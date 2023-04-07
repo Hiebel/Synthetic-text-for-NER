@@ -1,0 +1,47 @@
+T1	LIVB 4 15	jeune femme
+T2	TEMP 23 29	18 ans
+T3	CHEM 44 55	propranolol
+T4	DOSE 57 64	20mg/kg
+T5	TEMP 64 66	/j
+T6	MODE 72 82	voie orale
+T7	TEMP 99 104	4 ans
+T8	CHEM 122 157	anti angiotensine II glycorégulants
+T9	CHEM 163 179	protéofurosémide
+T10	CHEM 185 195	amiodarone
+T11	ANAT 245 267	artérielle fœto-rénale
+T12	ANAT 333 339	rénale
+T13	DISO 360 372	hypoglycémie
+T15	ANAT 458 469	péritonéale
+T16	LIVB 537 542	femme
+T17	PROC 569 603	chirurgie oeso-gastro œsophagienne
+T18	ANAT 579 603	oeso-gastro œsophagienne
+T19	PROC 606 631	intervention chirurgicale
+T20	PROC 654 685	anesthésie pelvienne antalgique
+T21	ANAT 665 685	pelvienne antalgique
+T22	PROC 692 775	rétablissement de continuité digestive intestinale peropératoire transoesophagienne
+T23	ANAT 721 775	digestive intestinale peropératoire transoesophagienne
+T24	PROC 790 844	laminectomie ombilicale biliopancréatique exploratrice
+T26	DEVI 873 881	résultat
+T27	MEAS 882 890	complété
+T28	DISO 907 928	troubles métaboliques
+T29	DISO 968 986	détresse digestive
+T30	PHEN 977 986	digestive
+T31	PROC 1016 1051	paragangliocytostimulation manuelle
+T32	PROC 1100 1121	enquête préopératoire
+T33	DISO 1191 1236	atteinte cardio-vasculo-nerveuse pancréatique
+T34	ANAT 1200 1236	cardio-vasculo-nerveuse pancréatique
+T35	DISO 1243 1263	maladie neurologique
+T36	DISO 1277 1300	neuroleptose ischémique
+T37	PROC 1463 1493	traitement médical substitutif
+T38	PROC 1534 1573	buphtaméthasone intraveineuse adjuvante
+T39	DISO 1758 1785	complication postopératoire
+T40	DISO 1814 1830	nécrose tumorale
+T41	DISO 1844 1857	métastatiques
+T42	PROC 1955 1984	analyses anatomopathologiques
+T43	MEAS 1994 2020	difficilement appréciables
+T44	PROC 2055 2086	techniques immunohistochimiques
+T45	LIVB 2268 2275	patient
+T46	PROC 2293 2344	curage ganglionnaire plexiculaire cœto-mésentérique
+T47	ANAT 2300 2344	ganglionnaire plexiculaire cœto-mésentérique
+T48	PROC 2355 2400	radiothérapie externe du plexus galactomateux
+T50	DISO 2421 2430	symptômes

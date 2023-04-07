@@ -1,0 +1,73 @@
+T1	LIVB 28 35	patient
+T2	PROC 72 96	cystectomie exploratrice
+T3	PROC 112 181	curage ganglionnaire ganglionnaire para-cerviculaire somatothoracique
+T4	ANAT 119 181	ganglionnaire ganglionnaire para-cerviculaire somatothoracique
+T5	PROC 183 190	TURPACE
+T6	TEMP 192 199	un mois
+T7	PROC 215 240	chimiothérapie palliative
+T8	MODE 245 255	voie orale
+T9	CHEM 266 276	cisplatine
+T10	CHEM 277 290	dexaméthasone
+T11	MEAS 309 317	stade 2b
+T12	DISO 391 401	pathologie
+T13	DISO 435 449	amaigrissement
+T14	MEAS 460 464	18kg
+T15	DISO 479 498	distension vulvaire
+T16	ANAT 490 498	vulvaire
+T17	TEMP 508 525	depuis deux jours
+T18	MEAS 535 547	plus intense
+T19	PROC 563 577	toucher rectal
+T20	ANAT 571 577	rectal
+T21	MEAS 587 608	profondément sensible
+T22	PROC 622 638	pression utérine
+T23	ANAT 631 638	utérine
+T24	MEAS 650 660	rapidement
+T25	DISO 708 719	métrorragie
+T26	DISO 726 748	sensibilité annexielle
+T27	ANAT 738 748	annexielle
+T28	DISO 758 771	particularité
+T29	DISO 798 823	envahissement placentaire
+T30	ANAT 812 823	placentaire
+T31	PROC 843 858	toucher rectale
+T32	ANAT 851 858	rectale
+T33	PROC 873 901	tomodensitométrie thoracique
+T34	ANAT 891 901	thoracique
+T35	DEVI 936 962	médiateurs radiographiques
+T36	Hospital 986 993	hôpital
+T37	DISO 1009 1020	traumatisme
+T38	TEMP 1031 1040	12 heures
+T39	LIVB 1047 1050	son
+T40	PROC 1051 1066	hospitalisation
+T41	MEAS 1106 1117	progressive
+T42	DISO 1127 1148	perte de connaissance
+T43	LIVB 1170 1176	enfant
+T44	PROC 1184 1193	transféré
+T45	Hospital 1203 1218	bloc opératoire
+T46	PROC 1235 1244	réhydraté
+T47	PROC 1250 1273	traité chirurgicalement
+T48	PROC 1286 1349	laparotomie para vertébro-ombilicale transoesophagienne élargie
+T50	PROC 1350 1354	TOOE
+T51	PROC 1357 1371	préopératoires
+T52	DISO 1401 1422	troubles métaboliques
+T53	DISO 1477 1513	lésions érythémateuses prurigineuses
+T54	MEAS 1546 1552	rapide
+T55	MEAS 1569 1578	violacées
+T56	DISO 1611 1623	prurigineuse
+T57	DISO 1650 1690	syndrome d'épanchement pleural liquidien
+T58	ANAT 1673 1690	pleural liquidien
+T59	DISO 1777 1806	volvulus kystique purulentiel
+T61	PROC 1967 1976	admission
+T62	LIVB 1981 1988	patient
+T63	Concept_Idea 2013 2031	état hémodynamique
+T64	DISO 2055 2080	insuffisance respiratoire
+T65	PHEN 2068 2080	respiratoire
+T66	PROC 2086 2116	échographie abdomino-pelvienne
+T67	ANAT 2098 2116	abdomino-pelvienne
+T68	ANAT 2155 2165	col utérin
+T69	DISO 2171 2198	épanchement intrapéritonéal
+T70	ANAT 2183 2198	intrapéritonéal
+T71	DISO 2204 2239	dilatation des cavités péritonéales
+T72	ANAT 2219 2239	cavités péritonéales
+T73	DISO 2263 2279	kystes biliaires
+T74	MEAS 2304 2308	3 cm
+T75	MEAS 2312 2315	1cm

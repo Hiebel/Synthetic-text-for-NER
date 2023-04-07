@@ -1,0 +1,46 @@
+T1	LIVB 28 35	patient
+T2	TEMP 68 72	2009
+T3	DISO 77 111	syndrome inflammatoire métabolique
+T4	DISO 113 129	IMC hypertrophié
+T5	DISO 133 160	hyperparathyroïdie primaire
+T6	DISO 162 213	anémie hypochrome microcytaire ferriprive chronique
+T7	DISO 219 246	hyponatrémie hypokaliémique
+T8	DISO 264 282	cholécystite aigue
+T9	PROC 288 319	échographie abdomino- pelvienne
+T10	ANAT 300 319	abdomino- pelvienne
+T11	LIVB 343 350	patient
+T12	PROC 358 369	exploration
+T14	ANAT 386 408	utérus utéro-myometrin
+T15	MEAS 418 422	6 cm
+T16	MEAS 427 431	2 cm
+T17	PROC 435 460	intervention chirurgicale
+T18	PROC 481 517	anesthésie veineuse intrarachidienne
+T20	PROC 523 554	incision pelvienne exploratrice
+T21	ANAT 532 554	pelvienne exploratrice
+T22	DISO 583 622	métastasie pulmonaire supérieure droite
+T23	ANAT 594 622	pulmonaire supérieure droite
+T24	Localization 616 622	droite
+T25	ANAT 636 665	sinus caverneux latéral droit
+T26	Localization 660 665	droit
+T27	DISO 702 718	maladie cœliaque
+T28	PROC 732 766	examen gynécologique préopératoire
+T29	DISO 787 805	appendice kystique
+T30	DISO 812 825	prétromateaux
+T31	PROC 841 871	radio-chimiothérapie adjuvante
+T32	CHEM 877 887	cisplatine
+T33	CHEM 890 901	vinblastine
+T34	CHEM 904 916	doxorubicine
+T35	PROC 929 950	bêtaméthasone pyloral
+T36	PROC 984 1007	technique thérapeutique
+T38	PROC 1084 1096	surveillance
+T39	PROC 1109 1139	traitement substitutif médical
+T40	CHEM 1152 1170	méthylprednisolone
+T41	DOSE 1172 1179	1 mg/kg
+T42	TEMP 1179 1189	/24 heures
+T43	CHEM 1202 1246	anti récepteurs de l’hémosurrénalect hormone
+T44	MODE 1259 1264	bolus
+T45	CHEM 1268 1281	dexaméthasone
+T46	DOSE 1284 1292	10 mg/kg
+T47	TEMP 1292 1294	/j
+T48	PROC 1334 1356	séance radiothérapique
+T49	Hospital 1394 1408	milieux locaux

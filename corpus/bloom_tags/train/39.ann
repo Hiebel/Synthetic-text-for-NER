@@ -1,0 +1,78 @@
+T1	LIVB 29 37	patiente
+T2	PROC 54 60	admise
+T3	Hospital 65 73	urgences
+T4	DISO 98 119	détresse respiratoire
+T5	PHEN 107 119	respiratoire
+T6	MEAS 134 141	modérée
+T7	DISO 157 164	dyspnée
+T8	MEAS 179 190	progressive
+T9	MEAS 200 211	persistante
+T10	Concept_Idea 247 259	état général
+T11	MEAS 270 273	3/5
+T12	DISO 370 395	broncho-pneumo-œsophagien
+T13	LIVB 415 423	patiente
+T14	DISO 498 520	symptômes dyspnéiaques
+T15	Hospital 568 576	urgences
+T16	PROC 582 620	traitement antibacillaire probabiliste
+T17	CHEM 633 646	métronidazole
+T18	CHEM 649 660	rifampicine
+T19	CHEM 663 673	isoniazide
+T20	DOSE 674 682	20 mg/kg
+T21	TEMP 682 684	/J
+T22	PROC 691 721	échographie abdomino-pelvienne
+T23	ANAT 703 721	abdomino-pelvienne
+T24	DISO 744 772	épanchement intra péritonéal
+T26	ANAT 815 841	quadrant supérohomolatéral
+T27	ANAT 863 888	musculaires mésentériques
+T28	DISO 981 1001	pancréatome kystique
+T29	PROC 1029 1043	chirurgicalisé
+T30	PROC 1050 1077	diagnostithromborésifférase
+T31	DISO 1136 1174	syndrome d'épanchement intrapéritonéal
+T32	ANAT 1159 1174	intrapéritonéal
+T33	Concept_Idea 1193 1209	grande abondance
+T34	MEAS 1228 1241	environ 10 cm
+T35	Concept_Idea 1245 1254	grand axe
+T36	DISO 1483 1498	symptomatologie
+T37	TEMP 1511 1522	trois jours
+T38	LIVB 1529 1532	son
+T39	PROC 1533 1548	hospitalisation
+T40	DISO 1583 1600	méningo-nodulaire
+T41	DISO 1616 1646	désorientationtemporo-spatiale
+T42	DISO 1696 1721	tuméfaction hypogastrique
+T43	ANAT 1708 1721	hypogastrique
+T44	MEAS 1733 1748	progressivement
+T45	Concept_Idea 1752 1763	consistance
+T46	Localization 1777 1794	bilatérale droite
+T47	MEAS 1807 1815	brunâtre
+T48	DISO 1845 1868	douleur pelvienne aiguë
+T49	ANAT 1853 1868	pelvienne aiguë
+T50	DISO 1944 1985	masse bourgeonnante angulo-sphinctérienne
+T51	MEAS 1993 1998	13 kg
+T52	LIVB 2002 2006	elle
+T53	PROC 2041 2063	mesures thérapeutiques
+T54	DISO 2195 2214	polynucléose virale
+T55	DISO 2261 2267	tumeur
+T56	PROC 2273 2282	admission
+T57	Hospital 2286 2293	urgence
+T58	LIVB 2297 2304	patient
+T59	Concept_Idea 2335 2353	plan hémodynamique
+T60	PHEN 2357 2369	respiratoire
+T61	DISO 2376 2433	paralysie des muscles fléchisseurs du périmètre hépatique
+T62	ANAT 2390 2433	muscles fléchisseurs du périmètre hépatique
+T63	DISO 2439 2454	atteinte rénale
+T64	ANAT 2448 2454	rénale
+T65	PROC 2458 2473	examen clinique
+T67	MEAS 2525 2537	bien limitée
+T68	Concept_Idea 2546 2562	contours interne
+T69	MEAS 2563 2571	régulier
+T70	ANAT 2587 2620	greffon vésiculaire latéro-utérin
+T71	Concept_Idea 2633 2639	taille
+T72	DISO 2667 2683	signes cliniques
+T73	DISO 2716 2728	métrorragies
+T74	DISO 2738 2766	anomalies gynéco-biologiques
+T75	DEVI 2771 2791	cathéter obstétrical
+T76	PROC 2822 2844	TDM abdomino-pelvienne
+T77	ANAT 2826 2844	abdomino-pelvienne
+T78	DISO 2863 2899	kyste hydatique lithiasique purulent
+T79	ANAT 2919 2934	liquide pélvien
+T80	ANAT 2956 2976	structures urinaires

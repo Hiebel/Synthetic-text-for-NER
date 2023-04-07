@@ -1,0 +1,98 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 24 30	13 ans
+T3	PROC 35 41	admise
+T4	Hospital 46 68	urgences chirurgicales
+T5	DISO 88 112	nécrose cutanéo-muqueuse
+T6	ANAT 96 112	cutanéo-muqueuse
+T7	DISO 162 183	dysménorrhée primaire
+T8	DISO 240 255	symptomatologie
+T9	TEMP 266 272	2 mois
+T10	PROC 283 298	hospitalisation
+T11	LIVB 308 312	elle
+T12	DISO 339 361	anomalies menstruelles
+T13	DISO 377 393	prolapsus utérin
+T14	ANAT 387 393	utérin
+T15	LIVB 414 420	enfant
+T16	PROC 456 473	colpo-mastectomie
+T17	PROC 479 508	contraception progesteronnone
+T18	CHEM 493 508	progesteronnone
+T19	DOSE 514 520	1mg/kg
+T20	PROC 525 539	examen initial
+T21	LIVB 553 561	patiente
+T22	Concept_Idea 576 593	plan psychomoteur
+T23	DISO 634 655	sensibilité pelvienne
+T24	ANAT 646 655	pelvienne
+T25	DISO 674 694	atteinte placentaire
+T26	ANAT 683 694	placentaire
+T27	DEVI 707 747	boudin d'invagination recto-sigmoïdienne
+T28	ANAT 729 747	recto-sigmoïdienne
+T29	PROC 760 789	incision scannopéricellulaire
+T30	MEAS 798 810	environ 1 cm
+T31	Concept_Idea 814 823	grand axe
+T32	ANAT 848 862	greffon rectal
+T33	MEAS 884 906	moins de 5 centimètres
+T34	Concept_Idea 910 919	grand axe
+T35	Concept_Idea 928 943	plan biologique
+T36	DISO 960 976	hyperleucocytose
+T37	MEAS 979 996	11300 élément/mm3
+T38	PROC 1001 1028	numération formule sanguine
+T39	PROC 1039 1054	globules blancs
+T40	MEAS 1057 1076	40000 éléments/mm 3
+T41	PROC 1078 1105	polynucléaires neutrophiles
+T42	MEAS 1108 1126	20000 éléments/mm3
+T43	PROC 1128 1138	plaquettes
+T44	MEAS 1141 1159	30000 éléments/mm3
+T45	PROC 1162 1181	Hémoglobine glyquée
+T46	MEAS 1184 1186	7%
+T47	PROC 1188 1207	protéine-C réactive
+T48	MEAS 1209 1220	10 000 UI/l
+T49	PROC 1222 1241	ferritinémie totale
+T50	PROC 1255 1277	ferritinémie conjuguée
+T51	PROC 1294 1315	échographie ovarienne
+T52	ANAT 1306 1315	ovarienne
+T53	DISO 1343 1367	mégacôlon hypertrophiées
+T55	DISO 1819 1845	localisations néoplasiques
+T56	DISO 1883 1918	hypertrophie endométriale cervicale
+T57	ANAT 1896 1918	endométriale cervicale
+T58	PROC 1975 2005	traitement médical substitutif
+T59	CHEM 2016 2029	dexaméthasone
+T60	CHEM 2033 2041	cortisol
+T61	LIVB 2043 2047	Elle
+T62	PROC 2065 2095	complément immunohistochimique
+T63	PROC 2097 2102	ChIRP
+T64	DISO 2123 2144	épiderme érythémateux
+T65	PHEN 2150 2173	réflexes ostéo-toniques
+T66	ANAT 2159 2173	ostéo-toniques
+T67	ANAT 2197 2218	parenchyme épithélial
+T68	PROC 2254 2274	exérèse chirurgicale
+T69	PROC 2280 2297	anesthésie locale
+T70	PROC 2303 2354	curage ganglionnaire pré-anesthésique péritérionale
+T71	ANAT 2310 2354	ganglionnaire pré-anesthésique péritérionale
+T72	PROC 2369 2400	radiothérapie externe adjuvante
+T73	ANAT 2422 2429	pelvien
+T74	TEMP 2440 2458	2 premières heures
+T75	PROC 2461 2476	hospitalisation
+T76	PROC 2496 2522	intervention peropératoire
+T77	DISO 2559 2574	lésion tumorale
+T78	DISO 2584 2598	tumeur maligne
+T79	PROC 2631 2648	ponction pleurale
+T80	ANAT 2640 2648	pleurale
+T81	DISO 2860 2911	adénopathie surrénalienne hétérotopique lithiasique
+T82	ANAT 2872 2911	surrénalienne hétérotopique lithiasique
+T83	Localization 2922 2930	centrale
+T84	DISO 2936 2981	nodule pharyngo œsophagien chondromatolytique
+T85	TEMP 2991 3004	depuis 2 mois
+T86	DISO 3040 3097	tuméfaction jugulo-pulmonaire basithoracique homolatérale
+T88	Localization 3085 3097	homolatérale
+T90	Concept_Idea 3128 3134	volume
+T91	MEAS 3144 3152	violacée
+T92	PROC 3188 3221	scannographie abdomino-thoracique
+T93	ANAT 3202 3221	abdomino-thoracique
+T94	DISO 3246 3347	masse arrondie bourgeonnante tissulaire pariétale médiastinothoracique sus-rénalo-lymphatique altérée
+T95	DISO 3371 3392	niveaux hydro-aérique
+T96	ANAT 3411 3447	sinus cavités thoraciques cardiaques
+T97	DISO 3481 3496	pathognomonique
+T98	PROC 3501 3534	imagerie par résonance magnétique
+T99	PROC 3536 3552	IRM encéphalique
+T100	PROC 3568 3603	contractions utérines artificielles
+T101	ANAT 3581 3603	utérines artificielles

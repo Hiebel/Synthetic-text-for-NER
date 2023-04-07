@@ -1,0 +1,26 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	3 ans
+T3	DISO 41 65	antécédent pathologiques
+T4	MEAS 66 74	notables
+T5	PROC 76 81	admis
+T6	Hospital 86 94	urgences
+T7	DISO 104 132	douleurs abdominales fébrile
+T8	ANAT 113 124	abdominales
+T9	PROC 136 151	examen clinique
+T10	PROC 157 166	recherche
+T11	DISO 173 194	détresse respiratoire
+T12	PHEN 182 194	respiratoire
+T13	Concept_Idea 208 227	pression artérielle
+T14	ANAT 217 227	artérielle
+T15	MEAS 230 240	70/40 mmhg
+T16	DEVI 249 272	auscultateur pulmonaire
+T17	ANAT 262 272	pulmonaire
+T18	PROC 286 313	numération formule sanguine
+T19	MEAS 320 327	normale
+T20	PROC 329 349	taux de prothrombine
+T21	MEAS 352 355	80%
+T22	PROC 358 377	protéine-C-réactive
+T23	PROC 379 382	CRP
+T24	PROC 385 400	globules blancs
+T25	PROC 404 414	plaquettes
+T26	MEAS 429 436	normaux

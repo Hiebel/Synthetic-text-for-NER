@@ -1,0 +1,16 @@
+T1	LIVB 20 28	patiente
+T2	DISO 49 74	antécédents
+T3	Concept_Idea 49 74	antécédents
+T4	MEAS 75 87	particuliers
+T5	TEMP 103 115	depuis
+T6	DISO 120 129	céphalées
+T7	DISO 136 144	insomnie
+T8	DISO 162 170	asthénie
+T9	PROC 174 191	anamnèse
+T10	DISO 213 231	syndrome
+T11	PROC 254 264	diagnostic
+T12	DISO 361 384	stress
+T13	TEMP 368 384	post-traumatique
+T14	Concept_Idea 398 411	psychomoteurs
+T15	LIVB 422 425	ses
+T16	DISO 426 452	difficultés

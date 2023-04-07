@@ -1,0 +1,38 @@
+T1	LIVB 23 34	jeune femme
+T2	DISO 256 269	consanguinité
+T3	PROC 303 322	bilan préopératoire
+T4	PROC 341 350	admission
+T5	Hospital 355 376	urgences pédiatriques
+T6	PROC 386 414	prise en charge chirurgicale
+T7	PROC 420 443	traitement anxiolytique
+T8	CHEM 431 443	anxiolytique
+T9	DOSE 445 449	5 mg
+T10	TEMP 449 453	/24h
+T11	PROC 458 473	examen clinique
+T12	DISO 485 498	particularité
+T13	ANAT 508 520	conjonctives
+T14	MEAS 521 528	perçues
+T15	DISO 632 649	syndrome occlusif
+T16	DISO 696 745	pâleur cutanéo-muqueuse érythémato-pseudo-cutanée
+T17	DISO 792 826	tubercule leucotrachéale primitive
+T18	PROC 831 866	palpation cervico-thoraco-abdominal
+T19	DISO 893 899	fièvre
+T20	MEAS 902 906	38°C
+T21	DISO 921 930	dysphagie
+T22	DISO 944 965	vomissements fébriles
+T23	DISO 1007 1029	troubles psychomoteurs
+T24	DISO 1042 1073	déficit sensitivomoteur général
+T25	PROC 1079 1126	imagerie par résonance magnétique fonctionnelle
+T26	PROC 1128 1131	IRM
+T27	DISO 1149 1205	hyperviscération réactionnelle thyroidienne hyperalgique
+T28	DISO 1229 1271	lésion néoplasique mésenchymateuse maligne
+T29	Localization 1293 1323	partie postéro-latérale droite
+T30	ANAT 1338 1375	quadrant inféro-septal antero-externe
+T31	DISO 1526 1569	laryngolaryngose acromégalotide congénitale
+T32	ANAT 1591 1618	trappes auditives centrales
+T33	PROC 1681 1697	examen somatique
+T34	DISO 1709 1718	anomalies
+T35	DISO 1739 1767	bruits hydro électrolytiques
+T36	DISO 1774 1828	sensations délirantes dysfonctionnelles tonicapulaires
+T37	PROC 1856 1871	hospitalisation
+T38	PROC 1893 1923	séances polyvalentes électives

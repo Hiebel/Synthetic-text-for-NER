@@ -1,0 +1,24 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	13 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 79 94	examen clinique
+T6	PROC 99 108	admission
+T7	Concept_Idea 126 144	tension artérielle
+T8	ANAT 134 144	artérielle
+T9	MEAS 147 159	170/100 mmhg
+T10	PHEN 165 183	fonction cardiaque
+T11	ANAT 174 183	cardiaque
+T12	MEAS 184 193	conservée
+T13	Concept_Idea 200 205	poids
+T14	MEAS 209 214	16 kg
+T15	Concept_Idea 224 230	taille
+T16	MEAS 234 244	1 mètre 50
+T17	PROC 249 268	pression artérielle
+T18	ANAT 258 268	artérielle
+T19	PROC 270 273	PNI
+T20	CHEM 300 307	oxygène
+T21	DEVI 315 338	sonde pneumo-pulmonaire
+T23	Localization 363 385	tiers supéro-supérieur
+T24	MEAS 430 440	120/70mmHg
+T25	MEAS 444 454	85/104mmHg

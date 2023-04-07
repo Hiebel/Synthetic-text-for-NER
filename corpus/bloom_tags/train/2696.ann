@@ -1,0 +1,33 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	PHEN 42 51	grossesse
+T4	PROC 56 62	suivie
+T5	PROC 82 106	anesthésie préopératoire
+T6	DISO 126 167	rupture prématurée des membres inférieurs
+T7	ANAT 149 167	membres inférieurs
+T8	PROC 186 201	hospitalisation
+T9	Hospital 205 235	service d'accueil des urgences
+T10	DISO 241 272	perte de connaissance fébricule
+T11	DISO 301 309	apyrexie
+T12	PROC 314 328	bilan clinique
+T13	DISO 344 356	hyperthermie
+T14	MEAS 368 372	38°C
+T15	DISO 375 386	polypnéique
+T16	MEAS 389 402	28 cycles/min
+T17	DISO 417 448	diarrhée purulente hémorragique
+T18	MEAS 463 469	rapide
+T19	DISO 511 522	traumatique
+T20	DISO 528 571	syndrome d'épanchement liquidien péritonéal
+T21	ANAT 551 571	liquidien péritonéal
+T22	DISO 615 656	sténose artériolo-veineuse intracrânienne
+T23	ANAT 623 656	artériolo-veineuse intracrânienne
+T24	DISO 676 695	défense intestinale
+T25	PROC 717 732	prise en charge
+T26	Hospital 737 745	urgences
+T27	DISO 766 787	détresse respiratoire
+T28	PHEN 775 787	respiratoire
+T29	DISO 800 822	localisations malignes
+T30	MEAS 842 857	plus fréquentes
+T31	DISO 974 997	symptômes pathologiques
+T32	PROC 1097 1112	examen physique
+T33	ANAT 1265 1285	muqueuses cervicales

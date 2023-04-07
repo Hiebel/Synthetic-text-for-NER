@@ -1,0 +1,33 @@
+T1	LIVB 19 26	patient
+T2	DISO 46 69	antécédent pathologique
+T3	MEAS 70 77	notable
+T4	PROC 83 92	admission
+T5	Hospital 96 114	service d'urologie
+T6	Hospital 118 138	CHU Hassan II de Fès
+T7	PROC 165 195	échographie abdomino-pélvienne
+T8	ANAT 177 195	abdomino-pélvienne
+T9	DISO 211 233	épanchement péritonéal
+T10	ANAT 223 233	péritonéal
+T11	ANAT 253 271	membres inférieurs
+T12	PROC 310 347	tomodensitométrie abdomino- pelvienne
+T13	ANAT 328 347	abdomino- pelvienne
+T14	LIVB 372 378	enfant
+T15	PROC 384 418	anesthésie pelvienne locorégionale
+T17	PROC 420 434	per-opératoire
+T19	ANAT 499 518	veineuse ischémique
+T20	DISO 592 601	fistulisé
+T21	DISO 605 616	vascularisé
+T22	Localization 725 731	moitié
+T23	ANAT 738 761	large vésicule biliaire
+T24	MEAS 773 788	progressivement
+T25	Concept_Idea 792 798	taille
+T26	PROC 834 866	traitement thérapeutique curatif
+T27	CHEM 894 952	médicaments vasoactifs/anti-inflammatoires non stéroïdiens
+T28	CHEM 966 999	anti thrombolytiques progestatifs
+T29	DISO 1050 1073	symptômes neurologiques
+T30	TEMP 1083 1103	depuis deux semaines
+T31	DISO 1119 1136	céphalées fébrile
+T32	MEAS 1151 1162	progressive
+T33	DISO 1179 1198	douleurs ovariennes
+T34	ANAT 1188 1198	ovariennes
+T35	MEAS 1220 1233	plus intenses

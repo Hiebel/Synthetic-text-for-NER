@@ -1,0 +1,36 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	PROC 42 46	reçu
+T4	Hospital 50 65	bloc opératoire
+T5	TEMP 69 84	22 octobre 2012
+T6	PROC 90 114	anesthésie locorégionale
+T7	ANAT 101 114	locorégionale
+T8	PROC 118 170	intubation ventriculo-bronchique trans-oesophagienne
+T9	ANAT 129 170	ventriculo-bronchique trans-oesophagienne
+T10	PROC 172 177	TOTO2
+T11	PROC 186 206	exérèse chirurgicale
+T12	DISO 213 242	polynucléaires érythémateuses
+T13	TEMP 252 265	depuis 6 mois
+T14	DISO 277 291	amaigrissement
+T15	MEAS 302 307	10 kg
+T16	MEAS 323 334	brutalement
+T17	Concept_Idea 338 344	volume
+T18	MEAS 376 384	notables
+T19	PROC 386 394	consulte
+T20	Hospital 399 424	urgences ophtalmologiques
+T21	DISO 456 470	ictère fébrile
+T22	CHEM 500 519	Valproate de sodium
+T23	DOSE 521 529	20 mg/kg
+T24	MODE 529 539	voie orale
+T25	TEMP 540 555	pendant 7 jours
+T26	MODE 572 590	voie intraveineuse
+T27	CHEM 605 618	antiseptiques
+T28	CHEM 621 635	Gentaméthasone
+T29	CHEM 638 649	Cyclosérine
+T30	CHEM 654 666	Pyrazinamide
+T31	DISO 739 765	affection cutanéo-muqueuse
+T32	PROC 798 816	traitement curatif
+T33	PROC 823 853	prise médicamenteuse adjuvante
+T34	MEAS 947 955	évidente
+T35	DISO 965 980	symptomatologie
+T36	DISO 1068 1083	ictère purulent

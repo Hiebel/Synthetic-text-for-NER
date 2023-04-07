@@ -1,0 +1,45 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 69	admise
+T3	Hospital 73 103	service d'accueil des urgences
+T4	DISO 130 162	déficit sensitivomotrice globale
+T5	TEMP 172 189	depuis trois mois
+T6	DISO 205 220	polyarthralgies
+T7	ANAT 249 267	membres inférieurs
+T8	DISO 290 301	cranialgies
+T9	DISO 315 321	fièvre
+T10	MEAS 333 344	40° Celsius
+T11	CHEM 350 363	Bêtaméthasone
+T12	MEAS 379 394	progressivement
+T13	Concept_Idea 398 404	volume
+T14	DISO 427 444	symptômes fébrile
+T15	LIVB 479 483	elle
+T16	DISO 513 542	dégnations sensitivo-mutrices
+T17	MEAS 557 564	modérée
+T18	PROC 640 658	traitement médical
+T19	DOSE 664 670	1mg/kg
+T20	MODE 715 725	voie orale
+T21	CHEM 736 755	sulféno-méthoxazole
+T22	LIVB 878 886	patiente
+T23	DEVI 1123 1131	stérilet
+T24	MEAS 1369 1388	de façon insidieuse
+T25	PROC 1510 1532	recherche chirurgicale
+T26	PROC 1717 1740	prélèvements biopsiques
+T27	DISO 1782 1821	adénocarcinome pléomorphe inflammatoire
+T28	ANAT 1835 1851	ombilic grêlique
+T29	MEAS 2422 2433	60*30*20 cm
+T30	MEAS 2437 2448	90*45*35 cm
+T31	ANAT 2482 2501	parois intestinales
+T32	DISO 2597 2614	carcines malignes
+T33	Concept_Idea 2619 2628	caractère
+T34	DISO 2635 2641	tumeur
+T35	MEAS 2673 2684	progressive
+T36	PHEN 2701 2708	appétit
+T37	LIVB 2730 2737	patient
+T38	MEAS 2805 2815	rapidement
+T39	Concept_Idea 2819 2825	volume
+T40	DISO 2876 2892	signes cliniques
+T41	PROC 2907 2943	tomodensitométrie abdomino-pelvienne
+T42	ANAT 2925 2943	abdomino-pelvienne
+T43	ANAT 3005 3019	intestin grêle
+T44	DISO 3071 3093	épanchement péritonéal
+T45	ANAT 3083 3093	péritonéal

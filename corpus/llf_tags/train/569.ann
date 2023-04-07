@@ -1,0 +1,17 @@
+T1	LIVB 127 129	sa
+T2	PROC 130 150	consultation externe
+T3	PROC 183 203	prise médicamenteuse
+T4	PROC 240 247	traités
+T5	PROC 261 289	consultation ophtalmologique
+T6	TEMP 300 314	il y a 10 mois
+T7	LIVB 322 325	son
+T8	LIVB 326 330	père
+T9	LIVB 380 386	épouse
+T10	LIVB 405 408	lui
+T11	LIVB 415 421	enfant
+T12	LIVB 500 502	Sa
+T13	LIVB 503 511	patiente
+T14	DISO 596 623	troubles menstruels tardifs
+T15	LIVB 642 645	ses
+T16	LIVB 653 660	parents
+T17	LIVB 762 767	notre

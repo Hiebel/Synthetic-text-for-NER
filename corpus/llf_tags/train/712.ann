@@ -1,0 +1,79 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 24 30	14 ans
+T3	PHEN 43 63	grossesse monofœtale
+T4	PROC 68 74	suivie
+T5	PROC 94 130	circulation extracorporelle assistée
+T6	DISO 146 170	syndrome polymalformatif
+T7	TEMP 180 193	depuis 3 mois
+T8	Concept_Idea 229 241	état général
+T9	DISO 250 276	signes neuropsychiatriques
+T10	DISO 287 315	douleurs abdomino-pelviennes
+T11	ANAT 296 315	abdomino-pelviennes
+T12	DISO 339 362	agitation psychomotrice
+T13	PROC 416 432	bilan biologique
+T14	DISO 452 463	neurolepsie
+T15	DISO 470 496	souffrance fœtale primaire
+T16	DISO 513 553	symptomatologie obstétricale congénitale
+T17	DISO 576 582	tumeur
+T18	PROC 587 609	contrôle gynécologique
+T19	DISO 644 664	hypertriglycéridémie
+T20	MEAS 667 677	155 mmol/l
+T21	LIVB 689 706	belle jeune fille
+T22	PROC 767 776	admission
+T23	MEAS 926 941	progressivement
+T24	Concept_Idea 945 975	vitesse de croissance clinique
+T26	MEAS 986 1002	55 cm /24 heures
+T27	PROC 1006 1024	étude histologique
+T28	DISO 1051 1093	adénomégalies cervicales hypoéchorragiques
+T29	ANAT 1122 1143	quadrants céphaliques
+T30	DISO 1185 1252	lésions hétéronodulaires érythémato-thyroïdiennes distales kystique
+T31	MEAS 1276 1279	90%
+T32	MEAS 1283 1286	40%
+T33	MEAS 1311 1320	50 x 50mm
+T34	DEVI 1405 1433	papules tissues chirurgicaux
+T35	DISO 1449 1506	remaniements lymphoplasmocytaires liquidiens exophytiques
+T36	ANAT 1534 1553	épiploies fundiques
+T37	ANAT 1568 1588	membranes urétérales
+T38	DISO 1620 1658	microlithes hydrophobes inflammatoires
+T39	ANAT 1679 1696	parois digestives
+T40	ANAT 1704 1723	orifices herniaires
+T41	PROC 1728 1755	numération formule sanguine
+T42	MEAS 1792 1801	336 UIg/L
+T44	PROC 1977 2003	anticoagulation préventive
+T45	PROC 2024 2049	néphrectomie exploratrice
+T46	PROC 2063 2101	hystérectomie totale écho-endoscopique
+T47	PROC 2135 2280	annexectomie antéro-exentéropelvienne endovaginale transoesophagienne intramédullaire anterieure postéro-ventriculaire profonde scanno-guidonisée
+T48	MEAS 2322 2333	2700 gramme
+T49	PHEN 2345 2365	grossesse monofœtale
+T50	PROC 2370 2376	suivie
+T51	PROC 2396 2423	traitement médical adjuvant
+T52	CHEM 2425 2437	amoxicilline
+T53	CHEM 2439 2457	acide clavulanique
+T54	CHEM 2459 2489	pénicilline acide clavulanique
+T55	PROC 2495 2514	bilan préopératoire
+T56	LIVB 2548 2556	patiente
+T57	PROC 2579 2617	TDM cervico-thoraco abdomino-pelvienne
+T58	ANAT 2583 2617	cervico-thoraco abdomino-pelvienne
+T59	PROC 2632 2658	scanner du rachis cervical
+T60	ANAT 2643 2658	rachis cervical
+T61	Concept_Idea 2673 2699	aspect anatomopathologique
+T63	Localization 2841 2850	bilatéral
+T64	ANAT 2889 2919	surface postérieure thoracique
+T65	ANAT 2939 2987	parties molles supérieure postérieures pelvienne
+T66	Localization 2965 2977	postérieures
+T67	DISO 3055 3081	signes neuropsychologiques
+T68	DISO 3099 3122	déficit sensitivomoteur
+T69	DISO 3129 3143	trouble moteur
+T70	DISO 3153 3177	complexe polymalformatif
+T71	PROC 3191 3219	prise en charge chirurgicale
+T72	LIVB 3316 3324	patiente
+T73	LIVB 3354 3360	enfant
+T74	TEMP 3368 3373	3 ans
+T75	DISO 3423 3442	tabagisme chronique
+T76	LIVB 3494 3497	son
+T77	PROC 3498 3507	admission
+T78	LIVB 3586 3593	dernier
+T79	CHEM 3619 3634	produit ligneux
+T80	DISO 3659 3676	épisodes morbides
+T81	LIVB 3783 3793	nouveau-né
+T82	PROC 3959 4000	contraception hormonale substitutionnelle

@@ -1,0 +1,82 @@
+T1	LIVB 3 14	jeune homme
+T2	TEMP 18 24	22 ans
+T3	Concept_Idea 30 41	antécédents
+T4	MEAS 42 54	particuliers
+T5	DISO 71 96	masse du plexus caverneux
+T6	ANAT 80 96	plexus caverneux
+T7	PROC 106 123	touchers pelviens
+T8	ANAT 115 123	pelviens
+T9	MEAS 124 133	sensibles
+T10	TEMP 143 159	depuis deux mois
+T11	PROC 163 178	examen clinique
+T12	PROC 183 192	admission
+T13	LIVB 209 216	patient
+T14	MEAS 220 223	bon
+T15	Concept_Idea 224 236	état général
+T16	DISO 238 249	polypnéique
+T17	MEAS 252 265	28 cycles/min
+T18	PHEN 272 290	tension artérielle
+T19	ANAT 280 290	artérielle
+T20	MEAS 293 302	90/60mmhg
+T21	LIVB 304 306	Il
+T22	Hospital 326 356	service d'accueil des urgences
+T23	PROC 373 397	scanner abdomino-pelvien
+T24	ANAT 381 397	abdomino-pelvien
+T25	DISO 414 457	masse hypo-vascularisée tissulaire arrondie
+T26	MEAS 467 472	70 cm
+T27	MEAS 477 481	35cm
+T28	Concept_Idea 484 493	épaisseur
+T29	CHEM 521 532	propranolol
+T30	PROC 536 573	échographie vésiculaire transfixiante
+T31	ANAT 548 573	vésiculaire transfixiante
+T32	DISO 587 625	masse lithiasique pléomorphe hypodense
+T33	MEAS 634 644	12/8/10 cm
+T34	ANAT 661 676	parois utérines
+T35	ANAT 697 716	jonction iléocæcale
+T36	DISO 735 770	carcinose rétrovésicale péritonéale
+T37	ANAT 745 770	rétrovésicale péritonéale
+T38	DISO 787 812	métastase sous épiploïque
+T39	Localization 797 801	sous
+T40	DISO 852 875	localisations tumorales
+T41	PROC 903 933	TDM thoraco-abdomino-pelvienne
+T42	ANAT 907 933	thoraco-abdomino-pelvienne
+T43	PROC 947 980	imagerie par résonance magnétique
+T44	PROC 982 985	IRM
+T45	DISO 1006 1087	volumineuse masse gélatineuse hétérogène latéroutérine basithoracique sécrétrante
+T46	MEAS 1099 1109	rapidement
+T47	Concept_Idea 1113 1119	volume
+T48	ANAT 1142 1176	parties molles cervico-thoraciques
+T49	ANAT 1198 1217	cordons thoraciques
+T50	DEVI 1253 1275	marqueurs progestatifs
+T51	ANAT 1309 1323	surrénalectère
+T52	ANAT 1338 1352	replis cutanés
+T53	MEAS 1362 1383	légèrement hyperdense
+T54	DISO 1404 1409	masse
+T55	ANAT 1433 1448	méso-tendineuse
+T56	ANAT 1470 1479	ovarienne
+T57	DISO 1500 1524	maladie thromboembolique
+T58	LIVB 1544 1550	enfant
+T59	DISO 1568 1581	thrombophilie
+T60	DISO 1591 1612	syndrome hypertensive
+T61	MEAS 2114 2120	fortes
+T62	Concept_Idea 2138 2147	caractère
+T63	DISO 2273 2320	lésions prurigineuses érythémato-bourgeonnantes
+T64	ANAT 2347 2373	grande courbure abdominale
+T65	DISO 2420 2439	symptômes digestifs
+T66	PROC 2522 2544	séjour scannographique
+T67	DISO 2573 2601	micromégaloprolymphoïdiennes
+T68	ANAT 2655 2665	pulmonaire
+T69	DISO 2766 2793	complications hémorragiques
+T70	ANAT 2812 2827	intrapéritonéal
+T71	DISO 2871 2883	hyperthermie
+T72	DISO 2891 2936	adénopathies du plexus phréno-parathyroïdiens
+T74	PROC 2940 2971	échographie abdomino- pelvienne
+T75	ANAT 2952 2971	abdomino- pelvienne
+T77	ANAT 3000 3024	liquidien périthoracique
+T78	ANAT 3040 3069	artère rénale supra hépatique
+T79	Localization 3054 3059	supra
+T80	MEAS 3079 3083	32mm
+T81	Concept_Idea 3087 3096	grand axe
+T82	DISO 3117 3158	métanéphrine-hydronéphrine carcinomateuse
+T83	PROC 3163 3190	bilan d'extension axillaire
+T84	MEAS 3204 3211	négatif

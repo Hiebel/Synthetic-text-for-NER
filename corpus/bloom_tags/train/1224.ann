@@ -1,0 +1,60 @@
+T1	LIVB 28 35	patient
+T2	PROC 60 83	traité chirurgicalement
+T3	DISO 90 116	pneumo-pleurésie purulente
+T4	MODE 122 132	voie orale
+T5	DOSE 143 149	500 mg
+T6	CHEM 152 183	amoxicilline-acide clavulanique
+T7	DOSE 195 197	2g
+T8	CHEM 201 214	bêtaméthasone
+T9	PROC 228 262	radiothérapie palliative adjuvante
+T10	MEAS 276 280	deux
+T11	DEVI 281 301	laser cœlioscopiques
+T12	ANAT 318 349	fosse pariétale sous ombilicale
+T13	Localization 334 338	sous
+T14	PROC 356 425	anastomose artériolo-vésicale péritonéale latérale transoesophaginale
+T15	ANAT 367 425	artériolo-vésicale péritonéale latérale transoesophaginale
+T16	MEAS 442 450	complète
+T17	DISO 457 478	détresse respiratoire
+T18	PHEN 466 478	respiratoire
+T19	DISO 501 519	décollement séreux
+T20	DISO 526 551	récarcissement épiploïque
+T21	ANAT 541 551	épiploïque
+T22	DISO 570 594	symptomatologie clinique
+T23	DISO 612 650	syndrome d'épanchement intrapéritonéal
+T24	ANAT 635 650	intrapéritonéal
+T25	PROC 673 705	intervention anatomopathologique
+T26	LIVB 735 743	patiente
+T27	DISO 753 784	complications thromboemboliques
+T28	ANAT 864 877	pleuro-cæcale
+T29	DISO 949 978	pulvérisation pyélocalicielle
+T30	PROC 1013 1021	biopsies
+T31	DISO 1189 1206	douleur pelvienne
+T32	ANAT 1197 1206	pelvienne
+T33	MEAS 1216 1225	spacieuse
+T34	MEAS 1237 1252	progressivement
+T35	Concept_Idea 1256 1262	volume
+T36	MEAS 1321 1326	40° C
+T37	PROC 1330 1368	scanner abdomino-pelvien préopératoire
+T38	ANAT 1338 1368	abdomino-pelvien préopératoire
+T40	ANAT 1489 1516	sinus sphéno-caudalo-utérin
+T41	MEAS 1526 1530	3 cm
+T42	Concept_Idea 1534 1543	grand axe
+T43	PROC 1577 1586	injection
+T44	CHEM 1590 1599	prolapsin
+T45	Concept_Idea 1613 1621	contours
+T46	MEAS 1626 1635	régulière
+T47	ANAT 1665 1677	choroïdienne
+T48	PROC 1754 1788	imagerie par résonnance magnétique
+T49	PROC 1790 1793	IRM
+T50	DISO 1808 1841	masse hyperintense interstitielle
+T51	ANAT 1871 1905	muscles fléchisseurs cerviculaires
+T52	DISO 1920 1958	sténose hypokinétique intrarachidienne
+T53	ANAT 1928 1958	hypokinétique intrarachidienne
+T54	DISO 1979 1996	lésions kystiques
+T55	PROC 2036 2061	étude immunohistochimique
+T56	DISO 2085 2093	tumorale
+T57	DISO 2110 2133	adénocarcinome pédiculé
+T58	LIVB 2199 2206	patient
+T59	PROC 2225 2259	radiothérapie palliative adjuvante
+T60	TEMP 2263 2278	post-opératoire
+T61	PROC 2286 2316	traitement médical substitutif

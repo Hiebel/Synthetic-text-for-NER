@@ -1,0 +1,21 @@
+T1	LIVB 28 35	patient
+T2	DISO 82 114	hépatite chronique cholestatique
+T3	TEMP 124 137	depuis 10 ans
+T4	DISO 162 195	polyarthrite prurigineuse fébrile
+T5	ANAT 225 257	membre inférieur supérieur droit
+T6	Localization 252 257	droit
+T7	DISO 271 309	syndrome d'épanchement intrapéritonéal
+T8	ANAT 294 309	intrapéritonéal
+T9	LIVB 342 350	patiente
+T10	DISO 374 396	hypotension artérielle
+T11	ANAT 386 396	artérielle
+T12	TEMP 405 430	quelques jours auparavant
+T13	DISO 483 495	prurigineuse
+T14	MEAS 507 519	spontanément
+T15	Concept_Idea 523 529	volume
+T16	CHEM 674 690	antiœstrogénique
+T17	PROC 772 793	biopsie transfixiante
+T18	DISO 822 863	dermite granulomateuse polymorphe maligne
+T19	PROC 880 906	examen anatomopathologique
+T20	PROC 913 938	étude immunohistochimique
+T21	DISO 1091 1126	lymphangioendothelial histiocytaire

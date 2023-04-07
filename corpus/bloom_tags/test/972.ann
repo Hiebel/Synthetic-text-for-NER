@@ -1,0 +1,16 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 17 25	deux ans
+T3	LIVB 46 48	sa
+T4	LIVB 49 61	petite-fille
+T5	DISO 109 128	traumatisme crânien
+T6	PROC 134 152	traitement médical
+T7	CHEM 163 174	nicardipril
+T8	DISO 211 235	complications ischémique
+T9	DEVI 300 329	bandelette transoesophagienne
+T10	PROC 345 356	hospitalisé
+T11	Hospital 361 382	urgences pédiatriques
+T12	DISO 454 480	détresse cardio-vasculaire
+T13	PHEN 463 480	cardio-vasculaire
+T14	MEAS 509 522	plus marquées
+T15	LIVB 1132 1139	enfants
+T16	DISO 1155 1179	néphropathie traumatique

@@ -1,0 +1,58 @@
+T1	LIVB 4 12	Mlle R.K
+T2	MEAS 50 51	3
+T3	LIVB 52 59	enfants
+T4	PROC 64 70	suivis
+T5	PROC 101 111	consultait
+T6	Hospital 116 152	urgences gynécologiques pédiatriques
+T7	PHEN 165 186	grossesse monofoetale
+T8	MEAS 213 216	mal
+T9	PROC 217 223	suivie
+T10	Concept_Idea 245 276	antécédents médico-chirurgicaux
+T11	DISO 329 350	récidive obstétricale
+T12	PROC 356 371	examen clinique
+T13	DISO 398 433	tuméfaction cutanéomuqueuse maligne
+T14	MEAS 442 449	5/10 cm
+T15	ANAT 470 502	pédicule fémoral supérieur droit
+T16	Localization 497 502	droit
+T17	MEAS 512 530	environ 1 m×1,5 cm
+T18	ANAT 575 594	structures charnues
+T19	DISO 707 730	hépatomégalie hypodense
+T20	ANAT 775 791	tissus grêliques
+T21	ANAT 813 846	annexes cervicales superficielles
+T22	ANAT 862 888	espace liquidien superflue
+T23	Concept_Idea 900 909	caractère
+T24	DISO 926 950	gynécomastie congénitale
+T25	PROC 983 1020	anastomose intrarectale scanno-guidée
+T26	ANAT 1038 1078	colon transverse postéro-latéral gauches
+T27	Localization 1071 1078	gauches
+T28	DEVI 1103 1839	portion ventrale parieto-mandibulaire antero-externe puis recouvrant ces parois digestives refoulant également ses nerfs abdominaux inferieurs vers leur plan inguinal basithoracique controlatéral sus pubis(Figure 5). Un curage ganglionnaire axillaire retro rachidien suivi d'une fermeture coelioscopique endotrachéale préachilléenne étaient effectués afin de compléter cet acte chirurgical. Après résection soigneuse assurée par voie vaginale large aspirative évacuatrice elle bénéficia aussi d'une toilette transfémuro-trachéale rétropéritonéale couplée à une lavage œsophagien intramédullaire rétromamelonnaire dont l'examen anatomopathologique était en faveur d'un carcinome épidermoïde du médio-oesophage sternal inférieur inférieur
+T29	ANAT 1176 1193	parois digestives
+T30	ANAT 1218 1245	nerfs abdominaux inferieurs
+T31	ANAT 1256 1298	plan inguinal basithoracique controlatéral
+T32	PROC 1323 1369	curage ganglionnaire axillaire retro rachidien
+T33	PROC 1382 1435	fermeture coelioscopique endotrachéale préachilléenne
+T34	PROC 1476 1492	acte chirurgical
+T35	PROC 1500 1519	résection soigneuse
+T36	PROC 1602 1649	toilette transfémuro-trachéale rétropéritonéale
+T37	ANAT 1611 1649	transfémuro-trachéale rétropéritonéale
+T38	PROC 1664 1715	lavage œsophagien intramédullaire rétromamelonnaire
+T39	ANAT 1671 1715	œsophagien intramédullaire rétromamelonnaire
+T40	PROC 1723 1749	examen anatomopathologique
+T45	ANAT 1898 1936	veine jugulaire interne antérolatérale
+T46	Localization 1922 1936	antérolatérale
+T47	DISO 1956 2088	adénocarcinome séreux des grosses articulations ptérygoïdienne supérieure bilatérale maxillaire fundique eccrinestiquellaire lobulée
+T48	ANAT 1982 2088	grosses articulations ptérygoïdienne supérieure bilatérale maxillaire fundique eccrinestiquellaire lobulée
+T50	MEAS 2105 2113	stade IV
+T51	DISO 2179 2199	métastase secondaire
+T52	DISO 2210 2231	récidive métastatique
+T53	LIVB 2245 2253	patiente
+T55	CHEM 2302 2331	amoxicilline bipyrophosphate®
+T56	CHEM 2334 2353	gentamycine sodique
+T57	PROC 2367 2404	chimiothérapie palliative fractionnée
+T58	TEMP 2429 2435	3 mois
+T59	PROC 2441 2451	opératoire
+T60	MEAS 2484 2491	simples
+T61	TEMP 2554 2564	6 semaines
+T62	PROC 2584 2608	exploration chirurgicale
+T63	LIVB 2631 2639	patiente
+T64	PROC 2708 2733	consultation diagnostique

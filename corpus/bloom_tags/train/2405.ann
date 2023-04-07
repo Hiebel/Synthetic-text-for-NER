@@ -1,0 +1,33 @@
+T1	LIVB 4 12	patiente
+T2	MEAS 47 53	quatre
+T3	LIVB 54 61	enfants
+T4	DISO 93 109	épisodes fébrile
+T5	PHEN 165 177	état général
+T6	DISO 193 199	sueurs
+T7	MEAS 200 208	profuses
+T8	DISO 225 253	douleurs abdomino-pelviennes
+T9	ANAT 234 253	abdomino-pelviennes
+T10	DISO 263 276	inflammatoire
+T11	MEAS 291 318	progressivement progressive
+T12	DISO 332 354	hypotension artérielle
+T13	ANAT 344 354	artérielle
+T14	MEAS 366 377	130/100mmhg
+T15	PROC 411 449	traitements locaux anti-inflammatoires
+T16	DEVI 454 465	bandelettes
+T17	CHEM 478 489	Cyclosérine
+T18	CHEM 491 504	Métronidazole
+T19	CHEM 506 518	Pyrazinamide
+T20	CHEM 520 531	Ceftriaxone
+T21	CHEM 533 544	Ethionamide
+T22	CHEM 546 561	Rifaméthoxazole
+T23	CHEM 563 576	Sulfasalamide
+T24	CHEM 578 591	Triméthoprime
+T25	PROC 596 610	interrogatoire
+T26	DISO 737 762	symptômes dermatologiques
+T27	DISO 810 839	manifestations allucolytiques
+T28	Hospital 1047 1070	urgence ophtalmologique
+T29	PROC 1077 1101	explorations biologiques
+T30	PROC 1121 1141	bilirubine conjuguée
+T31	PROC 1153 1165	troponine Ic
+T32	MEAS 1166 1183	fortement positif
+T33	MEAS 1203 1220	1 fois la normale

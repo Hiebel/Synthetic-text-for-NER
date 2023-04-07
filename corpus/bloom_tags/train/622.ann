@@ -1,0 +1,76 @@
+T1	LIVB 16 24	patiente
+T2	PROC 41 45	reçu
+T3	Hospital 49 56	urgence
+T4	DISO 66 88	douleurs épigastriques
+T5	ANAT 75 88	épigastriques
+T6	TEMP 98 115	depuis deux jours
+T7	DISO 132 152	ictère cholestatique
+T8	LIVB 154 157	Son
+T9	PROC 158 173	examen clinique
+T10	Concept_Idea 191 217	indice de masse corporelle
+T11	MEAS 226 235	27 kg/m 2
+T12	DISO 248 264	signes cliniques
+T13	PROC 277 307	échographie abdomino-pelvienne
+T14	ANAT 289 307	abdomino-pelvienne
+T15	DISO 337 387	adénocarcinome du paroi vésiculaire péripéritonéal
+T16	ANAT 355 387	paroi vésiculaire péripéritonéal
+T17	ANAT 401 415	intestin grêle
+T18	ANAT 422 427	grêle
+T19	MEAS 437 441	6 cm
+T20	Concept_Idea 445 454	grand axe
+T21	PROC 458 491	imagerie par résonance magnétique
+T22	PROC 493 516	IRM) cervico-thoracique
+T23	ANAT 498 516	cervico-thoracique
+T24	PROC 531 566	ponctions liquidiennes transfixiées
+T25	ANAT 541 566	liquidiennes transfixiées
+T26	DEVI 644 652	matériel
+T27	Hospital 668 693	urgences ophtalmologiques
+T28	PROC 730 755	intervention chirurgicale
+T29	PROC 761 778	anesthésie locale
+T30	PROC 785 826	mise en place d'ampicilline intraveineuse
+T31	CHEM 801 812	ampicilline
+T32	MEAS 843 848	bonne
+T33	DISO 869 894	saignements hémorragiques
+T34	DISO 907 932	localisations secondaires
+T35	ANAT 972 992	péritonéal liquidien
+T36	DISO 1002 1034	atteinte hépato-gastro-duodénale
+T37	ANAT 1011 1034	hépato-gastro-duodénale
+T38	MEAS 1102 1109	simples
+T39	PHEN 1122 1131	tolérance
+T40	Concept_Idea 1198 1210	état général
+T41	DISO 1240 1266	complications métaboliques
+T42	DISO 1273 1290	cardiovasculaires
+T43	LIVB 1355 1365	nouveau-né
+T44	TEMP 1373 1378	24 SA
+T45	DISO 1412 1442	tuberculose pulmonaire cutanée
+T46	ANAT 1424 1442	pulmonaire cutanée
+T47	MEAS 1466 1475	stade IIb
+T48	CHEM 1605 1618	triméthoprime
+T49	CHEM 1621 1648	céphalosulfamyl-méthoxazole
+T50	DISO 1668 1702	schwannomateux plexiforme kystique
+T51	DISO 1734 1758	métastases thyroïdiennes
+T52	ANAT 1745 1758	thyroïdiennes
+T53	DISO 1823 1840	lésions tumorales
+T54	MODE 1877 1897	produit anesthésique
+T55	DISO 1988 2015	malformations pathologiques
+T56	DISO 2231 2253	syndrome inflammatoire
+T57	DISO 2266 2287	dilatation artérielle
+T58	ANAT 2277 2287	artérielle
+T59	DISO 2322 2345	hypertension artérielle
+T60	ANAT 2335 2345	artérielle
+T61	DISO 2377 2407	nécrose traumatique ischémique
+T62	Localization 2418 2422	sous
+T63	ANAT 2503 2541	endocoecal laryngopharyngéo-transverse
+T64	DISO 2559 2580	tuméfaction purulente
+T65	MEAS 2593 2605	prurigineuse
+T66	ANAT 2639 2660	membrane basifasciale
+T67	ANAT 2805 2825	vésicules ovariennes
+T68	ANAT 2925 2947	muqueuses intestinales
+T69	LIVB 2960 2967	patient
+T70	DISO 2984 3014	hyperparathyroïdie secondaires
+T71	PROC 3027 3044	bilan d'extension
+T72	PHEN 3050 3068	suites opératoires
+T73	MEAS 3077 3084	simples
+T74	Concept_Idea 3091 3111	résultat fonctionnel
+T75	MEAS 3123 3126	bon
+T76	TEMP 3145 3153	deux ans

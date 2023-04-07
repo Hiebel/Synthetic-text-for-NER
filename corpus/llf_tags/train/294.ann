@@ -1,0 +1,69 @@
+T1	LIVB 19 29	nourrisson
+T2	TEMP 37 45	six mois
+T3	LIVB 131 137	chiens
+T4	PROC 161 171	consultait
+T5	PROC 180 185	suivi
+T6	LIVB 195 201	chiens
+T7	LIVB 264 267	son
+T8	LIVB 268 278	partenaire
+T9	PROC 298 322	prise en charge médicale
+T10	PROC 334 358	contrôle locorégionalisé
+T11	DISO 495 531	crise convulsive anoxo-psychiatrique
+T12	DISO 548 581	syndrome infectieux néonatal aigu
+T13	DISO 587 613	grippe A H1N1 hémorragique
+T14	LIVB 662 669	garçons
+T15	PROC 710 773	néphrectomie partielle segmentaire transvalvulaire endovaginale
+T16	Localization 936 953	bilatérale droite
+T17	Concept_Idea 1037 1061	stabilité hémodynamiques
+T19	Localization 1285 1307	postérieure supérieure
+T20	PROC 1367 1391	prélèvement histologique
+T21	PROC 1406 1439	technique immunohistochimique IgM
+T22	PROC 1456 1483	études cytobactériologiques
+T23	DISO 1511 1543	léiomyome polymyomateux mellitus
+T24	MEAS 1551 1557	T2N0Mx
+T25	DISO 1571 1612	cytoplasme éosinophile tissulaire maligne
+T26	MEAS 1622 1626	6 cm
+T27	Concept_Idea 1630 1639	grand axe
+T28	MEAS 1685 1721	14 fois la limite inférieure SSEFECO
+T29	MEAS 1731 1736	18 mm
+T30	DISO 1850 1892	remaniements chondroblastiques kératinisés
+T32	Concept_Idea 1944 1961	plan radiologique
+T33	DISO 1979 2000	prolifération du foie
+T34	ANAT 1996 2000	foie
+T35	ANAT 2015 2031	hémithorax droit
+T36	Localization 2026 2031	droit
+T37	ANAT 2061 2082	veine cave supérieure
+T38	Localization 2072 2082	supérieure
+T39	DISO 2105 2121	nécrose caséeuse
+T40	DISO 2180 2202	adénomégalies myxoïdes
+T41	DISO 2223 2263	lésions tumorales anéchogènes calcifiées
+T42	ANAT 2287 2298	rein gauche
+T43	Localization 2292 2298	gauche
+T45	MEAS 2416 2420	13cm
+T46	MEAS 2424 2428	12mm
+T47	MEAS 2461 2468	simples
+T48	PROC 2474 2500	anticoagulation préventive
+T49	CHEM 2502 2523	amoxicilline acétyle®
+T50	CHEM 2526 2543	acide salicylique
+T51	CHEM 2545 2562	antihypertenseurs
+T52	PROC 2568 2588	contrôle obstétrical
+T53	MEAS 2595 2602	négatif
+T54	DISO 2620 2641	contractions utérines
+T55	ANAT 2633 2641	utérines
+T56	PROC 2686 2751	cholécystectomie totale élargie monophasique aortiques concertées
+T57	PROC 2836 2859	extraction chirurgicale
+T58	DISO 2878 2907	distension abdomino-pelvienne
+T59	ANAT 2889 2907	abdomino-pelvienne
+T60	PROC 2930 2942	intervention
+T61	PHEN 2947 2956	grossesse
+T62	PROC 2976 2982	suivie
+T63	TEMP 2997 3024	premier mois postopératoire
+T64	MEAS 3090 3101	1700 gramme
+T65	MEAS 3105 3117	1650 grammes
+T66	TEMP 3159 3170	24 semaines
+T67	DISO 3203 3227	difficulté vitale fœtale
+T68	Concept_Idea 3329 3347	caractère familial
+T69	PROC 3353 3375	consultation prénatale
+T70	PROC 3430 3448	obstétrical direct
+T71	Hospital 3461 3509	établissement hospitalier pédiatrique spécialisé
+T72	DEVI 3525 3558	matériel orthopédique chirurgical

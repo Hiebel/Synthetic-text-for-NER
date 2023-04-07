@@ -1,0 +1,88 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	DISO 39 72	dilatation de la paroi thoracique
+T4	ANAT 56 72	paroi thoracique
+T5	PROC 77 93	bilan biologique
+T6	PROC 110 129	électrocardiogramme
+T7	PROC 131 134	ECG
+T8	PROC 143 162	examens d'hémostase
+T9	DISO 176 185	anomalies
+T10	PROC 199 231	scanner thoraco-abdomino-pelvien
+T11	ANAT 207 231	thoraco-abdomino-pelvien
+T12	DISO 259 290	processus lésionnel myocardique
+T13	MEAS 305 310	trois
+T14	ANAT 311 329	champs pulmonaires
+T15	DISO 343 355	hypokaliémie
+T16	MEAS 358 366	0,7 g/dl
+T17	DISO 382 398	hyperleucocytose
+T18	MEAS 401 422	210 000 éléments /mm3
+T19	Concept_Idea 484 490	taille
+T20	MEAS 496 513	6 fois la normale
+T21	PROC 519 537	sérologies virales
+T22	MEAS 558 567	positives
+T23	Concept_Idea 617 637	aspect morphologique
+T24	DISO 666 748	carcinome kystique épidermoïde infiltrant érythémateux sarcomateux transitionnelle
+T25	ANAT 768 802	lambeaux cutanéo-muqueux cervicaux
+T26	LIVB 848 855	malades
+T27	PROC 867 886	traitement adjuvant
+T28	PROC 891 917	complément scannographique
+T29	PROC 932 959	examen anatomopathologiaque
+T30	MEAS 978 985	normale
+T31	DISO 1008 1066	mésenchymateuse granulomateuse carcinomateuse nécroticoïde
+T32	Localization 1095 1112	moitié inférieure
+T33	ANAT 1116 1128	nerf laryngé
+T34	ANAT 1157 1200	parties molles crico-réticulo-sigmoïdiennes
+T35	ANAT 1212 1238	veine jugulaire inférieure
+T36	Localization 1228 1238	inférieure
+T37	MEAS 1342 1347	50 mm
+T38	MEAS 1351 1356	60 mm
+T39	PROC 1404 1429	chimiothérapie palliative
+T40	CHEM 1435 1465	immunoglobulines intraveineuse
+T41	PROC 1479 1511	biphotocoagulation préopératoire
+T42	TEMP 1565 1577	quantitative
+T43	PROC 1581 1592	radioactive
+T44	MEAS 1637 1646	favorable
+T45	PHEN 1663 1676	cicatrisation
+T46	MEAS 1686 1701	progressivement
+T47	MEAS 1702 1708	rapide
+T48	DEVI 1743 1781	cathétérisme veineux axillaire interne
+T49	MEAS 1826 1833	simples
+T50	Concept_Idea 1970 1988	signe histologique
+T51	Concept_Idea 2208 2211	cas
+T52	PROC 2363 2379	exérèse monobloc
+T53	PROC 2403 2428	étude immunohistochimique
+T54	PROC 2985 3003	geste anesthésique
+T55	DISO 3026 3037	traumatisme
+T56	LIVB 3042 3049	patient
+T57	Hospital 3068 3083	bloc opératoire
+T58	DISO 3093 3132	douleurs abdomino-pelviennes chroniques
+T59	ANAT 3102 3121	abdomino-pelviennes
+T60	DISO 3149 3170	distension abdominale
+T61	ANAT 3160 3170	abdominale
+T62	Concept_Idea 3215 3227	état général
+T63	DISO 3240 3255	signes morbides
+T64	PROC 3285 3310	surveillance radiologique
+T65	PROC 3314 3326	anesthésique
+T66	PROC 3400 3424	transfert transfusionnel
+T67	LIVB 3485 3516	chirurgien viscéral majoritaire
+T68	LIVB 3520 3548	anatomopathologiste pédiatre
+T69	PROC 3553 3586	scanner cervico-thoraco-abdominal
+T70	ANAT 3561 3586	cervico-thoraco-abdominal
+T71	PROC 3599 3625	examen anatomopathologique
+T72	PROC 3654 3692	complément thérapeutique préopératoire
+T73	PROC 3733 3758	prise en charge adjuvante
+T74	PROC 3770 3792	contrôle échographique
+T75	CHEM 3802 3826	antalgiques intraveineux
+T76	CHEM 3926 3941	céphalosporines
+T77	LIVB 3988 4011	collègues rhumatoniques
+T78	Concept_Idea 4036 4059	classification BASECAN®
+T79	PROC 4079 4105	bronchoscopie exploratrice
+T80	DISO 4138 4178	masse tissulaire hypoéchogène hétérogène
+T81	MEAS 4187 4191	4 cm
+T82	Concept_Idea 4195 4203	diamètre
+T83	Concept_Idea 4233 4242	caractère
+T84	PROC 4274 4301	prélèments bactériologiques
+T85	PROC 4323 4361	biopsies pariéto-réticulo-péritonéales
+T86	DISO 4413 4458	prolifération polyploïdale anéchogène maligne
+T87	MEAS 4468 4472	5 mm
+T88	Concept_Idea 4476 4485	grand axe

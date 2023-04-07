@@ -1,0 +1,27 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 39 70	antécédents médico-chirurgicaux
+T3	MEAS 71 83	particuliers
+T4	PROC 85 90	admis
+T5	Hospital 95 103	urgences
+T6	DISO 113 131	douleur abdominale
+T7	ANAT 121 131	abdominale
+T8	TEMP 141 155	depuis un mois
+T9	MEAS 173 184	progressive
+T10	DISO 200 225	vomissements alimentaires
+T11	LIVB 227 229	Il
+T12	PROC 248 278	échographie abdomino-pelvienne
+T13	ANAT 260 278	abdomino-pelvienne
+T14	ANAT 317 327	col utérin
+T15	DISO 334 363	masse hypo échogène hypodense
+T16	MEAS 373 378	46 cm
+T17	Concept_Idea 382 391	grand axe
+T18	PROC 396 418	TDM abdomino-pelvienne
+T19	ANAT 400 418	abdomino-pelvienne
+T20	DISO 440 467	épanchement intrapéritonéal
+T21	ANAT 452 467	intrapéritonéal
+T22	PROC 473 493	biopsie chirurgicale
+T23	PROC 499 523	anesthésie locorégionale
+T24	PROC 550 576	examen anatomopathologique
+T25	DISO 592 621	carcinome pléomorphe kystique
+T26	ANAT 637 655	parois abdominales
+T27	DISO 690 725	hémopéritoine polymyomateux nécrosé

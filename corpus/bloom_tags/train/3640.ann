@@ -1,0 +1,31 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 67	particuliers
+T4	PROC 69 74	admis
+T5	Hospital 79 87	urgences
+T6	DISO 97 109	métrorragies
+T7	PROC 113 128	examen clinique
+T8	PROC 133 142	admission
+T9	ANAT 162 168	utérus
+T10	Concept_Idea 181 187	taille
+T11	PHEN 197 217	contractions utérine
+T12	ANAT 210 217	utérine
+T13	MEAS 218 226	évoluées
+T14	DISO 270 289	aménorrhée primaire
+T15	PROC 294 330	tomodensitométrie abdomino-pelvienne
+T16	ANAT 312 330	abdomino-pelvienne
+T17	DISO 358 398	masse tissulaire du col utérin infiltrat
+T18	ANAT 378 398	col utérin infiltrat
+T19	MEAS 408 413	10 cm
+T20	Concept_Idea 417 426	grand axe
+T21	ANAT 443 463	fosse iliaque droite
+T22	Localization 457 463	droite
+T23	ANAT 480 511	surrénales latéro péritendineux
+T25	CHEM 570 573	PCG
+T26	PROC 580 605	intervention chirurgicale
+T27	PROC 626 650	anesthésie locorégionale
+T28	ANAT 637 650	locorégionale
+T29	DEVI 655 688	sonde nasogastrique transfixiante
+T31	DISO 717 731	masse tumorale
+T32	PROC 745 813	curage ganglionnaire cervico-ombiliquo-épiploïque somatomégalectomie
+T34	MEAS 868 875	simples

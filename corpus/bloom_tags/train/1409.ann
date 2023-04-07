@@ -1,0 +1,42 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 96	curetage utéro-vaginal
+T3	ANAT 83 96	utéro-vaginal
+T4	PROC 102 160	curage ganglionnaire intrarétro péritonéal transpéritonéal
+T6	PROC 161 165	TPTP
+T7	DOSE 167 172	100cc
+T8	PROC 180 205	étude anatomopathologique
+T9	DISO 234 253	métastases malignes
+T10	LIVB 265 273	patiente
+T11	PROC 286 321	scanner abdomino-cervico-thoracique
+T12	ANAT 294 321	abdomino-cervico-thoracique
+T13	PROC 335 361	contraception progestative
+T14	DISO 380 417	localisations secondaires métastiques
+T15	DISO 423 445	anomalies métaboliques
+T16	LIVB 515 521	enfant
+T17	TEMP 525 531	10 ans
+T18	DISO 545 575	traumatisme crânien ischémique
+T19	LIVB 594 597	lui
+T20	DISO 602 626	dépression psychomotrice
+T21	DISO 707 722	polypnée isolée
+T22	MEAS 737 748	progressive
+T23	PROC 766 781	hospitalisation
+T24	PROC 813 836	traité chirurgicalement
+T25	CHEM 884 915	amoxicilline-acide clavulanique
+T26	CHEM 941 955	Céphalosporine
+T27	CHEM 958 969	Cyclosérine
+T28	DISO 1008 1023	symptomatologie
+T29	DISO 1096 1107	infectieuse
+T30	DISO 1111 1123	tuberculeuse
+T31	DISO 1203 1218	symptomatologie
+T32	DEVI 1237 1257	sonde nasofibroscope
+T34	PROC 1300 1326	stabilisation anesthésique
+T35	DISO 1353 1359	crises
+T36	MEAS 1369 1384	plus fréquentes
+T37	TEMP 1399 1404	9 ans
+T38	TEMP 1442 1449	16 mois
+T39	DISO 1613 1646	lésions purpuriques prurigineuses
+T40	PROC 1674 1714	asymétrie oculomoteur cutanéo-nociceptif
+T41	DISO 1733 1768	syndrome hypoglycémiatheucellulaire
+T42	ANAT 1914 1935	vestibulaire biliaire
+T43	ANAT 2323 2340	cardiovasculaires
+T44	ANAT 2370 2387	pédicule aortique

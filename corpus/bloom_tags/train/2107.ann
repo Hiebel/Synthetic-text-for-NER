@@ -1,0 +1,105 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	Concept_Idea 42 53	antécédents
+T4	MEAS 54 66	particuliers
+T5	PROC 68 72	reçu
+T6	Hospital 77 85	urgences
+T7	DISO 95 123	douleurs abdomino-pelviennes
+T8	ANAT 104 123	abdomino-pelviennes
+T9	TEMP 133 148	depuis 10 jours
+T10	PROC 152 166	interrogatoire
+T11	DISO 197 209	métrorragies
+T12	PHEN 236 249	accouchements
+T13	LIVB 277 279	Il
+T14	DISO 312 333	ménarche tuberculeuse
+T15	CHEM 350 369	pneumocystisjirovec
+T16	DOSE 371 380	400 mg/kg
+T17	TEMP 380 382	/j
+T18	PROC 389 410	échographie cervicale
+T19	ANAT 401 410	cervicale
+T20	DEVI 504 520	matériel médical
+T21	PROC 526 541	examen clinique
+T22	LIVB 546 553	patient
+T23	DISO 569 638	sensibilité abdomino-pelvienne basithoracique latéro périnéale droite
+T24	ANAT 581 638	abdomino-pelvienne basithoracique latéro périnéale droite
+T25	Localization 632 638	droite
+T26	MEAS 650 665	progressivement
+T27	Concept_Idea 669 675	volume
+T28	MEAS 692 714	profondément sensibles
+T29	DISO 737 753	troubles visuels
+T30	DISO 764 797	adénopathies cervico-vésiculaires
+T31	PROC 811 846	scanner abdomino-pelvien transfixié
+T32	ANAT 819 846	abdomino-pelvien transfixié
+T33	PROC 859 875	bilan infectieux
+T34	MEAS 900 907	normaux
+T35	PROC 913 939	investigations biologiques
+T36	DISO 1067 1085	cytolyse hépatique
+T37	ANAT 1076 1085	hépatique
+T38	PROC 1087 1109	créatine phosphokinase
+T39	PROC 1111 1114	CPK
+T40	MEAS 1116 1137	supérieur à 1000 UI/L
+T41	PROC 1140 1152	parathormone
+T42	PROC 1154 1157	PTH
+T43	MEAS 1161 1191	entre 30 et 50 fois la normale
+T44	PROC 1193 1217	lactates déshydrogénases
+T45	PROC 1219 1222	LDH
+T46	MEAS 1226 1248	inférieurs à 200 UI/mL
+T47	PROC 1251 1261	leucopénie
+T48	MEAS 1264 1272	2000/mm3
+T49	PROC 1279 1303	chimiothérapie adjuvante
+T50	LIVB 1306 1310	Nous
+T51	PROC 1332 1355	anamniosthèse familiale
+T52	LIVB 1383 1391	patients
+T53	DISO 1404 1442	syndrome d'épanchement intrapéritonéal
+T54	ANAT 1427 1442	intrapéritonéal
+T55	PROC 1470 1504	traitement antirétroviral instauré
+T56	CHEM 1515 1531	sulfaméthoxazole
+T57	CHEM 1534 1545	ceftriaxone
+T58	PROC 1641 1671	auscultation pleuro-pulmonaire
+T59	ANAT 1654 1671	pleuro-pulmonaire
+T60	DISO 1694 1739	bruits cardio-vasculaires systolo-diastolique
+T61	ANAT 1701 1739	cardio-vasculaires systolo-diastolique
+T62	DISO 1746 1762	souffle aortique
+T63	ANAT 1754 1762	aortique
+T64	Localization 1801 1805	sous
+T65	MEAS 1824 1829	75 mm
+T66	Concept_Idea 1833 1842	grand axe
+T67	ANAT 1870 1881	thoraciques
+T68	DISO 1965 1980	symptomatologie
+T69	PROC 1984 2020	radiographiedu coude scannographique
+T70	ANAT 1999 2020	coude scannographique
+T71	DISO 2034 2135	luxation ischio-métacarpienne métacarpo-phalangienne angulo-diaphysaire palmophalangienne type Lippes
+T72	ANAT 2161 2174	cavum huméral
+T73	DISO 2219 2248	atteinte ostéo-cartilagineuse
+T74	DISO 2315 2369	rupture épiphyso-scapulaire bruno-de Leeuw compressive
+T75	PROC 2442 2477	ponction pleurésie-liquide pariétal
+T76	ANAT 2451 2477	pleurésie-liquide pariétal
+T77	DISO 2537 2567	complications néphrotolytiques
+T78	PHEN 2830 2842	accentuation
+T79	DISO 2846 2883	syndrome d'épanchement postopératoire
+T80	TEMP 2869 2883	postopératoire
+T81	PROC 2935 2999	laparotomie exploratrice des orifices herniaires intrarachidiens
+T82	ANAT 2964 2999	orifices herniaires intrarachidiens
+T83	PROC 3001 3006	l'OIR
+T84	PROC 3023 3046	intubation œsophagienne
+T85	ANAT 3034 3046	œsophagienne
+T86	LIVB 3048 3052	Nous
+T87	PROC 3078 3109	abord abdomino-gastro-duodénale
+T88	ANAT 3084 3109	abdomino-gastro-duodénale
+T89	PROC 3134 3173	drainage périvésiculaire transgastrique
+T91	DEVI 3199 3218	seringue électrique
+T92	ANAT 3234 3243	épigastre
+T93	PROC 3256 3289	incision cervicale abdominocæcale
+T94	ANAT 3265 3289	cervicale abdominocæcale
+T95	MEAS 3316 3323	1180 ml
+T96	MEAS 3327 3334	1030 ml
+T98	PROC 3388 3412	techniques chirurgicales
+T99	LIVB 3518 3526	patients
+T100	PROC 3644 3665	échographie pelvienne
+T101	ANAT 3656 3665	pelvienne
+T102	DISO 3715 3724	anomalies
+T103	DISO 3738 3759	placenta hypertrophié
+T104	ANAT 3845 3868	paroi utérine cervicale
+T105	MEAS 3885 3890	16 cm
+T106	Concept_Idea 3894 3903	grand axe
+T107	ANAT 3977 4006	membrane musculaire ovaginale

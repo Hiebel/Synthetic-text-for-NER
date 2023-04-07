@@ -1,0 +1,31 @@
+T1	LIVB 7 10	H.A
+T2	PROC 32 38	admise
+T3	Hospital 43 51	urgences
+T4	DISO 70 103	atteinte cutanéo-vasculo-nerveuse
+T5	ANAT 79 103	cutanéo-vasculo-nerveuse
+T6	TEMP 113 127	depuis 3 jours
+T7	DISO 140 149	symptômes
+T8	PROC 162 177	examen clinique
+T9	DISO 195 205	polypnésie
+T10	MEAS 208 221	30 cycles/min
+T11	DISO 237 249	hyperthermie
+T12	MEAS 261 265	39°C
+T13	CHEM 301 312	paracétamol
+T14	CHEM 325 348	médicaments antalgiques
+T15	DISO 445 451	sueurs
+T16	MEAS 452 460	profuses
+T17	MEAS 470 481	insommables
+T18	Concept_Idea 540 546	taille
+T19	MEAS 580 588	20litres
+T20	MEAS 592 600	40litres
+T21	Concept_Idea 636 643	calibre
+T22	LIVB 673 684	jeune fille
+T23	DISO 701 796	syndrome d'épanchement pulmonaire liquidien médiastinal inféro-latérale basithoracique infiltré
+T25	DISO 815 853	diaphragme hypersudationnel nécrotique
+T26	DISO 868 915	anémie hypochrome microcytaire hémoglobinurique
+T27	PROC 930 946	examen somatique
+T28	DISO 958 971	particularité
+T29	ANAT 993 1024	susclaviculaire inférieur droit
+T30	Localization 1019 1024	droit
+T31	MEAS 1036 1051	progressivement
+T32	Concept_Idea 1055 1061	volume

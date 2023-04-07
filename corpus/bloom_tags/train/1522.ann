@@ -1,0 +1,15 @@
+T1	LIVB 4 9	femme
+T2	PHEN 26 36	primigeste
+T3	DISO 65 86	carcinose péritonéale
+T4	ANAT 75 86	péritonéale
+T5	PROC 102 108	admise
+T6	Hospital 113 121	urgences
+T7	Hospital 126 164	Cliniques Universitaires de Lubumbashi
+T9	TEMP 197 210	depuis 8 mois
+T10	DISO 243 277	douleur hypogastrique bilbilociste
+T11	ANAT 251 277	hypogastrique bilbilociste
+T12	MEAS 293 301	modérées
+T13	MEAS 311 321	permanente
+T14	MEAS 333 342	lentement
+T15	Concept_Idea 346 352	volume
+T16	MEAS 369 393	progressivement sensible

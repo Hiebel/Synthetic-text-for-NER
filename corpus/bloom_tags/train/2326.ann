@@ -1,0 +1,54 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	PROC 69 74	admis
+T4	Hospital 79 87	urgences
+T5	PROC 93 131	traitement antibacillaire probabiliste
+T6	CHEM 142 153	rifampicine
+T7	CHEM 155 165	isoniazide
+T8	CHEM 167 178	ethionamide
+T9	CHEM 180 190	éthambutol
+T10	CHEM 192 204	pyrazinamide
+T11	CHEM 206 220	ciprofloxacine
+T12	CHEM 222 233	Ethionamide
+T13	CHEM 235 249	Ciprofloxacine
+T14	CHEM 251 262	Cyclosérine
+T15	CHEM 265 277	Pyrazinamide
+T16	CHEM 279 295	Sulfaméthoxazole
+T17	CHEM 297 326	Bromure de méthylprednisolone
+T18	DOSE 328 334	1mg/kg
+T19	TEMP 334 336	/j
+T20	MODE 370 375	bolus
+T21	DOSE 379 387	20 mg/m²
+T22	CHEM 412 429	anti-tuberculeurs
+T23	LIVB 490 500	nouveau-né
+T24	PHEN 521 545	croissance psychomoteuse
+T25	DISO 1166 1193	anomalies neurovestibulaire
+T26	PROC 1639 1648	injection
+T27	CHEM 1652 1672	produit de contraste
+T28	PROC 1728 1745	enquête familiale
+T29	DISO 1774 1804	syndrome familial hypertenseur
+T30	DISO 1839 1858	diabète métabolique
+T31	DISO 1865 1898	maladie thromboembolique veineuse
+T32	ANAT 1988 2010	membranéo-interstitiel
+T33	MEAS 2062 2066	NAT1
+T34	LIVB 2072 2080	patiente
+T35	PROC 2091 2121	traitement médical substitutif
+T37	DOSE 2137 2145	0.5mg/kg
+T38	TEMP 2145 2150	/jour
+T39	CHEM 2153 2166	acénocoumarol
+T40	PROC 2175 2206	cortisolothérapie intraveineuse
+T41	MODE 2210 2222	intraveineux
+T42	Concept_Idea 2227 2243	tableau clinique
+T43	DISO 2268 2310	douleurs thoraciques basithoraciques droit
+T44	ANAT 2277 2310	thoraciques basithoraciques droit
+T45	Localization 2305 2310	droit
+T46	DISO 2328 2334	fièvre
+T47	DISO 2349 2365	dyspnée d'effort
+T48	TEMP 2375 2391	depuis 48 heures
+T49	Concept_Idea 2413 2425	état général
+T50	LIVB 2427 2431	Elle
+T51	DISO 2448 2459	polypnéique
+T52	MEAS 2462 2475	30 cycles/min
+T53	DEVI 2481 2490	téléphone
+T54	MEAS 2539 2543	24°C
+T55	MEAS 2547 2551	28°C

@@ -1,0 +1,43 @@
+T1	PROC 48 72	consultation spécialisée
+T2	Concept_Idea 94 107	état générale
+T3	TEMP 117 132	depuis six mois
+T4	Concept_Idea 198 210	état général
+T5	DISO 226 241	perte pondérale
+T6	MEAS 252 255	6kg
+T7	DISO 264 272	asthénie
+T8	TEMP 288 310	deux fois plus souvent
+T9	MEAS 462 477	progressivement
+T10	MEAS 500 512	environ 20kg
+T11	PROC 684 704	anamnèse infectieuse
+T12	DISO 724 740	maladie cœliaque
+T13	DISO 746 768	fièvre méditerranéenne
+T14	TEMP 777 795	7 jours auparavant
+T15	DISO 810 841	tubercule érythémateuse maligne
+T16	MEAS 850 860	VID/H1N1Mx
+T17	DISO 878 892	hypercalciurie
+T18	DISO 921 955	insuffisance rénale polyglycémique
+T19	ANAT 934 940	rénale
+T20	DISO 977 995	hyperbilirubinémie
+T21	DISO 1013 1085	néphropathie hypochrome hétérozygote T2cmigrasyl transferase IgGacidosis
+T22	DISO 1106 1139	tuberculose généralisée primitive
+T23	Concept_Idea 1150 1172	critères morphologique
+T24	Concept_Idea 1176 1184	clinique
+T25	PROC 1200 1219	enquête étiologique
+T26	DISO 1245 1259	neuroleptiques
+T27	Localization 1379 1400	partie controlatérale
+T28	DISO 1491 1516	psychose maniaco-lombaire
+T29	DISO 1540 1590	trouble obsessionnel staturo-encéphalique primitif
+T30	DISO 1601 1637	psychose délirante schizophréniforme
+T31	DISO 1690 1728	folie bipolaire idiopathique stade EBP
+T32	Concept_Idea 2366 2384	aspect psychotique
+T33	LIVB 2389 2416	sympathies professionnelles
+T34	PHEN 2729 2750	suites symptomatiques
+T35	PROC 2792 2816	traitement psychiatrique
+T36	LIVB 2895 2903	patients
+T37	Concept_Idea 2935 2953	chiffres cliniques
+T38	PROC 2973 2987	thérapeutiques
+T39	LIVB 3160 3170	nourrisson
+T40	LIVB 3184 3198	jeunes enfants
+T41	DISO 3418 3438	déviation démoniaque
+T42	DISO 3454 3481	diabète insulino-dépressive
+T43	DISO 3564 3590	déficience cognitive aiguë

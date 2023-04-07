@@ -1,0 +1,32 @@
+T1	LIVB 29 34	femme
+T2	Concept_Idea 56 67	antécédents
+T3	MEAS 68 80	particuliers
+T4	DISO 100 122	douleurs épigastriques
+T5	ANAT 109 122	épigastriques
+T6	MEAS 137 148	progressive
+T7	Concept_Idea 195 207	état général
+T8	PROC 213 228	examen clinique
+T9	PHEN 245 265	grossesse gémellaire
+T10	PROC 288 311	pronostic préopératoire
+T11	LIVB 313 317	Elle
+T12	DISO 333 362	distension abdomino-pelvienne
+T13	ANAT 344 362	abdomino-pelvienne
+T14	DISO 372 384	dysmorphique
+T15	TEMP 393 413	quelques jours avant
+T16	MEAS 430 439	spontanée
+T17	Concept_Idea 452 462	biologique
+T18	MEAS 477 491	plus accentuée
+T19	Concept_Idea 513 519	taille
+T20	MEAS 531 536	24 cm
+T21	MEAS 539 543	12cm
+T22	Concept_Idea 575 581	volume
+T23	LIVB 611 619	patiente
+T24	DISO 647 669	accouchement prématuré
+T25	PROC 674 680	suivie
+T26	PROC 686 710	anesthésie locoregionale
+T27	ANAT 697 710	locoregionale
+T28	Hospital 779 803	maternités périphériques
+T29	DISO 1008 1029	détresse respiratoire
+T30	PHEN 1017 1029	respiratoire
+T31	DISO 1070 1091	dyspnée aiguë diffuse
+T32	MEAS 1106 1116	rapprochée

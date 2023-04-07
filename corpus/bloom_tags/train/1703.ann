@@ -1,0 +1,35 @@
+T1	LIVB 4 9	femme
+T2	PHEN 26 36	ménopausée
+T3	MEAS 68 80	particuliers
+T4	PROC 87 92	reçue
+T5	Hospital 96 118	service d'endométriose
+T6	DISO 138 155	douleur pelvienne
+T7	ANAT 146 155	pelvienne
+T8	MEAS 170 181	progressive
+T9	TEMP 191 204	depuis 3 mois
+T10	DEVI 228 273	médications anti-inflammatoires plaquettaires
+T11	CHEM 276 287	Cyclosérine
+T12	CHEM 289 299	Nifédipine
+T13	CHEM 301 309	Diazépam
+T14	CHEM 311 322	Céftriaxone
+T15	CHEM 325 338	Phénobarbital
+T16	CHEM 340 354	Chlorpromazine
+T17	CHEM 356 367	Propranolol
+T18	CHEM 369 378	Clonidine
+T19	CHEM 380 392	Irenulcabine
+T20	CHEM 394 402	Aspirine
+T21	CHEM 404 420	Erythrométhasone
+T22	CHEM 422 431	Captopril
+T23	CHEM 433 445	Simvastatine
+T24	CHEM 447 459	Pyrazinamide
+T25	CHEM 461 472	Vinblastine
+T26	CHEM 474 485	Ethionamide
+T27	CHEM 487 493	Vit B6
+T28	CHEM 495 508	Dexaméthasone
+T29	CHEM 510 523	Triméthoprime
+T30	CHEM 525 532	Lithium
+T31	PROC 547 579	scanner thoraco-abdomino-pelvien
+T32	ANAT 555 579	thoraco-abdomino-pelvien
+T33	MEAS 596 603	normaux
+T34	DISO 620 640	syndrome malformatif
+T35	DISO 660 677	signe néoplasique

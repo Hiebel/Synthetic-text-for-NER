@@ -1,0 +1,14 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 71	antécédents pathologiques
+T3	MEAS 72 84	particuliers
+T4	PROC 89 122	tomodensitométrie cervico-faciale
+T5	ANAT 107 122	cervico-faciale
+T6	DISO 145 222	métastase tumorale du parenchyme para-ventriculaire parotidien basithoracique
+T8	Concept_Idea 232 240	contours
+T9	MEAS 241 250	réguliers
+T10	PROC 256 265	recherche
+T11	DISO 271 300	pôle d'extension métastatique
+T12	PROC 306 334	chimiothérapie néo adjuvante
+T13	CHEM 336 347	Adriamycine
+T14	CHEM 349 360	Cyclosérine
+T15	CHEM 364 375	Ceftriaxone

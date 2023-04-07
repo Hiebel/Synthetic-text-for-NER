@@ -1,0 +1,25 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	6 ans
+T3	DISO 142 166	tuberculose tuberculeuse
+T4	PROC 189 194	admis
+T5	Hospital 199 220	urgences pédiatriques
+T6	DISO 240 273	syndrome d'épanchement péritonéal
+T7	ANAT 263 273	péritonéal
+T8	DISO 288 306	détresse digestive
+T9	PHEN 297 306	digestive
+T10	MEAS 321 332	progressive
+T11	MEAS 342 352	permanente
+T12	Concept_Idea 382 394	état général
+T13	LIVB 469 475	malade
+T14	TEMP 484 491	six ans
+T15	PROC 510 544	traitement antibacillaire adjuvant
+T16	CHEM 570 581	rifampicine
+T17	CHEM 583 594	ethionamide
+T18	CHEM 596 606	isoniazide
+T19	CHEM 608 620	Pyrazinamide
+T20	CHEM 622 636	Ciprofloxacine
+T21	CHEM 638 649	Ethionamide
+T22	CHEM 651 661	Isoniazide
+T23	CHEM 663 675	Pyrazinamide
+T24	CHEM 677 688	Cyclosérine
+T25	CHEM 690 701	Vinblastine

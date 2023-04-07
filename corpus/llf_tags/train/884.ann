@@ -1,0 +1,83 @@
+T1	LIVB 4 9	femme
+T2	DISO 53 73	douleurs abdominales
+T3	ANAT 62 73	abdominales
+T4	TEMP 74 94	depuis l'âge d'un an
+T5	Concept_Idea 83 86	âge
+T6	DISO 111 134	polyarthrite rhumatoïde
+T7	TEMP 144 157	depuis 3 mois
+T8	PROC 164 176	hospitalisée
+T9	DISO 185 236	syndrome douloureux aigu du membre supérieur gauche
+T10	ANAT 213 236	membre supérieur gauche
+T11	Localization 230 236	gauche
+T12	TEMP 251 272	depuis quelques jours
+T13	DISO 306 312	fièvre
+T14	MEAS 324 330	39 ° C
+T15	DISO 351 381	vomissements post-traumatiques
+T16	DISO 395 417	signes accompagnateurs
+T17	DISO 435 464	symptômes neuropsychiatriques
+T18	PROC 469 484	examen clinique
+T19	DISO 504 518	déficit moteur
+T20	DISO 522 535	inflammatoire
+T21	DISO 545 566	trouble sensorimoteur
+T22	Concept_Idea 576 604	environnement socio-culturel
+T23	PROC 610 619	admission
+T24	LIVB 624 632	patiente
+T25	Concept_Idea 658 676	plan hémodynamique
+T26	PROC 695 723	consultation préanesthésique
+T27	PROC 739 755	examen somatique
+T28	DISO 767 780	particularité
+T29	DISO 813 840	anomalies sensitivo-motrice
+T30	DISO 880 895	symptomatologie
+T31	LIVB 941 949	patiente
+T32	DISO 955 969	amaigrissement
+T33	MEAS 979 983	3 kg
+T34	CHEM 989 1015	antiagrégants plaquettaire
+T35	PROC 1068 1108	kinésithérapie antithyroperformangeaison
+T36	DISO 1128 1161	confusionnages menstruels tardifs
+T37	Concept_Idea 1204 1224	aspect morphologique
+T38	DISO 1310 1330	hypertriglycéridémie
+T39	DISO 1346 1364	hyperprolactinémie
+T40	DISO 1382 1420	néphropathie acromégalocytose primaire
+T41	DISO 1439 1465	gynécomastie hypokinétique
+T43	DISO 1753 1771	métaplasie myxoide
+T44	DISO 1783 1832	hypothyroïdie monoclonale hétérozygote atrophique
+T45	DISO 1853 1882	maladie de Von Recklinghausen
+T46	DISO 1979 2056	méningo-encéphalopathie auto-immune familiale polymyxoide congénitale maligne
+T47	MEAS 2070 2076	T4N0MX
+T48	PROC 2176 2209	chirurgie cervico-utéro-ovarienne
+T49	PROC 2254 2294	injection intramusculaire intracavitaire
+T50	PROC 2308 2370	hystérectomie totale monofoetale scanno-appendiculaire urgente
+T51	PROC 2389 2535	mastectomie antérieure postéro-exombilicale parieto-céphalique anténatale controlatérale endobronchique transoesophagienne percutanée exploratrice
+T53	ANAT 2554 2565	corps fœtal
+T54	ANAT 2576 2591	noyaux fessiers
+T56	Localization 2751 2761	postérieur
+T57	Localization 2789 2805	bilatéral droite
+T58	PROC 2809 2835	examen anatomopathologique
+T60	DISO 2912 3007	processus tumoral carcinomateux kystique des fibres graisseux métatarsiens lutebulaires gauches
+T61	ANAT 2957 3007	fibres graisseux métatarsiens lutebulaires gauches
+T62	Localization 3000 3007	gauches
+T63	MEAS 3016 3022	T4N0MX
+T64	Concept_Idea 3039 3051	plan profond
+T65	PHEN 3076 3094	suites opératoires
+T66	MEAS 3103 3110	simples
+T67	DISO 3119 3140	récidive neurologique
+T68	DISO 3150 3169	symptôme infectieux
+T69	LIVB 3182 3190	patiente
+T70	CHEM 3212 3243	neuroleptiques thymorégulateurs
+T71	PROC 3282 3297	prise en charge
+T72	DISO 3316 3340	complication infectieuse
+T73	PROC 3361 3385	suivi pluridisciplinaire
+T74	MEAS 3411 3423	particulière
+T75	PROC 3476 3506	néphrectomie subtotale étendue
+T76	Localization 3489 3506	subtotale étendue
+T77	Concept_Idea 3561 3574	circonstances
+T78	PROC 3606 3633	contrôle multidisciplinaire
+T79	DISO 3655 3676	difficulté opératoire
+T80	DISO 3687 3720	anomalies cliniquement décelables
+T81	LIVB 3748 3755	malades
+T82	DISO 3862 3910	métaplasie polyploïde mucocellulaire infiltrante
+T83	DISO 3979 4016	détresse grossesse consanguiniténelle
+T84	PHEN 3988 4016	grossesse consanguiniténelle
+T86	DISO 4106 4155	hyperprolactinémie néonatale postnatale stade III
+T87	PROC 4200 4256	échographie obstétricale bipyruvocytaire préanesthésique
+T88	DISO 4287 4366	métaplasie médullaire érythémato-œdémateuse tissulaire encéphalique traumatique

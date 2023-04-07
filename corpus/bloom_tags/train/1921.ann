@@ -1,0 +1,30 @@
+T1	LIVB 3 10	patient
+T2	DISO 30 55	antécédents pathologiques
+T3	MEAS 56 64	notables
+T4	PROC 66 76	consultait
+T5	Hospital 81 89	urgences
+T6	DISO 108 122	amaigrissement
+T7	MEAS 133 137	10kg
+T8	DISO 153 167	déshydratation
+T9	TEMP 177 190	depuis 6 mois
+T10	PHEN 221 236	acuité visuelle
+T11	ANAT 252 261	œil droit
+T12	Localization 256 261	droit
+T13	MEAS 271 294	de plus en plus gênante
+T14	LIVB 319 321	il
+T15	DISO 352 372	signes neurologiques
+T16	DISO 383 423	adénopathies laryngopharyso-rachidiennes
+T17	DISO 488 508	vomissements bilieux
+T18	DISO 539 590	syndrome d'épanchement pariéto-bronchique liquidien
+T19	ANAT 562 590	pariéto-bronchique liquidien
+T20	PROC 637 668	auscultation cardio-vasculiaire
+T21	ANAT 650 668	cardio-vasculiaire
+T22	ANAT 739 770	artérielle fœtale hypertrophiée
+T23	PROC 813 842	coronarographie préopératoire
+T24	LIVB 863 871	patiente
+T25	PROC 878 904	injection intrarachidienne
+T26	CHEM 908 933	produit de contraste iodé
+T27	MEAS 950 957	normale
+T28	PROC 961 983	traitement chirurgical
+T29	PROC 1011 1160	dissection transperitonéale endoscopique coelioscopique cyto-néphrectomie caeco-transverse pancréato-hypogastrique c œliosigmoïdienne type Mac Gregor
+T31	PROC 1161 1166	MCTHC

@@ -1,0 +1,26 @@
+T1	LIVB 20 28	patiente
+T2	DISO 45 70	antécédents pathologiques
+T3	MEAS 71 83	particuliers
+T4	PROC 85 91	admise
+T5	Hospital 95 102	urgence
+T6	Hospital 107 132	urgences ophtalmologiques
+T7	DISO 142 164	céphalées généralisées
+T8	DISO 181 201	hyperacuité visuelle
+T9	TEMP 211 229	depuis trois jours
+T10	PROC 233 248	examen clinique
+T11	ANAT 264 273	œil droit
+T12	Localization 268 273	droit
+T13	MEAS 274 283	perméable
+T14	ANAT 297 307	fond d'œil
+T15	PROC 325 356	examen oto-rhino-laryngologique
+T16	PROC 358 361	ORL
+T17	MEAS 369 375	normal
+T18	PROC 380 393	TDM cérébrale
+T19	ANAT 384 393	cérébrale
+T21	Concept_Idea 518 528	saturation
+T22	PROC 558 567	injection
+T23	DOSE 572 578	200 cc
+T24	CHEM 582 602	produit de contraste
+T25	PROC 607 634	tomodensitométrie cérébrale
+T26	ANAT 625 634	cérébrale
+T27	DISO 672 697	localisations secondaires

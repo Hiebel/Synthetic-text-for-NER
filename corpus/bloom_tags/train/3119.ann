@@ -1,0 +1,20 @@
+T1	LIVB 28 35	patient
+T2	DISO 65 114	cardiopathie congénitale ischémique hypertrophiée
+T3	CHEM 156 168	prédnisolone
+T4	CHEM 171 185	diurétremycine
+T5	CHEM 198 217	hydroxy-chloroquine
+T6	DISO 290 382	thrombose veineuse poplitée dorsiphasique infarcto-necrotico-prostate thrombo-interstitielle
+T8	DISO 399 416	empyème hépatique
+T9	ANAT 407 416	hépatique
+T10	DISO 452 486	embolie intrapéritonéale chronique
+T11	ANAT 460 486	intrapéritonéale chronique
+T12	TEMP 503 516	depuis 2 mois
+T13	PROC 527 542	hospitalisation
+T14	Hospital 547 572	urgences ophtalmologiques
+T15	Concept_Idea 606 633	caractérisation étiologique
+T16	DISO 704 741	accident vasculaire cérébrovasculaire
+T17	ANAT 724 741	cérébrovasculaire
+T18	DISO 759 789	œdème jugulo-crânio-thoracique
+T19	ANAT 765 789	jugulo-crânio-thoracique
+T20	DISO 864 884	traumatisme oculaire
+T21	ANAT 876 884	oculaire

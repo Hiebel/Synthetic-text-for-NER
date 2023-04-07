@@ -1,0 +1,27 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	3 ans
+T3	PROC 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	DISO 91 102	tuméfaction
+T6	ANAT 117 135	membres inférieurs
+T7	TEMP 145 158	depuis 6 mois
+T8	MEAS 173 188	progressivement
+T9	Concept_Idea 192 198	taille
+T10	PROC 202 217	examen clinique
+T11	PROC 222 231	admission
+T12	LIVB 248 254	enfant
+T13	MEAS 258 261	bon
+T14	Concept_Idea 262 274	état général
+T15	DISO 276 283	fébrile
+T16	MEAS 286 290	39°C
+T17	DISO 307 318	traumatisme
+T18	PHEN 334 361	accouchement par voie basse
+T19	PROC 378 394	examen somatique
+T20	DISO 423 432	anomalies
+T21	PROC 436 466	échographie abdomino-pelvienne
+T22	ANAT 448 466	abdomino-pelvienne
+T23	PROC 496 515	bilan préopératoire
+T24	PROC 542 572	ponction pleurale exploratrice
+T25	ANAT 551 572	pleurale exploratrice
+T26	CHEM 614 625	médicaments
+T27	PROC 671 693	technique chirurgicale

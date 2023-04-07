@@ -1,0 +1,91 @@
+T1	PHEN 4 22	suites opératoires
+T2	MEAS 31 38	simples
+T3	PROC 42 67	étude anatomopathologique
+T4	ANAT 74 90	pièce opératoire
+T5	PROC 80 90	opératoire
+T6	DISO 105 140	carcinome épidermoïde du sein droit
+T7	ANAT 130 140	sein droit
+T8	Localization 135 140	droit
+T9	Concept_Idea 143 146	âge
+T10	MEAS 147 155	plus âgé
+T11	MEAS 166 171	26 cm
+T12	Concept_Idea 175 184	grand axe
+T13	PROC 203 237	radio-chimiothérapie néo adjuvante
+T14	DOSE 239 245	300 Gy
+T15	TEMP 245 247	/j
+T16	PROC 264 289	traitements antibiotiques
+T17	CHEM 276 289	antibiotiques
+T18	PROC 321 332	transfusion
+T19	MODE 337 357	voie intramusculaire
+T20	DISO 368 389	récidive métastatique
+T21	DISO 406 435	accident vasculaire cérébrale
+T22	ANAT 426 435	cérébrale
+T23	PROC 441 473	tomodensitométrie X scannoguidée
+T24	PROC 479 488	injection
+T25	ANAT 497 503	thorax
+T26	DISO 515 524	anomalies
+T27	PROC 538 566	scintigraphie crânio-cutanée
+T28	ANAT 552 566	crânio-cutanée
+T29	Concept_Idea 590 620	caractéristiques histologiques
+T30	LIVB 654 661	patient
+T31	PROC 666 688	traitement chirurgical
+T32	PROC 715 734	extubation monobloc
+T33	PROC 736 896	anastomose iléo-mandibulaire endotrachéale fémorale pariéto-aorto-pulmonaire transoesophagienne postéro-sous maxillo-mandibulaire costale jugulaire homolatérale
+T36	PROC 908 956	drainage lymphohistiocytochimique postopératoire
+T37	PROC 962 990	immunofixation thérapeutique
+T38	PROC 993 1013	reprise chirurgicale
+T39	PROC 1020 1049	complément neuropsychiatrique
+T40	PROC 1063 1106	néphrectomie axilectomie gauche asymétrique
+T41	Localization 1088 1106	gauche asymétrique
+T42	DISO 1151 1161	métastases
+T43	DISO 1179 1188	malignité
+T44	DEVI 1201 1226	matériels d'ostéosynthèse
+T45	DISO 1233 1247	déficit moteur
+T46	DISO 1257 1283	symptomatologie cancéreuse
+T47	PROC 1288 1302	TDM abdominale
+T48	ANAT 1292 1302	abdominale
+T49	DISO 1328 1352	nécrose tumorale maligne
+T50	DISO 1380 1421	lésions tissulaires hyperproteinoradiques
+T51	ANAT 1442 1465	membre supérieur utérin
+T52	DISO 1482 1515	mitoses polyclonales éosinophiles
+T53	MEAS 1558 1567	négatives
+T54	PROC 1648 1669	contrôle radiologique
+T55	DISO 1723 1736	particularité
+T56	DISO 1796 1818	résidu galactophorique
+T57	MEAS 1842 1854	1200*1500 mm
+T58	MEAS 1858 1868	490*350 mm
+T59	PROC 1909 1934	hystérotomie exploratrice
+T60	PROC 1953 2083	colostomie segmentaire extemporanéoplastie intracytoplasmique périhilaire congénitale guidée par voie aréolo-trachéale fractionnée
+T61	ANAT 2102 2133	trou anévrysme rétromédiastinal
+T63	PROC 2355 2384	examen clinique préopératoire
+T64	DISO 2403 2446	adénocarcinome pateyeliiforme du sein droit
+T65	ANAT 2436 2446	sein droit
+T66	Localization 2441 2446	droit
+T67	DISO 2451 2459	tumorale
+T68	MEAS 2467 2471	ACR5
+T69	LIVB 2683 2689	malade
+T70	PROC 2705 2729	rachianesthésie générale
+T71	DISO 2748 2769	distension abdominale
+T72	ANAT 2759 2769	abdominale
+T73	DEVI 2794 2827	cathéter double lumière aspiratif
+T74	Concept_Idea 2829 2856	supraconducleaterial direct
+T75	PHEN 2871 2890	alimentation locale
+T76	DISO 2903 2924	récidive hémorragique
+T77	DISO 2935 2952	signes infectieux
+T78	PROC 2966 2983	geste chirurgical
+T79	TEMP 2991 3001	10 minutes
+T80	TEMP 3031 3039	6 heures
+T81	MEAS 3086 3093	simples
+T82	PROC 3117 3160	dérivation intrascensionnelle scanno-guidée
+T83	Concept_Idea 3216 3236	chiffres tensionnels
+T84	Concept_Idea 3250 3275	constantes hémodilaciques
+T85	PROC 3281 3349	thyroidiennectomie percutanée totale endovaginale multidisciplinaire
+T88	Localization 3540 3557	antérieure droite
+T89	ANAT 3580 3615	voies biliaires digestives externes
+T90	ANAT 3682 3706	voie biliaire principale
+T91	MEAS 3716 3720	7 cm
+T92	Concept_Idea 3724 3733	grand axe
+T93	MEAS 3739 3753	33 centimètres
+T94	Concept_Idea 3757 3766	petit axe
+T95	PROC 4156 4182	étude anatomo-pathologique
+T96	PROC 4221 4244	radiothérapie adjuvante

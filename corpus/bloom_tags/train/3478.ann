@@ -1,0 +1,28 @@
+T1	LIVB 16 21	femme
+T2	DISO 56 94	métastases ovariennes cervico-vaginaux
+T3	ANAT 67 94	ovariennes cervico-vaginaux
+T4	PROC 102 127	étude anatomopathologique
+T5	DISO 146 160	tumeur maligne
+T6	DISO 193 206	consanguinité
+T7	DISO 213 246	maladie thromboembolique veineuse
+T8	ANAT 238 246	veineuse
+T9	LIVB 255 262	famille
+T10	LIVB 264 268	elle
+T11	PROC 275 281	admise
+T12	Hospital 285 300	bloc opératoire
+T13	PROC 323 715	curage ganglionnaire ainsi qu'une radiothérapie palliative type broncellée sur tout le péritoine suivi d'une réfection orifice utérin élargie ont été pratiqués mais n'ont pas permis d'exclure l'existence d'autres localisations métastatiques ovariennes décelées chez ce jeune femme ou autres patientes présentant cette même symptomatologie
+Une imagerie par résonance magnétique (IRM) pelvienne
+T14	ANAT 330 343	ganglionnaire
+T15	PROC 357 397	radiothérapie palliative type broncellée
+T16	ANAT 410 419	péritoine
+T17	PROC 432 464	réfection orifice utérin élargie
+T18	ANAT 442 464	orifice utérin élargie
+T19	DISO 536 574	localisations métastatiques ovariennes
+T20	LIVB 592 603	jeune femme
+T21	LIVB 614 623	patientes
+T22	DISO 646 661	symptomatologie
+T23	PROC 666 699	imagerie par résonance magnétique
+T24	ANAT 706 715	pelvienne
+T26	MEAS 828 833	21 cm
+T27	MEAS 836 841	16 cm
+T28	ANAT 874 902	hypoglosse vaginale fundique

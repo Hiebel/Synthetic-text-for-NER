@@ -1,0 +1,44 @@
+T1	LIVB 4 9	femme
+T2	CHEM 39 52	bêtaméthasone
+T3	DOSE 66 74	0,5mg/kg
+T4	TEMP 74 76	/j
+T5	MODE 81 99	voie transdermique
+T6	DISO 139 186	lésions érythémateuses purpuriques prurigineuse
+T7	ANAT 207 217	sein droit
+T8	Localization 212 217	droit
+T9	MEAS 227 231	2 cm
+T10	Concept_Idea 235 244	grand axe
+T11	DISO 251 260	symptômes
+T12	DISO 286 302	signes cliniques
+T13	LIVB 333 339	malade
+T14	DISO 347 375	hyperparathyroïdie nodulaire
+T15	DISO 391 442	hypertrophie ovarienne hypochoriale hypopigmentante
+T16	ANAT 404 442	ovarienne hypochoriale hypopigmentante
+T17	PROC 458 483	examen clinique somatique
+T18	DISO 508 529	troubles neurologique
+T19	DISO 533 551	cardiovasculorénal
+T20	DISO 562 589	anomalies sensitivomotrices
+T21	DISO 662 674	prurigineuse
+T22	PROC 688 732	tomodensitométrie thoraco-abdomino-pelvienne
+T23	ANAT 706 732	thoraco-abdomino-pelvienne
+T24	MEAS 761 767	rapide
+T25	DISO 788 836	syndrome d'épanchement interstitiel péricardique
+T26	ANAT 811 836	interstitiel péricardique
+T27	MEAS 851 862	négligeable
+T28	DISO 918 968	épanchement stercorico-lateroliquidien péripleural
+T29	ANAT 930 968	stercorico-lateroliquidien péripleural
+T30	DISO 973 992	tabagisme chronique
+T31	MEAS 1002 1020	30 paquets-aannées
+T32	MEAS 1026 1044	1280 paquet-mètres
+T33	DISO 1149 1164	œsophagocutanée
+T34	Concept_Idea 1641 1679	localisation anatomopathophysiologique
+T35	PROC 2047 2095	radio-chimiothérapie néo adjuvante type 2RHZ/4RH
+T36	CHEM 2282 2293	dacarbazine
+T37	LIVB 2298 2306	patiente
+T38	PROC 2324 2357	curage ganglionnaire métastatique
+T39	ANAT 2331 2357	ganglionnaire métastatique
+T40	PROC 2359 2363	CIMT
+T41	Localization 2365 2374	bilatéral
+T42	PHEN 2380 2398	suites opératoires
+T43	MEAS 2407 2414	simples
+T44	TEMP 2433 2438	4 ans

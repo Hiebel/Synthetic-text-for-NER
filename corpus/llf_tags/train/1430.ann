@@ -1,0 +1,95 @@
+T1	LIVB 18 25	patient
+T2	DISO 68 100	cholécystectomie du cuir chevelu
+T3	ANAT 88 100	cuir chevelu
+T4	Concept_Idea 105 108	âge
+T5	TEMP 112 118	7 mois
+T6	PROC 123 133	traitement
+T7	PROC 151 170	bilan préopératoire
+T8	DISO 186 194	récidive
+T9	PROC 201 213	mammographie
+T10	DISO 239 258	niveau hydroaérique
+T11	ANAT 267 291	liquide céphalorachidien
+T12	PROC 296 313	tomodensitométrie
+T13	PROC 315 363	TDM) cervico-thoraco- abdomino-abdominopelvienne
+T14	ANAT 320 363	cervico-thoraco- abdomino-abdominopelvienne
+T15	MEAS 390 402	volumineuses
+T16	DISO 403 460	micronodules intraparenchymateux tissulaires métatarsiens
+T17	ANAT 483 506	vaisseaux mésentériques
+T18	MEAS 530 534	4 cm
+T19	MEAS 538 544	1,5 cm
+T20	DISO 604 652	lame d'épanchement sous cutané mucineux calcifié
+T21	ANAT 678 688	rein droit
+T22	Localization 683 688	droit
+T23	MEAS 698 712	environ 1/6 cm
+T24	DISO 726 787	lithiase hypoéchogène hyperéchogène rétropéritonéale arrondie
+T25	ANAT 816 837	annexes pancréatiques
+T26	PROC 856 882	examen anatomopathologique
+T27	DISO 903 915	gène tumoral
+T28	DISO 934 959	lésion maligne secondaire
+T29	DISO 963 975	métaplasique
+T30	LIVB 1030 1038	patiente
+T31	PROC 1042 1067	étude immunohistochimique
+T32	PROC 1068 1071	IHC
+T33	Hospital 1087 1108	urgences pédiatriques
+T34	PHEN 1131 1149	suites opératoires
+T35	MEAS 1158 1165	simples
+T36	MEAS 1229 1233	bien
+T37	PROC 1234 1241	suivies
+T38	PROC 1249 1272	contrôle postopératoire
+T39	DISO 1298 1325	remaniements inflammatoires
+T40	DISO 1336 1370	symptomatologie neuropsychiatrique
+T41	DISO 1376 1409	polyneuropathie maniacodépressive
+T42	DISO 1423 1446	déficit sensitivomoteur
+T43	Concept_Idea 1516 1531	aspect clinique
+T44	MEAS 1652 1667	progressivement
+T45	MEAS 1710 1723	difficilement
+T46	TEMP 1870 1885	quatorze heures
+T47	PROC 1989 2018	entretien psychothérapeutique
+T48	Concept_Idea 2064 2080	idées délirantes
+T49	DISO 2112 2142	dysfonctionnement pathologique
+T50	PROC 2234 2249	geste palliatif
+T51	PROC 2371 2399	scanner naso-gastro-occlusif
+T52	ANAT 2379 2399	naso-gastro-occlusif
+T53	DISO 2424 2466	distension artérielle fémoro-oesophagienne
+T54	ANAT 2446 2466	fémoro-oesophagienne
+T55	MEAS 2477 2484	80 mmHg
+T56	PROC 2514 2546	néphrectomie totale scannoguidée
+T57	PROC 2560 2639	hémicolectomie exploratrice percutanée rémissionnemensionnelle endovascularisée
+T58	PROC 2658 2682	oxygénothérapie curative
+T59	PROC 2745 2771	anticoagulation préventive
+T60	PROC 2804 2851	transfusion sanguine intrathrorétinienne per os
+T61	PROC 2864 2894	antibioprophylaxie parentérale
+T62	PROC 2936 2957	résultat histologique
+T63	DISO 3077 3102	syndrome myélodysplasique
+T64	LIVB 3111 3123	petite fille
+T65	TEMP 3132 3139	six ans
+T66	Hospital 3164 3185	urgences pédiatriques
+T67	DISO 3195 3219	douleurs basi-thoracique
+T68	ANAT 3204 3219	basi-thoracique
+T69	Concept_Idea 3241 3253	état général
+T70	DISO 3267 3293	signes neuropsychiatriques
+T71	DISO 3313 3336	déficit sensitivomoteur
+T72	PROC 3341 3363	traitement substitutif
+T73	CHEM 3365 3377	amoxicilline
+T74	CHEM 3380 3391	paracétamol
+T75	PROC 3427 3439	soins locaux
+T76	PROC 3452 3493	corticostéroïdes injectables intraveineux
+T77	CHEM 3499 3513	gentaméthasone
+T78	DEVI 3528 3543	tampons doseurs
+T79	PROC 3569 3589	suivi préchirurgical
+T80	PHEN 3631 3664	récepteurs adrénalino-conjonctifs
+T81	PROC 3698 3706	contrôle
+T82	DISO 3770 3790	symptômes infectieux
+T83	PROC 3806 3830	consultation spécialisée
+T84	Concept_Idea 3886 3904	plan hémodynamique
+T85	LIVB 3926 3934	patiente
+T86	TEMP 3948 3965	J7 postopératoire
+T87	DISO 3985 4020	décompensation multiviscérale aiguë
+T88	TEMP 4032 4040	5h30 min
+T89	DISO 4055 4091	surinfections bactériennes bulleuses
+T90	MEAS 4114 4138	spontanément septicémies
+T91	DISO 4154 4185	polyadénofibromatose diabétique
+T92	DISO 4215 4234	maladie auto-immune
+T93	Concept_Idea 4553 4582	bénéfices médico-chirurgicaux
+T94	DISO 4670 4689	troubles trophiques
+T95	DISO 4711 4742	prédominations cutanéomuqueuses

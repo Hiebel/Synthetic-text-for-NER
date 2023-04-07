@@ -1,0 +1,88 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 77	particuliers
+T4	PROC 79 84	admis
+T5	Hospital 89 97	urgences
+T6	DISO 107 145	douleur épigastrique aiguë généralisée
+T7	ANAT 115 127	épigastrique
+T8	MEAS 160 171	progressive
+T9	DISO 187 207	vomissements bilieux
+T10	PROC 211 226	examen clinique
+T11	LIVB 237 244	patient
+T12	Concept_Idea 269 286	plan neurologique
+T13	PHEN 290 302	respiratoire
+T14	DISO 311 317	fièvre
+T15	DISO 323 331	anorexie
+T16	PROC 337 360	auscultation abdominale
+T17	ANAT 350 360	abdominale
+T18	DISO 377 399	distension péritonéale
+T19	ANAT 388 399	péritonéale
+T20	DISO 434 464	masse tumorale du flanc gauche
+T21	ANAT 452 464	flanc gauche
+T22	Localization 458 464	gauche
+T23	MEAS 474 479	20 cm
+T24	Concept_Idea 483 492	grand axe
+T25	PROC 497 524	numération formule sanguine
+T26	MEAS 531 538	normale
+T27	LIVB 540 542	Il
+T28	PROC 564 588	anesthésie locorégionale
+T29	ANAT 575 588	locorégionale
+T30	DOSE 593 597	1 ml
+T31	CHEM 601 609	propofol
+T32	DOSE 612 620	10 µg/kg
+T33	CHEM 624 634	sufentanil
+T34	PROC 643 670	réintubation oeso-trachéale
+T35	ANAT 656 670	oeso-trachéale
+T36	PROC 686 710	ventilation artificielle
+T37	DEVI 714 732	cathéter artériien
+T38	ANAT 723 732	artériien
+T39	PROC 769 794	intervention chirurgicale
+T40	PROC 813 836	incision postopératoire
+T41	TEMP 822 836	postopératoire
+T42	ANAT 852 878	grosses intestin grêliques
+T43	PROC 895 904	débloqués
+T44	PROC 910 918	réséqués
+T45	PROC 942 959	reprise digestive
+T46	PROC 964 988	fibroscopie œsophagienne
+T47	ANAT 976 988	œsophagienne
+T48	DISO 1011 1020	mésentère
+T49	DISO 1027 1044	kystes hydatiques
+T50	PROC 1061 1086	infiltration endoscopique
+T51	DISO 1129 1150	pathologies kystiques
+T52	LIVB 1260 1267	patient
+T53	DISO 1311 1326	symptomatologie
+T54	DISO 1331 1349	défense thoracique
+T55	ANAT 1339 1349	thoracique
+T56	TEMP 1359 1372	depuis 6 mois
+T57	MEAS 1384 1399	progressivement
+T58	Concept_Idea 1403 1409	volume
+T59	MEAS 1431 1443	plus marquée
+T60	DISO 1482 1506	traumatisme épigastrique
+T61	PROC 1511 1523	diagnostiqué
+T62	DISO 1566 1598	lésions noduleuses prurigineuses
+T63	ANAT 1630 1635	corps
+T64	DISO 1679 1709	nodules érythémateux purulente
+T65	ANAT 1784 1802	membres inférieurs
+T66	ANAT 1824 1841	cavité abdominale
+T67	ANAT 1872 1893	parenchyme visculaire
+T68	DISO 1924 1957	syndrome d'épanchement péritonéal
+T69	ANAT 1947 1957	péritonéal
+T70	PROC 1960 1990	échographie abdomino-pelvienne
+T71	ANAT 1972 1990	abdomino-pelvienne
+T72	DISO 2004 2470	masse tissulaire hétérogène arrondie hypo échogène hyper vascularisée infiltrant intimement l'épithélium gélatineux séreux pariétal infiltré évoquant peut être plus probablement celui d'origine neuroendocrine vu l'absence de troubles métaboliques péristaltiques tandis qu'autre part il n'y avait pas de souffrance nécrose lésionnelle extirpante suggérant plutôt l'étiologie mésothréo-carcinomateuse maligne hypokaliéno-calcinocellulaire endobronchico-laryngectasique
+T73	DISO 2229 2265	troubles métaboliques péristaltiques
+T74	DISO 2307 2337	souffrance nécrose lésionnelle
+T75	CHEM 2521 2531	tamoxifène
+T76	MODE 2534 2544	voie orale
+T77	DOSE 2546 2552	400 mg
+T78	TEMP 2552 2558	/ jour
+T79	DOSE 2579 2585	800 mg
+T80	TEMP 2585 2590	/jour
+T81	MEAS 2667 2681	macroscopiques
+T82	PROC 2729 2759	complément immunohistochimique
+T83	DISO 2797 2861	carcinome pléomorphe du greffon plexiforme cœliaque pancréatique
+T84	ANAT 2821 2861	greffon plexiforme cœliaque pancréatique
+T85	PROC 2866 2893	traitement médical adjuvant
+T86	CHEM 2921 2940	hydroxy-chloroquine
+T87	CHEM 2942 2955	dacaméthasone
+T88	CHEM 2960 2973	cisatracurium

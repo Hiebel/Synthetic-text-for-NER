@@ -1,0 +1,31 @@
+T1	LIVB 16 24	patiente
+T2	DISO 60 82	polyarthrite purulente
+T3	TEMP 92 105	depuis 2 mois
+T4	DISO 121 147	amaigrissement non chiffré
+T5	PROC 152 176	bilan biologique initial
+T6	DISO 190 206	hyperleucocytose
+T7	MEAS 209 219	13000/mm 3
+T8	DISO 225 319	anémie hypochrome microcytaire normochrome normocytaire ferriprive érythémato-néphropapuleuses
+T9	DISO 337 385	paralysing prurigo polyradiculonegative syndrome
+T10	DISO 400 412	thrombopénie
+T11	MEAS 415 440	15000 éléments blancs/mm3
+T12	CHEM 490 501	céftriaxone
+T13	PROC 508 552	tomodensitométrie thoraco-abdomino-pelvienne
+T14	ANAT 526 552	thoraco-abdomino-pelvienne
+T15	DISO 569 616	masse kystique tissulaire lithiasique hypodense
+T16	MEAS 626 631	12 cm
+T17	Concept_Idea 635 644	grand axe
+T18	MEAS 653 656	2cm
+T19	Concept_Idea 660 673	petite taille
+T20	MEAS 780 788	négativé
+T21	ANAT 819 844	structures gynécologiques
+T22	ANAT 858 878	greffon épigastrique
+T23	DISO 901 923	épanchement péritonéal
+T24	ANAT 913 923	péritonéal
+T25	DISO 940 1071	hypertrophie ganglionnaire rétro-stercorale antihypogastrique palméo-laryngolymphonnellaire cervicale subdiaphragmatique ischémique
+T27	ANAT 1105 1127	muqueuses intestinales
+T28	PROC 1132 1165	imagerie par résonance magnétique
+T29	PROC 1167 1170	IRM
+T31	Concept_Idea 1278 1284	taille
+T32	MEAS 1294 1306	plus intense
+T33	TEMP 1325 1334	24 heures

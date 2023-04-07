@@ -1,0 +1,25 @@
+T1	LIVB 29 37	patiente
+T2	DISO 97 127	surdité congénitale systémique
+T3	DISO 129 154	maladie thromboembellante
+T4	DISO 168 191	hyperthyroïdie primaire
+T5	CHEM 197 217	méthylhydrocortisone
+T6	Hospital 230 255	urgences ophtalmologiques
+T7	DISO 275 296	détresse respiratoire
+T8	PHEN 284 296	respiratoire
+T9	MEAS 311 317	rapide
+T10	TEMP 327 340	depuis 2 mois
+T11	LIVB 369 377	patiente
+T12	DISO 387 415	douleurs abdomino-pelviennes
+T13	ANAT 396 415	abdomino-pelviennes
+T14	DISO 495 545	sensations d'épanchement intrapéritonéal liquidien
+T15	ANAT 520 545	intrapéritonéal liquidien
+T16	DISO 574 590	sténose grêlique
+T17	ANAT 582 590	grêlique
+T18	PROC 634 659	étude immunohistochimique
+T19	DISO 687 714	adénocarcinome hysterasique
+T20	ANAT 725 736	intestinale
+T21	PROC 768 800	technique d'immuno-histochimique
+T22	MEAS 848 855	simples
+T23	DISO 877 892	chorioamniotite
+T24	DISO 914 936	syndrome peropératoire
+T25	DISO 945 956	prurigineux

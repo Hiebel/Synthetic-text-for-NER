@@ -1,0 +1,79 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 46 52	22 ans
+T3	DISO 59 84	antécédents pathologiques
+T4	MEAS 85 97	particuliers
+T5	Hospital 118 126	urgences
+T6	DISO 146 152	fièvre
+T7	TEMP 175 189	depuis 3 jours
+T8	DISO 204 213	dysphonie
+T9	PROC 217 232	examen clinique
+T10	ANAT 276 299	membre supérieur gauche
+T11	Localization 293 299	gauche
+T12	DISO 306 335	masse tissulaire hypoéchogène
+T13	MEAS 345 349	7 cm
+T14	Concept_Idea 353 361	diamètre
+T15	Concept_Idea 373 378	poids
+T16	MEAS 394 399	15 Kg
+T17	PHEN 405 423	suites opératoires
+T18	MEAS 432 439	simples
+T19	DISO 465 482	signes infectieux
+T20	DISO 497 517	vomissements bilieux
+T21	DISO 546 566	rectorragie digitale
+T22	DISO 582 611	manifestations psychomotrices
+T23	PROC 617 636	enquête étiologique
+T24	LIVB 656 662	jumeau
+T25	PROC 717 741	laparotomie exploratrice
+T26	TEMP 748 758	3 semaines
+T27	TEMP 762 768	2 mois
+T28	Concept_Idea 779 799	paramètres cliniques
+T29	PROC 813 835	consultation prénatale
+T30	CHEM 837 848	Rifampicine
+T31	CHEM 849 863	Hydrocortisone
+T32	LIVB 882 892	nouveau-né
+T33	DEVI 906 928	cathéter intrakystique
+T34	DISO 983 1019	symptomatologie obstétricale maligne
+T35	PROC 1124 1171	chimiothérapie antibacillaire substitutionnelle
+T36	PROC 1185 1203	antibioprophylaxie
+T37	PROC 1335 1362	bilan radiologique standard
+T38	DISO 1381 1410	récidive clinico-radiologique
+T39	PROC 1474 1507	scanner thoraco-abdomino- pelvien
+T40	ANAT 1482 1507	thoraco-abdomino- pelvien
+T41	PROC 1527 1546	traitement adjuvant
+T42	MEAS 1558 1564	normal
+T43	Concept_Idea 1571 1593	caractère diagnostique
+T44	DISO 1629 1688	métastase intratrionucleocanalaire tuberculeuse congénitale
+T45	LIVB 1724 1731	enfants
+T46	DISO 1867 1891	adénomégalies cervicales
+T47	PROC 1916 1934	grossesse monobloc
+T48	MEAS 1979 1988	favorable
+T49	MEAS 2094 2119	1350 giga/kg gestationnel
+T50	MEAS 2127 2149	1200 Giga/kg maternels
+T51	DISO 2193 2211	crises convulsives
+T52	DISO 2405 2429	hallucinations auditives
+T53	DISO 2600 2633	bruits hydroélectro-encéphaliques
+T54	DISO 2648 2676	troubles neuropsychiatriques
+T55	MEAS 2819 2834	progressivement
+T56	Concept_Idea 2870 2886	fréquents vitaux
+T57	MEAS 2889 2902	80 battements
+T58	TEMP 2903 2923	toutes les 10minutes
+T59	ANAT 3189 3211	membre supérieur droit
+T60	Localization 3206 3211	droit
+T61	DEVI 3236 3261	pontage aorto-oesophagien
+T62	PHEN 3267 3285	suites opératoires
+T63	DISO 3299 3313	particularités
+T64	PROC 3319 3346	examen anatomo-pathologique
+T65	DISO 3365 3391	léiomyome mucineux myxoide
+T66	DISO 3417 3445	ostéochondrite hypertrophiée
+T67	ANAT 3459 3492	nerf thoracique antérieure droite
+T68	Localization 3475 3492	antérieure droite
+T69	CHEM 3505 3525	produit de contraste
+T70	ANAT 3599 3616	bouche œdémateuse
+T71	Concept_Idea 3638 3644	taille
+T72	DISO 3694 3710	signe infectieux
+T73	DISO 3728 3752	remaniements angiomateux
+T74	DISO 3763 3808	zones charnues érythémato-giganto-cellulaires
+T75	DISO 3818 3843	lésion tissulaire maligne
+T76	PROC 3857 3887	traitement médical substitutif
+T77	PROC 3967 4003	traitements médicalement nécessaires
+T78	LIVB 4130 4139	patientes
+T79	LIVB 4231 4238	malades

@@ -1,0 +1,81 @@
+T1	PROC 22 27	admis
+T2	Hospital 32 40	urgences
+T3	DISO 53 74	distension abdominale
+T4	ANAT 64 74	abdominale
+T5	MEAS 90 101	progressive
+T6	PROC 105 120	examen clinique
+T7	Concept_Idea 131 143	état général
+T8	MEAS 144 150	altéré
+T9	DISO 156 162	fièvre
+T10	DISO 172 188	signe infectieux
+T11	PROC 201 222	radiographie du genou
+T12	ANAT 217 222	genou
+T13	DISO 239 266	niveaux hydrothérapeutiques
+T14	ANAT 275 302	région sous clavière gauche
+T15	Localization 296 302	gauche
+T16	DISO 316 338	hépatomégalie polylobé
+T17	DISO 359 388	symptômes neuropsychiatriques
+T18	PROC 394 408	interrogatoire
+T19	PROC 421 433	consultation
+T20	ANAT 457 477	artérielle chronique
+T21	TEMP 487 502	depuis six mois
+T22	MEAS 521 536	progressivement
+T23	MEAS 555 565	90/40 mmHg
+T24	Concept_Idea 567 569	VN
+T25	PROC 576 601	fibroscopie nasopharyngée
+T26	ANAT 588 601	nasopharyngée
+T27	Concept_Idea 637 648	température
+T28	PROC 699 718	bilan préopératoire
+T29	PROC 722 746	échographie-mammographie
+T30	DISO 768 790	anomalie morphologique
+T31	PROC 834 860	complément scannographique
+T32	PROC 875 916	scanner cervico-thoraco-abdomino- pelvien
+T33	ANAT 883 916	cervico-thoraco-abdomino- pelvien
+T34	PROC 931 947	avis chirurgical
+T35	DISO 961 997	pancréatite purulente multiloculaire
+T36	MEAS 1007 1012	14 cm
+T37	Concept_Idea 1016 1024	diamètre
+T38	DISO 1045 1086	processus lésionnel tissulaire atrophique
+T39	MEAS 1095 1099	6 cm
+T40	Concept_Idea 1103 1112	grand axe
+T41	DISO 1120 1126	tumeur
+T42	MEAS 1139 1148	stade III
+T43	LIVB 1292 1299	malades
+T44	PROC 1317 1363	antibiothérapie antigrippale substitutionnelle
+T45	CHEM 1369 1378	imipenème
+T46	CHEM 1381 1392	céftriaxone
+T47	CHEM 1395 1420	acide acétyle salicylique
+T48	CHEM 1423 1437	gentaméthasone
+T49	DEVI 1444 1457	plans cutanés
+T50	ANAT 1502 1518	muqueuse rectale
+T51	Concept_Idea 1543 1560	aspect esthétique
+T52	PROC 1658 1698	néphrectomie totale élargie bidisséminée
+T54	PROC 1793 1845	incision axillaire endotrachéale transoeso-trachéale
+T55	PROC 1859 1936	résection gastroduodénale inguinale segmentaire cervicale moyenne extemporané
+T56	PROC 1954 1990	contrôle radiologique postopératoire
+T57	PROC 2013 2025	intervention
+T58	DISO 2050 2070	hypercholestérolémie
+T59	MEAS 2073 2082	2,7mmol/l
+T60	MEAS 2090 2103	0,3 mEq/litre
+T61	MEAS 2128 2136	158 mg/l
+T62	LIVB 2192 2206	parasitologues
+T63	DISO 2225 2244	hypocholestérolémie
+T64	MEAS 2247 2277	504 milligrammes par décilitre
+T65	MEAS 2444 2473	1700 kilogramme par décilitre
+T66	MEAS 2479 2482	20%
+T67	MEAS 2499 2509	similaires
+T68	DISO 2556 2623	métastases ganglionnaires mésenchymateuses rénales antroperidiennes
+T69	ANAT 2567 2623	ganglionnaires mésenchymateuses rénales antroperidiennes
+T70	Concept_Idea 2632 2656	plan anatomopathologique
+T71	ANAT 2746 2762	cordon ombilical
+T72	DISO 2840 2867	symptomatologie lithiasique
+T73	DISO 2904 2944	hémangiome ostéoïde adipocytaire maligne
+T74	PROC 2966 2985	traitement adjuvant
+T75	TEMP 2987 3005	pendant 6 semaines
+T76	MEAS 3086 3099	satisfaisante
+T77	PROC 3147 3172	bilan immunohistochimique
+T78	LIVB 3207 3217	oncologues
+T79	DISO 3231 3296	récidive tumorale liquidienne anaplasique carcinomateuse kystique
+T80	DISO 3314 3332	facteur rhumatoïde
+T81	PROC 3411 3442	thérapeutique substitutionnelle
+T82	MEAS 3447 3456	favorable

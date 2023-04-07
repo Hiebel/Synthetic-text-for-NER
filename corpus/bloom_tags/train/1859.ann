@@ -1,0 +1,38 @@
+T1	LIVB 4 9	femme
+T2	PHEN 84 96	respiratoire
+T3	DEVI 115 137	cathéter nasogastrique
+T5	PROC 142 148	admise
+T6	Hospital 153 175	urgences chirurgicales
+T7	DISO 205 226	détresse respiratoire
+T8	PHEN 214 226	respiratoire
+T9	MEAS 241 252	progressive
+T10	TEMP 262 279	depuis deux jours
+T11	LIVB 286 289	son
+T12	PROC 290 305	hospitalisation
+T13	DISO 343 381	syndrome d’épanchement intrapéritonéal
+T14	ANAT 366 381	intrapéritonéal
+T15	MEAS 392 398	2500ml
+T16	PROC 415 433	traitement médical
+T17	CHEM 454 467	noradrénaline
+T18	CHEM 470 482	prédnisolone
+T19	CHEM 486 497	nicardipril
+T20	MODE 535 554	voie intra veineuse
+T21	CHEM 610 618	propofol
+T22	CHEM 621 635	morphifentanil
+T23	MEAS 693 706	0,05mg/kg/min
+T24	PROC 713 740	stabilisation hémodynamique
+T25	MEAS 815 828	plus marquées
+T26	PROC 859 884	réanimation préopératoire
+T28	LIVB 1117 1122	fœtus
+T29	PROC 1163 1207	investigations radiologiques complémentaires
+T30	PROC 1259 1279	traitement palliatif
+T31	DISO 1445 1473	épanchement intra-péritonéal
+T32	ANAT 1457 1473	intra-péritonéal
+T33	DISO 1558 1581	cholécystite ischémique
+T34	DISO 1591 1613	organomégalie biliaire
+T35	DISO 1624 1654	troubles hydro-électrolytiques
+T36	DISO 1674 1710	phéochromocytome congénital kystique
+T37	PROC 1715 1746	radiothérapie externe adjuvante
+T38	PROC 1964 1996	spléno-splénectomie exploratrice
+T39	ANAT 2024 2039	flux spléniques
+T40	Localization 2110 2119	bilatéral

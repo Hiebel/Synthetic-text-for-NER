@@ -1,0 +1,77 @@
+T1	LIVB 4 15	jeune femme
+T2	PROC 59 83	chirurgie prophylactique
+T3	DEVI 88 107	curette menstruelle
+T4	PROC 126 131	reçue
+T5	Hospital 136 144	urgences
+T6	DISO 161 182	détresse respiratoire
+T7	PHEN 170 182	respiratoire
+T8	TEMP 202 215	depuis 2 mois
+T9	MEAS 230 236	rapide
+T10	PROC 253 271	traitement médical
+T11	CHEM 284 296	Amoxicilline
+T12	CHEM 297 313	Sulfaméthoxazole
+T13	DOSE 315 322	3 mg/kg
+T14	TEMP 322 328	/heure
+T15	CHEM 331 342	Ceftriaxone
+T16	DOSE 343 348	20 mg
+T17	TEMP 348 350	/j
+T18	PROC 355 379	exploration chirurgicale
+T19	DISO 403 412	anomalies
+T20	DISO 441 464	dilatation épigastrique
+T21	ANAT 452 464	épigastrique
+T22	DISO 471 491	métastases kystiques
+T23	DISO 505 519	lésion maligne
+T24	LIVB 552 560	patiente
+T25	PROC 587 621	radiothérapie palliative adjuvante
+T26	ANAT 634 666	parenchyme pubicocervico-vaginal
+T27	MEAS 677 691	30Gy /fraction
+T28	PROC 772 781	injection
+T29	CHEM 785 829	produit de radionucléidés iodoprétronéphrine
+T30	CHEM 995 1009	hydrocortisone
+T31	DISO 1040 1055	symptomatologie
+T32	TEMP 1066 1073	2 jours
+T33	LIVB 1080 1083	son
+T34	PROC 1084 1099	hospitalisation
+T35	DISO 1131 1147	syndrome fébrile
+T36	MEAS 1162 1173	progressive
+T37	DISO 1191 1205	amaigrissement
+T38	MEAS 1216 1221	15 kg
+T39	DISO 1247 1266	insuffisance rénale
+T40	ANAT 1260 1266	rénale
+T41	DISO 1312 1333	diurèse néphrotonique
+T42	MEAS 1343 1350	intense
+T43	MEAS 1362 1377	progressivement
+T44	Concept_Idea 1381 1390	fréquence
+T45	LIVB 1411 1415	elle
+T46	MEAS 1506 1513	normaux
+T47	DISO 1537 1556	pleurésie nicturale
+T48	DISO 1563 1588	troubles sensitivomoteurs
+T49	DISO 1615 1624	céphalées
+T50	DISO 1687 1706	traumatisme crânien
+T51	DISO 1853 1881	prise médicamenteuse toxique
+T52	LIVB 1884 1888	Elle
+T53	Hospital 1913 1938	urgences ophtalmologiques
+T54	DISO 1959 1988	hypotonie auditivo-tendineuse
+T55	ANAT 1969 1988	auditivo-tendineuse
+T56	TEMP 1997 2013	la première fois
+T57	MEAS 2201 2209	brulante
+T58	DISO 2227 2276	paralysie motrice des muscles cervico-thyroïdiens
+T60	PROC 2280 2295	examen clinique
+T61	LIVB 2309 2317	patiente
+T62	MEAS 2321 2324	bon
+T63	PHEN 2325 2351	développement psychomoteur
+T64	DISO 2367 2436	œdème cutanéo-folliculo-lésionnel du sinus caverneux inféro-ombilical
+T66	ANAT 2404 2436	sinus caverneux inféro-ombilical
+T67	Localization 2438 2441	sus
+T68	Concept_Idea 2459 2465	aspect
+T69	MEAS 2466 2471	lissé
+T70	CHEM 2515 2535	produit de contraste
+T71	PROC 2539 2563	exploration chirurgicale
+T72	DISO 2580 2604	masse tissulaire maligne
+T73	MEAS 2613 2618	18 cm
+T74	MEAS 2623 2628	14 cm
+T75	MEAS 2638 2641	5cm
+T76	Concept_Idea 2645 2654	grand axe
+T77	MEAS 2656 2668	bien limitée
+T78	DISO 2674 2714	envahissement ganglionnaire métastatique
+T79	ANAT 2688 2714	ganglionnaire métastatique

@@ -1,0 +1,28 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	3 ans
+T3	DISO 36 61	antécédents pathologiques
+T4	MEAS 62 70	notables
+T5	DISO 91 97	fièvre
+T6	MEAS 100 104	40°C
+T7	DISO 120 145	vomissements alimentaires
+T8	DISO 152 166	amaigrissement
+T9	PROC 183 209	radiographie du thoracique
+T10	ANAT 199 209	thoracique
+T11	DISO 232 317	opacité centrale lobaire latéro-thoracique basithoracique angulo-capillaire hypodense
+T12	Localization 240 248	centrale
+T13	ANAT 342 374	hémi-diaphragme thoracique droit
+T14	Localization 369 374	droit
+T15	MEAS 384 388	24cm
+T16	Concept_Idea 392 401	grand axe
+T17	ANAT 417 468	parenchyme hyo-pulmonaire laryngopharyngéo-tracheal
+T18	PROC 473 491	bilan radiologique
+T19	DISO 509 581	pneumo médiastinothrépanique ischémato-fibro-nodulaire hypo-vascularisée
+T20	ANAT 598 628	surrénales pariéto-bronchiques
+T21	ANAT 655 687	fosse nasale homolatérale droite
+T22	Localization 668 687	homolatérale droite
+T23	LIVB 715 723	patiente
+T24	DISO 733 744	pathologies
+T25	ANAT 777 787	liquidiens
+T26	DISO 798 835	adénopathies métaphyso-hypogastriques
+T27	ANAT 811 835	métaphyso-hypogastriques
+T28	TEMP 845 859	depuis 12 mois

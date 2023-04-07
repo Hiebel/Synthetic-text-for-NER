@@ -1,0 +1,54 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	10 ans
+T3	DISO 39 48	symptômes
+T4	DISO 52 80	anomalies neurodégénératives
+T5	TEMP 106 112	6 mois
+T6	LIVB 119 122	son
+T7	PROC 123 132	admission
+T8	Hospital 136 179	service d'accueil des urgences pédiatriques
+T9	PROC 251 263	hospitalisés
+T10	MEAS 314 325	12000 UI/ml
+T11	LIVB 332 334	sa
+T12	LIVB 335 339	sœur
+T13	TEMP 348 354	15 ans
+T14	LIVB 367 370	ses
+T15	LIVB 371 385	petits-parents
+T16	MEAS 417 427	1400 UI/ml
+T17	MEAS 431 441	1600 UI/ml
+T18	DISO 474 503	souffrance placento-pelvienne
+T19	ANAT 485 503	placento-pelvienne
+T20	Concept_Idea 674 680	aspect
+T21	DISO 696 728	épanchement liquidien péritonéal
+T22	ANAT 708 728	liquidien péritonéal
+T23	PROC 744 759	examen clinique
+T24	DISO 771 784	particularité
+T25	PROC 791 800	recherche
+T26	DISO 832 865	syndrome d'épanchement péritonéal
+T27	ANAT 855 865	péritonéal
+T28	PROC 871 907	tomodensitométrie abdomino-pelvienne
+T29	ANAT 889 907	abdomino-pelvienne
+T30	PROC 909 931	TDM abdomino-pelvienne
+T31	DISO 949 1000	paragangliome sécrétrant d'hémosidérocholestérolase
+T32	CHEM 976 1000	hémosidérocholestérolase
+T33	ANAT 1015 1028	pelvis utérin
+T34	MEAS 1038 1043	18 mm
+T35	Concept_Idea 1047 1056	grand axe
+T36	MEAS 1058 1075	bien systématisée
+T37	LIVB 1095 1099	Elle
+T38	PROC 1117 1142	traitement antibacillaire
+T39	DOSE 1147 1152	400mg
+T40	MODE 1153 1165	voie buccale
+T41	CHEM 1176 1189	metaméthasone
+T42	CHEM 1190 1203	dexaméthasone
+T43	Localization 1230 1246	au premier degré
+T44	PROC 1260 1285	carcinothérapie adjuvante
+T45	DISO 1644 1650	tumeur
+T46	ANAT 1666 1691	mésentère hyo-thyroïdiens
+T47	PROC 1895 1915	biopsie exo-tumorale
+T48	MEAS 1930 1937	normale
+T49	DISO 2019 2046	épanchement intrapéritonéal
+T50	ANAT 2031 2046	intrapéritonéal
+T51	PROC 2103 2129	radiothérapie néoadjuvante
+T52	DISO 2147 2163	fistule grêlique
+T53	ANAT 2155 2163	grêlique
+T54	MEAS 2195 2208	spectaculaire

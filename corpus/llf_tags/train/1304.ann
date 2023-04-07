@@ -1,0 +1,86 @@
+T1	CHEM 41 64	corticoïde intraveineux
+T2	PROC 91 100	admission
+T3	Hospital 104 119	bloc opératoire
+T4	PROC 125 157	oxygénothérapie antihypertensive
+T5	LIVB 187 197	nouveau-né
+T6	DISO 202 208	fièvre
+T7	TEMP 231 248	depuis deux jours
+T8	Concept_Idea 290 308	état hémodynamique
+T9	MEAS 348 352	14kg
+T10	MEAS 358 362	12kg
+T11	DEVI 366 387	boudin lyophilisateur
+T12	CHEM 412 424	antibiotique
+T13	CHEM 436 460	acide acétyle glutamique
+T14	CHEM 463 473	aminosides
+T15	CHEM 476 489	métronidazole
+T16	CHEM 492 506	céphalosporine
+T17	CHEM 509 523	neuroleptiques
+T18	CHEM 526 541	chloramphénicol
+T19	CHEM 544 555	rifampicine
+T20	CHEM 558 568	éthambutol
+T21	CHEM 571 585	sel de lithium
+T22	CHEM 588 603	calcium glucosé
+T23	CHEM 606 616	isoniazole
+T24	CHEM 619 631	pyrazinamide
+T25	CHEM 634 642	propofol
+T26	CHEM 645 655	ethambutol
+T27	CHEM 658 667	potassium
+T28	CHEM 670 683	fluoroquinone
+T29	CHEM 686 707	dihydroxyprogesterone
+T30	CHEM 710 720	carbamates
+T31	CHEM 723 736	phénoxaparine
+T32	CHEM 739 762	analogues plaquettaires
+T33	CHEM 765 779	hydrocortisone
+T34	CHEM 782 794	prédnisolone
+T35	CHEM 797 808	nicardipine
+T36	CHEM 811 821	antalgique
+T37	CHEM 824 838	halopéridolone
+T38	CHEM 841 851	œstrogènes
+T39	CHEM 854 868	catécholamines
+T40	CHEM 871 884	cotrimoxazole
+T41	CHEM 887 897	adrénaline
+T42	CHEM 900 914	ciprofloxacine
+T43	CHEM 917 939	carbonate de magnésium
+T44	CHEM 942 953	cortisolone
+T45	CHEM 956 969	polynitrolène
+T46	CHEM 972 983	gentamycine
+T47	CHEM 986 996	metformine
+T48	CHEM 999 1018	valproate de sodium
+T49	CHEM 1021 1029	aspirine
+T50	CHEM 1032 1044	vitamine B12
+T51	CHEM 1047 1060	cyperméthrine
+T52	CHEM 1063 1078	corticostéroïde
+T53	PROC 1082 1097	examen clinique
+T54	DISO 1109 1123	particularités
+T55	LIVB 1128 1136	patiente
+T56	DISO 1152 1174	troubles hydro-nerveux
+T57	ANAT 1183 1190	abdomen
+T58	MEAS 1191 1199	distendu
+T59	ANAT 1214 1220	selles
+T60	MEAS 1229 1250	légèrement décolorées
+T61	PROC 1255 1277	radiographie du thorax
+T62	ANAT 1271 1277	thorax
+T63	DISO 1310 1332	niveaux hydro-aériques
+T64	DISO 1339 1376	hernie postéro-inférieure anévrysmale
+T65	Localization 1346 1364	postéro-inférieure
+T66	PROC 1392 1407	examen physique
+T67	DISO 1419 1432	particularité
+T68	PROC 1436 1455	électrocardiogramme
+T69	PROC 1457 1460	OCT
+T70	PHEN 1478 1493	rythme sinusale
+T71	TEMP 1518 1532	quatre minutes
+T72	Concept_Idea 1556 1569	rythme normal
+T73	Concept_Idea 1608 1624	temps opératoire
+T74	PROC 1630 1674	scintigraphie formule sanguine préopératoire
+T75	PROC 1675 1679	ECBU
+T76	PROC 1695 1707	surveillance
+T77	MEAS 1720 1728	négative
+T78	DISO 1756 1777	récidive hémorragique
+T79	DISO 1787 1810	localisation secondaire
+T80	PROC 1824 1851	contrôle neuropsychiatrique
+T81	LIVB 1914 1922	patiente
+T82	DISO 1967 2005	syndrome délirant schizophrénique aigu
+T83	LIVB 2028 2032	elle
+T84	Hospital 2114 2135	service psychiatrique
+T85	Concept_Idea 2188 2214	activités professionnelles
+T87	PROC 2447 2486	prise en charge thérapeutique adjuvante

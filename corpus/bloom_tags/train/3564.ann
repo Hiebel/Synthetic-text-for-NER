@@ -1,0 +1,24 @@
+T1	LIVB 16 24	patiente
+T2	DISO 72 97	métastases pépigastriques
+T3	ANAT 83 97	pépigastriques
+T4	PROC 103 128	chimiothérapie palliative
+T5	CHEM 134 141	taxanes
+T6	PROC 152 157	revue
+T7	DISO 176 198	rhabdomyome kysticoïde
+T8	PROC 212 256	tomodensitométrie thoraco-abdomino-pelvienne
+T9	ANAT 230 256	thoraco-abdomino-pelvienne
+T10	MEAS 299 307	négatifs
+T11	DISO 323 338	symptomatologie
+T12	TEMP 349 363	environ 4 mois
+T13	MODE 384 410	voie médicamenteuse locale
+T14	DISO 425 438	préménopeuses
+T15	MEAS 453 460	intense
+T16	MEAS 507 512	29 cm
+T17	Concept_Idea 516 525	grand axe
+T18	DISO 653 685	fistule oropharyngo-œsophagienne
+T19	ANAT 661 685	oropharyngo-œsophagienne
+T20	ANAT 700 726	endovaginale bilio-liquide
+T21	DISO 782 805	localisation nécrotique
+T22	DISO 811 847	ganglion épithélium papillocoeluleux
+T23	ANAT 858 868	pulmonaire
+T24	DISO 1027 1059	lésions pigmentées prurigineuses

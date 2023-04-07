@@ -1,0 +1,60 @@
+T1	LIVB 20 31	jeune fille
+T2	TEMP 35 41	18 ans
+T3	DISO 48 73	antécédents pathologiques
+T4	MEAS 74 86	particuliers
+T5	PROC 101 107	admise
+T6	Hospital 112 120	urgences
+T7	DISO 130 150	vomissements bilieux
+T8	PROC 154 169	examen clinique
+T9	LIVB 183 191	patiente
+T10	Concept_Idea 206 224	plan hémodynamique
+T11	PHEN 228 240	respiratoire
+T12	ANAT 249 256	abdomen
+T13	MEAS 257 265	sensible
+T14	CHEM 271 289	bronchodilatateurs
+T15	DOSE 291 296	50 mg
+T16	TEMP 296 301	/24 h
+T17	PROC 316 335	bilan préopératoire
+T18	DISO 347 360	particularité
+T19	PROC 364 375	échographie
+T20	DISO 404 426	masse tumorale maligne
+T22	MEAS 536 540	2 cm
+T23	Concept_Idea 544 553	grand axe
+T24	MEAS 563 585	environ 15 centimètres
+T25	Concept_Idea 589 598	petit axe
+T26	PROC 603 633	TDM thoraco-abdomino-pelvienne
+T27	ANAT 607 633	thoraco-abdomino-pelvienne
+T28	DISO 660 678	signe neurologique
+T29	PROC 690 705	toucher vaginal
+T30	ANAT 698 705	vaginal
+T31	DISO 720 759	symptômes oedémato-trachéo-oesophagiens
+T32	ANAT 796 807	lobe utérin
+T33	PROC 812 847	traitement chirurgical conservateur
+T34	PROC 852 901	corticostéroscopies intraveineuses scanno-guidées
+T35	DISO 987 1045	sténose médiastino-nervicale lobaire bilatérale fistulisée
+T37	Localization 1024 1045	bilatérale fistulisée
+T38	ANAT 1066 1085	fosse nasale droite
+T39	Localization 1079 1085	droite
+T45	PROC 1355 1369	coupes axiales
+T46	PROC 1374 1414	antibiothérapie probabiliste fractionnée
+T47	PROC 1470 1492	induction anesthésique
+T48	PROC 1545 1584	perfusion aspirative intrathérapeutique
+T49	DEVI 1590 1606	seringue doseuse
+T50	PROC 1629 1653	intubation endotrachéale
+T51	ANAT 1673 1730	vésicule biliaire cave sus mandibulaire supérieure gauche
+T52	Localization 1696 1699	sus
+T53	Localization 1724 1730	gauche
+T54	PROC 1754 1773	surveillance active
+T55	TEMP 1798 1804	30 min
+T56	MEAS 1837 1844	simples
+T57	DISO 1854 1863	infection
+T58	DISO 1873 1892	déficit fonctionnel
+T59	PROC 1921 1947	explorations radiologiques
+T60	DISO 2036 2077	méningo-encéphalopathie herniaire stade E
+T61	PROC 2151 2165	investigations
+T62	DISO 2193 2260	neurofibromatosplénomégalie épidermocytogenèse kystique congénitale
+T63	LIVB 2270 2276	enfant
+T64	TEMP 2284 2290	3 mois
+T65	TEMP 2304 2310	9 mois
+T66	PROC 2321 2345	consultations prénatales
+T67	PROC 2358 2374	transit néonatal

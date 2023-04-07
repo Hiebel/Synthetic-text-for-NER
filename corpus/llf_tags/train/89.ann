@@ -1,0 +1,46 @@
+T1	LIVB 15 20	homme
+T2	DISO 52 64	pathologique
+T3	MEAS 65 76	particulier
+T4	PROC 78 83	Admis
+T5	Hospital 88 96	urgences
+T6	DISO 105 126	syndrome hémorragique
+T7	DISO 143 163	tumeur du rein droit
+T8	ANAT 153 163	rein droit
+T9	Localization 158 163	droit
+T10	DISO 173 202	symptômes pseudo-traumatiques
+T11	DISO 210 216	fièvre
+T12	TEMP 226 247	depuis quelques jours
+T13	PROC 253 262	admission
+T14	Concept_Idea 266 277	température
+T15	MEAS 286 290	39°C
+T16	PHEN 304 326	fréquence respiratoire
+T17	MEAS 329 346	110 cycles/minute
+T18	PROC 362 377	examen clinique
+T19	DISO 389 398	anomalies
+T20	DISO 416 425	dysphonie
+T21	DISO 435 459	signe neuropsychiatrique
+T22	PROC 471 490	électrocardiogramme
+T23	MEAS 536 561	progressivement réguliers
+T24	ANAT 636 646	artérielle
+T25	PROC 694 706	consultation
+T26	DEVI 744 757	bébé monobloc
+T27	MEAS 765 777	2050 grammes
+T28	PROC 823 841	geste contraceptif
+T29	PROC 846 870	échographie obstétricale
+T30	DISO 910 934	thrombophlébite septique
+T31	DISO 944 970	adénocarcinome épidermoïde
+T32	PROC 975 988	TDM abdominal
+T33	ANAT 979 988	abdominal
+T34	MEAS 1001 1008	normale
+T35	PROC 1035 1050	anticoagulation
+T36	DISO 1095 1116	néoplasie néoplasique
+T37	MEAS 1207 1217	favorables
+T38	PROC 1223 1238	oxygénothérapie
+T39	CHEM 1244 1260	sulfaméthoxazole
+T40	PROC 1274 1320	antibioprophylaxie antiparasitaire parentérale
+T41	DOSE 1355 1361	100 mg
+T42	TEMP 1365 1369	/24h
+T43	CHEM 1372 1389	aminosides libres
+T44	Concept_Idea 1442 1460	état hémodynamique
+T45	DISO 1480 1509	complication thromboembolique
+T46	PROC 1528 1556	chimiothérapie néo adjuvante

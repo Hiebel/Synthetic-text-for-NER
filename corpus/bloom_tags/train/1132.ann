@@ -1,0 +1,28 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 73	notables
+T4	PROC 75 80	admis
+T5	Hospital 85 93	urgences
+T6	DISO 103 130	douleurs abdominales aiguës
+T7	ANAT 112 123	abdominales
+T8	TEMP 140 156	depuis 48 heures
+T9	DISO 173 179	fièvre
+T10	PROC 196 211	examen clinique
+T11	LIVB 228 235	patient
+T12	MEAS 239 242	bon
+T13	Concept_Idea 243 255	état général
+T14	MEAS 264 268	8/10
+T15	DISO 271 281	apyrétique
+T16	Concept_Idea 299 317	plan hémodynamique
+T17	DISO 339 372	syndrome d'épanchement péritonéal
+T18	ANAT 362 372	péritonéal
+T19	DISO 400 437	tumeur kystique du liquide péritonéal
+T20	ANAT 419 437	liquide péritonéal
+T21	ANAT 453 461	épiploon
+T22	PROC 494 531	tomodensitométrie abdomino- pelvienne
+T23	ANAT 512 531	abdomino- pelvienne
+T24	PROC 537 565	anastomose iléo-anastomotale
+T25	ANAT 548 565	iléo-anastomotale
+T26	DEVI 570 586	sonde prolongeur
+T27	CHEM 576 586	prolongeur
+T28	DISO 610 624	myxome maligne

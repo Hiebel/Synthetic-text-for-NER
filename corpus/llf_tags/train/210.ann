@@ -1,0 +1,72 @@
+T1	LIVB 2 9	patient
+T2	PROC 30 41	hospitalisé
+T3	DISO 51 58	dyspnée
+T4	MEAS 73 84	progressive
+T5	TEMP 94 107	depuis 2 mois
+T6	PROC 113 128	examen clinique
+T7	ANAT 133 155	membre supérieur droit
+T8	Localization 150 155	droit
+T9	Concept_Idea 161 173	état général
+T10	MEAS 174 180	altéré
+T11	PROC 190 200	inspection
+T12	DISO 205 226	lésions prurigineuses
+T13	ANAT 240 245	tronc
+T14	DISO 258 283	déficit en glucantime LDH
+T15	CHEM 269 283	glucantime LDH
+T16	DISO 296 312	signes cliniques
+T17	PHEN 327 351	réflexes ostéo-tendineux
+T18	ANAT 336 351	ostéo-tendineux
+T19	ANAT 355 364	abdominal
+T20	MEAS 373 393	légèrement atypiques
+T21	PROC 398 415	biologie standard
+T22	PROC 417 427	hémogramme
+T23	PROC 429 445	bilan biologique
+T24	PROC 447 457	sérologies
+T25	PROC 459 463	ECBU
+T26	PROC 469 496	numération formule sanguine
+T27	PROC 497 510	créatininémie
+T28	PROC 512 525	transaminases
+T29	PROC 527 544	bilirubine totale
+T30	PROC 546 578	phosphatases alkalines corrigées
+T31	MEAS 585 593	normales
+T32	PROC 598 612	toucher rectal
+T33	ANAT 606 612	rectal
+T34	DISO 640 668	symptomatologie pathologique
+T35	DISO 712 729	appendicite aiguë
+T36	PROC 757 776	traitement adjuvant
+T37	Hospital 785 818	chirurgiens maxillo-mandibulaires
+T38	DISO 850 866	crise convulsive
+T39	PROC 888 908	analyse histologique
+T41	MEAS 960 964	17mm
+T42	MEAS 973 976	2cm
+T43	MEAS 979 983	6 mm
+T44	DISO 988 1060	épithélium polyploïde grêlique érythrophagocytopéritonéal hypertrophique
+T45	ANAT 1075 1096	fragments conjonctifs
+T46	DISO 1114 1138	anomalies morphologiques
+T47	DISO 1142 1167	localisations secondaires
+T48	DISO 1184 1206	infection tuberculeuse
+T49	DISO 1216 1232	maladie cœliaque
+T50	ANAT 1277 1299	membranes péritonéales
+T51	ANAT 1327 1349	colon transoesophagien
+T52	ANAT 1369 1392	grosse valve tricuspide
+T53	ANAT 1413 1432	fibres articulaires
+T54	DISO 1440 1463	prolifération polylobée
+T55	ANAT 1548 1564	muqueuse buccale
+T56	LIVB 1589 1596	patient
+T57	DISO 1609 1642	perforation intestinale chronique
+T58	PROC 1699 1713	investigations
+T59	DISO 1728 1779	néoplasie kystique auto-immunohistochimique maligne
+T60	DISO 1785 1835	kyste hydatique mucopolysaccharomyces tuberculosis
+T62	Concept_Idea 2914 2917	âge
+T63	PROC 2934 3003	chirurgie maxillo-mandibulaire du tronc mandibulaire inférieur gauche
+T65	Localization 2997 3003	gauche
+T66	PROC 3030 3049	anesthésie générale
+T67	TEMP 3066 3076	immédiates
+T68	MEAS 3077 3084	simples
+T69	TEMP 3103 3110	21 mois
+T70	PROC 3114 3141	examen anatomopathologiaque
+T71	DISO 3165 3179	particularités
+T72	PROC 3186 3205	suivi préopératoire
+T73	DISO 3225 3247	récidive inflammatoire
+T74	DISO 3251 3261	infectieux
+T75	DISO 3277 3293	signe infectieux

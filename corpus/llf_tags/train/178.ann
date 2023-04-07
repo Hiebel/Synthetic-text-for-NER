@@ -1,0 +1,91 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 17 22	3 ans
+T3	Concept_Idea 29 39	antécédent
+T4	MEAS 40 51	particulier
+T5	PHEN 64 84	grossesse monofœtale
+T6	PROC 89 95	suivie
+T7	LIVB 110 112	il
+T8	PROC 123 130	adressé
+T9	Hospital 139 173	service de gynécologie-obstétrique
+T10	LIVB 177 181	nous
+T11	PROC 199 232	corticothérapie substitutionnelle
+T12	CHEM 244 255	antalgiques
+T13	CHEM 266 291	acide acétyle salicylique
+T14	DOSE 293 299	400 mg
+T15	TEMP 299 301	/j
+T16	CHEM 304 319	antiparasitaire
+T17	DOSE 321 327	100 mg
+T18	TEMP 327 329	/j
+T19	CHEM 334 365	amoxicilline acide clavulanique
+T20	DOSE 367 373	200 mg
+T21	TEMP 373 375	/j
+T22	MEAS 413 420	simples
+T23	LIVB 435 438	son
+T24	LIVB 439 449	nouveau-né
+T25	PROC 455 469	pris en charge
+T26	Hospital 474 495	urgences pédiatriques
+T27	Concept_Idea 519 545	activités professionnelles
+T28	PROC 551 575	échographie obstétricale
+T29	Concept_Idea 611 640	constantes anatomopathologies
+T30	Concept_Idea 680 702	caractère histologique
+T31	Concept_Idea 750 761	conventions
+T32	Concept_Idea 798 818	aspect morphologique
+T33	LIVB 830 842	petite fille
+T34	TEMP 851 855	7 an
+T35	Concept_Idea 870 879	résultats
+T36	PROC 920 939	traitement adjuvant
+T37	DISO 976 1002	malformations congénitales
+T38	PROC 1035 1063	chimiothérapie néo adjuvante
+T39	DISO 1079 1106	métastase foeto-péritonéale
+T40	DEVI 1148 1183	processus digestif intraoesophagien
+T41	ANAT 1191 1224	parties molles pariéto-squameuses
+T42	ANAT 1279 1295	fosses palatines
+T43	Localization 1306 1331	versant ventral inférieur
+T46	Localization 1499 1509	bilatéraux
+T47	Localization 1539 1549	inférieurs
+T49	Localization 1621 1638	inférieure droite
+T50	ANAT 1660 1685	lambeau thoracique gauche
+T51	Localization 1679 1685	gauche
+T52	DISO 1763 1827	dilatations kystiques périostéobronchovasculaires ostéotendineux
+T54	Localization 1972 2005	homolatérales latérale supérieure
+T55	DISO 2023 2028	masse
+T56	MEAS 2036 2041	18 cm
+T57	Concept_Idea 2045 2054	grand axe
+T58	MEAS 2064 2069	10 cm
+T59	Concept_Idea 2073 2090	fermeture moyenne
+T61	PHEN 2406 2415	grossesse
+T62	DISO 2436 2445	incidents
+T63	DISO 2485 2506	syndrome hémorragique
+T64	ANAT 2520 2549	tronc spléno-palpébrale droit
+T65	Localization 2544 2549	droit
+T66	PROC 2600 2612	consultation
+T67	Hospital 2617 2638	urgences pédiatriques
+T68	PROC 2647 2665	avis gynécologique
+T69	PROC 2669 2687	examen obstétrical
+T70	TEMP 2705 2720	post opératoire
+T71	PROC 2710 2720	opératoire
+T72	DISO 2752 2776	contraception maternelle
+T73	DISO 2786 2820	comportement maternel pathologique
+T74	PROC 2825 2841	bilan biologique
+T75	DISO 2861 2879	hyperprolactinémie
+T76	MEAS 2882 2892	4,5 mmol/l
+T77	CHEM 2914 2941	antiagrégants plaquettaires
+T78	LIVB 2971 2979	patiente
+T79	PROC 3017 3028	hémodialyse
+T80	PROC 3040 3077	corticothérapie intraveineuse directe
+T81	PROC 3091 3175	néphrectomie totale élargie proximomédianectomie percutanée axillaire pré opératoire
+T82	TEMP 3199 3207	7 heures
+T83	MEAS 3240 3247	simples
+T84	PROC 3267 3289	perfusion chirurgicale
+T85	DEVI 3294 3316	cathéter haute tension
+T86	ANAT 3345 3367	carrefour ilio-pelvien
+T87	DEVI 3400 3426	cathéter tubulaire inversé
+T88	DISO 3551 3568	rétraction fœtale
+T89	DISO 3579 3614	circulation extracorporelle maligne
+T90	PROC 3621 3648	prise en charge ambulatoire
+T91	PROC 3690 3739	séances de rééducation motrice multidisciplinaire
+T92	PROC 3782 3817	examens neuropsychiatriques simples
+T93	DISO 3847 3873	difficultés psychomotrices
+T94	DISO 3902 3928	hallucinations hystériques
+T95	PROC 3979 4011	scanner thoraco-abdomino-pelvien
+T96	ANAT 3987 4011	thoraco-abdomino-pelvien

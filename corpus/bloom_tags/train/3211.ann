@@ -1,0 +1,25 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	DISO 38 63	antécédents pathologiques
+T4	MEAS 64 76	particuliers
+T5	PROC 78 83	admis
+T6	Hospital 88 109	urgences pédiatriques
+T7	DISO 119 136	syndromes fébrile
+T8	Concept_Idea 155 158	âge
+T9	TEMP 162 168	2 mois
+T10	PROC 172 186	interrogatoire
+T11	DISO 210 231	détresse respiratoire
+T12	PHEN 219 231	respiratoire
+T13	DISO 237 259	hypotension artérielle
+T14	ANAT 249 259	artérielle
+T15	DISO 288 311	pâleur cutanéo-muqueuse
+T16	ANAT 325 347	membre inférieur droit
+T17	Localization 342 347	droit
+T18	PROC 351 381	auscultation cardio-vasculaire
+T19	ANAT 364 381	cardio-vasculaire
+T20	MEAS 388 395	normale
+T21	PROC 401 410	palpation
+T22	PROC 435 465	examen gynécologique somatique
+T23	DISO 486 515	souffle auriculo-sténo-dilaté
+T24	ANAT 494 515	auriculo-sténo-dilaté
+T25	ANAT 525 555	champs pulmonaires thoraciques

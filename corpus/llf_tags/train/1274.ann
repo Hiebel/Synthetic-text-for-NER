@@ -1,0 +1,97 @@
+T1	LIVB 14 21	patient
+T2	DISO 42 67	antécédents pathologiques
+T3	MEAS 68 80	particuliers
+T4	LIVB 122 124	il
+T5	Concept_Idea 166 169	âge
+T6	PROC 183 198	examen clinique
+T7	LIVB 215 222	patient
+T8	MEAS 226 233	mauvais
+T9	Concept_Idea 234 246	état général
+T10	ANAT 256 260	yeux
+T11	MEAS 261 279	légèrement ouverts
+T12	DISO 294 312	lambeaux du larynx
+T13	Localization 314 324	bilatéraux
+T14	PROC 341 357	examen somatique
+T15	DISO 369 383	particularités
+T16	DISO 401 413	vomissements
+T17	DISO 420 440	troubles vasomoteurs
+T18	PROC 445 476	TDM thoraco- abdomino-pelvienne
+T19	ANAT 449 476	thoraco- abdomino-pelvienne
+T20	DISO 504 564	masse hypoéchogène oblongue hyperéchogène tissulaire lobulée
+T21	MEAS 573 577	3 cm
+T22	Concept_Idea 581 589	diamètre
+T23	MEAS 602 606	5 cm
+T24	Concept_Idea 610 619	grand axe
+T25	DISO 650 667	signes infectieux
+T26	DISO 678 698	symptômes trophiques
+T27	PROC 703 740	ponction nasopharyngo-laryngolaryngée
+T28	ANAT 712 740	nasopharyngo-laryngolaryngée
+T29	PROC 756 782	bilan paraclinique initial
+T30	PHEN 795 815	grossesse gémellaire
+T31	TEMP 827 839	39SA+4 jours
+T32	DEVI 845 867	ampoule crânio-faciale
+T33	ANAT 853 867	crânio-faciale
+T34	MEAS 868 874	souple
+T35	DISO 891 923	syndrome oedémato-occlusébelleux
+T36	PROC 968 992	radiologie préopératoire
+T37	DISO 1011 1032	anomalie neurologique
+T38	MEAS 1082 1089	simples
+T39	PROC 1095 1117	traitement substitutif
+T40	CHEM 1126 1139	phénobarbital
+T41	CHEM 1142 1167	acide acétyle salicylique
+T42	CHEM 1170 1184	gentaméthasone
+T43	CHEM 1187 1199	doxorubicine
+T44	CHEM 1202 1212	corticoïde
+T45	TEMP 1217 1222	/jour
+T46	PROC 1235 1272	remplissage vasculonerveux péritonéal
+T48	PROC 1282 1310	transfusions postopératoires
+T49	DISO 1335 1357	distension abdominales
+T50	ANAT 1346 1357	abdominales
+T51	PROC 1382 1410	résultat anatomopathologique
+T52	DISO 1463 1518	lésions érythémato-œdémateuses cervicales dyschromiques
+T53	DISO 1545 1597	hématome rétroplacentaire supra mandibulaire nécrosé
+T54	MEAS 1605 1613	ACR6N0Mx
+T56	DISO 2026 2070	infarctus myocardique aigu ischémique jugulé
+T57	PROC 2114 2123	admission
+T58	PROC 2129 2156	prise en charge ambulatoire
+T59	PROC 2162 2186	ventilation artificielle
+T60	PROC 2200 2237	perfusion hydrocortisone concomitante
+T61	PROC 2268 2280	angioplastie
+T62	PROC 2299 2362	néphrectomie totale élargie scintigraphie anténatale programmée
+T63	PROC 2378 2406	antibiothérapie probabiliste
+T64	DISO 2433 2455	récidive hémorragiques
+T65	MEAS 2488 2495	simples
+T66	LIVB 2500 2507	patient
+T67	PROC 2514 2523	transfusé
+T68	Hospital 2527 2542	bloc opératoire
+T69	PROC 2548 2572	exploration chirurgicale
+T70	DISO 2584 2598	particularités
+T71	Concept_Idea 2607 2619	état général
+T72	MEAS 2620 2626	altéré
+T73	DISO 2633 2639	fièvre
+T74	DISO 2650 2667	signes infectieux
+T75	DISO 2685 2696	pollakiurie
+T76	DISO 2706 2720	amaigrissement
+T77	PHEN 2727 2745	suites opératoires
+T78	MEAS 2754 2761	simples
+T80	ANAT 2778 2796	aorto-mandibulaire
+T81	ANAT 2800 2822	tronc thyroïdien droit
+T82	Localization 2817 2822	droit
+T83	PROC 2846 2882	dérivation cutanéodontopsychiatrique
+T84	PROC 2887 2915	nasofibroscopie obstétricale
+T85	MEAS 2936 2943	stricte
+T86	DISO 2996 3043	épanchement liquidien péri thyroidien lésionnel
+T87	DISO 3057 3097	circulation extracorporelle pathologique
+T88	PROC 3132 3167	hystéro-thyroïdectomie exploratrice
+T89	DISO 3184 3227	symptômes oedémato-oesophagiens secondaires
+T90	PROC 3417 3436	suivi préopératoire
+T91	PROC 3453 3475	contrôle échographique
+T92	PROC 3481 3505	scintigraphie médullaire
+T93	ANAT 3495 3505	médullaire
+T94	PROC 3510 3563	électrocardiogramme basal sur bande écho monophasique
+T95	PROC 3581 3602	échographie coronaire
+T96	ANAT 3593 3602	coronaire
+T97	PROC 3623 3647	extubation thérapeutique
+T98	MEAS 3654 3661	précoce
+T99	PROC 3685 3747	laparotomie axillaire triplénienne intrajéjunale semi complète
+T100	PROC 3766 3849	hydrocéphalie transtympanique rétrosigmoïdienne bipyramidale séquellaire rétrograde

@@ -1,0 +1,93 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 67 79	particuliers
+T3	PROC 90 96	admise
+T4	Hospital 101 109	urgences
+T5	DISO 119 126	dyspnée
+T6	Concept_Idea 171 183	état général
+T7	PROC 187 202	examen clinique
+T8	LIVB 214 222	patiente
+T9	MEAS 226 233	mauvais
+T10	Concept_Idea 234 246	état général
+T11	DISO 263 279	troubles visuels
+T12	ANAT 293 307	tronc cérébral
+T13	PROC 317 341	examen locomoteur direct
+T14	DISO 367 427	processus lésionnel sensitivo-moteur cervico-axillaire droit
+T15	Localization 422 427	droit
+T16	Concept_Idea 436 443	contenu
+T17	ANAT 466 531	aires ganglionnaires cervicocléro-céphaliques antero-mandibulaire
+T18	MEAS 555 559	3 cm
+T19	MEAS 563 566	2cm
+T20	DISO 585 611	signes neuropsychiatriques
+T21	DISO 629 646	syndrome délirant
+T22	DISO 653 680	symptomatologie psychotique
+T23	PHEN 685 691	marche
+T24	Concept_Idea 728 748	chiffres tensionnels
+T25	Concept_Idea 750 759	score OMS
+T26	MEAS 761 766	10/15
+T27	PROC 833 857	contrôle scannographique
+T28	PROC 861 894	imagerie par résonance magnétique
+T29	PROC 910 920	inspection
+T30	LIVB 936 946	nourrisson
+T31	Concept_Idea 1038 1060	fréquence respiratoire
+T32	DEVI 1090 1102	conjonctives
+T33	DISO 1114 1140	trajectoires dysphagiennes
+T34	PROC 1145 1164	suivi préopératoire
+T35	CHEM 1189 1202	antibiotiques
+T36	CHEM 1225 1256	amoxicilline acide clavulanique
+T37	CHEM 1259 1289	acide salicylésulfaméthoxazole
+T38	CHEM 1292 1316	neuroleptiques atypiques
+T39	CHEM 1322 1364	glucantimegabinoïde agoniste intraveineuse
+T40	TEMP 1373 1383	/24 heures
+T41	TEMP 1414 1419	20h30
+T42	PROC 1432 1453	ventilation mécanique
+T43	PROC 1467 1505	laparotomie exploratrice biquotidienne
+T44	DISO 1519 1533	perte de poids
+T45	MEAS 1540 1544	bien
+T46	PROC 1556 1594	scanner crânio-thoraco-abdominopelvien
+T47	ANAT 1564 1594	crânio-thoraco-abdominopelvien
+T48	DISO 1606 1656	lésion tumorale tissulaire hypoéchogène hétérogène
+T49	MEAS 1666 1679	8 centimètres
+T50	Concept_Idea 1683 1692	grand axe
+T51	ANAT 1722 1740	parois anéchogènes
+T52	ANAT 1766 1784	muqueuses buccales
+T53	ANAT 1842 1860	membranes charnues
+T54	PROC 1958 1983	surveillance radiologique
+T55	PROC 2003 2015	intervention
+T56	DISO 2029 2077	cardiomyopathie ischémique myxoide réactionnelle
+T57	MEAS 2086 2092	T4N1M0
+T58	CHEM 2841 2850	amikacine
+T59	CHEM 2852 2881	triméthoprimesulfamethoxazole
+T60	ANAT 2899 2923	liquide céphalorachidien
+T61	ANAT 2942 2963	troncs supracliniques
+T62	DEVI 2971 2983	fil monobrin
+T63	ANAT 2997 3020	pédicule gastroduodénal
+T64	DISO 3048 3119	processus lésionnel érythémateux cutané du nerf laryngé supérieur droit
+T66	Localization 3114 3119	droit
+T67	ANAT 3152 3173	reins infundibulaires
+T68	ANAT 3187 3204	muscles grêliques
+T69	ANAT 3229 3254	parties molles cervicales
+T70	DISO 3302 3325	infiltrat inflammatoire
+T71	LIVB 3350 3358	patiente
+T72	TEMP 3387 3394	3 jours
+T73	PROC 3400 3440	corticothérapie antibacillaire adjuvante
+T74	CHEM 3446 3456	isoniazide
+T75	CHEM 3459 3476	acide nalidixique
+T76	CHEM 3479 3502	pyrazinamide adrénaliné
+T77	CHEM 3505 3535	rifampicine acide clavulanique
+T78	CHEM 3538 3557	tétrahydrocortisone
+T79	CHEM 3560 3587	antiagrégants plaquettaires
+T80	CHEM 3590 3602	plasma frais
+T81	CHEM 3605 3618	phénobarbital
+T82	CHEM 3621 3631	antalgique
+T83	CHEM 3634 3650	immunoglobulines
+T84	MEAS 3682 3689	simples
+T85	DISO 3698 3723	complication neurologique
+T86	DISO 3727 3750	déficit sensitivomoteur
+T87	DISO 3784 3805	syndrome hémorragique
+T88	DISO 3850 3906	récidive granulomateuse liquidienne polycyclique maligne
+T89	ANAT 3924 3954	dos articulaire antero-externe
+T90	ANAT 3972 4018	branche subarticulaire sus thoracique fessière
+T91	ANAT 4050 4091	racine thyroïdienne inférieure symétrique
+T92	Localization 4081 4091	symétrique
+T93	ANAT 4107 4170	espace intercostal postéro-latéro-dorsal basithoracique gauches
+T94	Localization 4163 4170	gauches

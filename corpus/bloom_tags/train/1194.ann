@@ -1,0 +1,28 @@
+T1	LIVB 28 35	patient
+T2	LIVB 70 72	sa
+T3	PHEN 73 93	grossesse gémellaire
+T4	DISO 97 122	douleur abdominopelvienne
+T5	ANAT 105 122	abdominopelvienne
+T6	TEMP 144 159	depuis 10 jours
+T7	Concept_Idea 195 207	état général
+T8	DISO 238 254	hématurie totale
+T9	DISO 256 283	polynucléaires neutrophiles
+T10	MEAS 305 330	2 000 éléments blancs/mm3
+T11	MEAS 355 381	12 000 éléments blancs/mm3
+T12	Hospital 386 410	urgences obstétricielles
+T13	PROC 423 438	toucher pelvien
+T14	ANAT 431 438	pelvien
+T15	PROC 520 542	technique chirurgicale
+T16	PROC 548 591	anesthésie locorégionale musculo-tendineuse
+T17	PROC 592 595	TMI
+T18	LIVB 598 602	Nous
+T19	PROC 622 644	explorations cliniques
+T20	ANAT 698 714	pièce opératoire
+T21	PROC 704 714	opératoire
+T22	DISO 739 772	carcinome papillaire myometrioide
+T23	ANAT 749 759	papillaire
+T24	MEAS 800 813	20× 14 × 9 cm
+T25	ANAT 835 851	parois vaginales
+T26	PROC 958 982	classification Ann Arbor
+T27	PROC 992 1037	tomodensitométrie thoraco- abdomino-pelvienne
+T28	ANAT 1010 1037	thoraco- abdomino-pelvienne

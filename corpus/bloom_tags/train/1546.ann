@@ -1,0 +1,27 @@
+T1	PROC 2 17	examen clinique
+T2	PROC 22 31	admission
+T3	LIVB 45 53	patiente
+T4	MEAS 57 60	bon
+T5	Concept_Idea 61 73	état général
+T6	DISO 82 115	syndrome d'épanchement péritonéal
+T7	ANAT 105 115	péritonéal
+T8	MEAS 119 136	moyenne abondance
+T9	ANAT 150 161	flanc droit
+T10	Localization 156 161	droit
+T11	PROC 177 193	examen somatique
+T12	DISO 205 218	particularité
+T13	PROC 223 253	bilan biologique préopératoire
+T14	PHEN 267 291	vitesse de sédimentation
+T15	MEAS 304 310	120 mm
+T16	PROC 317 336	protéine C réactive
+T17	PROC 338 341	CRP
+T18	MEAS 343 348	élevé
+T19	MEAS 351 359	180 mg/l
+T20	PROC 363 394	échographie abdomino- pelvienne
+T21	ANAT 375 394	abdomino- pelvienne
+T24	MEAS 590 594	6 cm
+T25	Concept_Idea 598 607	grand axe
+T26	MEAS 612 616	3 cm
+T27	Concept_Idea 620 633	petite taille
+T28	ANAT 657 676	parois intestinales
+T29	ANAT 700 725	organes génitaux externes

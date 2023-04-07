@@ -1,0 +1,57 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	2 ans
+T3	DISO 54 75	détresse respiratoire
+T4	PHEN 63 75	respiratoire
+T5	DISO 91 157	anémie normochrome normocytaire ferriprive hypochrome microcytaire
+T6	MEAS 172 183	progressive
+T7	DISO 198 212	amaigrissement
+T8	MEAS 223 228	18 kg
+T9	TEMP 244 248	1 an
+T10	TEMP 261 266	3 ans
+T11	LIVB 276 278	on
+T12	DISO 389 412	symptômes neurorétinien
+T13	LIVB 456 463	enfants
+T14	PROC 474 479	reçue
+T15	DISO 493 508	symptomatologie
+T16	PROC 613 643	échographie abdomino-pelvienne
+T17	ANAT 625 643	abdomino-pelvienne
+T18	DEVI 740 773	attelle plâtrée gynéculo-vaginale
+T19	MODE 827 845	voie intraveineuse
+T20	PROC 1055 1079	scanner abdomino-pelvien
+T21	ANAT 1063 1079	abdomino-pelvien
+T22	DISO 1093 1138	masse tissulaire latéro-utérine hypertrophiée
+T23	MEAS 1148 1153	22 cm
+T24	Concept_Idea 1157 1166	grand axe
+T25	PROC 1187 1196	injection
+T26	CHEM 1200 1220	produit de contraste
+T27	ANAT 1251 1272	structures ovariennes
+T28	ANAT 1299 1321	péricardique liquidien
+T29	Concept_Idea 1356 1377	caractère vascularisé
+T30	PROC 1435 1461	traitement médical curatif
+T31	CHEM 1487 1497	furosémide
+T32	DOSE 1499 1505	100 mg
+T33	CHEM 1507 1521	hydrocortisone
+T34	DOSE 1523 1528	30 mg
+T35	CHEM 1530 1541	metroprolol
+T36	DOSE 1543 1548	20 mg
+T37	CHEM 1551 1564	noradrénaline
+T38	DOSE 1566 1575	0,5 µg/kg
+T39	PROC 1607 1630	radiothérapie adjuvante
+T40	MEAS 1671 1679	complète
+T41	DISO 1686 1692	tumeur
+T42	PROC 1706 1727	excision chirurgicale
+T43	MEAS 1741 1750	difficile
+T44	CHEM 1811 1830	médico-chirurgicaux
+T45	PROC 1870 1890	chirurgie percutanée
+T46	DISO 1919 1934	lésion tumorale
+T47	MEAS 1957 1968	volumineuse
+T48	ANAT 2010 2028	organes herniaires
+T49	MEAS 2038 2046	susposés
+T50	PROC 2136 2145	résection
+T51	LIVB 2150 2158	patiente
+T52	PROC 2177 2199	cystectomie bilatérale
+T53	Localization 2189 2199	bilatérale
+T54	PROC 2203 2229	examen anatomopathologique
+T55	DISO 2251 2281	adénocarcinome du paroi utérin
+T56	ANAT 2269 2281	paroi utérin
+T57	DISO 2334 2386	métastases paragangliulaires angiocyto-interstellées

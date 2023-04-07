@@ -1,0 +1,48 @@
+T1	LIVB 19 26	patient
+T2	LIVB 73 76	son
+T3	LIVB 77 104	arrière grand-père maternel
+T4	LIVB 112 132	grand père maternels
+T5	LIVB 330 336	malade
+T6	PROC 353 377	échographie obstétricale
+T7	Concept_Idea 421 441	paramètres cliniques
+T8	Localization 485 503	postérieure droite
+T9	ANAT 527 547	région rénale gauche
+T10	Localization 541 547	gauche
+T11	PROC 592 606	phospholipémie
+T12	LIVB 1460 1465	homme
+T13	DISO 1499 1519	douleurs thoraciques
+T14	ANAT 1508 1519	thoraciques
+T15	DISO 1530 1588	bombement du quadrant inferieur supérieur inférieur fléchi
+T17	Localization 1572 1588	inférieur fléchi
+T18	DISO 1603 1632	symptomatologie gynécologique
+T19	Concept_Idea 1677 1690	état générale
+T20	LIVB 1715 1725	nourrisson
+T21	PHEN 1780 1798	mariage consanguin
+T22	DISO 1873 1903	diabète gestationnel chronique
+T23	MEAS 1908 1922	bien équilibré
+T24	PROC 1957 1981	prise en charge médicale
+T25	LIVB 2014 2020	enfant
+T26	PROC 2040 2045	admis
+T27	Hospital 2050 2081	urgences médicales pédiatriques
+T28	PROC 2097 2116	traitement adjuvant
+T29	DISO 2147 2156	affection
+T30	LIVB 2165 2167	il
+T31	PROC 2186 2223	traitement prophylactique substitutif
+T32	PROC 2236 2257	chirurgie réparatrice
+T33	DISO 2313 2338	difficultés diagnostiques
+T34	PROC 2343 2358	examen clinique
+T35	DISO 2384 2405	distension abdominale
+T36	ANAT 2395 2405	abdominale
+T37	MEAS 2417 2432	progressivement
+T38	MEAS 2477 2484	3/10 cm
+T39	DISO 2499 2527	crampes érythémato-palpables
+T40	Concept_Idea 2565 2576	consistance
+T41	PROC 2608 2618	opératoire
+T42	DISO 2696 2732	masse cervicale oblongue congénitale
+T43	DISO 2748 2778	crise convulsive tonico vagale
+T44	DISO 2792 2826	tympanisme laryngo-trachéo-laryngé
+T45	DISO 2844 2876	tuméfaction sous clavière droite
+T46	ANAT 2856 2876	sous clavière droite
+T47	Localization 2870 2876	droite
+T48	DISO 2898 2912	psychomotritie
+T49	DEVI 2977 3008	appareils électriques portatifs

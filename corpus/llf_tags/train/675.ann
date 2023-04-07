@@ -1,0 +1,39 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 35	7 mois
+T3	PROC 47 58	hospitalisé
+T4	Hospital 67 97	service spécialisé pédiatrique
+T5	DISO 107 129	douleurs du pied droit
+T7	Localization 124 129	droit
+T8	TEMP 139 159	depuis deux semaines
+T9	Concept_Idea 211 223	état général
+T10	DISO 239 261	constipation chronique
+T11	DISO 268 288	prise médicamenteuse
+T12	PROC 301 316	examen clinique
+T13	DISO 338 367	symptômes neuropsychiatriques
+T14	DISO 405 428	pâleur cutanéomuqueuses
+T15	Concept_Idea 460 480	habitudes parentales
+T16	PROC 486 510	échographie obstétricale
+T17	PROC 596 643	mastectomie totale endoscopiquement correctrice
+T18	PROC 656 678	visite préanesthésique
+T19	PROC 741 769	oxygénothérapie antibiotique
+T20	TEMP 779 789	5 ème jour
+T21	PROC 804 819	hospitalisation
+T22	PROC 824 859	scanner thoraco- abdomino-abdominal
+T23	ANAT 832 859	thoraco- abdomino-abdominal
+T24	PROC 884 896	intervention
+T25	MEAS 910 921	volumineuse
+T26	DISO 922 952	masse tissulaire hypogastrique
+T27	MEAS 964 979	progressivement
+T28	Concept_Idea 983 989	taille
+T29	MEAS 1000 1010	40 x 30 cm
+T30	MEAS 1019 1022	3cm
+T31	ANAT 1058 1090	membre inférieur supérieur droit
+T32	Localization 1075 1090	supérieur droit
+T33	DISO 1121 1187	adénopathies cervicales pariéto-médiastinales infiltrant malignité
+T34	ANAT 1206 1229	surface postéro-externe
+T35	MEAS 1239 1244	60 mm
+T36	PHEN 1379 1396	fonctions vitales
+T37	MEAS 1405 1427	légèrement équilibrées
+T38	DEVI 1448 1471	bandelette géloséphrine
+T39	MEAS 1478 1486	correcte
+T40	CHEM 1525 1582	fluoroacétate de clobétasolametriptyl transferase acetate

@@ -1,0 +1,37 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	11 ans
+T3	MEAS 63 75	particuliers
+T4	DISO 93 120	traumatisme du cuir chevelu
+T5	ANAT 108 120	cuir chevelu
+T6	DISO 126 135	épistaxis
+T7	Hospital 159 167	urgences
+T8	DISO 177 246	syndrome d'épanchement péricardique latéro-myocardio-thoracique droit
+T9	ANAT 200 246	péricardique latéro-myocardio-thoracique droit
+T10	Localization 241 246	droit
+T11	TEMP 256 270	depuis 3 jours
+T12	MEAS 286 292	rapide
+T13	DISO 308 329	détresse respiratoire
+T14	PHEN 317 329	respiratoire
+T15	PROC 359 389	auscultation cardio-vasculaire
+T16	ANAT 372 389	cardio-vasculaire
+T17	DISO 425 448	symptômes neurologiques
+T18	PROC 462 486	examen pleuro-pulmonaire
+T19	ANAT 469 486	pleuro-pulmonaire
+T20	DISO 511 520	anomalies
+T21	DISO 542 550	polypnée
+T22	DISO 571 602	signes fonctionnels pulmonaires
+T23	DISO 616 631	ictère purulent
+T24	DISO 633 667	bradycardie érythémato-néphrétique
+T25	DISO 686 709	distension médiastinale
+T26	ANAT 697 709	médiastinale
+T27	DISO 728 758	troubles hydro-électrolytiques
+T28	LIVB 782 790	patiente
+T29	LIVB 824 831	famille
+T30	PROC 836 861	intervention chirurgicale
+T31	DISO 878 963	métastase parathyroïdienne métatarso-diaphysaire péripéritonéale thoracique angineuse
+T33	MEAS 972 976	2 cm
+T34	Concept_Idea 980 989	grand axe
+T35	DISO 1011 1114	œdème basithoracique bilatéral postéro-supérieur hémi-ganglionnaire basithoracique ischio-cæcal tumoral
+T38	MEAS 1137 1148	800 grammes
+T39	MEAS 1152 1163	750 grammes
+T40	ANAT 1193 1246	myo-tendineuse thyroïdienne mésentero-lymphophagienne

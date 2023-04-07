@@ -1,0 +1,65 @@
+T1	LIVB 4 9	femme
+T2	MEAS 34 35	3
+T3	LIVB 36 43	enfants
+T4	Hospital 65 73	urgences
+T5	DISO 93 99	fièvre
+T6	TEMP 109 123	depuis 6 jours
+T7	LIVB 133 137	elle
+T8	PROC 146 152	admise
+T9	Hospital 156 171	bloc opératoire
+T10	PROC 186 230	palper les troncs supra-aorto-ventriculaires
+T11	ANAT 197 230	troncs supra-aorto-ventriculaires
+T12	MEAS 248 255	normaux
+T13	PROC 259 274	examen clinique
+T14	LIVB 292 300	patiente
+T15	DISO 301 311	apyrétique
+T16	DISO 316 326	asthénique
+T17	DISO 330 340	tachycarde
+T18	DISO 358 373	symptomatologie
+T19	DISO 388 404	signe infectieux
+T20	DISO 435 459	pneumopathies cervicales
+T21	DISO 470 493	déficit sensitivomoteur
+T22	PROC 498 525	numération formule sanguine
+T23	DISO 539 555	hyperleucocytose
+T24	MEAS 558 574	1600 GB/mm³ mmHg
+T25	MEAS 695 703	610 UI/L
+T26	MEAS 707 754	260 fois la limite supérieure tolérée 3Gbit/24h
+T27	PROC 768 798	fibroscopie œsogastroduodénale
+T28	ANAT 780 798	œsogastroduodénale
+T29	DISO 823 858	prolifération tumorale polycyclique
+T30	ANAT 921 934	méso sigmoïde
+T31	MEAS 943 947	25 %
+T32	PROC 969 995	classification de Schöffel
+T33	PROC 1010 1038	complément immunohistochimie
+T34	DISO 1107 1132	localisations secondaires
+T35	DISO 1224 1266	léiomyosarcome myxoide stade III malignité
+T36	Concept_Idea 1827 1837	indication
+T37	PROC 1843 1862	traitement adjuvant
+T38	LIVB 1879 1887	patiente
+T39	PROC 1906 1934	chimiothérapie néo adjuvante
+T40	CHEM 1936 1957	inhibiteurs calciques
+T41	CHEM 1959 1972	dexaméthasone
+T42	CHEM 1976 1987	paracétamol
+T43	PROC 2020 2053	radio-chimiothérapie concomitante
+T44	Hospital 2070 2103	service des urgences pédiatriques
+T45	MEAS 2120 2128	positive
+T46	PHEN 2133 2153	récepteurs hormonaux
+T47	Concept_Idea 2189 2217	prise en charge chirurgicale
+T48	PROC 2256 2289	bilan préopératoire thérapeutique
+T49	PROC 2313 2330	tomodensitométrie
+T50	DEVI 2369 2393	matériel scannographique
+T51	PROC 2431 2455	images polypathologiques
+T52	MEAS 2480 2484	6 cm
+T53	MEAS 2487 2490	3cm
+T54	PROC 2511 2533	contrôle échographique
+T55	PROC 2544 2576	prélèvements anatomopathologique
+T56	Concept_Idea 2636 2666	caractéristiques histologiques
+T57	PROC 2671 2681	diagnostic
+T59	Localization 3088 3094	droite
+T60	DISO 3119 3170	remaniements lésionnels liquidiens péri tuberculeux
+T61	DISO 3180 3204	anomalies chromosomiques
+T62	DISO 3231 3262	infiltrat infectieux secondaire
+T63	PROC 3276 3303	explorations cytogénétiques
+T64	LIVB 3362 3370	patiente
+T65	DISO 3386 3426	granulomes éosinophiliques mononucléolés
+T66	Concept_Idea 3450 3470	aspect morphologique

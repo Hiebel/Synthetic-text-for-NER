@@ -1,0 +1,41 @@
+T1	LIVB 29 37	patiente
+T2	DISO 71 115	syndrome d’épanchement péricardique biliaire
+T3	ANAT 94 115	péricardique biliaire
+T4	DISO 140 166	hypotension intracrânienne
+T5	ANAT 152 166	intracrânienne
+T6	TEMP 176 189	depuis 3 mois
+T7	LIVB 196 199	son
+T8	PROC 200 209	admission
+T9	Hospital 213 235	service de réanimation
+T10	MEAS 254 269	progressivement
+T11	Concept_Idea 273 279	volume
+T12	PROC 283 298	examen clinique
+T13	LIVB 310 318	patiente
+T14	PHEN 353 358	pouls
+T15	MEAS 370 382	100 batt/min
+T16	Concept_Idea 418 424	espace
+T17	PROC 430 446	surveillance ECG
+T18	PROC 448 460	radiologique
+T19	PROC 464 489	ventilatoire artificielle
+T20	DISO 508 563	œdème cutanéo-muqueux antécrânien érythémato-pustulante
+T22	MEAS 577 585	brunâtre
+T23	DISO 599 631	paralysie bilatérale sétrachéale
+T24	Localization 609 619	bilatérale
+T25	ANAT 658 680	paires crânio-faciales
+T26	ANAT 701 714	massif facial
+T27	PROC 718 745	numération formule sanguine
+T28	DISO 762 778	hyperleucocytose
+T29	MEAS 781 806	13000 éléments blancs/mm3
+T30	PROC 810 829	protéine C-réactive
+T31	MEAS 847 854	40 UI/l
+T32	PROC 868 880	ferritinémie
+T33	MEAS 899 907	10 ug/ml
+T34	PROC 911 928	natrémie corrigée
+T35	MEAS 937 946	133 meq/l
+T36	PROC 950 972	bilan phospho-calcique
+T37	MEAS 1052 1062	2350 mg/dl
+T38	PROC 1067 1097	échographie abdomino-pelvienne
+T39	ANAT 1079 1097	abdomino-pelvienne
+T40	DISO 1126 1143	abcès vésiculaire
+T41	ANAT 1132 1143	vésiculaire
+T42	DISO 1168 1194	localisations néoplasiques

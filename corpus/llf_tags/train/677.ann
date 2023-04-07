@@ -1,0 +1,38 @@
+T1	LIVB 4 15	jeune fille
+T2	MEAS 75 76	2
+T3	LIVB 77 84	garçons
+T4	TEMP 118 122	1 an
+T5	DISO 163 191	insuffisance cardiaquetielle
+T6	ANAT 176 191	cardiaquetielle
+T7	TEMP 201 217	depuis 24 heures
+T8	DISO 250 263	consanguinité
+T9	PROC 308 320	consultation
+T10	DISO 348 382	contage tuberculeux gestationisque
+T11	LIVB 585 590	fille
+T12	PROC 610 616	suivie
+T13	DISO 1178 1207	crise convulsive psychomoteur
+T14	PROC 1510 1529	étude gynécologique
+T15	PROC 1605 1633	investigations diagnostiques
+T16	LIVB 1671 1679	patiente
+T17	PROC 1695 1723	bilan clinique préopératoire
+T18	PROC 1749 1773	bilan neuropsychiatrique
+T19	PROC 1787 1809	électroencéphalogramme
+T20	PROC 1817 1839	radiographies du genou
+T21	ANAT 1834 1839	genou
+T22	PROC 1853 1896	scintigraphie scannoguidée cervico vaginale
+T23	Concept_Idea 1898 1913	position fœtale
+T24	PROC 1974 2004	traitement médical substitutif
+T25	DISO 2028 2044	signe infectieux
+T26	LIVB 2056 2062	malade
+T27	LIVB 2123 2130	parents
+T28	LIVB 2154 2160	enfant
+T29	DEVI 2175 2214	processus tissulaire intracytoplasmique
+T30	MEAS 2224 2232	15x14 cm
+T31	MEAS 2241 2246	5/6cm
+T32	DISO 2310 2350	formations kystiques périnéales malignes
+T33	DISO 2361 2380	métastases osseuses
+T34	Localization 2390 2399	grand axe
+T35	PHEN 2403 2415	accouchement
+T36	LIVB 2546 2552	sujets
+T37	DISO 2593 2617	anomalies morphologiques
+T38	Hospital 2835 2870	structures hospitalo-universitaires

@@ -1,0 +1,65 @@
+T1	LIVB 29 34	femme
+T2	PROC 60 66	admise
+T3	Hospital 70 89	service d’oncologie
+T4	Hospital 93 113	CHU Hassan II de Fès
+T5	DISO 133 161	choc hémorragique ischémique
+T6	DISO 190 228	syndrome d’épanchement intrapéritonéal
+T7	ANAT 213 228	intrapéritonéal
+T8	CHEM 258 268	sufentanil
+T9	MODE 273 299	voie veineuse périphérique
+T10	DOSE 325 336	100 µmol/kg
+T11	CHEM 340 353	noradrénaline
+T12	DOSE 356 365	0,4 µg/kg
+T13	CHEM 369 379	furosémide
+T14	PROC 384 405	échographie pelvienne
+T15	ANAT 396 405	pelvienne
+T16	DISO 422 476	masse tissulaire hypo échogéante latéro-utérine droite
+T17	Localization 470 476	droite
+T18	MEAS 486 491	14 cm
+T19	MEAS 496 501	12 cm
+T20	Concept_Idea 504 510	aspect
+T21	MEAS 511 523	bien limitée
+T22	ANAT 540 575	parties molles cervicales vaginales
+T23	ANAT 604 614	tissulaire
+T24	PROC 618 643	étude anatomopathologique
+T25	DISO 667 698	métastase malpighienne tumorale
+T26	DISO 733 757	carcinose carcinomateuse
+T27	DISO 767 780	paragangliome
+T28	ANAT 852 873	substance gélatineuse
+T29	LIVB 934 942	patiente
+T30	PROC 945 970	intervention chirurgicale
+T31	PROC 989 1091	laparotomie exploratrice abdominopelvienne trans hépatique biliopancréatico-thoracique scannographique
+T32	DISO 1105 1122	processus tumoral
+T33	MEAS 1130 1139	TADS I-II
+T34	PROC 1198 1236	anesthésie intubée péridurale méningée
+T35	ANAT 1209 1236	intubée péridurale méningée
+T36	DISO 1265 1312	masse arrondie pariétale liquidienne nécrotique
+T37	ANAT 1338 1358	greffon pancréatique
+T38	ANAT 1379 1409	fosse iliaque supra épiploïque
+T39	Localization 1393 1398	supra
+T40	ANAT 1570 1617	lumière intestinale jéjunale iléostœso-laryngée
+T41	MEAS 1629 1638	lentement
+T42	Concept_Idea 1642 1651	grand axe
+T43	ANAT 1684 1705	structures digestives
+T44	DISO 1733 1747	résidu nécrosé
+T45	PROC 1771 1814	investigations endoscopiques préopératoires
+T46	PROC 1850 1895	toilette pariéto-surrénalienne intracrânienne
+T47	ANAT 1859 1895	pariéto-surrénalienne intracrânienne
+T48	CHEM 1906 1926	méthylhydrocortisone
+T49	CHEM 1929 1942	dexaméthasone
+T50	CHEM 1944 1956	prédnisolone
+T51	CHEM 1958 1983	ethylsulfanyl-méthoxazole
+T52	CHEM 1986 1999	phénobarbital
+T53	Concept_Idea 2021 2039	effets biologiques
+T54	PROC 2187 2202	examen clinique
+T55	PROC 2207 2216	admission
+T56	LIVB 2233 2239	enfant
+T57	PHEN 2284 2296	respiratoire
+T58	DISO 2303 2319	signes cliniques
+T59	DISO 2322 2352	insuffisance cardio-vasculaire
+T60	ANAT 2335 2352	cardio-vasculaire
+T61	DISO 2365 2394	symptômes neuropsychiatriques
+T62	ANAT 2414 2448	mésentère cérébraux pariéto-utérin
+T63	PROC 2455 2485	échographie abdomino-pelvienne
+T64	ANAT 2467 2485	abdomino-pelvienne
+T65	DISO 2514 2521	lésions

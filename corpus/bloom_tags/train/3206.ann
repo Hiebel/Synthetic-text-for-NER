@@ -1,0 +1,31 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	DISO 42 67	antécédents pathologiques
+T4	MEAS 68 76	notables
+T5	PROC 78 83	admis
+T6	Hospital 87 94	urgence
+T7	DISO 104 134	tuméfaction du plexus brachial
+T8	ANAT 119 134	plexus brachial
+T9	TEMP 144 166	depuis environ un mois
+T10	PROC 170 185	examen clinique
+T11	PROC 190 199	admission
+T12	DISO 221 247	épanchement intrarachidien
+T13	ANAT 233 247	intrarachidien
+T14	DISO 271 304	syndrome inflammatoire biologique
+T15	PROC 309 328	protéine C réactive
+T16	MEAS 347 354	20 mg/L
+T17	PROC 371 397	examen somato-psychomoteur
+T18	DISO 436 461	symptomatologie délirante
+T19	CHEM 481 498	anti épileptiques
+T20	PROC 502 526	exploration chirurgicale
+T21	DISO 543 558	lésion kystique
+T22	MEAS 568 572	4 cm
+T23	Concept_Idea 576 585	grand axe
+T24	MEAS 590 594	2 cm
+T25	Concept_Idea 598 607	petit axe
+T26	ANAT 624 649	surrénale latérale droite
+T27	Localization 643 649	droite
+T28	Concept_Idea 658 670	consentement
+T29	LIVB 706 713	parents
+T30	DISO 724 729	masse
+T31	DISO 753 767	tumeur bénigne

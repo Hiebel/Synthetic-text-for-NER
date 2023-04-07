@@ -1,0 +1,33 @@
+T1	MEAS 13 17	deux
+T2	LIVB 18 26	patients
+T3	LIVB 31 37	garçon
+T4	TEMP 45 50	2 ans
+T5	LIVB 58 63	fille
+T6	TEMP 72 77	4 ans
+T7	PROC 82 100	bilan radiologique
+T8	PROC 140 173	scanner du membre inférieur droit
+T9	ANAT 151 173	membre inférieur droit
+T10	Localization 168 173	droit
+T11	DISO 189 198	anomalies
+T12	Concept_Idea 208 215	limites
+T13	MEAS 216 222	saines
+T14	PROC 256 277	biopsie scanno-guidée
+T15	DISO 291 318	processus lésionnel tumoral
+T16	PHEN 342 369	remaniements hémodynamiques
+T17	DISO 392 398	tumeur
+T18	PROC 403 431	contrôle locorégional direct
+T19	DISO 453 473	récidive traumatique
+T20	DISO 483 501	signe histologique
+T21	DISO 527 549	métastases secondaires
+T22	DISO 560 583	maladies inflammatoires
+T23	PROC 640 666	étude immuno-histochimique
+T24	PROC 668 709	anticorps monoclonaux IgG anti DNA natifs
+T25	LIVB 720 726	germes
+T26	CHEM 769 780	corticoïdes
+T27	PROC 881 921	tomodensitométrie fonctionnelle générale
+T28	PROC 923 944	TDM / Doppler couleur
+T29	DISO 1088 1094	lésion
+T30	MEAS 1119 1126	normale
+T31	PROC 1142 1168	examen anatomopathologique
+T32	MEAS 1191 1202	particulier
+T33	PROC 1248 1277	prélèvements bactériologiques

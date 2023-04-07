@@ -1,0 +1,62 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 47 72	antécédents pathologiques
+T3	MEAS 73 81	notables
+T4	PROC 83 88	Admis
+T5	Hospital 93 101	urgences
+T6	DISO 111 130	pleurésie chronique
+T7	TEMP 140 153	depuis 2 mois
+T8	PROC 157 172	examen clinique
+T9	PROC 177 186	admission
+T10	LIVB 199 206	patient
+T11	MEAS 210 213	bon
+T12	Concept_Idea 214 226	état général
+T13	DISO 228 238	tachycarde
+T14	MEAS 241 266	110 battements par minute
+T15	PHEN 274 295	contractions utérines
+T16	ANAT 287 295	utérines
+T17	MEAS 296 305	brunâtres
+T18	PROC 321 337	examen somatique
+T19	DISO 369 401	masse du champ pulmonaire gauche
+T20	ANAT 378 401	champ pulmonaire gauche
+T21	Localization 395 401	gauche
+T22	MEAS 411 416	14 cm
+T23	MEAS 421 426	13 cm
+T24	Concept_Idea 429 435	aspect
+T25	MEAS 436 455	légèrement kystique
+T26	ANAT 477 487	col utérin
+T27	DISO 521 562	métastases cervico-vésiculaires tumorales
+T28	ANAT 532 562	cervico-vésiculaires tumorales
+T29	DISO 569 608	paragangliome hétéro-encéphaloendocrine
+T30	CHEM 610 614	PNET
+T31	PROC 619 649	échographie abdomino périnéale
+T32	ANAT 631 649	abdomino périnéale
+T33	MEAS 656 663	normale
+T34	PROC 679 695	touchers vaginal
+T35	ANAT 688 695	vaginal
+T36	MEAS 704 725	profondément invasifs
+T37	DISO 759 764	masse
+T38	DISO 803 828	localisations secondaires
+T39	LIVB 847 855	patiente
+T40	PROC 875 905	chimiothérapie type palliative
+T41	CHEM 916 929	dexaméthasone
+T42	CHEM 944 955	bupivacaine
+T43	DISO 1003 1023	défense épigastrique
+T44	ANAT 1011 1023	épigastrique
+T45	DISO 1037 1063	thrombophlébitis purulante
+T46	PROC 1116 1139	traité chirurgicalement
+T47	PROC 1146 1193	anesthésie transoesophagienne transphacoïdienne
+T48	ANAT 1157 1193	transoesophagienne transphacoïdienne
+T49	DISO 1254 1276	placenta macroscopique
+T50	MEAS 1286 1298	2000 grammes
+T52	PROC 1361 1372	extirpation
+T53	DEVI 1381 1403	bandelette aspiratrice
+T54	DOSE 1406 1413	1litres
+T55	MEAS 1492 1503	1000 mg / l
+T56	PROC 1532 1573	lavage vasculo-nerveux pharyngo-axillaire
+T57	ANAT 1539 1573	vasculo-nerveux pharyngo-axillaire
+T58	DEVI 1608 1618	fils nylon
+T59	DISO 1666 1677	prématurité
+T60	MEAS 1688 1693	200ml
+T61	PROC 1716 1744	radiothérapie complémentaire
+T62	PROC 1783 1821	radio chimiothérapie externe adjuvante
+T63	PROC 1822 1826	RACE

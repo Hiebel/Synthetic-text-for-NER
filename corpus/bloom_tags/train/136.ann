@@ -1,0 +1,22 @@
+T1	LIVB 7 10	F.A
+T2	PHEN 27 47	grossesse gémellaire
+T3	PROC 52 58	suivie
+T4	MEAS 121 133	particuliers
+T5	Hospital 175 200	urgences ophtalmologiques
+T6	ANAT 231 251	péribuccal liquidien
+T7	TEMP 261 277	depuis deux mois
+T8	DISO 293 318	instabilité hémodynamique
+T9	DISO 328 341	inflammatoire
+T10	DISO 362 383	défense surrénalienne
+T11	ANAT 370 383	surrénalienne
+T12	DISO 418 448	polynucléaires éosinophiliques
+T13	Localization 489 497	centrale
+T14	ANAT 521 546	muqueuses oculomotetrices
+T15	MEAS 556 559	5cm
+T16	Concept_Idea 563 572	grand axe
+T17	DOSE 737 739	2g
+T18	CHEM 743 756	dexaméthasone
+T19	PROC 763 791	nasofibroscopie endoscopique
+T20	DISO 805 831	paragangliome hypertrophié
+T21	ANAT 842 854	chirurgicale
+T22	PROC 884 911	colpohystérectomie radicale

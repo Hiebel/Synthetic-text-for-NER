@@ -1,0 +1,21 @@
+T1	PROC 2 17	examen clinique
+T2	PROC 22 31	admission
+T3	LIVB 45 53	patiente
+T4	MEAS 57 60	bon
+T5	Concept_Idea 61 73	état général
+T6	DISO 80 86	signes
+T7	DISO 89 101	hyperthermie
+T8	DISO 108 137	tâches cutanées prurigineuses
+T9	ANAT 152 170	membres inférieurs
+T10	PROC 186 202	examen somatique
+T11	DISO 230 239	symptômes
+T13	ANAT 262 270	pleurale
+T14	PROC 292 316	anesthésie locorégionale
+T15	TEMP 303 316	locorégionale
+T16	CHEM 318 326	propofol
+T17	DOSE 327 336	0,3 mg/kg
+T18	CHEM 340 348	fentanil
+T19	DOSE 349 356	1 µg/kg
+T20	DEVI 365 384	sonde nasogastrique
+T21	ANAT 371 384	nasogastrique
+T22	DISO 401 413	vomissements

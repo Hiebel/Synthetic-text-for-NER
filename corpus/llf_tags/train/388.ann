@@ -1,0 +1,39 @@
+T1	LIVB 3 10	patient
+T2	PROC 31 36	admis
+T3	Hospital 41 49	urgences
+T4	PROC 58 73	prise en charge
+T5	DISO 79 94	nodule du genou
+T6	ANAT 89 94	genou
+T7	DISO 116 175	carcinome indifférencié des parties molles cervicale droite
+T9	Localization 169 175	droite
+T10	ANAT 202 246	angle crico-rectal postéro-ombilicale gauche
+T11	Localization 240 246	gauche
+T12	DISO 261 310	dysplasie anaplasique maligne nodulaire aseptique
+T13	DISO 316 380	adénofibroblastique carcinomateuse mucineux infiltrant le rectum
+T14	ANAT 374 380	rectum
+T15	DISO 393 417	anomalies morphologiques
+T16	PROC 431 457	examen anatomopathologique
+T18	PROC 593 610	tomodensitométrie
+T19	LIVB 628 635	patient
+T20	DISO 657 685	récidive tumorale secondaire
+T21	DISO 692 728	métastases métastatiques secondaires
+T22	DISO 738 763	localisations secondaires
+T23	DISO 780 807	remaniements inflammatoires
+T24	PROC 821 848	bilan radiologique standard
+T25	PROC 850 875	scanner thoraco abdominal
+T26	ANAT 858 875	thoraco abdominal
+T27	PROC 907 931	monitorage échographique
+T28	PROC 945 959	TDM abdominale
+T29	ANAT 949 959	abdominale
+T30	PROC 989 1011	résection chirurgicale
+T31	PROC 1018 1049	investigations scannographiques
+T32	PHEN 1108 1117	grossesse
+T33	TEMP 1130 1136	3 mois
+T34	DISO 1189 1209	rupture pathologique
+T35	DISO 1310 1354	contage ganglionnaire axillaire mésentérique
+T36	ANAT 1318 1354	ganglionnaire axillaire mésentérique
+T37	LIVB 1366 1371	femme
+T38	PROC 1391 1401	consultait
+T39	Concept_Idea 1423 1441	état hémodynamique
+T40	DISO 1490 1536	hypertension artérielle systolique congénitale
+T41	MEAS 1548 1558	rapidement

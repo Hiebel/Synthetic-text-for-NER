@@ -1,0 +1,37 @@
+T1	LIVB 29 37	patiente
+T2	PHEN 99 112	respiratoires
+T3	PROC 127 141	interrogatoire
+T4	LIVB 143 147	nous
+T5	LIVB 171 179	patiente
+T6	DISO 184 201	céphalées fébrile
+T7	TEMP 224 237	depuis 3 mois
+T8	DISO 260 279	dyspnée stade 4NYHA
+T9	DISO 296 318	épanchement péritonéal
+T10	ANAT 308 318	péritonéal
+T11	MEAS 328 334	700 ml
+T12	DISO 350 356	fièvre
+T13	MEAS 368 373	38° C
+T16	DISO 665 686	détresse respiratoire
+T17	PHEN 674 686	respiratoire
+T18	MEAS 701 708	modérée
+T19	Hospital 713 721	urgences
+T20	Concept_Idea 757 775	état hémodynamique
+T21	PROC 803 845	contractions artérielles biquatriplégiques
+T22	ANAT 816 845	artérielles biquatriplégiques
+T23	DISO 871 891	douleur prurigineuse
+T24	DISO 904 920	signes cliniques
+T25	DISO 946 979	troubles sensitivomoitivo-moteurs
+T26	PROC 982 997	examen clinique
+T27	LIVB 1011 1019	patiente
+T28	Concept_Idea 1046 1064	plan hémodynamique
+T29	PHEN 1068 1080	respiratoire
+T30	PROC 1095 1120	examen pleuro-pulmonaires
+T31	ANAT 1102 1120	pleuro-pulmonaires
+T32	DISO 1135 1164	opacité basithoracique gauche
+T33	ANAT 1143 1164	basithoracique gauche
+T34	Localization 1158 1164	gauche
+T35	ANAT 1183 1212	fosse thoracique homolatérale
+T36	Localization 1200 1212	homolatérale
+T37	MEAS 1220 1224	30cm
+T38	Concept_Idea 1228 1237	grand axe
+T39	ANAT 1266 1296	veines cardiaques fémoralisées

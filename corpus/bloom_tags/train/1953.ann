@@ -1,0 +1,35 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 77	antécédents médico-chirurgicaux
+T3	MEAS 78 86	notables
+T4	DISO 106 127	détresse respiratoire
+T5	PHEN 115 127	respiratoire
+T6	MEAS 142 153	progressive
+T7	PROC 168 183	hospitalisation
+T8	Hospital 192 205	service d'ORU
+T9	Hospital 209 258	centre Hospitalier Universitaire Hassan II de Fès
+T10	PROC 262 276	interrogatoire
+T11	LIVB 293 297	elle
+T12	DISO 313 376	syndrome d'épanchement péricardique latérale droit hypertrophié
+T14	Localization 358 363	droit
+T15	TEMP 386 402	depuis deux mois
+T16	DISO 423 446	symptômes neurologiques
+T17	DISO 456 480	méningo-vasculo-nerveuse
+T18	PROC 498 513	examen physique
+T19	DISO 528 557	distension abdomino-pelvienne
+T20	ANAT 539 557	abdomino-pelvienne
+T21	MEAS 569 584	progressivement
+T22	Concept_Idea 588 594	volume
+T23	ANAT 615 620	grêle
+T24	ANAT 637 668	branches gastroduodéno-iliaques
+T25	MEAS 693 697	4 cm
+T26	MEAS 700 704	3 cm
+T27	ANAT 735 761	organes intestinaux grêles
+T28	DISO 777 810	sensibilité ombilicale abdominale
+T29	ANAT 789 810	ombilicale abdominale
+T30	MEAS 845 869	profondément douloureuse
+T31	DISO 955 978	céphalées hémorragiques
+T32	DISO 1008 1027	douleurs pelviennes
+T33	ANAT 1017 1027	pelviennes
+T34	ANAT 1063 1094	aires ganglionnaires axillaires
+T35	ANAT 1115 1147	fosse ombilicale diaphragmatique
+T36	PROC 1337 1364	bilan préopératoire complet

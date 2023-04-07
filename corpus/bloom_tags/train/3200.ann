@@ -1,0 +1,32 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	5 ans
+T3	PROC 64 69	admis
+T4	Hospital 74 95	urgences pédiatriques
+T5	DISO 105 124	lésions purpuriques
+T6	ANAT 138 148	sein droit
+T7	Localization 143 148	droit
+T8	TEMP 158 172	depuis 7 jours
+T9	PROC 176 191	examen clinique
+T10	PHEN 209 221	récupération
+T11	MEAS 222 231	brucellée
+T12	DISO 238 264	lésion nodule prurigineuse
+T13	MEAS 274 287	environ 10 cm
+T14	Concept_Idea 291 300	grand axe
+T15	MEAS 305 309	6 cm
+T16	Concept_Idea 313 326	petite taille
+T17	Concept_Idea 329 335	aspect
+T18	MEAS 336 348	bien arrondi
+T19	ANAT 363 384	tâches conjonctivales
+T20	DISO 401 413	métrorragies
+T21	LIVB 415 418	Son
+T22	PROC 419 439	examen microscopique
+T23	DISO 461 483	granulome hypertrophié
+T24	DISO 541 569	carcinome pléométacarpiforme
+T25	LIVB 602 610	patiente
+T26	DISO 659 672	consanguinité
+T27	LIVB 681 688	famille
+T28	DISO 765 775	prurigines
+T29	DISO 827 857	troubles métaboliques cutanées
+T30	DEVI 1202 1207	froid
+T31	ANAT 1243 1269	grêlothérapie pancréatique
+T32	ANAT 1286 1304	glandes salivaires

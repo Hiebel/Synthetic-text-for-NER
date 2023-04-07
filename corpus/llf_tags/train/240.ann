@@ -1,0 +1,16 @@
+T1	LIVB 19 26	patient
+T3	DISO 145 173	séjour prolongé pathologique
+T4	LIVB 185 200	sœur maternelle
+T5	TEMP 209 215	26 ans
+T6	LIVB 238 250	frère jumeau
+T7	PROC 255 260	suivi
+T8	LIVB 348 364	cousins germains
+T9	PROC 389 420	consultations préanesthésiantes
+T10	Concept_Idea 507 527	problèmes somatiques
+T11	LIVB 556 558	sa
+T12	LIVB 559 575	tante paternelle
+T13	PROC 632 656	prise en charge médicale
+T14	PROC 690 722	antibioprophylaxie thérapeutique
+T15	PROC 736 766	kinésithérapie comportementale
+T16	PROC 772 791	radiothérapie douce
+T18	PROC 876 906	ostéosynthèse transplacentaire

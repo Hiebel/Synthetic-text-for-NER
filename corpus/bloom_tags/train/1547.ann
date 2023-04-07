@@ -1,0 +1,54 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	LIVB 53 56	ses
+T4	Hospital 57 78	urgences pédiatriques
+T5	DISO 97 105	apyrexie
+T6	MEAS 117 120	2kg
+T7	DISO 122 143	détresse respiratoire
+T8	PHEN 131 143	respiratoire
+T9	TEMP 153 166	depuis 2 mois
+T10	CHEM 172 185	sulfasalazine
+T11	CHEM 206 232	médicaments neuroleptiques
+T12	CHEM 238 251	métronidazole
+T13	DISO 296 316	hyperthermie globale
+T14	PROC 333 351	traitement médical
+T15	CHEM 366 394	médicaments antipsychotiques
+T16	DISO 466 490	symptômes psychiatriques
+T17	DEVI 568 587	sonde nasogastrique
+T19	PROC 593 643	ponction liquide pleuro-péricardique transfixiante
+T20	ANAT 602 629	liquide pleuro-péricardique
+T21	PROC 719 754	technique chirurgicale exploratrice
+T22	MEAS 896 922	profondément satisfaisante
+T23	DISO 944 970	souffrance cutanéo-cutanée
+T24	ANAT 955 970	cutanéo-cutanée
+T25	MEAS 1007 1020	spectaculaire
+T26	PROC 1074 1103	prélèvements bactériologiques
+T27	CHEM 1136 1150	tobraméthasone
+T28	DOSE 1151 1159	0,5mg/kg
+T29	PROC 1165 1205	scanner abdomino-pelvien scannographique
+T30	ANAT 1173 1205	abdomino-pelvien scannographique
+T31	DISO 1223 1293	hépatosplénomégalie bilirulo-aryténophagocytaire hétéro-myxo-nodulaire
+T32	ANAT 1310 1321	flanc droit
+T33	Localization 1316 1321	droit
+T34	MEAS 1345 1349	13cm
+T35	MEAS 1352 1355	9cm
+T36	MEAS 1357 1361	12cm
+T37	ANAT 1383 1402	muqueuse ombilicale
+T38	DISO 1488 1520	lymphangiome kystique nécrotique
+T39	DISO 1558 1586	résidu lésionnel cicatriciel
+T40	DISO 1602 1625	kyste hydatique nécrosé
+T41	PROC 1647 1676	chimiothérapie prophylactique
+T42	CHEM 1685 1694	Etoposide
+T44	CHEM 1709 1719	Cisplatine
+T45	DOSE 1722 1731	200 grays
+T46	MEAS 1786 1795	favorable
+T47	MEAS 1930 1961	progressivement moins favorable
+T48	MEAS 1975 1990	plus fréquentes
+T49	Concept_Idea 2011 2017	moyens
+T50	PROC 2021 2048	examen anatomo-pathologique
+T51	DISO 2061 2136	adénocarcinome du parenchyme ovarien hypophyso-gastro-intestinal infiltrant
+T53	DISO 2149 2163	particularités
+T54	PROC 2167 2192	étude immunohistochimique
+T55	PROC 2194 2202	marquage
+T56	LIVB 2286 2290	nous
+T57	DISO 2321 2351	péritonite ischémique syndrome

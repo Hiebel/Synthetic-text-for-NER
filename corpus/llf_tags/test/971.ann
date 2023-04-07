@@ -1,0 +1,38 @@
+T1	LIVB 15 21	enfant
+T2	LIVB 55 57	sa
+T3	LIVB 58 62	mère
+T4	LIVB 66 69	son
+T5	LIVB 70 81	grand frère
+T6	LIVB 150 153	Son
+T7	LIVB 154 158	père
+T8	LIVB 179 181	il
+T9	LIVB 352 355	ses
+T10	LIVB 356 378	petits frères germains
+T11	LIVB 446 449	son
+T12	LIVB 450 461	frère cadet
+T13	LIVB 490 505	sœur maternelle
+T14	LIVB 571 574	lui
+T15	CHEM 588 602	céphalosporine
+T16	DOSE 603 608	600mg
+T17	TEMP 608 610	/j
+T18	PROC 616 633	geste chirurgical
+T19	LIVB 673 678	fœtus
+T20	MEAS 686 698	4600 grammes
+T21	DISO 734 753	troubles psychiques
+T22	PROC 830 854	suivi pluridisciplinaire
+T23	PROC 1010 1110	monocarnéphrine substitutif intracytoplasmique prophylactic factors extrapulsive scapula double dose
+T24	Concept_Idea 1558 1562	ACRP
+T25	PROC 1570 1603	bilan immunologique préopératoire
+T26	DISO 1622 1667	myélome multiple IgM du lobe supérieur utérin
+T27	ANAT 1646 1667	lobe supérieur utérin
+T28	DISO 1722 1751	symptômes neuropsychiatriques
+T29	PROC 1779 1803	chimiothérapie adjuvante
+T30	PROC 1846 1859	thérapeutique
+T31	DISO 1901 1922	récidive pathologique
+T32	LIVB 1998 2005	patient
+T33	MEAS 2074 2078	deux
+T34	PHEN 2118 2127	grossesse
+T35	PROC 2132 2138	suivie
+T36	DISO 2436 2455	contage tuberculeux
+T37	DISO 2593 2613	complication morbide
+T38	DISO 2958 2982	anomalies morphologiques

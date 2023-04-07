@@ -1,0 +1,25 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	9 ans
+T3	DISO 41 64	antécédent pathologique
+T4	MEAS 65 72	notable
+T5	PROC 76 82	examen
+T6	PROC 87 96	admission
+T7	Concept_Idea 107 112	poids
+T8	MEAS 116 121	10 kg
+T9	Concept_Idea 131 137	taille
+T10	MEAS 141 147	120 cm
+T11	Concept_Idea 155 170	hauteur utérine
+T12	ANAT 163 170	utérine
+T13	MEAS 181 186	29 cm
+T14	PROC 191 210	bilan préopératoire
+T15	PROC 228 231	CRP
+T16	MEAS 234 242	96 UI/ml
+T17	PROC 244 263	protéine C réactive
+T18	PROC 265 268	CRP
+T19	MEAS 272 278	1 mg/l
+T20	PROC 281 291	plaquettes
+T21	MEAS 294 304	20000/mm 3
+T22	PROC 310 320	diagnostic
+T23	DISO 346 396	maladie thromboembolique du membre supérieur droit
+T24	ANAT 374 396	membre supérieur droit
+T25	Localization 391 396	droit

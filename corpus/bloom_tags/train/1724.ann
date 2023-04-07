@@ -1,0 +1,42 @@
+T1	LIVB 28 35	patient
+T2	DISO 69 89	syndrome néphrotique
+T3	DISO 94 114	diabète hypertenseur
+T4	CHEM 124 143	corticoïdes inhalés
+T5	CHEM 149 167	méthylprednisolone
+T6	DOSE 169 177	20 mg/kg
+T7	TEMP 177 182	/jour
+T8	DISO 203 220	céphalées fébrile
+T9	TEMP 230 244	depuis 2 jours
+T10	DISO 264 271	dyspnée
+T11	MEAS 286 292	rapide
+T12	PHEN 294 300	sueurs
+T13	MEAS 301 309	profuses
+T14	DISO 323 343	diarrhée liquidienne
+T15	DISO 364 400	symptômes inflammatoires intestinaux
+T16	DISO 418 434	troubles visuels
+T17	DISO 445 459	signes cutanés
+T18	DISO 499 508	symptômes
+T19	DISO 522 540	déficit neurorénal
+T20	DISO 546 568	anomalies métaboliques
+T21	DISO 592 617	sténose grêlo-intestinale
+T22	ANAT 600 617	grêlo-intestinale
+T23	DISO 635 665	kystie hydatique hypogastrique
+T24	DISO 704 731	complications hémorragiques
+T25	DISO 754 774	hydrorrhée purulante
+T26	DISO 781 795	nutritionnelle
+T27	DISO 890 914	tumeur tumorale kystique
+T28	MEAS 965 974	favorable
+T29	PROC 981 1009	surveillance radiothérapique
+T30	MEAS 1033 1047	plus accentuée
+T31	DISO 1054 1064	métastases
+T32	PROC 1233 1263	traitement curatif chirurgical
+T33	Concept_Idea 1287 1315	caractéristiques biologiques
+T34	PROC 1374 1416	recherche multidisciplinaire préopératoire
+T35	PROC 1618 1641	chirurgie transvaginale
+T36	PROC 1718 1756	interventriculaire valgéo-annexectomie
+T37	MEAS 1786 1811	difficilement appréciable
+T38	MEAS 2197 2202	12 cm
+T39	MEAS 2205 2210	10 cm
+T40	MEAS 2266 2293	intemporellement compatible
+T41	DISO 2368 2402	réaction allergique granulomateuse
+T42	PROC 2414 2440	étude anatomo-pathologique

@@ -1,0 +1,25 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 67	particuliers
+T4	PROC 69 77	consulte
+T5	Hospital 82 90	urgences
+T6	DISO 100 127	dyspnée stade II de la NYHA
+T7	TEMP 137 153	depuis deux mois
+T8	PROC 158 181	radiographie du poignet
+T9	ANAT 174 181	poignet
+T10	DISO 204 262	fracture métatarsienne des membres inférieurs antébrachial
+T11	ANAT 231 262	membres inférieurs antébrachial
+T12	PHEN 267 277	stabilisée
+T13	PROC 284 303	bilan préopératoire
+T14	PROC 313 322	admission
+T15	DISO 349 380	tuméfaction érythémato-violacée
+T16	Localization 397 418	face postéro-latérale
+T17	MEAS 441 449	12/10 cm
+T18	Concept_Idea 452 461	épaisseur
+T19	PROC 467 491	exploration chirurgicale
+T20	PROC 513 540	réhydratation intraveineuse
+T21	DOSE 542 550	2 litres
+T22	MODE 555 565	voie orale
+T23	PROC 581 608	greffonoplastie ad integrum
+T24	PROC 632 662	cœlioscopie transoesophagienne
+T25	LIVB 683 690	patient

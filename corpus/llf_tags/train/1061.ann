@@ -1,0 +1,42 @@
+T1	LIVB 15 23	patiente
+T2	DISO 66 89	hypertension artérielle
+T3	ANAT 79 89	artérielle
+T4	PROC 93 108	examen clinique
+T5	PROC 113 122	admission
+T6	LIVB 133 140	patient
+T7	MEAS 144 151	mauvais
+T8	Concept_Idea 152 164	état général
+T9	DISO 171 177	fièvre
+T10	DISO 188 214	signes neuropsychiatriques
+T11	PROC 230 265	palpation du membre inférieur droit
+T12	ANAT 243 265	membre inférieur droit
+T13	Localization 260 265	droit
+T14	DISO 302 325	déficit sensitivomoteur
+T15	DISO 335 350	râles ataxiques
+T16	ANAT 359 364	talon
+T17	TEMP 374 387	depuis 5 mois
+T18	PROC 392 408	bilan biologique
+T19	PROC 418 439	sérologie infectieuse
+T20	PROC 441 452	hémoglobine
+T21	PROC 454 476	phosphatases alcalines
+T22	PROC 478 491	créatininémie
+T23	MEAS 499 505	normal
+T24	PROC 509 520	échographie
+T25	Hospital 533 548	bloc opératoire
+T26	DISO 565 580	pneumopéritoine
+T27	MEAS 622 629	simples
+T28	PHEN 634 649	fonction rénale
+T29	ANAT 643 649	rénale
+T30	MEAS 664 671	normale
+T31	PROC 677 692	oxygénothérapie
+T32	CHEM 697 728	amoxicilline acide clavulanique
+T34	PROC 851 881	antibiothérapies probabilistes
+T35	Concept_Idea 906 925	aspect histologique
+T36	DISO 993 1009	hyperleucocytose
+T37	DISO 1027 1059	métaplasie hypochromique maligne
+T38	LIVB 1071 1079	patiente
+T39	DISO 1097 1117	tuberculose primaire
+T40	DISO 1153 1179	fistule urothélio-vésicale
+T41	ANAT 1161 1179	urothélio-vésicale
+T42	DISO 1218 1225	diabète
+T43	DISO 1232 1266	thyréopathie chronique obstructive

@@ -1,0 +1,28 @@
+T1	LIVB 29 34	femme
+T2	PROC 55 79	traitement antibactérien
+T3	CHEM 90 101	Ampicilline
+T4	CHEM 103 119	Sulfaméthoxazole
+T5	CHEM 121 136	Chloramphénicol
+T6	CHEM 138 151	Triméthoprime
+T7	CHEM 153 165	Pyrazinamide
+T8	CHEM 168 174	Vit B6
+T9	CHEM 176 187	Ethionamide
+T10	CHEM 189 199	Furosémide
+T11	CHEM 201 216	Fluoroquinolone
+T12	CHEM 218 228	Kanamycine
+T13	CHEM 230 243	Phénobarbital
+T14	CHEM 245 266	Acetyl cholinestérase
+T15	CHEM 268 280	Truocurarine
+T16	DISO 298 316	hyperprolactinurie
+T17	TEMP 326 341	depuis deux ans
+T18	DISO 370 408	syndrome d'épanchement intrapéritonéal
+T19	ANAT 393 408	intrapéritonéal
+T20	MEAS 450 477	spontanément hypermorphique
+T21	MEAS 487 491	18cm
+T22	Concept_Idea 495 504	grand axe
+T23	PROC 535 564	greffon ovarien transfixiante
+T24	ANAT 543 564	ovarien transfixiante
+T25	DISO 594 608	masse tumorale
+T26	MEAS 617 622	10 cm
+T27	Concept_Idea 626 635	grand axe
+T28	ANAT 728 749	parois fibrosculaires

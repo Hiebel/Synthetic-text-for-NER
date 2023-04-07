@@ -1,0 +1,19 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	PROC 33 37	reçu
+T4	Hospital 41 48	urgence
+T5	DISO 58 67	pleurésie
+T6	MEAS 82 93	progressive
+T7	PROC 97 112	examen clinique
+T8	PROC 117 126	admission
+T9	Concept_Idea 139 144	poids
+T10	MEAS 148 153	14 kg
+T11	Concept_Idea 159 165	taille
+T12	MEAS 169 175	130 cm
+T13	Concept_Idea 183 209	indice de masse corporelle
+T14	MEAS 216 237	supérieur à 30 kg/m 2
+T15	PROC 242 258	bilan biologique
+T16	DISO 270 283	particularité
+T17	DISO 301 335	syndrome inflammatoire métabolique
+T18	DISO 341 357	hyperleucocytose
+T19	ANAT 376 391	liquide pleural

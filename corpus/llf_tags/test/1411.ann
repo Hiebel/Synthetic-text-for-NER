@@ -1,0 +1,91 @@
+T1	LIVB 16 24	patiente
+T2	PROC 46 52	admise
+T3	Hospital 57 65	urgences
+T4	DISO 75 81	fièvre
+T5	TEMP 91 105	depuis 3 jours
+T6	PROC 109 124	examen clinique
+T7	Concept_Idea 135 147	état général
+T8	MEAS 148 154	altéré
+T9	DISO 164 180	râles crépitants
+T10	ANAT 194 217	membre supérieur gauche
+T11	Localization 211 217	gauche
+T12	DISO 230 236	signes
+T13	PROC 261 276	examen physique
+T14	DISO 286 299	particularité
+T15	PROC 304 321	tomodensitométrie
+T16	PROC 323 337	TDM) cérébrale
+T17	ANAT 328 337	cérébrale
+T18	DISO 362 411	processus tissulaire rénitro-médullaire polylobée
+T19	MEAS 420 424	6 cm
+T20	Concept_Idea 428 436	diamètre
+T21	MEAS 449 453	4 mm
+T22	Concept_Idea 457 464	largeur
+T23	PROC 494 511	bilan étiologique
+T24	PROC 570 592	traitement chirurgical
+T25	MEAS 634 641	simples
+T26	DISO 656 690	symptomatologie clinico-biologique
+T27	PROC 756 797	thyroïdectomie percutanée conventionnelle
+T28	PROC 837 860	radiothérapie adjuvante
+T29	ANAT 873 891	squelette digestif
+T30	PROC 907 935	chimiothérapie néo adjuvante
+T31	CHEM 941 953	fluorescéine
+T32	CHEM 956 964	fentanyl
+T33	CHEM 966 976	isoniazide
+T34	PROC 990 1035	néphrectomie totale élargie scanno-guidelines
+T35	PROC 1041 1065	rachianesthésie générale
+T36	PROC 1080 1137	hémophagocytoprophylaxie substitutionnelle postopératoire
+T37	PROC 1142 1165	scanner abdominopelvien
+T38	ANAT 1150 1165	abdominopelvien
+T39	DISO 1181 1214	niveaux hydrorénaux hyperbasiques
+T40	PROC 1231 1268	transfractionnement transoesophagique
+T41	Concept_Idea 1290 1310	périmètre anéchogène
+T42	MEAS 1327 1355	légèrement inférieurs à 10mm
+T43	PHEN 1362 1381	recoupes urétérales
+T44	MEAS 1390 1396	libres
+T45	ANAT 1421 1443	ganglions lymphatiques
+T46	ANAT 1462 1498	structures ganglionnaires cervicales
+T47	ANAT 1502 1516	épiploïdiennes
+T48	ANAT 1539 1561	cloisons mésentériques
+T49	MEAS 1697 1711	16 centimètres
+T50	Concept_Idea 1715 1724	grand axe
+T51	ANAT 1742 1773	grande courbure gastroduodénale
+T52	MEAS 1779 1793	20 millimètres
+T54	MEAS 1848 1867	11 millimètre degré
+T55	ANAT 1882 1899	noyaux pyloriques
+T56	MEAS 1910 1925	environ 1 mètre
+T57	MEAS 2016 2032	interchangeables
+T58	PROC 2073 2091	étude histologique
+T59	DISO 2128 2150	anomalie morphologique
+T60	DISO 2154 2194	du nerf laryngé basithoracique liquidien
+T61	ANAT 2157 2194	nerf laryngé basithoracique liquidien
+T62	DISO 2216 2239	performances mécaniques
+T63	PROC 2247 2274	prélèvement bactériologique
+T64	LIVB 2313 2321	patiente
+T65	PROC 2356 2394	extubation endotrachéale préopératoire
+T66	PROC 2418 2475	antibiothérapie probabiliste antibacillaire intraveineuse
+T67	PROC 2636 2658	traitement d'entretien
+T68	CHEM 2663 2687	acide acétyle glutamique
+T69	DOSE 2689 2695	400 mg
+T70	TEMP 2695 2697	/j
+T71	PROC 2713 2738	surveillance radiologique
+T72	PHEN 2742 2767	transit cardio-thoracique
+T73	ANAT 2750 2767	cardio-thoracique
+T74	MEAS 2787 2796	favorable
+T75	DISO 2818 2847	récidives neuropsychiatriques
+T76	DISO 2860 2878	crises convulsives
+T77	MEAS 2912 2919	normale
+T78	TEMP 2946 2956	25/08/2011
+T79	DISO 3131 3139	symptôme
+T80	DISO 3201 3228	neuroleptiques alimentaires
+T81	PROC 3815 3831	examen somatique
+T82	DISO 3856 3912	hypertriglycéridémie hypochrome hétérocytaire congénital
+T83	MEAS 3923 3934	100 mmol /l
+T84	DISO 3950 3977	hyperparathyroïdie primaire
+T85	MEAS 3988 3997	139 pg/ml
+T86	DISO 4013 4048	schizophagie chronique idiopathique
+T87	MEAS 4060 4069	430 pg/ml
+T88	LIVB 4184 4194	oncologues
+T89	LIVB 4198 4218	pharmaco-généticiens
+T90	MEAS 4370 4381	trèssimples
+T91	PROC 4405 4435	contrôles locorégionaux locaux
+T92	PROC 4476 4501	monitorage hémodialytique

@@ -1,0 +1,46 @@
+T1	LIVB 3 10	patient
+T2	DISO 30 49	tabagique chronique
+T3	LIVB 185 191	enfant
+T4	Hospital 284 316	prédateur injectable pédiatrique
+T5	MEAS 354 358	N° 2
+T6	LIVB 359 362	Ses
+T7	LIVB 404 407	son
+T8	LIVB 408 414	épouse
+T9	PROC 446 474	consultation ophtalmologique
+T10	PROC 541 563	consultation prénatale
+T11	PROC 569 589	examen gynécologique
+T12	MEAS 711 722	3050grammes
+T13	MEAS 730 744	8000x10000 mm3
+T14	LIVB 809 811	sa
+T15	LIVB 818 823	fille
+T16	PROC 829 838	accouchée
+T17	ANAT 1705 1719	fente palatine
+T18	Concept_Idea 1734 1740	aspect
+T19	Localization 1771 1791	1/3 inferieur-gauche
+T20	ANAT 1799 1815	annexes pelviens
+T21	ANAT 1838 1852	rein supérieur
+T22	Localization 1843 1852	supérieur
+T23	DEVI 1871 1896	bandeslettes alimentaires
+T24	DISO 1938 1952	particularités
+T25	PROC 1968 1999	traitement médical conservateur
+T26	CHEM 2004 2035	amoxicilline acide clavulanique
+T27	DOSE 2037 2040	2 g
+T28	TEMP 2040 2058	deux fois par jour
+T29	DOSE 2072 2078	500 mg
+T30	TEMP 2078 2095	une fois par jour
+T31	DISO 2114 2144	symptomatologie neuropsychique
+T32	PROC 2160 2183	contrôles échographique
+T33	PHEN 2252 2261	grossesse
+T34	LIVB 2311 2322	jeune fille
+T35	PROC 2407 2439	anastomose vaginale exploratrice
+T36	PROC 2453 2514	laparotomie totale intratricielle intracavernectomie type BKI
+T37	Hospital 2631 2660	grossesse unique multiloculée
+T38	MEAS 2686 2695	favorable
+T39	PROC 2712 2750	prise en charge médicale conservatrice
+T40	Concept_Idea 2841 2859	état hémodynamique
+T41	PROC 2882 2904	positionnement initial
+T42	PROC 2938 2969	transfusions axillaires courtes
+T44	PROC 3181 3267	antibioprophylaxie antibacillaire parentérale préopératoire intramusculaire percutanée
+T45	PROC 3286 3301	séjour néonatal
+T46	Concept_Idea 3426 3456	caractéristiques histologiques
+T47	DISO 3482 3505	récepteurs psychotiques

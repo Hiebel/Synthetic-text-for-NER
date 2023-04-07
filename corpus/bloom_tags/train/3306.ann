@@ -1,0 +1,44 @@
+T1	LIVB 3 10	patient
+T2	Concept_Idea 31 42	antécédents
+T3	MEAS 43 55	particuliers
+T4	PROC 57 65	consulte
+T5	Hospital 70 78	urgences
+T6	DISO 88 118	paralysie partielle du langage
+T7	ANAT 111 118	langage
+T8	PROC 128 137	admission
+T9	PHEN 141 146	pouls
+T10	MEAS 156 168	110 batt/min
+T11	MEAS 180 198	115 battements/min
+T12	LIVB 212 214	Il
+T13	DISO 230 247	dyspnée sifflante
+T14	MEAS 262 273	progressive
+T15	TEMP 283 296	depuis 2 mois
+T16	DISO 317 334	céphalées fébrile
+T17	PROC 340 369	échographie abdominopelvienne
+T18	ANAT 352 369	abdominopelvienne
+T19	DISO 409 458	masse polylobée tissulaire péripéritonéale droite
+T20	Localization 452 458	droite
+T21	Concept_Idea 467 472	forme
+T22	MEAS 479 488	régulière
+T23	MEAS 498 502	32cm
+T24	Concept_Idea 506 515	grand axe
+T25	PROC 536 545	injection
+T26	CHEM 549 569	produit de contraste
+T27	MEAS 581 596	progressivement
+T28	Concept_Idea 600 606	volume
+T29	DISO 637 666	pseudo-pancréas hypertrophiés
+T30	DISO 685 713	perte de substance pariétale
+T31	ANAT 735 765	fosse iliaque supra ombilicale
+T32	Localization 749 754	supra
+T33	DISO 786 822	épanchements tissulaires hypokaliens
+T34	ANAT 799 822	tissulaires hypokaliens
+T35	ANAT 843 876	jonction iléocoecale pancréatique
+T36	ANAT 897 911	sinus grêlique
+T37	DISO 948 963	hypertrophiante
+T38	DISO 967 975	kystique
+T39	DISO 993 1006	inflammatoire
+T40	PROC 1099 1137	TDM abdomino-pelvienne scannographique
+T41	ANAT 1103 1137	abdomino-pelvienne scannographique
+T43	Localization 1232 1235	sus
+T44	MEAS 1254 1261	T4N0 M0
+T45	PROC 1271 1299	classification de Willebrand

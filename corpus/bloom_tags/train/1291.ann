@@ -1,0 +1,13 @@
+T1	LIVB 20 28	patiente
+T2	DISO 59 65	tumeur
+T3	Localization 79 84	coude
+T4	ANAT 79 84	coude
+T5	MEAS 86 90	bien
+T6	PROC 91 97	palpée
+T7	LIVB 105 113	patiente
+T8	Concept_Idea 122 128	aspect
+T9	DISO 144 167	carcinome angiosarmoïde
+T10	PROC 173 217	chimiothérapie à base d'acide acétylsalicylé
+T11	CHEM 197 217	acide acétylsalicylé
+T12	DOSE 219 224	200mg
+T13	TEMP 224 229	/jour

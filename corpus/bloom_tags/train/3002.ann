@@ -1,0 +1,43 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	11 ans
+T3	Concept_Idea 38 63	antécédents pathologiques
+T4	MEAS 64 76	particuliers
+T5	PROC 78 83	admis
+T6	Hospital 88 96	urgences
+T7	DISO 106 140	masse du plexus phréno-lobe gauche
+T8	ANAT 115 140	plexus phréno-lobe gauche
+T9	Localization 134 140	gauche
+T10	MEAS 152 167	progressivement
+T11	Concept_Idea 171 177	volume
+T12	PROC 181 196	examen clinique
+T13	LIVB 209 215	enfant
+T14	Concept_Idea 240 258	plan hémodynamique
+T15	PHEN 268 286	suites opératoires
+T16	MEAS 287 294	simples
+T17	PROC 298 331	échocardiographie transthoracique
+T18	ANAT 316 331	transthoracique
+T19	DISO 348 371	masse hypokali-calcique
+T20	MEAS 381 391	29 x 17 mm
+T21	MEAS 400 403	2cm
+T22	Concept_Idea 406 412	aspect
+T23	MEAS 413 428	hyperhétérogène
+T24	MEAS 432 449	bien vascularisée
+T25	DEVI 453 485	profil échogène trans-thoracique
+T26	MEAS 500 509	fortement
+T27	PROC 516 525	injection
+T28	CHEM 529 549	produit de contraste
+T29	DISO 584 624	tumeur kystique tissulaire hypertrophiée
+T30	ANAT 643 670	vésicule biliaire splénique
+T31	PROC 686 722	tomodensitométrie abdomino-pelvienne
+T32	ANAT 704 722	abdomino-pelvienne
+T33	DISO 736 796	lésion tumorale arrondie hypohypothermique hypervascularisée
+T34	ANAT 834 858	cavité péripancréatiques
+T35	ANAT 954 977	voie biliaire hépatique
+T36	ANAT 1005 1023	membres inférieurs
+T37	PROC 1174 1208	radio-chimiothérapie néo adjuvante
+T38	PROC 1251 1288	chirurgie coelioscopique exploratrice
+T39	PROC 1289 1322	curage ganglionnaire locorégional
+T40	PROC 1326 1356	lobectomie jugulo-carotidienne
+T41	ANAT 1337 1356	jugulo-carotidienne
+T42	PROC 1485 1505	colostomie ovarienne
+T43	ANAT 1496 1505	ovarienne

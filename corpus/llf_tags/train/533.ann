@@ -1,0 +1,77 @@
+T1	LIVB 4 12	patiente
+T2	DISO 109 131	fistuleuses ankylosées
+T3	CHEM 137 164	amoxicilline acide acétique
+T4	DOSE 166 168	1g
+T5	TEMP 168 172	/24h
+T6	DISO 195 218	symptômes neurologiques
+T7	PROC 231 240	admission
+T8	Hospital 245 253	urgences
+T9	DISO 272 283	neurolepsie
+T10	DISO 293 321	trouble délirant psychotique
+T11	PROC 454 469	examen clinique
+T12	DISO 490 514	déficit sensitivo-moteur
+T13	Concept_Idea 550 562	état général
+T14	DISO 589 620	désorientation temporo-spatiale
+T15	DISO 636 646	dysarthrie
+T16	DISO 661 693	moments confusionnels convulsifs
+T17	PROC 718 750	nasofibroscopie digestive totale
+T18	DISO 767 787	hypertriglycéridémie
+T19	MEAS 790 809	2,8 fois la normale
+T20	MEAS 817 839	3500 gramme / 24heures
+T21	LIVB 867 875	patiente
+T22	DISO 880 915	grossesse pyélocalicielle malformée
+T23	DISO 933 957	cholécystokératite aigüe
+T24	DISO 975 1022	perforation prénatale néonatalienne congénitale
+T25	Concept_Idea 1035 1055	aspect morphologique
+T26	DISO 1072 1104	maladie cœlio-anxieuse primitive
+T27	PROC 1146 1170	laparotomie exploratrice
+T28	DISO 1215 1231	lésions myxoïdes
+T29	DISO 1328 1340	prématurités
+T30	MEAS 1422 1427	30 cm
+T31	MEAS 1430 1435	20 cm
+T32	DISO 1457 1500	remaniements lymphoplasmocytaires atypiques
+T33	DISO 1521 1571	lymphocytes irréguliers éosinophiles hyperglucides
+T34	ANAT 1590 1648	zone réticulo-mésentérique mésentérique intraventriculaire
+T35	ANAT 1666 1719	nerf thoracique controlatéral lombaire antero-externe
+T36	MEAS 1739 1751	bien limités
+T37	ANAT 1837 1858	crête gastroduodénale
+T38	PROC 1875 1900	trajectoire préopératoire
+T39	LIVB 1905 1913	patiente
+T40	PROC 1929 1967	hémodialyse peropératoire concomitante
+T41	PROC 1981 2053	néphrectomie partielle monobloc scanno-guidée biquotidienne endovaginale
+T42	PROC 2078 2132	colostomie œso-oesogastroduodénale élargie asymétrique
+T44	Localization 2164 2181	subtotale médiane
+T45	PROC 2187 2212	aspiration du sang séreux
+T46	ANAT 2201 2212	sang séreux
+T47	PROC 2219 2235	bilan infectieux
+T48	MEAS 2240 2247	négatif
+T49	MEAS 2280 2287	simples
+T50	DISO 2303 2324	récidive neurologique
+T51	DISO 2342 2369	symptomatologie infectieuse
+T52	DISO 2380 2400	signes hémorragiques
+T53	PROC 2429 2462	scanner cervico-thoraco-abdominal
+T54	ANAT 2437 2462	cervico-thoraco-abdominal
+T55	PHEN 2487 2540	sillons corticaux cérébraux cervicaux laryngéneçables
+T56	DEVI 2546 2554	prothèse
+T57	PROC 2649 2674	tension artérielle totale
+T58	ANAT 2657 2674	artérielle totale
+T59	MEAS 2689 2700	120/50 mmHg
+T60	PROC 2705 2730	étude anatomopathologique
+T61	MEAS 2744 2747	peu
+T62	PROC 2845 2854	transfert
+T63	Hospital 2859 2880	urgences pédiatriques
+T64	PROC 2886 2914	prise en charge chirurgicale
+T65	LIVB 2938 2946	patiente
+T66	LIVB 2999 3006	enfants
+T67	TEMP 3045 3058	depuis 3 mois
+T68	TEMP 3062 3068	4 mois
+T69	DISO 3184 3206	traumatisme contondant
+T70	LIVB 3248 3251	son
+T71	LIVB 3252 3259	mariage
+T72	LIVB 3315 3317	sa
+T73	LIVB 3318 3323	femme
+T74	CHEM 3502 3532	propanolol acétyle thiazidique
+T75	Hospital 3623 3650	matériel médico-chirurgical
+T76	PROC 3689 3732	séances de rééducation motrice orthopédique
+T77	PROC 3762 3790	kinésithérapie psychomotrice
+T78	PROC 3796 3815	geste thérapeutique

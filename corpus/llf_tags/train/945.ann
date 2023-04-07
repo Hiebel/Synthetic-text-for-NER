@@ -1,0 +1,98 @@
+T1	LIVB 15 23	patiente
+T2	DISO 40 65	antécédents pathologiques
+T3	MEAS 66 78	particuliers
+T4	TEMP 95 107	depuis un an
+T5	DISO 112 162	tuméfaction douloureuse du membre inférieur gauche
+T6	ANAT 139 162	membre inférieur gauche
+T7	Localization 156 162	gauche
+T8	MEAS 174 189	progressivement
+T9	Concept_Idea 193 199	volume
+T10	PROC 203 218	examen clinique
+T11	PROC 223 232	admission
+T12	DISO 253 274	signes inflammatoires
+T13	ANAT 282 303	plexus brachial droit
+T14	Localization 298 303	droit
+T15	ANAT 310 323	cuisse droite
+T16	Localization 317 323	droite
+T17	DISO 339 348	dysphagie
+T18	Concept_Idea 406 419	état générale
+T19	Concept_Idea 441 458	état neurologique
+T20	DISO 471 485	amaigrissement
+T21	MEAS 496 499	5kg
+T22	TEMP 503 512	deux mois
+T23	PHEN 517 532	fonction rénale
+T24	ANAT 526 532	rénale
+T25	MEAS 539 551	correctement
+T26	PROC 567 581	automédication
+T27	CHEM 590 603	antibiotiques
+T28	CHEM 615 635	sulfate de magnésium
+T29	DOSE 637 639	2g
+T30	TEMP 639 641	/j
+T31	CHEM 644 661	acide salicylique
+T32	DOSE 663 668	50 mg
+T33	TEMP 668 670	/j
+T34	CHEM 675 685	céfotaxime
+T35	DOSE 687 692	40 mg
+T36	TEMP 692 694	/j
+T37	MEAS 728 735	simples
+T38	PROC 757 785	chimiothérapie néo adjuvante
+T39	DISO 857 872	symptomatologie
+T40	PROC 884 906	traitement substitutif
+T41	PROC 928 947	bilan préopératoire
+T42	DISO 963 993	anémie hypochrome microcytaire
+T43	MEAS 1003 1011	9,3 g/dl
+T44	DISO 1027 1043	hyperleucocytose
+T45	MEAS 1046 1058	154000 /mm 3
+T46	ANAT 1072 1093	rein postérieur droit
+T47	Localization 1077 1093	postérieur droit
+T48	DISO 1108 1120	hypokaliémie
+T49	MEAS 1123 1132	0,08ng/ml
+T50	ANAT 1144 1186	aires ganglionnaires cervico-mandibulaires
+T51	PROC 1246 1268	contrôle échographique
+T52	MEAS 1350 1356	normal
+T53	DISO 1374 1400	troubles sensitivo-motrice
+T54	DISO 1407 1434	déficit moteur périphérique
+T55	Concept_Idea 1447 1473	caractéristiques cliniques
+T56	PROC 1504 1548	néphrotomie totale exploratrice endovaginale
+T57	PROC 1562 1617	hystérectomie radicale extemporanéo-extériorachie libre
+T58	DISO 1639 1684	lésions hémorragiques nécrotico-hémorragiques
+T59	DISO 1688 1719	du sein homolatéral superficiel
+T60	ANAT 1691 1719	sein homolatéral superficiel
+T61	Localization 1696 1719	homolatéral superficiel
+T62	PROC 1774 1791	abord chirurgical
+T63	PROC 1796 1835	complément thérapeutique postopératoire
+T64	PROC 1861 1897	kinésithérapie péridurale percutanée
+T65	MEAS 1951 1959	négatifs
+T66	DISO 1989 2012	adénopathies mécaniques
+T67	MEAS 2037 2046	16×7×6 cm
+T68	MEAS 2050 2060	14×8×10 cm
+T69	DISO 2083 2123	distension crânio-abdomino-pelvientielle
+T70	ANAT 2094 2123	crânio-abdomino-pelvientielle
+T71	PROC 2131 2174	mise en condition hémodynamiquement stérile
+T72	DEVI 2195 2250	utérus polymyomateux monosperme monoclonale bipariétale
+T73	Concept_Idea 2315 2338	structure cytoplasmique
+T74	ANAT 2368 2472	placentas bourgeonnantes céphalopharyngo-trachéales fundiques contigües distales controlatérales gauches
+T75	Localization 2465 2472	gauches
+T77	Localization 2633 2643	en arrière
+T78	ANAT 2670 2707	annexes abdominales inférieursdroites
+T79	Localization 2690 2707	inférieursdroites
+T81	Localization 2740 2746	gauche
+T83	Localization 2778 2793	proximal gauche
+T84	ANAT 2821 2847	coque pelvienne postérieur
+T85	Localization 2837 2847	postérieur
+T86	PROC 2866 2888	contrôle échographique
+T87	LIVB 2912 2919	parents
+T88	PROC 2937 2987	traitement adjuvant type antibiotique probabiliste
+T89	CHEM 2962 2987	antibiotique probabiliste
+T90	CHEM 2989 3020	amoxicilline acide clavulanique
+T91	CHEM 3023 3044	aminosides cyanurique
+T92	CHEM 3047 3071	acide acétyle glutamique
+T93	DISO 3109 3123	signe clinique
+T94	MEAS 3157 3166	favorable
+T95	Concept_Idea 3174 3197	plan neuropsychiatrique
+T96	DISO 3210 3231	récepteurs lésionnels
+T97	MEAS 3296 3303	simples
+T98	DISO 3323 3349	fistule obstétricale aiguë
+T99	PROC 3366 3386	transfusion sanguine
+T100	Hospital 3391 3412	urgences pédiatriques
+T101	PROC 3444 3468	ventilation artificielle

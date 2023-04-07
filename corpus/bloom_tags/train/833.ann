@@ -1,0 +1,28 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	PHEN 37 47	déambulant
+T4	DISO 63 74	traumatisme
+T5	ANAT 89 98	œil droit
+T6	Localization 93 98	droit
+T7	PROC 103 119	bilan biologique
+T8	DISO 140 156	hyperleucocytose
+T9	MEAS 159 168	13000/mm3
+T10	PROC 190 193	CRP
+T11	MEAS 196 203	180mg/l
+T12	PROC 207 239	sérologie d'immunodépression VIH
+T13	MEAS 246 253	positif
+T14	DEVI 417 433	moyens matériels
+T15	Hospital 450 458	urgences
+T16	PROC 477 502	examen bactério-numérique
+T17	PROC 515 548	chirurgie phaco-laryngocentésique
+T18	PROC 554 579	intubation oeso-trachéale
+T19	ANAT 565 579	oeso-trachéale
+T20	DISO 610 641	infirmités infectieuses virales
+T21	PROC 736 769	radio-chimiothérapie concomitante
+T22	PROC 878 918	triamcinolone intraveineuse substitutive
+T23	DISO 946 976	tuméfaction cervicale tumorale
+T24	TEMP 986 999	depuis 3 mois
+T25	PROC 1015 1057	consolidation radiotherapeutique partielle
+T26	DISO 1086 1125	localisations métastatiques secondaires
+T27	DISO 1188 1218	carcinose épidermoïde kystique
+T28	MEAS 1345 1353	complète

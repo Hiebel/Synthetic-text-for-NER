@@ -1,0 +1,8 @@
+T1	PROC 4 25	radiothérapie externe
+T2	PROC 54 82	chimiothérapie néo adjuvante
+T3	Concept_Idea 132 142	paramètres
+T4	DISO 149 164	symptomatologie
+T5	PHEN 184 212	fonctionnement psychomotrice
+T6	LIVB 225 233	patients
+T7	PROC 246 268	traitement chirurgical
+T8	TEMP 325 332	21 mois

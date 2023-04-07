@@ -1,0 +1,26 @@
+T1	PROC 3 45	radiographie de l'abdomen sans préparation
+T2	ANAT 21 28	abdomen
+T3	DISO 61 86	pneumopéritoine du bassin
+T4	ANAT 80 86	bassin
+T5	MEAS 96 102	légère
+T6	DISO 103 124	distension abdominale
+T7	ANAT 114 124	abdominale
+T8	PROC 129 161	scanner thoraco-abdomino pelvien
+T9	ANAT 137 161	thoraco-abdomino pelvien
+T10	PROC 168 194	fibroscopie oeso-gastrique
+T11	ANAT 180 194	oeso-gastrique
+T12	DISO 227 317	processus tissulaire inflammatoire des parois vaginales intra péritonéales basithoraciques
+T13	ANAT 266 317	parois vaginales intra péritonéales basithoraciques
+T14	ANAT 339 360	sinus caverneux droit
+T15	Localization 355 360	droit
+T16	DISO 375 421	métastase nasopharyngo rachidienne infiltrante
+T18	PROC 447 469	traitement chirurgical
+T19	PROC 489 513	rachianesthésie générale
+T20	Concept_Idea 531 548	moyens financiers
+T21	LIVB 569 576	patient
+T22	PROC 585 609	prise en charge médicale
+T23	MEAS 642 649	simples
+T24	TEMP 656 662	3 mois
+T25	DISO 700 721	détresse respiratoire
+T26	PHEN 709 721	respiratoire
+T27	DISO 728 749	récidive métastatique

@@ -1,0 +1,40 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	9 ans
+T3	DISO 77 97	douleur épigastrique
+T4	ANAT 85 97	épigastrique
+T5	MEAS 118 129	progressive
+T6	DISO 145 156	vomissement
+T7	DISO 158 173	ictère purulent
+T8	TEMP 183 199	depuis 48 heures
+T9	PROC 205 214	admission
+T10	Hospital 219 240	urgences pédiatriques
+T11	PROC 246 264	traitement curatif
+T12	DOSE 285 291	1mg/kg
+T13	TEMP 291 297	/heure
+T14	CHEM 302 315	sulfasalamide
+T15	DOSE 317 324	2 mg/kg
+T16	TEMP 324 326	/j
+T17	MODE 328 334	inhalé
+T18	DISO 379 399	douleur épigastrique
+T19	TEMP 408 422	24h auparavant
+T20	DISO 449 458	symptômes
+T21	DISO 485 505	défense pancréatique
+T22	ANAT 493 505	pancréatique
+T23	DISO 511 533	insuffisance cardiaque
+T24	ANAT 524 533	cardiaque
+T25	DISO 554 589	syndrome d'épanchement péricardique
+T26	ANAT 577 589	péricardique
+T27	DISO 604 646	tumeur ulcéro-nécrose pancréatique maligne
+T28	DISO 677 708	prélèvements bactériospécifique
+T29	LIVB 738 746	patiente
+T30	TEMP 755 759	9ans
+T31	DISO 797 832	hyperthyroïdie hypochrome nodulaire
+T32	PROC 837 846	complétée
+T33	DEVI 857 876	bandelette urinaire
+T34	ANAT 868 876	urinaire
+T35	TEMP 877 890	pendant 6mois
+T36	PROC 903 935	laparotomie médiane exploratrice
+T37	Localization 915 922	médiane
+T38	PROC 949 1011	anastomose iléo-colique iléocolique transfixiante sténolytique
+T40	DISO 1083 1103	prise médicamenteuse
+T41	DISO 1205 1237	complications thromboembellantes

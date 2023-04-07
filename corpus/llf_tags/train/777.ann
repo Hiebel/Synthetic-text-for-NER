@@ -1,0 +1,39 @@
+T1	LIVB 2 8	garçon
+T2	TEMP 16 21	9 ans
+T3	DISO 41 69	accident de la voie publique
+T4	DISO 87 111	fracture du cuir chevelu
+T5	ANAT 99 111	cuir chevelu
+T6	PROC 115 130	examen clinique
+T7	PROC 135 144	admission
+T8	LIVB 157 164	patient
+T9	MEAS 168 175	mauvais
+T10	Concept_Idea 176 188	état général
+T11	DISO 194 207	signes vitaux
+T12	MEAS 208 225	légèrement élevés
+T13	PROC 243 258	examen physique
+T14	DISO 270 283	particularité
+T15	PROC 288 304	bilan biologique
+T16	DISO 323 331	anomalie
+T17	DISO 349 370	syndrome hémorragique
+T18	DISO 377 396	symptôme infectieux
+T19	PROC 402 426	laparotomie exploratrice
+T20	PROC 432 460	anastomose termino-terminale
+T21	Localization 443 460	termino-terminale
+T22	MEAS 475 484	soigneuse
+T23	DISO 516 536	récidive anévrismale
+T24	PHEN 541 562	fonction respiratoire
+T25	ANAT 550 562	respiratoire
+T26	MEAS 575 582	normale
+T27	PROC 596 616	transfusion sanguine
+T28	MODE 621 641	voie intramusculaire
+T29	PROC 686 692	séjour
+T30	Hospital 696 711	bloc opératoire
+T31	PROC 717 741	ventilation artificielle
+T32	CHEM 743 749	inhalé
+T33	CHEM 752 766	hydrocortisone
+T34	MEAS 800 807	simples
+T35	DISO 827 854	traumatisme ischémique aigu
+T36	MEAS 862 868	T3N2Mx
+T37	Concept_Idea 878 902	classification Ann Arbor
+T38	DISO 946 954	conflits
+T39	LIVB 966 973	famille

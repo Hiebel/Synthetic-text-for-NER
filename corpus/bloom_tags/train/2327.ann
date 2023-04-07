@@ -1,0 +1,26 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	Hospital 96 117	urgences pédiatriques
+T6	DISO 150 171	détresse respiratoire
+T7	MEAS 186 197	progressive
+T8	MEAS 207 213	sévère
+T9	DISO 231 245	ictère fébrile
+T10	ANAT 285 298	tronc crânien
+T11	ANAT 330 370	face dorsale cérébrale jugulo-occipitale
+T12	LIVB 391 401	nouveau-né
+T13	MEAS 416 438	rapidement progressive
+T14	MEAS 451 460	favorable
+T15	DISO 486 505	perception visuelle
+T16	DISO 527 536	céphalées
+T17	MEAS 552 567	progressivement
+T18	Concept_Idea 571 577	volume
+T19	PROC 593 629	pronostic radiologique préopératoire
+T20	PROC 643 673	échographie abdomino-pelvienne
+T21	ANAT 655 673	abdomino-pelvienne
+T22	DISO 725 793	masse arrondie hypo échoglymphocytaire hétérogène hyper vascularisée
+T23	ANAT 835 877	vaisseaux mésenchymateuses para vertébraux
+T24	ANAT 905 937	paroi musculaire latéro-vésicale
+T25	MEAS 968 972	2 cm
+T26	MEAS 975 979	4 cm

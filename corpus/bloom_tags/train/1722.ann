@@ -1,0 +1,73 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 19 25	17 ans
+T3	PROC 30 42	hospitalisée
+T4	DISO 78 109	polyarthrite rhumatoïde fébrile
+T5	MEAS 124 135	progressive
+T6	TEMP 145 159	depuis 3 jours
+T7	LIVB 166 168	sa
+T8	PROC 169 198	chirurgie anti-arthrombolique
+T9	PROC 219 249	prise médicamenteuse adjuvante
+T10	DOSE 260 267	1 mg/kg
+T11	CHEM 270 287	éthylprédnisolone
+T12	DOSE 290 297	50mg/kg
+T13	DISO 371 404	syndrome d’épanchement péritonéal
+T14	ANAT 394 404	péritonéal
+T15	DISO 415 437	défaut d’hémoperitoine
+T16	MEAS 447 458	15000 UI/ml
+T17	MODE 488 500	bolus unique
+T18	TEMP 524 530	13 ans
+T19	MEAS 563 574	20000 UI/ml
+T20	Concept_Idea 627 633	taille
+T21	DEVI 640 666	bandelette d'hémoperitoine
+T22	PROC 690 755	symptomatologie érythémateuse purulente craniosténorachianalgique
+T23	PROC 823 837	interrogatoire
+T24	LIVB 852 856	elle
+T25	TEMP 870 882	le même jour
+T26	DISO 890 906	dyspnée d'effort
+T27	MEAS 918 933	progressivement
+T28	Concept_Idea 937 943	volume
+T29	MEAS 953 967	plus accentuée
+T30	DISO 1011 1017	sueurs
+T31	MEAS 1018 1026	profuses
+T32	PROC 1031 1066	radiographie des membres inférieurs
+T34	DISO 1088 1190	épaississement du greffon épiphéo-métacarpienne palmaire métacarpo-phalangienne phalangiennes fléchies
+T36	DISO 1211 1238	opacité nodulaire hypodense
+T37	PROC 1289 1314	examen clinique somatique
+T38	DISO 1326 1339	particularité
+T39	DISO 1357 1378	atteinte neurologique
+T40	DISO 1403 1434	déficit moteur sensitivomotrice
+T41	Localization 1436 1445	bilatéral
+T42	DISO 1460 1483	anomalies radiologiques
+T43	LIVB 1509 1512	Son
+T44	PROC 1513 1548	ponction liquide céphalo-rachidiens
+T45	ANAT 1522 1548	liquide céphalo-rachidiens
+T46	PHEN 1559 1570	fonctionnel
+T47	DISO 1645 1673	purpura hémorragique maligne
+T48	DISO 1699 1707	kystique
+T49	DISO 1711 1724	inflammatoire
+T50	PROC 1727 1745	ionogramme sanguin
+T51	ANAT 1738 1745	sanguin
+T52	PROC 1816 1828	ferritinémie
+T53	MEAS 1831 1840	0,43 g/dl
+T54	PROC 1842 1863	ferritinémie corrigée
+T55	MEAS 1865 1874	2,12 g/dl
+T56	PROC 1876 1904	ferritinémie orthokaliémique
+T57	PROC 1917 1952	ferritinémie cytochrome-cytolytique
+T58	PROC 1955 1984	ferritinémie cytolo-kinétique
+T59	PROC 1996 2020	ferritinémie biochimique
+T60	PROC 2037 2053	natrémie ionique
+T61	MEAS 2071 2080	133 meq/l
+T62	PROC 2087 2097	correction
+T63	Hospital 2102 2118	bloc opératoires
+T64	DISO 2139 2159	séquelles néonatales
+T65	LIVB 2195 2204	patientes
+T66	PROC 2210 2234	traitement antibacillien
+T67	CHEM 2268 2278	isoniazide
+T68	CHEM 2279 2290	rifosfamide
+T69	CHEM 2311 2327	anti bacillaires
+T70	CHEM 2339 2351	Pyrazinamide
+T71	CHEM 2353 2364	Ceftriaxone
+T72	CHEM 2366 2377	Ethionamide
+T73	CHEM 2379 2390	Cyclosérine
+T74	CHEM 2392 2403	Vincristine
+T75	CHEM 2405 2419	Chlorpromazine

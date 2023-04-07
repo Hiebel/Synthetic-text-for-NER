@@ -1,0 +1,35 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	6 ans
+T3	PHEN 43 52	grossesse
+T4	PROC 71 77	suivie
+T5	MEAS 91 105	12 000 grammes
+T6	Concept_Idea 108 114	aspect
+T7	MEAS 115 121	normal
+T8	Concept_Idea 166 181	acuité visuelle
+T9	TEMP 190 210	il y a deux semaines
+T10	DISO 243 272	douleur basithoracique droite
+T11	ANAT 251 272	basithoracique droite
+T12	Localization 266 272	droite
+T13	DISO 288 294	fièvre
+T14	MEAS 306 311	39° C
+T15	DISO 313 321	polypnée
+T16	MEAS 324 337	45 cycles/min
+T17	DEVI 372 388	sonde thoracique
+T18	ANAT 378 388	thoracique
+T19	PROC 402 436	transfusion sanguine intraveineuse
+T20	DOSE 439 447	un litre
+T21	CHEM 451 473	protéine sémaglobuline
+T22	DISO 512 527	symptomatologie
+T23	MEAS 537 565	progressivement plus intense
+T24	PROC 570 591	électroneuromyogramme
+T25	LIVB 608 618	nouveau-né
+T26	Hospital 689 697	urgences
+T27	PROC 703 729	chirurgie trans-bronchique
+T28	ANAT 774 791	pleural liquidien
+T29	MEAS 808 828	supérieur à 3 litres
+T30	MEAS 834 846	4 fois moins
+T31	ANAT 875 900	pulmonaire basithoracique
+T32	MEAS 949 964	200 millilitres
+T33	MEAS 970 974	16cm
+T34	DISO 994 1038	syndrome néphrotique congénital hypertensive
+T35	DISO 1058 1099	complications thromboemboliques veineuses

@@ -1,0 +1,19 @@
+T1	LIVB 19 26	patient
+T2	PROC 38 43	suivi
+T3	TEMP 47 51	2012
+T4	DISO 60 83	carcinome du col utérin
+T5	ANAT 73 83	col utérin
+T6	DISO 104 129	vomissements alimentaires
+T7	TEMP 139 157	depuis quatre mois
+T8	PROC 161 176	examen clinique
+T9	Concept_Idea 194 212	tension artérielle
+T10	ANAT 202 212	artérielle
+T11	MEAS 215 228	130 / 80 mmhg
+T12	DISO 241 257	signes cliniques
+T13	PROC 271 290	bilan préopératoire
+T14	PROC 308 338	échographie abdomino-pelvienne
+T15	ANAT 320 338	abdomino-pelvienne
+T16	PROC 345 377	scanner thoraco-abdomino-pelvien
+T17	ANAT 353 377	thoraco-abdomino-pelvien
+T18	PROC 392 421	sérologies d'immunodépression
+T19	MEAS 443 451	négatifs

@@ -1,0 +1,11 @@
+T1	PROC 3 21	antibioprophylaxie
+T2	CHEM 31 43	amoxicilline
+T3	CHEM 45 57	pyrazinamide
+T4	DOSE 59 61	3g
+T5	TEMP 61 63	/j
+T6	CHEM 71 101	pénicilline acide clavulanique
+T7	DOSE 103 106	5mg
+T8	TEMP 106 108	/j
+T9	DISO 159 188	symptômes neuropsychiatriques
+T10	LIVB 197 204	patient
+T11	TEMP 234 241	18 mois

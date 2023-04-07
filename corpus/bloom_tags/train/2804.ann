@@ -1,0 +1,20 @@
+T1	LIVB 15 22	patient
+T3	MEAS 63 70	notable
+T4	PROC 72 77	admis
+T5	Hospital 82 90	urgences
+T6	DISO 99 137	syndrome d'épanchement intrapéritonéal
+T7	ANAT 122 137	intrapéritonéal
+T8	Concept_Idea 140 149	intensité
+T9	MEAS 150 157	modérée
+T10	PROC 161 176	examen clinique
+T11	DISO 192 213	détresse respiratoire
+T12	PHEN 201 213	respiratoire
+T13	DISO 229 241	déglutitions
+T14	Concept_Idea 298 311	état générale
+T15	PROC 316 332	bilan biologique
+T16	PROC 350 353	CRP
+T17	PROC 376 391	globules blancs
+T18	PROC 398 417	fibrinolyse sérique
+T19	MEAS 426 432	élevés
+T20	PROC 456 475	bilan immunologique
+T21	MEAS 482 489	positif

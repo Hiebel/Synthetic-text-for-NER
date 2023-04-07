@@ -1,0 +1,23 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 66	antécédent pathologique
+T3	MEAS 67 74	notable
+T4	PROC 76 87	hospitalisé
+T5	Hospital 91 98	urgence
+T6	DISO 117 142	insuffisance rénale aigue
+T7	ANAT 130 136	rénale
+T8	PROC 147 166	bilan préopératoire
+T9	PROC 184 192	natrémie
+T10	MEAS 195 204	133 meq/l
+T11	PROC 212 220	kaliémie
+T12	MEAS 223 232	0,3 meq/l
+T13	PROC 237 273	ponction surrénalienne antébrucellée
+T14	ANAT 246 273	surrénalienne antébrucellée
+T15	PROC 275 278	PSA
+T16	Localization 280 290	bilatérale
+T17	ANAT 332 359	parenchyme thyroïdien droit
+T18	Localization 354 359	droit
+T19	Concept_Idea 400 408	contours
+T20	MEAS 409 418	réguliers
+T21	DISO 452 484	pemphysème érythémateux purulent
+T22	DISO 489 522	prurigine hypoglycérohydrogènique
+T23	CHEM 535 551	acide valproïque

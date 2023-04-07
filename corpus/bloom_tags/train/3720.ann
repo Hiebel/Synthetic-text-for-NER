@@ -1,0 +1,60 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	9 ans
+T3	Hospital 35 60	urgences ophtalmologiques
+T4	MEAS 107 111	1/10
+T5	CHEM 144 155	paracétamol
+T6	CHEM 156 169	métronidazole
+T7	CHEM 182 219	induction anesthésiante fœto-protéine
+T8	CHEM 220 228	propofol
+T9	PROC 235 257	TDM abdomino-pelvienne
+T10	ANAT 239 257	abdomino-pelvienne
+T11	DISO 274 376	épanchement intrarachidiencéphalo-myélin laryngéo-cervico médiastinal latéro-dorsiflexionnel hypodense
+T13	ANAT 392 419	surrénalien inférieur droit
+T14	Localization 414 419	droit
+T15	MEAS 429 433	12cm
+T16	Concept_Idea 437 446	grand axe
+T17	ANAT 465 482	vésicule biliaire
+T18	LIVB 516 524	patiente
+T19	DISO 551 563	lithiasiques
+T20	DISO 565 618	adénopathies médiastinales cervicales basithoraciques
+T21	ANAT 578 618	médiastinales cervicales basithoraciques
+T22	DISO 623 662	carcinose basithoracique érythromateuse
+T23	ANAT 633 662	basithoracique érythromateuse
+T24	PROC 665 698	imagerie par résonance magnétique
+T25	PROC 700 703	IRM
+T26	PROC 720 743	injection intraveineuse
+T27	DOSE 747 754	10mg/kg
+T28	CHEM 758 771	métronidazole
+T29	DISO 811 839	hypersignal T2 hyper intense
+T30	ANAT 860 891	sinus ptérygo-thyroïdien gauche
+T31	Localization 885 891	gauche
+T32	DISO 976 1007	tuberculose méningo-infiltrante
+T33	DISO 1073 1098	anévrisme thyrocarotidien
+T34	ANAT 1083 1098	thyrocarotidien
+T35	DISO 1116 1148	sus décalage T2/FLAIR systolique
+T36	DISO 1279 1319	insuffisance rénovellulaire hypo-intense
+T37	ANAT 1292 1319	rénovellulaire hypo-intense
+T38	DISO 1346 1359	consanguinité
+T39	DISO 1366 1396	thrombophilie thromboembolique
+T40	MEAS 1644 1649	32 SA
+T41	MEAS 1706 1712	1500 g
+T42	MEAS 1716 1722	1350 g
+T43	PROC 1727 1737	identifiés
+T44	PROC 1755 1773	ponction pelvienne
+T45	ANAT 1764 1773	pelvienne
+T46	MEAS 1784 1788	2 cm
+T47	MEAS 1822 1834	négligeables
+T48	DEVI 1884 1898	microscopiques
+T49	PROC 1925 1949	scanner abdomino-pelvien
+T50	ANAT 1933 1949	abdomino-pelvien
+T51	DISO 2003 2021	hémorragie utérine
+T52	ANAT 2014 2021	utérine
+T53	PROC 2133 2166	imagerie par résonance magnétique
+T54	PROC 2168 2171	IRM
+T55	DISO 2184 2197	particularité
+T56	LIVB 2202 2210	patiente
+T57	PROC 2229 2253	chimiothérapie adjuvante
+T58	CHEM 2283 2293	paclitaxel
+T59	CHEM 2295 2308	dexaméthasone
+T60	CHEM 2310 2322	carboplatine
+T61	CHEM 2327 2337	cisplatine

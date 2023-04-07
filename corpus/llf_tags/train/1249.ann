@@ -1,0 +1,35 @@
+T1	LIVB 28 35	patient
+T2	DISO 69 89	hypertriglycéridémie
+T3	MEAS 92 102	7,1 mmol/l
+T4	PROC 106 121	examen clinique
+T5	LIVB 132 139	patient
+T6	MEAS 143 150	mauvais
+T7	Concept_Idea 151 163	état général
+T8	ANAT 165 175	tachycarde
+T9	MEAS 178 192	110 battements
+T10	TEMP 193 203	par minute
+T11	DISO 215 231	pâles crépitants
+T12	ANAT 245 268	bassin postérieur droit
+T13	Localization 263 268	droit
+T14	PHEN 275 297	fréquence respiratoire
+T15	MEAS 300 309	25 cycles
+T16	TEMP 310 320	par minute
+T17	DISO 326 340	déficit moteur
+T18	DISO 344 363	syndrome restrictif
+T19	PROC 379 395	examen somatique
+T20	DISO 405 418	particularité
+T21	DISO 436 463	symptomatologie infectieuse
+T22	PROC 468 489	recherche étiologique
+T23	MEAS 500 508	négative
+T24	Hospital 518 538	services spécialisés
+T25	DISO 564 583	maladie auto-immune
+T26	DISO 588 599	carcinogène
+T27	DISO 622 647	diabetic ketoacidocystose
+T28	PROC 662 690	antibiothérapie probabiliste
+T29	PROC 727 754	thyroïdectomie exploratrice
+T30	DISO 826 845	retard psychomoteur
+T31	CHEM 854 866	amoxicilline
+T32	DOSE 867 870	2 g
+T33	TEMP 870 891	toutes les 8 semaines
+T34	MEAS 929 936	simples
+T35	PROC 945 975	prise médicamenteuse adjuvante

@@ -1,0 +1,30 @@
+T1	LIVB 9 17	Patiente
+T2	PHEN 75 84	grossesse
+T3	PROC 103 109	suivie
+T4	Hospital 114 122	urgences
+T5	Concept_Idea 158 176	état hémodynamique
+T6	Concept_Idea 197 205	physique
+T7	Concept_Idea 209 221	chirurgicaux
+T8	DISO 260 288	défense thoracique purulente
+T9	ANAT 268 288	thoracique purulente
+T10	TEMP 298 311	depuis 2 mois
+T11	MEAS 323 338	progressivement
+T12	Concept_Idea 342 348	volume
+T13	MEAS 358 371	insupportable
+T14	MEAS 386 392	rapide
+T15	ANAT 410 443	champ pulmonaire supérieur gauche
+T16	Localization 437 443	gauche
+T17	DISO 459 465	fièvre
+T18	MEAS 477 482	38° C
+T19	DISO 513 522	diarrhées
+T20	DISO 529 558	sensibilité pleuro-pulmonaire
+T21	ANAT 541 558	pleuro-pulmonaire
+T22	PROC 575 594	pression artérielle
+T23	ANAT 584 594	artérielle
+T24	MEAS 605 616	70 cm H 2 O
+T25	DISO 644 666	symptômes fonctionnels
+T26	MEAS 744 760	de façon brutale
+T27	Concept_Idea 764 770	volume
+T28	DISO 813 832	symptômes cliniques
+T29	MEAS 856 865	favorable
+T30	DISO 998 1031	syndrome inflammatoire biologique

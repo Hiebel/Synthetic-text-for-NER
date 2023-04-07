@@ -1,0 +1,46 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	Concept_Idea 37 68	antécédents médico-chirurgicaux
+T4	MEAS 69 77	notables
+T5	PROC 79 84	admis
+T6	Hospital 89 110	urgences pédiatriques
+T7	DISO 119 170	syndrome d'épanchement péricardique supérieur droit
+T8	ANAT 142 170	péricardique supérieur droit
+T9	Localization 165 170	droit
+T10	DISO 185 205	détresse respiration
+T11	PHEN 194 205	respiration
+T12	Concept_Idea 250 262	état général
+T13	DISO 268 282	amaigrissement
+T14	PROC 298 313	examen clinique
+T15	ANAT 338 370	sinus médiastin thoracique droit
+T16	Localization 365 370	droit
+T17	DISO 375 414	masse tissulaire hypo-intense hypodense
+T18	MEAS 423 427	3 cm
+T19	Concept_Idea 431 440	grand axe
+T20	PROC 471 480	injection
+T21	CHEM 484 504	produit de contraste
+T22	DISO 525 568	hypotension artérielle infarcto-myocardique
+T23	ANAT 537 568	artérielle infarcto-myocardique
+T24	MEAS 576 597	supérieure à 50 mm Hg
+T25	DISO 613 667	sténose médiastino-diaphragmatique homolatérale droite
+T26	ANAT 621 667	médiastino-diaphragmatique homolatérale droite
+T27	Localization 648 667	homolatérale droite
+T28	DISO 681 715	insuffisance pulmonaire bilatérale
+T29	ANAT 694 715	pulmonaire bilatérale
+T30	Localization 705 715	bilatérale
+T31	DISO 754 796	souffle thoracique basithoracique résidual
+T32	ANAT 762 796	thoracique basithoracique résidual
+T33	DISO 809 846	localisations pathologiques associées
+T34	PROC 850 886	tomodensitométrie abdomino-pelvienne
+T35	ANAT 868 886	abdomino-pelvienne
+T36	DISO 904 1000	lésion tumorale ostéo-gliomateuse arrondie lithiasique hétérogénéolymphangiomateuse vascularisée
+T37	MEAS 1010 1014	45mm
+T38	MEAS 1019 1023	40mm
+T39	DEVI 1047 1073	cathéter jugulo-carotidien
+T40	ANAT 1056 1073	jugulo-carotidien
+T41	ANAT 1095 1112	parois ovariennes
+T42	ANAT 1148 1165	épiploon grêlique
+T43	ANAT 1186 1221	veine cave rénale supérieure droite
+T44	Localization 1215 1221	droite
+T45	DISO 1238 1253	lyse graisseuse
+T46	DISO 1323 1381	métastase ganglionnaire péritoine-pariétale carcinomateuse

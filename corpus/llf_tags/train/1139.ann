@@ -1,0 +1,40 @@
+T1	LIVB 14 23	Mme M.J.Z
+T2	MEAS 48 50	26
+T3	LIVB 51 58	garçons
+T4	DISO 110 134	consanguinité gémellaire
+T5	PROC 139 145	suivie
+T6	DISO 222 267	néoplasie cervicale maligne métastasentérique
+T7	LIVB 324 327	son
+T8	LIVB 328 332	fils
+T9	TEMP 346 352	3 mois
+T10	Concept_Idea 371 394	caractère psychomotrice
+T11	ANAT 454 476	membre supérieur droit
+T12	Localization 471 476	droit
+T13	CHEM 529 538	stéroïdes
+T14	DISO 554 565	traumatisme
+T15	DEVI 600 622	tableau ostéo-manucure
+T16	PHEN 684 701	cordon hygiénique
+T17	PROC 717 725	contrôle
+T18	PROC 729 744	examen clinique
+T19	LIVB 756 761	fille
+T20	MEAS 765 772	mauvais
+T21	Concept_Idea 773 785	état général
+T22	DISO 792 809	signes infectieux
+T23	MEAS 829 833	7 cm
+T24	MEAS 841 850	5 Kgramme
+T25	MEAS 856 866	70 grammes
+T26	MEAS 872 875	40%
+T27	MEAS 909 927	20 centimètre cube
+T28	MEAS 931 952	50 centimètres carrés
+T29	MEAS 1072 1082	46 x 30 mm
+T30	ANAT 1144 1167	fléchisseurs plantaires
+T31	PROC 1250 1276	tomodensitométrie sanguine
+T32	ANAT 1392 1419	bifurcation postéro-externe
+T33	ANAT 1499 1522	symphysies articulaires
+T34	ANAT 1539 1560	structures axillaires
+T35	ANAT 1606 1622	paroi corporéale
+T36	ANAT 1641 1688	membrane épithélioide superficielle postérieure
+T37	ANAT 1925 1996	branche mésentérique sus claviculaire inférieure homolatérale proximale
+T38	Localization 1974 1996	homolatérale proximale
+T39	Concept_Idea 2070 2090	aspect morphologique
+T40	PROC 2095 2116	recherche étiologique

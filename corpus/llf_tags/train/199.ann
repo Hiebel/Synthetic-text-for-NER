@@ -1,0 +1,74 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 17 23	10 ans
+T3	DISO 30 53	antécédent pathologique
+T4	MEAS 54 65	particulier
+T5	PROC 72 77	admis
+T6	Hospital 81 114	service des urgences pédiatriques
+T7	Hospital 118 168	centre hospitalier universitaire Yalgado Ouédraogo
+T8	PROC 174 183	admission
+T9	LIVB 188 198	nouveau-né
+T10	DISO 214 221	dyspnée
+T11	MEAS 236 247	progressive
+T12	DISO 262 276	amaigrissement
+T13	MEAS 287 291	2 kg
+T14	TEMP 295 306	une semaine
+T15	Concept_Idea 310 328	état hémodynamique
+T16	PHEN 346 361	fonction rénale
+T17	ANAT 355 361	rénale
+T19	PROC 396 407	hémodialyse
+T20	PROC 423 438	examen physique
+T21	DISO 450 463	particularité
+T22	DISO 481 507	signes neuropsychiatriques
+T23	DISO 518 541	troubles électroracique
+T24	DISO 551 564	symptomatique
+T25	PROC 583 610	numération formule sanguine
+T26	PROC 612 625	créatininémie
+T27	PROC 627 653	bicarbonate déshydrogénase
+T28	PROC 655 674	bilirubine conjugue
+T29	PROC 676 709	phosphaturie glutamyl transferase
+T30	MEAS 717 724	normale
+T31	PROC 730 770	imagerie par résonance magnétique fœtale
+T32	PROC 772 775	IRM
+T33	PROC 791 810	anesthésie générale
+T34	DEVI 828 842	sondes courtes
+T35	DISO 861 884	déficit sensitivomoteur
+T36	PROC 897 922	scanner thoraco-abdominal
+T37	ANAT 905 922	thoraco-abdominal
+T38	PROC 943 971	prise en charge chirurgicale
+T39	ANAT 987 1036	aires ganglionnaires thoraciques intracaverneuses
+T40	MEAS 1054 1069	bien délimitées
+T41	ANAT 1118 1133	troncs iliaques
+T42	MEAS 1139 1149	régulières
+T43	Concept_Idea 1161 1181	aspect morphologique
+T44	Concept_Idea 1254 1273	aspect histologique
+T45	Concept_Idea 1340 1365	réponse dans tous les cas
+T46	DISO 1444 1470	syndrome interstitiel aigu
+T47	DISO 1476 1500	céphalococcus epidemidis
+T48	LIVB 1512 1520	patiente
+T49	DISO 1610 1657	malformation congénitale évolutive malformative
+T50	Concept_Idea 1680 1704	complément thérapeutique
+T51	Concept_Idea 1721 1747	attitudes socio-politiques
+T52	Concept_Idea 1864 1880	aspect somatique
+T53	DISO 2176 2197	anomalies vasculaires
+T54	PROC 2296 2307	hospitalisé
+T55	PROC 2330 2359	chimiothérapie antibacillaire
+T56	PROC 2428 2461	oxygénothérapie substitutionnelle
+T57	PROC 2491 2518	kinésithérapie antibiotique
+T58	CHEM 2506 2518	antibiotique
+T59	DISO 2598 2618	récidive traumatique
+T60	PROC 2779 2814	intervention chirurgical programmée
+T61	PROC 2826 2853	mesures hygiéno-diététiques
+T62	DISO 2926 2965	manifestations obstétricales chroniques
+T63	Concept_Idea 3196 3217	limites endoscopiques
+T64	LIVB 3344 3373	membres du personnel soignant
+T65	LIVB 3597 3615	sujets subalternes
+T66	PROC 3666 3692	pénétration extraconjugale
+T67	PROC 3702 3724	consultation prénatale
+T68	DEVI 3779 3803	laparotomie exploratrice
+T69	LIVB 3934 3944	cuisiniers
+T70	PROC 4018 4027	exorcisme
+T71	TEMP 4053 4059	2 mois
+T72	LIVB 4156 4177	frère aîné consanguin
+T73	MEAS 4239 4244	trois
+T74	ANAT 4245 4265	mariages consanguins
+T75	PHEN 4315 4325	grossesses

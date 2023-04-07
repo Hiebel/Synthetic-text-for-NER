@@ -1,0 +1,45 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	12 ans
+T3	DISO 51 74	symptômes neurologiques
+T4	DISO 90 111	troubles oculomoteurs
+T5	PROC 118 129	hospitalisé
+T6	LIVB 135 140	notre
+T7	Hospital 141 148	hôpital
+T8	DISO 184 203	hypoacuité visuelle
+T9	DISO 221 256	uvéite glaucomatocellulome pigmenté
+T10	TEMP 284 289	9 ans
+T11	PROC 309 345	radiothérapie adjuvante chirurgicale
+T12	TEMP 542 548	14 ans
+T13	LIVB 555 557	sa
+T14	PROC 558 578	prise médicamenteuse
+T15	PROC 585 614	explorations ophtalmologiques
+T16	DISO 630 658	surdité profonde congénitale
+T17	DISO 697 723	rétinobuccinose apyrétique
+T18	DISO 737 770	atrophie monoclonale prurigineuse
+T19	Concept_Idea 798 826	tableau clinico-radiologique
+T20	DISO 895 917	pathologie néoplasique
+T21	DISO 962 971	anomalies
+T22	LIVB 1005 1021	patients adultes
+T23	MEAS 1046 1055	favorable
+T24	DISO 1160 1184	immunodépression maligne
+T25	DISO 1191 1209	épilepsie primaire
+T26	PROC 1728 1749	échographie pelvienne
+T27	ANAT 1740 1749	pelvienne
+T28	DISO 1763 1801	masse rétro péritonéale anévrismateuse
+T29	MEAS 1820 1832	17x13 x 10cm
+T30	Localization 1883 1888	supra
+T31	PROC 1950 1972	bilan phospho-calcique
+T32	PROC 1974 1977	PTH
+T33	MEAS 1985 1992	négatif
+T34	PROC 1997 2023	ponction liquide gastrique
+T35	ANAT 2006 2023	liquide gastrique
+T36	CHEM 2036 2046	calcitriol
+T37	ANAT 2061 2086	parois vaginales utérines
+T38	PHEN 2095 2115	flux intrapéritonéal
+T39	ANAT 2100 2115	intrapéritonéal
+T40	MEAS 2125 2133	50ml/min
+T41	PROC 2153 2173	traitement palliatif
+T42	PROC 2179 2199	biopsie chirurgicale
+T43	PROC 2226 2251	étude immunohistochimique
+T44	DISO 2267 2303	mélanome épithélio-gigantocellulaire
+T45	DISO 2332 2353	endométriose kystique

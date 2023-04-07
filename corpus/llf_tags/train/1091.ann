@@ -1,0 +1,97 @@
+T1	PROC 4 28	échographie obstétricale
+T2	Concept_Idea 47 57	indication
+T3	PROC 64 102	laparotomie exploratrice préopératoire
+T4	LIVB 121 129	patiente
+T5	CHEM 144 156	antibiotique
+T6	PHEN 176 188	accouchement
+T7	MEAS 236 241	trois
+T8	LIVB 242 249	garçons
+T9	TEMP 253 259	7 mois
+T10	DISO 275 294	syndrome infectieux
+T11	DISO 304 310	fièvre
+T12	TEMP 333 347	depuis 3 jours
+T13	DISO 360 366	signes
+T14	DISO 384 396	vomissements
+T15	DISO 403 414	traumatisme
+T16	DISO 424 431	malaise
+T17	ANAT 436 440	bébé
+T18	MEAS 448 459	1750grammes
+T20	ANAT 478 500	membre supérieur droit
+T21	Localization 495 500	droit
+T22	MEAS 511 522	405 grammes
+T23	ANAT 526 547	pédicule rénal gauche
+T24	Localization 541 547	gauche
+T25	MEAS 569 580	204 grammes
+T26	ANAT 600 643	veines sus-claviculaires cervicales gauches
+T27	Localization 636 643	gauches
+T28	ANAT 652 668	rénale inferieur
+T29	Localization 659 668	inferieur
+T30	ANAT 679 703	hilaire médio ombilicale
+T31	Localization 687 692	médio
+T32	DISO 776 806	épanchement péritonéal nécrosé
+T33	DISO 835 929	dilatation des anses grêliques cérébro-nerveuses intracervicales temporales jugulocarotidienne
+T34	ANAT 850 929	anses grêliques cérébro-nerveuses intracervicales temporales jugulocarotidienne
+T35	MEAS 953 958	90 mm
+T36	MEAS 962 968	120 mm
+T37	MEAS 1005 1012	simples
+T38	Concept_Idea 1021 1041	chiffres tensionnels
+T39	MEAS 1063 1066	80%
+T40	MEAS 1070 1073	60%
+T41	PROC 1111 1136	consultation chirurgicale
+T42	LIVB 1156 1158	la
+T43	LIVB 1159 1167	patiente
+T44	DISO 1201 1259	diplopie congénitale hétérozygote interstitielle familiale
+T45	DISO 1276 1323	accident vasculaire thoraco- abdomino-abdominal
+T46	ANAT 1296 1323	thoraco- abdomino-abdominal
+T47	DISO 1341 1384	maladie thromboembolique veineuse chronique
+T48	DISO 1390 1414	embolie ischémique aiguë
+T49	PROC 1436 1445	transfert
+T50	Hospital 1450 1471	urgences pédiatriques
+T51	DISO 1491 1541	distension ventriculaire fémoro-trachéale fundique
+T52	ANAT 1502 1541	ventriculaire fémoro-trachéale fundique
+T53	DISO 1557 1615	insuffisance nasopharyngo-duodénale fœtale viscérale aigüe
+T55	LIVB 1639 1641	sa
+T56	LIVB 1642 1646	sœur
+T57	TEMP 1655 1660	9 ans
+T58	PROC 1677 1689	hospitalisée
+T59	PROC 1757 1793	néphrectomie partielle scanno-guidée
+T60	PROC 1807 1908	anastomose antéro-latéro-utérine transoesophagienne postéro-supérieure antérieure médiane segmentaire
+T62	Localization 1878 1908	antérieure médiane segmentaire
+T63	PROC 1923 1960	hémodialysectomie percutanée monobloc
+T64	PROC 1979 2024	angioplastie axillaire biplan cutané échogène
+T65	ANAT 2043 2182	muscle grand pectoral proximal controlatéral antero-mandibulaire inférieur controlatéral médial postérieure longitudinale supérieure droite
+T67	Localization 2118 2182	controlatéral médial postérieure longitudinale supérieure droite
+T68	MEAS 2218 2222	6 cm
+T69	PROC 2227 2250	scanner crânio-kystique
+T70	ANAT 2235 2250	crânio-kystique
+T71	PROC 2271 2277	examen
+T74	MEAS 2581 2590	30 x 35mm
+T75	MEAS 2594 2601	36x35mm
+T76	CHEM 2796 2817	staphylococcus aureus
+T77	Concept_Idea 2826 2834	longueur
+T78	MEAS 2849 2863	60 millimètres
+T79	Concept_Idea 2879 2898	fraction d'éjection
+T80	MEAS 2913 2927	55 millimètres
+T81	PROC 2931 2956	étude immunohistochimique
+T82	DISO 3010 3172	carcinome indifférencié polypoïde infiltrant neutrophile hétérogène ischémique des parties molles cervico-thoraco-abdominales jugulo-carotidiennes interne gauches
+T83	ANAT 3093 3172	parties molles cervico-thoraco-abdominales jugulo-carotidiennes interne gauches
+T84	Localization 3165 3172	gauches
+T85	PROC 3222 3246	échographie obstétricale
+T86	DISO 3262 3316	curage péritonéal métatarsien achilléen IgM/NK1(HLA2))
+T88	MEAS 3318 3326	Figure 3
+T89	Concept_Idea 3339 3367	tableau clinico-radiologique
+T90	LIVB 3429 3437	patiente
+T91	DISO 3455 3476	récidive neurologique
+T92	DISO 3483 3500	métastase morbide
+T93	PROC 3529 3553	laparotomie exploratrice
+T94	DISO 3619 3637	symptômes tumoraux
+T95	Concept_Idea 3694 3700	survie
+T96	Concept_Idea 3715 3743	résultat anatomopathologique
+T97	PROC 3748 3767	suivi préopératoire
+T98	PROC 3796 3824	prise en charge chirurgicale
+T99	DISO 3838 3880	maladie thromboembolique veineuse profonde
+T100	PHEN 3898 3918	grossesse gémellaire
+T101	PROC 3923 3929	suivie
+T102	PROC 3935 3963	antibiothérapie probabiliste
+T103	CHEM 3969 4000	amoxicilline acide clavulanique
+T104	CHEM 4042 4065	céphalosporine acétique

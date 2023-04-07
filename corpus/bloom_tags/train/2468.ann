@@ -1,0 +1,20 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 85 100	examen clinique
+T5	DISO 112 123	tuméfaction
+T6	ANAT 137 148	flanc droit
+T7	Localization 143 148	droit
+T8	MEAS 160 175	progressivement
+T9	Concept_Idea 179 185	volume
+T10	TEMP 194 210	depuis deux mois
+T11	PROC 215 223	biologie
+T12	DISO 246 279	syndrome inflammatoire biologique
+T13	PROC 285 312	numération formule sanguine
+T14	PROC 314 317	NFS
+T15	PROC 328 343	globules blancs
+T16	MEAS 346 366	12 000 éléments/mm 3
+T17	PROC 368 378	plaquettes
+T18	MEAS 381 399	46000 élément/mm 3
+T19	PROC 406 432	taux d'hémoglobine glyquée
+T20	MEAS 435 438	10%

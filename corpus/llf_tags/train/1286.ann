@@ -1,0 +1,84 @@
+T1	PHEN 4 22	suites opératoires
+T2	MEAS 31 38	simples
+T3	PROC 45 61	bilan biologique
+T4	DISO 83 99	hyperleucocytose
+T5	MEAS 102 114	16000 GB/mm3
+T6	PROC 118 143	étude immunohistochimique
+T7	PROC 145 148	IHC
+T8	Concept_Idea 162 182	aspect morphologique
+T9	DISO 198 269	carcinome épidermoïde du grêle de la région temporale supérieure gauche
+T10	ANAT 223 228	grêle
+T11	ANAT 235 269	région temporale supérieure gauche
+T12	Localization 263 269	gauche
+T13	ANAT 283 316	angle sous cutané supérieur droit
+T14	Localization 311 316	droit
+T15	DISO 331 502	tumeur érythémato-papillaire hypodense des troncs supéro-extenseurs rénaux métatarsiens cervicaux médio-mandibulaires inférieure bilatéral mandibulaire homolatérale droite
+T17	Localization 460 469	bilatéral
+T18	Localization 483 502	homolatérale droite
+T19	ANAT 526 582	aires ganglionnaires tibiales jugulo maxillaires gauches
+T20	Localization 575 582	gauches
+T21	Localization 586 613	symétaphoriquement distales
+T22	PROC 618 668	chimiothérapie palliative type tamoxifenesemolemy®
+T23	CHEM 649 668	tamoxifenesemolemy®
+T24	MODE 673 691	voie intraveineuse
+T25	PROC 705 737	antibioprophylaxie préopératoire
+T26	Concept_Idea 750 775	constantes hémodynamiques
+T27	DEVI 784 796	microcristal
+T28	TEMP 823 846	24e jour postopératoire
+T29	LIVB 851 857	malade
+T30	PROC 879 905	anticoagulation préventive
+T31	PROC 921 964	complémentation transfusionnelle biphasique
+T32	DISO 983 1016	pathologie thromboembolique aiguë
+T33	DISO 1082 1106	thrombophilie ischémique
+T34	DISO 1116 1140	hémophagocytose primaire
+T35	PROC 1145 1179	scanner abdomino-réno-vésico-rénal
+T36	ANAT 1153 1179	abdomino-réno-vésico-rénal
+T41	Localization 1485 1505	inferieur postérieur
+T42	MEAS 1529 1534	10 cm
+T43	Concept_Idea 1538 1547	grand axe
+T44	DISO 1553 1580	adénomégalite inflammatoire
+T45	PROC 1593 1602	recherche
+T47	Localization 1698 1703	médio
+T49	Localization 1755 1792	latéralement latéralisées antérieures
+T50	LIVB 1945 1952	patient
+T51	DISO 1988 2063	accident vasculaire crânio-jambier transoesophagien fessiers brachio-dorsal
+T52	ANAT 2008 2063	crânio-jambier transoesophagien fessiers brachio-dorsal
+T53	LIVB 2085 2092	patient
+T54	DISO 2098 2119	vomissements fébriles
+T55	DISO 2169 2187	polypnée sifflante
+T56	DISO 2235 2241	fièvre
+T57	Concept_Idea 2296 2309	état générale
+T58	DISO 2324 2345	perte de connaissance
+T59	DISO 2351 2362	convulsions
+T60	DISO 2440 2461	détresse respiratoire
+T61	TEMP 2488 2503	quelques heures
+T62	TEMP 2507 2528	plus d'une demi-heure
+T63	Concept_Idea 2541 2557	plan ambulatoire
+T64	LIVB 2576 2583	patient
+T65	DISO 2615 2628	hypoglycémies
+T66	DISO 2689 2703	excès pondéral
+T67	CHEM 2752 2786	corticoïdes par voie intraveineuse
+T68	PROC 2826 2858	scanner thoraco-abdomino-pelvien
+T69	ANAT 2834 2858	thoraco-abdomino-pelvien
+T70	DEVI 2882 2898	cathéter fémoral
+T71	Hospital 2902 2917	bloc opératoire
+T72	PHEN 2938 2968	récepteurs neuropsychiatriques
+T73	ANAT 2985 3039	parties molles cervico-mandibulaire gauches primitives
+T74	Localization 3021 3039	gauches primitives
+T75	PROC 3108 3147	ponction biopsie échogène scanno-guidée
+T76	DISO 3192 3202	métastases
+T77	DISO 3231 3251	symptômes infectieux
+T78	DISO 3352 3395	neurofibromatopancréatite primitive maligne
+T79	DISO 3401 3430	maladie de Von Recklinghausen
+T80	DISO 3446 3503	encéphalopathie sensitivo-motrice kleptomyalgique stade E
+T81	DISO 3521 3571	tuberculose tuberculeuse anaplasmocytaire spumeuse
+T82	PROC 3593 3621	suivi clinique préopératoire
+T83	DISO 3736 3778	trouble bipolaire primaire polymalformatif
+T84	PROC 3795 3828	classification OMS/IFRSS CASABACS
+T85	MEAS 3836 3844	stade IV
+T86	PROC 4012 4031	traitement adjuvant
+T87	DISO 4081 4094	déficitssémie
+T88	MEAS 4105 4130	0,01 gramme par décilitre
+T89	MEAS 4136 4160	4 fois la dose prescrite
+T90	MEAS 4177 4208	2400 milligrammes par décilitre
+T91	PROC 4214 4236	traitement substitutif

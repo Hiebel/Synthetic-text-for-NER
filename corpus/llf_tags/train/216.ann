@@ -1,0 +1,8 @@
+T1	LIVB 14 21	patient
+T2	PHEN 64 73	grossesse
+T3	PROC 78 84	suivie
+T4	CHEM 107 117	corticoïde
+T5	MODE 122 142	voie intramusculaire
+T6	MEAS 179 186	simples
+T7	Concept_Idea 197 200	âge
+T8	TEMP 228 234	9 mois

@@ -1,0 +1,33 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	9 ans
+T3	PROC 36 40	reçu
+T4	Hospital 45 66	urgences pédiatriques
+T5	DISO 76 104	douleurs abdomino-pelviennes
+T6	ANAT 85 104	abdomino-pelviennes
+T7	TEMP 114 127	depuis 3 mois
+T8	DISO 144 152	anorexie
+T9	DISO 159 173	amaigrissement
+T10	MEAS 184 189	14 kg
+T11	TEMP 193 202	deux mois
+T12	PROC 206 221	examen clinique
+T13	DISO 260 288	masse tumorale du pied droit
+T14	ANAT 278 288	pied droit
+T15	Localization 283 288	droit
+T16	MEAS 298 302	5 cm
+T17	Concept_Idea 306 315	grand axe
+T18	DISO 328 349	signes inflammatoires
+T19	PROC 363 379	bilan biologique
+T20	PHEN 402 417	fonction rénale
+T21	ANAT 411 417	rénale
+T22	MEAS 418 426	correcte
+T23	PROC 428 438	créatinine
+T24	MEAS 441 449	46µmol/l
+T25	PROC 451 459	natrémie
+T26	MEAS 462 471	133 meq/l
+T27	PROC 474 482	kaliémie
+T28	MEAS 485 494	0,4 meq/l
+T29	DOSE 496 505	120 meq/l
+T30	PROC 512 533	échographie pelvienne
+T31	ANAT 524 533	pelvienne
+T32	DISO 574 601	épanchement intrapéritonéal
+T33	ANAT 586 601	intrapéritonéal

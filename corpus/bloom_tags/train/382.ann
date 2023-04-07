@@ -1,0 +1,31 @@
+T1	LIVB 16 24	patiente
+T2	DISO 59 71	métrorragies
+T3	DISO 100 119	aménorrhée primaire
+T4	TEMP 129 142	depuis 5 mois
+T5	Concept_Idea 184 196	état général
+T6	MEAS 218 223	10 kg
+T7	DISO 225 239	amaigrissement
+T8	MEAS 250 254	20kg
+T9	PROC 259 279	examen gynécologique
+T10	DISO 302 322	bruits hydroaériques
+T11	DISO 333 352	anomalies cliniques
+T12	PROC 377 392	examen clinique
+T13	DISO 418 435	signes infectieux
+T14	PROC 449 468	échographie utérine
+T15	ANAT 461 468	utérine
+T16	MEAS 484 491	normale
+T17	PROC 497 550	sérologies virales d'immunodépression antirétrovirale
+T18	LIVB 623 631	patiente
+T19	PROC 636 657	recherche étiologique
+T20	MEAS 670 675	nulle
+T21	DISO 696 715	maladie métabolique
+T22	DOSE 721 727	400 mg
+T23	CHEM 730 749	éthylhydrocortisone
+T24	Hospital 775 783	urgences
+T25	DISO 806 822	syndrome grippal
+T26	DEVI 848 859	bandelettes
+T27	PROC 894 906	soins locaux
+T28	LIVB 1004 1007	ses
+T29	LIVB 1008 1029	médecins-réanimateurs
+T30	DISO 1083 1106	symptômes neurologiques
+T31	DEVI 1155 1176	bandelette électrique

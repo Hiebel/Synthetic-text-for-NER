@@ -1,0 +1,25 @@
+T1	LIVB 28 35	patient
+T2	Concept_Idea 52 77	antécédents pathologiques
+T3	MEAS 78 86	notables
+T4	PROC 88 93	admis
+T5	Hospital 98 106	urgences
+T6	DISO 115 135	traumatisme du genou
+T7	ANAT 130 135	genou
+T8	PHEN 159 168	grossesse
+T9	PROC 173 179	suivie
+T10	PROC 183 198	examen clinique
+T11	DISO 212 287	nécrose des parties molles péri-articulaires métatarsienne et anté-sternale
+T13	DISO 301 342	déformité ostéocartilagineuse congénitale
+T14	TEMP 352 364	depuis 6mois
+T15	DISO 378 387	anomalies
+T16	DISO 414 436	épanchement péritonéal
+T17	ANAT 426 436	péritonéal
+T18	DISO 449 470	signes inflammatoires
+T19	PROC 486 516	bilan biologique préopératoire
+T20	PROC 538 565	numération formule sanguine
+T21	PROC 569 587	ionogramme sanguin
+T22	ANAT 580 587	sanguin
+T23	PROC 592 611	protéine C-réactive
+T24	MEAS 620 627	normaux
+T25	PROC 631 656	intervention chirurgicale
+T26	PROC 676 701	chimiothérapie palliative

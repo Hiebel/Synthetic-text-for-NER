@@ -1,0 +1,59 @@
+T1	LIVB 29 34	fille
+T2	TEMP 38 43	2 ans
+T3	Concept_Idea 52 60	résultat
+T4	MEAS 61 66	bénin
+T5	PROC 93 131	traitement antibacillaire probabiliste
+T6	CHEM 142 155	triméthoprime
+T7	CHEM 157 168	Ceftriaxone
+T8	CHEM 170 182	Pyrazinamide
+T9	CHEM 184 195	Ethionamide
+T10	CHEM 197 208	Cyclosérine
+T11	CHEM 210 224	Chlorpromazine
+T12	PROC 237 257	chirurgical adjuvant
+T13	PROC 263 272	admission
+T14	Hospital 276 308	service d’oncorachie pédiatrique
+T15	DISO 318 368	métastases carcinomateuses cervico-sphinctérielles
+T16	ANAT 329 368	carcinomateuses cervico-sphinctérielles
+T17	MEAS 409 424	progressivement
+T18	Concept_Idea 428 434	taille
+T19	TEMP 444 455	depuis 1 an
+T20	Concept_Idea 491 503	état général
+T21	DISO 546 559	symptomatique
+T22	MEAS 574 580	rapide
+T23	Localization 612 629	bilatérale droite
+T24	Localization 633 648	centrale gauche
+T25	MEAS 660 670	rapidement
+T26	Concept_Idea 674 680	volume
+T27	DISO 701 720	anomalies cliniques
+T28	DISO 738 766	douleurs abdomino-pélviennes
+T29	ANAT 747 766	abdomino-pélviennes
+T30	DISO 773 783	prurigines
+T31	MEAS 845 849	4 cm
+T32	Concept_Idea 853 862	grand axe
+T33	ANAT 887 903	paires urinaires
+T34	LIVB 933 948	petite fillette
+T35	DISO 993 1019	manifestations secondaires
+T36	DISO 1104 1111	diabète
+T37	CHEM 1134 1153	hydrates de carbone
+T38	PROC 1418 1443	étude immunohistochimique
+T39	DISO 1462 1495	progranulome érythémato-fistulisé
+T40	DISO 1523 1554	tumeur nécrose tumorale maligne
+T41	PHEN 1576 1596	récepteurs hormonaux
+T42	DISO 1697 1722	neuroendocrine mélanogène
+T43	DEVI 1851 1862	microscopes
+T44	Concept_Idea 2066 2091	aspect histo-radiologique
+T45	DISO 2133 2212	œdème hypertrophié tumoral séreux nodulaire angiosuppressif kystique tissulaire
+T46	ANAT 2223 2236	ganglionnaire
+T47	DISO 2419 2435	maladie cœliaque
+T48	PROC 2767 2800	recherche systémique cytochimique
+T49	PROC 2801 2804	IHC
+T51	CHEM 2831 2843	cytokératine
+T53	LIVB 2894 2901	patient
+T54	PROC 2920 2943	radiothérapie adjuvante
+T55	ANAT 2956 2961	corps
+T56	ANAT 2976 2994	paroi utéro-utérin
+T57	Localization 2996 3008	face interne
+T58	ANAT 3011 3029	ovarien transverse
+T59	ANAT 3031 3066	sous péritonéal hyo-thyro-laryngien
+T60	PROC 3071 3101	bilan d'extension chirurgicale
+T61	DISO 3113 3126	particularité

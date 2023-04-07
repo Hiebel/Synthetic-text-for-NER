@@ -1,0 +1,23 @@
+T1	LIVB 16 24	patiente
+T2	TEMP 41 508	deuxième geste médical non consanguin (2 SC). Une bandage péritétrionale contraceptive n'a jamais été utilisé dans l'hôpital où elle se présentait aux urgences suite à l'apparition brutale d’une symptomatologie fébrile récidivante évoluant depuis trois mois associée à l’apparition d’ictère choléstatique ainsi qu’une hypertension artérielle devenant progressivement accentuée sous traitement antibacillaire associant isoniazide/rifaméthoxazole puis mise sous 200mg/j
+T3	PROC 50 63	geste médical
+T4	DEVI 91 127	bandage péritétrionale contraceptive
+T6	DISO 236 259	symptomatologie fébrile
+T7	TEMP 281 298	depuis trois mois
+T8	DISO 325 345	ictère choléstatique
+T9	DISO 359 382	hypertension artérielle
+T10	ANAT 372 382	artérielle
+T11	MEAS 392 417	progressivement accentuée
+T12	CHEM 459 469	isoniazide
+T13	CHEM 470 485	rifaméthoxazole
+T14	DOSE 501 506	200mg
+T16	CHEM 512 522	furosémide
+T17	PROC 538 553	toucher vaginal
+T18	ANAT 546 553	vaginal
+T19	MEAS 679 685	3250 g
+T20	TEMP 711 716	24 SA
+T21	MEAS 724 729	10/10
+T22	PROC 843 868	échographie  obstétricale
+T23	ANAT 855 868	 obstétricale
+T24	DISO 893 943	grossesse polymyomateuse asymétrique hypertrophiée
+T25	MEAS 954 980	16000 éléments globulaires

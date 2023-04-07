@@ -1,0 +1,35 @@
+T1	LIVB 28 35	patient
+T2	PROC 46 57	hospitalisé
+T3	DISO 66 124	syndrome d’épanchement liquidien péripancréatique biliaire
+T4	ANAT 89 124	liquidien péripancréatique biliaire
+T5	PROC 147 182	spléno-pancréatectomie exploratrice
+T6	PROC 184 187	SPP
+T7	PHEN 194 212	suites opératoires
+T8	MEAS 221 228	simples
+T9	PROC 234 243	admission
+T10	Hospital 247 277	service d'accueil des urgences
+T11	LIVB 279 283	nous
+T12	LIVB 306 313	patient
+T13	DISO 333 354	détresse respiratoire
+T14	PHEN 342 354	respiratoire
+T15	DISO 370 376	fièvre
+T16	TEMP 399 419	depuis deux semaines
+T17	DISO 432 455	symptômes neurologiques
+T18	DISO 481 491	hématuries
+T19	DISO 514 542	douleurs abdomino-pelviennes
+T20	ANAT 523 542	abdomino-pelviennes
+T21	DISO 570 605	tuméfaction épigastrique antalgique
+T22	ANAT 582 605	épigastrique antalgique
+T23	DISO 615 627	dysmorphique
+T24	MEAS 642 664	rapidement progressive
+T25	DISO 680 705	sensibilité hypogastrique
+T26	ANAT 692 705	hypogastrique
+T27	MEAS 733 739	rapide
+T28	MEAS 750 758	10/10 cm
+T29	MEAS 772 794	grossièrement arrondie
+T30	DEVI 811 819	matériel
+T31	PROC 829 852	contraception pelvienne
+T32	ANAT 843 852	pelvienne
+T33	LIVB 944 952	patiente
+T34	TEMP 971 977	21 ans
+T35	MODE 1125 1137	intra-utérin

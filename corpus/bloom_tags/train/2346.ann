@@ -1,0 +1,71 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 17	7ans
+T3	LIVB 24 35	jeune homme
+T4	TEMP 39 45	24 ans
+T5	PROC 54 60	opérés
+T6	PROC 66 87	anesthésie péridurale
+T7	PROC 89 92	PDS
+T8	PROC 113 135	traitement chirurgical
+T9	DISO 142 184	pemphigoïde bulleuse érythémato-pustulante
+T10	PROC 224 244	examen préopératoire
+T11	DISO 275 300	troubles sensitivomoteurs
+T12	DISO 317 337	signes neurologiques
+T13	DISO 364 390	paralysie sensitivo-moteur
+T14	DISO 401 420	atteintes visuelles
+T15	DISO 444 475	syndrome d’épanchement centrale
+T16	Localization 467 475	centrale
+T17	DISO 485 509	maladie thromboembolique
+T18	LIVB 529 538	patientes
+T19	ANAT 646 669	membres inféro-latéraux
+T20	MEAS 1013 1017	1 cm
+T21	MEAS 1020 1024	2 cm
+T22	PROC 1028 1047	bilan immunologique
+T23	MEAS 1059 1066	négatif
+T24	PROC 1069 1106	anticorps anti-nucléaires monoclonaux
+T25	MEAS 1120 1138	fortement positifs
+T26	PROC 1148 1163	anti-ADN natifs
+T27	MEAS 1172 1180	positifs
+T28	CHEM 1207 1224	protéines C1-ANCA
+T29	PROC 1279 1303	échographie obstétricale
+T30	PROC 1319 1347	prélèvement bactériococcique
+T31	MEAS 1491 1496	3230g
+T32	MEAS 1500 1505	3650g
+T33	MEAS 1515 1520	10/10
+T34	DEVI 1522 1541	sonde nasogastrique
+T35	ANAT 1528 2455	nasogastrique biquotidienne gardée pendant 6 heures puis sortie vers 16 SA permettant d'exclure tout risque infectieux néonatal post-partum d'où avoir opté comme moyen de contraception d'urgence devant l'impossibilité de réaliser d'autres moyens contraceptifs hormonals/médico-chirurgiques associant aspiration intraveineuse d'hormonone gonadotrophine chorionique progestative estimulée œstradiolactone hydrocortisone méthoxandrolone prostaglandine hydro-érotropinesterone ovotrelacétone noréthrospermone acméthrinhydrine dihydrotesterone phosphohydrocortisol).
+La numération formule sanguine retrouvait une hyperleucocytose à 15300 globules blancs/mm3 dont 70% de polynucléaires neutrophiles ce qui justifia d'avoir recours à l'association 0,5g + 400 mg de norethrospermone+ 150 mg de furosémide in utérotraumatiquement délivrées associées à deux milligrammes de phénobarbital intraréctilement administrés pendant la grossesse
+T36	TEMP 1563 1579	pendant 6 heures
+T37	PROC 1585 1591	sortie
+T38	TEMP 1597 1602	16 SA
+T39	MODE 1839 1852	intraveineuse
+T40	PROC 2093 2120	numération formule sanguine
+T41	DISO 2136 2152	hyperleucocytose
+T42	MEAS 2155 2180	15300 globules blancs/mm3
+T43	MEAS 2186 2189	70%
+T44	DOSE 2269 2273	0,5g
+T45	DOSE 2276 2282	400 mg
+T46	CHEM 2286 2302	norethrospermone
+T47	DOSE 2304 2310	150 mg
+T48	CHEM 2314 2324	furosémide
+T49	CHEM 2392 2405	phénobarbital
+T51	DISO 2506 2527	détresse respiratoire
+T52	PHEN 2515 2527	respiratoire
+T53	PROC 2542 2557	hospitalisation
+T54	LIVB 2563 2569	enfant
+T55	Hospital 2573 2584	réanimation
+T56	Concept_Idea 2593 2611	état hémodynamique
+T57	PROC 2627 2664	tomodensitométrie abdomino- pelvienne
+T58	ANAT 2645 2664	abdomino- pelvienne
+T59	PROC 2666 2670	T-DM
+T60	PROC 2677 2686	injection
+T61	CHEM 2690 2710	produit de contraste
+T62	TEMP 2729 2738	2ème jour
+T63	PROC 2741 2756	hospitalisation
+T64	DISO 2770 2813	lésions kystiques tissulaires hypo-intenses
+T65	ANAT 2830 2851	pavillons péritonéaux
+T66	MEAS 2869 2874	46 mm
+T67	Concept_Idea 2878 2887	grand axe
+T68	Localization 2889 2897	centraux
+T69	ANAT 2914 2945	fosse ombilicale interne droite
+T70	Localization 2939 2945	droite
+T71	ANAT 2966 3007	paroi abdominale intestinale transversale

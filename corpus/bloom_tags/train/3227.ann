@@ -1,0 +1,24 @@
+T1	LIVB 4 9	femme
+T2	PROC 29 41	hospitalisée
+T3	Hospital 46 54	urgences
+T4	DISO 73 96	hémiplégie hémorragique
+T5	MEAS 111 117	rapide
+T6	TEMP 127 140	depuis 6 mois
+T7	CHEM 146 160	hydrocortisone
+T8	CHEM 173 191	hydroxychloroquine
+T9	CHEM 204 217	métronidazole
+T10	DISO 276 293	céphalées fébrile
+T11	DISO 339 362	symptômes neurologiques
+T12	DISO 364 394	désorientation temporospatiale
+T13	DISO 396 410	trouble visuel
+T14	DISO 414 430	sensitivo-moteur
+T15	TEMP 460 471	une semaine
+T16	LIVB 478 481	ses
+T17	PROC 482 495	consultations
+T18	DISO 536 566	syndrome d'épanchement pleural
+T19	ANAT 559 566	pleural
+T20	DISO 714 737	conjonctivale purulente
+T21	MEAS 787 799	spontanément
+T22	TEMP 816 822	10 ans
+T23	MEAS 837 852	très altérables
+T24	LIVB 865 876	jeune femme

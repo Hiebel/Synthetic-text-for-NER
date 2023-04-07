@@ -1,0 +1,33 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	6 ans
+T3	PHEN 32 38	pesant
+T4	MEAS 39 45	1230 g
+T5	Hospital 69 90	urgences pédiatriques
+T6	DISO 118 135	dyspnée sifflante
+T7	TEMP 145 162	depuis trois mois
+T8	LIVB 169 171	sa
+T9	PROC 172 207	consultation prénaturo-obstétricale
+T10	PROC 225 240	hospitalisation
+T11	Hospital 250 271	milieux périphériques
+T12	DISO 289 312	anomalies malformatives
+T13	DEVI 328 349	cathéter sphinctérien
+T14	ANAT 337 349	sphinctérien
+T15	PROC 380 385	suivi
+T16	DISO 406 425	douleurs pelviennes
+T17	ANAT 415 425	pelviennes
+T18	MEAS 435 447	persistantes
+T19	MEAS 462 469	modérée
+T20	DISO 505 526	céphalées fébrileuses
+T21	MEAS 539 543	40°C
+T22	PROC 606 636	auscultation cardio-thoracique
+T23	ANAT 619 636	cardio-thoracique
+T24	DISO 672 716	souffle basithoracique normo-tachycardiatile
+T25	ANAT 680 716	basithoracique normo-tachycardiatile
+T26	DISO 782 815	hypertrophie ventriculaire droite
+T27	ANAT 795 815	ventriculaire droite
+T28	Localization 809 815	droite
+T29	DISO 833 866	insuffisance ventriculaire droite
+T30	ANAT 846 866	ventriculaire droite
+T31	Localization 860 866	droite
+T32	DISO 884 927	sténose ventriculaire droite basithoracique
+T33	ANAT 892 927	ventriculaire droite basithoracique

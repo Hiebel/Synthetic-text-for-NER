@@ -1,0 +1,29 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 51	diabétique
+T3	CHEM 57 72	antidiabétiques
+T4	PROC 93 102	admission
+T5	DISO 107 128	tuméfaction du visage
+T6	ANAT 122 128	visage
+T7	MEAS 144 151	brutale
+T8	DISO 164 173	symptômes
+T9	PROC 198 214	examen somatique
+T10	DISO 239 248	anomalies
+T11	DISO 267 292	paragangliome hypophysien
+T12	Concept_Idea 352 364	consentement
+T13	MEAS 365 370	libre
+T14	LIVB 389 397	patients
+T15	PHEN 411 423	récupération
+T16	MEAS 424 434	importante
+T17	DISO 476 517	carcinome pléomorphe érythémato-pustuleux
+T18	DEVI 586 610	scannogramme monochambre
+T19	PROC 617 650	imagerie par résonance magnétique
+T20	PROC 652 655	IRM
+T21	DISO 673 775	lésion tumorale hypo-intense hétérogène pariétale latéro-latérale para-thoracique tissulaire ischémiée
+T22	ANAT 796 808	corps utérin
+T23	MEAS 818 823	15 cm
+T24	MEAS 828 833	12 cm
+T25	MEAS 848 864	de façon intense
+T26	PROC 871 880	injection
+T27	CHEM 884 895	propranolol
+T28	ANAT 929 940	péritonéale
+T29	Localization 945 953	centrale

@@ -1,0 +1,49 @@
+T1	LIVB 21 28	patient
+T2	DISO 72 83	ménorragies
+T3	DISO 121 166	anémie normochrome normocytaire hypokinétique
+T4	DISO 182 221	insuffisance rénale chronique terminale
+T5	ANAT 195 201	rénale
+T6	DISO 239 274	hypertriglycéridémie gestationnelle
+T7	MEAS 285 293	129 mg/l
+T8	LIVB 305 310	femme
+T9	TEMP 319 325	37 ans
+T10	LIVB 341 345	elle
+T11	PROC 368 399	échographie obstétricale totale
+T12	PROC 417 441	contrôle scannographique
+T13	DISO 482 535	hémophagocytose interstitielle hétérozygote récessive
+T14	PROC 554 580	examen anatomopathologique
+T15	DISO 599 643	léiomyome érythémateux systémique infiltrant
+T16	ANAT 662 688	symphyse œso-oesophagienne
+T17	ANAT 701 735	branches gastroduodénales distales
+T18	Localization 764 781	droite supérieure
+T19	ANAT 819 840	structures digestives
+T20	ANAT 871 893	ganglions lymphatiques
+T21	ANAT 909 937	vésicule biliaire principale
+T22	Concept_Idea 950 969	aspect histologique
+T23	DISO 1010 1044	maladies inflammatoires chroniques
+T24	DISO 1195 1226	péritonite tuberculeuse fébrile
+T25	DISO 1236 1276	hyperperforation péritonéale polymyxoide
+T26	DISO 1295 1321	maladie cœliaque primitive
+T27	DISO 1339 1374	infestation parasitaire bacillifère
+T28	DISO 1501 1526	thrombophilie infectieuse
+T29	DISO 1706 1720	amaigrissement
+T30	PROC 1856 1886	bilan biologique préopératoire
+T31	DISO 1928 1944	syndrome méningé
+T32	DISO 1951 1967	fistule urinaire
+T33	ANAT 1959 1967	urinaire
+T34	PROC 2015 2031	cysto-anesthésie
+T35	PHEN 2119 2138	contage chirurgical
+T36	MEAS 2187 2194	simples
+T37	PROC 2200 2225	corticothérapie adjuvante
+T38	CHEM 2231 2244	métronidazole
+T39	PROC 2258 2292	néphrectomie percutanée échoguidée
+T40	PROC 2322 2345	prélèvements aspiratifs
+T41	MEAS 2367 2374	normaux
+T42	LIVB 2390 2398	patients
+T43	PROC 2439 2463	complément thérapeutique
+T44	DEVI 2524 2532	tablette
+T45	PROC 2548 2596	antibioprophylaxie substitutionnelle parentérale
+T46	PROC 2613 2636	mesures prophylactiques
+T47	DOSE 3058 3066	1 gramme
+T48	TEMP 3066 3068	/j
+T49	MEAS 3272 3285	14×13 × 13 cm

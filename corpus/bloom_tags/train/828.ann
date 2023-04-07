@@ -1,0 +1,28 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	Concept_Idea 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 79 94	examen clinique
+T6	PROC 99 108	admission
+T7	DISO 122 128	fièvre
+T8	MEAS 140 144	40°C
+T9	ANAT 151 158	poignet
+T10	PHEN 216 240	contractions musculaires
+T11	ANAT 229 240	musculaires
+T12	ANAT 254 280	plexus phréno-pancréatique
+T13	PROC 284 314	échographie abdomino-pelvienne
+T14	ANAT 296 314	abdomino-pelvienne
+T15	DISO 346 419	masse tissulaire arrondie hypo échogène hypodense latéro-utérine centrale
+T16	Localization 411 419	centrale
+T17	MEAS 429 433	12cm
+T18	Concept_Idea 437 446	grand axe
+T19	ANAT 462 474	paroi utérin
+T20	ANAT 490 509	vésicules biliaires
+T21	DISO 538 546	tumorale
+T22	PROC 550 587	scanner abdomino-cervico-sphinctérien
+T23	ANAT 558 587	abdomino-cervico-sphinctérien
+T24	PROC 607 631	anesthésie locorégionale
+T25	PROC 665 674	injection
+T26	CHEM 678 698	produit de contraste
+T27	DISO 726 740	masse tumorale
+T28	MEAS 759 765	T4N0M0

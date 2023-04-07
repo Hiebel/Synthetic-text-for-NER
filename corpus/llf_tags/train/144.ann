@@ -1,0 +1,31 @@
+T1	LIVB 19 25	garçon
+T2	TEMP 29 34	7 ans
+T3	DISO 63 83	traumatisme du genou
+T4	ANAT 78 83	genou
+T5	DEVI 91 101	baïonnette
+T6	PHEN 106 120	école primaire
+T7	PROC 125 133	contrôle
+T8	MEAS 151 161	positivité
+T9	Concept_Idea 166 187	limites chirurgicales
+T10	DISO 204 212	luxation
+T11	PROC 266 290	laparotomie exploratrice
+T12	DISO 306 315	anomalies
+T13	PROC 319 345	examen anatomopathologique
+T14	LIVB 388 396	patiente
+T15	DISO 401 438	rupture cutanéomuqueuse hypo-échogène
+T16	ANAT 463 499	parties molles cervicale supérieures
+T17	Localization 488 499	supérieures
+T18	Localization 525 535	inférieure
+T19	DISO 549 616	rétraction péritonéale intraparenchymateuse carcinomateuse kystique
+T20	ANAT 638 659	tête fémorale distale
+T21	MEAS 669 679	18cmx11 cm
+T22	MEAS 716 723	simples
+T23	PROC 729 748	anesthésie générale
+T24	PROC 762 803	néphrectomie totale endovaginale monobloc
+T25	ANAT 822 827	genou
+T26	ANAT 838 862	quadrants supéro-utérins
+T27	PROC 869 879	extubation
+T28	CHEM 883 895	Kétoconazole
+T29	DOSE 897 905	50 mg/kg
+T30	TEMP 905 910	/jour
+T31	TEMP 929 935	3 mois

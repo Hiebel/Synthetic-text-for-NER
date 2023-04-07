@@ -1,0 +1,26 @@
+T1	LIVB 0 8	patiente
+T2	Concept_Idea 29 40	antécédents
+T3	MEAS 41 53	particuliers
+T4	PROC 61 67	admise
+T5	Hospital 72 80	urgences
+T6	DISO 90 109	hématurie purulante
+T7	TEMP 119 132	depuis 6 mois
+T8	PROC 136 150	interrogatoire
+T9	DISO 182 209	épanchement intrapéritonéal
+T10	ANAT 194 209	intrapéritonéal
+T11	DISO 227 251	pancréatite aigue aiguée
+T12	PROC 257 272	examen clinique
+T13	DISO 289 308	troubles du sommeil
+T14	PHEN 301 308	sommeil
+T15	MEAS 321 334	24 cycles/min
+T16	DISO 337 345	anorexie
+T17	DISO 347 355	diarrhée
+T18	PROC 371 408	tomodensitométrie abdomino- pelvienne
+T19	ANAT 389 408	abdomino- pelvienne
+T20	DISO 435 473	adénopathies cervico-thoracique droite
+T21	ANAT 448 473	cervico-thoracique droite
+T22	Localization 467 473	droite
+T23	MEAS 531 536	12 cm
+T24	MEAS 540 545	10 cm
+T25	PROC 573 582	injection
+T26	CHEM 586 606	produit de contraste

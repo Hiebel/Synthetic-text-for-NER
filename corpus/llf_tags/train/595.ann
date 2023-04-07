@@ -1,0 +1,88 @@
+T1	LIVB 14 21	patient
+T2	DISO 63 86	hypertension artérielle
+T3	ANAT 76 86	artérielle
+T4	PROC 88 90	TA
+T5	MEAS 93 102	120 mm Hg
+T6	TEMP 113 136	depuis plusieurs années
+T7	PROC 142 157	examen physique
+T8	LIVB 162 169	patient
+T9	DISO 174 181	fébrile
+T10	MEAS 184 190	38,2°C
+T11	Concept_Idea 199 211	état général
+T12	MEAS 212 218	altéré
+T13	DISO 226 240	signes cutanés
+T14	PROC 261 270	palpation
+T15	PROC 274 296	auscultation du thorax
+T16	ANAT 290 296	thorax
+T17	DISO 312 333	distension abdominale
+T18	ANAT 323 333	abdominale
+T19	DISO 340 354	trachéomalacie
+T20	PROC 370 386	examen somatique
+T21	DISO 396 409	particularité
+T22	PROC 413 437	échographie-mammographie
+T23	DISO 457 465	anomalie
+T24	DISO 482 517	dysphagie congénitale hypogastrique
+T25	PHEN 527 549	suites postopératoires
+T26	MEAS 555 562	simples
+T27	PROC 567 580	TDM cervicale
+T28	ANAT 571 580	cervicale
+T29	DISO 606 664	pseudo myxome épidermoïde rénitente ostéocalcique érectile
+T30	MEAS 674 688	14 centimètres
+T31	Concept_Idea 692 700	diamètre
+T32	Localization 717 733	partie proximale
+T33	DISO 760 785	micronodules métatarsiens
+T34	ANAT 803 818	méso transverse
+T35	ANAT 832 849	quadrants distaux
+T36	PROC 855 879	laparotomie exploratrice
+T37	PROC 894 909	rachianesthésie
+T38	DEVI 947 982	bifurcation ventriculaire percutané
+T39	DISO 1011 1033	métatarsophistiocytose
+T40	DISO 1176 1198	perforation anéchogène
+T41	TEMP 1234 1248	quelques jours
+T42	PROC 1258 1275	schéma opératoire
+T43	MEAS 1284 1297	bien tolérées
+T44	PROC 1309 1328	traitement adjuvant
+T45	Hospital 1361 1383	structure hospitalière
+T46	LIVB 1406 1417	jeune homme
+T47	LIVB 1501 1507	enfant
+T48	LIVB 1566 1568	il
+T49	LIVB 1589 1602	belle-famille
+T50	LIVB 1650 1667	parents maternels
+T51	LIVB 1690 1704	maçon ambulant
+T52	LIVB 1741 1744	son
+T53	LIVB 1745 1749	père
+T54	LIVB 1839 1841	sa
+T55	LIVB 1842 1847	femme
+T56	LIVB 1902 1905	ses
+T57	LIVB 1906 1913	enfants
+T58	PROC 1940 1966	transfusions intraveineuse
+T59	CHEM 1994 2014	plasmocytes sériques
+T60	PROC 2020 2063	transfusions extrapéritonéales fractionnées
+T61	MEAS 2139 2151	1250 UI/mm 3
+T62	MEAS 2153 2164	660 UI/mm 3
+T63	MEAS 2166 2177	510 UI/mm 3
+T64	MEAS 2180 2192	1700 UI/mm 3
+T65	MEAS 2204 2218	182000 UI/mm 3
+T66	MEAS 2228 2242	297200 UI/mm 3
+T67	MEAS 2253 2268	269 000 UI/mm 3
+T68	MEAS 2280 2296	1599 500 UI/mm 3
+T69	PROC 2305 2326	contrôle radiologique
+T70	PROC 2357 2373	acte chirurgical
+T71	PROC 2378 2395	suivi obstétrical
+T72	DISO 2466 2502	symptômes neuropsychiatriques aigues
+T73	DISO 2556 2589	troubles convulsifs psychomoteurs
+T74	Concept_Idea 2842 2859	caractère général
+T75	TEMP 2932 2946	trois semaines
+T76	PROC 3008 3024	bilan biologique
+T77	PROC 3113 3132	hémoglobine glyquée
+T78	MEAS 3144 3151	négatif
+T79	DISO 3177 3196	maladie auto-immune
+T80	DISO 3415 3434	maladie infectieuse
+T81	LIVB 3683 3694	parturiente
+T82	MEAS 3718 3720	13
+T83	LIVB 3721 3728	enfants
+T84	LIVB 3761 3765	mère
+T85	PHEN 3822 3847	mariage consanguin unique
+T86	MEAS 3876 3878	11
+T87	LIVB 3879 3886	garçons
+T88	ANAT 4239 4257	ordre sexuel fœtal

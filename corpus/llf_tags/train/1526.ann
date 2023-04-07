@@ -1,0 +1,47 @@
+T2	MEAS 48 49	5
+T3	LIVB 50 57	garçons
+T4	DISO 104 141	adénomégalies cervicales congénitales
+T5	TEMP 151 165	depuis 18 mois
+T6	PROC 170 191	traitées médicalement
+T7	MEAS 201 216	progressivement
+T8	DISO 217 232	médicamenteuses
+T9	DEVI 282 312	antipsychotiques probabilistes
+T10	PROC 987 1016	anticoagulation intraveineuse
+T11	PROC 1030 1071	consultation prénatale multidisciplinaire
+T12	PROC 1095 1107	obstétricale
+T13	PROC 1161 1205	séance médicale familiale pluridisciplinaire
+T14	PROC 1277 1312	contrôle échographique obstétricale
+T15	PROC 1347 1367	reprise orthopédique
+T16	PROC 1380 1405	surveillance radiologique
+T17	PROC 1445 1467	traitement concomitant
+T18	DISO 1526 1555	symptômes neuropsychiatriques
+T19	PROC 1621 1669	complément thérapeutique ambulatoire substitutif
+T20	CHEM 1682 1745	Doxorubicine Chromogranine Arrow Generalized Beauty Association
+T21	DOSE 1747 1750	3mg
+T22	TEMP 1750 1752	/j
+T23	CHEM 1757 1777	Risperidone Lamexate
+T24	DOSE 1779 1785	100 mg
+T25	TEMP 1785 1787	/j
+T26	Concept_Idea 1822 1831	résultats
+T27	PROC 1835 1855	bilan pré-opératoire
+T28	LIVB 1886 1893	patient
+T29	PROC 1899 1923	remplissage vasculorénal
+T30	ANAT 1911 1923	vasculorénal
+T31	MEAS 1932 1938	double
+T32	PROC 1976 2003	lavage nasopharyngo-laryngé
+T33	ANAT 1983 2003	nasopharyngo-laryngé
+T34	MEAS 2021 2030	difficile
+T35	DISO 2071 2085	décès néonatal
+T36	TEMP 2097 2103	7 mois
+T37	PROC 2109 2138	corticothérapie néo adjuvante
+T38	Hospital 2173 2192	urgences digestives
+T39	PROC 2198 2213	soins parentaux
+T40	PROC 2218 2248	diagnostic anatomopathologique
+T41	PROC 2262 2288	étude immuno-histochimique
+T42	DISO 2304 2369	lymphocytome myxoïde monocytaire interstitiel kystique tissulaire
+T43	Concept_Idea 2808 2828	paramètres cliniques
+T44	Concept_Idea 2851 2870	aspect histologique
+T45	Concept_Idea 2999 3029	caractéristiques endoscopiques
+T46	Concept_Idea 3129 3150	dossiers extemporanés
+T47	PROC 3190 3196	suivie
+T48	Concept_Idea 3225 3249	hypothèses diagnostiques

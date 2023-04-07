@@ -1,0 +1,20 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 85 100	examen clinique
+T5	PROC 105 114	admission
+T6	DISO 134 157	traumatisme du pancréas
+T7	ANAT 149 157	pancréas
+T8	PHEN 177 197	grossesse gémellaire
+T9	PROC 202 208	suivie
+T10	DISO 231 247	signes cliniques
+T11	DISO 250 281	insuffisance hépato-mrénorénale
+T12	ANAT 263 281	hépato-mrénorénale
+T13	PROC 286 316	bilan biologique préopératoire
+T14	DISO 340 395	anémie normochrome normocytaire hypochrome microcytaire
+T15	DISO 411 434	hyperthyroïdie primaire
+T16	CHEM 436 446	tamoxifène
+T17	PROC 453 484	échographie abdomino- pelvienne
+T18	ANAT 465 484	abdomino- pelvienne
+T19	Hospital 503 510	urgence
+T20	PROC 519 540	pronostic obstétrical

@@ -1,0 +1,25 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 73	notables
+T4	PROC 75 80	admis
+T5	Hospital 85 93	urgences
+T6	DISO 102 118	syndrome fébrile
+T7	DISO 138 159	détresse respiratoire
+T8	PHEN 147 159	respiratoire
+T9	MEAS 174 185	progressive
+T10	DISO 201 240	douleurs abdomino-pelviennes purulantes
+T11	ANAT 210 229	abdomino-pelviennes
+T12	TEMP 250 263	depuis 3 mois
+T13	PROC 267 282	examen clinique
+T14	Concept_Idea 296 307	température
+T15	MEAS 310 316	37°8 C
+T16	Localization 318 323	droit
+T17	PROC 337 357	examen gynécologique
+T18	MEAS 364 370	normal
+T19	DISO 392 437	méningo-vascularome du mésentère épigastrique
+T20	ANAT 415 437	mésentère épigastrique
+T21	PROC 485 513	diagnostic histopathologique
+T22	PROC 520 538	fixation au formol
+T23	CHEM 532 538	formol
+T24	PROC 544 570	étude immuno-histochimique
+T25	DISO 590 603	neurorétinien

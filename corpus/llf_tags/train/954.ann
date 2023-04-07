@@ -1,0 +1,87 @@
+T1	LIVB 20 28	patiente
+T2	DISO 50 75	antécédents pathologiques
+T3	MEAS 76 88	particuliers
+T4	PROC 103 115	hospitalisée
+T5	Hospital 119 130	psychiatrie
+T6	DISO 140 163	agitation psychomotrice
+T7	DISO 170 207	traumatisme du membre supérieur droit
+T8	ANAT 185 207	membre supérieur droit
+T9	Localization 202 207	droit
+T10	PROC 211 226	examen clinique
+T11	ANAT 259 268	squelette
+T12	DISO 274 342	processus lésionnel cervico-thoracique des quadrants lombo-rotuliens
+T13	ANAT 317 342	quadrants lombo-rotuliens
+T14	MEAS 352 357	10 cm
+T15	Concept_Idea 361 370	grand axe
+T16	PROC 380 391	échographie
+T17	DISO 401 422	distension abdominale
+T18	ANAT 412 422	abdominale
+T19	DISO 439 457	signe neurologique
+T20	PHEN 470 489	fonction pulmonaire
+T21	ANAT 479 489	pulmonaire
+T22	MEAS 496 503	normale
+T23	PROC 507 529	électroencéphalogramme
+T24	PROC 531 534	EEG
+T25	MEAS 547 557	inhabituel
+T26	TEMP 569 582	quatre heures
+T27	TEMP 614 624	six heures
+T28	DEVI 688 695	machine
+T29	PROC 765 781	examen somatique
+T30	DISO 793 807	particularités
+T31	PROC 813 852	Tomodensitométrie par cohérence optique
+T32	PROC 854 857	OCT
+T33	PROC 880 909	prise en charge psychiatrique
+T34	DISO 931 957	syndrome confusionnel aigu
+T35	MEAS 1057 1062	3/2cm
+T36	MEAS 1066 1071	1/5cm
+T37	ANAT 1203 1256	segment supéro-externe postéro-inférieur superhensile
+T38	DISO 1294 1333	déficit sensitivo-moteur proprioceptifs
+T39	Concept_Idea 1369 1389	aspect morphologique
+T40	LIVB 1435 1443	patiente
+T41	PROC 1489 1510	radiothérapie externe
+T42	PROC 1516 1565	cathétérisme veineux direct scanno-laryngolaryngé
+T43	PROC 1566 1569	VRP
+T44	PROC 1587 1613	neuroleptique substitutive
+T45	CHEM 1619 1629	céfotaxime
+T46	PROC 1643 1662	rééducation motrice
+T47	PROC 1668 1727	kinésithérapie locorégionale axillaire intraveineuse locale
+T48	PROC 1741 1809	chirurgie rachidienne maxillo-mandibulaire endorectale préopératoire
+T49	MEAS 1867 1877	favorables
+T50	TEMP 1952 1970	jusqu'à sept jours
+T51	PROC 2045 2063	geste anesthésique
+T52	PROC 2107 2131	symptomatologie générale
+T53	PROC 2136 2166	complément TDM ophtalmopédique
+T54	ANAT 2151 2166	ophtalmopédique
+T55	DISO 2192 2262	lésion kystique tissulaire pariéto-occipitale controlatérale malformée
+T56	ANAT 2283 2342	fronts temporaux inférieurs inférieurs fundiques anterieurs
+T57	Localization 2311 2342	inférieurs fundiques anterieurs
+T58	ANAT 2361 2437	ventricule rétromamelonnaire tibial inférieur homolatéral postérieur interne
+T59	Localization 2407 2437	homolatéral postérieur interne
+T60	DISO 2462 2513	ostéosynthèse rétro péritonéale hétérodense lobulée
+T61	ANAT 2533 2616	aires ganglionnaires cérébelleuses mandibulaires sus mésentériques costales gauches
+T62	PROC 2669 2687	séjour hospitalier
+T63	LIVB 2692 2700	patiente
+T64	PROC 2715 2750	contraception extraconjugale per os
+T65	Concept_Idea 2766 2789	principes histologiques
+T66	ANAT 2855 2939	membranes charnues thoraciques superficielles abdomino-caecales jugulo-carotidiennes
+T67	ANAT 3040 3051	rein gauche
+T68	Localization 3045 3051	gauche
+T69	PHEN 3128 3148	grossesse monofœtale
+T70	LIVB 3218 3221	nos
+T71	LIVB 3222 3232	oncologues
+T72	PROC 3268 3290	traitement chirurgical
+T73	DEVI 3295 3313	coussin compressif
+T74	PROC 3318 3329	vascularisé
+T75	Hospital 3375 3396	urgences pédiatriques
+T76	LIVB 3488 3492	sœur
+T77	DISO 3613 3632	maladie infectieuse
+T78	PROC 3681 3695	interrogatoire
+T79	Concept_Idea 3723 3741	état hémodynamique
+T80	DISO 3746 3770	syndrome polymalformatif
+T81	DISO 3792 3818	dépressions psychomotrices
+T82	PROC 3893 3914	consultation médicale
+T83	DISO 4204 4235	trouble délirant hallucinatoire
+T84	TEMP 4408 4413	2mois
+T85	TEMP 4417 4421	1 an
+T86	PROC 4427 4528	TDM oeso-gastro-duodénale postéro-médiastinale cervico-kinépharyngo-trachéale scapulaire diagnostique
+T88	PROC 4547 4580	thyroïdectomie totale écho-guidée

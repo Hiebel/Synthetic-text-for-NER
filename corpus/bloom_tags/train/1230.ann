@@ -1,0 +1,51 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	12 ans
+T3	DISO 44 121	chirurgie ostéocartilaginée plexiculaire thoracique bilithiasique congénitale
+T5	LIVB 154 156	Il
+T6	DISO 198 219	épigastralgies aiguës
+T7	TEMP 242 255	depuis 4 mois
+T8	MODE 261 271	voie orale
+T9	CHEM 274 288	hydrocortisone
+T10	DEVI 293 303	bandelette
+T11	CHEM 324 335	médicaments
+T12	CHEM 344 362	hydroxychloroquine
+T13	CHEM 377 414	antiinflammatoires non stéroïdulaires
+T14	CHEM 400 414	stéroïdulaires
+T15	PROC 429 441	consultation
+T16	Hospital 446 467	urgences pédiatriques
+T17	PROC 480 504	scanner abdomino-pelvien
+T18	ANAT 488 504	abdomino-pelvien
+T20	PROC 566 576	diagnostic
+T21	PROC 597 622	recherche bactériologique
+T22	PROC 629 659	rétrécissement cutanéo-vaginal
+T23	ANAT 644 659	cutanéo-vaginal
+T24	LIVB 679 687	patiente
+T25	TEMP 696 701	12ans
+T26	PROC 790 812	traitement chirurgical
+T27	PROC 831 919	anastomose ovo-cæcale transplacentaire péritonéale postérionale abdominopéritoine étagée
+T29	PROC 942 954	coelioscopie
+T30	PROC 961 997	curage ganglionnaire intrapéritonéal
+T31	ANAT 968 997	ganglionnaire intrapéritonéal
+T32	PROC 1012 1042	splénectomie antérieure droite
+T33	Localization 1025 1042	antérieure droite
+T34	MEAS 1090 1100	praticable
+T35	MEAS 1252 1259	simples
+T36	DISO 1305 1318	complications
+T37	DISO 1346 1377	fistule pariéto-gastroduodénale
+T38	ANAT 1354 1377	pariéto-gastroduodénale
+T39	MEAS 1409 1416	modérée
+T40	DISO 1423 1438	symptomatologie
+T41	DISO 1479 1489	météorisme
+T42	PROC 1543 1581	radiothérapie complémentaire adjuvante
+T43	PROC 1600 1629	irradiation conformationnelle
+T44	MEAS 1739 1743	25Gy
+T45	PROC 1811 1890	remplissage vasculaire infarcto-scapulo-carotidien basithoracique cœsophagienne
+T46	ANAT 1823 1890	vasculaire infarcto-scapulo-carotidien basithoracique cœsophagienne
+T47	LIVB 2273 2280	patient
+T48	CHEM 2296 2309	dexaméthasone
+T49	DOSE 2311 2317	200 mg
+T50	TEMP 2317 2319	/j
+T51	MODE 2324 2334	voie orale
+T52	CHEM 2347 2360	phénobarbital
+T53	Concept_Idea 2368 2376	résultat
+T54	TEMP 2406 2412	6 mois

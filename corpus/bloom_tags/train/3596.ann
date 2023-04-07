@@ -1,0 +1,34 @@
+T1	LIVB 28 35	patient
+T2	DISO 64 104	déficit moteur du membre inférieur droit
+T3	ANAT 82 104	membre inférieur droit
+T4	Localization 99 104	droit
+T5	DISO 114 140	troubles sensitivomotrices
+T6	TEMP 150 164	depuis 06 mois
+T7	Concept_Idea 200 212	état général
+T8	MEAS 238 243	15 kg
+T9	PHEN 260 281	contractions utérines
+T10	ANAT 273 281	utérines
+T11	CHEM 295 313	anti-épigastriques
+T12	CHEM 315 327	Cyclotrétone
+T13	PROC 333 342	recherche
+T14	PROC 385 412	tomodensitométrie pelvienne
+T15	ANAT 403 412	pelvienne
+T16	Hospital 439 447	urgences
+T17	PROC 454 476	induction anesthésique
+T18	DISO 560 574	abcès kystique
+T19	DISO 587 617	localisations neurovasculaires
+T20	PROC 639 680	investigations complémentaires somatiques
+T21	LIVB 708 714	enfant
+T22	DISO 719 757	syndrome d’épanchement intrapéritonéal
+T23	ANAT 742 757	intrapéritonéal
+T24	DISO 777 787	douloureux
+T25	MEAS 797 802	30 cm
+T26	Concept_Idea 806 815	grand axe
+T27	MEAS 820 825	12 cm
+T28	Concept_Idea 829 842	petite taille
+T29	ANAT 866 876	lit utérin
+T30	DISO 926 941	ostéoméningiome
+T31	DISO 985 1003	chondromatocytaire
+T32	DISO 1027 1050	signes neuroendocrinaux
+T33	PROC 1145 1201	ponction pleurésie péritonéale liquidienne transfixiante
+T35	PROC 1217 1287	échographie cardio-vasculo-rénal inféro-médio-péritonéale exploratrice

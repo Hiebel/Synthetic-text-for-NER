@@ -1,0 +1,28 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 41 66	antécédents pathologiques
+T3	MEAS 67 75	notables
+T4	PROC 77 82	reçue
+T5	DISO 92 112	masse du flanc droit
+T6	ANAT 101 112	flanc droit
+T7	Localization 107 112	droit
+T8	MEAS 124 139	progressivement
+T9	Concept_Idea 143 149	volume
+T10	PROC 159 174	examen clinique
+T11	DISO 178 199	détresse respiratoire
+T12	PHEN 187 199	respiratoire
+T13	PROC 215 246	échographie abdomino- pelvienne
+T14	ANAT 227 246	abdomino- pelvienne
+T15	DISO 277 299	épanchement péritonéal
+T16	ANAT 289 299	péritonéal
+T17	DISO 312 347	hypersplénomégalie parathyroïdienne
+T18	DISO 363 444	adénopathies ganglionnaires basithoraciques latéro-surrénaliennes carcinomateuses
+T20	PROC 449 465	bilan biologique
+T21	DISO 482 498	hyperleucocytose
+T22	MEAS 501 519	14000 éléments/mm3
+T23	CHEM 521 548	polynucléaires neutrophiles
+T24	PROC 554 578	scanner abdomino-pélvien
+T25	ANAT 562 578	abdomino-pélvien
+T26	PROC 595 619	anesthésie locorégionale
+T27	ANAT 606 619	locorégionale
+T28	PROC 626 652	taux d'hémoglobine glyquée
+T29	MEAS 670 674	5,7%

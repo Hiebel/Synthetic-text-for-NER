@@ -1,0 +1,11 @@
+T1	PROC 5 24	examens
+T2	DISO 39 61	syndrome
+T3	MEAS 62 76	non
+T4	PROC 84 97	hyperglycémie
+T5	MEAS 100 111	12,7
+T6	Concept_Idea 113 129	valeurs
+T7	MEAS 132 139	5mmol/L
+T8	PROC 145 158	sérologie
+T9	MEAS 163 171	positive
+T10	MEAS 181 185	deux
+T11	ANAT 186 204	champs

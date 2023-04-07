@@ -1,0 +1,22 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 38 63	antécédents pathologiques
+T4	MEAS 64 72	notables
+T5	PROC 74 79	admis
+T6	Hospital 83 96	service d'ORL
+T7	DISO 105 128	carcinome du col utérin
+T8	ANAT 118 128	col utérin
+T9	PROC 132 147	examen clinique
+T10	PROC 152 161	admission
+T11	LIVB 173 181	patiente
+T12	Concept_Idea 218 230	respiratoire
+T13	PROC 234 264	échographie abdomino-pelvienne
+T14	ANAT 246 264	abdomino-pelvienne
+T15	DISO 295 362	masse tissulaire arrondie latéralisée des organes génitaux externes
+T17	MEAS 372 377	50 cm
+T18	Concept_Idea 381 390	grand axe
+T19	ANAT 427 461	muscles paravertébraux obturateurs
+T20	DISO 540 555	kyste hydatique
+T21	PROC 561 596	scanner abdomino-pelvien transverse
+T22	ANAT 569 596	abdomino-pelvien transverse
+T23	DISO 621 646	localisations secondaires

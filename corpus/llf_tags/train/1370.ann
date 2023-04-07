@@ -1,0 +1,45 @@
+T1	LIVB 16 24	patiente
+T2	PROC 51 63	hospitalisée
+T3	DISO 73 107	douleurs du membre supérieur droit
+T4	ANAT 85 107	membre supérieur droit
+T6	TEMP 117 130	depuis 3 mois
+T7	MEAS 145 160	progressivement
+T8	Concept_Idea 171 183	état général
+T9	DISO 193 201	boiterie
+T10	DISO 214 231	signes infectieux
+T11	PROC 245 260	examen clinique
+T12	PROC 265 274	admission
+T13	LIVB 285 292	patient
+T14	MEAS 296 303	mauvais
+T15	Concept_Idea 304 316	état général
+T16	MEAS 331 345	100 battements
+T17	TEMP 346 356	par minute
+T18	DISO 371 385	déficit moteur
+T19	DISO 389 405	syndrome méningé
+T20	PHEN 411 432	fonction respiratoire
+T21	ANAT 420 432	respiratoire
+T22	MEAS 437 448	désagréable
+T23	PROC 464 480	examen somatique
+T24	DISO 492 506	particularités
+T25	DISO 534 554	coma poly-corticoïde
+T26	DISO 564 581	trouble trophique
+T27	DISO 594 611	prurit généralisé
+T28	PROC 631 654	examens complémentaires
+T29	DISO 705 728	symptômes pathologiques
+T30	PROC 734 764	ponction biopsie scanno-guidée
+T31	PROC 776 799	radiothérapie adjuvante
+T32	DISO 821 848	cellules tumorales malignes
+T33	ANAT 864 879	fosses caudales
+T34	MEAS 903 908	10 cm
+T35	MEAS 912 916	7 cm
+T36	ANAT 937 953	crête maxillaire
+T37	MEAS 978 985	2/1 m ²
+T38	MEAS 989 993	5 mm
+T39	PROC 1023 1026	CRP
+T40	ANAT 1103 1136	région pariétale fundique interne
+T41	ANAT 1153 1174	ventricule postérieur
+T42	Localization 1164 1174	postérieur
+T43	ANAT 1257 1278	troncs supéro-externe
+T44	MEAS 1378 1404	macroscopiquement normales
+T45	PROC 1410 1441	récepteurs immunohistochimiques
+T46	CHEM 1487 1499	fluorouracil

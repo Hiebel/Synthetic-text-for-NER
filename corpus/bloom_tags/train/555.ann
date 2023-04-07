@@ -1,0 +1,39 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	11 ans
+T3	Concept_Idea 21 27	pesant
+T4	MEAS 28 33	12 Kg
+T5	MEAS 65 73	notables
+T6	DISO 91 104	consanguinité
+T7	DISO 111 154	syndrome d'épanchement liquidien péritonéal
+T8	ANAT 134 154	liquidien péritonéal
+T9	PROC 173 179	admise
+T10	Hospital 184 205	urgences pédiatriques
+T11	DISO 224 240	apyrexie fébrile
+T12	TEMP 250 266	depuis 72 heures
+T13	LIVB 273 275	sa
+T14	PROC 276 296	reprise chirurgicale
+T15	DISO 312 334	douleurs épigastriques
+T16	ANAT 321 334	épigastriques
+T17	MEAS 349 360	progressive
+T18	MEAS 370 383	plus marquées
+T19	PHEN 387 408	intensément pulsantes
+T20	DISO 443 449	sueurs
+T21	DISO 498 507	céphalées
+T22	PROC 526 540	investigations
+T23	LIVB 555 563	patients
+T24	DEVI 589 608	sonde nasogastrique
+T26	DISO 686 707	détresse respiratoire
+T27	PHEN 695 707	respiratoire
+T28	MEAS 722 732	croissante
+T29	DISO 758 785	troubles sensitivo-motrices
+T30	DISO 798 808	apyrétique
+T31	ANAT 829 835	pelvis
+T32	PROC 876 905	échodoppler cardio-vasculaire
+T33	ANAT 888 905	cardio-vasculaire
+T34	DISO 925 945	thrombose artérielle
+T35	ANAT 935 945	artérielle
+T36	PROC 976 1005	rétrécissement angiographique
+T37	ANAT 1018 1034	surrénaloïdienne
+T38	DISO 1062 1099	néphropathie hypertensive congénitale
+T39	ANAT 1110 1140	paroi vaginale utéro-cervicale
+T40	PROC 1143 1168	intervention chirurgicale

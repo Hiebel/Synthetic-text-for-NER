@@ -1,0 +1,22 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	10 ans
+T3	DISO 25 50	antécédents pathologiques
+T4	MEAS 51 63	particuliers
+T5	PROC 65 75	consultait
+T6	Hospital 80 101	urgences pédiatriques
+T7	DISO 112 141	accident hémorragique fébrile
+T8	MEAS 157 179	rapidement progressive
+T9	TEMP 189 203	depuis 3 jours
+T10	LIVB 214 217	son
+T11	PHEN 218 237	découverte clinique
+T12	PROC 243 268	traitement antirétroviral
+T13	CHEM 279 290	Ceftriaxone
+T14	CHEM 291 305	Gentaméthasone
+T15	CHEM 331 344	Nicardipoline
+T16	CHEM 347 369	Methyle hydrocortisone
+T17	CHEM 372 386	hydrocortisone
+T18	CHEM 388 406	hydroxychloroquine
+T19	PROC 413 427	examen initial
+T20	DISO 448 469	détresse respiratoire
+T21	DISO 476 501	polynucléaire neutropénie
+T22	DISO 531 553	troubles ventilatoires

@@ -1,0 +1,87 @@
+T1	LIVB 29 37	patiente
+T2	DISO 54 79	antécédents pathologiques
+T3	MEAS 80 88	notables
+T4	PROC 90 96	admise
+T5	Hospital 101 109	urgences
+T6	DISO 121 158	traumatisme du membre inférieur droit
+T7	ANAT 136 158	membre inférieur droit
+T8	Localization 153 158	droit
+T9	PROC 162 177	examen clinique
+T10	LIVB 189 197	patiente
+T11	MEAS 201 204	bon
+T12	Concept_Idea 205 217	état général
+T13	PHEN 227 240	signes vitaux
+T14	MEAS 241 248	modérés
+T15	LIVB 250 254	Elle
+T16	PROC 272 297	scanner abdomino- pelvien
+T17	ANAT 280 297	abdomino- pelvien
+T18	PROC 299 302	ASP
+T19	DISO 332 500	adénopathies parenchymateuses pariétales pariéto-latéro-surrénaliennes basithoraciques péripariétales latéro-cervicales cervico-mésentériques tissulaires hypodenseurées
+T21	ANAT 517 526	épiploons
+T22	MEAS 554 559	14 cm
+T23	MEAS 564 569	12 cm
+T24	MEAS 573 577	7 cm
+T25	MEAS 582 586	4 cm
+T26	PROC 590 623	échocardiographie transthoracique
+T27	ANAT 608 623	transthoracique
+T28	PROC 641 665	anesthésie locorégionale
+T29	ANAT 679 689	thoracique
+T30	DISO 733 765	tachycardie ventriculo-pulsatile
+T31	ANAT 745 765	ventriculo-pulsatile
+T32	MEAS 777 787	rapidement
+T33	Concept_Idea 791 797	volume
+T34	DISO 813 836	hypertension artérielle
+T35	ANAT 826 836	artérielle
+T36	MEAS 848 861	180/100 mm Hg
+T37	TEMP 871 885	depuis 3 jours
+T38	LIVB 892 895	son
+T39	PROC 896 905	admission
+T40	CHEM 936 947	Nicardipril
+T41	DOSE 950 956	1mg/kg
+T42	TEMP 956 958	/j
+T43	CHEM 961 971	Curosérine
+T44	DOSE 973 981	20 mg/kg
+T45	TEMP 981 983	/j
+T46	MODE 996 1001	bolus
+T47	CHEM 1005 1015	furosémide
+T48	DISO 1064 1077	consanguinité
+T49	DISO 1084 1105	syndrome hypertensive
+T50	DISO 1151 1155	AVCI
+T51	LIVB 1167 1175	patiente
+T52	DISO 1206 1230	néphropathie monoclonale
+T53	PROC 1235 1241	suivie
+T54	TEMP 1258 1264	13 ans
+T55	PROC 1272 1287	étude génétique
+T56	DISO 1313 1338	mutation hétérozygote C>A
+T57	DISO 1356 1388	protéinothrombopénie congénitale
+T58	PROC 1611 1657	tomodensitométrie pelvienne transoesophagienne
+T59	ANAT 1629 1657	pelvienne transoesophagienne
+T60	PROC 1658 1662	TOFE
+T61	PROC 1679 1701	induction anesthésique
+T62	PROC 1707 1734	injections intramusculaires
+T64	DISO 1777 1823	processus ostéo-interstitiel hyper vascularisé
+T65	ANAT 1855 1874	cavités abdominales
+T66	ANAT 1915 1943	muscle diaphragmatique droit
+T67	Localization 1938 1943	droit
+T68	DISO 1981 2002	niveaux hydro-aérique
+T69	ANAT 2023 2049	fosse iliaque homolatérale
+T70	Localization 2037 2049	homolatérale
+T71	MEAS 2097 2106	multiples
+T73	ANAT 2261 2303	méso-thyro-gastrocnemum médian superficiel
+T74	DISO 2317 2361	myxofibromeningo-nodulaire épidermoïdellaire
+T75	DISO 2392 2438	pneumo-fistule pyélonéphritique myxospongieuse
+T76	DISO 2459 2493	localisations neurovestigminatives
+T77	DISO 2527 2536	symptômes
+T78	PROC 2773 2793	endoscopie gastrique
+T79	ANAT 2784 2793	gastrique
+T80	DISO 2809 2845	adénocarcinome des parois gastriques
+T81	ANAT 2828 2845	parois gastriques
+T82	Concept_Idea 2858 2874	caractéristiques
+T83	PROC 2879 2897	traitement curatif
+T84	CHEM 2899 2912	metronidazole
+T85	CHEM 2914 2925	Cyclosérine
+T86	CHEM 2929 2942	dexaméthasone
+T87	TEMP 2944 2958	pendant 3 mois
+T88	PROC 2988 3011	radiothérapie adjuvante
+T89	DOSE 3025 3029	2 Gy
+T90	DOSE 3056 3062	0,5 Gy

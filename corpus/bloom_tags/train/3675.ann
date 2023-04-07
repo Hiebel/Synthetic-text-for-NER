@@ -1,0 +1,28 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	4 ans
+T3	Concept_Idea 25 36	antécédents
+T4	MEAS 37 45	notables
+T5	PROC 47 57	consultait
+T6	Hospital 62 83	urgences pédiatriques
+T7	DISO 93 114	détresse respiratoire
+T8	PHEN 102 114	respiratoire
+T9	MEAS 129 140	progressive
+T10	PROC 146 161	examen clinique
+T11	LIVB 165 175	nouveau-né
+T12	ANAT 185 207	membre supérieur droit
+T13	Localization 202 207	droit
+T14	ANAT 289 306	jugulo-carotidien
+T15	ANAT 310 331	auriculoventriculaire
+T16	ANAT 345 367	muscle biceps brachial
+T17	PROC 371 401	auscultation cardio-vasculaire
+T18	ANAT 384 401	cardio-vasculaire
+T19	MEAS 408 417	conservée
+T20	DEVI 423 442	sonde ventriculaire
+T21	ANAT 429 442	ventriculaire
+T22	DOSE 444 455	3/8 cmH 2 O
+T23	PROC 460 493	échocardiographie transthoracique
+T24	ANAT 478 493	transthoracique
+T25	DISO 510 550	hypertrophie ventriculaire hypertrophiée
+T26	ANAT 523 550	ventriculaire hypertrophiée
+T27	CHEM 608 622	médiastiniques
+T28	ANAT 644 662	artères cardiaques

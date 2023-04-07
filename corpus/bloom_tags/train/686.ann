@@ -1,0 +1,42 @@
+T1	LIVB 16 24	patiente
+T2	DISO 45 69	antécédents pathologique
+T3	MEAS 70 82	particuliers
+T4	PROC 84 92	adressée
+T5	Hospital 97 105	urgences
+T7	DISO 143 191	carcinome métastéo-épidermoïde latéro péritonéal
+T8	ANAT 153 191	métastéo-épidermoïde latéro péritonéal
+T9	DEVI 210 221	bandelettes
+T10	PROC 224 246	échographie abdominale
+T11	ANAT 236 246	abdominale
+T12	PROC 252 267	hospitalisation
+T13	TEMP 271 281	21/01/2011
+T14	Hospital 285 315	service d'accueil des urgences
+T15	Hospital 317 320	SUH
+T16	DISO 336 357	détresse respiratoire
+T17	PHEN 345 357	respiratoire
+T18	DISO 371 377	fièvre
+T19	TEMP 400 416	depuis 48 heures
+T20	DISO 433 453	sueurs prurigineuses
+T21	DISO 469 484	défense buccale
+T23	MEAS 531 546	progressivement
+T24	Concept_Idea 550 556	volume
+T25	DISO 634 649	symptomatologie
+T26	PROC 655 688	traitement médical antibacillaire
+T27	LIVB 715 723	patiente
+T28	DISO 785 819	traumatisme ischémique réfractaire
+T29	DISO 869 886	kystes hydatiques
+T30	Localization 908 918	bilatérale
+T31	DISO 947 957	toxicienne
+T32	PROC 968 979	extirpation
+T33	PROC 983 998	examen clinique
+T34	LIVB 1012 1020	patiente
+T35	Concept_Idea 1035 1052	plan psychomoteur
+T36	DISO 1058 1068	apyrétique
+T37	MEAS 1078 1083	32 cm
+T38	Concept_Idea 1087 1096	grand axe
+T39	ANAT 1211 1227	corps vertébraux
+T40	ANAT 1262 1284	membranes intestinales
+T41	ANAT 1301 1331	zones mésenchymateuses interne
+T42	ANAT 1362 1386	parties molles ovalaires
+T43	ANAT 1423 1458	ventricules thyroïdiens superficiel
+T44	MEAS 1474 1492	légèrement altérée

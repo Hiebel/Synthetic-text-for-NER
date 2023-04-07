@@ -1,0 +1,19 @@
+T1	LIVB 20 28	patiente
+T2	DISO 45 70	antécédents pathologiques
+T3	MEAS 71 79	notables
+T4	PROC 81 89	adressée
+T5	Hospital 94 102	urgences
+T6	DISO 111 148	traumatisme ischémique du pied gauche
+T7	ANAT 137 148	pied gauche
+T8	Localization 142 148	gauche
+T9	PROC 152 177	intervention chirurgicale
+T10	DEVI 216 234	greffon artificiel
+T11	Concept_Idea 251 261	profondeur
+T13	PHEN 294 306	dorsiflexion
+T14	PROC 314 333	rééducation motrice
+T15	PROC 338 368	bilan biologique préopératoire
+T16	PROC 392 416	examens ophtalmologiques
+T17	MEAS 437 452	dans les normes
+T18	PROC 466 497	échographie abdomino- pelvienne
+T19	ANAT 478 497	abdomino- pelvienne
+T20	DISO 526 535	anomalies

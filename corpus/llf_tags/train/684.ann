@@ -1,0 +1,34 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 33 38	5 ans
+T3	LIVB 246 253	cousine
+T4	LIVB 261 266	fille
+T5	PHEN 306 326	mariages consanguins
+T6	LIVB 444 446	sa
+T7	LIVB 447 451	sœur
+T8	LIVB 684 687	son
+T9	LIVB 688 694	épouse
+T10	LIVB 769 773	elle
+T11	LIVB 808 815	garçons
+T12	PROC 1092 1111	enquête étiologique
+T13	LIVB 1214 1219	homme
+T14	MEAS 1266 1270	deux
+T15	LIVB 1278 1285	enfants
+T16	TEMP 1371 1375	3ans
+T17	TEMP 1379 1386	4 jours
+T18	LIVB 1484 1488	nous
+T19	LIVB 1835 1845	nouveau-né
+T20	LIVB 1864 1879	famille élargie
+T21	MEAS 1890 1902	10 personnes
+T23	LIVB 2355 2357	il
+T24	DISO 2494 2528	crises convulsives tonicocloniques
+T25	PHEN 2556 2571	transit auditif
+T26	DISO 2586 2607	distension thoracique
+T27	ANAT 2597 2607	thoracique
+T28	TEMP 2623 2641	2 heures plus tard
+T29	MEAS 2661 2687	spontanément paroxystiques
+T30	DISO 2750 2762	vomissements
+T31	ANAT 2798 2820	membre inférieur droit
+T32	Localization 2815 2820	droit
+T33	CHEM 2852 2866	neuroleptiques
+T35	LIVB 3825 3833	patients
+T36	DISO 3940 3969	symptomatologie psychiatrique

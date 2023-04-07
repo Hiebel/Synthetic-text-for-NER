@@ -1,0 +1,55 @@
+T1	LIVB 15 22	patient
+T2	DISO 77 95	choc hypovolémique
+T3	MEAS 110 123	plus marquées
+T4	MEAS 168 195	spontanément plus accentuée
+T5	DISO 203 224	hémiplégie symétrique
+T6	DISO 261 278	souffrance vitale
+T7	PROC 312 350	ponction liquide pleuro-pneumo-myéline
+T9	PROC 351 354	PLP
+T10	PROC 359 367	anamnèse
+T11	DISO 392 419	dyspnée stade III de Sadoul
+T12	MEAS 434 440	rapide
+T13	DEVI 563 587	équipements oculomoteurs
+T14	DISO 603 649	détresse respiratoire dyspnéato-bradycardiaque
+T15	MEAS 662 669	brutale
+T16	DISO 748 807	sensibilité sous-diaphragmatique thoracique latérale droite
+T17	ANAT 760 807	sous-diaphragmatique thoracique latérale droite
+T18	Localization 801 807	droite
+T19	PROC 811 833	examen ophtalmologique
+T20	DISO 845 858	particularité
+T21	ANAT 872 881	œil droit
+T22	Localization 876 881	droit
+T23	Concept_Idea 896 906	œil gauche
+T24	Localization 900 906	gauche
+T25	DISO 920 971	œdème papuleux érythémateux des paupières infirines
+T27	ANAT 952 971	paupières infirines
+T28	PROC 1000 1021	prélèvement biopsique
+T29	PROC 1026 1073	scanner thoraco abdomino- pelvien transfixiante
+T30	ANAT 1034 1073	thoraco abdomino- pelvien transfixiante
+T31	PROC 1075 1079	TSAT
+T34	Localization 1157 1160	sus
+T36	ANAT 1227 1251	structures mésentériques
+T37	ANAT 1288 1306	organes spléniques
+T38	DISO 1329 1394	thrombose artérielle tissulaire pariétale hypoéchogène hétérogène
+T40	DISO 1410 1452	pancréatectomie mal cicatricielle kystique
+T41	PROC 1479 1500	excision chirurgicale
+T42	PROC 1518 1549	contraception anti progestative
+T43	CHEM 1532 1549	anti progestative
+T44	PROC 1705 1720	interventionnel
+T45	PROC 1766 1802	traitement substitutif médicamenteux
+T46	PROC 1809 1832	radiothérapie adjuvante
+T47	CHEM 1985 1996	ethionamide
+T48	CHEM 1998 2008	cisplatine
+T49	CHEM 2010 2023	dexaméthasone
+T50	CHEM 2026 2036	furosémide
+T51	CHEM 2038 2052	hydrocortisone
+T52	CHEM 2054 2067	vinblastidine
+T53	CHEM 2069 2081	pyrazinamide
+T54	CHEM 2083 2095	doxorubicine
+T55	CHEM 2097 2109	Cevrelizumab
+T56	DOSE 2111 2117	200 mg
+T57	MODE 2117 2128	/voie orale
+T58	CHEM 2151 2164	métronidazole
+T59	DOSE 2165 2171	1mg/kg
+T60	TEMP 2171 2173	/J
+T61	MEAS 2269 2273	5 cm

@@ -1,0 +1,19 @@
+T1	LIVB 20 28	patiente
+T2	MEAS 53 54	3
+T3	LIVB 55 62	garçons
+T4	PROC 79 87	vaccinés
+T5	DISO 97 119	rendez-vous infectieux
+T6	PHEN 144 153	grossesse
+T7	TEMP 163 183	six jours auparavant
+T8	PROC 204 229	consultation obstétricale
+T9	PROC 243 253	transfusée
+T10	PROC 275 304	contraception extracorporelle
+T11	ANAT 325 344	orifices herniaires
+T12	DEVI 376 398	manucure haute couture
+T14	DISO 483 504	problèmes intestinaux
+T15	PROC 541 568	traitements antibacillaires
+T16	DISO 598 622	symptomatologie clinique
+T17	TEMP 633 641	6 heures
+T18	LIVB 655 663	patiente
+T19	CHEM 746 763	bièreµgourmandise
+T20	PROC 812 838	auscultation préopératoire

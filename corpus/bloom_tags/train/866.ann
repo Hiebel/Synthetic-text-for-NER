@@ -1,0 +1,30 @@
+T1	LIVB 16 24	patiente
+T2	DISO 59 84	vomissements alimentaires
+T3	DISO 113 127	amaigrissement
+T4	MEAS 138 142	7 kg
+T5	Concept_Idea 149 155	aspect
+T6	DISO 161 256	syndrome d'épanchement intra-parenchymateux liquidien pariétal hypogastro œsophagienne biliaire
+T8	MEAS 268 283	progressivement
+T9	Concept_Idea 287 293	volume
+T10	Concept_Idea 324 336	état général
+T11	DISO 362 394	lésions pigmentées prurigineuses
+T12	PROC 408 437	prélèvements bactériologiques
+T13	DISO 451 472	détresse respiratoire
+T14	PHEN 460 472	respiratoire
+T15	MEAS 482 492	importante
+T16	DISO 571 586	symptomatologie
+T17	LIVB 615 624	patientes
+T18	DISO 725 742	douleur pelvienne
+T19	ANAT 733 742	pelvienne
+T20	MEAS 757 763	rapide
+T21	Hospital 784 807	maternité périphériques
+T22	TEMP 842 848	25 ans
+T23	LIVB 883 887	elle
+T24	DISO 906 926	céphalées fébuleuses
+T25	DISO 936 960	méningo-schwannelliforme
+T26	DISO 982 1000	diarrhée purulente
+T27	MEAS 1030 1034	2 cm
+T28	Concept_Idea 1038 1046	diamètre
+T29	MEAS 1117 1122	200 g
+T30	DISO 1160 1190	symptomatologie psychiatriques
+T31	DISO 1223 1238	retard scolaire

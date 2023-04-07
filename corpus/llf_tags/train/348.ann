@@ -1,0 +1,29 @@
+T1	LIVB 15 22	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	DISO 99 122	hypertension artérielle
+T5	ANAT 112 122	artérielle
+T6	PROC 126 141	examen clinique
+T7	PROC 146 155	admission
+T8	LIVB 166 173	patient
+T9	MEAS 177 184	mauvais
+T10	Concept_Idea 185 197	état général
+T11	DISO 207 228	signes inflammatoires
+T12	ANAT 232 254	membre supérieur droit
+T13	Localization 249 254	droit
+T14	TEMP 264 284	depuis deux semaines
+T15	PROC 300 316	examen somatique
+T16	DISO 326 339	particularité
+T17	PROC 344 363	pression artérielle
+T18	ANAT 353 363	artérielle
+T19	MEAS 374 386	120/130 mmHg
+T20	PHEN 393 415	fréquence respiratoire
+T21	PROC 417 419	FR
+T22	MEAS 436 444	4 cycles
+T23	TEMP 445 455	par minute
+T24	PROC 489 507	traitement médical
+T25	CHEM 512 525	amoxicilline®
+T26	PROC 568 595	mesures hygiéno-diététiques
+T27	MEAS 635 642	simples
+T28	PROC 648 670	contrôle échographique
+T29	TEMP 688 696	six mois

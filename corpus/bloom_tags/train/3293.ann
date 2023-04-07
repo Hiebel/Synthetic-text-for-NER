@@ -1,0 +1,48 @@
+T1	LIVB 20 28	patiente
+T2	DISO 50 75	antécédents pathologiques
+T3	MEAS 76 84	notables
+T4	DISO 104 130	tuméfaction du sein gauche
+T5	ANAT 119 130	sein gauche
+T6	Localization 124 130	gauche
+T7	MEAS 142 157	progressivement
+T8	Concept_Idea 161 167	taille
+T9	TEMP 177 193	depuis deux mois
+T10	PROC 197 212	examen clinique
+T11	PROC 217 226	admission
+T12	DISO 247 294	masse tissulaire des quadrantes latéro-utérines
+T13	ANAT 268 294	quadrantes latéro-utérines
+T14	MEAS 304 308	3 cm
+T15	Concept_Idea 312 321	grand axe
+T16	PHEN 349 358	injection
+T17	CHEM 362 382	produit de contraste
+T18	DISO 410 424	amaigrissement
+T19	MEAS 435 440	12 kg
+T20	TEMP 444 453	deux mois
+T21	LIVB 455 459	Elle
+T22	MEAS 474 481	pT3N0M0
+T23	PROC 485 515	échographie abdomino-pelvienne
+T24	ANAT 497 515	abdomino-pelvienne
+T25	DISO 544 561	lésions tumorales
+T26	PROC 578 605	TDM pelvienne transfixiante
+T27	ANAT 582 605	pelvienne transfixiante
+T28	PROC 607 610	ETT
+T29	PROC 626 637	c'lioscopie
+T30	DISO 650 701	processus tumoral kystique lithiasique hypopigmenté
+T31	MEAS 710 714	4 cm
+T32	Concept_Idea 718 727	grand axe
+T33	ANAT 749 765	parois vaginales
+T34	ANAT 787 804	cavité abdominale
+T35	DISO 847 893	métastases nécrose érythémato-mégacôlonuleuses
+T36	DISO 931 947	signes cliniques
+T37	DISO 985 1018	syndrome inflammatoire biologique
+T38	DISO 1028 1049	anomalie métaboliques
+T39	DISO 1067 1073	tumeur
+T40	Hospital 1101 1114	locorégionale
+T41	DISO 1146 1179	prise médicamenteuse hypertensive
+T42	LIVB 1201 1209	patiente
+T43	PROC 1226 1253	examen anatomo-pathologique
+T44	PROC 1267 1299	recherche d'immuno-histochimique
+T45	PROC 1358 1378	bilan préchirurgical
+T46	DISO 1398 1422	fistule placenta utérine
+T47	ANAT 1406 1422	placenta utérine
+T48	DISO 1429 1451	résidu pérituberculeux

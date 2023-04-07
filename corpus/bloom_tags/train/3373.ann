@@ -1,0 +1,27 @@
+T1	LIVB 19 24	homme
+T2	Concept_Idea 41 52	antécédents
+T3	MEAS 53 61	notables
+T4	PROC 63 68	admis
+T5	Hospital 73 81	urgences
+T6	DISO 91 118	douleurs abdominales aiguës
+T7	ANAT 100 111	abdominales
+T8	TEMP 128 146	depuis une semaine
+T9	DISO 154 169	symptomatologie
+T10	DISO 190 223	syndrome d'épanchement péritonéal
+T11	ANAT 213 223	péritonéal
+T12	PROC 238 253	examen clinique
+T13	LIVB 257 263	malade
+T14	PROC 286 314	échographie abdomino-utérine
+T15	ANAT 298 314	abdomino-utérine
+T16	PROC 316 319	ETU
+T17	DISO 341 399	lésion tissulaire hypo échogéante polylobée du flanc droit
+T18	ANAT 388 399	flanc droit
+T19	Localization 394 399	droit
+T20	MEAS 409 413	6 cm
+T21	Concept_Idea 417 426	grand axe
+T22	ANAT 443 463	fosse iliaque droite
+T23	Localization 457 463	droite
+T24	PHEN 491 512	contractions utérines
+T25	ANAT 504 512	utérines
+T26	PROC 537 546	injection
+T28	DISO 598 607	polylobée

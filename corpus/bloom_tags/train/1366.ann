@@ -1,0 +1,32 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 71 83	particuliers
+T3	PROC 85 91	suivie
+T4	DISO 100 133	syndrome néphrotique hypertensive
+T5	TEMP 143 156	depuis 3 mois
+T6	Concept_Idea 202 214	état général
+T7	DISO 231 246	symptomatologie
+T8	TEMP 257 264	3 jours
+T9	LIVB 271 274	son
+T10	PROC 275 284	admission
+T11	DISO 316 333	dyspnée sifflante
+T12	MEAS 348 359	progressive
+T13	PHEN 365 389	contractions thoraciques
+T14	ANAT 378 389	thoraciques
+T15	MEAS 426 434	modérées
+T16	DISO 440 474	ictère cutanéo-muqueux prurigineux
+T17	MEAS 489 495	rapide
+T18	DISO 516 532	troubles visuels
+T19	DISO 590 605	symptomatologie
+T20	DISO 643 670	douleurs abdominales aiguës
+T21	MEAS 680 693	plus intenses
+T22	DISO 715 727	métrorragies
+T23	MEAS 739 754	progressivement
+T24	Concept_Idea 758 764	taille
+T25	ANAT 836 844	vaginaux
+T26	PROC 848 871	examen clinique initial
+T27	LIVB 885 893	patiente
+T28	Concept_Idea 919 937	plan hémodynamique
+T29	Localization 952 955	sus
+T30	Localization 1144 1148	sous
+T31	Localization 1184 1193	bilatéral
+T32	DISO 1217 1254	masse bourgeonnante tumorale kystique

@@ -1,0 +1,25 @@
+T1	LIVB 16 24	patiente
+T2	Hospital 60 85	urgences ophtalmologiques
+T3	DISO 95 112	céphalées fébrile
+T4	TEMP 135 148	depuis 6 mois
+T5	DISO 168 182	amaigrissement
+T6	MEAS 193 198	13 kg
+T7	PHEN 229 238	grossesse
+T8	DISO 250 259	anomalies
+T9	LIVB 279 285	enfant
+T10	DISO 382 399	thromborésistants
+T11	DEVI 413 439	sonde oeso-gastroduodénale
+T13	Localization 441 444	sus
+T14	PROC 472 511	stabilisation hémorragique chirurgicale
+T15	DISO 516 538	douleurs épigastriques
+T16	ANAT 525 538	épigastriques
+T17	DISO 560 586	malformations congénitales
+T18	DISO 706 736	symptomatologie postopératoire
+T19	DISO 921 935	intuberculoïde
+T20	DISO 974 997	déficit sensitivomoteur
+T21	TEMP 1142 1148	10 ans
+T22	PROC 1163 1192	prise médicamenteuse curative
+T23	PROC 1221 1258	psychothérapie cognitivo-combattuelle
+T24	MEAS 1339 1353	2 000 éléments
+T25	PROC 1380 1395	examen clinique
+T26	LIVB 1409 1414	fille

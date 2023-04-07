@@ -1,0 +1,28 @@
+T1	LIVB 20 28	patiente
+T2	MEAS 45 54	nullipare
+T3	DISO 61 84	antécédent pathologique
+T4	MEAS 85 96	particulier
+T5	PROC 100 120	examen gynécologique
+T6	ANAT 131 141	col utérin
+T7	MEAS 142 152	longiligne
+T8	Concept_Idea 155 166	circulation
+T9	MEAS 167 172	lente
+T10	PHEN 182 203	contractions utérines
+T11	ANAT 195 203	utérines
+T12	MEAS 204 212	diffuses
+T13	PROC 216 246	échographie abdomino-pelvienne
+T14	ANAT 228 246	abdomino-pelvienne
+T15	DISO 267 316	masse tumorale du pelvien inféro-supérieur gauche
+T16	ANAT 285 316	pelvien inféro-supérieur gauche
+T17	Localization 310 316	gauche
+T18	MEAS 326 329	5cm
+T19	Concept_Idea 333 347	grand diamètre
+T20	ANAT 363 389	hypothalamus hypogastrique
+T21	DISO 402 430	adénocarcinome endometrioïde
+T22	PROC 450 475	scanner abdomino périnéal
+T23	ANAT 458 475	abdomino périnéal
+T24	DISO 502 524	épanchement péritonéal
+T25	ANAT 514 524	péritonéal
+T26	ANAT 532 565	flux vésiculo-gastroduodéno-cæcal
+T27	ANAT 583 599	paroi abdominale
+T28	ANAT 630 648	anses intestinales

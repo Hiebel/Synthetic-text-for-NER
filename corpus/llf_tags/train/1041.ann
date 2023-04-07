@@ -1,0 +1,43 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 66	antécédents pathologiques
+T3	MEAS 67 79	particuliers
+T4	PROC 90 102	hospitalisée
+T5	Hospital 111 118	service
+T6	Concept_Idea 144 156	état général
+T7	PROC 160 175	examen clinique
+T8	PROC 195 205	inspection
+T9	ANAT 209 216	abdomen
+T10	MEAS 217 227	légèrement
+T11	DISO 228 236	distendu
+T12	PHEN 243 258	fonction rénale
+T13	ANAT 252 258	rénale
+T14	MEAS 265 272	normale
+T15	PROC 288 304	examen somatique
+T16	DISO 316 329	particularité
+T17	PROC 334 359	tomodensitométrie du foie
+T18	ANAT 355 359	foie
+T19	PROC 361 390	TDM) thoraco-abdomino-pelvien
+T20	ANAT 366 390	thoraco-abdomino-pelvien
+T21	DISO 434 458	troubles électrolytiques
+T22	PROC 478 493	prise en charge
+T23	PROC 499 520	examens paracliniques
+T24	DISO 543 552	anomalies
+T25	PROC 567 589	sérologies virales IgM
+T26	CHEM 590 634	acide valproiqueµ 20 mg/24hneumocriptoréline
+T27	TEMP 643 651	/semaine
+T28	Concept_Idea 665 691	tableau clinico-biologique
+T29	DISO 786 808	péritonite infectieuse
+T30	PROC 901 906	opéré
+T31	PROC 960 983	toilette postopératoire
+T32	PROC 989 1024	lavage broncho-oeso-gastro-duodénal
+T33	ANAT 996 1024	broncho-oeso-gastro-duodénal
+T34	PROC 1051 1074	remplissage chirurgical
+T35	PROC 1082 1092	traitement
+T36	DISO 1175 1197	symptômes obstétricaux
+T37	PROC 1239 1251	radiologique
+T38	PROC 1274 1305	reprise thérapeutique adjuvante
+T39	PROC 1344 1377	corticothérapie substitutionnelle
+T40	PROC 1401 1434	néphrectomie totale scanno-guidée
+T41	PROC 1647 1668	contrôle radiologique
+T42	TEMP 1784 1790	7 mois
+T43	TEMP 1794 1800	9 mois

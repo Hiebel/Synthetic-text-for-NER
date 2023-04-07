@@ -1,0 +1,11 @@
+T1	PROC 22 51	thyroïdectomie totale élargie
+T2	PROC 55 73	étude histologique
+T3	DISO 101 124	tumeur du scalp frontal
+T4	ANAT 111 124	scalp frontal
+T5	MEAS 134 139	12 cm
+T6	Concept_Idea 143 152	grand axe
+T7	DISO 236 249	particularité
+T8	LIVB 256 263	patient
+T9	PROC 277 298	traitement antalgique
+T10	CHEM 288 298	antalgique
+T11	TEMP 322 329	13 mois

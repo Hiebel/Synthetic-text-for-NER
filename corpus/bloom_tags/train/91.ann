@@ -1,0 +1,40 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	DISO 50 88	syndrome d’épanchement intrapéritonéal
+T4	ANAT 73 88	intrapéritonéal
+T5	Concept_Idea 134 146	état général
+T6	DISO 169 190	détresse respiratoire
+T7	PHEN 178 190	respiratoire
+T8	CHEM 226 245	médicaments inhalés
+T9	PROC 251 298	ponction pleurésie liquidienne intrarachidienne
+T10	ANAT 260 298	pleurésie liquidienne intrarachidienne
+T11	PROC 324 348	exploration chirurgicale
+T12	DISO 380 405	localisations secondaires
+T13	DISO 422 453	lymphœdème sous cutanéo-crânien
+T14	ANAT 433 453	sous cutanéo-crânien
+T15	LIVB 456 458	Il
+T16	PROC 472 505	traitement médical antibacillaire
+T17	CHEM 516 547	amoxicilline-acide clavulanique
+T18	CHEM 549 563	ciprofloxacine
+T19	CHEM 565 576	rifampicine
+T20	CHEM 578 588	ethambutol
+T21	CHEM 590 602	Pyrazinamide
+T22	CHEM 604 615	Ceftriaxone
+T23	CHEM 617 628	Ethionamide
+T24	CHEM 630 641	Cyclosérine
+T25	CHEM 643 661	Méthylprednisolone
+T26	CHEM 663 671	Diazépam
+T27	CHEM 674 685	Nicardipril
+T28	CHEM 687 700	Bromocriptine
+T29	CHEM 702 716	Chlorpromazine
+T30	CHEM 718 747	Triméthoprime/ulfaméthoxazole
+T31	CHEM 749 758	Captopril
+T32	CHEM 760 771	Enoxaparine
+T33	MODE 773 783	voie orale
+T34	CHEM 795 809	béta-méthasone
+T35	MEAS 846 852	rapide
+T36	DISO 859 880	polyradiculonévralgie
+T37	MEAS 890 914	modérément fonctionnelle
+T38	PROC 956 981	surveillance radiologique
+T39	DISO 1012 1029	résidu tissulaire
+T40	DISO 1192 1207	symptomatologie

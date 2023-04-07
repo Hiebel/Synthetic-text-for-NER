@@ -1,0 +1,42 @@
+T1	LIVB 16 21	femme
+T2	PROC 47 59	hospitalisée
+T3	DISO 68 141	adénocarcinome du sinus paryso-épineux inféro-cervico-thoracique infilcré
+T5	MEAS 151 156	13 cm
+T6	MEAS 161 165	7 cm
+T7	ANAT 182 202	fosse iliaque droite
+T8	Localization 196 202	droite
+T9	MEAS 249 257	notables
+T10	DISO 275 301	carcinose parathyroïdienne
+T11	ANAT 285 301	parathyroïdienne
+T12	PROC 307 333	traitement médical curatif
+T13	CHEM 339 349	cisplatine
+T14	CHEM 352 364	carboplatine
+T15	DISO 369 389	hypertrophie utérine
+T16	ANAT 382 389	utérine
+T17	DISO 412 428	signes cliniques
+T18	TEMP 454 467	depuis 2 mois
+T19	DISO 505 519	ictère fébrile
+T20	Concept_Idea 552 567	acuité visuelle
+T21	MEAS 582 593	progressive
+T22	Concept_Idea 637 649	état général
+T23	DISO 724 749	instabilité hémodynamique
+T24	MEAS 761 769	15/10cm2
+T25	MEAS 781 796	progressivement
+T26	Concept_Idea 800 808	diamètre
+T27	PROC 837 864	prélèvement bactériologique
+T28	Hospital 890 906	milieux ambiants
+T29	DISO 925 954	tuberculose pleuro-pulmonaire
+T30	ANAT 937 954	pleuro-pulmonaire
+T31	LIVB 973 981	patiente
+T32	PROC 1000 1021	recherche étiologique
+T33	MEAS 1034 1052	fortement suspecté
+T34	DISO 1080 1096	hyperleucocytose
+T35	MEAS 1110 1120	secondaire
+T36	DISO 1138 1179	syndrome d’épanchement liquidien purulent
+T37	ANAT 1161 1179	liquidien purulent
+T38	ANAT 1194 1220	hémithorax inferieur droit
+T39	Localization 1215 1220	droit
+T40	DISO 1239 1260	détresse respiratoire
+T41	PHEN 1248 1260	respiratoire
+T42	MEAS 1283 1294	progressive
+T43	ANAT 1306 1333	annexes pyélo-mésentériques

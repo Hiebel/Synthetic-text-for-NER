@@ -1,0 +1,61 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	12 ans
+T3	DISO 26 51	antécédents pathologiques
+T4	MEAS 52 60	notables
+T5	PROC 62 72	consultait
+T6	Hospital 77 85	urgences
+T7	DISO 95 129	douleurs abdomino-pelvienne aiguës
+T8	ANAT 104 122	abdomino-pelvienne
+T9	DISO 146 152	fièvre
+T10	PROC 169 184	examen clinique
+T11	LIVB 197 203	enfant
+T12	MEAS 207 216	assez bon
+T13	Concept_Idea 217 229	état général
+T14	Concept_Idea 247 265	plan hémodynamique
+T15	LIVB 267 269	Il
+T16	DISO 311 322	polypnéique
+T17	PROC 360 385	surveillance respiratoire
+T18	PHEN 373 385	respiratoire
+T19	DEVI 389 410	cathéter artériolaire
+T20	ANAT 398 410	artériolaire
+T21	PROC 415 446	radiographie standard du thorax
+T22	ANAT 440 446	thorax
+T23	DISO 464 501	opacité hilaire basithoracique droite
+T24	ANAT 472 501	hilaire basithoracique droite
+T25	Localization 495 501	droite
+T26	MEAS 538 542	35mm
+T27	Concept_Idea 546 555	grand axe
+T28	PROC 577 604	scanner thoracique infarcté
+T29	ANAT 585 604	thoracique infarcté
+T30	DISO 640 649	anomalies
+T31	DISO 674 759	atteinte pariéto-supra-lésionnelle pariéto-épiphyso-métacarpienne latéro-dorsiflexure
+T33	TEMP 769 782	depuis 4 mois
+T34	PROC 788 806	traitement curatif
+T35	CHEM 821 839	bronchodilatateurs
+T36	CHEM 845 863	méthylprédnisolone
+T37	TEMP 870 875	/jour
+T38	DISO 891 912	détresse respiratoire
+T39	MEAS 927 938	progressive
+T40	DISO 952 977	légère anxiolyse visuelle
+T41	MEAS 987 1000	symptomatique
+T42	DISO 1058 1088	syndrome d'épanchement pleural
+T43	ANAT 1081 1088	pleural
+T44	DISO 1111 1128	récidive tumorale
+T45	DISO 1138 1167	complication thromboembolique
+T46	DISO 1198 1208	pathologie
+T47	MEAS 1230 1239	favorable
+T48	TEMP 1255 1260	6mois
+T49	PROC 1290 1320	échographie abdomino-pelvienne
+T50	ANAT 1302 1320	abdomino-pelvienne
+T51	DISO 1345 1370	lésions viscercellulaires
+T52	PROC 1404 1413	admission
+T53	DISO 1440 1452	métrorragies
+T54	DISO 1471 1500	sténoses vésiculaire utérines
+T55	ANAT 1480 1500	vésiculaire utérines
+T56	LIVB 1527 1533	femmes
+T57	PROC 1611 1635	consultations prénatales
+T58	TEMP 1675 1680	2 ans
+T59	ANAT 1796 1820	ovarienne biligéo-cæcale
+T60	LIVB 2039 2046	famille
+T61	PROC 2204 2243	technique fœtale d'immuno-radiothérapie
+T62	PROC 2244 2247	FRT

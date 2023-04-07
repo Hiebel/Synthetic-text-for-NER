@@ -1,0 +1,57 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	8 ans
+T4	DISO 189 223	fibrillation sinusulo-carotidienne
+T5	ANAT 202 223	sinusulo-carotidienne
+T6	PROC 246 273	protocole d’prise en charge
+T7	PROC 297 301	reçu
+T8	Hospital 306 327	urgences pédiatriques
+T9	PHEN 350 387	récupérations psychomotrices motrices
+T10	TEMP 397 413	depuis deux mois
+T11	LIVB 421 423	il
+T12	LIVB 504 511	patient
+T13	DISO 540 560	syndrome d’épilepsie
+T14	PROC 586 605	traitement adjuvant
+T15	CHEM 643 656	nicardipiline
+T16	CHEM 671 691	méthyl-dopaeridolone
+T17	PROC 696 710	interrogatoire
+T18	LIVB 734 736	on
+T19	LIVB 764 776	jeune garçon
+T20	LIVB 786 788	on
+T21	DISO 830 858	traumatisme crânio-cérébrale
+T22	MEAS 929 941	perte de vue
+T23	DISO 954 977	symptômes neurologiques
+T24	MEAS 992 1003	progressive
+T25	DISO 1020 1041	diplopie hémorragique
+T26	DISO 1157 1193	neurorétinophlébitis séreux purulent
+T27	DISO 1213 1243	signes neurosensoriels altérés
+T28	PROC 1308 1426	ponction pleurésie pariétale inféro-médio-latérale médiastinale liquidienne intrarectale trans-thoracique exploratrice
+T30	PROC 1427 1431	TITM
+T31	Localization 1433 1436	sus
+T32	MEAS 1464 1472	négative
+T33	PROC 1487 1515	tomodensitométrie thoracique
+T34	ANAT 1505 1515	thoracique
+T39	MEAS 2057 2060	3 e
+T40	DEVI 2099 2106	médiane
+T41	PROC 2112 2121	admission
+T42	Hospital 2125 2143	service d'urologie
+T43	LIVB 2148 2156	patiente
+T44	Concept_Idea 2166 2178	état général
+T45	MEAS 2184 2187	bon
+T46	PHEN 2197 2218	contractions utérines
+T47	ANAT 2210 2218	utérines
+T48	MEAS 2219 2227	modérées
+T49	PROC 2231 2262	échographie abdomino- pelvienne
+T50	ANAT 2243 2262	abdomino- pelvienne
+T51	DISO 2274 2283	anomalies
+T52	PROC 2298 2333	examens complémentaires biologiques
+T53	PROC 2336 2363	numération formule sanguine
+T54	PROC 2365 2384	protéine C réactive
+T55	PROC 2386 2389	CRP
+T56	PROC 2392 2408	glycémie glyquée
+T57	PROC 2410 2430	globules blancs/mm 3
+T58	PROC 2436 2459	scanner abdominopelvien
+T59	ANAT 2444 2459	abdominopelvien
+T60	DISO 2486 2525	hyperplasie du grêle bilio-pancréatique
+T61	ANAT 2501 2525	grêle bilio-pancréatique
+T62	MEAS 2539 2544	15 cm
+T63	Concept_Idea 2548 2557	grand axe

@@ -1,0 +1,17 @@
+T1	DISO 74 103	dyspnée sifflante douloureuse
+T2	PROC 190 224	enquête étiologique complémentaire
+T3	DISO 260 284	symptomatologie initiale
+T4	PROC 289 303	suivi clinique
+T5	LIVB 321 327	enfant
+T6	DISO 344 364	récidive psychotique
+T7	DISO 375 397	comportements anormaux
+T8	PROC 427 448	surveillance médicale
+T9	MEAS 465 469	N° 3
+T10	LIVB 489 499	nourrisson
+T11	Localization 655 666	côté opposé
+T12	MEAS 676 690	12 centimètres
+T13	MEAS 745 758	7 centimètres
+T14	MEAS 816 823	simples
+T15	PROC 828 853	examen neuropsychiatrique
+T16	PROC 871 897	consultation psychiatrique
+T17	PROC 911 941	psycho-orthopédie exploratrice

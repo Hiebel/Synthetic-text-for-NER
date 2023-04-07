@@ -1,0 +1,23 @@
+T1	PROC 3 20	bilan étiologique
+T2	DISO 43 72	maladie de Von Recklinghausen
+T3	PROC 77 99	radiographie du thorax
+T4	ANAT 93 99	thorax
+T5	DISO 116 132	hyperleucocytose
+T6	MEAS 135 169	12300 éléments par millimètre cube
+T7	Concept_Idea 179 188	caractère
+T8	ANAT 231 249	cellules tumorales
+T9	Localization 258 272	partie distale
+T10	DISO 282 291	anomalies
+T11	PROC 297 339	tomodensitométrie (TDM) thoraco-abdominale
+T12	ANAT 321 339	thoraco-abdominale
+T13	Concept_Idea 375 396	résultat radiologique
+T14	Concept_Idea 411 441	limites d'exérèse chirurgicale
+T15	PROC 421 441	exérèse chirurgicale
+T16	MEAS 454 460	saines
+T17	MEAS 497 504	simples
+T18	PROC 510 536	anticoagulation préventive
+T19	TEMP 540 552	sixième jour
+T20	PROC 561 573	intervention
+T21	PROC 586 611	remplissage péricardiaque
+T22	ANAT 598 611	péricardiaque
+T23	TEMP 629 640	quatre mois

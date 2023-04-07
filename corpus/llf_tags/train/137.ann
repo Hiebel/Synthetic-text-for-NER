@@ -1,0 +1,81 @@
+T1	PROC 3 8	suivi
+T2	LIVB 15 23	patiente
+T3	DISO 44 53	anomalies
+T4	ANAT 67 78	sein gauche
+T5	Localization 72 78	gauche
+T6	PROC 84 99	examen clinique
+T7	Concept_Idea 120 132	état général
+T8	MEAS 133 139	altéré
+T9	DISO 149 170	distension abdominale
+T10	ANAT 160 170	abdominale
+T11	DISO 178 190	vomissements
+T12	DISO 206 217	traumatisme
+T13	DISO 227 248	symptôme pathologique
+T14	PROC 260 270	examen ORL
+T15	PHEN 292 297	pouls
+T16	MEAS 300 309	50 cycles
+T17	TEMP 310 321	par minutes
+T18	MEAS 328 354	6 fois la pression normale
+T19	PROC 420 426	sortie
+T20	PROC 448 460	avis médical
+T21	PROC 494 503	admission
+T22	PROC 509 548	TDM cervico-thoraco-abdomino- pelvienne
+T23	ANAT 513 548	cervico-thoraco-abdomino- pelvienne
+T27	Localization 665 673	gauches"
+T28	ANAT 698 713	anses grêliques
+T29	ANAT 734 774	région temporale supérieure homolatérale
+T30	Localization 762 774	homolatérale
+T31	MEAS 784 788	1 cm
+T32	Concept_Idea 792 801	grand axe
+T33	MEAS 810 814	8 cm
+T34	Concept_Idea 818 825	largeur
+T35	Concept_Idea 859 868	caractère
+T36	Concept_Idea 891 896	forme
+T37	DISO 922 949	membrane érectile polylobée
+T38	ANAT 959 976	fibres colloïdaux
+T39	Concept_Idea 1028 1033	plage
+T41	ANAT 1400 1418	cellules tumorales
+T44	DEVI 1796 1833	matériels d'ostéosynthèse pédiatrique
+T45	ANAT 1881 1968	ganglions para vertébraux céphaliques controlatéraux antérolatéraux supraventriculaires
+T48	Localization 2205 2213	en avant
+T49	Concept_Idea 2240 2259	aspect histologique
+T50	Concept_Idea 2308 2342	constatations anatomopathologiques
+T51	DISO 2378 2416	hypothèses diagnostiques anamnestiques
+T52	DISO 2443 2470	maladies neurodégénératives
+T53	DISO 2485 2514	maladie de Von Recklinghausen
+T54	DISO 2614 2632	syndrome démentiel
+T56	MEAS 2931 2938	simples
+T57	LIVB 2945 2952	patient
+T58	CHEM 2962 2977	fluoroquinolone
+T59	DOSE 2979 2985	1,5 ml
+T60	TEMP 2985 2987	/j
+T61	PROC 3006 3016	traitement
+T62	DISO 3035 3056	détresse respiratoire
+T63	PHEN 3044 3056	respiratoire
+T64	PROC 3065 3085	bilan pré-opératoire
+T65	MEAS 3101 3107	normal
+T66	LIVB 3134 3140	enfant
+T67	TEMP 3148 3154	7 mois
+T68	PROC 3366 3383	geste chirurgical
+T69	LIVB 3391 3396	fille
+T70	PROC 3403 3413	scolarisée
+T71	Hospital 3422 3447	collège public spécialisé
+T72	LIVB 3465 3469	elle
+T73	PROC 3488 3521	trophylaxie antiseptique générale
+T74	PROC 3535 3587	kinésithérapie respiratoire parentérale substitutive
+T75	Concept_Idea 3600 3622	paramètres biologiques
+T76	MEAS 3634 3646	prédominante
+T77	Concept_Idea 3659 3679	plan bactériologique
+T78	DISO 3720 3757	symptomatologie néonatale congénitale
+T79	DISO 3805 3849	pneumocéphalie primaire idiopathique maligne
+T80	PROC 3942 3970	antibiothérapie probabiliste
+T81	PROC 3986 4026	prise en charge adjuvante médicochimique
+T82	TEMP 4152 4158	8 mois
+T83	DISO 4164 4229	cyanome polyendocrine infiltrant tissulaire rénocemment métastasé
+T84	MEAS 4250 4256	T3N2Mx
+T85	MEAS 4266 4271	10 cm
+T86	MEAS 4274 4279	12 mm
+T87	DISO 4350 4409	dysfonction abdomino-duodénale hépato-rénalienne secondaire
+T88	ANAT 4362 4409	abdomino-duodénale hépato-rénalienne secondaire
+T89	DISO 4427 4464	hypertension intracrânienne terminale
+T90	ANAT 4440 4464	intracrânienne terminale

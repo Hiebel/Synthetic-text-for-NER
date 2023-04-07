@@ -1,0 +1,87 @@
+T1	DISO 33 39	signes
+T2	DISO 42 59	embole vasculaire
+T3	ANAT 49 59	vasculaire
+T4	PROC 64 81	tomodensitométrie
+T6	ANAT 88 114	thoraco-abdomino-pelvienne
+T7	DISO 131 161	masse tissulaire du rein droit
+T8	ANAT 151 161	rein droit
+T9	Localization 156 161	droit
+T10	MEAS 170 173	6cm
+T11	DISO 188 239	processus lésionnel des voies aériennes inferieures
+T12	ANAT 212 239	voies aériennes inferieures
+T13	Localization 228 239	inferieures
+T14	MEAS 249 263	12 centimètres
+T15	Concept_Idea 267 276	grand axe
+T16	ANAT 317 345	fosse infra temporale droite
+T17	Localization 339 345	droite
+T18	LIVB 382 389	patient
+T19	DISO 401 426	antécédents pathologiques
+T20	MEAS 427 439	particuliers
+T21	DISO 475 500	diabète insulinodépendant
+T22	DISO 510 537	obésité morbide congénitale
+T23	PROC 542 561	bilan préopératoire
+T24	PHEN 626 635	grossesse
+T25	TEMP 646 651	32 SA
+T26	CHEM 673 685	amoxicilline
+T27	CHEM 688 705	acide salicylique
+T28	CHEM 708 721	métronidazole
+T29	MEAS 773 780	simples
+T30	DISO 790 817	décompensation neurologique
+T31	PROC 846 851	suivi
+T32	Concept_Idea 864 884	aspect morphologique
+T33	DISO 901 930	hypertriglycéridémie primaire
+T34	DISO 946 973	souffrance cardiaque fœtale
+T35	ANAT 957 973	cardiaque fœtale
+T36	Hospital 985 996	littérature
+T37	PROC 1077 1101	consultations prénatales
+T38	PROC 1124 1153	prise en charge psychiatrique
+T39	PROC 1464 1498	traitement chirurgical substitutif
+T40	PROC 1504 1528	chimiothérapie adjuvante
+T41	PROC 1542 1574	transfusion intraveineuse totale
+T42	Concept_Idea 1606 1615	résultats
+T43	Concept_Idea 1641 1665	plan psychothérapeutique
+T44	LIVB 1737 1743	femmes
+T45	Concept_Idea 1828 1878	conditions socio-économiques socioprofessionnelles
+T46	LIVB 1989 2013	médecinspsychoéducateurs
+T47	PROC 2037 2062	échographie gynécologique
+T48	PROC 2081 2090	admission
+T49	DISO 2141 2161	primigeste nullipare
+T50	MEAS 2171 2172	3
+T51	LIVB 2173 2180	enfants
+T52	LIVB 2227 2229	sa
+T53	LIVB 2230 2240	belle-mère
+T54	LIVB 2244 2247	son
+T55	LIVB 2248 2258	nouveau-né
+T56	TEMP 2266 2273	18 mois
+T57	PHEN 2295 2304	grossesse
+T58	TEMP 2336 2347	21 semaines
+T59	Hospital 3023 3055	centre hospitalier universitaire
+T60	PROC 3073 3090	bilan étiologique
+T61	PROC 3117 3134	biopsie du scarpa
+T62	ANAT 3128 3134	scarpa
+T63	DISO 3151 3245	adénopathies cervicales hyperfixationnales métatarsiennes hypoachygèniques monofibroblastiques
+T64	DISO 3265 3286	récidive pathologique
+T65	DISO 3339 3375	myxome polypoïde épidermoïde maligne
+T66	ANAT 3399 3421	fragments sous cutanés
+T67	Localization 3429 3451	extrémités supérieures
+T68	DISO 3491 3539	métaplasie polymalformée liquidienne hétérodense
+T69	PROC 3588 3615	chorégyrotomie endoscopique
+T70	DISO 3680 3709	décompensation postopératoire
+T71	LIVB 3713 3721	patiente
+T72	CHEM 3744 3771	tamoxifenème biphosphonates
+T73	DOSE 3772 3778	400 mg
+T74	CHEM 3781 3795	gentaméthasone
+T75	DOSE 3797 3802	20 mg
+T76	CHEM 3807 3821	ciprofloxacine
+T77	DOSE 3823 3831	2 gramme
+T78	PROC 3855 3877	contrôle échographique
+T79	DISO 3906 3935	symptomatologie auto-infligée
+T80	DISO 3956 4002	consanguinité gémellaire dysproteinorbitémique
+T81	PROC 4021 4050	prélèvements bactériologiques
+T82	DISO 4083 4137	Mycoplasmapneumopathie pseudo-tuberculeuse congénitale
+T83	PROC 4142 4159	geste chirurgical
+T84	PROC 4183 4199	lavage abdominal
+T85	ANAT 4190 4199	abdominal
+T86	PROC 4206 4250	explorations cytobactériologiques scannotées
+T87	Concept_Idea 4288 4307	limites préétablies
+T88	DISO 4340 4366	synaptophyses bacillifères

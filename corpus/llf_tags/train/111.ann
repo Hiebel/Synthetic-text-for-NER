@@ -1,0 +1,76 @@
+T1	LIVB 4 9	femme
+T2	MEAS 34 39	trois
+T3	LIVB 40 47	enfants
+T4	PHEN 90 100	grossesses
+T5	PROC 105 112	suivies
+T7	PROC 195 222	accouchement par voie basse
+T8	PROC 225 254	allaitement maternel exclusif
+T9	PROC 256 278	consultation prénatale
+T10	PROC 320 329	admission
+T11	LIVB 345 350	maman
+T12	DISO 385 404	contage tuberculeux
+T13	DISO 415 439	complications néonatales
+T14	LIVB 490 501	parturiente
+T15	TEMP 626 635	24 heures
+T16	TEMP 639 646	4 jours
+T17	PROC 735 763	corticothérapie probabiliste
+T18	CHEM 769 779	isoniazide
+T19	DOSE 780 785	50 mg
+T20	TEMP 785 787	/j
+T21	CHEM 790 827	fénofibruroatedextreptyl prednisolone
+T22	DOSE 829 834	10 mg
+T23	TEMP 834 836	/j
+T24	CHEM 841 858	Temozolomidezumab
+T25	DOSE 860 865	40 mg
+T26	TEMP 865 867	/j
+T27	PROC 894 921	hospitalisation ambulatoire
+T28	PROC 948 964	bilan infectieux
+T29	PROC 980 1016	néphrectomie percutanée endovaginale
+T30	Localization 1031 1047	partie proximale
+T31	PROC 1073 1100	examen anatomo-pathologique
+T32	ANAT 1129 1165	parties molles cervico-mandibulaires
+T33	PROC 1183 1192	extirpées
+T34	MEAS 1229 1236	simples
+T35	MEAS 1522 1531	perméable
+T36	PROC 1543 1567	contrôle ophtalmologique
+T37	Concept_Idea 1608 1632	caractère prophylactique
+T38	DISO 1663 1682	signes oculomoteurs
+T39	ANAT 1782 1821	placentas nasogastroduodénaux digestifs
+T40	PROC 1879 1906	séances multidisciplinaires
+T41	PROC 1982 2010	manifestations obstétricales
+T42	PROC 2015 2042	transit intraveineux direct
+T43	PROC 2077 2096	geste préopératoire
+T44	TEMP 2108 2115	3heures
+T45	PROC 2124 2155	prélèvement des anses grêliques
+T46	ANAT 2140 2155	anses grêliques
+T47	ANAT 2169 2175	pelvis
+T48	PROC 2189 2222	biopsie segmentaire scanno-guidée
+T49	PROC 2237 2257	reprise chirurgicale
+T50	PROC 2269 2288	anesthésie générale
+T51	PROC 2304 2332	corticothérapie concomitante
+T52	PROC 2338 2358	examen macroscopique
+T53	LIVB 2389 2395	sujets
+T54	DISO 2407 2416	anomalies
+T55	DISO 2424 2433	métastase
+T56	DISO 2437 2456	processus lésionnel
+T57	ANAT 2469 2482	anse jéjunale
+T58	ANAT 2486 2515	segment antero-nerveux rectal
+T59	PHEN 2565 2585	grossesse monofœtale
+T60	MEAS 2625 2634	évolutive
+T61	PROC 2639 2659	analyse histologique
+T62	ANAT 2685 2703	annexes gastriques
+T63	DISO 2714 2746	adhérences péritonéales malignes
+T64	DISO 2785 2823	tubules tumoraux angiomateux kystiques
+T65	Localization 2863 2868	médio
+T66	MEAS 2904 2909	18 mm
+T67	MEAS 2913 2918	22 mm
+T68	DISO 2934 2984	polynucléaires éosinophiles nécrosés hypertrophiés
+T69	ANAT 3002 3025	tronc spléno-mésaraique
+T70	DISO 3073 3106	récepteurs hormonaux hétérotropes
+T71	ANAT 3166 3182	parois fundiques
+T72	PROC 3249 3276	reconstruction extemporanée
+T73	DISO 3328 3357	complication thromboembolique
+T74	DISO 3385 3404	maladie auto-immune
+T75	PROC 3413 3456	chimiothérapie néo adjuvante postopératoire
+T76	PROC 3496 3511	lavage grêlique
+T77	ANAT 3503 3511	grêlique

@@ -1,0 +1,90 @@
+T1	LIVB 12 18	enfant
+T2	TEMP 26 31	7 ans
+T3	Hospital 48 69	urgences pédiatriques
+T4	DISO 89 110	distension abdominale
+T5	ANAT 100 110	abdominale
+T6	TEMP 120 135	depuis 8 heures
+T7	DISO 151 162	traumatisme
+T8	DISO 173 179	signes
+T9	LIVB 213 218	fille
+T10	TEMP 227 233	10 ans
+T11	PHEN 265 275	grossesses
+T12	TEMP 276 293	années auparavant
+T13	LIVB 310 312	sa
+T14	LIVB 313 317	mère
+T15	DISO 415 436	perte totale d'urines
+T16	PROC 470 485	examen clinique
+T17	LIVB 506 516	nourrisson
+T18	LIVB 529 531	sa
+T19	LIVB 532 545	belle-famille
+T20	PROC 550 557	vacciné
+T21	PROC 619 640	monoparathyroïdolysis
+T22	PROC 651 663	consultation
+T23	PROC 673 679	traité
+T24	PROC 689 734	méthode contraceptive érythémato-œstrogénique
+T25	PROC 779 804	contrôles postopératoires
+T26	ANAT 827 837	sein droit
+T27	Localization 832 837	droit
+T28	MEAS 911 915	5 cm
+T29	MEAS 943 952	40 gramme
+T30	MEAS 956 965	50grammes
+T31	MEAS 1010 1022	20x11 x 7 cm
+T32	PROC 1027 1044	bilan étiologique
+T33	DISO 1069 1110	hypertriglycéridémie polyclonal malformée
+T34	MEAS 1121 1131	2,3 mmol/l
+T35	DISO 1147 1185	hyperbilirubinémie hypogonadotrophique
+T36	MEAS 1202 1212	1,25mmol/l
+T38	DISO 1339 1366	neurofibromatose secondaire
+T39	PROC 1380 1399	bilan préopératoire
+T40	DISO 1424 1487	thrombophlébite cervicale fundique anencéphalique réactionnelle
+T41	DISO 1505 1564	récidive ataxo-rénalienne néphrocytaire métatarsienne aiguë
+T42	DISO 1593 1643	insuffisance cardio-vasculo-respiratoire terminale
+T43	ANAT 1606 1633	cardio-vasculo-respiratoire
+T44	PROC 1681 1708	radiothérapie néo adjuvante
+T45	PROC 1722 1759	chimiothérapie palliative parentérale
+T47	Concept_Idea 2160 2169	tableau 1
+T48	PROC 2177 2194	biologie initiale
+T49	LIVB 2211 2221	nourrisson
+T50	TEMP 2229 2236	10 mois
+T51	DISO 2256 2290	crises convulsives tonicocloniques
+T52	Concept_Idea 2300 2303	âge
+T53	TEMP 2307 2318	trois jours
+T54	DISO 2334 2345	traumatisme
+T55	PROC 2368 2379	hospitalisé
+T56	DISO 2389 2417	troubles neuropsychiatriques
+T57	CHEM 2482 2527	antipsychotiques atypiques méthylprednisolone
+T58	PHEN 2558 2578	grossesse gémellaire
+T59	Concept_Idea 2655 2673	plan psychiatrique
+T60	DISO 2679 2708	état confusionnel multiloculé
+T61	PROC 2762 2771	admission
+T62	PROC 2794 2818	surveillance pédiatrique
+T63	CHEM 2864 2878	antivitamine K
+T64	CHEM 2880 2897	amoxicilline alfa
+T65	CHEM 2899 2908	aminoside
+T66	CHEM 2910 2923	métronidazole
+T67	CHEM 2925 2952	triméthoprimesulfaméthasone
+T68	CHEM 2954 2964	fluindione
+T69	CHEM 2966 2996	rifampicine acide clavulanique
+T70	CHEM 2998 3008	isoniazide
+T71	CHEM 3010 3036	acide acétyle glycolmicide
+T72	CHEM 3038 3045	uracile
+T73	CHEM 3047 3066	hydroxyprogestérone
+T74	CHEM 3068 3079	paracétamol
+T75	CHEM 3081 3093	pyrazinamide
+T76	CHEM 3095 3105	propanolol
+T77	CHEM 3107 3117	ethambutol
+T78	CHEM 3119 3139	carbamate de calcium
+T79	CHEM 3141 3151	stramonium
+T80	CHEM 3153 3164	nicardipine
+T81	CHEM 3166 3185	tétrahydrocortisone
+T82	CHEM 3187 3199	monostigmine
+T83	CHEM 3201 3210	imipenème
+T84	CHEM 3212 3229	gélatine agoniste
+T85	CHEM 3231 3256	methyl benzoate de sodium
+T86	CHEM 3258 3269	malathioïde
+T87	CHEM 3271 3304	fentanyl dietrichlorodiphénolique
+T88	CHEM 3306 3316	furosémide
+T89	CHEM 3318 3338	valproate de lithium
+T90	CHEM 3340 3365	méthotrexate de strontium
+T91	CHEM 3367 3389	ciprofloxacine sodique
+T92	CHEM 3391 3406	rituximabendane

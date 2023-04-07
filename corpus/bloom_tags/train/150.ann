@@ -1,0 +1,39 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	5 ans
+T3	PHEN 47 56	grossesse
+T4	PROC 61 67	suivie
+T5	DISO 83 105	douleurs épigastriques
+T6	ANAT 92 105	épigastriques
+T7	TEMP 128 144	depuis deux mois
+T8	DISO 157 166	symptômes
+T9	DISO 193 202	céphalées
+T10	ANAT 216 224	pancréas
+T11	MEAS 244 254	légèrement
+T12	Concept_Idea 258 264	volume
+T13	MEAS 335 344	30 litres
+T14	PROC 375 384	admission
+T15	Hospital 389 410	urgences pédiatriques
+T16	DISO 429 449	souffrance néonatale
+T17	ANAT 440 449	néonatale
+T18	DISO 463 483	détresse métabolique
+T19	PHEN 472 483	métabolique
+T20	DOSE 489 493	2 ml
+T21	CHEM 497 513	sulfaméthoxazole
+T22	DOSE 514 523	200 mg/kg
+T23	TEMP 523 535	 jumeau jour
+T24	PROC 548 580	perfusion sanguine intraveineuse
+T25	DOSE 584 590	0,4 kg
+T26	CHEM 594 604	furosémide
+T27	DOSE 605 611	400 mg
+T28	PROC 632 667	intubation nasogastrique percutanée
+T29	ANAT 643 667	nasogastrique percutanée
+T30	PROC 692 723	endoscopie oeso-gastroduodénale
+T31	ANAT 703 723	oeso-gastroduodénale
+T32	DISO 750 816	hernie iléo-pancréato-cæcale segmentaire péritumorale pancréatique
+T34	ANAT 834 866	sinus diaphragmatique iléocoecal
+T35	DISO 882 923	insuffisance parenchymateuse œsophagienne
+T36	ANAT 895 923	parenchymateuse œsophagienne
+T37	ANAT 987 1035	muscles para vertébraux ovariomoteurs inférieurs
+T38	ANAT 1059 1076	cordon ombilicaux
+T39	PROC 1081 1106	étude anatomopathologique
+T40	PROC 1122 1129	biopsie

@@ -1,0 +1,44 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	6 ans
+T3	PROC 86 92	admise
+T4	Hospital 97 118	urgences pédiatriques
+T5	DISO 137 160	agitation psychomotrice
+T6	PROC 166 175	admission
+T7	LIVB 177 181	elle
+T8	DISO 188 195	fébrile
+T9	MEAS 198 202	40°c
+T10	DISO 218 226	polypnée
+T11	PROC 243 273	auscultation cardio-vasculaire
+T12	ANAT 256 273	cardio-vasculaire
+T13	DISO 290 321	dilatation du ventricule gauche
+T14	ANAT 304 321	ventricule gauche
+T15	Localization 315 321	gauche
+T16	PHEN 338 358	souffle artériolaire
+T17	ANAT 346 358	artériolaire
+T18	ANAT 372 399	thoraco-abdomino-pulmonaire
+T19	PROC 425 458	échocardiographie transthoracique
+T20	ANAT 443 458	transthoracique
+T21	PROC 474 483	injection
+T22	CHEM 487 507	produit de contraste
+T23	DISO 521 621	hypocinésie globale hypoechogène hétérogène hyperhétérogène latéro-ventriculaire homolatérale gauche
+T24	Localization 602 621	homolatérale gauche
+T25	MEAS 647 650	2cm
+T26	Concept_Idea 654 663	grand axe
+T27	MEAS 668 673	0,5cm
+T28	Concept_Idea 677 686	petit axe
+T29	PROC 711 752	ponction pleurieu-liquide pleuro-aortique
+T30	ANAT 720 752	pleurieu-liquide pleuro-aortique
+T31	MEAS 824 832	négatifs
+T32	PROC 1011 1054	anesthésie locorégionale transoesophagienne
+T33	PROC 1068 1093	réanimation préopératoire
+T34	PROC 1115 1145	traitement médical substitutif
+T35	DOSE 1151 1159	500mg/kg
+T36	MODE 1161 1166	bolus
+T37	CHEM 1170 1182	parathormone
+T38	PROC 1195 1220	chimiothérapie palliative
+T39	PROC 1245 1279	transfusion sanguine intraveineuse
+T40	PROC 1292 1323	remplissage sanguine péritonéal
+T41	ANAT 1304 1323	sanguine péritonéal
+T42	DISO 1373 1394	détresse respiratoire
+T43	PHEN 1382 1394	respiratoire
+T44	MEAS 1409 1420	progressive

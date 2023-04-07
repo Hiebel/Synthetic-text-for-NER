@@ -1,0 +1,15 @@
+T1	LIVB 28 35	patient
+T2	DISO 55 76	perte de connaissance
+T3	PROC 88 103	hospitalisation
+T4	Hospital 108 138	hôpital militaire des Sourôles
+T5	DISO 150 187	traumatisme du membre inférieur droit
+T6	ANAT 165 187	membre inférieur droit
+T7	Localization 182 187	droit
+T8	Concept_Idea 191 199	histoire
+T9	DISO 206 221	symptomatologie
+T10	DISO 261 280	pleurésie purulente
+T11	MEAS 295 301	rapide
+T12	DISO 314 334	signes neurologiques
+T13	PROC 348 371	examen clinique initial
+T14	PHEN 403 426	réflexes ostéotendineux
+T15	DISO 445 468	déficit sensitivomoteur

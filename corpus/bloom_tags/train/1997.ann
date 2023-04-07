@@ -1,0 +1,124 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 67	particuliers
+T4	PROC 69 73	reçu
+T5	DISO 83 105	douleurs épigastriques
+T6	ANAT 92 105	épigastriques
+T7	DISO 122 140	diarrhée purulante
+T8	TEMP 150 172	depuis plusieurs jours
+T9	PROC 176 190	interrogatoire
+T10	DISO 220 239	dilatation du grêle
+T11	ANAT 234 239	grêle
+T12	PHEN 255 264	grossesse
+T13	PROC 269 275	suivie
+T14	LIVB 277 279	Il
+T15	CHEM 295 306	Ceftriaxone
+T16	DOSE 308 310	1g
+T17	TEMP 310 312	/j
+T18	CHEM 315 326	Cyclosérine
+T19	DOSE 328 334	200 mg
+T20	TEMP 334 336	/j
+T21	CHEM 339 352	Rifaméthasone
+T22	DOSE 354 359	20 mg
+T23	TEMP 359 361	/j
+T24	CHEM 364 376	Pyrazinamide
+T25	DOSE 378 384	600 mg
+T26	TEMP 384 386	/j
+T27	CHEM 389 400	Ethionamide
+T28	DOSE 402 408	400 mg
+T29	TEMP 408 410	/j
+T30	CHEM 413 424	Doxycycline
+T31	DOSE 426 432	100 mg
+T32	TEMP 432 434	/j
+T33	CHEM 437 450	Phénobarbital
+T34	DOSE 452 457	60 mg
+T35	TEMP 457 459	/j
+T36	CHEM 462 481	Valproate de sodium
+T37	DOSE 483 491	15 mg/kg
+T38	TEMP 491 493	/j
+T39	CHEM 496 509	Sulfasalazine
+T40	DOSE 511 514	4 g
+T41	TEMP 514 516	/j
+T42	CHEM 519 530	Nicardipine
+T43	DOSE 532 537	10 mg
+T44	TEMP 537 539	/j
+T45	CHEM 542 556	Chlorpromazine
+T46	DOSE 558 563	50 mg
+T47	TEMP 563 565	/j
+T48	CHEM 568 580	Simvastatine
+T49	DOSE 582 587	30 mg
+T50	TEMP 587 589	/j
+T51	CHEM 592 605	Aspartic acid
+T52	DOSE 607 612	40 mg
+T53	TEMP 612 614	/j
+T54	CHEM 617 623	Vit B6
+T55	DOSE 625 632	1000 mg
+T56	TEMP 632 634	/j
+T57	CHEM 637 648	Vinblastine
+T58	DOSE 650 656	2mg/kg
+T59	TEMP 656 658	/j
+T60	CHEM 661 674	Métronidazole
+T61	DOSE 676 682	500 mg
+T62	TEMP 682 684	/j
+T63	CHEM 687 695	Diazépam
+T64	DOSE 697 701	0,5g
+T65	TEMP 701 703	/j
+T66	CHEM 706 719	Bêtaméthasone
+T67	DOSE 721 726	25 mg
+T68	TEMP 726 728	/j
+T69	CHEM 731 745	Gentaméthasone
+T70	DOSE 747 753	150 mg
+T71	TEMP 753 755	/j
+T72	CHEM 758 774	Erythrométhasone
+T73	DOSE 776 781	75 mg
+T74	TEMP 781 783	/j
+T75	CHEM 786 816	Triméthoprime-Sulfamethoxazole
+T76	DOSE 818 824	800 mg
+T77	TEMP 824 826	/j
+T78	CHEM 829 837	Clobazam
+T79	DOSE 839 845	160 mg
+T80	TEMP 845 847	/j
+T81	CHEM 850 864	Pancréatectine
+T82	DOSE 866 873	1280 mg
+T83	TEMP 873 875	/j
+T84	MODE 878 888	voie orale
+T85	DEVI 893 910	viscère gastrique
+T86	PROC 915 923	biologie
+T87	MEAS 930 937	normale
+T88	PROC 946 972	taux d'hémoglobine glyquée
+T89	MEAS 975 977	7%
+T90	PROC 983 1002	électrorétinogramme
+T91	DISO 1021 1038	hyperéosinophilie
+T92	Localization 1042 1050	centrale
+T93	PROC 1065 1089	anticorps antinucléaires
+T94	ANAT 1098 1123	liquide céphalo-rachidien
+T95	MEAS 1141 1149	positifs
+T96	PROC 1156 1191	chirurgie transpariéto-mandibulaire
+T97	CHEM 1228 1239	tuberculine
+T98	MEAS 1251 1259	négative
+T99	CHEM 1296 1305	quinolone
+T100	CHEM 1321 1348	médicaments antibacillaires
+T101	CHEM 1394 1407	cotrimoxazole
+T102	PROC 1414 1445	échographie abdomino- pelvienne
+T103	ANAT 1426 1445	abdomino- pelvienne
+T104	ANAT 1475 1503	intrapéritonéal périsélectal
+T105	DISO 1516 1543	adénopathies hypogastriques
+T106	DISO 1571 1593	atteinte hypogastrique
+T107	ANAT 1580 1593	hypogastrique
+T108	MEAS 1614 1619	21 mm
+T109	Concept_Idea 1623 1632	grand axe
+T110	DISO 1651 1686	hypo-thyroïdie pituitaire nodulaire
+T111	DISO 1703 1735	utérus polymyomateux lithiasique
+T112	LIVB 1760 1768	patients
+T113	DISO 1798 1819	atrophie endovaginale
+T114	ANAT 1807 1819	endovaginale
+T115	DISO 1844 1865	métanéphrine primaire
+T116	PROC 1868 1892	exploration chirurgicale
+T119	ANAT 2101 2115	grêléo-vaginal
+T120	PROC 2119 2145	examen anatomopathologique
+T121	PHEN 2150 2168	suites opératoires
+T122	DISO 2201 2244	syndrome néphrotique purpura thrombocytaire
+T123	DISO 2257 2282	localisations secondaires
+T124	PROC 2286 2319	imagerie par résonance magnétique
+T125	ANAT 2326 2336	cérébrales
+T126	DISO 2366 2389	hypothalamie secondaire

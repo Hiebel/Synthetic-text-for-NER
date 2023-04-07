@@ -1,0 +1,13 @@
+T1	LIVB 28 35	patient
+T2	PROC 57 81	exploration chirurgicale
+T3	DISO 103 112	anomalies
+T4	DISO 130 145	résidu kystique
+T5	DISO 152 173	lésions nécrolytiques
+T6	PROC 186 229	scanner cardio-vasculo-nerveux périphérique
+T7	ANAT 194 229	cardio-vasculo-nerveux périphérique
+T8	PROC 234 242	contrôlé
+T9	DISO 256 343	masse tissulaire tumorale hypoechogène hétérogène congénitale asymétrique érythémateuse
+T10	MEAS 355 370	progressivement
+T11	Concept_Idea 374 380	taille
+T12	MEAS 390 406	multi-fluctuante
+T13	ANAT 430 445	surrénalectines

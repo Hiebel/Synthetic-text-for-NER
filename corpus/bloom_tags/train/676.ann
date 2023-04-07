@@ -1,0 +1,31 @@
+T1	LIVB 16 24	patiente
+T2	DISO 45 70	antécédents pathologiques
+T3	MEAS 71 79	notables
+T4	PROC 91 96	reçue
+T5	Hospital 101 109	urgences
+T6	DISO 119 146	douleurs abdominales aiguës
+T7	ANAT 128 139	abdominales
+T8	TEMP 156 170	depuis un mois
+T9	Concept_Idea 203 215	état général
+T10	PROC 221 251	échographie abdomino-pelvienne
+T11	ANAT 233 251	abdomino-pelvienne
+T12	DISO 288 319	masse tissulaire du flanc droit
+T13	ANAT 308 319	flanc droit
+T14	Localization 314 319	droit
+T15	MEAS 329 333	4 cm
+T16	Concept_Idea 337 346	grand axe
+T17	ANAT 362 369	pelvien
+T18	ANAT 376 396	fosse iliaque gauche
+T19	Localization 390 396	gauche
+T20	DISO 414 457	épanchement intramésentoriel péripéritonéal
+T21	ANAT 426 457	intramésentoriel péripéritonéal
+T22	DISO 462 491	kystadénopathie hypogastrique
+T23	DISO 557 592	syndrome d'épanchement intra-utérin
+T24	ANAT 580 592	intra-utérin
+T25	DISO 608 629	troubles métaboliques
+T26	DISO 640 649	symptômes
+T27	CHEM 673 684	nicardipine
+T28	CHEM 686 697	bupivacaine
+T29	PROC 703 727	scanner abdomino-pelvien
+T30	ANAT 711 727	abdomino-pelvien
+T31	DISO 756 781	localisations secondaires

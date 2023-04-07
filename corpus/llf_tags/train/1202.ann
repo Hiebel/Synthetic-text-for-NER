@@ -1,0 +1,11 @@
+T1	Concept_Idea 3 6	cas
+T2	MEAS 7 11	rare
+T3	DISO 15 29	cancer du rein
+T4	ANAT 25 29	rein
+T5	LIVB 38 45	patient
+T6	PROC 75 99	chimiothérapie adjuvante
+T7	CHEM 109 139	immunoglobulines intraveineuse
+T8	DISO 190 219	symptômes neuropsychiatriques
+T9	PHEN 244 262	fonction cognitive
+T10	MEAS 263 270	normale
+T11	LIVB 279 284	sujet

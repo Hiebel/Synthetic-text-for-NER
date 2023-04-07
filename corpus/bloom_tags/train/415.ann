@@ -1,0 +1,31 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	6 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 83	admise
+T6	Hospital 88 96	urgences
+T7	DISO 106 141	douleurs abdomino-pelviennes aigues
+T8	ANAT 115 134	abdomino-pelviennes
+T9	MEAS 156 167	progressive
+T10	TEMP 177 194	depuis deux jours
+T11	PROC 198 213	examen clinique
+T12	PROC 218 227	admission
+T13	LIVB 240 246	enfant
+T14	MEAS 250 253	bon
+T15	Concept_Idea 254 266	état général
+T16	PHEN 276 287	température
+T17	MEAS 290 296	36°5 C
+T18	PROC 301 318	bilan d'extension
+T19	MEAS 325 332	négatif
+T20	PROC 339 374	tomodensitométrie cervico-axillaire
+T21	ANAT 357 374	cervico-axillaire
+T22	PROC 376 380	TDCA
+T23	ANAT 408 418	sein droit
+T24	Localization 413 418	droit
+T25	DISO 442 480	masse hypoéchogène nodulaire hypodense
+T26	MEAS 490 495	12 cm
+T27	Concept_Idea 499 508	grand axe
+T28	CHEM 530 550	produit de contraste
+T29	ANAT 567 592	parties molles axillaires
+T30	DISO 614 747	métastases hépatobilonéphrines cerviculo-ganglionnaires basithoraciques latérocurvicales hétérogènes tissulaires hyper-mésaminophiles
+T32	ANAT 777 795	glandes salivaires

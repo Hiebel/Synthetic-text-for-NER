@@ -1,0 +1,95 @@
+T1	LIVB 2 7	homme
+T2	DISO 28 53	antécédents pathologiques
+T3	MEAS 54 66	particuliers
+T4	PROC 73 78	admis
+T5	Hospital 82 97	bloc opératoire
+T6	DISO 116 161	hématome sous dural du membre supérieur droit
+T7	ANAT 139 161	membre supérieur droit
+T8	Localization 156 161	droit
+T9	PROC 167 182	examen clinique
+T10	LIVB 202 209	patient
+T11	MEAS 213 220	mauvais
+T12	Concept_Idea 221 233	état général
+T13	DISO 243 259	râles crépitants
+T14	DISO 267 289	sensibilité abdominale
+T15	ANAT 279 289	abdominale
+T16	PROC 322 339	geste chirurgical
+T17	PROC 344 368	laparotomie exploratrice
+T18	DISO 393 409	tumeur polylobée
+T19	MEAS 419 423	2 cm
+T20	Concept_Idea 427 435	diamètre
+T21	MEAS 444 448	5 cm
+T22	Concept_Idea 452 461	grand axe
+T23	DISO 471 498	hépatomégalie hypogastrique
+T24	DISO 505 516	adénopathie
+T25	DISO 520 536	nécrose caséeuse
+T26	PROC 541 565	exploration chirurgicale
+T27	DISO 588 603	lésion kystique
+T28	PHEN 609 633	reflexes ostéo-tendineux
+T29	ANAT 618 633	ostéo-tendineux
+T30	MEAS 646 653	dilatés
+T31	DISO 667 703	distension crânio-cervico-thoracique
+T32	ANAT 678 703	crânio-cervico-thoracique
+T33	TEMP 713 727	depuis 10 mois
+T34	PROC 732 751	bilan préopératoire
+T35	DISO 770 789	syndrome infectieux
+T36	DISO 799 818	signe inflammatoire
+T37	DISO 844 860	hyperleucocytose
+T38	PROC 872 882	traitement
+T39	CHEM 887 901	neuroleptiques
+T40	CHEM 907 919	midazolamide
+T41	DOSE 920 929	300 mg/kg
+T42	TEMP 929 931	/j
+T43	CHEM 934 963	antibiotique thymorégulateurs
+T44	DISO 1002 1031	symptômes neuropsychiatriques
+T45	PROC 1054 1082	chimiothérapie néo adjuvante
+T46	Concept_Idea 1095 1125	caractéristiques morphologique
+T47	Concept_Idea 1129 1149	psycho-physiologique
+T48	PROC 1198 1206	contrôle
+T49	MEAS 1243 1253	favorables
+T50	LIVB 1268 1275	malades
+T51	PROC 1312 1337	rééducation fonctionnelle
+T52	PROC 1351 1377	radiothérapie concomitante
+T53	ANAT 1390 1406	ventricule droit
+T54	Localization 1401 1406	droit
+T55	PROC 1419 1518	néphrectomie totale axilectomie semi réverticale élargie scanno-pariéto-sigmoïde transoesophagienne
+T56	PROC 1534 1577	stabilisation ostéro-articulaire palliative
+T57	PROC 1627 1662	radio cardiologie interventionnelle
+T58	Concept_Idea 1689 1707	état hémodynamique
+T59	Concept_Idea 1720 1739	aspect psychomoteur
+T60	Concept_Idea 1856 1874	constantes vitales
+T61	LIVB 1894 1928	détectives anesthésistes viscéraux
+T62	Concept_Idea 2057 2080	réponse comportementale
+T63	Concept_Idea 2111 2135	problèmes déontologiques
+T64	LIVB 2170 2195	gestes médico-chirurgiens
+T65	PROC 2222 2255	investigations multidisciplinaire
+T66	LIVB 2278 2284	garçon
+T67	TEMP 2351 2362	16 semaines
+T68	TEMP 2383 2391	18 jours
+T69	TEMP 2413 2422	14 années
+T70	LIVB 2429 2432	ses
+T71	LIVB 2433 2440	parents
+T72	DEVI 2489 2521	ustensiles de cuisine personnels
+T73	LIVB 2591 2603	petit garçon
+T74	PHEN 2762 2783	grossesse monofoetale
+T75	DISO 2805 2828	hallucinations verbales
+T76	LIVB 2847 2857	Monsieur B
+T77	MEAS 3069 3070	4
+T78	TEMP 3079 3086	17 mois
+T79	LIVB 3150 3152	il
+T80	PROC 3187 3206	bilan préopératoire
+T81	LIVB 3231 3233	sa
+T82	LIVB 3234 3247	belle-famille
+T83	DISO 3260 3292	dysfonctionnements pathologiques
+T84	CHEM 3321 3331	corticoïde
+T85	PROC 3348 3371	contrôles radiologiques
+T86	MEAS 3442 3455	satisfaisante
+T87	LIVB 3498 3520	médecins obstétriciens
+T88	PROC 3545 3556	préparation
+T89	PROC 3696 3724	prise en charge diagnostique
+T90	PROC 3869 3879	diagnostic
+T91	DISO 3903 3944	lithiase gonadotrophique cervico-vaginale
+T92	DISO 3962 4017	pancréatite aigüe granulomateuse ankylosante spongieuse
+T93	PROC 4166 4187	recherche étiologique
+T94	DISO 4231 4281	cellules érythroblastiques prurigineuses atypiques
+T95	DISO 4308 4355	hyperleucocytose parasitaire hétérotrimidazolée

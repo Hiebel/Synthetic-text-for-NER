@@ -1,0 +1,36 @@
+T1	LIVB 4 9	femme
+T2	DISO 30 55	antécédents pathologiques
+T3	MEAS 56 64	notables
+T4	PROC 66 72	admise
+T5	Hospital 76 83	urgence
+T6	Hospital 88 113	urgences ophtalmologiques
+T7	DISO 140 160	douleur épigastrique
+T8	ANAT 148 160	épigastrique
+T9	PROC 165 202	tomodensitométrie abdomino- pelvienne
+T10	ANAT 183 202	abdomino- pelvienne
+T11	DISO 219 277	lésion hypodense hétérogène hypointense tissulaire ulcérée
+T12	ANAT 294 314	fosse rectale droite
+T13	Localization 308 314	droite
+T14	MEAS 324 328	3 cm
+T15	Concept_Idea 332 340	diamètre
+T16	PROC 405 425	échographie mammaire
+T17	ANAT 417 425	mammaire
+T19	MEAS 571 575	24cm
+T20	Concept_Idea 579 588	grand axe
+T21	ANAT 613 648	quadrant supéro-externe mamillaires
+T22	MEAS 664 679	progressivement
+T23	Concept_Idea 683 689	taille
+T24	MEAS 701 710	12 x 12mm
+T25	MEAS 713 720	22*18mm
+T26	PROC 759 802	curage ganglionnaire axillaire locorégional
+T27	ANAT 766 802	ganglionnaire axillaire locorégional
+T28	PROC 814 838	scanner abdomino-pélvien
+T29	ANAT 822 838	abdomino-pélvien
+T30	MEAS 846 852	normal
+T31	PROC 866 887	bilan immunocompétent
+T32	PROC 915 945	radio-chimiothérapie adjuvante
+T33	PROC 951 975	radiothérapie palliative
+T34	DISO 1087 1110	récidive carcinomateuse
+T35	DISO 1190 1198	kystique
+T36	MEAS 1268 1281	satisfaisante
+T37	PROC 1322 1346	prélèvements biologiques

@@ -1,0 +1,27 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	Concept_Idea 42 53	antécédents
+T4	MEAS 54 62	notables
+T5	PROC 64 68	reçu
+T6	Hospital 73 81	urgences
+T7	DISO 91 112	détresse respiratoire
+T8	PHEN 100 112	respiratoire
+T9	TEMP 122 136	depuis un mois
+T10	PROC 140 156	examen somatique
+T11	DISO 173 190	dyspnée sifflante
+T12	DISO 206 240	douleurs thoraciques constrictives
+T13	ANAT 215 226	thoraciques
+T14	ANAT 264 287	sinus médiastinal droit
+T15	Localization 282 287	droit
+T16	Concept_Idea 290 296	aspect
+T17	DISO 313 336	tuberculose péritonéale
+T18	ANAT 325 336	péritonéale
+T19	PROC 340 370	auscultation cardio-vasculaire
+T20	ANAT 353 370	cardio-vasculaire
+T21	MEAS 377 386	conservée
+T22	PROC 392 417	examen pleuro-pulmonaires
+T23	ANAT 399 417	pleuro-pulmonaires
+T24	PROC 419 428	SpO2/FiO2
+T25	MEAS 436 442	normal
+T26	PROC 459 475	examen somatique
+T27	DISO 503 517	particularités

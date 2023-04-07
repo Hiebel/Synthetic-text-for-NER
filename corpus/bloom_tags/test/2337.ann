@@ -1,0 +1,32 @@
+T1	LIVB 4 12	patiente
+T2	Hospital 50 75	urgences ophtalmologiques
+T3	DISO 88 100	métrorragies
+T4	PHEN 105 117	contrôlables
+T5	TEMP 127 140	depuis 6 mois
+T6	DISO 156 175	syndrome infectieux
+T7	DISO 186 195	symptômes
+T8	DISO 222 249	polynucléaires neutrophiles
+T9	PROC 253 279	bilan phospho- métabolique
+T10	PROC 281 288	PK-MIBI
+T11	PROC 293 308	examen clinique
+T12	DISO 320 326	fièvre
+T13	DISO 342 370	dyspnée stade II de Brackman
+T14	MEAS 385 392	modérée
+T15	PROC 398 450	traitement antituberculeux antibacillifullucoricoïde
+T16	CHEM 409 450	antituberculeux antibacillifullucoricoïde
+T17	CHEM 461 474	metronidazole
+T18	CHEM 476 487	rifampicine
+T19	CHEM 489 501	pyrazinamide
+T20	CHEM 503 514	ethionamide
+T21	CHEM 516 526	cisplatine
+T22	CHEM 528 541	dexaméthasone
+T23	CHEM 543 556	cotrimoxazole
+T24	DEVI 570 596	sonde oesophagienne souple
+T26	ANAT 617 623	épaule
+T27	DISO 642 651	râtonnade
+T28	DISO 661 690	complication thromboembolique
+T29	PROC 925 966	tomodensitométrie thoraco-laryngoscopique
+T30	ANAT 943 966	thoraco-laryngoscopique
+T31	DISO 983 1013	hernie sus claviculaire droite
+T32	ANAT 990 1013	sus claviculaire droite
+T33	Localization 1007 1013	droite

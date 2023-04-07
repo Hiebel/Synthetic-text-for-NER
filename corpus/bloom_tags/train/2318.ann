@@ -1,0 +1,29 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	13 ans
+T3	LIVB 75 80	frère
+T4	TEMP 88 94	10 ans
+T5	DISO 114 129	polyarthralgies
+T6	MEAS 144 155	progressive
+T7	TEMP 165 181	depuis deux mois
+T8	DISO 203 250	lésions érythémato-bourgeonnantes prurigineuses
+T9	MEAS 318 327	favorable
+T10	Concept_Idea 371 383	état général
+T11	DISO 420 454	douleurs thoraciques constrictives
+T12	MEAS 469 475	rapide
+T13	MODE 500 505	bolus
+T14	CHEM 509 520	corticoïdes
+T15	DISO 541 556	symptomatologie
+T16	CHEM 569 587	hydroxychloroquine
+T17	CHEM 590 603	sulfasalamide
+T18	CHEM 605 618	dexaméthasone
+T19	DOSE 632 642	forte dose
+T20	CHEM 646 664	méthylprednisolone
+T21	PROC 692 726	traitement antibacillaire adjuvant
+T22	CHEM 746 761	schéma 2RHZ/4RH
+T23	DOSE 821 828	1 mg/kg
+T24	TEMP 828 836	/semaine
+T25	TEMP 845 863	pendant 3 semaines
+T26	DEVI 877 907	sonde nifédipine transdermique
+T27	PHEN 973 1007	récupération motrice fonctionnelle
+T28	CHEM 1075 1086	nicardipine
+T29	CHEM 1248 1261	NICARDIPOLIN®

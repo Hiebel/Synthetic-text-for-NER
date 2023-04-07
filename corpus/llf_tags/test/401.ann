@@ -1,0 +1,71 @@
+T1	LIVB 20 28	patiente
+T2	MEAS 63 64	2
+T3	LIVB 65 72	enfants
+T4	PROC 76 82	examen
+T5	PROC 87 96	admission
+T6	LIVB 109 119	nourrisson
+T7	MEAS 123 130	mauvais
+T8	Concept_Idea 131 143	état général
+T9	DISO 153 160	cyanose
+T10	ANAT 175 197	troncs supra-aortiques
+T11	DISO 210 216	signes
+T12	DISO 243 252	dysphagie
+T13	DISO 262 296	symptomatologie neuropsychiatrique
+T14	PHEN 301 316	fonction rénale
+T15	ANAT 310 316	rénale
+T16	MEAS 323 330	normale
+T17	PROC 346 361	examen physique
+T18	DISO 373 386	particularité
+T19	PROC 391 413	radiographie du thorax
+T20	ANAT 407 413	thorax
+T21	DISO 434 442	anomalie
+T22	PROC 456 473	biologie standard
+T23	DISO 494 510	hyperleucocytose
+T24	MEAS 513 546	2500 éléments par millimètre cube
+T25	MEAS 548 566	10 fois la normale
+T26	DISO 580 613	syndrome inflammatoire biologique
+T27	MEAS 618 628	spécifique
+T28	ANAT 638 646	crachats
+T29	DISO 672 688	maladie cœliaque
+T30	LIVB 700 708	patiente
+T31	Concept_Idea 721 739	aspect chirurgical
+T32	PROC 755 793	mesures prophylactiques préopératoires
+T33	CHEM 860 870	céfotaxime
+T34	DISO 887 905	effets secondaires
+T35	PROC 980 1012	ponction biopsie hépato-rénal T3
+T36	ANAT 997 1012	hépato-rénal T3
+T37	Concept_Idea 1050 1079	caractère tomodensitométrique
+T38	PROC 1108 1146	laparotomie exploratrice scanno-guidée
+T39	PROC 1160 1205	colectomie transoesophagienne distale élargie
+T40	Localization 1171 1205	transoesophagienne distale élargie
+T41	ANAT 1224 1245	colon transbronchique
+T42	DEVI 1253 1272	seringue anéchogène
+T43	MEAS 1282 1296	18 centimètres
+T44	Concept_Idea 1300 1308	diamètre
+T45	DISO 1333 1363	métastase hépatique secondaire
+T46	MEAS 1426 1433	simples
+T47	Concept_Idea 1442 1470	résultat anatomopathologique
+T48	Concept_Idea 1507 1530	contributions cliniques
+T49	PROC 1649 1682	hystérectomie endoluminale simple
+T50	PROC 1692 1712	rectorragie élective
+T51	PROC 1739 1801	néphrectomie percutanée rétropéritonéale type IgG antibiotique
+T52	PROC 2057 2084	prélèvement bactériologique
+T53	MEAS 2162 2170	17x12 cm
+T54	DOSE 2218 2223	20 mg
+T55	TEMP 2223 2231	/4 jours
+T56	LIVB 2783 2789	malade
+T57	PROC 2804 2810	admise
+T58	Hospital 2814 2829	bloc opératoire
+T59	PROC 2835 2869	drainage du canal cystique interne
+T60	ANAT 2847 2869	canal cystique interne
+T61	PROC 2873 2907	reconstruction des annexes rénales
+T62	ANAT 2892 2907	annexes rénales
+T63	PROC 2935 2962	chimiothérapie concomitante
+T64	Concept_Idea 2968 2972	dose
+T65	DOSE 2976 2980	3 Gy
+T66	TEMP 2980 2984	/24h
+T67	TEMP 3008 3015	14 mois
+T68	DISO 3055 3063	récidive
+T69	DISO 3067 3088	récidive transversale
+T70	Localization 3076 3088	transversale
+T71	Concept_Idea 3120 3144	plan anatomopathologique

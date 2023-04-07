@@ -1,0 +1,35 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 79 84	admis
+T5	Hospital 89 97	urgences
+T6	DISO 107 143	douleurs épigastriques hypertoniques
+T7	ANAT 116 129	épigastriques
+T8	TEMP 153 171	depuis trois jours
+T9	PROC 175 190	examen clinique
+T10	PROC 195 204	admission
+T11	LIVB 217 224	patient
+T12	Concept_Idea 249 267	plan hémodynamique
+T13	PHEN 271 283	respiratoire
+T14	PROC 287 311	exploration chirurgicale
+T15	DISO 325 354	masse tumorale du flanc droit
+T16	ANAT 343 354	flanc droit
+T17	Localization 349 354	droit
+T18	ANAT 370 398	veine cave supérieure droite
+T19	Localization 392 398	droite
+T20	MEAS 408 413	17 cm
+T21	Concept_Idea 417 426	grand axe
+T22	ANAT 451 470	parenchyme grêlique
+T23	DISO 491 522	hernie vésiculo-papilloméningée
+T24	ANAT 498 522	vésiculo-papilloméningée
+T25	PROC 555 564	injection
+T26	CHEM 568 588	produit de contraste
+T27	DOSE 590 598	20 mg/m²
+T28	PROC 604 637	scanner thoraco- abdomino-pelvien
+T29	ANAT 612 637	thoraco- abdomino-pelvien
+T30	DISO 658 682	masse kystique hypodense
+T31	Concept_Idea 685 691	aspect
+T32	MEAS 692 699	arrondi
+T33	MEAS 708 712	12cm
+T34	Concept_Idea 716 725	grand axe
+T35	MEAS 751 761	régulières

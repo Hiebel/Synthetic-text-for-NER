@@ -1,0 +1,40 @@
+T1	LIVB 21 26	homme
+T2	LIVB 59 65	garçon
+T3	PROC 107 118	administrés
+T4	PROC 132 251	geste opératoire obstétrical scanners anatomopathologieduals controlled clinical ketoacidosis invasive insulinatectomie
+T5	Concept_Idea 253 256	HKI
+T6	PROC 275 294	traitement adjuvant
+T7	DISO 299 320	coliques néoplasiques
+T8	LIVB 342 349	patient
+T9	PROC 369 374	admis
+T10	Hospital 379 387	urgences
+T11	PROC 391 406	examen clinique
+T12	ANAT 425 447	membre inférieur droit
+T13	Localization 442 447	droit
+T14	DISO 453 493	déficit neurologique sensitivo-sensoriel
+T15	DISO 497 517	trouble psychomoteur
+T16	DISO 549 570	anomalie pathologique
+T17	PROC 584 595	échographie
+T18	PHEN 645 657	accouchement
+T19	DEVI 742 766	hôpital multifonctionnel
+T20	TEMP 778 788	7 semaines
+T21	PROC 806 817	préparation
+T22	PROC 877 919	prise en charge préopératoire chirurgicale
+T23	PROC 926 959	chirurgie endovaginale percutanée
+T24	PROC 1013 1039	hystérectomie exploratrice
+T25	ANAT 1059 1153	masse cervicale postérieure postéro latérale gauche fœtale antero-pubienne inférieure fundique
+T27	PROC 1168 1191	scanner crânio-kystique
+T28	ANAT 1176 1191	crânio-kystique
+T29	PROC 1206 1221	hospitalisation
+T30	MEAS 1233 1239	normal
+T31	PROC 1261 1276	symptomatologie
+T32	PROC 1338 1364	obstétrical postopératoire
+T33	DISO 1385 1409	complication infectieuse
+T34	PROC 1455 1479	intervention chirurgical
+T35	DISO 1660 1681	maladies auto-immunes
+T36	PROC 1736 1757	recherche étiologique
+T37	DISO 1833 1856	infections nosocomiales
+T38	LIVB 1902 1913	gynécologue
+T39	LIVB 1943 1954	jeune fille
+T40	TEMP 1963 1969	12 ans
+T41	LIVB 2025 2040	famille élargie

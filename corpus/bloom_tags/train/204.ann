@@ -1,0 +1,30 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	DISO 38 63	antécédents pathologiques
+T4	MEAS 64 72	notables
+T5	PROC 74 78	reçu
+T6	Hospital 83 104	urgences pédiatriques
+T7	DISO 114 145	douleurs abdominales purulantes
+T8	ANAT 123 134	abdominales
+T9	TEMP 155 172	depuis deux jours
+T10	PROC 176 191	examen clinique
+T11	PROC 196 205	admission
+T12	Concept_Idea 221 232	température
+T13	MEAS 235 239	39°C
+T14	PHEN 246 252	rythme
+T15	MEAS 264 282	100 battements/min
+T16	PROC 299 315	examen somatique
+T17	DISO 332 353	atteinte neurologique
+T18	PROC 357 387	échographie abdomino-pelvienne
+T19	ANAT 369 387	abdomino-pelvienne
+T20	DISO 422 468	lésion hypo échogéante du culmen utéro-vaginal
+T21	ANAT 448 468	culmen utéro-vaginal
+T22	MEAS 478 482	2 cm
+T23	ANAT 499 519	fosse iliaque droite
+T24	Localization 513 519	droite
+T25	ANAT 536 563	structures péripéritonéales
+T26	ANAT 596 607	flanc droit
+T27	Localization 602 607	droit
+T28	DISO 621 660	épanchement intrarétrovésico-péritonéal
+T29	ANAT 633 660	intrarétrovésico-péritonéal
+T30	DISO 695 707	prurigineuse

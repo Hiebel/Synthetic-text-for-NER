@@ -1,0 +1,21 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 32 38	enfant
+T3	MEAS 42 45	bon
+T4	Concept_Idea 46 58	état général
+T5	DISO 60 70	apyrétique
+T6	MEAS 73 79	37,5°C
+T7	PHEN 89 107	tension artérielle
+T8	ANAT 97 107	artérielle
+T9	MEAS 110 121	140/90 mmHg
+T10	PROC 126 152	pression artérielle pulsée
+T11	ANAT 135 152	artérielle pulsée
+T12	PROC 154 158	PAPS
+T13	MEAS 169 179	100/50mmhg
+T14	PROC 197 223	examen somatométérologique
+T15	DISO 235 248	particularité
+T16	DISO 271 304	syndrome d'épanchement péritonéal
+T17	ANAT 294 304	péritonéal
+T18	DISO 310 330	anomalies viscérales
+T19	Localization 348 360	face interne
+T20	ANAT 364 375	flanc droit
+T21	Localization 370 375	droit

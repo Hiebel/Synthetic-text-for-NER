@@ -1,0 +1,45 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	PROC 46 57	hospitalisé
+T4	DISO 67 91	céphalées aiguës fébrile
+T5	TEMP 101 115	depuis 2 jours
+T6	DISO 129 152	symptômes neurologiques
+T7	PROC 167 182	examen clinique
+T8	LIVB 184 187	son
+T9	PHEN 188 193	pouls
+T10	MEAS 211 235	90 battements par minute
+T11	CHEM 241 262	sérum salé isotonique
+T12	DISO 284 309	troubles sensitivo moteur
+T13	DISO 315 337	hémoptysies purulentes
+T14	DISO 344 377	syndrome inflammatoire biologique
+T15	PROC 379 382	CRP
+T16	MEAS 385 392	20 mg/l
+T17	PROC 397 418	auscultation pleurale
+T18	ANAT 410 418	pleurale
+T19	DISO 459 477	empyème pulmonaire
+T20	ANAT 467 477	pulmonaire
+T21	DISO 519 558	tachycardie ventriculaire hypertrophiée
+T22	ANAT 531 558	ventriculaire hypertrophiée
+T23	MEAS 570 585	100 batt/minute
+T24	PROC 657 687	échographie abdomino-pelvienne
+T25	ANAT 669 687	abdomino-pelvienne
+T26	DISO 716 733	lésions suspectes
+T27	DISO 761 797	prélèvements bactérioloaerésensibles
+T28	PROC 819 843	scanner abdomino-pelvien
+T29	ANAT 827 843	abdomino-pelvien
+T30	LIVB 863 871	patiente
+T31	Hospital 876 884	urgences
+T32	DISO 912 943	fistule ganglionnaire ovarienne
+T33	ANAT 920 943	ganglionnaire ovarienne
+T34	PROC 971 980	injection
+T35	CHEM 984 1004	produit de contraste
+T36	MEAS 1021 1028	normaux
+T37	PROC 1033 1063	radio-chimiothérapie adjuvante
+T38	DOSE 1088 1096	400mg/m²
+T39	CHEM 1100 1112	capécitabine
+T40	DOSE 1115 1122	3 mg/kg
+T41	CHEM 1126 1139	dexaméthasone
+T42	MODE 1152 1170	voie intraveineuse
+T43	DOSE 1172 1180	0,5 g/kg
+T44	TEMP 1182 1196	pendant 6 mois
+T45	PROC 1206 1224	traitement médical

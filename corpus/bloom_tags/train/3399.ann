@@ -1,0 +1,66 @@
+T1	LIVB 4 12	patiente
+T2	DISO 67 90	tuberculose du pancréas
+T3	ANAT 82 90	pancréas
+T4	PROC 95 102	traitée
+T5	CHEM 110 121	Cyclosérine
+T6	DOSE 123 130	1 mg/kg
+T7	TEMP 130 132	/j
+T8	PROC 138 161	diagnostic histologique
+T9	DISO 168 212	mycose dermatophytique érythémato-pustulante
+T10	DISO 217 238	épiderme hypertrophié
+T11	DISO 246 273	hyperparathyroïdie primaire
+T12	DISO 279 312	atteinte kératosique prurigineuse
+T13	DISO 428 447	syndrome infectieux
+T14	DISO 454 470	maladie cœliaque
+T15	LIVB 479 486	famille
+T16	PROC 489 514	intervention chirurgicale
+T17	LIVB 541 549	patiente
+T18	PROC 555 593	anesthésie locorégionale per-aréatique
+T19	PROC 600 622	surrénalectomie droite
+T20	Localization 616 622	droite
+T21	PROC 635 763	curage ganglionnaire biquadragien axillaire préaxillaire huméro-laryngo-diaphragmatique laryngo-cervico-thoracique scannodoppler
+T23	MEAS 957 962	32° C
+T24	ANAT 999 1005	rénale
+T25	TEMP 1056 1073	pendant 48 heures
+T26	PROC 1090 1108	traitement curatif
+T27	PROC 1123 1142	chirurgie adjuvante
+T28	DISO 1236 1253	dyspnée sifflante
+T29	MEAS 1263 1288	profondément constrictive
+T30	DEVI 1402 1409	mouchet
+T31	ANAT 1432 1447	hypogastrocnème
+T32	DISO 1474 1495	polyarthrite bulleuse
+T33	MEAS 1509 1517	brunâtre
+T34	ANAT 1538 1552	parties molles
+T35	DISO 1599 1615	phéochromocytome
+T36	MEAS 1783 1787	2 cm
+T37	Concept_Idea 1791 1800	grand axe
+T38	ANAT 1821 1838	muscle quadriceps
+T39	ANAT 1856 1875	vésicule sécratrice
+T40	ANAT 1917 1964	membrane musculo-myospongieuse sus-claviculaire
+T41	DISO 2035 2063	primo-infection tuberculeuse
+T42	PROC 2081 2111	échographie abdomino-pélvienne
+T43	ANAT 2093 2111	abdomino-pélvienne
+T44	LIVB 2135 2143	patiente
+T45	DISO 2166 2191	localisations secondaires
+T46	DISO 2361 2385	infiltration myométriale
+T47	DISO 2401 2427	lésions hypervascularisées
+T48	DISO 2437 2450	inflammatoire
+T49	DISO 2545 2564	neuro-fibromuccinée
+T50	PROC 2568 2594	examen anatomopathologique
+T51	DISO 2616 2642	neurofibrome kystadénoïdal
+T52	ANAT 2657 2699	noyaux mésenchymateux du muscle quadriceps
+T53	PROC 2704 2723	bilan préopératoire
+T54	PROC 2739 2752	TDM pelvienne
+T55	ANAT 2743 2752	pelvienne
+T56	PROC 2777 2796	anesthésie générale
+T57	PROC 2801 2833	scanner thoraco-abdomino-pelvien
+T58	ANAT 2809 2833	thoraco-abdomino-pelvien
+T59	PROC 2835 2838	TSA
+T60	TEMP 2840 2851	pendant 72h
+T61	PROC 2860 2885	intervention chirurgicale
+T62	PROC 2887 2920	imagerie par résonance magnétique
+T63	PROC 2922 2925	IRM
+T64	PROC 2928 2964	écho-Doppler artério-veineuse fœtale
+T65	ANAT 2941 2964	artério-veineuse fœtale
+T66	PROC 2966 2970	EDAV
+T67	MEAS 2988 2995	normaux

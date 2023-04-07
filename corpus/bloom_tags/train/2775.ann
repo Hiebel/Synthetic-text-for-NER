@@ -1,0 +1,72 @@
+T1	LIVB 3 10	patient
+T2	PROC 27 32	admis
+T3	Hospital 37 62	urgences ophtalmologiques
+T4	Hospital 67 105	Cliniques Universitaires de Lubumbashi
+T5	DISO 124 149	insuffisance respiratoire
+T6	PHEN 137 149	respiratoire
+T7	DISO 167 173	fièvre
+T8	MEAS 185 189	36°C
+T9	PROC 193 208	examen clinique
+T10	DISO 220 272	dépression jugulo-carotidienne basithoracique droite
+T12	Localization 266 272	droite
+T13	TEMP 282 296	depuis 5 jours
+T14	DISO 317 343	troubles sensitivo-moteurs
+T15	DISO 346 354	polypnée
+T16	DISO 356 378	paralysie axonoclonale
+T17	ANAT 366 378	axonoclonale
+T18	DISO 392 422	désorientation temporospatiale
+T19	MODE 447 452	bolus
+T20	CHEM 456 466	sufentanil
+T21	DEVI 480 511	sonde nasoguédo-laryngoscopique
+T23	PROC 545 560	hospitalisation
+T24	PROC 566 602	anesthésie loco-régionale péridurale
+T25	ANAT 577 602	loco-régionale péridurale
+T26	DOSE 643 650	2 µg/kg
+T27	CHEM 654 662	propofol
+T28	DOSE 665 673	1µmol/kg
+T29	CHEM 677 687	morpholone
+T30	PROC 692 722	échographie abdomino-pelvienne
+T31	ANAT 704 722	abdomino-pelvienne
+T32	DISO 740 780	masse tissulaire hypo échogène hypodense
+T33	ANAT 798 824	hile iléo-cæco-vésiculaire
+T34	PROC 841 866	injections intraveineuses
+T35	CHEM 870 878	propofol
+T36	PROC 896 918	résection endoscopique
+T37	PROC 924 933	transfert
+T38	PROC 939 962	étude histopathologique
+T39	DISO 985 1002	récidive tumorale
+T40	LIVB 1024 1030	enfant
+T41	TEMP 1038 1043	8 ans
+T42	PROC 1056 1076	prise médicamenteuse
+T43	DISO 1117 1137	maladie neurologique
+T44	DISO 1147 1160	symptomatique
+T45	PROC 1180 1206	consultation préopératoire
+T46	ANAT 1235 1259	basithoracique médiastin
+T47	DISO 1270 1286	lésions malignes
+T48	DISO 1387 1420	syndrome néphrotique hypertrophié
+T49	DISO 1457 1488	traumatisme pulmonaire infarcté
+T50	ANAT 1469 1488	pulmonaire infarcté
+T51	DISO 1552 1589	dyspnée stade I de Balthazar syndrome
+T52	DISO 1617 1635	douleur thoracique
+T53	MEAS 1653 1665	plus brutale
+T54	MEAS 1675 1685	permanente
+T55	DISO 1743 1749	tumeur
+T56	ANAT 1777 1800	vaisseaux mésentériques
+T57	DISO 1955 1977	bradycardie systolique
+T58	MEAS 1989 2004	progressivement
+T59	Concept_Idea 2008 2014	taille
+T60	DISO 2036 2044	myalgies
+T61	DISO 2054 2067	inflammatoire
+T62	ANAT 2091 2117	parties molles abdominales
+T63	PROC 2139 2158	bilan immunologique
+T64	MEAS 2166 2183	fortement positif
+T65	MEAS 2320 2328	positifs
+T66	PROC 2332 2362	échographie abdomino-pelvienne
+T67	ANAT 2344 2362	abdomino-pelvienne
+T68	DISO 2374 2383	anomalies
+T69	PROC 2399 2415	examen somatique
+T70	PHEN 2444 2465	contractions utérines
+T71	ANAT 2457 2465	utérines
+T72	DISO 2482 2506	dilatation du col utérin
+T73	ANAT 2496 2506	col utérin
+T74	TEMP 2525 2532	24 mois

@@ -1,0 +1,45 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 57	antécédents
+T3	MEAS 58 70	particuliers
+T4	PROC 72 84	hospitalisée
+T5	Hospital 89 114	urgences ophtalmologiques
+T6	DISO 124 142	détresse visuelles
+T7	DISO 159 188	hyperhémie du sinus caverneux
+T8	ANAT 173 188	sinus caverneux
+T9	PROC 192 207	examen clinique
+T10	PHEN 221 231	perception
+T11	MEAS 232 242	imprenable
+T12	DISO 256 289	polynucléophagocôlon monocyclique
+T13	TEMP 299 315	depuis 48 heures
+T14	DISO 351 377	adénoïdiante hypersudation
+T15	MEAS 392 403	progressive
+T16	PROC 408 443	ponction liquide céphalo-rachidiens
+T17	ANAT 417 443	liquide céphalo-rachidiens
+T18	PROC 445 449	PLCC
+T19	PROC 471 506	contraception anti-vitrectropiniste
+T20	CHEM 485 506	anti-vitrectropiniste
+T21	CHEM 520 538	méthylprédnisolone
+T22	CHEM 550 560	furosémide
+T23	DOSE 578 584	120 ml
+T24	Localization 667 694	faces latéro-ventriculeuses
+T25	DISO 761 782	méningo-paragangliome
+T26	DISO 809 826	myxome malpighien
+T27	PROC 862 892	échographie abdomino-pelvienne
+T28	ANAT 874 892	abdomino-pelvienne
+T29	PROC 907 952	vaccination antitétanique proctérocytoïdienne
+T30	DISO 974 1012	syndrome d’épanchement intrapéritonéal
+T31	ANAT 997 1012	intrapéritonéal
+T32	DISO 1019 1039	signes neurologiques
+T33	DISO 1066 1098	défense vasculo-nerveux crâniens
+T34	ANAT 1074 1098	vasculo-nerveux crâniens
+T35	PROC 1130 1154	ionogramme préopératoire
+T36	MODE 1166 1183	natrémie corrigée
+T37	MEAS 1186 1195	123 meq/l
+T38	PROC 1200 1216	bilan infectieux
+T39	MEAS 1223 1230	positif
+T40	PROC 1234 1253	enzymes musculaires
+T41	ANAT 1242 1253	musculaires
+T42	MEAS 1262 1285	supérieures à 160 UI/ml
+T43	PROC 1289 1307	tension artérielle
+T44	ANAT 1297 1307	artérielle
+T45	MEAS 1325 1336	90/100 mmHg

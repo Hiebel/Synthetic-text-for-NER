@@ -1,0 +1,25 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	3 ans
+T3	Concept_Idea 37 48	antécédents
+T4	MEAS 49 61	particuliers
+T5	PROC 63 68	admis
+T6	Hospital 73 81	urgences
+T7	DISO 91 113	douleurs épigastriques
+T8	ANAT 100 113	épigastriques
+T9	DISO 121 127	fièvre
+T10	PROC 144 159	examen clinique
+T11	PROC 164 173	admission
+T12	LIVB 186 192	enfant
+T13	MEAS 196 199	bon
+T14	Concept_Idea 200 217	état neurologique
+T15	DISO 241 289	tuméfaction du parenchyme hépatique hypertrophié
+T16	ANAT 256 289	parenchyme hépatique hypertrophié
+T17	Localization 298 316	partie postérieure
+T18	PROC 321 337	bilan biologique
+T19	DISO 351 367	hyperleucocytose
+T20	MEAS 370 390	12 000 éléments/mm 3
+T21	PROC 424 450	explorations chirurgicales
+T22	DEVI 474 496	cathéter péristaltique
+T23	ANAT 483 496	péristaltique
+T24	CHEM 505 523	médiastrocardioïde
+T25	DISO 562 575	épigastralgie

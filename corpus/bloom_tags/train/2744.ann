@@ -1,0 +1,30 @@
+T1	LIVB 16 24	patiente
+T2	TEMP 41 47	2 fois
+T3	PROC 48 54	admise
+T4	Hospital 62 99	hôpital périphérique Hassan II de Fès
+T5	DISO 131 180	douleur basithoracique droit scannal hypertrophié
+T6	ANAT 139 180	basithoracique droit scannal hypertrophié
+T8	MEAS 195 206	progressive
+T9	DISO 221 233	hyperthermie
+T10	MEAS 245 249	39°C
+T11	TEMP 259 280	depuis plusieurs mois
+T12	MEAS 300 315	progressivement
+T13	Concept_Idea 319 325	volume
+T14	DISO 359 380	détresse respiratoire
+T15	PHEN 368 380	respiratoire
+T16	DISO 390 407	prolapsus pleural
+T17	ANAT 400 407	pleural
+T18	PROC 452 464	consultation
+T19	PROC 583 622	radiographie thoraco-abdomino pelvienne
+T20	ANAT 596 622	thoraco-abdomino pelvienne
+T21	DISO 639 692	masse tumorale épicondylaire droite hypo-vascularisée
+T22	ANAT 654 692	épicondylaire droite hypo-vascularisée
+T24	MEAS 702 706	14cm
+T25	Concept_Idea 710 719	grand axe
+T26	ANAT 747 783	tissu cutané herniploïque thoracique
+T27	DISO 845 940	adénopathie axillaires homolatérale controlatérale médiastinales cervico-thoraciques tissulaire
+T28	ANAT 857 940	axillaires homolatérale controlatérale médiastinales cervico-thoraciques tissulaire
+T30	MEAS 949 954	20 cm
+T31	Concept_Idea 958 967	grand axe
+T32	DISO 992 1034	métanéphrine noradrénaline sensitivomoteur
+T33	DISO 1046 1074	localisation tumoral maligne

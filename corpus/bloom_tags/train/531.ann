@@ -1,0 +1,35 @@
+T1	LIVB 28 38	adolescent
+T2	TEMP 42 48	16 ans
+T3	DISO 54 79	antécédents pathologiques
+T4	MEAS 80 88	notables
+T5	PROC 92 107	examen clinique
+T6	PROC 112 121	admission
+T7	LIVB 134 140	enfant
+T8	MEAS 144 147	bon
+T9	Concept_Idea 148 160	état général
+T10	PHEN 170 188	tension artérielle
+T11	ANAT 178 188	artérielle
+T12	MEAS 191 203	150/ 80 mmhg
+T13	DEVI 211 230	pression artérielle
+T14	ANAT 220 230	artérielle
+T15	MEAS 233 242	90/60mmhg
+T16	ANAT 254 265	thoraciques
+T17	ANAT 279 294	plexus brachial
+T18	MEAS 300 306	perçus
+T19	PROC 311 341	bilan biologique préopératoire
+T20	PROC 343 353	Hboglobine
+T21	PROC 355 367	troponine Ic
+T22	PROC 369 400	anticorps antinucléaires natifs
+T23	MEAS 408 414	normal
+T24	PROC 429 465	tomodensitométrie abdomino-pelvienne
+T25	ANAT 447 465	abdomino-pelvienne
+T26	DISO 496 546	masse tumorale hypodense latéro-utérine bilatérale
+T27	Localization 536 546	bilatérale
+T28	Concept_Idea 549 555	aspect
+T29	MEAS 556 567	vésiculaire
+T30	PROC 584 593	injection
+T32	MEAS 627 632	12 cm
+T33	Concept_Idea 636 645	grand axe
+T34	ANAT 661 677	parois vaginales
+T35	DISO 714 731	métanéphrorragies
+T36	DISO 742 763	lésions ostéomateuses

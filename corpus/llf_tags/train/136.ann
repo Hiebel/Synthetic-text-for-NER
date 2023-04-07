@@ -1,0 +1,26 @@
+T1	LIVB 3 13	nouveau-né
+T2	PHEN 31 51	grossesse gémellaire
+T3	TEMP 62 69	14 mois
+T4	DISO 129 155	prééclampsie néonatalienne
+T5	DISO 172 183	traumatisme
+T6	PROC 190 220	tomodensitométrie obstétricale
+T7	MEAS 265 277	4600 grammes
+T8	MEAS 283 294	430 grammes
+T9	CHEM 298 326	bronchodilatate de potassium
+T10	MEAS 332 349	5 fois la normale
+T11	MEAS 360 371	970 grammes
+T12	CHEM 375 388	phénobarbital
+T13	CHEM 399 433	antiagrégants catécholaminergiques
+T14	CHEM 439 460	Tropathyroidamidezone
+T15	DOSE 461 476	10 milligrammes
+T16	PROC 501 506	suivi
+T17	Hospital 511 534	maternités pédiatriques
+T18	PROC 545 573	prise en charge chirurgicale
+T19	PROC 611 640	geste chirurgical substitutif
+T20	MEAS 728 737	favorable
+T21	Concept_Idea 750 763	plan clinique
+T22	Concept_Idea 768 780	para médical
+T23	PROC 824 839	hospitalisation
+T24	DISO 857 877	signes radiologiques
+T25	Concept_Idea 903 919	âge gestationnel
+T26	TEMP 929 934	3 ans

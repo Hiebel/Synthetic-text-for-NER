@@ -1,0 +1,22 @@
+T1	LIVB 16 21	femme
+T2	PROC 38 45	traitée
+T3	DISO 54 84	carcinome séreux du col utérin
+T4	ANAT 74 84	col utérin
+T5	PROC 96 102	admise
+T6	Hospital 107 115	urgences
+T7	DISO 128 148	métrorragie primaire
+T8	PROC 152 177	intervention chirurgicale
+T9	PROC 198 224	contraception progestative
+T10	CHEM 226 237	Clonidazole
+T11	TEMP 239 257	pendant 6 semaines
+T13	ANAT 276 290	utéro-vaginale
+T14	MEAS 295 299	deux
+T15	Concept_Idea 347 353	aspect
+T16	DISO 356 378	épanchement péritonéal
+T17	ANAT 368 378	péritonéal
+T18	Localization 395 417	face antéropostérieure
+T19	ANAT 422 441	vésicules biliaires
+T20	MEAS 451 456	10 cm
+T21	Concept_Idea 460 469	grand axe
+T22	MEAS 474 478	3 cm
+T24	ANAT 513 527	surrénaliennes

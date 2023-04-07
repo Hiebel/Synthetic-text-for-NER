@@ -1,0 +1,25 @@
+T1	LIVB 14 21	Mme Z.M
+T2	Hospital 119 140	chirurgie pédiatrique
+T3	PROC 146 187	circulation extracorporelle intraveineuse
+T4	DISO 206 242	détresse respiratoire néonatalytique
+T5	PHEN 215 227	respiratoire
+T6	DISO 276 300	pathologies infectieuses
+T7	DISO 312 328	syndrome méningé
+T8	DISO 330 357	hépatite virale C chronique
+T9	DISO 359 384	méningo-encéphalite aigue
+T10	DISO 386 408	sérotonéphrite fébrile
+T11	DISO 429 448	fièvre hémorragique
+T12	TEMP 458 474	depuis 48 heures
+T13	PROC 494 516	traitement chirurgical
+T14	PROC 531 554	correction obstétricale
+T15	PROC 568 638	néphrectomie transoesophagienne anténatale controlatérale endovaginale
+T16	ANAT 651 703	quadrants infundibuliers fessiers inférieurs gauches
+T17	Localization 696 703	gauches
+T18	PROC 712 738	hystérectomie exploratrice
+T19	MEAS 751 760	difficile
+T20	ANAT 825 876	aires ganglionnaires cervico-thyroïdiens bilatéraux
+T21	Localization 866 876	bilatéraux
+T22	PROC 911 955	diagnostic anatomopathologique préopératoire
+T23	DISO 969 1038	formation polyploïde hétérotopique tissulaire hypokystique hyperdense
+T24	MEAS 1048 1053	18 mm
+T25	Concept_Idea 1057 1066	petit axe

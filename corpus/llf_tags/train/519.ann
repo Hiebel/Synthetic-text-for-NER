@@ -1,0 +1,23 @@
+T1	PROC 4 37	imagerie par résonance magnétique
+T2	PROC 39 42	IRM
+T3	PROC 76 93	bilan étiologique
+T4	DISO 100 129	maladie de Von Recklinghausen
+T5	DISO 148 197	processus lésionnel liquidien des voies biliaires
+T6	ANAT 182 197	voies biliaires
+T7	Concept_Idea 207 219	localisation
+T8	Localization 220 228	en amont
+T9	DISO 234 318	carcinome épidermoïde mono-pariétal postérieur infiltrant les troncs supra-aortiques
+T10	ANAT 296 318	troncs supra-aortiques
+T11	ANAT 338 360	lambeau crico-trachéal
+T12	ANAT 368 384	étage thoracique
+T13	LIVB 389 397	patiente
+T14	PROC 414 461	chimiothérapie adjuvante type amoxicilline IgIV
+T15	CHEM 444 461	amoxicilline IgIV
+T16	PROC 481 501	récepteurs hormonaux
+T17	TEMP 553 555	/j
+T18	CHEM 559 618	hormones gonadotrophiques proprogestatives progesteroniques
+T19	MEAS 619 620	3
+T20	PROC 621 631	plaquettes
+T21	MEAS 667 676	favorable
+T22	Concept_Idea 684 700	plan chirurgical
+T23	Concept_Idea 747 757	biologique

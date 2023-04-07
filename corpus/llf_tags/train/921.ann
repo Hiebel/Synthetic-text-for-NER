@@ -1,0 +1,96 @@
+T1	LIVB 16 21	femme
+T2	DISO 66 89	hypertension artérielle
+T3	ANAT 79 89	artérielle
+T4	DISO 96 122	diabète insulino-requérant
+T5	PROC 127 140	TDM du thorax
+T6	ANAT 134 140	thorax
+T7	DISO 174 235	processus tissulaire des cavités urétérales cervico-vaginales
+T8	ANAT 199 235	cavités urétérales cervico-vaginales
+T9	MEAS 244 248	5 cm
+T10	Concept_Idea 252 262	 grand axe
+T11	ANAT 278 294	hémithorax droit
+T12	Localization 289 294	droit
+T13	DISO 315 331	râles pulsatiles
+T14	DISO 345 362	prurit généralisé
+T15	DISO 373 394	crampes érythémateuse
+T16	Concept_Idea 439 451	état général
+T17	DISO 464 481	signes infectieux
+T18	PROC 497 535	cholangiographie par cohérence optique
+T19	PROC 536 539	CTO
+T20	DISO 578 597	symphysite oblongue
+T21	DISO 620 636	syndrome méningé
+T22	DISO 646 662	neurofibromatose
+T23	PHEN 668 686	suites opératoires
+T24	MEAS 695 702	simples
+T25	TEMP 712 722	21/08/2013
+T26	PROC 728 758	traitement médical substitutif
+T27	PROC 773 802	réanimation neurochirurgicale
+T28	CHEM 804 807	ROT
+T29	PROC 813 831	toucher bronchique
+T30	ANAT 821 831	bronchique
+T31	Hospital 844 852	urgences
+T32	DEVI 882 890	doigtier
+T33	DISO 895 906	vascularisé
+T34	MEAS 916 926	10 x 10 cm
+T35	MEAS 1011 1016	14 mm
+T36	MEAS 1042 1046	18mm
+T37	PROC 1050 1068	étude histologique
+T38	DISO 1087 1114	foyer lésionnel périnerveux
+T39	DISO 1125 1147	anomalie morphologique
+T40	DISO 1178 1198	résidu carcinomateux
+T41	PROC 1220 1261	biopsie scanno-guidée anatomopathologique
+T42	PROC 1275 1340	tumorectomie transoeso-gastro-duodénale endoscopiquement complète
+T43	ANAT 1359 1398	massif laryngé inférieur antero-externe
+T44	PROC 1405 1419	greffe cutanée
+T45	PROC 1438 1482	entérocystolithotomie intraveineuse monobloc
+T46	DISO 1507 1556	léiomyome épidermoïde rénitente métastasantérique
+T47	ANAT 1575 1628	paroi gastroduodénale ventriculaire supérieure gauche
+T48	Localization 1622 1628	gauche
+T50	ANAT 1785 1813	brosses bronches thoraciques
+T51	PROC 1836 1865	translaparotomie exploratrice
+T52	Concept_Idea 1888 1907	aspect radiologique
+T53	MEAS 1931 1942	incomplètes
+T54	PROC 1947 1964	geste chirurgical
+T55	PROC 1992 2039	toilette péritonéale segmentaire postopératoire
+T56	ANAT 2001 2039	péritonéale segmentaire postopératoire
+T57	ANAT 2128 2158	aires ganglionnaires fundiques
+T58	PROC 2197 2227	complément immunohistochimique
+T59	DISO 2259 2309	ostéosarcome pléomorphe polymalformatif infiltrant
+T61	LIVB 2751 2759	patiente
+T62	PROC 2766 2778	hospitalisée
+T63	Hospital 2783 2800	hôpital militaire
+T64	TEMP 2804 2812	24/11/08
+T65	DISO 2822 2840	crises convulsives
+T66	DISO 2897 2908	traumatisme
+T67	PROC 2959 2967	contrôle
+T68	PROC 2973 2995	radiographie du bassin
+T69	ANAT 2989 2995	bassin
+T70	LIVB 3058 3066	patiente
+T71	DISO 3074 3130	lésions érythémato-squamexigènes prurigineuses kystiques
+T72	ANAT 3143 3173	nerf sternal supérieur gauches
+T73	Localization 3166 3173	gauches
+T74	MEAS 3195 3205	spontanées
+T75	DEVI 3222 3237	drain aspiratif
+T76	ANAT 3247 3268	segments médiastinaux
+T77	ANAT 3281 3318	muscle psoas iliaque médial antérieur
+T78	Localization 3302 3318	médial antérieur
+T79	PROC 3349 3468	hystérectomie élargie oblongitudinale transmandibulaire axillaire multiiléale postéro-postérieure antévolumale associée
+T80	PHEN 3473 3498	section subtotale moyenne
+T81	PROC 3561 3587	examen anatomopathologique
+T82	DISO 3612 3636	symptomatologie tumorale
+T83	DISO 3640 3652	métastatique
+T84	DISO 3678 3700	syndrome inflammatoire
+T85	DISO 3717 3734	myome malformatif
+T86	DISO 3740 3776	tumeur myoépidermoïde carcinomateuse
+T87	MEAS 3784 3792	T4N5M0C8
+T88	MEAS 3802 3807	15 cm
+T89	Concept_Idea 3811 3820	grand axe
+T90	Concept_Idea 3845 3850	forme
+T91	DISO 3861 3905	neurofibroblastes psoriasiformes monoclonaux
+T92	Concept_Idea 3954 3963	grand axe
+T93	PROC 4009 4020	recherchées
+T94	DISO 4050 4117	processus lésionnel mucineux liquidien fibrillaire cervico-kystique
+T95	ANAT 4141 4185	surface cricoïdienne inférieure homolatérale
+T96	Localization 4173 4185	homolatérale
+T97	DISO 4203 4227	dermatomyosite polypoide
+T98	MEAS 4250 4258	T4N5M0C8

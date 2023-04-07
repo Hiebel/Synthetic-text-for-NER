@@ -1,0 +1,45 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 70	traitée
+T3	CHEM 78 89	buprololone
+T4	DISO 99 138	symptômes d'épanchement intrapéritonéal
+T5	ANAT 123 138	intrapéritonéal
+T6	TEMP 148 161	depuis 6 mois
+T7	PROC 167 191	chimiothérapie adjuvante
+T8	DISO 207 256	traumatisme abdomino-pelvien inféro-sigmoïdulaire
+T9	ANAT 219 256	abdomino-pelvien inféro-sigmoïdulaire
+T10	PROC 313 316	PPO
+T12	ANAT 330 346	abdomino-pelvien
+T13	Hospital 359 367	urgences
+T14	DISO 384 420	pancréatite stade E hypoglycorétique
+T15	DISO 436 462	paragangliome hypertrophié
+T16	PROC 517 550	imagerie par résonance magnétique
+T17	PROC 552 555	IRM
+T18	DISO 582 609	localisations métastatiques
+T19	DISO 620 642	signes neurorésistants
+T20	LIVB 669 677	patiente
+T21	PROC 682 715	curage liquidien trans péritonéal
+T22	ANAT 689 715	liquidien trans péritonéal
+T23	DISO 778 798	syndrome métabolique
+T24	DISO 823 850	diabète insulino-reductible
+T25	DISO 856 882	hypoparathyroïdie primaire
+T26	DISO 980 993	hydrocéphalie
+T27	DISO 1044 1071	épanchement intrapéritonéal
+T28	ANAT 1056 1071	intrapéritonéal
+T29	MEAS 1084 1099	insatisfaisante
+T30	MEAS 1110 1118	3 litres
+T31	DOSE 1165 1171	1mg/kg
+T32	TEMP 1171 1176	/jour
+T33	PROC 1190 1235	kinésithérapie vasculo-nerveuse intraveineuse
+T35	PROC 1236 1240	CIVT
+T36	MODE 1242 1248	per os
+T37	DEVI 1289 1322	bandelette aspiratrice électrique
+T38	DISO 1409 1439	volvulus hémorragique purulent
+T39	ANAT 1450 1461	intestinale
+T40	PROC 1492 1506	biopsie étagée
+T41	PROC 2518 2548	échographie abdomino-pelvienne
+T42	ANAT 2530 2548	abdomino-pelvienne
+T43	Concept_Idea 2564 2570	aspect
+T44	DISO 2573 2620	épanchement péritonéal péripéritonéal infarctus
+T46	ANAT 2639 2644	grêle
+T47	PHEN 2649 2667	suites opératoires
+T48	MEAS 2668 2675	simples

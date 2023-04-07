@@ -1,0 +1,29 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	9 ans
+T3	Concept_Idea 25 56	antécédents médico-chirurgicaux
+T4	MEAS 57 69	particuliers
+T5	PROC 71 81	consultait
+T6	Hospital 86 107	urgences pédiatriques
+T7	DISO 117 139	douleurs épigastriques
+T8	ANAT 126 139	épigastriques
+T9	MEAS 154 165	progressive
+T10	TEMP 175 191	depuis deux mois
+T11	PROC 195 210	examen clinique
+T12	PROC 215 224	admission
+T13	LIVB 237 243	enfant
+T14	Concept_Idea 268 286	plan hémodynamique
+T15	PHEN 296 315	pression artérielle
+T16	ANAT 305 315	artérielle
+T17	MEAS 326 338	120/70 mm Hg
+T18	DISO 354 374	analgésie péridurale
+T19	PROC 380 402	TDM abdomino-pelvienne
+T20	ANAT 384 402	abdomino-pelvienne
+T21	DISO 433 528	masse tumorale du parenchyme épiploique cervico-rénal latéro-utérine hypogastrique hypoéchogène
+T23	PROC 580 601	injection liquidienne
+T24	CHEM 605 625	produit de contraste
+T25	PROC 630 659	ponction liquide intraveineux
+T27	DEVI 679 698	sonde nasogastrique
+T28	ANAT 685 698	nasogastrique
+T29	MODE 712 738	voie veineuse périphérique
+T30	DOSE 748 756	4 litres
+T31	PROC 765 776	administrés

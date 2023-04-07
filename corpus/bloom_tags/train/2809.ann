@@ -1,0 +1,25 @@
+T1	LIVB 16 24	patiente
+T4	PROC 203 230	traitement médical adjuvant
+T5	DOSE 235 237	2g
+T6	TEMP 237 239	/j
+T7	CHEM 243 256	métronidazole
+T8	DISO 298 306	surpoids
+T9	MEAS 316 321	70 kg
+T10	TEMP 335 348	depuis 6 mois
+T11	DISO 368 386	anorexie chronique
+T12	MEAS 410 414	20kg
+T13	PROC 417 446	examen clinique préopératoire
+T14	LIVB 460 468	patiente
+T15	DISO 507 532	sensibilité hypogastrique
+T16	ANAT 519 532	hypogastrique
+T17	DISO 542 569	symptomatologie fonctionnel
+T18	PROC 596 627	échographie anatomopathologique
+T19	ANAT 608 627	anatomopathologique
+T20	ANAT 709 725	cordons iliaques
+T21	MEAS 734 738	17mm
+T22	Concept_Idea 742 751	grand axe
+T23	PHEN 776 794	reflux intestinale
+T24	ANAT 783 794	intestinale
+T25	PROC 823 854	endoscopies transoesophagiennes
+T26	ANAT 835 854	transoesophagiennes
+T27	DISO 882 905	lésions carcinomateuses

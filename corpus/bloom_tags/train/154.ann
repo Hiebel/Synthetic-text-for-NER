@@ -1,0 +1,21 @@
+T1	LIVB 2 8	enfant
+T2	PROC 15 20	admis
+T3	Hospital 25 33	urgences
+T4	DISO 53 86	syndrome d'épanchement péritonéal
+T5	ANAT 76 86	péritonéal
+T6	DISO 127 143	signes cliniques
+T7	DISO 169 182	hémopéritoine
+T8	PROC 187 206	bilan préopératoire
+T9	PHEN 227 242	fonction rénale
+T10	ANAT 236 242	rénale
+T11	MEAS 243 250	normale
+T12	CHEM 252 262	créatinine
+T13	MEAS 265 272	2µmol/l
+T14	PROC 274 282	natrémie
+T15	MEAS 284 293	135 meq/l
+T16	PROC 300 331	échographie abdomino- pelvienne
+T17	ANAT 312 331	abdomino- pelvienne
+T18	DISO 380 416	épanchement bilatéral du méso rectum
+T19	Localization 392 401	bilatéral
+T20	ANAT 405 416	méso rectum
+T21	DISO 433 461	rupture péritonéale nécrosée

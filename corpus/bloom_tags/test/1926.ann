@@ -1,0 +1,33 @@
+T1	LIVB 4 12	patiente
+T3	ANAT 77 86	liquidien
+T4	ANAT 100 117	surrénalien droit
+T5	Localization 112 117	droit
+T6	PROC 136 161	intervention chirurgicale
+T7	PROC 167 191	anesthésie locorégionale
+T8	ANAT 178 191	locorégionale
+T9	PROC 196 202	admise
+T10	DISO 242 270	douleurs abdomino-pelviennes
+T11	ANAT 251 270	abdomino-pelviennes
+T12	DISO 280 293	inflammatoire
+T13	MEAS 308 314	rapide
+T14	MEAS 326 341	progressivement
+T15	Concept_Idea 345 351	volume
+T16	TEMP 361 379	depuis trois jours
+T17	LIVB 386 388	sa
+T18	PROC 389 401	consultation
+T19	DISO 463 496	syndrome inflammatoire biologique
+T20	Concept_Idea 518 530	état général
+T21	PROC 533 553	examen gynécologique
+T22	PHEN 567 590	grossesse extra utérine
+T23	ANAT 577 590	extra utérine
+T24	MEAS 601 605	3 SA
+T25	MEAS 722 734	2500 grammes
+T26	MEAS 744 749	30 cm
+T27	Concept_Idea 753 762	grand axe
+T28	PROC 794 800	palpée
+T29	DISO 960 987	masse tissulaire arrondulée
+T30	LIVB 1018 1022	elle
+T31	PROC 1077 1108	bilan biochimique préopératoire
+T32	PROC 1124 1141	natrémie corrigée
+T33	MEAS 1144 1153	126 meq/l
+T34	PROC 1159 1178	hémoglobine glyquée

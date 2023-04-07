@@ -1,0 +1,39 @@
+T1	LIVB 19 26	patient
+T2	PROC 47 58	hospitalisé
+T3	Hospital 63 71	urgences
+T4	DISO 81 98	céphalées fébrile
+T5	Concept_Idea 111 129	traitement curatif
+T6	DISO 156 185	polyradiculonévrite purulante
+T7	LIVB 187 190	Son
+T8	PROC 191 211	examen gynécologique
+T9	PHEN 227 245	masse épigastrique
+T10	ANAT 233 245	épigastrique
+T11	MEAS 254 258	2 cm
+T12	Concept_Idea 262 271	grand axe
+T13	TEMP 280 296	3 mois plus tard
+T14	Concept_Idea 341 353	état général
+T15	DISO 369 381	vomissements
+T16	MEAS 392 401	10 litres
+T17	DISO 457 470	symptomatique
+T18	MEAS 485 512	progressivement progressive
+T19	DISO 533 544	douloureuse
+T20	MEAS 556 568	spontanément
+T21	Concept_Idea 572 578	taille
+T22	DISO 604 626	sensations électriques
+T23	DISO 637 646	anomalies
+T24	DISO 684 709	troubles sensitivomotrice
+T25	DISO 719 748	déficit sensitivo-cocommoteur
+T26	LIVB 750 754	elle
+T27	CHEM 782 795	phénobarbital
+T28	CHEM 805 816	nicardipine
+T29	DISO 855 881	douleur abdomino pelvienne
+T30	ANAT 863 881	abdomino pelvienne
+T31	PROC 903 926	toucher cervico-vaginal
+T32	ANAT 911 926	cervico-vaginal
+T33	DISO 952 978	palais hydrosalpinctionnel
+T34	LIVB 1002 1010	patiente
+T35	PHEN 1049 1059	 menstrues
+T36	TEMP 1073 1079	22 ans
+T37	PROC 1267 1272	reçue
+T38	MEAS 1311 1325	30 000 /minute
+T39	MODE 1360 1370	voie basse

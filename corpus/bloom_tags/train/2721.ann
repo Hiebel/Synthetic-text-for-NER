@@ -1,0 +1,24 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 45 70	antécédents pathologiques
+T3	MEAS 71 79	notables
+T4	DISO 99 139	syndrome d'épanchement péricardique aigu
+T5	ANAT 122 134	péricardique
+T6	PROC 152 167	examen clinique
+T7	PROC 171 201	échographie abdomino-pelvienne
+T8	ANAT 183 201	abdomino-pelvienne
+T9	DISO 218 249	masse latéro-utérine bilatérale
+T10	Localization 239 249	bilatérale
+T11	MEAS 259 264	46 cm
+T12	Concept_Idea 267 273	aspect
+T13	MEAS 274 284	hétérogène
+T14	ANAT 298 320	méso-vésicule biliaire
+T15	ANAT 328 346	parois vésiculaire
+T16	CHEM 374 394	produit de contraste
+T17	DISO 414 453	épanchement intravésiculaire péritonéal
+T18	ANAT 426 453	intravésiculaire péritonéal
+T19	PROC 457 490	imagerie par résonance magnétique
+T20	PROC 492 516	IRM) cervico-thoraciques
+T21	ANAT 497 516	cervico-thoraciques
+T22	TEMP 535 548	peropératoire
+T23	PROC 564 585	bilan préanesthésique
+T24	PROC 594 629	chirurgie exploratrice chirurgicale

@@ -1,0 +1,35 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	DISO 50 73	symptômes neurologiques
+T4	MEAS 88 99	progressive
+T5	Concept_Idea 144 156	état général
+T6	DISO 169 190	signes inflammatoires
+T7	DISO 217 223	fièvre
+T8	DISO 230 248	détresse digestive
+T9	PHEN 239 248	digestive
+T10	DISO 254 268	amaigrissement
+T11	MEAS 279 284	12 kg
+T12	TEMP 288 297	deux mois
+T13	CHEM 332 345	bêtaméthasone
+T14	CHEM 348 369	hydroxyhydrocortisone
+T15	PROC 375 412	tomodensitométrie abdomino- pelvienne
+T16	ANAT 393 412	abdomino- pelvienne
+T17	DISO 429 460	tumeur tissulaire hyper intense
+T18	MEAS 470 474	5 cm
+T19	Concept_Idea 478 487	grand axe
+T20	MEAS 492 496	3 cm
+T21	Concept_Idea 500 513	petite taille
+T22	ANAT 531 551	fosse iliaque droite
+T23	Localization 545 551	droite
+T24	MEAS 569 578	fortement
+T25	PROC 585 594	injection
+T26	CHEM 598 618	produit de contraste
+T27	DISO 676 708	adénocarcinome séreux péritonéal
+T28	DISO 755 781	localisations néoplasiques
+T29	DISO 796 835	maladie mycosique érythémateuse ulcérée
+T30	DISO 914 933	syndrome allergique
+T31	CHEM 938 951	prédnisolones
+T32	LIVB 960 972	jeune garçon
+T33	TEMP 980 985	7 ans
+T34	DISO 1001 1018	neurofibrilations
+T35	DISO 1033 1054	hyperphagie chronique

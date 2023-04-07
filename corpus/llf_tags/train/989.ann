@@ -1,0 +1,39 @@
+T1	LIVB 20 25	fille
+T2	TEMP 34 40	21 ans
+T3	DISO 47 72	antécédents pathologiques
+T4	MEAS 73 85	particuliers
+T5	PROC 96 102	admise
+T6	Hospital 107 115	urgences
+T7	DISO 125 154	symptomatologie psychiatrique
+T8	PROC 160 175	examen clinique
+T9	LIVB 180 188	patiente
+T10	Concept_Idea 212 230	plan hémodynamique
+T11	PHEN 234 246	respiratoire
+T12	ANAT 255 260	pouls
+T13	MEAS 263 277	100 battements
+T14	TEMP 278 289	par minutes
+T15	PROC 339 371	examen du membre inférieur droit
+T16	ANAT 349 371	membre inférieur droit
+T17	Localization 366 371	droit
+T18	DISO 388 404	râles crépitants
+T19	ANAT 419 423	bras
+T20	DISO 436 455	bruit hydro-aérique
+T21	DEVI 474 500	processus sensitivo-moteur
+T22	PROC 516 532	examen somatique
+T23	DISO 544 557	particularité
+T24	PROC 563 584	biopsie scanno-guidée
+T25	PROC 605 624	anesthésie générale
+T26	Concept_Idea 640 658	plans histologique
+T27	PROC 662 681	immunohistochimique
+T28	CHEM 756 768	amoxicilline
+T29	CHEM 771 789	acide clavulanique
+T30	MEAS 823 830	simples
+T31	LIVB 836 844	patiente
+T32	PROC 868 892	chimiothérapie adjuvante
+T34	CHEM 927 939	pyrazinamide
+T35	DOSE 940 942	1g
+T36	TEMP 942 944	/j
+T37	DOSE 977 981	2 mg
+T38	TEMP 981 983	/j
+T39	PROC 1015 1034	rééducation motrice
+T40	PROC 1044 1064	traitement palliatif

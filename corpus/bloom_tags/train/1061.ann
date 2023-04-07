@@ -1,0 +1,39 @@
+T1	LIVB 4 9	femme
+T2	PROC 16 26	réadressée
+T3	PROC 32 50	traitement médical
+T4	CHEM 61 74	sulfasalamide
+T5	DOSE 76 83	1 mg/kg
+T6	TEMP 83 88	/jour
+T7	CHEM 93 104	mifosfamide
+T8	DOSE 106 113	2 mg/kg
+T9	TEMP 113 115	/j
+T10	MODE 117 129	intraveineux
+T11	MEAS 146 155	partielle
+T12	DISO 162 177	symptomatologie
+T13	PROC 221 255	prélèvements bactériocorticoïdiens
+T14	MEAS 276 283	négatif
+T15	Concept_Idea 425 433	clinique
+T16	PROC 515 551	tomodensitométrie abdomino-pelvienne
+T17	ANAT 533 551	abdomino-pelvienne
+T18	DISO 576 613	hémopéritoine anévrismateuse kystique
+T19	ANAT 635 653	organes abdominaux
+T20	DISO 703 726	carcinome endometrioïde
+T21	ANAT 713 726	endometrioïde
+T22	DISO 739 769	myomateux nécrose érythémateur
+T23	DISO 776 818	maladie thromboembolique veineuse profonde
+T24	PROC 822 839	geste chirurgical
+T25	PROC 858 951	anastomose iléo-cæcale iléo-vésiculaire transvésicale pancréato-surrénalienne type Mac Gregor
+T27	PROC 969 1048	laparotomie exploratrice para-métacœcale transverso-lombaire cervicotuberculose
+T28	PROC 1049 1055	TOTLCT
+T29	PROC 1094 1111	curage ombilicale
+T30	DEVI 1117 1136	placenta artificiel
+T31	MEAS 1144 1150	1650 g
+T32	PHEN 1209 1229	grossesse monofœtale
+T33	PROC 1248 1254	suivie
+T34	MEAS 1268 1275	brutale
+T35	DISO 1305 1323	détresse digestive
+T36	PHEN 1314 1323	digestive
+T37	MEAS 1335 1339	10kg
+T38	MEAS 2016 2023	normale
+T39	LIVB 2181 2190	patientes
+T40	Concept_Idea 2311 2320	résultats

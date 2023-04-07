@@ -1,0 +1,24 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	Concept_Idea 36 47	antécédents
+T4	MEAS 48 60	particuliers
+T5	DISO 81 92	tuméfaction
+T6	ANAT 106 122	sinus maxillaire
+T7	TEMP 132 145	depuis 3 mois
+T8	PROC 150 167	bilan d'extension
+T9	MEAS 174 181	négatif
+T11	PROC 205 225	TDM) cervico-faciale
+T13	Hospital 238 245	urgence
+T14	DISO 262 339	processus tumoral nodulaire des parties molles cervicaux latéro-latéral droit
+T15	ANAT 294 339	parties molles cervicaux latéro-latéral droit
+T16	Localization 334 339	droit
+T17	ANAT 355 390	muscle ptérygoïdien supérieur droit
+T18	Localization 385 390	droit
+T19	MEAS 400 405	30 cm
+T20	MEAS 410 415	20 cm
+T21	ANAT 432 456	muqueuse parotide gauche
+T22	Localization 450 456	gauche
+T23	DISO 477 534	lésion hypodense tissulaire liquidienne hypo-vascularisée
+T24	Concept_Idea 560 568	contours
+T25	PHEN 599 623	envahissement parotidien
+T26	ANAT 613 623	parotidien

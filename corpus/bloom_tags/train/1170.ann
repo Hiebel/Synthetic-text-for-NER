@@ -1,0 +1,40 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	PROC 54 77	radiothérapie adjuvante
+T4	ANAT 91 115	sinus mandibulaire droit
+T5	Localization 110 115	droit
+T6	PROC 119 139	examen préopératoire
+T7	LIVB 159 167	patiente
+T8	DISO 172 198	troubles sensitivomotrices
+T9	TEMP 208 218	depuis 1an
+T10	DISO 234 254	syndrome d'épilepsie
+T11	DISO 260 281	atteinte neurologique
+T12	PROC 285 314	auscultation cutanéo-muqueuse
+T13	ANAT 298 314	cutanéo-muqueuse
+T14	DISO 340 360	signes pathologiques
+T15	DISO 378 396	fistule pulmonaire
+T16	ANAT 386 396	pulmonaire
+T17	DISO 407 433	métastases paragangliantes
+T18	ANAT 441 499	espace pharyngobasilaire basithoracique cervico-bronchique
+T19	CHEM 501 505	PSBT
+T20	PROC 511 548	tomodensitométrie abdomino- pelvienne
+T21	ANAT 529 548	abdomino- pelvienne
+T22	DISO 565 600	pancréatite stade E / 2de Balthazar
+T23	ANAT 622 642	grossesse abdominale
+T24	DISO 662 712	adénopathies pelviennes tissulaires infiltratrices
+T25	ANAT 675 712	pelviennes tissulaires infiltratrices
+T26	PROC 733 742	injection
+T27	DOSE 746 751	50 cc
+T28	CHEM 755 775	produit de contraste
+T29	MEAS 787 798	massivement
+T30	Concept_Idea 802 808	taille
+T31	DISO 835 858	masse tumorale kystique
+T32	ANAT 913 924	glandulaire
+T33	DEVI 999 1026	endo-gastrique scannoguidée
+T34	PROC 1032 1095	scanner thoraco-abdomino-pelvien transoesophagien scanno-guidée
+T36	PROC 1114 1135	imagerie chirurgicale
+T37	DISO 1199 1230	kystes hydatiques pancréatiques
+T38	DISO 1279 1305	malformations congénitales
+T39	DISO 1333 1352	déplasie tissulaire
+T40	ANAT 1342 1352	tissulaire
+T41	LIVB 1444 1452	patients

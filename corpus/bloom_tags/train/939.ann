@@ -1,0 +1,64 @@
+T1	LIVB 16 24	patiente
+T2	PROC 50 56	admise
+T3	Hospital 61 69	urgences
+T4	DISO 79 121	douleurs abdomino-pelviennes hypoéchogènes
+T5	ANAT 88 121	abdomino-pelviennes hypoéchogènes
+T6	DISO 131 144	symptomatique
+T7	TEMP 154 170	depuis deux mois
+T8	DISO 190 204	amaigrissement
+T9	MEAS 215 220	30 kg
+T10	CHEM 226 238	amoxicilline
+T11	CHEM 239 252	acénocoumarol
+T12	MODE 273 278	bolus
+T13	DOSE 282 287	400mg
+T14	CHEM 291 307	méthyl-méthasone
+T15	PROC 321 345	cystoscopie exploratrice
+T16	LIVB 369 377	patiente
+T17	DISO 382 427	lésion polypoïde tissulaire hypervascularisée
+T18	MEAS 437 441	5 cm
+T19	Concept_Idea 445 454	grand axe
+T20	ANAT 472 487	flux péritonéal
+T21	ANAT 502 514	anses grêles
+T22	PROC 565 601	tomodensitométrie abdomino-pelvienne
+T23	ANAT 583 601	abdomino-pelvienne
+T24	DISO 619 681	masse tumorale épiphyso-fémoro-cervicale sus utérine hypodense
+T26	Localization 660 663	sus
+T27	ANAT 719 750	veine cave rénale supra utérine
+T28	Localization 737 742	supra
+T29	DISO 766 804	paragangliome lithiasique hypertrophié
+T30	ANAT 833 852	vésicules biliaires
+T31	DISO 890 916	myxome hydrosalpinch étagé
+T32	ANAT 927 940	méso-latérale
+T33	PROC 989 1025	anastomose intra-abdomino-opératoire
+T34	PROC 1044 1067	surrénalectomie élargie
+T35	PROC 1139 1163	scanner abdomino-pelvien
+T36	ANAT 1147 1163	abdomino-pelvien
+T37	PROC 1217 1237	traitements curatifs
+T38	DISO 1301 1321	prise médicamenteuse
+T39	DISO 1328 1354	consanguinité malformative
+T40	DISO 1438 1456	effraction utérine
+T41	ANAT 1449 1456	utérine
+T42	PROC 1575 1623	réhydratation intraveineuse antalgique adjuvante
+T43	DISO 1654 1674	hypoglycémie fébrile
+T44	LIVB 1695 1704	patientes
+T45	DISO 1815 1836	détresse respiratoire
+T46	PHEN 1824 1836	respiratoire
+T47	DISO 1918 1959	syndrome d’épanchement rétinien liquidien
+T48	ANAT 1941 1959	rétinien liquidien
+T49	PROC 2008 2030	recherche radiologique
+T50	MEAS 2098 2109	négligeable
+T51	DISO 2261 2297	accident hémorragique néonéphrotique
+T52	MEAS 2307 2317	18000 UI/L
+T53	DISO 2337 2374	maladie d'épanchement intrapéritonéal
+T54	ANAT 2359 2374	intrapéritonéal
+T55	PROC 2392 2413	drainage du péritoine
+T57	Concept_Idea 2434 2446	volume total
+T58	Concept_Idea 2468 2474	taille
+T59	DEVI 2479 2487	viscanes
+T60	PROC 2503 2528	intervention chirurgicale
+T61	MEAS 2538 2545	4litres
+T62	PROC 2569 2601	surveillance échocardiographique
+T63	PROC 2607 2638	contraception anti progestative
+T64	CHEM 2621 2638	anti progestative
+T65	PROC 2647 2674	remplissage vasculo-nerveux
+T66	ANAT 2659 2674	vasculo-nerveux

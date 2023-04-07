@@ -1,0 +1,32 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	Hospital 58 79	urgences pédiatriques
+T5	ANAT 98 116	hypoéchogastriques
+T6	TEMP 126 144	depuis trois jours
+T7	MEAS 160 171	progressive
+T8	MEAS 186 192	rapide
+T9	PROC 198 212	interrogatoire
+T10	LIVB 214 217	ses
+T11	DISO 247 299	carcinose endobronchique cervicale hypo-vascularisée
+T13	MEAS 315 330	progressivement
+T14	Concept_Idea 334 340	volume
+T15	DISO 368 406	syndrome d'épanchement intrapéritonéal
+T16	ANAT 391 406	intrapéritonéal
+T17	PROC 420 444	scannographie thoracique
+T18	ANAT 434 444	thoracique
+T19	DISO 461 550	sténose interstitielle thyro-laryngo-basilaire diaphragmatique transhypoprotéique altérée
+T21	MEAS 562 572	rapidement
+T22	TEMP 589 597	deux ans
+T23	DISO 613 652	polyarthrite érythémateuse prurigineuse
+T24	DISO 683 704	troubles métaboliques
+T25	DISO 714 727	inflammatoire
+T26	PROC 731 747	bilan biologique
+T27	MEAS 780 799	15000 éléments/mm 3
+T28	PROC 801 816	globules blancs
+T29	MEAS 819 838	160000 élément/mm 3
+T30	PROC 840 850	plaquettes
+T31	MEAS 853 876	20 000300 éléments/mm 3
+T32	PROC 879 898	protéine C-réactive
+T33	MEAS 911 918	70 UI/l
+T34	MEAS 924 951	environ 100 fois la normale
+T35	PROC 961 980	alpha foetoproteine

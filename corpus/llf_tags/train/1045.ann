@@ -1,0 +1,90 @@
+T1	LIVB 14 20	enfant
+T2	TEMP 46 52	15 ans
+T3	DISO 89 96	diabète
+T4	MEAS 97 103	type 2
+T5	CHEM 109 126	insulinodépendant
+T6	PROC 130 145	examen clinique
+T7	PROC 150 159	admission
+T8	LIVB 171 179	patiente
+T9	Concept_Idea 205 223	plan hémodynamique
+T10	PHEN 227 239	respiratoire
+T11	ANAT 249 261	conjonctives
+T12	MEAS 262 275	bien colorées
+T13	DISO 281 288	dyspnée
+T14	DISO 292 298	fièvre
+T15	PROC 313 330	Tomodensitométrie
+T16	PROC 332 347	TDM) thoracique
+T17	ANAT 337 347	thoracique
+T18	DISO 395 427	masse tissulaire du scarpa droit
+T19	ANAT 415 427	scarpa droit
+T20	Localization 422 427	droit
+T21	MEAS 437 441	7 cm
+T22	Concept_Idea 445 454	grand axe
+T23	PROC 471 479	réséquée
+T24	LIVB 488 509	chirurgiens-opérators
+T25	PROC 531 543	consultation
+T26	Hospital 548 569	urgences pédiatriques
+T27	PROC 574 588	toucher rectal
+T28	ANAT 582 588	rectal
+T29	Localization 629 646	antérieure droite
+T30	MEAS 670 676	4/3 cm
+T31	MEAS 680 686	5/6 cm
+T32	Localization 730 747	bilatéraux gauche
+T33	MEAS 765 768	1cm
+T34	Concept_Idea 772 781	grand axe
+T35	PROC 801 809	incision
+T36	DEVI 828 852	matériel d'ostéosynthèse
+T37	MEAS 872 878	0,9 mm
+T38	Concept_Idea 882 891	petit axe
+T39	MEAS 988 995	simples
+T40	LIVB 1007 1015	patiente
+T41	PROC 1020 1049	prise en charge préopératoire
+T42	PROC 1085 1119	radiothérapie néo adjuvante locale
+T43	PROC 1133 1179	néphrectomie totale exploratrice scanno-guidée
+T44	PROC 1213 1308	parotidectomie percutanée échogène rétropéritonéale rétromangieffienne type FECKERFEGHZMANIELEY
+T45	PROC 1334 1359	intervention chirurgicale
+T46	PROC 1431 1530	hystérectomie endolo-anastomose segmentaire achilléenne monocontruccipitale asymétrique écho-guidée
+T47	PROC 1540 1559	classification TNSE
+T48	PROC 1602 1735	laparotomie digestive transoesophagienne rétrograde cœlio-trachéo-nécrotique terminale fémorale intubercule ascensionnelle fistulisée
+T49	PROC 1779 1812	perfusion aspiratif intraveineuse
+T50	PROC 1825 2070	entérocysthyroïdie antibioprophylaxie anéchogène moyenne intramédullaire périostée antrale postéro abdominoïde trochaïque distale biquadrackeliietale crase foresthesiae fractionnée perifectilion treasilicious hypertrophic controlled ketoacidosis
+T52	LIVB 2722 2728	malade
+T53	PROC 2746 2771	bilan préchimiothérapique
+T54	PROC 2798 2823	scanner thoraco-abdominal
+T55	ANAT 2806 2823	thoraco-abdominal
+T56	PROC 2827 2851	exploration histologique
+T57	DISO 2855 2870	pneumopéritoine
+T58	PROC 2877 2918	dosage des hormones thyréotropes sériques
+T59	CHEM 2888 2918	hormones thyréotropes sériques
+T60	PROC 2933 2951	bilans biologiques
+T61	DISO 2965 2973	anomalie
+T62	DISO 2991 3014	souffrance respiratoire
+T63	ANAT 3002 3014	respiratoire
+T64	DISO 3021 3047	carcinose hépato-digestive
+T65	ANAT 3031 3047	hépato-digestive
+T66	DISO 3057 3081	déficit en triméthoprime
+T67	CHEM 3068 3081	triméthoprime
+T68	MEAS 3118 3125	simples
+T69	PROC 3149 3164	oxygénothérapie
+T71	Concept_Idea 3238 3257	classification UIPI
+T72	PROC 3267 3292	étude immunohistochimique
+T73	DISO 3327 3358	processus carcinomateux maligne
+T74	MEAS 3382 3387	15 cm
+T75	Concept_Idea 3391 3400	grand axe
+T76	MEAS 3409 3413	5 mm
+T77	Concept_Idea 3417 3426	petit axe
+T78	ANAT 3445 3475	paroi gastroduodénale biliaire
+T79	Localization 3484 3501	partie antérieure
+T80	PROC 3526 3544	lavage chirurgical
+T81	DISO 3583 3598	lésion tumorale
+T82	PROC 3603 3627	contrôle scannographique
+T83	DISO 3656 3698	syndrome infectieux cliniquement évocateur
+T84	LIVB 3723 3731	patients
+T85	DISO 3756 3769	neuroleptique
+T86	ANAT 3831 3861	segment mésentérique hépatique
+T87	ANAT 3877 3910	parties molles cervico-pelviennes
+T88	DISO 3939 3981	polynucléaires chondroblastiques atypiques
+T89	Concept_Idea 3998 4015	indice tensionnel
+T90	MEAS 4025 4035	0,7 µg/m 2
+T91	PHEN 4134 4149	fonction rénale
+T92	ANAT 4143 4149	rénale

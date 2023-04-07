@@ -1,0 +1,121 @@
+T1	LIVB 16 24	patiente
+T2	DISO 68 75	diabète
+T3	MEAS 76 83	type II
+T4	DISO 91 130	insuffisance rénale chronique terminale
+T5	ANAT 104 110	rénale
+T6	PROC 135 157	radiographie du thorax
+T7	ANAT 151 157	thorax
+T8	DISO 171 207	niveaux hydro-aériques hypoéchogènes
+T9	DISO 213 235	déficit en sulfonamide
+T10	CHEM 224 235	sulfonamide
+T11	Concept_Idea 245 268	localisation secondaire
+T12	PROC 283 297	interrogatoire
+T13	LIVB 302 310	patiente
+T14	Concept_Idea 325 354	antécédent médico-chirurgical
+T15	DISO 448 467	accident ischémique
+T16	PROC 495 520	examen neuropsychiatrique
+T17	DISO 550 581	crises convulsives psychotiques
+T18	PROC 647 666	hémoglobine glyquée
+T19	MEAS 670 678	1,08g/dL
+T20	MEAS 684 701	5 fois la normale
+T21	PHEN 723 739	groupes sanguins
+T22	MEAS 745 752	normaux
+T23	DISO 769 785	trouble cognitif
+T24	PROC 799 828	prise en charge thérapeutique
+T25	PROC 858 890	traitement palliatif substitutif
+T26	DOSE 895 900	50 mg
+T27	TEMP 900 908	/semaine
+T28	PROC 1009 1020	transfusion
+T29	PROC 1028 1055	supplémentation parentérale
+T30	Hospital 1190 1233	consultations ophtalmologiques pédiatriques
+T31	Concept_Idea 1258 1278	autonomie financière
+T32	PROC 1283 1300	bilan étiologique
+T33	DISO 1317 1329	pancytopénie
+T34	MEAS 1340 1361	122 000 éléments /mm3
+T35	MEAS 1367 1384	980 éléments /mm3
+T36	PROC 1485 1499	pris en compte
+T37	DISO 1641 1657	syndrome tumoral
+T38	PROC 1664 1683	examens biologiques
+T39	MEAS 1736 1747	0,67 mmol/l
+T40	PROC 1749 1759	Plaquettes
+T41	MEAS 1762 1782	258000 éléments /mm3
+T42	PROC 1784 1787	VGM
+T43	MEAS 1790 1808	1600 éléments /mm3
+T44	PROC 1810 1813	IMC
+T45	MEAS 1816 1834	1458 éléments /mm3
+T46	PROC 1836 1849	créatininémie
+T47	MEAS 1852 1870	1330 éléments /mm3
+T48	PROC 1873 1900	taux de prothrombine totale
+T49	MEAS 1903 1920	907 éléments /mm3
+T50	PROC 1922 1937	phosphore total
+T51	MEAS 1940 1958	1831 éléments /mm3
+T52	PROC 1960 1977	glycémie standard
+T53	MEAS 1980 1987	93 g/dl
+T54	PROC 1989 2012	néphropathie diabétique
+T55	MEAS 2015 2033	1521 éléments /mm3
+T56	PROC 2035 2049	albuminophagie
+T57	MEAS 2052 2067	274 unités /mm3
+T58	PROC 2069 2086	troponine uracile
+T59	MEAS 2089 2096	40 µg/l
+T60	PROC 2098 2112	acide lactique
+T61	MEAS 2115 2122	55 pg/l
+T62	PROC 2124 2147	triglycérides conjugués
+T63	MEAS 2150 2156	22µg/l
+T64	PROC 2158 2180	bilans phosphocalcique
+T65	MEAS 2183 2187	24 %
+T66	PROC 2189 2206	uricémie corrigée
+T67	MEAS 2209 2218	1060 UI/l
+T68	PROC 2220 2239	urée néonatalytique
+T69	MEAS 2242 2249	97UIU/l
+T70	PROC 2251 2278	hyperparathyroïdie primaire
+T71	MEAS 2281 2289	23 mEq/l
+T72	PROC 2291 2299	kaliémie
+T73	MEAS 2302 2374	100 milligrammes Clairance plaquettaire molaire supérieure à 0,05 cmol/l
+T74	PROC 2376 2393	Bilirubine totale
+T75	MEAS 2396 2409	35 micromol/l
+T76	PROC 2411 2424	Triméthoprime
+T77	MEAS 2427 2436	75 umol/l
+T78	PROC 2438 2461	sérum salé hypertonique
+T79	MEAS 2464 2470	12mg/l
+T80	PROC 2472 2494	concentrés globulaires
+T81	MEAS 2497 2503	9 mg/L
+T82	PROC 2505 2524	hémoglobine glyquée
+T83	MEAS 2527 2530	74%
+T84	PROC 2532 2551	bilan immunologique
+T85	PROC 2553 2557	ECBU
+T86	PROC 2561 2565	ALAT
+T87	MEAS 2573 2580	négatif
+T88	PROC 2584 2603	examen histologique
+T89	DISO 2623 2649	myxome myxoïde du pancréas
+T90	ANAT 2641 2649	pancréas
+T91	Concept_Idea 2659 2671	localisation
+T92	ANAT 2680 2691	rein gauche
+T93	Localization 2685 2691	gauche
+T94	PROC 2755 2787	scanner thoraco-abdomino-pelvien
+T95	ANAT 2763 2787	thoraco-abdomino-pelvien
+T96	DISO 2824 2869	prolifération tumorale polyploïde éosinophile
+T97	ANAT 2888 2904	valve pulmonaire
+T98	ANAT 2936 2952	cellules rénales
+T99	ANAT 2967 2998	voies biliaires intrahépatiques
+T100	DISO 3132 3184	adénocarcinome sarcomateux hétérodimaxillaire lobulé
+T101	MEAS 3194 3215	2×1 x 2×1 centimètres
+T102	PHEN 3259 3267	descente
+T103	LIVB 3298 3306	patiente
+T104	PROC 3316 3344	antibiothérapie probabiliste
+T105	PROC 3358 3381	radiothérapie adjuvante
+T106	CHEM 3395 3409	ciprofloquants
+T107	CHEM 3420 3451	amoxicilline acide clavulanique
+T108	DOSE 3454 3459	20 mg
+T109	TEMP 3459 3461	/j
+T110	CHEM 3464 3480	aminosides oraux
+T111	CHEM 3483 3493	isoniazide
+T112	DOSE 3496 3501	50 mg
+T113	TEMP 3501 3503	/j
+T114	CHEM 3505 3529	gentamethyl prednisolone
+T115	DOSE 3532 3538	200 mg
+T116	TEMP 3538 3540	/j
+T117	DISO 3574 3603	complication thromboembolique
+T118	DISO 3613 3637	traumatisme hémorragique
+T119	DISO 3655 3697	syndrome infectieux cliniquement compliqué
+T120	PROC 3703 3729	recherches complémentaires
+T121	LIVB 3764 3772	patients

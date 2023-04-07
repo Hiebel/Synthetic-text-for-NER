@@ -1,0 +1,23 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 99	scanner abdomino- pelvien
+T3	ANAT 82 99	abdomino- pelvien
+T4	DISO 140 185	anomalies métaboliques tissulaires hypodenses
+T5	ANAT 203 238	parenchyme ovarien inféro-splénique
+T6	ANAT 266 273	ovaires
+T7	DISO 290 315	rehaussements hétérogènes
+T8	DISO 394 436	carcinome ovarieninféro-splénique infiltré
+T9	ANAT 404 436	ovarieninféro-splénique infiltré
+T10	DISO 456 501	neuroendocrine tumoral péritoine hémorragique
+T11	LIVB 510 514	Elle
+T12	CHEM 531 544	dexaméthasone
+T13	MODE 555 565	voie orale
+T14	MODE 583 602	voie intra veineuse
+T15	DEVI 622 641	sonde nasogastrique
+T17	PROC 692 704	prescription
+T18	MEAS 724 734	dramatique
+T19	PROC 771 814	transfert transplacentaire fœto-maternalité
+T20	PROC 815 821	T-TDFM
+T21	DOSE 823 826	1mg
+T22	TEMP 827 846	toutes les 8 heures
+T23	PROC 864 886	raccouchement maternel
+T24	PROC 919 946	réhydratation intraveineuse

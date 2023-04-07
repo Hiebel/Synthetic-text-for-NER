@@ -1,0 +1,25 @@
+T1	LIVB 16 24	patiente
+T2	PROC 41 47	suivie
+T3	DISO 57 73	hémoglobinopénie
+T4	MEAS 76 84	10,7g/dl
+T5	PROC 92 107	globules blancs
+T6	MEAS 110 120	11000/mm 3
+T7	PROC 124 139	examen clinique
+T8	ANAT 152 160	placenta
+T9	Concept_Idea 163 169	aspect
+T10	MEAS 170 178	régulier
+T11	ANAT 192 217	parenchyme ovarien utérin
+T12	MEAS 227 232	12 cm
+T13	Concept_Idea 236 245	grand axe
+T14	PHEN 253 262	ouverture
+T15	MEAS 269 277	complète
+T16	DISO 314 341	épanchement intrapéritonéal
+T17	ANAT 326 341	intrapéritonéal
+T18	DISO 353 361	anomalie
+T19	PROC 377 407	échographie abdomino-pelvienne
+T20	ANAT 389 407	abdomino-pelvienne
+T21	ANAT 450 470	sinus vésico-vaginal
+T22	Concept_Idea 526 532	taille
+T23	CHEM 566 588	marqueurs chondrogènes
+T24	LIVB 609 617	patiente
+T25	DISO 628 640	métastatique

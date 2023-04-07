@@ -1,0 +1,49 @@
+T1	LIVB 19 26	patient
+T2	DISO 68 113	pancréatite aigue stade E du groupe sanguin O
+T3	DISO 131 189	dysplasie congénitale des voies biliaires intrabronchiques
+T4	ANAT 157 189	voies biliaires intrabronchiques
+T5	DISO 191 194	DIU
+T6	PROC 199 218	enquête étiologique
+T7	PROC 259 269	diagnostic
+T8	LIVB 285 295	nouveau-né
+T9	PHEN 314 334	grossesse gémellaire
+T10	PROC 349 374	intervention chirurgicale
+T11	LIVB 394 404	nourrisson
+T12	TEMP 413 419	7 mois
+T13	DISO 435 457	consanguinité primaire
+T14	DISO 464 477	sexe masculin
+T15	PROC 482 504	fibroscopie bilatérale
+T16	Localization 494 504	bilatérale
+T17	PROC 519 537	touchers abdominal
+T18	ANAT 528 537	abdominal
+T19	PROC 578 604	mastectomie totale élargie
+T20	ANAT 624 652	loge rectale postéro-externe
+T21	PROC 666 711	tumorectomie partielle axillaire endoscopique
+T22	ANAT 732 788	recoupes crico-trachéales cervicales antéromédiastinales
+T23	ANAT 798 839	parenchyme mésentérique rénal superficiel
+T24	MEAS 849 859	14 x 15 cm
+T25	PROC 875 909	reconstruction anatomopathologique
+T26	ANAT 932 962	nerf maxillaire inféro-interne
+T27	PROC 969 996	ligature sur lambeau cutané
+T28	DEVI 1012 1036	anse jéjunale aspirative
+T30	PROC 1193 1226	colostomie antérieure asymétrique
+T32	MEAS 1237 1242	30 mm
+T33	ANAT 1261 1277	tissus grêliques
+T34	PROC 1357 1430	transplantation monobloc anastomotique scanno-gastroduodulaire percutanée
+T35	PROC 1453 1474	méthode contraceptive
+T36	DEVI 1560 1586	sac gestationisque plâtrée
+T37	ANAT 1724 1754	tronc spléno-aorto-oesophagien
+T38	PROC 1759 1777	étude histologique
+T39	DISO 1799 1857	léiomyosarcome épidermoïde fundique métastatique malformée
+T40	MEAS 1865 1873	stade IV
+T41	DISO 1957 1991	métastase trophoblastique kystique
+T42	Concept_Idea 2023 2043	aspect morphologique
+T43	Concept_Idea 2094 2107	prolifération
+T44	MEAS 2108 2118	hétérogène
+T45	DISO 2420 2455	kystes hydatiques herniés néonatals
+T46	DISO 2505 2514	symptômes
+T47	PROC 2535 2560	corticothérapie adjuvante
+T48	CHEM 2566 2597	amoxicilline acide clavulanique
+T49	DISO 2633 2650	récidive tumorale
+T50	DISO 2654 2722	thrombose du lambeau musculo-tendonavigateur commun cervico-brachial
+T51	ANAT 2667 2722	lambeau musculo-tendonavigateur commun cervico-brachial

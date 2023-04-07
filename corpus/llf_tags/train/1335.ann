@@ -1,0 +1,80 @@
+T1	PROC 22 27	admis
+T2	Hospital 32 53	urgences pédiatriques
+T3	DISO 63 82	douleurs pelviennes
+T4	ANAT 72 82	pelviennes
+T5	Concept_Idea 85 94	intensité
+T6	MEAS 95 102	modérée
+T7	TEMP 112 130	depuis une semaine
+T8	PROC 134 149	examen clinique
+T9	LIVB 165 171	enfant
+T10	MEAS 175 178	bon
+T11	Concept_Idea 179 191	état général
+T12	DISO 215 249	masse du pédicule cervicale gauche
+T13	ANAT 224 249	pédicule cervicale gauche
+T14	Localization 243 249	gauche
+T15	MEAS 264 279	progressivement
+T16	PHEN 288 300	alimentation
+T17	MEAS 312 324	plus intense
+T18	ANAT 333 356	quadrant supero-externe
+T19	DISO 372 383	traumatisme
+T20	PROC 397 414	tomodensitométrie
+T21	PROC 416 463	TDM) cervico-thoraco abdomino-abdominopelvienne
+T22	ANAT 421 463	cervico-thoraco abdomino-abdominopelvienne
+T23	PROC 527 556	prise en charge thérapeutique
+T24	PROC 578 595	bilan étiologique
+T25	DISO 609 625	hyperleucocytose
+T26	MEAS 628 661	1500 éléments par millimètre cube
+T27	DISO 677 697	hypertriglycéridémie
+T28	MEAS 700 711	0,75 mmol/l
+T29	DISO 724 757	syndrome inflammatoire biologique
+T30	MEAS 762 772	spécifique
+T31	DISO 776 788	hémorragique
+T32	PROC 793 826	fibroscopie oeso-gastro-duodénale
+T33	ANAT 805 826	oeso-gastro-duodénale
+T34	MEAS 839 846	normale
+T35	PROC 861 879	sérologies virales
+T36	MEAS 894 903	négatives
+T37	Concept_Idea 916 936	aspect morphologique
+T38	DISO 953 981	maladie cœliaque congénitale
+T39	LIVB 990 1000	nouveau-né
+T40	PROC 1007 1032	étude immunohistochimique
+T41	ANAT 1096 1106	rein droit
+T42	Localization 1101 1106	droit
+T43	PROC 1240 1260	récepteurs hormonaux
+T44	MEAS 1269 1287	fortement positifs
+T46	PROC 2772 2814	réunion de concertation pluridisciplinaire
+T47	Concept_Idea 2863 2891	résultat anatomopathologique
+T48	DISO 2911 2944	lymphome malin à grandes cellules
+T49	LIVB 2954 2962	patiente
+T50	DISO 3020 3053	lésions du membre supérieur droit
+T51	ANAT 3031 3053	membre supérieur droit
+T53	TEMP 3063 3081	depuis trois jours
+T54	DISO 3094 3111	foyers infectieux
+T55	DISO 3121 3149	symptomatologie pathologique
+T56	PROC 3165 3180	examen clinique
+T57	LIVB 3184 3192	patiente
+T58	Concept_Idea 3213 3231	plan hémodynamique
+T59	DISO 3255 3278	déficit sensitivomoteur
+T60	DISO 3282 3298	cardiovasculaire
+T61	PHEN 3311 3332	fonction respiratoire
+T62	ANAT 3320 3332	respiratoire
+T63	MEAS 3339 3352	satisfaisante
+T64	DEVI 3362 3369	masques
+T65	MEAS 3378 3386	positifs
+T66	Concept_Idea 3399 3410	consistance
+T67	MEAS 3411 3436	macroscopiquement normale
+T68	DISO 3468 3498	troubles hydro-éléctrolytiques
+T69	PROC 3512 3539	bilan radiologique standard
+T70	DISO 3556 3618	tumeur érythroblastique cutanéomuqueuse carcinomateuse ulcérée
+T71	MEAS 3628 3631	6cm
+T72	Concept_Idea 3635 3644	grand axe
+T73	MEAS 3653 3657	3 cm
+T74	Concept_Idea 3661 3670	petit axe
+T75	ANAT 3702 3743	bras spléno-mandibulaire inférieur médial
+T76	Localization 3737 3743	médial
+T77	Concept_Idea 3767 3787	aspect morphologique
+T78	DISO 3804 3850	tuberculose cœliaque lymphoblastique chronique
+T79	PROC 3907 3930	radiothérapie adjuvante
+T80	PROC 3944 3978	radio-chimiothérapie néo adjuvante
+T81	CHEM 4014 4027	gonalidomide®
+T82	PROC 4040 4070	oxygénothérapie antibacillaire

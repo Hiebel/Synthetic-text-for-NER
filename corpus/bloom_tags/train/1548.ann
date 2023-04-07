@@ -1,0 +1,28 @@
+T1	LIVB 29 37	patiente
+T2	PHEN 54 74	grossesse gémellaire
+T3	PROC 96 110	suivi prénatal
+T4	PROC 116 152	contraception hormonale substitutive
+T5	CHEM 165 182	hydroprogestérone
+T6	CHEM 212 238	méthofolliculo-luteoxydase
+T7	DISO 277 301	accouchements prématurés
+T8	TEMP 311 329	pendant 6 semaines
+T9	MEAS 359 372	satisfaisante
+T10	Concept_Idea 385 395	biologique
+T11	DISO 432 465	maladie thromboembolique veineuse
+T12	DISO 472 523	thrombose veineuse périphérique infarcto-scapulaire
+T13	ANAT 482 523	veineuse périphérique infarcto-scapulaire
+T14	DISO 592 634	symptomatologie érythémateuse prurigineuse
+T15	MEAS 649 656	modérée
+T16	Hospital 678 688	maternités
+T17	PROC 714 735	échographie pelvienne
+T18	ANAT 726 735	pelvienne
+T19	DISO 752 833	masse tissulaire hypo échogène nodulaire latéro-utérine péristaltique compressive
+T20	MEAS 843 847	6 cm
+T21	Concept_Idea 851 860	grand axe
+T22	ANAT 885 921	muscles fléchisseurs uteros vaginaux
+T23	ANAT 969 990	parturium endometrial
+T24	DISO 1022 1046	lipome séreux congénital
+T25	ANAT 1057 1079	endovaginale pariétale
+T26	PROC 1086 1122	TDM abdomino pelvienne transfixiante
+T27	ANAT 1090 1122	abdomino pelvienne transfixiante
+T28	DISO 1136 1247	masse tumoral rétropéritonéale liquidienne rétropéritonéale infiltrapéritonéale rétroplacentaïque hypertrophiée

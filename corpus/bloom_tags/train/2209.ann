@@ -1,0 +1,51 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 24 30	18 ans
+T3	CHEM 47 72	corticothérapie adjuvante
+T4	DOSE 78 84	1mg/kg
+T6	CHEM 109 127	médiates vasoactif
+T7	CHEM 138 172	catécholamines alpha-1-adrénylants
+T8	DISO 287 309	surdité oculogestuelle
+T9	LIVB 330 338	patiente
+T10	TEMP 354 360	12 ans
+T11	MEAS 375 389	plus accentuée
+T12	DISO 446 475	symptômes neuropsychiatriques
+T13	DISO 523 548	symptômes neurorhabidiens
+T14	DISO 607 626	facteur déclencheur
+T15	DISO 637 658	pathologies associées
+T16	DISO 676 709	syndrome d'épanchement péritonéal
+T17	ANAT 699 709	péritonéal
+T18	DISO 725 745	localisation maligne
+T19	CHEM 889 928	neuroleptiques benzodiazépiméthergiques
+T20	DISO 1044 1072	prise médicamenteuse toxique
+T21	DISO 1086 1128	myocardopathie congénitale hypertrophiante
+T22	MEAS 1165 1182	30 paquets années
+T23	PROC 1580 1605	scanner abdomino périnéal
+T24	ANAT 1588 1605	abdomino périnéal
+T25	MEAS 1716 1721	15 cm
+T26	Concept_Idea 1725 1734	grand axe
+T27	ANAT 1755 1770	méso-sigmoïdien
+T28	Localization 1808 1822	partie interne
+T29	MEAS 1834 1841	intense
+T30	PROC 1846 1883	tomodensitométrie abdomino -pelvienne
+T31	ANAT 1864 1883	abdomino -pelvienne
+T33	ANAT 1935 2353	paravertébro-lobulo-thoracique pariétale basithoracique latérocentrale médiastinale bilatérale droite cervicale thoracique homolatérale faisant 4cm de grand axe envahissant presque tous les structures cardio-vasculaires infiltrant intimement leurs parties molles puisqu'elle infiltre siégeait surtout entre l'apophyse iliaque sus diaphragmatique postérieur et l'épiploon hyo-mésentérique basithoracique sus-duberculeux
+T35	Localization 2058 2070	homolatérale
+T36	MEAS 2079 2082	4cm
+T37	Concept_Idea 2086 2095	grand axe
+T38	ANAT 2125 2154	structures cardio-vasculaires
+T39	ANAT 2183 2197	parties molles
+T40	Localization 2261 2264	sus
+T41	Localization 2281 2291	postérieur
+T43	MEAS 2362 2372	stade I-II
+T45	ANAT 2498 2516	membres inférieurs
+T46	TEMP 2518 2521	24h
+T47	PROC 2530 2542	intervention
+T48	PROC 2547 2573	examen anatomopathologique
+T49	DISO 2589 2673	carcinome épidermo-gliadénofibromateux du sinus péricardico-diaphragmatique biloculé
+T51	ANAT 2631 2673	sinus péricardico-diaphragmatique biloculé
+T52	LIVB 2678 2686	patiente
+T53	PROC 2709 2740	radiothérapie externe adjuvante
+T54	DOSE 2762 2767	20 Gy
+T55	ANAT 2793 2811	glandes salivaires
+T56	CHEM 2816 2825	docetaxel
+T57	DOSE 2853 2859	2mg/kg

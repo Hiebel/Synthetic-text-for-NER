@@ -1,0 +1,25 @@
+T1	LIVB 12 23	adolescente
+T2	TEMP 32 38	16 ans
+T3	PROC 81 87	admise
+T4	Hospital 91 121	service d'accueil des urgences
+T5	DISO 141 162	détresse respiratoire
+T6	PHEN 150 162	respiratoire
+T7	TEMP 172 188	depuis 72 heures
+T8	PROC 194 219	traitement antibacillaire
+T9	CHEM 230 241	Ceftriaxone
+T10	CHEM 242 256	Gentaméthasone
+T11	CHEM 259 280	Pneumocystis jiroveci
+T12	PROC 296 341	ponction pleuro-pneumo-bronchique liquidienne
+T13	ANAT 305 341	pleuro-pneumo-bronchique liquidienne
+T14	MEAS 355 371	environ 3 litres
+T15	LIVB 453 461	patiente
+T16	DISO 500 524	hémoptysème hémorragique
+T17	DISO 528 548	hyperleucocytoblaste
+T18	DISO 613 636	évènement neurologiques
+T19	DEVI 671 681	automatisé
+T20	CHEM 716 728	prednisolone
+T21	DISO 868 894	troubles sensitivomotrices
+T22	DISO 1025 1053	affection néphropathogénique
+T23	DISO 1096 1110	amaigrissement
+T24	MEAS 1120 1125	10 kg
+T25	MEAS 1135 1150	plus douloureux

@@ -1,0 +1,22 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	PROC 37 41	reçu
+T4	Hospital 45 57	néonatalogie
+T5	DISO 66 99	syndrome d'épanchement péritonéal
+T6	ANAT 89 99	péritonéal
+T7	Concept_Idea 102 108	aspect
+T8	MEAS 109 135	macroscopiquement purulent
+T9	TEMP 146 159	depuis 3 mois
+T10	DISO 172 188	signes cliniques
+T11	PROC 201 215	interrogatoire
+T12	PROC 220 229	admission
+T13	DISO 257 276	traumatisme crânien
+T15	LIVB 317 324	patient
+T16	DISO 329 350	troubles métaboliques
+T17	DEVI 355 371	câble électrique
+T18	PROC 410 434	laparotomie exploratrice
+T19	PROC 440 468	résection transfontanellaire
+T20	PROC 472 496	exploration chirurgicale
+T21	DISO 519 541	épanchement péritonéal
+T22	ANAT 531 541	péritonéal
+T23	CHEM 563 580	benzodiazépinique

@@ -1,0 +1,83 @@
+T1	LIVB 16 24	patiente
+T2	PROC 71 77	Admise
+T3	Hospital 82 90	urgences
+T4	DISO 99 136	traumatisme du membre supérieur droit
+T5	ANAT 114 136	membre supérieur droit
+T6	Localization 131 136	droit
+T7	TEMP 146 164	depuis quatre mois
+T8	DISO 179 200	dyspnée stade III SBR
+T9	DISO 216 227	traumatisme
+T10	PROC 272 286	interrogatoire
+T11	LIVB 299 303	elle
+T12	Concept_Idea 364 378	indice de Gini
+T13	MEAS 380 392	1700 FB/mois
+T14	PROC 409 424	examen physique
+T15	DISO 436 444	anomalie
+T16	DISO 462 483	syndrome hémorragique
+T17	DISO 490 496	fièvre
+T18	PROC 501 518	tomodensitométrie
+T19	PROC 520 551	TDM) thoraco-abdomino-pelvienne
+T20	ANAT 525 551	thoraco-abdomino-pelvienne
+T21	DISO 583 615	distension nasopharyngo-laryngée
+T22	ANAT 594 615	nasopharyngo-laryngée
+T23	MEAS 625 638	6 centimètres
+T24	Localization 646 650	tête
+T25	ANAT 667 681	cubes laryngés
+T26	Localization 692 702	postérieur
+T27	ANAT 749 780	sinus caverneux médio cervicale
+T28	Localization 765 770	médio
+T29	PROC 786 824	cholangiographie par cohérence optique
+T30	PROC 825 828	OCT
+T31	PROC 847 865	bilan radiologique
+T32	DISO 885 900	symptomatologie
+T33	PHEN 942 963	contact utéro-ovarien
+T34	ANAT 950 963	utéro-ovarien
+T35	LIVB 1010 1017	malades
+T36	PROC 1023 1050	explorations gynécologiques
+T37	DISO 1122 1154	tumeur rétro péritonéale maligne
+T38	ANAT 1129 1146	rétro péritonéale
+T39	MEAS 1166 1181	progressivement
+T40	Concept_Idea 1185 1191	volume
+T41	MEAS 1201 1216	de plus en plus
+T42	ANAT 1238 1254	paroi thoracique
+T43	ANAT 1278 1316	muscle grand pectoral gauchant interne
+T44	Localization 1300 1316	gauchant interne
+T45	MEAS 1325 1339	20 millimètres
+T46	Concept_Idea 1343 1351	diamètre
+T47	PROC 1372 1381	injection
+T48	DISO 1412 1429	lésion secondaire
+T49	PROC 1442 1467	étude anatomopathologique
+T50	DISO 1500 1544	prolifération tissulaire hétérogène tumorale
+T51	ANAT 1568 1602	segments ganglionnaires axillaires
+T52	ANAT 1619 1638	membranes centrales
+T53	ANAT 1658 1688	ganglions mésentériques rénaux
+T54	Concept_Idea 1718 1726	grosseur
+T55	PROC 1738 1760	transfusions biopsiées
+T56	CHEM 1801 1823	cytoplasme éosinophile
+T58	DOSE 1886 1906	100 milligrammes /m2
+T59	DEVI 2108 2150	filaments fusiformes alpha bipyrophoriques
+T60	MEAS 2193 2207	10 micromètres
+T61	Concept_Idea 2211 2220	grand axe
+T62	MEAS 2247 2264	950 millisecondes
+T63	LIVB 2850 2855	jeune
+T64	LIVB 2856 2863	patient
+T65	PROC 2884 2895	hospitalisé
+T66	Hospital 2899 2910	psychiatrie
+T67	DISO 2920 2939	troubles du langage
+T68	DISO 2954 2983	syndrome délirant psychotique
+T69	DISO 2991 3002	hypoacousie
+T70	PHEN 3034 3040	humeur
+T71	LIVB 3059 3065	malade
+T72	LIVB 3102 3104	il
+T73	PROC 3190 3205	hospitalisation
+T74	TEMP 3227 3243	première journée
+T75	LIVB 3263 3269	enfant
+T76	CHEM 3353 3368	bière gloutonne
+T77	LIVB 3468 3470	il
+T78	LIVB 3678 3680	Il
+T79	DISO 3705 3726	perte de connaissance
+T80	LIVB 3744 3746	sa
+T81	LIVB 3747 3754	famille
+T82	PROC 3769 3793	traitement psychiatrique
+T83	PROC 3941 3975	prise en charge neuropsychiatrique
+T84	DISO 4097 4117	réveils épileptiques

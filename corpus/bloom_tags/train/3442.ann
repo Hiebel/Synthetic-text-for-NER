@@ -1,0 +1,26 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	9 ans
+T3	Concept_Idea 20 26	pesant
+T4	MEAS 27 32	70 kg
+T5	Concept_Idea 42 48	taille
+T6	MEAS 52 58	170 cm
+T7	DISO 79 128	hypertrophie tissulaire hyperkérato-sécrétritaire
+T8	ANAT 92 128	tissulaire hyperkérato-sécrétritaire
+T9	ANAT 146 178	sinus maxillaire inférieur droit
+T10	Localization 173 178	droit
+T11	ANAT 204 248	hémi cavité articulaire ptérygoïdioccipitale
+T12	DISO 264 309	lyse chondromateuse épithéliale érythémateuse
+T13	DISO 323 343	dermite prurigineuse
+T14	ANAT 356 387	membres inférieurs métacarpiels
+T15	DISO 403 421	leucorrhée fébrile
+T16	TEMP 431 444	depuis 6 mois
+T17	LIVB 451 454	son
+T18	PROC 455 470	hospitalisation
+T19	CHEM 497 508	Cyclosérine
+T20	CHEM 511 524	Triméthoprime
+T21	CHEM 526 544	Sulfamylmetoxazole
+T22	PROC 561 583	examen ophtalmologique
+T23	DISO 600 631	syndrome rétrachéal purulentiel
+T24	DISO 646 677	hyperacuité visuelle sécrétante
+T25	PROC 694 709	rétropterionale
+T26	DEVI 730 750	lunettes correcteurs

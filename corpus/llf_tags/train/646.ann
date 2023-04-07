@@ -1,0 +1,60 @@
+T1	LIVB 4 9	femme
+T2	TEMP 74 87	il y a 10 ans
+T3	LIVB 126 130	père
+T4	LIVB 137 153	tante maternelle
+T5	LIVB 168 171	son
+T6	PHEN 172 179	mariage
+T7	Hospital 228 236	urgences
+T8	DISO 251 261	pathologie
+T9	LIVB 265 269	elle
+T10	DEVI 467 484	produits ménagers
+T11	TEMP 518 544	au bout de quelques heures
+T12	Concept_Idea 584 596	état général
+T13	CHEM 645 676	amoxicilline acide clavulanique
+T14	CHEM 679 704	acide acétyle salicylique
+T15	DOSE 707 715	1 gramme
+T16	TEMP 715 720	/jour
+T17	DISO 958 976	crises convulsives
+T18	DISO 1009 1037	détresse respiratoire aigues
+T19	DISO 1079 1127	symptomatologie psychiatrique maniaco-dépressive
+T20	PROC 1131 1147	examen somatique
+T21	LIVB 1167 1175	patiente
+T22	Concept_Idea 1190 1213	plan neuropsychiatrique
+T23	DISO 1231 1259	déficience cognitivo-motrice
+T24	DISO 1269 1294	signe clinico-pragmatique
+T25	LIVB 1419 1423	elle
+T26	LIVB 1565 1568	ses
+T27	LIVB 1569 1588	collègues maternels
+T28	Concept_Idea 1597 1630	plan psycho-neuro-ophtalmologique
+T29	PROC 1637 1656	enquête étiologique
+T30	ANAT 2715 2737	troncs supra-aortiques
+T31	PHEN 2776 2797	grossesse monofoetale
+T32	PROC 2802 2808	suivie
+T33	LIVB 2832 2842	nourrisson
+T34	MEAS 2895 2903	dernière
+T35	TEMP 2926 2933	21 mois
+T36	LIVB 2946 2948	il
+T37	PROC 2967 2989	consultation prénatale
+T38	PROC 3013 3043	échographie obstétro-néonatale
+T39	LIVB 3071 3083	nouvelle-née
+T40	Concept_Idea 3094 3120	caractéristiques cliniques
+T41	LIVB 3188 3195	parents
+T42	Concept_Idea 3211 3215	état
+T43	TEMP 3493 3500	24 mois
+T44	DISO 3516 3535	contage tuberculeux
+T45	PROC 3541 3571	antibiothérapie antibacillaire
+T46	PROC 3578 3588	transfusée
+T47	LIVB 3604 3619	jumeaux vivants
+T48	PROC 3632 3649	admission prédite
+T49	DISO 3663 3669	fièvre
+T50	MEAS 3681 3685	39ºC
+T51	DISO 3700 3736	dyspnée laryngo-trache séro-muqueuse
+T52	DISO 3752 3793	symptomatologie psychiatrique aigüe aiguë
+T53	LIVB 3810 3812	sa
+T54	LIVB 3813 3826	belle-famille
+T55	PROC 3852 3876	chimiothérapie adjuvante
+T56	PROC 3906 3930	laparotomie exploratrice
+T57	DISO 3967 3986	troubles trophiques
+T58	DISO 4049 4077	maladie cœliaque infectieuse
+T59	PROC 4116 4143	prise en charge ambulatoire
+T60	PROC 4186 4226	explorations fonctionnelles parentérales

@@ -1,0 +1,76 @@
+T1	LIVB 16 21	femme
+T2	DISO 55 76	nodule du sein gauche
+T3	ANAT 65 76	sein gauche
+T4	Localization 70 76	gauche
+T5	PROC 80 86	examen
+T6	PROC 91 100	admission
+T7	Concept_Idea 114 125	température
+T8	MEAS 128 132	38°C
+T9	PHEN 137 152	fonction rénale
+T10	ANAT 146 152	rénale
+T11	MEAS 159 166	normale
+T12	PROC 184 199	examen physique
+T13	DISO 211 224	particularité
+T14	PROC 229 246	tomodensitométrie
+T15	PROC 248 262	TDM) cérébrale
+T16	ANAT 253 262	cérébrale
+T17	DISO 287 295	anomalie
+T18	DISO 323 343	signes hémorragiques
+T19	PROC 385 409	laparotomie exploratrice
+T20	PROC 415 434	anesthésie générale
+T22	MEAS 518 525	simples
+T23	PROC 530 562	scanner thoraco abdomino pelvien
+T24	ANAT 538 562	thoraco abdomino pelvien
+T25	TEMP 574 589	post opératoire
+T26	PROC 579 589	opératoire
+T27	DISO 624 744	adénocarcinome pléomateux anévrysmocytaire malpighien néoplasique infiltrant tissulaire hétéro-métaphysaire métastatique
+T28	MEAS 754 759	11 cm
+T29	MEAS 764 768	6 mm
+T30	ANAT 787 809	tronc spléno-hépatique
+T31	ANAT 819 850	quadrant rénal antérieur gauche
+T32	Localization 834 850	antérieur gauche
+T33	PROC 855 885	bilan biologique préopératoire
+T34	PROC 902 934	transaminases alcalines sériques
+T35	MEAS 943 961	fortement positifs
+T36	PROC 977 994	bilirubine totale
+T37	MEAS 1005 1014	254 UI/dL
+T38	MEAS 1020 1038	17 fois la normale
+T39	MEAS 1044 1054	90 cg/mm 3
+T40	PROC 1058 1070	phosphaturie
+T41	MEAS 1082 1091	167 UI/dL
+T42	PROC 1097 1130	cholestérases phosphocalciuriques
+T43	MEAS 1139 1146	négatif
+T44	MEAS 1167 1176	155 UI/dL
+T45	MEAS 1180 1189	198 UI/dL
+T46	DISO 1219 1249	hyperferritinémie polyglobulie
+T47	PROC 1301 1328	prélèvement bactériologique
+T48	LIVB 1361 1368	râleurs
+T49	PROC 1392 1413	traitements adjuvants
+T50	PROC 1426 1444	étude histologique
+T51	PROC 1460 1493	recoupes aspiratifs scannoguidées
+T52	CHEM 1510 1527	plantes épiphytes
+T53	PROC 1567 1596	analyses immunohistochimiques
+T54	MEAS 1614 1623	négatives
+T55	Concept_Idea 1636 1656	aspect cytogénétique
+T56	PROC 1770 1796	comportements intraveineux
+T57	DEVI 1840 1866	colon transgénique hybride
+T58	PROC 1880 1937	cytokératine glutamyl transférase IgG antibiotique direct
+T59	PROC 1950 2048	myélopéroxyprogestérone méthyldopacidétanéphrine acrylique substituée fractionnement thérapeutique
+T61	ANAT 2744 2754	rein droit
+T62	Localization 2749 2754	droit
+T63	ANAT 2766 2777	rein gauche
+T64	Localization 2771 2777	gauche
+T65	DISO 2816 2836	processus tissulaire
+T66	LIVB 3020 3027	malades
+T67	PROC 3063 3097	radio-chimiothérapie préopératoire
+T68	PROC 3136 3164	corticothérapie concomitante
+T69	DOSE 3166 3174	1 gramme
+T70	TEMP 3174 3179	/jour
+T71	PROC 3215 3267	thyréotaxime biphosphorésilazine per os probabiliste
+T72	PROC 3283 3386	néphrotomie exploratrice sous céphalosporine triphosphoréïne extracorporelle non fractionnée injectable
+T73	PROC 3405 3440	transfusion sanguine postopératoire
+T74	DOSE 3456 3461	10 mg
+T75	TEMP 3461 3463	/j
+T76	PROC 3478 3525	anastomose vasculaire gastroduodénale hépatique
+T77	ANAT 3489 3525	vasculaire gastroduodénale hépatique
+T78	PROC 3545 3574	prélèvements bactériologiques

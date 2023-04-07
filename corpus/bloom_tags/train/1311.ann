@@ -1,0 +1,56 @@
+T1	LIVB 28 35	patient
+T2	PROC 58 81	radiothérapie adjuvante
+T3	DEVI 86 101	surrénalectines
+T4	DOSE 126 131	20 Gy
+T5	DOSE 173 177	4 Gy
+T6	PROC 190 218	chimiothérapie néo adjuvante
+T7	CHEM 237 250	dexaméthasone
+T8	CHEM 252 263	Cyclosérine
+T9	CHEM 265 278	Eprédnisolone
+T10	LIVB 310 316	malade
+T11	Hospital 464 472	clinique
+T12	PROC 478 496	traitement médical
+T13	CHEM 522 544	anti catécholaminiques
+T14	CHEM 548 566	hydroxychloroquine
+T15	PROC 569 600	étude anatomo-pathopathologique
+T16	DISO 619 717	carcinome épithélio-gigantocellulaire infiltré cervico-thyroïdien laryngéo-cœliosynaptique maligne
+T18	DISO 806 824	malignité tumorale
+T19	DISO 831 856	localisations secondaires
+T20	DISO 874 890	rhabdomyosarcome
+T21	PROC 908 937	recherche immunohistochimique
+T22	PROC 950 1002	curage ganglionnaire lympho-hypopharyngo médiastinal
+T23	ANAT 957 1002	ganglionnaire lympho-hypopharyngo médiastinal
+T24	MEAS 1010 1017	négatif
+T25	DISO 1077 1100	processus tumoral malin
+T26	DISO 1112 1147	méningo-infiltration carcinomateuse
+T27	MEAS 1156 1166	stade IIIB
+T28	PROC 1222 1254	scanner thoraco abdomino-pelvien
+T29	ANAT 1230 1254	thoraco abdomino-pelvien
+T30	DISO 1301 1340	localisations secondaires métastatiques
+T31	DISO 1371 1379	kystique
+T32	DISO 1426 1474	nodules tissulaires hypo échostructuro-lacunaire
+T33	ANAT 1496 1514	organes herniaires
+T34	MEAS 1539 1544	32 mm
+T35	MEAS 1546 1550	17mm
+T36	MEAS 1554 1558	11mm
+T37	ANAT 1593 1629	fosse péritonéale splénique biliaire
+T38	DISO 1644 1665	nodules hypertrophiés
+T39	ANAT 1704 1775	masse rétro épiploïque recto-sigmoïdienne pelvienne hypophyso-basilaire
+T40	PROC 1810 1819	palpation
+T41	DISO 2059 2079	schwannome encapsulé
+T42	MEAS 2087 2096	stade IIA
+T43	MEAS 2198 2206	complète
+T44	DISO 2221 2239	lésions noduleuses
+T45	LIVB 2361 2368	patient
+T46	PROC 2387 2411	chimiothérapie adjuvante
+T47	CHEM 2425 2438	dexaméthasone
+T48	CHEM 2440 2460	methylhydrocortisone
+T49	DOSE 2462 2467	30 mg
+T50	TEMP 2467 2469	/j
+T51	CHEM 2472 2484	prednisolone
+T52	DOSE 2485 2491	2mg/kg
+T53	TEMP 2491 2493	/j
+T54	CHEM 2498 2508	cobalamine
+T55	DOSE 2510 2516	400 µg
+T56	TEMP 2516 2518	/j
+T57	MODE 2520 2526	per os

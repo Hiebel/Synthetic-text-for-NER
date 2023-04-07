@@ -1,0 +1,50 @@
+T1	LIVB 11 16	homme
+T2	PROC 41 52	hospitalisé
+T3	Hospital 57 65	urgences
+T4	DISO 85 112	détresse respiratoire aiguë
+T5	MEAS 127 133	rapide
+T6	MODE 157 179	ventilateur artificiel
+T7	PROC 194 219	chimiothérapie palliative
+T8	DOSE 225 234	2RHZ/4RHU
+T9	CHEM 237 248	Cyclosérine
+T10	CHEM 251 262	Vinblastine
+T11	PROC 282 300	traitement curatif
+T12	DISO 332 353	récidive métastatique
+T13	LIVB 375 383	patiente
+T14	MEAS 436 445	négatives
+T15	PROC 462 499	radiothérapie locorégionale adjuvante
+T16	PROC 592 614	chirurgie exploratrice
+T17	DISO 636 655	lésions secondaires
+T18	TEMP 738 745	24 mois
+T19	PROC 796 827	complément immunohisto-chimique
+T20	DISO 908 947	résistances épidermiques carcinomateuse
+T21	Concept_Idea 1121 1127	taille
+T22	MEAS 1138 1145	1000 mm
+T23	MEAS 1151 1165	environ 3/8 cm
+T24	DISO 1313 1332	contage tuberculeux
+T25	LIVB 1362 1369	famille
+T26	LIVB 1387 1391	elle
+T27	ANAT 1434 1467	intrapéritonéal latéro-sigmoïdien
+T28	DISO 1534 1556	traumatisme péritonéal
+T29	ANAT 1546 1556	péritonéal
+T30	MEAS 2092 2104	stade III-II
+T31	PROC 2143 2187	tomodensitométrie thoraco-abdomino-pelvienne
+T32	ANAT 2161 2187	thoraco-abdomino-pelvienne
+T34	Localization 2213 2217	sous
+T35	ANAT 2309 2326	organes viscéraux
+T36	MEAS 2336 2339	3cm
+T37	Concept_Idea 2343 2352	grand axe
+T38	ANAT 2368 2390	parenchyme hyo-vaginal
+T39	PROC 2406 2426	examen somatomédical
+T40	DISO 2438 2451	particularité
+T41	PROC 2455 2488	échocardiographie transthoracique
+T42	ANAT 2473 2488	transthoracique
+T43	DISO 2505 2527	hémopéritoine purulent
+T44	ANAT 2541 2573	méso-thoracique supérieur gauche
+T45	Localization 2567 2573	gauche
+T46	ANAT 2581 2644	parties molles para-diaphragmatiques basithoraciques cervicales
+T47	ANAT 2668 2701	structures cardiaques thoraciques
+T49	ANAT 2735 2755	ventriculaire droite
+T50	Localization 2749 2755	droite
+T51	DISO 2773 2816	infarctus ventriculo-auriculaire systolique
+T52	ANAT 2783 2816	ventriculo-auriculaire systolique

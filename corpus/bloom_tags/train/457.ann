@@ -1,0 +1,39 @@
+T1	LIVB 4 12	patiente
+T2	PROC 34 46	hospitalisée
+T3	Hospital 51 59	urgences
+T4	DISO 69 99	masse du flanc droit supérieur
+T5	ANAT 78 99	flanc droit supérieur
+T6	Localization 84 99	droit supérieur
+T7	TEMP 109 122	depuis 4 mois
+T8	DISO 138 176	syndrome d'épanchement intrapéritonéal
+T9	ANAT 161 176	intrapéritonéal
+T10	PROC 203 222	bilan préopératoire
+T11	PROC 233 263	échographie abdomino pelvienne
+T12	ANAT 245 263	abdomino pelvienne
+T13	DISO 280 318	masse arrondie hypertrophiée polylobée
+T14	DISO 328 340	prurigineuse
+T15	ANAT 358 375	flanc homolatéral
+T16	Localization 364 375	homolatéral
+T17	MEAS 377 389	bien limitée
+T18	Concept_Idea 399 408	caractère
+T19	Concept_Idea 438 449	consistance
+T20	MEAS 461 474	progressément
+T21	DISO 502 518	dyspnée d'effort
+T22	MEAS 533 543	insidieuse
+T23	MEAS 553 560	modérée
+T24	MEAS 591 604	15 cycles/min
+T25	DISO 644 666	douleurs épigastriques
+T26	ANAT 653 666	épigastriques
+T27	MEAS 679 688	brunâtres
+T28	MEAS 727 742	progressivement
+T29	Concept_Idea 746 752	volume
+T30	MEAS 779 802	secondairement gênantes
+T31	DISO 853 883	troubles hydro-électro-moteurs
+T32	DISO 937 958	tuméfaction ulcéreuse
+T33	MEAS 967 995	grossièrement indolorissante
+T34	DISO 1053 1068	symptomatologie
+T35	DISO 1125 1145	fistule ostéo-cæcale
+T36	ANAT 1133 1145	ostéo-cæcale
+T37	DISO 1167 1185	crises céphaliques
+T38	DISO 1218 1238	céphalalgies fébrile
+T39	MEAS 1278 1292	plus accentuée

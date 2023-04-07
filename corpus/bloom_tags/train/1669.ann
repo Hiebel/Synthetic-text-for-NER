@@ -1,0 +1,18 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	12 ans
+T3	DISO 91 117	polyarthrite inflammatoire
+T4	TEMP 127 141	depuis 12 mois
+T5	Concept_Idea 179 191	état général
+T6	DISO 202 216	ictère fébrile
+T7	MEAS 227 238	40° Celsius
+T8	DISO 253 259	fièvre
+T9	MODE 278 288	voie orale
+T10	DISO 333 353	prise médicamenteuse
+T11	DISO 373 395	symptômes rhumatismaux
+T12	PHEN 427 438	météoristes
+T13	LIVB 460 472	petit garçon
+T14	PROC 540 555	hospitalisation
+T15	DISO 589 612	céphalées constrictives
+T16	ANAT 633 650	paires crâniennes
+T17	DISO 681 701	méningo-vascularisée
+T18	MEAS 835 848	plus marquées

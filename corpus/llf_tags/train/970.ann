@@ -1,0 +1,44 @@
+T1	LIVB 3 10	patient
+T2	PROC 81 92	Hospitalisé
+T3	DISO 102 122	tumeur du rein droit
+T4	ANAT 112 122	rein droit
+T5	Localization 117 122	droit
+T6	TEMP 132 153	depuis trois semaines
+T7	DISO 159 166	douleur
+T8	Concept_Idea 186 198	état général
+T9	PROC 202 217	examen clinique
+T10	LIVB 236 246	nourrisson
+T11	MEAS 250 257	mauvais
+T12	Concept_Idea 258 270	état général
+T13	PROC 280 290	inspection
+T14	DISO 296 307	hématémèses
+T15	ANAT 333 356	membre inférieur gauche
+T16	Localization 350 356	gauche
+T17	DISO 361 395	boites séro-muqueuses anictériques
+T18	ANAT 433 462	veines iliaques symphysiennes
+T19	Localization 449 462	symphysiennes
+T20	DISO 476 500	sensibilité mamelonnaire
+T21	DEVI 505 521	lambeaux tibiaux
+T22	PROC 546 551	coupe
+T23	Concept_Idea 567 579	plan profond
+T24	PROC 584 601	tomodensitométrie
+T25	PROC 603 643	TDM) cervico-thoraco-abdomino- pelvienne
+T26	ANAT 608 643	cervico-thoraco-abdomino- pelvienne
+T27	DISO 673 679	lésion
+T28	PROC 685 713	chimiothérapie préopératoire
+T29	PROC 762 785	radiothérapie adjuvante
+T30	PROC 798 817	remplissage vaginal
+T31	ANAT 810 817	vaginal
+T32	PROC 832 851	anesthésie générale
+T33	PROC 877 905	prise en charge chirurgicale
+T34	MEAS 942 952	favorables
+T35	PHEN 958 976	suites opératoires
+T36	MEAS 985 992	simples
+T37	PROC 1008 1030	consultation prénatale
+T38	MEAS 1068 1072	N° 3
+T39	LIVB 1073 1080	Mlle IA
+T40	TEMP 1089 1096	34 mois
+T41	MEAS 1106 1107	2
+T42	LIVB 1108 1115	garçons
+T43	TEMP 1156 1174	4 jours auparavant
+T44	PROC 1186 1204	mariage consanguin

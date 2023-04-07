@@ -1,0 +1,27 @@
+T1	LIVB 4 9	femme
+T2	PHEN 26 46	grossesse gémellaire
+T3	PROC 51 57	suivie
+T4	DISO 77 108	douleurs vésiculaire chroniques
+T5	ANAT 86 97	vésiculaire
+T6	MEAS 123 134	progressive
+T7	DISO 150 162	métrorragies
+T8	TEMP 172 183	depuis 2ans
+T9	DISO 203 217	amaigrissement
+T10	MEAS 228 232	15kg
+T11	DISO 248 256	douleurs
+T12	MEAS 268 283	progressivement
+T13	Concept_Idea 287 293	taille
+T14	Concept_Idea 314 320	aspect
+T15	DISO 326 349	adénofibrome épiploïque
+T16	DISO 368 411	tuméfaction hypogastrique antéhypogastrique
+T17	ANAT 380 411	hypogastrique antéhypogastrique
+T18	MEAS 424 437	satisfaisante
+T19	MEAS 447 466	légèrement sensible
+T20	Hospital 494 518	consultations prénatales
+T21	LIVB 528 532	elle
+T22	TEMP 663 674	38 semaines
+T23	TEMP 692 699	4 jours
+T24	PROC 740 749	pronostic
+T25	MEAS 765 774	favorable
+T26	DISO 822 843	troubles obstétricaux
+T27	MEAS 1061 1073	3000 grammes

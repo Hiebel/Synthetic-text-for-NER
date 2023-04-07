@@ -1,0 +1,50 @@
+T1	LIVB 3 9	garçon
+T2	TEMP 17 22	7 ans
+T3	DISO 58 91	accident hémisphérique ischémique
+T4	DISO 103 124	perte de connaissance
+T5	MEAS 150 164	30 000 UI /min
+T6	DISO 200 217	céphalées fébrile
+T7	DISO 257 284	troubles sensitivoomotrices
+T8	ANAT 313 327	parties molles
+T9	ANAT 330 345	sinus caverneux
+T10	DISO 365 389	hallucinations visuelles
+T11	PROC 395 404	admission
+T12	Hospital 408 423	bloc opératoire
+T13	DISO 445 466	détresse respiratoire
+T14	PHEN 454 466	respiratoire
+T15	DISO 472 480	anorexie
+T16	PROC 485 511	pression artérielle pulsée
+T17	ANAT 494 511	artérielle pulsée
+T18	PROC 513 516	PNI
+T19	MEAS 534 546	100/60 mm Hg
+T20	DEVI 555 561	masque
+T21	CHEM 574 587	noradrénaline
+T22	MODE 602 623	voie d'abord veineuse
+T23	DOSE 628 633	doses
+T24	DOSE 637 648	3 µg/kg/min
+T25	CHEM 663 673	furosémide
+T26	DOSE 674 680	500 mg
+T27	PROC 685 720	auscultation cardio-vasculo-nerveux
+T28	ANAT 698 720	cardio-vasculo-nerveux
+T29	DISO 751 863	syndrome d'épanchement basithoracique cervico-thoracique infarcto-lésionnel latéro périchaviculaire angiosupplié
+T31	DISO 869 893	anomalies cytonucléaires
+T32	DISO 921 951	souffle médiastino-capillaires
+T33	ANAT 929 951	médiastino-capillaires
+T34	DISO 964 1020	localisations arrétropériculo-pulmonaires hypogastriques
+T35	LIVB 1083 1091	patiente
+T36	DISO 1106 1126	paralysie médullaire
+T37	LIVB 1152 1156	Nous
+T38	PROC 1178 1207	échographie abdominopelvienne
+T39	ANAT 1190 1207	abdominopelvienne
+T41	ANAT 1272 1588	jugulo-mandibulaire basithoracique hétéro-hypophyso-carotidienne lobulée hypo vascularisée hyperhémosulfate dépendante mesurant 20 cm de diamètre envahissant tous les organes abdominaux dans leur ensemble siégeant surtout au niveau de la sous mandibulaire bilatérale non refoulant l'artère cave supra hyo-rachidienne
+T42	MEAS 1400 1405	20 cm
+T43	Concept_Idea 1409 1417	diamètre
+T44	ANAT 1439 1457	organes abdominaux
+T45	ANAT 1510 1538	sous mandibulaire bilatérale
+T46	Localization 1528 1538	bilatérale
+T47	Localization 1567 1572	supra
+T48	MEAS 1611 1624	conservatrice
+T49	PROC 1631 1655	aspiration transfixiante
+T50	ANAT 1694 1706	tricuspédium
+T51	ANAT 1721 1743	troncs supra-aortiques
+T52	PROC 1792 1820	imagerie tomodensitométrique

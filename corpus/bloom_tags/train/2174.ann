@@ -1,0 +1,62 @@
+T1	LIVB 28 35	patient
+T2	DISO 93 152	AVC ischémique hémorragique du sinus caverneux hypertrophié
+T3	ANAT 124 152	sinus caverneux hypertrophié
+T4	DISO 191 233	cardiomyopathie congénitale thrombolysante
+T5	ANAT 265 287	péricardique liquidien
+T6	DISO 325 346	détresse respiratoire
+T7	PHEN 334 346	respiratoire
+T8	MEAS 361 374	significative
+T9	PROC 389 413	intubation endotrachéale
+T10	PROC 419 444	anesthésie loco-régionale
+T11	ANAT 430 444	loco-régionale
+T12	CHEM 494 504	furosémide
+T13	DOSE 525 549	voie veineuse systolique
+T14	DISO 647 673	complications métaboliques
+T15	DISO 687 709	traumatisme coronarien
+T16	ANAT 699 709	coronarien
+T17	DISO 735 758	hypertension artérielle
+T18	ANAT 748 758	artérielle
+T19	DISO 799 833	symptomatologie clinico-biologique
+T20	TEMP 843 866	depuis plusieurs années
+T21	DEVI 1176 1200	médi-ateurs chirurgicaux
+T22	PROC 1213 1244	scanner thoracoabdomino-pelvien
+T23	ANAT 1221 1244	thoracoabdomino-pelvien
+T24	PROC 1256 1294	incision abdominale transoesophagienne
+T25	DISO 1320 1354	masse tissulaire hypo-vascularisée
+T26	MEAS 1364 1369	16 cm
+T27	Concept_Idea 1373 1382	grand axe
+T28	ANAT 1408 1436	sinus caverneux hypertrophié
+T29	ANAT 1452 1470	substance grêlique
+T30	PROC 1658 1674	examen somatique
+T31	DISO 1690 1718	tumeur angulo-sphinctérienne
+T32	MEAS 1740 1745	14 kg
+T33	ANAT 1830 1856	parties molles mamillaires
+T34	ANAT 1891 1945	vésicule biliaire intrahépatique hépato-carcinomateuse
+T35	ANAT 1966 1984	cavité péritonéale
+T36	ANAT 2004 2036	paroi d'épanchement pancréatique
+T37	ANAT 2061 2082	marges latéralisantes
+T38	Concept_Idea 2100 2107	contour
+T39	MEAS 2114 2124	hétérogène
+T40	PROC 2146 2166	biopsie exploratrice
+T41	DISO 2212 2231	polyradiculoneurose
+T42	PROC 2237 2261	explorations biologiques
+T43	MEAS 2315 2334	120 fois la normale
+T44	PROC 2361 2388	numération formule sanguine
+T45	PHEN 2406 2421	fonction rénale
+T46	ANAT 2415 2421	rénale
+T47	MEAS 2422 2429	altérée
+T48	PROC 2434 2459	taux d'hémoglobine glycée
+T49	MEAS 2462 2470	10,2g/dl
+T50	PROC 2478 2493	globules blancs
+T51	MEAS 2496 2515	12 000 éléments/mm3
+T52	PROC 2521 2545	chimiothérapie adjuvante
+T53	CHEM 2550 2560	Paclitaxel
+T54	DOSE 2562 2570	75 mg/m²
+T55	TEMP 2570 2572	/j
+T56	CHEM 2575 2586	Cyclosérine
+T57	DOSE 2588 2597	175 mg/m²
+T58	TEMP 2597 2599	/j
+T59	CHEM 2604 2615	Bevacizumab
+T60	DOSE 2617 2623	1mg/kg
+T61	TEMP 2623 2625	/j
+T62	MODE 2627 2639	intraveineux

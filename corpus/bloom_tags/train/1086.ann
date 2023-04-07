@@ -1,0 +1,25 @@
+T1	LIVB 28 35	patient
+T2	DISO 68 127	syndrome d'épanchement pleural liquidien cervico-bronchique
+T3	ANAT 91 127	pleural liquidien cervico-bronchique
+T4	LIVB 143 149	enfant
+T5	DISO 169 199	alcoolisme tabagique chronique
+T6	TEMP 233 249	depuis deux mois
+T7	DISO 284 297	inflammatoire
+T8	MEAS 312 318	rapide
+T9	DISO 339 349	dyspnéique
+T10	DISO 351 362	polypnéique
+T11	MEAS 374 389	progressivement
+T12	Concept_Idea 393 399	volume
+T13	DISO 418 436	anorexie purulente
+T14	TEMP 457 469	le jour même
+T15	LIVB 479 481	il
+T16	PROC 510 534	prélèvements biologiques
+T17	DISO 571 588	diabète insidieux
+T18	DISO 594 613	déficit immunitaire
+T19	CHEM 643 661	immunosuppresseurs
+T20	DISO 734 758	traumatisme pathologique
+T22	DISO 1004 1013	symptômes
+T23	PROC 1041 1059	traitement curatif
+T24	CHEM 1090 1103	dexaméthasone
+T25	CHEM 1105 1116	Ceftriaxone
+T26	PROC 1121 1146	intervention chirurgicale

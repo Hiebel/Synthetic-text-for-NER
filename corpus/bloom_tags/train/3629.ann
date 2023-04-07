@@ -1,0 +1,47 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	LIVB 83 85	Il
+T5	DISO 101 128	douleur épigastrique aiguée
+T6	ANAT 109 121	épigastrique
+T7	TEMP 138 155	depuis deux jours
+T8	DISO 171 191	vomissements bilieux
+T9	PROC 195 210	examen clinique
+T10	LIVB 223 230	patient
+T11	MEAS 234 237	bon
+T12	Concept_Idea 238 256	état hémodynamique
+T13	PHEN 260 272	respiratoire
+T14	PROC 277 309	auscultation abdomino- pelvienne
+T15	ANAT 290 309	abdomino- pelvienne
+T16	DISO 340 367	masse du plexus vésiculaire
+T17	ANAT 349 367	plexus vésiculaire
+T18	MEAS 377 382	30 cm
+T19	Concept_Idea 386 395	grand axe
+T20	PROC 400 424	scanner abdomino-pelvien
+T21	ANAT 408 424	abdomino-pelvien
+T22	DISO 438 464	lésion nodulaire hypodense
+T23	Localization 484 492	centrale
+T24	MEAS 501 505	14cm
+T25	Concept_Idea 509 518	grand axe
+T26	ANAT 534 563	parenchyme hépato-splénoïdien
+T27	ANAT 580 604	fosse iliaque bilatérale
+T28	Localization 594 604	bilatérale
+T29	PROC 620 637	bilan d'extension
+T30	MEAS 652 659	négatif
+T31	PROC 675 695	scanners thoraciques
+T32	ANAT 684 695	thoraciques
+T33	MEAS 713 720	normaux
+T34	PROC 725 756	radiothérapie externe adjuvante
+T35	MODE 780 790	voie orale
+T36	DISO 801 806	masse
+T37	DOSE 830 834	60Gy
+T38	CHEM 839 847	rayons X
+T39	DEVI 861 877	cathéter pelvien
+T40	ANAT 870 877	pelvien
+T41	PROC 883 914	anesthésie locorégionale locale
+T42	PROC 921 944	injection intraveineuse
+T43	CHEM 948 959	propranolol
+T44	CHEM 961 990	sulfaméthoxazole progestérone
+T45	MEAS 1044 1049	45 Gy
+T46	MEAS 1055 1058	70%
+T47	Concept_Idea 1065 1075	dose cible

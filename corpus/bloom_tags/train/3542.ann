@@ -1,0 +1,51 @@
+T1	PROC 2 17	examen clinique
+T2	MEAS 24 30	normal
+T3	LIVB 32 34	Il
+T4	PROC 53 90	tomodensitométrie abdomino- pelvienne
+T5	ANAT 71 90	abdomino- pelvienne
+T6	DISO 108 114	tumeur
+T7	ANAT 130 138	épiploon
+T8	MEAS 149 154	12 cm
+T9	Concept_Idea 158 167	grand axe
+T10	CHEM 195 215	produit de contraste
+T11	Localization 252 264	face interne
+T12	ANAT 268 284	paroi abdominale
+T13	DISO 304 329	pneumo-péritoine kystique
+T14	PROC 335 363	chimiothérapie néo adjuvante
+T15	DOSE 365 370	50 mg
+T16	TEMP 370 375	/jour
+T17	CHEM 386 396	isoniazide
+T18	CHEM 398 409	ethionamide
+T19	CHEM 411 429	methylisoprénaline
+T20	CHEM 431 446	corticotrypsine
+T21	CHEM 448 468	hydroxy progestérone
+T22	CHEM 470 483	dexaméthasone
+T23	CHEM 485 495	cisplatine
+T24	CHEM 497 510	bêtaméthasone
+T25	CHEM 512 524	cytarubicine
+T26	CHEM 526 543	dobutyl méthasone
+T27	CHEM 545 559	hydrocortisone
+T28	CHEM 561 573	carboplatine
+T29	CHEM 575 586	vincristine
+T30	CHEM 588 598	mitomycine
+T31	CHEM 600 611	cyclosérine
+T32	CHEM 613 626	triméthoprime
+T33	CHEM 628 640	prédnisolone
+T34	PROC 656 684	radiothérapie complémentaire
+T35	Hospital 751 759	hôpitaux
+T36	PROC 778 796	soins chirurgicaux
+T37	MEAS 852 862	déterminée
+T38	DISO 896 922	adénocarcinome épidermoïde
+T39	PROC 928 948	traitement palliatif
+T40	PROC 961 982	recherche étiologique
+T41	DISO 1015 1038	lésion tumorale maligne
+T42	PROC 1082 1105	résection thérapeutique
+T43	PROC 1112 1144	diagnostic anatomopathographique
+T44	PROC 1409 1432	mesures prophylactiques
+T45	DISO 1460 1488	adénocarcinome d'épidermoïde
+T46	LIVB 1721 1729	patients
+T47	DEVI 2153 2169	fémur artificiel
+T48	PHEN 2224 2244	grossesse gémellaire
+T49	TEMP 2255 2266	38 semaines
+T50	PROC 2425 2461	colpo-vaccination intracytoplasmique
+T51	PROC 2462 2465	CIC

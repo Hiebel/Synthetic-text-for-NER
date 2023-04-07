@@ -1,0 +1,18 @@
+T1	LIVB 4 12	patiente
+T2	MEAS 72 73	2
+T3	LIVB 74 81	garçons
+T4	LIVB 119 122	ses
+T5	LIVB 123 130	enfants
+T6	PROC 173 205	radiothérapie externe percutanée
+T7	ANAT 218 246	nerf laryngé inférieur droit
+T8	Localization 241 246	droit
+T9	PROC 261 294	tomodensitométrie intrathoracique
+T13	Localization 629 647	postérieure droite
+T14	MEAS 667 672	13 cm
+T15	Concept_Idea 676 685	grand axe
+T16	MEAS 693 704	1200 gramme
+T17	PROC 758 791	anesthésie générale endotrachéale
+T18	PROC 814 838	ventilation anesthésique
+T19	DEVI 868 927	plans radiologiques intradermoréactionaux cutaneautomatique
+T20	PROC 955 974	étude rétrospective
+T21	LIVB 1001 1009	patiente

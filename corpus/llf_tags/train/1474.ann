@@ -1,0 +1,83 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 39 50	antécédents
+T3	MEAS 51 63	particuliers
+T4	DISO 83 106	hypertension artérielle
+T5	ANAT 96 106	artérielle
+T6	PROC 124 136	consultation
+T7	PROC 140 155	examen clinique
+T8	LIVB 168 178	nouveau-né
+T9	MEAS 182 189	mauvais
+T10	Concept_Idea 190 202	état général
+T11	DISO 212 227	signes généraux
+T12	ANAT 241 264	membre supérieur gauche
+T13	Localization 258 264	gauche
+T14	PHEN 272 294	règles tonicocloniques
+T15	MEAS 303 309	libres
+T16	PROC 313 337	échographie obstétricale
+T17	TEMP 356 366	25/08/2011
+T18	DISO 399 453	hépatomégalie hétérotopique monochoriale hypokinétique
+T19	LIVB 462 472	nourrisson
+T20	PROC 478 516	laparotomie exploratrice préopératoire
+T21	Localization 557 579	termino-dorsale droite
+T22	PROC 586 621	anastomose scanno-cervico-duodénale
+T23	PROC 628 650	curage aorto-coronaire
+T24	ANAT 635 650	aorto-coronaire
+T25	PROC 666 690	radiothérapie palliative
+T26	PROC 706 731	thyroïdectomie bilatérale
+T27	Localization 721 731	bilatérale
+T28	MEAS 764 771	simples
+T29	TEMP 781 791	12/08/2012
+T30	PROC 796 819	scanner abdominopelvien
+T31	ANAT 804 819	abdominopelvien
+T32	DISO 841 859	lésion traumatique
+T33	DISO 869 893	adénopathies secondaires
+T34	DISO 903 922	processus lésionnel
+T35	PROC 936 958	chirurgie orthopédique
+T36	Concept_Idea 1043 1062	position anatomique
+T37	LIVB 1087 1113	orthopédistes pédiatriques
+T38	DISO 1133 1145	complication
+T39	PROC 1150 1177	bilan radiologique standard
+T40	PROC 1201 1232	TDM maxillo-mandibulaire totale
+T41	ANAT 1205 1232	maxillo-mandibulaire totale
+T42	PROC 1236 1254	traitement curatif
+T43	PROC 1260 1284	ostéosynthèse percutanée
+T44	PROC 1313 1333	récepteurs hormonaux
+T45	PROC 1363 1383	exérèse chirurgicale
+T46	DISO 1462 1489	métastase cervicale maligne
+T47	Concept_Idea 1556 1577	résultat histologique
+T48	LIVB 1612 1623	jeune homme
+T49	PROC 1660 1709	transfusion sanguine intraveineuse postopératoire
+T50	PROC 1752 1785	hémoglobine glyquée transfixiante
+T51	LIVB 1859 1865	malade
+T52	CHEM 1891 1918	antiagrégants plaquettaires
+T53	PROC 2618 2648	séances de rééducation motrice
+T54	PROC 2675 2687	soins locaux
+T55	PROC 2701 2718	toilette pleurale
+T56	ANAT 2710 2718	pleurale
+T57	PROC 2737 2762	kinésithérapie péridurale
+T58	DISO 2813 2835	signes neuropsychiques
+T59	DISO 2842 2863	conflit psychomotrice
+T60	DISO 2879 2900	traumatisme psychique
+T61	PROC 2917 2942	extirpation thérapeutique
+T62	PROC 2955 2987	prise en charge socio-judiciaire
+T63	TEMP 2992 3002	24/08/2013
+T64	LIVB 3065 3072	patient
+T65	DISO 3092 3110	détresse somatique
+T66	TEMP 3127 3138	quatre mois
+T67	LIVB 3151 3153	sa
+T68	LIVB 3154 3161	famille
+T69	PROC 3181 3202	contrôle orthopédique
+T70	PROC 3206 3221	psycho-éducatif
+T71	PROC 3239 3263	thérapeutique palliative
+T72	MEAS 3276 3286	différents
+T73	DISO 3296 3312	crise convulsive
+T74	PROC 3381 3400	enquête étiologique
+T75	DISO 3466 3474	récidive
+T76	PHEN 3503 3517	grossessements
+T77	PROC 3753 3790	traitements médicochirurgicaux lourds
+T78	DISO 3838 3875	pathologies auto-immunes congénitales
+T79	MEAS 4330 4342	particulière
+T80	Hospital 4396 4428	métiers spécialisés pédiatriques
+T81	DISO 4476 4500	symptomatologie clinique
+T82	DISO 4564 4598	contractures fonctionnelles aiguës
+T83	PROC 4690 4709	étude rétrospective

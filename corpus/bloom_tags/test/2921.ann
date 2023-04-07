@@ -1,0 +1,25 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 75	particuliers
+T5	DISO 96 112	dyspnée d'effort
+T6	MEAS 127 138	progressive
+T7	DISO 153 195	syndrome d'épanchement péribuccal purulent
+T8	ANAT 176 186	péribuccal
+T9	PROC 201 210	admission
+T10	Hospital 214 221	urgence
+T11	LIVB 223 226	son
+T12	Concept_Idea 227 239	état général
+T13	DISO 276 289	signes vitaux
+T14	PHEN 291 297	rythme
+T15	PROC 313 344	échographie abdomino- pelvienne
+T16	ANAT 325 344	abdomino- pelvienne
+T17	DISO 391 400	anomalies
+T18	PROC 416 458	radiographie du thoraco-abdomino-pelvienne
+T19	ANAT 432 458	thoraco-abdomino-pelvienne
+T20	DISO 472 506	masse pulmonaire supérieure droite
+T21	ANAT 478 506	pulmonaire supérieure droite
+T22	Localization 500 506	droite
+T23	MEAS 516 521	70 cm
+T24	Concept_Idea 525 534	grand axe
+T25	TEMP 544 560	depuis deux mois

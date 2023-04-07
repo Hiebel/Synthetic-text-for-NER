@@ -1,0 +1,14 @@
+T1	MEAS 31 38	simples
+T2	PROC 43 59	bilan
+T3	DISO 73 103	anémie
+T4	ANAT 80 103	hypochrome
+T5	DISO 108 130	syndrome
+T6	MEAS 135 145	spécifique
+T7	PROC 152 196	recherche
+T8	ANAT 206 214	crachats
+T9	DISO 259 281	tuberculose
+T10	ANAT 271 281	pulmonaire
+T11	PROC 286 312	étude
+T12	LIVB 317 325	patiente
+T13	PROC 342 370	corticothérapie
+T14	MEAS 394 399	bonne

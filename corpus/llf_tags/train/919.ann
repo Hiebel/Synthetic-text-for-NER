@@ -1,0 +1,96 @@
+T1	LIVB 2 12	nourrisson
+T2	TEMP 20 26	7 mois
+T3	DISO 91 113	accouchement prématuré
+T4	PROC 144 163	bilan préopératoire
+T5	MEAS 180 186	légère
+T6	DISO 187 233	dilatation des voies biliaires intrahépatiques
+T7	ANAT 202 233	voies biliaires intrahépatiques
+T8	DISO 247 290	hypertrophie du pédicule hépato-rénal droit
+T9	ANAT 263 290	pédicule hépato-rénal droit
+T10	Localization 285 290	droit
+T11	DISO 303 329	signes neuropsychiatriques
+T12	PROC 342 352	hémogramme
+T13	Concept_Idea 412 430	état hémodynamique
+T14	TEMP 447 463	depuis 24 heures
+T15	PROC 555 585	tomodensitométrie exploratrice
+T16	PROC 587 618	TDM) cervico-thoraco-abdominale
+T17	ANAT 592 618	cervico-thoraco-abdominale
+T18	PROC 667 673	coupes
+T19	CHEM 687 710	sérum salé hypertonique
+T20	CHEM 753 774	chlorure de potassium
+T21	DOSE 807 821	60 millilitres
+T22	DEVI 825 842	gélose isotonique
+T23	PROC 856 885	prise en charge thérapeutique
+T24	Hospital 890 911	urgences pédiatriques
+T25	DISO 930 947	récidive méningée
+T26	PHEN 967 976	grossesse
+T27	PROC 985 995	opératoire
+T28	DISO 1027 1059	crise convulsive polytraumatique
+T29	DISO 1075 1096	distension abdominale
+T30	ANAT 1086 1096	abdominale
+T31	DISO 1149 1155	fièvre
+T32	MEAS 1167 1176	40 degrés
+T33	MEAS 1211 1218	simples
+T34	PROC 1258 1282	alimentation parentérale
+T35	CHEM 1308 1339	amoxicilline acide clavulanique
+T36	PROC 1789 1822	néphrectomie totale scanno-guidée
+T37	MEAS 1837 1846	favorable
+T38	DISO 1880 1935	hémorragie médiastino-céphalique périanocéphale jugulée
+T40	DISO 1959 2013	malformation congénitale métaplasique fœtale malformée
+T41	MEAS 2055 2058	15%
+T42	LIVB 2074 2083	patientes
+T43	PROC 2089 2119	radio chimiothérapie adjuvante
+T44	DISO 2189 2220	réséquençage lésionnel spontané
+T45	PROC 2250 2273	manœuvres chirurgicales
+T46	PROC 2279 2330	mastectomie partielle monobloc cervicale type ELISA
+T47	PROC 2331 2336	FEGDO
+T48	PROC 2352 2411	exentération césarienne transplacentaire multidisciplinaire
+T49	MEAS 2471 2480	négatives
+T50	Concept_Idea 2489 2500	consistance
+T51	Concept_Idea 2523 2558	caractéristiques anatomopathologies
+T52	LIVB 2600 2610	nouveau-né
+T53	DISO 2670 2690	symptômes infectieux
+T54	DISO 2708 2729	syndrome hémorragique
+T55	DISO 2736 2773	complication postopératoire chronique
+T56	DISO 2790 2822	contage tuberculeux mésentérique
+T57	ANAT 2798 2822	tuberculeux mésentérique
+T58	DISO 2932 2948	maladie cœliaque
+T59	ANAT 2995 3001	thorax
+T60	ANAT 3009 3020	fémur droit
+T61	Localization 3015 3020	droit
+T62	DISO 3035 3041	fièvre
+T63	TEMP 3051 3070	depuis quatre jours
+T64	PROC 3097 3125	chimiothérapie néo adjuvante
+T65	MODE 3130 3150	voie intramusculaire
+T66	DOSE 3152 3154	1g
+T67	TEMP 3154 3159	/jour
+T68	DEVI 3163 3178	intramusculaire
+T69	DOSE 3181 3186	20 mg
+T70	TEMP 3186 3192	/jours
+T71	CHEM 3196 3209	Triméthoprime
+T72	DOSE 3212 3217	10 mg
+T73	TEMP 3217 3219	/j
+T74	CHEM 3224 3238	bêtalactamines
+T75	Concept_Idea 3249 3259	traditions
+T76	DISO 3274 3292	effets secondaires
+T77	LIVB 3313 3319	enfant
+T78	PROC 3324 3343	suivi préopératoire
+T79	PROC 3367 3394	prise en charge pédiatrique
+T80	PROC 3423 3485	transfusion intraveineuse parentérale substitutive fractionnée
+T81	PROC 3499 3535	corticothérapie antidiabétique orale
+T82	DISO 3631 3663	pathologie infectieuse néonatale
+T83	PHEN 3688 3706	suites opératoires
+T84	MEAS 3715 3723	précoces
+T85	PROC 3727 3749	examen ophtalmologique
+T86	DISO 3779 3806	récidive neuropsychiatrique
+T87	PROC 3813 3822	admission
+T88	LIVB 3832 3839	parents
+T89	PROC 3859 3926	remplissage vestibulaire extravertébral pleural parieto-sous cutané
+T91	PROC 3941 3971	toilette naso-gastro-duodénale
+T92	ANAT 3950 3971	naso-gastro-duodénale
+T93	PROC 3984 4054	intubation oeso-gastroduodénale fundique controlatérale per opératoire
+T95	PROC 4073 4126	rhinopharyngotomie exploratrice percutanée anténatale
+T96	DISO 4146 4179	laryngite staphylocébrale lobulée
+T97	MEAS 4248 4284	50 fois la limite inférieure tolérée
+T98	PROC 4289 4314	traitement prophylactique
+T99	PROC 4351 4373	contrôle échographique

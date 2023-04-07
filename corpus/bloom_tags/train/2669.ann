@@ -1,0 +1,83 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	DISO 38 63	antécédents pathologiques
+T4	MEAS 64 76	particuliers
+T5	PROC 78 83	admis
+T6	Hospital 88 109	urgences pédiatriques
+T7	DISO 119 152	dilatation des orifices urinaires
+T8	ANAT 134 152	orifices urinaires
+T9	TEMP 162 175	depuis 2 mois
+T10	PROC 179 194	examen clinique
+T11	PROC 199 208	admission
+T12	Concept_Idea 223 228	poids
+T13	MEAS 232 237	14 kg
+T14	Concept_Idea 245 251	taille
+T15	MEAS 255 261	170 cm
+T16	DISO 278 292	prise de poids
+T17	DISO 298 312	amaigrissement
+T18	LIVB 315 317	Il
+T19	MEAS 327 330	bon
+T20	Concept_Idea 331 343	état général
+T21	PHEN 349 364	fonction rénale
+T22	ANAT 358 364	rénale
+T23	MEAS 371 378	normale
+T24	LIVB 380 382	Il
+T25	PROC 405 441	tomodensitométrie abdomino-pelvienne
+T26	ANAT 423 441	abdomino-pelvienne
+T27	DISO 462 509	masse tissulaire du sinus vésical hypertrophiée
+T28	ANAT 482 509	sinus vésical hypertrophiée
+T29	MEAS 519 523	15cm
+T30	MEAS 528 532	12mm
+T31	ANAT 549 566	vésicule biliaire
+T32	ANAT 583 622	pièces parenchymateuses latéro-utérines
+T33	PROC 650 659	injection
+T34	CHEM 663 673	prolactine
+T35	PROC 678 697	bilan préopératoire
+T36	PROC 711 728	anesthésie locale
+T37	DISO 751 784	syndrome inflammatoire biologique
+T38	PROC 786 789	CRP
+T39	MEAS 792 798	1 mg/l
+T40	PROC 800 815	globules blancs
+T41	MEAS 818 835	20000 élément/mm3
+T42	PROC 837 847	plaquettes
+T43	MEAS 850 868	17000 éléments/mm3
+T44	PROC 874 888	protéinorachie
+T45	MEAS 905 923	20 fois la normale
+T46	PROC 926 937	glycorachie
+T47	DOSE 939 948	0,22 g/dl
+T48	PROC 950 962	natrorrachie
+T49	DOSE 964 974	120 meq/kg
+T50	PROC 979 1012	imagerie par résonance magnétique
+T51	PROC 1014 1017	IRM
+T52	DISO 1032 1077	épanchement intravésiculaire pérituberculoïde
+T53	ANAT 1044 1077	intravésiculaire pérituberculoïde
+T54	ANAT 1099 1135	substance grêlo-caudale pancréatique
+T55	DISO 1173 1195	lésions hypersignalées
+T56	DISO 1239 1258	carcinose purulente
+T57	DISO 1269 1285	signes cliniques
+T58	DISO 1312 1334	troubles hydro-aérique
+T59	PROC 1339 1370	radiothérapie externe adjuvante
+T60	DEVI 1421 1474	faisceaux radio-céphalo-thoraciques bipolaire inversé
+T62	TEMP 1686 1694	18 jours
+T63	PROC 1707 1716	chirurgie
+T64	MEAS 1809 1813	30ml
+T65	Localization 1816 1824	centrale
+T66	MEAS 1842 1852	modérément
+T67	Concept_Idea 1856 1864	diamètre
+T68	MEAS 1889 1900	massivement
+T69	DISO 1901 1911	douloureux
+T70	Concept_Idea 1925 1932	surface
+T71	MEAS 1941 1958	circonférentielle
+T72	MEAS 1970 1985	progressivement
+T73	Concept_Idea 1989 1999	profondeur
+T75	ANAT 2159 2178	parois intestinales
+T76	DISO 2264 2305	métastome mésentériques kystique infiltré
+T77	PROC 2396 2417	échographie pelvienne
+T78	ANAT 2408 2417	pelvienne
+T79	PROC 2430 2461	angioscanner artério-myocardial
+T80	ANAT 2443 2461	artério-myocardial
+T81	MEAS 2478 2485	normaux
+T82	DISO 2551 2585	vascularisation ischémique maligne
+T84	MEAS 2615 2620	19 SA
+T85	DISO 2623 2652	méningo endométriose tumorale
+T86	DISO 2701 2721	hypotonie péridurale

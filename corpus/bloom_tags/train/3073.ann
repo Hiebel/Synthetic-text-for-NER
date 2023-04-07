@@ -1,0 +1,34 @@
+T1	LIVB 4 7	H.Z
+T2	MEAS 42 46	deux
+T3	LIVB 47 54	enfants
+T4	DISO 70 83	consanguinité
+T5	LIVB 113 120	famille
+T6	PROC 126 141	examen clinique
+T7	LIVB 143 151	patiente
+T8	DISO 158 169	polypnéique
+T9	MEAS 172 185	28 cycles/min
+T10	PROC 202 218	examen somatique
+T11	DISO 252 348	syndrome d’épanchement pleural liquidien cervico-dorsiflexion systéo-tendineux cutané compressif
+T13	TEMP 358 371	depuis 2 mois
+T14	DISO 412 428	dyspnée sifieuse
+T15	MEAS 443 450	modérée
+T16	MEAS 460 481	profondément chiffrée
+T17	PROC 504 525	recherche étiologique
+T18	PROC 531 564	échocardiographie transthoracique
+T19	ANAT 549 564	transthoracique
+T20	DISO 602 625	anomalies pathologiques
+T21	DISO 640 675	cardiomyopathie congénitale dilatée
+T22	MEAS 754 764	1ere degré
+T23	PROC 768 809	numération formule sanguine préopératoire
+T24	DISO 834 850	hyperleucocytose
+T25	MEAS 853 872	23 000 éléments/mm3
+T26	PROC 876 895	hémoglobine glyquée
+T27	MEAS 904 912	7,4 g/dl
+T28	PROC 925 946	bilan phosphocalcique
+T29	MEAS 956 966	négligible
+T30	PROC 969 985	natrémie globale
+T31	MEAS 988 997	126 meq/l
+T32	MEAS 1003 1011	12 meq/l
+T33	CHEM 1054 1079	hydroxy-chlorophosphamide
+T34	PROC 1093 1142	supplémentation béta-immunoglobulines parenterale
+T35	PROC 1189 1221	traitement médicamenteux curatif

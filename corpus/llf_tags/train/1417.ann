@@ -1,0 +1,59 @@
+T1	LIVB 3 17	jeune marocain
+T2	Hospital 51 59	urgences
+T3	DISO 79 101	constipation chronique
+T4	TEMP 115 133	5 jours auparavant
+T5	DISO 170 181	traumatisme
+T6	Concept_Idea 213 225	état général
+T7	DISO 347 374	diarrhées glaireuses aigues
+T8	DISO 514 529	symptomatologie
+T9	DISO 627 675	anorexie hypercholestèro-oesophagienne terminale
+T10	CHEM 719 747	anti dépresseurs tricyclique
+T11	PROC 805 824	séance diagnostique
+T12	PROC 838 849	échographie
+T13	DISO 865 965	masse kystique tissulaire hypoéchogène monobloc rétro péritonéale fistulisée hétérodilatée calcifiée
+T14	MEAS 975 980	13 cm
+T15	Concept_Idea 984 993	grand axe
+T16	MEAS 1002 1006	6 cm
+T17	Concept_Idea 1010 1019	petit axe
+T18	ANAT 1040 1058	plan crico-pelvien
+T19	MEAS 1088 1101	environ 10 cm
+T20	Concept_Idea 1105 1112	hauteur
+T21	DISO 1136 1192	récidive tumorale maligne métastatique hépato-rénalienne
+T22	PROC 1199 1217	étude histologique
+T23	DISO 1234 1296	prolifération cellulaire éosinophile carcinomateuse encapsulée
+T24	DISO 1536 1556	lymphocytes myxoïdes
+T25	DEVI 1859 1868	appareils
+T26	DISO 1919 1940	détresse respiratoire
+T27	PHEN 1928 1940	respiratoire
+T28	DISO 2043 2067	troubles électrolytiques
+T29	Concept_Idea 2080 2100	aspect morphologique
+T30	Concept_Idea 2186 2207	indication opératoire
+T31	LIVB 2226 2230	nous
+T32	LIVB 2273 2281	vétérans
+T33	PROC 2326 2350	laparotomie exploratrice
+T34	PROC 2364 2454	néonatoplastie adjuvante du pédicule fémoral postéro-supéro-externe cervico-fémoral gauche
+T36	Localization 2448 2454	gauche
+T37	PROC 2477 2509	bilan radiologique préopératoire
+T38	PROC 2514 2566	curage ganglionnaire axillaire par voie endoscopique
+T39	PROC 2583 2612	corticothérapie néo adjuvante
+T40	CHEM 2614 2621	Taxanes
+T41	CHEM 2624 2638	Pristinamycine
+T42	PROC 2652 2674	contrôle échographique
+T43	DISO 2690 2699	anomalies
+T44	DISO 2717 2735	thrombose aortique
+T45	DISO 2742 2764	métastases secondaires
+T46	PROC 2813 2832	anesthésie générale
+T47	DISO 2851 2878	complication postopératoire
+T48	PROC 2908 2920	intervention
+T49	PROC 2983 2989	suivie
+T50	PROC 3012 3029	tomodensitométrie
+T51	PROC 3044 3065	recherche étiologique
+T52	DISO 3083 3104	malignité congénitale
+T53	LIVB 3119 3127	patients
+T54	DISO 3140 3148	gène HLA
+T55	DISO 3452 3479	lésions ostéocondensatrices
+T56	ANAT 3488 3539	anses grêliques dorsolombaires jugulo-carotidiennes
+T57	ANAT 3580 3615	structures digestives périmésiennes
+T60	Localization 3744 3759	inferieur moyen
+T62	Localization 3811 3822	superficiel
+T64	Localization 3874 3882	en avant

@@ -1,0 +1,32 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	15 ans
+T3	Concept_Idea 42 67	antécédents pathologiques
+T4	MEAS 68 76	notables
+T5	PROC 78 83	admis
+T6	Hospital 87 94	urgence
+T7	DISO 104 131	douleurs abdominales aiguës
+T8	ANAT 113 124	abdominales
+T9	DISO 147 175	ictère érythémateux purulent
+T10	TEMP 185 200	depuis 6 heures
+T11	PROC 204 219	examen clinique
+T12	DISO 240 260	masse du flanc droit
+T13	ANAT 249 260	flanc droit
+T14	Localization 255 260	droit
+T15	PHEN 300 320	fonction intestinale
+T16	ANAT 309 320	intestinale
+T17	PROC 340 371	échographie abdomino- pelvienne
+T18	ANAT 352 371	abdomino- pelvienne
+T19	DISO 385 436	masse tumorale hypoechogéminée hétérogène hypodense
+T20	MEAS 445 453	10/10 cm
+T21	ANAT 470 486	parois vaginales
+T22	MEAS 496 502	6/8 cm
+T23	Concept_Idea 505 512	aspects
+T24	MEAS 513 524	hétérogènes
+T25	ANAT 545 554	péritoine
+T26	PROC 570 579	injection
+T27	CHEM 583 603	produit de contraste
+T28	DISO 619 640	métastases pelviennes
+T29	ANAT 630 640	pelviennes
+T30	PROC 644 680	endoscopie oeso-gastro-anastomotique
+T31	ANAT 655 680	oeso-gastro-anastomotique
+T32	DISO 706 731	localisations secondaires

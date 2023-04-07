@@ -1,0 +1,95 @@
+T1	LIVB 20 28	patiente
+T2	DISO 67 90	hypertension artérielle
+T3	ANAT 80 90	artérielle
+T4	Concept_Idea 92 118	indice de masse corporelle
+T5	MEAS 120 127	32kg/m2
+T6	PROC 143 149	admise
+T7	Hospital 153 173	service des urgences
+T8	Hospital 177 184	CHU-HKM
+T9	PROC 190 199	admission
+T10	LIVB 204 212	patiente
+T11	Concept_Idea 233 251	plan hémodynamique
+T12	MEAS 254 258	36°C
+T13	PHEN 267 272	pouls
+T14	MEAS 275 288	80 battements
+T15	TEMP 289 299	par minute
+T16	DISO 315 326	traumatisme
+T17	DISO 336 341	signe
+T18	DISO 367 378	vomissement
+T19	DISO 389 415	signes neuropsychiatriques
+T20	DISO 435 458	hallucinations tactiles
+T21	DISO 471 485	amaigrissement
+T22	MEAS 496 500	16kg
+T23	PROC 514 529	examen clinique
+T24	LIVB 549 557	patiente
+T25	CHEM 563 587	acide acétyle glutamique
+T26	CHEM 590 617	triméthoprimesulfaméthasone
+T27	CHEM 619 637	captoprostolactone
+T28	DEVI 649 656	bureaux
+T29	PROC 662 677	prise en charge
+T30	DISO 683 715	syndrome polymalformatif fébrile
+T31	Concept_Idea 760 772	état général
+T32	PROC 801 820	hémodialyse urgente
+T33	PROC 854 870	examen somatique
+T34	DISO 882 895	particularité
+T35	DISO 920 941	récidive pathologique
+T36	DISO 966 984	lésion traumatique
+T37	LIVB 996 1004	patiente
+T38	PROC 1008 1027	électrocardiogramme
+T39	DISO 1070 1109	dysfonction motrice globale asymétrique
+T40	PROC 1167 1193	consultation psychiatrique
+T41	PROC 1205 1210	suivi
+T42	PROC 1215 1245	TDM thoraco-abdomino-pelvienne
+T43	ANAT 1219 1245	thoraco-abdomino-pelvienne
+T46	Localization 1289 1295	droite
+T54	PROC 1640 1655	Fibroscopie ODG
+T55	MEAS 1678 1687	147 mm Hg
+T56	Concept_Idea 1701 1717	valeur théorique
+T57	MEAS 1733 1742	175 mm Hg
+T58	MEAS 1746 1755	186 mm Hg
+T59	PROC 1761 1787	scintigraphie scannoguidée
+T60	PROC 1802 1814	angioscanner
+T61	DISO 1828 1887	hypersignal céphalothorax hypertrophique oblongue hyperfixé
+T62	MEAS 1897 1918	12×13×8×9 millimètres
+T63	MEAS 1924 1942	30 fois la normale
+T64	MEAS 1977 2003	difficilement appréciables
+T65	Concept_Idea 2017 2039	rapport signal / bruit
+T66	MEAS 2050 2056	normal
+T67	MEAS 2089 2099	favorables
+T68	PROC 2127 2137	transfusée
+T70	CHEM 2187 2220	ciprofloxacine acide clavulanique
+T71	CHEM 2223 2249	céfotaxime diphénobarbital
+T72	DISO 2294 2323	troubles hydroélectrolytiques
+T73	PROC 2329 2340	monoclonale
+T74	PROC 2393 2466	oxygénothérapie néo adjuvante séquellaire biquotidienne substitutionnelle
+T76	PROC 2673 2714	laparotomie rétrograde du nerf thoracique
+T77	ANAT 2699 2714	nerf thoracique
+T80	Localization 2782 2788	gauche
+T81	Localization 2814 2819	médio
+T83	PROC 2885 2933	protocole anesthésique local intraveineux direct
+T84	PROC 2935 2939	PALI
+T85	PROC 2954 2998	surveillance neurochirurgicale préopératoire
+T86	DISO 3014 3028	particularités
+T87	DISO 3053 3080	contractions hémodynamiques
+T88	LIVB 3085 3092	patient
+T89	DISO 3113 3134	récidive hémorragique
+T90	DISO 3144 3171	symptomatologie traumatique
+T91	PROC 3181 3198	geste chirurgical
+T92	PROC 3259 3288	prise en charge thérapeutique
+T94	DISO 3359 3381	circonstances toxiques
+T95	PROC 3391 3409	traitement curatif
+T96	LIVB 3436 3442	enfant
+T97	TEMP 3450 3456	11 ans
+T98	LIVB 3591 3605	frère maternel
+T99	LIVB 3624 3631	parents
+T100	TEMP 3701 3707	3 mois
+T101	TEMP 3711 3718	16 mois
+T102	PHEN 3731 3740	grossesse
+T103	TEMP 3780 3785	4mois
+T104	PROC 3798 3834	cure prénatale néonatale pédiatrique
+T105	PROC 3868 3923	maturation obstétricale fœtale parentérale progestative
+T106	PROC 4043 4091	perfusion extrapyramidale périnatale fractionnée
+T107	PROC 4107 4173	cholécystectomie extrascributrice intrascributonucleaire pédiculée
+T108	PROC 4192 4227	créatininémie normocytaire sériques
+T109	PROC 4231 4242	hémodialyse
+T110	PROC 4260 4285	injection intramusculaire

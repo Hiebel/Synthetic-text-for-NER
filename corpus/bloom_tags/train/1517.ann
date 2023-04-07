@@ -1,0 +1,31 @@
+T1	LIVB 16 21	femme
+T2	DISO 57 83	douleurs pelviennes aiguës
+T4	TEMP 105 118	depuis 3 mois
+T5	PROC 151 168	bilan d'extension
+T6	PROC 172 197	intervention chirurgicale
+T8	ANAT 243 254	flanc droit
+T9	Localization 249 254	droit
+T10	ANAT 297 324	hypochondre supérieur droit
+T11	Localization 319 324	droit
+T12	LIVB 357 365	patiente
+T13	DISO 371 392	carcinome endométrial
+T14	LIVB 395 399	Nous
+T15	PROC 418 437	bilan immunologique
+T16	PROC 446 470	anticorps antinucléaires
+T17	PROC 509 534	scanner abdomino- pelvien
+T18	ANAT 517 534	abdomino- pelvien
+T19	DISO 565 593	tumeur pléomorphe encapsulée
+T20	MEAS 602 606	13cm
+T21	Concept_Idea 610 619	grand axe
+T22	ANAT 648 679	muscles fléchisseurs périduraux
+T23	DISO 735 748	polynucléaire
+T24	DISO 752 762	fasciculée
+T25	ANAT 791 811	structures urinaires
+T26	ANAT 813 822	grêliques
+T27	ANAT 826 836	ovariennes
+T28	PROC 853 880	rehaussement angiographique
+T29	DISO 901 915	résidu tumoral
+T30	ANAT 925 956	parties molles para vertébrales
+T31	DISO 1034 1093	papule bourgeonnante prurigineuse érythémato-culmonocutanée
+T32	DISO 1111 1136	localisations purpuriques
+T33	DISO 1189 1227	granulome non hodgkinien inflammatoire

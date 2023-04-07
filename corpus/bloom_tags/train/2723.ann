@@ -1,0 +1,23 @@
+T1	LIVB 16 24	patiente
+T2	DISO 58 96	hypertension artérielle intracrânienne
+T3	ANAT 71 96	artérielle intracrânienne
+T4	CHEM 102 115	noradrénaline
+T5	DISO 144 173	syndrome d’épilepsie primaire
+T6	TEMP 183 196	depuis 4 mois
+T7	LIVB 203 206	son
+T8	PROC 207 216	admission
+T9	Hospital 225 247	maternité périphérique
+T10	PHEN 275 296	accouchement maternel
+T11	PROC 301 306	suivi
+T12	PROC 432 436	EIVT
+T13	MEAS 484 492	niveau 1
+T14	MEAS 515 527	2800 grammes
+T15	MEAS 531 543	3000 grammes
+T16	PROC 547 563	examen somatique
+T17	DISO 579 637	tuméfaction angulo-carotidienne basithoracique infarctoïde
+T18	ANAT 656 674	muscles cardiaques
+T19	MEAS 686 696	rapidement
+T20	Concept_Idea 700 706	volume
+T21	MEAS 716 725	rougeâtre
+T22	ANAT 749 779	corps musculaire méso-cœlèbral
+T23	PROC 795 823	repositionnement chirurgical

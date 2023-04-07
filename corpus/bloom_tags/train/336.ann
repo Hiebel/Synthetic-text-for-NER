@@ -1,0 +1,21 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 39 46	patient
+T3	Concept_Idea 72 90	plan hémodynamique
+T4	PHEN 94 106	respiratoire
+T5	DISO 108 118	apyrétique
+T6	MEAS 121 127	37.5°c
+T7	DISO 143 178	syndrome d'épanchement péricardique
+T8	ANAT 166 178	péricardique
+T9	DISO 184 198	amaigrissement
+T10	MEAS 209 214	10 kg
+T11	TEMP 228 244	12 derniers mois
+T13	ANAT 265 271	thorax
+T14	MEAS 278 285	normale
+T15	DISO 306 346	sténose pulmonaire basithoracique droite
+T16	ANAT 314 346	pulmonaire basithoracique droite
+T17	Localization 340 346	droite
+T18	DISO 362 431	opacité médiastin-pulmonaire bilatérale latéro-utérine bilithiasiques
+T19	ANAT 370 431	médiastin-pulmonaire bilatérale latéro-utérine bilithiasiques
+T21	MEAS 441 446	46 cm
+T22	Concept_Idea 450 459	grand axe
+T23	CHEM 482 502	produit de contraste

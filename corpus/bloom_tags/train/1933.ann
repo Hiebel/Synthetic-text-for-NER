@@ -1,0 +1,35 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	6 ans
+T3	Concept_Idea 37 68	antécédents médico-chirurgiques
+T4	MEAS 69 81	particuliers
+T5	PROC 83 87	reçu
+T6	Hospital 92 100	urgences
+T7	DISO 110 132	douleurs épigastriques
+T8	ANAT 119 132	épigastriques
+T9	DISO 149 170	détresse respiratoire
+T10	PHEN 158 170	respiratoire
+T11	MEAS 185 196	progressive
+T12	TEMP 206 219	depuis 3 mois
+T13	PROC 223 238	examen clinique
+T14	LIVB 253 259	enfant
+T15	MEAS 263 266	bon
+T16	Concept_Idea 267 279	état général
+T17	DISO 300 338	tuméfaction latéralisée du flanc droit
+T18	ANAT 327 338	flanc droit
+T19	Localization 333 338	droit
+T20	MEAS 348 352	3 cm
+T21	ANAT 369 389	fosse iliaque droite
+T22	Localization 383 389	droite
+T23	MEAS 401 416	progressivement
+T24	Concept_Idea 420 429	grand axe
+T25	MEAS 442 450	palpable
+T26	DEVI 458 487	cathéter oeso-gastro-duodénal
+T27	ANAT 467 487	oeso-gastro-duodénal
+T28	PROC 491 520	échographie abdominopelvienne
+T29	ANAT 503 520	abdominopelvienne
+T31	ANAT 658 681	vaisseaux mésentériques
+T32	ANAT 701 718	angle colicocæcal
+T33	PROC 734 770	tomodensitométrie abdomino pelvienne
+T34	ANAT 752 770	abdomino pelvienne
+T35	LIVB 795 801	enfant
+T36	DISO 843 854	hypothermie

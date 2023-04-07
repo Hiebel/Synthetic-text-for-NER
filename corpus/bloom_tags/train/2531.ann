@@ -1,0 +1,79 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	13 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	DISO 95 140	tuméfaction douloureuse des paires crâniennes
+T6	ANAT 123 140	paires crâniennes
+T7	MEAS 155 166	progressive
+T8	TEMP 176 192	depuis deux mois
+T9	PROC 196 210	interrogatoire
+T10	Hospital 216 244	salle d'accueil des urgences
+T11	DISO 274 283	épistaxis
+T12	PHEN 307 327	grossesse gémellaire
+T13	PROC 332 338	suivie
+T14	PROC 354 370	examen somatique
+T15	DISO 382 395	particularité
+T16	PROC 400 443	radiographie du rachis cervico-mandibulaire
+T18	PROC 445 449	RCMC
+T19	DISO 464 488	ostéophyte hypopigmentée
+T20	Localization 522 526	sous
+T21	ANAT 531 564	sinus caverneux sus mandibulaires
+T22	MEAS 574 578	6 cm
+T23	Concept_Idea 582 596	grand diamètre
+T24	DISO 617 679	adénopathies pariéto-occipitale basithoraciques hypertrophiées
+T26	MEAS 703 706	4cm
+T27	MEAS 710 723	3 centimètres
+T28	LIVB 725 729	Nous
+T29	DISO 761 799	syndrome d'épanchement intrapéritonéal
+T30	ANAT 784 799	intrapéritonéal
+T31	DISO 809 824	lésion kystique
+T32	LIVB 846 854	patiente
+T33	DISO 868 898	troubles hydro-électrolytiques
+T34	DISO 916 937	lésions ostéolytiques
+T35	MEAS 949 963	indispensables
+T36	PROC 982 1005	déglutition étiologique
+T37	MEAS 1055 1072	bien appréciables
+T38	PROC 1077 1098	échographie pelvienne
+T39	ANAT 1089 1098	pelvienne
+T40	PROC 1113 1132	anesthésie générale
+T41	DISO 1156 1180	localisations nodulaires
+T42	ANAT 1195 1210	parois utérines
+T43	DISO 1221 1246	malformations maligneuses
+T44	DISO 1260 1281	carcinome endovaginal
+T45	ANAT 1270 1281	endovaginal
+T46	DISO 1340 1372	masse nécrose tumorale purulente
+T47	DISO 1440 1468	symptomatologie hémorragique
+T48	DISO 1491 1512	détresse respiratoire
+T49	PHEN 1500 1512	respiratoire
+T50	MEAS 1524 1536	40 cycles/mn
+T51	PROC 1557 1595	traitement médical curatif chirurgical
+T52	PROC 1601 1622	mastectomie adjuvante
+T53	CHEM 1648 1675	médicaments hormonaux oraux
+T54	MEAS 1757 1766	spontanée
+T55	DISO 1779 1802	tumeurs carcinomateuses
+T56	DISO 1893 1937	processus lésionnel prurigineux érythémateux
+T57	ANAT 1956 1977	muqueuse péritumorale
+T58	ANAT 1994 2018	nerf cutanéo-surrénalien
+T59	DISO 2100 2112	hyperthermie
+T60	MEAS 2127 2134	intense
+T61	ANAT 2155 2175	membranes ovariennes
+T62	PROC 2239 2268	prélèvements bactériocultures
+T63	MEAS 2285 2315	bêtaméthasone-néphrine positif
+T64	PROC 2529 2554	recherche immunogénétique
+T65	DISO 2743 2768	myometrorragie systémique
+T66	DISO 2867 2906	chorioamniotite inflammatoire chronique
+T67	PROC 2926 2956	échographie abdomino-pelvienne
+T68	ANAT 2938 2956	abdomino-pelvienne
+T69	PHEN 2970 2990	grossesse gémellaire
+T70	Concept_Idea 3013 3031	poids gestationnel
+T71	PROC 3051 3075	scanner abdomino-pelvien
+T72	ANAT 3059 3075	abdomino-pelvien
+T73	DISO 3089 3098	anomalies
+T74	LIVB 3114 3122	patiente
+T75	PROC 3141 3167	rééducation postopératoire
+T76	PROC 3174 3198	monitorage hémodynamique
+T77	PROC 3212 3238	stabilisation anesthésique
+T78	MODE 3247 3252	bolus
+T79	DOSE 3256 3265	0,6 mg/kg
+T80	TEMP 3265 3267	/j
+T81	CHEM 3270 3280	isoflurane

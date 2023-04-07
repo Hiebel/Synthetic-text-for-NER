@@ -1,0 +1,23 @@
+T1	PROC 2 24	échographie abdominale
+T2	ANAT 14 24	abdominale
+T3	DISO 38 67	distension abdomino-pelvienne
+T4	ANAT 49 67	abdomino-pelvienne
+T5	MEAS 70 75	60 mm
+T6	Concept_Idea 82 89	hauteur
+T7	ANAT 93 109	tronc céphalique
+T8	PROC 114 128	TDM thoracique
+T9	ANAT 118 128	thoracique
+T10	DISO 145 174	niveaux hydroaériques excavés
+T11	DISO 189 212	épanchement sous cutané
+T12	Localization 201 205	sous
+T13	DISO 242 255	hémopéritoine
+T14	DISO 265 290	localisations secondaires
+T15	ANAT 299 312	scalp frontal
+T16	MEAS 345 352	simples
+T17	PROC 358 373	hospitalisation
+T18	TEMP 393 421	deuxième jour postopératoire
+T19	LIVB 426 433	patient
+T20	CHEM 457 471	anticoagulants
+T21	CHEM 473 504	amoxicilline acide clavulanique
+T22	CHEM 507 521	gentaméthasone
+T23	Concept_Idea 572 598	activités professionnelles

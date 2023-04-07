@@ -1,0 +1,17 @@
+T1	LIVB 2 10	patiente
+T2	PROC 29 36	exérèse
+T3	DISO 43 49	tumeur
+T4	Concept_Idea 53 72	aspect histologique
+T5	PROC 76 95	immunohistochimique
+T6	DISO 117 153	carcinome épidermoïde du rein gauche
+T7	ANAT 142 153	rein gauche
+T8	Localization 147 153	gauche
+T9	MEAS 163 168	bonne
+T10	PROC 184 216	chimiothérapie anti-tuberculeuse
+T11	CHEM 227 240	triméthoprime
+T12	DOSE 242 250	25 mg/kg
+T13	TEMP 250 252	/j
+T14	MEAS 286 293	simples
+T15	PROC 298 318	suivi postopératoire
+T16	DISO 328 336	récidive
+T17	DISO 340 349	métastase

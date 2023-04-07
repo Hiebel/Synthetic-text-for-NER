@@ -1,0 +1,81 @@
+T1	LIVB 29 34	femme
+T2	PROC 93 133	drainage abdomino-pelvien transgastrique
+T3	ANAT 102 133	abdomino-pelvien transgastrique
+T4	PHEN 155 175	grossesse gémellaire
+T5	MEAS 200 205	12 SA
+T6	DISO 221 238	souffrance fœtale
+T7	PROC 271 298	anesthésie loco-rétrachéale
+T8	ANAT 282 298	loco-rétrachéale
+T9	PROC 312 339	réanimation néonutritionale
+T10	PROC 345 369	ventilation artificielle
+T11	PROC 438 469	traitement médical probabiliste
+T12	CHEM 481 497	sulfaméthoxazole
+T13	DOSE 498 505	2 mg/kg
+T14	TEMP 505 510	/jour
+T15	CHEM 513 527	ciprofloxacine
+T16	DOSE 529 535	5mg/kg
+T17	TEMP 535 537	/j
+T18	CHEM 540 551	ceftriaxone
+T19	DOSE 553 559	200 mg
+T20	TEMP 559 561	/J
+T21	CHEM 564 575	paracétamol
+T22	DOSE 577 583	600 mg
+T23	TEMP 583 585	/J
+T24	CHEM 588 599	nicardipril
+T25	DOSE 601 606	20 mg
+T26	TEMP 606 610	/min
+T27	CHEM 613 631	hydroxychloroquine
+T28	DOSE 633 639	800 mg
+T29	TEMP 639 641	/J
+T30	CHEM 644 657	métronidazole
+T31	DOSE 659 665	160 mg
+T32	TEMP 665 667	/J
+T33	CHEM 670 680	ethambutol
+T34	DOSE 682 688	750 mg
+T35	TEMP 688 690	/J
+T36	CHEM 693 706	triméthoprime
+T37	DOSE 708 713	75 mg
+T38	TEMP 713 715	/J
+T39	CHEM 718 731	dexaméthasone
+T40	DOSE 733 739	100 mg
+T41	TEMP 739 741	/J
+T42	CHEM 744 755	cyclosérine
+T43	DOSE 757 762	50 mg
+T44	TEMP 762 764	/J
+T45	CHEM 767 780	Céphalosamide
+T46	DOSE 782 787	30 mg
+T47	TEMP 787 789	/J
+T48	CHEM 792 802	Mifentanyl
+T49	DOSE 804 809	25 mg
+T50	TEMP 809 811	/J
+T51	CHEM 814 825	Bupivacaine
+T52	DOSE 827 831	1 ml
+T53	TEMP 831 833	/J
+T54	CHEM 836 846	Sufentanil
+T55	DOSE 848 857	0,6 µg/kg
+T56	TEMP 857 859	/h
+T57	CHEM 862 870	propofol
+T58	DOSE 872 880	4µmol/kg
+T59	TEMP 880 888	/seconde
+T60	CHEM 893 907	hydrocortisone
+T61	DOSE 909 918	15 ng /ml
+T62	TEMP 918 932	pendant 10 min
+T63	PROC 939 961	hypotonie obstétricale
+T64	PROC 974 1014	remplissage artério-veineux intraveineux
+T66	DEVI 1091 1104	masse plâtrée
+T67	Localization 1169 1186	partie supérieure
+T68	Concept_Idea 1258 1269	consistance
+T69	MEAS 1274 1288	visoconnulante
+T70	MEAS 1315 1333	de manière intense
+T71	DISO 1506 1553	maladie thromboembolique veineuse superficielle
+T72	LIVB 1637 1643	enfant
+T73	LIVB 1669 1674	bébés
+T74	PROC 1769 1792	contraception prénatale
+T75	DISO 2024 2049	dilatation des surrénales
+T76	ANAT 2039 2049	surrénales
+T77	DISO 2065 2103	syndrome d'épanchement intrapéritonéal
+T78	ANAT 2088 2103	intrapéritonéal
+T79	TEMP 2121 2132	deux heures
+T80	PHEN 2183 2195	accouchement
+T81	MEAS 2228 2240	3600 grammes
+T82	DISO 2246 2268	troubles neurologiques

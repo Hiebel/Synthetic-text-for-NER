@@ -1,0 +1,66 @@
+T1	LIVB 29 37	patiente
+T2	PROC 75 132	cystatectomie transpharyngo-laryngopharyngée endoscopique
+T3	PROC 138 162	anesthésie locorégionale
+T4	ANAT 149 162	locorégionale
+T5	CHEM 175 187	indufentanil
+T6	DEVI 196 214	sonde œsophagienne
+T7	ANAT 202 214	œsophagienne
+T8	DISO 267 276	symptômes
+T9	DISO 303 320	myélome myomateux
+T10	LIVB 332 340	patiente
+T11	DISO 369 405	hémangiopéricardite ischémique aiguë
+T12	DISO 410 430	thrombopénie fébrile
+T13	PROC 472 479	traitée
+T14	DOSE 484 490	200 mg
+T15	CHEM 494 506	prédnisolone
+T16	MODE 507 520	voie veineuse
+T17	DISO 542 566	traumatisme hémorragique
+T18	DISO 580 614	défense thoracique diaphragmatique
+T19	ANAT 588 614	thoracique diaphragmatique
+T20	LIVB 635 639	elle
+T21	DISO 661 667	fièvre
+T22	DISO 674 702	douleurs abdomino-pelviennes
+T23	ANAT 683 702	abdomino-pelviennes
+T24	DISO 723 735	métrorragies
+T25	MEAS 747 762	plus fréquentes
+T26	ANAT 784 794	ovariennes
+T27	PROC 966 985	échographie utérine
+T28	ANAT 978 985	utérine
+T29	DISO 1021 1080	masse hypo échogéne hétérogène hypodense hyper-vascularisée
+T30	MEAS 1082 1094	bien limitée
+T31	MEAS 1103 1107	5 cm
+T32	Concept_Idea 1111 1120	grand axe
+T33	MEAS 1130 1135	70 mm
+T34	Concept_Idea 1139 1153	grand diamètre
+T35	ANAT 1174 1186	corps utérin
+T36	DISO 1207 1349	organométastases épigynico-hypophysaires basithoraciques péripéritonéaux latéro-myometrulaires cervicales angiosurrénaliennes séreux kystiques
+T38	Concept_Idea 1414 1428	diamètre total
+T39	DISO 1448 1474	kystes hydatiques nécrosés
+T40	MEAS 1535 1547	environ 10cm
+T41	Concept_Idea 1551 1560	grand axe
+T42	MEAS 1575 1586	intensément
+T43	PROC 1600 1608	rétrécis
+T44	MEAS 1632 1641	lentement
+T45	Concept_Idea 1645 1651	taille
+T46	PROC 1670 1678	réséquée
+T47	DISO 1718 1733	tissularisation
+T48	Concept_Idea 1755 1765	caractères
+T49	MEAS 1766 1775	multiples
+T50	DISO 1814 1848	parathyroïdien tumoral vascularisé
+T51	PROC 1855 1898	tomodensitométrie pelvienne scannographique
+T52	ANAT 1873 1898	pelvienne scannographique
+T53	MEAS 1915 1922	normale
+T54	PROC 1927 1967	curage axillaire ganglionnaire axillaire
+T55	ANAT 1934 1967	axillaire ganglionnaire axillaire
+T56	DISO 1990 2015	localisation métastatique
+T57	DISO 2029 2077	hypotonie vasculo-cicatrice épidermique tumorale
+T59	DISO 2116 2140	maladie thromboembolique
+T60	ANAT 2174 2188	endovasculaire
+T61	DISO 2248 2295	processus bourgeonnante tissulaire hypertrophié
+T62	DISO 2300 2350	hémangio-splénomégalie du liquide céphalorachidien
+T64	DISO 2367 2401	adénopathie des glandes salivaires
+T65	ANAT 2383 2401	glandes salivaires
+T66	LIVB 2406 2413	patient
+T67	PROC 2429 2453	chimiothérapie adjuvante
+T68	CHEM 2459 2468	Etoposide
+T69	CHEM 2472 2488	Cyclophosphamide

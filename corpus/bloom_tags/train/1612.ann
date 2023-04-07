@@ -1,0 +1,25 @@
+T1	LIVB 4 7	M.A
+T2	PROC 29 35	admise
+T3	Hospital 40 65	urgences ophtalmologiques
+T4	PROC 71 95	chimiothérapie adjuvante
+T5	CHEM 97 106	docetaxel
+T6	CHEM 108 121	dexaméthasone
+T7	CHEM 123 133	tamoxifène
+T8	MEAS 184 196	particuliers
+T9	DISO 208 223	ménométrorrhées
+T10	MEAS 239 249	rapidement
+T11	MEAS 262 273	foudroyante
+T12	PROC 298 330	traitement substitutif anténatal
+T13	DISO 410 425	symptomatologie
+T14	MEAS 447 456	favorable
+T15	TEMP 504 517	depuis 2 mois
+T16	MEAS 527 555	de plus en plus insoportable
+T17	PROC 578 602	radiothérapie palliative
+T18	DISO 683 723	œdème sous-cutané cerviquéo-sphinctérien
+T19	ANAT 689 723	sous-cutané cerviquéo-sphinctérien
+T20	TEMP 745 756	trois jours
+T21	PROC 781 814	curage parathyroïdien intrarectal
+T22	ANAT 788 814	parathyroïdien intrarectal
+T23	MEAS 830 847	fortement positif
+T24	PROC 860 892	bilan d'immunodépression nuptial
+T25	MEAS 904 912	négativé

@@ -1,0 +1,71 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	3 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 79	particuliers
+T5	PROC 84 96	consultation
+T6	Hospital 101 108	hôpital
+T7	Concept_Idea 123 135	état général
+T8	MEAS 136 142	altéré
+T9	DISO 152 158	fièvre
+T10	MEAS 161 165	38°C
+T11	DISO 173 193	douleurs abdominales
+T12	ANAT 182 193	abdominales
+T13	ANAT 207 219	cuisse droit
+T14	Localization 214 219	droit
+T15	DISO 233 247	déshydratation
+T16	Concept_Idea 292 305	état générale
+T17	PROC 333 348	examen clinique
+T18	DISO 358 371	particularité
+T19	PROC 375 386	échographie
+T20	LIVB 403 423	médecin-obstétricien
+T21	DISO 478 503	localisations secondaires
+T22	DISO 528 543	symptomatologie
+T23	PROC 547 566	électrocardiogramme
+T24	Hospital 579 587	urgences
+T25	DISO 614 630	syndrome méningé
+T26	DISO 641 665	troubles électrolytiques
+T27	PHEN 674 692	suites opératoires
+T28	PROC 698 732	radiothérapie externe concomitante
+T29	PROC 774 802	prise en charge chirurgicale
+T30	PROC 837 866	anticoagulation intraveineuse
+T31	PROC 872 933	complément thérapeutique médicochirurgical substitutif direct
+T32	DISO 1011 1029	épisode infectieux
+T33	LIVB 1039 1045	enfant
+T34	PROC 1050 1059	transfusé
+T35	CHEM 1072 1102	immunoglobulines antigrippales
+T36	DOSE 1158 1166	1 gramme
+T37	TEMP 1166 1176	/24 heures
+T38	PROC 1239 1244	repas
+T39	PROC 1333 1372	kinésithérapie respiratoire parentérale
+T40	MEAS 1406 1421	progressivement
+T41	PROC 1452 1480	chimiothérapie préopératoire
+T42	PROC 1511 1534	contrôles locorégionaux
+T43	PROC 1595 1619	laparotomie exploratrice
+T44	DISO 1646 1681	pneumocystite aigüe hydatique aiguë
+T45	PROC 1714 1758	ventilation mécanique extracorporelle totale
+T46	DISO 1795 1813	infections virales
+T47	PROC 1967 1984	bilan étiologique
+T48	Concept_Idea 2043 2077	réponse clinico-radiothérapeutique
+T49	Concept_Idea 2093 2116	résultats histologiques
+T50	Concept_Idea 2183 2209	possibilités diagnostiques
+T51	ANAT 2869 2875	pelvis
+T52	DEVI 2881 2885	scie
+T53	MEAS 2909 2913	deux
+T54	ANAT 2914 2931	branches charnues
+T55	DEVI 2970 2975	canif
+T56	LIVB 3040 3047	patient
+T57	ANAT 3092 3097	grêle
+T58	PROC 3339 3362	contrôle scanographique
+T59	PROC 3384 3411	prélèvement bactériologique
+T60	PHEN 3528 3557	cicatrisation cutanéomuqueuse
+T61	DISO 3578 3589	adénopathie
+T62	DISO 3593 3612	lésion ostéolytique
+T63	MEAS 3646 3653	simples
+T64	PROC 3659 3687	antibiothérapie probabiliste
+T65	LIVB 3722 3729	malades
+T66	PROC 3775 3817	transfusion sanguine intraveineuse directe
+T67	DISO 4200 4251	symptômes neuropsychiatriques néonatalino-trachéaux
+T68	DISO 4257 4281	syndrome polymalformatif
+T69	LIVB 4401 4424	chirurgien orthopédique
+T70	LIVB 4428 4452	psychologue rhumatologue
+T71	PROC 4670 4727	thyroïdectomie superficielle endoscopique conventionnelle

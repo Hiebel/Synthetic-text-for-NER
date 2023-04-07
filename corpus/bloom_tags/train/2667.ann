@@ -1,0 +1,46 @@
+T1	LIVB 3 10	patient
+T2	DISO 67 90	hypertension artérielle
+T3	Localization 80 90	artérielle
+T4	PROC 95 106	chirurgisée
+T5	DISO 122 145	néphropathie diabétique
+T7	ANAT 176 181	rénal
+T8	DISO 199 228	hyperphosphatémie congénitale
+T9	PROC 233 238	admis
+T10	LIVB 244 249	notre
+T11	Hospital 250 263	établissement
+T12	PROC 335 379	tomodensitométrie thoraco-abdomino-pelvienne
+T13	ANAT 353 379	thoraco-abdomino-pelvienne
+T14	DISO 443 465	hypotension artérielle
+T15	ANAT 455 465	artérielle
+T16	MEAS 480 491	progressive
+T17	DISO 507 528	détresse respiratoire
+T18	PHEN 516 528	respiratoire
+T19	MODE 565 586	voie intra-thoracique
+T20	PROC 599 629	traitement médical substitutif
+T21	CHEM 640 658	méthylprédnisolone
+T22	DOSE 659 665	1mg/kg
+T23	TEMP 665 667	/j
+T24	CHEM 670 683	dexaméthasone
+T25	CHEM 688 702	salazopyridine
+T26	DEVI 740 759	sonde nasogastrique
+T28	PROC 877 921	techniques d'immunodépression prophylactique
+T29	LIVB 945 953	patiente
+T30	DISO 1016 1031	symptomatologie
+T31	DISO 1064 1081	douleur pelvienne
+T32	ANAT 1072 1081	pelvienne
+T33	PROC 1084 1127	écho-endoscopie transoesoéo-gastroduodénale
+T34	ANAT 1100 1127	transoesoéo-gastroduodénale
+T35	DISO 1141 1166	lésion kystique purulente
+T36	MEAS 1186 1194	15/10 mm
+T37	ANAT 1214 1224	col utérin
+T38	MEAS 1236 1251	progressivement
+T39	Concept_Idea 1255 1261	taille
+T40	PROC 1284 1300	résection totale
+T41	PROC 1333 1356	injection intraveineuse
+T42	CHEM 1360 1380	produit de contraste
+T43	DISO 1409 1434	lipome séreux angioséreux
+T44	PROC 1535 1554	étude microscopique
+T45	DISO 2043 2078	affections néoplasiques secondaires
+T46	DISO 2093 2124	métastose hépato-carcinomateuse
+T47	ANAT 2103 2124	hépato-carcinomateuse
+T48	MEAS 2148 2162	plus fréquente

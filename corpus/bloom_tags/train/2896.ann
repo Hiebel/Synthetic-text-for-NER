@@ -1,0 +1,32 @@
+T1	LIVB 16 24	patiente
+T2	PHEN 41 50	grossesse
+T3	PROC 55 61	suivie
+T4	PROC 67 82	examen clinique
+T5	LIVB 86 94	patiente
+T6	DISO 110 118	polypnée
+T7	DISO 133 205	syndrome d'épanchement liquidien péripéritoineux basithoracique syndrome
+T9	PROC 210 229	bilan préopératoire
+T10	PROC 247 262	globules blancs
+T11	MEAS 265 284	12000 éléments /mm3
+T12	PROC 294 313	hémoglobine glyquée
+T13	MEAS 316 320	6,9%
+T14	DISO 326 342	hyperleucocytose
+T15	DISO 348 360	éosinophilie
+T16	ANAT 379 405	liquide céphalo-rachidiens
+T17	TEMP 415 424	une heure
+T18	DISO 463 490	épanchement intrapéritonéal
+T19	ANAT 475 490	intrapéritonéal
+T20	MEAS 506 521	progressivement
+T21	Concept_Idea 525 531	volume
+T22	MEAS 541 547	massif
+T23	ANAT 566 596	fosse para vertébro-triquetral
+T24	MEAS 608 624	de façon intense
+T25	Concept_Idea 628 639	profondeurs
+T26	Hospital 706 735	chirurgiens ophtalmoplasiques
+T27	ANAT 761 784	para vertébrotriquetral
+T28	MEAS 794 803	lentement
+T29	ANAT 833 854	espaces mésentériques
+T30	PROC 1040 1080	réflexes ostéo-tendineux intrarachidiens
+T31	ANAT 1049 1080	ostéo-tendineux intrarachidiens
+T32	LIVB 1174 1182	patients
+T33	PROC 1386 1409	traitement anesthésique

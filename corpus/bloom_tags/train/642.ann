@@ -1,0 +1,24 @@
+T1	LIVB 20 28	patiente
+T2	DISO 72 94	tuberculose pulmonaire
+T3	ANAT 84 94	pulmonaire
+T4	PROC 96 99	TPT
+T5	TEMP 101 107	récent
+T6	Concept_Idea 112 118	effort
+T7	PROC 122 137	examen clinique
+T8	MEAS 155 161	légère
+T9	DISO 162 191	distension abdomino-pelvienne
+T10	ANAT 173 191	abdomino-pelvienne
+T11	DISO 212 232	vomissements bilieux
+T12	PROC 237 253	bilan biologique
+T13	PHEN 267 282	fonction rénale
+T14	ANAT 276 282	rénale
+T15	MEAS 283 292	conservée
+T16	DISO 298 336	syndrome d'épanchement intrapéritonéal
+T17	ANAT 321 336	intrapéritonéal
+T18	PROC 343 362	numération sanguine
+T19	MEAS 369 376	normale
+T20	DISO 393 423	anémie hypochrome microcytaire
+T21	CHEM 425 437	ferritinique
+T22	DISO 448 470	anomalies métaboliques
+T23	DISO 483 521	carcinome épidermoïde du pseudarthénal
+T25	ANAT 508 521	pseudarthénal

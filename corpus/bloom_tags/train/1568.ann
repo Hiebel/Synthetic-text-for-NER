@@ -1,0 +1,32 @@
+T1	LIVB 28 35	patient
+T2	DISO 68 101	hypercholestérolémie hypertensive
+T3	CHEM 107 134	sulfate de dihydrorachidone
+T4	PROC 157 202	résection transpharyngo-laryngée endoscopique
+T5	PROC 210 236	examen anatomopathologique
+T6	DISO 252 278	carcinome pharyngo-laryngé
+T7	PROC 337 370	curage ganglionnaire métastatique
+T8	ANAT 344 370	ganglionnaire métastatique
+T9	PROC 383 408	pontage artério-bifémoral
+T10	ANAT 391 408	artério-bifémoral
+T11	LIVB 426 432	enfant
+T12	DISO 469 491	récidive locorégionale
+T13	LIVB 513 518	homme
+T14	TEMP 522 528	22 ans
+T15	PHEN 611 632	agressif psychomoteur
+T16	TEMP 649 655	16 ans
+T17	LIVB 670 672	on
+T18	DISO 688 704	détresse motrice
+T19	MEAS 719 730	progressive
+T20	MODE 822 832	voie orale
+T21	CHEM 889 907	méthyl-cyclosérine
+T22	DOSE 910 916	1mg/kg
+T23	CHEM 918 929	propranolol
+T24	DOSE 932 943	20 mg mg/kg
+T25	CHEM 946 960	acétaméthasone
+T26	DOSE 962 971	200 mg/m²
+T27	DISO 1071 1086	symptomatologie
+T28	PROC 1107 1135	prise en charge chirurgicale
+T29	MEAS 1378 1390	2000 grammes
+T30	PROC 1407 1427	biopsie exploratrice
+T31	MEAS 1444 1452	négative
+T32	PROC 1466 1493	traitement médical adjuvant

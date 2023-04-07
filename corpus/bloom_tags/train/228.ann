@@ -1,0 +1,39 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	MEAS 67 75	deuxième
+T4	Concept_Idea 93 115	niveau socioéconomique
+T5	MEAS 116 122	 élevé
+T6	PROC 126 141	examen clinique
+T7	DISO 158 177	lésions nécrotiques
+T8	ANAT 191 201	sein droit
+T9	Localization 196 201	droit
+T10	DISO 208 308	épanchement intraréctal péristaltique pariétal latéro-myometrorragien symétrique hypogynéo-sigmoïdal
+T12	PROC 313 336	TDM abdomino- pelvienne
+T13	ANAT 317 336	abdomino- pelvienne
+T14	PROC 357 381	anesthésie locorégionale
+T15	PROC 387 425	surrénalectomie transpharyngo-laryngée
+T16	PROC 427 431	TPTG
+T17	PROC 434 457	césarienne chirurgicale
+T18	MEAS 505 509	7/10
+T19	DISO 525 542	souffrance fœtale
+T20	ANAT 536 542	fœtale
+T21	PROC 556 566	opératoire
+T22	TEMP 578 602	une heure trente minutes
+T23	PHEN 615 624	grossesse
+T24	MEAS 635 642	123600g
+T25	DISO 670 685	aplasie utérine
+T26	ANAT 678 685	utérine
+T27	DISO 720 757	adénopathies axillaires hypo-intenses
+T28	ANAT 733 757	axillaires hypo-intenses
+T29	DISO 767 778	polypnéique
+T30	MEAS 793 799	rapide
+T31	MEAS 809 822	plus marquées
+T32	PROC 873 892	biopsie écho guidée
+T33	DISO 1049 1070	rupture cicatricielle
+T34	DISO 1094 1150	syndrome d'épanchement liquidien infanto-fœtal liquidien
+T35	ANAT 1117 1150	liquidien infanto-fœtal liquidien
+T36	PROC 1312 1352	scanner abdomino-pelvien scannographique
+T37	ANAT 1320 1352	abdomino-pelvien scannographique
+T39	MEAS 1447 1452	18 cm
+T40	Concept_Idea 1456 1465	grand axe
+T41	Concept_Idea 1490 1498	diamètre

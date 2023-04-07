@@ -1,0 +1,52 @@
+T1	LIVB 4 9	femme
+T2	MEAS 34 35	2
+T3	LIVB 36 43	enfants
+T4	PROC 220 237	enquête familiale
+T5	LIVB 558 568	nourrisson
+T6	LIVB 576 580	elle
+T7	LIVB 652 655	son
+T8	LIVB 656 662	épouse
+T9	Localization 806 827	cicatrisants externes
+T10	LIVB 1069 1077	familles
+T11	LIVB 1449 1454	homme
+T13	MEAS 1734 1742	10mmol/L
+T14	MEAS 1757 1769	850 000 UI/L
+T15	MEAS 1786 1793	0,16g/L
+T16	PROC 1957 1979	radiographie du thorax
+T17	ANAT 1973 1979	thorax
+T18	MEAS 1995 2002	normale
+T19	PROC 2007 2020	sérologie VIH
+T20	MEAS 2027 2035	positive
+T21	LIVB 2056 2063	malades
+T22	Concept_Idea 2065 2073	résultat
+T23	DISO 2079 2087	récidive
+T24	DISO 2091 2101	métastases
+T25	PROC 2108 2136	chimiothérapie néo adjuvante
+T26	DISO 2219 2243	symptomatologie clinique
+T27	DISO 2254 2281	neuroleptiques antinociques
+T28	DISO 2298 2326	complications hématologiques
+T29	PHEN 2353 2365	accouchement
+T30	PROC 2370 2375	suivi
+T31	CHEM 2381 2395	corticoïdalone
+T32	PROC 2409 2458	transfusion intraveineuse parentérale fractionnée
+T33	Hospital 2463 2484	urgences pédiatriques
+T34	DISO 2533 2552	contage tuberculeux
+T35	ANAT 2541 2552	tuberculeux
+T36	PROC 2564 2586	consultation prénatale
+T37	TEMP 2599 2610	12 semaines
+T38	PROC 2616 2638	traitement chirurgical
+T39	PROC 2643 2676	monitorage électroencéphalogramme
+T40	MEAS 2738 2748	146 µmol/L
+T41	LIVB 2894 2904	nouveau-né
+T42	PROC 2915 2920	opéré
+T43	TEMP 2926 2933	24 mois
+T44	PROC 2939 2949	administré
+T45	PROC 2972 3006	prise en charge pluridisciplinaire
+T46	LIVB 3026 3066	parasites obstétricalopes primigesteffes
+T47	DEVI 3114 3134	seringues cervicales
+T48	PROC 3140 3192	anesthésies crânio-pelviennes percutanéesautomatique
+T49	ANAT 3152 3169	crânio-pelviennes
+T50	PROC 3205 3239	kinésithérapeutiques substitutives
+T51	PROC 3318 3344	surveillance préopératoire
+T52	LIVB 3381 3387	enfant
+T53	PROC 3403 3449	antibiothérapies antibacillaires probabilistes

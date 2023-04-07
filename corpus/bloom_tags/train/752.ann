@@ -1,0 +1,24 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	3 ans
+T3	Concept_Idea 37 68	antécédents médico-chirurgicaux
+T4	MEAS 69 77	notables
+T5	PROC 79 84	admis
+T6	Hospital 89 97	urgences
+T7	DISO 116 130	épigastralgies
+T8	DISO 147 166	troubles du transit
+T9	PHEN 159 166	transit
+T10	PROC 170 185	examen clinique
+T11	DISO 202 232	carcinose paragangliée maligne
+T12	ANAT 212 224	paragangliée
+T13	ANAT 248 256	pancréas
+T14	ANAT 264 293	grosses tubules pancréatiques
+T15	PROC 297 327	échographie abdomino-pelvienne
+T16	ANAT 309 327	abdomino-pelvienne
+T17	DISO 345 387	masse tissulaire hypo échogéante hypodense
+T18	MEAS 397 402	12 cm
+T19	MEAS 407 412	10 cm
+T20	ANAT 429 449	fosse iliaque droite
+T21	Localization 443 449	droite
+T22	ANAT 473 493	artère rénale gauche
+T23	Localization 487 493	gauche
+T24	DISO 533 560	métastase nécrosée kystique

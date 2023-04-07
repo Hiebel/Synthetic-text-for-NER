@@ -1,0 +1,50 @@
+T1	PROC 2 17	examen clinique
+T2	DISO 34 40	tumeur
+T3	ANAT 57 77	fosse iliaque gauche
+T4	Localization 71 77	gauche
+T5	Concept_Idea 81 87	aspect
+T6	MEAS 88 98	blanchâtre
+T7	MEAS 100 112	bien limitée
+T8	DISO 120 131	douloureuse
+T9	PROC 136 159	TDM abdomino- pelvienne
+T10	ANAT 140 159	abdomino- pelvienne
+T11	DISO 181 221	adénocarcinome du méso-vésicule biliaire
+T12	ANAT 199 221	méso-vésicule biliaire
+T13	ANAT 236 266	parenchyme épithélial grêlique
+T14	LIVB 268 272	Nous
+T15	PROC 291 316	chimiothérapie palliative
+T16	CHEM 327 337	paclitaxel
+T17	DOSE 339 347	175mg/m²
+T18	TEMP 347 349	/j
+T19	CHEM 352 364	capécitabine
+T20	DOSE 366 374	20 mg/m²
+T21	TEMP 374 376	/j
+T22	CHEM 379 392	dexaméthasone
+T23	DOSE 394 402	25 mg/kg
+T24	TEMP 402 407	/jour
+T25	CHEM 410 422	curiethidine
+T26	DOSE 424 432	0,5 g/kg
+T27	TEMP 432 434	/j
+T28	CHEM 437 444	taxanes
+T29	CHEM 446 450	CDDP
+T30	PROC 466 489	radiothérapie adjuvante
+T31	MODE 494 504	voie orale
+T32	MEAS 564 572	complète
+T33	DISO 579 585	tumeur
+T34	DISO 607 622	signes tumoraux
+T35	TEMP 642 649	24 mois
+T36	PROC 658 683	intervention chirurgicale
+T37	PHEN 688 710	réponses métastatiques
+T38	MEAS 719 738	très satisfaisantes
+T39	DISO 744 754	métastases
+T40	DISO 765 790	localisations secondaires
+T41	DISO 819 838	nécrose péritonéale
+T42	DISO 857 917	thromboses veineuses jugulo-carotidiennes infarcto-latérales
+T43	ANAT 868 917	veineuses jugulo-carotidiennes infarcto-latérales
+T44	MEAS 936 948	négligeables
+T45	PROC 954 972	traitement curatif
+T46	CHEM 1003 1011	propofol
+T47	CHEM 1013 1023	furosémide
+T48	CHEM 1025 1039	hydrocortisone
+T49	CHEM 1041 1059	méthylprednisolone
+T50	CHEM 1061 1079	hydroxychloroquine

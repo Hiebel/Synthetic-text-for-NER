@@ -1,0 +1,79 @@
+T1	LIVB 3 10	patient
+T2	Concept_Idea 44 47	âge
+T3	TEMP 51 56	3 ans
+T4	DISO 73 87	déficit visuel
+T5	DISO 107 133	anomalies neurorétiniennes
+T6	PROC 140 146	traité
+T7	CHEM 155 168	antiémétiques
+T8	CHEM 170 183	Sulfasalazine
+T9	DOSE 185 188	1kg
+T10	TEMP 188 193	/jour
+T11	MODE 197 223	pousse-seringue électrique
+T12	PROC 229 248	rééducation motrice
+T13	DISO 265 280	symptomatologie
+T14	TEMP 302 308	4 mois
+T15	DISO 340 374	cataracte congénitale hypertensive
+T16	DISO 406 429	syndrome choriorétinien
+T17	PROC 453 473	traitement classique
+T18	CHEM 486 500	hydrocortisone
+T19	CHEM 503 516	phénobarbital
+T20	CHEM 518 531	dexaméthasone
+T21	DISO 550 572	hypotension artérielle
+T22	ANAT 562 572	artérielle
+T23	DISO 577 596	retard psychomoteur
+T24	DISO 617 638	hyperhémie rétinienne
+T25	ANAT 628 638	rétinienne
+T26	LIVB 659 665	enfant
+T27	PROC 678 702	diagnostique étiologique
+T28	DISO 730 750	chirurgie rétinienne
+T29	DISO 760 780	signe neuro-rétinien
+T30	PROC 834 868	ponction intracrânienne péridurale
+T31	ANAT 843 868	intracrânienne péridurale
+T32	PROC 898 931	prélèvement biopsique écho-guidée
+T33	PROC 960 977	scanner orbitaire
+T34	ANAT 968 977	orbitaire
+T35	PROC 1069 1097	prise en charge chirurgicale
+T36	DEVI 1165 1179	macroscopiques
+T37	DISO 1184 1203	craniocondensations
+T38	DISO 1252 1274	fibrillation cardiaque
+T39	ANAT 1265 1274	cardiaque
+T40	MEAS 1366 1376	100 000 ml
+T41	MEAS 1395 1410	0,5 millilitres
+T42	Localization 1452 1457	droit
+T43	PROC 1477 1513	examen ophtalmologique préopératoire
+T44	DISO 1525 1559	œdème maculo-pustuleux prurigineux
+T45	ANAT 1578 1608	paires oculomoteurs inférieurs
+T46	DISO 1629 1650	lésions purpigmentées
+T47	ANAT 1679 1701	corps caverneux utérin
+T48	ANAT 1734 1774	parois latéro-myometraques cerviculaires
+T49	ANAT 1838 1864	fosse iliaque homolatérale
+T50	Localization 1852 1864	homolatérale
+T51	MEAS 1929 1946	brady-néphrotique
+T52	DISO 1974 1984	malignaide
+T53	PROC 1989 2022	échocardiographie transthoracique
+T54	ANAT 2007 2022	transthoracique
+T55	ANAT 2056 2076	ventriculaire gauche
+T56	Localization 2070 2076	gauche
+T57	MEAS 2087 2090	70%
+T58	MEAS 2115 2122	46x41mm
+T59	MEAS 2126 2133	48x40mm
+T60	MEAS 2183 2195	2900 grammes
+T61	MEAS 2199 2211	3000 grammes
+T62	PROC 2225 2253	echodoppler trans-thoracique
+T63	ANAT 2237 2253	trans-thoracique
+T64	DISO 2278 2306	raccourcissement placentaire
+T65	ANAT 2295 2306	placentaire
+T66	DISO 2313 2338	souffrance mitro-laryngée
+T67	ANAT 2324 2338	mitro-laryngée
+T68	DISO 2396 2439	tuberculose congénitale des champs crâniens
+T69	ANAT 2424 2439	champs crâniens
+T70	Concept_Idea 2451 2458	épreuve
+T71	LIVB 2477 2485	patients
+T72	PROC 2506 2531	traitement antibacillaire
+T73	CHEM 2533 2544	Ceftriaxone
+T74	CHEM 2546 2558	Pyrazinamide
+T75	CHEM 2560 2571	Ethionamide
+T76	MODE 2577 2595	voie intraveineuse
+T77	DOSE 2609 2614	400mg
+T78	TEMP 2614 2616	/j
+T79	CHEM 2620 2633	Rifaméthasone

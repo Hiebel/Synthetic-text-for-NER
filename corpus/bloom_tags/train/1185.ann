@@ -1,0 +1,34 @@
+T1	LIVB 28 33	femme
+T2	DISO 117 130	consanguinité
+T3	DISO 136 163	hyperparathyroïdie primaire
+T4	PROC 169 184	examen clinique
+T5	LIVB 186 190	nous
+T6	LIVB 208 216	patiente
+T7	CHEM 229 260	amoxicilline-acide clavulanique
+T8	DOSE 264 266	2g
+T9	TEMP 266 274	/semaine
+T10	DISO 324 337	inflammatoire
+T11	TEMP 347 365	depuis trois jours
+T13	ANAT 391 404	épigastriques
+T14	MEAS 435 450	progressivement
+T15	Concept_Idea 454 460	volume
+T16	DISO 474 504	sensibilité abdominale ulcérée
+T17	ANAT 486 504	abdominale ulcérée
+T18	DISO 527 550	symptômes neurologiques
+T19	DISO 566 581	déglutissements
+T20	PHEN 595 617	mouvements intestinaux
+T21	PROC 631 657	examen anatomopathologique
+T22	DISO 662 669	lésions
+T23	DISO 698 711	particularité
+T24	DISO 765 787	anomalie morphologique
+T25	DISO 811 842	granulome hémorragique purulent
+T26	ANAT 866 884	paires épiploïques
+T27	ANAT 905 925	structures grêliques
+T28	DISO 954 962	tumorale
+T29	PROC 965 989	échographie obstétricale
+T30	DISO 1044 1089	maladie thromboemboliquante veineuse profonde
+T31	DISO 1114 1165	adénocarcinome pléomorphe hypertrophiatricellulaire
+T32	LIVB 1182 1193	jeune femme
+T33	MODE 1232 1242	voie basse
+T34	MEAS 1280 1285	10/10
+T35	MEAS 1322 1336	12 centimètres

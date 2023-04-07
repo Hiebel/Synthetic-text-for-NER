@@ -1,0 +1,74 @@
+T1	LIVB 4 12	patiente
+T2	DISO 44 75	douleurs abdominales chroniques
+T3	ANAT 53 64	abdominales
+T4	TEMP 85 97	depuis 6mois
+T5	Concept_Idea 133 145	état général
+T6	DISO 147 161	amaigrissement
+T7	Concept_Idea 228 240	état général
+T8	TEMP 243 251	24heures
+T9	DISO 279 301	pâleur cutanéomuqueuse
+T10	PROC 422 437	examen clinique
+T11	DISO 454 463	fébricule
+T12	DISO 467 508	bronchopneumopathie chronique obstructive
+T13	DISO 536 560	symptomatologie médicale
+T14	PROC 603 615	consultation
+T15	DISO 627 644	dermatomyopathies
+T16	DISO 675 744	carcinomes épithelio-giganto-cellulaires érythémato-tracheocellulaire
+T17	DISO 875 892	dermatomyopathies
+T18	TEMP 908 927	six mois auparavant
+T19	MEAS 950 975	de plus en plus atypiques
+T20	LIVB 986 988	on
+T21	DISO 1017 1035	adéno-anesthésique
+T22	DISO 1053 1065	complication
+T24	DISO 1111 1129	lésion psoriasique
+T25	PROC 1169 1239	laparotomie exploratrice multilocorégionale transoesophagienne urgente
+T26	PROC 1240 1244	TOGD
+T27	PROC 1264 1307	exploration cytobactériologique segmentaire
+T28	DISO 1346 1365	processus polylobée
+T29	ANAT 1385 1409	branche fistulotrachéale
+T30	MEAS 1418 1422	5 cm
+T31	MEAS 1425 1429	2 mm
+T32	DISO 1472 1494	nodules inflammatoires
+T33	MEAS 1518 1526	20/10mm²
+T34	DISO 1542 1584	remaniements kératinisant mucosinusoïdiens
+T36	DISO 1693 1731	atypies intestinales rénitro-nerveuses
+T37	ANAT 1701 1731	intestinales rénitro-nerveuses
+T38	DISO 1762 1802	thrombophlébite tuberculeuse infectieuse
+T39	MEAS 1833 1846	150000 GBq HL
+T40	Concept_Idea 1856 1875	classification IFAC
+T41	MEAS 1881 1898	730 UI/kg -1 Mm 2
+T42	DISO 1931 1945	tumeur maligne
+T43	MEAS 1954 1960	T4N0Mx
+T44	MEAS 1968 1995	entre 4 et 5 degrés Celsius
+T45	PROC 2000 2021	contrôle radiologique
+T46	TEMP 2036 2039	J26
+T47	TEMP 2043 2052	28 heures
+T48	Localization 2078 2097	extrémités externes
+T49	DEVI 2136 2148	vis canulées
+T50	ANAT 2251 2313	membranes alvéoluminaires maxillaires mésentériques proximales
+T51	MEAS 2339 2367	1150×1280 millimètres carrés
+T55	Localization 2613 2656	gauches périmésiculaires postérieur externe
+T56	PROC 2696 2712	bilan biologique
+T57	DISO 2724 2732	anomalie
+T58	PROC 2746 2773	numération formule sanguine
+T59	MEAS 2784 2792	positive
+T60	LIVB 2801 2817	myélome multiple
+T61	PROC 2830 2849	hémoglobine glyquée
+T62	MEAS 2864 2884	inférieure à 0,3g/dL
+T63	DISO 2922 2934	lymphocytose
+T64	DISO 2941 2952	métagénémie
+T65	PROC 2956 2960	ECBU
+T66	PHEN 2973 2992	fonction systolique
+T67	MEAS 2993 3001	correcte
+T68	LIVB 3016 3024	patients
+T69	PROC 3049 3072	injection intraveineuse
+T70	Hospital 3089 3124	structures hospitalo-universitaires
+T71	Hospital 3133 3185	Centre Hospitalier Universitaire Ibn Rochd de Meknès
+T72	PROC 3238 3278	antibioprophylaxie antibiotique générale
+T73	PROC 3309 3324	anticoagulation
+T74	PROC 3377 3406	prise en charge thérapeutique
+T75	MEAS 3424 3439	bien équilibrée
+T76	Concept_Idea 3447 3467	plan bactériologique
+T77	Concept_Idea 3490 3500	coût total
+T79	ANAT 3902 3912	artérielle
+T80	MEAS 3948 3962	60 millilitres

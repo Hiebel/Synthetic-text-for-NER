@@ -1,0 +1,24 @@
+T1	LIVB 15 22	patient
+T2	PROC 34 39	suivi
+T3	DISO 48 67	tabagisme chronique
+T4	MEAS 137 149	particuliers
+T5	PROC 155 164	admission
+T6	Hospital 168 175	urgence
+T7	Concept_Idea 179 190	poids total
+T8	MEAS 200 205	70 kg
+T9	Concept_Idea 215 221	taille
+T10	MEAS 225 231	170 cm
+T11	PROC 235 250	examen clinique
+T12	DISO 282 302	masse du flanc droit
+T13	ANAT 291 302	flanc droit
+T14	Localization 297 302	droit
+T15	MEAS 311 314	2cm
+T16	Concept_Idea 317 323	aspect
+T17	MEAS 324 333	jauneâtre
+T18	MEAS 337 343	mobile
+T19	DISO 406 427	signes inflammatoires
+T20	PHEN 436 463	réflexes ostéo-cicatriciels
+T21	ANAT 445 463	ostéo-cicatriciels
+T22	DISO 477 517	lésion ulcéro-bourgeonnante prurigineuse
+T23	ANAT 534 553	fosse nasale droite
+T24	Localization 547 553	droite

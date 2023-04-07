@@ -1,0 +1,38 @@
+T1	LIVB 9 12	M.C
+T2	DISO 50 84	pancréatite néphropathique stade A
+T3	PROC 93 96	ACR
+T4	PROC 101 105	reçu
+T5	LIVB 111 116	notre
+T6	Hospital 117 122	unité
+T7	DISO 136 158	détresse cholestatique
+T8	CHEM 145 158	cholestatique
+T9	DISO 186 203	douleur pelvienne
+T10	ANAT 194 203	pelvienne
+T11	MEAS 226 241	progressivement
+T12	Concept_Idea 245 251	volume
+T13	DISO 294 321	kyst hydatique pancréatique
+T14	LIVB 343 351	patients
+T15	DISO 443 465	syndrome inflammatoire
+T16	DISO 472 484	thrombopénie
+T17	PROC 507 541	angioscanner thoraco-anastomotique
+T18	ANAT 520 541	thoraco-anastomotique
+T19	MEAS 549 557	normatif
+T20	PROC 564 585	ligature angio-guidée
+T21	DISO 649 681	myométrial hypertrophie kystique
+T22	PROC 758 793	pronostic préopératoire chirurgical
+T23	PROC 808 838	prise médicamenteuse adjuvante
+T24	DISO 885 925	complication thromboembolique ischémique
+T25	DISO 929 941	œsophagienne
+T26	LIVB 1043 1051	patiente
+T27	PROC 1133 1153	traitement palliatif
+T28	DOSE 1159 1167	2RHZ/4RH
+T29	LIVB 1194 1198	elle
+T30	PROC 1217 1248	ponction stérilettique vaginale
+T31	ANAT 1226 1248	stérilettique vaginale
+T32	PROC 1517 1553	curage ganglionnaire cervico-vaginal
+T33	ANAT 1524 1553	ganglionnaire cervico-vaginal
+T34	DISO 1679 1701	symptômes fonctionnels
+T35	DISO 1825 1857	métastase carcinomateuse maligne
+T36	PROC 2008 2063	hormonothérapie progestative intraveineuse substitutive
+T37	PHEN 2100 2115	cycle menstruel
+T38	TEMP 2133 2140	24 mois

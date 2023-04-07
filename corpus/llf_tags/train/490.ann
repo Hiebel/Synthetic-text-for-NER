@@ -1,0 +1,79 @@
+T1	PROC 2 26	exploration chirurgicale
+T2	DISO 49 81	masse du quadrant supero-externe
+T3	ANAT 58 81	quadrant supero-externe
+T4	Concept_Idea 86 93	couleur
+T5	MEAS 94 107	jaune orangée
+T6	MEAS 117 121	6 cm
+T7	Concept_Idea 125 133	diamètre
+T8	PROC 139 163	laparotomie exploratrice
+T9	PROC 184 209	étude anatomopathologique
+T10	DISO 228 271	processus myxoïde carcinomateux métastasant
+T11	ANAT 282 293	urothéliale
+T12	DISO 308 339	nécrotides érythémato-trachéaux
+T13	DISO 345 366	signes inflammatoires
+T14	DISO 370 380	infectieux
+T15	PROC 394 413	bilan préopératoire
+T16	PROC 415 425	hémogramme
+T17	PROC 427 450	glycémie postopératoire
+T18	PROC 464 496	scanner thoraco-abdomino-pelvien
+T19	ANAT 472 496	thoraco-abdomino-pelvien
+T20	LIVB 528 536	patiente
+T21	CHEM 551 561	céfotaxime
+T22	DISO 578 587	dysphagie
+T23	MEAS 623 630	simples
+T24	PROC 636 675	tomodensitométrie par cohérence optique
+T25	PROC 677 681	TOGD
+T26	TEMP 694 704	24/08/2017
+T27	Localization 753 774	1/3 postéro supérieur
+T28	ANAT 800 1293	région temporale superficielle faisant face aux aires ganglionnaires cervico-vaginales qui ne se rehaussait pas après extraction; il mesurait 16 mm de diamètre Densité granulaire = 14mmol/L ; Les autres membranes cutanées sont correctement représentées avec tout juste quelques zones nécrosées dont certaines n'ont pas été visualisées car leur consistance est macroscopiquement saine. On peut noter que toutes les récepteurs hormonaux ont été revu ce qui laisse suspecter chez ces spermitaines
+T29	ANAT 848 886	aires ganglionnaires cervico-vaginales
+T30	PROC 918 928	extraction
+T31	MEAS 942 947	16 mm
+T32	Concept_Idea 951 959	diamètre
+T33	MEAS 981 989	14mmol/L
+T34	ANAT 1003 1021	membranes cutanées
+T35	MEAS 1027 1052	correctement représentées
+T36	PROC 1123 1134	visualisées
+T37	Concept_Idea 1144 1155	consistance
+T38	MEAS 1160 1183	macroscopiquement saine
+T39	PHEN 1214 1234	récepteurs hormonaux
+T40	PROC 1243 1247	revu
+T42	DISO 1396 1428	niveaux hydroaériques basophiles
+T43	DISO 1475 1504	polynucléaires oestrogéniques
+T44	LIVB 1549 1551	sa
+T45	LIVB 1552 1557	femme
+T46	LIVB 1561 1564	son
+T47	LIVB 1565 1575	nouveau-né
+T48	PROC 2817 2831	investigations
+T49	LIVB 2836 2842	sujets
+T50	LIVB 2857 2864	malades
+T51	Concept_Idea 2891 2896	étude
+T52	MEAS 2913 2917	bien
+T53	Concept_Idea 2935 2959	récepteurs histologiques
+T54	PROC 2965 2986	chromogastroduodénale
+T55	PROC 3000 3019	examens biologiques
+T56	MEAS 3039 3048	favorable
+T57	CHEM 3054 3064	corticoïde
+T58	DOSE 3066 3073	3 mg/kg
+T59	TEMP 3073 3075	/j
+T60	TEMP 3100 3106	6 mois
+T61	DISO 3141 3155	signe clinique
+T62	DISO 3171 3186	pneumopéritoine
+T63	DISO 3196 3225	symptomatologie psychiatrique
+T64	PROC 3230 3251	bilan bactériologique
+T65	CHEM 3284 3308	Cacambergillus fumigatus
+T66	LIVB 3374 3382	patients
+T67	PROC 3400 3414	thyroïdectomie
+T68	Concept_Idea 3441 3477	caractéristiques neuropsychiatriques
+T69	DISO 3495 3504	dysphagie
+T70	DISO 3511 3528	syndrome délirant
+T71	MEAS 3549 3556	négatif
+T72	LIVB 3644 3667	professionnels de santé
+T73	PHEN 3672 3681	grossesse
+T74	TEMP 3694 3705	24 semaines
+T75	DISO 3739 3758	contage tuberculeux
+T76	PROC 3804 3823	traitement adjuvant
+T77	DISO 3947 3959	vomissements
+T78	Concept_Idea 4019 4029	vie fœtale
+T79	Concept_Idea 4049 4077	perceptions professionnelles
+T80	Concept_Idea 4305 4338	résultats objectivés cliniquement

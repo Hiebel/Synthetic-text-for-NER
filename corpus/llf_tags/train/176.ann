@@ -1,0 +1,106 @@
+T1	LIVB 3 8	femme
+T2	PROC 25 37	hospitalisée
+T3	DISO 47 64	dyspnée sifflante
+T4	TEMP 74 92	depuis trois jours
+T5	PROC 96 111	examen clinique
+T6	LIVB 124 131	patient
+T7	MEAS 135 142	mauvais
+T8	Concept_Idea 143 155	état général
+T9	DISO 165 185	signes neurologiques
+T10	ANAT 199 225	membre supérieur supérieur
+T11	Localization 216 225	supérieur
+T12	DISO 241 244	AVC
+T13	DISO 254 271	syndrome délirant
+T14	DISO 303 309	fièvre
+T15	MEAS 312 318	40 ° C
+T16	PROC 337 351	interrogatoire
+T17	LIVB 356 363	patient
+T18	DISO 404 433	accident vasculaire cérébrale
+T19	ANAT 424 433	cérébrale
+T20	DISO 510 538	symptomatologie pathologique
+T21	PROC 543 559	bilan biologique
+T22	CHEM 607 634	antiagrégants plaquettaires
+T23	CHEM 636 667	amoxicilline acide clavulanique
+T24	CHEM 670 688	acide zolédronique
+T25	CHEM 691 701	céfotaxime
+T26	PROC 707 736	radiographie pré-anesthésique
+T27	Hospital 747 755	urgences
+T28	MEAS 780 787	normale
+T29	PROC 793 824	scintigraphies scannographiques
+T30	PROC 840 858	traitement médical
+T31	DISO 883 916	hyperproteinorachie hypokinétique
+T32	PROC 930 941	échographie
+T33	DISO 973 1015	masse tissulaire érythroblastique oblongue
+T34	MEAS 1024 1031	5/10 cm
+T35	ANAT 1048 1058	rein droit
+T36	Localization 1053 1058	droit
+T37	MEAS 1068 1079	6 /8 x 6 cm
+T38	ANAT 1106 1121	voies biliaires
+T39	DISO 1146 1167	lésion intrahépatique
+T40	PROC 1172 1199	numération formule sanguine
+T41	MEAS 1206 1213	normale
+T42	Concept_Idea 1234 1259	limites intrarachidiennes
+T43	LIVB 1273 1283	nouveau-né
+T44	TEMP 1291 1298	16 mois
+T45	PHEN 1310 1335	grossesse monofoetalienne
+T46	LIVB 1418 1429	jeune fille
+T47	MEAS 1575 1582	simples
+T49	CHEM 1630 1641	paracétamol
+T50	PROC 1655 1677	kinésithérapie motrice
+T51	PROC 1693 1727	thyroïdectomie totale endovaginale
+T52	TEMP 1757 1772	après 48 heures
+T53	TEMP 1776 1785	1 semaine
+T54	PROC 1791 1833	explorations fonctionnelles peropératoires
+T55	DISO 1875 1904	maladie de Von Recklinghausen
+T56	DISO 1930 1983	hypertriglycéridémie chronique idiopathique primitive
+T57	DISO 2001 2056	tumeur polymyomateuse hétéroatrophique hyperplasmodique
+T58	ANAT 2083 2142	tête fémorale postéro-latéro-mandibulaire inférieure gauche
+T59	Localization 2136 2142	gauche
+T60	ANAT 2162 2201	membres supra mandibulaires postérieurs
+T61	Localization 2190 2201	postérieurs
+T62	ANAT 2247 2299	branches crico-trachéales cervicale latérale gauches
+T63	Localization 2292 2299	gauches
+T64	MEAS 2321 2326	12 mm
+T65	DEVI 2350 2362	vis canulées
+T66	PROC 2414 2475	résection segmentaire élargie large lobulée cutanéoplastiquée
+T67	ANAT 2497 2538	tissus conjonctifs superficiels fundiques
+T68	ANAT 2680 2713	noyaux gastrocnémiens antalgiques
+T69	ANAT 2746 2806	annexe thoracique basocellulaire inférieur antérieure gauche
+T70	Localization 2789 2806	antérieure gauche
+T71	ANAT 2820 2951	espace interventriculaire liquidien sus maxillaire inferieur moyen triangle postérieur jugulo-carotidien rétromastoïdien transverse
+T72	Concept_Idea 2955 2974	aspect histologique
+T73	LIVB 2988 2995	patient
+T75	ANAT 3043 3092	muscle psoasopharyngé supérieur supérieur avexilé
+T77	ANAT 3108 3152	zones charnues corticales fronto-parietal T3
+T78	ANAT 3172 3273	paupières sous trochanteres iléo-caverneuses rétropéritonéales controlatérales supérieures extensives
+T79	Localization 3263 3273	extensives
+T80	PROC 3326 3346	suivi postopératoire
+T81	MEAS 3360 3378	strictement normal
+T82	LIVB 3387 3394	patient
+T83	LIVB 3444 3446	sa
+T84	PROC 3447 3459	consultation
+T85	PROC 3470 3477	adressé
+T86	Hospital 3489 3507	centre hospitalier
+T87	PROC 3513 3541	prise en charge chirurgicale
+T88	PROC 3545 3571	examen anatomopathologique
+T89	DISO 3609 3628	syndrome infectieux
+T90	DISO 3639 3666	récidive neuropsychiatrique
+T91	DISO 3670 3695	métapneumopathie anémique
+T92	PROC 3699 3719	étude cytogénétiques
+T93	PROC 3721 3725	ECBU
+T94	DISO 3765 3811	processus carcinomateux tissulaire néoplasique
+T95	MEAS 3821 3826	18 cm
+T96	MEAS 3829 3833	14mm
+T97	MEAS 3841 3850	50 gramme
+T98	MEAS 3859 3883	2 fois la taille normale
+T99	ANAT 3908 3923	corps vertébral
+T100	Concept_Idea 3991 4008	extension médiale
+T101	MEAS 4025 4031	T4N5M0
+T102	PHEN 4047 4065	suites opératoires
+T103	MEAS 4078 4085	simples
+T104	PROC 4090 4112	contrôle préopératoire
+T105	MEAS 4141 4168	significativement favorable
+T106	DISO 4237 4259	symptômes psychotiques
+T107	PROC 4410 4447	correction orthopédique thérapeutique
+T108	Concept_Idea 4473 4494	refuges diagnostiques
+T109	LIVB 4527 4568	confrères ophtalmologues interventionnels

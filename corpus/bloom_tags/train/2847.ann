@@ -1,0 +1,53 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 69	admise
+T3	LIVB 75 80	notre
+T4	Hospital 81 90	formation
+T5	DISO 125 146	pneumothorax d’effort
+T6	PROC 163 185	traitement chirurgical
+T7	PROC 191 215	chimiothérapie adjuvante
+T8	CHEM 218 237	Cyclo-dexaméthasone
+T9	CHEM 240 250	métoprolol
+T10	CHEM 253 263	cisplatine
+T11	PROC 268 282	interrogatoire
+T12	DISO 356 399	syndrome d’épanchement liquidien péritonéal
+T13	ANAT 379 399	liquidien péritonéal
+T14	LIVB 419 427	patiente
+T15	LIVB 437 439	on
+T16	DISO 471 492	dépression thoracique
+T17	ANAT 482 492	thoracique
+T18	DISO 499 533	traumatisme pulmonaire infarctoïde
+T19	ANAT 511 533	pulmonaire infarctoïde
+T20	PROC 598 619	bilan immunodépressif
+T21	MEAS 620 627	négatif
+T22	DISO 645 683	polyradiculonévrite systémique maligne
+T23	DISO 712 728	signes cliniques
+T24	PROC 755 795	scanner abdomino-pelvien scannographique
+T25	ANAT 763 795	abdomino-pelvien scannographique
+T26	DISO 824 833	anomalies
+T27	DISO 858 886	sténose duodéno-pancréatique
+T28	ANAT 866 886	duodéno-pancréatique
+T29	DISO 916 934	prise de contraste
+T30	PROC 974 1026	échocardiographie transthoracique transoesophagienne
+T31	ANAT 992 1026	transthoracique transoesophagienne
+T32	DISO 1040 1118	hypo-correction hypertrophie ventriculaire supra-diaphragmatique hypo échogène
+T34	Localization 1083 1088	supra
+T35	Concept_Idea 1121 1127	aspect
+T36	MEAS 1128 1143	en verre dépoli
+T37	ANAT 1165 1199	vésicules valgues diaphragmatiques
+T38	DEVI 1216 1225	injection
+T39	CHEM 1229 1249	produit de contraste
+T40	DISO 1309 1362	localisations secondaires thromboemboliques tumorales
+T41	ANAT 1375 1383	grêlique
+T42	DISO 1385 1426	paragangliome épithélio-gigantocellulaire
+T43	DISO 2065 2096	syndrome d'épanchement biliaire
+T44	ANAT 2088 2096	biliaire
+T45	LIVB 2101 2108	patient
+T46	PROC 2127 2150	radiothérapie adjuvante
+T47	Concept_Idea 2156 2160	dose
+T48	DOSE 2164 2168	70Gy
+T49	ANAT 2176 2197	cœur péripancréatique
+T50	ANAT 2203 2215	ovaire droit
+T51	Localization 2210 2215	droit
+T52	TEMP 2228 2246	pendant 3 semaines
+T53	CHEM 2267 2279	carboplatine
+T54	CHEM 2292 2302	cisplatine

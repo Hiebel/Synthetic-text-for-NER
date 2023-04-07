@@ -1,0 +1,32 @@
+T1	LIVB 29 37	patiente
+T2	DISO 68 95	hernie pelvienne ischémique
+T3	ANAT 75 95	pelvienne ischémique
+T4	DISO 112 148	adénocarcinome herniaire lithiasique
+T5	DISO 184 205	détresse respiratoire
+T6	PHEN 193 205	respiratoire
+T7	DISO 257 276	traumatisme crânien
+T8	DISO 287 310	pathologie neurologique
+T9	DISO 328 354	troubles sensitivomotrices
+T10	DISO 360 391	atteinte paravertébro-cérébrale
+T11	PROC 419 436	examens cliniques
+T12	DISO 452 507	défense rétrovésiculaire rétropéritonéale hypertrophiée
+T14	ANAT 524 551	veine rénale interne droite
+T15	Localization 545 551	droite
+T16	DISO 564 625	empyème cervico-duodénal latéro-utérin hypo échogène infiltré
+T18	MEAS 641 652	massivement
+T19	Concept_Idea 656 662	volume
+T20	DEVI 664 672	mesurant
+T21	MEAS 673 678	30 cm
+T22	Concept_Idea 682 691	grand axe
+T23	ANAT 716 749	muscles para vertébraux ovalaires
+T24	DISO 770 791	niveaux hydro-aérique
+T25	DISO 801 812	myxomateuse
+T26	DISO 861 906	masse polylobée érogène arrondie hémorragique
+T27	ANAT 935 962	voies biliaires principales
+T28	DISO 970 984	masse tumorale
+T29	Concept_Idea 996 1004	contours
+T30	MEAS 1005 1013	régulier
+T31	Concept_Idea 1029 1040	consistance
+T32	MEAS 1047 1052	molle
+T33	PROC 1058 1083	dosage de la prothrombine
+T34	MEAS 1098 1101	97%

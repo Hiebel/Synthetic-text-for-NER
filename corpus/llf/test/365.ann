@@ -1,0 +1,12 @@
+T1	LIVB 4 11	patient
+T2	PROC 18 27	transféré
+T3	LIVB 33 38	notre
+T4	Hospital 39 46	service
+T5	PROC 52 67	prise
+T6	LIVB 71 74	son
+T7	DISO 75 81	asthme
+T8	CHEM 91 102	antalgiques
+T9	CHEM 112 124	amoxicilline
+T10	CHEM 126 139	acide
+T11	CHEM 143 157	ciprofloxacine
+T12	Concept_Idea 179 187	clinique

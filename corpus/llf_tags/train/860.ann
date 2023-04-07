@@ -1,0 +1,92 @@
+T1	MEAS 6 13	négatif
+T2	PROC 18 50	fibroscopie oeso-gastroduodénale
+T3	ANAT 30 50	oeso-gastroduodénale
+T4	DISO 66 98	processus tissulaire du pancréas
+T5	ANAT 90 98	pancréas
+T6	Concept_Idea 103 110	couleur
+T7	MEAS 111 121	blanchâtre
+T8	DISO 127 140	calcification
+T9	DISO 144 156	adénomégalie
+T10	PROC 169 201	scanner thoraco-abdomino-pelvien
+T11	ANAT 177 201	thoraco-abdomino-pelvien
+T12	LIVB 280 287	famille
+T13	LIVB 295 302	parents
+T14	DISO 389 398	dysphagie
+T15	DISO 414 434	vomissements bilieux
+T16	DISO 444 450	fièvre
+T17	TEMP 460 474	depuis 3 jours
+T18	PROC 571 586	hospitalisation
+T19	Hospital 590 605	bloc opératoire
+T20	PROC 611 643	antibioprophylaxie antitétanique
+T21	CHEM 645 657	amoxicilline
+T22	CHEM 660 670	aminosides
+T23	PROC 675 701	examen anatomopathologique
+T24	DISO 728 752	syndrome polymalformatif
+T25	DISO 761 788	polynucléaires éosinophiles
+T26	ANAT 816 839	parenchyme crico-rectal
+T27	ANAT 860 894	structures gastrocnémato-digestive
+T28	ANAT 924 952	vésicule biliaire principale
+T29	DISO 988 1038	lymphocytes intracytoplasmocytaire hétérotrificans
+T30	MEAS 1063 1071	14/10 cm
+T31	MEAS 1075 1083	18/10 cm
+T32	ANAT 1150 1166	cloisons rénales
+T33	PROC 1178 1185	section
+T34	PROC 1191 1225	radiothérapie externe concomitante
+T35	DISO 1260 1280	symptômes infectieux
+T36	PROC 1315 1339	préparation chirurgicale
+T37	PROC 1344 1366	contrôle échographique
+T38	PROC 1387 1399	surveillance
+T39	PHEN 1414 1443	bruits hydro électrostatiques
+T40	Localization 1444 1454	bilatéraux
+T41	DEVI 1471 1480	écran OGD
+T42	ANAT 1500 1524	voie biliaire accessoire
+T43	MEAS 1549 1553	5 mA
+T44	PROC 1627 1643	méthode KRISHAMS
+T46	ANAT 1765 1781	annexes charnues
+T47	ANAT 1871 1911	branches digestives accessoires externes
+T48	Concept_Idea 2030 2050	aspect morphologique
+T49	DISO 2076 2116	léiomyome polypoïde achromateux calcifié
+T50	PROC 2156 2194	tumorectomie endobuccale scanno-guidée
+T51	PROC 2207 2257	curage ganglionnaire axillaire élargie écho-guidée
+T52	ANAT 2279 2325	cellules tumorales encapsulées controlatérales
+T53	PROC 2367 2404	résection transœso-sigmoïde adjuvante
+T54	PROC 2409 2429	traitement palliatif
+T55	PROC 2454 2474	séance préopératoire
+T58	CHEM 2977 2988	antalgiques
+T59	PROC 3001 3025	remplissage vasculorénal
+T60	ANAT 3013 3025	vasculorénal
+T61	DEVI 3029 3038	fil mince
+T62	MEAS 3053 3059	propre
+T64	DOSE 3128 3133	50 mg
+T65	TEMP 3133 3143	/24 heures
+T66	MEAS 3177 3184	simples
+T67	DISO 3190 3211	récidive radiologique
+T68	DISO 3215 3240	hématome rétroplacentaire
+T69	DISO 3250 3270	déficit neurologique
+T70	PHEN 3285 3300	fonction rénale
+T71	ANAT 3294 3300	rénale
+T72	MEAS 3307 3314	normale
+T73	CHEM 3332 3350	facteur rhumatoïde
+T74	Localization 3359 3382	quadrant supero-externe
+T75	DISO 3422 3441	syndrome infectieux
+T76	PROC 3457 3486	antibiothérapies parentérales
+T77	LIVB 3507 3513	enfant
+T78	PROC 3536 3586	néphrostomie exploratrice guidée par voie vaginale
+T79	PROC 3615 3644	chimiothérapie prophylactique
+T80	CHEM 3650 3665	tamoxifenaline®
+T81	CHEM 3668 3686	acide clavulanique
+T82	CHEM 3689 3714	pyrazinamide hypertonique
+T83	CHEM 3717 3730	métronidazole
+T84	PROC 3742 3764	contrôle échographique
+T85	LIVB 3799 3806	parents
+T86	TEMP 3816 3827	14 ème mois
+T87	PROC 3840 3876	symptomatologie clinico-radiologique
+T88	PROC 3906 3933	reconstruction psychomoteur
+T89	PROC 3956 3984	prise en charge diagnostique
+T90	Hospital 4020 4035	bloc opératoire
+T91	TEMP 4049 4056	12 mois
+T92	PROC 4093 4112	suivi thérapeutique
+T93	DISO 4235 4261	maladie cœliaque chronique
+T94	LIVB 4320 4327	malades
+T95	DISO 4355 4371	signes cliniques
+T96	PROC 4388 4414	consultation psychiatrique

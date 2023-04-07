@@ -1,0 +1,24 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 69	amenée
+T3	Hospital 74 82	urgences
+T4	DISO 95 124	douleurs abdomino- pelviennes
+T5	ANAT 104 124	abdomino- pelviennes
+T6	PROC 128 143	examen clinique
+T7	LIVB 157 165	patiente
+T8	MEAS 169 178	assez bon
+T9	Concept_Idea 179 191	état général
+T10	DISO 197 218	détresse respiratoire
+T11	PHEN 206 218	respiratoire
+T12	DISO 224 245	hématurie liquidienne
+T13	DISO 256 282	adénopathies hypertrophiés
+T14	ANAT 296 318	membre supérieur droit
+T15	Localization 313 318	droit
+T16	DISO 332 365	sensibilité hypogastrique ulcérée
+T17	ANAT 344 365	hypogastrique ulcérée
+T18	PROC 398 433	prélèvement bactério-hyperbactérial
+T19	PROC 487 508	isolement biochimique
+T20	PROC 514 540	explorations radiologiques
+T24	ANAT 735 774	artère pulmonaire supra hyo-thoraciques
+T25	Localization 753 758	supra
+T26	MEAS 786 801	progressivement
+T27	Concept_Idea 805 811	taille

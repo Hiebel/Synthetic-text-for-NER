@@ -1,0 +1,21 @@
+T1	PROC 2 19	tomodensitométrie
+T2	PROC 21 35	TDM) cérébrale
+T3	ANAT 26 35	cérébrale
+T4	MEAS 52 63	volumineuse
+T5	DISO 64 80	masse tissulaire
+T6	ANAT 87 110	paroi thoracique droite
+T7	Localization 104 110	droite
+T8	Concept_Idea 116 122	aspect
+T9	DISO 145 161	ostéite nécrosée
+T10	DISO 177 227	lésions kystiques du plexus brachial supra rénales
+T11	ANAT 198 227	plexus brachial supra rénales
+T12	Localization 214 219	supra
+T13	DISO 241 247	signes
+T14	PROC 260 285	étude immunohistochimique
+T15	DISO 304 325	récidive pathologique
+T16	PROC 332 350	bilan paraclinique
+T17	MEAS 363 370	négatif
+T18	LIVB 375 383	patiente
+T20	CHEM 411 423	antibiotique
+T21	CHEM 429 460	amoxicilline acide clavulanique
+T22	TEMP 484 491	12 mois

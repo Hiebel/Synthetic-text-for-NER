@@ -1,0 +1,12 @@
+T1	PROC 3 27	échographie
+T2	ANAT 15 27	obstétricale
+T3	DISO 86 133	dilatation
+T4	ANAT 101 133	voies
+T5	Localization 117 122	intra
+T6	DISO 140 149	anomalies
+T7	Concept_Idea 168 186	plan
+T8	Concept_Idea 190 201	oculomoteur
+T9	LIVB 206 214	patiente
+T10	PROC 224 232	sortante
+T11	TEMP 235 245	J+2
+T12	PROC 251 266	prise

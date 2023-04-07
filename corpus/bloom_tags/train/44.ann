@@ -1,0 +1,32 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 83 88	admis
+T5	Hospital 93 101	urgences
+T6	DISO 114 134	vomissements bilieux
+T7	PROC 149 164	examen clinique
+T8	LIVB 177 184	patient
+T9	MEAS 188 191	bon
+T10	Concept_Idea 192 204	état général
+T11	PHEN 214 223	tolérance
+T12	ANAT 227 248	boudin d'invagination
+T13	DISO 262 295	épanchement intrarétro péritonéal
+T14	ANAT 274 295	intrarétro péritonéal
+T15	PROC 300 324	scanner abdomino-pelvien
+T17	PROC 359 385	consultation préopératoire
+T18	DISO 407 499	masse tissulaire latéro-utérine bilatérale antébrunellale cervico-dorsiflexion hypertrophiée
+T20	ANAT 516 537	fosse vésicale gauche
+T21	Localization 531 537	gauche
+T22	MEAS 547 552	12 cm
+T23	Concept_Idea 556 565	grand axe
+T24	MEAS 570 574	9 cm
+T25	Concept_Idea 578 587	petit axe
+T26	DISO 606 611	masse
+T27	ANAT 634 665	muscles paravertébraux iliaques
+T28	ANAT 680 692	ovaire droit
+T29	Localization 687 692	droit
+T30	PROC 716 725	injection
+T31	DOSE 729 734	50 ml
+T32	CHEM 738 749	propranolol
+T33	DISO 778 786	kystique
+T34	DISO 790 801	lithiasique

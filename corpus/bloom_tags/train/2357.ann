@@ -1,0 +1,22 @@
+T1	LIVB 19 26	patient
+T2	PROC 38 43	suivi
+T3	DISO 52 85	syndrome d'épanchement péritonéal
+T4	ANAT 75 85	péritonéal
+T5	Concept_Idea 90 96	effort
+T6	PROC 100 124	exploration chirurgicale
+T7	MEAS 142 153	volumineuse
+T8	DISO 154 219	dilatation des ventricules pariéto-utérins utéro-intra-myometraux
+T10	Localization 221 231	bilatérale
+T11	MEAS 233 252	de grande abondance
+T12	ANAT 266 301	muscle para-vaginal inférieur droit
+T13	Localization 296 301	droit
+T14	MEAS 326 331	12 cm
+T15	MEAS 335 340	10 cm
+T16	PROC 345 361	bilan biologique
+T17	DISO 373 386	particularité
+T18	DISO 403 430	hyperparathyroïdie primaire
+T19	PROC 435 460	protéinurie d'hémodialyse
+T20	MEAS 467 472	nulle
+T21	PROC 487 509	enzymes surrénaliennes
+T22	ANAT 495 509	surrénaliennes
+T23	DISO 538 570	métanéphrine hydrocholangionique

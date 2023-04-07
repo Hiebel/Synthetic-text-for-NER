@@ -1,0 +1,14 @@
+T1	PROC 2 28	examen
+T2	PROC 32 57	biopsie
+T3	ANAT 40 57	ostéo-articulaire
+T4	DISO 78 113	lésion
+T5	DISO 131 170	métastase
+T6	ANAT 141 170	ganglionnaire
+T7	ANAT 155 170	cervico-faciale
+T8	LIVB 175 183	patiente
+T9	PROC 200 215	corticothérapie
+T10	DOSE 218 229	faible
+T11	TEMP 230 250	pendant
+T12	MEAS 256 261	bonne
+T13	PHEN 262 271	tolérance
+T14	PROC 284 296	radiologique

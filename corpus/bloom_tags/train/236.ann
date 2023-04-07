@@ -1,0 +1,33 @@
+T1	LIVB 4 7	H.A
+T2	DISO 28 53	antécédents pathologiques
+T3	MEAS 54 62	notables
+T4	PROC 64 70	admise
+T5	Hospital 75 83	urgences
+T6	DISO 100 119	traumatisme fébrile
+T7	MEAS 129 135	40 ° C
+T8	PROC 139 154	examen clinique
+T9	LIVB 168 176	patiente
+T10	Concept_Idea 191 209	plan hémodynamique
+T11	PROC 244 268	intubation nasogastrique
+T12	ANAT 255 268	nasogastrique
+T13	DEVI 302 320	sonde œsophagienne
+T15	DISO 402 408	sueurs
+T16	DISO 415 436	troubles métaboliques
+T17	LIVB 438 442	Elle
+T18	DISO 469 501	facteur déclenchant hypertensive
+T19	DISO 505 519	thrombolytique
+T20	DISO 540 558	tension artérielle
+T21	ANAT 548 558	artérielle
+T22	MEAS 657 670	150/100 mm Hg
+T23	DISO 686 701	fausses couches
+T24	PROC 708 752	tomodensitométrie thoraco-abdomino-pelvienne
+T25	ANAT 726 752	thoraco-abdomino-pelvienne
+T27	MEAS 875 880	32 cm
+T28	Concept_Idea 884 893	grand axe
+T29	MEAS 902 907	15 cm
+T30	Concept_Idea 911 924	petite taille
+T31	ANAT 938 945	pelvien
+T32	MEAS 972 982	rapidement
+T33	Concept_Idea 986 992	volume
+T34	MEAS 1009 1021	environ 4 cm
+T35	Concept_Idea 1025 1034	grand axe

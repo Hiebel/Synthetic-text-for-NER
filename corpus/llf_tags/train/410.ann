@@ -1,0 +1,35 @@
+T1	DISO 68 89	douleurs péritonéales
+T2	ANAT 77 89	péritonéales
+T3	Hospital 94 102	urgences
+T4	TEMP 112 129	depuis cinq jours
+T5	PROC 142 163	ventilation mécanique
+T6	DISO 185 205	vomissements bilieux
+T7	LIVB 224 226	sa
+T8	LIVB 227 235	patiente
+T9	DISO 240 263	sensations nauséabondes
+T10	DISO 280 312	distension hépato-oesophagiennes
+T11	ANAT 291 312	hépato-oesophagiennes
+T12	MEAS 322 334	persistantes
+T13	DISO 342 364	constipation chronique
+T14	TEMP 377 395	deux fois par jour
+T15	MEAS 409 418	spontanée
+T16	Concept_Idea 483 500	état psychomoteur
+T17	DISO 520 555	désorientation temporo-mandibulaire
+T18	LIVB 568 572	elle
+T19	DISO 604 637	hallucinations pharyngo-laryngées
+T20	PROC 682 697	examen physique
+T21	LIVB 699 706	Mme M.F
+T22	DISO 786 813	signes érythémato-œdémateux
+T23	DISO 870 917	perforation obstétricale hypertensive primitive
+T24	PROC 921 942	auscultation générale
+T25	DISO 977 1008	cyanose sensitivo-palpébriforme
+T26	ANAT 1032 1060	nerf laryngé supérieur droit
+T27	Localization 1055 1060	droit
+T28	DISO 1203 1232	maladie cœlio-trache fongique
+T29	DISO 1238 1265	neurofibromatose diabétique
+T30	MEAS 1273 1279	T4N2M0
+T31	LIVB 2959 2966	parents
+T32	LIVB 3206 3213	enfants
+T33	PHEN 3219 3242	récepteurs alimentaires
+T34	TEMP 3398 3427	premiers temps postopératoire
+T35	DEVI 3472 3501	liquide gastrocnémien congelé

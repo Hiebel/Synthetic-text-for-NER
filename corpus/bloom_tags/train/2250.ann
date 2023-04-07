@@ -1,0 +1,83 @@
+T1	LIVB 4 12	patiente
+T2	Concept_Idea 34 59	antécédents pathologiques
+T3	MEAS 60 72	particuliers
+T4	PROC 79 85	admise
+T5	Hospital 90 98	urgences
+T6	DISO 108 119	tuméfaction
+T7	ANAT 123 133	sein droit
+T8	Localization 128 133	droit
+T9	MEAS 145 160	progressivement
+T10	Concept_Idea 164 170	volume
+T11	TEMP 180 196	depuis deux mois
+T12	PROC 200 215	examen clinique
+T13	DISO 233 261	symptomatologie neurologique
+T14	DISO 271 291	vomissements bilieux
+T15	DISO 306 331	syndrome d'hydrocloniques
+T16	PROC 347 367	examen gynécologique
+T17	DISO 411 434	métanéphrineorésistants
+T18	DISO 445 483	localisations métanéphrine-résistantes
+T19	ANAT 492 507	liquide pleural
+T20	ANAT 515 551	plexus pharyngo-laryngo-vésiculaires
+T21	CHEM 553 556	LPV
+T22	PROC 562 593	ponction pleurale transfixiante
+T23	ANAT 571 593	pleurale transfixiante
+T24	DISO 611 625	masse tumorale
+T25	MEAS 642 649	normale
+T26	PROC 681 704	TDM abdomino- pelvienne
+T27	ANAT 685 704	abdomino- pelvienne
+T28	DISO 718 792	tumeur tissulaire latéro-myometriale pariétale parenchymateuse lithiasique
+T29	MEAS 802 807	20 cm
+T30	MEAS 812 817	12 cm
+T31	DISO 851 874	adénocarcinome kystique
+T32	DISO 884 921	kystose épithéloido-giganto-canalaire
+T33	ANAT 892 921	épithéloido-giganto-canalaire
+T34	LIVB 1001 1009	patiente
+T35	LIVB 1011 1015	nous
+T36	PROC 1035 1068	cathéchographie pleuro-pulmonaire
+T37	ANAT 1051 1068	pleuro-pulmonaire
+T38	PROC 1073 1095	imagerie préopératoire
+T39	DISO 1137 1154	médiastin tumoral
+T40	PHEN 1223 1234	prurigineux
+T41	DOSE 1483 1492	25 000 UI
+T42	PROC 1498 1517	traitement adjuvant
+T43	PROC 1534 1562	chimiothérapie néo adjuvante
+T44	CHEM 1643 1654	cisplatinum
+T45	CHEM 1656 1668	doxorubicine
+T46	CHEM 1671 1682	vinblastine
+T47	CHEM 1684 1695	Epirubicine
+T48	CHEM 1697 1707	Cisplatine
+T49	CHEM 1709 1719	Paclitaxel
+T50	CHEM 1721 1732	Doxycycline
+T51	CHEM 1734 1745	Ethionamide
+T52	CHEM 1747 1758	Cyclosérine
+T53	CHEM 1760 1771	Vincristine
+T54	CHEM 1773 1784	Naphazoline
+T55	CHEM 1786 1797	Rifampicine
+T56	CHEM 1799 1811	Pyrazinamide
+T57	CHEM 1813 1819	Vit B6
+T58	CHEM 1821 1837	Sulfaméthoxazole
+T59	CHEM 1839 1853	Bethaméthasone
+T60	CHEM 1855 1868	dexaméthasone
+T61	CHEM 1870 1883	bêtaméthasone
+T62	CHEM 1885 1898	Triméthoprime
+T63	CHEM 1900 1915	Chloramphénicol
+T64	CHEM 1917 1927	Furosémide
+T65	CHEM 1929 1942	Phénobarbital
+T66	CHEM 1944 1954	Isoniazide
+T67	CHEM 1956 1974	Ametilprednisolone
+T68	CHEM 1976 1988	Simvastatine
+T69	CHEM 1990 2001	Paracétamol
+T70	CHEM 2003 2013	Tamoxifène
+T71	CHEM 2015 2024	Captopril
+T72	CHEM 2026 2045	Valproate de sodium
+T73	CHEM 2047 2060	Gentamicidine
+T74	CHEM 2062 2070	Diazépam
+T75	CHEM 2072 2079	Esmolol
+T76	CHEM 2081 2094	Kanaméthasone
+T77	LIVB 2151 2159	patiente
+T78	PROC 2182 2204	résection chirurgicale
+T79	PROC 2218 2248	curage ganglionnaire axillaire
+T80	PROC 2255 2282	surrachianesthésie initiale
+T81	PROC 2295 2330	scanner thoraco-abdomino-thoracique
+T82	ANAT 2303 2330	thoraco-abdomino-thoracique
+T83	DISO 2361 2384	localisation résiduelle

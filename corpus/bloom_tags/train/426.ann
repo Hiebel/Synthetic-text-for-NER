@@ -1,0 +1,33 @@
+T1	LIVB 3 10	patient
+T2	Hospital 46 95	centre hospitalier universitaire Hassan II de Fès
+T3	DISO 123 164	carcinose parathyroïdienne hypertrophique
+T4	ANAT 133 164	parathyroïdienne hypertrophique
+T5	PROC 207 216	admission
+T6	Hospital 225 258	service d'anesthésie-réanimatoire
+T7	PROC 266 292	explorations chirurgicales
+T8	CHEM 316 324	propofol
+T9	MODE 329 347	voie transfixiante
+T10	PROC 370 402	surveillance échocardiognostique
+T11	PROC 465 486	pronostic étiologique
+T12	DISO 572 588	thromboembolique
+T13	LIVB 654 660	malade
+T14	PROC 708 732	chimiothérapie adjuvante
+T15	PROC 911 944	imagerie par résonance magnétique
+T16	PROC 945 948	IRM
+T17	ANAT 950 963	hypogastrique
+T18	DISO 975 1048	lésion hyperintenseuse hétérogène latéro-utérine érythémato-bourgeonnante
+T19	ANAT 1197 1223	zones musculaires utérines
+T20	ANAT 1243 1275	tégument ovarien cervico-vaginal
+T21	ANAT 1347 1377	parties molles pré ombilicales
+T22	ANAT 1408 1451	veine cave biliaire supérieure homolatérale
+T23	Localization 1439 1451	homolatérale
+T24	MEAS 1503 1517	macroscopiques
+T25	DISO 1549 1574	symptomatologie digestive
+T26	DISO 1599 1626	lésions ostéo-métastatiques
+T27	DISO 1670 1682	métastatique
+T28	DISO 1688 1713	myxome kystique hydatique
+T29	DISO 1878 1912	syndrome d'épanchement  péritonéal
+T30	ANAT 1901 1912	 péritonéal
+T31	DISO 2019 2041	anomalies métaboliques
+T32	PROC 2299 2332	complément d'immuno-histochimique
+T33	DISO 2502 2517	symptomatologie

@@ -1,0 +1,42 @@
+T1	LIVB 4 9	femme
+T2	DISO 30 55	antécédents pathologiques
+T3	MEAS 56 68	particuliers
+T4	PROC 75 81	admise
+T5	Hospital 86 94	urgences
+T6	DISO 113 127	amaigrissement
+T7	MEAS 138 143	16 kg
+T8	TEMP 157 178	deux dernières années
+T9	DISO 236 288	carcinose épidermoïde du col utérin cervico-vaginale
+T11	ANAT 261 288	col utérin cervico-vaginale
+T12	PROC 293 303	diagnostic
+T13	PROC 310 330	examen gynécologique
+T14	MEAS 347 353	normal
+T15	PROC 379 397	examen obstétrical
+T16	PHEN 414 435	contractions utérines
+T17	ANAT 427 435	utérines
+T18	MEAS 436 444	modérées
+T19	DISO 479 494	souffle vaginal
+T20	ANAT 487 494	vaginal
+T21	LIVB 514 520	enfant
+T22	PROC 534 548	interrogatoire
+T23	DISO 598 615	douleur pelvienne
+T24	ANAT 606 615	pelvienne
+T25	MEAS 676 688	spontanément
+T26	Concept_Idea 692 698	volume
+T27	TEMP 708 721	depuis 2 mois
+T28	MEAS 741 749	brunâtre
+T29	PROC 779 803	consultations prénatales
+T30	PROC 809 827	traitement curatif
+T31	CHEM 840 871	amoxicilline/acide clavulanique
+T32	CHEM 853 871	acide clavulanique
+T33	CHEM 874 885	propranolol
+T34	CHEM 887 905	méthylprednisolone
+T35	DOSE 908 914	200 mg
+T37	TEMP 917 919	/j
+T38	CHEM 922 933	Cyclosérine
+T39	DOSE 935 941	400 mg
+T40	TEMP 941 943	/j
+T41	CHEM 946 959	bêtaméthasone
+T42	DOSE 960 967	2 mg/kg
+T43	TEMP 967 969	/J
+T44	DISO 1087 1114	pneumo-métrorragie syndrome

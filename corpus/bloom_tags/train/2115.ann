@@ -1,0 +1,24 @@
+T1	LIVB 19 26	patient
+T2	DISO 38 50	hypertrophié
+T3	PROC 55 64	admission
+T4	PHEN 74 93	pression artérielle
+T5	ANAT 83 93	artérielle
+T6	MEAS 96 107	130/80 mmHg
+T7	Concept_Idea 114 119	poids
+T8	MEAS 123 128	68 kg
+T9	PROC 132 147	examen clinique
+T10	DISO 168 182	pâleur cutanée
+T11	ANAT 191 201	dos du nez
+T12	Localization 218 238	face latérale droite
+T13	DISO 252 268	signes cliniques
+T14	DISO 294 314	hépato-splénomégalie
+T15	DISO 327 350	symptômes neurologiques
+T16	PROC 355 385	bilan biologique préopératoire
+T17	DISO 408 450	hyperparathyroïdie secondaire hypertensive
+T18	DISO 455 474	maladie de Takayasu
+T19	PROC 479 514	taux d'hormonothérapie substitutive
+T20	DOSE 517 524	1mg/m 2
+T21	TEMP 524 526	/j
+T22	DISO 529 559	thrombophilie thromboembolique
+T23	CHEM 564 578	anticoagulante
+T24	TEMP 592 608	2 mois plus tard

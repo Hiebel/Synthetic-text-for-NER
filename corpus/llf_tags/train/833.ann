@@ -1,0 +1,11 @@
+T1	LIVB 3 9	garçon
+T2	TEMP 17 23	4 mois
+T3	DEVI 145 164	seringue électrique
+T4	PROC 185 211	antibiothérapie préventive
+T5	PROC 423 457	antibiothérapie pré prophylactique
+T6	LIVB 487 497	nouveau-né
+T7	PROC 556 578	consultation prénatale
+T8	PROC 652 675	prélèvement mycologique
+T9	CHEM 707 734	médicaments antibacillaires
+T10	PROC 812 845	séances thérapeutiques adjuvantes
+T11	DISO 960 997	contractures tonicocloniques fébriles

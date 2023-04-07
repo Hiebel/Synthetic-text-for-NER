@@ -1,0 +1,29 @@
+T1	PROC 2 17	examen clinique
+T2	PROC 22 31	admission
+T3	LIVB 43 51	patiente
+T4	MEAS 55 58	bon
+T5	Concept_Idea 59 71	état général
+T6	DISO 73 83	tachycarde
+T7	MEAS 86 104	100 battements/min
+T8	PHEN 109 128	pression artérielle
+T9	ANAT 118 128	artérielle
+T10	MEAS 138 148	70/40 mmhg
+T11	PROC 166 186	examen gynécologique
+T12	DISO 192 205	particularité
+T13	PROC 210 226	bilan biologique
+T14	PROC 240 256	hyperleucocytose
+T15	MEAS 259 269	24000/mm 3
+T16	PROC 303 322	protéine C réactive
+T17	MEAS 324 341	9 fois la normale
+T18	PROC 402 424	radiographie du thorax
+T19	ANAT 418 424	thorax
+T20	DISO 444 514	syndrome d'épanchement péricardique médiastin lithiasique hypoéchogène
+T22	DISO 534 616	épanchement intrapéritonéal basithyroïdien latéro-mésentérique péribasilaire droit
+T23	ANAT 546 616	intrapéritonéal basithyroïdien latéro-mésentérique péribasilaire droit
+T24	Localization 611 616	droit
+T25	DISO 636 680	métastases basithyroïdiennes hyperhypodenses
+T26	ANAT 647 680	basithyroïdiennes hyperhypodenses
+T27	ANAT 701 736	parenchyme thyroïdien paracliniques
+T28	MEAS 761 769	12x14 cm
+T29	MEAS 773 781	13x15 cm
+T30	DISO 816 836	cholécystite sécrète

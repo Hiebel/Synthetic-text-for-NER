@@ -1,0 +1,17 @@
+T1	LIVB 2 8	enfant
+T2	PHEN 13 15	né
+T3	Concept_Idea 27 40	sexe
+T4	Concept_Idea 49 54	poids
+T5	MEAS 57 70	environ
+T6	PROC 76 97	échographie
+T7	ANAT 88 97	pelvienne
+T8	DISO 118 153	grossesse
+T9	MEAS 154 163	évolutive
+T10	ANAT 168 176	placenta
+T11	ANAT 182 194	ovaire
+T12	Localization 189 194	droit
+T13	MEAS 203 210	normaux
+T14	PHEN 216 222	suites
+T15	TEMP 223 239	post
+T16	PROC 228 239	opératoires
+T17	MEAS 248 255	simples

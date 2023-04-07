@@ -1,0 +1,91 @@
+T1	DISO 40 49	hématurie
+T2	TEMP 50 66	depuis l'enfance
+T3	PROC 70 76	examen
+T4	PROC 81 90	admission
+T5	LIVB 103 110	patient
+T6	MEAS 114 121	mauvais
+T7	Concept_Idea 122 134	état général
+T8	DISO 144 152	asthénie
+T9	DISO 158 164	fièvre
+T10	DISO 172 188	pâles crépitants
+T11	ANAT 202 212	foie droit
+T12	Localization 207 212	droit
+T13	PROC 228 243	examen physique
+T14	DISO 253 266	particularité
+T15	PHEN 272 290	suites opératoires
+T16	MEAS 299 306	simples
+T17	PROC 312 349	anticoagulation par la céphalosporine
+T18	CHEM 335 349	céphalosporine
+T19	DOSE 351 357	2mg/kg
+T20	TEMP 357 359	/j
+T21	PROC 374 393	bilan préopératoire
+T22	DISO 416 435	récidive secondaire
+T23	DISO 445 464	syndrome infectieux
+T24	LIVB 502 510	patiente
+T25	LIVB 624 628	elle
+T26	PROC 651 675	chimiothérapie adjuvante
+T27	PROC 689 723	radio-chimiothérapie néo adjuvante
+T28	CHEM 747 774	corticoïde µgammaglobulines
+T29	MEAS 809 812	6mm
+T30	PROC 828 874	transfusion sanguine intraveineuse parentérale
+T31	MODE 875 879	IVAO
+T32	PROC 886 913	surveillance postopératoire
+T33	PROC 943 955	consultation
+T34	DISO 997 1019	hypogonadisme primaire
+T35	LIVB 1041 1043	sa
+T36	LIVB 1044 1048	sœur
+T37	PROC 1053 1087	prise en charge neuropsychiatrique
+T38	LIVB 1120 1123	son
+T39	LIVB 1124 1130	enfant
+T40	PROC 1144 1177	traitement antalgique substitutif
+T41	LIVB 1299 1303	elle
+T42	PROC 1331 1353	radiothérapie curative
+T43	PROC 1366 1393	thyroïdectomie exploratrice
+T44	PROC 1426 1464	cystoendocrinodystrophie antivenimeuse
+T45	PROC 1479 1515	TDM endotrachéale transoesophagienne
+T46	ANAT 1536 1566	ventricule inferieur supérieur
+T48	PROC 1585 1616	tomodensitométrie peropératoire
+T49	MEAS 1640 1647	normale
+T50	PROC 1652 1680	symptomatologie radiologique
+T51	PROC 1699 1727	investigations diagnostiques
+T52	DISO 1770 1807	lésions osseuses cervico-mandibulaire
+T53	MEAS 1831 1835	9 cm
+T54	MEAS 1839 1843	8 cm
+T55	DISO 1871 1953	pseudo myxome épidermoïde spondylodisplénique monofibroblastique hyperosmolarasial
+T56	PHEN 2736 2749	fonctionnelle
+T57	Concept_Idea 2756 2759	cas
+T58	MEAS 2760 2772	particuliers
+T59	DISO 2789 2831	tumeur du plexus veineux maxillaire gauche
+T60	ANAT 2799 2831	plexus veineux maxillaire gauche
+T61	Localization 2825 2831	gauche
+T62	PROC 2839 2864	étude anatomopathologique
+T63	LIVB 2888 2896	patiente
+T64	DISO 2906 2934	métastases hépato-trachéales
+T65	ANAT 2917 2934	hépato-trachéales
+T66	DISO 2955 3040	myxome sarcomateux carcinomateux congénital infiltrant les cavités gléno-rachidiennes
+T67	ANAT 3014 3040	cavités gléno-rachidiennes
+T68	DISO 3057 3083	remaniements métastatiques
+T69	ANAT 3097 3128	muscle grand pectoral antérieur
+T70	Localization 3119 3128	antérieur
+T71	DISO 3166 3179	particularité
+T72	PROC 3186 3215	prise en charge préopératoire
+T73	PROC 3221 3252	toilette pleuro-anésithopédique
+T74	ANAT 3230 3252	pleuro-anésithopédique
+T75	PROC 3287 3305	séjour hospitalier
+T76	PROC 3318 3330	soins locaux
+T77	Hospital 3335 3379	structures hospitalo-régionales pédiatriques
+T78	MEAS 3400 3407	simples
+T79	PROC 3448 3472	chimiothérapie adjuvante
+T80	PROC 3504 3516	consultation
+T81	PROC 3521 3541	suivi postopératoire
+T82	MEAS 3552 3561	perméable
+T83	PROC 3577 3602	thyroïdectomie préventive
+T84	DEVI 3644 3686	appareils digestifs portatifs implantables
+T85	PROC 3756 3780	transfusion chirurgicale
+T86	PROC 3785 3807	traitement chirurgical
+T87	PROC 3839 3863	ventilation non invasive
+T88	PROC 3877 3938	néphrectomie exploratrice rétro péritonéale scanno-abdominale
+T89	PROC 3954 3988	colonoscopie percutanée échoguidée
+T90	PROC 4002 4045	résection biopsie ostéolytique extemporanée
+T91	PROC 4057 4092	curage ganglionnaire complémentaire
+T92	PROC 4129 4160	prélèvement immunohistochimique

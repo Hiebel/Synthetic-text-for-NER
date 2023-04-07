@@ -1,0 +1,36 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	7 ans
+T3	MEAS 50 62	particuliers
+T4	PROC 67 72	admis
+T5	LIVB 78 83	notre
+T6	Hospital 84 93	formation
+T7	Hospital 98 119	urgences pédiatriques
+T8	DISO 135 149	amaigrissement
+T9	MEAS 159 163	12kg
+T10	TEMP 173 186	depuis 6 mois
+T11	PROC 206 220	investigations
+T12	PROC 224 239	examen clinique
+T13	DISO 260 283	douleur pelvienne aiguë
+T15	MEAS 298 309	progressive
+T16	DISO 319 345	saillie abdomino-pelvienne
+T17	ANAT 327 345	abdomino-pelvienne
+T18	MEAS 357 372	progressivement
+T19	Concept_Idea 376 382	volume
+T20	MEAS 392 400	violacée
+T21	Concept_Idea 409 425	plan superficiel
+T22	DISO 439 477	sensibilité hypogastrique hypo-tenseur
+T23	ANAT 451 477	hypogastrique hypo-tenseur
+T24	MEAS 486 496	permanente
+T25	PROC 502 524	TDM abdomino-pelvienne
+T26	ANAT 506 524	abdomino-pelvienne
+T27	PHEN 538 555	grossesse utérine
+T28	ANAT 548 555	utérine
+T29	Concept_Idea 569 575	taille
+T30	MEAS 657 662	1630g
+T31	MEAS 666 671	1350g
+T32	MEAS 770 775	10/10
+T33	TEMP 783 794	38 semaines
+T34	CHEM 797 818	aménorrhées méningées
+T35	DEVI 819 823	POMS
+T36	PROC 840 856	examen somatique
+T37	DISO 888 901	particularité

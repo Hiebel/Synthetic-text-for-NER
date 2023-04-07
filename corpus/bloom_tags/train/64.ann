@@ -1,0 +1,28 @@
+T1	LIVB 4 9	fille
+T2	TEMP 18 24	15 ans
+T3	PROC 43 67	laparotomie exploratrice
+T4	DISO 86 166	carcinose parathyroïdienne laryngo-gastroduodénopharyngo péritonéale infiltrante
+T6	TEMP 176 187	depuis 1 an
+T7	CHEM 193 203	Tamoxifène
+T8	CHEM 217 229	Ethorubicine
+T9	DOSE 231 236	20 mg
+T10	CHEM 239 250	Cyclosérine
+T11	PROC 264 295	radiothérapie externe adjuvante
+T12	ANAT 303 336	fosse ptéryso-mandibulaire droite
+T13	Localization 330 336	droite
+T14	MODE 339 352	intraveineuse
+T15	DOSE 354 359	30 Gy
+T16	PROC 371 393	pronostic locorégional
+T17	PROC 400 420	reprise chirurgicale
+T18	MEAS 434 442	négatifs
+T19	DISO 463 480	récidive tumorale
+T20	DISO 487 512	localisation métastasique
+T21	PROC 527 556	examens anatomo-pathologiques
+T22	DISO 651 668	processus tumoral
+T23	PROC 754 789	tomodensitométrie thoraco-axillaire
+T24	ANAT 772 789	thoraco-axillaire
+T25	MEAS 814 822	complète
+T26	DISO 829 835	tumeur
+T27	PROC 849 870	imagerie intrarectale
+T28	DISO 893 919	métastases carcinomateuses
+T29	Hospital 934 939	notre

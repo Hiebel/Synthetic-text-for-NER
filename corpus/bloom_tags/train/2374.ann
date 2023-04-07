@@ -1,0 +1,42 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	7 ans
+T3	DISO 40 65	antécédents pathologiques
+T4	MEAS 66 74	notables
+T5	Hospital 98 119	urgences pédiatriques
+T6	DISO 128 165	traumatisme du membre inférieur droit
+T7	ANAT 143 165	membre inférieur droit
+T8	Localization 160 165	droit
+T9	DISO 171 178	douleur
+T10	DISO 182 205	impotence fonctionnelle
+T11	TEMP 215 232	depuis deux jours
+T12	LIVB 239 242	son
+T13	PROC 243 252	admission
+T14	CHEM 282 292	sufentanil
+T15	DOSE 294 303	0,5 µg/kg
+T16	MODE 305 324	voie intra veineuse
+T17	DISO 351 372	détresse respiratoire
+T18	PHEN 360 372	respiratoire
+T19	MEAS 387 393	rapide
+T20	MEAS 403 417	plus accentuée
+T21	PROC 438 447	admission
+T22	MEAS 459 474	progressivement
+T23	Concept_Idea 478 484	volume
+T24	DISO 527 553	état de choc hypovolémique
+T25	DEVI 567 585	appareils auditifs
+T26	PROC 689 720	prise médicamenteuse préventive
+T27	CHEM 733 746	metaméthasone
+T28	CHEM 748 761	dexaméthasone
+T29	CHEM 763 776	noradrénaline
+T30	CHEM 778 790	prédnisolone
+T31	CHEM 792 810	méthylprednisolone
+T32	DOSE 823 830	1 mg/kg
+T33	TEMP 830 836	/heure
+T34	CHEM 850 871	hydroxyethylcarbamide
+T35	DISO 900 929	déséquilibrement ventilatoire
+T36	LIVB 953 961	patiente
+T37	MEAS 1191 1216	difficilement appréciable
+T38	MEAS 1290 1294	2 kg
+T39	DISO 1357 1374	dyspnée sifflante
+T40	MEAS 1389 1414	supérieure à 3 cycles/min
+T41	Concept_Idea 1443 1449	volume
+T42	MEAS 1466 1477	persistante

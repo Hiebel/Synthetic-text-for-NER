@@ -1,0 +1,30 @@
+T1	LIVB 16 24	patiente
+T2	DISO 58 96	déficit sensitivomoteur des deux pieds
+T3	Localization 86 90	deux
+T4	TEMP 106 119	depuis 2 mois
+T5	DISO 134 150	épisodes fébrile
+T6	PHEN 172 187	acuité visuelle
+T7	DISO 214 241	polynucléaires érythémateux
+T8	ANAT 255 299	plexus pharyngo-laryngien inféro-métacarpien
+T9	MEAS 309 314	12 cm
+T10	Concept_Idea 318 327	grand axe
+T11	MEAS 343 358	progressivement
+T12	Concept_Idea 362 368	taille
+T13	PROC 389 421	corticothérapie locale adjuvante
+T14	DISO 445 466	défauts neurologiques
+T15	PROC 506 530	observation chirurgicale
+T16	PROC 560 574	interrogatoire
+T17	DISO 599 609	pathologie
+T18	LIVB 628 637	patientes
+T19	DISO 738 763	polyneuropathie sensitive
+T20	ANAT 788 817	membres supérieurs/inférieurs
+T21	ANAT 825 854	membres inférieurs/bilatéraux
+T22	DEVI 895 908	botte plâtrée
+T23	TEMP 938 943	9 ans
+T24	MEAS 981 986	30 kg
+T25	PROC 1028 1042	interrogatoire
+T26	MEAS 1156 1164	3 litres
+T27	DISO 1210 1217	dyspnée
+T28	MEAS 1229 1244	progressivement
+T29	Concept_Idea 1248 1254	volume
+T30	ANAT 1276 1310	parties molles cervico-thoraciques

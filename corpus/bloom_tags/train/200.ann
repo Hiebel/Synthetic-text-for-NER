@@ -1,0 +1,26 @@
+T1	LIVB 29 37	patiente
+T2	Concept_Idea 54 60	pesant
+T3	MEAS 61 66	70 kg
+T4	DISO 122 147	diabète insulinodépendant
+T5	PROC 152 158	traité
+T6	DOSE 164 170	1mg/kg
+T7	TEMP 170 175	/jour
+T8	CHEM 188 202	hydrocortisone
+T9	PROC 247 271	intubation oesotrachéale
+T10	ANAT 258 271	oesotrachéale
+T11	PROC 430 455	intervention endoscopique
+T12	PROC 459 479	médiastinotendineuse
+T13	PROC 492 525	pronostic gynécologue obstétrical
+T14	DISO 581 609	dyspnée stade III d’Enneking
+T15	LIVB 842 846	Elle
+T16	PROC 851 861	consultait
+T17	DISO 874 910	douleurs rétro utérines hypertrophes
+T18	ANAT 883 910	rétro utérines hypertrophes
+T19	TEMP 920 940	depuis deux semaines
+T20	PROC 953 974	recherche étiologique
+T21	PROC 988 1001	TDM pelvienne
+T22	ANAT 992 1001	pelvienne
+T23	DISO 1015 1049	hypertrophie myometriale réhaussée
+T24	ANAT 1028 1049	myometriale réhaussée
+T25	MEAS 1059 1064	20 cm
+T26	Concept_Idea 1068 1077	grand axe

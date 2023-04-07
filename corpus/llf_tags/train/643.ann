@@ -1,0 +1,37 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 35	8 mois
+T3	PHEN 48 57	grossesse
+T4	Concept_Idea 62 68	suivie
+T5	PROC 87 104	tomodensitométrie
+T6	PROC 106 129	TDM) cervico-thoracique
+T7	ANAT 111 129	cervico-thoracique
+T8	DISO 143 189	dilatation des voies biliaires intrahépatiques
+T9	ANAT 158 189	voies biliaires intrahépatiques
+T10	MEAS 198 206	deuxième
+T11	ANAT 229 249	lobe inférieur droit
+T12	Localization 244 249	droit
+T13	DISO 275 318	processus lésionnel tissulaire hypoéchogène
+T14	DISO 324 340	nécrose caséeuse
+T15	DISO 344 363	emboles vasculaires
+T16	ANAT 352 363	vasculaires
+T17	ANAT 372 405	sinus maxillaire supérieur gauche
+T18	Localization 399 405	gauche
+T19	PROC 409 434	étude immunohistochimique
+T20	PROC 435 438	IHC
+T21	LIVB 457 467	nouveau-né
+T22	MEAS 486 494	positive
+T23	CHEM 572 613	anticorps antiphospholipides phtanosorbés
+T24	CHEM 727 740	métronidazole
+T25	LIVB 790 797	parents
+T26	PROC 801 836	examen cytobactériologique standard
+T27	DEVI 857 898	cathéter mural tubulaire haute résistance
+T28	DEVI 909 922	guide rotatif
+T29	PROC 1061 1101	oxygénothérapie hyperchimiothérapeutique
+T30	PROC 1115 1160	perfusion intranto-anesthésique thérapeutique
+T31	MEAS 1309 1316	simples
+T32	PROC 1321 1356	contrôle locorégional échographique
+T33	PROC 1377 1400	radiothérapie adjuvante
+T34	MEAS 1556 1564	120 mmHg
+T36	MEAS 1728 1740	1050 grammes
+T37	PROC 1779 1798	radio préopératoire
+T38	Concept_Idea 1831 1840	résultats

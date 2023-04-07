@@ -1,0 +1,21 @@
+T1	LIVB 3 14	jeune homme
+T2	PHEN 81 102	grossesse monofoetale
+T3	TEMP 113 117	22SA
+T4	TEMP 126 133	24 mois
+T5	PROC 172 180	consulté
+T6	Concept_Idea 202 214	état général
+T7	TEMP 224 240	depuis 24 heures
+T8	DISO 289 321	agitation psychomotrice générale
+T9	DISO 331 371	troubles convulsifs maniaco-spasmodiques
+T10	ANAT 417 439	membre inférieur droit
+T11	Localization 434 439	droit
+T12	DISO 462 488	hyperthyroïdie réfractaire
+T13	PROC 566 583	bilan étiologique
+T14	DEVI 653 674	utérus polymyomateuse
+T15	DOSE 686 694	500mg/kg
+T16	PROC 742 771	anticoagulation intraveineuse
+T17	PROC 790 825	néfrottistérite auto-métronidazolée
+T18	PROC 845 892	électrocardiomyotomie prophylactique programmée
+T19	MEAS 958 969	1800 gramme
+T21	ANAT 1022 1042	membranes hépatiques
+T22	MEAS 1052 1065	plus épaisses

@@ -1,0 +1,24 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 98	scanner abdomino-pelvien
+T3	ANAT 82 98	abdomino-pelvien
+T4	PROC 122 137	hospitalisation
+T5	Hospital 142 150	urgences
+T6	DISO 170 182	hyperthermie
+T7	DISO 184 192	anorexie
+T8	TEMP 202 215	depuis 3 mois
+T9	ANAT 262 279	intrapéritonéales
+T10	MEAS 305 320	progressivement
+T11	Concept_Idea 324 330	volume
+T12	LIVB 354 357	son
+T13	LIVB 358 365	patient
+T14	DISO 401 425	perforation œsophagienne
+T15	ANAT 413 425	œsophagienne
+T16	DISO 454 487	syndrome inflammatoire biologique
+T17	CHEM 524 549	Ampicilline-Sulfamidazole
+T18	PROC 625 634	chirurgie
+T19	PROC 672 686	diagnostiquées
+T20	PROC 700 736	ponction écho-gastrique endoscopique
+T21	MEAS 985 994	favorable
+T22	MEAS 1126 1149	pratiquement nécessaire
+T23	ANAT 1314 1323	pelvienne
+T24	MEAS 1346 1353	normale

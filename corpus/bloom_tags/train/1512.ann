@@ -1,0 +1,25 @@
+T1	LIVB 9 12	H.A
+T2	DISO 54 87	tuberculose érythémato-pustuleuse
+T3	DISO 128 144	anorexie fébrile
+T4	CHEM 176 189	sulfasalazine
+T5	CHEM 203 222	hydroxy-chloroquine
+T6	MEAS 239 248	partielle
+T7	DISO 255 270	symptomatologie
+T8	DISO 294 306	hyperthermie
+T9	PROC 339 364	traitement antibacillaire
+T10	DISO 404 422	lésions pigmentées
+T11	ANAT 439 454	sinus caverneux
+T12	PHEN 486 506	grossesse gémellaire
+T13	MEAS 531 535	32SA
+T14	DISO 551 570	souffle placentaire
+T15	ANAT 559 570	placentaire
+T16	DISO 764 793	complication thromboembolique
+T17	DISO 809 829	anomalie congénitale
+T18	PROC 947 983	auscultation cardio-vasculo-nerveuse
+T19	ANAT 960 983	cardio-vasculo-nerveuse
+T20	DISO 1006 1041	dépression ventriculaire bilatérale
+T21	ANAT 1017 1041	ventriculaire bilatérale
+T22	Localization 1031 1041	bilatérale
+T23	DISO 1062 1100	myocardialgie ischémique hypertrophiée
+T24	DISO 1118 1162	insuffisance auriculoventriculaire chronique
+T25	ANAT 1131 1162	auriculoventriculaire chronique

@@ -1,0 +1,67 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	PROC 42 46	reçu
+T4	LIVB 52 57	notre
+T5	Hospital 58 65	service
+T6	DEVI 70 98	soins intensifs pédiatriques
+T7	DISO 116 147	épanchement péritonéal purulent
+T8	ANAT 128 147	péritonéal purulent
+T9	PROC 152 171	ponction pleurieuse
+T10	ANAT 161 171	pleurieuse
+T11	PROC 192 207	examen clinique
+T12	DISO 228 244	signes cliniques
+T13	DISO 271 314	syndrome d'épanchement liquidien péritonéal
+T14	ANAT 294 314	liquidien péritonéal
+T15	DISO 327 365	adénopathies jugulo-carotidopharyngées
+T16	ANAT 340 365	jugulo-carotidopharyngées
+T17	PHEN 380 403	réflexes ostéo-tonicaux
+T18	ANAT 389 403	ostéo-tonicaux
+T19	PROC 436 466	échographie abdomino-pelvienne
+T20	ANAT 448 466	abdomino-pelvienne
+T21	DISO 550 573	symptomatologie maligne
+T22	TEMP 583 597	depuis 12 mois
+T23	Localization 599 609	bilatérale
+T24	LIVB 612 616	Nous
+T25	PROC 635 657	TDM abdomino pelvienne
+T26	ANAT 639 657	abdomino pelvienne
+T27	PROC 671 704	imagerie par résonance magnétique
+T28	PROC 706 709	IRM
+T29	LIVB 731 738	dernier
+T30	DISO 743 769	masse tissulaire hypodense
+T31	ANAT 782 811	parenchyme splénique biliaire
+T32	MEAS 821 826	70 mm
+T33	Concept_Idea 830 839	grand axe
+T34	ANAT 863 885	parties molles iléales
+T35	PROC 925 934	injection
+T36	CHEM 938 958	produit de contraste
+T37	DISO 987 995	tumorale
+T38	DISO 1020 1042	métanéphrine neurogène
+T39	PROC 1045 1070	intervention chirurgicale
+T40	PROC 1091 1122	anesthésie locorégionale locale
+T41	PROC 1167 1196	hystérectomie totale curative
+T42	ANAT 1216 1233	volvés vertébraux
+T43	PROC 1298 1323	chimiothérapie palliative
+T44	DISO 1475 1490	symptomatologie
+T45	PROC 1508 1553	techniques d'immuno-hormonothérapie adjuvante
+T46	CHEM 1597 1607	tamoxifène
+T47	CHEM 1610 1632	méthylhydrocortisolone
+T48	CHEM 1635 1648	dexaméthasone
+T49	CHEM 1696 1709	cisatracurium
+T50	CHEM 1712 1725	bêtaméthasone
+T51	DISO 1883 1906	consanguinité familiale
+T52	MEAS 1944 1951	simples
+T53	DISO 2114 2146	lésions pigmentées prurigineuses
+T54	CHEM 2206 2220	tuberculeuline
+T55	PROC 2238 2269	pronostic immunodépressionniste
+T56	PROC 2593 2620	séjours radiothermolytiques
+T57	Concept_Idea 2700 2710	indication
+T58	PROC 2716 2734	traitement curatif
+T59	PROC 2754 2782	radiothérapie prophylactique
+T60	DISO 2837 2862	pneumo-rétinite nodulaire
+T61	LIVB 2864 2868	Nous
+T62	PROC 2888 2906	anesthésie globale
+T63	ANAT 2920 2953	jugulo-carotidien supérieur droit
+T64	Localization 2948 2953	droit
+T65	PROC 2957 2983	examen anatomopathologique
+T66	DISO 3002 3034	épiderme érythémateux purpurique
+T67	DISO 3040 3063	granulome inflammatoire

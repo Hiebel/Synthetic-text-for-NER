@@ -1,0 +1,24 @@
+T1	LIVB 19 26	patient
+T2	PROC 38 43	admis
+T3	Hospital 48 56	urgences
+T4	DISO 75 97	hypotension artérielle
+T5	ANAT 87 97	artérielle
+T6	MEAS 100 111	180/120mmhg
+T7	PROC 116 132	bilan biologique
+T8	Concept_Idea 153 177	vitesse de sédimentation
+T9	MEAS 190 196	120 mm
+T10	PROC 201 220	protéine C réactive
+T11	PROC 222 225	CRP
+T12	MEAS 227 233	élevée
+T13	MEAS 236 244	200 mg/l
+T14	PROC 251 271	taux de prothrombine
+T15	MEAS 290 293	25%
+T16	PROC 298 348	ponction liquide pleuro-péricardique transpleurale
+T17	ANAT 307 348	liquide pleuro-péricardique transpleurale
+T18	PROC 354 394	prélèvement du liquide céphalo-rachidien
+T20	DISO 425 444	symptômes cliniques
+T21	DISO 451 489	syndrome d'épanchement intrapéritonéal
+T22	ANAT 474 489	intrapéritonéal
+T23	DISO 504 520	hyperleucocytose
+T24	MEAS 523 541	15000 éléments/mm3
+T25	DISO 554 574	signes radiologiques

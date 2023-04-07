@@ -1,0 +1,82 @@
+T1	LIVB 16 24	patiente
+T2	PROC 45 57	hospitalisée
+T3	DISO 67 84	dyspnée sifflante
+T4	Concept_Idea 103 106	âge
+T5	DISO 159 174	symptomatologie
+T6	LIVB 221 225	elle
+T7	LIVB 449 453	elle
+T8	DISO 473 489	accident de moto
+T9	LIVB 512 514	sa
+T10	LIVB 515 528	belle-famille
+T11	MEAS 530 531	3
+T12	LIVB 532 539	garçons
+T13	PROC 546 561	examen physique
+T14	ANAT 578 600	masse cervicale droite
+T15	Localization 594 600	droite
+T16	MEAS 610 615	21 cm
+T17	DISO 621 635	lyse cervicale
+T18	ANAT 626 635	cervicale
+T19	DISO 639 649	nécrotique
+T20	DEVI 654 672	processus sensitif
+T21	MEAS 681 694	6 centimètres
+T22	DISO 710 726	syndrome méningé
+T23	DISO 736 758	déficit neuropsychique
+T24	PHEN 817 844	fonction réticulo-occlusive
+T25	ANAT 826 844	réticulo-occlusive
+T26	MEAS 851 863	correctement
+T27	PROC 877 892	anticoagulation
+T28	PROC 906 937	ventilation mécanique contrôlée
+T29	DISO 1001 1016	symptomatologie
+T30	MEAS 1053 1060	simples
+T31	TEMP 1084 1091	2 jours
+T32	PROC 1103 1121	séjour hospitalier
+T33	DISO 1139 1152	consanguinité
+T34	LIVB 1181 1189	patiente
+T35	MEAS 1217 1218	4
+T36	LIVB 1219 1226	enfants
+T37	PROC 1360 1381	contrôles biologiques
+T38	LIVB 1386 1393	parents
+T39	DISO 1453 1470	hyperglycemicémie
+T40	PROC 1513 1522	scolarité
+T41	MEAS 1523 1527	deux
+T42	LIVB 1528 1534	filles
+T43	PROC 1609 1631	traitement substitutif
+T44	CHEM 1693 1711	culots globulaires
+T45	LIVB 2037 2041	nous
+T46	LIVB 2113 2120	Mme F.S
+T47	MEAS 2145 2149	cinq
+T48	LIVB 2150 2157	enfants
+T49	TEMP 2189 2196	24 mois
+T50	TEMP 2200 2207	16 mois
+T51	MEAS 2264 2276	1700 grammes
+T52	MEAS 2280 2292	1550 grammes
+T53	Hospital 2495 2519	grossessements maternels
+T54	Concept_Idea 2988 2991	âge
+T55	DISO 3015 3040	diabète insulinodépendant
+T56	LIVB 3573 3584	Kitabchi AE
+T57	LIVB 3606 3617	agriculteur
+T58	LIVB 3646 3664	négociant agricole
+T59	LIVB 3724 3726	il
+T60	LIVB 3858 3860	il
+T61	PROC 3931 3945	Accompagnateur
+T62	LIVB 3964 3975	jeune fille
+T63	TEMP 3984 3990	31 ans
+T64	PHEN 4027 4043	marié consanguin
+T65	LIVB 4056 4058	sa
+T66	LIVB 4059 4072	belle-famille
+T67	LIVB 4085 4089	Elle
+T68	PROC 4108 4120	consultation
+T69	LIVB 4129 4139	nourrisson
+T70	TEMP 4170 4181	25 semaines
+T71	DISO 4201 4243	insuffisance cardiaque chronique terminale
+T72	ANAT 4214 4223	cardiaque
+T73	PROC 4260 4272	hospitalisée
+T74	PROC 4342 4375	antibioprophylaxie médicamenteuse
+T75	PROC 4388 4403	hospitalisation
+T76	LIVB 4443 4451	patiente
+T77	LIVB 4468 4472	elle
+T79	LIVB 4697 4708	partenaires
+T80	MEAS 4731 4742	463 grammes
+T81	LIVB 4750 4753	son
+T82	LIVB 4754 4764	nouveau-né
+T83	PROC 4778 4810	transfusion sanguine parentérale

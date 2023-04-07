@@ -1,0 +1,80 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 63	notables
+T4	DISO 83 110	hypertension intracrânienne
+T5	ANAT 96 110	intracrânienne
+T6	DISO 112 116	HTAP
+T7	TEMP 128 141	depuis 6 mois
+T8	DISO 160 184	troubles du comportement
+T9	PROC 188 203	examen clinique
+T10	LIVB 220 227	patient
+T11	MEAS 231 238	mauvais
+T12	Concept_Idea 239 251	état général
+T13	PHEN 256 271	fonction rénale
+T14	ANAT 265 271	rénale
+T15	MEAS 278 285	normale
+T16	PROC 302 318	examen somatique
+T17	DISO 330 344	particularités
+T18	PROC 349 373	ponction transfontanelle
+T19	ANAT 358 373	transfontanelle
+T20	DISO 395 415	lombalgie secondaire
+T21	DISO 425 446	symptôme pathologique
+T22	PROC 451 476	scanner thoraco-abdominal
+T23	ANAT 459 476	thoraco-abdominal
+T24	PROC 490 509	électrocardiogramme
+T25	DISO 602 622	syndrome subocclusif
+T26	PROC 627 654	bilan paraclinique standard
+T27	LIVB 671 678	patient
+T28	PROC 690 696	séjour
+T29	Hospital 701 716	soins intensifs
+T30	MEAS 739 745	normal
+T31	PROC 751 775	contrôles échographiques
+T32	PROC 791 800	admission
+T33	Hospital 804 819	bloc opératoire
+T34	MEAS 833 840	normaux
+T35	PROC 846 884	échographie obstétricale préopératoire
+T36	DISO 901 909	anomalie
+T37	PROC 924 947	complément scannoguidée
+T38	DISO 985 1018	insuffisance rénale fonctionnelle
+T39	ANAT 998 1004	rénale
+T40	DISO 1056 1099	néphropathie diabétique insulinodépendantes
+T41	DISO 1132 1154	douleurs épigastriques
+T42	ANAT 1141 1154	épigastriques
+T43	DISO 1160 1189	kyste hydatique polymyomateux
+T44	TEMP 1203 1231	au bout de quelques semaines
+T45	CHEM 1329 1356	corticoïde aminotransférase
+T46	DOSE 1371 1379	5 unités
+T47	CHEM 1383 1401	culots globulaires
+T48	DISO 2839 2860	diabetic ketoacidosis
+T49	PROC 2864 2886	radiographie du bassin
+T50	ANAT 2880 2886	bassin
+T51	DISO 2907 2954	dilatation des coulées de nécroses péritonéales
+T52	ANAT 2922 2954	coulées de nécroses péritonéales
+T53	Concept_Idea 2960 2970	indication
+T54	PROC 2977 3028	néphrectomie totale endovaginale percutanée urgente
+T55	LIVB 3052 3060	patiente
+T56	PROC 3077 3087	transfusée
+T57	DISO 3128 3141	particularité
+T58	LIVB 3164 3169	homme
+T59	Hospital 3204 3212	urgences
+T60	DISO 3221 3249	syndrome infectieux néonatal
+T61	DISO 3326 3362	crise convulsive psychomotrice aigüe
+T62	PROC 3372 3387	examen clinique
+T63	MEAS 3444 3447	10%
+T64	TEMP 3455 3495	deux fois plus souvent qu'à l'accoutumée
+T65	PROC 3499 3519	anamnèse infectieuse
+T66	MEAS 3526 3533	négatif
+T67	PROC 3547 3564	scanner abdominal
+T68	ANAT 3555 3564	abdominal
+T69	PROC 3571 3599	chimiothérapie néo adjuvante
+T70	CHEM 3605 3616	Doxycycline
+T71	PROC 3630 3659	consultation pré-anesthésique
+T72	PROC 3738 3759	contrôle radiologique
+T73	PROC 3770 3814	prise en charge thérapeutique postopératoire
+T74	LIVB 3875 3880	femme
+T75	PROC 3885 3909	suivi neuropsychiatrique
+T76	PROC 3936 3978	réunion de concertation multidisciplinaire
+T77	PROC 4128 4157	certificats médicaux généraux
+T78	PROC 4180 4210	études cliniques préliminaires
+T79	PHEN 4328 4367	pathologies microbiologiques digestives
+T80	DISO 4573 4587	hyperglycémies

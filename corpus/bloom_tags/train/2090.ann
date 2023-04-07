@@ -1,0 +1,27 @@
+T1	LIVB 29 37	patiente
+T2	MEAS 85 97	particuliers
+T3	DISO 125 145	diabète hypertensive
+T4	DISO 151 174	hypertension artérielle
+T5	ANAT 164 174	artérielle
+T6	DISO 181 224	syndrome d'épanchement liquidien péritonéal
+T7	ANAT 204 224	liquidien péritonéal
+T8	TEMP 234 247	depuis 10 ans
+T9	PROC 253 271	traitement médical
+T10	CHEM 284 294	adrénaline
+T11	CHEM 298 308	furosémide
+T12	PHEN 331 352	contractions utérines
+T13	ANAT 344 352	utérines
+T14	PROC 417 423	suivis
+T15	PROC 482 511	extraction in utéro mécanique
+T16	PROC 517 534	colpo-rectalation
+T17	MEAS 756 762	1/10HZ
+T18	MEAS 777 783	rapide
+T19	MEAS 795 810	progressivement
+T20	Concept_Idea 814 828	force visuelle
+T21	DEVI 861 894	cathéter ovarien transoesophagien
+T23	LIVB 944 952	patiente
+T24	PROC 957 982	intervention chirurgicale
+T25	PROC 1001 1084	incision sus-claviculaire transverso-gastro-anesthésique biquotidienne endoscopique
+T27	PROC 1139 1161	tocolyse intraveineuse
+T28	MEAS 1176 1188	insuffisante
+T29	PROC 1209 1228	ponction ombilicale

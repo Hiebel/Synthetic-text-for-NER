@@ -1,0 +1,82 @@
+T1	LIVB 19 24	homme
+T2	Concept_Idea 45 56	antécédents
+T3	MEAS 57 69	particuliers
+T4	DISO 89 112	hypertension artérielle
+T5	ANAT 102 112	artérielle
+T6	TEMP 122 139	depuis trois mois
+T7	PROC 145 160	examen clinique
+T8	LIVB 164 171	patient
+T9	DISO 178 189	polypnéique
+T10	PHEN 198 203	pouls
+T11	MEAS 206 220	110 battements
+T12	TEMP 221 231	par minute
+T13	DISO 239 266	reflexes sphéno-thoraciques
+T14	ANAT 280 314	quadrant superhétéroduodénal droit
+T15	Localization 309 314	droit
+T16	PROC 319 345	tomodensitométrie standard
+T17	PROC 347 361	TDM) cérébrale
+T18	ANAT 352 361	cérébrale
+T19	DISO 396 422	masse tissulaire polylobée
+T20	MEAS 431 435	4 cm
+T21	Concept_Idea 439 448	grand axe
+T22	DISO 488 493	masse
+T23	MEAS 503 512	11 x 6 cm
+T24	DEVI 521 535	forme monobloc
+T25	DISO 565 584	niveau hydroaerique
+T26	DISO 594 616	anomalie morphologique
+T27	PROC 629 654	étude anatomopathologique
+T28	LIVB 675 690	dermatométriste
+T29	DISO 724 735	infectieuse
+T30	DISO 746 769	maladies inflammatoires
+T31	DISO 784 802	symptômes grippaux
+T32	CHEM 812 825	antipaludéens
+T33	DISO 853 866	complications
+T34	MEAS 887 900	spectaculaire
+T35	PROC 994 1010	bilan biologique
+T36	PROC 1030 1052	traitement substitutif
+T37	MEAS 1776 1783	simples
+T38	PROC 1789 1808	anesthésie générale
+T39	PROC 1822 1843	ventilation mécanique
+T40	Hospital 1853 1881	service de gastroentérologie
+T41	PROC 1903 1933	oxygénothérapie postopératoire
+T42	MODE 1939 1958	voie veineuse libre
+T43	PROC 2064 2125	consultation ophtalmologique multidisciplinaire préopératoire
+T44	PROC 2126 2129	ODG
+T45	Concept_Idea 2153 2171	état hémodynamique
+T46	MEAS 2177 2186	assez bon
+T47	Concept_Idea 2194 2215	résultat radiologique
+T48	PROC 2312 2342	scanner crânio-ophtalmologique
+T49	ANAT 2320 2342	crânio-ophtalmologique
+T50	DISO 2369 2394	tumeur œdémateuse lobulée
+T51	MEAS 2404 2417	9 centimètres
+T52	Concept_Idea 2421 2430	grand axe
+T53	PROC 2467 2476	injection
+T54	DOSE 2480 2486	100 ml
+T55	CHEM 2490 2516	produit de contraste iodée
+T56	PROC 2539 2590	laparotomie transoesophagienne scanno-guidelminaire
+T57	Concept_Idea 2601 2629	différents plans tensionnels
+T58	PROC 2648 2668	hystérectomie totale
+T59	Localization 2662 2668	totale
+T60	LIVB 2760 2768	patiente
+T61	DISO 2795 2869	processus tissulaire érythémateux du plexus brachial inférieur homolatéral
+T62	ANAT 2832 2869	plexus brachial inférieur homolatéral
+T63	Localization 2858 2869	homolatéral
+T64	DISO 2884 2958	adénopathies para papillomateuses pariéto-temporo-mandibulaires cervicales
+T65	ANAT 2897 2958	para papillomateuses pariéto-temporo-mandibulaires cervicales
+T66	DISO 2965 3020	splénomégalie ovalaire mandibulaire anéchogène kystique
+T67	DISO 3065 3083	foyers secondaires
+T68	PHEN 3131 3149	traitement médical
+T69	PROC 3242 3267	étude immunohistochimique
+T70	MEAS 3282 3300	fortement positive
+T71	PROC 3533 3561	contrôle cytobactériologique
+T72	MEAS 3568 3575	normale
+T73	PROC 3596 3642	antibiothérapies antibacillaires séquentielles
+T74	PROC 3650 3663	examen direct
+T75	LIVB 3801 3847	médecins masseurs kinésithérapeutes primitives
+T76	PROC 3853 3874	marqueurs biologiques
+T77	MEAS 3883 3890	négatif
+T78	PROC 3935 3956	leishmaniose fongique
+T79	MEAS 3963 3971	stade II
+T80	MEAS 4042 4060	18 fois la normale
+T81	PROC 4066 4087	cytologie sérologique
+T82	MEAS 4094 4124	inférieure à 100 cellules/mm 3

@@ -1,0 +1,29 @@
+T1	LIVB 29 37	patiente
+T2	DISO 73 101	lésions érythémato-violacées
+T3	ANAT 115 126	coude droit
+T4	Localization 121 126	droit
+T5	TEMP 136 150	depuis 10 mois
+T6	DISO 166 183	détresse visuelle
+T7	DISO 185 191	fièvre
+T8	MEAS 203 207	39°c
+T9	LIVB 220 224	elle
+T10	PROC 248 276	consultation ophtalmologique
+T11	MEAS 293 304	progressive
+T12	CHEM 310 344	anti-inflammatoires non stéroïdien
+T14	CHEM 350 361	propranolol
+T15	MODE 366 384	voie intraveineuse
+T16	CHEM 397 413	anti-tuberculeux
+T17	DOSE 549 558	0,5 mg/kg
+T18	TEMP 558 563	/jour
+T19	MODE 595 614	voie intra veineuse
+T20	DISO 669 707	syndrome d'épanchement péritonéal aigu
+T21	ANAT 692 707	péritonéal aigu
+T22	MEAS 717 725	20litres
+T23	PROC 742 772	traitement curatif chirurgical
+T24	PROC 789 800	observation
+T25	DISO 979 988	symptômes
+T26	PROC 1011 1033	recherche diagnostique
+T27	LIVB 1097 1108	jeune homme
+T28	TEMP 1116 1122	21 ans
+T29	PROC 1156 1188	traitement chimioradiothérapique
+T30	Hospital 1400 1414	santé publique

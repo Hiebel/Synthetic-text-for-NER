@@ -1,0 +1,40 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	DISO 47 70	consanguinité familiale
+T5	LIVB 83 88	notre
+T6	Hospital 89 96	service
+T7	DISO 128 154	nécrose du greffon cornéen
+T8	ANAT 139 154	greffon cornéen
+T9	TEMP 164 177	depuis 3 mois
+T10	DISO 193 199	fièvre
+T11	PROC 217 236	bilan immunologique
+T12	PROC 238 262	anticorps antinucléaires
+T13	MEAS 270 277	négatif
+T14	PROC 292 316	anticorps antinucléaires
+T15	MEAS 353 371	fortement positifs
+T16	PROC 384 406	anti DNA natifs direct
+T17	MEAS 413 420	positif
+T18	PROC 424 457	ponction rétinienne transfixiante
+T19	ANAT 433 457	rétinienne transfixiante
+T20	DEVI 470 478	matériel
+T21	DOSE 481 493	environ 50cc
+T22	MEAS 584 608	2000 éléments blancs/mm3
+T23	PROC 635 656	étude bactériologique
+T24	PROC 670 695	examen cytobactériolgique
+T25	CHEM 762 777	céphalosporines
+T26	CHEM 788 802	ciprofloxacine
+T27	DISO 919 948	lésions cutanées prurigineuse
+T28	LIVB 1018 1025	enfants
+T29	DISO 1047 1075	symptomatologie neurologique
+T30	PROC 1284 1307	radiothérapie adjuvante
+T31	PROC 1320 1338	traitement curatif
+T32	CHEM 1351 1362	Cyclosérine
+T33	CHEM 1364 1380	Benzaméthoxazole
+T34	CHEM 1382 1395	Métronidazole
+T35	CHEM 1397 1408	Ethionamide
+T36	CHEM 1410 1422	Pyrazinamide
+T37	CHEM 1424 1435	Ceftriaxone
+T38	CHEM 1437 1450	Triméthoprime
+T39	CHEM 1452 1466	Gentaméthasone
+T40	CHEM 1468 1481	Chlorhexidine
+T41	CHEM 1484 1494	Furosémide

@@ -1,0 +1,39 @@
+T1	PROC 2 23	bilan phosphocalcique
+T2	PROC 25 38	créatininémie
+T3	PROC 40 52	phosphorémie
+T4	PROC 54 66	hyponatrémie
+T5	PROC 70 90	taux de prothrombine
+T6	PROC 115 132	ponction lombaire
+T7	ANAT 124 132	lombaire
+T8	DISO 148 157	anomalies
+T9	PROC 171 190	hémoglobine glyquée
+T10	MEAS 193 201	0,3 g/dl
+T11	PROC 205 237	examen du membre supérieur droit
+T12	ANAT 215 237	membre supérieur droit
+T13	Localization 232 237	droit
+T14	DISO 265 271	signes
+T15	LIVB 291 297	malade
+T16	DISO 322 344	lésions neuro-cutanées
+T17	DISO 359 370	sensibilité
+T18	DISO 378 394	troubles visuels
+T19	DISO 421 445	syndrome polymalformatif
+T20	PROC 449 468	enquête étiologique
+T21	PROC 495 513	bilan radiologique
+T22	Concept_Idea 532 542	antécédent
+T23	DISO 568 602	diabète insulino-alcoolo-tabagique
+T24	CHEM 608 618	amlodipine
+T25	DISO 651 679	maladie auto-immune type IgA
+T26	TEMP 725 737	sixième mois
+T27	PROC 743 753	opératoire
+T28	PHEN 763 776	accouchements
+T29	LIVB 810 812	il
+T30	PROC 835 860	chimiothérapie palliative
+T31	PROC 874 904	radiothérapie adjuvante locale
+T32	PROC 920 948	corticothérapie concomitante
+T33	PROC 969 995	investigations biologiques
+T34	DISO 1009 1037	symptomatologie chirurgicale
+T35	LIVB 1083 1086	son
+T36	LIVB 1087 1094	patient
+T37	DISO 1099 1156	dysplasie épidermocytokératite interstitielle congénitale
+T38	DISO 1174 1193	hyperproteinorachie
+T39	LIVB 1343 1370	neuroleptiques pédiatriques

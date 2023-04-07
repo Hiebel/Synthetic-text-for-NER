@@ -1,0 +1,44 @@
+T1	LIVB 16 27	jeune fille
+T2	TEMP 31 37	16 ans
+T3	Concept_Idea 44 55	antécédents
+T4	MEAS 56 68	particuliers
+T5	TEMP 87 91	2013
+T6	DISO 96 119	hypertension artérielle
+T7	ANAT 109 119	artérielle
+T8	PROC 124 141	tomodensitométrie
+T9	PROC 143 174	TDM) thoraco-abdomino-pelvienne
+T10	ANAT 148 174	thoraco-abdomino-pelvienne
+T11	DISO 185 220	processus tissulaire du rein gauche
+T12	ANAT 209 220	rein gauche
+T13	Localization 214 220	gauche
+T14	MEAS 230 235	17 cm
+T15	Concept_Idea 239 248	grand axe
+T16	PROC 258 270	angiographie
+T17	Concept_Idea 279 294	caractéristique
+T18	PROC 302 313	échographie
+T19	Concept_Idea 327 337	paramètres
+T20	PROC 349 368	bilan préopératoire
+T21	PROC 373 399	scanner cervico-thoracique
+T22	ANAT 381 399	cervico-thoracique
+T23	DISO 430 466	niveaux hydroaériques intrakystiques
+T24	DEVI 511 520	appareils
+T25	PROC 526 554	chimiothérapie néo adjuvante
+T26	DISO 668 676	symptôme
+T27	MEAS 696 705	favorable
+T28	PROC 711 741	traitement médical substitutif
+T29	LIVB 770 775	notre
+T30	LIVB 776 784	patiente
+T31	LIVB 792 802	oncologues
+T32	PROC 829 876	néphrectomie endo-mandibulairectomie bilatérale
+T33	Localization 866 876	bilatérale
+T34	ANAT 889 929	segments crico-oesophagiens superficiels
+T35	ANAT 943 975	aires ganglionnaires thoraciques
+T36	PROC 1010 1047	réanimation neurochirurgie palliative
+T37	PROC 1060 1104	remplissage œso-gastro-entéro-nerveux cutané
+T38	ANAT 1072 1104	œso-gastro-entéro-nerveux cutané
+T39	PHEN 1126 1140	règles vitales
+T40	ANAT 1172 1204	nerf laryngé supérieur inférieur
+T41	Localization 1195 1204	inférieur
+T42	MEAS 1225 1232	simples
+T43	TEMP 1250 1260	8 semaines
+T44	PROC 1266 1289	opératoire chirurgicale

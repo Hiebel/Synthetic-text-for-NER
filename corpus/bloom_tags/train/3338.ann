@@ -1,0 +1,29 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	TEMP 91 95	2013
+T6	DISO 100 123	céphalées du côté droit
+T7	ANAT 113 123	côté droit
+T8	Localization 118 123	droit
+T9	DISO 139 153	déficit visuel
+T10	TEMP 163 179	depuis deux mois
+T11	PROC 185 194	admission
+T12	Hospital 199 207	urgences
+T13	LIVB 209 211	il
+T14	PHEN 222 241	pression artérielle
+T15	ANAT 231 241	artérielle
+T16	MEAS 254 265	110/70 mmhg
+T17	Concept_Idea 270 281	température
+T18	MEAS 290 294	37°C
+T19	PROC 299 320	auscultation pleurale
+T20	ANAT 312 320	pleurale
+T21	DEVI 348 371	sonde pleuro-pulmonaire
+T23	ANAT 385 400	liquide pleural
+T24	PROC 404 435	échographie abdomino- pelvienne
+T25	ANAT 416 435	abdomino- pelvienne
+T26	DISO 456 482	épanchement intrapleurique
+T27	ANAT 468 482	intrapleurique
+T28	PROC 490 508	touchers utéricaux
+T29	ANAT 499 508	utéricaux
+T30	MEAS 517 524	normaux

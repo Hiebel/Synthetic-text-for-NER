@@ -1,0 +1,53 @@
+T1	LIVB 23 30	patient
+T2	PROC 55 66	hospitalisé
+T3	Hospital 71 79	urgences
+T4	DISO 88 135	empyème épiploïque du paroi thoracique stade IV
+T6	ANAT 110 135	paroi thoracique stade IV
+T7	TEMP 145 158	depuis 3 mois
+T8	PROC 164 182	traitement curatif
+T9	CHEM 193 206	sulfasalazine
+T10	CHEM 208 221	cotrimoxazole
+T11	CHEM 223 235	pyrazinamide
+T12	CHEM 237 248	Ethionamide
+T13	CHEM 250 263	Triméthoprime
+T14	CHEM 265 276	Ceftriaxone
+T15	CHEM 278 284	Vit B6
+T16	CHEM 286 298	Pyrazinamide
+T17	CHEM 300 311	Cyclosérine
+T18	CHEM 313 326	Sulfamic acid
+T19	CHEM 328 337	Rifamylin
+T20	CHEM 339 354	Chloramphénicol
+T21	CHEM 356 367	Vinblastine
+T22	CHEM 369 378	Etoposide
+T23	CHEM 380 389	BEPHZ/4RH
+T24	CHEM 392 403	Epirubicine
+T25	DOSE 405 411	400 mg
+T26	TEMP 411 416	/mois
+T27	CHEM 419 430	Adriamycine
+T28	DOSE 432 438	250 mg
+T29	TEMP 438 443	/jour
+T30	CHEM 446 456	Tamoxifène
+T31	DOSE 458 464	100 mg
+T32	TEMP 464 466	/j
+T33	CHEM 469 481	Simvastatine
+T34	DOSE 483 488	40 mg
+T35	TEMP 488 507	toutes les 8 heures
+T36	CHEM 510 520	Paclitaxel
+T37	DOSE 522 528	200 mg
+T38	TEMP 528 545	tous les 21 jours
+T39	CHEM 548 559	Phosphamide
+T40	DOSE 561 566	25 mg
+T41	TEMP 566 568	/J
+T42	CHEM 571 581	Cobalamine
+T43	DOSE 583 589	500 mg
+T44	TEMP 589 610	 toutes les 24 heures
+T45	CHEM 613 626	Fluorouracile
+T46	DOSE 628 634	600 mg
+T47	TEMP 634 641	 / jour
+T48	CHEM 644 655	Naphazoline
+T49	DOSE 657 663	5mg/kg
+T50	TEMP 663 665	/h
+T51	CHEM 690 726	anti-inflammatoires non œstéroïdiens
+T52	PROC 731 756	intervention chirurgicale
+T53	PROC 775 798	splénectomie bilatérale
+T54	Localization 788 798	bilatérale

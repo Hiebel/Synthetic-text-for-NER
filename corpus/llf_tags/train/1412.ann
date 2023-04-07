@@ -1,0 +1,74 @@
+T1	LIVB 20 28	patiente
+T2	DISO 45 70	antécédents pathologiques
+T3	MEAS 71 83	particuliers
+T4	PROC 94 106	hospitalisée
+T5	Hospital 110 121	psychiatrie
+T6	DISO 131 166	tuméfaction du lobe supérieur droit
+T7	ANAT 146 166	lobe supérieur droit
+T8	Localization 161 166	droit
+T9	TEMP 176 189	depuis 3 mois
+T10	PROC 226 241	examen clinique
+T11	PROC 246 255	admission
+T12	LIVB 269 277	patiente
+T13	Concept_Idea 306 324	plan hémodynamique
+T14	PHEN 326 331	pouls
+T15	MEAS 334 348	105 battements
+T16	TEMP 349 359	par minute
+T17	DISO 377 399	symptômes psychotiques
+T18	CHEM 450 468	anti-inflammatoire
+T19	CHEM 474 500	sulfate de clobétasolamide
+T20	PROC 505 510	dilué
+T21	DEVI 519 533	neuroleptiques
+T22	PROC 554 566	intervention
+T23	PROC 571 600	prise en charge psychiatrique
+T24	PROC 642 693	traitements cognitivo-comportementaux diagnostiques
+T25	PROC 717 745	consultation préanesthésique
+T26	PROC 748 790	TOCADYLINE®+RESINFIGURAX® Rescue Inventory
+T27	PROC 793 819	traitement pharmacologique
+T28	CHEM 821 831	corticoïde
+T29	DOSE 839 842	2 g
+T30	CHEM 846 856	céfotaxime
+T31	CHEM 870 884	bêtalactamines
+T33	PROC 1565 1593	chimiothérapie néo adjuvante
+T34	PROC 1622 1646	radiothérapie palliative
+T35	PROC 1662 1710	thérapie neuroendocrine endoscopiquement adaptée
+T36	LIVB 1719 1729	nourrisson
+T37	TEMP 1739 1745	3 mois
+T38	PROC 1751 1775	contrôle radiothérapique
+T39	LIVB 1786 1792	enfant
+T40	TEMP 1800 1806	7 mois
+T41	PROC 1927 1933	suivie
+T42	LIVB 1946 1953	enfants
+T43	LIVB 2023 2041	famille paternelle
+T44	PROC 2081 2104	rééducation pédiatrique
+T45	LIVB 2223 2227	deux
+T46	LIVB 2228 2235	enfants
+T47	Concept_Idea 2362 2388	caractère socio-économique
+T48	Concept_Idea 2406 2426	relations parentales
+T49	PROC 2578 2601	examens complémentaires
+T50	TEMP 2782 2788	6 mois
+T51	LIVB 2848 2857	fille Z.Z
+T52	DISO 3090 3100	lombalgies
+T53	DISO 3109 3131	traumatisme du poignet
+T54	ANAT 3124 3131	poignet
+T55	DISO 3147 3168	souffrance maternelle
+T56	DISO 3175 3197	consanguinité primaire
+T57	MEAS 3240 3264	environ cinq centimètres
+T58	DISO 3268 3289	décharges électriques
+T59	DISO 3311 3336	sensations psychomotrices
+T60	PHEN 3356 3365	grossesse
+T61	PROC 3369 3384	examen clinique
+T62	MEAS 3501 3507	15/8cm
+T63	MEAS 3550 3554	5 cm
+T65	MEAS 3596 3619	2 Kgramme Grammes UI /L
+T66	ANAT 3649 3678	fosse inféro-inférieure droit
+T67	Localization 3673 3678	droit
+T68	MEAS 3690 3700	rapidement
+T69	Concept_Idea 3704 3713	grand axe
+T70	PROC 3912 3931	traversée digestive
+T71	PROC 3937 3950	bronchoscopie
+T72	DISO 3992 4035	perforation tissulaire hypodense hétérogène
+T73	ANAT 4051 4298	membranes alvéolo-diaphragmatiques basithoraciques intraparenchymateuses lobulée rétromamelonnaire axillaire inférieur inferieur fémoro-mandibulaire controlatérale postéro mandibulaire supérieure postérieur apicale inférieure sus pubiennes gauches
+T75	DISO 4400 4426	remaniements hydroaériques
+T76	DISO 4449 4486	zones charnues érythémato-spongieuses
+T77	DEVI 4537 4586	expectorations artificielles anictériques simples

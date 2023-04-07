@@ -1,0 +1,39 @@
+T1	LIVB 19 24	homme
+T2	Concept_Idea 41 52	antécédents
+T3	MEAS 53 65	particuliers
+T4	PROC 67 72	admis
+T5	Hospital 76 83	urgence
+T6	Hospital 88 110	urgences chirurgicales
+T7	DISO 120 148	douleurs abdomino-pelviennes
+T8	ANAT 129 148	abdomino-pelviennes
+T9	MEAS 163 174	progressive
+T10	DISO 191 197	nausée
+T11	DISO 204 221	ictère généralisé
+T12	TEMP 231 245	depuis 2 jours
+T13	PROC 249 264	examen clinique
+T14	DISO 287 293	fièvre
+T15	MEAS 305 309	40°C
+T16	DISO 323 344	signes inflammatoires
+T17	DISO 370 392	épanchement péritonéal
+T18	ANAT 382 392	péritonéal
+T19	PROC 398 414	bilan biologique
+T20	PHEN 432 447	fonction rénale
+T21	ANAT 441 447	rénale
+T22	MEAS 448 455	modérée
+T23	PROC 465 482	natrémie corrigée
+T24	MEAS 485 494	126 meq/l
+T25	PROC 508 526	ionogramme sanguin
+T26	ANAT 519 526	sanguin
+T27	DISO 565 601	hyperkaliémie hypocholestérolémiante
+T28	PROC 606 641	tomodensitométrie abdominopelvienne
+T29	ANAT 624 641	abdominopelvienne
+T30	DISO 655 693	lésion tissulaire hétérogène hypodense
+T31	ANAT 707 736	quadrant supéro-latéral droit
+T32	Localization 731 736	droit
+T33	MEAS 746 751	24 cm
+T34	Concept_Idea 755 769	grand diamètre
+T35	ANAT 785 815	parenchyme hépatique splénique
+T36	PROC 835 844	injection
+T37	DOSE 848 852	3 ml
+T38	CHEM 856 867	propranolol
+T39	ANAT 888 911	anses iléales jéjunales

@@ -1,0 +1,44 @@
+T1	LIVB 29 34	femme
+T2	MEAS 82 94	particuliers
+T3	DISO 112 131	syndrome infectieux
+T4	DISO 137 164	hyperparathyroïdie primaire
+T5	PROC 170 179	admission
+T6	Hospital 183 203	service des urgences
+T7	Hospital 207 227	CHU Hassan II de Fès
+T8	LIVB 229 233	nous
+T9	LIVB 251 259	patiente
+T10	Concept_Idea 284 302	plan hémodynamique
+T11	DISO 318 334	troubles visuels
+T12	LIVB 365 369	Nous
+T13	DISO 390 396	fièvre
+T14	MEAS 399 403	39°C
+T15	DISO 419 459	sensibilité thoracique supérieure droite
+T16	ANAT 431 459	thoracique supérieure droite
+T17	Localization 453 459	droite
+T18	MEAS 475 490	progressivement
+T19	Concept_Idea 494 500	volume
+T20	TEMP 510 526	depuis deux mois
+T21	DISO 545 560	symptomatologie
+T22	MEAS 572 587	progressivement
+T23	Concept_Idea 591 597	volume
+T24	MEAS 607 612	21 cm
+T25	Concept_Idea 616 625	grand axe
+T26	DISO 638 665	lésions nodulaires ulcérées
+T27	DISO 705 740	lignes érythémateuses prurigineuses
+T28	DISO 763 775	métrorragies
+T29	MEAS 788 801	plus marquées
+T30	Concept_Idea 812 820	contours
+T31	DISO 851 865	granulomateuse
+T32	DISO 869 881	prurigineuse
+T33	PROC 885 900	examen clinique
+T34	LIVB 914 922	patiente
+T35	ANAT 953 982	intrapéritonéal périsplénique
+T36	ANAT 1014 1027	tube digestif
+T37	DISO 1050 1084	douleur épigastrique hypogastrique
+T38	ANAT 1058 1084	épigastrique hypogastrique
+T39	DISO 1115 1136	signes gynécologiques
+T40	PROC 1161 1179	examen obstétrical
+T41	DISO 1209 1218	anomalies
+T42	DISO 1243 1260	sténose pelvienne
+T43	ANAT 1251 1260	pelvienne
+T44	DEVI 1284 1294	électrique

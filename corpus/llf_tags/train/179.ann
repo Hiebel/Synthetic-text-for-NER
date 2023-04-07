@@ -1,0 +1,45 @@
+T1	LIVB 16 27	jeune fille
+T2	TEMP 31 37	16 ans
+T3	DISO 44 69	antécédents pathologiques
+T4	MEAS 70 78	notoires
+T5	PROC 83 95	consultation
+T6	Hospital 99 119	service des urgences
+T7	Concept_Idea 124 127	âge
+T8	DISO 147 167	masse du fémur droit
+T9	ANAT 156 167	fémur droit
+T10	Localization 162 167	droit
+T11	MEAS 179 194	progressivement
+T12	Concept_Idea 198 204	volume
+T13	ANAT 231 243	cuir chevelu
+T14	DISO 263 279	syndrome méningé
+T15	DISO 297 324	symptomatologie traumatique
+T16	LIVB 386 391	fille
+T17	PROC 400 423	sérologies infectieuses
+T18	MEAS 442 451	positives
+T19	PROC 534 556	traitement chirurgical
+T20	PROC 573 603	radio-chimiothérapie adjuvante
+T21	PROC 711 732	biopsie scanno-guidée
+T22	PROC 765 791	étude immuno-histochimique
+T23	PROC 804 822	analyse secondaire
+T24	PROC 827 844	bilan étiologique
+T25	PROC 857 874	scanner abdominal
+T26	ANAT 865 874	abdominal
+T27	PHEN 907 922	fonction rénale
+T28	ANAT 916 922	rénale
+T29	MEAS 923 931	correcte
+T30	DISO 952 996	néphropathie acromégalomateuse inflammatoire
+T31	DISO 1002 1014	rhinofibrose
+T32	DISO 1036 1078	perforation urétéro-muqueuse hypogastrique
+T33	DISO 1110 1126	immunocompétente
+T34	DISO 1142 1160	neuropsychiatrique
+T35	MEAS 1197 1207	favorables
+T36	LIVB 1217 1225	Pédiatre
+T37	PROC 1252 1265	antibiogramme
+T38	PROC 1278 1321	glycémie normocytaire sériques probabiliste
+T39	DISO 1374 1401	hyperbilirubinémie polylobé
+T40	MEAS 1417 1432	progressivement
+T42	Concept_Idea 1460 1479	aspect histologique
+T43	DISO 1555 1580	stress foeto-oesophagiens
+T44	DISO 1595 1625	caractères sexuels secondaires
+T45	LIVB 1976 1982	garçon
+T46	TEMP 1990 1996	10 ans

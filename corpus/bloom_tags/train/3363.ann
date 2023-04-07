@@ -1,0 +1,43 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 42 48	12 ans
+T3	PROC 71 94	radiothérapie adjuvante
+T4	DOSE 96 101	60 Gy
+T5	ANAT 111 133	parois latéro-utérines
+T6	ANAT 139 151	ovaire droit
+T7	Localization 146 151	droit
+T8	PROC 164 197	traitement médical antibacillaire
+T9	CHEM 210 241	amoxicilline-acide clavulanique
+T10	PHEN 246 261	cycle menstruel
+T11	DISO 304 319	ménométrorrhées
+T12	MEAS 335 341	brutal
+T13	LIVB 365 370	fille
+T14	DISO 411 431	infertilité primaire
+T15	DISO 438 457	retard psychomoteur
+T16	DISO 470 499	symptômes neuropsychiatriques
+T17	PROC 525 552	analyse anatomopathologique
+T18	DISO 571 633	adénocarcinome érythémateux kystique nodulaire hypochromophobe
+T19	ANAT 665 683	membres inférieurs
+T20	DISO 734 760	métanéphrine hyporachidiée
+T21	DISO 768 789	tuberculose pelvienne
+T22	ANAT 780 789	pelvienne
+T23	DISO 795 828	prolapsure placenta-maternellaire
+T24	ANAT 806 828	placenta-maternellaire
+T25	DISO 846 870	hypertrophie péritonéale
+T26	ANAT 859 870	péritonéale
+T27	ANAT 900 922	interstitielle utérine
+T28	DISO 940 955	kyste hydatique
+T29	DISO 1109 1147	syndrome pseudo-radiculonévrotropiciel
+T30	DISO 1213 1227	résidu tumoral
+T31	PROC 1245 1279	curage ganglionnaire transfixiante
+T32	ANAT 1252 1279	ganglionnaire transfixiante
+T33	Hospital 1324 1336	envisageable
+T34	DISO 1351 1367	maladie cœliaque
+T35	DISO 1486 1525	localisations secondaires métastatiques
+T36	PROC 1621 1648	chimiothérapie substitutive
+T37	DISO 1715 1748	complication néopléo-nécrolytique
+T38	DISO 1811 1825	prise de poids
+T39	MEAS 1837 1842	15 kg
+T40	DISO 2008 2028	nécrose pathogênique
+T41	DEVI 2047 2066	broches électriques
+T42	TEMP 2192 2198	12 ans
+T43	ANAT 2247 2259	sous-vaginal

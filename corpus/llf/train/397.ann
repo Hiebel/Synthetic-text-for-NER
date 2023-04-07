@@ -1,0 +1,12 @@
+T1	DISO 51 79	symptomatologie
+T2	ANAT 67 79	neurologique
+T3	DISO 87 111	troubles
+T4	DISO 135 159	désorientation
+T5	Concept_Idea 185 190	temps
+T6	DISO 208 215	trouble
+T7	MEAS 217 224	Table
+T8	LIVB 230 237	patient
+T9	Concept_Idea 247 254	réponse
+T10	MEAS 255 264	partielle
+T11	MEAS 271 272	5
+T12	PROC 273 303	séances

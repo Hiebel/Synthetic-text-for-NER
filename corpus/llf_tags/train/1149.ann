@@ -1,0 +1,74 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 57	antécédents
+T3	MEAS 58 70	particuliers
+T4	PROC 81 87	admise
+T5	Hospital 92 100	urgences
+T6	DISO 109 152	syndrome douloureux aigu du plexus brachial
+T7	ANAT 137 152	plexus brachial
+T8	TEMP 162 179	depuis deux jours
+T9	PROC 185 200	examen clinique
+T10	LIVB 205 213	patiente
+T11	MEAS 223 230	mauvais
+T12	Concept_Idea 231 243	état général
+T13	PROC 253 263	inspection
+T14	DISO 268 291	distension respiratoire
+T15	PHEN 279 291	respiratoire
+T16	PROC 322 337	examen physique
+T17	DISO 349 362	particularité
+T18	PROC 367 406	tomodensitométrie par cohérence optique
+T19	PROC 408 428	TDM) cervico-dorsale
+T20	ANAT 413 428	cervico-dorsale
+T21	DISO 449 534	microcalcifications pariéto-occipitales temporales péribronchovasculaires secondaires
+T22	DISO 547 624	hématome sous dural postéro-sternal controlatéral postérieur bilatéral droite
+T23	Localization 608 624	bilatéral droite
+T24	MEAS 648 653	12 cm
+T25	MEAS 657 661	9 mm
+T26	ANAT 675 703	nerf laryngé supérieur droit
+T27	Localization 698 703	droit
+T28	PROC 707 718	échographie
+T29	DISO 744 760	signe infectieux
+T30	DISO 785 806	anomalie histologique
+T31	PROC 820 865	scanner thoraco- abdomino-réno-gastro-pelvien
+T32	ANAT 828 865	thoraco- abdomino-réno-gastro-pelvien
+T33	PROC 880 900	transfusion sanguine
+T34	MEAS 921 932	particulier
+T35	DISO 950 995	lésion tissulaire liquidienne périnopératoire
+T36	DISO 1006 1031	localisations secondaires
+T37	PROC 1047 1083	néphrectomie exploratrice percutanée
+T38	PROC 1111 1148	angioplastie totale scanno-diagnostic
+T39	MEAS 1185 1192	simples
+T40	DISO 1212 1297	métastase carotido-mandibulaire mésentérique congénitale endoluminale rénale fundique
+T41	ANAT 1222 1297	carotido-mandibulaire mésentérique congénitale endoluminale rénale fundique
+T42	ANAT 1317 1357	symphyse thyroïdienne intracytoplasmique
+T43	ANAT 1376 1413	lambeau œso-gastro-vaginal thoracique
+T44	PROC 1417 1442	étude anatomopathologique
+T45	DISO 1458 1509	processus tumoral néoplasique carcinomateux maligne
+T46	ANAT 1531 1588	parties molles cervicales para vertébrales superficielles
+T47	MEAS 1598 1602	16mm
+T48	Concept_Idea 1606 1615	grand axe
+T49	ANAT 1646 1693	noyaux superfluorescents antalgiques axillaires
+T50	ANAT 1716 1751	surface cricoïdienne supéro-externe
+T51	LIVB 1864 1872	patiente
+T52	PROC 1877 1907	complément immunohistochimique
+T53	PHEN 3089 3106	fonctions vitales
+T54	DISO 3130 3145	pneumopéritoine
+T55	MEAS 3177 3185	450 mg/L
+T56	DISO 3199 3225	signes neuropsychiatriques
+T57	DISO 3252 3271	syndrome infectieux
+T58	DISO 3281 3302	anomalies vasculaires
+T59	MEAS 3323 3333	favorables
+T60	LIVB 3342 3352	nouveau-né
+T61	Hospital 3387 3408	urgences pédiatriques
+T62	TEMP 3412 3427	post opératoire
+T63	PROC 3417 3427	opératoire
+T64	DISO 3447 3465	dysphagie profonde
+T65	DISO 3483 3512	distension abdomino-pelvienne
+T66	ANAT 3494 3512	abdomino-pelvienne
+T67	DISO 3529 3549	traumatisme corporel
+T68	PROC 3579 3597	séjour hospitalier
+T69	Hospital 3601 3616	bloc opératoire
+T70	PROC 3622 3672	corticothérapie sédative intraveineuse parentérale
+T71	CHEM 3678 3694	Thalidomidegram®
+T72	DOSE 3697 3698	5
+T73	CHEM 3699 3712	antipaludéens
+T74	PROC 3726 3768	prise en charge thérapeutique orthopédique

@@ -1,0 +1,28 @@
+T1	LIVB 3 10	patient
+T2	DISO 27 52	antécédents pathologiques
+T3	MEAS 53 61	notables
+T4	PROC 63 73	consultait
+T5	Hospital 78 86	urgences
+T6	DISO 95 139	syndrome d'épanchement péricardique purulent
+T7	ANAT 118 130	péricardique
+T8	TEMP 149 167	depuis trois jours
+T9	PROC 173 188	examen clinique
+T10	LIVB 192 199	patient
+T11	DISO 215 243	dyspnée stade III de la NYHA
+T12	PHEN 253 264	perceptions
+T13	MEAS 265 276	imprenables
+T14	ANAT 290 312	champ pulmonaire droit
+T15	Localization 307 312	droit
+T16	PROC 316 347	échographie abdomino- pelvienne
+T17	ANAT 328 347	abdomino- pelvienne
+T19	ANAT 441 447	pelvis
+T20	DISO 463 498	adénocarcinome péritonéal kystéoïde
+T21	Concept_Idea 508 515	limites
+T22	MEAS 524 534	régulières
+T23	MEAS 547 552	46 cm
+T24	Concept_Idea 556 565	grand axe
+T25	MEAS 570 575	22 cm
+T26	Concept_Idea 579 588	petit axe
+T27	Concept_Idea 591 597	aspect
+T28	MEAS 598 608	hétérogène
+T29	DISO 639 675	paroi abdominopélvienne épigastrique

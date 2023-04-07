@@ -1,0 +1,47 @@
+T1	DISO 28 53	antécédents pathologiques
+T2	MEAS 54 62	notoires
+T3	Hospital 83 91	urgences
+T4	DISO 101 110	dysphagie
+T5	TEMP 120 139	depuis quatre jours
+T6	PHEN 148 162	endormissement
+T7	DISO 178 207	perturbations tonicocloniques
+T8	Concept_Idea 243 255	état général
+T9	DISO 269 275	fièvre
+T10	MEAS 287 293	39 ° C
+T11	Concept_Idea 347 370	état neuropsychiatrique
+T12	LIVB 408 418	nourrisson
+T13	Concept_Idea 429 449	paramètres cliniques
+T14	LIVB 470 477	jumeaux
+T15	PROC 502 508	séjour
+T16	PROC 512 527	examen clinique
+T17	DISO 549 577	signes clinico-radiologiques
+T18	DISO 603 625	anomalie morphologique
+T19	PROC 660 685	bilan préchimiothérapique
+T20	PROC 690 718	TDM thoraco-abdomino-pelvien
+T21	ANAT 694 718	thoraco-abdomino-pelvien
+T22	DISO 737 758	adénopathophagomancie
+T23	DISO 788 840	hyperplasie épileptogène crico-rénalvéolaire myxoide
+T24	ANAT 854 881	veine cave supéro-hépatique
+T25	Localization 865 881	supéro-hépatique
+T26	MEAS 891 895	2 cm
+T27	Concept_Idea 899 908	grand axe
+T28	TEMP 933 958	au bout de trois semaines
+T29	MEAS 996 1011	progressivement
+T30	Concept_Idea 1036 1052	caractéristiques
+T31	PROC 1058 1083	étude immunohistochimique
+T32	DEVI 2325 2365	produit lithothermique haute performance
+T33	PROC 2380 2418	prélèvement laryngé substitutif simple
+T34	PROC 2468 2499	bilan étiologique préopératoire
+T35	DISO 2561 2584	crises tonico-cloniques
+T36	LIVB 2622 2631	patientes
+T37	Concept_Idea 2645 2655	indication
+T38	TEMP 2686 2692	2 mois
+T39	PROC 2718 2747	chimiothérapie postopératoire
+T40	CHEM 2749 2780	amoxicilline+acide clavulanique
+T41	PHEN 2786 2799	cicatrisation
+T42	MEAS 2808 2812	deux
+T43	ANAT 2813 2817	yeux
+T44	PROC 2856 2905	prise en charge neuropsychiatrique individualisée
+T45	PROC 2919 2950	rééducation psychothérapeutique
+T46	DISO 2969 3004	symptomatologie psychiatrique aigüe
+T47	PROC 3031 3055	grossesse extraconjugale

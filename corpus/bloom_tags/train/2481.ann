@@ -1,0 +1,37 @@
+T1	LIVB 29 37	patiente
+T2	DISO 91 107	épisodes fébrile
+T3	DISO 137 163	déficit sensitivomotricité
+T4	LIVB 247 255	patiente
+T5	LIVB 338 342	elle
+T6	DISO 366 377	traumatisme
+T7	DISO 387 411	médication neuroleptique
+T8	CHEM 475 499	méthyle-citrométhyl-dopa
+T9	LIVB 538 544	enfant
+T10	DISO 580 605	symptômes neurosensoriels
+T11	DISO 608 627	polypnésie primaire
+T12	DISO 663 686	sueurs hypoglycémiantes
+T13	MEAS 714 731	100/70 cycles/min
+T14	TEMP 790 810	au premier trimestre
+T15	DISO 866 895	symptômes neuropsychiatriques
+T16	DISO 897 917	vomissements bilieux
+T17	MEAS 930 941	progressive
+T18	CHEM 976 1007	amoxicilline-acide clavulanique
+T19	ANAT 1291 1305	corps physique
+T20	MEAS 1337 1351	bradycardiaque
+T21	DISO 1361 1396	crises convulsives tonico-cloniques
+T22	ANAT 1467 1492	parties molles cervicales
+T23	DISO 1509 1521	palpitations
+T24	MEAS 1536 1550	supra-nocturne
+T25	MEAS 1562 1578	de façon brutale
+T26	Concept_Idea 1582 1588	volume
+T27	DISO 1640 1649	céphalées
+T28	LIVB 1739 1743	elle
+T29	PROC 1814 1850	tentative thérapeutique chirurgicale
+T30	TEMP 1933 1939	20 ans
+T31	PROC 1974 2002	chimiothérapie néo adjuvante
+T32	PROC 2008 2030	cisplatine métasulfone
+T33	DOSE 2032 2038	1mg/m²
+T34	CHEM 2053 2062	Etoposide
+T36	ANAT 2134 2143	liquidien
+T37	DISO 2165 2186	atteinte neurologique
+T38	DISO 2210 2222	hyperthermie

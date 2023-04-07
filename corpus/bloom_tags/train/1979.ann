@@ -1,0 +1,29 @@
+T1	LIVB 27 33	enfant
+T2	TEMP 37 42	6 ans
+T3	DISO 58 75	contage bilatéral
+T4	Localization 66 75	bilatéral
+T5	DISO 82 107	syndrome myélodysplagique
+T6	TEMP 117 133	depuis deux mois
+T7	PROC 138 182	tomodensitométrie thoraco-abdomino-pelvienne
+T8	ANAT 156 182	thoraco-abdomino-pelvienne
+T9	DISO 202 253	épanchement intrapéritonéal latéro-thoracique droit
+T10	ANAT 214 253	intrapéritonéal latéro-thoracique droit
+T11	Localization 248 253	droit
+T12	MEAS 263 268	29 cm
+T13	Concept_Idea 272 281	grand axe
+T14	MEAS 286 291	21 cm
+T15	Concept_Idea 295 304	petit axe
+T16	DISO 327 357	pancréatite fistulisée maligne
+T17	DISO 378 415	nodules parathyroïdiens métastasiques
+T18	ANAT 386 415	parathyroïdiens métastasiques
+T19	MEAS 433 441	résignés
+T20	PROC 448 475	traitement médical adjuvant
+T21	DISO 488 541	épanchement tissulaire périthoracique supérieur droit
+T22	ANAT 500 541	tissulaire périthoracique supérieur droit
+T23	Localization 536 541	droit
+T24	ANAT 562 600	secteur laryngéo-bryopharyngo-tracheal
+T25	DISO 633 662	métastase thyro-épiploïdienne
+T26	ANAT 643 662	thyro-épiploïdienne
+T27	DISO 685 757	adénopathies médiastinales cervico-rachidiennes basithoraciques altérées
+T29	PROC 808 832	anesthésie locorégionale
+T30	PROC 858 883	étude anatomopathologique

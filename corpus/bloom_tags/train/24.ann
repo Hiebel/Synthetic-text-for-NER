@@ -1,0 +1,35 @@
+T1	LIVB 19 25	garçon
+T2	TEMP 29 35	13 ans
+T3	MEAS 67 79	particuliers
+T4	PHEN 109 132	agitation psychomotrice
+T5	DISO 149 169	prise médicamenteuse
+T6	DISO 175 194	épisodes convulsifs
+T7	DISO 200 209	dysphagie
+T8	MEAS 224 230	rapide
+T9	TEMP 240 258	dans les 24 heures
+T10	LIVB 265 267	sa
+T11	PROC 268 280	consultation
+T12	Hospital 284 304	bloc ophtalmologique
+T13	PROC 309 339	bilan biologique préopératoire
+T14	DISO 356 372	hyperleucocytose
+T15	MEAS 405 414	14800/mm3
+T16	CHEM 416 435	Protéine-C Réactive
+T17	MEAS 448 457	7560 UI/l
+T18	PROC 462 497	intradermoréaction à la tuberculine
+T19	DOSE 486 497	tuberculine
+T20	MEAS 504 521	fortement positif
+T21	MEAS 524 542	15 fois la normale
+T22	DEVI 547 569	récepteurs tuberculeux
+T23	MEAS 572 578	1/1600
+T24	MEAS 582 588	1/6480
+T25	PROC 634 653	protéine C-réactive
+T26	MEAS 665 674	1630 UI/l
+T27	PROC 680 716	tomodensitométrie abdomino-pelvienne
+T28	ANAT 698 716	abdomino-pelvienne
+T29	DISO 730 824	hernie diaphragmatique supra-utérine infro-thoracique intrarachidienne médiastinale bilatérale
+T31	Localization 753 758	supra
+T32	Localization 814 824	bilatérale
+T35	Localization 892 895	sus
+T36	Localization 932 936	sous
+T37	ANAT 1087 1111	artère pulmonaire gauche
+T38	Localization 1105 1111	gauche

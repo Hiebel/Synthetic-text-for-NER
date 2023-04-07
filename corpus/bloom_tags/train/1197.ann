@@ -1,0 +1,52 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 73	notables
+T4	PROC 77 92	examen clinique
+T5	PROC 97 106	admission
+T6	Concept_Idea 120 131	température
+T7	MEAS 134 138	37°C
+T8	PHEN 145 161	tonus artérielle
+T9	ANAT 151 161	artérielle
+T10	MEAS 173 183	90/60 mmHg
+T11	LIVB 185 187	Il
+T12	DISO 194 205	polypnéique
+T13	DISO 207 217	tachycarde
+T14	TEMP 220 234	110 battements
+T15	TEMP 235 245	par minute
+T16	PROC 252 306	palpation des aires ganglionnaires cervico-bronchiques
+T17	ANAT 266 306	aires ganglionnaires cervico-bronchiques
+T18	ANAT 330 362	sinus maxillaire inférieur droit
+T19	Localization 357 362	droit
+T20	DISO 378 402	masse tissulaire ulcérée
+T21	MEAS 412 417	12 cm
+T22	MEAS 422 427	10 cm
+T23	Concept_Idea 430 436	aspect
+T24	MEAS 437 451	blanc grisâtre
+T25	DISO 485 526	neuroendocrine plexidermie granulomateuse
+T26	DISO 581 626	syndrome d'épanchement liquide péribronchique
+T27	ANAT 604 626	liquide péribronchique
+T28	CHEM 631 651	produit de contraste
+T29	MEAS 656 673	fortement positif
+T30	ANAT 690 721	épiploons latéro-métacarpiennes
+T31	MEAS 738 746	négativé
+T32	ANAT 763 811	muscles para-diaphysaires métacarpo-phalangienne
+T33	Concept_Idea 863 874	consistance
+T34	MEAS 881 891	hétérogène
+T35	DISO 910 931	signes inflammatoires
+T36	DISO 958 971	craniosténose
+T37	DISO 984 1008	troubles neurorésistants
+T38	DISO 1028 1040	neurofibrome
+T39	ANAT 1073 1105	sous-articulations phalangiennes
+T40	DISO 1166 1191	déficit sensitivomotrices
+T41	PROC 1194 1224	échographie abdomino-pelvienne
+T42	ANAT 1206 1224	abdomino-pelvienne
+T43	DISO 1248 1257	anomalies
+T44	MEAS 1291 1298	normale
+T45	PROC 1305 1330	injection intramusculaire
+T46	DOSE 1334 1340	0,5 mg
+T47	CHEM 1344 1364	produit de contraste
+T48	LIVB 1491 1499	patiente
+T49	CHEM 1531 1542	nicardipril
+T50	CHEM 1549 1564	benzodiazepines
+T51	TEMP 1581 1587	16 ans
+T52	MEAS 1627 1641	significatives

@@ -1,0 +1,25 @@
+T1	LIVB 29 37	patiente
+T2	DISO 56 89	syndrome d'épanchement péritonéal
+T3	ANAT 79 89	péritonéal
+T4	DISO 107 127	sténose iléo-caecale
+T5	ANAT 115 127	iléo-caecale
+T6	TEMP 137 150	depuis 3 mois
+T7	PHEN 165 177	accouchement
+T8	PROC 221 251	bilan biologique préopératoire
+T9	PROC 264 282	ionogramme sanguin
+T10	ANAT 275 282	sanguin
+T11	DISO 309 335	malformations congénitales
+T12	DISO 341 362	atteinte neurologique
+T13	LIVB 371 378	famille
+T14	Hospital 458 483	urgences ophtalmologiques
+T15	PROC 505 533	prise en charge chirurgicale
+T16	DISO 572 585	complications
+T17	DISO 597 619	traumatisme ischémique
+T18	CHEM 667 681	hydrocortisone
+T19	DEVI 696 730	médicament anesthésique artificiel
+T20	PROC 921 944	scanner abdominopelvien
+T21	ANAT 929 944	abdominopelvien
+T22	DISO 958 1036	thrombose iléo-iléo-colique infarcto-lésionnelle angiographiquement hyperdense
+T24	ANAT 1066 1092	grosses cavités ovariennes
+T25	ANAT 1113 1132	membranes grêliques
+T26	ANAT 1152 1178	parois latérales vaginales

@@ -1,0 +1,21 @@
+T1	PROC 4 47	radiographies de l'abdomen sans préparation
+T2	ANAT 23 30	abdomen
+T3	DISO 76 88	adénopathies
+T4	PROC 93 120	tomodensitométrie du bassin
+T5	ANAT 114 120	bassin
+T6	DISO 136 156	niveau hydro-aérique
+T7	MEAS 166 174	discrète
+T8	DISO 175 221	dilatation des voies biliaires intrahépatiques
+T9	ANAT 190 221	voies biliaires intrahépatiques
+T10	ANAT 239 249	foie droit
+T11	Localization 244 249	droit
+T12	ANAT 256 277	veine cave supérieure
+T13	Localization 267 277	supérieure
+T14	Concept_Idea 281 291	indication
+T15	PROC 297 319	remplissage vasculaire
+T16	ANAT 309 319	vasculaire
+T17	LIVB 352 363	chirurgiens
+T18	PROC 368 390	traitement chirurgical
+T19	TEMP 407 415	six mois
+T20	LIVB 471 479	patients
+T21	PROC 494 523	séances de rééducation active

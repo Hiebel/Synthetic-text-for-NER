@@ -1,0 +1,45 @@
+T1	LIVB 3 10	patient
+T2	PROC 31 36	admis
+T3	Hospital 41 49	urgences
+T4	DISO 68 102	hémiplégie cérébelleuse ischémique
+T5	TEMP 112 128	depuis 24 heures
+T6	DISO 144 165	céphalées fébrileuses
+T7	DISO 225 247	symptômes oculomoteurs
+T8	DISO 265 290	troubles sensitivo-moteur
+T9	DISO 301 321	signes neurorétinien
+T10	DISO 346 383	hypotension artérielle intracrânienne
+T11	ANAT 358 383	artérielle intracrânienne
+T12	MEAS 394 406	90/105 mm Hg
+T13	PROC 427 433	trajet
+T14	PROC 439 457	anesthésie globale
+T15	DOSE 462 469	2 mg/kg
+T16	CHEM 473 482	lidocaïne
+T17	MODE 499 509	voie orale
+T18	DEVI 571 590	sonde naso-laryngée
+T20	PROC 630 665	ponction liquide céphalo-rachidiens
+T21	ANAT 639 665	liquide céphalo-rachidiens
+T22	MEAS 679 690	insuffisant
+T23	DISO 722 743	détresse respiratoire
+T24	PHEN 731 743	respiratoire
+T25	MEAS 758 769	progressive
+T26	MEAS 779 788	difficile
+T27	DISO 854 885	crises convulsives hypertensive
+T28	DISO 930 960	désorientation temporospatiale
+T29	DISO 1012 1037	réflexes sensitivomoteurs
+T30	LIVB 1205 1211	enfant
+T31	DISO 1283 1311	traumatisme cervico-vaginale
+T32	ANAT 1295 1311	cervico-vaginale
+T33	DISO 1357 1380	acromégalie congénitale
+T34	DISO 1416 1437	bradycardie néonatale
+T35	ANAT 1465 1479	basithoracique
+T36	MEAS 1606 1611	3075g
+T37	MEAS 1615 1620	2980g
+T38	PROC 1687 1712	hospitalisation prénatale
+T39	PROC 1729 1751	consultation prénatale
+T40	PROC 1861 1904	recherche vaccinale anti-pneumo-nocionnelle
+T41	PROC 2005 2026	colpo-écho-thoracique
+T42	PROC 2403 2441	intervention chirurgicale endoscopique
+T43	PROC 2442 2447	EEGCT
+T44	Concept_Idea 2470 2487	état neurologique
+T46	DISO 2586 2617	syndrome d'épilepsie ischémique
+T47	PHEN 2623 2635	sensibilités

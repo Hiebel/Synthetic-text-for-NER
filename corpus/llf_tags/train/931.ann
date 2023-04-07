@@ -1,0 +1,31 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 67	particuliers
+T4	PROC 86 98	consultation
+T5	DISO 108 128	douleurs abdominales
+T6	ANAT 117 128	abdominales
+T7	DISO 144 158	amaigrissement
+T8	DISO 166 174	asthénie
+T9	PROC 179 210	radiographie standard du thorax
+T10	ANAT 204 210	thorax
+T11	MEAS 217 224	normale
+T12	PROC 229 268	tomodensitométrie par cohérence optique
+T14	PROC 279 295	bilan biologique
+T15	PROC 310 320	sérologies
+T16	MEAS 341 349	négatifs
+T17	PROC 354 370	bilan infectieux
+T18	PROC 396 421	étude immunohistochimique
+T19	PROC 422 425	IHC
+T20	PROC 431 441	traitement
+T21	PROC 473 498	chimiothérapie palliative
+T22	CHEM 500 516	cyclophosphamide
+T23	CHEM 519 530	vancomycine
+T24	PROC 544 562	antibioprophylaxie
+T25	TEMP 566 576	3 ème mois
+T26	PROC 591 624	néphrectomie totale scanno-guidée
+T27	PROC 630 654	rachianesthésie générale
+T28	Concept_Idea 673 681	clinique
+T29	PHEN 685 696	fonctionnel
+T30	MEAS 733 740	simples
+T31	DISO 782 816	symptomatologie neuropsychiatrique
+T32	DISO 820 845	neuro-psycho-pathologique

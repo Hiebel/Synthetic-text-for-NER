@@ -1,0 +1,44 @@
+T1	LIVB 3 13	adolescent
+T2	TEMP 17 23	16 ans
+T3	DISO 29 54	antécédents pathologiques
+T4	MEAS 55 67	particuliers
+T5	PROC 69 77	consulte
+T6	Hospital 82 103	urgences pédiatriques
+T7	DISO 136 176	douleur abdomino-pelvienne hypo-tendante
+T8	ANAT 144 176	abdomino-pelvienne hypo-tendante
+T9	TEMP 186 204	depuis trois jours
+T10	PROC 208 223	examen clinique
+T11	DISO 235 256	détresse respiratoire
+T12	PHEN 244 256	respiratoire
+T13	DISO 272 284	vomissements
+T14	DISO 302 316	amaigrissement
+T15	MEAS 327 331	3 kg
+T16	LIVB 333 335	Il
+T17	PROC 346 357	hospitalisé
+T18	Hospital 365 372	urgence
+T19	PROC 378 396	traitement médical
+T20	CHEM 407 420	bêtaméthasone
+T21	CHEM 423 434	paracétamol
+T22	MODE 439 449	voie orale
+T23	PROC 463 510	intubation nasofibroscopique transoesophagienne
+T24	ANAT 474 510	nasofibroscopique transoesophagienne
+T25	PROC 526 551	corticothérapie adjuvante
+T26	CHEM 557 570	noradrénaline
+T27	CHEM 576 595	hydroxyprogestérone
+T28	LIVB 668 670	il
+T29	Concept_Idea 689 707	plan hémodynamique
+T30	DISO 772 784	hyperthermie
+T31	MEAS 787 791	40°C
+T32	MEAS 801 815	plus accentuée
+T33	DOSE 843 844	2
+T34	CHEM 845 867	médiations vasoactives
+T35	DISO 909 944	syndrome d'épanchement péricardique
+T36	ANAT 932 944	péricardique
+T37	DISO 962 986	traumatisme intracrânien
+T38	ANAT 974 986	intracrânien
+T39	LIVB 1012 1018	enfant
+T40	DISO 1050 1065	symptomatologie
+T41	MEAS 1080 1091	progressive
+T42	DISO 1117 1133	schwannome malin
+T43	DISO 1156 1178	hypotension artérielle
+T44	ANAT 1168 1178	artérielle

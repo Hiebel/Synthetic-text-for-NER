@@ -1,0 +1,47 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 75	hospitalisée
+T3	Hospital 80 88	urgences
+T5	ANAT 107 117	pelviennes
+T6	TEMP 127 140	depuis 3 mois
+T7	DISO 155 176	détresse respiratoire
+T8	PHEN 164 176	respiratoire
+T9	DISO 192 198	sueurs
+T10	DISO 204 218	amaigrissement
+T11	MEAS 229 234	15 kg
+T12	TEMP 238 248	trois mois
+T13	LIVB 255 258	son
+T14	PROC 259 268	admission
+T15	Hospital 272 302	service d'accueil des urgences
+T16	Hospital 306 355	centre hospitalier universitaire Hassan II de Fès
+T17	PROC 361 376	examen clinique
+T18	LIVB 378 382	nous
+T19	DISO 403 440	sensibilité épigastrique hypoéchogène
+T20	ANAT 415 440	épigastrique hypoéchogène
+T21	DISO 446 455	hématurie
+T22	DISO 459 469	mictalgies
+T23	DISO 497 523	paragangliome érythémateux
+T24	PROC 542 572	bilan biologique préopératoire
+T25	PROC 586 644	scintigraphie ganglionnaire parathyroïdienne transfixiante
+T26	ANAT 600 644	ganglionnaire parathyroïdienne transfixiante
+T27	MEAS 661 668	normaux
+T28	PROC 672 705	imagerie par résonance magnétique
+T29	PROC 707 710	IRM
+T30	PROC 724 744	injection intraveuse
+T31	CHEM 748 768	produit de contraste
+T32	DISO 793 833	tumeur tissulaire tumorale hypokinétique
+T33	ANAT 854 859	grêle
+T34	MEAS 869 874	12 cm
+T35	Concept_Idea 878 887	grand axe
+T36	PROC 988 1008	reprise chirurgicale
+T37	DISO 1038 1046	kystique
+T38	PROC 1052 1076	chimiothérapie adjuvante
+T39	CHEM 1109 1119	Cisplatine
+T40	CHEM 1122 1138	Ethynylcarbamide
+T41	CHEM 1141 1152	Doxycycline
+T42	CHEM 1155 1174	Valproate de sodium
+T43	CHEM 1176 1187	Bevacizumab
+T44	CHEM 1191 1204	dexaméthasone
+T45	PROC 1234 1258	pontage aorto-coronarien
+T46	ANAT 1242 1258	aorto-coronarien
+T47	ANAT 1308 1323	intrarachidiens
+T48	MEAS 1342 1347	40 cc

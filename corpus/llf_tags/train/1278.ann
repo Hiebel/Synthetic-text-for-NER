@@ -1,0 +1,48 @@
+T1	LIVB 15 25	nouveau-né
+T2	TEMP 50 56	5 mois
+T3	PROC 61 77	bilan biologique
+T4	DISO 91 107	hyperleucocytose
+T5	MEAS 110 119	16000/mm3
+T6	Concept_Idea 126 130	taux
+T7	MEAS 153 164	450 000/mm3
+T8	PROC 169 182	sérologie VIH
+T9	MEAS 189 197	négative
+T10	PROC 210 229	hémoglobine glyquée
+T11	PROC 231 233	Hb
+T12	PROC 240 260	récepteurs hormonaux
+T13	PROC 262 275	oestrogénique
+T15	PROC 291 314	hormone gonadotrophique
+T16	PROC 316 338	transaminases sériques
+T17	PROC 346 365	cytokératine totale
+T18	PROC 367 370	CPK
+T19	PROC 375 393	étude histologique
+T20	ANAT 397 414	cordon ombilicale
+T21	DISO 435 443	anomalie
+T22	PHEN 457 467	diagnostic
+T23	DISO 491 516	granulomatose infectieuse
+T24	DISO 522 532	méningoïde
+T25	PROC 576 610	scanner thoraco abdomino-abdominal
+T26	ANAT 584 610	thoraco abdomino-abdominal
+T27	DISO 632 664	urétéro-hydronéphrose bilatérale
+T28	Localization 654 664	bilatérale
+T29	ANAT 676 687	sein gauché
+T30	Localization 681 687	gauché
+T31	DISO 704 725	signes inflammatoires
+T32	DISO 732 770	déficit en glucantime® spironolactames
+T33	CHEM 743 770	glucantime® spironolactames
+T34	DISO 775 809	niveau tissulaire basal hétérogène
+T35	PROC 830 839	injection
+T36	ANAT 848 874	foyer mésentérique caudale
+T37	MEAS 884 889	90 mm
+T38	Concept_Idea 951 963	plan profond
+T39	MEAS 1016 1021	30 mm
+T40	MEAS 1047 1052	60 mm
+T41	MEAS 1090 1097	simples
+T42	LIVB 1109 1117	patiente
+T43	PROC 1123 1153	oxygénothérapie antibacillaire
+T44	PROC 1167 1197	anticoagulation prophylactique
+T45	MEAS 1218 1227	efficaces
+T46	DISO 1246 1272	complication peropératoire
+T47	PROC 1288 1313	dérivations chirurgicales
+T48	PROC 1322 1327	suivi
+T49	PROC 1397 1420	contrôles locorégionaux

@@ -1,0 +1,64 @@
+T1	LIVB 4 9	femme
+T2	PROC 29 35	admise
+T3	Hospital 39 69	service d'accueil des urgences
+T4	DISO 96 112	syndrome fébrile
+T5	TEMP 122 138	depuis 48 heures
+T6	DISO 157 169	hyperthermie
+T7	MEAS 198 202	39°C
+T8	PROC 208 231	traitement antibiotique
+T9	CHEM 219 231	antibiotique
+T10	CHEM 237 263	amoxicilline/acénocoumarol
+T11	CHEM 250 263	acénocoumarol
+T13	ANAT 282 318	cutanéo-muqueux cervico-mandibulaire
+T14	LIVB 339 347	patiente
+T15	DISO 389 408	contage tuberculeux
+T16	ANAT 397 408	tuberculeux
+T17	DISO 414 435	atteinte oculomotrice
+T18	ANAT 423 435	oculomotrice
+T19	PROC 483 512	prélèvements bactériologiques
+T20	PROC 528 551	injection intraveineuse
+T21	MEAS 568 576	positifs
+T22	MEAS 594 603	1/160 000
+T23	MEAS 607 617	1/1080 000
+T24	PROC 630 665	intradermoréaction à la Nicardipril
+T25	CHEM 654 665	Nicardipril
+T26	MEAS 680 687	négatif
+T27	PROC 692 718	explorations radiologiques
+T31	Concept_Idea 1057 1065	contours
+T32	MEAS 1066 1074	régulier
+T33	ANAT 1110 1132	structures thoraciques
+T34	DEVI 1153 1183	sonde thoracique transfixiante
+T36	DISO 1251 1276	métastases hypogastriques
+T37	ANAT 1262 1276	hypogastriques
+T38	PHEN 1332 1356	surrénales ventilatoires
+T39	ANAT 1437 1464	ganglionnaire médiastinales
+T40	Concept_Idea 1532 1542	caractères
+T41	DISO 1903 1913	métastases
+T42	PROC 1941 1984	technique d'immuno-chimiothérapie adjuvante
+T43	CHEM 2011 2021	Tamoxifène
+T44	DOSE 2023 2029	100 mg
+T46	CHEM 2034 2044	Cisplatine
+T47	DOSE 2046 2051	50 mg
+T48	CHEM 2054 2071	Ethylprednisolone
+T49	DOSE 2073 2079	200 mg
+T50	TEMP 2079 2084	/jour
+T51	LIVB 2110 2117	patient
+T52	DISO 2133 2155	douleurs épigastriques
+T53	ANAT 2142 2155	épigastriques
+T54	DISO 2157 2177	vomissements bilieux
+T55	DISO 2183 2191	anorexie
+T56	DISO 2198 2229	ictère érythémateux prurigineux
+T57	TEMP 2239 2252	depuis 2 mois
+T58	PROC 2257 2287	bilan biologique préopératoire
+T59	DISO 2299 2312	particularité
+T60	DISO 2331 2365	syndrome inflammatoire biologiques
+T61	PROC 2370 2394	exploration chirurgicale
+T62	DISO 2429 2449	masse du flanc droit
+T63	ANAT 2438 2449	flanc droit
+T64	Localization 2444 2449	droit
+T65	MEAS 2459 2463	12cm
+T66	Concept_Idea 2467 2476	grand axe
+T67	Concept_Idea 2479 2485	aspect
+T68	MEAS 2486 2495	pulsatile
+T69	ANAT 2512 2538	artère rénale supra-rénale
+T70	Localization 2526 2531	supra

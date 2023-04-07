@@ -1,0 +1,23 @@
+T1	LIVB 28 35	patient
+T2	DISO 92 109	dyspnée sifflante
+T3	Concept_Idea 154 166	état général
+T4	LIVB 168 171	Son
+T5	PROC 172 177	admis
+T6	Hospital 182 190	urgences
+T7	PROC 214 251	bronchoscopie souple trans-bronchique
+T8	PROC 267 297	fibroscopie œsogastroduodénale
+T9	ANAT 279 297	œsogastroduodénale
+T10	PROC 310 342	scanner thoraco-abdomino-pelvien
+T11	ANAT 318 342	thoraco-abdomino-pelvien
+T12	LIVB 373 380	patient
+T13	DISO 385 416	métastase endovaginale kystique
+T14	ANAT 395 416	endovaginale kystique
+T15	ANAT 445 460	greffon ovarien
+T16	MEAS 469 476	T4bN0M1
+T17	DISO 517 525	kystique
+T18	PROC 575 595	traitement palliatif
+T19	TEMP 656 671	pendant 7 jours
+T20	PROC 684 701	réhospitalisation
+T21	MEAS 756 760	1UAI
+T22	PROC 820 862	curage ganglionnaire axillaire explorateur
+T23	ANAT 827 862	ganglionnaire axillaire explorateur

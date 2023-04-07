@@ -1,0 +1,78 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 71	antécédents pathologiques
+T3	MEAS 72 84	particuliers
+T4	DISO 105 131	tuméfaction du sein gauche
+T5	ANAT 120 131	sein gauche
+T6	Localization 125 131	gauche
+T7	Concept_Idea 135 143	histoire
+T8	DISO 153 168	symptomatologie
+T9	TEMP 179 185	3 mois
+T10	DISO 218 224	délire
+T11	PROC 232 250	planchette tactile
+T12	DISO 265 281	syndrome grippal
+T13	DISO 289 312	hallucinations tactiles
+T15	PROC 387 402	examen clinique
+T16	LIVB 434 439	homme
+T17	DISO 473 499	diabète insulino-requérant
+T18	CHEM 505 523	acide valproique ®
+T19	DOSE 525 529	25mg
+T20	TEMP 529 531	/j
+T21	DISO 564 611	accident vasculaire ischémique myocardique aigu
+T22	LIVB 630 632	sa
+T23	LIVB 633 638	femme
+T24	LIVB 650 653	son
+T25	LIVB 654 660	épouse
+T26	PHEN 667 686	épisodes menstruels
+T27	PROC 691 696	suivi
+T28	PROC 700 710	consultait
+T29	LIVB 745 748	son
+T30	PROC 749 774	intervention chirurgicale
+T31	PROC 788 816	anastomose colo-thyroïdienne
+T32	ANAT 799 816	colo-thyroïdienne
+T33	MEAS 853 860	simples
+T34	PROC 865 895	bilan biologique préopératoire
+T35	DISO 914 934	récidive infectieuse
+T36	PROC 961 984	contrôles radiologiques
+T37	DISO 1003 1047	hypertriglycéridémie hypochrome microcytaire
+T38	MEAS 1058 1067	98 mmol/l
+T40	PROC 1116 1125	hémostase
+T41	MEAS 1126 1129	50%
+T42	PROC 1135 1148	sérologie VIH
+T43	MEAS 1161 1169	négative
+T44	PROC 1183 1201	nasofibrinogénémie
+T45	LIVB 1216 1220	nous
+T46	PROC 1242 1267	étude immunohistochimique
+T47	PROC 1276 1325	résection transoeso-gastro-duodénale endoscopique
+T48	PROC 1341 1368	analyse cytobactériologique
+T49	PROC 1387 1422	transfusion sanguine postopératoire
+T50	MEAS 1435 1453	fortement positive
+T51	PROC 1458 1482	scanner coraco-abdominal
+T52	ANAT 1466 1482	coraco-abdominal
+T53	DISO 1501 1517	signe infectieux
+T54	DISO 1527 1555	anomalie anatomopathologique
+T55	DISO 1588 1602	déficit moteur
+T56	PROC 1608 1629	radiothérapie externe
+T57	PROC 1682 1711	neurostimulation respiratoire
+T58	ANAT 1699 1711	respiratoire
+T59	Concept_Idea 1735 1753	règles hygiéniques
+T60	PROC 1756 1792	séances de kinésithérapie plantaires
+T61	PROC 1794 1807	antibiogramme
+T62	PROC 1810 1828	créatinine glyquée
+T63	PROC 1831 1859	oxygénothérapie substitutive
+T64	DEVI 1865 1882	percussion pulsée
+T65	MODE 1885 1916	culots globulaires intraveineux
+T66	LIVB 3793 3800	patient
+T67	PROC 3823 3865	tomodensitométrie par résonance magnétique
+T68	PROC 3893 3903	traitement
+T69	DISO 3954 3984	adhérences neuropsychiatriques
+T70	DISO 3999 4025	troubles sensitivo-motrice
+T71	DISO 4038 4060	éléments pathologiques
+T72	PROC 4074 4101	bilan radiologique standard
+T73	DISO 4154 4171	lésions kystiques
+T74	DISO 4201 4229	récidive tumorale secondaire
+T75	PROC 4275 4294	sérologie hydatique
+T76	LIVB 4315 4338	professionnels de santé
+T77	MEAS 4353 4361	négative
+T78	MEAS 4454 4462	négative
+T79	PROC 4466 4485	examen histologique
+T80	Hospital 4499 4533	structures hospitalo-hospitalières

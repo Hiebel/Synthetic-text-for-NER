@@ -1,0 +1,18 @@
+T1	PROC 0 6	suivie
+T2	DISO 16 39	sténose du col fémorale
+T3	ANAT 27 39	col fémorale
+T4	LIVB 44 52	patiente
+T5	PROC 59 65	opérée
+T6	Localization 88 94	droite
+T7	Concept_Idea 118 128	indication
+T8	PROC 134 157	traitement conservateur
+T9	CHEM 168 198	gentamicine acide clavulanique
+T10	DOSE 200 202	3g
+T11	TEMP 202 204	/j
+T12	PHEN 212 222	rétraction
+T13	MEAS 227 232	trois
+T14	ANAT 233 239	jambes
+T15	TEMP 257 268	quatre mois
+T16	PROC 274 303	chimiothérapie postopératoire
+T17	TEMP 325 341	12 décembre 2012
+T18	TEMP 367 382	25 février 2014

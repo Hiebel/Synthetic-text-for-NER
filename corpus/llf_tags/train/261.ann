@@ -1,0 +1,29 @@
+T1	TEMP 54 67	il y a 20 ans
+T2	DISO 193 213	dérivés alimentaires
+T3	DISO 236 255	accident domestique
+T4	LIVB 274 276	sa
+T5	LIVB 277 289	petite fille
+T6	DISO 299 335	symptômes neuropsychiatriques aigues
+T7	DISO 486 512	difficultés psychomotrices
+T8	Concept_Idea 625 645	aspect morphologique
+T9	DISO 693 735	crise convulsive sensitivo-nervico-motrice
+T10	Concept_Idea 1023 1069	caractéristiques pathologiquo-psycho-éducatifs
+T11	DISO 1127 1151	hallucinations visuelles
+T12	Concept_Idea 1235 1265	principes étiologies cliniques
+T13	DISO 1535 1546	neurolepsie
+T14	DISO 1912 1946	traumatisfaction douloureuse aiguë
+T15	PROC 2195 2223	consultation préanesthésique
+T16	PROC 2260 2290	prise en charge psycho-sociale
+T17	MEAS 2551 2562	particulier
+T18	LIVB 2621 2628	malades
+T19	CHEM 2633 2647	antipyrétiques
+T20	PROC 3482 3506	chimiothérapie adjuvante
+T21	PHEN 3536 3565	grosses masses lymphomateuses
+T22	PROC 3588 3606	schéma posologique
+T23	PROC 3617 3656	solution thérapeutique antituberculeuse
+T24	PROC 3661 3675	suivi clinique
+T25	MEAS 3691 3695	bien
+T26	LIVB 3711 3717	garçon
+T27	TEMP 3725 3731	16 ans
+T29	PROC 3779 3808	radio-chimiotrophie axillaire
+T30	PROC 3814 3844	curage ganglionnaire percutané

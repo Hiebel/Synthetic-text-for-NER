@@ -1,0 +1,34 @@
+T1	DISO 55 86	lithiase granulomateuse fébrile
+T2	TEMP 127 142	depuis 15 jours
+T3	PROC 156 178	consultation prénatale
+T4	DISO 261 279	symptômes grippaux
+T5	DISO 336 360	hallucinations auditives
+T6	MEAS 417 441	spontanément atonescents
+T7	DISO 539 564	hémiparesthésies tactiles
+T8	DISO 581 608	rhinorrhées hypertrophiques
+T9	ANAT 704 735	aires ganglionnaires cervicales
+T10	LIVB 1008 1014	enfant
+T11	LIVB 1024 1030	garçon
+T12	PHEN 1068 1089	grossesse monofoetale
+T13	PROC 1094 1100	suivie
+T14	TEMP 1122 1131	mars 2006
+T15	LIVB 1146 1148	il
+T16	PROC 1167 1203	chirurgie gynécologique obstétricale
+T17	PROC 1209 1224	rachianesthésie
+T18	PROC 1251 1275	mastectomie exploratrice
+T19	ANAT 1279 1299	sein supérieur droit
+T20	Localization 1284 1299	supérieur droit
+T21	PROC 1314 1358	néphrectomie totale élargie scrofessionnelle
+T22	DEVI 1384 1424	cathétérisation intraveineuse bipédieuse
+T23	MEAS 1461 1468	simples
+T24	PROC 1473 1491	étude histologique
+T25	LIVB 1514 1520	malade
+T26	DISO 1527 1558	méningo-encéphalite infectieuse
+T27	DISO 1564 1588	pneumocéphalie ascitique
+T28	MEAS 1597 1603	T4N1M0
+T29	DISO 1625 1652	léiomyome myxoïde malignité
+T30	MEAS 1660 1669	stade III
+T31	DISO 1693 1702	métastase
+T32	CHEM 1772 1801	antibiothérapies polyvalentes
+T33	ANAT 1814 1837	membre supérieur utérin
+T34	DISO 1869 1911	récidive infectieux tuberculeuse primitive

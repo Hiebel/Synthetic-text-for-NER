@@ -1,0 +1,23 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	DISO 41 91	processus lésionnel tissulaire de la hanche droite
+T4	ANAT 78 91	hanche droite
+T5	Localization 85 91	droite
+T6	PROC 96 112	bilan biologique
+T7	PROC 114 124	hémogramme
+T8	PROC 126 153	numération formule sanguine
+T9	PROC 157 190	taux des créatines phosphokinases
+T10	Concept_Idea 216 241	localisations secondaires
+T12	CHEM 284 301	acide salicylique
+T13	PROC 307 332	chimiothérapie palliative
+T14	PROC 341 374	radio-chimiothérapie concomitante
+T15	PROC 380 405	corticothérapie adjuvante
+T16	MEAS 428 433	trois
+T17	LIVB 434 441	malades
+T18	PROC 455 479	laparotomie exploratrice
+T19	PROC 499 523	extubation endotrachéale
+T20	MEAS 565 574	perméable
+T21	PHEN 588 604	grosse chirurgie
+T22	MEAS 637 644	simples
+T23	DISO 650 671	récidive neurologique
+T24	PROC 692 704	intervention

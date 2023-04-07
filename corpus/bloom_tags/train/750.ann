@@ -1,0 +1,59 @@
+T1	LIVB 28 35	patient
+T2	PROC 68 144	ostéotomie en monobloc du grand scapho-fémoral postéro-latéral transfixiante
+T3	PROC 344 368	anesthésie préopératoire
+T4	PROC 385 419	transfusion sanguine antithrombine
+T5	DISO 437 468	tuberculose veineuse systémique
+T6	PROC 481 502	bilan immunocompétent
+T7	PROC 515 545	échographie abdomino-pelvienne
+T8	ANAT 527 545	abdomino-pelvienne
+T9	DISO 570 586	maladie cœliaque
+T10	DISO 592 615	hypertension artérielle
+T11	ANAT 605 615	artérielle
+T12	LIVB 627 635	patiente
+T13	CHEM 652 672	anti-thrombolytiques
+T14	CHEM 694 713	corticoïdes inhalés
+T15	DISO 859 881	hémorragie métabolique
+T16	DISO 970 1004	syndrome d'épanchement surrénalien
+T17	ANAT 993 1004	surrénalien
+T18	DISO 1066 1087	détresse respiratoire
+T19	PHEN 1075 1087	respiratoire
+T20	MEAS 1141 1152	progressive
+T21	MEAS 1162 1189	de plus en plus oppressante
+T22	DISO 1223 1232	symptômes
+T23	DISO 1297 1311	hypercalciurie
+T24	DISO 1322 1351	pathologies thromboemboliques
+T25	PROC 1358 1384	explorations chirurgicales
+T26	DISO 1422 1437	lésion kystique
+T27	DEVI 1468 1486	drainage mécanique
+T28	LIVB 1556 1564	patiente
+T29	PROC 1681 1714	séance d'hémodialyse substitutive
+T30	DOSE 1725 1727	2g
+T31	CHEM 1739 1758	hydroxychloroquine®
+T32	DOSE 1761 1767	1mg/kg
+T33	MODE 1773 1785	intraveineux
+T34	CHEM 1789 1802	dexaméthasone
+T35	DISO 1866 1886	paralysie sécrétante
+T36	Hospital 1931 1965	prise en charge pluridisciplinaire
+T37	DISO 1986 2004	perte neurologique
+T38	DISO 2072 2094	bradycardie ischémique
+T40	Localization 2225 2233	centrale
+T41	PROC 2335 2364	ponction pleurale écho-guidée
+T42	ANAT 2344 2364	pleurale écho-guidée
+T43	MEAS 2379 2387	négative
+T44	DISO 2421 2455	surpression pulmonaire obstructive
+T45	ANAT 2433 2455	pulmonaire obstructive
+T46	ANAT 2477 2494	zones pulmonaires
+T47	PROC 2498 2529	échographie abdomino- pelvienne
+T48	ANAT 2510 2529	abdomino- pelvienne
+T49	DISO 2543 2642	masse tissulaire hypoechogène hétérogène du quadrant supéro-latéral des épigastriques hypertrophiés
+T51	MEAS 2652 2657	70 cm
+T52	MEAS 2662 2667	48 cm
+T53	ANAT 2695 2705	col utérin
+T54	ANAT 2711 2719	épiploon
+T55	DISO 2741 2768	kystadénome angiosarcléoïde
+T56	DISO 2815 2877	syndrome d'épanchement subdiaphragmatique inférieur péritonéal
+T57	ANAT 2838 2877	subdiaphragmatique inférieur péritonéal
+T58	Concept_Idea 2880 2886	aspect
+T59	MEAS 2887 2897	hétérogène
+T60	MEAS 2899 2911	bien limitée
+T62	ANAT 2931 2938	pelvien

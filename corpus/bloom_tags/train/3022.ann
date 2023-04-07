@@ -1,0 +1,36 @@
+T1	LIVB 28 35	patient
+T2	DISO 69 92	céphalées hémiplégiques
+T3	TEMP 102 115	depuis 2 mois
+T4	DISO 131 143	vomissements
+T5	DISO 149 163	amaigrissement
+T6	MEAS 174 178	5 kg
+T7	DISO 200 227	méningo-vascularite fébrile
+T8	PROC 262 286	exploration neurologique
+T9	PROC 288 291	NFS
+T10	PROC 293 313	protéines C-réactive
+T11	PROC 315 339	anticorps antinucléaires
+T12	PROC 344 362	ionogramme sanguin
+T13	ANAT 355 362	sanguin
+T14	MEAS 374 380	normal
+T15	PROC 395 423	sérologies rétrovirales BHCG
+T16	MEAS 432 441	négatives
+T17	PROC 446 473	numération formule sanguine
+T18	PROC 491 499	natrémie
+T19	MEAS 502 511	115 meq/l
+T20	PROC 517 525	kaliémie
+T21	MEAS 528 535	3 mEq/l
+T22	PROC 541 546	HCO3-
+T23	MEAS 549 557	12 meq/l
+T24	PROC 563 576	globule rouge
+T25	MEAS 579 589	20300/mm 3
+T26	PROC 593 632	prélèvement biquotidien d'hémoperitoine
+T27	PROC 642 646	elle
+T28	MEAS 655 665	14000/mm 3
+T29	Hospital 670 678	urgences
+T30	PROC 684 706	enzymes surrénaliennes
+T31	ANAT 692 706	surrénaliennes
+T32	PROC 785 793	enquêtes
+T33	Hospital 805 812	service
+T34	PROC 855 883	investigations diagnostiques
+T35	PHEN 1032 1052	grossesse gémellaire
+T36	DISO 1071 1103	placenta cicatriciel hypohydraté

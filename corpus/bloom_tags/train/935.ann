@@ -1,0 +1,41 @@
+T1	LIVB 4 15	jeune femme
+T2	TEMP 24 30	22 ans
+T3	PROC 35 47	hospitalisée
+T4	DISO 56 146	syndrome d'épanchement péricardique liquidien du membre inférieur droit inféro-médiastinal
+T6	ANAT 105 146	membre inférieur droit inféro-médiastinal
+T8	ANAT 162 179	hémi thorax droit
+T9	Localization 174 179	droit
+T10	MEAS 195 202	brutale
+T11	DISO 226 249	symptômes neurologiques
+T12	DISO 264 292	douleurs abdomino-pelviennes
+T13	ANAT 273 292	abdomino-pelviennes
+T14	DISO 332 348	détresse mentale
+T15	MEAS 363 374	progressive
+T16	DISO 390 406	troubles visuels
+T17	DISO 408 414	fièvre
+T18	MEAS 426 430	38°C
+T19	PROC 454 469	examen clinique
+T20	LIVB 481 489	patiente
+T21	Concept_Idea 504 522	plan hémodynamique
+T22	MODE 528 546	voie intraveineuse
+T23	DOSE 557 564	1 mg/kg
+T24	DOSE 589 593	0,5%
+T25	CHEM 597 619	méthylhydrocortisolone
+T26	DOSE 683 689	3mg/kg
+T27	DOSE 692 701	4 mg / kg
+T28	DOSE 703 710	5 µg/kg
+T29	DOSE 713 722	200 µg/kg
+T30	DOSE 725 734	100 µg/kg
+T31	DOSE 737 746	500 µg/kg
+T32	PROC 753 776	radiothérapie adjuvante
+T33	Hospital 800 813	ophtalmologie
+T34	PROC 820 834	prise de recul
+T35	TEMP 838 846	six mois
+T36	DISO 859 867	récidive
+T37	LIVB 890 896	malade
+T38	DISO 965 998	lésions purpuriques prurigineuses
+T39	MEAS 1016 1045	de plus en plus systématisées
+T40	MEAS 1057 1069	spontanément
+T41	Concept_Idea 1073 1079	volume
+T42	ANAT 1100 1117	paires crâniennes
+T43	DISO 1141 1151	prurigines

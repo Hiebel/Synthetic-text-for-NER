@@ -1,0 +1,56 @@
+T1	LIVB 4 9	femme
+T2	CHEM 41 59	méthylprednisolone
+T3	DOSE 62 69	3 mg/kg
+T4	TEMP 69 74	/jour
+T5	DEVI 82 111	cathéter artériolo-myocardial
+T6	ANAT 91 111	artériolo-myocardial
+T7	PROC 161 185	laparotomie exploratrice
+T8	DISO 212 234	masse tumorale maligne
+T9	MEAS 244 247	4cm
+T10	Concept_Idea 251 260	grand axe
+T11	MEAS 269 281	environ 3 cm
+T12	Concept_Idea 285 298	petite taille
+T13	ANAT 319 352	muscle ischio-fémoral superficiel
+T14	MEAS 364 379	progressivement
+T15	Concept_Idea 383 389	volume
+T16	MEAS 411 425	indifférenciée
+T17	DISO 454 464	pathologie
+T18	DISO 571 587	signes cliniques
+T19	PROC 651 673	chirurgie chirurgicale
+T20	PROC 686 708	traitement substitutif
+T21	CHEM 719 732	métronidazole
+T22	PROC 875 906	ponction pleurale transfixiante
+T23	ANAT 884 906	pleurale transfixiante
+T24	MEAS 921 927	propre
+T25	PROC 930 950	examen gynécologique
+T26	PHEN 967 995	grossesse monofœto-ovarienne
+T27	MEAS 1006 1011	20 SA
+T28	MEAS 1101 1113	2000 grammes
+T29	MEAS 1119 1128	60000 GBU
+T30	DISO 1149 1167	symptômes méningés
+T31	DISO 1251 1277	douleur abdomino-pelvienne
+T32	ANAT 1259 1277	abdomino-pelvienne
+T33	MEAS 1292 1298	rapide
+T34	TEMP 1307 1333	quelques heures auparavant
+T35	Localization 1387 1395	centrale
+T36	MEAS 1405 1419	plus accentuée
+T37	DISO 1474 1480	fièvre
+T38	DISO 1491 1517	malformations congénitales
+T39	LIVB 1537 1547	patiientes
+T40	PROC 1698 1713	prise en charge
+T41	PROC 1888 1918	échographie abdomino-pelvienne
+T42	ANAT 1900 1918	abdomino-pelvienne
+T44	ANAT 2155 2173	cordons ombilicaux
+T45	ANAT 2205 2224	cavités abdominales
+T46	MEAS 2326 2329	5cm
+T47	Concept_Idea 2333 2342	grand axe
+T48	ANAT 2363 2377	paroi vaginale
+T49	ANAT 2402 2416	cols urinaires
+T50	PROC 2434 2459	intervention chirurgicale
+T51	PROC 2480 2541	anesthésie locorégionale transpéritonéale du flux iléocoecale
+T52	ANAT 2525 2541	flux iléocoecale
+T53	DEVI 2550 2566	cathéter pelvien
+T54	ANAT 2559 2566	pelvien
+T55	ANAT 2575 2593	tronc pancréatique
+T56	ANAT 2619 2649	organes génitaux périphériques
+T57	DISO 2687 2696	incidents

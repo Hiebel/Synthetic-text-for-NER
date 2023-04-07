@@ -1,0 +1,37 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	PROC 42 47	admis
+T4	Hospital 52 73	urgences pédiatriques
+T5	PHEN 89 98	grossesse
+T6	Concept_Idea 124 146	niveau socioéconomique
+T7	LIVB 150 169	grand père paternal
+T8	MEAS 185 202	3 fois la moyenne
+T9	LIVB 268 270	Il
+T10	DISO 295 315	déshydratation aiguë
+T11	TEMP 325 341	depuis 24 heures
+T12	DISO 358 379	sueurs érythémateuses
+T13	DISO 381 406	vomissements alimentaires
+T14	Concept_Idea 426 438	état général
+T15	PROC 442 457	examen clinique
+T16	LIVB 468 474	enfant
+T17	Concept_Idea 499 517	plan hémodynamique
+T18	DISO 530 550	signes neurologiques
+T19	ANAT 573 589	muqueuse buccale
+T20	MEAS 590 599	abondance
+T21	CHEM 602 628	aérosolide d'hémoperitoine
+T22	MEAS 638 650	environ 2 cm
+T23	Concept_Idea 654 663	grand axe
+T24	ANAT 687 719	muqueuses pharyngo-laryngonaires
+T25	PROC 744 753	injection
+T26	DOSE 757 762	10 ml
+T27	CHEM 766 786	produit de contraste
+T29	LIVB 855 863	patiente
+T30	DISO 880 927	syndrome d'épanchement péricardique infarctoïde
+T31	ANAT 903 927	péricardique infarctoïde
+T32	DISO 940 972	anomalies viscéro-lymphocytaires
+T33	Localization 1233 1243	bilatérale
+T34	DISO 1268 1293	carcinose parenchymateuse
+T35	ANAT 1278 1293	parenchymateuse
+T36	DISO 1356 1380	hyperthyroïdie nodulaire
+T37	DISO 1397 1428	hypotonie hypocholinestérasique
+T38	ANAT 1447 1468	structures cardiaques

@@ -1,0 +1,79 @@
+T1	LIVB 4 9	femme
+T2	DISO 44 81	néphropathie congénitale hypertensive
+T3	PROC 86 92	admise
+T4	Hospital 97 118	urgences pédiatriques
+T5	PROC 124 162	traitement antibacillaire probabiliste
+T6	CHEM 177 212	sulfaméthoxazole-acide clavulanique
+T7	CHEM 215 226	rifampicine
+T8	CHEM 228 238	isoniazide
+T9	CHEM 240 251	ethionamide
+T10	CHEM 253 266	dexaméthasone
+T11	CHEM 268 286	méthylprednisolone
+T12	PROC 300 333	chirurgie pelvienne transurétrale
+T13	ANAT 310 333	pelvienne transurétrale
+T14	DISO 365 390	symptomatologie purulente
+T15	LIVB 578 586	patients
+T16	DISO 805 837	épanchement liquidien péritonéal
+T17	MEAS 859 873	bradycardiaque
+T18	PROC 889 923	pronostic biologique préopératoire
+T19	MEAS 936 947	négligeable
+T20	DOSE 949 957	50 mg/kg
+T21	TEMP 959 975	pendant 10 jours
+T22	MODE 992 1010	voie intraveineuse
+T23	DOSE 1013 1019	1mg/kg
+T24	TEMP 1019 1021	/j
+T25	PROC 1112 1134	technique chirurgicale
+T26	PROC 1145 1182	manœuvres d'immobilisation plâtrantes
+T27	PROC 1269 1288	résection pleurésie
+T28	DEVI 1504 1524	répliques mécaniques
+T29	PROC 1696 1727	échographie abdomino- pelvienne
+T30	ANAT 1708 1727	abdomino- pelvienne
+T31	DISO 1741 1807	hypertrophie utérine séreux utéro-sigmoïdienne hypo échostructurée
+T33	MEAS 1817 1822	22 cm
+T34	Concept_Idea 1826 1835	grand axe
+T35	DISO 1874 1887	métanéphrines
+T36	Concept_Idea 1949 1960	profondeurs
+T37	DISO 1995 2028	myometrorragie nécrose ischémique
+T38	DISO 2044 2111	infiltration épithélio-gigantocellulaire maligne tumorale ovarienne
+T39	PROC 2289 2325	tomodensitométrie abdomino-pelvienne
+T40	ANAT 2307 2325	abdomino-pelvienne
+T41	DISO 2341 2410	épanchement périphérique du liquide céphalo-rachidien pérituberculisé
+T42	Localization 2353 2365	périphérique
+T44	ANAT 2427 2443	flux iléo-caecal
+T45	ANAT 2455 2474	parenchyme grêlique
+T46	ANAT 2489 2531	aires ganglionnaires cerviculo-thoraciques
+T47	LIVB 2533 2535	Il
+T48	PROC 2557 2584	traitement médical adjuvant
+T49	CHEM 2598 2611	dexaméthasone
+T50	CHEM 2613 2632	méthylhydrocortisol
+T51	CHEM 2634 2646	prednisolone
+T52	DOSE 2648 2654	400 mg
+T53	CHEM 2657 2676	hydroxyprogesterone
+T54	CHEM 2683 2694	albendazole
+T55	PHEN 2699 2719	grossesse gémellaire
+T56	DISO 2755 2772	souffrance fœtale
+T57	MEAS 2806 2807	2
+T58	DISO 2843 2862	douleurs pelviennes
+T59	ANAT 2852 2862	pelviennes
+T60	TEMP 2872 2885	depuis 3 mois
+T61	MEAS 2913 2919	rapide
+T62	MEAS 2931 2946	progressivement
+T63	Concept_Idea 2950 2956	volume
+T64	LIVB 2994 2997	ses
+T65	LIVB 2998 3005	garçons
+T66	DISO 3063 3113	polynucléaires neutrophiles érythémato-nécrotiques
+T67	Concept_Idea 3149 3161	état général
+T68	MEAS 3172 3175	4/5
+T69	DISO 3248 3265	dyspnée sifflante
+T70	MEAS 3278 3284	fausse
+T71	TEMP 3293 3305	le jour même
+T72	LIVB 3315 3319	elle
+T73	Hospital 3333 3358	urgences ophtalmologiques
+T74	DISO 3401 3429	symptomatologie neurologique
+T75	MEAS 3439 3446	intense
+T76	DISO 3486 3506	syndrome d’épilepsie
+T77	DISO 3594 3606	méningalgies
+T78	PROC 3700 3722	diagnostic étiologique
+T79	PROC 3758 3788	cervico-vaginale transfixiante
+T80	PROC 3792 3815	scanner abdominopelvien
+T81	ANAT 3800 3815	abdominopelvien

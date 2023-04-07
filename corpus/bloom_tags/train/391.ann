@@ -1,0 +1,20 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	Concept_Idea 41 52	antécédents
+T4	MEAS 53 65	particuliers
+T5	PROC 67 78	hospitalisé
+T6	Hospital 83 91	urgences
+T7	DISO 101 123	douleurs épigastriques
+T8	ANAT 110 123	épigastriques
+T9	DISO 139 184	syndrome d'épanchement périphérique liquidien
+T10	Localization 162 174	périphérique
+T11	PROC 188 202	interrogatoire
+T12	DISO 225 250	épigastralgies chroniques
+T13	CHEM 263 274	paracétamol
+T14	TEMP 284 297	depuis 6 mois
+T15	PROC 303 318	examen clinique
+T16	DISO 350 396	lésion tumorale du sinus ptérygo-hypogastrique
+T17	ANAT 369 396	sinus ptérygo-hypogastrique
+T18	MEAS 406 410	3 cm
+T19	MEAS 415 419	2 cm
+T20	ANAT 447 471	organes génitauxexternes

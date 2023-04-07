@@ -1,0 +1,59 @@
+T1	PROC 2 21	bilan préopératoire
+T2	Concept_Idea 51 63	état général
+T3	DISO 64 71	fébrile
+T4	MEAS 74 80	38,8°C
+T5	DISO 90 112	sensibilité abdominale
+T6	ANAT 102 112	abdominale
+T7	DISO 120 141	signes inflammatoires
+T8	ANAT 157 164	abdomen
+T9	PROC 169 192	traitement antibiotique
+T10	CHEM 180 192	antibiotique
+T11	MODE 197 215	voie intraveineuse
+T12	PROC 246 277	contrôle radiologique du pelvis
+T13	ANAT 271 277	pelvis
+T14	PROC 282 309	numération formule sanguine
+T15	PROC 311 329	taux d'hémoglobine
+T16	PROC 335 346	leucocytose
+T17	MEAS 355 363	positifs
+T18	MEAS 381 390	1800 UI/l
+T19	MEAS 394 403	1240 UI/l
+T20	PROC 417 433	bilan biologique
+T21	DISO 445 459	particularités
+T22	DISO 477 515	polynucléaires érythémateux disséminés
+T23	DISO 522 544	lymphocyte neutrophile
+T24	LIVB 549 557	patiente
+T25	PROC 580 608	chimiothérapie néo adjuvante
+T26	PROC 622 655	radio-chimiothérapie concomitante
+T27	DEVI 661 672	cathéter M3
+T28	PROC 688 713	curiethérapie parentérale
+T29	DOSE 719 726	5mg /kg
+T30	TEMP 726 728	/j
+T31	PROC 734 767	oxygénothérapie conformationnelle
+T32	Concept_Idea 778 787	résultats
+T33	MEAS 841 850	favorable
+T34	PROC 863 878	hospitalisation
+T35	TEMP 901 905	24 h
+T36	TEMP 909 917	6 heures
+T37	PROC 930 944	suivi clinique
+T38	MEAS 949 955	normal
+T39	TEMP 965 982	quatrième semaine
+T40	DISO 1002 1025	thrombophlébite érosive
+T41	LIVB 1048 1051	son
+T42	LIVB 1052 1058	épouse
+T43	DISO 1063 1090	symptomatologie ankylosante
+T44	PROC 1131 1152	biopsie scanno-guidée
+T45	DISO 1199 1221	anomalie morphologique
+T46	PROC 1237 1247	diagnostic
+T47	PHEN 1253 1271	suites opératoires
+T48	MEAS 1280 1287	simples
+T49	PROC 1300 1342	néphrectomie totale axillaire endoscopique
+T50	PROC 1346 1428	ostéotomie jéjunale postéro abdominopelvienne caudale distale ostéodurale monobloc
+T51	PROC 1434 1520	fermeture gastrovasculorénale deltaméthaxillaire proximal longitudinale per opératoire
+T53	ANAT 1614 1656	muqueuse œso-gastroduodénale superficielle
+T54	PROC 1683 1704	rééducation périnéale
+T55	Concept_Idea 1717 1754	caractéristiques anatomopathologiques
+T56	PROC 1785 1815	séances de rééducation motrice
+T57	Concept_Idea 1853 1864	consistance
+T58	Concept_Idea 1872 1889	plan psychomoteur
+T59	PROC 1902 1929	séances multidisciplinaires
+T60	LIVB 1952 1963	jeune homme

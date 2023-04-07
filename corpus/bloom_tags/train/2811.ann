@@ -1,0 +1,42 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	7 ans
+T3	LIVB 81 84	ses
+T4	LIVB 85 92	parents
+T5	DISO 114 144	tuberculose caséo-folliculaire
+T6	Concept_Idea 201 213	état général
+T7	DOSE 238 1027	bolus de ciprofloxacine associés à l’amoxicilline clavulanic acidésulfamylamide triaméthoxazole pyrazinamide méthyle-thionamide érythrométhasone ethionamide bêtaméthasone furosémide perindopril nifédiprine chloramphénicol valproate de sodium hydroxychloroquine dihydrocortisone nortranyl-méthaphrine oxybutynéphrine
+L’échographie abdomino- pelvienne montrait une épanchement liquidien intrapéritonéal périrénal basithalamo-surrénalien droit systétruée hypogastrique étendu aux parois intestinales faisant suspecter cette localisation comme étiologie probable de ce péritoine biliaire. L’imagerie par résonance magnétique (IRM) ainsi qu’un scanner abdominal étaient réalisés mais n’objectivaient pas de localisation métastatique ni de prise de contraste prenant le contraste après injection
+T8	CHEM 247 261	ciprofloxacine
+T9	PROC 556 587	échographie abdomino- pelvienne
+T10	ANAT 568 587	abdomino- pelvienne
+T11	DISO 601 703	épanchement liquidien intrapéritonéal périrénal basithalamo-surrénalien droit systétruée hypogastrique
+T12	ANAT 623 703	intrapéritonéal périrénal basithalamo-surrénalien droit systétruée hypogastrique
+T14	ANAT 715 734	parois intestinales
+T15	DISO 803 821	péritoine biliaire
+T16	PROC 825 858	imagerie par résonance magnétique
+T17	PROC 860 863	IRM
+T18	PROC 877 894	scanner abdominal
+T19	ANAT 885 894	abdominal
+T20	DISO 940 965	localisation métastatique
+T21	DISO 972 990	prise de contraste
+T23	CHEM 1031 1051	produit de contraste
+T24	CHEM 1058 1071	phénobarbital
+T25	MEAS 1114 1134	fortement suspectées
+T26	DISO 1263 1305	maladie thromboembolique veineuse profonde
+T27	DISO 1311 1331	syndrome néphrotique
+T28	Concept_Idea 1368 1390	caractères biologiques
+T29	MEAS 1433 1437	0,9%
+T30	PROC 1440 1459	protéine C-réactive
+T31	MEAS 1461 1471	2050 UI/ml
+T32	PROC 1476 1495	sérologie hydatique
+T33	MEAS 1502 1510	négative
+T34	PROC 1525 1545	biopsie chirurgicale
+T35	DISO 1568 1588	métastases tumorales
+T36	DISO 1732 1746	mitose maligne
+T37	LIVB 1749 1753	Nous
+T38	PROC 1783 1810	tomodensitométrie pelvienne
+T39	ANAT 1801 1810	pelvienne
+T40	DISO 1850 1901	localisations secondaires carcinomateuses kystiques
+T41	DISO 1940 1965	granulomes ostéophytaires
+T42	ANAT 2081 2094	utérus utérin
+T43	ANAT 2108 2142	sinus rectum urétéro-hypogastrique

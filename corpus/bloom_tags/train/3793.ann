@@ -1,0 +1,31 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 98	traitement immunodéprimé
+T3	CHEM 102 113	Bevacizumab
+T4	CHEM 141 152	Cyclosérine
+T5	MEAS 169 182	macroscopique
+T6	DISO 190 233	lésions érythémato-cruuleuses prurigineuses
+T7	TEMP 243 256	depuis 6 mois
+T8	PROC 260 284	exploration chirurgicale
+T9	LIVB 358 366	patiente
+T10	PROC 399 428	traitement d'immunodépression
+T11	CHEM 433 468	anti-inflammatoires non-stéroïdiens
+T12	LIVB 477 481	elle
+T13	DISO 515 524	épistaxis
+T14	Hospital 544 580	formation hospitalière universitaire
+T15	PROC 593 608	hospitalisation
+T16	PROC 624 633	transfert
+T17	Hospital 648 667	salle périphériques
+T18	PROC 682 688	admise
+T19	DISO 701 718	prurit généralisé
+T20	MEAS 733 740	modérée
+T21	MEAS 753 762	spontanée
+T22	TEMP 771 785	il y a 3 jours
+T23	MEAS 863 878	progressivement
+T24	Concept_Idea 882 888	volume
+T25	MEAS 898 908	purulentes
+T26	DISO 922 928	fièvre
+T27	MEAS 940 945	37°8C
+T28	DISO 961 988	dyspnée stade II de la NYHA
+T29	PROC 1002 1016	interrogatoire
+T30	DISO 1021 1044	symptômes neurologiques
+T31	PROC 1110 1138	traitement immunosuppresseur

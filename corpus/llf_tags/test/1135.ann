@@ -1,0 +1,54 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 66	antécédents pathologiques
+T3	MEAS 67 79	particuliers
+T4	PROC 90 102	hospitalisée
+T5	DISO 112 133	distension abdominale
+T6	ANAT 123 133	abdominale
+T7	TEMP 143 157	depuis 5 jours
+T8	PROC 161 176	examen clinique
+T9	Concept_Idea 189 201	état général
+T10	MEAS 202 208	altéré
+T11	DISO 218 244	signes neuropsychiatriques
+T12	DISO 255 273	crises convulsives
+T13	ANAT 300 323	membre inférieur gauche
+T14	Localization 317 323	gauche
+T15	PHEN 330 337	défense
+T16	DEVI 345 351	boudin
+T17	DISO 364 378	amaigrissement
+T18	MEAS 389 394	20 kg
+T19	TEMP 398 404	2 mois
+T20	PROC 409 426	tomodensitométrie
+T21	PROC 428 443	TDM) thoracique
+T22	ANAT 433 443	thoracique
+T23	DISO 464 565	masse tissulaire oblongue fibro-iliaque médio péritonéale droite postéro-supérieure bilatérale droite
+T24	Localization 504 509	médio
+T26	Localization 548 565	bilatérale droite
+T27	PROC 588 598	anastomose
+T28	MEAS 614 629	progressivement
+T29	Concept_Idea 633 639	volume
+T30	MEAS 648 652	5 cm
+T31	MEAS 661 665	deux
+T32	ANAT 666 681	anses grêliques
+T33	PROC 685 710	étude anatomopathologique
+T34	DISO 732 766	lymphocytome carcinomateux myxoide
+T35	MEAS 787 794	pT4N0Mx
+T36	MEAS 798 807	stade III
+T37	Concept_Idea 818 827	pronostic
+T38	DISO 849 872	anomalies radiologiques
+T39	PROC 905 933	chimiothérapie néo adjuvante
+T40	PROC 947 967	reprise chirurgicale
+T41	CHEM 993 1004	antalgiques
+T42	Concept_Idea 1064 1088	caractère anticoagulants
+T43	LIVB 1100 1108	patiente
+T44	CHEM 1133 1144	paracétamol
+T45	DOSE 1145 1147	3g
+T46	TEMP 1147 1152	/jour
+T47	PROC 1158 1180	traitement chirurgical
+T48	PROC 1202 1235	néphrectomie totale scanno-guidée
+T49	PROC 1251 1285	antibioprophylaxie antibactérienne
+T50	Concept_Idea 1298 1317	résultats cliniques
+T51	PROC 1330 1349	laparotomie élargie
+T52	MEAS 1386 1396	favorables
+T53	PROC 1412 1438	translation complémentaire
+T54	Hospital 1479 1514	structures hospitalo-universitaires
+T55	PROC 1531 1542	hémodialyse

@@ -1,0 +1,80 @@
+T1	LIVB 2 12	nouveau-né
+T2	TEMP 71 77	8 mois
+T3	PROC 81 96	examen clinique
+T4	Concept_Idea 101 104	âge
+T5	TEMP 108 114	6 mois
+T6	DISO 131 137	fièvre
+T7	MEAS 140 146	39 ° C
+T8	DISO 162 174	vomissements
+T9	DISO 181 195	amaigrissement
+T10	MEAS 206 210	12kg
+T11	TEMP 214 219	3mois
+T12	PHEN 224 233	grossesse
+T13	PROC 246 252	suivie
+T14	LIVB 261 274	obstétriciens
+T15	LIVB 281 288	famille
+T16	LIVB 292 302	nouveau-né
+T17	Hospital 327 348	urgences pédiatriques
+T18	PROC 377 402	consultation obstétricale
+T19	DISO 477 490	particularité
+T20	PROC 504 531	bilan radiologique standard
+T21	LIVB 551 559	patiente
+T22	Concept_Idea 595 613	protocole national
+T23	ANAT 615 628	hanche gauche
+T24	Localization 622 628	gauche
+T25	PROC 635 663	chimiothérapie néo adjuvante
+T26	CHEM 669 680	Rifampicine
+T27	CHEM 683 695	Temozolomide
+T28	PROC 735 760	thoracotomie exploratrice
+T29	PROC 766 785	anesthésie générale
+T30	PROC 799 825	radiothérapie concomitante
+T31	ANAT 838 853	rachis cervical
+T32	PROC 868 935	laparotomie palliative endoscopiquement segmentaire conventionnelle
+T33	ANAT 955 984	cavité péritonéale thoracique
+T34	ANAT 994 1013	dôme gastroduodénal
+T35	PROC 1018 1043	scanner abdomino- pelvien
+T36	ANAT 1026 1043	abdomino- pelvien
+T38	MEAS 1298 1302	5 cm
+T39	Concept_Idea 1306 1320	plus grand axe
+T40	ANAT 1340 1370	troncs plexi brachial ventraux
+T41	ANAT 1383 1403	membranes digestives
+T42	ANAT 1430 1499	grêles épiploi͏̈des superficielles cutanéoplasiques antero-axillaires
+T43	ANAT 1524 1544	fibres ostéolytiques
+T44	PROC 1591 1600	résection
+T45	PROC 1605 1626	prélèvement biopsique
+T47	PROC 1796 1806	extubation
+T48	Concept_Idea 1913 1932	aspect histologique
+T49	DISO 1964 2022	récidive tumorale maligne ischémique myxoblastique lobulée
+T50	MEAS 2031 2035	ACR4
+T51	PROC 2045 2229	classification de Sanger Moffet Scovel Behavioral Tendances of the Clinical Neuropsychiatry Diabetes Res Clin Pract. 2010;177(2):131-159«Figure 3: Schéma thérapeutique antihypertensive
+T52	Concept_Idea 2243 2272	caractère immunohistochimique
+T53	PROC 2338 2371	prise en charge psychogériatrique
+T54	DISO 2383 2436	trouble bipolaire aigu diabétique gestationisphérique
+T55	MEAS 2444 2449	ACR 4
+T57	CHEM 2680 2692	doxorubicine
+T58	CHEM 2700 2710	éthambutol
+T59	DISO 2734 2774	syndrome infectieux cliniquement suspect
+T60	LIVB 2784 2792	patients
+T61	PROC 2831 2850	traitement adjuvant
+T62	MEAS 2888 2896	négative
+T63	MEAS 2916 2918	6%
+T64	PROC 2988 3006	antibioprophylaxie
+T65	TEMP 3037 3066	premiers mois postopératoires
+T66	DISO 3117 3143	maladie démyélisantropénie
+T67	CHEM 3188 3201	triméthoprime
+T68	PROC 3249 3261	consultation
+T69	Hospital 3266 3301	urgences chirurgicales pédiatriques
+T70	PROC 3322 3344	soins locaux intensifs
+T71	PROC 3358 3385	thyroïdectomie exploratrice
+T72	ANAT 3404 3422	liquide amniotique
+T73	PROC 3427 3440	transfusionné
+T74	PHEN 3461 3482	cultures bactériennes
+T75	DISO 3600 3627	symptomatologie infectieuse
+T76	PROC 3633 3650	bilan étiologique
+T77	MEAS 3681 3689	correcte
+T78	PROC 3706 3733	numération formule sanguine
+T79	PROC 3742 3771	glycémie glycédienne corrigée
+T80	MEAS 3774 3781	5 mg/dl
+T81	MEAS 3787 3835	20 fois la limite inférieure tolérée µ 0,8mmol/l
+T82	PROC 3850 3869	hémoglobine glyquée
+T83	MEAS 3871 3877	12g/dl

@@ -1,0 +1,31 @@
+T1	LIVB 29 40	jeune femme
+T2	TEMP 49 55	17 ans
+T3	PROC 66 74	réadmise
+T4	Hospital 79 101	urgences chirurgicales
+T5	DISO 127 147	diabète gestationnel
+T6	PROC 151 180	examen clinique préopératoire
+T7	LIVB 198 203	femme
+T8	DISO 242 275	syndrome inflammatoire biologique
+T9	DISO 279 301	anomalies métaboliques
+T10	DISO 316 335	hyperplasie utérine
+T11	ANAT 328 335	utérine
+T12	DISO 342 360	défense abdominale
+T13	ANAT 350 360	abdominale
+T14	TEMP 370 387	depuis 3 semaines
+T15	PHEN 423 438	acuité visuelle
+T16	MEAS 450 454	4/10
+T17	ANAT 470 479	œil droit
+T18	Localization 474 479	droit
+T19	DEVI 494 504	œil gauche
+T20	Localization 498 504	gauche
+T21	MEAS 530 534	2/10
+T22	DISO 558 592	céphalo-conjonctivale prurigineuse
+T23	MEAS 608 623	progressivement
+T24	Concept_Idea 627 633	taille
+T25	MEAS 650 658	indolore
+T26	PROC 671 701	scanner cervico-laryngologique
+T27	ANAT 679 701	cervico-laryngologique
+T28	LIVB 725 733	patiente
+T30	DISO 860 952	thrombose veineuse cervicale infarcto-myélocaléo-caverne sous pharyngo carotidienne prolabée
+T32	MEAS 964 975	massivement
+T33	Concept_Idea 979 985	volume

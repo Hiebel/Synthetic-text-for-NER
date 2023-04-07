@@ -1,0 +1,27 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 38 44	10 ans
+T3	PROC 67 92	splénectomie chirurgicale
+T4	PROC 98 149	drainage iléo-interstitiel segmentaire pancréatique
+T5	ANAT 107 149	iléo-interstitiel segmentaire pancréatique
+T6	PROC 164 203	radiothérapie conformationnelle globale
+T7	Hospital 217 225	urgences
+T8	PROC 231 256	traitement antibacillaire
+T9	CHEM 267 280	rifaméthasone
+T10	CHEM 281 291	ethambutol
+T11	PHEN 332 344	respiratoire
+T12	DISO 384 396	métrorragies
+T13	TEMP 418 434	depuis deux mois
+T14	DISO 456 468	vomissements
+T15	MEAS 480 487	1litros
+T16	DISO 503 522	douleurs pelviennes
+T17	ANAT 512 522	pelviennes
+T18	MEAS 556 567	progressive
+T19	ANAT 600 615	rachis lombaire
+T20	DISO 656 676	syndrome néphrotique
+T21	DISO 679 708	inflammation rétropéritonéale
+T22	ANAT 692 708	rétropéritonéale
+T23	DISO 746 766	tuberculose tumorale
+T24	LIVB 799 807	patiente
+T25	PROC 826 840	interrogatoire
+T26	PROC 875 896	étude parasitologique
+T27	DISO 994 997	AVC

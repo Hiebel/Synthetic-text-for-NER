@@ -1,0 +1,37 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 95 107	particuliers
+T3	Hospital 132 140	urgences
+T4	DISO 150 167	céphalées fébrile
+T5	MEAS 182 193	progressive
+T6	DISO 222 236	amaigrissement
+T7	MEAS 247 252	20 kg
+T8	TEMP 256 265	deux mois
+T9	DISO 281 287	sueurs
+T10	MEAS 288 296	profuses
+T11	DISO 322 355	syndrome d'épanchement péritonéal
+T12	ANAT 345 355	péritonéal
+T13	DISO 357 360	EPS
+T14	LIVB 363 367	Elle
+T15	DISO 398 448	adénopathies jugulo-carotidiennes cervico-latérale
+T17	DISO 477 513	thrombose veineuse méningée du pouce
+T18	ANAT 487 513	veineuse méningée du pouce
+T19	DISO 515 550	des artères cérébrales hypogéminées
+T20	ANAT 519 550	artères cérébrales hypogéminées
+T21	DISO 569 592	anomalies radiologiques
+T22	LIVB 662 670	patiente
+T23	MEAS 684 693	négativés
+T24	PROC 707 751	tomodensitométrie thoraco-abdomino-pelvienne
+T25	ANAT 725 751	thoraco-abdomino-pelvienne
+T26	DISO 765 833	masse tissulaire bourgeonnante latéro-utérine droite hypohypotensive
+T28	MEAS 842 846	10cm
+T29	Concept_Idea 850 859	grand axe
+T30	ANAT 878 908	fosse iliaque supra hyoïdienne
+T31	Localization 892 897	supra
+T32	ANAT 920 950	hile diaphragmatique périrénal
+T33	PROC 968 985	IRM préopératoire
+T36	ANAT 1164 1182	mésentère grêlique
+T37	PROC 1233 1248	examen physique
+T38	LIVB 1262 1270	patiente
+T39	DISO 1271 1278	fébrile
+T40	MEAS 1281 1286	37°8C
+T41	DISO 1291 1302	polypnéique

@@ -1,0 +1,41 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 72	antécédents gynécologiques
+T3	MEAS 73 85	particuliers
+T4	PROC 87 93	admise
+T5	Hospital 98 106	urgences
+T7	ANAT 125 145	abdomino- pelviennes
+T8	MEAS 160 166	rapide
+T9	DISO 182 215	ictère cholestatique hémorragique
+T10	PHEN 221 239	suites opératoires
+T11	DISO 279 313	ictère cholestatique hypertrophiés
+T12	ANAT 327 341	méso-péritoine
+T13	DISO 362 383	hématuries pigmentées
+T14	Concept_Idea 449 464	acuité visuelle
+T15	DISO 605 627	péritonéo-cæcale aigue
+T16	DISO 658 694	souffrance parenchymateuse ovarienne
+T17	ANAT 669 694	parenchymateuse ovarienne
+T18	PROC 717 732	examen clinique
+T19	LIVB 750 758	patiente
+T20	MEAS 762 771	assez bon
+T21	Concept_Idea 772 784	état général
+T22	Concept_Idea 799 817	plan hémodynamique
+T23	PROC 824 852	administration intraveineuse
+T24	MEAS 877 884	1,5g/dl
+T25	DEVI 890 932	sonde thoracique transoesophagienne biplan
+T27	CHEM 957 972	médicamenteuses
+T28	CHEM 982 1000	méthylprednisolone
+T29	DOSE 1003 1010	2 mg/kg
+T30	TEMP 1010 1012	/j
+T31	CHEM 1014 1024	furosémide
+T32	DOSE 1027 1036	0,5 mg/kg
+T33	TEMP 1036 1038	/j
+T34	CHEM 1041 1054	cisatracurium
+T35	DOSE 1057 1066	400 ng/kg
+T36	TEMP 1066 1068	/j
+T37	MEAS 1106 1113	modérée
+T38	MEAS 1119 1128	prendante
+T39	DISO 1160 1174	perte de poids
+T40	MEAS 1198 1203	20 kg
+T41	DISO 1238 1272	ictère cholestatique hypertrophiés
+T42	ANAT 1286 1300	méso-péritoine
+T43	CHEM 1388 1420	catécholamine alpha-1 méthyldopa

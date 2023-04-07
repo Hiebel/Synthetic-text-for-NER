@@ -1,0 +1,29 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 73 78	admis
+T6	Hospital 82 99	urgence pédiatrie
+T7	DISO 108 206	syndrome d'épanchement liquidien liquidien rétro péritonéal latéro-ombilical (épilepsie ischémique
+T9	DISO 236 250	amaigrissement
+T10	Concept_Idea 272 284	état général
+T11	DISO 307 366	tuméfaction sus claviculaire homolatérale supérieure droite
+T12	ANAT 319 366	sus claviculaire homolatérale supérieure droite
+T13	Localization 336 366	homolatérale supérieure droite
+T14	MEAS 381 387	rapide
+T15	MEAS 397 401	15cm
+T16	Concept_Idea 405 414	grand axe
+T17	PROC 444 467	radiothérapie adjuvante
+T18	DOSE 478 482	45Gy
+T19	DISO 528 552	symptomatologie clinique
+T20	DISO 591 626	fistule ganglionnaire hypogastrique
+T21	ANAT 599 626	ganglionnaire hypogastrique
+T22	DISO 666 687	conjonctivale toxique
+T23	MEAS 725 735	1000 UI/ml
+T24	PROC 756 774	traitement curatif
+T25	DISO 806 831	localisation métastatique
+T26	DISO 1145 1184	carcinome pléomorphe purposément séreux
+T27	ANAT 1205 1234	zones musculaires plexiformes
+T28	DISO 1277 1293	maladie kystique
+T29	DISO 1307 1338	atteinte hépato-gastroduodénale
+T30	ANAT 1316 1338	hépato-gastroduodénale

@@ -1,0 +1,33 @@
+T1	LIVB 16 27	jeune femme
+T2	TEMP 36 42	21 ans
+T3	PHEN 73 82	grossesse
+T4	PROC 87 93	suivie
+T5	DISO 110 128	découverte toxique
+T6	LIVB 131 135	Elle
+T7	DISO 155 175	syndrome malformatif
+T8	Hospital 217 226	admission
+T9	Hospital 235 265	service d'accueil des urgences
+T10	DISO 284 304	diabète gestationnel
+T11	CHEM 320 343	corticoïde intra utérin
+T12	CHEM 395 405	tamoxifène
+T13	DOSE 406 412	400 mg
+T14	TEMP 412 414	/j
+T15	CHEM 419 429	furosémide
+T16	DOSE 431 437	800 mg
+T17	TEMP 437 439	/j
+T18	PROC 445 477	scanner thoraco-abdomino pelvien
+T19	ANAT 453 477	thoraco-abdomino pelvien
+T20	DISO 494 524	pancréatite stade E fistulisée
+T21	ANAT 546 569	paroi intestinale grêle
+T22	MEAS 579 584	29 cm
+T23	Concept_Idea 588 597	grand axe
+T24	ANAT 619 637	organes abdominaux
+T25	DISO 738 772	masse bourgeonnante carcinomateuse
+T26	DISO 782 807	localisation métastatique
+T27	PROC 821 857	tomodensitométrie abdomino-pelvienne
+T28	ANAT 839 857	abdomino-pelvienne
+T29	PROC 901 950	imageries complémentaires radiologiques standards
+T30	PROC 968 989	scintigraphie osseuse
+T31	ANAT 982 989	osseuse
+T32	PROC 996 1005	injection
+T33	CHEM 1009 1021	méthium iodé

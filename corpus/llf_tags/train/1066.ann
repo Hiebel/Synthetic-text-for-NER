@@ -1,0 +1,64 @@
+T1	DISO 41 61	douleurs abdominales
+T2	ANAT 50 61	abdominales
+T3	TEMP 82 95	depuis 2 mois
+T4	DISO 111 125	amaigrissement
+T5	MEAS 136 146	50 grammes
+T6	PROC 170 189	enquête étiologique
+T7	LIVB 209 213	bébé
+T8	PHEN 246 272	grossesse monoaccouchement
+T9	PROC 277 283	suivie
+T10	Concept_Idea 293 323	résultats anatomopathologiques
+T11	MEAS 338 351	satisfaisants
+T12	LIVB 392 399	enfants
+T13	Hospital 414 450	consultations médicales pédiatriques
+T14	DISO 471 483	métrorragies
+T15	PROC 509 543	prise en charge multidisciplinaire
+T16	DISO 583 598	symptomatologie
+T17	DISO 708 742	manifestations neuropsychiatriques
+T18	LIVB 826 844	famille maternelle
+T19	PROC 1453 1481	surveillance préanesthésique
+T20	PROC 1499 1516	bloc anesthésique
+T21	PROC 1529 1549	transfusion sanguine
+T22	PROC 1568 1577	injection
+T23	PROC 1591 1619	oxygénothérapie concomitante
+T24	PROC 1647 1668	contrôle radiologique
+T25	DISO 1685 1753	hyperplasie médullaire achilléenne fibroblastique séreuse hétérogène
+T26	MEAS 1763 1768	10 cm
+T27	Concept_Idea 1772 1781	grand axe
+T28	ANAT 1802 1818	région rénitente
+T29	ANAT 1861 1889	parties molles médiastinales
+T30	Concept_Idea 1930 1939	grand axe
+T31	DISO 1981 2065	prolifération tissulaire érythrophagocytaire polycytonucléaire encapsulé métatarsien
+T32	MEAS 2302 2316	15 centimètres
+T33	Concept_Idea 2389 2408	caractère mitotique
+T34	DISO 2433 2452	lésions secondaires
+T35	PROC 2523 2557	numération formule sanguine fœtale
+T36	PROC 2609 2627	ionogramme sanguin
+T37	ANAT 2620 2627	sanguin
+T38	PROC 2634 2655	bilan phosphocalcique
+T39	MEAS 2664 2671	normaux
+T40	PROC 2675 2720	examen cytobactériologique des expectorations
+T41	ANAT 2706 2720	expectorations
+T42	DISO 2746 2796	carcinome myxoïde du sphénium parathyroïdien droit
+T44	Localization 2791 2796	droit
+T45	DISO 2802 2826	remaniements nécrotiques
+T46	DISO 2837 2856	anomalies tumorales
+T47	DISO 2874 2896	récidive inflammatoire
+T48	DISO 2906 2931	localisations secondaires
+T49	DISO 2948 2958	métastases
+T50	PROC 2965 2988	marqueurs histologiques
+T51	PROC 2990 2998	HLA-CK19
+T52	PROC 3000 3004	BGN1
+T53	PROC 3006 3015	Mélan ADG
+T54	PROC 3017 3040	Satracurium neutrophile
+T55	PROC 3042 3045	NSE
+T56	PROC 3047 3065	Chromogranine SCNQ
+T57	MEAS 3087 3095	positifs
+T58	LIVB 3121 3128	malades
+T59	DISO 3161 3189	léiomyome polyploïde maligne
+T60	PROC 3250 3281	complément immuno-histochimique
+T62	PROC 3432 3454	thérapie néo adjuvante
+T63	PROC 3470 3522	hémodialyse extracorporelle parentérale séquentielle
+T65	ANAT 3721 3754	muqueuse gastroduodénale fundique
+T67	ANAT 3869 3896	bulbes digestives centrales
+T68	PROC 3912 3937	étude anatomopathologique

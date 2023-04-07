@@ -1,0 +1,35 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	10 ans
+T3	MEAS 51 59	notables
+T4	PROC 61 71	consultait
+T5	Hospital 76 101	urgences ophtalmologiques
+T6	DISO 137 150	inflammatoire
+T7	TEMP 160 173	depuis 2 mois
+T8	PHEN 209 232	équilibre psychomotrice
+T9	DISO 252 268	signes cliniques
+T10	DISO 302 318	paralysiefaciale
+T11	PROC 344 368	consultations prénatales
+T12	PROC 386 420	échocardiographies obstétricielles
+T13	TEMP 452 463	32 semaines
+T14	TEMP 467 478	40 semaines
+T15	MEAS 496 504	normales
+T16	DISO 528 561	syndrome d'épanchement péritonéal
+T17	CHEM 589 606	médiament toxique
+T18	LIVB 633 639	enfant
+T20	LIVB 660 663	son
+T21	PROC 664 679	hospitalisation
+T22	PROC 684 698	interrogatoire
+T23	DISO 723 748	troubles sensitivo moteur
+T24	PROC 835 860	hospitalisation d'urgence
+T25	PROC 866 896	traitement médical substitutif
+T26	CHEM 907 938	amoxicilline-acide clavulanique
+T27	DOSE 941 943	1g
+T28	MODE 943 955	intraveineux
+T29	DOSE 957 962	200mg
+T30	CHEM 964 973	quinolone
+T31	DOSE 976 982	400 mg
+T32	CHEM 985 999	Ciprofloxacine
+T33	DOSE 1002 1008	250 mg
+T34	CHEM 1011 1024	metronidazole
+T35	DOSE 1027 1033	600 mg
+T36	CHEM 1035 1048	triméthoprime

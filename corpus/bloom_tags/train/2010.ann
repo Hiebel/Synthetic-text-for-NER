@@ -1,0 +1,46 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	DISO 49 70	détresse respiratoire
+T4	PHEN 58 70	respiratoire
+T5	MEAS 85 91	rapide
+T6	TEMP 101 115	depuis un mois
+T7	LIVB 117 119	Il
+T8	PROC 126 130	reçu
+T9	Hospital 135 143	urgences
+T10	DISO 153 181	douleurs thoraciques fébrile
+T11	ANAT 162 173	thoraciques
+T12	DISO 194 203	symptômes
+T13	DISO 229 251	adénopathie pulmonaire
+T14	ANAT 241 251	pulmonaire
+T15	PROC 268 298	échographie abdomino-pelvienne
+T16	ANAT 280 298	abdomino-pelvienne
+T17	PROC 305 323	scanner thoracique
+T18	ANAT 313 323	thoracique
+T19	PROC 327 342	examen clinique
+T20	DISO 362 407	dyspnée obstructive du membre supérieur droit
+T21	ANAT 385 407	membre supérieur droit
+T22	Localization 402 407	droit
+T23	DISO 409 420	polypnéique
+T24	MEAS 423 436	36 cycles/min
+T25	DISO 453 469	souffle trachéal
+T26	ANAT 461 469	trachéal
+T27	PROC 473 498	toucher pleuro-pulmonaire
+T28	ANAT 481 498	pleuro-pulmonaire
+T29	DISO 536 542	fièvre
+T30	DISO 596 605	pleurésie
+T31	Concept_Idea 633 645	état général
+T32	TEMP 654 675	deux jours auparavant
+T33	MEAS 704 719	progressivement
+T34	Concept_Idea 723 729	volume
+T35	MEAS 739 750	persistante
+T36	DISO 771 797	troubles sensitivo-moteurs
+T37	ANAT 819 827	poignets
+T38	DISO 899 914	symptomatologie
+T39	DISO 917 943	méningo-épilepsie primaire
+T40	DISO 945 969	paragangliome congénital
+T41	DISO 972 997	syndrome de Guillain Barr
+T42	PROC 1003 1025	pression surrénalienne
+T43	ANAT 1012 1025	surrénalienne
+T44	MEAS 1042 1051	70/40mmHg
+T45	PROC 1066 1078	SpO 2 pulsée
+T46	MEAS 1087 1090	92%

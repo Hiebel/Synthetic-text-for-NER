@@ -1,0 +1,35 @@
+T1	LIVB 3 10	patient
+T2	PROC 31 42	hospitalisé
+T3	Hospital 47 68	urgences pédiatriques
+T4	DISO 88 113	douleur abdominopelvienne
+T5	ANAT 96 113	abdominopelvienne
+T6	DISO 136 142	sueurs
+T7	DISO 171 206	dyspnée stade III de l’hémodialyage
+T8	DISO 241 255	amaigrissement
+T9	MEAS 266 271	18 kg
+T10	PROC 292 320	prise en charge chirurgicale
+T11	PROC 326 350	anesthésie locorégionale
+T12	ANAT 337 350	locorégionale
+T13	PROC 381 413	scanner thoraco-abdomino-pelvien
+T14	ANAT 389 413	thoraco-abdomino-pelvien
+T15	LIVB 436 442	enfant
+T16	DISO 460 536	épaississement interstitiel pariétal lésionnel ischéno-œsophagien hyperdense
+T18	MEAS 546 550	4 cm
+T19	MEAS 555 559	5 cm
+T20	MEAS 603 619	de façon intense
+T21	PROC 626 659	injection de produit de contraste
+T22	CHEM 639 659	produit de contraste
+T23	DISO 681 727	lésionnelle tissulaire hypoéchogène hétérogène
+T24	ANAT 766 786	vaisseaux cardiaques
+T25	PROC 810 871	image arrondie intrarésonante écho-endoscopique transfixiante
+T26	DISO 899 916	lésions tumorales
+T27	DISO 1043 1061	traumatisme utérin
+T28	ANAT 1055 1061	utérin
+T29	Concept_Idea 1170 1188	état hémodynamique
+T30	PROC 1225 1249	radiothérapie palliative
+T31	DOSE 1281 1286	60 Gy
+T32	PROC 1325 1353	radiothérapie prophylactique
+T33	MEAS 1508 1514	rapide
+T34	DISO 1521 1549	symptomatologie prurigineuse
+T35	DISO 1577 1593	maladie cœliaque
+T36	PROC 1640 1673	traitement curatif complémentaire

@@ -1,0 +1,25 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	3 ans
+T3	PROC 36 47	hospitalisé
+T4	DISO 57 76	pleurésie purulente
+T5	Concept_Idea 92 98	effort
+T6	PROC 102 117	examen clinique
+T7	LIVB 130 137	patient
+T8	MEAS 141 144	bon
+T9	Concept_Idea 145 171	développement psychomoteur
+T10	DISO 185 205	signes neurologiques
+T11	DISO 231 248	atteinte visuelle
+T12	PROC 253 272	bilan immunologique
+T13	MEAS 279 286	positif
+T14	PROC 293 324	scanner thoracoabdomino-pelvien
+T15	ANAT 301 324	thoracoabdomino-pelvien
+T16	DISO 345 379	adénopathies basithoraciques droit
+T17	ANAT 358 379	basithoraciques droit
+T18	Localization 374 379	droit
+T19	DISO 389 402	inflammatoire
+T20	DISO 424 459	nodules parenchymateuses hypodenses
+T21	ANAT 432 459	parenchymateuses hypodenses
+T22	ANAT 473 501	sinus sus claviculaire droit
+T23	Localization 496 501	droit
+T24	DISO 522 565	masse tumorale hétérogène hypo-vascularisée
+T25	ANAT 581 614	graisse paravertébro-mésentérique

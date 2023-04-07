@@ -1,0 +1,86 @@
+T1	LIVB 16 21	fille
+T2	TEMP 30 35	7 ans
+T3	DISO 63 70	diabète
+T4	PROC 78 101	hypertension artérielle
+T5	ANAT 91 101	artérielle
+T6	PROC 107 116	admission
+T7	LIVB 121 129	patiente
+T8	MEAS 139 146	mauvais
+T9	Concept_Idea 147 159	état général
+T10	PROC 169 184	examen clinique
+T11	DISO 190 206	râles crépitants
+T12	ANAT 215 227	foyer du cou
+T13	DISO 233 245	vomissements
+T14	DISO 249 257	vertiges
+T15	DISO 272 291	taches café au lait
+T16	ANAT 300 312	conjonctives
+T17	DISO 344 350	fièvre
+T18	DISO 361 381	symptômes psychiques
+T19	PROC 385 399	interrogatoire
+T20	PHEN 431 449	mariage consanguin
+T22	PROC 574 593	bilan préopératoire
+T23	LIVB 672 684	petite fille
+T24	PROC 714 731	maturité sexuelle
+T25	MEAS 742 755	4 centimètres
+T26	DEVI 768 776	prothèse
+T27	LIVB 820 822	sa
+T28	LIVB 823 836	belle-famille
+T29	LIVB 840 843	son
+T30	LIVB 844 850	garçon
+T31	Hospital 880 897	soirées éxotiques
+T32	TEMP 983 992	5 minutes
+T33	Concept_Idea 1126 1146	limites recommandées
+T34	LIVB 1167 1217	pédiatres obstétriciens anesthésistes pédiatriques
+T35	PROC 1224 1249	exploration gynécologique
+T36	PROC 1284 1308	prise en charge médicale
+T37	Concept_Idea 1456 1468	trajectoires
+T38	LIVB 1524 1526	la
+T39	LIVB 1527 1532	femme
+T40	MEAS 1590 1602	1750 grammes
+T41	LIVB 1624 1630	enfant
+T42	MEAS 1713 1731	18 fois la normale
+T43	PROC 1749 1766	examens cliniques
+T44	DISO 1774 1798	complication infectieuse
+T45	PROC 1841 1865	consultations prénatales
+T46	PROC 1888 1925	traitements chirurgicaux substitutifs
+T47	PROC 1983 1994	opératoires
+T48	DISO 2026 2058	monofoetale homozygote familiale
+T49	PROC 2063 2086	traitement orthopédique
+T50	PROC 2092 2121	corticoïde biphospholipidique
+T51	PROC 2136 2183	néphrocalcinothérapie intraveineuse parentérale
+T52	CHEM 2314 2332	culots globulaires
+T53	CHEM 2393 2404	glucantime®
+T54	DOSE 2405 2413	25 mg/kg
+T55	CHEM 2416 2432	fluoroquinolones
+T56	CHEM 2457 2479	acide acétyle thiazolé
+T57	CHEM 2481 2505	céphalosporines sériques
+T58	Concept_Idea 2990 3012	paramètres biologiques
+T59	ANAT 3027 3033	urines
+T60	PROC 3049 3065	bilan biologique
+T61	DISO 3077 3086	anomalies
+T62	LIVB 3091 3099	patiente
+T63	PROC 3118 3141	radiothérapie adjuvante
+T64	ANAT 3154 3182	nerf laryngé inférieur droit
+T65	Localization 3177 3182	droit
+T66	PROC 3208 3232	contrôle scannographique
+T67	PROC 3288 3313	chimiothérapie palliative
+T68	PROC 3327 3354	thyroïdectomie exploratrice
+T69	MEAS 3371 3382	raccourcies
+T70	TEMP 3394 3401	24 mois
+T71	DISO 3539 3605	adénocarcinome anapathémateux superficiel mésenchymateux disséminé
+T72	PROC 3651 3693	prélèvement bactériologique complémentaire
+T73	PHEN 3723 3743	récepteurs hormonaux
+T74	LIVB 3771 3779	patiente
+T75	MEAS 3792 3813	suffisamment positifs
+T76	PROC 3829 3838	admission
+T77	Hospital 3843 3864	urgences pédiatriques
+T78	PROC 3888 3909	surveillance clinique
+T79	DEVI 4053 4102	voie veineuse centrale péridurale conventionnelle
+T80	PROC 4128 4175	prise en charge multidisciplinaire chirurgicale
+T81	Concept_Idea 4191 4221	résultats anatomopathologiques
+T82	PROC 4354 4461	tomodensimètrie antalgique axillaire percutanée asymétrique échoendoscopéridienne endotrachéale fractionnée
+T83	PROC 4480 4509	échographie obstétricentrique
+T84	Concept_Idea 4584 4615	circonstances intrarachidiennes
+T85	MEAS 4654 4659	10 cm
+T86	MEAS 4663 4668	12 mm
+T87	Concept_Idea 4679 4694	recommandations

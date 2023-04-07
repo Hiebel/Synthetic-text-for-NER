@@ -1,0 +1,136 @@
+T1	Concept_Idea 4 29	paramètres hémodynamiques
+T2	ANAT 33 46	respiratoires
+T3	DISO 60 69	anomalies
+T4	PROC 74 91	tomodensitométrie
+T5	DISO 108 138	dilatation du ventricule droit
+T6	ANAT 122 138	ventricule droit
+T7	Localization 133 138	droit
+T8	MEAS 141 154	environ 80 mm
+T9	Concept_Idea 158 166	diamètre
+T10	DISO 181 200	syndrome restrictif
+T11	MEAS 205 209	deux
+T12	ANAT 210 217	poumons
+T13	PROC 261 291	TDM thoraco abdomino-pelvienne
+T14	ANAT 265 291	thoraco abdomino-pelvienne
+T15	TEMP 301 311	22/08/2017
+T16	LIVB 325 331	enfant
+T17	PROC 349 368	bilan préopératoire
+T18	PROC 370 381	hémoculture
+T19	PROC 383 401	bilans biologiques
+T20	PROC 403 416	sérologie VIH
+T21	Concept_Idea 436 466	résultats anatomopathologiques
+T22	LIVB 470 472	il
+T23	DEVI 494 518	matériel d'ostéosynthèse
+T24	DISO 547 621	hypoalbuminose anéchogène nécrotique tissulaire intracanalaire congénitale
+T25	PROC 638 649	réanimation
+T26	Hospital 653 668	bloc opératoire
+T27	PROC 674 697	traitement conservateur
+T28	CHEM 703 721	ciment chirurgical
+T29	PROC 735 753	antibioprophylaxie
+T30	Concept_Idea 766 788	conditions opératoires
+T31	DISO 921 936	symptomatologie
+T32	DISO 961 980	fuites infectieuses
+T33	DISO 1032 1057	sécheresse postopératoire
+T34	PROC 1085 1124	chimiothérapie adjuvante antibacillaire
+T35	DOSE 1125 1130	50 mg
+T36	TEMP 1130 1132	/j
+T37	PROC 1138 1175	remplissage vasculaire digestif total
+T39	PROC 1188 1222	prise en charge neuropsychiatrique
+T40	PROC 1261 1326	psychothérapie cognitivo-comportementale parentérale substitutive
+T41	CHEM 1339 1353	céphalosporine
+T42	CHEM 1356 1366	nifédipine
+T43	CHEM 1369 1379	isoniazide
+T44	CHEM 1382 1395	métronidazole
+T45	CHEM 1398 1412	sel de lithium
+T46	CHEM 1415 1431	glucantimenetine
+T47	CHEM 1434 1447	dexaméthasone
+T48	CHEM 1450 1464	pyrazinamideol
+T49	CHEM 1467 1477	metformine
+T50	CHEM 1480 1498	acide zolédronique
+T51	CHEM 1501 1513	prédnisolone
+T52	CHEM 1516 1526	aminosides
+T53	CHEM 1529 1540	rifampicine
+T54	CHEM 1543 1553	ethambutol
+T55	CHEM 1556 1569	moxifloxacine
+T56	CHEM 1572 1585	phénobarbital
+T57	CHEM 1588 1605	grisulfaméthasone
+T58	CHEM 1608 1621	cotrimoxazole
+T59	CHEM 1624 1637	gentamivudine
+T60	CHEM 1640 1652	cortisonique
+T61	CHEM 1655 1666	propranolol
+T62	CHEM 1669 1681	tétracycline
+T63	CHEM 1684 1694	stramycine
+T64	CHEM 1697 1711	ciprofloxacine
+T65	CHEM 1714 1728	neuroleptiques
+T66	CHEM 1731 1741	antalgique
+T67	CHEM 1744 1752	aspirine
+T68	CHEM 1755 1764	imipenème
+T69	CHEM 1767 1785	héparine acrylique
+T70	CHEM 1788 1798	anticotine
+T71	CHEM 1801 1820	hydroxyprogestérone
+T72	CHEM 1823 1840	halopéridolactone
+T73	CHEM 1843 1860	œstroprogestérone
+T74	CHEM 1863 1881	monofloral sodique
+T75	CHEM 1884 1903	méthamphétamine B12
+T76	CHEM 1906 1920	alpha carotène
+T77	CHEM 1923 1931	atropine
+T78	CHEM 1934 1946	carbofuranes
+T79	CHEM 1949 1971	carbamate de magnésium
+T80	CHEM 1974 1988	hydrocortisone
+T81	CHEM 1991 2010	valproate de sodium
+T82	CHEM 2013 2022	palmitane
+T83	CHEM 2025 2035	cisplatine
+T84	CHEM 2038 2052	calciumacétone
+T85	CHEM 2055 2077	cyperméthrine aglycone
+T86	CHEM 2080 2091	nicardipine
+T87	CHEM 2094 2122	thiocyanate de stromaformine
+T88	CHEM 2125 2137	vitamine B12
+T89	CHEM 2140 2163	quinyl arsenicoagulines
+T90	CHEM 2166 2185	métaptophosphonates
+T91	CHEM 2188 2204	fluoroquinolones
+T92	CHEM 2207 2237	ceftriaxone acide clavulanique
+T93	CHEM 2240 2250	sérum salé
+T94	CHEM 2253 2288	anti-inflammatoires non stéroïdiens
+T95	CHEM 2291 2304	pyréthrinoïde
+T96	CHEM 2307 2318	vincristine
+T97	CHEM 2321 2334	métronidazole
+T98	CHEM 2337 2347	isoniazole
+T99	CHEM 2350 2368	bromure de méthyle
+T100	CHEM 2371 2385	céphalosporine
+T101	CHEM 2388 2401	triméthoprime
+T102	PROC 2406 2416	traitement
+T103	DOSE 2470 2475	25 mg
+T104	TEMP 2475 2483	/semaine
+T105	PROC 2499 2526	chimiothérapie concomitante
+T106	PROC 2550 2572	remplissage vasculaire
+T107	ANAT 2562 2572	vasculaire
+T108	DEVI 2580 2599	cathéter circulaire
+T109	PROC 2617 2650	complément thérapeutique adjuvant
+T110	DISO 2658 2663	décès
+T111	LIVB 2667 2674	patient
+T112	PROC 2698 2722	contrôles échographiques
+T113	DISO 2740 2749	anomalies
+T114	MEAS 2785 2794	favorable
+T115	PROC 2800 2820	reprise chirurgicale
+T116	DISO 2840 2865	crise aiguë hypogastrique
+T117	TEMP 2875 2888	depuis 3 mois
+T118	LIVB 2911 2921	nouveau-né
+T119	TEMP 2929 2940	22 semaines
+T120	Concept_Idea 2968 2998	résultats anatomopathologiques
+T121	PHEN 3017 3038	grossesse monofoetale
+T122	TEMP 3047 3058	24 semaines
+T123	LIVB 3073 3075	il
+T124	PROC 3089 3111	consultation prénatale
+T125	LIVB 3121 3127	enfant
+T126	Concept_Idea 3142 3173	antécédents médico-chirurgicaux
+T127	DISO 3194 3218	malformation congénitale
+T128	Hospital 3250 3271	urgences pédiatriques
+T129	LIVB 3291 3302	jeune fille
+T130	Concept_Idea 3346 3358	état général
+T131	Concept_Idea 3365 3381	réponse clinique
+T132	PROC 3389 3413	examen clinique standard
+T133	DISO 3438 3454	troubles visuels
+T134	DISO 3469 3519	lésions cutanéomuqueuses érythémato-conjonctivales
+T135	Localization 3625 3637	face interne
+T136	ANAT 3648 3664	crête occipitale
+T137	MEAS 3672 3682	15 x 14 cm

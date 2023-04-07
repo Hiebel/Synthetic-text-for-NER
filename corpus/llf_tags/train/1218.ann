@@ -1,0 +1,110 @@
+T1	LIVB 2 7	homme
+T2	DISO 28 51	antécédent pathologique
+T3	MEAS 52 63	particulier
+T4	Hospital 86 106	service des urgences
+T5	DISO 116 149	distension abdominale douloureuse
+T6	ANAT 127 137	abdominale
+T7	PROC 153 167	interrogatoire
+T8	Concept_Idea 181 189	histoire
+T9	PHEN 196 205	grossesse
+T10	PROC 210 216	suivie
+T11	LIVB 238 245	famille
+T12	Concept_Idea 281 293	état général
+T13	Concept_Idea 315 333	état hémodynamique
+T14	ANAT 346 366	membre pelvien droit
+T15	Localization 361 366	droit
+T16	TEMP 376 394	depuis trois jours
+T17	PROC 400 409	admission
+T18	LIVB 413 423	nouveau-né
+T19	MEAS 433 440	mauvais
+T20	Concept_Idea 441 453	état général
+T21	DISO 479 497	signe neurologique
+T22	DISO 515 524	céphalées
+T23	DISO 535 559	symptômes psychomotrices
+T24	PROC 564 591	broncho-pneumo-sous cutanée
+T25	PROC 593 597	FOGD
+T26	DISO 616 639	déficit sensitivomoteur
+T27	DISO 643 666	modificateur tissulaire
+T28	DISO 679 700	syndrome hémorragique
+T29	MEAS 737 744	simples
+T30	PROC 749 771	traitement substitutif
+T31	CHEM 776 789	antibiotiques
+T32	CHEM 819 850	amoxicilline acide clavulanique
+T33	CHEM 853 862	imipenème
+T34	CHEM 865 875	aminosides
+T35	CHEM 878 891	phénobarbital
+T36	CHEM 894 904	isoniazide
+T37	CHEM 907 918	vincristine
+T38	CHEM 921 931	ethambutol
+T39	CHEM 934 944	éthambutol
+T40	CHEM 947 958	nitrosémide
+T41	CHEM 961 979	acide zolédronique
+T43	CHEM 998 1009	tétrazidime
+T44	CHEM 1012 1032	sulfate de potassium
+T45	CHEM 1035 1054	monoxyde de carbone
+T46	CHEM 1057 1076	chlorure de potasse
+T47	CHEM 1079 1100	pyrazinamide acétique
+T48	CHEM 1103 1112	halothane
+T49	CHEM 1115 1129	hydrocortisone
+T50	CHEM 1132 1145	dexaméthasone
+T51	CHEM 1148 1158	propanolol
+T52	CHEM 1161 1172	nicardipine
+T53	CHEM 1175 1188	métronidazole
+T54	CHEM 1191 1200	étoposide
+T55	CHEM 1203 1214	hydroxyzine
+T56	CHEM 1217 1227	stramonium
+T57	CHEM 1230 1250	fentanyl transférase
+T58	CHEM 1253 1266	fluorouracile
+T59	CHEM 1269 1287	polynésartrémicide
+T60	CHEM 1290 1315	cyclophosphamide atropine
+T61	CHEM 1318 1338	hypochromocorticoïde
+T62	CHEM 1341 1351	furosémide
+T63	CHEM 1354 1369	methyl salicylé
+T64	CHEM 1372 1386	ciprofloxacine
+T65	CHEM 1389 1409	carbonate de lithium
+T66	CHEM 1412 1423	méthamoline
+T67	CHEM 1426 1436	antalgique
+T68	CHEM 1439 1452	neuroleptique
+T69	CHEM 1455 1467	cortisonique
+T70	CHEM 1470 1481	paracétamol
+T71	CHEM 1484 1493	termolide
+T72	CHEM 1496 1507	myorelaxant
+T73	CHEM 1510 1520	fermenteux
+T74	CHEM 1523 1546	dérivé thymorégulinique
+T75	CHEM 1549 1568	atropine bêtalactée
+T76	CHEM 1571 1584	prostigestrel
+T77	CHEM 1587 1596	œstradiol
+T78	CHEM 1599 1617	immunofolliculaire
+T79	CHEM 1620 1632	kétamine B12
+T80	CHEM 1635 1648	cotrimoxazole
+T81	DISO 1728 1742	AVC ischémique
+T82	LIVB 1754 1762	patiente
+T83	PROC 1782 1802	reprise chirurgicale
+T84	PROC 1808 1837	oxygénothérapie intraveineuse
+T85	PROC 1851 1878	thyroïdectomie exploratrice
+T86	DEVI 1908 1921	prothyroidien
+T87	ANAT 1958 1971	nerf digestif
+T88	PROC 2031 2057	examen anatomopathologique
+T89	PROC 2063 2089	scintigraphie scannoguidée
+T90	DISO 2122 2143	malignité congénitale
+T91	PROC 2271 2290	bilan préopératoire
+T92	DISO 2309 2318	anomalies
+T93	PROC 2332 2360	culture du liquide gastrique
+T94	ANAT 2343 2360	liquide gastrique
+T95	MEAS 2367 2374	stérile
+T96	DISO 2382 2396	carcinomateuse
+T97	Concept_Idea 2402 2432	résultats immunohistochimiques
+T98	PROC 2437 2455	antigènes solubles
+T99	DISO 2484 2525	Histiocytose E1-Actine IgA Kappa Leukemia
+T100	DOSE 2527 2537	400 GB/mm³
+T101	PROC 2542 2578	échographie par résonance magnétique
+T102	DISO 2680 2704	invagination endobuccale
+T103	ANAT 2842 2875	expectorations pariéto-nervicales
+T104	PROC 2915 2946	TDM abdomino-transoesophagienne
+T105	ANAT 2919 2946	abdomino-transoesophagienne
+T106	Concept_Idea 2997 3022	localisations secondaires
+T107	Localization 3158 3170	médiastinaux
+T108	ANAT 3223 3241	symphysies caudale
+T109	MEAS 3265 3269	4 cm
+T110	MEAS 3273 3277	5 cm
+T112	MEAS 3385 3394	grade III

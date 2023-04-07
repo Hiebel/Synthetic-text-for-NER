@@ -1,0 +1,28 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 43	hospitalisée
+T3	Hospital 48 56	urgences
+T4	DISO 66 83	céphalées fébrile
+T5	DISO 125 139	amaigrissement
+T6	MEAS 150 155	25 kg
+T7	PROC 159 174	examen clinique
+T8	PHEN 188 210	fonction surrénalienne
+T9	ANAT 197 210	surrénalienne
+T10	MEAS 211 222	insuffiante
+T11	DISO 236 259	agitation psychomotrice
+T12	MEAS 274 280	rapide
+T13	MEAS 290 304	plus fréquente
+T14	MEAS 331 347	de façon brutale
+T15	LIVB 360 364	elle
+T16	MEAS 411 423	particuliers
+T17	DISO 451 489	syndrome d'épanchement intrapéritonéal
+T18	ANAT 474 489	intrapéritonéal
+T19	DISO 514 541	retentissement neurologique
+T20	ANAT 672 680	utérines
+T21	LIVB 772 780	patiente
+T22	CHEM 812 825	phénobarbital
+T23	DOSE 831 837	400 mg
+T24	TEMP 837 839	/j
+T25	DISO 866 889	déficit sensitivomoteur
+T26	Localization 907 912	supra
+T27	LIVB 1172 1179	famille
+T28	PROC 1195 1222	numération formule sanguine

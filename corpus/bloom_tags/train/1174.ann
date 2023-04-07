@@ -1,0 +1,20 @@
+T1	LIVB 16 24	patiente
+T2	PROC 42 50	consulte
+T3	Hospital 55 63	urgences
+T4	DISO 73 97	douleur abdominale aiguë
+T5	ANAT 81 91	abdominale
+T6	DISO 108 129	décharges électriques
+T7	MEAS 144 148	deux
+T8	ANAT 149 158	épiploons
+T9	PROC 162 177	examen clinique
+T10	Concept_Idea 190 195	poids
+T11	MEAS 199 204	50 kg
+T12	Concept_Idea 212 218	taille
+T13	MEAS 222 228	170 cm
+T14	DISO 241 257	signes cliniques
+T15	PROC 271 299	bilan biologique d'extension
+T16	PROC 301 313	radiologique
+T17	PROC 317 332	hormonothérapie
+T18	MEAS 345 352	négatif
+T19	PROC 366 394	tomodensitométrie thoracique
+T20	ANAT 384 394	thoracique

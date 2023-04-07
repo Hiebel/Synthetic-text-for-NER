@@ -1,0 +1,23 @@
+T1	LIVB 15 20	homme
+T2	CHEM 32 64	médecin anesthésiste-réanimateur
+T3	PROC 94 99	admis
+T4	Hospital 104 112	urgences
+T5	DISO 132 153	détresse respiratoire
+T6	PHEN 141 153	respiratoire
+T7	DISO 158 184	dyspnée stade II de Sadoul
+T8	TEMP 194 210	depuis 72 heures
+T9	PROC 216 240	ventilation artificielle
+T10	DEVI 242 248	masque
+T11	PROC 253 267	interrogatoire
+T12	DISO 291 306	symptomatologie
+T13	DISO 324 343	hématurie purulente
+T14	MEAS 358 364	rapide
+T15	MEAS 374 387	macroscopique
+T16	DISO 435 455	prise médicamenteuse
+T17	DISO 584 609	atteinte bronchocondivale
+T18	ANAT 593 609	bronchocondivale
+T19	LIVB 619 627	patients
+T20	DISO 682 691	symptômes
+T21	MEAS 760 782	rapidement progressive
+T22	DISO 809 828	douleurs pelviennes
+T23	ANAT 818 828	pelviennes

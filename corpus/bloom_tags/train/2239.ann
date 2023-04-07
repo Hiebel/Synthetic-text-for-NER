@@ -1,0 +1,25 @@
+T1	LIVB 15 22	patient
+T2	PHEN 38 44	décédé
+T3	ANAT 75 100	intrapéritonéal liquidien
+T4	DISO 118 156	insuffisance rénale biliaire chronique
+T5	ANAT 131 156	rénale biliaire chronique
+T6	CHEM 162 190	cotrimoxazole progestérolone
+T7	MEAS 225 233	6 litres
+T8	PROC 250 259	admission
+T9	Hospital 264 289	urgences ophtalmologiques
+T10	DISO 303 326	polytraumatisme fébrile
+T11	DISO 341 368	détresse respiratoire aiguë
+T12	PHEN 350 368	respiratoire aiguë
+T13	MEAS 383 389	rapide
+T14	MODE 408 426	voie intraveineuse
+T15	DOSE 430 436	500 mg
+T16	CHEM 440 450	metoxifène
+T17	DOSE 453 460	1 mg/kg
+T18	CHEM 464 484	méthylhydrocortisone
+T19	DISO 589 618	anémie hémolytique ferriprive
+T20	TEMP 639 654	pendant 4 jours
+T21	MEAS 696 708	plus intense
+T22	LIVB 724 726	Il
+T23	CHEM 816 844	concentrés hydro-alcooliques
+T24	LIVB 890 909	personnages féminin
+T25	DISO 944 957	thromboprimes

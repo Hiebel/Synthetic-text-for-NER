@@ -1,0 +1,26 @@
+T1	LIVB 4 9	femme
+T2	PROC 29 35	admise
+T3	Hospital 40 65	urgences ophtalmologiques
+T4	DISO 84 105	hémiplégie ischémique
+T5	DISO 123 162	tuberculose sinusopharyngo œsophagienne
+T6	ANAT 135 162	sinusopharyngo œsophagienne
+T7	PROC 168 195	traitement anti-tuberculeux
+T8	CHEM 228 239	Gentamycine
+T9	CHEM 242 256	Rifentionnelle
+T10	PROC 263 293	prélèvements bactérioculturels
+T11	PROC 345 353	examinés
+T12	PROC 360 370	incubation
+T13	MEAS 373 377	37°C
+T14	CHEM 453 465	pyrazinamide
+T15	CHEM 486 505	céphalosulbactamase
+T16	LIVB 538 545	patient
+T17	DISO 617 631	germeschermose
+T18	CHEM 662 694	cephalosulbactamyl pénicilline G
+T19	DOSE 696 705	0,5 mg/kg
+T20	TEMP 705 710	/jour
+T21	LIVB 713 715	Sa
+T22	PROC 716 752	ponction liquide pleuro-péricardique
+T23	ANAT 725 752	liquide pleuro-péricardique
+T24	MEAS 766 773	normale
+T25	PROC 788 816	tomodensitométrie thoracique
+T26	ANAT 806 816	thoracique

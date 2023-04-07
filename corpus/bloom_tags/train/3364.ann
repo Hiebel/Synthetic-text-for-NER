@@ -1,0 +1,37 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 57	antécédents
+T3	MEAS 58 70	particuliers
+T4	PROC 81 87	admise
+T5	Hospital 92 100	urgences
+T7	ANAT 119 138	abdomino périnéales
+T8	DISO 148 161	inflammatoire
+T9	TEMP 171 189	depuis trois jours
+T10	PROC 193 207	interrogatoire
+T11	DISO 236 252	épisodes fébrile
+T12	DISO 267 297	syndrome d'épanchement pelvien
+T13	ANAT 290 297	pelvien
+T14	ANAT 311 329	liquide amniotique
+T15	PROC 337 352	examen clinique
+T16	PROC 359 384	scanner abdomino- pelvien
+T17	ANAT 367 384	abdomino- pelvien
+T18	PROC 386 390	PECM
+T19	PROC 415 445	prélèvement bactérioconducteur
+T20	PROC 458 495	cystadénoïdiolaparotomie exploratrice
+T21	LIVB 521 529	patiente
+T22	DISO 549 590	polynucléaire érythémateuse inflammatoire
+T23	ANAT 638 662	liquide céphalorachidien
+T24	DISO 684 704	empyème intracrânien
+T25	ANAT 692 704	intracrânien
+T26	DISO 713 728	myxome purulent
+T27	DISO 749 766	signes infectieux
+T28	DISO 781 802	troubles métaboliques
+T29	DISO 865 901	méningo-pneumo-lésionnel lithiasique
+T30	PROC 1033 1056	dissection chirurgicale
+T31	ANAT 1071 1089	membres inférieurs
+T32	PROC 1109 1139	techniques d'immunohistochimie
+T33	CHEM 1181 1197	progestérone IgG
+T34	Localization 1209 1217	centrale
+T35	PROC 1362 1372	diagnostic
+T36	DISO 1404 1451	tumeur hypopigmentée carcinomateuse polyclonale
+T37	DISO 1469 1498	métastase hépatosurrénalienne
+T38	ANAT 1479 1498	hépatosurrénalienne

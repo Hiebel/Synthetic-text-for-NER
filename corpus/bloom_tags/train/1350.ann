@@ -1,0 +1,23 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 34 42	patiente
+T3	MEAS 46 49	bon
+T4	Concept_Idea 50 62	état général
+T5	DISO 64 75	polypnéique
+T6	MEAS 78 91	28 cycles/min
+T7	PHEN 96 114	tension artérielle
+T8	ANAT 104 114	artérielle
+T9	MEAS 124 135	130/70 mmhg
+T10	PROC 151 167	examen somatique
+T11	DISO 179 192	particularité
+T12	PROC 197 223	pression artérielle pulsée
+T13	ANAT 206 223	artérielle pulsée
+T14	PROC 225 229	PAPS
+T15	Localization 231 241	supérieure
+T16	MEAS 244 253	150mmol/l
+T17	PROC 259 277	traitement médical
+T18	CHEM 282 293	antalgiques
+T19	CHEM 297 331	anti-inflammatoires non stéroïdien
+T20	DISO 373 409	syndrome d'épanchement péribucclusal
+T21	ANAT 396 409	péribucclusal
+T22	DISO 451 509	adénopathies cerviculaires basithoraciques hypoéchogéantes
+T24	DISO 522 535	paragangliome

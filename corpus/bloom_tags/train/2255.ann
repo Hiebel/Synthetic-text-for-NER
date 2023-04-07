@@ -1,0 +1,20 @@
+T1	PROC 2 8	examen
+T2	PROC 13 22	admission
+T3	LIVB 39 47	patiente
+T4	MEAS 51 54	bon
+T5	Concept_Idea 55 67	état général
+T6	ANAT 72 79	abdomen
+T7	MEAS 80 84	pâle
+T8	DISO 92 104	métrorragies
+T9	ANAT 138 148	col utérin
+T10	PROC 153 170	bilan d'extension
+T11	DISO 182 195	particularité
+T12	DISO 213 238	localisations secondaires
+T13	PROC 243 276	scanner abdomino-cervico-vaginale
+T14	ANAT 251 276	abdomino-cervico-vaginale
+T15	DISO 308 414	masse tissulaire hypodense hétérogène hypo-vascularisée infilcrant les vaisseaux péritonéaux intrarétinien
+T16	ANAT 379 414	vaisseaux péritonéaux intrarétinien
+T17	Localization 416 425	bilatéral
+T18	ANAT 433 474	parenchyme ovarien gynéro-méso-sigmoïdien
+T19	DISO 490 510	carcinose rétinienne
+T20	ANAT 500 510	rétinienne

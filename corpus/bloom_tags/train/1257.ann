@@ -1,0 +1,70 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	Concept_Idea 38 49	antécédents
+T4	MEAS 50 58	notables
+T5	PROC 60 65	admis
+T6	DISO 75 97	douleurs épigastriques
+T7	ANAT 84 97	épigastriques
+T8	DISO 114 120	nausée
+T9	TEMP 130 152	depuis plusieurs jours
+T10	LIVB 154 156	Il
+T11	PROC 163 174	hospitalisé
+T12	Hospital 178 185	urgence
+T13	DISO 204 229	œdème du tronc œsophagien
+T15	PROC 234 256	bilan phospho-calcique
+T16	PROC 263 290	numération formule sanguine
+T17	MEAS 304 311	normaux
+T18	PROC 315 345	échographie abdomino-pelvienne
+T19	ANAT 327 345	abdomino-pelvienne
+T20	MEAS 352 359	normale
+T21	PROC 373 391	ionogramme sanguin
+T22	ANAT 384 391	sanguin
+T23	PROC 393 396	IEC
+T24	PROC 402 421	protéine-C-Réactive
+T25	PROC 423 426	CRP
+T26	PROC 429 441	leucorachies
+T27	PROC 456 485	sérologies d'immunodépression
+T28	MEAS 494 513	fortement négativés
+T29	DISO 531 564	syndrome d'épanchement péritonéal
+T30	ANAT 554 564	péritonéal
+T31	DISO 582 603	détresse respiratoire
+T32	PHEN 591 603	respiratoire
+T33	PROC 631 656	investigations somatiques
+T34	CHEM 680 708	médicaments antibacillariens
+T35	PROC 755 784	prélèvements bactériologiques
+T36	PROC 799 817	anaesthésie locale
+T37	PROC 827 850	injection intraveineuse
+T38	CHEM 854 867	métaméthasone
+T39	DISO 958 980	infection tuberculeuse
+T40	LIVB 1019 1027	patiente
+T42	PROC 1091 1118	interrogatoire radiologique
+T43	PROC 1121 1141	examen gynécologique
+T44	DISO 1168 1218	masse tumorale maligne latéroutérine hypogastrique
+T45	MEAS 1244 1259	progressivement
+T46	Concept_Idea 1263 1272	grand axe
+T47	MEAS 1282 1286	12cm
+T48	Concept_Idea 1290 1299	grand axe
+T49	DISO 1304 1315	douloureuse
+T50	ANAT 1339 1371	paroi abdominale péripéritonéale
+T51	DISO 1388 1408	saignements purulent
+T52	DISO 1460 1481	myxomateux nécrasique
+T54	ANAT 1580 1599	muscle psoas utérin
+T55	Localization 1627 1644	partie supérieure
+T56	ANAT 1667 1693	jonction iléo-mésentérique
+T57	ANAT 1783 1806	vaisseaux mésentériques
+T58	ANAT 1878 1905	parties molles intestinales
+T59	DISO 1936 1981	carcinome érythémateux granulomateux kystoïde
+T60	DISO 1998 2023	lésion nécrotico-kystique
+T61	ANAT 2037 2068	endométrial spongio-glandulaire
+T62	PROC 2085 2100	examen clinique
+T63	DISO 2131 2166	troubles sensitivo visuels/auditifs
+T64	DISO 2180 2208	manifestations neuromotrices
+T65	DISO 2252 2274	anomalies métaboliques
+T66	DISO 2299 2327	lymphoprolactinisme primaire
+T67	PROC 2333 2369	tomodensitométrie abdomino-pelvienne
+T68	ANAT 2351 2369	abdomino-pelvienne
+T70	LIVB 2845 2853	patiente
+T71	PROC 2880 2904	chimiothérapie adjuvante
+T72	CHEM 2910 2920	cisplatine
+T73	CHEM 2922 2934	carboplatine
+T74	CHEM 2938 2951	dexaméthasone

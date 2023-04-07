@@ -1,0 +1,42 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 38 44	pesant
+T3	MEAS 45 50	75 kg
+T4	PHEN 60 69	grossesse
+T5	PROC 74 80	suivie
+T6	DISO 97 112	symptomatologie
+T7	TEMP 125 135	deux jours
+T8	LIVB 142 145	son
+T9	PROC 146 155	admission
+T10	Hospital 159 177	service d'urologie
+T11	Hospital 181 230	centre hospitalier universitaire Hassan II de Fès
+T12	PROC 234 249	examen clinique
+T13	DISO 260 281	détresse respiratoire
+T14	PHEN 269 281	respiratoire
+T15	TEMP 291 308	depuis deux jours
+T16	DISO 321 337	signes cliniques
+T17	DISO 380 415	carcinose parathyroïdienne tumorale
+T18	ANAT 390 415	parathyroïdienne tumorale
+T19	PROC 421 440	chirurgie adjuvante
+T20	DISO 459 520	tuméfaction sous angulo-cervicale dorsolombaire hypo échogène
+T21	ANAT 471 1300	sous angulo-cervicale dorsolombaire hypo échogène mesurant 3 cm de grand axe sur 2 cm de petit axe intéressant les quadrants supéro-latéraux antérieurs sus-claviculaire interne thoracique inférieur bilatéral supérieur médian cervico-mandibulaire basithoracique caryophyto-sigmoïdal était objectivé qui a augmenté progressivement de volume devenant multi-nodulaire faisant environ 5 cm de grand axe pour devenir massivement arrondie envahissant intimement tous les liquide pleurales laissant place aux tissulaires mésentériques tout en gardant leur surface macroscopiquementrégulière ne refoulant aucun produit lésionnel vers leurs zones périphériques d'où sa nature « bourgeonnante » tandis que son plan profond est hétérogène fait essentiellement de lobules effleurés arrivant jusqu'à l'épiphyse thyroïdienne sus-diaphragmatique
+T22	Localization 471 475	sous
+T23	MEAS 530 534	3 cm
+T24	Concept_Idea 538 547	grand axe
+T25	MEAS 552 556	2 cm
+T26	Concept_Idea 560 569	petit axe
+T27	Localization 669 678	bilatéral
+T28	MEAS 784 799	progressivement
+T29	Concept_Idea 803 809	volume
+T30	MEAS 819 834	multi-nodulaire
+T31	MEAS 843 855	environ 5 cm
+T32	Concept_Idea 859 868	grand axe
+T33	MEAS 882 902	massivement arrondie
+T34	ANAT 935 952	liquide pleurales
+T35	ANAT 972 997	tissulaires mésentériques
+T36	Concept_Idea 1019 1026	surface
+T37	MEAS 1027 1053	macroscopiquementrégulière
+T38	DEVI 1073 1090	produit lésionnel
+T39	Concept_Idea 1170 1182	plan profond
+T40	MEAS 1187 1197	hétérogène
+T41	ANAT 1222 1239	lobules effleurés
+T42	Localization 1281 1284	sus

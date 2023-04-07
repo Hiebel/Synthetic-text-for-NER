@@ -1,0 +1,50 @@
+T1	LIVB 19 29	nouveau-né
+T2	TEMP 53 64	18 semaines
+T3	PROC 90 121	assistance médicale néonatalyse
+T4	PROC 187 214	corticothérapie parentérale
+T5	CHEM 220 236	antipyrazinamide
+T6	CHEM 239 259	aminosides calciques
+T7	PROC 275 331	anticoagulation substitutionnelle intraveineuse continue
+T8	Concept_Idea 348 368	recherches cliniques
+T9	Hospital 430 451	grossesse monofoetale
+T10	PROC 506 515	transfusé
+T11	PROC 564 570	suivis
+T12	PROC 582 604	consultation prénatale
+T13	TEMP 632 637	15h30
+T14	TEMP 641 646	16h00
+T15	DISO 702 724	hémorragies spontanées
+T16	TEMP 753 769	quelques minutes
+T17	PROC 831 859	prise en charge chirurgicale
+T18	LIVB 906 908	sa
+T19	LIVB 909 916	famille
+T20	LIVB 923 934	belle-fille
+T21	LIVB 1079 1111	médecins obstétriciens pédiatres
+T22	PROC 1233 1290	cystoconjugaison fœtale interventriculaire prophylactique
+T23	PROC 1309 1404	céphaloplastie axillaire transoesophagienne rétropéritonéale échoguidée asymétrique fractionnée
+T24	MEAS 1413 1418	petit
+T25	ANAT 1419 1425	utérus
+T26	MEAS 1449 1459	2,4×1,5 cm
+T27	ANAT 1481 1493	ovaire droit
+T28	Localization 1488 1493	droit
+T29	PROC 1507 1523	bilan biologique
+T30	DISO 1535 1548	particularité
+T31	PROC 1562 1581	sérologie hydatique
+T32	PROC 1650 1689	laparotomie postopératoire endoscopique
+T33	PROC 1732 1858	cholécystectomie totale intrathoracique élargie adjuvante cutanéomuqueuse distale profonde encapsulage scanno abdomino pelvien
+T35	Localization 2015 2031	antérieur droite
+T36	PHEN 2064 2073	grossesse
+T37	DEVI 2089 2106	prothèse laryngée
+T38	MEAS 2116 2136	12x10 x8 centimètres
+T39	PROC 2141 2147	diluée
+T40	PROC 2213 2240	examen anatomo-pathologique
+T41	PROC 2257 2275	geste anesthésique
+T42	TEMP 2287 2305	environ 15 minutes
+T43	PROC 2331 2348	lavages intensifs
+T44	TEMP 2360 2369	24 heures
+T45	PROC 2383 2422	toilette naso-gastroduodénale cervicale
+T46	ANAT 2392 2422	naso-gastroduodénale cervicale
+T47	PROC 2435 2487	extubation aspirativo-digestive préopératoire guidée
+T48	ANAT 2621 2637	annexes charnues
+T49	Concept_Idea 2883 2904	caractère anictérique
+T50	PROC 2908 2928	mobilisation passive
+T51	PROC 2954 2974	séance peropératoire

@@ -1,0 +1,24 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	6 ans
+T3	Concept_Idea 41 52	antécédents
+T4	MEAS 53 65	particuliers
+T5	PROC 67 72	admis
+T6	Hospital 77 98	urgences pédiatriques
+T7	DISO 107 142	syndrome d'épanchement péricardique
+T8	ANAT 130 142	péricardique
+T9	PROC 158 174	examen somatique
+T10	DISO 197 224	détresse respiratoire aigue
+T11	PHEN 206 224	respiratoire aigue
+T12	DISO 240 257	céphalées fébrile
+T13	DISO 286 300	amaigrissement
+T14	MEAS 311 315	5 kg
+T16	PROC 377 392	TDM) abdominale
+T17	ANAT 382 392	abdominale
+T18	DISO 413 493	masse du parenchyme parathyroïdien hypophagienne laryngéo médiastin hypertrophié
+T20	MEAS 503 508	35 mm
+T21	Concept_Idea 512 521	grand axe
+T22	MEAS 526 530	32mm
+T23	Concept_Idea 534 547	petite taille
+T24	ANAT 563 579	ventricule droit
+T25	Localization 574 579	droit
+T26	ANAT 587 658	artères mésentériques cervico-jugulo-carotidiennes latéro-mandibulaires

@@ -1,0 +1,50 @@
+T1	LIVB 20 28	patiente
+T2	DISO 50 75	antécédents pathologiques
+T3	MEAS 76 88	particuliers
+T4	PROC 90 96	Admise
+T5	Hospital 100 120	service des urgences
+T6	DISO 130 179	tuméfaction douloureuse du membre inférieur droit
+T7	ANAT 157 179	membre inférieur droit
+T8	Localization 174 179	droit
+T9	TEMP 189 203	depuis un mois
+T10	MEAS 218 233	progressivement
+T11	Concept_Idea 237 243	volume
+T12	PROC 254 263	palpation
+T13	DISO 282 319	déficit neurologique sensitivo-moteur
+T14	PROC 348 386	kinésithérapeutiques cognitivo-motrice
+T15	CHEM 388 417	neuroleptiques proprioceptifs
+T16	PROC 422 437	examen clinique
+T17	LIVB 461 469	patiente
+T18	DISO 474 503	distension abdomino-pelvienne
+T19	ANAT 485 503	abdomino-pelvienne
+T20	DISO 519 550	désorientation temporo-spatiale
+T21	Concept_Idea 586 599	état générale
+T22	PROC 604 621	biologie standard
+T23	PROC 651 672	examens paracliniques
+T24	DISO 688 704	hyperleucocytose
+T25	MEAS 707 719	1200 GB/mm 3
+T26	DISO 734 746	hypokaliémie
+T27	MEAS 749 759	0,3 mmol/l
+T28	DISO 787 803	maladie cœliaque
+T29	PROC 808 827	sérologie hydatique
+T30	MEAS 834 842	négative
+T31	PROC 848 873	chimiothérapie palliative
+T32	PROC 907 932	corticothérapie adjuvante
+T33	PROC 946 973	thyroïdectomie exploratrice
+T34	PHEN 1033 1055	suites postopératoires
+T35	MEAS 1064 1071	simples
+T36	PROC 1093 1114	ventilation mécanique
+T37	PROC 1119 1149	bilan biologique préopératoire
+T38	DISO 1186 1211	néphropathie hypophysaire
+T39	DISO 1229 1251	hypothyroïdie primaire
+T40	DISO 1269 1291	hydronéphrophagocytose
+T41	MEAS 1302 1315	930 000 /mm 3
+T42	DISO 1343 1357	signes cutanés
+T43	DISO 1375 1407	récidive anaplasique myxomateuse
+T44	DISO 1453 1474	syndrome hémorragique
+T45	DISO 1481 1505	symptomatique rhumatoïde
+T46	DEVI 1523 1545	traitement chirurgical
+T47	Concept_Idea 1558 1577	aspect histologique
+T48	PROC 1598 1627	prise en charge psychiatrique
+T50	DISO 2021 2060	accident vasculaire cérébral ischémique
+T51	DISO 2128 2143	choc électrique

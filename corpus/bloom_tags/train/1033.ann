@@ -1,0 +1,31 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	Concept_Idea 37 48	antécédents
+T4	MEAS 49 61	particuliers
+T5	PROC 63 68	admis
+T6	Hospital 73 81	urgences
+T7	DISO 91 100	céphalées
+T8	MEAS 127 138	progressive
+T9	PROC 142 157	examen clinique
+T10	PROC 162 171	admission
+T11	LIVB 184 190	enfant
+T12	MEAS 194 203	assez bon
+T13	Concept_Idea 204 216	état général
+T14	PHEN 226 245	pression artérielle
+T15	ANAT 235 245	artérielle
+T16	MEAS 248 259	100/60 mmhg
+T17	DEVI 267 285	tension artérielle
+T18	ANAT 275 285	artérielle
+T19	MEAS 288 297	75/40mmhg
+T20	PROC 302 321	bilan préopératoire
+T21	PROC 323 374	ponction pleurale liquidienne thoracique systatique
+T22	ANAT 332 374	pleurale liquidienne thoracique systatique
+T23	CHEM 406 420	hydrocéphaline
+T24	ANAT 429 444	liquide pleural
+T25	ANAT 458 478	pole supérieur droit
+T26	Localization 473 478	droit
+T27	MEAS 519 526	normaux
+T28	DISO 544 579	syndrome d'épanchement intrapleural
+T29	ANAT 567 579	intrapleural
+T30	DISO 589 614	atteinte vasculo-nerveuse
+T31	ANAT 598 614	vasculo-nerveuse

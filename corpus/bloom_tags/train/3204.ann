@@ -1,0 +1,128 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 37 45	patiente
+T3	MEAS 49 52	bon
+T4	Concept_Idea 53 65	état général
+T5	DISO 67 78	polypnéique
+T6	MEAS 81 94	25 cycles/min
+T7	PHEN 104 109	pouls
+T8	MEAS 113 124	75 batt/min
+T9	ANAT 130 147	muqueuses buccale
+T10	MEAS 156 182	macroscopiquement colorées
+T11	ANAT 211 222	nasopharynx
+T12	PROC 227 249	radiographie des mains
+T13	ANAT 244 249	mains
+T14	DISO 276 337	épaississement ostéolytique hypoechogène hétérogène hypodense
+T16	Localization 378 392	un seul tenant
+T17	MEAS 402 406	5 cm
+T18	Concept_Idea 410 419	grand axe
+T19	MEAS 424 428	4 cm
+T20	Concept_Idea 432 439	hauteur
+T21	DISO 452 474	adénopathies kystiques
+T22	LIVB 500 504	Elle
+T23	CHEM 521 532	Cyclosérine
+T24	DOSE 534 541	1 mg/kg
+T25	TEMP 541 543	/j
+T26	CHEM 546 562	Erythrocortisone
+T27	DOSE 564 571	2 mg/kg
+T28	TEMP 571 573	/j
+T29	CHEM 576 585	Captopril
+T30	DOSE 587 592	40 mg
+T31	TEMP 592 594	/j
+T32	CHEM 597 607	Dobutamine
+T33	DOSE 609 615	3mg/kg
+T34	TEMP 615 617	/j
+T35	CHEM 620 638	Hydroxychloroquine
+T36	DOSE 640 646	800 mg
+T37	TEMP 646 648	/j
+T38	CHEM 651 665	Ciprofloxacine
+T39	DOSE 667 673	400 mg
+T40	TEMP 673 675	/j
+T41	CHEM 678 692	Brométhoxazole
+T42	DOSE 694 700	500 mg
+T43	TEMP 700 702	/j
+T44	CHEM 705 718	Phénobarbital
+T45	DOSE 720 726	100 mg
+T46	TEMP 726 728	/j
+T47	CHEM 731 745	Hydrocortisone
+T48	DOSE 747 752	10 mg
+T49	TEMP 752 754	/j
+T50	CHEM 757 771	Chlorpromazine
+T51	DOSE 773 778	50 mg
+T52	TEMP 778 780	/j
+T53	CHEM 783 801	Methylprednisolone
+T54	DOSE 803 809	200 mg
+T55	TEMP 809 811	/j
+T56	CHEM 814 828	Gentaméthasone
+T57	DOSE 830 835	30 mg
+T58	TEMP 835 837	/j
+T59	CHEM 840 859	Valproate de sodium
+T60	DOSE 861 867	250 mg
+T61	TEMP 867 869	/j
+T62	CHEM 872 883	Rifampicine
+T63	DOSE 885 891	600 mg
+T64	TEMP 891 893	/j
+T65	CHEM 896 908	Pyrazinamide
+T66	DOSE 910 917	2000 mg
+T67	TEMP 917 919	/j
+T68	CHEM 922 933	Ethionamide
+T69	DOSE 935 941	120 mg
+T70	TEMP 941 943	/j
+T71	CHEM 946 959	Triméthoprime
+T72	DOSE 961 966	0,7 g
+T73	TEMP 966 968	/j
+T74	CHEM 971 982	Ivermectine
+T75	DOSE 984 989	20 mg
+T76	TEMP 989 991	/j
+T77	CHEM 994 1003	Clonidine
+T78	DOSE 1005 1010	15 mg
+T79	TEMP 1010 1012	/j
+T80	CHEM 1015 1025	Simvédrine
+T81	DOSE 1027 1033	160 mg
+T82	TEMP 1033 1035	/j
+T83	CHEM 1038 1049	Sulfentanyl
+T84	DOSE 1051 1058	8 µg/kg
+T85	TEMP 1058 1060	/j
+T86	CHEM 1063 1073	Nefentanil
+T87	DOSE 1075 1082	6 µg/kg
+T88	TEMP 1082 1084	/j
+T89	CHEM 1087 1098	Propranolol
+T90	MODE 1100 1118	voie intraveineuse
+T91	DOSE 1122 1128	125 mg
+T92	TEMP 1128 1130	/J
+T93	PROC 1136 1170	scanner cervico-thoraco-pulmonaire
+T95	DISO 1201 1297	hyperdensité basithoracique latérale bilatérale basithoracique tissulaire infiltro-inflammatoire
+T97	Localization 1238 2603	bilatérale basithoracique tissulaire infiltro-inflammatoire faisant évoquer chez cette patiente les urgences psychiatriques ou chirurgicales qui se sont avérés plus évocateurs que d'autres étiologies probables telles qu'une hémiplégie congénitale associée à l'atteinte méningée ayant été écartée devant l'absence de données radiologiques associées notamment grâce à l'obtention d'amplification fluorescente double-strand demandée dans l'échantillon bactériothrix tuberculosis sensu lato utilisé comme réactif in vitro pour isoler l'ADN natifs bacille acido-cytoplasmique résistant aux quinolones
+Une échographie abdomino- pelvienne ainsi qu'un angioscanner thoracique transoesophagien n'ont pas pu être pratiqués vu l'impossibilité financière due à l'épidémie de maladie thromboembolique faciale mais ont permis d'exclure tout autre facteur pathognomonique pouvant expliquer ce œdème trachéo-bronchial non cholinestéraneo-désaminase type 2 hémoglobine glyquée normochrome normocytaire féminin âgée de 22 ans est hospitalisée au bloc opératoire. L'examen clinique avait trouvé une patiente en bon état général avec des réflexes ostéo-tendineux conservés et le reste de l'examen somatique était sans particularité.
+L'exploration chirurgicale a montré la présence d'un syndrome d'épanchement intrarachidiencéphalique parenchymateux du pôle postéro-médio-latéral gauche
+T98	LIVB 1325 1333	patiente
+T100	DISO 1462 1484	hémiplégie congénitale
+T101	DISO 1498 1515	atteinte méningée
+T102	ANAT 1507 1515	méningée
+T103	CHEM 1823 1833	quinolones
+T104	PROC 1838 1869	échographie abdomino- pelvienne
+T105	ANAT 1850 1869	abdomino- pelvienne
+T106	PROC 1882 1922	angioscanner thoracique transoesophagien
+T107	ANAT 1895 1922	thoracique transoesophagien
+T108	DISO 2001 2033	maladie thromboembolique faciale
+T109	ANAT 2026 2033	faciale
+T110	DISO 2116 2139	œdème trachéo-bronchial
+T111	ANAT 2122 2139	trachéo-bronchial
+T112	TEMP 2239 2245	22 ans
+T113	PROC 2250 2262	hospitalisée
+T114	Hospital 2266 2281	bloc opératoire
+T115	PROC 2285 2300	examen clinique
+T116	LIVB 2318 2326	patiente
+T117	MEAS 2330 2333	bon
+T118	Concept_Idea 2334 2346	état général
+T119	PHEN 2356 2380	réflexes ostéo-tendineux
+T120	ANAT 2365 2380	ostéo-tendineux
+T121	MEAS 2381 2390	conservés
+T122	PROC 2408 2424	examen somatique
+T123	DISO 2436 2449	particularité
+T124	PROC 2453 2477	exploration chirurgicale
+T125	DISO 2504 2603	syndrome d'épanchement intrarachidiencéphalique parenchymateux du pôle postéro-médio-latéral gauche
+T128	DISO 2617 2675	épanchement intra-parenchymateux périrachidien hypoglycére
+T130	MEAS 2685 2690	1,5cm
+T131	MEAS 2695 2698	2cm
+T132	Concept_Idea 2701 2707	aspect
+T133	MEAS 2708 2720	molly-knappé

@@ -1,0 +1,122 @@
+T1	LIVB 15 22	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 109 125	transit du grêle
+T5	ANAT 120 125	grêle
+T6	Hospital 134 142	urgences
+T7	DISO 152 191	insuffisance rénale chronique terminale
+T8	ANAT 165 171	rénale
+T9	PROC 196 213	tomodensitométrie
+T10	PROC 215 230	TDM) thoracique
+T11	ANAT 220 230	thoracique
+T12	DISO 265 311	dilatation des voies biliaires intrahépatiques
+T13	ANAT 280 311	voies biliaires intrahépatiques
+T14	Localization 315 326	supérieures
+T15	ANAT 340 355	pancréas distal
+T16	Concept_Idea 363 386	indication chirurgicale
+T17	TEMP 402 406	2011
+T18	LIVB 415 422	patient
+T19	PROC 440 445	suivi
+T20	PROC 462 478	bilan biologique
+T21	PROC 493 510	mise en condition
+T22	DISO 530 542	hypokaliémie
+T23	MEAS 545 555	2,8 µmol/l
+T24	PROC 560 571	échographie
+T25	PROC 589 612	traitement conservateur
+T26	DISO 631 647	signe infectieux
+T27	DISO 651 664	hématologique
+T28	DISO 682 688	fièvre
+T29	DISO 698 720	symptôme hydro-aérique
+T30	PROC 725 751	complément scannographique
+T31	PHEN 778 796	image radiologique
+T32	DISO 863 894	opacité anéchogène hypoéchogène
+T33	MEAS 904 908	3 cm
+T34	Concept_Idea 912 920	diamètre
+T35	MEAS 929 933	5 cm
+T36	Concept_Idea 937 950	particularité
+T37	Concept_Idea 959 964	forme
+T38	DISO 981 997	nécrose caséeuse
+T39	MEAS 1039 1046	simples
+T40	PROC 1052 1078	anticoagulation préventive
+T41	DEVI 1082 1106	matériel d'ostéosynthèse
+T42	CHEM 1116 1127	antalgiques
+T43	CHEM 1141 1154	antibiotiques
+T44	CHEM 1166 1176	céfotaxime
+T45	CHEM 1179 1193	ciprofloxacine
+T46	CHEM 1196 1217	inhibiteurs calciques
+T47	CHEM 1220 1230	aminosides
+T48	CHEM 1233 1257	acide acétyle glutamique
+T49	CHEM 1260 1270	corticoïde
+T50	CHEM 1273 1286	phénobarbital
+T51	CHEM 1289 1299	éthambutol
+T52	CHEM 1302 1313	tétrazidime
+T53	CHEM 1316 1326	isoniazide
+T54	CHEM 1329 1344	chloramphénicol
+T55	CHEM 1347 1358	rifampicine
+T56	CHEM 1361 1373	pyrazinamide
+T57	CHEM 1376 1391	fluoroquinolone
+T58	CHEM 1394 1408	propanololones
+T59	CHEM 1411 1422	pottazidime
+T60	CHEM 1425 1437	monoxaparine
+T61	CHEM 1440 1452	prédnisolone
+T62	CHEM 1455 1464	imipenème
+T63	CHEM 1467 1481	hydrocortisone
+T64	CHEM 1484 1509	hydroxylésulfaméthoxazole
+T65	CHEM 1512 1528	cyclophosphamide
+T66	CHEM 1531 1550	carbonate de sodium
+T67	CHEM 1553 1567	statinesequine
+T68	CHEM 1570 1583	métronidazole
+T69	CHEM 1586 1600	neuroleptiques
+T70	CHEM 1603 1611	aspirine
+T71	CHEM 1614 1643	metformine acide clavulanique
+T72	CHEM 1646 1657	glucantime®
+T73	CHEM 1660 1672	thiocyanates
+T74	CHEM 1675 1688	cotrimoxazole
+T75	CHEM 1691 1706	ethambutolamine
+T76	CHEM 1709 1720	nicardipine
+T77	CHEM 1723 1730	ivudine
+T78	CHEM 1733 1746	métracyclines
+T79	CHEM 1749 1759	carbamates
+T80	CHEM 1762 1776	halopéridolone
+T81	CHEM 1779 1791	diméthoprime
+T82	CHEM 1794 1816	valproate de magnésium
+T83	CHEM 1819 1833	polynabétiques
+T84	CHEM 1836 1850	rhamnaphtalène
+T85	CHEM 1853 1863	furosémide
+T86	CHEM 1866 1878	malakopyrine
+T87	CHEM 1881 1891	gentamides
+T88	CHEM 1894 1903	cortisols
+T89	CHEM 1906 1919	palmitriolone
+T90	CHEM 1922 1935	arythromycine
+T91	CHEM 1938 1952	ténofovirérone
+T92	CHEM 1955 1965	cisplatine
+T93	CHEM 1968 1991	méthotrexate de calcium
+T94	CHEM 1994 2009	terpendiculaire
+T95	CHEM 2012 2024	œstradiolone
+T96	CHEM 2027 2040	estrogéniques
+T97	CHEM 2043 2056	noradrénaline
+T98	CHEM 2059 2079	cefesulfaméthoxazole
+T99	CHEM 2082 2097	oxygénothérapie
+T100	CHEM 2100 2110	isoniazole
+T101	CHEM 2113 2129	captoprostigmine
+T102	CHEM 2132 2143	vincristine
+T103	CHEM 2146 2160	bétalactamines
+T104	CHEM 2163 2176	triméthoprime
+T105	CHEM 2179 2192	sérum glucosé
+T106	CHEM 2195 2205	antalgique
+T107	CHEM 2208 2216	héparine
+T108	CHEM 2219 2233	céphalosporine
+T109	CHEM 2236 2247	paracétamol
+T110	CHEM 2250 2260	aminosides
+T111	CHEM 2263 2278	hypoglycémiants
+T112	CHEM 2281 2288	taxanes
+T113	CHEM 2291 2304	dexaméthasone
+T114	CHEM 2307 2320	phénobarbital
+T115	CHEM 2323 2341	fentanyl acrylique
+T116	CHEM 2344 2352	insuline
+T117	CHEM 2355 2372	mégacarylonitrile
+T118	CHEM 2375 2387	néonatropine
+T119	CHEM 2390 2416	acide aminotransfermenteux
+T120	Concept_Idea 2466 2484	état hémodynamique
+T121	DISO 2506 2530	troubles électrolytiques
+T122	TEMP 2560 2566	4 mois

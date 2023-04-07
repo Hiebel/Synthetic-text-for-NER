@@ -1,0 +1,31 @@
+T1	LIVB 29 37	patiente
+T2	DISO 58 83	antécédents pathologiques
+T3	MEAS 84 96	particuliers
+T4	PROC 104 119	hospitalisation
+T5	Hospital 124 132	urgences
+T6	DISO 146 162	détresse fébrile
+T7	TEMP 172 189	depuis deux jours
+T9	ANAT 224 243	abdomino pelviennes
+T10	MEAS 267 282	progressivement
+T11	Concept_Idea 286 292	volume
+T12	DISO 335 355	ictère cholestatique
+T13	DISO 369 404	polynucléaires neutrophiles altérés
+T14	MEAS 415 433	15000 éléments/mm3
+T15	MEAS 439 466	plus que 10 fois la normale
+T16	PROC 471 480	admission
+T17	DISO 512 545	sensibilité abdomino-épigastrique
+T18	ANAT 524 545	abdomino-épigastrique
+T19	DISO 557 576	hématurie purulente
+T20	PHEN 590 602	respiratoire
+T21	DISO 610 625	râles crépitant
+T22	LIVB 650 658	patiente
+T23	PROC 673 709	examen gynécologique obstétriculaire
+T24	DISO 716 749	syndrome inflammatoire biologique
+T25	LIVB 785 796	jeune femme
+T26	MEAS 806 815	nocturnes
+T27	DISO 847 860	masse utérine
+T28	ANAT 853 860	utérine
+T29	DISO 889 924	contractions utérines hypoéchogènes
+T30	ANAT 902 924	utérines hypoéchogènes
+T31	ANAT 975 993	cardio-placentaire
+T32	DISO 1015 1045	paroi abdominale hypertrophiée

@@ -1,0 +1,13 @@
+T1	LIVB 3 13	nouveau-né
+T2	PROC 36 40	reçu
+T3	Hospital 44 68	unité de soins intensifs
+T4	DISO 78 89	tachycardie
+T5	MEAS 92 97	96bpm
+T6	Concept_Idea 104 109	poids
+T7	MEAS 113 118	2900g
+T8	DISO 131 147	signes cliniques
+T9	PROC 160 179	examen neurologique
+T10	DISO 197 222	troubles sensitivomoteurs
+T11	PHEN 240 249	cicatrice
+T12	ANAT 265 274	œil droit
+T13	Localization 269 274	droit

@@ -1,0 +1,22 @@
+T1	LIVB 28 35	patient
+T2	CHEM 51 82	cortico-chirurgie biquotidienne
+T3	MEAS 99 108	spontanée
+T4	DISO 116 131	symptomatologie
+T5	DISO 163 186	séquelles pathologiques
+T6	TEMP 196 210	pendant 6 mois
+T7	PROC 223 232	chirurgie
+T8	Hospital 259 284	urgences ophtalmologiques
+T9	PHEN 342 357	acuité visuelle
+T10	PROC 402 436	examen gynécologique préopératoire
+T11	DISO 485 506	métrorragie chronique
+T12	DISO 536 561	infertilité fonctionnelle
+T13	TEMP 570 586	plusieurs années
+T14	PROC 599 645	progestative procréation médicalement assistée
+T15	PROC 646 650	PPTM
+T16	DEVI 655 662	poullet
+T17	TEMP 699 704	5 ans
+T18	MODE 706 716	voie basse
+T19	MEAS 770 783	100 ml/minute
+T20	DISO 829 850	dyspnées hypertensive
+T21	MEAS 865 871	rapide
+T22	CHEM 897 921	noradrénaline oxygénante

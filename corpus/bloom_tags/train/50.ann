@@ -1,0 +1,24 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 71	antécédents pathologiques
+T3	MEAS 72 80	notables
+T4	PROC 82 88	admise
+T5	Hospital 92 99	urgence
+T6	DISO 109 137	douleurs abdominales fébrile
+T7	ANAT 118 129	abdominales
+T8	TEMP 147 160	depuis 2 mois
+T9	DISO 177 183	fièvre
+T10	PROC 200 215	examen clinique
+T11	LIVB 229 237	patiente
+T12	Concept_Idea 252 270	plan hémodynamique
+T13	PHEN 274 286	respiratoire
+T14	DISO 305 324	hématurie purulente
+T15	PROC 330 354	ponctions surrénaliennes
+T16	ANAT 340 354	surrénaliennes
+T17	DEVI 387 406	cathéter péridurale
+T18	CHEM 408 415	Vicryl®
+T19	PROC 420 451	échographie abdomino- pelvienne
+T20	ANAT 432 451	abdomino- pelvienne
+T21	LIVB 474 482	patiente
+T22	DISO 514 529	symptomatologie
+T23	DISO 562 574	métrorragies
+T24	DISO 585 611	pathologies gynécologiques

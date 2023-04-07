@@ -1,0 +1,14 @@
+T1	PROC 0 10	consultait
+T2	DISO 20 40	tumeur du sein droit
+T3	ANAT 30 40	sein droit
+T4	Localization 35 40	droit
+T5	PROC 45 62	bilan d'extension
+T6	PROC 64 76	radiologique
+T7	PROC 78 91	échographique
+T8	PROC 95 114	immunohistochimique
+T9	DISO 127 140	particularité
+T10	PROC 145 167	traitement chirurgical
+T11	DISO 174 189	symptomatologie
+T12	PROC 209 237	chimiothérapie néo adjuvante
+T13	TEMP 255 262	18 mois
+T14	Concept_Idea 268 277	résultats

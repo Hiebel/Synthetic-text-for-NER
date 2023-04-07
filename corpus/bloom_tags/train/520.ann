@@ -1,0 +1,34 @@
+T1	LIVB 3 10	patient
+T2	Concept_Idea 28 32	âgée
+T3	TEMP 36 42	26 ans
+T4	PROC 49 60	hospitalisé
+T5	Hospital 65 73	urgences
+T6	DISO 83 111	paralysie du plexus brachial
+T8	PROC 115 130	examen clinique
+T9	DISO 147 164	céphalées fébrile
+T10	PROC 177 195	traitement curatif
+T11	DISO 209 286	syndrome d'épanchement intrarachidiien pariétal laryngoscopiquement évocateur
+T13	DISO 299 322	symptômes neurologiques
+T14	PROC 337 353	bilan biologique
+T15	PHEN 367 382	fonction rénale
+T16	ANAT 376 382	rénale
+T17	MEAS 383 390	altérée
+T18	DISO 404 429	hyperthyroïdie secondaire
+T19	MEAS 441 450	120 mg/dl
+T20	LIVB 452 454	Il
+T21	DISO 485 507	épilepsie hypertensive
+T22	Concept_Idea 563 575	état général
+T23	MODE 601 619	voie intraveineuse
+T24	CHEM 632 645	noradrénaline
+T25	CHEM 647 665	hydroxychloroquine
+T26	PROC 949 973	scanner abdomino-pelvien
+T27	ANAT 957 973	abdomino-pelvien
+T28	DISO 991 1038	hernie grêlo-kystique latéro péritonéale droite
+T30	Localization 1032 1038	droite
+T31	DISO 1050 1077	processus graisseux nécrose
+T32	MEAS 1087 1092	20 cm
+T33	Concept_Idea 1096 1105	grand axe
+T34	MEAS 1114 1119	10 cm
+T35	Concept_Idea 1123 1131	diamètre
+T36	ANAT 1163 1183	vésicules ovariennes
+T37	ANAT 1214 1232	greffon épiploïque

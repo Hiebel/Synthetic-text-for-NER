@@ -1,0 +1,61 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	8 ans
+T3	DISO 104 125	détresse respiratoire
+T4	PHEN 113 125	respiratoire
+T5	DISO 135 148	cholestatique
+T6	DISO 164 181	dyspnée sifflante
+T7	DISO 210 224	amaigrissement
+T8	MEAS 235 239	5 kg
+T9	PROC 245 254	admission
+T10	Hospital 259 294	urgences chirurgicales pédiatriques
+T11	PROC 300 324	ventilation artificielle
+T12	MODE 329 367	voie d'abord veineuse intrarachidienne
+T13	PROC 374 398	monitorage hémodynamique
+T14	PROC 412 433	intubation otrachéale
+T15	ANAT 423 433	otrachéale
+T16	DISO 470 499	complication thromboembolique
+T17	LIVB 525 535	nouveau-né
+T18	TEMP 543 549	2 mois
+T19	DISO 580 595	symptomatologie
+T20	DISO 600 624	hyperpression artérielle
+T21	ANAT 614 624	artérielle
+T22	MEAS 639 650	progressive
+T23	MEAS 660 686	profondément insurmontable
+T24	PROC 697 715	traitement curatif
+T25	CHEM 730 738	médiques
+T26	CHEM 750 763	bêtaméthasone
+T27	CHEM 766 776	sufentanil
+T28	PROC 782 806	scanner abdomino pelvien
+T29	ANAT 790 806	abdomino pelvien
+T30	DISO 823 866	pancréatite stade D pancréato-surrénalienne
+T31	DEVI 890 905	catheterisation
+T32	PROC 938 987	ponction pleurésie laryngée biliaire systématisée
+T34	PROC 988 992	PTBS
+T35	PROC 1025 1135	anastomose aorto-œsophagienne transoesophagienne péripéritonéale postéro-latérale controlatérale angio-greffée
+T37	DISO 1179 1204	traumatisme hydro-aérique
+T38	DISO 1217 1250	pathologies ostéo-vascularisantes
+T39	DISO 1278 1299	sécrétions purulentes
+T40	DISO 1318 1340	troubles ventilatoires
+T41	DISO 1372 1398	paragangliome hypertrophié
+T42	TEMP 1450 1454	4ans
+T43	PROC 1576 1638	dosage de la catécholamine alpha-1 méthyl-désoxy-hydrocortisol
+T45	PROC 1822 1852	diagnostic immunohistochimique
+T46	ANAT 1924 1938	endobronchique
+T47	MEAS 1999 2007	rajeunie
+T48	CHEM 2606 2624	hydroxychloroquine
+T49	CHEM 2638 2656	anti-bêtaméthasone
+T50	LIVB 2684 2690	malade
+T51	MODE 2706 2716	voie orale
+T52	CHEM 2719 2733	hydrocortisone
+T53	DOSE 2735 2741	400 mg
+T54	CHEM 2766 2778	méthotrexate
+T55	DOSE 2780 2786	600 mg
+T56	Concept_Idea 2792 2799	dossier
+T57	LIVB 2872 2890	médecin neurologue
+T60	Hospital 2975 3023	centre hospitalier universitaire Ibn Sina de Fès
+T61	PROC 3046 3078	laparotomie médiane exploratrice
+T62	Localization 3058 3065	médiane
+T63	PROC 3084 3111	anastomose oeso-iléo-cæcale
+T64	ANAT 3095 3111	oeso-iléo-cæcale
+T65	PROC 3125 3145	transfusion sanguine
+T66	DEVI 3150 3187	concentrées globulaires artificielles

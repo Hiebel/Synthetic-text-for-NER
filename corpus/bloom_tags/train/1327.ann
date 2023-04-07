@@ -1,0 +1,38 @@
+T1	LIVB 4 9	femme
+T2	MEAS 44 47	six
+T3	LIVB 48 55	enfants
+T5	ANAT 81 92	abdominales
+T6	DISO 98 104	fièvre
+T7	TEMP 114 132	depuis trois jours
+T8	LIVB 139 142	son
+T9	PROC 143 152	admission
+T10	Hospital 156 171	bloc opératoire
+T11	Hospital 175 224	Centre Hospitalier universitaire Hassan II de Fès
+T12	PROC 228 243	examen clinique
+T13	LIVB 257 265	patiente
+T14	Concept_Idea 280 298	plan hémodynamique
+T15	Concept_Idea 333 345	état général
+T16	DISO 383 450	syndrome d'épanchement péricardique liquidien infarcto-mésentérique
+T17	ANAT 406 450	péricardique liquidien infarcto-mésentérique
+T18	DISO 465 486	détresse respiratoire
+T19	PHEN 474 486	respiratoire
+T20	MEAS 498 513	8/10 cycles/min
+T21	DISO 529 550	distension abdominale
+T22	ANAT 540 550	abdominale
+T23	DISO 560 570	sténosante
+T24	MEAS 586 601	progressivement
+T25	Concept_Idea 605 611	volume
+T26	LIVB 629 633	elle
+T27	DISO 664 687	symptômes neurologiques
+T28	DISO 705 724	défense intestinale
+T29	ANAT 713 724	intestinale
+T30	DISO 731 752	sensibilité cervicale
+T31	ANAT 743 752	cervicale
+T32	PROC 756 774	bilan radiologique
+T35	Localization 828 834	gauche
+T36	ANAT 930 956	sous clavière homolatérale
+T37	Localization 944 956	homolatérale
+T38	PROC 1084 1093	injection
+T39	CHEM 1097 1117	produit de contraste
+T40	ANAT 1146 1211	petites cavités médiastinales para vertébro-laryngo carotidiennes
+T41	DISO 1243 1270	granulomes ostéo-cytomateux

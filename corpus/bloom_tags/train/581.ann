@@ -1,0 +1,27 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 34 42	patiente
+T3	MEAS 46 49	bon
+T4	Concept_Idea 50 62	état général
+T5	DISO 64 75	polypnéique
+T6	MEAS 78 91	40 cycles/min
+T7	PHEN 96 115	pression artérielle
+T8	ANAT 105 115	artérielle
+T9	MEAS 124 135	170/70 mmhg
+T10	ANAT 151 168	hypochondre droit
+T11	Localization 163 168	droit
+T12	PROC 184 200	examen somatique
+T13	DISO 212 226	particularités
+T14	PROC 230 260	échographie abdomino-pelvienne
+T15	ANAT 242 260	abdomino-pelvienne
+T16	PROC 274 308	dosage des catécholamines sériques
+T17	DEVI 358 382	scanner abdomino-pelvien
+T18	ANAT 366 382	abdomino-pelvien
+T19	DISO 404 483	masse molle du sinus caverneux latéro-utérine bilatérale hypogastrique infiléré
+T20	ANAT 419 483	sinus caverneux latéro-utérine bilatérale hypogastrique infiléré
+T22	MEAS 493 498	27 cm
+T23	Concept_Idea 501 507	aspect
+T24	MEAS 508 514	massif
+T25	MEAS 518 526	homogène
+T26	MEAS 541 550	fortement
+T27	PROC 557 566	injection
+T28	CHEM 570 590	produit de contraste

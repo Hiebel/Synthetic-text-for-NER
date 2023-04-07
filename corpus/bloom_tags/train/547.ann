@@ -1,0 +1,32 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	12 ans
+T3	MEAS 49 56	notable
+T4	PROC 58 62	reçu
+T5	Hospital 67 88	urgences pédiatriques
+T6	DISO 119 158	douleur hypogastrique aiguë hypoalgique
+T8	TEMP 168 184	depuis 72 heures
+T9	MEAS 199 210	progressive
+T10	MEAS 222 232	modérément
+T11	Concept_Idea 236 242	volume
+T12	MEAS 247 251	2 cm
+T13	MEAS 254 258	4 cm
+T14	DISO 281 301	anomalies digestives
+T15	ANAT 317 328	flanc droit
+T16	Localization 323 328	droit
+T17	DISO 376 406	insuffisance rénale abdominale
+T18	ANAT 389 406	rénale abdominale
+T19	DISO 417 440	symptômes malabsorption
+T20	DISO 454 475	sensibilité pelvienne
+T21	ANAT 466 475	pelvienne
+T22	MEAS 488 494	rapide
+T23	DISO 543 550	douleur
+T24	PROC 576 596	traitement palliatif
+T25	MODE 609 621	intraveineux
+T26	CHEM 625 637	prednisolone
+T27	DOSE 638 646	15 µg/m²
+T28	MEAS 664 673	partielle
+T29	DISO 680 713	dyspnée stade IV de Sadoul-Morrey
+T30	ANAT 755 762	poignet
+T31	PROC 778 793	hospitalisation
+T32	PROC 857 892	tocolyse intraveineuse artificielle
+T33	TEMP 1025 1031	14 ans

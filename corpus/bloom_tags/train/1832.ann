@@ -1,0 +1,33 @@
+T1	LIVB 4 9	femme
+T2	Hospital 47 55	urgences
+T3	DISO 64 80	syndrome fébrile
+T4	Concept_Idea 102 114	état général
+T5	DISO 116 137	détresse respiratoire
+T6	PHEN 125 137	respiratoire
+T7	TEMP 147 165	depuis trois jours
+T8	LIVB 172 175	son
+T9	PROC 176 185	admission
+T10	Hospital 195 203	urgences
+T11	MODE 209 219	voie orale
+T12	DOSE 221 228	20mg/kg
+T13	TEMP 228 230	/j
+T14	PROC 235 270	auscultation cardio-vasculo-nerveux
+T15	ANAT 248 270	cardio-vasculo-nerveux
+T16	DISO 287 327	fibrillation auriculo-nocturne cervicale
+T17	ANAT 300 327	auriculo-nocturne cervicale
+T18	DISO 357 398	bradycardie thromboembolique systématisée
+T19	PROC 472 497	étude immunohistochimique
+T20	DISO 527 551	signes neurorétinogénaux
+T21	DISO 573 589	masse hétérogène
+T22	MEAS 599 603	1 cm
+T23	Concept_Idea 607 616	grand axe
+T24	DISO 643 650	fébrile
+T25	MEAS 662 667	39°8C
+T26	DISO 687 706	douleurs pelviennes
+T27	ANAT 696 706	pelviennes
+T28	ANAT 883 899	intramusculaires
+T29	ANAT 903 915	endobuccales
+T30	MEAS 996 1004	prudente
+T31	LIVB 1171 1180	patientes
+T32	DISO 1195 1230	hypertension artérielle congénitale
+T33	ANAT 1208 1230	artérielle congénitale

@@ -1,0 +1,39 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 67	antécédent pathologiques
+T3	MEAS 68 76	notables
+T4	PROC 78 82	réçu
+T5	Hospital 87 112	urgences ophtalmologiques
+T6	PHEN 147 170	équilibre psychomotrice
+T7	TEMP 180 193	depuis 1 mois
+T8	LIVB 200 203	son
+T9	PROC 204 213	admission
+T10	Hospital 217 240	service-ophtalmologique
+T11	DISO 275 288	inflammatoire
+T12	MEAS 303 310	brutale
+T13	PROC 347 372	traitement antibacillaire
+T14	CHEM 383 393	isoniazide
+T15	CHEM 394 407	rifaméthasone
+T16	PROC 420 461	remplissage vasculo-nerveux transfixiante
+T17	ANAT 432 461	vasculo-nerveux transfixiante
+T18	CHEM 517 528	cyclosérine
+T19	PROC 534 564	ponction liquide conjonctivale
+T20	ANAT 543 564	liquide conjonctivale
+T21	DISO 757 770	consanguinité
+T22	CHEM 828 839	tuberculine
+T23	DISO 936 962	insuffisance conjonctivale
+T24	ANAT 949 962	conjonctivale
+T25	MEAS 972 986	plus accentuée
+T26	DISO 1033 1078	syndrome méningoencephaléo-fongique purulents
+T27	DISO 1106 1138	méningo-lupus cervico-thyroïdien
+T28	DISO 1155 1179	léiomyosarcome lésionnel
+T29	ANAT 1190 1203	surrénalienne
+T30	DISO 1218 1249	œdème papulo-cutané prurigineux
+T31	ANAT 1224 1249	papulo-cutané prurigineux
+T32	MEAS 1265 1271	rapide
+T33	ANAT 1289 1295	visage
+T34	TEMP 1317 1323	12 ans
+T35	MEAS 1337 1358	spontanément sensible
+T36	MEAS 1370 1385	progressivement
+T37	Concept_Idea 1389 1395	volume
+T38	MEAS 1412 1423	bien limité
+T39	MEAS 1433 1438	15 cm

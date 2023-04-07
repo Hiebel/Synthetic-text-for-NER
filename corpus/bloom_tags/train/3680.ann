@@ -1,0 +1,29 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	11 ans
+T3	DISO 54 67	chute brutale
+T4	DISO 100 120	agressivité physique
+T5	LIVB 148 150	Il
+T6	DISO 173 201	comportement pathognomonique
+T7	PROC 215 238	radiothérapie adjuvante
+T8	DISO 261 271	pathologie
+T9	DISO 325 333	atypique
+T10	LIVB 335 339	nous
+T11	PROC 369 400	tomodensitométrie préopératoire
+T12	DISO 429 493	métastases endovasculaires cervico-thoraciques hypo métabolisées
+T14	CHEM 498 518	produit de contraste
+T15	DISO 545 619	adénopathies ganglionnaires métastatiques crânio-fasciculées érythématiées
+T17	DISO 644 661	processus tumoral
+T18	DISO 690 718	lésions lympho-histiocytaire
+T19	ANAT 831 838	liquide
+T20	ANAT 858 883	hépato-gastro-intestinale
+T21	TEMP 893 906	depuis 6 mois
+T22	PROC 916 931	bilan somatique
+T23	PROC 946 971	exploration gynécologique
+T24	DISO 996 1034	localisation tissulaire carcinomateuse
+T25	MEAS 1044 1049	13 cm
+T26	Concept_Idea 1053 1062	grand axe
+T27	DISO 1087 1119	souffrance tissulaire ischémique
+T28	ANAT 1098 1119	tissulaire ischémique
+T29	PROC 1126 1185	complément d'immuno-chimiothérapie néo adjuvante palliative
+T30	CHEM 1223 1232	docetaxel
+T31	CHEM 1235 1246	Cyclosérine

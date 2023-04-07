@@ -1,0 +1,72 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	3 ans
+T3	Concept_Idea 37 48	antécédents
+T4	MEAS 49 61	particuliers
+T5	PROC 65 80	examen clinique
+T6	PROC 85 94	admission
+T7	LIVB 111 117	enfant
+T8	Concept_Idea 142 160	plan hémodynamique
+T9	DISO 164 176	respiratoire
+T10	PHEN 186 205	pression artérielle
+T11	ANAT 195 205	artérielle
+T12	MEAS 208 218	100/40mmhg
+T13	LIVB 220 222	Il
+T14	MEAS 232 235	bon
+T15	Concept_Idea 236 248	état général
+T16	PROC 252 272	examen gynécologique
+T17	ANAT 310 320	col utérin
+T18	MEAS 354 362	indolore
+T19	MEAS 372 384	environ 2 cm
+T20	Concept_Idea 388 397	grand axe
+T21	Concept_Idea 400 406	aspect
+T22	MEAS 407 416	jauneâtre
+T23	MEAS 425 428	2cm
+T24	Concept_Idea 432 441	grand axe
+T25	ANAT 469 499	muscles fléchisseurs cervicaux
+T26	MEAS 511 526	progressivement
+T27	Concept_Idea 530 536	volume
+T28	TEMP 546 560	depuis 3 jours
+T29	DISO 577 611	douleurs pelviennes inféro-rénales
+T31	Localization 626 636	bilatérale
+T32	MEAS 648 656	modérées
+T33	MEAS 666 681	plus accentuées
+T34	CHEM 697 710	sulfasalazine
+T35	DOSE 712 720	15 mg/kg
+T36	TEMP 720 725	/jour
+T37	LIVB 728 732	Nous
+T38	DISO 770 782	métrorragies
+T39	DISO 793 818	symptômes accompagnateurs
+T40	DISO 836 869	syndrome d'épanchement péritonéal
+T41	ANAT 859 869	péritonéal
+T42	DISO 879 900	sus décalage grêlique
+T43	ANAT 892 900	grêlique
+T44	MEAS 918 929	négligeable
+T45	DISO 964 993	anomalie anatomopathologiques
+T46	LIVB 1013 1021	patiente
+T47	PROC 1025 1044	bilan préopératoire
+T48	PROC 1058 1077	Hémoglobine glyquée
+T49	MEAS 1080 1084	9,6%
+T50	PROC 1088 1108	taux de prothrombine
+T51	MEAS 1120 1123	25%
+T52	PROC 1128 1147	protéine-C-réactive
+T53	MEAS 1160 1168	120 mg/l
+T54	PROC 1172 1196	scanner abdomino pelvien
+T55	ANAT 1180 1196	abdomino pelvien
+T57	ANAT 1405 1433	méso-vésicule basithoracique
+T58	ANAT 1489 1504	parois rectales
+T59	Concept_Idea 1519 1529	caractères
+T60	DISO 1546 1555	kystiques
+T61	PROC 1578 1596	traitement médical
+T62	CHEM 1602 1630	cortico-méthylhydrocortisone
+T63	DISO 1728 1739	tachycardie
+T64	PROC 1888 1915	dopamine-thyroïdiostimulant
+T65	PROC 2009 2032	radiographie thoracique
+T66	ANAT 2022 2032	thoracique
+T67	DISO 2068 2087	dyspnée obstructive
+T68	MEAS 2101 2111	rapprochée
+T69	DISO 2131 2164	lésions ostéochondro-lithiasiques
+T70	DISO 2240 2271	prurigine érythémato-pustuleuse
+T71	PROC 2525 2555	complément immunohistochimique
+T72	PROC 2636 2660	exploration chirurgicale
+T73	PROC 2776 2804	radiothérapie complémentaire
+T74	PROC 2812 2839	chimiothérapie substitutive

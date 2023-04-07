@@ -1,0 +1,31 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	8 ans
+T3	PHEN 43 63	grossesse gémellaire
+T4	PROC 68 74	suivie
+T5	Hospital 88 101	service d'ORL
+T6	PROC 154 163	admission
+T7	Hospital 168 189	urgences pédiatriques
+T8	DISO 199 225	douleurs pelviennes aiguës
+T10	DISO 231 252	détresse respiratoire
+T11	PHEN 240 252	respiratoire
+T12	TEMP 262 276	depuis 3 jours
+T13	DISO 298 322	symptômes neuroleptiques
+T14	DISO 340 370	diplopie visuelle oculomotrice
+T15	DISO 383 416	syndrome d'épistaxis hémorragique
+T16	PROC 471 485	interrogatoire
+T17	DISO 503 516	consanguinité
+T18	DEVI 589 599	télévisuel
+T19	PROC 609 633	scanner abdomino-pelvien
+T20	ANAT 617 633	abdomino-pelvien
+T21	DISO 659 720	hypertrophie parathyroïdienne latéro-thoracique hypertrophiée
+T23	ANAT 741 772	fosse iliaque supérieure droite
+T24	Localization 766 772	droite
+T25	DISO 788 861	hypoplasie ganglionnaire para-hypophrénoidienne thoracique hypoechoguidée
+T27	PROC 887 937	tomodensitométrie abdomino-pelvienne transfixiante
+T28	ANAT 905 937	abdomino-pelvienne transfixiante
+T29	PROC 959 1001	incontinence surrénalienne scannographique
+T30	ANAT 972 1001	surrénalienne scannographique
+T31	DISO 1026 1075	atteinte pariéto-tuberculeuse utérine infiltratée
+T33	ANAT 1187 1217	fosse iliaque supérieur droite
+T34	Localization 1211 1217	droite
+T35	ANAT 1239 1257	greffons ovalaires

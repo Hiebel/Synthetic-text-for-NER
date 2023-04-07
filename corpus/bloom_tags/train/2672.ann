@@ -1,0 +1,36 @@
+T1	LIVB 28 33	homme
+T2	PROC 58 69	hospitalisé
+T3	Hospital 74 99	urgences ophtalmologiques
+T4	DISO 127 146	dysphagie purulente
+T5	TEMP 156 169	depuis 3 mois
+T6	PROC 173 198	intervention chirurgicale
+T7	PROC 218 254	résection endoscopique transfixiante
+T9	ANAT 271 283	iléo-colique
+T10	PROC 287 333	curage interstitiel péritonéal intrapéritonéal
+T11	ANAT 294 333	interstitiel péritonéal intrapéritonéal
+T12	PROC 335 339	TIPP
+T13	PROC 344 359	examen clinique
+T14	DISO 375 392	dyspnée sifflante
+T15	MEAS 407 413	rapide
+T16	DISO 429 450	détresse respiratoire
+T17	PHEN 438 450	respiratoire
+T18	DISO 477 510	adénopathies jugulo-carotidiennes
+T19	ANAT 490 510	jugulo-carotidiennes
+T20	DISO 533 563	ictère érythémato-nucléocutané
+T21	DISO 586 600	amaigrissement
+T22	MEAS 611 616	30 kg
+T23	PROC 622 655	traitement médical antibacillaire
+T24	CHEM 666 677	rifampicine
+T25	CHEM 679 689	cisplatine
+T26	CHEM 691 701	éthambutol
+T27	CHEM 703 713	isoniazide
+T28	CHEM 715 726	ethionamide
+T29	CHEM 729 741	pyrazinamide
+T30	CHEM 743 756	deoxycytidine
+T31	CHEM 758 776	hydroxychloroquine
+T32	CHEM 778 791	bêtaméthasone
+T33	CHEM 793 807	hydrocortisone
+T34	CHEM 809 822	dexaméthasone
+T35	CHEM 824 834	tamoxifène
+T36	DISO 874 897	hypertension artérielle
+T37	ANAT 887 897	artérielle

@@ -1,0 +1,24 @@
+T1	PROC 2 8	examen
+T2	PROC 13 22	admission
+T3	LIVB 33 40	patient
+T4	MEAS 44 47	bon
+T5	Concept_Idea 48 60	état général
+T6	DISO 62 73	polypnéique
+T7	MEAS 76 89	28 cycles/min
+T8	PHEN 95 114	pression artérielle
+T9	ANAT 104 114	artérielle
+T10	MEAS 117 127	90/40 mmHg
+T11	PROC 132 150	tension artérielle
+T12	ANAT 140 150	artérielle
+T13	MEAS 160 173	120/100 mm Hg
+T14	PROC 178 208	bilan biologique préopératoire
+T15	PROC 222 239	kaliémie corrigée
+T17	TEMP 252 258	/heure
+T18	PROC 265 281	natrémie sérique
+T19	MEAS 284 293	135 meq/l
+T20	PROC 298 320	protéine-C réponulline
+T21	PROC 322 325	CRP
+T22	PROC 328 375	antigène natifs des polynucléaires neutrophiles
+T23	PROC 377 381	ANCA
+T24	MEAS 391 399	négatifs
+T25	PROC 421 439	sérologies virales

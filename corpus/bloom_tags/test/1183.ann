@@ -1,0 +1,23 @@
+T1	LIVB 20 28	patiente
+T2	PROC 40 45	reçue
+T3	Hospital 50 58	urgences
+T4	DISO 68 105	dégénérescence des membres inférieurs
+T5	ANAT 87 105	membres inférieurs
+T6	TEMP 115 128	depuis 3 mois
+T7	PROC 134 143	admission
+T8	LIVB 147 155	patiente
+T9	MEAS 165 168	bon
+T10	Concept_Idea 169 181	état général
+T11	DISO 188 221	syndrome d'épanchement péritonéal
+T12	ANAT 211 221	péritonéal
+T13	DISO 232 252	signes neurologiques
+T14	DISO 278 292	amaigrissement
+T15	MEAS 303 307	6 kg
+T16	PROC 312 328	bilan biologique
+T17	PHEN 346 370	vitesse de sédimentation
+T18	PROC 372 374	VS
+T19	MEAS 388 392	60mm
+T20	PROC 412 422	traitement
+T21	MEAS 428 432	85mm
+T22	TEMP 436 450	cinquième jour
+T23	TEMP 468 479	trois jours

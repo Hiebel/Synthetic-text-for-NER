@@ -1,0 +1,21 @@
+T1	LIVB 15 22	patient
+T2	DISO 77 106	diabète non insulinodépendant
+T3	CHEM 112 120	glycémie
+T4	DISO 128 170	insuffisance cardiaque chronique terminale
+T5	ANAT 141 150	cardiaque
+T6	PROC 175 197	radiographie du thorax
+T7	ANAT 191 197	thorax
+T8	DEVI 222 227	sonde
+T9	DISO 246 254	anomalie
+T10	PROC 268 284	bilan biologique
+T11	DISO 296 309	particularité
+T12	PROC 319 346	numération formule sanguine
+T13	MEAS 347 355	normales
+T14	PROC 357 368	hémoglobine
+T15	MEAS 370 379	11,9 g/dL
+T16	PROC 381 411	taux de créatine phosphokinase
+T17	MEAS 414 422	144 UI/L
+T18	PHEN 429 447	suites opératoires
+T19	MEAS 456 463	simples
+T20	PROC 477 506	prise en charge thérapeutique
+T21	LIVB 510 512	il

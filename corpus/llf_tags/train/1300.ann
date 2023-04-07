@@ -1,0 +1,51 @@
+T1	DISO 56 80	constipations chroniques
+T2	PROC 85 93	traitées
+T3	TEMP 103 126	depuis plusieurs années
+T4	Concept_Idea 162 174	état général
+T5	LIVB 193 195	sa
+T6	LIVB 196 200	mère
+T7	Concept_Idea 217 230	état générale
+T8	DISO 258 287	symptomatologie gynécologique
+T9	DISO 329 352	rhinopharynx malpighien
+T10	PROC 356 371	examen clinique
+T11	DISO 393 408	signes généraux
+T12	DISO 426 448	douleurs épigastriques
+T13	ANAT 435 448	épigastriques
+T14	DISO 455 475	distension abdominal
+T15	ANAT 466 475	abdominal
+T16	PROC 481 491	inspection
+T17	MEAS 539 549	15 x 10 mm
+T18	PROC 566 577	transfusion
+T19	ANAT 584 603	annexes thoraciques
+T20	DISO 627 649	anomalie morphologique
+T21	DISO 677 704	remaniements inflammatoires
+T22	ANAT 717 730	plan digestif
+T23	PROC 746 762	examen somatique
+T24	DISO 774 797	déficit sensitivomoteur
+T25	DISO 835 873	hypertrophie tonicoclonale congénitale
+T26	ANAT 888 914	extrémités pelvi-vaginales
+T27	DISO 945 961	maladie cœliaque
+T28	DISO 989 1020	méningo-vascularite infectieuse
+T29	DISO 1079 1113	néphropathie érythémato-névrotique
+T30	DISO 1134 1187	pseudo-neurofibromatose idiopathique polymalformative
+T31	Concept_Idea 1200 1219	aspect anamnestique
+T32	DISO 1270 1297	psychose maniaco-déprimante
+T33	DISO 1364 1389	hystérie pathognomoniques
+T34	Concept_Idea 1564 1576	état général
+T35	DISO 1589 1644	tuméfaction basi-latéro-utérine postéro-externe jugulée
+T36	ANAT 1601 1644	basi-latéro-utérine postéro-externe jugulée
+T37	MEAS 1656 1671	progressivement
+T38	DISO 1745 1779	désorientation temporo-spirituelle
+T39	ANAT 1853 1865	anses grêles
+T40	ANAT 1915 1933	structures rénales
+T41	ANAT 2108 2121	anse jéjunale
+T42	DISO 2129 2157	symptomatologie obstétricale
+T43	PROC 2189 2209	traitement palliatif
+T44	PROC 2215 2227	soins locaux
+T45	PROC 2234 2270	remplissage antalgique du sein droit
+T46	CHEM 2246 2256	antalgique
+T47	ANAT 2260 2270	sein droit
+T48	Localization 2265 2270	droit
+T49	LIVB 2279 2286	patient
+T50	PROC 2305 2350	corticostéroïdes non stéroïdiens substitutifs
+T51	PHEN 2386 2395	grossesse

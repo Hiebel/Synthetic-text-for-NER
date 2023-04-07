@@ -1,0 +1,20 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 73	notables
+T4	PROC 75 86	hospitalisé
+T5	Hospital 91 99	urgences
+T6	DISO 109 125	dyspnée d'effort
+T7	DISO 141 157	troubles visuels
+T8	DISO 164 209	syndrome d’épanchement péricardique liquidien
+T9	ANAT 187 209	péricardique liquidien
+T10	TEMP 219 232	depuis 2 mois
+T11	PROC 238 247	admission
+T12	Hospital 251 281	service d'accueil des urgences
+T13	DISO 300 312	hyperthermie
+T14	MEAS 324 329	40°2C
+T15	PROC 334 350	bilan biologique
+T16	Concept_Idea 364 388	vitesse de sédimentation
+T17	PROC 390 392	VS
+T18	MEAS 406 410	70mm
+T19	PROC 439 467	numérations formule sanguine
+T20	DISO 497 533	thrombopénie hypochrome microcytaire

@@ -1,0 +1,97 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 79 90	hospitalisé
+T5	Hospital 94 101	urgence
+T6	DISO 111 132	détresse respiratoire
+T7	PHEN 120 132	respiratoire
+T8	MEAS 147 158	progressive
+T9	PROC 162 176	interrogatoire
+T10	DISO 205 217	obnubilation
+T11	ANAT 219 236	plexus salivaires
+T12	Concept_Idea 242 248	effort
+T13	TEMP 258 270	depuis un an
+T14	DISO 318 330	dysthyroïdie
+T15	LIVB 332 334	Il
+T16	PROC 341 348	réadmis
+T17	Hospital 352 367	bloc opératoire
+T18	PROC 373 397	anesthésie locorégionale
+T19	ANAT 384 397	locorégionale
+T20	PROC 402 427	scanner abdomino- pelvien
+T21	ANAT 410 427	abdomino- pelvien
+T22	Hospital 440 448	urgences
+T23	DISO 462 512	masse du parenchyme plexique basithoracique gauche
+T24	ANAT 471 512	parenchyme plexique basithoracique gauche
+T25	Localization 506 512	gauche
+T26	PROC 540 549	injection
+T27	CHEM 553 573	produit de contraste
+T28	MEAS 583 587	18mm
+T29	Concept_Idea 591 600	grand axe
+T30	MEAS 609 621	environ 3 mm
+T31	Concept_Idea 625 635	profondeur
+T32	DISO 656 699	nodules hypoéchogènes nodulaires hypodenses
+T33	ANAT 717 762	sinus caverneux pariétal inféro-latéral droit
+T34	Localization 757 762	droit
+T35	ANAT 776 796	fosse iliaque droite
+T36	Localization 790 796	droite
+T37	ANAT 813 832	lèvres intestinales
+T38	ANAT 853 879	jonction iléo-pancréatique
+T39	Concept_Idea 905 912	hauteur
+T40	PROC 916 962	tomodensitométrie cervico-faciale exploratrice
+T41	ANAT 934 962	cervico-faciale exploratrice
+T42	DISO 985 1015	métastases cervicovestibulaire
+T43	DISO 1026 1042	lésions malignes
+T44	LIVB 1063 1071	patiente
+T45	PROC 1112 1142	radiothérapie locale adjuvante
+T46	MEAS 1179 1188	spontanée
+T47	DISO 1195 1210	symptomatologie
+T48	PROC 1224 1252	chimiothérapie locorégionale
+T49	DISO 1308 1323	symptomatologie
+T50	LIVB 1447 1451	elle
+T51	DISO 1494 1519	hyperthyroïdie secondaire
+T52	MEAS 1532 1545	significative
+T53	LIVB 1556 1561	frère
+T54	PROC 1664 1695	chirurgie gynécolo obstétricale
+T55	DEVI 1882 1891	aiguilles
+T56	MEAS 2046 2051	1/10°
+T57	MEAS 2062 2067	2/10°
+T58	MEAS 2079 2086	modérée
+T59	MEAS 2113 2118	3/10°
+T60	DOSE 2120 2136	0,5ml/mètre cube
+T61	PROC 2142 2171	curage surrénalien péritonéal
+T62	ANAT 2149 2171	surrénalien péritonéal
+T63	PROC 2186 2218	toilette biliaire transhépatique
+T64	PROC 2257 2297	remplissage intraveineux intrarachidiyen
+T65	ANAT 2269 2297	intraveineux intrarachidiyen
+T66	PROC 2383 2405	sérologies virales VIH
+T67	PROC 2807 2838	échographie abdomino- pelvienne
+T68	ANAT 2819 2838	abdomino- pelvienne
+T69	Concept_Idea 2851 2857	aspect
+T70	DISO 2860 2883	hypotrophie du placenta
+T71	ANAT 2875 2883	placenta
+T72	DISO 2901 2968	lésion hypo échogène hypodense des parties molles utéro-vésiculaire
+T73	ANAT 2936 2968	parties molles utéro-vésiculaire
+T74	LIVB 2996 3004	patiente
+T75	DISO 3022 3055	syndrome d'épanchement péritonéal
+T76	ANAT 3045 3055	péritonéal
+T77	PROC 3061 3102	radio-chimiothérapie palliative adjuvante
+T78	CHEM 3104 3114	cisplatine
+T79	CHEM 3116 3128	carboplatine
+T80	CHEM 3132 3145	dexaméthasone
+T81	PROC 3173 3212	traitement anticoagulant prophylactique
+T82	DISO 3231 3262	complications thromboemboliques
+T83	TEMP 3264 3278	Après six mois
+T84	PROC 3287 3309	traitement substitutif
+T85	PHEN 3312 3327	acuité visuelle
+T86	MEAS 3340 3349	favorable
+T87	DISO 3379 3387	récidive
+T88	DISO 3487 3515	symptomatologie neurologique
+T89	DISO 3543 3569	troubles sensitivomotrices
+T90	DISO 3582 3616	manifestations neurophysiologiques
+T91	DISO 3639 3672	carcinome pléomorphe hypertrophié
+T92	Concept_Idea 3737 3747	caractères
+T93	MEAS 3799 3807	anormale
+T94	PROC 3835 3852	radiopathologique
+T95	DISO 3896 3924	paragangliome endométrialisé
+T96	Localization 3942 3959	partie supérieure
+T97	MEAS 4047 4052	10 cm

@@ -1,0 +1,26 @@
+T1	LIVB 19 26	patient
+T2	DISO 47 72	antécédents pathologiques
+T3	MEAS 73 81	notables
+T4	PROC 83 88	admis
+T5	Hospital 93 101	urgences
+T6	DISO 111 150	douleurs abdomino-pelviennes chroniques
+T7	ANAT 120 139	abdomino-pelviennes
+T8	PROC 154 169	examen clinique
+T9	Concept_Idea 183 194	température
+T10	MEAS 197 201	36°C
+T11	PHEN 208 213	pouls
+T12	MEAS 225 237	110 batt/min
+T13	PROC 242 260	bilan paraclinique
+T14	PROC 278 297	numération sanguine
+T15	PROC 299 318	hémoglobine glyquée
+T16	PROC 323 341	ionogramme sanguin
+T17	ANAT 334 341	sanguin
+T18	PROC 355 382	calcémie-réticulonuclétaire
+T19	MEAS 395 403	normales
+T20	PROC 408 445	électrophorèse des protéines sériques
+T21	PROC 538 566	anticorps antiphospholipides
+T22	ANAT 575 600	liquide céphalo-rachidien
+T23	MEAS 614 622	négatifs
+T24	MEAS 681 689	positifs
+T25	ANAT 703 728	liquide céphalo-rachidien
+T26	PROC 735 742	culture

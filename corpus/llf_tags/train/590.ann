@@ -1,0 +1,66 @@
+T1	PROC 2 29	bilan radiologique standard
+T2	DISO 42 61	processus lésionnel
+T3	ANAT 68 85	veine cave droite
+T4	Localization 79 85	droite
+T5	PROC 90 116	scanner cervico-thoracique
+T6	ANAT 98 116	cervico-thoracique
+T7	Concept_Idea 128 138	indication
+T8	PROC 145 169	chimiothérapie adjuvante
+T9	MEAS 179 184	bonne
+T10	PHEN 185 198	cicatrisation
+T11	DISO 203 232	symptômes neuropsychiatriques
+T12	DISO 253 272	accident ischémique
+T13	PROC 302 324	traitement substitutif
+T14	CHEM 329 345	néfopamétasolone
+T15	LIVB 355 362	enfants
+T16	DISO 398 422	choc anaphylactique aigu
+T17	MEAS 494 501	simples
+T18	PROC 509 530	contrôle locorégional
+T19	PROC 534 547	échographique
+T20	Concept_Idea 587 606	aspect histologique
+T21	DISO 640 673	maladie auto-immune polymalformée
+T22	PROC 690 724	autorisation de mise sur le marché
+T23	LIVB 739 762	professionnels de santé
+T24	PROC 826 838	consultation
+T25	PROC 844 869	étude immunohistochimique
+T26	DISO 927 971	récidive myxomateuse cutanéomuqueuse maligne
+T27	PROC 1120 1148	prise en charge diagnostique
+T28	PROC 1174 1185	hémodialyse
+T29	PROC 1188 1208	transfusion sanguine
+T30	PROC 1210 1238	anticoagulants plaquettaires
+T31	CHEM 1240 1274	antihypertriglycérides citrullinés
+T32	CHEM 1277 1301	acide acétyle glutamique
+T33	CHEM 1303 1316	métronidazole
+T34	CHEM 1319 1330	céfotaxime®
+T35	CHEM 1333 1364	neuroleptiques thymorégulateurs
+T36	DOSE 1367 1372	20 mg
+T37	TEMP 1372 1374	/j
+T38	PROC 1379 1405	examen anatomopathologique
+T39	DISO 1427 1439	schizophagie
+T40	Concept_Idea 1567 1589	paramètres biologiques
+T41	DISO 1663 1686	rectorragies spontanées
+T42	DISO 1716 1742	dysménorrhées dysphagiques
+T43	TEMP 1752 1765	depuis 6 mois
+T44	PROC 1778 1803	trachéotomie exploratrice
+T45	PROC 1809 1838	prélèvements bactériologiques
+T47	LIVB 2825 2832	patient
+T48	MEAS 2842 2847	bonne
+T49	PROC 2863 2890	corticothérapie d'induction
+T50	PROC 2898 2919	remplissage du larynx
+T51	ANAT 2913 2919	larynx
+T52	PROC 2932 2966	transfusion intraveineuse en bolus
+T53	CHEM 2980 3007	triméthoprimesulfaméthacine
+T54	DOSE 3009 3018	500 mg/kg
+T55	CHEM 3025 3039	éther diazépam
+T56	DOSE 3041 3050	360 mg/kg
+T57	PROC 3057 3090	radio-chimiothérapie concomitante
+T58	PROC 3127 3146	traitement adjuvant
+T59	Concept_Idea 3157 3182	positionnements cliniques
+T60	PROC 3186 3206	immunohistochimiques
+T61	PROC 3237 3249	diagnostique
+T62	PROC 3320 3347	études cytobactériologiques
+T63	DEVI 3373 3395	bandelette gélatineuse
+T64	PHEN 3473 3495	grossesses gémellaires
+T65	TEMP 3506 3516	4 semaines
+T66	TEMP 3519 3524	2 ans
+T67	Localization 4197 4219	extrémités supérieures

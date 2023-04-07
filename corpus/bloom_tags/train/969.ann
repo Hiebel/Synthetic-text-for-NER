@@ -1,0 +1,12 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 19 25	17 ans
+T3	DEVI 35 44	primipare
+T4	PROC 49 65	suivie prénatale
+T5	PROC 78 106	prise en charge chirurgicale
+T6	PROC 110 122	radiologique
+T7	PROC 126 138	chirurgicaux
+T8	MEAS 159 185	difficilement appréciables
+T9	Hospital 212 232	salle d'accouchement
+T10	DISO 278 289	prématurité
+T11	DISO 984 1017	maladie thromboembolique sanguine
+T12	LIVB 1082 1086	elle

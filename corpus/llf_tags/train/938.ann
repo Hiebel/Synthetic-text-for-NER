@@ -1,0 +1,23 @@
+T1	PROC 2 24	radiographie du thorax
+T2	ANAT 18 24	thorax
+T3	DEVI 49 63	lampe de poche
+T4	MEAS 77 83	légère
+T5	DISO 84 114	dilatation des voies biliaires
+T6	ANAT 99 114	voies biliaires
+T7	PROC 119 137	bilan paraclinique
+T8	DISO 147 160	particularité
+T9	PROC 167 200	scanner thoraco- abdomino-pelvien
+T10	ANAT 175 200	thoraco- abdomino-pelvien
+T11	DISO 226 247	distension abdominale
+T12	ANAT 237 247	abdominale
+T13	Concept_Idea 256 264	résultat
+T14	DISO 280 326	carcinome épidermocro-métaphysaire sous cutané
+T16	MEAS 336 341	14 cm
+T17	Localization 349 366	portion proximale
+T18	LIVB 371 378	patient
+T19	PROC 394 419	chimiothérapie palliative
+T20	CHEM 421 433	amoxicilline
+T21	CHEM 435 444	imipenème
+T22	PHEN 451 473	suites postopératoires
+T23	MEAS 482 489	simples
+T24	TEMP 499 509	12/08/2017

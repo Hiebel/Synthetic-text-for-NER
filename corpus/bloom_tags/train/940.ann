@@ -1,0 +1,38 @@
+T1	LIVB 16 24	patiente
+T2	TEMP 41 47	2 mois
+T3	LIVB 54 57	ses
+T4	PROC 58 63	admis
+T5	Hospital 68 76	urgences
+T6	DISO 97 158	carcinome urothelial lithiasique angiosarcomatotique kystique
+T7	TEMP 168 179	depuis 1 an
+T8	DISO 199 213	amaigrissement
+T9	MEAS 224 229	20 kg
+T10	PROC 235 250	examen clinique
+T11	LIVB 272 280	patiente
+T12	DISO 285 318	douleur pelvienne latérale droite
+T13	ANAT 293 318	pelvienne latérale droite
+T14	Localization 312 318	droite
+T15	MEAS 350 365	progressivement
+T16	Concept_Idea 369 375	volume
+T17	DISO 388 407	signes fonctionnels
+T18	DISO 432 461	symptomatologie gynécologique
+T19	PROC 492 516	échographie obstétricale
+T20	ANAT 504 516	obstétricale
+T21	DISO 524 549	localisation métastatique
+T22	DISO 582 620	paragangliome endométrial hypertrophié
+T23	MEAS 630 634	3 cm
+T24	Concept_Idea 638 652	grand diamètre
+T25	ANAT 670 688	liquide amniotique
+T26	PROC 738 775	curage ganglionnaire rétro péritonéal
+T27	ANAT 745 775	ganglionnaire rétro péritonéal
+T28	MEAS 789 800	1250 litres
+T29	MEAS 806 824	13 fois la normale
+T30	DISO 860 885	envahissement endométrial
+T31	ANAT 874 885	endométrial
+T32	ANAT 919 961	espaces liquidiens abdominaux cerviculaire
+T33	ANAT 983 1000	grossesse utérine
+T34	ANAT 1034 1058	organes méso-vésiculaire
+T35	DISO 1085 1117	métastases ovariennes infilérées
+T36	ANAT 1096 1117	ovariennes infilérées
+T37	ANAT 1128 1149	placenta-mésentérique
+T38	MEAS 1159 1174	indifférenciées

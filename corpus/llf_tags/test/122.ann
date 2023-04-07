@@ -1,0 +1,54 @@
+T1	LIVB 16 21	femme
+T2	PROC 45 55	consultait
+T3	Concept_Idea 77 89	état général
+T4	TEMP 99 112	depuis 2 mois
+T5	PHEN 117 132	fonction rénale
+T6	ANAT 126 132	rénale
+T7	MEAS 139 152	satisfaisante
+T8	MEAS 200 212	correctement
+T9	PROC 224 239	examen clinique
+T10	DISO 267 290	distension péricardique
+T11	ANAT 278 290	péricardique
+T12	DISO 313 341	insuffisance rénale primaire
+T13	ANAT 326 332	rénale
+T14	DISO 359 376	signes infectieux
+T15	DISO 380 390	infectieux
+T16	PROC 406 452	échographie Doppler transoeso-gastro-duodénale
+T17	DISO 477 507	masse tissulaire hypokinétique
+T18	ANAT 526 553	paroi abdominale antérieure
+T19	Localization 543 553	antérieure
+T20	MEAS 563 567	7 cm
+T21	Concept_Idea 571 580	grand axe
+T22	ANAT 614 638	cavités pyélocalicielles
+T23	ANAT 654 671	valves urétérales
+T24	ANAT 753 768	anses grêliques
+T25	Concept_Idea 795 801	aspect
+T26	DISO 818 841	néphropathie diabétique
+T27	MEAS 874 881	simples
+T28	PROC 1949 1974	scanner thoraco-abdominal
+T29	ANAT 1957 1974	thoraco-abdominal
+T30	DISO 1991 2003	pancytopénie
+T31	Concept_Idea 2012 2027	index mitotique
+T32	MEAS 2030 2038	126 UI/L
+T33	PROC 2052 2069	bilan étiologique
+T34	DISO 2081 2094	particularité
+T35	LIVB 2101 2109	patiente
+T36	TEMP 2141 2168	sixième jour postopératoire
+T37	PROC 2172 2198	examen anatomopathologique
+T38	ANAT 2205 2221	pièce opératoire
+T39	PROC 2211 2221	opératoire
+T40	DISO 2246 2254	anomalie
+T41	DISO 2291 2385	carcinome urothelial malin infiltrant des structures tissulaires pyélocalicielles péritonéales
+T42	ANAT 2333 2385	structures tissulaires pyélocalicielles péritonéales
+T43	PHEN 2409 2427	suites opératoires
+T44	MEAS 2436 2443	simples
+T45	PROC 2447 2465	étude histologique
+T46	Hospital 2479 2487	urgences
+T47	DISO 2502 2598	carcinome épidermoïde carcinomateux polypoïde cavernicole mésenchymateux nécrosante métastatique
+T48	PROC 2612 2646	imagerie par résonnance magnétique
+T49	DISO 2664 2680	signe infectieux
+T50	DISO 2684 2710	métastase tumorale maligne
+T51	DISO 2728 2748	résidu inflammatoire
+T52	DISO 2755 2779	lithiase endométriosique
+T53	PROC 2793 2845	biopsie écho-endorectale mono invasive scanno-guidée
+T55	DISO 2945 3011	neurofibromatose caudale congénitale myxoide mucineux spina bifida

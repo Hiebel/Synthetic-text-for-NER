@@ -1,0 +1,26 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	DISO 42 65	antécédent pathologique
+T4	MEAS 66 73	notable
+T5	PROC 75 87	hospitalisée
+T6	Hospital 92 100	urgences
+T7	DISO 109 149	syndrome d'épanchement péricardique aigu
+T8	ANAT 132 144	péricardique
+T9	Concept_Idea 180 192	état général
+T10	PROC 196 211	examen clinique
+T11	DISO 233 260	épanchement intrapéritonéal
+T12	ANAT 245 260	intrapéritonéal
+T13	Concept_Idea 267 276	abondance
+T14	MEAS 277 284	majeure
+T16	ANAT 329 352	espaces péribucculaires
+T17	ANAT 368 391	parenchyme pancréatique
+T18	Localization 393 401	à droite
+T19	PROC 418 434	examen somatique
+T20	DISO 446 459	particularité
+T21	PROC 464 483	bilan préopératoire
+T22	PHEN 501 519	fonction hépatique
+T23	ANAT 510 519	hépatique
+T24	MEAS 520 528	correcte
+T25	CHEM 534 548	hydrocortisone
+T26	MODE 553 563	voie orale
+T27	CHEM 576 596	produit de contraste

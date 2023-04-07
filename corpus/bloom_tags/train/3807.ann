@@ -1,0 +1,32 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 75	hospitalisée
+T3	Hospital 79 113	service de gynécologie-obstétrique
+T4	PROC 119 142	curiethérapie adjuvante
+T5	LIVB 144 148	Elle
+T6	PROC 155 162	traitée
+T7	CHEM 188 201	bêtaméthasone
+T8	CHEM 216 234	méthylprednisolone
+T9	DOSE 240 246	200 mg
+T11	PROC 266 304	radiothérapie locorégionale palliative
+T12	PROC 394 418	scanner abdomino-pelvien
+T13	ANAT 402 418	abdomino-pelvien
+T14	DISO 436 521	adénopathie parathyroïdienne latérale bilatérale huméro-surrénalienne hypo-tissulaire
+T15	ANAT 448 521	parathyroïdienne latérale bilatérale huméro-surrénalienne hypo-tissulaire
+T17	MEAS 531 535	6 cm
+T18	Concept_Idea 539 548	grand axe
+T19	ANAT 577 598	organes cerviculaires
+T20	DISO 628 648	compression tumorale
+T21	DISO 662 694	infiltration placentaire maligne
+T22	ANAT 675 694	placentaire maligne
+T23	PROC 698 732	geste chirurgico-cureurpraniatique
+T24	DISO 778 793	symptomatologie
+T25	PHEN 949 964	fonction rénale
+T26	ANAT 958 964	rénale
+T27	PHEN 990 1009	stabilité digestive
+T28	LIVB 1047 1056	patientes
+T29	DISO 1105 1143	syndrome d'épanchement intrapéritonéal
+T30	ANAT 1128 1143	intrapéritonéal
+T31	DISO 1250 1281	sécrétions céphalorrachidiennes
+T32	PROC 1313 1345	surveillance immunohistochimique
+T33	DISO 1376 1384	récidive
+T34	TEMP 1400 1407	12 mois

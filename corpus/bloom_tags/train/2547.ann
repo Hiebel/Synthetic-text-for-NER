@@ -1,0 +1,70 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	4 ans
+T3	DISO 36 61	antécédents pathologiques
+T4	MEAS 62 70	notables
+T5	PROC 72 76	reçu
+T6	Hospital 81 102	urgences pédiatriques
+T7	DISO 111 148	déficit moteur des membres inférieurs
+T8	ANAT 130 148	membres inférieurs
+T9	DISO 156 173	dyspnée sifflante
+T10	MEAS 188 199	progressive
+T11	PROC 203 218	examen clinique
+T12	PROC 223 232	admission
+T13	DISO 258 264	fièvre
+T14	MEAS 276 282	38,2°C
+T15	Concept_Idea 284 287	PNI
+T16	MEAS 290 301	120/70 mmhg
+T17	DISO 304 315	polypnéique
+T18	MEAS 318 331	30 cycles/min
+T19	LIVB 333 335	Il
+T20	MEAS 345 348	bon
+T21	Concept_Idea 349 367	état hémodynamique
+T22	DISO 384 407	hypertension artérielle
+T23	ANAT 397 407	artérielle
+T24	PROC 411 441	auscultation cardio-vasculaire
+T25	ANAT 424 441	cardio-vasculaire
+T26	PHEN 457 479	pression ventriculaire
+T28	ANAT 493 515	sinus carotidien droit
+T29	Localization 510 515	droit
+T30	DISO 538 554	signes cliniques
+T31	PROC 580 596	examen somatique
+T32	DISO 608 621	particularité
+T33	PROC 627 655	touchers vésiculo-axillaires
+T34	ANAT 636 655	vésiculo-axillaires
+T35	DISO 677 706	métanéphrine sensitivomotrice
+T36	CHEM 726 752	produits vasoconstricteurs
+T37	DISO 781 810	symptomatologie fonctionnelle
+T38	DISO 879 886	maladie
+T39	DISO 905 954	syndrome d'insuffisance cholinestéraminorachidien
+T40	ANAT 929 954	cholinestéraminorachidien
+T41	DISO 959 1019	cardiomyopathie dilatée hypertrophiée congénitale ischémique
+T42	LIVB 1041 1051	nouveau-né
+T43	DISO 1084 1110	hypokaliémie hypochlorurée
+T44	DISO 1126 1160	insuffisance bicarbonatrico-cæcale
+T45	ANAT 1139 1160	bicarbonatrico-cæcale
+T46	PROC 1177 1207	traitement curatif substitutif
+T47	DEVI 1213 1258	sonde oeso-gastroduodénale transoesophagienne
+T49	ANAT 1362 1374	sus-papuleux
+T50	ANAT 1545 1555	tissulaire
+T51	MEAS 1637 1641	18cm
+T52	Concept_Idea 1645 1654	grand axe
+T53	ANAT 1678 1713	muqueuses intestinales segmentaires
+T54	DISO 1906 1944	vascularite thromboembolique chronique
+T55	PROC 1948 1971	radiographie pulmonaire
+T56	ANAT 1961 1971	pulmonaire
+T61	PROC 2282 2295	sérologie VIH
+T62	MEAS 2302 2310	négative
+T63	PROC 2324 2354	complément immunohistochimique
+T64	DISO 2447 2477	paralysie motrice prurigineuse
+T65	TEMP 2487 2503	depuis deux mois
+T66	MEAS 2519 2534	progressivement
+T67	Concept_Idea 2538 2544	volume
+T68	MEAS 2556 2564	0,5 g/dl
+T69	MEAS 2567 2575	1,3 g/dl
+T70	MEAS 2625 2634	grade III
+T71	PROC 2732 2764	technique d'immuno-histochimique
+T72	PROC 2770 2794	chimiothérapie adjuvante
+T73	CHEM 2796 2809	dexaméthasone
+T74	CHEM 2811 2821	paclitaxel
+T75	CHEM 2823 2833	cisplatine
+T76	PROC 2869 2887	traitement curatif

@@ -1,0 +1,22 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 88 99	hospitalisé
+T5	Hospital 103 121	service d'urologie
+T6	DISO 131 162	paralysie du sinus sphinctérien
+T7	ANAT 144 162	sinus sphinctérien
+T8	TEMP 172 185	depuis 2 mois
+T9	DISO 202 217	symptomatologie
+T10	Concept_Idea 232 235	âge
+T11	TEMP 239 246	1 année
+T12	DISO 278 324	tuméfaction des paires crâniennes latéro-axial
+T14	MEAS 340 355	progressivement
+T15	Concept_Idea 359 365	volume
+T16	DISO 386 402	troubles visuels
+T17	PROC 407 450	ponction pleurale liquidienne transfixiante
+T18	ANAT 416 450	pleurale liquidienne transfixiante
+T19	CHEM 494 516	liquide sécrétaloïdien
+T20	DOSE 518 523	500ml
+T21	TEMP 527 540	peropératoire
+T22	PROC 557 581	exploration endoscopique
+T23	DISO 612 625	particularité

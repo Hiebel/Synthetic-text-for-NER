@@ -1,0 +1,76 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 19 25	18 ans
+T3	DISO 32 56	antécédents pathologique
+T4	MEAS 57 69	particuliers
+T5	PROC 76 82	admise
+T6	Hospital 87 95	urgences
+T7	Hospital 99 111	CHU d'Amiens
+T8	DISO 124 140	crise convulsive
+T9	PROC 144 159	examen clinique
+T10	LIVB 172 179	patient
+T11	MEAS 183 190	mauvais
+T12	Concept_Idea 191 203	état général
+T13	DISO 213 229	râles crépitants
+T14	ANAT 239 251	conjonctives
+T15	ANAT 258 274	muqueuse buccale
+T16	PROC 290 306	examen somatique
+T17	DISO 318 331	particularité
+T18	PROC 336 353	tomodensitométrie
+T19	PROC 355 378	TDM) cervico-thoracique
+T20	ANAT 360 378	cervico-thoracique
+T21	DISO 423 447	symptomatologie méningée
+T22	DISO 489 509	pneumopéritoine aigu
+T23	DISO 519 542	déficit trophoblastique
+T24	LIVB 569 576	malades
+T25	PROC 680 696	bilan biologique
+T26	PROC 722 773	saturation pulsée en fluorescéine méthyléphtallique
+T27	CHEM 743 773	fluorescéine méthyléphtallique
+T28	PROC 774 778	SPMH
+T29	PROC 783 813	bilan phosphocalcique standard
+T30	PROC 815 818	IMC
+T31	PROC 822 840	ionogramme sanguin
+T32	ANAT 833 840	sanguin
+T33	PROC 846 886	glycémie normochrome normocytaire totale
+T34	PROC 888 892	TSHG
+T35	PROC 896 922	angioscanner préopératoire
+T36	DISO 949 991	distension ventriculaire droite ischémique
+T37	ANAT 960 991	ventriculaire droite ischémique
+T38	Localization 974 980	droite
+T39	MEAS 1001 1009	11/10 cm
+T40	DISO 1025 1066	masse tissulaire anéchogène hypokinétique
+T41	MEAS 1075 1081	5×6 cm
+T42	DEVI 1093 1117	cathéter Doppler couleur
+T43	Concept_Idea 1868 1871	cas
+T44	PHEN 1921 1942	grossesse monofoetale
+T45	DISO 1981 1994	consanguinité
+T46	DISO 2232 2254	réceptions diabétiques
+T47	DISO 2978 3003	complication obstétricale
+T48	LIVB 3020 3026	enfant
+T49	CHEM 3032 3044	antibiotique
+T50	ANAT 3050 3062	conjonctives
+T51	CHEM 3081 3094	métronidazole
+T52	DISO 3117 3137	cancer du lobe droit
+T54	Localization 3132 3137	droit
+T55	MEAS 3138 3146	Figure 1
+T56	PROC 3151 3162	échographie
+T57	DISO 3208 3264	perforation tissulaire anéchogène hétérogène asymétrique
+T58	MEAS 3274 3278	7 cm
+T59	Concept_Idea 3282 3291	grand axe
+T60	DISO 3297 3365	niveau lésionnel liquidien postéro-supérieur basithoracique résiduel
+T61	ANAT 3387 3481	aires ganglionnaires rénales cervico-mandibulaires mandibulaires antébronchovasculaires droite
+T62	MEAS 3505 3510	1,5 m
+T63	MEAS 3514 3518	2m 3
+T64	PROC 3539 3564	injection intramusculaire
+T65	DEVI 3647 3666	prothèse électrique
+T66	PROC 3671 3702	fibroscopie oeso-gastro-iliaque
+T67	ANAT 3683 3702	oeso-gastro-iliaque
+T68	MEAS 3709 3716	normale
+T69	DISO 3739 3756	lésions kystiques
+T70	PROC 3771 3803	scintigraphie abdomino-pelvienne
+T71	ANAT 3785 3803	abdomino-pelvienne
+T72	DISO 3843 3889	hyperplasie calcique érythémateuse infiltrante
+T73	ANAT 3919 3960	parties molles para articulaires pelviens
+T74	DISO 4224 4270	kystes hydatiques périostéoblastiques nécrosés
+T75	DISO 4399 4420	opacité bourgeonnante
+T76	MEAS 4430 4435	20 mm
+T77	Concept_Idea 4439 4448	grand axe

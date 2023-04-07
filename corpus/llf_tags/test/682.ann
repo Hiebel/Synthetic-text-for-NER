@@ -1,0 +1,47 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	5 ans
+T3	MEAS 93 94	4
+T4	Concept_Idea 246 249	âge
+T5	TEMP 253 259	10mois
+T6	LIVB 514 526	chiffonniers
+T7	DISO 536 554	bruits intestinaux
+T8	PROC 652 671	suivi psychiatrique
+T9	PROC 728 744	contrôle externe
+T10	LIVB 788 795	malades
+T11	PHEN 993 1017	activité professionnelle
+T12	LIVB 1161 1168	enfants
+T13	TEMP 1213 1223	21 semaine
+T14	TEMP 1227 1238	14 semaines
+T15	TEMP 1286 1298	32SA+3 jours
+T17	TEMP 1716 1723	18 mois
+T18	LIVB 1852 1859	parents
+T19	MODE 1915 1942	produits laitiers maternels
+T20	CHEM 1996 2031	fromages Lactaires Oléo-Coléagineux
+T21	LIVB 2148 2152	nous
+T22	DISO 2916 2935	syndrome restrictif
+T23	PROC 2941 2956	examen clinique
+T24	LIVB 2961 2968	patient
+T25	DISO 2984 3000	râles crépitants
+T26	MEAS 3005 3014	multiples
+T27	Concept_Idea 3015 3035	chiffres tensionnels
+T28	DISO 3048 3065	signes somatiques
+T29	DISO 3093 3114	distension abdominale
+T30	ANAT 3104 3114	abdominale
+T31	ANAT 3128 3150	membre inférieur droit
+T32	Localization 3145 3150	droit
+T33	MEAS 3166 3181	progressivement
+T34	DISO 3229 3239	rhinorrhée
+T35	DISO 3249 3255	fièvre
+T36	DISO 3271 3286	symptomatologie
+T37	LIVB 3307 3313	malade
+T38	PHEN 3351 3368	mariage ultérieur
+T39	DISO 3375 3395	fistule obstétricale
+T40	LIVB 3650 3654	père
+T41	LIVB 3658 3669	soeur aînée
+T42	DEVI 3684 3706	processus mamelonnaire
+T43	Concept_Idea 3739 3759	caractère opératoire
+T44	LIVB 3838 3848	praticiens
+T45	PROC 4274 4292	traitement curatif
+T46	PROC 4412 4440	antibiothérapie probabiliste
+T47	PROC 4454 4488	radio-chimiothérapie néo adjuvante
+T48	TEMP 4570 4577	16 mois

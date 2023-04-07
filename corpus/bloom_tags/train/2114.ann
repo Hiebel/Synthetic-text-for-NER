@@ -1,0 +1,24 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	PROC 141 159	traitement curatif
+T4	PROC 164 209	corticothérapie intrarachidienne substitutive
+T5	PROC 345 373	chirradiothérapie palliative
+T6	Hospital 386 407	urgences pédiatriques
+T7	DISO 435 454	tuberculose maligne
+T8	LIVB 650 660	adolescent
+T9	LIVB 677 682	notre
+T10	LIVB 683 686	ses
+T11	DISO 716 731	maladie cutanée
+T12	DISO 749 762	paragangliome
+T13	DISO 769 792	nodules carcinomateuses
+T14	LIVB 814 816	il
+T15	TEMP 828 834	14 ans
+T16	DISO 865 889	lombodorsalgie purulente
+T17	MEAS 901 916	progressivement
+T18	Concept_Idea 920 926	taille
+T19	MEAS 941 947	rapide
+T20	MEAS 957 968	généralisée
+T21	DISO 986 1011	troubles sensitivo-moteur
+T22	DISO 1025 1048	hypertension artérielle
+T23	ANAT 1038 1048	artérielle
+T24	MEAS 1057 1079	profondément arrêtable

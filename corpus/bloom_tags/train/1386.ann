@@ -1,0 +1,28 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	4 ans
+T3	DISO 36 61	antécédents pathologiques
+T4	MEAS 62 74	particuliers
+T5	PROC 80 95	examen clinique
+T6	LIVB 97 100	son
+T7	PHEN 101 127	développement psychomoteur
+T8	DISO 165 188	hypertension artérielle
+T9	ANAT 178 188	artérielle
+T10	MEAS 200 224	180/100 millimètres cube
+T11	CHEM 263 274	propranolol
+T12	CHEM 277 306	sulfanyl-méthyle-prostylamide
+T13	MEAS 322 332	rapidement
+T14	Concept_Idea 336 342	volume
+T15	MEAS 359 370	insuffisant
+T16	MEAS 452 461	spontanée
+T17	PROC 543 571	corticothérapie chirurgicale
+T19	CHEM 600 618	méthylprednisolone
+T20	PROC 632 657	scanner abdomino- pelvien
+T21	ANAT 640 657	abdomino- pelvien
+T22	DISO 711 738	polyradiculonévral syndrome
+T23	DISO 755 781	troubles sensitivomotrices
+T24	MEAS 794 800	rapide
+T25	Localization 839 849	bilatérale
+T26	ANAT 884 902	membres inférieurs
+T27	DISO 958 996	neurorétinodysplasie achromo-pigmentée
+T28	ANAT 1018 1044	papilles sensitivo-moteurs
+T29	DISO 1075 1104	œdèmes papuleuses prurigineux

@@ -1,0 +1,40 @@
+T1	LIVB 16 24	patiente
+T2	DISO 59 71	métrorragies
+T3	DOSE 90 107	environ 10 cycles
+T4	MEAS 123 138	progressivement
+T5	Concept_Idea 142 148	volume
+T6	DISO 164 191	polynucléaires neutrophiles
+T7	TEMP 201 215	depuis 06 mois
+T8	PROC 221 239	traitement médical
+T9	CHEM 250 269	Valproate de sodium
+T10	MODE 274 292	voie intraveineuse
+T11	CHEM 317 331	Ciprofloxacine
+T12	CHEM 332 344	Pyrazinamide
+T13	CHEM 347 358	Methotrexol
+T14	DOSE 359 361	1g
+T15	TEMP 361 366	/jour
+T16	CHEM 372 383	Cyclosérine
+T17	PROC 388 402	examen général
+T18	PHEN 416 425	grossesse
+T19	MEAS 426 435	triplicée
+T20	PROC 458 475	bilan obstétrical
+T21	DEVI 511 542	équilibre psychomoteur maternel
+T22	Hospital 683 691	urgences
+T23	DISO 709 747	pré-éclampsie hypertensive congénitale
+T24	ANAT 774 784	péritonéal
+T25	MEAS 804 810	1250ml
+T26	PROC 817 847	radiographie pulmonaire totale
+T27	ANAT 830 847	pulmonaire totale
+T28	LIVB 876 880	elle
+T29	PROC 896 919	radiothérapie adjuvante
+T30	DISO 937 952	symptomatologie
+T31	TEMP 963 970	06 mois
+T32	PROC 979 994	hospitalisation
+T33	DISO 1018 1035	dyspnée sifflante
+T34	MEAS 1050 1061	progressive
+T35	DISO 1087 1120	douleurs pelviennes prurigineuses
+T36	ANAT 1096 1106	pelviennes
+T37	MEAS 1132 1142	rapidement
+T38	Concept_Idea 1146 1152	volume
+T39	MEAS 1162 1174	généralisées
+T40	MEAS 1189 1195	rapide

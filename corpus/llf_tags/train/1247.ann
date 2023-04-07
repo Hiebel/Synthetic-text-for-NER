@@ -1,0 +1,61 @@
+T1	LIVB 18 25	patient
+T2	Concept_Idea 46 57	antécédents
+T3	MEAS 58 70	particuliers
+T4	DISO 90 99	dysphagie
+T5	DISO 106 120	amaigrissement
+T6	MEAS 131 135	2 kg
+T7	TEMP 139 143	2009
+T8	PROC 147 162	examen clinique
+T9	DISO 194 208	masse du genou
+T10	ANAT 203 208	genou
+T11	MEAS 218 223	10 cm
+T12	Concept_Idea 227 235	diamètre
+T13	DISO 251 272	lésions prurigineuses
+T14	ANAT 281 303	membre inférieur droit
+T15	Localization 298 303	droit
+T16	LIVB 328 338	nourrisson
+T17	DISO 352 371	maladie infectieuse
+T18	LIVB 386 388	il
+T19	CHEM 398 408	corticoïde
+T20	DOSE 410 415	50 mg
+T21	TEMP 415 419	/24h
+T22	PROC 425 438	sérologie VIH
+T23	MEAS 445 453	négative
+T24	PROC 458 485	bilan radiologique standard
+T25	PROC 524 545	radiologies standards
+T26	PROC 559 570	échographie
+T27	PROC 576 618	tomodensitométrie par résonance magnétique
+T28	PROC 620 651	TDM) thoraco-abdomino-pelvienne
+T29	ANAT 625 651	thoraco-abdomino-pelvienne
+T30	DISO 696 715	symptôme infectieux
+T31	PROC 730 749	protocole 2ERHZ/4RH
+T32	DISO 796 836	gastrite atrophique tissulaire polylobée
+T33	DEVI 856 882	micronodules endoscopiques
+T34	DISO 890 923	prolifération tumorale hétérogène
+T35	PROC 955 964	injection
+T36	CHEM 968 980	fluorouracil
+T37	DISO 1066 1081	signe neurogène
+T38	PROC 1094 1116	traitement chirurgical
+T39	PROC 1139 1167	reconstruction préopératoire
+T40	DISO 1181 1206	récidive mucoviscidosique
+T41	ANAT 1226 1260	nerf laryngé supérieur homolatéral
+T42	Localization 1249 1260	homolatéral
+T43	PROC 1274 1311	toilette oeso-gastrique scanno-guidée
+T44	ANAT 1283 1297	oeso-gastrique
+T45	PROC 1339 1367	prise en charge anesthésique
+T46	MEAS 1437 1447	favorables
+T47	Concept_Idea 1455 1472	plan psychomoteur
+T48	MEAS 1494 1501	simples
+T49	MEAS 1549 1553	N° 3
+T50	LIVB 1571 1581	nouveau-né
+T51	PHEN 1629 1637	mariages
+T52	TEMP 1645 1659	trois semaines
+T53	PROC 1673 1694	consultation médicale
+T54	LIVB 1806 1810	mère
+T55	LIVB 1827 1841	femme au foyer
+T56	LIVB 1862 1864	sa
+T57	LIVB 1865 1870	fille
+T58	TEMP 1879 1885	8 mois
+T59	DISO 1901 1931	cholestase congénitale maligne
+T60	DISO 1937 1960	tuberculose B chronique
+T61	Hospital 1981 1999	classification OMS

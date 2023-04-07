@@ -1,0 +1,110 @@
+T1	LIVB 28 35	patient
+T2	DISO 56 81	antécédents pathologiques
+T3	MEAS 82 94	particuliers
+T4	Hospital 115 123	urgences
+T5	DISO 132 168	syndrome oedémato-ascitique du genou
+T6	ANAT 163 168	genou
+T7	PROC 172 187	examen clinique
+T8	Concept_Idea 199 211	état général
+T9	MEAS 212 218	altéré
+T10	DISO 228 236	polypnée
+T11	MEAS 239 248	39 cycles
+T12	TEMP 249 259	par minute
+T13	DISO 267 283	râles crépitants
+T14	ANAT 292 305	cuisse droite
+T15	Localization 299 305	droite
+T16	TEMP 315 332	depuis cinq jours
+T17	PROC 348 364	examen somatique
+T18	DISO 376 389	particularité
+T19	PROC 394 411	tomodensitométrie
+T21	ANAT 418 444	thoraco-abdomino-pelvienne
+T22	DISO 469 538	masse cervicale médio péritonéale rétro vésico-vaginale hypochondrale
+T23	Localization 485 490	médio
+T24	Localization 503 508	rétro
+T25	MEAS 547 554	10/8 cm
+T26	ANAT 581 605	symphyse pubienne droite
+T27	Localization 599 605	droite
+T28	MEAS 615 628	2 centimètres
+T29	Concept_Idea 632 641	petit axe
+T30	DISO 647 722	adénocarcinome éosinophile hyperchromateux intrabronchovascularite type IBG
+T31	PROC 769 776	réséqué
+T32	DISO 812 839	métastase tumorale kystique
+T33	MEAS 872 879	simples
+T34	PROC 885 906	contrôle radiologique
+T35	CHEM 915 935	anticoagulants oraux
+T36	PROC 981 1006	étude anatomopathologique
+T37	PHEN 1059 1076	fonctions vitales
+T38	MEAS 1085 1093	limitées
+T39	MEAS 1122 1130	diffuses
+T40	PROC 1137 1154	mise en condition
+T41	PROC 1160 1171	hémodialyse
+T42	PROC 1177 1219	explorations fonctionnelles locorégionales
+T43	LIVB 1244 1249	fœtus
+T44	DEVI 1282 1307	sonde oesogastroduodénale
+T45	ANAT 1288 1307	oesogastroduodénale
+T46	PROC 1312 1333	biologie standardisée
+T47	PROC 1334 1349	normétanéphrine
+T48	PROC 1351 1355	ASAT
+T49	PROC 1357 1363	CA19-9
+T50	PROC 1369 1399	transfusions intrarachidiennes
+T51	ANAT 1423 1484	nerf laryngé basiféré supérieur droit postéroinférieur gauche
+T52	Localization 1455 1484	droit postéroinférieur gauche
+T53	PROC 1500 1543	dérivés salivaires rénaux congelés complets
+T54	PROC 1557 1566	injection
+T55	PROC 1579 1601	ponction scanno-guidée
+T56	PROC 1615 1648	antibioprophylaxie antibacillaire
+T57	PROC 1658 1681	radiothérapie adjuvante
+T58	Concept_Idea 1804 1832	caractère multidisciplinaire
+T59	Concept_Idea 1863 1882	aspect histologique
+T60	PROC 1930 1959	prise en charge thérapeutique
+T61	PROC 1968 2008	neuronutrition parenterale préopératoire
+T62	PROC 2048 2081	alimentation parentérale élective
+T63	CHEM 2091 2118	amoxicilline monophosphatée
+T65	PROC 2299 2339	hypertension intracrânienne normocytaire
+T66	ANAT 2312 2326	intracrânienne
+T67	MEAS 2350 2359	126mmol/l
+T68	MEAS 2365 2400	4 fois la limite supérieure tolérée
+T69	PROC 2409 2420	protéinurie
+T70	DISO 2435 2455	distension néonatale
+T71	ANAT 2446 2455	néonatale
+T72	DISO 2466 2488	anomalies métaboliques
+T73	DISO 2517 2553	maladie thromboembolique auto-immune
+T74	DISO 2624 2647	infections bactériennes
+T75	LIVB 2663 2676	streptocoques
+T76	DISO 2683 2712	symptômes neuropsychiatriques
+T77	DISO 2719 2752	diabète insulino-alcoolo-rétinien
+T78	DISO 2767 2781	cancer du rein
+T79	ANAT 2777 2781	rein
+T80	DISO 2791 2828	accident vasculaire bronchovasculaire
+T81	ANAT 2811 2828	bronchovasculaire
+T82	PROC 2843 2868	étude immunohistochimique
+T83	PROC 2906 2936	traitement médical substitutif
+T84	PROC 2942 2974	cathétérisme intraveineux direct
+T85	PROC 2975 2979	VIBT
+T86	DISO 3036 3059	troubles hémodynamiques
+T87	PHEN 3109 3135	développement psychomoteur
+T88	LIVB 3172 3177	femme
+T89	LIVB 3249 3255	enfant
+T90	TEMP 3263 3269	2 mois
+T91	Hospital 3302 3320	maternité primaire
+T92	PROC 3353 3389	séances thérapeutiques chirurgicales
+T93	Concept_Idea 3417 3426	résultats
+T94	MEAS 3459 3466	simples
+T95	TEMP 3509 3518	1 semaine
+T96	PROC 3555 3575	consultation externe
+T97	DISO 3626 3651	contractions vasomotrices
+T98	TEMP 3740 3757	depuis 6 semaines
+T99	DISO 3773 3811	rectorragies érythémato-tachyconductes
+T100	Concept_Idea 3870 3878	mobilité
+T101	DEVI 3902 3918	processus inhalé
+T102	DISO 3939 3959	perceptions fébriles
+T103	PROC 3964 3982	contrôle ultérieur
+T104	DISO 3999 4048	tuméfaction douloureuse inflammatoire généralisée
+T105	ANAT 4116 4135	région épigastrique
+T106	MEAS 4147 4162	progressivement
+T107	Concept_Idea 4166 4171	forme
+T108	MEAS 4172 4180	variable
+T109	MEAS 4190 4199	18 x 9 cm
+T110	MEAS 4209 4223	blanc grisâtre
+T111	ANAT 4253 4271	tissus conjonctifs
+T112	PROC 4279 4289	inspection

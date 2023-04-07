@@ -1,0 +1,37 @@
+T1	LIVB 33 41	patiente
+T2	DISO 76 112	douleurs épigastriques constrictives
+T3	ANAT 85 112	épigastriques constrictives
+T4	TEMP 122 145	depuis plusieurs années
+T5	DISO 161 173	vomissements
+T6	PHEN 195 202	appétit
+T7	DISO 217 244	troubles du cycle menstruel
+T8	PHEN 229 244	cycle menstruel
+T9	DISO 258 288	dyspnée stade III de Balthazar
+T10	DISO 347 371	déficit cognitivo moteur
+T11	MEAS 386 397	progressive
+T12	PROC 423 456	traitement médical antibacillaire
+T13	CHEM 467 486	Valproate de sodium
+T14	CHEM 488 499	Cyclosérine
+T15	CHEM 501 509	Aspirine
+T16	CHEM 511 522	Ethionamide
+T17	CHEM 524 551	Triméthoprime-Sulfamoxazole
+T18	CHEM 553 564	Ceftazidine
+T19	CHEM 566 578	Pyrazinamide
+T20	CHEM 580 586	Vit B6
+T21	CHEM 588 601	Bêtaméthasone
+T22	CHEM 603 616	Erythromycine
+T23	CHEM 618 629	Vinblastine
+T24	CHEM 631 646	Chloramphénicol
+T25	CHEM 648 658	Rifentanil
+T26	CHEM 660 671	Gentamicine
+T27	CHEM 673 688	Lévomépromazine
+T28	CHEM 690 703	Phénobarbital
+T29	CHEM 705 713	Diazépam
+T30	CHEM 715 726	Halopéridol
+T31	DISO 767 782	symptomatologie
+T32	DISO 803 830	complications neurologiques
+T33	MEAS 840 855	plus récurantes
+T34	LIVB 872 880	patients
+T35	DISO 1011 1049	syndrome d’épanchement vasculo-nerveux
+T36	ANAT 1034 1049	vasculo-nerveux
+T37	DISO 1101 1121	neurofibrome maligne

@@ -1,0 +1,25 @@
+T1	PROC 2 17	examen clinique
+T2	PROC 22 31	admission
+T3	LIVB 48 55	patient
+T4	MEAS 59 62	bon
+T5	Concept_Idea 63 75	état général
+T6	Concept_Idea 91 109	plan hémodynamique
+T7	PHEN 113 125	respiratoire
+T8	DISO 135 156	signes inflammatoires
+T9	ANAT 173 196	lèvre supérieure droite
+T10	Localization 190 196	droite
+T11	PROC 212 228	examen somatique
+T12	DISO 240 253	particularité
+T13	PROC 258 277	bilan préopératoire
+T14	PROC 291 299	kaliémie
+T16	TEMP 312 318	/heure
+T17	PROC 320 328	natrémie
+T18	MEAS 331 341	135 meq/kg
+T19	TEMP 341 347	/heure
+T20	MODE 353 363	voie orale
+T21	CHEM 366 397	amoxicilline-acide clavulanique
+T22	DOSE 399 406	2 mg/kg
+T23	TEMP 406 412	/heure
+T24	CHEM 428 446	méthylprednisolone
+T25	DOSE 448 457	0,5 mg/kg
+T26	TEMP 457 459	/j

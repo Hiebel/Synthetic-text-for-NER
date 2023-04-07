@@ -1,0 +1,27 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	PROC 32 36	reçu
+T4	Hospital 41 62	urgences pédiatriques
+T5	DISO 71 96	traumatisme du sein droit
+T6	ANAT 86 96	sein droit
+T7	Localization 91 96	droit
+T8	PROC 100 115	examen clinique
+T9	PROC 120 129	admission
+T10	Concept_Idea 143 154	température
+T11	MEAS 157 164	37,5° C
+T12	PHEN 175 198	réflexes ostéotendineux
+T13	MEAS 199 207	présents
+T14	PROC 224 240	examen somatique
+T15	DISO 250 263	particularité
+T16	PROC 268 285	bilan d'extension
+T17	PROC 319 352	imagerie par résonance magnétique
+T18	PROC 354 357	IRM
+T19	PROC 360 377	tomodensitométrie
+T20	PROC 379 382	TDM
+T21	PROC 387 396	angio-IRM
+T22	DISO 441 527	lésion tumorale hypersignal hétérogène tissulaire hypo-intense au produit de contraste
+T23	CHEM 507 527	produit de contraste
+T24	MEAS 537 542	14 mm
+T25	MEAS 547 551	18mm
+T26	ANAT 568 598	parties molles latéro-utérines
+T27	ANAT 638 648	péritonéal

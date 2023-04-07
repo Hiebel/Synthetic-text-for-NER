@@ -1,0 +1,32 @@
+T1	LIVB 29 34	femme
+T2	DISO 69 96	douleurs pelviennes aiguées
+T3	ANAT 78 88	pelviennes
+T4	DISO 121 137	signes cliniques
+T5	TEMP 156 169	depuis 3 mois
+T6	DISO 189 203	amaigrissement
+T7	MEAS 214 218	8 kg
+T8	PROC 222 237	examen clinique
+T9	LIVB 259 267	patiente
+T10	Concept_Idea 293 311	plan hémodynamique
+T11	DISO 327 333	fièvre
+T12	DISO 348 374	ictère muqueux prurigineux
+T13	ANAT 355 374	muqueux prurigineux
+T14	PHEN 379 407	mouvements abdomino-vaginaux
+T15	ANAT 390 407	abdomino-vaginaux
+T16	PROC 421 442	échographie cervicale
+T17	ANAT 433 442	cervicale
+T18	DISO 478 501	neuro-endocrine purpura
+T19	DISO 503 506	PNH
+T21	ANAT 522 530	pleurale
+T22	PROC 542 563	contractions utérines
+T23	ANAT 555 563	utérines
+T24	PROC 649 655	isolés
+T25	PROC 661 671	ensemencés
+T26	CHEM 698 711	Gentamicacine
+T27	CHEM 720 730	Kanamycine
+T28	ANAT 838 873	intra-parenchymateux périthoracique
+T29	LIVB 993 1001	patiente
+T30	DISO 1018 1037	endométrial maligne
+T31	DEVI 1074 1103	douloureux ciseaux électrique
+T32	MEAS 1272 1275	5cm
+T33	Concept_Idea 1279 1288	grand axe

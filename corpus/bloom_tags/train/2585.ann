@@ -1,0 +1,55 @@
+T1	LIVB 19 26	patient
+T2	DISO 55 79	hémodialyse hypertensive
+T3	DISO 96 121	pneumo-péritoine syndrome
+T4	PROC 126 136	diagnostic
+T5	DISO 160 203	cholangite auto-immune systémique purulente
+T6	PHEN 208 215	tolérée
+T7	CHEM 221 239	anti-inflammatoire
+T8	CHEM 245 263	méthylprednisolone
+T9	DOSE 265 271	2mg/kg
+T10	TEMP 271 273	/j
+T11	PROC 279 300	bilan immunocompétent
+T12	MEAS 336 345	15000/mm3
+T13	PROC 360 393	anticorps antinucléaires sériques
+T14	MEAS 402 411	négativés
+T15	PROC 425 452	taux de C-réactive protéine
+T16	MEAS 455 462	1 mg/ml
+T17	PROC 464 490	deionisation hydro-chlorée
+T18	MEAS 492 499	12 g/dl
+T19	PROC 502 513	réticulines
+T20	PROC 515 530	globules blancs
+T21	PROC 533 548	anti DNA natifs
+T22	PROC 555 591	tomodensitométrie abdomino-pelvienne
+T23	ANAT 573 591	abdomino-pelvienne
+T24	DISO 616 724	masse tissulaire lithiasique hypodense hétérogène hypo-vascularisée intrarénale périsurrénalienne bilatérale
+T25	Localization 714 724	bilatérale
+T26	MEAS 734 739	70 mm
+T27	MEAS 742 747	60 mm
+T28	PROC 776 785	injection
+T29	CHEM 789 809	produit de contraste
+T30	DISO 831 841	tissulaire
+T31	DISO 851 856	masse
+T32	PROC 860 889	ponction-biopsie chirurgicale
+T33	DEVI 972 985	moyens locaux
+T34	PROC 1003 1047	prélèvements bactériologiques préopératoires
+T35	DISO 1075 1085	pathologie
+T36	TEMP 1095 1106	depuis 5ans
+T37	Concept_Idea 1142 1154	état général
+T38	DISO 1193 1231	syndrome d’épanchement intrapéritonéal
+T39	ANAT 1216 1231	intrapéritonéal
+T40	PROC 1257 1280	résection transvésicale
+T41	PROC 1296 1316	toilette péritonéale
+T42	ANAT 1305 1316	péritonéale
+T43	CHEM 1327 1340	sulfamidazole
+T44	DOSE 1341 1345	500g
+T45	TEMP 1345 1347	/j
+T46	CHEM 1352 1363	nicardipril
+T47	DOSE 1365 1371	200 mg
+T48	TEMP 1371 1373	/j
+T49	MODE 1375 1388	sous cutanées
+T50	Hospital 1416 1448	centre hospitalier universitaire
+T51	PROC 1464 1502	techniques alternatives thérapeutiques
+T52	DISO 1774 1821	maladie thromboembolique veineuse superficielle
+T53	LIVB 1996 2004	patients
+T54	PHEN 2625 2647	suites postopératoires
+T55	MEAS 2656 2663	simples

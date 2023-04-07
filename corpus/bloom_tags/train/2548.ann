@@ -1,0 +1,39 @@
+T1	LIVB 29 37	patiente
+T2	DISO 72 87	ménométrorrhées
+T3	DISO 113 127	amaigrissement
+T4	PHEN 149 164	acuité visuelle
+T5	PROC 168 182	interrogatoire
+T6	DISO 213 237	traumatisme du œil droit
+T7	ANAT 228 237	œil droit
+T8	Localization 232 237	droit
+T9	PROC 262 272	césarienne
+T10	DISO 288 294	fièvre
+T11	DISO 304 317	inflammatoire
+T12	MEAS 332 338	rapide
+T13	DISO 359 381	symptômes neurologique
+T14	MEAS 522 530	2 kg/m 2
+T15	TEMP 540 560	deux jours plus tard
+T16	MEAS 577 592	plus accentuées
+T17	MEAS 604 620	de façon brutale
+T18	Concept_Idea 624 630	taille
+T19	MEAS 664 672	12/10 cm
+T20	MEAS 676 684	10/10 cm
+T21	LIVB 714 722	patiente
+T22	PROC 727 742	examen clinique
+T23	PROC 773 792	bilan préopératoire
+T24	PROC 806 836	échographie abdomino périnéale
+T25	ANAT 818 836	abdomino périnéale
+T26	DISO 862 883	thrombus obstétricaux
+T27	PROC 901 928	vaccination intramusculaire
+T28	DISO 950 963	particularité
+T29	DISO 1002 1052	adénopathies sus ombilico-pulmonaires infarctoïdes
+T31	PROC 1103 1134	scintigraphie tomodensitométrie
+T32	PROC 1136 1140	SUDM
+T33	PROC 1143 1174	tomodensitométrie transfixiante
+T34	PROC 1176 1207	TDM) thoraco-abdomino pelvienne
+T35	ANAT 1181 1207	thoraco-abdomino pelvienne
+T36	DISO 1229 1256	lésions ostéochondréactives
+T37	PROC 1279 1312	imagerie par résonance magnétique
+T38	PROC 1314 1317	IRM
+T39	DISO 1333 1359	hypersignal hypo signal T2
+T40	ANAT 1381 1414	muscles ptérygo-crâniens crâniens

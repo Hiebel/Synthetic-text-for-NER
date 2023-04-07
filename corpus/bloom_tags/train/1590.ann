@@ -1,0 +1,18 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	4 ans
+T3	PHEN 47 56	grossesse
+T4	PROC 61 67	suivie
+T5	DISO 119 132	consanguinité
+T6	PROC 138 147	admission
+T7	Hospital 151 155	bloc
+T8	LIVB 157 159	il
+T9	MEAS 169 172	bon
+T10	Concept_Idea 173 185	état général
+T11	PROC 190 214	bilan biologique initial
+T12	ANAT 228 253	liquide céphalo-rachidien
+T13	MEAS 265 283	46000 éléments/mm3
+T14	MEAS 290 307	9 fois la normale
+T15	PROC 314 329	globules blancs
+T16	MEAS 332 350	32 000 élément/mm3
+T17	PROC 358 377	protéine C réactive
+T18	MEAS 390 397	12 mg/l

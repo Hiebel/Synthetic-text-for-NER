@@ -1,0 +1,33 @@
+T1	PROC 4 20	cholécystectomie
+T2	PROC 39 65	examen anatomopathologique
+T3	DISO 85 94	métastase
+T4	DISO 101 130	tumeur de l'hypochondre droit
+T5	ANAT 113 130	hypochondre droit
+T6	Localization 125 130	droit
+T7	Concept_Idea 139 148	caractère
+T8	MEAS 176 180	deux
+T9	ANAT 181 204	hémi-champs thoraciques
+T10	ANAT 209 242	lobe supérieur gauche du pancréas
+T11	Localization 224 230	gauche
+T12	ANAT 249 275	veine sous clavière droite
+T13	Localization 269 275	droite
+T14	DISO 288 310	processus bourgeonnant
+T15	MEAS 319 322	5cm
+T16	DISO 337 371	granulations érythémato-squameuses
+T17	DISO 384 405	signes inflammatoires
+T18	DISO 409 434	localisations secondaires
+T19	LIVB 448 456	patiente
+T20	PROC 463 469	admise
+T21	Hospital 473 488	bloc opératoire
+T22	PROC 523 551	prise en charge chirurgicale
+T23	PROC 556 573	geste chirurgical
+T24	TEMP 590 600	2 semaines
+T25	MEAS 617 626	difficile
+T26	TEMP 680 686	8 mois
+T27	PROC 706 729	cholécystectomie totale
+T28	DISO 761 782	détresse respiratoire
+T29	PHEN 770 782	respiratoire
+T30	DISO 789 810	récidive neurologique
+T31	LIVB 848 855	patient
+T32	MEAS 888 895	simples
+T33	DISO 921 951	récidive clinico-thérapeutique

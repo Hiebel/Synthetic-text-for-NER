@@ -1,0 +1,70 @@
+T1	PROC 4 46	radiographie de l'abdomen sans préparation
+T2	ANAT 22 29	abdomen
+T3	DISO 68 87	niveau hydroaerique
+T4	ANAT 101 108	douglas
+T5	PROC 113 129	bilan biologique
+T6	PROC 153 184	TDM thoraco abdomino-abdominale
+T7	ANAT 157 184	thoraco abdomino-abdominale
+T8	DISO 216 225	anomalies
+T9	Concept_Idea 241 250	résultats
+T10	PROC 255 284	explorations préanesthésiques
+T11	DEVI 291 304	lampe à fente
+T12	PROC 319 340	bilan phosphocalcique
+T13	MEAS 341 349	Figure 1
+T14	LIVB 355 363	patiente
+T15	PROC 380 408	traitement immunosuppresseur
+T16	CHEM 391 408	immunosuppresseur
+T17	CHEM 412 424	antibiotique
+T18	CHEM 430 444	triméthoprimes
+T19	CHEM 447 478	amoxicilline acide clavulanique
+T20	Concept_Idea 497 505	clinique
+T21	TEMP 512 518	3 mois
+T22	PROC 524 534	opératoire
+T23	Concept_Idea 547 567	aspect morphologique
+T24	DISO 583 625	carcinome épidermoïde maligne métastatique
+T25	PROC 643 669	étude immuno-histochimique
+T26	DISO 697 714	processus tumoral
+T27	ANAT 790 813	parties molles rectales
+T28	ANAT 823 838	rein postérieur
+T29	Localization 828 838	postérieur
+T30	PROC 843 873	diagnostic anatomopathologique
+T31	DISO 897 997	métastase ganglionnaire mésentérique monophasique infiltrante primitive achromatoide mucopolysant BK
+T32	PROC 1007 1028	protocole HER2N1/6RUH
+T33	DISO 1052 1112	métastase tissulaire chondroblastique lithiasique stade EBWC
+T34	MEAS 1123 1127	7 mm
+T35	PROC 1150 1174	colonothérapie adjuvante
+T36	PROC 1188 1232	exérèse scanno-guidelainectomie exploratrice
+T37	PROC 1248 1320	myélopéroxydase monoclonale intraveineuse totale séquellaire fractionnée
+T38	PROC 1333 1425	greffe endobronchique extemporanéodarcoïde néoadjuvante rétropéritonéale hyperfibrinogénitum
+T39	PHEN 1447 1483	structures basithoraciques laryngées
+T40	PROC 1488 1515	prélèvement bactériologique
+T41	ANAT 1528 1578	sinus sphénoïdale maxillaire supérieur homolatéral
+T42	Localization 1567 1578	homolatéral
+T43	DISO 1617 1646	mélanocytaire érythrophagique
+T44	PROC 1650 1669	examen histologique
+T45	MEAS 1744 1749	18 cm
+T46	MEAS 1753 1762	14 x 8 cm
+T47	LIVB 2151 2159	patiente
+T48	Concept_Idea 3011 3039	tableau clinico-radiologique
+T49	DISO 3058 3160	malformation congénitale du lobe inferieur antérieur segmentaire controlatéral antébronchique fundique
+T50	ANAT 3086 3160	lobe inferieur antérieur segmentaire controlatéral antébronchique fundique
+T52	DISO 3200 3233	processus néoplasique malformatif
+T53	Concept_Idea 3269 3287	aspect étiologique
+T54	DISO 3312 3384	adénocarcinome myxoide infiltrant la symphyse pubienne supérieure droite
+T55	ANAT 3349 3384	symphyse pubienne supérieure droite
+T56	Localization 3378 3384	droite
+T57	DISO 3405 3486	métaplasie mamelonnaire péribronchoplantaire mésentérique primitive métatarsienne
+T58	PROC 3545 3577	tumorectomie totale exploratrice
+T59	PROC 3625 3658	expectoration scanno-pathologique
+T60	PROC 3672 3697	étude anatomopathologique
+T61	DISO 3767 3780	complications
+T62	MEAS 3817 3824	simples
+T64	PROC 3888 3918	radio-chimiothérapie adjuvante
+T65	CHEM 3924 3940	Cyclophosphamide
+T66	CHEM 3943 3957	gentaméthasone
+T67	CHEM 3959 3975	cyclophosphamide
+T68	CHEM 3978 3992	céphalosporine
+T69	PROC 4009 4039	greffons pédiculés injectables
+T70	DISO 4072 4096	anomalies morphologiques
+T71	DISO 4151 4221	épanchement péritonéal mucineux cervical hypermétabolique bourgeonnant
+T72	DISO 4289 4316	calcification cicatricielle

@@ -1,0 +1,55 @@
+T1	PROC 49 61	consultation
+T2	Hospital 66 91	urgences ophtalmologiques
+T3	Concept_Idea 136 148	état général
+T4	TEMP 158 177	depuis quatre jours
+T5	PROC 182 197	examen clinique
+T6	LIVB 216 222	enfant
+T7	DISO 229 256	crises convulsives fébriles
+T8	ANAT 279 308	plan temporal inférieur droit
+T9	Localization 303 308	droit
+T10	DISO 325 356	désorientation temporo-spaciale
+T11	DISO 368 384	brûlures froides
+T12	ANAT 394 412	abdomino-pelvienne
+T14	DISO 474 498	œdème angioïde palpébral
+T15	ANAT 534 579	fosse infra temporale inférieure homolatéraux
+T16	Localization 567 579	homolatéraux
+T17	MEAS 589 594	90 cm
+T18	Concept_Idea 598 612	plus grand axe
+T19	MEAS 621 633	environ 6 cm
+T20	Concept_Idea 637 646	grand axe
+T21	ANAT 663 689	temporal supérieur gauches
+T22	Localization 682 689	gauches
+T23	DISO 713 734	perte de connaissance
+T24	DISO 762 785	hallucinations tactiles
+T25	LIVB 800 802	sa
+T26	PROC 803 829	consultation psychiatrique
+T27	PROC 835 844	admission
+T28	DISO 870 915	déficit sensitivomoteur psychomoteur cervical
+T29	DISO 942 971	symptômes neuropsychiatriques
+T30	CHEM 1875 1887	Amoxicilline
+T31	CHEM 1889 1919	pénicilline acide clavulanique
+T32	CHEM 1921 1935	gentaméthasone
+T33	CHEM 1937 1949	pyrazinamide
+T34	PROC 1963 1984	contrôle radiologique
+T35	PROC 1996 2017	scanner préopératoire
+T36	DISO 2039 2085	myome liquidien tissulaire pariétal postérieur
+T37	ANAT 2117 2149	structures cutanéo-thyroïdiennes
+T38	DISO 2163 2203	sensibilité musculo-tendineuse calcifiée
+T39	ANAT 2216 2277	muscle para vertébro-palmo-plantaire thoracique controlatéral
+T40	DISO 2292 2348	prolifération tumorale monoclonale anéchogène hétérogène
+T42	PROC 2609 2634	étude anatomopathologique
+T43	MEAS 2649 2652	peu
+T44	DEVI 2688 2712	matériel d’ostéosynthèse
+T45	PROC 2794 2831	traitements médicochirurgicaux locaux
+T46	PROC 2855 2884	exercices physiques intensifs
+T47	PROC 2900 2919	anesthésie générale
+T48	PROC 2933 2958	rééducation fonctionnelle
+T49	TEMP 2968 2994	24 ème jour postopératoire
+T50	PROC 3003 3027	ventilation artificielle
+T51	MEAS 3039 3053	quasi complète
+T52	PROC 3087 3119	néphrectomie totale exploratrice
+T53	PROC 3146 3223	hystérectomie transœso-appendiculaire intrascrotale segmentaire scanno-guidée
+T54	LIVB 3247 3254	malades
+T55	MEAS 3284 3302	très satisfaisante
+T56	PROC 3422 3453	radiothérapie externe adjuvante
+T57	PROC 3493 3534	chimiothérapie néo adjuvante concomitante

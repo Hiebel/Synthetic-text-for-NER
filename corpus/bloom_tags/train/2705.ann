@@ -1,0 +1,30 @@
+T1	LIVB 21 28	patient
+T2	DISO 72 96	hépatopathie auto-immune
+T3	DISO 110 126	hyperleucocytose
+T4	PROC 229 234	admis
+T5	Hospital 239 247	urgences
+T6	DISO 266 280	amaigrissement
+T7	DISO 294 337	sensibilité abdomino-pelvienne hypoéchogène
+T8	ANAT 306 337	abdomino-pelvienne hypoéchogène
+T9	TEMP 347 360	depuis 3 mois
+T10	DISO 376 404	défense péridurale purulente
+T11	DISO 414 427	inflammatoire
+T12	MEAS 442 448	rapide
+T13	MEAS 458 471	plus marquées
+T14	DISO 523 536	paragangliome
+T15	DISO 547 567	méningiomes malignes
+T16	PROC 571 586	examen clinique
+T17	DISO 603 636	hypotonie péristatique abdominale
+T18	ANAT 613 636	péristatique abdominale
+T19	TEMP 646 671	quelques heures plus tard
+T20	MEAS 685 696	généralisée
+T21	DISO 931 966	traumatisme hémorragique ischémique
+T22	DISO 973 1004	myxome kystique tumoral nécrosé
+T23	PROC 1008 1031	scanner abdominopelvien
+T24	ANAT 1016 1031	abdominopelvien
+T25	DISO 1049 1115	lésion tissulaire nécrotique basithalamoïdal lithiasique hypodense
+T26	MEAS 1127 1142	progressivement
+T27	Concept_Idea 1146 1152	taille
+T28	MEAS 1162 1165	6cm
+T29	Concept_Idea 1169 1178	grand axe
+T30	ANAT 1199 1219	membranes ovariennes

@@ -1,0 +1,16 @@
+T1	PROC 2 21	examen
+T2	ANAT 9 21	neurologique
+T3	DISO 37 53	trouble
+T4	DISO 93 109	délire
+T5	DISO 119 142	impotence
+T6	MEAS 143 152	partielle
+T7	PHEN 171 196	fonctions
+T8	MEAS 198 205	Table
+T9	PROC 211 235	traitement
+T10	CHEM 246 259	phénobarbital
+T11	PROC 276 295	anesthésie
+T12	PROC 302 317	hospitalisation
+T13	LIVB 323 328	notre
+T14	Hospital 329 336	service
+T15	TEMP 337 355	pendant
+T16	DISO 386 400	hallucinations

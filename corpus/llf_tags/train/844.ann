@@ -1,0 +1,92 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 66	antécédents pathologiques
+T3	MEAS 67 79	particuliers
+T4	TEMP 98 108	avril 2014
+T5	DISO 113 122	dysphagie
+T6	Concept_Idea 167 179	état général
+T7	PROC 184 201	tomodensitométrie
+T8	PROC 203 226	TDM) abdomino-pelvienne
+T9	ANAT 208 226	abdomino-pelvienne
+T10	DISO 260 281	nodule du sein gauche
+T11	ANAT 270 281	sein gauche
+T12	Localization 275 281	gauche
+T13	MEAS 291 295	7 cm
+T14	Concept_Idea 299 308	grand axe
+T15	ANAT 332 342	rein droit
+T16	Localization 337 342	droit
+T17	DISO 352 374	remaniements kystiques
+T18	ANAT 394 411	fosses urétérales
+T19	PROC 415 439	exploration chirurgicale
+T20	DISO 470 478	anomalie
+T21	DISO 488 499	adénopathie
+T22	DISO 517 535	signe hémorragique
+T23	DISO 546 567	niveaux hydroaériques
+T24	PROC 580 605	étude anatomopathologique
+T25	DISO 627 648	léiomyome éosinophile
+T26	ANAT 665 690	épithélio-gastro-duodénal
+T27	PHEN 700 720	récepteurs hormonaux
+T28	PROC 741 766	injection intramusculaire
+T29	CHEM 782 794	fluorouracil
+T30	MEAS 840 847	pT3N0Mx
+T31	DEVI 867 875	cathéter
+T32	DISO 894 910	malignité locale
+T33	DISO 931 989	hypertrophie tissulaire polymyomateuse hyperproteinorachie
+T34	PROC 1006 1015	transfert
+T35	Hospital 1020 1041	urgences pédiatriques
+T36	PROC 1046 1065	bilan préopératoire
+T37	DISO 1088 1123	thrombophlébite érosive lithiasique
+T38	CHEM 1150 1181	amoxicilline acide clavulanique
+T39	CHEM 1184 1194	aminosides
+T40	PROC 1208 1236	corticothérapie probabiliste
+T41	PROC 1252 1296	cholangiocystokératectomie totale endonasale
+T42	PROC 1310 1405	tumorectomie cunéiforme bidiplômocytaire segmentaire transœsogastroduodénale perimeterapymetrie
+T43	LIVB 1430 1437	patient
+T44	DISO 1442 1488	métastase tuberculeuse pyélocalicielle maligne
+T45	MEAS 1525 1532	simples
+T46	PROC 1548 1590	remplissage vasculoro-veineux intravésical
+T47	ANAT 1560 1590	vasculoro-veineux intravésical
+T48	PROC 1605 1639	radio-chimiothérapie néo adjuvante
+T49	PROC 1669 1701	hémodialyse péritonéale monobloc
+T50	PROC 1753 1797	cystolithotomie percutanée scanno-guidelines
+T51	ANAT 1816 1828	rein gauches
+T52	Localization 1821 1828	gauches
+T53	PROC 1834 1869	antibioprophylaxie antituberculeuse
+T55	PROC 1997 2112	anastomose termino-paravertébrale cutanéampullaire pariéto-pylorique distale écho-endovasculaire multidisciplinaire
+T56	ANAT 2131 2148	muqueuse vésicale
+T57	Concept_Idea 2160 2185	trajectoire thérapeutique
+T58	ANAT 2230 2260	structures digestives buccales
+T59	ANAT 2292 2315	rein inferieur fléchien
+T60	Localization 2297 2315	inferieur fléchien
+T61	PROC 2344 2357	geste complet
+T62	PROC 2379 2407	prise en charge orthopédique
+T63	PROC 2420 2443	réduction orthodontique
+T64	PROC 2462 2507	correction motrice locorégionale exploratrice
+T65	DISO 2570 2627	symptomatologie neuropsychiatrique achilléenne secondaire
+T66	DISO 2648 2675	neurofibromatopie spastique
+T67	MEAS 2745 2754	favorable
+T68	PROC 2760 2782	contrôle échographique
+T69	PROC 2788 2814	examen anatomopathologique
+T70	DISO 2830 2903	remaniement tissulaire des fibres coliques congénitales fœtales de Yersin
+T71	ANAT 2857 2903	fibres coliques congénitales fœtales de Yersin
+T72	ANAT 2917 2945	pédicule œso-gastro-duodénum
+T73	MEAS 2955 2959	5 mm
+T74	MEAS 2964 2968	6 mm
+T75	DISO 3012 3079	processus tumoral méningothélial polypoïde mésenchymateux disséminé
+T76	DISO 3148 3227	carcinomes épidermoïdes néoplasiques métastasantectocolombaires éosinophilicaux
+T77	PHEN 3232 3260	circonférence crânio-utérine
+T78	ANAT 3246 3260	crânio-utérine
+T79	MEAS 3275 3280	50 cm
+T80	Concept_Idea 3303 3318	aspect clinique
+T81	DISO 3332 3385	maladie thromboembolique gestationistico-thrombotique
+T82	DISO 3395 3443	malformation myomectoide hétéronodulaire bénigne
+T83	PROC 3465 3491	angioscanner préopératoire
+T84	DISO 3510 3539	anomalie clinico-radiologique
+T85	DISO 3567 3586	récidive ischémique
+T86	DISO 3593 3624	nécrose carcinomateuse primaire
+T87	PROC 3629 3659	complément immunohistochimique
+T88	PROC 3674 3692	étude histologique
+T89	DISO 3741 3835	myomeopathie auto-immune polymicrobienne pseudo-encéphalique évolutive type BWK ® ketoacidosis
+T90	DISO 3858 3897	dysplasie trophoblastique hypokinétique
+T91	DISO 3958 4016	synaptophysine néonatale thyroidienne® syndrome IA1/FAVNIL
+T92	DISO 4044 4081	zones granulomateuses dyskératosiques
+T93	DISO 4103 4132	lymphomaryngite inflammatoire

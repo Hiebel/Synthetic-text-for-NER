@@ -1,0 +1,40 @@
+T1	LIVB 29 37	patiente
+T2	DISO 71 152	syndrome d’épanchement péricardique liquidien du lobe pulmonaire inféro-supérieur
+T5	PROC 158 167	admission
+T6	LIVB 169 173	elle
+T7	MEAS 183 186	bon
+T8	Concept_Idea 187 199	état général
+T9	DISO 223 244	détresse respiratoire
+T10	PHEN 232 244	respiratoire
+T11	PROC 257 287	échographie abdomino-pelvienne
+T12	ANAT 269 287	abdomino-pelvienne
+T14	Concept_Idea 371 377	aspect
+T15	MEAS 378 388	hétérogène
+T16	MEAS 398 403	12 cm
+T17	Concept_Idea 407 416	grand axe
+T18	ANAT 432 472	parties molles latéro-utérines vaginales
+T19	DISO 496 520	épanchement intravaginal
+T20	ANAT 508 520	intravaginal
+T21	DISO 537 558	métanéphrine primaire
+T22	DISO 574 604	volvulus trophoblaste malformé
+T23	PROC 632 661	examen clinique préopératoire
+T24	PROC 666 716	dosage de la prothrombine glycoprotéine II activée
+T25	PROC 718 737	Protéine C Réactive
+T26	PROC 739 767	protéine S antithrombine III
+T27	PROC 769 797	protéine I antithrombine III
+T28	MEAS 812 820	négatifs
+T29	PROC 827 859	anticorps antiphospholipides IgG
+T30	MEAS 868 876	positifs
+T31	PROC 903 906	IgG
+T32	MEAS 915 923	négatifs
+T33	PROC 927 952	intervention chirurgicale
+T34	PROC 973 1055	anesthésie locorégionale péridurale cervico-lombaire trans-bronchique exploratrice
+T36	PROC 1063 1088	exploration scanno-guidée
+T37	DISO 1102 1165	masse tumorale infiltro-interstitielle érythémato-bourgeonnante
+T38	ANAT 1183 1194	flanc droit
+T39	Localization 1189 1194	droit
+T40	PROC 1226 1235	injection
+T41	CHEM 1239 1259	produit de contraste
+T42	ANAT 1283 1305	structures vertébrales
+T43	ANAT 1359 1390	voies veineuses intrarachidiens
+T44	Concept_Idea 1402 1413	consistance

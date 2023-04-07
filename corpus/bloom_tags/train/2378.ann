@@ -1,0 +1,90 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 77	particuliers
+T4	PROC 83 92	admission
+T5	Hospital 101 119	service d'urologie
+T6	DISO 129 145	hyperhydratation
+T7	DISO 153 183	douleurs pelviennes chroniques
+T8	ANAT 162 172	pelviennes
+T9	DISO 199 214	ictère purulent
+T10	TEMP 224 237	depuis 4 mois
+T11	ANAT 251 261	pied droit
+T12	Localization 256 261	droit
+T13	LIVB 263 265	Il
+T14	PROC 272 283	hospitalisé
+T15	Hospital 288 296	urgences
+T16	PROC 302 327	traitement antibacillaire
+T17	CHEM 338 349	Ceftriaxone
+T18	DOSE 351 353	1g
+T19	TEMP 353 358	/jour
+T20	CHEM 361 372	Gentamycine
+T21	DOSE 374 379	100mg
+T22	TEMP 379 381	/j
+T23	CHEM 384 399	Chloramphénicol
+T24	DOSE 401 407	200 mg
+T25	TEMP 407 409	/j
+T26	CHEM 412 423	Cyclosérine
+T27	DOSE 425 430	20 mg
+T28	TEMP 430 432	/j
+T29	CHEM 435 448	Métronidazole
+T30	DOSE 450 456	800 mg
+T31	TEMP 456 458	/j
+T32	CHEM 461 473	Pyrazinamide
+T33	DOSE 475 481	750 mg
+T34	TEMP 481 483	/j
+T35	CHEM 486 497	Ethionamide
+T36	DOSE 499 505	400 mg
+T37	TEMP 505 507	/j
+T38	CHEM 512 522	Furosémide
+T39	DOSE 524 530	600 mg
+T40	TEMP 530 532	/j
+T41	DISO 550 565	symptomatologie
+T42	TEMP 576 582	4 mois
+T43	DISO 608 629	détresse respiratoire
+T44	PHEN 617 629	respiratoire
+T45	MEAS 644 655	progressive
+T46	DISO 691 711	méningo-vascularisée
+T47	PROC 747 762	examen clinique
+T48	LIVB 764 766	il
+T49	Concept_Idea 776 780	état
+T50	Concept_Idea 795 812	plan neurologique
+T51	DISO 830 873	syndrome d'épanchement liquidien péritonéal
+T52	ANAT 853 873	liquidien péritonéal
+T53	DISO 884 909	troubles sensitivomoteurs
+T54	DISO 913 940	polynucléaires neutrophiles
+T55	DISO 981 997	signes cliniques
+T56	ANAT 1042 1060	membres inférieurs
+T57	PROC 1066 1092	investigations biologiques
+T58	PROC 1108 1125	natrémie corrigée
+T59	MEAS 1128 1137	125 meq/l
+T60	PROC 1144 1152	kaliémie
+T61	MEAS 1155 1164	2,8 meq/l
+T62	PROC 1170 1189	hémoglobine glyquée
+T63	MEAS 1192 1196	6,5%
+T64	PROC 1210 1223	HCO3- sérique
+T65	MEAS 1226 1234	13 meq/l
+T66	PROC 1239 1275	tomodensitométrie abdomino-pelvienne
+T67	ANAT 1257 1275	abdomino-pelvienne
+T69	MEAS 1384 1388	3 cm
+T70	Concept_Idea 1392 1401	grand axe
+T71	DISO 1417 1439	hypotonie épigastrique
+T72	ANAT 1427 1439	épigastrique
+T73	ANAT 1460 1480	veines mésentériques
+T74	ANAT 1501 1522	méso grêlo-sigmoïdien
+T75	MEAS 1534 1544	rapidement
+T76	Concept_Idea 1548 1554	taille
+T77	MEAS 1564 1581	circonférentielle
+T78	PROC 1588 1597	injection
+T79	CHEM 1601 1621	produit de contraste
+T80	ANAT 1640 1660	fosse iliaque droite
+T81	Localization 1654 1660	droite
+T82	ANAT 2179 2202	structures intestinales
+T83	PROC 2249 2268	bilan immunologique
+T84	LIVB 2302 2310	patiente
+T85	PROC 2314 2343	anticorps antithyroperoxydase
+T86	MEAS 2354 2362	positifs
+T87	MEAS 2417 2425	négatifs
+T88	DISO 2506 2524	diabète systémique
+T89	DISO 2533 2559	malformations congénitales
+T90	DISO 2581 2612	tumeur péritonéale thyroïdienne
+T91	PROC 2632 2650	traitement curatif

@@ -1,0 +1,33 @@
+T1	LIVB 4 9	femme
+T2	DISO 69 94	atteinte cardiovasculaire
+T3	ANAT 78 94	cardiovasculaire
+T4	DISO 114 129	dyspnée fébrile
+T5	MEAS 144 155	progressive
+T6	DISO 173 179	sueurs
+T7	MEAS 190 197	2litres
+T8	PHEN 242 379	état général.
+T9	PROC 260 275	examen clinique
+T10	LIVB 277 281	elle
+T11	DISO 297 333	douleurs épigastriques constrictives
+T12	ANAT 306 333	épigastriques constrictives
+T14	ANAT 361 379	abdomino-pelvienne
+T15	ANAT 395 420	fosse rectale postérieure
+T16	Localization 409 420	postérieure
+T17	MEAS 440 456	de façon brutale
+T18	Concept_Idea 460 466	volume
+T19	MEAS 476 480	5 cm
+T20	Concept_Idea 484 493	grand axe
+T21	ANAT 523 555	membres inférieurs utéro-utérins
+T22	ANAT 584 604	parties intestinales
+T23	ANAT 618 640	champs parathyroïdiens
+T24	PROC 650 671	pronostic chirurgical
+T25	MEAS 683 691	complexe
+T26	DEVI 728 751	technique thérapeutique
+T27	DISO 808 823	symptomatologie
+T28	DISO 857 895	syndrome d'épanchement intrapéritonéal
+T29	ANAT 880 895	intrapéritonéal
+T30	PROC 901 928	traitement médical adjuvant
+T31	DISO 989 1008	fistule intestinale
+T32	ANAT 997 1008	intestinale
+T33	DISO 1158 1186	prise médicamenteuse toxique
+T34	DISO 1312 1337	traumatisme digestif aigu

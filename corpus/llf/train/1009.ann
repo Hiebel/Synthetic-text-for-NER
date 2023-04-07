@@ -1,0 +1,17 @@
+T1	LIVB 3 10	patient
+T2	DISO 35 44	agitation
+T3	DISO 51 74	trouble
+T4	LIVB 83 85	l'
+T5	PROC 95 104	consulter
+T6	Hospital 108 119	psychiatrie
+T7	LIVB 125 128	son
+T8	Hospital 129 135	milieu
+T9	PROC 139 161	anamnèse
+T10	DISO 187 204	syndrome
+T11	DISO 225 239	hallucinations
+T12	PHEN 257 281	rapports
+T13	DISO 317 329	désir
+T14	DISO 336 347	agressivité
+T15	MEAS 348 355	extrême
+T16	LIVB 365 374	personnes
+T17	LIVB 421 429	lui-même

@@ -1,0 +1,36 @@
+T1	PROC 4 47	radiographies de l'abdomen sans préparation
+T2	ANAT 23 30	abdomen
+T3	DISO 62 82	nodule du rein droit
+T4	ANAT 72 82	rein droit
+T5	Localization 77 82	droit
+T6	PROC 87 112	scanner thoraco-abdominal
+T7	ANAT 95 112	thoraco-abdominal
+T8	DISO 129 166	masse tissulaire hétérogène polylobée
+T9	ANAT 182 205	paroi thoracique gauche
+T10	Localization 199 205	gauche
+T11	MEAS 218 223	13 cm
+T12	Concept_Idea 227 236	grand axe
+T13	DISO 258 316	remaniement inflammatoire des membranes alvéolo-trachéales
+T14	ANAT 288 316	membranes alvéolo-trachéales
+T15	DISO 330 352	distension péritonéale
+T16	ANAT 341 352	péritonéale
+T17	ANAT 372 404	troncs supra-aorto-oesophagiques
+T18	PROC 409 448	tomodensitométrie par cohérence optique
+T19	PROC 450 470	TDM) cervico-dorsale
+T20	ANAT 455 470	cervico-dorsale
+T21	TEMP 489 502	préopératoire
+T22	DISO 521 540	lésions secondaires
+T23	DISO 554 577	hirsutisme hémorragique
+T24	DISO 593 610	récidive tumorale
+T25	PROC 623 648	étude immunohistochimique
+T26	DISO 667 689	anomalie morphologique
+T27	DISO 699 704	signe
+T28	PROC 716 743	prélèvement bactériologique
+T29	LIVB 799 805	germes
+T30	DEVI 825 831	broche
+T31	DISO 917 943	symptomatologie infectieux
+T32	DISO 949 981	méningo-encéphalite tuberculeuse
+T33	DISO 992 1013	maladies auto-immunes
+T34	MEAS 1084 1093	favorable
+T35	PROC 1099 1129	antibiothérapie antibacillaire
+T36	CHEM 1186 1219	céphalosporine acide clavulanique

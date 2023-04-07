@@ -1,0 +1,56 @@
+T1	LIVB 15 25	nourrisson
+T2	TEMP 33 39	8 mois
+T3	Concept_Idea 62 65	âge
+T4	TEMP 69 76	16 mois
+T5	DISO 83 110	déchirure du tronc cérébral
+T6	ANAT 96 110	tronc cérébral
+T7	PROC 115 139	bilan neuropsychiatrique
+T8	DISO 151 160	anomalies
+T9	PHEN 174 194	fonction réticulante
+T10	ANAT 183 194	réticulante
+T11	PROC 199 221	contrôle locorégionale
+T12	MEAS 229 233	deux
+T13	ANAT 234 252	champs pulmonaires
+T14	PROC 256 275	électrocardiogramme
+T15	PROC 277 280	ECG
+T16	DISO 295 311	hyperleucocytose
+T17	MEAS 314 332	9300 éléments/mm 3
+T18	Concept_Idea 341 359	temps de céphaline
+T19	TEMP 369 379	36 minutes
+T20	Hospital 383 398	bloc opératoire
+T21	PROC 403 430	numération formule sanguine
+T22	DISO 444 463	hypocholestérolémie
+T23	MEAS 466 487	1,22 gramme par litre
+T24	PROC 502 519	glycérides libres
+T25	MEAS 522 547	35 milligrammes par litre
+T26	PROC 551 561	hémogramme
+T27	DISO 582 612	anémie hypochrome microcytaire
+T28	MEAS 615 625	7,5 mmol/l
+T29	DISO 641 653	thrombopénie
+T30	MEAS 656 665	2,3 pg/dl
+T31	PROC 671 696	tomodensitométrie en flux
+T32	PROC 698 705	TEP-DSS
+T33	DISO 731 778	masse tissulaire intracérébrale hyperpyramidale
+T34	MEAS 788 792	6 cm
+T35	Concept_Idea 796 805	grand axe
+T36	MEAS 814 819	12 cm
+T37	Concept_Idea 823 833	 petit axe
+T38	Localization 841 858	partie supérieure
+T39	ANAT 880 896	systèmes nerveux
+T40	ANAT 917 946	nerf laryngé supérieur gauche
+T41	Localization 940 946	gauche
+T42	ANAT 978 995	sinus sphénoïdale
+T43	ANAT 1022 1065	branches jugulo-clavière inférieure gauches
+T44	Localization 1058 1065	gauches
+T45	ANAT 1095 1111	plan sous cutané
+T46	Concept_Idea 1124 1144	aspect morphologique
+T47	DISO 1161 1191	myxomatose congénitale myxoïde
+T48	PROC 1232 1252	reprise chirurgicale
+T49	PROC 1295 1312	mise en condition
+T50	MEAS 1349 1356	simples
+T51	PROC 1364 1392	geste thérapeutique adjuvant
+T52	PROC 1403 1431	complémentation anesthésique
+T53	PROC 1455 1489	prélèvement bactériologique direct
+T54	LIVB 1512 1519	malades
+T55	DISO 1554 1593	pneumopathie interstitielle infectieuse
+T56	DISO 1599 1623	Streptococcus granulosis

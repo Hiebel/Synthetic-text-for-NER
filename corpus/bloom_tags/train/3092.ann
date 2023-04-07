@@ -1,0 +1,19 @@
+T1	LIVB 19 26	patient
+T2	PHEN 52 72	grossesse monofœtale
+T3	DISO 115 133	utérus cicatriciel
+T4	DISO 146 168	anomalies congénitales
+T6	PROC 195 213	examen obstétrical
+T7	MEAS 343 354	progressive
+T8	DEVI 367 386	sonde nasogastrique
+T9	ANAT 373 386	nasogastrique
+T10	PROC 571 596	techniques intraveineuses
+T11	PROC 602 623	césarienne programmée
+T12	TEMP 640 645	24 SA
+T13	Hospital 669 693	maternités périphériques
+T14	MEAS 757 769	2500 grammes
+T15	DOSE 853 857	deux
+T16	MODE 858 863	bolus
+T17	CHEM 867 879	progestérone
+T18	DOSE 882 891	20 mg /kg
+T19	DOSE 902 910	0,6mg/kg
+T20	CHEM 914 929	méthoxifentanil

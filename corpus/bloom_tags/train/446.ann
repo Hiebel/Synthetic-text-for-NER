@@ -1,0 +1,31 @@
+T1	LIVB 29 34	femme
+T2	PROC 60 65	reçue
+T3	Hospital 70 78	urgences
+T4	PROC 84 109	traitement antibacillaire
+T5	CHEM 111 122	Ceftriaxone
+T6	CHEM 125 137	Triméthopril
+T7	DISO 169 191	épigastralgies fébrile
+T8	MEAS 201 214	plus intenses
+T9	MEAS 226 241	progressivement
+T10	Concept_Idea 245 251	taille
+T11	DISO 272 288	signes digestifs
+T12	DISO 303 312	dyspepsie
+T13	MEAS 324 328	3 kg
+T14	Concept_Idea 346 363	caractère initial
+T15	MEAS 383 391	brunâtre
+T16	DISO 424 439	symptomatologie
+T17	MEAS 473 483	similaires
+T18	LIVB 500 509	patientes
+T19	DISO 710 739	syndromes paucisymptomatiques
+T20	PROC 763 791	pronostic radiothérapeutique
+T21	DISO 851 871	facteurs rhumatoïdes
+T22	PROC 894 920	diagnostic immunocompétent
+T23	CHEM 1024 1042	méthylprednisolone
+T24	PROC 1555 1578	radiothérapie adjuvante
+T25	DISO 1724 1752	hyperthyroïdie néphrotensive
+T26	DISO 1890 1924	néphropathie hypocholestérolénoïde
+T27	ANAT 1975 2005	liquidien péritonéal liquidien
+T28	ANAT 2016 2037	placenta-maternitaire
+T29	ANAT 2100 2130	péritonéal sus-diaphragmatique
+T30	DISO 2367 2410	maladie thromboembolique du mésentère cæcal
+T31	ANAT 2395 2410	mésentère cæcal

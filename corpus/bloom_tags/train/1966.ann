@@ -1,0 +1,28 @@
+T1	LIVB 20 28	patiente
+T2	DISO 50 75	antécédents pathologiques
+T3	MEAS 76 84	notables
+T4	PROC 86 92	admise
+T5	Hospital 96 114	service d'urologie
+T6	DISO 124 153	douleurs épigastriques aiguës
+T7	ANAT 133 146	épigastriques
+T8	TEMP 163 177	depuis un mois
+T9	PROC 181 196	examen clinique
+T10	PROC 201 210	admission
+T11	LIVB 224 232	patiente
+T12	MEAS 236 239	bon
+T13	Concept_Idea 240 252	état général
+T14	PHEN 258 279	contractions utérines
+T15	ANAT 271 279	utérines
+T16	MEAS 288 296	intenses
+T17	DEVI 303 316	sonde rectale
+T18	ANAT 309 316	rectale
+T19	MEAS 323 331	en place
+T20	PROC 336 353	biologie initiale
+T21	DISO 370 386	hyperleucocytose
+T22	MEAS 389 408	17900 éléments/mm 3
+T23	PROC 443 462	protéine-C réactive
+T24	PROC 463 466	CRP
+T25	MEAS 485 493	120 mg/l
+T26	PROC 507 529	bilan phospho-calcique
+T27	CHEM 547 560	parathyroxine
+T28	MEAS 573 591	10 fois la normale

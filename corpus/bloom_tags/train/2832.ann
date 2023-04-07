@@ -1,0 +1,33 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 39 64	antécédents pathologiques
+T3	MEAS 65 77	particuliers
+T4	DISO 97 108	tuméfaction
+T5	TEMP 118 134	depuis deux mois
+T6	MEAS 146 161	progressivement
+T7	Concept_Idea 165 171	volume
+T8	PROC 175 189	interrogatoire
+T9	Hospital 195 213	salle des urgences
+T10	DISO 238 247	symptômes
+T11	PROC 264 288	examens ophtalmologiques
+T12	MEAS 302 309	normaux
+T13	PROC 314 333	bilan préopératoire
+T14	PROC 352 376	scanner abdomino-pelvien
+T15	ANAT 360 376	abdomino-pelvien
+T16	PROC 390 411	échographie pelvienne
+T17	ANAT 402 411	pelvienne
+T18	PROC 437 452	hospitalisation
+T19	Hospital 456 467	réanimation
+T20	PROC 473 497	anesthésie intraveineuse
+T21	DOSE 499 507	20 mg/kg
+T22	CHEM 510 523	acénocoumarol
+T23	DISO 549 580	masse tissulaire du flanc droit
+T24	ANAT 569 580	flanc droit
+T25	Localization 575 580	droit
+T26	MEAS 590 593	2cm
+T27	Concept_Idea 597 606	grand axe
+T28	ANAT 622 641	sinus recto-vaginal
+T29	ANAT 661 673	épigastrique
+T30	PHEN 675 696	contractions utérines
+T31	ANAT 688 696	utérines
+T32	MEAS 705 713	intenses
+T33	DISO 729 741	métrorragies

@@ -1,0 +1,33 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	Concept_Idea 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 82 87	admis
+T6	Hospital 92 113	urgences pédiatriques
+T7	DISO 146 173	symptomatologie hypotensive
+T8	TEMP 183 197	depuis 3 jours
+T9	LIVB 204 206	sa
+T10	PROC 207 227	reprise chirurgicale
+T11	DISO 243 264	détresse respiratoire
+T12	MEAS 279 306	progressivement progressive
+T13	DISO 327 355	douleurs abdomino-pelviennes
+T14	ANAT 336 355	abdomino-pelviennes
+T15	MEAS 369 377	brulante
+T16	MEAS 387 410	profondément marquantes
+T17	DISO 424 465	polyarthrite prurigineuse laryngolaryngée
+T18	LIVB 496 506	nouveau-né
+T19	Concept_Idea 542 559	état psychomoteur
+T20	LIVB 569 573	elle
+T21	DISO 644 657	consanguinité
+T22	DISO 669 684	symptomatologie
+T23	MEAS 700 715	progressivement
+T24	Concept_Idea 719 725	volume
+T25	DISO 751 781	traumatisme nasofibrosophagien
+T26	ANAT 763 781	nasofibrosophagien
+T27	PROC 807 830	radiothérapie adjuvante
+T28	MEAS 841 846	70 Gy
+T29	PROC 908 924	examen somatique
+T30	DISO 961 996	atteinte sensitivo-cutanéo-muqueuse
+T31	ANAT 970 996	sensitivo-cutanéo-muqueuse
+T32	DISO 1044 1069	pneumo-fistule ischémique
+T33	DISO 1087 1142	hyperparathyroïdie congénitale hypertrophie péritonéale

@@ -1,0 +1,33 @@
+T1	LIVB 16 24	patiente
+T2	PROC 65 80	examen clinique
+T3	DISO 92 112	ictère choléstatique
+T4	DISO 123 144	distension abdominale
+T5	ANAT 134 144	abdominale
+T6	Concept_Idea 154 176	fréquence respiratoire
+T7	MEAS 179 193	120 battements
+T8	TEMP 194 205	par minutes
+T9	DISO 213 235	signes neuropsychiques
+T10	DISO 245 252	dyspnée
+T11	DISO 259 287	syndrome délirant polymorphe
+T12	PROC 291 310	électrocardiogramme
+T13	PROC 312 315	ECG
+T14	DISO 326 340	particularités
+T15	PHEN 345 360	fonction rénale
+T16	ANAT 354 360	rénale
+T17	MEAS 367 379	correctement
+T18	PROC 395 417	traitement substitutif
+T19	CHEM 431 442	bupivacaïne
+T20	CHEM 446 456	corticoïde
+T21	PROC 474 516	explorations fonctionnelles peropératoires
+T22	PROC 571 594	thérapeutique adjuvante
+T23	PROC 600 638	laparotomie exploratrice scanno-guidée
+T24	PROC 660 684	extubation endotrachéale
+T25	ANAT 733 744	rein médial
+T26	Localization 738 744	médial
+T27	PROC 785 834	transplantation intraveineuse segmentaire élargie
+T28	DISO 858 872	lésion maligne
+T29	DISO 876 899	infiltrat inflammatoire
+T30	MEAS 940 954	satisfaisantes
+T31	LIVB 976 984	patiente
+T32	PROC 1015 1030	hospitalisation
+T33	Concept_Idea 1110 1134	antécédents chirurgicaux

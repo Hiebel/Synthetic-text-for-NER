@@ -1,0 +1,21 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 31 39	patiente
+T3	MEAS 43 46	bon
+T4	Concept_Idea 47 59	état général
+T5	DISO 61 72	polypneique
+T6	MEAS 75 88	28 cycles/min
+T7	PROC 92 122	auscultation pleuro-pulmonaire
+T8	ANAT 105 122	pleuro-pulmonaire
+T9	MEAS 129 136	normale
+T10	PROC 141 173	scanner thoraco-abdomino-pelvien
+T11	ANAT 149 173	thoraco-abdomino-pelvien
+T12	DISO 193 245	épaississement de la paroi latéro-utérine bilatérale
+T13	ANAT 214 245	paroi latéro-utérine bilatérale
+T14	Localization 235 245	bilatérale
+T15	ANAT 259 282	pelvien inférieur droit
+T16	Localization 277 282	droit
+T17	PROC 289 308	bilan immunologique
+T18	PROC 310 314	ANCA
+T19	MEAS 322 328	normal
+T20	PROC 332 360	échographie cervico-vagienne
+T21	ANAT 344 360	cervico-vagienne

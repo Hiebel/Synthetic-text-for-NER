@@ -1,0 +1,30 @@
+T1	LIVB 20 28	patiente
+T2	DISO 45 70	antécédents pathologiques
+T3	MEAS 71 79	notables
+T4	PROC 81 87	admise
+T5	Hospital 91 98	urgence
+T6	Hospital 103 128	urgences ophtalmologiques
+T7	Concept_Idea 133 136	âge
+T8	TEMP 140 146	4 mois
+T9	DISO 156 192	paralysie du membre supérieure droit
+T10	ANAT 169 192	membre supérieure droit
+T11	Localization 187 192	droit
+T12	TEMP 202 220	depuis trois jours
+T13	PROC 224 238	interrogatoire
+T14	DISO 264 285	lésions prurigineuses
+T15	ANAT 293 313	pied supérieur droit
+T16	Localization 308 313	droit
+T17	MEAS 348 361	plus marquées
+T18	PROC 387 396	injection
+T19	CHEM 400 411	propranolol
+T20	PROC 415 444	examen clinique préopératoire
+T21	DISO 471 487	signes cliniques
+T22	DISO 490 504	œdème purulent
+T23	DISO 526 548	myélome non hodgkinien
+T24	DISO 560 584	granulomes érythémateurs
+T25	ANAT 601 658	parties molles métacarpophalangiennes inféro-articulaires
+T26	DISO 678 723	syndrome d'épanchement intrarétinien infiltré
+T27	ANAT 701 723	intrarétinien infiltré
+T28	PROC 761 788	examen somatomégaloplégique
+T29	DISO 814 823	anomalies
+T30	DISO 852 877	déficit sensitivomotrices

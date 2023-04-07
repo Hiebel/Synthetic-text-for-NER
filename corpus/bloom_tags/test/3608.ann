@@ -1,0 +1,21 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 57	antécédents
+T3	MEAS 58 70	particuliers
+T4	PROC 72 78	suivie
+T5	DISO 88 120	insuffisance rénale hypertensive
+T6	ANAT 101 107	rénale
+T7	PROC 143 172	corticothérapie intraveineuse
+T8	DOSE 185 192	1 mg/kg
+T9	TEMP 192 197	/jour
+T10	PROC 201 230	examen clinique préopératoire
+T11	PHEN 248 263	fonction rénale
+T12	ANAT 257 263	rénale
+T13	MEAS 264 273	conservée
+T14	CHEM 282 294	bicarbonates
+T15	ANAT 303 328	liquide céphalo-rachidien
+T16	MEAS 331 338	4mmol/l
+T17	PROC 344 353	admission
+T18	Hospital 357 372	bloc opératoire
+T19	LIVB 377 385	patiente
+T20	Concept_Idea 406 424	plan hémodynamique
+T21	DEVI 428 453	respiratoire artificielle

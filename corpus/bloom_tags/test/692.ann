@@ -1,0 +1,31 @@
+T1	LIVB 9 15	enfant
+T2	TEMP 19 25	10 ans
+T3	Concept_Idea 27 33	pesant
+T4	MEAS 34 39	20 kg
+T5	Concept_Idea 49 55	taille
+T6	MEAS 59 64	76 cm
+T7	DISO 96 115	traumatisme crânien
+T8	DISO 121 130	épilepsie
+T9	LIVB 142 150	patiente
+T10	DISO 170 230	douleurs chroniques du sinus caverneux cervico-faciale droit
+T11	ANAT 193 230	sinus caverneux cervico-faciale droit
+T12	Localization 225 230	droit
+T13	TEMP 240 253	depuis 1 mois
+T14	PHEN 295 310	acuité visuelle
+T15	DISO 323 341	symptômes associés
+T16	DISO 359 384	vomissements alimentaires
+T17	DISO 400 420	sueurs prurigineuses
+T18	DISO 434 442	polypnée
+T19	DISO 463 493	troubles hydro-électrolytiques
+T20	PROC 533 548	hospitalisation
+T21	Hospital 553 568	soins intensifs
+T22	DEVI 574 603	cathéter veineux périphérique
+T23	ANAT 583 603	veineux périphérique
+T24	PROC 619 625	extubé
+T25	PROC 659 687	pression artérielle invasive
+T26	ANAT 668 687	artérielle invasive
+T27	MEAS 698 705	120mmhg
+T28	PROC 708 730	examen ophtalmologique
+T29	DISO 747 774	hypermétanéphrine-ropinémie
+T30	DISO 813 873	ictère érythémato-bourgeonnant maculopustule séreux purulent
+T31	DISO 911 932	nodules hémorragiques

@@ -1,0 +1,82 @@
+T1	PHEN 50 59	grossesse
+T2	PROC 64 70	suivie
+T3	Hospital 88 99	psychiatrie
+T4	PROC 105 147	traitement psychothérapeutique substitutif
+T5	CHEM 155 172	méthylpénicilline
+T6	DOSE 174 176	1g
+T7	TEMP 176 178	/j
+T8	Hospital 206 214	urgences
+T9	PROC 223 232	pronostic
+T10	DISO 239 268	crise convulsive hypertensive
+T11	DISO 285 311	syndrome confusionnel aigu
+T12	Concept_Idea 356 368	état général
+T13	DISO 384 398	amaigrissement
+T14	MEAS 409 413	40kg
+T15	TEMP 417 427	2 ème mois
+T16	PROC 433 471	laparotomie exploratrice préopératoire
+T17	DISO 496 509	symptomatique
+T18	DISO 519 543	signe neuropsychiatrique
+T19	MEAS 577 584	simples
+T20	PROC 588 614	examen anatomopathologique
+T21	LIVB 648 656	patiente
+T22	DISO 667 725	lésions pseudo-tumorales intraparenchymateuses encapsulées
+T23	DISO 754 801	neurofibromes polymorphes érythémato-nodulaires
+T24	DISO 816 879	remaniements kystiques digitiformes achromiques hétérodimorphes
+T25	MEAS 904 907	3cm
+T26	MEAS 911 915	4 cm
+T27	Localization 925 943	portion antérieure
+T28	DISO 949 968	adhérences cutanées
+T29	ANAT 1006 1032	branches charnues distales
+T30	ANAT 1073 1109	muscle gastrocnémien inférieur droit
+T31	Localization 1104 1109	droit
+T32	ANAT 1166 1220	nerf médian thoracique fléchien sus pubis lombo-dorsal
+T33	PROC 1225 1246	contrôle radiologique
+T34	PROC 1261 1278	mise en condition
+T35	DISO 1300 1342	sténose plexiglasectasale lobulée oblongue
+T36	ANAT 1361 1434	substance cervicale controlatérale postéro-médiale inférieure postérieure
+T37	Localization 1423 1434	postérieure
+T38	ANAT 1472 1492	queue iliaque droite
+T39	Localization 1486 1492	droite
+T41	Localization 1559 1562	pré
+T43	DISO 1661 1680	troubles trophiques
+T44	DISO 1690 1711	maladies auto-immunes
+T45	Concept_Idea 1743 1763	aspect morphologique
+T46	DISO 1780 1812	pseudo-encéphalopathie épidurale
+T47	DISO 1852 1885	métastases sensitivo-moteuronales
+T48	DISO 1932 1969	rhinopharyngite ulcérée inflammatoire
+T49	MEAS 1977 1985	ACR5N0Mx
+T50	PROC 2034 2067	explorations cytobactériologiques
+T51	PROC 2537 2570	scanner cervico-thoraco-abdominal
+T52	ANAT 2545 2570	cervico-thoraco-abdominal
+T56	ANAT 2698 2726	parenchyme thoracique gauche
+T57	Localization 2720 2726	gauche
+T58	ANAT 2748 2771	membranes sous cutanées
+T59	ANAT 2811 2854	vaisseaux cérébraux supéro-fronto-aortiques
+T60	PHEN 2890 2901	contraction
+T61	LIVB 2907 2915	patiente
+T62	PROC 2936 2965	antibiothérapie préopératoire
+T63	CHEM 2967 2981	ciprofloxacine
+T64	CHEM 2984 3015	amoxicilline acide clavulanique
+T65	CHEM 3019 3037	acide clavulanique
+T66	PROC 3054 3077	radiothérapie adjuvante
+T67	Concept_Idea 3123 3136	plan clinique
+T68	PROC 3140 3152	radiologique
+T69	PROC 3158 3194	néphrectomie percutanée exploratrice
+T70	PROC 3221 3292	angioplastie translaterale rénale termino-expectorale rétro péritonéale
+T71	Localization 3255 3292	termino-expectorale rétro péritonéale
+T72	ANAT 3311 3347	carrefour thyroïdien supérieur droit
+T73	Localization 3342 3347	droit
+T74	ANAT 3369 3416	annexes ganglionnaires axillaires sus pubiennes
+T75	PROC 3469 3478	réséquées
+T76	DEVI 3501 3510	tablettes
+T77	MEAS 3546 3551	50 mm
+T78	MEAS 3555 3560	60 mm
+T79	PROC 3567 3592	étude anatomopathologique
+T80	DISO 3620 3688	nodule ostéomyélitique éosinophile tissulaire hétérotopique malformé
+T81	MEAS 3697 3701	6 cm
+T82	Concept_Idea 3705 3714	grand axe
+T83	ANAT 3734 3767	structures digestives supérieures
+T84	ANAT 3822 3861	trame tridactyle conjonctif articulaire
+T85	ANAT 3897 3958	noyau germinatif antérieur monomorphiquement intra médullaire
+T87	ANAT 3973 3995	cellules médiastinales
+T88	ANAT 4045 4077	lumière gastrocnémateuse distale

@@ -1,0 +1,29 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 79 84	admis
+T5	Hospital 89 97	urgences
+T6	DISO 115 148	douleur thoracique aigue aiguante
+T7	ANAT 123 133	thoracique
+T8	DISO 159 169	toux sèche
+T9	DISO 185 191	fièvre
+T10	DISO 212 218	sueurs
+T11	MEAS 219 227	profuses
+T12	PROC 231 245	examen initial
+T13	LIVB 262 269	patient
+T14	Concept_Idea 294 312	plan hémodynamique
+T15	DISO 328 354	atteinte pleuro-pulmonaire
+T16	ANAT 337 354	pleuro-pulmonaire
+T17	DISO 371 386	symptomatologie
+T18	TEMP 399 405	2 mois
+T19	PROC 414 429	hospitalisation
+T20	DISO 463 502	douleur thoracique basithoracique droit
+T21	ANAT 471 502	thoracique basithoracique droit
+T22	Localization 497 502	droit
+T23	DISO 512 525	inflammatoire
+T24	Concept_Idea 570 582	état général
+T25	LIVB 584 587	Ses
+T26	PHEN 588 606	suites opératoires
+T27	MEAS 615 622	simples
+T28	DISO 631 639	récidive
+T29	DISO 646 660	pneumo-mégalie

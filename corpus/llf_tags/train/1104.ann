@@ -1,0 +1,35 @@
+T1	PROC 74 96	consultation prénatale
+T2	TEMP 109 113	2009
+T3	TEMP 117 121	2012
+T4	Concept_Idea 143 155	état général
+T5	TEMP 165 176	depuis 5ans
+T6	DISO 192 204	dysménorrhée
+T7	Concept_Idea 413 438	stratégies thérapeutiques
+T8	PROC 467 472	suivi
+T9	Concept_Idea 618 631	cas cliniques
+T10	DISO 660 684	complications néonatales
+T11	Concept_Idea 709 737	localisations hémodynamiques
+T12	Concept_Idea 848 869	réflexes étiologiques
+T13	Concept_Idea 923 953	processus psychothérapeutiques
+T14	DISO 1080 1100	diabète gestationnel
+T15	LIVB 1112 1120	patiente
+T16	MEAS 1122 1126	Deux
+T17	Hospital 1159 1200	Center for Disease Control and Prevention
+T18	PHEN 1295 1315	grossesse gémellaire
+T19	DISO 1359 1379	léiomyome polymorphe
+T20	ANAT 1384 1394	ovocytaire
+T21	DEVI 1463 1482	solution injectable
+T22	CHEM 1502 1515	métronidazole
+T23	DISO 1633 1648	trouble fébrile
+T24	DOSE 1923 1932	2centimes
+T25	LIVB 2253 2291	chirurgiens orthopédiques pédiatriques
+T26	LIVB 2493 2542	professionnels de santé somatiques fœtaux adultes
+T27	LIVB 2551 2609	médecins anesthésistes viscéraux foeto-pubéroserviculaires
+T28	PROC 2709 2736	étude prospective familiale
+T29	MEAS 2797 2800	40%
+T30	MEAS 2804 2807	50%
+T31	LIVB 2818 2834	femmes enceintes
+T32	TEMP 2844 2849	39 SA
+T33	MEAS 2876 2884	16×10 cm
+T34	MEAS 2888 2895	18×7 cm
+T35	MEAS 2948 2955	17×9 cm

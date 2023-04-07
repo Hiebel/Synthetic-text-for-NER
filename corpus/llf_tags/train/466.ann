@@ -1,0 +1,15 @@
+T1	DISO 16 31	symptomatologie
+T2	DISO 56 72	dyspnée d’effort
+T3	Concept_Idea 81 93	état général
+T4	MEAS 94 100	strict
+T5	PROC 104 119	examen clinique
+T6	DISO 131 144	particularité
+T7	DISO 168 191	déficit sensitivomoteur
+T8	ANAT 196 203	cuisses
+T9	ANAT 210 236	tronc crico-trachéo-guidon
+T10	PROC 252 267	examen physique
+T11	DISO 279 288	anomalies
+T12	LIVB 293 301	patiente
+T13	TEMP 316 318	J4
+T14	PROC 324 334	opératoire
+T15	Localization 348 372	antéro-postérieur gauche

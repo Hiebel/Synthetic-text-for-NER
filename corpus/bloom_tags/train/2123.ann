@@ -1,0 +1,40 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 37	admise
+T3	Hospital 42 50	urgences
+T4	DISO 69 83	amaigrissement
+T5	MEAS 94 99	14 kg
+T6	PHEN 119 134	acuité visuelle
+T7	DISO 143 176	syndrome d'épanchement péritonéal
+T8	ANAT 166 176	péritonéal
+T9	PROC 181 213	scanner cervico-abdomino-pélvien
+T10	ANAT 189 213	cervico-abdomino-pélvien
+T11	DISO 244 334	tumeur du parenchyme érythémateux cutané latéro-ombiliculaire des cordons postéro-latéraux
+T13	ANAT 310 334	cordons postéro-latéraux
+T14	MEAS 343 347	2 cm
+T15	Concept_Idea 351 360	grand axe
+T16	ANAT 373 399	orifice herniaire biliaire
+T17	DISO 405 432	épanchement intrapéritonéal
+T18	ANAT 417 432	intrapéritonéal
+T19	DISO 436 459	anomalies neurologiques
+T20	DISO 487 518	déficit moteur sensitivomotrice
+T21	DISO 524 549	hyperhémie sphinctérienne
+T22	ANAT 535 549	sphinctérienne
+T23	PROC 553 587	imagerie par résonnance magnétique
+T24	PROC 589 592	IRM
+T25	PROC 609 650	anesthésie locorégionale pré-anesthésique
+T26	DISO 664 684	hypersignal intenseu
+T27	ANAT 701 746	petite courbure iléovésicale sus-hipophysaire
+T28	MEAS 758 773	progressivement
+T29	Concept_Idea 777 784	hauteur
+T30	MEAS 796 801	13 mm
+T31	MEAS 804 808	17mm
+T32	DISO 817 835	hyposignal altérée
+T33	DISO 854 889	liquide céphalorachidiens infiltrat
+T34	DISO 976 999	réaction granulomateuse
+T35	DISO 1050 1065	kyste hydatique
+T36	ANAT 1076 1082	rénale
+T37	DISO 1102 1135	localisations secondaires maligne
+T38	DISO 1148 1170	neuroendocrine tumoral
+T39	DISO 1191 1226	complications thrombo-inflammatoire
+T40	DISO 1241 1275	thrombose veineuse veineuse rénale
+T41	ANAT 1251 1275	veineuse veineuse rénale

@@ -1,0 +1,72 @@
+T1	LIVB 20 28	patiente
+T2	DISO 50 75	antécédents pathologiques
+T3	MEAS 76 88	particuliers
+T4	PROC 103 115	hospitalisée
+T5	Hospital 124 131	service
+T6	DISO 141 171	douleurs pelviennes chroniques
+T7	ANAT 150 160	pelviennes
+T8	DISO 187 211	syndrome polymalformatif
+T9	PROC 215 230	examen clinique
+T10	LIVB 246 254	patiente
+T11	MEAS 258 265	mauvais
+T12	Concept_Idea 266 278	état général
+T13	PHEN 308 327	pression artérielle
+T14	ANAT 317 327	artérielle
+T15	MEAS 330 341	120/50 mmHg
+T16	ANAT 355 373	tronc crico-caecal
+T17	ANAT 375 389	canal artériel
+T18	PROC 395 412	tomodensitométrie
+T19	DISO 438 461	déficit sensitivomoteur
+T20	ANAT 470 512	aires ganglionnaires cervico-mandibulaires
+T21	DISO 525 644	adénocarcinome métastatique infiltrant rétropéritonéal tissulaire nodulaire aortiques intraduodénal echocrinoïde lobulé
+T22	Localization 649 671	fronto-pariéto-nerveux
+T23	MEAS 681 686	10 cm
+T24	Concept_Idea 690 699	grand axe
+T25	PROC 715 731	examen somatique
+T26	DISO 743 756	particularité
+T27	PROC 762 786	laparotomie exploratrice
+T28	PROC 822 863	néphrectomie totale élargie scanno-guidée
+T29	PROC 898 931	anticoagulation substitutionnelle
+T30	PROC 947 973	surveillance préopératoire
+T31	PROC 985 1003	séjour hospitalier
+T32	MEAS 1036 1043	simples
+T33	TEMP 1053 1065	février 2018
+T34	PROC 1069 1094	étude immunohistochimique
+T35	LIVB 1114 1122	patiente
+T36	DISO 1150 1192	lymphocyte érythémateux hétérodimédullaire
+T37	CHEM 1223 1240	médicaments oraux
+T38	PROC 1246 1257	myélogramme
+T39	DISO 1277 1290	splénomégalie
+T40	DISO 1297 1327	prolifération tumorale maligne
+T41	Concept_Idea 1340 1360	aspect morphologique
+T42	DISO 1377 1416	méningo-vascularite atrophique kystique
+T43	DEVI 1436 1448	produit oral
+T45	PROC 1770 1783	consultations
+T46	PROC 1788 1808	suivi postopératoire
+T47	PROC 1834 1861	radiothérapie néo adjuvante
+T48	PROC 1868 1895	examens anatomopathologiqes
+T50	Concept_Idea 2661 2682	résultat histologique
+T51	PROC 2704 2729	étude cytobactériologique
+T52	ANAT 2733 2743	rein droit
+T53	Localization 2738 2743	droit
+T54	MEAS 2767 2772	bonne
+T55	PHEN 2773 2782	grossesse
+T56	TEMP 2786 2797	14 semaines
+T57	LIVB 2804 2810	malade
+T58	Concept_Idea 2825 2843	plan hémodynamique
+T59	CHEM 2845 2857	amoxicilline
+T60	CHEM 2859 2877	acide clavulanique
+T61	CHEM 2879 2895	nitroprussianone
+T62	DISO 2922 2943	signes inflammatoires
+T63	DISO 2975 2990	symptomatologie
+T64	MEAS 3023 3030	simples
+T65	DISO 3036 3057	récidive pathologique
+T66	DISO 3061 3083	souffrance intestinale
+T67	ANAT 3072 3083	intestinale
+T68	PROC 3098 3127	chimiothérapie antibacillaire
+T69	PROC 3239 3252	thérapeutique
+T70	LIVB 3257 3281	confrères communautaires
+T71	DISO 3304 3325	déficit immunologique
+T72	PROC 3333 3355	traitement chirurgical
+T73	LIVB 3473 3481	patients
+T74	Concept_Idea 3523 3544	localités respectives

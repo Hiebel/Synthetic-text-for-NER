@@ -1,0 +1,101 @@
+T1	PROC 4 26	radiographie du thorax
+T2	ANAT 20 26	thorax
+T3	DISO 46 66	niveau hydro-aérique
+T4	MEAS 70 76	1,5 mm
+T5	Concept_Idea 86 95	fréquence
+T6	MEAS 106 119	70 battements
+T7	TEMP 120 131	par minutes
+T8	PROC 136 149	sérologie VIH
+T9	MEAS 156 164	négative
+T10	PROC 171 180	recherche
+T11	DISO 193 217	pneumopathie bactérienne
+T12	ANAT 226 230	sang
+T13	ANAT 238 244	urines
+T14	PROC 266 303	électrophorèse des protéines sériques
+T15	PROC 305 310	ELISA
+T16	DISO 331 339	anomalie
+T17	PROC 355 381	bilan précholestérol total
+T18	MEAS 392 398	normal
+T19	PROC 404 434	marqueurs immunohistochimiques
+T20	PROC 436 439	IHC
+T21	PROC 444 460	antigène HLA B22
+T22	PROC 461 500	immunoglobulines intracytoplasmocytaire
+T23	MEAS 511 529	fortement positifs
+T24	PROC 536 569	transaminases alcalines modifiées
+T25	DISO 585 659	carcinome myxoïde kystique carcinomateux mucineux acido carbo métastatique
+T26	DISO 665 709	métastase lymphomateuse tumorale infiltrante
+T27	MEAS 717 726	T4N0M/mm³
+T28	Concept_Idea 739 758	aspect histologique
+T29	DISO 795 852	léiomyomatose ectopique maligne achromique spondylodisque
+T30	LIVB 877 885	patients
+T31	PROC 908 933	prise en charge adjuvante
+T32	DISO 945 960	symptomatologie
+T33	LIVB 986 993	patient
+T34	MEAS 1039 1051	particuliers
+T35	CHEM 1057 1068	monoclonaux
+T36	CHEM 1124 1139	antituberculeux
+T37	LIVB 1144 1150	malade
+T38	PROC 1155 1160	opéré
+T39	PROC 1167 1201	laparotomie digestive exploratrice
+T40	PROC 1214 1234	consultation externe
+T41	PROC 1248 1281	toilette respiratoire segmentaire
+T42	ANAT 1257 1281	respiratoire segmentaire
+T43	DEVI 1297 1312	drain aspiratif
+T44	PROC 1330 1338	acheminé
+T45	Hospital 1348 1370	complexe psychiatrique
+T46	PROC 1391 1415	traitement neuroleptique
+T47	PROC 1437 1468	traitements chirurgicaux locaux
+T48	PROC 1480 1491	hémodialyse
+T49	PROC 1504 1519	oxygénothérapie
+T50	PROC 1525 1559	remplissage vasculorénal laryngéen
+T51	ANAT 1537 1559	vasculorénal laryngéen
+T52	PROC 1575 1616	séances de kinésithérapie psychanalytique
+T53	PHEN 1655 1666	rendez-vous
+T54	PROC 1671 1693	contrôle échographique
+T55	PROC 1721 1740	exercices physiques
+T56	DISO 1767 1937	hernie pariétale mésentérique hypophysaire trijésectasale hyperpériphérique hétéro médiastinale jugulaire gastroduodénale lobulée ischio glandiaco-mandibulaire bilatérale
+T57	Localization 1927 1937	bilatérale
+T58	MEAS 1947 1952	13 cm
+T59	MEAS 1955 1963	11×10 cm
+T60	MEAS 1966 1974	15×12 cm
+T62	Localization 2082 2098	antérieur gauche
+T63	ANAT 2117 2156	quadrant supérieur inferieur postérieur
+T64	Localization 2136 2156	inferieur postérieur
+T65	ANAT 2173 2250	segment supéro-annexielle antero-temporo-mandibulaire postéro-inférieur droit
+T66	Localization 2245 2250	droit
+T67	MEAS 2259 2269	30 / 15 cm
+T69	MEAS 2327 2341	17 centimètres
+T70	PROC 2347 2378	test anatomopathologique direct
+T71	PROC 2388 2437	classification de Jensen Ames Clin Pract ® MIBLIA
+T72	DISO 2458 2497	processus malin néoplasique réactionnel
+T73	Concept_Idea 2649 2657	contours
+T74	MEAS 2658 2672	anastomotiques
+T75	DISO 2713 2729	nécrose caséeuse
+T76	DISO 2736 2785	récidive du nerf musculo-squelettique endométrial
+T77	ANAT 2748 2785	nerf musculo-squelettique endométrial
+T78	PROC 2790 2818	prise en charge chirurgicale
+T79	TEMP 2854 2860	2 mois
+T80	PROC 2886 2904	antibioprophylaxie
+T81	Hospital 2909 2930	urgences pédiatriques
+T82	PROC 2946 2974	chimiothérapie néo adjuvante
+T83	CHEM 2980 3005	acide acétyle nalidixique
+T84	PROC 3019 3044	surveillance radiologique
+T85	MEAS 3065 3073	négative
+T86	DISO 3090 3109	syndrome infectieux
+T87	DISO 3120 3143	symptômes hémorragiques
+T88	LIVB 3153 3161	patients
+T89	PROC 3174 3196	geste palliatif cutané
+T90	DEVI 3242 3266	matériel d’ostéosynthèse
+T91	MEAS 3443 3450	simples
+T92	Concept_Idea 3459 3464	délai
+T93	PROC 3472 3491	médicamenteux local
+T94	PROC 3538 3543	suivi
+T95	PROC 3554 3593	transfusions intraveineuse parentérales
+T96	MEAS 3618 3641	correctement effectuées
+T97	PROC 3688 3705	corticoïde inhalé
+T98	PROC 3719 3739	consultation externe
+T99	MEAS 3749 3760	incomplètes
+T100	LIVB 3890 3913	professionnels de santé
+T101	PROC 4010 4030	préparations vitales
+T102	Concept_Idea 4042 4057	aspect clinique
+T103	DISO 4077 4117	troubles digestifs néonataux congénitaux

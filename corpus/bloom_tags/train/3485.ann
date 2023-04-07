@@ -1,0 +1,38 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 57	antécédents
+T3	MEAS 58 70	particuliers
+T4	PROC 72 78	admise
+T5	DISO 88 108	vomissements bilieux
+T6	DISO 124 145	douleur du pied droit
+T7	ANAT 135 145	pied droit
+T8	Localization 140 145	droit
+T9	TEMP 155 168	depuis 6 mois
+T10	PROC 172 187	examen clinique
+T11	DISO 203 228	déficit sensitivomotrices
+T12	ANAT 244 303	hypoesthésie métacarpophalangienne palmaire dorsale flasque
+T13	DISO 319 336	œdème prurigineux
+T14	DISO 342 443	adénopathies palmo-aponévrotendineuses hypoglycornoïdaliennes inféro-tendineuses scannodensimétriques
+T16	MEAS 468 472	5 cm
+T17	MEAS 476 479	3cm
+T18	PROC 484 514	bilan biologique préopératoire
+T19	PHEN 532 547	fonction rénale
+T20	ANAT 541 547	rénale
+T21	MEAS 548 555	normale
+T22	PROC 569 586	kaliémie corrigée
+T23	MEAS 589 598	2,7 meq/l
+T24	DOSE 600 612	150 meq/mm 3
+T25	PROC 619 649	échographie abdomino-pélvienne
+T26	ANAT 631 649	abdomino-pélvienne
+T27	PROC 664 683	anesthésie générale
+T28	PROC 690 713	injection intraveineuse
+T30	ANAT 726 749	ganglionnaire axillaire
+T32	MEAS 898 908	23 x 12 mm
+T33	ANAT 936 945	épiploons
+T34	ANAT 966 994	veine cave rénale inférieure
+T35	Localization 984 994	inférieure
+T36	DISO 1015 1055	lésions tumorales nécrotico-gliomateuses
+T37	DISO 1109 1123	carcinomateuse
+T38	DISO 1127 1138	myxomateuse
+T39	DISO 1159 1173	lésion maligne
+T40	ANAT 1183 1194	tissulaires
+T41	ANAT 1267 1283	cellules géantes

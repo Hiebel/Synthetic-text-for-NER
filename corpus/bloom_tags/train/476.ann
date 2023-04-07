@@ -1,0 +1,41 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	Concept_Idea 40 66	développement psychomoteur
+T4	MEAS 67 73	normal
+T5	MEAS 115 127	particuliers
+T6	DISO 144 161	atteinte visuelle
+T7	PROC 167 176	admission
+T8	Hospital 180 223	service d'accueil des urgences pédiatriques
+T9	DISO 233 260	douleur aiguë du pied droit
+T10	ANAT 250 260	pied droit
+T11	Localization 255 260	droit
+T12	TEMP 270 287	depuis deux jours
+T13	MEAS 299 314	progressivement
+T14	Concept_Idea 318 324	volume
+T15	DISO 343 349	fièvre
+T16	MEAS 361 365	40°c
+T17	DISO 367 373	sueurs
+T18	DEVI 378 391	respiratoires
+T19	MODE 423 428	bolus
+T20	DOSE 432 436	2 mg
+T21	CHEM 440 456	sulfaméthoxazole
+T22	DOSE 459 467	20 mg/kg
+T23	CHEM 471 484	buprémorphine
+T24	PROC 537 569	scanner thoraco-abdomino-pelvien
+T25	ANAT 545 569	thoraco-abdomino-pelvien
+T26	MEAS 587 594	positif
+T28	MEAS 812 816	46mm
+T29	Concept_Idea 820 828	diamètre
+T30	MEAS 928 935	normale
+T31	PROC 938 987	intradermoréaction à la tuberculine bêtaméthasone
+T32	CHEM 962 987	tuberculine bêtaméthasone
+T33	PROC 988 994	I-DTBS
+T34	PROC 997 1051	anticorps antinucléaires anti-nucléaires naphilétiques
+T35	PROC 1055 1066	anti PS 100
+T36	MEAS 1083 1091	négatifs
+T37	PROC 1102 1150	examen cytobactériologique des muqueuses nasales
+T38	ANAT 1133 1150	muqueuses nasales
+T39	CHEM 1213 1225	cefotriaxone
+T40	PROC 1248 1274	ponction nasofibroscopique
+T41	ANAT 1257 1274	nasofibroscopique
+T42	PROC 1281 1298	recherche culture

@@ -1,0 +1,67 @@
+T1	LIVB 15 20	jeune
+T2	LIVB 21 27	enfant
+T3	TEMP 35 41	10 ans
+T4	LIVB 111 115	mère
+T5	MEAS 156 168	particuliers
+T6	Hospital 198 231	services spécialisés pédiatriques
+T7	PROC 265 287	ponction scanno-guidée
+T8	ANAT 292 326	glandes salivaires intracervicales
+T9	Localization 328 334	gauche
+T10	PROC 339 358	examen histologique
+T11	DISO 380 428	masse kystique hypoéchogène tissulaire rénitente
+T12	MEAS 437 445	18/15 cm
+T13	ANAT 470 513	structures parenchymateuses pelvi périnéaux
+T14	MEAS 523 527	6 mm
+T15	MEAS 530 534	5 mm
+T16	DISO 593 607	tumeur maligne
+T17	PHEN 612 631	fonction abdominale
+T18	ANAT 621 631	abdominale
+T19	MEAS 638 646	correcte
+T20	ANAT 673 681	bronches
+T21	CHEM 728 746	culots globulaires
+T22	PROC 801 825	laparotomie exploratrice
+T23	MEAS 862 869	simples
+T24	PROC 929 960	antibiothérapies antibacillaire
+T25	DEVI 982 998	cathéter fémoral
+T26	PROC 1018 1052	circulation extracorporelle per os
+T27	Concept_Idea 1141 1165	renseignements cliniques
+T28	PROC 1177 1199	thyroïde préopératoire
+T29	LIVB 1244 1253	patientes
+T30	PROC 1295 1316	tomodensitométrie IgM
+T31	PROC 1330 1350	transfusion sanguine
+T32	Concept_Idea 1414 1436	paramètres biologiques
+T33	PROC 1441 1462	contrôle locorégional
+T34	LIVB 1972 1982	adolescent
+T35	TEMP 1990 1995	9 ans
+T36	DISO 2022 2078	accident vasculaire cérébral ischémique cérébrocardiaque
+T37	LIVB 2106 2108	sa
+T38	LIVB 2109 2122	belle-famille
+T39	PROC 2137 2178	consultation neuropsychiatrique prénatale
+T40	LIVB 2193 2196	son
+T41	LIVB 2197 2201	père
+T42	TEMP 2305 2311	11 ans
+T43	TEMP 2315 2321	13 ans
+T44	PROC 2655 2683	investigations diagnostiques
+T45	PROC 2690 2709	anticoagulothérapie
+T46	DOSE 2731 2737	100 mg
+T47	DISO 2885 2907	symptômes psychotiques
+T48	ANAT 2921 2934	scalp frontal
+T49	LIVB 2955 2961	malade
+T50	PROC 2987 2998	hospitalisé
+T51	LIVB 3007 3017	nourrisson
+T52	PROC 3037 3055	antibioprophylaxie
+T53	CHEM 3057 3088	Amoxicilline acide clavulanique
+T54	CHEM 3091 3114	Pénicilline citronnelle
+T55	LIVB 3153 3160	enfants
+T56	PROC 3182 3197	prise en charge
+T57	MEAS 3247 3255	premiers
+T58	DISO 3331 3360	neuroleptiques psychiatriques
+T59	CHEM 3488 3537	aminosides alpha méthyle adrénalino acetaxifolium
+T60	LIVB 3669 3686	parents maternels
+T61	PROC 3721 3743	traitement pédiatrique
+T62	PROC 3812 3833	thyroïdectomie totale
+T63	Concept_Idea 3874 3895	qualité hémodynamique
+T64	PROC 3982 3999	étude descriptive
+T65	PHEN 4161 4181	grossesse gémellaire
+T66	TEMP 4190 4197	10 mois
+T67	DEVI 4384 4426	matériel obstétrical néonatal intraveineux

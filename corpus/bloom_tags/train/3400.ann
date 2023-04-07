@@ -1,0 +1,29 @@
+T1	LIVB 29 37	patiente
+T2	DISO 58 81	antécédent pathologique
+T3	MEAS 82 93	particulier
+T4	DISO 110 140	intoxication aux organochlorés
+T5	CHEM 127 140	organochlorés
+T6	PHEN 178 187	grossesse
+T7	PROC 206 212	suivie
+T8	DOSE 217 221	200g
+T9	PROC 226 236	césarienne
+T10	Hospital 250 270	salle d'accouchement
+T11	DISO 289 325	syndrome d'épanchement intrarétinien
+T12	ANAT 312 325	intrarétinien
+T13	TEMP 335 346	depuis 1 an
+T14	MEAS 376 385	favorable
+T15	PROC 392 412	prise médicamenteuse
+T16	CHEM 423 438	médecaméthasone
+T17	CHEM 444 457	dexaméthasone
+T18	MEAS 473 488	progressivement
+T19	Concept_Idea 492 498	taille
+T20	MEAS 510 516	1250 g
+T21	TEMP 531 537	20 ans
+T22	LIVB 566 574	patiente
+T23	PROC 597 621	radiothérapie palliative
+T24	MEAS 737 741	10cm
+T25	PROC 788 822	angio-scanner transéro-thoraciques
+T26	DISO 849 863	lésion maligne
+T27	PROC 949 981	ponction pleurale basithoracique
+T28	ANAT 958 981	pleurale basithoracique
+T29	DISO 1037 1055	thrombophlébitémie

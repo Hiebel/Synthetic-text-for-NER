@@ -1,0 +1,38 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	4 ans
+T3	DISO 25 50	antécédents pathologiques
+T4	MEAS 51 59	notables
+T5	PROC 61 69	consulte
+T6	Hospital 74 95	urgences pédiatriques
+T8	ANAT 117 130	épigastriques
+T9	TEMP 140 154	depuis 3 jours
+T10	MEAS 169 180	progressive
+T11	CHEM 204 223	anti-inflammatoires
+T12	DISO 256 262	fièvre
+T13	DISO 282 302	vomissements bilieux
+T14	DISO 313 332	signes fonctionnels
+T15	DISO 381 396	symptomatologie
+T16	PHEN 401 424	sensibilité intestinale
+T17	ANAT 413 424	intestinale
+T18	PROC 450 477	numération formule sanguine
+T19	DISO 491 507	hyperleucocytose
+T20	MEAS 510 519	12300/mm3
+T21	PROC 526 561	transfert lymphocytaire biquotidien
+T22	MEAS 580 596	de façon brutale
+T23	MEAS 605 630	16800 éléments blancs/mm3
+T24	PROC 644 663	hémoglobine glyquée
+T25	MEAS 683 687	9,1%
+T26	PROC 690 721	échographie abdomino- pelvienne
+T27	ANAT 702 721	abdomino- pelvienne
+T28	DISO 754 787	mésentère hétérogène kystescentré
+T29	MEAS 797 802	23 cm
+T30	Concept_Idea 806 820	grand diamètre
+T31	MEAS 825 830	10 cm
+T32	Concept_Idea 834 847	petite taille
+T33	DISO 880 901	contractions utérines
+T34	ANAT 893 901	utérines
+T35	DISO 908 953	troubles hydro-électrolytiques péristaltiques
+T36	DISO 971 1014	masse hypertrophiée gélatineuse infilcrante
+T37	DISO 1043 1076	rupture tuberculeuse prurigineuse
+T38	DISO 1094 1116	dépression péritonéale
+T39	ANAT 1105 1116	péritonéale

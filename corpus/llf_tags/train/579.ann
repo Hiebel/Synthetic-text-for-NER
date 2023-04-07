@@ -1,0 +1,10 @@
+T1	PROC 3 27	laparotomie exploratrice
+T2	Hospital 46 53	urgence
+T3	MEAS 86 93	simples
+T4	LIVB 100 108	patiente
+T5	PROC 113 119	sortie
+T6	TEMP 122 124	J2
+T7	Concept_Idea 128 131	vie
+T8	PROC 138 164	anticoagulation préventive
+T9	CHEM 169 179	corticoïde
+T10	TEMP 197 203	3 mois

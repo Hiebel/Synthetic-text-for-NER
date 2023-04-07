@@ -1,0 +1,24 @@
+T1	LIVB 19 26	patient
+T2	MEAS 72 80	notables
+T3	PROC 82 87	admis
+T4	Hospital 92 100	urgences
+T6	ANAT 128 140	épigastrique
+T7	MEAS 155 166	progressive
+T8	DISO 181 195	ictère bilieux
+T9	TEMP 205 218	depuis 2 mois
+T10	PROC 222 237	examen clinique
+T11	DISO 258 295	distension duodéno-pancréatico-cæcale
+T12	ANAT 269 295	duodéno-pancréatico-cæcale
+T13	DISO 311 330	saignement purulent
+T14	DISO 344 365	détresse respiratoire
+T15	PHEN 353 365	respiratoire
+T16	DISO 402 410	brulures
+T17	MEAS 428 437	lentement
+T18	Concept_Idea 441 451	profondeur
+T19	MEAS 461 474	plus intenses
+T20	LIVB 522 528	enfant
+T21	MEAS 560 566	rapide
+T22	PROC 661 699	nasofibroscopie digestive endoscopique
+T23	DISO 721 745	tissularités résiduelles
+T24	Localization 819 824	droit
+T25	PROC 845 873	prise en charge chirurgicale

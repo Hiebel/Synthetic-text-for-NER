@@ -1,0 +1,42 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	11 ans
+T3	DISO 55 92	tuméfaction du sinus caverneux gauche
+T4	ANAT 70 92	sinus caverneux gauche
+T5	Localization 86 92	gauche
+T6	TEMP 102 114	depuis un an
+T7	DISO 127 147	signes neurologiques
+T8	PROC 160 175	examen clinique
+T9	DISO 196 220	masse tumorale purulente
+T10	MEAS 230 233	3cm
+T11	Concept_Idea 237 246	grand axe
+T12	ANAT 263 295	cavité abdominale sus ombilicale
+T13	Localization 281 284	sus
+T14	MEAS 307 322	progressivement
+T15	Concept_Idea 326 332	volume
+T16	DISO 351 374	hypotonie péristaltique
+T17	PROC 379 387	biologie
+T18	MEAS 394 401	normale
+T19	PROC 429 448	protéine C-réactive
+T20	PROC 450 465	globules blancs
+T21	PROC 480 505	étude anatomopathologique
+T22	DISO 528 560	maladie inflammatoire biologique
+T23	DISO 567 576	malignité
+T24	PROC 590 620	complément immunohistochimique
+T25	PROC 634 677	recherche d'immunoglobulines antiADN natifs
+T26	LIVB 703 710	dernier
+T27	DISO 730 746	anomalie maligne
+T28	DISO 782 810	hyperprotéinorachie primaire
+T29	DISO 862 883	pancréatite stade EII
+T30	DISO 892 935	syndrome d'épanchement péritonéal liquidien
+T31	ANAT 915 935	péritonéal liquidien
+T32	PHEN 941 970	contractions utéro-ovariennes
+T33	ANAT 954 970	utéro-ovariennes
+T34	PROC 987 1026	imagerie tomodensitométrique échoguidée
+T35	DISO 1068 1090	paragangliome kystique
+T36	DISO 1099 1196	tumeur épithélio-gigantocellulaire cholangiocarcinomateuse pancréato-surrénalienne carcinomateuse
+T37	PROC 1325 1348	scanner cervico-vaginal
+T38	ANAT 1333 1348	cervico-vaginal
+T39	PROC 1363 1385	induction anesthésique
+T40	DISO 1407 1428	lésions intravaginaux
+T41	ANAT 1443 1462	épiploon gélatineux
+T42	DISO 1484 1504	dilatation isthmique

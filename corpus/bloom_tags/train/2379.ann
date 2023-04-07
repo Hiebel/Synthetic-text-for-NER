@@ -1,0 +1,32 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	12 ans
+T3	PHEN 21 23	né
+T4	DISO 82 95	consanguinité
+T5	MEAS 127 139	particuliers
+T6	PROC 145 154	admission
+T7	Hospital 159 180	urgences pédiatriques
+T8	Hospital 184 233	Centre Hospitalier Universitaire Hassan II de Fès
+T9	DISO 252 266	amaigrissement
+T10	MEAS 277 281	2 kg
+T11	DISO 330 343	symptomatique
+T12	MEAS 358 364	rapide
+T13	TEMP 374 387	depuis 1 mois
+T14	DISO 438 459	détresse respiratoire
+T15	PHEN 447 459	respiratoire
+T16	DISO 465 498	lésions purpuriques prurigineuses
+T17	MEAS 523 531	brunâtre
+T18	DEVI 559 577	cuir chevelu plâté
+T19	MODE 581 589	inhalées
+T20	DISO 617 652	dermite érythémato-violacée maligne
+T21	DISO 666 702	pneumo-interstitielle granulomateuse
+T22	PROC 872 906	ponction liquide céphalorachidiens
+T23	ANAT 881 906	liquide céphalorachidiens
+T24	PROC 935 964	échographie cardio-vasculaire
+T25	ANAT 947 964	cardio-vasculaire
+T26	DISO 983 992	anomalies
+T27	ANAT 1020 1030	pulmonaire
+T28	PROC 1254 1287	imagerie par résonance magnétique
+T29	PROC 1289 1304	IRM) cérébrales
+T30	ANAT 1294 1304	cérébrales
+T31	DISO 1329 1361	hyper signal T2 hyper métabolisé
+T32	ANAT 1430 1469	intracrânien basithalamo-parenchymateux

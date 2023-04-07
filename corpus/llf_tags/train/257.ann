@@ -1,0 +1,31 @@
+T1	DISO 16 24	récidive
+T2	DISO 27 54	épanchement intrapéritonéal
+T3	ANAT 39 54	intrapéritonéal
+T4	PROC 60 67	biopsie
+T5	PROC 84 109	étude anatomopathologique
+T6	DISO 120 155	processus tissulaire du rein gauche
+T7	ANAT 144 155	rein gauche
+T8	Localization 149 155	gauche
+T9	MEAS 165 169	6 cm
+T10	Concept_Idea 173 182	grand axe
+T11	DISO 197 225	tumeur érythémateuse nécrosé
+T12	PHEN 254 277	fonction rénale interne
+T13	ANAT 263 277	rénale interne
+T14	DISO 290 296	signes
+T15	PROC 310 340	complément immunohistochimique
+T16	PROC 342 345	INH
+T17	PROC 351 367	scanner cérébral
+T18	ANAT 359 367	cérébral
+T19	PROC 382 401	examens biologiques
+T20	DISO 436 458	syndrome inflammatoire
+T21	CHEM 474 504	immunoglobulines intraveineuse
+T22	PROC 564 585	anticorps monoclonaux
+T23	MEAS 586 594	positifs
+T24	MEAS 598 606	négatifs
+T25	PROC 612 637	néphrectomie exploratrice
+T26	DISO 677 697	symptôme lithiasique
+T27	DISO 713 739	métastase tumorale maligne
+T28	MEAS 798 805	simples
+T29	PROC 811 853	chimiothérapie substitutionnelle adjuvante
+T30	PROC 867 898	antibioprophylaxie probabiliste
+T31	LIVB 957 966	patientes

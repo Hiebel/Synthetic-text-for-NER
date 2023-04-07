@@ -1,0 +1,13 @@
+T1	TEMP 4 14	mois
+T2	LIVB 19 26	patient
+T3	DISO 42 60	douleur
+T4	ANAT 50 60	abdominale
+T5	DISO 82 92	oppression
+T6	DISO 99 118	décharge
+T7	MEAS 133 137	deux
+T8	ANAT 138 156	membres
+T9	Localization 146 156	supérieurs
+T10	DISO 162 185	impotence
+T11	ANAT 199 222	membre
+T12	Localization 216 222	gauche
+T13	PROC 239 254	prise

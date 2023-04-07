@@ -1,0 +1,72 @@
+T1	LIVB 19 26	patient
+T2	DISO 47 72	antécédents pathologiques
+T3	MEAS 73 81	notables
+T4	PROC 83 89	admise
+T5	Hospital 94 116	urgences chirurgicales
+T6	DISO 126 160	douleurs thoraciques constrictives
+T7	ANAT 135 146	thoraciques
+T8	TEMP 170 186	depuis 48 heures
+T9	PROC 190 205	examen clinique
+T10	PROC 210 219	admission
+T11	LIVB 232 239	patient
+T12	Concept_Idea 243 261	état hémodynamique
+T13	PHEN 278 297	pression artérielle
+T14	ANAT 287 297	artérielle
+T15	MEAS 308 318	90/60 mmHg
+T16	PROC 323 339	bilan biologique
+T17	PROC 353 364	leucocytose
+T18	MEAS 367 384	12300 élément/mm3
+T19	PROC 392 411	protéine-C réactive
+T20	PROC 413 416	CRP
+T21	MEAS 418 424	élevée
+T22	MEAS 427 435	160 mg/l
+T23	ANAT 449 464	liquide pleural
+T24	LIVB 466 468	Il
+T25	CHEM 490 508	anti inflammatoire
+T26	CHEM 514 526	prédnisolone
+T27	MODE 531 541	voie orale
+T28	CHEM 556 574	méthylprednisolone
+T29	PROC 595 620	corticothérapie adjuvante
+T30	CHEM 635 670	anti-inflammatoires non stéroïdiens
+T31	DOSE 682 688	1mg/kg
+T32	TEMP 688 690	/j
+T33	CHEM 693 724	amoxicilline-acide clavulanique
+T34	CHEM 738 751	métronidazole
+T35	DEVI 789 803	sonde pleurale
+T36	ANAT 795 803	pleurale
+T37	LIVB 822 828	malade
+T38	DISO 854 875	détresse respiratoire
+T39	PHEN 863 875	respiratoire
+T40	DISO 888 904	signes cliniques
+T41	DISO 931 964	syndrome d'épanchement bilatérale
+T42	Localization 954 964	bilatérale
+T43	DISO 974 1000	atteinte pleuro-pulmonaire
+T44	ANAT 983 1000	pleuro-pulmonaire
+T45	PROC 1029 1062	consultation prénopr hospitalière
+T46	PROC 1065 1098	échocardiographie transthoracique
+T47	ANAT 1083 1098	transthoracique
+T48	DISO 1112 1194	masse pariétale ventriculaire gauche hypohomo-capillaire latéralisée hypertrophiée
+T51	MEAS 1204 1212	21x14 cm
+T52	MEAS 1221 1224	2cm
+T53	Concept_Idea 1228 1237	grand axe
+T54	ANAT 1259 1283	corps cavités cardiaques
+T55	DISO 1409 1454	hypotension cardio-vasculo-nerveux systolique
+T56	ANAT 1421 1454	cardio-vasculo-nerveux systolique
+T57	ANAT 1478 1510	parties molles intravésiculaires
+T58	ANAT 1529 1593	parenchyme adéno-gigantocellulaire sus-thoracique basithoracique
+T59	ANAT 1619 1655	volumne thoraco-abdomino-surrénalien
+T60	MEAS 1664 1670	T4N0M0
+T61	Concept_Idea 1680 1686	taille
+T62	PROC 1702 1742	TDM thoracique infarcto-myxo-liquidienne
+T63	ANAT 1706 1742	thoracique infarcto-myxo-liquidienne
+T64	DISO 1762 1816	tissulaire tuméfaction tissulaire hétérogène hypodense
+T65	MEAS 1828 1843	progressivement
+T66	Concept_Idea 1847 1855	diamètre
+T67	MEAS 1865 1882	bien circonscrite
+T68	DISO 1935 1961	épanchement basithoracique
+T69	ANAT 1947 1961	basithoracique
+T70	MEAS 2014 2019	120ml
+T71	MEAS 2067 2077	importante
+T72	DISO 2119 2146	tuméfaction angulo-fistulée
+T73	MEAS 2261 2265	dure
+T74	PROC 2385 2409	excision transperitonéal

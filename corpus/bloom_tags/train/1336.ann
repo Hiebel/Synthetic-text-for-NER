@@ -1,0 +1,30 @@
+T1	LIVB 29 37	patiente
+T2	PROC 48 54	admise
+T3	Hospital 59 67	urgences
+T4	DISO 76 127	syndrome d'épanchement intrahypogastrique liquidien
+T6	PROC 131 146	examen clinique
+T7	DISO 167 218	masse bourgeonnante des organes grêlo-pancréatiques
+T8	ANAT 191 218	organes grêlo-pancréatiques
+T9	MEAS 229 242	environ 10 cm
+T10	Concept_Idea 246 255	grand axe
+T11	MEAS 257 269	bien limitée
+T12	ANAT 286 315	artère rénale supra hépatique
+T13	Localization 300 305	supra
+T14	DISO 321 355	adénopathies hépato-surrénaliennes
+T15	ANAT 334 355	hépato-surrénaliennes
+T17	ANAT 387 393	rénale
+T18	MEAS 394 407	significative
+T19	ANAT 434 456	troncs supra-aortiques
+T20	PROC 526 571	tomodensitométrie thoraco-abdomino- pelvienne
+T21	ANAT 544 571	thoraco-abdomino- pelvienne
+T22	PROC 586 617	anesthésie locorégionale locale
+T24	ANAT 661 844	surrénalienne homolatérale latérale postérieure palmocannulomo-tricuspédieuse infiltro-duodénomateuse intrarénalo-thyroïdienne périthoracique médiastinale sus-cervicale lobaire gauche
+T26	Localization 838 844	gauche
+T27	DISO 860 1006	vascularisation interstitielle résiduelle para-diganglionnaire scissurale diaphragmatique basithoracique humérosub-lombaire sur-rénal systématisée
+T29	ANAT 1027 1073	veine cave abdominale superficielle bilatérale
+T30	Localization 1063 1073	bilatérale
+T31	DISO 1151 1165	masse arrondie
+T32	ANAT 1192 1239	voie biliaire principale segmentaire transverse
+T33	ANAT 1302 1320	anses intestinales
+T34	MEAS 1423 1438	multilocalisées
+T35	MEAS 1463 1472	plusieurs

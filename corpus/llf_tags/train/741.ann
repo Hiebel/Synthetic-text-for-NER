@@ -1,0 +1,56 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 39 50	antécédents
+T3	MEAS 51 63	particuliers
+T4	TEMP 82 86	2011
+T5	DISO 91 111	tumeur du sein droit
+T6	ANAT 101 111	sein droit
+T7	Localization 106 111	droit
+T8	PROC 140 158	cholécysterectomie
+T9	PROC 162 177	examen clinique
+T10	DISO 203 266	processus inflammatoire des quadrants supra-cervico-thyroïdiens
+T11	ANAT 231 266	quadrants supra-cervico-thyroïdiens
+T12	DISO 310 319	dysphagie
+T13	DISO 335 341	fièvre
+T14	PHEN 360 378	suites opératoires
+T15	MEAS 393 400	simples
+T16	PROC 406 437	radiothérapie externe adjuvante
+T17	Localization 460 466	droite
+T18	PROC 503 556	tomodensibiothérapie concomitante type Temozolomycine
+T19	CHEM 542 556	Temozolomycine
+T20	DOSE 558 560	1g
+T21	TEMP 560 564	/24h
+T22	PROC 576 581	suivi
+T23	PROC 620 632	consultation
+T24	PROC 674 714	rééducation fonctionnelle postopératoire
+T25	Concept_Idea 734 751	état neurologique
+T26	PROC 765 798	néphrectomie totale scanno-guidée
+T27	LIVB 808 818	nourrisson
+T28	TEMP 826 833	10 mois
+T29	LIVB 875 877	sa
+T30	LIVB 878 888	belle-mère
+T31	LIVB 892 895	son
+T32	LIVB 896 916	grand père maternels
+T33	PROC 921 940	bilan préopératoire
+T34	DISO 960 972	malformation
+T35	DISO 982 1005	déficit sensitivomoteur
+T36	DISO 1022 1053	hémophagocarcinose prurigineuse
+T37	PROC 1078 1114	contrôle locorégional complémentaire
+T38	DISO 1252 1268	signes cliniques
+T39	PROC 1272 1298	étude immuno-histochimique
+T40	DISO 1335 1437	lymphome carcinomateux métastatique anaplasmocytaire malformatif TNK Ixletic Methotrexate ketoacidosis
+T41	MEAS 1445 1453	stade II
+T42	PROC 2128 2170	protocoles de chimiothérapie néo adjuvante
+T43	LIVB 2582 2603	médecins généralistes
+T45	DISO 2825 2894	métastases aiguës récidivantes lithiasiques achilléennes congénitales
+T46	DISO 2930 2958	symptomatologie pathologique
+T47	LIVB 2995 3020	médicamenteurs néonatales
+T48	Concept_Idea 3050 3075	localisations secondaires
+T49	PROC 3115 3134	suivi préopératoire
+T50	PROC 3157 3189	traitement palliatif substitutif
+T51	PROC 3294 3316	consultation prénatale
+T52	LIVB 3513 3521	patients
+T53	MEAS 3609 3613	2ème
+T54	PROC 3614 3628	chimiothérapie
+T55	PROC 3642 3672	prise en charge postopératoire
+T56	Concept_Idea 3684 3710	contexte évolutif clinique
+T57	PROC 3723 3761	contrôle ophtalmologique échographique

@@ -1,0 +1,41 @@
+T1	LIVB 16 24	patiente
+T2	PROC 50 56	admise
+T3	Hospital 60 90	service d'accueil des urgences
+T4	Hospital 94 114	CHU Hassan II de Fès
+T6	ANAT 145 155	artérielle
+T7	PROC 166 182	bilan biologique
+T8	DISO 194 207	particularité
+T9	PROC 211 242	échographie abdomino- pelvienne
+T10	ANAT 223 242	abdomino- pelvienne
+T11	Concept_Idea 256 261	forme
+T12	MEAS 262 273	volumineuse
+T13	PROC 301 310	injection
+T14	CHEM 314 334	produit de contraste
+T15	MEAS 344 349	13 cm
+T16	Concept_Idea 353 362	grand axe
+T17	MEAS 367 372	14 cm
+T18	Concept_Idea 376 389	petite taille
+T19	ANAT 403 433	muscles fléchisseurs périnéaux
+T20	DISO 455 470	hématopéritoine
+T21	PROC 475 499	scanner abdomino-pelvien
+T22	ANAT 483 499	abdomino-pelvien
+T23	LIVB 523 531	patiente
+T24	DISO 536 561	pancréatite hypertrophiée
+T25	DISO 581 595	hypo-splénique
+T26	DISO 611 643	épanchement centrale lithiasique
+T27	Localization 623 631	centrale
+T28	TEMP 653 666	depuis 9 mois
+T29	DISO 680 696	signes cliniques
+T30	PROC 711 767	résection transphrénoidale pancréatoïdienne exploratrice
+T31	PROC 801 849	anesthésie locorégionale pariétale scanno-guidée
+T33	PROC 863 888	intubation oeso-trachéale
+T34	ANAT 874 888	oeso-trachéale
+T35	DEVI 902 921	sonde oesophagienne
+T37	DISO 992 1012	déficit neurologique
+T38	DISO 1025 1051	complications métaboliques
+T39	DISO 1101 1144	vascularisation ganglionnaire normo-myogène
+T40	ANAT 1117 1144	ganglionnaire normo-myogène
+T41	ANAT 1217 1232	sinus caverneux
+T42	ANAT 1251 1276	mésentère iléovésiculaire
+T43	DISO 1376 1419	syndrome d'épanchement sous-diaphragmatique
+T44	ANAT 1399 1419	sous-diaphragmatique

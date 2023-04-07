@@ -1,0 +1,33 @@
+T1	LIVB 3 13	nouveau-né
+T2	PHEN 43 52	grossesse
+T3	PROC 57 63	suivie
+T4	Concept_Idea 72 77	poids
+T5	MEAS 81 86	2500g
+T6	ANAT 90 97	abdomen
+T7	DISO 109 122	particularité
+T8	PROC 129 145	bilan biologique
+T9	DISO 162 174	hypokaliémie
+T10	MEAS 177 187	2,5 mmol/l
+T11	DISO 203 223	hypercholestérolémie
+T12	MEAS 226 250	1,3 gramme par décilitre
+T13	PROC 256 265	admission
+T14	LIVB 269 277	patiente
+T15	DISO 297 326	lésions érythémato papuleuses
+T16	ANAT 340 364	péritoine pariétal droit
+T17	Localization 359 364	droit
+T18	DISO 387 412	thyréopathie hypertensive
+T19	PROC 417 434	toucher abdominal
+T20	ANAT 425 434	abdominal
+T21	DISO 458 473	symptomatologie
+T22	PROC 479 503	échographie obstétricale
+T23	TEMP 522 537	post opératoire
+T24	PROC 527 537	opératoire
+T25	DISO 587 609	myocardite infectieuse
+T26	DISO 618 639	infectiomyome maligne
+T27	MEAS 672 679	simples
+T28	PROC 685 715	traitement médical substitutif
+T29	CHEM 735 748	antibiotiques
+T30	DOSE 776 782	500 mg
+T31	TEMP 782 784	/j
+T32	LIVB 790 798	patiente
+T33	DISO 822 840	signe neurologique

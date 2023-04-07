@@ -1,0 +1,28 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	DISO 36 61	antécédents pathologiques
+T4	MEAS 62 74	particuliers
+T5	PROC 76 81	admis
+T6	Hospital 86 107	urgences pédiatriques
+T7	PROC 113 137	anesthésie locoregionale
+T8	ANAT 124 137	locoregionale
+T9	CHEM 150 160	isoflurane
+T10	DEVI 167 198	produit anesthésique artificiel
+T11	PROC 202 227	intervention chirurgicale
+T12	PROC 244 279	exérèse biliaire transpancréagienne
+T13	DISO 301 323	métastases secondaires
+T14	DISO 349 374	ganglionnaire infiltrante
+T15	DISO 381 402	invagination grêlique
+T16	ANAT 394 402	grêlique
+T19	MEAS 670 677	simples
+T20	DISO 714 727	particularité
+T21	DISO 745 769	décollement hémorragique
+T22	DISO 775 806	atteinte intestinale mucosaires
+T23	ANAT 784 806	intestinale mucosaires
+T24	TEMP 816 831	durant 6 heures
+T25	PROC 846 868	chirurgie exploratrice
+T26	DISO 915 941	tumorale angiosarcomateuse
+T27	DISO 944 978	maladie thromboembolique dissociée
+T28	DISO 980 1010	thrombose artérielle ovarienne
+T29	ANAT 990 1010	artérielle ovarienne
+T30	DISO 1035 1068	caractériopathies hypertrophiques

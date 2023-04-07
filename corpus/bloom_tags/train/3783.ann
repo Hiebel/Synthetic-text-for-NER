@@ -1,0 +1,32 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	11 ans
+T3	Localization 33 41	droitier
+T4	Concept_Idea 65 73	critères
+T5	MEAS 135 146	progressive
+T6	Concept_Idea 150 155	poids
+T7	DISO 171 188	dyspnée sifflante
+T8	MEAS 203 214	progressive
+T9	MEAS 224 231	majeure
+T10	DISO 259 297	adénopathies axillaires hypertrophiées
+T11	ANAT 272 297	axillaires hypertrophiées
+T12	ANAT 318 331	massif facial
+T13	MEAS 341 346	12 cm
+T14	Concept_Idea 350 359	grand axe
+T15	MEAS 371 386	progressivement
+T16	Concept_Idea 390 396	volume
+T17	DEVI 422 446	tableau clinique digital
+T18	PROC 508 538	radiothérapie locale adjuvante
+T19	ANAT 561 580	fosse nasale droite
+T20	Localization 574 580	droite
+T21	DISO 612 632	prise médicamenteuse
+T22	PROC 770 806	tomodensitométrie abdomino-pélvienne
+T23	ANAT 788 806	abdomino-pélvienne
+T24	DISO 827 885	masse latéro utérine basithoracique périphérique infilérée
+T25	Localization 863 885	périphérique infilérée
+T26	MEAS 894 905	environ 2cm
+T27	Concept_Idea 909 918	grand axe
+T28	ANAT 955 971	cavité pelvienne
+T29	ANAT 995 1022	parties molles intestinales
+T30	ANAT 1049 1065	parois vaginales
+T31	ANAT 1086 1111	jonction ombilicovaginale
+T32	ANAT 1188 1205	queue du pancréas

@@ -1,0 +1,18 @@
+T1	PROC 2 18	étude biologique
+T2	Concept_Idea 8 18	biologique
+T3	DISO 35 51	hyperleucocytose
+T4	MEAS 54 74	16 000 éléments/mm 3
+T5	PROC 79 106	numération formule sanguine
+T6	PROC 108 127	hémoglobine glyquée
+T7	PROC 129 148	protéine C réactive
+T8	PROC 150 165	anti DNA natifs
+T9	MEAS 175 183	normales
+T10	PROC 189 219	échographie abdomino-pelvienne
+T11	ANAT 201 219	abdomino-pelvienne
+T12	LIVB 244 252	patients
+T13	PROC 275 299	laparotomie exploratrice
+T14	DISO 329 340	péristaltis
+T15	PROC 353 370	bilan d'extension
+T16	PROC 375 419	dosage des catécholamines gonadotrophiniques
+T17	PHEN 436 462	développement psychomoteur
+T18	MEAS 473 481	70 ng/ml

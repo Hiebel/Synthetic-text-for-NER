@@ -1,0 +1,42 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	Concept_Idea 42 67	antécédents pathologiques
+T4	MEAS 68 80	particuliers
+T5	PROC 82 86	reçu
+T6	Hospital 91 112	urgences pédiatriques
+T7	DISO 122 145	symptômes neurologiques
+T8	PROC 149 164	examen clinique
+T9	LIVB 181 191	nouveau-né
+T10	Concept_Idea 216 234	plan hémodynamique
+T11	PHEN 244 255	température
+T12	MEAS 258 264	39 ° C
+T13	Localization 286 298	face interne
+T14	ANAT 304 313	œil droit
+T15	Localization 308 313	droit
+T16	Concept_Idea 331 346	acuité visuelle
+T17	PROC 362 378	examen somatique
+T18	DISO 423 464	céphalo-rachidienne achromatophagocytaire
+T19	MEAS 476 491	progressivement
+T20	Concept_Idea 495 501	volume
+T21	MEAS 520 530	hétérogène
+T22	Concept_Idea 578 590	état général
+T23	PROC 618 638	TDM orbito-cérébrale
+T24	ANAT 622 638	orbito-cérébrale
+T25	DISO 652 668	lésion hypodense
+T26	MEAS 677 681	5 cm
+T27	Concept_Idea 685 694	grand axe
+T28	ANAT 713 749	sinus caverneux antéro-latéral droit
+T29	Localization 744 749	droit
+T30	MEAS 759 763	15cm
+T31	Concept_Idea 767 776	grand axe
+T32	Localization 828 839	homolatéral
+T33	DISO 860 947	hypervascularisation sous-parenchymateuse laryngo-oeso-thoracique tumorale hypoéchogène
+T35	ANAT 969 1010	cavité thyroïdienne rétro latérale droite
+T36	Localization 1004 1010	droite
+T37	DISO 1048 1128	adénopathie parathyroïdienne thoracique basithoracique lobulo-pariéto-ombilicale
+T39	DISO 1197 1222	nodules hyper vascularisé
+T40	DISO 1232 1247	pseudo-tumorale
+T41	DISO 1284 1328	adénomégalie parathyroïdienne carcinomateuse
+T42	ANAT 1297 1328	parathyroïdienne carcinomateuse
+T43	ANAT 1377 1406	carcinomateuses mésentériques
+T44	DISO 1446 1467	myxofibrome purulente

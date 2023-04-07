@@ -1,0 +1,48 @@
+T1	LIVB 3 9	garçon
+T2	TEMP 13 18	9 ans
+T3	Hospital 38 63	urgences ophtalmologiques
+T4	DISO 73 100	bradycardie hypertrophiante
+T5	MEAS 115 142	progressivement progressive
+T6	TEMP 240 251	trois jours
+T7	LIVB 258 261	ses
+T8	PROC 262 278	hospitalisations
+T9	DISO 295 311	sueurs chiffrées
+T10	Concept_Idea 367 379	état général
+T11	PROC 383 402	examen neurologique
+T12	DISO 414 423	anomalies
+T13	PROC 439 455	examen somatique
+T14	DISO 493 557	syndrome d'épanchement périphérique du liquide céphalorachidiens
+T15	Localization 516 528	périphérique
+T16	ANAT 532 557	liquide céphalorachidiens
+T17	PHEN 579 593	humeur aqueuse
+T18	PROC 619 648	échographie pleuro-pulmonaire
+T19	ANAT 631 648	pleuro-pulmonaire
+T20	DISO 689 755	thrombose cérébro-ventriculo-crânienne systématisée intracrânienne
+T22	DISO 773 817	œdème thoracique basithoracique latérocentré
+T23	ANAT 779 817	thoracique basithoracique latérocentré
+T24	MEAS 827 832	12 cm
+T25	Concept_Idea 836 845	grand axe
+T26	ANAT 869 895	paupière supérieure droite
+T27	Localization 889 895	droite
+T28	ANAT 935 977	paroi thoracique pariétale diaphragmatique
+T29	ANAT 997 1020	vésicules mésentériques
+T30	PROC 1098 1126	bilan infectieux étiologique
+T31	PROC 1143 1170	numération formule sanguine
+T32	DISO 1193 1209	hyperleucocytose
+T33	MEAS 1212 1222	14000 /mm3
+T34	DISO 1238 1270	polynucléolyténie neutrophilique
+T35	MEAS 1273 1298	10800 éléments blancs/mm3
+T36	LIVB 1300 1305	Notre
+T37	LIVB 1306 1314	patiente
+T38	PROC 1338 1359	toilette épigastrique
+T39	ANAT 1347 1359	épigastrique
+T40	PROC 1372 1385	lavage rectal
+T41	ANAT 1379 1385	rectal
+T42	PROC 1392 1414	incontinence pelvienne
+T43	ANAT 1405 1414	pelvienne
+T44	DISO 1492 1499	dyspnée
+T45	DISO 1512 1540	manifestations hémorragiques
+T46	PROC 1725 1763	traitement médical substitutif curatif
+T47	CHEM 1858 1878	aminosylprednisolone
+T48	CHEM 1906 1920	hydrocortisone
+T49	CHEM 1923 1941	méthylprednisolone

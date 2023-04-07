@@ -1,0 +1,59 @@
+T1	LIVB 3 10	patient
+T2	PHEN 26 32	décédé
+T3	DISO 37 59	détresse respiratoires
+T4	PHEN 46 59	respiratoires
+T5	DISO 86 116	anémie hypochrome microcytaire
+T6	TEMP 126 139	depuis 3 mois
+T7	CHEM 169 182	sulfasalazine
+T8	CHEM 194 207	phénobarbital
+T9	DOSE 209 215	500 mg
+T10	MODE 215 358	/jour) fut admise aux urgences dans un tableau de pleurésie purulente d'aggravation brutale nécessitant son intubation sous sonde oesophagienne
+T11	PROC 226 232	admise
+T12	Hospital 237 245	urgences
+T13	DISO 265 284	pleurésie purulente
+T14	MEAS 299 306	brutale
+T15	PROC 323 333	intubation
+T16	DEVI 339 358	sonde oesophagienne
+T18	PROC 384 408	transfusions sanguineuse
+T19	PROC 422 452	hémodialyse entéropancréatique
+T20	LIVB 539 547	patiente
+T21	DISO 579 615	néphropathie diabétique hypertensive
+T22	DISO 643 670	perte pondérale liquidienne
+T23	DISO 710 746	œdème cutanéo-muqueux péripéritonéal
+T24	ANAT 716 746	cutanéo-muqueux péripéritonéal
+T25	DISO 796 825	douleurs abdomino- pelviennes
+T26	ANAT 805 825	abdomino- pelviennes
+T27	MEAS 846 859	plus intenses
+T28	MEAS 904 917	progressément
+T29	Concept_Idea 921 927	volume
+T30	DISO 998 1006	douleurs
+T31	TEMP 1034 1047	quatre heures
+T32	DISO 1071 1109	syndrome d'épanchement intrapéritonéal
+T33	ANAT 1094 1109	intrapéritonéal
+T34	DISO 1116 1142	saignement hémoperitoineux
+T35	PROC 1160 1184	laparotomie exploratrice
+T36	DISO 1428 1461	complications thromboembolisantes
+T37	DISO 1558 1578	purulence sécrétante
+T38	DISO 1651 1730	thrombose veineuse profonde veineuse céphalique inféro-basilaire basithoracique
+T40	DISO 1746 1774	hyperfibrinogénémie primaire
+T41	DISO 1814 1853	paragangliome épidermoïde carcinomateux
+T42	PROC 1940 1958	traitement curatif
+T43	DISO 2071 2090	diabète métabolique
+T44	DISO 2100 2116	maladie cœliaque
+T45	DISO 2299 2319	prise médicamenteuse
+T46	PHEN 2600 2609	grossesse
+T47	MEAS 2642 2651	difficile
+T48	CHEM 2747 2754	Aspégic
+T49	DOSE 2756 2762	500 mg
+T50	TEMP 2762 2764	/j
+T51	CHEM 2841 2855	Ciprofloxacine
+T52	CHEM 2861 2872	Ethionamide
+T53	Concept_Idea 2876 2886	indication
+T54	PROC 2892 2916	scanner abdomino-pelvien
+T55	ANAT 2900 2916	abdomino-pelvien
+T56	DISO 2957 2994	épanchement intraliquidien péritonéal
+T57	ANAT 2969 2994	intraliquidien péritonéal
+T58	DISO 3000 3045	adénopathies cervico-ovariennes hypoéchogènes
+T59	ANAT 3013 3045	cervico-ovariennes hypoéchogènes
+T60	ANAT 3059 3080	flanc supérieur droit
+T61	Localization 3075 3080	droit

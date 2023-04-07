@@ -1,0 +1,52 @@
+T1	LIVB 3 10	patient
+T2	LIVB 45 48	lui
+T3	DISO 64 100	polyarthrite inflammatoire chronique
+T4	Concept_Idea 145 157	état général
+T5	DISO 174 193	traumatisme crânien
+T6	LIVB 212 215	lui
+T7	DISO 219 230	bradycardie
+T8	MEAS 245 257	progressante
+T9	CHEM 283 297	hydrocortisone
+T10	DOSE 302 308	1mg/kg
+T11	TEMP 308 310	/j
+T12	PROC 324 349	chimiothérapie antalgique
+T13	CHEM 360 373	metaméthasone
+T14	CHEM 379 392	dexaméthasone
+T15	DISO 446 495	symptomatologie purpura hémorragique prurigineuse
+T16	MEAS 510 521	progressive
+T17	MEAS 536 549	satisfaisante
+T18	DISO 601 626	granulomes érythémateuses
+T19	DISO 730 748	méningo-nodulaires
+T20	PROC 952 986	imagerie par résonnance magnétique
+T21	PROC 988 991	IRM
+T22	DISO 1006 1043	hypersignal T2 hétérogène latéralisée
+T23	ANAT 1064 1082	sinus médian droit
+T24	Localization 1077 1082	droit
+T25	ANAT 1103 1219	fosse hypograisse ptérygo-laryngienne pharyngo-diaphragmatique diaphragmatique homolatérale postéro-supérieur droite
+T26	Localization 1182 1219	homolatérale postéro-supérieur droite
+T27	ANAT 1254 1313	paroi œsophagienne utérine hyo-cæcale thyroïdienne prolabée
+T28	PROC 1335 1344	injection
+T29	CHEM 1348 1368	produit de contraste
+T30	MEAS 1378 1393	hyperintenseurs
+T31	DISO 1492 1518	synovial infiltrat tumoral
+T32	Concept_Idea 1536 1544	contours
+T33	MEAS 1559 1564	flous
+T34	DISO 1608 1640	rétrécissement tissulaire cutané
+T35	ANAT 1623 1640	tissulaire cutané
+T36	DISO 1647 1688	foyer vascularisé nodulaire angiospontané
+T37	DISO 1742 1778	maladie myélomateuse polyclonellaire
+T38	PROC 1847 1865	traitement curatif
+T39	PROC 1947 1984	soins locaux adjuvants thérapeutiques
+T40	DISO 2113 2122	pruritité
+T41	DISO 2161 2182	perte de connaissance
+T42	ANAT 2314 2328	cuir chevelu »
+T43	PROC 2334 2343	admission
+T44	Hospital 2347 2354	service
+T45	LIVB 2373 2380	patient
+T46	MEAS 2384 2387	bon
+T47	Concept_Idea 2388 2400	état général
+T48	PHEN 2410 2434	reflexes ostéo-tendineux
+T49	ANAT 2419 2434	ostéo-tendineux
+T50	MEAS 2435 2444	conservés
+T51	PROC 2460 2476	examen somatique
+T52	DISO 2488 2501	particularité

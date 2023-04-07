@@ -1,0 +1,35 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 57	antécédents
+T3	MEAS 58 70	particuliers
+T4	PROC 81 93	hospitalisée
+T5	Hospital 97 108	psychiatrie
+T6	Concept_Idea 134 146	état général
+T7	TEMP 156 171	depuis 15 jours
+T8	PROC 175 190	examen clinique
+T9	DISO 201 215	ictère fébrile
+T10	DISO 223 239	râles crépitants
+T11	ANAT 248 259	fond d'oeil
+T12	PROC 269 290	examen du fond d'oeil
+T13	ANAT 279 290	fond d'oeil
+T14	DISO 308 339	nodule érythémato-conjonctivite
+T15	MEAS 348 353	2/3cm
+T16	ANAT 373 390	plan sous cornéen
+T17	MEAS 400 406	5/4 cm
+T18	ANAT 433 460	parois rétroréfléchissantes
+T19	PROC 465 482	tomodensitométrie
+T20	PROC 484 498	TDM) cornéenne
+T21	ANAT 489 498	cornéenne
+T22	DISO 511 553	hémophagocarcinome polymorphe hypoéchogène
+T23	Localization 575 583	proximal
+T24	ANAT 597 636	paupières supérieure supérieure interne
+T25	Localization 618 636	supérieure interne
+T26	DISO 658 677	métastases osseuses
+T27	DISO 684 709	localisations secondaires
+T28	PHEN 725 743	suites opératoires
+T29	MEAS 752 759	simples
+T30	PROC 799 818	suivi préopératoire
+T31	PROC 824 849	chimiothérapie palliative
+T32	CHEM 855 867	Rifampicine®
+T33	PROC 916 942	thoracoscopie diagnostique
+T34	LIVB 957 963	malade
+T35	DISO 991 1011	récepteurs hormonaux

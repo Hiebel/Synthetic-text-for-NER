@@ -1,0 +1,95 @@
+T1	LIVB 15 22	patient
+T2	PROC 64 76	consultation
+T3	DISO 86 105	douleurs pelviennes
+T4	ANAT 95 105	pelviennes
+T5	CHEM 119 130	antalgiques
+T6	TEMP 140 157	depuis trois mois
+T7	PROC 163 178	examen clinique
+T8	LIVB 183 190	patient
+T9	Concept_Idea 200 212	état général
+T10	MEAS 213 219	altéré
+T11	DISO 230 241	polypnéique
+T12	DISO 257 268	traumatisme
+T13	DISO 278 291	symptomatique
+T14	PROC 314 319	suivi
+T15	Hospital 328 337	formation
+T16	PHEN 342 357	fonction rénale
+T17	ANAT 351 357	rénale
+T18	MEAS 364 371	normale
+T19	ANAT 396 400	foie
+T20	MEAS 409 416	normale
+T21	PROC 421 448	bilan radiologique standard
+T22	PROC 450 461	échographie
+T23	PROC 463 471	urologie
+T24	PROC 473 498	scanner thoraco-abdominal
+T25	ANAT 481 498	thoraco-abdominal
+T26	DISO 516 545	masse tissulaire hypoéchogène
+T27	MEAS 555 560	10 cm
+T28	ANAT 574 584	rein droit
+T29	Localization 579 584	droit
+T30	MEAS 587 591	3 cm
+T31	ANAT 601 617	sinus piriformes
+T32	DISO 631 643	hypocalcémie
+T33	MEAS 654 663	35 mmol/l
+T34	PROC 667 677	hémogramme
+T35	DISO 691 743	anémie normochrome normocytaire hétérozygote maligne
+T36	MEAS 765 773	7,2 g/dl
+T37	DISO 804 820	hyperleucocytose
+T38	MEAS 823 845	166 000 éléments /mm 3
+T39	DISO 887 912	difficultés diagnostiques
+T40	PROC 1033 1067	IDR à la tuberculine intraveineuse
+T41	CHEM 1042 1067	tuberculine intraveineuse
+T42	PROC 1090 1108	antibioprophylaxie
+T43	DISO 1133 1165	distension péritonéale chronique
+T44	ANAT 1144 1155	péritonéale
+T45	DISO 1181 1210	insuffisance rénale terminale
+T46	ANAT 1194 1200	rénale
+T47	MEAS 1222 1229	5 mEq/h
+T48	PROC 1255 1271	temps opératoire
+T49	DISO 1278 1288	distension
+T50	MEAS 1305 1310	50 °C
+T51	MEAS 1314 1318	70°C
+T52	MEAS 1369 1377	25µg/min
+T53	PROC 1417 1445	prise en charge chirurgicale
+T54	PROC 1451 1496	trachéotomie transoesophagienne scanno-guidée
+T55	PROC 1515 1546	annexectomie antéro-expectorale
+T56	Localization 1528 1546	antéro-expectorale
+T57	PROC 1578 1634	résection biopsique endotrachéale préchimiothérapeutique
+T58	MEAS 1682 1689	simples
+T59	MEAS 1726 1734	précoces
+T60	DISO 1744 1765	récidive neurologique
+T61	DISO 1772 1791	contage tuberculeux
+T62	ANAT 1804 1833	nerf laryngé inférieur gauche
+T63	Localization 1827 1833	gauche
+T64	DEVI 1840 1850	matérielle
+T65	MEAS 1851 1874	macroscopiquement saine
+T66	DISO 1886 1901	lésion tumorale
+T67	PROC 1930 1954	traitements chirurgicaux
+T68	Concept_Idea 1967 1987	aspect morphologique
+T69	DISO 2004 2033	appendicite aiguë récidivante
+T70	DISO 2051 2085	perforation néoplasique réversible
+T71	DISO 2116 2152	maladie cœlio-papillaire infectieuse
+T72	DISO 2158 2183	fièvre polymicronodulaire
+T73	MEAS 2191 2197	T4N1M0
+T74	Concept_Idea 2221 2242	caractère cytologique
+T75	DISO 2263 2304	rectorragie pseudo-tumorale érythémateuse
+T76	DISO 2375 2409	inflammation auto-immune familiale
+T77	DISO 2435 2457	syndrome inflammatoire
+T78	DISO 2475 2493	infection fongique
+T79	PROC 2516 2535	traitement adjuvant
+T80	DISO 2628 2641	complications
+T81	LIVB 2675 2682	parents
+T82	DISO 2687 2716	psychomotricité psychomotrice
+T83	CHEM 2800 2824	neuroleptiques atypiques
+T84	CHEM 2839 2850	bupivacaine
+T85	CHEM 2858 2871	phénobarbital
+T86	PHEN 2919 2935	travail physique
+T87	DISO 2979 3001	trouble bipolaire aigu
+T88	DISO 3144 3170	symptômes schizophrénitifs
+T90	LIVB 3280 3299	collègues maternels
+T91	DISO 3379 3395	crise convulsive
+T92	TEMP 3638 3654	après 6 semaines
+T93	LIVB 3711 3714	nos
+T94	LIVB 3715 3721	frères
+T95	LIVB 3990 4000	monsieur A
+T97	Hospital 4366 4410	stratégie thérapeutique curative pédiatrique

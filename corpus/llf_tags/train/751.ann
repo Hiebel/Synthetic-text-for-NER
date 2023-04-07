@@ -1,0 +1,88 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 70	antécédents pathologique
+T3	MEAS 71 83	particuliers
+T4	PROC 94 106	hospitalisée
+T5	Hospital 110 121	psychiatrie
+T6	Concept_Idea 147 159	état général
+T7	DISO 167 186	troubles du langage
+T8	PROC 192 207	examen clinique
+T9	LIVB 212 220	patiente
+T10	DISO 225 232	fébrile
+T11	MEAS 235 239	39°C
+T12	ANAT 248 255	abdomen
+T13	MEAS 256 264	sensible
+T14	CHEM 268 285	bronchodilatateur
+T15	DOSE 287 292	250mg
+T16	TEMP 292 294	/j
+T17	PHEN 300 319	pression artérielle
+T18	ANAT 309 319	artérielle
+T19	MEAS 337 348	110/80 mmHg
+T20	ANAT 362 385	membre inférieur gauche
+T21	Localization 379 385	gauche
+T22	MEAS 397 411	120 battements
+T23	TEMP 412 423	par minutes
+T24	MEAS 471 477	90 cpm
+T25	MEAS 485 498	70 pulsations
+T26	TEMP 499 510	par minutes
+T27	PROC 534 552	traitement médical
+T28	PROC 556 575	électrocardiogramme
+T29	PROC 691 707	examen somatique
+T30	DISO 719 732	particularité
+T31	Concept_Idea 741 756	plan biologique
+T32	DISO 773 789	hyperleucocytose
+T33	MEAS 792 804	210 000 /mm³
+T34	DISO 810 822	hypokaliémie
+T35	MEAS 825 855	1,6 gramme par millimètre cube
+T36	DISO 862 891	insuffisance rénale chronique
+T37	ANAT 875 881	rénale
+T38	DEVI 910 937	cathéter transitomédullaire
+T39	ANAT 919 937	transitomédullaire
+T40	DISO 953 979	néphrocalcinose diabétique
+T41	TEMP 999 1016	depuis trois mois
+T42	PROC 1022 1060	échographie obstétricale préopératoire
+T43	DISO 1090 1143	formation kystique hétérogène tissulaire hypoéchogène
+T44	ANAT 1162 1180	cavité péritonéale
+T45	MEAS 1190 1195	15 cm
+T46	Concept_Idea 1199 1206	largeur
+T47	Concept_Idea 1228 1237	grand axe
+T48	ANAT 1243 1271	expectorations anamnestiques
+T49	MEAS 1280 1293	peu atypiques
+T50	ANAT 1309 1327	aires pelvi-anales
+T51	MEAS 1336 1350	macroscopiques
+T52	PROC 1355 1380	scanner thoraco abdominal
+T53	ANAT 1363 1380	thoraco abdominal
+T54	Hospital 1393 1414	urgences pédiatriques
+T55	DISO 1440 1448	anomalie
+T56	Concept_Idea 1471 1490	aspect radiologique
+T57	DISO 1506 1530	syndrome myxœso-occlusif
+T58	PROC 1581 1608	classification de Wassenaer
+T59	PROC 1647 1670	radiothérapie adjuvante
+T60	DISO 1732 1761	symptômes neuropsychiatriques
+T61	LIVB 1817 1824	malades
+T62	PROC 1847 1873	consultation psychiatrique
+T63	PROC 1898 1904	suivie
+T64	DISO 1938 1965	dérives psychotiques aiguës
+T65	DISO 1997 2033	épisodes dépressifs post traumatique
+T66	PROC 2052 2077	étude cytobactériologique
+T67	PROC 2099 2116	immunohistochimie
+T68	PROC 2165 2192	prélèvements immunologiques
+T69	CHEM 3027 3037	Tamoxifen®
+T70	PROC 3046 3065	bilan préopératoire
+T71	MEAS 3067 3075	Figure 1
+T72	MEAS 3096 3105	favorable
+T73	PROC 3111 3144	corticothérapie substitutionnelle
+T74	PROC 3159 3181	contrôle échographique
+T75	PHEN 3212 3232	récepteurs hormonaux
+T76	TEMP 3239 3245	6 mois
+T77	PROC 3270 3279	chirurgie
+T78	LIVB 3306 3312	enfant
+T79	TEMP 3320 3326	16 ans
+T80	DISO 3342 3385	neuroendocrinopathie chronique idiopathique
+T81	Concept_Idea 3395 3398	âge
+T82	LIVB 3622 3629	famille
+T83	LIVB 3648 3665	ouvrière agricole
+T84	LIVB 3938 3944	enfant
+T85	DISO 3961 4004	neuroendocrinopathie chronique idiopathique
+T86	ANAT 4140 4154	filière rénale
+T87	ANAT 4169 4191	lambeau musculo-cutané
+T88	DISO 4227 4260	troubles obsessionnels compulsifs

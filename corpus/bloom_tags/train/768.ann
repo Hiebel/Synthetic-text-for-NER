@@ -1,0 +1,21 @@
+T1	LIVB 0 8	Patiente
+T2	DISO 30 55	antécédents pathologiques
+T3	MEAS 56 64	notables
+T4	DISO 84 110	tuméfaction du coude droit
+T5	ANAT 99 110	coude droit
+T6	Localization 105 110	droit
+T7	TEMP 120 141	depuis plus d'un mois
+T8	PROC 145 160	examen clinique
+T9	PROC 165 174	admission
+T10	Concept_Idea 188 193	masse
+T11	MEAS 195 207	bien limitée
+T12	MEAS 217 221	2 cm
+T13	Concept_Idea 225 234	grand axe
+T14	MEAS 238 244	mobile
+T15	PROC 277 303	tomodensitométrie standard
+T16	PROC 305 308	TDM
+T17	DISO 332 449	lésion tissulaire polylobée latéro-utérine droite juxta-cervicale anté-métacarpienne métatarsienne associée d'ascites
+T19	DEVI 458 478	contour radiologique
+T20	MEAS 479 485	normal
+T21	PROC 513 522	injection
+T22	CHEM 527 547	produit de contraste

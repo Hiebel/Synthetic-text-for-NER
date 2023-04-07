@@ -1,0 +1,74 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 71	antécédents pathologiques
+T3	MEAS 72 84	particuliers
+T4	PROC 86 91	reçue
+T5	Hospital 96 104	urgences
+T6	DISO 114 135	détresse respiratoire
+T7	PHEN 123 135	respiratoire
+T8	TEMP 145 158	depuis 6 mois
+T9	PROC 162 177	examen clinique
+T10	LIVB 189 197	patiente
+T11	MEAS 201 210	assez bon
+T12	Concept_Idea 211 223	état général
+T13	ANAT 230 237	abdomen
+T14	MEAS 238 257	légèrement sensible
+T15	PROC 263 272	palpation
+T16	PROC 276 290	interrogatoire
+T17	DISO 322 344	hémoptysies sifflantes
+T18	PROC 372 386	administration
+T19	CHEM 392 402	sufentanil
+T20	MODE 407 427	voie d'abord rectale
+T21	DOSE 429 442	0,5 µg/kg/min
+T22	PROC 448 478	bilan biologique préopératoire
+T23	PROC 492 500	kaliémie
+T24	MEAS 503 512	4,2 meq/l
+T25	PROC 522 530	natrémie
+T26	MEAS 533 542	135 meq/l
+T27	LIVB 544 548	Elle
+T28	DISO 574 590	hyperleucocytose
+T29	MEAS 593 602	13000/mm3
+T30	PROC 615 634	protéine C réactive
+T31	MEAS 637 645	100 mg/l
+T32	PROC 660 681	bilan bactériologique
+T33	MEAS 688 695	négatif
+T34	DEVI 699 716	cathéter artériel
+T35	ANAT 708 716	artériel
+T36	PROC 731 767	sérologies d'immunodépression virale
+T37	MEAS 785 793	positifs
+T38	PROC 869 895	ponction pleurale liquidée
+T39	ANAT 878 895	pleurale liquidée
+T40	PROC 910 934	anesthésie locorégionale
+T41	ANAT 921 934	locorégionale
+T42	MEAS 951 958	normale
+T43	PROC 973 1012	fibroscopie bronchique trans-bronchique
+T44	ANAT 985 1012	bronchique trans-bronchique
+T45	LIVB 1174 1182	patiente
+T46	DISO 1207 1228	surpoids hypertrophié
+T47	PROC 1248 1271	traité chirurgicalement
+T48	PROC 1281 1309	médiastinothérapie adjuvante
+T49	PROC 1395 1415	échocardiographiques
+T50	DISO 1428 1437	symptômes
+T51	PROC 1442 1487	tomodensitométrie thoraco-abdomino- pelvienne
+T52	ANAT 1460 1487	thoraco-abdomino- pelvienne
+T53	DISO 1507 1569	nodules parathyroïdiens latéro-mésentériques péripancréatiques
+T54	ANAT 1515 1569	parathyroïdiens latéro-mésentériques péripancréatiques
+T55	MEAS 1594 1602	14/10 cm
+T56	MEAS 1606 1612	12/8cm
+T57	DISO 1672 1692	métastases tumorales
+T58	ANAT 1703 1720	parathyroïdiennes
+T59	MEAS 1856 1865	suspectée
+T60	PROC 1886 1916	marqueurs immunohistochimiques
+T61	LIVB 2039 2046	famille
+T62	DISO 2074 2097	traumatisme endovaginal
+T63	ANAT 2086 2097	endovaginal
+T64	Localization 2163 2168	extra
+T65	PROC 2774 2804	traitement curatif chirurgical
+T66	PROC 2845 2869	chimiothérapie adjuvante
+T67	CHEM 2871 2881	cisplatine
+T68	CHEM 2883 2894	doxycycline
+T69	CHEM 2896 2910	hydrocortisone
+T70	CHEM 2912 2923	vinblastine
+T71	PROC 2933 2950	curage péritonéal
+T72	ANAT 2940 2950	péritonéal
+T73	TEMP 3008 3014	6 mois
+T74	PROC 3018 3028	diagnostic

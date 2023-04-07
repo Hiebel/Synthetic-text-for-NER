@@ -1,0 +1,104 @@
+T1	LIVB 16 24	patiente
+T2	DISO 68 91	hypertension artérielle
+T3	ANAT 81 91	artérielle
+T4	PROC 97 112	examen clinique
+T5	LIVB 116 124	patiente
+T6	MEAS 134 141	mauvais
+T7	Concept_Idea 142 154	état général
+T8	PROC 164 184	examen gynécologique
+T9	DISO 189 193	toux
+T10	MEAS 194 199	sèche
+T11	DISO 206 221	purpura fébrile
+T12	Concept_Idea 266 278	état général
+T13	DISO 294 300	fièvre
+T14	DISO 311 331	symptômes infectieux
+T15	PROC 335 346	échographie
+T16	TEMP 359 369	17/08/2017
+T17	PHEN 381 396	fonction rénale
+T18	ANAT 390 396	rénale
+T19	MEAS 397 404	normale
+T21	Localization 416 440	quadrant supero-aortique
+T22	ANAT 442 446	VBIU
+T23	PROC 469 507	laparotomie exploratrice scanno-guidée
+T24	LIVB 519 527	patiente
+T25	DISO 550 560	métastases
+T26	ANAT 579 594	site opératoire
+T27	PROC 600 623	scintigraphie abdominal
+T28	ANAT 614 623	abdominal
+T29	DISO 670 691	anomalie histologique
+T30	PROC 706 729	prélèvements bactériens
+T31	MEAS 744 771	correctement interprétables
+T32	PROC 776 797	bilan phosphocalcique
+T33	Hospital 810 818	urgences
+T34	MEAS 830 854	macroscopiquement normal
+T35	PROC 861 881	curetage chirurgical
+T36	PROC 887 928	traitement calciparine acide tranexamique
+T37	CHEM 898 928	calciparine acide tranexamique
+T38	PROC 943 973	protéinothérapie néo adjuvante
+T39	MODE 978 996	voie intraveineuse
+T41	PROC 1122 1156	radiothérapie externe concomitante
+T42	PROC 1172 1207	prise en charge psychothérapeutique
+T43	Concept_Idea 1220 1240	aspect morphologique
+T44	DISO 1257 1276	maladie auto-immune
+T45	PROC 1330 1363	thyroïdectomie totale fractionnée
+T46	ANAT 1383 1398	muqueuse rénale
+T47	ANAT 1418 1451	ganglions axillaires superficiels
+T48	ANAT 1462 1505	noyaux gastroduodénaux métatarsiens distaux
+T49	ANAT 1522 1560	cloisons para hépatiques médiastinales
+T50	PROC 1583 1646	néphrectomie partielle lobulaire segmentaire monoclonale totale
+T51	Localization 1640 1646	totale
+T52	DISO 1674 1702	masse tissulaire polylobulée
+T53	MEAS 1712 1721	13 x 6 cm
+T54	DISO 1726 1736	hétérogène
+T55	ANAT 1754 1772	méso alvéolo-rénal
+T56	MEAS 1781 1786	16 mm
+T57	ANAT 1812 1830	fascia pancréatica
+T58	PROC 1841 1865	extubation endotrachéale
+T59	MEAS 1898 1905	simples
+T60	DISO 1919 1939	trouble neurologique
+T61	DISO 1946 1982	détresse respiratoire postopératoire
+T62	PHEN 1955 1982	respiratoire postopératoire
+T63	DEVI 2003 2091	processus digestif sensitivomoteur implantable cervico-mandibulaire percutanéautomatique
+T64	ANAT 2102 2120	anses intestinales
+T65	ANAT 2127 2173	rotule transoesophagienne postéro-sous cutanée
+T66	MEAS 2389 2401	1400 grammes
+T67	MEAS 2405 2416	520 grammes
+T68	Concept_Idea 2428 2446	poids gestationnel
+T69	MEAS 2464 2475	450 grammes
+T70	PROC 2509 2545	cholécystokératine méthyltransférase
+T71	PROC 2546 2575	CHOLFARI Rhésus Chorion Index
+T72	MEAS 2586 2597	153 UI/mm ³
+T73	MEAS 2603 2640	97 fois la limite supérieure OMS/mm ³
+T74	MEAS 2651 2666	260 000 UI/mm ³
+T75	PROC 2675 2701	dosage immunohistochimique
+T76	PROC 2824 2858	cytologie du liquide cérébrospinal
+T77	ANAT 2837 2858	liquide cérébrospinal
+T78	MEAS 2871 2879	positive
+T79	PROC 2893 2920	numération formule sanguine
+T80	MEAS 2938 2959	normalement positives
+T81	PROC 2969 2993	thyréotaxie antibiotique
+T82	PROC 3002 3065	examen cytobactériologique par chromatographie en phase gazeuse
+T83	DISO 3100 3120	anomalie leucocytose
+T84	DISO 3124 3134	myogénémie
+T85	DISO 3152 3174	syndrome inflammatoire
+T86	LIVB 3224 3231	malades
+T87	DISO 3236 3256	hypertriglycéridémie
+T88	MEAS 3273 3282	1,6 mg/dl
+T89	DISO 3288 3317	hyperéosinophilie hémolytique
+T90	PROC 3389 3418	prise en charge thérapeutique
+T91	LIVB 3449 3457	patients
+T92	DISO 3494 3509	perte pondérale
+T93	PROC 3601 3637	traitement médicamenteux substitutif
+T94	CHEM 3646 3658	amoxicilline
+T95	CHEM 3661 3670	œstradiol
+T96	CHEM 3673 3687	gentaméthasone
+T97	CHEM 3690 3729	acide acétyle glucantime®sulfaméthonium
+T98	CHEM 3731 3746	céphalosporines
+T99	CHEM 3749 3759	corticoïde
+T100	CHEM 3761 3773	pyrazinamide
+T101	PROC 3777 3808	scanner crânio-abdomino-pelvien
+T102	ANAT 3785 3808	crânio-abdomino-pelvien
+T103	PROC 3823 3838	anticoagulation
+T104	DISO 3859 3915	tumeur kystique anévrysmale polyploïde hypervascularisée
+T106	Localization 4045 4056	superficiel
+T107	ANAT 4095 4143	structures tubulaires exocrâniennes asymétriques

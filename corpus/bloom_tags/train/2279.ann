@@ -1,0 +1,16 @@
+T1	LIVB 3 9	garçon
+T2	TEMP 17 22	5 ans
+T3	DISO 40 70	traumatisme crânien ischémique
+T4	LIVB 89 92	son
+T5	DISO 101 121	détresse métabolique
+T6	TEMP 131 147	depuis 48 heures
+T7	DISO 169 185	troubles visuels
+T8	DISO 196 229	symptômes neuro-vasculo-intensifs
+T9	PROC 282 365	ponction veineuse périphérique céphalo-métacéphalique inféro-supra-lunaire explorée
+T11	PROC 366 369	PVD
+T12	PROC 374 410	examen ophtalmologique préopératoire
+T13	MEAS 488 493	1/10°
+T14	MEAS 605 620	cinquième degré
+T15	MEAS 626 631	3/10°
+T16	DISO 647 694	désorientation temporospatiale sensitivomotrice
+T17	DISO 712 747	neurolepsie congénitale lésionnelle

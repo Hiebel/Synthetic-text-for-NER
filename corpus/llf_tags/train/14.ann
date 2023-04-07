@@ -1,0 +1,28 @@
+T1	LIVB 15 22	patient
+T2	DISO 55 75	douleurs abdominales
+T3	ANAT 64 75	abdominales
+T4	DISO 85 108	impotence fonctionnelle
+T5	MEAS 109 118	partielle
+T6	PROC 122 137	examen clinique
+T7	DISO 147 161	particularités
+T8	PROC 168 185	tomodensitométrie
+T9	DISO 201 243	processus lésionnel du foie fémoral droite
+T10	ANAT 224 243	foie fémoral droite
+T11	Localization 237 243	droite
+T12	MEAS 253 257	6 cm
+T13	Concept_Idea 261 270	grand axe
+T14	MEAS 279 283	9 cm
+T15	Concept_Idea 287 296	petit axe
+T16	MEAS 333 340	simples
+T17	PROC 345 372	bilan radiologique standard
+T18	DEVI 396 409	lampe à fente
+T19	DISO 429 437	anomalie
+T20	PROC 451 476	scanner thoraco-abdominal
+T21	ANAT 459 476	thoraco-abdominal
+T22	Concept_Idea 486 514	résultats anatomopathologies
+T23	MEAS 529 537	négatifs
+T24	PROC 542 575	traitement palliatif conservateur
+T25	CHEM 577 596	corticoïde citronné
+T26	CHEM 599 611	antibiotique
+T27	LIVB 658 665	patient
+T28	Concept_Idea 683 709	activités professionnelles

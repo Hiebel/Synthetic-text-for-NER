@@ -1,0 +1,17 @@
+T1	LIVB 16 24	patiente
+T2	TEMP 106 112	19 ans
+T3	PROC 120 129	consultée
+T4	MEAS 139 140	7
+T5	LIVB 141 148	enfants
+T6	DISO 171 190	contage tuberculeux
+T7	Concept_Idea 221 236	plan anatomique
+T8	Concept_Idea 247 266	cadre socio-médical
+T9	PHEN 289 307	mariage consanguin
+T10	LIVB 463 470	famille
+T11	DOSE 559 566	2l/jour
+T12	DOSE 570 589	1 litre /jr liquide
+T13	DEVI 629 645	souche hydatique
+T14	TEMP 851 873	15 semaines auparavant
+T15	PROC 896 915	bilan préopératoire
+T16	TEMP 994 1003	48 heures
+T18	TEMP 1167 1173	18 ans

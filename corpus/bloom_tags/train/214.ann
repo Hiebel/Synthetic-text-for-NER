@@ -1,0 +1,36 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	10 ans
+T3	PROC 57 62	admis
+T4	Hospital 67 88	urgences pédiatriques
+T5	Hospital 93 131	Cliniques Universitaires of Lubumbashi
+T6	DISO 163 177	ictère fébrile
+T7	PROC 192 206	interrogatoire
+T8	DISO 232 251	traumatisme crânien
+T9	LIVB 271 281	nouveau-né
+T10	PHEN 284 294	apparition
+T11	MEAS 295 302	brutale
+T12	PROC 309 330	examens somatomoteurs
+T13	MEAS 353 360	normaux
+T14	PROC 374 401	tomodensitométrie cérébrale
+T15	ANAT 392 401	cérébrale
+T16	PROC 416 435	anesthésie générale
+T17	PROC 442 469	stabilisation hémodynamique
+T18	DISO 488 541	lésion tissulaire hyper-vascularisée hypo-intenseante
+T19	MEAS 597 602	12 cm
+T20	Concept_Idea 606 615	grand axe
+T22	Localization 670 682	face externe
+T23	DISO 707 736	processus kystique nécrasique
+T24	LIVB 802 805	Son
+T25	PROC 806 825	traitement adjuvant
+T26	CHEM 836 852	Cyclophosphamide
+T27	CHEM 855 869	Ciprofloxacine
+T28	CHEM 872 884	Pyrazinamide
+T29	CHEM 886 903	Chlorprogesterone
+T30	CHEM 906 925	Valproate de sodium
+T31	CHEM 928 942	Edexaméthasone
+T32	CHEM 944 958	hydrocortisone
+T33	PROC 964 1007	curage ganglionnaire axillaire locorégional
+T34	ANAT 971 1007	ganglionnaire axillaire locorégional
+T35	MEAS 1021 1032	déficitaire
+T36	DEVI 1087 1095	matériel
+T37	PROC 1120 1129	chirurgie

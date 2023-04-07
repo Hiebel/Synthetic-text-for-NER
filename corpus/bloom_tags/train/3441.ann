@@ -1,0 +1,71 @@
+T1	LIVB 29 34	femme
+T2	PROC 60 68	adressée
+T3	Hospital 76 123	unité de chirurgie thoracique interventionnelle
+T4	CHEM 124 127	TUI
+T5	DISO 178 203	épigastralgies chroniques
+T6	DISO 217 255	syndrome d'épanchement intrapéritonéal
+T7	ANAT 240 255	intrapéritonéal
+T8	LIVB 293 301	patiente
+T9	DISO 319 326	diabète
+T10	DISO 333 352	carcinose ovarienne
+T12	PROC 367 400	curage ganglionnaire intra-utérin
+T13	ANAT 374 400	ganglionnaire intra-utérin
+T14	PROC 420 444	scanner abdomino-pelvien
+T15	ANAT 428 444	abdomino-pelvien
+T16	DISO 462 488	masse tissulaire hypodense
+T17	MEAS 497 501	1 cm
+T18	DISO 517 636	lésion hypoechogéne hétérogène latéro-latérale gynésico-thoracique basithoracique homolatérale humérale droite prolabée
+T19	Localization 599 2780	homolatérale humérale droite prolabée d'aspect hétérogène mesurant 6cm de grand axe occupant presque tout le sinus péribuccolyso-gastrocnémien ainsi qu'une anomalie tumorale kystique anévrismateuse rétroceptivante d'allure kystique ayant fait suspecter fortement sa nature chondromateuse devant son contours régulière non vascularisée après dopamine marquage alors que l'absence de signes cliniques associés notamment pas de sensibilité hypogastrique étaient évocateurs dans ce contexte même si certains éléments avaient permis leur écartation : il s´avait qu´on pouvait être amené à réaliser cet enquête endoscopique lorsqu´on ne savait pas très bien c´où ces malformations congénitales apparaissaient cliniquement décrits mais revenaient aussi parfois spontanément évoqués surtout quand elles sont devenues plus fréquentes qu'autrefois puisqu'elles ont commencé à se répandre d'autant plus souvent qu'aux nouveaux vaccins antituberculeux instaurés antérieurement ;
+Une endoscopie œsophagienne intestinale s'était révélée normale vu qu'il n'existait pas de fistule grêlo-cæcale extirpable malgré toutes les manœuvres d'immobilisation disponibles permettant d'exclure toute autre raison pouvant faire suspecter d'autres causes sous jacentes telles qu'un métastases parathyroïdiennes ou autres complications thromboembolisantes récidivantes post radiothérapie locale adjuvante type Furosémide angioplastie trans-vésicale intrarectale dont l'origine est encore discutée entre tous les médecins anesthésistes-réanimateurs présents; d'autre part on n'avait pas retrouvé d'antécédents personnels ou familiaux d'accident ischémique cardiovasculaires hypertrophié stade III selon la classification de Takayasu-Waaler 2 3. Les recherche préopératoires n'avaient pas pu être réalisés faute de moyen financier étant donné l'impossibilité socioéconomique d'aggravation de la détresse digestive liée à l'apparition d'évolutifs vomissements alimentaires depuis l'âge de 2ans. La réalisation d'un bilan étiologique des douleurs pelviennes a été réalisée par un scanner abdomino-pelvien qui avait mis en évidence une lésion hypo-échogène tissulaire hypodense du flanc péritonéal latéro-myomettant
+T20	Concept_Idea 639 645	aspect
+T21	MEAS 646 656	hétérogène
+T22	MEAS 666 669	6cm
+T23	Concept_Idea 673 682	grand axe
+T24	ANAT 708 741	sinus péribuccolyso-gastrocnémien
+T25	DISO 755 812	anomalie tumorale kystique anévrismateuse rétroceptivante
+T26	DISO 822 830	kystique
+T27	DISO 872 886	chondromateuse
+T28	Concept_Idea 898 906	contours
+T29	MEAS 907 916	régulière
+T30	DISO 921 933	vascularisée
+T31	PROC 940 957	dopamine marquage
+T32	DISO 981 997	signes cliniques
+T33	DISO 1024 1049	sensibilité hypogastrique
+T34	ANAT 1036 1049	hypogastrique
+T35	PROC 1196 1216	enquête endoscopique
+T36	DISO 1260 1286	malformations congénitales
+T37	MEAS 1408 1423	plus fréquentes
+T38	PROC 1570 1605	endoscopie œsophagienne intestinale
+T39	ANAT 1581 1605	œsophagienne intestinale
+T40	MEAS 1622 1629	normale
+T41	DISO 1657 1677	fistule grêlo-cæcale
+T42	ANAT 1665 1677	grêlo-cæcale
+T43	DISO 1853 1881	métastases parathyroïdiennes
+T44	ANAT 1864 1881	parathyroïdiennes
+T45	DISO 1892 1925	complications thromboembolisantes
+T46	PROC 1944 1974	radiothérapie locale adjuvante
+T47	PROC 1980 2031	Furosémide angioplastie trans-vésicale intrarectale
+T48	LIVB 2082 2117	médecins anesthésistes-réanimateurs
+T49	ANAT 2225 2242	cardiovasculaires
+T50	PROC 2318 2342	recherche préopératoires
+T52	DISO 2463 2481	détresse digestive
+T53	PHEN 2472 2481	digestive
+T54	DISO 2514 2539	vomissements alimentaires
+T55	TEMP 2556 2560	2ans
+T57	DISO 2604 2623	douleurs pelviennes
+T58	ANAT 2613 2623	pelviennes
+T59	PROC 2646 2670	scanner abdomino-pelvien
+T60	ANAT 2654 2670	abdomino-pelvien
+T61	DISO 2701 2780	lésion hypo-échogène tissulaire hypodense du flanc péritonéal latéro-myomettant
+T63	MEAS 2790 2794	3 cm
+T64	MEAS 2799 2803	6 cm
+T65	DISO 2810 2837	épanchement intrapéritonéal
+T66	ANAT 2822 2837	intrapéritonéal
+T67	DISO 2843 2882	adénopathies cervico-dorsorso-latérales
+T68	ANAT 2856 2882	cervico-dorsorso-latérales
+T69	PROC 2886 2912	examen anatomopathologique
+T70	PROC 2916 2935	immunohistochimique
+T71	PROC 2937 2940	IHC
+T72	DISO 2963 2985	neuroendocrine tumoral
+T73	ANAT 3013 3025	ovaire droit
+T74	Localization 3020 3025	droit

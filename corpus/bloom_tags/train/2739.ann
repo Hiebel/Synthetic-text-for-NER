@@ -1,0 +1,36 @@
+T1	LIVB 16 24	patiente
+T2	DISO 69 100	hypochondre droit hypertrophiée
+T3	Localization 81 86	droit
+T4	CHEM 115 135	produit de contraste
+T6	ANAT 160 210	parenchyme hépato-ganglionnaire cervico-thoracique
+T7	PROC 217 235	mastodynatoplastie
+T8	PROC 241 255	interrogatoire
+T9	LIVB 259 267	patiente
+T10	DISO 283 311	douleurs abdomino-pelviennes
+T11	ANAT 292 311	abdomino-pelviennes
+T12	TEMP 328 341	depuis 3 mois
+T13	DISO 363 393	ictère généralisé prurigineuse
+T14	PROC 398 434	tomodensitométrie abdomino-pelvienne
+T15	ANAT 416 434	abdomino-pelvienne
+T16	DISO 455 481	masse tissulaire hypodense
+T17	MEAS 483 494	volumineuse
+T18	MEAS 504 507	2cm
+T19	MEAS 512 516	3 cm
+T20	ANAT 532 583	muscle psoas scapulo-claviculaire latéro-scapulaire
+T21	ANAT 604 638	fosse lombaire homolatérale gauche
+T22	Localization 619 638	homolatérale gauche
+T23	Concept_Idea 652 658	taille
+T24	PHEN 677 695	suites opératoires
+T25	DISO 709 718	anomalies
+T26	PROC 733 754	échographie pelvienne
+T27	ANAT 745 754	pelvienne
+T29	Localization 874 879	supra
+T30	DISO 928 943	sténose caecale
+T31	ANAT 936 943	caecale
+T32	DISO 954 962	kystique
+T33	DISO 966 990	nécrose kystique maligne
+T34	DISO 1048 1070	hémopéritoine pariétal
+T35	MEAS 1080 1094	plus fréquente
+T36	DISO 1147 1175	complications gynécologiques
+T37	DISO 1195 1205	biphasique
+T38	LIVB 1315 1321	enfant

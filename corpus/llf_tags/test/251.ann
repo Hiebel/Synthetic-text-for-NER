@@ -1,0 +1,83 @@
+T1	LIVB 3 6	H.F
+T2	PHEN 53 62	grossesse
+T3	PROC 67 73	suivie
+T4	CHEM 93 103	corticoïde
+T5	DOSE 105 111	400 mg
+T6	TEMP 111 113	/j
+T7	LIVB 129 131	il
+T8	PROC 150 182	tomodensimonectomie exploratrice
+T9	PROC 188 239	anastomose thyréotaxo-mandibulaire moyenne bilatale
+T11	Localization 231 239	bilatale
+T12	ANAT 259 280	veine cave supérieure
+T14	ANAT 295 347	vaisseaux mésentériques sous hépatiques superficiels
+T15	Localization 319 323	sous
+T16	PROC 371 380	transfert
+T17	Hospital 385 416	urgences traumato-orthopédiques
+T18	DISO 436 450	déshydratation
+T19	DISO 466 481	perte pondérale
+T20	MEAS 492 509	1200 gramme /jour
+T21	PROC 513 531	examen obstétrique
+T22	DISO 550 567	signes infectieux
+T23	DISO 594 616	contracture abdominale
+T24	ANAT 606 616	abdominale
+T25	DISO 620 664	des anses grêles cervicales fœtales distales
+T26	ANAT 624 664	anses grêles cervicales fœtales distales
+T27	Concept_Idea 677 697	aspect morphologique
+T28	DISO 714 753	méningo-encéphalite herniaire primitive
+T29	PROC 760 780	reprise chirurgicale
+T30	TEMP 798 822	6ème jour postopératoire
+T32	CHEM 872 922	aminosides méthoxylésidase alcalinolaryngènéphrine
+T33	PROC 936 958	traitement substitutif
+T34	CHEM 970 996	amoxicilline acide folique
+T35	CHEM 999 1013	gentaméthasone
+T36	CHEM 1016 1038	acide acétyle salicylé
+T37	CHEM 1041 1051	isoniazide
+T39	PROC 1101 1123	contrôle échographique
+T40	DISO 1142 1162	trouble neurologique
+T41	LIVB 1206 1216	nouveau-né
+T42	PROC 1221 1248	numération formule sanguine
+T43	DISO 1270 1286	hyperleucocytose
+T44	MEAS 1289 1319	13700 éléments par millilitres
+T45	MEAS 1325 1343	14 fois la normale
+T46	PROC 1348 1381	auscultation crânio-oesophagienne
+T47	ANAT 1361 1381	crânio-oesophagienne
+T48	DISO 1406 1428	polypnée biquotidienne
+T49	TEMP 1466 1476	par minute
+T50	DISO 1517 1564	distension temporo-clavière abdomino-céphalique
+T51	ANAT 1528 1564	temporo-clavière abdomino-céphalique
+T52	MEAS 1576 1583	120 cpm
+T53	DISO 1720 1744	lombalgie hypokaliémique
+T54	DISO 1766 1784	symptômes grippaux
+T55	DISO 1822 1843	lésions prurigineuses
+T56	ANAT 1904 1925	ventricule postérieur
+T57	Localization 1915 1925	postérieur
+T58	DISO 1949 1961	tuberculeuse
+T59	DISO 1967 1976	symptômes
+T60	TEMP 1988 2011	quelques jours plus tôt
+T61	PROC 2025 2045	consultation externe
+T62	DISO 2143 2164	anomalies vasculaires
+T63	Concept_Idea 2187 2213	caractéristiques cliniques
+T64	PROC 2231 2253	examens gynécologiques
+T65	DISO 2300 2324	infections tuberculeuses
+T66	DISO 2330 2353	synovites hémorragiques
+T67	DISO 2368 2401	adénopathies jugulo-carotidiennes
+T68	ANAT 2381 2401	jugulo-carotidiennes
+T69	DISO 2424 2455	pseudo syndrome polymalformatif
+T70	PROC 2501 2516	examen clinique
+T71	PROC 2528 2547	bilan préopératoire
+T72	PROC 2553 2574	biopsie scanno-guidée
+T73	DISO 2610 2619	métastase
+T74	Concept_Idea 2659 2687	résultat anatomopathologique
+T75	PROC 2760 2782	traitement chirurgical
+T78	MEAS 3152 3161	favorable
+T79	PROC 3192 3235	anticoagulation médicamenteuse substitutive
+T80	PROC 3249 3277	antibiothérapie probabiliste
+T81	CHEM 3296 3325	ciprofloxacine hydrocortisone
+T82	DOSE 3326 3331	25 mg
+T83	MODE 3333 3340	inhalés
+T84	PROC 3361 3415	kinésithérapie antibiotique intraveineuse courte durée
+T86	PROC 3517 3562	méthotrexate aminotransfuséne conjuguée orale
+T87	PROC 3574 3593	remplissage sanguin
+T88	ANAT 3586 3593	sanguin
+T89	MEAS 3607 3613	normal
+T90	PROC 3643 3730	stérnotaplasie multiphospholipidique parentérale monohydrostatique rétrogradermidisable

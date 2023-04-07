@@ -1,0 +1,30 @@
+T1	LIVB 20 25	fille
+T2	TEMP 34 39	9 ans
+T3	PHEN 114 126	accouchement
+T4	LIVB 144 147	son
+T5	LIVB 148 152	père
+T6	LIVB 239 243	elle
+T7	PROC 255 267	hospitalisée
+T8	Hospital 272 300	soins intensifs pédiatriques
+T9	LIVB 311 317	malade
+T10	Concept_Idea 337 353	consignes vitaux
+T11	PROC 384 393	admission
+T12	PROC 399 423	échographie obstétricale
+T13	PROC 442 464	consultation prénatale
+T14	MEAS 506 510	5 cm
+T15	MEAS 513 516	1cm
+T16	MEAS 545 558	4 centimètres
+T17	MEAS 561 564	2cm
+T18	MEAS 588 602	21×12 ° × 15mm
+T19	MEAS 611 616	16 mm
+T20	MEAS 622 630	6/10 ème
+T21	MEAS 640 653	8 millimètres
+T22	MEAS 689 696	simples
+T23	TEMP 706 718	juillet 2014
+T24	LIVB 745 747	sa
+T25	LIVB 748 761	belle-famille
+T26	PROC 772 782	transfusée
+T27	Concept_Idea 794 814	aspect morphologique
+T28	DISO 831 860	maladie néonatale congénitale
+T29	PROC 869 908	prise en charge médicale complémentaire
+T30	PROC 949 971	traitement substitutif

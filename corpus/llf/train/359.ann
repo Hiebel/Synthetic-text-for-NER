@@ -1,0 +1,15 @@
+T1	PROC 3 12	recherche
+T2	DISO 16 18	BK
+T3	ANAT 28 36	crachats
+T4	ANAT 42 47	urine
+T5	MEAS 54 62	négative
+T6	DISO 80 94	abcès
+T7	ANAT 86 94	urinaire
+T8	DISO 111 164	kyste
+T9	ANAT 131 164	voies
+T10	DISO 166 169	FAD
+T11	Concept_Idea 196 218	nature
+T12	PROC 222 239	KIHCG
+T13	ANAT 228 239	plasmatique
+T14	PROC 263 275	cliniquement
+T15	PROC 279 295	radiologiquement

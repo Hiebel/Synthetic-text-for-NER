@@ -1,0 +1,87 @@
+T1	PROC 4 21	tomodensitométrie
+T2	PROC 23 38	TDM) abdominale
+T3	ANAT 28 38	abdominale
+T4	DISO 55 71	masse tissulaire
+T5	ANAT 88 115	région sous clavière gauche
+T6	Localization 109 115	gauche
+T7	MEAS 126 130	9 cm
+T8	Concept_Idea 134 142	diamètre
+T9	LIVB 147 155	patiente
+T10	PROC 172 193	traitement antalgique
+T11	CHEM 183 193	antalgique
+T12	DOSE 206 209	3 g
+T13	TEMP 209 214	/24 h
+T14	PROC 235 263	antibiothérapie probabiliste
+T15	MODE 268 286	voie intraveineuse
+T16	PROC 301 333	lavage broncho-alvéolaire direct
+T18	CHEM 342 365	sérum salé hypertonique
+T19	CHEM 373 395	concentrés globulaires
+T20	MEAS 437 444	simples
+T21	DISO 450 470	récidive douloureuse
+T22	DISO 481 498	signes infectieux
+T23	PROC 502 528	examen anatomopathologique
+T24	DISO 556 581	neurofibromatopéricardite
+T25	DISO 591 614	localisation secondaire
+T26	ANAT 623 649	pédicule vésico-ombilicale
+T27	PROC 653 678	étude immunohistochimique
+T28	DISO 706 800	synovialosarcome sarcomateux carcinomateux myxoide mononucleaire kératinocellulaire infiltrant
+T29	ANAT 828 845	vésicule biliaire
+T30	ANAT 859 897	anses intestinales crico-hémorragiques
+T31	PROC 913 945	scanner thoraco abdomino-pelvien
+T32	ANAT 921 945	thoraco abdomino-pelvien
+T33	PROC 960 981	contrôle locorégional
+T34	DISO 1001 1023	anomalie morphologique
+T35	DISO 1057 1087	prolifération tumorale maligne
+T36	PROC 1092 1151	bloc axillaire rétropéritonéal complémentaire scanno-guidée
+T37	DISO 1178 1198	lésions néoplasiques
+T38	ANAT 1215 1243	ganglions thoraciques rénaux
+T39	ANAT 1257 1293	vaisseaux mésentériques superficiels
+T40	ANAT 1385 1421	structures ganglionnaires gastriques
+T41	PROC 1477 1505	prise en charge chirurgicale
+T42	LIVB 1532 1538	enfant
+T43	TEMP 1546 1552	10 ans
+T44	LIVB 1593 1595	sa
+T45	LIVB 1596 1606	belle-mère
+T46	LIVB 1610 1613	son
+T47	LIVB 1614 1633	grand-père maternel
+T48	PHEN 1681 1690	grossesse
+T49	MEAS 1700 1708	5×1,50 m
+T50	Concept_Idea 1718 1735	périmètre crânien
+T51	ANAT 1728 1735	crânien
+T52	MEAS 1741 1758	2 fois la normale
+T53	PROC 1797 1845	laparotomie bipariétale segmentaire endoscopique
+T54	ANAT 1865 1871	vessie
+T55	ANAT 1895 1923	annexes hépatiques fundiques
+T56	DEVI 1931 1952	surface anastomotique
+T58	DISO 2638 2662	symptomatologie clinique
+T59	DISO 2685 2772	dilatation des plexus veineux pariéto-rétromamelonnaire du nerf laryngé inférieur droit
+T61	ANAT 2744 2772	nerf laryngé inférieur droit
+T62	Localization 2767 2772	droit
+T66	ANAT 2916 2945	nerf laryngé supérieur gauche
+T67	Localization 2939 2945	gauche
+T68	MEAS 2978 2985	simples
+T69	DISO 2991 3018	détresse respiratoire aiguë
+T70	DISO 3022 3028	fièvre
+T71	PROC 3041 3065	examen histopathologique
+T72	DISO 3084 3106	syndrome inflammatoire
+T73	DISO 3116 3130	résidu tumoral
+T74	PROC 3144 3169	étude anatomopathologique
+T75	DISO 3191 3239	léiomyome à cellules chromophobes hypochromiques
+T76	PROC 3250 3280	complément immunohistochimique
+T77	TEMP 3300 3310	3 semaines
+T78	DISO 3329 3359	métastase pathogène secondaire
+T79	LIVB 3392 3400	patiente
+T80	DISO 3419 3437	tumeur éosinophile
+T81	MEAS 3446 3455	stade III
+T82	MEAS 3588 3592	7 cm
+T83	MEAS 3595 3599	6 cm
+T84	MEAS 3602 3606	8 cm
+T85	DISO 3661 3695	proliférations leucocytoplasmiques
+T86	PROC 3736 3764	investigations radiologiques
+T87	DISO 3772 3806	anomalie morphologique infectieuse
+T88	DISO 3931 3959	hybride néoplasique monobloc
+T89	PROC 3982 4013	reprise thérapeutique adjuvante
+T90	DISO 4096 4124	signe infectieux polymorphes
+T91	DISO 4159 4186	déformations hématologiques
+T92	PROC 4226 4259	scanner abdomino-pelvien standard
+T93	ANAT 4234 4259	abdomino-pelvien standard

@@ -1,0 +1,15 @@
+T1	LIVB 3 13	nourrisson
+T2	PROC 41 50	transfusé
+T3	PROC 82 107	injection intramusculaire
+T4	PROC 135 157	technique endovaginale
+T5	PROC 163 189	laryngoscopie obstétricale
+T6	PROC 204 236	mastectomie cervicale percutanée
+T7	DISO 266 289	trouble trophoblastique
+T8	DISO 305 323	signe histologique
+T9	PROC 337 364	examen anatomopathologiaque
+T10	DISO 381 419	lésions cutanéomuqueuses prurigineuses
+T12	Localization 524 538	partie distale
+T13	DISO 574 608	déformation tissulaire liquidienne
+T14	DISO 632 650	lésions infiltrées
+T15	PROC 685 696	extirpation
+T16	ANAT 795 836	muqueuse buccale postéro-médiale fessière

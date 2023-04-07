@@ -1,0 +1,73 @@
+T1	PROC 3 13	traitement
+T2	PROC 32 55	radiothérapie adjuvante
+T3	Concept_Idea 61 65	dose
+T4	DOSE 69 73	30Gy
+T5	DISO 124 133	dysphagie
+T6	DISO 140 154	amaigrissement
+T7	MEAS 165 169	35kg
+T8	DISO 183 209	signes neuropsychiatriques
+T9	DISO 213 232	troubles trophiques
+T10	DISO 250 257	cyanose
+T11	DISO 267 281	déficit moteur
+T12	MEAS 314 321	simples
+T13	PHEN 345 362	fonctions vitales
+T14	MEAS 375 383	normales
+T15	LIVB 388 396	patiente
+T16	PROC 401 407	suivie
+T17	LIVB 413 418	notre
+T18	Hospital 419 426	service
+T19	PROC 432 453	consultation médicale
+T20	DISO 463 485	symptômes psychotiques
+T21	LIVB 518 534	médecin traitant
+T22	DISO 566 581	psychomotricien
+T23	LIVB 629 637	Patients
+T24	LIVB 666 668	il
+T25	LIVB 705 721	psycho-éducateur
+T26	LIVB 994 996	il
+T27	TEMP 1090 1105	Quatre semaines
+T28	PROC 1129 1154	préparation psychiatrique
+T29	LIVB 1220 1230	Monsieur B
+T30	LIVB 1267 1269	sa
+T31	LIVB 1270 1274	sœur
+T32	TEMP 1283 1291	sept ans
+T33	LIVB 1324 1327	son
+T34	LIVB 1328 1334	enfant
+T35	DISO 1345 1362	crises délirantes
+T36	LIVB 1651 1661	nouveau-né
+T37	TEMP 1669 1677	dix mois
+T38	PROC 1682 1691	transfusé
+T39	ANAT 1735 1762	conceptions obsessionnelles
+T40	DEVI 1962 1975	pince plâtrée
+T41	ANAT 1999 2013	crête ovalaire
+T42	CHEM 2033 2051	bronchodilatateurs
+T43	DISO 2131 2158	manifestations délictueuses
+T44	LIVB 2326 2334	Madame H
+T45	LIVB 2386 2391	leurs
+T46	LIVB 2392 2411	collègues maternels
+T47	Concept_Idea 2658 2670	état général
+T48	LIVB 3592 3599	patient
+T49	MEAS 3641 3649	deuxième
+T50	PHEN 3650 3671	grossesse monofoetale
+T51	PROC 3676 3682	suivie
+T52	DISO 3702 3736	symptômes vaginaux dysfonctionnels
+T53	DISO 3803 3812	anomalies
+T54	DISO 3830 3839	dysphagie
+T55	DISO 3846 3858	métrorragies
+T56	LIVB 3873 3875	il
+T57	Hospital 3897 3918	urgences pédiatriques
+T58	PROC 3931 3938	adressé
+T59	Hospital 3942 3967	Centre Neuropsychiatrique
+T60	Hospital 3969 3980	psychiatrie
+T61	PROC 3985 3999	interrogatoire
+T62	LIVB 4024 4034	adolescent
+T63	DISO 4078 4105	crises érythémato-vaginales
+T64	TEMP 4205 4220	quatre semaines
+T65	DISO 4250 4269	troubles trophiques
+T66	PROC 4287 4302	hospitalisation
+T67	TEMP 4315 4324	deux mois
+T68	DISO 4364 4400	crise convulsive psychomotrice aiguë
+T69	LIVB 4419 4422	son
+T70	LIVB 4423 4429	épouse
+T71	PROC 4454 4488	examen neuropsychiatrique standard
+T72	LIVB 4534 4552	médecin psychiatre
+T73	DISO 4608 4623	maladie mentale

@@ -1,0 +1,65 @@
+T1	LIVB 11 22	jeune homme
+T2	TEMP 26 32	21 ans
+T3	DISO 39 64	antécédents pathologiques
+T4	MEAS 65 77	particuliers
+T5	PROC 83 94	hospitalisé
+T6	DISO 130 136	fièvre
+T7	MEAS 148 153	40 °c
+T8	DISO 169 207	syndrome d'épanchement intrapéritonéal
+T9	ANAT 192 207	intrapéritonéal
+T10	Concept_Idea 247 259	état général
+T11	CHEM 285 316	Amoxicilline-acido clavulanique
+T12	CHEM 319 336	Céphalosérolamide
+T13	CHEM 338 351	Métronidazole
+T14	MODE 353 371	voie intraveineuse
+T15	DEVI 408 450	sonde oeso-gastroduodénal transoesophagien
+T17	DISO 511 545	maladie clinico-radiothérapeutique
+T18	PROC 566 590	chimiothérapie adjuvante
+T19	CHEM 616 629	dexaméthasone
+T20	CHEM 631 642	flufentanil
+T21	CHEM 645 659	hydrocortisone
+T22	DOSE 674 683	200 µg/m²
+T23	TEMP 684 701	pendant 24 heures
+T24	PROC 713 734	remplissage liquidien
+T25	DOSE 744 751	2000 ml
+T26	PROC 859 874	examen clinique
+T27	LIVB 885 892	patient
+T28	MEAS 896 899	bon
+T29	Concept_Idea 900 912	état général
+T30	PHEN 922 938	râles crépitants
+T32	TEMP 983 1000	depuis deux jours
+T33	LIVB 1002 1004	Il
+T34	PROC 1011 1020	transféré
+T35	Hospital 1025 1033	urgences
+T36	DISO 1052 1074	hémiplégie monoclonale
+T37	DISO 1104 1139	symptomatologie neuropsychiatriques
+T38	PROC 1146 1177	échographie abdomino- pelvienne
+T39	ANAT 1158 1177	abdomino- pelvienne
+T40	PROC 1201 1223	diagnostic étiologique
+T41	DISO 1229 1242	œdème pelvien
+T42	ANAT 1235 1242	pelvien
+T43	PROC 1257 1287	TDM thoraco-abdomino-pelvienne
+T44	ANAT 1261 1287	thoraco-abdomino-pelvienne
+T45	DISO 1308 1374	masse tissulaire polylobée latéro utérine péritissulaire hypodense
+T46	MEAS 1383 1387	2 cm
+T47	Concept_Idea 1391 1400	grand axe
+T48	ANAT 1416 1444	parties molles épigastriques
+T49	MEAS 1454 1459	18 mm
+T50	Concept_Idea 1463 1472	grand axe
+T51	Localization 1474 1483	au dessus
+T52	ANAT 1490 1517	limite iléo-caecale rectale
+T53	PROC 1538 1567	ponction liquide exploratoire
+T54	ANAT 1547 1567	liquide exploratoire
+T55	LIVB 1586 1594	patiente
+T56	DISO 1652 1661	anomalies
+T57	DISO 1679 1704	masse tumorale hétérogène
+T58	ANAT 1725 1742	greffon iléocæcal
+T59	PROC 1822 1842	examen gynécologique
+T60	DISO 1870 1884	particularités
+T61	DISO 1908 1934	adénopathies hypo-intenses
+T62	DISO 1967 1996	saignements cyto-nucléolaires
+T63	PROC 2028 2046	ionogramme sanguin
+T64	ANAT 2039 2046	sanguin
+T65	MEAS 2098 2110	0,7 meq/mmol
+T66	DISO 2140 2170	troubles hydro-électrolytiques
+T67	PROC 2274 2294	traitements curatifs

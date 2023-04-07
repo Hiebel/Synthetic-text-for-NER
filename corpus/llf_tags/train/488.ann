@@ -1,0 +1,90 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 66	antécédents pathologiques
+T3	MEAS 67 79	particuliers
+T4	PROC 90 101	hospitalisé
+T5	DISO 111 141	douleurs pelviennes chroniques
+T6	ANAT 120 130	pelviennes
+T7	TEMP 151 171	depuis deux semaines
+T8	PROC 177 186	admission
+T9	LIVB 191 199	patiente
+T10	Concept_Idea 220 238	plan hémodynamique
+T11	PHEN 242 254	respiratoire
+T12	PROC 264 279	examen clinique
+T13	DISO 284 290	fièvre
+T14	MEAS 293 299	39 ° C
+T15	DISO 314 330	syndrome grippal
+T16	CHEM 352 365	antibiotiques
+T17	DISO 378 392	amaigrissement
+T18	MEAS 402 406	17kg
+T19	TEMP 410 416	1 mois
+T20	PROC 420 431	échographie
+T21	DISO 452 482	masse tissulaire du rein droit
+T22	ANAT 472 482	rein droit
+T23	Localization 477 482	droit
+T24	MEAS 492 496	2 cm
+T25	Concept_Idea 500 508	diamètre
+T26	MEAS 517 521	6 cm
+T27	Concept_Idea 525 534	grand axe
+T28	DEVI 566 584	microscope optique
+T29	PROC 594 642	technique MERCURITY FIBRIGHT/STM Doppler couleur
+T30	PROC 657 676	sérologie hydatique
+T31	DISO 743 766	pancréatite infectieuse
+T32	DISO 782 801	symptôme infectieux
+T33	Concept_Idea 814 833	aspect histologique
+T34	PROC 863 882	traitement adjuvant
+T35	PROC 884 911	corticoïdexie préopératoire
+T36	PROC 925 965	cholécystectomie percutanée exploratrice
+T37	PROC 1003 1067	anastomose nasopharyngo-trachéale gastroduodénale postopératoire
+T39	ANAT 1087 1103	muqueuse buccale
+T40	ANAT 1130 1151	septum intervertébral
+T41	MEAS 1184 1191	simples
+T42	PROC 1197 1214	bilan étiologique
+T43	Hospital 1227 1248	urgences pédiatriques
+T44	PROC 1263 1282	hémoglobine glyquée
+T45	MEAS 1285 1292	0,4g/dl
+T46	PROC 1298 1313	globules blancs
+T47	MEAS 1316 1325	1550 UI/L
+T48	PROC 1331 1346	myélopéroxydase
+T49	MEAS 1349 1361	510 000 UI/L
+T51	LIVB 1418 1425	enfants
+T52	PROC 1439 1476	transfusion intraveineuse parentérale
+T53	PROC 1550 1568	séances de dialyse
+T54	PROC 1600 1634	oxygénothérapie néoprostatechnique
+T55	PROC 1666 1727	néphrectomie totale axillaire antalgique endotrachéotalytique
+T57	PROC 1851 1866	coronarographie
+T58	PROC 1885 1952	neurofibroscopie conformationnelle rétro péritonéale per opératoire
+T59	PROC 1968 2040	hydrocortisone aldostérone achromocétosique biquadrimétrique fractionnée
+T60	PROC 2052 2076	contrôle scannographique
+T61	PROC 2155 2201	prise en charge neuroprothérapeutique standard
+T62	CHEM 2217 2267	cyclophosphamide sodique méthoxylésulfaméthoxazole
+T63	DISO 2795 2800	décès
+T64	TEMP 2821 2827	8 mois
+T65	PROC 2831 2836	suivi
+T66	PROC 2840 2855	examen clinique
+T67	Concept_Idea 2871 2883	état général
+T68	MEAS 2884 2892	conservé
+T69	ANAT 2902 2914	conjonctives
+T70	MEAS 2915 2936	légèrement décolorées
+T71	DISO 2942 2952	saignement
+T72	DISO 2963 2984	signes inflammatoires
+T73	PHEN 2998 3013	fonction rénale
+T74	ANAT 3007 3013	rénale
+T75	MEAS 3020 3025	bonne
+T76	DISO 3036 3064	symptomatologie obstétricale
+T77	PROC 3091 3107	bilan biologique
+T78	MEAS 3123 3129	normal
+T79	PROC 3142 3161	hémoglobine glyquée
+T80	PROC 3163 3165	Hb
+T81	MEAS 3182 3187	élevé
+T82	MEAS 3190 3198	2,9 g/dL
+T83	MEAS 3206 3213	0,3g/dL
+T84	Localization 3222 3252	plus proche voisine inférieure
+T85	PROC 3256 3265	lipasémie
+T86	PROC 3267 3296	glycémie normochrome cystique
+T87	PROC 3297 3299	GB
+T88	MEAS 3302 3311	1,7 pg/dl
+T89	PROC 3316 3337	bilan bactériologique
+T90	PROC 3339 3359	bilirubine conjuguée
+T91	PROC 3363 3378	cytomégalovirus
+T92	PROC 3417 3438	bilan microbiologique
+T93	PROC 3563 3582	examens biologiques

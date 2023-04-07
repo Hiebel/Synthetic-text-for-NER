@@ -1,0 +1,93 @@
+T1	MEAS 12 13	1
+T2	LIVB 19 24	femme
+T3	MEAS 72 84	particuliers
+T4	PROC 90 96	admise
+T5	Hospital 101 109	urgences
+T6	DISO 129 135	fièvre
+T7	TEMP 145 160	depuis 6 heures
+T8	PROC 164 179	examen clinique
+T9	LIVB 193 199	malade
+T10	DISO 200 211	polypneïque
+T11	DISO 216 227	douloureuse
+T12	DISO 231 241	tachycarde
+T13	PHEN 247 262	fonction rénale
+T14	ANAT 256 262	rénale
+T15	MEAS 269 276	normale
+T16	DISO 286 320	syndrome infectieux clinico-facial
+T17	ANAT 341 350	artériels
+T18	MEAS 371 383	perceptibles
+T19	PROC 410 449	antibioprophylaxie intraveineuse totale
+T20	DISO 542 563	distension abdominale
+T21	ANAT 553 563	abdominale
+T22	DISO 573 593	déficit neurologique
+T23	PROC 606 631	scanner thoraco-abdominal
+T24	ANAT 614 631	thoraco-abdominal
+T25	DISO 652 703	sensibilité pleuro-pulmonaire pariéto-oesophagienne
+T26	ANAT 664 703	pleuro-pulmonaire pariéto-oesophagienne
+T27	DISO 737 762	vascularite inflammatoire
+T28	DISO 768 779	tuberculose
+T29	LIVB 791 799	patiente
+T30	PROC 805 819	interrogatoire
+T31	LIVB 824 832	patiente
+T32	DISO 873 896	hallucinations tactiles
+T33	TEMP 910 937	quelques minutes auparavant
+T34	LIVB 947 951	elle
+T35	PROC 960 972	hospitalisée
+T36	DOSE 1015 1022	5mg /kg
+T37	PROC 1043 1063	consultation externe
+T38	PROC 1086 1109	corticoïde probabiliste
+T39	TEMP 1118 1122	j2 h
+T40	PROC 1128 1145	rachianesthésique
+T41	PROC 1161 1207	kinésithérapie respiratoire bêtalactèrioccique
+T42	PROC 1221 1242	ventilation mécanique
+T43	DISO 1276 1287	vomissement
+T44	PROC 1305 1316	échographie
+T45	DISO 1332 1383	collection tissulaire lobulée hypodense asymétrique
+T46	MEAS 1393 1398	20 mm
+T47	MEAS 1401 1406	14 mm
+T48	MEAS 1418 1423	10 cm
+T49	MEAS 1476 1482	libres
+T50	MEAS 1548 1553	40 mm
+T51	DEVI 1578 1627	annexes cutanées cervicothoraciques anastomotives
+T52	ANAT 1659 1679	vésicule articulaire
+T53	Concept_Idea 1694 1703	caractère
+T54	ANAT 1768 1804	placards érythrocytaires anténatales
+T55	MEAS 1830 1833	50%
+T56	MEAS 1837 1840	60%
+T57	Concept_Idea 1850 1887	complexes ostéotendineux métatarsiens
+T58	ANAT 1902 1923	paroi charnue caudale
+T59	MEAS 1933 1938	70 mm
+T60	MEAS 1941 1946	55 mm
+T61	ANAT 1964 2004	tissus conjonctifs fémoraux superficiels
+T62	DISO 2040 2080	remaniements kystiques périrénitentiques
+T63	DISO 2102 2129	lésions graisseux polylobés
+T64	ANAT 2147 2170	segment postéro-externe
+T65	DISO 2209 2244	métatarses épiphysaires achromiques
+T66	ANAT 2268 2297	structures osseuses du cotyle
+T67	DISO 2310 2357	infiltrat inflammatoire liquidien intrakystique
+T68	DISO 2379 2410	processus lésionnel néoplasique
+T69	PROC 2422 2447	étude immunohistochimique
+T70	CHEM 2487 2503	Actinetamivudine
+T71	CHEM 2505 2525	Valium physiologique
+T72	CHEM 2527 2537	Isoniazide
+T73	CHEM 2539 2560	Chlorure de potassium
+T74	PROC 2566 2582	bilan infectieux
+T75	MEAS 2589 2596	négatif
+T76	DISO 2614 2635	syndrome hémorragique
+T77	DISO 2642 2662	récidive bactérienne
+T78	LIVB 2667 2675	patiente
+T79	PROC 2713 2741	chimiothérapie néo adjuvante
+T80	CHEM 2757 2771	ciprofloxacine
+T81	CHEM 2777 2807	Pénicilline acide clavulanique
+T82	CHEM 2813 2834	Aspergillus fumigatus
+T84	MODE 2944 2966	intramusculaire direct
+T85	PROC 3003 3034	antibioprophylaxie concomitante
+T86	PROC 3052 3073	sutures chirurgicales
+T87	DISO 3097 3119	symptômes rhumatismaux
+T88	PROC 3135 3166	traitement martial conservateur
+T89	PROC 3176 3185	contrôles
+T90	PHEN 3267 3300	réponse thérapeutique infectieuse
+T91	PROC 3479 3509	ponction biopsie scanno-guidée
+T92	ANAT 3579 3583	peau
+T93	MEAS 3896 3909	6 centimètres
+T94	Concept_Idea 3913 3922	grossesse

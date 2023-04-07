@@ -1,0 +1,31 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	Localization 33 42	bilatéral
+T4	PHEN 59 76	signes menstruels
+T5	DISO 103 130	envahissement placovaginale
+T6	ANAT 117 130	placovaginale
+T7	DISO 143 172	symptômes gynéco-obstétricaux
+T8	TEMP 182 193	depuis 1 an
+T9	PROC 198 213	examen clinique
+T10	DISO 244 316	tuméfaction hypogastrique latéro-mamelonnaire rétro-sigmoïdienne bilobée
+T12	MEAS 355 366	progressive
+T13	MEAS 376 404	de plus en plus prurigineuse
+T14	MEAS 416 422	rapide
+T15	Concept_Idea 426 435	grand axe
+T16	DISO 475 497	syndrome inflammatoire
+T17	DISO 524 537	inflammatoire
+T18	DISO 571 588	souffrance fœtale
+T19	ANAT 582 588	fœtale
+T20	DISO 608 613	masse
+T21	DISO 620 642	troubles hémorragiques
+T22	Hospital 664 695	hôpital généralisé périphérique
+T23	PROC 709 744	sérologie virale d'immunodépression
+T24	MEAS 753 762	négatives
+T25	PROC 766 791	intervention chirurgicale
+T26	PROC 806 830	anesthésie locorégionale
+T27	DISO 844 878	masse tumorale kystique hétérogène
+T28	MEAS 887 892	18 cm
+T29	MEAS 895 900	13 cm
+T30	ANAT 924 941	utérus abdominale
+T31	Concept_Idea 961 974	forme globale
+T32	MEAS 975 986	volumineuse

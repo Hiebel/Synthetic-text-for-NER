@@ -1,0 +1,26 @@
+T1	LIVB 15 20	homme
+T2	Concept_Idea 37 68	antécédents médico-chirurgicaux
+T3	MEAS 69 81	particuliers
+T4	PROC 83 88	admis
+T5	Hospital 93 101	urgences
+T6	DISO 110 143	syndrome d'épanchement péritonéal
+T7	ANAT 133 143	péritonéal
+T8	PROC 147 171	exploration chirurgicale
+T9	DISO 185 205	masse du flanc droit
+T10	ANAT 194 205	flanc droit
+T11	Localization 200 205	droit
+T12	MEAS 215 220	13 cm
+T13	Concept_Idea 224 233	grand axe
+T14	PROC 261 270	injection
+T15	CHEM 274 294	produit de contraste
+T16	DISO 311 333	paragangliome kystique
+T17	PROC 337 363	étude anatomopathologiques
+T18	PROC 367 387	immuno-histochimique
+T19	DISO 409 448	carcinome pléomorphe à cellules géantes
+T20	PROC 473 503	curage ganglionnaire axillaire
+T21	ANAT 480 503	ganglionnaire axillaire
+T22	PROC 509 555	anastomose des troncs ganglionnaires adjuvants
+T23	ANAT 524 555	troncs ganglionnaires adjuvants
+T24	PROC 578 606	contraception postopératoire
+T25	TEMP 592 606	postopératoire
+T26	MODE 611 621	voie orale

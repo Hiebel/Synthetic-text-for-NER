@@ -1,0 +1,34 @@
+T1	LIVB 19 30	jeune homme
+T2	TEMP 34 40	17 ans
+T3	MEAS 79 87	notables
+T4	PROC 89 94	admis
+T5	Hospital 98 118	service des urgences
+T6	DISO 128 149	détresse respiratoire
+T7	PHEN 137 149	respiratoire
+T8	DISO 164 180	syndrome fébrile
+T9	PROC 184 198	interrogatoire
+T10	DISO 222 241	épisodes infectieux
+T11	TEMP 263 276	depuis 3 mois
+T12	PROC 281 317	tomodensitométrie abdomino-pelvienne
+T13	ANAT 299 317	abdomino-pelvienne
+T14	PROC 319 342	TDM) abdomino-pelvienne
+T15	ANAT 324 342	abdomino-pelvienne
+T16	PROC 391 410	bilan préopératoire
+T17	PROC 416 443	analyse anatomopathologique
+T18	DISO 468 493	localisations secondaires
+T19	DISO 520 539	carcinose ovarienne
+T20	ANAT 530 539	ovarienne
+T21	DISO 546 561	myometrorragies
+T22	DISO 585 609	thrombus veineux ovarien
+T23	DISO 626 648	fistule intéro-utérine
+T24	ANAT 634 648	intéro-utérine
+T25	PROC 666 690	transfert angiographique
+T26	PROC 704 724	anesthésie localisée
+T27	PROC 752 776	laparotomie exploratrice
+T28	CHEM 845 874	anti-coagulants plaquettaires
+T29	MEAS 907 920	déséquilibrés
+T30	PROC 989 1007	traitement curatif
+T31	MEAS 1067 1076	difficile
+T32	DISO 1123 1137	préménétrantes
+T33	PROC 1338 1358	prise médicamenteuse
+T34	PROC 1705 1732	injections intramusculaires

@@ -1,0 +1,34 @@
+T1	DISO 3 18	symptomatologie
+T2	DISO 28 37	infection
+T3	DISO 61 77	nodule du poumon
+T4	ANAT 71 77	poumon
+T5	MEAS 92 96	deux
+T6	ANAT 97 115	membres inférieurs
+T7	Localization 105 115	inférieurs
+T8	PROC 120 136	bilan biologique
+T9	DISO 150 162	hypokaliémie
+T10	MEAS 165 173	9,5 g/dl
+T11	Concept_Idea 175 186	température
+T12	MEAS 188 194	36 ° C
+T13	PROC 201 215	TDM thoracique
+T14	ANAT 205 215	thoracique
+T15	DISO 257 342	adénocarcinome mononucléiforme infiltrant le méso mésentère thoracique intracanalaire
+T16	ANAT 302 342	méso mésentère thoracique intracanalaire
+T17	MEAS 351 356	11 cm
+T18	Concept_Idea 360 368	diamètre
+T19	DISO 374 401	remaniements inflammatoires
+T20	DISO 412 437	localisations secondaires
+T21	PROC 453 478	étude immunohistochimique
+T22	PHEN 484 502	cellules tumorales
+T23	MEAS 511 524	de haut grade
+T24	MEAS 542 552	nombreuses
+T25	DISO 605 640	métastase endothéliale métastatique
+T26	PROC 695 714	traitement adjuvant
+T27	PROC 720 748	chimiothérapie néo adjuvante
+T28	PROC 762 782	exérèse chirurgicale
+T29	PROC 788 803	rachianesthésie
+T30	PROC 828 849	contrôle locorégional
+T31	MEAS 940 949	favorable
+T32	Concept_Idea 957 973	plan chirurgical
+T33	LIVB 988 990	il
+T34	DISO 1011 1032	récidive pathologique

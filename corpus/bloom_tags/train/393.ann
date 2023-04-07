@@ -1,0 +1,44 @@
+T1	LIVB 4 9	femme
+T2	PHEN 26 36	ménopausée
+T3	TEMP 44 50	20 ans
+T4	DISO 66 98	syndrome inflammatoire chronique
+T5	PROC 105 111	admise
+T6	LIVB 117 122	notre
+T7	Hospital 123 130	service
+T8	Hospital 135 160	urgences ophtalmologiques
+T9	DISO 188 205	dyspnée sifflante
+T10	MEAS 220 231	progressive
+T11	TEMP 241 254	depuis 3 mois
+T12	CHEM 289 323	anti-inflammatoires non-stéroïdien
+T13	Concept_Idea 347 359	état général
+T14	PROC 363 378	examen clinique
+T15	LIVB 392 400	patiente
+T16	DISO 401 408	fébrile
+T17	MEAS 411 415	39°C
+T18	PROC 421 446	traitement antibacillaire
+T19	CHEM 457 468	Riftriaxone
+T20	DOSE 471 477	500 mg
+T21	CHEM 480 494	Ciprofloxacine
+T22	DOSE 496 502	200 mg
+T23	CHEM 505 519	Gentaméthasone
+T24	DOSE 522 527	40 mg
+T25	CHEM 530 541	Cyclosérine
+T26	DOSE 544 550	100 mg
+T27	PROC 555 579	ionogramme sanguin total
+T28	ANAT 566 579	sanguin total
+T29	PROC 592 612	taux de prothrombine
+T30	DISO 628 653	hyperleucocytose tumorale
+T31	MEAS 656 681	12800 éléments blancs/mm3
+T32	PROC 713 750	fibroscopie œsophagienne exploratrice
+T33	ANAT 725 750	œsophagienne exploratrice
+T34	PROC 763 787	scanner abdomino-pelvien
+T35	ANAT 771 787	abdomino-pelvien
+T36	DEVI 836 864	matériels radio-chirurgicaux
+T37	LIVB 886 895	patientes
+T38	PROC 900 913	sérologie VIH
+T39	MEAS 928 936	négative
+T40	PROC 947 968	échographie ovarienne
+T41	ANAT 959 968	ovarienne
+T42	MEAS 984 991	normale
+T43	PROC 997 1029	ponctions liquidiennes vaginales
+T44	ANAT 1007 1029	liquidiennes vaginales

@@ -1,0 +1,22 @@
+T1	LIVB 20 28	patiente
+T2	TEMP 109 122	pendant 5 ans
+T3	PROC 127 138	médicalisée
+T4	PROC 142 165	radiothérapie adjuvante
+T5	PROC 179 232	cervoplastie prothétique coelioscopique transfixiante
+T6	PROC 257 282	intervention chirurgicale
+T7	DISO 294 309	symptomatologie
+T8	TEMP 319 332	depuis 6 mois
+T9	Concept_Idea 368 380	état général
+T10	MEAS 390 397	modérée
+T11	DISO 412 451	tuméfaction hypogastrique hypertrophiée
+T12	ANAT 424 451	hypogastrique hypertrophiée
+T13	MEAS 466 477	progressive
+T14	MEAS 489 499	rapidement
+T15	Concept_Idea 503 509	volume
+T16	MEAS 521 525	2 kg
+T17	DISO 564 583	douleurs pelviennes
+T18	ANAT 573 583	pelviennes
+T19	DISO 645 658	inflammatoire
+T20	DISO 692 715	fistule recto--vaginale
+T21	ANAT 700 715	recto--vaginale
+T22	DISO 770 799	décollement séreux nécrotique

@@ -1,0 +1,20 @@
+T1	PROC 2 17	examen clinique
+T2	DISO 33 54	trouble de conscience
+T3	Concept_Idea 64 75	température
+T4	MEAS 78 84	37,5°C
+T5	PROC 89 102	TDM cérébrale
+T6	ANAT 93 102	cérébrale
+T7	DISO 114 123	anomalies
+T8	PROC 137 159	radiographie du thorax
+T9	ANAT 153 159	thorax
+T10	PROC 166 199	scanner thoraco abdomino-pelviens
+T11	ANAT 174 199	thoraco abdomino-pelviens
+T12	MEAS 218 225	normaux
+T13	PROC 230 247	bilan étiologique
+T14	PROC 259 283	échographie obstétricale
+T15	DISO 332 351	déficit immunitaire
+T16	DISO 361 388	sensibilité aux médications
+T17	CHEM 377 388	médications
+T18	MEAS 421 428	simples
+T19	LIVB 467 475	patiente
+T20	Hospital 485 492	hôpital

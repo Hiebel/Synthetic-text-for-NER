@@ -1,0 +1,82 @@
+T1	PROC 3 16	sérologie HIV
+T2	MEAS 23 31	positive
+T3	MEAS 34 39	1/125
+T4	Concept_Idea 46 60	valeur prédite
+T5	PROC 65 84	bilan immunologique
+T6	DISO 101 123	syndrome inflammatoire
+T7	MEAS 128 138	spécifique
+T8	PROC 148 173	anticorps anti-nucléaires
+T9	MEAS 174 182	positifs
+T10	PROC 190 209	cytokératine totale
+T11	PROC 211 214	GBK
+T12	PROC 221 253	radiographies standard du thorax
+T13	ANAT 247 253	thorax
+T14	DISO 267 280	particularité
+T15	PROC 294 319	scanner thoraco-abdominal
+T16	ANAT 302 319	thoraco-abdominal
+T17	DISO 353 462	processus lésionnel liquidien adipeux mésenchymateux infiltrant les voies biliaires intrahépato-réno-kystique
+T18	ANAT 421 462	voies biliaires intrahépato-réno-kystique
+T19	DISO 480 519	adénocarcinose périphérique néoplasique
+T20	Localization 495 507	périphérique
+T21	ANAT 534 552	veines sus rénales
+T22	MEAS 587 593	simple
+T23	PROC 599 623	anticoagulation curative
+T24	CHEM 629 639	corticoïde
+T25	CHEM 642 673	amoxicilline acide clavulanique
+T26	PROC 687 702	antibiothérapie
+T27	MODE 707 725	voie intraveineuse
+T28	PROC 741 766	surveillance radiologique
+T29	DISO 784 810	remaniement angiographique
+T30	PROC 826 834	contrôle
+T31	Concept_Idea 847 865	état hémodynamique
+T32	PROC 905 929	laparotomie exploratrice
+T33	PHEN 949 970	grossesse monofoetale
+T34	PROC 993 1022	prélèvements bactériologiques
+T35	DEVI 1037 1058	laryngoscope portatif
+T36	ANAT 1084 1105	fente crico-trachéale
+T37	PROC 1112 1143	cholangiographie Doppler biplan
+T38	PROC 1159 1186	hémoperitoinectomie élargie
+T39	DISO 1206 1221	lésion tumorale
+T40	DISO 1225 1237	métastatique
+T41	DISO 1255 1282	micronodules métasomatiques
+T42	DISO 1289 1302	calcification
+T43	PROC 1319 1344	étude anatomopathologique
+T44	DISO 1390 1398	tumorale
+T45	DISO 1426 1461	léiomyome éosinophile hétérotopique
+T46	MEAS 1469 1475	T4N0Mx
+T47	LIVB 1523 1530	patient
+T48	PROC 1545 1570	rachianesthésie adjuvante
+T49	PROC 1581 1605	transfusion chirurgicale
+T50	DISO 1650 1678	maladies neuropsychiatriques
+T51	DISO 1713 1732	symptômes délirants
+T52	LIVB 1844 1867	professionnels de santé
+T53	DISO 1895 1928	effets secondaires cutanéomuqueux
+T54	PROC 1960 1972	consultation
+T55	DISO 1999 2025	troubles sensitivo-motrice
+T56	Concept_Idea 2072 2098	compétences fonctionnelles
+T57	Concept_Idea 2132 2151	vie professionnelle
+T58	Hospital 2213 2235	structure hospitalière
+T59	PROC 2260 2290	séances de rééducation motrice
+T60	PROC 2305 2339	kinésithérapie cognitivo-éducative
+T61	PROC 2381 2411	exercices physiques parentéral
+T62	PROC 2435 2471	régime pauvre en graisses insaturées
+T63	PROC 2502 2526	traitement médicamenteux
+T64	DOSE 2549 2557	3 unités
+T65	CHEM 2561 2583	metformine glycorachie
+T66	PROC 2682 2706	dérivation psychomotrice
+T67	TEMP 2718 2727	huit mois
+T69	PHEN 2865 2874	grossesse
+T70	DISO 2895 2904	incidents
+T71	ANAT 2951 2972	carrefour anévrysmale
+T72	DISO 2995 3018	convergences digestives
+T73	TEMP 3045 3052	24 mois
+T74	MEAS 3089 3099	favorables
+T75	LIVB 3108 3115	patient
+T76	TEMP 3127 3138	quatre mois
+T77	DISO 3163 3177	déficit moteur
+T78	DISO 3181 3207	syndrome dysmorphophobique
+T79	DISO 3225 3241	signe infectieux
+T80	DISO 3252 3267	signes généraux
+T81	PROC 3281 3312	bilan étiologique préopératoire
+T82	DISO 3331 3352	récidive pathologique
+T83	PROC 3363 3378	hospitalisation

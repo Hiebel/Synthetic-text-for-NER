@@ -1,0 +1,27 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	DISO 48 66	maladie maternelle
+T4	DISO 73 86	consanguinité
+T5	PROC 88 92	reçu
+T6	Hospital 96 131	service d'oncogénétique pédiatrique
+T7	Hospital 136 161	urgences ophtalmologiques
+T8	MEAS 191 203	imprévisible
+T9	DISO 217 230	céphalo-râles
+T10	TEMP 240 261	depuis plusieurs mois
+T11	MEAS 276 297	lentement progressive
+T12	MODE 319 324	bolus
+T13	CHEM 376 386	furosémide
+T14	CHEM 388 407	méthylhydrosulfanyl
+T15	CHEM 409 422	dexaméthasone
+T16	CHEM 424 435	paracétamol
+T17	CHEM 437 450	noradrénaline
+T18	CHEM 452 463	nicardipril
+T19	CHEM 465 475	amiodarone
+T20	CHEM 478 492	chlorpromazine
+T21	CHEM 494 507	bromocriptine
+T22	CHEM 509 521	salazopyrine
+T23	CHEM 541 565	médicamenteux vasoactifs
+T24	LIVB 762 770	patiente
+T25	TEMP 779 790	28 semaines
+T26	PROC 1191 1207	examen somatique
+T27	DISO 1219 1232	particularité

@@ -1,0 +1,79 @@
+T1	TEMP 11 17	18 ans
+T2	DISO 24 49	antécédents pathologiques
+T3	MEAS 50 62	particuliers
+T4	Hospital 83 104	urgences pédiatriques
+T5	DISO 114 123	dysphonie
+T6	Concept_Idea 168 180	état général
+T7	PROC 185 202	tomodensitométrie
+T8	PROC 204 219	TDM) thoracique
+T9	ANAT 209 219	thoracique
+T10	DISO 236 296	adénopathies gauches du lobe supéro-nerveux maxillaire droit
+T11	Localization 249 256	gauches
+T12	ANAT 260 296	lobe supéro-nerveux maxillaire droit
+T15	DISO 316 336	diabète gestationnel
+T16	LIVB 348 356	patiente
+T17	PROC 361 378	bilan étiologique
+T18	PROC 416 438	traitement substitutif
+T19	CHEM 448 493	amoxicilline acide clavulanique intraveineuse
+T20	PROC 524 551	chimiothérapie concomitante
+T21	PROC 565 589	néphrotomie exploratrice
+T22	MEAS 672 679	simples
+T23	DISO 717 735	épisode infectieux
+T24	PROC 747 763	scanner cérébral
+T25	ANAT 755 763	cérébral
+T26	MEAS 851 860	favorable
+T27	Concept_Idea 868 891	plan neuropsychiatrique
+T28	DISO 936 976	insuffisance cardio-vasculo-respiratoire
+T29	ANAT 949 976	cardio-vasculo-respiratoire
+T30	Concept_Idea 1008 1021	état générale
+T31	DISO 1035 1069	distension crânio-palpébrale aigüe
+T32	ANAT 1046 1063	crânio-palpébrale
+T33	PROC 1099 1125	examen anatomopathologique
+T34	DISO 1165 1205	lésion carcinomateuse tissulaire maligne
+T35	MEAS 1215 1219	6 cm
+T36	Concept_Idea 1223 1232	grand axe
+T37	ANAT 1250 1279	récessus sphénoïdale grêlique
+T38	MEAS 1288 1293	10 cm
+T39	Concept_Idea 1297 1306	petit axe
+T40	ANAT 1336 1354	parois anéchogènes
+T41	Localization 1368 1392	quasitotalité supérieure
+T42	DISO 1723 1747	métastases tuberculeuses
+T43	PROC 1753 1786	biopsie endobuccale scanno-guidée
+T44	PROC 1805 1834	prélèvements bactériologiques
+T45	PHEN 1858 1869	bactérienne
+T46	PROC 1885 1910	étude immunohistochimique
+T47	LIVB 2779 2787	patiente
+T48	DISO 2818 2851	sténose du tronc cérébral fémoral
+T49	ANAT 2829 2851	tronc cérébral fémoral
+T50	DISO 2871 2914	déficit immunitaire polymyomateux chronique
+T51	PROC 2920 2967	thyroidiennectomie totale par lambeau pédiculée
+T52	Concept_Idea 2969 2984	position debout
+T53	LIVB 3012 3020	patiente
+T54	DISO 3026 3055	processus tumoral rénitralisé
+T55	ANAT 3063 3074	rein gauche
+T56	Localization 3068 3074	gauche
+T57	MEAS 3084 3088	deux
+T58	ANAT 3089 3107	membres inférieurs
+T59	DISO 3121 3134	particularité
+T60	PROC 3139 3169	bilan biologique préopératoire
+T61	PROC 3184 3209	chirurgie maxillo-faciale
+T62	DISO 3228 3249	récidive métastatique
+T63	DISO 3281 3318	signes neuropsychiatriques infectieux
+T64	PROC 3370 3394	échographie obstétricale
+T65	PROC 3423 3438	hospitalisation
+T66	MEAS 3449 3461	contributive
+T67	DISO 3494 3527	consanguinité intrapseudo-utérine
+T68	LIVB 3565 3574	patientes
+T69	PROC 3597 3620	mono-natation néonatale
+T70	PROC 3634 3662	prise en charge chirurgicale
+T71	Concept_Idea 3675 3702	conventions internationales
+T72	PROC 3707 3731	laparotomie exploratrice
+T73	PROC 3756 3773	geste chirurgical
+T74	PROC 3823 3857	néphrectomie percutanée programmée
+T75	CHEM 4032 4054	hormones stéroïdiennes
+T76	Concept_Idea 4113 4140	caractère adjuvant clinique
+T77	PROC 4147 4169	contrôle échographique
+T78	PROC 4173 4185	radiologique
+T79	PROC 4223 4258	investigations anatomopathologiques
+T80	PROC 4433 4469	complément thérapeutique étiologique
+T81	PROC 4554 4574	immunohistochimiques

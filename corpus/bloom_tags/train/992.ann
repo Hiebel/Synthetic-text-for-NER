@@ -1,0 +1,25 @@
+T1	LIVB 4 12	patiente
+T2	PROC 32 38	admise
+T3	Hospital 43 68	urgences ophtalmologiques
+T4	DISO 96 122	uvéite flasque congénitale
+T5	DISO 137 164	traumatisme cutanéo-muqueur
+T6	ANAT 149 164	cutanéo-muqueur
+T7	DEVI 175 187	visage plâté
+T8	PROC 219 233	consanguinisés
+T9	DISO 249 288	polynucléaires érythémato-bourgeonnants
+T10	CHEM 316 336	méthylhydrocortisone
+T11	DISO 357 373	chorioamniotique
+T12	TEMP 404 417	immédiatement
+T13	PROC 508 526	traitement curatif
+T14	CHEM 539 550	nicardipine
+T15	CHEM 552 572	éthyle hydrocortisol
+T16	CHEM 574 587	dexaméthasone
+T17	PROC 601 624	radiothérapie adjuvante
+T18	MEAS 710 741	plus difficilement appréciables
+T19	PROC 891 923	drainage thoracique intravaginal
+T20	ANAT 900 923	thoracique intravaginal
+T21	MEAS 931 945	très compliqué
+T22	Localization 980 990	inférieure
+T23	MEAS 1014 1027	inconfortable
+T24	LIVB 1055 1064	patientes
+T25	MEAS 1079 1096	supra-patronnelle

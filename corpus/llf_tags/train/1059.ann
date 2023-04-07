@@ -1,0 +1,102 @@
+T1	MEAS 0 7	normale
+T2	PROC 11 37	examen anatomopathologique
+T3	DISO 54 62	récidive
+T4	DISO 68 96	carcinome médullaire du rein
+T5	ANAT 92 96	rein
+T6	MEAS 100 104	5 cm
+T7	Concept_Idea 108 117	grand axe
+T8	PROC 127 152	étude immunohistochimique
+T9	PROC 154 157	IHC
+T10	LIVB 162 178	virus SARS-CoV-2
+T11	MEAS 179 190	bien toléré
+T12	PROC 197 222	scanner thoraco-abdominal
+T13	ANAT 205 222	thoraco-abdominal
+T14	DISO 251 268	lésions kystiques
+T15	DISO 291 301	métastases
+T16	DISO 308 327	déficit immunitaire
+T17	PHEN 342 360	suites opératoires
+T18	DISO 374 388	particularités
+T19	PROC 393 415	traitement chirurgical
+T20	PROC 439 463	chimiothérapie adjuvante
+T21	PROC 477 510	radio-chimiothérapie concomitante
+T22	CHEM 516 528	tamoxifenème
+T23	PROC 599 637	laparotomie exploratrice préopératoire
+T24	MEAS 675 684	maîtrisée
+T25	MEAS 694 707	9 centimètres
+T26	Concept_Idea 711 718	hauteur
+T27	DISO 742 765	signe ostéo-articulaire
+T28	PROC 778 806	prise en charge chirurgicale
+T29	PROC 822 837	bloc opératoire
+T30	DISO 875 911	adénocarcinome péritonéal malformaté
+T31	Hospital 971 979	clinique
+T32	DISO 1001 1024	tuberculose bactérienne
+T33	DISO 1034 1068	facteur de risque thromboembolique
+T34	PROC 1107 1123	bilan infectieux
+T35	LIVB 1148 1157	patientes
+T36	MEAS 1171 1182	contributif
+T37	MEAS 1215 1224	négatives
+T38	PROC 1253 1269	prises en charge
+T39	DISO 1288 1332	pneumopathie nosocomiale érythémato-sensible
+T40	PROC 1361 1388	traitements antituberculeux
+T41	PROC 1400 1413	antibiogramme
+T42	PROC 1415 1446	immunoglobulines intraveineuses
+T43	PROC 1448 1457	hémostase
+T44	PROC 1459 1478	bilirubine conjugué
+T45	PROC 1480 1503	fermentalgies dentaires
+T46	PROC 1505 1525	glycémie glycorachie
+T47	PROC 1527 1558	phosphaturie totale fractionnée
+T48	PROC 1560 1586	ionogramme phosphocalcique
+T49	PROC 1588 1624	dérivés salicylés acide carboxylique
+T50	PROC 1626 1655	lipases bêtalacturolucleaires
+T51	PROC 1657 1668	urée per os
+T52	PROC 1670 1693	triglycérides calciques
+T53	PROC 1695 1725	hypertriglycérides potassiques
+T54	PROC 1727 1748	catécholestérol total
+T55	PROC 1750 1778	troponine alpha fluorescente
+T56	PROC 1780 1806	pyrazinamide aglycténulase
+T57	PROC 1808 1841	transaminases alcalines corrigées
+T58	PROC 1843 1862	gammaglobulines IgG
+T59	PROC 1864 1886	acide acétyle lipoïque
+T60	PROC 1888 1915	polynucléaires neutrophiles
+T61	PROC 1917 1931	rhésus négatif
+T62	PROC 1933 1958	anticorps anti nucléaires
+T63	PROC 1960 1983	cytokératine substituée
+T64	PROC 1985 2003	insulinorésistance
+T65	PROC 2005 2030	anticoagulants circulants
+T66	PROC 2032 2057	hormones gonadotrophiques
+T67	PROC 2059 2075	œstradioloxydase
+T68	PROC 2077 2091	hydrocortisone
+T69	PROC 2093 2122	aspartate aminotransformation
+T70	PROC 2124 2145	prélèvement hormonaux
+T71	PROC 2147 2168	enzymes thyroïdiennes
+T72	PROC 2170 2185	myélopéroxydase
+T73	PROC 2187 2210	neuroleptiques sériques
+T74	PROC 2212 2234	kinésithérapie motrice
+T75	PROC 2236 2259	méthodes contraceptives
+T76	PROC 2261 2283	médicamenteuses orales
+T77	PROC 2285 2306	contrôle radiologique
+T78	PROC 2308 2341	imagerie par résonance magnétique
+T79	PROC 2343 2365	électroencéphalogramme
+T80	PROC 2367 2394	numération formule sanguine
+T81	PROC 2396 2417	microscopie digestive
+T82	PROC 2419 2423	ECBU
+T83	PROC 2425 2442	Tomodensitométrie
+T84	PROC 2444 2474	sérologies de l'angiomyogénèse
+T85	PROC 2476 2493	bilan d'hémostase
+T86	PROC 2495 2526	biopsie des fibres alimentaires
+T87	ANAT 2507 2526	fibres alimentaires
+T88	PROC 2528 2549	dosage du protide CK7
+T89	PROC 2551 2568	chromogranine B12
+T90	PROC 2570 2574	CK20
+T91	PROC 2576 2580	HBCO
+T92	PROC 2582 2587	CPK19
+T93	PROC 2589 2593	PTH6
+T94	PROC 2595 2626	Troponine Acide 2-hydroxygénase
+T95	PROC 2628 2647	bilirubine conjugue
+T96	Concept_Idea 2703 2721	plan hématologique
+T97	TEMP 2739 2746	24 mois
+T98	MEAS 2755 2760	3 ème
+T99	MEAS 2780 2785	4 ème
+T100	Concept_Idea 2827 2838	temps plein
+T101	TEMP 2841 2848	21 mois
+T102	DISO 2860 2886	signe clinico-radiologique

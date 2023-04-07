@@ -1,0 +1,23 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	PROC 32 38	admise
+T4	Hospital 43 51	urgences
+T5	DISO 61 78	céphalées fébrile
+T6	PROC 82 97	examen clinique
+T7	LIVB 108 114	enfant
+T8	Concept_Idea 139 157	plan hémodynamique
+T9	PHEN 161 173	respiratoire
+T10	DISO 186 195	anomalies
+T11	DISO 222 231	épistaxis
+T12	PROC 235 253	ionogramme sanguin
+T13	ANAT 246 253	sanguin
+T14	MEAS 267 275	discrète
+T15	DISO 276 288	hyponatrémie
+T16	MEAS 291 300	133 meq/l
+T18	PROC 317 339	natrémie peropératoire
+T19	MEAS 348 357	135 meq/l
+T20	PROC 362 370	kaliémie
+T21	MEAS 373 382	0,8 meq/l
+T22	MODE 386 398	intraveineux
+T23	PROC 411 430	hémoglobine glyquée
+T24	MEAS 433 436	10%

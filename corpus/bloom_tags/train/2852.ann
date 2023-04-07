@@ -1,0 +1,77 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 38 43	2 ans
+T3	DISO 61 97	pneumocystis jirovecercose purulente
+T4	DISO 131 160	syndrome infectieux nodulaire
+T5	CHEM 197 231	anti-inflammatoires nonstéroïdiens
+T6	DOSE 234 239	800mg
+T7	TEMP 239 241	/j
+T8	DISO 307 322	symptomatologie
+T9	TEMP 335 342	un mois
+T10	PROC 353 362	admission
+T11	Hospital 367 402	urgences pédiatriques périphériques
+T12	DISO 422 442	douleurs abdominales
+T13	ANAT 431 442	abdominales
+T14	MEAS 486 493	modérée
+T15	DISO 510 522	métrorragies
+T16	MEAS 559 574	plus fréquentes
+T17	LIVB 622 630	patients
+T18	LIVB 634 638	nous
+T19	PROC 663 692	prélèvements bactériologiques
+T20	PROC 750 794	tomodensitométrie thoraco-abdomino-pelvienne
+T21	ANAT 768 794	thoraco-abdomino-pelvienne
+T22	DISO 819 850	hépato-splénomégalie hétérogène
+T23	DISO 866 903	hypertrophie duodénale lobaire droite
+T24	ANAT 879 903	duodénale lobaire droite
+T25	Localization 897 903	droite
+T26	MEAS 928 937	46/105 cm
+T27	MEAS 941 950	49/126 cm
+T28	ANAT 970 983	pelvis utérin
+T29	PROC 1020 1053	ponction pleurieuse intraveineuse
+T30	ANAT 1029 1053	pleurieuse intraveineuse
+T31	PROC 1081 1116	transfusion sanguine prophylactique
+T32	DISO 1176 1210	complications thromboembolicielles
+T33	DISO 1230 1247	pathophysiologies
+T34	PROC 1352 1385	prise médicamenteuse concomitante
+T35	PROC 1412 1430	traitement curatif
+T36	PROC 1461 1517	radiothérapie encéphalique palliative radiotherapeutique
+T37	ANAT 1782 1809	intrapéritonéal lithiasique
+T38	ANAT 1874 1899	rétropéritonéal liquidien
+T39	ANAT 1912 1942	ganglionnaire pré pancréatique
+T40	PROC 2054 2079	étude immunohistochimique
+T41	PROC 2081 2084	IHC
+T42	Concept_Idea 2090 2099	résultats
+T43	PROC 2103 2113	diagnostic
+T44	DISO 2135 2200	métastases carcinomateuses cervico-utéro-vaginaux carcinomateuses
+T46	DISO 2216 2243	adénocarcinome d'endometres
+T47	PROC 2249 2273	chimiothérapie adjuvante
+T48	CHEM 2303 2316	sulfasalazine
+T49	CHEM 2318 2331	dexaméthasone
+T50	CHEM 2333 2346	bêtaméthasone
+T51	CHEM 2359 2373	hydrocortisone
+T52	TEMP 2375 2383	Deux ans
+T53	LIVB 2397 2405	patiente
+T54	DISO 2438 2461	symptomatologie fébrile
+T55	TEMP 2471 2484	depuis 4 mois
+T57	ANAT 2508 2518	abdominale
+T58	DISO 2528 2541	inflammatoire
+T59	MEAS 2556 2567	progressive
+T60	MEAS 2583 2599	de façon brutale
+T61	Concept_Idea 2603 2609	volume
+T62	DISO 2650 2677	localisations métastatiques
+T63	PHEN 2689 2709	grossesse gémellaire
+T64	DOSE 2735 2743	2 mg/m 2
+T66	CHEM 2761 2778	aminosalicyliques
+T67	CHEM 2781 2791	furosémide
+T68	CHEM 2794 2807	métronidazole
+T69	PROC 2813 2837	scanner abdomino-pelvien
+T70	ANAT 2821 2837	abdomino-pelvien
+T71	DISO 2851 2866	masse hypodense
+T72	ANAT 2888 2908	fosse iliaque droite
+T73	Localization 2902 2908	droite
+T74	PROC 2938 2947	injection
+T75	CHEM 2951 2971	produit de contraste
+T76	ANAT 2992 3020	veine cave ombilicale droite
+T77	Localization 3014 3020	droite
+T78	DISO 3026 3138	extension parenchymateuse bilio-cytoplasmique hyo-thoracique basithoracique infirétrarégionale crânio-fasciculée
+T80	ANAT 3161 3171	médullaire
+T81	PROC 3321 3353	technique d'immuno-histochimique

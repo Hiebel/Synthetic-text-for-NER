@@ -1,0 +1,106 @@
+T1	LIVB 3 8	homme
+T2	PROC 29 40	hospitalisé
+T3	DISO 50 62	métrorragies
+T4	PROC 95 113	traitement médical
+T5	CHEM 128 139	médicaments
+T6	CHEM 151 164	noréthénamide
+T7	DOSE 166 175	0,5 mg/kg
+T8	TEMP 175 177	/j
+T9	CHEM 180 193	dexaméthasone
+T10	DOSE 195 200	40 mg
+T11	TEMP 200 202	/j
+T12	CHEM 205 219	hydrocortisone
+T13	DOSE 221 226	30 mg
+T14	TEMP 226 228	/j
+T15	CHEM 231 249	méthylprednisolone
+T16	DOSE 251 256	50 mg
+T17	TEMP 256 258	/j
+T18	CHEM 261 273	bupropionide
+T19	DOSE 275 281	100 mg
+T20	TEMP 281 283	/j
+T21	CHEM 286 305	valproate de sodium
+T22	DOSE 307 310	2 g
+T23	TEMP 310 312	/j
+T24	CHEM 315 329	ciprofloxacine
+T25	DOSE 331 337	400 mg
+T26	TEMP 337 339	/j
+T27	CHEM 342 360	hydroxychloroquine
+T28	DOSE 362 368	800 mg
+T29	TEMP 368 370	/j
+T30	CHEM 373 386	sulfasalazine
+T31	DOSE 388 394	600 mg
+T32	TEMP 394 396	/j
+T33	CHEM 399 411	pyrazinamide
+T34	DOSE 413 419	120 mg
+T35	TEMP 419 421	/j
+T36	CHEM 424 434	ethambutol
+T37	DOSE 436 442	160 mg
+T38	TEMP 442 444	/j
+T39	CHEM 447 457	cytaridine
+T40	DOSE 459 465	750 mg
+T41	TEMP 465 467	/j
+T42	CHEM 470 482	cotrimoazole
+T43	DOSE 484 490	200 mg
+T44	TEMP 490 492	/j
+T45	CHEM 495 506	rifampicine
+T46	DOSE 508 513	20 mg
+T47	TEMP 513 515	/j
+T48	CHEM 518 529	Ethionamide
+T49	DOSE 531 537	500 mg
+T50	TEMP 537 539	/j
+T51	CHEM 542 553	Ceftriaxone
+T52	DOSE 555 560	10 mg
+T53	TEMP 560 562	/j
+T54	CHEM 565 576	Cyclosérine
+T55	DOSE 578 582	75mg
+T56	TEMP 582 584	/j
+T57	CHEM 587 605	Erythrométhoxazole
+T58	DOSE 607 611	1 ml
+T59	TEMP 611 613	/j
+T60	CHEM 616 630	Gentaméthasone
+T61	DOSE 632 637	25 mg
+T63	CHEM 642 651	Captopril
+T64	DOSE 653 658	80 mg
+T65	TEMP 658 660	/j
+T66	CHEM 663 678	Chloramphénicol
+T67	DOSE 680 686	250 mg
+T68	TEMP 686 688	/j
+T69	CHEM 691 710	Valproate de sodium
+T70	DOSE 712 719	3 grays
+T71	TEMP 719 721	/j
+T72	CHEM 724 737	Dexaméthasone
+T73	DOSE 739 744	45 mg
+T74	TEMP 744 746	/j
+T75	CHEM 749 761	Vitfolestrol
+T76	DOSE 763 768	60 mg
+T77	TEMP 768 770	/j
+T78	CHEM 773 783	Tamoxifène
+T79	DOSE 785 791	150 mg
+T80	TEMP 791 793	/j
+T81	CHEM 796 810	Lévonocéphrine
+T82	DOSE 812 819	1000 mg
+T83	TEMP 819 821	/j
+T84	CHEM 826 838	Asproprédone
+T85	DOSE 840 848	15 µg/kg
+T86	TEMP 848 850	/j
+T87	PROC 857 882	injections intra-utérines
+T88	CHEM 885 895	isoniazide
+T89	Concept_Idea 918 944	voie veineuse périphérique
+T90	PHEN 965 986	contractions utérines
+T91	ANAT 978 986	utérines
+T92	PROC 1000 1022	tocolyse intraveineuse
+T93	MEAS 1028 1032	deux
+T94	DEVI 1033 1064	sonnettes vésiculo-intestinales
+T96	PROC 1196 1220	échographie obstétricale
+T97	DISO 1520 1559	pathologies infectieuses néphrologiques
+T98	LIVB 2241 2245	elle
+T99	PROC 2278 2297	bilan préopératoire
+T100	PROC 2318 2342	scanner abdomino-pelvien
+T101	ANAT 2326 2342	abdomino-pelvien
+T102	DISO 2374 2428	lésion tissulaire hétérogène du pancréas carcinomateux
+T103	ANAT 2406 2428	pancréas carcinomateux
+T104	MEAS 2438 2443	14 cm
+T105	Concept_Idea 2447 2456	grand axe
+T106	ANAT 2477 2485	épiploon
+T107	DISO 2504 2530	paragangliome kystadénoïde
+T108	DISO 2536 2551	curage grêlique

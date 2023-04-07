@@ -1,0 +1,27 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	10 ans
+T3	PHEN 46 66	récupération motrice
+T4	DISO 80 97	épilepsie globale
+T5	PROC 112 127	hospitalisation
+T6	PROC 133 158	traitement médicamenteuse
+T7	MODE 163 173	voie orale
+T8	CHEM 175 194	Valproate de sodium
+T9	PROC 209 268	ponction liquide céphalo-rachidien surrénalien transcranulé
+T11	DISO 286 297	traumatisme
+T12	DISO 304 327	déficit sensitivomoteur
+T13	DISO 350 368	troubles cognitifs
+T14	Concept_Idea 422 434	état général
+T15	DISO 599 614	symptomatologie
+T16	LIVB 624 630	enfant
+T17	PROC 758 781	échographies prénatales
+T18	Hospital 796 821	urgences ophtalmologiques
+T19	DISO 894 914	diabète hypertensive
+T20	DISO 949 983	hyperthyroïdie primaire secondaire
+T21	DISO 1000 1046	syndrome inflammatoire hypercalcemicodysméoïde
+T22	DISO 1078 1099	épisodes épileptiques
+T23	Concept_Idea 1191 1200	grand axe
+T24	TEMP 1224 1230	14 ans
+T25	MEAS 1259 1275	de façon brutale
+T26	DISO 1292 1327	accident ischémique thoracique aigu
+T27	ANAT 1312 1327	thoracique aigu
+T28	MEAS 1491 1495	5 cm

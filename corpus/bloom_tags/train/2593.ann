@@ -1,0 +1,33 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	9 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 81	reçu
+T6	Hospital 86 107	urgences pédiatriques
+T7	DISO 126 146	obnubilation globale
+T8	TEMP 156 173	depuis deux jours
+T9	PROC 177 192	examen clinique
+T10	DISO 213 237	polyarthrite polyclonale
+T11	ANAT 256 264	poignets
+T12	MEAS 276 288	spontanément
+T13	Concept_Idea 292 298	volume
+T14	CHEM 319 323	AINS
+T15	CHEM 334 375	médicaments d'immunodépression antivirale
+T16	CHEM 381 398	tréthaméthoxazole
+T17	DOSE 417 423	2mg/kg
+T18	TEMP 423 425	/j
+T19	CHEM 451 462	Ceftriaxone
+T20	CHEM 463 476	métronidazole
+T21	CHEM 479 490	Cyclosérine
+T22	MEAS 540 565	progressivement favorable
+T23	PHEN 608 620	respiratoire
+T24	PROC 792 809	bilan étiologique
+T25	PROC 919 940	échographie pelvienne
+T26	ANAT 931 940	pelvienne
+T28	MEAS 1037 1041	5 cm
+T29	Concept_Idea 1045 1053	diamètre
+T30	MEAS 1063 1068	32 mm
+T31	Concept_Idea 1072 1086	grand diamètre
+T32	ANAT 1108 1125	grossesse utérine
+T33	DISO 1147 1176	lésions nodulaires hyperdense
+T34	LIVB 1203 1211	patiente

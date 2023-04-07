@@ -1,0 +1,18 @@
+T1	LIVB 16 21	femme
+T2	TEMP 38 50	il y a 5 ans
+T3	DISO 70 100	méningoencephalite infectieuse
+T4	DISO 105 126	polyradiculonévralgie
+T5	MEAS 141 147	rapide
+T6	PROC 164 182	traitement médical
+T7	CHEM 193 204	Cyclosérine
+T8	DOSE 206 213	20mg/kg
+T9	TEMP 213 215	/j
+T10	CHEM 220 231	Ceftriaxone
+T11	DOSE 233 240	1 mg/kg
+T12	TEMP 240 242	/j
+T13	LIVB 245 249	Elle
+T14	DISO 275 297	hypotension artérielle
+T15	ANAT 287 297	artérielle
+T16	MEAS 337 347	suffisante
+T17	PROC 459 477	traitement curatif
+T18	LIVB 506 514	patiente

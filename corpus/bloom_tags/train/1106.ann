@@ -1,0 +1,54 @@
+T1	LIVB 16 21	femme
+T2	DISO 73 96	hypertension artérielle
+T3	PHEN 86 96	artérielle
+T4	DISO 110 129	diabète métabolique
+T5	CHEM 135 144	metformol
+T6	DOSE 146 151	20 mg
+T7	TEMP 151 156	/jour
+T8	DEVI 162 178	cathéter fémoral
+T9	ANAT 171 178	fémoral
+T10	Concept_Idea 188 191	âge
+T11	LIVB 229 233	elle
+T12	PROC 277 300	chirurgie gynécologique
+T13	MEAS 356 368	peu invasifs
+T14	TEMP 495 512	depuis trois mois
+T15	LIVB 520 524	elle
+T16	DISO 555 563	surpoids
+T17	DISO 576 585	symptômes
+T18	DISO 612 642	troubles hydro-électrolytiques
+T19	DISO 782 804	distension péritonéale
+T20	ANAT 793 804	péritonéale
+T21	MEAS 816 831	progressivement
+T22	Concept_Idea 835 841	taille
+T23	DISO 873 887	amaigrissement
+T24	MEAS 898 903	10 kg
+T25	TEMP 917 921	1 an
+T26	LIVB 931 935	elle
+T27	PROC 964 982	traitement curatif
+T28	MODE 994 999	bolus
+T29	CHEM 1003 1024	méthylhydrosuxentanil
+T30	DISO 1063 1078	symptomatologie
+T31	TEMP 1089 1096	6 jours
+T32	LIVB 1103 1106	son
+T33	PROC 1107 1116	admission
+T34	LIVB 1266 1274	patients
+T35	DISO 1292 1307	symptomatologie
+T36	DISO 1449 1475	hyperparathyroïdie maligne
+T37	DISO 1504 1531	signes extra-parathyroïdaux
+T38	PROC 1604 1616	consultation
+T39	DISO 1734 1777	syndrome d'épanchement liquidien péritonéal
+T41	Localization 1891 1901	bilatérale
+T42	PROC 1935 1958	pronostic préopératoire
+T43	ANAT 2066 2076	artérielle
+T44	MEAS 2095 2105	100/10mmHg
+T45	MEAS 2145 2158	spectaculaire
+T46	MEAS 2173 2176	70%
+T47	MEAS 2180 2184	100%
+T48	PROC 2479 2548	réimplantation transfixiante coelioscopique phéochromoréline kystique
+T49	CHEM 2619 2632	dexaméthasone
+T50	DOSE 2644 2650	2mg/kg
+T51	TEMP 2650 2652	/j
+T52	CHEM 2666 2692	triamcinolone progestative
+T53	CHEM 2749 2762	métronidazole
+T54	PHEN 2784 2805	contractions utérines
+T55	ANAT 2797 2805	utérines

@@ -1,0 +1,31 @@
+T1	PROC 4 26	radiographie du thorax
+T2	ANAT 20 26	thorax
+T3	DISO 46 66	processus tissulaire
+T4	ANAT 73 96	paroi thoracique gauche
+T5	Localization 90 96	gauche
+T6	Concept_Idea 105 114	caractère
+T7	DISO 136 166	nodule métastatique malformaté
+T8	PROC 171 196	scanner thoraco-abdominal
+T9	ANAT 179 196	thoraco-abdominal
+T10	PROC 211 228	mise en condition
+T11	MEAS 242 253	volumineuse
+T12	DISO 254 291	masse tissulaire hétérogène polylobée
+T13	MEAS 302 314	environ 2 cm
+T14	Concept_Idea 318 326	diamètre
+T15	ANAT 348 379	angle crico-trachéo-oesophagien
+T16	ANAT 403 435	sinus maxillaire inférieur droit
+T17	Localization 430 435	droit
+T18	DEVI 476 512	lambeaux érythémato-tachyconducteurs
+T19	MEAS 545 552	simples
+T20	DISO 558 579	récidive neurologique
+T21	DISO 583 593	métastases
+T22	LIVB 608 616	patiente
+T23	PROC 623 629	admise
+T24	Hospital 633 637	bloc
+T25	PROC 643 662	traitement adjuvant
+T26	PROC 668 686	antibioprophylaxie
+T27	CHEM 688 701	triméthoprime
+T28	CHEM 704 734	pénicilline acide clavulanique
+T29	MEAS 770 779	favorable
+T30	PHEN 815 830	acuité visuelle
+T31	DISO 882 908	symptômes ophtalmologiques

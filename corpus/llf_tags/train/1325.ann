@@ -1,0 +1,28 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	7 ans
+T3	Concept_Idea 40 71	antécédents médico-chirurgicaux
+T4	MEAS 72 84	particuliers
+T5	PROC 89 99	consultait
+T6	Hospital 104 125	urgences pédiatriques
+T7	LIVB 170 175	femme
+T8	DISO 242 264	pathologie parasitaire
+T9	DISO 274 288	comportemental
+T10	PROC 316 331	examen clinique
+T11	PHEN 386 395	grossesse
+T12	TEMP 404 415	21 semaines
+T13	PROC 438 462	échographie obstétricale
+T14	DISO 480 538	anémie hypochrome microcytaire gestationistico-dilatatique
+T15	DISO 556 568	thrombopénie
+T16	MEAS 579 590	0,3 g/100ml
+T17	LIVB 693 699	femmes
+T18	PROC 721 743	consultation prénatale
+T19	PROC 748 768	suivi postopératoire
+T20	PROC 785 818	antibiothérapie substitutionnelle
+T21	CHEM 843 856	métronidazole
+T22	CHEM 857 887	acide acétyle glycortisolamide
+T23	PROC 903 918	oxygénothérapie
+T24	DEVI 924 946	masque thermoplasmique
+T25	PROC 1082 1091	expulsion
+T26	Concept_Idea 1153 1171	plan physiologique
+T27	DISO 1286 1323	hypertriglycéridémie maligne primaire
+T28	DISO 1361 1401	hyperparathyroidite congénitale ataxique

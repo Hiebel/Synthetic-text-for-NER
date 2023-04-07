@@ -1,0 +1,68 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 17 24	17 mois
+T3	PROC 213 222	admission
+T4	PROC 238 258	consultation externe
+T5	PROC 328 353	consultation chirurgicale
+T6	LIVB 358 368	nouveau-né
+T7	PHEN 394 400	règles
+T8	PROC 423 439	examens médicaux
+T9	PROC 452 471	radiologie générale
+T10	PROC 473 476	ORL
+T11	PROC 478 488	hémogramme
+T12	PROC 490 494	ECBU
+T13	PROC 496 518	électroencéphalogramme
+T14	PROC 520 532	biologie B12
+T15	PROC 534 554	récepteurs hormonaux
+T16	PROC 556 567	échographie
+T17	PROC 569 590	recherche étiologique
+T18	PROC 592 605	transaminases
+T19	PROC 607 627	glycémie glycorachie
+T20	PROC 629 649	bilirubine conjuguée
+T21	PROC 651 673	créatine phosphokinase
+T22	PROC 675 679	urée
+T23	PROC 681 696	triglycéridémie
+T24	PROC 698 721	troponine acide folique
+T25	PROC 723 726	CRP
+T26	PROC 728 758	ionogramme cytobactériologique
+T27	PROC 760 781	enzymes pancréatiques
+T28	PROC 783 796	insulinopénie
+T29	PROC 798 817	œstradiol salivaire
+T30	PROC 819 823	ASAT
+T31	PROC 825 829	ALAT
+T32	PROC 831 834	VHB
+T33	PROC 836 839	SO2
+T34	PROC 841 844	CK7
+T35	PROC 846 850	NYHA
+T36	PROC 852 856	TCM1
+T37	PROC 858 862	RNP8
+T38	PROC 864 869	GGT19
+T39	PROC 871 875	PS10
+T40	PROC 877 905	Fluoroquinolones citrullinés
+T41	PROC 907 925	acide clavulanique
+T42	PROC 927 960	catécholactone acetyl transferase
+T43	PROC 962 989	neuroleptiques carbapénèmes
+T44	PROC 991 1014	antispasmodium calcique
+T45	PROC 1016 1034	vancomycine per os
+T46	PROC 1036 1051	myéloperoxydase
+T47	PROC 1053 1088	bicarbonate de sodium intraveineuse
+T48	PROC 1090 1108	sérologies virales
+T49	PROC 1110 1120	uroscanner
+T50	DISO 1131 1144	complications
+T51	PROC 1209 1234	étude immunohistochimique
+T52	CHEM 1236 1253	antiparkinsoniens
+T53	LIVB 1378 1414	professionnels de santé hémodialysés
+T54	MEAS 1428 2468	grande diversité clinique sans pouvoir préciser avec certitude leur(s) solution(s). L'indication du traitement pédiatrique a été posée après un recul total de 5 ans car aucune notion de complément thérapeutique n'a été retrouvée chez ces patients notamment s'ils présentent une symptomatologie psychiatrique aigüe type hallucinations délirantes qui sont caractérisées surtout au niveau introspirituel sous forme de « crises convulsives schizophréniformes ayant tendance à dégénérer jusqu'au décousu lorsqu' elles durent plusieurs jours puis se résolvent malgré tout avant toute autre cause apparente; ceci peut faire penser aux délires mystico-verbaux paranoïaques bien plus anciens[6]». Cas 2 Il s'agissait d'un nourrisson âgé de 16 mois issu d'une grossesse monofoetale non suivie: naissance évolutive gémellaire=>11 semaines issue d'une grossesse anténatale ovariectomie=>22 semaines provenant d'une fente céphalophagie néonatale laryngée =>24 semaines originaire d'une portion infundibulaire ovoïde entrelacée sur environ 15 centimètres
+T55	Concept_Idea 1514 1524	indication
+T56	PROC 1528 1550	traitement pédiatrique
+T57	TEMP 1587 1592	5 ans
+T58	LIVB 1666 1674	patients
+T59	DISO 1706 1741	symptomatologie psychiatrique aigüe
+T60	LIVB 2141 2151	nourrisson
+T61	TEMP 2159 2166	16 mois
+T63	PROC 2204 2210	suivie
+T66	Localization 2401 2423	portion infundibulaire
+T67	MEAS 2478 2483	15 cm
+T68	LIVB 2614 2620	malade
+T69	PROC 2643 2667	chimiothérapie adjuvante
+T70	PROC 2681 2715	radio-chimiothérapie néo adjuvante
+T71	PROC 2746 2796	prise en charge psychothérapeutique individualisée

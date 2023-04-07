@@ -1,0 +1,68 @@
+T1	LIVB 3 10	patient
+T2	DISO 45 58	choc septique
+T3	LIVB 114 117	lui
+T4	DISO 141 168	hémiplégie sensitivomotrice
+T5	PROC 194 240	traitement médical antibacillaire probabiliste
+T6	CHEM 253 281	Ampicilline-Sulfaméthoxazole
+T7	DOSE 284 289	400mg
+T8	CHEM 301 312	Cyclosérine
+T9	DOSE 315 324	0,5 mg/kg
+T10	PROC 338 368	auscultation pleuro-pulmonaire
+T11	ANAT 351 368	pleuro-pulmonaire
+T12	DEVI 418 444	sonde cardio-ventriculaire
+T16	Hospital 598 605	service
+T17	PROC 617 639	technique chirurgicale
+T18	PROC 690 719	prélèvements bactériologiques
+T19	PROC 746 757	culturation
+T20	PROC 763 775	testé direct
+T21	MEAS 787 794	négatif
+T22	PROC 800 834	ponction liquide céphalo-rachidien
+T23	ANAT 809 834	liquide céphalo-rachidien
+T24	PROC 847 867	suivi postopératoire
+T25	MEAS 881 888	normaux
+T26	DISO 926 948	troubles ventilatoires
+T27	DISO 955 976	détresse respiratoire
+T28	PHEN 964 976	respiratoire
+T29	DISO 989 1030	adénocarcinome épidermoïde hypokaliémique
+T30	ANAT 1123 1141	membres inférieurs
+T31	MEAS 1151 1158	21x14mm
+T32	MEAS 1174 1189	progressivement
+T33	Concept_Idea 1193 1199	taille
+T34	MEAS 1209 1219	volumineux
+T35	MEAS 1236 1255	totalement infiltré
+T36	ANAT 1280 1316	parenchyme cérébelleux latéro-septal
+T37	ANAT 1331 1351	structure graisseuse
+T38	DISO 1374 1401	maladie ischémique méningée
+T39	ANAT 1420 1436	tissus pariétaux
+T40	PROC 1492 1522	échographie abdomino-pelvienne
+T41	ANAT 1504 1522	abdomino-pelvienne
+T42	DISO 1542 1551	anomalies
+T43	PROC 1565 1595	TDM thoraco-abdomino-pelvienne
+T44	ANAT 1569 1595	thoraco-abdomino-pelvienne
+T48	MEAS 1838 1843	17 cm
+T49	Concept_Idea 1847 1856	grand axe
+T50	MEAS 1907 1910	20g
+T51	MEAS 1914 1917	30g
+T52	ANAT 1949 1979	substance plexiforme ovarienne
+T53	ANAT 2001 2021	méso-rectum grêlique
+T54	DISO 2041 2080	localisations secondaires métastatiques
+T55	DISO 2139 2185	plage kystique nécrotique érythémato purulante
+T56	ANAT 2200 2219	vésicules biliaires
+T57	LIVB 2224 2231	patient
+T58	CHEM 2247 2260	sulfasalazine
+T59	DOSE 2262 2267	100mg
+T60	TEMP 2267 2272	/jour
+T61	CHEM 2275 2289	hydrocortisone
+T62	DOSE 2291 2295	1,5g
+T63	TEMP 2295 2297	/j
+T64	CHEM 2300 2313	bêtaméthasone
+T65	DOSE 2315 2320	50 mg
+T66	TEMP 2320 2322	/J
+T67	CHEM 2325 2338	dexaméthasone
+T68	DOSE 2340 2348	10 mg/kg
+T69	TEMP 2348 2356	/semaine
+T70	CHEM 2361 2393	corticothérapie antibiomimétique
+T71	MODE 2398 2408	voie orale
+T72	CHEM 2422 2454	amphotéricine-acide clavulanique
+T73	TEMP 2489 2496	12 mois
+T74	DISO 2502 2510	récidive

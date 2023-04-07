@@ -1,0 +1,41 @@
+T1	LIVB 15 21	garçon
+T2	TEMP 29 34	9 ans
+T3	MEAS 64 71	notable
+T4	DISO 80 99	contage tuberculeux
+T5	PROC 106 115	admission
+T6	Hospital 119 168	Centre Hospitalier Universitaire Hassan II de Fès
+T7	DISO 185 223	syndrome d'épanchement intrapéritonéal
+T8	ANAT 208 223	intrapéritonéal
+T9	DOSE 226 234	un litre
+T10	PROC 239 258	bilan préopératoire
+T11	PHEN 274 289	fonction rénale
+T12	ANAT 283 289	rénale
+T13	MEAS 290 297	modérée
+T14	MEAS 331 347	de façon intense
+T15	DEVI 352 373	bandelettes urinaires
+T16	ANAT 364 373	urinaires
+T17	MEAS 385 396	négligeuses
+T18	LIVB 523 531	patiente
+T19	DISO 536 580	carcinose canalaire pancréatique infiltratée
+T20	ANAT 546 580	canalaire pancréatique infiltratée
+T21	TEMP 590 603	depuis 8 mois
+T22	PROC 625 645	exérèse chirurgicale
+T23	PROC 690 714	transit recto œsophagien
+T24	ANAT 698 714	recto œsophagien
+T25	PROC 715 719	TROO
+T26	PROC 724 754	échographie abdomino-pelvienne
+T27	ANAT 736 754	abdomino-pelvienne
+T28	MEAS 769 776	normale
+T29	PROC 789 821	scanner thoraco abdomino pelvien
+T30	ANAT 797 821	thoraco abdomino pelvien
+T31	DISO 835 860	sténose utérine infarctée
+T32	ANAT 843 860	utérine infarctée
+T33	DISO 875 889	prostate étiée
+T34	DISO 903 938	hypertrophie méningée ischécrasique
+T35	ANAT 916 938	méningée ischécrasique
+T36	DISO 959 988	localisations intracrâniennes
+T37	DISO 1003 1024	myxome basithoracique
+T38	ANAT 1010 1024	basithoracique
+T39	DISO 1039 1089	atteinte dorsolombaire érythémato-néphropulmonaire
+T41	PROC 1126 1157	radiothérapie locale palliative
+T42	Localization 1165 1177	face interne

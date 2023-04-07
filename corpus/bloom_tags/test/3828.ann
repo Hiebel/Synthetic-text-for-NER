@@ -1,0 +1,42 @@
+T1	LIVB 15 25	nouveau-né
+T2	Concept_Idea 50 55	poids
+T3	MEAS 59 64	3600g
+T4	PROC 75 84	transféré
+T5	Hospital 88 118	service d'accueil des urgences
+T6	Hospital 120 122	SU
+T7	DISO 138 160	déstresse respiratoire
+T8	PHEN 148 160	respiratoire
+T9	DISO 170 194	épanchement péricardique
+T10	ANAT 182 194	péricardique
+T11	TEMP 204 220	depuis 48 heures
+T12	MEAS 289 301	particuliers
+T13	DISO 329 351	traumatisme pulmonaire
+T14	ANAT 341 351	pulmonaire
+T15	DISO 364 383	symptômes cliniques
+T16	LIVB 417 421	mère
+T17	Hospital 459 467	urgences
+T18	DISO 500 540	syndrome d'épanchement péricardique aigu
+T19	ANAT 523 540	péricardique aigu
+T20	Concept_Idea 584 596	état général
+T21	DISO 647 690	douleurs surrénaliennes biliaires étranglée
+T22	ANAT 656 690	surrénaliennes biliaires étranglée
+T23	DISO 704 743	hypotension artérielle intrarachidienne
+T24	ANAT 716 743	artérielle intrarachidienne
+T25	DISO 759 776	dyspnée sifflante
+T26	PROC 781 796	examen clinique
+T27	DISO 817 845	dépression pleuro-pulmonaire
+T28	ANAT 828 845	pleuro-pulmonaire
+T29	PROC 860 889	auscultation cardiopulmonaire
+T30	ANAT 873 889	cardiopulmonaire
+T31	DISO 914 949	sensibilité thoracique normo-tendue
+T32	ANAT 926 949	thoracique normo-tendue
+T33	MEAS 980 992	environ 5 cm
+T34	Concept_Idea 996 1005	grand axe
+T35	ANAT 1026 1062	champ pulmonaire supérieur bilatéral
+T36	Localization 1053 1062	bilatéral
+T37	MEAS 1073 1077	15cm
+T38	MEAS 1086 1090	25cm
+T39	ANAT 1117 1137	musculaires crâniens
+T40	DISO 1192 1228	adénocarcinome épidermoïde hypodense
+T41	ANAT 1239 1295	parenchymateuse périphérique médiastinale basithoracique
+T42	ANAT 1316 1351	membrane alvéolo-gazeuse thoracique

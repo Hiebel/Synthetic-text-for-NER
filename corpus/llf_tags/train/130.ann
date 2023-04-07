@@ -1,0 +1,92 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 41 51	antécédent
+T3	MEAS 52 63	particulier
+T4	PROC 74 86	hospitalisée
+T5	DISO 96 118	douleurs épigastriques
+T6	ANAT 105 118	épigastriques
+T7	TEMP 128 146	depuis une semaine
+T8	PROC 150 165	examen clinique
+T9	PROC 170 179	admission
+T10	LIVB 192 202	nourrisson
+T11	MEAS 206 213	mauvais
+T12	Concept_Idea 214 226	état général
+T13	Concept_Idea 248 260	état général
+T14	PHEN 267 274	langage
+T15	PROC 304 320	examen somatique
+T16	DISO 332 345	particularité
+T17	PROC 350 367	tomodensitométrie
+T18	PROC 368 382	TDM) cérébrale
+T19	ANAT 373 382	cérébrale
+T20	DISO 416 445	processus lésionnel polylobée
+T21	MEAS 454 458	5 cm
+T22	Concept_Idea 462 470	diamètre
+T23	ANAT 479 519	quadrant supero-externe sus pubien droit
+T24	Localization 479 502	quadrant supero-externe
+T25	Localization 514 519	droit
+T26	MEAS 529 534	15 mm
+T27	Concept_Idea 538 547	grand axe
+T28	Concept_Idea 561 569	longueur
+T29	ANAT 581 602	lobe supérieur utérin
+T30	ANAT 619 646	sinus caverneux homolatéral
+T31	Localization 635 646	homolatéral
+T32	ANAT 666 689	troncs supéro-aortiques
+T33	DEVI 718 731	botte plâtrée
+T34	ANAT 787 802	anses grêliques
+T35	ANAT 854 875	pédicules céphaliques
+T36	ANAT 914 937	plan hyper vascularisée
+T37	PROC 941 975	imagerie par résonnance magnétique
+T38	DISO 997 1018	anomalie histologique
+T39	DISO 1022 1028	locale
+T40	DISO 1046 1068	métastases traumatique
+T41	DISO 1078 1099	récidive métaplasique
+T42	PROC 1114 1154	radiothérapie palliative type antalgique
+T43	CHEM 1144 1154	antalgique
+T44	PROC 1216 1246	radio chimiothérapie adjuvante
+T45	MEAS 1302 1340	8 millions d'euros HTarifs facturables
+T46	MEAS 1346 1356	1700 UI/m2
+T47	MEAS 1390 1397	simples
+T48	PROC 1405 1426	contrôle radiologique
+T49	LIVB 1492 1501	patientes
+T50	PROC 1525 1563	chimiothérapie palliative substitutive
+T51	DISO 1576 1620	fibrillation athéromateuse congénitale aiguë
+T52	PROC 1661 1687	cystolithotomie percutanée
+T56	Localization 2107 2120	haute interne
+T60	Concept_Idea 2894 2903	résultats
+T61	ANAT 2912 2915	LCS
+T62	PHEN 2920 2938	fonction cardiaque
+T63	ANAT 2929 2938	cardiaque
+T64	MEAS 2946 2950	deux
+T65	ANAT 2958 2965	cuisses
+T66	LIVB 3022 3030	patiente
+T67	PROC 3052 3058	admise
+T68	Hospital 3063 3084	urgences pédiatriques
+T69	Hospital 3088 3137	centre Hospitalier Universitaire Provincial Ténon
+T70	DISO 3149 3172	épisode infectieux aigu
+T71	DISO 3202 3218	crise convulsive
+T72	PROC 3233 3242	admission
+T73	Hospital 3246 3257	psychiatrie
+T74	PROC 3263 3287	traitement neuroleptique
+T75	CHEM 3292 3323	amoxicilline acide clavulanique
+T76	DISO 3418 3430	constipation
+T77	Concept_Idea 3557 3569	état général
+T78	PROC 3627 3642	examen clinique
+T79	LIVB 3647 3655	patiente
+T80	DISO 3721 3776	sensations déprimantes sensitivo-motrices périphériques
+T81	DISO 3794 3814	douleurs abdominales
+T82	ANAT 3803 3814	abdominales
+T83	PROC 3840 3856	examen somatique
+T84	DISO 3868 3881	particularité
+T85	PROC 3887 3901	interrogatoire
+T86	LIVB 3909 3917	patiente
+T87	LIVB 3944 3947	son
+T88	LIVB 3948 3969	mariage consanguin HB
+T89	LIVB 4011 4013	sa
+T90	LIVB 4014 4018	mère
+T91	LIVB 4022 4026	leur
+T92	LIVB 4027 4046	grand-père maternel
+T93	DEVI 4080 4110	appareil respiratoire portatif
+T94	TEMP 4202 4212	/24 heures
+T95	PROC 4273 4301	prise en charge chirurgicale
+T96	PROC 4330 4351	formule préopératoire
+T97	PROC 4364 4383	rééducation motrice
+T98	PROC 4414 4429	soins intensifs

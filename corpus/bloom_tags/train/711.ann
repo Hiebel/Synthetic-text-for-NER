@@ -1,0 +1,35 @@
+T1	LIVB 15 22	patient
+T2	PHEN 38 47	ménopausé
+T3	DISO 60 127	métastases ovariennes inféro-surrénaliennes hypophyso-thyroïdiennes
+T5	PROC 131 161	échographie abdomino-pelvienne
+T6	ANAT 143 161	abdomino-pelvienne
+T7	DISO 192 235	masse tissulaire hypo échogène vascularisée
+T8	MEAS 245 250	17 mm
+T9	Concept_Idea 254 268	grand diamètre
+T10	MEAS 277 281	deux
+T11	DISO 319 344	localisations secondaires
+T12	DISO 373 406	lésions nécrotiques hémorragiques
+T13	DISO 426 440	masse tumorale
+T14	TEMP 450 466	depuis deux mois
+T15	LIVB 473 475	sa
+T16	PROC 476 488	consultation
+T17	Hospital 493 533	hôpitaux Universitaires Hassan II de Fès
+T18	PROC 538 562	scanner abdomino-pelvien
+T19	ANAT 546 562	abdomino-pelvien
+T20	DISO 576 659	lésion hétérogène arrondie angulo-kystique bourgeonnante kystique hypervascularisée
+T21	ANAT 689 705	paroi abdominale
+T22	ANAT 726 746	fosse iliaque droite
+T23	Localization 740 746	droite
+T24	MEAS 768 772	13cm
+T25	Concept_Idea 776 789	granddiamètre
+T26	PROC 808 817	injection
+T27	CHEM 821 841	produit de contraste
+T28	DISO 863 871	kystique
+T29	ANAT 882 910	ganglionnaire rétro-vésicale
+T30	DEVI 935 943	palpeurs
+T31	Concept_Idea 971 981	caractères
+T32	ANAT 1010 1027	vésicule biliaire
+T33	PROC 1043 1068	étude anatomopathologique
+T34	LIVB 1125 1129	Elle
+T35	PROC 1148 1178	toilette bi-antibiocytolytique
+T37	CHEM 1180 1194	Ciprofloxacine

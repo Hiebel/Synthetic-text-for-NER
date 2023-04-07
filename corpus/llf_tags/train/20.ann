@@ -1,0 +1,31 @@
+T1	PROC 2 24	radiographie du thorax
+T2	ANAT 18 24	thorax
+T3	DISO 41 48	opacité
+T4	ANAT 64 79	hémiface droite
+T5	Localization 73 79	droite
+T6	PROC 84 102	bilan paraclinique
+T7	DISO 115 137	syndrome inflammatoire
+T8	Concept_Idea 147 151	taux
+T9	PROC 154 165	hémoglobine
+T10	MEAS 168 177	10,3 g/dl
+T11	PROC 184 197	sérologie VIH
+T12	MEAS 204 212	négative
+T13	PROC 216 242	étude immuno-histochimique
+T14	PROC 244 247	IHC
+T15	PHEN 285 305	récepteurs hormonaux
+T16	MEAS 314 322	positifs
+T17	LIVB 334 342	patiente
+T18	DISO 391 410	tabagisme chronique
+T19	DISO 423 448	diabète insulinodépendant
+T20	CHEM 454 491	amoxicilline acide acétyle glutamique
+T21	DISO 519 549	hyperprolactidémie congénitale
+T22	LIVB 564 568	elle
+T23	PROC 591 606	corticothérapie
+T24	PROC 620 659	néphrectomie totale extemporanéoplastie
+T25	MEAS 677 691	très difficile
+T26	TEMP 699 714	après 48 heures
+T27	Concept_Idea 776 800	plan anatomopathologique
+T28	MEAS 837 844	simples
+T29	DISO 850 877	décompensation neurologique
+T30	DISO 881 899	neuropsychiatrique
+T31	DISO 915 931	signe infectieux

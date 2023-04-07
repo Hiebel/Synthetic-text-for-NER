@@ -1,0 +1,126 @@
+T1	LIVB 15 23	patiente
+T2	DISO 40 65	antécédents pathologiques
+T3	MEAS 66 78	particuliers
+T4	PROC 89 101	hospitalisée
+T5	DISO 111 120	dysphonie
+T6	TEMP 130 143	depuis 3 mois
+T7	PROC 149 164	examen clinique
+T8	LIVB 168 176	patiente
+T9	Concept_Idea 186 198	état général
+T10	MEAS 199 205	souple
+T11	DISO 213 239	signes neuropsychiatriques
+T12	DISO 250 269	sensations tactiles
+T13	ANAT 278 300	membre supérieur droit
+T14	Localization 295 300	droit
+T15	DISO 315 339	hallucinations visuelles
+T16	ANAT 353 359	thorax
+T17	DISO 380 389	symptômes
+T18	PROC 393 407	interrogatoire
+T19	DISO 436 449	consanguinité
+T20	PROC 474 486	consultation
+T21	DISO 503 518	symptomatologie
+T22	TEMP 531 545	quelques jours
+T23	DISO 578 593	trouble panique
+T24	LIVB 605 613	patiente
+T25	LIVB 655 658	son
+T26	LIVB 659 667	conjoint
+T27	CHEM 747 757	corticoïde
+T28	CHEM 760 788	acide acétyle glycorriolique
+T29	CHEM 791 821	pénicilline acide clavulanique
+T30	CHEM 824 842	bêtalactaméthasone
+T31	CHEM 845 860	chloramphénicol
+T32	CHEM 863 878	nitro-imidazolé
+T33	CHEM 881 904	pyrazinamide adrénaliné
+T34	CHEM 907 917	céfotaxime
+T35	CHEM 920 930	isoniazole
+T36	CHEM 933 943	furosémide
+T37	CHEM 946 960	gentaméthasone
+T38	CHEM 963 976	médicamenteux
+T39	CHEM 979 990	rifampicine
+T40	CHEM 993 1004	vancomycine
+T41	CHEM 1007 1035	hydroxychlorure de potassium
+T42	CHEM 1038 1048	mégambutol
+T43	CHEM 1051 1068	méthylparacétamol
+T44	CHEM 1071 1084	noradrénaline
+T45	CHEM 1087 1097	antalgique
+T46	CHEM 1100 1112	antipaludéen
+T47	CHEM 1115 1134	monoxyde de carbone
+T48	CHEM 1137 1147	diurétique
+T49	CHEM 1150 1162	prédnisolone
+T50	CHEM 1165 1179	hydrocortisone
+T51	CHEM 1182 1193	tétrazidime
+T52	CHEM 1196 1211	oxygénothérapie
+T53	CHEM 1214 1230	immunoglobulines
+T54	CHEM 1233 1249	antispasmodiques
+T55	CHEM 1252 1265	anxiolytiques
+T56	CHEM 1268 1282	hypolipémiants
+T57	CHEM 1285 1295	carbamates
+T58	CHEM 1298 1310	carbofuranes
+T59	CHEM 1313 1321	aspirine
+T60	CHEM 1324 1340	fluoroquinolones
+T61	CHEM 1343 1357	neuroleptiques
+T62	CHEM 1360 1370	émollients
+T63	CHEM 1373 1390	calciumabouracile
+T64	CHEM 1393 1406	catécholamine
+T65	CHEM 1409 1426	gommextropoxétine
+T66	CHEM 1429 1440	pottazidime
+T67	CHEM 1443 1454	vitamine D3
+T68	CHEM 1457 1471	metformine B12
+T69	CHEM 1474 1482	insuline
+T70	CHEM 1485 1498	arythromycine
+T71	CHEM 1501 1518	glucantimepiazine
+T72	CHEM 1521 1532	nicardipine
+T73	CHEM 1535 1556	statinesulfamethasone
+T74	CHEM 1559 1580	propionate de calcium
+T75	CHEM 1583 1600	héparine standard
+T76	CHEM 1603 1613	œstrogènes
+T77	CHEM 1616 1623	opiacés
+T78	CHEM 1626 1644	ocyclophosphamides
+T79	CHEM 1647 1666	atropine dietatique
+T80	CHEM 1669 1683	ciprofloxacine
+T81	CHEM 1686 1697	néostigmine
+T82	CHEM 1700 1718	alpha progestérone
+T83	CHEM 1721 1735	méthamydrasone
+T84	CHEM 1738 1762	cyclophosphamide sodique
+T85	CHEM 1765 1789	érythromycine substitués
+T86	CHEM 1792 1804	progestérone
+T87	CHEM 1807 1820	cotrimoxazole
+T88	CHEM 1823 1836	polynuronique
+T89	CHEM 1839 1851	cytarabusone
+T91	CHEM 1866 1889	myélopéroxyprogesterone
+T92	CHEM 1892 1904	halathormone
+T93	CHEM 1907 1922	plasmacidosides
+T94	CHEM 1925 1940	enzymetilmicine
+T95	CHEM 1943 1963	tertidine carbamique
+T97	DISO 2065 2088	carcinome du sein droit
+T98	ANAT 2078 2088	sein droit
+T99	Localization 2083 2088	droit
+T100	LIVB 2108 2116	patiente
+T101	PROC 2131 2155	chimiothérapie adjuvante
+T102	PHEN 2161 2179	suites opératoires
+T103	MEAS 2185 2192	simples
+T104	PROC 2197 2217	suivi postopératoire
+T105	DISO 2234 2254	récepteurs hormonaux
+T106	Concept_Idea 2265 2290	localisations secondaires
+T107	PROC 2296 2322	examen anatomopathologique
+T108	DISO 2343 2386	tumeur à cellules chromophobes neutrophiles
+T109	Concept_Idea 2395 2416	résultat histologique
+T110	DISO 2437 2480	malakoplakiectasie mucoviscidose diabétique
+T111	PROC 2486 2524	mammographie par résonnance magnétique
+T112	PROC 2526 2544	Mason-Thoroscanner
+T113	LIVB 2567 2575	patiente
+T114	DISO 2607 2634	tumeurs nasofibroblastiques
+T115	ANAT 2615 2634	nasofibroblastiques
+T116	DISO 2653 2669	complexe tumoral
+T117	DISO 2679 2709	processus lésionnel tissulaire
+T118	Concept_Idea 2722 2742	aspect cytogénétique
+T119	PROC 2747 2774	études immunohistochimiques
+T120	DISO 2797 2814	cellules tumoraux
+T121	DISO 2888 2910	adénocarcinome myxoide
+T122	Concept_Idea 2930 2951	conditions galéniques
+T123	PROC 2956 2979	bilan pré thérapeutique
+T124	DISO 3033 3046	thrombophilie
+T125	PROC 3152 3181	immunohistochimie monoclonale
+T126	PROC 3186 3203	Tomodensitométrie
+T127	PROC 3204 3207	IHC
+T128	PROC 3213 3261	scintigraphie cervico-mandibulaire scanno-guidée

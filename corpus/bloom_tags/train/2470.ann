@@ -1,0 +1,30 @@
+T1	LIVB 20 28	patiente
+T2	DISO 63 76	myométrorrhée
+T3	DISO 93 164	syndrome d’épanchement intravésiculaire latéro utérin post ménopausique
+T5	TEMP 174 189	depuis deux ans
+T6	DISO 202 213	pathologies
+T7	PROC 226 246	examen gynécologique
+T8	DISO 267 288	souffle cytoplasmique
+T9	ANAT 275 288	cytoplasmique
+T10	DISO 295 314	saignement purulent
+T11	DISO 374 401	kyste hydatique prurigineux
+T12	DISO 442 474	localisations kystiques malignes
+T13	DISO 489 517	tuberculose caséo-folliculée
+T14	DISO 584 616	atteinte endocrine œstrogénieuse
+T15	ANAT 593 616	endocrine œstrogénieuse
+T16	DISO 633 656	thrombophilie familiale
+T17	PROC 660 699	radiographie thoraco-abdomino pelvienne
+T18	ANAT 673 699	thoraco-abdomino pelvienne
+T19	PROC 712 741	échographie cardio-vasculaire
+T20	ANAT 724 741	cardio-vasculaire
+T21	DISO 766 789	symptômes neurologiques
+T22	PROC 804 826	TDM abdomino-pélvienne
+T23	ANAT 808 826	abdomino-pélvienne
+T24	DISO 853 907	masse tumorale utérine cervico-vésicale hypohypotendue
+T26	ANAT 935 947	flux ovarien
+T27	DISO 998 1028	masse ostéolytique liquidienne
+T28	MEAS 1036 1040	12cm
+T29	Concept_Idea 1044 1053	grand axe
+T30	Hospital 1081 1114	radiocliniquement pathognomonique
+T31	DISO 1146 1170	anomalies morphologiques
+T32	DISO 1206 1249	vascularisation thromboembolique résiduelle

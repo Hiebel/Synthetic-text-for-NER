@@ -1,0 +1,47 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 83 88	admis
+T5	Hospital 93 101	urgences
+T6	DISO 120 132	hyperthermie
+T7	PHEN 142 163	contractions utérines
+T8	ANAT 155 163	utérines
+T9	MEAS 164 172	profuses
+T10	DISO 192 198	fièvre
+T11	PROC 216 235	bilan préopératoire
+T12	ANAT 270 275	grêle
+T13	TEMP 285 299	depuis 3 jours
+T14	PROC 308 323	hospitalisation
+T15	PROC 355 378	toucher cervico-vaginal
+T16	ANAT 363 378	cervico-vaginal
+T17	PROC 380 383	TCV
+T18	PROC 389 411	TDM abdomino-pelvienne
+T19	ANAT 393 411	abdomino-pelvienne
+T20	DISO 423 564	masse tissulaire nodulaire hypovolumineuse basithoracique homolatérale droite hétéro-métanéphrine liquidienne hypoéchogène hyper vascularisée
+T23	MEAS 573 578	28 mm
+T24	Concept_Idea 582 591	grand axe
+T25	MEAS 596 600	22mm
+T26	Concept_Idea 604 613	petit axe
+T27	MEAS 623 626	5cm
+T28	Concept_Idea 630 644	grand diamètre
+T29	ANAT 669 687	liquide amniotique
+T30	ANAT 727 739	mésentérique
+T31	PROC 762 768	palper
+T32	PROC 782 824	imagerie tomodensitométrique scanno-guidée
+T33	DISO 849 913	hydrocarcinose épigastrique lithiasique ischémateuse polyloculée
+T35	ANAT 932 948	paroi abdominale
+T36	ANAT 972 999	parties molles intestinales
+T37	PROC 1016 1025	injection
+T38	DOSE 1029 1033	20mg
+T39	CHEM 1037 1048	propranolol
+T40	PROC 1065 1075	extraction
+T41	PROC 1081 1112	incision pelvienne exploratrice
+T42	ANAT 1090 1112	pelvienne exploratrice
+T43	PROC 1139 1183	investigations radiologiques complémentaires
+T44	PROC 1201 1224	radiographie thoracique
+T45	ANAT 1214 1224	thoracique
+T46	PROC 1228 1239	de contrôle
+T47	MEAS 1295 1309	plus invasives
+T48	PROC 1369 1402	techniques d'immuno-radiomarquage
+T49	LIVB 1433 1441	patiente
+T50	PROC 1474 1497	soins somo-chirurgicaux

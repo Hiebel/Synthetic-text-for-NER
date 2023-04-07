@@ -1,0 +1,45 @@
+T1	LIVB 4 15	jeune femme
+T2	TEMP 24 30	23 ans
+T3	PHEN 58 67	grossesse
+T4	PROC 72 78	suivie
+T5	PROC 98 129	amoxicilline-acide clavulanique
+T6	DEVI 140 182	techniques d'immunodépression progestative
+T7	PROC 195 215	prématuré artificiel
+T8	PROC 224 231	admises
+T9	Hospital 236 258	urgences chirurgicales
+T10	DISO 294 321	douleur thoracique d'effort
+T11	ANAT 302 321	thoracique d'effort
+T12	MEAS 336 344	brulante
+T13	MEAS 359 369	rapissante
+T14	MEAS 379 402	spontanément résolutile
+T15	DISO 420 454	syndrome d’hypertension pulmonaire
+T16	ANAT 444 454	pulmonaire
+T17	LIVB 482 490	patiente
+T18	DISO 502 531	pathophysiologie neurologique
+T19	DISO 535 551	neurovégétatives
+T20	DISO 569 590	tuberculose néonatale
+T21	DOSE 685 688	1 g
+T22	CHEM 692 708	sulfaméthoxazole
+T23	MODE 709 715	600 mg
+T24	TEMP 716 732	pendant 6 heures
+T25	CHEM 764 780	Sulfaméthoxazole
+T26	CHEM 783 794	Ceftriaxone
+T27	DOSE 795 801	400 mg
+T28	TEMP 802 819	pendant 24 heures
+T29	DISO 862 881	contage tuberculeux
+T30	LIVB 911 918	famille
+T31	PROC 967 984	immunochirurgical
+T32	DISO 1069 1123	anémie hypochrome microcytaire malnutrition ferriprive
+T33	DISO 1134 1157	affections métaboliques
+T34	DISO 1396 1420	symptomatologie tumorale
+T35	CHEM 1453 1464	médicaments
+T36	MEAS 1546 1578	plusieurs dizaine de kilogrammes
+T37	PROC 1728 1747	traitement adjuvant
+T38	CHEM 1764 1777	metronidazole
+T39	CHEM 1834 1853	méthyleprednisolone
+T40	DOSE 1854 1866	0,5 µg/kg/m²
+T41	CHEM 1880 1905	trithérapie bêtaméthasone
+T42	CHEM 1911 1925	hydrocortisone
+T43	CHEM 1928 1941	dexaméthasone
+T44	DOSE 1942 1950	20 ng/ml
+T45	TEMP 1986 1993	12 mois

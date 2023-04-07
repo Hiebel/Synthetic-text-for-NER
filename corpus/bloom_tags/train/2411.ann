@@ -1,0 +1,36 @@
+T1	LIVB 16 24	patiente
+T2	PROC 50 55	reçue
+T3	LIVB 61 66	notre
+T4	Hospital 67 74	service
+T5	DISO 106 122	syndrome fébrile
+T6	DISO 183 192	symptômes
+T7	TEMP 205 216	trois jours
+T8	LIVB 223 226	son
+T9	PROC 227 236	admission
+T10	Hospital 240 270	service d'accueil des urgences
+T11	LIVB 272 276	elle
+T12	DISO 322 357	maladie thromboembolique artérielle
+T13	ANAT 347 357	artérielle
+T14	DISO 362 391	rupture hémorragique septique
+T15	PHEN 405 414	grossesse
+T16	PROC 419 425	suivie
+T17	LIVB 467 477	nouveau-né
+T18	DISO 495 511	signes néonataux
+T19	DISO 521 533	prurigineuse
+T20	TEMP 543 559	depuis 48 heures
+T21	MODE 565 583	voie intraveineuse
+T22	DOSE 631 638	2 mg/kg
+T23	CHEM 668 695	produits vasculoprolactines
+T24	CHEM 698 717	méthylhydrocortisol
+T25	DOSE 719 727	10 mg/m²
+T26	CHEM 729 742	noradrénaline
+T27	DOSE 744 753	0,5 µg/kg
+T28	PROC 800 812	chirurgicaux
+T29	MEAS 813 825	particuliers
+T30	DISO 853 875	traumatisme vasculaire
+T31	ANAT 865 875	vasculaire
+T32	DISO 882 903	détresse respiratoire
+T33	PHEN 891 903	respiratoire
+T34	LIVB 1047 1053	femmes
+T35	ANAT 1109 1124	pleural liquide
+T36	DISO 1230 1263	inflammation pulmonaire purulente

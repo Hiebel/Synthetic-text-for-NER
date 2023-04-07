@@ -1,0 +1,48 @@
+T1	LIVB 33 41	patiente
+T2	DISO 106 129	symptomatologie fébrile
+T3	DISO 158 180	pancréatocystite aiguë
+T4	DISO 185 208	néphropathie diabétique
+T5	PROC 221 245	transit recto œsophagien
+T6	ANAT 229 245	recto œsophagien
+T7	PROC 251 269	traitement curatif
+T8	CHEM 280 293	métronidazole
+T9	CHEM 294 305	rifampicine
+T10	PROC 310 335	intervention chirurgicale
+T11	LIVB 364 372	patiente
+T12	DISO 512 518	fièvre
+T13	MEAS 530 535	38°6C
+T14	MEAS 571 576	40°2C
+T15	MEAS 603 618	progressivement
+T16	Concept_Idea 622 628	taille
+T17	CHEM 668 681	noradrénaline
+T18	CHEM 684 703	méthyleprednisolone
+T19	MEAS 724 738	insufficiantes
+T20	DISO 789 810	détresse respiratoire
+T21	PHEN 798 810	respiratoire
+T22	PROC 880 890	découverte
+T23	DISO 1013 1036	diabète normo-cétosique
+T24	DISO 1043 1062	maladie métabolique
+T25	DISO 1089 1122	syndrome d’épanchement bilatérale
+T26	Localization 1112 1122	bilatérale
+T27	DISO 1211 1255	empyème péricardiel hypertrophié kystiquaire
+T28	DISO 1274 1334	vascularisation veineuse mésentéro-gastrointestinale ulcérée
+T30	PROC 1375 1396	échographie pelvienne
+T31	ANAT 1387 1396	pelvienne
+T32	DISO 1413 1454	hypertrophie hépato-pancréatique biliaire
+T33	ANAT 1426 1454	hépato-pancréatique biliaire
+T34	MEAS 1464 1468	4 cm
+T35	Concept_Idea 1472 1481	grand axe
+T36	ANAT 1503 1536	structures intestinales digestive
+T37	DISO 1597 1661	masse arrondie hypo échogéminée polylobée tissulaire hypovaginée
+T38	ANAT 1679 1703	paroi utérine abdominale
+T39	PROC 1739 1775	tomodensitométrie abdomino-pelvienne
+T40	ANAT 1757 1775	abdomino-pelvienne
+T41	DISO 1803 1812	anomalies
+T43	LIVB 2065 2072	patient
+T44	PROC 2097 2127	traitement chirurgical curatif
+T45	CHEM 2133 2146	sulfasalazine
+T46	DOSE 2148 2153	800mg
+T47	TEMP 2153 2155	/j
+T48	CHEM 2160 2173	métronidazole
+T49	DOSE 2175 2181	500 mg
+T50	TEMP 2181 2183	/j

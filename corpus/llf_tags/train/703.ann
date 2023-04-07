@@ -1,0 +1,65 @@
+T1	LIVB 15 20	homme
+T2	DISO 41 66	antécédents pathologiques
+T3	MEAS 67 79	particuliers
+T4	DISO 97 135	hypertension artérielle intracrânienne
+T5	ANAT 121 135	intracrânienne
+T6	PROC 141 151	traitement
+T7	CHEM 163 178	benzodiazepines
+T8	PROC 182 197	examen clinique
+T9	LIVB 210 217	patient
+T10	MEAS 221 228	mauvais
+T11	Concept_Idea 229 241	état général
+T12	PROC 255 271	bilan biologique
+T13	DISO 281 294	particularité
+T14	PROC 301 328	numération formule sanguine
+T15	PROC 354 371	tomodensitométrie
+T17	PROC 381 399	ionogramme sanguin
+T18	ANAT 392 399	sanguin
+T19	PROC 421 440	examens biologiques
+T20	DISO 451 460	anomalies
+T21	PROC 464 488	échographie obstétricale
+T22	DISO 513 548	distension digestive commune gauche
+T23	ANAT 524 548	digestive commune gauche
+T24	Localization 542 548	gauche
+T25	TEMP 558 574	depuis 24 heures
+T26	DEVI 610 631	masque haute pression
+T27	MEAS 690 705	progressivement
+T28	PHEN 770 779	grossesse
+T29	PROC 784 800	scanner cérébral
+T30	ANAT 792 800	cérébral
+T31	DISO 822 868	masse tissulaire inguino-utérine hypokinétique
+T32	MEAS 877 890	6 centimètres
+T33	PROC 934 960	anastomose parenchymateuse
+T34	MEAS 1003 1016	5 centimètres
+T35	DISO 1083 1122	myomeopathie interstitielle congénitale
+T36	MEAS 1159 1166	simples
+T37	LIVB 1173 1175	il
+T38	PROC 1189 1213	chimiothérapie adjuvante
+T39	Hospital 1218 1239	urgences pédiatriques
+T40	PROC 1253 1287	natrémiectomie totale exploratrice
+T41	DISO 1305 1328	défaillance intestinale
+T42	ANAT 1317 1328	intestinale
+T43	DISO 1338 1354	signe infectieux
+T44	DISO 1381 1407	maladie cœliaque primitive
+T45	PROC 1412 1448	contrôle échographique préopératoire
+T46	LIVB 1468 1475	malades
+T47	PROC 1492 1503	transfusion
+T48	PROC 1516 1521	exeat
+T49	DISO 1538 1566	hyperprolactinémie terminale
+T50	DISO 1587 1636	symptomatologie neuropsychiatrique néonatalptoide
+T51	PROC 1641 1704	bloc axillaire rénasogastro-oesophagien intraveineux endobuccal
+T52	PROC 1705 1709	TOGD
+T53	DISO 1761 1810	sarcoïdose érythémato-encéphalique monoamniotique
+T54	PROC 1864 1888	classification Ann Arbor
+T55	DISO 2009 2028	troubles trophiques
+T56	DISO 2042 2057	hypothyroïdoses
+T57	DISO 2079 2112	tuberculose multirozygote maligne
+T58	DISO 2136 2170	pathologie tuberculeuse systémique
+T59	LIVB 2251 2259	patiente
+T60	PROC 2282 2308	radiothérapie concomitante
+T61	PROC 2353 2380	schéma 3 lobule trochantéen
+T62	PROC 2393 2426	trachéotomie cervicale bilatérale
+T63	Localization 2416 2426	bilatérale
+T67	Concept_Idea 2869 2899	résultats anatomopathologiques
+T68	PROC 2930 2949	traitement adjuvant
+T69	TEMP 2971 2977	7 mois

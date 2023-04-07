@@ -1,0 +1,43 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	DISO 50 69	pleurésie purulente
+T4	DISO 81 90	anomalies
+T5	PROC 105 114	admission
+T6	Hospital 123 153	service d'accueil des urgences
+T7	Hospital 157 206	centre hospitalier universitaire Hassan II de Fès
+T8	PROC 211 228	bilan d'extension
+T9	MEAS 235 246	négligeable
+T10	PROC 250 265	examen clinique
+T11	Concept_Idea 278 283	poids
+T12	MEAS 287 292	14 kg
+T13	Concept_Idea 298 304	taille
+T14	MEAS 308 313	69 cm
+T15	Concept_Idea 321 357	indice de développement psychomoteur
+T16	MEAS 368 372	3/10
+T17	PHEN 382 410	récupération motrice globale
+T18	LIVB 425 427	Il
+T19	PROC 450 481	échographie abdomino- pelvienne
+T20	ANAT 462 481	abdomino- pelvienne
+T21	DISO 498 555	masse tissulaire latéro-lombaire bilatérale péristaltique
+T22	Localization 531 541	bilatérale
+T23	MEAS 565 569	21cm
+T24	Concept_Idea 573 582	grand axe
+T25	MEAS 584 593	hypodense
+T26	DEVI 597 622	coupe pelvien monochambre
+T28	ANAT 642 658	rebords vaginaux
+T29	ANAT 679 690	méso utérin
+T30	ANAT 711 729	organes hépatiques
+T31	MEAS 778 788	régulières
+T32	DISO 821 837	paraganglonnante
+T33	LIVB 892 900	patiente
+T34	TEMP 909 914	9 ans
+T35	DISO 942 966	néphropathie congénitale
+T36	TEMP 976 987	depuis 1 an
+T37	LIVB 1033 1057	médecin-kinésithérapeute
+T38	PROC 1084 1091	extubée
+T39	DISO 1097 1118	détresse respiratoire
+T40	PHEN 1106 1118	respiratoire
+T41	MEAS 1128 1142	insufflicielle
+T42	MEAS 1155 1166	progressive
+T43	PROC 1190 1221	corticoïdothérapie probabiliste
+T44	DISO 1351 1368	dyspnée sifflante

@@ -1,0 +1,84 @@
+T1	MEAS 0 7	normale
+T2	PROC 12 34	radiographie du thorax
+T3	ANAT 28 34	thorax
+T4	DISO 50 102	processus tissulaire de l’artère thyroïdienne gauche
+T5	ANAT 76 102	artère thyroïdienne gauche
+T6	Localization 96 102	gauche
+T7	Concept_Idea 105 111	allure
+T8	DISO 112 125	inflammatoire
+T9	DISO 136 184	dilatation des troncs supra-aortiques glottiques
+T10	ANAT 151 184	troncs supra-aortiques glottiques
+T11	DISO 196 219	anomalies radiologiques
+T12	PROC 233 252	bilan préopératoire
+T13	PROC 260 280	examens paraclinique
+T14	DISO 305 334	insuffisance rénale terminale
+T15	ANAT 318 324	rénale
+T16	MEAS 337 344	0,5 g/l
+T17	PHEN 349 364	fonction rénale
+T18	PROC 413 443	TDM thoraco-abdomino-pelvienne
+T19	ANAT 417 443	thoraco-abdomino-pelvienne
+T20	DISO 486 662	adénopathie médiastino-pariétale bilatérale fundique droite scanno-trachéo sternale postéro thoracique homolatérale inférieure lobaire distale antero-clavière antérieure droite
+T25	Localization 645 662	antérieure droite
+T26	DISO 685 769	épanchement péricardique segmentaire liquidien périrénal hypercholestérol hétérogène
+T28	DISO 820 856	distension digestive jugulocarsienne
+T29	ANAT 831 856	digestive jugulocarsienne
+T30	PROC 879 909	échographie transoesophagienne
+T31	ANAT 891 909	transoesophagienne
+T32	DISO 952 1048	hypertrophie myxomateuse médiastinale eccrinescente hypogastroduodénale dipyramidale asymétrique
+T33	DISO 1066 1109	gastrite acromédullaire généralisée maligne
+T34	MEAS 1129 1142	environ 15 cm
+T35	Concept_Idea 1146 1155	grand axe
+T36	LIVB 1165 1173	patiente
+T37	MEAS 1182 1190	stade IV
+T38	MEAS 1194 1201	stade V
+T39	CHEM 1212 1225	éthambutolone
+T40	DOSE 1227 1233	4mg/kg
+T41	TEMP 1233 1235	/j
+T42	Concept_Idea 1248 1266	facteur rhumatoïde
+T43	MEAS 1276 1304	20µg/kg masse corporelle sec
+T44	PROC 1311 1320	admission
+T45	Hospital 1325 1346	urgences pédiatriques
+T46	DEVI 1361 1380	seringue électrique
+T47	DISO 2110 2154	hyperkaliémie congénitale normohistochimique
+T48	ANAT 2167 2179	rein gaucher
+T49	Localization 2172 2179	gaucher
+T50	DISO 2185 2236	symptômes neuropsychiatriques sensitivo-moteuronaux
+T51	DISO 2248 2277	hallucinations proprioceptifs
+T52	DISO 2323 2339	cyanose mellitus
+T53	PROC 2428 2439	obstétrical
+T54	DISO 2477 2506	hallucinations physiologiques
+T55	LIVB 2609 2645	professionnels de santé hémodialysés
+T56	PROC 2649 2664	examen clinique
+T57	LIVB 2677 2684	patient
+T58	MEAS 2688 2695	mauvais
+T59	Concept_Idea 2696 2708	état général
+T60	DISO 2714 2732	pâtes alimentaires
+T61	DISO 2751 2780	sensibilité aux antibiotiques
+T62	CHEM 2767 2780	antibiotiques
+T63	DISO 2793 2814	signes inflammatoires
+T64	DISO 2831 2847	éruption cutanée
+T65	DISO 2857 2873	déficit cognitif
+T66	PROC 2879 2893	interrogatoire
+T67	DISO 2911 2924	consanguinité
+T68	TEMP 2951 2975	nasopharynxat anéchogène
+T69	TEMP 2983 2989	21 ans
+T70	PROC 3004 3011	adressé
+T71	Hospital 3015 3065	Centre Hospitalier Universitaire Yalgado Ouédraogo
+T72	Hospital 3067 3073	CHU YO
+T73	PROC 3094 3140	traitement antipalustrectomie totale adjuvante
+T74	PROC 3169 3194	chimiothérapie palliative
+T75	PROC 3208 3249	corticothérapie concomitante substitutive
+T76	PHEN 3268 3280	respiratoire
+T77	TEMP 3304 3310	4 mois
+T78	PROC 3322 3327	suivi
+T79	DISO 3341 3373	syndrome myélodysplasmocaustique
+T80	MEAS 3464 3472	stade II
+T81	LIVB 3488 3510	médecins orthopédistes
+T82	LIVB 3614 3627	orthopédistes
+T83	Concept_Idea 3650 3673	caractère professionnel
+T84	Concept_Idea 3683 3706	niveau socio économique
+T85	LIVB 3746 3752	filles
+T86	TEMP 3762 3768	18 ans
+T87	LIVB 3830 3837	parents
+T88	MEAS 3897 3903	23/159
+T89	MEAS 3907 3913	25/127

@@ -1,0 +1,95 @@
+T1	LIVB 2 8	enfant
+T2	TEMP 16 22	11 ans
+T3	DISO 42 53	traumatisme
+T4	Localization 76 92	face postérieure
+T5	ANAT 96 118	membre supérieur droit
+T6	Localization 113 118	droit
+T7	DISO 136 147	hématémèses
+T8	PROC 151 166	examen clinique
+T9	LIVB 177 184	patient
+T10	MEAS 188 191	bon
+T11	Concept_Idea 192 204	état général
+T12	DISO 211 225	déficit moteur
+T13	DISO 229 241	vomissements
+T14	PHEN 249 273	réflexes ostéo-tendineux
+T15	ANAT 258 273	ostéo-tendineux
+T16	MEAS 279 286	normaux
+T17	PROC 292 306	interrogatoire
+T18	LIVB 323 333	nouveau-né
+T19	Hospital 386 393	service
+T20	DISO 445 461	crise convulsive
+T21	Concept_Idea 506 518	état général
+T22	DISO 520 534	amaigrissement
+T23	MEAS 537 541	39kg
+T24	TEMP 542 555	la 1ère heure
+T25	PROC 561 580	bilan préopératoire
+T26	DISO 618 641	souffrance respiratoire
+T27	ANAT 629 641	respiratoire
+T28	DISO 648 669	récidive pathologique
+T29	LIVB 706 712	enfant
+T30	PROC 716 734	étude histologique
+T31	DISO 763 788	symptomatologie somatique
+T32	DISO 912 918	fièvre
+T33	TEMP 944 964	24 heures auparavant
+T34	TEMP 1035 1040	12h30
+T35	DISO 1055 1080	symptomatologie viscérale
+T36	DISO 1324 1346	pathologie infectieuse
+T37	DISO 1428 1461	maladie inflammatoire auto-immune
+T38	DISO 1480 1497	céphalosporine B®
+T39	PROC 1503 1529	consultation psychiatrique
+T40	DISO 1560 1609	troubles obsessionnels compulsifs tonicocloniques
+T41	LIVB 1662 1665	son
+T42	LIVB 1666 1672	épouse
+T43	LIVB 1676 1678	sa
+T44	LIVB 1679 1692	belle-famille
+T45	CHEM 1762 1779	produits laitiers
+T46	DEVI 1872 1888	appareil génital
+T47	MEAS 1906 1927	difficile à contrôler
+T48	DISO 2117 2170	complications neuropsychiatriques psychotiques aiguës
+T49	DISO 2304 2337	perceptions délirantes chroniques
+T50	DISO 2377 2407	contractures dysfonctionnelles
+T51	Concept_Idea 2489 2515	caractéristiques cliniques
+T52	PROC 2898 2920	chirurgie exploratrice
+T53	PROC 2977 3005	investigations chirurgicales
+T54	LIVB 3016 3022	garçon
+T55	TEMP 3030 3036	10 ans
+T56	DISO 3061 3084	traumatisme asymétrique
+T57	ANAT 3126 3148	membre inférieur droit
+T58	Localization 3143 3148	droit
+T59	DISO 3166 3177	hématémèses
+T60	DISO 3195 3223	lésions érythémato-anxieuses
+T61	ANAT 3321 3353	plexus brachial supérieur gauche
+T62	Localization 3347 3353	gauche
+T63	DISO 3369 3383	déficit moteur
+T64	DISO 3393 3421	symptomatologie pathologique
+T65	MEAS 3443 3453	favorables
+T66	PROC 3459 3477	antibioprophylaxie
+T67	PROC 3493 3521	corticothérapie concomitante
+T68	PROC 3536 3555	bilan préopératoire
+T69	LIVB 3586 3596	nouveau-né
+T70	DISO 3601 3644	dysmorphie cervico-mandibulaire congénitale
+T71	TEMP 3654 3670	depuis 24 heures
+T72	DISO 3690 3698	apyrexie
+T73	PHEN 3720 3740	grossesse gémellaire
+T74	PROC 3745 3751	suivie
+T75	DISO 3776 3800	troubles comportementaux
+T76	DISO 3814 3852	infections sexuellement transmissibles
+T77	DISO 3875 3884	agression
+T78	TEMP 3897 3903	2 mois
+T79	LIVB 3930 3936	enfant
+T80	DISO 3995 4023	distension abdominopelvienne
+T81	ANAT 4006 4023	abdominopelvienne
+T82	DISO 4050 4063	consanguinité
+T83	DISO 4074 4098	anomalies morphologiques
+T84	DISO 4320 4339	céphalées brûlantes
+T85	MEAS 4370 4377	atroces
+T86	DISO 4394 4421	brûlures cutanées profondes
+T87	ANAT 4440 4466	région thoracique erectile
+T88	ANAT 4492 4508	muqueuse buccale
+T89	DISO 4530 4560	nodules polylobés hypoéchogène
+T90	MEAS 4570 4574	6 cm
+T91	DISO 4646 4678	léiomyome épidermoïde stade EMBR
+T92	MEAS 4690 4705	progressivement
+T93	Concept_Idea 4709 4715	taille
+T94	PROC 4746 4775	scanners tomodensitométriques
+T95	DISO 4793 4831	remaniements liquidiens inflammatoires

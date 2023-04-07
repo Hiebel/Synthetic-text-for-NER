@@ -1,0 +1,99 @@
+T1	DISO 18 27	infection
+T2	MEAS 28 36	évidente
+T3	PROC 40 55	examen clinique
+T4	LIVB 69 77	patiente
+T5	MEAS 81 88	mauvais
+T6	Concept_Idea 89 101	état général
+T7	ANAT 110 117	abdomen
+T8	MEAS 118 124	souple
+T9	DISO 131 145	déficit moteur
+T10	DISO 149 161	hémorragique
+T11	PHEN 167 191	réflexes ostéo-tendineux
+T12	ANAT 176 191	ostéo-tendineux
+T13	MEAS 200 218	légèrement limités
+T14	PROC 236 251	examen physique
+T15	DISO 263 277	particularités
+T16	PROC 282 299	tomodensitométrie
+T17	PROC 300 331	TDM) thoraco abdomino pelvienne
+T18	ANAT 305 331	thoraco abdomino pelvienne
+T19	DISO 358 375	lésions kystiques
+T20	ANAT 389 414	péritoine pariétale droit
+T21	Localization 409 414	droit
+T22	ANAT 441 482	fosse infra temporale homolatérale gauche
+T23	Localization 463 482	homolatérale gauche
+T24	DISO 496 552	masse tissulaire rénitente péri péritonéale hypokystique
+T25	MEAS 561 568	6/10 cm
+T26	DEVI 592 605	botte plâtrée
+T27	ANAT 634 657	hémi-champs thoraciques
+T28	ANAT 677 701	cavités gastroduodénales
+T29	MEAS 735 740	30 mm
+T30	MEAS 744 749	40 mm
+T31	MEAS 801 808	simples
+T32	PROC 814 838	chimiothérapie adjuvante
+T33	CHEM 844 856	amoxicilline
+T34	DOSE 858 863	20 mg
+T35	TEMP 863 868	/24 h
+T36	CHEM 871 889	acide clavulanique
+T37	DOSE 891 896	50 mg
+T38	TEMP 896 906	/24 heures
+T39	CHEM 911 923	doxorubicine
+T40	DOSE 925 931	100 mg
+T41	TEMP 931 941	/24 heures
+T42	MEAS 977 986	favorable
+T43	Concept_Idea 994 1011	plan psychomoteur
+T44	DISO 1063 1084	récidive neurologique
+T45	PROC 1179 1212	traitement palliatif conservateur
+T46	PROC 1223 1230	mariage
+T47	PROC 1235 1252	scanner abdominal
+T48	ANAT 1243 1252	abdominal
+T49	PROC 1273 1283	extubation
+T50	DISO 1300 1337	tumeur bourgeonnante érythroblastique
+T51	DISO 1342 1349	myxoide
+T52	PROC 1359 1382	classification TNMH OMS
+T53	PROC 1461 1482	biopsie scanno-guidée
+T54	DISO 1523 1545	anomalie morphologique
+T55	DISO 1625 1634	symptômes
+T56	PROC 1661 1695	reconstruction anatomopathologique
+T57	DISO 1717 1786	prolifération tumorale carcinomateuse polyploïde monoclonale fundique
+T58	ANAT 1805 1817	sein gauches
+T59	Localization 1810 1817	gauches
+T60	ANAT 1836 1850	zones charnues
+T61	ANAT 1880 1938	région sus mésentérique superficielle postéro-médiastinale
+T62	DISO 1968 1990	adénomégalies myxoïdes
+T63	DISO 2034 2060	métastases ostéoblastiques
+T64	PROC 2407 2451	curage ganglion cervical axillaire percutané
+T67	MEAS 2637 2651	10 centimètres
+T68	Concept_Idea 2655 2664	petit axe
+T69	MEAS 2676 2690	14 centimètres
+T70	Concept_Idea 2694 2703	grand axe
+T71	DEVI 2732 2746	fil résorbable
+T72	ANAT 2760 2771	fémur droit
+T73	Localization 2766 2771	droit
+T74	LIVB 2787 2793	malade
+T75	CHEM 2809 2838	sulfate de cériumµ gélatinisé
+T76	DISO 2878 2887	infection
+T77	DISO 2891 2914	complication secondaire
+T78	DISO 2932 2967	maladie thromboembolique ischémique
+T79	DISO 3032 3053	récidive neurologique
+T80	LIVB 3080 3090	nouveau-né
+T81	PHEN 3096 3103	langage
+T82	MEAS 3104 3117	lambdachement
+T84	CHEM 3163 3181	méthylpénicétamide
+T85	PROC 3195 3217	radio cardiothoracique
+T86	TEMP 3275 3285	11/08/2017
+T87	LIVB 3305 3312	parents
+T88	Concept_Idea 3340 3356	consignes vitaux
+T89	PROC 3370 3388	séjour hospitalier
+T90	PROC 3393 3420	remplissage thoraco laryngé
+T91	ANAT 3405 3420	thoraco laryngé
+T92	PROC 3473 3524	transfusion sanguine intraveineuse intrarachidienne
+T93	PROC 3539 3573	reprise chirurgicale préopératoire
+T94	PROC 3618 3671	oxygénothérapie néo adjuvante parentérale double dose
+T95	MODE 3705 3774	corticoïde per os fémoral multiphosphoré OCT1 fractionnement isotrope
+T96	CHEM 3777 3828	metformine acide ascorbique conjugué thioprostolone
+T97	PROC 3842 3868	consultation psychiatrique
+T98	Concept_Idea 3920 3940	moyens diagnostiques
+T99	PROC 3960 3973	radiologiques
+T100	Hospital 4062 4082	services spécialisés
+T101	LIVB 4131 4139	patients
+T102	DISO 4152 4179	troubles schizophréniformes

@@ -1,0 +1,29 @@
+T1	LIVB 29 34	femme
+T2	DISO 102 140	syndrome d’épanchement intrapéritonéal
+T3	ANAT 125 140	intrapéritonéal
+T4	PHEN 152 172	grossesse gémellaire
+T5	PROC 178 206	antibiothérapie progestative
+T6	CHEM 227 238	Rifampicine
+T7	CHEM 240 254	Ciprofloxacine
+T8	CHEM 256 268	Pyrazinamide
+T9	CHEM 270 281	Cyclosérine
+T10	CHEM 283 294	Ethionamide
+T11	CHEM 296 310	Chlorpromazine
+T12	CHEM 312 324	Methotrexate
+T13	CHEM 326 340	Idexaméthasone
+T14	CHEM 342 355	Phénobarbital
+T15	CHEM 357 370	Doxycyclidine
+T16	CHEM 372 388	Gentamicamycline
+T17	CHEM 390 396	Vit B6
+T18	CHEM 398 409	Vinblastine
+T19	CHEM 411 424	Bêtaméthasone
+T20	CHEM 426 440	Hydrocortisone
+T21	MEAS 501 513	2900 GB/mm 2
+T22	MEAS 602 613	2130 µmol/l
+T23	MEAS 617 628	2370 µmol/l
+T24	MEAS 660 666	2160 e
+T25	MEAS 670 676	2650 e
+T26	LIVB 766 773	patient
+T27	DISO 810 837	léiomyosarcome hypertrophié
+T28	PROC 898 924	examen anatomopathologique
+T29	DISO 953 978	localisation métastatique

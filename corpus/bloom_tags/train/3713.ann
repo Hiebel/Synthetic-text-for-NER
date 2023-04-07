@@ -1,0 +1,27 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	3 ans
+T3	Concept_Idea 44 49	poids
+T4	MEAS 53 58	30 kg
+T5	PROC 60 65	admis
+T6	Hospital 70 91	urgences pédiatriques
+T7	DISO 101 107	fièvre
+T8	MEAS 110 114	40°c
+T9	DISO 130 160	lésions érythémato-pustuleuses
+T10	ANAT 174 179	coude
+T11	TEMP 189 202	depuis 6 mois
+T12	PROC 206 221	examen clinique
+T13	DISO 238 261	tuméfaction douloureuse
+T14	DISO 265 277	polypulmonée
+T15	DISO 294 319	myxopéricardite purulente
+T16	PROC 323 353	échographie abdomino-pelvienne
+T17	ANAT 335 353	abdomino-pelvienne
+T18	DISO 365 373	anomalie
+T19	PROC 387 411	scanner abdomino-pelvien
+T20	ANAT 395 411	abdomino-pelvien
+T21	DISO 425 496	épanchement liquidien péripéritonéal liquidien lithiasique hypertrophié
+T23	MEAS 506 511	46 mm
+T24	Concept_Idea 515 524	grand axe
+T25	ANAT 541 572	parties molles cervico-vaginaux
+T26	ANAT 593 613	fosse iliaque droite
+T27	Localization 607 613	droite
+T28	CHEM 632 663	amoxicilline-acide clavulanique

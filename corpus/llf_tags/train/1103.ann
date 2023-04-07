@@ -1,0 +1,44 @@
+T1	LIVB 15 20	homme
+T2	DISO 41 66	antécédents pathologiques
+T3	MEAS 67 79	particuliers
+T4	PROC 81 86	Admis
+T5	DISO 96 117	tumeur du sein gauche
+T6	ANAT 106 117	sein gauche
+T7	Localization 111 117	gauche
+T8	Concept_Idea 133 136	âge
+T9	TEMP 140 146	2 mois
+T10	MEAS 162 177	progressivement
+T11	Concept_Idea 181 187	volume
+T12	MEAS 228 234	3/4 cm
+T13	TEMP 277 283	6 mois
+T14	PROC 289 304	examen clinique
+T15	LIVB 309 316	patient
+T16	MEAS 326 333	mauvais
+T17	Concept_Idea 334 346	état général
+T18	DISO 368 374	fièvre
+T19	DISO 381 397	syndrome grippal
+T20	DISO 438 460	sensibilité abdominale
+T21	ANAT 450 460	abdominale
+T22	CHEM 465 500	anti-inflammatoires non stéroïdiens
+T23	CHEM 502 527	acide acétyle thiazidique
+T24	PHEN 533 554	fonction respiratoire
+T25	ANAT 542 554	respiratoire
+T26	MEAS 559 566	normale
+T27	PROC 571 598	bilan radiologique standard
+T28	LIVB 620 627	patient
+T29	DISO 641 653	thrombopénie
+T30	MEAS 656 666	1040 UI/ml
+T31	MEAS 672 722	18 fois la limite supérieure tolérée µ 0,25 mmol/l
+T32	DEVI 737 766	cristalloïdes glucocorticoïde
+T33	PROC 854 864	extubation
+T34	PROC 870 898	chimiothérapie néo adjuvante
+T35	PROC 941 980	néphrotoxicose intraveineuse percutanée
+T36	PROC 1031 1041	opératoire
+T37	TEMP 1059 1067	15 jours
+T38	MEAS 1100 1107	simples
+T39	PROC 1111 1136	étude immunohistochimique
+T40	PROC 1156 1161	étude
+T41	DISO 1684 1705	signes inflammatoires
+T42	DISO 1716 1745	symptômes neuropsychiatriques
+T43	PROC 1773 1795	traitement chirurgical
+T44	Concept_Idea 1818 1846	caractère multidisciplinaire

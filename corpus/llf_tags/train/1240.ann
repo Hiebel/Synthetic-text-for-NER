@@ -1,0 +1,36 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	DEVI 56 64	prothèse
+T4	DISO 71 76	masse
+T5	DISO 103 125	anomalie morphologique
+T6	DISO 129 137	métrique
+T7	Concept_Idea 150 169	aspect histologique
+T8	PROC 174 209	traitement chirurgical conservateur
+T9	Localization 246 252	droite
+T10	MEAS 262 267	bonne
+T11	PHEN 268 281	cicatrisation
+T12	LIVB 290 297	patient
+T13	PROC 302 311	transféré
+T14	Hospital 315 319	bloc
+T15	PROC 325 350	rééducation fonctionnelle
+T16	MEAS 368 374	normal
+T17	PROC 378 404	examen anatomopathologique
+T18	DISO 426 626	adénocarcinome anévrysmale des parties molles intracanalaires cervico-pariétales métatarsiennes péribronchovasculaires jugulocaverneuses temporales fronto-temporo pariétale bilatéral supérieure droite
+T20	Localization 599 626	bilatéral supérieure droite
+T21	DISO 638 661	localisation secondaire
+T22	PROC 676 714	laparotomie exploratrice préopératoire
+T23	PROC 743 784	radio chimiothérapie palliative adjuvante
+T24	CHEM 790 819	triméthoprimesulfamethoxazole
+T25	DOSE 821 829	40 mg/kg
+T26	TEMP 829 831	/j
+T27	PROC 847 898	endoscopie digestivo-hépato-duodénale peropératoire
+T28	ANAT 918 935	vésicule biliaire
+T29	PROC 940 960	suivi postopératoire
+T31	PROC 1054 1112	anastomose abdomino-trachéale postéro latérale postérieure
+T33	Localization 1101 1112	postérieure
+T34	PROC 1135 1162	angioplastie néoprostatique
+T35	MEAS 1205 1212	simples
+T36	PROC 1219 1245	stabilisation chirurgicale
+T37	LIVB 1326 1375	sagessepsisciplinaires anesthésistes pédiatriques
+T38	LIVB 1571 1594	professionnels de santé
+T39	PROC 1610 1626	prises en charge

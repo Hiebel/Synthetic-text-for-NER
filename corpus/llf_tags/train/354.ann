@@ -1,0 +1,49 @@
+T1	LIVB 19 24	homme
+T2	Concept_Idea 45 56	antécédents
+T3	MEAS 57 69	particuliers
+T4	Hospital 92 100	urgences
+T5	DISO 110 156	tuméfaction douloureuse des membres inférieurs
+T6	ANAT 138 156	membres inférieurs
+T7	TEMP 166 179	depuis 2 mois
+T8	PROC 183 198	examen clinique
+T9	PROC 203 212	admission
+T10	LIVB 225 232	patient
+T11	MEAS 236 243	mauvais
+T12	Concept_Idea 244 256	état général
+T13	DISO 288 310	constipation chronique
+T14	LIVB 338 340	il
+T15	CHEM 361 379	anti-inflammatoire
+T16	CHEM 404 422	bronchodilatateurs
+T17	PROC 436 454	bilan radiologique
+T18	DISO 466 480	particularités
+T19	PROC 486 505	examens biologiques
+T20	DISO 524 536	hypokaliémie
+T21	MEAS 539 549	7,5 mmol/l
+T22	MEAS 556 573	6 fois la normale
+T23	PHEN 579 594	fonction rénale
+T24	ANAT 588 594	rénale
+T25	MEAS 599 606	normale
+T26	PROC 621 667	touchers cardio-vasculaires cervico-thoracique
+T27	ANAT 630 648	cardio-vasculaires
+T28	Concept_Idea 705 725	aspect morphologique
+T29	DISO 742 758	maladie cœliaque
+T30	LIVB 767 774	patient
+T31	PROC 794 819	trithérapie antiagrégante
+T32	CHEM 825 858	amoxicilline acide clavulanique ®
+T33	PROC 872 900	corticothérapie probabiliste
+T34	DISO 931 960	symptomatologie psychiatrique
+T35	PROC 969 979	opératoire
+T36	PROC 985 1014	anticoagulation intraveineuse
+T37	PROC 1015 1033	cathéter péridural
+T38	DEVI 1052 1069	sonde péritonéale
+T39	ANAT 1058 1069	péritonéale
+T40	Localization 1088 1103	portion distale
+T41	MEAS 1120 1130	4x8 x 6 cm
+T42	MODE 1136 1154	culots globulaires
+T43	PROC 1189 1214	injection intramusculaire
+T44	Concept_Idea 1240 1269	critères préétablis cliniques
+T45	PROC 1282 1293	hémodialyse
+T46	PROC 1298 1324	recherche étiopathogénique
+T47	MEAS 1336 1354	fortement positive
+T48	PROC 1381 1409	analyse immuno-histochimique
+T49	Concept_Idea 1547 1569	résidus toxicologiques

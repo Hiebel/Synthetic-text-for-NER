@@ -1,0 +1,81 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 51 88	syndrome dysmorphique du cuir chevelu
+T4	ANAT 76 88	cuir chevelu
+T5	PROC 108 131	traitement chirurgicaux
+T6	PROC 137 168	surveillance radiothérapeutique
+T7	PROC 170 173	IRT
+T8	CHEM 189 213	protocols brachythermyne
+T9	PHEN 243 255	récupération
+T10	MEAS 262 275	satisfaisante
+T11	MEAS 317 337	complètement altérée
+T12	DISO 368 379	pathologies
+T13	DISO 443 487	symptomatologie prurigineuse cutanée maligne
+T14	DISO 545 566	détresse respiratoire
+T15	PHEN 554 566	respiratoire
+T16	DISO 575 599	aggravation neurologique
+T17	DISO 634 663	paralysie motrice congénitale
+T18	DEVI 684 722	voies aéro-ventilatoires artificielles
+T19	PROC 725 749	étude anatomopatholgique
+T20	DISO 777 815	lymphome malin non hodgkinien kystique
+T21	PROC 836 855	chirurgie adjuvante
+T22	DISO 904 918	résidu tumoral
+T23	DISO 979 996	lésions associées
+T24	DISO 1014 1041	tissu érythémateux purulent
+T25	DISO 1078 1113	reprise épithélio-gigantocellulaire
+T26	DISO 1158 1206	hyperkératose inflammatoire bulleuse lésionnelle
+T27	PROC 1271 1300	bilan d'immuno-hypotensionnel
+T28	PROC 1337 1356	hémoglobine glyquée
+T29	PROC 1358 1392	anticorps anti-thyroglobulines IgG
+T30	PROC 1394 1439	anticorps antipeptides natifs anti-myosin IHC
+T31	PROC 1442 1452	anti PS100
+T32	MEAS 1485 1493	négatifs
+T33	MEAS 1528 1546	fortement positifs
+T34	DOSE 1574 1580	2mg/kg
+T35	DOSE 1585 1592	3 mg/kg
+T36	PROC 1598 1608	diagnostic
+T37	DISO 1633 1660	polynucléaires neutrophiles
+T38	DISO 1878 1897	maladie auto-immune
+T39	PROC 1952 1965	sérologie VIH
+T40	MEAS 1972 1980	négative
+T41	PROC 1986 2012	scanner abdomino-pélvienne
+T42	ANAT 1994 2012	abdomino-pélvienne
+T43	DISO 2026 2089	épanchement intrapéritonéal latéro péribuccal plexique infiltré
+T45	DISO 2104 2140	pancréatite carcinomateuse polylobée
+T46	ANAT 2160 2172	méso pelvien
+T47	DISO 2193 2206	inflammatoire
+T48	Concept_Idea 2324 2332	contours
+T49	MEAS 2333 2342	réguliers
+T50	MEAS 2353 2358	46 cm
+T51	MEAS 2363 2368	24 cm
+T52	PROC 2375 2392	tomodensitométrie
+T53	PROC 2394 2397	TDM
+T54	DISO 2418 2494	syndrome d’épanchement bilatéral du liquide céphalo-rachidiens perirachidien
+T55	Localization 2441 2450	bilatéral
+T56	ANAT 2454 2494	liquide céphalo-rachidiens perirachidien
+T57	DISO 2512 2560	tuberculose érythémateuse des membres inférieurs
+T58	ANAT 2542 2560	membres inférieurs
+T59	DISO 2573 2592	lésions secondaires
+T60	DISO 2619 2641	anomalies métaboliques
+T61	LIVB 2643 2647	Nous
+T62	LIVB 2685 2693	patiente
+T63	PROC 2696 2714	ionogramme sanguin
+T64	ANAT 2707 2714	sanguin
+T65	PHEN 2735 2743	natrémie
+T66	MEAS 2746 2755	120 meq/l
+T67	MEAS 2774 2784	0,35 meq/l
+T68	PROC 2788 2854	écho-Doppler vasculo-nerveux cervico-vestibulaire trans-thoracique
+T69	ANAT 2801 2854	vasculo-nerveux cervico-vestibulaire trans-thoracique
+T70	DISO 2881 2929	hypokinésie globale sensitivomotrice asymétrique
+T71	DISO 2939 2953	paragangliante
+T72	ANAT 2977 3018	voies ganglionnaires cervicovestibulaires
+T73	ANAT 3038 3067	corps vertébraux superficiels
+T74	DISO 3109 3130	insuffisance cœliaque
+T75	ANAT 3122 3130	cœliaque
+T76	DISO 3162 3180	empyème thoracique
+T77	ANAT 3170 3180	thoracique
+T78	PROC 3214 3240	traitement médical curatif
+T79	CHEM 3251 3270	Valproate de sodium
+T80	CHEM 3271 3282	Cyclosérine
+T81	CHEM 3284 3290	Vit B6
+T82	Hospital 3293 3330	Hôpital périphérique Hassan II de Fès

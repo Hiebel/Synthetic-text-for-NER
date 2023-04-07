@@ -1,0 +1,53 @@
+T1	LIVB 9 19	Monsieur A
+T2	PROC 68 89	avortements spontanés
+T3	Hospital 104 125	urgences pédiatriques
+T4	DEVI 295 312	luttes cervicales
+T5	LIVB 390 408	famille maternelle
+T6	LIVB 413 423	nouveau-né
+T7	PROC 429 438	scolarisé
+T8	LIVB 462 464	sa
+T9	PROC 465 487	consultation prénatale
+T10	LIVB 506 509	son
+T11	LIVB 510 523	père maternel
+T12	PROC 535 556	mariage consanguinité
+T13	PROC 631 643	accouchement
+T14	MEAS 688 689	6
+T15	LIVB 690 697	enfants
+T16	PROC 750 756	suivie
+T17	LIVB 784 791	garçons
+T18	TEMP 832 839	18 mois
+T20	PROC 1027 1051	échographie obstétricale
+T21	MEAS 1127 1128	3
+T22	CHEM 2001 2005	AINS
+T23	Concept_Idea 2227 2247	aspect morphologique
+T24	DISO 2268 2279	tuberculose
+T25	DISO 2294 2306	diabète aigu
+T26	PROC 2311 2321	traitement
+T27	PROC 2334 2379	injection intramusculaire du colon transverse
+T28	ANAT 2363 2379	colon transverse
+T29	PROC 2403 2427	néphrotomie exploratrice
+T30	PROC 2441 2464	exentération percutanée
+T31	Hospital 2468 2483	bloc opératoire
+T32	PROC 2493 2512	geste préopératoire
+T33	MEAS 2549 2556	simples
+T34	DISO 2573 2590	récidive tumorale
+T35	DISO 2597 2623	signes neuropsychiatriques
+T36	PROC 2671 2699	investigations radiologiques
+T37	LIVB 2719 2726	patient
+T38	DISO 2757 2775	contage vasculaire
+T39	ANAT 2765 2775	vasculaire
+T40	PHEN 2787 2808	mariage consanguinité
+T41	LIVB 2815 2817	sa
+T42	LIVB 2818 2823	femme
+T43	LIVB 2827 2830	son
+T44	LIVB 2831 2843	petit garçon
+T45	PROC 2869 2874	suivi
+T46	DISO 2880 2913	dysplasie anaphorique congénitale
+T47	LIVB 2935 2945	nouveau-né
+T48	PROC 2956 2972	transit prénatal
+T49	MEAS 2991 2997	sévère
+T50	Concept_Idea 3006 3027	présentation clinique
+T51	PROC 3107 3142	contrôle échographique systématique
+T52	DISO 3169 3178	symptômes
+T53	Concept_Idea 3302 3320	caractère évolutif
+T54	LIVB 3553 3564	jeune homme

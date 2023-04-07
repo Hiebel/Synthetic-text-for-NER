@@ -1,0 +1,68 @@
+T1	LIVB 20 31	jeune fille
+T2	TEMP 35 41	16 ans
+T3	Concept_Idea 48 59	antécédents
+T4	MEAS 60 72	particuliers
+T5	PROC 83 89	suivie
+T6	DISO 99 115	fistule lombaire
+T7	ANAT 107 115	lombaire
+T8	PROC 134 153	bilan préopératoire
+T9	PROC 155 165	hémogramme
+T10	PROC 167 194	numération formule sanguine
+T11	PROC 198 213	glycémie à jeun
+T12	PHEN 219 228	grossesse
+T13	TEMP 243 248	28 SA
+T14	Concept_Idea 257 276	rapport homme-femme
+T15	MEAS 286 290	7/10
+T16	DISO 306 332	diabète insulino-requérant
+T17	LIVB 344 352	patiente
+T18	PROC 358 367	admission
+T19	Hospital 371 386	bloc opératoire
+T20	CHEM 392 412	sulfate de magnésium
+T21	DISO 452 472	lésions anictériques
+T22	ANAT 482 502	cavités pelvi-anales
+T23	DISO 525 551	signes neuropsychiatriques
+T24	DISO 569 579	dysmorphie
+T25	DISO 586 617	désorientation temporo-spaciale
+T26	PROC 621 635	interrogatoire
+T27	LIVB 655 657	il
+T28	DISO 696 715	accident ischémique
+T29	LIVB 765 767	sa
+T30	PROC 768 789	consultation clinique
+T31	Hospital 794 815	urgences pédiatriques
+T32	Concept_Idea 879 902	mesures prophylactiques
+T33	PROC 934 973	transfusions alimentaires intraveineuse
+T34	PROC 991 1019	prise en charge chirurgicale
+T35	PROC 1025 1050	rééducation psychomotrice
+T36	PROC 1082 1110	antibiothérapie probabiliste
+T37	DOSE 1111 1113	1g
+T39	TEMP 1116 1118	/h
+T40	DISO 1144 1181	symptômes clinico-neuropsychiatriques
+T41	PROC 1197 1256	psychothérapie cognitivo-comportementale multidisciplinaire
+T42	PROC 1290 1312	traitement substitutif
+T43	PROC 1348 1371	contrôle postopératoire
+T44	PROC 1392 1416	ventilation artificielle
+T45	DISO 1441 1466	pancytopénie hémorragique
+T46	MEAS 1477 1483	3 g/dl
+T47	PROC 1504 1528	intubation endotrachéale
+T48	DISO 1562 1603	thyréostimuline monoclonale hypercalcique
+T49	MEAS 1612 1619	15 mg/L
+T50	PROC 1698 1723	radiographie standard IRM
+T51	DEVI 1741 1747	plaque
+T52	DISO 1761 1801	formation tissulaire hétérocytonucléoïde
+T53	ANAT 1833 1847	zones charnues
+T54	MEAS 1861 1866	25 mm
+T55	MEAS 1891 1898	20x12mm
+T56	MEAS 1902 1908	21x9mm
+T57	Localization 1974 1995	bilats transitionnels
+T58	ANAT 2161 2180	membranes digestifs
+T59	DISO 2203 2234	niveaux hydrocarbonés calcifiés
+T60	PROC 2543 2567	remplissage vasculorénal
+T61	ANAT 2555 2567	vasculorénal
+T62	DISO 2626 2640	asymptomatique
+T63	Concept_Idea 3027 3050	état neuropsychiatrique
+T64	LIVB 3054 3061	patient
+T65	PROC 3089 3118	prise en charge thérapeutique
+T66	TEMP 3188 3192	1 an
+T67	PHEN 3270 3289	symptômes cliniques
+T68	LIVB 3401 3409	patients
+T69	PROC 3586 3594	contrôle

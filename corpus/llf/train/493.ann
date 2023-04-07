@@ -1,0 +1,15 @@
+T1	PROC 2 27	étude
+T2	Concept_Idea 8 27	anatomopathologique
+T3	PROC 40 47	biopsie
+T4	DISO 63 97	processus
+T5	ANAT 73 83	tissulaire
+T6	DISO 115 154	angiome
+T7	ANAT 132 154	membre
+T8	Localization 149 154	droit
+T9	PROC 169 194	intervention
+T10	PROC 213 230	résection-exérèse
+T11	DISO 235 258	tumeurs
+T12	PROC 264 289	étude
+T13	DISO 309 334	inflammation
+T14	DISO 342 371	remaniements
+T15	ANAT 355 371	kératinocytaires

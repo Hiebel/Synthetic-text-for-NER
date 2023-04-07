@@ -1,0 +1,38 @@
+T1	LIVB 19 26	patient
+T2	DISO 47 72	antécédents pathologiques
+T3	MEAS 73 81	notables
+T4	PROC 83 88	admis
+T5	Hospital 92 99	urgence
+T6	DISO 118 132	amaigrissement
+T7	MEAS 143 146	9kg
+T8	Concept_Idea 156 174	tension artérielle
+T9	ANAT 164 174	artérielle
+T10	CHEM 180 193	noradrénaline
+T11	DOSE 195 201	2mg/kg
+T12	TEMP 201 207	/heure
+T13	PROC 212 232	examen gynécologique
+T14	PHEN 250 270	contractions utérine
+T15	ANAT 263 270	utérine
+T16	MEAS 271 279	intenses
+T17	TEMP 289 305	depuis 48 heures
+T18	PROC 311 341	échographie abdomino-pelvienne
+T19	ANAT 323 341	abdomino-pelvienne
+T20	PROC 365 384	bilan préopératoire
+T21	PROC 390 423	imagerie par résonance magnétique
+T22	PROC 425 428	IRM
+T23	ANAT 433 439	pelvis
+T24	DISO 488 520	masse tumorale hypo-vascularisée
+T25	MEAS 530 535	46 cm
+T26	Concept_Idea 539 548	grand axe
+T27	MEAS 553 557	23cm
+T28	Concept_Idea 561 574	petite taille
+T29	ANAT 592 602	col utérin
+T30	PROC 607 631	scanner abdomino-pelvien
+T31	ANAT 615 631	abdomino-pelvien
+T32	PROC 652 661	injection
+T33	CHEM 665 676	propranolol
+T34	DEVI 680 701	cathéter transvaginal
+T35	ANAT 689 701	transvaginal
+T36	PROC 715 751	tomodensitométrie abdomino-pelvienne
+T37	ANAT 733 751	abdomino-pelvienne
+T38	DISO 782 801	lésions secondaires

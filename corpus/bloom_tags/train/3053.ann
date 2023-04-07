@@ -1,0 +1,31 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 67	particuliers
+T4	PROC 69 79	consultait
+T5	DISO 89 112	tuméfaction des jugules
+T6	ANAT 105 112	jugules
+T7	TEMP 122 137	depuis 10 jours
+T8	PROC 141 156	examen clinique
+T9	PROC 161 170	admission
+T10	LIVB 183 190	patient
+T11	MEAS 194 197	bon
+T12	Concept_Idea 198 216	état hémodynamique
+T13	PHEN 220 232	respiratoire
+T14	DISO 253 274	masse ulcéro-violacée
+T15	ANAT 288 317	sinus jugulo-carotidien droit
+T16	Localization 312 317	droit
+T17	PROC 322 341	bilan préopératoire
+T18	PROC 374 404	échographie abdomino-pelvienne
+T19	ANAT 386 404	abdomino-pelvienne
+T20	DISO 421 463	lésion kystique lithiasique hypokaliémique
+T21	MEAS 473 478	13 cm
+T22	Concept_Idea 482 491	grand axe
+T23	MEAS 496 501	12 cm
+T24	Concept_Idea 505 514	petit axe
+T25	PROC 542 551	injection
+T26	CHEM 555 575	produit de contraste
+T27	ANAT 596 611	sinus caverneux
+T28	ANAT 628 644	parois vaginales
+T29	LIVB 672 680	patiente
+T30	DISO 695 719	métastases nécromateuses
+T31	DISO 754 777	lymphœsophagocôloniques

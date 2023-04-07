@@ -1,0 +1,39 @@
+T1	LIVB 29 37	patiente
+T2	DISO 80 153	métastases ovariennes cervico-thoraciques basithoraciques inféro-utérines
+T4	PROC 185 210	chimiothérapie palliative
+T5	CHEM 225 244	médiocs antalgiques
+T6	CHEM 256 270	Céphalosporine
+T7	CHEM 276 290	ciprofloxacine
+T8	MODE 298 308	voie orale
+T9	TEMP 315 332	pendant 72 heures
+T10	PROC 345 368	radiothérapie adjuvante
+T11	ANAT 390 396	pelvis
+T12	PROC 410 444	ponction liquide médiastin exploré
+T13	ANAT 419 444	liquide médiastin exploré
+T14	PROC 451 493	curage ganglionnaire axillaire transfixéré
+T15	ANAT 458 493	ganglionnaire axillaire transfixéré
+T16	PROC 529 546	bilan étiologique
+T17	LIVB 577 585	patiente
+T18	PROC 598 624	intervention thérapeutique
+T19	PROC 729 746	protocole curatif
+T20	PROC 914 940	examen anatomopathologique
+T21	DISO 974 988	résidu tumoral
+T22	DISO 995 1031	localisation secondaire métastatique
+T23	PROC 1071 1089	chirurgie radicale
+T24	DISO 1138 1162	diabète thromboembolique
+T25	Localization 1208 1218	bilatérale
+T26	DISO 1313 1346	métastases ovariennes thoraciques
+T27	LIVB 1464 1472	patiente
+T28	DISO 1612 1642	placenta cicatriciel nodulaire
+T29	ANAT 1653 1663	pulmonaire
+T30	DEVI 1723 1738	bloc opératoire
+T31	DISO 1871 1897	complications métaboliques
+T32	MEAS 1943 1955	défavorables
+T33	MEAS 2147 2173	profondément envahissantes
+T34	Concept_Idea 2248 2265	aspect esthétique
+T35	MEAS 2469 2477	palpable
+T36	ANAT 2569 2601	muscles périduraux cerviculaires
+T37	PROC 2615 2640	étude immunohistochimique
+T38	PROC 2642 2645	EMA
+T39	PROC 2647 2672	anticorps anti-ADN natifs
+T40	PHEN 2709 2729	récepteurs hormonaux

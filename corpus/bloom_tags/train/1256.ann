@@ -1,0 +1,21 @@
+T1	LIVB 3 14	jeune homme
+T2	TEMP 22 28	17 ans
+T3	Hospital 47 55	urgences
+T4	DISO 82 116	syndrome d’hypertension artérielle
+T5	ANAT 106 116	artérielle
+T6	LIVB 136 144	patiente
+T7	DISO 172 189	choc hémorragique
+T8	MEAS 204 217	spectaculaire
+T9	DISO 293 313	diabète hypertensive
+T10	PROC 326 344	traitement curatif
+T11	TEMP 370 375	7 ans
+T12	DISO 425 444	afflux intracrânien
+T13	ANAT 432 444	intracrânien
+T14	PROC 542 577	auscultation cardio-vasculo-nerveux
+T15	ANAT 555 577	cardio-vasculo-nerveux
+T16	DISO 602 630	souffrance ventricule gauche
+T17	ANAT 613 630	ventricule gauche
+T18	Localization 624 630	gauche
+T19	DISO 711 760	insuffisance sinusiocarotidienne craniosténotique
+T20	ANAT 724 760	sinusiocarotidienne craniosténotique
+T21	DISO 764 821	thrombose pariéto-métaphysaire basithoracique congénitale

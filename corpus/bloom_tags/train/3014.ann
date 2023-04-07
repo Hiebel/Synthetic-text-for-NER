@@ -1,0 +1,21 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 33 40	patient
+T3	MEAS 44 47	bon
+T4	PHEN 48 282	état général avec une température à 38,5°C, tachycardie de 110 battements/min. Les pouls péristaltiques et sus péritonéaux étaient perçus ; il n'existait pas de bradycardie globale ou d'hypothermie non chiffrée.
+La pression artérielle
+T5	Concept_Idea 70 81	température
+T6	MEAS 84 90	38,5°C
+T7	DISO 92 103	tachycardie
+T8	MEAS 107 125	110 battements/min
+T9	ANAT 137 151	péristaltiques
+T10	ANAT 155 170	sus péritonéaux
+T11	Localization 155 158	sus
+T12	MEAS 179 185	perçus
+T13	DISO 209 228	bradycardie globale
+T14	DISO 234 245	hypothermie
+T16	ANAT 272 282	artérielle
+T17	MEAS 291 302	120/80 mmHg
+T18	PROC 340 356	examen somatique
+T19	DISO 368 381	particularité
+T20	DISO 399 437	syndrome d'épanchement intrapéritonéal
+T21	ANAT 422 437	intrapéritonéal

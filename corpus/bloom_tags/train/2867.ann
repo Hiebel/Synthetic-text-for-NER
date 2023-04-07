@@ -1,0 +1,20 @@
+T1	LIVB 3 10	patient
+T2	DISO 77 100	hyperthyroïdie primaire
+T3	CHEM 116 137	hydroxycholestérolone
+T4	PROC 142 147	opéré
+T5	PROC 153 180	traitement médical adjuvant
+T6	CHEM 191 211	méthylhydroglycéride
+T7	CHEM 212 231	béta hydrocortisone
+T8	PROC 236 242	admise
+T9	Hospital 247 255	urgences
+T10	DISO 275 296	détresse respiratoire
+T11	PHEN 284 296	respiratoire
+T12	PROC 326 361	scanner thoraco-abdomino-céphalique
+T13	ANAT 334 361	thoraco-abdomino-céphalique
+T14	PROC 376 396	reprise chirurgicale
+T15	DISO 403 438	métastose hépato-gastro-intestinale
+T16	ANAT 413 438	hépato-gastro-intestinale
+T17	Localization 455 473	partie postérieure
+T18	ANAT 487 510	ganglionnaire hépatique
+T19	PROC 542 569	analyse anatomopathologique
+T20	DISO 588 627	léiomyangioendothélium fibrosarcomateux

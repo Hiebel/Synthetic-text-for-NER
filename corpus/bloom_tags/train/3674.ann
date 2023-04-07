@@ -1,0 +1,35 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 17 23	12 ans
+T3	PHEN 36 56	grossesse gémellaire
+T4	PROC 89 126	implantation d'un placenta artificiel
+T5	DEVI 107 126	placenta artificiel
+T6	ANAT 134 148	méso-péritoine
+T7	PROC 170 182	consultation
+T8	Hospital 187 195	urgences
+T9	DISO 205 247	douleurs abdomino-pelviennes constrictives
+T10	ANAT 214 247	abdomino-pelviennes constrictives
+T11	TEMP 257 270	depuis 6 mois
+T12	DISO 286 320	hématurie liquidienne prurigineuse
+T13	Concept_Idea 364 376	état général
+T14	MEAS 436 447	progressive
+T15	LIVB 489 491	sa
+T16	PROC 492 504	consultation
+T17	MEAS 563 569	rapide
+T18	DISO 589 612	symptômes neurologiques
+T19	DISO 625 642	céphalées fébrile
+T20	DISO 644 660	troubles visuels
+T21	DISO 673 711	syndrome d’épanchement intrapéritonéal
+T22	ANAT 696 711	intrapéritonéal
+T23	MEAS 722 733	1000 litres
+T24	DISO 780 803	tuberculose péritonéale
+T25	CHEM 874 885	Ceftriaxone
+T26	CHEM 888 918	Trimethoprime-Sulfamethoxazole
+T27	DOSE 921 927	500 mg
+T28	TEMP 927 932	/jour
+T29	MODE 934 968	transfusion sanguine intraveineuse
+T30	MEAS 1198 1203	24 cm
+T31	Concept_Idea 1207 1216	grand axe
+T32	MEAS 1229 1247	de manière intense
+T33	PROC 1254 1285	contractions utérines méningées
+T34	ANAT 1267 1285	utérines méningées
+T35	DISO 1313 1336	myométrial polykystifié

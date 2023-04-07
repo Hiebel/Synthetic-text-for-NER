@@ -1,0 +1,20 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	13 ans
+T3	DISO 47 85	syndrome d'hypertension intracrânienne
+T4	ANAT 71 85	intracrânienne
+T5	TEMP 95 115	depuis deux semaines
+T6	PHEN 137 159	équilibre psychomoteur
+T7	DISO 179 208	symptômes neuropsychiatriques
+T8	DISO 226 242	troubles visuels
+T9	PROC 286 291	admis
+T10	Hospital 296 304	urgences
+T11	DISO 318 339	détresse respiratoire
+T13	DISO 390 413	polypleurésie purulente
+T14	MEAS 428 440	progressante
+T15	DISO 472 498	amaigrissement non chiffré
+T16	DOSE 524 532	12 mg/kg
+T17	CHEM 535 547	azathioprine
+T18	DISO 643 674	toxicité médicamenteuse maligne
+T19	PROC 851 867	examen somatique
+T20	LIVB 889 895	enfant
+T21	DISO 913 939	traumatisme crânio-faciale

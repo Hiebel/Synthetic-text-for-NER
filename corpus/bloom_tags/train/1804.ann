@@ -1,0 +1,37 @@
+T1	LIVB 4 9	femme
+T2	DISO 30 55	antécédents pathologiques
+T3	MEAS 56 64	notables
+T4	DISO 82 93	tuberculose
+T5	DISO 99 116	hépatite virale C
+T6	PROC 125 133	adressés
+T7	Hospital 137 144	urgence
+T8	DISO 178 219	syndrome d'épanchement liquide péritonéal
+T9	ANAT 201 219	liquide péritonéal
+T10	MEAS 235 245	rapidement
+T11	Concept_Idea 249 255	volume
+T12	TEMP 279 288	24 heures
+T13	PHEN 294 315	contractions utérines
+T14	ANAT 307 315	utérines
+T15	Concept_Idea 360 372	état général
+T16	LIVB 432 441	patientes
+T17	DISO 445 462	douleur pelvienne
+T18	ANAT 453 462	pelvienne
+T19	DISO 481 487	fièvre
+T20	MEAS 499 503	38°C
+T21	DISO 505 511	sueurs
+T22	MEAS 512 520	profuses
+T23	MODE 548 561	voie veineuse
+T24	DOSE 562 568	1mg/kg
+T25	PROC 589 624	intradermoréaction à la tuberculine
+T26	CHEM 613 624	tuberculine
+T27	MEAS 631 639	négative
+T28	PROC 652 676	scanner abdomino-pelvien
+T29	ANAT 660 676	abdomino-pelvien
+T30	DISO 703 722	pancréatite stade E
+T31	DISO 732 758	métastases gynécithéliales
+T32	DISO 827 847	méningo-angiopathies
+T33	DISO 875 901	thrombo-embolie pulmonaire
+T34	ANAT 891 901	pulmonaire
+T35	PROC 1009 1040	ponction pleurésie exploratrice
+T36	ANAT 1018 1040	pleurésie exploratrice
+T37	DEVI 1066 1084	objet souple plâté

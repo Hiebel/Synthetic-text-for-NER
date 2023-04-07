@@ -1,0 +1,35 @@
+T1	LIVB 29 37	patiente
+T2	MEAS 54 62	deuxième
+T3	PHEN 63 72	grossesse
+T4	PROC 77 83	suivie
+T5	DISO 121 154	syndrome hémorragique métabolique
+T6	Concept_Idea 180 203	traitement probabiliste
+T7	CHEM 232 246	hydrocortisone
+T8	MODE 250 255	poids
+T9	DOSE 259 264	50 mg
+T10	TEMP 264 266	/J
+T11	PROC 297 309	radiologique
+T12	PROC 313 330	bilan étiologique
+T13	TEMP 340 356	depuis deux mois
+T14	Concept_Idea 392 404	état général
+T15	DISO 440 453	hyperkaliémie
+T16	LIVB 474 482	patiente
+T17	Localization 523 533	bilatérale
+T18	MEAS 559 567	7 mmol/l
+T19	LIVB 607 611	elle
+T20	DISO 639 650	pathologies
+T21	DISO 678 698	tuberculose méningée
+T22	PROC 701 731	échographie abdomino-pelvienne
+T23	ANAT 713 731	abdomino-pelvienne
+T24	DISO 745 817	masse tissulaire hypogastrique hypotrophiede l’hypothalamus hypertrophié
+T26	MEAS 827 830	3cm
+T27	Concept_Idea 834 843	grand axe
+T28	MEAS 852 864	environ 2 cm
+T29	Concept_Idea 868 878	profondeur
+T30	ANAT 901 945	sinus caverneux rétro épigastrique gastrique
+T31	ANAT 966 995	fosse iliaque supra hépatique
+T32	Localization 980 985	supra
+T33	DISO 1011 1022	déformation
+T34	DISO 1035 1058	kyste hydatique kystisé
+T35	ANAT 1082 1092	col utérin
+T36	DISO 1110 1127	bombement tumoral

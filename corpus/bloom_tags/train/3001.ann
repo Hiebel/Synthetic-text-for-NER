@@ -1,0 +1,35 @@
+T1	LIVB 15 26	jeune homme
+T2	TEMP 34 40	22 ans
+T3	PROC 51 74	traité chirurgicalement
+T4	PROC 83 111	cholécystectomie prothétique
+T5	DEVI 100 111	prothétique
+T6	DISO 135 163	atteinte duodéno-intestinale
+T7	ANAT 144 163	duodéno-intestinale
+T8	PHEN 168 175	tolérée
+T9	LIVB 184 191	fratrie
+T10	TEMP 205 211	12 ans
+T11	DISO 265 282	récidive tumorale
+T12	DISO 300 310	métastases
+T13	DISO 317 342	localisations secondaires
+T14	PROC 366 391	biopsie histopathologique
+T15	ANAT 471 487	cellules géantes
+T16	DISO 776 798	carcinomes urogénitaux
+T17	DISO 820 846	pathologie cutanéo-muqueux
+T18	TEMP 1056 1067	04 semaines
+T19	PROC 1076 1091	hospitalisation
+T20	TEMP 1094 1102	10 jours
+T21	PROC 1132 1171	bithérapie probabiliste antibactérienne
+T22	CHEM 1182 1213	amoxicilline/acide clavulanique
+T23	CHEM 1195 1213	acide clavulanique
+T24	DISO 1350 1374	déficit sensitivo moteur
+T25	DISO 1387 1412	instabilité psychomotrice
+T26	LIVB 1459 1466	famille
+T27	DISO 1548 1580	œdème parotidien laryngoscopique
+T28	ANAT 1554 1580	parotidien laryngoscopique
+T29	DISO 1600 1631	symptômes neuroauto-réfracteurs
+T30	DISO 1665 1695	désorientation temporospatiale
+T31	DISO 1744 1753	symptômes
+T32	PROC 1807 1841	traitements palliatifs antalgiques
+T33	MODE 1999 2011	intraveineux
+T34	CHEM 2015 2026	tramadolone
+T35	CHEM 2159 2192	anti-inflammatoires plaquettaires

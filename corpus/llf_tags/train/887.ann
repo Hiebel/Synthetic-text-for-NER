@@ -1,0 +1,43 @@
+T1	LIVB 4 12	patiente
+T2	DISO 47 72	infections gynécologiques
+T3	PROC 73 81	traitées
+T4	DISO 90 136	carcinome papillaire infiltrant du rein gauche
+T5	ANAT 125 136	rein gauche
+T6	Localization 130 136	gauche
+T7	PROC 140 155	examen clinique
+T8	LIVB 169 177	patiente
+T9	MEAS 181 188	mauvais
+T10	Concept_Idea 189 201	état général
+T11	DISO 211 229	lombalgies droites
+T12	Localization 222 229	droites
+T13	DISO 248 256	anomalie
+T14	PROC 270 286	bilan biologique
+T15	PROC 305 332	numération formule sanguine
+T16	PROC 334 336	Hb
+T17	MEAS 344 351	normale
+T18	PROC 356 371	bilan lipidique
+T19	PROC 373 390	cholestérol total
+T20	PROC 394 412	phosphocalciurique
+T21	MEAS 420 426	normal
+T22	PROC 433 443	plaquettes
+T23	MEAS 454 464	14650 UI/L
+T24	MEAS 472 481	4155 UI/L
+T25	PROC 489 515	étude immuno-histochimique
+T26	MEAS 534 542	négative
+T27	PROC 547 564	tomodensitométrie
+T29	ANAT 571 597	thoraco-abdomino-pelvienne
+T30	DISO 622 629	lésions
+T31	ANAT 662 684	veine jugulaire droite
+T32	Localization 678 684	droite
+T33	MEAS 693 697	3 cm
+T34	Concept_Idea 701 709	diamètre
+T35	DISO 723 832	hypertrophie hypophysaire basithoracique intraparenchymateuse tissulaire caudale pariéto-mésentérique lobulée
+T37	CHEM 871 883	antibiotique
+T38	CHEM 889 903	ciprofloxacine
+T39	CHEM 904 916	pyrazinamide
+T40	TEMP 923 925	/j
+T41	PROC 941 1000	supplémentation par immunoglobuline monoclonale fractionnée
+T43	PROC 1013 1035	contrôle échographique
+T44	MEAS 1049 1062	satisfaisants
+T45	MEAS 1095 1102	simples
+T46	LIVB 1164 1172	patiente

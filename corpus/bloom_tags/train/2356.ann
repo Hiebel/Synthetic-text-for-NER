@@ -1,0 +1,28 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	7 ans
+T3	MEAS 66 78	particuliers
+T4	PROC 80 86	admise
+T5	Hospital 91 112	urgences pédiatriques
+T6	DISO 126 143	pleurésie fébrile
+T7	TEMP 153 171	depuis trois jours
+T8	MEAS 186 201	progressivement
+T9	Concept_Idea 205 211	volume
+T10	DISO 233 354	adénopathies épigastriques latéro-thoraciques infra-chirurgicalement dissociées étagées angulo-cliniquement constrictives
+T12	LIVB 378 380	Il
+T13	DISO 417 432	symptomatologie
+T14	DISO 450 456	fièvre
+T16	DISO 535 554	signes neurologique
+T17	DISO 578 606	hémiplégie sensitivoomotrice
+T18	DISO 635 658	hypertension artérielle
+T19	ANAT 648 658	artérielle
+T20	MEAS 671 680	spontanée
+T21	MEAS 696 711	progressivement
+T22	Concept_Idea 715 721	volume
+T23	CHEM 760 773	dexaméthasone
+T24	PROC 786 808	diagnostic étiologique
+T25	DISO 847 873	hyperleucocytose purulente
+T26	MEAS 888 910	rapidement progressive
+T27	DISO 961 984	déterminants infectieux
+T28	PROC 1039 1052	sérologie HIV
+T29	MEAS 1059 1067	posative
+T30	CHEM 1106 1128	tachycardiopropranolol

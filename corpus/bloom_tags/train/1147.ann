@@ -1,0 +1,26 @@
+T1	PROC 2 26	examen pleuro-pulmonaire
+T2	ANAT 9 26	pleuro-pulmonaire
+T3	DISO 40 51	tachycardie
+T4	MEAS 54 72	120 battements/min
+T5	Concept_Idea 77 82	poids
+T6	MEAS 86 91	29 kg
+T7	Concept_Idea 99 105	taille
+T8	MEAS 109 114	76 cm
+T9	PROC 130 146	examen somatique
+T10	DISO 158 171	particularité
+T11	LIVB 176 184	patiente
+T12	PROC 207 226	pression artérielle
+T13	ANAT 216 226	artérielle
+T14	PROC 228 231	PNI
+T15	DEVI 237 261	cathéter veineux central
+T16	ANAT 246 261	veineux central
+T17	ANAT 275 291	sinus cave droit
+T18	Localization 286 291	droit
+T19	DOSE 293 301	1mmol/kg
+T20	TEMP 301 303	/j
+T21	CHEM 306 320	Anoxaméthasone
+T22	MODE 324 336	intraveineux
+T24	ANAT 361 400	vasculorénal inféro-latérale péridurale
+T25	PHEN 417 432	fonction rénale
+T26	ANAT 426 432	rénale
+T27	MEAS 450 460	conservées

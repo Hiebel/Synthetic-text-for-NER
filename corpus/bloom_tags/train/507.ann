@@ -1,0 +1,28 @@
+T1	LIVB 20 28	patiente
+T2	PROC 45 57	hospitalisée
+T3	TEMP 61 65	2009
+T4	DISO 74 109	syndrome d'épanchement péricardique
+T5	ANAT 97 109	péricardique
+T6	DISO 124 140	dyspnée d'effort
+T7	MEAS 155 166	progressive
+T9	PROC 227 242	examen clinique
+T10	DISO 281 295	amaigrissement
+T11	MEAS 306 311	15 kg
+T12	DISO 317 339	douleurs épigastriques
+T13	ANAT 326 339	épigastriques
+T14	ANAT 370 381	flanc droit
+T15	Localization 376 381	droit
+T16	DISO 394 410	signes cliniques
+T17	PROC 424 455	échographie abdomino- pelvienne
+T18	ANAT 436 455	abdomino- pelvienne
+T19	Concept_Idea 469 474	forme
+T20	MEAS 487 498	volumineuse
+T21	MEAS 508 513	13 cm
+T22	Concept_Idea 517 526	grand axe
+T23	ANAT 543 579	parties molles utéro-mésico-vaginaux
+T24	ANAT 589 611	fosse iliaque centrale
+T25	Localization 603 611	centrale
+T26	DISO 635 701	adénopathies pelviennes hypo échogéantes cervicovagines hypodenses
+T28	DISO 711 720	malignale
+T29	DISO 771 803	tuberculose kystique péritonéale
+T30	DISO 805 808	PTC

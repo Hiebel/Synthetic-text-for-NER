@@ -1,0 +1,28 @@
+T1	LIVB 28 35	patient
+T2	PROC 56 60	reçu
+T3	Hospital 65 86	urgences pédiatriques
+T4	DISO 100 150	syndrome d’épanchement péricardique liquidien aigu
+T5	ANAT 123 150	péricardique liquidien aigu
+T6	DISO 166 187	perte de connaissance
+T7	TEMP 197 213	depuis 48 heures
+T8	Concept_Idea 249 266	état neurologique
+T9	DISO 284 310	troubles sensitivo-moteurs
+T10	DISO 316 330	amaigrissement
+T11	DISO 352 368	signes cliniques
+T12	DISO 389 410	douleur hypogastrique
+T13	ANAT 397 410	hypogastrique
+T14	DISO 412 444	paroxysme hypertrophie pelvienne
+T15	ANAT 435 444	pelvienne
+T16	MEAS 456 471	progressivement
+T17	Concept_Idea 475 481	volume
+T18	DISO 522 555	ictère cutanéo-buccodorso-pelvien
+T19	LIVB 598 604	enfant
+T20	TEMP 613 619	12 ans
+T21	MEAS 661 671	insidieuse
+T22	MEAS 748 757	spontanée
+T23	DISO 777 812	crises convulsives tonico-cloniques
+T24	DISO 865 881	tonico-cloniques
+T25	DISO 1014 1034	céphalées purulentes
+T26	MEAS 1048 1064	de façon intense
+T27	TEMP 1174 1180	24 ans
+T28	DISO 1223 1257	méningoencephalite fébrile maligne

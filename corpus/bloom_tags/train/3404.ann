@@ -1,0 +1,28 @@
+T1	LIVB 29 37	patiente
+T2	PROC 54 60	suivie
+T3	DISO 69 109	syndrome d'épanchement péricardique aigu
+T4	ANAT 92 104	péricardique
+T5	TEMP 113 117	2011
+T6	PROC 138 147	admission
+T7	DISO 152 179	cardiomégalie hypertrophiée
+T8	DISO 192 208	signes cliniques
+T9	PROC 221 236	examen clinique
+T10	LIVB 250 258	patiente
+T11	Concept_Idea 273 291	plan hémodynamique
+T12	MEAS 295 299	bien
+T13	PHEN 300 309	contrôlée
+T14	CHEM 318 328	dobutamine
+T15	DOSE 330 336	1mg/kg
+T16	TEMP 336 342	/heure
+T17	PROC 348 364	bilan biologique
+T18	PROC 381 419	taux de transaminatase cytochrome béta
+T19	PROC 421 425	TCTB
+T20	PROC 428 447	protéine C réactive
+T21	PROC 449 452	CRP
+T22	PROC 454 461	mesurée
+T23	PROC 475 501	glycémie glycorachidérylée
+T24	ANAT 516 540	sécrétions pancréatiques
+T25	PROC 544 577	échocardiographie transthoracique
+T26	ANAT 562 577	transthoracique
+T27	DISO 604 730	hypertrophie systolique du ventricule sub-diaphragmatique inféro-supérieur périrénal laryngéo-cœlioscopiquement extériorisante
+T29	Localization 642 645	sub

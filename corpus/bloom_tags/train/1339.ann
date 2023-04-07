@@ -1,0 +1,18 @@
+T1	LIVB 28 35	patient
+T2	MEAS 76 84	notables
+T3	PROC 86 90	reçu
+T4	Hospital 95 103	urgences
+T5	DISO 113 135	céphalées généralisées
+T6	MEAS 150 156	rapide
+T7	TEMP 166 179	depuis 2 mois
+T8	DISO 230 245	ménométrorrhées
+T9	PHEN 277 297	grossesse gémellaire
+T10	MODE 317 327	voie basse
+T11	DEVI 419 448	équilibre tensionnel maternel
+T12	DISO 484 515	dysmorphie faciale hypertensive
+T13	MEAS 579 584	70 kg
+T14	LIVB 617 625	patiente
+T15	DISO 634 655	détresse respiratoire
+T16	PHEN 643 655	respiratoire
+T17	PROC 672 690	traitement curatif
+T18	CHEM 735 745	furosémide

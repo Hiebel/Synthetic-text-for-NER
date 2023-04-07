@@ -1,0 +1,33 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 63	notables
+T4	PROC 65 70	admis
+T5	Hospital 75 83	urgences
+T6	DISO 93 116	douleur pelvienne aiguë
+T7	ANAT 101 110	pelvienne
+T8	TEMP 126 141	depuis 10 jours
+T9	PROC 145 160	examen clinique
+T10	PROC 165 174	admission
+T11	LIVB 187 194	patient
+T12	MEAS 198 201	bon
+T13	Concept_Idea 202 214	état général
+T14	PHEN 224 248	reflexes ostéo-tendineux
+T15	ANAT 233 248	ostéo-tendineux
+T16	MEAS 249 258	conservés
+T17	PROC 276 296	examen gynécologique
+T18	DISO 308 321	particularité
+T19	PROC 326 350	scanner abdomino-pelvien
+T20	ANAT 334 350	abdomino-pelvien
+T21	DISO 371 400	masse tumorale du flanc droit
+T22	ANAT 389 400	flanc droit
+T23	Localization 395 400	droit
+T24	PROC 421 430	injection
+T25	CHEM 434 454	produit de contraste
+T26	MEAS 464 469	20 cm
+T27	MEAS 474 479	15 cm
+T28	ANAT 496 537	muscles paravertébraux latérocerviculaire
+T29	ANAT 554 574	fosse iliaque droite
+T30	Localization 568 574	droite
+T31	DISO 591 596	masse
+T32	ANAT 632 647	parois utérines
+T33	ANAT 655 698	structures ganglionnaires cervico-vaginales

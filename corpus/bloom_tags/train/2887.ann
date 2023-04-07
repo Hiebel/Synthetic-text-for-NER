@@ -1,0 +1,81 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 79 84	admis
+T5	Hospital 89 97	urgences
+T6	DISO 107 133	douleurs pelviennes aiguës
+T7	ANAT 116 126	pelviennes
+T8	ANAT 147 158	flanc droit
+T9	Localization 153 158	droit
+T10	DISO 175 189	perte de poids
+T11	Concept_Idea 184 189	poids
+T12	PROC 206 221	examen clinique
+T13	LIVB 234 241	patient
+T14	Concept_Idea 266 284	plan hémodynamique
+T15	PHEN 288 300	respiratoire
+T16	DISO 324 354	sensibilité abdomino-pelvienne
+T17	ANAT 336 354	abdomino-pelvienne
+T18	TEMP 375 391	depuis 72 heures
+T19	PROC 396 426	bilan biologique préopératoire
+T20	PROC 428 455	numération formule sanguine
+T21	PROC 457 476	protéine-C-Réactive
+T22	PROC 478 493	globules blancs
+T23	PROC 496 515	hémoglobine glyquée
+T24	PROC 528 546	ionogramme sanguin
+T25	ANAT 539 546	sanguin
+T26	MEAS 563 570	normaux
+T27	LIVB 572 574	Il
+T28	CHEM 591 622	amoxicilline-acide clavulanique
+T29	MODE 626 636	voie orale
+T30	MODE 641 659	voie intraveineuse
+T31	DOSE 680 685	bolus
+T32	CHEM 689 703	ciprofloxacine
+T33	DOSE 705 711	100 mg
+T34	DOSE 713 719	400 mg
+T35	DOSE 722 728	800 mg
+T36	CHEM 731 745	hydrocortisone
+T37	DOSE 748 754	1mg/kg
+T38	PROC 760 785	scanner abdomino- pelvien
+T39	ANAT 768 785	abdomino- pelvien
+T40	DISO 806 854	masse tumorale latéroutérine péritonéale ulcérée
+T41	ANAT 876 891	parois utérines
+T42	MEAS 901 906	10 cm
+T43	Concept_Idea 910 919	grand axe
+T44	DISO 1021 1046	localisations métastiques
+T45	DISO 1056 1075	métastases malignes
+T46	LIVB 1098 1106	patiente
+T47	DISO 1124 1139	lésion kystique
+T48	DISO 1143 1153	tissulaire
+T49	ANAT 1183 1200	cavité abdominale
+T50	DISO 1290 1317	épanchement intra-myometral
+T51	ANAT 1302 1317	intra-myometral
+T52	DISO 1451 1460	symptômes
+T53	PROC 1839 1857	endoscopie rectale
+T54	ANAT 1850 1857	rectale
+T55	DISO 1876 1885	anomalies
+T56	CHEM 1922 1933	tuberculine
+T57	MEAS 1940 1947	positif
+T58	PROC 1954 1972	immuno-chemisation
+T59	DISO 1994 2006	péricardique
+T60	DISO 2013 2032	distension grêlique
+T61	ANAT 2024 2032	grêlique
+T63	DISO 2307 2329	atteinte surrénalienne
+T64	ANAT 2316 2329	surrénalienne
+T65	DISO 2346 2384	syndrome d’épanchement intrapéritonéal
+T66	ANAT 2369 2384	intrapéritonéal
+T67	DISO 2562 2621	œdème pulmonaire pariétalo-latéral médiastinal hypertrophié
+T69	DISO 2683 2706	empyème rétropéritonéal
+T70	ANAT 2691 2706	rétropéritonéal
+T71	DISO 2727 2754	déficit hypotenseur nécrosé
+T72	PROC 2779 2801	recherche histologique
+T73	PROC 2808 2838	diagnostic immunohistochimique
+T74	ANAT 2933 2949	parois vaginales
+T75	Concept_Idea 2960 2970	indication
+T76	PROC 2977 3001	cystoscopie diagnostique
+T77	LIVB 3018 3026	patiente
+T78	PROC 3037 3075	traitement antibacillaire probabiliste
+T79	PROC 3083 3106	radiothérapie adjuvante
+T80	DOSE 3120 3125	20 Gy
+T81	TEMP 3125 3130	/jour
+T82	Localization 3132 3140	centrale
+T83	DOSE 3164 3167	2Gy

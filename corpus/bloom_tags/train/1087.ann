@@ -1,0 +1,31 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	6 ans
+T3	Concept_Idea 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 82	admis
+T6	Hospital 86 93	urgence
+T7	DISO 103 123	vomissements bilieux
+T8	TEMP 144 157	depuis 2 mois
+T9	PROC 161 176	examen clinique
+T10	PROC 181 190	admission
+T11	LIVB 203 209	enfant
+T12	Concept_Idea 234 252	plan hémodynamique
+T13	ANAT 256 268	respiratoire
+T14	PHEN 278 289	température
+T15	MEAS 292 298	37 ° C
+T16	DISO 334 353	pleurésie purulante
+T17	PROC 360 390	échographie abdomino-pelvienne
+T18	ANAT 372 390	abdomino-pelvienne
+T19	Localization 438 450	face interne
+T20	ANAT 454 474	utérus utéro-vaginal
+T21	DISO 479 503	lésion hypo-vascularisée
+T22	MEAS 513 521	18x12 mm
+T23	Concept_Idea 524 530	aspect
+T24	MEAS 531 541	hétérogène
+T25	ANAT 559 591	paroi vaginale latéropéritonéale
+T26	PROC 678 714	tomodensitométrie abdomino-pelvienne
+T27	ANAT 696 714	abdomino-pelvienne
+T29	PROC 983 992	injection
+T30	CHEM 996 1016	produit de contraste
+T31	DISO 1037 1074	métastase épithélio-gigantocellulaire
+T32	ANAT 1047 1074	épithélio-gigantocellulaire

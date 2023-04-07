@@ -1,0 +1,30 @@
+T1	LIVB 29 37	patiente
+T2	DISO 53 101	adénocarcinome canalaire pancréatique infiltrant
+T3	ANAT 68 101	canalaire pancréatique infiltrant
+T4	TEMP 111 124	depuis 9 mois
+T5	PROC 130 157	traitement médical adjuvant
+T6	CHEM 168 184	Cyclophosphamide
+T7	CHEM 186 195	Etoposide
+T8	CHEM 197 207	Cisplatine
+T9	CHEM 209 220	Vincristine
+T10	CHEM 222 232	Paclitaxel
+T11	CHEM 234 245	Doxycycline
+T12	CHEM 247 263	Chloramphénidine
+T13	CHEM 265 277	Pyrazinamide
+T14	CHEM 279 290	Ethionamide
+T15	CHEM 292 305	Triméthoprime
+T16	CHEM 307 321	Lethaméthasone
+T17	CHEM 323 333	Isoniazole
+T18	CHEM 335 345	Furosémide
+T19	CHEM 347 360	Bêtaméthasone
+T20	PROC 365 383	étude histologique
+T21	DISO 408 483	adénocarcinsomes canalaire pancréatiques infra-cliniquement carcinomateuses
+T23	ANAT 518 537	parois intestinales
+T24	DISO 544 557	adénocarcines
+T25	DISO 597 613	nécrose tumorale
+T26	DISO 636 644	tumorale
+T27	DISO 658 681	vascularisation maligne
+T28	PROC 711 737	stabilisation endoscopique
+T29	PROC 856 890	anatomiquement immunohistochimique
+T30	DISO 912 921	primitive
+T31	ANAT 950 961	intestinale

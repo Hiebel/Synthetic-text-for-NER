@@ -1,0 +1,23 @@
+T1	LIVB 0 8	patiente
+T2	Concept_Idea 30 41	antécédents
+T3	MEAS 42 50	notables
+T4	PROC 52 64	hospitalisée
+T5	Hospital 68 75	urgence
+T6	DISO 85 105	masse du flanc droit
+T7	ANAT 94 105	flanc droit
+T8	Localization 100 105	droit
+T9	TEMP 115 128	depuis 5 mois
+T10	MEAS 143 158	progressivement
+T11	Concept_Idea 162 168	volume
+T12	PROC 172 186	interrogatoire
+T13	DISO 221 235	épigastralgies
+T14	DISO 252 280	douleurs abdomino-pelviennes
+T15	ANAT 261 280	abdomino-pelviennes
+T16	MEAS 295 301	rapide
+T17	CHEM 332 344	bêtabloquant
+T18	MODE 349 359	voie orale
+T19	PROC 365 380	examen clinique
+T20	LIVB 384 392	patiente
+T21	DISO 399 409	apyrétique
+T22	PHEN 416 439	reflexes ostéo-toniques
+T23	ANAT 425 439	ostéo-toniques

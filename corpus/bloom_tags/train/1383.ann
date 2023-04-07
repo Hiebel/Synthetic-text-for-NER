@@ -1,0 +1,44 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 24 30	24 ans
+T3	PROC 63 69	admise
+T4	Hospital 77 101	hôpital militaire d'Edéa
+T5	DISO 111 128	céphalées fébrile
+T6	MEAS 143 149	rapide
+T7	TEMP 159 175	depuis deux mois
+T8	PROC 181 195	interrogatoire
+T9	LIVB 200 208	patiente
+T10	PHEN 251 279	grosses amplitudes visuelles
+T11	DISO 290 298	brulures
+T12	ANAT 306 350	plexus pharacœlniopharyngien inférieur droit
+T13	Localization 345 350	droit
+T14	DISO 366 387	détresse respiratoire
+T15	PHEN 375 387	respiratoire
+T16	DISO 401 416	symptomatologie
+T17	TEMP 444 449	3 ans
+T18	PROC 468 483	prise en charge
+T19	PROC 489 527	traitement antibacillaire probabiliste
+T20	CHEM 540 550	isoniazide
+T21	CHEM 552 564	pyrazinamide
+T22	CHEM 566 579	ethaméthasone
+T23	CHEM 581 594	sulfasalazine
+T24	CHEM 596 609	rifampicilène
+T25	CHEM 611 622	Ethionamide
+T26	CHEM 624 635	Cyclosérine
+T27	CHEM 637 648	Ceftriaxone
+T28	CHEM 650 663	Triméthoprime
+T29	CHEM 665 680	Chloramphénicol
+T30	CHEM 682 694	Pyrazinamide
+T31	CHEM 696 702	Vit B6
+T32	CHEM 704 719	Bithraméthasone
+T33	CHEM 721 735	Gentaméthasone
+T34	CHEM 737 745	Diazépam
+T35	CHEM 747 760	Erythromycine
+T36	CHEM 762 772	Furosémide
+T37	DOSE 774 781	1 mg/kg
+T38	TEMP 781 783	/j
+T39	PROC 788 804	examen somatique
+T40	DISO 829 891	tuméfaction péribuccale flasque dorsiflexe prolabée hypotendue
+T41	Concept_Idea 917 923	volume
+T42	MEAS 933 938	46 mm
+T43	Concept_Idea 942 950	diamètre
+T44	ANAT 996 1009	corps chevelu

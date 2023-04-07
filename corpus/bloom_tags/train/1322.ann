@@ -1,0 +1,25 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	6 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 79	particuliers
+T5	PROC 81 85	reçu
+T6	Hospital 89 138	centre hospitalier universitaire Hassan II de Fès
+T7	DISO 148 185	tuméfaction douloureuse du sein droit
+T8	ANAT 175 185	sein droit
+T9	Localization 180 185	droit
+T10	TEMP 195 207	depuis un an
+T11	MEAS 222 237	progressivement
+T12	Concept_Idea 241 247	volume
+T13	PROC 253 268	examen clinique
+T14	LIVB 272 279	patient
+T15	MEAS 289 292	bon
+T17	PROC 309 325	examen somatique
+T18	DISO 343 358	masse tuméfacée
+T19	MEAS 368 373	14 cm
+T20	Concept_Idea 377 386	grand axe
+T21	MEAS 391 396	12 cm
+T22	Concept_Idea 400 409	petit axe
+T23	DISO 414 426	prurigineuse
+T24	DEVI 432 451	palpation sensitive
+T25	DISO 467 560	adénopathies cervico-axillaires latéro-cervicales basithoraciques péribasiliculaires bilobées
+T27	DISO 581 625	hyperkératose bulleuse érythémato-pustulante

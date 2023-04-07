@@ -1,0 +1,31 @@
+T2	MEAS 59 63	deux
+T3	LIVB 64 71	garçons
+T4	DEVI 103 131	frères maternels consanguins
+T5	DISO 220 248	symptomatologie obstétricale
+T6	LIVB 308 324	médecin traitant
+T7	DISO 329 364	douleurs du membre supérieur gauche
+T8	ANAT 341 364	membre supérieur gauche
+T9	Localization 358 364	gauche
+T10	Concept_Idea 373 382	score GMI
+T11	MEAS 385 389	2/10
+T12	DISO 405 420	pneumomédiastin
+T13	PROC 446 552	anastomose péribronchique rotationnelle fémorale distale libre rétropéritonéale verticale sans préparation
+T14	LIVB 610 612	il
+T15	PROC 635 663	antibiothérapie probabiliste
+T16	CHEM 665 696	amoxicilline acide clavulanique
+T17	CHEM 699 713	gentaméthasone
+T18	DOSE 714 719	500mg
+T19	MODE 735 758	corticostéroïdes dilués
+T20	PROC 772 783	hémodialyse
+T21	LIVB 815 837	jumeaux puéricultatifs
+T22	DISO 844 871	symptomatologie infectieuse
+T23	PROC 899 918	traitement adjuvant
+T24	PROC 929 969	prise en charge hospitalière spécialisée
+T25	PHEN 1075 1084	grossesse
+T26	TEMP 1106 1118	37SA+4 jours
+T27	MEAS 1172 1184	4600 grammes
+T28	TEMP 1225 1232	26 mois
+T29	Hospital 1284 1341	Tribunal Administratif Provincial Militaire De Lubumbashi
+T30	PROC 1347 1406	tumorectomie digestivo-hépato-digestive urgente pédiatrique
+T31	DISO 1455 1495	processus tissulaire péritonéal malformé
+T32	MEAS 1505 1518	60x40 x 30 cm

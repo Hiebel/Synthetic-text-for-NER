@@ -1,0 +1,42 @@
+T1	LIVB 28 35	patient
+T2	MEAS 82 94	particuliers
+T3	PROC 96 101	admis
+T4	Hospital 106 114	urgences
+T6	ANAT 133 146	épigastriques
+T7	TEMP 156 172	depuis deux mois
+T8	PROC 176 191	examen clinique
+T9	DISO 202 236	carcinome pancréatiques infiltrant
+T10	ANAT 212 225	pancréatiques
+T11	PROC 241 273	radiographie abdomino- pelvienne
+T12	ANAT 254 273	abdomino- pelvienne
+T13	DISO 294 404	métastase sus péritonéale aortique métasurrénalienne cervicale latérohomolatérale droite (de sténose type DAI)
+T14	Localization 304 307	sus
+T15	Concept_Idea 407 413	aspect
+T16	MEAS 414 424	hétérogène
+T17	MEAS 434 439	10 cm
+T18	Concept_Idea 443 452	grand axe
+T19	DISO 477 505	distension grêlique grêlique
+T20	ANAT 488 505	grêlique grêlique
+T21	DISO 528 537	anomalies
+T22	DISO 555 574	fistule intestinale
+T23	ANAT 563 574	intestinale
+T24	DISO 585 610	localisations secondaires
+T25	LIVB 628 635	patient
+T26	PHEN 692 700	digestif
+T27	PROC 728 740	consultation
+T28	PROC 743 764	électroneuromyogramme
+T29	PROC 798 822	anesthésie peropératoire
+T30	Concept_Idea 852 873	clinique radiologique
+T31	DISO 904 937	atteinte sensitivomotrice globale
+T32	ANAT 985 1008	corps musculaire dorsal
+T33	DISO 1035 1048	hypersudation
+T34	MEAS 1063 1069	rapide
+T35	DISO 1082 1120	syndrome d’épanchement intrapéritonéal
+T36	ANAT 1105 1120	intrapéritonéal
+T37	DISO 1172 1198	thrombophlébitis purulente
+T38	DISO 1205 1230	dégénérescence myomateuse
+T39	PROC 1236 1260	scanner abdomino-pélvien
+T40	ANAT 1244 1260	abdomino-pélvien
+T41	DISO 1283 1305	localisationsecondaire
+T42	PROC 1321 1370	échocardiographie artériolaire transoesophagienne
+T43	ANAT 1339 1370	artériolaire transoesophagienne

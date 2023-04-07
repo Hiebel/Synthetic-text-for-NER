@@ -1,0 +1,23 @@
+T1	LIVB 28 35	patient
+T2	DISO 69 90	détresse respiratoire
+T3	PHEN 78 90	respiratoire
+T4	DISO 123 142	dyspnée obstructive
+T5	DISO 164 176	céphalalgies
+T6	TEMP 186 209	depuis plusieurs années
+T7	PROC 215 233	traitement médical
+T8	CHEM 244 257	bêtaméthasone
+T9	CHEM 259 269	morphifène
+T10	CHEM 271 289	méthylprednisolone
+T11	CHEM 292 315	acide acétylsalicylique
+T12	CHEM 317 331	ethrométhasone
+T13	PROC 336 345	admission
+T14	Hospital 361 376	bloc opératoire
+T15	PROC 395 501	anastomose artério-veineuse iléo-mésentorielle jéjunéo-carotidophœsophincter angiographiquement sténarisée
+T17	PROC 515 535	transfusion sanguine
+T20	PROC 749 775	contraception progestative
+T21	PROC 814 855	technique d'immuno-hérapie prophylactique
+T22	CHEM 866 885	hydroxy-chloroquine
+T23	CHEM 887 898	rifampamide
+T24	CHEM 900 910	isoniazide
+T25	CHEM 912 924	pyrazinamide
+T26	CHEM 926 938	Pyrazinamide

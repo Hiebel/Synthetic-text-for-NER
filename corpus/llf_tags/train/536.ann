@@ -1,0 +1,45 @@
+T1	LIVB 16 24	patiente
+T2	DISO 58 77	douleurs pelviennes
+T3	ANAT 67 77	pelviennes
+T4	PROC 82 99	tomodensitométrie
+T5	DISO 120 151	masse tissulaire du foie gauche
+T6	ANAT 140 151	foie gauche
+T7	Localization 145 151	gauche
+T8	Concept_Idea 159 168	extension
+T9	MEAS 192 196	deux
+T10	ANAT 197 204	cuisses
+T11	MEAS 229 233	2 cm
+T12	MEAS 237 243	1,5 cm
+T13	PROC 248 265	bilan étiologique
+T14	PROC 288 311	scanner abdominopelvien
+T15	ANAT 296 311	abdominopelvien
+T16	TEMP 323 333	24/08/2017
+T17	Hospital 337 344	urgence
+T18	DISO 375 458	processus tissulaire lésionnel postéro-hypogastroduodénal métatarsien intrakystique
+T19	ANAT 477 505	région sous clavière utérine
+T20	DISO 511 527	atypie digestive
+T21	PHEN 518 527	digestive
+T22	PROC 541 563	traitement chirurgical
+T23	PROC 582 631	recto-sigmoïdectomie totale élargie scanno-guidée
+T24	PROC 645 732	anastomose transpariétale pariéto-péritonéale segmentaire cervico-vaginale endoscopique
+T25	ANAT 656 732	transpariétale pariéto-péritonéale segmentaire cervico-vaginale endoscopique
+T26	DEVI 737 746	structure
+T27	PROC 769 779	extraction
+T28	PROC 784 810	examen anatomopathologique
+T29	DISO 829 854	récidive tumorale maligne
+T30	DISO 864 883	localité secondaire
+T31	DISO 933 989	métaplasie médullaire polyclonale mésoblastique kystique
+T32	PROC 1093 1124	TDM thoraco-abdomino- pelvienne
+T33	ANAT 1097 1124	thoraco-abdomino- pelvienne
+T34	LIVB 1145 1153	patiente
+T35	DISO 1192 1320	métaplasie hypoplasique mucineuse hyperchromateuse ostéolytique monofibroblastique supramyocytokystique hétérotopique congénital
+T36	ANAT 1337 1359	flanc antéro-supérieur
+T37	Localization 1343 1359	antéro-supérieur
+T38	ANAT 1381 1398	lames cunéiformes
+T39	ANAT 1409 1449	annexes antérolatéraux jugulo-cardiaques
+T40	MEAS 1504 1511	simples
+T41	TEMP 1523 1529	6 mois
+T42	MEAS 1549 1559	favorables
+T43	LIVB 1575 1582	malades
+T44	Concept_Idea 1601 1615	état antérieur
+T45	Concept_Idea 1670 1691	activités habituelles

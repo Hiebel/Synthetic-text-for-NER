@@ -1,0 +1,19 @@
+T1	LIVB 28 35	patient
+T3	ANAT 77 85	lombaire
+T4	PROC 101 146	tomodensitométrie thoraco-abdomino- pelvienne
+T5	ANAT 119 146	thoraco-abdomino- pelvienne
+T6	DISO 168 177	anomalies
+T7	DISO 192 211	pancréatite stade A
+T8	TEMP 221 234	depuis 7 mois
+T9	DISO 251 271	signes neurologiques
+T10	DISO 298 362	syndrome d'épanchement péri-cutanéo-ganglionnaire basithoracique
+T11	ANAT 321 362	péri-cutanéo-ganglionnaire basithoracique
+T12	DISO 375 402	localisations métastatiques
+T13	DISO 416 464	paragangliome épidermoide pancréato-métastatique
+T14	PROC 471 504	imagerie par résonance magnétique
+T15	PROC 506 509	IRM
+T16	PROC 512 545	technique d'immunohistochimérique
+T17	Concept_Idea 583 589	aspect
+T18	DEVI 602 612	bandelette
+T19	PROC 619 629	coloration
+T20	ANAT 671 693	centre anévrismateuses

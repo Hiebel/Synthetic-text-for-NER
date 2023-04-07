@@ -1,0 +1,48 @@
+T1	LIVB 4 9	femme
+T2	DISO 52 69	céphalées fébrile
+T3	TEMP 92 105	depuis 3 mois
+T4	PROC 122 149	traitements antibacillaires
+T5	DISO 165 182	douleur pelvienne
+T6	ANAT 173 182	pelvienne
+T7	MEAS 196 204	brunâtre
+T8	PHEN 219 234	cycle menstruel
+T9	TEMP 246 256	2 semaines
+T10	DISO 321 356	sensibilité abdominopelvienne aiguë
+T11	ANAT 333 356	abdominopelvienne aiguë
+T12	DISO 366 379	symptomatique
+T13	DISO 417 429	métrorragies
+T14	DISO 436 471	syndrome d'épanchement intracrânien
+T15	ANAT 459 471	intracrânien
+T16	DISO 482 512	troubles sensitivo-cociceptifs
+T17	DISO 539 553	prise de poids
+T18	LIVB 576 582	malade
+T19	PROC 604 621	bilan étiologique
+T20	PROC 633 672	échographie hépato-gastro- œsophagienne
+T21	ANAT 645 672	hépato-gastro- œsophagienne
+T22	PROC 686 719	imagerie par résonance magnétique
+T23	PROC 721 724	IRM
+T24	PROC 731 740	admission
+T25	LIVB 742 745	son
+T26	Concept_Idea 746 751	poids
+T27	MEAS 761 766	55 kg
+T28	Concept_Idea 773 780	tailles
+T29	MEAS 807 813	170 cm
+T30	MEAS 818 824	160 cm
+T31	Concept_Idea 827 843	âge gestationnel
+T32	MEAS 846 851	16 SA
+T33	Localization 852 857	droit
+T34	MEAS 860 866	180 cm
+T35	MEAS 871 877	140 cm
+T36	Concept_Idea 880 896	âge gestationnel
+T37	MEAS 899 904	17 SA
+T38	LIVB 914 918	Elle
+T39	MEAS 926 931	60 kg
+T40	Concept_Idea 947 959	état général
+T41	DISO 990 1008	détresse digestive
+T42	PHEN 999 1008	digestive
+T43	DISO 1055 1068	inflammatoire
+T44	PROC 1073 1103	bilan biologique préopératoire
+T45	PROC 1117 1128	leucorachie
+T46	MEAS 1131 1148	2900 éléments/mm3
+T47	PROC 1164 1166	VS
+T48	MEAS 1179 1194	100 millimètres

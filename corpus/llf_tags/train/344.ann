@@ -1,0 +1,36 @@
+T1	LIVB 4 9	S.A.K
+T2	MEAS 26 27	5
+T3	LIVB 28 35	enfants
+T4	LIVB 374 380	enfant
+T5	TEMP 388 395	12 mois
+T6	PROC 400 405	admis
+T7	Hospital 410 431	urgences pédiatriques
+T8	Hospital 435 484	Centre Hospitalier Universitaire Sylvanus Olympio
+T9	Hospital 486 492	CHU YO
+T10	PROC 516 546	traitement médical substitutif
+T11	DISO 570 603	souffrance respiratoire chronique
+T12	LIVB 616 619	son
+T13	ANAT 620 625	corps
+T14	PHEN 633 659	développement psychomoteur
+T15	PROC 665 680	examen clinique
+T16	DISO 701 724	déficit sensitivomoteur
+T18	DISO 798 822	remaniements angiomateux
+T19	PROC 835 854	électrocardiogramme
+T20	DISO 877 939	distension temporo-oculno-ventriculaire sinusale préopératoire
+T21	ANAT 888 939	temporo-oculno-ventriculaire sinusale préopératoire
+T22	DISO 968 988	hypertriglycéridémie
+T23	CHEM 994 1032	amoxicilline acide acétyle glycorachie
+T24	CHEM 1035 1078	acide zolédronique dihydroxyphénoxyacétique
+T25	DISO 1189 1219	kyste hydatique oblong « étiré
+T26	ANAT 1259 1278	bouche œsophagienne
+T27	DISO 1316 1347	ostéonécrose tumorale primitive
+T28	DISO 1377 1423	maladie thromboembolique veineuse mésentérique
+T29	PROC 1451 1479	chimiothérapie néo adjuvante
+T30	PROC 1531 1559	corticothérapie concomitante
+T31	PROC 1591 1631	scintigraphie thoraco-abdomino-pelvienne
+T32	ANAT 1605 1631	thoraco-abdomino-pelvienne
+T33	DISO 1656 1692	lésion hétérogène tissulaire ulcérée
+T34	MEAS 1702 1715	environ 20 cm
+T35	Concept_Idea 1719 1728	grand axe
+T36	DISO 1889 1913	hydrocèle carcinomateuse
+T37	DISO 1921 1945	prolifération polyploïde

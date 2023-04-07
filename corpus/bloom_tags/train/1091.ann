@@ -1,0 +1,20 @@
+T1	PROC 2 17	examen clinique
+T2	PROC 22 31	admission
+T3	LIVB 45 53	patiente
+T4	MEAS 57 60	bon
+T5	Concept_Idea 61 73	état général
+T6	DISO 75 86	polypnéique
+T7	TEMP 89 102	28 cycles/min
+T8	Concept_Idea 118 136	plan hémodynamique
+T9	PHEN 140 152	respiratoire
+T10	PROC 168 184	examen somatique
+T11	DISO 196 209	particularité
+T12	PROC 213 243	auscultation pleuro-pulmonaire
+T13	ANAT 226 243	pleuro-pulmonaire
+T14	ANAT 288 309	sinus piriforme droit
+T15	Localization 304 309	droit
+T16	DISO 362 401	péristaltisme basithoracique systolique
+T17	ANAT 376 401	basithoracique systolique
+T20	Localization 484 503	bilatéral supérieur
+T21	PROC 526 548	résection chirurgicale
+T22	PROC 555 572	anesthésie locale

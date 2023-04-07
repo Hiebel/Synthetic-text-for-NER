@@ -1,0 +1,30 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 39 50	antécédents
+T3	MEAS 51 63	particuliers
+T4	PROC 65 73	consulte
+T5	DISO 83 116	douleurs épigastriques chroniques
+T6	ANAT 92 105	épigastriques
+T7	DISO 133 145	vomissements
+T8	DISO 152 166	amaigrissement
+T9	MEAS 177 181	15kg
+T10	TEMP 185 194	deux mois
+T11	PROC 200 209	admission
+T12	Hospital 213 243	service d'accueil des urgences
+T13	Hospital 245 248	SUS
+T14	LIVB 254 261	patient
+T15	DISO 286 294	apyrexie
+T16	MODE 319 339	voie médicamenteuses
+T17	PROC 343 358	examen clinique
+T18	DISO 375 395	masse du flanc droit
+T19	ANAT 384 395	flanc droit
+T20	Localization 390 395	droit
+T21	TEMP 405 422	depuis deux jours
+T22	MEAS 434 449	progressivement
+T23	Concept_Idea 453 459	taille
+T24	DISO 484 490	fièvre
+T25	MEAS 501 505	40°c
+T26	DISO 521 542	détresse respiratoire
+T27	PHEN 530 542	respiratoire
+T28	MEAS 557 563	rapide
+T29	PROC 597 633	tomodensitométrie transoesophagienne
+T30	PROC 635 638	TOE

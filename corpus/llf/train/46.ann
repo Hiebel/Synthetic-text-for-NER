@@ -1,0 +1,17 @@
+T1	PROC 2 11	angio-TDM
+T2	DISO 29 71	dilatation
+T3	ANAT 44 71	bronches
+T4	Localization 64 71	gauches
+T5	DISO 77 83	signes
+T6	DISO 87 96	malignité
+T7	PROC 101 118	bilan
+T8	ANAT 124 145	fosse
+T9	PROC 168 201	scanner
+T10	ANAT 176 201	thoraco-abdomino-cérébral
+T11	PROC 207 216	injection
+T12	CHEM 220 246	produit
+T13	DISO 278 287	carcinome
+T14	MEAS 288 311	moyennement
+T15	ANAT 312 330	kératinocellulaire
+T16	DISO 332 335	KNK
+T17	MEAS 337 346	grade

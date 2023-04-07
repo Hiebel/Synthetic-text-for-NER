@@ -1,0 +1,32 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 38 63	antécédents pathologiques
+T4	MEAS 64 72	notables
+T5	DISO 100 113	consanguinité
+T6	DISO 119 146	hyperparathyroïdie primaire
+T7	PHEN 155 181	développement psychomoteur
+T8	MEAS 187 190	bon
+T9	DISO 243 260	syndromes fébrile
+T10	TEMP 270 283	depuis 6 mois
+T11	DISO 319 345	traumatisme hypoglycémique
+T12	MODE 438 443	bolus
+T13	DOSE 447 449	1g
+T14	CHEM 453 477	méthylhydrosulfasalamide
+T15	DISO 496 522	complications métaboliques
+T16	PROC 535 565	traitement substitutif médical
+T17	CHEM 578 591	noradrénaline
+T18	CHEM 593 604	hydroxyzine
+T19	CHEM 607 617	dobutamine
+T20	DISO 770 810	pathologie thromboembolique prurigineuse
+T21	LIVB 827 835	patiente
+T22	PROC 839 881	ponction intraveineuse transperitoinenelle
+T23	ANAT 848 881	intraveineuse transperitoinenelle
+T24	MEAS 895 911	plusieurs litres
+T25	DISO 975 983	tumorale
+T26	PROC 990 1021	prélèvement immunohistochimique
+T27	DISO 1124 1176	adénopathie jugulo-carotidienne adréno-surrénalienne
+T28	ANAT 1136 1176	jugulo-carotidienne adréno-surrénalienne
+T29	DISO 1205 1240	localisations tissulaires kystiques
+T30	DISO 1255 1285	pseudo-lignomes périrachidiens
+T31	DISO 1418 1444	atteinte méningo-nodulaire
+T32	ANAT 1427 1444	méningo-nodulaire

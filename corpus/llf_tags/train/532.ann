@@ -1,0 +1,24 @@
+T1	PHEN 4 22	suites opératoires
+T2	MEAS 31 38	simples
+T3	PROC 42 60	étude histologique
+T4	ANAT 67 83	pièce opératoire
+T5	PROC 73 83	opératoire
+T6	DISO 98 118	tissu fibro-adipeuse
+T7	ANAT 143 166	membre supérieur gauche
+T8	Localization 160 166	gauche
+T9	DISO 181 197	tumeur polylobée
+T10	Concept_Idea 200 206	allure
+T11	DISO 228 279	adénopathies fronto-parietales fronto-mandibulaires
+T12	ANAT 241 279	fronto-parietales fronto-mandibulaires
+T13	DISO 293 314	signes inflammatoires
+T14	PROC 328 345	biologie standard
+T15	DISO 367 386	syndrome infectieux
+T16	LIVB 391 401	spécifique
+T17	PROC 408 441	scanner cervico-thoraco-abdominal
+T18	ANAT 416 441	cervico-thoraco-abdominal
+T19	DISO 468 489	récidive métastatique
+T20	ANAT 499 531	parties molles cervicale gauches
+T21	Localization 524 531	gauches
+T22	PROC 548 568	suivi postopératoire
+T23	TEMP 585 595	7 semaines
+T24	MEAS 612 619	négatif

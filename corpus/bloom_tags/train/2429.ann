@@ -1,0 +1,28 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	Concept_Idea 41 52	antécédents
+T4	MEAS 53 65	particuliers
+T5	Hospital 89 110	urgences pédiatriques
+T6	DISO 120 143	symptômes neurologiques
+T7	Concept_Idea 188 205	état nutritionnel
+T8	PROC 223 237	interrogatoire
+T9	DISO 269 292	traumatisme oculomoteur
+T10	DISO 305 331	signes neuropsychiatriques
+T11	DISO 358 383	déficit sensitivomotrices
+T12	DISO 394 415	lésions hémorragiques
+T13	DISO 479 508	atteinte méningo-myélinisante
+T14	LIVB 539 547	patiente
+T15	PROC 569 591	examen ophtalmologique
+T16	DISO 599 615	troubles visuels
+T17	DISO 647 693	syndrome d'épanchement liquide céphalo-crânien
+T18	ANAT 670 693	liquide céphalo-crânien
+T19	DISO 764 788	neuro-endocrine tumorale
+T20	PHEN 829 839	esthétique
+T21	DISO 909 931	douleurs prurigineuses
+T22	DISO 949 980	cataracte congénitale pigmentée
+T23	MEAS 990 1001	permanentes
+T24	MEAS 1067 1075	notables
+T25	DISO 1090 1116	craniosténoses purpuriques
+T26	MEAS 1131 1138	brutale
+T27	DISO 1157 1180	céphalées constrictives
+T28	DISO 1323 1347	convulsions épileptiques

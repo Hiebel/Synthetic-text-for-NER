@@ -1,0 +1,32 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 73 77	reçu
+T6	Hospital 82 103	urgences pédiatriques
+T7	DISO 113 216	douleurs pelviennes basithoraciques latéro-utérines évoluant dans un contexte d'altération de l'appétit
+T9	PHEN 209 216	appétit
+T10	DISO 230 256	dyspnée stade II de Sadoul
+T11	MEAS 271 277	rapide
+T12	Concept_Idea 290 310	progression clinique
+T13	DISO 352 364	toux fébrile
+T14	DISO 383 404	détresse respiratoire
+T15	PHEN 392 404	respiratoire
+T16	PROC 441 465	traitement antibacilléen
+T17	CHEM 478 489	rifampicine
+T18	CHEM 491 501	ethambutol
+T19	CHEM 503 513	isoniazide
+T20	CHEM 515 527	pyrazinamide
+T21	CHEM 529 540	Ethionamide
+T22	CHEM 542 554	Pyrazinamide
+T23	CHEM 556 567	Cyclosérine
+T24	CHEM 569 580	Céftriaxone
+T25	CHEM 582 595	Chlorhexidine
+T26	CHEM 597 611	Gentaméthasone
+T27	CHEM 613 632	methyldexaméthasone
+T28	LIVB 660 668	patiente
+T29	PROC 753 779	chirurgicaux exploratoires
+T30	PROC 813 842	explorations ophtalmologiques
+T31	PROC 1046 1073	prélèvement bactériologique
+T32	PROC 1078 1145	ponction surrénalienne intracrânienne pancréatectomie conservatrice
+T34	PROC 1192 1221	rachianesthésie locorégionale

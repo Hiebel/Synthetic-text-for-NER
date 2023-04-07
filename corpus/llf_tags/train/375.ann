@@ -1,0 +1,17 @@
+T1	PROC 2 20	bilan radiologique
+T2	DISO 37 64	rupture de la cuisse droite
+T3	ANAT 51 64	cuisse droite
+T4	Localization 58 64	droite
+T5	PROC 69 86	tomodensitométrie
+T6	PROC 88 117	TDM) crânio-thoraco-abdominal
+T7	ANAT 93 117	crânio-thoraco-abdominal
+T8	MEAS 162 170	mauvaise
+T9	LIVB 187 193	malade
+T10	LIVB 202 215	orthopédistes
+T11	Concept_Idea 227 240	particularité
+T12	PROC 246 306	chimiothérapie palliative type céphalosporine B12 parentéral
+T13	CHEM 277 306	céphalosporine B12 parentéral
+T14	CHEM 310 323	métronidazole
+T15	TEMP 345 360	post opératoire
+T16	PROC 350 360	opératoire
+T17	TEMP 378 384	3 mois

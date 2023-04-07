@@ -1,0 +1,64 @@
+T1	LIVB 15 22	patient
+T2	DISO 34 43	tabagique
+T3	MEAS 56 73	15 paquets-années
+T4	Hospital 97 105	urgences
+T5	DISO 115 145	douleurs pelviennes chroniques
+T6	ANAT 124 134	pelviennes
+T7	PROC 163 180	bilan d'extension
+T8	Concept_Idea 197 203	aspect
+T9	DISO 220 260	carcinose du col utérin cervico-vaginale
+T10	ANAT 233 260	col utérin cervico-vaginale
+T11	LIVB 262 264	Il
+T12	PROC 281 305	laparotomie exploratrice
+T13	PROC 311 328	curage péritonéal
+T14	ANAT 318 328	péritonéal
+T15	PROC 341 367	examen anatomopathologique
+T16	PROC 371 391	immuno histochimique
+T17	PROC 393 403	diagnostic
+T18	PROC 411 457	technique d'immuno-chimiluminescence indirecte
+T19	TEMP 478 485	12 mois
+T20	DISO 517 534	récidive tumorale
+T21	PHEN 566 588	suites postopératoires
+T22	DISO 629 651	déchirure épigastrique
+T23	ANAT 639 651	épigastrique
+T24	DISO 683 722	syndrome d’épanchement intrapéritonéale
+T25	ANAT 706 722	intrapéritonéale
+T26	PROC 766 790	chimiothérapie adjuvante
+T27	CHEM 796 805	docetaxel
+T28	CHEM 808 820	oxaliplatine
+T29	LIVB 850 858	patiente
+T30	PROC 881 902	surveillance clinique
+T31	PROC 908 920	radiologique
+T32	PROC 934 969	antibiocorticothérapie probabiliste
+T33	CHEM 982 993	ceftriaxone
+T34	CHEM 995 1008	métronidazole
+T35	CHEM 1011 1024	rifaméthasone
+T36	CHEM 1028 1041	triméthoprime
+T37	DEVI 1046 1070	seringue plâtrée convexe
+T38	MODE 1084 1094	voie orale
+T39	PROC 1100 1129	contraception utéro-mammaires
+T40	ANAT 1114 1129	utéro-mammaires
+T41	TEMP 1146 1151	6mois
+T42	MEAS 1175 1186	instabilité
+T43	Concept_Idea 1199 1207	clinique
+T44	DISO 1225 1233	récidive
+T45	DISO 1240 1266	complications néoplasiques
+T46	DISO 1311 1350	localisations secondaires métastatiques
+T47	Localization 1373 1398	au niveau cutanéo-muqueux
+T48	PROC 1475 1497	résection chirurgicale
+T49	MEAS 1558 1571	significative
+T50	DISO 1656 1687	localisation secondaire tumoral
+T51	PROC 1703 1728	étude immunohistochimique
+T52	PROC 1789 1809	examen macroscopique
+T53	DISO 1887 1902	symptomatologie
+T54	PROC 2022 2054	ponction pleurale transpariétale
+T55	ANAT 2031 2054	pleurale transpariétale
+T56	MEAS 2063 2088	difficilement appréciable
+T57	DISO 2125 2140	symptomatologie
+T58	TEMP 2150 2164	depuis 12 mois
+T59	DOSE 2206 2217	deux litres
+T60	CHEM 2221 2239	méthylprednisolone
+T61	CHEM 2302 2315	dexaméthasone
+T62	CHEM 2318 2332	hydrocortisone
+T63	CHEM 2335 2348	noradrénaline
+T64	CHEM 2351 2390	gonadotrophine chorionic gonadotrophine

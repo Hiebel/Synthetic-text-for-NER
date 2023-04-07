@@ -1,0 +1,30 @@
+T1	Concept_Idea 19 22	cas
+T2	MEAS 23 27	rare
+T3	LIVB 37 45	patiente
+T4	PROC 56 62	admise
+T5	Hospital 67 75	urgences
+T6	DISO 85 97	métrorragies
+T7	CHEM 127 139	amoxicilline
+T8	LIVB 163 171	patiente
+T9	Concept_Idea 244 273	antécédent médico-chirurgical
+T10	PHEN 294 315	grossesse monofoetale
+T11	PROC 334 351	bilan étiologique
+T12	MEAS 362 374	satisfaisant
+T13	PROC 380 404	échographie obstétricale
+T14	ANAT 443 462	muqueuse céphalique
+T15	MEAS 472 477	10 cm
+T16	DISO 483 508	myomectomie superficielle
+T17	DISO 512 532	niveau hydro-aérique
+T18	ANAT 553 565	cuir chevelu
+T19	DISO 586 628	lésions cutanées inflammatoires localisées
+T20	PROC 696 721	scanner thoraco-abdominal
+T21	ANAT 704 721	thoraco-abdominal
+T22	Localization 762 791	pièce anatomiquement sensible
+T23	MEAS 803 809	normal
+T24	Concept_Idea 869 889	aspect morphologique
+T25	DISO 906 930	malformation congénitale
+T26	DISO 980 999	métaplasmodiploique
+T27	DISO 1091 1126	récidive métaplasmocytaire kystique
+T28	PROC 1297 1316	trachéotomie totale
+T29	PROC 1553 1578	cystolithotomie partielle
+T30	PROC 1679 1708	ponction biopsie endoscopique

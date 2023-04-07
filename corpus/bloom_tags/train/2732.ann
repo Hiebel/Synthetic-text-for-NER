@@ -1,0 +1,18 @@
+T1	LIVB 16 21	femme
+T2	DISO 33 42	primipare
+T3	PROC 57 85	antibiothérapie probabiliste
+T4	CHEM 95 107	amoxicilline
+T5	CHEM 121 139	acide clavulanique
+T6	DOSE 141 147	400 mg
+T7	TEMP 147 152	/jour
+T8	PROC 159 181	consultation prénatale
+T9	Hospital 200 207	urgence
+T10	DISO 217 229	métrorragies
+T11	PROC 245 265	examen gynécologique
+T12	ANAT 285 295	col utérin
+T13	Concept_Idea 308 314	taille
+T14	MEAS 319 327	palpable
+T15	DISO 333 365	épanchement liquidien péritonéal
+T16	ANAT 345 365	liquidien péritonéal
+T17	PROC 401 426	annexectomie exploratrice
+T18	PROC 441 460	bilan préopératoire

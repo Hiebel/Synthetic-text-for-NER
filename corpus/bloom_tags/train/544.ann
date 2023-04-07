@@ -1,0 +1,38 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	10 ans
+T3	DISO 26 51	antécédents pathologiques
+T4	MEAS 52 60	notables
+T5	PROC 62 67	admis
+T6	Hospital 72 93	urgences pédiatriques
+T7	DISO 107 134	détresse respiratoire aiguë
+T8	MEAS 149 156	brutale
+T9	Concept_Idea 201 213	état général
+T10	PROC 217 241	exploration chirurgicale
+T11	DISO 262 303	pancréatite auto-immune stade Ede Buerger
+T12	PROC 333 351	chirurgie curative
+T13	PROC 356 411	dépôts globulaires pancréatiques biliaires intraveineux
+T14	PROC 426 466	anastomotomie artérioveineuse iléocæcale
+T15	ANAT 440 466	artérioveineuse iléocæcale
+T16	PROC 510 534	anesthésie locorégionale
+T17	ANAT 521 534	locorégionale
+T18	LIVB 578 585	famille
+T19	PROC 605 625	prise médicamenteuse
+T20	PROC 635 658	kinésithérapie médicale
+T21	PROC 662 678	bilan biologique
+T22	DISO 707 729	syndrome inflammatoire
+T23	DISO 740 757	signes infectieux
+T24	DISO 775 808	syndrome d'épanchement péritonéal
+T25	ANAT 798 808	péritonéal
+T26	DISO 888 905	pathophysiologies
+T27	DISO 930 952	hypotension artérielle
+T28	ANAT 942 952	artérielle
+T29	DISO 968 987	insuffisance rénale
+T30	PHEN 981 987	rénale
+T31	MEAS 999 1008	120mmol/l
+T32	DISO 1021 1048	cardiomégalie hypertrophiée
+T33	Localization 1097 1104	externe
+T34	PROC 1111 1133	sérologies virales VIH
+T35	MEAS 1142 1152	négativées
+T36	DISO 1226 1267	polyradiculonévralgie neuropathogénétique
+T37	DISO 1284 1302	empyème thoracique
+T38	ANAT 1292 1302	thoracique

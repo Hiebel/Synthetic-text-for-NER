@@ -1,0 +1,33 @@
+T1	LIVB 29 37	patiente
+T2	MEAS 54 63	nullipare
+T3	MEAS 96 104	notables
+T4	PROC 115 127	hospitalisée
+T5	DISO 137 177	masse abdomino-pelvienne hypo-expansante
+T6	ANAT 143 177	abdomino-pelvienne hypo-expansante
+T7	MEAS 189 204	progressivement
+T8	Concept_Idea 208 214	volume
+T9	TEMP 224 237	depuis 3 mois
+T10	PROC 241 256	examen clinique
+T11	MEAS 289 297	15/10 cm
+T12	Localization 314 327	face latérale
+T13	ANAT 331 338	douglas
+T14	Concept_Idea 341 348	aspects
+T15	MEAS 349 368	légèrement sensible
+T16	MEAS 372 380	indolore
+T17	PROC 386 416	échographie abdomino-pelvienne
+T18	ANAT 398 416	abdomino-pelvienne
+T20	ANAT 507 526	parois intestinales
+T21	Concept_Idea 539 545	taille
+T22	MEAS 558 561	6cm
+T23	ANAT 594 637	intra-lésionnel inféro-scapulaire ovaginaux
+T24	ANAT 658 686	vésicule biliaire principale
+T25	PROC 722 731	injection
+T26	DOSE 735 737	2g
+T27	CHEM 741 761	produit de contraste
+T28	DISO 812 817	masse
+T29	PROC 820 854	imagerie par résonnance magnétique
+T30	PROC 856 859	IRM
+T31	ANAT 861 870	pelvienne
+T33	ANAT 1022 1046	sinus caverneux pelviens
+T34	ANAT 1058 1084	intestin grêlique fundique
+T35	DISO 1102 1125	hypo-signal T2*centrale

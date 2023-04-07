@@ -1,0 +1,33 @@
+T1	LIVB 28 35	patient
+T2	MEAS 82 90	notables
+T3	PROC 92 103	hospitalisé
+T4	Hospital 108 146	Cliniques Universitaires De Lubumbashi
+T6	PROC 192 215	TDM) abdomino-pelvienne
+T7	ANAT 197 215	abdomino-pelvienne
+T8	DISO 255 313	masse tumorale kystique d’arrière cavité abdominopelvienne
+T9	Localization 281 288	arrière
+T10	MEAS 322 327	12 cm
+T11	Concept_Idea 331 340	grand axe
+T12	PROC 368 377	injection
+T13	DOSE 381 386	20 mg
+T14	CHEM 390 410	produit de contraste
+T15	DISO 438 454	kystique maligne
+T16	MEAS 463 469	type 2
+T17	DISO 486 525	envahissement parenchymateux péritonéal
+T18	ANAT 500 525	parenchymateux péritonéal
+T19	DEVI 538 564	scanner cervico-thoracique
+T20	ANAT 546 564	cervico-thoracique
+T21	DISO 589 656	masse bourgeonnante intrapéritonéale angulo-surrénalienne bilobulée
+T22	MEAS 668 685	de façon homogène
+T23	Concept_Idea 689 695	volume
+T24	TEMP 705 720	depuis 10 jours
+T25	Concept_Idea 756 768	état général
+T26	MEAS 819 824	2(5).
+T27	PROC 828 845	geste chirurgical
+T28	PROC 851 868	anesthésie locale
+T29	DISO 896 910	locomoteurisme
+T30	PROC 958 977	lavage sphinctérien
+T31	ANAT 965 977	sphinctérien
+T32	MEAS 1083 1090	simples
+T33	DISO 1153 1183	complications thromboembolique
+T34	PROC 1216 1254	radiothérapie complémentaire adjuvante

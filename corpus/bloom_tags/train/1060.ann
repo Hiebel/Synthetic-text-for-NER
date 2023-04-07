@@ -1,0 +1,26 @@
+T1	LIVB 20 28	patiente
+T2	DISO 50 75	antécédents pathologiques
+T3	MEAS 76 84	notables
+T4	PROC 86 92	admise
+T5	Hospital 97 105	urgences
+T6	DISO 115 158	douleurs abdomino-pelviennes hypertrophiées
+T7	ANAT 124 143	abdomino-pelviennes
+T8	TEMP 168 181	depuis 2 mois
+T9	DISO 198 207	dyspepsie
+T11	PROC 268 283	examen clinique
+T12	LIVB 297 305	patiente
+T13	MEAS 309 312	bon
+T14	Concept_Idea 313 331	état hémodynamique
+T15	DISO 369 402	syndrome d'épanchement péritonéal
+T16	ANAT 392 402	péritonéal
+T17	ANAT 422 433	flanc droit
+T18	Localization 428 433	droit
+T19	PROC 437 467	échographie abdomino-pelvienne
+T20	ANAT 449 467	abdomino-pelvienne
+T21	DISO 485 562	masse tissulaire hypo échogène latéro péritonéale bilithiasique hypovoluménée
+T22	MEAS 572 577	15 cm
+T23	Concept_Idea 581 590	grand axe
+T24	Concept_Idea 593 599	aspect
+T25	MEAS 600 615	en verre dépoli
+T26	ANAT 631 642	flanc droit
+T27	Localization 637 642	droit

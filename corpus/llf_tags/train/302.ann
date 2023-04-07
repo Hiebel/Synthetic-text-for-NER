@@ -1,0 +1,43 @@
+T1	PROC 4 28	laparotomie exploratrice
+T2	DISO 58 78	processus tissulaire
+T3	ANAT 82 93	rein gauche
+T4	Localization 87 93	gauche
+T5	LIVB 98 106	patiente
+T6	PROC 123 146	traitement antibiotique
+T7	CHEM 134 146	antibiotique
+T8	CHEM 156 187	amoxicilline acide clavulanique
+T9	DOSE 189 193	5 mg
+T10	TEMP 193 195	/j
+T11	PROC 212 232	transfusion sanguine
+T12	DEVI 237 245	cathéter
+T13	PHEN 250 263	cicatrisation
+T14	MEAS 285 290	bonne
+T15	Concept_Idea 291 309	tolérance clinique
+T16	TEMP 316 326	3 semaines
+T17	PROC 331 349	suites opératoires
+T18	PROC 354 384	bilan biologique préopératoire
+T19	DISO 394 408	particularités
+T20	PROC 422 463	scanner cervico-thoraco-abdomino- pelvien
+T21	ANAT 430 463	cervico-thoraco-abdomino- pelvien
+T22	PROC 527 534	doppler
+T23	PROC 591 598	vérifié
+T24	DISO 619 628	anomalies
+T25	PROC 633 660	examen anatomo-pathologique
+T26	DISO 693 762	adénocarcinome épidermoïde infiltrant érythémateux intracytoplasmique
+T27	DISO 779 795	nécrose caséeuse
+T28	DISO 802 817	lésion kystique
+T29	PROC 822 852	complément immunohistochimique
+T30	DISO 883 932	mélanome malin primitif carcinomateux métastasant
+T31	Concept_Idea 1046 1067	formule chromogénique
+T32	DISO 1109 1121	métastase IV
+T33	Concept_Idea 1144 1164	aspect morphologique
+T34	ANAT 1186 1205	lames thyroïdiennes
+T35	MEAS 1232 1240	25x15 mm
+T36	ANAT 1255 1274	ganglions cervicaux
+T37	PROC 1313 1324	recherchées
+T38	ANAT 1373 1418	expectorations pariéto-réticulo-mandibulaires
+T39	DISO 1533 1564	métastases secondaires malignes
+T40	LIVB 1576 1584	patiente
+T41	PROC 1605 1641	contrôle radiologique complémentaire
+T42	PROC 1674 1702	chimiothérapie néo adjuvante
+T43	DISO 1728 1773	neurofibromatose inflammatoire myéloblastique

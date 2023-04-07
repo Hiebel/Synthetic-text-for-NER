@@ -1,0 +1,14 @@
+T1	LIVB 29 37	patiente
+T2	PROC 49 56	traitée
+T3	DISO 65 96	adénocarcinome du paragangliome
+T4	ANAT 83 96	paragangliome
+T5	TEMP 100 104	2013
+T6	PROC 123 147	chimiothérapie adjuvante
+T7	CHEM 157 168	Cyclosérine
+T8	PROC 174 200	examen anatomopathologique
+T9	Concept_Idea 205 217	localisation
+T10	MEAS 224 232	tumorale
+T11	ANAT 247 291	récepteurs musculo-tendineux parathyroïdiens
+T12	ANAT 308 331	plexus galactophoriques
+T14	ANAT 343 377	ganglionnaire cervico-mandibulaire
+T15	PROC 383 401	mastectomie totale

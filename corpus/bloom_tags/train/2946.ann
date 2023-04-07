@@ -1,0 +1,29 @@
+T1	LIVB 3 9	garçon
+T2	TEMP 13 18	7 ans
+T3	DISO 24 49	antécédents pathologiques
+T4	MEAS 50 62	particuliers
+T5	Hospital 82 90	urgences
+T6	DISO 99 151	syndrome d'épanchement thoracique liquidien purulent
+T8	TEMP 161 177	depuis 72 heures
+T9	Concept_Idea 213 225	état général
+T10	DISO 242 276	douleurs thoraciques constrictives
+T11	Localization 301 311	bilatérale
+T12	DISO 364 370	fièvre
+T13	TEMP 379 400	deux jours auparavant
+T14	MEAS 415 421	rapide
+T15	PROC 449 465	transit grêlique
+T16	ANAT 457 465	grêlique
+T17	DISO 485 497	méningalgies
+T18	PROC 517 542	intervention chirurgicale
+T19	LIVB 563 569	enfant
+T20	TEMP 583 589	13 ans
+T21	PROC 612 655	programme d'immunodépression prophylasmique
+T22	DISO 708 727	traumatisme crânien
+T23	DISO 763 784	détresse respiratoire
+T24	MEAS 799 810	progressive
+T25	DISO 842 877	purpura érythémateu cutanéo-muqueux
+T26	DISO 905 928	atteinte buccopharyngée
+T27	ANAT 914 928	buccopharyngée
+T28	MEAS 940 951	brutalement
+T29	Concept_Idea 955 961	volume
+T30	ANAT 982 997	sinus caverneux

@@ -1,0 +1,18 @@
+T1	LIVB 16 21	femme
+T2	PROC 38 44	admise
+T3	DISO 54 76	douleurs épigastriques
+T4	ANAT 63 76	épigastriques
+T5	TEMP 86 104	depuis trois jours
+T6	Concept_Idea 130 142	état général
+T7	PROC 147 164	bilan d'extension
+T8	PROC 186 219	scanner thoraco- abdomino-pelvien
+T9	ANAT 194 219	thoraco- abdomino-pelvien
+T10	PROC 221 224	TSA
+T11	DISO 251 345	carcinome parathyroïdien hypopharyngo-surrénalien du sinus ptérygo-mandibulaire inféro-latéral
+T14	PROC 349 379	échographie abdomino-pelvienne
+T15	ANAT 361 379	abdomino-pelvienne
+T16	PHEN 397 417	grossesse gémellaire
+T17	PROC 424 469	doppler cardio-vasculonéfinale transpariétale
+T18	ANAT 432 469	cardio-vasculonéfinale transpariétale
+T19	CHEM 475 486	sulfentanil
+T20	DISO 498 511	particularité

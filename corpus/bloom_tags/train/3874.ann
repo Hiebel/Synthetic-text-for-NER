@@ -1,0 +1,33 @@
+T1	LIVB 20 25	femme
+T2	Concept_Idea 47 72	antécédents pathologiques
+T3	MEAS 73 85	particuliers
+T4	PROC 87 94	traitée
+T5	DISO 104 121	pancréatite aiguë
+T6	DISO 126 156	dilatation des voies biliaires
+T7	ANAT 141 156	voies biliaires
+T8	ANAT 170 181	rein gauche
+T9	Localization 175 181	gauche
+T10	DISO 201 220	carcinome hépatique
+T11	PROC 234 246	hospitalisée
+T12	Hospital 251 259	urgences
+T13	DISO 286 306	ictère cholestatique
+T14	TEMP 316 333	depuis deux jours
+T15	PROC 339 354	examen clinique
+T16	LIVB 359 367	patiente
+T17	DISO 374 381	fébrile
+T18	MEAS 384 389	39°6C
+T19	DISO 406 418	vomissements
+T20	DISO 424 438	amaigrissement
+T21	PHEN 457 475	suites opératoires
+T22	MEAS 484 491	simples
+T23	PROC 495 526	échographie abdomino- pelvienne
+T24	ANAT 507 526	abdomino- pelvienne
+T25	DISO 547 573	masse tissulaire hypodense
+T26	MEAS 583 587	50mm
+T27	Concept_Idea 591 600	grand axe
+T28	MEAS 609 622	environ 10 cm
+T29	PROC 663 672	injection
+T30	DOSE 676 684	2 litres
+T31	CHEM 688 708	produit de contraste
+T32	ANAT 726 754	méso-sigmoïde utéro périnéal
+T33	ANAT 774 791	cavité abdominale

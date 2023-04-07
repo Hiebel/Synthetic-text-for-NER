@@ -1,0 +1,46 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	7 ans
+T3	PROC 73 89	bilan biologique
+T4	DISO 103 109	anémie
+T5	MEAS 112 120	9,1 g/dL
+T6	Concept_Idea 122 129	Normale
+T7	MEAS 131 139	6,2 g/dL
+T8	PROC 146 156	hémogramme
+T9	DISO 174 206	nodule du membre inférieur droit
+T10	ANAT 184 206	membre inférieur droit
+T11	Localization 201 206	droit
+T12	DISO 216 243	polynucléaires neutrophiles
+T13	PROC 287 306	électrocardiogramme
+T14	PHEN 329 343	rythme sinusal
+T15	DISO 349 372	trouble sensitivomoteur
+T16	DISO 376 384	sensitif
+T17	PROC 396 407	échographie
+T18	DISO 447 476	distension abdomino-pelvienne
+T19	ANAT 458 476	abdomino-pelvienne
+T20	ANAT 486 525	pédicule quadriceps fémoral homolatéral
+T21	Localization 514 525	homolatéral
+T22	ANAT 532 579	quadrant supéro-externe sus claviculaire gauche
+T23	Localization 573 579	gauche
+T24	MEAS 589 594	18 cm
+T25	Concept_Idea 598 607	grand axe
+T26	DISO 638 663	insuffisance thyroïdienne
+T27	ANAT 651 663	thyroïdienne
+T28	PROC 668 687	traitement adjuvant
+T29	CHEM 692 736	néostigmine acétyltransférase Sulfaméthasone
+T30	PROC 759 787	corticothérapie concomitante
+T31	PROC 856 894	récepteurs ionotrimérases intraveineux
+T32	LIVB 1827 1835	patiente
+T33	TEMP 1844 1849	3 ans
+T34	Hospital 1946 1983	manifestations cliniques pédiatriques
+T35	DEVI 2027 2056	matériel arthritique portatif
+T36	DISO 2109 2123	neuroleptiques
+T37	LIVB 2142 2153	jeune fille
+T38	PROC 2159 2184	étude anatomopathologique
+T39	PROC 2205 2235	investigations complémentaires
+T40	PROC 2257 2281	recherches diagnostiques
+T41	DISO 2404 2438	symptomatologie obstétricale aiguë
+T42	MEAS 2450 2454	bien
+T43	PROC 2500 2524	contrôle ophtalmologique
+T44	PROC 2544 2573	prélèvements bactériologiques
+T45	DISO 2608 2621	particularité
+T46	Concept_Idea 2649 2663	forme clinique

@@ -1,0 +1,79 @@
+T1	LIVB 19 27	patiente
+T2	DISO 63 83	douleurs abdominales
+T3	ANAT 72 83	abdominales
+T4	DISO 94 105	pollakiurie
+T5	TEMP 115 127	depuis un an
+T6	PROC 131 146	examen clinique
+T7	PHEN 162 170	fonction
+T8	MEAS 171 178	normale
+T9	ANAT 182 205	membre inferieur gauche
+T10	Localization 199 205	gauche
+T11	DISO 218 239	signes inflammatoires
+T12	PROC 253 270	tomodensitométrie
+T13	PROC 272 303	TDM) cervico-thoraco-abdominale
+T14	ANAT 277 303	cervico-thoraco-abdominale
+T15	DISO 355 411	processus tissulaire superficiel péritonéal hypoéchogène
+T16	MEAS 421 433	environ 5 cm
+T17	Concept_Idea 437 446	grand axe
+T18	MEAS 455 459	6 cm
+T19	Concept_Idea 463 471	diamètre
+T20	ANAT 519 567	région intraparenchymateuse sous clavière droite
+T21	Localization 561 567	droite
+T22	ANAT 586 605	nerf pariétal droit
+T23	Localization 600 605	droit
+T24	PROC 610 626	bilan biologique
+T25	PROC 693 721	investigations paracliniques
+T26	DISO 776 785	symptômes
+T27	PROC 789 814	étude immunohistochimique
+T28	PROC 815 818	IHC
+T29	LIVB 838 846	patiente
+T30	DISO 959 978	symptômes cliniques
+T31	DISO 1006 1041	syndrome carcinomateux métastatique
+T32	DISO 1056 1099	neuropathie sensitivo-motrice psychomotrice
+T33	DISO 1115 1162	ataxie proprioceptive spasmocytaire congénitale
+T34	ANAT 1175 1231	segment supéro-mésantérique supérieur homolatéral gauche
+T35	Localization 1213 1231	homolatéral gauche
+T36	PROC 1260 1284	chimiothérapie adjuvante
+T37	PROC 1298 1336	néphrotomie exploratrice scanno-guidée
+T38	TEMP 1345 1361	2 mois plus tard
+T39	PROC 1366 1444	scanner crânio-encéphalique axillaire controlatéral maxillaire retro rachidien
+T41	DISO 1463 1483	déficit neurologique
+T42	DISO 1494 1520	métastase tumorale maligne
+T43	PROC 1526 1565	surveillance radiologique préopératoire
+T44	DISO 1590 1666	lésion érythroblastique cervicale erectaphysaire jugulocarophiliaque lobulée
+T45	ANAT 1685 1767	branche sus mésentérique rénale supra temporale supérieure postéro-latérale droite
+T46	Localization 1717 1767	supra temporale supérieure postéro-latérale droite
+T47	Concept_Idea 1838 1861	caractère morphologique
+T48	DISO 1881 1906	localisations secondaires
+T49	PROC 1922 1949	recherches bactériologiques
+T50	LIVB 2784 2802	familles suivantes
+T51	MEAS 2811 2815	bien
+T52	LIVB 2828 2835	parents
+T53	LIVB 2839 2849	nourrisson
+T54	DISO 2877 2884	maladie
+T55	CHEM 2927 2937	médicament
+T56	CHEM 2949 2980	amoxicilline acide clavulanique
+T57	CHEM 2984 3008	acide acétyle glutamique
+T58	PHEN 3014 3023	grossesse
+T59	Concept_Idea 3079 3096	état nutritionnel
+T60	Concept_Idea 3134 3152	état hémodynamique
+T61	Concept_Idea 3174 3196	habitudes alimentaires
+T62	PROC 3233 3243	diagnostic
+T63	DISO 3269 3314	méningo-encéphalite aigüe myxomateuse maligne
+T64	LIVB 3339 3345	petits
+T65	LIVB 3346 3353	enfants
+T66	DISO 3399 3408	malignité
+T67	DISO 3459 3468	symptômes
+T68	PROC 3474 3503	prise en charge thérapeutique
+T69	Concept_Idea 3516 3538	paramètres biologiques
+T70	Hospital 3617 3654	consultations prénatales pédiatriques
+T71	DISO 3855 3945	hyperplasie hypoalbuminoïde monocytaire interstitielle spasmodique idiopathique polyclonal
+T72	PROC 4062 4086	chimiothérapie adjuvante
+T73	PROC 4102 4140	transfusion intraveineuse concomitante
+T74	PROC 4174 4237	néphrotomie exploratrice percutanée endotrachéale biquotidienne
+T75	MEAS 4279 4290	3500 gramme
+T76	MEAS 4296 4314	29 fois la normale
+T77	MEAS 4324 4329	32 cm
+T78	MEAS 4332 4336	46cm
+T79	MEAS 4364 4368	37mm
+T80	MEAS 4371 4385	45° centimètre

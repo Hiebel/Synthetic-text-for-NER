@@ -1,0 +1,101 @@
+T1	PROC 4 31	tomodensitométrie du thorax
+T2	ANAT 25 31	thorax
+T3	DISO 47 103	processus tissulaire de l’artère fémorale commune droite
+T4	ANAT 73 103	artère fémorale commune droite
+T5	Localization 97 103	droite
+T6	PROC 107 132	étude immunohistochimique
+T7	PROC 134 137	IHC
+T8	LIVB 156 163	patient
+T9	DISO 185 215	cytoplasme endothélial maligne
+T10	Concept_Idea 259 268	résultats
+T11	PROC 273 299	études cytobactériologique
+T12	PROC 300 308	myogénes
+T13	PROC 310 336	immunofluorescence directe
+T14	PROC 338 351	sérologie VIH
+T15	PROC 357 375	histo-endoscopique
+T16	PROC 376 379	CD3
+T17	PROC 386 406	récepteurs hormonaux
+T18	MEAS 429 437	positifs
+T19	MEAS 464 473	610 UI/mL
+T20	Hospital 603 638	urgences chirurgicales pédiatriques
+T21	TEMP 657 664	5 jours
+T22	DISO 680 709	symptômes psychotiques aigues
+T23	DISO 716 743	crises convulsives fébriles
+T24	PROC 770 792	traitement substitutif
+T25	CHEM 876 888	prédnisolone
+T26	DOSE 956 964	1 gramme
+T27	TEMP 964 969	/jour
+T28	PROC 982 1000	antibioprophylaxie
+T29	CHEM 1021 1034	amoxicillines
+T30	PROC 1116 1165	néphrocalcinose diabétique monophasique familiale
+T31	TEMP 1224 1233	24 heures
+T32	PHEN 1247 1256	grossesse
+T33	MEAS 1283 1287	4 SA
+T34	MEAS 1291 1300	0,2 litre
+T35	PROC 1313 1330	bilan étiologique
+T36	MEAS 1342 1353	particulier
+T37	PROC 1386 1417	échographie obstétricale totale
+T38	DISO 1490 1553	tumeur néoplasique mucocaryocytaire polyclonale hypoalbuminoïde
+T40	PROC 1776 1811	curage ganglionnaire cervico-utérin
+T41	ANAT 1783 1811	ganglionnaire cervico-utérin
+T42	DISO 1831 1853	syndrome inflammatoire
+T43	MEAS 1902 1909	simples
+T44	PROC 1914 1958	prise en charge préopératoire postopératoire
+T45	PROC 1990 2023	anesthésie locorégionale profonde
+T46	PROC 2045 2057	intervention
+T47	TEMP 2069 2079	30 minutes
+T48	PROC 2093 2117	geste anesthésique local
+T49	PROC 2135 2155	analgésie péridurale
+T50	DISO 2185 2212	détails neuropsychiatriques
+T51	PROC 2234 2249	acte opératoire
+T52	PROC 2255 2284	chimiothérapie prophylactique
+T53	CHEM 2313 2327	ciprofloxacine
+T54	DOSE 2337 2347	400 mg /kg
+T55	TEMP 2347 2349	/j
+T56	CHEM 2352 2366	gentaméthasone
+T57	DOSE 2367 2373	15 mg%
+T58	TEMP 2373 2375	/j
+T59	CHEM 2377 2396	hydroxyprogesterone
+T60	DOSE 2397 2403	40 mg%
+T61	TEMP 2403 2405	/j
+T62	CHEM 2408 2431	acide acétyle glutamate
+T63	DOSE 2432 2438	50 mg%
+T65	DEVI 2468 2482	fil électrique
+T66	Concept_Idea 2491 2499	résultat
+T67	MEAS 2500 2512	satisfaisant
+T68	MEAS 2532 2541	favorable
+T69	TEMP 2553 2561	8 heures
+T70	DISO 2588 2603	récidive locale
+T71	DISO 2610 2631	récidive métastatique
+T72	LIVB 2635 2641	enfant
+T73	PROC 2655 2678	traitement antibiotique
+T74	CHEM 2666 2678	antibiotique
+T75	CHEM 2680 2691	céftriaxone
+T76	DOSE 2692 2713	1 gramme pour 1 litre
+T77	TEMP 2713 2715	/j
+T78	PROC 2722 2751	renseignements gynécologiques
+T79	Hospital 2773 2794	urgences pédiatriques
+T80	PROC 2807 2829	consultation prénatale
+T81	PHEN 2869 2878	grossesse
+T82	PROC 2883 2889	suivie
+T83	PROC 2912 2936	transfusion intrarectale
+T84	CHEM 2940 2951	corticoïde®
+T85	PROC 2982 2994	radiologique
+T86	LIVB 3034 3045	jeune homme
+T87	LIVB 3088 3092	père
+T88	DISO 3129 3148	accident domestique
+T89	LIVB 3161 3164	ses
+T90	LIVB 3165 3169	fils
+T91	DISO 3330 3361	comportement sexuel antinaturel
+T92	PROC 3410 3433	avortements gémellaires
+T93	PROC 3447 3464	union consanguine
+T94	LIVB 3471 3473	sa
+T95	LIVB 3474 3478	mère
+T96	LIVB 3482 3485	son
+T98	PROC 3606 3626	examen macroscopique
+T99	DISO 3645 3673	nodules tissulaires nécrosés
+T100	MEAS 3698 3702	2 cm
+T101	MEAS 3706 3710	4 cm
+T102	DISO 3716 3742	remaniements hémorragiques
+T103	ANAT 3769 3803	paroi fundique mésentérique rénale
+T104	DISO 3819 3865	lésions kystiques érythématoïdales achromiques

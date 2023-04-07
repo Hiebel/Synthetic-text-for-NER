@@ -1,0 +1,28 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	DISO 38 79	processus tissulaire de l'hémiface gauche
+T4	ANAT 64 79	hémiface gauche
+T5	Localization 73 79	gauche
+T6	PROC 84 101	bilan d'extension
+T7	DISO 121 130	anomalies
+T9	ANAT 143 167	thoraco-abdomino-pelvien
+T10	MEAS 184 195	volumineuse
+T11	DISO 196 242	fracture des troncs supra-aortico-sous cutanés
+T12	ANAT 209 242	troncs supra-aortico-sous cutanés
+T13	Concept_Idea 248 256	position
+T14	ANAT 316 346	paroi abdominale superficielle
+T15	DISO 369 377	récidive
+T16	PROC 383 411	chimiothérapie néo adjuvante
+T17	CHEM 417 444	triméthoprimesulfaméthasone
+T18	DOSE 446 451	20 mg
+T19	TEMP 451 453	/j
+T20	DISO 502 531	symptômes neuropsychiatriques
+T21	LIVB 544 550	malade
+T22	Concept_Idea 594 611	moyens financiers
+T23	PROC 669 701	prise en charge médicale urgente
+T24	Hospital 728 741	établissement
+T25	PROC 760 775	corticothérapie
+T26	TEMP 809 823	septembre 2013
+T27	MEAS 843 850	normale
+T28	LIVB 872 899	confrères kinésithérapeutes
+T29	PROC 918 958	kinésithérapie palliative complémentaire

@@ -1,0 +1,38 @@
+T1	LIVB 28 35	patient
+T2	PROC 83 88	admis
+T3	Hospital 93 101	urgences
+T4	DISO 121 148	détresse respiratoire aiguë
+T5	DISO 154 174	hémoptysème purulent
+T6	TEMP 184 200	depuis 48 heures
+T7	MODE 206 216	voie orale
+T8	DOSE 230 239	0,5 mg/kg
+T9	TEMP 239 241	/j
+T10	MEAS 257 264	brutale
+T11	PROC 283 306	extraction chirurgicale
+T12	DISO 313 326	masse maligne
+T13	ANAT 342 355	ovaire distal
+T14	Localization 349 355	distal
+T15	MEAS 365 378	environ 50 cm
+T16	Concept_Idea 382 391	grand axe
+T17	MEAS 396 401	10 cm
+T18	Concept_Idea 405 418	petite taille
+T19	PROC 433 441	réséquée
+T20	PROC 466 491	étude anatomopathologique
+T21	PROC 497 518	recherche étiologique
+T22	MEAS 525 533	négative
+T23	DISO 561 574	consanguinité
+T24	DISO 581 601	syndrome métabolique
+T25	DISO 607 626	épanchement pleural
+T26	ANAT 619 626	pleural
+T27	DISO 648 663	symptomatologie
+T28	LIVB 684 692	patients
+T29	DISO 858 875	dyspnée sifflante
+T30	MEAS 887 900	progressément
+T31	Concept_Idea 904 910	volume
+T32	DISO 951 979	troubles sensitivo-olfactifs
+T33	MEAS 1051 1068	plus volumineuses
+T34	LIVB 1146 1150	Elle
+T35	DISO 1178 1218	défirculté neurologique sensitivomotrice
+T36	DISO 1232 1259	polynucléaires neutrophiles
+T37	DISO 1282 1302	douleurs abdominales
+T38	ANAT 1291 1302	abdominales

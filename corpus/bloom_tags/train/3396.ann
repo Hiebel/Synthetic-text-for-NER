@@ -1,0 +1,65 @@
+T1	LIVB 28 35	patient
+T2	DISO 68 96	pneumo-métanéphrine syndrome
+T3	PROC 114 134	observation clinique
+T4	CHEM 155 169	neuroleptiques
+T5	DISO 213 234	détresse respiratoire
+T6	PHEN 222 234	respiratoire
+T7	DISO 247 268	troubles métaboliques
+T8	CHEM 432 450	méthylprédnisolone
+T9	DEVI 484 505	moteur pléoménétrique
+T10	PROC 527 557	contraception vasculo-nerveuse
+T11	ANAT 541 557	vasculo-nerveuse
+T12	MODE 560 594	voie d'abord veineuse périphérique
+T13	PROC 601 623	drainage préopératoire
+T14	PROC 636 671	entretien anesthésique locorégional
+T15	DISO 750 763	complications
+T16	LIVB 782 788	malade
+T17	PROC 832 858	explorations chirurgicales
+T18	DISO 954 987	méningoencephalopathie ischémique
+T19	DISO 1187 1196	symptômes
+T20	DISO 1227 1260	syndrome inflammatoire biologique
+T21	Localization 1395 1402	externe
+T22	ANAT 1484 1508	intrapéritonéal méningée
+T23	ANAT 1556 1590	liquidien périsurrénalien pariétal
+T24	PROC 2672 2708	ponction pleurésie pleuro-bronchique
+T25	ANAT 2681 2708	pleurésie pleuro-bronchique
+T26	LIVB 2728 2735	patient
+T27	PROC 2753 2779	traitement médical curatif
+T28	DISO 2786 2801	symptomatologie
+T29	CHEM 2811 2829	hydroxychloroquine
+T30	DOSE 2831 2837	200 mg
+T31	TEMP 2837 2839	/j
+T32	CHEM 2842 2860	méthylprédnisolone
+T33	DOSE 2862 2870	20 mg/kg
+T34	TEMP 2870 2872	/j
+T35	CHEM 2875 2885	furosémide
+T36	DOSE 2887 2893	400 mg
+T37	TEMP 2893 2895	/j
+T38	CHEM 2898 2909	Cyclosérine
+T39	DOSE 2911 2917	800 mg
+T40	TEMP 2917 2919	/j
+T41	CHEM 2922 2936	bupropionamide
+T42	DOSE 2938 2944	120 mg
+T43	TEMP 2944 2946	/j
+T44	CHEM 2949 2960	nicardipril
+T45	DOSE 2962 2967	75 mg
+T46	TEMP 2967 2969	/j
+T47	CHEM 2972 2983	propranolol
+T48	DOSE 2985 2990	50 mg
+T49	TEMP 2990 2992	/j
+T50	CHEM 2995 3009	hydrocortisone
+T51	DOSE 3011 3017	100 mg
+T52	TEMP 3017 3019	/j
+T53	CHEM 3022 3035	dexaméthasone
+T54	DOSE 3037 3042	15 mg
+T55	TEMP 3042 3044	/j
+T56	CHEM 3047 3060	noradrénaline
+T57	DOSE 3062 3070	30 µg/kg
+T58	TEMP 3070 3072	/j
+T59	CHEM 3075 3101	catécholamines vasoactives
+T60	CHEM 3103 3126	corticoïdes antalgiques
+T61	PROC 3134 3157	radiothérapie adjuvante
+T62	ANAT 3171 3181	sein droit
+T63	Localization 3176 3181	droit
+T64	Concept_Idea 3211 3217	taille
+T65	MEAS 3228 3232	6 cm

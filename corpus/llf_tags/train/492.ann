@@ -1,0 +1,58 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	9 ans
+T3	PROC 71 81	consultait
+T4	Hospital 85 123	Centre Hospitalier National Provincial
+T5	LIVB 127 130	son
+T6	LIVB 131 144	belle-famille
+T7	LIVB 283 290	dernier
+T8	PROC 295 301	référé
+T9	LIVB 311 313	il
+T10	DISO 338 361	accident de circulation
+T11	PROC 437 457	transfusion sanguine
+T12	PROC 469 482	thérapeutique
+T13	PROC 488 519	prise en charge préanesthésique
+T14	DISO 569 598	symptômes psychotraumatismaux
+T15	TEMP 729 744	24 octobre 2014
+T16	LIVB 746 754	Mlle F.D
+T17	TEMP 763 770	18 mois
+T18	MEAS 790 791	2
+T19	LIVB 792 799	garçons
+T20	TEMP 1027 1033	14 ans
+T21	LIVB 1035 1039	elle
+T22	PROC 1048 1089	confectionneuse orthopédique ambulancière
+T23	PROC 1127 1174	vendeuse puéricultrice obstétricienne familiale
+T24	PROC 1236 1255	réanimation motrice
+T25	PROC 1257 1278	psychomotraumatologie
+T26	PROC 1280 1309	orthogymnastique chirurgicale
+T27	PROC 1343 1366	kinésithérapie sexuelle
+T28	LIVB 1500 1504	elle
+T29	DEVI 1676 1706	ustensiles ménagers personnels
+T30	Concept_Idea 1777 1797	caractère hygiénique
+T31	PROC 1832 1865	traitement thérapeutique adjuvant
+T34	CHEM 2096 2118	Electroxyde de lithium
+T35	LIVB 2174 2182	patiente
+T36	DISO 2189 2201	hyperthermie
+T37	MEAS 2204 2221	40 degrés Celsius
+T38	DISO 2231 2248	taches salivaires
+T39	DISO 2264 2274	saignement
+T40	DISO 2281 2319	dysfonctionnements neuropsychiatriques
+T41	PROC 2363 2386	transfusions parentales
+T42	ANAT 2421 2427	utérus
+T43	Concept_Idea 2440 2446	taille
+T44	MEAS 2458 2472	17 centimètres
+T45	Localization 2501 2513	bord latéral
+T46	ANAT 2526 2533	annexes
+T47	MEAS 2558 2562	26cm
+T48	MEAS 2566 2571	32 cm
+T49	MEAS 2623 2637	superficielles
+T50	PROC 2691 2713	consultation prénatale
+T51	LIVB 2777 2784	enfants
+T52	TEMP 3234 3245	19 semaines
+T53	LIVB 3306 3308	sa
+T54	LIVB 3315 3320	fille
+T55	LIVB 3337 3340	son
+T57	PHEN 3423 3432	grossesse
+T58	TEMP 3445 3452	4 jours
+T59	PROC 3555 3578	accouché par voie basse
+T60	MEAS 3705 3712	simples
+T61	DEVI 3737 3764	prothèse laryngée aspiratif

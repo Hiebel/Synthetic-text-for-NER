@@ -1,0 +1,39 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 73	notables
+T4	DISO 93 132	tuméfaction du sinus mandibulaire droit
+T5	ANAT 108 132	sinus mandibulaire droit
+T6	Localization 127 132	droit
+T7	TEMP 142 155	depuis 2 mois
+T8	PROC 159 174	examen clinique
+T9	PROC 179 188	admission
+T10	LIVB 201 208	patient
+T11	MEAS 212 215	bon
+T12	Concept_Idea 216 228	état général
+T13	PHEN 230 253	réflexe ostéo-tendineux
+T14	ANAT 238 253	ostéo-tendineux
+T15	ANAT 276 285	artériels
+T16	PROC 307 323	bilan biologique
+T17	DISO 344 360	hyperleucocytose
+T18	MEAS 363 381	19000 éléments/mm3
+T19	PROC 401 421	protéines C-réactive
+T20	PROC 423 426	CRP
+T21	MEAS 430 439	1260 mg/l
+T22	PROC 445 460	glycémie à jeun
+T23	MEAS 469 479	2,1 mmol/l
+T24	PROC 484 517	taux séro-hormonothéronnorégululé
+T25	PROC 519 522	TSH
+T26	MEAS 541 559	10 fois la normale
+T27	CHEM 562 575	tétaméthasone
+T28	DOSE 578 588	0,05 ng/ml
+T29	CHEM 590 600	tamoxifène
+T30	DOSE 602 608	5mg/kg
+T31	PROC 615 638	radiographies standards
+T32	DISO 668 748	pseudo-lésion nodulaire tumorale angulo-circonférentielle hypodense hypoéchogène
+T33	MEAS 758 763	21 cm
+T34	MEAS 768 773	13 cm
+T35	ANAT 790 819	fosse parotide interne droite
+T36	Localization 813 819	droite
+T37	Concept_Idea 822 828	aspect
+T38	MEAS 829 837	homogène
+T39	DISO 858 869	infiltrante

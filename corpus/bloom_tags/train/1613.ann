@@ -1,0 +1,26 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 39 50	antécédents
+T3	MEAS 51 63	particuliers
+T4	PROC 65 70	admis
+T5	Hospital 74 81	urgence
+T6	DISO 91 102	tuméfaction
+T7	TEMP 112 125	depuis 1 mois
+T8	ANAT 139 154	sinus caverneux
+T9	MEAS 166 181	progressivement
+T10	Concept_Idea 185 191	volume
+T11	PROC 195 210	examen clinique
+T12	PROC 215 224	admission
+T13	LIVB 241 248	patient
+T14	Concept_Idea 273 291	plan hémodynamique
+T15	PHEN 301 322	contractions utérines
+T16	ANAT 314 322	utérines
+T17	MEAS 323 332	brunâtres
+T18	PROC 337 356	bilan préopératoire
+T19	PROC 393 430	tomodensitométrie abdomino- pelvienne
+T20	ANAT 411 430	abdomino- pelvienne
+T22	ANAT 508 532	glandes cervicovésicales
+T23	DOSE 565 570	20 ml
+T24	CHEM 574 588	protritonolone
+T25	MEAS 598 602	46mm
+T26	Concept_Idea 606 615	grand axe
+T27	ANAT 648 664	organes ovariaux

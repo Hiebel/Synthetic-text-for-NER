@@ -1,0 +1,43 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 41 50	nullipare
+T3	PHEN 65 74	grossesse
+T4	PROC 79 85	suivie
+T5	DISO 107 127	œdème du flanc droit
+T6	ANAT 116 127	flanc droit
+T7	Localization 122 127	droit
+T8	TEMP 137 150	depuis 4 mois
+T9	PROC 156 165	admission
+T10	Hospital 169 218	centre hospitalier universitaire Hassan II de Fès
+T11	Hospital 220 226	CHUEFS
+T12	DEVI 231 247	décubitus dorsal
+T13	PROC 256 275	bilan préopératoire
+T14	PROC 279 309	échographie abdomino-pelvienne
+T15	ANAT 291 309	abdomino-pelvienne
+T16	DISO 336 384	lésion hypodense hypo échogène tissulaire ulcéré
+T17	MEAS 394 402	15x12 mm
+T18	MEAS 411 423	environ 3 cm
+T19	DISO 429 476	envahissement ganglionnaire cervico- péritonéal
+T20	ANAT 443 476	ganglionnaire cervico- péritonéal
+T21	DISO 506 526	infiltrat nécrotique
+T22	ANAT 543 552	épiploons
+T23	ANAT 570 607	fosse hyo-thyro-cervicale postérieure
+T24	Localization 596 607	postérieure
+T25	MEAS 619 634	progressivement
+T26	Concept_Idea 638 644	taille
+T27	MEAS 654 672	hyper vascularisée
+T28	PROC 679 688	injection
+T29	DOSE 692 696	2 ml
+T30	CHEM 700 720	produit de contraste
+T31	PROC 748 797	anesthésie locorégionale intrarachidiencéphalique
+T32	Concept_Idea 847 857	caractères
+T33	DISO 864 927	tissu cicatriciel lésionnel hétérogène tumoral hypervascularisé
+T34	DISO 1000 1051	prostate hypertrophied prurigineux fistule kystique
+T35	ANAT 1080 1096	organes crâniens
+T36	PROC 1137 1169	tomodensitométrie transcrânianne
+T37	PROC 1175 1200	intervention chirurgicale
+T38	PROC 1205 1236	radiothérapie externe adjuvante
+T39	PROC 1249 1273	remplissage intraveineux
+T40	ANAT 1261 1273	intraveineux
+T41	LIVB 1308 1316	patiente
+T42	PROC 1337 1369	radio-chimiothérapie fractionnée
+T43	DOSE 1410 1414	45Gy

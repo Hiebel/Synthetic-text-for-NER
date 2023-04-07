@@ -1,0 +1,65 @@
+T1	LIVB 19 26	patient
+T2	DISO 47 70	antécédent pathologique
+T3	MEAS 71 82	particulier
+T4	PROC 105 117	consultation
+T5	DISO 122 150	tuméfaction du poignet droit
+T6	ANAT 137 150	poignet droit
+T7	Localization 145 150	droit
+T8	TEMP 160 178	depuis quatre mois
+T9	PROC 182 197	examen clinique
+T10	Concept_Idea 213 225	état général
+T11	MEAS 226 232	altéré
+T12	DISO 240 261	signes gynécologiques
+T13	PHEN 272 281	grossesse
+T14	PROC 286 292	suivie
+T15	PROC 298 305	curetée
+T16	PROC 312 321	admission
+T17	LIVB 325 333	patiente
+T18	Concept_Idea 354 372	plan hémodynamique
+T19	PROC 398 418	prise médicamenteuse
+T20	PROC 422 437	anticoagulation
+T21	PROC 451 466	antibiothérapie
+T22	Hospital 471 479	urgences
+T23	CHEM 484 515	amoxicilline-acide clavulanique
+T24	CHEM 518 541	triméthoprimesacrylique
+T25	DOSE 588 594	1mg/kg
+T26	TEMP 594 596	/j
+T27	Concept_Idea 607 638	recommandations internationales
+T28	PROC 643 664	bilan phosphocalcique
+T29	MEAS 676 682	normal
+T30	PROC 687 712	scanner thoraco-abdominal
+T31	ANAT 695 712	thoraco-abdominal
+T32	DISO 732 747	foyer lésionnel
+T33	DISO 765 786	dilatation anéchogène
+T34	DISO 796 819	localisation secondaire
+T35	PROC 824 843	sérologie hydatique
+T36	MEAS 850 858	négative
+T37	PROC 866 891	étude immunohistochimique
+T38	PROC 918 945	analyse cytobactériologique
+T39	PROC 964 982	étude histologique
+T40	PROC 1144 1165	recherche étiologique
+T41	PROC 1194 1219	investigation sérologique
+T42	PROC 1251 1274	traitement conservateur
+T43	CHEM 1276 1310	fluoroquinolone acide clavulanique
+T44	CHEM 1312 1332	tétracycline sodique
+T45	PROC 1334 1362	chimiothérapie néo adjuvante
+T46	PROC 1376 1391	radiodiagnostic
+T47	PROC 1407 1433	radiothérapie concomitante
+T48	PROC 1436 1476	rétroprostate déshydrogénase parentérale
+T49	PROC 1490 1514	laparotomie exploratrice
+T50	PROC 1585 1686	parathyroïdectomie totale élargie axillaire triploïde intracystèrinoïde intrasinusienne monoccipitale
+T51	MEAS 1733 1740	simples
+T52	TEMP 1750 1760	avril 2018
+T53	PROC 1775 1818	néphrectomie partielle postéro-extemporanée
+T54	PROC 1836 1860	transfusion chirurgicale
+T55	ANAT 1879 1900	pseudo-urètre laryngé
+T56	ANAT 1930 1979	muqueuse gastroduodénale thoracique superficielle
+T57	ANAT 2001 2049	veines tracheales crico-oesophagiennes centrales
+T58	PROC 2058 2067	limitrées
+T59	PROC 2081 2126	curage ganglionnaire cervico-thoracique total
+T60	PROC 2141 2235	angioplastie segmentaire endovaginale extemporanée scannoguidée échogène biprogressive in situ
+T61	PROC 2247 2289	complément thérapeutique substitutionnelle
+T62	PROC 2323 2359	contrôles radiothérapeutiques locaux
+T63	MEAS 2385 2402	peu satisfaisants
+T64	LIVB 2455 2462	malades
+T65	PROC 2508 2568	manœuvres chirurgicales diagnostiques préopératoires courtes

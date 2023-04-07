@@ -1,0 +1,23 @@
+T1	LIVB 0 8	patiente
+T2	DISO 30 53	antécédent pathologique
+T3	MEAS 54 61	notable
+T4	PROC 63 69	admise
+T5	Hospital 74 82	urgences
+T6	DISO 92 122	dyspnée sifflante des poignets
+T7	ANAT 114 122	poignets
+T8	TEMP 132 145	depuis 6 mois
+T9	PROC 149 164	examen clinique
+T10	DISO 195 241	tuméfaction du plexus phréno-sigmoïdien gauche
+T11	ANAT 210 241	plexus phréno-sigmoïdien gauche
+T12	Localization 235 241	gauche
+T13	MEAS 251 263	environ 4 cm
+T14	Concept_Idea 267 276	grand axe
+T15	PROC 281 298	bilan étiologique
+T16	PROC 316 345	échographie abdominopelvienne
+T17	ANAT 328 345	abdominopelvienne
+T18	DISO 375 413	syndrome d'épanchement intrapéritonéal
+T19	ANAT 398 413	intrapéritonéal
+T20	PROC 468 490	injection intrarectale
+T21	CHEM 493 505	hémodialyine
+T22	DOSE 507 512	10 ml
+T23	DEVI 533 548	doppler couleur

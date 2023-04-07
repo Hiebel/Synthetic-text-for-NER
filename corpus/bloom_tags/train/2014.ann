@@ -1,0 +1,26 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	9 ans
+T3	PROC 68 73	admis
+T4	Hospital 77 88	réanimation
+T5	DISO 98 119	détresse respiratoire
+T6	PHEN 107 119	respiratoire
+T7	TEMP 129 145	depuis 48 heures
+T8	DISO 161 181	vomissements bilieux
+T9	Concept_Idea 184 190	aspect
+T10	MEAS 195 206	particulier
+T11	PROC 210 225	examen clinique
+T12	LIVB 238 244	enfant
+T13	Concept_Idea 270 295	constantes hémodynamiques
+T14	ANAT 299 316	cardiovasculaires
+T15	DISO 334 373	douleur abdominale latérocervicale dure
+T16	ANAT 342 373	abdominale latérocervicale dure
+T17	Localization 369 373	dure
+T18	MEAS 388 399	progressive
+T19	DISO 415 425	saignement
+T20	LIVB 445 452	patient
+T21	PROC 456 508	échocardiographie transthoracique transoesophagienne
+T22	ANAT 474 508	transthoracique transoesophagienne
+T23	PROC 510 514	ETTO
+T24	DISO 547 618	lésion kystique tissulaire du parenchyme adipeux hépatique hypoechogène
+T26	MEAS 628 633	17 mm
+T27	Concept_Idea 637 646	grand axe

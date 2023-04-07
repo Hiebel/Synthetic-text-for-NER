@@ -1,0 +1,57 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	7 ans
+T3	LIVB 66 68	sa
+T4	LIVB 69 73	mère
+T5	LIVB 77 80	ses
+T6	LIVB 81 105	grands-parents maternels
+T7	PROC 174 195	contrôle locorégional
+T8	PROC 200 215	bilan lipidique
+T9	DISO 250 269	carence liquidienne
+T10	DEVI 289 316	peau bionique intraveineuse
+T11	MEAS 326 330	6 cm
+T12	MEAS 339 387	2 fois la circonférence corporelle humaine S1+S2
+T13	MEAS 410 417	2100 gr
+T14	MEAS 421 627	1650 gr ¥). La TDM thoraco-abdominal mettait également en évidence une formation anéchogène hétérogène tissulaire polyproténéïque infiltrant certaines muqueuses digestives se rehaussant ensuite jusqu’à 3 cm
+T15	PROC 436 457	TDM thoraco-abdominal
+T16	ANAT 440 457	thoraco-abdominal
+T17	DISO 492 592	formation anéchogène hétérogène tissulaire polyproténéïque infiltrant certaines muqueuses digestives
+T18	ANAT 572 592	muqueuses digestives
+T19	ANAT 664 680	paroi thoracique
+T20	MEAS 703 716	environ 10 cm
+T21	MEAS 790 815	macroscopiquement stables
+T22	PROC 821 860	scintigraphie nasopharyngo-laryngetique
+T23	ANAT 835 860	nasopharyngo-laryngetique
+T24	PROC 883 898	acte opératoire
+T26	Localization 1090 1099	au milieu
+T33	Concept_Idea 1464 1476	plan profond
+T34	MEAS 1477 1488	bien limité
+T35	ANAT 1504 1532	nerf laryngé supérieur droit
+T36	Localization 1527 1532	droit
+T39	Localization 1642 1646	sous
+T43	DISO 1875 1899	trouble sensitivo-moteur
+T44	DISO 1903 1929	signes neuropsychiatriques
+T45	PHEN 1944 1962	suites opératoires
+T46	TEMP 1971 1981	immédiates
+T47	MEAS 1982 1989	simples
+T48	LIVB 2011 2019	patients
+T49	PROC 2037 2076	suivi postopératoire multidisciplinaire
+T50	CHEM 2078 2088	antalgique
+T51	CHEM 2090 2102	antiseptique
+T53	CHEM 2138 2153	fluoroquinolone
+T54	CHEM 2156 2187	amoxicilline acide clavulanique
+T55	CHEM 2190 2214	acide acétyle glutamique
+T56	CHEM 2217 2231	gentaméthasone
+T57	CHEM 2233 2267	vincristine diphénylméthyldisilane
+T58	CHEM 2270 2284	céphalosporine
+T59	PROC 2321 2333	surveillance
+T60	TEMP 2459 2466	24 mois
+T61	PROC 2518 2537	traité médicalement
+T62	LIVB 2564 2569	homme
+T63	PROC 2634 2645	hospitalisé
+T64	Concept_Idea 2667 2679	état général
+T65	LIVB 2725 2728	son
+T66	LIVB 2729 2734	femme
+T67	DISO 2767 2800	accident vasculaire cérébral aigu
+T68	LIVB 2819 2821	le
+T69	LIVB 2822 2828	garçon
+T70	DISO 2839 2873	hallucinations psychotiques aiguës

@@ -1,0 +1,46 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	2 ans
+T3	DISO 53 81	syndrome d’épilepsie fébrile
+T4	TEMP 91 104	depuis 2 mois
+T5	PROC 141 159	traitement médical
+T6	CHEM 173 186	carbamazipine
+T7	CHEM 188 199	rifampicine
+T8	CHEM 201 213	pyrazinamide
+T9	CHEM 215 226	éthionamide
+T10	CHEM 228 239	doxycycline
+T11	CHEM 241 255	ciprofloxacine
+T12	CHEM 257 268	Ethionamide
+T13	CHEM 270 281	Cyclosérine
+T14	CHEM 283 294	Ceftriaxone
+T15	CHEM 296 308	Methotrexate
+T16	CHEM 310 323	Triméthoprime
+T17	CHEM 325 339	Gentaméthasone
+T18	CHEM 341 352	Vinblastine
+T19	CHEM 354 366	Pyrazinamide
+T20	PROC 373 397	explorations biologiques
+T21	PHEN 413 431	fonction hépatique
+T22	ANAT 422 431	hépatique
+T23	MEAS 432 441	conservée
+T24	DISO 457 473	hyperleucocytose
+T25	PROC 487 516	protéines C réactive sériques
+T26	MEAS 544 553	12000/mm3
+T27	MEAS 557 568	10 000 /mm3
+T28	PROC 581 601	taux de prothrombine
+T29	MEAS 611 614	80%
+T30	PROC 625 648	remplissage artériatile
+T31	ANAT 637 648	artériatile
+T32	DEVI 663 685	sonde transpleuratoire
+T33	MEAS 818 836	20 fois la normale
+T34	PROC 840 870	échographie abdomino-pelvienne
+T35	ANAT 852 870	abdomino-pelvienne
+T36	DISO 884 916	adénopathie fosse iliaque droite
+T37	ANAT 896 916	fosse iliaque droite
+T38	Localization 910 916	droite
+T39	Concept_Idea 929 935	taille
+T40	MEAS 947 962	progressivement
+T41	Concept_Idea 966 972	volume
+T42	TEMP 981 994	il y a 6 mois
+T43	MEAS 1008 1024	plus volumineuse
+T44	MEAS 1033 1045	environ 15cm
+T45	Concept_Idea 1049 1058	grand axe
+T46	ANAT 1081 1120	muscle ischio-jugulaire supérieur droit

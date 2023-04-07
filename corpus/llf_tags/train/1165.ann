@@ -1,0 +1,73 @@
+T1	LIVB 15 22	patient
+T2	DISO 66 84	crises convulsives
+T3	TEMP 85 98	il y a 15 ans
+T4	DISO 106 133	dyspnée sifflante chronique
+T5	PROC 137 152	examen clinique
+T6	LIVB 163 173	nourrisson
+T7	MEAS 177 184	mauvais
+T8	Concept_Idea 185 197	état général
+T9	PROC 207 238	examen oto-rhino laryngologique
+T10	DISO 257 305	sensibilité bronchique du membre supérieur droit
+T11	ANAT 269 279	bronchique
+T12	ANAT 283 305	membre supérieur droit
+T13	Localization 300 305	droit
+T14	TEMP 315 328	depuis 6 mois
+T15	DISO 344 348	toux
+T16	DISO 358 363	signe
+T17	PROC 387 412	examen neuropsychiatrique
+T18	DISO 422 435	particularité
+T19	DISO 453 459	fièvre
+T20	DISO 470 494	symptômes psychomotrices
+T21	PROC 500 524	laparotomie exploratrice
+T22	TEMP 544 554	10/03/2013
+T23	PROC 645 654	opération
+T24	PHEN 659 668	grossesse
+T25	PROC 694 728	circulation extracorporelle totale
+T26	DEVI 756 782	fente cervicale antérieure
+T27	Hospital 811 826	bloc opératoire
+T28	PROC 845 872	explorations gynécologiques
+T29	PROC 886 909	contrôles obstétricales
+T30	MEAS 990 997	simples
+T31	DISO 1006 1026	récidive infectieuse
+T32	PROC 1054 1076	examens préopératoires
+T33	PROC 1081 1116	scanner thoraco- abdomino-abdominal
+T34	ANAT 1089 1116	thoraco- abdomino-abdominal
+T35	DISO 1141 1205	masse tissulaire liquidienne anévrysmale hypoéchogène hétérogène
+T36	MEAS 1215 1220	13 cm
+T37	Concept_Idea 1224 1233	grand axe
+T38	MEAS 1242 1246	7 cm
+T39	Concept_Idea 1250 1259	petit axe
+T40	ANAT 1278 1303	queue fessière antérieure
+T41	Localization 1293 1303	antérieure
+T42	ANAT 1319 1353	surface postéro-inférieure utérine
+T43	ANAT 1372 1409	compartiment inferieur latéral gauche
+T44	Localization 1395 1409	latéral gauche
+T45	ANAT 1425 1472	angle crico-rectal sigmoïdien inférieur gauches
+T46	Localization 1465 1472	gauches
+T47	Concept_Idea 1485 1504	aspect histologique
+T48	PROC 1532 1572	néphrectomie élargie axilectomie urgente
+T49	ANAT 1594 1628	tubercules péritendineuses antraux
+T50	Concept_Idea 1662 1690	caractéristiques anatomiques
+T51	PROC 1704 1729	étude cytobactériologique
+T52	DISO 1748 1764	germe infectieux
+T53	CHEM 1785 1793	Glivec ®
+T54	DOSE 1922 1930	4x500 mg
+T55	MODE 1971 1989	méthode percutanés
+T56	PROC 2025 2050	recherche bactériologique
+T57	LIVB 2752 2760	patiente
+T58	DISO 2782 2805	antécédent pathologique
+T59	MEAS 2806 2817	particulier
+T60	DISO 2837 2870	crises convulsives psychomotrices
+T61	Concept_Idea 2880 2883	âge
+T62	PHEN 3302 3320	mariage consanguin
+T63	Concept_Idea 3419 3432	état générale
+T64	MEAS 3521 3534	satisfaisante
+T65	Localization 3787 3800	2/3 supérieur
+T66	PROC 3843 3868	scanner thoraco-abdominal
+T67	ANAT 3851 3868	thoraco-abdominal
+T68	LIVB 3891 3898	malades
+T71	Localization 4134 4266	inférieures gauches mandibulaires centrales jugulo-mandibulaires costales supérieures tricipitales transversal supéro latéral gauche
+T72	Localization 4233 4244	transversal
+T73	MEAS 4351 4356	40 mm
+T74	MEAS 4360 4365	50 mm
+T76	DEVI 4559 4578	tableau chirurgical

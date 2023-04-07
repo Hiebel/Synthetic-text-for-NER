@@ -1,0 +1,49 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	10 ans
+T3	DISO 59 80	syndrome neurologique
+T4	DISO 86 113	atteintes sensitivomotrices
+T5	DISO 178 201	néphropathie diabétique
+T6	TEMP 211 224	depuis 3 mois
+T7	PROC 230 248	traitement curatif
+T8	DISO 265 294	symptômes neuropsychiatriques
+T9	LIVB 314 324	nourrisson
+T10	DEVI 333 367	dispositifs auditifs périphériques
+T11	PROC 419 434	hospitalisation
+T12	DISO 505 532	hyperparathyroïdie primaire
+T13	DISO 1043 1057	cas similaires
+T14	LIVB 1066 1073	famille
+T15	DISO 1099 1124	troubles sensitivo-moteur
+T16	MEAS 1201 1210	spontanée
+T17	DISO 1226 1272	perceptions visuelles prurigineuses purulantes
+T18	TEMP 1296 1300	1 an
+T19	MODE 1381 1386	bolus
+T20	CHEM 1390 1404	ciprofloxacine
+T21	CHEM 1429 1465	amoxicilline-acide acétylsalicylique
+T22	ANAT 1594 1612	membres inférieurs
+T23	DISO 1837 1860	hypotensions axillaires
+T24	ANAT 1850 1860	axillaires
+T25	DISO 1877 1914	bradycardies palpitantes hypertensive
+T26	MEAS 1926 1945	de façonprogressive
+T27	DISO 2050 2079	hémiplégie flasque symétrique
+T28	DISO 2105 2126	kyste trophoblastique
+T29	DISO 2240 2262	micro-nodules tumoraux
+T30	ANAT 2286 2313	parties molles intestinales
+T31	PROC 2396 2413	ponction lombaire
+T32	ANAT 2405 2413	lombaire
+T33	DEVI 2438 2451	poche plâtrée
+T34	PROC 2465 2480	bilan somatique
+T35	DISO 2492 2505	particularité
+T36	DISO 2522 2549	hyperparathyroïdie primaire
+T37	PROC 2555 2585	échographie abdomino-pelvienne
+T38	ANAT 2567 2585	abdomino-pelvienne
+T39	Concept_Idea 2599 2605	taille
+T40	MEAS 2616 2630	12 centimètres
+T41	DISO 2665 2697	méningo-vascularisation kystique
+T42	DISO 2706 2742	endométrial polymyomateux hypovolulé
+T43	PROC 2758 2782	examen histopathologique
+T44	PROC 2784 2809	étude immunohistochimique
+T45	PROC 2811 2819	marquage
+T46	PROC 2823 2850	récepteurs progestéroniques
+T47	PROC 2891 2929	scintigraphie osseuse intrarachidienne
+T48	ANAT 2905 2929	osseuse intrarachidienne
+T49	DISO 2954 2979	localisations secondaires

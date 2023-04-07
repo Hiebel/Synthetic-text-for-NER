@@ -1,0 +1,13 @@
+T1	PROC 4 21	tomodensitométrie
+T2	DISO 38 79	distension des cavités pyélo-péritonéales
+T3	ANAT 53 79	cavités pyélo-péritonéales
+T4	MEAS 82 95	environ 40 mm
+T5	Concept_Idea 99 107	diamètre
+T6	LIVB 112 119	patient
+T7	PROC 142 166	laparotomie exploratrice
+T8	DEVI 191 210	bistouri électrique
+T9	Localization 218 232	partie distale
+T10	ANAT 236 261	tronc crico-trachéo-iléal
+T11	DISO 288 296	récidive
+T12	DISO 300 309	métastase
+T13	TEMP 328 334	6 mois

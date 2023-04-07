@@ -1,0 +1,26 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	9 ans
+T3	Concept_Idea 41 52	antécédents
+T4	MEAS 53 61	notables
+T5	PROC 63 68	admis
+T6	Hospital 73 81	urgences
+T7	DISO 90 106	syndrome fébrile
+T8	DISO 114 144	douleurs épigastriques aiguées
+T9	ANAT 123 136	épigastriques
+T10	DISO 161 181	vomissements bilieux
+T11	PROC 187 217	échographie abdomino-pelvienne
+T12	ANAT 199 217	abdomino-pelvienne
+T13	DISO 263 294	masse latéro-utérine bilatérale
+T14	Localization 284 294	bilatérale
+T15	MEAS 303 308	15 cm
+T16	MEAS 313 318	10 cm
+T17	CHEM 346 366	produit de contraste
+T18	MEAS 394 397	1cm
+T19	ANAT 411 421	col utérin
+T20	PROC 426 454	ponction pleurale aspiration
+T21	ANAT 435 454	pleurale aspiration
+T22	PROC 456 459	PPA
+T23	PROC 481 505	anesthésie locorégionale
+T24	ANAT 492 505	locorégionale
+T25	PROC 537 573	surrénalectomie totale transfixiante
+T26	PHEN 583 606	alimentation péridurale

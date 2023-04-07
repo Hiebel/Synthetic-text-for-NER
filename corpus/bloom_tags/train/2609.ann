@@ -1,0 +1,32 @@
+T1	LIVB 28 35	patient
+T2	DISO 70 95	tuberculose du sein droit
+T3	ANAT 85 95	sein droit
+T4	Localization 90 95	droit
+T5	PROC 99 125	examen anatomopathologique
+T6	PROC 129 149	immuno histochimique
+T7	PROC 151 155	ANCA
+T8	PROC 158 165	culture
+T9	PROC 167 179	recherche BK
+T10	MEAS 197 205	négatifs
+T11	PROC 210 245	intradermoréaction à la tuberculine
+T12	CHEM 234 245	tuberculine
+T13	MEAS 252 269	fortement positif
+T14	MEAS 272 277	1mg/l
+T15	PROC 284 298	administration
+T17	CHEM 327 341	Ciprofloxacine
+T18	CHEM 354 367	bêtaméthasone
+T19	CHEM 373 384	albendazole
+T20	PROC 405 433	investigations radiologiques
+T21	LIVB 475 481	malade
+T22	ANAT 737 755	abdomino-pelvienne
+T23	ANAT 838 846	grêlique
+T24	DISO 886 899	thrombomateux
+T25	DISO 962 1004	pathologie thrombo-embolique érythémateuse
+T26	DISO 1022 1047	cytomégalonévrose maligne
+T27	DISO 1065 1092	syndrome d’hyperprotéinémie
+T28	TEMP 1169 1191	depuis plusieurs jours
+T29	Hospital 1312 1321	CHU Ténon
+T30	PROC 1328 1349	échographie pelvienne
+T31	ANAT 1340 1349	pelvienne
+T33	MEAS 1447 1452	22 mm
+T34	Concept_Idea 1456 1465	grand axe

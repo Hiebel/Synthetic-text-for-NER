@@ -1,0 +1,40 @@
+T1	LIVB 28 35	patient
+T2	DISO 67 85	troubles cognitifs
+T3	DISO 92 139	syndrome d'ischémie temporo-pariéto-occipitales
+T4	ANAT 112 139	temporo-pariéto-occipitales
+T5	PROC 143 168	examen neuropsychiatraire
+T6	PROC 181 215	échographie cardio-vasculo-cutanée
+T7	ANAT 193 215	cardio-vasculo-cutanée
+T8	DISO 229 242	particularité
+T9	PROC 247 265	scanner thoracique
+T10	ANAT 255 265	thoracique
+T14	Concept_Idea 434 459	marqueurs angiographiques
+T15	DISO 485 507	pathologies organiques
+T16	DISO 518 539	carcinome vésiculaire
+T17	ANAT 528 539	vésiculaire
+T18	DISO 549 584	vascularite érythémateuse purulante
+T19	DISO 645 675	désorientation temporospatiale
+T20	TEMP 685 701	depuis 48 heures
+T21	MEAS 716 722	brutal
+T22	DEVI 755 769	masque plâtrée
+T23	DISO 788 813	complication hémorragique
+T24	DISO 833 848	symptomatologie
+T25	PROC 854 894	traitement antibiocorticoïde substitutif
+T26	CHEM 900 911	Cyclosérine
+T27	CHEM 913 924	Ceftriaxone
+T28	CHEM 926 937	Vinblastine
+T29	CHEM 939 952	Phénobarbital
+T30	CHEM 955 963	Clobazam
+T31	CHEM 965 978	Métronidazole
+T32	CHEM 980 992	Pyrazinamide
+T33	CHEM 994 1005	Ethionamide
+T34	CHEM 1007 1013	Vit B6
+T35	PROC 1018 1052	imagerie par résonnance magnétique
+T36	PROC 1054 1057	IRM
+T37	ANAT 1059 1072	liquotidienne
+T38	DISO 1089 1108	hypersignal intense
+T39	ANAT 1140 1186	plexus herniaires iléo-iléo-colique péritonéal
+T40	ANAT 1207 1220	méso grêlique
+T41	ANAT 1228 1259	épanchement liquidien gastrique
+T42	MEAS 1269 1274	18 cm
+T43	Concept_Idea 1278 1287	grand axe

@@ -1,0 +1,107 @@
+T1	PROC 2 25	examen pleuropulmonaire
+T2	ANAT 9 25	pleuropulmonaire
+T3	DISO 39 50	tachycardie
+T4	MEAS 53 67	100 battements
+T5	TEMP 68 78	par minute
+T6	Concept_Idea 85 90	poids
+T7	MEAS 94 99	40 kg
+T8	PROC 115 131	examen somatique
+T9	DISO 143 156	particularité
+T10	PROC 161 188	radiographie du thoraciques
+T11	ANAT 177 188	thoraciques
+T12	DISO 219 248	opacité basithoracique droite
+T13	ANAT 227 248	basithoracique droite
+T14	Localization 242 248	droite
+T15	DISO 308 330	épanchement péritonéal
+T16	ANAT 320 330	péritonéal
+T17	ANAT 346 378	sinus ptérygo-mandibulaire droit
+T18	Localization 373 378	droit
+T19	LIVB 380 385	Notre
+T20	LIVB 386 393	patient
+T21	PROC 415 445	cysto-scanner abdomino-pelvien
+T22	ANAT 429 445	abdomino-pelvien
+T23	DISO 478 487	anomalies
+T24	PHEN 499 520	contractions utérines
+T25	ANAT 512 520	utérines
+T26	PROC 526 543	biologie sanguine
+T27	PROC 557 573	hyperleucocytose
+T28	MEAS 576 586	12 000/mm3
+T29	PROC 588 615	numération formule sanguine
+T30	PROC 617 632	globules blancs
+T31	MEAS 635 648	18000 par mm3
+T32	PROC 650 669	hémoglobine glyquée
+T33	MEAS 672 674	7%
+T34	PROC 676 696	taux de prothrombine
+T35	MEAS 698 701	90%
+T36	PROC 704 723	protéine C réactive
+T37	PROC 724 727	CRP
+T38	MEAS 729 734	élevé
+T39	MEAS 737 744	70 mg/l
+T40	PROC 751 774	sérologies virales BHCG
+T41	MEAS 783 793	négativées
+T42	PROC 808 833	bilan phospho-catabolique
+T43	Hospital 846 854	urgences
+T44	PROC 861 881	reprise chirurgicale
+T45	DISO 917 941	maladie thromboembolique
+T46	DISO 961 984	symptômes neurologiques
+T47	DISO 988 1009	vasculo-interstitiels
+T48	ANAT 1030 1042	surrénaliens
+T49	MEAS 1074 1081	simples
+T50	DISO 1098 1106	récidive
+T51	PROC 1131 1170	chimiothérapie antibacillaire adjuvante
+T52	CHEM 1181 1184	Rif
+T53	CHEM 1187 1198	Ceftriaxone
+T54	CHEM 1223 1252	rifampoxic-acide pyrazinamide
+T55	CHEM 1255 1268	éthaméthasone
+T56	DISO 1334 1343	métastase
+T57	MEAS 1400 1412	lentigineuse
+T58	TEMP 1422 1435	depuis 3 mois
+T59	PROC 1465 1498	radiothérapie palliative curative
+T60	ANAT 1520 1527	pelvien
+T61	MEAS 1573 1577	2 cm
+T62	Concept_Idea 1581 1590	grand axe
+T63	MEAS 1599 1605	T3N0M0
+T64	DEVI 1615 1650	classification MIBI SHEROLLAUD-MOIR
+T65	PROC 1724 1735	extirpation
+T66	PROC 1768 1788	ponction liquidienne
+T67	ANAT 1777 1788	liquidienne
+T68	MEAS 1813 1833	profondément altérée
+T69	MEAS 1975 1989	plus accentuée
+T70	LIVB 2146 2152	enfant
+T71	DISO 2162 2197	crises convulsifs tonico-dépressifs
+T72	DISO 2311 2331	syndrome d'épilepsie
+T73	DISO 2373 2395	troubles hémorragiques
+T74	DISO 2422 2449	bradycardie hypertrophiante
+T75	DISO 2523 2541	traumatisme facial
+T76	ANAT 2535 2541	facial
+T77	TEMP 2587 2593	17 ans
+T78	PROC 2815 2830	examen clinique
+T79	LIVB 2843 2850	patient
+T80	MEAS 2854 2857	bon
+T81	Concept_Idea 2858 2870	état général
+T82	DISO 2877 2904	dépression cutanéo-muqueuse
+T83	ANAT 2888 2904	cutanéo-muqueuse
+T84	DISO 2910 2962	adénopathies hilaires basithoraciques hypogastriques
+T85	ANAT 2923 2962	hilaires basithoraciques hypogastriques
+T86	PROC 2976 3000	examen pleuro-pulmonaire
+T87	ANAT 2983 3000	pleuro-pulmonaire
+T88	DISO 3017 3046	dyspnée stade IV de Balthazar
+T89	MEAS 3061 3072	progressive
+T90	PHEN 3082 3109	réflexes ostéo-articulaires
+T91	ANAT 3091 3109	ostéo-articulaires
+T92	ANAT 3130 3152	tronc pulmonaire droit
+T93	Localization 3147 3152	droit
+T94	DISO 3234 3252	empyème pulmonaire
+T95	ANAT 3242 3252	pulmonaire
+T96	ANAT 3280 3306	sinus latéro-latéral droit
+T97	Localization 3301 3306	droit
+T98	DISO 3322 3381	épanchement intrapleurique liquidien médiastin hypoéchogène
+T100	CHEM 3383 3387	PMLH
+T101	PROC 3394 3430	tomodensitométrie abdomino-pelvienne
+T102	ANAT 3412 3430	abdomino-pelvienne
+T103	PROC 3451 3475	anesthésie locorégionale
+T104	ANAT 3462 3475	locorégionale
+T105	PROC 3482 3505	monitorage ventilatoire
+T106	PROC 3507 3527	transfusion sanguine
+T107	PROC 3540 3565	scanner thoraco-abdominal
+T108	ANAT 3548 3565	thoraco-abdominal

@@ -1,0 +1,35 @@
+T1	PROC 3 13	sérologies
+T2	DISO 18 27	symptômes
+T3	DISO 33 43	hépatite A
+T4	PROC 66 69	CRP
+T5	MEAS 72 79	15 mg/l
+T6	DISO 87 90	VIH
+T7	MEAS 99 108	négatives
+T8	PROC 113 127	TDM thoracique
+T9	ANAT 117 127	thoracique
+T10	DISO 157 201	processus lésionnel érythémateux sous cutané
+T11	Localization 190 194	sous
+T12	ANAT 218 234	plan sous-cutané
+T13	MEAS 243 247	6 cm
+T14	Concept_Idea 251 260	grand axe
+T15	ANAT 281 298	cavité abdominale
+T16	MEAS 308 312	5 cm
+T17	Concept_Idea 316 325	petit axe
+T18	DISO 335 364	masse tissulaire hypokystique
+T19	ANAT 385 403	anses intestinales
+T20	ANAT 426 438	pli inguinal
+T21	PROC 443 462	bilan immunologique
+T22	PROC 485 516	scanner thoraco-abdominopelvien
+T23	ANAT 493 516	thoraco-abdominopelvien
+T24	MEAS 589 595	normal
+T25	PROC 601 629	antibiothérapie probabiliste
+T26	CHEM 661 692	amoxicilline acide clavulanique
+T27	DISO 709 725	signes cliniques
+T28	PROC 739 767	chimiothérapie néo adjuvante
+T29	CHEM 773 782	néomycine
+T30	CHEM 785 803	acide zolédronique
+T31	CHEM 805 818	gentamivudine
+T32	CHEM 821 834	métronidazole
+T33	PROC 848 882	transfusion sanguine intraveineuse
+T34	PROC 946 955	admission
+T35	MEAS 997 1007	favorables

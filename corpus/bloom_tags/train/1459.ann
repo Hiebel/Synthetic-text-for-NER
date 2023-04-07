@@ -1,0 +1,27 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	PROC 37 41	reçu
+T4	Hospital 46 54	urgences
+T5	DISO 64 82	douleur thoracique
+T6	ANAT 72 82	thoracique
+T7	TEMP 112 126	depuis 3 jours
+T8	PROC 130 145	examen clinique
+T9	LIVB 158 164	enfant
+T10	MEAS 168 171	bon
+T11	PHEN 172 198	développement psychomoteur
+T12	PROC 214 230	examen somatique
+T13	DISO 242 255	particularité
+T15	PROC 279 295	TDM) thoraciques
+T16	ANAT 284 295	thoraciques
+T17	DISO 327 373	masse latéro-latérale du lobe supérieur gauche
+T18	ANAT 352 373	lobe supérieur gauche
+T19	Localization 367 373	gauche
+T20	MEAS 383 388	12 cm
+T21	Concept_Idea 392 401	grand axe
+T22	ANAT 418 467	région parenchymateuse ptérygo-condylienne droite
+T23	Localization 461 467	droite
+T24	DISO 488 548	adénopathies médiastinales cervico-sous-thoraciques centraux
+T26	Localization 540 548	centraux
+T27	DISO 569 610	lésions hypodenses hétérogènes nodulaires
+T28	DISO 620 628	kystique
+T29	CHEM 648 668	produit de contraste

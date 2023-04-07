@@ -1,0 +1,13 @@
+T1	LIVB 3 11	patiente
+T2	PROC 29 39	traitement
+T3	CHEM 53 64	rifampicine
+T4	CHEM 68 80	indométacine
+T5	CHEM 87 99	chlorambutol
+T6	DOSE 112 115	3mg
+T7	TEMP 116 124	par
+T8	TEMP 116 146	par
+T9	TEMP 125 146	pendant
+T10	MEAS 156 161	bonne
+T11	Concept_Idea 162 178	réponse
+T12	MEAS 198 207	favorable
+T13	TEMP 208 229	au

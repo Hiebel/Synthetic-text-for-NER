@@ -1,0 +1,24 @@
+T1	LIVB 3 13	nourrisson
+T2	TEMP 21 27	5 mois
+T3	PROC 41 53	consultation
+T4	DISO 62 88	syndrome interstitiel aigu
+T5	Concept_Idea 133 145	état général
+T6	DISO 155 189	douleurs du membre supérieur droit
+T7	ANAT 167 189	membre supérieur droit
+T8	Localization 184 189	droit
+T9	DISO 206 230	symptomatologie clinique
+T10	TEMP 243 249	1 mois
+T11	DISO 258 264	fièvre
+T12	DISO 277 283	signes
+T13	LIVB 348 354	enfant
+T14	PROC 418 447	cholécystectomie exploratrice
+T15	LIVB 472 478	enfant
+T16	PROC 484 503	anesthésie générale
+T17	PROC 517 559	transfusion intraveineuse intrarachidienne
+T18	PROC 561 564	CEI
+T19	MEAS 586 593	simples
+T20	DISO 633 667	symptomatologie clinico-biologique
+T21	PHEN 687 696	grossesse
+T22	MEAS 702 706	N° 2
+T23	LIVB 726 733	patient
+T24	LIVB 836 845	cuisinier

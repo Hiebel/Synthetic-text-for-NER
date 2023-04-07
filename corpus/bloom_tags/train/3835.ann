@@ -1,0 +1,72 @@
+T1	PROC 2 25	examen pleuropulmonaire
+T2	ANAT 9 25	pleuropulmonaire
+T3	DISO 37 48	tachycardie
+T4	MEAS 51 63	120 batt/min
+T5	Concept_Idea 70 75	poids
+T6	MEAS 79 84	65 kg
+T7	LIVB 86 88	Il
+T8	DISO 104 125	détresse respiratoire
+T9	PHEN 113 125	respiratoire
+T10	DISO 129 143	amaigrissement
+T11	MEAS 154 159	12 kg
+T12	DISO 176 208	syndrome d'épanchement pleurique
+T13	ANAT 199 208	pleurique
+T14	DISO 217 223	fièvre
+T15	PROC 241 268	scanner cervico-thoraciques
+T16	ANAT 249 268	cervico-thoraciques
+T17	DISO 295 386	empyème surrénalienne du parenchyme épithélio-gigantocellulaire latéro-ventriculaire gauche
+T19	ANAT 320 386	parenchyme épithélio-gigantocellulaire latéro-ventriculaire gauche
+T20	Localization 380 386	gauche
+T21	PROC 391 408	bilan immunitaire
+T22	MEAS 415 422	négatif
+T23	PROC 435 453	ionogramme sanguin
+T24	ANAT 446 453	sanguin
+T25	DISO 485 494	anomalies
+T26	DISO 512 545	syndrome inflammatoire biologique
+T27	DISO 556 582	malformations congénitales
+T28	TEMP 598 619	deux dernières années
+T29	PROC 647 662	examen clinique
+T30	DISO 685 710	localisations nécrasiques
+T31	DISO 720 746	particularité hémorragique
+T32	ANAT 756 781	organes génitaux externes
+T33	ANAT 783 807	épiploons recto-vaginaux
+T34	DISO 830 873	troubles métaboliques hydro-électrolytiques
+T35	DISO 890 920	polynucléaires érythrocytaires
+T36	DISO 926 956	hyperleucocytose normo-normale
+T37	MEAS 967 986	20 000 éléments/mm3
+T38	DISO 1011 1033	sécrétions purpuriques
+T39	TEMP 1069 1082	depuis 2 mois
+T40	CHEM 1088 1106	antiinflammatoires
+T41	CHEM 1112 1125	méxaméthasone
+T42	DOSE 1132 1134	/j
+T43	CHEM 1137 1149	prednisolone
+T44	DOSE 1150 1159	0,5 mg/m²
+T46	DISO 1247 1273	défense abdomino-périnéale
+T47	ANAT 1255 1273	abdomino-périnéale
+T48	LIVB 1358 1366	patiente
+T49	Hospital 1378 1400	admission chirurgicale
+T50	Hospital 1405 1445	Cliniques Universitaires de Befelatanana
+T51	DISO 1468 1485	Pneumonie maligne
+T52	PROC 1626 1651	chimiothérapie palliative
+T53	CHEM 1664 1675	Cyclosérine
+T54	CHEM 1678 1694	Chlorpromidazole
+T55	PROC 1698 1742	tomodensitométrie thoraco-abdomino-pelvienne
+T56	ANAT 1716 1742	thoraco-abdomino-pelvienne
+T57	DISO 1768 1805	lésion tissulaire nodulaire hypodense
+T58	MEAS 1815 1819	6 cm
+T59	Concept_Idea 1823 1832	grand axe
+T60	ANAT 1853 1882	quadrant supéro-latéral droit
+T61	Localization 1877 1882	droit
+T62	DISO 1907 1963	métastases pulmonaires cerviculo-carotidiennes tumorales
+T63	ANAT 1918 1963	pulmonaires cerviculo-carotidiennes tumorales
+T64	ANAT 1985 2011	structures basithoraciques
+T65	DISO 2034 2046	sarcomateuse
+T66	DISO 2111 2146	médiastinomyomateuse carcinomateuse
+T67	DISO 2162 2181	symptômes cliniques
+T68	DISO 2243 2278	récidive locorégionale métastatique
+T69	DISO 2312 2320	kystique
+T70	DISO 2331 2368	granulome ostéo-interstitiel kystique
+T71	DISO 2392 2427	œdème lésionnel prurigineux fébrile
+T72	DISO 2450 2466	lésions cutanées
+T73	DISO 2509 2524	neuro-endocrine
+T74	PROC 2528 2553	étude anatomopathologique

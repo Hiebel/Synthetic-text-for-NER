@@ -1,0 +1,32 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	Concept_Idea 36 42	pesant
+T4	MEAS 43 48	50 kg
+T5	Concept_Idea 57 63	taille
+T6	MEAS 67 73	170 cm
+T7	DISO 89 102	consanguinité
+T8	PROC 106 121	examen clinique
+T9	DISO 142 228	hypertrophie du fléchisseur adducteur brachial palmaire cutanéo-tendineux des 2 pouces
+T11	Concept_Idea 231 237	aspect
+T12	Concept_Idea 244 249	forme
+T13	MEAS 250 257	normaux
+T14	PROC 263 272	admission
+T15	Hospital 277 298	urgences pédiatriques
+T16	DISO 331 354	symptomatologie fébrile
+T17	DISO 370 387	dyspnée sifflante
+T18	Concept_Idea 432 444	état général
+T19	PROC 464 482	traitement curatif
+T20	PHEN 616 629	accouchements
+T21	LIVB 657 665	patiente
+T22	CHEM 795 813	méthylprednisolone
+T23	DISO 852 896	syndrome d'épanchement liquidien lithiasique
+T24	ANAT 875 896	liquidien lithiasique
+T25	DEVI 922 941	bolus d'hémodialyse
+T26	LIVB 951 955	elle
+T27	TEMP 1115 1121	2 mois
+T28	ANAT 1179 1205	péricardique latéro-utérin
+T29	MEAS 1259 1267	5 litres
+T30	PROC 1290 1324	transfusion sanguine intraveineuse
+T31	MODE 1338 1368	voie d'abord veineuse centrale
+T32	DISO 1400 1420	hyperthermie maligne
+T33	LIVB 1581 1598	personnes adultes

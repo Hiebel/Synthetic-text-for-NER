@@ -1,0 +1,21 @@
+T1	PROC 22 29	adressé
+T2	Hospital 33 44	psychiatrie
+T3	DISO 54 83	symptomatologie psychomotrice
+T4	Concept_Idea 92 104	état général
+T5	MEAS 105 111	altéré
+T6	Concept_Idea 156 168	état général
+T7	PROC 172 187	examen clinique
+T8	DISO 204 238	douleurs du membre supérieur droit
+T9	ANAT 216 238	membre supérieur droit
+T10	Localization 233 238	droit
+T11	DISO 254 265	traumatisme
+T12	LIVB 284 286	il
+T13	PROC 310 340	séances de rééducation motrice
+T14	LIVB 411 428	psychothérapeutes
+T15	LIVB 463 471	patients
+T16	PROC 536 561	chimiothérapie palliative
+T17	CHEM 567 577	antalgique
+T18	DOSE 579 587	50 mg/kg
+T19	TEMP 587 589	/j
+T20	CHEM 632 642	corticoïde
+T22	LIVB 732 742	nourrisson

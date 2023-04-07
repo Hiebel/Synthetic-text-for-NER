@@ -1,0 +1,48 @@
+T1	LIVB 28 35	patient
+T2	Concept_Idea 56 87	antécédents médico-chirurgicaux
+T3	MEAS 88 100	particuliers
+T4	Hospital 124 132	urgences
+T5	DISO 142 204	douleurs pelviennes latéro-utérines cervico-vaginales d'ascite
+T7	TEMP 214 230	depuis deux mois
+T8	DISO 252 277	symptomatologie purulente
+T9	MEAS 292 303	progressive
+T10	DISO 318 332	amaigrissement
+T11	MEAS 343 348	10 kg
+T12	LIVB 380 383	son
+T13	PROC 384 393	admission
+T14	Hospital 397 427	service d'accueil des urgences
+T15	Hospital 429 432	SAU
+T16	LIVB 435 438	Son
+T17	PROC 439 459	examen gynécologique
+T18	DISO 477 508	distension abdominale pelvienne
+T19	ANAT 488 508	abdominale pelvienne
+T20	TEMP 517 538	deux jours auparavant
+T21	DISO 557 563	fièvre
+T22	MEAS 600 607	modérée
+T23	PROC 611 646	auscultation cardio-vasculo-nerveux
+T24	ANAT 624 646	cardio-vasculo-nerveux
+T25	DISO 672 700	troubles sensitivo-touchuels
+T26	DISO 728 761	syndrome d'épanchement péritonéal
+T27	DISO 771 788	signe fonctionnel
+T28	ANAT 803 835	artère ombilicale hyo-thoracique
+T29	DISO 849 868	dilatation aortique
+T30	ANAT 860 868	aortique
+T31	DISO 881 905	déformations pulmonaires
+T32	ANAT 894 905	pulmonaires
+T33	LIVB 945 953	patiente
+T34	LIVB 955 959	elle
+T35	DISO 985 1010	tachycardie orthostatique
+T36	MEAS 1021 1040	100 battements /min
+T37	MEAS 1056 1071	progressivement
+T38	Concept_Idea 1075 1081	volume
+T39	MEAS 1093 1098	20 cm
+T40	MEAS 1101 1106	75 cm
+T41	MEAS 1137 1142	30 cm
+T42	LIVB 1179 1183	elle
+T43	PROC 1211 1245	anesthésie péridurale transbuccale
+T44	ANAT 1222 1245	péridurale transbuccale
+T45	DISO 1279 1294	ménométrorrhées
+T46	MEAS 1306 1321	progressivement
+T47	Concept_Idea 1325 1331	taille
+T48	DISO 1348 1373	sensibilités intestinales
+T49	ANAT 1361 1373	intestinales

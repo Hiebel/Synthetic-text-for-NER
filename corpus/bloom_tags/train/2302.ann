@@ -1,0 +1,46 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 29 37	patiente
+T3	MEAS 41 44	bon
+T4	Concept_Idea 45 57	état général
+T5	DISO 59 69	apyrétique
+T6	MEAS 72 78	37,4°C
+T7	PHEN 88 119	bruits du boudin d'invagination
+T8	ANAT 98 119	boudin d'invagination
+T9	PROC 133 155	TDM abdomino-pelvienne
+T10	ANAT 137 155	abdomino-pelvienne
+T11	DISO 184 216	masse de la fosse iliaque homale
+T12	ANAT 196 216	fosse iliaque homale
+T13	Localization 210 216	homale
+T14	MEAS 226 230	6 cm
+T15	Concept_Idea 234 243	grand axe
+T16	ANAT 259 276	parenchyme pubien
+T17	ANAT 284 324	muscles paravertébraux utéro-vésiculaire
+T18	PROC 329 360	traitement médical probabiliste
+T19	CHEM 378 391	sulfasalazine
+T20	DOSE 393 399	400 mg
+T21	TEMP 399 404	/jour
+T22	CHEM 407 417	nifédipine
+T23	DOSE 419 424	20 mg
+T24	TEMP 424 426	/j
+T25	CHEM 429 437	dopamine
+T26	DOSE 439 444	0,5 g
+T27	TEMP 444 446	/j
+T28	CHEM 449 462	acénocoumarol
+T29	DOSE 464 470	100 mg
+T30	TEMP 470 472	/j
+T31	CHEM 475 493	méthylprédnisolone
+T32	DOSE 495 501	200 mg
+T33	TEMP 501 503	/j
+T34	CHEM 506 517	nicardipine
+T35	DOSE 519 524	25 mg
+T36	TEMP 524 526	/j
+T37	CHEM 529 542	noradrénaline
+T38	DOSE 544 551	1 µg/kg
+T39	TEMP 551 553	/j
+T40	CHEM 556 566	furosémide
+T41	DOSE 568 574	250 mg
+T42	TEMP 574 576	/j
+T43	CHEM 581 590	captopril
+T44	DOSE 592 597	50 mg
+T45	TEMP 597 599	/j
+T46	MODE 601 607	per os

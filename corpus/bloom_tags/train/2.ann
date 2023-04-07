@@ -1,0 +1,59 @@
+T1	LIVB 3 10	patient
+T2	DISO 53 115	carcinose endovaginale cervico-vestibulaire utéro-myometrielle
+T3	ANAT 63 115	endovaginale cervico-vestibulaire utéro-myometrielle
+T4	PROC 123 147	examen histopathologique
+T5	DISO 174 200	métastases carcinomateuses
+T6	PROC 209 214	admis
+T7	Hospital 219 241	urgences chirurgicales
+T8	DISO 258 275	choc hémorragique
+T9	DISO 291 310	douleurs pelviennes
+T10	ANAT 300 310	pelviennes
+T11	TEMP 320 333	depuis 2 mois
+T12	CHEM 339 353	hydrocortisone
+T13	DOSE 355 361	200 mg
+T14	TEMP 361 366	/jour
+T15	PROC 373 395	biologie préopératoire
+T16	PROC 409 428	numération sanguine
+T17	LIVB 458 465	patient
+T18	DISO 529 555	symptomatologie secondaire
+T19	DISO 578 596	pneumotraumatismes
+T20	DISO 607 634	maladie thromboembolismante
+T21	DISO 663 681	thrombophlébitique
+T22	PROC 712 738	examen anatomopathologique
+T23	DISO 767 789	dilatation péritonéale
+T24	DISO 799 808	anomalies
+T25	PROC 827 852	scanner abdomino- pelvien
+T26	ANAT 835 852	abdomino- pelvien
+T27	DISO 866 904	lésion tissulaire hétérogène hypodense
+T28	MEAS 913 919	12/7cm
+T29	ANAT 941 971	muscles fléchisseurs lombaires
+T30	ANAT 997 1011	dos iléo-cæcal
+T31	DEVI 1037 1055	bandelette plâtrée
+T32	MODE 1095 1118	injection intraveineuse
+T33	CHEM 1122 1142	produit de contraste
+T34	DISO 1164 1192	tissulaire nodulaire maligne
+T35	DISO 1198 1255	neurofibrillary angiosarcomatose kystique hypertrophiante
+T36	DISO 1313 1377	néphrophtalmoplégie pigmentée purulente érythémato-néphrologique
+T37	PROC 1381 1529	ponction pleurésie pleurale transpleuro-pulmonaire infério-crânio-faciale intra-lobulée diaphragmatique laryngo-rhinoseptale thoracique scannoguidée
+T39	DISO 1563 1600	polynucléarité monoclonale nécrasique
+T40	DISO 1610 1623	lymphocytaire
+T41	MEAS 1792 1805	spectaculaire
+T42	PROC 1923 1932	recherche
+T43	MEAS 1972 1980	positive
+T44	PROC 1989 2012	sérologies virales BHCG
+T45	MEAS 2027 2036	positives
+T46	PROC 2043 2064	protéines C réactives
+T47	MEAS 2073 2084	multipliées
+T48	DISO 2103 2134	syndrome infectieux métabolique
+T49	DISO 2152 2180	myocardiopathie hypertensive
+T50	PROC 2202 2237	classification de Takayasu-Makayasu
+T51	Concept_Idea 2273 2295	paramètres biologiques
+T52	LIVB 2309 2314	Notre
+T53	LIVB 2315 2323	patiente
+T54	PROC 2343 2361	traitement curatif
+T55	CHEM 2375 2388	métronidazole
+T56	DOSE 2401 2408	1 mg/kg
+T57	TEMP 2408 2410	/j
+T58	CHEM 2422 2432	furosémide
+T59	PROC 2440 2468	corticothérapie substitutive
+T60	PROC 2474 2497	radiothérapie adjuvante

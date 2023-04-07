@@ -1,0 +1,39 @@
+T1	LIVB 28 35	patient
+T2	PROC 46 51	admis
+T3	Hospital 56 64	urgences
+T4	DISO 74 91	céphalées fébrile
+T5	TEMP 101 118	depuis deux jours
+T6	DISO 135 153	anorexie purulente
+T7	DISO 155 169	amaigrissement
+T8	MEAS 180 183	4kg
+T9	PHEN 196 211	cycle menstruel
+T10	DISO 227 245	douleur abdominale
+T11	ANAT 235 245	abdominale
+T12	PROC 250 269	bilan préopératoire
+T13	PROC 282 321	radiographie thoraco-abdomino-pelvienne
+T14	ANAT 295 321	thoraco-abdomino-pelvienne
+T15	PROC 326 347	échographie pelvienne
+T16	ANAT 338 347	pelvienne
+T17	LIVB 368 375	patient
+T18	DISO 380 458	masse tissulaire nodulaire latéro péritonéale pariéto-sigmoïdienne lithiasique
+T19	DISO 474 510	hypertrophie sus-claviculaire droite
+T20	ANAT 487 510	sus-claviculaire droite
+T21	Localization 504 510	droite
+T22	MEAS 520 524	1 cm
+T23	Concept_Idea 528 537	grand axe
+T24	ANAT 554 588	muscles fléchisseurs cerviculaires
+T25	ANAT 609 631	région para ombilicale
+T26	DISO 694 718	carcinome ovarien utérin
+T27	ANAT 704 718	ovarien utérin
+T28	DISO 731 772	nodule kystique graisseux myometrorragnel
+T29	DISO 808 829	atteinte endométriale
+T30	ANAT 817 829	endométriale
+T31	DISO 842 899	envahissement ganglionnaire cervico-folliculaire infiltré
+T33	PROC 904 928	exploration chirurgicale
+T34	DISO 942 981	masse tumorale hétérogène bourgeonnante
+T35	ANAT 998 1019	grêlobe abdominocæcal
+T36	MEAS 1031 1046	progressivement
+T37	Concept_Idea 1050 1056	taille
+T38	TEMP 1065 1085	deux mois auparavant
+T39	DISO 1115 1127	métrorragies
+T40	DISO 1138 1161	symptômes hémorragiques

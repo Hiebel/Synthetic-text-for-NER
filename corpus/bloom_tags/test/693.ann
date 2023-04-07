@@ -1,0 +1,25 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	8 ans
+T3	DISO 54 78	épanchement péricardique
+T4	ANAT 66 78	péricardique
+T5	PROC 92 103	hospitalisé
+T6	Hospital 107 114	urgence
+T7	DISO 124 143	troubles du transit
+T8	PHEN 136 143	transit
+T9	PROC 147 162	examen clinique
+T10	PROC 167 176	admission
+T11	Hospital 180 195	bloc opératoire
+T12	LIVB 208 214	enfant
+T13	Concept_Idea 239 257	plan hémodynamique
+T14	CHEM 261 273	respiratoire
+T15	MEAS 283 289	légère
+T16	DISO 290 319	distension abdomino-pelvienne
+T17	ANAT 301 319	abdomino-pelvienne
+T18	DISO 325 358	syndrome inflammatoire biologique
+T19	PROC 362 386	exploration chirurgicale
+T20	PROC 407 432	surrachianesthésie locale
+T21	DEVI 440 472	cathéter péridurale transfémoral
+T22	MODE 498 508	voie orale
+T23	DOSE 510 514	2 ml
+T24	DISO 566 590	dysthyroïdie congénitale
+T25	DISO 600 622	anomalies métaboliques

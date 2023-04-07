@@ -1,0 +1,22 @@
+T1	PROC 3 10	biopsie
+T2	PROC 29 47	étude histologique
+T3	ANAT 54 59	pièce
+T4	DISO 78 113	carcinome épidermoïde du rein droit
+T5	ANAT 103 113	rein droit
+T6	Localization 108 113	droit
+T7	Concept_Idea 123 140	limites d'exérèse
+T8	PROC 133 140	exérèse
+T9	MEAS 141 147	saines
+T10	LIVB 154 161	patient
+T11	PROC 175 199	chimiothérapie adjuvante
+T12	CHEM 205 229	Temozolomide-Rifampicine
+T13	DOSE 231 233	2g
+T14	TEMP 233 235	/j
+T15	PROC 252 294	réunion de concertation pluridisciplinaire
+T16	LIVB 301 310	oncologue
+T17	LIVB 312 325	ophtalmologue
+T18	LIVB 329 337	pédiatre
+T19	PHEN 343 361	suites opératoires
+T20	MEAS 370 377	simples
+T21	DISO 383 403	récidive douloureuse
+T22	DISO 407 434	complication postopératoire

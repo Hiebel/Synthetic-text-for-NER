@@ -1,0 +1,25 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	2 ans
+T3	PROC 32 36	reçu
+T4	Hospital 41 62	urgences pédiatriques
+T5	DISO 80 85	chute
+T6	PROC 101 116	examen clinique
+T7	LIVB 127 133	enfant
+T8	MEAS 137 140	bon
+T9	Concept_Idea 141 167	développement psychomoteur
+T10	PHEN 178 212	dynamique du boudin d'invagination
+T11	ANAT 191 212	boudin d'invagination
+T12	MEAS 213 234	lentement progressive
+T13	PROC 238 267	échographie abdominopelvienne
+T14	ANAT 250 267	abdominopelvienne
+T15	DISO 284 322	masse tissulaire latéro-utérine gauche
+T16	Localization 316 322	gauche
+T17	Concept_Idea 325 331	aspect
+T18	MEAS 332 342	hétérogène
+T19	MEAS 355 359	50mm
+T20	Concept_Idea 363 372	grand axe
+T21	MEAS 377 382	60 mm
+T22	Concept_Idea 386 395	petit axe
+T23	DISO 424 447	adénopathies pelviennes
+T24	ANAT 437 447	pelviennes
+T25	DISO 457 466	anomalies

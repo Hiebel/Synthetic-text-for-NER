@@ -1,0 +1,92 @@
+T1	LIVB 15 25	nourrisson
+T2	TEMP 51 57	4 mois
+T3	PROC 71 78	adressé
+T4	Hospital 82 93	psychiatrie
+T5	DISO 103 123	douleurs abdominales
+T6	ANAT 112 123	abdominales
+T7	DISO 139 158	syndrome infectieux
+T8	PROC 164 179	examen clinique
+T9	LIVB 184 191	patient
+T10	Concept_Idea 202 213	température
+T11	MEAS 216 220	39°C
+T12	PHEN 225 235	conscience
+T13	MEAS 242 262	légèrement perturbée
+T14	DISO 268 282	déficit moteur
+T15	DISO 286 310	trouble sensitivo-moteur
+T16	ANAT 329 363	plexus brachial controlatéraldroit
+T17	Localization 345 363	controlatéraldroit
+T18	DISO 371 379	anomalie
+T19	DISO 389 407	symptôme lésionnel
+T20	PROC 431 447	examen somatique
+T21	DISO 459 472	particularité
+T22	PROC 476 498	électroencéphalogramme
+T23	PROC 500 503	EEG
+T24	Concept_Idea 530 546	caractéristiques
+T25	PROC 554 563	admission
+T26	DISO 626 650	signe neuropsychologique
+T27	PROC 671 686	acte opératoire
+T28	PROC 690 707	échocardiographie
+T29	Hospital 718 726	urgences
+T30	PROC 741 747	sortie
+T31	DISO 768 826	masse tissulaire pariéto-médiale intracaverneuse malformée
+T32	MEAS 836 841	16 mm
+T33	Concept_Idea 845 854	grand axe
+T34	ANAT 873 889	plan sous cutané
+T35	MEAS 898 902	5 cm
+T36	Concept_Idea 906 914	diamètre
+T37	Concept_Idea 948 955	contenu
+T38	MEAS 963 969	7/8 cm
+T39	MEAS 972 975	6mm
+T40	Concept_Idea 979 994	moyenne étendue
+T45	PROC 1290 1331	numération formule sanguine préopératoire
+T46	PROC 1352 1374	traitement substitutif
+T47	DISO 1388 1404	hyperleucocytose
+T48	MEAS 1407 1436	139 500 globules blancs /mm 3
+T49	MEAS 1442 1464	11 800 fois la normale
+T50	MEAS 1470 1474	50 %
+T51	MEAS 1491 1514	très fortement toxiques
+T52	MEAS 1549 1557	négatifs
+T53	PROC 1563 1601	laparotomie exploratrice scanno-guidée
+T54	LIVB 1610 1620	nouveau-né
+T55	Concept_Idea 1697 1726	caractère anatomopathologique
+T56	Concept_Idea 1757 1775	plan macroscopique
+T57	ANAT 2008 2064	structures para vasculorégionales digestives supérieures
+T58	CHEM 2080 2117	inhibiteurs de l'enzyme de conversion
+T59	PROC 2989 3011	contrôle échographique
+T60	PROC 3028 3042	suivi clinique
+T61	DISO 3064 3097	lésions nodulaires du rein gauche
+T62	ANAT 3086 3097	rein gauche
+T63	Localization 3091 3097	gauche
+T64	ANAT 3116 3133	vésicule biliaire
+T65	DISO 3143 3161	hypoalbuminorachie
+T66	MEAS 3172 3178	3,4g/L
+T67	MEAS 3185 3192	70 mg/L
+T68	PROC 3198 3217	bilan préopératoire
+T69	DISO 3229 3242	particularité
+T70	PROC 3253 3293	tomodensimétrie par résonance magnétique
+T71	MEAS 3308 3315	normale
+T72	Hospital 3327 3342	salle d'attente
+T73	PROC 3347 3379	traitement palliatif substitutif
+T74	PHEN 3389 3411	grossesses gémellaires
+T75	PROC 3587 3611	chimiothérapie adjuvante
+T76	PROC 3625 3642	cure chirurgicale
+T77	PROC 3647 3664	scanner abdominal
+T78	ANAT 3655 3664	abdominal
+T79	PROC 3675 3689	immobilisation
+T80	PROC 3701 3721	transfusion sanguine
+T81	DISO 3757 3830	adénocarcinome épidermoïde infiltrant médullaire hypokinétique secondaire
+T82	ANAT 3847 3879	région péricardique sus pubienne
+T83	PROC 3894 3918	exsudation intratumorale
+T84	ANAT 3944 3971	paupière supérieure utérine
+T85	ANAT 3984 4008	voie biliaire principale
+T86	ANAT 4023 4041	cellules vésicales
+T87	MEAS 4090 4095	12 cm
+T88	MEAS 4106 4125	5 gramme Kg environ
+T89	PROC 4129 4142	TDM pelvienne
+T90	ANAT 4133 4142	pelvienne
+T91	DISO 4157 4214	calcifications hyperbasilocalicielles intracytonucléaires
+T92	DISO 4239 4274	micronodules digitiformes érectiles
+T93	LIVB 4309 4322	obstétriciens
+T94	DISO 4327 4369	tuberculose métastatique primitive maligne
+T95	DISO 4375 4379	CK19
+T96	TEMP 4387 4399	initialement

@@ -1,0 +1,47 @@
+T1	LIVB 4 12	patiente
+T2	PROC 28 53	chimiothérapie palliative
+T3	CHEM 64 80	cyclophosphamide
+T4	CHEM 83 94	vancomycine
+T5	PROC 108 125	cure chirurgicale
+T6	PROC 134 167	radio-chimiothérapie concomitante
+T7	Concept_Idea 177 186	résultats
+T8	MEAS 187 200	satisfaisants
+T9	PROC 225 257	scanner thoraco-abdomino-pelvien
+T10	ANAT 233 257	thoraco-abdomino-pelvien
+T11	DISO 287 318	processus tumoral du sein droit
+T12	ANAT 308 318	sein droit
+T13	Localization 313 318	droit
+T14	MEAS 328 340	environ 2 cm
+T15	Concept_Idea 344 353	grand axe
+T16	DISO 359 365	signes
+T17	DISO 369 390	récidive métastatique
+T18	DISO 400 425	localisations secondaires
+T19	ANAT 434 438	foie
+T20	ANAT 446 477	aires ganglionnaires cervicales
+T21	PROC 482 501	bilan préopératoire
+T22	MEAS 536 544	perturbé
+T23	DISO 566 588	syndrome inflammatoire
+T24	PROC 601 626	étude immunohistochimique
+T25	PROC 781 785	ASAT
+T26	MEAS 795 802	normaux
+T27	PROC 808 837	prélèvements bactériologiques
+T28	MEAS 851 859	négatifs
+T29	MEAS 910 918	négatifs
+T30	PROC 924 962	laparotomie exploratrice scanno-guidée
+T31	LIVB 974 982	patiente
+T32	DEVI 1016 1040	remaniements péritonéaux
+T33	MEAS 1064 1068	90mm
+T34	MEAS 1071 1076	60 mm
+T35	PROC 1141 1166	staphylococcus epidemidis
+T36	PROC 1172 1188	curage axillaire
+T37	DISO 1223 1232	malignité
+T38	Concept_Idea 1244 1272	résultat anatomopathologique
+T39	DISO 1290 1337	adénocarcinome stromale érythémateux stade EBWC
+T40	PROC 1360 1376	exérèse monobloc
+T42	DISO 1441 1463	anomalie morphologique
+T43	LIVB 1502 1508	enfant
+T44	TEMP 1516 1521	7 ans
+T45	LIVB 1582 1589	enfants
+T46	LIVB 1663 1673	nouveau-né
+T47	LIVB 1834 1837	son
+T48	LIVB 1838 1842	père

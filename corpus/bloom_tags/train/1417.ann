@@ -1,0 +1,21 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 67	particuliers
+T4	PROC 69 74	admis
+T5	Hospital 79 87	urgences
+T6	DISO 96 130	syndrome d'hypertension artérielle
+T7	ANAT 120 130	artérielle
+T8	TEMP 140 157	depuis deux jours
+T9	PROC 161 176	examen clinique
+T10	PROC 181 190	admission
+T11	PHEN 202 213	tachycardie
+T12	MEAS 226 238	110 batt/min
+T13	DEVI 248 269	poignets pneumatiques
+T15	PROC 326 351	intervention chirurgicale
+T16	PROC 372 397	surrachianesthésie locale
+T17	PROC 460 483	analgésie préopératoire
+T18	CHEM 485 496	bupivacaine
+T19	DOSE 497 504	2 µg/kg
+T20	MODE 506 532	voie veineuse périphérique
+T21	PROC 565 593	intubation nasofibroscopique
+T22	ANAT 576 593	nasofibroscopique

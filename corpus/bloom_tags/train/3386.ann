@@ -1,0 +1,23 @@
+T1	LIVB 29 36	patient
+T2	CHEM 52 84	médecin anesthésiste-réanimateur
+T3	Hospital 100 141	Hôpital Adji Militaire Général de Yaoundé
+T4	DISO 163 187	toxome érythémato-cutané
+T5	DISO 215 236	détresse respiratoire
+T6	PHEN 224 236	respiratoire
+T7	DISO 252 259	dyspnée
+T8	MEAS 274 281	modérée
+T9	DEVI 307 325	câbles électriques
+T10	LIVB 366 368	on
+T11	Concept_Idea 495 512	état neurologique
+T12	ANAT 564 578	surrénaliennes
+T13	PROC 596 615	chirurgie partielle
+T14	PROC 631 669	radiothérapie complémentaire adjuvante
+T15	DOSE 811 820	600 UI/m²
+T16	MODE 827 833	per os
+T17	DISO 965 988	prolapsibilité grélique
+T18	ANAT 980 988	grélique
+T19	DISO 1009 1039	troubles hydro-électrolytiques
+T20	DISO 1079 1109	symptomatologie néphropathique
+T21	DISO 1153 1186	dégénérescence épiphyso-crânienne
+T22	ANAT 1168 1186	épiphyso-crânienne
+T23	PROC 1202 1232	traitement médical substitutif

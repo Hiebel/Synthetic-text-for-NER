@@ -1,0 +1,29 @@
+T1	DISO 6 16	apyrétique
+T2	MEAS 18 22	pâle
+T3	PROC 32 50	tension artérielle
+T4	ANAT 40 50	artérielle
+T5	MEAS 53 66	120 / 80 mmhg
+T6	Concept_Idea 71 76	poids
+T7	MEAS 80 85	45 kg
+T8	Concept_Idea 93 99	taille
+T9	MEAS 103 109	150 cm
+T10	PROC 115 124	admission
+T11	Hospital 128 132	bloc
+T12	LIVB 136 143	patient
+T13	DISO 159 185	douleurs pelviennes aigues
+T15	TEMP 208 221	depuis 6 mois
+T16	DISO 237 264	troubles du cycle menstruel
+T17	PHEN 249 264	cycle menstruel
+T18	DISO 270 292	anomalies métaboliques
+T19	PROC 297 336	radiographie thoraco-abdomino-pelvienne
+T20	ANAT 310 336	thoraco-abdomino-pelvienne
+T21	DISO 363 420	opacité liquidienne basithoracique homolatérale hypodense
+T23	Localization 398 420	homolatérale hypodense
+T24	PROC 457 476	bilan préopératoire
+T25	PROC 490 520	échographie abdomino-pelvienne
+T26	ANAT 502 520	abdomino-pelvienne
+T27	PROC 522 525	EAP
+T28	DISO 553 698	masse tissulaire hypoechogène hétérogène rétro-utérine péritissulaire latéro utérine bilatérale inféroseptale liquidienne hyo-thoraciquehypodense
+T30	MEAS 708 711	6cm
+T31	Concept_Idea 715 724	grand axe
+T32	CHEM 750 762	médiastinurs

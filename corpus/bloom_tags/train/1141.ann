@@ -1,0 +1,31 @@
+T1	LIVB 4 15	jeune femme
+T2	Concept_Idea 32 36	âgée
+T3	MEAS 40 46	17 ans
+T4	PROC 53 59	admise
+T5	Hospital 64 72	urgences
+T7	ANAT 91 101	pelviennes
+T8	DISO 112 124	métrorragies
+T9	DISO 141 171	sensibilité abdomino-pelvienne
+T10	ANAT 153 171	abdomino-pelvienne
+T11	TEMP 181 197	depuis deux mois
+T12	DISO 213 219	fièvre
+T13	DISO 225 239	amaigrissement
+T14	MEAS 250 254	8 kg
+T15	TEMP 258 267	deux mois
+T16	PHEN 288 305	cycles menstruels
+T17	MEAS 322 349	difficilement plus intenses
+T18	MEAS 359 369	rapprochés
+T19	DISO 402 425	symptomatologie fébrile
+T20	DISO 443 469	défense abdomino-pelvienne
+T21	ANAT 451 469	abdomino-pelvienne
+T22	MEAS 484 492	brulante
+T23	MEAS 504 519	progressivement
+T24	Concept_Idea 523 529	taille
+T25	DISO 600 621	hyperpression utérine
+T26	ANAT 614 621	utérine
+T27	DISO 627 637	hématuries
+T28	DISO 651 687	syndrome inflammatoire immunologique
+T29	DISO 827 855	symptomatologie prurigineuse
+T30	Concept_Idea 930 956	état cutanéo-muqueuculaire
+T31	DISO 995 1034	adénocarcinome érythémato-hydrosquameux
+T32	LIVB 1266 1275	patientes

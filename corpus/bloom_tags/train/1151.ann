@@ -1,0 +1,35 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	Concept_Idea 37 48	antécédents
+T4	MEAS 49 61	particuliers
+T5	PROC 72 77	admis
+T6	Hospital 82 90	urgences
+T7	DISO 102 277	accident ischémique du pancréas avec notion de fièvre. A l'admission au bloc opératoire, nous avons constaté des syndrome d'épanchement intra péripéritonéal liquidien purulent
+T8	ANAT 125 133	pancréas
+T9	DISO 149 155	fièvre
+T10	PROC 161 170	admission
+T11	Hospital 174 189	bloc opératoire
+T12	LIVB 191 195	nous
+T13	DISO 215 258	syndrome d'épanchement intra péripéritonéal
+T15	TEMP 287 303	depuis 48 heures
+T16	MEAS 318 329	progressive
+T17	DISO 360 381	détresse respiratoire
+T18	PHEN 369 381	respiratoire
+T19	DEVI 405 427	cathéter nasogastrique
+T20	ANAT 414 427	nasogastrique
+T21	PROC 447 493	intubation artério-veineuse transoesophagienne
+T22	ANAT 458 493	artério-veineuse transoesophagienne
+T23	DISO 573 590	kystes hydatiques
+T24	DISO 607 626	schwannome kystique
+T25	Localization 726 732	en bas
+T26	PROC 737 767	échographie abdomino-pelvienne
+T27	ANAT 749 767	abdomino-pelvienne
+T29	MEAS 882 886	6 cm
+T30	MEAS 889 893	5 cm
+T31	Localization 1096 1099	sus
+T32	Localization 1121 1129	centrale
+T33	ANAT 1144 1158	parties molles
+T34	DISO 1180 1205	masse tumorale nécrasique
+T35	MEAS 1217 1232	progressivement
+T36	Concept_Idea 1236 1245	grand axe
+T37	ANAT 1277 1298	paroi rectale utérine

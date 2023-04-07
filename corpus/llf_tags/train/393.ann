@@ -1,0 +1,87 @@
+T1	PROC 1 16	examen clinique
+T2	LIVB 30 38	patiente
+T3	MEAS 42 49	mauvais
+T4	Concept_Idea 50 62	état général
+T5	ANAT 68 99	aires ganglionnaires axillaires
+T6	MEAS 105 111	saines
+T7	PROC 125 141	bilan biologique
+T8	DISO 151 164	particularité
+T9	PROC 178 205	numération formule sanguine
+T10	MEAS 216 223	normale
+T11	PROC 238 260	dosage de l'adrénaline
+T12	CHEM 250 260	adrénaline
+T13	DOSE 262 266	3 cc
+T14	TEMP 266 271	/24 h
+T15	PROC 280 295	globules blancs
+T16	MEAS 298 337	18 000 éléments par millimètre cube cm3
+T17	PROC 342 367	scanner thoraco-abdominal
+T18	ANAT 350 367	thoraco-abdominal
+T19	PROC 393 409	cholangioplastie
+T20	DISO 430 473	lésions kystiques anévrysmales hypoéchogène
+T21	DISO 493 515	syndrome néphrotoxique
+T22	PROC 573 608	traitement chirurgical conservateur
+T23	DISO 641 664	récidive périopératoire
+T24	DEVI 689 717	processus tissulaire externe
+T25	MEAS 727 732	55 mm
+T26	Concept_Idea 736 740	long
+T27	MEAS 745 750	60 mm
+T28	Concept_Idea 754 761	largeur
+T29	Concept_Idea 771 777	taille
+T30	PHEN 783 805	conditions opératoires
+T31	MEAS 821 833	correctement
+T32	PROC 852 883	mise en condition préopératoire
+T33	PROC 887 913	étude anatomopathologiaque
+T35	DISO 1132 1198	kyste hydatique médullaire maligne mydriforme myxoide métastatique
+T36	ANAT 1228 1249	ganglions thoraciques
+T37	ANAT 1266 1280	nerfs fémoraux
+T38	ANAT 1290 1328	quadrant supéro-septal postéro-latéral
+T39	ANAT 1351 1390	péritoine pariétal inférieur postérieur
+T40	Localization 1380 1390	postérieur
+T41	ANAT 1411 1427	voies urétérales
+T42	ANAT 1488 1500	foyer osseux
+T43	ANAT 1510 1522	rein central
+T44	Localization 1515 1522	central
+T45	PROC 1528 1554	hystérectomie exploratrice
+T46	PROC 1568 1613	néphrectomie transoesophagienne scanno-guidée
+T47	PROC 1632 1662	radio-chimiothérapie adjuvante
+T48	DISO 1702 1737	léiomyofibrome pellucidosis ossifié
+T50	DISO 2487 2526	accident vasculaire cérébral ischémique
+T51	PROC 2609 2648	consultation neurochirurgie pédiatrique
+T52	PROC 2736 2748	intervention
+T53	DISO 2773 2809	nodules hypoéchogènes hyperéchogènes
+T54	Concept_Idea 2819 2826	limites
+T56	ANAT 2865 2897	sinus maxillaire inférieur droit
+T57	Localization 2892 2897	droit
+T58	MEAS 2905 2909	deux
+T59	ANAT 2910 2947	plexus veineux temporaux homolatéraux
+T61	MEAS 2971 2975	5 cm
+T62	MEAS 2979 2982	2cm
+T63	DISO 2994 3017	anomalies morphologique
+T64	LIVB 3031 3038	patient
+T65	PROC 3054 3076	traitement substitutif
+T66	CHEM 3090 3104	hydrocortisone
+T67	DOSE 3106 3114	50 mg/kg
+T68	TEMP 3114 3116	/j
+T69	MODE 3121 3144	intraveineux biphasique
+T70	PROC 3157 3176	anesthésie générale
+T71	DEVI 3180 3194	masque laryngé
+T72	PHEN 3199 3216	triméthoplantonal
+T73	DISO 3235 3262	récidive sensitivo-auditive
+T74	PROC 3275 3297	séances préopératoires
+T75	MEAS 3357 3364	simples
+T76	PROC 3371 3388	avis radiologique
+T77	PROC 3424 3444	transfusion sanguine
+T78	PROC 3451 3462	hémodialyse
+T79	PROC 3467 3499	scanner thoraco-abdomino-pelvien
+T80	ANAT 3475 3499	thoraco-abdomino-pelvien
+T81	MEAS 3513 3522	perméable
+T82	PROC 3569 3608	laparotomie séquentielle intratrachéale
+T83	Concept_Idea 3665 3687	structures anatomiques
+T84	PROC 3730 3747	geste chirurgical
+T85	PROC 3767 3789	remplissage vasculaire
+T86	ANAT 3779 3789	vasculaire
+T87	Concept_Idea 3814 3841	circulation extracorporelle
+T88	PROC 3901 3919	étude histologique
+T89	DISO 3964 4124	ostéoblastome kystique polymalformatif monocentrique mésenchymateux myxoide métastatique hétérotopique prurigonoculo-kystique idiopathique angiomateux disséminé
+T90	Concept_Idea 4198 4215	résultat clinique
+T91	PROC 4223 4251	prise en charge chirurgicale

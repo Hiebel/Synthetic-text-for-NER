@@ -1,0 +1,67 @@
+T1	LIVB 3 10	patient
+T2	PROC 60 70	administré
+T3	PROC 76 95	anesthésie générale
+T4	PROC 124 147	néphrectomie percutanée
+T5	PROC 157 172	technique ELISA
+T6	DISO 191 204	consanguinité
+T7	PROC 236 242	sortie
+T8	LIVB 276 283	malades
+T9	PROC 339 363	traités chirurgicalement
+T10	LIVB 496 498	il
+T11	DEVI 602 636	appareil intra péritonéal portatif
+T12	DISO 673 701	complication néonatale aiguë
+T13	DISO 707 733	lombopharyngiome achilléen
+T14	TEMP 755 778	depuis plusieurs années
+T15	PROC 792 810	séjour hospitalier
+T16	DISO 825 840	dermatomyalgies
+T17	PROC 846 872	examen anatomopathologique
+T18	ANAT 879 929	aires ganglionnaires axillaires supérieure gauches
+T19	Localization 922 929	gauches
+T20	MEAS 938 948	fusiformes
+T21	MEAS 973 977	18mm
+T22	MEAS 981 985	12mm
+T23	ANAT 1000 1156	aires ganglionnaires lombaires bilatérales jugulo-mandibulaire homolatérales fribriventriculaires cervicales antérieures postéro-latérales antérieure droite
+T26	Localization 1139 1156	antérieure droite
+T27	ANAT 1191 1231	ganglions maxillaires sous chondromateux
+T28	Localization 1213 1217	sous
+T29	ANAT 1247 1304	aires anéchogènes supra mandibulaires postérieures gauche
+T30	Localization 1285 1304	postérieures gauche
+T31	MEAS 1323 1330	simples
+T32	PROC 1334 1359	étude immunohistochimique
+T33	DISO 1964 1982	anomalie de signal
+T34	Concept_Idea 1991 2002	index d'IgA
+T35	MEAS 2012 2018	1/1500
+T36	ANAT 2027 2055	nerf laryngé supérieur droit
+T37	Localization 2050 2055	droit
+T38	MEAS 2062 2080	10 fois la normale
+T39	PHEN 2087 2095	réaction
+T40	MEAS 2096 2103	intense
+T41	ANAT 2108 2140	muqueuses trachéo-oesophagiennes
+T42	MEAS 2150 2163	peu sensibles
+T43	CHEM 2168 2179	antalgiques
+T44	CHEM 2192 2203	paracétamol
+T45	CHEM 2232 2256	acide acétyle glutamique
+T46	PROC 2276 2305	prise en charge thérapeutique
+T47	LIVB 2341 2349	patients
+T48	LIVB 2369 2379	praticiens
+T49	DISO 2430 2470	complications neuropsychiatriques aigues
+T50	Concept_Idea 2575 2590	aspect clinique
+T51	LIVB 2618 2626	patiente
+T52	DEVI 2656 2679	prothèse femme enceinte
+T53	PROC 2685 2707	traitement substitutif
+T54	PROC 2770 2794	anesthésie locorégionale
+T55	PROC 2808 2856	stérnotomie endotrachéale préchimiothérapeutique
+T56	PROC 2869 2945	néphrectomie totale intracaverneuse bipyramidalèr(CEC) postérieur percutanée
+T57	PROC 2961 2986	extubation néonatalitaire
+T58	Concept_Idea 3012 3037	constantes hémodynamiques
+T59	MEAS 3049 3052	6kg
+T60	MEAS 3055 3058	2Kg
+T61	MEAS 3088 3096	normales
+T62	MEAS 3113 3122	négatives
+T63	PROC 3181 3224	symptomatologie obstétricale postopératoire
+T64	PROC 3260 3282	surveillance prénatale
+T65	PROC 3292 3297	suivi
+T66	Hospital 3358 3379	grossesse monofoetale
+T67	TEMP 3409 3414	24 SA
+T68	TEMP 3418 3421	8SA
+T69	TEMP 3427 3437	5 semaines

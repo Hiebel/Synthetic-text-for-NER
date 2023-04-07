@@ -1,0 +1,24 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 79 90	hospitalisé
+T5	Hospital 94 112	service d'urologie
+T6	DISO 122 141	dyspnée obstructive
+T7	TEMP 151 164	depuis 2 mois
+T8	PROC 169 185	bilan biologique
+T9	Concept_Idea 199 226	vitesse de la sédimentation
+T10	MEAS 229 233	70mm
+T11	PROC 241 261	protéines C réactive
+T12	PROC 263 266	CRP
+T13	MEAS 270 277	96 mg/l
+T14	PROC 283 313	échographie abdomino-pelvienne
+T15	ANAT 295 313	abdomino-pelvienne
+T16	DISO 330 377	masse tumorale du paroi utérine latérale droite
+T17	ANAT 348 377	paroi utérine latérale droite
+T18	Localization 371 377	droite
+T19	MEAS 387 392	18 cm
+T20	Concept_Idea 396 405	grand axe
+T21	CHEM 427 447	produit de contraste
+T22	DISO 478 533	carcinome épidermoïde kystico-mésenchymateux péritonéal
+T24	PHEN 554 569	vascularisation
+T25	MEAS 570 583	macroscopique

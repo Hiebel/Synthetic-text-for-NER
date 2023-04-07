@@ -1,0 +1,28 @@
+T1	LIVB 16 24	patiente
+T2	PHEN 63 83	grossesse monofœtale
+T3	PROC 98 104	suivie
+T4	TEMP 114 127	depuis 4 mois
+T5	DISO 131 148	douleur pelvienne
+T6	ANAT 139 148	pelvienne
+T7	DISO 158 171	inflammatoire
+T8	MEAS 186 209	progressivement intense
+T9	DISO 225 231	sueurs
+T10	MEAS 254 262	2 heures
+T11	DISO 295 312	ictère généralisé
+T12	PROC 345 360	hospitalisation
+T13	Hospital 365 406	Cliniques Universitaires Hassan II de Fès
+T14	PROC 430 454	laparotomie exploratrice
+T15	DISO 472 506	embolie interstitielle péritonéale
+T16	ANAT 480 506	interstitielle péritonéale
+T17	ANAT 548 559	surrénautes
+T18	DISO 580 610	troubles hydro-électrolytiques
+T19	ANAT 631 646	greffon ovarien
+T20	ANAT 667 694	veine cave supra hyoïdienne
+T21	Localization 678 683	supra
+T22	DEVI 731 749	bandelette plâtrée
+T23	ANAT 766 787	muscle psoïtis longum
+T24	CHEM 812 828	produit échogène
+T25	PROC 842 868	examen anatomopathologique
+T26	DISO 891 916	localisations secondaires
+T27	DISO 930 951	prostate hypertrophié
+T28	DISO 974 1007	fasciculodysplasie gynécogénitale

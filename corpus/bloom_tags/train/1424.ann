@@ -1,0 +1,21 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 19 25	16 ans
+T3	DISO 45 82	néphropathie hypertensive congénitale
+T4	MODE 95 113	voie intraveineuse
+T5	PROC 118 126	adressée
+T6	LIVB 132 137	notre
+T7	Hospital 138 147	formation
+T8	PROC 171 192	échographie pelvienne
+T9	ANAT 183 192	pelvienne
+T10	DISO 217 240	masse kystique arrondie
+T11	MEAS 250 263	environ 10 cm
+T12	Concept_Idea 267 276	grand axe
+T13	MEAS 278 295	bien vascularisée
+T14	DISO 301 318	lésion nécrotique
+T15	Localization 337 351	bilatéralement
+T16	PROC 377 389	consultation
+T17	DISO 439 468	kystes nécrasiques hydatiques
+T18	LIVB 494 503	patientes
+T19	DISO 605 633	symptomatologie épigastrique
+T20	MEAS 669 692	massivement envahissant
+T21	DISO 1030 1079	symptomatologie achrome prurigineuse polyarthrite

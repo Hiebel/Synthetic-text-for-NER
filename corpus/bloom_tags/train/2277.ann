@@ -1,0 +1,17 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 42 67	antécédents pathologiques
+T3	MEAS 68 80	particuliers
+T4	DISO 110 129	insuffisance rénale
+T5	ANAT 123 129	rénale
+T7	ANAT 158 193	cervico-bronchiques latéro-utérines
+T8	PROC 216 234	traitement médical
+T9	DISO 242 270	dyspnée stade III de la NYHA
+T10	PROC 274 304	échographie abdomino-pelvienne
+T11	ANAT 286 304	abdomino-pelvienne
+T12	ANAT 334 344	col utérin
+T13	PHEN 361 381	grossesse gémellaire
+T14	PROC 412 448	tomodensitométrie abdomino-pelvienne
+T15	ANAT 430 448	abdomino-pelvienne
+T16	LIVB 475 483	patiente
+T17	MEAS 502 509	pT3N0M0
+T18	Concept_Idea 520 528	critères

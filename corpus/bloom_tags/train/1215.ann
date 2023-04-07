@@ -1,0 +1,38 @@
+T1	LIVB 29 37	patiente
+T2	DISO 72 146	syndrome d'épanchement péricardique du liquide épithélio-gigantocellulaire
+T4	ANAT 111 146	liquide épithélio-gigantocellulaire
+T5	DISO 155 171	épisodes fébrile
+T6	PROC 199 214	examen clinique
+T7	PROC 219 228	admission
+T8	LIVB 242 250	patiente
+T9	Concept_Idea 265 282	plan neurologique
+T10	DISO 290 317	anomalies sensitivomotrices
+T11	PROC 334 350	examen somatique
+T12	DISO 362 375	particularité
+T13	DISO 393 414	détresse respiratoire
+T14	PHEN 402 414	respiratoire
+T15	DISO 416 433	paralysie globale
+T16	DISO 443 468	atteinte cutanéo-nerveuse
+T17	ANAT 452 468	cutanéo-nerveuse
+T18	DISO 488 521	empyème pulmonaire basithoracique
+T19	ANAT 496 521	pulmonaire basithoracique
+T20	DISO 538 563	neurovégétalis angineuses
+T21	TEMP 573 588	depuis 10 jours
+T22	LIVB 595 597	sa
+T23	PROC 598 610	consultation
+T24	Hospital 614 663	centre hospitalier universitaire Hassan II de Fès
+T25	PROC 669 695	traitement médical curatif
+T26	CHEM 700 714	Ciprofloxacine
+T28	CHEM 753 766	Sulfamoxazole
+T29	PROC 785 815	échographie abdomino-pelvienne
+T30	ANAT 797 815	abdomino-pelvienne
+T31	MEAS 824 831	normale
+T32	DEVI 836 853	palm opto-moteurs
+T33	PROC 866 889	scanner abdominopelvien
+T34	ANAT 874 889	abdominopelvien
+T35	DISO 903 962	tumeur ulcérée érythémateuse hypoechogène pariéto-hypodense
+T36	MEAS 982 984	T3
+T37	PROC 1047 1091	tomodensitométrie thoraco-abdomino-pelvienne
+T38	ANAT 1065 1091	thoraco-abdomino-pelvienne
+T40	Localization 1272 1281	bilatéral
+T41	DISO 1339 1362	hétérogènes nécrotiques

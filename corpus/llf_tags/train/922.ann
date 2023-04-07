@@ -1,0 +1,94 @@
+T1	PROC 2 19	bilan étiologique
+T2	LIVB 37 45	patiente
+T3	TEMP 70 72	j2
+T4	PROC 95 121	examen anatomopathologique
+T5	DISO 133 162	tumeur de l’hypochondre droit
+T6	ANAT 145 162	hypochondre droit
+T7	Localization 157 162	droit
+T8	MEAS 183 194	volumineuse
+T9	DISO 195 225	formation tissulaire polylobée
+T10	MEAS 235 244	14 x 7 cm
+T11	DISO 261 297	remaniements nécrotiques secondaires
+T12	DISO 313 335	processus bourgeonnant
+T13	Concept_Idea 364 373	caractère
+T14	ANAT 408 424	plan superficiel
+T15	ANAT 456 486	lamelles pariéto-médiastinales
+T16	PROC 504 521	tomodensitométrie
+T17	PROC 523 563	TDM) cervico-thoraco-abdomino- pelvienne
+T18	ANAT 528 563	cervico-thoraco-abdomino- pelvienne
+T19	DISO 604 649	pneumopéritoine liquidien péritonéal calcifié
+T20	ANAT 668 683	jonction iléale
+T21	ANAT 698 720	anses crico-trachéales
+T22	DISO 761 788	lame d’épiploon éosinophile
+T23	ANAT 809 862	veine jugulaire latéro cervicale homolatérale distale
+T24	Localization 825 831	latéro
+T26	DISO 1003 1031	lentigines scléroatrophiques
+T27	Localization 1055 1080	partie postéro-inférieure
+T28	PROC 1110 1129	exstérotomie totale
+T29	PROC 1134 1156	scanner crânio-pelvien
+T30	ANAT 1142 1156	crânio-pelvien
+T31	MEAS 1175 1187	contributive
+T32	DISO 1211 1233	récidive inflammatoire
+T33	DISO 1243 1265	anomalie morphologique
+T34	PROC 1280 1291	cystocytose
+T35	MEAS 1298 1303	élevé
+T36	MEAS 1306 1328	178 000 éléments /mm 3
+T37	MEAS 1334 1351	3 fois la normale
+T38	DISO 1404 1437	lymphocyte granulomateux malignes
+T39	PROC 1443 1465	transaminases sériques
+T40	MEAS 1474 1482	normales
+T41	MEAS 1500 1508	0,6 mg/L
+T42	MEAS 1512 1543	1,9 milligrammes par millilitre
+T43	PROC 1560 1581	phospholipides totaux
+T44	MEAS 1590 1598	négatifs
+T45	MEAS 1601 1610	157 pg/ml
+T46	DISO 1625 1643	hyperbilirubinémie
+T47	MEAS 1654 1668	254 micromol/l
+T48	PROC 1675 1694	traitement adjuvant
+T49	DISO 1745 1765	symptômes infectieux
+T50	PROC 1774 1835	chimiothérapie antibacillaire substitutionnelle intraveineuse
+T51	CHEM 1841 1880	amoxicilline acide clavulanique per os®
+T52	LIVB 1916 1923	malades
+T53	PROC 1959 1984	traitement prophylactique
+T54	PROC 1985 1997	antibiotique
+T55	CHEM 2000 2031	céphalosporine B12 parenthésone
+T56	CHEM 2034 2043	imipenème
+T57	CHEM 2046 2060	gentaméthasone
+T58	PROC 2200 2244	explorations fonctionnelles bactériologiques
+T59	Concept_Idea 2705 2718	plan chimique
+T60	PROC 2725 2749	biopsie du globe ovarien
+T61	ANAT 2736 2749	globe ovarien
+T62	PROC 2757 2783	étude immuno-histochimique
+T63	DISO 2802 2861	carcinome épidermomateux myxoïde infiltrant l’ovaire gauche
+T64	ANAT 2848 2861	ovaire gauche
+T65	Localization 2855 2861	gauche
+T66	CHEM 2886 2900	catécholamines
+T67	PHEN 2914 2929	fonction rénale
+T68	ANAT 2923 2929	rénale
+T69	MEAS 2930 2937	normale
+T70	PROC 2942 2964	résection chirurgicale
+T71	PROC 3007 3040	curage ganglionnaire scanno-guidé
+T72	MEAS 3056 3063	complet
+T73	ANAT 3082 3098	colon transverse
+T74	ANAT 3134 3151	vésicule biliaire
+T75	DISO 3164 3184	signes histologiques
+T76	DISO 3211 3250	remaniements inflammatoires secondaires
+T77	DISO 3260 3277	lésions kystiques
+T78	PROC 3281 3308	analyse anatomopathologique
+T79	DISO 3338 3415	processus polypoïde éosinophile mucineux tissulaire carcinomateux sarcomateux
+T80	MEAS 3425 3429	5 cm
+T81	Concept_Idea 3433 3442	grand axe
+T82	MEAS 3451 3456	55 mm
+T83	Concept_Idea 3460 3469	petit axe
+T84	Concept_Idea 3491 3499	quantité
+T85	MEAS 3503 3512	50 unités
+T86	Concept_Idea 3522 3545	caractère morphologique
+T87	PROC 3561 3582	bilan préanesthésique
+T88	PROC 3600 3652	bloc axillaire monofibrinogastroduodénal explorateur
+T89	PROC 3659 3689	angioscanner thoraco-abdominal
+T90	ANAT 3672 3689	thoraco-abdominal
+T91	PROC 3695 3716	scanners ultrasonores
+T92	TEMP 3821 3836	perpendiculaire
+T93	DISO 3875 3921	kyste hydatique œdémateux oedématié hyperdense
+T94	DISO 3926 3938	hypertrophié
+T95	Concept_Idea 4133 4152	limites supérieures

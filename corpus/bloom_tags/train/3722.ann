@@ -1,0 +1,31 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 50 61	antécédents
+T3	MEAS 62 70	notables
+T4	PROC 72 78	admise
+T5	Hospital 83 91	urgences
+T6	DISO 101 136	douleurs abdomino-pelviennes aiguës
+T7	ANAT 110 129	abdomino-pelviennes
+T8	MEAS 151 162	progressive
+T9	TEMP 172 185	depuis 2 mois
+T10	PROC 189 204	examen clinique
+T11	LIVB 222 230	patiente
+T12	MEAS 234 237	bon
+T13	Concept_Idea 238 264	développement psychomoteur
+T14	PHEN 268 280	respiratoire
+T15	PROC 286 321	tomodensitométrie abdominopelvienne
+T16	ANAT 304 321	abdominopelvienne
+T17	DISO 335 395	masse tumorale du parenchyme ovarien hypo échogène hypodense
+T19	Concept_Idea 398 406	contours
+T20	MEAS 407 416	réguliers
+T21	MEAS 426 430	6 cm
+T22	Concept_Idea 434 443	grand axe
+T23	CHEM 471 491	produit de contraste
+T24	DISO 511 533	épanchement péritonéal
+T25	ANAT 523 533	péritonéal
+T26	DISO 546 581	adénocarcinome kystique péritonéaux
+T27	DISO 583 588	ADKPT
+T28	PROC 595 616	échographie pelvienne
+T29	ANAT 607 616	pelvienne
+T30	PROC 630 639	recherche
+T31	PROC 671 699	marquage immunohistochimique
+T32	DISO 751 776	localisations secondaires

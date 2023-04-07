@@ -1,0 +1,54 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	DISO 42 67	antécédents pathologiques
+T4	MEAS 68 80	particuliers
+T5	PROC 82 86	reçu
+T6	Hospital 91 112	urgences pédiatriques
+T7	DISO 122 146	masse du plexus brachial
+T8	ANAT 131 146	plexus brachial
+T9	TEMP 156 169	depuis 6 mois
+T10	PROC 174 191	bilan d'extension
+T11	MEAS 209 216	négatif
+T12	PROC 220 235	examen clinique
+T13	LIVB 248 254	enfant
+T14	Concept_Idea 279 297	plan hémodynamique
+T15	PHEN 323 347	reflexes ostéo-tendineux
+T16	ANAT 332 347	ostéo-tendineux
+T17	MEAS 348 356	présents
+T18	DISO 376 407	symptomatologie néphrotérismale
+T19	LIVB 409 411	Il
+T20	DISO 433 465	polynucléose érythémato-violacée
+T21	DISO 483 495	hyperthermie
+T22	PROC 515 528	réhydratation
+T23	MEAS 532 536	40°C
+T24	PROC 543 552	admission
+T25	DISO 569 588	tachycardie fébrile
+T26	MEAS 591 617	100 battements par minutes
+T27	DISO 633 650	dyspnée sifflante
+T28	MEAS 665 672	brutale
+T29	MEAS 682 689	modérée
+T30	CHEM 695 703	propofol
+T31	DISO 738 759	détresse respiratoire
+T32	DISO 807 832	mucoviscidose congénitale
+T33	DISO 838 851	paragangliome
+T34	DISO 861 887	organométastatique maligne
+T35	PROC 891 915	scanner abdomino-pelvien
+T37	DISO 950 1017	masse tissulaire nodulaire hypodense hypoechogène hypervascularisée
+T38	MEAS 1027 1031	4 cm
+T39	Concept_Idea 1035 1044	grand axe
+T40	ANAT 1065 1083	liquide péritonéal
+T41	ANAT 1099 1112	méso grêlique
+T42	DEVI 1138 1151	voie biliaire
+T43	ANAT 1172 1196	cavité abdominopelvienne
+T44	Localization 1216 1224	centrale
+T45	PROC 1303 1328	étude anatomopathologique
+T46	LIVB 1353 1361	patiente
+T47	DISO 1371 1390	lésions secondaires
+T48	DISO 1404 1441	carcinome épithélio-gigantocellulaire
+T49	ANAT 1414 1441	épithélio-gigantocellulaire
+T50	ANAT 1452 1463	vésiculaire
+T51	DISO 1580 1587	diabète
+T52	DISO 1594 1611	tabagisme toxique
+T53	PROC 1629 1662	imagerie par résonance magnétique
+T54	PROC 1664 1667	IRM
+T55	Localization 1800 1810	bilatérale

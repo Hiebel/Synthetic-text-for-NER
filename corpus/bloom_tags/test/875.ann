@@ -1,0 +1,34 @@
+T1	LIVB 20 28	patiente
+T2	DISO 45 70	antécédents pathologiques
+T3	MEAS 71 83	particuliers
+T4	PROC 87 93	examen
+T5	PROC 98 107	admission
+T6	LIVB 121 129	patiente
+T7	MEAS 133 136	bon
+T8	Concept_Idea 137 149	état général
+T9	ANAT 158 165	abdomen
+T10	MEAS 166 185	légèrement sensible
+T11	PHEN 193 219	contractions épigastriques
+T12	ANAT 206 219	épigastriques
+T13	MEAS 220 228	intenses
+T14	PROC 245 261	examen somatique
+T15	DISO 273 286	particularité
+T16	PROC 291 328	tomodensitométrie abdomino- pelvienne
+T17	ANAT 309 328	abdomino- pelvienne
+T18	DISO 346 377	masse tissulaire du flanc droit
+T19	ANAT 366 377	flanc droit
+T20	Localization 372 377	droit
+T21	MEAS 387 392	19 cm
+T22	Concept_Idea 396 410	grand diamètre
+T23	ANAT 426 457	fosse iliaque supra péritonéale
+T24	Localization 440 445	supra
+T25	PROC 474 483	injection
+T26	CHEM 487 498	propranolol
+T27	DOSE 500 506	1mg/kg
+T28	TEMP 506 512	/heure
+T29	PROC 535 581	complément d'imagerie par résonance magnétique
+T30	PROC 583 586	IRM
+T31	PROC 592 616	scanner abdomino-pélvien
+T32	ANAT 600 616	abdomino-pélvien
+T33	Hospital 639 647	urgences
+T34	DISO 679 688	anomalies

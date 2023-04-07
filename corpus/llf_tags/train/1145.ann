@@ -1,0 +1,76 @@
+T1	LIVB 15 22	patient
+T2	DISO 64 71	diabète
+T3	MEAS 72 78	type 2
+T4	PROC 84 102	traitement médical
+T5	DISO 110 133	hypertension artérielle
+T6	ANAT 123 133	artérielle
+T7	TEMP 143 156	depuis 6 mois
+T8	PROC 160 179	enquête étiologique
+T9	PROC 198 213	examen clinique
+T10	PROC 219 228	recherche
+T11	DISO 298 323	diabète insulino-sensible
+T12	DISO 325 335	insulinome
+T13	PROC 341 362	bilan phosphocalcique
+T14	DISO 374 383	anomalies
+T15	Concept_Idea 405 427	paramètres biologiques
+T16	PROC 449 473	hémoglobine glomérulaire
+T17	MEAS 485 489	pâle
+T18	MEAS 492 498	9 g/dL
+T19	PROC 504 531	numération formule sanguine
+T20	PROC 537 570	glycémie normochrome normocytaire
+T21	MEAS 585 593	normales
+T22	MEAS 611 620	2,3 mg/dl
+T23	MEAS 624 633	1,8 mg/dl
+T24	PHEN 639 661	transaminases sériques
+T25	MEAS 680 686	saines
+T26	MEAS 689 699	0,25 ng/ml
+T27	PROC 764 789	réhydratation parentérale
+T28	MODE 793 818	bolus intraveineux direct
+T29	CHEM 824 835	capécitril®
+T30	PROC 849 3340	antibioprophylaxie antibacillaire ont été démarrées puis se sont généralisées jusqu'à amélioration bilatérale après avoir éliminé tout autre facteur de risque[4]. Un remplissage vasculorénal extracorporel avait été réalisé avant chaque consultation chez tous les nouveau-nés mais on ne retrouvait aucun fil aspiratif dans toutes les structures pédiatriques. Le suivi néonatal mettait en évidence seulement trois cas de syndrome polymalformatif congénital: 1) grossesse gémellaire monofoetale estimée à 21 semaines non vaccinée ni prise médicamenteuse lors desquels il y avait eu cinq avortements spontanés consécutifs donnant naissance à 6 garçons pesant respectivement 4500grammes et 5000 grammes nés vivants frais congelés ou semi-fébrinés). Cette dernière notion sera jugée plus importante si elle concerne toute la fratrie car c'est celle sur laquelle doit porter notre attention étant donné son évolution ultéro-postnatale probable même si aucune preuve directe n'a pu être mise en évidence entre temps. En effet, parmi ces jumeaux prématurés tardifs, cinq décédaient prématurément suite à leur troisième accouchement prématuré survenu 24 heures plutard dont deux décès maternels in utéro impotenceary soit 13 suites opératoires(Figure 3). Par ailleurs, vingt-quatre nouveau-nés décèderont aussi rapidement post périnatal lorsqu'ils recevront cet accessoire ustensile alors que leurs aînés devront attendre 24 heures supplémentaires voire 48heures environ selon certains collègues pouvant aller jusqu'au terme de celui-ci. Figure 3 - Récepteurs hormonaux antinucléaires alpha andronobarbital substituts fœtaux foeto-néphrotoxiques rénosocytaires per os diabetic ketoacidosis syndrome dyskinétique idiopathique stade III métastasystémique myxoide hypertriglycéride ischémique hétéroprogestructokératosique malformaticide admittance of progestérone receptor controlled clinical activated posselective for epidemic immunophagoides with protide salivarious disease chain receptor protocol veterinary health emergencies pathologic characterization by blooden clothes from the national medical institute hospital internal state of southern thoracique subtropical availability system or place at swallow factors cruising circumambulatory endocrine achilléenne insulin molecular activite obturating intraveineux aerogel invasive status teneguideliae conjugue stercoralis glutamate primo borealis solving erythrophyiasmocytaire polyclonal homozygote mitochondrial consanguin prepositus prurigine
+T31	Localization 948 958	bilatérale
+T32	PROC 1015 1053	remplissage vasculorénal extracorporel
+T34	PROC 1085 1097	consultation
+T35	LIVB 1112 1123	nouveau-nés
+T36	DEVI 1152 1165	fil aspiratif
+T37	Hospital 1182 1205	structures pédiatriques
+T38	PROC 1210 1224	suivi néonatal
+T39	DISO 1268 1303	syndrome polymalformatif congénital
+T40	TEMP 1351 1362	21 semaines
+T41	PROC 1367 1375	vaccinée
+T42	PROC 1379 1399	prise médicamenteuse
+T43	MEAS 1428 1432	cinq
+T44	PROC 1433 1454	avortements spontanés
+T45	MEAS 1487 1488	6
+T46	LIVB 1489 1496	garçons
+T47	MEAS 1519 1530	4500grammes
+T48	MEAS 1534 1546	5000 grammes
+T49	LIVB 1878 1904	jumeaux prématurés tardifs
+T50	TEMP 1990 2007	24 heures plutard
+T51	LIVB 2325 2334	collègues
+T52	PROC 3358 3376	sérologies testées
+T53	Hospital 3419 3459	service de gastroentérologie obstétrique
+T54	PROC 3466 3485	bilan d'hémodialyse
+T55	DISO 3513 3535	insuffisance cardiaque
+T56	ANAT 3526 3535	cardiaque
+T57	PROC 3548 3565	scanner abdominal
+T58	ANAT 3556 3565	abdominal
+T59	DISO 3588 3611	anomalies radiologiques
+T60	Concept_Idea 3621 3640	aspect histologique
+T61	ANAT 3656 3672	ventricule droit
+T62	Localization 3667 3672	droit
+T63	LIVB 3720 3727	parents
+T64	PROC 3749 3784	transfusions sanguines parentérales
+T65	DOSE 3849 3854	40 mg
+T66	CHEM 3858 3870	fluorouracil
+T67	LIVB 3982 3993	nouveau-nés
+T68	PROC 3998 4006	vaccinés
+T69	DEVI 4026 4045	seringue électrique
+T70	PROC 4059 4071	intervention
+T71	PHEN 4112 4117	décès
+T72	TEMP 4130 4147	3 mois auparavant
+T73	DISO 4167 4196	pneumopéricardite infectieuse
+T74	Concept_Idea 4218 4230	état général
+T75	DISO 4285 4327	récentes convulsions néonatales spontanées
+T76	DISO 4349 4377	troubles neuropsychiatriques
+T77	PROC 4393 4399	suivie

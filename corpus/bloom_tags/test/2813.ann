@@ -1,0 +1,64 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 92 101	admission
+T6	DISO 106 126	vomissements bilieux
+T7	TEMP 158 167	24 heures
+T8	LIVB 169 171	Il
+T9	MEAS 181 186	bonne
+T10	Concept_Idea 187 200	santé général
+T11	DISO 224 241	atteinte oculaire
+T12	ANAT 233 241	oculaire
+T13	PROC 245 275	auscultation cardio-vasculaire
+T14	ANAT 258 275	cardio-vasculaire
+T15	DISO 306 337	dilatation du ventricule gauche
+T16	ANAT 320 337	ventricule gauche
+T17	Localization 331 337	gauche
+T18	DISO 352 400	syndrome d'épanchement surrénalien périgastrique
+T19	ANAT 375 400	surrénalien périgastrique
+T20	PHEN 417 430	rhabdomyolyse
+T21	PROC 448 482	scanner cervico-thoraco-pulmonaire
+T22	ANAT 456 482	cervico-thoraco-pulmonaire
+T23	Hospital 498 541	service d'accueil des urgences pédiatriques
+T24	Hospital 543 546	PSU
+T25	DISO 575 682	masse tissulaire latéro-utérine basithoracique homolatérale droite hypothoracique lithiasique hypertrophiée
+T27	MEAS 692 697	10 cm
+T28	Concept_Idea 701 710	grand axe
+T29	ANAT 731 750	plexus phréno-cæcal
+T30	ANAT 765 797	lobules cerviculaires bilatéraux
+T31	Localization 787 797	bilatéraux
+T32	CHEM 799 817	prolapsing hormone
+T33	ANAT 848 869	structures cardiaques
+T34	DISO 920 959	hypofonction ventriculo-trotrillonnante
+T35	ANAT 933 959	ventriculo-trotrillonnante
+T36	DISO 975 996	détresse respiratoire
+T37	PHEN 984 996	respiratoire
+T38	DISO 1013 1030	processus tumoral
+T39	DISO 1043 1078	localisations secondaires tumorales
+T40	DISO 1083 1128	cholangiocarcinome séreux kystéo-métastatique
+T41	PROC 1145 1164	bilan immunologique
+T42	DISO 1341 1361	localisation maligne
+T43	DISO 1399 1424	métastisme parathyroïdien
+T44	ANAT 1410 1424	parathyroïdien
+T45	DISO 1435 1464	foyers gynécologiques altérés
+T46	PROC 1467 1493	examen anatomopathologique
+T47	DEVI 1500 1517	ponction pleurale
+T48	ANAT 1509 1517	pleurale
+T49	DISO 1533 1557	kyste hydatique purulent
+T50	LIVB 1576 1584	patients
+T51	DISO 1591 1620	hépatites auto-inflammatoires
+T52	TEMP 1700 1705	2 ans
+T53	MEAS 1721 1736	progressivement
+T54	Concept_Idea 1740 1746	taille
+T55	MEAS 1756 1769	plus marquées
+T56	ANAT 1807 1822	basithoraciques
+T57	DISO 1846 1881	remaniements nodulaires prurigineux
+T58	DISO 1897 1920	lésions hyperpigmentées
+T59	MODE 1948 1966	voie intraveineuse
+T60	DOSE 2010 2015	un ml
+T61	CHEM 2019 2044	concentré d'hémopéritoine
+T62	PROC 2082 2104	résection chirurgicale
+T63	DISO 2121 2126	masse
+T64	PROC 2132 2197	anesthésie thoracique trans-bronchique locorégionale scannoguidée
+T66	PROC 2198 2202	BSTT

@@ -1,0 +1,30 @@
+T1	LIVB 20 25	femme
+T2	DISO 47 72	antécédents pathologiques
+T3	MEAS 73 85	particuliers
+T4	PROC 87 97	consultait
+T5	Hospital 102 110	urgences
+T6	DISO 120 158	douleur épigastrique aiguë malodorante
+T7	ANAT 128 140	épigastrique
+T8	TEMP 168 186	depuis trois jours
+T9	PROC 190 205	examen clinique
+T10	PROC 210 219	admission
+T11	LIVB 233 241	patiente
+T12	MEAS 245 248	bon
+T13	Concept_Idea 249 267	état hémodynamique
+T14	PHEN 271 283	respiratoire
+T15	DEVI 292 306	poignet plâtré
+T16	ANAT 320 342	membre inférieur droit
+T17	Localization 337 342	droit
+T18	PROC 348 378	échographie abdomino-pelvienne
+T19	ANAT 360 378	abdomino-pelvienne
+T20	DISO 412 455	volvulus des grosses tubercules péritonéaux
+T21	ANAT 425 455	grosses tubercules péritonéaux
+T22	ANAT 463 473	col utérin
+T23	ANAT 490 506	parois vaginales
+T24	MEAS 531 536	70 cm
+T25	MEAS 541 546	50 cm
+T26	Concept_Idea 549 555	aspect
+T27	MEAS 556 569	macroscopique
+T28	DISO 598 606	kystique
+T29	DISO 640 661	pincement tuberculeux
+T30	ANAT 650 661	tuberculeux

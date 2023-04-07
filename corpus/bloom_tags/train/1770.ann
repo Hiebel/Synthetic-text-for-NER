@@ -1,0 +1,100 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 85 110	intervention chirurgicale
+T5	CHEM 131 141	sufentanil
+T6	DOSE 143 149	1mg/kg
+T7	TEMP 149 156	/minute
+T8	CHEM 159 167	propofol
+T9	DOSE 169 178	0,2 mg/kg
+T10	TEMP 178 185	/minute
+T11	CHEM 188 196	fentanyl
+T12	DOSE 198 206	10 µg/kg
+T13	TEMP 206 213	/minute
+T14	CHEM 216 229	noradrénaline
+T15	DOSE 231 238	20µg/kg
+T16	TEMP 238 245	/minute
+T17	CHEM 248 260	prédnisolone
+T18	DOSE 262 268	100 mg
+T19	TEMP 268 275	/minute
+T20	CHEM 278 291	buprenorphine
+T21	DOSE 293 299	4ug/kg
+T22	TEMP 299 306	/minute
+T23	CHEM 309 327	méthylprednisolone
+T24	DOSE 329 336	3 ng/kg
+T25	TEMP 336 343	/minute
+T26	CHEM 346 359	triamcinolone
+T27	DOSE 361 369	15 ug/kg
+T28	TEMP 369 376	/minute
+T29	CHEM 379 393	ciprofloxacine
+T30	DOSE 395 401	400 mg
+T31	TEMP 401 408	/minute
+T32	CHEM 411 424	cisatracurium
+T33	DOSE 426 441	50 milligrammes
+T34	TEMP 441 448	/minute
+T35	CHEM 451 464	bromocriptine
+T36	DOSE 466 481	200 microgammes
+T37	TEMP 481 488	/minute
+T38	CHEM 491 501	mifentanil
+T39	DOSE 503 512	5 μmol/kg
+T40	TEMP 512 519	/minute
+T41	CHEM 522 535	dexaméthasone
+T42	DOSE 537 543	750 mg
+T43	TEMP 543 550	/minute
+T44	CHEM 553 566	nicardiprolol
+T45	DOSE 568 582	40 micromol/kg
+T46	TEMP 582 589	/minute
+T47	CHEM 592 602	salbutamol
+T48	DOSE 604 620	120 microgrammes
+T49	TEMP 620 627	/minute
+T50	CHEM 630 640	dobutamine
+T51	DOSE 642 657	160microgrammes
+T52	TEMP 657 664	/minute
+T53	CHEM 667 681	chlorpromidone
+T54	DOSE 683 702	60microbrométriques
+T55	TEMP 702 709	/minute
+T56	CHEM 712 726	hydrocortisone
+T57	DOSE 728 744	25 microsecondes
+T58	TEMP 744 751	/minute
+T59	CHEM 754 772	hydroxychloroquine
+T60	DOSE 774 787	30 grammes/m²
+T61	TEMP 787 794	/minute
+T62	CHEM 797 809	pyrazinamide
+T63	DOSE 811 817	600 mg
+T64	TEMP 817 824	/minute
+T65	CHEM 827 838	Ceftriaxone
+T66	DOSE 840 846	500 mg
+T67	TEMP 846 853	/minute
+T68	CHEM 856 867	ethionamide
+T69	DOSE 869 875	800 mg
+T70	TEMP 875 882	/minute
+T71	CHEM 885 897	cytarubicine
+T72	DOSE 899 906	1275 mg
+T73	TEMP 906 908	/j
+T74	CHEM 911 921	mitomycine
+T75	DOSE 923 932	450000 UI
+T76	TEMP 932 934	/J
+T77	CHEM 937 944	taxanes
+T78	CHEM 946 965	valproate de sodium
+T79	MODE 981 991	voie orale
+T80	CHEM 994 1003	Etoposide
+T81	DEVI 1029 1047	bolus biquotidiens
+T82	PROC 1067 1100	anastomose placento-mésentorielle
+T83	ANAT 1078 1100	placento-mésentorielle
+T84	PHEN 1109 1128	grossesse gémellées
+T85	LIVB 1154 1162	patiente
+T87	PROC 1204 1215	colposcopie
+T88	PROC 1221 1255	curage ganglionnaire locorégionale
+T89	PROC 1262 1283	recherche étiologique
+T90	DISO 1346 1359	récidivations
+T91	DISO 1366 1388	symptômes fonctionnels
+T92	TEMP 1398 1412	depuis 12 mois
+T93	PROC 1418 1428	diagnostic
+T94	DISO 1448 1471	hypertension artérielle
+T95	ANAT 1461 1471	artérielle
+T96	DISO 1488 1527	malformations congénitales hypertensive
+T97	DISO 1549 1566	lésions cliniques
+T98	DISO 1581 1615	hyperpigmentation maculo-crânienne
+T99	PROC 1801 1827	examen anatomopathologique
+T100	PROC 1831 1854	immuno histochirurgical
+T101	PROC 1946 1974	prise en charge chirurgicale

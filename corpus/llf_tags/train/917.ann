@@ -1,0 +1,45 @@
+T1	LIVB 14 24	nouveau-né
+T2	TEMP 49 56	10 mois
+T3	PROC 60 67	adressé
+T4	Hospital 71 104	service des urgences pédiatriques
+T5	DISO 114 144	tumeur du quatrième ventricule
+T6	ANAT 124 144	quatrième ventricule
+T7	PROC 148 163	examen clinique
+T8	Concept_Idea 178 190	état général
+T9	MEAS 191 196	froid
+T10	PROC 206 216	inspection
+T11	DISO 235 243	boiterie
+T12	Concept_Idea 301 313	état général
+T13	DISO 326 332	signes
+T14	DISO 359 365	fièvre
+T15	DISO 372 386	déshydratation
+T16	PROC 392 416	laparotomie exploratrice
+T17	PROC 437 452	rachianesthésie
+T18	TEMP 456 465	5/08/2017
+T19	CHEM 467 476	Tamoxifen
+T20	PROC 481 499	étude histologique
+T21	DISO 530 536	lésion
+T22	DISO 561 587	symptômes ophtalmologiques
+T23	LIVB 606 620	jeunes adultes
+T24	DISO 663 703	difficultés fonctionnelles respiratoires
+T25	DEVI 767 776	prothèses
+T26	PROC 781 814	scanner cervico-thoraco-abdominal
+T27	ANAT 789 814	cervico-thoraco-abdominal
+T28	PROC 829 842	stabilisation
+T29	PHEN 860 886	contraction naso-trachéale
+T30	ANAT 872 886	naso-trachéale
+T31	MEAS 897 902	60 mm
+T32	Localization 919 941	extrémités supérieures
+T33	MEAS 966 975	40 x 30mm
+T34	MEAS 979 986	45x20mm
+T35	ANAT 990 1013	tronc spléno-palpébrale
+T36	MEAS 1023 1037	90 millimètres
+T37	MEAS 1063 1077	84 centimètres
+T38	DISO 1143 1155	complication
+T39	PROC 1160 1182	contrôle échographique
+T40	MEAS 1189 1201	satisfaisant
+T41	DISO 1225 1253	récidive anatomopathologique
+T42	DISO 1257 1266	métastase
+T43	MEAS 1313 1320	simples
+T44	PROC 1344 1379	chimiothérapie palliative adjuvante
+T45	PROC 1402 1407	suivi

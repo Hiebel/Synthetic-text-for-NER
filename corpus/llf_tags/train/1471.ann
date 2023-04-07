@@ -1,0 +1,78 @@
+T1	LIVB 20 25	femme
+T2	DISO 68 75	diabète
+T3	MEAS 76 83	type II
+T4	PROC 97 103	admise
+T5	Hospital 107 118	psychiatrie
+T6	PHEN 143 168	fonctions intellectuelles
+T7	TEMP 178 191	depuis 6 mois
+T8	PROC 197 212	examen physique
+T9	LIVB 217 225	patiente
+T10	DISO 247 263	déficit cognitif
+T11	Concept_Idea 273 285	état général
+T12	ANAT 290 312	membre inférieur droit
+T13	Localization 307 312	droit
+T14	MEAS 319 327	sensible
+T15	CHEM 332 367	anti-inflammatoires non stéroïdiens
+T16	CHEM 369 373	AINS
+T17	CHEM 388 399	corticoïdes
+T18	DISO 416 433	syndrome délirant
+T19	DISO 450 479	symptomatologie psychomotrice
+T20	PROC 495 510	examen clinique
+T21	DISO 522 535	particularité
+T22	PROC 539 558	électrocardiogramme
+T23	DISO 585 609	distension pulsarimortem
+T24	ANAT 596 609	pulsarimortem
+T25	MEAS 620 626	15/min
+T26	ANAT 630 653	quadrant supéro-externe
+T27	DISO 674 702	troubles neuropsychiatriques
+T28	LIVB 727 737	nourrisson
+T29	PROC 742 771	prise en charge psychiatrique
+T30	LIVB 1002 1009	malades
+T31	DISO 1022 1058	dysfonctionnements schizophréniforme
+T32	DISO 1327 1346	contage tuberculeux
+T33	DISO 1416 1434	récidive épidurale
+T34	LIVB 1477 1483	enfant
+T35	TEMP 1491 1502	10 semaines
+T36	LIVB 1615 1618	son
+T37	LIVB 1619 1630	petit frère
+T38	TEMP 1638 1644	4 mois
+T39	DEVI 1790 1818	maternité primaire cervicale
+T40	MEAS 1890 1895	13 cm
+T41	MEAS 1898 1902	9 cm
+T43	ANAT 2122 2149	nerf phréno-gastro-duodénal
+T44	PROC 2224 2259	transfusions sanguines parentérales
+T45	MEAS 2359 2368	50 gramme
+T46	MEAS 2372 2382	45 grammes
+T47	PROC 2434 2457	transfusions étalonnées
+T48	PROC 2656 2684	bronchopneumothorax spontané
+T49	DOSE 2701 2706	40 ml
+T50	CHEM 2760 2791	amoxicilline acide clavulanique
+T51	CHEM 2794 2807	hémoperitoine
+T52	CHEM 2809 2843	pyrazinamide acétyle adrénalinoïde
+T53	DISO 3191 3220	symptômes neuropsychiatriques
+T54	PROC 3254 3290	prise en charge médicale ambulatoire
+T55	LIVB 3306 3313	patient
+T56	PROC 3334 3354	consultation externe
+T57	Hospital 3369 3386	centre spécialisé
+T58	PROC 3392 3407	examen clinique
+T59	DISO 3419 3432	particularité
+T60	PROC 3437 3457	traitement palliatif
+T61	PROC 3462 3487	kinésithérapie antalgique
+T62	PROC 3501 3545	radiothérapie monochimiothérapique adjuvante
+T63	Concept_Idea 3606 3633	conventions internationales
+T64	PROC 3651 3666	radiodiagnostic
+T65	PROC 3671 3690	suivi psychiatrique
+T66	LIVB 3699 3705	malade
+T67	MEAS 3719 3726	négatif
+T68	PHEN 3782 3808	développement psychomoteur
+T69	MEAS 3809 3816	normale
+T70	DISO 3833 3853	récupération motrice
+T71	LIVB 3883 3894	thérapeutes
+T72	PROC 3917 3943	traitements thérapeutiques
+T73	DISO 3974 3989	psychomotricité
+T74	Concept_Idea 4063 4082	aspect radiologique
+T75	DISO 4293 4322	maladie auto-immune chronique
+T76	DISO 4494 4541	pathologies psychiatriques polymorphes malignes
+T77	Concept_Idea 4745 4773	recherches étiopathogéniques
+T78	DISO 4804 4870	psychose schizophrénique maniaco-dépressive idiopathique familiale
+T79	Concept_Idea 4930 4966	caractéristiques sociodémographiques

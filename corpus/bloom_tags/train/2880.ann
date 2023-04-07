@@ -1,0 +1,37 @@
+T1	LIVB 19 26	patient
+T2	MEAS 75 87	particuliers
+T3	PROC 89 94	admis
+T4	Hospital 99 107	urgences
+T5	DISO 126 152	amaigrissement non chiffré
+T6	TEMP 162 178	depuis 48 heures
+T7	LIVB 185 187	sa
+T8	PROC 188 200	consultation
+T9	DISO 233 260	détresse respiratoire aiguë
+T10	PHEN 242 260	respiratoire aiguë
+T11	MEAS 275 286	progressive
+T12	DISO 304 326	tirage abdominopelvien
+T13	ANAT 311 326	abdominopelvien
+T14	LIVB 362 369	dernier
+T15	DISO 427 447	vomissements bilieux
+T16	LIVB 480 485	homme
+T17	DISO 529 548	douleurs pelviennes
+T18	ANAT 538 548	pelviennes
+T19	MEAS 563 574	progressive
+T20	DISO 594 602	anorexie
+T21	TEMP 628 632	1 an
+T22	MEAS 651 666	progressivement
+T23	Concept_Idea 670 676	taille
+T24	MEAS 687 690	2kg
+T25	MEAS 693 698	12 kg
+T26	MEAS 710 725	progressivement
+T27	Concept_Idea 729 734	poids
+T28	MEAS 761 765	28Kg
+T29	MEAS 768 773	48 Kg
+T30	DISO 787 820	syndrome d'épanchement sus utérin
+T31	ANAT 810 820	sus utérin
+T32	MEAS 828 847	de grande abondance
+T33	DISO 869 897	sensibilité hypogastralgique
+T34	ANAT 881 897	hypogastralgique
+T35	MEAS 929 946	bien circonscrite
+T36	DISO 973 990	troubles digestif
+T37	DISO 1036 1074	tuméfaction épigastrique hypertrophiée

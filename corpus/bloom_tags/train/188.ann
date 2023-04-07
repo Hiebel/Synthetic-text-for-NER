@@ -1,0 +1,88 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	6 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 88	hospitalisé
+T6	Hospital 93 101	urgences
+T7	DISO 111 137	douleurs pelviennes aiguës
+T8	ANAT 120 130	pelviennes
+T9	TEMP 160 173	depuis 3 mois
+T10	PROC 177 191	interrogatoire
+T11	DISO 218 232	épigastralgies
+T12	MEAS 247 258	progressive
+T13	DISO 274 288	amaigrissement
+T14	MEAS 299 303	8 kg
+T15	TEMP 307 317	trois mois
+T16	LIVB 324 327	son
+T17	PROC 328 337	admission
+T18	Hospital 341 356	bloc opératoire
+T19	LIVB 358 360	Il
+T20	PROC 379 410	échographie abdomino- pelvienne
+T21	ANAT 391 410	abdomino- pelvienne
+T22	DISO 427 532	formation tissulaire hypoechogène hétérogène du hile vésico-sigmoïdien utéro péritrochantellaire infiltré
+T24	PROC 539 563	scanner abdomino-pelvien
+T25	ANAT 547 563	abdomino-pelvien
+T26	PROC 565 569	PIVT
+T27	DISO 599 624	localisations secondaires
+T28	DISO 639 656	carcinose utérine
+T29	ANAT 649 656	utérine
+T30	PROC 661 680	bilan préopératoire
+T31	PROC 697 716	anesthésie générale
+T32	MODE 721 742	voie d'abord veineuse
+T33	CHEM 755 776	indobutynyl-méthasone
+T34	DOSE 779 784	20 mg
+T35	TEMP 785 793	par jour
+T36	CHEM 807 820	lupaméthasone
+T37	DOSE 822 829	1 mg/kg
+T38	TEMP 830 840	par jumeau
+T39	Concept_Idea 871 881	techniques
+T40	PROC 1054 1088	radiothérapie adjuvante palliative
+T41	ANAT 1101 1129	tissu gynécologique vulvaire
+T42	LIVB 1162 1169	enfants
+T43	DEVI 1219 1240	pièces transfixiantes
+T44	PHEN 1264 1285	contractions utérines
+T45	ANAT 1277 1285	utérines
+T46	DISO 1343 1358	symptomatologie
+T47	TEMP 1501 1512	12 semaines
+T48	DISO 1644 1660	dyspnée d'effort
+T49	MEAS 1672 1687	progressivement
+T50	Concept_Idea 1691 1697	volume
+T51	DISO 1727 1749	ictère maculopustuleux
+T52	DISO 1759 1772	inflammatoire
+T53	TEMP 1807 1811	3ans
+T54	LIVB 1895 1899	elle
+T55	DISO 1921 1941	signes neurologiques
+T56	DISO 1968 2003	syndrome d'épanchement intracrânien
+T57	ANAT 1991 2003	intracrânien
+T58	DISO 2013 2038	déficit neuro-cérébelleux
+T59	PROC 2225 2240	examen clinique
+T60	LIVB 2253 2259	enfant
+T61	Concept_Idea 2284 2302	plan hémodynamique
+T62	PHEN 2306 2318	respiratoire
+T63	PROC 2334 2356	examen ophtalmologique
+T64	DISO 2380 2394	particularités
+T65	DISO 2408 2437	facial cataracte hypertrophié
+T66	DISO 2535 2582	troubles visuels sensitivomotrices oculomoteurs
+T67	DISO 2611 2632	chirurgie monoculaire
+T68	LIVB 2636 2638	on
+T69	DISO 2705 2725	céphalées purulentes
+T70	DISO 2818 2833	symptomatologie
+T71	DISO 2875 2890	symptomatologie
+T72	PROC 3045 3076	radiographie standard du thorax
+T73	ANAT 3070 3076	thorax
+T74	DISO 3093 3130	dilatation des ventricules supérieurs
+T75	ANAT 3108 3130	ventricules supérieurs
+T76	Localization 3120 3130	supérieurs
+T77	DISO 3143 3166	adénopathies cervicales
+T78	ANAT 3156 3166	cervicales
+T79	PROC 3182 3212	échographie abdomino-pelvienne
+T80	ANAT 3194 3212	abdomino-pelvienne
+T81	DISO 3265 3275	hydrorrhée
+T82	PROC 3280 3316	tomodensitométrie abdomino-pelvienne
+T83	ANAT 3298 3316	abdomino-pelvienne
+T84	MEAS 3397 3405	16x13 cm
+T85	ANAT 3433 3450	vésicules utérins
+T86	ANAT 3470 3487	centre gélatineux
+T87	ANAT 3513 3536	tissus mous péritonéaux
+T88	DISO 3553 3569	nécrose caséeuse
+T89	ANAT 3590 3608	parenchyme ovarien

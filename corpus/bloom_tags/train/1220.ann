@@ -1,0 +1,31 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	16 ans
+T3	Concept_Idea 42 53	antécédents
+T4	MEAS 54 66	particuliers
+T5	PROC 68 72	reçu
+T6	Hospital 77 85	urgences
+T7	DISO 95 116	détresse respiratoire
+T8	PHEN 104 116	respiratoire
+T9	MEAS 131 142	progressive
+T10	PROC 146 161	examen clinique
+T11	PROC 166 175	admission
+T12	LIVB 188 195	patient
+T13	MEAS 199 202	bon
+T14	Concept_Idea 203 215	état général
+T15	ANAT 225 232	poumons
+T16	MEAS 233 241	bombants
+T17	ANAT 255 277	membre supérieur droit
+T18	Localization 272 277	droit
+T19	PROC 282 301	bilan préopératoire
+T20	DISO 342 362	tuberculose pleurale
+T21	ANAT 354 362	pleurale
+T22	DISO 368 449	épanchement liquidien basithoracique péribuccinellaire cervico-tracheal purulencé
+T24	PROC 477 505	tomodensitométrie thoracique
+T25	ANAT 495 505	thoracique
+T26	LIVB 549 556	patient
+T27	DISO 561 675	distension médiastinale thoracique bilatérale inféro-externe droite humérale pariéto-bronchique lobulo-lateralisée
+T30	ANAT 711 743	sinus médiastin antésurrénaliens
+T31	MEAS 753 757	12cm
+T32	Concept_Idea 761 770	grand axe
+T33	ANAT 791 816	parenchyme hyo-thoracique
+T34	PROC 830 899	image hypoéchogène pulmonaire segmentaire transcrânienne scannoguidée

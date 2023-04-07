@@ -1,0 +1,33 @@
+T1	LIVB 19 26	patient
+T2	PROC 38 43	suivi
+T3	DISO 53 72	pancréatite stade E
+T4	MEAS 74 75	3
+T5	DISO 87 112	insuffisance rénale aigue
+T6	ANAT 100 106	rénale
+T7	TEMP 114 126	depuis 4 ans
+T8	CHEM 132 144	cystéphénine
+T9	CHEM 159 177	méthylprednisolone
+T10	DISO 198 223	vomissements alimentaires
+T11	PROC 238 258	examen gynécologique
+T12	DISO 270 283	particularité
+T13	PROC 289 320	échographie abdomino- pelvienne
+T14	ANAT 301 320	abdomino- pelvienne
+T15	Concept_Idea 336 342	aspect
+T16	DISO 359 391	adénopathie centrale du pancréas
+T17	Localization 371 379	centrale
+T18	MEAS 401 406	12 cm
+T19	Concept_Idea 410 419	grand axe
+T20	PHEN 424 432	sensible
+T21	PROC 436 450	toucher rectal
+T22	ANAT 444 450	rectal
+T23	PROC 455 490	tomodensitométrie abdominopelvienne
+T24	ANAT 473 490	abdominopelvienne
+T25	DISO 508 617	masse parathyroïdienne latérale droite hypovésiculaire inféro-néphrothoracique péripancréatique hypo-myélinée
+T28	MEAS 626 633	13/10cm
+T29	ANAT 665 690	muscle paravertébro-cæcal
+T30	DISO 710 748	lésions hétérogènes hypervascularisées
+T31	ANAT 769 774	grêle
+T32	DISO 788 815	épanchement intrapéritonéal
+T33	ANAT 800 815	intrapéritonéal
+T34	MEAS 826 832	1000ml
+T35	ANAT 849 872	structures intestinales

@@ -1,0 +1,81 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 47 52	9 ans
+T3	PROC 58 73	examen clinique
+T4	LIVB 77 87	nouveau-né
+T5	DISO 94 101	fébrile
+T6	MEAS 104 110	38,5°C
+T7	Concept_Idea 119 131	état général
+T8	MEAS 132 138	altéré
+T9	DISO 146 167	sensibilité abdominal
+T10	ANAT 158 167	abdominal
+T11	PROC 185 212	numération formule sanguine
+T12	PROC 214 225	hémoglobine
+T13	PROC 227 239	bicarbonates
+T14	PROC 241 251	plaquettes
+T15	MEAS 269 276	normale
+T16	PROC 280 291	échographie
+T17	TEMP 295 305	26/10/2017
+T18	DISO 333 386	dilatation des anses grêliques pariétocoliques droite
+T19	ANAT 348 386	anses grêliques pariétocoliques droite
+T20	Localization 380 386	droite
+T21	PHEN 427 451	reflexes ostéo-tendineux
+T22	ANAT 436 451	ostéo-tendineux
+T23	MEAS 500 507	simples
+T24	DISO 513 533	signes neurologiques
+T25	DISO 537 547	cardiaques
+T26	DISO 565 588	déficit sensitivomoteur
+T27	DISO 599 618	symptômes délirants
+T28	PROC 632 653	contrôle radiologique
+T29	DISO 672 681	métastase
+T30	DISO 723 818	carcinome épidermoïde infiltrant médullaire érythémato-trachéal intra scléroatomateux nécrosant
+T31	MEAS 826 832	T3N0Mx
+T32	Concept_Idea 871 890	aspect histologique
+T33	DISO 935 956	détresse respiratoire
+T34	PHEN 944 956	respiratoire
+T35	CHEM 991 1012	radiologies standards
+T36	DISO 1031 1052	décompensation fœtale
+T37	LIVB 1062 1071	personnes
+T38	PROC 1077 1122	chimiothérapie adjuvante type fluoroquinolone
+T39	CHEM 1107 1122	fluoroquinolone
+T40	PROC 1239 1270	traitement palliatif parentéral
+T41	PROC 1295 1323	anesthésie générale profonde
+T42	PROC 1337 1361	ventilation exploratrice
+T43	PROC 1367 1395	oxygénothérapie concomitante
+T44	PROC 1411 1458	électroencéphalogramme haute fréquence contrôle
+T45	DEVI 1470 1478	prothèse
+T46	MEAS 1503 1509	15mmHg
+T47	MEAS 1513 1520	184mmHg
+T48	PROC 1561 1578	reprise pondérale
+T49	PROC 1632 1660	transplantation monophasique
+T50	PROC 1691 1713	surveillance prénatale
+T51	LIVB 1764 1769	homme
+T52	TEMP 1816 1838	il y a environ dix ans
+T53	DISO 2319 2361	accident vasculaire ischémique myocardique
+T54	DISO 2517 2569	fracture anévrysmale spastique temporale eccentrique
+T55	DISO 2616 2646	crise convulsive hémodynamique
+T56	DISO 2701 2745	épisodes fébriles aigues polymicronodulaires
+T57	MEAS 2757 2772	progressivement
+T58	Concept_Idea 2776 2785	intensité
+T59	MEAS 2786 2800	confusionnelle
+T60	DISO 2815 2838	agitation psychomotrice
+T61	Concept_Idea 2868 2888	paramètres cliniques
+T62	DISO 2912 2934	tuberculose apyrétique
+T63	PHEN 2988 3002	psychiatriques
+T64	PROC 3021 3040	traitement adjuvant
+T65	CHEM 3086 3116	acide valproique intraveineuse
+T66	DISO 3153 3162	anomalies
+T67	DISO 3180 3199	syndrome infectieux
+T68	DISO 3221 3250	symptômes neuropsychiatriques
+T69	PROC 3263 3269	suivie
+T70	PROC 3317 3341	radiothérapie palliative
+T71	PROC 3359 3380	examens radiologiques
+T72	PROC 3394 3412	sérologies virales
+T73	DISO 3459 3479	distension cervicale
+T74	ANAT 3470 3479	cervicale
+T75	LIVB 3491 3499	patiente
+T76	PROC 3534 3555	consultation médicale
+T77	MEAS 3687 3699	6000 DH/sem2
+T78	PROC 3805 3824	étude rétrospective
+T79	LIVB 3844 3847	ses
+T80	LIVB 3848 3855	enfants
+T81	TEMP 3864 3871	10 mois

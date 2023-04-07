@@ -1,0 +1,22 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	LIVB 52 54	sa
+T4	LIVB 55 72	jeune-adolescente
+T5	CHEM 74 84	Morpholine
+T6	DOSE 86 89	2 g
+T7	MODE 91 97	per os
+T8	DISO 120 162	dégénérescence érythémato leucocytocytaire
+T9	CHEM 208 219	Cyclosérine
+T10	CHEM 233 244	Ivermectine
+T11	TEMP 261 270	trois ans
+T12	MEAS 290 300	insidieuse
+T13	DISO 307 331	polynucléose neutrophile
+T14	PROC 353 370	bilan étiologique
+T15	PROC 378 402	anamnèse bactériologique
+T16	DISO 431 449	germes bacillaires
+T17	DEVI 467 476	appareils
+T18	PHEN 499 513	fonctionnement
+T19	PROC 688 719	endoscopie digestive varicesque
+T20	DISO 742 791	syndrome inflammatoire biologique mal systématisé
+T21	PROC 804 827	analgésie peropératoire
+T22	CHEM 1180 1193	noradrénaline

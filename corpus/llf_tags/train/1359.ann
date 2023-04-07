@@ -1,0 +1,54 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 59 63	deux
+T3	LIVB 64 71	enfants
+T4	TEMP 120 131	24 semaines
+T5	MEAS 139 150	1200 gramme
+T6	MEAS 200 215	420 kilogrammes
+T7	LIVB 227 235	patiente
+T8	DISO 275 301	hypertension normocardique
+T9	ANAT 288 301	normocardique
+T10	DISO 358 380	insuffisance néonatale
+T11	ANAT 371 380	néonatale
+T12	DISO 398 437	anémie hypochrome microcytaire calcique
+T13	DISO 451 477	syndrome interstitiel aigu
+T14	PROC 538 563	classification de Barety®
+T15	PROC 569 604	consultation préchimiothérapeutique
+T16	DEVI 618 655	cathéter double lumière Arrow 60 mm ²
+T17	PROC 698 732	perfusion intraveineuse percutanée
+T18	PROC 746 772	monitorage scannographique
+T19	DISO 799 824	vascularite inflammatoire
+T20	DISO 834 861	polynucléaires éosinophiles
+T21	ANAT 891 908	membranes basales
+T22	DISO 1119 1156	lésions granulomateuses angiomateuses
+T23	ANAT 1187 1201	nerfs fémoraux
+T25	PROC 1335 1359	échographie obstétricale
+T26	Concept_Idea 1380 1400	aspect morphologique
+T27	Concept_Idea 1418 1440	caractère radiologique
+T28	PHEN 1444 1467	membre supérieur utérin
+T29	PROC 1490 1517	examen anatomo-pathologique
+T31	ANAT 1654 1659	cavum
+T32	MEAS 1670 1684	13 centimètres
+T33	Concept_Idea 1688 1697	grand axe
+T34	ANAT 1730 1753	structures germinatives
+T35	ANAT 1775 1803	graisse mésentérique antrale
+T36	Localization 1831 1847	partie proximale
+T37	PROC 1851 1869	étude histologique
+T38	ANAT 1913 1935	parenchyme sous cutané
+T39	MEAS 1944 1948	5 cm
+T40	Concept_Idea 1952 1960	diamètre
+T41	DISO 1974 1984	métastases
+T42	PROC 2194 2212	immunohistochimies
+T43	PROC 2269 2278	hémostase
+T44	PROC 2317 2337	reprise chirurgicale
+T45	PROC 2400 2453	annexectomie élargie transoesophagienne peropératoire
+T46	PROC 2472 2506	exsanguino-réaction antibacillaire
+T47	PROC 2522 2570	fermeture endotrachéale bipédicamenteuse étendue
+T48	PROC 2583 2629	curage ganglionnaire cervico-thoraco-abdominal
+T49	PROC 2644 2674	antibiothérapie postopératoire
+T50	MEAS 2730 2737	simples
+T51	DISO 2753 2778	complication hémorragique
+T52	DISO 2782 2801	douleurs pelviennes
+T53	ANAT 2791 2801	pelviennes
+T54	DISO 2811 2827	signe infectieux
+T55	PROC 2874 2905	contrôle échographique standard
+T56	PROC 2926 2943	abord chirurgical

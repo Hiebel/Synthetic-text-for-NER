@@ -1,0 +1,33 @@
+T1	LIVB 3 14	jeune homme
+T2	PROC 98 103	suivi
+T3	TEMP 113 125	janvier 2012
+T4	DISO 163 211	maladie auto-immune IgE cytostatique congénitale
+T5	TEMP 220 245	trois semaines auparavant
+T6	LIVB 255 257	il
+T7	DISO 299 334	hypertriglycéridémie gestationnelle
+T8	MEAS 345 354	650 mg/dl
+T9	PROC 444 463	enquête étiologique
+T10	TEMP 620 639	dix années plus tôt
+T11	PROC 685 709	consultations prénatales
+T12	DISO 791 829	hyperprolactinémie néonatale familiale
+T13	PROC 865 938	immunoglobuline monoclonale intraveineuse substitutive insulinodépendante
+T14	PROC 1022 1084	myéloperoxydase glutamyl transférase factor receptor béta dose
+T15	ANAT 1408 1419	rein gauche
+T16	Localization 1413 1419	gauche
+T17	LIVB 1454 1462	patiente
+T18	Concept_Idea 1473 1499	caractéristiques cliniques
+T19	CHEM 1552 1570	facteur rhumatoïde
+T21	PROC 1676 1698	apport antituberculeux
+T22	LIVB 1795 1820	chirurgiens obstétriciens
+T23	PROC 1830 1857	prise en charge ambulatoire
+T24	DISO 1964 1985	récidive neurologique
+T25	PROC 2047 2068	curettectomie urgente
+T26	PROC 2082 2114	néphrectomie totale multiloculée
+T27	Concept_Idea 2139 2151	trajectoires
+T28	PROC 2181 2202	traitements adjuvants
+T29	PHEN 2217 2238	grossesse monofoetale
+T30	TEMP 2247 2252	18 SA
+T31	PROC 2282 2301	bilan préopératoire
+T32	PROC 2346 2393	cystotithotomie axillaire médiane scanno-guidée
+T33	ANAT 2409 2424	tissus ovariens
+T34	MEAS 2568 2597	44000 gramme masses minérales

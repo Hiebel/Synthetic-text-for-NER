@@ -1,0 +1,41 @@
+T1	MEAS 0 8	normales
+T2	PROC 13 35	radiographie du thorax
+T3	ANAT 29 35	thorax
+T4	DISO 47 56	anomalies
+T5	Concept_Idea 65 86	rapport signal /bruit
+T6	MEAS 89 103	100 battements
+T7	TEMP 104 115	par minutes
+T8	PHEN 121 140	pression artérielle
+T9	ANAT 130 140	artérielle
+T10	MEAS 143 154	120/50 mmHg
+T11	DISO 177 217	sensibilité de la veine jugulaire droite
+T12	ANAT 195 217	veine jugulaire droite
+T13	Localization 211 217	droite
+T14	DISO 233 255	distension abdominales
+T15	ANAT 244 255	abdominales
+T16	PROC 279 295	bilan biologique
+T17	LIVB 300 308	patiente
+T18	PROC 335 360	chimiothérapie palliative
+T19	CHEM 362 375	acide folique
+T20	CHEM 378 405	triméthoprimesulfaméthasone
+T21	PROC 420 445	néphrectomie exploratrice
+T22	PROC 451 475	rachianesthésie générale
+T23	Concept_Idea 507 537	caractéristiques histologiques
+T24	PROC 545 556	échographie
+T25	PROC 560 585	étude anatomopathologique
+T26	DISO 613 722	carcinome épithélio-mésenchymateux réno-mandibulaire lobulée infiltrant médullaire monocytoplasmique kystique
+T27	MEAS 732 736	3 cm
+T28	Concept_Idea 740 749	grand axe
+T29	ANAT 781 804	structures glandulaires
+T30	MEAS 828 836	4 x 3 cm
+T31	MEAS 840 847	2×10 cm
+T32	ANAT 876 908	région anévrysmale superficielle
+T33	MEAS 945 952	simples
+T34	DISO 972 1000	métastases hépato-trachéales
+T35	ANAT 983 1000	hépato-trachéales
+T36	ANAT 1019 1037	nerf fémoral droit
+T37	Localization 1032 1037	droit
+T38	ANAT 1066 1086	segments péritonéaux
+T39	DISO 1113 1130	récidive tumorale
+T40	DISO 1140 1165	localisation métastatique
+T41	PROC 1178 1187	chirurgie

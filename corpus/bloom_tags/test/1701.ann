@@ -1,0 +1,24 @@
+T1	PROC 2 25	examen pleuropulmonaire
+T2	ANAT 9 25	pleuropulmonaire
+T3	DISO 42 53	tachycardie
+T4	MEAS 56 70	110 battements
+T5	TEMP 71 81	par minute
+T6	Concept_Idea 87 106	pression artérielle
+T7	ANAT 96 106	artérielle
+T8	MEAS 109 118	90/70mmHg
+T9	PHEN 125 130	pouls
+T10	MEAS 134 148	100 battements
+T11	TEMP 149 160	par minutes
+T12	PROC 165 204	radiographie du membre supérieur gauche
+T13	ANAT 181 204	membre supérieur gauche
+T14	Localization 198 204	gauche
+T15	DISO 216 229	particularité
+T16	PROC 254 270	examen somatique
+T17	DISO 292 355	syndrome d'épanchement péricardique latéro-capico-bronchodilaté
+T19	PROC 360 394	ponction pleurale trans-thoracique
+T20	ANAT 369 394	pleurale trans-thoracique
+T21	PROC 396 399	PTT
+T22	CHEM 418 434	liquide purulent
+T23	DISO 486 502	hyperleucocytose
+T24	DISO 504 516	thrombopénie
+T25	DISO 522 540	anémie métabolique

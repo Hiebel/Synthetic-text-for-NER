@@ -1,0 +1,32 @@
+T1	LIVB 28 35	patient
+T2	DISO 69 98	pancréatite chronique stade E
+T3	Localization 100 110	bilatérale
+T4	DISO 142 172	symptomatologie néphropathique
+T5	DISO 177 203	douleur abdomino-pelvienne
+T6	ANAT 185 203	abdomino-pelvienne
+T7	DISO 209 229	perte de grêlabilité
+T8	PHEN 218 229	grêlabilité
+T9	TEMP 239 259	depuis deux semaines
+T10	LIVB 266 269	son
+T11	PROC 270 279	admission
+T12	Hospital 294 302	hôpitaux
+T13	DISO 334 377	paragangliome ostéo-interstitiel péritonéal
+T14	DISO 382 409	tuberculose pyélocalicielle
+T15	DISO 430 460	troubles hydro-électrolytiques
+T16	DISO 474 498	dépression hypogastrique
+T17	ANAT 485 498	hypogastrique
+T18	DISO 508 520	fistulisante
+T19	TEMP 529 554	plusieurs jours plus tard
+T20	MEAS 564 589	profondément prurigineuse
+T21	MEAS 604 615	progressive
+T22	DISO 648 671	sensibilité intestinale
+T23	ANAT 660 671	intestinale
+T24	DISO 735 773	syndrome d'épanchement intrapéritonéal
+T25	ANAT 758 773	intrapéritonéal
+T26	LIVB 775 779	nous
+T27	PROC 798 832	imagerie par résonnance magnétique
+T28	PROC 834 837	IRM
+T29	PROC 840 872	scanner thoraco-abdomino pelvien
+T30	ANAT 848 872	thoraco-abdomino pelvien
+T31	DISO 888 921	polyradiculonévrite hyperexprimée
+T32	ANAT 945 967	substances grêlitiques

@@ -1,0 +1,23 @@
+T1	LIVB 16 27	jeune femme
+T2	MEAS 36 42	19 ans
+T3	MEAS 99 107	brunâtre
+T4	DISO 120 133	particularité
+T5	PROC 137 152	examen clinique
+T6	DISO 182 215	syndrome d'épanchement péritonéal
+T7	ANAT 205 215	péritonéal
+T8	DISO 249 282	lupus épithélio-gigantocellulaire
+T9	ANAT 296 307	flanc droit
+T10	Localization 302 307	droit
+T11	PROC 312 322	diagnostic
+T12	DISO 370 420	épleurésie purulente cholestatique hypertrophiante
+T13	TEMP 430 444	depuis 3 jours
+T14	DISO 474 508	déficit sensitivo-tomo-kinesthésie
+T15	ANAT 562 575	tube digestif
+T16	PROC 589 634	radiodensitométrie thoraco-abdomino-pelvienne
+T17	ANAT 608 634	thoraco-abdomino-pelvienne
+T18	DISO 681 712	volvulus interstitiel hypodense
+T19	MEAS 722 727	70 mm
+T20	MEAS 732 736	36mm
+T21	Concept_Idea 739 762	échostructure nodulaire
+T22	PROC 779 788	injection
+T23	CHEM 792 800	propofol

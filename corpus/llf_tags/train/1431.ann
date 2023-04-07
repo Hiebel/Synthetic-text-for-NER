@@ -1,0 +1,9 @@
+T1	PROC 3 22	bilan préopératoire
+T2	DISO 36 59	thrombophlébite du foie
+T3	ANAT 55 59	foie
+T4	MEAS 92 99	simples
+T5	LIVB 106 113	patient
+T6	PROC 120 125	sorti
+T7	TEMP 128 130	J2
+T8	PROC 136 146	opératoire
+T9	TEMP 164 168	3ans

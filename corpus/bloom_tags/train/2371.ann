@@ -1,0 +1,25 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	MEAS 73 85	particuliers
+T4	DISO 100 116	syndrome fébrile
+T5	DISO 131 153	douleurs épigastriques
+T6	ANAT 140 153	épigastriques
+T7	PHEN 175 190	acuité visuelle
+T8	DISO 219 227	apyrexie
+T9	TEMP 236 252	depuis 48 heures
+T10	MEAS 276 287	progressive
+T11	MEAS 297 305	brunâtre
+T13	ANAT 395 410	rachis lombaire
+T14	DISO 454 486	processus hypoéchogène hypodense
+T15	MEAS 496 500	6 cm
+T16	Concept_Idea 504 513	grand axe
+T17	MEAS 522 533	environ 5cm
+T18	Concept_Idea 537 546	grand axe
+T19	ANAT 558 602	surrénaux intropariens latéraux superficiels
+T20	DISO 623 646	symptômes neurologiques
+T21	LIVB 664 670	enfant
+T22	DISO 682 708	tumeur ovarienne primitive
+T23	ANAT 689 708	ovarienne primitive
+T24	PROC 713 744	auscultation abdomino-pelvienne
+T25	ANAT 726 744	abdomino-pelvienne
+T26	MEAS 751 758	normale

@@ -1,0 +1,43 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	10 ans
+T3	DISO 64 85	tuberculose purulente
+T4	ANAT 103 125	membre inférieur droit
+T5	Localization 120 125	droit
+T6	MEAS 137 152	progressivement
+T7	Concept_Idea 156 162	volume
+T8	DISO 191 209	détresse digestive
+T9	PHEN 200 209	digestive
+T10	PROC 226 244	traitement médical
+T11	CHEM 255 266	Ceftriaxone
+T12	CHEM 268 279	Pyrazinamid
+T13	CHEM 281 292	Ethionamide
+T14	CHEM 294 305	Cyclosérine
+T15	CHEM 307 313	Vit B6
+T16	CHEM 315 328	Bromopyridine
+T17	CHEM 330 344	Gentaméthasone
+T18	CHEM 346 354	Diazépam
+T19	CHEM 356 383	Triméthoprime-Sulfamoxazole
+T20	CHEM 385 396	Tobramycine
+T21	CHEM 398 408	Isotrupril
+T22	CHEM 410 422	Amoxicilline
+T23	CHEM 424 431	Esmolol
+T24	CHEM 433 445	Rifurosémide
+T25	CHEM 447 459	Nicardiprine
+T26	CHEM 461 475	Chlorpromazine
+T27	CHEM 477 490	Phénobarbital
+T28	CHEM 492 502	Furosémide
+T29	CHEM 504 515	Propranolol
+T30	CHEM 517 525	Aspirine
+T31	CHEM 528 538	Tru-Cutrel
+T32	CHEM 540 551	Clindamycin
+T33	CHEM 553 564	Vinblastine
+T34	CHEM 566 580	Prolavaclinène
+T35	CHEM 582 592	Sufentanil
+T36	DISO 762 782	infection systémique
+T37	ANAT 1035 1058	muscles biceps brachial
+T38	LIVB 1315 1321	enfant
+T39	PROC 1340 1364	chimiothérapie adjuvante
+T40	MEAS 1370 1384	XELOX/4RHZ/4RH
+T41	DOSE 1386 1395	500 mg/m²
+T42	TEMP 1395 1397	/j
+T43	TEMP 1417 1423	6 mois

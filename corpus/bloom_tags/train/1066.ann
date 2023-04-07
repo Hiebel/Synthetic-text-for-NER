@@ -1,0 +1,70 @@
+T1	LIVB 29 37	patiente
+T2	DISO 72 113	douleurs abdomino- pelviennes crépitantes
+T3	ANAT 81 113	abdomino- pelviennes crépitantes
+T4	MEAS 128 139	progressive
+T5	DISO 155 167	métrorragies
+T6	PROC 183 198	hospitalisation
+T7	Hospital 202 217	bloc opératoire
+T8	PROC 221 245	exploration chirurgicale
+T9	PROC 266 290	anesthésie locorégionale
+T10	CHEM 296 307	bupivacaine
+T11	DOSE 309 315	1mg/kg
+T12	MODE 317 330	intraveineuse
+T13	DEVI 335 354	cathéter thoracique
+T14	ANAT 344 354	thoracique
+T15	ANAT 368 376	périnéal
+T16	DISO 397 450	tumeur polypoïde tissulaire lithiasique ostéo-myxoide
+T17	MEAS 459 464	20 cm
+T18	Concept_Idea 467 476	grand axe
+T19	ANAT 493 528	aires ganglionnaires latéroutérines
+T20	PROC 556 565	injection
+T21	CHEM 569 589	produit de contraste
+T22	PROC 693 727	imagerie par résonnance magnétique
+T23	PROC 729 745	IRM encéphalique
+T25	MEAS 948 967	plus hyposignalisés
+T26	LIVB 1244 1252	patiente
+T27	PHEN 1265 1279	réseau veineux
+T28	MEAS 1280 1302	supérieur à 200 ml/min
+T29	ANAT 1326 1362	parties molles cerviculo-thoraciques
+T30	PROC 1470 1484	interrogatoire
+T31	DISO 1509 1531	symptômes fonctionnels
+T32	DISO 1570 1590	fistule parovaginale
+T33	ANAT 1578 1590	parovaginale
+T34	DISO 1601 1626	localisations secondaires
+T35	DISO 1740 1755	ménométrorrhées
+T36	DISO 1772 1802	polynucléaires neutrophiliques
+T37	DISO 1816 1849	syndrome inflammatoire biologique
+T38	PROC 1852 1855	CRP
+T39	MEAS 1857 1864	70 mg/l
+T40	PROC 1866 1881	globules blancs
+T41	MEAS 1883 1891	4600/mm3
+T42	PROC 1893 1904	fibrinogène
+T43	MEAS 1906 1916	2380 ng/ml
+T44	PROC 1919 1938	protéine C réactive
+T45	PROC 1939 1942	CRP
+T46	MEAS 1945 1954	3048 UI/L
+T47	PROC 1961 1985	échographie obstétricale
+T48	ANAT 1973 1985	obstétricale
+T49	DISO 2146 2176	myxofolliculites pléoméningées
+T50	TEMP 2297 2302	24 SA
+T51	TEMP 2306 2311	36 SA
+T53	PROC 2496 2521	césarienne médicamenteuse
+T54	PROC 2642 2666	exploration chirurgicale
+T55	DISO 2701 2757	masse gélatineuse bourgeonnante du plexus brachial droit
+T56	ANAT 2736 2757	plexus brachial droit
+T57	Localization 2752 2757	droit
+T58	MEAS 2767 2772	10 cm
+T59	Concept_Idea 2776 2785	grand axe
+T60	MEAS 2790 2795	13 cm
+T61	Concept_Idea 2799 2808	petit axe
+T62	Concept_Idea 2811 2817	aspect
+T63	MEAS 2818 2832	blanc grisâtre
+T64	DISO 2839 2863	vascularisation profonde
+T65	LIVB 2868 2876	patiente
+T66	PROC 2894 2919	scanner abdomino périnéal
+T67	ANAT 2902 2919	abdomino périnéal
+T68	DISO 2948 2970	localisations nécroses
+T69	DISO 2991 3027	lésion kystique tissulaire hypodense
+T70	CHEM 3055 3075	produit de contraste
+T71	ANAT 3104 3112	épiploon
+T72	DISO 3133 3161	métanéphrine purinocarcinome

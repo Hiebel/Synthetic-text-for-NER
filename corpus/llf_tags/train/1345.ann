@@ -1,0 +1,16 @@
+T1	PROC 2 19	bilan étiologique
+T2	DISO 42 62	hypertriglycéridémie
+T3	Concept_Idea 71 75	taux
+T4	PROC 78 97	hémoglobine glyquée
+T5	MEAS 100 108	4,3 g/dl
+T6	PROC 113 135	dosage de l'isoniazide
+T7	CHEM 125 135	isoniazide
+T9	PROC 180 189	recherche
+T10	LIVB 193 209	myélome multiple
+T11	ANAT 218 242	liquide céphalorachidien
+T12	MEAS 249 257	négative
+T13	PROC 276 294	traitement médical
+T14	DISO 312 333	récidive pathologique
+T15	Concept_Idea 354 375	résultats anatomiques
+T16	DISO 393 408	récidive locale
+T17	Localization 402 408	locale

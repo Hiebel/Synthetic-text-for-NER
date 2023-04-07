@@ -1,0 +1,67 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	9 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 79	particuliers
+T5	PROC 81 86	admis
+T6	Hospital 91 99	urgences
+T7	DISO 109 138	douleurs épigastriques aiguës
+T8	ANAT 118 131	épigastriques
+T9	DISO 155 161	fièvre
+T10	DISO 180 189	symptômes
+T11	Concept_Idea 236 248	état général
+T12	LIVB 250 252	Il
+T13	PROC 275 312	tomodensitométrie abdomino- pelvienne
+T14	ANAT 293 312	abdomino- pelvienne
+T15	DISO 333 384	tumeur du flanc pariéto-pariétale supérieure droite
+T16	ANAT 343 384	flanc pariéto-pariétale supérieure droite
+T17	Localization 378 384	droite
+T18	MEAS 389 393	2 cm
+T19	CHEM 431 451	produit de contraste
+T20	ANAT 468 488	fosse iliaque droite
+T21	Localization 482 488	droite
+T22	MEAS 498 502	13mm
+T23	Concept_Idea 506 515	grand axe
+T24	MEAS 520 524	11mm
+T25	Concept_Idea 528 541	petite taille
+T26	PROC 557 572	examen clinique
+T27	DISO 600 616	signes cliniques
+T28	DISO 642 656	amaigrissement
+T29	DISO 663 701	syndrome d'épanchement intrapéritonéal
+T30	ANAT 686 701	intrapéritonéal
+T31	DISO 712 737	localisations secondaires
+T32	ANAT 752 783	liquide péritentoriel gastrique
+T33	ANAT 794 821	organes génitaux abdominaux
+T34	PHEN 835 855	fonction intestinale
+T35	ANAT 844 855	intestinale
+T36	MEAS 856 863	normale
+T37	PROC 868 898	bilan biologique préopératoire
+T38	DISO 921 937	hyperleucocytose
+T39	PROC 1075 1111	échocardiographies trans-thoraciques
+T40	DISO 1140 1225	thrombose artérielle systulo-interstellaire pariétale inféro-sténosante hypokinétique
+T42	PROC 1283 1308	intervention chirurgicale
+T43	PROC 1329 1353	anesthésie locorégionale
+T44	DOSE 1366 1370	4 ml
+T45	CHEM 1374 1387	céfaméthasone
+T46	DOSE 1389 1395	0,6 mg
+T47	CHEM 1399 1410	paracétamol
+T48	DOSE 1412 1419	1 mg/kg
+T49	CHEM 1423 1436	noradrénaline
+T50	DOSE 1439 1449	100µmol/kg
+T51	CHEM 1453 1464	nicardipril
+T52	MODE 1480 1512	voie intra veineuse périphérique
+T53	DEVI 1542 1585	sonde oeso-gastro-anastomotique bétrachéale
+T55	Concept_Idea 1694 1701	calibre
+T56	MEAS 1713 1718	30 mm
+T57	MEAS 1721 1726	20 mm
+T58	DISO 1749 1764	brèche aortique
+T59	ANAT 1756 1764	aortique
+T60	PROC 1848 1857	chirurgie
+T61	LIVB 1866 1870	bébé
+T62	TEMP 1878 1885	10 mois
+T63	PROC 1948 1979	radiothérapie externe adjuvante
+T64	DISO 2006 2032	lymphangiomateux pururique
+T65	CHEM 2089 2133	hormonothérapie palliative alpha bloquetante
+T66	DISO 2174 2194	lésions lithiasiques
+T67	PROC 2291 2310	médication curative
+T68	PROC 2426 2463	remplissage pleurieux cutanéo-muqueux
+T69	ANAT 2438 2463	pleurieux cutanéo-muqueux

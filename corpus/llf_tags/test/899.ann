@@ -1,0 +1,84 @@
+T1	PROC 4 21	tomodensitométrie
+T2	PROC 23 38	TDM) abdominale
+T3	ANAT 28 38	abdominale
+T4	DISO 52 83	masse tissulaire du flanc droit
+T5	ANAT 72 83	flanc droit
+T6	Localization 78 83	droit
+T7	MEAS 87 92	10 cm
+T8	Concept_Idea 96 105	grand axe
+T9	Concept_Idea 109 118	épaisseur
+T10	MEAS 119 127	variable
+T11	Concept_Idea 139 148	caractère
+T12	DISO 170 236	processus carcinomateux métastasant des hémi-chaines médiastinales
+T13	ANAT 210 236	hémi-chaines médiastinales
+T14	PROC 247 252	coupe
+T15	ANAT 282 316	branches rénales médio-thoraciques
+T16	ANAT 356 372	plan sous cutané
+T17	ANAT 385 405	péritoine thoracique
+T18	PROC 410 430	traitement palliatif
+T19	CHEM 456 485	amoxicilline Acide nifédipine
+T20	MEAS 513 520	négatif
+T21	PROC 548 567	bilan préopératoire
+T22	PROC 574 593	anesthésie générale
+T23	PHEN 626 641	fonction rénale
+T24	ANAT 635 641	rénale
+T25	MEAS 642 650	correcte
+T26	DISO 672 699	détresse respiratoire aiguë
+T27	DISO 703 729	signes neuropsychiatriques
+T28	DISO 733 746	hémorragiques
+T29	DISO 764 789	troubles sensitivomoteurs
+T30	PROC 819 843	laparotomie exploratrice
+T31	PROC 870 886	toilette cutanée
+T32	ANAT 879 886	cutanée
+T33	ANAT 915 947	sinus maxillaire supérieur droit
+T34	Localization 942 947	droit
+T35	DISO 963 983	granulome infiltrant
+T36	ANAT 995 1021	trame iléale superficielle
+T37	DISO 1030 1064	adénocarcinome épidermoïde maligne
+T38	DISO 1073 1124	métastase iléale digestive mésenchymateuse profonde
+T39	ANAT 1083 1124	iléale digestive mésenchymateuse profonde
+T40	ANAT 1153 1171	membranes coliques
+T41	MEAS 1180 1198	bien circonscrites
+T42	MEAS 1223 1227	12mm
+T43	MEAS 1230 1234	11mm
+T44	ANAT 1254 1299	fosse infra temporale supérieure homolatérale
+T45	Localization 1287 1299	homolatérale
+T46	DISO 1336 1376	processus carcinomateux intra péritonéal
+T47	MEAS 1444 1451	simples
+T48	TEMP 1461 1473	octobre 2013
+T49	LIVB 1517 1525	patients
+T50	LIVB 1542 1550	patiente
+T51	DISO 1579 1632	accident vasculaire cervico-thoraco- abdomino-pelvien
+T52	ANAT 1599 1632	cervico-thoraco- abdomino-pelvien
+T53	DEVI 1687 1723	matériels d'ostéosynthèse percutanée
+T54	PROC 1772 1806	prise en charge multidisciplinaire
+T55	PROC 1860 1883	radiothérapie adjuvante
+T57	Hospital 2128 2164	opérateur cardiologique obstétricien
+T59	PROC 2357 2397	programmes extrapyramidaux diagnostiques
+T60	DISO 2503 2535	lésions ischémiques congénitales
+T61	PROC 2553 2577	extirpation chirurgicale
+T62	Concept_Idea 2878 2886	résultat
+T63	MEAS 2892 2909	très satisfaisant
+T64	Concept_Idea 2917 2934	plan psychomoteur
+T65	DISO 2984 3013	symptômes neuropsychiatriques
+T66	Concept_Idea 3098 3110	état général
+T67	PHEN 3139 3165	développement psychomoteur
+T68	DISO 3201 3225	troubles comportementaux
+T69	Concept_Idea 3307 3336	caractères anthropomorphiques
+T70	Concept_Idea 3372 3400	paramètres socio-émotionnels
+T71	DISO 3508 3532	changements fonctionnels
+T72	DISO 3636 3647	traumatisme
+T73	DISO 3662 3686	choc anaphylactique aigu
+T74	LIVB 3768 3780	médecins ORL
+T75	LIVB 3784 3815	psychomotriciens psychiatriques
+T76	DISO 3864 3873	affection
+T77	LIVB 4044 4054	nouveau-né
+T78	PROC 4059 4068	scolarisé
+T79	TEMP 4161 4168	18 mois
+T80	TEMP 4292 4301	24 heures
+T81	TEMP 4305 4312	3 jours
+T82	PROC 4326 4344	séjour hospitalier
+T83	DISO 4509 4543	déplacements asphyxiants néonatals
+T84	DISO 4635 4674	récidives dysfonctionnelles secondaires
+T85	DISO 4704 4726	difficultés parentales
+T86	DISO 4741 4756	maladie mentale

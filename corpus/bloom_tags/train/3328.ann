@@ -1,0 +1,57 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 75	hospitalisée
+T3	DISO 91 102	pathologies
+T4	PROC 130 149	étude rétrospective
+T5	LIVB 151 155	Nous
+T6	PHEN 223 232	grossesse
+T7	PROC 237 243	suivie
+T8	MEAS 254 259	30 SA
+T9	MODE 264 274	voie basse
+T10	DISO 290 313	traumatisme obstétrical
+T11	PROC 318 345	accouchement par voie basse
+T12	Hospital 350 371	urgences pédiatriques
+T13	DISO 388 414	souffrance néonatale aiguë
+T14	PROC 428 449	anesthésie péridurale
+T15	ANAT 439 449	péridurale
+T16	PROC 454 468	interrogatoire
+T17	DISO 521 545	malformation congénitale
+T18	LIVB 567 575	patiente
+T19	LIVB 577 581	elle
+T20	DISO 603 622	syndrome infectieux
+T21	DISO 633 660	particularités neurologique
+T22	DISO 678 708	déficit moteur sensitivomoteur
+T23	PROC 801 836	scanner abdomino périnéal transanal
+T24	ANAT 809 836	abdomino périnéal transanal
+T25	PROC 849 890	dosage de la prothrombine glycoprotéine I
+T26	MEAS 907 915	négatifs
+T27	PROC 925 945	techniques invasives
+T28	DEVI 1025 1040	attelle plâtrée
+T29	DOSE 1049 1062	environ 50 mg
+T30	CHEM 1066 1076	furosémide
+T31	DISO 1115 1128	œdème pelvien
+T32	ANAT 1121 1128	pelvien
+T33	DISO 1205 1250	complications hémorragiques thromboemboliques
+T34	PROC 1315 1359	tomodensitométrie thoraco-abdomino-pelvienne
+T35	ANAT 1333 1359	thoraco-abdomino-pelvienne
+T36	DISO 1388 1433	métastases interstitieles ovariennes bilobées
+T37	ANAT 1399 1433	interstitieles ovariennes bilobées
+T38	ANAT 1462 1483	parenchyme thyroïdien
+T39	ANAT 1504 1518	cavité utérine
+T40	PROC 1539 1548	injection
+T41	CHEM 1552 1572	produit de contraste
+T42	MEAS 1582 1596	hyper intenses
+T43	PROC 1636 1668	curage ganglionnaire biquotidien
+T44	ANAT 1643 1668	ganglionnaire biquotidien
+T45	MEAS 1717 1726	difficile
+T46	Concept_Idea 1778 1787	caractère
+T47	PROC 1833 1866	soins intensifs pério-opératoires
+T48	PROC 1873 1896	radiothérapie adjuvante
+T49	DOSE 1950 1955	10 Gy
+T50	TEMP 2025 2042	tous les 21 jours
+T51	CHEM 2071 2106	anti-inflammatoires anti-coagulants
+T52	CHEM 2131 2144	dexaméthasone
+T53	CHEM 2147 2159	prédnisolone
+T54	CHEM 2162 2174	facufentanil
+T55	LIVB 2193 2200	patient
+T56	Hospital 2215 2230	bloc opératoire
+T57	TEMP 2248 2254	9 mois

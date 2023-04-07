@@ -1,0 +1,41 @@
+T1	LIVB 16 21	femme
+T2	MEAS 68 76	notables
+T3	PROC 78 84	admise
+T4	Hospital 89 97	urgences
+T5	DISO 107 145	douleurs abdominales aiguës purulentes
+T6	ANAT 116 127	abdominales
+T7	TEMP 155 169	depuis 2 jours
+T8	DISO 191 224	syndrome inflammatoire biologique
+T9	MEAS 232 240	100 mg/l
+T10	DISO 243 259	hyperleucocytose
+T11	MEAS 262 280	11000 éléments/mm3
+T12	PROC 284 305	prélèvement biopsique
+T13	PROC 310 330	examen gynécologique
+T14	PHEN 350 363	col menstruel
+T15	MEAS 364 370	normal
+T16	Concept_Idea 373 379	aspect
+T17	MEAS 380 388	régulier
+T18	MEAS 398 403	14 cm
+T19	Concept_Idea 407 416	grand axe
+T20	MEAS 421 425	8 cm
+T21	Concept_Idea 429 438	petit axe
+T22	PROC 461 477	touchers vaginal
+T23	ANAT 470 477	vaginal
+T24	MEAS 529 536	brutale
+T25	DISO 642 664	épanchement péritonéal
+T26	ANAT 654 664	péritonéal
+T27	DISO 675 701	malformations congénitales
+T28	PROC 718 734	examen somatique
+T29	DISO 763 776	particularité
+T30	DISO 794 816	sensibilité ombilicale
+T31	ANAT 806 816	ombilicale
+T32	DISO 823 853	contracture pelvienne biliaire
+T33	ANAT 835 853	pelvienne biliaire
+T34	DISO 877 923	reflux intrapéritonéal péristaltique gastrique
+T35	ANAT 884 923	intrapéritonéal péristaltique gastrique
+T36	PROC 928 958	imagerie par cohérence optique
+T37	PROC 960 982	OCT) cardio-vasculaire
+T38	ANAT 965 982	cardio-vasculaire
+T39	MEAS 1095 1107	déterminante
+T41	ANAT 1211 1233	membre supérieur droit
+T42	Localization 1228 1233	droit

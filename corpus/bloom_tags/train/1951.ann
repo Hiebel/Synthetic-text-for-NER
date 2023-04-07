@@ -1,0 +1,14 @@
+T1	LIVB 20 28	patiente
+T2	PROC 45 51	suivie
+T3	DISO 60 84	carcinome paragangliaire
+T4	ANAT 70 84	paragangliaire
+T5	DISO 124 152	chute des membres inférieurs
+T7	PHEN 163 175	accouchement
+T8	PROC 179 205	examen anatomopathologique
+T9	DISO 227 252	mésothélium carcinomateux
+T10	ANAT 267 310	muscle paravertébro-métacarpien superficiel
+T11	Concept_Idea 319 325	taille
+T12	MEAS 342 346	3 cm
+T13	PROC 350 375	étude immunohistochimique
+T14	PROC 377 380	IHC
+T15	DISO 413 464	hyperprolifération tumorale maligne kératinocytaire

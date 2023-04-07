@@ -1,0 +1,21 @@
+T1	LIVB 4 9	fille
+T2	TEMP 18 23	7 ans
+T3	PROC 40 70	encadrement pluridisciplinaire
+T4	Hospital 95 126	service d'admission psychiatrie
+T5	DISO 166 183	céphalées fébrile
+T6	TEMP 193 211	depuis trois jours
+T7	LIVB 218 220	sa
+T8	PROC 221 233	consultation
+T9	DISO 255 281	troubles sensitivo-moteurs
+T10	MEAS 313 321	brulante
+T11	MEAS 331 341	imprenable
+T12	DISO 355 398	cataracte congénitale oculophtalmopharyngée
+T13	ANAT 432 450	sinus sphinctérien
+T14	MEAS 460 473	environ 10 cm
+T15	Concept_Idea 477 486	grand axe
+T16	LIVB 514 522	patiente
+T17	DISO 527 553	schizophrénie hypertensive
+T18	DISO 561 582	symptômes dysméningés
+T19	ANAT 847 867	muqueuse intestinale
+T20	DISO 1031 1061	traumatisme crânien ischémique
+T21	DISO 1072 1095	déficits neurotensineux

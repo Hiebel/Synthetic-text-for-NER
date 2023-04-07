@@ -1,0 +1,30 @@
+T1	LIVB 16 21	femme
+T2	Concept_Idea 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 83 93	consultait
+T5	Hospital 98 106	urgences
+T6	DISO 115 148	syndrome d'épanchement péritonéal
+T7	ANAT 138 148	péritonéal
+T8	TEMP 158 174	depuis 48 heures
+T9	MEAS 192 203	progressive
+T10	PROC 207 222	examen clinique
+T11	LIVB 236 244	patiente
+T12	MEAS 248 257	assez bon
+T13	Concept_Idea 258 270	état général
+T14	PHEN 280 301	contractions utérines
+T15	ANAT 293 301	utérines
+T16	MEAS 302 310	modérées
+T17	ANAT 324 335	flux utérin
+T18	PROC 340 377	tomodensitométrie abdomino- pelvienne
+T19	ANAT 358 377	abdomino- pelvienne
+T20	DISO 407 434	adénopathie ovarienne droit
+T21	ANAT 419 434	ovarienne droit
+T22	Localization 429 434	droit
+T23	Concept_Idea 437 443	aspect
+T24	MEAS 444 454	hétérogène
+T25	MEAS 464 468	6 cm
+T26	Concept_Idea 472 481	grand axe
+T27	ANAT 497 514	liquide péritoine
+T28	PROC 537 570	imagerie par résonance magnétique
+T29	PROC 572 575	IRM
+T30	PROC 607 639	techniques d'immunohistochimique

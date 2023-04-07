@@ -1,0 +1,19 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 33 39	16 ans
+T3	Concept_Idea 46 57	antécédents
+T4	MEAS 58 70	particuliers
+T5	DISO 90 101	hématémèses
+T6	PROC 114 130	cholécystectomie
+T7	MEAS 167 174	simples
+T8	PROC 180 206	examen anatomopathologique
+T9	DISO 225 260	carcinome épidermoïde du rein droit
+T10	ANAT 250 260	rein droit
+T11	Localization 255 260	droit
+T12	MEAS 268 274	T4N0Mx
+T13	PROC 279 302	traitement traditionnel
+T14	PROC 312 332	transfusion sanguine
+T15	MODE 337 355	voie intraveineuse
+T16	CHEM 357 371	hydrocortisone
+T17	CHEM 375 406	amoxicilline acide clavulanique
+T18	DISO 418 439	récidive métastatique
+T19	PROC 461 484	radiothérapie adjuvante

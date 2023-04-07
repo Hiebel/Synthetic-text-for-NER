@@ -1,0 +1,53 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	2 ans
+T3	DISO 36 61	antécédents pathologiques
+T4	MEAS 62 70	notables
+T5	PROC 72 76	reçu
+T6	Hospital 81 102	urgences pédiatriques
+T7	DISO 120 141	détresse respiratoire
+T8	DISO 170 184	amaigrissement
+T9	MEAS 195 200	15 kg
+T10	PROC 204 243	auscultation tobacillo-cutanéo-muqueuse
+T11	ANAT 217 243	tobacillo-cutanéo-muqueuse
+T12	PROC 245 249	COTM
+T13	Localization 283 300	faces antérieures
+T14	Localization 304 316	postérieures
+T15	ANAT 323 346	lèvre supérieure gauche
+T16	Localization 340 346	gauche
+T17	DISO 410 430	rhinorrhée purulente
+T18	DISO 444 479	mucocellulose érythémato-sécrétante
+T19	DISO 493 523	polypleurésie bulleuse maligne
+T20	PROC 529 560	échographie abdomino- pelvienne
+T21	ANAT 541 560	abdomino- pelvienne
+T22	DISO 605 631	localisations néoplasiques
+T23	PROC 645 678	fibroscopie oeso-gastro-duodénale
+T24	ANAT 657 678	oeso-gastro-duodénale
+T25	MEAS 705 712	normale
+T26	PROC 725 758	imagerie par résonance magnétique
+T27	PROC 760 780	IRM) cervico-faciale
+T28	ANAT 765 780	cervico-faciale
+T29	LIVB 811 821	nouveau-né
+T30	Localization 906 914	centraux
+T31	MEAS 939 943	6 cm
+T32	MEAS 947 951	4 cm
+T33	PROC 1048 1082	adjonction de produit de contraste
+T35	LIVB 1105 1112	patient
+T36	PROC 1118 1142	anesthésie locorégionale
+T37	DEVI 1181 1192	bandelettes
+T38	DISO 1430 1467	œdème jugulo-carotidien transfixiante
+T39	ANAT 1436 1467	jugulo-carotidien transfixiante
+T40	Concept_Idea 1486 1499	circonférence
+T41	MEAS 1509 1527	massivement altéré
+T42	ANAT 1560 1576	muscles crâniens
+T43	ANAT 1598 1620	membranes cerviculaire
+T44	LIVB 1763 1767	elle
+T45	DISO 1799 1827	symptomatologie tuberculeuse
+T46	DISO 1885 1908	traumatisme traumatique
+T47	DISO 1924 1950	kyste hydatique congénital
+T48	CHEM 2351 2361	furosémide
+T49	PROC 2368 2413	ponctions pleurales médiastinales percutanées
+T50	ANAT 2378 2413	pleurales médiastinales percutanées
+T51	PROC 2492 2519	interventions chirurgicales
+T52	LIVB 2531 2535	elle
+T53	DISO 2616 2647	complications thromboemboliques
+T54	ANAT 2723 2744	cérébro-myélentérique

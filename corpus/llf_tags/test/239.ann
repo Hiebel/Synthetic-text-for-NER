@@ -1,0 +1,59 @@
+T1	LIVB 16 21	fille
+T2	TEMP 30 36	9 mois
+T3	TEMP 78 84	22 ans
+T4	PHEN 125 132	mariage
+T5	PROC 174 210	méthodes contraceptives parentérales
+T6	LIVB 243 247	mère
+T7	LIVB 338 357	confrères maternels
+T8	PROC 363 378	examen clinique
+T9	PROC 411 433	consultation prénatale
+T10	DISO 461 484	grossesse monofoetalite
+T11	Concept_Idea 517 534	état neurologique
+T12	DISO 572 613	dyschromatoplégie congénitale douloureuse
+T13	DISO 666 670	toux
+T14	DISO 740 776	symptomatologie obstétricale maligne
+T15	LIVB 786 792	enfant
+T16	PROC 797 828	bilan étiologique préopératoire
+T17	PROC 839 872	scanner cervico-thoraco-abdominal
+T18	ANAT 847 872	cervico-thoraco-abdominal
+T19	DISO 961 1014	métaplasie médullaire cervicale inférieure bilatérale
+T20	Localization 1004 1014	bilatérale
+T21	DISO 1030 1088	récidive kystique liquidienne périmaxillaire réactionnelle
+T22	ANAT 1105 1120	plan thoracique
+T23	ANAT 1139 1172	paroi postéro-latéro-mandibulaire
+T24	DISO 1196 1254	fistule carotido-céphalique mésentérique rétro péritonéale
+T25	ANAT 1204 1254	carotido-céphalique mésentérique rétro péritonéale
+T26	DISO 1268 1338	neuropathie interstitielle polymyomateuse intracrânienne hypokinétique
+T27	DISO 1357 1397	désorientation temporo-temporo-spontanée
+T28	PROC 1488 1536	laparotomie exploratrice percutanée endoscopique
+T29	DISO 1574 1605	lésion carcinomateuse calcifiée
+T30	MEAS 1615 1619	7 cm
+T31	Concept_Idea 1623 1632	grand axe
+T32	ANAT 1654 1717	parties molles para vertébro-oesophagiennes fémorales centrales
+T33	Concept_Idea 1759 1780	grand axe transversal
+T34	DISO 1804 1846	tuberculose mucocaryoblastique stade ELISA
+T35	DISO 1867 1915	granulomatose érythémato-trachéale inflammatoire
+T36	MEAS 1924 1930	N°2MHz
+T37	Concept_Idea 1987 2011	plan anatomopathologique
+T38	DISO 2016 2032	nodules tumoraux
+T39	LIVB 2244 2250	malade
+T40	PROC 2263 2268	sorti
+T41	PROC 2281 2320	chimiothérapie antibacillaire adjuvante
+T42	CHEM 2322 2332	aminosides
+T43	CHEM 2334 2347	amoxicillines
+T44	CHEM 2349 2367	acide clavulanique
+T45	TEMP 2387 2393	5 mois
+T46	DISO 2443 2459	signes cliniques
+T47	ANAT 2483 2494	flanc droit
+T48	Localization 2489 2494	droit
+T49	MEAS 2535 2543	indolore
+T50	DISO 2559 2570	traumatisme
+T51	DISO 2577 2591	perte auditive
+T52	DISO 2601 2631	accident vasculaire ischémique
+T53	PROC 2644 2677	scanner cervico-thoraco-abdominal
+T54	ANAT 2652 2677	cervico-thoraco-abdominal
+T55	DISO 2722 2745	symptômes neurologiques
+T56	Concept_Idea 2785 2804	aspect histologique
+T57	PHEN 2810 2828	suites opératoires
+T58	MEAS 2837 2844	simples
+T59	PROC 2901 2917	temps opératoire

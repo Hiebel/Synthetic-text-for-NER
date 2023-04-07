@@ -1,0 +1,56 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 100	scanner cervico-thoracique
+T3	ANAT 82 100	cervico-thoracique
+T4	DISO 118 205	lésion kystique hypoéchogéne latéralisée parenchymateuse angulo-pulmonaire systématisée
+T5	ANAT 222 254	parties molles cervicopharyngées
+T6	LIVB 282 290	patiente
+T7	DISO 304 317	pulmonopapule
+T8	DISO 323 357	épanchement péricardique liquidien
+T9	ANAT 335 357	péricardique liquidien
+T10	PROC 363 387	exploration chirurgicale
+T11	DISO 409 435	masse tissulaire hypodense
+T12	MEAS 445 449	14mm
+T13	Concept_Idea 453 462	grand axe
+T14	ANAT 503 530	sinus caverneux thoraciques
+T15	DOSE 570 574	2 ml
+T16	CHEM 578 598	produit de contraste
+T17	PROC 655 685	injection intraveineuse locale
+T18	PROC 698 717	bilan préopératoire
+T19	ANAT 741 759	abdomino pelvienne
+T20	PROC 761 785	scannographie thoracique
+T21	ANAT 775 785	thoracique
+T22	PROC 788 811	radiographie thoracique
+T23	ANAT 801 811	thoracique
+T24	DISO 857 873	signes cliniques
+T25	DISO 900 908	polypnée
+T26	DISO 919 944	troubles sensitivomoteurs
+T27	PROC 961 985	investigations initiales
+T28	PROC 990 1008	traitement curatif
+T29	PROC 1031 1053	chirurgie exploratrice
+T30	PROC 1059 1084	anesthésie loco-régionale
+T31	ANAT 1070 1084	loco-régionale
+T32	PROC 1100 1123	radiothérapie adjuvante
+T33	MODE 1153 1163	voie orale
+T34	DOSE 1235 1246	4 fractions
+T35	DEVI 1248 1274	transfixiateur biplan MIBI
+T36	PROC 1283 1340	curage ganglionnaire ganglionnaire axillaire locorégional
+T37	ANAT 1290 1340	ganglionnaire ganglionnaire axillaire locorégional
+T38	PROC 1436 1479	néphrectomie totale partielle transfixiante
+T39	ANAT 1644 1654	tissulaire
+T40	DISO 1675 1693	schwannome tumoral
+T41	CHEM 1788 1808	produit de contraste
+T42	ANAT 1829 1847	cavité péritonéale
+T43	ANAT 1868 1887	brèche pancréatique
+T44	PROC 1893 1916	pronostic gynécologique
+T45	PROC 1928 1952	thérapeutique palliative
+T46	Concept_Idea 2116 2122	taille
+T47	DISO 2129 2151	localisation nodulaire
+T48	MEAS 2403 2421	multi-cloisonnante
+T49	PROC 2522 2546	méatotumorectomie droite
+T50	Localization 2540 2546	droite
+T51	ANAT 2576 2605	parenchyme xipho-épigastrique
+T52	PROC 2620 2636	pièce opératoire
+T53	PROC 2626 2636	opératoire
+T54	LIVB 2653 2661	patiente
+T55	MEAS 2676 2687	stade IIIBb
+T56	TEMP 2706 2713	18 mois

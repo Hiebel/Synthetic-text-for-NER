@@ -1,0 +1,35 @@
+T1	LIVB 28 35	patient
+T2	DISO 72 111	hypertension artérielle hypertrophiante
+T4	DISO 116 143	dépression thoracique aigue
+T5	ANAT 127 143	thoracique aigue
+T6	TEMP 164 177	depuis 4 mois
+T7	LIVB 184 187	son
+T8	PROC 188 197	admission
+T9	Hospital 201 214	service d'ORL
+T10	Hospital 218 238	CHU Hassan II de Fès
+T11	PROC 297 314	bilan étiologique
+T12	PROC 328 343	étude génétique
+T13	PROC 347 359	radiologique
+T14	PROC 374 403	prélèvements bactériologiques
+T15	MEAS 412 419	normaux
+T16	PROC 424 483	ponction pleurale liquidienne pleuro-pulmonaire lithiasique
+T17	ANAT 433 483	pleurale liquidienne pleuro-pulmonaire lithiasique
+T18	DEVI 497 514	masse pléomélique
+T19	MEAS 524 529	12 cm
+T20	Concept_Idea 532 541	grand axe
+T21	MEAS 543 549	mobile
+T22	MEAS 553 569	multi-cloisonnée
+T23	DISO 586 624	parenchyme thyroïdien hypervascularisé
+T24	DISO 631 658	lymphopéricardite chronique
+T25	LIVB 678 684	enfant
+T26	DISO 702 812	syndrome d'épanchement liquidien intra-parenchymateux basithoracique inféro-latéral périrénal péri-tuberculeux
+T28	DISO 871 898	épanchement intra-gastrique
+T29	ANAT 883 898	intra-gastrique
+T30	DISO 925 953	replissage capsulaire cutané
+T31	ANAT 936 953	capsulaire cutané
+T32	PROC 1034 1061	traitement médical adjuvant
+T33	MODE 1064 1069	bolus
+T34	DOSE 1073 1080	20mg/kg
+T35	TEMP 1082 1100	pendant 8 semaines
+T36	MEAS 1198 1205	majeure
+T37	PROC 1225 1245	prise médicamenteuse

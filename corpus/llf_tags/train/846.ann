@@ -1,0 +1,46 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 33 38	5 ans
+T3	DISO 66 73	diabète
+T4	MEAS 74 80	type 1
+T5	CHEM 86 93	glycine
+T6	PROC 98 110	consultation
+T7	Hospital 115 136	urgences pédiatriques
+T8	DISO 156 176	tumeur du rein droit
+T9	ANAT 166 176	rein droit
+T10	Localization 171 176	droit
+T11	DISO 186 203	nodules polylobés
+T12	Concept_Idea 211 230	aspect histologique
+T13	DISO 253 274	maladies infectieuses
+T14	DISO 289 301	leishmaniose
+T15	DISO 308 323	pneumopéritoine
+T16	PROC 329 357	chimiothérapie néo adjuvante
+T17	MODE 362 372	voie orale
+T18	PROC 386 417	radio-chimiothérapie palliative
+T19	CHEM 452 465	antibiotiques
+T20	CHEM 477 506	triméthoprimesulfaméthoxazole
+T21	DOSE 508 514	100 mg
+T22	TEMP 514 516	/j
+T23	CHEM 519 530	rifampicine
+T24	DOSE 532 537	20 mg
+T25	TEMP 537 539	/j
+T26	CHEM 544 553	imipenème
+T27	DOSE 555 562	1mg /kg
+T28	TEMP 562 564	/j
+T29	PHEN 571 589	suites opératoires
+T30	MEAS 598 605	simples
+T31	Hospital 655 704	Centre Hospitalier Universitaire Sylvanus Olympio
+T32	PROC 729 775	néphrectomie totale endoscopique scanno-guidée
+T33	PROC 815 825	césarienne
+T34	PROC 829 853	exploration chirurgicale
+T35	DISO 875 896	récidive pathologique
+T36	DISO 900 909	métastase
+T37	DISO 936 973	remaniements lésionnels métastasiques
+T38	DISO 983 1005	anomalie morphologique
+T39	DISO 1032 1058	maladie cœliaque primitive
+T40	PROC 1063 1102	bilan étiologique préopératoire complet
+T41	DISO 1137 1166	symptômes neuropsychiatriques
+T42	PROC 1237 1257	suivi postopératoire
+T43	DISO 1274 1298	trouble sensitivo-moteur
+T44	Concept_Idea 1327 1354	circonstantes chirurgicales
+T45	DISO 1370 1420	thrombopharyngiome séreux érythémato-conjonctivite
+T46	LIVB 1435 1443	patients

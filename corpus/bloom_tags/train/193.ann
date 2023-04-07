@@ -1,0 +1,30 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	DISO 42 67	antécédents pathologiques
+T4	MEAS 68 80	particuliers
+T5	PROC 82 87	admis
+T6	Hospital 92 100	urgences
+T7	DISO 110 136	douleurs pelviennes aiguës
+T8	ANAT 119 129	pelviennes
+T9	DISO 153 159	fièvre
+T10	PROC 176 191	examen clinique
+T11	LIVB 208 214	enfant
+T12	MEAS 218 221	bon
+T13	Concept_Idea 222 234	état général
+T14	DISO 258 286	masse gynéculo-péristaltique
+T15	ANAT 300 310	col utérin
+T16	MEAS 319 323	2 cm
+T17	Concept_Idea 327 336	grand axe
+T18	MEAS 349 361	environ 5 cm
+T19	Concept_Idea 365 378	petite taille
+T20	PROC 383 402	bilan immunologique
+T21	MEAS 409 416	positif
+T22	PROC 429 458	anticorps antithyroperoxydase
+T23	PROC 460 463	TSP
+T24	PROC 470 501	échographie abdomino- pelvienne
+T25	ANAT 482 501	abdomino- pelvienne
+T26	DISO 533 584	masse tissulaire hypo échogéne hétérogène hypodense
+T27	ANAT 600 605	grêle
+T28	ANAT 626 645	veine rénale droite
+T29	Localization 639 645	droite
+T30	ANAT 660 678	organes hépatiques

@@ -1,0 +1,93 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 77	particuliers
+T4	PROC 79 84	Admis
+T5	Hospital 88 108	service des urgences
+T6	DISO 118 157	douleur à la paupière inférieure gauche
+T7	ANAT 131 157	paupière inférieure gauche
+T8	Localization 151 157	gauche
+T9	Concept_Idea 202 214	état général
+T10	Concept_Idea 236 254	état hémodynamique
+T11	DISO 275 279	toux
+T12	MEAS 280 285	sèche
+T13	CHEM 306 325	anti-inflammatoires
+T14	CHEM 336 351	fluoroquinolone
+T15	DOSE 353 358	20 mg
+T16	TEMP 358 360	/j
+T17	CHEM 363 375	pyrazinamide
+T18	DOSE 377 382	30 mg
+T19	TEMP 382 384	/j
+T20	CHEM 389 397	fentanyl
+T21	DOSE 399 404	50 mg
+T22	TEMP 404 406	/j
+T23	PROC 413 422	admission
+T24	PHEN 426 442	transit du grêle
+T25	ANAT 437 442	grêle
+T26	MEAS 449 459	légèrement
+T27	DISO 460 470	tachycarde
+T28	MEAS 473 487	115 battements
+T29	TEMP 488 498	par minute
+T30	DISO 519 540	trouble de conscience
+T31	DISO 547 570	déficit sensitivomoteur
+T32	PROC 574 589	examen clinique
+T33	DISO 615 643	symptomatologie neurologique
+T34	DISO 665 685	syndrome cérébelleux
+T35	PROC 749 765	examen somatique
+T36	DISO 775 784	anomalies
+T37	DISO 802 811	céphalées
+T38	DISO 818 829	vomissement
+T39	PROC 833 855	électroencéphalogramme
+T40	PROC 869 900	automes électrocardiographiques
+T41	DEVI 921 942	appareils électriques
+T42	DISO 1032 1054	battements subsoniques
+T43	MEAS 1113 1119	75 cpm
+T44	PROC 1148 1160	mammographie
+T45	Hospital 1174 1195	urgences pédiatriques
+T46	DISO 1216 1262	distension abdomino-oculno-cervicale ectopique
+T47	ANAT 1227 1262	abdomino-oculno-cervicale ectopique
+T48	MEAS 1272 1277	14 cm
+T49	MEAS 1280 1284	5 cm
+T50	DISO 1342 1370	bruits hydro-électrolytiques
+T51	PROC 1390 1402	consultation
+T52	LIVB 1441 1448	malades
+T53	LIVB 1477 1485	familles
+T54	DISO 1598 1627	manifestations psychomotrices
+T55	PROC 1655 1676	ventilation mécanique
+T56	PROC 1803 1828	intervention chirurgicale
+T57	PROC 1842 1862	hystérectomie totale
+T58	DISO 1960 1983	tuberculose infectieuse
+T59	DISO 1989 2013	Bacteroides tuberculosis
+T60	ANAT 2743 2758	voies biliaires
+T61	MEAS 2761 2771	0,2 mmol/l
+T62	Concept_Idea 2778 2787	caractère
+T63	TEMP 2788 2795	anormal
+T64	ANAT 2799 2810	rein gauche
+T65	Localization 2804 2810	gauche
+T66	Concept_Idea 2832 2844	état général
+T67	DISO 2854 2871	signes infectieux
+T68	DISO 2891 2897	fièvre
+T69	MEAS 2909 2914	37 °c
+T70	DISO 2987 3002	symptomatologie
+T71	PROC 3006 3021	examen clinique
+T73	TEMP 3156 3169	deux semaines
+T74	PROC 3174 3183	admission
+T75	Hospital 3188 3209	urgences pédiatriques
+T76	DISO 3225 3265	complications neuropsychiatriques aiguës
+T77	DISO 3279 3301	éléments pathologiques
+T78	DEVI 3393 3443	cathéter artériel intraveineux portatif électrique
+T79	PROC 3473 3509	prise en charge médicale ambulatoire
+T80	PROC 3543 3579	kinésithérapie motrice préopératoire
+T81	PROC 3600 3617	scanner abdominal
+T82	ANAT 3608 3617	abdominal
+T83	DISO 3657 3683	masse tissulaire polylobée
+T84	MEAS 3692 3696	7 cm
+T85	Concept_Idea 3700 3720	grand axe transverse
+T86	ANAT 3738 3754	pédicule vésical
+T87	MEAS 3764 3768	6 cm
+T88	Concept_Idea 3772 3793	petit axe transversal
+T89	ANAT 3829 3856	fibres musculo-tendonnelles
+T90	MEAS 3983 3987	3 cm
+T91	Concept_Idea 3991 4027	 grand axe longitudinale asymétrique
+T92	ANAT 4121 4137	parois digestive
+T93	DISO 4283 4325	vascularite cervico-thoracique congénitale
+T94	DISO 4341 4437	tumeur métastatique scapulo-pseudo vertébro-basilicale fistulosaédrique infiltreptocytoplasmique

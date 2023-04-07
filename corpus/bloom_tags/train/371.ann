@@ -1,0 +1,55 @@
+T1	LIVB 29 37	patiente
+T2	Hospital 77 100	urgences psychiatriques
+T3	MEAS 149 161	progressante
+T4	MEAS 258 269	permanentes
+T5	LIVB 368 377	patientes
+T6	DISO 500 524	chirurgie oculocérébrale
+T7	DISO 537 577	traumatologies ischémato-interstellantes
+T8	PROC 646 665	bilan préopératoire
+T9	PROC 681 698	ponction pleurale
+T10	ANAT 690 698	pleurale
+T11	PROC 705 742	curage pleuralo-péricardique infarcté
+T12	ANAT 712 742	pleuralo-péricardique infarcté
+T13	PROC 757 781	intubation oeso-tracheal
+T14	ANAT 768 781	oeso-tracheal
+T15	DISO 817 844	effractions médiastiniennes
+T16	ANAT 829 844	médiastiniennes
+T17	DISO 995 1063	syndrome d’épanchement pulmonaire liquidien basithoracique sécrétant
+T19	DISO 1106 1131	atteinte vasculo-nerveuse
+T20	ANAT 1115 1131	vasculo-nerveuse
+T21	ANAT 1152 1179	polynucléaires neutrophiles
+T22	DISO 1297 1334	néphropathie métabolique hypertensive
+T23	DISO 1539 1566	empyème thoracique infiltré
+T24	ANAT 1547 1566	thoracique infiltré
+T25	PROC 1636 1664	investigations diagnostiques
+T26	PROC 1686 1714	imagerie tomodensitométrique
+T27	PROC 1715 1718	IRM
+T28	PROC 1737 1764	reprise anesthésique locale
+T29	DISO 1786 1805	symptômes cliniques
+T30	DISO 1821 1851	troubles sensitivospinctoriaux
+T31	DISO 1923 1945	myalgies prurigineuses
+T32	DISO 1982 2012	céphalées bulleuses fébuleuses
+T33	DISO 2027 2048	détresse respiratoire
+T34	Concept_Idea 2086 2089	âge
+T35	TEMP 2093 2098	4 ans
+T36	LIVB 2103 2111	patiente
+T37	ANAT 2136 2158	membre inférieur droit
+T38	Localization 2153 2158	droit
+T39	DISO 2162 2183	œdème cutanéo-muqueux
+T40	TEMP 2204 2217	depuis 3 mois
+T41	MEAS 2230 2241	prurigineux
+T42	DISO 2266 2278	vomissements
+T43	DISO 2285 2291	sueurs
+T44	PROC 2295 2310	examen clinique
+T45	DISO 2331 2345	lésion ulcérée
+T46	MEAS 2354 2358	2 cm
+T47	Concept_Idea 2362 2371	grand axe
+T48	MEAS 2381 2384	1cm
+T49	Concept_Idea 2388 2396	diamètre
+T50	MEAS 2398 2406	indolore
+T51	PHEN 2419 2430	rythmatique
+T52	MEAS 2455 2464	lentement
+T53	Concept_Idea 2468 2474	volume
+T54	Concept_Idea 2484 2487	âge
+T55	TEMP 2491 2496	un an
+T56	DISO 2519 2560	fistule purulent érythémato-néphrologique

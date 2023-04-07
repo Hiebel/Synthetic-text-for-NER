@@ -1,0 +1,38 @@
+T1	LIVB 15 20	homme
+T2	PHEN 58 78	grossesse gémellaire
+T3	DISO 118 146	douleurs abdomino-pelviennes
+T4	ANAT 127 146	abdomino-pelviennes
+T5	DISO 152 164	vomissements
+T6	DISO 168 180	métrorragies
+T7	PROC 186 201	examen clinique
+T8	LIVB 205 212	patient
+T9	DISO 223 249	sensibilité du flanc droit
+T10	ANAT 238 249	flanc droit
+T11	Localization 244 249	droit
+T12	TEMP 259 273	depuis 7 jours
+T13	PROC 305 313	biologie
+T14	PROC 315 342	numération formule sanguine
+T15	PROC 344 363	hémoglobine glyquée
+T16	MEAS 371 377	élevée
+T17	MEAS 380 388	12,2g/dl
+T18	MEAS 440 444	1 kg
+T19	MEAS 449 455	0,7 cm
+T20	Concept_Idea 458 464	aspect
+T21	MEAS 465 476	normotendue
+T22	DEVI 496 524	prothèse menstruelle plâtrée
+T23	DISO 587 619	kystopathie congénitale kystique
+T24	PROC 651 672	cystoscopie digestive
+T25	PROC 679 698	curage pleuruculeux
+T26	ANAT 686 698	pleuruculeux
+T27	PROC 721 745	échographie obstétricale
+T28	ANAT 733 745	obstétricale
+T29	MEAS 810 835	difficilement réalisables
+T30	PROC 884 906	chirurgie obstétricale
+T31	PROC 933 965	scanner pelvien transoesophagien
+T32	ANAT 941 965	pelvien transoesophagien
+T33	DISO 996 1127	masse tissulaire hypodense hétérogène mal systématisée hypo échogène rétro péritonéale latéro-surrénalienne postérieure lithiasique
+T34	ANAT 1148 1167	parois intestinales
+T35	ANAT 1193 1216	artère hépatique caudée
+T36	ANAT 1235 1263	sinus iléo-gastro œsophagien
+T37	ANAT 1316 1341	intrapéritonéal liquidien
+T38	DISO 1414 1446	hypersignal iso-intense infiltré

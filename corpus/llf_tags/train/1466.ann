@@ -1,0 +1,8 @@
+T1	LIVB 3 10	patient
+T2	PROC 26 47	traitement antalgique
+T3	CHEM 37 47	antalgique
+T4	DOSE 60 63	1 g
+T5	TEMP 63 68	/jour
+T6	Concept_Idea 118 145	résultat neuropsychiatrique
+T7	DISO 170 200	troubles hydro-électrolytiques
+T8	TEMP 226 232	6 mois

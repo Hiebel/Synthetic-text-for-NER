@@ -1,0 +1,40 @@
+T1	LIVB 3 10	patient
+T2	PROC 62 73	hospitalisé
+T3	Hospital 78 86	urgences
+T4	DISO 112 143	accident ischémique hypertensif
+T5	ANAT 159 193	artère céphalo-carotidienne droite
+T6	Localization 187 193	droite
+T7	PROC 197 219	examen ophtalmologique
+T8	DISO 236 292	cataracte congénitale symétrique asymétrique hypotensive
+T9	TEMP 302 316	depuis 3 jours
+T10	Concept_Idea 352 364	état général
+T11	PROC 368 389	auscultation clinique
+T12	DISO 416 433	dyspnée angineuse
+T13	DISO 435 449	tachycardiaque
+T14	MEAS 452 473	100 battements/minute
+T15	DEVI 479 511	ventilation artificielle plâtrée
+T16	DISO 549 580	souffrance pulmonaire hypoxique
+T17	ANAT 560 580	pulmonaire hypoxique
+T18	MEAS 596 617	lentement progressive
+T19	LIVB 639 645	enfant
+T20	DISO 664 699	syndrome d'épanchement péricardique
+T21	ANAT 687 699	péricardique
+T22	Concept_Idea 706 715	abondance
+T23	MEAS 726 734	3 litres
+T24	DISO 749 768	distension aortique
+T25	ANAT 760 768	aortique
+T26	MEAS 804 814	rapidement
+T27	Concept_Idea 818 824	volume
+T28	MEAS 834 842	violacée
+T29	MEAS 865 884	légèrement sensible
+T30	MEAS 894 898	5 cm
+T31	Concept_Idea 902 911	grand axe
+T32	DISO 1014 1051	maladie thromboembolique prurigineuse
+T33	DISO 1061 1076	symptomatologie
+T34	DISO 1103 1149	atteinte vasculo-cyto-nerveux sensitivomotrice
+T35	ANAT 1112 1149	vasculo-cyto-nerveux sensitivomotrice
+T36	DISO 1173 1184	tuméfaction
+T37	MEAS 1196 1211	progressivement
+T38	Concept_Idea 1215 1221	taille
+T39	MEAS 1248 1253	10 cm
+T40	Concept_Idea 1257 1266	grand axe

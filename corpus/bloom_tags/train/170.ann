@@ -1,0 +1,41 @@
+T1	LIVB 16 24	patiente
+T2	TEMP 58 62	2012
+T3	DISO 66 161	syndrome d'épanchement intra-parenchymateux du surrénalien parathyroïdien laryngéo-épigastrique
+T5	ANAT 113 161	surrénalien parathyroïdien laryngéo-épigastrique
+T6	TEMP 171 184	depuis 3 mois
+T7	DISO 197 206	anomalies
+T8	PROC 220 235	examen clinique
+T9	Concept_Idea 255 273	tension artérielle
+T10	ANAT 263 273	artérielle
+T11	MEAS 286 297	110/75 mmHg
+T12	DISO 324 349	insuffisance respiratoire
+T13	PHEN 337 349	respiratoire
+T14	CHEM 363 376	noradrenaline
+T15	DISO 443 500	douleurs thoraciques cervico-bronchiques constrictivantes
+T17	MEAS 516 531	progressivement
+T18	Concept_Idea 535 541	taille
+T19	DISO 558 564	sueurs
+T20	MEAS 565 573	profuses
+T21	MODE 587 592	bolus
+T22	DOSE 596 601	10 mg
+T23	CHEM 605 614	midazolam
+T24	MEAS 654 661	intense
+T25	MEAS 673 692	de façon insidieuse
+T26	Concept_Idea 696 702	volume
+T27	DISO 739 754	défense cutanée
+T28	ANAT 747 754	cutanée
+T29	DISO 761 782	détresse respiratoire
+T30	PHEN 770 782	respiratoire
+T31	DISO 792 814	troubles respiratoires
+T32	LIVB 847 855	patiente
+T33	DISO 936 968	épanchement axillaire péritonéal
+T34	ANAT 948 968	axillaire péritonéal
+T35	PROC 976 988	diagnostiqué
+T36	DISO 1011 1020	symptômes
+T37	DISO 1055 1107	polyarthrite fébrile prurigineuse bulleuse purulente
+T38	PROC 1126 1144	mariage consanguin
+T39	MEAS 1154 1164	1 er degré
+T40	DISO 1199 1234	maladie thromboembolique systémique
+T41	PROC 1247 1277	traitement médical substitutif
+T42	CHEM 1288 1298	furosémide
+T43	CHEM 1299 1310	Ceftriaxone

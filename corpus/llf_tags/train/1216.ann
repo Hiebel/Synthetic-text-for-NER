@@ -1,0 +1,50 @@
+T1	LIVB 14 21	Mme Z.F
+T2	MEAS 46 47	3
+T3	LIVB 48 55	enfants
+T4	LIVB 157 163	malade
+T5	PROC 178 205	corticothérapie substitutif
+T6	LIVB 290 293	son
+T7	LIVB 294 300	épouse
+T8	LIVB 328 331	Son
+T9	LIVB 332 342	nouveau-né
+T10	PROC 370 392	consultation prénatale
+T11	DISO 459 500	troubles neuropsychiatriques psychotiques
+T12	LIVB 533 537	Elle
+T13	PROC 562 608	radiotransfusion endotrachéale B12 parentérale
+T14	PROC 648 666	bithérapie motrice
+T15	PROC 697 726	stérnotourcéïnectomie médiane
+T16	Localization 719 726	médiane
+T19	Concept_Idea 1323 1350	rapport anatomopathologique
+T20	PROC 1420 1442	traitement chirurgical
+T21	LIVB 1450 1458	patiente
+T22	Concept_Idea 1482 1491	principes
+T23	PHEN 1504 1556	ouverture du nerf laryngé supérieur inférieur fléchi
+T25	Localization 1540 1549	inférieur
+T26	ANAT 1576 1631	doigts buccaux cricothyroïdiens intracrânio-thyroïdiens
+T27	DEVI 1665 1673	manucure
+T28	PROC 1696 1729	antibioprophylaxie prophylactique
+T29	CHEM 1731 1743	amoxicilline
+T30	CHEM 1746 1769	aminosides cyanhydrates
+T31	PROC 1784 1813	kinésithérapie postopératoire
+T32	DISO 1867 1875	problème
+T33	DISO 1879 1893	perte de poids
+T34	DISO 1903 1922	symptôme infectieux
+T35	Hospital 1934 1943	structure
+T36	LIVB 1970 1980	nourrisson
+T37	TEMP 1988 1995	16 mois
+T38	LIVB 2153 2166	père maternel
+T39	LIVB 2174 2176	sa
+T40	LIVB 2177 2190	belle-famille
+T41	TEMP 2216 2223	21 mois
+T42	PROC 2254 2278	chimiothérapie adjuvante
+T43	CHEM 2284 2301	immunosuppresseur
+T44	PROC 2316 2363	méthotrexate aminotransfusion scleroanalgésique
+T45	DOSE 2364 2372	50 mg/Kg
+T46	PROC 2388 2427	anticoagulation périmétronidazole iodée
+T47	PROC 2442 2467	hyperglycémie sublinguale
+T48	DISO 2542 2566	déficit sensitivo-moteur
+T49	DISO 2583 2610	psychose maniaco-dépressive
+T50	DISO 2627 2651	symptomatologie clinique
+T51	TEMP 2664 2679	1 an auparavant
+T52	DISO 2777 2783	fièvre
+T53	DISO 2854 2866	pancytopénie

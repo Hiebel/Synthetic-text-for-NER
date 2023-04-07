@@ -1,0 +1,31 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	3 ans
+T3	Hospital 58 79	urgences pédiatriques
+T4	DISO 98 117	amaigrissement aigu
+T5	MEAS 128 133	20 kg
+T6	DOSE 135 142	15kg/kg
+T7	DISO 145 166	détresse respiratoire
+T8	PHEN 154 166	respiratoire
+T9	DISO 168 174	fièvre
+T10	MEAS 198 202	39°C
+T11	PROC 207 237	auscultation pleuro-pulmonaire
+T12	ANAT 220 237	pleuro-pulmonaire
+T13	DISO 259 321	syndrome d'épanchement basithoracique basithoracique infarctus
+T15	DISO 331 354	souffrance médiastinale
+T16	ANAT 342 354	médiastinale
+T17	TEMP 364 377	depuis 3 mois
+T18	PROC 382 412	bilan biologique préopératoire
+T19	PROC 426 442	hyperleucocytose
+T20	MEAS 445 454	12 000/uL
+T21	PROC 470 473	CRP
+T22	MEAS 485 491	6 mg/l
+T23	PROC 504 522	taux de plaquettes
+T24	MEAS 535 556	75000 leucocytes /mm³
+T25	PROC 562 606	tomodensitométrie thoraco-abdomino-pelvienne
+T26	ANAT 580 606	thoraco-abdomino-pelvienne
+T27	PROC 639 661	diagnostic étiologique
+T30	Localization 727 737	bilatérale
+T31	Localization 779 782	sus
+T32	MEAS 825 830	32 cm
+T33	MEAS 833 837	22cm
+T34	PROC 863 890	angioscanner angiographique

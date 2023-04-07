@@ -1,0 +1,27 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	MEAS 70 77	3 degré
+T4	DISO 109 118	épilepsie
+T5	PROC 124 142	traitement médical
+T6	CHEM 153 171	méthylprednisolone
+T8	TEMP 202 208	14 ans
+T9	CHEM 224 238	hydrocortisone
+T10	DOSE 239 247	0,5mg/kg
+T11	TEMP 248 266	pendant 4 semaines
+T12	LIVB 273 276	son
+T13	PROC 277 286	admission
+T14	Hospital 291 312	urgences pédiatriques
+T15	PROC 317 333	examen somatique
+T16	DISO 358 375	souffrance rénale
+T17	ANAT 369 375	rénale
+T18	DISO 385 394	anomalies
+T19	PROC 408 438	échographie abdomino-pelvienne
+T20	ANAT 420 438	abdomino-pelvienne
+T21	MEAS 445 452	normale
+T22	PROC 474 494	biopsie exploratrice
+T23	PROC 515 539	scanner abdomino-pelvien
+T24	ANAT 523 539	abdomino-pelvien
+T25	LIVB 559 570	jeune fille
+T26	DISO 598 611	particularité
+T27	PROC 624 645	kystoscopie ovarienne
+T28	ANAT 636 645	ovarienne

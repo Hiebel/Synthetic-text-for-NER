@@ -1,0 +1,35 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	DISO 40 65	antécédents pathologiques
+T4	MEAS 66 74	notables
+T5	DISO 91 118	hyperparathyroïdie primaire
+T6	PROC 123 147	bilan biologique initial
+T7	PHEN 167 186	insuffisance rénale
+T8	ANAT 180 186	rénale
+T9	CHEM 197 217	hydroxy-cholestérone
+T10	DOSE 219 226	10mg/kg
+T11	TEMP 226 232	/ jour
+T12	CHEM 245 262	prédnisyl méthyle
+T13	DOSE 263 272	0,5 mg/kg
+T14	TEMP 272 274	/j
+T15	Concept_Idea 311 331	clinico-radiologique
+T16	TEMP 341 357	depuis deux mois
+T17	LIVB 378 385	famille
+T18	MEAS 455 464	brunâtres
+T19	MEAS 481 496	progressivement
+T20	PROC 564 587	explorations somatiques
+T21	LIVB 597 601	elle
+T22	DISO 629 644	symptomatologie
+T23	DISO 738 751	consanguinité
+T24	LIVB 760 767	famille
+T25	DISO 790 799	symptômes
+T26	Concept_Idea 832 840	devolume
+T27	MEAS 854 862	violacés
+T28	DISO 889 911	méningo-œdème purulent
+T29	DISO 930 948	hémiplégie flasque
+T30	MEAS 963 969	rapide
+T31	DEVI 1061 1083	technique chirurgicale
+T32	PROC 1089 1110	radiographie standard
+T34	MODE 1288 1297	injection
+T35	CHEM 1301 1326	produit de contraste iodé
+T36	Localization 1349 1363	partie moyenne

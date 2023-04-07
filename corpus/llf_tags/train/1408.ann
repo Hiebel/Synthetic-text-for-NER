@@ -1,0 +1,52 @@
+T1	DISO 68 92	constipations chroniques
+T2	TEMP 102 116	depuis 20 mois
+T3	PROC 165 200	traitements antibiotique classiques
+T4	CHEM 177 189	antibiotique
+T5	CHEM 226 240	sulfaméthasone
+T6	CHEM 250 271	nitrolatylphosphonate
+T7	PROC 296 307	hospitalisé
+T8	LIVB 316 323	patient
+T9	DISO 349 366	épisodes fébriles
+T10	PROC 457 472	examen clinique
+T11	LIVB 493 499	enfant
+T12	DISO 504 514	dyspnéique
+T13	PROC 1748 1770	biopsies endoscopiques
+T14	DISO 1815 1836	détresse respiratoire
+T15	PHEN 1824 1836	respiratoire
+T16	MEAS 1938 1950	particuliers
+T17	Concept_Idea 2050 2080	nature adjuvante hémodynamique
+T18	DISO 2201 2243	complication infectieuse du pédicule rénal
+T19	ANAT 2229 2243	pédicule rénal
+T20	PROC 2249 2302	cholangiographie des glandes salivaires périphériques
+T21	ANAT 2270 2302	glandes salivaires périphériques
+T22	PROC 2325 2364	tomodensitométrie par cohérence optique
+T23	PROC 2366 2380	TDM) cérébrale
+T24	ANAT 2371 2380	cérébrale
+T25	Concept_Idea 2404 2432	résultat anatomopathologique
+T26	PROC 2446 2456	diagnostic
+T27	DISO 2481 2522	lymphœdème épidermoïde achromique maligne
+T28	DISO 2560 2594	épanchement liquidien péricardique
+T29	DISO 2607 2641	foyers lésionnels pathognomoniques
+T30	DISO 2651 2670	lésions secondaires
+T31	PROC 2686 2698	intervention
+T32	LIVB 2703 2711	patiente
+T33	Hospital 2734 2755	urgences pédiatriques
+T34	TEMP 2759 2788	troisième jour postopératoire
+T35	PROC 2807 2822	soins intensifs
+T36	PROC 2828 2851	traitement antibiotique
+T37	CHEM 2839 2851	antibiotique
+T38	CHEM 2857 2868	ceftriaxone
+T39	CHEM 2871 2885	amoxifloxacine
+T40	CHEM 2887 2901	bêtalactamines
+T41	PROC 2915 2940	néphrostomie exploratrice
+T42	PROC 2953 2973	avis ophtalmologique
+T43	DISO 2987 3008	anomalie histologique
+T44	PROC 3042 3062	séance préopératoire
+T45	PROC 3097 3131	prise en charge neuropsychiatrique
+T46	Localization 3171 3175	yeux
+T47	DISO 3235 3291	confusions érythémato-trachéales prurigineuses cervicale
+T48	LIVB 3316 3326	nouveau-né
+T49	DISO 3336 3395	récepteurs immunohistochimiques tumoraux métastasophéliques
+T50	Concept_Idea 3435 3462	aspect clinico-radiologique
+T51	PROC 3495 3530	étude cytobactériologique génétique
+T52	Concept_Idea 3559 3580	caractère génotypique

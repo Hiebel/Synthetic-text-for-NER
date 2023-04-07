@@ -1,0 +1,24 @@
+T1	LIVB 29 37	patiente
+T2	DISO 71 92	hémodialyse chronique
+T3	DEVI 98 114	bandage urinaire
+T4	ANAT 106 114	urinaire
+T5	TEMP 124 135	depuis 3ans
+T6	DISO 170 190	syndrome d'épistaxis
+T7	PROC 217 242	intervention chirurgicale
+T8	DISO 359 381	détresse surrénalienne
+T10	PROC 409 471	tomodensitométrie scanno-céphalo-mandibulaire trans-thoracique
+T11	DISO 510 535	localisations secondaires
+T12	DISO 553 586	défense artério-veineuse biliaire
+T13	ANAT 561 586	artério-veineuse biliaire
+T14	DISO 596 621	envahissement placentaire
+T15	ANAT 610 621	placentaire
+T16	PROC 795 819	diagnostic préopératoire
+T17	DISO 841 873	ampulloblastome angiosuppresseur
+T18	MEAS 913 927	bradycardieuse
+T19	DISO 929 935	fièvre
+T20	MEAS 947 952	40°8C
+T21	PROC 970 986	examen somatique
+T22	PROC 999 1021	bilan phospho calcique
+T23	MEAS 1029 1035	normal
+T24	PROC 1050 1082	radiographie thoracique standard
+T25	ANAT 1063 1082	thoracique standard

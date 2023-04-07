@@ -1,0 +1,78 @@
+T1	LIVB 20 25	femme
+T2	DISO 37 47	primigeste
+T3	ANAT 63 69	utérus
+T4	PROC 74 79	palpé
+T5	PROC 84 104	examen gynécologique
+T6	PROC 111 128	bilan d'extension
+T7	MEAS 135 142	négatif
+T8	PROC 146 170	exploration chirurgicale
+T9	Concept_Idea 196 202	aspect
+T10	DISO 223 265	métastase nécrose des vésicules ovariennes
+T11	ANAT 245 265	vésicules ovariennes
+T12	DISO 278 287	anomalies
+T13	PROC 293 316	radiothérapie adjuvante
+T14	PROC 351 365	chimiothérapie
+T15	TEMP 367 377	Trois mois
+T16	PROC 394 412	traitement curatif
+T17	DOSE 414 419	60 Gy
+T18	LIVB 422 426	elle
+T19	DISO 448 457	symptômes
+T20	PHEN 467 488	contractions utérines
+T21	ANAT 480 488	utérines
+T22	MEAS 502 517	progressivement
+T23	MEAS 557 570	plus marquées
+T24	LIVB 610 614	elle
+T25	DISO 664 706	maladie thromboembolique veineuse profonde
+T26	DISO 716 737	pathologie systémique
+T27	ANAT 774 780	rénale
+T28	CHEM 807 835	anticoagulants circulatoires
+T29	MODE 840 858	voie intraveineuse
+T30	DISO 871 905	troubles métaboliques hypertensive
+T31	LIVB 944 952	patiente
+T32	DISO 1072 1082	thrombique
+T33	MEAS 1095 1117	rapidement progressive
+T34	PROC 1133 1142	pronostic
+T35	DEVI 1146 1151	masse
+T36	MEAS 1161 1166	20 cm
+T37	Concept_Idea 1170 1179	grand axe
+T38	MEAS 1188 1192	5 cm
+T39	Concept_Idea 1196 1204	diamètre
+T40	MEAS 1209 1214	12 cm
+T41	Concept_Idea 1218 1228	profondeur
+T42	ANAT 1261 1279	organes abdominaux
+T43	ANAT 1330 1363	membrane ombilicale superficielle
+T44	DISO 1372 1387	masse hypodense
+T45	MEAS 1392 1402	hétérogène
+T46	Localization 1457 1472	faces latérales
+T47	ANAT 1496 1509	coulées d'air
+T48	ANAT 1602 1615	paroi utérine
+T49	ANAT 1646 1670	cavités péripéritonéales
+T50	MEAS 1695 1698	25%
+T51	MEAS 1702 1705	20%
+T52	Concept_Idea 1712 1718	taille
+T53	PROC 1745 1767	TDM abdomino-pélvienne
+T54	ANAT 1749 1767	abdomino-pélvienne
+T56	ANAT 1946 1955	péritoine
+T57	DISO 2025 2076	épanchement intrapéritonéal basithalamo-vésiculaire
+T58	ANAT 2037 2076	intrapéritonéal basithalamo-vésiculaire
+T59	PROC 2130 2164	imagerie par résonnance magnétique
+T60	PROC 2166 2169	IRM
+T61	ANAT 2171 2180	cérébrale
+T62	DISO 2205 2273	hypersignal pariéto-temporo-axial inféro-sylvien gauche-midi-central
+T63	Localization 2254 2273	gauche-midi-central
+T64	DISO 2289 2351	hyposignal trans-latéral sus-clinical sous tentoriel bilatéral
+T65	Localization 2327 2331	sous
+T66	Localization 2342 2351	bilatéral
+T67	DISO 2366 2434	hyper signal pondérée T2 isosignal pariéto-transsylvien homolatérale
+T68	Localization 2422 2434	homolatérale
+T69	MEAS 2450 2467	significativement
+T70	Concept_Idea 2471 2482	proportions
+T71	PROC 2552 2576	scanner abdomino-pelvien
+T72	ANAT 2560 2576	abdomino-pelvien
+T73	DISO 2595 2634	localisations secondaires métastatiques
+T74	DISO 2676 2727	envahissement vasculo-nerveux mésentérique biliaire
+T75	ANAT 2690 2727	vasculo-nerveux mésentérique biliaire
+T76	PROC 2742 2806	curage tuberculeux cervilléo-basilaire ganglionnaire scannoguidé
+T78	DEVI 2838 2843	sonde
+T79	ANAT 2857 2868	canal cæcal
+T80	MEAS 2897 2904	simples

@@ -1,0 +1,52 @@
+T1	DEVI 142 191	amplificateur intraveineux mono insulinorimotrice
+T3	TEMP 1551 1553	/j
+T4	PROC 1558 1567	recherche
+T5	DISO 1592 1599	dyspnée
+T6	LIVB 1621 1628	patient
+T7	Hospital 1652 1660	urgences
+T8	Hospital 1664 1711	Centre Hospitalier Universitaire Joseph-Fourier
+T10	PROC 1731 1759	antibiothérapie probabiliste
+T11	PROC 1817 1835	remplissage cutané
+T12	ANAT 1829 1835	cutané
+T13	Concept_Idea 1858 1878	chiffres tensionnels
+T14	PROC 1903 1912	induction
+T15	PROC 1937 1973	régime pauvre en graisses parentéral
+T16	CHEM 1985 1995	céfotaxime
+T17	CHEM 2026 2050	médicaments citrullinéne
+T18	CHEM 2062 2072	bléomycine
+T19	CHEM 2074 2085	paracétamol
+T20	CHEM 2087 2096	étoposide
+T21	CHEM 2098 2110	pyrazinamide
+T22	CHEM 2112 2124	nicotinamide
+T23	CHEM 2126 2135	cortisone
+T24	CHEM 2137 2148	rifampicine
+T25	CHEM 2150 2159	méthadone
+T26	CHEM 2161 2172	propranolol
+T27	CHEM 2174 2184	metformine
+T28	CHEM 2186 2203	acide salicylique
+T29	CHEM 2205 2214	imipenème
+T30	CHEM 2216 2226	aminosides
+T31	CHEM 2228 2242	ciprofloxacine
+T32	CHEM 2244 2254	carbamates
+T33	CHEM 2256 2268	neuroleptine
+T34	CHEM 2270 2290	caractèresulfamiques
+T35	CHEM 2292 2307	antituberculeux
+T36	CHEM 2309 2320	nicardipine
+T37	CHEM 2322 2337	ethambutolamine
+T38	CHEM 2339 2350	gentamidine
+T39	CHEM 2352 2367	œstradiolamines
+T40	CHEM 2369 2387	halogénésulfamides
+T41	CHEM 2389 2399	cytarabine
+T42	CHEM 2401 2420	antalgiques opiacés
+T43	CHEM 2422 2449	diurétiques non stéroïdiens
+T44	CHEM 2451 2459	insuline
+T45	CHEM 2461 2477	immunoglobulines
+T46	CHEM 2479 2502	anticonvulsivants oraux
+T47	CHEM 2504 2521	monofluorouracile
+T48	CHEM 2523 2536	hypertenseurs
+T49	CHEM 2538 2553	halopéridolones
+T50	CHEM 2555 2571	antispasmodiques
+T51	CHEM 2573 2594	produits agrotoniques
+T52	CHEM 2596 2617	organochimiothérapies
+T53	CHEM 2619 2627	gélatine
+T54	CHEM 2629 2647	culots globulaires

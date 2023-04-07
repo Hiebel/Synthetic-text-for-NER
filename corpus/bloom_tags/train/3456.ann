@@ -1,0 +1,20 @@
+T1	LIVB 4 12	patiente
+T2	PROC 32 38	admise
+T3	Hospital 43 65	urgences chirurgicales
+T4	DISO 108 125	céphalées fébrile
+T5	TEMP 135 145	depuis 48h
+T6	LIVB 152 154	sa
+T7	PROC 155 167	consultation
+T8	Concept_Idea 185 197	plan général
+T9	DISO 201 229	amaigrissement macroscopique
+T10	MEAS 240 245	15 kg
+T11	DISO 277 284	dyspnée
+T12	MEAS 299 305	rapide
+T13	DISO 320 326	sueurs
+T14	MEAS 327 336	nocturnes
+T15	CHEM 390 399	midazolam
+T16	DOSE 400 406	1mg/kg
+T17	PROC 411 440	auscultation cardiopulmonaire
+T18	ANAT 424 440	cardiopulmonaire
+T19	PHEN 466 475	régulière
+T20	MEAS 477 484	120 bpm

@@ -1,0 +1,18 @@
+T1	LIVB 16 24	patiente
+T2	DISO 59 91	carcinose canalaire pancréatique
+T3	ANAT 69 91	canalaire pancréatique
+T4	TEMP 101 113	depuis 2 ans
+T5	PROC 119 143	chimiothérapie adjuvante
+T6	CHEM 156 166	cisplatine
+T7	CHEM 169 182	dexaméthasone
+T8	CHEM 185 196	Bevacizumab
+T9	CHEM 198 209	Cyclosérine
+T10	PROC 223 256	curage ganglionnaire locorégional
+T11	ANAT 230 256	ganglionnaire locorégional
+T12	PROC 269 312	remplissage artériello-veineux périphérique
+T13	ANAT 281 312	artériello-veineux périphérique
+T14	DISO 362 384	hypotension artérielle
+T15	ANAT 374 384	artérielle
+T16	LIVB 394 403	patientes
+T17	PROC 427 452	techniques thérapeutiques
+T18	PROC 702 713	observation

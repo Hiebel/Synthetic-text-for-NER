@@ -1,0 +1,22 @@
+T1	PROC 2 21	électrocardiogramme
+T2	LIVB 28 36	patiente
+T3	DISO 48 61	particularité
+T4	PROC 77 93	examen somatique
+T5	DISO 116 124	polypnée
+T6	MEAS 127 140	40 cycles/min
+T7	Concept_Idea 150 169	pression artérielle
+T8	ANAT 159 169	artérielle
+T9	MEAS 172 181	70/40mmhg
+T10	PROC 186 202	bilan biologique
+T11	PROC 225 245	taux de prothrombine
+T12	PROC 247 249	TP
+T13	PROC 252 278	temps de céphaline activée
+T14	PROC 280 299	protéine C réactive
+T15	PROC 307 322	globules blancs
+T16	MEAS 340 347	normaux
+T17	DISO 365 379	AVC ischémique
+T18	ANAT 388 419	sinus caverneux inférieur droit
+T19	Localization 414 419	droit
+T20	DISO 435 513	syndrome d'épanchement liquidien périlésionnel basithoracique laryngopharyngés
+T21	ANAT 458 513	liquidien périlésionnel basithoracique laryngopharyngés
+T22	DISO 527 560	tuberculose érythémato-pustuleuse

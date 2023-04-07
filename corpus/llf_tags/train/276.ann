@@ -1,0 +1,60 @@
+T1	LIVB 14 22	Patiente
+T2	DISO 65 81	hyperleucocytose
+T3	DISO 99 138	insuffisance rénale chronique terminale
+T4	ANAT 112 118	rénale
+T5	LIVB 190 194	elle
+T6	PROC 217 253	prise en charge médicale ambulatoire
+T7	LIVB 271 274	son
+T8	PROC 275 286	hospitalisé
+T9	CHEM 300 312	antibiotique
+T10	PROC 328 351	hémodialyse parentérale
+T11	LIVB 376 378	sa
+T12	LIVB 379 390	belle-fille
+T13	DISO 400 419	troubles menstruels
+T14	PROC 443 449	sortie
+T15	DISO 513 532	épisodes infectieux
+T16	PROC 553 559	séjour
+T17	PROC 565 584	enquête étiologique
+T18	LIVB 590 598	patiente
+T19	PROC 603 611	adressée
+T20	Hospital 627 642	bloc opératoire
+T21	LIVB 646 648	il
+T22	LIVB 690 697	malades
+T23	LIVB 715 719	sœur
+T24	TEMP 757 763	3 mois
+T25	DISO 832 857	infections gynécologiques
+T26	PROC 912 929	geste chirurgical
+T27	PROC 974 1014	pancréatite tuberculeuse interne étendue
+T28	PROC 1057 1093	anastomose péritonéale scanno-guidée
+T29	PROC 1119 1148	héparinothérapie concomitante
+T30	PROC 1163 1205	hydrocéphalosporine per os crudocimétrique
+T31	DOSE 1206 1211	500mg
+T32	TEMP 1211 1221	/24 heures
+T33	TEMP 1230 1240	/24 heures
+T35	ANAT 1458 1473	muscle lombaire
+T36	ANAT 1495 1516	veine cave antérieure
+T37	Localization 1506 1516	antérieure
+T38	ANAT 1548 1583	plancher crico-trachéo-mandibulaire
+T39	MEAS 1600 1605	6,5mm
+T40	Concept_Idea 1615 1624	caractère
+T41	MEAS 1625 1633	arrondie
+T42	DEVI 1682 1710	structure multidisciplinaire
+T43	PHEN 1716 1734	suites opératoires
+T44	MEAS 1743 1750	simples
+T45	DISO 1780 1785	décès
+T46	DISO 1792 1817	complication thrombotique
+T47	DISO 1845 1861	crise convulsive
+T48	DISO 1938 1961	consanguinité parentale
+T49	LIVB 1991 1997	filles
+T50	MEAS 2160 2169	favorable
+T51	PROC 2227 2256	transplantation thérapeutique
+T52	LIVB 2447 2451	mère
+T53	MEAS 2479 2481	12
+T54	LIVB 2482 2489	enfants
+T55	MEAS 2520 2521	4
+T56	LIVB 2522 2529	garçons
+T57	LIVB 2818 2823	elles
+T58	Concept_Idea 2928 2949	aspects morphologique
+T59	Concept_Idea 3035 3054	types histologiques
+T60	Concept_Idea 3085 3108	classification clinique
+T61	PROC 3113 3136	suivi socio-chirurgical

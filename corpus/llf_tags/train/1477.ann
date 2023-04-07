@@ -1,0 +1,10 @@
+T1	PROC 4 19	corticothérapie
+T2	Concept_Idea 25 29	dose
+T3	DOSE 33 36	2mg
+T4	TEMP 36 38	/j
+T5	PROC 54 76	kinésithérapie motrice
+T6	DISO 126 135	symptômes
+T7	DISO 158 189	désorientation temporo-spaciale
+T8	DISO 202 223	trouble de conscience
+T9	LIVB 239 246	patient
+T10	TEMP 265 271	3 mois

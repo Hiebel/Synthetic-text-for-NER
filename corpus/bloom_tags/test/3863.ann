@@ -1,0 +1,25 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 73	notables
+T4	PROC 75 86	hospitalisé
+T5	DISO 96 126	douleurs pelviennes purulentes
+T6	ANAT 105 115	pelviennes
+T7	TEMP 136 153	depuis deux jours
+T8	PROC 157 172	examen clinique
+T9	LIVB 185 192	patient
+T10	Concept_Idea 217 235	plan hémodynamique
+T11	PHEN 239 251	respiratoire
+T12	PROC 261 270	admission
+T13	DISO 275 294	tachycardie fébrile
+T14	MEAS 297 310	130 cyles/min
+T15	DISO 326 365	défense périphérique du flux péritonéal
+T16	Localization 334 346	périphérique
+T17	ANAT 350 365	flux péritonéal
+T18	PROC 370 407	tomodensitométrie abdomino- pelvienne
+T19	ANAT 388 407	abdomino- pelvienne
+T20	DISO 439 530	masse tissulaire lithiasique grêliquo-épiploique iléocoecale hypogastrique hypovascularisée
+T22	MEAS 555 562	46x36mm
+T23	MEAS 566 573	48x37mm
+T24	ANAT 590 610	fosse iliaque droite
+T25	Localization 604 610	droite
+T26	CHEM 656 677	produits de contraste

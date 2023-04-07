@@ -1,0 +1,23 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	PROC 36 41	admis
+T4	Hospital 46 54	urgences
+T5	DISO 73 96	agitation psychomotrice
+T6	PROC 100 115	examen clinique
+T7	PROC 120 129	admission
+T8	Concept_Idea 147 158	température
+T9	MEAS 161 167	38,5°c
+T10	PHEN 175 187	sensibilités
+T11	ANAT 201 213	sinus facial
+T12	DISO 226 243	troubles motrices
+T13	PROC 256 275	examen neurologique
+T14	MEAS 282 288	normal
+T15	DISO 306 330	déficit sensitivomoteurs
+T16	DISO 343 372	syndromes neuropsychiatriques
+T17	PROC 410 429	bilan préopératoire
+T18	PROC 446 454	natrémie
+T19	MEAS 457 466	118 meq/l
+T20	PROC 476 484	kaliémie
+T21	MEAS 487 496	1,4 meq/l
+T22	PROC 510 534	hyperhémoglobine glyquée
+T23	MEAS 537 545	8,2 g/dl

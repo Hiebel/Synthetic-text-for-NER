@@ -1,0 +1,30 @@
+T1	LIVB 29 34	femme
+T2	DISO 71 112	ostéome ostéoïde congénital des épiploons
+T3	PROC 131 151	exérèse chirurgicale
+T4	DISO 157 211	adénocarcinome laryngopharyngo œsophagien hypertrophié
+T5	PROC 217 259	cervicotomie nasofibrostromso-maxillectale
+T6	ANAT 230 259	nasofibrostromso-maxillectale
+T7	Hospital 283 306	urgences gynécologiques
+T8	DISO 326 347	détresse respiratoire
+T9	PHEN 335 347	respiratoire
+T10	DISO 363 407	syndrome d'épanchement péricardique purulent
+T11	ANAT 386 407	péricardique purulent
+T12	DISO 417 432	symptomatologie
+T13	TEMP 442 456	depuis 7 jours
+T14	LIVB 463 465	sa
+T15	PROC 466 478	consultation
+T16	DISO 511 527	dyspnée d'effort
+T17	MEAS 542 549	modérée
+T18	MEAS 559 567	brunâtre
+T19	MEAS 582 593	progressive
+T20	LIVB 614 622	patiente
+T21	DISO 652 666	ménométrorrhée
+T22	PROC 675 705	recherche étiologique primaire
+T23	PROC 718 741	imagerie multimodalisée
+T24	DISO 854 874	tableau pathologique
+T25	DISO 885 918	traumatisme thoracique compressif
+T26	ANAT 897 918	thoracique compressif
+T28	DISO 1183 1219	lésion arrondie ovarienne hétérogène
+T29	MEAS 1229 1234	12 cm
+T30	Concept_Idea 1238 1247	grand axe
+T31	Localization 1302 1316	partie moyenne

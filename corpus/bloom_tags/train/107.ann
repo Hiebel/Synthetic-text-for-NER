@@ -1,0 +1,24 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	6 ans
+T3	DISO 24 49	antécédents pathologiques
+T4	MEAS 50 62	particuliers
+T5	PROC 64 75	hospitalisé
+T6	DISO 85 112	dyspnée stade IV de la NYHA
+T7	TEMP 122 137	depuis 10 jours
+T8	Concept_Idea 173 185	état général
+T9	PROC 227 241	interrogatoire
+T10	DISO 278 298	traumatisme physique
+T11	DISO 308 328	maladie neurologique
+T12	PROC 421 446	bilan phospho métabolique
+T13	DISO 463 488	hypocalcémie hypertensive
+T14	MEAS 500 508	120mg/dl
+T15	MEAS 564 573	180 mg/dl
+T16	PROC 578 624	fibroscopie gastro-oeso-duodénale exploratrice
+T17	ANAT 590 624	gastro-oeso-duodénale exploratrice
+T18	DISO 647 661	masse tumorale
+T19	DISO 671 687	foyer infectieux
+T20	PROC 701 737	tomodensitométrie abdomino-pelvienne
+T21	ANAT 719 737	abdomino-pelvienne
+T22	MEAS 751 758	normale
+T23	PROC 765 805	scannographie thoraco-abdomino pelvienne
+T24	ANAT 779 805	thoraco-abdomino pelvienne

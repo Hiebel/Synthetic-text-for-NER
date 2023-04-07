@@ -1,0 +1,37 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	DISO 52 78	vomissements hémorragiques
+T4	DISO 93 131	syndrome d'épanchement intrapéritonéal
+T5	ANAT 116 131	intrapéritonéal
+T6	ANAT 145 156	flanc droit
+T7	Localization 151 156	droit
+T8	PROC 161 180	bilan préopératoire
+T9	PROC 193 223	échographie abdomino-pelvienne
+T10	ANAT 205 223	abdomino-pelvienne
+T11	DISO 246 255	anomalies
+T12	MEAS 275 276	2
+T13	LIVB 277 285	patients
+T14	PROC 299 322	scanner abdominopelvien
+T15	ANAT 307 322	abdominopelvien
+T16	DISO 339 364	paroi intestinale ulcérée
+T17	ANAT 389 408	glandes ombilicales
+T18	DISO 446 469	malformations associées
+T19	Concept_Idea 487 497	biologique
+T20	PROC 503 539	tomodensitométrie abdomino-pelvienne
+T21	ANAT 521 539	abdomino-pelvienne
+T23	MEAS 620 628	46x25 mm
+T24	MEAS 630 646	multi-cloisonnée
+T25	DISO 670 683	inflammatoire
+T26	Concept_Idea 706 714	contours
+T27	DISO 742 760	empyème péritonéal
+T28	ANAT 750 760	péritonéal
+T29	ANAT 802 829	organes génitaux inférieurs
+T30	DISO 861 936	lésion bourgeonnante nécrotique latéro-utérine basithoracique érythémateuse
+T31	PHEN 968 995	surrénalisation menstruelle
+T32	DISO 1011 1057	hypokinésie intestinale grêlique hyo-basilaire
+T33	ANAT 1023 1057	intestinale grêlique hyo-basilaire
+T34	ANAT 1163 1177	parties molles
+T35	ANAT 1194 1202	crachats
+T36	MEAS 1255 1264	violacées
+T37	PROC 1331 1344	macroscopique
+T38	DISO 1365 1388	tumeur nécrose kystique

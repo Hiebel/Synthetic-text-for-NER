@@ -1,0 +1,127 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	9 ans
+T3	DISO 39 67	choc hémiplégique ischémique
+T4	DISO 102 125	déficit sensitivomoteur
+T5	TEMP 135 152	depuis deux jours
+T6	PROC 187 205	traitement médical
+T7	CHEM 216 234	méthylprédnisolone
+T8	DOSE 237 244	1 mg/kg
+T9	TEMP 244 249	/jour
+T10	CHEM 252 265	dexaméthasone
+T11	DOSE 268 274	200 mg
+T12	TEMP 274 276	/j
+T13	CHEM 279 290	nicardipril
+T14	DOSE 292 299	10mg/kg
+T15	TEMP 299 301	/J
+T16	PROC 306 337	écho-Doppler cervico-thoracique
+T17	ANAT 319 337	cervico-thoracique
+T18	DISO 354 382	tumeur lithiasique calcifiée
+T19	ANAT 399 416	ventricule gauche
+T20	Localization 410 416	gauche
+T21	MEAS 425 428	5cm
+T22	Concept_Idea 432 441	grand axe
+T23	DISO 491 517	trajet tumoral systématisé
+T24	ANAT 541 580	vésicules basithoraciques sus-rénaliens
+T25	ANAT 605 623	membres inférieurs
+T26	ANAT 638 655	médiasti-culaires
+T27	PROC 693 703	découverts
+T28	PROC 710 728	immuno-histochimie
+T29	DEVI 807 820	Nano labeler®
+T30	LIVB 865 873	patiente
+T31	DISO 989 1004	nécrose maligne
+T32	PROC 1141 1172	investigations bactériologiques
+T33	PROC 1179 1202	radiothérapie adjuvante
+T34	PROC 1225 1245	reprise chirurgicale
+T35	MEAS 1263 1275	négativantes
+T36	PROC 1286 1305	immunohistochimique
+T37	DISO 1560 1603	polynucléaires neutrophiles granulomateuses
+T38	DISO 1627 1657	méningo-éosinophilie nodulaire
+T39	PROC 1731 1764	bilan d'immunodépression primaire
+T40	PROC 1782 1851	ponction pleurieuse transpariétale liquidienne pariétale scannoguidée
+T42	PROC 1870 1897	examen anatomo-pathologique
+T43	DISO 1914 1953	carcinome pléomorphe du sinus caverneux
+T45	Concept_Idea 1963 1969	signes
+T46	DISO 1973 1982	malignité
+T47	PROC 1994 2019	réanimation préopératoire
+T48	CHEM 2024 2032	propofol
+T49	DOSE 2034 2043	0,5 mg/kg
+T50	TEMP 2043 2049	/heure
+T51	CHEM 2062 2073	nicardipril
+T52	DOSE 2075 2081	1mg/kg
+T53	TEMP 2081 2083	/h
+T54	CHEM 2086 2096	furosémide
+T55	DOSE 2098 2104	100 mg
+T56	TEMP 2104 2106	/j
+T57	CHEM 2109 2127	hydroxychloroquine
+T58	DOSE 2129 2135	200 mg
+T59	TEMP 2135 2137	/j
+T60	CHEM 2140 2151	ethionamide
+T61	DOSE 2153 2159	250 mg
+T62	TEMP 2159 2161	/j
+T63	CHEM 2164 2178	hydrocortisone
+T64	DOSE 2180 2185	10 mg
+T65	TEMP 2185 2187	/j
+T66	CHEM 2190 2203	dexaméthasone
+T67	DOSE 2205 2210	50 mg
+T68	TEMP 2210 2212	/j
+T69	CHEM 2215 2227	pyrazinamide
+T70	DOSE 2229 2235	400 mg
+T71	TEMP 2235 2237	/j
+T72	CHEM 2240 2253	cotrimoxazole
+T73	DOSE 2255 2261	800 mg
+T74	TEMP 2261 2263	/j
+T75	CHEM 2266 2277	rifosfamide
+T76	DOSE 2279 2285	750 mg
+T77	TEMP 2285 2287	/j
+T78	CHEM 2290 2304	Ciprofloxacine
+T79	DOSE 2306 2309	2 g
+T80	TEMP 2309 2311	/j
+T81	CHEM 2314 2327	triméthoprime
+T82	DOSE 2329 2335	500 mg
+T83	TEMP 2335 2337	/j
+T84	CHEM 2340 2358	méthylprednisolone
+T85	DOSE 2360 2365	30 mg
+T86	TEMP 2365 2367	/j
+T87	CHEM 2370 2381	cyclosérine
+T88	DOSE 2383 2388	20 mg
+T89	TEMP 2388 2390	/j
+T90	CHEM 2393 2403	cisplatine
+T91	DOSE 2405 2410	75 mg
+T92	TEMP 2410 2412	/j
+T93	CHEM 2415 2425	dobutamine
+T94	DOSE 2427 2429	3g
+T95	TEMP 2429 2431	/j
+T96	CHEM 2434 2447	prédnisoleone
+T97	DOSE 2449 2454	60 mg
+T98	TEMP 2454 2456	/j
+T99	CHEM 2459 2472	metronidazole
+T100	DOSE 2474 2479	40 mg
+T101	TEMP 2479 2481	/j
+T102	CHEM 2484 2497	chlorhexidine
+T103	DOSE 2499 2504	25 mg
+T104	TEMP 2504 2506	/j
+T105	CHEM 2509 2522	phénobarbital
+T106	DOSE 2524 2529	15 mg
+T107	TEMP 2529 2531	/j
+T108	CHEM 2534 2547	pirifloxacine
+T109	DOSE 2549 2555	160 mg
+T110	TEMP 2555 2557	/j
+T111	CHEM 2560 2573	carbamazepine
+T112	DOSE 2575 2581	150 mg
+T113	TEMP 2581 2583	/j
+T114	CHEM 2586 2599	bromocriptine
+T115	DOSE 2601 2607	600 mg
+T116	TEMP 2607 2609	/j
+T117	CHEM 2612 2631	valproate de sodium
+T118	DOSE 2633 2639	300 mg
+T119	TEMP 2639 2641	/j
+T120	CHEM 2644 2655	paracétamol
+T121	DOSE 2657 2663	175 mg
+T122	TEMP 2663 2665	/j
+T123	CHEM 2668 2679	perindopril
+T124	DOSE 2681 2687	120 mg
+T125	TEMP 2687 2689	/j
+T126	CHEM 2692 2702	amlodipine
+T127	DOSE 2704 2709	45 mg
+T128	TEMP 2709 2711	/j
+T129	CHEM 2714 2725	Bupivacaine

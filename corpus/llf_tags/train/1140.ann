@@ -1,0 +1,58 @@
+T1	PROC 18 29	observation
+T2	LIVB 35 42	patient
+T3	DISO 75 95	douleurs abdominales
+T4	ANAT 84 95	abdominales
+T5	DISO 111 132	syndrome hémorragique
+T6	DISO 140 160	contracture générale
+T7	PROC 165 187	radiographie du thorax
+T8	ANAT 181 187	thorax
+T9	DISO 197 206	anomalies
+T10	PROC 220 259	tomodensitométrie par cohérence optique
+T11	PROC 261 265	TOGD
+T12	MEAS 287 291	deux
+T13	ANAT 292 310	cavités cardiaques
+T14	Concept_Idea 319 325	relief
+T15	PHEN 356 376	récepteurs hormonaux
+T16	MEAS 382 389	normaux
+T17	CHEM 397 407	médicament
+T18	DISO 460 480	hypertriglycéridémie
+T19	DISO 490 510	hypercholestérolémie
+T20	PROC 514 538	échographie obstétricale
+T21	PROC 559 578	bilan préopératoire
+T22	DEVI 590 597	sacoche
+T23	MEAS 606 610	5 cm
+T24	DISO 627 682	myomectomie totale scléroatrophique myoépiploimocytaire
+T25	PROC 687 711	scanner cardiovasculaire
+T26	ANAT 695 711	cardiovasculaire
+T27	PROC 726 735	admission
+T28	Hospital 744 751	service
+T29	Localization 772 787	portion distale
+T30	MEAS 808 815	55x50mm
+T31	ANAT 835 864	vaisseaux transventriculaires
+T32	ANAT 893 915	symphysies céphaliques
+T33	ANAT 946 960	zones charnues
+T34	Localization 1159 1176	supérieur interne
+T35	ANAT 1197 1233	plexus brachial cervical superficiel
+T36	Concept_Idea 1369 1378	formalité
+T37	PROC 1473 1495	traitement chirurgical
+T38	PROC 1526 1547	extubation percutanée
+T39	PROC 1561 1599	laparotomie exploratrice endotrachéale
+T40	ANAT 1627 1648	veine cave inférieure
+T41	Localization 1638 1648	inférieure
+T42	DISO 1653 1668	perpendiculaire
+T43	MEAS 1677 1703	ACR4N0MxHY2A/CD3CUMABEKIZE
+T44	PROC 1722 1804	tumorectomie subtotale intrasinusienne segmentaire axillaire bilatérale T1 BTLJSSA
+T46	PROC 1819 1845	examen cytobactériologique
+T47	LIVB 1892 1900	patiente
+T48	MEAS 1960 1969	négatives
+T49	PROC 2064 2089	étude immunohistochimique
+T50	DISO 2115 2133	immunofluorescents
+T51	Concept_Idea 2174 2201	aspect clinico-radiologique
+T52	DISO 2225 2244	maladie infectieuse
+T53	DISO 2250 2261	grippe H1N1
+T54	PROC 2840 2864	chimiothérapie adjuvante
+T55	CHEM 2875 2889	pénicillinoïde
+T56	PROC 2908 2936	consultations préopératoires
+T57	TEMP 2961 2966	un an
+T58	PHEN 2988 3006	suites opératoires
+T59	MEAS 3015 3025	favorables

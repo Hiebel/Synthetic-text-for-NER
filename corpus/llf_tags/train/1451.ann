@@ -1,0 +1,73 @@
+T1	LIVB 16 27	jeune fille
+T2	TEMP 31 37	18 ans
+T3	DISO 44 68	antécédents pathologique
+T4	MEAS 69 81	particuliers
+T5	PROC 92 104	hospitalisée
+T6	Hospital 108 128	service des urgences
+T7	DISO 138 179	tuméfaction douloureuse du poignet gauche
+T8	ANAT 165 179	poignet gauche
+T9	Localization 173 179	gauche
+T10	TEMP 189 201	depuis un an
+T11	PROC 205 220	examen clinique
+T12	PROC 225 234	admission
+T13	LIVB 251 259	patiente
+T14	MEAS 263 270	mauvais
+T15	Concept_Idea 271 283	état général
+T16	Concept_Idea 305 322	état neurologique
+T17	PROC 350 365	examen physique
+T18	DISO 377 390	particularité
+T19	PROC 395 412	tomodensitométrie
+T20	PROC 414 433	TDM) crânio-caudale
+T21	ANAT 419 433	crânio-caudale
+T22	PROC 434 438	TCMH
+T23	DISO 459 474	symptomatologie
+T24	DISO 509 537	pseudo-céphalées polyglottes
+T25	PHEN 562 580	suites opératoires
+T26	MEAS 589 596	simples
+T27	PROC 603 614	réanimation
+T28	TEMP 638 646	5 heures
+T29	PROC 652 680	chimiothérapie néo adjuvante
+T30	MODE 685 703	voie intraveineuse
+T31	DISO 764 769	signe
+T32	DISO 795 830	troubles fonctionnels psychomoteurs
+T33	DISO 841 870	anomalies clinico-biologiques
+T34	PROC 885 916	bilan étiologique préopératoire
+T35	DISO 930 936	fièvre
+T36	MEAS 939 945	38 ° C
+T37	CHEM 951 982	amoxicilline acide clavulanique
+T38	CHEM 985 1003	acide zolédronique
+T40	CHEM 1031 1043	antibiotique
+T41	DOSE 1084 1087	2 g
+T42	TEMP 1087 1092	/24 h
+T43	CHEM 1094 1104	aminosides
+T44	CHEM 1139 1160	tétrazidime acrylique
+T46	PROC 1456 1486	complément immunohistochimique
+T47	LIVB 1503 1512	nourrices
+T48	Concept_Idea 1532 1550	réponses cliniques
+T49	Concept_Idea 1566 1595	caractéristiques biochimiques
+T50	PROC 1600 1631	traitement hormonal substitutif
+T51	DEVI 1636 1658	ampoules basse lumière
+T52	MEAS 1716 1725	négatives
+T53	Concept_Idea 1738 1758	aspect morphologique
+T54	DISO 1827 1865	syndrome oedémato-œdémateux diabétique
+T55	PROC 1888 1908	reprise chirurgicale
+T56	PROC 1933 1967	laparotomie digestive exploratrice
+T57	Concept_Idea 2016 2036	plan bactériologique
+T58	TEMP 2254 2260	6 mois
+T59	DISO 2776 2789	défis galants
+T60	DISO 3051 3083	sensibilité douloureuse du genou
+T61	ANAT 3078 3083	genou
+T62	PROC 3100 3130	consultations ophtalmologiques
+T63	DISO 3158 3207	processus lésionnel tissulaire rétinien hypodense
+T64	MEAS 3216 3219	5cm
+T65	DISO 3225 3251	rétraction cutanéomuqueuse
+T66	DISO 3255 3266	adénopathie
+T67	DISO 3292 3314	niveau hydrothyroïdien
+T68	PROC 3375 3420	néphrectomie axilectomie totale scanno-guidée
+T69	PROC 3426 3475	antibioprophylaxie antibiotique par voie générale
+T70	CHEM 3477 3488	gentamicine
+T71	CHEM 3491 3502	céftriaxone
+T72	CHEM 3505 3530	acide acétyle salicylique
+T73	PHEN 3566 3587	grossesse monofoetale
+T74	PROC 3592 3610	radiodiagnostiquée
+T75	MEAS 3647 3657	favorables

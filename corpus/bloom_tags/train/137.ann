@@ -1,0 +1,29 @@
+T1	LIVB 15 20	homme
+T2	DISO 37 62	antécédents pathologiques
+T3	MEAS 63 71	notables
+T4	PROC 73 78	admis
+T5	Hospital 83 91	urgences
+T6	DISO 101 130	douleurs épigastriques aiguës
+T7	ANAT 110 123	épigastriques
+T8	Concept_Idea 163 175	état général
+T9	TEMP 185 198	depuis 2 mois
+T10	PROC 202 217	examen clinique
+T11	LIVB 230 237	patient
+T12	MEAS 241 244	bon
+T13	Concept_Idea 245 257	état général
+T14	DISO 280 296	signes cliniques
+T15	DISO 322 331	hématurie
+T16	PROC 335 349	interrogatoire
+T17	DISO 383 409	tuméfaction du flanc droit
+T18	ANAT 398 409	flanc droit
+T19	Localization 404 409	droit
+T20	MEAS 421 430	lentement
+T21	Concept_Idea 434 440	volume
+T22	PROC 461 478	bilan étiologique
+T23	CHEM 480 493	acétylcholine
+T24	CHEM 497 512	corticoestérone
+T25	PROC 518 548	bilan biologique préopératoire
+T26	PHEN 562 577	fonction rénale
+T27	ANAT 571 577	rénale
+T28	MEAS 578 585	normale
+T29	PROC 600 637	protéines sériques antithyroglobuline

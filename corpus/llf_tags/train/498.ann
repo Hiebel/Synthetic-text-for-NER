@@ -1,0 +1,70 @@
+T1	PROC 3 20	tomodensitométrie
+T2	PROC 22 45	TDM) thoraco-abdominale
+T3	ANAT 27 45	thoraco-abdominale
+T4	DISO 61 95	processus tissulaire du rein droit
+T5	ANAT 85 95	rein droit
+T6	Localization 90 95	droit
+T7	MEAS 99 103	7 cm
+T8	Concept_Idea 107 116	grand axe
+T9	PHEN 122 140	suites opératoires
+T10	MEAS 149 156	simples
+T11	LIVB 161 169	patiente
+T12	PROC 174 182	réadmise
+T13	Hospital 186 201	bloc opératoire
+T14	TEMP 204 206	J5
+T15	PROC 212 222	opératoire
+T16	PROC 228 256	prise en charge chirurgicale
+T17	PROC 260 284	radiothérapie adjuvantes
+T18	DISO 337 346	dysphonie
+T19	Concept_Idea 368 380	état général
+T20	DISO 395 421	signes neuropsychiatriques
+T21	PROC 438 459	ventilation mécanique
+T22	CHEM 465 477	antibiotique
+T23	CHEM 483 497	céphalosporine
+T24	PROC 510 529	bilan préopératoire
+T25	PROC 579 604	traitements médicamenteux
+T26	CHEM 591 604	médicamenteux
+T27	PROC 635 659	échographie obstétricale
+T28	DISO 711 721	métastases
+T29	DISO 732 749	foyers infectieux
+T30	PROC 753 778	étude anatomopathologique
+T31	MEAS 793 801	positive
+T32	LIVB 810 820	nourrisson
+T33	TEMP 828 834	4 mois
+T34	DISO 850 863	consanguinité
+T35	DISO 870 884	contage utérin
+T36	ANAT 878 884	utérin
+T37	PROC 900 922	traitement chirurgical
+T38	PROC 927 948	contrôle radiologique
+T39	DISO 1019 1044	paramètres morphologiques
+T40	DISO 1066 1074	tumorale
+T41	PROC 1135 1178	complément immunohistochimique diagnostique
+T42	MEAS 1346 1355	18 x 9 mm
+T43	ANAT 1377 1395	cavités périnéales
+T44	ANAT 1408 1451	ovaires gastroduodénaux abdominaux latéraux
+T45	DEVI 1466 1487	matériel endoscopique
+T46	MEAS 1495 1508	9 centimètres
+T47	Concept_Idea 1512 1530	diamètre hiltérien
+T48	ANAT 1686 1715	annexes thoraciques centrales
+T49	MEAS 1739 1751	1 centimètre
+T50	MEAS 1755 1768	2 millimètres
+T51	Concept_Idea 1781 1804	caractère multirégional
+T52	PROC 1841 1860	enquête étiologique
+T53	PROC 1869 1892	recherche thérapeutique
+T54	ANAT 2117 2127	artérielle
+T55	PROC 2832 2860	chimiothérapie néo adjuvante
+T56	DISO 2869 2882	kyste du rein
+T57	ANAT 2878 2882	rein
+T58	DISO 2904 2928	mucoviscidose diabétique
+T59	CHEM 2942 2952	isoniazide
+T60	MODE 2956 2971	intramusculaire
+T61	CHEM 2980 2994	gentaméthasone
+T62	DOSE 2996 3002	450 mg
+T63	TEMP 3002 3004	/j
+T64	Concept_Idea 3027 3039	état général
+T65	TEMP 3066 3081	15 Février 2010
+T66	DISO 3174 3198	syndrome polymalformatif
+T67	PHEN 3226 3235	grossesse
+T68	LIVB 3244 3251	patient
+T69	PROC 3308 3341	prise en charge neurochirurgicale
+T70	Concept_Idea 3354 3371	moyens financiers

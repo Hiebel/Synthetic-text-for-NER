@@ -1,0 +1,20 @@
+T1	LIVB 15 22	patient
+T2	PROC 34 39	suivi
+T3	Hospital 43 52	chirurgie
+T4	DISO 61 87	myxome du sinus maxillaire
+T5	ANAT 71 87	sinus maxillaire
+T6	PROC 91 106	examen clinique
+T7	PROC 111 120	admission
+T8	PHEN 140 151	mastication
+T9	MEAS 152 161	difficile
+T10	Concept_Idea 166 174	mobilité
+T11	ANAT 179 185	doigts
+T12	PROC 217 239	examen ophtalmologique
+T13	DISO 245 258	particularité
+T14	PROC 264 303	tomodensitométrie (TDM) cervico-faciale
+T15	PROC 283 286	TDM
+T17	PROC 339 373	prise en charge pluridisciplinaire
+T18	PROC 377 402	exploration préopératoire
+T19	DISO 424 448	épanchement intracrânien
+T20	ANAT 436 448	intracrânien
+T21	DISO 461 483	localisations malignes

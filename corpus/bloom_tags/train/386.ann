@@ -1,0 +1,27 @@
+T1	LIVB 3 10	patient
+T2	Concept_Idea 27 38	antécédents
+T3	MEAS 39 51	particuliers
+T4	PROC 53 63	consultait
+T5	Hospital 68 76	urgences
+T6	DISO 86 108	douleurs épigastriques
+T7	ANAT 95 108	épigastriques
+T8	DISO 125 146	diarrhée hémorragique
+T9	TEMP 156 173	depuis deux jours
+T10	PROC 179 193	interrogatoire
+T11	LIVB 197 204	patient
+T12	DISO 236 257	détresse respiratoire
+T13	PHEN 245 257	respiratoire
+T14	DISO 266 299	syndrome d'épanchement péritonéal
+T15	ANAT 289 299	péritonéal
+T16	DISO 319 346	traumatisme du flanc gauche
+T17	ANAT 334 346	flanc gauche
+T18	Localization 340 346	gauche
+T19	PROC 350 382	auscultation abdomino- pelvienne
+T20	ANAT 363 382	abdomino- pelvienne
+T21	MEAS 389 396	normale
+T22	DISO 413 456	adénopathie parenchymateuse péripéritonéale
+T23	ANAT 425 456	parenchymateuse péripéritonéale
+T24	PROC 470 494	scanner abdomino-pelvien
+T25	ANAT 478 494	abdomino-pelvien
+T26	LIVB 558 564	malade
+T27	PROC 576 597	consultation initiale

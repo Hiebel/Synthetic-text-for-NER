@@ -1,0 +1,34 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 50 61	antécédents
+T3	MEAS 62 74	particuliers
+T4	PROC 76 82	suivie
+T5	DISO 91 117	carcinome du paragangliome
+T6	ANAT 104 117	paragangliome
+T8	ANAT 153 172	abdomino-pelviennes
+T9	DISO 182 195	inflammatoire
+T10	Concept_Idea 240 252	état général
+T11	PROC 256 271	examen clinique
+T12	LIVB 285 293	patiente
+T13	MEAS 297 300	bon
+T14	Concept_Idea 301 313	état général
+T15	PHEN 320 341	contractions utérines
+T16	ANAT 333 341	utérines
+T17	MEAS 350 358	diffuses
+T18	DISO 378 409	épanchement péritonéal purulent
+T19	ANAT 390 409	péritonéal purulent
+T20	ANAT 453 473	fosse iliaque droite
+T21	Localization 467 473	droite
+T22	PROC 478 497	bilan préopératoire
+T23	DISO 528 561	syndrome inflammatoire biologique
+T24	PROC 566 593	taux de protéine C-réactive
+T25	MEAS 606 611	élevé
+T26	PROC 618 639	échographie pelvienne
+T27	ANAT 630 639	pelvienne
+T28	PROC 652 661	admission
+T29	DISO 678 718	lésion tissulaire polylobée vascularisée
+T30	MEAS 728 733	20 cm
+T31	MEAS 738 742	8 cm
+T32	ANAT 758 790	muscle obturateur pérituberculeu
+T33	ANAT 808 818	col utérin
+T34	DISO 833 928	hypertrophie tissulaire épiploïque ovarienne latéro-myometriale hypogastrique hypo-vascularisée
+T36	DISO 953 975	masse tumorale maligne

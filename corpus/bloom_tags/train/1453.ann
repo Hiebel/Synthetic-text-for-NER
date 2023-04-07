@@ -1,0 +1,31 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	7 ans
+T3	DISO 25 48	antécédent pathologique
+T4	MEAS 49 56	notable
+T5	PROC 58 69	hospitalisé
+T6	Hospital 74 95	urgences pédiatriques
+T7	DISO 105 143	douleurs abdomino-pelvienne chroniques
+T8	ANAT 114 132	abdomino-pelvienne
+T9	TEMP 153 171	depuis trois jours
+T10	DISO 188 196	anorexie
+T11	DISO 203 217	amaigrissement
+T12	MEAS 228 232	5 kg
+T13	TEMP 236 245	deux mois
+T14	PROC 249 263	interrogatoire
+T15	Concept_Idea 277 285	histoire
+T16	DISO 292 330	tuméfaction du col utérin hypertrophié
+T17	ANAT 307 330	col utérin hypertrophié
+T18	MEAS 345 356	progressive
+T19	DISO 377 400	symptômes neurologiques
+T20	DISO 418 443	troubles sensitivomoteurs
+T21	DISO 460 475	symptomatologie
+T22	TEMP 488 497	une année
+T23	DISO 530 563	syndrome d'épanchement péritonéal
+T24	ANAT 553 563	péritonéal
+T25	DISO 584 603	douleurs pelviennes
+T26	ANAT 593 603	pelviennes
+T27	PROC 626 644	traitement curatif
+T28	CHEM 646 657	Ceftriaxone
+T29	MEAS 675 690	progressivement
+T30	Concept_Idea 694 700	taille
+T31	MEAS 710 722	plus intense

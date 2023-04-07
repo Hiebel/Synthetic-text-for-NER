@@ -1,0 +1,32 @@
+T1	LIVB 4 9	femme
+T2	DISO 68 93	pancréatite aiguë stade A
+T3	CHEM 99 114	curareifentanil
+T4	DOSE 116 125	0,5 µg/kg
+T5	DEVI 127 134	Cordis®
+T6	PROC 150 183	anesthésiothérapie endobronchique
+T7	ANAT 169 183	endobronchique
+T8	PROC 197 219	laparotomie ombilicale
+T9	ANAT 209 219	ombilicale
+T10	Hospital 260 295	bloc obstétrical pluridisciplinaire
+T11	DISO 322 335	consanguinité
+T12	LIVB 344 351	famille
+T13	PROC 356 379	protocole préopératoire
+T14	CHEM 432 450	méthylprednisolone
+T15	CHEM 453 464	nicardipril
+T16	CHEM 466 476	furosémide
+T17	CHEM 478 489	hydroxyzine
+T18	CHEM 491 512	ethyle hydrocortisone
+T19	CHEM 514 522	propofol
+T20	CHEM 524 537	dexaméthasone
+T21	CHEM 539 552	noradrénaline
+T22	CHEM 554 572	tranyl-méthindione
+T23	CHEM 574 587	bromocriptine
+T24	CHEM 589 598	midazolam
+T25	CHEM 600 611	triplocaine
+T26	CHEM 613 624	Nicardipril
+T27	CHEM 626 636	Furosémide
+T28	CHEM 638 649	Hydroxyzine
+T29	CHEM 651 672	Ethyle hydrocortisone
+T30	CHEM 674 682	Propofol
+T31	CHEM 684 694	Isoniazide
+T32	CHEM 696 709	Bromocriptine

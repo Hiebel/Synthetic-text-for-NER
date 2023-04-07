@@ -1,0 +1,18 @@
+T1	PROC 2 29	radiographie de la cheville
+T2	ANAT 21 29	cheville
+T3	DISO 43 82	hypertrophie du membre supérieur gauche
+T4	ANAT 59 82	membre supérieur gauche
+T5	Localization 76 82	gauche
+T6	PROC 87 104	bilan d'extension
+T7	PROC 117 142	scanner thoraco-abdominal
+T8	ANAT 125 142	thoraco-abdominal
+T9	DEVI 165 175	projecteur
+T10	DISO 187 196	anomalies
+T11	LIVB 203 210	patient
+T12	PROC 233 268	immobilisation en décubitus ventral
+T13	Concept_Idea 278 287	résultats
+T14	MEAS 292 304	particuliers
+T15	PROC 323 338	corticothérapie
+T16	MEAS 343 356	spectaculaire
+T17	DISO 377 382	décès
+T18	DISO 389 417	récidive anatomopathologique

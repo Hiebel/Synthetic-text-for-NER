@@ -1,0 +1,49 @@
+T1	LIVB 29 37	patiente
+T2	PROC 79 103	laparotomie exploratrice
+T3	PROC 109 151	curage ganglionnaire axillaire biquotidien
+T4	ANAT 116 151	ganglionnaire axillaire biquotidien
+T5	PROC 167 313	anastomose artério-veineuse bilio-cæcale pancréatophréniculaire périleucique transjugulo-carotidienne parenchymateuse érythémato-pustuleuse isolée
+T7	DISO 339 372	syndrome d’épanchement péritonéal
+T8	ANAT 362 372	péritonéal
+T9	MEAS 383 389	1250ml
+T10	CHEM 392 410	acide clavulanique
+T11	DISO 446 486	kystadénome épithélio-giganto-cellulaire
+T12	DISO 506 550	métastases kystiques pleuronaires purulentes
+T13	LIVB 571 579	patiente
+T14	MEAS 588 596	ASA I-II
+T15	MEAS 687 696	troisième
+T16	MEAS 702 711	cinquième
+T17	DISO 757 775	signe neurologique
+T18	DISO 842 868	déshydratation métabolique
+T19	PROC 888 906	traitement médical
+T20	CHEM 917 936	hydroxy-chloroquine
+T21	DOSE 939 944	400mg
+T22	MODE 944 955	injectables
+T23	CHEM 958 976	méthylprednisolone
+T24	DOSE 979 987	10 mg/kg
+T25	TEMP 987 989	/j
+T26	CHEM 991 1001	furosémide
+T27	DOSE 1004 1009	20 mg
+T28	TEMP 1009 1011	/j
+T29	PROC 1024 1047	radiothérapie adjuvante
+T30	DEVI 1049 1071	laser vert monochambre
+T31	PROC 1182 1237	tomodensitométrie thoraco-abdomino-pelvienne antalgique
+T32	ANAT 1200 1237	thoraco-abdomino-pelvienne antalgique
+T33	MEAS 1299 1304	22 cm
+T34	Concept_Idea 1308 1317	grand axe
+T35	ANAT 1338 1370	quadrant supéro-supérieur utérin
+T36	ANAT 1389 1405	paroi abdominale
+T37	MEAS 1417 1427	rapidement
+T38	Concept_Idea 1431 1437	taille
+T39	MEAS 1449 1456	11x 9cm
+T40	MEAS 1459 1468	18x 16 mm
+T41	ANAT 1496 1514	zones intestinales
+T42	ANAT 1534 1550	ombilic grêlique
+T43	Concept_Idea 1573 1592	caractère graisseux
+T44	MEAS 1602 1611	hypodense
+T45	PROC 1623 1661	contractions utérines fœto-materniales
+T46	ANAT 1636 1661	utérines fœto-materniales
+T47	PROC 1699 1721	chirurgie chirurgicale
+T48	PROC 1739 1765	examen anatomopathologique
+T49	DISO 1784 1839	carcinome endovaginal séreux du grand épiploon infiltré
+T51	DISO 1845 1869	vascularisation tumorale

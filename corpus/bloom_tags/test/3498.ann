@@ -1,0 +1,26 @@
+T1	LIVB 3 10	patient
+T2	PROC 22 27	suivi
+T3	DISO 37 54	hypochondre droit
+T4	Localization 49 54	droit
+T5	PROC 75 84	admission
+T6	DISO 89 109	vomissements bilieux
+T7	Concept_Idea 118 130	état général
+T8	PHEN 143 161	suites opératoires
+T9	DISO 199 238	syndrome d'épanchement intrapéritonéale
+T10	ANAT 222 238	intrapéritonéale
+T11	MEAS 248 252	2 kg
+T12	ANAT 266 277	flanc droit
+T13	Localization 272 277	droit
+T14	DISO 290 299	anomalies
+T15	DISO 326 339	hémopéritoine
+T16	DISO 349 371	épanchement péritonéal
+T17	ANAT 361 371	péritonéal
+T18	PROC 376 395	bilan préopératoire
+T19	PROC 421 443	TDM abdomino-pelvienne
+T20	ANAT 425 443	abdomino-pelvienne
+T22	MEAS 562 569	22x13mm
+T23	ANAT 596 618	muscle recto-sigmoïdal
+T24	ANAT 626 660	espaces péritumoraux mésentériques
+T25	DISO 711 731	métastases méningées
+T26	DISO 740 795	carcinome paragangliien plexiforme laryngéo-oesophagien
+T27	ANAT 750 795	paragangliien plexiforme laryngéo-oesophagien

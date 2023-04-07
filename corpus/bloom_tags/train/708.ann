@@ -1,0 +1,17 @@
+T1	LIVB 16 21	femme
+T2	PROC 79 84	reçue
+T3	Hospital 89 111	urgences chirurgicales
+T4	DISO 123 142	traumatisme crânien
+T5	LIVB 161 165	elle
+T6	DISO 170 202	douleur temporo pariétale droite
+T7	ANAT 178 202	temporo pariétale droite
+T8	Localization 196 202	droite
+T9	DISO 235 256	détresse respiratoire
+T10	PHEN 244 256	respiratoire
+T11	Concept_Idea 301 316	acuité visuelle
+T12	PROC 322 369	ponction liquide céphalorachidien transfixiante
+T13	ANAT 331 369	liquide céphalorachidien transfixiante
+T14	PROC 403 433	radiothérapie locale adjuvante
+T15	ANAT 446 469	tronc cérébro-orbitaire
+T16	MEAS 486 499	spectaculaire
+T17	DISO 506 534	symptomatologie neurologique

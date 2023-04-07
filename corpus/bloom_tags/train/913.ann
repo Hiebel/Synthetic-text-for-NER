@@ -1,0 +1,21 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 36 45	primipare
+T3	DISO 52 77	antécédents pathologiques
+T4	MEAS 78 90	particuliers
+T5	PROC 94 114	examen gynécologique
+T6	ANAT 126 139	masse utérine
+T7	MEAS 149 153	3 cm
+T8	Concept_Idea 157 166	grand axe
+T9	Localization 180 195	tiers supérieur
+T10	ANAT 202 219	vésicule biliaire
+T11	PHEN 239 254	grêle menstruel
+T12	PROC 258 289	échographie abdomino- pelvienne
+T13	ANAT 270 289	abdomino- pelvienne
+T14	PROC 303 323	écho-doppler couleur
+T15	PROC 325 329	EDCU
+T16	DISO 335 382	masse tumorale kystique tissulaire hypoechogène
+T17	MEAS 391 395	6 cm
+T18	PROC 423 432	injection
+T19	CHEM 438 458	produit de contraste
+T20	ANAT 477 491	paroi vésicale
+T21	ANAT 511 533	organes péristaltiques

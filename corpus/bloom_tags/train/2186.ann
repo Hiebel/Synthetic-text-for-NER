@@ -1,0 +1,36 @@
+T1	LIVB 0 8	Patiente
+T2	DISO 30 55	antécédents pathologiques
+T3	MEAS 56 64	notables
+T4	PROC 66 72	admise
+T5	Hospital 77 85	urgences
+T6	DISO 95 118	douleurs du flanc droit
+T7	ANAT 107 118	flanc droit
+T8	Localization 113 118	droit
+T9	TEMP 128 144	depuis 48 heures
+T10	DISO 160 166	sueurs
+T11	PHEN 174 186	vomissements
+T12	PROC 202 217	examen clinique
+T13	LIVB 229 237	patiente
+T14	MEAS 241 244	bon
+T15	Concept_Idea 245 257	état général
+T16	MEAS 265 274	27 kg/m 2
+T17	PROC 281 312	échographie abdomino- pelvienne
+T18	ANAT 293 312	abdomino- pelvienne
+T19	DISO 343 376	masse liquidienne hypo échogéante
+T20	ANAT 392 409	hypochondre droit
+T21	Localization 404 409	droit
+T22	MEAS 419 424	30 cm
+T23	Concept_Idea 428 437	grand axe
+T24	ANAT 453 465	paroi utérin
+T25	CHEM 484 505	produits de contraste
+T26	ANAT 526 532	pelvis
+T27	PROC 536 569	imagerie par résonance magnétique
+T28	PROC 571 574	IRM
+T29	DISO 606 672	épanchement intrapéritonéal latéro-surrénalien droit hémopéritoine
+T30	ANAT 618 658	intrapéritonéal latéro-surrénalien droit
+T32	Concept_Idea 712 728	plan superficiel
+T33	DISO 748 822	adénopathies cervico-bronchiques intrarétiniennes péritumorales hypodenses
+T35	ANAT 843 861	jonctionrétinienne
+T36	DISO 878 895	lésions kystiques
+T37	DISO 901 922	extension péritonéale
+T38	ANAT 911 922	péritonéale

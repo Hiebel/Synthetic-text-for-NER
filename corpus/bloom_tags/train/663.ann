@@ -1,0 +1,34 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	Concept_Idea 36 58	particularité clinique
+T4	DISO 87 99	hyperthermie
+T5	ANAT 125 136	coude droit
+T6	Localization 131 136	droit
+T7	MEAS 151 157	rapide
+T8	Concept_Idea 202 214	état général
+T9	DISO 236 276	syndrome d'épanchement liquide synoviale
+T10	ANAT 259 276	liquide synoviale
+T11	DISO 281 310	dermomyosite myéliprolactinée
+T12	PROC 335 371	diagnostic étiologique préopératoire
+T13	PHEN 386 406	signes radiologiques
+T14	DISO 468 496	dépression tumorale kystique
+T15	DISO 507 538	localisations thromboemboliques
+T16	PROC 554 589	examens ophtalmologiques somatiques
+T17	DISO 607 643	thrombus érythémateux maculopapuleux
+T18	DISO 653 683	troubles hydro-électrolytiques
+T19	DISO 711 730	pleurésie purulente
+T20	DISO 840 868	épanchement liquidesynoviale
+T21	ANAT 852 868	liquidesynoviale
+T22	LIVB 870 874	nous
+T23	PROC 893 925	échographie abdomino - pelvienne
+T24	ANAT 905 925	abdomino - pelvienne
+T25	DISO 942 961	masse bourgeonnante
+T26	MEAS 973 988	progressivement
+T27	Concept_Idea 992 998	taille
+T28	MEAS 1008 1013	10 cm
+T29	Concept_Idea 1017 1026	grand axe
+T30	ANAT 1047 1060	pelvis utérin
+T31	DEVI 1347 1352	sonde
+T32	PROC 1369 1387	traitement curatif
+T33	CHEM 1400 1418	hydroxychloroquine
+T34	PROC 1444 1475	radiothérapie externe adjuvante

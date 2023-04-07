@@ -1,0 +1,64 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 33 38	9 ans
+T3	CHEM 80 95	céphalosporines
+T4	LIVB 129 133	elle
+T5	PROC 156 186	traitement médical substitutif
+T6	Hospital 191 212	urgences pédiatriques
+T7	DISO 225 262	hypertension intracrânienne chronique
+T8	ANAT 238 252	intracrânienne
+T9	DISO 280 314	insuffisance néphrotique terminale
+T10	ANAT 293 304	néphrotique
+T11	Concept_Idea 359 377	état hémodynamique
+T12	Concept_Idea 399 415	état métabolique
+T13	LIVB 477 483	malade
+T14	PROC 488 518	contrôle radiologique standard
+T15	PROC 531 556	scanner thoraco-abdominal
+T16	ANAT 539 556	thoraco-abdominal
+T17	DISO 598 637	distension ventriculo-pulmonaire fœtale
+T18	ANAT 609 637	ventriculo-pulmonaire fœtale
+T19	DISO 653 713	cysto-encéphalopathie interstitielle monocytaire congénitale
+T20	Localization 744 759	tiers supérieur
+T21	ANAT 766 793	paroi abdominale antérieure
+T22	Localization 783 793	antérieure
+T23	ANAT 811 841	branche crico-trachéale gauche
+T24	Localization 835 841	gauche
+T25	DISO 869 883	tumeur myxoide
+T26	ANAT 900 937	nerf cervicale pariétale homolatérale
+T27	Localization 925 937	homolatérale
+T28	ANAT 956 1015	compartiment thoracique controlatéral postéro-latéral droit
+T29	Localization 1010 1015	droit
+T30	DISO 1043 1080	symptomatologie néoplasique primitive
+T31	Concept_Idea 1093 1113	aspect morphologique
+T32	DISO 1141 1163	lésions dysplasmorphes
+T33	DISO 1191 1213	remaniements atypiques
+T34	DISO 1222 1248	déficit neuropsychiatrique
+T35	DISO 1363 1387	difficultés psychomoteur
+T36	PROC 1510 1529	enquête étiologique
+T37	LIVB 1548 1552	nous
+T38	MEAS 1638 1641	14%
+T39	MEAS 1645 1649	12 %
+T40	MEAS 1655 1665	11 - 9 ° C
+T42	MEAS 1776 1782	2,5 kg
+T43	DISO 1789 1817	signes clinico-radiologiques
+T44	DISO 1820 1847	hypertension intracrânienne
+T45	ANAT 1833 1847	intracrânienne
+T46	PHEN 1853 1868	fonction rénale
+T47	ANAT 1862 1868	rénale
+T48	MEAS 1875 1882	normale
+T49	DISO 1898 1925	trouble du bilan biologique
+T51	DEVI 1934 1968	sphincter analgésique intraveineux
+T53	TEMP 1988 1993	/jour
+T54	DISO 2009 2022	complications
+T55	PROC 2144 2154	diagnostic
+T56	DISO 2270 2288	crises convulsives
+T57	DISO 2494 2518	syndrome polymalformatif
+T58	Concept_Idea 2681 2693	état général
+T59	PROC 2847 2895	étude immunohistochimique préchimiothérapeutique
+T60	Concept_Idea 2957 2980	résultats histologiques
+T61	PROC 2984 3009	prélèvements chirurgicaux
+T62	Concept_Idea 3158 3195	méthodes endoscopiquement objectivées
+T63	PROC 3199 3218	suivi échographique
+T64	PROC 3255 3265	opératoire
+T65	DISO 3311 3370	adénocarcinomes épidermoïdes érythémato-rénalino-laryngiens
+T66	ANAT 3403 3446	ganglions médiastinaux maxillaires pelviens
+T67	PROC 3490 3513	biopsies scanno-guidées

@@ -1,0 +1,57 @@
+T1	LIVB 15 22	patient
+T2	PROC 73 84	hémodialyse
+T3	PROC 88 103	examen clinique
+T4	PROC 108 117	admission
+T5	DISO 137 154	syndrome anémique
+T6	Concept_Idea 165 187	paramètres biologiques
+T7	MEAS 188 198	constantes
+T8	ANAT 204 210	urines
+T9	MEAS 216 224	normales
+T10	PROC 229 250	bilan phosphocalcique
+T11	MEAS 255 261	normal
+T12	PROC 268 295	numération formule sanguine
+T13	MEAS 302 309	normale
+T14	PROC 314 345	fibroscopie oesogastroduodénale
+T15	ANAT 326 345	oesogastroduodénale
+T16	PROC 347 351	FOGD
+T17	DISO 380 390	malignités
+T18	ANAT 414 424	rein droit
+T19	Localization 419 424	droit
+T20	PROC 440 472	échographie-doppler obstétricale
+T21	PROC 473 477	ECBU
+T22	PROC 499 521	traitement substitutif
+T23	DISO 542 560	signe neurologique
+T24	DISO 571 595	symptomatologie tumorale
+T25	PROC 601 629	corticothérapie probabiliste
+T26	CHEM 635 653	acide zolédronique
+T27	MODE 658 676	voie intraveineuse
+T28	PROC 690 715	chimiothérapie palliative
+T29	CHEM 721 746	céphalosporine Isoniazide
+T30	MEAS 813 820	simples
+T31	PROC 826 841	rachianesthésie
+T32	TEMP 859 868	dix jours
+T33	PROC 878 897	traitement adjuvant
+T34	PROC 902 920	scanner abdominale
+T35	ANAT 910 920	abdominale
+T36	PROC 958 964	sortie
+T37	DISO 989 1017	distension abdominopérinéale
+T38	ANAT 1000 1017	abdominopérinéale
+T39	DISO 1029 1037	anomalie
+T40	PROC 1052 1093	remplissage vasculonerveux postopératoire
+T42	PROC 1107 1148	néphrectomie totale élargie scanno-guidée
+T43	PHEN 1185 1194	grossesse
+T44	TEMP 1205 1211	6 mois
+T45	Concept_Idea 1220 1237	plan histologique
+T46	Concept_Idea 1407 1438	caractéristiques morphologiques
+T47	Concept_Idea 1458 1489	variations anatomopathologiques
+T48	DISO 1513 1533	hypertriglycéridémie
+T49	DISO 1557 1584	cytokératite éosinophilique
+T50	PROC 1594 1607	méthode ELISA
+T51	Concept_Idea 1639 1666	aspect clinico-radiologique
+T52	DISO 1683 1697	tumeur maligne
+T53	PROC 1755 1784	prélèvements bactériologiques
+T54	DEVI 1806 1814	prothèse
+T55	PROC 1825 1847	tests microbiologiques
+T56	DISO 1949 1969	récidive néoplasique
+T57	LIVB 1986 1994	patients
+T58	DISO 2031 2053	inflammation chronique

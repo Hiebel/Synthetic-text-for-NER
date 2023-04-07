@@ -1,0 +1,31 @@
+T1	LIVB 19 29	adolescent
+T2	TEMP 33 39	16 ans
+T3	DISO 45 70	antécédents pathologiques
+T4	MEAS 71 79	notables
+T5	PROC 81 85	reçu
+T6	Hospital 90 98	urgences
+T8	ANAT 117 127	pelviennes
+T9	MEAS 142 153	progressive
+T10	TEMP 163 177	depuis un mois
+T12	MEAS 222 227	30 kg
+T13	PROC 232 262	bilan biologique préopératoire
+T14	DISO 281 300	syndrome infectieux
+T15	PROC 323 354	échographie abdomino- pelvienne
+T16	ANAT 335 354	abdomino- pelvienne
+T18	Localization 465 468	sus
+T19	ANAT 502 525	utérus abdominocervical
+T20	ANAT 565 593	rétro péritonéal lithiasique
+T21	MEAS 602 606	17cm
+T22	Concept_Idea 610 619	grand axe
+T23	ANAT 649 659	col utérin
+T24	MEAS 683 687	40mm
+T25	Concept_Idea 691 699	diamètre
+T26	PROC 720 729	injection
+T27	CHEM 733 753	produit de contraste
+T28	DISO 775 847	masse ulcerculée arrondie bourgeonnante angulo-conjonctivale infiltratée
+T29	ANAT 865 886	follicules lymphoïdes
+T30	DISO 907 934	nodules hyper vascularisées
+T31	ANAT 958 979	structures ovariennes
+T32	ANAT 1054 1062	vulvaire
+T33	MEAS 1071 1077	T0N1M0
+T34	PROC 1130 1154	exploration chirurgicale

@@ -1,0 +1,37 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 71	antécédents pathologiques
+T3	MEAS 72 84	particuliers
+T4	PROC 86 92	admise
+T5	Hospital 96 133	service des urgences ophtalmologiques
+T6	Hospital 137 157	CHU Hassan II de Fès
+T8	ANAT 196 208	péricardique
+T9	CHEM 250 268	benzodiazépiniques
+T10	PROC 287 316	intubation transoesophagienne
+T11	PROC 321 331	diagnostic
+T12	DISO 379 400	détresse respiratoire
+T13	PHEN 388 400	respiratoire
+T14	DISO 427 449	hémoptysies purulantes
+T15	TEMP 459 474	depuis 6 heures
+T16	DISO 496 516	désordre métabolique
+T17	MEAS 543 547	9 kg
+T18	LIVB 550 554	elle
+T19	DISO 596 615	polyradiculonéglige
+T20	LIVB 630 634	elle
+T21	MODE 649 667	voie intraveineuse
+T22	CHEM 671 684	métronidazole
+T23	CHEM 708 743	anti inflammatoires non stéroïdiens
+T24	PROC 757 793	ponction liquide pleuro-encéphalique
+T25	ANAT 766 793	liquide pleuro-encéphalique
+T26	PROC 809 832	analgésie préopératoire
+T27	MEAS 859 865	2500ml
+T28	MEAS 869 874	750ml
+T29	LIVB 922 930	patiente
+T30	DISO 944 962	empyème thoracique
+T31	ANAT 952 962	thoracique
+T32	Localization 1042 1055	macroscopique
+T33	DISO 1120 1142	lésions ostéophytiques
+T34	MEAS 1152 1160	16×12 cm
+T35	MEAS 1185 1189	deux
+T36	MEAS 1324 1336	négligeables
+T37	DEVI 1375 1399	moyens électrotechniques
+T38	MEAS 1593 1602	favorable

@@ -1,0 +1,37 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	5 ans
+T3	PHEN 47 56	grossesse
+T4	DISO 134 147	particularité
+T5	DISO 164 179	symptomatologie
+T6	TEMP 190 196	3 mois
+T7	PROC 205 214	admission
+T8	Hospital 218 236	service d'urologie
+T9	Hospital 241 279	Cliniques Universitaires de Lubumbashi
+T10	Concept_Idea 405 417	état général
+T11	DISO 460 477	dyspnée sifflante
+T12	MODE 509 1495	bolus de 1 mg/kg de cortisol pour atténuer cette symptomatologie qui a augmenté rapidement de volume après avoir été associé à d'autres complications thromboemboliques telles qu'aménorrhées récurrentes, détresse respiratoire ou de digestion associée à certains épisodes d'insuffisance rénalo-cæcale nécrtico-inflammatoire type hypoglycémie hypokaliémique occasionnant chez ces poussins cæciens comme seul mécanisme étiologique éventuel l'absence de prise médicamenteuse antibloquante décelable ni aucun autre pathophysiologiques notamment pas d'antécédents pathologiques médicaux personnels ou familiaux n'étaient retrouvés alors même qu'un bilan d'immunodépression fait était réalisé afin d'éliminer tout autres facteurs déclenchants susceptibles d'être évoqués mais n'ayant pas pu être écartés devant l'aggravation globale de la symptomatologie surtout sous traitement hormonal substitutif adjuvant associant : méthylprednisolone 2mg/kg/jour pendant pendant 6 semaines puis relai par 
+T13	DOSE 518 525	1 mg/kg
+T14	CHEM 529 537	cortisol
+T15	DISO 558 573	symptomatologie
+T16	MEAS 589 599	rapidement
+T17	Concept_Idea 603 609	volume
+T18	DISO 645 676	complications thromboemboliques
+T19	DISO 687 698	aménorrhées
+T20	DISO 712 733	détresse respiratoire
+T21	PHEN 721 733	respiratoire
+T22	DISO 737 749	de digestion
+T23	PHEN 740 749	digestion
+T24	ANAT 794 807	rénalo-cæcale
+T25	DISO 836 863	hypoglycémie hypokaliémique
+T26	LIVB 886 902	poussins cæciens
+T27	DISO 1018 1037	pathophysiologiques
+T28	PROC 1150 1174	bilan d'immunodépression
+T29	DISO 1340 1355	symptomatologie
+T30	PROC 1369 1409	traitement hormonal substitutif adjuvant
+T31	CHEM 1422 1440	méthylprednisolone
+T32	DOSE 1441 1447	2mg/kg
+T33	TEMP 1447 1452	/jour
+T34	TEMP 1461 1479	pendant 6 semaines
+T35	DOSE 1527 1533	500 mg
+T36	TEMP 1533 1535	/j
+T37	MEAS 1767 1783	1000-2000 litres

@@ -1,0 +1,23 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	6 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 82	admis
+T6	Hospital 86 105	chirurgie pédiatrie
+T7	DISO 115 143	pneumo-péricardite purulente
+T8	Concept_Idea 160 166	effort
+T9	TEMP 176 190	depuis 3 jours
+T10	PROC 194 214	examen préopératoire
+T11	ANAT 240 247	abdomen
+T12	MEAS 248 254	souple
+T13	DISO 262 270	distendu
+T14	PROC 274 307	échocardiographie transthoracique
+T15	ANAT 292 307	transthoracique
+T16	DISO 338 452	thrombose des artères coronaires inféro-myocardiennes du sinus caverneux intrarénal laryngopharyngéo-bronchodilaté
+T18	ANAT 395 452	sinus caverneux intrarénal laryngopharyngéo-bronchodilaté
+T19	DEVI 454 464	ETT biplan
+T20	PROC 470 514	tomodensitométrie thoraco-abdomino-pelvienne
+T21	ANAT 488 514	thoraco-abdomino-pelvienne
+T22	PROC 536 552	analgésie locale
+T23	DOSE 557 564	3 mg/kg
+T24	CHEM 568 579	bupivacaine

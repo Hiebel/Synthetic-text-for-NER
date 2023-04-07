@@ -1,0 +1,15 @@
+T1	LIVB 9 14	homme
+T2	PROC 104 159	splénectomie transphréno-rénale unilatérale segmentaire
+T3	PROC 165 235	anastomose iléo-tuberculeane pancréatique bilio-digestive endoscopique
+T5	PROC 244 256	consultables
+T6	Concept_Idea 300 315	acuité visuelle
+T7	DISO 336 357	symptômes fonctionnel
+T8	TEMP 367 388	depuis environ 3 mois
+T9	PROC 398 418	reprise chirurgicale
+T10	LIVB 428 430	il
+T11	PROC 452 485	pris en charge radiothérapeutique
+T12	PROC 517 531	radiothérapies
+T13	PROC 677 706	explorations ophtalmologiques
+T14	MEAS 749 753	1/10
+T15	MEAS 812 820	brunâtre
+T16	DISO 830 845	protrusionnelle

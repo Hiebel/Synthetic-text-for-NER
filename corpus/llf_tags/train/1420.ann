@@ -1,0 +1,53 @@
+T1	PROC 4 20	bilan biologique
+T2	DISO 37 83	hyperleucocytose à polynucléaires neutrophiles
+T3	Concept_Idea 92 96	taux
+T4	PROC 100 124	lymphocytes éosinophiles
+T5	MEAS 127 144	1200 cellules/mm3
+T6	PROC 150 170	récepteurs hormonaux
+T7	MEAS 171 179	positifs
+T8	PHEN 201 216	fonction rénale
+T9	ANAT 210 216	rénale
+T10	MEAS 217 224	normale
+T11	LIVB 252 260	patiente
+T12	CHEM 277 308	amoxicilline-acide clavulanique
+T13	PROC 320 342	remplissage vasculaire
+T14	ANAT 332 342	vasculaire
+T15	CHEM 349 380	azathioprine acide clavulanique
+T16	PROC 393 417	lavage thoraco-abdominal
+T17	ANAT 400 417	thoraco-abdominal
+T18	DEVI 421 431	microscope
+T19	PROC 440 461	contrôle radiologique
+T20	DISO 480 493	particularité
+T21	MEAS 526 533	simples
+T22	PROC 547 565	antibioprophylaxie
+T23	Concept_Idea 578 598	chiffres tensionnels
+T24	Concept_Idea 609 618	principes
+T25	PROC 1592 1616	prise en charge médicale
+T26	PROC 1650 1681	consultation multidisciplinaire
+T27	PROC 1719 1730	hémodialyse
+T28	PROC 1875 1899	anesthésie locorégionale
+T29	PROC 1904 1927	traitement conservateur
+T31	DOSE 2020 2024	5 mg
+T32	TEMP 2024 2029	/jour
+T33	CHEM 2034 2054	méthamydrocannabinol
+T34	PROC 2060 2088	séances psychothérapeutiques
+T35	Concept_Idea 2137 2154	résultat clinique
+T36	LIVB 2198 2205	patient
+T37	PROC 2220 2239	traitement adjuvant
+T38	PROC 2329 2358	hypnovellisation diagnostique
+T39	DISO 2490 2526	symptômes neuropsychiatriques aiguës
+T40	PROC 2724 2746	traitement substitutif
+T41	PROC 2755 2806	transfusion du méthotrexate parentéral intraveineux
+T42	CHEM 2770 2806	méthotrexate parentéral intraveineux
+T43	Concept_Idea 2812 2816	dose
+T44	DOSE 2820 2830	0,4 gramme
+T45	TEMP 2830 2832	/j
+T46	MEAS 2859 2865	double
+T47	PROC 2866 2885	rééducation motrice
+T48	ANAT 2900 2914	nerfs crâniens
+T49	PROC 2928 2964	psychothérapie cognitivo-pédagogique
+T50	LIVB 3321 3345	grands parents maternels
+T52	LIVB 3556 3574	sportifs étrangers
+T53	PROC 3674 3692	traitement curatif
+T54	PHEN 3965 3986	grossesse monofoetale
+T55	MEAS 4230 4241	trèssimples

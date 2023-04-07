@@ -1,0 +1,55 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	8 ans
+T3	PROC 63 75	consultation
+T4	Hospital 80 101	urgences pédiatriques
+T5	DISO 111 121	lombalgies
+T6	PROC 125 140	examen clinique
+T7	LIVB 155 165	nourrisson
+T8	MEAS 169 176	mauvais
+T9	Concept_Idea 177 189	état général
+T10	PROC 199 231	examen du membre supérieur droit
+T11	ANAT 209 231	membre supérieur droit
+T12	Localization 226 231	droit
+T13	DISO 250 259	dysphonie
+T14	PROC 277 293	examen somatique
+T15	DISO 303 316	particularité
+T16	PROC 321 353	bilan radiologique préopératoire
+T17	DISO 370 405	pneumopathie nosocomiale atrophique
+T18	TEMP 415 428	depuis 2 mois
+T19	Concept_Idea 464 476	état général
+T20	DISO 491 505	déshydratation
+T21	PHEN 523 532	grossesse
+T22	PROC 545 551	suivie
+T23	DISO 644 663	contage tuberculeux
+T24	DISO 674 703	symptômes neuropsychiatriques
+T25	Concept_Idea 716 741	aspect psychopathologique
+T26	DISO 788 806	léiomyome kystique
+T27	LIVB 815 825	nouveau-né
+T28	PROC 852 876	chimiothérapie adjuvante
+T29	PROC 890 914	radiothérapie palliative
+T30	CHEM 920 936	corticostéroïdes
+T31	DOSE 938 944	500 Gy
+T32	MODE 950 968	voie intraveineuse
+T34	DOSE 1033 1041	400µg/Kg
+T35	PROC 1047 1057	diagnostic
+T37	MEAS 1250 1256	T3N0MX
+T38	MEAS 1266 1271	18 cm
+T39	Concept_Idea 1275 1284	grand axe
+T40	DEVI 1315 1340	sillons transoesophagiens
+T41	DEVI 1380 1417	relais infra centimétriques aspiratif
+T42	MEAS 1441 1445	10mm
+T43	MEAS 1449 1453	9 mm
+T44	PROC 1459 1480	biopsie scanno-guidée
+T45	PROC 1487 1511	extubation endotrachéale
+T46	ANAT 1600 1640	lumière œso-gastro-duo-manubrium caudale
+T47	ANAT 1646 1685	glandes salivaires jugulo-carotidiennes
+T48	PROC 2179 2212	méthode immunohistochimique JIMIC
+T49	Concept_Idea 2882 2903	résultat histologique
+T50	LIVB 2919 2943	streptococcus agalactiae
+T51	DISO 3099 3134	pneumopathie infectieuse polymorphe
+T52	TEMP 3283 3288	6 ans
+T53	PHEN 3293 3308	fonction rénale
+T54	ANAT 3302 3308	rénale
+T55	MEAS 3315 3322	normale
+T56	LIVB 3349 3362	streptococcus
+T57	CHEM 3394 3408	gentaméthasone

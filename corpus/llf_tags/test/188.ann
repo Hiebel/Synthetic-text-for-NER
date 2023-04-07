@@ -1,0 +1,60 @@
+T1	LIVB 16 24	patiente
+T2	DISO 64 87	hypertension artérielle
+T3	ANAT 77 87	artérielle
+T4	DISO 94 101	diabète
+T5	MEAS 102 116	bien équilibré
+T6	PROC 121 133	consultation
+T7	Hospital 139 161	maternité des orangers
+T8	MEAS 168 175	normale
+T9	PROC 179 194	examen clinique
+T10	DISO 226 240	déficit moteur
+T11	DISO 244 255	myoclonique
+T12	ANAT 264 286	membre inférieur droit
+T13	Localization 281 286	droit
+T14	Concept_Idea 306 315	complexes
+T15	ANAT 319 324	genou
+T16	PROC 330 341	échographie
+T17	PHEN 358 382	reflexes ostéo-tendineux
+T18	ANAT 367 382	ostéo-tendineux
+T19	Concept_Idea 432 448	plan transversal
+T20	Concept_Idea 482 488	taille
+T21	PROC 494 518	laparotomie exploratrice
+T22	PROC 545 574	biopsie scannoguidée monobloc
+T23	PROC 580 605	étude anatomopathologique
+T25	LIVB 975 981	enfant
+T26	TEMP 989 998	deux mois
+T27	DISO 1047 1065	conflits familiaux
+T28	PROC 1105 1122	geste obstétrical
+T29	LIVB 1127 1137	nouveau-né
+T30	PROC 1163 1217	chirurgien orthopédique multidisciplinaire pédiatrique
+T31	LIVB 1259 1263	sœur
+T32	PROC 1300 1327	certificat médical primaire
+T33	PROC 1333 1355	rachianesthésie locale
+T34	CHEM 1357 1388	amoxicilline acide clavulanique
+T35	CHEM 1391 1408	acide salicylique
+T36	Concept_Idea 1422 1440	état hémodynamique
+T37	MEAS 1446 1455	stade III
+T38	LIVB 1470 1472	on
+T39	DISO 1647 1666	troubles trophiques
+T40	DISO 1684 1700	râles crépitants
+T41	DISO 1716 1738	signes cutanéomudicaux
+T42	DISO 1746 1767	anomalie neurologique
+T43	Concept_Idea 1784 1789	santé
+T44	MEAS 1899 1909	similaires
+T45	DISO 1987 2009	symptômes psychotiques
+T46	DISO 2156 2180	hallucinations visuelles
+T47	Concept_Idea 2258 2275	plan histologique
+T48	DISO 2425 2449	récidives psychiatriques
+T49	PROC 3372 3383	littérature
+T50	PROC 3459 3493	investigations multidisciplinaires
+T51	PHEN 3576 3601	recherches fonctionnelles
+T52	LIVB 3612 3618	malade
+T53	DISO 3689 3722	psychose maniaco-dépressive aigue
+T54	ANAT 3765 3787	membre supérieur droit
+T55	Localization 3782 3787	droit
+T56	DISO 3819 3844	complications systémiques
+T57	ANAT 4411 4425	nasopharyngées
+T58	DISO 4972 5003	accident vasculaire cérébelleux
+T59	ANAT 4992 5003	cérébelleux
+T60	DISO 5009 5035	AVC ischémique hypertensif
+T61	DISO 5054 5156	déviation pariétale congénitale kystique oblitérante biquotidienne postéro-externe jugulaire étranglée

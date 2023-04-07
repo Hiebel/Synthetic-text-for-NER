@@ -1,0 +1,31 @@
+T1	LIVB 19 26	patient
+T2	DISO 56 99	hémangiocarcinome kystique du paroi utérine
+T3	ANAT 86 99	paroi utérine
+T4	PROC 110 121	hospitalisé
+T5	DISO 131 143	métrorragies
+T6	PROC 147 161	interrogatoire
+T7	LIVB 180 182	il
+T8	MEAS 221 222	2
+T9	Localization 234 244	extrémités
+T10	DISO 258 267	anomalies
+T11	PROC 272 309	bilan hormonothérapie substitutivante
+T12	PROC 323 347	radiothérapie palliative
+T13	PROC 388 400	consultation
+T14	DISO 476 494	pancréatite aiguée
+T15	PROC 526 550	scanner abdomino-pelvien
+T16	ANAT 534 550	abdomino-pelvien
+T17	DISO 575 716	masse tissulaire hyperdense hétérogène hypo-vascularisée hypodense pariétale latéro-sigmoïdienne homolatérale droite juxta-annexielle bilobée
+T19	DISO 733 757	résidu tumoral lésionnel
+T20	ANAT 778 791	surrénalectum
+T21	PROC 831 867	tomodensitométrie abdomino pelvienne
+T22	ANAT 849 867	abdomino pelvienne
+T23	DISO 886 974	adénopathies sus-rénaliens brachycéphalo-lenticulaires infra-centimétriques infiltratées
+T25	DISO 1000 1018	atteinte pelvienne
+T26	ANAT 1009 1018	pelvienne
+T27	DISO 1087 1119	complications thromboembellantes
+T28	LIVB 1137 1143	malade
+T29	DISO 1160 1187	épanchement intrapéritonéal
+T30	ANAT 1172 1187	intrapéritonéal
+T31	DISO 1331 1348	récidive tumorale
+T32	DISO 1366 1392	localisations néoplasiques
+T33	DISO 1556 1564	kystique

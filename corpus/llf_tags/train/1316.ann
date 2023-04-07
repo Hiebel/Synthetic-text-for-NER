@@ -1,0 +1,51 @@
+T1	LIVB 28 35	patient
+T2	DISO 63 107	accident vasculaire cérébral ischémique aigu
+T3	LIVB 125 127	on
+T4	PROC 144 164	transfusion sanguine
+T6	CHEM 219 250	amoxicilline acide clavulanique
+T7	DOSE 251 253	3g
+T8	TEMP 253 258	/jour
+T9	DISO 276 300	symptomatologie clinique
+T10	TEMP 313 330	6 mois auparavant
+T11	LIVB 338 342	nous
+T12	PROC 376 387	hémodialyse
+T14	MEAS 445 453	normales
+T15	MEAS 473 478	rares
+T16	PROC 495 519	prélèvements spécialisés
+T17	TEMP 556 563	5 jours
+T18	PROC 624 643	enquête étiologique
+T19	DISO 675 697	constipation chronique
+T20	DISO 732 759	complications obstétricales
+T21	LIVB 798 803	notre
+T22	LIVB 804 811	patient
+T23	PROC 826 851	traitements médicamenteux
+T24	PROC 881 887	suivis
+T25	LIVB 894 897	son
+T26	LIVB 898 904	épouse
+T27	LIVB 908 910	sa
+T28	LIVB 911 915	sœur
+T29	TEMP 939 945	21 ans
+T30	TEMP 949 954	23ans
+T31	DEVI 972 993	mariage consanguin BZ
+T32	TEMP 1001 1007	16mois
+T33	LIVB 1017 1020	nos
+T34	LIVB 1021 1028	malades
+T35	LIVB 1243 1248	leurs
+T36	LIVB 1379 1383	nous
+T37	DISO 1422 1446	récidive endométriosique
+T38	DISO 1512 1533	maladie auto-infligée
+T39	DISO 1561 1584	hallucinations verbales
+T40	PROC 1657 1688	geste thérapeutique substitutif
+T41	ANAT 1790 1812	membre inférieur droit
+T42	Localization 1807 1812	droit
+T43	Concept_Idea 1814 1823	figure 1M
+T44	DISO 1856 1880	dérivations anictériques
+T45	LIVB 1902 1909	patient
+T47	DISO 2034 2067	métaplasie psychotique polymorphe
+T48	LIVB 2234 2242	patiente
+T49	DISO 2323 2344	détresse respiratoire
+T50	PHEN 2332 2344	respiratoire
+T51	DISO 2615 2641	adénopathies tuberculeuses
+T52	CHEM 2690 2707	corticoïde sodium
+T53	PROC 2719 2758	traitement antipsychotique traditionnel
+T54	PROC 2784 2811	analyse immunohistochimique

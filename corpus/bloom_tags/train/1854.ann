@@ -1,0 +1,43 @@
+T1	LIVB 15 22	patient
+T2	TEMP 56 60	2008
+T3	DISO 65 86	détresse respiratoire
+T4	PHEN 74 86	respiratoire
+T5	DISO 101 156	syndrome d'épanchement périphérique des sinus caverneux
+T6	Localization 124 136	périphérique
+T7	ANAT 141 156	sinus caverneux
+T8	ANAT 170 192	membre inférieur droit
+T9	Localization 187 192	droit
+T10	MEAS 204 219	progressivement
+T11	Concept_Idea 223 229	volume
+T12	DISO 245 251	fièvre
+T13	DISO 257 271	amaigrissement
+T14	PROC 289 304	examen clinique
+T15	LIVB 308 315	patient
+T16	Concept_Idea 366 378	état général
+T17	DISO 380 391	polypnéique
+T18	MEAS 394 407	30 cycles/min
+T19	DISO 411 421	tachycarde
+T21	TEMP 439 450	par minutes
+T22	DEVI 460 486	pression artérielle pulsée
+T23	ANAT 469 486	artérielle pulsée
+T24	PROC 488 491	PNI
+T25	MEAS 493 517	supérieure à 100/60 mmHg
+T26	DISO 540 551	bradycardie
+T27	ANAT 582 601	cutanéo-vasculaires
+T29	DISO 851 869	signes biologiques
+T30	DISO 892 928	hypothermie fébrile mal systématisée
+T31	PROC 944 959	hospitalisation
+T32	Hospital 965 983	service d’urgences
+T33	DISO 1005 1027	hémiplégie réfractaire
+T34	PROC 1080 1083	ECG
+T35	PROC 1088 1113	intervention chirurgicale
+T36	PROC 1136 1176	greffontransposition coronarienne isolée
+T37	ANAT 1157 1176	coronarienne isolée
+T38	PROC 1197 1247	ponction veineuse ombilicale biliaire exploratrice
+T39	ANAT 1206 1247	veineuse ombilicale biliaire exploratrice
+T40	DOSE 1272 1277	500ml
+T41	DOSE 1281 1286	50 mg
+T42	CHEM 1290 1308	méthylprednisolone
+T43	DOSE 1339 1343	1 kg
+T45	MODE 1388 1393	bolus
+T46	CHEM 1397 1416	hydroxy-chloroquine

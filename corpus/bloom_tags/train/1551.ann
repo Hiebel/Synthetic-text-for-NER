@@ -1,0 +1,40 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 38 43	2 ans
+T3	Concept_Idea 50 75	antécédents pathologiques
+T4	MEAS 76 84	notables
+T5	PROC 86 92	admise
+T6	Hospital 96 127	service de chirurgie thoracique
+T7	DISO 154 183	dyspnée chronique obstructive
+T8	TEMP 193 206	depuis 2 mois
+T9	DISO 232 238	sueurs
+T10	PROC 242 256	examen initial
+T11	LIVB 267 273	enfant
+T12	Concept_Idea 298 316	plan hémodynamique
+T13	PHEN 320 332	respiratoire
+T14	DISO 352 366	amaigrissement
+T15	MEAS 377 382	14 kg
+T16	TEMP 386 395	deux mois
+T17	PROC 399 423	examen pleuro-pulmonaire
+T18	ANAT 406 423	pleuro-pulmonaire
+T19	DISO 440 495	syndrome d'épanchement liquidien sus-rénal hypertrophié
+T20	ANAT 463 495	liquidien sus-rénal hypertrophié
+T21	DISO 510 539	douleur basithoracique droite
+T22	ANAT 518 539	basithoracique droite
+T23	Localization 533 539	droite
+T24	ANAT 555 576	muqueuses cheveluques
+T25	MEAS 591 618	progressivement progressive
+T26	ANAT 642 663	vésicules bronchiques
+T27	MEAS 688 696	18/10 cm
+T28	MEAS 700 708	20/12 cm
+T29	ANAT 740 762	surrénale homolatérale
+T30	Localization 750 762	homolatérale
+T31	PROC 871 915	tomodensitométrie thoraco abdomino-pelvienne
+T32	ANAT 889 915	thoraco abdomino-pelvienne
+T33	DISO 931 975	sténose pulmonaire lobaire supérieure droite
+T34	ANAT 939 975	pulmonaire lobaire supérieure droite
+T35	Localization 969 975	droite
+T36	PROC 999 1022	injection intraveineuse
+T37	CHEM 1026 1046	produit de contraste
+T38	DISO 1075 1093	kystique nodulaire
+T39	PROC 1110 1135	étude immunohistochimique
+T40	PROC 1141 1149	marquage

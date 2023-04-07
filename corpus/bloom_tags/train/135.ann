@@ -1,0 +1,63 @@
+T1	LIVB 3 10	patient
+T2	PROC 27 38	hospitalisé
+T3	Hospital 46 70	unité de soins intensifs
+T4	Hospital 72 77	UHICU
+T5	PROC 85 112	traitement médical adjuvant
+T6	CHEM 127 141	hydrocortisone
+T7	CHEM 144 173	chimiothérapie antibacillaire
+T8	CHEM 179 189	paclitaxel
+T9	CHEM 192 203	Ceftriaxone
+T10	CHEM 206 222	sulfaméthoxazole
+T11	CHEM 225 239	Gentaméthasone
+T12	MODE 241 259	voie intraveineuse
+T13	CHEM 285 297	césufentanil
+T14	DEVI 302 335	sonde vésicale transoesophagienne
+T16	PROC 475 528	ponction liquide céphalo-mandibulaire inféro-laterale
+T17	ANAT 484 528	liquide céphalo-mandibulaire inféro-laterale
+T18	PROC 576 607	intubation oeso-gastroduodénale
+T19	ANAT 587 607	oeso-gastroduodénale
+T20	PROC 617 647	monitorage vasculo-cerveletien
+T21	ANAT 628 647	vasculo-cerveletien
+T22	DISO 797 825	symptomatologie neurologique
+T23	LIVB 968 974	malade
+T24	TEMP 982 988	72 ans
+T25	PROC 1009 1036	investigations étiologiques
+T26	DISO 1078 1085	dyspnée
+T27	MEAS 1100 1122	rapidement progressive
+T28	DISO 1243 1272	traumatisme pleuro-pulmonaire
+T29	ANAT 1255 1272	pleuro-pulmonaire
+T30	DISO 1279 1319	dépression basithoracique basithoracique
+T31	ANAT 1290 1319	basithoracique basithoracique
+T32	TEMP 1348 1354	12 ans
+T33	LIVB 1361 1363	sa
+T34	PROC 1364 1397	prise médicamenteuse chirurgicale
+T35	PROC 1433 1437	reçu
+T36	DISO 1483 1489	fièvre
+T37	MEAS 1501 1505	40°C
+T38	DISO 1522 1528	sueurs
+T39	MEAS 1529 1537	profuses
+T40	DISO 1574 1598	purpura fébrile purulent
+T41	DISO 1608 1616	tumorale
+T42	DISO 1651 1670	céphalées visuelles
+T43	MEAS 1680 1693	plus marquées
+T44	LIVB 1726 1730	elle
+T45	MEAS 1755 1766	progressive
+T46	DISO 1774 1808	méningo-radiculalgies douloureuses
+T47	ANAT 1841 1866	massif cervico-thoracique
+T48	DISO 1885 1921	atteinte sensitivomotrice symétrique
+T49	PROC 2038 2057	numération sanguine
+T50	DISO 2071 2087	hyperleucocytose
+T51	MEAS 2090 2108	13200 éléments/mm3
+T52	PROC 2121 2176	examen cytobactériologique du liquide céphalo-rachidien
+T53	ANAT 2151 2176	liquide céphalo-rachidien
+T54	MEAS 2183 2190	négatif
+T55	PROC 2194 2224	échographie abdomino-pelvienne
+T56	ANAT 2206 2224	abdomino-pelvienne
+T57	Concept_Idea 2237 2243	aspect
+T58	DISO 2259 2304	carcinome épidermoïde utéro-ovarien infiltrat
+T60	DEVI 2349 2390	sonde vésicale progestative transfixiante
+T62	MEAS 2409 2418	suspectée
+T63	PROC 2438 2458	traitement palliatif
+T64	PROC 2463 2495	scanner thoraco-abdomino-pelvien
+T65	ANAT 2471 2495	thoraco-abdomino-pelvien
+T66	DISO 2523 2548	localisations secondaires

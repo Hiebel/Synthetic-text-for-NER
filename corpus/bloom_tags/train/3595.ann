@@ -1,0 +1,48 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	7 ans
+T3	DISO 36 71	accident ischémique périsurrénalien
+T4	LIVB 90 93	ses
+T5	LIVB 94 101	parents
+T6	DISO 116 151	lésions érythémateuses prurigineuse
+T7	ANAT 158 171	épaule droite
+T8	Localization 165 171	droite
+T9	DISO 185 218	tuméfaction œsophagienne tumorale
+T10	DISO 284 292	kystique
+T11	DISO 296 307	lithiasique
+T12	PROC 314 349	échographie cervico-laryngoscopique
+T13	ANAT 326 349	cervico-laryngoscopique
+T14	PROC 370 417	anesthésielocorélivienne transpharyngotrachéale
+T15	DISO 440 463	résidu kystique tumoral
+T16	PROC 476 509	scanner thoraco abdomino- pelvien
+T17	ANAT 484 509	thoraco abdomino- pelvien
+T18	DISO 534 635	tumeur arrondie tissulaire angulo-carcinomateuse latéro-myometriale sus-sternale hétérogène hypodense
+T19	ANAT 723 756	sinus ptérygoïdien basithoracique
+T20	DISO 821 840	pneumo-interstitiel
+T21	DISO 858 878	paragangliome séreux
+T22	PROC 893 912	bilan préopératoire
+T23	PROC 925 947	natrémie peropératoire
+T24	MEAS 950 959	135 meq/l
+T25	PROC 965 973	kaliémie
+T26	MEAS 976 985	0,6 meq/l
+T27	PROC 989 1007	ionogramme sanguin
+T28	ANAT 1000 1007	sanguin
+T29	DISO 1029 1051	maladie néphropathique
+T30	DEVI 1065 1075	bandelette
+T31	MEAS 1100 1108	9,4 g/dl
+T32	PROC 1145 1163	traitement curatif
+T33	PROC 1182 1212	radiothérapie locale adjuvante
+T34	PROC 1293 1315	protocole chirurgicale
+T35	PROC 1330 1359	colpohysterectomie monofocale
+T36	PROC 1373 1421	curage biliaire biliaire ganglionnaire axillaire
+T37	ANAT 1380 1421	biliaire biliaire ganglionnaire axillaire
+T38	DISO 1477 1502	localisation métastatique
+T39	PROC 1532 1552	traitement palliatif
+T40	DISO 1619 1644	prédominance histologique
+T41	DOSE 1647 1652	100Gy
+T42	TEMP 1711 1715	1 an
+T43	DISO 1738 1746	récidive
+T44	Concept_Idea 1894 1919	indications radiologiques
+T45	LIVB 1924 1932	patiente
+T46	PROC 1960 1985	scanner abdomino- pelvien
+T47	ANAT 1968 1985	abdomino- pelvien
+T48	DISO 2008 2017	anomalies

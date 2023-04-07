@@ -1,0 +1,27 @@
+T1	LIVB 20 28	patiente
+T2	DISO 49 74	antécédents pathologiques
+T3	MEAS 75 87	particuliers
+T4	DISO 108 129	détresse respiratoire
+T5	PHEN 117 129	respiratoire
+T6	PROC 134 143	admission
+T7	DISO 162 176	amaigrissement
+T8	MEAS 187 192	15 kg
+T9	PROC 196 211	examen clinique
+T10	LIVB 225 233	patiente
+T11	MEAS 237 240	bon
+T12	Concept_Idea 241 253	état général
+T13	ANAT 255 265	tachycarde
+T14	MEAS 268 280	110 batt/min
+T15	PROC 286 307	contraception utérine
+T16	ANAT 300 307	utérine
+T17	DEVI 312 337	cathéter veineux périnéal
+T18	ANAT 321 337	veineux périnéal
+T19	ANAT 351 369	mésentère vaginale
+T20	DISO 389 464	syndrome d'épanchement périphérique des parties molles cervico-vésiculaires
+T21	Localization 412 424	périphérique
+T22	ANAT 429 464	parties molles cervico-vésiculaires
+T23	PROC 468 482	interrogatoire
+T24	TEMP 499 517	une année plus tôt
+T25	LIVB 521 529	patiente
+T26	CHEM 546 559	benzodiazépam
+T27	CHEM 563 576	phénobarbital

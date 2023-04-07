@@ -1,0 +1,31 @@
+T1	LIVB 15 22	patient
+T2	PROC 38 46	consulte
+T3	Hospital 51 59	urgences
+T4	DISO 69 97	douleurs abdomino-pelviennes
+T5	ANAT 78 97	abdomino-pelviennes
+T6	TEMP 107 120	depuis 2 mois
+T7	DISO 137 143	fièvre
+T8	MEAS 155 161	37,7°C
+T9	PROC 165 180	examen clinique
+T10	LIVB 193 200	patient
+T11	MEAS 204 213	assez bon
+T12	Concept_Idea 214 226	état général
+T13	PHEN 234 255	réflexes ostéo-cutané
+T14	ANAT 243 255	ostéo-cutané
+T15	PROC 278 294	bilan biologique
+T16	DISO 306 319	particularité
+T17	DISO 336 356	hypercholestérolémie
+T18	MEAS 379 384	1,25%
+T19	PROC 390 413	radiographie thoracique
+T20	ANAT 403 413	thoracique
+T21	DISO 445 474	opacité périthoracique droite
+T22	ANAT 453 474	périthoracique droite
+T23	Localization 468 474	droite
+T24	ANAT 490 538	parenchyme pariéto-condense du hémi thorax droit
+T25	Localization 533 538	droit
+T26	ANAT 554 578	épaule thoracique droite
+T27	Localization 572 578	droite
+T28	MEAS 588 592	6 cm
+T29	Concept_Idea 596 605	grand axe
+T30	CHEM 630 650	produit de contraste
+T31	DISO 667 726	dépression médiastinale paucicompétent hypocalcique lobulée

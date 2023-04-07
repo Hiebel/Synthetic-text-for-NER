@@ -1,0 +1,53 @@
+T1	LIVB 15 22	patient
+T2	TEMP 38 51	il y a 10 ans
+T3	MEAS 90 98	notables
+T4	DISO 116 125	tabagisme
+T5	DISO 131 164	intoxication aux sulfaméthoxazole
+T6	CHEM 148 164	sulfaméthoxazole
+T7	TEMP 174 187	depuis 6 mois
+T8	LIVB 194 197	son
+T9	PROC 198 213	hospitalisation
+T10	Hospital 223 230	service
+T11	DISO 257 273	dyspnée d'effort
+T12	MEAS 288 294	rapide
+T13	DISO 309 329	hémoptysie purulente
+T14	MEAS 344 355	progressive
+T15	PROC 376 394	traitement curatif
+T16	DOSE 405 409	deux
+T17	CHEM 410 425	anti bactériens
+T18	CHEM 427 438	Riftriaxone
+T19	CHEM 444 456	Prednisolone
+T20	PROC 462 504	scanner cervico-thoracique scannographique
+T21	ANAT 470 504	cervico-thoracique scannographique
+T22	LIVB 521 528	dernier
+T23	DISO 553 578	localisations secondaires
+T24	DISO 593 612	emboles pulmonaires
+T25	ANAT 601 612	pulmonaires
+T26	DISO 696 747	empyème parathyroïdien latéro-mandibulaire infiltré
+T28	DISO 766 790	lymphangiectasme maligne
+T29	PROC 856 881	étude immunohistochimique
+T30	DISO 899 914	plages tumoraux
+T31	DISO 981 1000	myomateuse kystique
+T32	PROC 1227 1237	diagnostic
+T33	DISO 1269 1290	récidive neurologique
+T34	DISO 1304 1337	syndrome inflammatoire biologique
+T35	DISO 1352 1394	maladie thromboembolique veineuse profonde
+T37	ANAT 1441 1466	liquide céphalo-rachidien
+T38	PROC 1604 1648	complément échocardiographique préopératoire
+T39	DISO 1673 1767	hypertrophie ventriculaire homolatérale diaphragmatique postérieure péripartiale hypertrophiée
+T42	MEAS 1832 1857	de plus en plus accentuée
+T43	MEAS 1915 1918	40%
+T44	MEAS 1921 1924	20%
+T45	MEAS 1941 1949	normales
+T46	ANAT 2077 2120	membrane cranioccipitale transverse dorsale
+T47	LIVB 2211 2218	patient
+T48	PROC 2237 2259	chirurgie exploratrice
+T49	PROC 2265 2380	anastomose paroi-médiastin pancréatico-pancréatique duodéno-iléo-épiploïque antero-supéro-toracique scannographique
+T51	PROC 2382 2386	PPTS
+T52	PROC 2402 2454	curage ganglionnaire axillaire biliaire locorégional
+T53	ANAT 2409 2454	ganglionnaire axillaire biliaire locorégional
+T54	PROC 2460 2469	admission
+T55	Concept_Idea 2474 2485	poids total
+T56	MEAS 2495 2500	29 kg
+T57	Concept_Idea 2506 2524	état hémodynamique
+T58	CHEM 2537 2550	noradrénaline

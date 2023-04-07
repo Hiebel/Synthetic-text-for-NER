@@ -1,0 +1,40 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 37 61	antécédents pathologique
+T4	MEAS 62 74	particuliers
+T5	PROC 84 89	admis
+T6	Hospital 94 102	urgences
+T8	ANAT 121 134	épigastriques
+T9	TEMP 156 169	depuis 3 mois
+T10	MEAS 184 199	progressivement
+T11	Concept_Idea 202 217	acuité visuelle
+T12	ANAT 233 242	œil droit
+T13	Localization 237 242	droit
+T14	PHEN 263 282	grossesse spontanée
+T15	PROC 287 293	suivie
+T16	MEAS 342 354	2930 grammes
+T17	Concept_Idea 377 402	critères bactériologiques
+T18	PROC 409 436	tomodensitométrie cérébrale
+T19	ANAT 427 436	cérébrale
+T20	DISO 457 524	hypertrophie du sinus caverneux postéro-mésentérique pariétal droit
+T21	ANAT 473 524	sinus caverneux postéro-mésentérique pariétal droit
+T22	Localization 519 524	droit
+T23	MEAS 534 538	3 cm
+T24	Concept_Idea 542 551	grand axe
+T25	DISO 571 606	syndrome d'épanchement intracrânien
+T26	ANAT 594 606	intracrânien
+T27	PROC 653 691	ponction liquidienne périventriculaire
+T28	ANAT 662 691	liquidienne périventriculaire
+T29	DISO 744 815	opacité parenchymateuse liquidienne périventriculaire hypo-vascularisée
+T31	DISO 831 934	masse neurovascululière infiltro-hémangiopéricardique sus aryno-carotidienne craniïdienne érythémateuse
+T32	MEAS 943 947	18cm
+T33	Concept_Idea 951 960	grand axe
+T34	ANAT 995 1025	artère carotide interne droite
+T35	Localization 1019 1025	droite
+T36	DISO 1044 1073	infiltrat graisseux polylobée
+T37	ANAT 1054 1073	graisseux polylobée
+T38	DISO 1101 1147	lymphangiome hémangio-endothéreux hypertrophié
+T39	MEAS 1157 1170	macroscopique
+T40	DISO 1180 1220	hypoplasie chondrome congénitale maligne
+T41	LIVB 1242 1247	fille
+T42	TEMP 1256 1262	12 ans

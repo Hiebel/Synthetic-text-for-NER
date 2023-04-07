@@ -1,0 +1,18 @@
+T1	LIVB 4 12	patiente
+T2	PROC 34 46	hospitalisée
+T3	DISO 56 62	fièvre
+T4	TEMP 72 88	depuis six jours
+T5	MEAS 107 122	progressivement
+T6	PHEN 158 173	acuité visuelle
+T7	DISO 224 251	sensibilité cutanéomuqueuse
+T9	CHEM 298 329	fluorescéine acide clavulanique
+T10	DISO 366 407	syndrome polymalformatif sensitivo-moteur
+T11	MEAS 423 438	progressivement
+T12	MEAS 472 480	spontané
+T13	ANAT 493 504	fond d'oeil
+T14	LIVB 561 570	personnes
+T15	PROC 575 593	palpation clinique
+T16	DISO 647 695	hyperréflexie proprioceptive globale congénitale
+T17	DISO 747 761	déficit moteur
+T18	PROC 922 927	suivi
+T19	MEAS 934 942	positive

@@ -1,0 +1,87 @@
+T1	LIVB 16 24	patiente
+T2	DISO 75 93	douleurs plexiques
+T3	ANAT 84 93	plexiques
+T4	PROC 122 150	antibiothérapie concomitante
+T5	DISO 163 171	asthénie
+T6	MEAS 176 186	spécifique
+T7	TEMP 196 209	depuis 6 mois
+T8	PROC 213 228	examen clinique
+T9	LIVB 240 248	patiente
+T10	MEAS 252 259	mauvais
+T11	Concept_Idea 260 272	état général
+T12	PHEN 278 298	bruits du cœur fœtal
+T13	ANAT 288 298	cœur fœtal
+T14	DISO 335 361	signes neuropsychiatriques
+T15	DISO 379 386	cyanose
+T16	DISO 396 415	syndrome infectieux
+T17	PROC 420 433	sérologie VIH
+T18	MEAS 438 445	normale
+T19	PROC 451 479	prise en charge chirurgicale
+T20	PROC 484 513	néphrolithotomie exploratrice
+T21	PROC 527 562	radio-chimiothérapie postopératoire
+T22	DEVI 566 584	microscope optique
+T23	CHEM 595 613	hydroxychloroquine
+T24	CHEM 618 649	amoxicilline acide clavulanique
+T25	CHEM 660 670	céfotaxime
+T26	CHEM 673 684	ceftriaxone
+T27	CHEM 687 697	propanolol
+T28	CHEM 700 712	pyrazinamide
+T29	CHEM 715 726	tétrazidime
+T30	CHEM 729 739	aminosides
+T31	CHEM 742 752	corticoïde
+T32	CHEM 755 764	potassium
+T33	CHEM 767 780	monophosphore
+T34	CHEM 783 801	acide zolédronique
+T35	CHEM 804 817	métronidazole
+T36	CHEM 820 830	ethambutol
+T37	CHEM 833 852	methyl prednisolone
+T38	CHEM 855 865	éthambutol
+T39	CHEM 868 881	fluorouracile
+T40	CHEM 884 895	rifampicine
+T41	CHEM 898 912	hydrocortisone
+T42	CHEM 915 928	polynuronique
+T43	CHEM 931 942	prégabaline
+T44	CHEM 945 956	gentamycine
+T45	PROC 985 1004	suivi échographique
+T46	LIVB 1032 1040	patiente
+T47	DISO 1052 1070	récidive somatique
+T48	DISO 1077 1100	métastases néoplasiques
+T49	ANAT 1113 1141	nerf laryngé inférieur droit
+T50	Localization 1136 1141	droit
+T51	ANAT 1153 1188	nerf phréno-pelvien supérieur droit
+T52	Localization 1183 1188	droit
+T53	PROC 1207 1222	hospitalisation
+T54	TEMP 1232 1257	22ème jour postopératoire
+T55	PROC 1280 1335	transfibroscopie intraveineuse totale intraglobulinique
+T56	PROC 1336 1345	FOGD IRTF
+T57	PROC 1398 1410	abord direct
+T58	PROC 1479 1518	angioscanner abdomino-thoraco-abdominal
+T59	DISO 1548 1592	lésions kystiques anaplasmocytaires malignes
+T60	Concept_Idea 1638 1656	caractère évolutif
+T61	DISO 1673 1692	maladie nosocomiale
+T62	DISO 1707 1732	localisations secondaires
+T63	DISO 1770 1793	maladies auto-infligées
+T64	Hospital 1814 1846	structures hospitalo-judiciaires
+T65	MEAS 2224 2232	première
+T66	PHEN 2233 2242	grossesse
+T67	TEMP 2251 2262	24 semaines
+T68	PROC 2307 2325	bilan radiologique
+T69	DISO 2348 2413	kyste hydatique ectopique monophasique hétéronodulaire des vessie
+T70	ANAT 2407 2413	vessie
+T71	ANAT 2432 2471	symphyse thyroïdienne supérieure droite
+T73	MEAS 2481 2489	5cmx2 cm
+T74	ANAT 2515 2521	utérus
+T75	MEAS 2530 2535	50 mm
+T76	Concept_Idea 2539 2548	grand axe
+T77	DISO 2560 2581	anomalie pathologique
+T78	DISO 2608 2633	remaniement inflammatoire
+T79	ANAT 2657 2673	lympho-gastrique
+T80	PROC 2685 2705	examen gynécologique
+T82	PROC 2946 2968	traitement chirurgical
+T83	PROC 2990 3033	anesthésie générale endotrachéale adjuvante
+T84	DISO 3053 3086	incident thromboembolique veineux
+T85	PROC 3102 3130	soins intensifs pédiatriques
+T86	PROC 3144 3181	séances de rééducation locorégionales
+T87	DISO 3259 3291	perforation prothétique tumorale
+T88	PROC 3369 3407	radio transfusion sanguine parentérale
+T89	PROC 3421 3462	antibiothérapie probabiliste concomitante

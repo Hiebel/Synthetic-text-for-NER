@@ -1,0 +1,44 @@
+T1	LIVB 14 23	Mme M.N.M
+T2	MEAS 58 59	3
+T3	LIVB 60 67	garçons
+T4	LIVB 72 94	mariage consanguin OMS
+T5	TEMP 112 119	21 mois
+T6	MEAS 249 250	4
+T7	TEMP 297 302	10ans
+T8	DISO 316 335	accident domestique
+T9	LIVB 353 355	sa
+T10	LIVB 356 360	sœur
+T11	PROC 375 385	consultait
+T12	PROC 426 449	ventilation médicalisée
+T13	PROC 468 486	séjour hospitalier
+T14	LIVB 554 560	frères
+T15	TEMP 569 580	12 semaines
+T16	DISO 602 626	choc anaphylactique aigu
+T17	Concept_Idea 676 698	appartenances sociales
+T18	LIVB 758 765	enfants
+T20	DISO 916 940	hallucinations auditives
+T21	LIVB 949 954	elles
+T22	LIVB 1014 1025	gynécologue
+T23	Hospital 1029 1050	service psychiatrique
+T24	LIVB 1056 1062	épouse
+T25	PROC 1111 1130	bilan préopératoire
+T26	PHEN 1135 1155	grossesse monofoetal
+T27	DOSE 1171 1176	50SAU
+T29	PROC 1238 1260	laparotomie anténatale
+T30	DEVI 1306 1321	fente cervicale
+T31	PROC 1355 1364	chirurgie
+T32	ANAT 1368 1374	utérus
+T33	MEAS 1384 1388	5 cm
+T34	Localization 1391 1408	au plus grand axe
+T35	ANAT 1414 1431	annexes vaginales
+T36	MEAS 1440 1447	souples
+T37	DISO 1452 1464	douloureuses
+T38	DISO 1468 1481	hémorragiques
+T39	LIVB 1525 1532	malades
+T40	PROC 1555 1586	hystérectomie élargie adjuvante
+T41	ANAT 1629 1645	muqueuse buccale
+T42	ANAT 1664 1680	colon transverse
+T43	CHEM 1695 1725	protéine C réactive polymorphe
+T44	MEAS 1806 1821	100 millilitres
+T45	LIVB 2230 2237	patient
+T46	LIVB 2337 2341	nous

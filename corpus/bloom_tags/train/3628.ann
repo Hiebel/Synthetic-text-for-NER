@@ -1,0 +1,43 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	LIVB 73 77	mère
+T4	DISO 155 170	symptomatologie
+T5	TEMP 183 193	trois mois
+T6	PROC 204 213	admission
+T7	Hospital 217 233	bloc chirurgical
+T8	DISO 243 273	céphalées fébrile généralisées
+T9	DISO 289 313	hallucinations visuelles
+T10	PROC 317 332	examen clinique
+T11	DISO 349 409	tuméfaction du plexus phréno-diaphragmatique inférieur droit
+T12	ANAT 364 409	plexus phréno-diaphragmatique inférieur droit
+T13	Localization 404 409	droit
+T14	MEAS 421 436	progressivement
+T15	Concept_Idea 440 446	volume
+T16	MEAS 456 468	plus marquée
+T17	DISO 546 566	douleurs abdominales
+T18	LIVB 569 572	Son
+T19	PHEN 573 586	cicatrisation
+T20	MEAS 593 601	complète
+T21	PROC 607 642	contraception placenta artificielle
+T22	ANAT 621 642	placenta artificielle
+T23	TEMP 654 672	pendant 8 semaines
+T24	PROC 685 707	réhydratation sanguine
+T25	PROC 721 753	kinésithérapie ostéo-articulaire
+T26	ANAT 736 753	ostéo-articulaire
+T27	DISO 870 894	manifestations cliniques
+T28	DISO 912 918	fièvre
+T29	DISO 920 932	hyperthermie
+T30	DISO 938 960	hypotonie médiastinale
+T31	ANAT 948 960	médiastinale
+T32	DISO 1004 1029	déformations congénitales
+T33	DISO 1094 1120	anomalies morphogénétiques
+T34	DISO 1127 1151	néoplasiques maligneuses
+T35	PROC 1181 1217	tomodensitométrie abdomino-pelvienne
+T36	ANAT 1199 1217	abdomino-pelvienne
+T37	DISO 1231 1275	masse latéro-septale péripariétale hypodense
+T38	MEAS 1284 1287	2cm
+T39	MEAS 1290 1293	5cm
+T40	ANAT 1324 1374	cloisons intestinales jéjunolæculi-grêlo-digestive
+T41	ANAT 1395 1413	brèche iléocoecale
+T42	ANAT 1443 1459	méso grêlo-cæcal
+T43	DISO 1514 1544	kystes hypertrophiés kystiques

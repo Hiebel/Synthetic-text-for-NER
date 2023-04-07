@@ -1,0 +1,24 @@
+T1	LIVB 2 8	enfant
+T2	PROC 15 20	admis
+T3	Hospital 24 31	urgence
+T4	DISO 41 66	douleur de la main droite
+T5	ANAT 55 66	main droite
+T6	Localization 60 66	droite
+T7	TEMP 76 92	depuis 48 heures
+T8	DISO 105 124	signes fonctionnels
+T9	DISO 151 176	atteinte sensitivomotrice
+T10	PROC 180 195	examen clinique
+T11	PROC 200 209	admission
+T12	LIVB 220 227	patient
+T13	Concept_Idea 274 286	respiratoire
+T14	MEAS 288 299	polypnéique
+T15	MEAS 302 315	20 cycles/min
+T16	ANAT 326 346	pédicule métacarpien
+T17	MEAS 360 365	perdu
+T18	ANAT 379 384	pouce
+T19	PHEN 399 416	bruits cardiaques
+T20	MEAS 417 424	rapérés
+T21	MEAS 428 445	140 battements/mn
+T22	DISO 469 490	détresse respiratoire
+T23	DISO 500 524	souffrance buccodentaire
+T24	ANAT 511 524	buccodentaire

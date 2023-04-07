@@ -1,0 +1,9 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	DISO 42 63	niveaux hydroaériques
+T4	Concept_Idea 66 70	âges
+T5	MEAS 71 79	précoces
+T6	PROC 84 101	bilan étiologique
+T7	DISO 113 122	anomalies
+T8	DISO 146 169	récidive carcinomateuse
+T9	TEMP 193 199	18 ans

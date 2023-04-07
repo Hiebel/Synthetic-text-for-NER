@@ -1,0 +1,52 @@
+T1	LIVB 29 34	femme
+T2	PROC 58 63	reçue
+T3	Hospital 73 95	urgences chirurgicales
+T4	PROC 101 125	traitement antibacillien
+T5	CHEM 136 147	rifampicine
+T6	CHEM 149 159	isoniazide
+T7	CHEM 161 171	éthambutol
+T8	CHEM 173 185	pyrazinamide
+T9	CHEM 187 198	ethionamide
+T10	CHEM 200 212	Pyrazinamide
+T11	CHEM 214 225	Cyclosérine
+T12	CHEM 227 238	Ethionamide
+T13	CHEM 240 255	Rifaméthoxazole
+T14	CHEM 257 268	Ceftriaxone
+T15	CHEM 270 299	Triméthoprime/ulfaméthoxazole
+T16	CHEM 301 314	Pénicilline G
+T17	CHEM 316 327	Vinblastine
+T18	CHEM 330 336	Vit B6
+T19	CHEM 338 346	Aspirine
+T20	CHEM 348 356	Diazépam
+T21	CHEM 358 372	Tobraméthasone
+T22	CHEM 374 393	Valproate de sodium
+T23	CHEM 395 404	Clonidine
+T24	CHEM 406 419	Phénobarbital
+T25	PROC 426 456	échographie abdomino-pelvienne
+T26	ANAT 438 456	abdomino-pelvienne
+T27	DISO 477 503	pancréatite hypertrophique
+T28	TEMP 531 545	depuis 12 mois
+T29	DISO 566 663	adénopathies cervico-surrénaliennes latéro-thoraciques hypogastriques péripulmonaires symétriques
+T30	ANAT 579 2850	cervico-surrénaliennes latéro-thoraciques hypogastriques péripulmonaires symétriques mesurant respectivement 2 cm sur 1 cm d'grand axe intéressant presque tout le grêle faisant évoquer devant cette masse kystique monochoriale étagée transvaginale sa nature nécrocarcinomateuse ou pas malformative comme c'est souvent retenu chez ces patients ainsi que certains arguments épidémiologiques évocateurs notamment l'hypothalamo-hypparathyroïdie primaire secondaire ayant été évoqué aussi bien cliniquement qu'immunohistochimique vu l'abondance d'immuno-chimiothérapie probabiliste instaurée contre bacille acido-catalytique pendant toute la période d’attaque antituberculeuse initiée après l’effort de lutte antimétanylure chimiorésistante mais on notait également l'absence d'autre étiologie pouvant être décelable tant il existe d’un point de vue immunologique qu'une résistance séquellaire persistante touchant tous les vaccins antiviraux disponibles sont devenues plus probables qu’évidentes dès lors qu’une évolution défavorable caractérisée par l'installation d’une détresse métabolique ne peut se substituer par autre alternative médicamenteuse thérapeutique curative dont l'origine reste indéconnue malgré ses tentatives d'améliorations toujours inefficaces parfois jugulées par l'apparition d'évolutives résistantes apparues suite à l'échec d'interventions prophylactiques visant l'obtention d'amplifiants viraux génétiquement améliorés devenus alors rentabilisables grâce à leur capacité d'améliorer l'infectabilité bactério-virale ce qui n'a jamais rien permis ni aucun moyen d'accepter puisque l'immense majorité d'entre nous ont refusé obstinément chaque éventualité d'avoir recours à leurs modalités d'existence même si l'on veut s'en accommoder quand l'occasion s'avère nécessaire puisqu'elles peuvent s'avérer précieuses d'autant qu'à travers elles s'offrent l'éventail d'applications nouvelles permettant d'enrichir notre champ d'action médical d'où l'intérêt d'insister sur quelques points récurrents afin de mieux étayer l'exposé quantificateur de son rôle systolo-gastro-œsophagien depuis l'antiquité jusqu'au jour de l'épanchement œsophagien laryngéo-oesophagien scannographique angiographique c'liosigmoïdien médiastinal plexiforme herniaire mésentérique
+T31	MEAS 688 692	2 cm
+T32	MEAS 697 701	1 cm
+T33	Concept_Idea 704 713	grand axe
+T34	ANAT 742 747	grêle
+T35	DEVI 777 825	masse kystique monochoriale étagée transvaginale
+T36	LIVB 912 920	patients
+T37	DISO 1646 1666	détresse métabolique
+T38	PROC 2854 2874	examen préopératoire
+T39	DISO 2896 2934	syndrome d'hypertension intracrânienne
+T40	ANAT 2920 2934	intracrânienne
+T41	Concept_Idea 2943 2948	poids
+T42	MEAS 2958 2963	30 kg
+T43	Concept_Idea 2971 2977	taille
+T44	MEAS 2988 2998	1,58 mètre
+T45	DISO 3020 3045	cholécystite hypertensive
+T46	ANAT 3103 3127	liquide céphalorachidien
+T47	PROC 3129 3148	électrocardiogramme
+T48	PHEN 3153 3166	radiologiques
+T49	PROC 3175 3205	échographie abdomino-pelvienne
+T50	ANAT 3187 3205	abdomino-pelvienne
+T51	PROC 3212 3244	scanner thoraco abdomino-pelvien
+T52	ANAT 3220 3244	thoraco abdomino-pelvien

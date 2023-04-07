@@ -1,0 +1,22 @@
+T1	LIVB 29 34	femme
+T2	DISO 85 109	métastases du sein droit
+T3	ANAT 99 109	sein droit
+T4	Localization 104 109	droit
+T5	TEMP 119 132	depuis 10 ans
+T6	PROC 138 158	traitement palliatif
+T7	DISO 174 187	consanguinité
+T8	PROC 246 283	laparotomie exploratrice chirurgicale
+T10	ANAT 310 325	grêlo-gastrique
+T11	DEVI 350 380	greffon iléovésical artificiel
+T12	LIVB 498 507	patientes
+T14	DISO 581 611	déficit moteur sensitivomoteur
+T15	PROC 675 703	pronostic pluridisciplinaire
+T16	MEAS 710 715	bonne
+T17	DISO 731 755	épanchement péricardique
+T18	ANAT 743 755	péricardique
+T19	PROC 794 817	radiothérapie adjuvante
+T20	DISO 1043 1065	récidive locorégionale
+T21	MEAS 1180 1187	46x36mm
+T22	MEAS 1189 1196	41x38mm
+T23	MEAS 1200 1207	32x29mm
+T24	ANAT 1236 1262	hile grêlo-diaphragmatique

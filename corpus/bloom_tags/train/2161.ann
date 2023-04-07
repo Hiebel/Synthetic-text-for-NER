@@ -1,0 +1,72 @@
+T1	LIVB 16 24	patiente
+T2	PROC 50 62	hospitalisée
+T3	Hospital 66 100	service de gynécologie-obstétrique
+T4	Hospital 104 124	CHU Hassan II de Fès
+T5	PROC 150 169	doppler obstétrical
+T6	PROC 171 174	DPO
+T7	DISO 206 220	épigastralgies
+T8	PROC 237 248	réadmission
+T9	PROC 252 266	interrogatoire
+T10	LIVB 290 298	patiente
+T11	PROC 318 325	traitée
+T12	CHEM 331 354	acide acétylsalicylique
+T13	DEVI 382 393	cathérisant
+T14	DOSE 423 436	médicamenteux
+T15	DISO 460 478	détresse digestive
+T16	PHEN 469 478	digestive
+T17	MEAS 505 511	rapide
+T18	PROC 572 590	traitement curatif
+T19	PROC 608 636	chirurgie abdomino-pélvienne
+T20	ANAT 618 636	abdomino-pélvienne
+T21	PROC 691 726	anesthésie péritonéale chirurgicale
+T23	MODE 788 800	sous-cutanés
+T24	DISO 1162 1198	hypotonie grêlonocæcale hypoéchogène
+T25	ANAT 1172 1198	grêlonocæcale hypoéchogène
+T26	LIVB 1223 1233	nouveau-né
+T27	DISO 1252 1284	syndrome néphrotique hypertensif
+T28	DISO 1300 1357	infarctus surrénalien inféro-surrénalien laryngo-tracheal
+T29	ANAT 1310 1357	surrénalien inféro-surrénalien laryngo-tracheal
+T30	PROC 1378 1412	angioscanner thoracique systolique
+T31	ANAT 1391 1412	thoracique systolique
+T32	DISO 1461 1484	troubles neurohormonaux
+T33	CHEM 1526 1536	amiodarone
+T34	CHEM 1539 1552	dexaméthasone
+T35	CHEM 1554 1572	methylprednisolone
+T36	PROC 1577 1595	ionogramme sanguin
+T37	ANAT 1588 1595	sanguin
+T38	DISO 1609 1622	hyperkaliémie
+T39	MEAS 1625 1632	1,2g/dl
+T40	DISO 1651 1672	hyponatrémie corrigée
+T41	MEAS 1675 1685	135 meq/m²
+T42	PROC 1688 1707	hémoglobine glyquée
+T43	MEAS 1716 1720	8,9%
+T44	PROC 1726 1753	numération formule sanguine
+T45	DISO 1778 1788	leucopénie
+T46	MEAS 1791 1817	13000 éléments blancs/mm 3
+T47	PROC 1822 1840	taux de plaquettes
+T48	MEAS 1857 1869	100 000/mm 3
+T49	MEAS 1911 1916	10,5%
+T50	LIVB 1923 1927	elle
+T51	CHEM 1948 1969	protéine artificielle
+T52	PROC 2007 2030	radiographie pulmonaire
+T53	ANAT 2020 2030	pulmonaire
+T54	MEAS 2055 2068	significative
+T55	DISO 2075 2092	dyspnée sifflante
+T56	MEAS 2101 2111	stade I-II
+T57	Concept_Idea 2131 2158	classification radiologique
+T58	Localization 2196 2206	bilatérale
+T59	DISO 2254 2284	désorientation temporospatiale
+T60	DISO 2312 2327	symptomatologie
+T61	PROC 2331 2346	examen clinique
+T62	PHEN 2419 2431	respiratoire
+T63	ANAT 2457 2499	cardio-vasculo-nerveux cervico-thoraciques
+T64	PROC 2505 2514	admission
+T65	Hospital 2518 2548	service d'accueil des urgences
+T66	LIVB 2550 2555	notre
+T67	LIVB 2556 2564	patiente
+T68	PROC 2583 2602	pression artérielle
+T69	ANAT 2592 2602	artérielle
+T70	PROC 2604 2607	PNI
+T71	MEAS 2611 2622	70/40 mm Hg
+T72	PROC 2638 2662	intubation nasogastrique
+T73	ANAT 2649 2662	nasogastrique

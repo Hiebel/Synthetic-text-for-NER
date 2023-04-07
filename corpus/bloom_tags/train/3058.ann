@@ -1,0 +1,16 @@
+T1	PROC 2 17	examen clinique
+T2	PROC 22 31	admission
+T3	LIVB 42 49	patient
+T4	MEAS 53 56	bon
+T5	Concept_Idea 57 69	état général
+T6	DISO 79 90	sensibilité
+T7	ANAT 107 134	fosse ptérygoïdienne droite
+T8	Localization 128 134	droite
+T9	PHEN 140 166	contractions épiglottiques
+T10	ANAT 153 166	épiglottiques
+T11	MEAS 172 180	intenses
+T12	PROC 185 211	pression pleuro-pulmonaire
+T14	PROC 213 216	PPT
+T15	MEAS 232 243	25 cm H 2 O
+T16	PROC 261 277	examen somatique
+T17	DISO 283 296	particularité

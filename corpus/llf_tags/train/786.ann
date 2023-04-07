@@ -1,0 +1,72 @@
+T1	LIVB 15 22	patient
+T2	PROC 65 87	néphrectomie partielle
+T3	TEMP 91 95	2008
+T4	DISO 100 124	symptomatologie clinique
+T5	Concept_Idea 137 140	âge
+T6	TEMP 144 150	10 ans
+T7	DISO 181 226	tuméfaction du tronc spléno-thyroïdien gauche
+T8	ANAT 196 226	tronc spléno-thyroïdien gauche
+T9	Localization 220 226	gauche
+T10	MEAS 238 253	progressivement
+T11	Concept_Idea 257 263	volume
+T12	Concept_Idea 311 323	état général
+T13	DISO 333 354	signes inflammatoires
+T14	ANAT 367 372	corps
+T15	DISO 388 416	syndrome infectieux néonatal
+T16	DISO 426 450	antécédents pathologique
+T17	PROC 462 477	examen clinique
+T18	PHEN 497 518	grossesse monofoetale
+T19	TEMP 538 549	23 semaines
+T20	PROC 560 566	admise
+T21	Hospital 571 592	urgences pédiatriques
+T22	CHEM 608 639	amoxicilline acide clavulanique
+T23	DOSE 641 646	25 mg
+T24	TEMP 646 656	/24 heures
+T25	PROC 663 677	interrogatoire
+T26	LIVB 699 703	elle
+T27	PROC 723 738	prise en charge
+T28	DISO 848 863	symptomatologie
+T29	PROC 867 891	échographie obstétricale
+T30	DISO 921 935	déficit moteur
+T31	DISO 939 955	cardiovasculaire
+T32	DISO 972 1012	sensibilité jugulo-cardiaque congénitale
+T33	ANAT 984 1012	jugulo-cardiaque congénitale
+T34	DISO 1035 1057	maladie cœlio-méningée
+T35	DISO 1063 1099	polyarthrite chronique polymalformée
+T36	LIVB 1151 1158	auteurs
+T37	PROC 1163 1180	scanner cérébrale
+T38	ANAT 1171 1180	cérébrale
+T39	PROC 1207 1214	séances
+T40	DISO 1256 1367	lésions intracrânio-céphalangiennes pariéto-temporo-occipitales postéro-expectorales antalgiques hypokinétiques
+T41	DISO 1374 1381	lésions
+T42	ANAT 1408 1436	nerf laryngé inférieur droit
+T43	Localization 1431 1436	droit
+T44	ANAT 1463 1514	paroi abdominale inferieur supérieur fléchiesciente
+T46	MEAS 1524 1538	14 centimètres
+T47	Concept_Idea 1542 1551	grand axe
+T48	ANAT 1575 1611	segments biliaires cervico-trachéaux
+T49	ANAT 1631 1666	conjonctives basithoracique gauches
+T50	Localization 1659 1666	gauches
+T51	MEAS 1699 1706	simples
+T52	DISO 1734 1761	complication postopératoire
+T53	DEVI 1792 1814	bandelette gélatineuse
+T54	PROC 1828 1955	anastomose duodénale endotrachéotalienne préachiléenne interne transoesophagienne péridurale scapulaire bipédiculée fractionnée
+T56	PROC 1989 2038	réanimation neuropsychiatrique multidisciplinaire
+T57	PROC 2070 2086	psycho-éducative
+T58	PROC 2104 2140	cholécystectomie totale exploratrice
+T59	PROC 2150 2190	hémicolectomie percutanée per opératoire
+T60	PROC 2206 2257	mastectomie néoprostatectomie superficielle étendue
+T61	Localization 2236 2257	superficielle étendue
+T63	DISO 2574 2627	pseudo-tumeurs hépato-abdomino-mandibulaires lobulées
+T64	ANAT 2589 2627	hépato-abdomino-mandibulaires lobulées
+T65	PROC 2651 2675	suivi pluridisciplinaire
+T66	PROC 2734 2762	investigations radiologiques
+T67	DISO 2809 2860	métastases osseuses du nerf laryngé inférieur droit
+T68	ANAT 2832 2860	nerf laryngé inférieur droit
+T70	PROC 2879 2910	traitement médical conservateur
+T71	MEAS 2916 2925	favorable
+T72	DISO 2947 2967	symptômes infectieux
+T73	LIVB 2981 2988	malades
+T74	PROC 3066 3088	traitement substitutif
+T75	CHEM 3090 3102	amoxicilline
+T76	CHEM 3104 3118	neuroleptiques

@@ -1,0 +1,49 @@
+T1	LIVB 14 22	Mlle Z.Z
+T2	MEAS 60 61	2
+T3	LIVB 62 69	enfants
+T4	DISO 116 144	carcinose abdomino-pelvienne
+T5	ANAT 126 144	abdomino-pelvienne
+T6	TEMP 166 185	depuis six semaines
+T7	LIVB 201 203	sa
+T8	LIVB 204 216	petite fille
+T9	PROC 221 227	admise
+T10	CHEM 246 258	amoxicilline
+T11	CHEM 261 291	pénicilline acide clavulanique
+T12	CHEM 293 306	métronidazole
+T13	PROC 320 351	tomodensitométrie scanno-guidée
+T14	PROC 369 393	monitorage échographique
+T15	DISO 438 464	lésions kystiques malignes
+T16	DISO 487 521	maladie cœlio-papillaire primitive
+T17	PROC 537 564	examen anatomopathologiaque
+T18	MEAS 665 675	10 x 10 cm
+T19	ANAT 853 870	substance rectale
+T20	Concept_Idea 930 955	caractères morphologiques
+T21	MEAS 1362 1388	45 gramme masses foliaires
+T23	DISO 1571 1584	microdiplopie
+T24	PROC 1606 1667	résection transmamelonnaire élargie superficielle anévrismale
+T25	DEVI 2096 2137	scie circulaire d'éthylène glycoléthamine
+T26	CHEM 2114 2137	éthylène glycoléthamine
+T27	PROC 2158 2183	prélèvements enzymatiques
+T28	ANAT 2197 2216	liquide sous cutané
+T29	Localization 2236 2250	bords latéraux
+T30	PROC 2266 2296	complément immunohistochimique
+T31	PROC 2298 2317	étude cytogénétique
+T32	PROC 2320 2347	phénotypage bactériologique
+T33	LIVB 2368 2391	Pneumococcus agalactiae
+T34	PHEN 2600 2609	grossesse
+T35	TEMP 2622 2633	24 semaines
+T36	DISO 2649 2660	traumatisme
+T37	DISO 2667 2686	trouble obstétrique
+T38	DISO 2704 2722	déficience motrice
+T39	Hospital 2773 2808	urgences chirurgicales pédiatriques
+T40	LIVB 2823 2825	sa
+T41	LIVB 2826 2830	mère
+T42	PROC 2837 2847	consultait
+T43	PROC 2857 2863	admise
+T44	LIVB 2912 2916	elle
+T45	PROC 2936 2968	prise en charge médicale urgente
+T46	LIVB 3025 3028	son
+T47	LIVB 3029 3048	mariage consanguine
+T48	Concept_Idea 3353 3376	état neuropsychiatrique
+T49	PROC 3393 3458	rééducation thérapeutique probabiliste préopératoire concomitante
+T50	PROC 3500 3538	séances de rééducation postopératoires

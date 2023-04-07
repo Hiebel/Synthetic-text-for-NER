@@ -1,0 +1,30 @@
+T1	LIVB 29 34	femme
+T2	PROC 71 94	curetage gynéco-vaginal
+T3	ANAT 80 94	gynéco-vaginal
+T4	PROC 96 100	CUGT
+T5	Hospital 102 112	en urgence
+T6	DISO 148 163	dyspnée fébrile
+T7	TEMP 184 197	depuis 4 mois
+T8	PROC 203 228	traitement antibacillaire
+T9	CHEM 239 253	Gentaméthasone
+T10	CHEM 256 267	Cyclosérine
+T11	PROC 282 306	chimiothérapie adjuvante
+T12	CHEM 316 322	BEPHCG
+T13	PROC 327 342	examen clinique
+T14	Concept_Idea 383 401	plan hémodynamique
+T15	DISO 416 437	détresse respiratoire
+T16	MEAS 452 463	progressive
+T17	MEAS 476 484	brulante
+T18	MEAS 496 511	6/10 cycles/min
+T19	TEMP 520 533	immédiatement
+T20	PHEN 562 569	tolérée
+T21	MEAS 581 596	progressivement
+T22	Concept_Idea 600 609	grandeurs
+T23	MEAS 621 625	10kg
+T24	MEAS 628 633	30 kg
+T25	DISO 648 665	douleur pelvienne
+T26	ANAT 656 665	pelvienne
+T27	DISO 686 696	météorique
+T28	ANAT 717 738	cul-de-sacs ombilical
+T29	DISO 796 819	tuméfaction douloureuse
+T30	MEAS 828 840	prurigineuse

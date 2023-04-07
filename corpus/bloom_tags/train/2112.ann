@@ -1,0 +1,26 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	11 ans
+T3	Concept_Idea 38 49	antécédents
+T4	MEAS 50 62	particuliers
+T5	PROC 64 69	admis
+T6	Hospital 74 82	urgences
+T7	DISO 92 119	douleurs abdominales aiguës
+T8	ANAT 101 112	abdominales
+T9	DISO 136 156	vomissements bilieux
+T10	PROC 160 175	examen clinique
+T11	LIVB 188 194	enfant
+T12	MEAS 211 214	bon
+T13	Concept_Idea 215 227	état général
+T14	DISO 243 270	polynucléaires éosinophiles
+T15	ANAT 279 304	liquide céphalo-rachidien
+T16	PROC 309 328	bilan préopératoire
+T17	PROC 346 377	échographie abdomino- pelvienne
+T18	ANAT 358 377	abdomino- pelvienne
+T19	PROC 379 382	ECP
+T20	DISO 419 478	masse tumorale du pôle postéro-supérieur utérin hypotonique
+T22	MEAS 490 505	progressivement
+T23	Concept_Idea 509 515	taille
+T24	MEAS 525 530	30 mm
+T25	MEAS 535 539	13mm
+T26	Concept_Idea 542 551	épaisseur
+T27	ANAT 568 584	parois vaginales

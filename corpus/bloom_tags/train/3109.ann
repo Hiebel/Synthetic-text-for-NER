@@ -1,0 +1,22 @@
+T1	LIVB 20 28	patiente
+T2	PROC 45 51	suivie
+T3	TEMP 55 59	2004
+T4	DISO 69 89	tuberculose pleurale
+T5	ANAT 81 89	pleurale
+T6	DISO 125 133	apyrexie
+T7	DISO 146 162	signes cliniques
+T8	PROC 175 205	échographie abdomino-pelvienne
+T9	ANAT 187 205	abdomino-pelvienne
+T10	DISO 225 253	épanchement massif liquidien
+T11	MEAS 237 243	massif
+T12	ANAT 267 278	flanc droit
+T13	Localization 273 278	droit
+T14	MEAS 297 307	rapidement
+T15	Concept_Idea 311 317	volume
+T17	ANAT 346 412	cervico-thoraciques hypogastriques basithoraciques latéro-utérines
+T18	MEAS 437 441	3 cm
+T19	MEAS 445 449	2 cm
+T20	PROC 453 470	écho-mammographie
+T21	PROC 472 475	ECM
+T22	DISO 507 574	métastase parathyroïdienne parenchymateuse hypo échogène hétérogène
+T24	CHEM 602 622	produit de contraste

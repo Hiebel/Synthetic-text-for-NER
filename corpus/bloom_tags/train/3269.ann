@@ -1,0 +1,24 @@
+T1	LIVB 29 37	patiente
+T2	DISO 72 93	mucovésicule biliaire
+T3	PROC 116 141	chimiothérapie palliative
+T4	PROC 154 202	curage ganglionnaire axillaire biquoral adjuvant
+T5	PROC 299 341	traitement immunotherapeutique substitutif
+T6	CHEM 352 362	isoniazide
+T7	CHEM 364 376	méthotrexate
+T8	CHEM 378 389	Cyclosérine
+T9	CHEM 391 404	dexaméthasone
+T10	CHEM 406 424	hydroxychloroquine
+T11	CHEM 427 439	prednisolone
+T12	PROC 513 530	histopathologique
+T13	MEAS 723 738	insatisfaisante
+T14	DISO 956 980	symptômes neuroleptiques
+T15	TEMP 990 1013	depuis plusieurs années
+T16	DISO 1027 1042	ménométrorrhées
+T18	TEMP 1073 1082	par jours
+T19	DISO 1099 1118	douleurs pelviennes
+T20	ANAT 1108 1118	pelviennes
+T21	DISO 1128 1150	détresses menstruelles
+T22	MEAS 1165 1192	progressivement progressive
+T23	TEMP 1202 1223	il y a plus de 10 ans
+T24	MEAS 1235 1245	rapidement
+T25	Concept_Idea 1249 1255	volume

@@ -1,0 +1,37 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	Concept_Idea 38 49	antécédents
+T4	PROC 51 56	admis
+T5	Hospital 61 69	urgences
+T6	DISO 81 94	choc septique
+T7	PHEN 103 108	pouls
+T8	MEAS 120 132	110 batt/min
+T9	DISO 150 179	perte de connaissance globale
+T10	TEMP 189 206	pendant 72 heures
+T11	MEAS 224 235	progressive
+T12	PROC 239 269	auscultation cardio-vasculaire
+T13	ANAT 252 269	cardio-vasculaire
+T14	DISO 281 318	cardiomyopathie dilatée hypertrophiée
+T15	CHEM 324 334	adrénaline
+T16	Concept_Idea 381 399	état hémodynamique
+T17	MEAS 511 518	8/10 cm
+T18	MEAS 522 529	4/10 cm
+T19	MEAS 539 562	profondément altérantes
+T20	DISO 605 625	prise médicamenteuse
+T21	DISO 638 661	symptômes neurologiques
+T22	DISO 688 709	détresse respiratoire
+T23	PHEN 697 709	respiratoire
+T24	DISO 720 740	troubles oculomoteur
+T25	LIVB 780 788	patients
+T26	DISO 823 842	ischémie artérielle
+T27	ANAT 832 842	artérielle
+T28	DISO 862 884	pathologie congénitale
+T29	DISO 899 921	accouchement prématuré
+T30	LIVB 1078 1080	on
+T31	MEAS 1161 1166	10/10
+T32	TEMP 1192 1202	deux jours
+T33	LIVB 1209 1212	son
+T34	PROC 1213 1228	hospitalisation
+T35	PROC 1245 1255	extubation
+T36	Hospital 1263 1300	unité de soins intensifs pédiatriques
+T37	Concept_Idea 1320 1344	capacités psychomotrices

@@ -1,0 +1,33 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	9 ans
+T3	Concept_Idea 25 36	antécédents
+T4	MEAS 37 49	particuliers
+T5	PROC 51 61	consultait
+T6	Hospital 66 74	urgences
+T7	DISO 84 105	détresse respiratoire
+T8	PHEN 93 105	respiratoire
+T9	TEMP 115 131	depuis 48 heures
+T10	MEAS 146 167	lentement progressive
+T11	DISO 175 182	dyspnée
+T12	DISO 203 220	ictère généralisé
+T13	DISO 228 253	vomissements alimentaires
+T14	PROC 257 272	examen clinique
+T15	DISO 289 328	douleur thoracique basithoracique droit
+T16	ANAT 297 328	thoracique basithoracique droit
+T17	Localization 323 328	droit
+T18	DISO 345 359	ictère fébrile
+T19	LIVB 361 363	Il
+T20	DISO 403 422	pleurésie purulente
+T21	DISO 433 462	lésions érythémato-pustuleuse
+T22	DEVI 470 479	dosimètre
+T23	PROC 492 521	échographie abdominopelvienne
+T24	ANAT 504 521	abdominopelvienne
+T25	DISO 539 577	masse tissulaire basithoracique droite
+T26	ANAT 556 577	basithoracique droite
+T27	Localization 571 577	droite
+T28	MEAS 587 592	12 cm
+T29	Concept_Idea 596 605	grand axe
+T30	ANAT 622 647	surrénales latéro-utérine
+T31	ANAT 668 699	fosse iliaque supra péritonéale
+T32	Localization 682 687	supra
+T33	DISO 796 850	carcinose épidermique hypokératosique parathyroïdienne

@@ -1,0 +1,52 @@
+T1	LIVB 16 21	femme
+T2	DISO 107 134	accident ischémique méningé
+T3	ANAT 127 134	méningé
+T4	LIVB 148 151	son
+T5	LIVB 152 156	fils
+T6	LIVB 166 170	elle
+T7	DEVI 195 211	prothèse plâtrée
+T8	PROC 257 272	examen clinique
+T9	LIVB 286 294	patiente
+T10	DISO 295 306	polypnéique
+T11	MEAS 309 322	25 cycles/min
+T12	MEAS 330 335	20 kg
+T13	DISO 364 384	signes neurologiques
+T14	DISO 402 427	troubles sensitivomoteurs
+T15	DISO 438 454	lésions cutanées
+T16	PROC 469 486	natrémie corrigée
+T17	MEAS 495 504	140 meq/l
+T18	PROC 519 527	kaliémie
+T19	MEAS 544 553	120 meq/l
+T20	PROC 559 577	tension artérielle
+T21	ANAT 567 577	artérielle
+T22	MEAS 600 624	170/120 mmhg/70 cm H 2 O
+T23	PROC 627 645	ionogramme sanguin
+T24	ANAT 638 645	sanguin
+T25	MEAS 682 692	1,35 meq/l
+T26	MEAS 702 711	3,9 meq/l
+T27	Concept_Idea 727 734	normale
+T28	DISO 756 777	hypochrome micaliurie
+T29	DISO 790 821	désordre cholinestérminolytique
+T30	DISO 846 864	pathologie maligne
+T31	DISO 885 921	maladie thromboembolique congénitale
+T32	DISO 1043 1071	thrombose veineuse cérébrale
+T33	ANAT 1053 1071	veineuse cérébrale
+T34	DISO 1242 1266	vascularisation tumorale
+T35	PROC 1299 1321	pronostic radiologique
+T36	PROC 1378 1411	échocardiographie transthoracique
+T37	ANAT 1396 1411	transthoracique
+T38	DISO 1426 1464	souffrance ventriculaire hypertrophiée
+T39	ANAT 1437 1464	ventriculaire hypertrophiée
+T40	PROC 2050 2068	traitement curatif
+T41	PROC 2091 2119	tomodensitométrie thoracique
+T42	ANAT 2109 2119	thoracique
+T43	DISO 2135 2186	épanchement péricardique liquidien médiastin gauche
+T44	ANAT 2147 2186	péricardique liquidien médiastin gauche
+T45	Localization 2180 2186	gauche
+T46	ANAT 2201 2249	parties molles para-diaphragmatiques supérieures
+T47	Localization 2238 2249	supérieures
+T48	ANAT 2264 2287	aorte thoracique droite
+T49	Localization 2281 2287	droite
+T50	ANAT 2304 2324	lobe inférieur droit
+T51	Localization 2319 2324	droit
+T52	DISO 2330 2336	signes

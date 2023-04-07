@@ -1,0 +1,29 @@
+T1	LIVB 4 9	femme
+T2	Concept_Idea 31 54	antécédent pathologique
+T3	MEAS 55 66	particulier
+T4	DISO 83 113	hyperparathyroïdie congénitale
+T6	ANAT 132 137	rénal
+T7	PROC 143 173	échographie abdomino-pelvienne
+T8	ANAT 155 173	abdomino-pelvienne
+T9	DISO 203 254	épanchement intra-myometrulaire latéro-utérin droit
+T10	ANAT 215 254	intra-myometrulaire latéro-utérin droit
+T11	Localization 249 254	droit
+T12	Concept_Idea 261 267	taille
+T13	MEAS 278 282	4 cm
+T14	MEAS 292 297	14 mm
+T15	Concept_Idea 301 310	grand axe
+T16	MEAS 315 319	13mm
+T17	Concept_Idea 323 336	petite taille
+T18	DISO 383 411	pancréatite kystique maligne
+T19	DISO 441 472	anomalies hydro-électrolytiques
+T20	PROC 487 523	tomodensitométrie abdomino-pelvienne
+T21	ANAT 505 523	abdomino-pelvienne
+T23	MEAS 634 643	lacunaire
+T24	PROC 664 673	injection
+T25	CHEM 677 688	propranolol
+T26	ANAT 709 729	fosse iliaque droite
+T27	Localization 723 729	droite
+T28	DISO 830 859	nodule angioscléreux purulent
+T29	MEAS 879 889	régulières
+T30	MEAS 990 1001	hypointense
+T31	Localization 1041 1051	bilatérale

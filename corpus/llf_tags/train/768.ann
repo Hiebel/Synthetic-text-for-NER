@@ -1,0 +1,24 @@
+T1	PROC 4 21	tomodensitométrie
+T2	PROC 23 55	TDM) thoraco- abdomino-pelvienne
+T3	ANAT 28 55	thoraco- abdomino-pelvienne
+T4	DISO 89 122	processus tissulaire de l’abdomen
+T5	ANAT 115 122	abdomen
+T6	DISO 175 208	remaniements lymphoplasmocytaires
+T7	LIVB 213 221	patiente
+T8	CHEM 238 252	hydrocortisone
+T9	MODE 257 267	voie orale
+T10	Concept_Idea 277 288	dose totale
+T11	DOSE 292 297	20 mg
+T12	TEMP 297 299	/j
+T13	PROC 314 338	remplissage nasopharyngé
+T14	ANAT 326 338	nasopharyngé
+T15	PROC 371 392	contrôle radiologique
+T16	PHEN 396 422	transit oesogastroduodénal
+T17	ANAT 404 422	oesogastroduodénal
+T18	MEAS 442 449	stérile
+T19	PROC 454 474	suivi postopératoire
+T20	DISO 484 497	particularité
+T21	MEAS 536 543	simples
+T22	DISO 580 598	signe neurologique
+T23	DISO 616 641	troubles sensitivo-moteur
+T24	DISO 652 674	symptômes fonctionnels

@@ -1,0 +1,31 @@
+T1	LIVB 15 25	adolescent
+T2	TEMP 29 35	16 ans
+T3	MEAS 75 83	notables
+T4	PROC 87 102	examen clinique
+T5	LIVB 113 119	enfant
+T6	Concept_Idea 134 152	plan hémodynamique
+T7	DISO 186 239	syndrome d'épanchement péricardique aigu hypertensive
+T8	ANAT 209 221	péricardique
+T9	DISO 253 278	hypotension surrénalienne
+T10	ANAT 265 278	surrénalienne
+T11	MEAS 293 304	progressive
+T12	PHEN 349 364	acuité visuelle
+T13	MODE 370 388	voie intraveineuse
+T14	MEAS 401 410	spontanée
+T15	DEVI 434 462	palais oculomoteur mécanique
+T16	DISO 551 589	complication thromboembolique veineuse
+T17	LIVB 652 658	enfant
+T18	DISO 701 714	thrombophilie
+T19	DISO 845 880	hémorragie intracérébrale cervicale
+T20	ANAT 856 880	intracérébrale cervicale
+T21	DISO 890 917	épanchement sous péritonéal
+T22	Localization 902 906	sous
+T23	DISO 951 992	déficit moteur sensitivomoteur symétrique
+T24	DISO 1005 1041	atteinte globale motrice segmentaire
+T25	DISO 1060 1080	dyspnée constrictive
+T26	DISO 1096 1122	douleur abdomino-pélvienne
+T27	ANAT 1104 1122	abdomino-pélvienne
+T28	DISO 1132 1145	inflammatoire
+T29	MEAS 1155 1180	de plus en plus accentuée
+T30	DISO 1249 1278	lésions ulcéro-bourgeonnantes
+T31	DISO 1362 1394	méningochimiothérapie systémique

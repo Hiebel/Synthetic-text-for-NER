@@ -1,0 +1,60 @@
+T1	LIVB 4 7	N.M
+T2	MEAS 42 43	3
+T3	LIVB 44 51	garçons
+T4	MEAS 101 136	2 fois la limite supérieure normale
+T5	MEAS 142 150	18kg/m ²
+T6	LIVB 160 166	enfant
+T7	PROC 171 176	suivi
+T8	TEMP 184 194	2000 jours
+T9	DISO 217 238	récidive neurologique
+T10	DISO 245 256	traumatisme
+T11	DISO 266 289	déficit sensitivomoteur
+T12	DISO 314 333	syndrome infectieux
+T13	PROC 356 368	intervention
+T14	PROC 372 408	examen anatomopathologiaque standard
+T15	DISO 423 454	granulome inflammatoire maligne
+T16	ANAT 478 542	parties molles digestives fundiques superficielles péritendineux
+T17	PROC 579 600	extubation aspiration
+T18	MEAS 642 653	compressive
+T19	MEAS 663 690	de plus en plus volumineuse
+T20	ANAT 723 754	queues urogénitales thoraciques
+T21	MEAS 766 781	progressivement
+T22	Concept_Idea 785 791	taille
+T23	DISO 811 832	lésions angiomateuses
+T24	MEAS 842 851	atypiques
+T25	PHEN 915 935	grossesse gémellaire
+T26	TEMP 947 952	25 SA
+T27	MEAS 960 973	1750 gramme 2
+T28	DISO 979 1010	méningo-encéphalite infectieuse
+T29	MEAS 1022 1031	stade III
+T30	MEAS 1854 1857	4 %
+T31	LIVB 1862 1869	malades
+T32	PROC 1878 1906	chimiothérapie néo adjuvante
+T33	CHEM 1913 1935	hydroxyde de potassium
+T34	PROC 1964 1983	bilan préopératoire
+T35	MEAS 2003 2015	satisfaisant
+T36	PROC 2033 2057	contrôle ophtalmologique
+T37	PROC 2108 2136	prise en charge diagnostique
+T38	DISO 2153 2174	déficience rétinienne
+T39	PROC 2180 2214	biopsie scanno-guidée histologique
+T40	DISO 2276 2326	processus tumoral mucineux érythémato-conjonctival
+T41	MEAS 2336 2340	5 cm
+T42	Concept_Idea 2344 2353	grand axe
+T43	Localization 2367 2386	deux premiers plans
+T44	MEAS 2395 2399	7 cm
+T45	Concept_Idea 2403 2418	petite courbure
+T46	Concept_Idea 2457 2465	diamètre
+T47	DISO 2471 2497	nécrose caséeuse calcifiée
+T48	ANAT 2523 2529	culmen
+T49	ANAT 2554 2570	muqueuse caudale
+T50	ANAT 2584 2611	structures intravasculaires
+T51	DISO 2632 2659	résidu carcinomateux cutané
+T52	DISO 2669 2703	neurofibromatose ectomycorrhinoïde
+T53	ANAT 2723 2748	cellules trophoblastiques
+T54	PROC 2776 2785	visualisé
+T55	PROC 2790 2886	TDM oeso-gastro-duodénale cervico-thoraco-abdominale jugulo-carotidienne postéro-latéro-sigmoïde
+T56	ANAT 2794 2886	oeso-gastro-duodénale cervico-thoraco-abdominale jugulo-carotidienne postéro-latéro-sigmoïde
+T57	DISO 2908 2930	anomalie morphologique
+T58	DISO 2934 2946	histologique
+T59	DISO 2964 3000	remaniements tissulaire liquidiennes
+T60	DISO 3052 3081	dépôts graisseux bourgeonnant

@@ -1,0 +1,19 @@
+T1	LIVB 28 35	patient
+T2	DISO 55 77	antécédents patholgués
+T3	MEAS 78 86	notables
+T4	PROC 109 129	biopsie chirurgicale
+T5	DISO 136 168	masse tumorale ulcéro-pustuleuse
+T6	MEAS 180 195	progressivement
+T7	Concept_Idea 199 205	volume
+T8	ANAT 222 248	organes génitaux urinaires
+T9	MEAS 258 262	5 cm
+T10	Concept_Idea 266 275	grand axe
+T11	Concept_Idea 278 284	aspect
+T12	MEAS 285 293	homogène
+T13	ANAT 308 323	replis iliaques
+T14	ANAT 343 349	utérus
+T15	ANAT 366 383	vésicule biliaire
+T16	LIVB 411 419	patiente
+T17	Concept_Idea 905 925	critères diagnostics
+T18	DISO 946 967	pathognomonie maligne
+T19	PROC 998 1028	tomodensitométrie exploratrice

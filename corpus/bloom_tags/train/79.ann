@@ -1,0 +1,24 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 31 39	patiente
+T3	MEAS 43 46	bon
+T4	Concept_Idea 47 59	état général
+T5	DISO 61 72	polypnéique
+T6	MEAS 75 88	22 cycles/min
+T7	PHEN 93 111	tension artérielle
+T8	ANAT 101 111	artérielle
+T9	MEAS 121 132	110/60 mmhg
+T10	PROC 150 166	examen somatique
+T11	DISO 172 185	particularité
+T12	PROC 190 216	pression artérielle pulsée
+T13	ANAT 199 216	artérielle pulsée
+T14	PROC 218 222	PAPS
+T15	TEMP 224 240	dans les minutes
+T16	PROC 252 262	opératoire
+T17	MEAS 272 283	130/70 mmHg
+T18	PROC 287 322	auscultation cardio-vasculo-nerveux
+T19	ANAT 300 322	cardio-vasculo-nerveux
+T20	MEAS 361 369	régulier
+T21	ANAT 385 399	ventriculaires
+T22	Localization 449 467	faces antébrachial
+T23	DISO 490 525	souffle auriculo-cardio-métacarpien
+T24	ANAT 498 525	auriculo-cardio-métacarpien

@@ -1,0 +1,29 @@
+T1	LIVB 28 35	patient
+T2	PROC 93 97	reçu
+T3	Hospital 102 127	urgences ophtalmologiques
+T4	DISO 137 154	céphalées fébrile
+T5	TEMP 164 178	depuis 3 jours
+T6	LIVB 185 187	sa
+T7	PROC 188 200	consultation
+T8	CHEM 235 246	méthoxifène
+T9	CHEM 250 268	méthylprednisolone
+T10	PROC 282 301	réhydratation orale
+T11	PROC 338 353	examen clinique
+T12	DISO 371 377	fièvre
+T13	MEAS 389 394	38°8C
+T14	DISO 413 434	détresse respiratoire
+T15	PHEN 422 434	respiratoire
+T16	MEAS 449 474	progressivement accentuée
+T17	DISO 495 526	méningo-pleurésie purulentielle
+T18	ANAT 553 586	paires crânio-cérébraux cervicaux
+T19	DISO 607 624	symptômes visuels
+T20	DISO 638 651	œdème cornéen
+T21	ANAT 644 651	cornéen
+T22	DISO 672 702	troubles sensitivospinctériens
+T23	DISO 805 849	syndrome d'épanchement intracrânien pariétal
+T24	ANAT 828 849	intracrânien pariétal
+T25	DISO 858 887	polynucléaires érythémateuses
+T26	PROC 976 1006	échographie abdomino pélvienne
+T27	ANAT 988 1006	abdomino pélvienne
+T29	ANAT 1056 1100	sus utérine basithoracique supérieure droite
+T31	MEAS 1119 1126	pT3N0M0

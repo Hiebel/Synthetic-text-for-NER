@@ -1,0 +1,34 @@
+T1	LIVB 3 10	patient
+T2	DISO 27 52	antécédents pathologiques
+T3	MEAS 53 65	particuliers
+T4	PROC 67 75	consulte
+T5	Hospital 80 88	urgences
+T6	DISO 98 128	douleurs épigastriques aiguées
+T7	ANAT 107 120	épigastriques
+T8	DISO 145 163	diarrhée chronique
+T9	TEMP 173 194	depuis plusieurs mois
+T10	PROC 198 213	examen clinique
+T11	LIVB 224 231	patient
+T12	Concept_Idea 235 239	état
+T13	DISO 242 256	amaigrissement
+T14	MEAS 267 272	10 kg
+T15	Concept_Idea 308 320	état général
+T16	DISO 351 358	dyspnée
+T17	MEAS 373 384	progressive
+T18	PROC 388 419	échographie abdomino- pelvienne
+T19	ANAT 400 419	abdomino- pelvienne
+T20	DISO 449 504	infiltrat graisseux pérituberculeulorénal du rein droit
+T21	ANAT 494 504	rein droit
+T22	Localization 499 504	droit
+T23	ANAT 520 538	parois abdominales
+T24	ANAT 555 575	fosse iliaque droite
+T25	Localization 569 575	droite
+T26	MEAS 600 604	4 cm
+T27	MEAS 608 612	3 cm
+T28	PROC 678 697	bilan préopératoire
+T29	PROC 715 718	CRP
+T30	MEAS 721 729	160 mg/l
+T31	PROC 743 762	protéine-C réactive
+T32	PROC 763 766	CRP
+T33	MEAS 768 773	élevé
+T34	MEAS 776 786	4880 UI/ml

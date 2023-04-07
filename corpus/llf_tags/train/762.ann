@@ -1,0 +1,22 @@
+T1	LIVB 3 14	jeune homme
+T2	LIVB 76 83	enfants
+T3	PROC 120 131	hospitalisé
+T4	PROC 142 173	bilan étiologique préopératoire
+T5	DISO 198 233	hypogammaglobulinopathie diabétique
+T6	DISO 254 270	maladie cœliaque
+T7	MEAS 284 290	5cg/dl
+T8	TEMP 310 317	7 jours
+T9	ANAT 382 391	confrères
+T10	DISO 409 418	malignité
+T11	PROC 424 443	examens biologiques
+T12	DISO 468 519	anémie hypochrome microcytaire hétérozygote maligne
+T13	TEMP 528 539	24 semaines
+T14	MEAS 558 568	226 gramme
+T15	MEAS 574 592	13 fois la normale
+T16	DISO 608 635	hyperparathyroïdie primaire
+T17	MEAS 646 649	30%
+T18	DISO 695 720	complication neurologique
+T19	PROC 762 778	bilan biologique
+T20	DISO 803 865	encéphalopathie polymyxoblastique érythémato-immunodysplasique
+T21	MEAS 885 890	15 cm
+T22	MEAS 893 898	14 mm

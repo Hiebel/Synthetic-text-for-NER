@@ -1,0 +1,29 @@
+T1	LIVB 4 9	femme
+T2	Concept_Idea 31 56	antécédents pathologiques
+T3	MEAS 57 65	notables
+T4	PROC 67 73	admise
+T5	Hospital 78 86	urgences
+T6	DISO 98 124	déshydratation métabolique
+T7	TEMP 134 149	depuis 10 jours
+T8	DISO 165 171	fièvre
+T9	MEAS 183 189	38°8 C
+T10	DISO 209 226	symptômes visuels
+T11	DISO 229 262	paralysie axomo-nucléo-thoracique
+T12	ANAT 239 262	axomo-nucléo-thoracique
+T13	MEAS 277 284	modérée
+T14	CHEM 408 419	tuberculine
+T15	PROC 437 479	ponction liquide pleuro-muqueux péritonéal
+T16	ANAT 446 479	liquide pleuro-muqueux péritonéal
+T17	PROC 544 559	examen clinique
+T18	LIVB 575 583	patiente
+T19	DISO 584 595	polypniquée
+T20	MEAS 598 611	22 cycles/min
+T21	DEVI 640 663	sonde cardio-vasculaire
+T23	DISO 704 735	douleur sus claviculaire droite
+T24	ANAT 712 735	sus claviculaire droite
+T25	Localization 729 735	droite
+T26	MEAS 744 747	4/5
+T27	DISO 892 901	distendue
+T28	DISO 905 914	saignante
+T29	PROC 919 939	palpation abdominale
+T30	DISO 964 999	masse tissulaire polylobée kystique

@@ -1,0 +1,74 @@
+T1	PROC 3 16	bronchoscopie
+T2	LIVB 40 46	malade
+T3	PROC 68 92	exploration chirurgicale
+T4	DISO 99 105	tumeur
+T5	PROC 115 122	biopsie
+T6	ANAT 142 149	annexes
+T7	Localization 172 178	droite
+T8	PROC 183 213	complément immunohistochimique
+T9	PROC 215 218	IHC
+T10	ANAT 247 261	canal cystique
+T11	PROC 268 285	geste chirurgical
+T12	PROC 304 321	laparotomie large
+T13	Concept_Idea 341 351	protrusion
+T14	MEAS 366 370	deux
+T15	ANAT 371 393	ganglions inferieuraux
+T16	ANAT 413 447	nerfs gastroduodensitométriosiques
+T17	PROC 454 471	dérivation totale
+T18	DISO 497 518	récidive histologique
+T19	DISO 528 538	métastases
+T20	MEAS 575 582	simples
+T21	PROC 619 645	examen anatomopathologique
+T22	DISO 672 754	adénocarcinome épidermoïde mononucleenchymateux sarcomateux infiltrant métastasant
+T23	MEAS 762 768	T3N1M0
+T24	PROC 816 848	scanner thoraco-abdomino-pelvien
+T25	ANAT 824 848	thoraco-abdomino-pelvien
+T26	DISO 877 940	lésion hypoéchogène tissulaire hétérogène polylobée asymétrique
+T27	MEAS 950 958	6 x 6 cm
+T28	MEAS 967 980	5 centimètres
+T29	ANAT 1017 1034	recoupes urétrale
+T30	PROC 1066 1075	injection
+T31	MEAS 1090 1103	plus arrondie
+T32	ANAT 1120 1143	structure conjonctivale
+T33	DISO 1177 1200	localisation secondaire
+T34	DISO 1210 1225	calcul kystique
+T35	PROC 1239 1282	lavage naso-gastro-duodénal cervico-vaginal
+T36	ANAT 1246 1266	naso-gastro-duodénal
+T37	PROC 1296 1331	hystérectomie élargie scanno-guidée
+T38	DISO 1374 1425	niveaux hydrohépato-oesophagiens liquidiens lobulés
+T39	ANAT 1446 1458	flanc utérin
+T40	PHEN 1463 1483	grossesse gémellaire
+T41	PROC 1488 1494	suivie
+T42	MEAS 1509 1514	2 ème
+T43	PROC 1515 1539	vaccination antibiotique
+T44	DEVI 1556 1579	antiseptique injectable
+T45	Concept_Idea 1623 1643	aspect morphologique
+T47	CHEM 1712 1735	cyclophosphamide per os
+T49	Localization 1810 1829	homolatérale droite
+T50	Localization 1852 1873	de manière symétrique
+T51	PROC 1892 1945	ostéosynthèse biquotidienne endoscopiquement invasive
+T54	Localization 2115 2121	gauche
+T55	DISO 2601 2627	trouble neuropsychiatrique
+T56	LIVB 2636 2641	jeune
+T57	LIVB 2642 2650	patiente
+T58	TEMP 2658 2664	16 ans
+T59	MEAS 2695 2706	particulier
+T60	Hospital 2731 2739	urgences
+T61	DISO 2749 2783	douleurs du membre supérieur droit
+T62	ANAT 2761 2783	membre supérieur droit
+T64	TEMP 2793 2807	depuis 4 jours
+T65	DISO 2853 2869	syndrome méningé
+T66	Concept_Idea 2891 2909	état hémodynamique
+T67	DISO 2924 2942	crises convulsives
+T68	ANAT 2989 2995	thorax
+T69	PROC 3021 3050	chimiothérapie prophylactique
+T70	PROC 3143 3162	rééducation motrice
+T71	PROC 3176 3196	séance psychomotrice
+T72	Concept_Idea 3342 3368	caractéristiques cliniques
+T73	PROC 3385 3411	bilan étiologique standard
+T74	DISO 3449 3460	traumatisme
+T75	DISO 3481 3500	contage tuberculeux
+T76	DISO 3511 3531	lésions infectieuses
+T77	DISO 3558 3587	symptomatologie psychiatrique
+T78	TEMP 3600 3609	24 heures
+T79	DISO 3685 3723	symptomatologie schizophréniotechnique

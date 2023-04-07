@@ -1,0 +1,20 @@
+T1	LIVB 15 22	patient
+T2	PROC 59 93	radiothérapie palliative adjuvante
+T3	Hospital 98 108	oncoviraux
+T4	DOSE 188 193	50 Gy
+T5	ANAT 201 221	fosse iliaque droite
+T6	Localization 215 221	droite
+T7	ANAT 241 264	grande courbure rectale
+T8	PROC 311 320	injection
+T9	CHEM 324 342	méthylprednisolone
+T10	CHEM 355 367	oxaliplatine
+T11	PROC 375 384	chirurgie
+T12	DISO 498 519	syndrome hémorragique
+T13	DISO 532 555	localisations anormales
+T14	PROC 577 601	pronostic postopératoire
+T15	DISO 626 645	nécrose intestinale
+T16	ANAT 634 645	intestinale
+T17	MEAS 689 696	stade 1
+T18	PROC 822 855	imagerie par résonance magnétique
+T19	PROC 857 871	IRM) pelvienne
+T20	ANAT 862 871	pelvienne

@@ -1,0 +1,29 @@
+T1	LIVB 28 35	patient
+T2	PROC 60 66	admise
+T3	Hospital 71 79	urgences
+T4	DISO 109 132	dyspnée aiguë sifflante
+T5	MEAS 147 153	rapide
+T6	PROC 168 183	hospitalisation
+T7	Hospital 198 228	service d'accueil des urgences
+T8	Hospital 230 234	SUHU
+T9	PROC 239 261	examen ophtalmologique
+T10	DISO 278 298	détresse visionnelle
+T11	PHEN 287 298	visionnelle
+T12	DISO 319 332	œdème cornéen
+T13	ANAT 325 332	cornéen
+T14	DISO 336 352	atteinte buccale
+T15	ANAT 345 352	buccale
+T16	DISO 362 388	anomalies neurorétiniennes
+T17	DISO 415 436	hyperhémie rétinienne
+T18	ANAT 426 436	rétinienne
+T19	MEAS 450 457	brutale
+T20	DEVI 515 529	lampeilloscope
+T21	DISO 537 552	symptomatologie
+T22	PROC 601 611	diagnostic
+T23	LIVB 623 628	femme
+T24	CHEM 704 715	ethionamide
+T25	CHEM 721 732	Nicardipine
+T26	DISO 819 882	syndrome d'épanchement intracrânien cervico-rachidiencéphalique
+T27	ANAT 842 882	intracrânien cervico-rachidiencéphalique
+T28	DISO 922 944	souffrance urogénitale
+T29	ANAT 933 944	urogénitale

@@ -1,0 +1,77 @@
+T1	LIVB 29 37	patiente
+T2	DISO 70 98	douleurs abdomino-pelviennes
+T3	ANAT 79 98	abdomino-pelviennes
+T4	DISO 114 128	amaigrissement
+T5	PROC 144 159	examen clinique
+T6	LIVB 171 179	patiente
+T7	MEAS 183 190	mauvais
+T8	Concept_Idea 191 203	état général
+T9	DISO 220 242	constipation chronique
+T10	DISO 249 276	trouble du transit digestif
+T11	PHEN 260 276	transit digestif
+T12	DISO 293 310	signes infectieux
+T13	ANAT 320 359	aires ganglionnaires cervico-cervicales
+T14	ANAT 366 387	veine cave antérieure
+T15	Localization 377 387	antérieure
+T16	PROC 393 407	interrogatoire
+T17	LIVB 423 428	homme
+T18	PROC 471 476	admis
+T19	Hospital 481 502	urgences pédiatriques
+T20	PROC 517 529	hospitaliser
+T21	Hospital 533 569	service de chirurgie maxillo-faciale
+T22	Hospital 571 575	CMIF
+T23	LIVB 641 651	nouveau-né
+T24	DISO 657 676	mouvements fébriles
+T25	MEAS 707 710	5/8
+T27	TEMP 756 782	quelques heures auparavant
+T28	MEAS 832 847	progressivement
+T29	MEAS 858 869	2 ème degré
+T30	DISO 900 920	bruits confusionnels
+T31	DISO 936 970	manifestations neuropsychiatriques
+T32	DISO 985 1009	hallucinations visuelles
+T34	PROC 1212 1236	échographie obstétricale
+T35	DISO 1317 1341	anomalies morphologiques
+T36	DISO 1376 1403	symptomatologie congénitale
+T37	DISO 1407 1430	traumatisme chirurgical
+T38	PROC 1444 1461	bilan étiologique
+T39	DISO 1481 1497	hyperleucocytose
+T40	MEAS 1500 1520	12400 éléments /mm 3
+T41	MEAS 1526 1569	7 fois la limite supérieure UI/Numéro CAS 2
+T42	MEAS 1575 1593	640 éléments /mm 3
+T43	ANAT 1620 1640	squelette thoracique
+T44	PROC 1870 1899	prise en charge préopératoire
+T45	PROC 1921 1945	laparotomie exploratrice
+T46	PROC 1959 1992	annexectomie totale scanno-guidée
+T47	PROC 2005 2053	antibioprophylaxie antibacillaire postopératoire
+T48	PROC 2085 2126	oxygénothérapie intraveineuse parentérale
+T49	PROC 2159 2174	hospitalisation
+T50	PROC 2178 2203	étude anatomopathologique
+T51	DISO 2219 2256	léiomyome polymalformatif éosinophile
+T52	MEAS 2280 2287	18×9 cm
+T53	MEAS 2290 2298	25×11 cm
+T54	Concept_Idea 2891 2911	aspect morphologique
+T55	LIVB 2915 2925	nouveau-né
+T56	CHEM 2955 2966	corticoïdes
+T57	CHEM 2980 2994	triméthoprimes
+T58	Concept_Idea 3059 3079	aspect morphologique
+T59	PROC 3085 3114	prélèvements bactériologiques
+T60	Hospital 3133 3168	structures hospitalo-universitaires
+T61	PROC 3351 3368	bilan préclinique
+T62	DISO 3410 3432	germe entéropathogénes
+T64	PROC 3467 3491	échographie obstétricale
+T65	PROC 3506 3521	rachianesthésie
+T66	PHEN 3540 3555	fonction rénale
+T67	ANAT 3549 3555	rénale
+T68	MEAS 3556 3563	normale
+T69	DISO 3569 3582	thrombocytose
+T70	DISO 3586 3597	hémorragies
+T71	DISO 3614 3640	retentissement périnerveux
+T72	PROC 3645 3662	scanner abdominal
+T73	ANAT 3653 3662	abdominal
+T74	PROC 3677 3700	extraction endoscopique
+T75	DISO 3722 3742	lésions néoplasiques
+T76	DISO 3759 3775	signe infectieux
+T77	PROC 3788 3809	contrôle histologique
+T78	PROC 3835 3849	investigations
+T80	LIVB 4264 4266	sa
+T81	PROC 4267 4279	consultation

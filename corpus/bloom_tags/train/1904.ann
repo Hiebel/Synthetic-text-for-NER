@@ -1,0 +1,23 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	DISO 51 84	lésions prurigineuses purpuriques
+T4	TEMP 94 105	depuis 1 an
+T5	DISO 118 138	facteur déclenchants
+T6	DISO 209 221	prurigineuse
+T7	MEAS 250 265	progressivement
+T8	Concept_Idea 269 275	volume
+T9	DISO 297 367	syndrome d'épanchement péricardique médiastin liquidien basithoracique
+T10	ANAT 320 367	péricardique médiastin liquidien basithoracique
+T11	PROC 405 436	radiothérapie externe adjuvante
+T12	DOSE 465 470	20 Gy
+T13	DEVI 484 512	plans superficiels/fractions
+T14	PROC 528 575	catheterisation artériolaire transoesophagienne
+T15	ANAT 544 575	artériolaire transoesophagienne
+T16	DISO 626 705	adénopathies jugulo-carotidiennes péribasilicielles palmocarotidiennes cutanées
+T18	PROC 797 821	technique médicamenteuse
+T19	LIVB 965 973	patiente
+T20	TEMP 982 988	12 ans
+T21	PROC 1033 1066	traitement prophylactique curatif
+T22	PROC 1230 1253	accouchement artificiel
+T23	MEAS 1294 1308	plus marquante
+T24	DISO 1406 1424	maladie systémique

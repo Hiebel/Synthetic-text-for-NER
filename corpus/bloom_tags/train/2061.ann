@@ -1,0 +1,18 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	6 ans
+T3	Concept_Idea 41 66	antécédents pathologiques
+T4	MEAS 67 79	particuliers
+T5	PROC 83 98	examen clinique
+T6	PROC 103 112	admission
+T7	DISO 124 136	polyarthrite
+T8	ANAT 150 168	membres inférieurs
+T9	ANAT 176 194	membres supérieurs
+T10	PHEN 239 254	acuité visuelle
+T12	ANAT 268 291	liquide pleuro-pleurale
+T13	PROC 293 296	PLP
+T14	DISO 320 364	syndrome d'épanchement périphérique purulent
+T15	Localization 343 355	périphérique
+T16	ANAT 378 410	méso-scapulaire inférieur gauche
+T17	Localization 404 410	gauche
+T18	MEAS 426 432	brutal
+T19	DISO 448 473	granulomes érythémateurés

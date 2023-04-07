@@ -1,0 +1,55 @@
+T1	LIVB 15 22	patient
+T2	DISO 175 205	symptômes infectieux néonatals
+T3	LIVB 214 224	nouveau-né
+T4	PROC 247 267	fécondation in vitro
+T5	PROC 281 300	fermeture familiale
+T6	TEMP 312 320	six mois
+T7	LIVB 380 382	Il
+T8	PROC 420 451	consultation neuropsychiatrique
+T9	PROC 458 487	cystoscopie interventionnelle
+T10	PROC 501 524	hystéro-rectoradiologie
+T11	PROC 572 614	mise en place d'un placenta multiloculaire
+T12	DEVI 591 614	placenta multiloculaire
+T13	PROC 625 641	acte chirurgical
+T14	PROC 683 716	remplissage iléonerveux péridural
+T15	ANAT 695 716	iléonerveux péridural
+T16	Hospital 759 792	structures médicales pédiatriques
+T17	PROC 831 850	suivi préopératoire
+T18	Concept_Idea 915 931	plan obstétrical
+T19	LIVB 937 941	mère
+T20	PROC 972 1010	anticoagulation percutanéphrine totale
+T21	PROC 1026 1054	polyventilation artificielle
+T22	TEMP 1063 1076	huit semaines
+T23	PROC 1091 1140	transfusion intraveineuse parentérale fractionnée
+T24	PROC 1177 1200	monitorage anesthésique
+T25	PROC 1239 1284	épisodes psychotiques somatiques substitutifs
+T26	PROC 1309 1347	perfusion endotrachéale per opératoire
+T27	PROC 1392 1416	stérnotomie diagnostique
+T28	DISO 1467 1495	nodules tumoraux angiomateux
+T29	ANAT 1537 1551	anse gastrique
+T30	MEAS 1576 1594	16 x 6 centimètres
+T31	MEAS 1598 1611	14 centimètre
+T32	DISO 1640 1651	infectieuse
+T33	PROC 1780 1788	préparés
+T34	PROC 1833 1877	recoupes urétéroscopiques échographietriques
+T35	ANAT 1912 1931	vésicules biliaires
+T36	ANAT 2000 2025	cellules trophoblastiques
+T37	ANAT 2071 2092	végétations vaginales
+T38	ANAT 2183 2189	vessie
+T39	DEVI 2211 2219	cathéter
+T40	PROC 2225 2263	cholangiographie par cohérence optique
+T41	PROC 2265 2268	OCT
+T42	PHEN 2296 2332	reflexes ostéotendineux superficiels
+T43	ANAT 2348 2363	nerfs digestifs
+T44	ANAT 2376 2391	rein postérieur
+T45	Localization 2381 2391	postérieur
+T46	Concept_Idea 2405 2422	aspect hélicoïdal
+T47	MEAS 2496 2504	nombreux
+T48	ANAT 2551 2569	cavité péritonéale
+T49	ANAT 2586 2608	colon transoesophagien
+T50	DISO 2635 2658	troubles hydro-aériques
+T51	DISO 2668 2694	signes neuropsychiatriques
+T52	Concept_Idea 2716 2736	aspect morphologique
+T53	DISO 2752 2825	neurofibromatocarcinome épithélio-mésenchymateux maligne primitif myxoide
+T54	PROC 2863 2888	étude immunohistochimique
+T55	LIVB 3035 3043	patiente

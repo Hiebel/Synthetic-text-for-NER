@@ -1,0 +1,37 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 54 55	2
+T3	LIVB 56 63	enfants
+T4	PROC 65 71	Admise
+T5	Hospital 75 95	service des urgences
+T6	DISO 105 112	douleur
+T7	ANAT 117 134	hypochondre droit
+T8	Localization 129 134	droit
+T9	DISO 150 161	traumatisme
+T10	DISO 172 178	signes
+T11	Concept_Idea 232 244	état général
+T12	Concept_Idea 266 284	état hémodynamique
+T13	PROC 301 316	examen clinique
+T14	LIVB 330 338	patiente
+T15	MEAS 342 349	mauvais
+T16	Concept_Idea 350 362	état général
+T17	DISO 379 387	constipé
+T18	DISO 400 407	fébrile
+T19	MEAS 410 414	38°C
+T20	Concept_Idea 416 421	poids
+T21	MEAS 423 427	39kg
+T22	Concept_Idea 429 435	taille
+T23	MEAS 437 442	50 cm
+T24	PROC 457 475	bilan radiologique
+T25	DISO 487 500	particularité
+T26	PROC 505 535	TDM thoraco-abdomino-pelvienne
+T27	ANAT 509 535	thoraco-abdomino-pelvienne
+T28	DISO 571 633	hématome sous dural postéro-latéral antérieur supérieur gauche
+T29	Localization 607 633	antérieur supérieur gauche
+T30	DEVI 678 699	crochets asymétriques
+T31	MEAS 767 772	4/3 °
+T32	MEAS 776 784	5/10 ° C
+T33	MEAS 817 824	simples
+T34	PROC 830 855	chimiothérapie palliative
+T35	CHEM 861 877	cyclophosphamide
+T36	PROC 891 935	rééducation fonctionnelle multidisciplinaire
+T37	TEMP 973 980	18 mois

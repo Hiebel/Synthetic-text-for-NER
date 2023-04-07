@@ -1,0 +1,13 @@
+T1	LIVB 3 10	patient
+T2	MEAS 57 69	particuliers
+T3	Hospital 94 115	urgences pédiatriques
+T4	Hospital 117 172	maternité Notre-Dame Hospitalière Provinciale Militaire
+T5	PROC 218 235	tomodensitométrie
+T6	LIVB 277 283	malade
+T7	DISO 302 338	symptomatologie obstétricale commune
+T14	DISO 1044 1081	neurofibromatose dégénérative maligne
+T15	DISO 1103 1148	complications neuropsychiatriques systémiques
+T16	DISO 1181 1206	splénomégalie congénitale
+T17	PROC 1211 1233	contrôle échographique
+T18	MEAS 1245 1252	négatif
+T19	PROC 1280 1302	tests scannographiques

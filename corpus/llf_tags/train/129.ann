@@ -1,0 +1,82 @@
+T1	LIVB 14 21	patient
+T2	DISO 42 67	antécédents pathologiques
+T3	MEAS 68 80	particuliers
+T4	Hospital 101 109	urgences
+T5	DISO 118 140	nodule du cuir chevelu
+T6	ANAT 128 140	cuir chevelu
+T7	TEMP 150 168	depuis trois jours
+T8	DISO 183 192	dysphonie
+T9	DISO 200 212	vomissements
+T10	Concept_Idea 266 278	état général
+T11	Concept_Idea 300 313	état générale
+T12	PROC 315 320	pouls
+T13	MEAS 323 337	110 battements
+T14	TEMP 338 348	par minute
+T15	PHEN 355 373	suites opératoires
+T16	MEAS 382 389	simples
+T17	PROC 403 422	bilan préopératoire
+T18	PROC 436 463	numération formule sanguine
+T19	LIVB 467 469	il
+T20	PROC 520 542	traitement substitutif
+T21	CHEM 571 606	anti-inflammatoires non stéroïdiens
+T22	DISO 676 695	symptôme infectieux
+T23	LIVB 707 715	patiente
+T24	PROC 719 744	étude anatomopathologique
+T25	DISO 773 818	récidive tumorale carcinomateuse métastatique
+T26	DISO 824 853	kératoconjonctivite ankylosée
+T27	PROC 863 899	classification de Kerboull Hashimoto
+T28	PROC 924 954	mise en condition chirurgicale
+T29	PROC 960 982	rachianesthésie locale
+T30	PROC 986 1024	stabilisation neurochirurgicale totale
+T31	PROC 1038 1063	thoracotomie exploratrice
+T32	PROC 1079 1113	tumorectomie élargie scanno-guidée
+T33	PROC 1132 1164	fibroscopie digestive bilatérale
+T34	Localization 1154 1164	bilatérale
+T35	ANAT 1184 1208	membrane gastrocnémienne
+T36	ANAT 1240 1263	ganglions mésentériques
+T37	ANAT 1288 1311	branches épiploïdiennes
+T38	ANAT 1334 1361	crête iliaque médio caudale
+T39	Localization 1348 1353	médio
+T40	ANAT 1375 1396	épithélium péritonéal
+T41	Concept_Idea 1408 1427	aspect histologique
+T42	DISO 1444 1509	métastase endométriosique achromique hypodense maligne secondaire
+T43	DISO 1547 1594	léiomyome mucineux myxoïde infiltrant liquidien
+T44	PROC 1611 1647	adénosine trichobézoïde monophasique
+T45	PROC 1670 1703	greffe biopsique adjuvante per os
+T46	ANAT 1743 1758	glande jéjunale
+T47	ANAT 1794 1835	cellules trophoblastiques intrapalpébrale
+T48	PROC 1990 2008	toilette abdominal
+T49	ANAT 1999 2008	abdominal
+T50	ANAT 2058 2073	tissu graisseux
+T51	ANAT 2115 2132	graisse cornéenne
+T52	DEVI 2148 2159	bioprothèse
+T53	Concept_Idea 2257 2273	qualité clinique
+T54	PROC 2280 2307	analyse immunohistochimique
+T55	PROC 2893 2930	électrophorèse des protéines sériques
+T56	PROC 2932 2935	PCR
+T57	PROC 2950 2974	scanner du boudin jugulé
+T58	ANAT 2961 2974	boudin jugulé
+T59	MEAS 2988 2999	volumineuse
+T60	DISO 3000 3049	hyperlymphocytose tumorale carcinomateuse maligne
+T61	ANAT 3077 3102	liquide céphalo rachidien
+T62	ANAT 3119 3150	noyaux cervical supérieur droit
+T63	Localization 3145 3150	droit
+T64	ANAT 3173 3198	ganglion inferieur gauche
+T65	Localization 3192 3198	gauche
+T66	ANAT 3271 3297	sinus maxillaire bilatéral
+T67	Localization 3288 3297	bilatéral
+T68	DISO 3309 3336	foyer infectieux secondaire
+T69	DISO 3347 3357	métastases
+T70	PROC 3372 3402	complément immunohistochimique
+T71	LIVB 3435 3443	patiente
+T72	DISO 3464 3541	hybride tissulaire composite hétérogène éosinophile polyclonal dyskératosique
+T73	ANAT 3571 3589	cavité péritonéale
+T74	MEAS 3599 3621	environ 10 centimètres
+T75	Concept_Idea 3625 3634	grand axe
+T76	ANAT 3696 3713	parois digestives
+T77	Concept_Idea 3928 3950	spécificité anatomique
+T78	LIVB 4264 4270	enfant
+T79	TEMP 4278 4283	9 ans
+T80	PHEN 4434 4454	mariages consanguins
+T81	PROC 4485 4505	acte sexuel primaire
+T82	LIVB 4513 4517	nous

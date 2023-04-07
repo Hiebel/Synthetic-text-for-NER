@@ -1,0 +1,33 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 37	admise
+T3	PROC 45 69	exploration chirurgicale
+T4	DISO 75 108	syndrome hémorragique métabolique
+T5	DISO 125 146	détresse respiratoire
+T6	PHEN 134 146	respiratoire
+T7	MEAS 161 167	rapide
+T8	TEMP 177 195	depuis trois jours
+T9	LIVB 202 205	son
+T10	PROC 206 221	hospitalisation
+T11	PROC 271 285	interrogatoire
+T12	LIVB 300 304	elle
+T13	PROC 332 358	consultation prénupturenel
+T14	DISO 407 413	fièvre
+T15	MEAS 425 429	38°c
+T16	DISO 466 493	traumatisme pérituberculeux
+T17	DISO 506 533	polynucléaires éosinophiles
+T18	MEAS 551 567	de façon brutale
+T19	MEAS 586 606	20 000 éléments/mm 3
+T20	MEAS 612 629	4 fois la normale
+T21	LIVB 632 636	Elle
+T22	DISO 663 682	facteur déclenchant
+T23	DISO 696 713	souffrance fœtale
+T24	DISO 726 752	malformations congénitales
+T25	DISO 778 801	hypertension artérielle
+T26	ANAT 791 801	artérielle
+T27	DISO 830 855	hypotonie brachycérébrale
+T28	ANAT 840 855	brachycérébrale
+T29	TEMP 907 912	6 ans
+T30	DISO 944 972	distension pleuro-pulmonaire
+T31	ANAT 955 972	pleuro-pulmonaire
+T32	DISO 992 1017	pathologies neurologiques
+T33	DISO 1180 1194	pré-évolutives

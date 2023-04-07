@@ -1,0 +1,16 @@
+T1	PROC 2 19	bilan d'extension
+T2	DISO 29 35	tumeur
+T3	DISO 57 91	nodule du quadrant inférieur droit
+T4	ANAT 67 91	quadrant inférieur droit
+T5	Localization 86 91	droit
+T6	PROC 96 109	sérologie VIH
+T7	MEAS 116 124	positive
+T8	MEAS 127 134	960/mm³
+T9	PROC 141 189	recherche des anticorps anti-cytokératine totale
+T10	PROC 191 200	anti-CK19
+T11	PROC 202 210	anti-EBV
+T12	DISO 274 288	particularités
+T13	PROC 302 322	suivi postopératoire
+T14	DISO 346 367	récidive anamnestique
+T15	DISO 394 428	symptomatologie neuropsychiatrique
+T16	LIVB 438 445	patient

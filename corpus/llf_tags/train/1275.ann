@@ -1,0 +1,35 @@
+T1	MEAS 0 7	normale
+T2	PROC 12 54	radiographie de l'abdomen sans préparation
+T3	ANAT 30 37	abdomen
+T4	Concept_Idea 56 63	de face
+T5	Concept_Idea 67 76	de profil
+T6	DISO 90 110	niveau hydro-aérique
+T7	PROC 115 137	fibroscopie antérieure
+T8	Localization 127 137	antérieure
+T9	DISO 154 183	pneumopathie du scalp frontal
+T10	ANAT 170 183	scalp frontal
+T11	DISO 204 249	dilatation des voies biliaires intrahépatique
+T12	ANAT 219 249	voies biliaires intrahépatique
+T13	DISO 270 299	thrombophlébite anoxocardique
+T14	PROC 304 320	scanner cérébral
+T15	ANAT 312 320	cérébral
+T16	MEAS 388 395	simples
+T17	PROC 399 424	étude anatomopathologique
+T18	DISO 454 558	adénocarcinome mucineux myxoide infiltrant le parenchyme crico-trachéo-gastrocardioïde réno-mésentérique
+T19	ANAT 500 558	parenchyme crico-trachéo-gastrocardioïde réno-mésentérique
+T20	PROC 581 589	incision
+T21	ANAT 636 655	région parotidienne
+T22	ANAT 666 688	ganglions sous cutanés
+T23	ANAT 711 739	nerf laryngé inférieur droit
+T24	Localization 734 739	droit
+T25	MEAS 772 778	T3N0Mx
+T26	PROC 782 799	immunohistochimie
+T27	DISO 821 844	localisation secondaire
+T28	ANAT 906 934	zones charnues médiastinales
+T29	PROC 1047 1072	chimiothérapie palliative
+T30	CHEM 1078 1094	cyclophosphamide
+T31	CHEM 1097 1109	pyrazinamide
+T32	PROC 1123 1156	radio chimiothérapie concomitante
+T33	PROC 1193 1218	prélèvements chirurgicaux
+T34	TEMP 1270 1276	6 mois
+T35	TEMP 1280 1285	4 ans

@@ -1,0 +1,96 @@
+T1	PROC 3 20	tomodensitométrie
+T2	PROC 22 37	TDM) abdominale
+T3	ANAT 27 37	abdominale
+T4	DISO 54 83	masse tissulaire de l'abdomen
+T5	ANAT 76 83	abdomen
+T6	MEAS 93 97	7 cm
+T7	Concept_Idea 101 110	grand axe
+T8	LIVB 115 123	patiente
+T9	PROC 140 168	antibiothérapie probabiliste
+T10	CHEM 178 209	amoxicilline acide clavulanique
+T11	CHEM 211 225	gentamethasone
+T12	CHEM 229 239	céfotaxime
+T13	PROC 263 286	traitement conservateur
+T14	CHEM 294 310	corticostéroïdes
+T15	PROC 340 360	toilette péritonéale
+T16	ANAT 349 360	péritonéale
+T17	PROC 396 428	bilan étiologique pré-opératoire
+T18	PROC 443 467	échographie obstétricale
+T19	PROC 488 514	examen anatomopathologique
+T20	PROC 531 553	contrôle échographique
+T21	PROC 559 594	scanners thoraco- abdomino-pelviens
+T22	ANAT 568 594	thoraco- abdomino-pelviens
+T23	PROC 610 619	injection
+T24	CHEM 624 659	produits de contraste iatrogéniques
+T25	ANAT 669 689	recoupes anéchogènes
+T26	PROC 695 705	diagnostic
+T27	DISO 728 778	processus tumoral hétérogène mono ou trichobézoard
+T28	ANAT 797 816	région épigastrique
+T29	MEAS 825 838	environ 25 mm
+T30	Concept_Idea 842 851	grand axe
+T31	DEVI 877 892	culots scanners
+T32	PROC 926 951	étude immunohistochimique
+T33	DISO 1048 1088	nodule érythémateux cutané polymyomateux
+T34	ANAT 1110 1128	segments biliaires
+T35	Concept_Idea 1140 1149	caractère
+T36	Localization 1150 1165	circonférentiel
+T37	Concept_Idea 1191 1213	limites biquotidiennes
+T38	PROC 1217 1226	angio-IRM
+T39	PROC 1253 1274	prélèvement biopsique
+T40	PHEN 1326 1345	grossesses tardives
+T41	DISO 1359 1381	anomalie morphologique
+T42	DISO 1412 1427	perte pondérale
+T43	MEAS 1448 1458	favorables
+T44	Concept_Idea 1471 1487	plan chirurgical
+T45	PROC 1492 1515	paracentro-anesthésique
+T46	TEMP 1535 1545	11/08/2017
+T47	PROC 1551 1574	opératoire chirurgicale
+T48	PROC 1588 1618	rééducation neuropsychiatrique
+T49	PROC 1660 1710	prise en charge psychothérapeutique individualisée
+T50	PROC 1716 1759	psychoanalgésie multimodale parenthésébrale
+T51	PROC 1779 1785	suivie
+T52	PROC 1790 1830	programme de rééducation motrice complet
+T53	PROC 2036 2075	compétitions sportives auto évaluatives
+T54	DISO 2137 2165	symptomatologie pathologique
+T55	MEAS 2172 2181	raccourci
+T56	DISO 2232 2258	difficultés fonctionnelles
+T57	LIVB 3107 3109	sa
+T58	LIVB 3110 3122	petite fille
+T59	TEMP 3131 3137	3 mois
+T60	LIVB 3192 3198	garçon
+T61	Concept_Idea 3224 3227	âge
+T62	TEMP 3231 3238	six ans
+T63	DISO 3259 3276	dyspnée sifflante
+T64	DISO 3305 3311	fièvre
+T65	DISO 3327 3349	rhinorrhées mécaniques
+T66	DISO 3365 3391	troubles du transit buccal
+T67	PHEN 3377 3391	transit buccal
+T68	DISO 3401 3420	syndrome infectieux
+T69	ANAT 3424 3431	abdomen
+T70	MEAS 3438 3457	légèrement sensible
+T72	DOSE 3482 3486	1 mg
+T73	TEMP 3486 3496	/24 heures
+T74	PROC 3503 3527	échographie obstétricale
+T75	DISO 3548 3577	distension cervico-abdominale
+T76	ANAT 3559 3577	cervico-abdominale
+T77	MEAS 3587 3592	60 cm
+T78	Localization 3600 3628	versant sus pubien inférieur
+T79	DISO 3657 3682	masse tissulaire arrondie
+T80	MEAS 3691 3703	environ 6 cm
+T81	ANAT 3720 3752	région postéro-supérieure gauche
+T82	Localization 3746 3752	gauche
+T83	ANAT 3767 3798	anses grêles cervicales gauches
+T84	Localization 3791 3798	gauches
+T85	DISO 3812 3849	hypertrophie népalo-crurale étranglée
+T86	ANAT 3868 3914	fascia diaphragmatique supérieur droit interne
+T87	Localization 3901 3914	droit interne
+T88	Concept_Idea 3927 3946	aspect histologique
+T89	DISO 4023 4053	métastase méningée congénitale
+T90	PROC 4087 4117	TDM thoraco abdomino-pelvienne
+T91	ANAT 4091 4117	thoraco abdomino-pelvienne
+T93	ANAT 4268 4301	annexes crico-parietales fessiers
+T94	DISO 4367 4381	adénomégalités
+T95	DISO 4408 4438	méningo-encéphalite nécrosante
+T96	MEAS 4452 4458	type I
+T97	PROC 4468 4520	classification de Jensen Lymphoembolder ketoacidosis
+T98	LIVB 4587 4594	patient

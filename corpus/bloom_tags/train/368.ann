@@ -1,0 +1,71 @@
+T1	LIVB 4 12	fillette
+T2	TEMP 16 22	12 ans
+T3	PROC 29 41	hospitalisée
+T4	Hospital 46 67	urgences pédiatriques
+T5	DISO 86 114	hypoglycémie mal métabolisée
+T6	DISO 147 183	polyarthrite palmocutanée purpurique
+T7	ANAT 201 208	poignet
+T8	ANAT 230 248	membres inférieurs
+T9	MEAS 304 310	38°5 C
+T10	PROC 344 365	traitement antalgique
+T11	CHEM 378 389	propranolol
+T12	CHEM 392 403	paracétamol
+T13	DOSE 406 412	100 mg
+T14	MODE 412 467	/j; hydrocortisone: 20 mg per os par voie intraveineuse
+T15	CHEM 416 430	hydrocortisone
+T16	DOSE 432 437	20 mg
+T17	CHEM 470 483	sulfasalamide
+T18	DOSE 485 492	1 mg/kg
+T19	TEMP 492 495	/ j
+T20	PROC 500 531	échographie abdomino- pelvienne
+T21	ANAT 512 531	abdomino- pelvienne
+T22	DISO 548 585	masse hétérogène tissulaire hypodense
+T23	MEAS 595 600	14 mm
+T24	Concept_Idea 604 613	grand axe
+T25	ANAT 635 660	organes génitaux externes
+T26	LIVB 744 752	patiente
+T27	DEVI 773 811	matériels contraceptifs intra-vaginaux
+T28	LIVB 843 850	enfants
+T29	Concept_Idea 868 885	caractère féminin
+T30	PROC 927 949	technique chirurgicale
+T31	PROC 952 977	intervention chirurgicale
+T32	PROC 1000 1023	résection transfixiante
+T33	DISO 1045 1077	lésions nodulaires prurigineuses
+T34	PROC 1095 1113	asepsie aspiration
+T35	PROC 1129 1160	radiothérapie externe adjuvante
+T36	PROC 1175 1241	curage ganglionnaire buccopharyngéo-bronchique cervicovestibulaire
+T37	ANAT 1182 1241	ganglionnaire buccopharyngéo-bronchique cervicovestibulaire
+T38	PROC 1360 1388	recherche radiotherapeutique
+T39	MEAS 1426 1433	indemne
+T40	DISO 1517 1534	tumeur résiduelle
+T41	PROC 1557 1574	ponction pleurale
+T42	ANAT 1566 1574	pleurale
+T43	PROC 1607 1626	biopsie écho-guidée
+T44	DISO 1685 1703	cellules tumorales
+T45	DISO 1710 1734	vascularisation kystique
+T46	DISO 1766 1791	papule verruclée cœliaque
+T47	MEAS 1825 1832	simples
+T48	MEAS 1860 1866	totale
+T49	DISO 1873 1901	symptomatologie neurologique
+T50	MEAS 1937 1943	rapide
+T51	DISO 1950 1976	nécrose caséeuse polylobée
+T52	MEAS 2018 2039	spontanément sensible
+T54	PROC 2133 2165	scanner thoraco-abdomino-pelvien
+T55	ANAT 2141 2165	thoraco-abdomino-pelvien
+T56	ANAT 2192 2213	sinus pharyngo-larynx
+T57	DISO 2218 2257	adénopathies bilatérales hypo-échogènes
+T58	Localization 2231 2242	bilatérales
+T59	MEAS 2282 2286	3 cm
+T60	MEAS 2290 2294	4 cm
+T61	Concept_Idea 2297 2306	épaisseur
+T62	PROC 2311 2341	bilan biologique préopératoire
+T63	PROC 2343 2362	hémoglobine glyquée
+T64	PROC 2364 2397	protéines sériques antinucléaires
+T65	PROC 2411 2444	imagerie par résonance magnétique
+T66	PROC 2446 2449	IRM
+T67	ANAT 2451 2470	cervico-thoraciques
+T68	DISO 2489 2502	particularité
+T69	PROC 2506 2531	étude immunohistochimique
+T70	DISO 2559 2590	processus carcinomateux maligne
+T71	DISO 2610 2644	métastome paragangliocarcinomateux
+T72	ANAT 2620 2644	paragangliocarcinomateux

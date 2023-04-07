@@ -1,0 +1,13 @@
+T1	PROC 3 45	radiographie de l'abdomen sans préparation
+T2	ANAT 21 28	abdomen
+T3	DISO 76 96	masse du rein gauche
+T4	ANAT 85 96	rein gauche
+T5	Localization 90 96	gauche
+T6	MEAS 107 111	7 cm
+T7	Concept_Idea 115 124	grand axe
+T8	MEAS 157 164	simples
+T9	LIVB 171 178	patient
+T10	PROC 185 190	sorti
+T11	TEMP 193 195	J2
+T12	PROC 201 211	opératoire
+T13	TEMP 229 235	6 mois

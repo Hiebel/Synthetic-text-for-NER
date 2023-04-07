@@ -1,0 +1,50 @@
+T1	LIVB 28 35	patient
+T2	PROC 68 127	ponction liquide pleuro-péricardique thoracique explorateur
+T3	ANAT 77 127	liquide pleuro-péricardique thoracique explorateur
+T4	PROC 133 157	anesthésie locorégionale
+T5	ANAT 144 157	locorégionale
+T6	PROC 165 190	étude anatomopathologique
+T7	DISO 209 262	carcinocarcinome infiltrant érythémateu-necromyotique
+T8	DISO 324 333	malignité
+T9	DISO 358 377	composante tumorale
+T10	LIVB 386 393	patient
+T11	DISO 479 503	pathologies hypertensive
+T12	DISO 509 532	hypertension artérielle
+T13	ANAT 522 532	artérielle
+T14	DISO 548 581	maladie thromboembolique veineuse
+T15	PROC 594 634	traitement hormonothérapique substitutif
+T16	CHEM 640 654	hydrocortisone
+T17	DOSE 657 663	2mg/kg
+T18	TEMP 663 668	/jour
+T19	PROC 675 695	biopsie chirurgicale
+T20	DEVI 741 749	seringue
+T21	PROC 770 788	décollement plâtré
+T22	DISO 1000 1032	tumeur carcinomateuse hétérogène
+T23	ANAT 1043 1053	pulmonaire
+T24	PROC 1184 1206	diagnostic étiologique
+T25	DISO 1247 1270	néphropathie diabétique
+T26	DISO 1320 1344	hyperthyroïdie nodulaire
+T27	DISO 1351 1376	adénophagico-interstitiel
+T28	DISO 1438 1491	tuméfactions graisseuses angulo-métaphyso-fistulisées
+T29	ANAT 1513 1530	vésicule biliaire
+T30	ANAT 1561 1579	glandes ovariennes
+T31	DISO 1647 1672	localisations secondaires
+T32	DISO 1686 1734	syndrome d'épanchement intrapéritonéal liquidien
+T33	ANAT 1709 1734	intrapéritonéal liquidien
+T34	DISO 1758 1774	signes cliniques
+T35	DISO 1790 1824	nodules bourgeonnants polykystisés
+T36	PROC 1834 1863	prélèvements bactériologiques
+T37	ANAT 1877 1885	pancréas
+T38	MEAS 1892 1900	positifs
+T39	LIVB 1902 1934	bacilles acido-alcoolorésistants
+T40	PROC 1948 2005	examen cytobactériologique des planschermes pancréatiques
+T41	ANAT 1979 2005	planschermes pancréatiques
+T42	MEAS 2012 2019	négatif
+T43	DISO 2040 2074	carcinome mépanineux kystéosarcome
+T44	ANAT 2050 2074	mépanineux kystéosarcome
+T45	LIVB 2094 2101	patient
+T46	PROC 2115 2139	chimiothérapie adjuvante
+T47	CHEM 2154 2161	taxanes
+T48	CHEM 2163 2173	cisplatine
+T49	CHEM 2175 2186	doxycycline
+T50	CHEM 2188 2201	dexaméthasone

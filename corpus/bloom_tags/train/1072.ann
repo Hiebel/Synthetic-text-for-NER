@@ -1,0 +1,57 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 69	admise
+T3	Hospital 74 95	urgences pédiatriques
+T4	DISO 114 137	hypoglycémie diabétique
+T5	CHEM 155 168	dexaméthasone
+T6	DOSE 170 177	20mg/kg
+T7	TEMP 177 179	/j
+T8	PROC 185 215	bilan biologique préopératoire
+T9	PROC 233 250	leucoglobulinémie
+T10	MEAS 253 263	12000 g/dl
+T11	PROC 279 298	hyperprotéinorachie
+T12	MEAS 309 318	100kg/m 2
+T13	PROC 331 359	explorations complémentaires
+T14	MEAS 368 376	normales
+T15	PROC 486 516	échographie abdomino-pelvienne
+T16	ANAT 498 516	abdomino-pelvienne
+T17	MEAS 517 524	normale
+T18	DISO 550 570	signes pathologiques
+T19	DISO 611 643	anomalie métabolisme néoplasique
+T20	Localization 654 665	péritonéale
+T21	TEMP 693 709	plusieurs années
+T22	MEAS 791 798	brutale
+T23	DISO 847 872	symptômes neurosensoriels
+T24	DISO 945 957	neurofibrome
+T25	LIVB 1021 1030	patientes
+T26	DISO 1069 1099	détresse cutanéo-surrénalienne
+T27	DEVI 1078 1099	cutanéo-surrénalienne
+T28	MEAS 1235 1247	10 000 UI/ml
+T29	PROC 1253 1278	radio-chirurgie adjuvante
+T30	LIVB 1301 1307	enfant
+T31	TEMP 1315 1321	15 ans
+T32	PROC 1336 1364	chimiothérapie néo adjuvante
+T33	MODE 1384 1394	voie orale
+T34	DOSE 1397 1405	30 mg/kg
+T35	TEMP 1405 1407	/j
+T36	CHEM 1410 1427	Cyclo-phosphamide
+T37	CHEM 1430 1449	dobutyl phthalidyle
+T38	DOSE 1452 1458	750 mg
+T39	TEMP 1458 1460	/j
+T40	PROC 1686 1725	traitement immunocorticoïde substitutif
+T41	LIVB 1779 1787	patients
+T42	Concept_Idea 2307 2324	spatiotemporelles
+T43	PROC 2610 2634	scanner abdomino-pelvien
+T44	ANAT 2618 2634	abdomino-pelvien
+T45	DISO 2647 2716	épanchement périphérique des parties molles cervicales hypogastriques
+T46	Localization 2659 2671	périphérique
+T47	ANAT 2676 2716	parties molles cervicales hypogastriques
+T48	PROC 2733 2761	imagerie tomodensitométrique
+T49	PROC 2763 2786	TDM) abdomino-pelvienne
+T50	ANAT 2768 2786	abdomino-pelvienne
+T51	DISO 2821 2918	masse du parenchyme endométrial hypoéchogène tissulaire lésionnel latéro-utérin hypervascularisée
+T53	MEAS 2928 2932	6 cm
+T54	ANAT 2949 2979	veine cave rénale homolatérale
+T55	Localization 2967 2979	homolatérale
+T56	DISO 2992 3014	adénopathies kystiques
+T57	PHEN 3030 3048	suites opératoires
+T58	MEAS 3057 3064	simples

@@ -1,0 +1,56 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	6 ans
+T3	CHEM 54 77	corticothérapie inhalée
+T4	PROC 79 85	traité
+T5	DISO 95 113	neurofibrillations
+T6	PROC 141 166	intervention chirurgicale
+T7	TEMP 211 224	depuis 3 mois
+T8	PROC 242 257	examen clinique
+T9	DISO 296 325	symptômes neuropsychiatriques
+T10	DISO 346 369	crises tonico-cloniques
+T11	MEAS 384 408	progressivement chiffrée
+T12	LIVB 433 440	dernier
+T13	DISO 537 560	traumatisme oculomoteur
+T14	LIVB 603 605	il
+T15	DISO 668 692	symptômes neurocognitifs
+T16	LIVB 754 762	patiente
+T17	MEAS 786 787	2
+T18	LIVB 788 795	enfants
+T19	MEAS 838 842	800g
+T20	TEMP 1015 1026	trois jours
+T21	MEAS 1059 1065	rapide
+T22	DISO 1274 1307	masse angulo-cæcale hypo-échogène
+T23	MEAS 1316 1320	4 cm
+T24	Concept_Idea 1324 1333	grand axe
+T25	ANAT 1355 1391	parties molles cervicales crâniennes
+T26	MEAS 1403 1418	progressivement
+T27	Concept_Idea 1422 1428	volume
+T28	DISO 1444 1539	hypertrophie sinus caverneux pariétal inféro-tentoriel périphérique systématisé hypersignal T2*
+T30	PROC 1553 1562	injection
+T31	CHEM 1566 1586	produit de contraste
+T32	DISO 1609 1672	syndrome d’épanchement péribuccinalebasithoracique locorégional
+T33	ANAT 1632 1672	péribuccinalebasithoracique locorégional
+T34	DISO 1700 1749	neuro-endocrinopathie ischémique thromboembolisée
+T35	LIVB 1823 1827	elle
+T36	PROC 1912 1936	scanner abdomino-pélvien
+T37	ANAT 1920 1936	abdomino-pélvien
+T38	DISO 1960 1980	nodulaire tissulaire
+T39	DEVI 2065 2095	canaux veineuses périphériques
+T40	DISO 2128 2158	myxome pléomorphe hypertrophié
+T41	DISO 2182 2199	kystoïde malformé
+T42	PROC 2228 2261	imagerie par résonance magnétique
+T43	PROC 2262 2265	IRM
+T44	DISO 2327 2366	polypancréatite néphropathique kystique
+T45	PROC 2426 2465	résection transperitonéale endoscopique
+T46	PROC 2469 2498	examen clinique préopératoire
+T47	LIVB 2513 2520	patient
+T48	Concept_Idea 2545 2563	plan hémodynamique
+T49	PHEN 2567 2579	respiratoire
+T50	DISO 2594 2625	anomalies hydro-électrolytiques
+T51	PROC 2629 2654	intervention chirurgicale
+T52	PROC 2675 2694	anesthésie générale
+T53	ANAT 2709 2736	hile sus-claviculaire droit
+T54	Localization 2731 2736	droit
+T55	TEMP 2738 2754	entre 12h et 24h
+T56	PROC 2763 2772	admission
+T57	Hospital 2781 2786	salle

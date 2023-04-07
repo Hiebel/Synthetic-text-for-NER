@@ -1,0 +1,30 @@
+T1	LIVB 14 22	Patiente
+T2	MEAS 77 78	4
+T3	LIVB 79 86	enfants
+T4	TEMP 171 177	7 mois
+T5	MEAS 230 242	1650 grammes
+T6	Concept_Idea 259 275	âge gestationnel
+T8	ANAT 511 515	foie
+T9	DISO 525 540	signes généraux
+T10	DISO 547 566	syndrome restrictif
+T11	ANAT 580 655	dôme phréno-rénalvéolaire postéro-supérieur antero-antéro-inférieur gauches
+T12	Localization 648 655	gauches
+T13	ANAT 669 697	anses intestinales profondes
+T14	DISO 713 724	traumatisme
+T15	DISO 734 753	trouble obstétrical
+T16	PHEN 870 882	accouchement
+T17	LIVB 930 932	sa
+T18	LIVB 933 943	belle-sœur
+T19	DISO 1051 1080	complications postopératoires
+T20	Hospital 1090 1103	établissement
+T21	LIVB 1113 1121	patiente
+T22	DISO 1143 1167	déficit sensitivo-moteur
+T23	CHEM 1251 1292	fluoroquinolone acide acétyle thiazidique
+T24	LIVB 1348 1371	professionnels de santé
+T25	DISO 1396 1430	symptomatologie neuropsychiatrique
+T26	LIVB 1521 1533	médecins ORL
+T27	DISO 1717 1765	léiomyosarcome primitif du massif facial laryngé
+T28	ANAT 1744 1765	massif facial laryngé
+T29	Concept_Idea 1798 1820	critères histologiques
+T30	DISO 1840 1866	métastase kystique maligne
+T31	DISO 1886 1914	neurofibromatose infectieuse

@@ -1,0 +1,67 @@
+T1	LIVB 4 12	patiente
+T2	CHEM 44 55	Cyclosérine
+T3	DOSE 57 63	2mg/kg
+T4	TEMP 63 68	/jour
+T5	CHEM 71 79	Cloprène
+T6	DOSE 81 87	100 mg
+T7	TEMP 87 89	/j
+T8	CHEM 92 106	Triméthoxazole
+T9	DOSE 108 114	400 mg
+T10	TEMP 114 116	/j
+T11	CHEM 119 130	Ceftriaxone
+T12	DOSE 132 134	3g
+T13	TEMP 134 136	/j
+T14	CHEM 139 153	Gentaméthasone
+T15	DOSE 155 160	40 mg
+T16	TEMP 160 162	/j
+T17	CHEM 165 177	Pyrazinamide
+T18	DOSE 179 185	600 mg
+T19	TEMP 185 187	/j
+T20	CHEM 190 201	Ethionamide
+T21	DOSE 203 209	120 mg
+T22	TEMP 209 211	/j
+T23	CHEM 216 227	Vincristine
+T24	DOSE 229 235	750 mg
+T25	TEMP 235 237	/j
+T26	MODE 239 253	intra-vaginaux
+T27	DEVI 325 349	cathéteres périphériques
+T28	CHEM 376 388	métronitrile
+T29	CHEM 395 408	cisatracurium
+T30	LIVB 458 466	patiente
+T31	DISO 560 596	contage pleurucocutanéo-folliculaire
+T32	ANAT 568 596	pleurucocutanéo-folliculaire
+T33	DISO 653 682	dyspnée stade III de Sistrunk
+T34	PROC 701 736	bilan d’auto auto-immunosuppresseur
+T35	PROC 742 769	anticorps antitripsylinique
+T36	DISO 825 840	symptomatologie
+T37	MEAS 855 862	brutale
+T38	MEAS 874 889	progressivement
+T39	Concept_Idea 893 899	taille
+T40	MEAS 909 932	de plus en plus intense
+T41	DISO 1021 1051	complications bactériologiques
+T42	DISO 1062 1083	urétéro-hydronéphrite
+T43	DISO 1090 1139	thrombose veineuse jugulo-pariéto-diaphragmatique
+T44	ANAT 1100 1139	veineuse jugulo-pariéto-diaphragmatique
+T45	PROC 1438 1451	diagnostiques
+T46	DISO 1503 1517	déshydratation
+T47	DISO 1779 1794	symptomatologie
+T48	DISO 1879 1894	kyste hydatique
+T49	DISO 2131 2146	symptomatologie
+T50	TEMP 2157 2164	4 jours
+T51	LIVB 2171 2173	sa
+T52	PROC 2174 2194	reprise chirurgicale
+T53	MEAS 2262 2268	rapide
+T54	PROC 2333 2348	examen clinique
+T55	LIVB 2362 2370	patiente
+T56	Concept_Idea 2385 2402	plan neurologique
+T57	PHEN 2411 2416	tonus
+T58	ANAT 2441 2458	cutanéo-plantaire
+T59	MEAS 2459 2468	conservés
+T60	DISO 2483 2508	atteinte sensitivomotrice
+T61	PROC 2513 2543	radiographie standard du coude
+T62	ANAT 2538 2543	coude
+T63	DISO 2557 2633	fracture pléométacarpienne métatarso-inter-phalangienne congénitale (droite)
+T64	Localization 2626 2632	droite
+T65	ANAT 2649 2738	épiphyse ptérygo-métacarpienne dorsiflexe postérieure phalangienne superficielle humérale
+T66	PROC 2760 2782	traitement substitutif
+T67	CHEM 2788 2811	méthylparathyroïdiolone

@@ -1,0 +1,49 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	3 ans
+T3	Hospital 36 44	urgences
+T4	DISO 64 102	syndrome d'épanchement intrapéritonéal
+T5	ANAT 87 102	intrapéritonéal
+T6	DISO 156 175	pleurésie purulante
+T7	DISO 196 212	signes cliniques
+T8	DISO 223 268	lésions érythémateuses cutanées prurigineuses
+T9	DISO 282 294	hyperthermie
+T10	MEAS 306 310	39°c
+T11	PROC 313 339	explorations chirurgicales
+T12	DISO 355 421	laparotomie ombilicale péripéritonéale biliaireithiasique kystique
+T14	PROC 447 488	anastomose iléo-colique iléo-œsophagienne
+T15	ANAT 458 488	iléo-colique iléo-œsophagienne
+T16	PROC 495 528	résection monobloc coelioscopique
+T17	PROC 534 576	curage ganglionnaire pancréatico-splénique
+T18	ANAT 541 576	ganglionnaire pancréatico-splénique
+T19	PROC 591 630	intubation nasogastrique transpharyngée
+T20	ANAT 602 630	nasogastrique transpharyngée
+T21	PROC 699 731	scanner thoraco-abdomino-pelvien
+T22	ANAT 707 731	thoraco-abdomino-pelvien
+T23	DISO 758 788	cholécystite stade E hypodense
+T24	MEAS 798 810	46x32 x 28mm
+T25	ANAT 832 852	grosses intestinales
+T26	DISO 861 876	tumeur arrondie
+T27	ANAT 904 925	flux iléo-vésiculaire
+T28	PROC 981 999	extirpation totale
+T29	ANAT 1021 1048	muqueuses grêles ovariennes
+T30	PROC 1060 1092	reprise anatomopatho-mycologique
+T31	PROC 1096 1118	immunohistochochimique
+T32	LIVB 1151 1157	enfant
+T33	DISO 1204 1223	douleurs pelviennes
+T34	ANAT 1213 1223	pelviennes
+T35	MEAS 1238 1249	progressive
+T36	DISO 1266 1273	nausées
+T37	TEMP 1283 1298	le plus souvent
+T38	MEAS 1335 1350	plus fréquentes
+T39	PROC 1382 1417	investigations médico-chirurgicales
+T40	DISO 1465 1481	myxome hydatique
+T41	CHEM 1508 1533	amoxicilline clavulanique
+T42	PROC 1554 1583	prélèvements bactériologiques
+T44	ANAT 2223 2234	lithiasique
+T45	DISO 2277 2294	hématurie fébrile
+T46	DISO 2310 2329	syndrome infectieux
+T47	PROC 2334 2349	examen clinique
+T48	Concept_Idea 2354 2364	diagnostic
+T49	DISO 2390 2443	métastase des parties molles du bassin inféro-latéral
+T51	DISO 2451 2480	épanchement intra- péritonéal
+T52	ANAT 2463 2480	intra- péritonéal

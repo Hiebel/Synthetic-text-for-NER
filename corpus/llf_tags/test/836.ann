@@ -1,0 +1,38 @@
+T1	LIVB 7 14	Mlle ND
+T2	MEAS 49 54	trois
+T3	LIVB 55 62	enfants
+T4	DISO 102 120	diarrhée chronique
+T5	Concept_Idea 130 133	âge
+T6	LIVB 161 164	son
+T7	LIVB 165 172	mariage
+T8	CHEM 188 219	amoxicilline acide clavulanique
+T9	LIVB 236 242	Mme AE
+T10	PROC 261 292	transfusionnotomie exploratrice
+T11	PROC 306 330	laparotomie exploratrice
+T12	PROC 354 379	consultation chirurgicale
+T13	TEMP 392 404	Janvier 2012
+T14	TEMP 408 418	Avril 2013
+T15	PROC 423 442	traitement adjuvant
+T16	PROC 470 506	prise en charge médicale ambulatoire
+T17	PROC 525 553	antibiothérapie probabiliste
+T18	PROC 585 609	néphrotomie exploratrice
+T19	PROC 625 658	hormonothérapie substitutionnelle
+T20	CHEM 664 678	ciprofloxacine
+T21	DOSE 679 682	5mg
+T22	TEMP 682 684	/j
+T23	PROC 704 730	surveillance peropératoire
+T24	PROC 770 819	kinésithérapie palliative parentérale séquellaire
+T25	DEVI 841 872	cultures congelées pédiatriques
+T26	PROC 897 935	culture cellulaire antigénique stérile
+T27	PROC 1016 1045	prélèvements bactériologiques
+T28	MEAS 1059 1071	incoercibles
+T29	DISO 1089 1118	pseudo-infection tuberculeuse
+T30	Concept_Idea 1146 1166	aspect morphologique
+T31	DISO 1183 1215	plasmocytose infectieuse maligne
+T32	PROC 1263 1292	analyses cytobactériologiques
+T33	ANAT 1480 1493	noyau caudale
+T34	PHEN 1516 1534	suites opératoires
+T35	MEAS 1543 1550	simples
+T36	DISO 1572 1598	signes neuropsychiatriques
+T37	PROC 1611 1631	suivi postopératoire
+T38	DISO 1697 1714	récidive clinique

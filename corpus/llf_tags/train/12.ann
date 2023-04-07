@@ -1,0 +1,28 @@
+T1	PROC 3 22	bilan préopératoire
+T2	Concept_Idea 52 64	état général
+T3	MEAS 65 71	altéré
+T4	DISO 81 92	hypothermie
+T5	MEAS 95 99	39°C
+T6	PROC 104 126	radiographie du thorax
+T7	ANAT 120 126	thorax
+T8	PROC 133 180	tomodensitométrie de l'abdomen sans préparation
+T9	ANAT 156 163	abdomen
+T10	DISO 201 209	anomalie
+T11	PROC 215 233	sérologies virales
+T12	PROC 235 253	hépato-artérielles
+T13	PROC 266 283	bilan d'hémostase
+T14	MEAS 297 305	négatifs
+T15	PROC 311 340	antibiothérapie intraveineuse
+T16	CHEM 342 373	amoxicilline acide clavulanique
+T17	CHEM 376 407	amoxicilline acide tranexamique
+T18	LIVB 442 448	malade
+T19	LIVB 503 510	patient
+T20	MEAS 585 594	favorable
+T21	PROC 600 622	contrôle échographique
+T22	PHEN 627 643	consignes vitaux
+T23	TEMP 671 680	24 heures
+T24	TEMP 709 717	30heures
+T25	DISO 735 776	distension abdomino-trachéo-oesophagienne
+T26	ANAT 746 776	abdomino-trachéo-oesophagienne
+T27	DISO 789 796	dyspnée
+T28	DISO 824 839	symptomatologie

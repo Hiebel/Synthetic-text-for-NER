@@ -1,0 +1,77 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	Hospital 54 62	urgences
+T4	DISO 89 114	douleur abdominopelvienne
+T5	ANAT 97 114	abdominopelvienne
+T6	DISO 124 137	inflammatoire
+T7	TEMP 147 163	depuis 48 heures
+T8	Concept_Idea 199 211	état général
+T9	DISO 217 231	amaigrissement
+T10	MEAS 242 246	5 kg
+T11	CHEM 252 272	méthylhydrocortisone
+T12	DOSE 274 281	1 mg/kg
+T13	TEMP 281 286	/jour
+T14	PROC 293 302	admission
+T15	LIVB 306 316	nouveau-né
+T16	Concept_Idea 337 355	plan hémodynamique
+T17	DISO 383 404	détresse respiratoire
+T18	PHEN 392 404	respiratoire
+T19	DISO 411 444	syndrome d'épanchement péritonéal
+T20	ANAT 434 444	péritonéal
+T21	DISO 454 481	épanchement intrapéritonéal
+T22	ANAT 466 481	intrapéritonéal
+T23	ANAT 493 505	auriculaires
+T24	MEAS 514 525	symétriques
+T25	DISO 548 554	fièvre
+T26	MEAS 564 568	2 cm
+T27	Concept_Idea 572 581	grand axe
+T28	DISO 602 634	troubles sensitivo-tonico-moteur
+T29	DISO 717 739	hypotension artérielle
+T30	ANAT 729 739	artérielle
+T31	MEAS 750 763	130 / 80 mmhg
+T32	LIVB 791 802	jeune femme
+T33	DISO 831 870	méningoencephalopathie kystique maligne
+T34	DISO 876 915	métacôlon ostéo-interstitiel purulénide
+T35	LIVB 924 927	Son
+T36	PROC 928 947	bilan immunologique
+T37	MEAS 958 968	spécifique
+T38	PROC 979 1009	échographie abdomino-pelvienne
+T39	ANAT 991 1009	abdomino-pelvienne
+T40	DISO 1023 1057	masse tissulaire hypervascularisée
+T41	ANAT 1093 1113	liquide péritérectal
+T42	ANAT 1175 1225	parties molles cervicales latéro-supra-thoraciques
+T43	ANAT 1247 1266	sinusiens caverneux
+T44	ANAT 1287 1310	grande courbure rectale
+T45	PROC 1314 1356	scanner abdomino pelvien trans-oesophagien
+T46	ANAT 1322 1356	abdomino pelvien trans-oesophagien
+T47	PROC 1371 1380	injection
+T48	CHEM 1384 1404	produit de contraste
+T49	DISO 1418 1536	masse tumorale nodulaire hypo échogène isovolumineuse lithiasique hétérogène graisseuse pariétalo-cervicale bilatérale
+T50	Localization 1526 1536	bilatérale
+T51	ANAT 1555 1589	fosse ovarienne postérieure gauche
+T52	Localization 1571 1589	postérieure gauche
+T53	ANAT 1657 1673	organe herniaire
+T54	DISO 1711 1720	anomalies
+T55	DISO 1750 1764	neuroendocrine
+T56	DISO 1846 1853	lésions
+T57	DISO 1871 1879	tumorale
+T58	MEAS 2467 2479	3200 grammes
+T59	LIVB 2481 2484	ses
+T60	PHEN 2485 2495	croissance
+T61	Concept_Idea 2516 2533	état nutritionnel
+T62	DISO 2564 2591	épanchement intrapéritonéal
+T63	ANAT 2576 2591	intrapéritonéal
+T64	PROC 2621 2640	bilan préopératoire
+T65	PROC 2652 2674	TDM abdomino-pelvienne
+T66	ANAT 2656 2674	abdomino-pelvienne
+T67	DISO 2698 2736	adénocarcinome du pancréas vésiculaire
+T68	ANAT 2716 2736	pancréas vésiculaire
+T69	PROC 2751 2783	scintigraphie cérébro-axonalisée
+T70	ANAT 2765 2783	cérébro-axonalisée
+T71	PROC 2785 2788	SCA
+T72	PROC 2801 2810	recherche
+T73	DISO 2820 2842	localisations malignes
+T74	PROC 2878 2902	chimiothérapie adjuvante
+T75	DOSE 2908 2912	60mg
+T76	TEMP 2912 2918	/ 2 Gy
+T77	CHEM 2929 2942	dexaméthasone

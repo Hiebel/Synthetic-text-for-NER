@@ -1,0 +1,45 @@
+T1	LIVB 4 9	femme
+T2	Concept_Idea 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	DISO 99 106	diabète
+T5	DISO 119 145	malformations congénitales
+T6	PROC 154 167	hospitalisées
+T7	Hospital 177 185	urgences
+T8	TEMP 189 199	14/09/2011
+T9	Concept_Idea 244 262	état hémodynamique
+T10	MEAS 273 277	15°C
+T11	Localization 300 306	droite
+T12	TEMP 316 332	depuis 72 heures
+T13	DISO 347 355	anorexie
+T14	DISO 365 378	cholestatique
+T15	MEAS 393 404	progressive
+T16	MEAS 414 419	lente
+T17	MEAS 432 441	spasmodée
+T18	CHEM 468 490	pleurésie artificielle
+T19	MODE 503 508	bolus
+T20	DOSE 512 522	2litres/kg
+T21	CHEM 526 536	furosémide
+T22	LIVB 678 686	patiente
+T23	PROC 928 955	scintigraphie scanno-guidée
+T25	ANAT 1056 1107	muscle biceps dorsiflexum latéro-axillaire palmaire
+T26	MEAS 1117 1121	6 cm
+T27	Concept_Idea 1125 1134	grand axe
+T28	ANAT 1156 1221	graisse scapho-tendineuse métacarpienne axillaire palmo-plantaire
+T29	DEVI 1255 1263	ponction
+T30	ANAT 1285 1318	parties molles cervico-brachiales
+T31	DISO 1415 1446	hypersignal T2 hyper-signal T2*
+T32	DISO 1456 1465	anomalies
+T33	PROC 1631 1666	résection chirurgicale exploratrice
+T34	PROC 1768 1798	investigations complémentaires
+T35	PROC 1822 1839	pronostic médical
+T36	MEAS 1859 1878	lentement favorable
+T37	DISO 1910 1931	détresse respiratoire
+T38	DISO 1964 1992	symptomatologie hypertensive
+T39	DISO 2024 2076	syndrome d’épanchement pleuro-péricardique médiastin
+T40	ANAT 2047 2076	pleuro-péricardique médiastin
+T41	DISO 2180 2208	neurofibromatocarcinomateuse
+T42	ANAT 2219 2229	pulmonaire
+T43	DISO 2284 2325	néphrotomie biliaire péritonéale kystique
+T44	LIVB 2437 2447	nouveau-né
+T45	TEMP 2455 2459	1 an
+T47	ANAT 2493 2529	greffon épiphéo-métacarpo-phalangien

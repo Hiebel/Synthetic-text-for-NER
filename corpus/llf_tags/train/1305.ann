@@ -1,0 +1,21 @@
+T1	PROC 2 27	scanner thoraco-abdominal
+T2	ANAT 10 27	thoraco-abdominal
+T3	DISO 43 60	processus tumoral
+T4	ANAT 64 75	sein gauche
+T5	Localization 69 75	gauche
+T6	LIVB 80 88	patiente
+T7	PROC 107 132	chimiothérapie palliative
+T8	CHEM 143 158	fluoroquinolone
+T9	DOSE 160 164	3 mg
+T10	TEMP 164 166	/j
+T11	PROC 183 210	radiothérapie néo adjuvante
+T12	Concept_Idea 218 236	plan superficielle
+T13	MEAS 240 264	de plus en plus profonde
+T14	PROC 278 300	contrôle échographique
+T15	MEAS 318 324	normal
+T16	DISO 375 398	symptômes neurologiques
+T17	TEMP 421 427	1 mois
+T18	PROC 445 479	prise en charge pluridisciplinaire
+T19	PROC 492 525	antibioprophylaxie postopératoire
+T20	CHEM 526 557	amoxicilline acide clavulanique
+T21	TEMP 576 581	2 ans

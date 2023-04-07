@@ -1,0 +1,17 @@
+T1	PROC 5 27	radiographie
+T2	ANAT 21 27	thorax
+T3	DISO 44 76	opacité
+T4	ANAT 52 76	hypo-médiastinale
+T5	Localization 70 76	droite
+T6	Concept_Idea 79 85	allure
+T7	DISO 86 94	kystique
+T8	ANAT 109 125	lobes
+T9	Localization 115 125	supérieurs
+T10	ANAT 132 168	fosse
+T11	Localization 162 168	gauche
+T12	DISO 180 185	signe
+T13	PROC 197 231	imagerie
+T14	PROC 233 236	IRM
+T15	ANAT 238 253	cervico-faciale
+T16	LIVB 289 296	patient
+T17	DISO 301 313	perdu

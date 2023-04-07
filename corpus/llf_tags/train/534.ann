@@ -1,0 +1,51 @@
+T1	PROC 4 26	radiographie du thorax
+T2	ANAT 20 26	thorax
+T3	DISO 65 73	anomalie
+T4	PROC 78 137	tomodensitométrie de la région scapulaire supérieure gauche
+T5	ANAT 102 137	région scapulaire supérieure gauche
+T6	Localization 131 137	gauche
+T7	DISO 149 158	anomalies
+T8	PROC 163 182	bilan préopératoire
+T9	PROC 195 204	admission
+T10	LIVB 218 226	patiente
+T11	MEAS 230 237	mauvais
+T12	Concept_Idea 238 250	état général
+T13	DISO 260 281	contractions utérines
+T14	ANAT 273 281	utérines
+T15	PHEN 286 291	pouls
+T16	MEAS 294 308	115 battements
+T17	TEMP 309 319	par minute
+T18	DISO 333 357	hématome rétropéritonéal
+T19	ANAT 366 382	plan sous cutané
+T20	PROC 386 404	examen obstétrical
+T21	PROC 446 454	anamnèse
+T22	DISO 492 570	carcinome œdémateux interstitiel mono-tuberculeux anévrysmocytocien infiltrant
+T23	Hospital 604 632	classification de Medtronics
+T24	MEAS 640 649	stade III
+T25	PROC 675 697	traitement chirurgical
+T26	PROC 702 726	laparotomie exploratrice
+T27	MEAS 738 745	négatif
+T28	TEMP 757 765	14 jours
+T29	CHEM 782 795	antibiotiques
+T30	DISO 830 855	complication hémorragique
+T31	PROC 871 911	transfusions intraveineuse intrathécales
+T32	Concept_Idea 933 952	aspect histologique
+T33	PROC 991 1019	chimiothérapie néo adjuvante
+T34	LIVB 1050 1057	malades
+T35	MEAS 1092 1107	progressivement
+T36	PROC 1119 1141	contrôle échographique
+T37	Concept_Idea 1169 1194	constantes hémodynamiques
+T38	MEAS 1200 1220	faiblement positives
+T39	PROC 1236 1288	symptomatologie carcinoïde endoscopiquement complète
+T40	Concept_Idea 1476 1485	résultats
+T41	LIVB 1561 1584	professionnels de santé
+T42	LIVB 1593 1628	médecins anesthésistes pédiatriques
+T43	PROC 1662 1692	prise en charge postopératoire
+T44	Concept_Idea 1699 1723	perfectibilité technique
+T45	MEAS 1749 1752	50%
+T46	MEAS 1756 1759	60%
+T47	DEVI 2032 2059	cathéter cervico-céphalique
+T48	PROC 2247 2277	investigations complémentaires
+T49	LIVB 2384 2405	familles consanguines
+T50	LIVB 2414 2431	parents maternels
+T51	DISO 2591 2631	récidives neuropsychiatriques néonatales

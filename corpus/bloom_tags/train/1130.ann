@@ -1,0 +1,79 @@
+T1	LIVB 13 18	notre
+T2	LIVB 19 27	patiente
+T3	DISO 45 55	ménopausée
+T4	PROC 57 63	Suivie
+T5	Hospital 67 74	urgence
+T6	DISO 83 106	carcinome du col utérin
+T7	ANAT 96 106	col utérin
+T8	DISO 117 138	métanéphrine kystique
+T9	PROC 142 173	échographie abdomino- pelvienne
+T10	ANAT 154 173	abdomino- pelvienne
+T11	DISO 185 199	particularités
+T12	PROC 205 238	imagerie par résonance magnétique
+T13	PROC 240 243	IRM
+T14	MEAS 275 285	volumineux
+T15	DISO 286 337	adénocarcinome des parties molles cervico-vaginales
+T16	ANAT 305 337	parties molles cervico-vaginales
+T17	Concept_Idea 354 360	taille
+T18	MEAS 371 374	3cm
+T19	PROC 379 398	bilan immunologique
+T20	PROC 428 444	hyperleucocytose
+T21	MEAS 447 467	11 000 éléments/mm 3
+T22	CHEM 477 504	polynucléaires neutrophiles
+T23	MEAS 507 526	13000 éléments/mm 3
+T24	PROC 532 535	CRP
+T25	MEAS 538 545	70 mg/l
+T26	TEMP 552 561	24 heures
+T27	PROC 564 576	intervention
+T28	PROC 580 610	dosage de l'antithyroglobuline
+T29	ANAT 619 644	liquide céphalo-rachidien
+T30	MEAS 653 659	élevés
+T31	MEAS 677 686	120µmol/l
+T32	MEAS 690 700	160 µmol/l
+T33	PROC 704 743	scanner abdomino-pelvien inféro-latéral
+T35	DISO 757 796	hépatosplénomégalie nodulaire hypodense
+T36	MEAS 805 810	18 cm
+T37	MEAS 815 820	17 cm
+T38	MEAS 830 835	10 mm
+T39	MEAS 838 851	6 centimètres
+T40	ANAT 872 878	pelvis
+T41	DISO 892 932	paralysie ptérygo-thoracique bilatérales
+T42	Localization 921 932	bilatérales
+T43	MODE 953 958	bolus
+T44	CHEM 962 973	propranolol
+T45	LIVB 1042 1050	patiente
+T46	PHEN 1057 1077	grossesse gémellaire
+T47	DISO 1094 1110	œsophage nécrosé
+T48	DISO 1120 1175	tumeur érythémateuse purulente lésionnelle prurigineuse
+T49	ANAT 1189 1221	organe musculo-cutané plexiforme
+T50	DISO 1257 1278	nodules hyperintenses
+T51	DISO 1325 1360	syndrome hémorragique inflammatoire
+T52	MEAS 1374 1381	brutale
+T53	DISO 1437 1462	localisations secondaires
+T54	PROC 1489 1527	tomodensitométrie abdomino péritonéale
+T55	ANAT 1507 1527	abdomino péritonéale
+T56	DISO 1559 1575	lésions malignes
+T57	DISO 1593 1619	panchement intrapéritonéal
+T58	ANAT 1604 1619	intrapéritonéal
+T59	DISO 1626 1665	vascularisation ganglionnaire ovarienne
+T60	ANAT 1642 1665	ganglionnaire ovarienne
+T61	DISO 1718 1737	traumatisme ovarien
+T62	ANAT 1730 1737	ovarien
+T63	TEMP 1747 1760	il y a 6 mois
+T64	PROC 1771 1786	hospitalisation
+T66	ANAT 1823 1880	sous-diaphragmatique diaphragmatique homolatérale-médiane
+T68	DISO 1913 1966	masse tissulaire hétérogène hypofixée basophylliculée
+T69	ANAT 1988 2005	cavité abdominale
+T70	MEAS 2017 2032	progressivement
+T71	Concept_Idea 2036 2044	diamètre
+T72	ANAT 2071 2089	zones intestinales
+T73	ANAT 2127 2146	membranes jéjunales
+T74	DEVI 2163 2187	sonde transoesophagienne
+T75	PROC 2202 2225	perméation chirurgicale
+T76	DISO 2240 2257	processus tumoral
+T77	TEMP 2296 2304	12 jours
+T78	PROC 2364 2373	résection
+T79	LIVB 2609 2618	patientes
+T80	CHEM 2749 2759	protéine S
+T81	PROC 2819 2834	examen clinique
+T82	DISO 2846 2859	particularité

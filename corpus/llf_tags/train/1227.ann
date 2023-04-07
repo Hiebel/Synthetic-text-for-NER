@@ -1,0 +1,18 @@
+T1	LIVB 2 9	patient
+T2	PROC 29 47	bi-antibiothérapie
+T3	CHEM 58 68	Cisplatine
+T4	DOSE 70 76	500 mg
+T5	TEMP 76 78	/j
+T6	CHEM 85 116	amoxicilline acide clavulanique
+T7	DISO 166 195	symptômes neuropsychiatriques
+T8	Concept_Idea 219 240	résultat psychomoteur
+T9	PHEN 275 282	transit
+T10	Concept_Idea 304 324	chiffres tensionnels
+T11	DISO 336 353	trouble dépressif
+T12	DISO 363 388	facteur de risque associé
+T13	PROC 393 425	bilan radiologique préopératoire
+T14	LIVB 442 452	nourrisson
+T15	DISO 472 494	anomalie morphologique
+T16	PROC 518 524	admise
+T17	Hospital 529 550	urgences pédiatriques
+T18	PROC 556 584	prise en charge chirurgicale

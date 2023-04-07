@@ -1,0 +1,57 @@
+T1	LIVB 15 22	patient
+T2	PROC 59 98	cholécystectomie totale type Mac Gregor
+T3	PROC 111 147	cœlioscopie abdominale transfixiante
+T4	PROC 155 180	étude anatomopathologique
+T5	DISO 206 215	anomalies
+T6	DISO 244 253	malignité
+T7	ANAT 404 410	pelvis
+T8	DEVI 443 463	systèmes artificiels
+T9	LIVB 569 577	patiente
+T10	DISO 620 640	déficits immunitaire
+T11	DISO 654 688	hyperpigmentation cutanéo-muqueuse
+T12	Localization 699 703	sous
+T13	DISO 776 814	syndrome d’épanchement intrapéritonéal
+T14	ANAT 799 814	intrapéritonéal
+T15	DISO 868 883	symptomatologie
+T16	DISO 1010 1028	souffrance utérine
+T17	ANAT 1021 1028	utérine
+T18	DISO 1035 1059	malformation congénitale
+T19	PROC 1073 1103	auscultation cardio-vasculaire
+T20	ANAT 1086 1103	cardio-vasculaire
+T21	DISO 1128 1153	tachycardie hypokinétique
+T22	MEAS 1164 1176	100 batt/min
+T23	DISO 1192 1211	polypnée systolique
+T24	MEAS 1222 1239	28 battements/min
+T25	MEAS 1271 1280	conservée
+T26	PROC 1294 1326	examen pleuro-pulmo-respiratoire
+T27	ANAT 1301 1326	pleuro-pulmo-respiratoire
+T28	DISO 1340 1357	dyspnée sifflante
+T29	MEAS 1372 1378	rapide
+T30	MEAS 1390 1405	progressivement
+T31	Concept_Idea 1409 1415	volume
+T32	DISO 1458 1479	dilatation thoracique
+T33	ANAT 1469 1479	thoracique
+T34	DISO 1516 1579	fistule pulmonaire normo-latéro-supraglobulaire infarcto-narrée
+T36	DISO 1605 1627	troubles ventilatoires
+T37	DISO 1642 1668	surpression basithoracique
+T38	ANAT 1654 1668	basithoracique
+T39	ANAT 1836 1851	sinus piriforme
+T40	ANAT 1861 1891	artère cave supra hyo-tracheal
+T41	Localization 1873 1878	supra
+T42	ANAT 1919 1937	brèches cardiaques
+T43	PROC 2093 2109	examen somatique
+T44	DISO 2121 2134	particularité
+T45	DISO 2158 2184	masse axillaire psoilienne
+T46	ANAT 2164 2184	axillaire psoilienne
+T47	MEAS 2194 2198	7 cm
+T48	Concept_Idea 2202 2211	grand axe
+T49	PROC 2236 2261	injection intramusculaire
+T50	CHEM 2265 2285	produit de contraste
+T51	ANAT 2349 2387	muscle thyro-thyroïdien basithoracique
+T52	LIVB 2392 2400	patiente
+T53	PROC 2419 2449	radio-chimiothérapie adjuvante
+T54	CHEM 2460 2469	Etoposide
+T55	CHEM 2471 2487	Cyclophosphamide
+T56	CHEM 2489 2500	Vinblastine
+T57	CHEM 2502 2513	Ceftriaxone
+T58	TEMP 2532 2539	18 mois

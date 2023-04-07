@@ -1,0 +1,25 @@
+T1	LIVB 3 10	patient
+T2	DISO 40 69	symptômes neuropsychiatriques
+T3	TEMP 93 106	depuis 2 mois
+T4	DISO 139 174	cicatrice prurigineuse hémorragique
+T5	ANAT 182 204	membre inferieur droit
+T6	Localization 199 204	droit
+T7	PROC 221 233	consultation
+T8	Hospital 238 263	urgences ophtalmologiques
+T9	DISO 279 299	syndrome d'épilepsie
+T10	DISO 309 329	maladie neurologique
+T11	DISO 376 381	masse
+T12	MEAS 391 395	3 cm
+T13	Concept_Idea 399 408	grand axe
+T14	DISO 416 426	vomissante
+T15	DISO 447 457	sensitives
+T16	DISO 468 482	amaigrissement
+T17	MEAS 493 498	10 kg
+T18	DISO 500 508	anorexie
+T19	TEMP 517 537	deux jours plus tard
+T20	DISO 572 597	instabilité psychomotrice
+T21	DISO 644 672	troubles sensitivo-cérébraux
+T22	LIVB 818 824	enfant
+T23	DISO 881 901	méningo-myélinisante
+T24	MEAS 1256 1260	15kg
+T25	MEAS 1266 1270	2ème

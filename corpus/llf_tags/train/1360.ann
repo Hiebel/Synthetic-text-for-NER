@@ -1,0 +1,90 @@
+T1	MEAS 4 8	deux
+T2	ANAT 9 27	champs pulmonaires
+T3	Concept_Idea 36 43	densité
+T4	MEAS 44 51	diffuse
+T5	PROC 56 72	bilan biologique
+T6	DISO 92 108	hyperleucocytose
+T7	MEAS 111 144	6200 éléments par millimètre cube
+T8	PHEN 149 163	fonctionnement
+T9	MEAS 164 175	particulier
+T10	ANAT 179 195	ventricule droit
+T11	Localization 190 195	droit
+T12	ANAT 203 222	troncs médiastinaux
+T13	DISO 240 262	anomalies congénitales
+T14	LIVB 270 280	nourrisson
+T15	Hospital 297 307	structures
+T16	DISO 343 351	récidive
+T17	DISO 355 364	métastase
+T18	PROC 386 411	corticothérapie adjuvante
+T19	CHEM 417 429	tamoxifenème
+T20	MODE 433 449	intramusculaires
+T21	DOSE 451 456	20 mg
+T22	TEMP 456 461	/jour
+T23	PROC 468 492	échographie obstétricale
+T24	DISO 545 562	maladie de Behçet
+T26	MEAS 763 769	T3N1Mx
+T27	PROC 779 798	classification RFLP
+T28	MEAS 799 807	Figure 1
+T29	PROC 813 837	scanner abdomino-pelvien
+T30	ANAT 821 837	abdomino-pelvien
+T31	DISO 854 958	masse tissulaire lobulée oblongue péritonéale périparenchymateuse primitive rénale bilatérale transverse
+T32	Localization 937 3031	bilatérale transverse mesurant 15 cm de grand axe faisant 10 cm de petite courbure dont on ne note aucune envahissement métastatique ou autre processus tumoral associé. La cystoscopie digestive préopératoire ainsi que son examen anatomopathologique ont permis de poser le diagnostic d’un kyste ostéolytique érectile malpighien néoplasique mucineux spongieux se développant aux dépends jugulo-symphysiens mésentériques après section scanno-guidée emportant presque toutes les parties molles cutanées intravésicales; cette tumeur mesure environ 5 cm de grand axe refoulant toute la muqueuse rectale ce qui laisse supposer qu’il s’agit plutôt d’un pseudoostéosarcome myxoide trichobézoard.
+La prise en charge chirurgicale est assurée par : Des points crico-trachéodilatateurs axillaires percutanéphrines Doigts plexiques Béquilles hypogastriques Embranchements lymphovasculaires Protéineuses Mobiles Acouphènes Antibiotiques Oligoténe Lactobacillus Anticardiques Diurétiques Sélectifs Hydrocortisolone Glucantime Adriamycine Gélules Récepteurs hormonaux Facteur rhumatoïde Proteinorachie Caractère cardiotonique Nécrolyse anaphylactique Ictère Pulsatile Inhibiteur calcique Ceftriaxone Liquid Reduction Chlorpromazine Organophosphonates Lipocalciurane Milionicum Vitaminotrexate Zinc Fluide Imagerie par résonance magnétique fœtale IRMf Tous les matériel d’hémodialyse portatif doivent être mis sous circulation extracorporelle parentérale pour éviter tout trouble ventilatoire chez tous les malades y compris ceux ayant bénéficié d'une laparotomie exploratrice suivie d’une néphrectomie totale intrathoracique multidisciplinaire devant leur état hémodynamique non compatible avec leurs antécédents médico-chimiothérapeutiques. Aucune procédure anesthésique n’est indiquée dans le cadre du bilan préopératoire, et l’angioplastie des anses intestinales pariéto-oesophagiennes ne sera réalisée que si nécessaire. Les suites opératoires ont été simples sans récidive neurologique ni autres détresse respiratoire associées. Un scanner thoraco-abdominal a objectivé une sensibilité œso-gastro-duodénale
+T33	MEAS 968 973	15 cm
+T34	Concept_Idea 977 986	grand axe
+T35	MEAS 995 1000	10 cm
+T36	Concept_Idea 1004 1019	petite courbure
+T37	DISO 1043 1069	envahissement métastatique
+T38	DISO 1079 1096	processus tumoral
+T39	PROC 1109 1144	cystoscopie digestive préopératoire
+T40	PROC 1159 1185	examen anatomopathologique
+T41	DISO 1225 1294	kyste ostéolytique érectile malpighien néoplasique mucineux spongieux
+T42	PROC 1361 1382	section scanno-guidée
+T43	ANAT 1412 1450	parties molles cutanées intravésicales
+T44	DISO 1458 1464	tumeur
+T45	MEAS 1472 1484	environ 5 cm
+T46	Concept_Idea 1488 1497	grand axe
+T47	ANAT 1517 1533	muqueuse rectale
+T48	DISO 1582 1622	pseudoostéosarcome myxoide trichobézoard
+T49	PROC 1627 1655	prise en charge chirurgicale
+T50	DEVI 2280 2311	matériel d’hémodialyse portatif
+T51	PROC 2334 2373	circulation extracorporelle parentérale
+T52	DISO 2391 2411	trouble ventilatoire
+T53	LIVB 2426 2433	malades
+T54	PROC 2471 2495	laparotomie exploratrice
+T55	PROC 2509 2563	néphrectomie totale intrathoracique multidisciplinaire
+T56	Concept_Idea 2576 2594	état hémodynamique
+T57	Concept_Idea 2621 2660	antécédents médico-chimiothérapeutiques
+T58	PROC 2669 2691	procédure anesthésique
+T59	PROC 2724 2743	bilan préopératoire
+T60	PROC 2750 2808	angioplastie des anses intestinales pariéto-oesophagiennes
+T61	ANAT 2767 2808	anses intestinales pariéto-oesophagiennes
+T62	MEAS 2876 2883	simples
+T63	DISO 2889 2910	récidive neurologique
+T64	DISO 2921 2942	détresse respiratoire
+T65	PHEN 2930 2942	respiratoire
+T66	PROC 2957 2982	scanner thoraco-abdominal
+T67	ANAT 2965 2982	thoraco-abdominal
+T68	DISO 2999 3097	sensibilité œso-gastro-duodénale péritomédiastino-pulmonaire postéro-latéro ombilicale congénitale
+T70	PROC 3113 3135	traitement chirurgical
+T71	PROC 3156 3203	curage ganglionnaire cervico-thoracique profond
+T72	PROC 3210 3236	étude anatomo-pathologique
+T73	DISO 3258 3320	processus tumoral néoplasique tissulaire mésoblastique nécrosé
+T74	PROC 3357 3388	classification de Wiseman ELISA
+T75	Localization 3403 3419	face postérieure
+T76	MEAS 3426 3448	difficilement sensible
+T77	PROC 3453 3480	volets infra centimétriques
+T78	Localization 3494 3508	partie distale
+T79	MEAS 3515 3523	sensible
+T80	PROC 3528 3604	perforations scanno-guidées séquellaires asynchrones bifocales directoriales
+T81	PROC 3620 3644	échographie obstétricale
+T82	DISO 3658 3722	cardiomyopathie inflammatoire polymorphe endokératine diabétique
+T83	DISO 3759 3835	lésion liquidienne rétromamelonnaire périrénalienne lobulée hyperkératosique
+T84	DISO 3866 3902	neurofibromatose métabolique maligne
+T85	DISO 3912 3942	myosite tubulo-synaptophysaire
+T86	PROC 3948 3975	radiothérapie néo adjuvante
+T87	Concept_Idea 4020 4040	résultat fonctionnel
+T88	MEAS 4049 4072	inférieur à 30 mSv /mm³
+T89	TEMP 4072 4074	/j
+T90	PROC 4106 4133	surveillance postopératoire
+T91	DISO 4177 4199	adénomégalies bénignes

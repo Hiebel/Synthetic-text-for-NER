@@ -1,0 +1,44 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 17 23	12 ans
+T3	DISO 29 54	antécédents pathologiques
+T4	MEAS 55 63	notables
+T5	PROC 68 73	admis
+T6	Hospital 78 99	urgences pédiatriques
+T7	DISO 111 149	syndrome d'épanchement intrapéritonéal
+T8	ANAT 134 149	intrapéritonéal
+T9	TEMP 159 173	depuis 3 jours
+T10	ANAT 189 218	hémi cavité abdominale droite
+T11	Localization 212 218	droite
+T12	MEAS 234 261	progressivement progressive
+T13	MEAS 276 283	modérée
+T14	DISO 300 328	douleurs abdomino-pelviennes
+T15	ANAT 309 328	abdomino-pelviennes
+T16	PROC 351 367	traitement local
+T17	TEMP 382 399	environ 48 heures
+T18	LIVB 406 408	sa
+T19	PROC 409 429	reprise chirurgicale
+T20	CHEM 444 466	méthoxylhydrocortisone
+T21	DOSE 469 475	400 mg
+T22	CHEM 478 491	dexaméthasone
+T23	DOSE 493 499	200 mg
+T24	MODE 501 523	transfusions sanguinee
+T25	DISO 563 585	complication néonatale
+T26	DISO 669 688	symptômes cliniques
+T27	DISO 709 733	sensibilité épigastrique
+T28	ANAT 721 733	épigastrique
+T29	MEAS 745 753	2 kg/m 2
+T30	DISO 769 790	détresse respiratoire
+T31	PHEN 778 790	respiratoire
+T32	MEAS 802 817	progressivement
+T33	DISO 827 840	inflammatoire
+T34	MEAS 853 862	spontanée
+T35	TEMP 871 888	1 mois auparavant
+T36	MEAS 904 914	rapidement
+T37	Concept_Idea 918 924	volume
+T38	MEAS 943 948	18 cm
+T39	Concept_Idea 952 961	grand axe
+T40	ANAT 982 1001	tissu rectilaginale
+T41	MEAS 1011 1015	6 cm
+T42	Concept_Idea 1019 1028	grand axe
+T43	PROC 1051 1058	biopsie
+T44	PROC 1066 1086	examen macroscopique

@@ -1,0 +1,40 @@
+T1	LIVB 16 21	femme
+T2	Concept_Idea 42 53	antécédents
+T3	MEAS 54 66	particuliers
+T4	PROC 68 74	admise
+T5	Hospital 78 85	urgence
+T6	DISO 94 110	syndrome fébrile
+T7	DISO 125 139	toux purulente
+T8	TEMP 149 163	depuis 3 jours
+T9	PROC 169 178	admission
+T10	LIVB 182 190	patiente
+T11	DISO 197 207	apyrétique
+T12	DISO 211 222	polypnéique
+T13	MEAS 225 238	28 cycles/min
+T14	PROC 254 270	examen somatique
+T15	DISO 291 297	fièvre
+T16	MEAS 309 315	38°5 C
+T17	DISO 331 369	douleurs du sinus maxillaire supérieur
+T18	ANAT 343 369	sinus maxillaire supérieur
+T19	Localization 360 369	supérieur
+T20	DISO 383 389	sueurs
+T21	MEAS 390 397	profuse
+T22	DISO 440 452	vomissements
+T23	DISO 458 469	hémoptysies
+T24	ANAT 485 496	thoraciques
+T25	Concept_Idea 538 543	force
+T26	MEAS 554 577	110 battements / minute
+T27	MEAS 584 601	2 fois la normale
+T28	PROC 606 636	auscultation pleuro-pulmonaire
+T29	ANAT 619 636	pleuro-pulmonaire
+T30	DISO 665 674	anomalies
+T31	DISO 691 777	épanchement liquidien basithoracique latérodorsal thoracique lithiasique hypertrophiée
+T33	Concept_Idea 790 796	taille
+T34	MEAS 806 810	12cm
+T35	MEAS 815 829	10 centimètres
+T36	DISO 888 909	pathologie systémique
+T37	DISO 937 971	symptomatologie clinico-biologique
+T38	DISO 1018 1031	inflammatoire
+T39	MEAS 1046 1057	progressive
+T40	MEAS 1074 1080	rapide
+T41	CHEM 1086 1128	anti-inflammatoires non prostaglandiniques

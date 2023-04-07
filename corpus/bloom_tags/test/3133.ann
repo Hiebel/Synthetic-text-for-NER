@@ -1,0 +1,44 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 99	curetage abdomino-pelvien
+T3	ANAT 83 99	abdomino-pelvien
+T4	ANAT 133 138	grêle
+T5	DEVI 143 165	matériel d’exploration
+T6	PROC 185 197	intervention
+T7	CHEM 207 222	Surrénalectone®
+T8	DOSE 224 229	10 mg
+T9	MODE 231 244	intraveineuse
+T10	PROC 301 352	curage ganglionnaire rétro-surrénalien transvaginal
+T11	ANAT 308 352	ganglionnaire rétro-surrénalien transvaginal
+T13	Localization 388 394	droite
+T14	PROC 416 441	anesthésie loco-régionale
+T15	ANAT 427 441	loco-régionale
+T16	DISO 469 485	signes cliniques
+T17	DISO 512 541	symptomatologie fonctionnelle
+T18	DISO 552 568	lésions cutanées
+T19	PROC 586 604	chirurgie curative
+T20	PROC 609 639	échographie abdomino pelvienne
+T21	ANAT 621 639	abdomino pelvienne
+T22	DISO 656 752	masse tissulaire hypo échogène hétérogène polylobée kystique latéro-latérale pariétale hypodense
+T23	ANAT 774 791	région ombilicale
+T24	ANAT 812 828	paroi abdominale
+T25	MEAS 837 842	40 cm
+T26	Concept_Idea 846 855	grand axe
+T27	MEAS 860 865	32 cm
+T28	Concept_Idea 869 882	petite taille
+T29	ANAT 909 925	espaces vaginaux
+T30	Concept_Idea 975 982	contour
+T31	MEAS 987 995	régulier
+T32	MEAS 1013 1017	3 cm
+T33	Concept_Idea 1021 1030	grand axe
+T34	PROC 1044 1077	imagerie par résonance magnétique
+T35	PROC 1079 1082	IRM
+T36	DISO 1097 2257	masse lithiasique pléomorphe T2 hyperfixée intemporelle nodulaire arrondie basithoracique sus-hilaire homolatérale droite-myometrorragulante para-cardiculaire infiltro-interstitiel épigastrique mésentérique antre iléo-iléo-colique hyo-vésiculaire récessus ischio-thoracique inféro-transverse refoulant thoracique centromégalo-thoracique scannographique d'épanchement liquidien liquidien cervico-broncho-gastro œsophagocytoplasmateux intraréflexes séreux pauciseptum médiastin Tissulaire maligne intra-parenchymateuse médiastinale érythémateuse cholestatique vascularisée ostéophytique nécropariétale trépied céphalo-diaphragmatique brachymyxovésiculaire crâniothoracique intrastromal fusiforme bourgeonnante angio-ventriculaire asymétrique cavité ovarienne méningée hémorragique lobulée hypertrophiée démoidétrical arcuhypophysaire dorsi-basithoracique prolabée vésicule biliaire splénipancréatique achilléenne anévrotendineuse résiduelle spasmodilatée bulle d'air rétropéritonéal pancréatique sténotique ectopique rompu ulcérée xanthogranulomoïde fistule sanguine digestive grêliquide microcellulaire adhérentielle mélangée disspliable entourée d'une membrane
+T39	DEVI 2249 2257	membrane
+T40	PROC 2261 2292	échographie abdomino- pelvienne
+T41	ANAT 2273 2292	abdomino- pelvienne
+T42	MEAS 2299 2306	normale
+T43	LIVB 2311 2318	patient
+T44	PROC 2337 2361	chimiothérapie adjuvante
+T45	CHEM 2372 2385	dexaméthasone
+T46	CHEM 2387 2397	cisplatine
+T47	CHEM 2401 2411	ethoposide

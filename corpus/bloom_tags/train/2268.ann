@@ -1,0 +1,63 @@
+T1	PROC 2 17	examen clinique
+T2	DISO 34 65	tuméfaction de la cuisse droite
+T3	ANAT 52 65	cuisse droite
+T4	Localization 59 65	droite
+T5	Concept_Idea 70 73	âge
+T6	TEMP 77 83	12 ans
+T7	DISO 112 126	amaigrissement
+T8	MEAS 137 142	20 kg
+T9	PROC 147 163	bilan biologique
+T10	DISO 175 184	anomalies
+T11	PROC 189 212	radiographie du poignet
+T12	ANAT 205 212	poignet
+T13	DISO 230 330	ostéonécrose des greffons métacarpaux latéro-condyliens humérométacarpophalangienne ostéo-tendineuse
+T15	DISO 351 378	synovialosarcome compressif
+T16	LIVB 380 382	Il
+T17	PROC 396 421	chimiothérapie palliative
+T18	CHEM 423 436	dexaméthasone
+T19	CHEM 438 450	prédnisolone
+T20	CHEM 454 465	cyclosérine
+T21	PHEN 484 499	cycle menstruel
+T22	DISO 533 548	symptomatologie
+T23	DISO 594 609	douleur fébrile
+T24	DISO 630 642	métrorragies
+T25	MEAS 652 665	plus marquées
+T26	PROC 735 750	hospitalisation
+T27	Hospital 755 763	urgences
+T28	PROC 818 844	explorations chirurgicales
+T29	LIVB 876 881	femme
+T30	DISO 907 915	tumorale
+T31	DISO 951 988	myxome épidermo-giganto-carcinomateux
+T32	DISO 1032 1088	infiltration nécrasique graisseuse tumorale malpighienne
+T33	ANAT 1110 1120	surrénales
+T34	DISO 1162 1177	adénocarcinomes
+T35	DISO 1194 1220	malformations congénitales
+T36	DISO 1247 1266	lymphoprolactinisme
+T37	DISO 1350 1363	particularité
+T38	PROC 1435 1453	traitement curatif
+T39	CHEM 1466 1477	Cyclosérine
+T40	DOSE 1480 1486	200 mg
+T41	CHEM 1488 1500	Prédnisolone
+T42	DOSE 1502 1508	400 mg
+T43	CHEM 1511 1525	Hydrocortisone
+T44	MODE 1534 1546	intraveineux
+T45	MEAS 1677 1690	spectaculaire
+T46	DISO 1697 1702	masse
+T47	MEAS 1729 1743	insufflicieuse
+T48	MEAS 1777 1792	progressivement
+T49	Concept_Idea 1796 1802	taille
+T50	MEAS 1814 1818	1 cm
+T51	MEAS 1821 1826	10 cm
+T52	MEAS 1896 1903	brutale
+T53	DISO 1949 1984	syndrome inflammatoire systématisée
+T54	DISO 2629 2660	complications thromboemboliques
+T55	DISO 2830 2880	Synovialosarcome pléomorphe érythémato-pustuleuses
+T56	DISO 2899 2942	neuroendocrine hypersplénomégalie nodulaire
+T57	DISO 2954 2980	paragangliome hypertrophié
+T58	ANAT 2994 3035	artère mésentérique intestinale gastrique
+T59	DISO 3152 3173	adénopathies malignes
+T60	PROC 3188 3198	diagnostic
+T61	LIVB 3296 3304	patiente
+T62	PROC 3321 3344	radiothérapie adjuvante
+T63	DOSE 3372 3376	3 Gy
+T64	TEMP 3378 3392	pendant 6 mois

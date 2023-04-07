@@ -1,0 +1,27 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 66	antécédents pathologiques
+T3	MEAS 67 75	notables
+T4	PROC 79 85	examen
+T5	PROC 90 99	admission
+T6	LIVB 113 121	patiente
+T7	MEAS 125 128	bon
+T8	Concept_Idea 129 141	état général
+T9	ANAT 150 157	abdomen
+T10	MEAS 158 164	souple
+T11	MEAS 168 176	distendu
+T12	ANAT 190 201	flanc droit
+T13	Localization 196 201	droit
+T14	MEAS 211 215	24cm
+T15	MEAS 220 225	15 cm
+T16	PROC 230 238	biologie
+T17	MEAS 245 252	normale
+T18	PROC 254 274	taux de prothrombine
+T19	PROC 276 296	de céphaline activée
+T20	PROC 311 346	tomodensitométrie abdominopelvienne
+T21	ANAT 329 346	abdominopelvienne
+T22	DISO 364 476	lésion ostéolytique des parois intestinales latéro-utérines tissulaires péripéritonéales lithiasiques hypodenses
+T24	DISO 486 498	métastatique
+T25	ANAT 514 523	péritoine
+T26	ANAT 542 562	vésicules ovariennes
+T27	DISO 596 628	carcinose endovaginale pelvienne
+T28	ANAT 606 628	endovaginale pelvienne

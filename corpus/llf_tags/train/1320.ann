@@ -1,0 +1,46 @@
+T1	LIVB 7 16	Mme H.R.A
+T2	MEAS 40 41	6
+T3	LIVB 42 49	enfants
+T4	MEAS 55 56	4
+T5	LIVB 57 64	malades
+T6	DISO 93 123	hyperparathyroïdie congénitale
+T7	LIVB 175 178	son
+T8	LIVB 179 185	épouse
+T9	DISO 203 227	choc anaphylactoïde aigu
+T10	LIVB 246 248	sa
+T11	LIVB 249 257	patiente
+T12	DISO 268 290	symptômes psychotiques
+T13	TEMP 449 462	deux semaines
+T14	MEAS 621 631	permanents
+T15	DISO 843 862	fébricule chronique
+T16	DISO 941 974	douleurs épigastriques chroniques
+T17	ANAT 950 974	épigastriques chroniques
+T18	DISO 1051 1091	vomissements neuropsychiatriques tardifs
+T19	DISO 1119 1160	hallucinations auditivo-verbales tactiles
+T20	DISO 1177 1195	troubles visuelles
+T21	DISO 1386 1419	mouvements oculomoteurs spontanés
+T22	DISO 1786 1860	sensibilité du nerf laryngé cervico-trachéo-laryngé distal inférieur droit
+T24	Localization 1855 1860	droit
+T25	PROC 1889 1901	auscultation
+T26	Concept_Idea 1906 1919	bords opposés
+T28	Localization 1974 1989	inferieur moyen
+T29	DISO 2002 2028	signes clinico-biologiques
+T30	PROC 2043 2058	examen clinique
+T31	DISO 2082 2098	syndrome méningé
+T32	DISO 2108 2121	neuroleptique
+T33	DISO 2145 2168	déficit sensitivomoteur
+T34	PHEN 2200 2220	récupération motrice
+T35	PROC 2322 2350	consultation préanesthésique
+T36	PROC 2387 2411	laparotomie exploratrice
+T37	PROC 2417 2455	nécrosectomie anténatale scanno-guidée
+T39	PROC 2597 2635	résection jugulaire transoesophagienne
+T40	CHEM 2672 2697	médicaments traditionnels
+T42	MEAS 2980 2987	simples
+T43	TEMP 3005 3018	quatre heures
+T44	DISO 3038 3053	coma infectieux
+T45	PROC 3169 3185	acte chirurgical
+T46	PROC 3232 3277	traitement substitutif individualisé adjuvant
+T47	PROC 3317 3341	scanner abdomino-pelvien
+T48	ANAT 3325 3341	abdomino-pelvien
+T49	PROC 3364 3393	induction anesthésique totale
+T50	DISO 3424 3459	localisations secondaires tumorales

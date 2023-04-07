@@ -1,0 +1,30 @@
+T1	LIVB 16 21	fille
+T2	TEMP 30 35	9 ans
+T3	Hospital 56 81	urgences ophtalmologiques
+T4	DISO 90 138	trouble ventilatoire sensitivo-respiratoire aigu
+T5	DISO 153 184	distension crânio-ventriculaire
+T6	ANAT 164 184	crânio-ventriculaire
+T7	TEMP 194 211	depuis deux jours
+T8	DISO 230 260	crise convulsive psychomotrice
+T9	PROC 311 326	examen clinique
+T10	DISO 349 355	fièvre
+T11	DISO 362 374	constipation
+T12	DISO 392 403	rectorragie
+T13	DISO 439 455	syndrome méningé
+T14	DEVI 472 500	services neuropsychiatriques
+T15	TEMP 536 546	7 semaines
+T16	PROC 559 569	transférée
+T17	LIVB 579 617	belle-famille materno-infanto-juvénile
+T18	PROC 623 662	anticoagulation médicalement appropriée
+T19	PROC 674 714	contrôle locorégional multidisciplinaire
+T20	PROC 730 754	ventilation artificielle
+T21	Concept_Idea 865 884	consignes cliniques
+T22	Concept_Idea 957 975	plan hémodynamique
+T23	Concept_Idea 1019 1036	activité sportive
+T24	MEAS 1068 1075	normale
+T25	PROC 1080 1106	bloc axillaire explorateur
+T26	DISO 1133 1170	lésion kystique lobulée intrakystique
+T27	MEAS 1179 1189	30 x 30 cm
+T28	ANAT 1208 1246	paroi postéro-latéro-inférieure droite
+T29	Localization 1240 1246	droite
+T30	ANAT 1276 1312	parties molles supérieures fessières

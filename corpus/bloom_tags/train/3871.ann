@@ -1,0 +1,30 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	Concept_Idea 42 53	antécédents
+T4	MEAS 54 66	particuliers
+T5	PROC 68 73	admis
+T6	Hospital 77 95	service d'urologie
+T7	DISO 105 127	douleurs épigastriques
+T8	ANAT 114 127	épigastriques
+T9	TEMP 137 153	depuis deux mois
+T10	DISO 170 176	fièvre
+T11	PROC 193 208	examen clinique
+T12	LIVB 225 232	patient
+T13	MEAS 236 239	bon
+T14	Concept_Idea 240 252	état général
+T15	DISO 273 330	sensibilité péristaltique du sinus recto-gastro-duodénale
+T18	MEAS 342 357	progressivement
+T19	Concept_Idea 361 367	volume
+T20	PROC 372 402	pression artérielle systolique
+T21	ANAT 381 402	artérielle systolique
+T22	PROC 404 408	PASP
+T23	MEAS 427 437	70/40 mmhg
+T24	PROC 443 474	pression artérielle diastolique
+T25	ANAT 452 474	artérielle diastolique
+T26	PROC 476 480	PADS
+T27	MEAS 482 491	conservée
+T28	PROC 497 527	échographie abdomino-pelvienne
+T29	ANAT 509 527	abdomino-pelvienne
+T30	PHEN 544 561	grossesse utérine
+T31	ANAT 554 561	utérine
+T32	MEAS 572 577	32 SA

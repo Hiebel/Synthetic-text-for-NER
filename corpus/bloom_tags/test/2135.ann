@@ -1,0 +1,28 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 73 78	admis
+T6	Hospital 83 104	urgences pédiatriques
+T7	DISO 114 145	douleurs abdominales chroniques
+T8	ANAT 123 134	abdominales
+T9	Concept_Idea 178 190	état général
+T10	TEMP 200 217	depuis deux jours
+T11	PROC 221 236	examen clinique
+T12	LIVB 249 255	enfant
+T13	MEAS 259 262	bon
+T14	Concept_Idea 263 281	état hémodynamique
+T15	PHEN 285 297	respiratoire
+T16	DISO 313 327	amaigrissement
+T17	MEAS 338 342	10kg
+T18	PROC 348 394	radiographie standard du boudin inféro-latéral
+T20	DISO 440 467	épanchement intrapéritonéal
+T21	ANAT 452 467	intrapéritonéal
+T22	PROC 496 520	laparotomie exploratrice
+T23	PROC 541 565	anesthésie locorégionale
+T24	ANAT 552 565	locorégionale
+T25	CHEM 579 589	sufentanil
+T26	DOSE 592 600	0,5µg/kg
+T27	CHEM 607 617	furosémide
+T28	DOSE 620 628	20 mg/m²
+T29	DOSE 657 666	3 µmol/kg

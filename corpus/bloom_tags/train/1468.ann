@@ -1,0 +1,21 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	3 ans
+T3	PROC 32 37	admis
+T4	Hospital 42 67	urgences ophtalmologiques
+T5	DISO 77 94	dyspnée sifflante
+T6	MEAS 109 120	progressive
+T8	DISO 187 201	amaigrissement
+T9	MEAS 212 217	15 kg
+T10	TEMP 221 230	une année
+T11	PROC 234 249	examen clinique
+T12	DISO 263 283	défense oculomotrice
+T13	ANAT 271 283	oculomotrice
+T14	ANAT 297 320	sinus maxillaire gauche
+T15	Localization 314 320	gauche
+T16	DISO 335 359	troubles sensitivomoteur
+T17	DISO 372 381	symptômes
+T18	PROC 396 415	bilan préopératoire
+T19	PROC 433 463	TDM thoraco-abdomino-pelvienne
+T20	ANAT 437 463	thoraco-abdomino-pelvienne
+T21	DISO 488 546	pancréatite stade E pancréato-épanchement nécrose tumorale
+T22	Concept_Idea 556 591	classification clinico-radiologique

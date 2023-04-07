@@ -1,0 +1,9 @@
+T1	PROC 2 17	prise en charge
+T2	DISO 21 35	déficit moteur
+T3	PROC 53 75	traitement substitutif
+T4	CHEM 84 98	céphalosporine
+T5	Concept_Idea 101 105	dose
+T6	DOSE 109 117	10 mg/kg
+T7	TEMP 117 119	/j
+T9	MEAS 196 203	simples
+T10	TEMP 221 228	18 mois

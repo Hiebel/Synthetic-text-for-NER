@@ -1,0 +1,35 @@
+T1	LIVB 4 12	patiente
+T2	TEMP 29 38	primipare
+T3	Hospital 94 112	milieu hospitalier
+T4	LIVB 132 140	patiente
+T5	PROC 145 150	reçue
+T6	Hospital 155 163	urgences
+T7	DISO 179 197	détresse rythmique
+T8	PHEN 188 197	rythmique
+T9	TEMP 207 223	depuis 72 heures
+T10	DISO 245 278	syndrome d’épanchement péritonéal
+T11	ANAT 268 278	péritonéal
+T12	MEAS 288 297	12 litres
+T13	DISO 315 360	tuméfaction para-ombilicale supérieure droite
+T14	ANAT 327 360	para-ombilicale supérieure droite
+T15	Localization 354 360	droite
+T16	MEAS 376 389	progressément
+T17	Concept_Idea 393 399	volume
+T18	MEAS 409 417	violacée
+T19	PROC 447 462	bactérioculture
+T20	PROC 508 518	incubation
+T21	MEAS 521 525	36°C
+T22	PROC 546 566	séquençage génétique
+T23	LIVB 595 603	patiente
+T24	DISO 645 701	hypoxie hypocholestérolémateuse congénitale hypertensive
+T25	CHEM 753 763	furosémide
+T26	CHEM 764 777	cisaméthasone
+T27	PROC 790 807	scanner abdominal
+T28	ANAT 798 807	abdominal
+T29	DISO 825 889	masse tumorale tissulaire hypodense hétérogène hypervascularisée
+T30	ANAT 909 938	sinus para tentoriel grêlique
+T31	MEAS 986 993	1 mètre
+T32	ANAT 1025 1045	transverse gastrique
+T33	PROC 1049 1082	imagerie par résonance magnétique
+T34	PROC 1084 1099	IRM) céphalique
+T35	ANAT 1089 1099	céphalique

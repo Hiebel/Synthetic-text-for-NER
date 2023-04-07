@@ -1,0 +1,58 @@
+T1	LIVB 4 9	fille
+T2	TEMP 13 18	3 ans
+T3	Hospital 39 57	urgences primaires
+T4	DISO 86 102	maladie cœliaque
+T5	PROC 108 144	traitement médicamenteux substitutif
+T6	CHEM 147 165	méthylprednisolone
+T7	CHEM 168 187	corticoïdes inhalés
+T8	CHEM 193 206	dexaméthasone
+T9	DOSE 208 218	0,5 mg /kg
+T10	TEMP 218 220	/J
+T11	CHEM 222 240	hydroxychloroquine
+T12	DOSE 243 251	15 mg/kg
+T13	TEMP 251 253	/J
+T14	DISO 271 286	symptomatologie
+T15	TEMP 301 306	un an
+T16	DISO 326 340	amaigrissement
+T17	MEAS 351 355	4 kg
+T18	DISO 375 387	palpitations
+T19	Concept_Idea 409 421	état général
+T20	MEAS 436 449	plus marquées
+T21	PROC 480 502	pronostic radiologique
+T22	LIVB 517 524	enfants
+T23	DISO 546 561	symptomatologie
+T24	DISO 812 845	syndrome d'épanchement péritonéal
+T25	ANAT 835 845	péritonéal
+T26	PROC 868 901	résection pariétale transfixiante
+T27	ANAT 928 946	ganglion hépatique
+T28	PROC 1028 1042	interrogatoire
+T29	LIVB 1062 1068	garçon
+T30	TEMP 1076 1081	2 ans
+T31	Hospital 1101 1122	urgences traumatiques
+T32	DISO 1157 1184	crises convulsives fébriles
+T33	DISO 1199 1221	hypotension artérielle
+T34	ANAT 1211 1221	artérielle
+T35	MEAS 1236 1258	rapidement progressive
+T36	DISO 1459 1481	céphalées hypertensive
+T37	DISO 1498 1534	déglutions érythémateuses purulantes
+T38	DISO 1592 1629	lésions gélatineuses périrachidielles
+T39	MEAS 1654 1659	12 cm
+T40	MEAS 1662 1667	13 cm
+T41	MEAS 1670 1675	14 cm
+T42	MEAS 1678 1683	17 cm
+T43	PROC 1746 1761	hospitalisation
+T44	DISO 1813 1839	traumatisme crânio-faciale
+T45	DISO 1849 1875	troubles sensitivomotrices
+T46	DISO 1912 1927	retard scolaire
+T47	PROC 1943 1959	examen somatique
+T48	DISO 1971 1984	particularité
+T49	PROC 1988 2018	échographie abdomino-pelvienne
+T50	ANAT 2000 2018	abdomino-pelvienne
+T51	DISO 2047 2099	adénocarcinome vésiculaire utéro-thoracique biliaire
+T52	ANAT 2062 2099	vésiculaire utéro-thoracique biliaire
+T53	Concept_Idea 2109 2117	contours
+T54	MEAS 2118 2127	régulière
+T55	MEAS 2129 2140	bien limité
+T56	DISO 2158 2210	métastases bilatérales du parathyroïdien vésiculaire
+T57	Localization 2169 2180	bilatérales
+T58	ANAT 2184 2210	parathyroïdien vésiculaire

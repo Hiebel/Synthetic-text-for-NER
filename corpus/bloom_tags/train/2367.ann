@@ -1,0 +1,85 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 73	notables
+T4	PROC 75 80	Admis
+T5	Hospital 85 93	urgences
+T6	DISO 103 131	douleurs thoraciques fébrile
+T7	ANAT 112 123	thoraciques
+T8	TEMP 141 159	depuis une semaine
+T9	PROC 163 178	examen clinique
+T11	MEAS 213 225	130 batt/min
+T12	Concept_Idea 233 252	pression artérielle
+T13	ANAT 242 252	artérielle
+T14	MEAS 255 265	70/40 mmhg
+T15	PROC 269 300	échographie abdomino- pelvienne
+T16	ANAT 281 300	abdomino- pelvienne
+T17	DISO 313 362	épanchement intrapéritonéal latéro-sternale droit
+T18	ANAT 325 362	intrapéritonéal latéro-sternale droit
+T19	Localization 357 362	droit
+T20	DISO 379 466	carcinose péritonéo-laparothoracique hétérotopique du méso-sigmoïdien biliopancréatique
+T22	ANAT 433 466	méso-sigmoïdien biliopancréatique
+T23	DISO 483 588	adénopathies pelviennes basithoraciques médiastinales péripéritonéales cervico-thoraciques hypovolémantes
+T25	DISO 622 643	paragangliome malaire
+T26	PROC 669 690	imagerie multimodélée
+T27	PROC 692 709	tomodensitométrie
+T28	PROC 711 714	IRM
+T29	PROC 720 744	scanner abdomino-pelvien
+T30	ANAT 728 744	abdomino-pelvien
+T31	PROC 758 782	laparotomie exploratrice
+T32	DISO 844 858	organomégalies
+T33	DISO 869 882	malformations
+T34	ANAT 891 918	fosse iliaque supra utérine
+T35	Localization 905 910	supra
+T36	CHEM 959 967	propofol
+T37	PROC 974 1001	stabilisation hémodynamique
+T38	MEAS 1015 1027	négligeables
+T39	PROC 1045 1063	traitement médical
+T40	CHEM 1074 1087	métaméthasone
+T41	DOSE 1089 1096	1 mg/kg
+T42	TEMP 1096 1098	/j
+T43	CHEM 1101 1119	hydroxychloroquine
+T44	DOSE 1122 1128	100 mg
+T45	TEMP 1128 1130	/j
+T46	MEAS 1140 1150	favorables
+T47	DEVI 1175 1183	bandages
+T48	PHEN 1193 1233	circulation vasculo-nerveuse intestinale
+T49	ANAT 1205 1233	vasculo-nerveuse intestinale
+T50	DISO 1255 1281	troubles sensitivomotrices
+T51	DISO 1332 1363	détresse respiratoire sifflante
+T52	CHEM 1403 1417	neuroleptiques
+T53	DISO 1470 1485	hypoglycémiante
+T54	MEAS 1500 1522	rapidement progressive
+T55	CHEM 1622 1635	phénobarbital
+T56	MODE 1735 1740	bolus
+T57	CHEM 1744 1762	méthylprédnisolone
+T58	LIVB 1806 1812	enfant
+T59	DISO 1856 1879	masse tumorale kystique
+T60	MEAS 1889 1894	50 cm
+T61	Concept_Idea 1898 1907	grand axe
+T62	TEMP 1941 1950	deux mois
+T63	PROC 1961 1970	admission
+T64	DISO 2081 2089	polypnée
+T65	DISO 2104 2124	hyperthermie globale
+T66	MEAS 2134 2158	de plus en plus sensible
+T67	MEAS 2170 2183	35 cycles/min
+T68	MEAS 2186 2200	120 cycles/min
+T69	MEAS 2233 2245	spontanément
+T70	Concept_Idea 2249 2255	taille
+T71	MEAS 2265 2269	80mm
+T72	MEAS 2272 2277	220mm
+T73	DISO 2311 2333	anomalies neurologique
+T74	DISO 2337 2370	syndrome inflammatoire biologique
+T75	PROC 2890 2919	examen des membres inférieurs
+T76	ANAT 2901 2919	membres inférieurs
+T77	DISO 2931 2944	particularité
+T78	PROC 2948 2978	échographie abdomino-pelvienne
+T79	ANAT 2960 2978	abdomino-pelvienne
+T80	PHEN 2992 3014	grossesse épigastrique
+T81	ANAT 3002 3014	épigastrique
+T82	MEAS 3025 3030	32 SA
+T83	DISO 3052 3155	masse hypodense hétérogène du paroi vaginale périmétrionale latéro-utérine tissulaire hypervascularisée
+T85	MEAS 3157 3165	arrondie
+T86	MEAS 3169 3179	hétérogène
+T87	DISO 3199 3217	carcinome vaginale
+T88	ANAT 3209 3217	vaginale
+T89	DISO 3268 3289	neuroendocrine plexus

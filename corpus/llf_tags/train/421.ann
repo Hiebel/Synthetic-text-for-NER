@@ -1,0 +1,41 @@
+T1	LIVB 15 23	patiente
+T2	DISO 44 69	antécédents pathologiques
+T3	MEAS 70 82	particuliers
+T4	PROC 93 105	hospitalisée
+T5	Concept_Idea 110 113	âge
+T6	TEMP 117 124	18 mois
+T7	Concept_Idea 150 162	état général
+T8	PROC 166 180	interrogatoire
+T9	LIVB 191 195	elle
+T10	LIVB 254 261	famille
+T11	PROC 265 280	examen clinique
+T12	LIVB 291 301	nourrisson
+T13	MEAS 305 312	mauvais
+T14	Concept_Idea 313 325	état général
+T15	ANAT 331 343	conjonctives
+T16	MEAS 349 370	légèrement décolorées
+T17	PROC 387 403	examen somatique
+T18	DISO 413 426	particularité
+T19	PROC 431 448	tomodensitométrie
+T20	PROC 450 482	TDM) thoraco- abdomino-pelvienne
+T21	ANAT 455 482	thoraco- abdomino-pelvienne
+T22	DISO 503 524	signes inflammatoires
+T23	ANAT 539 557	lobes sous cutanés
+T24	ANAT 561 583	membre inférieur droit
+T25	Localization 578 583	droit
+T26	DEVI 627 636	appareils
+T27	PROC 642 661	examens biologiques
+T28	DISO 683 702	syndrome infectieux
+T29	DISO 718 731	immunologique
+T30	LIVB 753 761	patiente
+T31	PHEN 814 835	grossesse monofoetale
+T32	PROC 840 846	suivie
+T33	Hospital 880 901	urgences pédiatriques
+T34	TEMP 913 921	21 jours
+T35	PROC 935 961	néfertrémie normocoloniale
+T36	PROC 977 1006	antibioprophylaxie anténatale
+T37	PROC 1020 1045	aménorrhée antibacillaire
+T38	PROC 1095 1124	prise en charge thérapeutique
+T39	PROC 1129 1159	bilan biologique préopératoire
+T40	DISO 1204 1228	infections néonatalysées
+T41	LIVB 1449 1461	Kreisberg JB

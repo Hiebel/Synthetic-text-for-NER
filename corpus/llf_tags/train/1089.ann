@@ -1,0 +1,30 @@
+T1	PHEN 5 23	suites opératoires
+T2	MEAS 32 39	simples
+T3	PROC 44 64	suivi postopératoire
+T4	DISO 76 84	récidive
+T5	LIVB 91 99	patiente
+T6	PROC 118 142	chimiothérapie adjuvante
+T7	CHEM 153 165	doxorubicine
+T8	DOSE 167 171	50µg
+T9	TEMP 171 173	/j
+T10	Concept_Idea 184 190	taille
+T11	MEAS 194 197	2cm
+T12	ANAT 211 222	rein gauche
+T13	Localization 216 222	gauche
+T14	PROC 238 288	séances de rééducation par renforcement musculaire
+T15	PROC 294 311	raideur plantaire
+T16	PROC 315 348	travail sur les lamelles osseuses
+T17	ANAT 331 348	lamelles osseuses
+T18	DEVI 362 367	stylo
+T19	Concept_Idea 417 432	acuité visuelle
+T20	MEAS 450 458	10/10 cm
+T21	PROC 477 504	contrôle neuropsychiatrique
+T22	LIVB 593 601	patiente
+T23	PROC 660 708	transfusions sanguines intraveineuse parentérale
+T24	PROC 801 833	oxygénothérapie antihypertensive
+T25	PROC 846 874	prise en charge chirurgicale
+T26	PROC 898 921	bloc anesthésique local
+T27	PROC 965 989	thérapeutique palliative
+T28	Concept_Idea 1097 1117	aspect morphologique
+T29	Concept_Idea 1323 1347	paramètres endoscopiques
+T30	PROC 1426 1462	investigations clinico-radiologiques

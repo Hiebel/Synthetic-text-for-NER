@@ -1,0 +1,22 @@
+T1	LIVB 28 35	patient
+T2	PROC 47 51	reçu
+T3	DISO 61 86	tuméfaction du sein droit
+T4	ANAT 76 86	sein droit
+T5	Localization 81 86	droit
+T6	MEAS 98 113	progressivement
+T7	Concept_Idea 117 123	volume
+T8	PROC 135 140	opéré
+T9	TEMP 144 148	2012
+T10	PROC 156 186	curage ganglionnaire axillaire
+T11	ANAT 163 186	ganglionnaire axillaire
+T12	PROC 190 216	examen anatomopathologique
+T13	PHEN 221 239	suites opératoires
+T14	DISO 270 294	lésion hypo-vascularisée
+T15	MEAS 304 309	20 cm
+T16	MEAS 314 319	13 cm
+T17	ANAT 335 343	épiploon
+T18	DISO 355 390	adénopathies cervico-métacarpiennes
+T19	PROC 405 424	bilan préopératoire
+T20	PROC 440 463	radiothérapie adjuvante
+T21	PROC 467 492	chimiothérapie palliative
+T22	PROC 508 533	mastodynésie chirurgicale

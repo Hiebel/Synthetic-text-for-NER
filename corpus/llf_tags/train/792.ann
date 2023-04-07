@@ -1,0 +1,10 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	DISO 56 88	dilatation de l'aorte thoracique
+T4	ANAT 72 88	aorte thoracique
+T5	MEAS 121 128	simples
+T6	LIVB 135 142	patient
+T7	PROC 147 152	sorti
+T8	TEMP 155 157	J2
+T9	PROC 163 173	opératoire
+T10	TEMP 191 196	5 ans

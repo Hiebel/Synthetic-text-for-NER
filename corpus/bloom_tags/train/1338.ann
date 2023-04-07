@@ -1,0 +1,83 @@
+T1	LIVB 4 7	H.Z
+T2	PROC 27 33	admise
+T3	Hospital 38 46	urgences
+T4	DISO 65 91	insuffisance rénale aiguée
+T5	ANAT 78 84	rénale
+T6	DISO 109 134	néphropathie hypertensive
+T7	PROC 139 158	ponction artérielle
+T8	ANAT 148 158	artérielle
+T9	PROC 176 202	contraception progestative
+T10	CHEM 190 202	progestative
+T11	MODE 207 217	voie orale
+T12	CHEM 231 239	dopamine
+T13	CHEM 245 259	hydrocortisone
+T14	DOSE 261 269	0,5mg/kg
+T15	TEMP 269 274	/jour
+T16	PROC 280 328	résection transureterale péridurale chirurgicale
+T17	LIVB 359 367	patiente
+T18	DISO 441 479	syndrome d'épanchement intrapéritonéal
+T19	ANAT 464 479	intrapéritonéal
+T20	DISO 490 521	complications thromboemboliques
+T21	DISO 555 604	thrombose cérébro-vésculo-nerveuse sus-rénalienne
+T22	ANAT 565 604	cérébro-vésculo-nerveuse sus-rénalienne
+T23	ANAT 678 684	rénale
+T24	PROC 747 780	techniques d'immuno-histochimique
+T25	MEAS 838 846	négatifs
+T26	DEVI 963 973	serviettes
+T27	PROC 1040 1060	technique d'imagerie
+T28	PROC 1123 1153	échographie abdomino pelvienne
+T29	ANAT 1135 1153	abdomino pelvienne
+T31	Localization 1276 1286	bilatérale
+T32	Localization 1316 1320	sous
+T33	MEAS 1340 1345	12 cm
+T34	MEAS 1350 1355	10 cm
+T35	MEAS 1365 1368	3cm
+T36	Concept_Idea 1372 1381	grand axe
+T37	ANAT 1411 1431	structures urétrales
+T38	DISO 1469 1509	masse kystique érythémateuse polyloculée
+T39	ANAT 1526 1536	col utérin
+T40	ANAT 1561 1581	organe recto-pelvien
+T41	ANAT 1592 1612	muqueuse intestinale
+T42	DISO 1618 1653	adénopathies tumorales lithiasiques
+T43	MEAS 1668 1690	de plus en plus larges
+T44	MEAS 1707 1723	plus importantes
+T45	Concept_Idea 1740 1748	contours
+T46	MEAS 1759 1768	réguliers
+T47	ANAT 1870 1886	voies herniaires
+T48	DISO 1961 1990	kystes hydatiques nécrotiques
+T49	ANAT 2014 2030	paroi abdominale
+T50	MEAS 2147 2151	fine
+T51	PROC 2231 2239	biopsies
+T52	PROC 2245 2272	scanner abdomino-biologique
+T53	ANAT 2253 2272	abdomino-biologique
+T55	DISO 2523 2555	épanchement liquidien péritonéal
+T56	ANAT 2535 2555	liquidien péritonéal
+T57	LIVB 2559 2565	enfant
+T58	PROC 2584 2608	chimiothérapie adjuvante
+T59	CHEM 2619 2629	paclitaxel
+T60	DOSE 2631 2638	20mg/m²
+T61	TEMP 2638 2640	/j
+T62	CHEM 2643 2652	docetaxel
+T63	DOSE 2654 2662	50 mg/m²
+T64	TEMP 2662 2664	/J
+T65	CHEM 2667 2677	cisplatine
+T66	DOSE 2679 2688	750 mg/m²
+T67	TEMP 2688 2693	/jour
+T68	CHEM 2696 2707	vinblastine
+T69	DOSE 2709 2718	400 mg/m²
+T70	TEMP 2718 2720	/j
+T71	CHEM 2723 2736	dexaméthasone
+T72	DOSE 2738 2745	2 mg/kg
+T73	TEMP 2745 2747	/j
+T74	CHEM 2750 2763	bêtaméthasone
+T75	DOSE 2765 2772	1 µg/kg
+T76	TEMP 2772 2774	/j
+T77	CHEM 2779 2793	hydrocortisone
+T78	DOSE 2795 2803	0,5µg/kg
+T79	TEMP 2803 2805	/j
+T80	DISO 2855 2876	syndrome pancytopénie
+T81	PROC 2882 2926	tomodensitométrie thoraco-abdomino pelvienne
+T82	ANAT 2900 2926	thoraco-abdomino pelvienne
+T83	PROC 2940 2967	radio-échographie pelvienne
+T84	ANAT 2958 2967	pelvienne
+T85	DISO 2994 3019	localisations secondaires

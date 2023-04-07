@@ -1,0 +1,54 @@
+T1	LIVB 29 37	patiente
+T2	DISO 76 106	traumatisme crânien ischémique
+T3	PROC 121 146	intervention chirurgicale
+T4	DEVI 180 188	aiguille
+T5	DISO 235 254	récurrence tumorale
+T6	MEAS 289 298	spontanée
+T7	LIVB 329 337	patients
+T8	DISO 357 373	signes cliniques
+T9	DISO 401 414	consanguinité
+T10	DISO 421 439	conflits familiaux
+T11	DISO 456 486	ischémie cérébrale traumatique
+T12	ANAT 465 486	cérébrale traumatique
+T13	MEAS 536 547	progressive
+T14	DISO 568 590	critères neurologiques
+T15	DISO 742 771	symptômes neuropsychiatriques
+T16	DISO 811 828	épilepsie maligne
+T17	PROC 868 898	dopamineurothérapie préventive
+T18	DISO 1113 1136	hypertension artérielle
+T19	ANAT 1126 1136	artérielle
+T20	DISO 1164 1183	maladie de Takayasu
+T21	TEMP 1193 1214	depuis plus de 10 ans
+T22	Concept_Idea 1316 1325	caractère
+T23	ANAT 1432 1446	ventriculaires
+T24	PROC 1465 1484	bilan préopératoire
+T25	PROC 1510 1529	pression artérielle
+T26	ANAT 1519 1529	artérielle
+T27	MEAS 1532 1545	150/120ml/min
+T28	CHEM 1584 1613	noradrénaline hydrochloridone
+T29	MEAS 1629 1641	120/80µmol/l
+T30	CHEM 1693 1711	méthylprednisolone
+T31	DOSE 1732 1740	30 mg/kg
+T32	TEMP 1740 1742	/j
+T33	DISO 2024 2057	syndrome inflammatoire biologique
+T34	PROC 2066 2090	alpha-globule c réactive
+T35	PROC 2092 2095	CRP
+T36	MEAS 2108 2116	90 mg/ml
+T37	PROC 2121 2145	scanner abdomino-pelvien
+T38	ANAT 2129 2145	abdomino-pelvien
+T39	DISO 2173 2228	lésion kystique du péritoine latéro-mandibulaire gauche
+T40	ANAT 2192 2228	péritoine latéro-mandibulaire gauche
+T41	Localization 2222 2228	gauche
+T42	MEAS 2238 2241	2cm
+T43	Concept_Idea 2245 2254	grand axe
+T44	ANAT 2271 2287	parois vaginales
+T45	ANAT 2316 2335	vésicules biliaires
+T46	DISO 2341 2362	lyse rétrovésiculaire
+T47	ANAT 2346 2362	rétrovésiculaire
+T48	DISO 2368 2402	adénopathies cervico-sigmoïdiennes
+T49	ANAT 2381 2402	cervico-sigmoïdiennes
+T50	LIVB 2417 2424	patient
+T51	PROC 2442 2466	anesthésie locoregionale
+T52	ANAT 2453 2466	locoregionale
+T53	PROC 2468 2492	réanimation chirurgicale
+T54	PROC 2505 2560	immobilisation plâtrée intrarachidiale trans-thoracique

@@ -1,0 +1,36 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	2 ans
+T3	Concept_Idea 37 48	antécédents
+T4	MEAS 49 61	particuliers
+T5	PROC 63 68	admis
+T6	Hospital 73 81	urgences
+T7	DISO 90 128	syndrome d'épanchement péritonéal aigu
+T8	ANAT 113 123	péritonéal
+T9	TEMP 138 153	depuis 10 jours
+T10	PHEN 163 172	tolérance
+T11	PROC 177 192	examen clinique
+T12	PROC 196 226	échographie abdomino-pelvienne
+T13	ANAT 208 226	abdomino-pelvienne
+T14	DISO 257 287	masse pariétale du flanc droit
+T15	ANAT 276 287	flanc droit
+T16	Localization 282 287	droit
+T17	ANAT 339 344	grêle
+T18	MEAS 354 359	21 cm
+T19	Concept_Idea 363 372	grand axe
+T20	CHEM 398 419	contractions utérines
+T21	ANAT 411 419	utérines
+T23	PROC 443 465	TDM) abdominopelvienne
+T24	ANAT 448 465	abdominopelvienne
+T25	DEVI 486 507	cathéter artériolaire
+T26	ANAT 495 507	artériolaire
+T27	DISO 537 571	masse tissulaire hypo-vascularisée
+T28	MEAS 580 585	35 mm
+T29	Concept_Idea 589 598	grand axe
+T30	Concept_Idea 601 607	aspect
+T31	MEAS 608 618	hétérogène
+T32	PROC 634 657	injection intraveineuse
+T33	CHEM 661 681	produit de contraste
+T34	ANAT 699 705	pelvis
+T35	DISO 720 749	épanchements intrapéritonéaux
+T36	ANAT 733 749	intrapéritonéaux
+T37	ANAT 779 801	cavité péripéritonéale

@@ -1,0 +1,32 @@
+T1	LIVB 28 35	patient
+T2	PROC 72 96	chimiothérapie adjuvante
+T3	CHEM 102 112	Tamoxifène
+T4	CHEM 115 126	Cyclosérine
+T5	MODE 131 141	voie orale
+T6	LIVB 201 207	enfant
+T7	DISO 225 235	métastases
+T8	DISO 242 259	récidive tumorale
+T9	DISO 266 297	complications thromboemboliques
+T10	PHEN 316 338	accouchement eutocique
+T11	PROC 353 370	anesthésie locale
+T12	PROC 383 426	bêtaméthasone intramusculaire biquotidienne
+T13	DOSE 833 841	75 mg/m²
+T14	PROC 854 880	corticothérapie palliative
+T15	LIVB 1009 1019	adolescent
+T16	TEMP 1023 1029	17 ans
+T17	DISO 1054 1091	craniosténose traumatique congénitale
+T18	LIVB 1146 1149	son
+T19	DISO 1158 1175	douleur crânienne
+T20	MEAS 1190 1200	rapprochée
+T21	MEAS 1210 1227	plus prurigineuse
+T22	DISO 1333 1377	traumatisme ischémique rétinien hémorragique
+T23	PROC 1583 1607	diagnostic préopératoire
+T24	DISO 1633 1655	signes neurosensoriels
+T25	DISO 1681 1708	méningo-pneumo-néphroplexus
+T26	DISO 1723 1744	bradycardie néonatale
+T27	MEAS 1755 1767	120 batt/min
+T28	DEVI 1806 1828	attelles orthopédiques
+T29	MEAS 1962 1968	1550 g
+T30	PROC 2010 2028	traitement curatif
+T31	DISO 2071 2077	tumeur
+T32	Concept_Idea 2102 2109	critère

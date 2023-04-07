@@ -1,0 +1,20 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 49 74	antécédents pathologiques
+T3	MEAS 75 83	notables
+T4	DISO 108 145	tuméfaction du sinus maxillaire droit
+T5	ANAT 123 145	sinus maxillaire droit
+T6	Localization 140 145	droit
+T7	TEMP 155 168	depuis 6 mois
+T8	PROC 173 182	palpation
+T9	MEAS 189 195	tendue
+T10	ANAT 211 220	œil droit
+T11	Localization 215 220	droit
+T12	DISO 240 283	œdème hypertrophié des muqueuses lacrymales
+T13	ANAT 263 283	muqueuses lacrymales
+T14	PROC 299 315	examen somatique
+T15	DISO 332 349	masse hypotonique
+T16	MEAS 359 363	4 cm
+T17	Concept_Idea 367 376	grand axe
+T18	MEAS 378 384	mobile
+T19	DISO 392 403	douloureuse
+T20	PROC 409 418	palpation

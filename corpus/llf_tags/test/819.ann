@@ -1,0 +1,85 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 50 61	antécédents
+T3	MEAS 62 74	particuliers
+T4	PROC 85 97	hospitalisée
+T5	DISO 107 129	douleurs épigastriques
+T6	ANAT 116 129	épigastriques
+T7	CHEM 143 156	antibiotiques
+T8	TEMP 166 180	depuis 8 jours
+T9	PROC 186 201	examen clinique
+T10	LIVB 205 213	patiente
+T11	MEAS 223 226	bon
+T12	Concept_Idea 227 239	état général
+T13	DISO 249 255	fièvre
+T14	MEAS 258 264	39 ° C
+T15	DISO 271 298	syndrome infectieux fébrile
+T16	PHEN 303 310	tolérés
+T17	PROC 315 332	tomodensitométrie
+T18	PROC 334 348	TDM) cérébrale
+T19	ANAT 339 348	cérébrale
+T20	DISO 370 412	processus lésionnel du lobe temporal droit
+T21	ANAT 393 412	lobe temporal droit
+T22	Localization 407 412	droit
+T23	MEAS 422 426	8 cm
+T24	Concept_Idea 430 439	grand axe
+T25	MEAS 448 452	5 cm
+T26	Concept_Idea 456 464	diamètre
+T27	ANAT 489 550	sinus maxillaire inférieur médio-parietal homolatéral interne
+T28	Localization 516 521	médio
+T29	Localization 531 550	homolatéral interne
+T30	ANAT 565 597	parties molles cervicale gauches
+T31	Localization 590 597	gauches
+T32	DISO 610 673	calcul intracrânien nucleofibroblastique postéro-latéral gauche
+T33	Localization 667 673	gauche
+T34	Localization 682 699	partie supérieure
+T35	MEAS 719 724	11 mm
+T36	Concept_Idea 728 737	petit axe
+T37	PROC 742 761	électrocardiogramme
+T38	DISO 776 804	trouble hydro électrolytique
+T39	DISO 808 831	deficit sensitivomoteur
+T40	DISO 841 859	signe neurologique
+T41	PROC 872 890	bilan paraclinique
+T42	PROC 905 914	admission
+T43	DISO 928 948	hypertriglycéridémie
+T44	MEAS 951 959	4,3 g/dl
+T45	ANAT 976 992	flanc symétrique
+T46	Localization 982 992	symétrique
+T47	DEVI 1007 1026	seringue électrique
+T48	CHEM 1066 1094	gentamyl méthoxyprogestérone
+T49	DOSE 1100 1105	40 mg
+T50	PROC 1152 1182	bilan biologique préopératoire
+T51	DISO 1199 1244	hypercholestérolémie normochrome normocytaire
+T52	MEAS 1247 1272	7,2 grammes par décilitre
+T53	DISO 1286 1337	acidocétose diabétique gestationistico-hémorragique
+T54	TEMP 1351 1375	deux semaines auparavant
+T55	PROC 1440 1459	examens biologiques
+T56	LIVB 1480 1488	patiente
+T57	DISO 1516 1553	insuffisance rénale polymyogénétiquèe
+T58	ANAT 1529 1535	rénale
+T59	PROC 1554 1562	uricémie
+T60	MEAS 1565 1575	9,15 mEq/L
+T61	DISO 1589 1616	polynucléaires neutrophiles
+T62	Concept_Idea 2487 2507	chiffres tensionnels
+T63	PROC 2534 2556	traitement chirurgical
+T64	PHEN 2576 2596	grossesse monofoetal
+T65	Concept_Idea 2605 2621	tableau clinique
+T66	Concept_Idea 2639 2669	résultats anatomopathologiques
+T67	DISO 2727 2741	déshydratation
+T68	DISO 2748 2771	déficit sensitivomoteur
+T69	PROC 2777 2794	bilan étiologique
+T70	DISO 2813 2827	particularités
+T71	Concept_Idea 2842 2860	éléments cliniques
+T72	DISO 2928 2953	symptomatologie somatique
+T73	Concept_Idea 3004 3024	aspect morphologique
+T74	LIVB 3065 3088	médecin neurochirurgien
+T75	DISO 3166 3191	symptômes dysfonctionnels
+T76	DISO 3280 3303	consanguinité psychique
+T77	PROC 3735 3754	étude médico-légale
+T79	PROC 4032 4041	admission
+T80	LIVB 4047 4052	notre
+T81	Hospital 4053 4069	salle opératoire
+T82	PROC 4093 4114	radiothérapie externe
+T83	PROC 4128 4190	nasopharyngoscopie exploratrice bidimensionnelle préopératoire
+T84	TEMP 4210 4230	7 heures apres 06h30
+T85	PROC 4245 4275	laparotomie transoesophagienne
+T86	PROC 4288 4323	fibroscopie digestive scanno-guidée

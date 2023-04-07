@@ -1,0 +1,32 @@
+T1	MEAS 44 45	3
+T2	LIVB 46 53	garçons
+T3	Hospital 111 121	psychiatre
+T4	LIVB 211 218	enfants
+T5	TEMP 220 231	Une semaine
+T6	LIVB 238 240	sa
+T7	PROC 241 253	consultation
+T8	DISO 275 294	accident domestique
+T9	LIVB 313 316	ses
+T10	LIVB 317 331	petits-enfants
+T11	DISO 342 370	désordres psychotraumatiques
+T12	Concept_Idea 415 438	état neuropsychiatrique
+T13	DISO 476 486	mélancolie
+T14	MEAS 618 629	trèssimples
+T15	LIVB 670 677	enfants
+T16	Concept_Idea 699 726	traditions professionnelles
+T17	PROC 753 763	opératoire
+T18	PROC 784 825	séances de rééducation multidisciplinaire
+T19	LIVB 844 848	nous
+T20	PROC 880 930	traitements cognitivo-comportementaux substitutifs
+T21	PROC 933 966	exploration fonctionnelle motrice
+T22	PROC 967 970	ASP
+T23	PROC 973 1025	kinésithérapeutiques fonctionnelles cutanéomuqueuses
+T24	PROC 1026 1029	ORL
+T25	PROC 1034 1067	neuroleptiques antiparesthésiques
+T26	PROC 1068 1072	RISP
+T27	PROC 1081 1093	soins locaux
+T28	MEAS 1107 1115	négatifs
+T29	LIVB 1128 1130	le
+T30	LIVB 1131 1137	malade
+T31	CHEM 1166 1178	antibiotique
+T32	LIVB 1193 1199	enfant

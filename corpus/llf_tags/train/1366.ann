@@ -1,0 +1,75 @@
+T1	PROC 4 15	échographie
+T2	MEAS 32 43	volumineuse
+T3	DISO 44 65	tumeur du sein gauche
+T4	ANAT 54 65	sein gauche
+T5	Localization 59 65	gauche
+T6	MEAS 69 73	3 cm
+T7	Concept_Idea 77 86	grand axe
+T8	PROC 90 110	analyse histologique
+T9	PROC 112 131	étude cytogénétique
+T10	PROC 135 154	immunohistochimique
+T11	DISO 186 254	carcinome à cellules chromophobes infiltrant les ganglions cervicaux
+T12	ANAT 235 254	ganglions cervicaux
+T13	LIVB 263 269	malade
+T14	LIVB 277 287	nourrisson
+T15	TEMP 295 301	9 mois
+T16	PROC 313 318	admis
+T17	Hospital 323 344	urgences pédiatriques
+T18	DISO 364 391	détresse respiratoire aiguë
+T19	DISO 406 429	vomissements chroniques
+T20	DISO 445 456	traumatisme
+T21	DISO 466 493	symptôme neuropsychiatrique
+T22	PROC 499 514	examen clinique
+T23	LIVB 536 541	femme
+T24	LIVB 630 638	patiente
+T25	DISO 645 680	hypertension artérielle pulmonaires
+T26	ANAT 669 680	pulmonaires
+T27	TEMP 690 703	depuis 6 mois
+T28	DISO 717 740	infections nosocomiales
+T29	PHEN 775 790	acuité visuelle
+T30	DISO 804 813	dysphagie
+T31	PROC 837 855	antibioprophylaxie
+T32	PROC 860 892	scanner thoraco-abdomino-pelvien
+T33	ANAT 868 892	thoraco-abdomino-pelvien
+T34	PROC 907 926	bilan préopératoire
+T35	DISO 953 993	distension réticulo-trachéo-œsophagienne
+T36	ANAT 964 993	réticulo-trachéo-œsophagienne
+T37	ANAT 1007 1047	région réticulo-temporo-frontale droites
+T38	Localization 1040 1047	droites
+T39	ANAT 1064 1088	rachis dorsal antérieure
+T40	Localization 1078 1088	antérieure
+T41	MEAS 1112 1119	16/18mm
+T42	MEAS 1123 1131	11/14 mm
+T43	PROC 1136 1158	diagnostic étiologique
+T44	DISO 1188 1296	carcinome épidermoïde mésenchymateux cutané monofilamentaire kératinocytaire neutrophile éosinophile maligne
+T45	MEAS 1304 1312	stade II
+T46	PROC 1322 1348	classification TNMSS IgG1B
+T47	PROC 1364 1392	chimiothérapie néo adjuvante
+T48	CHEM 1398 1409	Rifampicine
+T49	PROC 1423 1443	transfusion sanguine
+T50	DEVI 1463 1478	bloc opératoire
+T51	Concept_Idea 1517 1525	clinique
+T52	DOSE 1537 1551	0,4 gramme /kg
+T53	PROC 1567 1642	kinésithérapie sédationnelle intraveineuse substitutionnelle individualisée
+T54	PROC 1684 1730	radiothérapie externe concomitante fractionnée
+T55	DOSE 1741 1747	850 Gy
+T56	MEAS 1753 1788	2 fois la limite supérieure tolérée
+T57	DISO 1851 1884	lésions métastatiques secondaires
+T58	MEAS 1960 1967	simples
+T59	MEAS 1988 1999	prématurées
+T60	TEMP 2046 2055	24 heures
+T61	PROC 2145 2173	prise en charge anesthésique
+T62	DISO 2250 2259	incidents
+T63	MEAS 2297 2306	difficile
+T64	MEAS 2325 2339	très compliqué
+T65	DISO 2373 2394	troubles psychotiques
+T66	DISO 2428 2460	hallucinations auditivo-motrices
+T67	DISO 2782 2803	neuropathie chronique
+T68	DISO 3210 3237	crises convulsives fébriles
+T69	LIVB 3287 3305	médecin psychiatre
+T70	LIVB 3393 3413	confrères américains
+T71	Concept_Idea 3476 3496	traditions cliniques
+T72	DISO 3579 3604	symptomatologie paranoïde
+T73	PHEN 3840 3862	grossesses gémellaires
+T74	DISO 4042 4057	signes méningés
+T75	ANAT 4813 4838	séances fistulométriennes

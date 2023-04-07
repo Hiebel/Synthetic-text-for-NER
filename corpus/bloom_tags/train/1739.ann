@@ -1,0 +1,35 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 38 43	7 ans
+T3	Concept_Idea 49 74	antécédents pathologiques
+T4	MEAS 75 87	particuliers
+T5	DISO 107 131	douleurs du coude gauche
+T6	ANAT 119 131	coude gauche
+T7	Localization 125 131	gauche
+T8	DISO 147 182	épanchement cérébro-pariéto-frontal
+T9	ANAT 159 182	cérébro-pariéto-frontal
+T10	DISO 200 206	fièvre
+T11	MEAS 218 222	39°C
+T12	DISO 238 248	polypnésie
+T13	MEAS 263 274	progressive
+T14	TEMP 284 300	depuis 48 heures
+T15	PHEN 336 359	équilibre psychomotrice
+T16	Concept_Idea 381 399	état hémodynamique
+T17	CHEM 523 541	hydroxychloroquine
+T18	PROC 546 561	examen clinique
+T19	DISO 579 607	masse tumorale hypogastrique
+T20	MEAS 617 622	17 cm
+T21	Concept_Idea 626 635	grand axe
+T22	ANAT 653 665	champ visuel
+T23	DISO 713 748	métastase cutanée angiosurrénalisée
+T24	DISO 783 810	thrombose veineuse profonde
+T25	LIVB 845 853	patiente
+T26	LIVB 857 860	ses
+T27	LIVB 861 875	petites mamans
+T28	PROC 901 910	recherche
+T29	DISO 987 1025	karcinome érythémateux kérato-sigmoïde
+T30	ANAT 1036 1059	tuberculeuse plexiforme
+T31	PROC 1112 1169	curage ganglionnaire axillaire métastatique locorégionale
+T32	LIVB 1211 1218	malades
+T33	TEMP 1247 1252	6 ans
+T34	Hospital 1276 1297	urgences pédiatriques
+T35	DISO 1325 1342	dyspnée sifflante

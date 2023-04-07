@@ -1,0 +1,42 @@
+T1	LIVB 28 35	patient
+T2	Concept_Idea 56 67	antécédents
+T3	MEAS 68 80	particuliers
+T4	PROC 82 87	admis
+T5	Hospital 92 100	urgences
+T6	DISO 110 135	tuméfaction du sein droit
+T7	ANAT 125 135	sein droit
+T8	Localization 130 135	droit
+T9	MEAS 147 162	progressivement
+T10	Concept_Idea 166 172	volume
+T11	TEMP 182 195	depuis 6 mois
+T12	PROC 201 220	examens biologiques
+T13	DISO 239 281	anémie hémoglobine hypochrome microcytaire
+T14	PROC 291 306	globules blancs
+T15	MEAS 319 337	18000 éléments/mm3
+T16	PROC 343 362	hémoglobine glyquée
+T17	MEAS 371 373	7%
+T18	PROC 377 407	échographie abdomino-pelvienne
+T19	ANAT 389 407	abdomino-pelvienne
+T21	PHEN 507 527	grossesse gémellaire
+T22	MEAS 537 541	2 cm
+T23	Concept_Idea 545 554	grand axe
+T24	DISO 569 604	épanchement intraliquide péritonéal
+T25	ANAT 581 604	intraliquide péritonéal
+T26	DISO 633 643	tissulaire
+T27	DISO 647 686	gigantocellulomateuse kystique tumorale
+T28	CHEM 688 692	TCTK
+T29	PROC 697 730	imagerie par résonance magnétique
+T30	PROC 732 735	IRM
+T31	PROC 753 770	anesthésie locale
+T32	PROC 777 806	injections intrarachidiiennes
+T33	DOSE 810 815	20 mg
+T34	CHEM 819 830	propranolol
+T35	DISO 905 917	métastatique
+T36	PROC 1025 1052	recherche histopathologique
+T37	LIVB 1184 1192	patiente
+T38	DISO 1281 1296	symptomatologie
+T39	DISO 1362 1385	lésions purpuriculaires
+T40	ANAT 1417 1423	pelvis
+T41	ANAT 1450 1466	paroi abdominale
+T42	DISO 1488 1512	lignes hyperkératosiques
+T43	DEVI 1522 1541	bandelette prolabée

@@ -1,0 +1,17 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	DISO 36 45	tabagique
+T4	DOSE 58 75	20 paquets-années
+T5	DISO 96 129	douleurs épigastriques chroniques
+T6	ANAT 105 118	épigastriques
+T7	TEMP 139 155	depuis une année
+T8	PROC 160 182	radiographie du thorax
+T9	ANAT 176 182	thorax
+T10	DISO 194 207	particularité
+T11	PROC 211 226	examen clinique
+T12	LIVB 239 245	enfant
+T13	MEAS 249 252	bon
+T14	Concept_Idea 253 279	développement psychomoteur
+T15	MEAS 296 300	4/10
+T16	PROC 317 333	examen somatique
+T17	DISO 345 358	particularité

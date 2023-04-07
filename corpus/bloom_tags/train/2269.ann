@@ -1,0 +1,38 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 43	hospitalisée
+T3	Hospital 47 65	service d'urologie
+T4	Hospital 69 108	Clinics Universitaires Hassan II de Fès
+T5	DISO 125 142	choc hémorragique
+T6	PHEN 153 165	accouchement
+T7	LIVB 171 181	nouveau-né
+T8	PROC 229 247	traitement curatif
+T9	CHEM 262 277	Céphalosporines
+T10	CHEM 292 308	sulfaméthoxazole
+T11	DEVI 321 353	cathéter veineux intrarachidiien
+T12	ANAT 330 353	veineux intrarachidiien
+T13	PROC 372 423	anastomose péritoine/iléo-cæcale transoesophagienne
+T14	ANAT 383 423	péritoine/iléo-cæcale transoesophagienne
+T15	PROC 426 450	exploration chirurgicale
+T16	MEAS 501 506	70 mm
+T17	Concept_Idea 510 523	granddiamètre
+T18	MEAS 532 536	13mm
+T19	Concept_Idea 540 547	hauteur
+T20	ANAT 569 602	muscles para vertébraux cervicaux
+T21	ANAT 651 665	membre pelvien
+T22	MEAS 732 747	progressivement
+T23	Concept_Idea 751 762	consistance
+T24	MEAS 772 794	grossièrement arrondie
+T25	MEAS 806 816	rapidement
+T26	Concept_Idea 820 826	volume
+T27	MEAS 843 865	légèrement compressive
+T28	DISO 898 928	vascularisation péritissulaire
+T29	PROC 960 985	rétrécissement artificiel
+T30	LIVB 1007 1015	patiente
+T31	DISO 1020 1041	détresse respiratoire
+T32	MEAS 1056 1065	passagère
+T33	TEMP 1075 1090	depuis 10 jours
+T34	DISO 1146 1151	masse
+T35	MEAS 1159 1164	1250g
+T36	Localization 1180 1194	faces externes
+T37	MEAS 1207 1215	douteuse
+T38	PROC 1237 1244	biopsie

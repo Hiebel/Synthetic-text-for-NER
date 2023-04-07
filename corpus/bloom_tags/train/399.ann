@@ -1,0 +1,36 @@
+T1	LIVB 4 15	jeune femme
+T2	TEMP 24 30	16 ans
+T3	Concept_Idea 36 67	antécédents médico-chirurgicaux
+T4	MEAS 68 76	notables
+T5	PROC 78 84	admise
+T6	Hospital 89 97	urgences
+T7	DISO 116 139	agitation psychomotrice
+T8	TEMP 149 165	depuis deux mois
+T9	DISO 181 187	fièvre
+T10	MEAS 202 210	brunâtre
+T11	PHEN 235 244	vomissant
+T12	LIVB 269 273	elle
+T13	CHEM 307 321	hydrocortisone
+T14	DISO 425 454	symptomatologie fonctionnelle
+T15	PROC 472 481	admission
+T16	PROC 486 499	bilan initial
+T17	DISO 516 528	thrombopénie
+T18	MEAS 531 556	15000 globules blancs/mm3
+T19	DISO 572 588	hyperleucocytose
+T20	MEAS 591 616	12800 éléments blancs/mm3
+T21	PROC 663 698	intradermoréaction à la tuberculine
+T22	CHEM 687 698	tuberculine
+T23	MEAS 705 710	posée
+T24	MEAS 713 723	1 mg /cm 2
+T25	DOSE 724 731	2 µg/kg
+T26	PROC 738 768	échographie abdomino-pelvienne
+T27	ANAT 750 768	abdomino-pelvienne
+T28	DISO 782 820	hypertrophie duodéno-thoracique droite
+T29	ANAT 795 820	duodéno-thoracique droite
+T30	Localization 814 820	droite
+T31	MEAS 830 835	45 mm
+T32	Concept_Idea 839 848	grand axe
+T33	ANAT 865 892	sus-rénal glande péritonéal
+T34	ANAT 918 932	parties molles
+T35	Localization 971 981	supérieure
+T36	DISO 1002 1052	masse hétérogène tissulaire arrondie hypertrophiée

@@ -1,0 +1,49 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 38 44	13 ans
+T3	Concept_Idea 51 82	antécédents médico-chirurgiques
+T4	MEAS 83 95	particuliers
+T5	PROC 97 103	admise
+T6	Hospital 107 120	service d'ORL
+T7	DISO 130 142	métrorragies
+T9	ANAT 168 176	utérines
+T10	TEMP 186 207	depuis trois semaines
+T11	PROC 211 226	examen clinique
+T12	LIVB 237 243	enfant
+T13	Concept_Idea 268 286	plan hémodynamique
+T14	PHEN 296 316	grossesse gémellaire
+T15	Localization 338 344	droite
+T16	PROC 350 372	auscultation pelvienne
+T17	ANAT 363 372	pelvienne
+T18	DISO 412 460	masse hypo échogène du sinus latéro-utérin droit
+T19	ANAT 435 460	sinus latéro-utérin droit
+T20	Localization 455 460	droit
+T21	MEAS 469 474	12 cm
+T22	Concept_Idea 478 487	grand axe
+T23	ANAT 515 549	organes génitaux externes vaginaux
+T24	MEAS 559 563	2 cm
+T25	Concept_Idea 567 576	grand axe
+T26	PROC 605 614	injection
+T27	CHEM 618 638	produit de contraste
+T28	MEAS 650 659	lentement
+T29	Concept_Idea 663 669	taille
+T30	DISO 690 723	nodules tissulaires hétérotopique
+T31	ANAT 745 770	parties molles cervicales
+T32	DISO 780 788	tumorale
+T33	PROC 849 879	bilan biologique préopératoire
+T34	PROC 891 907	hyperleucocytose
+T35	MEAS 910 920	15 000/mm3
+T36	PROC 934 937	CRP
+T37	MEAS 950 957	180mg/l
+T38	PROC 973 989	glycémie glyquée
+T39	MEAS 992 997	0,81%
+T40	PROC 1003 1045	traitement anticoagulant préventif curatif
+T41	DOSE 1047 1053	100 mg
+T42	MODE 1055 1067	intraveineux
+T43	DOSE 1076 1082	500 mg
+T44	DOSE 1085 1092	1 mg/kg
+T45	PROC 1122 1159	laparotomie exploratrice chirurgicale
+T46	PROC 1182 1240	incision subcostale péritonéale supérieure droite méningée
+T48	Localization 1225 1240	droite méningée
+T49	DISO 1257 1280	masse tumorale kystique
+T50	ANAT 1312 1329	pariéto-splénique
+T51	ANAT 1346 1372	structures interstitielles

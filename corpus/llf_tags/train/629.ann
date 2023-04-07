@@ -1,0 +1,43 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 47 58	antécédents
+T3	MEAS 59 71	particuliers
+T4	PROC 91 97	examen
+T5	DISO 102 111	dysphonie
+T6	PROC 115 130	examen clinique
+T7	LIVB 141 151	nourrisson
+T8	MEAS 155 162	mauvais
+T9	Concept_Idea 163 175	état général
+T10	DISO 185 211	signes neuropsychiatriques
+T11	ANAT 217 229	conjonctives
+T12	PROC 273 289	examen somatique
+T13	DISO 299 312	particularité
+T14	PROC 317 361	tomodensitométrie du membre supérieur gauche
+T15	ANAT 338 361	membre supérieur gauche
+T16	Localization 355 361	gauche
+T17	PHEN 376 385	grossesse
+T18	TEMP 445 465	dix-huitième semaine
+T19	PROC 470 480	opératoire
+T20	PROC 502 512	césarienne
+T21	PROC 539 549	hémogramme
+T22	Hospital 562 583	urgences pédiatriques
+T23	DISO 604 620	hyperleucocytose
+T24	MEAS 623 664	12500 globules blancs par millimètre cube
+T25	MEAS 666 693	Normale inférieure à 0,005%
+T26	PROC 700 750	anémie hypochrome microcytaire normocytaire totale
+T27	PROC 751 753	Hb
+T28	MEAS 756 764	8,6 g/dl
+T29	PROC 778 791	créatininémie
+T30	Concept_Idea 828 846	aspect cytologique
+T31	DISO 864 883	syndrome infectieux
+T32	LIVB 907 915	patiente
+T33	PROC 921 939	sérologies virales
+T34	MEAS 948 957	positives
+T35	PROC 1099 1116	bilan étiologique
+T36	DISO 1139 1157	symptômes grippaux
+T37	PROC 1247 1257	diagnostic
+T38	DISO 1292 1305	adénomégalies
+T39	DISO 1556 1586	récepteurs hormonaux atypiques
+T40	PROC 1594 1631	traitement prophylactique substitutif
+T41	PROC 1646 1674	antibiothérapie probabiliste
+T42	DISO 1728 1747	maladie auto-immune
+T43	PROC 1814 1848	prise en charge médicale adjuvante

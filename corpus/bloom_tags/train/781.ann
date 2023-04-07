@@ -1,0 +1,39 @@
+T1	LIVB 15 22	patient
+T2	PROC 51 56	admis
+T3	Hospital 60 67	urgence
+T4	Hospital 72 93	urgences pédiatriques
+T5	DISO 126 146	dyspnée constrictive
+T6	MEAS 161 172	progressive
+T7	TEMP 182 196	depuis 3 jours
+T8	DISO 211 225	amaigrissement
+T9	MEAS 236 240	20kg
+T10	PROC 245 277	scanner thoracique préopératoire
+T11	ANAT 253 263	thoracique
+T12	PROC 279 282	TSP
+T13	DISO 300 360	lésion polylobée arrondie hypoéchogène lithiasique calcifiée
+T14	MEAS 370 374	17mm
+T15	Concept_Idea 378 387	grand axe
+T16	ANAT 401 429	artère thoracique supérieure
+T17	Localization 419 429	supérieure
+T18	CHEM 446 466	produit de contraste
+T19	Localization 509 521	homolatérale
+T20	DISO 557 573	maladie cœliaque
+T21	DISO 593 598	masse
+T22	ANAT 616 655	lit supéro-latéral inférieur thoracique
+T23	MEAS 664 674	stade I-II
+T24	DEVI 684 719	classification de Lowenstein-Jensen
+T25	PROC 744 777	imagerie par résonance magnétique
+T26	PROC 779 782	IRM
+T27	PROC 788 804	bilan infectieux
+T28	MEAS 824 831	positif
+T29	PROC 835 871	anticorps antinucléaires monoclonaux
+T30	MEAS 900 918	fortement positifs
+T31	PROC 977 999	TDM abdomino-pelvienne
+T32	ANAT 981 999	abdomino-pelvienne
+T33	DISO 1024 1046	épanchement péritonéal
+T34	ANAT 1036 1046	péritonéal
+T35	MEAS 1047 1066	de grande abondance
+T36	ANAT 1100 1128	fosse iliaque droite interne
+T37	Localization 1114 1128	droite interne
+T38	MEAS 1140 1155	progressivement
+T39	Concept_Idea 1159 1165	volume

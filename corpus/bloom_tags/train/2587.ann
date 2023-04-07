@@ -1,0 +1,27 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 71	antécédents pathologiques
+T3	MEAS 72 80	notables
+T4	PROC 82 88	admise
+T5	Hospital 93 101	urgences
+T6	DISO 111 118	dyspnée
+T7	MEAS 133 144	progressive
+T8	TEMP 154 167	depuis 2 mois
+T9	PROC 171 186	examen clinique
+T10	LIVB 198 206	patiente
+T11	MEAS 210 213	bon
+T12	Concept_Idea 214 226	état général
+T13	PHEN 235 240	pouls
+T14	MEAS 243 255	120 batt/min
+T15	PROC 260 289	radiographie standard du pied
+T16	ANAT 285 289	pied
+T17	DISO 319 392	syndrome d'insuffisance métacarpienne des métacarpophalangiennes palmaire
+T19	DISO 408 433	ostéotendineuse hypodense
+T20	ANAT 449 473	greffon scapulo-palmaire
+T21	ANAT 481 512	muscles ptérygo-rénaux palmares
+T22	CHEM 537 557	produit de contraste
+T23	DOSE 559 566	20mg/kg
+T24	CHEM 569 585	hydrocéphalamide
+T25	PROC 602 618	examen somatique
+T26	DISO 643 652	anomalies
+T27	DISO 686 706	signes hémorragiques
+T28	DISO 717 734	thrombopéritoines

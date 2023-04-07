@@ -1,0 +1,46 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 45 48	cas
+T3	MEAS 49 59	similaires
+T4	PROC 61 67	admise
+T5	Hospital 72 80	urgences
+T6	DISO 90 117	tuméfaction du flanc gauche
+T7	ANAT 105 117	flanc gauche
+T8	Localization 111 117	gauche
+T9	TEMP 127 143	depuis deux mois
+T10	PROC 147 162	examen clinique
+T11	DISO 179 260	adénopathies cervico-scapulo-thoraciques latéro-sternale dorsiflexées hypodensees
+T13	ANAT 276 310	espace intercostal sus-rénal droit
+T14	Localization 305 310	droit
+T15	MEAS 320 323	2cm
+T16	Concept_Idea 327 336	grand axe
+T17	PROC 341 360	bilan préopératoire
+T18	DISO 376 400	polyarthrite polyclonale
+T19	DISO 416 432	hyperleucocytose
+T20	MEAS 443 450	1160/uL
+T21	PHEN 464 487	vitesse de prothrombine
+T22	PROC 489 508	protéine C réactive
+T23	MEAS 510 516	élevée
+T24	MEAS 519 522	80%
+T25	PROC 530 554	scanner abdomino pelvien
+T26	ANAT 538 554	abdomino pelvien
+T27	PROC 561 570	injection
+T28	CHEM 576 596	produit de contraste
+T29	DISO 629 661	épanchement liquidien péritonéal
+T30	ANAT 641 661	liquidien péritonéal
+T31	DISO 674 693	anomalies biliaires
+T32	DISO 705 753	syndrome d'épanchement intrapéritonéal liquidien
+T33	ANAT 728 753	intrapéritonéal liquidien
+T34	DISO 770 800	processus hypertrophié tumoral
+T35	DISO 821 864	masse hétérogène arrondie hypervascularisée
+T36	ANAT 879 891	ovaire droit
+T37	Localization 886 891	droit
+T38	MEAS 903 918	progressivement
+T39	Concept_Idea 922 928	taille
+T40	MEAS 938 950	bien limitée
+T41	PROC 967 995	biopsie exo-laparothoracique
+T42	PROC 1016 1040	anesthésie locorégionale
+T43	ANAT 1027 1040	locorégionale
+T44	DISO 1057 1079	masse tumorale maligne
+T45	DISO 1100 1119	tumorale pléomorphe
+T46	PROC 1139 1183	tomodensitométrie thoraco abdomino-pelvienne
+T47	ANAT 1157 1183	thoraco abdomino-pelvienne

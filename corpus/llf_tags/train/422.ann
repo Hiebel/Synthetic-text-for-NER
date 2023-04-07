@@ -1,0 +1,39 @@
+T1	LIVB 18 24	enfant
+T2	TEMP 49 56	17 mois
+T3	LIVB 88 91	son
+T4	LIVB 92 103	grand frère
+T5	LIVB 107 109	sa
+T6	LIVB 110 121	belle-soeur
+T7	DISO 203 219	péritonite aiguë
+T8	LIVB 248 250	il
+T9	PROC 269 288	dérivé intraveineux
+T10	PROC 310 328	stérnotomie totale
+T11	PROC 363 387	contrôle scannographique
+T12	DISO 404 462	hyperproteinorachie fœto-maternelle trisomique congénitale
+T13	MEAS 472 480	25x12 mm
+T14	MEAS 488 499	1500 gramme
+T15	MEAS 526 536	294 gr ° C
+T16	DISO 560 598	masse tissulaire hétérodense malformée
+T17	MEAS 610 625	progressivement
+T18	Concept_Idea 629 635	volume
+T19	MEAS 736 751	stade II TIMBIO
+T20	DISO 1250 1272	symptômes psychotiques
+T21	Concept_Idea 1282 1285	âge
+T22	TEMP 1289 1296	18 mois
+T23	ANAT 1310 1332	membre inférieur droit
+T24	Localization 1327 1332	droit
+T25	DISO 1347 1373	syndrome délirant délirant
+T26	CHEM 1405 1434	photorécepteurs adrénergiques
+T27	LIVB 1573 1585	nourrisseurs
+T28	Hospital 1643 1693	structures hospitalo-psychotechniques pédiatriques
+T29	PHEN 1737 1756	exercices physiques
+T30	DEVI 1771 1788	coussin gonflable
+T31	DISO 1804 1815	traumatisme
+T32	DISO 1826 1850	hallucinations auditives
+T33	DISO 1893 1926	complications neuropsychiatriques
+T34	DISO 1997 2014	trouble bipolaire
+T35	TEMP 2267 2275	six mois
+T36	TEMP 2507 2517	6 semaines
+T37	TEMP 2520 2524	1 an
+T38	Concept_Idea 2738 2768	activités sociales habituelles
+T39	LIVB 3055 3060	elles

@@ -1,0 +1,21 @@
+T1	LIVB 19 26	patient
+T2	DISO 38 48	diabétique
+T3	PROC 54 72	traitement médical
+T4	CHEM 82 103	antidiabétiques oraux
+T5	ANAT 98 103	oraux
+T6	DISO 124 144	masse du flanc droit
+T7	ANAT 133 144	flanc droit
+T8	Localization 139 144	droit
+T9	TEMP 154 167	depuis 2 mois
+T10	PROC 171 186	examen clinique
+T11	DISO 203 255	épanchement pariéto-aréctal latéro-nécréo-myomateuse
+T13	MEAS 265 274	multiples
+T14	DISO 275 377	adénopathies jugulo-carotidiennes infarcto-localisées basithoraciques cervico-rachiculaires angineuses
+T16	PROC 382 412	bilan biologique préopératoire
+T17	PROC 414 441	numération formule sanguine
+T18	DISO 454 467	particularité
+T19	DISO 484 500	hyperleucocytose
+T20	MEAS 503 513	16000/mm 3
+T21	PROC 519 541	échographie abdominale
+T22	ANAT 531 541	abdominale
+T23	DISO 585 610	métanéphrineangiotensines

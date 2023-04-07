@@ -1,0 +1,32 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	DISO 36 61	antécédents pathologiques
+T4	MEAS 62 74	particuliers
+T5	DISO 102 124	traumatisme congénital
+T6	DISO 130 150	intoxication toxique
+T7	PROC 166 175	admission
+T8	PHEN 182 202	grossesse gémellaire
+T9	PROC 207 213	suivie
+T10	MEAS 224 231	3832 SA
+T11	Hospital 233 260	transfert chirurgical opéré
+T12	DEVI 266 296	laparotomie abdomino-pelvienne
+T13	ANAT 278 296	abdomino-pelvienne
+T14	PROC 302 356	curage ganglionnaire cervico-vestibulaire locorégional
+T15	ANAT 309 356	ganglionnaire cervico-vestibulaire locorégional
+T16	TEMP 466 480	depuis 3 jours
+T17	MEAS 500 511	progressive
+T18	MEAS 521 544	de plus en plus pesants
+T19	MEAS 556 562	rapide
+T20	Concept_Idea 566 572	taille
+T21	DISO 594 622	lésions cutanées purpuriques
+T22	DISO 646 691	ictère hémorragique pérituberculeux nécrolysé
+T23	ANAT 713 730	cavité abdominale
+T24	MEAS 740 744	1 cm
+T25	Concept_Idea 748 757	grand axe
+T26	ANAT 779 806	structures utéro-ovariennes
+T27	DISO 886 915	mélanome kystique endométrial
+T28	ANAT 931 950	organes intestinaux
+T29	DISO 975 1003	souffrance cardiovasculaires
+T30	ANAT 986 1003	cardiovasculaires
+T31	DISO 1028 1057	symptomatologie fonctionnelle
+T32	PROC 1140 1154	interrogatoire

@@ -1,0 +1,36 @@
+T1	LIVB 4 9	femme
+T2	PHEN 26 35	grossesse
+T3	PROC 40 46	suivie
+T4	TEMP 57 62	32 SA
+T5	DISO 92 121	douleurs abdomino- pelviennes
+T6	ANAT 101 121	abdomino- pelviennes
+T7	TEMP 131 145	depuis 5 jours
+T8	PROC 149 170	échographie pelvienne
+T9	ANAT 161 170	pelvienne
+T10	DISO 184 218	hypertrophie utérine hypertrophiée
+T11	ANAT 197 218	utérine hypertrophiée
+T12	MEAS 228 232	5 cm
+T13	Concept_Idea 236 245	grand axe
+T14	ANAT 274 290	paroi abdominale
+T15	DISO 304 334	hypotonie utérine hypotrophiés
+T16	ANAT 314 334	utérine hypotrophiés
+T17	ANAT 355 387	fosse iliaque postérieure droite
+T18	Localization 369 387	postérieure droite
+T19	DISO 403 452	adénopathie ombilico-pelvienne hypo péristaltique
+T20	ANAT 415 452	ombilico-pelvienne hypo péristaltique
+T21	DISO 462 470	méningée
+T22	LIVB 495 503	patiente
+T23	DISO 513 547	localisations hydrosalpinctoriales
+T24	DISO 572 594	masse tumorale maligne
+T25	ANAT 621 642	muscles utéro-vaginal
+T26	MEAS 652 663	plus mobile
+T27	PROC 670 706	contractions utérines intravaginales
+T28	ANAT 683 706	utérines intravaginales
+T29	MEAS 718 733	progressivement
+T30	Concept_Idea 737 743	taille
+T31	PROC 804 824	reprise chirurgicale
+T32	PROC 837 884	curage ganglionnaire ganglionnaire locorégional
+T33	ANAT 844 884	ganglionnaire ganglionnaire locorégional
+T34	DISO 989 1006	rupture ovarienne
+T35	ANAT 997 1006	ovarienne
+T36	DISO 1019 1050	complications thromboemboliques

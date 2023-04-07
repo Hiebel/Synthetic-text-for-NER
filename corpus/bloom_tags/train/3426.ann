@@ -1,0 +1,31 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	PHEN 32 38	pesant
+T4	MEAS 39 44	45 kg
+T5	CHEM 46 63	Chlorprométhasone
+T6	DISO 97 119	hypotension pulmonaire
+T7	ANAT 109 119	pulmonaire
+T8	DISO 124 148	tuberculose tuberculeuse
+T9	PROC 167 182	hospitalisation
+T10	Hospital 186 199	service d'ORL
+T11	PROC 205 238	traitement antibacillaire curatif
+T12	CHEM 249 263	rifamuconazole
+T13	DOSE 268 277	400 mg/kg
+T14	TEMP 277 279	/j
+T15	MODE 313 323	voie orale
+T16	DEVI 339 357	bandage compressif
+T17	PROC 371 405	transfusion sanguine intraveineuse
+T18	DISO 491 510	syndrome infectieux
+T19	LIVB 532 540	patiente
+T20	LIVB 626 633	famille
+T21	PROC 713 732	bilan préopératoire
+T22	PROC 773 791	échocardiographies
+T23	DISO 817 895	hyperpression pulmonaire basithoracique latéro-diploblicitaire hypertrophiante
+T25	MEAS 907 922	progressivement
+T26	Concept_Idea 944 963	limite tensionnelle
+T27	PROC 998 1032	ponction pleurale trans-bronchique
+T28	ANAT 1007 1032	pleurale trans-bronchique
+T29	PROC 1051 1066	mesure manuelle
+T30	DISO 1174 1214	hypertension pulmonaire basalithoracique
+T31	ANAT 1187 1214	pulmonaire basalithoracique
+T32	DISO 1272 1312	dyspnée stade II de Balthazar cyanosante

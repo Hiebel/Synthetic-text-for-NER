@@ -1,0 +1,23 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	DISO 42 67	antécédents pathologiques
+T4	MEAS 68 76	notables
+T5	PROC 78 83	admis
+T6	Hospital 88 96	urgences
+T7	DISO 108 125	choc hémorragique
+T8	Concept_Idea 135 157	paramètres tensionnels
+T9	MEAS 160 172	180/100mm Hg
+T10	PHEN 180 190	saturation
+T11	MEAS 193 196	95%
+T12	PROC 200 215	examen clinique
+T13	ANAT 232 239	abdomen
+T14	Concept_Idea 252 258	taille
+T15	ANAT 272 283	flanc droit
+T16	Localization 278 283	droit
+T17	PROC 287 316	échographie abdominopelvienne
+T18	ANAT 299 316	abdominopelvienne
+T19	PROC 352 374	consultation prénatale
+T20	DISO 401 449	masse tumorale péritonéale latéralisée hypodense
+T21	MEAS 459 464	30 cm
+T22	Concept_Idea 468 477	grand axe
+T23	CHEM 502 522	produit de contraste

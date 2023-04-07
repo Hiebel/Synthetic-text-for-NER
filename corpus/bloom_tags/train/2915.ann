@@ -1,0 +1,24 @@
+T1	LIVB 29 37	patiente
+T2	DISO 59 84	antécédents pathologiques
+T3	MEAS 85 97	particuliers
+T4	PROC 99 105	admise
+T5	Hospital 110 118	urgences
+T6	DISO 127 186	syndrome d'épanchement liquidien du membre inférieur gauche
+T7	ANAT 150 159	liquidien
+T8	ANAT 163 186	membre inférieur gauche
+T9	Localization 180 186	gauche
+T10	PHEN 205 217	accouchement
+T11	PROC 221 236	examen clinique
+T12	Concept_Idea 252 267	acuité visuelle
+T13	MEAS 278 285	4/10 cm
+T14	DISO 301 342	œdème paralysithérapeutique scannodéscrit
+T16	PROC 363 387	touchers vasculo-nerveux
+T17	ANAT 372 387	vasculo-nerveux
+T18	PROC 392 422	bilan biologique préopératoire
+T19	PROC 424 443	numération sanguine
+T20	PROC 445 464	protéine C réactive
+T21	PROC 466 481	globules blancs
+T22	PROC 487 514	tomodensitométrie pelvienne
+T23	ANAT 505 514	pelvienne
+T24	CHEM 553 564	tuberculine
+T25	MEAS 578 585	normaux

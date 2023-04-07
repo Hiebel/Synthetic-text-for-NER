@@ -1,0 +1,45 @@
+T1	LIVB 16 24	patiente
+T2	PROC 51 63	hospitalisée
+T3	Hospital 68 93	urgences ophtalmologiques
+T4	DISO 103 140	douleurs thoraciques constrictivantes
+T6	Concept_Idea 149 154	poids
+T7	MEAS 158 163	50 kg
+T8	PROC 167 182	examen clinique
+T9	DISO 199 220	détresse respiratoire
+T10	PHEN 208 220	respiratoire
+T11	TEMP 230 246	depuis deux mois
+T12	DISO 262 268	fièvre
+T13	PROC 282 304	radiographie du thorax
+T14	ANAT 298 304	thorax
+T15	MEAS 311 318	normale
+T16	PROC 324 357	échocardiographie transthoracique
+T17	ANAT 342 357	transthoracique
+T18	PROC 359 362	ETT
+T19	DISO 377 409	tachycardie ventriculo-rythmique
+T20	ANAT 389 409	ventriculo-rythmique
+T21	MEAS 422 440	120 battements/min
+T22	PROC 465 481	examen somatique
+T23	DISO 492 503	contributif
+T24	DISO 530 552	hémoptysies purulentes
+T25	MEAS 567 573	rapide
+T26	DISO 628 676	syndromes d'épanchement liquidien périthoracique
+T27	ANAT 652 676	liquidien périthoracique
+T28	DISO 678 729	épanchement parenchymateux liquidien basithoracique
+T29	ANAT 690 729	parenchymateux liquidien basithoracique
+T30	DISO 740 763	dilatations bronchiques
+T31	ANAT 752 763	bronchiques
+T32	Concept_Idea 820 832	état général
+T33	MEAS 881 899	10 tours de spires
+T34	PROC 914 945	auscultation pleuro-pulmonaires
+T35	ANAT 927 945	pleuro-pulmonaires
+T36	DISO 967 987	signes pathologiques
+T37	DISO 1031 1053	masse tumorale maligne
+T38	Localization 1090 1100	bilatérale
+T39	DISO 1128 1158	troubles hydro-électrolytiques
+T40	DISO 1164 1189	atteinte vasculo-nerveuse
+T41	ANAT 1173 1189	vasculo-nerveuse
+T42	DISO 1277 1314	insufflation intracrânio-fasciculante
+T43	ANAT 1290 1314	intracrânio-fasciculante
+T44	DISO 1346 1370	carcinome basithoracique
+T45	ANAT 1356 1370	basithoracique
+T46	DISO 1391 1420	maladie cœliaque hypertensive

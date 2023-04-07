@@ -1,0 +1,58 @@
+T1	LIVB 4 9	fille
+T2	TEMP 18 23	3 ans
+T3	DISO 58 109	syndrome d'épanchement intrapéricardique péritonéal
+T4	ANAT 81 109	intrapéricardique péritonéal
+T5	DISO 114 150	kératodermie érythémateuse chronique
+T6	TEMP 160 171	depuis 1 an
+T7	LIVB 178 180	sa
+T8	PROC 181 193	consultation
+T9	Hospital 198 223	urgences ophtalmologiques
+T10	PROC 262 290	investigations radiologiques
+T11	PROC 292 307	ophtalmologique
+T12	PROC 311 325	radiomédiative
+T13	PROC 357 391	écho-Doppler cardio-vasculonerveux
+T14	ANAT 370 391	cardio-vasculonerveux
+T15	DISO 453 468	symptomatologie
+T16	LIVB 487 499	petite fille
+T17	MEAS 511 518	normale
+T18	DISO 539 559	signes neurorétinaux
+T19	DISO 586 602	maladie cœliaque
+T20	DISO 609 636	dégénérescence choroïdienne
+T21	ANAT 624 636	choroïdienne
+T22	PROC 649 670	électroneuromyogramme
+T23	DISO 692 718	troubles sensitivomotrices
+T24	DISO 764 774	myasthénie
+T25	ANAT 846 869	ventriculo-hypophysaire
+T26	Localization 874 884	bilatérale
+T27	PROC 926 941	étude génétique
+T28	PROC 957 977	reprise chirurgicale
+T29	MEAS 992 1000	négative
+T30	DISO 1014 1038	protéines CXX homozygote
+T31	DISO 1052 1081	glycoprotéinorachie nodulaire
+T32	DISO 1094 1119	pathogénicité métabolique
+T33	DISO 1200 1222	malignité métastatique
+T34	DISO 1253 1265	hypoglycémie
+T35	MEAS 1280 1292	progressante
+T36	DISO 1308 1333	hyponatrémie hypertensive
+T37	CHEM 1374 1387	noradrénaline
+T38	LIVB 1400 1404	elle
+T39	DISO 1461 1479	tension artérielle
+T40	ANAT 1469 1479	artérielle
+T41	DISO 1539 1547	méningée
+T42	PROC 1668 1688	examen gynécologique
+T43	DEVI 1836 1862	bandelettes d'invagination
+T44	MEAS 1928 1934	facile
+T45	PROC 2055 2083	explorations complémentaires
+T46	PHEN 2153 2174	grossesse mono-fœtale
+T47	MEAS 2227 2239	2900 grammes
+T48	MEAS 2278 2292	deuxième degré
+T49	PROC 2360 2412	technique fécondation in vitro » -« FIV artificielle
+T50	DOSE 2413 2428	400 millilitres
+T51	PROC 2460 2468	injectés
+T52	DISO 2498 2531	syndrome inflammatoire biologique
+T53	Concept_Idea 2533 2535	VS
+T54	DISO 2552 2568	hyperleucocytose
+T55	DISO 2597 2671	épanchement péricardique liquidien antéro-ventriculopéritonéal systématisé
+T57	PROC 2691 2709	traitement curatif
+T58	DISO 2768 2791	symptômes neurologiques
+T59	DISO 2814 2880	paralysie du sinus caverneux cervico-thyro-dorsiflexion symétrique

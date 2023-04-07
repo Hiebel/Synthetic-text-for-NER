@@ -1,0 +1,53 @@
+T1	PROC 18 29	observation
+T2	LIVB 35 42	patient
+T3	PROC 79 113	radiothérapie palliative adjuvante
+T4	DEVI 162 177	médiastinotrope
+T5	MEAS 260 266	45 GBU
+T6	DISO 290 311	récidive métastatique
+T7	DISO 318 350	locorégionalisations secondaires
+T8	PROC 366 388	pronostic locorégional
+T9	PROC 447 475	radiothérapie complémentaire
+T10	PROC 935 954	rééducation motrice
+T11	Concept_Idea 958 968	indication
+T12	PROC 972 994	traitement chirurgical
+T13	PROC 1016 1038	recherche étiologiques
+T14	Hospital 1066 1073	milieux
+T15	TEMP 1088 1102	deuxième temps
+T16	PROC 1107 1132	scanner abdomino- pelvien
+T17	ANAT 1115 1132	abdomino- pelvien
+T18	PROC 1146 1172	contraception progestative
+T19	DISO 1192 1206	masse kystique
+T20	DISO 1239 1248	anomalies
+T21	PROC 1252 1273	échographie pelvienne
+T22	ANAT 1264 1273	pelvienne
+T23	PROC 1303 1313	correction
+T24	DISO 1347 1373	masse tissulaire hypodense
+T25	MEAS 1383 1388	22 cm
+T26	Concept_Idea 1392 1401	grand axe
+T27	ANAT 1427 1445	organes hépatiques
+T28	ANAT 1477 1502	parties molles cervicales
+T29	DISO 1508 1559	adénopathies hépato-pancréatiques péripéritoineuses
+T30	ANAT 1521 1559	hépato-pancréatiques péripéritoineuses
+T31	DISO 1588 1621	résidu lésionnel hypervascularisé
+T32	Localization 1623 1630	En haut
+T33	DISO 1638 1661	masse hypo vascularisée
+T34	MEAS 1677 1682	15 cm
+T35	Concept_Idea 1685 1691	aspect
+T36	MEAS 1692 1700	homogène
+T37	MEAS 1711 1728	bien circonscrite
+T38	ANAT 1741 1758	hypochondre droit
+T39	Localization 1753 1758	droit
+T40	DISO 1771 1800	plage anévrismal systématisée
+T41	DISO 1824 1843	paragangliome malin
+T42	DISO 1856 1883	métastases endovésiculaires
+T43	LIVB 1902 1910	patiente
+T44	DISO 1976 2026	syndrome ganglionnaire péri-métastatique nodulaire
+T45	DISO 2055 2096	lipome séreux épithélio-gigantocellulaire
+T46	ANAT 2107 2135	endovésiculaire pancréatique
+T47	TEMP 2180 2193	depuis 10 ans
+T48	MEAS 2208 2236	de plus en plus prurigineuse
+T49	DISO 2260 2286	polyarthrite érythémateuse
+T50	ANAT 2307 2325	muqueuses cutanées
+T51	DISO 2395 2422	maladie purpurique bulleuse
+T52	MEAS 2434 2449	progressivement
+T53	Concept_Idea 2453 2459	taille

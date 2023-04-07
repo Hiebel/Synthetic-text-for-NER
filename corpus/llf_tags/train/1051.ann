@@ -1,0 +1,58 @@
+T1	LIVB 14 21	patient
+T2	Concept_Idea 42 53	antécédents
+T3	MEAS 54 66	particuliers
+T4	DISO 101 110	stérilité
+T5	LIVB 114 116	il
+T6	LIVB 128 130	sa
+T7	LIVB 131 135	mère
+T8	PHEN 152 161	grossesse
+T9	Concept_Idea 178 181	âge
+T10	TEMP 185 191	6 mois
+T11	PROC 198 214	bilan biologique
+T12	PROC 243 282	taux des dérivés méthoxylés parentéraux
+T13	CHEM 284 315	amoxicilline acide clavulanique
+T14	PROC 322 346	échographie obstétricale
+T15	ANAT 404 419	annexes fœtales
+T16	ANAT 438 456	tronc crico-caecal
+T17	MEAS 493 500	simples
+T18	PROC 506 521	corticothérapie
+T19	PROC 535 559	laparotomie exploratrice
+T20	PROC 586 600	reconstruction
+T21	LIVB 609 615	malade
+T22	DISO 634 651	récidive caséeuse
+T23	PROC 688 705	scanner abdominal
+T24	ANAT 696 705	abdominal
+T25	DISO 734 748	signe clinique
+T26	DISO 765 784	troubles trophiques
+T27	DISO 792 816	pneumopéritoine néonatal
+T28	PROC 837 865	consultation préanesthésique
+T29	Hospital 874 904	centre hospitalier pédiatrique
+T30	LIVB 941 946	fille
+T31	TEMP 955 961	10 ans
+T32	PROC 966 976	transfusée
+T33	DEVI 996 1014	cathéter anévrysme
+T34	MEAS 1090 1100	16 x 16 cm
+T35	DISO 1130 1181	masse cervicale pelvienne hétéroduodénale étranglée
+T36	ANAT 1200 1206	thorax
+T37	MEAS 1215 1228	8 centimètres
+T38	Localization 1283 1307	paroi thoracique interne
+T39	ANAT 1326 1345	nerf grand pectoral
+T40	ANAT 1367 1398	parties molles antrocephaliques
+T41	ANAT 1431 1449	muscles abdominaux
+T42	PROC 1461 1481	libération partielle
+T43	PROC 1514 1539	étude cytobactériologique
+T44	CHEM 1603 1648	methylhydrocannabinol acétyle glutaméthrazole
+T45	PROC 2400 2421	recherche étiologique
+T46	DISO 2528 2547	symptômes cliniques
+T47	Concept_Idea 2560 2587	aspect clinico-radiologique
+T48	DISO 2641 2665	maladie thromboembolique
+T49	DISO 2682 2708	cardiomyopathie ischémique
+T50	LIVB 2867 2875	patients
+T51	PROC 2890 2918	corticothérapie concomitante
+T52	PROC 2925 2944	traitement adjuvant
+T53	Concept_Idea 2953 2966	effet placebo
+T54	MEAS 2989 2997	0,3mg/kg
+T55	TEMP 3014 3024	4 ème jour
+T56	PROC 3028 3050	traitement chirurgical
+T57	Concept_Idea 3065 3087	paramètres biologiques
+T58	PROC 3132 3153	étude épidémiologique

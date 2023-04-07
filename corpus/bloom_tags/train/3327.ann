@@ -1,0 +1,27 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	Concept_Idea 41 52	antécédents
+T4	MEAS 53 65	particuliers
+T5	PROC 69 84	examen clinique
+T6	PROC 89 98	admission
+T7	Hospital 102 117	bloc opératoire
+T8	LIVB 130 137	patient
+T9	MEAS 141 144	bon
+T10	Concept_Idea 145 157	état général
+T11	DISO 165 199	sensibilité des membres inférieurs
+T12	ANAT 181 199	membres inférieurs
+T13	TEMP 209 225	depuis deux mois
+T14	PROC 230 249	bilan préopératoire
+T15	PROC 267 298	échographie abdomino- pelvienne
+T16	ANAT 279 298	abdomino- pelvienne
+T17	DISO 323 360	masse tissulaire latéroutérine droite
+T18	Localization 354 360	droite
+T19	MEAS 370 375	22 cm
+T20	MEAS 380 385	12 cm
+T21	Concept_Idea 388 394	aspect
+T22	MEAS 395 405	hétérogène
+T23	ANAT 421 441	fosse iliaque droite
+T24	Localization 435 441	droite
+T25	DISO 475 508	carcinome épidermoïde du grêlique
+T27	ANAT 500 508	grêlique
+T28	CHEM 510 514	CECM

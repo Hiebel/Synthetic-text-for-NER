@@ -1,0 +1,39 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	8 ans
+T3	DISO 40 65	antécédents pathologiques
+T4	MEAS 66 78	particuliers
+T5	PROC 80 84	reçu
+T6	Hospital 89 110	urgences pédiatriques
+T7	Hospital 114 163	centre hospitalier universitaire Hassan II de Fès
+T8	Hospital 165 171	CHU-FS
+T9	DISO 197 218	détresse respiratoire
+T10	PHEN 206 218	respiratoire
+T11	MEAS 242 253	progressive
+T12	PROC 257 272	examen clinique
+T13	DISO 284 301	dyspnée sifflante
+T14	TEMP 323 337	depuis 3 jours
+T15	DISO 368 408	distension trachéo-laryngo-oesophagienne
+T16	ANAT 379 408	trachéo-laryngo-oesophagienne
+T17	MEAS 428 439	brutalement
+T18	Concept_Idea 443 449	volume
+T19	DISO 462 476	craniosténoses
+T20	MEAS 502 511	violacées
+T21	PROC 525 564	radiographie thoracique anté-thoracique
+T22	ANAT 538 564	thoracique anté-thoracique
+T23	DISO 596 648	dilatation médiastin tracheo médiastin hypertrophiée
+T25	LIVB 675 683	patiente
+T26	DISO 688 741	syndrome d'épanchement pleural liquidien érythémateur
+T27	ANAT 711 741	pleural liquidien érythémateur
+T28	DISO 761 792	anomalies cardiovasculo-nerveux
+T29	ANAT 771 792	cardiovasculo-nerveux
+T30	DISO 810 836	troubles sensitivo-moteurs
+T31	DISO 847 873	malformations métaboliques
+T32	Concept_Idea 979 991	état général
+T33	DISO 1043 1062	traumatisme crânien
+T34	DISO 1079 1098	empyème sous-cutané
+T35	ANAT 1087 1098	sous-cutané
+T36	DISO 1144 1166	douleur intracrânienne
+T37	ANAT 1152 1166	intracrânienne
+T38	MEAS 1214 1231	de façon exagérée
+T39	Concept_Idea 1235 1241	volume
+T40	DISO 1269 1290	perte de connaissance

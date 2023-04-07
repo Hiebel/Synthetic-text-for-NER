@@ -1,0 +1,68 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 19 25	17 ans
+T3	PROC 30 36	admise
+T4	Hospital 41 49	urgences
+T5	DISO 68 91	agitation psychomotrice
+T6	TEMP 101 122	depuis plusieurs mois
+T7	DISO 153 159	fièvre
+T8	DISO 174 180	sueurs
+T9	DISO 212 226	déficit visuel
+T10	MEAS 241 247	brutal
+T11	MODE 273 283	voie orale
+T12	CHEM 294 307	sulfasalazine
+T13	CHEM 308 320	prednisolone
+T14	CHEM 323 340	méthylphénidazole
+T15	DOSE 341 348	20mg/kg
+T16	TEMP 348 350	/j
+T17	CHEM 355 373	hydroxychloroquine
+T18	DOSE 375 382	2 mg/kg
+T19	TEMP 382 384	/j
+T20	PROC 389 422	auscultation cardio-vasculculaire
+T21	ANAT 402 422	cardio-vasculculaire
+T22	DISO 447 506	sensibilité thoracique angulo-myxo-diploïdale hypertrophiée
+T24	ANAT 531 539	poignets
+T25	DISO 552 608	traumatisme artériolo-interstitiel cutanéo-bronchodilaté
+T27	DISO 683 694	néoplasique
+T28	PHEN 699 720	fonction respiratoire
+T29	ANAT 708 720	respiratoire
+T30	MEAS 727 734	altérée
+T31	DISO 768 789	tuberculose purulante
+T32	DISO 796 819	diabète hypoglycémateux
+T33	DISO 843 858	symptomatologie
+T34	PROC 874 896	examen ophtalmologique
+T35	MEAS 915 921	normal
+T36	DISO 969 984	symptomatologie
+T37	DISO 1032 1065	lésions prurigineuses sécrétantes
+T38	PROC 1084 1099	prise en charge
+T39	PROC 1113 1151	rhabdomucellose érythémato-néphritique
+T40	PROC 1235 1253	traitement curatif
+T41	DISO 1396 1413	céphalées fébrile
+T42	DISO 1459 1493	complications thromboemboliquantes
+T43	DISO 1508 1535	hypercoagulabilité syndrome
+T44	DISO 1557 1571	thrombophilies
+T45	LIVB 1610 1616	enfant
+T46	DISO 1670 1699	souffrance méningée pariétale
+T47	ANAT 1681 1699	méningée pariétale
+T48	PROC 1716 1741	étude anatomopathologique
+T49	DEVI 1747 1766	microscope portatif
+T50	PROC 1954 1983	prélèvements bactériologiques
+T51	PROC 2026 2048	défense antibacillaire
+T53	PROC 2200 2222	TDM) abdominopelvienne
+T54	ANAT 2205 2222	abdominopelvienne
+T55	DISO 2239 2286	métastase pancréatico-ovarienne latérale gauche
+T56	ANAT 2249 2286	pancréatico-ovarienne latérale gauche
+T57	Localization 2280 2286	gauche
+T58	Concept_Idea 2289 2295	aspect
+T59	MEAS 2296 2306	hétérogène
+T60	MEAS 2317 2321	12cm
+T61	MEAS 2326 2330	7 cm
+T62	ANAT 2365 2384	parenchyme gynécaux
+T63	ANAT 2392 2419	sinus caverneux péritonéaux
+T64	DISO 2439 2466	épanchement intrapéritonéal
+T65	ANAT 2451 2466	intrapéritonéal
+T66	ANAT 2505 2524	vésicules biliaires
+T67	DISO 2537 2562	localisations secondaires
+T68	PROC 2568 2591	radiothérapie adjuvante
+T69	DOSE 2625 2629	30Gy
+T70	TEMP 2631 2646	le premier jour
+T71	TEMP 2652 2665	deuxième fois

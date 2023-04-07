@@ -1,0 +1,111 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 65	antécédents pathologique
+T3	MEAS 66 78	particuliers
+T4	DISO 98 107	dysphagie
+T5	DISO 128 152	hallucinations visuelles
+T6	PROC 156 162	examen
+T7	ANAT 173 180	abdomen
+T8	MEAS 181 189	sensible
+T9	Concept_Idea 194 200	effort
+T10	PHEN 208 228	récepteurs hormonaux
+T11	MEAS 229 237	négatifs
+T12	PROC 253 268	examen clinique
+T13	DISO 278 291	particularité
+T14	PROC 296 313	tomodensitométrie
+T15	PROC 315 355	TDM) cervico-thoraco- abdomino-pelvienne
+T16	ANAT 320 355	cervico-thoraco- abdomino-pelvienne
+T17	DISO 383 445	processus tissulaire anéchogène du squelette thoracique gauche
+T18	ANAT 418 445	squelette thoracique gauche
+T19	Localization 439 445	gauche
+T20	MEAS 455 459	5 cm
+T21	Concept_Idea 463 471	diamètre
+T22	ANAT 562 598	plan postéro-latéral supérieur droit
+T23	Localization 593 598	droit
+T24	ANAT 616 646	symphyse lombaire homolatérale
+T25	Localization 634 646	homolatérale
+T26	ANAT 666 712	troncs supra-axillaires controlatéraux gauches
+T27	Localization 705 712	gauches
+T28	MEAS 736 741	40 mm
+T29	MEAS 745 750	90 mm
+T30	DISO 854 859	masse
+T31	PROC 864 881	bilan étiologique
+T32	DISO 901 937	maladie cœliaque maligne congénitale
+T33	DISO 1063 1098	syndrome infectieux polymalformatif
+T34	PROC 1184 1213	prise en charge thérapeutique
+T35	PROC 1245 1273	antibiothérapie probabiliste
+T36	CHEM 1276 1286	céfotaxime
+T37	CHEM 1289 1302	acide folique
+T38	CHEM 1305 1320	pénicilline B12
+T39	CHEM 1323 1353	rifampicine acide clavulanique
+T40	CHEM 1356 1368	pyrazinamide
+T41	CHEM 1371 1384	métronidazole
+T42	CHEM 1387 1398	vincristine
+T43	CHEM 1401 1411	ethambutol
+T44	CHEM 1414 1427	dexaméthasone
+T45	CHEM 1430 1440	propanolol
+T46	CHEM 1443 1457	chlorpromazine
+T47	CHEM 1460 1481	aminosides méthoxylés
+T48	CHEM 1484 1509	neuroleptides tricyclique
+T49	CHEM 1512 1523	néostigmine
+T50	CHEM 1526 1537	monoclonale
+T51	CHEM 1540 1551	tétrazoline
+T52	CHEM 1554 1569	calcium glucosé
+T53	CHEM 1572 1581	potassium
+T54	CHEM 1584 1599	hypertriglycine
+T55	CHEM 1602 1612	stramonium
+T56	CHEM 1615 1625	nifédipine
+T57	CHEM 1628 1637	éthiamine
+T58	CHEM 1640 1652	prédnisolone
+T59	CHEM 1655 1672	héparine standard
+T60	CHEM 1675 1685	isoniazolé
+T61	CHEM 1688 1698	méthyldopa
+T62	CHEM 1701 1721	halopéridol acétique
+T63	CHEM 1724 1744	carbonate de calcium
+T64	CHEM 1747 1761	ferrocortisone
+T65	CHEM 1764 1777	métaliplatine
+T66	CHEM 1780 1791	nicardipine
+T67	CHEM 1794 1808	hydrocortisone
+T68	CHEM 1811 1844	fluoroacétyle dihydroxyprogènique
+T69	CHEM 1847 1857	furosémide
+T70	CHEM 1860 1871	ténoflurane
+T71	CHEM 1874 1884	antalgique
+T72	CHEM 1887 1900	noradrénaline
+T73	CHEM 1903 1924	érythromycine sodique
+T74	CHEM 1927 1941	correctiférone
+T75	CHEM 1944 1953	imipenème
+T76	CHEM 1956 1967	gentamidile
+T77	CHEM 1970 1986	immunoglobulines
+T78	CHEM 1989 2001	anxiolytique
+T79	CHEM 2004 2027	atropine bêtalactamines
+T80	CHEM 2030 2050	cytarabine conjuguée
+T81	CHEM 2053 2081	indométhylamine recombinante
+T82	CHEM 2084 2098	ciprofloxacine
+T83	CHEM 2101 2128	polynucléaires intraveineux
+T84	CHEM 2131 2163	adriamycine basale hydrosolubles
+T85	CHEM 2166 2175	quinidine
+T86	CHEM 2178 2208	oxygénophospholipasesulfamides
+T87	CHEM 2211 2236	rhamnaphtalène substituée
+T89	CHEM 2251 2268	rituximabouracile
+T90	DISO 2295 2319	symptômes psychiatriques
+T91	LIVB 2324 2331	patient
+T92	PROC 2347 2362	corticothérapie
+T93	Concept_Idea 2368 2379	dose totale
+T94	DOSE 2383 2389	3mg/kg
+T95	TEMP 2389 2391	/j
+T96	Concept_Idea 2414 2422	clinique
+T97	Concept_Idea 2426 2436	biologique
+T98	PROC 2454 2459	suivi
+T99	Concept_Idea 2504 2526	standard psychomotrice
+T100	DISO 2749 2766	trouble bipolaire
+T101	LIVB 2775 2781	malade
+T102	MEAS 2809 2813	deux
+T103	ANAT 2814 2831	psyches centrales
+T104	LIVB 2842 2849	patient
+T105	Hospital 2878 2897	urgence pédiatrique
+T106	PROC 2904 2939	soins intensifs neuropsychiatriques
+T107	PROC 2953 2985	rééducation motrice diagnostique
+T108	DISO 3080 3119	accident vasculaire cérébral ischémique
+T109	DEVI 3148 3162	bloc aspiratif
+T110	PHEN 3415 3424	grossesse
+T111	TEMP 3433 3444	18 semaines
+T112	Concept_Idea 3891 3904	vie affective

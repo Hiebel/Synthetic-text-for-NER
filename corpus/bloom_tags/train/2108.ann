@@ -1,0 +1,15 @@
+T1	LIVB 4 12	patiente
+T2	PROC 32 44	hospitalisée
+T3	DISO 82 94	pathologique
+T4	TEMP 104 120	depuis deux mois
+T5	MEAS 135 146	progressive
+T6	DISO 167 177	dyspnéique
+T7	MEAS 189 200	massivement
+T8	Concept_Idea 204 210	taille
+T9	MEAS 222 226	90cm
+T10	MEAS 229 234	120cm
+T11	Concept_Idea 258 268	profondeur
+T12	MEAS 324 336	2 mètre cube
+T13	PROC 341 356	examen physique
+T14	DISO 373 394	détresse respiratoire
+T15	PHEN 382 394	respiratoire

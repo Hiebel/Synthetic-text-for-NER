@@ -1,0 +1,36 @@
+T1	LIVB 29 37	patiente
+T2	MEAS 54 63	nullipare
+T3	Concept_Idea 70 81	antécédents
+T4	MEAS 82 94	particuliers
+T5	DISO 114 142	douleurs abdomino-pelviennes
+T6	ANAT 123 142	abdomino-pelviennes
+T7	TEMP 152 165	depuis 3 mois
+T8	PROC 169 184	examen clinique
+T9	LIVB 196 204	patiente
+T10	MEAS 208 211	bon
+T11	Concept_Idea 212 224	état général
+T12	PHEN 233 238	pouls
+T13	MEAS 241 246	75bpm
+T14	DEVI 254 272	tension artérielle
+T15	ANAT 262 272	artérielle
+T16	MEAS 275 287	135/100 mmhg
+T17	ANAT 301 323	membre inférieur droit
+T18	Localization 318 323	droit
+T19	PROC 328 355	numération formule sanguine
+T20	PROC 357 360	NFS
+T21	MEAS 368 375	normale
+T22	PROC 389 408	protéine C réactive
+T23	PROC 410 413	CRP
+T24	PROC 419 455	tomodensitométrie abdomino-pelvienne
+T25	ANAT 437 455	abdomino-pelvienne
+T27	ANAT 557 576	vésicules biliaires
+T28	MEAS 586 591	32 cm
+T29	Concept_Idea 595 604	grand axe
+T30	MEAS 609 614	23 cm
+T31	Concept_Idea 618 627	petit axe
+T32	ANAT 648 657	péritoine
+T33	PROC 674 683	injection
+T34	CHEM 687 707	produit de contraste
+T35	DISO 734 773	carcinome épithélio-gigalo-métastatique
+T36	ANAT 744 773	épithélio-gigalo-métastatique
+T37	DISO 783 806	adénocarcinose kystique

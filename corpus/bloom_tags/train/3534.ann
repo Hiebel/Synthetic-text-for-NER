@@ -1,0 +1,37 @@
+T1	LIVB 28 35	patient
+T2	DISO 93 111	diabète hypertendu
+T3	DISO 116 137	hypothalamie primaire
+T4	DISO 150 203	hyperparathyroïdie hypochirurgie ostéorénulonibulaire
+T5	DISO 217 244	tuberculose pauciscléridale
+T6	PROC 249 256	traitée
+T7	PROC 261 305	tomodensitométrie thoraco-abdomino-pelvienne
+T8	ANAT 279 305	thoraco-abdomino-pelvienne
+T12	MEAS 510 518	16/10 cm
+T13	ANAT 550 590	muscles para vertébraux thyroïdien droit
+T14	Localization 585 590	droit
+T15	PROC 616 625	injection
+T16	CHEM 629 649	produit de contraste
+T17	MEAS 659 667	en nappe
+T18	DISO 688 836	adénopathies pariéto-diaphragmatiques cervicophyso-métaphysaires craniopharyngo-cervicales médiastinales angulo-sagittales dorsovésiculocondensantes
+T20	DISO 893 909	nodules arrondis
+T21	DISO 961 987	localisations néoplasiques
+T22	LIVB 1065 1072	dernier
+T23	DISO 1105 1125	maladie neurologique
+T24	DISO 1214 1233	tuméfaction maligne
+T25	PROC 1288 1320	radiothérapie adjuvante curative
+T26	DISO 1357 1390	syndrome d'immunodéficiencehumain
+T27	DISO 1425 1484	symptomatologie érythémato purulente prurigineuse ulcéreuse
+T28	CHEM 1607 1625	méthylprednisolone
+T29	PROC 1696 1716	curage lymphocytaire
+T30	DEVI 1751 1769	moyens biologiques
+T31	LIVB 1819 1827	patients
+T32	PROC 1934 1970	technique transvaginale endoscopique
+T33	DISO 2058 2069	kyste rompu
+T34	DISO 2101 2119	néphropathie aiguë
+T35	CHEM 2149 2163	hydrocortisone
+T36	DOSE 2198 2203	1g/m²
+T37	MEAS 2386 2398	2900 grammes
+T38	Concept_Idea 2455 2463	résultat
+T39	PROC 2467 2484	bilan d'extension
+T40	DISO 2496 2509	particularité
+T41	TEMP 2527 2534	24 mois

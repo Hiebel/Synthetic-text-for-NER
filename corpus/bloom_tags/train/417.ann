@@ -1,0 +1,47 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 37	admise
+T3	Hospital 42 50	urgences
+T4	DISO 60 83	douleurs du sein gauche
+T5	ANAT 72 83	sein gauche
+T6	Localization 77 83	gauche
+T7	TEMP 105 119	depuis 5 jours
+T8	DISO 132 145	particularité
+T9	Concept_Idea 209 221	état général
+T10	DISO 227 241	amaigrissement
+T11	MEAS 252 257	30 kg
+T12	TEMP 269 275	2 mois
+T13	PROC 279 294	examen clinique
+T14	LIVB 306 314	patiente
+T15	Concept_Idea 329 347	plan hémodynamique
+T16	PHEN 349 354	pouls
+T17	MEAS 357 368	85 batt/min
+T18	DEVI 370 379	tachypnée
+T19	MEAS 382 395	70 cycles/min
+T20	DISO 454 547	syndrome d'épanchement liquidien médiastinal basithoracique latéro-supraclaviculaire purulent
+T22	DISO 570 607	distension pleuro-pulmonaire biliaire
+T23	ANAT 581 607	pleuro-pulmonaire biliaire
+T24	DISO 617 629	métastatique
+T25	MEAS 644 650	rapide
+T26	MEAS 660 674	plus accentuée
+T27	LIVB 687 691	elle
+T28	DISO 718 773	adénopathies jugulo-carotidopharyngiennes hypoéchogènes
+T29	ANAT 731 773	jugulo-carotidopharyngiennes hypoéchogènes
+T30	DISO 795 816	troubles hydroaérique
+T31	DISO 892 926	carcinose épidermoïde carciniforme
+T32	ANAT 902 926	épidermoïde carciniforme
+T33	DISO 928 949	paragangliome nécrosé
+T34	DISO 952 1007	méningo-vascularisation tumorale kystique hypertrophiée
+T35	PROC 1014 1029	touchers vagaux
+T36	ANAT 1023 1029	vagaux
+T37	MEAS 1035 1043	présents
+T38	PROC 1075 1094	anesthésie générale
+T39	DISO 1123 1153	masse tissulaire hypogastrique
+T40	MEAS 1163 1166	1cm
+T41	Concept_Idea 1170 1179	grand axe
+T42	PROC 1201 1210	injection
+T43	DOSE 1214 1219	10 mg
+T44	CHEM 1223 1243	produit de contraste
+T45	PROC 1250 1284	tomodensitométrie abdominovaginale
+T46	ANAT 1268 1284	abdominovaginale
+T47	LIVB 1308 1316	patiente
+T48	DISO 1321 1434	dilatation interstitielle sus-rénalienne péritonéale utérine cervicale bilatérale-médianehomolatérale asymétrique

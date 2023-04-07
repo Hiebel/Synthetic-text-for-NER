@@ -1,0 +1,20 @@
+T1	LIVB 29 37	patiente
+T2	PROC 67 73	suivie
+T3	TEMP 83 98	depuis deux ans
+T4	PROC 104 132	régime pauvre en cholestérol
+T5	PROC 134 138	RPTC
+T6	ANAT 155 165	sein droit
+T7	Localization 160 165	droit
+T8	PROC 178 216	ostéotomie prophylactique scannoguidée
+T9	PROC 217 221	SPSG
+T10	PROC 226 261	intradermoréaction à la tuberculine
+T11	CHEM 250 261	tuberculine
+T12	MEAS 268 276	négative
+T13	DISO 300 314	cas similaires
+T14	LIVB 323 330	famille
+T15	DISO 387 419	méningo-fibromatellose purulente
+T16	DISO 535 564	complications postopératoires
+T17	PROC 653 687	radiothérapie palliative adjuvante
+T18	DEVI 792 825	surveillance radiodensitométrique
+T19	PROC 888 915	radio-chirurgie écho-guidée
+T20	PROC 976 1002	reintégration endoscopique

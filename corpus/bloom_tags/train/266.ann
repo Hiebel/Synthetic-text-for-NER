@@ -1,0 +1,41 @@
+T1	LIVB 21 28	patient
+T2	Concept_Idea 49 80	antécédents médico-chirurgicaux
+T3	MEAS 81 89	notables
+T4	PROC 91 96	admis
+T5	Hospital 101 123	urgences chirurgicales
+T6	DISO 151 177	tuméfaction du coude droit
+T7	ANAT 166 177	coude droit
+T8	Localization 172 177	droit
+T9	TEMP 187 203	depuis deux mois
+T10	PROC 208 227	bilan préopératoire
+T11	PROC 246 270	scanner abdomino-pelvien
+T12	ANAT 254 270	abdomino-pelvien
+T13	PROC 276 316	dosage des catécholamines pituitariennes
+T14	PROC 329 347	ionogramme sanguin
+T15	ANAT 340 347	sanguin
+T16	PHEN 367 382	fonction rénale
+T17	ANAT 376 382	rénale
+T18	MEAS 383 390	normale
+T19	PROC 415 431	examen somatique
+T20	MEAS 438 444	normal
+T21	DISO 461 487	envahissement endovaginale
+T22	ANAT 475 487	endovaginale
+T23	DISO 494 529	syndrome d’épanchement intracrânien
+T24	ANAT 517 529	intracrânien
+T25	ANAT 543 561	sinus latéro-cæcal
+T26	DISO 606 623	kystico-rectocèle
+T27	DISO 684 701	évènement tumoral
+T28	LIVB 721 729	patiente
+T29	LIVB 746 749	Son
+T30	PROC 750 768	traitement curatif
+T31	PROC 787 823	radiothérapie encéphalique adjuvante
+T32	PROC 838 876	anesthésie locorégionale intraveineuse
+T33	TEMP 888 907	pendant 24 semaines
+T34	CHEM 964 977	metronidazole
+T35	CHEM 980 993	cisatracurium
+T36	CHEM 996 1007	propranolol
+T37	CHEM 1010 1023	bromocriptine
+T38	PROC 1029 1053	protocole postopératoire
+T39	PROC 1069 1089	thoracoduodilatation
+T40	ANAT 1121 1150	parenchyme bronchobulmonaires
+T41	PROC 1166 1175	greffonné

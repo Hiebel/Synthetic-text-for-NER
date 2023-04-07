@@ -1,0 +1,33 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 43	hospitalisée
+T3	Hospital 47 54	service
+T4	DISO 77 117	douleur abdomino-pelvienne hypertrophiée
+T6	PROC 121 141	examen gynécologique
+T7	DISO 162 226	masse douloureuse du fléchisseur utéro-ombilico-vaginale altérée
+T9	MEAS 236 241	13 cm
+T10	Concept_Idea 245 254	grand axe
+T11	DISO 289 327	épanchement liquidien pérituberculaire
+T12	ANAT 301 327	liquidien pérituberculaire
+T13	PROC 343 359	examen somatique
+T14	DISO 371 384	particularité
+T15	DISO 402 435	syndrome inflammatoire biologique
+T16	PROC 461 497	tomodensitométrie abdomino-pelvienne
+T17	ANAT 479 497	abdomino-pelvienne
+T18	DEVI 512 533	cathéter artériolaire
+T19	ANAT 521 533	artériolaire
+T20	PROC 539 564	chimiothérapie palliative
+T21	DISO 602 628	localisations métastiantes
+T22	PROC 728 737	injection
+T23	CHEM 743 763	sulfate de contraste
+T24	ANAT 781 799	parenchyme ovarien
+T25	DISO 827 872	pneumo-myxome épithélial kystique lithiasique
+T26	LIVB 918 926	patiente
+T27	DISO 967 989	ménétrorragie primaire
+T28	DISO 1094 1124	symptomatologie néphrotropique
+T29	PROC 1150 1167	bilan étiologique
+T30	PROC 1230 1262	investigations pré-anesthésiques
+T31	DISO 1550 1575	maladie thrombo-intensive
+T32	DISO 1577 1603	défibrillation auriculaire
+T33	ANAT 1592 1603	auriculaire
+T34	DISO 1607 1629	hypotension artérielle
+T35	ANAT 1619 1629	artérielle

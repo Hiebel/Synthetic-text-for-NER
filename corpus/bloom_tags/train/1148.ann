@@ -1,0 +1,95 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	DISO 62 83	vertiges hypertensifs
+T4	DISO 111 134	traumatisme oculomoteur
+T5	TEMP 183 188	2 ans
+T6	PROC 194 212	traitement médical
+T7	CHEM 225 234	Clonidine
+T8	CHEM 236 249	Céphalosérine
+T9	CHEM 251 271	Sulfanyl-méthoxazole
+T10	CHEM 273 284	Cyclosérine
+T11	CHEM 286 296	Nifédipine
+T12	CHEM 298 310	Trimétoprime
+T13	CHEM 312 323	Ethionamide
+T14	CHEM 325 346	Gentamiciprofloxacine
+T15	CHEM 348 360	Tétracycline
+T16	CHEM 362 372	Furosémide
+T17	CHEM 374 380	Vit B6
+T18	CHEM 382 393	Rifampicine
+T19	CHEM 395 407	Pyrazinamide
+T20	CHEM 409 422	Erythromycine
+T21	CHEM 424 435	Vinblastine
+T22	CHEM 437 455	Méthylprednisolone
+T23	CHEM 458 466	Aspirine
+T24	CHEM 468 478	Befentanil
+T25	CHEM 480 491	Propranolol
+T26	CHEM 493 504	Luproprolol
+T27	CHEM 506 515	Captopril
+T28	CHEM 517 530	Chlorhexidine
+T29	CHEM 532 544	Simvastatine
+T30	CHEM 546 566	Valproate de méthyle
+T31	CHEM 568 581	Phénobarbital
+T32	LIVB 611 619	patiente
+T33	TEMP 628 634	10 ans
+T34	DISO 657 679	hyperthyroïdie maligne
+T35	PROC 695 717	hystérectomie explorée
+T36	Hospital 879 893	en ambulatoire
+T37	MEAS 934 949	plus marquantes
+T38	DISO 1023 1050	masse abdomino-épigastrique
+T39	ANAT 1029 1050	abdomino-épigastrique
+T40	MEAS 1062 1077	progressivement
+T41	Concept_Idea 1081 1087	volume
+T42	DISO 1108 1131	mâchoires épigastriques
+T43	MEAS 1146 1156	croissante
+T44	DISO 1173 1189	troubles visuels
+T45	DISO 1221 1264	tuméfaction jugulo-carotidienne biloculaire
+T46	ANAT 1233 1264	jugulo-carotidienne biloculaire
+T47	MEAS 1274 1277	5cm
+T48	Concept_Idea 1281 1290	grand axe
+T49	PROC 1388 1418	curage ganglionnaire axillaire
+T50	ANAT 1395 1418	ganglionnaire axillaire
+T51	ANAT 1591 1635	parenchyme plexiforme graisseux mésentérique
+T52	PROC 1713 1735	chirurgie extemporanée
+T53	PROC 1856 1889	échocardiographie transthoracique
+T54	ANAT 1874 1889	transthoracique
+T55	DISO 1911 1994	hypertrophie ventriculaire segmentaire isophasique normo-thoracique hypotricuspulée
+T57	ANAT 2020 2068	thoracique liquidien basithoracique apical droit
+T58	Localization 2063 2068	droit
+T59	DISO 2124 2175	adénocarcinome pléomorphe des vésices œsophagiennes
+T60	ANAT 2154 2175	vésices œsophagiennes
+T61	PROC 2197 2222	intervention chirurgicale
+T62	MODE 2239 2257	voie d'abord orale
+T63	CHEM 2270 2280	Ifosfamide
+T64	CHEM 2285 2299	Ciprofloxacine
+T65	CHEM 2301 2312	Gentamycine
+T66	DOSE 2314 2319	50 mg
+T67	TEMP 2319 2321	/h
+T68	CHEM 2324 2335	Cyclosérine
+T69	DOSE 2337 2343	1mg/kg
+T70	TEMP 2343 2345	/j
+T71	CHEM 2348 2359	Methoprolol
+T72	DOSE 2361 2366	20 mg
+T73	TEMP 2366 2368	/j
+T74	CHEM 2371 2380	Captopril
+T75	DOSE 2382 2388	100 mg
+T76	TEMP 2388 2390	/j
+T77	CHEM 2393 2401	Lévodopa
+T78	DOSE 2403 2410	2 mg/kg
+T79	TEMP 2410 2412	/j
+T80	CHEM 2415 2425	Sufentanil
+T81	DOSE 2427 2436	0,4 µg/kg
+T82	TEMP 2436 2442	/heure
+T83	CHEM 2450 2458	propofol
+T84	LIVB 2460 2464	Nous
+T85	PROC 2482 2537	prélèvement liquido-liquide péritonéal transoesophagien
+T86	ANAT 2494 2537	liquido-liquide péritonéal transoesophagien
+T87	PROC 2547 2554	biopsie
+T88	PROC 2559 2569	diagnostic
+T89	DISO 2595 2645	carcinose tissulaire kystique érythème prurigineux
+T90	ANAT 2605 2615	tissulaire
+T91	ANAT 2658 2676	greffon ombilicale
+T92	DISO 2692 2712	prise médicamenteuse
+T93	DISO 2719 2735	rhabdomyosarcome
+T94	LIVB 2747 2755	patiente
+T95	PROC 2768 2808	bilan d'immuno-hormonothérapie adjuvante
+T96	PROC 2833 2867	traitement substitutif étiologique

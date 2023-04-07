@@ -1,0 +1,12 @@
+T1	LIVB 19 26	patient
+T2	PROC 42 46	reçu
+T3	Hospital 50 69	service d'oncologie
+T4	DISO 78 99	carcinome du pancréas
+T5	ANAT 91 99	pancréas
+T6	PROC 104 123	bilan préopératoire
+T7	PROC 146 183	tomodensitométrie abdomino- pelvienne
+T8	ANAT 164 183	abdomino- pelvienne
+T9	Concept_Idea 208 214	aspect
+T10	DISO 221 285	lithiase hydronéphriculaire des artères rénales inféro-latérales
+T12	LIVB 318 325	patient
+T13	MEAS 330 334	deux

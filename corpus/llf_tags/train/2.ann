@@ -1,0 +1,21 @@
+T1	LIVB 16 27	jeune femme
+T2	MEAS 65 69	cinq
+T3	LIVB 70 77	enfants
+T4	PROC 87 93	suivis
+T5	PROC 99 127	corticothérapie substitutive
+T6	CHEM 129 139	isoniazide
+T7	CHEM 142 158	cyclophosphamide
+T8	LIVB 219 224	femme
+T9	PROC 248 270	consultation prénatale
+T10	PROC 280 302	contrôle gynécologique
+T11	PROC 323 347	prise en charge médicale
+T12	PROC 381 396	examen clinique
+T13	LIVB 431 437	enfant
+T14	DISO 467 507	hypertrophie gonadotrophique congénitale
+T15	PHEN 523 543	grossesse monofœtale
+T16	PROC 640 673	enfance jusqu'au sevrage scolaire
+T17	PROC 678 695	bilan étiologique
+T18	DISO 740 790	gynécomastie primaire mucocardiaque gestationnelle
+T19	Concept_Idea 881 901	aspect morphologique
+T20	Concept_Idea 993 1023	caractères psychopathologiques
+T21	TEMP 1128 1138	7 semaines

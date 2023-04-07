@@ -1,0 +1,44 @@
+T1	LIVB 3 13	nouveau-né
+T2	TEMP 31 43	actuellement
+T3	TEMP 52 58	un ans
+T4	DISO 79 115	dépression du membre inférieur droit
+T5	ANAT 93 115	membre inférieur droit
+T6	Localization 110 115	droit
+T7	DISO 131 158	polynucléaires neutrophiles
+T8	DISO 175 194	pancréatite stade E
+T9	PROC 198 217	examen neurologique
+T10	DISO 227 241	particularités
+T11	DISO 258 283	atteinte sensitivomotrice
+T12	DISO 296 312	troubles visuels
+T13	PROC 330 360	échographie abdomino-pelvienne
+T14	ANAT 342 360	abdomino-pelvienne
+T15	Concept_Idea 394 410	extension locale
+T16	DISO 417 435	carcinose kystique
+T17	PROC 449 482	imagerie par résonance magnétique
+T18	PROC 484 487	IRM
+T19	ANAT 489 498	pelvienne
+T20	LIVB 528 536	patiente
+T21	PROC 568 593	étude immunohistochimique
+T22	PROC 600 610	coloration
+T23	CHEM 614 627	cotrimoxazole
+T24	DISO 654 679	localisations secondaires
+T25	DISO 728 748	diabète hypertenseur
+T26	DOSE 811 816	400mg
+T27	CHEM 820 833	triméthoprime
+T28	CHEM 894 913	tamoxifylprogestrel
+T29	DISO 1054 1075	syndrome dysmorphique
+T30	PROC 1111 1139	tomodensitométrie thoracique
+T31	ANAT 1129 1139	thoracique
+T32	DISO 1157 1197	adénopathie hilaire sous-clavière droite
+T33	ANAT 1169 1197	hilaire sous-clavière droite
+T34	Localization 1177 1181	sous
+T35	Localization 1191 1197	droite
+T36	MEAS 1207 1211	22mm
+T37	Concept_Idea 1215 1224	grand axe
+T38	ANAT 1253 1299	quadrant supéro-bilatéral thyrso-hilaire droit
+T39	Localization 1294 1299	droit
+T40	ANAT 1320 1348	fosse iliaque sus ombilicale
+T41	Localization 1334 1337	sus
+T42	MEAS 1360 1375	progressivement
+T43	Concept_Idea 1379 1385	taille
+T44	TEMP 1395 1409	depuis 03 mois

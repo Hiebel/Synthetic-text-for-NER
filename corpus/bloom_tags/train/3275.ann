@@ -1,0 +1,16 @@
+T1	LIVB 9 12	H.A
+T2	CHEM 42 53	Ceftriaxone
+T3	DOSE 55 61	800 mg
+T4	TEMP 61 63	/j
+T5	MODE 65 75	voie orale
+T6	CHEM 102 133	amoxicilline acide clavulanique
+T7	CHEM 135 161	bêtaméthasone phloridazole
+T8	PROC 175 207	curiethemoglobine prophylactique
+T9	TEMP 245 253	six mois
+T10	MEAS 263 276	satisfaisante
+T11	PHEN 321 336	acuité visuelle
+T12	MEAS 346 355	perméable
+T13	DISO 407 425	lésions pigmentées
+T14	DISO 442 466	crises neurovégulatoires
+T15	CHEM 506 520	neuroleptiques
+T16	LIVB 567 575	patients

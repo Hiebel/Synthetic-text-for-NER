@@ -1,0 +1,34 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	12 ans
+T3	PROC 26 37	hospitalisé
+T4	Hospital 42 63	urgences pédiatriques
+T5	DISO 83 104	détresse respiratoire
+T6	PHEN 92 104	respiratoire
+T7	MEAS 119 130	progressive
+T8	CHEM 136 152	sulfaméthoxazole
+T9	DOSE 154 159	600mg
+T10	TEMP 159 161	/j
+T11	CHEM 175 186	albendazole
+T12	DOSE 188 194	200 mg
+T13	TEMP 194 196	/j
+T14	PROC 202 232	bilan biologique préopératoire
+T15	DISO 249 265	hyperleucocytose
+T16	MEAS 268 293	18000 éléments blancs/mm3
+T17	MEAS 312 324	spontanément
+T18	MEAS 333 359	13 000 éléments blancs/mm3
+T19	PROC 373 400	numération formule sanguine
+T20	MEAS 407 414	normale
+T21	DISO 504 525	troubles métaboliques
+T22	DISO 553 604	syndrome d'épanchement cérébro-thoracique lésionnel
+T23	ANAT 576 604	cérébro-thoracique lésionnel
+T24	LIVB 642 650	patiente
+T25	LIVB 652 656	elle
+T26	DISO 777 796	contage tuberculeux
+T27	ANAT 785 796	tuberculeux
+T28	DISO 834 856	souffrance intestinale
+T29	ANAT 845 856	intestinale
+T30	DISO 933 946	symptomatique
+T31	DEVI 1063 1094	sonde d’insertion transfixiante
+T32	DISO 1129 1155	douleur abdomino-pelvienne
+T33	ANAT 1137 1155	abdomino-pelvienne
+T34	MEAS 1173 1188	progressivement

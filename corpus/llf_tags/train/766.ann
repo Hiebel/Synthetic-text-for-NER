@@ -1,0 +1,37 @@
+T1	LIVB 19 27	patiente
+T2	DISO 48 57	tabagique
+T3	PROC 59 65	Suivie
+T4	DISO 75 98	hypertension artérielle
+T5	ANAT 88 98	artérielle
+T6	CHEM 104 115	glucantime®
+T7	DOSE 117 125	1 gramme
+T8	TEMP 125 127	/j
+T9	DISO 144 178	douleurs du membre inférieur droit
+T10	ANAT 156 178	membre inférieur droit
+T11	Localization 173 178	droit
+T12	DISO 185 206	syndrome hémorragique
+T13	Concept_Idea 225 234	étiologie
+T14	PROC 240 254	interrogatoire
+T15	LIVB 259 267	patiente
+T16	PROC 274 282	adressée
+T17	Hospital 286 328	Service Anti-Hépato-Maladies Obstétricales
+T18	PROC 335 354	bilan préopératoire
+T19	DISO 366 374	anomalie
+T20	DISO 392 405	thrombophilie
+T21	DISO 415 434	symptôme infectieux
+T22	PROC 439 456	biologie initiale
+T23	PROC 484 496	hémocultures
+T24	MEAS 505 513	normales
+T25	PROC 517 543	étude immuno-histochimique
+T26	DISO 562 607	léiomyosarcome myxoïde herniaire monophasique
+T27	LIVB 631 639	patiente
+T28	PROC 665 694	corticothérapie néo adjuvante
+T29	MODE 699 714	voie injectable
+T30	PROC 727 767	lavage gastro-maxillaire interne profond
+T32	PROC 780 842	cholécystectomie totale scanno-guidelymphocytaire endoscopique
+T33	ANAT 862 876	paroi vésicale
+T34	ANAT 896 918	troncs supra-aortiques
+T35	PROC 925 956	anastomose termino-mandibulaire
+T36	MEAS 989 996	simples
+T37	DISO 1035 1055	récidive infectieuse
+T38	DISO 1065 1070	signe

@@ -1,0 +1,30 @@
+T1	LIVB 4 12	patiente
+T2	DISO 47 70	hyperthyroïdie primaire
+T3	CHEM 87 106	méthylhydrocortisol
+T4	DOSE 108 115	15mg/kg
+T5	TEMP 115 120	/jour
+T6	PROC 140 159	bilan préopératoire
+T7	Hospital 163 195	médecin anesthésiste-réanimateur
+T8	DISO 222 253	pathologies thromboembolytiques
+T9	ANAT 269 290	auriculoventriculaire
+T10	PROC 314 334	taux de prothrombine
+T11	MEAS 347 351	75 %
+T12	PROC 355 381	scanner abdomino-pelvienne
+T13	ANAT 363 381	abdomino-pelvienne
+T15	Localization 559 569	bilatérale
+T16	PROC 603 612	injection
+T17	CHEM 616 636	produit de contraste
+T18	MEAS 645 650	11 cm
+T19	Concept_Idea 654 663	grand axe
+T20	MEAS 668 672	10cm
+T21	Concept_Idea 676 685	petit axe
+T22	ANAT 706 750	sinus herniaire mésentérique supérieur droit
+T23	Localization 745 750	droit
+T24	DISO 765 805	adénomégalie hypogastrique érythémateuse
+T26	MEAS 885 900	progressivement
+T27	Concept_Idea 904 910	volume
+T28	ANAT 959 978	vésicules biliaires
+T29	DISO 994 1023	envahissement pariéto-rectile
+T30	ANAT 1008 1023	pariéto-rectile
+T31	MODE 1041 1059	intradermoréaction
+T32	MEAS 1070 1074	3 mm

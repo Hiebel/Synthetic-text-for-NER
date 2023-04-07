@@ -1,0 +1,62 @@
+T1	LIVB 3 10	patient
+T2	PROC 31 36	opéré
+T3	DISO 85 124	carcinose parathyroïdienne métastatique
+T4	ANAT 95 124	parathyroïdienne métastatique
+T5	ANAT 132 166	mésentère péritonéal latéral droit
+T6	Localization 161 166	droit
+T7	PROC 181 204	radiothérapie adjuvante
+T8	DOSE 206 211	60 Gy
+T9	MEAS 229 237	complète
+T10	DISO 244 259	lésion tumorale
+T11	TEMP 266 283	12 mois plus tard
+T12	PROC 289 312	chimiothérapie curative
+T13	CHEM 323 333	cisplatine
+T14	CHEM 334 346	oxaliplatine
+T15	MODE 348 360	intraveineux
+T16	DOSE 447 454	20mg/kg
+T17	TEMP 454 457	/ j
+T18	CHEM 460 473	dexaméthasone
+T19	DOSE 475 482	4 mg/kg
+T20	TEMP 482 484	/j
+T21	DEVI 498 517	sonde nasogastrique
+T22	ANAT 504 517	nasogastrique
+T23	PROC 653 678	intervention chirurgicale
+T24	PROC 715 746	bilan gynécologique obstétrical
+T25	DISO 775 784	anomalies
+T26	LIVB 804 812	patients
+T27	DISO 840 864	malformation congénitale
+T28	DISO 871 890	pathologie kystique
+T29	DISO 900 917	signe malformatif
+T30	TEMP 1076 1098	depuis quelques années
+T31	DISO 1123 1139	troubles visuels
+T32	DISO 1349 1385	traumatisme oculomoteur hypertrophié
+T33	PROC 1468 1507	échocardiographies trans-oesophagiennes
+T34	DISO 1530 1568	trajet ventriculo-myocardial infarctus
+T35	ANAT 1537 1568	ventriculo-myocardial infarctus
+T36	DISO 1580 1607	syndromes thromboemboliques
+T37	PROC 1630 1645	scanner pelvien
+T38	ANAT 1638 1645	pelvien
+T39	DISO 1659 1691	masse tissulaire hyperhétérogène
+T40	MEAS 1701 1705	32cm
+T41	Concept_Idea 1709 1718	grand axe
+T42	ANAT 1736 1751	sinus caverneux
+T43	Localization 1800 1803	sus
+T44	MEAS 1901 1905	2 cm
+T45	Concept_Idea 1909 1918	grand axe
+T46	ANAT 1942 1977	artères mésentériques cerviculaires
+T47	ANAT 2001 2030	branches termino-centrabrales
+T48	DISO 2100 2117	kyste hypovolculé
+T49	ANAT 2128 2138	tissulaire
+T50	ANAT 2154 2171	zones nécrotiques
+T51	DISO 2242 2257	myxome purulent
+T52	ANAT 2305 2327	hypotérional liquidien
+T53	LIVB 2428 2435	patient
+T54	PROC 2454 2478	chimiothérapie adjuvante
+T55	CHEM 2480 2490	paclitaxel
+T56	CHEM 2492 2505	dexaméthasone
+T57	CHEM 2507 2517	cisplatine
+T58	CHEM 2519 2530	vinblastine
+T59	CHEM 2534 2550	ethinylestradiol
+T60	MODE 2555 2567	intraveineux
+T61	CHEM 2581 2593	oxaliplatine
+T62	TEMP 2607 2614	12 mois

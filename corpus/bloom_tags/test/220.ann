@@ -1,0 +1,71 @@
+T1	LIVB 4 12	patiente
+T2	DISO 48 68	tuberculose pleurale
+T3	ANAT 60 68	pleurale
+T4	DISO 87 119	épanchement liquidien péritonéal
+T5	ANAT 99 119	liquidien péritonéal
+T6	ANAT 133 144	flanc droit
+T7	Localization 139 144	droit
+T8	PROC 150 165	examen clinique
+T9	LIVB 167 171	elle
+T10	PROC 193 218	traitement antibacillaire
+T11	CHEM 229 242	rifaméthasone
+T12	DOSE 244 250	200 mg
+T13	MODE 254 266	intraveineux
+T14	CHEM 269 279	isoniazide
+T15	DOSE 281 287	400 mg
+T16	MODE 291 303	intraveineux
+T17	CHEM 306 317	ethionamide
+T18	DOSE 319 325	750 mg
+T19	MODE 329 341	intraveineux
+T20	CHEM 344 357	bêtaméthasone
+T21	DOSE 359 363	5 mg
+T22	MODE 367 379	intraveineux
+T23	CHEM 382 394	pyrazinamide
+T24	DOSE 396 402	800 mg
+T25	MODE 406 418	intraveineux
+T26	CHEM 421 439	méthylprednisolone
+T27	DOSE 441 446	20 mg
+T28	MODE 450 462	intraveineux
+T29	CHEM 465 475	furosémide
+T30	DOSE 477 484	1 mg/kg
+T31	MODE 488 500	intraveineux
+T32	CHEM 503 513	cisplatine
+T33	DOSE 515 521	120 mg
+T34	MODE 525 537	intraveineux
+T35	CHEM 540 553	dexaméthasone
+T36	DOSE 555 560	50 mg
+T37	MODE 564 576	intraveineux
+T38	CHEM 579 590	nicardipril
+T39	DOSE 592 597	15 mg
+T40	MODE 601 613	intraveineux
+T41	CHEM 616 625	captopril
+T42	DOSE 627 632	60 mg
+T43	MODE 636 648	intraveineux
+T44	CHEM 651 665	hydrocortisone
+T45	DOSE 667 672	10 mg
+T46	MODE 676 688	intraveineux
+T47	CHEM 691 704	triamcinolone
+T48	DOSE 706 711	40 mg
+T49	MODE 715 727	intraveineux
+T50	CHEM 730 743	bromocriptine
+T51	DOSE 745 750	75 mg
+T52	MODE 754 766	intraveineux
+T53	CHEM 769 788	valproate de sodium
+T54	DOSE 790 796	250 mg
+T55	MODE 800 812	intraveineux
+T56	CHEM 815 833	hydroxychloroquine
+T57	DOSE 835 841	600 mg
+T58	MODE 845 857	intraveineux
+T59	CHEM 860 873	phénobarbital
+T60	DOSE 875 881	500 mg
+T61	MODE 885 897	intraveineux
+T62	CHEM 900 913	metronidazole
+T63	DOSE 915 921	450 mg
+T64	MODE 925 937	intraveineux
+T65	CHEM 940 951	Ceftriaxone
+T66	DOSE 953 959	900 mg
+T67	MODE 963 975	intraveineux
+T68	CHEM 978 991	sulfasalazine
+T69	DOSE 993 1000	1000 mg
+T70	MODE 1004 1016	intraveineux
+T71	CHEM 1019 1028	clofidine

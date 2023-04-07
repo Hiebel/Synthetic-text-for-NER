@@ -1,0 +1,26 @@
+T1	LIVB 19 24	homme
+T2	Concept_Idea 41 52	antécédents
+T3	MEAS 53 65	particuliers
+T4	PROC 67 78	hospitalisé
+T5	DISO 88 113	tuméfaction du col utérin
+T6	ANAT 103 113	col utérin
+T7	TEMP 123 136	depuis 2 mois
+T8	PROC 140 155	examen clinique
+T9	PROC 160 169	admission
+T10	LIVB 180 187	patient
+T11	MEAS 191 194	bon
+T12	Concept_Idea 195 207	état général
+T13	PHEN 217 238	contractions utérines
+T14	ANAT 230 238	utérines
+T15	MEAS 239 248	brunâtres
+T16	DISO 283 311	épanchement intra-péritonéal
+T17	ANAT 295 311	intra-péritonéal
+T18	DISO 321 338	pancréatite aigue
+T19	PROC 343 378	tomodensitométrie abdominopelvienne
+T20	ANAT 361 378	abdominopelvienne
+T21	DISO 396 431	masse tissulaire hyper-vascularisée
+T22	MEAS 441 448	46x36mm
+T23	ANAT 465 485	fosse iliaque droite
+T24	Localization 479 485	droite
+T25	PROC 508 517	injection
+T26	CHEM 521 532	propranolol

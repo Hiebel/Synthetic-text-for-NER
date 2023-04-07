@@ -1,0 +1,92 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 50 55	3 ans
+T3	PROC 60 79	bilan préopératoire
+T4	PROC 103 133	TDM thoraco-abdomino-pelvienne
+T5	ANAT 107 133	thoraco-abdomino-pelvienne
+T6	DISO 170 182	adénopathies
+T7	MEAS 197 198	2
+T8	ANAT 199 206	cuisses
+T9	ANAT 213 223	rein droit
+T10	Localization 218 223	droit
+T11	PROC 227 242	examen clinique
+T12	PROC 247 256	admission
+T13	DISO 268 277	anomalies
+T14	Concept_Idea 286 298	état général
+T15	MEAS 299 305	altéré
+T16	PHEN 319 334	fonction rénale
+T17	ANAT 328 334	rénale
+T18	MEAS 335 342	normale
+T19	PROC 347 364	biologie standard
+T20	PROC 366 369	NFS
+T21	PROC 371 404	glycémie normochrome normocytaire
+T22	PROC 406 425	hémoglobine glyquée
+T23	PROC 427 448	albuminorachie totale
+T24	MEAS 454 461	normale
+T25	PROC 465 501	électrophorèse des protides sériques
+T26	PROC 523 534	transfusion
+T27	DISO 553 575	syndrome inflammatoire
+T28	DISO 579 589	alcoolique
+T29	ANAT 598 617	liquide sous cutané
+T30	PROC 632 662	immunoglobulines intraveineuse
+T31	MEAS 671 693	supérieures à 200 UI/l
+T32	PROC 784 805	reprise thérapeutique
+T33	PROC 811 836	anticorps anti nucléaires
+T34	MEAS 845 853	positifs
+T35	PROC 867 885	tests sérologiques
+T36	PROC 901 920	anti cytokératiques
+T37	MEAS 936 954	fortement positifs
+T38	PROC 966 973	exérèse
+T39	PROC 979 1002	radiothérapie adjuvante
+T40	PROC 1008 1036	chimiothérapie néo adjuvante
+T41	PROC 1050 1081	néphrectomie axilectomie totale
+T42	Localization 1075 1081	totale
+T43	PROC 1097 1130	hormonothérapie substitutionnelle
+T44	CHEM 1136 1175	doxorubicine acide acétyle thiocyanique
+T46	DEVI 1271 1283	plasma frais
+T47	LIVB 1329 1337	patients
+T48	PROC 1342 1364	contrôle échographique
+T49	PROC 1389 1398	résection
+T50	DISO 1423 1439	hyperleucocytose
+T51	MEAS 1442 1454	1330 GB/mm 3
+T53	MEAS 1517 1539	0,5g/10000 millilitres
+T54	MEAS 1641 1644	70%
+T55	MEAS 1648 1666	10 mg/kg poids sec
+T56	PROC 1682 1699	abord chirurgical
+T57	PROC 1721 1771	cystotomie exploratrice endoscopique scanno-guidée
+T59	MEAS 1989 2001	18 cm × 4 cm
+T60	MEAS 2144 2153	7 mm×4 cm
+T61	ANAT 2352 2365	noyaux fœtaux
+T62	PROC 2490 2549	anastomose segmentaire élargie multiparois ovariécolombaire
+T63	PROC 2568 2600	hystérectomie terminoprostatique
+T64	Localization 2582 2600	terminoprostatique
+T65	DISO 2611 2638	complication postopératoire
+T66	DISO 2676 2697	maladies auto-immunes
+T67	DISO 2707 2724	signes infectieux
+T68	DISO 2740 2764	maladie thromboembolique
+T69	PROC 2778 2804	examen anatomopathologique
+T70	DISO 2823 2874	adénocarcinome du rein droit métatarsien infiltrant
+T71	ANAT 2841 2874	rein droit métatarsien infiltrant
+T73	Concept_Idea 2884 2908	caractères histologiques
+T74	MEAS 2909 2921	particuliers
+T75	DEVI 2950 2955	laser
+T76	CHEM 2972 2983	corticoïdes
+T77	PROC 3059 3084	scanner thoraco-abdominal
+T78	ANAT 3067 3084	thoraco-abdominal
+T79	LIVB 3104 3112	patiente
+T80	PROC 3125 3150	étude immunohistochimique
+T81	LIVB 3174 3181	parents
+T82	Concept_Idea 3202 3214	état général
+T83	PHEN 3259 3279	grossesse gémellaire
+T84	MEAS 3330 3337	simples
+T85	DISO 3343 3384	récidive neurologique sensitivo-moteurale
+T86	PROC 3411 3433	traitement substitutif
+T87	PROC 3459 3489	consultations ophtalmologiques
+T88	DISO 3496 3513	déficit sensoriel
+T89	DISO 3548 3568	symptômes somatiques
+T90	DISO 3648 3669	détresse respiratoire
+T91	PHEN 3657 3669	respiratoire
+T92	PROC 3703 3736	positionnement intraventriculaire
+T93	MEAS 3751 3766	progressivement
+T94	PROC 3805 3823	séjour hospitalier
+T95	TEMP 3828 3843	sixième semaine
+T96	PROC 3883 3922	contrôle radiologique cervico-kinétique

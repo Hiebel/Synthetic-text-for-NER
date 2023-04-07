@@ -1,0 +1,75 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	9 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 82	admis
+T6	Hospital 87 108	urgences pédiatriques
+T7	DISO 117 155	syndrome d'épanchement péritonéal aigu
+T8	ANAT 140 150	péritonéal
+T9	PROC 159 174	examen clinique
+T10	PROC 179 188	admission
+T11	Concept_Idea 202 219	indice de Glasgow
+T12	MEAS 222 223	3
+T13	PHEN 231 249	suites opératoires
+T14	MEAS 250 256	bonnes
+T15	LIVB 258 260	Il
+T16	MEAS 270 273	bon
+T17	Concept_Idea 274 286	état général
+T18	DISO 303 319	atteinte cutanée
+T19	ANAT 312 319	cutanée
+T20	DISO 329 350	anomalie neurologique
+T21	PROC 365 401	tomodensitométrie abdomino-pelvienne
+T23	PROC 403 435	TDM) thoraco-abdomino- pelvienne
+T24	ANAT 408 435	thoraco-abdomino- pelvienne
+T25	DISO 452 498	épanchement bilatéral du grêliquide péritonéal
+T26	Localization 464 473	bilatéral
+T27	ANAT 477 498	grêliquide péritonéal
+T28	ANAT 514 539	muscle paravertébro-cæcal
+T29	ANAT 556 576	fosse iliaque droite
+T30	Localization 570 576	droite
+T31	MEAS 586 591	30 cm
+T32	Concept_Idea 595 604	grand axe
+T33	DISO 625 730	infiltration graisseuse tumorale latéro-surrénalienne hypophyso-thoracique antécrânienne hypo-intenseante
+T35	ANAT 747 796	structures sous-diaphragmatiques susclaviculaires
+T36	DISO 847 872	paragangliome lithiasique
+T37	DISO 917 938	prise médicamenteuses
+T38	DISO 952 975	tumeur maligne kystique
+T39	LIVB 1044 1052	patiente
+T40	Concept_Idea 1088 1097	caractère
+T41	PROC 1149 1174	intervention chirurgicale
+T42	PROC 1195 1220	anesthésielocorachidienne
+T43	PROC 1227 1320	rétrécissement artériolaire pariéto-dorsiflexionnel cervico-métacarpophalangien transfixiante
+T45	CHEM 1321 1324	ETT
+T46	PROC 1330 1363	curage vasculaire intrapéritonéal
+T47	ANAT 1337 1363	vasculaire intrapéritonéal
+T48	ANAT 1447 1475	grande courbure épigastrique
+T49	ANAT 1501 1544	sinus caverneux iléo-vésiculaire transverse
+T50	DISO 1560 1595	hypertrophie duodéno-intestin grêle
+T51	ANAT 1573 1595	duodéno-intestin grêle
+T52	Concept_Idea 1613 1619	taille
+T53	DISO 1710 1733	malformations congênées
+T54	MEAS 1885 1900	bien tolérables
+T55	DISO 1938 1947	récidives
+T56	DISO 1954 1976	métastases secondaires
+T57	PROC 2093 2117	bêtaméthasone préventifs
+T58	DISO 2211 2224	masse tumoral
+T59	MEAS 2235 2246	volumineuse
+T60	MEAS 2283 2297	incontournable
+T61	DEVI 2333 2344	sonde nylon
+T62	PROC 2358 2373	chirurgicalisée
+T63	PROC 2378 2415	ponction sus-claviculaire liquidienne
+T64	ANAT 2387 2415	sus-claviculaire liquidienne
+T65	DEVI 2546 2557	sonde nylon
+T66	DISO 2597 2631	granulome érythémateux prurigineux
+T67	DISO 2667 2702	lymphangiome nécrose caséo-kystique
+T68	PROC 2758 2787	recherche immunohistochimique
+T69	LIVB 2861 2870	oncologue
+T70	PROC 2886 2902	examen somatique
+T71	DISO 2914 2923	anomalies
+T72	DISO 2940 2961	atteinte neurologique
+T73	PHEN 2966 2985	transit du pancréas
+T74	ANAT 2977 2985	pancréas
+T75	DISO 3002 3039	tumeur kystique des grosses épiploons
+T76	ANAT 3022 3039	grosses épiploons
+T77	DISO 3064 3101	syndrome d'épanchement intragastrique
+T78	ANAT 3087 3101	intragastrique

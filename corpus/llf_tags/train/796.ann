@@ -1,0 +1,64 @@
+T1	LIVB 19 26	patient
+T2	DISO 47 72	antécédents pathologiques
+T3	MEAS 73 85	particuliers
+T4	PROC 96 101	admis
+T5	Hospital 105 125	service des urgences
+T6	DISO 135 156	distension abdominale
+T7	ANAT 146 156	abdominale
+T8	TEMP 166 183	depuis deux jours
+T9	PROC 192 201	admission
+T10	PROC 205 220	examen clinique
+T11	LIVB 231 238	patient
+T12	MEAS 242 249	mauvais
+T13	Concept_Idea 250 262	état général
+T14	PROC 272 292	examen gynécologique
+T15	DISO 311 331	masse du sein gauche
+T16	ANAT 320 331	sein gauche
+T17	Localization 325 331	gauche
+T18	MEAS 341 345	6 cm
+T19	Concept_Idea 349 358	grand axe
+T20	MEAS 367 371	7 cm
+T21	Concept_Idea 375 384	petit axe
+T22	ANAT 401 413	cuir chevelu
+T23	Concept_Idea 427 434	hauteur
+T24	PROC 439 456	tomodensitométrie
+T25	PROC 458 489	TDM) nasopharyngo-oesophagienne
+T26	ANAT 463 489	nasopharyngo-oesophagienne
+T27	DISO 507 582	masse tissulaire rénale sus péritro-vaginale latéro lombo-thoracique droite
+T28	Localization 531 534	sus
+T29	Localization 552 558	latéro
+T31	ANAT 605 637	parties molles cervicale gauches
+T32	Localization 630 637	gauches
+T33	DISO 657 781	masse kystique rétrokystique sous vasculaire bilatérale obturatrice anterieure controlatérale distale inférieure asymétrique
+T34	Localization 686 690	sous
+T36	ANAT 796 826	sillons thoraciques inférieurs
+T37	Localization 816 826	inférieurs
+T38	DEVI 835 870	processus sous cutané intraveineuse
+T39	PROC 914 932	examen obstétrical
+T40	DISO 942 955	particularité
+T41	MEAS 988 995	simples
+T42	DISO 1027 1047	récidive traumatique
+T43	PROC 1057 1066	transfert
+T44	PROC 1071 1095	contrôle scannographique
+T45	DISO 1119 1127	anomalie
+T46	PROC 1168 1194	examens anatomopathologies
+T47	PROC 1234 1256	traitement chirurgical
+T48	PROC 1288 1331	laparotomie exploratrice multidisciplinaire
+T49	PROC 1345 1368	radiothérapie adjuvante
+T50	PROC 1384 1411	chimiothérapie néoadjuvante
+T51	CHEM 1417 1433	Cyclophosphamide
+T52	DOSE 1434 1443	100 UI/kg
+T53	TEMP 1443 1445	/j
+T54	PROC 1464 1476	angioplastie
+T55	PHEN 1486 1518	circonstances pariéto-trachéales
+T56	ANAT 1551 1581	extrémités jugulocarotidiennes
+T57	PROC 1665 1682	bilan étiologique
+T58	PROC 1686 1705	immunohistochimique
+T59	Concept_Idea 1738 1746	distance
+T60	MEAS 1747 1773	inférieure à 3 centimètres
+T61	PROC 1793 1849	anticorps anti transglutaminase IgG glutamyl transferase
+T62	PROC 1853 1884	anti cytobactérium tuberculosis
+T63	PROC 1920 1954	investigations radiothérapeutiques
+T64	DISO 2000 2040	lésions érythroblastiques hétérotypiques
+T65	ANAT 2204 2220	noyaux ovalaires
+T66	ANAT 2246 2283	cellules endothéliales superficielles

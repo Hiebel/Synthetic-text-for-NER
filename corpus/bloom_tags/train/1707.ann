@@ -1,0 +1,24 @@
+T1	PROC 2 17	examen clinique
+T2	PROC 22 31	admission
+T3	LIVB 43 51	patiente
+T4	MEAS 55 58	bon
+T5	Concept_Idea 59 71	état général
+T6	DISO 73 84	polypnéique
+T7	MEAS 87 100	30 cycles/min
+T8	PHEN 105 124	pression artérielle
+T9	ANAT 114 124	artérielle
+T10	MEAS 133 144	100/60 mmhg
+T11	PROC 162 178	examen somatique
+T12	DISO 190 203	particularité
+T13	PROC 208 224	bilan biologique
+T14	PROC 242 261	Hémoglobine glyquée
+T15	MEAS 264 266	7%
+T16	PROC 276 300	anticorps antinucléaires
+T17	PROC 302 306	ANCA
+T18	ANAT 330 345	liquide pleural
+T19	PROC 349 372	auscultation pulmonaire
+T20	ANAT 362 372	pulmonaire
+T21	DISO 388 469	syndrome d'épanchement pleuraux basithoracique cervico-bronchique inférobilatéral
+T23	PROC 492 512	reprise chirurgicale
+T24	PROC 518 546	anesthésie thoracique locale
+T25	ANAT 529 546	thoracique locale

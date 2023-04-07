@@ -1,0 +1,24 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 32 38	enfant
+T3	Concept_Idea 64 82	plan hémodynamique
+T4	PHEN 86 98	respiratoire
+T5	DISO 108 128	tachycardie sinusale
+T6	MEAS 131 145	120 battements
+T7	TEMP 146 156	par minute
+T8	Localization 168 181	périphériques
+T9	ANAT 168 181	périphériques
+T10	ANAT 214 230	hémithorax droit
+T11	Localization 225 230	droit
+T12	DISO 243 258	signes associés
+T13	DISO 276 284	polypnée
+T14	DISO 290 301	hypothermie
+T15	PROC 306 322	bilan biologique
+T16	DISO 345 430	syndrome d'épanchement liquidien inféro-latéral basithoracique systéo-myxo-résistante
+T18	DISO 445 500	anémie hypochrome microcytaire ferriprive normocalcique
+T19	PROC 505 531	taux d'hémoglobine glyquée
+T20	MEAS 534 538	8,2%
+T21	PROC 540 552	ferritinémie
+T22	MEAS 555 562	0,58g/l
+T23	PROC 568 587	pression artérielle
+T24	ANAT 577 587	artérielle
+T25	MEAS 596 608	140/85 mm Hg

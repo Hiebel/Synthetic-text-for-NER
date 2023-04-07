@@ -1,0 +1,19 @@
+T1	LIVB 21 29	patiente
+T2	TEMP 77 90	depuis 30 ans
+T3	LIVB 102 110	patiente
+T4	DEVI 125 131	casque
+T5	TEMP 139 146	21 mois
+T6	DEVI 160 171	bébé phoque
+T7	PHEN 183 204	grossesse monofoetale
+T8	TEMP 212 223	16 semaines
+T9	TEMP 231 249	il y avait 3 jours
+T10	MEAS 316 326	450 gramme
+T11	MEAS 330 341	395 grammes
+T12	PROC 526 548	traitement substitutif
+T13	MEAS 591 618	systématiquement évanescent
+T14	PROC 623 643	suivi postopératoire
+T15	TEMP 764 782	au moins 1 semaine
+T16	PROC 789 815	dérivation anamnèse fœtale
+T17	PROC 829 861	annexectomie totale exploratrice
+T18	DISO 933 966	pré éclampsie néonatale primitive
+T19	PROC 979 1013	extubation chirurgicale programmée

@@ -1,0 +1,36 @@
+T1	LIVB 16 24	patiente
+T3	ANAT 68 87	abdomino-pelviennes
+T4	DISO 103 141	syndrome d'épanchement intrapéritonéal
+T5	ANAT 126 141	intrapéritonéal
+T6	PROC 146 176	bilan biologique préopératoire
+T8	PROC 223 225	VS
+T9	MEAS 239 244	75 mm
+T10	PROC 249 268	protéine-C-Réactive
+T11	PROC 270 273	CRP
+T12	MEAS 275 281	élevée
+T13	MEAS 284 291	96 mg/l
+T14	PROC 302 321	enzymes épiploiques
+T15	ANAT 310 321	épiploiques
+T16	PROC 335 362	aspartate amino transférase
+T17	PROC 364 368	ASAT
+T18	PROC 371 410	pancréatine-oxaloacétate déshydrogénase
+T19	PROC 412 416	PCLD
+T20	PROC 419 431	ferritinémie
+T21	PROC 437 471	tomodensitométrie trans-thoracique
+T22	DISO 496 577	masse hétérogène hypodense tissulaire latéro-interstitielle basithoracique gauche
+T23	Localization 571 577	gauche
+T24	Concept_Idea 580 586	aspect
+T25	MEAS 587 597	hétérogène
+T26	MEAS 607 611	50cm
+T27	Concept_Idea 615 624	grand axe
+T28	ANAT 653 678	parenchyme parathyroïdien
+T29	ANAT 700 745	espaces hémi-diaphragmatiques para-rachidiens
+T30	DISO 766 802	hypersignal hypoéchogène iso-intense
+T31	ANAT 818 838	artère rénale droite
+T32	Localization 832 838	droite
+T33	ANAT 857 880	corps iléo-mésentérique
+T34	DISO 908 929	prostate hypertrophié
+T35	DISO 944 974	métastose rénulo-surrénanienne
+T36	ANAT 954 974	rénulo-surrénanienne
+T37	PROC 1007 1043	recherche d’anticorps antinucléaires
+T38	LIVB 1212 1218	malade

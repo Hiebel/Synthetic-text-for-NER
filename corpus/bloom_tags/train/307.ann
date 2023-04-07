@@ -1,0 +1,43 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	6 ans
+T3	Concept_Idea 37 62	antécédents pathologiques
+T4	MEAS 63 75	particuliers
+T5	PROC 77 82	admis
+T6	Hospital 87 108	urgences pédiatriques
+T7	DISO 120 157	accident ischémique du sinus crâniens
+T8	ANAT 143 157	sinus crâniens
+T9	DISO 163 188	complication hémorragique
+T10	PROC 194 203	admission
+T11	Hospital 207 222	bloc opératoire
+T12	PROC 229 256	prémédication préopératoire
+T13	DOSE 258 260	2g
+T14	CHEM 263 298	anti-inflammatoires non stéroïdiens
+T15	PROC 313 332	réhydratation orale
+T16	DISO 395 417	hyperpression centrale
+T17	Localization 409 417	centrale
+T18	TEMP 427 445	depuis trois jours
+T19	MEAS 457 466	lentement
+T20	Concept_Idea 470 476	volume
+T21	MEAS 486 494	brulante
+T22	MEAS 530 553	de plus en plus intense
+T23	ANAT 582 587	corps
+T24	MEAS 597 610	environ 20 cm
+T25	Concept_Idea 614 623	grand axe
+T26	MEAS 628 633	10 cm
+T27	Concept_Idea 637 646	petit axe
+T28	DISO 683 708	méningo-carcinose fébrile
+T29	DISO 717 756	carcinome érythémato-néphro-kératosique
+T30	ANAT 777 794	organes cérébraux
+T31	PROC 877 905	échographie cardiovasculaire
+T32	ANAT 889 905	cardiovasculaire
+T33	MEAS 924 933	positives
+T34	ANAT 978 1004	sus-épiglottique liquidien
+T35	MEAS 1015 1022	1litres
+T36	DISO 1042 1075	lésions purpuriques prurigineuses
+T37	DISO 1085 1103	kystique nodulaire
+T38	MEAS 1142 1151	lâchement
+T39	Concept_Idea 1155 1161	volume
+T40	MEAS 1177 1185	3 litres
+T41	DISO 1208 1224	troubles visuels
+T42	MEAS 1237 1243	rapide
+T43	MEAS 1288 1296	profonde

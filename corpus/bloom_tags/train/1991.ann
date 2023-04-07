@@ -1,0 +1,24 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 31 39	patiente
+T3	MEAS 43 46	bon
+T4	Concept_Idea 47 59	état général
+T5	DISO 61 71	apyrétique
+T6	MEAS 74 78	37°C
+T7	PHEN 83 101	tension artérielle
+T8	ANAT 91 101	artérielle
+T9	MEAS 110 121	120/70 mmHg
+T10	PROC 139 155	examen somatique
+T11	DISO 165 178	particularité
+T12	PROC 183 211	ponction pleurale systolique
+T13	ANAT 192 211	pleurale systolique
+T14	PROC 241 260	bilan préopératoire
+T15	PROC 278 281	CRP
+T16	MEAS 284 291	85 mg/l
+T17	PROC 300 323	taux d'immunoglobulines
+T18	PROC 325 328	IgG
+T19	MEAS 332 337	3g/dl
+T20	TEMP 344 346	1h
+T21	PROC 349 384	antibiocorticoïdothérapie adjuvante
+T22	CHEM 389 401	amoxicilline
+T23	CHEM 402 420	acide clavulanique
+T24	CHEM 435 449	ciprofloxacine

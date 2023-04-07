@@ -1,0 +1,19 @@
+T1	LIVB 28 35	patient
+T2	DISO 65 119	carcinose papuleux érythémateuse séreux carcinomateuse
+T4	DISO 121 126	CPSCC
+T5	PROC 135 154	examen histologique
+T6	DISO 171 184	particularité
+T7	DISO 202 212	métastases
+T8	DISO 218 241	adénopathies axillaires
+T9	ANAT 231 241	axillaires
+T10	PROC 254 284	diagnostic immunohistochimique
+T11	CHEM 323 335	cytokératine
+T12	ANAT 388 410	cellules endothéliales
+T13	LIVB 432 440	patiente
+T14	DISO 455 472	tumeuraux maligne
+T15	DISO 508 524	signes cliniques
+T16	PROC 674 699	étude anatomopathologique
+T17	PROC 705 735	immuno-histochimique indirecte
+T18	PROC 736 744	marquage
+T19	DISO 862 876	neuroendocrine
+T20	ANAT 898 944	structures ganglionnaires cervico-vésiculaires

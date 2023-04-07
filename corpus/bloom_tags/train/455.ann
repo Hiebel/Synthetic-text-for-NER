@@ -1,0 +1,22 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 24 30	15 ans
+T3	Hospital 49 57	urgences
+T4	DISO 71 79	polypnée
+T5	MEAS 94 105	progressive
+T6	TEMP 115 131	depuis 48 heures
+T7	PHEN 137 159	cortisolisme menstruel
+T8	LIVB 222 225	son
+T9	LIVB 226 243	médecin-praticien
+T10	DISO 271 298	détresse respiratoire aiguë
+T11	MEAS 313 319	rapide
+T12	DEVI 347 354	oxygène
+T13	DOSE 357 370	un mètre cube
+T14	MEAS 388 403	6 cycles/minute
+T15	DISO 443 463	prise médicamenteuse
+T16	DISO 481 508	complications obstétricales
+T17	DISO 588 611	symptômes neurologiques
+T18	DISO 655 675	rupture placentaïque
+T19	ANAT 663 675	placentaïque
+T21	LIVB 864 866	sa
+T22	PROC 867 879	consultation
+T23	LIVB 888 892	elle

@@ -1,0 +1,21 @@
+T1	LIVB 28 35	patient
+T2	DISO 104 127	dyspnée aiguë sifflante
+T3	MEAS 142 153	progressive
+T4	MEAS 165 175	rapidement
+T5	Concept_Idea 179 185	volume
+T6	CHEM 229 241	prédnisolone
+T7	Hospital 246 254	urgences
+T8	DISO 271 292	détresse respiratoire
+T9	PHEN 280 292	respiratoire
+T10	PROC 321 347	traitement médical curatif
+T11	PROC 361 393	surveillance échocardiographique
+T12	MEAS 418 427	partielle
+T13	DISO 435 456	troubles métaboliques
+T14	DISO 478 498	souffrance cardiaque
+T15	ANAT 489 498	cardiaque
+T16	DISO 505 534	récent infarctus érythémateux
+T17	LIVB 561 569	patiente
+T18	MEAS 686 692	3250mg
+T19	MEAS 756 762	29000g
+T20	MEAS 766 772	33000g
+T21	MODE 874 884	voie basse

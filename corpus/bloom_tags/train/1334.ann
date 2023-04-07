@@ -1,0 +1,25 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	2 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 75 90	examen clinique
+T6	LIVB 103 109	enfant
+T7	MEAS 113 116	bon
+T9	Concept_Idea 153 159	taille
+T10	MEAS 162 167	70 cm
+T12	MEAS 177 182	13 kg
+T13	Concept_Idea 189 207	tension artérielle
+T14	ANAT 197 207	artérielle
+T15	MEAS 210 222	110/100 mmhg
+T16	PROC 227 268	scanner cervico-thoraco-abdomino- pelvien
+T17	ANAT 235 268	cervico-thoraco-abdomino- pelvien
+T18	PROC 270 273	CTA
+T19	DISO 292 347	adénopathies pariéto-latéro-cerviculaires homolatérales
+T20	ANAT 305 347	pariéto-latéro-cerviculaires homolatérales
+T21	Localization 334 347	homolatérales
+T22	CHEM 370 390	produit de contraste
+T23	ANAT 404 438	quadrant supéro-externe péritonéal
+T24	MEAS 463 470	16x12mm
+T25	MEAS 474 481	21x14mm
+T26	PROC 504 511	biopsie
+T27	DISO 545 582	paragangliome sécrétant gastrostérone

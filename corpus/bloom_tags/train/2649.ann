@@ -1,0 +1,29 @@
+T1	LIVB 19 26	patient
+T2	DISO 42 65	antécédent pathologique
+T3	MEAS 66 73	notable
+T4	DISO 94 113	masse du col utérin
+T5	ANAT 103 113	col utérin
+T6	TEMP 123 136	depuis 2 mois
+T7	MEAS 151 166	progressivement
+T8	Concept_Idea 170 176	taille
+T9	PROC 180 195	examen clinique
+T10	DISO 213 226	masse ulcérée
+T11	PHEN 241 262	contractions utérines
+T12	ANAT 254 262	utérines
+T13	ANAT 278 292	paroi vaginale
+T14	MEAS 302 314	environ 5 cm
+T15	Concept_Idea 318 327	grand axe
+T16	PROC 332 340	biologie
+T17	MEAS 347 354	normale
+T18	PROC 356 383	numération formule sanguine
+T19	PROC 385 400	globules blancs
+T20	PROC 402 421	protéine-C réactive
+T21	PROC 423 447	anticorps antinucléaires
+T22	PROC 453 478	scanner abdomino- pelvien
+T23	ANAT 461 478	abdomino- pelvien
+T24	DISO 500 534	adénopathies pariétales inférieurs
+T26	DISO 555 584	lésion hypoéchogène hypodense
+T27	MEAS 593 599	10/8cm
+T28	DISO 619 655	infiltrat cytoplasmique hypertrophié
+T29	ANAT 629 655	cytoplasmique hypertrophié
+T30	ANAT 702 732	tissu graisseux péripéritonéal

@@ -1,0 +1,53 @@
+T1	LIVB 3 10	patient
+T2	PROC 17 28	hospitalisé
+T3	Hospital 32 39	urgence
+T4	DISO 59 76	choc hémiplasique
+T5	DISO 82 103	trouble visuospacique
+T6	CHEM 147 158	Nicardipine
+T7	ANAT 203 226	cardio-vasculo-nerveuse
+T8	DISO 265 297	complications thromboembellantes
+T9	LIVB 319 327	patiente
+T10	DISO 359 368	symptômes
+T11	DISO 405 465	syndrome d'épanchement intra-parenchymateux cervico-cérébral
+T12	ANAT 428 465	intra-parenchymateux cervico-cérébral
+T13	DISO 472 513	carcinose parathyroïdienne carcinomateuse
+T14	ANAT 482 513	parathyroïdienne carcinomateuse
+T15	PROC 537 592	ponction liquide céphalo-méatique transpariéto-lombaire
+T16	ANAT 546 592	liquide céphalo-méatique transpariéto-lombaire
+T17	PROC 617 636	bilan d'hémodialyse
+T18	PROC 651 674	analgésie peropératoire
+T19	DEVI 699 720	bandelette humidifiée
+T20	DOSE 745 747	4g
+T21	CHEM 751 762	nicardipine
+T22	DOSE 765 773	20 mg/kg
+T23	CHEM 777 795	méthylprednisolone
+T24	DOSE 797 805	120mg/kg
+T25	CHEM 809 819	furosémide
+T26	MEAS 923 939	2 tours de spire
+T27	MEAS 943 959	3 tours de spire
+T28	PROC 972 1002	taux de créatinine plasmatique
+T29	MEAS 1013 1021	1,6 mg/l
+T30	DISO 1074 1101	neuroleptiques hypertensifs
+T31	DISO 1108 1127	métasurrénalections
+T32	DISO 1177 1208	détresse métabolique ischémique
+T33	PROC 1225 1243	traitement curatif
+T34	DISO 1251 1283	maladie de Takayasu vascularisée
+T35	PROC 1407 1428	échographie pelvienne
+T36	ANAT 1419 1428	pelvienne
+T37	DISO 1460 1497	thromboses surrénaliennes infarctuses
+T38	ANAT 1471 1497	surrénaliennes infarctuses
+T39	DISO 1504 1533	lésions vasculaires kystiques
+T40	DISO 1618 1654	hypokaliémie hypochrome microcytaire
+T41	DISO 1752 1776	léiomyome séreux ovarien
+T42	PROC 1783 1815	fibroscopie oeso-gastroduodénale
+T43	ANAT 1795 1815	oeso-gastroduodénale
+T44	DISO 1844 1881	polype érythémato-fibreulonéphrétique
+T45	ANAT 1897 1918	muscle para-sigmoïdal
+T46	MEAS 1928 1933	15 cm
+T47	Concept_Idea 1937 1946	grand axe
+T48	ANAT 1960 1986	grêle mésentéro-intestinal
+T49	ANAT 2014 2037	structures intestinales
+T50	Concept_Idea 2059 2087	limites anatomopathologiques
+T51	DISO 2217 2243	épithélium fibromusculaire
+T52	PROC 2247 2262	étude génétique
+T53	LIVB 2267 2275	patients

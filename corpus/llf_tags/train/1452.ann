@@ -1,0 +1,80 @@
+T1	PROC 4 21	tomodensitométrie
+T2	PROC 23 37	TDM) cérébrale
+T3	ANAT 28 37	cérébrale
+T4	DISO 69 105	sténose du quadrant inferieur gauche
+T5	ANAT 80 105	quadrant inferieur gauche
+T6	Localization 99 105	gauche
+T7	PROC 111 122	échographie
+T8	DISO 144 193	dilatation des troncs supra-externes de la rétine
+T9	ANAT 159 193	troncs supra-externes de la rétine
+T10	MEAS 219 223	deux
+T11	ANAT 224 228	yeux
+T12	Concept_Idea 237 245	diamètre
+T13	MEAS 255 260	15 mm
+T14	LIVB 267 274	patient
+T15	PROC 311 321	découverte
+T16	PROC 325 351	examen anatomopathologique
+T17	DISO 371 383	gène tumoral
+T18	DISO 400 422	anomalie morphologique
+T19	DISO 440 450	métastases
+T20	DISO 461 467	signes
+T21	PROC 481 513	scanner thoraco-abdomino-pelvien
+T22	ANAT 489 513	thoraco-abdomino-pelvien
+T23	DISO 537 542	masse
+T24	MEAS 552 556	33mm
+T25	Concept_Idea 560 569	grand axe
+T26	DISO 575 594	emboles vasculaires
+T27	ANAT 583 594	vasculaires
+T28	PROC 608 632	laparotomie exploratrice
+T29	DISO 726 760	processus carcinomateux malpighien
+T30	MEAS 770 775	30 cm
+T31	Concept_Idea 779 788	petit axe
+T32	DISO 809 834	lésions chondroblastiques
+T33	ANAT 852 877	chromosome basocellulaire
+T34	ANAT 910 931	symphyse mandibulaire
+T35	PHEN 937 955	suites opératoires
+T36	MEAS 964 971	simples
+T37	TEMP 981 1004	24e jour postopératoire
+T38	PROC 1021 1042	contrôle radiologique
+T39	LIVB 1091 1098	malades
+T40	PROC 1121 1156	parotidectomie totale scanno-guidée
+T41	PROC 1171 1220	néphrectomie transoesogastro-duodénale percutanée
+T42	PROC 1227 1263	curage ganglionnaire cervico-vaginal
+T43	ANAT 1234 1263	ganglionnaire cervico-vaginal
+T44	Hospital 1276 1297	urgences pédiatriques
+T45	PROC 1304 1315	hémodialyse
+T46	PROC 1329 1358	toilette nasopharyngolaryngée
+T47	ANAT 1338 1358	nasopharyngolaryngée
+T48	PROC 1364 1392	prise en charge diagnostique
+T49	PROC 1417 1459	explorations fonctionnelles locorégionales
+T50	PROC 1485 1518	tumorectomie partielle programmée
+T51	Concept_Idea 1546 1575	caractère immunohistochimique
+T52	Concept_Idea 1592 1615	résultats histologiques
+T53	PROC 1631 1643	angioplastie
+T54	DEVI 1665 1688	structures intraveineux
+T55	DISO 1844 1875	récepteurs hormonaux gonadiques
+T56	PROC 1883 1897	étude clinique
+T57	CHEM 1922 1940	produit lyophilisé
+T58	PROC 1955 1968	lavage cutané
+T59	ANAT 1962 1968	cutané
+T60	DOSE 1985 1992	1 litre
+T61	CHEM 1996 2024	propofol acétyl pyrazinamide
+T62	PROC 2157 2166	transfusé
+T64	PROC 2714 2717	IFI
+T65	PROC 2719 2735	anti-Kitabchi AE
+T66	PROC 2737 2746	Fisher JB
+T67	MEAS 2757 2762	bonne
+T68	Concept_Idea 2763 2779	réponse clinique
+T69	LIVB 2785 2793	patiente
+T70	Hospital 2822 2829	hôpital
+T71	TEMP 2833 2860	dixième jour postopératoire
+T72	PROC 2866 2885	traitement adjuvant
+T73	CHEM 2893 2924	pénicilline acide nalidixolique
+T74	Concept_Idea 2950 2967	plan radiologique
+T75	TEMP 2987 2994	18 mois
+T76	MEAS 3011 3028	très satisfaisant
+T77	MEAS 3052 3061	favorable
+T78	LIVB 3153 3160	malades
+T79	PROC 3175 3185	scolarisés
+T80	Hospital 3190 3224	chirurgiens viscéraux pédiatriques
+T81	Concept_Idea 3319 3351	circonstance anatomopathologique

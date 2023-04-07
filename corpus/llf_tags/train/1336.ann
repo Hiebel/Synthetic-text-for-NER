@@ -1,0 +1,65 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	9 ans
+T3	DISO 63 86	hypertension artérielle
+T4	ANAT 76 86	artérielle
+T5	PROC 98 113	prise en charge
+T6	Concept_Idea 127 130	âge
+T7	TEMP 134 140	3 mois
+T8	DISO 150 179	symptômes neuropsychiatriques
+T9	PROC 183 198	examen clinique
+T10	LIVB 215 222	patient
+T11	DISO 227 241	asymptomatique
+T12	MEAS 243 253	90/40 mmHg
+T13	ANAT 273 302	lobe temporal supérieur droit
+T14	Localization 297 302	droit
+T15	DISO 307 329	rétraction douloureuse
+T16	DISO 341 355	déficit moteur
+T17	DISO 359 382	trouble sensitivomoteur
+T18	ANAT 401 424	sinus maxillaire gauche
+T19	Localization 418 424	gauche
+T20	DISO 442 451	dysphonie
+T21	DISO 461 466	signe
+T22	PHEN 480 495	réflexes vitaux
+T23	MEAS 504 511	normaux
+T24	DISO 543 576	vomissements psychomotrificateurs
+T25	LIVB 725 727	il
+T26	Hospital 752 789	dispensaires spécialisés pédiatriques
+T27	CHEM 855 871	antipsychotiques
+T28	CHEM 877 890	amoxicilline®
+T29	CHEM 891 916	acide acétyle salicylique
+T30	DOSE 918 921	2 g
+T31	TEMP 921 926	/jour
+T32	MODE 929 946	corticoïde inhalé
+T33	DOSE 949 955	0,5 mg
+T34	TEMP 955 960	/jour
+T35	CHEM 963 974	halopéridol
+T36	TEMP 982 984	/j
+T37	CHEM 987 1004	bronchodilatateur
+T38	DEVI 1826 1834	prothèse
+T40	ANAT 2623 2629	scarpa
+T41	DISO 2639 2675	calcification des glandes salivaires
+T42	ANAT 2657 2675	glandes salivaires
+T43	Concept_Idea 2688 2694	aspect
+T44	PROC 2712 2722	recherches
+T45	LIVB 2746 2752	germes
+T46	ANAT 2770 2781	lit tumoral
+T47	Concept_Idea 2835 2847	état général
+T48	PROC 2878 2887	résection
+T49	PROC 2892 2915	traitement conservateur
+T50	PROC 2933 2976	curage ganglionnaire axillaire endoscopique
+T51	PROC 3025 3045	exérèse chirurgicale
+T52	ANAT 3064 3077	foyer caudale
+T53	ANAT 3108 3125	vésicule biliaire
+T54	ANAT 3146 3165	veine sus hépatique
+T55	Localization 3177 3193	partie proximale
+T56	PHEN 3221 3247	fonctionnement cytologique
+T57	DISO 3282 3292	métastases
+T58	DISO 3303 3323	signes histologiques
+T59	PROC 3336 3362	examen anatomopathologique
+T60	DISO 3384 3461	carcinome carcinomateux infiltrant rénoïde érythrotéroutérinoïdien fovéolaire
+T61	MEAS 3484 3489	10 mm
+T62	Concept_Idea 3493 3502	grand axe
+T63	MEAS 3511 3517	11/9mm
+T64	Concept_Idea 3521 3528	largeur
+T65	ANAT 3592 3623	substance musculo-aponévrotique
+T66	ANAT 3662 3698	structures conjonctivales cervicales

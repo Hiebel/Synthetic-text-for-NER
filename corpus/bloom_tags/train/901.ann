@@ -1,0 +1,26 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 17 22	2 ans
+T3	DISO 28 53	antécédents pathologiques
+T4	MEAS 54 66	particuliers
+T5	PROC 68 72	reçu
+T6	Hospital 77 85	urgences
+T7	DISO 95 112	céphalées fébrile
+T8	MEAS 138 145	modérée
+T9	DISO 185 197	hyperthermie
+T10	MEAS 209 213	39°C
+T11	TEMP 223 239	depuis 72 heures
+T12	LIVB 246 249	son
+T13	PROC 250 259	admission
+T14	DISO 273 298	polyarthrite rhumatismale
+T15	PROC 391 416	intervention chirurgicale
+T16	DISO 507 531	symptomatologie clinique
+T17	LIVB 607 612	fille
+T18	TEMP 649 655	9 mois
+T19	DISO 685 707	bronchorrhée purulente
+T20	MEAS 722 733	progressive
+T21	DISO 771 806	syndrome d'épanchement péricardique
+T22	ANAT 794 806	péricardique
+T23	MEAS 816 822	2500ml
+T24	CHEM 849 867	hydroxychloroquine
+T25	DISO 1077 1103	maladie auto-inflammatoire
+T26	DISO 1113 1130	pathie autoimmune

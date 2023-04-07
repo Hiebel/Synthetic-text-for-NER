@@ -1,0 +1,81 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	9 ans
+T3	PROC 62 72	césarienne
+T4	DISO 82 107	toux productive chronique
+T5	TEMP 117 130	depuis 6 mois
+T6	PROC 136 151	examen clinique
+T7	LIVB 155 163	patiente
+T8	DISO 170 177	fébrile
+T9	MEAS 180 184	39°C
+T10	DISO 194 228	douleurs abdominales paroxystiques
+T11	ANAT 203 214	abdominales
+T12	DISO 241 262	signes inflammatoires
+T13	Concept_Idea 284 302	plans superficiels
+T14	ANAT 314 320	thorax
+T15	PROC 324 335	échographie
+T17	Localization 366 381	tiers inferieur
+T18	Localization 405 423	postérieure droite
+T19	MEAS 433 447	10 centimètres
+T20	PROC 471 481	exposition
+T21	DEVI 486 493	masques
+T22	DISO 517 554	masse tissulaire anéchogène étranglée
+T23	ANAT 573 633	symphyse pubienne latéro-aréolaire postéro-supérieure droite
+T24	Localization 591 597	latéro
+T25	Localization 627 633	droite
+T26	MEAS 642 648	5/6 cm
+T27	ANAT 685 716	troncs ptérygoïdiens périrénaux
+T28	DISO 761 811	formation kystique érythémateuse cervicale bilobée
+T29	Localization 804 811	bilobée
+T30	ANAT 832 853	nerf thoracique droit
+T31	Localization 848 853	droit
+T32	ANAT 875 923	structures pelvipulo-aortiques abdominopelvienne
+T33	MEAS 944 950	T4N1M0
+T34	PROC 955 971	bilan biologique
+T35	DISO 1002 1024	prolifération tumorale
+T36	DISO 1049 1075	tumeur myxoïde infiltrante
+T37	DISO 1085 1111	résidu anatomopathologique
+T38	DISO 1166 1211	récidive métaplasique cutanéomuqueuse maligne
+T39	PROC 1274 1298	chimiothérapie adjuvante
+T40	CHEM 1304 1325	amoxicilline Glivec ®
+T41	MODE 1330 1348	voie intraveineuse
+T42	PROC 1362 1421	néphrectomie totale transoesophagienne axillaire percutanée
+T43	Hospital 1431 1497	technique OCT scan TDM Doppler multidisciplinaire cardiothoracique
+T44	PHEN 1521 1536	fonction rénale
+T45	ANAT 1530 1536	rénale
+T46	ANAT 1544 1649	annexes ganglionnaires rénales intrarachidiennes basithoraciques sus péritonéales controlatérales gauches
+T47	Localization 1609 1612	sus
+T48	Localization 1642 1649	gauches
+T51	PROC 1804 1826	angiocytose diabétique
+T52	PROC 1842 1865	hémoglobine glycorachie
+T53	Concept_Idea 1897 1919	aspects morphologiques
+T54	DISO 1937 1975	tuberculose infectieuse néonatalitaire
+T55	PROC 1980 1997	mise en condition
+T56	LIVB 2021 2027	enfant
+T57	PROC 2038 2065	prise en charge ambulatoire
+T58	PROC 2075 2117	transfusion transfusionnelle thérapeutique
+T59	PROC 2130 2157	oxygénothérapie antimyxoide
+T60	PROC 2182 2210	antibiothérapie probabiliste
+T61	DOSE 2211 2220	50 mg /kg
+T62	TEMP 2220 2230	/24 heures
+T63	PROC 2250 2301	kinésithérapie néo prophylactique substitutionnelle
+T65	PROC 2543 2611	radiothérapie électreintracrânienne per osautomatique pulsée directe
+T66	DISO 2811 2837	signes neuropsychiatriques
+T67	PROC 2913 2941	traitement médical palliatif
+T68	CHEM 2943 2953	fluindione
+T69	CHEM 2955 2986	amoxicilline acide clavulanique
+T70	CHEM 2988 3013	acide acétyle naphténique
+T71	PROC 3028 3047	bilan immunologique
+T72	DISO 3059 3073	particularités
+T73	DISO 3091 3110	syndrome infectieux
+T74	DISO 3117 3127	métastases
+T75	MEAS 3137 3141	deux
+T76	ANAT 3142 3161	cavités pulmonaires
+T77	TEMP 3181 3188	18 mois
+T78	PROC 3194 3231	thérapeutiques systémiques adjuvantes
+T79	PROC 3245 3327	néphrectomie totale évolutive transoesophagienne subtotale aseptique préopératoire
+T80	MEAS 3365 3383	très satisfaisants
+T81	Concept_Idea 3397 3418	limites chirurgicales
+T82	DEVI 3435 3455	structures laryngées
+T83	LIVB 3505 3513	patients
+T84	Concept_Idea 3533 3559	activités professionnelles
+T85	Concept_Idea 3581 3598	activité sportive

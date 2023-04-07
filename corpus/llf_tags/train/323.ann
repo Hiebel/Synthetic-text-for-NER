@@ -1,0 +1,24 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 42 48	10 ans
+T3	LIVB 165 173	patiente
+T4	TEMP 238 254	plusieurs années
+T5	LIVB 340 347	garçons
+T6	PROC 379 384	admis
+T7	Hospital 389 421	urgences néonatales pédiatriques
+T8	PROC 464 490	polytraitement substitutif
+T9	CHEM 496 523	antiagrégants plaquettaires
+T10	PROC 584 606	consultation prénatale
+T11	PROC 621 645	prise en charge médicale
+T12	PHEN 662 672	grossesses
+T13	PROC 865 891	séances multipartenariales
+T14	LIVB 902 910	familles
+T15	Concept_Idea 1000 1025	plans pluridisciplinaires
+T16	LIVB 1133 1143	nouveau-né
+T17	TEMP 1152 1159	8 jours
+T18	DISO 1208 1246	symptomatologie obstétricale primitive
+T19	DISO 1290 1335	crises convulsives tonicocloniques partielles
+T20	PROC 1450 1510	chimiothérapie palliative intraveineuse parentérale curative
+T21	DOSE 1511 1515	30mg
+T22	TEMP 1515 1526	/ 24 heures
+T23	PROC 1556 1586	ventilation mécanique générale
+T24	PROC 1599 1630	kinésithérapie antihypertensive

@@ -1,0 +1,80 @@
+T1	LIVB 20 31	jeune fille
+T2	TEMP 35 41	22 ans
+T3	DISO 48 73	antécédents pathologiques
+T4	MEAS 74 86	particuliers
+T5	PROC 97 109	hospitalisée
+T6	Hospital 113 124	psychiatrie
+T7	DISO 133 163	trouble obsessionnel compulsif
+T8	PROC 167 182	examen clinique
+T9	LIVB 194 202	patiente
+T10	Concept_Idea 228 246	plan hémodynamique
+T11	ANAT 250 263	symptomatique
+T12	PROC 273 298	examen neuropsychiatrique
+T13	DISO 303 332	hallucinations psychomotrices
+T14	LIVB 365 374	collègues
+T15	PROC 413 429	examen somatique
+T16	DISO 441 454	particularité
+T17	Concept_Idea 463 483	plan sensitivomoteur
+T18	DISO 505 527	syndrome proprioceptif
+T19	DISO 537 559	signe dysmorphologique
+T20	PHEN 606 615	grossesse
+T21	CHEM 630 640	corticoïde
+T22	DOSE 642 647	20 mg
+T23	TEMP 647 652	/jour
+T24	DEVI 681 706	pansement auto-administré
+T25	ANAT 732 754	membre supérieur droit
+T26	Localization 749 754	droit
+T27	PROC 766 771	soins
+T28	PROC 776 799	contrôle postopératoire
+T29	PROC 834 853	bilan préopératoire
+T30	PROC 859 878	électrocardiogramme
+T31	PROC 881 884	ECG
+T32	PROC 886 907	normocardioïde direct
+T33	MEAS 910 924	4 cpmol/minute
+T34	DISO 942 970	dysfonctionnement thyroïdien
+T35	PROC 976 1001	frottis thoraco-abdominal
+T36	ANAT 984 1001	thoraco-abdominal
+T37	DISO 1018 1027	anomalies
+T38	DISO 1045 1065	hypertriglycéridémie
+T39	DISO 1080 1117	polynucléaires érythémateux myéloïdes
+T40	LIVB 1155 1162	enfants
+T41	Concept_Idea 1175 1194	aspect histologique
+T42	DISO 1211 1235	neuropathie thyroidienne
+T43	PROC 2399 2430	recherche étiopathogénéticienne
+T44	PROC 2528 2553	étude immunohistochimique
+T45	DISO 2588 2642	malformations congénitales morphologiquement atypiques
+T46	DISO 2652 2682	lésions malignes prurigineuses
+T47	DISO 2689 2728	hyperplasie caséeuse mucineux polylobée
+T48	Concept_Idea 2779 2798	aspect histologique
+T49	DISO 2820 2852	léiomyomatose du lambeau frontal
+T50	ANAT 2837 2852	lambeau frontal
+T51	MEAS 2861 2870	troisième
+T52	DISO 2887 2932	métaphagocytose des cellules hépato-biliaires
+T53	ANAT 2907 2932	cellules hépato-biliaires
+T54	Localization 2939 2956	partie inférieure
+T55	DISO 2960 3016	carcinome urothelial à cellules pyramidales neutrophiles
+T56	LIVB 3098 3105	patient
+T57	PROC 3119 3147	chimiothérapie néo adjuvante
+T58	CHEM 3152 3172	acide valproique B12
+T59	DOSE 3174 3180	100 mg
+T60	TEMP 3180 3182	/j
+T61	CHEM 3185 3214	triméthoprimesulfaméthoxazole
+T62	DOSE 3216 3221	40 mg
+T63	TEMP 3221 3223	/j
+T64	DISO 3262 3279	récidive tumorale
+T65	DISO 3289 3294	signe
+T66	PROC 3307 3329	contrôle échographique
+T67	DISO 3358 3387	masse tissulaire hypoéchogène
+T68	MEAS 3397 3401	4 cm
+T69	Concept_Idea 3405 3414	grand axe
+T70	MEAS 3427 3445	circonférentielles
+T71	ANAT 3459 3484	parenchyme crico-rénalien
+T72	MEAS 3493 3497	5 cm
+T73	Concept_Idea 3501 3516	petite courbure
+T74	MEAS 3535 3539	bien
+T75	Concept_Idea 3554 3573	fraction d'écheveau
+T76	DISO 3650 3692	tumeur lithiasique hétérogène métaplasique
+T77	ANAT 3710 3735	quadrant supéro-hématique
+T78	ANAT 3755 3773	muqueuse digestive
+T79	ANAT 3807 3832	parties molles cervicales
+T80	DISO 3886 3916	masse tissulaire infiltrevable

@@ -1,0 +1,11 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 17 22	5 ans
+T3	MEAS 189 190	4
+T4	LIVB 191 198	garçons
+T5	LIVB 253 263	nourrisson
+T6	LIVB 340 350	nouveau-né
+T7	PROC 408 424	examen somatique
+T8	PROC 438 456	bilan radiologique
+T9	DISO 470 479	anomalies
+T10	DISO 540 562	consanguinité primaire
+T11	DISO 655 676	infections néonatales

@@ -1,0 +1,35 @@
+T1	PROC 4 23	examens biologiques
+T2	DISO 41 63	syndrome inflammatoire
+T3	MEAS 68 78	spécifique
+T4	PROC 83 105	radiographie du thorax
+T5	ANAT 99 105	thorax
+T6	DISO 117 125	anomalie
+T7	PROC 130 148	scanner thoracique
+T8	ANAT 138 148	thoracique
+T9	DISO 176 206	tumeur de l'hypochondre gauche
+T10	ANAT 188 206	hypochondre gauche
+T11	Localization 200 206	gauche
+T12	Concept_Idea 216 231	caractéristique
+T13	DISO 247 307	processus carcinomateux mésenchymateux tissulaire malpighien
+T14	MEAS 317 322	13 cm
+T15	Concept_Idea 326 335	grand axe
+T16	DISO 350 404	remaniements fibro-épidermocytoplastiques neutrophiles
+T17	PROC 454 479	bilan immunohistochimique
+T18	MEAS 491 498	négatif
+T19	PROC 513 544	immunoglobulines intraveineuses
+T20	PROC 546 550	IgIV
+T21	MEAS 561 582	supérieures à 10 UI/l
+T22	PROC 596 615	cytokératine totale
+T23	MEAS 626 634	230 UI/l
+T24	PROC 638 657	étude cytogénétique
+T25	LIVB 675 682	patient
+T26	MEAS 696 703	normale
+T27	PHEN 721 740	groupes musculaires
+T28	ANAT 782 816	muscles paravertébraux thoraciques
+T29	ANAT 823 837	tronc artériel
+T30	PROC 896 919	contrôle postopératoire
+T31	PROC 939 980	chimiothérapie adjuvante type néostigmine
+T32	CHEM 969 980	néostigmine
+T33	PROC 994 1038	corticothérapie palliative substitutionnelle
+T34	PROC 1069 1095	anticoagulation préventive
+T35	DISO 1129 1147	cellules tumorales

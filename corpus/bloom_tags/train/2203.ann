@@ -1,0 +1,51 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 71	adressée
+T3	Hospital 76 84	urgences
+T4	DISO 112 150	syndrome d’hypertension intracrânienne
+T5	ANAT 136 150	intracrânienne
+T6	CHEM 156 174	méthylprednisolone
+T7	MODE 179 189	voie orale
+T8	DEVI 219 245	cathéter pédiculocaverneux
+T9	ANAT 228 245	pédiculocaverneux
+T10	PROC 260 294	transfusion sanguine intraveineuse
+T11	DOSE 305 306	3
+T12	CHEM 307 320	dexaméthasone
+T13	DOSE 323 328	50 mg
+T14	CHEM 332 345	noradrénaline
+T15	DISO 375 408	complications thromboembolisantes
+T16	DISO 425 445	signes hémorragiques
+T17	DISO 505 534	thrombose veineuse ombilicale
+T18	ANAT 515 534	veineuse ombilicale
+T19	PROC 539 574	chirurgie chirurgicale exploratrice
+T20	PROC 588 611	radiothérapie adjuvante
+T21	LIVB 642 649	patient
+T22	DISO 723 751	symptomatologie neurologique
+T23	DISO 762 784	ostéochondrite maligne
+T24	DISO 791 821	kystico-carcinome érythémateux
+T25	DISO 926 941	empyème ovarien
+T26	ANAT 934 941	ovarien
+T27	DISO 965 1001	épanchement vésiculo-gastro-duodénal
+T28	ANAT 977 1001	vésiculo-gastro-duodénal
+T29	DISO 1265 1284	maladie d’épilepsie
+T30	DISO 1287 1309	atteinte ganglionnaire
+T31	ANAT 1296 1309	ganglionnaire
+T32	PROC 1315 1333	traitement curatif
+T33	PROC 1354 1403	anastomose tuberculoïde péritonéale-mésentorielle
+T34	ANAT 1365 1403	tuberculoïde péritonéale-mésentorielle
+T35	PROC 1419 1508	curage ganglionnaire thoracique médiastinal thoraco-rachidien trans-thoracique systatique
+T36	ANAT 1440 1561	thoracique médiastinal thoraco-rachidien trans-thoracique systatique(TSCT) sous-diaphragmatique supérieur pariétal gauche
+T37	PROC 1509 1513	TSCT
+T39	ANAT 1588 1606	organes herniaires
+T40	DISO 1668 1691	méningo-surrénalectases
+T41	DISO 1719 1763	hyperplasie nécrotique tumorale épithélioide
+T42	ANAT 1777 1803	hypophyse pubis pituitaire
+T43	DISO 1906 1933	troubles cholinestérasiques
+T44	DISO 2000 2017	fistule pelvienne
+T45	ANAT 2008 2017	pelvienne
+T46	MEAS 2108 2116	atypique
+T47	PROC 2195 2220	étude anatomopathologique
+T48	DISO 2247 2308	adénocarcinome du parathyroïdien superficiel ischéo-fasciculé
+T50	Concept_Idea 2318 2325	limites
+T51	MEAS 2326 2339	bien limitées
+T52	LIVB 2344 2352	patiente
+T53	TEMP 2388 2393	2 ans

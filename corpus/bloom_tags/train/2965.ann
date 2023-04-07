@@ -1,0 +1,33 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 50 81	antécédents médico-chirurgicaux
+T3	MEAS 82 90	notables
+T4	PROC 92 98	admise
+T5	Hospital 103 111	urgences
+T6	DISO 121 148	douleurs abdominales aiguës
+T7	ANAT 130 141	abdominales
+T8	DISO 159 186	pancréatite aigue purulente
+T9	TEMP 196 211	depuis 10 jours
+T10	PROC 215 230	examen clinique
+T11	LIVB 242 250	patiente
+T12	MEAS 254 257	bon
+T13	PHEN 258 284	développement psychomoteur
+T14	Concept_Idea 290 302	état général
+T15	PROC 315 345	échographie abdomino-pelvienne
+T16	ANAT 327 345	abdomino-pelvienne
+T17	DISO 379 421	épanchement centrale du liquide péritonéal
+T18	Localization 391 399	centrale
+T19	ANAT 403 421	liquide péritonéal
+T20	ANAT 437 443	utérus
+T21	ANAT 459 479	parenchyme hépatique
+T22	ANAT 494 513	vésicules biliaires
+T23	DISO 535 573	syndrome d'épanchement intrapéritonéal
+T24	ANAT 558 573	intrapéritonéal
+T25	PROC 600 619	bilan préopératoire
+T26	PROC 649 686	cholécystectomie totale transfixiante
+T27	PROC 692 725	anastomose iléo-cæcale iléocæcale
+T28	ANAT 703 725	iléo-cæcale iléocæcale
+T29	PROC 731 756	anesthésie loco-régionale
+T30	ANAT 742 756	loco-régionale
+T31	DOSE 761 767	200 mg
+T32	CHEM 771 781	sufentanil
+T33	LIVB 810 818	patiente

@@ -1,0 +1,37 @@
+T1	LIVB 3 10	patient
+T2	DISO 42 70	choc hémorragique ischémique
+T3	DISO 120 139	pleurésie purulante
+T4	MEAS 196 201	20 kg
+T5	PROC 215 229	interrogatoire
+T6	PROC 288 303	radiothérapique
+T7	PROC 307 332	opacificateur chirurgical
+T8	PROC 345 363	traitement curatif
+T9	DISO 373 399	carcinomateuses ovariennes
+T10	PROC 409 433	chimiothérapie adjuvante
+T11	DISO 459 469	pathologie
+T12	DISO 500 538	syndrome d’épanchement intrapéritonéal
+T13	ANAT 523 538	intrapéritonéal
+T14	PROC 570 579	recherche
+T15	LIVB 594 602	patients
+T16	DISO 617 625	symptôme
+T17	DISO 771 778	dyspnée
+T18	MEAS 793 804	progressive
+T19	TEMP 814 836	depuis plusieurs jours
+T20	MEAS 846 869	de plus en plus brutale
+T21	MEAS 894 905	massivement
+T22	Concept_Idea 909 915	taille
+T23	DEVI 1109 1134	maternité gynécoservicale
+T24	LIVB 1136 1140	nous
+T25	DISO 1171 1200	cytocoque cholestase syndrome
+T26	DISO 1324 1351	empyème nécrose tuberculeux
+T27	PROC 1969 2014	thoracocentèse exploratrice échocardio-guidée
+T28	PROC 2061 2103	résection transgastrique hyo-hypogastrique
+T29	PROC 2104 2108	RTHH
+T30	DISO 2132 2156	parties molles tumorales
+T31	PROC 2214 2240	explorations endoscopiques
+T32	PROC 2274 2300	examen anatomopathologique
+T33	ANAT 2305 2323	pavillons crâniens
+T34	DISO 2357 2395	carcinome du liquide céphalo-rachidien
+T35	ANAT 2370 2395	liquide céphalo-rachidien
+T36	DISO 2397 2400	LCC
+T37	PROC 2434 2458	chimiothérapie adjuvante

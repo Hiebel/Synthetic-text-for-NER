@@ -1,0 +1,50 @@
+T1	LIVB 29 37	patiente
+T2	DISO 116 153	masse abdomino-pelvienne hypoéchogène
+T3	ANAT 122 153	abdomino-pelvienne hypoéchogène
+T4	MEAS 163 168	15 cm
+T5	Concept_Idea 172 181	grand axe
+T6	MEAS 193 208	progressivement
+T7	Concept_Idea 212 218	taille
+T8	PROC 247 272	scanner abdomino- pelvien
+T9	ANAT 255 272	abdomino- pelvien
+T10	DISO 293 339	métastase grêlo-bourgeonnante pérituberculeuse
+T11	ANAT 303 339	grêlo-bourgeonnante pérituberculeuse
+T12	PHEN 358 378	envahissement cutané
+T13	DISO 389 414	localisation métastatique
+T14	DISO 445 453	tumorale
+T15	DISO 457 480	neuroendocrine tumorale
+T16	PROC 485 500	examen clinique
+T17	LIVB 514 522	patiente
+T18	Concept_Idea 547 565	plan hémodynamique
+T19	DISO 584 633	masse hypogastrique utéro-vésiculaire douloureuse
+T20	ANAT 590 793	hypogastrique utéro-vésiculaire douloureuse pesant 30kg d’aspect macroscopiquement homogène non polylobée ni douloureuse alors qu’un diagnostic radiographique préopératoire montrait une hypochondre droit
+T21	MEAS 641 645	30kg
+T22	Concept_Idea 648 654	aspect
+T23	MEAS 655 681	macroscopiquement homogène
+T24	DISO 686 695	polylobée
+T25	DISO 699 710	douloureuse
+T26	PROC 723 762	diagnostic radiographique préopératoire
+T27	DISO 776 793	hypochondre droit
+T28	Localization 788 793	droit
+T29	ANAT 814 833	flux iléosigmoïdien
+T30	ANAT 855 874	organes intestinaux
+T31	PROC 891 911	injection radiolaire
+T32	LIVB 924 933	patientes
+T33	MEAS 947 966	fortement suspectés
+T34	CHEM 1109 1123	hydrocortisone
+T35	DOSE 1124 1130	2mg/kg
+T36	TEMP 1130 1132	/J
+T37	PROC 1138 1167	geste chirurgical explorateur
+T38	PROC 1186 1239	splénectomie totale biliaire pancréatobiliaire étagée
+T39	DEVI 1261 1270	matériels
+T40	PROC 1713 1820	anastomose iléo-colique gastro-anastomotique diaphragmatique biquotidienne gastrovésiculaire type Mc Burney
+T42	PROC 1866 1899	traitement prophylactique curatif
+T43	CHEM 1910 1923	dexaméthasone
+T44	MODE 1925 1930	bolus
+T45	DOSE 1931 1936	60 mg
+T46	TEMP 1937 1939	/j
+T47	CHEM 1942 1953	Cyclosérine
+T48	DOSE 1968 1973	20 mg
+T49	TEMP 1974 1993	toutes les 8 heures
+T50	MEAS 2082 2104	rapidement progressive
+T51	DISO 2111 2126	symptomatologie

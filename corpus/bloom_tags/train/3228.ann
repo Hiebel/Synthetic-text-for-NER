@@ -1,0 +1,71 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	DISO 42 65	antécédent pathologique
+T4	MEAS 66 73	notable
+T5	PROC 75 79	reçu
+T6	Hospital 84 92	urgences
+T7	DISO 102 135	douleurs épigastriques chroniques
+T8	ANAT 111 124	épigastriques
+T9	TEMP 145 161	depuis une année
+T10	PROC 165 180	examen clinique
+T11	Concept_Idea 193 198	poids
+T12	MEAS 202 207	20 kg
+T13	Concept_Idea 217 223	taille
+T14	MEAS 227 231	1m60
+T15	LIVB 233 235	Il
+T16	PROC 242 253	hospitalisé
+T17	Hospital 257 278	service d'urétrologie
+T18	DISO 290 311	détresse respiratoire
+T19	PHEN 299 311	respiratoire
+T20	DISO 329 362	cholestase hémorragique purulante
+T22	ANAT 397 407	artérielle
+T23	MEAS 426 437	120/100mmhg
+T24	ANAT 450 457	fémoral
+T25	MEAS 469 480	80 batt/min
+T26	PROC 484 517	auscultation cardio-vasculorénale
+T27	ANAT 497 517	cardio-vasculorénale
+T28	DISO 548 577	paralysie du ventricule droit
+T29	ANAT 561 577	ventricule droit
+T30	Localization 572 577	droit
+T31	DISO 590 623	syndrome d’épanchement péritonéal
+T32	ANAT 613 623	péritonéal
+T33	MEAS 634 642	14 000ml
+T34	CHEM 645 659	intraméthadone
+T35	DISO 697 716	maladie de Takayasu
+T36	DISO 723 763	cardiomyopathies dilatées hypertrophiées
+T37	DISO 785 808	pathologies secondaires
+T38	DISO 826 834	polypnée
+T39	DISO 845 861	signes cliniques
+T40	PROC 876 890	interrogatoire
+T41	PROC 894 913	bilan préopératoire
+T42	PROC 931 939	natrémie
+T43	MEAS 942 951	133 meq/l
+T44	PROC 957 965	kaliémie
+T45	MEAS 968 982	0,5 meq/kg/min
+T46	PROC 988 999	protéinurie
+T47	PROC 1015 1042	numération formule sanguine
+T48	MEAS 1063 1071	négatifs
+T49	PROC 1085 1115	échographie abdomino-pelvienne
+T50	ANAT 1097 1115	abdomino-pelvienne
+T51	DISO 1140 1190	lésion kystique tissulaire hypo échogéne hypodense
+T52	MEAS 1200 1205	17 cm
+T53	MEAS 1210 1215	13 cm
+T54	ANAT 1236 1243	pelvien
+T55	ANAT 1275 1295	fosse iliaque droite
+T56	Localization 1289 1295	droite
+T57	MEAS 1307 1316	lentement
+T58	Concept_Idea 1320 1329	grand axe
+T59	MEAS 1370 1381	progressive
+T60	CHEM 1427 1445	méthylprednisolone
+T61	DOSE 1451 1458	2 mg/kg
+T62	TEMP 1458 1460	/j
+T63	CHEM 1463 1477	hydrocortisone
+T64	DISO 1590 1614	néphropathie congénitale
+T65	DISO 1634 1648	masse tumorale
+T66	PROC 1682 1701	mesures préventives
+T67	LIVB 1721 1727	garçon
+T68	TEMP 1735 1740	9 ans
+T69	DISO 1765 1786	anomalie neurologique
+T70	DISO 1866 1902	ostéochondromatose nodulaire maligne
+T71	MEAS 2010 2022	prédominante
+T72	PROC 2116 2132	histologiquement

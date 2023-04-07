@@ -1,0 +1,34 @@
+T1	LIVB 28 35	patient
+T2	DISO 56 79	antécédent pathologique
+T3	MEAS 80 91	particulier
+T4	PROC 93 98	admis
+T5	Hospital 103 128	urgences ophtalmologiques
+T6	DISO 147 161	amaigrissement
+T7	MEAS 172 176	6 kg
+T8	CHEM 182 200	méthylprednisolone
+T9	PROC 238 262	laparotomie exploratrice
+T10	PROC 278 321	intubation surrénalienne transoesophagienne
+T11	ANAT 289 321	surrénalienne transoesophagienne
+T12	PROC 334 358	anesthésie locorégionale
+T13	ANAT 345 358	locorégionale
+T14	DISO 425 478	syndrome d’épanchement intra-parenchymateux liquidien
+T15	ANAT 448 478	intra-parenchymateux liquidien
+T16	DISO 488 535	maladie thromboembolique prurigineuse purulente
+T17	PROC 540 555	examen clinique
+T18	MEAS 616 619	3cm
+T19	Concept_Idea 623 632	grand axe
+T20	MEAS 637 641	4 cm
+T21	Concept_Idea 645 658	petite taille
+T22	ANAT 680 703	pelvien supérieur droit
+T23	Localization 698 703	droit
+T24	MEAS 715 731	de façon brutale
+T25	Concept_Idea 735 741	volume
+T26	TEMP 750 764	dans 72 heures
+T27	MEAS 778 790	prurigineuse
+T28	DISO 813 824	bradycardie
+T29	DISO 831 852	douleur hypogastrique
+T30	ANAT 839 852	hypogastrique
+T31	PROC 869 899	examen gynécologique somatique
+T32	DISO 911 924	particularité
+T33	DISO 942 986	souffrance placento-nerveux cervico-vaginale
+T34	ANAT 953 986	placento-nerveux cervico-vaginale

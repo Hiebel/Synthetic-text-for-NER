@@ -1,0 +1,13 @@
+T1	LIVB 28 35	patient
+T2	Hospital 78 109	chirurgien viscéral pédiatrique
+T3	DISO 140 154	AVC ischémique
+T4	DEVI 218 237	staff multithérapie
+T5	LIVB 241 243	il
+T6	DISO 377 402	hallucinations psychiques
+T7	Concept_Idea 457 469	état général
+T8	MEAS 481 493	spontanément
+T9	PROC 507 528	ventilation mécanique
+T10	DISO 542 559	dyspnée sifflante
+T11	DISO 575 609	hallucinations délires polymorphes
+T12	DISO 638 660	perte auditivo-motrice
+T13	TEMP 810 817	7 jours

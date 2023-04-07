@@ -1,0 +1,46 @@
+T1	LIVB 34 42	patiente
+T2	Concept_Idea 64 69	ATCDH
+T3	DISO 92 120	polyarthralgie inflammatoire
+T4	TEMP 130 143	depuis 3 mois
+T5	PROC 148 164	bilan biologique
+T6	PROC 178 208	échographie abdomino-pelvienne
+T7	ANAT 190 208	abdomino-pelvienne
+T8	PROC 210 213	ECU
+T9	PROC 216 249	imagerie par résonance magnétique
+T10	PROC 251 254	IRM
+T11	PROC 257 305	examen cytobactériologique du liquide péritonéal
+T12	ANAT 287 305	liquide péritonéal
+T13	PROC 311 329	protéinurie per os
+T14	PROC 338 372	test rapide d'immunorétroïponction
+T15	MEAS 380 387	positif
+T16	CHEM 391 398	nystat®
+T17	DISO 419 452	syndrome d'épanchement péritonéal
+T18	ANAT 442 452	péritonéal
+T19	DISO 457 495	hyperparathyroïdie primaire secondaire
+T20	LIVB 518 526	patiente
+T21	PROC 535 559	exploration chirurgicale
+T22	PROC 565 584	anesthésie générale
+T23	PROC 591 600	admission
+T24	Hospital 605 621	bloc opératoires
+T25	TEMP 648 654	20 min
+T26	TEMP 658 664	30 min
+T27	PHEN 720 732	respiratoire
+T28	MEAS 744 759	progressivement
+T29	Concept_Idea 763 770	vitesse
+T30	DOSE 831 837	1 g/kg
+T31	CHEM 841 851	sufentanil
+T32	DOSE 854 863	0,5 µg/kg
+T33	CHEM 867 875	propofol
+T34	PROC 880 907	analyse anatomopathologique
+T35	DISO 934 972	maladie thromboembolique intraveineuse
+T36	DISO 978 1003	thrombophlébitus brachial
+T37	DISO 1023 1038	nodules tumoral
+T38	DISO 1048 1056	kystique
+T39	DISO 1098 1110	vascularisée
+T40	DISO 1152 1179	épanchement intrapéritonéal
+T41	ANAT 1164 1179	intrapéritonéal
+T42	MEAS 1201 1214	environ 30 cm
+T43	Concept_Idea 1218 1227	grand axe
+T44	Localization 1249 1253	sous
+T45	Localization 1305 1317	homolatérale
+T46	ANAT 1502 1525	muscles para vertébraux

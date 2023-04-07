@@ -1,0 +1,28 @@
+T1	LIVB 3 10	patient
+T2	DISO 30 55	antécédents pathologiques
+T3	MEAS 56 64	notables
+T4	PROC 66 76	consultait
+T5	Hospital 81 89	urgences
+T6	DISO 99 126	douleurs abdominales aiguës
+T7	ANAT 108 119	abdominales
+T8	TEMP 136 158	depuis plusieurs jours
+T9	PHEN 192 207	acuité visuelle
+T10	PROC 211 226	examen clinique
+T11	LIVB 239 246	patient
+T12	MEAS 250 253	bon
+T13	Concept_Idea 254 272	état hémodynamique
+T14	DISO 296 317	détresse respiratoire
+T15	PHEN 305 317	respiratoire
+T16	DISO 326 359	syndrome inflammatoire biologique
+T17	PROC 364 383	bilan préopératoire
+T18	DISO 400 441	anémie ferriprive hypochrome microcytaire
+T19	DISO 457 473	hyperleucocytose
+T20	MEAS 476 485	18500/mm3
+T21	PROC 519 549	échographie abdomino-pelvienne
+T22	ANAT 531 549	abdomino-pelvienne
+T23	DISO 572 661	épanchement surrénalien latéro-utérin cervicovaginaux péribithoracique du sinus caverneux
+T26	MEAS 671 676	13 cm
+T27	Concept_Idea 680 689	grand axe
+T28	DISO 709 781	adénopathies médiastinées parenchymateuses hypophagocytaires tissulaires
+T30	ANAT 797 810	grêl laryngée
+T31	ANAT 825 861	vésicules séreux rétro-laryngasiques

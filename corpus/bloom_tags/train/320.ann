@@ -1,0 +1,21 @@
+T1	LIVB 0 8	patiente
+T2	DISO 25 34	primipare
+T3	Concept_Idea 41 51	antécédent
+T4	MEAS 52 63	particulier
+T5	PROC 67 87	examen gynécologique
+T6	ANAT 100 103	col
+T7	PHEN 122 143	contractions utérines
+T8	ANAT 135 143	utérines
+T9	MEAS 144 154	régulières
+T10	TEMP 156 164	2 cycles
+T11	PROC 182 201	bilan préopératoire
+T12	PROC 219 250	échographie abdomino- périnéale
+T13	ANAT 231 250	abdomino- périnéale
+T14	PROC 258 294	ponction liquide pleuro-péricardique
+T16	DISO 321 329	anomalie
+T17	PROC 343 368	intervention chirurgicale
+T19	DEVI 403 422	cathéter centralisé
+T20	ANAT 436 461	plexus veineux cave droit
+T21	Localization 456 461	droit
+T22	PROC 475 498	toilette sphinctérienne
+T23	ANAT 484 498	sphinctérienne

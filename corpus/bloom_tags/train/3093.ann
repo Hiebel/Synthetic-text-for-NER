@@ -1,0 +1,23 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	5 ans
+T3	DISO 25 50	antécédents pathologiques
+T4	MEAS 51 59	notables
+T5	PROC 61 72	hospitalisé
+T6	Hospital 77 85	urgences
+T7	DISO 95 130	douleurs abdomino-pelviennes aiguës
+T8	ANAT 104 123	abdomino-pelviennes
+T9	PROC 134 149	examen clinique
+T10	LIVB 166 172	enfant
+T11	MEAS 176 179	bon
+T12	Concept_Idea 180 192	état général
+T13	PHEN 202 221	pression artérielle
+T14	ANAT 211 221	artérielle
+T15	MEAS 232 245	150 / 80 mmHg
+T16	DEVI 252 270	tension artérielle
+T17	ANAT 260 270	artérielle
+T18	MEAS 273 284	130/70 mmHg
+T19	PROC 290 299	admission
+T20	Hospital 303 345	service d'urétro-hydronéphrose congénitale
+T21	Hospital 349 398	Centre Hospitalier universitaire Hassan II de Fès
+T22	LIVB 412 422	nouveau-né
+T23	Concept_Idea 443 461	plan hémodynamique

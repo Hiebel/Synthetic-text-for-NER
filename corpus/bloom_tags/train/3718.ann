@@ -1,0 +1,29 @@
+T1	LIVB 28 35	patient
+T2	DISO 68 96	adénocarcinome du sein droit
+T3	ANAT 86 96	sein droit
+T4	Localization 91 96	droit
+T5	PHEN 102 120	suites opératoires
+T6	MEAS 129 136	simples
+T7	DISO 160 179	symptômes cliniques
+T8	TEMP 191 201	trois mois
+T9	PROC 204 216	on-chirurgie
+T10	DISO 223 238	lésion kystique
+T11	MEAS 248 252	2 cm
+T12	Concept_Idea 256 265	grand axe
+T13	MEAS 270 274	1 cm
+T14	Concept_Idea 278 287	petit axe
+T15	ANAT 309 343	structures glandulaires axillaires
+T16	DISO 436 455	carcinomes malignes
+T17	LIVB 476 484	patiente
+T18	DISO 563 587	métastases nécromateuses
+T19	DISO 659 690	complications thromboemboliques
+T20	PROC 756 787	chirurgie radicale chirurgicale
+T21	DISO 814 860	adénocarcinome du sein droit altéropneumatique
+T22	ANAT 832 860	sein droit altéropneumatique
+T24	DISO 895 928	syndrome d’épanchement péritonéal
+T25	ANAT 918 928	péritonéal
+T26	MEAS 942 949	brutale
+T27	TEMP 959 985	depuis environ deux années
+T28	MEAS 1039 1045	4060°C
+T29	LIVB 1072 1074	Il
+T30	PROC 1315 1333	examen extemporané

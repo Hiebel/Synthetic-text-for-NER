@@ -1,0 +1,26 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	11 ans
+T3	DISO 39 65	polyarthrite inflammatoire
+T4	DISO 98 115	dyspnée sifflante
+T5	TEMP 125 138	depuis 1 mois
+T6	PHEN 197 204	appétit
+T7	DISO 206 243	de la sensibilité abdomino- pelvienne
+T9	ANAT 224 243	abdomino- pelvienne
+T10	DISO 249 257	anorexie
+T11	DISO 277 292	symptomatologie
+T12	DISO 324 355	signes phospho-folliculocytaire
+T13	PROC 369 413	tomodensitométrie thoraco-abdomino-pelvienne
+T14	ANAT 387 413	thoraco-abdomino-pelvienne
+T15	PROC 428 445	anesthésie locale
+T16	DISO 465 506	paragangliome érythro-thyroïdien infiltré
+T17	DISO 520 545	nodule thyroïdien maligne
+T18	ANAT 567 596	région péritonéale abdominale
+T19	MEAS 606 611	22 mm
+T20	Concept_Idea 615 624	grand axe
+T21	ANAT 644 661	greffon hépatique
+T22	DISO 685 719	adénopathie kystique hypertrophiée
+T23	DISO 737 757	métastasie ovarienne
+T24	ANAT 748 757	ovarienne
+T25	DISO 844 871	caractères pathognomoniques
+T26	DISO 1001 1037	maladie thromboembolique congénitale
+T27	PROC 1090 1121	ponction pleurale intraveineuse

@@ -1,0 +1,28 @@
+T1	LIVB 15 23	patiente
+T2	DISO 67 90	hypertension artérielle
+T3	ANAT 80 90	artérielle
+T4	PROC 94 109	examen clinique
+T5	DISO 139 170	œdème du membre inférieur droit
+T6	ANAT 148 170	membre inférieur droit
+T7	Localization 165 170	droit
+T8	DISO 184 205	déficit en corticoïde
+T9	CHEM 195 205	corticoïde
+T10	Concept_Idea 207 212	score
+T11	MEAS 214 218	9/10
+T12	PROC 224 249	scanner thoraco-abdominal
+T13	ANAT 232 249	thoraco-abdominal
+T14	PROC 267 284	bilan étiologique
+T15	PROC 290 314	exploration chirurgicale
+T16	DISO 326 335	anomalies
+T17	PROC 341 369	chimiothérapie néo adjuvante
+T18	DOSE 374 379	15 mg
+T19	CHEM 383 398	fluoroquinolone
+T20	PROC 412 430	antibioprophylaxie
+T21	Concept_Idea 468 476	clinique
+T22	DISO 496 525	symptômes neuropsychiatriques
+T23	PHEN 531 549	suites opératoires
+T24	MEAS 558 568	favorables
+T25	PROC 574 610	circulation extracorporelle curative
+T26	TEMP 620 635	post opératoire
+T27	PROC 625 635	opératoire
+T28	PROC 699 707	anamnèse

@@ -1,0 +1,28 @@
+T1	LIVB 33 40	patient
+T2	DISO 60 85	antécédents pathologiques
+T3	MEAS 86 94	notables
+T4	Hospital 117 142	urgences ophtalmologiques
+T5	Hospital 146 195	centre Hospitalier universitaire Hassan II de Fès
+T6	DISO 215 235	douleur épigastrique
+T7	ANAT 223 235	épigastrique
+T8	TEMP 245 267	depuis plusieurs jours
+T9	DISO 280 332	syndrome d'épanchement centrale péritonéal liquidien
+T10	Localization 303 311	centrale
+T11	Concept_Idea 363 375	état général
+T12	PROC 432 443	hospitalisé
+T13	PROC 449 484	anesthésie pelvienne transpharyngée
+T14	ANAT 460 484	pelvienne transpharyngée
+T15	DEVI 534 557	sonde nasofibroscopique
+T17	LIVB 588 596	patiente
+T18	DISO 621 646	troubles sensitivomoteurs
+T19	DISO 658 677	signes neurologique
+T20	DISO 695 706	déglutition
+T21	DISO 743 765	traumatisme ischémique
+T22	DISO 819 828	céphalées
+T23	DISO 871 882	mucocutanée
+T24	ANAT 903 924	muqueuse épigastrique
+T25	MEAS 934 947	environ 10 cm
+T26	Concept_Idea 951 960	grand axe
+T27	Concept_Idea 973 985	consentement
+T28	PROC 1092 1117	intervention chirurgicale
+T29	TEMP 1264 1270	17 ans

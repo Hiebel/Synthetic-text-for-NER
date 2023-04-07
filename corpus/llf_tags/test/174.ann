@@ -1,0 +1,83 @@
+T1	LIVB 4 9	femme
+T2	DISO 31 56	antécédents pathologiques
+T3	MEAS 57 69	particuliers
+T4	PROC 76 88	hospitalisée
+T5	DISO 98 114	dyspnée d'effort
+T6	TEMP 124 138	depuis 6 jours
+T7	PROC 142 157	examen clinique
+T8	Concept_Idea 170 182	état général
+T9	MEAS 183 189	altéré
+T10	DISO 199 247	signes inflammatoires du membre supérieur gauche
+T11	ANAT 224 247	membre supérieur gauche
+T12	Localization 241 247	gauche
+T13	DISO 260 276	syndrome grippal
+T14	DISO 282 288	fièvre
+T15	MEAS 291 297	39 ° C
+T16	PROC 316 335	examen neurologique
+T17	DISO 347 361	particularités
+T18	PROC 366 385	radiologie standard
+T19	DISO 403 428	troubles sensitivo-moteur
+T20	DISO 432 452	convulsions fébriles
+T21	PHEN 458 476	suites opératoires
+T22	MEAS 485 492	simples
+T23	PROC 498 516	antibioprophylaxie
+T24	CHEM 524 538	ciprofloxacine
+T25	CHEM 551 582	amoxicilline acide clavulanique
+T26	DEVI 623 632	brochures
+T27	MODE 636 648	intraveineux
+T28	PROC 696 717	contrôle locorégional
+T29	MEAS 731 746	peu contributif
+T30	Hospital 787 821	structures hospitalo-hospitalières
+T31	PROC 860 871	échographie
+T32	DISO 898 939	masse tissulaire hypogastrique hétérogène
+T33	MEAS 949 954	15 cm
+T34	Concept_Idea 958 967	grand axe
+T35	MEAS 976 981	25 mm
+T36	Concept_Idea 985 993	diamètre
+T37	DISO 1023 1029	tumeur
+T38	MEAS 1042 1050	stade II
+T39	ANAT 1120 1164	nerf laryngé inférieur droit postéro-externe
+T40	Localization 1143 1164	droit postéro-externe
+T41	ANAT 1219 1239	cavités péritonéales
+T42	PROC 1296 1329	scanner thoraco- abdomino-pelvien
+T43	ANAT 1304 1329	thoraco- abdomino-pelvien
+T44	PROC 1344 1366	traitement chirurgical
+T45	DISO 1401 1485	distension abdominopérinéale diaphragmatique gastrico-duodénale supéro-oesophagienne
+T46	ANAT 1412 1485	abdominopérinéale diaphragmatique gastrico-duodénale supéro-oesophagienne
+T47	MEAS 1501 1516	progressivement
+T48	PROC 1534 1550	cholécystectomie
+T49	MEAS 1562 1575	3 centimètres
+T50	MEAS 1578 1591	6 centimètres
+T51	PROC 1603 1631	tomodensitométrie thoracique
+T52	PROC 1653 1694	recto-sigmoïdectomie totale scanno-guidée
+T55	Localization 1987 2028	homolatérale maxillaire supérieure droite
+T56	Concept_Idea 2883 2913	caractéristiques histologiques
+T57	Concept_Idea 2919 2939	aspect morphologique
+T58	LIVB 2943 2950	patient
+T59	Concept_Idea 2991 3021	résultats anatomopathologiques
+T60	Concept_Idea 3031 3042	score HARPS
+T61	PROC 3065 3085	suivi postopératoire
+T62	PROC 3108 3130	contrôle échographique
+T63	DISO 3153 3173	récidive infectieuse
+T64	DISO 3177 3188	infectieuse
+T65	DISO 3198 3212	décès néonatal
+T66	PROC 3224 3241	geste chirurgical
+T67	PHEN 3246 3255	grossesse
+T68	PROC 3281 3306	corticothérapie adjuvante
+T69	PROC 3322 3350	antibiothérapie probabiliste
+T70	TEMP 3384 3394	8 semaines
+T71	PROC 3408 3423	hospitalisation
+T72	Hospital 3427 3449	service de gynécologie
+T73	PROC 3455 3475	reprise chirurgicale
+T74	PROC 3544 3584	circulation extracorporelle exploratrice
+T75	DEVI 3593 3602	seringues
+T76	ANAT 3700 3720	membranes digestives
+T77	CHEM 3792 3831	amoxicilline acide clavulanique sodique
+T78	LIVB 3874 3891	familles germains
+T79	DISO 3925 3958	complications neuropsychiatriques
+T80	MEAS 4227 4234	simples
+T81	DISO 4244 4286	trouble sensitivo-moteur psychomoteur aigu
+T82	DISO 4296 4316	fébricule nullipares
+T83	DISO 4334 4365	crise convulsive multiviscérale
+T84	PROC 4382 4402	examens fonctionnels
+T85	PROC 4422 4442	examen gynécologique

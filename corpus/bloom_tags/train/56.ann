@@ -1,0 +1,17 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	3 ans
+T3	Concept_Idea 37 48	antécédents
+T4	MEAS 49 61	particuliers
+T5	PROC 63 74	hospitalisé
+T6	Hospital 79 87	urgences
+T7	DISO 96 131	syndrome d'épanchement péricardique
+T8	ANAT 119 131	péricardique
+T9	DISO 152 175	épigastralgie chronique
+T10	PROC 179 194	examen clinique
+T11	PROC 199 208	admission
+T12	DISO 240 262	symptômes fonctionnels
+T13	DISO 295 326	dysmorphie du tronc cérébelleux
+T14	ANAT 309 326	tronc cérébelleux
+T15	TEMP 336 349	depuis 6 mois
+T16	PROC 353 384	échographie abdomino- périnéale
+T17	ANAT 365 384	abdomino- périnéale

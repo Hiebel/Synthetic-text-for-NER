@@ -1,0 +1,99 @@
+T1	PROC 3 45	radiographie de l’abdomen sans préparation
+T2	ANAT 21 28	abdomen
+T3	MEAS 75 85	volumineux
+T4	DISO 86 101	pneumopéritoine
+T5	Localization 115 138	quadrant supéro-externe
+T6	PROC 143 182	tomodensitométrie par cohérence optique
+T7	PROC 184 206	TDM) abdominopelvienne
+T8	ANAT 189 206	abdominopelvienne
+T9	PROC 210 219	du bassin
+T10	ANAT 213 219	bassin
+T11	LIVB 248 258	nouveau-né
+T12	Concept_Idea 319 339	statut hémodynamique
+T13	MEAS 342 347	4/7cm
+T14	Concept_Idea 364 382	plans radiologique
+T15	PHEN 386 398	respiratoire
+T16	TEMP 408 418	depuis 48h
+T17	PROC 422 447	étude immunohistochimique
+T18	PROC 448 451	IHC
+T19	MEAS 468 475	normale
+T20	LIVB 490 496	petits
+T21	LIVB 497 504	malades
+T22	PROC 514 538	chimiothérapie adjuvante
+T23	PROC 554 604	transfusions sanguines intraveineuses parentérales
+T24	CHEM 610 636	immunofluorescence directe
+T25	CHEM 640 656	anticonvulsivant
+T26	PROC 670 694	échographie obstétricale
+T27	Concept_Idea 722 752	caractéristiques histologiques
+T28	PROC 791 816	scanner thoraco-abdominal
+T29	ANAT 799 816	thoraco-abdominal
+T30	PROC 831 857	anticoagulation préventive
+T31	DISO 882 890	anomalie
+T32	DISO 900 916	signe infectieux
+T33	DISO 934 957	localisation secondaire
+T34	Concept_Idea 1007 1027	aspect morphologique
+T35	DISO 1044 1069	tuberculose néonatalienne
+T36	DISO 1094 1118	tumeur primitive maligne
+T37	DISO 1128 1138	fistuleuse
+T38	MEAS 1160 1169	stade III
+T39	PROC 1352 1383	radiodiagnostic scannographique
+T40	PROC 1402 1431	prise en charge thérapeutique
+T41	DISO 1465 1507	dérivation kystique hypoéchogène périostée
+T42	MEAS 1517 1522	15 cm
+T43	Concept_Idea 1526 1535	grand axe
+T44	ANAT 1557 1577	structures biliaires
+T45	ANAT 1601 1620	parenchyme digestif
+T46	ANAT 1654 1680	membranes alvéolo-grêlique
+T47	MEAS 1696 1701	18 mm
+T48	Concept_Idea 1705 1714	petit axe
+T49	ANAT 1738 1795	vessie gastrocnémato-rétracillaire sus transoesophagienne
+T50	ANAT 1805 1906	colon transverse fundique abdomino-rénal postéro-latéral controlatéral antero-jugulaire lombosinusien
+T51	PROC 1912 1923	myélogramme
+T52	PROC 1940 1950	monitorage
+T53	DISO 1962 2022	kyste hydatique liquidienne rétro périlésionnelle hétérogène
+T54	ANAT 2039 2067	cellules hépatiques distales
+T55	ANAT 2082 2098	pièce opératoire
+T56	MEAS 2190 2200	favorables
+T57	TEMP 2233 2241	10 jours
+T58	TEMP 2245 2251	2 mois
+T59	LIVB 2277 2284	patient
+T60	DISO 2322 2361	accident vasculaire crânio-encéphalique
+T61	ANAT 2342 2361	crânio-encéphalique
+T62	PROC 2392 2415	ostéotomie exploratrice
+T63	PROC 2456 2478	contrôles chirurgicaux
+T64	PROC 2502 2533	traitement médical conservateur
+T65	PROC 2546 2567	ventilation mécanique
+T66	PROC 2581 2609	antibiothérapie probabiliste
+T67	PROC 2682 2715	oxygénothérapie substitutionnelle
+T68	CHEM 2724 2745	antalgiques calciques
+T69	CHEM 2751 2764	amoxicilline®
+T70	CHEM 2766 2793	pénicilline Acide Fusidique
+T71	DOSE 2795 2798	1 g
+T72	TEMP 2798 2803	/jour
+T73	CHEM 2811 2824	béthamétasone
+T74	PROC 2860 2890	remplissage multidisciplinaire
+T75	PROC 2914 2938	extubation endotrachéale
+T76	DEVI 2964 2970	masque
+T77	DEVI 2974 2985	vis canulée
+T78	PROC 3005 3025	examen macroscopique
+T79	DISO 3047 3075	lésion tissulaire secondaire
+T80	DISO 3079 3099	signes histologiques
+T81	DISO 3126 3171	remaniements granulomateux polycytonucléaires
+T82	Concept_Idea 3216 3235	aspect radiologique
+T83	DISO 3252 3278	sarcomatose pétéchiatrique
+T84	LIVB 3307 3318	chirurgiens
+T85	PROC 3332 3354	consultations externes
+T86	PROC 3361 3392	scanner thoraco-abdominopelvien
+T87	ANAT 3369 3392	thoraco-abdominopelvien
+T88	DISO 3444 3480	maladie thromboembolique congénitale
+T89	LIVB 3538 3545	malades
+T90	PROC 3576 3600	radiothérapie palliative
+T91	PHEN 3744 3765	grossesse monofoetale
+T92	TEMP 3786 3791	48 SA
+T93	TEMP 3797 3806	8SA+6mois
+T94	PROC 3860 3900	néphrectomie totale intravésico-vaginale
+T95	PROC 3915 3936	tableau morphologique
+T96	DISO 3973 4024	fistule urothéliale métatarsienne fœtale rémittente
+T97	ANAT 3981 4024	urothéliale métatarsienne fœtale rémittente
+T98	DISO 4036 4092	masse tumorale rétropéritonéale érythroblastique maligne
+T99	MEAS 4101 4109	stade II

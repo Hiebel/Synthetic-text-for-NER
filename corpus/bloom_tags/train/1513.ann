@@ -1,0 +1,26 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	PROC 37 41	reçu
+T4	Hospital 46 54	urgences
+T5	DISO 64 93	douleurs épigastriques aiguës
+T6	ANAT 73 86	épigastriques
+T7	DISO 110 137	tuméfaction du flanc gauche
+T8	ANAT 125 137	flanc gauche
+T9	Localization 131 137	gauche
+T10	TEMP 148 161	depuis 2 mois
+T11	DISO 174 183	anomalies
+T12	PROC 196 211	examen clinique
+T13	MEAS 227 232	petit
+T14	DISO 233 256	déficit sensitivomoteur
+T15	Concept_Idea 258 271	force globale
+T16	MEAS 282 288	2/5ème
+T17	PROC 294 313	bilan préopératoire
+T18	PROC 331 358	numération formule sanguine
+T19	PROC 364 383	hémoglobine glyquée
+T20	PROC 387 417	échographie abdomino-pelvienne
+T21	ANAT 399 417	abdomino-pelvienne
+T22	DISO 435 450	masse hypodense
+T23	MEAS 495 499	6 cm
+T24	ANAT 516 536	fosse iliaque droite
+T25	Localization 530 536	droite
+T26	ANAT 552 584	muscle paravertébro-supraglottis

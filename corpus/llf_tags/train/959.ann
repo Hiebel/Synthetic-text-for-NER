@@ -1,0 +1,124 @@
+T1	LIVB 18 23	homme
+T2	PROC 66 78	consultation
+T3	Hospital 82 93	psychiatrie
+T4	PHEN 110 119	grossesse
+T5	TEMP 132 138	6 mois
+T6	DISO 162 181	douleurs pelviennes
+T7	ANAT 171 181	pelviennes
+T8	Concept_Idea 190 202	état général
+T9	MEAS 203 209	altéré
+T10	Concept_Idea 254 266	état général
+T11	DISO 279 285	signes
+T12	PROC 316 325	admission
+T13	Hospital 329 344	bloc opératoire
+T14	PROC 350 369	anesthésie générale
+T15	PROC 373 405	transfusion du bronchodilatateur
+T16	CHEM 388 405	bronchodilatateur
+T17	DEVI 409 415	masque
+T18	MEAS 422 428	souple
+T19	MEAS 437 440	3cm
+T20	DISO 445 454	pulsatile
+T21	ANAT 476 491	anses grêliques
+T22	DISO 515 549	déficit sensitivomoteur congénital
+T23	MEAS 586 596	favorables
+T24	PROC 646 681	prise en charge psychothérapeutique
+T25	DOSE 683 686	1kg
+T26	TEMP 686 694	/semaine
+T27	PROC 714 738	alimentation parentérale
+T28	PROC 762 776	suivi néonatal
+T29	PROC 782 805	radiothérapie adjuvante
+T30	PROC 843 877	nébupivacainectomie totale élargie
+T31	ANAT 896 919	membre inférieur gauche
+T32	Localization 913 919	gauche
+T33	ANAT 939 961	troncs supra-aortiques
+T34	PROC 993 1000	retirés
+T35	PROC 1005 1036	tomodensitométrie scanno-guidée
+T36	PROC 1050 1076	examen anatomopathologique
+T37	DISO 1095 1142	processus tissulaire hypoéchogène hyperéchogène
+T38	MEAS 1152 1159	55x25mm
+T39	MEAS 1162 1166	50mm
+T40	MEAS 1172 1177	30 cm
+T41	Concept_Idea 1181 1189	diamètre
+T42	ANAT 1207 1239	paroi vésico-utérine fundiqueuse
+T43	ANAT 1259 1287	ganglions inféro-expectoraux
+T44	ANAT 1321 1337	jumeaux pelviens
+T45	ANAT 1341 1369	vésicule fœtale homolatérale
+T46	Localization 1357 1369	homolatérale
+T48	Localization 1398 1419	bilatérale inférieure
+T49	PROC 1428 1455	analyse cytobactériologique
+T50	DISO 1474 1490	germe infectieux
+T51	DISO 1515 1538	localisation secondaire
+T52	PROC 1542 1567	étude immunohistochimique
+T53	DISO 1587 1598	infectieuse
+T54	DISO 1645 1685	cellules tumorales érythémato-papuleuses
+T55	Concept_Idea 1731 1754	caractère chromogénique
+T56	LIVB 1793 1800	malades
+T57	PROC 1861 1886	scanner thoraco-abdominal
+T58	ANAT 1869 1886	thoraco-abdominal
+T59	Localization 1932 1952	latéralement opposés
+T60	MEAS 1958 1981	légèrement asymétriques
+T61	ANAT 1997 2020	aires biliaires droites
+T62	Localization 2013 2020	droites
+T63	MEAS 2026 2037	hétérogènes
+T64	MEAS 2146 2150	5 mm
+T65	ANAT 2182 2213	cloisons cutanés basicervicales
+T66	ANAT 2400 2428	veine fémorale superficielle
+T67	PROC 2432 2443	myélogramme
+T68	DISO 2468 2499	lésions hétérozygotes myéloïdes
+T69	DISO 2524 2554	symptomatologies rhumatismales
+T70	PROC 2656 2677	contrôle radiologique
+T71	PROC 2695 2709	examen initial
+T72	DISO 2732 2779	rupture des troncs supra-aortiques du médiastin
+T73	ANAT 2744 2779	troncs supra-aortiques du médiastin
+T74	PHEN 2785 2806	grossesse monofoetale
+T75	PROC 2811 2817	suivie
+T76	DISO 2846 2862	signes cliniques
+T77	Hospital 2880 2896	salle opératoire
+T78	PROC 2901 2917	bilan biologique
+T79	DISO 2929 2942	particularité
+T80	PROC 2951 2978	numération formule sanguine
+T81	PROC 2980 2997	hémoglobine total
+T82	MEAS 2999 3007	0,7 g/dl
+T83	PROC 3009 3023	troponines A1c
+T84	MEAS 3025 3033	10 pg/dl
+T85	PROC 3039 3060	bilan phosphocalcique
+T86	PROC 3062 3083	phosphate inorganique
+T87	MEAS 3085 3092	40 mg/l
+T88	PROC 3094 3112	ionogramme sanguin
+T89	ANAT 3105 3112	sanguin
+T90	MEAS 3114 3122	123 UI/L
+T91	PROC 3124 3139	glycémie a jeun
+T92	MEAS 3141 3151	136 mlol/L
+T93	PROC 3153 3183	triglycérides conjugués libres
+T94	MEAS 3185 3194	149 mUI/L
+T95	PROC 3196 3208	acide urique
+T96	MEAS 3210 3218	164 ng/L
+T97	PROC 3220 3233	créatininémie
+T98	MEAS 3235 3242	22pg/dL
+T99	PROC 3244 3256	releucocytes
+T100	MEAS 3258 3277	8300 éléments /mm 3
+T101	PROC 3279 3302	volume globulaire moyen
+T102	MEAS 3304 3324	27000 éléments /mm 3
+T103	PROC 3326 3350	cholestérol total direct
+T104	MEAS 3352 3361	172 MUI/L
+T105	PROC 3363 3384	LDL cholestérol total
+T106	MEAS 3386 3404	1870 élément /mm 3
+T107	PROC 3406 3427	protides rhésus libre
+T108	MEAS 3429 3448	5596 éléments /mm 3
+T109	PROC 3450 3470	transaminas sanguins
+T110	MEAS 3472 3491	1925 éléments /mm 3
+T111	PROC 3493 3496	CRP
+T112	MEAS 3498 3517	1590 éléments /mm 3
+T113	PROC 3519 3540	Troponines C réactive
+T114	MEAS 3542 3561	2080 éléments /mm 3
+T115	PROC 3563 3583	récepteurs hormonaux
+T116	MEAS 3585 3604	6630 éléments /mm 3
+T117	PROC 3606 3618	progestérone
+T118	MEAS 3620 3639	4645 éléments /mm 3
+T119	PROC 3641 3655	catécholécyste
+T120	MEAS 3657 3676	4750 éléments /mm 3
+T121	PROC 3678 3682	CD44
+T122	MEAS 3684 3703	5860 éléments /mm 3
+T123	PROC 3705 3709	CK67
+T124	MEAS 3711 3730	3384 éléments /mm 3
+T125	PROC 3732 3736	TC73

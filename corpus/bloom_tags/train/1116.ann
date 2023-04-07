@@ -1,0 +1,39 @@
+T1	LIVB 20 28	patiente
+T2	PROC 54 66	hospitalisée
+T3	DISO 75 108	syndrome inflammatoire biologique
+T4	PROC 118 138	protéines C réactive
+T5	PROC 140 143	CRP
+T6	MEAS 145 166	supérieures à 200mg/l
+T7	PROC 170 188	ionogramme sanguin
+T8	ANAT 181 188	sanguin
+T9	DISO 200 208	anomalie
+T10	PROC 221 240	hémoglobine glyquée
+T11	MEAS 249 253	1,7%
+T12	PROC 258 287	ponction liquide médullorénal
+T13	ANAT 267 287	liquide médullorénal
+T14	CHEM 311 323	prédnisolone
+T15	TEMP 342 351	24 heures
+T16	PROC 354 364	intubation
+T17	PROC 370 385	oxygénothérapie
+T18	DEVI 389 409	médiastin artificiel
+T19	DOSE 411 416	20 mg
+T20	PROC 448 456	injectés
+T21	Hospital 461 481	urgences thoraciques
+T22	DOSE 515 521	0,5 ml
+T23	CHEM 525 546	cortisolylméthoxazole
+T24	CHEM 567 600	antiinflammatoires non-stéroïdien
+T25	CHEM 603 637	triaméthoprime acido-cétaméthasone
+T26	PROC 722 740	traitement curatif
+T27	PROC 758 788	prise médicamenteuse adjuvante
+T28	LIVB 820 828	patiente
+T29	LIVB 841 847	soeurs
+T30	DISO 874 894	symptômes douloureux
+T31	TEMP 904 927	depuis plusieurs années
+T32	PROC 941 956	examen clinique
+T33	DISO 990 1013	agitation psychomotrice
+T34	DISO 1031 1046	désordre visuel
+T35	DISO 1056 1077	méningo-inflammatoire
+T36	MEAS 1092 1102	insidieuse
+T37	DISO 1181 1198	épistaxis maligne
+T38	PHEN 1206 1217	accidentnel
+T39	DISO 1258 1280	traumatisme ischémique

@@ -1,0 +1,12 @@
+T1	PROC 2 9	biopsie
+T2	DISO 16 21	masse
+T3	Concept_Idea 40 59	aspect histologique
+T4	PROC 63 82	immunohistochimique
+T5	DISO 104 161	carcinome à cellules chromophobes du lobe supérieur droit
+T6	ANAT 141 161	lobe supérieur droit
+T7	Localization 156 161	droit
+T8	MEAS 163 171	figure 2
+T9	LIVB 177 185	patiente
+T10	PROC 200 227	traitement anti-tuberculeux
+T11	CHEM 211 227	anti-tuberculeux
+T12	TEMP 245 252	12 mois

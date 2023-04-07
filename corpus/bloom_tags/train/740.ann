@@ -1,0 +1,24 @@
+T1	LIVB 28 35	patient
+T2	MEAS 82 90	notables
+T3	DISO 111 139	symptomatologie neurologique
+T4	DISO 168 182	amaigrissement
+T5	PROC 198 213	examen clinique
+T6	DISO 234 304	tuméfaction des muscles ptérygoïdiens hypertrophiés hypokali-kinétique
+T8	ANAT 339 367	sous-tendineux ptérygoidiens
+T9	ANAT 375 398	plexiques ptérygoidiens
+T10	Concept_Idea 420 426	taille
+T12	ANAT 459 510	lombolombaires cervico-cervicales latero-régulières
+T13	MEAS 535 540	30 cm
+T14	MEAS 544 549	40 cm
+T15	MEAS 562 571	favorable
+T16	Concept_Idea 610 619	grand axe
+T17	LIVB 647 655	patiente
+T18	PROC 661 684	anesthésielocorégionale
+T19	PROC 718 748	échographie abdomino-pelvienne
+T20	ANAT 730 748	abdomino-pelvienne
+T22	ANAT 877 894	flancs abdominaux
+T23	ANAT 915 940	jonction ombilicovaginale
+T24	MEAS 964 967	3cm
+T25	Concept_Idea 971 980	grand axe
+T26	PROC 1197 1230	contractions utérines biphasiques
+T27	ANAT 1210 1230	utérines biphasiques

@@ -1,0 +1,41 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 37	admise
+T3	Hospital 42 50	urgences
+T4	DISO 60 100	douleurs pelviennes aiguës hypertoniques
+T5	ANAT 69 79	pelviennes
+T6	TEMP 110 127	depuis deux jours
+T7	DISO 143 155	métrorragies
+T8	PROC 168 183	examen clinique
+T10	ANAT 212 222	artérielle
+T11	MODE 241 251	voie orale
+T12	MEAS 262 276	90/40 mm H 2 O
+T13	DISO 291 313	détresse respiratoires
+T14	PHEN 300 313	respiratoires
+T15	MEAS 328 334	rapide
+T16	DISO 356 393	trouble ventilatoire thromboembolique
+T17	PROC 401 430	auscultation pleuro-ulmonaire
+T18	ANAT 414 430	pleuro-ulmonaire
+T19	MEAS 439 446	normale
+T20	DISO 464 496	sibilants crépitants obstructifs
+T21	PROC 543 561	traitement curatif
+T22	DOSE 572 582	1mg/kg/min
+T23	CHEM 586 599	cisatracurium
+T24	DOSE 602 612	3 µg/kg/m²
+T25	CHEM 616 628	prédnisolone
+T26	MODE 633 651	voie transdermique
+T27	CHEM 714 727	noradrénaline
+T28	CHEM 734 752	méthylprednisolone
+T29	DISO 786 882	paralysie ventriculo-thoracique latéro-myocardioïdienne diaphragmatique périventriculaire droite
+T30	ANAT 796 882	ventriculo-thoracique latéro-myocardioïdienne diaphragmatique périventriculaire droite
+T31	Localization 876 882	droite
+T32	MEAS 892 904	environ 5 cm
+T33	Concept_Idea 908 917	grand axe
+T34	ANAT 942 981	muscle obturateur thyrocarotidien droit
+T35	Localization 976 981	droit
+T36	Concept_Idea 994 1002	contours
+T37	MEAS 1003 1011	régulier
+T38	PROC 1028 1037	injection
+T39	CHEM 1041 1061	produit de contraste
+T40	MEAS 1073 1089	de façon brutale
+T41	Concept_Idea 1093 1099	taille
+T42	TEMP 1114 1122	2 heures

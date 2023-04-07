@@ -1,0 +1,38 @@
+T1	LIVB 29 34	femme
+T2	Concept_Idea 74 77	âge
+T3	TEMP 81 86	4 ans
+T4	CHEM 88 99	Cyclosérine
+T5	DOSE 102 107	20 mg
+T6	CHEM 110 121	Ethionamide
+T7	DOSE 123 126	2 g
+T8	CHEM 130 144	Cyanaméthasone
+T9	DISO 151 174	polyarthrite rhumatoïde
+T10	MEAS 189 200	progressive
+T11	DISO 206 231	arthralgies constrictives
+T12	PROC 235 250	examen clinique
+T13	LIVB 268 276	patiente
+T14	Concept_Idea 291 308	plan neurologique
+T15	DISO 321 335	particularités
+T16	DISO 362 385	déficit sensitivomoteur
+T17	DISO 398 414	troubles visuels
+T18	PROC 428 437	admission
+T19	DISO 459 526	syndrome d'épanchement liquide céphalo-rachidien cervicocérébelleux
+T20	ANAT 482 526	liquide céphalo-rachidien cervicocérébelleux
+T21	ANAT 548 574	sinus caverneux périduraux
+T22	DISO 597 635	neuroleptose polyradiculonnévrotensive
+T23	DISO 651 673	dysthyroïdie nodulaire
+T24	MEAS 686 699	satisfaisante
+T25	PROC 711 732	échographie pelvienne
+T26	ANAT 723 732	pelvienne
+T27	Hospital 746 754	urgences
+T28	DISO 775 805	épanchement liquidien résiduel
+T29	DISO 826 862	souffrance vasculo-nerveux crânienne
+T30	ANAT 837 862	vasculo-nerveux crânienne
+T31	PROC 869 878	injection
+T32	CHEM 882 903	méthyle-méthacrylique
+T33	DEVI 918 960	réserve laryngoscopique transoesophagienne
+T34	LIVB 983 991	patients
+T35	DISO 1022 1035	symptomatique
+T36	TEMP 1045 1058	immédiatement
+T37	MEAS 1109 1120	massivement
+T38	Concept_Idea 1124 1130	taille

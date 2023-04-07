@@ -1,0 +1,72 @@
+T1	LIVB 15 20	homme
+T2	PROC 77 82	Admis
+T3	Hospital 87 95	urgences
+T4	DISO 105 123	douleurs abdominal
+T5	ANAT 114 123	abdominal
+T6	DISO 140 146	fièvre
+T7	TEMP 156 170	depuis 3 jours
+T8	PROC 174 189	examen clinique
+T9	LIVB 202 209	patient
+T10	DISO 210 217	fébrile
+T11	MEAS 220 224	38°C
+T12	Concept_Idea 226 248	Fréquence respiratoire
+T13	MEAS 250 261	32 /minutes
+T14	DISO 269 292	déficit sensitivomoteur
+T15	DISO 296 309	signes vitaux
+T16	DISO 327 343	troubles visuels
+T17	PHEN 349 373	réflexes ostéo-tendineux
+T18	ANAT 358 373	ostéo-tendineux
+T19	MEAS 382 394	perceptibles
+T20	Localization 404 414	bilatéraux
+T22	Localization 466 472	droite
+T23	MEAS 483 502	légèrement sensible
+T24	CHEM 506 516	Glyphosate
+T25	CHEM 529 541	Vinblastine®
+T26	PROC 562 571	admission
+T27	DISO 655 689	symptomatologie neuropsychiatrique
+T28	LIVB 718 726	individu
+T29	Concept_Idea 965 977	état général
+T30	DISO 993 1001	asthénie
+T31	Concept_Idea 1023 1035	état général
+T32	DISO 1050 1080	sensibilité abdomino-pelvienne
+T33	ANAT 1062 1080	abdomino-pelvienne
+T34	MEAS 1092 1107	progressivement
+T35	Concept_Idea 1111 1117	volume
+T36	MEAS 1139 1149	mamelonnée
+T37	PROC 1316 1335	enquête étiologique
+T38	LIVB 1355 1366	jeune homme
+T39	TEMP 1374 1380	37 ans
+T40	TEMP 1487 1492	17ans
+T41	TEMP 1496 1502	21mois
+T42	MEAS 1623 1633	3ème degré
+T43	DISO 1811 1824	fausse couche
+T44	TEMP 1835 1845	8 semaines
+T45	DISO 1983 2010	crises convulsives fébriles
+T46	Concept_Idea 2069 2087	plan morphologique
+T47	MEAS 2151 2155	2 cm
+T48	MEAS 2175 2187	4x1,5 x 2 cm
+T49	MEAS 2204 2216	environ 6 cm
+T50	DEVI 2451 2467	broches cutanées
+T51	ANAT 2627 2703	hémi circonférentiel inférieur postéro-externe postérieur antépubitus facial
+T52	DISO 2762 2824	niveaux hydroaériques corticaux cervicaux congénitaux externes
+T53	PROC 2830 2854	échographie obstétricale
+T54	PROC 3069 3099	traitement médical substitutif
+T55	PROC 3149 3177	chimiothérapie néo adjuvante
+T56	PROC 3191 3237	immunoglobulines intraveineuses per os congelé
+T57	PROC 3238 3265	Immunoglobuline glycorachie
+T58	PROC 3283 3312	kinésithérapie antibacillaire
+T59	PROC 3319 3384	prélèvement bactériologique du liquide céphalorachidien fistulisé
+T60	ANAT 3350 3384	liquide céphalorachidien fistulisé
+T61	CHEM 3386 3398	Gentamicine®
+T62	CHEM 3401 3430	Triméthoprimesulfaméthoxazole
+T63	PROC 3464 3510	biopsie exsufflation scanno-guidée endobuccale
+T64	MEAS 3529 3537	positive
+T65	LIVB 3599 3607	patiente
+T66	MEAS 3627 3636	favorable
+T67	PROC 3642 3657	rachianesthésie
+T68	PROC 3714 3738	néphrotomie exploratrice
+T69	PHEN 3777 3795	suites opératoires
+T70	DISO 3809 3842	complications neuropsychiatriques
+T71	DISO 3846 3866	symptômes infectieux
+T72	DISO 3884 3910	troubles sensitivo-moteurs
+T73	LIVB 3925 3936	gynécologue

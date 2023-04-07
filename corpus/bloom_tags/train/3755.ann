@@ -1,0 +1,117 @@
+T1	LIVB 4 9	femme
+T2	CHEM 39 53	hydrocortisone
+T3	DOSE 55 62	1 mg/kg
+T4	TEMP 62 64	/j
+T5	CHEM 69 81	progestérone
+T6	DOSE 83 88	20 mg
+T7	TEMP 88 90	/j
+T8	MODE 92 105	intra-utérine
+T9	CHEM 119 144	anticoagulants circulents
+T10	CHEM 146 159	sulfasalazine
+T11	DOSE 160 168	0,5mg/kg
+T12	TEMP 168 170	/j
+T13	CHEM 173 185	méthotrexate
+T14	DOSE 187 193	200 mg
+T15	TEMP 193 195	/j
+T16	CHEM 198 211	acénocoumarol
+T17	DOSE 213 219	400 mg
+T18	TEMP 219 221	/j
+T19	CHEM 224 234	cisplatine
+T20	DOSE 236 242	100 mg
+T21	TEMP 242 244	/j
+T22	CHEM 247 257	ethambutol
+T23	DOSE 259 265	750 mg
+T24	TEMP 265 267	/j
+T25	CHEM 270 285	rifaméthoxazole
+T26	DOSE 287 293	500 mg
+T27	TEMP 293 295	/j
+T28	CHEM 298 310	Pyrazinamide
+T29	DOSE 312 318	600 mg
+T30	TEMP 318 320	/j
+T31	CHEM 323 334	Ethionamide
+T32	DOSE 336 342	800 mg
+T33	TEMP 342 344	/j
+T34	CHEM 347 358	Cyclosérine
+T35	DOSE 360 366	120 mg
+T36	TEMP 366 368	/j
+T37	CHEM 371 385	Ciprofloxacine
+T38	DOSE 387 390	2 g
+T39	TEMP 390 392	/j
+T40	CHEM 395 405	Nifédipine
+T41	DOSE 407 412	10 mg
+T42	TEMP 412 414	/j
+T43	CHEM 417 428	Sulfentanil
+T44	DOSE 430 437	3 µg/kg
+T45	TEMP 437 439	/j
+T46	CHEM 442 455	Bromocriptine
+T47	DOSE 457 463	160 mg
+T48	TEMP 463 465	/j
+T49	CHEM 468 484	Erythrométhasone
+T50	DOSE 486 494	30 μg/kg
+T51	TEMP 494 496	/j
+T52	CHEM 499 518	Valproate de sodium
+T53	DOSE 520 525	60 mg
+T54	TEMP 525 527	/j
+T55	CHEM 530 539	Clonidine
+T56	DOSE 541 546	40 mg
+T57	TEMP 546 548	/j
+T58	CHEM 551 565	Chlorpromazine
+T59	DOSE 567 573	250 mg
+T60	TEMP 573 575	/j
+T61	CHEM 578 589	Gentamicine
+T62	DOSE 591 598	1000 mg
+T63	TEMP 598 600	/j
+T64	CHEM 603 611	Propofol
+T65	DOSE 613 622	50µmol/kg
+T66	TEMP 622 624	/j
+T67	CHEM 627 637	Lmidazolam
+T68	DOSE 639 646	6 ng/ml
+T69	TEMP 646 648	/j
+T70	CHEM 651 663	Furosémidone
+T71	DOSE 665 672	1280 mg
+T72	TEMP 672 674	/j
+T73	CHEM 677 701	Amphotéricine-Bevacizole
+T74	DOSE 703 710	1664 mg
+T75	TEMP 710 712	/j
+T76	CHEM 715 740	Triméthoprime-Ceftriaxone
+T77	DOSE 742 748	450 mg
+T79	CHEM 753 761	Diazépam
+T80	DOSE 763 768	45 mg
+T81	TEMP 768 770	/j
+T82	CHEM 773 795	Captérolyl methylester
+T83	DOSE 797 803	700 mg
+T84	TEMP 803 805	/j
+T85	PROC 821 840	anesthésie ocutanée
+T86	ANAT 832 840	ocutanée
+T87	Localization 849 862	face palmaire
+T88	ANAT 866 885	tronc péribuccinale
+T89	PROC 899 919	biopsie chirurgicale
+T90	DISO 962 984	neuroendocrine tumorus
+T91	PROC 1029 1056	immuno-histocho-myélogénèse
+T92	PROC 1062 1087	étude immunohistochymique
+T93	PROC 1105 1158	taux de catécholamine gonadotrophine choriorésistante
+T94	MEAS 1171 1200	supérieur à 5 fois la normale
+T95	PROC 1213 1245	scanner thoraco-abdomino-pelvien
+T96	ANAT 1221 1245	thoraco-abdomino-pelvien
+T97	DISO 1279 1304	localisations secondaires
+T98	DISO 1328 1348	maladie neurologique
+T99	DISO 1366 1396	déficit moteur sensitivomoteur
+T100	DISO 1407 1437	troubles sensitivo-spincteraux
+T101	LIVB 1458 1466	patiente
+T102	TEMP 1481 1486	17 SA
+T103	TEMP 1490 1495	32 SA
+T104	DISO 1532 1545	fauste couche
+T105	PROC 1550 1557	traitée
+T106	LIVB 1589 1596	enfants
+T107	Concept_Idea 1792 1802	diagnostic
+T108	DISO 1819 1880	carcinome vésico-aryténo-grêlique inféro-surrénalien infiltré
+T110	PROC 1885 1904	bilan préopératoire
+T111	PROC 1920 1956	tomodensitométrie abdomino-pelvienne
+T112	ANAT 1938 1956	abdomino-pelvienne
+T114	ANAT 1979 1984	pieds
+T115	PROC 1986 2019	du sinus brachycéphalo-ragulineux
+T116	ANAT 1989 2019	sinus brachycéphalo-ragulineux
+T117	MEAS 2035 2044	hypodense
+T118	Concept_Idea 2060 2076	plan superficiel
+T119	DISO 2082 2095	particularité
+T120	ANAT 2111 2136	greffon épiploïque utérin

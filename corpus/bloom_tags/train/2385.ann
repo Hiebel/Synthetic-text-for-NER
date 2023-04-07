@@ -1,0 +1,31 @@
+T1	LIVB 4 9	femme
+T2	MEAS 21 25	bien
+T3	PROC 26 34	vaccinée
+T4	CHEM 42 53	tuberculine
+T5	PROC 60 72	hospitalisée
+T6	Hospital 76 83	urgence
+T7	DISO 93 113	douleurs thoraciques
+T8	ANAT 102 113	thoraciques
+T10	TEMP 165 181	depuis deux mois
+T11	DISO 198 204	fièvre
+T12	DISO 210 221	hémoptysies
+T13	PROC 226 243	bilan étiologique
+T14	DISO 277 351	syndrome d'épanchement liquidien basithoracique du plexus brachycéphalique
+T16	ANAT 328 351	plexus brachycéphalique
+T17	PROC 355 370	examen clinique
+T18	Concept_Idea 386 397	température
+T19	MEAS 400 405	38°8C
+T20	Concept_Idea 425 436	température
+T21	DEVI 477 494	cathéter artériel
+T22	ANAT 486 494	artériel
+T23	PHEN 501 521	saturation pulsatile
+T24	MEAS 524 527	97%
+T25	DOSE 531 569	masque nylon 5 g /minimètres cubeaires
+T26	DISO 590 640	défense pleuro-pulmonaire cervicale latérale droit
+T27	ANAT 598 640	pleuro-pulmonaire cervicale latérale droit
+T28	Localization 635 640	droit
+T29	DISO 661 760	adénopathies parenchymateuses médiastinales para-axillaires thoraciques inféro-latérales hypodenses
+T31	ANAT 776 812	sinus hyo-thyroïdien supérieur droit
+T32	Localization 807 812	droit
+T33	DISO 826 838	thrombopénie
+T34	MEAS 841 852	1000 GB/mm3

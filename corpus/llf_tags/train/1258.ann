@@ -1,0 +1,66 @@
+T1	PROC 4 19	corticothérapie
+T2	CHEM 30 41	gentamicine
+T3	CHEM 43 54	vancomycine
+T4	CHEM 58 72	antipyrétiques
+T5	DISO 122 131	symptômes
+T6	DISO 154 185	désorientation temporo-spatiale
+T7	ANAT 199 222	membre supérieur gauche
+T8	Localization 216 222	gauche
+T9	DISO 242 261	déficit moteur aigu
+T10	DISO 276 285	dysphonie
+T11	DISO 308 319	traumatisme
+T12	DISO 330 343	signes vitaux
+T13	LIVB 357 365	patiente
+T14	Hospital 377 384	hôpital
+T15	TEMP 388 398	22/12/2013
+T17	DISO 449 462	choc septique
+T18	DOSE 488 496	1 gramme
+T19	CHEM 500 517	methylpénicilline
+T20	PROC 530 559	remplissage bronchodilatateur
+T21	DEVI 542 559	bronchodilatateur
+T22	Concept_Idea 574 586	état général
+T23	PROC 612 626	interrogatoire
+T24	LIVB 661 669	patiente
+T25	DISO 696 729	troubles obsessionnels compulsifs
+T26	TEMP 749 766	3 mois auparavant
+T27	Concept_Idea 976 988	état général
+T28	Concept_Idea 1018 1046	conceptions comportementales
+T29	DISO 1057 1082	hallucinations délirantes
+T30	LIVB 1399 1403	elle
+T31	LIVB 1513 1516	son
+T32	LIVB 1523 1530	mariage
+T33	DISO 1548 1567	accident domestique
+T34	LIVB 1622 1624	sa
+T35	LIVB 1625 1637	petite fille
+T36	LIVB 2107 2117	nourrisson
+T37	TEMP 2125 2131	7 mois
+T38	LIVB 2717 2723	enfant
+T39	PROC 3074 3096	traitement substitutif
+T40	LIVB 3118 3126	patiente
+T41	LIVB 3195 3200	fille
+T42	TEMP 3209 3215	18 ans
+T43	LIVB 3252 3255	son
+T44	LIVB 3256 3267	petit frère
+T45	DISO 3272 3282	consanguin
+T46	Hospital 3307 3332	urgences ophtalmologiques
+T47	Hospital 3336 3344	CHU Yoff
+T48	Concept_Idea 3352 3362	indication
+T49	PROC 3369 3387	antibioprophylaxie
+T50	MEAS 3458 3471	vingt six ans
+T51	PHEN 3478 3496	suites opératoires
+T52	MEAS 3505 3512	simples
+T53	DISO 3518 3545	récidive neuropsychiatrique
+T54	LIVB 3575 3585	nouveau-né
+T55	Concept_Idea 3603 3624	activités habituelles
+T56	DISO 3778 3805	crises convulsives fébriles
+T57	ANAT 3853 3871	vampires africains
+T58	LIVB 3924 3940	cousins germains
+T59	Concept_Idea 4045 4054	posologie
+T60	CHEM 4286 4299	bêtalactamine
+T61	TEMP 4318 4328	2 semaines
+T62	CHEM 4377 4406	triméthoprimesulfaméthoxazole
+T63	DOSE 4432 4453	20 mg 500 millilitres
+T65	PROC 4525 4554	supplémentation intraveineuse
+T66	TEMP 4560 4576	quelques minutes
+T67	PROC 4590 4616	anticoagulation préventive
+T68	PROC 4635 4665	oxygénothérapie antibacillaire

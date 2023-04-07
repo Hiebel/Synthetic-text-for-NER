@@ -1,0 +1,7 @@
+T1	PROC 3 13	traitement
+T2	PROC 32 60	antibiothérapie probabiliste
+T3	CHEM 71 82	rifampicine
+T4	CHEM 84 94	aminosides
+T5	CHEM 98 129	amoxicilline acide clavulanique
+T6	DISO 180 199	symptômes cliniques
+T7	TEMP 216 225	une année

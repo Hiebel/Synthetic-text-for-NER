@@ -1,0 +1,29 @@
+T1	LIVB 26 34	patiente
+T2	DISO 69 89	vomissements bilieux
+T3	MEAS 105 116	progressive
+T4	DISO 137 153	signes cliniques
+T5	DISO 156 170	amaigrissement
+T6	MEAS 181 186	10 kg
+T7	DISO 188 194	fièvre
+T8	TEMP 217 230	depuis 2 mois
+T9	PHEN 266 281	acuité visuelle
+T10	CHEM 287 314	amoxicilline-acétaminoprime
+T11	DISO 347 377	dyspnée stade III de Silverman
+T12	MEAS 392 398	rapide
+T13	MEAS 408 420	plus intense
+T14	DISO 446 455	symptômes
+T15	DISO 475 495	prise médicamenteuse
+T16	DISO 502 523	traumatisme abdominal
+T17	ANAT 514 523	abdominal
+T18	DISO 559 591	détresse cardio-vasculo-nerveuse
+T20	TEMP 622 634	le même jour
+T21	PROC 728 749	échographie pelvienne
+T22	ANAT 740 749	pelvienne
+T23	DISO 763 816	lésion hypo échogène hétérogène tissulaire nécrotique
+T24	MEAS 825 829	4 cm
+T25	Concept_Idea 833 842	grand axe
+T26	PROC 861 870	injection
+T27	CHEM 874 894	produit de contraste
+T28	PROC 1000 1040	résection trans péritonéale exploratrice
+T29	DISO 1057 1062	masse
+T30	MEAS 1077 1086	difficile

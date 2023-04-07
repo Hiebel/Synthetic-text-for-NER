@@ -1,0 +1,26 @@
+T1	LIVB 16 21	femme
+T2	Concept_Idea 39 45	pesant
+T3	MEAS 46 51	65 kg
+T4	DISO 67 102	carcinose ovarienne polymyométriale
+T5	ANAT 77 102	ovarienne polymyométriale
+T6	CHEM 108 122	hydrocortisone
+T7	DOSE 124 129	20 mg
+T8	TEMP 129 134	/jour
+T9	PROC 140 171	bilan préopératoire chirurgical
+T10	PROC 183 208	étude anatomopathologique
+T11	PROC 221 239	immunochirurgicaux
+T12	DISO 275 296	complication tumorale
+T13	LIVB 318 329	jeune femme
+T14	PHEN 340 349	grossesse
+T16	Hospital 404 445	Clinics of the Arabian Hospital in Jeddah
+T17	DISO 500 520	utérus hypertrophiée
+T18	MEAS 530 533	2cm
+T19	TEMP 543 556	depuis 2 mois
+T20	DISO 581 599	prolapsif primaire
+T21	DISO 609 630	contractions utérines
+T22	ANAT 622 630	utérines
+T23	DISO 726 752	troubles trophobucculaires
+T24	PROC 757 782	intervention chirurgicale
+T25	PROC 803 827	anesthésie locorégionale
+T26	ANAT 814 827	locorégionale
+T27	MODE 840 868	voie d'abord veineuse unique

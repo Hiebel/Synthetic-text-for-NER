@@ -1,0 +1,24 @@
+T1	LIVB 19 29	nouveau-né
+T2	TEMP 54 60	9 mois
+T3	DISO 88 121	consultations prénatales tardives
+T4	LIVB 138 140	sa
+T5	LIVB 141 145	mère
+T6	PROC 168 192	échographie obstétricale
+T7	Concept_Idea 217 237	aspect morphologique
+T8	DISO 254 271	maladie néonatale
+T9	PROC 292 307	examen clinique
+T10	LIVB 325 328	son
+T11	LIVB 329 333	père
+T12	DISO 346 376	contage tuberculeux congénital
+T13	DISO 385 406	syndrome hémorragique
+T14	DISO 413 425	métrorragies
+T15	PROC 431 448	obstétricauptique
+T16	DISO 458 509	distension abdomino-oculno-trachéale basithoracique
+T17	ANAT 469 509	abdomino-oculno-trachéale basithoracique
+T18	PROC 540 561	urgences pédiatriques
+T19	DISO 595 598	SAM
+T21	DISO 673 703	crampes menstruelles atypiques
+T22	PROC 767 792	scanner thoraco-abdominal
+T23	ANAT 775 792	thoraco-abdominal
+T24	DISO 823 862	lésions biliaires kystiques périkystées
+T25	ANAT 921 960	queue fémorale gastroduodénale jéjunale

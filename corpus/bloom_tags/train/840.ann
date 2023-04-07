@@ -1,0 +1,119 @@
+T1	LIVB 28 35	patient
+T2	DISO 65 69	toux
+T3	TEMP 85 98	depuis 3 mois
+T4	DISO 115 121	sueurs
+T5	MEAS 122 130	profuses
+T6	LIVB 132 135	Son
+T7	Concept_Idea 136 148	état général
+T8	DISO 169 183	amaigrissement
+T9	MEAS 194 199	14 kg
+T10	TEMP 203 209	2 mois
+T11	PROC 213 228	examen clinique
+T12	DISO 240 259	masse du côté droit
+T13	ANAT 249 259	côté droit
+T14	Localization 254 259	droit
+T15	MEAS 269 274	12 cm
+T16	Concept_Idea 278 287	grand axe
+T17	MEAS 291 303	bien limitée
+T18	MEAS 305 311	mobile
+T19	DISO 333 381	adénopathies surrénaliennes normo-hypothermiques
+T20	ANAT 346 381	surrénaliennes normo-hypothermiques
+T21	DISO 403 433	épanchement pleurale purulente
+T22	ANAT 415 433	pleurale purulente
+T23	DISO 444 457	organomégalie
+T24	LIVB 477 483	enfant
+T25	DISO 507 533	anomalies sensitivomotrice
+T26	DISO 543 590	syndrome d'épanchement liquidien péribucellaire
+T27	ANAT 566 590	liquidien péribucellaire
+T28	PROC 603 634	échographie abdomino- pelvienne
+T29	ANAT 615 634	abdomino- pelvienne
+T30	PHEN 662 683	fonction grêlo-cæcale
+T31	ANAT 671 683	grêlo-cæcale
+T32	PROC 687 717	bilan biologique préopératoire
+T33	DISO 749 765	hyperleucocytose
+T34	MEAS 768 781	16 000 GB/mm3
+T35	CHEM 783 810	polynucléaires neutrophiles
+T36	PROC 817 840	sérologies virales BHCG
+T37	MEAS 858 867	négatives
+T38	PROC 883 912	anticorps antithyroperoxydase
+T39	MEAS 929 937	positifs
+T40	MEAS 957 964	18 UI/l
+T41	PROC 971 994	injection intraveineuse
+T42	MODE 1001 1010	comprimée
+T43	DOSE 1014 1019	200mg
+T44	CHEM 1023 1041	méthylprednisolone
+T45	CHEM 1088 1102	hydrocortisone
+T46	CHEM 1105 1117	progestérone
+T47	PROC 1124 1168	tomodensitométrie thoraco-abdomino-pelvienne
+T48	ANAT 1142 1168	thoraco-abdomino-pelvienne
+T51	Localization 1219 1233	bilatérale sur
+T52	CHEM 1383 1399	anti-tuberculeux
+T53	ANAT 1420 1478	sinus caverneux médiastinal latéro-supracavernéo-lateralis
+T54	ANAT 1504 1538	zones osseuses cervico-thoraciques
+T55	Concept_Idea 1585 1593	contours
+T56	MEAS 1594 1602	déformés
+T57	DISO 1638 1664	kyste hydatique compressif
+T58	DISO 1671 1707	parathyroïdite hypertrophiée maligne
+T60	DISO 1744 1777	douleurs ovariennes polliculaires
+T61	ANAT 1753 1777	ovariennes polliculaires
+T62	MEAS 1792 1804	progressante
+T63	DISO 1837 1873	fistule recto-vaginal érythémateuses
+T64	ANAT 1845 1873	recto-vaginal érythémateuses
+T65	TEMP 1909 1915	10 ans
+T66	MEAS 1930 1956	de plus en plus fréquentes
+T67	DISO 2012 2044	lésions prurigineuses ulcéreuses
+T68	DISO 2054 2065	chirurgique
+T69	PROC 2085 2112	investigations étiologiques
+T70	DISO 2129 2176	néphropathie interstitielle kystique nécrasique
+T71	DISO 2243 2267	symptômes cholestatiques
+T72	DISO 2284 2295	prurigineux
+T73	DISO 2311 2344	ménométrorrhées cyto-néphrotiques
+T74	ANAT 2375 2383	utérines
+T75	DISO 2398 2458	thromboembolie veineuse cérébrale infarcto-myometrorragieuse
+T77	DISO 2506 2516	pathologie
+T78	DISO 2579 2634	accident thromboembolique jugulo-carotidien superficiel
+T79	ANAT 2605 2634	jugulo-carotidien superficiel
+T80	DISO 2644 2657	pré-éclampsie
+T81	LIVB 2662 2670	patiente
+T82	PROC 2688 2714	bilan d'hypercoagulabilité
+T83	PROC 2724 2760	tomodensitométrie abdomino-pélvienne
+T84	ANAT 2742 2760	abdomino-pélvienne
+T85	DISO 2791 2800	anomalies
+T86	PROC 2806 2815	admission
+T87	LIVB 2820 2828	patiente
+T88	PHEN 2844 2859	fonction rénale
+T89	ANAT 2853 2859	rénale
+T90	MEAS 2860 2867	altérée
+T91	DISO 2869 2880	polypnéïque
+T92	MEAS 2883 2896	28 cycles/min
+T93	Concept_Idea 2905 2910	poids
+T94	MEAS 2914 2918	70kg
+T95	ANAT 2932 2963	sous-diaphragmatique bilatérale
+T96	Localization 2953 2963	bilatérale
+T97	DISO 2976 2992	signes cliniques
+T98	DISO 3019 3035	troubles visuels
+T99	LIVB 3049 3053	Elle
+T100	DISO 3070 3080	hypotendue
+T101	MEAS 3083 3094	120/80 mmHg
+T102	DISO 3110 3140	tachycardie paucisymptomatique
+T103	MEAS 3143 3155	130 batt/min
+T104	DISO 3172 3210	syndrome d'épanchement intrapéritonéal
+T105	ANAT 3195 3210	intrapéritonéal
+T106	PROC 3215 3245	auscultation pleuro-pulmonaire
+T107	ANAT 3228 3245	pleuro-pulmonaire
+T108	DISO 3275 3313	rétrécissement basithoracique purulent
+T109	ANAT 3290 3313	basithoracique purulent
+T110	DISO 3320 3352	distension thoracique résiduelle
+T111	ANAT 3331 3352	thoracique résiduelle
+T112	DEVI 3379 3417	sonde nasogastrique transoesophagienne
+T114	PROC 3424 3445	aspiration péridurale
+T115	DISO 3466 3485	surdité congénitale
+T116	LIVB 3505 3514	patientes
+T117	TEMP 3606 3612	9 mois
+T118	DISO 3677 3711	épaississement médiastin lésionnel
+T119	ANAT 3692 3711	médiastin lésionnel
+T120	PROC 3721 3754	problème gynécologue-obstétricaux
+T121	PROC 3773 3799	traitement médical curatif
+T122	CHEM 3859 3890	amoxicilline-acide clavulanique
+T123	DOSE 3951 3957	100 mg
+T124	TEMP 3957 3959	/j

@@ -1,0 +1,23 @@
+T1	LIVB 15 22	patient
+T2	PROC 34 39	suivi
+T3	DISO 49 72	hypertension artérielle
+T4	ANAT 62 72	artérielle
+T5	CHEM 78 90	bêtabloquant
+T6	Concept_Idea 96 100	dose
+T7	DOSE 104 109	50 mg
+T8	TEMP 109 111	/j
+T9	CHEM 125 143	hydroxychloroquine
+T10	MODE 147 152	bolus
+T11	PROC 164 169	admis
+T12	Hospital 174 182	urgences
+T13	DISO 202 223	détresse respiratoire
+T14	PHEN 211 223	respiratoire
+T15	DISO 229 237	anorexie
+T16	PROC 241 255	interrogatoire
+T17	MEAS 296 303	brutale
+T18	DISO 310 352	tuberculose du plexus phréno-pancréatiques
+T19	ANAT 325 352	plexus phréno-pancréatiques
+T20	PROC 357 380	scanner cervico-faciale
+T21	ANAT 365 380	cervico-faciale
+T22	DISO 392 401	anomalies
+T23	DISO 428 447	lésions secondaires

@@ -1,0 +1,17 @@
+T1	LIVB 15 22	patient
+T2	PROC 34 40	traité
+T3	DISO 49 70	carcinome du pancréas
+T4	ANAT 62 70	pancréas
+T5	PHEN 88 97	grossesse
+T6	PROC 115 141	examen anatomopathologique
+T7	Concept_Idea 171 177	aspect
+T8	Concept_Idea 184 189	forme
+T9	MEAS 190 200	régulières
+T10	ANAT 216 238	méso-péripancréatiques
+T11	ANAT 244 275	glandes salivaires péritumoraux
+T12	Localization 289 297	totalité
+T13	ANAT 302 321	parois intestinales
+T14	PROC 373 392	mastectomie élargie
+T15	PROC 398 436	anastomose surrénalienne-mésentorielle
+T16	ANAT 409 436	surrénalienne-mésentorielle
+T17	PROC 461 483	résection chirurgicale

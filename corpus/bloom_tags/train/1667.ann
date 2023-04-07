@@ -1,0 +1,23 @@
+T1	LIVB 16 24	patiente
+T2	DISO 60 68	douleurs
+T3	ANAT 82 93	flanc droit
+T4	Localization 88 93	droit
+T5	TEMP 103 117	depuis un mois
+T6	PROC 121 127	examen
+T7	PROC 132 141	admission
+T8	LIVB 155 163	patiente
+T9	MEAS 167 170	bon
+T10	Concept_Idea 171 183	état général
+T11	MEAS 192 197	10/10
+T12	DISO 215 227	thrombopénie
+T13	DISO 233 255	hémoperitoine syndrome
+T14	PROC 280 296	examen somatique
+T15	PROC 301 320	bilan préopératoire
+T16	PROC 360 384	scanner abdomino-pelvien
+T17	ANAT 368 384	abdomino-pelvien
+T18	PROC 398 407	injection
+T19	CHEM 411 431	produit de contraste
+T20	DISO 458 522	pneumo-myomateuse tissulaire péritonéale latéroutérine hypodense
+T21	MEAS 531 536	22 cm
+T22	MEAS 541 546	18 cm
+T23	ANAT 581 605	plans musculaires lisses

@@ -1,0 +1,29 @@
+T1	LIVB 16 24	patiente
+T2	PROC 41 48	traitée
+T3	TEMP 52 56	2002
+T4	DISO 66 88	tuberculose pulmonaire
+T5	ANAT 78 88	pulmonaire
+T6	CHEM 93 106	Métronidazole
+T7	Concept_Idea 112 116	dose
+T8	DOSE 120 127	2 mg/kg
+T9	TEMP 127 132	/jour
+T10	CHEM 146 156	Isoniazide
+T11	CHEM 163 177	Ciprofloxacine
+T12	DISO 226 259	syndrome d'épanchement péritonéal
+T13	ANAT 249 259	péritonéal
+T14	PROC 263 293	échographie abdomino-pelvienne
+T15	ANAT 275 293	abdomino-pelvienne
+T16	MEAS 313 323	volumineux
+T17	DISO 324 356	épanchement bilatéral péritonéal
+T18	ANAT 336 356	bilatéral péritonéal
+T19	Localization 336 345	bilatéral
+T20	MEAS 366 372	1280ml
+T21	DISO 385 394	anomalies
+T23	ANAT 434 469	parathyroïdiennes cervico-vaginales
+T24	PROC 475 515	prélèvements bactériologiques des selles
+T25	ANAT 509 515	selles
+T26	LIVB 533 548	bacille de Koch
+T27	LIVB 555 559	Elle
+T28	PROC 577 602	traitement antibacillaire
+T29	CHEM 617 651	anti-inflammatoires non stéroïdien
+T30	CHEM 657 675	méthylprednisolone

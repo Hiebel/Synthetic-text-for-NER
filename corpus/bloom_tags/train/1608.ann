@@ -1,0 +1,58 @@
+T1	LIVB 20 28	patiente
+T2	DISO 50 75	antécédents pathologiques
+T3	MEAS 76 84	notables
+T4	PROC 86 92	admise
+T5	Hospital 96 103	service
+T6	DISO 122 136	amaigrissement
+T7	MEAS 147 152	18 kg
+T8	TEMP 156 166	trois mois
+T9	Concept_Idea 188 200	état général
+T10	PROC 204 219	examen clinique
+T11	LIVB 233 241	patiente
+T12	DISO 257 291	douleurs abdomino-pelvienne aiguës
+T13	ANAT 266 284	abdomino-pelvienne
+T14	CHEM 318 337	anti-inflammatoires
+T15	LIVB 339 343	Elle
+T16	PROC 354 361	traitée
+T17	CHEM 369 381	prednisolone
+T18	DOSE 383 390	1 mg/kg
+T19	TEMP 390 395	/jour
+T20	CHEM 410 424	bupropionamide
+T21	DOSE 426 432	3mg/kg
+T22	TEMP 432 434	/j
+T23	PROC 440 464	scanner abdomino-pelvien
+T24	ANAT 448 464	abdomino-pelvien
+T25	PROC 478 502	anesthésie locorégionale
+T26	ANAT 489 502	locorégionale
+T27	DISO 529 577	hémoperitoine granulome lésionnel pérituberculeu
+T28	ANAT 593 611	paroi utéro-utérin
+T29	DISO 634 655	troubles métaboliques
+T30	DISO 666 686	signes neurologiques
+T31	DISO 712 750	syndrome d'épanchement intrapéritonéal
+T32	ANAT 735 750	intrapéritonéal
+T33	DISO 760 782	épanchement péritonéal
+T34	ANAT 772 782	péritonéal
+T35	PHEN 806 839	réflexes ostéo-tendineux crâniens
+T36	ANAT 815 839	ostéo-tendineux crâniens
+T37	DISO 853 871	atteinte viscérale
+T38	ANAT 862 871	viscérale
+T39	LIVB 894 902	patiente
+T40	PROC 945 972	traitement médical adjuvant
+T41	DISO 1028 1050	symptômes néphrotiques
+T42	DISO 1105 1139	complications thromboemboliquantes
+T43	PROC 1175 1185	diagnostic
+T44	PROC 1207 1243	tomodensitométrie abdomino-pelvienne
+T45	ANAT 1225 1243	abdomino-pelvienne
+T46	MEAS 1262 1272	concluante
+T47	DISO 1293 1322	lésions secondaires tumorales
+T48	PROC 1382 1403	échographie pelvienne
+T49	ANAT 1394 1403	pelvienne
+T50	DISO 1427 1497	adénopathies ovariennes inférieures cervico-thoraciques hypertrophiées
+T52	DISO 1524 1562	dilatation vasculo-scapulo-rachidienne
+T53	ANAT 1535 1562	vasculo-scapulo-rachidienne
+T54	DISO 1581 1614	métastose gynécellulaire kystique
+T55	DISO 1772 1791	organométastatiques
+T56	DISO 1829 1850	myometrorragie séreux
+T57	PROC 1938 1963	tumorectomie exploratrice
+T58	MEAS 2092 2112	infra-centimétricale
+T59	MEAS 2125 2130	70 cm

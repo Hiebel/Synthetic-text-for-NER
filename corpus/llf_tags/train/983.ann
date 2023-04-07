@@ -1,0 +1,51 @@
+T1	LIVB 20 25	fille
+T2	TEMP 34 39	7 ans
+T3	PROC 80 95	examen clinique
+T4	LIVB 100 108	patiente
+T5	Concept_Idea 118 130	état général
+T6	MEAS 131 137	altéré
+T7	DISO 147 153	fièvre
+T8	MEAS 156 160	39°C
+T9	DISO 168 183	râles sifflants
+T10	ANAT 197 202	tronc
+T11	PROC 206 216	examen ORL
+T12	LIVB 230 238	patiente
+T13	MEAS 242 251	assez bon
+T14	Concept_Idea 252 264	état général
+T15	DISO 270 279	dysphonie
+T16	DISO 289 316	symptomatologie douloureuse
+T17	PROC 341 357	examen somatique
+T18	DISO 369 383	particularités
+T19	PHEN 397 409	tonus buccal
+T20	ANAT 403 409	buccal
+T21	DEVI 447 455	stériles
+T22	PROC 474 497	examens complémentaires
+T23	PROC 502 532	ponction naso-gastro-duodénale
+T24	ANAT 511 532	naso-gastro-duodénale
+T25	DISO 565 589	masse tissulaire maligne
+T26	MEAS 598 602	2 cm
+T27	Concept_Idea 606 615	grand axe
+T28	MEAS 625 629	5 cm
+T29	Concept_Idea 633 642	petit axe
+T30	DISO 650 655	masse
+T31	MEAS 665 669	6 mm
+T32	Concept_Idea 673 681	diamètre
+T33	Localization 690 712	plus grande périphérie
+T34	DISO 747 765	signes électriques
+T35	DISO 776 802	signes neuropsychiatriques
+T36	PROC 807 838	TDM thoraco- abdomino-pelvienne
+T37	ANAT 811 838	thoraco- abdomino-pelvienne
+T38	DISO 861 866	masse
+T39	MEAS 875 880	10 cm
+T40	Concept_Idea 884 894	 grand axe
+T41	PROC 930 939	palpation
+T42	ANAT 973 1010	petite courbure postéro-oesophagienne
+T43	Concept_Idea 1022 1042	aspect morphologique
+T44	DISO 1059 1090	neuro-vascularite inflammatoire
+T45	PROC 1120 1148	chimiothérapie néo adjuvante
+T46	CHEM 1154 1164	corticoïde
+T47	PROC 1178 1258	néphrectomie totale axillaire sous endoscopie digestive percutanée préopératoire
+T48	MEAS 1309 1316	simples
+T49	LIVB 1338 1345	malades
+T50	Concept_Idea 1365 1391	activités professionnelles
+T51	Concept_Idea 1416 1442	consentement professionnel

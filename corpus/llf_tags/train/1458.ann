@@ -1,0 +1,92 @@
+T1	PROC 4 13	sérologie
+T2	DISO 20 32	leishmaniose
+T3	MEAS 39 47	négative
+T4	PROC 52 65	examen direct
+T5	PROC 72 89	bilan d'extension
+T6	PROC 91 113	radiographie du thorax
+T7	ANAT 107 113	thorax
+T8	LIVB 140 147	malades
+T9	Hospital 172 190	service spécialisé
+T10	PROC 198 222	laparotomie exploratrice
+T11	PROC 251 269	antibioprophylaxie
+T12	CHEM 274 305	amoxicilline acide clavulanique
+T13	DEVI 309 330	tampon infundibulaire
+T14	MEAS 388 397	favorable
+T15	PROC 416 435	anesthésie générale
+T16	DISO 453 461	récidive
+T17	Concept_Idea 471 491	chiffres tensionnels
+T18	MEAS 492 498	élevés
+T19	TEMP 505 509	1h30
+T20	PHEN 522 540	état hémodynamique
+T21	PROC 569 593	exploration chirurgicale
+T22	DISO 620 663	masse tissulaire hypoéchogène hyperéchogène
+T23	MEAS 672 677	4/3cm
+T24	MEAS 687 691	5 cm
+T25	Concept_Idea 695 704	grand axe
+T26	ANAT 719 735	troncs plexiques
+T27	Localization 754 773	quadrant superieure
+T28	Concept_Idea 782 798	plan superficiel
+T29	DISO 806 812	lésion
+T30	ANAT 829 862	pédicule fémoral inférieur gauche
+T31	Localization 856 862	gauche
+T32	ANAT 892 915	vaisseaux crico-utérins
+T33	ANAT 947 985	carrefour iléo-fémoral postéro-externe
+T34	PROC 990 1031	prélèvement bactériologique scanno-guidée
+T35	PROC 1077 1135	résection transœso-gastroduodénale endobuccalocytomètriale
+T36	DISO 1149 1182	symphyse cotyloïdienne hétérogène
+T37	MEAS 1284 1308	5500 Giga gélatine /mm 3
+T39	MEAS 1367 1384	6 fois la normale
+T40	PROC 1389 1410	contrôle radiologique
+T41	DISO 1438 1466	distension abdominopelvienne
+T42	ANAT 1449 1466	abdominopelvienne
+T43	DISO 1482 1502	hypertriglycéridémie
+T44	MEAS 1514 1561	50 milligrammes mEq/kg masse molaire fovéolaire
+T45	DISO 1573 1599	particularité neurologique
+T46	DISO 1603 1688	du nerf laryngé basal antérieur droites intra mandibulaire diaphragmatique antalgique
+T47	ANAT 1606 1688	nerf laryngé basal antérieur droites intra mandibulaire diaphragmatique antalgique
+T49	PROC 1695 1720	trachéotomie exploratrice
+T50	LIVB 1729 1741	dermatologue
+T51	PROC 1764 1837	néphrostomie digestive segmentaire gastrique totale rénitente écho-guidée
+T52	DISO 2081 2115	métastase infectieuse métastatique
+T53	ANAT 2220 2245	neurorécepteurs téguments
+T56	LIVB 2976 2983	patient
+T57	Concept_Idea 3020 3032	état général
+T58	MEAS 3033 3043	déshydraté
+T59	Concept_Idea 3074 3086	état général
+T60	DISO 3118 3148	crise convulsive psychomotrice
+T61	PROC 3206 3221	examen clinique
+T62	DISO 3233 3241	anomalie
+T63	DISO 3259 3276	signes infectieux
+T64	DISO 3285 3308	déficit sensitivomoteur
+T65	DISO 3323 3331	polypnée
+T66	Concept_Idea 3388 3406	état hémodynamique
+T67	Concept_Idea 3423 3443	limites recommandées
+T68	PROC 3459 3475	examen somatique
+T69	DISO 3487 3501	particularités
+T70	PHEN 3512 3531	transits cardiaques
+T71	ANAT 3521 3531	cardiaques
+T72	DISO 3545 3561	troubles visuels
+T73	DISO 3565 3573	auditifs
+T74	DISO 3600 3604	toux
+T75	ANAT 3625 3631	thorax
+T76	PROC 3678 3697	pression artérielle
+T77	ANAT 3687 3697	artérielle
+T78	MEAS 3715 3727	120/100 mmHg
+T79	MEAS 3760 3771	160/80 mmHg
+T80	DISO 3786 3797	bruit sourd
+T81	DISO 3820 3843	mouvements spasmodiques
+T82	Concept_Idea 3883 3898	plan biologique
+T83	DISO 3914 3934	hypercholestérolémie
+T84	MEAS 3937 3945	7,1 g/dl
+T85	MEAS 3951 3968	6 fois la normale
+T86	DISO 3992 4039	maladie démyélocytaire auto-immunohistochimique
+T87	DISO 4065 4084	insuffisance rénale
+T88	ANAT 4078 4084	rénale
+T89	DISO 4102 4139	prolifération tumorale éosinophilique
+T90	DISO 4153 4179	hépatopathie inflammatoire
+T91	ANAT 4200 4223	structures vésiculaires
+T92	DISO 4243 4263	hématurie diabétique
+T93	DISO 4269 4298	carcinome trochantocellulaire
+T94	PROC 4302 4321	électrocardiogramme
+T95	DISO 4338 4372	tachycardie sinusale hypokinétique
+T96	TEMP 4404 4421	toutes les 10 min

@@ -1,0 +1,22 @@
+T1	LIVB 16 21	fille
+T2	TEMP 30 36	12 ans
+T3	DISO 56 84	broncho-alvéolo-interstitiel
+T4	PROC 90 108	traitement curatif
+T5	MEAS 125 134	spontanée
+T6	DISO 141 156	symptomatologie
+T7	TEMP 168 178	3 semaines
+T8	MEAS 220 250	progressivement plus accentuée
+T9	PROC 279 317	intubation tube digestive artificielle
+T10	ANAT 290 317	tube digestive artificielle
+T11	DISO 416 437	détresse respiratoire
+T12	PHEN 425 437	respiratoire
+T13	PROC 457 485	prise en charge chirurgicale
+T14	PROC 491 516	intervention chirurgicale
+T15	DEVI 538 576	sonde œsogastroduodénale transfixiante
+T17	PROC 642 681	splénectomie totale segmentaire élargie
+T18	ANAT 703 735	veines spléniques superficielles
+T19	Localization 799 814	portion interne
+T20	ANAT 821 842	laparotomie gastrique
+T21	MEAS 873 877	10cm
+T22	PROC 1044 1104	aspiration grêlo-liquidienne biliaire pancréatocytoplasmique
+T23	ANAT 1055 1104	grêlo-liquidienne biliaire pancréatocytoplasmique

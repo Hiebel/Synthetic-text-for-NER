@@ -1,0 +1,26 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 71	antécédents pathologiques
+T3	MEAS 72 84	particuliers
+T4	PROC 86 96	consultait
+T5	Hospital 101 109	urgences
+T6	DISO 119 158	céphalées mécaniques du plexus brachial
+T7	ANAT 143 158	plexus brachial
+T8	TEMP 168 184	depuis deux mois
+T9	PROC 188 203	examen clinique
+T10	DISO 239 272	épanchement sus cutanéo-myalgique
+T11	Localization 251 254	sus
+T12	Concept_Idea 299 305	aspect
+T13	DISO 319 337	méningoencephalite
+T14	PROC 341 372	échographie abdomino- pelvienne
+T15	ANAT 353 372	abdomino- pelvienne
+T16	DISO 393 436	lésion tissulaire hypo échoguidée hypodense
+T17	MEAS 495 500	12 cm
+T18	Concept_Idea 504 513	grand axe
+T19	MEAS 522 526	2 cm
+T20	Concept_Idea 530 540	profondeur
+T21	ANAT 562 581	réflexes herniaires
+T22	PROC 608 617	injection
+T23	CHEM 621 641	produit de contraste
+T24	PHEN 650 658	contours
+T25	MEAS 659 671	bien arrondi
+T26	MEAS 689 694	saine

@@ -1,0 +1,28 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 79 90	hospitalisé
+T5	DISO 100 134	douleurs thoraciques constrictives
+T6	ANAT 109 120	thoraciques
+T7	TEMP 144 160	depuis deux mois
+T8	PROC 164 179	examen clinique
+T9	LIVB 192 199	patient
+T10	MEAS 203 206	bon
+T11	Concept_Idea 207 219	état général
+T12	PHEN 229 247	tension artérielle
+T13	ANAT 237 247	artérielle
+T14	MEAS 250 261	130/80 mmhg
+T15	DISO 278 285	dyspnée
+T16	PROC 291 317	pression artérielle pulsée
+T17	ANAT 300 317	artérielle pulsée
+T18	MEAS 326 335	70/50mmHg
+T19	PROC 340 370	bilan biologique préopératoire
+T20	PROC 384 392	kaliémie
+T21	MEAS 395 404	5,6 meq/l
+T22	PROC 419 441	bilan phospho-calcique
+T23	PROC 447 465	ionogramme sanguin
+T24	ANAT 458 465	sanguin
+T25	MEAS 479 486	normaux
+T26	DISO 503 530	hyperparathyroïdie primaire
+T27	DISO 540 560	anomalie métabolique
+T28	PROC 577 603	explorations radiologiques

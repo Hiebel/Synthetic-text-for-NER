@@ -1,0 +1,70 @@
+T1	LIVB 4 9	femme
+T2	DISO 53 78	pathologies obstétricales
+T3	DISO 80 105	infections gynécologiques
+T4	PROC 138 150	hospitalisée
+T5	Hospital 154 175	service psychiatrique
+T6	Concept_Idea 197 209	état général
+T7	TEMP 219 232	depuis 3 mois
+T8	PHEN 237 246	grossesse
+T9	TEMP 259 266	3 jours
+T10	Concept_Idea 283 305	constantes biologiques
+T11	DISO 342 363	dysménorrhée primaire
+T12	DISO 374 399	symptômes dysfonctionnels
+T13	PROC 405 420	examen clinique
+T14	LIVB 436 441	maman
+T15	MEAS 479 502	légèrement asymétriques
+T16	Concept_Idea 533 553	chiffres tensionnels
+T17	MEAS 563 566	sec
+T18	ANAT 568 581	coude droites
+T19	Localization 574 581	droites
+T20	MEAS 582 593	stripesants
+T22	Localization 602 607	médio
+T23	Localization 626 643	inférieure droite
+T26	Localization 687 695	en avant
+T27	MEAS 696 706	difficiles
+T28	MEAS 731 739	55x35 mm
+T29	MEAS 743 753	54 x 40 mm
+T30	Concept_Idea 764 790	tableau neuropsychiatrique
+T31	LIVB 926 932	malade
+T32	DISO 969 994	hallucinations délirantes
+T33	DISO 1025 1043	symptômes morbides
+T34	Concept_Idea 1164 1176	état général
+T35	TEMP 1190 1199	1 semaine
+T36	DISO 1295 1322	nodules angiomateux cutanés
+T37	MEAS 1334 1349	progressivement
+T38	Concept_Idea 1356 1382	caractéristiques cliniques
+T39	Concept_Idea 1461 1481	aspect morphologique
+T40	DISO 1504 1525	maladie cœlioscopique
+T41	DISO 1531 1568	perforation nécrotico-utérine maligne
+T42	Concept_Idea 1649 1666	plan histologique
+T43	CHEM 1678 1692	neuroleptiques
+T44	MEAS 1763 1769	T4N0M2
+T45	DISO 1817 1836	troubles trophiques
+T46	LIVB 2068 2079	psychologue
+T47	DISO 2150 2174	contractures électriques
+T48	DISO 2402 2432	dépression bipolaire familiale
+T49	LIVB 2469 2479	nouveau-né
+T50	TEMP 2487 2498	24 semaines
+T51	TEMP 2506 2522	plusieurs années
+T52	PROC 2545 2561	geste médicalisé
+T53	DISO 2588 2608	détresses familiales
+T54	LIVB 2660 2678	mariage consanguin
+T55	DISO 2764 2786	difficultés conjugales
+T56	PHEN 2918 2927	grossesse
+T57	DISO 2945 2954	dysphonie
+T58	LIVB 3070 3072	sa
+T59	LIVB 3073 3078	fille
+T60	DISO 3541 3571	traumatisme cervico-céphalique
+T61	LIVB 3590 3593	son
+T63	LIVB 3719 3724	notre
+T64	LIVB 3725 3731	garçon
+T65	PROC 3744 3765	consultation médicale
+T66	LIVB 3879 3882	ses
+T68	LIVB 3937 3941	elle
+T69	PROC 4061 4083	contrôle échographique
+T70	ANAT 4113 4128	masse cervicale
+T71	MEAS 4138 4148	17 x 15 cm
+T72	MEAS 4171 4182	570 grammes
+T73	MEAS 4186 4197	760 grammes
+T74	Hospital 4214 4253	méthodes contraceptives internationales
+T75	PROC 4310 4344	analyse radiologique préopératoire

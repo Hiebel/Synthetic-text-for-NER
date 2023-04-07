@@ -1,0 +1,49 @@
+T1	LIVB 4 12	patiente
+T2	PROC 38 50	hospitalisée
+T3	Hospital 55 76	urgences pédiatriques
+T4	DISO 96 117	détresse respiratoire
+T5	PHEN 105 117	respiratoire
+T6	PROC 143 158	oxygénothérapie
+T7	PROC 172 203	radiothérapie externe adjuvante
+T8	DOSE 222 226	50Gy
+T9	DEVI 232 255	sonde cardio-pulmonaire
+T11	MEAS 336 354	très satisfaisante
+T12	MEAS 376 385	spontanée
+T13	DISO 427 453	troubles sensitivo-moteurs
+T14	MEAS 722 729	brutale
+T15	DISO 790 819	complication thromboembolique
+T16	LIVB 881 889	patiente
+T17	DISO 1053 1081	thrombopathies constrictives
+T18	CHEM 1302 1315	noradrénaline
+T19	DISO 1379 1396	symptômes fébrile
+T20	DISO 1434 1456	céphalées épileptiques
+T21	DISO 1487 1496	symptômes
+T22	DISO 1542 1593	syndrome inflammatoire crico-cytokérato-suppresseur
+T23	DISO 1602 1616	sueurs froides
+T24	DISO 1801 1817	récidive tumoral
+T25	DISO 1824 1842	fistule thoracique
+T26	ANAT 1832 1842	thoracique
+T27	ANAT 1937 1983	liquidien basithoracique inféro-latéral droite
+T28	PROC 2254 2323	curage ganglionnaire axillaire hépatique pancréatique totale biliaire
+T29	ANAT 2261 2323	ganglionnaire axillaire hépatique pancréatique totale biliaire
+T30	MEAS 2354 2365	volumineuse
+T31	ANAT 2375 2383	pancréas
+T32	DISO 2400 2426	paragangliome hypertrophié
+T33	PROC 2430 2461	échographie abdomino- pelvienne
+T34	ANAT 2442 2461	abdomino- pelvienne
+T35	Concept_Idea 2478 2484	aspect
+T36	DISO 2490 2518	adénocarcinome hypogastrique
+T38	MEAS 2528 2532	70mm
+T39	Concept_Idea 2535 2544	grand axe
+T40	ANAT 2560 2565	grêle
+T41	ANAT 2569 2582	utérus utérin
+T42	ANAT 2590 2608	anses intestinales
+T43	PROC 2612 2637	étude immunohistochimique
+T44	PROC 2639 2659	immuno-histochimique
+T45	PROC 2661 2664	IHC
+T46	PROC 2667 2680	cytoplasmique
+T47	PROC 2684 2703	de type membranaire
+T48	PROC 2710 2720	coloration
+T49	TEMP 2839 2856	pendant 24 heures
+T50	PROC 2862 2871	recherche
+T51	PHEN 2939 2948	résonance

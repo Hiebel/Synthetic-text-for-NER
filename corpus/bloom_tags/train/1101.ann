@@ -1,0 +1,36 @@
+T1	LIVB 15 22	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 79 90	hospitalisé
+T5	Hospital 95 103	urgences
+T6	DISO 113 130	symptômes fébrile
+T7	TEMP 150 166	depuis 48 heures
+T8	MEAS 179 202	spontanément résolutifs
+T9	PROC 206 221	examen clinique
+T10	DISO 265 295	ictère généralisé hypertrophié
+T11	MEAS 303 307	2 kg
+T12	DISO 335 349	amaigrissement
+T13	PHEN 371 394	équilibre psychomotrice
+T14	DISO 408 414	fièvre
+T15	MEAS 426 430	40°C
+T16	DISO 446 462	dyspnée d'effort
+T17	MEAS 477 488	progressive
+T18	PROC 505 520	prise en charge
+T19	CHEM 526 539	noradrénaline
+T20	CHEM 549 567	cétylhydrocortisol
+T21	DOSE 568 574	0,5 mg
+T22	PROC 744 773	anesthésie abdomino-pelvienne
+T23	ANAT 755 773	abdomino-pelvienne
+T24	MODE 778 799	voie veineuse directe
+T25	CHEM 858 869	propranolol
+T26	DOSE 870 875	20 mg
+T27	PROC 1097 1133	radiographie préopératoirethoracique
+T28	DISO 1152 1171	pleurésie purulente
+T29	DISO 1181 1189	tumorale
+T30	MEAS 1199 1202	5cm
+T31	Concept_Idea 1206 1215	grand axe
+T32	DISO 1243 1264	détresse respiratoire
+T33	PHEN 1252 1264	respiratoire
+T34	MEAS 1279 1290	progressive
+T35	PROC 1396 1432	scanner abdomino-pelvien explorateur
+T36	ANAT 1404 1432	abdomino-pelvien explorateur

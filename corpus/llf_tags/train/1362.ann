@@ -1,0 +1,35 @@
+T1	PROC 4 15	échographie
+T2	MEAS 32 38	énorme
+T3	DISO 39 64	masse tissulaire du tronc
+T4	ANAT 59 64	tronc
+T5	MEAS 68 72	5 cm
+T6	PROC 77 94	tomodensitométrie
+T7	PROC 96 119	TOGD) abdominopelvienne
+T8	ANAT 102 119	abdominopelvienne
+T9	DISO 141 173	processus tissulaire des ovaires
+T10	ANAT 166 173	ovaires
+T11	PROC 183 208	étude immunohistochimique
+T12	Concept_Idea 212 232	aspect morphologique
+T13	ANAT 248 258	rein droit
+T14	Localization 253 258	droit
+T15	ANAT 265 286	veine cave inferieure
+T16	Localization 276 286	inferieure
+T17	ANAT 302 357	plaques cutanées intraparenchymateuses cervicale gauche
+T18	Localization 351 357	gauche
+T19	DISO 391 397	lésion
+T20	DISO 439 449	difficulté
+T21	DISO 487 508	récidive métastatique
+T22	DISO 519 525	signes
+T23	LIVB 539 545	malade
+T24	PROC 568 592	laparotomie exploratrice
+T25	PROC 598 623	chimiothérapie palliative
+T26	PROC 637 660	radiothérapie adjuvante
+T27	ANAT 673 679	pelvis
+T28	PROC 694 722	curiethérapie antibacillaire
+T29	CHEM 728 745	selsulfaméthasone
+T30	PROC 761 794	radio-chimiothérapie concomitante
+T31	DEVI 798 814	matériel stérile
+T32	ANAT 899 913	thoraco-dorsal
+T33	DISO 991 1014	symptômes neurologiques
+T34	TEMP 1032 1042	7 semaines
+T35	PHEN 1101 1114	fonctionnelle

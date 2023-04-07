@@ -1,0 +1,11 @@
+T1	PROC 42 53	laparotomie
+T2	PROC 59 78	anesthésie
+T3	PROC 96 115	bilan
+T4	PROC 120 138	geste
+T5	PROC 156 176	splénectomie
+T6	PROC 182 225	mise
+T7	ANAT 213 225	iléo-colique
+T8	PROC 232 267	lavage
+T9	ANAT 239 246	broncho
+T10	ANAT 247 257	alvéolaire
+T11	Localization 258 267	bilatéral

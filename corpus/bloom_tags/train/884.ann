@@ -1,0 +1,10 @@
+T1	LIVB 16 24	patiente
+T2	PROC 82 94	hospitalisée
+T3	Hospital 99 107	urgences
+T4	DISO 117 139	douleurs épigastriques
+T5	ANAT 126 139	épigastriques
+T6	TEMP 149 162	depuis 2 mois
+T7	MEAS 215 222	rapagée
+T8	DISO 235 262	polynucléaires neutrophilie
+T9	DISO 326 343	symptômes fébrile
+T10	MODE 374 392	voie intraveineuse

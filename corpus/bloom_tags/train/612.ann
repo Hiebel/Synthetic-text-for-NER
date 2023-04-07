@@ -1,0 +1,38 @@
+T1	LIVB 4 7	P.M
+T2	PROC 73 79	admise
+T3	Hospital 83 103	service des urgences
+T4	Hospital 107 128	CHU Ibn Sina de Rabat
+T5	DISO 137 175	traumatisme thoracique inférieur droit
+T6	ANAT 149 175	thoracique inférieur droit
+T7	Localization 170 175	droit
+T8	PROC 234 249	examen clinique
+T9	LIVB 261 269	patiente
+T10	Concept_Idea 284 302	plan hémodynamique
+T11	DISO 323 350	détresse respiratoire aiguë
+T12	PHEN 332 350	respiratoire aiguë
+T13	TEMP 360 376	depuis 24 heures
+T14	PROC 440 456	examen somatique
+T15	DISO 468 477	anomalies
+T16	DISO 506 512	fièvre
+T17	MEAS 524 530	39 ° C
+T18	PROC 536 557	traitement antalgique
+T19	CHEM 547 557	antalgique
+T20	DEVI 580 616	sonde pnéumo-pulmonaire ultrasonique
+T22	MEAS 633 640	normale
+T23	DISO 689 752	syndrome d’épanchement basithoracique basithoracique latéralisé
+T24	ANAT 712 752	basithoracique basithoracique latéralisé
+T25	LIVB 782 790	patiente
+T26	DISO 804 843	empyème sous-diaphragmatique thoracique
+T27	ANAT 812 843	sous-diaphragmatique thoracique
+T28	PROC 887 927	touchers pleuro-pulmonaires superficiels
+T29	ANAT 896 927	pleuro-pulmonaires superficiels
+T30	ANAT 1045 1061	paroi abdominale
+T31	MEAS 1071 1075	2 cm
+T32	Concept_Idea 1079 1088	grand axe
+T33	ANAT 1117 1130	tube digestif
+T34	ANAT 1161 1182	organe hyo-thoracique
+T35	Concept_Idea 1201 1207	taille
+T36	MEAS 1224 1236	environ 4 cm
+T37	ANAT 1256 1270	gros épiploons
+T38	DISO 1363 1388	troubles sensitivomoteurs
+T39	PROC 1473 1492	extubation initiale

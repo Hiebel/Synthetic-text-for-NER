@@ -1,0 +1,95 @@
+T1	LIVB 16 21	femme
+T2	DISO 65 88	hypertension artérielle
+T3	ANAT 78 88	artérielle
+T4	Concept_Idea 97 102	poids
+T5	MEAS 106 111	58 Kg
+T6	PROC 116 133	tomodensitométrie
+T7	PROC 135 149	TDM) cérébrale
+T8	ANAT 140 149	cérébrale
+T9	DISO 185 233	processus tissulaire hypoéchogène du rein gauche
+T10	ANAT 222 233	rein gauche
+T11	Localization 227 233	gauche
+T12	MEAS 243 247	5 cm
+T13	DISO 262 307	adénopathies médiastino-thyroïdiennes droites
+T14	ANAT 275 307	médiastino-thyroïdiennes droites
+T15	Localization 300 307	droites
+T16	TEMP 317 330	depuis 5 mois
+T17	PROC 354 365	transfusion
+T18	MEAS 379 385	larges
+T19	DISO 420 446	tumeur utérine infiltrante
+T20	ANAT 427 446	utérine infiltrante
+T21	PROC 451 468	bilan étiologique
+T22	PROC 498 526	examens anatomopathologiques
+T23	DISO 544 558	particularités
+T24	PROC 572 589	scanner abdominal
+T25	ANAT 580 589	abdominal
+T26	LIVB 609 617	patiente
+T27	DISO 637 658	récidive pathologique
+T28	DISO 662 671	métastase
+T29	DISO 681 704	localisation secondaire
+T30	PROC 719 740	biopsie scanno-guidée
+T31	PROC 746 777	cystolithotomie coelio-palatine
+T32	PROC 806 834	chimiothérapie néo adjuvante
+T33	CHEM 840 855	fluoroquinolone
+T34	DOSE 856 861	50 mg
+T35	TEMP 861 863	/j
+T36	MEAS 899 905	rapide
+T37	Concept_Idea 950 966	plan chirurgical
+T38	PROC 983 998	hospitalisation
+T39	LIVB 1004 1009	notre
+T40	Hospital 1010 1017	hôpital
+T41	TEMP 1036 1065	troisième jour postopératoire
+T42	PROC 1089 1118	prise en charge préopératoire
+T43	MEAS 1162 1172	favorables
+T44	PROC 1187 1224	traitement complémentaire substitutif
+T45	MEAS 1263 1289	systématiquement favorable
+T46	PROC 1300 1319	radiothérapeutiques
+T47	PROC 1323 1331	hormonal
+T48	PROC 1378 1415	hémodialyse intraveineuse parentérale
+T49	PROC 1429 1462	hystérectomie totale exploratrice
+T50	LIVB 1476 1482	garçon
+T51	TEMP 1490 1501	16 semaines
+T52	DISO 1541 1579	distension abdomino-crânio-péritonéale
+T53	ANAT 1552 1579	abdomino-crânio-péritonéale
+T54	MEAS 1631 1639	indolore
+T55	MEAS 1651 1661	légèrement
+T56	Concept_Idea 1666 1695	amplitudes cardio-vasculaires
+T57	ANAT 1677 1695	cardio-vasculaires
+T58	DISO 1881 1903	symptômes psychotiques
+T59	Concept_Idea 1922 1934	état général
+T60	DISO 2007 2036	symptômes neuropsychiatriques
+T61	PROC 2211 2269	radio dialyse rénale foeto-néphrologie fœtale chirurgicale
+T62	Concept_Idea 2351 2370	résultats cliniques
+T63	MEAS 2382 2389	mauvais
+T64	DISO 2691 2715	consanguinités électives
+T65	PROC 2838 2857	étude rétrospective
+T66	LIVB 2889 2892	son
+T67	PROC 2893 2902	admission
+T68	DISO 2999 3029	troubles musculo-squelettiques
+T69	DISO 3097 3131	lésions tonico-maxillaires cutanés
+T70	DISO 3199 3218	syndrome infectieux
+T71	MEAS 3245 3254	favorable
+T72	PROC 3260 3284	chimiothérapie adjuvante
+T73	PROC 3300 3320	récepteurs hormonaux
+T74	CHEM 3330 3347	corticoïde citrin
+T75	PROC 3373 3383	opératoire
+T76	MEAS 3407 3414	normale
+T77	Concept_Idea 3441 3459	plan hémodynamique
+T78	Hospital 3464 3472	urgences
+T79	TEMP 3490 3498	30 jours
+T80	PHEN 3504 3522	suites opératoires
+T81	MEAS 3531 3538	simples
+T82	Concept_Idea 3579 3598	facteur rhumatisant
+T83	PROC 3635 3649	étude clinique
+T84	PROC 3658 3715	thyroïdectomie digestive transoesophagienne scanno-guidée
+T85	ANAT 3732 3760	nerf laryngé inférieur droit
+T86	Localization 3755 3760	droit
+T87	TEMP 3772 3780	48heures
+T88	PROC 3805 3830	trachéotomie exploratrice
+T89	PROC 3844 3894	exploration extemporanéomentonnelle angiographique
+T90	PROC 3928 3979	bronchoscopie œsogastro-gastroduodénale endovaginal
+T91	DEVI 3994 4018	fond d'oeil intraveineux
+T92	DISO 4037 4056	signe inflammatoire
+T93	DISO 4074 4094	perforation tumorale
+T94	DISO 4098 4151	adénopathies cervical maxillaire pariéto-mandibulaire
+T95	PROC 4157 4191	prise en charge pluridisciplinaire

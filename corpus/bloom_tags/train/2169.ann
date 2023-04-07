@@ -1,0 +1,54 @@
+T1	LIVB 4 9	femme
+T2	DISO 67 114	hyperparathyroïdie primaire hypocholestérolylée
+T3	DOSE 120 126	1mg/kg
+T4	TEMP 126 131	/jour
+T5	MODE 136 154	voie intraveineuse
+T6	CHEM 180 193	vitaméthasone
+T7	CHEM 196 207	Cyclosérine
+T8	CHEM 210 220	calcitriol
+T9	PROC 226 238	hospitalisée
+T10	Hospital 248 270	urgences chirurgicales
+T11	DISO 299 314	symptomatologie
+T12	MEAS 329 340	progressive
+T13	TEMP 350 363	depuis 4 mois
+T14	DISO 405 418	inflammatoire
+T15	LIVB 428 432	elle
+T16	DEVI 453 472	sonde nasogastrique
+T18	PROC 520 539	bilan d'hémodialyse
+T19	PROC 553 589	tomodensitométrie cervico-thoracique
+T20	ANAT 571 589	cervico-thoracique
+T21	MEAS 606 613	normaux
+T22	PROC 627 659	scanner thoraco-abdomino pelvien
+T23	ANAT 635 659	thoraco-abdomino pelvien
+T24	LIVB 679 687	patiente
+T25	DISO 716 735	syndrome infectieux
+T26	DISO 760 785	localisations tissulaires
+T27	Localization 822 833	bilatérales
+T28	PROC 892 936	anesthésie locorégionale pré-radiocésarienne
+T29	PROC 937 941	LCRP
+T30	PROC 944 957	intra-utérine
+T31	PROC 999 1075	incision surrénalienne trans-hypophysaire utéro-mésentérique scannographique
+T33	PROC 1082 1129	curage ganglionnaire périsurrénalien nifedipine
+T35	CHEM 1171 1182	tuberculine
+T36	PROC 1198 1208	diagnostic
+T37	DISO 1331 1352	troubles métaboliques
+T38	ANAT 1488 1505	massif thoracique
+T39	PROC 2230 2245	examen clinique
+T40	LIVB 2260 2267	patient
+T41	MEAS 2271 2274	bon
+T42	Concept_Idea 2275 2287	état général
+T43	Concept_Idea 2303 2321	plan hémodynamique
+T44	PHEN 2325 2337	respiratoire
+T45	ANAT 2353 2362	artériels
+T47	ANAT 2415 2422	pédieux
+T48	PROC 2449 2465	bilan biologique
+T49	PROC 2479 2487	kaliémie
+T50	MEAS 2490 2499	4,2 meq/l
+T51	PROC 2501 2518	natrémie corrigée
+T52	MEAS 2521 2530	135 meq/l
+T53	PROC 2544 2556	hyponatrémie
+T54	MEAS 2559 2568	133 meq/l
+T55	TEMP 2570 2577	le soir
+T56	PROC 2584 2605	numérations sanguines
+T57	DISO 2619 2628	anomalies
+T58	DISO 2634 2651	hyperphosphatémie

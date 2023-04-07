@@ -1,0 +1,22 @@
+T1	LIVB 16 21	femme
+T2	DISO 38 63	antécédents pathologiques
+T3	MEAS 64 72	notables
+T4	PROC 74 78	reçu
+T5	Hospital 83 91	urgences
+T6	DISO 101 127	tuméfaction du sein gauche
+T7	ANAT 116 127	sein gauche
+T8	Localization 121 127	gauche
+T9	TEMP 137 151	depuis un mois
+T10	PROC 157 166	admission
+T11	LIVB 170 178	patiente
+T12	DISO 185 195	apyrétique
+T13	MEAS 198 202	37°C
+T14	PROC 207 224	bilan d'extension
+T17	Localization 312 324	homolatérale
+T18	PHEN 333 350	flux artériolaire
+T19	ANAT 338 350	artériolaire
+T20	Concept_Idea 352 355	FEV
+T21	DISO 372 413	métastases parathyroïdiennes cœlioséctées
+T23	PROC 420 450	radio-chimiothérapie adjuvante
+T24	CHEM 456 466	cisplatine
+T25	CHEM 470 482	carboplatine

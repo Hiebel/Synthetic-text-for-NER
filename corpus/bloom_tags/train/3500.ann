@@ -1,0 +1,28 @@
+T1	LIVB 15 22	patient
+T2	Hospital 56 81	urgences ophtalmologiques
+T3	DISO 109 134	polyarthrite prurigineuse
+T4	TEMP 144 157	depuis 2 mois
+T5	PHEN 190 205	acuité visuelle
+T6	CHEM 253 267	Rifolhydrazole
+T7	CHEM 269 280	Cyclosérine
+T8	CHEM 282 294	Pyrazinamide
+T9	CHEM 296 307	Ethionamide
+T10	CHEM 309 320	Doxycycline
+T11	CHEM 322 335	Bêtaméthasone
+T12	CHEM 338 349	Nicardipril
+T13	CHEM 351 365	Chlorpromazine
+T14	CHEM 367 375	Aspirine
+T15	CHEM 377 383	Vit B6
+T16	CHEM 385 395	Isoniazide
+T17	PROC 417 433	avis chirurgical
+T18	DISO 451 488	polyarthrite achromanoprolactinisante
+T19	ANAT 507 525	membres inférieurs
+T20	DISO 542 570	prurigo pétéchial nécrotique
+T21	ANAT 601 623	troncs supra-aortiques
+T22	ANAT 652 668	corps vertébraux
+T23	ANAT 686 707	rebord crânio-faciale
+T24	MEAS 717 722	18 cm
+T25	Concept_Idea 726 735	grand axe
+T26	ANAT 774 812	artères méningées cervico-vésiculaires
+T27	DISO 829 866	syndrome d’épanchement préthrombineux
+T28	ANAT 852 866	préthrombineux

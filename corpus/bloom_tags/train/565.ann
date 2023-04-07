@@ -1,0 +1,34 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 83 88	admis
+T5	Hospital 92 99	urgence
+T6	Hospital 104 129	urgences ophtalmologiques
+T7	DISO 139 156	céphalées fébrile
+T8	PROC 160 175	examen clinique
+T9	LIVB 186 193	patient
+T10	PHEN 240 252	respiratoire
+T11	DISO 260 281	atteinte neurologique
+T12	PROC 286 316	auscultation pleuro-pulmonaire
+T13	ANAT 299 316	pleuro-pulmonaire
+T14	MEAS 323 330	normale
+T15	DISO 348 354	fièvre
+T16	MEAS 366 371	36°8C
+T17	PROC 376 392	bilan biologique
+T18	CHEM 406 422	hyperleucocytose
+T19	MEAS 425 436	16 000/mm 3
+T20	PROC 455 495	protéine-Crithionamide antiproteinas IgG
+T21	PROC 496 504	Anti-CCP
+T22	PROC 511 543	ponction lombaire médicamenteuse
+T24	PROC 581 619	nasofibroscopie digestive endoscopique
+T25	LIVB 646 653	patient
+T26	DISO 723 737	tumeur maligne
+T27	DISO 854 875	lésions vascularisées
+T28	DISO 899 921	signes angiographiques
+T29	Localization 984 996	périphérique
+T30	ANAT 1103 1116	paroi utérine
+T31	MEAS 1126 1131	13 cm
+T32	Concept_Idea 1135 1144	grand axe
+T33	ANAT 1168 1187	vésicules grêliques
+T34	ANAT 1223 1230	organes
+T35	CHEM 1514 1526	progestérone

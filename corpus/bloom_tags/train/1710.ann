@@ -1,0 +1,23 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 28 35	patient
+T3	MEAS 39 42	bon
+T4	Concept_Idea 43 55	état général
+T5	DISO 57 67	apyrétique
+T6	MEAS 70 74	37°C
+T7	PHEN 85 96	tachycardie
+T8	MEAS 109 116	120 bpm
+T9	ANAT 121 128	poignet
+T10	Localization 152 170	partie postérieure
+T11	ANAT 174 196	muscle biceps brachial
+T12	PROC 214 230	examen somatique
+T13	DISO 240 253	particularité
+T14	PROC 258 274	bilan biologique
+T15	PROC 297 312	globules blancs
+T16	MEAS 315 334	13 000 éléments/mm3
+T17	PROC 366 376	leucocytes
+T18	MEAS 379 396	12300 élément/mm3
+T19	PROC 428 447	hémoglobine glyquée
+T20	MEAS 449 451	7%
+T21	PROC 457 476	pression artérielle
+T22	ANAT 466 476	artérielle
+T23	MEAS 485 498	100/120 mm Hg

@@ -1,0 +1,95 @@
+T1	MEAS 12 18	normal
+T2	PROC 23 45	radiographie du thorax
+T3	ANAT 39 45	thorax
+T4	DISO 64 70	lésion
+T5	DISO 86 135	processus tissulaire des veines jugulaires gauche
+T6	ANAT 111 135	veines jugulaires gauche
+T7	Localization 129 135	gauche
+T8	PROC 143 162	sérologie hydatique
+T9	MEAS 169 177	positive
+T10	MEAS 180 190	260 mmol/l
+T11	Concept_Idea 200 224	vitesse de sédimentation
+T12	MEAS 235 245	120 mmol/L
+T13	MEAS 252 269	8 fois la normale
+T14	PROC 284 300	bilan biologique
+T15	DISO 310 323	particularité
+T16	PROC 337 364	bilan radiologique standard
+T17	MEAS 375 381	normal
+T18	PROC 394 418	échographie obstétricale
+T19	TEMP 435 453	J3 post-opératoire
+T20	PROC 457 482	étude anatomopathologique
+T21	DISO 501 554	léiomyome éosinophile hétéronodulaire myxoïde maligne
+T22	PHEN 564 584	récepteurs hormonaux
+T23	ANAT 675 694	cellules lymphoïdes
+T24	PROC 700 724	chimiothérapie adjuvante
+T25	CHEM 729 742	amitriptyline
+T26	DOSE 743 749	100 mg
+T27	TEMP 749 751	/j
+T28	CHEM 754 768	gentaméthasone
+T29	DOSE 769 774	50 mg
+T30	TEMP 774 776	/j
+T31	CHEM 781 794	métronidazole
+T32	DOSE 795 801	200 mg
+T33	TEMP 801 803	/j
+T34	MEAS 820 833	plus efficace
+T35	PROC 841 867	corticothérapie systémique
+T36	PROC 881 914	hormonothérapie substitutionnelle
+T37	MODE 929 956	gélules doseurs fractionnés
+T38	PROC 972 994	contrôle échographique
+T39	MEAS 1027 1034	simples
+T40	PROC 1044 1049	suivi
+T41	LIVB 1073 1080	patient
+T42	PROC 1136 1180	hépatectomie partielle caudale scanno-guidée
+T43	LIVB 1223 1227	sœur
+T44	TEMP 1236 1242	28 ans
+T45	PROC 1247 1257	transfusée
+T46	PROC 1261 1271	consultait
+T47	Concept_Idea 1293 1311	état hémodynamique
+T48	TEMP 1321 1334	depuis 6 mois
+T49	PROC 1347 1375	prise en charge chirurgicale
+T50	DISO 1390 1439	insuffisance cardiovasculaire chronique terminale
+T51	ANAT 1403 1419	cardiovasculaire
+T52	DISO 1445 1449	HTIC
+T53	DISO 1459 1494	syndrome polymalformatif congénital
+T54	PROC 1514 1549	traitement palliatif complémentaire
+T55	TEMP 1611 1625	septembre 2013
+T56	DISO 1696 1725	symptômes neuropsychiatriques
+T57	TEMP 1811 1820	longtemps
+T58	PROC 1825 1849	scanner abdomino-pelvien
+T59	ANAT 1833 1849	abdomino-pelvien
+T60	DISO 1866 1975	masse cervicale monobloc médio cervico-mandibulaire lombaire bilatérale postéro-extensive postérieure lobulée
+T61	Localization 1891 1896	médio
+T63	MEAS 1984 1988	6 cm
+T64	Concept_Idea 1992 2000	gros axe
+T65	ANAT 2022 2081	segments charnus maxillaires antero-occipitaux superficiels
+T67	Concept_Idea 2130 2136	taille
+T68	MEAS 2151 2163	bien limitée
+T69	MEAS 2173 2187	18 centimètres
+T70	Concept_Idea 2191 2200	grand axe
+T71	ANAT 2216 2229	flanc droites
+T72	Localization 2222 2229	droites
+T73	ANAT 2312 2331	membranes grêliques
+T74	Concept_Idea 2418 2443	orientation intrascrotale
+T76	Concept_Idea 2644 2670	aspect tomodensitométrique
+T77	DISO 2706 2749	remaniements cutanés localisées secondaires
+T78	DISO 2832 2882	vascularite carcinomateuse nécrosante idiopathique
+T79	DISO 2922 2971	maladie du lambeau musculo-tendineux périphérique
+T80	ANAT 2933 2971	lambeau musculo-tendineux périphérique
+T81	LIVB 3042 3050	patiente
+T84	Localization 3152 3158	droits
+T85	PROC 3196 3217	biopsie scanno-guidée
+T86	PROC 3223 3248	étude immunohistochimique
+T87	PROC 3252 3278	examen anatomopathologique
+T88	DISO 3306 3441	adénocarcinome mucineux maligne tissulaire polyploïde intracytonucléoidien achilléen angiomateux myxoide réactionnel secondaire kystisé
+T89	ANAT 3465 3533	parties molles supraaortiques rétropariétales spéarai͏̈des profondes
+T90	DISO 3718 3787	thyréosarcome ostéomyéloblastique périostéothélial hypogastroduodénal
+T91	DISO 3800 3824	anomalies morphologiques
+T92	DISO 3852 3881	facteurs de risque infectieux
+T93	DISO 3888 3907	lésions traumatique
+T94	PROC 3922 3950	chimiothérapie néo adjuvante
+T95	PROC 3964 3990	radiothérapie concomitante
+T96	DISO 4142 4166	trouble psychotique aigu
+T97	PHEN 4171 4181	coagulable
+T98	PROC 4233 4278	consultation multidisciplinaire thérapeutique
+T99	LIVB 4316 4326	adolescent
+T100	TEMP 4334 4340	14 ans

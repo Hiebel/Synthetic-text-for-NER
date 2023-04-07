@@ -1,0 +1,28 @@
+T1	LIVB 19 26	patient
+T2	DISO 42 67	antécédents pathologiques
+T3	MEAS 68 76	notables
+T4	PROC 78 88	consultait
+T5	Hospital 93 101	urgences
+T6	DISO 111 146	douleurs abdomino-pelvienne aiguées
+T7	ANAT 120 138	abdomino-pelvienne
+T8	DISO 164 170	fièvre
+T9	DISO 177 210	syndrome d'épanchement péritonéal
+T10	ANAT 200 210	péritonéal
+T11	DISO 227 242	symptomatologie
+T12	TEMP 253 264	trois jours
+T13	PROC 273 282	admission
+T14	Hospital 286 301	bloc opératoire
+T15	DISO 335 357	dysménorrhée chronique
+T16	PHEN 372 387	cycle menstruel
+T17	DISO 417 431	amaigrissement
+T18	MEAS 442 446	6 kg
+T19	TEMP 450 459	deux mois
+T20	PROC 475 490	examen clinique
+T21	DISO 502 515	particularité
+T22	PROC 518 548	échographie abdomino-pelvienne
+T23	ANAT 530 548	abdomino-pelvienne
+T24	Concept_Idea 566 572	taille
+T25	MEAS 583 588	70 cm
+T26	PROC 616 625	injection
+T27	DOSE 629 634	50 mg
+T28	CHEM 638 655	methylpropranolol

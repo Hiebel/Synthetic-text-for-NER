@@ -1,0 +1,20 @@
+T1	LIVB 4 12	patiente
+T2	PROC 51 58	traitée
+T3	DISO 66 91	atteinte cervico-vaginale
+T4	ANAT 75 91	cervico-vaginale
+T5	DISO 106 131	hyperthyroïdie secondaire
+T6	DISO 134 162	paralysie motrice symétrique
+T7	ANAT 181 199	membres inférieurs
+T8	DISO 213 280	dégénérescence musculaire paravertébro-nécrose scapho-métacarpienne
+T10	PROC 304 319	examen clinique
+T11	DISO 336 356	polyarthrite fébrile
+T12	DISO 373 394	détresse respiratoire
+T13	PHEN 382 394	respiratoire
+T14	DISO 410 440	symptomatologie psychiatriques
+T15	DISO 498 522	traumatisme neurologique
+T16	Hospital 549 557	clinique
+T17	DISO 612 629	séjour d'immigrés
+T18	Concept_Idea 654 674	état cutanéo-tonique
+T19	DISO 712 729	souffrance fœtale
+T20	ANAT 723 729	fœtale
+T21	DISO 786 818	facteur déclenchant pathogénique

@@ -1,0 +1,42 @@
+T1	LIVB 4 9	femme
+T2	PROC 32 38	admise
+T3	Hospital 43 51	urgences
+T4	DISO 71 97	douleur épigastrique aiguë
+T5	ANAT 79 97	épigastrique aiguë
+T6	TEMP 107 124	depuis deux jours
+T7	PROC 128 149	échographie pelvienne
+T8	ANAT 140 149	pelvienne
+T9	MEAS 156 163	normale
+T10	PROC 169 184	examen clinique
+T11	DISO 209 243	adénopathie abdomino-surrénalienne
+T12	ANAT 221 243	abdomino-surrénalienne
+T13	PROC 248 265	bilan d'hémostase
+T14	MEAS 272 278	normal
+T15	PROC 280 291	fibrinogène
+T16	PROC 293 324	protéine-Créatine phosphokinase
+T17	PROC 326 343	alpha2 globulines
+T18	PROC 350 373	sérologies virales BHCG
+T19	MEAS 388 396	positifs
+T20	PROC 409 432	scanner cervico-vaginal
+T21	ANAT 417 432	cervico-vaginal
+T22	MEAS 453 460	normaux
+T23	DISO 530 542	métrorragies
+T24	DISO 549 566	prolapsus ovarien
+T25	ANAT 559 566	ovarien
+T26	LIVB 602 610	patiente
+T27	PROC 648 673	chimiothérapie palliative
+T28	PROC 679 698	traitement adjuvant
+T29	CHEM 709 722	Bevaméthasone
+T30	DOSE 725 730	200mg
+T31	CHEM 733 743	Cisplatine
+T32	DOSE 745 751	600 mg
+T33	CHEM 753 764	Adriamycine
+T34	PROC 778 820	curage ganglionnaire péritonéal systolique
+T35	ANAT 799 820	péritonéal systolique
+T36	PHEN 1010 1022	respiratoire
+T37	PROC 1049 1088	surveillance anesthésiste-réanimatriale
+T38	CHEM 1172 1183	tuberculine
+T39	PROC 1184 1188	IRCT
+T40	Localization 1190 1201	bilatérales
+T41	PROC 1257 1335	radiothérapie externe prophylactique locorégionale biquotidienne intraveineuse
+T42	MODE 1349 1375	voie veineuse périphérique

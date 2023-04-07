@@ -1,0 +1,18 @@
+T1	PROC 1 17	bilan biologique
+T2	PROC 21 33	radiologique
+T3	DISO 47 60	particularité
+T4	PROC 66 91	chimiothérapie palliative
+T5	CHEM 104 123	inhibiteur calcique
+T6	Concept_Idea 148 155	moyenne
+T7	DOSE 159 166	20mg/Kg
+T8	TEMP 166 168	/j
+T9	MEAS 183 189	double
+T10	PROC 190 209	traitement adjuvant
+T11	CHEM 216 227	Isoniazide®
+T12	MODE 231 246	intramusculaire
+T13	CHEM 258 287	triméthoprime-sulfamétoxazole
+T14	PROC 305 325	suivi postopératoire
+T15	DISO 376 402	symptômes ophtalmologiques
+T16	DISO 417 445	rétractions tonico-cloniques
+T17	ANAT 429 445	tonico-cloniques
+T18	PROC 467 484	cure chirurgicale

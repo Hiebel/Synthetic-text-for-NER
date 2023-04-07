@@ -1,0 +1,11 @@
+T1	LIVB 3 10	patient
+T2	PROC 22 27	admis
+T3	Hospital 32 40	urgences
+T4	DISO 52 80	traumatisme du massif facial
+T5	ANAT 67 80	massif facial
+T6	PROC 85 104	bilan préopératoire
+T7	Concept_Idea 118 155	vitesse de l'acquisition neurologique
+T8	PHEN 131 155	acquisition neurologique
+T9	MEAS 186 190	deux
+T10	ANAT 191 208	nerfs maxillaires
+T11	PROC 256 261	étude

@@ -1,0 +1,124 @@
+T1	LIVB 2 9	patient
+T2	DISO 43 71	accident de la voie publique
+T3	LIVB 90 93	lui
+T4	DISO 98 121	fracture du hémi-thorax
+T5	ANAT 110 121	hémi-thorax
+T6	PROC 125 131	examen
+T7	PROC 136 145	admission
+T8	LIVB 158 165	patient
+T9	MEAS 169 176	mauvais
+T10	Concept_Idea 177 189	état général
+T11	DISO 199 215	râles crépitants
+T12	ANAT 224 247	sinus maxillaire gauche
+T13	Localization 241 247	gauche
+T14	PHEN 253 270	bruits cardiaques
+T15	MEAS 279 288	réguliers
+T16	DISO 294 301	cyanose
+T17	DISO 312 338	signes neuropsychiatriques
+T18	DISO 356 370	déficit moteur
+T19	PROC 394 421	bilan radiologique standard
+T20	DISO 438 485	arthrite scoliotique polymyomateuse récidivante
+T21	DISO 491 526	eczéma acromégalocytome éosinophile
+T22	MEAS 534 541	pT2N0Mx
+T23	Hospital 571 638	International Federation of Rheumatology and Meteorological Disease
+T24	PROC 644 666	traitement chirurgical
+T25	PROC 690 718	radiothérapie complémentaire
+T26	PROC 732 760	chimiothérapie néo adjuvante
+T27	PROC 776 793	tomodensitométrie
+T28	DISO 816 833	récidive tumorale
+T29	PROC 852 898	néphrectomie totale monophasique préopératoire
+T30	MEAS 915 925	incomplète
+T31	PROC 940 993	laparotomie bipariétale segmentaire rénale bilatérale
+T33	TEMP 1024 1052	deuxième jour postopératoire
+T34	PROC 1059 1085	fermeture après perfusions
+T35	CHEM 1090 1108	culots globulaires
+T36	CHEM 1120 1131	glucantime®
+T37	CHEM 1133 1142	amikacine
+T38	CHEM 1144 1156	pyrazinamide
+T39	CHEM 1158 1169	rifampicine
+T40	CHEM 1171 1181	isoniazide
+T41	CHEM 1183 1197	gentaméthasone
+T42	CHEM 1200 1210	aminosides
+T43	CHEM 1212 1222	cobalamine
+T44	CHEM 1224 1234	ethambutol
+T45	CHEM 1236 1246	propanolol
+T46	CHEM 1248 1257	nivaquine
+T47	CHEM 1259 1272	dexaméthasone
+T48	CHEM 1274 1283	tétrazine
+T49	CHEM 1285 1295	furosémide
+T50	CHEM 1297 1314	monohydrocuronium
+T51	CHEM 1316 1335	méthoxyprogestérone
+T52	CHEM 1337 1363	acide valproate de calcium
+T53	CHEM 1365 1374	potassium
+T54	CHEM 1376 1391	hydrocholécyste
+T55	CHEM 1393 1421	fénofibrocadronate de sodium
+T56	CHEM 1423 1451	carbonate de soude caustique
+T57	CHEM 1453 1463	statinesel
+T58	CHEM 1465 1487	hydroxyde de magnésium
+T59	CHEM 1489 1509	dobutyl pyrazinamide
+T60	CHEM 1511 1538	gommextropionate de lithium
+T61	CHEM 1540 1553	cotrimoxazole
+T62	CHEM 1555 1571	platinum glucane
+T63	CHEM 1573 1603	malathioprussiate de potassium
+T64	CHEM 1605 1630	midazolamide hypertonique
+T65	CHEM 1632 1645	méthamétonyle
+T66	CHEM 1647 1660	métronidazole
+T67	CHEM 1662 1677	céphalosporines
+T68	CHEM 1679 1689	coronidine
+T69	CHEM 1691 1706	fluoroquinolone
+T70	CHEM 1708 1717	imipenème
+T71	CHEM 1719 1732	noradrénaline
+T72	CHEM 1734 1745	nicardipine
+T73	CHEM 1747 1761	ciprofloxacine
+T74	CHEM 1763 1785	antalgique adriamycine
+T75	CHEM 1787 1798	albendazole
+T76	CHEM 1800 1814	catécholamines
+T77	CHEM 1816 1826	clothéline
+T78	CHEM 1828 1838	carbamates
+T79	CHEM 1840 1852	neuroleptine
+T80	CHEM 1854 1869	immunoglobuline
+T81	CHEM 1871 1888	calcivitamine B12
+T82	CHEM 1890 1901	ceftriaxone
+T83	CHEM 1903 1914	halopéridol
+T84	CHEM 1975 1989	pastillascoïde
+T85	CHEM 1991 2015	polynaturésulfaméthasone
+T86	CHEM 2069 2087	palmitoyne sodique
+T87	CHEM 2089 2119	rifampicine acide clavulanique
+T88	CHEM 2121 2132	paracétamol
+T89	PROC 2136 2155	examen histologique
+T90	DISO 2182 2217	adénocarcinome du hile mésentérique
+T91	ANAT 2200 2217	hile mésentérique
+T92	Concept_Idea 2226 2254	résultat anatomopathologique
+T93	DISO 2276 2340	carcinome épidermoïde achromique myxoide des segments inferieurs
+T94	ANAT 2321 2340	segments inferieurs
+T95	DISO 2346 2371	thrombochondrite kystique
+T96	DISO 2378 2464	nodule tissulaire métatarsien infiltrant les structures sous cutané-bronchovasculaires
+T97	ANAT 2423 2464	structures sous cutané-bronchovasculaires
+T98	LIVB 2469 2476	patient
+T99	PROC 2492 2511	traitement adjuvant
+T101	CHEM 2552 2562	aminosides
+T102	DOSE 2575 2585	5 granules
+T103	TEMP 2585 2587	/j
+T104	PROC 2603 2627	laparotomie exploratrice
+T105	PROC 2633 2658	étude immunohistochimique
+T106	DISO 2681 2738	angiosarcome éosinophile mucineux intravésiculaire malins
+T107	DISO 2744 2776	curage ganglionnaire superficiel
+T108	DISO 2780 2812	infiltrat inflammatoire primitif
+T109	PROC 2817 2850	tomodensitométrie scannographique
+T110	PROC 2852 2855	IRM
+T111	DISO 2878 2921	remaniements tumoraux angiomateux liquidien
+T112	ANAT 2934 2967	sinus maxillaire inférieur droite
+T113	Localization 2961 2967	droite
+T114	ANAT 2994 3014	ganglions axillaires
+T115	MEAS 3029 3033	deux
+T116	ANAT 3034 3064	tendons fléchisseurs cervicaux
+T118	PROC 3173 3203	anastomose endorectale in situ
+T119	DEVI 3251 3267	tumeur composite
+T120	MEAS 3277 3281	7 cm
+T121	Concept_Idea 3285 3293	diamètre
+T122	MEAS 3302 3314	environ 8 mm
+T123	Concept_Idea 3318 3327	grand axe
+T124	MEAS 3354 3363	10 x 6 cm
+T125	Concept_Idea 3367 3376	petit axe
+T126	PROC 3397 3417	exérèse chirurgicale
+T127	ANAT 3454 3484	vaisseaux fémoraux thoraciques

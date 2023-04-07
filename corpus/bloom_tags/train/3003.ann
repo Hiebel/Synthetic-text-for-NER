@@ -1,0 +1,26 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 57	antécédents
+T3	MEAS 58 70	particuliers
+T4	PROC 72 84	hospitalisée
+T5	DISO 94 116	douleurs épigastriques
+T6	ANAT 103 116	épigastriques
+T7	TEMP 126 142	depuis une année
+T8	PROC 146 161	examen clinique
+T9	PROC 166 175	admission
+T10	LIVB 193 201	patiente
+T11	MEAS 205 208	bon
+T12	Concept_Idea 209 221	état général
+T13	PHEN 228 233	pouls
+T14	MEAS 245 256	70 batt/min
+T15	DISO 275 296	détresse respiratoire
+T16	DISO 302 313	hémoptysies
+T17	PROC 319 355	tomodensitométrie abdomino-pelvienne
+T18	ANAT 337 355	abdomino-pelvienne
+T19	DISO 385 469	processus lésionnel du côté postéro-latéral épigastroduodénal hypoéchogène hypodense
+T21	MEAS 479 484	28 cm
+T22	MEAS 489 494	24 cm
+T23	PROC 522 531	injection
+T24	CHEM 536 556	produit de contraste
+T25	PROC 561 580	bilan préopératoire
+T26	PROC 593 611	ionogramme sanguin
+T27	ANAT 604 611	sanguin

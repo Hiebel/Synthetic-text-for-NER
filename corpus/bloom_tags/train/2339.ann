@@ -1,0 +1,27 @@
+T1	LIVB 29 37	patiente
+T2	DISO 59 93	syndrome inflammatoire métabolique
+T3	DISO 123 139	hyperleucocytose
+T4	MEAS 154 160	rapide
+T5	CHEM 166 189	méthylhydrosalicylamide
+T6	DISO 217 233	maladie cœliaque
+T7	DISO 239 255	affection iléale
+T8	ANAT 249 255	iléale
+T9	DISO 272 304	traumatisme duodéno-iléo-colique
+T10	ANAT 284 304	duodéno-iléo-colique
+T11	LIVB 346 353	joueurs
+T12	LIVB 376 389	patientientes
+T13	DISO 393 414	détresse respiratoire
+T14	PHEN 402 414	respiratoire
+T15	TEMP 424 440	depuis 48 heures
+T16	DISO 474 481	dyspnée
+T17	MEAS 491 499	brunâtre
+T18	MODE 527 537	voie orale
+T19	DOSE 548 550	2g
+T20	CHEM 554 565	misoprostol
+T21	DOSE 568 574	200 mg
+T22	CHEM 578 587	midazolam
+T23	PROC 592 607	examen clinique
+T24	LIVB 621 629	patiente
+T25	Concept_Idea 655 673	plan psychomotrice
+T26	DISO 679 690	polypneique
+T27	MEAS 693 706	36 cycles/min

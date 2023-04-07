@@ -1,0 +1,74 @@
+T1	PROC 4 28	laparotomie exploratrice
+T2	PROC 47 65	étude histologique
+T3	DISO 88 108	tumeur du rein droit
+T4	ANAT 98 108	rein droit
+T5	Localization 103 108	droit
+T6	MEAS 112 116	4 cm
+T7	Concept_Idea 120 128	diamètre
+T8	DISO 144 189	prolifération tumorale des fosses labiomédias
+T9	ANAT 171 189	fosses labiomédias
+T10	DISO 196 267	carcinome papillaire infiltrant les granulations crico-trachéo-veineuse
+T11	ANAT 232 267	granulations crico-trachéo-veineuse
+T12	MEAS 283 290	pT3N0Mx
+T13	LIVB 305 312	patient
+T14	PROC 336 360	chimiothérapie adjuvante
+T15	CHEM 362 372	Cisplatine
+T16	CHEM 375 384	Efavirenz
+T17	PROC 390 409	bilan préopératoire
+T18	PHEN 430 451	grossesse monofoetale
+T19	TEMP 462 467	38 SA
+T20	PROC 475 502	analyse anatomopathologique
+T21	DISO 523 557	adénocarcinome épidermoïde maligne
+T22	DISO 563 585	anomalie morphologique
+T23	PROC 598 623	scanner thoraco-abdominal
+T24	ANAT 606 623	thoraco-abdominal
+T25	PROC 659 670	prélèvement
+T27	MEAS 781 790	12 x 8 cm
+T28	PROC 807 815	ligature
+T29	MEAS 829 836	normale
+T30	DISO 860 905	tissu liquidien superficiel hyper vascularisé
+T31	MEAS 914 928	30 centimètres
+T32	Concept_Idea 932 941	grand axe
+T33	DEVI 989 1010	squelette ambulatoire
+T34	ANAT 1043 1063	noyaux sous cutanées
+T35	DISO 1082 1143	récidive métastatique kystique carcinomateuse endométriosique
+T36	ANAT 1161 1176	nerf thoracique
+T37	DISO 1193 1226	remaniements lymphoplasmocytaires
+T38	DISO 1233 1268	ganglions érythémato-jugulocytaires
+T39	MEAS 1318 1325	simples
+T40	PROC 1335 1344	transfert
+T41	LIVB 1354 1360	enfant
+T42	TEMP 1368 1373	2 ans
+T43	PROC 1396 1422	prise en charge palliative
+T44	PROC 1457 1506	traitement antibiothérapie intraveineuse générale
+T45	CHEM 1468 1506	antibiothérapie intraveineuse générale
+T46	CHEM 1512 1522	aminosides
+T47	DOSE 1562 1568	300 mg
+T48	TEMP 1568 1570	/j
+T49	PROC 1585 1624	consultation externe multidisciplinaire
+T50	PROC 1660 1700	néphrectomie totale axiale scanno-guidée
+T51	DISO 1727 1736	malignité
+T52	DISO 1743 1784	complication thromboembolique infectieuse
+T53	DISO 1802 1830	symptomatologie rhumatismale
+T54	DISO 1882 1919	métastase ostéro-rénalienne primitive
+T55	PROC 1924 1945	contrôle locorégional
+T56	Hospital 1972 2005	bloc opératoire pédiatrique privé
+T57	PROC 2034 2058	traitements chirurgicaux
+T58	PROC 2081 2103	technique chirurgicale
+T59	PROC 2117 2144	reconstruction radiologique
+T60	PROC 2285 2338	fermeture péri anévrysmale segmentaire double lobulée
+T61	PROC 2359 2411	résection longitudinale parieto-verticale percutanée
+T62	Concept_Idea 2437 2463	caractéristiques cliniques
+T63	Concept_Idea 2478 2500	limites hémodynamiques
+T64	MEAS 2508 2527	très satisfaisantes
+T65	PROC 2582 2609	séances pluridisciplinaires
+T66	PROC 2621 2640	suivi thérapeutique
+T67	PROC 2686 2723	hémodialèptothérapies prophylactiques
+T68	PROC 2760 2798	radio dialyse antibiotique fractionnés
+T69	Concept_Idea 2812 2828	quantité moyenne
+T70	Concept_Idea 2841 2858	moyens financiers
+T71	LIVB 2889 2896	patient
+T72	Concept_Idea 2904 2927	plan neuropsychiatrique
+T73	TEMP 2951 2956	3 ans
+T74	DISO 3009 3027	troubles cognitifs
+T75	LIVB 3071 3078	patient

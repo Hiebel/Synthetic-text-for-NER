@@ -1,0 +1,15 @@
+T1	PROC 3 27	taux de βHCG plasmatique
+T2	MEAS 36 43	normaux
+T3	LIVB 48 55	patient
+T4	PROC 71 89	antibioprophylaxie
+T5	CHEM 99 130	amoxicilline acide clavulanique
+T6	DOSE 132 137	500mg
+T7	TEMP 137 139	/j
+T8	Concept_Idea 191 213	paramètres biologiques
+T9	DISO 237 244	diabète
+T10	TEMP 252 277	24ème jour postopératoire
+T11	TEMP 353 378	6ème mois postéro-latéral
+T12	ANAT 395 417	systèmes locorégionaux
+T13	Concept_Idea 467 484	plan psychomoteur
+T14	DISO 626 653	crises convulsives fébriles
+T15	LIVB 662 672	nouveau-né

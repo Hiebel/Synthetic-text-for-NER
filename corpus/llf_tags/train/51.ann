@@ -1,0 +1,54 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 35	12 ans
+T3	PROC 117 122	suivi
+T4	DISO 128 164	infection sexuellement transmissible
+T5	PROC 174 203	classification de Whipple JNJ
+T6	DISO 283 305	consanguinité élective
+T7	DISO 312 330	contage pecuniaire
+T8	LIVB 341 345	deux
+T9	LIVB 346 353	jumeaux
+T10	LIVB 358 368	nouveau-né
+T11	TEMP 380 393	il y a 8 mois
+T12	LIVB 400 402	sa
+T13	PROC 403 425	consultation prénatale
+T14	DISO 464 481	syphilis primaire
+T15	DEVI 501 520	appareils digestifs
+T16	PROC 539 566	examen anatomo-pathologique
+T17	PROC 595 617	consultation familiale
+T18	DISO 640 658	transsexualisation
+T19	PROC 710 725	prise en charge
+T20	PROC 857 874	toilette urinaire
+T21	ANAT 866 874	urinaire
+T22	PROC 945 968	colostomie endoscopique
+T23	PROC 1013 1042	prélèvements bactériologiques
+T24	MEAS 1354 1361	simples
+T25	MEAS 1424 1437	particulières
+T26	PROC 1442 1466	diagnostic préopératoire
+T27	PROC 1488 1509	biopsie scanno-guidée
+T28	MEAS 1684 1698	superficielles
+T29	Concept_Idea 1707 1716	caractère
+T30	MEAS 1717 1741	macroscopiquement normal
+T31	PROC 1746 1768	traitement chirurgical
+T32	PROC 1786 1800	radio du grêle
+T33	ANAT 1795 1800	grêle
+T34	PROC 1812 1824	soins locaux
+T35	CHEM 1828 1845	corticoïde butyle
+T36	PROC 1858 1882	remplissage vasculorénal
+T37	ANAT 1870 1882	vasculorénal
+T38	PROC 1893 1912	anesthésie générale
+T39	CHEM 1925 1935	imipenème®
+T40	DISO 1965 1992	symptomatologie infectieuse
+T41	PROC 2045 2057	paraclinique
+T42	PROC 2068 2098	curage ganglionnaire axillaire
+T43	TEMP 2115 2125	7 semaines
+T44	PROC 2135 2140	suivi
+T45	DISO 2164 2215	récidive polyploïde myxoïde monocytaire polymyxoide
+T46	MEAS 2273 2281	suspecte
+T47	DISO 2299 2321	nécrose granulomateuse
+T48	DISO 2328 2342	tumeur maligne
+T49	PHEN 2356 2365	grossesse
+T50	TEMP 2387 2392	22 SA
+T51	LIVB 2414 2422	patiente
+T52	DISO 2442 2462	mort fœtale in utéro
+T53	PROC 2467 2476	visualisé
+T54	PROC 2486 2522	méthode immunohistochimique standard

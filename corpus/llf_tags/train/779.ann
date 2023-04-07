@@ -1,0 +1,25 @@
+T1	LIVB 15 22	patient
+T2	LIVB 85 92	parents
+T3	PROC 125 148	traumatisme chirurgical
+T4	LIVB 188 190	il
+T5	LIVB 229 232	lui
+T6	PROC 239 245	enlevé
+T7	Hospital 250 299	matériel d'ostéosynthèse chirurgicale pédiatrique
+T8	LIVB 309 311	il
+T10	TEMP 466 475	deux mois
+T11	PROC 488 518	intervention ostéo-articulaire
+T12	LIVB 532 535	son
+T13	PROC 536 551	hospitalisation
+T14	TEMP 561 585	4ème jour postopératoire
+T15	PROC 608 628	transfusion sanguine
+T16	PROC 642 672	séances de rééducation motrice
+T17	PROC 702 730	tomodensitométrie normalisée
+T18	PROC 746 778	méthode semi-automatique directe
+T19	PROC 852 871	anesthésie générale
+T20	TEMP 901 907	45 min
+T21	CHEM 919 939	produit anesthésique
+T22	LIVB 979 983	nous
+T23	DISO 1119 1145	complications infectieuses
+T24	LIVB 1184 1191	patient
+T25	Concept_Idea 1228 1254	activités professionnelles
+T26	PROC 1349 1368	repas préopératoire

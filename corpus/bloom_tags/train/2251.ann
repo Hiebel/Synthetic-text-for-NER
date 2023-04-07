@@ -1,0 +1,39 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 71	antécédents pathologiques
+T3	MEAS 72 80	notables
+T4	Hospital 105 113	urgences
+T6	ANAT 145 157	péricardique
+T7	TEMP 167 183	depuis 48 heures
+T8	PROC 187 202	examen clinique
+T9	DISO 223 302	dilatation des artères cardiaques hypertrophiées du sinus bradypallidale altéré
+T11	ANAT 275 302	sinus bradypallidale altéré
+T12	PROC 322 338	examen somatique
+T13	MEAS 339 345	normal
+T14	PROC 351 384	échocardiographie transthoracique
+T15	ANAT 369 384	transthoracique
+T16	DISO 421 454	hypotension artérielle systolique
+T17	ANAT 433 454	artérielle systolique
+T18	MEAS 466 478	120/120 mmHg
+T19	DISO 486 520	hyperpression ventriculaire gauche
+T20	ANAT 500 520	ventriculaire gauche
+T21	Localization 514 520	gauche
+T22	MEAS 536 544	150mm Hg
+T23	PROC 550 593	remplissage par voie veineuse intraveineuse
+T24	MODE 566 593	voie veineuse intraveineuse
+T25	PROC 641 681	prélèvement vasculo-cytoplasmique cutané
+T26	ANAT 653 681	vasculo-cytoplasmique cutané
+T27	PROC 687 714	corticothérapie parenterale
+T28	PROC 762 788	consultation préopératoire
+T29	DISO 820 843	hémoptysème puruloureux
+T30	DISO 895 918	traumatiques crâniennes
+T31	DISO 929 949	pathologies malignes
+T32	PROC 953 966	sérologie VIH
+T33	MEAS 979 987	négative
+T34	PROC 998 1024	immuno-hystéro-protéinurie
+T35	MEAS 1031 1048	fortement positif
+T36	DISO 1088 1096	tumorale
+T37	PROC 1256 1282	diagnostic immunocompétent
+T38	LIVB 1311 1320	patientes
+T39	MEAS 1374 1387	très positifs
+T40	ANAT 1465 1490	liquide céphalo-rachidien
+T41	PHEN 1586 1601	cycle menstruel

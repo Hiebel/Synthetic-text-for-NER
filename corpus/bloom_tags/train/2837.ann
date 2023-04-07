@@ -1,0 +1,31 @@
+T1	LIVB 29 37	patiente
+T2	DISO 93 119	méningoencephalite fébrile
+T3	DISO 124 144	diplénie métabolique
+T4	PROC 150 165	examen clinique
+T5	PHEN 186 201	acuité visuelle
+T6	MEAS 212 219	2/10 cm
+T7	DISO 235 261	troubles sensitivomotrices
+T8	ANAT 278 298	cornets oculomoteurs
+T9	TEMP 325 338	depuis 3 mois
+T10	MEAS 348 371	de plus en plus intense
+T11	CHEM 416 442	médicaments neuroleptiques
+T12	CHEM 444 458	neuroleptiques
+T13	PROC 463 493	échographie abdomino-pelvienne
+T14	ANAT 475 493	abdomino-pelvienne
+T15	DISO 520 586	lésion tissulaire arrondie lithiasique hypertrophié-hypokaliotique
+T16	MEAS 596 600	13cm
+T17	Concept_Idea 604 613	grand axe
+T18	DISO 618 630	vascularisée
+T19	PROC 660 669	injection
+T20	CHEM 673 698	produit de contraste iodé
+T21	ANAT 728 750	organes péristaltiques
+T22	MODE 795 800	bolus
+T23	DOSE 804 810	75µmol
+T24	CHEM 814 825	propranolol
+T25	PROC 851 882	scintigraphie pancréatéo-cæcale
+T26	ANAT 865 882	pancréatéo-cæcale
+T27	DISO 896 963	adénopathie centrale pancréatique biliaire carcinomateuse nodulaire
+T28	Localization 908 916	centrale
+T29	ANAT 997 1019	membranes intestinales
+T30	DISO 1029 1043	neuroendocrine
+T31	ANAT 1062 1097	plage d'épanchement liquidien cæcal

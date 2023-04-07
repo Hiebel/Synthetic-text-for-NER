@@ -1,0 +1,37 @@
+T1	DISO 0 13	hypercalcémie
+T2	PROC 22 40	taux d'hémoglobine
+T3	MEAS 43 51	3,2 g/dL
+T4	PROC 56 78	fibroscopie bronchique
+T5	ANAT 68 78	bronchique
+T6	DISO 90 99	anomalies
+T7	DISO 117 127	saignement
+T8	PROC 134 161	numération formule sanguine
+T9	PHEN 175 190	fonction rénale
+T10	ANAT 184 190	rénale
+T11	MEAS 191 199	correcte
+T12	Concept_Idea 201 203	VN
+T13	MEAS 205 217	46-48 mmol/l
+T14	PROC 222 259	examen cytobactériologique des urines
+T15	ANAT 253 259	urines
+T16	LIVB 281 305	Streptococcus pneumoniae
+T17	DISO 321 328	diabète
+T18	DISO 358 387	insuffisance rénale terminale
+T19	ANAT 371 377	rénale
+T20	MEAS 398 421	10 litres par décilitre
+T21	TEMP 431 451	24 prochaines heures
+T22	PROC 457 484	thyroïdectomie exploratrice
+T23	PROC 490 509	anesthésie générale
+T24	DEVI 513 535	masque haute fréquence
+T25	PROC 549 569	reprise chirurgicale
+T26	PROC 594 619	transfusion intraveineuse
+T27	MEAS 642 649	simples
+T28	MEAS 686 696	favorables
+T29	DISO 729 749	récidive traumatique
+T30	DISO 756 766	métastases
+T31	DISO 773 803	contage tuberculeux secondaire
+T32	PROC 809 843	radiothérapie externe concomitante
+T33	CHEM 849 859	Tamoxifen®
+T34	MEAS 967 986	très satisfaisantes
+T35	PROC 991 1011	traitement palliatif
+T36	LIVB 1074 1082	patients
+T37	Concept_Idea 1101 1125	activité professionnelle

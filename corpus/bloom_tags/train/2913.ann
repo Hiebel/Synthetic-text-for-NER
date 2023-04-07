@@ -1,0 +1,82 @@
+T1	LIVB 19 26	patient
+T2	DISO 42 61	tabagique chronique
+T3	MEAS 74 91	15 paquets-années
+T4	PROC 97 103	traité
+T5	CHEM 111 122	nicardipine
+T6	LIVB 124 126	Il
+T7	DISO 142 177	hypertension artérielle hypertendue
+T8	ANAT 155 165	artérielle
+T9	Concept_Idea 186 191	poids
+T10	MEAS 195 200	46 kg
+T11	Concept_Idea 208 215	tailles
+T12	MEAS 219 225	175 cm
+T13	PROC 230 249	bilan préopératoire
+T14	DISO 261 274	particularité
+T15	PROC 280 289	admission
+T16	Hospital 293 308	bloc opératoire
+T17	PROC 335 385	biopsie transfixiante du liquide céphalo-rachidien
+T18	ANAT 360 385	liquide céphalo-rachidien
+T19	PROC 387 391	LCRT
+T20	DISO 415 576	syndrome d'épanchement intracrânien ni d'anomalies neurologiques associées notamment pas d'antécédents personnels ou familiaux d'infarctus surrénalien ischémique
+T21	ANAT 438 450	intracrânien
+T22	DISO 456 479	anomalies neurologiques
+T23	ANAT 554 565	surrénalien
+T24	TEMP 588 602	post-chirurgie
+T25	PROC 626 651	intervention chirurgicale
+T26	PROC 666 690	curiethérapie palliative
+T27	DISO 752 762	métastases
+T28	ANAT 772 798	organes périventriculaires
+T29	LIVB 861 869	patients
+T30	ANAT 890 912	structures graisseuses
+T31	DISO 962 989	localisations métastatiques
+T32	DISO 1061 1080	processus lésionnel
+T33	PROC 1143 1168	étude immunohistochimique
+T34	PROC 1234 1264	échographie abdomino pelvienne
+T35	ANAT 1246 1264	abdomino pelvienne
+T36	PHEN 1278 1295	grossesse utérine
+T37	ANAT 1288 1295	utérine
+T38	MEAS 1296 1305	multiples
+T39	TEMP 1329 1334	14 SA
+T40	TEMP 1338 1343	28 SA
+T41	TEMP 1403 1408	16 SA
+T42	DEVI 1414 1420	foetus
+T43	MEAS 1428 1440	2900 grammes
+T44	Localization 1448 1467	extrémité supérieur
+T45	MEAS 1477 1482	30 cm
+T46	Concept_Idea 1486 1494	diamètre
+T47	MEAS 1548 1552	32cm
+T48	Concept_Idea 1556 1564	diamètre
+T49	MEAS 1611 1616	10/10
+T50	PROC 1623 1681	mise en place d’une sonde cardio-pulmonaire intracérébrale
+T52	ANAT 1649 1681	cardio-pulmonaire intracérébrale
+T53	ANAT 1757 1783	ventricule supra ombilical
+T54	Localization 1768 1773	supra
+T55	PROC 1845 1881	tomodensitométrie abdomino-pelvienne
+T56	ANAT 1863 1881	abdomino-pelvienne
+T57	DISO 1905 2004	tumeur hypodense hétérogène tissulaire basithoracique bilatérale antérieure droite hypo-intenseante
+T59	Concept_Idea 2016 2021	forme
+T60	MEAS 2022 2030	arrondie
+T61	ANAT 2107 2124	pneumo-gastriques
+T62	ANAT 2145 2171	paroi œsophagienne utérine
+T63	ANAT 2197 2222	parties molles ovariennes
+T64	MEAS 2234 2246	spontanément
+T65	Concept_Idea 2250 2256	volume
+T66	Concept_Idea 2287 2297	profondeur
+T67	ANAT 2304 2328	voie biliaire abdominale
+T68	DISO 2357 2383	retentissement malformatif
+T69	MEAS 2464 2473	favorable
+T70	PROC 2478 2519	ponction transfoncellulaire écho-Dopamine
+T72	DISO 2565 2602	myxomateose kystique thromboembolique
+T73	DISO 2659 2685	épanchement intra-trachéal
+T74	ANAT 2671 2685	intra-trachéal
+T75	PROC 2859 2878	bilan préopératoire
+T76	DISO 2890 2903	particularité
+T77	LIVB 2908 2918	nouveau-né
+T78	PROC 2934 2952	traitement curatif
+T79	CHEM 2954 2974	produit de contraste
+T80	TEMP 2976 2993	pendant 48 heures
+T81	DOSE 3018 3022	40Gy
+T82	PROC 3035 3067	scanner thoraco-abdomino-pelvien
+T83	ANAT 3043 3067	thoraco-abdomino-pelvien
+T84	DISO 3102 3125	symptômes neurologiques
+T85	DISO 3150 3182	troubles sensitivo-vestibulaires

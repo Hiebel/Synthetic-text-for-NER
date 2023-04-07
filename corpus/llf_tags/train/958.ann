@@ -1,0 +1,52 @@
+T1	Concept_Idea 27 38	antécédents
+T2	MEAS 39 51	particuliers
+T3	Hospital 75 83	urgences
+T4	DISO 93 100	dyspnée
+T5	DISO 116 140	sensations vertigineuses
+T6	PROC 144 159	examen clinique
+T7	LIVB 172 179	patient
+T8	MEAS 183 190	mauvais
+T9	Concept_Idea 191 203	état général
+T10	PROC 221 237	examen somatique
+T11	DISO 249 263	particularités
+T12	PROC 268 285	tomodensitométrie
+T13	PROC 287 302	TDM) abdominale
+T14	ANAT 292 302	abdominale
+T15	DISO 336 382	processus tissulaire du lobe supérieur péritré
+T16	ANAT 360 382	lobe supérieur péritré
+T17	Localization 365 374	supérieur
+T18	MEAS 391 395	5 cm
+T19	Concept_Idea 399 408	grand axe
+T20	MEAS 418 430	environ 4 cm
+T21	Concept_Idea 434 442	diamètre
+T22	PROC 476 492	bilan biologique
+T23	DISO 570 575	masse
+T24	PROC 580 613	scanner thoraco abdomino- pelvien
+T25	ANAT 588 613	thoraco abdomino- pelvien
+T26	PROC 614 618	STOP
+T27	DISO 701 720	syndrome infectieux
+T28	MEAS 732 738	normal
+T29	PROC 744 791	chimiothérapie palliative type corticostéroïdes
+T30	CHEM 775 791	corticostéroïdes
+T31	MODE 796 806	voie orale
+T32	PROC 820 879	antibioprophylaxie antibacillaire parentérale intraveineuse
+T33	PROC 919 940	contrôle locorégional
+T34	PROC 959 981	traitement substitutif
+T35	MEAS 986 995	favorable
+T36	Concept_Idea 1080 1096	plan fonctionnel
+T37	PHEN 1118 1127	grossesse
+T38	MEAS 1133 1137	N° 2
+T39	LIVB 1157 1164	patient
+T41	DISO 1269 1291	troubles psychomoteurs
+T42	DISO 1307 1332	symptômes dysfonctionnels
+T43	Concept_Idea 1342 1345	âge
+T44	LIVB 1371 1374	son
+T45	LIVB 1375 1381	enfant
+T47	TEMP 1521 1523	/j
+T48	DOSE 1526 1605	propranololone+ acide acétyle méthoxyméthambutol sodique TOTALIMM GIBRIS 200 mg
+T49	TEMP 1605 1607	/j
+T50	LIVB 1626 1637	petit frère
+T51	CHEM 1658 1678	anticoagulants oraux
+T52	LIVB 1873 1876	lui
+T53	LIVB 1879 1881	sa
+T54	LIVB 1882 1895	belle-famille

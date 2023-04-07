@@ -1,0 +1,34 @@
+T1	LIVB 3 14	jeune homme
+T2	TEMP 18 24	19 ans
+T4	MEAS 42 47	24 kg
+T5	PROC 49 55	admise
+T6	Hospital 60 68	urgences
+T7	DISO 78 100	céphalées généralisées
+T8	CHEM 113 130	méthylpropranolol
+T9	TEMP 140 158	depuis trois jours
+T10	MEAS 174 189	progressivement
+T11	Concept_Idea 193 199	volume
+T12	MEAS 209 221	plus fébrile
+T13	LIVB 239 242	ses
+T14	LIVB 243 252	confrères
+T15	DISO 286 310	symptômes neuropathiques
+T16	DISO 358 379	lésions prurigineuses
+T17	ANAT 392 414	membre inférieur droit
+T18	Localization 409 414	droit
+T19	DISO 443 455	tuberculeuse
+T20	DISO 493 501	douleurs
+T21	MODE 528 538	voie orale
+T22	MEAS 551 559	lentérée
+T23	MEAS 591 611	de façon progressive
+T24	Concept_Idea 615 621	volume
+T25	MEAS 649 656	3litres
+T26	DISO 708 727	nausées crépitantes
+T27	DISO 760 790	dyspnée stade III de Balthazar
+T28	TEMP 799 819	deux mois auparavant
+T29	LIVB 838 841	son
+T30	LIVB 842 846	fils
+T31	DISO 867 896	syndrome d’épilepsie visuelle
+T32	MEAS 910 916	brutal
+T33	DISO 932 962	troubles sensitivitivo-moteurs
+T34	MEAS 977 983	rapide
+T35	DISO 1010 1023	consanguinité

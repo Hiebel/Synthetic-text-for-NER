@@ -1,0 +1,32 @@
+T1	LIVB 4 9	femme
+T2	Concept_Idea 30 39	caractère
+T3	MEAS 40 51	particulier
+T4	PROC 53 63	consultait
+T5	Hospital 68 76	urgences
+T7	ANAT 95 108	épigastriques
+T8	DISO 114 131	prurit généralisé
+T9	TEMP 141 154	depuis 2 mois
+T10	PROC 160 175	examen clinique
+T11	LIVB 179 187	patiente
+T12	DISO 203 220	dyspnée sifflante
+T13	MEAS 235 246	progressive
+T14	PROC 250 280	échographie abdomino-pelvienne
+T15	ANAT 262 280	abdomino-pelvienne
+T18	MEAS 452 457	12 cm
+T19	Concept_Idea 461 470	grand axe
+T20	Concept_Idea 473 479	aspect
+T21	MEAS 480 495	en verre dépoli
+T22	DISO 512 548	neuroendocrine sous-vésicale maligne
+T23	ANAT 527 548	sous-vésicale maligne
+T24	ANAT 565 590	parties molles pelviennes
+T25	DISO 662 708	tumeur nécrose péritissulaire surrénalieniaque
+T26	DISO 717 744	ADK épidermoide endométrial
+T27	LIVB 746 749	Son
+T28	PROC 750 778	hormonothérapie substitutive
+T29	CHEM 790 809	hydroxyprogesterone
+T30	CHEM 812 834	tamoxifèneprogestérone
+T31	CHEM 836 849	dexaméthasone
+T32	PROC 854 888	imagerie par résonnance magnétique
+T33	PROC 890 893	IRM
+T34	Hospital 908 952	centre Hospitalier National Hassan II de Fès
+T37	CHEM 1088 1108	produit de contraste

@@ -1,0 +1,65 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	5 ans
+T3	DISO 41 70	cholécystite aiguée purulente
+T4	PROC 88 113	traitement antibacillaire
+T5	CHEM 126 157	amoxicilline-acide clavulanique
+T6	CHEM 172 193	corticoestéronégatifs
+T7	PROC 202 207	admis
+T8	Hospital 215 234	urgence pédiatrique
+T9	DISO 248 274	déshydratation métabolique
+T10	LIVB 296 301	fille
+T11	TEMP 381 394	depuis 5 mois
+T12	LIVB 404 408	elle
+T13	ANAT 461 478	pleural liquidien
+T14	DISO 491 500	symptômes
+T15	DISO 537 553	syndrome fébrile
+T16	DISO 560 577	douleur pelvienne
+T17	ANAT 568 577	pelvienne
+T18	DISO 611 651	déficit sensitivo-moteur sensitivomoteur
+T19	PROC 668 688	reprise chirurgicale
+T20	DISO 771 802	tuberculose érythémato-fongique
+T21	LIVB 818 825	patient
+T22	TEMP 850 856	13 ans
+T23	DISO 871 913	chirurgie épigastroduodéno-colique maligne
+T24	ANAT 881 905	épigastroduodéno-colique
+T25	DISO 985 1024	métastase parathyroïdienne métanéphrine
+T26	ANAT 995 1024	parathyroïdienne métanéphrine
+T27	DISO 1043 1069	hormonothérapie résistante
+T28	DISO 1204 1223	méningiome kystique
+T29	DISO 1376 1417	pathocondromatose hypogastrique nodulaire
+T30	DISO 1435 1466	hyperplasie glande thyroïdienne
+T31	MEAS 1478 1483	1g/dl
+T32	DISO 1505 1528	hypopituitarie primaire
+T33	DISO 1544 1580	insuffisance rénale fœtale infarctée
+T34	ANAT 1557 1580	rénale fœtale infarctée
+T35	PROC 1654 1673	touchers ovariennes
+T36	ANAT 1663 1673	ovariennes
+T37	MEAS 1687 1695	négatifs
+T38	PROC 1713 1732	échographie utérine
+T39	ANAT 1725 1732	utérine
+T40	DEVI 1772 1778	moyens
+T41	PROC 1820 1844	consultations prénatales
+T42	MEAS 1881 1890	difficile
+T43	MEAS 1909 1917	profonde
+T44	MEAS 1966 1975	suspectes
+T45	PROC 2037 2070	prélèvements anatomopathologiques
+T46	PROC 2235 2273	réseau veineux périphérique angio-géré
+T47	LIVB 2323 2331	patients
+T48	DISO 2353 2389	pneumo-tuberculose thrombo-embolisée
+T49	PROC 2427 2451	scanner abdomino-pelvien
+T50	ANAT 2435 2451	abdomino-pelvien
+T51	DISO 2467 2480	particularité
+T52	DISO 2495 2537	dilatations du trajet fistulisé péritonéal
+T53	ANAT 2510 2537	trajet fistulisé péritonéal
+T54	ANAT 2553 2558	grêle
+T55	ANAT 2564 2578	intestin grêle
+T56	PROC 2593 2606	sérologie VIH
+T57	MEAS 2607 2614	positif
+T58	PROC 2620 2648	corticothérapie substitutive
+T59	DOSE 2650 2654	3 mg
+T60	TEMP 2654 2656	/j
+T61	CHEM 2659 2673	hydrocortisone
+T62	DOSE 2676 2681	20 mg
+T63	TEMP 2681 2683	/j
+T64	CHEM 2687 2700	dexaméthasone
+T65	TEMP 2738 2745	12 mois

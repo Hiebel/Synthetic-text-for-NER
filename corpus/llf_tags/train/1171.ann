@@ -1,0 +1,59 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 43 53	antécédent
+T3	MEAS 54 65	particulier
+T4	DISO 85 114	tuméfaction du tronc cérébral
+T5	ANAT 100 114	tronc cérébral
+T6	PHEN 132 141	grossesse
+T7	PROC 146 152	suivie
+T8	PROC 156 171	examen clinique
+T9	DISO 188 204	râles crépitants
+T10	TEMP 216 236	jusqu'à cinq minutes
+T11	DISO 256 274	stress traumatique
+T12	DISO 320 329	dysphagie
+T13	Concept_Idea 374 386	état général
+T14	PROC 392 406	interrogatoire
+T15	LIVB 411 418	patient
+T16	CHEM 446 460	calcibronolone
+T17	DOSE 462 466	3 mg
+T18	TEMP 466 468	/j
+T19	MODE 474 492	voie intraveineuse
+T20	DISO 521 543	crises tonicocloniques
+T21	PROC 583 595	consultation
+T22	PROC 599 623	contrôle ophtalmologique
+T23	PROC 627 638	échographie
+T24	Hospital 652 660	urgences
+T25	DISO 682 708	signes neuropsychiatriques
+T26	DISO 725 742	syndrome délirant
+T27	DISO 752 772	déficit psychomoteur
+T28	DISO 809 867	méningo-encéphalite démyélonéphrite atrophique congénitale
+T29	LIVB 898 904	enfant
+T30	Concept_Idea 923 954	positionnement socio-économique
+T31	PHEN 971 980	grossesse
+T32	PROC 985 1004	sérologie hydatique
+T33	MEAS 1011 1019	négative
+T34	PROC 1048 1067	examens biologiques
+T35	DISO 1128 1164	symptomatologie infectieuse primaire
+T36	DISO 1170 1198	fièvre catarrhale fovéolaire
+T37	MEAS 1207 1213	T4N1M0
+T38	DISO 1360 1392	néoplasie myxomateuse secondaire
+T39	PROC 1407 1432	scanner thoraco-abdominal
+T40	ANAT 1415 1432	thoraco-abdominal
+T41	PROC 1447 1457	extubation
+T42	DISO 1482 1526	nécrose épidurale monophasique hypochromique
+T43	ANAT 1546 1569	vaisseaux mésentériques
+T44	MEAS 1579 1584	50 mm
+T45	Localization 1609 1627	centres inférieurs
+T46	MEAS 1744 1757	environ 70 mm
+T47	PROC 2927 2944	bilan d'hémostase
+T48	Concept_Idea 2950 2954	dose
+T49	DOSE 2958 2965	20mg/kg
+T50	TEMP 2965 2975	/24 heures
+T51	PROC 3002 3021	traitement adjuvant
+T52	DISO 3026 3055	symptômes neuropsychiatriques
+T53	PROC 3068 3074	suivie
+T54	DISO 3099 3107	récidive
+T55	TEMP 3127 3134	18 mois
+T56	PROC 3140 3170	contrôle psychopharmacologique
+T57	LIVB 3202 3210	patiente
+T58	Concept_Idea 3225 3241	plan hémodialysé
+T59	DISO 3258 3276	crises convulsives

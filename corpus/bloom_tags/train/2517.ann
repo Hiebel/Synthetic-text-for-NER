@@ -1,0 +1,28 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	Concept_Idea 42 53	antécédents
+T4	MEAS 54 66	particuliers
+T5	PROC 68 79	hospitalisé
+T6	Hospital 84 92	urgences
+T7	DISO 102 122	douleur épigastrique
+T8	ANAT 110 122	épigastrique
+T9	DISO 130 155	vomissements alimentaires
+T10	TEMP 165 178	depuis 3 mois
+T11	PROC 182 197	examen clinique
+T12	LIVB 210 216	enfant
+T13	MEAS 220 223	bon
+T14	Concept_Idea 224 236	état général
+T15	DISO 257 290	défense péristaltique du pancréas
+T16	ANAT 282 290	pancréas
+T17	DISO 316 338	hémopéritoine purulent
+T18	PROC 344 374	échographie abdomino-pelvienne
+T19	ANAT 356 374	abdomino-pelvienne
+T20	DISO 388 438	masse tumorale kystique latéralisée hypokaliémique
+T21	Localization 441 449	centrale
+T22	CHEM 471 482	bupivacaine
+T23	MEAS 492 497	15 cm
+T24	Concept_Idea 501 510	grand axe
+T25	ANAT 527 559	artère rénale supra-hypophysaire
+T26	Localization 541 546	supra
+T27	PHEN 575 593	suites opératoires
+T28	MEAS 602 609	simples

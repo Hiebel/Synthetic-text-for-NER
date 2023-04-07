@@ -1,0 +1,20 @@
+T1	LIVB 28 35	patient
+T2	DISO 64 102	compression thoraco-abdomino-pelvienne
+T3	ANAT 76 102	thoraco-abdomino-pelvienne
+T4	LIVB 121 124	ses
+T5	LIVB 125 132	enfants
+T6	DISO 148 159	hémoptysies
+T7	TEMP 169 182	depuis 2 mois
+T8	MEAS 197 212	plus accentuées
+T9	LIVB 229 236	enfants
+T10	PHEN 252 276	contractions abdominales
+T11	ANAT 265 276	abdominales
+T12	DISO 304 309	masse
+T13	MEAS 317 322	10 kg
+T14	MEAS 332 344	environ 6 cm
+T15	Concept_Idea 348 357	grand axe
+T16	ANAT 391 413	muqueuses intestinales
+T17	ANAT 434 452	membres inférieurs
+T18	DISO 603 632	polyradiculonévralgie fébrile
+T19	CHEM 697 708	acénaphrine
+T20	CHEM 864 877	noradrénaline

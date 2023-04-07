@@ -1,0 +1,93 @@
+T1	PROC 4 21	tomodensitométrie
+T2	PROC 23 45	TDM) thoraco-abdominal
+T3	ANAT 28 45	thoraco-abdominal
+T4	DISO 61 93	processus tissulaire du pancréas
+T5	ANAT 85 93	pancréas
+T6	Concept_Idea 97 107	indication
+T7	PROC 113 133	traitement palliatif
+T8	DISO 198 219	signes inflammatoires
+T9	LIVB 229 236	patient
+T10	DISO 256 283	symptôme neuropsychiatrique
+T11	PROC 293 308	examen clinique
+T12	MEAS 313 319	légère
+T13	DISO 320 326	fièvre
+T14	MEAS 329 335	38 ° C
+T15	DISO 348 354	signes
+T16	DISO 381 390	dysphonie
+T17	DISO 397 414	trouble bipolaire
+T18	PROC 419 438	bilan préopératoire
+T19	DISO 474 503	mégacaryocytose polymalformée
+T20	DISO 538 548	infectieux
+T21	CHEM 554 589	amoxicilline Acide Leucérogénéneuse
+T22	DOSE 590 595	50 mg
+T23	TEMP 595 599	/24h
+T24	PROC 605 618	sérologie VIH
+T25	LIVB 652 660	patiente
+T26	CHEM 704 717	métronidazole
+T27	PROC 746 756	traitement
+T28	PROC 770 788	bilan radiologique
+T29	MEAS 804 811	négatif
+T30	PROC 817 841	explorations biologiques
+T31	PHEN 872 882	grossesses
+T32	MEAS 914 924	favorables
+T33	LIVB 941 946	fœtus
+T34	DISO 971 987	maladie cœliaque
+T35	DISO 997 1019	anomalies congénitales
+T36	PROC 1105 1125	reprise chirurgicale
+T37	Hospital 1130 1151	urgences pédiatriques
+T38	PROC 1163 1188	transplantation néonatale
+T39	PROC 1193 1223	complément immunohistochimique
+T40	Concept_Idea 1268 1294	caractéristiques cliniques
+T41	DISO 1328 1377	léiomyosarcome mucineux myxoide stade III maligne
+T42	MEAS 1385 1393	stade IV
+T43	PROC 1403 1538	classification TNM Hormone Mutational Scintigraphy of blood chromogeneous insulin or heterocyte chondrocytoplasmidine factors sclerosis
+T45	DEVI 2447 2467	matériel chirurgical
+T46	MEAS 2477 2487	18 x 15 cm
+T47	DISO 2590 2605	obésité morbide
+T48	DISO 2621 2657	hypertriglycéridémie hypokalièmiante
+T49	MEAS 2668 2686	159 grammes / jour
+T50	PROC 2711 2730	traitement adjuvant
+T51	PROC 2743 2752	admission
+T52	PROC 2804 2831	néphrectomie totale du foie
+T53	ANAT 2827 2831	foie
+T54	Concept_Idea 2854 2872	état hémodynamique
+T55	LIVB 2892 2900	patiente
+T56	CHEM 2911 2923	antibiotique
+T57	PROC 2932 2951	bilan préopératoire
+T58	DISO 2957 2987	troubles hydro électrolytiques
+T59	DISO 2991 3017	signes neuropsychiatriques
+T60	DISO 3028 3051	symptômes pathologiques
+T61	PROC 3071 3087	geste opératoire
+T62	PHEN 3103 3121	suites opératoires
+T63	PROC 3126 3148	contrôle échographique
+T64	DISO 3187 3205	crises convulsives
+T65	TEMP 3218 3227	six jours
+T66	TEMP 3268 3281	deux semaines
+T67	Concept_Idea 3389 3406	plan radiologique
+T68	MEAS 3411 3420	favorable
+T69	LIVB 3435 3446	nouveau-nés
+T70	Concept_Idea 3458 3490	présentation anatomopathologique
+T71	Hospital 3505 3526	urgences pédiatriques
+T72	DISO 3547 3568	réanimation néonatale
+T73	DISO 3622 3634	complication
+T74	PROC 3663 3675	radiologique
+T75	PROC 3680 3697	suivi obstétrical
+T76	PROC 3715 3727	consultation
+T77	DISO 3747 3778	hyperprédominance psychomotrice
+T78	LIVB 3795 3802	garçons
+T79	TEMP 3831 3838	24 mois
+T80	MEAS 3870 3874	7/10
+T81	MEAS 3878 3882	2/10
+T82	MEAS 3890 3894	4/10
+T83	Localization 3912 3923	postérieurs
+T84	MEAS 3932 3939	normaux
+T85	ANAT 3955 3967	conjonctives
+T86	MEAS 3993 4013	légèrement sensibles
+T87	ANAT 4030 4037	poumons
+T88	ANAT 4052 4082	aires ganglionnaires cervicaux
+T89	MEAS 4096 4104	négatifs
+T90	PROC 4110 4146	toilette oeso-gastroblocorotrachéale
+T91	ANAT 4119 4146	oeso-gastroblocorotrachéale
+T92	PROC 4165 4189	laparotomie exploratrice
+T93	ANAT 4263 4286	veine jugulaire médiane
+T94	Localization 4279 4286	médiane

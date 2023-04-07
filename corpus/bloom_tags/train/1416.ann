@@ -1,0 +1,36 @@
+T1	LIVB 4 12	patiente
+T2	PHEN 29 38	grossesse
+T3	PROC 43 49	suivie
+T4	DISO 65 78	consanguinité
+T5	DISO 85 104	maladie métabolique
+T6	DISO 111 134	hypertension artérielle
+T7	ANAT 124 134	artérielle
+T8	PROC 141 150	admission
+T9	Hospital 155 180	urgences ophtalmologiques
+T10	DISO 216 230	toux sifflante
+T11	TEMP 240 256	depuis 24 heures
+T12	DISO 279 285	sueurs
+T13	MEAS 298 303	200°c
+T14	DEVI 335 363	drainage laryngéo-thoracique
+T15	ANAT 344 363	laryngéo-thoracique
+T16	PROC 377 401	intubation nasogastrique
+T17	ANAT 388 401	nasogastrique
+T18	DISO 439 454	symptomatologie
+T19	Concept_Idea 499 507	temporal
+T20	Concept_Idea 511 524	professionnel
+T21	DISO 606 625	trophobehypococcose
+T22	ANAT 647 662	intramyocytaire
+T23	DISO 687 695	kystique
+T24	DISO 733 755	traumatisme œsophagien
+T25	ANAT 745 755	œsophagien
+T26	MEAS 801 805	30°C
+T27	PROC 854 882	investigations radiologiques
+T28	PROC 888 905	scanner abdominal
+T29	ANAT 896 905	abdominal
+T30	DISO 922 958	masse tissulaire kystique hétérogène
+T31	MEAS 968 972	6 cm
+T32	Concept_Idea 976 985	grand axe
+T33	MEAS 1038 1041	2cm
+T34	DISO 1090 1095	masse
+T35	MEAS 1103 1107	21mm
+T36	Concept_Idea 1111 1120	grand axe

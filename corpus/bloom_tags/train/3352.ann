@@ -1,0 +1,32 @@
+T1	LIVB 4 9	femme
+T2	DISO 48 69	détresse respiratoire
+T3	PHEN 57 69	respiratoire
+T4	MEAS 84 95	progressive
+T5	Concept_Idea 131 143	état général
+T6	TEMP 153 167	depuis 2 jours
+T7	PROC 172 213	scanner cervico-thoraco-abdomino- pelvien
+T9	PROC 227 246	anesthésie générale
+T10	DISO 263 290	paralysie thoracique droite
+T11	ANAT 273 290	thoracique droite
+T12	Localization 284 290	droite
+T13	DISO 300 308	kystique
+T14	DISO 314 347	atteinte pulmonaire normotroncale
+T15	ANAT 323 347	pulmonaire normotroncale
+T16	DISO 351 399	particularité ganglionnaire nodulaire tissulaire
+T17	ANAT 365 399	ganglionnaire nodulaire tissulaire
+T18	ANAT 428 452	organes génitauxexternes
+T19	DISO 485 495	secondaire
+T20	PROC 500 531	radio-chimiothérapie palliative
+T21	CHEM 544 554	cisplatine
+T22	CHEM 557 568	vinblastine
+T23	CHEM 570 582	doxorubicine
+T24	CHEM 584 594	paclitaxel
+T25	CHEM 596 610	hydrocortisone
+T26	CHEM 612 622	tamoxifène
+T27	CHEM 624 633	docetaxel
+T28	CHEM 635 648	bêtaméthasone
+T29	CHEM 650 662	prédnisolone
+T30	PROC 676 704	radiothérapie complémentaire
+T31	LIVB 857 868	jeune femme
+T32	DISO 909 929	céphalées fébrileurs
+T33	DISO 934 962	dyspnée stade II de Brackman

@@ -1,0 +1,115 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 46 51	3 ans
+T3	MEAS 69 80	particulier
+T4	DISO 100 142	tuméfaction douloureuse du plexus brachial
+T5	ANAT 127 142	plexus brachial
+T6	PROC 146 152	examen
+T7	PROC 157 166	admission
+T8	LIVB 177 184	patient
+T9	MEAS 188 195	mauvais
+T10	Concept_Idea 196 208	état général
+T11	DISO 218 244	signes neuropsychiatriques
+T12	DISO 257 266	dysphonie
+T13	PROC 283 299	examen somatique
+T14	DISO 309 322	particularité
+T15	PROC 329 346	tomodensitométrie
+T16	TEMP 359 369	24/08/2013
+T17	PHEN 385 406	contractions utérines
+T18	ANAT 398 406	utérines
+T19	ANAT 410 420	pelviennes
+T20	MEAS 429 439	similaires
+T21	Concept_Idea 455 473	plan superficielle
+T22	DISO 487 507	distension cervicale
+T23	ANAT 498 507	cervicale
+T24	PROC 530 547	mise en condition
+T25	PROC 552 569	bilan étiologique
+T26	DISO 586 609	infestation parasitaire
+T27	LIVB 618 628	nouveau-né
+T28	TEMP 637 643	4 mois
+T29	DISO 678 695	récidive caséeuse
+T30	DISO 702 724	consanguinité primaire
+T31	PROC 730 754	échographie obstétricale
+T32	PROC 788 814	examen anatomopathologique
+T33	DISO 848 870	symptomatologie fœtale
+T34	PROC 903 935	fibroscopie oeso-gastroduodénale
+T35	ANAT 915 935	oeso-gastroduodénale
+T36	DISO 956 1008	masse tissulaire péritonéale hétérogène hypoéchogène
+T37	MEAS 1018 1022	6 cm
+T38	Concept_Idea 1026 1035	grand axe
+T39	ANAT 1056 1066	sein droit
+T40	Localization 1061 1066	droit
+T41	MEAS 1075 1087	environ 6 cm
+T42	Concept_Idea 1091 1100	petit axe
+T43	ANAT 1122 1137	anses grêliques
+T44	ANAT 1172 1190	structures cutanés
+T45	ANAT 1209 1231	annexes crico-rectales
+T46	ANAT 1245 1263	sillons axillaires
+T47	MEAS 1300 1313	7 centimètres
+T48	MEAS 1350 1357	simples
+T49	PROC 1363 1391	chimiothérapie néo adjuvante
+T50	CHEM 1397 1428	amoxicilline acide clavulanique
+T51	PROC 1442 1472	antibioprophylaxie parentérale
+T52	PROC 1494 1508	thyroïdectomie
+T53	PROC 1527 1598	transfusions sanguines intraveineuse IgG glucocorticoïde biphosphonates
+T54	DOSE 1599 1611	10000 UI /kg
+T55	MEAS 1618 1637	0,5 fois la normale
+T56	Concept_Idea 1646 1661	plan biologique
+T57	DISO 1677 1697	hypertriglycéridémie
+T58	MEAS 1700 1710	9,1 mmol/l
+T59	DISO 1725 1740	hyperprotidémie
+T60	MEAS 1743 1753	2,16mmol/l
+T61	DISO 1766 1795	syndrome néphrotique anémique
+T62	DISO 1812 1828	myélome multiple
+T63	DISO 1838 1859	maladies auto-immunes
+T64	DISO 1893 1913	asthénie polyclonale
+T65	DISO 1932 1972	insuffisance cardio-vasculaire chronique
+T66	ANAT 1945 1962	cardio-vasculaire
+T67	MEAS 1983 1987	10°C
+T68	PROC 2036 2064	prise en charge chirurgicale
+T69	PROC 2069 2086	scanner abdominal
+T70	ANAT 2077 2086	abdominal
+T71	DISO 2134 2214	lésion ulcérée pylorique monophasique périrénal fovéolaire congénitale distendue
+T72	ANAT 2225 2245	noyaux mésentériques
+T73	ANAT 2253 2378	angle infundibulaire rétromamelonnaire postéro-antéro-latéral supérieur droit controlatéral antero-temporo-mandibulaire droit
+T74	Localization 2325 2378	droit controlatéral antero-temporo-mandibulaire droit
+T75	MEAS 2432 2455	35 degrés centimétrique
+T76	Concept_Idea 2468 2488	aspect morphologique
+T77	DISO 2505 2542	hépatopathie tuberculeuse stade ELISA
+T78	DISO 2579 2608	neuroleptiques inflammatoires
+T79	DISO 2701 2728	complications neurologiques
+T80	PROC 2793 2812	traitement adjuvant
+T81	PROC 2818 2857	chirurgie du squelette cervico-vaginale
+T82	ANAT 2831 2857	squelette cervico-vaginale
+T83	Concept_Idea 2881 2901	paramètres cliniques
+T84	PROC 2909 2933	échographie obstétricale
+T85	TEMP 2958 2965	18 mois
+T86	PROC 2969 2975	suivie
+T87	PHEN 2980 2995	fonction rénale
+T88	ANAT 2989 2995	rénale
+T89	MEAS 3002 3009	normale
+T90	LIVB 3087 3094	patient
+T91	PROC 3115 3155	néphrostomie exploratrice pré opératoire
+T92	DEVI 3180 3201	cathétérisme drainant
+T93	PROC 3207 3226	anesthésie générale
+T94	PROC 3242 3284	hémodialyse intrathoracique postopératoire
+T95	PROC 3303 3341	systocie extracorporelle scanno-guidée
+T96	TEMP 3358 3377	24 heures plus tard
+T97	PROC 3381 3408	analyse anatomopathologique
+T98	DISO 3451 3535	cytoplasme érythémateux hétérotopique tissulaire polyploïde hypoallergénique maligne
+T99	ANAT 3558 3585	cellules fusiformes basales
+T100	ANAT 3626 3648	ganglions médiastinaux
+T101	ANAT 3675 3695	membranes lymphoïdes
+T102	ANAT 3752 3779	zones axillaires digestives
+T103	ANAT 3807 3821	bulbes charnus
+T104	ANAT 3837 3861	voies biliaires pelviens
+T106	MEAS 3971 3979	15x11 cm
+T107	MEAS 3983 3990	14x6 cm
+T108	PROC 3997 4016	étude cytogénétique
+T109	PROC 4032 4061	technique immunohistochimique
+T110	DISO 4081 4098	résidu infectieux
+T111	ANAT 4115 4131	groupes tumoraux
+T112	PROC 4168 4192	technique néo-lamellaire
+T113	DISO 4221 4254	micronodules sarcomateux nécrosés
+T114	ANAT 4272 4296	revêtement gastrocnémien
+T115	ANAT 4340 4357	rein droit jugulé
+T116	Localization 4345 4357	droit jugulé

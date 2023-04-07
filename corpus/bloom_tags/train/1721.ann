@@ -1,0 +1,46 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 50	primipare
+T3	PROC 62 68	admise
+T4	Hospital 73 81	urgences
+T5	DISO 91 123	douleur abdominopelvienne aiguée
+T6	ANAT 99 116	abdominopelvienne
+T7	DISO 139 164	vomissements alimentaires
+T8	PROC 168 183	examen clinique
+T9	DISO 195 208	particularité
+T10	PROC 214 223	admission
+T11	Hospital 227 242	bloc opératoire
+T12	LIVB 247 255	patiente
+T13	MEAS 265 268	bon
+T14	Concept_Idea 269 281	état général
+T15	PHEN 290 295	pouls
+T16	MEAS 307 325	100 battements/min
+T17	LIVB 327 331	Elle
+T18	DISO 352 366	amaigrissement
+T19	MEAS 377 380	3kg
+T20	TEMP 382 391	deux mois
+T21	LIVB 404 408	Elle
+T22	PROC 430 449	bilan préopératoire
+T23	PROC 465 495	échographie abdomino-pelvienne
+T24	ANAT 477 495	abdomino-pelvienne
+T25	PROC 503 547	tomodensitométrie thoraco-abdomino-pelvienne
+T26	ANAT 521 547	thoraco-abdomino-pelvienne
+T27	DISO 564 626	masse kystique du flux iléosurrénalien laryngopharyngéo-cæcale
+T28	ANAT 582 626	flux iléosurrénalien laryngopharyngéo-cæcale
+T29	MEAS 636 644	24x12 cm
+T30	Concept_Idea 653 662	caractère
+T31	Localization 669 677	centraux
+T32	ANAT 694 730	parties molles cervico-épigastriques
+T33	DISO 759 786	métanéphrineangiotendineuse
+T34	DISO 790 803	paragangliome
+T35	DISO 832 850	signe neurologique
+T36	DISO 882 912	localisations sensitivomotrice
+T37	PROC 926 948	traitement chirurgical
+T38	PROC 963 987	laparotomie exploratrice
+T40	ANAT 1004 1015	péritonéale
+T41	PROC 1022 1075	incision iléo-mésentérique transfixiante pancréatique
+T42	ANAT 1031 1075	iléo-mésentérique transfixiante pancréatique
+T43	PROC 1089 1109	biopsie endoscopique
+T44	LIVB 1187 1194	patient
+T46	DISO 1432 1448	hypervascularisé
+T47	CHEM 1718 1729	tuberculine
+T48	PROC 1730 1734	TIRU

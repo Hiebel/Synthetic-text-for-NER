@@ -1,0 +1,18 @@
+T1	LIVB 15 22	patient
+T2	PROC 34 39	admis
+T3	Hospital 44 52	urgences
+T4	DISO 61 94	syndrome d'épanchement péritonéal
+T5	ANAT 84 94	péritonéal
+T6	DISO 118 148	dilatation des voies biliaires
+T7	ANAT 133 148	voies biliaires
+T8	PROC 153 170	bilan d'extension
+T9	DISO 182 195	particularité
+T10	PROC 199 228	échographie abdominopelvienne
+T11	ANAT 211 228	abdominopelvienne
+T12	DISO 246 279	distension épigastrique duodénale
+T13	ANAT 257 279	épigastrique duodénale
+T14	Concept_Idea 282 290	contours
+T15	MEAS 291 300	réguliers
+T16	DISO 317 354	métastase hépatico-splénique tumorale
+T17	ANAT 327 354	hépatico-splénique tumorale
+T18	DISO 364 378	carcinomateuse

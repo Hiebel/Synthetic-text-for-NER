@@ -1,0 +1,24 @@
+T1	LIVB 28 35	patient
+T2	PROC 58 62	reçu
+T3	Hospital 67 89	urgences chirurgicales
+T4	DISO 109 130	détresse respiratoire
+T5	PHEN 118 130	respiratoire
+T6	DISO 174 197	dyspnée aiguë sifflante
+T7	DEVI 245 264	sonde nasogastrique
+T8	ANAT 251 264	nasogastrique
+T9	DOSE 266 268	2g
+T10	CHEM 272 282	sufentanil
+T11	DOSE 289 297	0,5µg/kg
+T12	PROC 312 388	anesthésie locorégionale musculo-tendineuse intrarachidienne scannographique
+T14	DISO 419 431	neurolepénie
+T15	LIVB 449 455	enfant
+T16	PROC 513 540	enrichissement intellectuel
+T17	PROC 781 825	tomodensitométrie thoraco-abdomino-pelvienne
+T18	ANAT 799 825	thoraco-abdomino-pelvienne
+T19	DISO 842 937	masse tissulaire parotidienne latérale droitehomolatérale inféro-supra-mandibulaire lithiasique
+T20	ANAT 859 937	parotidienne latérale droitehomolatérale inféro-supra-mandibulaire lithiasique
+T22	MEAS 947 951	32mm
+T23	Concept_Idea 955 964	grand axe
+T24	MEAS 973 978	12 cm
+T25	Concept_Idea 982 991	grand axe
+T26	Localization 1031 1034	sus

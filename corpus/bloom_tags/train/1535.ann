@@ -1,0 +1,49 @@
+T1	LIVB 4 12	patiente
+T2	DISO 86 110	cholécystite néphrotique
+T3	LIVB 112 116	Elle
+T4	PROC 134 158	scanner abdomino-pelvien
+T5	ANAT 142 158	abdomino-pelvien
+T6	DISO 175 239	masse tissulaire latéro péripéritonéale droite hypo-vascularisée
+T7	Localization 215 221	droite
+T8	MEAS 249 254	20 cm
+T9	Concept_Idea 258 267	grand axe
+T10	PROC 295 304	injection
+T11	CHEM 309 329	produit de contraste
+T12	ANAT 345 363	hypogastroduodénal
+T13	PHEN 376 390	flux liquidien
+T14	ANAT 381 390	liquidien
+T15	ANAT 400 421	vésiculations iléales
+T16	ANAT 505 521	utérus cervicale
+T17	LIVB 543 551	patiente
+T18	TEMP 560 574	prémière année
+T19	PROC 583 598	hospitalisation
+T20	PROC 652 675	explorations somatiques
+T21	PROC 691 716	anesthésie pré opératoire
+T22	DISO 770 795	localisations secondaires
+T23	DISO 1003 1024	maladie cholestatique
+T24	DISO 1134 1150	ménometrorragies
+T25	DISO 1209 1231	parathyroïdie primaire
+T26	DISO 1233 1255	hypertrophie ovarienne
+T27	ANAT 1246 1255	ovarienne
+T28	DISO 1258 1279	tuberculose pelvienne
+T29	ANAT 1270 1279	pelvienne
+T30	PROC 1284 1304	examen gynécologique
+T31	DEVI 1318 1331	sonde vaginal
+T33	ANAT 1374 1407	fosse ombilicale utérine vaginale
+T34	DISO 1544 1584	bruits hémorragiques érythémato-crétants
+T35	DISO 1591 1611	secrétions méningées
+T36	PROC 1618 1651	imagerie par résonance magnétique
+T37	PROC 1653 1656	IRM
+T39	Localization 1732 1742	bilatérale
+T40	Localization 1763 1767	sous
+T41	DISO 1891 1973	polyradiculonévrite systéo-tissulaire infiltro-nodulaire angio-fasciculée kystique
+T42	ANAT 1997 2015	glandes salivaires
+T43	ANAT 2052 2075	cavité cardiothoracique
+T44	Localization 2106 2118	homolatérale
+T45	DISO 2547 2550	LES
+T46	LIVB 2568 2575	patient
+T47	PROC 2594 2618	radiothérapie palliative
+T48	DOSE 2640 2646	2.5 Gy
+T49	TEMP 2646 2648	/j
+T50	MEAS 2657 2660	bon
+T51	Concept_Idea 2661 2679	tolérance clinique

@@ -1,0 +1,32 @@
+T1	LIVB 29 37	patiente
+T2	DISO 72 93	lésions prurigineuses
+T3	TEMP 103 116	depuis 6 mois
+T4	DISO 136 150	amaigrissement
+T5	MEAS 161 166	15 kg
+T6	PROC 170 185	examen clinique
+T7	DISO 199 219	polyarthrite fébrile
+T8	ANAT 238 246	poignets
+T10	ANAT 282 306	péripulmonaire liquidien
+T11	DISO 353 377	symptômes inflammatoires
+T12	DISO 405 430	troubles sensitivomoteurs
+T13	PHEN 452 472	équilibre tensionnel
+T14	LIVB 529 532	Son
+T15	PROC 533 555	examen ophtalmologique
+T16	DEVI 593 625	lunettes correcteurs artificiels
+T17	MEAS 636 644	10/10 cm
+T18	DISO 766 788	déformation rétinienne
+T19	ANAT 778 788	rétinienne
+T20	PROC 808 824	photocoagulation
+T21	PROC 863 890	anesthésie intraréflexielle
+T22	DISO 917 931	masse tumorale
+T23	MEAS 941 945	4 cm
+T24	Concept_Idea 949 958	grand axe
+T25	ANAT 979 1008	parenchyme rétro-sphinctérien
+T26	TEMP 1052 1063	deux années
+T27	LIVB 1075 1078	son
+T28	PROC 1079 1098	examen neurologique
+T29	DISO 1121 1145	diplasie motrice flasque
+T30	DISO 1195 1221	atteinte sensitivo-motrice
+T32	DISO 1255 1277	céphalées constrictive
+T33	MEAS 1292 1303	progressive
+T34	PROC 1349 1374	intervention chirurgicale

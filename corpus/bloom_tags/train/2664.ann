@@ -1,0 +1,32 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 73	notables
+T4	PROC 75 80	admis
+T5	Hospital 85 93	urgences
+T6	DISO 103 142	douleurs abdomino-pelviennes chroniques
+T7	ANAT 112 131	abdomino-pelviennes
+T8	DISO 159 178	vomissement bilieux
+T9	PROC 182 197	examen clinique
+T10	DISO 214 234	masse du flanc droit
+T11	ANAT 223 234	flanc droit
+T12	Localization 229 234	droit
+T13	TEMP 244 257	depuis 2 mois
+T14	MEAS 272 287	progressivement
+T15	Concept_Idea 291 297	volume
+T16	MEAS 307 311	3 cm
+T17	ANAT 328 348	fosse iliaque droite
+T18	Localization 342 348	droite
+T19	DISO 381 409	épanchement intra péritonéal
+T20	ANAT 393 409	intra péritonéal
+T21	DISO 429 458	carcinome péritonéal kystique
+T22	ANAT 439 458	péritonéal kystique
+T23	PROC 478 497	bilan préopératoire
+T24	PROC 515 534	hémoglobine glyquée
+T25	MEAS 537 543	7,2 g%
+T26	PROC 547 577	échographie abdomino-pelvienne
+T27	ANAT 559 577	abdomino-pelvienne
+T28	PHEN 595 612	grossesse utérine
+T29	ANAT 605 612	utérine
+T30	MEAS 623 628	12 SA
+T31	CHEM 648 660	progestative
+T32	MEAS 705 710	10/10

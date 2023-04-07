@@ -1,0 +1,18 @@
+T1	PROC 3 20	bilan d'extension
+T2	DISO 36 56	processus tissulaire
+T3	Localization 63 75	face interne
+T4	ANAT 63 101	face interne du membre supérieur droit
+T5	Localization 96 101	droit
+T6	MEAS 138 145	simples
+T7	LIVB 152 159	patient
+T8	PROC 169 193	chimiothérapie adjuvante
+T9	Concept_Idea 211 222	proportions
+T10	PROC 229 254	réanimation préopératoire
+T11	Concept_Idea 277 285	clinique
+T12	TEMP 292 298	1 mois
+T13	DISO 323 344	détresse respiratoire
+T14	PHEN 332 344	respiratoire
+T15	DISO 351 371	trouble neurologique
+T16	DISO 387 401	amaigrissement
+T17	MEAS 412 416	25kg
+T18	CHEM 418 437	solution injectable

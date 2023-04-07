@@ -1,0 +1,21 @@
+T1	LIVB 16 21	fille
+T2	TEMP 30 35	9 ans
+T3	PROC 46 52	admise
+T4	Hospital 56 93	service des urgences ophtalmologiques
+T6	Localization 111 122	postérieure
+T7	TEMP 132 149	depuis deux jours
+T8	DISO 165 176	vomissement
+T9	Concept_Idea 185 190	poids
+T10	MEAS 194 198	75kg
+T11	PROC 202 217	examen clinique
+T12	LIVB 231 239	patiente
+T13	DISO 255 265	apyrétique
+T14	DISO 267 278	polypnéique
+T15	MEAS 281 294	36 cycles/min
+T16	PHEN 298 307	eupnéique
+T17	MEAS 310 323	18 cycles/min
+T18	LIVB 325 329	Elle
+T19	DISO 336 343	fébrile
+T20	MEAS 346 350	39°C
+T21	DISO 366 383	dyspnée sifflante
+T22	MEAS 398 409	progressive

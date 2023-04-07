@@ -1,0 +1,39 @@
+T1	LIVB 14 19	jeune
+T2	LIVB 20 30	adolescent
+T3	TEMP 34 40	10 ans
+T4	PROC 79 95	bilan biologique
+T5	DISO 109 125	hyperleucocytose
+T6	MEAS 128 161	1600 éléments par millimètre cube
+T7	Concept_Idea 168 183	index mitotique
+T8	MEAS 193 227	3 000 éléments par millimètre cube
+T9	PROC 232 249	tomodensitométrie
+T10	PROC 251 282	TDM) thoraco-abdomino-pelvienne
+T11	ANAT 256 282	thoraco-abdomino-pelvienne
+T12	DISO 311 341	masse tissulaire du rein droit
+T13	ANAT 331 341	rein droit
+T14	Localization 336 341	droit
+T15	DISO 351 370	anomalies kystiques
+T16	ANAT 379 406	nerf thoracique homolatéral
+T17	Localization 395 406	homolatéral
+T18	ANAT 421 450	annexes cervicale antériennes
+T19	Localization 439 450	antériennes
+T20	DISO 462 484	anomalie morphologique
+T21	PROC 499 527	chimiothérapie néo adjuvante
+T22	CHEM 533 548	fluoroquinolone
+T23	CHEM 552 564	pyrazinamide
+T24	PROC 592 616	curiethérapie palliative
+T25	CHEM 629 641	azathioprine
+T26	CHEM 645 665	sulfate de magnésium
+T27	CHEM 674 685	gentamicine
+T28	CHEM 690 701	antalgiques
+T29	DISO 739 760	récidive métastatique
+T30	PROC 765 796	traitement médical conservateur
+T31	PROC 829 885	curage ganglionnaire rétropéritonéal scanno-guidèriforme
+T32	PROC 900 933	radio chimiothérapie concomitante
+T33	PROC 946 974	prise en charge chirurgicale
+T34	MEAS 1011 1018	simples
+T35	PROC 1031 1054	consultation opératoire
+T36	Concept_Idea 1075 1092	plan radiologique
+T37	MEAS 1099 1108	favorable
+T38	DISO 1135 1152	récidive tumorale
+T39	DISO 1159 1181	métastases secondaires

@@ -1,0 +1,28 @@
+T1	LIVB 36 43	patient
+T2	DISO 63 88	antécédents pathologiques
+T3	MEAS 89 101	particuliers
+T4	DISO 125 142	céphalées fébrile
+T5	TEMP 152 174	depuis plusieurs jours
+T6	PROC 178 193	examen clinique
+T7	DISO 209 215	fièvre
+T8	MEAS 218 223	38°2C
+T9	DISO 262 302	tâches cutanées purpuriques généralisées
+T10	DISO 314 328	ictère crépité
+T11	MEAS 377 388	progressive
+T12	Concept_Idea 448 460	état général
+T13	DEVI 478 501	médicaments antalgiques
+T14	MEAS 578 584	6/10cm
+T15	DISO 625 647	signes neurosensoriels
+T16	DISO 674 698	lésions périrachidielles
+T17	ANAT 734 753	sous épiphyso-rénal
+T18	Localization 734 738	sous
+T19	PROC 781 810	prélèvements bactériologiques
+T20	DISO 828 850	prolifération fongique
+T21	LIVB 883 891	patients
+T22	DISO 935 962	adénopathies hypopigmentées
+T23	PROC 1102 1122	biopsie exploratrice
+T24	PROC 1127 1158	ponction lombaire transfixiante
+T25	ANAT 1136 1158	lombaire transfixiante
+T26	MEAS 1172 1195	techniquement difficile
+T27	MEAS 1393 1397	70mm
+T28	MEAS 1400 1404	90mm

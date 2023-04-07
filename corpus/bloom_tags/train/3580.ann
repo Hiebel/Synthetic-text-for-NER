@@ -1,0 +1,29 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	PROC 37 42	amené
+T4	Hospital 47 55	urgences
+T5	DISO 64 104	syndrome d'épanchement pleural liquidien
+T6	ANAT 87 94	pleural
+T7	PROC 108 139	échographie abdomino- pelvienne
+T8	ANAT 120 139	abdomino- pelvienne
+T9	MEAS 162 173	volumineuse
+T10	DISO 174 207	masse épigastrique latérale droit
+T11	ANAT 180 207	épigastrique latérale droit
+T12	Localization 202 207	droit
+T13	Concept_Idea 210 218	contours
+T14	MEAS 219 224	flous
+T15	MEAS 235 240	16 cm
+T16	Concept_Idea 244 253	grand axe
+T17	MEAS 257 261	9 cm
+T18	PROC 279 295	bilan biologique
+T19	DISO 307 316	anomalies
+T20	MEAS 339 349	46000/mm 3
+T21	PROC 351 370	fibrinogène sérique
+T22	MEAS 372 389	3 fois la normale
+T23	PROC 394 412	ionogramme sanguin
+T24	ANAT 405 412	sanguin
+T25	MEAS 419 426	négatif
+T26	PROC 449 468	bilan préopératoire
+T27	DISO 486 499	thrombophilie
+T28	DISO 505 521	hyperleucocytose
+T29	PHEN 531 549	suites opératoires

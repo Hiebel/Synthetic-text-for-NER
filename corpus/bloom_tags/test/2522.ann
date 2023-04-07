@@ -1,0 +1,36 @@
+T1	LIVB 20 28	patiente
+T2	Localization 45 54	droitière
+T3	DISO 60 83	antécédent pathologique
+T4	MEAS 84 91	notable
+T5	Hospital 114 139	urgences ophtalmologiques
+T6	DISO 176 191	retard scolaire
+T7	TEMP 201 214	depuis 8 mois
+T8	MEAS 228 253	progressivement accentuée
+T9	DISO 274 297	symptômes neurologiques
+T10	DISO 312 334	douleurs épigastriques
+T11	ANAT 321 334	épigastriques
+T12	DISO 345 365	vomissements bilieux
+T13	DISO 378 435	syndrome d’épanchement liquidien périthoracique liquidien
+T14	ANAT 401 435	liquidien périthoracique liquidien
+T15	ANAT 457 475	pelvis abdominales
+T16	LIVB 505 513	patiente
+T17	DISO 518 549	hypochondromatose hypertrophiée
+T18	PROC 599 629	échographie abdomino-pelvienne
+T19	ANAT 611 629	abdomino-pelvienne
+T20	PROC 650 682	scanner thoraco-abdomino-pelvien
+T21	ANAT 658 682	thoraco-abdomino-pelvien
+T22	Hospital 701 718	salle opératoires
+T23	PROC 725 734	admission
+T24	DISO 746 790	hypotrophie grêlique hypohémi-sphinctérienne
+T25	ANAT 758 790	grêlique hypohémi-sphinctérienne
+T26	MEAS 802 817	progressivement
+T27	Concept_Idea 821 829	diamètre
+T28	MEAS 840 843	1cm
+T29	MEAS 846 850	3 cm
+T30	MEAS 860 872	multifissile
+T31	MEAS 882 891	70× 50 mm
+T32	Concept_Idea 894 900	aspect
+T33	MEAS 901 914	macroscopique
+T34	DISO 920 947	carcinome grêlique infiltré
+T35	ANAT 971 985	parties molles
+T36	ANAT 1024 1049	grande courbure gastrique

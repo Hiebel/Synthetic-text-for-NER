@@ -1,0 +1,32 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	7 ans
+T3	Concept_Idea 25 36	antécédents
+T4	MEAS 37 49	particuliers
+T5	PROC 51 62	hospitalisé
+T6	DISO 72 93	détresse respiratoire
+T7	PHEN 81 93	respiratoire
+T8	TEMP 103 116	depuis 3 mois
+T9	DISO 133 155	céphalées généralisées
+T10	PROC 159 174	examen clinique
+T11	LIVB 185 191	enfant
+T12	Concept_Idea 216 234	plan hémodynamique
+T13	PROC 247 266	bilan préopératoire
+T14	ANAT 277 287	artérielle
+T15	MEAS 290 299	90/60mmhg
+T16	PROC 305 335	auscultation cardio-vasculaire
+T17	ANAT 318 335	cardio-vasculaire
+T18	DISO 355 382	cardiomégalie hypertrophiée
+T19	DISO 403 444	insuffisance auriculo-ventriculaire aigue
+T21	DEVI 462 478	sonde thoracique
+T22	ANAT 468 478	thoracique
+T23	PROC 504 513	injection
+T24	CHEM 517 525	propofol
+T25	PROC 530 574	tomodensitométrie thoraco-abdomino-pelvienne
+T26	ANAT 548 574	thoraco-abdomino-pelvienne
+T30	MEAS 696 701	20 cm
+T31	DISO 717 761	épanchement péricardique liquidien bilatéral
+T32	ANAT 729 761	péricardique liquidien bilatéral
+T33	Localization 752 761	bilatéral
+T34	PROC 764 797	échocardiographie transthoracique
+T35	ANAT 782 797	transthoracique
+T36	MEAS 808 818	concluante

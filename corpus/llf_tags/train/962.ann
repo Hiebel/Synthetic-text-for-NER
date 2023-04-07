@@ -1,0 +1,117 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 59 60	3
+T3	LIVB 61 68	enfants
+T4	PROC 70 76	Suivie
+T5	TEMP 80 84	2010
+T6	DISO 93 117	carcinome du rein gauche
+T7	ANAT 106 117	rein gauche
+T8	Localization 111 117	gauche
+T9	MEAS 125 131	T4N0Mx
+T10	Concept_Idea 141 162	vitesse de croissance
+T11	PHEN 152 162	croissance
+T12	MEAS 165 176	6 cm/minute
+T13	DISO 304 323	syndrome infectieux
+T14	DISO 325 328	VIH
+T15	PROC 334 353	bilan préopératoire
+T16	DISO 370 400	sensibilité abdomino-pelvienne
+T17	ANAT 382 400	abdomino-pelvienne
+T18	CHEM 405 418	antibiotiques
+T19	CHEM 429 439	céfotaxime
+T20	CHEM 441 454	triméthoprime
+T21	CHEM 456 470	amitriptyline®
+T22	CHEM 472 502	gentamicine acide clavulanique
+T23	CHEM 504 517	métronidazole
+T24	CHEM 519 545	rifampicine biphosphonates
+T25	CHEM 547 559	pyrazinamide
+T26	CHEM 561 571	aminosides
+T27	CHEM 573 591	acide zolédronique
+T28	CHEM 593 605	méthaquinone
+T29	CHEM 607 629	pénèmesulfaméthoxazole
+T30	CHEM 631 641	ethambutol
+T31	CHEM 643 654	vancomycine
+T32	CHEM 656 687	tétracycline Acide Clavulanique
+T33	CHEM 689 711	héparine Glycostigmine
+T34	CHEM 713 723	isoniazide
+T35	CHEM 725 753	monoclonate aminotransférase
+T36	CHEM 755 766	néostigmine
+T37	CHEM 768 783	chloramphénicol
+T38	CHEM 785 797	méthotrexate
+T39	CHEM 799 812	dexaméthasone
+T40	CHEM 814 828	statinesequine
+T41	CHEM 830 840	gadolinium
+T42	CHEM 842 852	nimédipine
+T43	CHEM 854 873	arachides salicylée
+T44	CHEM 875 896	dihydroxyprogestérone
+T45	CHEM 898 913	fluoroquinolone
+T46	CHEM 915 922	uracile
+T47	CHEM 924 951	indométacine aldéhydrylique
+T48	CHEM 953 967	hydrocortisone
+T49	CHEM 969 989	prémoglobine glyquée
+T50	CHEM 991 1000	halothane
+T51	CHEM 1002 1031	œstradiol acétyle adrénalines
+T52	CHEM 1033 1060	propionate de chromogranine
+T53	CHEM 1062 1073	paracétamol
+T54	CHEM 1075 1089	neuroleptiques
+T55	CHEM 1091 1108	antalgiques oraux
+T56	CHEM 1110 1125	oxygénothérapie
+T57	CHEM 1127 1141	hypolipémiants
+T58	CHEM 1143 1157	anticoagulants
+T59	CHEM 1159 1175	antispasmodiques
+T60	CHEM 1177 1189	cicatrisants
+T61	CHEM 1191 1202	nicardipine
+T62	CHEM 1204 1218	thymorégulines
+T63	CHEM 1220 1229	potassium
+T64	CHEM 1231 1258	insuline insulinodépendante
+T65	CHEM 1260 1280	carbonate de calcium
+T66	CHEM 1282 1296	calcium per os
+T67	CHEM 1298 1322	glucantime natriurétique
+T68	CHEM 1324 1342	protides calciques
+T69	CHEM 1344 1354	fermenteux
+T70	CHEM 1356 1371	myéloperoxydase
+T71	CHEM 1373 1399	lactamines antimicrobienne
+T72	CHEM 1401 1417	organophosphorés
+T73	CHEM 1419 1428	cortisols
+T74	CHEM 1430 1441	malathioïde
+T75	CHEM 1443 1459	acides fongiques
+T76	CHEM 1461 1477	ténofovigilantes
+T77	CHEM 1479 1488	magnésium
+T78	CHEM 1490 1502	palmitocides
+T79	CHEM 1504 1514	carbamates
+T80	CHEM 1516 1523	taxanes
+T81	CHEM 1525 1539	ciprofloxacine
+T82	CHEM 1541 1549	plasmael
+T83	CHEM 1551 1576	hormones gonadotrophiques
+T84	CHEM 1578 1591	noradrénaline
+T86	PROC 1855 1864	recherche
+T87	DEVI 1891 1930	amplificateur neurologique intraveineux
+T88	Concept_Idea 1932 1936	VPIO
+T89	ANAT 1954 1975	voie veineuse commune
+T90	ANAT 1981 2003	troncs supra-cervicaux
+T92	Localization 2033 2038	droit
+T93	ANAT 2151 2163	flanc utérin
+T94	PHEN 2222 2240	reflexes artériels
+T95	ANAT 2231 2240	artériels
+T96	PROC 2268 2301	conduite sous valve endotrachéale
+T97	MEAS 2321 2330	important
+T98	DISO 2331 2350	nodule interstitiel
+T99	MEAS 2360 2365	13 cm
+T100	Concept_Idea 2369 2378	grand axe
+T101	ANAT 2398 2417	segments gastriques
+T102	ANAT 2435 2457	colon transoesophagien
+T103	MEAS 2481 2485	5 mm
+T104	MEAS 2489 2494	1 m 3
+T105	Concept_Idea 2505 2524	diamètre anatomique
+T106	PROC 2529 2560	bilan biologique préchirurgical
+T107	PROC 2588 2612	contrôle scannographique
+T108	DISO 2655 2679	symptomatologie tumorale
+T109	DISO 2690 2709	lésions secondaires
+T110	PROC 2715 2740	étude immunohistochimique
+T111	PROC 2779 2810	immuno-histochimie diagnostique
+T112	PROC 2811 2847	anticorps antinucléaires monoclonaux
+T113	Concept_Idea 2861 2880	aspect histologique
+T114	DISO 2898 2923	récepteur hormonal commun
+T115	LIVB 2935 2943	patiente
+T116	DISO 2994 3019	dérivations thyroïdiennes
+T117	DISO 3034 3064	troubles oculomoteurs primaire
+T118	TEMP 3084 3100	Cinq ans plutard
+T119	PROC 3107 3127	examen morphologique

@@ -1,0 +1,23 @@
+T1	LIVB 9 18	Mme R...K
+T2	MEAS 56 60	deux
+T3	LIVB 61 68	enfants
+T4	Hospital 197 205	urgences
+T5	DISO 215 246	douleurs abdominales chroniques
+T6	ANAT 224 235	abdominales
+T7	TEMP 256 274	depuis trois jours
+T8	DISO 290 327	traumatisme du membre supérieur droit
+T10	Localization 322 327	droit
+T11	DISO 340 362	signes accompagnateurs
+T12	DEVI 369 376	poignet
+T15	DISO 464 493	symptomatologie neuroleptique
+T16	PROC 497 512	examen clinique
+T17	PHEN 536 581	grossesse monogammaglobulinémie intraveineuse
+T18	MEAS 595 605	940 mmol/l
+T19	PROC 610 631	bilan phosphocalcique
+T20	MEAS 645 652	négatif
+T21	PROC 654 657	PAL
+T22	MEAS 660 668	126 UI/L
+T23	PROC 676 694	sérologies virales
+T24	MEAS 703 712	négatives
+T25	PROC 732 752	dosages biochimiques
+T26	DOSE 794 799	100UI

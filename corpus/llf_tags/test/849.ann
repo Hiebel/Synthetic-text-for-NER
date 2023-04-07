@@ -1,0 +1,36 @@
+T1	LIVB 4 9	fille
+T2	DISO 48 75	hypertension intracrânienne
+T3	ANAT 61 75	intracrânienne
+T4	DISO 93 135	neuropathie sensitivo-motrice périphérique
+T5	DISO 145 196	céphalées mnésiques hyperalgiques temporales aigues
+T6	MEAS 206 214	intenses
+T7	LIVB 240 246	enfant
+T8	PHEN 383 403	grossesse monofoetal
+T9	PROC 408 414	suivie
+T10	DISO 430 448	crises convulsives
+T11	CHEM 550 572	traitement substitutif
+T12	DOSE 574 577	1kg
+T13	TEMP 577 579	/j
+T14	DISO 600 628	symptomatologie pathologique
+T15	TEMP 639 652	quelques mois
+T16	LIVB 668 675	parents
+T17	DISO 765 782	caractère morbide
+T18	LIVB 806 808	sa
+T19	LIVB 809 813	mère
+T20	PROC 838 868	consultations ophtalmologiques
+T21	PROC 883 905	contrôle oculomnegatif
+T22	Hospital 910 938	soins intensifs pédiatriques
+T23	Concept_Idea 970 996	difficultés fonctionnelles
+T24	DEVI 1035 1073	obstétricienne gynécologue célibataire
+T25	DISO 1210 1224	amaigrissement
+T26	MEAS 1235 1247	6 kgol/24 Kg
+T27	DISO 1263 1271	anorexie
+T28	MEAS 1283 1293	25 cm ½ufs
+T29	DISO 1309 1326	dyspnée sifflante
+T30	LIVB 1343 1353	Monsieur B
+T31	DISO 1422 1444	comportements toxiques
+T32	LIVB 1545 1548	ses
+T33	Localization 1649 1657	externes
+T34	DISO 1699 1718	épisodes dépressifs
+T36	DISO 2153 2163	mélancolie
+T37	DISO 2200 2225	hallucinations somatiques

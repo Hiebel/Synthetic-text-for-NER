@@ -1,0 +1,64 @@
+T1	PROC 3 12	sérologie
+T2	DISO 16 19	VIH
+T3	MEAS 26 34	négative
+T4	PROC 40 63	échographie de contrôle
+T5	Hospital 76 83	urgence
+T6	DISO 110 175	processus tissulaire érecteur des voies biliaires intrahépatiques
+T7	ANAT 144 175	voies biliaires intrahépatiques
+T8	Concept_Idea 184 201	indice de Breslow
+T9	MEAS 204 211	4,2mg/l
+T10	DISO 226 242	hyperleucocytose
+T11	MEAS 245 286	12000 globules blancs par millimètre cube
+T12	PROC 325 344	bilan préopératoire
+T13	DISO 356 369	particularité
+T14	PROC 383 408	scanner thoraco-abdominal
+T15	ANAT 391 408	thoraco-abdominal
+T16	DISO 454 477	pancréatite infectieuse
+T17	DISO 483 486	EBV
+T18	DISO 502 531	insuffisance rénale polylobée
+T19	ANAT 515 521	rénale
+T20	LIVB 586 593	patient
+T21	PROC 607 637	corticothérapie antibacillaire
+T22	CHEM 641 655	triméthoprimée
+T23	PROC 669 696	surveillance postopératoire
+T24	Concept_Idea 709 729	chiffres tensionnels
+T25	DISO 747 770	complication opératoire
+T26	PROC 785 804	traitement adjuvant
+T27	TEMP 808 811	J40
+T28	TEMP 817 834	jusqu'à 72 heures
+T29	LIVB 851 861	nourrisson
+T30	PHEN 866 881	fonction rénale
+T31	ANAT 875 881	rénale
+T32	MEAS 882 889	normale
+T33	DEVI 905 913	seringue
+T34	ANAT 939 955	colon transverse
+T35	Concept_Idea 1002 1024	caractère anesthésique
+T36	LIVB 1068 1074	enfant
+T37	DISO 1114 1143	néphrocalcinose néonataltique
+T38	PROC 1192 1212	transfusion sanguine
+T39	DISO 2178 2213	hypertension artérielle congénitale
+T40	ANAT 2191 2213	artérielle congénitale
+T41	TEMP 2223 2236	depuis 6 mois
+T42	DISO 2315 2322	diabète
+T43	DISO 2329 2345	maladie cœliaque
+T44	DISO 2407 2436	symptomatologie psychomotrice
+T45	DISO 2617 2649	déficit sensitivomoteur primaire
+T46	PROC 2718 2735	enquête familiale
+T47	PROC 3067 3086	traitement adjuvant
+T48	PROC 3107 3134	prise en charge ambulatoire
+T49	Concept_Idea 3172 3184	état général
+T50	LIVB 3188 3195	patient
+T51	Concept_Idea 3210 3235	paramètres hémodynamiques
+T52	PROC 3248 3267	bilan préopératoire
+T53	CHEM 3269 3287	corticoïde citrate
+T54	CHEM 3290 3315	antiagrégant plaquettaire
+T55	PROC 3350 3362	soins locaux
+T56	PROC 3380 3402	traitements ultérieurs
+T57	PROC 3439 3473	séances de kinésithérapie physique
+T58	PROC 3479 3497	haltéro-médullaire
+T59	PROC 3512 3539	contrôle neuropsychiatrique
+T60	LIVB 3556 3566	nourrisson
+T61	MEAS 3579 3586	positif
+T62	PROC 3696 3716	transfusion sanguine
+T63	PHEN 3727 3748	grossesse monofoetale
+T65	CHEM 3794 3868	immunoglobulines polyvalentes intraveineuse A1 Célécysteptyl thyroidiensis

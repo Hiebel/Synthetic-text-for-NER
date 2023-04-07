@@ -1,0 +1,40 @@
+T1	LIVB 15 22	patient
+T2	DISO 56 68	métrorragies
+T3	Concept_Idea 71 77	aspect
+T4	MEAS 78 86	purulent
+T5	TEMP 96 112	depuis 48 heures
+T6	PROC 116 136	examen gynécologique
+T7	ANAT 168 191	utérus utéro-thoracique
+T8	DISO 211 224	masse nodulée
+T9	MEAS 236 251	progressivement
+T10	Concept_Idea 255 261	volume
+T11	ANAT 276 296	structures vaginales
+T12	MEAS 306 310	4 cm
+T13	Concept_Idea 314 323	grand axe
+T14	MEAS 325 337	bien limitée
+T15	Concept_Idea 347 356	caractère
+T16	ANAT 378 408	organes génitaux périphériques
+T17	DISO 417 422	masse
+T18	Localization 429 432	sus
+T19	ANAT 456 484	lobe infero-interne périnéal
+T20	MEAS 493 504	environ 1cm
+T21	Concept_Idea 508 517	grand axe
+T22	DISO 561 566	masse
+T23	MEAS 578 593	progressivement
+T24	Concept_Idea 597 603	taille
+T25	DISO 608 617	saignante
+T26	DISO 621 641	tissulaire purulente
+T27	ANAT 662 684	sinus recto-sigmoïdien
+T28	ANAT 706 722	paroi abdominale
+T29	MEAS 753 780	macroscopiquement arrondies
+T30	DISO 806 910	adénopathies jugulo-cæcale hétérogènes hypodenses hypoéchogènes kystiques hypervascularisés infilcrantes
+T31	ANAT 819 832	jugulo-cæcale
+T32	ANAT 931 950	fosse rénale droite
+T33	Localization 944 950	droite
+T34	DISO 964 991	distrophie grêlique altérée
+T35	ANAT 975 991	grêlique altérée
+T36	LIVB 1010 1018	patiente
+T37	DISO 1088 1111	myometrorragie syndrome
+T38	DISO 1267 1299	syndrome myométrial hypertrophié
+T39	DISO 1310 1332	anomalies métaboliques
+T40	MEAS 1447 1459	particulière

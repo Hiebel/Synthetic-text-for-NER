@@ -1,0 +1,34 @@
+T1	LIVB 3 13	nouveau-né
+T2	MEAS 37 48	700 grammes
+T3	DISO 141 161	syndrome malformatif
+T4	LIVB 179 200	grand-mère paternelle
+T5	LIVB 253 260	famille
+T6	LIVB 281 288	famille
+T7	PROC 295 304	admission
+T8	DISO 325 348	pathologie neurologique
+T9	DISO 375 400	troubles sensitivomoteurs
+T10	PROC 568 612	tomodensitométrie thoraco-abdomino pelvienne
+T11	ANAT 586 612	thoraco-abdomino pelvienne
+T12	DISO 629 670	pancréatite stade E pancréato-lithiasique
+T13	ANAT 739 764	liquidien intra-myometral
+T14	ANAT 890 908	membres inférieurs
+T15	MEAS 918 922	18cm
+T16	MEAS 925 930	14 cm
+T17	ANAT 956 984	méso-sigmoïde utéro-cervical
+T18	ANAT 1057 1065	grêlique
+T19	ANAT 1085 1104	tissulaire grêlique
+T20	ANAT 1229 1267	masse œsophagienne basithyro-gastrique
+T21	DISO 1298 1326	prise de contraste nodulaire
+T22	DISO 1440 1474	localisation histopathognochimique
+T23	DISO 1582 1607	maladie thromboembellante
+T24	PROC 1738 1756	traitement curatif
+T25	MODE 1890 1896	per os
+T26	DOSE 1899 1905	10mgkg
+T27	TEMP 1905 1910	/jour
+T28	MODE 1943 1955	intraveineux
+T29	DOSE 1959 1966	2 mg/kg
+T30	TEMP 1966 1974	/semaine
+T31	MODE 2036 2041	bolus
+T32	LIVB 2046 2053	patient
+T33	PROC 2079 2103	chimiothérapie adjuvante
+T34	TEMP 2122 2129	15 mois

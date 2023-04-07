@@ -1,0 +1,50 @@
+T1	LIVB 28 35	patient
+T2	PROC 58 78	césarienne d’urgence
+T3	PROC 84 103	anesthésie générale
+T4	DISO 127 162	embolie utérine inféro-placentaïque
+T5	ANAT 135 162	utérine inféro-placentaïque
+T6	LIVB 174 182	patiente
+T7	TEMP 191 197	24 ans
+T8	DISO 217 250	syndrome néphrotique hypertensive
+T9	CHEM 276 289	sulfasalazine
+T10	CHEM 303 321	hydroxychloroquine
+T11	PROC 334 374	traitement antibactériuleux probabiliste
+T12	PROC 395 424	prélèvements bactériologiques
+T13	MEAS 461 469	positifs
+T14	PROC 476 499	fermeture rétrosternale
+T15	PROC 512 523	observation
+T16	DISO 615 630	kyste hydatique
+T17	MEAS 638 650	type IIA-IIB
+T18	DISO 737 751	résidu tumoral
+T19	DISO 758 768	métastases
+T20	DISO 797 834	vascularisation péritumorale tumorale
+T21	DISO 841 864	fistule intra-tumeurale
+T22	ANAT 849 864	intra-tumeurale
+T23	DISO 893 914	troubles métaboliques
+T24	DISO 980 1002	pancréatite ischémique
+T25	PROC 1022 1032	diagnostic
+T26	DISO 1058 1077	tumeur vascularisée
+T27	DISO 1210 1236	hémangio-endothélium rompu
+T28	DISO 1281 1335	rupture érythémato-nécrose épithélio-gigantocellulaire
+T29	DISO 1355 1386	neuro-endocrine plexus purulent
+T30	ANAT 1408 1430	structures graisseuses
+T31	ANAT 1470 1493	substances glandulaires
+T32	ANAT 1524 1541	sous-mandibulaire
+T33	DISO 1551 1578	malformations tuberculoïdes
+T34	ANAT 1610 1622	corps utérin
+T35	ANAT 1658 1673	hypovésiculaire
+T36	ANAT 1755 1772	cavité abdominale
+T37	PROC 1797 1841	complément immunohistochimique préopératoire
+T38	PROC 1913 1959	spléno-pancréatectomie partielle conservatrice
+T39	DEVI 1972 1987	engainer plâtré
+T40	PROC 2007 2051	techniques d'immuno-chimiothérapie adjuvante
+T41	DISO 2326 2345	infection néonatale
+T42	LIVB 2350 2358	patiente
+T43	PROC 2377 2401	c'lioscopie exploratrice
+T44	PROC 2410 2442	scanner thoraco-abdomino-pelvien
+T45	ANAT 2418 2442	thoraco-abdomino-pelvien
+T46	DISO 2465 2474	anomalies
+T47	DISO 2502 2526	atteinte parenchymateuse
+T48	ANAT 2511 2526	parenchymateuse
+T49	ANAT 2540 2553	flux grêlique
+T50	ANAT 2561 2592	parties molles para-épiploiques

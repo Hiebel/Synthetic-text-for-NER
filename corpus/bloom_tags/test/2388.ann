@@ -1,0 +1,25 @@
+T1	LIVB 16 21	femme
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 67	particuliers
+T4	PROC 69 77	adressée
+T5	Hospital 82 90	urgences
+T6	DISO 100 120	douleur épigastrique
+T7	ANAT 108 120	épigastrique
+T8	DISO 140 164	pneumo-pancréatite aiguë
+T9	DISO 181 215	syndrome d'hypertension artérielle
+T11	PROC 219 233	interrogatoire
+T12	LIVB 254 262	patiente
+T13	PROC 269 275	admise
+T14	Hospital 279 299	service des urgences
+T15	Concept_Idea 304 307	âge
+T16	TEMP 311 318	2 jours
+T17	LIVB 325 327	sa
+T18	PROC 328 340	consultation
+T19	DISO 372 407	dyspareunie du greffon épigastrique
+T20	ANAT 387 407	greffon épigastrique
+T21	DISO 423 429	fièvre
+T22	MEAS 441 445	40°C
+T23	PROC 449 478	échographie abdominopelvienne
+T24	ANAT 461 478	abdominopelvienne
+T25	PROC 480 483	EAP
+T26	DISO 521 534	particularité

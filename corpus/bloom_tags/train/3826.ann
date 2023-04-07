@@ -1,0 +1,38 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 42 53	antécédents
+T3	MEAS 54 66	particuliers
+T4	PROC 68 73	admis
+T5	DISO 83 109	tuméfaction du sein gauche
+T6	ANAT 98 109	sein gauche
+T7	Localization 103 109	gauche
+T8	TEMP 119 132	depuis 2 mois
+T9	MEAS 147 162	progressivement
+T10	Concept_Idea 166 172	volume
+T11	PROC 176 191	examen clinique
+T12	PROC 196 205	admission
+T13	LIVB 218 225	patient
+T14	MEAS 229 232	bon
+T15	Concept_Idea 233 245	état général
+T16	PHEN 255 271	réflexes utérins
+T17	ANAT 264 271	utérins
+T18	MEAS 272 289	bien appréciables
+T19	PROC 294 310	bilan biologique
+T20	PROC 336 363	numération formule sanguine
+T21	PROC 365 368	NFS
+T22	PROC 371 386	leucocytogramme
+T23	PROC 388 391	LCR
+T24	PROC 394 413	protéine-C réactive
+T25	PROC 415 418	CRP
+T26	PROC 421 433	troponine Ic
+T27	PROC 449 470	échographie pelvienne
+T28	ANAT 461 470	pelvienne
+T29	DISO 497 565	masse tissulaire hypo échogéne hypersignalée au produit de contraste
+T30	CHEM 545 565	produit de contraste
+T31	MEAS 575 580	12 cm
+T32	MEAS 585 590	15 cm
+T33	Concept_Idea 593 602	épaisseur
+T34	ANAT 618 636	liquide péritonéal
+T35	ANAT 652 671	parois intestinales
+T36	DISO 693 722	lésions hétérogènes kystiques
+T37	ANAT 743 748	grêle
+T38	DISO 773 804	pancréatite purulente chronique

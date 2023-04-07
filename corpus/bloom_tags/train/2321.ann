@@ -1,0 +1,29 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	6 ans
+T3	Hospital 51 59	urgences
+T4	DISO 95 123	douleur épigastrique ulcérée
+T5	ANAT 103 123	épigastrique ulcérée
+T6	DISO 152 166	amaigrissement
+T7	MEAS 177 181	2 kg
+T8	PROC 200 214	administration
+T9	MODE 219 235	voie parentérale
+T10	PHEN 254 261	tolacés
+T11	PROC 275 298	intubation œsophagienne
+T12	ANAT 286 298	œsophagienne
+T13	DISO 340 366	dyspnée aiguë constrictive
+T14	TEMP 376 389	depuis 3 mois
+T15	DOSE 395 400	20 mg
+T16	CHEM 404 423	méthyl-prédnisolone
+T17	DOSE 456 463	1 mg/kg
+T18	TEMP 463 469	/heure
+T19	DISO 540 564	symptomatologie clinique
+T20	MEAS 574 587	insupportable
+T21	LIVB 605 607	Il
+T22	PROC 631 665	ponction pleurale biquasi-veineuse
+T23	ANAT 640 665	pleurale biquasi-veineuse
+T24	PROC 674 698	prise en charge initiale
+T25	MEAS 805 814	difficile
+T26	Concept_Idea 829 849	effort thérapeutique
+T27	LIVB 851 854	ses
+T28	Concept_Idea 855 872	moyenséconomiques
+T29	Localization 1211 1215	sous

@@ -1,0 +1,103 @@
+T1	LIVB 15 25	nourrisson
+T2	TEMP 29 40	12 semaines
+T3	Concept_Idea 75 78	âge
+T4	TEMP 82 88	3 mois
+T5	Hospital 115 136	urgences pédiatriques
+T6	DISO 146 153	dyspnée
+T7	DISO 168 184	syndrome grippal
+T8	PROC 190 205	examen clinique
+T9	ANAT 236 251	muqueuse nasale
+T10	MEAS 252 262	légèrement
+T11	DISO 263 272	saignante
+T12	ANAT 286 297	rein gauche
+T13	Localization 291 297	gauche
+T14	DISO 307 328	niveaux hydroaériques
+T15	ANAT 352 374	membre inférieur droit
+T16	Localization 369 374	droit
+T17	DISO 386 391	signe
+T18	PHEN 405 429	réflexes ostéo-tendineux
+T19	ANAT 414 429	ostéo-tendineux
+T20	ANAT 444 456	conjonctives
+T21	MEAS 462 468	libres
+T22	PROC 472 491	électrocardiogramme
+T23	DISO 507 515	anomalie
+T24	DISO 567 582	symptomatologie
+T25	PROC 639 666	numération formule sanguine
+T26	PROC 668 679	hémoglobine
+T27	MEAS 681 689	4,6 g/dl
+T28	PROC 691 726	bicarbonates corrigés phosphokinase
+T29	PROC 727 730	PNK
+T30	MEAS 734 742	280 UI/L
+T31	PROC 749 773	laparotomie exploratrice
+T32	PROC 803 823	reprise chirurgicale
+T33	PROC 829 860	antibioprophylaxie antibiotique
+T34	CHEM 866 890	xylococcus epidemiiforme
+T35	CHEM 893 924	amoxicilline acide clavulanique
+T36	CHEM 926 951	vincristine hydrosolubles
+T37	CHEM 954 975	aminosides méthoxylés
+T38	CHEM 978 1010	corticoïde isobutyle bêtalactone
+T39	CHEM 1014 1028	gentaméthasone
+T40	PROC 1055 1077	induction anesthésique
+T41	DEVI 1081 1089	cathéter
+T42	PROC 1145 1203	oxygénothérapie intraveineuse extracorporelle non invasive
+T43	PROC 1252 1276	monitorage préopératoire
+T44	PROC 1290 1305	hospitalisation
+T45	PROC 1318 1359	chimiothérapie postopératoire parentérale
+T46	LIVB 1398 1404	enfant
+T47	TEMP 1412 1418	10 ans
+T48	PROC 1441 1483	radio cardiothoracocentèse multithoracique
+T49	LIVB 1506 1514	patients
+T50	PROC 1545 1571	transfusions endoscopiques
+T51	PROC 1620 1639	traitement adjuvant
+T52	MEAS 1706 1716	favorables
+T53	LIVB 1757 1795	professionnels de santé hémodynamiques
+T54	LIVB 1815 1846	kinésithérapeutes rhumatologues
+T55	PROC 1854 1873	rééducation motrice
+T56	PROC 1897 1930	coronarographie semi concomitante
+T57	PROC 1945 1983	échographie obstétricale scanno-guidée
+T58	LIVB 2013 2018	homme
+T59	LIVB 2028 2031	ses
+T60	LIVB 2032 2039	parents
+T61	DISO 2072 2091	contage tuberculeux
+T62	PROC 2150 2174	consultations prénatales
+T63	MEAS 2216 2221	trois
+T64	LIVB 2222 2229	enfants
+T65	LIVB 2292 2305	belle-famille
+T66	LIVB 2394 2404	nouveau-né
+T67	LIVB 2419 2421	sa
+T68	LIVB 2422 2426	mère
+T69	MEAS 2460 2464	cinq
+T70	LIVB 2465 2472	enfants
+T71	LIVB 2569 2572	son
+T72	LIVB 2573 2592	grand-père maternel
+T73	LIVB 2789 2793	elle
+T74	TEMP 2815 2822	dix ans
+T75	LIVB 2857 2859	il
+T76	ANAT 3012 3017	grêle
+T77	DISO 3099 3114	symptomatologie
+T78	LIVB 3160 3181	membres de la famille
+T79	LIVB 3215 3225	nourrisson
+T80	Concept_Idea 3227 3242	statut vaccinal
+T81	MEAS 3245 3248	7/5
+T82	PROC 3255 3293	chimiothérapie palliative substitutive
+T83	DOSE 3326 3331	25 mg
+T84	CHEM 3335 3345	corticoïde
+T87	CHEM 3393 3406	métronidazole
+T88	PROC 3440 3468	antibiothérapie probabiliste
+T89	CHEM 3474 3494	amoxicilline sodique
+T90	CHEM 3497 3511	gentaméthasone
+T91	CHEM 3515 3547	céfotaxime® orientexemphocytaire
+T92	PHEN 3553 3571	suites opératoires
+T93	MEAS 3577 3584	simples
+T94	PROC 3614 3635	contrôle orthopédique
+T95	PROC 3648 3677	anticoagulation intraveineuse
+T96	MEAS 3713 3727	très favorable
+T97	LIVB 3944 3947	nos
+T98	LIVB 3948 3956	familles
+T99	TEMP 3966 3972	17 ans
+T100	LIVB 3976 3981	leurs
+T101	LIVB 3982 3997	confrères aînés
+T102	TEMP 4028 4035	18 mois
+T103	TEMP 4039 4044	2 ans
+T104	Hospital 4099 4116	geste ambulatoire
+T105	Concept_Idea 4191 4213	paramètres tensionnels

@@ -1,0 +1,81 @@
+T1	LIVB 29 37	patiente
+T2	DISO 70 105	crises épileptiques tonicocloniques
+T3	Concept_Idea 128 131	âge
+T4	DISO 154 172	syndrome démentiel
+T5	DISO 189 206	trouble bipolaire
+T6	DISO 217 243	signes neuropsychiatriques
+T7	PROC 337 356	traitement adjuvant
+T8	LIVB 513 521	patiente
+T9	LIVB 596 607	chirurgiens
+T10	DISO 676 695	maladie auto-immune
+T11	CHEM 705 719	neuroleptiques
+T12	DISO 765 784	symptômes délirants
+T13	PROC 832 853	surveillance clinique
+T14	PROC 886 916	contrôle psychopharmacologique
+T15	DISO 943 972	anomalies clinico-biologiques
+T16	Concept_Idea 995 1015	aspect morphologique
+T17	PROC 1020 1037	bilan étiologique
+T18	PROC 1049 1069	avis ophtalmologique
+T19	PROC 1075 1093	normo-radiologique
+T20	DISO 1107 1125	hyperprolactinémie
+T21	MEAS 1128 1138	9,6 mmol/l
+T22	DISO 1154 1178	hypothyroïdie secondaire
+T23	MEAS 1189 1197	15 pg/dL
+T24	DISO 1212 1232	hypertriglycéridémie
+T25	MEAS 1235 1273	3 fois la limite supérieure habituelle
+T26	PROC 1291 1315	consultation spécialisée
+T27	Hospital 1316 1341	Clinical General Hospital
+T28	PROC 1348 1374	examen anatomopathologique
+T29	DISO 1403 1459	myxomatose scléroatrophoblastique érythémato-spongiforme
+T30	ANAT 1477 1516	paroi postéro-postéro-inférieure droite
+T31	Localization 1510 1516	droite
+T32	MEAS 1525 1539	20 centimètres
+T33	Concept_Idea 1543 1551	diamètre
+T34	ANAT 1580 1608	segments cutané superficiels
+T35	DISO 1689 1708	méningo-encéphalite
+T36	MEAS 1720 1728	stade II
+T37	ANAT 1878 1910	Scarpa ventral supérieur gauches
+T38	Localization 1903 1910	gauches
+T39	ANAT 1936 1963	fosses lombaires cervicales
+T40	ANAT 1972 2022	muscles abdomino-céphaliques dorsaux sus pubiennes
+T41	DISO 2030 2055	macroarthrite ankylosante
+T42	DISO 2090 2099	chronique
+T43	TEMP 2334 2343	24 heures
+T44	TEMP 2347 2354	4 jours
+T45	TEMP 2469 2484	quotidiennement
+T46	Concept_Idea 2510 2532	aspect épidémiologique
+T47	PROC 2562 2581	étude rétrospective
+T48	LIVB 2731 2738	enfants
+T49	DISO 2751 2774	rhinosinusite chronique
+T50	PROC 2797 2827	séjour hospitalier pédiatrique
+T51	DISO 2839 2858	accident domestique
+T52	LIVB 2879 2881	sa
+T53	LIVB 2882 2886	mère
+T54	DISO 2891 2934	douleurs du plexus brachial inférieur droit
+T55	ANAT 2903 2934	plexus brachial inférieur droit
+T56	Localization 2929 2934	droit
+T57	Concept_Idea 2958 2970	état général
+T58	Concept_Idea 3016 3033	état neurologique
+T59	DISO 3049 3055	fièvre
+T60	LIVB 3087 3090	son
+T61	LIVB 3091 3095	père
+T62	TEMP 3109 3115	18 ans
+T63	PROC 3121 3136	antibiothérapie
+T64	LIVB 3151 3153	il
+T65	PROC 3176 3203	cholécystectomie préventive
+T66	TEMP 3215 3228	novembre 2010
+T67	PROC 3247 3269	consultation prénatale
+T68	CHEM 3271 3285	bêtalactamines
+T69	CHEM 3291 3305	triméthoprimes
+T70	LIVB 3338 3348	nourrisson
+T71	PROC 3373 3385	hospitalisés
+T72	DISO 3429 3467	sensibilité laryngée spasmodique aigüe
+T73	PHEN 3515 3525	mots oraux
+T74	DEVI 3546 3567	produits alimentaires
+T75	PROC 3671 3690	séjour internuptial
+T76	LIVB 3721 3724	ils
+T77	DISO 3797 3812	symptomatologie
+T78	PROC 3818 3842	prise en charge médicale
+T79	PROC 3955 3992	traitements cognitivo-comportementaux
+T80	PROC 4013 4050	médicaments antipsychotiques généraux
+T81	DISO 4546 4579	syndrome délirant polymalformatif

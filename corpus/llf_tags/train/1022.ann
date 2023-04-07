@@ -1,0 +1,77 @@
+T1	LIVB 16 24	patiente
+T2	DISO 63 86	hypertension artérielle
+T3	ANAT 76 86	artérielle
+T4	DISO 93 119	diabète insulino-requérant
+T5	CHEM 125 157	glycémie hypochrome microcytaire
+T6	PROC 161 175	interrogatoire
+T7	Concept_Idea 187 190	âge
+T8	PHEN 197 206	grossesse
+T9	LIVB 228 232	elle
+T10	Hospital 254 269	bloc opératoire
+T11	DISO 279 302	détresses respiratoires
+T12	PHEN 289 302	respiratoires
+T13	MEAS 324 328	deux
+T14	ANAT 329 350	jumeaux du cœur fœtal
+T15	PROC 354 378	exploration chirurgicale
+T16	DISO 390 403	particularité
+T17	DEVI 428 473	pontage gastroduodéno-rénal gauche transverse
+T18	Localization 456 462	gauche
+T19	MEAS 498 503	16 cm
+T20	Concept_Idea 507 511	long
+T21	MEAS 516 520	5 cm
+T22	Concept_Idea 524 533	petit axe
+T23	PROC 539 577	TDM cervico-thoraco- abdomino-aortique
+T24	ANAT 543 577	cervico-thoraco- abdomino-aortique
+T25	DISO 619 719	distension fémoro-mandibulaire mésentérique postéro-supra mandibulaire rétro péritonéale latéralisée
+T27	DISO 732 740	anomalie
+T28	PROC 755 772	geste chirurgical
+T29	PROC 804 827	transplantation in situ
+T30	PROC 841 865	laparotomie exploratrice
+T31	ANAT 885 945	troncs supra mandibulaires antero-péritonéaux intrakystiques
+T32	ANAT 955 978	triangle iléo-hépatique
+T33	PROC 1003 1021	résection complète
+T34	ANAT 1034 1141	aires ganglionnaires médiastinales cervicovaginales controlatérales jugulo-carotidiennes inférieure gauches
+T35	Localization 1134 1141	gauches
+T36	PROC 1148 1175	extumorectomie endoscopique
+T37	PROC 1252 1277	réanimation préopératoire
+T38	PROC 1283 1313	ventilation mécanique assistée
+T39	PROC 1317 1336	lavage nasopharyngé
+T40	ANAT 1324 1336	nasopharyngé
+T41	PROC 1378 1425	cholécystectomie totale axillaire scanno-guidée
+T44	Localization 1606 1612	droite
+T50	MEAS 2920 2927	simples
+T51	LIVB 2934 2942	patiente
+T52	PROC 2961 2985	chimiothérapie adjuvante
+T53	CHEM 2991 3001	corticoïde
+T54	DOSE 3003 3009	0,5 mg
+T55	TEMP 3009 3011	/j
+T56	PROC 3025 3049	remplissage vasculorénal
+T57	ANAT 3037 3049	vasculorénal
+T58	CHEM 3057 3071	gentaméthasone
+T59	TEMP 3089 3095	6 mois
+T60	DISO 3100 3108	récidive
+T61	DISO 3129 3146	récidive tumorale
+T62	DISO 3157 3182	localisations secondaires
+T63	DISO 3200 3213	thrombophilie
+T64	Concept_Idea 3231 3255	plan anatomopathologique
+T65	LIVB 3266 3271	homme
+T66	PROC 3292 3297	admis
+T67	Hospital 3301 3316	bloc opératoire
+T68	DISO 3326 3347	lésions prurigineuses
+T69	TEMP 3357 3373	depuis 24 heures
+T70	DISO 3393 3416	agitation psychomotrice
+T71	PROC 3602 3617	examen clinique
+T72	LIVB 3654 3664	nourrisson
+T73	DISO 3738 3755	trouble bipolaire
+T74	LIVB 3788 3798	nouveau-né
+T75	PROC 3804 3830	surveillance psychiatrique
+T76	PHEN 3835 3849	rythme sinusal
+T77	MEAS 3861 3885	progressivement régulier
+T78	DISO 3918 3945	symptomatologie obstétrique
+T79	DISO 3974 4000	maladie maniaco-dépressive
+T80	PROC 4087 4114	prise en charge ambulatoire
+T81	PROC 4432 4453	consultation médicale
+T82	LIVB 4472 4481	infirmier
+T83	PROC 4505 4530	traitements médicamenteux
+T84	PROC 4552 4582	antibiothérapies intraveineuse
+T85	DISO 4611 4633	réponses tuberculoïdes

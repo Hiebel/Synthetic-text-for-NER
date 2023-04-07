@@ -1,0 +1,28 @@
+T1	PROC 4 16	explorations
+T2	DISO 35 57	prolifération tumorale
+T3	ANAT 61 71	sein droit
+T4	Localization 66 71	droit
+T5	Concept_Idea 80 88	résultat
+T6	DISO 104 166	ostéome ostéoide de la région médio-ligamentaire métatarsienne
+T7	ANAT 127 166	région médio-ligamentaire métatarsienne
+T8	DISO 187 207	récepteurs hormonaux
+T9	CHEM 230 264	hormone gonadotrophine chorionique
+T10	MEAS 274 278	deux
+T11	ANAT 279 297	champs opératoires
+T12	PROC 304 314	diagnostic
+T13	DISO 340 407	métaplasie mucocellulaire carcinomateuse des parties molles rénales
+T14	ANAT 385 407	parties molles rénales
+T15	LIVB 412 419	patient
+T16	PROC 435 465	traitement médical substitutif
+T17	CHEM 467 498	amoxicilline acide clavulanique
+T18	CHEM 501 523	acide acétyle salicylé
+T19	MODE 529 547	voie intraveineuse
+T20	Concept_Idea 586 603	activité sportive
+T21	DISO 616 637	récidive neurologique
+T22	DISO 648 674	signes clinico-biologiques
+T23	MEAS 701 710	favorable
+T24	PHEN 727 737	grossesses
+T25	TEMP 757 768	11 ème jour
+T26	PROC 774 784	opératoire
+T27	TEMP 790 800	5 semaines
+T28	PROC 813 822	chirurgie

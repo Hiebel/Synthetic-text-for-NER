@@ -1,0 +1,26 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 31 39	patiente
+T3	MEAS 43 46	bon
+T4	Concept_Idea 47 59	état général
+T5	Concept_Idea 75 93	plan hémodynamique
+T6	PHEN 97 109	respiratoire
+T7	ANAT 115 129	conjonctivales
+T8	DISO 138 149	œdémateuses
+T9	Localization 166 178	face interne
+T10	ANAT 182 194	cuir chevelu
+T11	PROC 198 228	auscultation pleuro-pulmonaire
+T12	ANAT 211 228	pleuro-pulmonaire
+T13	DISO 291 362	syndrome d'épanchement liquidien liquidien basithoracique péribuccinale
+T14	ANAT 314 362	liquidien liquidien basithoracique péribuccinale
+T15	DISO 371 406	empyème pleuraux médiastin infiltré
+T16	ANAT 379 406	pleuraux médiastin infiltré
+T17	DISO 424 463	hypotension artérielle intrarachidienne
+T18	ANAT 436 463	artérielle intrarachidienne
+T19	MEAS 505 511	20mmhg
+T20	PROC 518 544	pression artérielle pulsée
+T21	ANAT 527 544	artérielle pulsée
+T22	MEAS 561 569	90 mm Hg
+T23	DISO 582 595	particularité
+T24	DISO 622 665	adénopathies parenchymateuses hypoechogènes
+T25	ANAT 635 665	parenchymateuses hypoechogènes
+T26	ANAT 675 707	sinus caverneux sus claviculaire

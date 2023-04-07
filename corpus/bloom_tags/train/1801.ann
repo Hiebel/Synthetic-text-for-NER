@@ -1,0 +1,19 @@
+T1	LIVB 16 24	patiente
+T2	PROC 50 55	reçue
+T3	Hospital 60 68	urgences
+T4	PROC 76 101	intervention chirurgicale
+T5	PROC 107 131	anesthésie locorégionale
+T6	ANAT 118 131	locorégionale
+T7	PROC 137 171	curage laryngo-sinusien transfixié
+T8	ANAT 144 171	laryngo-sinusien transfixié
+T9	LIVB 199 207	patiente
+T10	DISO 212 256	tuméfaction périchondromateuse hypertrophiée
+T11	ANAT 270 302	sinus piriformes basithoraciques
+T12	ANAT 339 399	région parotidienne ptérygo-mandibulaire jugulo-carotidienne
+T13	ANAT 420 468	lit craniocérébral cervicopharyngo médiastinales
+T14	DISO 504 529	métastases locoregionales
+T15	DISO 596 623	masse angulo-interstitielle
+T16	MEAS 625 637	bien évaluée
+T17	ANAT 658 669	placentaire
+T18	PROC 674 705	échographie abdomino- pelvienne
+T19	ANAT 686 705	abdomino- pelvienne

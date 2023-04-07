@@ -1,0 +1,71 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 75	hospitalisée
+T3	Hospital 79 110	service de chirurgie thoracique
+T4	Hospital 114 163	Centre Hospitalier universitaire Hassan II de Fès
+T5	TEMP 167 171	2013
+T6	DISO 197 223	diabète insulino-dépendant
+T7	CHEM 229 257	metformyl hydroxycholestérol
+T8	MODE 262 280	voie intraveineuse
+T9	DOSE 349 358	inhalable
+T10	CHEM 364 378	hydrocortisone
+T11	MEAS 394 409	progressivement
+T12	Concept_Idea 412 427	acuité visuelle
+T13	DISO 457 480	anomalies neurologiques
+T14	DISO 491 512	pathologies associées
+T15	DISO 528 547	méningo-vascularite
+T16	DISO 622 637	symptomatologie
+T17	TEMP 648 659	trois jours
+T18	LIVB 666 668	sa
+T19	PROC 669 681	consultation
+T20	LIVB 691 695	elle
+T21	PROC 714 732	traitement curatif
+T22	LIVB 749 781	médecin anesthésiste-réanimateur
+T23	PROC 803 829	curetage bronchodilatateur
+T24	ANAT 812 829	bronchodilatateur
+T25	DISO 895 939	épaississement basithoracique cutanéo-cutané
+T26	ANAT 910 939	basithoracique cutanéo-cutané
+T27	MEAS 969 977	sensible
+T28	Localization 983 993	bilatérale
+T29	MEAS 1005 1020	progressivement
+T30	Concept_Idea 1024 1030	volume
+T31	DEVI 1061 1077	sonde électrique
+T32	MEAS 1096 1105	perméable
+T33	MEAS 1197 1201	6 cm
+T34	MEAS 1205 1209	4 cm
+T35	MEAS 1234 1238	2 cm
+T36	MEAS 1242 1246	5 cm
+T37	ANAT 1279 1299	vaisseaux axillaires
+T38	ANAT 1329 1348	crosse médiastinale
+T39	DISO 1354 1376	lésions hypertrophiées
+T40	ANAT 1402 1436	fosse nasale supra hyo-thoraciques
+T41	Localization 1415 1420	supra
+T42	DISO 1527 1540	inflammatoire
+T43	Concept_Idea 1650 1667	état nutritionnel
+T44	DISO 1715 1731	malabsomnorrhées
+T45	TEMP 1761 1768	un mois
+T46	LIVB 1782 1786	elle
+T47	PROC 1836 1878	touchers pleuropulmonaires craniosténuants
+T48	ANAT 1845 1878	pleuropulmonaires craniosténuants
+T49	PROC 1985 2028	prise médicamenteuse adjuvante radiologique
+T50	PROC 2308 2336	interrogatoire préopératoire
+T51	DISO 2367 2390	traumatisme tuberculeux
+T52	ANAT 2379 2390	tuberculeux
+T53	DISO 2453 2459	fièvre
+T54	MEAS 2484 2488	39°C
+T55	MEAS 2539 2545	36,7°c
+T56	PROC 2561 2576	examen clinique
+T57	DISO 2588 2601	particularité
+T58	DISO 2623 2678	syndrome d’épanchement péricardique liquidien infarctus
+T60	PROC 2701 2732	échographie abdomino- pelvienne
+T61	ANAT 2713 2732	abdomino- pelvienne
+T62	DISO 2751 2778	épanchement intrapéritonéal
+T63	ANAT 2763 2778	intrapéritonéal
+T64	DISO 2794 2823	kyste hydatique du col utérin
+T65	ANAT 2813 2823	col utérin
+T66	PROC 2836 2868	scanner thoraco-abdomino-pelvien
+T67	ANAT 2844 2868	thoraco-abdomino-pelvien
+T68	DISO 2894 2984	processus tumoral hypo échogène des parties molles thoracico-latéro-rachidiennes hypodense
+T71	ANAT 3016 3044	liquidienne pariétale droite
+T73	ANAT 3060 3098	parenchyme épithélio-gigantocellulaire
+T74	DISO 3140 3179	masse hétérogène tissulaire éosinophile
+T75	DISO 3197 3209	vascularisée

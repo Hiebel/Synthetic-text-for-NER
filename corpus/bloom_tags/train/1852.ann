@@ -1,0 +1,43 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	5 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 82	admis
+T6	Hospital 87 108	urgences pédiatriques
+T7	DISO 118 139	détresse respiratoire
+T8	PHEN 127 139	respiratoire
+T9	MEAS 154 165	progressive
+T10	PROC 169 184	examen clinique
+T11	Concept_Idea 200 205	poids
+T12	MEAS 209 214	15 kg
+T13	Concept_Idea 222 229	tailles
+T14	MEAS 233 238	70 cm
+T15	ANAT 252 262	sein droit
+T16	Localization 257 262	droit
+T17	DISO 295 328	syndrome d'épanchement péritonéal
+T18	ANAT 318 328	péritonéal
+T19	DISO 334 347	hémopéritoine
+T20	DISO 364 394	sensibilité abdomino-pelvienne
+T21	ANAT 376 394	abdomino-pelvienne
+T22	TEMP 404 417	depuis 2 mois
+T23	DISO 431 447	signes cliniques
+T24	PROC 463 493	bilan biologique préopératoire
+T25	CHEM 518 539	cortisolémie glucosée
+T26	MEAS 542 552	1460 mg/dl
+T27	PROC 566 593	numération formule sanguine
+T28	DOSE 607 618	normocytose
+T29	MEAS 621 639	16200 élément/mm 3
+T30	PROC 643 673	échographie abdomino-pelvienne
+T31	ANAT 655 673	abdomino-pelvienne
+T32	MEAS 680 687	normale
+T33	PROC 701 725	scanner abdomino-pelvien
+T34	ANAT 709 725	abdomino-pelvien
+T35	DISO 756 782	masse tissulaire hypodense
+T36	MEAS 792 795	1cm
+T37	MEAS 800 804	2 cm
+T38	ANAT 833 841	épiploon
+T39	CHEM 868 889	produits de contraste
+T40	DISO 912 952	anastomose grêlique intestinale tumorale
+T41	ANAT 923 952	grêlique intestinale tumorale
+T42	DISO 969 1004	fistule parenchymateuse péritonéale
+T43	ANAT 977 1004	parenchymateuse péritonéale

@@ -1,0 +1,12 @@
+T1	LIVB 3 10	patient
+T2	PROC 17 22	admis
+T3	Hospital 26 41	bloc
+T4	PROC 47 62	prise
+T5	DISO 68 88	hépato-splénomégalie
+T6	PROC 103 129	radiothérapie
+T7	MEAS 135 140	bonne
+T8	PHEN 141 150	tolérance
+T9	Concept_Idea 199 207	clinique
+T10	Concept_Idea 211 221	biologique
+T11	TEMP 228 234	6
+T12	PROC 238 243	suivi

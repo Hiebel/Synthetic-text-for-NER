@@ -1,0 +1,62 @@
+T1	LIVB 15 22	patient
+T2	LIVB 57 60	son
+T3	LIVB 61 85	médecin-kinésithérapeute
+T4	DISO 102 123	détresse respiratoire
+T5	PHEN 111 123	respiratoire
+T6	MEAS 138 149	progressive
+T7	CHEM 175 185	sufentanil
+T8	DOSE 188 197	0,2 µg/kg
+T9	CHEM 200 214	hydrocortisone
+T10	DISO 258 266	polypnée
+T11	MEAS 278 291	70 cycles/min
+T12	DISO 307 313	fièvre
+T13	MEAS 325 330	40° C
+T14	PROC 334 353	bilan préopératoire
+T15	DISO 370 408	polyneuropathie sensitivo-vestibulaire
+T16	DISO 449 471	hypotension artérielle
+T17	DISO 549 579	insuffisance rénale systolique
+T18	ANAT 562 579	rénale systolique
+T19	DISO 585 617	tuberculose cervico-folliculaire
+T20	DISO 624 649	vomissements alimentaires
+T21	DISO 670 683	inflammatoire
+T22	DISO 690 703	cholestatique
+T23	Concept_Idea 739 751	état général
+T24	MEAS 766 776	rapprochée
+T25	DISO 814 834	diabète hypertenseur
+T26	ANAT 1048 1085	cardio-vasculaires transoesophagienne
+T27	PROC 1155 1180	étude anatomopathologique
+T28	DISO 1220 1252	localisation secondaire tumorale
+T29	DISO 1263 1290	localisations pathologiques
+T30	PROC 1345 1367	consultation prénatale
+T31	DEVI 1394 1419	masse kystique tissulaire
+T32	MEAS 1429 1432	6cm
+T33	Concept_Idea 1436 1444	diamètre
+T34	DISO 1522 1536	résidu tumoral
+T35	Localization 1594 1602	centrale
+T36	ANAT 1634 1645	flanc droit
+T37	Localization 1640 1645	droit
+T38	ANAT 1666 1681	méso-sigmoïdien
+T39	ANAT 1718 1732	cordons iléaux
+T40	Concept_Idea 1775 1786	profondeurs
+T41	ANAT 1829 1846	cavité abdominale
+T42	MEAS 1872 1890	bien circonscrites
+T43	LIVB 1992 2000	patiente
+T44	MEAS 2010 2013	bon
+T45	Concept_Idea 2014 2026	état général
+T46	DISO 2032 2053	détresse respiratoire
+T47	PHEN 2041 2053	respiratoire
+T48	PROC 2058 2074	bilan biologique
+T49	DISO 2091 2158	anémie microcytaire ferriprive hypochrome microcytaire normocytaire
+T50	PROC 2168 2183	globules blancs
+T51	MEAS 2186 2204	10300 éléments/mm3
+T52	PROC 2206 2216	plaquettes
+T53	MEAS 2219 2237	23000 éléments/mm3
+T54	PROC 2242 2269	numération formule sanguine
+T55	PROC 2284 2303	protéine-C-réactive
+T56	PROC 2305 2308	CRP
+T57	MEAS 2312 2319	20 mg/l
+T58	PROC 2321 2331	leucocytes
+T59	MEAS 2334 2352	15 000 élément/mm3
+T60	PROC 2355 2379	glycoprotéine C réactive
+T61	PROC 2381 2384	LCR
+T62	MEAS 2386 2394	négative

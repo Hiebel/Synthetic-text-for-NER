@@ -1,0 +1,21 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 47 96	syndrome d'hyperparathyroïdie primaire secondaire
+T4	DISO 98 101	SCS
+T5	Hospital 123 131	urgences
+T6	Hospital 136 174	Cliniques Universitaires De Lubumbashi
+T7	PROC 191 216	intervention chirurgicale
+T8	DISO 271 279	phtalmie
+T9	TEMP 293 306	depuis 6 mois
+T10	MEAS 324 335	progressive
+T11	DISO 356 381	localisations secondaires
+T12	PHEN 411 426	acuité visuelle
+T13	DISO 487 511	déficit neuritivo-moteur
+T14	LIVB 523 534	jeune fille
+T15	TEMP 543 549	16 ans
+T16	ANAT 619 629	artérielle
+T17	DISO 642 664	diabète hypoglycémiant
+T18	DISO 668 679	malformatif
+T19	DISO 728 747	tabagisme chronique
+T20	MEAS 784 804	120 cigarettes/année
+T21	PROC 809 831	examen ophtalmologique

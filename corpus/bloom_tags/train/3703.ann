@@ -1,0 +1,30 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	PHEN 44 64	grossesse monofœtale
+T4	PROC 69 75	suivie
+T5	DISO 92 107	symptomatologie
+T6	TEMP 120 127	3 jours
+T7	PROC 136 145	admission
+T8	Hospital 149 192	service d'accueil des urgences pédiatriques
+T9	Hospital 196 245	Centre Hospitalier Universitaire Hassan II de Fès
+T10	PROC 251 269	traitement médical
+T11	CHEM 284 313	antiémollients glycosérogènes
+T12	CHEM 327 362	anti-inflammatoires non-stéroïdiens
+T13	CHEM 376 395	corticoïdes inhalés
+T14	Concept_Idea 510 525	acuité visuelle
+T15	MEAS 537 542	2/10°
+T16	DISO 625 646	maladie neurologiques
+T17	DISO 664 680	hyperhydratation
+T18	DISO 692 710	pathophysiologique
+T19	DISO 838 879	syndrome allergique purpura érythémateuse
+T20	PROC 921 942	bilan immunocompétent
+T21	MEAS 950 957	négatif
+T22	LIVB 977 983	enfant
+T23	DISO 1051 1066	symptomatologie
+T24	LIVB 1116 1120	elle
+T25	PROC 1143 1171	régime thérapeutique curatif
+T26	PROC 1187 1228	intradermoréaction à la chlorprométholone
+T27	CHEM 1211 1228	chlorprométholone
+T28	LIVB 1261 1265	elle
+T29	DISO 1285 1294	céphalées
+T30	MEAS 1321 1332	progressive

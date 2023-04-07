@@ -1,0 +1,28 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	Concept_Idea 42 53	antécédents
+T4	MEAS 54 62	notables
+T5	PROC 64 69	admis
+T6	Hospital 74 95	urgences pédiatriques
+T7	DISO 105 114	céphalées
+T8	TEMP 124 138	depuis un mois
+T9	PROC 142 157	examen clinique
+T10	PROC 162 171	admission
+T11	DISO 197 225	paralysie du plexus brachial
+T12	ANAT 210 225	plexus brachial
+T13	DISO 241 267	épanchement intrarachidien
+T14	ANAT 253 267	intrarachidien
+T15	PROC 272 288	bilan biologique
+T16	PHEN 306 321	fonction rénale
+T17	ANAT 315 321	rénale
+T18	MEAS 322 328	normal
+T19	PROC 330 338	natrémie
+T20	MEAS 340 349	133 meq/l
+T21	PROC 353 361	kaliémie
+T22	MEAS 363 369	3meq/l
+T23	PROC 375 391	bilan infectieux
+T24	MEAS 398 405	négatif
+T25	DISO 423 466	syndrome d'épanchement liquidien péritonéal
+T26	ANAT 446 466	liquidien péritonéal
+T27	DISO 476 497	anomalie neurologique
+T28	DEVI 513 537	palier somatique digital

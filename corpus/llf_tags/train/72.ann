@@ -1,0 +1,33 @@
+T1	LIVB 28 36	patiente
+T2	MEAS 69 80	particulier
+T3	PROC 91 97	opérée
+T4	DISO 107 128	tumeur du sein gauche
+T5	ANAT 117 128	sein gauche
+T6	Localization 122 128	gauche
+T7	TEMP 138 152	depuis 18 mois
+T8	MEAS 167 182	progressivement
+T9	Concept_Idea 186 192	volume
+T10	PROC 198 222	laparotomie exploratrice
+T11	PROC 243 258	rachianesthésie
+T12	DEVI 287 295	prothèse
+T13	PROC 299 317	étude histologique
+T14	DISO 336 374	adénocarcinome métastasé du rein droit
+T15	ANAT 364 374	rein droit
+T16	Localization 369 374	droit
+T17	DISO 404 444	neuroendocrino-réseau tissulaire myxoide
+T18	ANAT 469 507	aires ganglionnaires cervicale gauches
+T19	Localization 500 507	gauches
+T20	ANAT 512 544	sillons crico-pariéto-palpébraux
+T21	ANAT 546 548	T1
+T22	ANAT 563 596	ganglions axillaires homolatéraux
+T23	Localization 584 596	homolatéraux
+T24	DISO 635 670	lésion carcinomateuse fibrokystique
+T25	ANAT 688 711	quadrant supéro-externe
+T26	DISO 727 783	carcinome épidermoïde infiltrant médullaire T3N2MYVB/EKL
+T27	PROC 787 811	exploration chirurgicale
+T28	DISO 833 864	métastases secondaires malignes
+T29	DISO 898 913	symptomatologie
+T30	MEAS 997 1004	simples
+T31	LIVB 1026 1034	patiente
+T32	TEMP 1041 1046	6mois
+T33	PROC 1052 1062	opératoire

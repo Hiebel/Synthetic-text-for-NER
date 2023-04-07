@@ -1,0 +1,25 @@
+T1	LIVB 15 22	patient
+T2	DISO 52 79	tuméfaction du flanc gauche
+T3	ANAT 67 79	flanc gauche
+T4	Localization 73 79	gauche
+T5	TEMP 89 102	depuis 2 mois
+T6	MEAS 115 130	progressivement
+T7	Concept_Idea 134 140	volume
+T8	PROC 144 150	examen
+T9	PROC 155 164	admission
+T10	LIVB 175 182	patient
+T11	Concept_Idea 197 215	plan hémodynamique
+T12	PHEN 219 231	respiratoire
+T13	DISO 243 251	polypnée
+T14	DISO 267 287	tâches prurigineuses
+T15	PROC 292 316	bilan d'immunodépression
+T16	MEAS 323 331	négativé
+T17	CHEM 348 372	anticorps antinucléaires
+T18	PROC 383 414	échographie abdomino- pelvienne
+T19	ANAT 395 414	abdomino- pelvienne
+T21	ANAT 542 560	substance grêlique
+T22	MEAS 570 574	3 cm
+T23	Concept_Idea 578 587	grand axe
+T24	MEAS 594 598	fine
+T25	ANAT 615 620	reins
+T26	DISO 626 687	infiltration épithélo-gigalo-résistante érythémato-pustuleuse

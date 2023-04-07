@@ -1,0 +1,110 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 50 61	antécédents
+T3	MEAS 62 74	particuliers
+T4	PROC 76 88	hospitalisée
+T5	Hospital 93 101	urgences
+T6	DISO 111 133	douleurs épigastriques
+T7	ANAT 120 133	épigastriques
+T8	TEMP 143 161	depuis trois jours
+T9	DISO 178 190	vomissements
+T10	PROC 194 209	examen clinique
+T11	LIVB 223 231	patiente
+T12	MEAS 235 238	bon
+T13	Concept_Idea 239 251	état général
+T14	DISO 270 297	intoxication au nicardipril
+T15	CHEM 286 297	nicardipril
+T16	LIVB 336 340	Elle
+T17	DOSE 357 363	1mg/kg
+T18	MODE 368 378	voie orale
+T19	CHEM 382 396	ciprofloxacine
+T20	DOSE 398 404	500 mg
+T21	CHEM 419 437	hydroxychloroquine
+T22	DOSE 439 445	800 mg
+T23	PHEN 447 455	prélivés
+T24	PROC 460 490	bilan biologique préopératoire
+T25	PROC 508 516	natrémie
+T26	MEAS 519 532	135 meq/100ml
+T27	PROC 540 548	kaliémie
+T28	MEAS 551 564	133 meq/100ml
+T29	PROC 579 619	dosage de la catécholamine noradrénaline
+T30	MEAS 637 656	100 fois la normale
+T31	PROC 663 689	injection intrarachidienne
+T32	PROC 711 720	recherche
+T33	MEAS 729 736	normaux
+T34	DISO 754 792	syndrome d'épanchement intrapéritonéal
+T35	ANAT 777 792	intrapéritonéal
+T36	DISO 802 824	troubles neurologiques
+T37	PROC 837 862	intervention chirurgicale
+T38	PROC 883 963	anesthésie locorégionale postéro-latérale axillaire sus-ombilicale transfixiante
+T39	ANAT 894 1126	locorégionale postéro-latérale axillaire sus-ombilicale transfixiante suivie d'une laparotomie bilatérale exploratrice qui avaient objectivé une masse kystique polylobée faisant 18 cm de grand axe envahissant l'artère iliaque droite
+T40	PROC 977 1012	laparotomie bilatérale exploratrice
+T41	Localization 989 999	bilatérale
+T42	DISO 1039 1063	masse kystique polylobée
+T43	MEAS 1072 1077	18 cm
+T44	Concept_Idea 1081 1090	grand axe
+T45	Localization 1120 1126	droite
+T46	MEAS 1136 1139	5cm
+T47	Concept_Idea 1143 1152	grand axe
+T48	DISO 1217 1246	pancréatite stade E tumorante
+T49	ANAT 1267 1292	paroi grêlique iléocæcale
+T50	ANAT 1400 1429	hile vésiculaire intestinales
+T51	DISO 1444 1491	hypoglycoréhydronéphrose grêlo-pancréato-cæcale
+T52	ANAT 1469 1491	grêlo-pancréato-cæcale
+T53	PROC 1514 1584	curage ganglionnaire cervico-vestibulaire locorégional scannographique
+T55	PROC 1603 1634	tomodensitométrie scanno-guidée
+T56	LIVB 1668 1676	patiente
+T57	DEVI 1685 1711	prothèse digito-thoracique
+T58	PROC 1724 1749	greffonectomie palliative
+T59	ANAT 1844 1874	cavités cardiaques inférieures
+T60	ANAT 1966 1987	ventricules caverneux
+T61	ANAT 2013 2031	artères coronaires
+T62	Concept_Idea 2107 2120	localisations
+T63	ANAT 2146 2156	pulmonaire
+T64	ANAT 2172 2184	médiastinale
+T65	PROC 2230 2255	investigations somatiques
+T66	PROC 2269 2293	scanner abdomino-pelvien
+T67	ANAT 2277 2293	abdomino-pelvien
+T68	DISO 2330 2367	métastases gynécalo-hypopharyngiennes
+T69	DISO 2427 2455	méningo-endométriose maligne
+T70	DISO 2522 2575	adénocarcinome hydrosalpinéo-surrénalien érythémateux
+T71	DISO 2595 2618	lésions carcinomateuses
+T72	PHEN 2867 2883	signes cliniques
+T73	PROC 2905 2935	traitement médical substitutif
+T74	CHEM 2937 2956	Valproate de sodium
+T75	CHEM 2958 2974	Sulfaméthoxazole
+T76	CHEM 2976 2988	Pyrazinamide
+T77	DISO 3011 3049	syndrome d'épanchement intrapéritonéal
+T78	ANAT 3034 3049	intrapéritonéal
+T79	PROC 3077 3113	cholécystectomie totale exploratrice
+T80	PROC 3119 3162	anastomose péritonéale droite transfixiante
+T81	Localization 3142 3148	droite
+T82	MEAS 3167 3175	première
+T83	TEMP 3202 3208	28 ans
+T84	DISO 3214 3245	antécédents pathophysiologiques
+T85	MEAS 3246 3258	particuliers
+T86	DISO 3286 3297	tuberculose
+T87	DISO 3304 3332	vaccination antituberculeuse
+T88	LIVB 3334 3337	Ses
+T90	ANAT 3351 3359	utérines
+T91	DEVI 3390 3430	sonde vaginal intra-utérin ultrasensible
+T93	LIVB 3443 3447	elle
+T94	PROC 3492 3512	césarienne d'urgence
+T95	MODE 3541 3568	voie vaginale intraveineuse
+T96	DISO 3611 3630	douleurs pelviennes
+T97	ANAT 3620 3630	pelviennes
+T98	MEAS 3645 3651	rapide
+T99	TEMP 3661 3676	depuis 10 jours
+T100	MEAS 3903 3913	rapidement
+T101	Concept_Idea 3917 3923	volume
+T102	DISO 3938 3976	sensibilités épigastriques abdominales
+T103	ANAT 3951 3976	épigastriques abdominales
+T104	DISO 3999 4012	inflammatoire
+T105	ANAT 4033 4061	sinus phréno-diaphragmatique
+T106	ANAT 4157 4177	membranes ovariennes
+T107	MEAS 4202 4206	7 cm
+T108	MEAS 4210 4215	15 cm
+T109	DISO 4249 4271	pempéricardite stade E
+T110	DISO 4302 4339	bilan infectieux prurigineux purulacé
+T111	PROC 4356 4385	recherche bactériomoélérienne
+T112	PROC 4407 4431	échographie endovaginale
+T113	ANAT 4419 4431	endovaginale

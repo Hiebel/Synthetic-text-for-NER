@@ -1,0 +1,64 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 106	scanner thoraco-abdomino-pelvien
+T3	ANAT 82 106	thoraco-abdomino-pelvien
+T4	PROC 108 111	TSA
+T5	DISO 139 213	métastase carcinomateuse parathyroïdienne hypophacellaire hypovascularisée
+T7	LIVB 234 242	patiente
+T8	DISO 262 295	hormonothérapie adjuvante maligne
+T9	TEMP 305 318	depuis 6 mois
+T10	PROC 324 351	chimiothérapie néoadjuvante
+T11	DOSE 357 365	20 mg/m²
+T12	PROC 394 418	imagerie scannographique
+T13	PROC 419 423	TACE
+T14	PROC 428 453	analyse histopathologique
+T15	DISO 475 516	lymphangiome kystéo-mésangiosarcomatineux
+T16	DISO 554 577	moyens de prolifération
+T17	DISO 584 605	recruits érythémateux
+T18	DISO 612 635	végétations nécrotiques
+T19	DISO 689 726	pneumoendométrialprocessus nécrotique
+T20	DISO 742 761	organométastatiques
+T21	ANAT 794 800	pelvis
+T22	DISO 841 863	anomalies métaboliques
+T23	DISO 878 906	insulinorachypancréatectomie
+T24	DISO 922 943	hypoglycémie primaire
+T25	DISO 956 982	diabète insulino-dépendant
+T26	PROC 1187 1222	étude épidémiologique rétrospective
+T27	MEAS 1249 1260	progressive
+T28	MEAS 1291 1305	1330/1070 UI/l
+T29	MEAS 1308 1322	1610/1150 UI/l
+T30	DISO 1352 1360	surpoids
+T31	MEAS 1371 1376	12 kg
+T32	PROC 1389 1414	intervention chirurgicale
+T33	PROC 1419 1441	anamnèse préopératoire
+T34	DISO 1479 1513	hypertension artérielle systolique
+T35	ANAT 1492 1513	artérielle systolique
+T36	PROC 1533 1561	contraception médicamenteuse
+T37	PROC 1567 1607	ponction jugulo-cæcale transplacentaique
+T38	ANAT 1576 1607	jugulo-cæcale transplacentaique
+T39	MEAS 1624 1635	déficitaire
+T40	DEVI 1663 1679	doules plâtrants
+T41	PROC 1705 1728	radiographie pulmonaire
+T42	ANAT 1718 1728	pulmonaire
+T43	DISO 1751 1781	syndrome d'épanchement pleural
+T44	ANAT 1774 1781	pleural
+T45	DISO 1810 1840	sténose bronchique obstructive
+T46	ANAT 1818 1840	bronchique obstructive
+T47	DISO 1850 1863	inflammatoire
+T48	ANAT 1885 1916	sinus pulmonaires cerviculaires
+T49	DISO 1931 1982	masse hilaire basithoracique diaphragmatique gauche
+T50	ANAT 1937 1982	hilaire basithoracique diaphragmatique gauche
+T51	Localization 1976 1982	gauche
+T52	MEAS 1999 2012	7 centimètres
+T53	Concept_Idea 2016 2025	grand axe
+T54	ANAT 2054 2089	parties molles sus-diaphragmatiques
+T55	PROC 2143 2159	examen somatique
+T56	DISO 2171 2184	particularité
+T57	LIVB 2189 2196	patient
+T58	PROC 2215 2251	tomodensitométrie abdomino-pelvienne
+T59	ANAT 2233 2251	abdomino-pelvienne
+T60	DISO 2267 2308	épanchement liquidien péritonéal purulent
+T61	ANAT 2279 2308	liquidien péritonéal purulent
+T62	ANAT 2322 2355	quadrant supéro- inferieure droit
+T63	Localization 2350 2355	droit
+T64	MEAS 2366 2370	76cm
+T65	Concept_Idea 2374 2383	grand axe

@@ -1,0 +1,36 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	MEAS 62 70	notables
+T4	PROC 72 77	admis
+T5	Hospital 82 103	urgences pédiatriques
+T6	DISO 122 145	agitation psychomotrice
+T7	ANAT 195 217	membre supérieur droit
+T8	Localization 212 217	droit
+T9	TEMP 227 245	dans les 48 heures
+T10	LIVB 255 257	Il
+T11	PROC 264 275	hospitalisé
+T12	Hospital 279 294	bloc opératoire
+T13	DEVI 300 329	cathéter veineux périphérique
+T14	ANAT 309 329	veineux périphérique
+T15	PROC 335 360	intervention chirurgicale
+T16	DISO 386 395	anomalies
+T17	DISO 423 462	syndrome d'épanchement intrapéritonéale
+T18	ANAT 446 462	intrapéritonéale
+T19	DISO 469 488	thrombus péritonéal
+T20	ANAT 478 488	péritonéal
+T21	PROC 508 535	stabilisation hémodynamique
+T22	PROC 539 554	vasculo-nerveux
+T23	DISO 600 639	fistulations parenchymateuses biliaires
+T24	ANAT 613 639	parenchymateuses biliaires
+T25	DISO 660 685	localisations nécrotiques
+T26	DISO 763 811	épanchement anévrismal lithiasique péritentoriel
+T27	LIVB 823 831	patiente
+T28	TEMP 840 845	7 ans
+T29	DISO 876 907	complications thromboemboliques
+T30	Concept_Idea 1107 1113	aspect
+T31	PHEN 1178 1207	expansion placento-thoracique
+T32	ANAT 1188 1207	placento-thoracique
+T33	MEAS 1217 1220	6cm
+T34	Concept_Idea 1223 1232	grand axe
+T35	DISO 1260 1274	kyst hydatique
+T36	PROC 1292 1338	greffon thyromento-myometre myomateuse égrêlée

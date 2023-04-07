@@ -1,0 +1,54 @@
+T1	LIVB 19 24	homme
+T2	MEAS 253 262	2900 GBHZ
+T3	MEAS 266 277	17000 GBPts
+T4	MEAS 322 337	2200 UI / heure
+T5	MEAS 343 1434	480 UI / demi journée travaillées contre 5 fois la normale soit environ 571 UI / jour). Ce nourrisson pratiquait également certaines activités extrascolaires telles que : -marcher seul(sans aide artificielle), -parler vite fait-, -devenir fouettardisé après avoir ingurgité 1kg500 millilitres de médicaments psychotropes imbibés « Facteur rhumatoïde hypertonique Rhésus Hormone Alcooliques Anorexigène Diabetes Res Clairance Apyrétique Duodénale Acide Fusidique Glucantime® Erythromycine Nitrofurant Réaction Anti Coagulants Organophagiques Chorioniques Oreillons Troubles hydro-éléctrolytiques Sels Magnésium Caractéristiques Observation: Une fille de 18 mois présentait devant tous les prothèses cervico-mandibulaires intraveineuse implantables apparues entre décembre 2009 et février 2010 puis récidivantes jusqu'à mi-janvier 2011 suivies d'une régression spontanée vers fin 2013 avant tout nouveau contrôle scannographique. Au cours de ce suivi préopératoire cet nouveau-né pesait 1350grammes pesant 357 grammes mesurant 23 cm x 33 centimètres × 16mm + 4 pieds 6×1 pied 7×0 ==56x11+15 mm
+T6	MEAS 384 401	5 fois la normale
+T7	LIVB 434 444	nourrisson
+T8	Hospital 476 500	activités extrascolaires
+T9	CHEM 639 663	médicaments psychotropes
+T10	LIVB 987 992	fille
+T11	TEMP 996 1003	18 mois
+T12	DEVI 1031 1089	prothèses cervico-mandibulaires intraveineuse implantables
+T13	MEAS 1202 1211	spontanée
+T14	PROC 1245 1269	contrôle scannographique
+T15	PROC 1286 1305	suivi préopératoire
+T16	LIVB 1310 1320	nouveau-né
+T17	MEAS 1328 1339	1350grammes
+T18	MEAS 1347 1358	357 grammes
+T19	MEAS 1368 1373	23 cm
+T20	MEAS 1376 1390	33 centimètres
+T21	MEAS 1393 1397	16mm
+T22	LIVB 1518 1539	chirurgiens pédiatres
+T23	Concept_Idea 1583 1603	caractère opératoire
+T24	PROC 1618 1642	traitements chirurgicaux
+T25	DISO 1681 1709	difficultés comportementales
+T26	DISO 1773 1793	plaisirs polymorphes
+T27	LIVB 1921 1928	adultes
+T28	Hospital 1995 2002	service
+T29	TEMP 2006 2028	3e jour postopératoire
+T30	Hospital 2051 2059	urgences
+T31	PHEN 2069 2078	grossesse
+T32	DISO 2103 2111	incident
+T33	ANAT 2115 2122	abdomen
+T34	MEAS 2129 2148	légèrement distendu
+T35	DISO 2169 2185	râles crépitants
+T36	LIVB 2189 2193	elle
+T37	Concept_Idea 2258 2270	état général
+T38	PROC 2296 2354	ventilation mécanique du nerf laryngé inférieur supérieure
+T40	Localization 2344 2354	supérieure
+T41	DOSE 2356 2362	100 ml
+T42	PROC 2366 2390	échographie obstétricale
+T43	DISO 2418 2426	anomalie
+T44	DISO 2457 2462	signe
+T45	DISO 2478 2533	carcinome épidermoïde thyroïdien infiltrant rénocemment
+T46	DISO 2561 2618	adénomégalies germinales malignes métastatiques kystiques
+T47	LIVB 2648 2654	malade
+T48	DISO 2665 2720	métastases neuroendocrines adénomégétiques congénitales
+T49	Concept_Idea 2793 2813	paramètres cliniques
+T50	Concept_Idea 2827 2855	prise en charge chirurgicale
+T51	PROC 2860 2884	scanner abdomino-pelvien
+T52	ANAT 2868 2884	abdomino-pelvien
+T53	PROC 2912 2928	TDM crânio-anale
+T54	ANAT 2916 2928	crânio-anale
+T56	Localization 3068 3078	bilatérale

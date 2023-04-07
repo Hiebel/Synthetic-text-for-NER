@@ -1,0 +1,15 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	MEAS 37 41	bien
+T4	PROC 42 49	vacciné
+T5	CHEM 55 62	tétanos
+T6	CHEM 69 89	pneumocystis jirovec
+T7	DISO 106 117	traumatisme
+T8	DISO 123 144	atteinte neurologique
+T9	PROC 148 163	examen clinique
+T10	Concept_Idea 181 192	température
+T11	MEAS 195 199	37°C
+T12	PHEN 208 213	pouls
+T13	MEAS 226 251	120 battements par minute
+T14	ANAT 258 272	conjonctivales
+T15	MEAS 273 287	macroscopiques

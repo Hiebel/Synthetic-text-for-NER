@@ -1,0 +1,27 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	3 ans
+T3	Hospital 54 75	urgences pédiatriques
+T4	DISO 89 110	détresse respiratoire
+T5	PHEN 98 110	respiratoire
+T6	MEAS 125 136	progressive
+T7	DISO 151 165	amaigrissement
+T8	MEAS 176 181	15 kg
+T9	DISO 224 261	syndrome d'épanchement intrarachidien
+T10	ANAT 247 261	intrarachidien
+T11	TEMP 296 302	2 mois
+T12	LIVB 321 324	ses
+T13	LIVB 325 334	confrères
+T14	DISO 442 465	symptômes neurologiques
+T15	DISO 468 482	trouble visuel
+T16	DISO 485 502	méningo-névralgie
+T17	DISO 504 518	neuroleptiques
+T18	DISO 528 555	atteinte neuropsychiatrique
+T19	LIVB 660 664	elle
+T20	PROC 737 752	examen clinique
+T21	DISO 773 802	dyspnée sifflante obstructive
+T22	MEAS 825 840	progressivement
+T23	Concept_Idea 844 850	volume
+T24	MEAS 860 886	difficilement supportables
+T25	DISO 956 983	souffrance cardiovasculaire
+T26	ANAT 967 983	cardiovasculaire
+T27	DISO 1068 1093	néphropathie hypertensive

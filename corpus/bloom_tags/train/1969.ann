@@ -1,0 +1,28 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 81	reçu
+T6	Hospital 86 94	urgences
+T7	DISO 104 131	douleurs pelviennes fébrile
+T8	ANAT 113 123	pelviennes
+T9	PHEN 149 158	grossesse
+T10	PROC 163 169	suivie
+T11	PROC 173 188	examen clinique
+T12	Concept_Idea 204 208	état
+T13	DISO 211 225	hypotensionnel
+T14	DISO 233 266	sensibilité latéro-utérine gauche
+T15	ANAT 245 266	latéro-utérine gauche
+T16	Localization 260 266	gauche
+T17	PROC 271 295	scanner abdomino-pelvien
+T18	ANAT 279 295	abdomino-pelvien
+T19	PROC 351 372	pronostic obstétrical
+T20	DISO 389 439	dilatation du sinus péritéro-sigmoïdien iléocoecal
+T21	ANAT 403 439	sinus péritéro-sigmoïdien iléocoecal
+T22	MEAS 449 453	76mm
+T23	MEAS 458 462	41mm
+T24	ANAT 478 492	intestin grêle
+T25	DISO 506 539	masse tissulaire hypoéchogéodense
+T26	ANAT 565 600	sinus péritérosigmoïdien iléocoecal
+T27	LIVB 628 636	patiente
+T28	DISO 673 700	métastases cervico-rectales

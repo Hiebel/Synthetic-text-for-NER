@@ -1,0 +1,26 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 79 83	reçu
+T5	Hospital 88 113	urgences ophtalmologiques
+T6	DISO 123 157	paralysie des muscles oculomoteurs
+T7	ANAT 137 157	muscles oculomoteurs
+T8	MEAS 173 180	brutale
+T9	PROC 184 199	examen clinique
+T10	PROC 204 213	admission
+T11	LIVB 230 237	patient
+T12	MEAS 241 244	bon
+T13	Concept_Idea 245 257	état général
+T14	PHEN 272 296	reflexes ostéo-tendineux
+T15	ANAT 281 296	ostéo-tendineux
+T16	ANAT 328 350	membre inférieur droit
+T17	Localization 345 350	droit
+T18	PROC 368 381	examen visuel
+T19	MEAS 388 394	normal
+T20	PROC 399 418	bilan préopératoire
+T21	DISO 447 461	particularités
+T22	DISO 476 509	syndrome inflammatoire biologique
+T23	PROC 513 538	intervention chirurgicale
+T24	DISO 579 606	pneumo-sinusite lithiasique
+T25	DISO 611 654	épanchement intra-parenchymateux péribuccal
+T26	ANAT 623 654	intra-parenchymateux péribuccal

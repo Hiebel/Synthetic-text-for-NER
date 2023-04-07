@@ -1,0 +1,15 @@
+T1	PROC 2 8	examen
+T2	PROC 13 22	admission
+T3	LIVB 33 40	patient
+T4	MEAS 44 47	bon
+T5	Concept_Idea 48 60	état général
+T6	DISO 71 82	tachycardie
+T7	MEAS 86 104	100 battements/min
+T8	PHEN 112 131	pression artérielle
+T9	ANAT 121 131	artérielle
+T10	MEAS 142 152	130/50mmhg
+T11	PROC 158 188	auscultation pleuro-bronchique
+T12	ANAT 171 188	pleuro-bronchique
+T13	ANAT 250 273	sinus médiastinal droit
+T14	Localization 268 273	droit
+T15	DISO 286 305	signes fonctionnels

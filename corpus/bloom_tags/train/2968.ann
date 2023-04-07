@@ -1,0 +1,18 @@
+T1	PROC 2 8	examen
+T2	PROC 13 22	admission
+T3	Hospital 26 48	service de réanimation
+T4	LIVB 61 67	enfant
+T5	MEAS 71 74	bon
+T6	Concept_Idea 75 87	état général
+T7	DISO 89 100	polypnéique
+T8	MEAS 103 116	30 cycles/min
+T9	PHEN 127 145	tension artérielle
+T10	ANAT 135 145	artérielle
+T11	MEAS 157 169	90/50mmH 2 O
+T12	PROC 175 198	auscultation pulmonaire
+T13	ANAT 188 198	pulmonaire
+T14	PROC 248 267	examen somnologique
+T15	DISO 279 292	particularité
+T16	PROC 297 316	bilan préopératoire
+T17	DISO 347 421	syndrome d'épanchement péricardique péribuccinellulaire du sinus piriforme
+T19	ANAT 406 421	sinus piriforme

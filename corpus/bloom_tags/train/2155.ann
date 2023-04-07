@@ -1,0 +1,21 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 34 42	patiente
+T3	MEAS 46 49	bon
+T4	Concept_Idea 50 62	état général
+T5	DISO 64 74	apyrétique
+T6	MEAS 77 83	37,5°c
+T7	PROC 99 115	examen somatique
+T8	DISO 127 140	particularité
+T9	DISO 157 178	atteinte oculomotrice
+T10	ANAT 166 178	oculomotrice
+T11	PROC 183 213	bilan biologique préopératoire
+T12	PROC 215 234	numération sanguine
+T13	PROC 238 257	électrocardiogramme
+T14	PHEN 285 300	fonction rénale
+T15	ANAT 294 300	rénale
+T16	MEAS 301 308	normale
+T17	PROC 317 334	natrémie corrigée
+T18	MEAS 337 346	132 meq/l
+T19	PROC 360 381	sulfate de créatinine
+T20	MEAS 399 409	1230 meq/l
+T21	PROC 426 448	traitement chirurgical

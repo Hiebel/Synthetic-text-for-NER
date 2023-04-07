@@ -1,0 +1,53 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	Concept_Idea 38 63	antécédents pathologiques
+T4	MEAS 64 76	particuliers
+T5	PROC 87 92	admis
+T6	Hospital 97 105	urgences
+T7	DISO 132 163	détresse respiratoire sifflante
+T8	MEAS 178 184	rapide
+T9	DISO 213 227	amaigrissement
+T10	MEAS 238 243	18 kg
+T11	Concept_Idea 265 277	état général
+T12	DISO 297 312	symptomatologie
+T13	TEMP 323 330	3 jours
+T14	LIVB 337 340	son
+T15	PROC 341 350	admission
+T16	DISO 389 433	syndrome d'épanchement péricardique purulent
+T17	ANAT 412 433	péricardique purulent
+T18	PROC 451 471	prise médicamenteuse
+T19	CHEM 473 482	Célébitol
+T20	CHEM 484 495	Cyclosérine
+T21	CHEM 497 510	Triméthoprime
+T22	CHEM 512 524	Pyrazinamide
+T23	CHEM 526 538	Ethohexamide
+T24	CHEM 540 555	Methylbenzidine
+T25	CHEM 557 568	Nicardipril
+T26	CHEM 570 580	Sufentanil
+T27	CHEM 582 593	Propranolol
+T28	CHEM 595 609	Gentaméthasone
+T29	CHEM 611 625	Chlorpromazine
+T30	CHEM 627 637	Isoflurane
+T31	CHEM 639 650	Enoxaparine
+T32	CHEM 652 665	Dexaméthasone
+T33	CHEM 667 673	Vit B6
+T34	CHEM 675 695	L-aspiryl-L-arginase
+T35	CHEM 697 706	captopril
+T36	CHEM 708 718	furosémide
+T37	CHEM 720 747	Aspartate amino transférase
+T38	CHEM 749 760	Ampicilline
+T39	CHEM 762 772	Pyridoxine
+T40	CHEM 774 784	Furosémide
+T41	CHEM 787 798	Tronidazole
+T42	CHEM 800 812	Simvastatine
+T43	CHEM 814 827	Acenocoumarol
+T44	CHEM 829 837	Diazépam
+T45	CHEM 839 852	Buprenorphine
+T46	CHEM 854 867	Phénobarbital
+T47	CHEM 869 880	Prostigmine
+T48	CHEM 882 893	Halopéridol
+T49	CHEM 895 907	nicardiprine
+T50	CHEM 909 922	noradrénaline
+T51	PROC 927 952	intervention chirurgicale
+T52	PROC 971 1007	annexectomie pariétale transfixiante
+T53	Localization 1027 1045	partie postérieure

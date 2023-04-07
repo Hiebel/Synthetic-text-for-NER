@@ -1,0 +1,23 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	2 ans
+T3	PHEN 126 135	hématurie
+T4	MEAS 147 162	1280g/24 heures
+T5	PROC 187 214	stabilisation hémodynamique
+T6	CHEM 241 262	hydroxy-chloropridine
+T7	CHEM 276 289	noradrénaline
+T8	DISO 322 348	complications métaboliques
+T9	PROC 362 408	prise médicamenteuse progestative chirurgicale
+T11	LIVB 518 526	patiente
+T12	TEMP 535 541	29 ans
+T13	DISO 667 701	hypotension artérielle congénitale
+T14	ANAT 679 701	artérielle congénitale
+T15	DISO 708 746	syndrome d’épanchement intrapéritonéal
+T16	ANAT 731 746	intrapéritonéal
+T17	LIVB 833 839	enfant
+T18	DISO 843 864	détresse respiratoire
+T19	PHEN 852 864	respiratoire
+T20	TEMP 874 891	depuis deux jours
+T21	MEAS 911 922	progressive
+T22	TEMP 1028 1033	un an
+T23	LIVB 1188 1190	l'
+T24	LIVB 1342 1349	enfants

@@ -1,0 +1,35 @@
+T1	LIVB 4 12	patiente
+T2	MEAS 47 48	3
+T3	LIVB 49 56	enfants
+T4	PHEN 58 67	grossesse
+T5	PROC 72 78	suivie
+T6	Hospital 97 113	urgences vitales
+T7	DISO 133 141	apyrexie
+T8	MEAS 153 157	15kg
+T9	PROC 172 187	examen clinique
+T10	LIVB 201 209	patiente
+T11	Concept_Idea 224 241	plan neurologique
+T12	TEMP 248 257	12 heures
+T13	PROC 261 279	traitement médical
+T14	CHEM 290 307	céphalosynéphrine
+T15	DOSE 310 318	0,5mg/kg
+T16	CHEM 320 333	noradrénaline
+T17	DOSE 336 343	1 mg/kg
+T18	CHEM 346 356	furosémide
+T19	DOSE 358 366	10 mg/kg
+T20	CHEM 369 388	hydroxyprogestérone
+T21	DOSE 391 399	25 µg/kg
+T22	CHEM 404 422	méthoxprogesterone
+T23	DOSE 425 431	2µg/kg
+T24	PROC 435 457	bilan phospho calcique
+T25	DISO 482 511	hyperphosphatémie métabolique
+T26	DISO 527 569	hypocalcémie orthokaliémique néphrotensive
+T27	DISO 587 612	hyponatrémie microcytaire
+T28	PROC 646 697	chirurgie correctrice substitutive antithyroïdienne
+T29	DISO 736 751	symptomatologie
+T30	DISO 762 792	troubles hydro-électrolytiques
+T31	TEMP 806 823	depuis 3 semaines
+T32	PROC 850 860	diagnostic
+T33	DISO 888 916	prise médicamenteuse toxique
+T34	DISO 922 951	évènement infectieux purulent
+T35	LIVB 969 977	patients

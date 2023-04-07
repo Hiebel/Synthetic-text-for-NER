@@ -1,0 +1,39 @@
+T1	LIVB 16 21	femme
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 63	notables
+T4	PROC 74 86	hospitalisée
+T5	Hospital 90 97	urgence
+T6	Hospital 102 127	urgences ophtalmologiques
+T7	DISO 137 184	papules érythémateuses maculeuses du côté droit
+T8	ANAT 174 184	côté droit
+T9	Localization 179 184	droit
+T10	TEMP 194 206	depuis un an
+T11	PROC 210 224	interrogatoire
+T12	DISO 260 275	uvéites fébrile
+T13	DISO 277 300	paroxysmes hypertensifs
+T14	PHEN 317 332	cycle menstruel
+T15	PROC 348 363	examen clinique
+T16	MEAS 429 449	complètement altérée
+T17	DISO 477 497	troubles oculomoteur
+T18	DISO 511 534	hypertension artérielle
+T19	ANAT 524 534	artérielle
+T20	CHEM 549 563	hydrocortisone
+T21	MEAS 580 595	progressivement
+T22	Concept_Idea 599 605	volume
+T23	Concept_Idea 653 670	état neurologique
+T24	LIVB 698 706	patiente
+T25	DISO 754 788	processus cutané polyneuropathique
+T26	MODE 843 854	voie locale
+T27	DISO 878 898	hypertriglycérinémie
+T28	MEAS 909 919	2075 mg/dl
+T29	PROC 937 958	échographie pelvienne
+T30	ANAT 949 958	pelvienne
+T31	DISO 992 1013	kystes pyélocaliciels
+T32	DISO 1024 1046	adénopathies kystiques
+T33	DISO 1074 1118	pleurésie purulente hémorragique péritonéale
+T34	MEAS 1128 1133	15 cm
+T35	Concept_Idea 1137 1146	grand axe
+T36	ANAT 1170 1184	parties molles
+T37	MEAS 1248 1256	réservés
+T38	MEAS 1281 1295	plus fréquents
+T39	PROC 1592 1610	traitement curatif

@@ -1,0 +1,35 @@
+T1	LIVB 16 21	femme
+T2	DISO 60 87	hyperparathyroïdie primaire
+T3	CHEM 103 121	méthylprogestérone
+T4	PROC 127 147	examen gynécologique
+T5	LIVB 149 153	nous
+T6	DISO 171 207	tuméfaction du flaccum ovarien droit
+T7	ANAT 186 207	flaccum ovarien droit
+T8	Localization 202 207	droit
+T9	TEMP 217 233	depuis deux mois
+T10	Concept_Idea 265 271	volume
+T11	Concept_Idea 278 288	profondeur
+T12	MEAS 305 316	brutalement
+T13	Concept_Idea 320 326	taille
+T14	MEAS 338 342	20cm
+T15	MEAS 349 374	plusieurs fois la normale
+T16	PROC 381 403	biologie préopératoire
+T17	PROC 432 469	tomodensitométrie abdomino- pelvienne
+T18	ANAT 450 469	abdomino- pelvienne
+T19	LIVB 493 501	patiente
+T20	DISO 506 546	masse tissulaire hypo échogène hypodense
+T21	MEAS 555 560	70 mm
+T22	Concept_Idea 564 573	grand axe
+T23	ANAT 611 630	hémi-lamps vaginaux
+T24	ANAT 649 676	région ombilicale cervicale
+T25	ANAT 690 713	cloisons rectorragiques
+T26	ANAT 753 764	marge anale
+T27	PROC 821 829	prélever
+T28	PROC 835 861	étude anatomo-pathologique
+T29	PROC 868 892	fibroscopie chirurgicale
+T30	DISO 953 979	malformations congénitales
+T31	PROC 994 1015	pronostic obstétrical
+T32	DISO 1065 1094	pathologies thromboemboliques
+T33	LIVB 1284 1286	on
+T34	DISO 1321 1330	symptômes
+T35	PROC 1396 1433	prise médicamenteuse antithrombotique

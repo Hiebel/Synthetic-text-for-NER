@@ -1,0 +1,25 @@
+T1	LIVB 20 28	patiente
+T2	DISO 50 75	antécédents pathologiques
+T3	MEAS 76 88	particuliers
+T4	PROC 109 122	consultations
+T5	DISO 132 169	tuméfaction douloureuse du pied droit
+T6	ANAT 159 169	pied droit
+T7	Localization 164 169	droit
+T8	TEMP 179 191	depuis un an
+T9	PROC 195 210	examen clinique
+T10	DISO 244 334	processus lésionnel des muscles para vertébraux supéro-extenseurs cervico-rotrachéo-caudal
+T11	ANAT 268 334	muscles para vertébraux supéro-extenseurs cervico-rotrachéo-caudal
+T12	Concept_Idea 340 350	indication
+T13	PROC 357 385	prise en charge chirurgicale
+T14	PROC 390 399	chirurgie
+T15	PROC 420 444	laparotomie exploratrice
+T16	Concept_Idea 473 482	principes
+T17	Hospital 500 520	Moniteur Hospitalier
+T18	PROC 536 558	contrôle préopératoire
+T19	PROC 573 591	étude histologique
+T20	DISO 608 625	récidive tumorale
+T21	DISO 635 644	métastase
+T22	MEAS 688 695	simples
+T23	DISO 734 763	symptomatologie fonctionnelle
+T24	DISO 780 789	malignité
+T25	LIVB 811 819	patiente

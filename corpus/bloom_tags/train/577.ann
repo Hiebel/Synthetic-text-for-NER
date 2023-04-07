@@ -1,0 +1,51 @@
+T1	LIVB 29 34	femme
+T2	DISO 69 75	fièvre
+T3	MEAS 87 92	40° C
+T4	DISO 107 125	douleur ombilicale
+T5	ANAT 115 125	ombilicale
+T6	MEAS 140 146	rapide
+T7	MEAS 156 164	brulante
+T8	DISO 230 257	prélèvement cutané purulent
+T9	PROC 271 303	consultation bactériocultivative
+T10	MEAS 332 342	blanchâtre
+T11	PROC 421 439	traitement curatif
+T12	LIVB 460 462	Il
+T13	PROC 485 515	échographie abdomino-pelvienne
+T14	ANAT 497 515	abdomino-pelvienne
+T15	DISO 541 569	épanchement intra péritonéal
+T16	ANAT 553 569	intra péritonéal
+T17	ANAT 583 593	col utérin
+T18	PHEN 603 624	flux intravésiculaire
+T19	ANAT 608 624	intravésiculaire
+T20	PROC 655 696	scanner abdomino- pelvien scannographique
+T22	PROC 698 701	ASP
+T23	Localization 703 712	bilatéral
+T24	DISO 729 823	hernie parenchymateuse ombilicale latéro-sigmoïdienne antéhypophyso-mandibulaire hypohypodense
+T26	MEAS 833 838	24 cm
+T27	MEAS 843 847	12cm
+T28	DISO 859 883	adénopathies hyperdenses
+T29	PROC 898 915	bilan étiologique
+T30	DISO 938 961	hyperthyroïdie primaire
+T31	CHEM 977 986	œstradiol
+T32	DISO 1002 1036	syndrome d'hypertension artérielle
+T33	ANAT 1026 1036	artérielle
+T34	DISO 1050 1087	maladie thromboembolique coronarienne
+T35	ANAT 1075 1087	coronarienne
+T36	DISO 1098 1127	pathologies cardiovasculaires
+T37	DISO 1145 1164	diabète métabolique
+T38	CHEM 1232 1254	médicaments vasoactifs
+T39	DISO 1294 1320	complications hypertensive
+T40	LIVB 1329 1336	famille
+T41	LIVB 1338 1346	patiente
+T42	TEMP 1357 1373	pendant 10 jours
+T43	CHEM 1375 1386	propranolol
+T44	CHEM 1399 1413	acétaméthasone
+T45	DOSE 1414 1419	20 mg
+T46	MODE 1420 1437	glyco-concentrées
+T47	CHEM 1440 1460	corticosulfasalazine
+T48	DOSE 1461 1468	1 mg/kg
+T49	TEMP 1469 1476	le soir
+T50	DISO 1507 1532	instabilité hémodynamique
+T51	DISO 1581 1596	symptomatologie
+T53	PROC 1899 1930	chirurgie chirurgicale radicale
+T54	LIVB 1998 2007	patientes

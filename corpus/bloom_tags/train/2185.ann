@@ -1,0 +1,33 @@
+T1	LIVB 4 9	femme
+T2	DISO 30 55	antécédents pathologiques
+T3	MEAS 56 68	particuliers
+T4	PROC 70 76	admise
+T5	Hospital 81 89	urgences
+T6	DISO 108 152	insuffisance cardio-vasculaires hypertensive
+T7	ANAT 121 139	cardio-vasculaires
+T8	DISO 158 217	syndrome d'épanchement surrénalien latéro-utérin péribuccal
+T9	ANAT 181 217	surrénalien latéro-utérin péribuccal
+T10	TEMP 227 243	depuis deux mois
+T11	LIVB 250 253	son
+T12	PROC 254 263	admission
+T13	MEAS 279 297	de manière brutale
+T14	Concept_Idea 301 307	volume
+T15	MEAS 318 323	800ml
+T16	DISO 344 366	symptômes fonctionnels
+T17	DISO 369 375	fièvre
+T18	PROC 407 426	bilan immunologique
+T19	DISO 437 458	troubles métaboliques
+T20	DISO 462 475	nutritionnels
+T21	DISO 489 505	hyperleucocytose
+T22	MEAS 508 526	15000 éléments/mm3
+T23	DISO 542 554	thrombopénie
+T24	MEAS 557 578	700 000 élément /mm 3
+T25	DISO 595 632	déficit neurologique sensitivomooteur
+T26	DISO 655 675	facteur hémorragique
+T27	LIVB 708 716	patiente
+T28	DISO 726 753	symptômes thromboemboliques
+T29	DISO 803 833	sténose artérielle congénitale
+T30	ANAT 811 833	artérielle congénitale
+T31	PROC 912 930	traitement curatif
+T32	DISO 1131 1152	myocardite ischémique
+T33	PROC 1191 1232	perméation sanguine percutanée systolique

@@ -1,0 +1,29 @@
+T1	LIVB 28 35	patient
+T2	DISO 68 85	hypochondre droit
+T3	Localization 80 85	droit
+T4	PROC 111 126	hospitalisation
+T5	DISO 152 241	syndrome d’épanchement susclaviculaire latéro-thyro-gastro-diploïque cutanéo-mésentérique
+T7	TEMP 257 270	depuis 2 mois
+T8	DISO 293 312	dyspnée obstructive
+T9	MEAS 327 334	modérée
+T10	PROC 340 373	anesthésie locorégionale curative
+T11	CHEM 428 446	benzodiazépaminées
+T12	CHEM 449 460	propranolol
+T13	Hospital 541 583	centre hospitalier universitaire Hassan II
+T14	LIVB 619 626	patient
+T15	PROC 630 650	examen préopératoire
+T16	DISO 662 698	hypotension artérielle hypertrophiée
+T17	DISO 716 744	hyperpression intracrânienne
+T18	ANAT 730 744	intracrânienne
+T19	MEAS 755 766	103/70 mmHg
+T20	DISO 794 810	vertiges visuels
+T21	PROC 824 856	scanner thoraco-abdomino-pelvien
+T22	ANAT 832 856	thoraco-abdomino-pelvien
+T23	DISO 870 940	thrombose interstitielle diaphragmatique sus-claviculaire hypovulatile
+T25	MEAS 950 954	6 cm
+T26	Concept_Idea 958 966	diamètre
+T27	ANAT 987 1015	vésicule biliaire principale
+T28	ANAT 1032 1046	parties molles
+T29	MEAS 1094 1098	3 cm
+T30	Concept_Idea 1102 1111	grand axe
+T31	ANAT 1142 1167	masse ombilicale arrondie

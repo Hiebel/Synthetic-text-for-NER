@@ -1,0 +1,31 @@
+T1	LIVB 15 25	nourrisson
+T2	TEMP 50 57	10 mois
+T3	MEAS 90 102	particuliers
+T4	DISO 120 128	douleurs
+T5	Concept_Idea 133 139	effort
+T6	PROC 143 158	examen clinique
+T7	LIVB 170 178	patiente
+T8	MEAS 182 189	mauvais
+T9	Concept_Idea 190 202	état général
+T10	ANAT 211 218	abdomen
+T11	MEAS 219 227	sensible
+T12	DEVI 231 239	pantalon
+T13	CHEM 247 282	anti-inflammatoires non stéroïdiens
+T14	DISO 296 329	masse cervicale du tronc cérébral
+T15	ANAT 315 329	tronc cérébral
+T16	MEAS 339 343	4 cm
+T17	Concept_Idea 347 356	grand axe
+T18	PROC 361 378	tomodensitométrie
+T19	PROC 380 412	TDM) thoraco- abdomino-pelvienne
+T20	ANAT 385 412	thoraco- abdomino-pelvienne
+T21	DISO 449 490	masse hypoéchogène péritonéale hétérogène
+T22	MEAS 499 503	5 cm
+T23	Concept_Idea 507 517	 grand axe
+T24	Concept_Idea 526 534	diamètre
+T25	MEAS 548 552	6 cm
+T26	PHEN 585 603	suites opératoires
+T27	MEAS 609 616	simples
+T28	PROC 622 641	anesthésie générale
+T29	PROC 657 682	réanimation préopératoire
+T30	Concept_Idea 693 702	principes
+T31	DISO 732 753	récidive chirurgicale

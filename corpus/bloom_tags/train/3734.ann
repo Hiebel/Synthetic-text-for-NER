@@ -1,0 +1,29 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 67	particuliers
+T4	PROC 69 73	reçu
+T5	Hospital 78 86	urgences
+T6	DISO 96 123	douleurs abdominales aiguës
+T7	ANAT 105 116	abdominales
+T8	DISO 153 159	fièvre
+T9	PROC 176 191	examen clinique
+T10	LIVB 208 215	patient
+T11	MEAS 219 222	bon
+T12	Concept_Idea 223 241	état hémodynamique
+T13	PHEN 245 257	respiratoire
+T14	DISO 271 290	hématurie purulente
+T15	TEMP 300 322	depuis plusieurs jours
+T16	PROC 327 343	bilan biologique
+T17	DISO 380 396	hyperleucocytose
+T18	MEAS 399 408	13900/mm3
+T19	PROC 456 503	radiographie standard du membre supérieur droit
+T20	ANAT 481 503	membre supérieur droit
+T21	Localization 498 503	droit
+T22	PROC 524 548	contraception thoracique
+T23	ANAT 538 548	thoracique
+T24	DEVI 555 583	échographe cervico-axillaire
+T25	ANAT 566 583	cervico-axillaire
+T26	PROC 606 626	scanner radiologique
+T27	ANAT 614 626	radiologique
+T28	PROC 633 656	injection intraveineuse
+T29	CHEM 660 680	produit de contraste

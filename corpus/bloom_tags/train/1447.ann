@@ -1,0 +1,32 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	DISO 37 73	antécédents personnels pathologiques
+T4	MEAS 74 82	notables
+T5	PROC 84 89	admis
+T6	Hospital 93 123	service d'accueil des urgences
+T7	DISO 142 161	hémiplégies fébrile
+T8	TEMP 182 195	depuis 2 mois
+T9	PROC 199 214	examen clinique
+T10	DISO 232 252	syndrome d'épilepsie
+T11	DISO 283 312	polyradiculonévrite purulente
+T12	ANAT 330 343	massif facial
+T13	ANAT 363 380	hypochondre droit
+T14	Localization 375 380	droit
+T15	DISO 400 426	troubles sensitivo-moteurs
+T16	LIVB 446 448	Il
+T17	DISO 469 497	symptomatologie neurologique
+T18	DISO 549 568	retard psychomoteur
+T19	DISO 645 677	signes cliniques neurosensoriels
+T20	DISO 775 791	maladie cœliaque
+T21	DISO 798 819	aryténose congénitale
+T22	DISO 886 920	tableau clinico-pathophysiologique
+T23	DISO 1027 1042	râles crépitant
+T24	MEAS 1067 1076	difficile
+T25	LIVB 1148 1162	petits garçons
+T26	MEAS 1178 1208	pathologiquement hypertrophiés
+T27	PROC 1220 1235	hospitalisation
+T28	PROC 1241 1259	traitement curatif
+T29	CHEM 1270 1301	amoxicilline-acide clavulanique
+T30	DOSE 1307 1314	2 mg/kg
+T31	TEMP 1314 1319	/jour
+T32	CHEM 1341 1353	prednisolone

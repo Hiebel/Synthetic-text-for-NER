@@ -1,0 +1,26 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 68	reçue
+T3	Hospital 73 81	urgences
+T4	PROC 87 111	chimiothérapie adjuvante
+T5	CHEM 113 123	cisplatine
+T6	CHEM 125 138	dexaméthasone
+T7	CHEM 140 151	doxycycline
+T8	DISO 166 175	métastase
+T9	ANAT 182 194	ovaire droit
+T10	Localization 189 194	droit
+T11	LIVB 222 230	patiente
+T12	PROC 235 259	laparotomie exploratrice
+T13	PROC 272 319	curage ganglionnaire ganglionnaire locorégional
+T14	ANAT 279 319	ganglionnaire ganglionnaire locorégional
+T15	DISO 377 411	neurofibrillary ovarian carcinomes
+T16	TEMP 421 433	depuis 5 ans
+T17	Concept_Idea 599 608	pronostic
+T18	DISO 741 761	carcinome ischémique
+T19	PROC 816 842	explorations chirurgicales
+T20	PROC 919 946	tomodensitométrie pelvienne
+T21	ANAT 937 946	pelvienne
+T22	PROC 954 978	étude histo-myogénétique
+T23	DEVI 1017 1025	serviers
+T24	DOSE 1037 1041	elle
+T25	PROC 1056 1080	traitement médicamenteux
+T26	CHEM 1111 1125	Ciprofloxacine

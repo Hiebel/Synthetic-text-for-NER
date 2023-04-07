@@ -1,0 +1,18 @@
+T1	LIVB 3 10	patient
+T2	Hospital 41 64	urgences psychiatriques
+T3	DISO 84 112	constipation chronique aiguë
+T4	TEMP 122 137	depuis 18 jours
+T5	PROC 149 170	traitement antalgique
+T6	DISO 280 304	complication infectieuse
+T7	LIVB 401 408	malades
+T8	PROC 436 470	thyroïdectomie totale exploratrice
+T9	DISO 532 551	maladie auto-immune
+T10	PROC 581 602	contrôle locorégional
+T11	PHEN 639 649	grossesses
+T12	PROC 654 661	suivies
+T13	Concept_Idea 685 706	caractère chirurgical
+T14	DISO 723 748	crise convulsive septique
+T15	PROC 822 845	perfusion intraveineuse
+T16	Localization 900 917	moitié supérieure
+T17	PROC 955 977	vaccinations électives
+T18	DEVI 1088 1122	plans analgésiques postopératoires

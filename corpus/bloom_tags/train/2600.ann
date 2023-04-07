@@ -1,0 +1,49 @@
+T1	LIVB 15 20	homme
+T2	Concept_Idea 37 62	antécédents pathologiques
+T3	MEAS 63 71	notables
+T4	PROC 73 78	admis
+T5	Hospital 83 91	urgences
+T6	DISO 101 108	dyspnée
+T7	MEAS 123 134	progressive
+T8	DISO 150 187	douleurs thoraciques constrictivantes
+T9	ANAT 159 170	thoraciques
+T10	TEMP 197 213	depuis deux mois
+T11	PROC 217 232	examen clinique
+T12	LIVB 245 252	patient
+T13	Concept_Idea 277 295	plan hémodynamique
+T14	PHEN 299 311	respiratoire
+T15	PROC 342 366	ventilation artificielle
+T16	DEVI 371 390	cathéter bronchique
+T18	ANAT 406 436	artère carotide interne droite
+T19	Localization 430 436	droite
+T20	PROC 452 468	examen somatique
+T21	DISO 486 532	paralysie du syndrome d'épanchement péritonéal
+T23	ANAT 522 532	péritonéal
+T24	DISO 559 580	détresse respiratoire
+T25	PHEN 568 580	respiratoire
+T26	DISO 586 622	insuffisance cardio-vasculo-nerveuse
+T27	ANAT 599 622	cardio-vasculo-nerveuse
+T28	LIVB 624 626	Il
+T29	CHEM 642 655	bêtaméthasone
+T30	DOSE 657 663	1mg/kg
+T31	TEMP 663 665	/j
+T32	MODE 667 677	voie orale
+T33	CHEM 697 719	médicaments vasoactifs
+T34	CHEM 721 734	noradrénaline
+T35	DOSE 735 745	0,05 mg/kg
+T36	TEMP 745 747	/j
+T37	CHEM 750 764	hydrocortisone
+T38	DOSE 766 771	20 mg
+T39	TEMP 771 773	/j
+T40	CHEM 776 787	nicardipril
+T41	DOSE 789 795	150 mg
+T42	TEMP 795 797	/j
+T43	CHEM 800 811	sulfentanil
+T44	DOSE 813 819	2µg/kg
+T45	TEMP 819 821	/j
+T46	CHEM 824 837	bromocriptine
+T47	DOSE 839 848	3 µmol/kg
+T48	TEMP 848 850	/j
+T49	CHEM 855 866	propranolol
+T50	DOSE 868 874	200 mg
+T51	TEMP 874 876	/j

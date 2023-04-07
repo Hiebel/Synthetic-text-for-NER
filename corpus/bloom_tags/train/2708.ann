@@ -1,0 +1,34 @@
+T1	LIVB 29 34	femme
+T2	PROC 60 68	adressée
+T3	Hospital 73 81	urgences
+T4	PROC 87 112	traitement antibacillaire
+T5	CHEM 123 133	isoniazide
+T6	CHEM 135 146	rifampicine
+T7	CHEM 148 160	pyrazinamide
+T8	CHEM 162 175	éthaméthasone
+T9	CHEM 177 190	dexaméthasone
+T10	CHEM 193 205	méthotrexate
+T11	DOSE 207 214	1 mg/kg
+T12	TEMP 214 216	/j
+T13	CHEM 221 232	Cyclosérine
+T14	DOSE 234 241	50mg/kg
+T15	TEMP 241 243	/j
+T16	PROC 249 274	scanner abdomino- pelvien
+T17	ANAT 257 274	abdomino- pelvien
+T18	MEAS 337 341	6 cm
+T19	Concept_Idea 345 354	grand axe
+T20	ANAT 389 397	épiploon
+T21	ANAT 416 422	pelvis
+T22	PROC 428 464	radio chimio-radiothérapie adjuvante
+T23	PROC 477 505	chimiothérapie néo adjuvante
+T24	DEVI 533 551	élément artificiel
+T25	PROC 633 657	protocole thérapeutiques
+T26	PROC 669 694	surveillance radiologique
+T27	PROC 696 722	examen cytobactériolytique
+T28	PROC 725 751	ponction liquido-gastrique
+T29	ANAT 734 751	liquido-gastrique
+T30	PROC 755 788	gastrostomie duodéno-pancréatique
+T31	ANAT 768 788	duodéno-pancréatique
+T32	DISO 952 973	syndrome hémorragique
+T33	PROC 1004 1023	tomodensitométrique
+T34	MEAS 1103 1123	fortement évocatrice

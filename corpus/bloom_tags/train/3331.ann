@@ -1,0 +1,25 @@
+T1	LIVB 4 7	H.C
+T2	PROC 33 39	admise
+T3	Hospital 44 52	urgences
+T4	DISO 66 87	détresse respiratoire
+T5	PHEN 75 87	respiratoire
+T6	LIVB 89 93	Elle
+T7	PROC 116 137	surveillance clinique
+T8	PROC 151 185	évaluation échocardio-chirurgicale
+T9	PROC 197 226	angioscanner transoesophagien
+T10	PROC 228 231	ETO
+T11	PROC 239 280	mise en place d’insufflation artificielle
+T12	DEVI 255 280	insufflation artificielle
+T13	DOSE 308 312	2 mg
+T14	CHEM 316 327	bupivacaine
+T15	DISO 362 396	maladie thromboembolique dissociée
+T16	PROC 410 441	fibroscopie cardio-œsophagienne
+T17	ANAT 422 441	cardio-œsophagienne
+T18	DISO 470 509	carcinose pléomorphe ostéo-vascularisée
+T19	LIVB 534 542	patiente
+T20	PROC 593 622	traitement palliatif adjuvant
+T21	DISO 665 682	affection maligne
+T22	PROC 766 780	interrogatoire
+T23	DISO 820 845	hémopéritoine purulenciel
+T24	DISO 867 896	localisations intracrâniennes
+T25	PROC 949 980	recherche phospho métabolétique

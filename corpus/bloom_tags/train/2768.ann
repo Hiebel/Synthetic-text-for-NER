@@ -1,0 +1,28 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	DISO 40 65	antécédents pathologiques
+T4	MEAS 66 74	notables
+T5	DISO 95 125	masse du parenchyme parotidien
+T6	ANAT 104 125	parenchyme parotidien
+T7	MEAS 137 152	progressivement
+T8	Concept_Idea 156 162	volume
+T9	PROC 166 172	examen
+T10	PROC 177 186	admission
+T11	LIVB 199 205	enfant
+T12	MEAS 209 212	bon
+T13	Concept_Idea 213 225	état général
+T14	DISO 227 237	apyrétique
+T15	PHEN 247 268	contractions utérines
+T16	ANAT 260 268	utérines
+T17	MEAS 269 277	intenses
+T18	PROC 281 311	auscultation cardio-vasculaire
+T19	ANAT 294 311	cardio-vasculaire
+T20	MEAS 318 325	normale
+T21	PROC 332 358	pression artérielle pulsée
+T22	ANAT 341 358	artérielle pulsée
+T23	PROC 360 364	PAPS
+T24	MEAS 366 386	supérieure à 50 mmhg
+T25	ANAT 399 406	fémoral
+T26	ANAT 410 424	sus-ombilicaux
+T27	Localization 410 413	sus
+T28	MEAS 433 441	présents

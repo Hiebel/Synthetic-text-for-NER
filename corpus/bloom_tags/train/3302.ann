@@ -1,0 +1,28 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	13 ans
+T3	DISO 26 51	antécédents pathologiques
+T4	MEAS 52 60	notables
+T5	PROC 62 66	reçu
+T6	Hospital 71 92	urgences pédiatriques
+T7	DISO 102 119	dyspnée sifflante
+T8	DISO 135 169	douleurs thoraciques constrictives
+T9	ANAT 144 155	thoraciques
+T10	TEMP 179 192	depuis 3 mois
+T11	PROC 196 210	interrogatoire
+T12	Concept_Idea 229 234	poids
+T13	MEAS 238 242	3 kg
+T14	Concept_Idea 252 258	taille
+T15	MEAS 262 267	75 cm
+T16	PROC 272 291	bilan préopératoire
+T17	PROC 305 335	échographie abdomino-pelvienne
+T18	ANAT 317 335	abdomino-pelvienne
+T19	DISO 369 423	syndrome d'épanchement liquidien périthoracique gauche
+T20	ANAT 392 423	liquidien périthoracique gauche
+T21	Localization 417 423	gauche
+T22	CHEM 443 463	produit de contraste
+T23	ANAT 477 495	péritoine biliaire
+T24	DISO 539 577	carcinose épithélialolymphangiomateuse
+T25	ANAT 549 577	épithélialolymphangiomateuse
+T26	DISO 579 613	adénopathie médiastinale hypodense
+T27	ANAT 591 613	médiastinale hypodense
+T28	DISO 617 645	tumeur bourgeonnante maligne

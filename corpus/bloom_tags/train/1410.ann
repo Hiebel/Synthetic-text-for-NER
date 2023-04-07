@@ -1,0 +1,47 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 17 23	12 ans
+T3	Concept_Idea 29 54	antécédents pathologiques
+T4	MEAS 55 67	particuliers
+T5	PROC 75 86	hospitalisé
+T6	Hospital 91 99	urgences
+T7	DISO 109 131	céphalées généralisées
+T8	DISO 148 174	paralysie du poignet droit
+T9	ANAT 161 174	poignet droit
+T10	Localization 169 174	droit
+T11	TEMP 184 200	depuis 48 heures
+T12	PROC 204 219	examen clinique
+T13	DISO 239 259	déficit neurologique
+T14	PROC 300 330	échographie abdomino-pelvienne
+T15	ANAT 312 330	abdomino-pelvienne
+T16	PROC 332 335	ECU
+T17	PHEN 350 370	grossesse épiploïque
+T18	ANAT 360 370	épiploïque
+T19	Concept_Idea 373 379	aspect
+T20	MEAS 380 390	hétérogène
+T21	MEAS 435 442	17x14cm
+T22	ANAT 455 465	col utérin
+T23	ANAT 479 495	ovarienne droite
+T24	Localization 489 495	droite
+T26	DISO 774 828	métastases ganglionnaires cervico-folliculo-hypodenses
+T27	ANAT 785 828	ganglionnaires cervico-folliculo-hypodenses
+T28	DISO 845 888	adénocarcinome hypopharyngo-laryngo-muqueux
+T29	ANAT 860 888	hypopharyngo-laryngo-muqueux
+T30	DISO 907 944	rhabdomyolyse hémorragique ischémique
+T31	LIVB 973 981	patiente
+T32	PROC 1003 1027	scanner abdomino-pelvien
+T33	ANAT 1011 1027	abdomino-pelvien
+T34	PROC 1040 1065	bilan immunodépressionnel
+T35	DISO 1091 1098	diabète
+T36	DISO 1104 1120	hyperleucocytose
+T37	PROC 1125 1144	électrorétinogramme
+T38	PROC 1146 1149	ERG
+T39	PROC 1152 1173	sérologies hydatiques
+T40	PROC 1175 1195	protéines C réactive
+T41	PROC 1197 1200	CRP
+T42	PROC 1203 1227	anticorps antinucléaires
+T43	PROC 1233 1248	anti-ADN natifs
+T44	DOSE 1267 1273	1mg/kg
+T45	MODE 1273 1279	per os
+T46	CHEM 1282 1292	furosémide
+T47	DOSE 1293 1302	100 mg/kg
+T48	TEMP 1302 1304	/j

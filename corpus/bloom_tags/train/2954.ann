@@ -1,0 +1,43 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 69	antécédent pathologique
+T3	MEAS 70 81	particulier
+T4	PROC 83 89	admise
+T5	Hospital 93 111	service d'urologie
+T7	ANAT 130 140	pelviennes
+T8	TEMP 150 168	depuis une semaine
+T9	PROC 174 189	examen clinique
+T10	LIVB 193 201	patiente
+T11	DISO 208 219	polypnéique
+T12	MEAS 222 235	28 cycles/min
+T14	MEAS 253 258	70 kg
+T15	Concept_Idea 266 272	taille
+T16	MEAS 276 282	170 cm
+T17	Localization 284 289	droit
+T18	PROC 294 318	examen pleuro-pulmonaire
+T19	ANAT 301 318	pleuro-pulmonaire
+T20	DISO 339 390	tuméfaction du champ pulmonaire homolatérale gauche
+T21	ANAT 354 390	champ pulmonaire homolatérale gauche
+T22	Localization 371 390	homolatérale gauche
+T23	MEAS 402 417	progressivement
+T24	Concept_Idea 421 427	volume
+T25	ANAT 443 469	sinus hémi-cervical gauche
+T26	Localization 463 469	gauche
+T27	MEAS 491 503	environ 5 cm
+T28	Concept_Idea 507 516	grand axe
+T30	DOSE 552 559	10ml/kg
+T31	CHEM 563 574	sulfentanil
+T32	PROC 578 608	échographie abdomino-pelvienne
+T33	ANAT 590 608	abdomino-pelvienne
+T35	Localization 715 719	sous
+T36	Localization 754 765	bilatérales
+T37	MEAS 790 794	14cm
+T38	Concept_Idea 798 807	grand axe
+T39	ANAT 832 875	sinus hémidiaphragmatique supérieur central
+T40	Localization 868 875	central
+T41	ANAT 899 928	pièces vertébrales ovariennes
+T42	ANAT 963 993	membranes cervicales vaginales
+T43	PROC 998 1034	tomodensitométrie abdomino-pelvienne
+T44	ANAT 1016 1034	abdomino-pelvienne
+T46	Localization 1155 1158	sus
+T47	MEAS 1193 1209	supérieure à 3mm
+T48	DEVI 1275 1303	greffon graisseux artificiel

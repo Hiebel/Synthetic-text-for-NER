@@ -1,0 +1,33 @@
+T1	LIVB 16 24	patiente
+T2	DISO 52 64	pathologique
+T3	MEAS 65 76	particulier
+T4	PROC 78 84	Admise
+T5	Hospital 89 97	urgences
+T6	DISO 107 141	douleurs du membre inférieur droit
+T7	ANAT 119 141	membre inférieur droit
+T8	Localization 136 141	droit
+T9	TEMP 151 168	depuis deux jours
+T10	Concept_Idea 201 213	état général
+T11	DISO 220 234	amaigrissement
+T12	MEAS 245 249	17kg
+T13	TEMP 253 259	3 mois
+T14	PROC 263 278	examen clinique
+T15	DISO 308 332	syndrome polymalformatif
+T16	PHEN 338 359	bruits hydro-aériques
+T17	DEVI 388 400	télécommande
+T18	PROC 469 485	examen somatique
+T19	DISO 495 508	particularité
+T20	PROC 512 531	électrocardiogramme
+T21	DISO 556 576	trouble ventilatoire
+T22	DISO 583 597	trachéomalacie
+T23	PROC 602 630	saturation pulsée en oxygène
+T24	CHEM 623 630	oxygène
+T25	MEAS 644 646	5%
+T26	DOSE 652 687	20 milligrammes par centimètre cube
+T27	MEAS 706 722	2 litres /minute
+T28	PROC 751 776	néphrostomie exploratrice
+T29	MEAS 813 820	simples
+T30	PROC 826 851	réanimation préopératoire
+T31	TEMP 899 907	15 jours
+T32	PROC 924 934	traitement
+T33	DISO 942 971	récidive clinico-radiologique

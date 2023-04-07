@@ -1,0 +1,25 @@
+T1	LIVB 20 25	fille
+T2	TEMP 34 39	7 ans
+T3	Hospital 122 155	services spécialisés pédiatriques
+T4	LIVB 214 218	mère
+T5	PHEN 246 255	grossesse
+T6	Concept_Idea 266 274	histoire
+T7	LIVB 287 289	sa
+T8	LIVB 290 302	petite fille
+T9	PROC 319 345	consultation gynécologique
+T10	Concept_Idea 368 392	antécédents obstétricaux
+T11	PROC 414 424	diagnostic
+T12	LIVB 429 440	jeune fille
+T13	PROC 463 488	néphrectomie exploratrice
+T14	PROC 502 535	radio-chimiothérapie néoadjuvante
+T15	PROC 561 581	transfusion sanguine
+T16	PROC 604 619	soins maternels
+T17	PROC 639 664	préparatifs médicamenteux
+T18	LIVB 686 699	belle-famille
+T19	PROC 737 755	séjour hospitalier
+T20	Hospital 767 789	structure hospitalière
+T22	PROC 1043 1058	hospitalisation
+T23	DISO 1215 1235	récidive congénitale
+T24	Concept_Idea 1260 1277	concepts généraux
+T25	PROC 1301 1325	contrôle ophtalmologique
+T26	PROC 1349 1364	prise en charge

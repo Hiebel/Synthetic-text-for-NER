@@ -1,0 +1,53 @@
+T1	LIVB 4 9	femme
+T2	DISO 61 84	hypertension artérielle
+T3	ANAT 74 84	artérielle
+T4	CHEM 90 108	hydroxychloroquine
+T5	PROC 113 119	admise
+T6	Hospital 124 146	urgences chirurgicales
+T7	DISO 182 205	dyspnée aiguë sifflante
+T8	MEAS 220 231	progressive
+T9	DISO 249 282	œdème cutanéo-muqueux puruloureux
+T10	ANAT 307 336	muqueuses cervico-thoraciques
+T11	ANAT 356 372	muscles crâniens
+T12	DISO 398 453	lésions érythémato-pustuleuses prurigineuses papuleuses
+T13	ANAT 474 502	membre supérieur homolatéral
+T14	Localization 491 502	homolatéral
+T15	DISO 515 543	kératodermie palmococciforme
+T16	DISO 593 619	symptomatologie allergique
+T17	DISO 810 825	cranioméningées
+T18	LIVB 842 848	femmes
+T20	PROC 1040 1062	radiographies standard
+T21	DISO 1081 1135	luxation angulo-axoïdienne asymétrique latérale droite
+T22	DISO 1151 1239	hypotomie cervicale supérieure gauche sus claviculaire laryngectateuse pléométacarpienne
+T23	ANAT 1161 1239	cervicale supérieure gauche sus claviculaire laryngectateuse pléométacarpienne
+T25	DISO 1262 1313	paralysie ptérygo-laryngo-trachea utérine rehaussée
+T26	ANAT 1344 1372	tricusplexe thyro-carotidien
+T27	DISO 1413 1432	augmentée de taille
+T28	Concept_Idea 1426 1432	taille
+T29	MEAS 1496 1507	plus grande
+T30	Concept_Idea 1550 1558	contours
+T31	MEAS 1559 1568	réguliers
+T32	DISO 1651 1681	ostéophytose polylobée maligne
+T33	LIVB 1760 1764	Nous
+T34	PROC 1783 1819	tomodensitométrie abdomino-pélvienne
+T35	ANAT 1801 1819	abdomino-pélvienne
+T36	PROC 1837 1860	injection intraveineuse
+T37	DOSE 1864 1870	200 mg
+T38	CHEM 1874 1894	produit de contraste
+T39	DEVI 1923 1939	masse tissulaire
+T40	MEAS 1949 1953	17mm
+T41	Concept_Idea 1957 1966	grand axe
+T42	MEAS 1978 1995	significativement
+T43	Concept_Idea 1999 2005	volume
+T44	DOSE 2043 2052	0,5 litre
+T45	CHEM 2056 2076	produit de contraste
+T46	Concept_Idea 2105 2116	consistance
+T47	MEAS 2126 2136	hétérogène
+T48	DISO 2235 2261	lipome séreux hypertrophié
+T49	PROC 2310 2343	imagerie par résonance magnétique
+T50	PROC 2345 2348	IRM
+T51	DISO 2427 2534	processus graisseux des surrénales rétro-hypoglottiques cervico-thyro-surrénaliennes lympho-carcinomateuses
+T53	ANAT 2549 2585	ventricule piriforme supérieur droit
+T54	Localization 2580 2585	droit
+T55	TEMP 2602 2625	deux premières semaines
+T56	PROC 2628 2643	hospitalisation

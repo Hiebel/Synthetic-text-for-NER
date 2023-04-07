@@ -1,0 +1,54 @@
+T1	LIVB 16 27	jeune fille
+T2	TEMP 36 42	19 ans
+T3	PROC 53 58	reçue
+T4	Hospital 63 71	urgences
+T5	DISO 91 117	déshydratation métabolique
+T6	PROC 137 157	transfusion sanguine
+T7	PROC 174 192	traitement médical
+T8	CHEM 206 216	sufentanil
+T9	CHEM 224 249	neuroleptiques vasoactifs
+T10	MODE 255 273	voie intraveineuse
+T11	DOSE 276 291	200 µg/kg / min
+T12	DOSE 320 326	1mg/kg
+T13	DOSE 329 337	0,5µg/kg
+T14	DEVI 424 443	sonde transfixiante
+T15	PROC 447 476	prise en charge préopératoire
+T16	LIVB 598 604	enfant
+T17	PROC 618 653	intubation ventriculo-nasotrachéale
+T18	ANAT 629 653	ventriculo-nasotrachéale
+T19	DISO 685 713	convulsions tonico-cloniques
+T20	LIVB 746 762	tante paternelle
+T21	DISO 852 872	syndrome d'épilepsie
+T22	DISO 883 909	malformations congénitales
+T23	PROC 981 994	radiologiques
+T24	PROC 998 1009	chirurgical
+T25	PROC 1057 1076	diagnostic précoces
+T26	PROC 1339 1364	intervention chirurgicale
+T27	PROC 1383 1427	incision souscostale bilatérale exploratrice
+T29	Localization 1404 1427	bilatérale exploratrice
+T30	MEAS 1442 1456	plus difficile
+T31	ANAT 1515 1531	placenta utérins
+T32	PROC 1605 1623	ouverture monobloc
+T33	ANAT 1645 1665	membranes ovariennes
+T34	ANAT 1700 1712	intravaginal
+T35	Concept_Idea 1788 1794	taille
+T36	ANAT 1844 1862	cordons épiploïque
+T37	MEAS 1948 1960	1730 grammes
+T38	PROC 1999 2068	résection polymyomateuse gynécostomo-annexectomie du pédicule pélvien
+T39	ANAT 2052 2068	pédicule pélvien
+T40	PROC 2090 2115	scanner abdomino- pelvien
+T41	ANAT 2098 2115	abdomino- pelvien
+T42	PROC 2129 2138	injection
+T43	CHEM 2142 2162	produit de contraste
+T44	DOSE 2164 2172	0,5mg/kg
+T45	TEMP 2172 2180	/semaine
+T46	CHEM 2183 2197	oxetaméthasone
+T47	DISO 2238 2282	lésions tissulaires hypodenses hypo intenses
+T48	ANAT 2297 2303	utérus
+T49	MEAS 2313 2318	32 cm
+T50	Concept_Idea 2322 2331	grand axe
+T51	MODE 2347 2365	voie intraveineuse
+T52	PROC 2369 2396	examen anatomo-pathologique
+T53	DEVI 2403 2424	biopsie transfixiante
+T54	DISO 2455 2498	carcinome kystique hydatique lésionkystique
+T55	ANAT 2509 2518	ovarienne

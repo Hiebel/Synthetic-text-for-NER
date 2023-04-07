@@ -1,0 +1,24 @@
+T1	LIVB 28 35	patient
+T2	DISO 51 76	antécédents pathologiques
+T3	MEAS 77 85	notables
+T4	TEMP 105 109	2013
+T5	DISO 114 134	polyarthrite fébrile
+T6	MEAS 149 160	progressive
+T7	PROC 165 186	radiographie standard
+T8	PROC 192 222	échographie abdomino-pelvienne
+T9	ANAT 204 222	abdomino-pelvienne
+T10	DISO 240 267	épanchement intrapéritonéal
+T11	ANAT 252 267	intrapéritonéal
+T12	ANAT 281 295	grand épiploon
+T13	Concept_Idea 298 304	aspect
+T14	MEAS 305 313	homogène
+T15	MEAS 323 328	12 cm
+T16	MEAS 333 338	10 cm
+T17	PROC 342 367	intervention chirurgicale
+T18	PROC 388 412	anesthésie locorégionale
+T19	ANAT 399 412	locorégionale
+T20	CHEM 418 426	propofol
+T21	DOSE 428 437	0,5 mg/kg
+T22	DEVI 464 490	sonde oeso-gastroduodénale
+T23	ANAT 470 490	oeso-gastroduodénale
+T24	PHEN 521 539	suites opératoires

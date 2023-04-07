@@ -1,0 +1,68 @@
+T1	LIVB 15 25	nourrisson
+T2	TEMP 50 57	14 mois
+T3	DISO 87 96	dysphonie
+T4	DISO 104 128	troubles du comportement
+T5	PROC 132 147	examen clinique
+T6	PROC 152 161	admission
+T7	LIVB 172 178	enfant
+T8	MEAS 182 189	mauvais
+T9	Concept_Idea 190 202	état général
+T10	DISO 208 244	déficit neurologique sensitivomoteur
+T11	ANAT 248 260	conjonctives
+T12	DISO 270 275	signe
+T13	DISO 380 401	conséquences sociales
+T14	PROC 443 457	interrogatoire
+T15	DISO 486 505	contage tuberculeux
+T16	LIVB 514 524	nouveau-né
+T17	PHEN 724 745	grossesse monofoetale
+T18	TEMP 756 767	28 semaines
+T19	PROC 824 854	traitement médical substitutif
+T20	TEMP 888 898	5e semaine
+T21	PROC 921 955	prise en charge pluridisciplinaire
+T22	MEAS 1021 1028	simples
+T23	Concept_Idea 1036 1052	plan obstétrical
+T24	PROC 1128 1158	bilan biologique préopératoire
+T25	MEAS 1173 1179	normal
+T26	PROC 1199 1223	examens psychotechniques
+T27	PROC 1235 1278	saturation pulsé / décélération diastolique
+T28	MEAS 1290 1301	60 mmHg/m 2
+T29	Localization 1307 1313	droite
+T30	MEAS 1316 1322	70mmHg
+T31	MEAS 1339 1346	30 mmHg
+T32	PROC 1359 1387	réanimation cardiotoconduite
+T33	PROC 1401 1429	antibiothérapie probabiliste
+T34	PROC 1476 1502	anticoagulation préventive
+T35	CHEM 1508 1520	amoxicilline
+T36	CHEM 1523 1546	acide acétyle pyruvique
+T37	DOSE 1547 1552	25 mg
+T38	TEMP 1552 1557	/jour
+T39	PROC 1563 1587	laparotomie exploratrice
+T40	PROC 1633 1644	exploration
+T41	TEMP 1752 1760	13 jours
+T42	PROC 1895 1930	fibroscopie digestive scanno-guidée
+T43	Concept_Idea 1965 1985	caractère opératoire
+T44	PROC 2094 2125	annexectomie anténatale élargie
+T45	PROC 2305 2330	étude anatomopathologique
+T46	DISO 2346 2398	léiomyome pateyoblaste séreux tissulaire réactionnel
+T47	MEAS 2406 2413	pT2N0M+
+T48	MEAS 2423 2430	16×9 cm
+T49	ANAT 2591 2628	cellules cytoplasmiques métaphasiques
+T50	PROC 2726 2782	complément immunohistochimique IgG C activator DNA trial
+T51	DISO 3692 3734	kyste hydatique des bronches du sein droit
+T52	ANAT 3712 3734	bronches du sein droit
+T53	Localization 3729 3734	droit
+T54	DISO 3749 3776	chondrocalcinose diabétique
+T55	PHEN 3785 3808	pronostic thérapeutique
+T56	PROC 3843 3878	traitement chirurgical conservateur
+T57	DISO 3912 3932	récidive métabolique
+T58	LIVB 3952 3959	enfants
+T59	PROC 3970 3976	admise
+T60	Hospital 3981 4002	urgences pédiatriques
+T61	PROC 4069 4103	prise en charge multidisciplinaire
+T62	LIVB 4311 4318	parents
+T63	LIVB 4339 4347	patients
+T64	PROC 4470 4506	médications substitutives parentales
+T65	PROC 4551 4578	kinésithérapie orthopédique
+T66	PROC 4582 4621	thérapeutique cognitivo-comportementale
+T67	DISO 4687 4711	syndrome dysfonctionnels
+T68	DISO 4805 4838	myome pléomorphe épidural maligne

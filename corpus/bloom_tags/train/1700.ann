@@ -1,0 +1,30 @@
+T1	LIVB 29 37	patiente
+T2	DISO 72 117	méningoencephalopathie érythémato-néphritique
+T3	TEMP 127 140	depuis 6 mois
+T4	DISO 161 188	hyperparathyroïdie primaire
+T5	MODE 194 212	voie intraveineuse
+T6	CHEM 264 282	hydroxychloroquine
+T7	PROC 289 312	ponction sphinctérienne
+T8	ANAT 298 312	sphinctérienne
+T9	LIVB 334 342	patiente
+T10	MEAS 357 365	négative
+T11	PROC 380 408	tomodensitométrie thoracique
+T12	ANAT 398 408	thoracique
+T13	PROC 437 466	bilan phéochromo-œstradiérien
+T14	DISO 480 521	polyradiculonévrite fébrile polycloniquée
+T15	ANAT 550 559	pelvienne
+T16	PROC 577 595	traitement curatif
+T17	CHEM 617 628	méthoxifène
+T18	DOSE 630 636	400 mg
+T19	TEMP 636 638	/j
+T20	CHEM 641 652	Cyclosérine
+T21	DOSE 654 660	160 mg
+T22	TEMP 660 662	/j
+T23	CHEM 665 671	Vit B6
+T24	DOSE 673 679	800 mg
+T25	TEMP 679 681	/j
+T26	PROC 686 701	examen clinique
+T27	DISO 713 743	hypotonie faciale palmomotrice
+T28	ANAT 723 743	faciale palmomotrice
+T29	DISO 790 806	troubles visuels
+T30	DISO 861 870	symptômes

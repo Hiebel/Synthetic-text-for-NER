@@ -1,0 +1,22 @@
+T1	LIVB 4 9	femme
+T2	DISO 87 109	hyperthyroïdie maligne
+T3	PROC 114 127	diagnostiquée
+T4	PROC 138 144	admise
+T6	PROC 187 190	POP
+T7	DOSE 192 194	2g
+T8	MODE 210 215	bolus
+T9	DEVI 219 236	césufentanilateur
+T10	DISO 449 480	déficit moteur sensitivomotrice
+T11	TEMP 490 508	depuis trois jours
+T12	PROC 517 532	hospitalisation
+T13	DISO 590 614	conjonctivales visuelles
+T14	DISO 616 632	sueurs profondes
+T15	MEAS 645 654	12 000 ml
+T16	MEAS 667 674	brutale
+T17	PROC 740 775	investigations somatométérologiques
+T18	DISO 802 832	hypotrophie cyto-cytokinétique
+T19	PROC 849 879	TSH-stimulating globulinesémie
+T20	MEAS 897 915	18 fois la normale
+T21	PROC 920 944	interprétation génétique
+T22	DISO 951 988	pathognomonie hypochrome microcytaire
+T23	DISO 1005 1031	œstradiol hypoconditionnel

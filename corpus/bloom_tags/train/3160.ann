@@ -1,0 +1,47 @@
+T1	LIVB 30 38	patiente
+T2	DISO 74 99	douleur thoracique droite
+T3	ANAT 82 99	thoracique droite
+T4	Localization 93 99	droite
+T5	MEAS 114 120	rapide
+T6	TEMP 130 146	depuis 48 heures
+T7	PROC 152 161	admission
+T8	Hospital 165 180	bloc opératoire
+T9	DISO 200 221	détresse respiratoire
+T10	PHEN 209 221	respiratoire
+T11	DISO 236 250	amaigrissement
+T12	MEAS 261 265	20kg
+T13	Concept_Idea 278 292	particularités
+T14	DISO 310 327	troubles du pouls
+T15	PHEN 322 327	pouls
+T16	PROC 331 346	examen clinique
+T17	LIVB 360 368	patiente
+T18	Concept_Idea 383 401	plan hémodynamique
+T19	DISO 410 444	fibrillation auriculoventriculaire
+T20	ANAT 423 444	auriculoventriculaire
+T21	DISO 451 461	apyrétique
+T22	DISO 463 474	polypnéique
+T23	MEAS 477 490	28 cycles/min
+T24	DEVI 496 521	cathéter trans-thoracique
+T25	ANAT 505 521	trans-thoracique
+T26	MODE 536 541	bolus
+T27	DOSE 545 551	4mg/kg
+T28	CHEM 555 573	méthylprédnisolone
+T29	PROC 604 628	scanner abdomino-pelvien
+T30	ANAT 612 628	abdomino-pelvien
+T31	LIVB 652 660	patiente
+T33	ANAT 759 765	pelvis
+T34	MEAS 775 780	12 cm
+T35	Concept_Idea 784 793	grand axe
+T36	DISO 829 837	tumorale
+T37	PROC 935 944	injection
+T38	CHEM 948 968	produit de contraste
+T39	PROC 990 999	palpation
+T40	PROC 1049 1078	examen somatoprolactinergique
+T41	DISO 1100 1147	localisation pharyngo œsophagienne métastatique
+T42	PROC 1167 1213	ponction pleurale trans-bronchique péribuccale
+T43	ANAT 1176 1213	pleurale trans-bronchique péribuccale
+T44	PROC 1324 1354	bilan biologique préopératoire
+T45	PROC 1366 1383	normoglobulinémie
+T46	MEAS 1386 1391	2g/dl
+T47	PROC 1396 1413	natrémie corrigée
+T48	MEAS 1416 1425	133 meq/l

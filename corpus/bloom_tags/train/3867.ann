@@ -1,0 +1,31 @@
+T1	LIVB 20 25	fille
+T2	TEMP 29 35	10 ans
+T3	PHEN 37 57	grossesse gémellaire
+T4	PROC 62 68	suivie
+T5	DISO 84 102	maladie maternelle
+T6	DISO 128 148	anomalie congénitale
+T7	DISO 176 188	vomissements
+T8	TEMP 222 235	depuis 2 mois
+T9	Concept_Idea 271 283	état général
+T10	DISO 297 305	polypnée
+T11	MEAS 317 330	18 cycles/min
+T12	DISO 337 346	symptômes
+T13	MEAS 364 373	lentement
+T14	Concept_Idea 377 383	volume
+T15	LIVB 413 417	elle
+T16	DISO 448 488	syndrome d'épanchement liquidien laryngé
+T17	ANAT 471 488	liquidien laryngé
+T18	PROC 501 520	bilan préopératoire
+T19	DISO 546 559	particularité
+T20	LIVB 604 612	patiente
+T21	PROC 636 667	consultation médicale prénatale
+T22	DISO 688 709	distension abdominale
+T23	ANAT 699 709	abdominale
+T24	DISO 726 750	traumatisme hypertrophié
+T25	MEAS 760 763	2kg
+T26	MEAS 771 776	16 kg
+T27	PROC 863 894	investigations ophtalmologiques
+T28	DISO 918 943	adénocarcinome pléomorphe
+T29	PROC 1009 1016	biopsie
+T30	DISO 1051 1079	neuroendocrine mélanocytaire
+T31	DISO 1360 1396	localisations secondaires métatiques

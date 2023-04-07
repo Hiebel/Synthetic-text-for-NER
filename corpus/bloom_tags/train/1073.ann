@@ -1,0 +1,25 @@
+T1	LIVB 16 21	femme
+T2	DISO 55 77	hypothyroïdie primaire
+T3	DISO 91 116	hypopigmentation bulleuse
+T4	TEMP 126 138	depuis 5 ans
+T5	DISO 168 202	syndrome d’hypertension artérielle
+T6	ANAT 192 202	artérielle
+T7	MEAS 217 228	progressive
+T8	PROC 252 272	traitement palliatif
+T9	DISO 300 315	empyème pelvien
+T10	ANAT 308 315	pelvien
+T11	MEAS 325 333	3 litres
+T12	MEAS 341 346	13 kg
+T13	PROC 348 373	contrôlé radiologiquement
+T14	PROC 380 402	résection endoscopique
+T15	PROC 417 431	pris en charge
+T16	DISO 454 475	troubles métaboliques
+T17	DISO 479 503	anomalies morphologiques
+T18	DISO 532 555	retentissement viscéral
+T19	PROC 635 656	recherche étiologique
+T20	DISO 691 706	symptomatologie
+T21	DISO 868 932	maladie cardiopathie ischémique thromboembolique hypertrophiante
+T22	DISO 976 1000	hyperthyroïdie primitive
+T23	PROC 1010 1029	bilan préopératoire
+T24	PROC 1068 1085	kaliémie corrigée
+T25	MEAS 1088 1097	135 meq/l

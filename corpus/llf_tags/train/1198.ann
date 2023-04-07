@@ -1,0 +1,48 @@
+T1	PROC 3 20	bilan étiologique
+T2	PROC 36 49	TDM cérébrale
+T3	ANAT 40 49	cérébrale
+T4	PROC 54 79	scanner thoraco-abdominal
+T5	ANAT 62 79	thoraco-abdominal
+T6	PROC 94 137	radiographies de l'abdomen sans préparation
+T7	ANAT 113 120	abdomen
+T8	PROC 158 184	examen anatomopathologique
+T9	DISO 214 242	tumeur myxoïde du rein droit
+T10	ANAT 232 242	rein droit
+T11	Localization 237 242	droit
+T12	MEAS 252 261	14 x 8 cm
+T13	Concept_Idea 270 279	caractère
+T14	DISO 299 327	léiomyofibromatopéricardique
+T15	PROC 332 342	diagnostic
+T16	PHEN 363 385	suites postopératoires
+T17	MEAS 394 401	simples
+T18	LIVB 406 414	patiente
+T19	CHEM 430 447	immunosuppresseur
+T20	DOSE 460 467	5 mg/kg
+T21	TEMP 467 469	/j
+T22	MODE 473 486	préopératoire
+T23	PROC 507 526	traitement adjuvant
+T24	CHEM 531 560	amoxilline acide clavulanique
+T25	DOSE 562 568	200 mg
+T26	TEMP 568 570	/j
+T27	CHEM 573 589	antihypertenseur
+T28	CHEM 595 610	pénicilline B12
+T29	DOSE 612 618	100 mg
+T30	TEMP 618 620	/j
+T31	CHEM 625 638	métronidazole
+T32	DOSE 640 646	450 mg
+T33	TEMP 646 648	/j
+T34	PROC 655 683	chimiothérapie néo adjuvante
+T35	PROC 697 755	transfusion sanguine intraveineuse parentérale fractionnée
+T36	LIVB 797 807	nourrisson
+T37	TEMP 823 825	J2
+T38	TEMP 829 831	J3
+T39	PROC 845 864	suivi thérapeutique
+T40	LIVB 897 903	enfant
+T41	DISO 923 950	symptomatologie pédiatrique
+T42	LIVB 1037 1044	parents
+T43	LIVB 1085 1092	enfants
+T45	PROC 1279 1292	consanguinité
+T46	PROC 1395 1424	allaitement maternel exclusif
+T47	LIVB 1472 1479	garçons
+T48	PROC 1527 1556	maternité néonatale exclusive
+T49	PROC 1627 1651	laparotomie exploratrice

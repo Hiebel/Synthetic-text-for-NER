@@ -1,0 +1,28 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	PROC 46 51	admis
+T4	DISO 65 83	choc hypovolémique
+T5	PROC 102 126	anesthésie préopératoire
+T6	PROC 132 162	curage axillaire péristaltique
+T7	ANAT 139 162	axillaire péristaltique
+T8	DOSE 173 177	3 ml
+T9	CHEM 181 191	sufentanil
+T10	DOSE 194 202	10 µg/kg
+T11	CHEM 206 217	tuberculine
+T12	PROC 223 249	pression artérielle pulsée
+T13	ANAT 232 249	artérielle pulsée
+T14	MEAS 267 275	0,4 mbar
+T15	DEVI 335 390	ventricardio-gastroduodéno pancréatectomie biphoracique
+T16	PROC 394 419	fibroscopie nasogastrique
+T17	ANAT 406 419	nasogastrique
+T18	DISO 438 461	lésions carcinomateuses
+T19	DISO 474 499	localisations secondaires
+T20	DISO 527 551	métastases angiomateuses
+T21	LIVB 563 568	fille
+T22	TEMP 577 583	12 ans
+T23	MEAS 592 599	T4bN0M0
+T24	PROC 647 672	scanner abdomino- pelvien
+T25	ANAT 655 672	abdomino- pelvien
+T26	PROC 685 722	angioscanner thoraco-abdomino-pelvien
+T27	ANAT 698 722	thoraco-abdomino-pelvien
+T28	PROC 781 806	étude immunohistochimique

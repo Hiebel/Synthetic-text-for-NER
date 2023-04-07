@@ -1,0 +1,14 @@
+T1	LIVB 28 35	patient
+T2	DISO 69 103	méningo-vascularisation purpurique
+T3	DISO 121 141	hyperthermie fébrile
+T4	ANAT 155 172	muqueuses nasales
+T5	ANAT 174 194	jugulo-carotidiennes
+T6	ANAT 200 217	oreillette droite
+T7	Localization 211 217	droite
+T8	LIVB 239 246	patient
+T9	DISO 261 268	malgées
+T10	DEVI 294 326	sonde nasofibroscope ventilateur
+T12	DISO 354 361	lésions
+T13	PROC 430 450	prise médicamenteuse
+T14	PROC 457 484	stabilisation hémodynamique
+T15	DISO 498 518	détresse métabolique

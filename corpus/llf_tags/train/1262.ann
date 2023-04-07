@@ -1,0 +1,88 @@
+T1	LIVB 0 3	son
+T2	PROC 4 13	admission
+T3	Hospital 17 32	bloc opératoire
+T4	DISO 54 72	rupture de varices
+T5	LIVB 92 100	patiente
+T6	PROC 121 145	anticoagulation curative
+T7	PROC 154 173	traitement adjuvant
+T8	CHEM 184 196	sulfadiazine
+T9	DOSE 198 204	100 mg
+T10	TEMP 204 206	/j
+T11	MODE 212 230	voie intraveineuse
+T12	Concept_Idea 264 284	chiffres tensionnels
+T13	TEMP 309 315	3 mois
+T14	PROC 320 345	scanner thoraco-abdominal
+T15	ANAT 328 345	thoraco-abdominal
+T16	DISO 366 414	lésion polypoïde hypoachromique hypermétabolique
+T17	ANAT 433 456	paroi thoracique droite
+T18	Localization 450 456	droite
+T19	MEAS 466 470	5 cm
+T20	Concept_Idea 474 483	grand axe
+T21	DISO 489 501	adénomégalie
+T22	DISO 505 519	calcifications
+T23	DISO 532 563	processus anévrysmal hétérogène
+T24	MEAS 572 576	4 cm
+T25	Concept_Idea 580 589	grand axe
+T26	ANAT 641 683	vaisseaux mésentériques supérieure droites
+T27	Localization 676 683	droites
+T28	ANAT 702 705	VBP
+T29	ANAT 745 794	bifurcation jugulo-pulmonaires cervico-céphalique
+T30	ANAT 804 843	muscles ptérygoïdiens supérieur gauches
+T31	Localization 836 843	gauches
+T32	PROC 890 915	étude immunohistochimique
+T33	PROC 1009 1038	prise en charge thérapeutique
+T34	PROC 1058 1091	antibioprophylaxie antipaludéenne
+T35	PROC 1117 1149	néphrectomie totale exploratrice
+T36	PROC 1165 1191	corticothérapie anténatale
+T37	CHEM 1197 1228	amoxicilline acide clavulanique
+T38	PROC 1232 1258	examen anatomopathologique
+T39	DISO 1284 1347	remaniements néoplasiques kystiques tissulaires éosinophiliques
+T40	LIVB 1486 1502	bactériologistes
+T41	PROC 1525 1539	investigations
+T42	PHEN 1544 1561	fonctions vitales
+T43	MEAS 1582 1590	normales
+T44	DEVI 1620 1628	appareil
+T45	PROC 1658 1671	neuroleptique
+T46	DISO 1695 1715	symptômes infectieux
+T47	PROC 1764 1782	immunofluorescent®
+T48	PROC 1787 1804	geste chirurgical
+T49	DISO 1923 1946	angiosarcome nécrotique
+T50	PROC 2020 2053	traitement palliatif conservateur
+T51	PROC 2141 2180	rééducation fonctionnelle préopératoire
+T52	MEAS 2227 2234	correct
+T53	DISO 2283 2314	détresse respiratoire chronique
+T54	DISO 2354 2372	infections virales
+T55	DISO 2447 2473	signes neuropsychiatriques
+T56	DOSE 3224 3229	25 mg
+T57	TEMP 3229 3231	/j
+T58	Concept_Idea 3251 3256	repos
+T59	ANAT 3261 3275	nerfs crâniens
+T60	ANAT 3280 3296	plan sous cutané
+T61	LIVB 3307 3313	enfant
+T62	TEMP 3321 3327	6 mois
+T63	PROC 3350 3361	hospitalisé
+T64	Hospital 3366 3394	soins intensifs pédiatriques
+T65	DISO 3406 3425	choc anaphylactique
+T66	PROC 3479 3501	contrôle échographique
+T67	DISO 3559 3585	tumeur germinale polylobée
+T68	ANAT 3603 3646	bifurcation inférieur inférieure fovéolaire
+T69	Localization 3625 3635	inférieure
+T70	ANAT 3668 3689	paroi postéro-externe
+T71	ANAT 3725 3769	parties molles cervicales supérieure droites
+T72	Localization 3762 3769	droites
+T73	ANAT 3808 3819	rein gauche
+T74	Localization 3813 3819	gauche
+T75	Concept_Idea 3840 3864	circonférence anténatale
+T76	MEAS 3913 3917	13cm
+T77	MEAS 3997 4001	5 cm
+T78	Localization 4049 4068	bilatéral supérieur
+T79	MEAS 4096 4101	16 mm
+T80	MEAS 4119 4125	T2N3M0
+T81	DISO 4142 4178	déficit sensitivomoteur périphérique
+T82	DISO 4185 4216	lésion tissulaire ostéoméningée
+T83	DISO 4243 4270	niveaux hydrothérapeutiques
+T84	DISO 4277 4304	calcification intrakystique
+T85	PROC 4310 4331	biopsie scanno-guidée
+T86	PROC 4357 4382	étude immunohistochimique
+T87	DISO 4413 4466	processus lésionnel tumoral éosinophile carcinomateux
+T88	MEAS 4530 4543	stade III KIa

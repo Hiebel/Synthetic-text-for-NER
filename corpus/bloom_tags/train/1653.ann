@@ -1,0 +1,15 @@
+T1	LIVB 29 34	femme
+T2	DISO 67 79	hyperthermie
+T3	TEMP 107 123	depuis deux mois
+T4	DISO 143 160	dyspnée sifflante
+T5	DISO 162 181	insuffisance rénale
+T6	ANAT 175 181	rénale
+T7	DISO 185 208	hypertension artérielle
+T8	ANAT 198 208	artérielle
+T9	DISO 243 263	détresse métabolique
+T10	CHEM 313 347	amoxicilline/acide ac clavulanique
+T11	CHEM 326 347	acide ac clavulanique
+T12	MODE 370 380	voie orale
+T13	CHEM 384 394	furosémide
+T14	PROC 446 480	ponction liquide céphalo-rachidien
+T15	ANAT 455 480	liquide céphalo-rachidien

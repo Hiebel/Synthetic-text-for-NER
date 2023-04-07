@@ -1,0 +1,38 @@
+T1	LIVB 19 26	patient
+T2	DISO 73 96	hypertension artérielle
+T3	ANAT 86 96	artérielle
+T4	DISO 103 122	tabagisme chronique
+T5	PROC 127 144	tomodensitométrie
+T7	TEMP 154 164	24/08/2017
+T8	Concept_Idea 178 181	âge
+T9	TEMP 185 191	21 ans
+T10	MEAS 205 214	multiples
+T11	DISO 215 241	micro-nodules bourgeonnant
+T12	MEAS 252 256	2 cm
+T13	Concept_Idea 260 269	grand axe
+T14	DISO 275 286	adénopathie
+T15	DISO 290 315	remaniement inflammatoire
+T16	DISO 355 382	pancréatite aigue stade EBP
+T17	DISO 404 428	symptomatologie clinique
+T18	PHEN 477 495	mariage consanguin
+T19	PROC 519 543	échographie obstétricale
+T20	PROC 544 548	ETTU
+T21	LIVB 568 575	patient
+T22	Concept_Idea 603 629	caractéristiques cliniques
+T23	PROC 637 658	enquête préopératoire
+T24	PROC 732 747	prise en charge
+T25	PROC 751 776	étude immunohistochimique
+T26	Hospital 787 822	urgences chirurgicales pédiatriques
+T27	DEVI 840 848	prothèse
+T28	CHEM 908 951	immunoglobulines polyvalentes intraveineuse
+T29	PROC 1002 1029	hémicolectomie exploratrice
+T30	PROC 1035 1058	annexectomie bilatérale
+T31	Localization 1048 1058	bilatérale
+T32	PROC 1095 1125	cholécystectomie longitudinale
+T33	Localization 1112 1125	longitudinale
+T34	ANAT 1145 1176	paroi gastroduodénale digestive
+T35	ANAT 1198 1263	parties molles cervicothoracique distales rénales crico-trachéale
+T36	PROC 1270 1315	anastomose termino-guidée scapula segmentaire
+T37	MEAS 1389 1396	simples
+T38	MEAS 1402 1403	1
+T39	LIVB 1404 1410	Vitali

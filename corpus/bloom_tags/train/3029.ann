@@ -1,0 +1,29 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 66	antécédents pathologiques
+T3	MEAS 67 75	notables
+T4	PROC 77 83	admise
+T5	Hospital 88 110	urgences chirurgicales
+T6	DISO 120 145	vomissements alimentaires
+T7	DISO 153 161	anorexie
+T8	PROC 178 193	examen clinique
+T9	PROC 198 207	admission
+T10	LIVB 221 229	patiente
+T11	MEAS 233 236	bon
+T12	Concept_Idea 237 249	état général
+T13	ANAT 258 265	abdomen
+T14	MEAS 266 274	sensible
+T15	ANAT 288 308	lobe supérieur droit
+T16	Localization 303 308	droit
+T17	PROC 312 342	auscultation cardio-vasculaire
+T18	ANAT 325 342	cardio-vasculaire
+T19	MEAS 349 356	normale
+T20	PROC 371 399	palpation abdomino-pelvienne
+T21	ANAT 381 399	abdomino-pelvienne
+T22	PHEN 417 437	grossesse gémellaire
+T23	DISO 466 506	anémie normochrome hypochrome ferriprive
+T24	CHEM 508 520	ferritinurie
+T25	PROC 527 558	échographie abdomino- pelvienne
+T26	ANAT 539 558	abdomino- pelvienne
+T27	DEVI 578 602	scanner abdomino-pelvien
+T28	ANAT 586 602	abdomino-pelvien
+T29	DISO 634 659	localisations secondaires

@@ -1,0 +1,36 @@
+T1	LIVB 22 30	patiente
+T2	DISO 111 128	dyspnée sifflante
+T3	MEAS 143 165	rapidement progressive
+T4	TEMP 175 192	depuis deux jours
+T5	PHEN 219 233	amaigrissement
+T6	MEAS 244 248	12kg
+T7	PROC 252 268	examen somatique
+T8	DISO 285 323	défense basithoracique latérale droite
+T9	ANAT 293 323	basithoracique latérale droite
+T10	Localization 317 323	droite
+T11	MEAS 335 354	de façonprogressive
+T12	Concept_Idea 358 364	volume
+T13	DISO 369 380	douloureuse
+T14	MEAS 390 402	environ 5 cm
+T15	Concept_Idea 406 415	grand axe
+T16	ANAT 446 469	hémi claviculaire droit
+T17	Localization 464 469	droit
+T18	ANAT 486 509	surrénaliennes iliaques
+T19	ANAT 527 570	champ pulmonaire thoracique inférieur droit
+T20	Localization 565 570	droit
+T21	LIVB 600 608	patiente
+T22	PROC 655 681	scanner abdomino-pelvienne
+T23	ANAT 663 681	abdomino-pelvienne
+T24	PROC 694 715	échographie pelvienne
+T25	ANAT 706 715	pelvienne
+T26	Hospital 737 759	urgences chirurgicales
+T27	PROC 777 786	recherche
+T28	PROC 791 831	résection transpharyngo-laryngopharyngée
+T29	PROC 837 861	anesthésie locorégionale
+T30	ANAT 848 861	locorégionale
+T31	DEVI 881 891	cathéteres
+T32	DISO 987 1009	souffrance péritonéale
+T33	PROC 1138 1163	étude immunohistochimique
+T34	DISO 1184 1192	récidive
+T35	DISO 1199 1224	localisation métastatique
+T36	DISO 1256 1266	métastases

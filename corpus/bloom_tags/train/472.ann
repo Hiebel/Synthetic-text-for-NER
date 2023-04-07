@@ -1,0 +1,57 @@
+T1	LIVB 28 35	patient
+T2	TEMP 68 72	2009
+T3	DISO 77 109	cholécystite chronique purulente
+T5	ANAT 133 141	grêlique
+T6	DISO 159 184	néphropathie hypertensive
+T7	CHEM 207 227	acétylhydrocortisone
+T8	LIVB 263 269	enfant
+T9	PHEN 314 338	grossesse mono-cervicale
+T10	PROC 408 426	traitement curatif
+T11	DISO 464 492	prise médicamenteuse maligne
+T12	DISO 499 519	syndrome néphrotique
+T13	DISO 533 554	détresse respiratoire
+T14	PHEN 542 554	respiratoire
+T15	MEAS 566 583	10 000 cycles/min
+T16	DISO 599 614	symptomatologie
+T17	TEMP 625 632	2 jours
+T18	LIVB 639 641	sa
+T19	PROC 642 654	consultation
+T20	MEAS 694 701	brutale
+T21	MEAS 715 729	plus accentuée
+T22	MEAS 743 766	spontanément résolutive
+T23	MEAS 779 792	satisfaisante
+T24	DISO 888 899	traumatique
+T25	DISO 987 1012	atteinte vasculo-nerveuse
+T26	ANAT 996 1012	vasculo-nerveuse
+T27	DISO 1019 1046	malignité tumorale cœliaque
+T28	DISO 1060 1092	surdité congénitale bilbilitaire
+T29	DISO 1119 1131	pathogênique
+T30	DISO 1188 1216	troubles neuropsychiatriques
+T31	PROC 1285 1294	pronostic
+T32	PROC 1319 1342	diagnostic différentiel
+T33	MODE 1541 1554	intraveineuse
+T34	PROC 1561 1582	échographie pelvienne
+T35	ANAT 1573 1582	pelvienne
+T36	DISO 1606 1629	localisations anormales
+T37	ANAT 1708 1734	endovestibulaire cervicale
+T38	DISO 1856 1862	tumeur
+T39	ANAT 1884 1909	parties molles abdominaux
+T40	ANAT 1936 1975	intra-parenchymateux péri-pancréatiques
+T41	DISO 2087 2110	résidu tumoral kystique
+T42	MEAS 2120 2123	5cm
+T43	Concept_Idea 2127 2136	grand axe
+T44	ANAT 2168 2194	paroi grêlique intestinale
+T45	Localization 2352 2375	partie postéro-latérale
+T46	ANAT 2382 2409	masse rétro-gastroduodénale
+T47	MEAS 2421 2436	progressivement
+T48	Concept_Idea 2440 2446	taille
+T49	ANAT 2488 2495	graisse
+T50	LIVB 2500 2508	patiente
+T51	PROC 2527 2544	curage péritonéal
+T52	ANAT 2534 2544	péritonéal
+T53	PROC 2559 2584	chimiothérapie palliative
+T54	CHEM 2590 2601	Cevacizumab
+T55	DOSE 2603 2609	1mg/kg
+T56	TEMP 2609 2614	/jour
+T57	MODE 2618 2624	per os
+T58	TEMP 2643 2649	2 mois

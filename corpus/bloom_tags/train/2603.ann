@@ -1,0 +1,25 @@
+T1	LIVB 4 12	patiente
+T2	DISO 34 58	antécédents pathologique
+T3	MEAS 59 67	notables
+T4	PROC 69 75	admise
+T5	Hospital 80 88	urgences
+T6	DISO 98 138	douleurs épigastriques aiguës chroniques
+T7	ANAT 107 120	épigastriques
+T8	TEMP 148 161	depuis 2 mois
+T9	PROC 165 180	examen clinique
+T10	PROC 185 194	admission
+T11	LIVB 208 216	patiente
+T12	MEAS 220 223	bon
+T13	Concept_Idea 224 236	état général
+T14	Concept_Idea 254 272	plan hémodynamique
+T15	PHEN 276 288	respiratoire
+T16	PROC 293 312	pression artérielle
+T17	ANAT 302 312	artérielle
+T18	MEAS 321 332	100/60 mmHg
+T19	DEVI 341 356	poignet plâtrée
+T20	MEAS 397 404	brutale
+T21	PROC 437 461	scanner abdomino-pelvien
+T22	ANAT 445 461	abdomino-pelvien
+T23	PROC 463 466	SPA
+T24	DISO 499 569	masse tissulaire du péritoine latéro-utérin péristaltique hypovoluminé
+T26	DISO 585 640	thrombose intra-myometriale péristaltique hypohaémiante

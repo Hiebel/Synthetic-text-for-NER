@@ -1,0 +1,26 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	Concept_Idea 38 63	antécédents pathologiques
+T4	MEAS 64 76	particuliers
+T5	PROC 78 83	admis
+T6	Hospital 88 96	urgences
+T7	DISO 106 129	douleur pelvienne aiguë
+T8	ANAT 114 123	pelvienne
+T9	DISO 145 151	sueurs
+T10	PROC 156 173	bilan d'extension
+T11	MEAS 204 211	négatif
+T12	PROC 217 226	admission
+T13	Hospital 230 245	bloc opératoire
+T14	LIVB 249 256	patient
+T15	DISO 271 304	syndrome d'épanchement péritonéal
+T16	ANAT 294 304	péritonéal
+T17	TEMP 314 327	depuis 6 mois
+T18	DISO 343 354	dénutrition
+T19	MEAS 366 370	3 kg
+T20	TEMP 374 379	un an
+T21	LIVB 381 383	Il
+T22	PROC 406 451	hémicolectomie totale du parenchyme hépatique
+T23	Localization 421 427	totale
+T24	ANAT 431 451	parenchyme hépatique
+T25	PROC 457 497	cœlioscopie digestive transoesophagienne
+T26	PROC 499 503	ETTO

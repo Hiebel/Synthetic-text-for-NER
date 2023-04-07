@@ -1,0 +1,64 @@
+T1	LIVB 14 24	nouveau-né
+T2	TEMP 32 38	6 mois
+T3	PHEN 51 60	grossesse
+T4	Concept_Idea 93 98	poids
+T5	MEAS 102 106	2 Kg
+T6	PROC 110 125	examen clinique
+T7	DISO 137 142	masse
+T8	ANAT 156 167	coude droit
+T9	Localization 162 167	droit
+T10	MEAS 179 194	progressivement
+T11	Concept_Idea 198 209	consistance
+T12	DISO 215 222	douleur
+T13	DISO 226 250	trouble de la conscience
+T14	PROC 265 279	interrogatoire
+T15	LIVB 284 294	nouveau-né
+T16	DEVI 359 368	tablettes
+T17	DISO 411 422	traumatisme
+T18	DISO 432 459	facteur de risque familiale
+T19	PROC 476 500	échographie obstétricale
+T20	DISO 530 629	adénocarcinome épidermoïde infiltrant les voies biliaires intracervicales parenchymateuses distales
+T21	ANAT 572 629	voies biliaires intracervicales parenchymateuses distales
+T22	PROC 642 652	diagnostic
+T23	DISO 677 819	neurofibrome kystique néoplasique monophasique maligne anaplasique réactionnel aux dépens du tendon rotulien cervicothoracique antero-extensif
+T24	ANAT 770 819	tendon rotulien cervicothoracique antero-extensif
+T25	MEAS 834 839	25 cm
+T26	Concept_Idea 843 852	grand axe
+T27	MEAS 862 866	5 cm
+T28	Concept_Idea 870 879	petit axe
+T29	PROC 884 905	biopsie scanno-guidée
+T30	DISO 922 928	nodule
+T31	PROC 951 984	hystérectomie totale exploratrice
+T32	PROC 998 1072	laparotomie percutanéphrine postéro-latéro lombo-aortico-duodénale élargie
+T33	PROC 1079 1114	reconstruction anatomopathologiaque
+T34	PROC 1120 1163	anastomose bifurcationnelle endobuccalienne
+T35	ANAT 1131 1163	bifurcationnelle endobuccalienne
+T36	ANAT 1182 1205	pédicule gastroduodénal
+T37	ANAT 1227 1276	membranes digestives mésentériques superficielles
+T38	MEAS 1313 1320	simples
+T39	PROC 1326 1347	contrôle radiologique
+T40	DISO 1372 1434	récidive tumorale mucineuse tissulaire péritonéale congénitale
+T41	ANAT 1453 1477	paroi abdominale rectale
+T42	DISO 1511 1529	signe histologique
+T43	DISO 1555 1592	remaniements lésionnels hémorragiques
+T44	PROC 1607 1641	radiothérapie palliative adjuvante
+T46	DISO 1727 1767	prolifération carcinomateuse récidivante
+T47	ANAT 1787 1802	bulbes pectinés
+T48	ANAT 1825 1838	tissu pelvien
+T49	ANAT 1860 1876	pièce céphalique
+T50	PROC 1889 1896	réséqué
+T51	Concept_Idea 2072 2098	aspect immunohistochimique
+T52	PROC 2144 2178	radio-chimiothérapie néo adjuvante
+T53	LIVB 2217 2223	sujets
+T54	PROC 2247 2271	prise en charge curative
+T55	PROC 2329 2351	kinésithérapie motrice
+T56	DOSE 2377 2388	1 gramme/kg
+T57	TEMP 2388 2393	/jour
+T58	CHEM 2396 2406	adrénaline
+T59	CHEM 2408 2435	antiagrégants plaquettaires
+T60	PROC 2457 2481	hémodialyse substitutive
+T61	Concept_Idea 3004 3028	principes thérapeutiques
+T62	Hospital 3032 3071	Clinical General Hospital of Yerewshire
+T63	PHEN 3084 3102	suites opératoires
+T64	MEAS 3111 3118	simples
+T65	TEMP 3136 3142	2 mois

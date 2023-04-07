@@ -1,0 +1,83 @@
+T1	LIVB 20 28	patiente
+T2	DISO 45 70	antécédents pathologiques
+T3	MEAS 71 83	particuliers
+T4	PROC 85 91	admise
+T5	Hospital 96 104	urgences
+T6	DISO 114 146	douleur abdomino-pelvienne aiguë
+T7	ANAT 122 140	abdomino-pelvienne
+T8	DISO 157 170	fausse couche
+T9	DISO 187 202	symptomatologie
+T10	TEMP 213 220	un mois
+T11	PROC 229 238	admission
+T12	DISO 269 302	syndrome d'épanchement péritonéal
+T13	ANAT 292 302	péritonéal
+T14	DISO 331 345	amaigrissement
+T15	PROC 361 376	examen clinique
+T16	LIVB 390 398	patiente
+T17	MEAS 402 405	bon
+T18	PHEN 406 432	développement psychomoteur
+T19	Concept_Idea 442 462	chiffres tensionnels
+T20	MEAS 476 488	140/100 mmhg
+T21	ANAT 502 524	membre supérieur droit
+T22	Localization 519 524	droit
+T23	ANAT 553 562	artériels
+T24	PROC 596 628	examen gynécologique obstétrical
+T25	PROC 630 634	ECOG
+T26	LIVB 657 661	Elle
+T27	CHEM 684 695	bupivacaine
+T28	DOSE 697 706	0,5 mg/m²
+T29	CHEM 708 717	lidocaïne
+T30	DOSE 719 726	2 µg/kg
+T31	CHEM 729 737	propofol
+T32	DOSE 740 747	1 mg/kg
+T33	CHEM 750 760	sufentanil
+T34	DOSE 763 770	4 µg/kg
+T35	PROC 777 801	laparotomie exploratrice
+T36	PROC 823 848	anesthésie pré-opératoire
+T37	DISO 869 906	masse tissulaire péritonéale arrondie
+T38	MEAS 915 920	15 cm
+T39	MEAS 925 930	12 cm
+T40	MEAS 940 943	3cm
+T41	Concept_Idea 947 956	grand axe
+T42	DISO 972 994	épanchement péritonéal
+T43	ANAT 984 994	péritonéal
+T44	MEAS 1004 1013	20 litres
+T45	DEVI 1045 1056	sonde nylon
+T46	DEVI 1066 1081	médiastinotrope
+T47	DEVI 1091 1134	cathéter veineux intrarachidiien transfixié
+T48	ANAT 1100 1123	veineux intrarachidiien
+T49	PROC 1138 1163	scanner abdomino- pelvien
+T50	ANAT 1146 1163	abdomino- pelvien
+T52	ANAT 1321 1341	fosse iliaque droite
+T53	Localization 1335 1341	droite
+T54	ANAT 1362 1384	paroi utérine vaginale
+T55	MEAS 1396 1411	progressivement
+T56	Concept_Idea 1415 1421	taille
+T57	DISO 1443 1512	opacités intra-parenchymateuses ovariennes hyper intenses hétérogènes
+T59	ANAT 1542 1558	volvés urinaires
+T60	DISO 1572 1634	thrombose interstitielle pariétale basithoracique scannoguidée
+T62	LIVB 1661 1669	patiente
+T63	DISO 1674 1693	tumeur vascularisée
+T64	MEAS 1702 1708	T3N0M0
+T65	PROC 1762 1783	échographie pelvienne
+T66	ANAT 1774 1783	pelvienne
+T67	MEAS 1799 1806	normale
+T68	DISO 1847 1873	localisations néoplasiques
+T69	DISO 1901 1918	kystes hydatiques
+T70	ANAT 1933 1943	col utérin
+T71	MODE 1974 1990	intrapéritonéale
+T72	PROC 2007 2025	immuno-hypersignal
+T73	PROC 2164 2179	biopsie cutanée
+T74	DISO 2186 2200	masse tumorale
+T75	DISO 2216 2248	neurofibrome éosinophile tumoral
+T76	ANAT 2288 2298	pulmonaire
+T77	ANAT 2302 2314	endovaginale
+T78	DISO 2362 2383	récidive métastatique
+T79	DISO 2469 2512	méningothéliome épithélio-gigantocellulaire
+T80	ANAT 2523 2551	craniopharyngo-laryngognitif
+T81	PROC 2638 2661	radiothérapie adjuvante
+T82	DOSE 2663 2668	50 Gy
+T83	TEMP 2670 2684	pendant 6 mois
+T84	PROC 2698 2722	curiethérapie palliative
+T85	PHEN 2746 2764	suites opératoires
+T86	MEAS 2770 2777	simples

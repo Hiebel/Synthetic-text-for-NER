@@ -1,0 +1,17 @@
+T1	LIVB 4 9	femme
+T2	TEMP 70 83	il y a 15 ans
+T3	DISO 104 139	diabète gestationnel chronique aigu
+T4	DISO 151 184	hypogammaglobulinémie congénitale
+T5	TEMP 199 209	2000 jours
+T6	PROC 219 243	consultation pédiatrique
+T7	PROC 265 281	geste médicalisé
+T8	PROC 310 332	contrôle échographique
+T9	PROC 343 375	chimiothérapie substitutionnelle
+T10	PHEN 392 401	grossesse
+T11	PROC 416 439	accouchement gémellaire
+T12	PROC 444 454	administré
+T13	PROC 466 482	acte chirurgical
+T14	PROC 508 538	schéma thérapeutique familiale
+T15	PROC 602 608	suivie
+T16	PROC 701 725	exploration chirurgicale
+T19	Localization 955 965	antérieure

@@ -1,0 +1,117 @@
+T1	PROC 3 25	examens de laboratoire
+T2	DISO 41 57	hyperleucocytose
+T3	MEAS 60 93	1700 éléments par millimètre cube
+T4	Concept_Idea 102 128	indice de masse corporelle
+T5	MEAS 131 140	23 kg/m 2
+T6	PROC 145 162	tomodensitométrie
+T7	PROC 164 178	TDM) cérébrale
+T8	ANAT 169 178	cérébrale
+T9	DISO 214 258	processus tissulaire du lobe supérieur droit
+T10	ANAT 238 258	lobe supérieur droit
+T11	Localization 253 258	droit
+T12	MEAS 267 280	4 centimètres
+T13	Concept_Idea 284 293	grand axe
+T14	MEAS 306 321	3,5 centimètres
+T15	Concept_Idea 325 335	 petit axe
+T16	PROC 340 359	bilan immunologique
+T17	MEAS 366 373	négatif
+T18	PROC 386 403	immunohistochimie
+T19	LIVB 449 457	médecins
+T20	PROC 474 503	investigations préopératoires
+T21	MEAS 540 547	simples
+T22	DISO 553 574	récidive pathologique
+T23	DISO 614 646	cholécystite chronique terminale
+T24	DISO 664 694	maladie cœliaque inflammatoire
+T25	DISO 712 732	hypertriglycéridémie
+T26	TEMP 765 780	Quelques heures
+T27	PROC 808 815	adressé
+T28	Hospital 820 841	urgences pédiatriques
+T29	PROC 847 875	prise en charge chirurgicale
+T30	LIVB 895 905	nourrisson
+T31	DISO 910 924	tumeur maligne
+T32	ANAT 943 969	paupière supérieure gauche
+T33	Localization 963 969	gauche
+T34	MEAS 982 987	15 cm
+T35	ANAT 1004 1027	fente palpébrale droite
+T36	Localization 1021 1027	droite
+T37	ANAT 1059 1083	nerf fémoral homolatéral
+T38	Localization 1072 1083	homolatéral
+T39	ANAT 1095 1135	paroi thoracique termino-latérale gauche
+T40	Localization 1112 1135	termino-latérale gauche
+T41	DISO 1143 1154	perforation
+T42	MEAS 1164 1169	60 mm
+T43	Concept_Idea 1173 1182	grand axe
+T44	DISO 1227 1275	remaniements cutanéomuqueux érythémato-squameuse
+T45	DISO 1282 1289	lésions
+T46	ANAT 1328 1363	troncs supra-épiploi͏̈claviculaires
+T47	MEAS 1400 1408	2 mètres
+T48	Concept_Idea 1412 1421	petit axe
+T49	DISO 1464 1485	tuberculose primitive
+T50	PROC 1491 1516	néphrectomie exploratrice
+T51	PROC 1522 1558	traction scanno-guidée échographique
+T52	Localization 1651 1662	bilatérales
+T53	DISO 1690 1732	lymphome épidermoïde anaplasique polypoïde
+T54	MEAS 1740 1749	grade III
+T55	CHEM 1780 1797	Ethoméloïdexacine
+T56	PROC 1802 1836	examen cytobactériologique général
+T57	PHEN 1850 1870	grossesse gémellaire
+T58	TEMP 1874 1885	10 semaines
+T59	TEMP 1894 1905	21 semaines
+T60	DISO 1936 1964	symptomatologie obstétricale
+T61	DISO 1980 2008	cardiomyopathie hypertensive
+T62	DISO 2014 2041	méningo-encéphalite ulcérée
+T63	TEMP 2073 2086	depuis 6 mois
+T64	Concept_Idea 2117 2129	état général
+T65	DISO 2151 2157	fièvre
+T66	MEAS 2169 2174	38 °C
+T67	DISO 2189 2206	cyanose urétérale
+T68	DISO 2227 2259	crise convulsive polymicrobienne
+T69	DISO 2267 2292	gynécomastie hétérozygote
+T70	PROC 2298 2309	échographie
+T71	DISO 2317 2339	anomalie morphologique
+T72	DISO 2390 2410	niveau hydrocéphalie
+T73	DISO 2417 2438	syndrome interstitiel
+T74	DISO 2453 2471	maladies associées
+T76	Concept_Idea 2624 2639	aspect clinique
+T77	DISO 2656 2696	neurofibromatose dégénérative stade EMDR
+T78	DISO 2715 2754	dégénérescence neurotrophique du membre
+T79	ANAT 2748 2754	membre
+T80	PROC 2788 2817	explorations microbiologiques
+T81	Concept_Idea 2843 2873	résultats anatomopathologiques
+T82	PROC 2890 2919	prélèvements bactériologiques
+T83	PROC 2932 2972	scanner nasopharyngéneumo-nerf laryngéen
+T84	ANAT 2940 2972	nasopharyngéneumo-nerf laryngéen
+T85	ANAT 3081 3087	visage
+T86	ANAT 3097 3117	tronc intervertébral
+T87	ANAT 3120 3137	pleuro-pulmonaire
+T88	ANAT 3141 3157	séro-oesophagien
+T89	DISO 3174 3195	signes inflammatoires
+T90	PROC 3209 3225	bilan biologique
+T91	DISO 3235 3249	particularités
+T92	PROC 3264 3282	tests sérologiques
+T93	MEAS 3335 3343	négatifs
+T94	MEAS 3373 3384	non validés
+T95	PROC 3390 3436	marqueurs immunohistochimiques antibacillaires
+T96	PROC 3438 3451	antigène S100
+T97	PROC 3453 3466	antigène CD34
+T98	PROC 3468 3480	antigène mT4
+T99	PROC 3482 3497	antigène kappa2
+T100	PROC 3499 3522	immunoglobulines alpha6
+T101	PROC 3524 3563	anticorps antitransglutamyl transferase
+T102	PROC 3565 3569	IgG3
+T103	PROC 3571 3596	récepteurs oestrogéniques
+T104	PROC 3598 3602	CD56
+T105	PROC 3604 3685	cobalamine acide aminésulfaméthoxazole glycol rhodium acétyle adénosine conjuguée
+T106	PROC 3687 3725	protéine C réactive protein 1 reaction
+T107	PROC 3727 3754	polynucléaires neutrophiles
+T108	PROC 3756 3778	rhésus myéloperoxydase
+T109	PROC 3780 3803	perforate intraveineuse
+T110	PROC 3805 3854	lactate désoxyribonucléotides 2 protides sériques
+T111	PROC 3856 3878	leucocytes éosinophile
+T112	PROC 3880 3893	hémopéritoine
+T113	PROC 3895 3907	kératinocyte
+T114	PROC 3909 3926	Bilirubine totale
+T115	PROC 3928 3931	LDH
+T116	PROC 3933 3957	chromogranine purifiante
+T117	PROC 3959 4020	pyrazinamide hydrosolubinguinoacide glycyrrhizique insulinosé
+T118	PROC 4022 4032	Plaquettes

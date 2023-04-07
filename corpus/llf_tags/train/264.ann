@@ -1,0 +1,53 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 35	11 ans
+T3	DISO 63 70	diabète
+T4	MEAS 71 85	bien équilibré
+T5	CHEM 91 102	glucantime®
+T6	PROC 107 124	tomodensitométrie
+T8	ANAT 134 139	genou
+T9	DISO 170 215	dilatation des voies biliaires intrahépatique
+T10	ANAT 185 215	voies biliaires intrahépatique
+T11	DISO 225 254	masse tissulaire hypoéchogène
+T12	Localization 267 285	quadrant inferieur
+T13	ANAT 289 300	sein gauche
+T14	Localization 294 300	gauche
+T15	MEAS 313 317	7 cm
+T16	Concept_Idea 321 330	grand axe
+T17	PROC 334 360	examen anatomopathologique
+T18	PHEN 393 411	suites opératoires
+T19	DISO 425 433	récidive
+T20	PROC 439 467	chimiothérapie néo adjuvante
+T21	DOSE 478 479	5
+T22	CHEM 480 490	céfotaxime
+T23	Hospital 509 516	urgence
+T24	PROC 532 566	corticothérapie anti-inflammatoire
+T25	CHEM 572 586	gentaméthasone
+T26	DEVI 590 611	masque haute pression
+T27	PROC 627 659	néphrectomie totale endoscopique
+T28	PROC 692 711	bilan préopératoire
+T29	DISO 731 752	récidive pathologique
+T30	DISO 762 789	signe infectieux secondaire
+T31	PROC 794 826	scanner thoraco abdomino pelvien
+T32	ANAT 802 826	thoraco abdomino pelvien
+T33	PROC 833 854	extubation percutanée
+T34	DISO 889 929	distension pulmonaire supérieure droites
+T35	ANAT 900 929	pulmonaire supérieure droites
+T36	Localization 922 929	droites
+T37	LIVB 979 985	malade
+T38	DISO 996 1025	symptômes neuropsychiatriques
+T39	DISO 1057 1063	tumeur
+T40	MEAS 1073 1086	9 centimètres
+T41	Concept_Idea 1090 1097	largeur
+T42	MEAS 1138 1147	1,2 mètre
+T43	Concept_Idea 1151 1160	grand axe
+T44	Concept_Idea 1175 1183	longueur
+T45	MEAS 1198 1204	0,10 m
+T46	PROC 1209 1231	traitement chirurgical
+T47	PROC 1254 1300	résection transoesophagienne scanno épiploique
+T48	PROC 1314 1347	myélopéroxyprogyrectomie monobloc
+T49	ANAT 1366 1392	muscle quadriceps fundique
+T50	DISO 1425 1447	anomalie morphologique
+T51	ANAT 1474 1496	structures musculaires
+T52	MEAS 1546 1553	simples
+T53	TEMP 1582 1593	32 semaines
+T54	PROC 1624 1633	admission

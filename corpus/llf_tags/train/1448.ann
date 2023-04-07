@@ -1,0 +1,33 @@
+T1	Concept_Idea 4 20	réponse clinique
+T2	DISO 58 63	masse
+T3	ANAT 70 94	région scapulaire droite
+T4	Localization 88 94	droite
+T5	DISO 111 120	dysphonie
+T6	DISO 127 141	amaigrissement
+T7	MEAS 152 157	35 kg
+T8	TEMP 161 167	1 mois
+T9	PROC 172 192	radiologie du thorax
+T10	ANAT 186 192	thorax
+T11	DISO 204 213	anomalies
+T12	PROC 228 266	touchers broncho-oeso-gastro-duodénaux
+T13	ANAT 237 266	broncho-oeso-gastro-duodénaux
+T14	MEAS 284 291	normaux
+T15	PROC 295 363	échographie Doppler des glandes salivaires intraveineuses cervicales
+T16	ANAT 319 363	glandes salivaires intraveineuses cervicales
+T17	PROC 365 368	DWB
+T18	MEAS 382 388	normal
+T19	PROC 393 436	scanner cervico-thoraco- abdomino-abdominal
+T20	ANAT 401 436	cervico-thoraco- abdomino-abdominal
+T21	DISO 455 470	lésion tumorale
+T22	PROC 485 503	traitement médical
+T23	PROC 511 539	investigations radiologiques
+T24	PHEN 545 567	suites postopératoires
+T25	MEAS 576 583	simples
+T26	LIVB 589 595	malade
+T27	CHEM 605 619	neuroleptiques
+T28	CHEM 638 653	antipsychotique
+T29	CHEM 659 673	halopéridolone
+T30	DEVI 708 727	seringue électrique
+T31	PROC 740 762	contrôle échographique
+T32	PROC 787 800	trachéotomisé
+T33	DISO 844 863	maladie auto-immune

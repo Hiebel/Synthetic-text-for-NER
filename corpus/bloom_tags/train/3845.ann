@@ -1,0 +1,33 @@
+T1	LIVB 29 37	patiente
+T2	DISO 71 90	traumatisme crânien
+T3	DISO 96 117	perte de connaissance
+T4	Concept_Idea 168 180	état général
+T5	DISO 195 214	céphalées visuelles
+T6	DISO 216 246	désorientation temporospatiale
+T7	TEMP 256 272	depuis 48 heures
+T8	DISO 292 306	amaigrissement
+T9	DISO 331 351	signes neurologiques
+T10	PROC 366 390	échographie chirurgicale
+T11	ANAT 378 390	chirurgicale
+T12	Hospital 404 426	urgences chirurgicales
+T13	LIVB 448 454	malade
+T14	DISO 459 487	masse kystique hypertrophiée
+T15	MEAS 497 502	12 cm
+T16	Concept_Idea 506 515	grand axe
+T17	Localization 532 546	parties molles
+T19	CHEM 605 625	produit de contraste
+T20	Concept_Idea 651 662	consistance
+T21	MEAS 672 688	multi-cloisonnée
+T22	DISO 717 729	métastatique
+T23	DISO 733 756	hémangiopéricondensante
+T24	DISO 777 804	localisations métastatiques
+T25	DISO 871 901	syndrome d’épanchement pleural
+T26	ANAT 894 901	pleural
+T27	DISO 908 935	souffrance vasculo-nerveuse
+T28	ANAT 919 935	vasculo-nerveuse
+T29	DEVI 948 969	lambeau transfixiante
+T30	DISO 999 1014	symptomatologie
+T31	DISO 1076 1093	processus tumoral
+T32	PROC 1097 1115	traitement curatif
+T33	PROC 1137 1167	radiothérapie locale adjuvante
+T34	PROC 1220 1256	prédnisonylhydrocortisol substitutif

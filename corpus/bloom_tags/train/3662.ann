@@ -1,0 +1,38 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	Concept_Idea 37 62	antécédents pathologiques
+T4	MEAS 63 75	particuliers
+T5	PROC 77 82	admis
+T6	Hospital 87 95	urgences
+T7	DISO 107 124	choc hémorragique
+T8	PHEN 144 153	grossesse
+T9	PROC 172 178	suivie
+T10	PROC 182 207	intervention chirurgicale
+T11	PROC 228 257	rachianesthésie locorégionale
+T12	ANAT 273 295	épiploon latéral droit
+T13	Localization 290 295	droit
+T14	DEVI 331 364	sonde nasogastrique transfixiante
+T16	DOSE 395 414	environ 5 litres/kg
+T17	CHEM 418 428	furosémide
+T18	LIVB 449 455	enfant
+T19	DISO 483 506	dyspnée aiguë sifflante
+T20	MEAS 521 528	brutale
+T21	Concept_Idea 573 588	acuité visuelle
+T22	TEMP 625 636	trois jours
+T23	PROC 645 673	intervention ophtalmologique
+T24	MEAS 683 697	plus accentuée
+T25	DISO 725 755	déficit moteur sensitivomoteur
+T26	DISO 789 811	polymyalgie systémique
+T27	DISO 873 913	syndrome d’épanchement pleuriquo-crânien
+T28	ANAT 896 913	pleuriquo-crânien
+T29	DISO 1007 1042	atteinte sensitivo-tonico-comotrice
+T30	ANAT 1077 1086	pelvienne
+T31	PROC 1094 1118	échographie obstétricale
+T32	ANAT 1106 1118	obstétricale
+T33	DISO 1198 1230	symptomatologie néphropulmonaire
+T34	DISO 1291 1315	localisations noduleuses
+T35	ANAT 1440 1461	glandes cerviculaires
+T36	Concept_Idea 1473 1481	contours
+T37	MEAS 1482 1499	circonférentielle
+T38	MEAS 1509 1513	6 cm
+T39	Concept_Idea 1517 1526	grand axe

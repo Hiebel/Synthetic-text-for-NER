@@ -1,0 +1,31 @@
+T1	LIVB 4 9	femme
+T2	LIVB 200 202	sa
+T3	LIVB 203 207	mère
+T4	LIVB 211 214	son
+T6	TEMP 234 240	12 ans
+T7	LIVB 297 304	garçons
+T8	TEMP 414 425	4 mois+1 an
+T9	TEMP 429 435	7 mois
+T10	LIVB 485 495	monsieur B
+T11	LIVB 569 577	Madame B
+T12	LIVB 581 591	Monsieur A
+T13	MEAS 697 712	insatisfaisants
+T14	LIVB 760 770	nourrisson
+T15	LIVB 1323 1335	prédominants
+T16	DISO 1905 1935	adénome pléomorphe épidermoïde
+T17	Concept_Idea 2119 2139	aspect morphologique
+T18	PROC 2176 2208	anastomose-fibroscopie digestive
+T19	PHEN 2222 2254	grossesse monogammaglobulinéaire
+T20	ANAT 2269 2298	fragments intrarecto-vaginaux
+T21	Concept_Idea 2321 2340	caractère lésionnel
+T22	DISO 2363 2380	récidive tumorale
+T23	PROC 2412 2432	reprise chirurgicale
+T24	PROC 2436 2455	bilan préopératoire
+T25	PROC 2481 2502	biopsie scanno-guidée
+T26	PROC 2514 2538	laparotomie endovaginale
+T27	PROC 2576 2602	étude anatomo-pathologique
+T29	TEMP 2727 2738	32 semaines
+T30	PROC 2761 2809	hystérectomie segmentaire exsufflation adjuvante
+T31	PROC 2819 2840	méthode contraceptive
+T32	Localization 2847 2862	2/3 inferieures
+T33	PROC 2879 2905	réséquées chirurgicalement

@@ -1,0 +1,41 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 57	antécédents
+T3	MEAS 58 70	particuliers
+T4	DISO 90 113	distension respiratoire
+T5	PHEN 101 113	respiratoire
+T6	PROC 123 138	examen clinique
+T7	DISO 142 174	syndrome infectieux rhinologique
+T8	ANAT 222 225	pus
+T9	DISO 244 260	râles crépitants
+T10	PROC 300 314	examen général
+T11	DISO 326 339	particularité
+T12	PROC 345 370	tomodensimologie standard
+T13	PROC 372 375	VBP
+T14	PROC 389 423	scanner naso-gastrocardiographique
+T15	ANAT 397 423	naso-gastrocardiographique
+T16	Concept_Idea 459 477	aspect chirurgical
+T17	DISO 506 526	récidive infectieuse
+T18	DISO 536 547	traumatisme
+T19	LIVB 559 567	patiente
+T20	PROC 572 596	TDM oeso-gastroduodénale
+T21	ANAT 576 596	oeso-gastroduodénale
+T22	TEMP 609 624	post opératoire
+T23	PROC 614 624	opératoire
+T24	DISO 649 673	lésion polypoïde lobulée
+T25	MEAS 683 697	16 centimètres
+T26	Concept_Idea 701 710	grand axe
+T27	MEAS 719 727	2 mètres
+T28	Concept_Idea 731 738	largeur
+T29	PROC 794 802	ligature
+T30	MEAS 816 838	grossièrement sensible
+T31	PROC 843 866	radiographies standards
+T32	Concept_Idea 901 909	longueur
+T33	MEAS 920 925	12 cm
+T34	PROC 929 954	étude anatomopathologique
+T35	DISO 973 1015	léiomyome mucineux polymyomateux achilléen
+T36	MEAS 1093 1102	difficile
+T37	Concept_Idea 1110 1128	plan morphologique
+T38	DISO 1209 1232	symptômes neurologiques
+T39	DISO 1264 1292	neurofibromes inflammatoires
+T40	DISO 1328 1395	perceptions obsessionnelles compulsives dysfonctionnelles atypiques
+T41	CHEM 1443 1469	psychotropes intraveineuse

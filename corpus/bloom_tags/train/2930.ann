@@ -1,0 +1,28 @@
+T1	LIVB 20 28	patiente
+T2	DISO 45 54	primipare
+T3	PROC 66 71	reçue
+T4	Hospital 76 84	urgences
+T5	DISO 94 121	douleurs abdominales aiguës
+T6	ANAT 103 114	abdominales
+T7	PROC 125 149	exploration chirurgicale
+T8	DISO 161 174	particularité
+T9	PROC 182 203	échographie pelvienne
+T10	ANAT 194 203	pelvienne
+T11	MEAS 220 230	volumineux
+T12	DISO 231 259	épanchement intra péritonéal
+T13	ANAT 243 259	intra péritonéal
+T14	Concept_Idea 262 268	aspect
+T15	MEAS 269 284	hyperhétérogène
+T16	ANAT 298 309	flanc droit
+T17	Localization 304 309	droit
+T18	PROC 313 328	examen clinique
+T19	PROC 333 342	admission
+T20	LIVB 358 366	patiente
+T21	MEAS 370 373	bon
+T22	Concept_Idea 374 392	état hémodynamique
+T23	MEAS 401 404	97%
+T24	PHEN 411 428	bruits cardiaques
+T25	ANAT 418 428	cardiaques
+T26	MEAS 437 446	réguliers
+T27	DISO 469 507	syndrome d'épanchement intrapéritonéal
+T28	ANAT 492 507	intrapéritonéal

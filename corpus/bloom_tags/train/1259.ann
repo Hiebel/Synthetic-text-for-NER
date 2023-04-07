@@ -1,0 +1,24 @@
+T1	LIVB 4 12	patiente
+T2	Concept_Idea 34 45	antécédents
+T3	MEAS 46 58	particuliers
+T4	PROC 60 68	consulte
+T5	Hospital 73 81	urgences
+T6	DISO 91 98	dyspnée
+T7	DISO 106 137	douleurs thoraciques purulantes
+T8	ANAT 115 126	thoraciques
+T9	PROC 141 156	examen clinique
+T10	PROC 161 170	admission
+T11	LIVB 184 192	patiente
+T12	MEAS 196 199	bon
+T13	Concept_Idea 200 218	état hémodynamique
+T14	PHEN 227 232	pouls
+T15	MEAS 244 257	75 cycles/min
+T16	PROC 261 291	auscultation cardio-vasculaire
+T17	ANAT 274 291	cardio-vasculaire
+T18	MEAS 298 305	normale
+T19	DISO 322 391	syndrome d'épanchement péricardique latéro-thoracique inférieur droit
+T20	ANAT 345 391	péricardique latéro-thoracique inférieur droit
+T21	Localization 386 391	droit
+T22	DISO 409 464	dépression surrénalienne du basithoracique hypertrophié
+T24	ANAT 437 464	basithoracique hypertrophié
+T25	PROC 496 512	bilan biologique

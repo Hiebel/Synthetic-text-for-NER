@@ -1,0 +1,33 @@
+T1	LIVB 20 25	femme
+T2	Concept_Idea 47 58	antécédents
+T3	MEAS 59 71	particuliers
+T4	PROC 73 79	admise
+T5	Hospital 84 92	urgences
+T6	DISO 102 119	céphalées fébrile
+T7	TEMP 129 151	depuis plusieurs jours
+T8	PROC 155 170	examen clinique
+T9	PROC 175 184	admission
+T10	LIVB 202 210	patiente
+T11	MEAS 214 217	bon
+T12	Concept_Idea 218 236	état hémodynamique
+T13	PHEN 240 252	respiratoire
+T14	ANAT 261 269	sourcils
+T15	MEAS 270 294	macroscopiquement coloré
+T16	PROC 298 334	auscultation cardio-vasculo-nerveuse
+T17	ANAT 311 334	cardio-vasculo-nerveuse
+T18	MEAS 341 348	normale
+T19	ANAT 362 385	membre inférieur gauche
+T20	Localization 379 385	gauche
+T21	PROC 411 427	examen somatique
+T22	DISO 465 498	syndrome d'épanchement péritonéal
+T23	ANAT 488 498	péritonéal
+T24	ANAT 528 539	flanc droit
+T25	Localization 534 539	droit
+T26	MEAS 555 565	rapidement
+T27	Concept_Idea 569 575	taille
+T28	MEAS 580 585	10 cm
+T29	MEAS 588 593	30 cm
+T30	LIVB 596 600	Elle
+T31	CHEM 617 641	corticoïdes intraveineux
+T32	CHEM 647 660	dexaméthasone
+T33	CHEM 675 685	furosémide

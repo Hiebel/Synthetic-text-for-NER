@@ -1,0 +1,83 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 66	antécédents pathologiques
+T3	MEAS 67 79	particuliers
+T4	PROC 90 96	admise
+T5	Hospital 100 120	service des urgences
+T6	DISO 129 144	pneumomédiastin
+T7	PROC 150 165	examen physique
+T8	LIVB 170 178	patiente
+T9	MEAS 186 189	bon
+T10	Concept_Idea 190 202	état général
+T11	DISO 219 223	toux
+T12	MEAS 224 229	sèche
+T13	Concept_Idea 287 299	état général
+T14	PROC 309 329	examen gynécologique
+T15	ANAT 333 343	sein droit
+T16	Localization 338 343	droit
+T17	DISO 363 401	neurofibrome interstitiel monophasique
+T18	ANAT 418 433	plan musculaire
+T19	ANAT 448 493	branches ischio-axillaires cervicales gauches
+T20	Localization 486 493	gauches
+T21	DISO 530 574	pseudo myxome érythémateux nodulaire malaire
+T22	PROC 590 605	examen clinique
+T23	DISO 615 628	particularité
+T24	DISO 646 667	syndrome hémorragique
+T25	DISO 677 699	anomalie morphologique
+T26	PROC 703 727	échographie obstétricale
+T27	LIVB 745 755	nouveau-né
+T28	MEAS 762 769	normale
+T29	PROC 774 812	TDM cervico-thoraco-abdomino pelvienne
+T30	ANAT 778 812	cervico-thoraco-abdomino pelvienne
+T31	DISO 833 875	masse tissulaire hétérodigestive polylobée
+T32	MEAS 885 890	13 mm
+T33	ANAT 909 944	symphyse lombo-humérale postérieure
+T34	Localization 933 944	postérieure
+T35	ANAT 958 989	troncs thoraciques superficiels
+T36	Localization 977 989	superficiels
+T37	PROC 1023 1052	translation scanno-opératoire
+T38	MEAS 1093 1101	indolore
+T39	ANAT 1121 1227	muscles para vertébraux mésentériques postéro-temporo-apicaux antero-mandibulaires supéro-extrasaphysaires
+T40	PROC 1240 1267	cholédocotomie exploratrice
+T41	Localization 1290 1308	bilatérale médiane
+T42	DISO 1346 1361	lésion tumorale
+T43	DISO 1371 1389	signe histologique
+T44	PROC 1402 1427	étude immunohistochimique
+T45	DISO 1443 1528	myxome œdémateux angiomateux hypertrophique réno-interstitiel multiloculé métatarsien
+T46	PROC 1603 1640	résection endobuccale conventionnelle
+T47	PHEN 1662 1710	structures vasculaires intrahépato-mésentériques
+T48	Concept_Idea 1827 1835	contours
+T49	DISO 1919 1968	remaniements granulomateux exsudatifs secondaires
+T50	MEAS 2049 2056	simples
+T51	PROC 2061 2091	réanimation neuropsychiatrique
+T52	TEMP 2113 2135	jusqu'à trois semaines
+T53	DEVI 2295 2301	casque
+T54	TEMP 2345 2352	14 mois
+T55	TEMP 2356 2362	7 mois
+T56	DISO 2385 2404	stress psychomoteur
+T57	Concept_Idea 2568 2582	plan somatique
+T58	LIVB 2591 2597	enfant
+T59	TEMP 2877 2884	3 jours
+T60	TEMP 2887 2894	8 jours
+T61	LIVB 3048 3058	nourrisson
+T62	PROC 3147 3157	traitement
+T63	DISO 3197 3212	maladie mentale
+T64	DISO 3265 3288	tumeur polyneurologique
+T65	ANAT 3410 3433	conjonctives viscérales
+T66	DISO 3469 3494	hallucinations délirantes
+T67	LIVB 3881 3886	fille
+T68	PROC 4078 4097	étude rétrospective
+T69	TEMP 4115 4122	24 mois
+T70	DISO 4216 4239	consanguinité parentale
+T71	PROC 4244 4254	diagnostic
+T72	DISO 4279 4311	syndrome dysmorphique congénital
+T73	DISO 4332 4354	complication néonatale
+T74	MEAS 4408 4417	difficile
+T75	PROC 4525 4562	transplantation prénatale parentérale
+T76	PROC 4600 4629	hystérectomie totale élective
+T77	PROC 4654 4683	néoplasie partielle adjuvante
+T78	PROC 4702 4735	fermeture digestive préopératoire
+T79	PROC 4751 4771	toilette péritonéale
+T80	ANAT 4760 4771	péritonéale
+T81	PROC 4786 4810	anesthésie locorégionale
+T82	PROC 4884 4924	prise en charge chirurgicale ambulatoire
+T83	PROC 5008 5047	corticothérapie péridurale concomitante

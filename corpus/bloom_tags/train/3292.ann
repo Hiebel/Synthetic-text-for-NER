@@ -1,0 +1,43 @@
+T1	LIVB 29 37	patiente
+T2	DISO 71 105	adénocarcinome du sein homolatéral
+T4	Localization 94 105	homolatéral
+T5	PROC 111 125	interrogatoire
+T6	LIVB 130 138	patiente
+T7	Hospital 157 165	urgences
+T8	PHEN 200 215	acuité visuelle
+T9	Concept_Idea 240 265	perceptions radiologiques
+T10	PROC 269 291	examen ophtalmologique
+T11	DISO 308 340	rétinite érythémateuse purulente
+T12	TEMP 350 363	depuis 6 mois
+T13	DISO 376 392	signes cliniques
+T14	DISO 419 445	troubles sensitivomotrices
+T15	DISO 464 475	photophobie
+T16	DISO 492 506	amaigrissement
+T17	MEAS 517 521	14kg
+T18	DISO 523 531	polypnée
+T19	MEAS 534 547	28 cycles/min
+T20	DISO 563 582	traumatisme cornéen
+T21	ANAT 575 582	cornéen
+T22	PROC 615 645	auscultation pleuro-pulmonaire
+T23	ANAT 628 645	pleuro-pulmonaire
+T24	DISO 665 697	atteinte aortique normo-ventilée
+T25	ANAT 674 697	aortique normo-ventilée
+T26	DISO 710 724	organomégalies
+T27	DISO 739 770	thrombopéricardite hypertensive
+T28	DISO 780 808	anévrysmes thromboemboliques
+T29	PROC 812 831	bilan préopératoire
+T30	PROC 859 891	échographie abdomino-rachidienne
+T31	ANAT 871 891	abdomino-rachidienne
+T32	DISO 913 972	masse arrondie hétérogène hypo échogène tissulaire kystique
+T33	MEAS 981 985	12cm
+T34	MEAS 990 994	9 cm
+T35	MEAS 1004 1007	5cm
+T36	Concept_Idea 1011 1020	grand axe
+T37	DEVI 1049 1062	coupe plâtrée
+T38	PROC 1079 1088	injection
+T39	DOSE 1092 1097	10 ml
+T40	CHEM 1101 1121	produit de contraste
+T41	ANAT 1156 1180	cavité rétro péritonéale
+T42	MODE 1283 1304	voie d'abord vaginale
+T43	DISO 1327 1350	métastases gynécalaires
+T44	ANAT 1433 1443	ovariennes

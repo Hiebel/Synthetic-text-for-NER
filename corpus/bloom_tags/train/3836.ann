@@ -1,0 +1,47 @@
+T1	LIVB 15 20	homme
+T2	TEMP 56 63	4 jours
+T3	LIVB 70 73	son
+T4	PROC 74 89	hospitalisation
+T6	ANAT 149 172	sinus maxillaire gauche
+T7	Localization 166 172	gauche
+T8	TEMP 182 195	depuis 2 mois
+T9	MEAS 206 214	brunâtre
+T10	MEAS 216 228	bien limitée
+T11	Concept_Idea 231 237	aspect
+T12	MEAS 249 255	mobile
+T13	PROC 259 281	examen ophtalmologique
+T14	DISO 293 306	particularité
+T15	PROC 320 341	auscultation pleurale
+T16	ANAT 333 341	pleurale
+T17	PHEN 394 398	toux
+T18	MEAS 399 407	nocturne
+T19	PROC 413 442	échographie abdominopelvienne
+T20	ANAT 425 442	abdominopelvienne
+T21	DISO 472 495	masse hypo-vascularisée
+T22	DEVI 526 552	coupe ombilico-surrénalien
+T23	ANAT 532 552	ombilico-surrénalien
+T24	DISO 567 638	syndrome d'épanchement intrapéritonéal liquidien périrénal hémorragique
+T26	PROC 677 686	injection
+T27	CHEM 690 710	produit de contraste
+T28	DISO 743 752	anomalies
+T29	DISO 776 801	localisations néoplasique
+T30	DISO 812 826	organomégalies
+T31	LIVB 838 840	Il
+T32	PROC 860 885	traitement antibacillaire
+T33	DOSE 891 899	2RHZ/4RH
+T34	DISO 977 984	dyspnée
+T35	MEAS 996 1012	28 cycles/minute
+T36	MEAS 1027 1038	progressive
+T37	CHEM 1070 1089	méthyl-prédnisolone
+T38	MEAS 1100 1109	120 mg/m²
+T39	MEAS 1129 1139	rapidement
+T40	Concept_Idea 1143 1149	taille
+T41	MEAS 1166 1177	massivement
+T42	DISO 1178 1194	nécrose caséeuse
+T43	ANAT 1224 1243	vésicules biliaires
+T44	ANAT 1266 1289	paroi abdominocervicale
+T45	LIVB 1314 1322	patiente
+T46	DISO 1336 1356	troubles intestinaux
+T47	PROC 1396 1419	radiothérapie adjuvante
+T49	PROC 1571 1603	scanner pelvien trans-thoracique
+T50	ANAT 1579 1603	pelvien trans-thoracique

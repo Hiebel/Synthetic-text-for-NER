@@ -1,0 +1,26 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	PROC 33 38	admis
+T4	Hospital 43 51	urgences
+T5	DISO 61 91	tuméfaction du plexus brachial
+T6	ANAT 76 91	plexus brachial
+T7	TEMP 101 118	depuis trois mois
+T8	PROC 122 137	examen clinique
+T9	PROC 142 151	admission
+T10	LIVB 164 171	patient
+T11	MEAS 175 178	bon
+T12	Concept_Idea 179 191	état général
+T13	Concept_Idea 207 225	plan hémodynamique
+T14	PHEN 235 256	contractions utérines
+T15	ANAT 248 256	utérines
+T16	MEAS 257 267	régulières
+T17	PHEN 283 303	grossesse gémellaire
+T18	PROC 308 314	suivie
+T19	DISO 338 351	particularité
+T20	PROC 356 370	bilan hormonal
+T21	CHEM 437 468	amoxicilline-acide clavulanique
+T22	DOSE 470 477	1 mg/kg
+T23	PROC 483 500	geste chirurgical
+T24	PROC 521 544	anesthésielocorégionale
+T25	PROC 551 574	induction anesthésiante
+T26	DEVI 579 600	cathéter intrarachéal

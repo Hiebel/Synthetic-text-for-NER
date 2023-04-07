@@ -1,0 +1,58 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 67	particuliers
+T4	PROC 69 80	hospitalisé
+T5	Hospital 85 93	urgences
+T6	DISO 103 125	douleurs épigastriques
+T7	ANAT 112 125	épigastriques
+T8	TEMP 135 151	depuis deux mois
+T9	PROC 155 170	examen clinique
+T10	DISO 187 211	sensibilité épigastrique
+T11	ANAT 199 211	épigastrique
+T12	DISO 237 256	hématurie purulente
+T13	DISO 271 295	tympanisme gynécologique
+T14	ANAT 309 314	grêle
+T15	PROC 318 349	échographie abdomino- pelvienne
+T16	ANAT 330 349	abdomino- pelvienne
+T17	PHEN 367 393	grossesse placenta utérine
+T18	ANAT 377 393	placenta utérine
+T19	Localization 407 419	spontanément
+T20	PROC 437 469	ponction pleurale transperitoine
+T21	ANAT 446 469	pleurale transperitoine
+T22	PROC 471 474	PTP
+T23	PROC 489 508	bilan préopératoire
+T24	MEAS 515 526	négligeable
+T25	LIVB 528 530	Il
+T26	PROC 549 573	laparotomie exploratrice
+T27	PROC 579 622	curage ganglionnaire péritonéale systatique
+T28	ANAT 586 622	ganglionnaire péritonéale systatique
+T29	PROC 629 666	incision duodéno-pancréatico-vésicale
+T30	ANAT 638 666	duodéno-pancréatico-vésicale
+T31	PROC 694 718	anesthésie locorégionale
+T32	ANAT 705 718	locorégionale
+T33	CHEM 731 741	Imidazolam
+T34	DOSE 743 751	0,5mg/kg
+T35	CHEM 754 769	morphométhasone
+T36	DOSE 772 779	2 mg/ml
+T37	DISO 856 868	hyperthermie
+T38	MEAS 880 886	38 ° C
+T39	DEVI 916 941	cathéter artériocanalaire
+T40	ANAT 925 941	artériocanalaire
+T41	LIVB 989 996	patient
+T42	PROC 1006 1028	traitement chirurgical
+T43	Hospital 1047 1074	milieux cardio-chirurgicaux
+T44	LIVB 1202 1210	patiente
+T45	PROC 1302 1328	recherche bactériologiques
+T46	PROC 1340 1365	prélèvements biochimiques
+T47	PROC 1400 1422	diagnostic étiologique
+T48	PROC 2342 2357	biopsie-exérèse
+T49	DISO 2385 2438	adénocarcinome parathyroïdien infiltrant métastatique
+T50	ANAT 2400 2414	parathyroïdien
+T51	ANAT 2449 2468	hypophyso-endocrine
+T52	MEAS 2476 2482	T4N2M0
+T53	PROC 2531 2554	radiothérapie adjuvante
+T54	TEMP 2590 2600	6 semaines
+T55	DISO 2628 2652	localisation secondaires
+T56	PROC 2666 2693	scintigraphie scanno-guidée
+T57	DISO 2713 2748	syndrome clinico-radiotherapeutique
+T58	CHEM 2764 2771	oxygène

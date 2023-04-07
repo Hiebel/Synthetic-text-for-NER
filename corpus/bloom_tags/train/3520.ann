@@ -1,0 +1,19 @@
+T1	LIVB 29 37	patiente
+T2	PROC 60 85	examen gynéco obstétrique
+T3	DISO 108 127	sténose grêlocæcale
+T4	ANAT 116 127	grêlocæcale
+T5	TEMP 132 141	spontanée
+T6	DISO 158 196	syndrome d’épanchement intrapéritonéal
+T7	ANAT 181 196	intrapéritonéal
+T8	DISO 206 223	hypervascularisée
+T9	ANAT 245 259	cavité utérine
+T10	PROC 272 291	bilan immunologique
+T11	MEAS 303 310	négatif
+T12	DISO 328 355	polynucléaires neutrophiles
+T13	PROC 436 455	ionogramme sanguine
+T14	ANAT 447 455	sanguine
+T15	PHEN 469 477	kaliémie
+T16	MEAS 480 489	3,7 meq/l
+T17	PROC 492 513	électroneuromyogramme
+T18	LIVB 545 553	patiente
+T19	ANAT 604 641	muscle triceps brachial dorsolombaire

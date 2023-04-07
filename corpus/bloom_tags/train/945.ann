@@ -1,0 +1,29 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	9 ans
+T3	PROC 36 41	admis
+T4	Hospital 45 78	service des urgences pédiatriques
+T5	DISO 88 109	détresse respiratoire
+T6	PHEN 97 109	respiratoire
+T7	TEMP 119 133	depuis 2 jours
+T8	PROC 137 152	examen clinique
+T9	PROC 157 166	admission
+T10	LIVB 179 185	enfant
+T11	MEAS 189 194	bonne
+T12	Concept_Idea 195 207	état général
+T13	DISO 214 230	signes cliniques
+T14	DISO 233 257	épanchement péricardique
+T15	ANAT 245 257	péricardique
+T16	PROC 275 291	examen somatique
+T17	DISO 303 316	particularité
+T18	PROC 321 340	bilan préopératoire
+T19	PROC 342 369	numération formule sanguine
+T20	PROC 411 449	radiographie du coude inféro-supérieur
+T22	LIVB 478 488	nourrisson
+T23	DISO 493 522	lésion ostéolytique hypodense
+T24	MEAS 534 549	progressivement
+T25	Concept_Idea 553 562	grand axe
+T26	MEAS 572 580	21x14 cm
+T27	ANAT 597 625	muscles ischio-cartilagineux
+T28	DISO 646 677	nodules tissulaires hyperdenses
+T29	DISO 687 701	carcinomateuse
+T30	DISO 740 748	kystique

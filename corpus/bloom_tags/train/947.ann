@@ -1,0 +1,41 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	Concept_Idea 37 48	antécédents
+T4	MEAS 49 57	notables
+T5	PROC 68 72	reçu
+T7	ANAT 90 108	abdomino-pelvienne
+T8	DISO 124 136	métrorragies
+T9	PROC 155 174	bilan préopératoire
+T10	PROC 192 219	numération formule sanguine
+T11	PROC 221 238	natrémie corrigée
+T12	PROC 240 248	kaliémie
+T13	PROC 252 264	troponine Ic
+T14	PROC 278 297	électrorétinogramme
+T15	MEAS 314 321	normaux
+T16	PROC 326 336	diagnostic
+T17	DISO 359 403	kystadénome kystique hydatique hypogastrique
+T18	DISO 416 437	hyperpression utérine
+T19	ANAT 430 437	utérine
+T20	PHEN 443 464	grossesse gélatineuse
+T21	DISO 504 523	symptômes cliniques
+T22	DISO 543 562	fistule intestinale
+T23	ANAT 551 562	intestinale
+T24	DISO 568 603	envahissement cerviculo-vésiculaire
+T25	ANAT 582 603	cerviculo-vésiculaire
+T26	DISO 607 640	thrombus veineux inféro-myometral
+T27	ANAT 616 640	veineux inféro-myometral
+T28	DISO 668 682	organomégalies
+T29	DISO 693 730	anévrysmes endovaginaux achromatiques
+T30	DISO 734 753	pneumo-vascularisés
+T31	TEMP 909 914	2 ans
+T32	MEAS 924 954	de plus en plus pruriginesques
+T33	MEAS 966 981	progressivement
+T34	Concept_Idea 985 994	grand axe
+T35	DISO 1023 1032	symptômes
+T36	PROC 1068 1087	traitement adjuvant
+T37	LIVB 1107 1118	jeune femme
+T38	CHEM 1205 1215	cisplatine
+T39	PROC 1313 1328	examen clinique
+T40	LIVB 1342 1350	patiente
+T41	Concept_Idea 1365 1383	plan hémodynamique
+T43	DISO 1420 1445	dégénérescences visuelles

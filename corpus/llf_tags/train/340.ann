@@ -1,0 +1,59 @@
+T1	DISO 48 55	diabète
+T2	MEAS 56 62	type 2
+T3	PROC 68 90	traitement substitutif
+T4	DISO 98 121	hypertension artérielle
+T5	ANAT 111 121	artérielle
+T6	LIVB 128 131	son
+T7	Concept_Idea 132 140	histoire
+T8	TEMP 162 175	il y a 7 mois
+T9	DISO 182 191	dysphagie
+T10	DISO 202 224	crises tonicocloniques
+T11	DISO 240 251	traumatisme
+T12	DISO 261 279	signe neurologique
+T13	DISO 297 316	troubles du langage
+T14	PROC 381 390	admission
+T15	PROC 403 415	consultation
+T16	LIVB 444 456	gynécologues
+T17	DISO 462 476	amaigrissement
+T18	LIVB 648 650	sa
+T19	LIVB 651 659	patiente
+T20	PHEN 670 690	récepteurs hormonaux
+T21	CHEM 692 706	oestrogéniques
+T22	PROC 711 726	examen clinique
+T23	DISO 743 757	déficit moteur
+T24	DISO 761 800	facteur de décompensation psychomotrice
+T25	Hospital 862 877	soins intensifs
+T26	MEAS 892 899	normaux
+T27	PROC 919 938	bilan préopératoire
+T28	MEAS 948 955	stricte
+T29	DISO 1039 1064	symptomatologie somatique
+T30	LIVB 1129 1136	Mme F.M
+T31	MEAS 1170 1171	3
+T32	LIVB 1172 1179	enfants
+T33	LIVB 1197 1203	épouse
+T34	Localization 1435 1447	conjonctives
+T35	Concept_Idea 1471 1488	mouvements fœtaux
+T36	PROC 1703 1739	monitorage échographique pédiatrique
+T37	DEVI 1811 1853	cathéter circulaire intraaortique monobloc
+T38	MEAS 1862 1867	12 cm
+T39	PROC 1900 1918	geste exploratoire
+T40	DISO 1965 1987	anomalie morphologique
+T41	MEAS 2065 2076	trèssimples
+T42	MEAS 2183 2194	240 grammes
+T43	MEAS 2198 2209	550 grammes
+T44	PROC 2329 2357	chirurgie digestivo-urétrale
+T45	LIVB 2665 2670	femme
+T46	TEMP 2731 2735	2009
+T48	CHEM 3319 3333	catécholamines
+T49	Concept_Idea 3625 3634	principes
+T50	CHEM 4455 4472	médicaments oraux
+T51	LIVB 4497 4507	nourrisson
+T52	PROC 4546 4560	suivi clinique
+T53	PROC 4564 4572	anamnèse
+T54	PROC 4596 4618	traitement substitutif
+T55	PROC 4680 4701	radiographie du genou
+T56	ANAT 4696 4701	genou
+T57	DISO 4734 4771	lésion kystique érythémato-papillaire
+T58	ANAT 4788 4820	nerf laryngé inférieur inférieur
+T59	Localization 4811 4820	inférieur
+T60	MEAS 4830 4838	24×20 mm

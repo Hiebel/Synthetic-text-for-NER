@@ -1,0 +1,32 @@
+T1	LIVB 4 7	M.A
+T2	MEAS 52 63	particulier
+T3	PROC 68 74	admise
+T4	Hospital 79 87	urgences
+T5	DISO 100 122	céphalées généralisées
+T6	TEMP 132 153	depuis plusieurs mois
+T7	PHEN 189 204	acuité visuelle
+T8	LIVB 206 210	Elle
+T9	PROC 232 265	scanner thoraco-abdomino périnéal
+T10	ANAT 240 265	thoraco-abdomino périnéal
+T11	DISO 283 302	pancréatite stade E
+T12	DISO 323 358	adénopathie parathyroïdienne gauche
+T13	ANAT 335 358	parathyroïdienne gauche
+T14	Localization 352 358	gauche
+T15	MEAS 368 372	6 cm
+T16	Concept_Idea 376 385	grand axe
+T17	ANAT 398 406	épiploon
+T18	Concept_Idea 409 415	aspect
+T19	MEAS 416 436	légèrement hypodense
+T20	CHEM 458 478	produit de contraste
+T21	PROC 501 511	diagnostic
+T22	DISO 530 588	neuro-angiopathie ischémique pancréato-lithiasique maligne
+T23	LIVB 690 695	homme
+T24	DISO 733 753	prise médicamenteuse
+T25	DISO 760 790	syndrome d'épanchement pleural
+T26	ANAT 783 790	pleural
+T27	DISO 816 884	traumatisme pulmonaire basithoracique infarcto-mésentérique purulent
+T29	DISO 898 919	troubles métaboliques
+T30	PROC 933 947	sérologies VIH
+T31	MEAS 956 965	négatives
+T32	PROC 1007 1055	protocole d'immuno-chimioradiothérapie adjuvante
+T33	PROC 1061 1073	RAI/4RHZ/4RH

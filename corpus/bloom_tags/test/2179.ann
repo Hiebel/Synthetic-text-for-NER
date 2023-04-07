@@ -1,0 +1,25 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 63	notables
+T4	PROC 65 70	admis
+T5	Hospital 75 100	urgences ophtalmologiques
+T6	DISO 110 119	dysphagie
+T7	TEMP 141 154	depuis 4 mois
+T8	PROC 158 173	examen clinique
+T9	PROC 178 187	admission
+T10	DISO 231 253	douleur du flanc droit
+T11	ANAT 242 253	flanc droit
+T12	Localization 248 253	droit
+T13	DISO 273 326	épanchement péribucellaire latéro-sternale péritonéal
+T14	ANAT 285 326	péribucellaire latéro-sternale péritonéal
+T15	DISO 341 361	vomissements bilieux
+T16	PROC 365 395	échographie abdomino-pelvienne
+T17	ANAT 377 395	abdomino-pelvienne
+T18	PROC 410 427	anesthésie locale
+T20	MEAS 553 558	46 mm
+T21	Concept_Idea 562 571	grand axe
+T22	ANAT 588 606	ventricule latéral
+T23	Localization 599 606	latéral
+T24	ANAT 623 646	paroi abdominopelvienne
+T25	ANAT 661 689	organes intestinaux jéjunaux
+T26	DISO 718 730	métastatique

@@ -1,0 +1,22 @@
+T1	LIVB 15 22	patient
+T2	PROC 34 39	admis
+T3	Hospital 44 52	urgences
+T4	DISO 62 82	vomissements bilieux
+T5	TEMP 92 110	depuis trois jours
+T6	DISO 127 135	anorexie
+T7	DISO 141 155	amaigrissement
+T8	MEAS 166 171	15 kg
+T9	TEMP 175 184	deux mois
+T10	PROC 188 202	interrogatoire
+T11	DISO 227 253	douleurs pelviennes aiguës
+T12	ANAT 236 246	pelviennes
+T13	MEAS 268 275	modérée
+T14	MEAS 291 306	progressivement
+T15	Concept_Idea 310 316	taille
+T16	PROC 337 356	bilan préopératoire
+T17	DISO 368 381	particularité
+T18	DISO 399 437	syndrome d'épanchement intrapéritonéal
+T19	ANAT 422 437	intrapéritonéal
+T20	PHEN 446 465	débit péristaltique
+T21	ANAT 452 465	péristaltique
+T22	MEAS 475 482	2litres

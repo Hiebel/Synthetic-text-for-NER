@@ -1,0 +1,15 @@
+T1	PROC 3 13	diagnostic
+T2	DISO 20 45	thrombophlébite
+T3	ANAT 36 45	cérébrale
+T4	DISO 80 106	signes
+T5	PROC 112 125	IRM
+T6	ANAT 116 125	cérébrale
+T7	PROC 132 149	scanner
+T8	ANAT 140 149	cérébraux
+T9	PROC 165 174	injection
+T10	CHEM 178 188	gadolinium
+T11	MEAS 208 217	favorable
+T12	PROC 223 247	traitement
+T13	CHEM 234 247	anticoagulant
+T14	MEAS 253 258	bonne
+T15	Concept_Idea 259 277	évolution

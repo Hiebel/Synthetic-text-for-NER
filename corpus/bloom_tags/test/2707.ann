@@ -1,0 +1,56 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	2 ans
+T3	LIVB 35 40	notre
+T4	Hospital 41 48	hôpital
+T5	DISO 84 120	polyarthrite érythémato-folliculante
+T6	TEMP 130 146	depuis deux mois
+T7	DISO 171 185	amaigrissement
+T8	MEAS 196 200	30kg
+T9	CHEM 219 254	anti-inflammatoires non tissulaires
+T11	CHEM 265 277	prédnisolone
+T12	DOSE 280 288	20 mg/kg
+T13	TEMP 288 290	/j
+T14	CHEM 293 304	Cyclosérine
+T15	DOSE 307 312	1g/kg
+T16	TEMP 312 314	/j
+T17	PROC 319 333	interrogatoire
+T18	LIVB 351 359	patients
+T19	DISO 395 411	maladie cœliaque
+T20	PROC 422 441	traité médicalement
+T21	PROC 447 458	chirurgical
+T22	PROC 464 495	cortico-radiothérapie adjuvante
+T23	LIVB 575 583	patients
+T24	DISO 616 639	pathologie neurologique
+T25	DISO 663 687	troubles sensitivomoteur
+T26	DISO 698 716	anomalies motrices
+T27	LIVB 737 745	patients
+T28	DISO 801 820	diabète métabolique
+T29	DISO 834 860	paragangliome hypertrophié
+T30	DISO 951 975	néphropathie congénitale
+T31	DISO 1062 1084	métastases nécroseuses
+T32	PROC 1168 1193	étude immunohistochimique
+T33	PROC 1223 1242	électrorétinogramme
+T34	MEAS 1267 1275	complète
+T35	MEAS 1304 1308	3/10
+T36	MEAS 1311 1315	4/10
+T37	MEAS 1466 1476	permanente
+T38	Localization 1537 1547	bilatérale
+T39	LIVB 1567 1571	elle
+T40	MODE 1612 1617	bolus
+T41	CHEM 1621 1641	produit de contraste
+T42	PROC 1716 1752	résection transfixiante chirurgicale
+T43	PROC 1768 1857	curage ganglionnaire axillaire médullaire cerviculo-lombaire périphérique scannographique
+T44	MEAS 1913 1917	5/10
+T45	MEAS 1933 1939	rapide
+T46	DISO 1946 1961	rachianesthésie
+T47	PROC 1988 2010	technique anesthésique
+T48	DISO 2088 2126	symptomatologie prurigineuse purulente
+T49	Concept_Idea 2152 2170	volume fonctionnel
+T50	TEMP 2217 2226	deux mois
+T51	DISO 2232 2249	céphalées fébrile
+T52	DISO 2265 2295	déficit moteur du cuir chevelu
+T53	ANAT 2283 2295	cuir chevelu
+T54	PHEN 2340 2355	acuité visuelle
+T55	DISO 2361 2375	amaigrissement
+T56	MEAS 2386 2391	10 kg
+T57	TEMP 2415 2420	2 ans

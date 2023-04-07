@@ -1,0 +1,94 @@
+T1	LIVB 15 22	patient
+T2	DISO 34 43	tabagique
+T4	DISO 94 116	masse du paragangliome
+T5	ANAT 103 116	paragangliome
+T6	TEMP 126 137	depuis 2ans
+T7	PROC 142 159	tomodensitométrie
+T8	PROC 161 184	TDM) abdomino-pelvienne
+T9	ANAT 166 184	abdomino-pelvienne
+T10	DISO 196 209	particularité
+T11	PROC 215 224	admission
+T12	LIVB 228 235	patient
+T13	Concept_Idea 250 255	poids
+T14	MEAS 259 264	66 kg
+T15	Concept_Idea 272 278	taille
+T16	MEAS 282 288	170 cm
+T17	LIVB 310 313	Ses
+T18	PHEN 314 335	contractions utérines
+T19	ANAT 327 335	utérines
+T20	MEAS 347 356	brunâtres
+T21	MEAS 415 419	29cm
+T22	MEAS 424 428	25mm
+T23	Concept_Idea 431 440	grand axe
+T24	ANAT 457 494	aires ganglionnaires cervico-vaginaux
+T25	DISO 515 548	carcinomes ovari-mésenchymateuses
+T26	DISO 603 628	localisations métastiques
+T27	DISO 664 714	hypopigmentation cutanéomuque palmaire généralisée
+T28	ANAT 727 742	corps caverneux
+T29	ANAT 769 784	sinus grêliques
+T30	PROC 787 808	échographie pelvienne
+T31	ANAT 799 808	pelvienne
+T33	Localization 925 935	bilatérale
+T34	CHEM 969 989	produit de contraste
+T35	ANAT 1010 1019	péritoine
+T36	MEAS 1031 1046	progressivement
+T37	Concept_Idea 1050 1056	volume
+T38	MEAS 1073 1095	de plus en plus mobile
+T39	DISO 1119 1144	fistule grêlo-intestinale
+T40	ANAT 1127 1144	grêlo-intestinale
+T41	DISO 1155 1175	anomalies digestives
+T42	DISO 1203 1224	métastases ovariennes
+T43	ANAT 1214 1224	ovariennes
+T44	DISO 1231 1252	diverticulose utérine
+T45	PROC 1284 1308	chimiothérapie adjuvante
+T46	MODE 1314 1324	voie orale
+T47	CHEM 1335 1346	Ceftriaxone
+T48	DOSE 1349 1351	3g
+T49	CHEM 1354 1362	Fentanyl
+T50	DOSE 1364 1371	2 µg/kg
+T51	PROC 1376 1402	examen anatomopathologique
+T52	DEVI 1409 1427	bandelette plâtrée
+T53	DISO 1455 1471	tissu malpighien
+T54	DISO 1506 1516	pathologie
+T55	LIVB 1596 1604	patients
+T56	DISO 1647 1663	asthénie fébrile
+T57	MEAS 1678 1699	lentement progressive
+T58	TEMP 1760 1766	15 ans
+T59	PROC 1788 1817	prise médicamenteuse curative
+T60	PROC 1852 1887	prélèvement bactério-hémocultuoriel
+T61	PROC 2535 2548	sérologie HIV
+T62	MEAS 2555 2563	négative
+T63	PROC 2578 2586	anti HCG
+T64	PROC 2592 2607	protéines CA125
+T65	MEAS 2616 2638	supérieurs à 200 UI/ml
+T66	PROC 2656 2681	anticorps anti-ADN natifs
+T67	MEAS 2690 2698	positifs
+T68	PROC 2702 2733	échographie abdomino- pelvienne
+T69	ANAT 2714 2733	abdomino- pelvienne
+T70	Concept_Idea 2749 2755	aspect
+T71	DISO 2772 2808	carcinose du utérus cervico-vaginale
+T72	ANAT 2785 2808	utérus cervico-vaginale
+T73	PHEN 2818 2839	contractions utérines
+T74	ANAT 2831 2839	utérines
+T75	MEAS 2840 2848	intenses
+T76	ANAT 2864 2872	épiploon
+T77	MEAS 2882 2886	46mm
+T78	Concept_Idea 2890 2899	grand axe
+T79	PROC 2915 2939	exploration chirurgicale
+T80	DISO 2951 2964	particularité
+T81	PROC 2970 3006	tomodensitométrie abdomino-pelvienne
+T82	ANAT 2988 3006	abdomino-pelvienne
+T83	PROC 3008 3011	TDM
+T84	DISO 3035 3070	masse tumorale tissulaire hypodense
+T85	MEAS 3072 3084	bien limitée
+T86	MEAS 3088 3098	hétérogène
+T87	MEAS 3107 3111	4 cm
+T88	Concept_Idea 3115 3124	grand axe
+T89	MEAS 3129 3132	1cm
+T90	Concept_Idea 3136 3145	petit axe
+T91	ANAT 3166 3171	grêle
+T92	DISO 3185 3225	adénopathie paravertébro-laterale droite
+T93	ANAT 3197 3225	paravertébro-laterale droite
+T94	Localization 3219 3225	droite
+T95	Concept_Idea 3228 3234	aspect
+T96	MEAS 3235 3249	peu évocateurs

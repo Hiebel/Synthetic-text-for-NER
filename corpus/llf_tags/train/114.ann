@@ -1,0 +1,80 @@
+T1	LIVB 29 37	patiente
+T2	DISO 72 81	dysphonie
+T3	Concept_Idea 90 102	état général
+T4	MEAS 103 109	altéré
+T5	PROC 113 128	examen clinique
+T6	DISO 140 153	particularité
+T7	PROC 159 182	auscultation pulmonaire
+T8	ANAT 172 182	pulmonaire
+T9	MEAS 195 202	normale
+T10	PROC 218 234	examen somatique
+T11	DISO 246 259	particularité
+T12	PROC 264 291	numération formule sanguine
+T13	PROC 293 296	NFS
+T14	MEAS 304 349	10 500 éléments par millimètre cube gramme-µL
+T15	PROC 364 394	marqueurs immunohistochimiques
+T16	PROC 396 423	anticorps anti mitochondrie
+T17	PROC 425 435	anti HMB45
+T18	PROC 437 446	anti CD34
+T19	PROC 452 475	scintigraphie cérébrale
+T20	ANAT 466 475	cérébrale
+T21	DISO 496 891	adénopathies médiastinales du lobe supérieur inférieur interne superficiel postéro lobulaire postérieur droites scissorifundiaires fronto maxillaires inférieure bilatérales médial médiastinales controlatérale supérieure inferieur sagittale inferieur homolatéraux inférieurs liquidiennes anteriestiquestratif cutanéïque asymétrique hyperchromateuse hypokinésithyroïdienne trochléomédiacaryocytose
+T22	Localization 509 522	médiastinales
+T23	ANAT 526 1338	lobe supérieur inférieur interne superficiel postéro lobulaire postérieur droites scissorifundiaires fronto maxillaires inférieure bilatérales médial médiastinales controlatérale supérieure inferieur sagittale inferieur homolatéraux inférieurs liquidiennes anteriestiquestratif cutanéïque asymétrique hyperchromateuse hypokinésithyroïdienne trochléomédiacaryocytose ; Les suites opératoires étaient simples après 3 semaines sous traitement substitutif non médicamenteux type amoxicilline acide acétyle sodique en attendant qu'un bilan biologique préopératoire puisse être fait. Une TDM thoraco-abdomino-pelvienne totale réalisée chez cette patiente montre : Un processus lésionnel cervico-vaginal rétro péritonéal mésentérique obturateur polaire antérieur inférieur gauches jugulo-mandibulaire postérieure gauche
+T29	PHEN 898 916	suites opératoires
+T30	MEAS 925 932	simples
+T31	TEMP 939 949	3 semaines
+T32	PROC 955 977	traitement substitutif
+T33	CHEM 982 995	médicamenteux
+T34	CHEM 1001 1035	amoxicilline acide acétyle sodique
+T35	PROC 1055 1085	bilan biologique préopératoire
+T36	PROC 1108 1145	TDM thoraco-abdomino-pelvienne totale
+T37	ANAT 1112 1145	thoraco-abdomino-pelvienne totale
+T38	LIVB 1166 1174	patiente
+T42	Localization 1332 1338	gauche
+T43	MEAS 1347 1351	5 cm
+T46	Localization 1506 1516	transversa
+T48	Localization 1602 1610	en amont
+T49	DISO 1629 1688	vomissements glaucomateux périrectaux cérébraux latéralisés
+T50	DISO 1709 1738	symptômes neuropsychiatriques
+T52	Localization 1780 1783	pré
+T53	Localization 1854 1859	rétro
+T54	Localization 1874 1880	droite
+T55	Localization 1920 1939	postérieures droite
+T56	PROC 2012 2017	suivi
+T57	DISO 2035 2054	trouble dysphorique
+T58	DISO 2061 2090	syndrome délirant psychotique
+T59	DISO 2211 2224	complications
+T60	MEAS 2261 2271	favorables
+T61	PROC 2296 2341	remplissage médullaire multikinétique laryngé
+T62	ANAT 2308 2341	médullaire multikinétique laryngé
+T63	PROC 2354 2394	perfusion hydrosolarythmique percutanées
+T67	PROC 2706 2750	toilette respiratoire digestive périphérique
+T68	ANAT 2715 2750	respiratoire digestive périphérique
+T69	PROC 2756 2784	prise en charge anesthésique
+T70	PHEN 2813 2818	pouls
+T71	Concept_Idea 2824 2842	état hémodynamique
+T72	LIVB 2846 2853	patient
+T73	CHEM 2873 2893	sulfate de magnésium
+T74	DOSE 2895 2901	500 mg
+T75	TEMP 2901 2906	/jour
+T76	PROC 2912 2934	traitement substitutif
+T77	TEMP 2951 2961	6 semaines
+T78	CHEM 2987 2998	paracétamol
+T79	PROC 3039 3068	contrôle échographique direct
+T80	PROC 3083 3102	rééducation motrice
+T81	PROC 3260 3283	technique contraceptive
+T82	DEVI 3298 3332	drain aspiratif extracorporéacteur
+T83	MODE 3392 3447	prothèses pédiatriques infracliniques multifocalcifiées
+T84	Concept_Idea 3503 3529	circonstance thérapeutique
+T85	PROC 3609 3635	surveillance pré néonatale
+T86	PROC 3652 3657	suivi
+T87	LIVB 3689 3695	garçon
+T88	TEMP 3703 3709	16 ans
+T89	DISO 3847 3866	maladie infectieuse
+T90	LIVB 3897 3903	enfant
+T91	PROC 3908 3929	recherche étiologique
+T92	DISO 3949 3985	tuberculose bactérienne subocclusive
+T93	PROC 4008 4036	antibiothérapie probabiliste
+T94	CHEM 4060 4093	ciprofloxacine acide clavulanique
+T95	TEMP 4214 4216	/j

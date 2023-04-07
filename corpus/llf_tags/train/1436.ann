@@ -1,0 +1,105 @@
+T1	LIVB 15 25	nouveau-né
+T2	PHEN 55 64	grossesse
+T3	PROC 77 83	suivie
+T4	LIVB 105 125	médecin obstétricien
+T5	Concept_Idea 130 136	taille
+T6	ANAT 142 148	utérus
+T7	MEAS 163 168	14 cm
+T8	DISO 177 192	retard pondéral
+T9	TEMP 202 212	3 semaines
+T10	MEAS 249 256	simples
+T11	LIVB 263 271	patiente
+T12	CHEM 282 294	antibiotique
+T13	CHEM 296 327	amoxicilline acide clavulanique
+T14	PROC 333 349	bilan biologique
+T15	DISO 363 379	hyperleucocytose
+T16	MEAS 382 394	1100 GB/mm 3
+T17	DISO 407 416	anomalies
+T18	PROC 431 457	examen anatomopathologique
+T19	DISO 479 528	adénocarcinome polymorphe du pédicule rénal droit
+T21	Localization 523 528	droit
+T22	ANAT 611 627	annexes caudales
+T23	DISO 718 763	remaniements kystiques mucineux métastasiques
+T24	ANAT 776 792	colon transverse
+T25	ANAT 806 839	structures digestives supérieures
+T26	ANAT 847 869	ganglions médiastinaux
+T27	PROC 892 918	étude immuno-histochimique
+T28	LIVB 949 956	malades
+T29	PROC 972 995	sauveteurs pédiatriques
+T30	LIVB 1000 1010	adolescent
+T31	TEMP 1018 1024	16 ans
+T32	TEMP 1123 1130	21 mois
+T33	TEMP 1134 1141	5 jours
+T34	DEVI 1207 1225	confrères germains
+T35	LIVB 1263 1270	parents
+T36	PROC 1302 1326	consultations prénatales
+T37	PROC 1415 1436	mariage consanguinité
+T38	PROC 1442 1462	examen gynécologique
+T39	LIVB 1537 1547	oncologues
+T41	Concept_Idea 1597 1616	aspect histologique
+T42	PROC 1725 1749	chimiothérapie adjuvante
+T43	PROC 1763 1787	laparotomie exploratrice
+T44	DISO 1824 1841	récidive tumorale
+T45	DISO 1884 1911	symptomatologie infectieuse
+T46	PROC 1940 1957	toilette urinaire
+T47	ANAT 1949 1957	urinaire
+T48	PROC 1978 1997	lavage naso-pelvien
+T49	ANAT 1985 1997	naso-pelvien
+T50	PROC 2009 2038	bijudéo-rectale scanno-guidée
+T51	PROC 2052 2060	incision
+T52	MEAS 2173 2187	25 x 10 /15 cm
+T53	MEAS 2191 2206	55 µmol/grammes
+T54	ANAT 2345 2372	noyaux corticaux hépatiques
+T55	MEAS 2445 2456	188 grammes
+T56	MEAS 2579 2584	24 mm
+T58	ANAT 2756 2782	noyaux mitotiques centraux
+T59	PROC 2860 2897	parotidectomie endoscopiquement saine
+T60	PROC 2912 3062	anastomose iléale postéro-abdomino-trachéale periplacentaire parieto-sous clavière aorto-caudale gastroduodénale du pédicule fémoral inférieure droite
+T62	ANAT 3028 3062	pédicule fémoral inférieure droite
+T63	Localization 3056 3062	droite
+T64	PHEN 3097 3118	structures digestives
+T65	ANAT 3132 3156	liquide céphalorachidien
+T66	PROC 3165 3173	prélevés
+T67	PROC 3183 3198	technique ELISA
+T69	PROC 3251 3276	étude anatomopathologique
+T70	DISO 3298 3363	adénocarcinome trochanter kystique mucineux mésenchymateux cutané
+T71	DISO 3396 3450	processus lésionnel tissulaire supéro-basal infiltrant
+T72	ANAT 3460 3482	fragments chondrobiens
+T73	ANAT 3501 3526	zones charnues cervicales
+T74	DISO 3538 3560	anomalie morphologique
+T75	LIVB 3574 3582	patiente
+T76	CHEM 3597 3628	amoxicilline acide clavulanique
+T77	CHEM 3631 3642	bupivacaine
+T78	CHEM 3645 3655	aminosides
+T79	CHEM 3658 3677	sérum physiologique
+T80	CHEM 3680 3693	phénobarbital
+T81	CHEM 3696 3713	acide salicylique
+T82	CHEM 3716 3726	éthambutol
+T83	CHEM 3729 3741	pyrazinamide
+T84	CHEM 3744 3759	médicamenteuses
+T85	CHEM 3762 3772	antalgique
+T86	CHEM 3775 3787	antibiotique
+T87	CHEM 3790 3803	propanololone
+T88	CHEM 3806 3825	hydroxyprogestérone
+T89	CHEM 3828 3839	rifampicine
+T90	CHEM 3842 3866	héparine non fractionnée
+T91	CHEM 3869 3887	facteur rhumatoïde
+T92	CHEM 3890 3900	céfalotine
+T93	CHEM 3903 3912	étoposide
+T94	CHEM 3915 3931	cyclophosphamide
+T95	CHEM 3934 3948	hydrocortisone
+T96	CHEM 3951 3965	neuroleptiques
+T97	CHEM 3968 3979	gentamycine
+T98	CHEM 3982 3992	azathioïne
+T99	CHEM 3995 4010	fluoroquinolone
+T100	CHEM 4013 4029	méthoxycarbamide
+T101	CHEM 4032 4051	monoxyde de carbone
+T102	CHEM 4054 4074	carbonate de calcium
+T103	CHEM 4077 4091	correctifolide
+T104	CHEM 4094 4105	néoplasmine
+T105	CHEM 4108 4121	cotrimoxazole
+T106	CHEM 4124 4137	cyperméthrine
+T107	CHEM 4140 4158	imipenème acétique
+T108	CHEM 4161 4176	calcivitamine K
+T109	CHEM 4179 4190	nicardipine
+T110	CHEM 4193 4206	ethambutolone

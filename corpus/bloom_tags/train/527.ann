@@ -1,0 +1,23 @@
+T1	LIVB 15 22	patient
+T2	DISO 78 87	symptômes
+T3	DISO 101 113	métrorragies
+T4	TEMP 123 136	depuis 7 mois
+T5	DISO 163 169	fièvre
+T6	DISO 176 197	contractions utérines
+T7	ANAT 189 197	utérines
+T8	MEAS 227 239	spontanément
+T9	Concept_Idea 243 249	volume
+T10	MEAS 260 269	20 000 ml
+T11	DISO 283 310	tuméfaction lombaire droite
+T12	ANAT 295 310	lombaire droite
+T13	Localization 304 310	droite
+T14	TEMP 319 332	5 jours avant
+T15	Concept_Idea 368 383	acuité visuelle
+T16	DEVI 419 440	brochons oculomoteurs
+T17	DISO 506 515	symptômes
+T18	PROC 520 550	auscultation cardio-vasculaire
+T19	ANAT 533 550	cardio-vasculaire
+T20	DISO 577 638	souffle auriculoventriculaire latéro-mésentérique iso-intense
+T22	ANAT 669 679	myométrial
+T23	PROC 685 729	tomodensitométrie thoraco-abdomino pelvienne
+T24	ANAT 703 729	thoraco-abdomino pelvienne

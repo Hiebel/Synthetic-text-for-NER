@@ -1,0 +1,18 @@
+T1	LIVB 3 13	nouveau-né
+T2	MEAS 72 76	deux
+T3	DISO 118 142	symptomatologie clinique
+T4	PROC 146 158	radiologique
+T5	PROC 169 181	accouchement
+T6	DISO 212 238	méningoencephalite fébrile
+T7	MODE 244 257	voie vaginale
+T8	DISO 283 302	tuberculose maligne
+T9	LIVB 322 333	jeune femme
+T10	PROC 350 357	traitée
+T11	DISO 364 405	mycosis caséo-folliculonerveuse purulente
+T12	ANAT 461 482	muqueuses bucculaires
+T13	DISO 574 601	lymphopénie monocytocytaire
+T14	MEAS 613 631	14900 éléments/mm3
+T15	PROC 638 667	prélèvements bactériologiques
+T16	MEAS 676 684	positifs
+T17	CHEM 736 747	Gentamicine
+T18	CHEM 764 778	Ciprofloxacine

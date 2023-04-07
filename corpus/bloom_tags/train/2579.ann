@@ -1,0 +1,34 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	8 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 81	reçu
+T6	Hospital 86 107	urgences pédiatriques
+T7	DISO 117 158	douleurs abdomino-pelviennes généralisées
+T8	ANAT 126 145	abdomino-pelviennes
+T9	DISO 175 181	fièvre
+T10	MEAS 193 197	38°c
+T11	PROC 201 216	examen clinique
+T12	LIVB 233 239	enfant
+T13	MEAS 243 246	bon
+T14	Concept_Idea 247 259	état général
+T15	PROC 264 283	bilan immunologique
+T16	MEAS 297 303	normal
+T17	PROC 309 330	échographie pelvienne
+T18	ANAT 321 330	pelvienne
+T19	DISO 355 364	anomalies
+T20	DISO 393 421	masse du utérus hypertrophié
+T21	ANAT 402 421	utérus hypertrophié
+T22	DISO 434 456	localisations malignes
+T23	PROC 497 505	biologie
+T24	PROC 509 535	taux d'hémoglobine glyquée
+T25	MEAS 551 555	2,9%
+T26	PROC 560 575	test rapide VIH
+T27	MEAS 582 589	négatif
+T28	PROC 593 620	numération formule sanguine
+T29	MEAS 627 634	normale
+T30	PROC 686 705	protéine C réactive
+T31	PROC 706 709	CRP
+T32	MEAS 711 732	inférieure à 0,5 mg/l
+T33	PROC 748 772	anticorps antinucléaires
+T34	MEAS 781 799	fortement positifs

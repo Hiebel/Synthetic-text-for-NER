@@ -1,0 +1,89 @@
+T1	LIVB 15 26	jeune fille
+T2	TEMP 30 36	21 ans
+T3	DISO 42 49	fumeuse
+T4	Concept_Idea 54 57	âge
+T5	TEMP 61 68	18 mois
+T6	DISO 86 95	dysphagie
+T7	PROC 100 131	radiographie standard du bassin
+T8	ANAT 125 131	bassin
+T9	MEAS 147 151	gros
+T10	DISO 152 197	processus vasculonerveux angiomateux calcifié
+T11	MEAS 206 212	4/3 cm
+T12	DISO 227 245	lombalgies droites
+T13	Localization 238 245	droites
+T14	DISO 258 267	anomalies
+T15	PROC 281 296	examen clinique
+T16	LIVB 310 318	patiente
+T17	MEAS 322 329	mauvais
+T18	Concept_Idea 330 342	état général
+T19	DISO 349 366	signes infectieux
+T20	PHEN 373 385	conjonctives
+T21	MEAS 386 398	plus froides
+T22	PROC 429 449	examen gynécologique
+T23	DISO 461 474	particularité
+T24	MEAS 511 518	simples
+T25	PROC 524 546	traitement substitutif
+T26	CHEM 554 574	sufentanyl-imidazolé
+T27	DOSE 619 624	0,5mg
+T28	TEMP 624 628	/24h
+T29	PROC 634 651	scanner abdominal
+T30	ANAT 642 651	abdominal
+T31	DISO 678 706	symptomatologie radiologique
+T32	PROC 719 750	étude immuno-histo-pathologique
+T33	LIVB 777 783	malade
+T34	DISO 789 897	adénocarcinome mucineux intraduodénal infiltrant tissulaire rénitroendocrine monohydroduodénale hypophysaire
+T35	MEAS 913 917	T2c+
+T36	MEAS 982 986	6 mm
+T37	Concept_Idea 990 999	grand axe
+T38	Concept_Idea 1014 1036	caractère histologique
+T39	DEVI 1068 1083	lasers rotatifs
+T40	DISO 1180 1196	gène malformatif
+T41	PROC 1201 1237	complément thérapeutique chirurgical
+T42	DISO 1269 1279	métastases
+T43	Concept_Idea 1304 1322	valeur pronostique
+T44	DISO 1406 1429	récidive carcinomateuse
+T45	PROC 1502 1532	radio chimiothérapie adjuvante
+T46	PROC 1559 1606	thyroïdectomie totale multimodale préopératoire
+T47	ANAT 1626 1643	vésicule biliaire
+T48	ANAT 1665 1689	globes transoesophagiens
+T49	ANAT 1706 1725	membranes vésicales
+T50	ANAT 1735 1758	mésoventricule cœliaque
+T51	ANAT 1803 1818	anses grêliques
+T52	ANAT 1839 1851	nerf laryngé
+T53	PROC 1857 1906	néphrectomie partielle exploratrice scanno-guidée
+T55	ANAT 2188 2223	annexes charnues cervico-trachéales
+T56	ANAT 2249 2278	segments érecteurs pyloriques
+T57	MEAS 2303 2312	17 × 16mm
+T58	MEAS 2316 2323	14×13mm
+T59	Concept_Idea 2336 2391	aspect macroscopiquement compatible anatomopathologique
+T60	PROC 2397 2439	biopsie percutané échogène jéjunostomoquée
+T61	DISO 2476 2581	germe entéropathogénème granulomateux sarcomateux achromatoïde polymicrobial ketoaerophile nécrosissimulé
+T62	Localization 2766 2777	supérieures
+T64	Localization 2814 2832	proximal antérieur
+T65	ANAT 2930 2948	annexes digestives
+T66	DISO 2991 3103	léiomyome neutrophile hétérotopique lithiasarcome mucineux métaplasmocytoplasmique myxoide segmentaire stade IcM
+T68	ANAT 3128 3136	lombaire
+T69	MEAS 3153 3164	perceptible
+T70	LIVB 3173 3178	germe
+T71	Concept_Idea 3206 3228	caractère histologique
+T72	MEAS 3247 3257	spécifique
+T73	DISO 3279 3298	métastase hydatique
+T74	DISO 3308 3330	signe neurochirurgical
+T75	MEAS 3371 3378	simples
+T76	PROC 3384 3419	traitement chirurgical conservateur
+T77	PROC 3435 3455	suivi postopératoire
+T78	PROC 3468 3497	antibiothérapie néo adjuvante
+T79	CHEM 3503 3539	céphalosporine Acide Bétacidositrile
+T81	ANAT 3557 3567	vasculaire
+T82	PROC 3574 3604	curage ganglionnaire axillaire
+T83	PROC 3627 3678	greffons antihémorragiques intraveineux accessoires
+T84	PROC 3692 3725	anesthésie générale peropératoire
+T85	TEMP 3737 3744	4heures
+T86	PROC 3761 3787	contrôles ophtalmologiques
+T87	PROC 3840 3873	oxygénothérapie substitutionnelle
+T88	PROC 3889 3929	kinésithérapie cognitivo-comportementale
+T89	PROC 3964 3999	prise en charge psychothérapeutique
+T90	LIVB 4098 4113	mère maternelle
+T91	PROC 4177 4194	scanner abdominal
+T92	ANAT 4185 4194	abdominal
+T93	PROC 4216 4241	préparation anesthètrique

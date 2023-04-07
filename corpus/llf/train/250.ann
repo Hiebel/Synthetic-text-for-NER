@@ -1,0 +1,11 @@
+T1	PROC 2 49	étude
+T2	ANAT 31 49	liquide
+T3	DISO 71 80	granulome
+T4	LIVB 85 92	patient
+T5	PROC 103 130	traitement
+T6	CHEM 114 130	anti-tuberculeux
+T7	CHEM 141 150	Célécoxib
+T8	DOSE 152 157	50
+T9	TEMP 157 159	/j
+T10	TEMP 160 178	pendant
+T11	MEAS 199 208	favorable

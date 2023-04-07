@@ -1,0 +1,18 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	9 ans
+T3	DISO 40 65	antécédents pathologiques
+T4	MEAS 66 78	particuliers
+T5	PROC 82 97	examen clinique
+T6	Concept_Idea 108 113	poids
+T7	MEAS 117 122	13 kg
+T8	Concept_Idea 132 138	taille
+T9	MEAS 142 148	170 cm
+T10	Concept_Idea 156 182	indice de masse corporelle
+T11	MEAS 185 196	29,2 kg/m 2
+T12	PROC 201 234	radiographie du boudin d'oreilles
+T13	ANAT 217 234	boudin d'oreilles
+T14	DISO 255 305	épiphyse des sinus caverneux ptérygo-aryténoïdiens
+T16	CHEM 355 375	produit de contraste
+T17	PROC 423 432	injection
+T18	CHEM 436 456	produit de contraste
+T19	PROC 486 511	intervention chirurgicale

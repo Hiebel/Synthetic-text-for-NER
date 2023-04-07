@@ -1,0 +1,24 @@
+T1	PROC 3 18	prise en charge
+T2	DISO 25 31	lésion
+T3	PROC 90 111	bi-antibioprophylaxie
+T4	CHEM 116 147	amoxicilline acide clavulanique
+T5	DOSE 149 157	1 gramme
+T6	TEMP 157 159	/j
+T7	PROC 176 202	tomodensitométrie du genou
+T8	ANAT 197 202	genou
+T9	DISO 218 227	anomalies
+T10	TEMP 247 253	3 mois
+T11	DISO 280 303	récidives neurologiques
+T12	Concept_Idea 327 342	plan biologique
+T13	DISO 348 378	syndrome cérébelleux mydriasal
+T14	Concept_Idea 398 410	état général
+T15	MEAS 425 433	deuxième
+T16	PROC 434 446	intervention
+T17	LIVB 451 457	malade
+T18	PROC 462 467	sorti
+T19	TEMP 471 499	huitième jour postopératoire
+T20	PROC 505 526	traitement céfotaxime
+T22	Concept_Idea 550 572	paramètres biologiques
+T23	Concept_Idea 587 604	état psychomoteur
+T24	DISO 640 668	symptomatologie obstétricale
+T25	PHEN 700 716	consignes vitaux

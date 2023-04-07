@@ -1,0 +1,78 @@
+T1	LIVB 15 22	patient
+T2	DISO 54 66	pathologique
+T3	MEAS 67 78	particulier
+T4	Concept_Idea 101 104	âge
+T5	DISO 129 162	rupture partielle du cuir chevelu
+T6	ANAT 150 162	cuir chevelu
+T7	DISO 174 185	traumatisme
+T8	MEAS 250 257	simples
+T9	PROC 262 267	suivi
+T11	MEAS 290 302	satisfaisant
+T12	MEAS 322 331	favorable
+T13	TEMP 346 359	il y ait 3ans
+T14	DISO 394 436	fistule nasogastro-duodénale controlatéral
+T15	ANAT 402 436	nasogastro-duodénale controlatéral
+T16	MEAS 448 463	progressivement
+T17	Concept_Idea 467 473	volume
+T18	DISO 490 507	récidive tumorale
+T19	PROC 535 550	examen physique
+T20	DISO 572 586	déficit moteur
+T21	DISO 596 612	signe infectieux
+T22	DISO 630 639	dysphonie
+T23	DISO 650 679	symptômes neuropsychiatriques
+T24	PROC 695 711	examen somatique
+T25	DISO 723 737	particularités
+T26	PROC 742 754	mammographie
+T27	Hospital 764 771	urgence
+T28	DISO 788 817	distension abdomino-pelvienne
+T29	ANAT 799 817	abdomino-pelvienne
+T30	MEAS 828 838	60/40 mmHg
+T31	DEVI 856 864	cathéter
+T32	MEAS 874 879	14 cm
+T33	Concept_Idea 883 892	grand axe
+T34	MEAS 898 912	19 centimètres
+T35	Localization 931 949	quadrant supérieur
+T36	PROC 953 972	électrocardiogramme
+T37	DISO 996 1008	hypokaliémie
+T38	MEAS 1019 1050	0,45 gramme par millimètre cube
+T40	LIVB 1091 1099	patiente
+T41	DISO 1104 1133	neuropathie sensitivo-motrice
+T42	DISO 1226 1269	tachycardie paroxystique temporo-thoracique
+T43	TEMP 1307 1317	par minute
+T44	Concept_Idea 1327 1338	température
+T45	DISO 1455 1472	insomnie profonde
+T46	DISO 1499 1522	agitation psychomotrice
+T47	DISO 1545 1566	détresse respiratoire
+T48	PHEN 1554 1566	respiratoire
+T49	PROC 1584 1601	abord chirurgical
+T50	PROC 1606 1625	bilan préopératoire
+T51	DISO 1652 1682	surinfection bactérienne aiguë
+T52	DISO 1896 1930	maladie thromboembolique familiale
+T53	DISO 1948 1990	myomectasie tissulaire congénitale maligne
+T54	DISO 2002 2028	perforation myometriosique
+T55	PROC 2109 2137	antibiothérapie probabiliste
+T56	PROC 2250 2276	tests immunohistochimiques
+T57	CHEM 2320 2334	céphalosporine
+T58	CHEM 2337 2349	amoxicilline
+T59	CHEM 2351 2369	acide zolédronique
+T60	PROC 2774 2800	scanner cervico-thoracique
+T61	ANAT 2782 2800	cervico-thoracique
+T62	DISO 2817 2866	lésions kystique du foie laryngé supérieur gauche
+T63	ANAT 2837 2866	foie laryngé supérieur gauche
+T64	Localization 2860 2866	gauche
+T65	MEAS 2890 2894	deux
+T66	ANAT 2895 2957	champs thoraciques cervicaux dorso-jugulo-temporo-sous cutanés
+T67	Concept_Idea 2984 2993	caractère
+T68	DISO 3031 3046	symptomatologie
+T69	LIVB 3051 3057	malade
+T70	PROC 3071 3104	traitement palliatif conservateur
+T71	DOSE 3106 3112	300 mg
+T72	TEMP 3112 3117	/jour
+T73	PROC 3123 3133	diagnostic
+T78	DISO 3744 3756	complication
+T79	DISO 3888 3908	récidives somatiques
+T80	LIVB 3924 3933	patientes
+T81	DISO 3961 3985	constipations chroniques
+T82	DISO 4020 4044	troubles dysfonctionnels
+T83	Concept_Idea 4079 4111	structures respectives cliniques
+T84	DISO 4357 4381	déficit cognitivo-moteur

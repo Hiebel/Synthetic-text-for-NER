@@ -1,0 +1,58 @@
+T1	LIVB 29 37	patiente
+T2	Hospital 75 83	urgences
+T3	DISO 93 134	douleurs abdomino-pelviennes hypoalgiques
+T4	ANAT 102 134	abdomino-pelviennes hypoalgiques
+T5	TEMP 144 157	depuis 3 mois
+T6	CHEM 163 174	Ampicilline
+T7	CHEM 187 200	Cefaméthasone
+T9	MEAS 261 276	progressivement
+T10	Concept_Idea 280 286	volume
+T11	DISO 328 359	rupture du utérus polymyomateux
+T12	ANAT 339 359	utérus polymyomateux
+T13	DISO 376 400	kystadénome hypertrophié
+T14	DISO 414 436	déchirure épigastrique
+T15	ANAT 424 436	épigastrique
+T16	DEVI 441 460	broche scannoguidée
+T17	ANAT 475 502	grosses-vésicules biliaires
+T18	DISO 519 538	cholécystite aiguée
+T19	DISO 548 560	stéroïdienne
+T20	PROC 575 604	prélèvements bactériologiques
+T21	PROC 743 779	tomodensitométrie abdomino-pelvienne
+T22	ANAT 761 779	abdomino-pelvienne
+T23	LIVB 813 821	patiente
+T24	DISO 826 908	hypertrophie rétrovésiculaire rétro-thoracique latéo-cervicale hypoplasique altéré
+T26	MEAS 918 923	12 cm
+T27	Concept_Idea 927 936	grand axe
+T28	ANAT 965 972	pelvien
+T29	ANAT 994 1010	paroi abdominale
+T30	PROC 1032 1052	reprise chirurgicale
+T31	MEAS 1064 1074	rapidément
+T32	Concept_Idea 1078 1084	taille
+T33	MEAS 1094 1112	hyper vascularisée
+T34	DISO 1131 1171	nodules arrondis polylobés bourgeonnants
+T35	ANAT 1197 1222	parties molles cervicales
+T36	ANAT 1249 1260	métaphragme
+T37	PROC 1265 1298	imagerie par résonance magnétique
+T38	PROC 1300 1303	IRM
+T40	DISO 1531 1557	anomalie neurofasciculante
+T41	DISO 1568 1604	localisations secondaires nodulaires
+T42	DISO 1710 1754	granulome séreux nécrose cicatriciel maligne
+T43	DISO 1796 1829	réaction inflammatoire biologique
+T44	PROC 1849 1861	radiologique
+T45	DISO 1923 1944	hypothalamie primaire
+T46	DISO 1998 2020	détresse respiratoires
+T47	PHEN 2007 2020	respiratoires
+T48	MEAS 2069 2078	spontanée
+T49	PROC 2209 2232	mesures prophylactiques
+T50	DISO 2310 2325	symptomatologie
+T51	TEMP 2350 2362	premier mois
+T52	LIVB 2368 2374	enfant
+T53	DISO 2390 2423	syndrome d'épanchement péritonéal
+T54	ANAT 2413 2423	péritonéal
+T55	PROC 2429 2453	chimiothérapie adjuvante
+T56	CHEM 2459 2471	doxorubicine
+T57	CHEM 2473 2486	dexaméthasone
+T58	CHEM 2488 2498	cisplatine
+T59	CHEM 2503 2514	doxycycline
+T60	PROC 2528 2557	corticothérapie intraveineuse
+T61	MODE 2561 2566	bolus

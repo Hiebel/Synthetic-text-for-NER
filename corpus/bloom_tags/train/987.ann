@@ -1,0 +1,28 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 73 78	admis
+T6	Hospital 83 104	urgences pédiatriques
+T7	DISO 114 131	pleurésie fébrile
+T8	DISO 147 163	troubles visuels
+T9	TEMP 173 187	depuis 2 jours
+T10	PROC 191 206	examen clinique
+T11	LIVB 219 225	enfant
+T12	Concept_Idea 229 233	état
+T13	DISO 236 250	amaigrissement
+T14	MEAS 261 265	10kg
+T15	PROC 271 294	auscultation pulmonaire
+T16	ANAT 284 294	pulmonaire
+T17	MEAS 301 308	normale
+T18	PROC 313 341	tomodensitométrie thoracique
+T19	ANAT 331 341	thoracique
+T20	PROC 343 367	TDM) cervico-thoraciques
+T22	DISO 398 481	masse tumorale du parenchyme pariéto-mésentriculaire latéro-angulo-carotidien droit
+T24	Localization 476 481	droit
+T25	MEAS 492 496	13mm
+T26	MEAS 501 504	8mm
+T27	ANAT 521 570	région médiastinale para vertébro-latérale droite
+T28	Localization 564 570	droite
+T29	ANAT 588 615	surrénalectum hypogastrique
+T30	DISO 644 656	métanéphrine

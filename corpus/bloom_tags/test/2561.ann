@@ -1,0 +1,50 @@
+T1	LIVB 4 12	patiente
+T2	PROC 34 39	reçue
+T3	Hospital 44 52	urgences
+T4	DISO 79 99	épigastralgies aiguë
+T5	TEMP 109 122	depuis 2 mois
+T6	PROC 128 137	admission
+T7	Hospital 146 176	service d'accueil des urgences
+T8	Hospital 180 229	centre hospitalier universitaire Hassan II de Fès
+T9	DISO 252 268	choc hypotonique
+T10	PROC 274 295	traitement antalgique
+T11	CHEM 308 319	bupivacaine
+T12	CHEM 322 340	méthylprédnisolone
+T13	DOSE 342 351	0,5 mg/kg
+T14	CHEM 353 366	bromocriptine
+T15	DOSE 367 373	1mg/kg
+T16	CHEM 376 395	hydroxyprogestérone
+T17	DOSE 396 404	20 µg/kg
+T18	PROC 410 451	scanner abdomino-pelvien transoesophagien
+T19	ANAT 418 451	abdomino-pelvien transoesophagien
+T20	DISO 468 509	sténose tricuspide droite hypertrophiante
+T22	Localization 487 493	droite
+T23	MEAS 519 523	4 cm
+T24	Concept_Idea 527 536	grand axe
+T25	MEAS 541 545	2 cm
+T26	Concept_Idea 549 558	petit axe
+T27	ANAT 586 624	muscles fléchisseurs sus claviculaires
+T28	LIVB 652 660	patiente
+T29	DISO 696 739	syndrome d'épanchement liquidien péritonéal
+T30	ANAT 719 739	liquidien péritonéal
+T31	MODE 790 802	dose globale
+T32	CHEM 806 819	phénobarbital
+T33	DISO 867 880	symptomatique
+T34	DISO 884 896	métastatique
+T35	PROC 909 932	radiothérapie adjuvante
+T36	DISO 1105 1113	tumorale
+T37	PROC 1153 1187	médication complémentaire curative
+T38	DISO 1224 1246	anomalies métaboliques
+T39	DISO 1586 1599	inflammatoire
+T40	DISO 1765 1785	évènement douloureux
+T41	LIVB 1804 1820	patientspatients
+T42	DISO 1909 1956	ostéomyélite ostéo-granulomateuse inflammatoire
+T43	DISO 1974 2013	atteinte cutanée érythémato-sécrétrante
+T44	DISO 2023 2042	méningo-infiltrante
+T45	DISO 2074 2091	infiltrat maligne
+T46	ANAT 2107 2134	structures fibromusculaires
+T47	DEVI 2552 2588	milieu graisseux liquidien prolabeur
+T48	DISO 2700 2725	tuberculose du col utérin
+T49	ANAT 2715 2725	col utérin
+T50	PROC 2741 2756	examen clinique
+T51	DISO 2768 2781	particularité

@@ -1,0 +1,46 @@
+T1	LIVB 14 19	fille
+T2	PROC 78 84	admise
+T3	Hospital 89 111	urgences obstétricales
+T4	LIVB 121 124	son
+T5	LIVB 125 151	mariage pluridisciplinaire
+T6	TEMP 164 185	six années auparavant
+T7	LIVB 193 195	sa
+T8	LIVB 196 207	belle-soeur
+T9	LIVB 270 273	ses
+T10	LIVB 274 283	confrères
+T11	DISO 340 385	maladies auto-immunes polyneurofibromatérales
+T12	Concept_Idea 1089 1092	âge
+T14	ANAT 1111 1134	membre inférieur gauche
+T15	Localization 1128 1134	gauche
+T16	MEAS 1180 1189	favorable
+T17	TEMP 1213 1220	12 mois
+T18	DISO 1236 1268	souffrance neurologique primaire
+T19	DISO 1275 1302	complications chirurgicales
+T20	PROC 1325 1368	chimiothérapie palliative substitutionnelle
+T21	PROC 1396 1423	thyroïdectomie exploratrice
+T22	DISO 1444 1487	masse tissulaire hypoéchogène réactionnelle
+T23	MEAS 1497 1511	16 centimètres
+T24	Concept_Idea 1515 1544	diamètre corporéal maxillaire
+T25	MEAS 1552 1563	650 grammes
+T26	MEAS 1572 1576	5 cm
+T27	Concept_Idea 1580 1590	grande axe
+T28	MEAS 1610 1616	strict
+T29	PROC 1657 1665	incision
+T30	PROC 1686 1706	suivi postopératoire
+T31	PROC 1720 1745	consultation chirurgicale
+T32	PROC 1762 1790	néphrectomie totale complète
+T33	PROC 1796 1829	radio-chimiothérapie concomitante
+T34	PHEN 1895 1904	grossesse
+T35	PROC 1929 1973	perfusion intraventriculaire endonocavitaire
+T36	PROC 1986 2012	corticothérapie injectable
+T37	CHEM 2018 2035	bronchodilatateur
+T38	CHEM 2038 2055	protoxyde d'azote
+T39	CHEM 2057 2101	hypoglycémiantone acétyl benzyle diazépamide
+T40	DEVI 2106 2128	plaque vissée ventilée
+T41	PROC 2215 2224	injection
+T42	MEAS 2234 2244	hétérogène
+T43	MEAS 2263 2283	difficile à déplacer
+T44	PROC 2301 2331	reconstruction scannographique
+T45	PROC 2368 2447	tumorectomie segmentaire transoesophagienne cervicale pré anastomoïde étranglée
+T46	PROC 2463 2491	résultat immunohistochimique
+T47	DISO 2512 2574	prolifération polyploïde hétérozygote mucineux kératinocytaire

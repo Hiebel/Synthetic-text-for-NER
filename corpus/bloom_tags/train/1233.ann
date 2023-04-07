@@ -1,0 +1,39 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 93	traitement adjuvant
+T3	CHEM 106 115	docetaxel
+T4	CHEM 117 127	cisplatine
+T5	CHEM 129 138	buprémide
+T6	CHEM 140 153	dexaméthasone
+T7	PROC 166 185	curage sphinctérial
+T8	ANAT 173 185	sphinctérial
+T9	PROC 191 215	anesthésie locorégionale
+T10	ANAT 202 215	locorégionale
+T11	DOSE 227 231	4 ml
+T12	CHEM 235 246	doxycycline
+T13	DOSE 249 253	2 mg
+T14	CHEM 257 267	Cufentanil
+T15	PROC 272 306	imagerie par résonnance magnétique
+T16	PROC 308 311	IRM
+T19	MODE 555 567	intraveineux
+T20	CHEM 570 596	hydroxy chlorotriazolamide
+T21	ANAT 617 661	étage sus-diaphragmatique préhypso-sigmoïdal
+T22	LIVB 683 691	patiente
+T23	DISO 766 783	résidu ischémique
+T24	DISO 790 807	lésions tumorales
+T25	DISO 835 855	lésion neuroméningée
+T26	DISO 897 930	syndrome d’épanchement péritonéal
+T27	ANAT 920 930	péritonéal
+T30	Localization 977 982	supra
+T31	Localization 1020 1030	bilatérale
+T32	ANAT 1063 1083	vaisseaux spléniques
+T33	DISO 1099 1157	intubation œsophagienne transfixiante tracheo œsophagienne
+T34	ANAT 1110 1157	œsophagienne transfixiante tracheo œsophagienne
+T35	PROC 1173 1219	greffonectomie grêlo-caecale totale abdominale
+T36	ANAT 1188 1219	grêlo-caecale totale abdominale
+T37	PROC 1263 1280	pronostic curatif
+T38	PROC 1344 1363	mesures palliatives
+T39	PROC 1378 1426	reprise chirurgicale biphasique scannotherapique
+T40	PROC 1538 1566	splénectomie bilio-digestive
+T41	DISO 1606 1628	nécrose carcinomateuse
+T42	DEVI 1646 1662	broches plâtrées
+T43	LIVB 2261 2268	patient

@@ -1,0 +1,70 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 82	admis
+T6	Hospital 87 95	urgences
+T7	DISO 104 141	déficit moteur des membres inférieurs
+T8	ANAT 123 141	membres inférieurs
+T9	TEMP 151 164	depuis 3 mois
+T10	PROC 168 182	interrogatoire
+T11	DISO 212 216	toux
+T12	DISO 266 297	polyarthrite du plexus brachial
+T13	ANAT 282 297	plexus brachial
+T14	DISO 312 324	hyperthermie
+T15	PROC 342 361	bilan préopératoire
+T16	PROC 363 396	échocardiographie transthoracique
+T17	ANAT 381 396	transthoracique
+T18	PROC 400 427	angio-IRM trans-thoraciques
+T19	PROC 442 461	bilan immunologique
+T20	MEAS 468 475	négatif
+T21	LIVB 477 480	Son
+T22	PROC 481 501	examen gynécologique
+T23	Concept_Idea 518 533	acuité visuelle
+T24	ANAT 549 558	œil droit
+T25	Localization 553 558	droit
+T26	PHEN 628 649	réflexes oculomoteurs
+T27	DISO 686 720	cataracte congénitale hypertensive
+T28	LIVB 745 753	patiente
+T29	DISO 783 802	facteur étiologique
+T30	DISO 834 862	anomalies sensitivo-moteuses
+T31	PROC 1045 1062	histopatholgiques
+T32	PROC 1144 1160	en peropératoire
+T33	PROC 1188 1259	ponction liquide pleuro-pulmonaire médiastino-carotidienne exploratrice
+T35	PROC 1275 1313	chirurgie pleuro-pulmonaires cervicale
+T36	ANAT 1285 1313	pleuro-pulmonaires cervicale
+T37	PROC 1319 1372	curage sphinctérien cutané phréno-œsophagien pariétal
+T38	ANAT 1326 1372	sphinctérien cutané phréno-œsophagien pariétal
+T39	MEAS 1403 1412	10 litres
+T40	MEAS 1416 1425	15 litres
+T41	ANAT 1525 1546	pulmonaire céphalique
+T42	PROC 1559 1583	scanner abdomino-pelvien
+T43	ANAT 1567 1583	abdomino-pelvien
+T44	DISO 1606 1620	masse tumorale
+T45	MEAS 1621 1629	palpable
+T46	DISO 1678 1693	lésions tumoral
+T47	CHEM 1890 1910	produit de contraste
+T48	PROC 1941 1950	injection
+T49	DOSE 1954 1960	2mg/kg
+T50	CHEM 1964 1975	propranolol
+T51	PROC 2070 2091	excision chirurgicale
+T52	Concept_Idea 2101 2107	taille
+T53	MEAS 2116 2136	supra-centimétriques
+T54	PROC 2159 2182	radiothérapie adjuvante
+T55	DISO 2290 2323	syndrome inflammatoire biologique
+T56	PROC 2326 2329	CRP
+T57	MEAS 2331 2338	75 mg/L
+T58	PROC 2340 2342	VS
+T59	MEAS 2344 2349	20 mm
+T60	PROC 2352 2367	globules blancs
+T61	MEAS 2369 2379	17 000/mm3
+T62	PROC 2381 2391	plaquettes
+T63	MEAS 2393 2402	20000/mm3
+T64	PROC 2408 2427	pression artérielle
+T65	ANAT 2417 2427	artérielle
+T66	MEAS 2444 2456	120 /70 mmHg
+T67	Localization 2490 2496	droite
+T68	MEAS 2505 2514	troisième
+T69	DEVI 2573 2600	attelle plâtrée pneumatique
+T70	MEAS 2777 2788	progressive
+T71	DISO 2936 2958	symptômes neurologique

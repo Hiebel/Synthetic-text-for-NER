@@ -1,0 +1,51 @@
+T1	LIVB 19 26	patient
+T2	DISO 70 93	hypertension artérielle
+T3	ANAT 83 93	artérielle
+T4	DISO 100 125	traumatisme du pied droit
+T5	ANAT 115 125	pied droit
+T6	Localization 120 125	droit
+T7	PROC 130 147	bilan étiologique
+T8	PROC 170 186	bilan infectieux
+T9	PROC 199 209	hémogramme
+T10	DISO 225 234	anomalies
+T11	PHEN 240 258	suites opératoires
+T12	MEAS 267 274	simples
+T13	PROC 284 320	séances de rééducation fonctionnelle
+T14	LIVB 343 349	malade
+T15	Hospital 365 376	psychiatrie
+T16	TEMP 379 396	J3 postopératoire
+T17	PROC 402 429	contrôle neuropsychiatrique
+T18	CHEM 431 440	Tamoxifen
+T19	Concept_Idea 443 446	Cas
+T20	MEAS 447 451	N° 2
+T21	LIVB 455 460	homme
+T22	DISO 497 534	neuropathie sensitivo-motrice motrice
+T23	DEVI 620 642	processus intraveineux
+T24	MODE 719 759	systèmes musculo-tendineux traditionnels
+T25	PROC 787 815	transport interventriculaire
+T26	DISO 837 844	maladie
+T27	PROC 889 913	prise en charge médicale
+T28	LIVB 989 995	enfant
+T29	DISO 1013 1034	sensations délirantes
+T30	DISO 1131 1158	hallucinations psychotiques
+T31	DISO 1312 1331	épisodes dépressifs
+T32	Concept_Idea 1523 1543	consignes somatiques
+T33	Concept_Idea 1726 1747	activités habituelles
+T34	PROC 3189 3216	analyse anatomopathologique
+T35	DISO 3232 3287	carcinome épidermoïde maligne du membre inférieur droit
+T36	ANAT 3265 3287	membre inférieur droit
+T37	Localization 3282 3287	droit
+T39	PHEN 3318 3336	suites opératoires
+T40	DISO 3350 3364	particularités
+T41	LIVB 3371 3379	patiente
+T42	TEMP 3405 3412	8e jour
+T43	MEAS 3473 3479	grosse
+T44	DISO 3480 3494	prise de poids
+T45	DISO 3544 3562	diarrhée glaireuse
+T46	DISO 3592 3620	syndrome infectieux digestif
+T47	Hospital 3654 3688	structures hospitalo-hospitalières
+T48	PROC 3709 3736	chimiothérapie concomitante
+T49	PROC 3766 3792	anticoagulation préventive
+T50	DISO 3818 3852	symptomatologie neuropsychiatrique
+T51	Concept_Idea 3944 3957	plan clinique
+T52	LIVB 3999 4007	Patiente

@@ -1,0 +1,37 @@
+T1	LIVB 14 24	nourrisson
+T2	TEMP 32 38	2 mois
+T3	DISO 57 85	douleurs abdomino-pelviennes
+T4	ANAT 66 85	abdomino-pelviennes
+T5	DISO 101 117	syndrome méningé
+T6	PROC 122 165	tomodensitométrie du membre inférieur droit
+T7	ANAT 143 165	membre inférieur droit
+T8	Localization 160 165	droit
+T9	DISO 177 213	masse tissulaire pariétale polylobée
+T10	Concept_Idea 222 229	hauteur
+T11	Concept_Idea 236 244	diamètre
+T12	PROC 289 299	traitement
+T13	PROC 318 346	chimiothérapie néo adjuvante
+T14	CHEM 351 364	dexaméthasone
+T15	DOSE 366 371	25 mg
+T16	TEMP 371 373	/j
+T17	PROC 388 409	thyroïdectomie totale
+T18	ANAT 428 440	cuir chevelu
+T19	MEAS 455 459	deux
+T20	ANAT 460 479	membres supérieures
+T21	Localization 468 479	supérieures
+T22	PROC 484 505	contrôle radiologique
+T23	DISO 536 559	lésions neuroendocrines
+T24	DEVI 570 576	plaque
+T25	PROC 580 605	étude anatomopathologique
+T26	DISO 624 658	léiomyome endométrial monophasique
+T27	DISO 664 669	signe
+T28	DISO 673 682	malignité
+T29	DISO 692 706	résidu tumoral
+T30	PROC 711 741	complément immunohistochimique
+T31	PROC 808 825	bilan étiologique
+T32	DISO 864 887	localisation secondaire
+T33	DISO 934 953	symptômes délirants
+T34	MEAS 1008 1015	simples
+T35	DISO 1061 1088	détresse respiratoire aiguë
+T36	PHEN 1070 1082	respiratoire
+T37	PROC 1114 1142	antibiothérapie probabiliste

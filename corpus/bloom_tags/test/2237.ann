@@ -1,0 +1,25 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	Concept_Idea 41 66	antécédents pathologiques
+T4	MEAS 67 79	particuliers
+T5	PROC 83 98	examen clinique
+T6	PROC 103 112	admission
+T7	DISO 126 137	tuméfaction
+T8	ANAT 154 180	région parotidienne droite
+T9	Localization 174 180	droite
+T10	TEMP 190 203	depuis 2 mois
+T11	MEAS 218 233	progressivement
+T12	Concept_Idea 237 243	volume
+T13	PROC 248 264	bilan biologique
+T14	DISO 282 298	hyperleucocytose
+T15	MEAS 301 310	16000/mm3
+T16	PROC 320 347	polynucléaires neutrophiles
+T17	PROC 349 352	PNN
+T18	PROC 355 375	protéines C réactive
+T19	PROC 377 380	CRP
+T20	PROC 383 399	glycémie glyquée
+T21	PROC 441 460	bilan préopératoire
+T22	MEAS 467 473	normal
+T23	DISO 490 510	hépato-surrénalectie
+T24	DISO 520 539	anomalies digestive
+T25	DISO 550 575	localisations néoplasique

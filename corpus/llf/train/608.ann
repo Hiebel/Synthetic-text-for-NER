@@ -1,0 +1,17 @@
+T1	Concept_Idea 4 13	résultats
+T2	PROC 19 42	examen
+T3	LIVB 60 67	patient
+T4	MEAS 71 74	bon
+T5	Concept_Idea 75 87	état
+T6	PROC 97 115	tension
+T7	ANAT 105 115	artérielle
+T8	MEAS 118 129	120/80
+T9	DISO 150 181	anomalies
+T10	PHEN 164 173	fonctions
+T11	PHEN 164 181	fonctions
+T12	ANAT 174 181	rénales
+T13	ANAT 185 195	hépatiques
+T14	DISO 185 195	hépatiques
+T15	DISO 200 212	hypoglycémie
+T16	DISO 216 236	lyse
+T17	ANAT 224 236	nerf

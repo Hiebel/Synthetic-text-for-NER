@@ -1,0 +1,15 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 62	antécédent pathologique
+T3	MEAS 63 70	notable
+T4	PROC 72 77	opéré
+T5	DISO 86 130	kyste hydatique des parties molles du thorax
+T6	ANAT 106 130	parties molles du thorax
+T7	TEMP 134 138	2008
+T8	Concept_Idea 143 146	âge
+T9	TEMP 150 156	18 ans
+T10	PROC 160 185	intervention chirurgicale
+T11	PROC 204 228	laparotomie exploratrice
+T12	PROC 234 267	curage ganglionnaire locorégional
+T13	ANAT 241 267	ganglionnaire locorégional
+T14	PROC 308 329	anesthésie péridurale
+T15	PHEN 347 367	grossesse gémellaire

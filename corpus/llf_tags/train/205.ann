@@ -1,0 +1,45 @@
+T1	LIVB 19 24	fille
+T2	TEMP 28 34	10 ans
+T3	PROC 46 52	admise
+T4	Hospital 56 71	bloc opératoire
+T5	DISO 81 88	douleur
+T6	PHEN 94 100	marche
+T7	PROC 104 119	examen clinique
+T8	ANAT 134 156	membre inférieur droit
+T9	Localization 151 156	droit
+T10	MEAS 157 176	légèrement sensible
+T11	DISO 182 206	déficit sensitivo-moteur
+T12	DISO 210 225	sensitivomoteur
+T13	PROC 247 263	bilan biologique
+T14	DISO 275 288	particularité
+T15	PROC 302 317	toucher vaginal
+T16	ANAT 310 317	vaginal
+T17	PROC 323 344	échographie des mains
+T18	ANAT 339 344	mains
+T19	PROC 357 398	scanner cervico-thoraco-abdomino- pelvien
+T20	ANAT 365 398	cervico-thoraco-abdomino- pelvien
+T21	DISO 417 469	masse tissulaire cervicale péritonéale hypo échogène
+T22	MEAS 478 482	6 cm
+T23	Concept_Idea 486 494	diamètre
+T25	Localization 543 551	en avant
+T26	ANAT 565 584	troncs supraaectifs
+T27	MEAS 609 622	7 centimètres
+T28	MEAS 626 639	4 centimètres
+T29	Concept_Idea 643 652	grand axe
+T30	PROC 656 681	étude immunohistochimique
+T31	PROC 683 686	IHC
+T32	LIVB 734 742	patiente
+T33	PROC 2612 2636	chimiothérapie adjuvante
+T34	TEMP 2679 2685	4 mois
+T35	DISO 2735 2764	symptômes neuropsychiatriques
+T36	Concept_Idea 2789 2805	tableau clinique
+T37	Concept_Idea 2859 2884	constantes hémodynamiques
+T38	MEAS 2887 2891	37°C
+T39	PHEN 2896 2911	fonction rénale
+T40	ANAT 2905 2911	rénale
+T41	MEAS 2918 2925	normale
+T42	LIVB 2931 2938	patient
+T43	DISO 2963 2982	syndrome infectieux
+T44	DISO 2989 3012	déficit sensitivomoteur
+T45	PROC 3024 3046	soins locaux intensifs
+T46	PROC 3053 3081	traitement médical palliatif

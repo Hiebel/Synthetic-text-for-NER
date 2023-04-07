@@ -1,0 +1,21 @@
+T1	PROC 2 8	examen
+T2	PROC 13 22	admission
+T3	LIVB 36 44	patiente
+T4	MEAS 48 57	assez bon
+T5	Concept_Idea 58 70	état général
+T6	DISO 72 83	polypnéique
+T7	MEAS 86 99	25 cycles/min
+T8	PHEN 109 114	pouls
+T9	MEAS 118 130	110 batt/min
+T10	PROC 135 161	pression artérielle pulsée
+T11	ANAT 144 161	artérielle pulsée
+T12	MEAS 178 189	170/70 mmHg
+T13	CHEM 196 209	noradrénaline
+T14	DOSE 211 220	0,5 µg/kg
+T15	TEMP 220 228	/semaine
+T16	PROC 245 261	examen somatique
+T17	DISO 273 286	particularité
+T18	DISO 309 342	syndrome d'épanchement péritonéal
+T19	ANAT 332 342	péritonéal
+T20	DISO 348 383	insuffisance cardiovasculo-nerveuse
+T21	ANAT 361 383	cardiovasculo-nerveuse

@@ -1,0 +1,21 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 31 39	patiente
+T3	MEAS 43 46	bon
+T4	Concept_Idea 47 59	état général
+T5	DISO 61 72	polypnéique
+T6	MEAS 75 88	30 cycles/min
+T7	PROC 92 122	auscultation cardio-pulmonaire
+T8	ANAT 105 122	cardio-pulmonaire
+T9	MEAS 129 136	normale
+T10	PROC 152 172	examen somatologique
+T11	DISO 184 197	particularité
+T12	PROC 202 239	tomodensitométrie abdomino- pelvienne
+T13	ANAT 220 239	abdomino- pelvienne
+T14	DISO 259 324	épanchement périphérique du greffon caverneux péritonéal infiltré
+T15	Localization 271 283	périphérique
+T19	DISO 506 559	collection liquidienne tissulaire polylobée hypodense
+T20	MEAS 569 577	70/45 cm
+T21	PROC 605 614	injection
+T22	CHEM 618 638	produit de contraste
+T23	DISO 660 681	empyème hypogastrique
+T24	ANAT 668 681	hypogastrique

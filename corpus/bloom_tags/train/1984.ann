@@ -1,0 +1,57 @@
+T1	LIVB 6 14	patiente
+T2	DISO 58 99	carcinose parathyroïdienne utéro-vaginale
+T3	ANAT 68 99	parathyroïdienne utéro-vaginale
+T4	TEMP 109 122	depuis 15 ans
+T5	DISO 142 164	hypercalcémie primaire
+T6	DISO 185 204	anomalies cliniques
+T7	DISO 222 241	traumatisme vaginal
+T8	ANAT 234 241	vaginal
+T9	DISO 248 281	maladie thromboembolique veineuse
+T10	LIVB 312 320	patiente
+T11	PROC 339 358	traitement adjuvant
+T12	DISO 480 491	ostéoporose
+T13	PROC 496 510	interrogatoire
+T14	DISO 528 548	prise médicamenteuse
+T15	PROC 573 597	exploration chirurgicale
+T16	DISO 624 649	masse tumorale pléomorphe
+T17	MEAS 659 664	32 mm
+T18	Concept_Idea 668 682	grand diamètre
+T19	MEAS 691 698	2/10 cm
+T20	DISO 718 735	hypotonie utérine
+T21	ANAT 728 735	utérine
+T22	MEAS 750 777	progressivement progressive
+T23	TEMP 786 805	six mois auparavant
+T24	DISO 823 865	syndrome d’épanchement péritonéal biliaire
+T25	ANAT 846 865	péritonéal biliaire
+T26	DISO 891 945	adénopathie hépato-surrénalienne hypogastrique ulcérée
+T28	MEAS 957 976	de façon hétérogène
+T29	Concept_Idea 980 986	taille
+T30	MEAS 1010 1015	lâche
+T31	MEAS 1025 1039	indifférenciée
+T32	TEMP 1056 1060	6ans
+T33	DISO 1095 1111	tumorale maligne
+T34	DISO 1138 1151	cholestatique
+T35	DISO 1194 1214	diabète hypertenseur
+T36	DISO 1220 1254	insulinothérapie néphréno-cœliaque
+T37	DISO 1302 1379	sténose artérielle intrahypophyso-laryngéo-gastro œsophagienne laryngorétrale
+T39	PROC 1419 1449	TDM thoraco-abdomino-pelvienne
+T40	ANAT 1423 1449	thoraco-abdomino-pelvienne
+T43	Localization 1631 1638	distale
+T44	ANAT 1659 1727	région pariétale sus claviculaire thoracique sus-claviculaire gauche
+T45	Localization 1676 1679	sus
+T46	Localization 1721 1727	gauche
+T47	MEAS 1780 1787	normale
+T48	ANAT 1821 1844	organes para-rachidiens
+T49	ANAT 1864 1899	muscles hyo-thyro-sous-sternonaires
+T51	Localization 1942 1947	supra
+T52	PROC 2060 2091	tomodensitométrie préopératoire
+T53	PROC 2092 2095	TDP
+T54	DISO 2146 2167	localisations tumoral
+T55	DISO 2182 2204	symptômes fonctionnels
+T56	LIVB 2227 2234	patient
+T57	PROC 2253 2277	cystectomie exploratrice
+T58	PROC 2281 2307	examen anatomopathologique
+T59	PROC 2311 2331	immuno-histochimique
+T60	DISO 2353 2405	adénocarcinome du parathyro-surrénalien hypoéchogène
+T61	ANAT 2371 2405	parathyro-surrénalien hypoéchogène
+T62	DISO 2449 2491	neuroendocrine angiosarcome parathyroïdien

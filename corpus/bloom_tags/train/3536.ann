@@ -1,0 +1,67 @@
+T1	LIVB 20 28	patiente
+T2	DISO 50 73	antécédent pathologique
+T3	MEAS 74 81	notable
+T4	PROC 85 100	examen clinique
+T5	Concept_Idea 116 121	poids
+T6	MEAS 124 129	70 kg
+T7	Concept_Idea 137 143	taille
+T8	MEAS 146 152	115 cm
+T9	LIVB 154 158	Elle
+T10	ANAT 169 187	membres inférieurs
+T11	MEAS 188 208	légèrement sensibles
+T12	ANAT 222 286	pédicule musculo-cutané métacarpophalangien palmaire superficiel
+T13	PROC 290 321	échographie abdomino- pelvienne
+T14	ANAT 302 321	abdomino- pelvienne
+T15	DISO 343 452	épanchement intra-parenchymateux liquidien péritendineux pariétal latéro-thoracique cervico médiastinal droit
+T16	ANAT 355 452	intra-parenchymateux liquidien péritendineux pariétal latéro-thoracique cervico médiastinal droit
+T17	Localization 447 452	droit
+T18	DISO 469 511	adénopathies sous claviculaire bilatérales
+T20	Localization 500 511	bilatérales
+T21	MEAS 536 540	32mm
+T22	MEAS 544 548	33mm
+T23	PROC 592 622	bilan biologique préopératoire
+T24	DISO 647 673	malformations congénitales
+T25	DISO 694 715	syndrome neuroméningé
+T26	PROC 728 746	ionogramme sanguin
+T27	ANAT 739 746	sanguin
+T28	MEAS 759 766	normaux
+T29	DISO 784 815	anomalies hydro-électrolytiques
+T30	PROC 834 864	technique d'immuno-histochimie
+T31	PROC 871 902	dosage de l'hémoglobine glyquée
+T32	PROC 906 930	scanner abdomino-pelvien
+T33	ANAT 914 930	abdomino-pelvien
+T34	DISO 955 1005	masse tissulaire polylobée hypo échogéne hypodense
+T35	MEAS 1007 1017	hétérogène
+T36	MEAS 1026 1029	2cm
+T37	Concept_Idea 1033 1042	grand axe
+T38	MEAS 1047 1050	5cm
+T39	Concept_Idea 1054 1067	petite taille
+T40	ANAT 1088 1169	muscle biceps brachycæcal dorsolaterale médian sus-claviculaire laryngo-glottique
+T41	ANAT 1190 1214	paroi utérine abdominale
+T42	DISO 1236 1252	lésions malignes
+T43	PROC 1270 1290	reprise chirurgicale
+T44	PROC 1296 1319	radiothérapie adjuvante
+T45	CHEM 1333 1349	sulfaméthoxazole
+T46	DOSE 1355 1361	500 mg
+T47	TEMP 1361 1366	/jour
+T48	CHEM 1369 1380	Cyclosérine
+T49	DOSE 1382 1388	200 mg
+T50	TEMP 1388 1398	/24 heures
+T51	CHEM 1412 1422	furosémide
+T52	DOSE 1425 1431	120 mg
+T53	TEMP 1431 1433	/j
+T54	CHEM 1435 1453	hydroxy-vécuridine
+T55	DOSE 1455 1460	20 mg
+T56	TEMP 1460 1462	/j
+T57	CHEM 1465 1476	Ceftriaxone
+T58	CHEM 1479 1488	Lidocaine
+T59	DISO 1524 1542	effraction utérine
+T60	ANAT 1535 1542	utérine
+T61	CHEM 1571 1592	médiateurs vasoactifs
+T62	LIVB 1663 1671	patiente
+T63	PHEN 1701 1721	grossesse gémellaire
+T64	PROC 1726 1738	contracétrée
+T65	DEVI 1769 1782	bébé masculin
+T66	MEAS 1807 1812	3050g
+T67	TEMP 1892 1898	7 mois
+T68	Hospital 1930 1933	UHU

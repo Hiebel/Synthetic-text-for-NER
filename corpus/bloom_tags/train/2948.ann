@@ -1,0 +1,58 @@
+T1	LIVB 4 11	patient
+T2	MEAS 64 74	1ere degré
+T3	PROC 79 83	reçu
+T4	Hospital 88 113	urgences ophtalmologiques
+T5	DISO 145 184	traumatisme épiglottique craniocérébral
+T6	ANAT 157 184	épiglottique craniocérébral
+T7	DISO 196 223	polyradiculonévrite fébrile
+T8	MEAS 237 246	bruneâtre
+T9	MEAS 261 270	spontanée
+T10	Concept_Idea 299 307	tonalité
+T11	PROC 321 343	pronostic neurologique
+T12	DEVI 375 383	cathéter
+T13	PROC 389 403	interrogatoire
+T14	LIVB 407 414	patient
+T15	DISO 430 451	détresse respiratoire
+T16	PHEN 439 451	respiratoire
+T17	DISO 486 500	amaigrissement
+T18	DISO 513 526	signes vitaux
+T19	DISO 553 585	paralysie des nerfs oculomoteurs
+T20	ANAT 567 585	nerfs oculomoteurs
+T21	PROC 589 621	auscultation abdomino- pelvienne
+T22	ANAT 602 621	abdomino- pelvienne
+T23	MEAS 628 635	normale
+T24	PROC 651 681	touchers pelviens explorateurs
+T25	ANAT 660 681	pelviens explorateurs
+T26	DISO 714 735	masse lombaire droite
+T27	ANAT 720 735	lombaire droite
+T28	Localization 729 735	droite
+T29	MEAS 756 778	environ 10 centimètres
+T30	Concept_Idea 782 791	grand axe
+T31	MEAS 793 810	bien circonscrite
+T32	ANAT 827 848	fosse lombaire droite
+T33	Localization 842 848	droite
+T34	DISO 898 931	méningoencephalopathie ischémique
+T35	DISO 944 970	malformations congénitales
+T36	DISO 993 1023	prolifération tumorale maligne
+T37	TEMP 1025 1035	Deux jours
+T38	CHEM 1090 1101	Ceftriaxone
+T39	CHEM 1102 1115	Métronidazole
+T40	LIVB 1118 1120	le
+T41	DISO 1147 1176	symptomatologie psychomotrice
+T42	TEMP 1186 1207	depuis plusieurs mois
+T43	Concept_Idea 1278 1290	état général
+T44	DISO 1329 1350	douleur hypogastrique
+T45	ANAT 1337 1350	hypogastrique
+T46	MEAS 1365 1377	progressante
+T47	MEAS 1389 1398	fortement
+T48	Concept_Idea 1402 1408	volume
+T49	LIVB 1456 1461	homme
+T50	DISO 1467 1500	syndrome d'épanchement péritonéal
+T51	ANAT 1490 1500	péritonéal
+T52	ANAT 1546 1571	espaces intra péritonéaux
+T53	ANAT 1592 1617	mésentère rectosigmoïdien
+T54	DISO 1691 1697	fièvre
+T55	DISO 1704 1730	thrombose intrapéritonéale
+T56	ANAT 1714 1730	intrapéritonéale
+T57	DISO 1810 1853	kystic hydrosuccinome kystique hypertrophié
+T58	DISO 1854 1858	KHKH

@@ -1,0 +1,64 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 83 89	traité
+T5	DISO 99 122	tuberculose du pancréas
+T6	ANAT 114 122	pancréas
+T7	TEMP 124 137	Il y a 7 mois
+T8	LIVB 144 147	son
+T9	PROC 148 157	admission
+T10	Hospital 161 168	service
+T11	DISO 187 201	amaigrissement
+T12	MEAS 212 217	12 kg
+T13	TEMP 221 227	3 mois
+T14	PROC 231 246	examen clinique
+T15	DISO 281 332	carcinose parathyroïdienne latéro-thoracique droite
+T16	ANAT 291 332	parathyroïdienne latéro-thoracique droite
+T17	Localization 326 332	droite
+T18	DISO 363 398	localisations secondaires tumorales
+T19	ANAT 412 434	mésentère iléo-caecale
+T20	PROC 439 458	bilan immunologique
+T21	PROC 460 464	ANCA
+T22	PROC 468 483	anti DNA natifs
+T23	MEAS 491 498	négatif
+T24	PROC 512 547	intradermoréaction à la tuberculine
+T25	CHEM 536 547	tuberculine
+T26	MEAS 554 559	posée
+T27	PROC 569 584	globules blancs
+T28	MEAS 587 598	11 000/mm 3
+T29	PROC 613 633	protéines C réactive
+T30	MEAS 654 661	16 mg/l
+T31	Concept_Idea 665 672	normale
+T32	PROC 696 724	tomodensitométrie thoracique
+T33	ANAT 714 724	thoracique
+T34	LIVB 745 753	patiente
+T35	Concept_Idea 798 815	moyens financiers
+T36	DISO 857 891	prolapsus épithélio-mésenchymateux
+T37	ANAT 867 891	épithélio-mésenchymateux
+T38	DISO 911 923	chirurgicale
+T39	PROC 1051 1079	diagnostic histopathologique
+T40	MEAS 1103 1112	favorable
+T41	PROC 1119 1142	radiothérapie adjuvante
+T42	PROC 1145 1170	intervention chirurgicale
+T43	PROC 1176 1201	surrachianesthésie locale
+T44	MEAS 1218 1227	difficile
+T45	DEVI 1377 1393	broches plâtrées
+T46	DEVI 1414 1426	viscoscanner
+T47	MODE 1453 1458	bolus
+T48	DOSE 1462 1465	1mg
+T49	CHEM 1469 1487	méthylprednisolone
+T50	PHEN 1521 1543	transfert ventilatoire
+T51	MEAS 1585 1591	rapide
+T52	DISO 1607 1633	survivabilité neurologique
+T53	DISO 1748 1769	risque carcinomateuse
+T54	MEAS 2022 2039	plus intéressants
+T55	DISO 2106 2131	complications purpuriques
+T56	ANAT 2212 2228	placenta utérine
+T57	DISO 2245 2273	symptomatologie tuberculoïde
+T58	PROC 3080 3102	immobilisation plâtrée
+T59	DEVI 3111 3140	attelle plâtrée transfixiante
+T60	LIVB 3182 3189	patient
+T61	DISO 3205 3221	signes cliniques
+T62	DISO 3247 3264	atteinte méningée
+T63	ANAT 3256 3264	méningée
+T64	DISO 3277 3302	localisations secondaires

@@ -1,0 +1,54 @@
+T1	LIVB 28 35	patient
+T2	PROC 60 71	hospitalisé
+T3	Hospital 76 84	urgences
+T4	DISO 93 146	syndrome d'épanchement liquidien liquidien péritonéal
+T5	ANAT 116 146	liquidien liquidien péritonéal
+T6	TEMP 156 172	depuis deux mois
+T7	DISO 230 236	fièvre
+T8	PROC 254 270	bilan biologique
+T9	Hospital 282 312	service d'accueil des urgences
+T10	Hospital 314 317	SAU
+T11	PROC 336 339	CRP
+T12	MEAS 342 349	70 mg/l
+T13	PROC 351 366	globules blancs
+T14	MEAS 369 386	4600 éléments/mm3
+T15	PROC 389 408	protéine C réactive
+T16	PROC 410 413	CRP
+T17	MEAS 415 421	élevée
+T18	MEAS 424 432	160 mg/l
+T19	PROC 438 465	numération formule sanguine
+T20	DISO 496 512	hyperleucocytose
+T21	PROC 519 560	explorations fonctionnelles respiratoires
+T22	ANAT 547 560	respiratoires
+T23	MEAS 569 577	normales
+T24	PROC 580 606	pression artérielle pulsée
+T25	ANAT 589 606	artérielle pulsée
+T26	MEAS 609 618	120 mm Hg
+T27	PROC 620 624	SpO2
+T28	MEAS 626 629	97%
+T29	PROC 635 659	scanner abdomino-pelvien
+T30	ANAT 643 659	abdomino-pelvien
+T31	DISO 684 722	pseudarthrose du muscle oblique gauche
+T32	ANAT 701 722	muscle oblique gauche
+T33	Localization 716 722	gauche
+T34	ANAT 743 758	sinus ombilical
+T35	MEAS 768 772	12cm
+T36	Concept_Idea 776 785	grand axe
+T37	DISO 807 862	opacités intra-parenchymateuses pariétaliennes bilobées
+T38	ANAT 816 862	intra-parenchymateuses pariétaliennes bilobées
+T39	DISO 876 918	hypodensité pariéto-tentorale hypoéchogène
+T40	ANAT 888 918	pariéto-tentorale hypoéchogène
+T41	DISO 928 940	hémorragique
+T42	DISO 979 1018	déficit hémorragique purulonéphrénoïdal
+T43	LIVB 1058 1066	patients
+T44	DISO 1159 1174	symptomatologie
+T45	PROC 1212 1241	prise médicamenteuse curative
+T46	PROC 1245 1276	tomodensitométrie scanno-guidée
+T47	MEAS 1293 1300	normale
+T48	CHEM 1317 1329	médiastolone
+T49	CHEM 1393 1403	tamoxifène
+T50	CHEM 1406 1426	propylhydrocortisone
+T51	DOSE 1427 1434	2 mg/kg
+T52	TEMP 1434 1436	/j
+T53	PROC 1443 1484	radio-chimiothérapie adjuvante palliative
+T54	MEAS 1498 1509	négligeable

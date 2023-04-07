@@ -1,0 +1,22 @@
+T1	PROC 2 17	examen clinique
+T2	PROC 22 31	admission
+T3	LIVB 44 51	patient
+T4	MEAS 55 58	bon
+T5	Concept_Idea 59 71	état général
+T6	DISO 81 92	sensibilité
+T7	ANAT 109 129	fosse iliaque droite
+T8	Localization 123 129	droite
+T9	PROC 145 165	examen gynécologique
+T10	DISO 177 190	particularité
+T11	PROC 194 215	échographie pelvienne
+T12	ANAT 206 215	pelvienne
+T13	DISO 233 324	masse kystique du utérus utéro-vaginal cervico-sigmoïdale latérocervicale hypo-vascularisée
+T15	PROC 348 357	injection
+T16	CHEM 361 381	produit de contraste
+T17	MEAS 392 397	30 cm
+T18	Concept_Idea 401 410	grand axe
+T19	MEAS 415 420	12 cm
+T20	Concept_Idea 424 433	petit axe
+T21	Concept_Idea 436 442	aspect
+T22	MEAS 443 458	multi-cloisonné
+T23	DISO 532 544	métrorragies

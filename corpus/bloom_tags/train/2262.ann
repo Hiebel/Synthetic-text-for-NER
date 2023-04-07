@@ -1,0 +1,19 @@
+T1	LIVB 28 35	patient
+T2	DISO 73 109	hypertension artérielle hypertensive
+T3	CHEM 86 96	artérielle
+T4	MODE 115 125	voie orale
+T5	CHEM 136 147	hydroxyzine
+T6	CHEM 149 159	furosémide
+T7	CHEM 161 174	bêtabloquants
+T8	CHEM 176 187	hydralazine
+T9	CHEM 192 227	anti inflammatoires non stéroïdiens
+T10	CHEM 240 252	prédnisolone
+T11	Hospital 278 303	urgences ophtalmologiques
+T12	DISO 333 384	traumatisme jugulo-carotidien infarcto-sphinctérien
+T13	ANAT 345 384	jugulo-carotidien infarcto-sphinctérien
+T14	MEAS 392 400	type IIA
+T15	PROC 458 486	ponction cutanée écho guidée
+T16	ANAT 467 486	cutanée écho guidée
+T17	DOSE 496 503	1280 ml
+T18	MEAS 623 630	moyenne
+T19	ANAT 789 838	intracrânien périparenchymateux crânio-thoracique

@@ -1,0 +1,31 @@
+T1	PROC 1 16	examen clinique
+T2	DISO 33 38	masse
+T3	ANAT 54 88	hémiface postéro-supérieure gauche
+T4	Localization 82 88	gauche
+T5	PROC 94 128	radiothérapie externe concomitante
+T6	Concept_Idea 142 146	dose
+T7	DOSE 150 154	2 Gy
+T8	MEAS 169 175	double
+T9	PROC 176 221	transit du plexus brachial cervico-thoracique
+T10	ANAT 187 221	plexus brachial cervico-thoracique
+T11	LIVB 249 257	patiente
+T12	CHEM 274 305	amoxicilline acide clavulanique
+T13	CHEM 307 331	acide acétyle glutamique
+T14	DEVI 370 378	cathéter
+T15	PHEN 450 476	amplitudes antéro-septales
+T16	ANAT 461 476	antéro-septales
+T17	MEAS 528 535	simples
+T18	DISO 541 561	récidive douloureuse
+T19	DISO 565 575	métastases
+T20	PROC 580 612	bilan radiologique préopératoire
+T21	PROC 614 639	scanner thoraco-abdominal
+T22	ANAT 622 639	thoraco-abdominal
+T23	DISO 658 663	signe
+T24	DISO 667 677	malignités
+T25	DISO 687 706	processus lésionnel
+T26	PROC 710 735	étude anatomopathologique
+T27	MEAS 750 757	normale
+T28	Concept_Idea 772 793	résultat histologique
+T29	LIVB 839 850	chirurgiens
+T30	PROC 918 967	investigations immunohistochimiques diagnostiques
+T31	DISO 998 1012	particularités

@@ -1,0 +1,17 @@
+T1	PROC 2 32	échographie abdomino-pelvienne
+T2	ANAT 14 32	abdomino-pelvienne
+T3	DISO 55 60	masse
+T4	Concept_Idea 64 75	consistance
+T5	MEAS 76 81	molle
+T6	MEAS 92 97	32 mm
+T7	Concept_Idea 101 110	grand axe
+T8	MEAS 112 120	homogène
+T9	MEAS 124 130	mobile
+T10	PROC 174 190	examen somatique
+T11	DISO 202 215	particularité
+T12	PROC 219 253	imagerie par résonnance magnétique
+T13	PROC 255 258	IRM
+T14	DISO 290 335	processus lésionnel tissulaire hypersignal T2
+T15	ANAT 351 377	méso-sigmoïde utéro-utérin
+T16	DISO 391 470	infiltration du parenchyme graisseux péritumeuraux cervico-vésiculaire infiltré
+T18	DISO 495 514	pancréatite nécrose

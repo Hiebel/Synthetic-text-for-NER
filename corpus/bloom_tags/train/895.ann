@@ -1,0 +1,49 @@
+T1	LIVB 19 26	patient
+T2	DISO 60 82	douleurs épigastriques
+T3	ANAT 69 82	épigastriques
+T4	TEMP 92 105	depuis 6 mois
+T5	Concept_Idea 141 153	état général
+T6	CHEM 177 196	anti-inflammatoires
+T7	DISO 210 230	dyspnée constrictive
+T8	MEAS 245 256	progressive
+T9	PROC 289 314	scanner abdomino- pelvien
+T10	ANAT 297 314	abdomino- pelvien
+T11	DISO 339 385	masse tissulaire du sinus péritonéal infilcrée
+T12	ANAT 359 385	sinus péritonéal infilcrée
+T13	MEAS 395 400	30 cm
+T14	Concept_Idea 404 413	grand axe
+T15	ANAT 435 455	fosse iliaque droite
+T16	Localization 449 455	droite
+T17	ANAT 469 481	anses iléaux
+T18	DISO 530 577	adénopathies sus-cléminales cervico-thoraciques
+T19	ANAT 543 577	sus-cléminales cervico-thoraciques
+T20	DISO 589 620	métastases ovariennes biliaires
+T21	ANAT 600 620	ovariennes biliaires
+T22	DISO 659 684	localisations secondaires
+T23	PROC 687 708	échographie pelvienne
+T24	ANAT 699 708	pelvienne
+T25	DISO 736 775	masse tumorale sous claviculaire droite
+T26	ANAT 751 775	sous claviculaire droite
+T27	Localization 769 775	droite
+T28	PROC 809 818	injection
+T29	CHEM 822 842	produit de contraste
+T30	DEVI 887 897	bandelette
+T31	PROC 913 922	injection
+T32	DOSE 926 932	5mg/kg
+T33	CHEM 936 956	produit de contraste
+T34	DISO 980 995	vascularisation
+T35	DISO 1002 1024	rehaussement nodulaire
+T36	DISO 1064 1077	cholécystoïde
+T37	ANAT 1117 1131	endocapillaire
+T38	ANAT 1136 1149	triamniotique
+T39	LIVB 1174 1182	patiente
+T40	MEAS 1218 1219	3
+T41	LIVB 1220 1227	enfants
+T42	DISO 1267 1291	pathologie gynécologique
+T43	DISO 1305 1324	hymen érythémateuse
+T44	DISO 1385 1401	ménométrorragies
+T45	MEAS 1411 1424	plus marquées
+T46	DISO 1518 1552	complications thromboembolismiques
+T47	ANAT 1578 1590	œsophagienne
+T48	Hospital 2049 2069	urgence chirurgicale
+T49	DISO 2140 2174	complications thromboembolismiques

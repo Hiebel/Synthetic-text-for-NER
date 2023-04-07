@@ -1,0 +1,21 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	DISO 42 65	antécédent pathologique
+T4	MEAS 66 73	notable
+T5	PROC 75 80	admis
+T6	Hospital 85 93	urgences
+T7	DISO 103 143	douleurs pelviennes d'allure infectieuse
+T8	ANAT 112 122	pelviennes
+T9	PROC 147 162	examen clinique
+T10	PROC 167 176	admission
+T11	Concept_Idea 188 199	température
+T12	MEAS 202 207	37° C
+T13	PHEN 215 237	sensibilité abdominale
+T14	ANAT 227 237	abdominale
+T15	DISO 266 274	apyrexie
+T16	MEAS 286 290	1 kg
+T17	TEMP 294 304	deux jours
+T18	PROC 309 326	bilan étiologique
+T19	DISO 358 406	tuberculose du parenchyme pulmonaire purulenciel
+T20	ANAT 373 406	parenchyme pulmonaire purulenciel
+T21	LIVB 415 422	patient

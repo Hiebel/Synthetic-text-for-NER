@@ -1,0 +1,24 @@
+T1	PROC 2 17	examen clinique
+T2	PROC 22 31	admission
+T3	Hospital 35 57	service de réanimation
+T4	LIVB 70 77	patient
+T5	Concept_Idea 102 120	plan hémodynamique
+T6	DISO 124 134	apyrétique
+T7	PHEN 144 163	pression artérielle
+T8	ANAT 153 163	artérielle
+T9	MEAS 166 179	135 / 80 mmhg
+T10	PROC 185 216	échographie abdomino- pelvienne
+T11	ANAT 197 216	abdomino- pelvienne
+T12	DISO 262 314	épanchement péritonéal latéro périfascial du liquide
+T14	ANAT 307 314	liquide
+T15	Concept_Idea 321 327	taille
+T16	MEAS 338 343	12 cm
+T17	PROC 348 384	tomodensitométrie abdomino-pelvienne
+T18	ANAT 366 384	abdomino-pelvienne
+T21	ANAT 571 589	parois abdominales
+T22	Localization 591 599	centraux
+T23	Concept_Idea 619 625	aspect
+T24	MEAS 626 635	régulière
+T25	MEAS 645 653	24/103mm
+T26	DISO 659 698	extension aux organes génitaux externes
+T27	ANAT 673 698	organes génitaux externes

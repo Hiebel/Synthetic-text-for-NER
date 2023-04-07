@@ -1,0 +1,54 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 75	hospitalisée
+T3	Hospital 79 86	urgence
+T4	DISO 154 168	prise de poids
+T5	MEAS 180 185	30 kg
+T6	CHEM 191 204	catécholamine
+T7	DOSE 206 212	1mg/kg
+T8	TEMP 212 214	/j
+T9	LIVB 217 220	Ses
+T10	MEAS 241 251	similaires
+T11	LIVB 286 295	patientes
+T12	PROC 359 367	explorés
+T13	DISO 374 404	pathologies thrombo-emboliques
+T14	LIVB 423 429	femmes
+T15	DEVI 504 515	littéraires
+T16	DISO 544 583	syndrome d'épanchement intra-péritonéal
+T17	ANAT 567 583	intra-péritonéal
+T18	DISO 629 649	signes neurologiques
+T19	DISO 707 762	douleurs prurigineuses purulantes érythémato-nucléosées
+T20	ANAT 783 811	membre inféro-latéral gauche
+T21	MEAS 821 825	12cm
+T22	Concept_Idea 829 838	grand axe
+T23	ANAT 860 892	réflexes cervico-cutanéo-moteurs
+T24	ANAT 911 954	paroi abdominale thoracique latérale droite
+T25	Localization 948 954	droite
+T27	ANAT 1100 1120	tracheolo-bronchique
+T28	PROC 1378 1389	c'lioscopie
+T29	DISO 1436 1464	anomalies viscculo-nerveuses
+T30	DISO 1568 1584	nécrose tumorale
+T31	PROC 1590 1614	scanner abdomino-pelvien
+T32	ANAT 1598 1614	abdomino-pelvien
+T33	MEAS 1664 1673	difficile
+T34	LIVB 1680 1684	elle
+T35	PROC 1698 1720	recherche chirurgicale
+T36	MODE 1756 1761	bolus
+T37	CHEM 1765 1778	bromocriptine
+T38	DISO 1822 1843	désobéissance motrice
+T39	PROC 1857 1887	hospitalisation psychiatriques
+T40	CHEM 1926 1945	Valproate de sodium
+T41	PROC 1961 2000	pronostic ophtalmologique préopératoire
+T42	MEAS 2011 2020	favorable
+T43	DISO 2083 2121	complications métaboliques secondaires
+T44	ANAT 2341 2367	artère sub-clavière droite
+T45	Localization 2361 2367	droite
+T46	DISO 2416 2458	symptômes neuropsychiatriques hypertensive
+T47	DISO 2470 2476	fièvre
+T48	MEAS 2488 2492	39°C
+T49	DISO 2500 2506	sueurs
+T50	TEMP 2507 2521	intermittentes
+T51	Concept_Idea 2566 2578	état général
+T52	DISO 2599 2637	syndrome d'hyperparathyroïdie primaire
+T54	ANAT 2690 2700	artérielle
+T55	DISO 2706 2796	dépression du plexus bryno-ganglionnaire infarcto-latéro-mandibulaire angulo-vésico-cæcale
+T57	DISO 2823 2853	troubles hydro-électrolytiques

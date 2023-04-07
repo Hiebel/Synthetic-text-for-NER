@@ -1,0 +1,14 @@
+T1	LIVB 29 37	patiente
+T2	PROC 49 55	suivie
+T3	TEMP 63 67	2008
+T4	DISO 77 87	aménorrhée
+T5	DISO 102 120	syndrome
+T6	LIVB 122 126	Elle
+T7	PROC 133 141	adressée
+T8	LIVB 144 147	son
+T9	LIVB 148 164	médecin
+T10	LIVB 169 172	lui
+T11	DISO 197 204	trouble
+T12	Concept_Idea 231 239	ressenti
+T13	LIVB 244 246	sa
+T14	LIVB 247 254	famille

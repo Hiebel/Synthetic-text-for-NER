@@ -1,0 +1,32 @@
+T1	LIVB 3 13	adolescent
+T2	TEMP 17 23	12 ans
+T3	DISO 30 55	antécédents pathologiques
+T4	MEAS 56 68	particuliers
+T5	PROC 70 78	consulte
+T6	Hospital 83 91	urgences
+T7	DISO 101 122	douleur du sein droit
+T8	ANAT 112 122	sein droit
+T9	Localization 117 122	droit
+T10	DISO 138 163	vomissements alimentaires
+T11	TEMP 173 187	depuis 2 jours
+T12	PROC 191 206	examen clinique
+T13	LIVB 219 226	patient
+T14	MEAS 230 233	bon
+T15	Concept_Idea 234 246	état général
+T16	DISO 266 276	apyrétique
+T17	MEAS 291 295	37°C
+T18	PHEN 298 303	pouls
+T19	MEAS 306 318	120 batt/min
+T20	PROC 325 355	échographie abdomino-pelvienne
+T21	ANAT 337 355	abdomino-pelvienne
+T22	DISO 400 450	épanchement intraréctal latéro péritonéal infilcré
+T23	ANAT 412 450	intraréctal latéro péritonéal infilcré
+T24	MEAS 460 464	20cm
+T25	MEAS 469 474	15 cm
+T26	PROC 479 501	bilan phospho-calcique
+T27	PROC 507 525	ionogramme sanguin
+T28	ANAT 518 525	sanguin
+T29	MEAS 534 541	normaux
+T30	DISO 559 592	syndrome inflammatoire biologique
+T31	PROC 601 632	taux de phosphatidylcholestérol
+T32	MEAS 643 651	100mol/l

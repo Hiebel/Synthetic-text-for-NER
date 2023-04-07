@@ -1,0 +1,127 @@
+T1	LIVB 4 9	femme
+T2	DISO 31 56	antécédents pathologiques
+T3	MEAS 57 69	particuliers
+T4	Hospital 94 102	urgences
+T5	DISO 112 145	douleur du membre supérieur droit
+T6	ANAT 123 145	membre supérieur droit
+T7	Localization 140 145	droit
+T8	Concept_Idea 190 202	état général
+T9	PROC 206 221	examen clinique
+T10	DISO 238 269	lésions érythémato-sensorielles
+T11	ANAT 288 311	région temporale droite
+T12	Localization 305 311	droite
+T13	MEAS 326 341	progressivement
+T14	Concept_Idea 345 351	taille
+T15	ANAT 370 394	plexus maxillaire gauche
+T16	Localization 388 394	gauche
+T17	PROC 410 429	examen neurologique
+T18	DISO 441 454	particularité
+T19	PROC 459 476	biologie standard
+T20	PROC 478 481	NFS
+T21	PROC 483 502	hémoglobine glyquée
+T22	PROC 504 525	bilan phosphocalcique
+T23	PROC 527 545	enzymes hépatiques
+T24	ANAT 535 545	hépatiques
+T25	MEAS 559 566	normale
+T26	PROC 570 596	étude immuno-histochimique
+T27	DISO 615 649	lymphocytome hétérozygote kystique
+T28	PHEN 659 686	fonctionnements biologiques
+T29	DISO 719 767	maladie cœlio-cérébelleuse mucopolysacchomateuse
+T30	LIVB 799 807	patiente
+T31	PROC 816 845	adénofibroscopie diagnostique
+T32	TEMP 855 865	24/06/2013
+T33	PROC 886 911	consultation pré anamnèse
+T34	PROC 951 977	mastectomie totale élargie
+T35	ANAT 997 1039	veine cave supérieure gastro-conjonctivale
+T37	ANAT 1059 1099	vaisseaux sus mésentériques superficiels
+T38	Concept_Idea 1125 1157	classification histopathologique
+T39	MEAS 1192 1198	T3N0Mx
+T40	MEAS 1236 1243	simples
+T41	PROC 1249 1279	traitement médical substitutif
+T42	CHEM 1289 1315	neuroleptiques thyroidiens
+T43	CHEM 1318 1328	céfotaxime
+T44	CHEM 1331 1359	pyrazinamide adrénalinoïde ®
+T45	CHEM 1362 1389	antiagrégants plaquettaires
+T46	CHEM 1392 1412	aminosides calciques
+T47	CHEM 1415 1430	fluoroquinolone
+T48	CHEM 1433 1458	acide acétyle salicylique
+T49	CHEM 1461 1486	triglycérides phénoliques
+T50	CHEM 1489 1502	phénobarbital
+T51	CHEM 1505 1515	isoniazide
+T52	CHEM 1518 1531	métronidazole
+T53	CHEM 1534 1557	statinesulfaméthoxazole
+T54	CHEM 1560 1571	rifampicine
+T55	CHEM 1574 1590	polynapturonides
+T56	CHEM 1593 1616	diurétiques vasoactives
+T57	CHEM 1619 1646	gélatine acide clavulanique
+T58	CHEM 1649 1665	propanololactone
+T59	CHEM 1668 1693	hydroxychlorure de sodium
+T60	CHEM 1696 1710	hydrocortisone
+T61	CHEM 1713 1723	antalgique
+T62	CHEM 1726 1740	gentaméthonium
+T63	CHEM 1743 1755	tétracycline
+T64	CHEM 1758 1768	furosémide
+T65	CHEM 1771 1789	metformine sodique
+T66	CHEM 1792 1805	noradrénaline
+T67	CHEM 1808 1819	halopéridol
+T68	CHEM 1822 1841	correcteur agoniste
+T69	CHEM 1844 1863	méthyl prednisolone
+T70	CHEM 1866 1878	prédnisolone
+T71	CHEM 1881 1891	cisplatine
+T72	CHEM 1894 1907	ethambutolone
+T73	CHEM 1910 1930	anticoagulants oraux
+T74	CHEM 1933 1950	immunosuppresseur
+T75	CHEM 1953 1969	hypolipidemicide
+T76	CHEM 1972 1986	thiourtazidime
+T77	CHEM 1989 2004	calciumabendane
+T78	CHEM 2007 2032	méthamydrate de magnésium
+T79	CHEM 2035 2045	myorelaxie
+T80	CHEM 2048 2056	aspirine
+T81	CHEM 2059 2074	oxygénothérapie
+T82	CHEM 2077 2091	palmitricidone
+T83	CHEM 2094 2107	cotrimoxazole
+T84	CHEM 2110 2126	thymorégulateurs
+T85	CHEM 2129 2143	ciprofloxacine
+T86	CHEM 2146 2160	catécholamines
+T87	CHEM 2163 2173	carbonates
+T88	CHEM 2176 2188	enoxapiazine
+T89	CHEM 2191 2201	prednisone
+T90	CHEM 2204 2217	nitrucleotide
+T91	CHEM 2220 2230	aroflurane
+T92	CHEM 2233 2276	inhibiteur des récepteurs de l'angiotensine
+T93	CHEM 2279 2292	bêtalactamine
+T94	CHEM 2295 2305	corticoïde
+T95	CHEM 2308 2320	pyrazinamide
+T96	CHEM 2323 2337	chlorpromazine
+T97	DISO 2387 2409	hémorragie intestinale
+T98	ANAT 2398 2409	intestinale
+T99	PROC 2419 2453	tomodensitométrie du massif facial
+T100	ANAT 2440 2453	massif facial
+T101	DISO 2466 2515	processus lésionnel tissulaire endocrânien cutané
+T102	ANAT 2524 2535	rein gauche
+T103	Localization 2529 2535	gauche
+T104	MEAS 2545 2549	10mm
+T105	Concept_Idea 2553 2562	grand axe
+T106	ANAT 2591 2620	ganglions cervico-vagellaires
+T107	ANAT 2632 2653	veine iliaque médiale
+T108	Localization 2646 2653	médiale
+T109	DISO 2667 2715	adénocarcinome épidermoïde hypophysaire kystique
+T110	ANAT 2734 2768	paroi abdominale supérieure droite
+T111	Localization 2762 2768	droite
+T112	PROC 2822 2853	recherches anatomopathologiques
+T113	DISO 2902 2914	malakoplèvre
+T114	DISO 2938 2972	formation polypoide carcinomateuse
+T115	ANAT 2998 3018	structures grêliques
+T116	LIVB 3184 3192	patiente
+T117	PROC 3209 3228	traitement adjuvant
+T118	DOSE 3230 3237	5 mg/kg
+T119	TEMP 3237 3239	/j
+T120	CHEM 3251 3275	sérum salé physiologique
+T121	CHEM 3291 3306	céphalosporines
+T122	Concept_Idea 3356 3362	volume
+T123	PROC 3448 3473	néphrectomie exploratrice
+T124	PROC 3487 3534	radio-chimiothérapie substitutive intraveineuse
+T125	MEAS 3594 3601	simples
+T126	PROC 3606 3627	contrôle radiologique
+T127	DEVI 3649 3658	appareils
+T128	DISO 3680 3705	récidive tumorale maligne

@@ -1,0 +1,103 @@
+T1	LIVB 29 37	patiente
+T2	CHEM 73 92	Valproate de sodium
+T3	DOSE 94 101	2 mg/kg
+T4	TEMP 101 106	/jour
+T5	MODE 108 118	voie orale
+T6	PROC 145 170	intervention chirurgicale
+T7	Concept_Idea 217 234	état neurologique
+T8	PROC 247 274	traitement curatif adjuvant
+T9	CHEM 288 298	corticoïde
+T10	CHEM 301 328	Triméthoprime-Sulfamoxazole
+T11	CHEM 331 343	Pyrazinamide
+T12	PROC 384 415	consultation pluridisciplinaire
+T13	LIVB 438 473	médecins anesthésistes-réanimateurs
+T14	LIVB 475 501	chirurgiens-ophtalmologues
+T15	LIVB 504 524	dermabrasionnologues
+T16	LIVB 535 543	patients
+T17	PROC 565 584	bilan préopératoire
+T18	LIVB 614 622	patiente
+T19	PROC 737 743	suivie
+T20	MEAS 1187 1200	spectaculaire
+T21	LIVB 1240 1244	Nous
+T22	PROC 1266 1287	recherche étiologique
+T23	TEMP 1358 1365	12 mois
+T24	DISO 1491 1515	vascularome hypertrophié
+T25	DISO 1556 1569	paragangliome
+T26	DISO 1637 1661	troubles angiographiques
+T27	DISO 1689 1710	signes inflammatoires
+T28	DISO 1797 1832	syndrome d'épanchement péricardique
+T29	ANAT 1820 1832	péricardique
+T30	DISO 1861 1884	souffrance péritumorale
+T31	DISO 1923 1933	pathologie
+T32	TEMP 1946 1950	3ans
+T33	ANAT 1991 1997	rénale
+T34	LIVB 2104 2108	elle
+T35	DISO 2136 2182	thrombose veineuse thromboembolique ischémique
+T36	PROC 2186 2209	examen clinique initial
+T37	LIVB 2223 2231	patiente
+T38	MEAS 2235 2238	bon
+T39	Concept_Idea 2239 2251	état général
+T40	DISO 2258 2279	détresse respiratoire
+T41	PHEN 2267 2279	respiratoire
+T42	DISO 2285 2307	hémoptysies purulentes
+T43	ANAT 2321 2343	membre supérieur droit
+T44	Localization 2338 2343	droit
+T45	ANAT 2351 2359	poignets
+T46	PROC 2365 2374	admission
+T47	Hospital 2379 2401	urgences chirurgicales
+T48	LIVB 2403 2407	elle
+T49	PROC 2424 2449	traitement antibacillaire
+T50	CHEM 2460 2470	isoniazide
+T51	DOSE 2472 2478	2mg/kg
+T52	TEMP 2478 2483	/jour
+T53	CHEM 2486 2497	rifosfamide
+T54	DOSE 2499 2505	500 mg
+T55	TEMP 2505 2507	/j
+T56	CHEM 2510 2521	ethionamide
+T57	DOSE 2523 2529	200 mg
+T58	TEMP 2529 2531	/j
+T59	CHEM 2534 2546	pyrazinamide
+T60	DOSE 2548 2554	300 mg
+T61	TEMP 2554 2556	/j
+T62	CHEM 2559 2569	Cisplatine
+T63	DOSE 2571 2577	400 mg
+T64	TEMP 2577 2579	/j
+T65	CHEM 2582 2594	Pyrazinamide
+T66	DOSE 2596 2598	1g
+T67	TEMP 2598 2600	/j
+T68	CHEM 2603 2614	Cyclosérine
+T69	DOSE 2616 2622	100 mg
+T70	TEMP 2622 2624	/j
+T71	CHEM 2627 2640	Ethaméthasone
+T72	DOSE 2642 2647	50 mg
+T73	TEMP 2647 2649	/j
+T74	CHEM 2652 2682	Triméthoprime-Sulfamethoxazole
+T75	DOSE 2684 2690	800 mg
+T76	TEMP 2690 2692	/j
+T77	CHEM 2695 2708	Sulfamoxazole
+T78	DOSE 2710 2716	600 mg
+T79	TEMP 2716 2718	/j
+T80	CHEM 2721 2736	Chloramphénicol
+T81	DOSE 2738 2744	120 mg
+T82	TEMP 2744 2746	/j
+T83	CHEM 2749 2759	Mifentanil
+T84	DOSE 2761 2771	10 µmol/kg
+T85	TEMP 2771 2773	/J
+T86	CHEM 2776 2788	Nicardiprine
+T87	DOSE 2790 2799	0,5 µg/kg
+T88	TEMP 2799 2801	/J
+T89	CHEM 2804 2818	Dobraméthasone
+T90	DOSE 2820 2828	20 ng/ml
+T91	TEMP 2828 2830	/J
+T92	CHEM 2833 2844	Propranolol
+T93	DOSE 2846 2854	60 mg/kg
+T94	TEMP 2854 2856	/J
+T95	CHEM 2859 2872	Bromocriptine
+T96	DOSE 2874 2882	30 ug/m²
+T97	TEMP 2882 2884	/J
+T98	CHEM 2887 2896	bupropril
+T99	DOSE 2898 2903	75 mg
+T100	TEMP 2903 2905	/J
+T101	CHEM 2908 2921	noradrénaline
+T102	MODE 2923 2929	per os
+T103	DEVI 2934 2963	cathéter veineux périphérique

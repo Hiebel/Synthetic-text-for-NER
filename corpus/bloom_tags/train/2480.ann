@@ -1,0 +1,39 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	8 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 73 79	admise
+T6	Hospital 84 92	urgences
+T7	DISO 102 147	dyspnée obstructive du membre inférieur droit
+T8	ANAT 125 147	membre inférieur droit
+T9	Localization 142 147	droit
+T10	TEMP 157 170	depuis 3 mois
+T11	PROC 176 185	admission
+T12	LIVB 189 196	patient
+T13	MEAS 206 209	bon
+T14	Concept_Idea 210 228	état hémodynamique
+T15	PHEN 238 259	contractions utérines
+T16	ANAT 251 259	utérines
+T17	MEAS 260 268	modérées
+T18	DEVI 275 306	cathéter veineux intrarachidien
+T19	ANAT 284 306	veineux intrarachidien
+T20	CHEM 312 322	furosémide
+T21	DOSE 324 330	0,5 mg
+T22	CHEM 333 347	hydrocortisone
+T23	DOSE 350 355	10 mg
+T24	CHEM 359 370	paracétamol
+T25	PROC 377 407	échographie abdomino-pelvienne
+T26	ANAT 389 407	abdomino-pelvienne
+T27	DISO 453 497	masse péritonéale latéro-utérine lithiasique
+T28	MEAS 506 510	2 cm
+T29	Concept_Idea 514 528	grand diamètre
+T30	MEAS 538 541	3cm
+T31	ANAT 558 578	surrénalienne droite
+T32	Localization 572 578	droite
+T33	PROC 584 615	ponction lombaire transfixiante
+T34	ANAT 593 615	lombaire transfixiante
+T35	MODE 620 646	voie veineuse périphérique
+T36	PROC 662 744	anastomose artériolo-veineuse jugulo-carotidienne pré-mésentorielle angiographique
+T38	DISO 821 854	syndrome d'épanchement péritonéal
+T39	ANAT 844 854	péritonéal
+T40	DISO 881 897	troubles visuels

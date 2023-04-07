@@ -1,0 +1,42 @@
+T1	LIVB 16 21	femme
+T2	DISO 43 66	antécédent pathologique
+T3	MEAS 67 74	notable
+T4	DISO 94 115	détresse respiratoire
+T5	PHEN 103 115	respiratoire
+T6	MEAS 130 141	progressive
+T7	DISO 166 178	hyperthermie
+T8	DISO 192 201	symptômes
+T9	TEMP 214 223	12 heures
+T10	DISO 247 263	troubles visuels
+T11	CHEM 292 304	hypotenseurs
+T12	Concept_Idea 349 361	état général
+T13	DISO 377 398	vomissements purulent
+T14	PROC 402 424	examen ophtalmologique
+T15	MEAS 459 465	totale
+T16	Hospital 530 584	National Center of Optométrie Neuro-moteur oculomoteur
+T17	PROC 590 619	Cataractoplastie artificielle
+T18	Localization 621 632	bilatérales
+T19	MEAS 641 664	profondément améliorées
+T20	DISO 696 716	signes neurologiques
+T21	DISO 743 764	soufflement sinusiens
+T22	ANAT 755 764	sinusiens
+T23	DISO 775 792	lésions cliniques
+T24	DISO 817 873	polynucléose érythémateuse hypopigmentée maculopapuleuse
+T25	LIVB 1016 1026	nouveau-né
+T26	PROC 1153 1168	scanner pelvien
+T27	ANAT 1161 1168	pelvien
+T28	Hospital 1181 1203	urgences chirurgicales
+T29	DISO 1215 1248	hypertrophie ventriculaire droite
+T30	ANAT 1228 1248	ventriculaire droite
+T31	Localization 1242 1248	droite
+T32	MEAS 1267 1272	14 mm
+T33	Concept_Idea 1276 1285	grand axe
+T34	ANAT 1315 1336	structures ovariennes
+T35	DISO 1362 1373	tuberculeux
+T36	PROC 1378 1409	échographie abdomino- pelvienne
+T37	ANAT 1390 1409	abdomino- pelvienne
+T38	MEAS 1423 1430	normale
+T39	PROC 1445 1479	scintigraphie osseuse périphérique
+T40	ANAT 1459 1479	osseuse périphérique
+T41	DISO 1506 1565	infiltrat hypothalamo-hypophysaire infarctoïde hypertrophié
+T43	ANAT 1593 1616	parties molles utérines

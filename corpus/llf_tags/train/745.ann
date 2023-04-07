@@ -1,0 +1,31 @@
+T1	PROC 2 24	radiographie du thorax
+T2	ANAT 18 24	thorax
+T3	DISO 37 64	nodule de l'hémiface droite
+T4	ANAT 49 64	hémiface droite
+T5	Localization 58 64	droite
+T6	PROC 69 85	bilan biologique
+T7	DISO 107 127	hypercholestérolémie
+T8	MEAS 130 141	10,8 mmol/l
+T9	Concept_Idea 143 145	VN
+T10	MEAS 147 160	2,9-3,0 mEq/L
+T11	PROC 166 193	numération formule sanguine
+T12	MEAS 200 207	normale
+T13	PROC 215 233	sérologies virales
+T14	MEAS 242 251	négatives
+T15	LIVB 256 264	patiente
+T16	CHEM 281 291	tamoxifene
+T17	PROC 301 332	supplémentations en glucantime®
+T18	CHEM 321 332	glucantime®
+T19	MODE 337 355	voie intraveineuse
+T20	PROC 368 392	contrôle scannographique
+T21	TEMP 399 407	six mois
+T22	PROC 421 441	reprise chirurgicale
+T23	DISO 461 482	détresse respiratoire
+T24	PHEN 470 482	respiratoire
+T25	MEAS 515 522	simples
+T26	DISO 528 553	complication neurologique
+T27	DISO 557 573	cardiovasculaire
+T28	PROC 587 607	suivi postopératoire
+T29	Hospital 611 626	bloc opératoire
+T30	DISO 648 669	récidive métastatique
+T31	DISO 679 689	métastases

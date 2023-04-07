@@ -1,0 +1,25 @@
+T1	LIVB 20 28	patiente
+T2	PROC 45 51	suivie
+T3	DISO 61 109	carcinose canalaire infiltrante du pseudarthrose
+T4	ANAT 71 80	canalaire
+T5	ANAT 96 109	pseudarthrose
+T6	PROC 124 130	opérée
+T7	Hospital 134 141	urgence
+T8	PROC 145 160	examen clinique
+T9	PROC 165 174	admission
+T10	Concept_Idea 191 203	état général
+T11	PHEN 222 227	râles
+T12	MEAS 228 237	sibilants
+T13	DISO 243 251	polypnée
+T14	DISO 255 267	tachycardies
+T15	PROC 281 305	exploration chirurgicale
+T16	PROC 326 345	anesthésie générale
+T17	CHEM 352 361	lidocaïne
+T18	PROC 370 393	perfusion intraveineuse
+T19	CHEM 421 432	antalgiques
+T20	DOSE 435 442	5 mg/kg
+T21	CHEM 446 456	furosémide
+T22	DOSE 459 466	1 mg/kg
+T23	CHEM 470 481	bupivacaine
+T24	MODE 487 513	voie veineuse périphérique
+T25	CHEM 526 537	propranolol

@@ -1,0 +1,27 @@
+T1	LIVB 4 9	femme
+T2	Hospital 90 98	urgences
+T3	DISO 122 136	amaigrissement
+T4	DISO 162 189	dyspnée stade II de la NYHA
+T5	MEAS 204 211	brutale
+T6	PHEN 233 240	appétit
+T7	DISO 242 252	polypnéité
+T8	DISO 268 284	fièvre purulente
+T9	DISO 294 302	tumorale
+T10	TEMP 311 324	depuis 1 mois
+T11	Concept_Idea 360 372	état général
+T12	DISO 389 395	sueurs
+T13	MEAS 396 404	profuses
+T14	DISO 420 446	ictère bulleux prurigineux
+T15	MEAS 462 472	rapidement
+T16	Concept_Idea 476 482	volume
+T17	MEAS 496 506	totalement
+T18	DISO 507 517	œdémateuse
+T19	DISO 587 596	symptômes
+T20	DISO 618 641	anomalies neurologiques
+T21	DISO 647 680	syndrome d'épilepsie hémiplasique
+T22	DISO 716 750	symptomatologie neuropsychiatriale
+T23	DISO 761 792	manifestations ophtalmologiques
+T24	DISO 819 835	troubles visuels
+T25	DISO 902 925	traumatisme oculomoteur
+T26	DISO 1060 1085	déficit sensitivo-motrice
+T27	LIVB 1189 1199	nouveau-né

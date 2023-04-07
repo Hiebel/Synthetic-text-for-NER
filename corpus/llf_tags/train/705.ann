@@ -1,0 +1,33 @@
+T1	PROC 2 18	bilan biologique
+T2	DISO 35 41	anémie
+T3	MEAS 44 52	7,5 g/dL
+T4	Concept_Idea 54 56	VN
+T5	MEAS 59 70	0,99 mmol/L
+T6	PROC 76 89	sérologie HIV
+T7	MEAS 96 104	négative
+T8	PROC 108 165	examen cytobactériologique du liquide de tubage gastrique
+T9	ANAT 138 165	liquide de tubage gastrique
+T10	DISO 202 241	inflammation des granulations biliaires
+T11	ANAT 219 241	granulations biliaires
+T12	DISO 257 274	résidu infectieux
+T13	PROC 280 332	électrophorèse des protides sériques phosphocalcique
+T14	MEAS 341 349	normales
+T15	PROC 354 376	TDM cervico-thoracique
+T16	ANAT 358 376	cervico-thoracique
+T17	DISO 389 418	processus tissulaire polylobé
+T18	MEAS 428 432	6 cm
+T19	Concept_Idea 436 444	diamètre
+T20	Concept_Idea 453 482	caractère tomodensitométrique
+T21	DISO 502 558	adénocarcinome anaplasique mucineux infiltrant hépatique
+T22	PROC 568 604	classification de Von Recklinghausen
+T23	PROC 620 644	chimiothérapie adjuvante
+T24	PROC 650 696	transfusion sanguine intraveineuse parentérale
+T25	PROC 710 743	radio-chimiothérapie concomitante
+T26	MODE 748 765	voie sous cutanée
+T27	PHEN 799 817	suites opératoires
+T28	MEAS 826 833	simples
+T29	TEMP 843 871	septième jour postopératoire
+T30	LIVB 876 883	patient
+T31	DISO 905 922	récidive tumorale
+T32	DISO 929 938	métastase
+T33	PROC 948 965	geste chirurgical

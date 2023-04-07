@@ -1,0 +1,16 @@
+T1	LIVB 29 34	femme
+T2	DISO 82 110	méningoencephalite purulente
+T3	DISO 130 150	détresse métabolique
+T4	PROC 167 185	traitement médical
+T5	CHEM 198 212	hydrocortisone
+T6	CHEM 217 237	sulfate de magnésium
+T7	PROC 251 283	cortisolothérapie prophylactique
+T8	MODE 289 294	bolus
+T9	CHEM 297 314	hydroxocobalamine
+T10	TEMP 342 355	depuis 6 mois
+T11	LIVB 362 365	son
+T12	PROC 366 375	admission
+T13	Hospital 387 396	formation
+T14	DOSE 430 434	50mg
+T15	PROC 514 558	tomodensitométrie scanno-guidée chirurgicale
+T16	DISO 584 661	hypothalamie hypophysaire hypo-intense tissulaire angulo-pariéto-métanéphrine

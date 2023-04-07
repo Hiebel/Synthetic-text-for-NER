@@ -1,0 +1,35 @@
+T1	PROC 3 21	bilan radiologique
+T2	DISO 59 72	hémopéritoine
+T3	MEAS 76 93	moyenne abondance
+T4	Concept_Idea 103 115	état général
+T5	MEAS 116 122	altéré
+T6	PROC 126 141	examen clinique
+T7	LIVB 155 163	patiente
+T8	MEAS 167 174	mauvais
+T9	Concept_Idea 175 187	état général
+T10	ANAT 195 207	conjonctives
+T11	MEAS 208 229	légèrement décolorées
+T12	PROC 243 259	bilan biologique
+T13	DISO 271 284	particularité
+T14	PROC 290 307	tomodensitométrie
+T15	DEVI 332 338	caméra
+T16	DISO 357 365	anomalie
+T17	DISO 369 403	facteur de risque thromboembolique
+T18	PROC 418 457	TDM thoraco- abdomino-abdominopelvienne
+T19	ANAT 422 457	thoraco- abdomino-abdominopelvienne
+T20	MEAS 472 480	négative
+T21	PROC 495 518	sérologies infectieuses
+T22	MEAS 527 536	négatives
+T23	PHEN 542 560	suites opératoires
+T24	MEAS 569 576	simples
+T25	PROC 582 608	anticoagulation préventive
+T26	TEMP 612 639	sixieme jour postopératoire
+T27	PROC 653 684	consultation pré angiographique
+T28	Concept_Idea 708 727	résultats cliniques
+T29	PROC 735 747	angioscanner
+T31	PROC 776 781	suivi
+T32	LIVB 787 792	notre
+T33	Hospital 793 800	service
+T34	PROC 806 840	prise en charge multidisciplinaire
+T35	TEMP 854 861	5 jours
+T36	PROC 871 888	geste chirurgical

@@ -1,0 +1,66 @@
+T1	PROC 2 21	bilan préopératoire
+T2	MEAS 66 77	volumineuse
+T3	DISO 78 92	masse tumorale
+T4	ANAT 96 107	rein gauche
+T5	Localization 101 107	gauche
+T6	PROC 112 129	tomodensitométrie
+T7	PROC 131 145	TDM) cérébrale
+T8	ANAT 136 145	cérébrale
+T9	Concept_Idea 156 176	aspect morphologique
+T10	DISO 186 191	masse
+T11	DISO 197 210	calcification
+T12	DISO 214 239	remaniement inflammatoire
+T13	DISO 274 309	processus carcinomateux malformatif
+T14	DISO 324 358	dysplasie fibro-duodénale kystique
+T15	MEAS 391 398	simples
+T16	PROC 405 426	contrôle radiologique
+T17	MEAS 433 439	normal
+T18	LIVB 444 450	malade
+T19	CHEM 464 495	amoxicilline acide clavulanique
+T20	CHEM 498 523	acide acétyle salicylique
+T21	DISO 542 570	troubles neuropsychiatriques
+T22	Hospital 601 616	bloc opératoire
+T23	PROC 623 642	anesthésie générale
+T24	PROC 691 726	chimiothérapie palliative adjuvante
+T25	MODE 731 749	voie intraveineuse
+T26	PROC 763 788	thoracotomie exploratrice
+T27	PROC 819 836	scanner abdominal
+T28	ANAT 827 836	abdominal
+T29	PROC 851 875	exploration endoscopique
+T30	DISO 913 965	lésion hypoéchogène hétérogène tissulaire encapsulée
+T31	MEAS 975 979	7 cm
+T32	Concept_Idea 983 991	diamètre
+T33	MEAS 1000 1004	3 cm
+T34	Concept_Idea 1008 1017	grand axe
+T35	ANAT 1040 1067	parois urétérales fundiques
+T36	Concept_Idea 1072 1095	localisation secondaire
+T37	ANAT 1112 1122	rein droit
+T38	Localization 1117 1122	droit
+T39	MEAS 1137 1141	5 cm
+T40	Concept_Idea 1145 1152	hauteur
+T41	ANAT 1174 1193	annexes cunéiformes
+T42	ANAT 1204 1232	paupières pelvi péritonéales
+T43	ANAT 1249 1305	segments mésentériques postéro-expectoraux sus pubiennes
+T44	PROC 1324 1350	rééducation postopératoire
+T45	PROC 1357 1379	traitement chirurgical
+T46	DISO 1410 1430	symptômes infectieux
+T47	PROC 1434 1459	étude anatomopathologique
+T48	DISO 1583 1589	tumeur
+T49	PROC 1629 1642	radiothérapie
+T50	PROC 1665 1703	radio-chimiothérapie substitutionnelle
+T51	PHEN 1719 1740	grossesse monofoetale
+T52	PROC 1763 1792	fécondation in vitro congelée
+T53	PROC 1815 1834	classification MDRD
+T54	Concept_Idea 2380 2397	histoire clinique
+T55	DISO 2449 2473	neuroleptiques atypiques
+T57	DISO 2521 2534	schizophrénie
+T58	DISO 2559 2584	hallucinations délirantes
+T59	DISO 2630 2656	syndromes schizophréniques
+T60	Concept_Idea 2700 2723	caractères psychotiques
+T61	LIVB 2911 2918	patient
+T62	MEAS 2936 2946	différents
+T63	DISO 2947 2967	symptômes bipolaires
+T64	LIVB 3108 3131	professionnels de santé
+T65	CHEM 3161 3185	neuroleptiques atypiques
+T66	DOSE 3217 3221	3 mg
+T67	TEMP 3221 3223	/j

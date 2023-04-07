@@ -1,0 +1,57 @@
+T1	LIVB 28 35	patient
+T2	PROC 65 98	traitement médical antibacillaire
+T3	MODE 103 113	voie orale
+T4	CHEM 124 139	rifaméthoxazole
+T5	CHEM 151 164	métronidazole
+T6	CHEM 178 188	isoniazide
+T7	DISO 205 213	récidive
+T8	PROC 229 244	hospitalisation
+T9	DISO 262 295	syndrome inflammatoire biologique
+T10	DISO 302 322	signes neurologiques
+T11	PROC 354 384	radiothérapie locale adjuvante
+T12	PROC 398 429	radio-chimiothérapie palliative
+T13	DOSE 468 494	2 Gy /fractionnement total
+T14	DEVI 503 511	TDM MIBI
+T15	LIVB 538 546	patiente
+T16	PROC 607 632	traitement antibacillaire
+T17	PROC 685 713	prise en charge chirurgicale
+T18	LIVB 1163 1170	patient
+T19	Concept_Idea 1183 1187	âgée
+T20	DISO 1253 1266	symptomatique
+T21	MEAS 1281 1287	rapide
+T22	TEMP 1297 1315	depuis trois jours
+T23	DISO 1337 1379	douleurs abdomino-pelviennes hypoalgientes
+T24	ANAT 1346 1379	abdomino-pelviennes hypoalgientes
+T25	MEAS 1402 1413	brutalement
+T26	Concept_Idea 1417 1423	volume
+T27	MEAS 1451 1475	modérément prurigineuses
+T28	MEAS 1488 1510	rapidement progressive
+T29	DISO 1571 1584	consanguinité
+T30	DISO 1591 1614	souffrance placentaires
+T31	ANAT 1602 1614	placentaires
+T32	DISO 1681 1705	sensibilité épigastrique
+T33	ANAT 1693 1705	épigastrique
+T34	DISO 1728 1757	vomissements bilieux purulent
+T35	ANAT 1795 1806	intestinaux
+T36	ANAT 1863 1882	muqueuse abdominale
+T37	DISO 1916 1943	kyste hydatique kysto-dense
+T38	DISO 1985 2005	hypothalamus tumoral
+T39	DISO 2109 2124	tumeur suspecte
+T40	MEAS 2134 2138	3 cm
+T41	Concept_Idea 2142 2151	grand axe
+T42	ANAT 2196 2226	paroi œsogastroduodéno-rectale
+T43	ANAT 2246 2264	grappe intestinale
+T44	MEAS 2273 2281	deuxième
+T45	PROC 2327 2353	résultats scannographiques
+T46	DISO 2511 2530	métastose ovarienne
+T47	ANAT 2521 2530	ovarienne
+T48	PROC 2536 2594	prélèvements bactériologiques du liquide céphalo-rachidien
+T49	ANAT 2569 2594	liquide céphalo-rachidien
+T50	PROC 2608 2627	bilan immunologique
+T51	MEAS 2634 2641	négatif
+T52	PROC 2645 2660	examen clinique
+T53	LIVB 2673 2679	enfant
+T54	Concept_Idea 2704 2722	plan hémodynamique
+T55	PHEN 2724 2736	respiratoire
+T56	DISO 2743 2781	syndrome d'épanchement intrapéritonéal
+T57	ANAT 2766 2781	intrapéritonéal

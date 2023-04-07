@@ -1,0 +1,70 @@
+T1	LIVB 15 22	patient
+T2	DISO 65 72	diabète
+T3	MEAS 73 80	type II
+T4	PROC 86 104	traitement médical
+T5	DISO 112 135	hypertension artérielle
+T6	ANAT 125 135	artérielle
+T7	PROC 146 157	hospitalisé
+T8	DISO 167 190	vomissements chroniques
+T9	TEMP 200 213	depuis 6 mois
+T10	PROC 219 234	examen clinique
+T11	LIVB 238 245	patient
+T12	DISO 252 259	fébrile
+T13	MEAS 262 268	38,8°C
+T14	DISO 274 297	déficit sensitivomoteur
+T15	DISO 301 310	dysphonie
+T16	DISO 314 348	brûlure du membre inférieur gauche
+T17	ANAT 325 348	membre inférieur gauche
+T18	Localization 342 348	gauche
+T19	DISO 370 391	détresse respiratoire
+T20	PHEN 379 391	respiratoire
+T21	Concept_Idea 421 432	température
+T22	MEAS 435 441	37 ° C
+T23	DISO 458 464	sueurs
+T24	PROC 469 494	examen neuropsychiatrique
+T25	LIVB 524 534	adolescent
+T26	Concept_Idea 545 575	constantes psychopathologiques
+T27	PROC 583 589	entrée
+T28	DISO 676 685	symptômes
+T29	TEMP 700 706	6 mois
+T30	DISO 830 844	amaigrissement
+T31	MEAS 855 862	10kg/m2
+T32	PROC 881 895	bilan hormonal
+T33	DISO 912 930	hyperprolactidémie
+T34	MEAS 933 958	4,9 grammes par décilitre
+T35	MEAS 964 989	0,29 gramme par décilitre
+T36	DISO 1004 1046	insuffisance rénale normocytaire terminale
+T37	ANAT 1017 1023	rénale
+T38	DISO 1060 1085	hypothyroïdie congénitale
+T39	MEAS 1096 1113	24 cycles /minute
+T40	PROC 1130 1155	chimiothérapie palliative
+T41	PROC 1193 1226	hormonothérapie substitutionnelle
+T42	CHEM 1236 1249	pénicilline G
+T43	CHEM 1252 1265	céfalosporine
+T44	CHEM 1267 1292	acide acétyle salicylique
+T45	DEVI 1310 1324	neuroleptiques
+T46	DOSE 1330 1335	25 mg
+T47	TEMP 1335 1343	/semaine
+T49	PROC 1522 1551	prise en charge thérapeutique
+T50	PROC 1594 1625	thérapeutiques antipsychotiques
+T51	PROC 1631 1659	antipsychotique conservateur
+T52	TEMP 2921 2927	4 mois
+T53	LIVB 2955 2962	patient
+T54	DISO 2978 3002	symptomatologie clinique
+T55	PHEN 3105 3122	fonctions vitales
+T56	Concept_Idea 3134 3137	cas
+T57	DISO 3173 3195	consanguinité élective
+T58	DISO 3202 3224	maltraitance familiale
+T59	DISO 3284 3299	symptomatologie
+T60	LIVB 4086 4089	son
+T61	LIVB 4090 4095	frère
+T62	TEMP 4103 4108	3 ans
+T63	LIVB 4112 4114	sa
+T64	LIVB 4115 4126	soeur aînée
+T65	TEMP 4135 4140	7 ans
+T66	MEAS 4236 4247	2ans chacun
+T67	PROC 4385 4408	résection scanno-guidée
+T68	PROC 4422 4457	chimiothérapie palliative adjuvante
+T69	LIVB 4485 4491	sujets
+T70	Concept_Idea 4523 4543	catégories cliniques
+T71	DISO 4600 4633	pathologies psychiatriques aiguës

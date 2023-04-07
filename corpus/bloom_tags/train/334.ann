@@ -1,0 +1,59 @@
+T1	LIVB 19 24	homme
+T2	DISO 36 46	hypertendu
+T3	PROC 52 70	traitement médical
+T4	CHEM 80 128	antagonistes des récepteurs de l'angiotensine II
+T5	Hospital 153 161	urgences
+T6	DISO 171 196	tuméfaction du pied droit
+T7	ANAT 186 196	pied droit
+T8	Localization 191 196	droit
+T9	TEMP 206 222	depuis deux mois
+T10	MEAS 237 252	progressivement
+T11	Concept_Idea 256 262	volume
+T12	PROC 266 281	examen clinique
+T13	DISO 299 332	épanchement séro-muqueux purulent
+T14	ANAT 311 332	séro-muqueux purulent
+T15	DISO 349 374	masse angulo-vascularisée
+T16	MEAS 384 389	12 cm
+T17	Concept_Idea 393 402	grand axe
+T18	PROC 407 426	bilan préopératoire
+T19	DISO 438 451	particularité
+T20	DISO 479 491	cholécystite
+T21	DISO 502 526	syndromes inflammatoires
+T23	ANAT 558 566	lombaire
+T24	PROC 613 621	natrémie
+T25	MEAS 630 639	133 meq/l
+T26	LIVB 641 644	Son
+T27	PROC 645 667	pronostic radiologique
+T28	PHEN 701 727	réflexes cutanéo-tendineux
+T29	LIVB 757 765	patiente
+T30	MODE 791 804	voie veineuse
+T31	DEVI 817 838	cathéter périlombaire
+T32	PROC 845 887	analgésie anesthésique locale chirurgicale
+T33	DISO 944 965	déficit neurorétinien
+T34	MEAS 982 991	spontanée
+T35	DISO 998 1025	symptomatologie douloureuse
+T36	PROC 1042 1076	radiothérapie adjuvante palliative
+T37	PROC 1118 1128	médication
+T38	DISO 1197 1212	symptomatologie
+T39	PROC 1225 1257	scanner thoraco-abdomino-pelvien
+T40	ANAT 1233 1257	thoraco-abdomino-pelvien
+T41	PROC 1270 1291	échographie pelvienne
+T42	ANAT 1282 1291	pelvienne
+T43	DISO 1321 1348	localisations métastatiques
+T44	DISO 1375 1418	atteinte hépato-surrénalienne infarctoielle
+T45	ANAT 1384 1418	hépato-surrénalienne infarctoielle
+T46	DISO 1428 1476	adénopathie parathyroïdienne ischio-mésentérique
+T47	ANAT 1440 1476	parathyroïdienne ischio-mésentérique
+T48	MEAS 1516 1524	15g /m 2
+T49	PROC 1529 1562	imagerie par résonance magnétique
+T50	PROC 1564 1567	IRM
+T52	ANAT 1725 1760	greffon phréno-lipohydromédiastinal
+T53	CHEM 1794 1814	produit de contraste
+T54	ANAT 1821 1852	artère rénale bilatérale droite
+T55	Localization 1835 1852	bilatérale droite
+T56	DISO 1868 1906	tumeur neuro-endocrine hypertrophiante
+T57	ANAT 1927 1945	substance grêlique
+T58	DISO 1992 2025	localisations kystiques tumorales
+T59	DISO 2040 2072	myomateuse érythémateuse maligne
+T60	ANAT 2096 2116	grosses intestinales
+T61	ANAT 2215 2235	grandes intestinales

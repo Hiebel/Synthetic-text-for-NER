@@ -1,0 +1,34 @@
+T1	LIVB 16 21	femme
+T2	PROC 47 53	admise
+T3	Hospital 58 80	urgences chirurgicales
+T4	DISO 90 107	céphalées fébrile
+T5	MEAS 122 128	rapide
+T6	TEMP 138 155	depuis deux jours
+T7	DISO 174 182	anorexie
+T8	DISO 195 215	signes neurologiques
+T9	DISO 242 259	détresse visuelle
+T10	DISO 269 296	anomalie du cycle menstruel
+T11	PHEN 281 296	cycle menstruel
+T12	PROC 301 317	bilan biologique
+T13	CHEM 331 344	prolactinémie
+T14	MEAS 357 366	1550 mg/l
+T15	MEAS 385 394	1170 mg/l
+T16	MEAS 419 428	1740 mg/l
+T17	DISO 486 539	syndrome d'épanchement pleural liquidien périphérique
+T19	DISO 544 561	douleur pelvienne
+T20	ANAT 552 561	pelvienne
+T21	DISO 582 606	paresthésies secondaires
+T22	ANAT 627 639	méso-pelvien
+T23	LIVB 718 725	famille
+T24	PROC 803 821	scanner thoracique
+T25	ANAT 811 821	thoracique
+T26	DISO 846 959	opacité hypodense pariétale bilatérale droite basithoracique hypoglycéréno-centrale bilobée hétérogène hyperdense
+T29	MEAS 969 973	6 cm
+T30	Concept_Idea 977 985	diamètre
+T31	ANAT 1012 1028	sinus cardiaques
+T32	DISO 1052 1092	myxome hypertrophié ischymateux réhaussé
+T33	ANAT 1195 1225	transthoracique angiographique
+T34	PROC 1228 1258	échographie abdomino-pelvienne
+T35	ANAT 1240 1258	abdomino-pelvienne
+T36	PROC 1260 1293	imagerie par résonance magnétique
+T37	PROC 1295 1298	IRM

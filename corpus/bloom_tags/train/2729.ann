@@ -1,0 +1,20 @@
+T1	LIVB 20 28	patiente
+T2	MEAS 45 54	nullipare
+T3	MEAS 87 99	particuliers
+T4	PROC 103 123	examen gynécologique
+T5	ANAT 139 149	col utérin
+T6	Concept_Idea 162 168	taille
+T7	PHEN 178 201	vacuolisation du utérus
+T8	ANAT 195 201	utérus
+T9	DISO 222 250	épanchement intra péritonéal
+T11	ANAT 266 294	espace postéro-latéral droit
+T12	Localization 289 294	droit
+T13	DISO 328 345	péritoine nécrosé
+T14	PROC 350 370	biopsie chirurgicale
+T15	PROC 390 413	anesthésielocorégionale
+T16	CHEM 423 436	indométhasone
+T17	MODE 440 452	intraveineux
+T18	DOSE 454 462	0,5mg/kg
+T19	TEMP 462 464	/j
+T20	Hospital 480 504	chirurgies obstétricales
+T21	DEVI 509 519	césarienne

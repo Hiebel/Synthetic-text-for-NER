@@ -1,0 +1,15 @@
+T1	LIVB 29 37	patiente
+T2	DISO 88 126	syndrome d’épanchement péritonéal aigu
+T3	ANAT 111 126	péritonéal aigu
+T4	MEAS 136 143	1500 ml
+T5	PROC 149 175	traitement curatif médical
+T6	CHEM 186 196	sufentanil
+T7	CHEM 199 212	dexaméthasone
+T8	DOSE 238 246	une dose
+T9	MODE 250 277	voie veineuse intraveineuse
+T10	PROC 308 332	chimiothérapie adjuvante
+T11	CHEM 344 354	cisplatine
+T12	PROC 524 548	observation exploratoire
+T13	PHEN 646 658	accouchement
+T14	PROC 683 719	recherche fonctionnelle obstétricale
+T15	LIVB 785 791	femmes

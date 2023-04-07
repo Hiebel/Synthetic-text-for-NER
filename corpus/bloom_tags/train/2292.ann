@@ -1,0 +1,63 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	MEAS 37 41	bien
+T4	PROC 42 49	vacciné
+T5	CHEM 55 66	tuberculine
+T6	DISO 87 106	pleurésie purulente
+T7	TEMP 116 130	depuis un mois
+T8	PROC 136 166	ponction lombaire exploratrice
+T9	ANAT 145 153	lombaire
+T10	PROC 188 214	examen anatomopathologique
+T11	DISO 247 276	polynucléaires érythémateuses
+T12	ANAT 291 305	conjonctivales
+T13	LIVB 307 309	Il
+T14	PROC 325 358	traitement médical antibacillaire
+T15	DOSE 360 362	3g
+T16	CHEM 365 375	isoniazide
+T17	MODE 380 398	voie intraveineuse
+T18	CHEM 413 424	rifampicine
+T19	MODE 429 439	voie orale
+T20	PROC 444 480	tomodensitométrie abdomino-pelvienne
+T21	ANAT 462 480	abdomino-pelvienne
+T22	DISO 497 556	masse tissulaire hypo métabolisée latéro-utérine bilatérale
+T23	Localization 546 556	bilatérale
+T24	MEAS 568 583	progressivement
+T25	Concept_Idea 587 593	taille
+T26	MEAS 603 607	6 cm
+T27	Concept_Idea 611 625	grand diamètre
+T28	MEAS 630 634	4 cm
+T29	Concept_Idea 638 651	petite taille
+T30	DISO 657 679	adénopathies kystiques
+T32	ANAT 710 730	intra-myometricielle
+T33	DISO 748 786	dégénérescence péritissulaire tumorale
+T34	ANAT 803 818	parois utérines
+T35	DISO 839 875	épanchement intrapéritonéal infiltré
+T36	ANAT 851 875	intrapéritonéal infiltré
+T37	PHEN 893 908	grossesse gélée
+T38	DISO 944 974	carcinome myxovésico-lésionnel
+T39	ANAT 954 974	myxovésico-lésionnel
+T40	LIVB 1008 1018	nouveau-né
+T41	TEMP 1026 1031	un an
+T42	Concept_Idea 1084 1096	état général
+T43	PROC 1134 1166	scanner thoraco-abdomino pelvien
+T44	ANAT 1142 1166	thoraco-abdomino pelvien
+T45	DISO 1195 1222	localisations métastatiques
+T46	DISO 1232 1256	localisation secondaires
+T47	DISO 1283 1299	nécrose caséeuse
+T48	DISO 1306 1328	fistule placenta-cæcal
+T49	ANAT 1314 1328	placenta-cæcal
+T50	DISO 1361 1380	lésions nécrotiques
+T51	PROC 1458 1483	étude immunohistochimique
+T52	PROC 1484 1487	IHC
+T53	PROC 1506 1528	résection chirurgicale
+T54	PROC 1534 1554	immuno-histochimique
+T55	DISO 1719 1740	métastases nodulaires
+T56	ANAT 1759 1771	thyroïdienne
+T57	DISO 1875 1898	récidive carcinomateuse
+T58	DISO 1914 1938	signe clinico-biologique
+T59	PROC 1983 2006	radiothérapie adjuvante
+T60	PROC 2050 2077	chirurgie curative radicale
+T61	PROC 2456 2479	intervention palliative
+T62	LIVB 2572 2594	membres communautaires
+T63	DISO 2860 2883	prémisses pathologiques
+T64	MEAS 3149 3158	multiples

@@ -1,0 +1,31 @@
+T1	LIVB 3 14	jeune homme
+T2	TEMP 18 24	20 ans
+T3	DISO 31 56	antécédents pathologiques
+T4	MEAS 57 65	notables
+T5	PROC 68 72	reçu
+T6	Hospital 77 102	urgences ophtalmologiques
+T7	DISO 114 126	polypneiques
+T8	DISO 128 149	détresse respiratoire
+T9	PHEN 137 149	respiratoire
+T10	DISO 153 169	choc hypotonique
+T11	TEMP 179 193	depuis 2 jours
+T12	DISO 213 227	amaigrissement
+T13	MEAS 238 242	3 kg
+T14	PROC 248 257	admission
+T15	Hospital 261 308	service d'accueil des urgences ophtalmologiques
+T16	PROC 314 333	pression sufentanil
+T17	CHEM 323 333	sufentanil
+T18	DOSE 344 355	1 µg/kg/min
+T19	PROC 447 480	traitement médical antibacillaire
+T20	CHEM 491 506	rifaméthoxazole
+T21	CHEM 509 522	triméthoprime
+T22	CHEM 525 543	méthylprednisolone
+T23	PROC 548 573	intervention chirurgicale
+T24	PROC 594 632	anesthésie loco-régionale exploratrice
+T25	Localization 605 619	loco-régionale
+T26	DEVI 664 697	sonde naso-gastrique artificielle
+T28	PROC 743 750	enlevée
+T29	ANAT 799 819	artériolo-thoracique
+T30	PROC 965 1010	intubation pleurale trans-bronchique profonde
+T31	ANAT 976 1010	pleurale trans-bronchique profonde
+T32	PROC 1026 1072	cathésisation bronchico-laryngée intraveineuse

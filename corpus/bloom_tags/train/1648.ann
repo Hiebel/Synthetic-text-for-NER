@@ -1,0 +1,28 @@
+T1	LIVB 4 12	patiente
+T2	DISO 56 76	diabète hypertensive
+T3	PROC 81 100	traité médicalement
+T4	DEVI 106 147	bandage cardiovasculaire transoesophagien
+T5	ANAT 114 147	cardiovasculaire transoesophagien
+T6	PROC 161 200	intervention thérapeutique chirurgicale
+T7	Hospital 219 227	urgences
+T8	DISO 245 272	dyspnée stade II de la NYHA
+T9	DISO 292 313	détresse respiratoire
+T10	PHEN 301 313	respiratoire
+T11	LIVB 337 345	patiente
+T12	DISO 366 384	œdème épigastrique
+T13	ANAT 372 384	épigastrique
+T14	DISO 401 421	hémorragie digestive
+T15	ANAT 412 421	digestive
+T16	TEMP 431 451	depuis deux semaines
+T17	LIVB 458 460	sa
+T18	PROC 461 473	consultation
+T19	PROC 490 507	mariage d'urgence
+T20	LIVB 618 622	elle
+T21	LIVB 769 778	patientes
+T22	MEAS 788 797	20-30 ans
+T23	Localization 837 855	membres inférieurs
+T24	LIVB 950 958	médecins
+T25	LIVB 1060 1069	patientes
+T26	DISO 1073 1102	brulures érythémato-muqueuses
+T27	DISO 1115 1135	traumatisme purulent
+T28	MEAS 1280 1292	3000 grammes

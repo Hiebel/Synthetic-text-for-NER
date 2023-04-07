@@ -1,0 +1,38 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	TEMP 100 104	2012
+T5	DISO 109 185	tuméfaction du pôle postéro-latéral droit de l'hypo-thyroïdien palmopharyngé
+T7	Localization 145 150	droit
+T8	ANAT 156 185	hypo-thyroïdien palmopharyngé
+T9	Concept_Idea 230 242	état général
+T10	PROC 248 257	admission
+T11	Hospital 261 281	service des urgences
+T12	LIVB 285 292	patient
+T13	Concept_Idea 326 344	plan hémodynamique
+T14	MEAS 370 377	120 bpm
+T16	Concept_Idea 414 425	plan cutané
+T17	DISO 446 478	polyarthrite érythémato-violacée
+T18	DISO 493 522	cuir chevelu angulo-pustuleux
+T19	PROC 527 546	bilan préopératoire
+T20	DISO 567 583	hyperleucocytose
+T21	MEAS 616 634	15000 éléments/mm3
+T22	PROC 641 665	prélèvement leucocytaire
+T23	PROC 679 692	sérologie HIV
+T24	MEAS 699 707	négative
+T25	PROC 711 750	ponction liquide céphalorachianesthésie
+T26	ANAT 720 750	liquide céphalorachianesthésie
+T27	DISO 785 808	signes bactériologiques
+T28	CHEM 842 852	cefotaxime
+T29	CHEM 861 874	métronidazole
+T30	LIVB 902 910	patiente
+T31	PROC 933 978	chirurgie transphréno-mandibulaire antalgique
+T32	PROC 994 1027	parotidectomie totale étiologique
+T33	DISO 1043 1057	neuroleptiques
+T34	PROC 1106 1130	intubation nasogastrique
+T35	ANAT 1117 1130	nasogastrique
+T36	DISO 1159 1199	syndrome d'épanchement pleural médiastin
+T37	ANAT 1182 1199	pleural médiastin
+T38	DISO 1298 1342	maladie thromboembolique veineuse systémique
+T39	ANAT 1323 1342	veineuse systémique
+T40	DISO 1352 1390	thrombolytique congénitale malformante

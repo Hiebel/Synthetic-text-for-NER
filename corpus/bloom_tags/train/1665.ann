@@ -1,0 +1,21 @@
+T1	LIVB 3 10	patient
+T2	PROC 22 28	traité
+T3	DISO 37 60	carcinome du col utérin
+T4	ANAT 50 60	col utérin
+T5	PROC 83 107	scanner abdomino-pelvien
+T6	ANAT 91 107	abdomino-pelvien
+T7	DISO 139 187	lésion tumorale basithoracique hypo-vascularisée
+T8	Localization 155 169	basithoracique
+T9	MEAS 197 203	2.5 cm
+T10	Concept_Idea 207 216	grand axe
+T11	PHEN 226 236	végétation
+T12	MEAS 237 245	positive
+T13	ANAT 261 267	utérus
+T14	ANAT 275 291	parois vaginales
+T15	PROC 297 319	résection chirurgicale
+T16	PROC 340 364	anesthésie locorégionale
+T17	ANAT 351 364	locorégionale
+T18	ANAT 418 453	canal latéro-latéral sous ombilical
+T19	Localization 439 443	sous
+T20	PROC 469 501	curage péritonéal transgastrique
+T21	ANAT 476 501	péritonéal transgastrique

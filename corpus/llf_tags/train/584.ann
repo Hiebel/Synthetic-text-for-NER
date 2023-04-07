@@ -1,0 +1,79 @@
+T1	LIVB 15 25	nourrisson
+T2	TEMP 33 38	5 ans
+T3	PHEN 94 101	mariage
+T4	MEAS 120 123	3 e
+T5	LIVB 124 128	père
+T6	Hospital 153 186	Service des Maladies Infectieuses
+T7	Hospital 188 192	SMIT
+T8	DISO 213 229	coma hypotonique
+T9	LIVB 245 248	son
+T10	LIVB 249 255	épouse
+T11	PROC 261 267	amenée
+T12	Hospital 272 300	soins intensifs pédiatriques
+T13	MEAS 335 342	simples
+T14	PROC 346 361	examen clinique
+T15	DISO 373 386	particularité
+T16	DISO 412 438	signes neuropsychiatriques
+T17	DISO 456 465	dysphagie
+T18	DISO 472 487	morbi-mortalité
+T19	PROC 493 533	imagerie par résonance magnétique fœtale
+T20	PROC 535 538	IRM
+T21	LIVB 557 567	nouveau-né
+T22	DISO 588 618	processus lésionnel tissulaire
+T23	DISO 628 645	caractère tumoral
+T24	Localization 654 669	tiers inferieur
+T25	ANAT 740 752	conjonctives
+T26	PHEN 808 817	grossesse
+T27	PROC 822 837	ponction rénale
+T28	ANAT 831 837	rénale
+T29	PROC 870 890	reprise chirurgicale
+T30	MEAS 1033 1038	10 mm
+T31	MEAS 1042 1046	8 mm
+T32	ANAT 1119 1131	foyer mitral
+T33	ANAT 1148 1173	zones charnues rénitentes
+T34	Localization 1200 1215	bilobés opposés
+T35	ANAT 1234 1254	muqueuse intestinale
+T36	ANAT 1312 1356	parties molles antro-mésentériques ventrales
+T37	ANAT 1375 1395	lentières digestives
+T38	ANAT 1565 1611	vessie sus mésentérique basithoracique élargie
+T39	DISO 1675 1741	granulome érythémateux hétéromédullaire anisocaryocytaire kystique
+T40	PROC 1948 1974	explorations cytochimiques
+T41	MEAS 2763 2767	deux
+T42	LIVB 2768 2776	patients
+T43	PROC 2803 2839	bilan d’extension multidisciplinaire
+T44	PROC 2853 2877	chimiothérapie adjuvante
+T45	PROC 2884 2907	traitement conservateur
+T46	Concept_Idea 2911 2921	indication
+T47	PROC 2928 2953	tumorectomie exploratrice
+T48	LIVB 2974 2984	nouveau-né
+T49	TEMP 2992 2999	14 mois
+T50	PROC 3014 3021	adressé
+T51	Hospital 3026 3054	soins intensifs pédiatriques
+T52	CHEM 3076 3087	corticoïde®
+T53	DOSE 3089 3097	40 mg/kg
+T54	TEMP 3097 3099	/j
+T55	PROC 3104 3129	examen neuropsychiatrique
+T56	LIVB 3164 3174	nourrisson
+T57	DISO 3180 3200	anomalies somatiques
+T58	DISO 3204 3222	troubles sensitifs
+T59	PHEN 3226 3242	consignes vitaux
+T60	PROC 3272 3298	consultation psychiatrique
+T61	PROC 3360 3394	prise en charge pluridisciplinaire
+T62	PROC 3458 3469	internement
+T63	PROC 3474 3499	thyréotaxie préopératoire
+T64	DEVI 3512 3530	microscope optique
+T65	ANAT 3563 3598	pédicule céphalo rachidien fundique
+T66	MEAS 3647 3652	10 cm
+T67	MEAS 3656 3660	5 cm
+T68	ANAT 3691 3738	noyaux iléaux fronto-temporal supérieur gauches
+T69	Localization 3731 3738	gauches
+T70	ANAT 3746 3895	quadrant infero-sous mandibulaire inférieur gauche postéro-mandibulaire homolatéral médial antérieure claviculaire antéro-terminal latéral transverse
+T71	Localization 3790 3796	gauche
+T72	Localization 3818 3847	homolatéral médial antérieure
+T74	DISO 3984 4008	mégacaryocytes malformés
+T75	PROC 4013 4037	scanner crânio-kinétique
+T76	ANAT 4021 4037	crânio-kinétique
+T77	PROC 4071 4085	investigations
+T78	DISO 4116 4142	remaniements épileptogènes
+T79	DISO 4171 4206	symptômes liquidiens inflammatoires
+T80	ANAT 4252 4305	tendons cervicaux distaux plexus brachial métatarsien

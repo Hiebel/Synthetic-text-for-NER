@@ -1,0 +1,89 @@
+T1	LIVB 14 20	garçon
+T2	TEMP 24 29	8 ans
+T3	LIVB 72 78	enfant
+T4	PROC 90 104	suivi clinique
+T5	DISO 121 133	hyperthermie
+T6	MEAS 136 140	39°C
+T7	DISO 148 168	douleurs abdominales
+T8	ANAT 157 168	abdominales
+T9	ANAT 182 207	plexus brachial supérieur
+T10	Localization 198 207	supérieur
+T11	DISO 220 226	signes
+T12	PROC 239 261	examen ophtalmologique
+T13	DISO 289 332	broncho-néphropathie érythémateuse kystique
+T14	TEMP 342 355	depuis 3 mois
+T15	Concept_Idea 379 388	caractère
+T16	CHEM 398 429	amoxicilline acide clavulanique
+T17	CHEM 432 446	gentaméthasone
+T18	PHEN 452 467	fonction rénale
+T19	ANAT 461 467	rénale
+T20	MEAS 474 481	normale
+T21	PROC 486 513	numération formule sanguine
+T22	DISO 541 551	cholestase
+T23	DISO 558 577	carcinose hépatique
+T24	ANAT 568 577	hépatique
+T25	PROC 582 604	traitement substitutif
+T26	CHEM 613 623	aminosides
+T27	PROC 666 684	antibioprophylaxie
+T28	DISO 723 757	symptomatologie neuropsychiatrique
+T29	MEAS 790 797	simples
+T30	PROC 803 831	oxygénothérapie antibiotique
+T31	PROC 845 892	anticoagulation médicochimique adjuvante totale
+T32	PROC 913 928	radiodiagnostic
+T33	MEAS 949 956	stables
+T34	DISO 1063 1072	céphalées
+T35	LIVB 1081 1091	nouveau-né
+T36	TEMP 1099 1105	9 mois
+T37	PROC 1128 1152	laparotomie exploratrice
+T38	PROC 1186 1237	tumorectomie segmentaire scanno-guidée endoscopique
+T39	ANAT 1256 1262	pelvis
+T40	ANAT 1284 1323	parties molles cervicale superficielles
+T41	ANAT 1335 1348	crête caudale
+T42	PROC 1375 1448	annexectomie axile rectiligne transoesophagienne percutanée type IccG1N2B
+T43	PROC 1485 1524	injection intraveineuse intramédullaire
+T44	DOSE 1528 1541	5 millilitres
+T45	CHEM 1545 1567	propofol acétyle alpha
+T46	DEVI 1576 1673	cathéter Pneumococcus epidemidisches Arrow Functionetrificans Acuterer®/Ki67A FemtoRes 2 OCTECH ®
+T47	PROC 1682 1694	intervention
+T48	TEMP 1702 1710	7 heures
+T50	DISO 2024 2070	foyers laryngo-laryngiens liquidiens atypiques
+T51	DISO 2117 2175	métastases jugulo-carotidiennes aniso-palatineuses lobulée
+T52	ANAT 2128 2175	jugulo-carotidiennes aniso-palatineuses lobulée
+T53	DISO 2209 2244	adénomégalies congénitales malignes
+T54	MEAS 2269 2273	18mm
+T55	MEAS 2277 2282	15 mm
+T56	LIVB 2324 2331	malades
+T57	DISO 2344 2375	kératoconjonctivite infectieuse
+T58	PROC 2381 2402	recherche biomédicale
+T59	DISO 2457 2479	syndrome inflammatoire
+T60	Concept_Idea 2538 2561	spécificité étiologique
+T61	PROC 2587 2606	traitement adjuvant
+T62	DISO 2672 2698	signes neuropsychiatriques
+T63	DISO 2719 2744	déficit sensitivo-motrice
+T64	DISO 2777 2800	schizophrénie dysphagie
+T65	PROC 2847 2887	bronchoscopie diagnostique préopératoire
+T66	PHEN 2991 3000	grossesse
+T67	TEMP 3013 3028	quatre semaines
+T68	PROC 3038 3055	geste chirurgical
+T69	TEMP 3076 3085	six jours
+T70	LIVB 3107 3115	patiente
+T71	TEMP 3129 3152	J6heures postopératoire
+T72	DISO 3168 3196	symptomatologie obstétricale
+T73	DISO 3203 3220	contage périnatal
+T74	DISO 3263 3284	détresse respiratoire
+T75	PHEN 3272 3284	respiratoire
+T76	Hospital 3349 3366	vie extra-utérine
+T77	DISO 3439 3463	déviation hémodialysante
+T78	LIVB 3482 3486	elle
+T79	DISO 3657 3676	crises épileptiques
+T80	DISO 3693 3717	dépression psychomotrice
+T81	DISO 3770 3795	hallucinations délirantes
+T82	PROC 3975 4003	prise en charge chirurgicale
+T83	TEMP 4014 4025	huit heures
+T84	PROC 4085 4115	antibioprophylaxie parentérale
+T85	CHEM 4121 4152	amoxicilline acide clavulanique
+T86	CHEM 4155 4179	pénicilline citrullinide
+T87	CHEM 4182 4217	pyrazinamide adriamycine Isoniazole
+T88	DOSE 4223 4238	50 milligrammes
+T89	PROC 4317 4347	radiodialyse médicorégulatrice
+T90	PROC 4363 4380	régime postérieur

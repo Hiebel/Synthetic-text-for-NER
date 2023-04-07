@@ -1,0 +1,42 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	4 ans
+T3	PHEN 42 62	grossesse gémellaire
+T4	PROC 68 77	admission
+T5	Hospital 82 103	urgences pédiatriques
+T6	LIVB 105 109	elle
+T7	DISO 116 126	apyrétique
+T8	DISO 132 145	signes vitaux
+T9	DISO 171 192	atteinte respiratoire
+T10	ANAT 180 192	respiratoire
+T11	PROC 208 224	examen somatique
+T12	DISO 242 298	déformations ostéotendinesuses du membre supérieur droit
+T13	ANAT 276 298	membre supérieur droit
+T14	Localization 293 298	droit
+T15	TEMP 308 321	depuis 3 mois
+T16	DISO 344 386	polynucléose purulente érythémato-violacée
+T17	ANAT 417 454	articulations métacarpo-phalangiennes
+T18	DISO 476 489	paragangliome
+T19	DISO 506 531	pathologies neurologiques
+T20	DISO 542 564	anomalies métaboliques
+T21	DISO 588 604	maladie cœliaque
+T22	DISO 617 631	organomégalies
+T23	DEVI 708 724	prothèse plâtrée
+T24	ANAT 747 771	épaule supérieure droite
+T25	Localization 765 771	droite
+T26	DISO 790 819	complication thromboembolique
+T27	PROC 836 854	traitement curatif
+T28	CHEM 860 871	corticoïdes
+T29	CHEM 884 896	prédnisolone
+T30	DOSE 897 905	10 mg/kg
+T32	CHEM 910 921	buprolidone
+T33	DOSE 922 929	20mg/kg
+T34	TEMP 929 931	/j
+T35	MEAS 1138 1143	lente
+T36	MEAS 1149 1160	généralisée
+T37	DISO 1167 1172	masse
+T38	MEAS 1182 1185	6cm
+T39	MEAS 1188 1192	3 cm
+T40	Localization 1225 1236	postérieure
+T41	DISO 1343 1358	pneumo kystique
+T42	PROC 1415 1432	ponction biopsies
+T43	PROC 1455 1480	étude immunohistochimique

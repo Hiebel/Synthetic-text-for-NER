@@ -1,0 +1,22 @@
+T1	LIVB 9 12	H.M
+T2	PROC 38 43	admis
+T3	Hospital 48 73	urgences ophtalmologiques
+T4	DISO 93 113	syndrome d'épilepsie
+T5	DISO 119 137	impotence visuelle
+T6	TEMP 147 161	depuis 5 jours
+T7	LIVB 168 170	sa
+T8	PROC 171 183	consultation
+T9	Hospital 187 236	centre Hospitalier Universitaire Hassan II de Fès
+T10	PROC 242 267	chimiothérapie palliative
+T11	CHEM 279 292	phénobarbital
+T12	CHEM 294 305	Rifoloquine
+T13	CHEM 307 319	Pyrazinamide
+T14	CHEM 321 332	Ethionamide
+T15	CHEM 334 345	Cyclosérine
+T16	PROC 351 370	bilan préopératoire
+T17	DISO 462 487	pathologies oculomotrices
+T18	DISO 502 529	neurorétinite érythémateuse
+T19	DISO 570 607	lésions prurigineuses hyperpigmentées
+T20	DISO 654 683	anévro-néphrectomie purulente
+T21	MEAS 807 816	favorable
+T22	PROC 985 1028	protocole d'immunodépression prophylactique

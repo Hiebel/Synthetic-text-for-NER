@@ -1,0 +1,54 @@
+T1	LIVB 3 9	garçon
+T2	TEMP 17 23	12 ans
+T3	PROC 30 36	traité
+T4	CHEM 82 93	propranolol
+T5	MEAS 111 117	totale
+T6	DISO 124 139	symptomatologie
+T7	DEVI 160 190	cathéter pleuraphlébitocœlique
+T8	ANAT 169 190	pleuraphlébitocœlique
+T9	TEMP 207 213	14 ans
+T10	Hospital 272 290	chirurgie publique
+T11	PROC 304 314	consultait
+T12	DISO 327 376	infarctus auriculo-carotidien infarcto-myocardial
+T13	ANAT 337 376	auriculo-carotidien infarcto-myocardial
+T14	PROC 382 397	interventionnel
+T15	DISO 442 462	crises hypertensives
+T16	DISO 476 497	hypertension centrale
+T17	Localization 489 497	centrale
+T18	MEAS 509 521	150 /100mmhg
+T19	LIVB 584 591	malades
+T20	DISO 737 763	insuffisance surrénalienne
+T21	ANAT 750 763	surrénalienne
+T22	DISO 1037 1079	complication thromboembolique vascularisée
+T23	DISO 1111 1120	tabagisme
+T24	DISO 1127 1159	surdité congénitale malformative
+T25	ANAT 1339 1349	artérielle
+T26	Concept_Idea 1527 1533	volume
+T27	PROC 1656 1676	lavage buccodentaire
+T28	ANAT 1663 1676	buccodentaire
+T29	ANAT 1791 1801	tissulaire
+T30	ANAT 1831 1848	parenchyme buccal
+T31	DOSE 2247 2253	200 mg
+T32	TEMP 2253 2255	/j
+T33	MODE 2257 2269	intraveineux
+T34	CHEM 2295 2320	acide acido-cétaméthasone
+T35	CHEM 2323 2336	dexaméthasone
+T36	DOSE 2339 2344	20 mg
+T37	TEMP 2344 2346	/j
+T38	CHEM 2349 2363	hydrocortisone
+T39	DOSE 2364 2369	10 mg
+T40	TEMP 2369 2371	/j
+T41	CHEM 2374 2387	métronidazole
+T42	DOSE 2389 2395	400 mg
+T43	TEMP 2395 2397	/j
+T44	CHEM 2400 2414	ciprofloxacine
+T45	DOSE 2416 2425	0,5 mg/kg
+T46	TEMP 2425 2427	/j
+T47	CHEM 2432 2443	ethionamide
+T48	DOSE 2445 2451	500 mg
+T49	TEMP 2451 2453	/j
+T50	LIVB 2459 2467	patiente
+T51	PROC 2486 2514	chimiothérapie néo adjuvante
+T52	MEAS 2520 2529	XELOX/4RH
+T53	DISO 2550 2577	polynucléaires éosinophiles
+T54	TEMP 2597 2603	9 mois

@@ -1,0 +1,84 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 66	antécédents pathologiques
+T3	MEAS 67 79	particuliers
+T4	TEMP 95 107	depuis un an
+T5	DISO 112 146	douleurs du membre inférieur droit
+T6	ANAT 124 146	membre inférieur droit
+T7	Localization 141 146	droit
+T8	PROC 150 165	examen clinique
+T9	DISO 182 193	tuméfaction
+T10	MEAS 202 207	6/7cm
+T11	PROC 218 227	palpation
+T12	Concept_Idea 230 236	aspect
+T13	DISO 242 268	processus lésionnel cutané
+T14	ANAT 292 308	plan sous cutané
+T15	ANAT 323 362	aires ganglionnaires cervicothoraciques
+T16	PROC 367 384	bilan étiologique
+T17	PROC 408 425	tomodensitométrie
+T18	PROC 427 458	TDM) thoraco-abdomino-pelvienne
+T19	ANAT 432 458	thoraco-abdomino-pelvienne
+T20	DISO 479 539	lésion tissulaire lobulée hypoéchogène asymétrique calcifiée
+T21	ANAT 568 607	muscle biceps brachial supérieur droite
+T22	Localization 601 607	droite
+T23	MEAS 617 621	18mm
+T24	Concept_Idea 625 633	diamètre
+T25	Localization 642 658	partie proximale
+T26	DISO 690 726	tuberculose carcinomateuse primitive
+T27	PROC 731 744	sérologie VIH
+T28	MEAS 751 759	positive
+T29	DISO 818 852	maladie sexuellement transmissible
+T30	LIVB 908 910	sa
+T31	LIVB 911 924	belle-famille
+T32	LIVB 928 931	ses
+T33	LIVB 932 950	cousines germaines
+T34	PROC 1030 1052	interactions physiques
+T35	DISO 1071 1089	détresse nervicale
+T36	PHEN 1080 1089	nervicale
+T37	DISO 1115 1127	complication
+T38	DISO 1152 1179	symptomatologie infectieuse
+T39	Concept_Idea 1192 1212	aspect morphologique
+T40	DISO 1229 1265	méningo-encéphalopathie subocclusive
+T41	PROC 1293 1326	cholangiographie axillaire totale
+T42	PROC 1340 1412	scintigraphie cardiopulmonaire transœso-trache segmentaire intraveineuse
+T43	ANAT 1354 1412	cardiopulmonaire transœso-trache segmentaire intraveineuse
+T44	PROC 1482 1523	laparotomie endotrachéale préanesthésique
+T45	DISO 1572 1600	voussure péritonéale dilatée
+T46	MEAS 1610 1615	35 mm
+T47	Concept_Idea 1619 1627	diamètre
+T48	DEVI 1639 1657	tablette aspiratif
+T49	PROC 1680 1694	technique MDRD
+T50	LIVB 1713 1720	malades
+T51	PROC 1725 1752	prélèvement bactériologique
+T52	Concept_Idea 2794 2816	paramètres biologiques
+T53	DISO 2839 2879	anémie hypochrome microcytaire chronique
+T54	MEAS 2882 2890	9,7 g/dl
+T55	MEAS 2897 2914	6 fois la normale
+T56	DISO 2931 2948	hyperferritinémie
+T57	MEAS 2951 2957	5 mg/l
+T58	ANAT 2964 2974	rein droit
+T59	Localization 2969 2974	droit
+T60	Concept_Idea 2987 2993	taille
+T61	MEAS 3004 3008	2 cm
+T62	PROC 3027 3044	bilan étiologique
+T63	PHEN 3050 3068	suites opératoires
+T64	DISO 3082 3099	récidive clinique
+T65	DISO 3103 3131	symptomatologie obstétricale
+T66	DISO 3141 3161	trouble neurologique
+T67	PROC 3175 3199	chimiothérapie adjuvante
+T68	PROC 3230 3258	corticothérapie probabiliste
+T69	Concept_Idea 3271 3286	limites locales
+T70	PROC 3299 3321	remplissage céfotaxime
+T71	CHEM 3311 3321	céfotaxime
+T72	TEMP 3325 3332	3e mois
+T73	MEAS 3364 3368	bien
+T74	Hospital 3390 3398	services
+T75	LIVB 3445 3452	patient
+T76	PROC 3572 3581	accouchée
+T77	MEAS 3628 3635	mauvais
+T78	PROC 3732 3756	prise en charge médicale
+T79	MEAS 3763 3775	particulière
+T80	DISO 3800 3807	maladie
+T81	DISO 3975 4003	infections digestives aiguës
+T82	PROC 4140 4166	examen anatomopathologique
+T83	DISO 4210 4238	syndrome infectieux primitif
+T84	DISO 4333 4363	consanguinité fœtale primitive

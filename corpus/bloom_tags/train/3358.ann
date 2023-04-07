@@ -1,0 +1,43 @@
+T1	LIVB 28 35	patient
+T2	PROC 61 72	hospitalisé
+T3	Hospital 77 85	urgences
+T4	DISO 112 133	détresse respiratoire
+T5	PHEN 121 133	respiratoire
+T6	TEMP 143 157	depuis 3 jours
+T7	PROC 163 182	pression artérielle
+T8	ANAT 172 182	artérielle
+T9	DEVI 187 220	voie d'abord veineuse centralisée
+T10	CHEM 222 232	Sufentanil
+T11	DOSE 234 241	3 µg/kg
+T12	CHEM 248 257	midazolam
+T13	DOSE 258 265	2 mg/m²
+T14	DISO 306 362	adénopathies cervico-thoraciques inférieures bilatérales
+T15	ANAT 319 362	cervico-thoraciques inférieures bilatérales
+T16	Localization 351 362	bilatérales
+T17	MEAS 377 385	brunâtre
+T18	DISO 401 408	trismus
+T19	DISO 421 437	signes cliniques
+T20	DISO 458 480	hypotension artérielle
+T21	ANAT 470 480	artérielle
+T22	PROC 511 566	échographie cardio-vasculo-nerveuse trans-oesophagienne
+T23	ANAT 523 566	cardio-vasculo-nerveuse trans-oesophagienne
+T24	DISO 653 692	pathogénie thromboembolique intestinale
+T25	PROC 695 710	examen clinique
+T26	DISO 737 766	dyspnée stade II de Brackmann
+T27	DISO 768 779	polypnéique
+T28	MEAS 782 795	32 cycles/min
+T29	DISO 811 851	tuméfaction pulmonaire supérieure droite
+T30	ANAT 823 851	pulmonaire supérieure droite
+T31	Localization 845 851	droite
+T32	MEAS 861 865	12cm
+T33	Concept_Idea 869 878	grand axe
+T34	MEAS 918 933	progressivement
+T35	Concept_Idea 937 943	taille
+T36	MEAS 954 958	1 cm
+T37	MEAS 961 965	6 cm
+T38	DISO 1014 1029	râles sifflants
+T39	MEAS 1054 1063	difficile
+T40	DISO 1082 1097	symptomatologie
+T41	MEAS 1187 1203	raphaëno-normale
+T42	DISO 1289 1322	impressionnisme cutanéo-mycosique
+T43	DISO 1382 1411	hyperparathyroïdie secondaire

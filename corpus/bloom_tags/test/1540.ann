@@ -1,0 +1,27 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 71	antécédents pathologiques
+T3	MEAS 72 80	notables
+T4	PROC 82 88	admise
+T5	Hospital 93 101	urgences
+T6	DISO 110 135	traumatisme du sein droit
+T7	ANAT 125 135	sein droit
+T8	Localization 130 135	droit
+T9	PROC 139 154	examen clinique
+T10	PROC 159 168	admission
+T11	LIVB 180 188	patiente
+T12	MEAS 192 195	bon
+T13	Concept_Idea 196 214	état hémodynamique
+T14	PHEN 218 230	respiratoire
+T15	PROC 235 265	bilan biologique préopératoire
+T16	PROC 279 289	leucocytes
+T17	MEAS 292 310	16000 éléments/mm3
+T18	CHEM 312 339	polynucléaires neutrophiles
+T19	PROC 342 357	globules blancs
+T20	MEAS 360 378	12800 éléments/mm3
+T21	PROC 389 414	scanner abdomino périnéal
+T22	ANAT 397 414	abdomino périnéal
+T23	DISO 448 541	volvulus grêlo-épidermique kystique latéro-sigmoïdien laryngoscopico-thoracique hypogastrique
+T25	MEAS 551 555	2 cm
+T26	Concept_Idea 559 568	grand axe
+T27	PROC 596 605	injection
+T29	DISO 665 691	processus tumoral malformé

@@ -1,0 +1,23 @@
+T1	LIVB 28 33	homme
+T2	DISO 50 73	antécédent pathologique
+T3	MEAS 74 81	notable
+T4	PROC 83 88	admis
+T5	Hospital 92 110	service d'urologie
+T6	DISO 120 147	douleur pelvienne chronique
+T7	ANAT 128 137	pelvienne
+T8	TEMP 157 173	depuis deux mois
+T9	DISO 189 208	troubles du transit
+T10	PHEN 201 208	transit
+T11	PROC 212 227	examen clinique
+T12	LIVB 240 247	patient
+T13	Concept_Idea 272 290	plan hémodynamique
+T14	DEVI 294 306	respiratoire
+T15	DISO 327 373	tuméfaction abdomino-pélvienne latérale droite
+T16	ANAT 339 373	abdomino-pélvienne latérale droite
+T17	Localization 367 373	droite
+T18	MEAS 383 386	3cm
+T19	Concept_Idea 390 399	grand axe
+T20	PROC 404 423	bilan préopératoire
+T21	PROC 441 471	échographie abdomino-pelvienne
+T22	ANAT 453 471	abdomino-pelvienne
+T23	DISO 492 598	lésion hypo échogéminée lithiasique congénitale hypertrophiante péripéritonéale bilirigineuse hypokaliinée

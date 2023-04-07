@@ -1,0 +1,38 @@
+T1	LIVB 29 37	patiente
+T2	DISO 71 123	syndrome d'épanchement péritonéal liquidien purulent
+T3	ANAT 94 114	péritonéal liquidien
+T4	TEMP 133 146	depuis 6 mois
+T5	ANAT 160 171	coude droit
+T6	Localization 166 171	droit
+T7	PROC 176 192	bilan biologique
+T8	Concept_Idea 217 241	vitesse de sédimentation
+T9	MEAS 254 260	200 mm
+T10	DISO 276 298	traumatisme ischémique
+T11	PROC 401 431	échographie abdomino pelvienne
+T12	ANAT 413 431	abdomino pelvienne
+T13	DISO 450 458	anomalie
+T14	DISO 471 490	épanchement pelvien
+T15	ANAT 483 490	pelvien
+T16	LIVB 543 551	patiente
+T17	PROC 565 592	numération formule sanguine
+T18	PROC 608 617	admission
+T19	Hospital 622 638	bloc opératoires
+T20	DISO 660 687	syndrome d'immunodépression
+T21	PROC 691 736	scanner thoraco abdomino-pelvien scanno-guidé
+T23	DISO 768 820	épanchement liquidien basithoracique supérieur droit
+T24	ANAT 780 820	liquidien basithoracique supérieur droit
+T25	Localization 815 820	droit
+T26	MEAS 830 835	35 cm
+T27	Concept_Idea 839 848	grand axe
+T28	ANAT 877 899	muscle plexus grêlique
+T29	ANAT 914 933	greffon intestinale
+T30	DISO 976 1010	envahissement vasculo-interstitiel
+T31	ANAT 990 1010	vasculo-interstitiel
+T32	DISO 1016 1053	extension ganglionnaire infiltratrice
+T33	ANAT 1026 1053	ganglionnaire infiltratrice
+T34	DISO 1103 1124	détresse respiratoire
+T35	PHEN 1112 1124	respiratoire
+T36	MEAS 1136 1146	rapidement
+T37	Concept_Idea 1150 1156	taille
+T38	DISO 1177 1210	nodules pulmonaires hypoechogènes
+T39	ANAT 1185 1210	pulmonaires hypoechogènes

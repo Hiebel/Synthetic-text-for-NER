@@ -1,0 +1,68 @@
+T1	LIVB 4 9	femme
+T2	DISO 66 94	tuberculose cutanéo-muqueuse
+T3	ANAT 78 94	cutanéo-muqueuse
+T4	PROC 105 114	retraitée
+T5	CHEM 158 172	Céphalosporine
+T6	CHEM 173 188	Chloramphénicol
+T7	PROC 202 233	anti-inflammatoire plaquettaire
+T8	CHEM 239 250	Cyclosérine
+T9	PROC 255 261	admise
+T10	Hospital 266 291	urgences ophtalmologiques
+T11	DISO 311 332	détresse respiratoire
+T12	PHEN 320 332	respiratoire
+T13	DISO 348 371	hypertension artérielle
+T14	ANAT 361 371	artérielle
+T15	MEAS 382 394	150/100 mmHg
+T16	DEVI 420 439	sonde nasogastrique
+T18	LIVB 517 525	patiente
+T19	DISO 553 573	dyspnée constrictive
+T20	MEAS 588 595	brutale
+T21	DISO 630 659	empyème thoracique thoracique
+T22	ANAT 638 659	thoracique thoracique
+T23	DISO 674 706	atteinte cardio-vasculo-nerveuse
+T24	ANAT 683 706	cardio-vasculo-nerveuse
+T25	DISO 719 742	pathologie neurologique
+T26	DISO 773 787	déshydratation
+T27	PROC 799 805	trajet
+T28	Hospital 815 835	urgences opératoires
+T29	DISO 890 928	thrombus coronarien infarctoletéréduit
+T30	ANAT 899 928	coronarien infarctoletéréduit
+T31	DISO 961 1021	maladie thromboembolique veineuse érythémateuse hémorragique
+T32	DISO 1040 1062	hypotension artérielle
+T33	ANAT 1052 1062	artérielle
+T34	MEAS 1093 1106	insignifiante
+T35	MEAS 1115 1129	indifférenciée
+T36	MEAS 1167 1186	infra-centimétrique
+T37	PROC 1189 1210	enquête préopératoire
+T38	DISO 1237 1275	syndrome d’épanchement intrapéritonéal
+T39	ANAT 1260 1275	intrapéritonéal
+T40	ANAT 1302 1329	grosses cavités abdominales
+T41	MEAS 1341 1356	progressivement
+T42	Concept_Idea 1360 1366	volume
+T43	MEAS 1377 1385	5 litres
+T44	MEAS 1388 1397	20 litres
+T45	ANAT 1418 1437	espaces intestinaux
+T46	ANAT 1680 1687	pelvien
+T47	ANAT 1718 1749	ganglions cervico-vestibulaires
+T48	DISO 1770 1787	kystes hydatiques
+T49	DISO 1828 1837	anomalies
+T50	DISO 1856 1900	adénopathies pulmonaires normo-hypodenseuses
+T51	ANAT 1869 1900	pulmonaires normo-hypodenseuses
+T52	PROC 1907 1943	tomodensitométrie abdomino pelvienne
+T53	ANAT 1925 1943	abdomino pelvienne
+T54	DISO 1956 1998	épanchement centrale du liquide péritonéal
+T55	Localization 1968 1976	centrale
+T56	ANAT 1980 1998	liquide péritonéal
+T57	MEAS 2008 2013	21 cm
+T58	Concept_Idea 2017 2026	grand axe
+T59	DISO 2075 2112	hypertrophie pariétale sus ombilicale
+T60	ANAT 2088 2112	pariétale sus ombilicale
+T61	Localization 2098 2101	sus
+T62	MEAS 2127 2137	hétérogène
+T63	ANAT 2159 2172	paroi utérine
+T64	PROC 2177 2193	bilan biologique
+T65	PHEN 2207 2216	tolérance
+T66	CHEM 2221 2251	anti hypertenseurs tensionnels
+T67	DOSE 2253 2259	1mg/kg
+T68	TEMP 2259 2264	/jour
+T69	MEAS 2303 2312	2,7 meq/l

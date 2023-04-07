@@ -1,0 +1,46 @@
+T1	LIVB 28 35	patient
+T2	PROC 72 102	radiothérapie locale adjuvante
+T3	ANAT 109 130	hypo-thoracique droit
+T4	Localization 125 130	droit
+T5	TEMP 157 159	/j
+T6	Concept_Idea 302 319	état radiologique
+T7	MEAS 329 335	stable
+T8	PROC 356 377	contrôle locorégional
+T9	LIVB 389 397	patiente
+T10	PROC 477 497	traitement palliatif
+T11	Concept_Idea 516 526	durabilité
+T12	PROC 663 667	EPFO
+T13	PROC 682 693	observation
+T14	DISO 853 879	malformations congénitales
+T15	Concept_Idea 921 949	résultats radio-chirurgicaux
+T16	MEAS 969 978	favorable
+T17	Concept_Idea 1049 1068	résultats cliniques
+T18	PROC 1465 1495	tomodensitométrie exploratrice
+T19	PROC 1723 1734	exploration
+T20	PROC 1743 1767	échographie obstétricale
+T21	ANAT 1755 1767	obstétricale
+T22	DISO 1798 1816	hypotrophie fœtale
+T23	ANAT 1810 1816	fœtale
+T24	ANAT 1919 1933	membres fœtaux
+T25	DISO 2008 2029	niveaux hydro-aérique
+T26	DISO 2097 2130	syndrome inflammatoire biologique
+T27	DISO 2137 2158	troubles métaboliques
+T28	DEVI 2250 2262	chirurgicaux
+T29	MEAS 2263 2271	notables
+T30	DISO 2381 2425	méningoencephalopathie hémorragique méningée
+T31	DISO 2496 2531	carcinome neuroendocrine ischémique
+T32	ANAT 2547 2575	parties molles mésentériques
+T33	LIVB 2580 2588	patiente
+T34	PROC 2618 2639	surveillance clinique
+T35	PROC 2654 2671	touchers pelviens
+T36	ANAT 2663 2671	pelviens
+T37	ANAT 2685 2694	péritoine
+T38	PROC 2701 2720	bilan immunologique
+T39	CHEM 2728 2753	anticorps anti-ADN natifs
+T40	MEAS 2779 2786	normaux
+T41	TEMP 2791 2815	4ème jour postopératoire
+T42	LIVB 2820 2828	patiente
+T43	DISO 2862 2870	apyrexie
+T44	DISO 2872 2878	sueurs
+T45	MEAS 2891 2899	8 heures
+T46	DISO 2912 2921	anomalies

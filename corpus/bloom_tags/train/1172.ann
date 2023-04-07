@@ -1,0 +1,59 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	PHEN 33 39	pesant
+T4	MEAS 40 45	70 kg
+T5	MEAS 58 64	170 cm
+T6	Concept_Idea 68 78	profondeur
+T7	MEAS 83 89	102 cm
+T8	Concept_Idea 93 102	grand axe
+T9	DISO 136 159	hypopituitarie primaire
+T10	PROC 209 221	consultation
+T11	Hospital 225 239	néurochirurgie
+T12	PROC 245 276	traitement hormonal substitutif
+T13	CHEM 287 306	hydroxy-vitrétérone
+T14	CHEM 309 323	hydrocortisone
+T15	PROC 330 344	interrogatoire
+T16	DISO 379 392	consanguinité
+T17	DISO 399 419	prise médicamenteuse
+T18	DISO 429 450	comorbidité familiale
+T19	LIVB 466 473	famille
+T20	LIVB 610 619	prématuré
+T21	TEMP 627 633	3 mois
+T22	PROC 644 653	admission
+T23	Hospital 658 679	urgences pédiatriques
+T24	DISO 689 704	symptomatologie
+T25	MEAS 714 728	plus marquante
+T27	MEAS 978 986	brunâtre
+T28	TEMP 996 1009	depuis 6 mois
+T29	DISO 1024 1033	céphalées
+T30	DISO 1065 1081	troubles visuels
+T31	PROC 1175 1178	RFI
+T32	PROC 1181 1212	échographie abdomino- pelvienne
+T33	ANAT 1193 1212	abdomino- pelvienne
+T34	DISO 1383 1420	maladie myxomateuse cutanéo-papuleuse
+T35	PROC 1664 1687	radiothérapie adjuvante
+T36	DOSE 1722 1726	2 mg
+T37	CHEM 1730 1750	produit de contraste
+T38	ANAT 1895 1905	thoracique
+T39	PROC 2029 2074	tomodensitométrie scanno-guidée préopératoire
+T41	MEAS 2273 2277	17cm
+T42	Concept_Idea 2281 2290	grand axe
+T43	ANAT 2308 2321	méso grêlique
+T44	ANAT 2351 2371	péritoine péritonéal
+T45	ANAT 2456 2476	fosse iliaque droite
+T46	Localization 2470 2476	droite
+T47	PROC 2480 2504	exploration chirurgicale
+T48	DISO 2519 2577	épaississement du parenchyme graisseux pituitaire infiltré
+T50	DISO 2599 2653	hypertrophie des ventricules thyroïdiens hypertrophiés
+T51	ANAT 2616 2653	ventricules thyroïdiens hypertrophiés
+T52	DISO 2662 2694	empyème thyroïdien chondromateux
+T53	ANAT 2670 2694	thyroïdien chondromateux
+T54	LIVB 2699 2707	patiente
+T55	PROC 2724 2750	traitement médical curatif
+T56	CHEM 2761 2774	sulfasalazine
+T57	CHEM 2776 2789	dexaméthasone
+T58	CHEM 2791 2809	hydroxychloroquine
+T59	CHEM 2811 2821	furosémide
+T60	CHEM 2823 2841	méthylprednisolone
+T61	PROC 2855 2882	réhydratation intraveineuse
+T62	MODE 2887 2897	voie orale

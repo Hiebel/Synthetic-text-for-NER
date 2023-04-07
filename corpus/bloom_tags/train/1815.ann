@@ -1,0 +1,22 @@
+T1	LIVB 4 9	femme
+T2	DISO 53 100	hypertrophie ventriculaire ischéo-retricuspulée
+T3	ANAT 66 100	ventriculaire ischéo-retricuspulée
+T4	TEMP 121 133	depuis 5 ans
+T5	DISO 158 179	détresse respiratoire
+T6	PHEN 167 179	respiratoire
+T7	MEAS 194 216	rapidement progressive
+T8	DISO 254 292	syndrome d’épanchement intrapéritonéal
+T9	ANAT 277 292	intrapéritonéal
+T10	MEAS 303 308	700ml
+T11	DEVI 311 319	aiguille
+T12	LIVB 349 357	patiente
+T13	DISO 370 393	anomalies pathologiques
+T14	DISO 421 465	insuffisance rénale noradrénaline-dépendante
+T15	ANAT 434 465	rénale noradrénaline-dépendante
+T16	DISO 478 503	localisations nécrasiques
+T17	DISO 547 585	syndrome d'épanchement intrapéritonéal
+T18	ANAT 570 585	intrapéritonéal
+T19	DISO 601 625	volvulus grêlo-splénique
+T20	ANAT 610 625	grêlo-splénique
+T21	PROC 644 671	traitement médical adjuvant
+T22	DOSE 682 687	400mg

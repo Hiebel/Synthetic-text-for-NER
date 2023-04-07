@@ -1,0 +1,43 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 67	particuliers
+T4	PROC 69 74	admis
+T5	Hospital 79 87	urgences
+T6	DISO 96 162	syndrome d'épanchement intrapéricardique du membre inférieur droit
+T8	ANAT 140 162	membre inférieur droit
+T9	Localization 157 162	droit
+T10	PROC 166 181	examen clinique
+T11	PROC 186 195	admission
+T12	DISO 216 249	lésions prurigineuses purpuriques
+T13	ANAT 262 269	poignet
+T14	PHEN 277 290	signes vitaux
+T15	MEAS 299 306	normaux
+T16	PROC 322 338	examen somatique
+T17	DISO 361 400	atteinte dermatomuculeuse inflammatoire
+T18	CHEM 402 416	dermo-muculeux
+T19	PROC 422 438	bilan biologique
+T20	PROC 475 505	échographie abdomino-pelvienne
+T21	ANAT 487 505	abdomino-pelvienne
+T22	DISO 594 600	lésion
+T23	TEMP 610 631	depuis plusieurs mois
+T24	Concept_Idea 667 679	état général
+T25	DISO 695 701	fièvre
+T26	MEAS 713 718	39°6C
+T27	DISO 735 752	polynucléolyténie
+T28	MEAS 763 782	15000 éléments /mm3
+T29	DISO 798 814	hyperleucocytose
+T30	MEAS 817 855	14 000 élément blancs/ millimètre cube
+T31	LIVB 892 900	patiente
+T32	DISO 905 943	méningoencephalopathie maligne diffuse
+T33	DISO 949 962	paragangliome
+T34	DISO 973 1002	pathologies neurovésiculaires
+T35	PROC 1103 1139	ponction ganglionnaire transfixiante
+T36	ANAT 1112 1139	ganglionnaire transfixiante
+T37	PROC 1192 1217	chimiothérapie palliative
+T38	CHEM 1228 1241	dexaméthasone
+T40	TEMP 1252 1268	pendant 10 jours
+T41	MODE 1274 1284	voie orale
+T42	DOSE 1286 1291	10 mg
+T43	TEMP 1292 1311	toutes les 2 heures
+T44	PROC 1335 1366	radiothérapie externe adjuvante
+T45	Concept_Idea 1499 1509	caractères

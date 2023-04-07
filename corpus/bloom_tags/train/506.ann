@@ -1,0 +1,37 @@
+T1	LIVB 5 8	M.G
+T2	TEMP 17 23	16 ans
+T3	DISO 43 79	lésions érythémateuses prurigineuses
+T4	TEMP 89 102	depuis 6 mois
+T5	DISO 118 124	fièvre
+T6	DISO 137 166	perceptions sensitivomotrices
+T7	LIVB 188 196	patiente
+T8	DISO 231 251	hémorragie digestive
+T9	ANAT 242 251	digestive
+T10	DISO 261 289	symptomatologie neurologique
+T11	DISO 316 332	troubles visuels
+T12	PROC 349 366	bilan étiologique
+T13	PROC 369 384	examen clinique
+T14	LIVB 398 406	patiente
+T15	Concept_Idea 432 450	plan hémodynamique
+T16	DISO 456 467	polypnéique
+T17	MEAS 470 483	36 cycles/min
+T18	PHEN 488 507	pression artérielle
+T19	ANAT 497 507	artérielle
+T20	MEAS 516 528	130/120 mmHg
+T21	DISO 551 572	détresse respiratoire
+T22	PHEN 560 572	respiratoire
+T23	PROC 586 616	auscultation pleuro-pulmonaire
+T24	ANAT 599 616	pleuro-pulmonaire
+T25	MEAS 619 632	32 cycles/min
+T26	DEVI 646 667	bandelette thoracique
+T27	ANAT 657 667	thoracique
+T28	MEAS 682 707	difficilement appréciable
+T29	DISO 769 790	méningo-plasmomalites
+T30	PROC 806 838	examen obstétrical gynécologique
+T31	DISO 855 883	matité utérine hypo échogène
+T32	MEAS 893 898	20 cm
+T33	Concept_Idea 902 911	grand axe
+T34	ANAT 942 951	membranes
+T35	DISO 997 1029	placenta hypertrophié congénital
+T36	DISO 1047 1073	myometrorragie hypotonique
+T37	Localization 1084 1094	bilatérale

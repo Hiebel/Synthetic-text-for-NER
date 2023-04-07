@@ -1,0 +1,41 @@
+T1	LIVB 14 21	Mme Z.M
+T2	MEAS 56 57	3
+T3	LIVB 58 65	enfants
+T4	LIVB 132 136	Elle
+T5	LIVB 153 161	ouvrière
+T6	LIVB 210 213	son
+T7	LIVB 214 218	père
+T8	LIVB 240 242	Sa
+T9	LIVB 243 250	famille
+T10	LIVB 283 302	parents consanguins
+T11	LIVB 362 387	Ses demi-frères maternels
+T12	TEMP 477 483	16 ans
+T13	TEMP 487 493	14 ans
+T14	LIVB 503 506	Son
+T15	PROC 546 581	transfusions médicalement assistées
+T16	PROC 627 651	consultations prénatales
+T17	LIVB 970 977	adultes
+T19	LIVB 1178 1199	familles consanguines
+T20	PHEN 1229 1238	grossesse
+T21	Concept_Idea 1296 1313	usage obstétrical
+T22	ANAT 1318 1330	conjonctives
+T23	DEVI 1396 1412	table chauffante
+T24	DEVI 1422 1438	plancher ventilé
+T25	CHEM 1440 1458	enrobage aspiratif
+T26	LIVB 1493 1500	garçons
+T27	LIVB 1535 1537	on
+T28	LIVB 1582 1588	malade
+T29	LIVB 1615 1619	elle
+T30	PROC 1626 1632	opérée
+T31	DISO 1672 1718	contage tuberculeux gestationistico-péritonéal
+T32	DISO 1735 1762	cas familiaux pathologiques
+T33	PROC 1928 1938	diagnostic
+T34	PROC 1943 1969	examen anatomopathologique
+T35	DISO 2013 2028	lésion kystique
+T36	PROC 2034 2055	bilan préanesthésique
+T37	PROC 2070 2094	échographie diagnostique
+T38	PROC 2108 2135	scintigraphie réactionnelle
+T39	LIVB 2252 2260	patients
+T40	LIVB 2287 2294	Patient
+T41	MEAS 2352 2353	6
+T42	LIVB 2354 2361	enfants

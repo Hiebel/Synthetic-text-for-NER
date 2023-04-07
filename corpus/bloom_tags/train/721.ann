@@ -1,0 +1,52 @@
+T1	LIVB 20 28	patiente
+T2	PROC 45 51	admise
+T3	Hospital 55 62	urgence
+T4	DISO 81 93	hyperthermie
+T5	MEAS 96 102	38,8°C
+T6	Concept_Idea 110 128	tension artérielle
+T7	ANAT 118 128	artérielle
+T8	MEAS 131 142	120/70 mmhg
+T9	PROC 146 179	auscultation cardio-ventriculaire
+T10	ANAT 159 179	cardio-ventriculaire
+T11	PHEN 196 201	râles
+T12	MEAS 202 211	brunâtres
+T13	DISO 224 244	signes respiratoires
+T14	DISO 271 306	syndrome d'épanchement péribucellal
+T15	ANAT 294 306	péribucellal
+T16	PROC 310 325	examen clinique
+T17	LIVB 343 351	patiente
+T18	Concept_Idea 367 387	chiffres tensionnels
+T19	CHEM 393 408	normétanéphrine
+T20	DOSE 410 416	1mg/kg
+T21	TEMP 416 418	/j
+T22	CHEM 421 434	bêtaméthasone
+T23	DOSE 436 446	0,5 mg /kg
+T24	TEMP 446 448	/j
+T25	CHEM 451 463	progestérone
+T26	DOSE 465 473	20 µg/m²
+T27	TEMP 473 475	/j
+T28	CHEM 478 492	hydrocortisone
+T29	DOSE 494 502	15 mg/kg
+T30	TEMP 502 504	/j
+T31	CHEM 507 520	noradrenaline
+T33	TEMP 532 534	/j
+T34	CHEM 537 550	dexaméthasone
+T35	DOSE 552 560	40 ng/mL
+T36	TEMP 560 562	/j
+T37	CHEM 565 585	ethylhydroxybutyrate
+T38	DOSE 587 596	3 mmol/kg
+T39	TEMP 596 598	/j
+T40	CHEM 601 627	triamcinolone progestative
+T41	DOSE 629 639	2 g per kg
+T42	TEMP 639 641	/j
+T43	CHEM 644 655	méthoxifène
+T44	DOSE 657 666	10 μg /m²
+T45	TEMP 666 668	/j
+T46	CHEM 671 707	inhibiteur de l'enzyme de conversion
+T47	CHEM 709 712	IEC
+T48	MODE 714 727	intra-veineux
+T49	PROC 733 749	bilan biologique
+T50	PROC 766 792	taux d'hémoglobine glyquée
+T51	MEAS 795 800	12,2%
+T52	PROC 814 824	diagnostic
+T53	PROC 838 865	numération formule sanguine

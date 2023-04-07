@@ -1,0 +1,32 @@
+T1	LIVB 29 34	femme
+T2	Concept_Idea 67 73	aspect
+T3	DISO 79 148	syndrome d'épanchement péricardique basithoracique liquidien purulent
+T5	DISO 164 189	broncho-pneumo-dilatation
+T6	DISO 206 218	cholécystite
+T7	TEMP 228 241	depuis 3 mois
+T8	DISO 260 274	amaigrissement
+T9	DISO 288 312	sensibilité épigastrique
+T10	ANAT 300 312	épigastrique
+T11	DISO 324 344	déficit neurologique
+T12	DISO 373 403	hyperparathyroïdie congénitale
+T13	PROC 425 435	diagnostic
+T14	DISO 442 474	polyradiculonévrite hypertensive
+T15	ANAT 547 555	épiploon
+T16	LIVB 575 583	patiente
+T17	ANAT 712 720	utérines
+T18	PROC 782 800	traitement curatif
+T19	CHEM 901 911	sufentanil
+T20	DOSE 912 919	1 μg/kg
+T21	TEMP 919 927	/semaine
+T22	PROC 932 952	examen gynécologique
+T23	DISO 977 999	masse nodule hypodense
+T24	MEAS 1011 1026	progressivement
+T25	Concept_Idea 1030 1036	volume
+T26	MEAS 1046 1050	7 cm
+T27	Concept_Idea 1054 1063	grand axe
+T28	ANAT 1087 1097	col utérin
+T29	DISO 1111 1132	sténose rétrovésicale
+T30	ANAT 1119 1132	rétrovésicale
+T31	MEAS 1141 1150	difficile
+T32	DISO 1182 1196	nodule tumoral
+T33	Concept_Idea 1209 1220	consistance

@@ -1,0 +1,33 @@
+T1	LIVB 3 15	jeune garçon
+T2	TEMP 23 31	21 jours
+T3	LIVB 86 98	petite fille
+T4	TEMP 107 118	18 semaines
+T5	LIVB 250 263	éleveur local
+T6	LIVB 694 701	malades
+T7	LIVB 716 724	patiente
+T8	Concept_Idea 749 769	antécédents médicaux
+T9	DISO 790 821	chirurgie pédiatrique familiale
+T10	PHEN 864 886	grossesses gémellaires
+T11	TEMP 897 902	3mois
+T12	TEMP 905 912	23 mois
+T13	ANAT 972 982	pelviennes
+T14	CHEM 1020 1053	amoxicilline acide hypercalorique
+T15	DOSE 1054 1061	0,25 mg
+T16	TEMP 1061 1063	/j
+T17	DISO 1106 1120	déficit moteur
+T18	Concept_Idea 1135 1158	état neuropsychiatrique
+T19	PROC 1210 1230	transfusion sanguine
+T20	LIVB 1326 1330	elle
+T21	PROC 1527 1568	corticothérapie intraveineuse parentérale
+T22	MODE 1574 1605	antibioprophylaxie probabiliste
+T23	Concept_Idea 1844 1856	état général
+T24	PROC 1888 1906	bilan radiologique
+T25	DISO 1941 1957	hyperleucocytose
+T26	MEAS 1968 1989	22 000 éléments /mm 3
+T27	DISO 2010 2053	neuropathie sensitivo-motrice inflammatoire
+T28	Concept_Idea 2073 2091	constantes vitales
+T29	MEAS 2151 2171	1550 grammes environ
+T30	MEAS 2266 2286	132 centimètres cube
+T31	MEAS 2290 2311	98 millimètres carrés
+T32	PROC 2316 2330	TDM thoracique
+T33	ANAT 2320 2330	thoracique

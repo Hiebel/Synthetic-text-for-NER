@@ -1,0 +1,10 @@
+T1	PROC 4 23	étude rétrospective
+T2	Concept_Idea 55 61	taille
+T3	DISO 80 90	métastases
+T4	ANAT 94 104	rein droit
+T5	Localization 99 104	droit
+T6	MEAS 137 144	simples
+T7	LIVB 149 156	patient
+T8	PROC 163 168	sorti
+T9	TEMP 172 201	troisième jour postopératoire
+T10	TEMP 220 228	six mois

@@ -1,0 +1,41 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	DISO 65 98	insuffisance rénale érythémateuse
+T4	ANAT 78 98	rénale érythémateuse
+T5	TEMP 108 121	depuis 2 mois
+T6	PROC 126 145	bilan préopératoire
+T7	PROC 163 166	CRP
+T8	MEAS 169 177	100 mg/l
+T9	PROC 179 198	protéine C réactive
+T10	PROC 200 203	CRP
+T11	MEAS 207 215	160 mg/l
+T12	PROC 217 232	globules blancs
+T13	MEAS 235 254	26000 éléments /mm³
+T14	PROC 257 284	numération formule sanguine
+T15	PROC 287 295	natrémie
+T16	MEAS 297 307	120 meq/kg
+T17	PROC 309 317	kaliémie
+T18	MEAS 319 327	2 meq/kg
+T19	PROC 331 356	intervention chirurgicale
+T20	PROC 375 393	curage surrénalien
+T21	ANAT 382 393	surrénalien
+T23	ANAT 419 437	cæto-surrénalienne
+T24	PROC 461 491	abord thoraco-abdomino-pelvien
+T25	ANAT 467 491	thoraco-abdomino-pelvien
+T26	PROC 504 527	examens complémentaires
+T27	DISO 554 587	syndrome inflammatoire biologique
+T28	DISO 600 629	symptômes clinico-biologiques
+T29	DISO 714 729	masse nodulaire
+T30	MEAS 741 756	progressivement
+T31	Concept_Idea 760 766	volume
+T32	MEAS 776 779	5cm
+T33	MEAS 784 796	environ 5 cm
+T34	ANAT 825 865	intrapéritonéal liquidien basithoracique
+T35	LIVB 956 966	nouveau-né
+T36	DISO 974 996	atteinte extra-utérine
+T37	ANAT 983 996	extra-utérine
+T38	DISO 1039 1052	paragangliome
+T39	DEVI 1075 1105	stimulateur ovarien artificiel
+T40	ANAT 1087 1094	ovarien
+T41	Hospital 1182 1190	urgences
+T43	Localization 1293 1299	effets

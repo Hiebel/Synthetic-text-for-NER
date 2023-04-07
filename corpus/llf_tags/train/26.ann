@@ -1,0 +1,53 @@
+T1	LIVB 19 29	nourrisson
+T2	TEMP 37 44	24 mois
+T3	DISO 112 118	fièvre
+T4	TEMP 128 144	depuis 24 heures
+T5	Concept_Idea 208 225	état nutritionnel
+T6	PROC 272 277	admis
+T7	Hospital 282 317	urgences chirurgicales pédiatriques
+T8	PROC 346 370	échographie obstétricale
+T9	MEAS 438 443	20 cm
+T10	LIVB 455 460	femme
+T11	DISO 549 570	contractions utérines
+T12	ANAT 562 570	utérines
+T13	ANAT 632 647	intrapéritonéal
+T14	ANAT 674 690	flanc postérieur
+T15	Localization 680 690	postérieur
+T16	DISO 729 755	plages érythémato pelviens
+T17	PROC 780 802	consultation prénatale
+T18	PROC 893 913	examen gynécologique
+T19	Concept_Idea 1115 1139	état hémodynamique fœtal
+T20	MEAS 1145 1151	strict
+T21	PROC 1168 1204	néphrectomie percutanée exploratrice
+T22	PROC 1218 1272	antibioprophylaxie intraveineuse per os cruro-vaginale
+T23	PROC 1282 1296	technique MDRD
+T24	PROC 1334 1427	laparotomie exploratrice intrathoracique laryngénectomie transoesogastroduodénale fractionnée
+T26	DISO 1722 1736	AVC ischémique
+T27	DISO 1764 1791	perforation périnéale aiguë
+T28	TEMP 1802 1807	32 SA
+T30	PROC 1874 1966	extubation trachéostomie rétrograde segmentaire distale enchâssée OUITERFEMBULATIC DIALLODM®
+T31	PROC 1975 1992	bilan étiologique
+T32	DISO 2012 2025	particularité
+T33	DISO 2052 2084	déficit sensitivomoteur néonatal
+T34	PROC 2101 2140	contrôles neuropsychiatriques intensifs
+T35	MEAS 2193 2206	spectaculaire
+T36	MEAS 2478 2488	favorables
+T37	PROC 2494 2516	traitement substitutif
+T38	CHEM 2530 2568	amoxicilline acétyl-acide clavulanique
+T39	CHEM 2571 2583	midazolamide
+T40	CHEM 2596 2616	corticoïde citronnel
+T41	CHEM 2619 2631	pyrazinamide
+T42	LIVB 2855 2865	nouveau-né
+T43	PROC 2872 2881	transfusé
+T44	Hospital 2891 2910	maternité familiale
+T45	TEMP 2917 2922	17h45
+T46	TEMP 2926 2931	18h50
+T47	PROC 2960 2996	ventilation artificielle médicalisée
+T48	PROC 3030 3072	oxygénothérapie parentérale complémentaire
+T49	PROC 3078 3111	tomodensitométrie scannographique
+T50	DISO 3138 3158	syndrome cérébelleux
+T51	DISO 3165 3207	trouble cognitivo-comportemental compulsif
+T52	PHEN 3326 3360	récupération fonctionnelle motrice
+T53	DISO 3466 3495	reprise pondérale douloureuse
+T54	PROC 3520 3544	geste anesthésique local
+T57	CHEM 3711 3725	hydrocortisone

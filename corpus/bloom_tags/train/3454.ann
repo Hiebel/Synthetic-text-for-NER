@@ -1,0 +1,30 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 79 83	reçu
+T5	Hospital 88 96	urgences
+T6	DISO 116 160	syndrome d'épanchement péricardique purulent
+T7	ANAT 139 151	péricardique
+T8	PROC 164 178	interrogatoire
+T9	DISO 205 260	adénopathies cervico-thoraciques latéro-sternale droite
+T10	ANAT 218 260	cervico-thoraciques latéro-sternale droite
+T11	Localization 254 260	droite
+T12	TEMP 283 296	depuis 4 mois
+T13	MEAS 311 326	progressivement
+T14	Concept_Idea 330 336	volume
+T15	PROC 340 371	échographie abdomino- pelvienne
+T16	ANAT 352 371	abdomino- pelvienne
+T17	DISO 399 475	lésion tissulaire hypo échogéminée des parties molles basithoraciques gauche
+T18	ANAT 438 475	parties molles basithoraciques gauche
+T19	Localization 469 475	gauche
+T20	MEAS 484 489	12 cm
+T21	ANAT 503 520	flanc homolatéral
+T22	Localization 509 520	homolatéral
+T23	MEAS 530 533	4cm
+T24	Concept_Idea 537 546	grand axe
+T25	ANAT 562 607	parenchyme pariéto-métastatique périgastrique
+T26	ANAT 631 660	surrénaux grêlo-interstitiels
+T27	ANAT 675 721	hémi-lambeau sus hyoïdiartériomateux gastrique
+T28	PROC 810 854	tomodensitométrie thoraco-abdomino-pelvienne
+T29	ANAT 828 854	thoraco-abdomino-pelvienne
+T30	PROC 885 897	diagnostique

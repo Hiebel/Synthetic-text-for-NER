@@ -1,0 +1,28 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	9 ans
+T3	MEAS 50 62	particuliers
+T4	Hospital 85 106	urgences pédiatriques
+T5	DISO 126 147	détresse respiratoire
+T6	PHEN 135 147	respiratoire
+T7	TEMP 157 170	depuis 2 mois
+T8	DISO 186 211	polyarthrite prurigineuse
+T9	DISO 221 234	inflammatoire
+T10	MEAS 249 260	progressive
+T11	DISO 276 282	fièvre
+T12	MEAS 294 299	38°4C
+T13	DISO 301 318	dyspnée sifflante
+T14	DISO 355 388	instabilité psychomotrice globale
+T15	DISO 471 495	symptômes inflammatoires
+T16	DISO 498 519	trophoblaste syndrome
+T17	DISO 522 546	déséquilibre métabolique
+T18	DISO 550 571	anomalies électriques
+T19	DISO 589 619	syndrome d'épanchement pleural
+T20	ANAT 612 619	pleural
+T21	DISO 629 652	atteinte intracrânienne
+T22	ANAT 638 652	intracrânienne
+T23	LIVB 670 672	il
+T24	DISO 708 719	pathologies
+T25	LIVB 732 739	famille
+T26	PROC 776 800	examen somatique initial
+T27	LIVB 810 817	enfants
+T28	DISO 863 889	malformations congénitales

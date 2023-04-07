@@ -1,0 +1,33 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 79 89	consultait
+T5	Hospital 94 102	urgences
+T6	DISO 112 139	douleurs abdominales aiguës
+T7	ANAT 121 132	abdominales
+T8	DISO 156 163	dyspnée
+T9	DISO 173 186	inflammatoire
+T10	TEMP 196 213	depuis deux jours
+T11	PROC 217 232	examen clinique
+T12	LIVB 245 252	patient
+T13	MEAS 256 265	assez bon
+T14	Concept_Idea 266 278	état général
+T15	PHEN 283 294	sensibilité
+T16	MEAS 301 308	modérée
+T17	ANAT 322 333	flanc droit
+T18	Localization 328 333	droit
+T19	PROC 358 374	examen somatique
+T20	DISO 386 399	particularité
+T21	PROC 404 432	tomodensitométrie thoracique
+T22	ANAT 422 432	thoracique
+T26	DISO 648 771	hernie parenchymateuse lobaire pariéto-épicavitaire hyo-cérébrale inféro-rachidienne périventriculaire lithiasique kystique
+T28	ANAT 786 806	ventricule supérieur
+T29	Localization 797 806	supérieur
+T30	MEAS 819 823	12mm
+T31	Concept_Idea 827 836	grand axe
+T32	MEAS 841 845	14mm
+T33	Concept_Idea 849 858	petit axe
+T34	PROC 863 888	chimiothérapie palliative
+T35	CHEM 890 900	cisplatine
+T36	CHEM 903 916	bêtaméthasone
+T37	DOSE 918 928	400 mg/m 2

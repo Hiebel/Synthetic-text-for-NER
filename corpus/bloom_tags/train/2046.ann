@@ -1,0 +1,15 @@
+T1	DISO 33 48	symptomatologie
+T2	DISO 61 77	signes cliniques
+T3	LIVB 88 92	elle
+T4	DISO 122 131	symptômes
+T5	PHEN 164 184	récupération motrice
+T6	Concept_Idea 235 253	état hémodynamique
+T7	PROC 297 341	traitement anti-inflammatoire non stéroïdien
+T8	CHEM 308 341	anti-inflammatoire non stéroïdien
+T9	CHEM 331 341	stéroïdien
+T10	CHEM 347 378	amoxicilline-acide clavulanique
+T11	DISO 444 459	symptomatologie
+T12	DISO 544 564	prise médicamenteuse
+T13	DISO 571 590	traumatisme fébrile
+T14	PROC 640 654	interrogatoire
+T15	MEAS 708 719	négligeable

@@ -1,0 +1,87 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 71	antécédents pathologiques
+T3	MEAS 72 84	particuliers
+T4	PROC 95 107	hospitalisée
+T5	DISO 117 138	masse du cuir chevelu
+T6	ANAT 126 138	cuir chevelu
+T7	TEMP 148 168	depuis deux semaines
+T8	PROC 172 187	examen clinique
+T9	DISO 209 217	anomalie
+T10	PROC 224 241	tomodensitométrie
+T11	DISO 263 331	processus lésionnel des quadrants cervicaux pariéto-occipitaux droit
+T12	ANAT 287 331	quadrants cervicaux pariéto-occipitaux droit
+T13	Localization 326 331	droit
+T14	Concept_Idea 340 361	rapport signal/bruits
+T15	MEAS 364 369	40 Hz
+T16	PROC 374 391	biologie standard
+T17	PROC 393 411	ionogramme sanguin
+T18	ANAT 404 411	sanguin
+T19	PROC 413 434	bilan phosphocalcique
+T20	PROC 436 455	hémoglobine glyquée
+T21	PROC 457 484	numération formule sanguine
+T22	MEAS 498 504	normal
+T23	PROC 518 537	bilan immunologique
+T24	PROC 550 569	IgG anti cytoplasme
+T25	PROC 577 592	anti DNA natifs
+T26	PROC 598 646	néphrectomie totale par lambeau cutanéopératoire
+T27	PROC 681 706	étude anatomopathologique
+T28	DISO 726 751	récidive tumorale maligne
+T29	DISO 768 832	lésion tissulaire bourgeonnante achromique kystique métastatique
+T30	ANAT 851 890	paroi postéro-latéro-supérieure utérine
+T31	MEAS 900 905	14 cm
+T32	Localization 913 938	partie distale supérieure
+T33	ANAT 955 970	sein postérieur
+T34	Localization 960 970	postérieur
+T35	ANAT 987 1017	surface crico-abdomino-externe
+T36	ANAT 1035 1058	troncs supra-hépatiques
+T37	ANAT 1082 1113	pédicule inferieur sus pubienne
+T38	ANAT 1146 1161	anses grêliques
+T39	DEVI 1173 1198	matériel intra péritonéal
+T40	MEAS 1231 1238	simples
+T41	PROC 1244 1263	anesthésie générale
+T42	PROC 1277 1302	chimiothérapie palliative
+T43	CHEM 1308 1339	amoxicilline acide clavulanique
+T44	CHEM 1342 1354	doxorubicine
+T45	CHEM 1357 1385	fentanyl acétyle thiazidique
+T46	DOSE 1391 1397	450 mg
+T47	TEMP 1397 1399	/j
+T48	PROC 1430 1439	induction
+T49	PROC 1452 1477	oxygénothérapie adjuvante
+T50	PROC 1493 1541	transfusion hydrosolarythrogestérone parentérale
+T51	PHEN 1590 1611	grossesse monofoetale
+T52	PROC 1616 1622	suivie
+T53	TEMP 1634 1645	quatre mois
+T54	PROC 1650 1667	geste chirurgical
+T55	DISO 1692 1725	tumeur carcinomateuse infiltrante
+T56	ANAT 1747 1798	structures maxillo-mandibulaires jugulo-symétriques
+T57	Concept_Idea 2797 2806	résultats
+T58	PROC 2830 2857	études anatomopathologiques
+T59	PROC 2861 2881	immunohistochimiques
+T60	MEAS 2897 2904	mauvais
+T61	Concept_Idea 2905 2922	processus tumoral
+T62	ANAT 2926 2936	rein droit
+T63	Localization 2931 2936	droit
+T64	ANAT 2958 2969	rein gauche
+T65	Localization 2963 2969	gauche
+T66	ANAT 3005 3009	peau
+T67	ANAT 3024 3049	parties molles cervicales
+T68	DISO 3098 3168	adénocarcinome lobulaire malpighien métaplasmidoblastique hypertrophié
+T69	DISO 3178 3216	nécrose caséeuse kystique périostéoide
+T70	PROC 3221 3253	traitement palliatif substitutif
+T71	PROC 3286 3313	chimiothérapie concomitante
+T72	LIVB 3358 3367	patientes
+T73	PROC 3397 3424	radiothérapie néo adjuvante
+T74	PROC 3448 3473	néphrectomie exploratrice
+T75	PROC 3520 3585	thyroïdectomie totale intrasinusienne percutanée sous cœlioscopie
+T76	PROC 3595 3613	séjour hospitalier
+T77	MEAS 3645 3652	simples
+T78	DISO 3659 3680	récidive pathologique
+T79	PROC 3687 3729	consultation ophtalmologique préopératoire
+T80	PROC 3772 3792	reprise chirurgicale
+T81	Concept_Idea 3817 3839	particularité clinique
+T82	Concept_Idea 3854 3876	caractère radiologique
+T83	ANAT 3897 3920	sillon supérieur utérin
+T84	ANAT 3940 3955	doigts pelviens
+T85	ANAT 3969 4076	aires ganglionnaires palpébraux distales antero-kystiques suprapectorielles postéro-latérales sus pubiennes
+T86	PROC 4109 4136	analyse immunohistochimique
+T87	LIVB 4158 4167	patientes

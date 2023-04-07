@@ -1,0 +1,79 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 33 38	2 ans
+T3	DEVI 113 131	tableau tissulaire
+T4	LIVB 144 146	sa
+T5	LIVB 147 151	mère
+T6	CHEM 168 182	neuroleptiques
+T7	DOSE 184 186	1g
+T8	TEMP 186 191	/jour
+T9	MEAS 236 248	particuliers
+T10	PROC 462 486	échographie obstétricale
+T11	Hospital 500 521	urgences pédiatriques
+T12	MEAS 566 571	15 cm
+T13	Concept_Idea 575 582	largeur
+T14	MEAS 587 592	18 cm
+T15	Concept_Idea 596 605	grand axe
+T16	Localization 619 636	partie inférieure
+T17	MEAS 644 648	5 cm
+T18	Concept_Idea 652 661	petit axe
+T19	PROC 665 690	étude anatomopathologique
+T20	DISO 706 773	tissu conjonctif carcinomateux périostéoblastique hétéroaryténoïdal
+T21	DISO 847 882	foyers lésionnels hyperchromatiques
+T22	ANAT 901 936	paroi postéro-latérale sus pubienne
+T23	MEAS 961 965	50cm
+T24	MEAS 969 973	40mm
+T25	Concept_Idea 977 985	longueur
+T26	Concept_Idea 1296 1326	caractéristiques histologiques
+T27	PROC 1331 1356	surveillance radiologique
+T28	PROC 1373 1388	examen clinique
+T29	DISO 1423 1445	lésions kératinophiles
+T30	DISO 1469 1496	polynucléaires mucoliformes
+T31	ANAT 1518 1554	parties molles cervico-phalangiennes
+T32	DISO 1576 1614	remaniements polyploïdiens hydrophobes
+T33	ANAT 1643 1664	tronc spléno-aortique
+T34	DISO 1704 1726	nécrose granulomateuse
+T35	DISO 1733 1770	niveaux hydrothyroidiens vascularisée
+T36	DISO 1785 1803	métastase ostéoïde
+T37	DISO 1842 1877	symptomatologie familiale malformée
+T38	LIVB 2034 2041	Mme B.M
+T39	MEAS 2065 2066	3
+T40	LIVB 2067 2074	garçons
+T41	PROC 2091 2133	mariage consanguin consanguin traditionnel
+T42	TEMP 2141 2147	19 ans
+T43	TEMP 2189 2193	6ans
+T44	LIVB 2217 2220	son
+T45	LIVB 2221 2225	père
+T46	LIVB 2323 2325	Sa
+T47	LIVB 2326 2331	fille
+T48	DISO 2380 2416	accident vasculaire abdomino-pelvien
+T49	ANAT 2400 2416	abdomino-pelvien
+T50	DISO 2483 2514	consanguinité élective primaire
+T51	DISO 2588 2605	maladie du bassin
+T52	ANAT 2599 2605	bassin
+T53	DISO 2668 2694	signes neuropsychiatriques
+T54	LIVB 2796 2804	patiente
+T55	PROC 2836 2860	échographie obstétricale
+T56	PROC 2911 2935	dérivation intraveineuse
+T57	DEVI 2941 2957	cathéter fémoral
+T58	ANAT 2980 2999	annexes thoraciques
+T59	MEAS 3024 3032	14/10 cm
+T60	MEAS 3036 3044	15/10 cm
+T61	Concept_Idea 3075 3108	profil médico-chimiothérapeutique
+T62	PHEN 3125 3143	suites opératoires
+T63	PROC 3149 3159	opératoire
+T64	MEAS 3168 3178	favorables
+T65	TEMP 3188 3211	post opératoire général
+T66	PROC 3193 3211	opératoire général
+T67	DISO 3369 3389	récidive traumatique
+T68	DISO 3455 3478	contracture anévrismale
+T69	DISO 3529 3558	complication thromboembolique
+T70	DISO 3564 3608	décollement compressif tissulaire péritonéal
+T71	DISO 3623 3640	fistule cervicale
+T72	ANAT 3631 3640	cervicale
+T73	DISO 3657 3677	hémothorax hypodense
+T74	ANAT 3696 3720	paroi digestive fundique
+T75	PROC 3735 3768	scanner oeso-gastro-entéro-septal
+T76	ANAT 3743 3768	oeso-gastro-entéro-septal
+T78	MEAS 3937 3952	progressivement
+T79	Concept_Idea 3956 3966	profondeur
+T80	DISO 3992 4040	épanchement liquidien spinal superficiel nécrosé

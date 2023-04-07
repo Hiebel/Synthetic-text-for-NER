@@ -1,0 +1,88 @@
+T1	LIVB 16 26	femme âgée
+T2	DISO 65 77	cholécystite
+T3	TEMP 78 91	il y a 10 ans
+T4	PROC 96 118	radiographie du thorax
+T5	ANAT 112 118	thorax
+T6	DISO 138 180	processus tissulaire érythémato-cristallin
+T7	MEAS 195 196	2
+T8	ANAT 197 213	sinus piriformes
+T9	DISO 219 232	calcification
+T10	DISO 236 248	adénomégalie
+T11	PROC 262 278	bilan biologique
+T12	MEAS 285 291	normal
+T13	PROC 305 308	CRP
+T14	MEAS 311 318	22 mg/l
+T15	Concept_Idea 320 326	valeur
+T16	MEAS 327 352	1,58 gramme par décilitre
+T17	PROC 357 381	échographie obstétricale
+T18	PROC 408 434	examen anatomopathologique
+T19	DISO 454 498	léiomyome épithélioïde malpighien infiltrant
+T20	Localization 518 522	deux
+T21	ANAT 523 542	segments inferieurs
+T22	ANAT 561 571	lit caudal
+T23	PROC 577 616	tumorectomie exploratrice scanno-guidée
+T24	PROC 628 643	rachianesthésie
+T25	PROC 657 699	toilette abdomino-pelvienne pré opératoire
+T26	ANAT 666 771	abdomino-pelvienne pré opératoire ont permis de mettre en évidence les zones ganglionnaires mésentériques
+T27	PHEN 737 771	zones ganglionnaires mésentériques
+T28	DISO 795 816	récidive métastatique
+T29	PROC 848 873	transfusion intraveineuse
+T30	MEAS 950 957	simples
+T31	PROC 998 1045	hystérectomie totale élargie multidisciplinaire
+T32	PROC 1069 1107	exérèse mono ou tripariétoendovaginale
+T33	ANAT 1126 1151	colon transverse fundique
+T34	MEAS 1172 1179	12x6 cm
+T35	ANAT 1220 1236	annexes rectales
+T36	ANAT 1261 1286	retentissement péritonéal
+T37	PROC 1291 1326	traitement chirurgical conservateur
+T38	PROC 1332 1398	mastectomie percutanée rélationnelle endovasculaire controlatérale
+T39	PROC 1413 1449	oxygénothérapie palliative adjuvante
+T40	PROC 1462 1505	antibioprophylaxie antibiotique parentérale
+T41	PROC 1527 1539	intervention
+T42	PROC 1545 1562	Tomodensitométrie
+T43	PROC 1563 1589	TDM) hépatocytoplasmatique
+T44	ANAT 1568 1589	hépatocytoplasmatique
+T45	PROC 1608 1627	hémoglobine glyquée
+T46	PROC 1641 1647	examen
+T47	PROC 1655 1680	étude cytobactériologique
+T48	DISO 1705 1773	léiomyome pléomorphe anaplasique mucineux hétérocytaire kératinisant
+T49	LIVB 1800 1809	patientes
+T50	TEMP 1819 1826	24 mois
+T51	PROC 1873 1901	prise en charge chirurgicale
+T52	PROC 1906 1936	complément immunohistochimique
+T53	DISO 1977 1991	résidu tumoral
+T54	PROC 2001 2026	classification de Merckel
+T55	CHEM 2208 2219	Vincristine
+T56	CHEM 2224 2240	Cyclophosphamide
+T57	DEVI 2435 2464	cathéter double lumière pulsé
+T58	PROC 2479 2563	greffe cutanée axillaire extemporary ventriculo-temporale bidirectionnel fractionnée
+T59	MEAS 2587 2606	0,8 fois la normale
+T60	MEAS 2610 2626	5 fois la normal
+T61	LIVB 2658 2664	malade
+T62	PROC 2682 2699	geste chirurgical
+T63	PROC 2723 2753	thyroïdectomie totale monobloc
+T64	PROC 2759 2845	anastomose iléo-colo-pariétale intraveineuse postéro latérale segmentaire endovaginale
+T66	ANAT 2864 2894	lambeau péritonéal superficiel
+T67	ANAT 2919 2941	tronc crico-diaphragme
+T68	Localization 2943 2949	gauche
+T69	PHEN 2955 2968	cicatrisation
+T70	PROC 2989 3017	antibiothérapie probabiliste
+T71	PROC 3030 3049	bilan préopératoire
+T72	PROC 3055 3083	radiothérapies non invasives
+T73	PROC 3100 3112	soins locaux
+T74	Concept_Idea 3116 3120	fort
+T75	Concept_Idea 3121 3129	quantité
+T76	MEAS 3140 3152	1500 UI/kg 2
+T77	PROC 3164 3186	contrôle échographique
+T78	PROC 3262 3279	scanner abdominal
+T79	ANAT 3270 3279	abdominal
+T80	Concept_Idea 3302 3328	caractéristiques cliniques
+T81	Concept_Idea 3338 3363	recherches fonctionnelles
+T82	MEAS 3396 3403	simples
+T83	DISO 3409 3430	récidive métastatique
+T84	DISO 3434 3444	métastases
+T85	PROC 3480 3495	bloc opératoire
+T86	PROC 3509 3548	chimiothérapie adjuvante complémentaire
+T87	PROC 3624 3648	consultations prénatales
+T88	PROC 3654 3677	accouchement gémellaire
+T89	DISO 3728 3748	fuites encéphaliques

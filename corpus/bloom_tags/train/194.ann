@@ -1,0 +1,51 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 112	scanner cervico-thoracique explorateur
+T3	ANAT 82 112	cervico-thoracique explorateur
+T4	PROC 123 142	traitement adjuvant
+T5	CHEM 155 163	imatinib
+T6	CHEM 166 177	Cyclosérine
+T7	MODE 182 192	voie orale
+T8	PHEN 288 305	fonction pleurale
+T9	ANAT 297 305	pleurale
+T10	DISO 342 359	récidive tumorale
+T11	DISO 403 434	paragangliome sécrétant tumoral
+T12	LIVB 446 454	patiente
+T13	MEAS 466 484	fortement suspecté
+T14	DISO 577 597	signes carcinomateux
+T15	DISO 650 696	syndrome d’épanchement liquidien péripleurique
+T16	ANAT 673 696	liquidien péripleurique
+T17	DISO 706 731	localisation métastatique
+T19	PROC 838 873	intradermoréaction à la tuberculine
+T20	DEVI 862 873	tuberculine
+T21	MEAS 880 888	négative
+T22	DISO 959 980	céphalées purpuriques
+T23	TEMP 990 1001	depuis 2ans
+T24	Concept_Idea 1039 1051	état général
+T25	MEAS 1061 1085	de plus en plus marquées
+T26	PROC 1099 1143	tomodensitométrie thoraco-abdomino-pelvienne
+T27	ANAT 1117 1143	thoraco-abdomino-pelvienne
+T28	DISO 1172 1192	métastases profondes
+T29	DISO 1206 1243	granulome épithélio-gigantocellulaire
+T30	ANAT 1269 1295	méso-diaphragme thoracique
+T31	DISO 1332 1360	dépression pleuro-pulmonaire
+T32	ANAT 1343 1360	pleuro-pulmonaire
+T33	DISO 1384 1417	sténose œsophagienne péritoineuse
+T34	ANAT 1392 1417	œsophagienne péritoineuse
+T35	PROC 1436 1462	injection intrarachidienne
+T36	CHEM 1466 1486	produit de contraste
+T37	DISO 1546 1558	endophytique
+T38	DISO 1624 1722	hypervascularisation ischymateuse angio-interstitielle kystique thromboembolique nécrose pariétale
+T39	ANAT 1744 1769	réflexes sensitivomoteurs
+T40	DISO 1891 1920	schwannome myxéo-myxo-sécrété
+T41	PROC 1939 1966	pronostic histopathologique
+T42	PROC 1976 2012	technique d'immuno-histo-chirurgical
+T43	LIVB 2130 2138	patiente
+T44	PROC 2157 2180	radiothérapie adjuvante
+T45	DOSE 2204 2208	2 Gy
+T46	PROC 2222 2260	traitement antibacillaire probabiliste
+T47	CHEM 2273 2283	éthambutol
+T48	CHEM 2285 2297	Pyrazinamide
+T49	CHEM 2299 2310	Ethionamide
+T50	CHEM 2314 2328	Ciprofloxacine
+T51	PHEN 2334 2352	suites opératoires
+T52	MEAS 2361 2368	simples

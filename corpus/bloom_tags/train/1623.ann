@@ -1,0 +1,67 @@
+T1	LIVB 16 21	femme
+T2	DISO 68 91	carcinose gynécologique
+T3	ANAT 78 91	gynécologique
+T4	PROC 96 130	traitée chirurgicalement adjuvante
+T5	PROC 169 197	chimiothérapie locorégionale
+T6	CHEM 212 216	CDDP
+T7	CHEM 222 238	cisdexaméthasone
+T8	LIVB 494 502	patiente
+T9	PROC 506 525	bilan préopératoire
+T10	DISO 550 577	dyspareunie gynéco-vaginale
+T11	DISO 593 614	hypotrophie pelvienne
+T12	ANAT 605 614	pelvienne
+T13	MEAS 625 629	1 kg
+T14	MEAS 664 668	3 kg
+T15	ANAT 698 729	organes génitaux utéro vaginaux
+T16	Localization 754 762	centraux
+T17	ANAT 952 962	tubercules
+T18	CHEM 1076 1087	tuberculine
+T19	PROC 1157 1197	technique d'immunofluorescence indirecte
+T20	PROC 1198 1201	IFI
+T21	PROC 1218 1234	examen somatique
+T22	DISO 1265 1278	particularité
+T23	DISO 1302 1340	syndrome d'épanchement intrapéritonéal
+T24	ANAT 1325 1340	intrapéritonéal
+T25	MEAS 1597 1613	de façon brutale
+T26	Concept_Idea 1617 1623	volume
+T27	MEAS 1689 1714	progressivement favorable
+T28	PROC 1751 1769	traitement curatif
+T29	PROC 1869 1896	prélèvements toxicologiques
+T30	DOSE 2040 2046	200 mg
+T31	CHEM 2050 2063	phénobarbital
+T32	ANAT 2116 2150	rétropéritonéal purulent liquidien
+T33	LIVB 2563 2571	Patiente
+T34	TEMP 2606 2610	2008
+T35	DISO 2615 2646	lésion nodulaire du sein gauche
+T36	ANAT 2635 2646	sein gauche
+T37	Localization 2640 2646	gauche
+T38	TEMP 2656 2667	depuis 1 an
+T39	PROC 2671 2695	examen histopathologique
+T40	DISO 2712 2734	adénocarcinome malaire
+T41	ANAT 2749 2758	péritoine
+T42	ANAT 2766 2784	parois abdominales
+T43	PROC 2789 2814	radio-chirurgie adjuvante
+T45	ANAT 2846 2860	loco-régionale
+T46	DEVI 2885 2915	drainage péristaltique externe
+T47	ANAT 2930 2955	vésicules cervicovaginaux
+T48	PROC 2969 3008	chimiothérapie néo adjuvante palliative
+T49	CHEM 3033 3047	Cyclo-protéine
+T50	CHEM 3049 3060	vinblastine
+T51	CHEM 3062 3075	dexaméthasone
+T52	CHEM 3077 3095	méthylprednisolone
+T53	CHEM 3097 3108	ethionamide
+T54	CHEM 3110 3121	Ceftriaxone
+T55	CHEM 3123 3133	Rifentanil
+T56	CHEM 3149 3180	anti récepteurs dopaminergiques
+T57	DISO 3289 3308	insuffisance rénale
+T58	PHEN 3302 3308	rénale
+T59	PROC 3455 3504	explorations complémentaires immunohistochimiques
+T60	DISO 3522 3546	symptômes neuroleptiques
+T61	DISO 3567 3595	cytopencéphalie tuberculeuse
+T62	LIVB 3626 3634	patiente
+T63	DISO 3702 3725	hyperthyroïdie primaire
+T64	DISO 3732 3752	diabète hypertenseur
+T65	PROC 3769 3794	intervention chirurgicale
+T66	DISO 3936 3961	méningo-cérébrale toxique
+T67	DISO 3992 4019	processus lésionnel tumoral
+T68	LIVB 4058 4062	elle

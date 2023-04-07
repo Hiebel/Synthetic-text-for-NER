@@ -1,0 +1,37 @@
+T1	LIVB 16 24	patiente
+T2	DISO 56 77	maladie gynécologique
+T3	PROC 82 91	admission
+T4	Hospital 95 125	service d'accueil des urgences
+T5	Hospital 129 175	centre hospitalier universitaire Hassan II Fès
+T6	PROC 179 194	examen clinique
+T7	LIVB 208 216	patiente
+T8	MEAS 220 223	bon
+T9	Concept_Idea 224 236	état général
+T10	PHEN 238 261	réflexe ostéo-tendineux
+T11	ANAT 246 261	ostéo-tendineux
+T12	DISO 298 325	hypotension surrénaloïdiare
+T13	ANAT 310 325	surrénaloïdiare
+T14	DISO 342 367	troubles sensitivomotrice
+T15	PROC 373 403	échographie abdomino-pelvienne
+T16	ANAT 385 403	abdomino-pelvienne
+T17	DISO 445 477	localisation nécrose séquellaire
+T18	PROC 491 529	scintigraphie pulmonaire intraveineuse
+T20	PROC 531 535	SIVT
+T21	DISO 567 622	syndrome d'épanchement pleural liquidien basithoracique
+T22	ANAT 590 622	pleural liquidien basithoracique
+T23	PROC 626 671	tomodensitométrie thoraco- abdomino-pelvienne
+T24	ANAT 644 671	thoraco- abdomino-pelvienne
+T25	PROC 676 725	scanner cervico-thoracique iso-angio-scanner MIBI
+T27	MEAS 740 748	négative
+T31	TEMP 926 933	premier
+T32	LIVB 1143 1151	patiente
+T33	DISO 1154 1180	tuberculose granulomateuse
+T34	DISO 1182 1208	anévrisme aorticocavitaire
+T35	ANAT 1192 1208	aorticocavitaire
+T36	DISO 1235 1264	hémorragie digestive biliaire
+T37	ANAT 1246 1264	digestive biliaire
+T38	DISO 1266 1320	thromboembolie mitraméthasone artériolo-interstitieuse
+T40	PROC 1346 1366	reprise chirurgicale
+T41	PROC 1378 1411	traitement médical prophylactique
+T42	CHEM 1422 1434	prédnisolone
+T43	CHEM 1440 1458	hydroxychloroquine

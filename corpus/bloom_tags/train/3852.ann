@@ -1,0 +1,23 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	DISO 101 133	paralysie des membres inférieurs
+T5	ANAT 115 133	membres inférieurs
+T6	TEMP 143 157	depuis un mois
+T7	PROC 161 176	examen clinique
+T8	PROC 181 190	admission
+T9	DISO 210 247	tuméfaction du membre inférieur droit
+T10	ANAT 225 247	membre inférieur droit
+T11	Localization 242 247	droit
+T12	Concept_Idea 250 256	aspect
+T13	MEAS 257 264	molleté
+T14	MEAS 274 278	3 cm
+T15	MEAS 283 287	2 cm
+T16	MEAS 289 295	mobile
+T17	Concept_Idea 311 322	plan cutané
+T18	PROC 356 388	bilan radiologique préopératoire
+T19	DISO 411 447	masse tumorale lésionnelle hypodense
+T20	ANAT 463 498	muscles latéro-cervicaux périduraux
+T21	ANAT 514 542	veine cave sus rénale gauche
+T22	Localization 536 542	gauche
+T23	DISO 558 642	thrombose artério-veineuse intrarachidienne crani-thoracique pariéto-bronchoméningée

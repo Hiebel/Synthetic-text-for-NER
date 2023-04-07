@@ -1,0 +1,40 @@
+T1	LIVB 15 25	adolescent
+T2	TEMP 29 35	16 ans
+T3	MEAS 68 76	notables
+T4	PROC 78 83	suivi
+T5	DISO 92 121	pneumoedème du poignet gauche
+T6	ANAT 107 121	poignet gauche
+T7	Localization 115 121	gauche
+T8	TEMP 131 144	depuis 3 mois
+T9	PROC 168 197	greffonoplastie transfixiante
+T10	PROC 201 216	examen clinique
+T11	DISO 243 259	signes cliniques
+T12	DISO 262 296	épanchement péricardique purulence
+T13	ANAT 274 296	péricardique purulence
+T14	ANAT 313 340	paroi crânio-faciale droite
+T15	Localization 334 340	droite
+T16	ANAT 356 397	muscle gastrocnémien superficiel adductus
+T17	DISO 417 443	symptômes ophtalmologiques
+T18	Concept_Idea 484 505	réflexes oculomoteurs
+T19	PROC 512 569	ponction liquide pleuro-pleurale liquidienne exploratrice
+T21	PROC 583 613	échographie abdomino-pelvienne
+T22	ANAT 595 613	abdomino-pelvienne
+T23	DISO 647 703	hernie grêlique péritumorale latéroutérine bilithiasique
+T25	DISO 720 732	métanéphrine
+T26	PROC 749 758	injection
+T27	CHEM 762 782	produit de contraste
+T28	PROC 788 832	tomodensitométrie thoraco-abdomino-pelvienne
+T29	ANAT 806 832	thoraco-abdomino-pelvienne
+T30	PROC 846 883	c'lioscopie cervico-dorsiflexionnelle
+T31	DISO 905 914	localisée
+T32	DISO 946 984	déformation médullaire hypo-intenseuse
+T33	ANAT 958 984	médullaire hypo-intenseuse
+T34	DISO 1010 1018	kystique
+T35	DISO 1022 1031	polylobée
+T36	PROC 1035 1084	fibroscopie œsogastroduodénale intestinale totale
+T37	ANAT 1047 1084	œsogastroduodénale intestinale totale
+T38	PHEN 1123 1144	moyens thérapeutiques
+T39	DISO 1224 1234	tissulaire
+T40	DISO 1292 1302	stromagène
+T41	ANAT 1334 1348	intestin grêle
+T42	ANAT 1370 1412	paires épiploïques jéjunostomie iléocæcale

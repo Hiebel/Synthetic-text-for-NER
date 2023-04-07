@@ -1,0 +1,40 @@
+T1	LIVB 19 24	homme
+T2	PROC 49 60	hospitalisé
+T3	DISO 70 87	dyspnée sifflante
+T4	TEMP 97 110	depuis 3 mois
+T5	PROC 114 129	examen clinique
+T6	LIVB 142 152	nourrisson
+T7	MEAS 156 163	mauvais
+T8	Concept_Idea 164 176	état général
+T9	ANAT 185 197	conjonctives
+T10	MEAS 198 205	souples
+T11	DISO 211 232	signes inflammatoires
+T12	PROC 237 247	inspection
+T13	PROC 263 279	examen somatique
+T14	DISO 291 305	particularités
+T15	PROC 310 337	tomodensitométrie du bassin
+T16	ANAT 331 337	bassin
+T17	DISO 372 433	distension cranio-thoraco- abdomino-lombaire pariétale gauche
+T18	ANAT 383 433	cranio-thoraco- abdomino-lombaire pariétale gauche
+T19	Localization 427 433	gauche
+T20	MEAS 443 450	10/8 cm
+T21	ANAT 459 485	revêtement costo-occipital
+T22	DISO 493 498	masse
+T23	ANAT 511 537	annexes thoracique droites
+T24	Localization 530 537	droites
+T25	ANAT 557 586	troncs supra-aorto-abdominaux
+T26	ANAT 588 591	VBP
+T27	PROC 614 623	transfert
+T28	Hospital 627 642	bloc opératoire
+T29	MEAS 675 682	simples
+T30	DISO 702 723	détresse respiratoire
+T31	PHEN 711 723	respiratoire
+T32	TEMP 734 742	24heures
+T33	DISO 806 819	consanguinité
+T34	LIVB 831 839	patiente
+T35	PROC 844 864	suivi postopératoire
+T36	PROC 887 911	chimiothérapie adjuvante
+T37	LIVB 1060 1062	sa
+T38	LIVB 1063 1073	belle-sœur
+T39	LIVB 1077 1080	son
+T40	LIVB 1081 1092	frère cadet

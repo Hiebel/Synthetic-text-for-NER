@@ -1,0 +1,29 @@
+T1	LIVB 25 32	Mme H.A
+T2	PROC 76 88	consultation
+T3	DISO 97 118	nodule du sein gauche
+T4	ANAT 107 118	sein gauche
+T5	Localization 112 118	gauche
+T6	TEMP 128 141	depuis 6 mois
+T7	DISO 157 168	vomissement
+T8	DISO 174 183	infection
+T9	PROC 197 203	opérée
+T10	Hospital 207 216	chirurgie
+T11	PROC 243 267	laparotomie exploratrice
+T12	MEAS 285 289	deux
+T13	ANAT 290 296	genoux
+T14	PHEN 301 310	grossesse
+T15	DISO 385 408	signes neuro-sensoriels
+T16	Concept_Idea 413 431	état hémodynamique
+T17	DISO 473 482	dysphonie
+T18	Concept_Idea 508 520	état général
+T19	PROC 524 539	examen clinique
+T20	LIVB 559 567	patiente
+T21	PROC 573 599	anticoagulation préventive
+T22	MODE 604 614	voie orale
+T23	DEVI 620 629	brochette
+T24	PROC 645 666	surveillance médicale
+T25	PROC 696 708	intervention
+T26	MEAS 745 752	simples
+T27	DISO 794 815	récidive pathologique
+T28	DISO 819 830	traumatisme
+T29	LIVB 850 858	patiente

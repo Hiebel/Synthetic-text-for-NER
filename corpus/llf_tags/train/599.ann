@@ -1,0 +1,8 @@
+T1	PROC 2 31	prise en charge thérapeutique
+T2	PROC 49 77	chimiothérapie néo adjuvante
+T3	PROC 91 124	radio-chimiothérapie concomitante
+T4	MEAS 144 153	favorable
+T5	TEMP 171 178	12 mois
+T6	DISO 191 199	récidive
+T7	Concept_Idea 208 211	âge
+T8	PROC 225 235	traitement

@@ -1,0 +1,83 @@
+T1	LIVB 15 25	nourrisson
+T2	TEMP 33 39	2 mois
+T3	PROC 52 64	consultation
+T4	DISO 74 79	masse
+T5	ANAT 83 105	membre inférieur droit
+T6	Localization 100 105	droit
+T7	TEMP 114 132	depuis trois jours
+T8	PROC 136 151	examen clinique
+T9	Concept_Idea 167 179	état général
+T10	MEAS 180 186	altéré
+T11	PHEN 191 206	fonction rénale
+T12	ANAT 200 206	rénale
+T13	MEAS 211 224	satisfaisante
+T14	PROC 231 247	bilan biologique
+T15	DISO 259 272	particularité
+T16	PROC 277 298	radiologie des genoux
+T17	ANAT 292 298	genoux
+T18	MEAS 355 362	simples
+T19	PROC 367 386	bilan préopératoire
+T20	Hospital 401 425	anesthésiste-réanimateur
+T21	DISO 447 455	fracture
+T22	DISO 459 474	thrombophtalmie
+T23	PROC 484 496	auscultation
+T24	DISO 513 534	distension abdominale
+T25	ANAT 524 534	abdominale
+T26	DISO 573 596	déficit sensitivomoteur
+T27	PROC 603 633	corticothérapie postopératoire
+T28	CHEM 639 650	prednisonex
+T29	CHEM 653 663	isoniazide
+T30	PROC 677 701	chimiothérapie adjuvante
+T31	CHEM 707 718	tamoxifenes
+T32	CHEM 720 732	pyrazinamide
+T33	DOSE 801 809	25 mg/kg
+T34	TEMP 809 811	/j
+T35	PROC 826 851	surveillance radiologique
+T36	PROC 922 953	traitement médical conservateur
+T37	DISO 1031 1046	symptomatologie
+T38	Concept_Idea 1088 1114	aspect immunohistochimique
+T39	PROC 1224 1233	transfert
+T40	Hospital 1238 1259	urgences pédiatriques
+T41	LIVB 1562 1564	sa
+T42	LIVB 1565 1569	mère
+T43	TEMP 1578 1584	21 ans
+T44	PROC 1673 1680	mariage
+T45	LIVB 1790 1797	Mme M.M
+T46	PROC 1802 1814	hospitalisée
+T47	LIVB 1824 1827	son
+T48	LIVB 1828 1839	petit frère
+T49	PROC 1867 1949	néphrectomie totale élargie segmentaire multilocorégionale cervicale conservatrice
+T50	DISO 3029 3063	hypertension artérielle systolique
+T51	LIVB 3078 3080	il
+T52	CHEM 3096 3110	hydrocortisone
+T53	MODE 3114 3119	bolus
+T54	DOSE 3121 3124	2 g
+T55	TEMP 3124 3129	/jour
+T56	Concept_Idea 3140 3166	indice de masse corporelle
+T57	MEAS 3169 3178	15 kg/m 2
+T58	DISO 3191 3210	signes fonctionnels
+T59	DISO 3248 3262	amaigrissement
+T60	MEAS 3273 3285	17kg /minute
+T61	DISO 3300 3312	vomissements
+T62	ANAT 3326 3348	membre inférieur droit
+T63	Localization 3343 3348	droit
+T64	MEAS 3372 3385	spectaculaire
+T65	PROC 3414 3446	neurochirurgie interventionnelle
+T66	Concept_Idea 3470 3504	limites d'anesthésie locorégionale
+T67	PROC 3480 3504	anesthésie locorégionale
+T68	PROC 3550 3579	prise en charge thérapeutique
+T69	PROC 3610 3634	exploration radiologique
+T70	DISO 3656 3673	tumeur encapsulée
+T71	ANAT 3688 3732	segments graisseux pariéto-pariéto-cervicaux
+T72	MEAS 3742 3747	13 cm
+T73	Concept_Idea 3751 3759	diamètre
+T74	MEAS 3768 3773	10 cm
+T75	Concept_Idea 3777 3786	grand axe
+T76	PHEN 3793 3819	contractions respiratoires
+T77	ANAT 3806 3819	respiratoires
+T78	MEAS 3828 3838	similaires
+T79	DISO 3850 3873	déficit sensitivomoteur
+T80	DISO 3877 3897	facteur rhumatismale
+T81	PROC 3921 3938	bilan étiologique
+T82	MEAS 3952 3955	peu
+T83	PROC 4041 4067	examen anatomopathologique

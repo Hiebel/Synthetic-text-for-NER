@@ -1,0 +1,18 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 70	traitée
+T3	CHEM 78 91	bupaméthasone
+T4	DOSE 93 99	1mg/kg
+T5	TEMP 99 101	/j
+T6	MODE 106 112	inhalé
+T7	CHEM 124 134	métoprolol
+T8	DOSE 136 144	20 mg/kg
+T9	TEMP 144 146	/j
+T10	TEMP 148 166	pendant 8 semaines
+T11	CHEM 187 207	catécholestéroniques
+T12	PROC 211 235	exploration chirurgicale
+T13	DISO 262 289	localisations métastatiques
+T14	PROC 302 327	hormonothérapie adjuvante
+T15	CHEM 358 381	sulfate de progestérone
+T16	DEVI 419 442	sonde nasofibroscopique
+T18	DISO 479 496	récidive tumorale
+T19	TEMP 512 519	24 mois

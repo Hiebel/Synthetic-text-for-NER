@@ -1,0 +1,38 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	2 ans
+T3	DISO 46 59	consanguinité
+T4	DISO 66 84	conflits familiaux
+T5	PROC 86 97	hospitalisé
+T6	Hospital 102 123	urgences pédiatriques
+T7	PROC 131 146	examen clinique
+T8	DISO 153 170	pleurésie fébrile
+T9	MEAS 194 209	progressivement
+T10	Concept_Idea 213 219	volume
+T11	MEAS 224 229	20 cm
+T12	MEAS 241 246	70 cm
+T13	Concept_Idea 283 295	état général
+T14	DISO 313 347	ictère purulentiel cutanéo-muqueux
+T15	MEAS 365 371	rapide
+T16	LIVB 392 400	patiente
+T17	DISO 405 433	thromboses thromboemboliques
+T18	PROC 453 468	prise en charge
+T19	PROC 474 507	traitement médical antibacillaire
+T20	CHEM 520 537	méthoprime sodium
+T21	CHEM 540 553	dexaméthasone
+T22	CHEM 555 567	prédnisolone
+T23	PROC 573 609	tomodensitométrie abdomino-pélvienne
+T24	ANAT 591 609	abdomino-pélvienne
+T25	DISO 627 680	hépatomégalie hypertrophiée basithoracique bilatérale
+T26	Localization 670 680	bilatérale
+T27	ANAT 704 725	artères mésentériques
+T28	DISO 738 789	paragangliome épiploïque angio-vasculo-interstitiel
+T29	ANAT 806 827	artères mésentériques
+T30	ANAT 845 859	parties molles
+T31	DISO 956 1002	métastases ganglionnaires ovariennes tumorales
+T32	ANAT 967 1002	ganglionnaires ovariennes tumorales
+T33	DISO 1043 1069	tumeur ovarienne primitive
+T34	ANAT 1050 1069	ovarienne primitive
+T35	DISO 1075 1107	dilatation grêlique varicellante
+T36	ANAT 1086 1107	grêlique varicellante
+T37	DISO 1123 1160	circulation intestinale érythémateuse
+T38	ANAT 1135 1160	intestinale érythémateuse

@@ -1,0 +1,95 @@
+T1	MEAS 0 7	normale
+T2	PROC 12 51	radiographie du thorax sans préparation
+T3	ANAT 28 34	thorax
+T4	DISO 67 86	niveau hydroaérique
+T5	ANAT 102 110	épiploon
+T6	DISO 135 173	hyperclarté des voies aériennes gauche
+T7	ANAT 151 173	voies aériennes gauche
+T8	Localization 167 173	gauche
+T9	DISO 181 220	insuffisance rénale chronique terminale
+T10	ANAT 194 200	rénale
+T11	Concept_Idea 222 224	VR
+T12	MEAS 226 242	0,3 à 0,6 mmol/L
+T13	PROC 249 263	TDM thoracique
+T14	ANAT 253 263	thoracique
+T15	Concept_Idea 302 318	caractéristiques
+T16	PROC 340 360	bilan pré-opératoire
+T17	DISO 378 432	processus tissulaire péricardique hypodense hétérogène
+T18	MEAS 460 464	5 cm
+T19	Concept_Idea 468 476	diamètre
+T20	PROC 497 506	injection
+T21	MEAS 515 518	2cm
+T22	DISO 548 571	granulome inflammatoire
+T23	DISO 578 610	localisation secondaire tumorale
+T24	PROC 615 645	traitement médical substitutif
+T25	CHEM 650 670	sulfate de magnésium
+T26	LIVB 752 770	confrères médicaux
+T27	PROC 818 843	scanner thoraco-abdominal
+T28	ANAT 826 843	thoraco-abdominal
+T29	MEAS 855 861	normal
+T30	Concept_Idea 876 904	résultat anatomopathologique
+T31	Concept_Idea 918 946	prise en charge chirurgicale
+T32	MEAS 983 990	simples
+T33	PROC 999 1020	contrôle radiologique
+T34	PROC 1024 1036	endoscopique
+T35	PROC 1065 1104	chimiothérapie complémentaire adjuvante
+T36	LIVB 1134 1144	praticiens
+T37	Concept_Idea 1197 1203	taille
+T38	Concept_Idea 1241 1261	paramètres physiques
+T39	PHEN 1267 1285	suites opératoires
+T40	MEAS 1294 1301	simples
+T41	PROC 1337 1356	examens biologiques
+T42	PROC 1369 1390	ventilation mécanique
+T43	DISO 1477 1499	myocardite infectieuse
+T44	LIVB 1539 1545	enfant
+T45	TEMP 1553 1559	7 mois
+T46	LIVB 1607 1624	cousines germains
+T47	LIVB 1715 1717	sa
+T48	LIVB 1718 1731	belle-famille
+T49	TEMP 1760 1784	deux semaines auparavant
+T50	LIVB 1803 1814	jeune fille
+T51	DISO 1843 1859	râles crépitants
+T52	DISO 1875 1903	bruits glapissants caverneux
+T53	DISO 1919 1940	reflexes oculomoteurs
+T54	LIVB 2017 2023	enfant
+T55	PROC 2029 2044	examen clinique
+T56	DISO 2076 2105	symptômes neuropsychiatriques
+T57	DISO 2176 2207	hallucinations auditivo-motrice
+T58	DISO 2224 2245	troubles psychotiques
+T59	PROC 2310 2324	interrogatoire
+T60	DISO 2345 2376	habitudes délirantes chroniques
+T61	Hospital 2502 2528	manifestations ésotériques
+T62	LIVB 3023 3034	Kitabchi AE
+T63	LIVB 3043 3051	patiente
+T64	PROC 3077 3089	hospitalisée
+T65	DISO 3098 3148	syndrome polymalformatif du membre supérieur droit
+T66	ANAT 3126 3148	membre supérieur droit
+T67	Localization 3143 3148	droit
+T68	DISO 3150 3153	SPP
+T69	TEMP 3164 3182	depuis trois jours
+T70	DISO 3201 3212	traumatisme
+T71	DISO 3222 3227	signe
+T72	PHEN 3293 3317	grossesse mono-parentale
+T73	TEMP 3328 3339	38 semaines
+T74	Concept_Idea 3364 3367	cas
+T75	PROC 3459 3483	échographie obstétricale
+T76	MEAS 3520 3524	gros
+T77	DEVI 3525 3547	matériel cardiotonique
+T78	MEAS 3557 3577	5/6 centimètres cube
+T79	DISO 3645 3675	contours lésionnels tissulaire
+T80	DISO 3688 3713	pneumopéritoine pariétale
+T81	DISO 3791 3814	conjonctives néonatales
+T82	MEAS 3847 3854	simples
+T83	LIVB 3860 3868	patiente
+T84	CHEM 3885 3923	fluoroquinolone acétylsulfaméthoxazole
+T85	PROC 3962 3990	prise en charge chirurgicale
+T86	PROC 4006 4024	bilan radiologique
+T87	Concept_Idea 4071 4094	équilibre hémodynamique
+T88	PROC 4108 4130	contrôle échographique
+T89	PROC 4135 4155	suivi postopératoire
+T92	MEAS 4269 4276	25 cmHg
+T93	PROC 4290 4336	transfusion sanguine intraveineuse parentérale
+T94	PROC 4349 4377	hémoglobine aminotransfusion
+T95	PROC 4393 4469	hypercalciurie extradigestive fractionnée biquotidienne fractionnaire totale
+T96	PROC 4475 4507	scanner thoraco-abdomino-pelvien
+T97	ANAT 4483 4507	thoraco-abdomino-pelvien

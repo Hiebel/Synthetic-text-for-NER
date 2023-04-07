@@ -1,0 +1,44 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 37	admise
+T3	Hospital 42 64	urgences chirurgicales
+T4	DISO 91 108	agitation fébrile
+T5	Concept_Idea 153 171	état hémodynamique
+T6	MEAS 182 199	3 fois la normale
+T7	PROC 207 222	toucher vaginal
+T8	ANAT 215 222	vaginal
+T9	MEAS 233 246	80 cycles/min
+T10	DEVI 279 309	matériel contraceptif masculin
+T11	PROC 345 370	intervention obstétricale
+T12	LIVB 402 409	malades
+T13	DISO 437 464	symptomatologie infectieuse
+T14	DISO 490 510	détresse métabolique
+T15	DISO 775 790	rupture utérine
+T16	DISO 960 995	placenta polymyomateux hypertrophié
+T17	PROC 1021 1045	anesthésie locorégionale
+T18	ANAT 1032 1045	locorégionale
+T19	PROC 1052 1138	incision trans ombilicale antéro-supraglombaire para-arébro-myélïdienne scannognotique
+T20	PROC 1154 1168	biopsie étagée
+T21	DISO 1197 1220	tuberculose péricutanée
+T22	PROC 1352 1376	étude histo-pathologique
+T23	ANAT 1453 1482	parenchyme myxo-lymphocytaire
+T24	MEAS 1578 1582	12mm
+T25	Concept_Idea 1585 1591	aspect
+T26	MEAS 1592 1600	noirâtre
+T27	ANAT 1681 1704	muscles cervicovaginaux
+T28	Localization 1734 1747	centromédiane
+T29	ANAT 1816 1835	muqueuses vaginales
+T30	PROC 1859 1872	sérologie VIH
+T31	DISO 1884 1897	particularité
+T32	PROC 1905 1928	recherche de BK virions
+T33	DEVI 1930 1940	Genexpert®
+T34	DOSE 1942 1946	1 ml
+T35	TEMP 1946 1948	/j
+T36	PROC 1963 1995	intradermoréaction à la proteine
+T37	CHEM 1987 1995	proteine
+T38	PROC 1997 2000	PRP
+T39	PROC 2003 2018	anti DNA natifs
+T40	MEAS 2032 2040	négatifs
+T41	PROC 2046 2076	radio-chimiothérapie adjuvante
+T42	CHEM 2122 2153	amoxicilline-acide clavulanique
+T43	MODE 2157 2162	bolus
+T44	CHEM 2176 2184	Céfopril

@@ -1,0 +1,43 @@
+T1	LIVB 4 9	femme
+T2	Concept_Idea 26 32	pesant
+T3	MEAS 33 38	75 kg
+T4	Hospital 68 76	urgences
+T5	DISO 96 117	détresse respiratoire
+T6	PHEN 105 117	respiratoire
+T7	TEMP 127 143	depuis 48 heures
+T8	PROC 149 174	traitement antibacillaire
+T9	CHEM 187 198	riftriaxone
+T10	CHEM 200 210	isoniazide
+T11	CHEM 212 223	ethionamide
+T12	CHEM 225 237	Pyrazinamide
+T13	CHEM 239 250	Ethionamide
+T14	CHEM 252 263	Cyclosérine
+T15	CHEM 265 276	Vinblastine
+T16	CHEM 278 292	Ciprofloxacine
+T17	CHEM 294 300	Vit B6
+T18	CHEM 302 325	Pénicilline-Ceftazidine
+T19	CHEM 327 340	Erythromycine
+T20	CHEM 342 355	Bêtaméthasone
+T21	CHEM 357 367	Acitrétine
+T22	CHEM 369 396	Triméthoprime-Sulfamidazole
+T23	CHEM 398 410	Tétracycline
+T24	CHEM 412 427	Chloramphénicol
+T25	CHEM 429 440	Gentamicine
+T26	CHEM 442 452	Isoniazide
+T27	CHEM 454 462	Diazépam
+T28	CHEM 464 474	Sufentanil
+T29	CHEM 476 489	Halogénuranyl
+T30	CHEM 492 503	bupivacaine
+T31	CHEM 505 513	propofol
+T32	CHEM 515 525	sufentanil
+T33	CHEM 527 537	furosémide
+T34	CHEM 539 552	noradrénaline
+T35	CHEM 554 567	bromocriptine
+T36	CHEM 569 580	nicardipril
+T37	CHEM 582 596	chlorpromazine
+T38	CHEM 598 613	méthylphénidyle
+T39	CHEM 615 628	carbamazepine
+T40	CHEM 630 638	Aspirine
+T41	CHEM 640 653	Lévodopaamine
+T42	CHEM 655 665	Furosémide
+T43	CHEM 667 676	Captopril

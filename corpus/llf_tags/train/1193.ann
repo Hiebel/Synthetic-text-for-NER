@@ -1,0 +1,18 @@
+T1	LIVB 19 26	patient
+T2	DISO 94 134	phénomènes infectieux aigues du pancréas
+T3	ANAT 126 134	pancréas
+T4	DISO 145 174	thrombophlébites infectieuses
+T5	DISO 369 391	traumatisme contendant
+T6	DISO 585 613	crise convulsive psychotique
+T7	DISO 636 674	hypertension intracrânio-surrénalienne
+T8	ANAT 649 674	intracrânio-surrénalienne
+T9	PROC 702 721	traitement adjuvant
+T10	DISO 735 763	troubles neuropsychiatriques
+T11	PROC 777 801	scanner abdomino-pelvien
+T12	ANAT 785 801	abdomino-pelvien
+T13	DISO 826 847	distension abdominale
+T14	ANAT 837 847	abdominale
+T15	DISO 940 965	déficit sensitivo-motrice
+T16	ANAT 984 1002	systèmes digestifs
+T17	ANAT 1018 1032	expectorations
+T18	ANAT 1041 1058	vésicule biliaire

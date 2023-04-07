@@ -1,0 +1,59 @@
+T1	LIVB 29 37	patiente
+T2	PROC 84 99	hospitalisation
+T3	Hospital 103 137	unité de soins intensifs néonatals
+T4	PROC 143 167	ventilation artificielle
+T5	DEVI 172 213	sonde cardiopulmonaire transoesophoguidée
+T7	LIVB 239 242	ses
+T8	LIVB 243 250	enfants
+T9	DISO 254 277	bradycardie congénitale
+T10	CHEM 297 325	catécholestéroneuroleptiques
+T11	TEMP 335 351	depuis 48 heures
+T12	DISO 371 389	choc hypothermique
+T13	MEAS 400 404	35°C
+T14	DISO 424 440	signes cliniques
+T15	DISO 443 464	détresse respiratoire
+T16	DISO 471 497	douleur abdomino-pelvienne
+T17	ANAT 479 497	abdomino-pelvienne
+T18	PROC 578 602	explorations biologiques
+T19	DISO 621 637	hyperleucocytose
+T20	MEAS 640 659	13 000 éléments/mm3
+T21	PROC 673 688	glycémie à jeun
+T22	MEAS 697 706	1,58 g/dl
+T23	PROC 713 721	kaliémie
+T24	MEAS 724 733	2,5 meq/l
+T25	PROC 743 751	natrémie
+T26	MEAS 754 763	133 meq/l
+T27	PROC 768 788	troponine natriuriée
+T28	MEAS 807 817	1630 UI/ml
+T29	PROC 824 834	cardiolyse
+T30	CHEM 872 883	tuberculine
+T31	MEAS 890 898	négative
+T32	DISO 921 954	syndrome d'épanchement péritonéal
+T33	DISO 973 1007	circulation intrapéritonéale aiguë
+T34	ANAT 985 1007	intrapéritonéale aiguë
+T35	DISO 1145 1158	particularité
+T36	DISO 1217 1273	accident ischémique artério-veineux systématisé pariétal
+T37	ANAT 1237 1273	artério-veineux systématisé pariétal
+T39	PROC 1579 1606	tomodensitométrie pelvienne
+T40	ANAT 1597 1606	pelvienne
+T42	Concept_Idea 1723 1732	grand axe
+T43	ANAT 1746 1772	muscle psoas iliaque droit
+T44	Localization 1767 1772	droit
+T45	MEAS 1782 1787	18 cm
+T46	Concept_Idea 1791 1800	grand axe
+T47	ANAT 1822 1838	parois vaginales
+T48	ANAT 1859 1876	cavité abdominale
+T49	ANAT 1897 1947	voies biliaires intestinales pyélocaliciellulaires
+T50	ANAT 2005 2020	septa ovaginaux
+T51	ANAT 2054 2083	fosse rectale diaphragmatique
+T52	MEAS 2093 2102	hypodense
+T53	ANAT 2206 2223	muqueuse pubienne
+T54	ANAT 2238 2258	sphincter œsophagien
+T55	ANAT 2266 2291	organes génitaux externes
+T56	LIVB 2297 2305	patients
+T57	PROC 2326 2350	cystoscopie exploratrice
+T58	DISO 2370 2409	processus tumoral kystique hypertrophié
+T59	DISO 2416 2425	anomalies
+T60	PROC 2430 2454	exploration chirurgicale
+T61	DISO 2471 2498	envahissement gynécologique
+T62	DISO 2511 2537	localisations néoplasiques

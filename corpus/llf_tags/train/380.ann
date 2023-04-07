@@ -1,0 +1,36 @@
+T1	PROC 3 45	radiographie de l'abdomen sans préparation
+T2	ANAT 21 28	abdomen
+T3	DISO 62 74	thrombopénie
+T4	MEAS 77 80	10%
+T5	PROC 85 102	scanner abdominal
+T6	ANAT 93 102	abdominal
+T7	Concept_Idea 127 152	localisations secondaires
+T8	PROC 157 183	fibroscopie oeso-gastrique
+T9	ANAT 169 183	oeso-gastrique
+T10	MEAS 190 197	stérile
+T11	PROC 204 231	bilan radiologique standard
+T13	DISO 250 293	processus tumoral tissulaire du rein gauche
+T14	ANAT 282 293	rein gauche
+T15	Localization 287 293	gauche
+T16	DISO 303 351	remaniements hémorragiques intrahépato-cervicaux
+T17	DISO 364 511	nodule anéchogène hétéro-kystique périrénal bilatéral postérieur superficiel postéro-temporo-mandibulaire externe antero-jugulaire supérieur droite
+T19	Localization 505 511	droite
+T20	ANAT 527 538	flanc droit
+T21	Localization 533 538	droit
+T22	MEAS 547 551	3 cm
+T23	Localization 560 571	postérieure
+T24	MEAS 584 588	5 mm
+T25	PROC 593 615	traitement chirurgical
+T26	PROC 634 688	néphrectomie totale scanno-chimiothérapie concomitante
+T27	MEAS 736 743	simples
+T28	TEMP 750 756	6 mois
+T29	PROC 760 795	curage ganglionnaire cervico-utérin
+T30	ANAT 767 795	ganglionnaire cervico-utérin
+T31	PROC 814 844	radio-chimiothérapie adjuvante
+T32	MEAS 849 858	favorable
+T33	CHEM 875 886	antalgiques
+T34	CHEM 898 909	tamoxifenil
+T35	CHEM 911 923	pyrazinamide
+T36	CHEM 926 950	acide acétyle glycidique
+T37	CHEM 953 983	pénicilline acide clavulanique
+T38	CHEM 986 997	paracétamol

@@ -1,0 +1,29 @@
+T1	LIVB 20 28	patiente
+T2	PROC 45 51	suivie
+T3	TEMP 55 59	2009
+T4	DISO 69 94	pancréatite aigue stade E
+T5	Concept_Idea 104 111	critère
+T6	Hospital 118 171	International Federation of Gynecology and Obstetrics
+T7	PROC 175 190	examen clinique
+T8	PROC 195 204	admission
+T9	ANAT 225 232	abdomen
+T10	MEAS 233 243	légèrement
+T11	DISO 244 252	distendu
+T12	PHEN 262 283	contractions utérines
+T13	ANAT 275 283	utérines
+T14	MEAS 284 291	intense
+T15	DISO 314 335	signes inflammatoires
+T16	ANAT 349 359	col utérin
+T17	PROC 364 399	tomodensitométrie abdominopelvienne
+T18	ANAT 382 399	abdominopelvienne
+T19	LIVB 423 431	patiente
+T20	DISO 449 487	épanchement bilatéral péripancréatique
+T21	Localization 461 470	bilatéral
+T22	MEAS 497 501	12cm
+T23	MEAS 506 511	11 cm
+T24	ANAT 544 570	organes intestinaux grêles
+T25	PROC 598 607	injection
+T26	CHEM 610 624	hydrocortisone
+T27	DOSE 626 641	25métronidazole
+T28	PROC 658 674	examen somatique
+T29	DISO 686 694	anomalie

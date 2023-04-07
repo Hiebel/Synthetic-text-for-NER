@@ -1,0 +1,23 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	7 ans
+T3	PHEN 70 90	grossesse monofocale
+T4	PROC 95 103	vaccinée
+T5	PROC 109 116	curetée
+T6	PROC 122 136	suivi clinique
+T7	Hospital 149 170	urgences pédiatriques
+T8	DISO 192 212	anomalie congénitale
+T9	DISO 216 228	syphilitique
+T10	TEMP 391 395	1 an
+T11	TEMP 399 405	9 mois
+T12	LIVB 432 439	jumeaux
+T13	PROC 475 502	examen anatomopathologiaque
+T14	DISO 537 621	myome polymalformatif carcinomateux mucineux néoplasique métaplasmocytaire rénitente
+T15	PROC 644 664	exérèse chirurgicale
+T16	PROC 678 735	radio-thoracotomie large bipariéto-lentiginale fistulisée
+T17	PROC 761 786	étude immunohistochimique
+T18	ANAT 814 832	cellules tumorales
+T19	MEAS 888 892	4 cm
+T20	MEAS 913 922	suspectes
+T21	DEVI 1016 1039	matériel érythrobroyeur
+T22	ANAT 1063 1088	cellules mésenchymateuses
+T24	Localization 1297 1307	bilatéraux

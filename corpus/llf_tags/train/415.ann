@@ -1,0 +1,41 @@
+T1	LIVB 7 13	Mme HK
+T2	MEAS 38 39	6
+T3	LIVB 40 47	enfants
+T4	DISO 53 62	tabagique
+T5	DEVI 115 150	grossesse monofoetale bourgeonnante
+T6	PROC 215 242	vaccinations néonataliennes
+T7	Concept_Idea 281 300	postéro-nom féminin
+T8	LIVB 305 308	S.H
+T9	MEAS 342 343	3
+T10	LIVB 344 351	enfants
+T11	PROC 394 419	néphrectomie exploratrice
+T12	DOSE 421 426	400mg
+T13	PROC 482 507	étude cytobactériologique
+T14	DISO 551 561	métastases
+T15	DISO 644 702	remaniements nécrotico-oesogastroduodénales inflammatoires
+T16	PROC 789 843	préparations chirurgicales endoscopiques extemporanées
+T17	LIVB 935 958	médecins ophtalmologues
+T18	LIVB 1022 1025	son
+T19	LIVB 1026 1036	petit fils
+T20	PROC 1059 1070	laparotomie
+T21	PROC 1082 1100	césarienne urgente
+T22	LIVB 1115 1117	sa
+T23	LIVB 1118 1122	mère
+T24	Hospital 1142 1175	service des urgences pédiatriques
+T25	ANAT 1184 1189	genou
+T26	Localization 1205 1213	en avant
+T27	LIVB 1239 1241	il
+T28	PROC 1276 1299	sauvetage du nouveau-né
+T29	PROC 1375 1389	médicamenteuse
+T30	PROC 1424 1436	intervention
+T31	PHEN 1441 1452	mort fœtale
+T32	TEMP 1473 1476	J+4
+T33	CHEM 1533 1570	méthylprednisolone acide clavulanique
+T34	DISO 1606 1642	symptômes neuropsychiatriques aiguës
+T35	Concept_Idea 1758 1776	état hémodynamique
+T36	PROC 1865 1889	consultations prénatales
+T37	PROC 1893 1922	examen clinique préopératoire
+T38	DISO 1942 1956	particularités
+T39	MEAS 2024 2031	simples
+T40	DISO 2174 2197	décompensation primaire
+T41	PROC 2217 2239	transfusions électives

@@ -1,0 +1,12 @@
+T1	PROC 2 26	exploration chirurgicale
+T2	DISO 37 51	adénocarcinome
+T3	ANAT 58 74	paroi abdominale
+T4	Concept_Idea 78 85	contenu
+T5	MEAS 86 93	épanché
+T6	PROC 98 105	biopsie
+T7	DISO 133 177	mélanome du méso-sigmoïde cervico-thoracique
+T8	ANAT 145 177	méso-sigmoïde cervico-thoracique
+T9	PHEN 187 196	détection
+T10	MEAS 197 210	satisfaisante
+T11	PROC 216 242	examen immunohistochimique
+T12	Localization 273 281	centrale

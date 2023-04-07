@@ -1,0 +1,14 @@
+T2	PROC 170 189	anesthésie générale
+T3	CHEM 314 340	corticoïde isopropyramidal
+T4	CHEM 346 372	pénicilline ®µgamétoxazole
+T5	PROC 377 409	scanner thoraco abdomino pelvien
+T6	ANAT 385 409	thoraco abdomino pelvien
+T7	PROC 424 448	laparotomie exploratrice
+T8	DEVI 464 487	prothèse haute pression
+T9	MEAS 497 502	18 cm
+T10	Localization 508 524	face postérieure
+T11	MEAS 534 548	17 centimètres
+T12	MEAS 580 587	simples
+T13	PROC 614 632	geste anesthésique
+T14	PROC 687 711	réanimation pré néonatal
+T15	PROC 723 729	sortie

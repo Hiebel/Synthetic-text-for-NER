@@ -1,0 +1,28 @@
+T1	LIVB 3 10	patient
+T2	Concept_Idea 26 32	pesant
+T3	MEAS 33 39	100 kg
+T4	PROC 55 64	admission
+T5	Hospital 69 77	urgences
+T6	DISO 96 110	épigastralgies
+T7	TEMP 120 134	depuis 3 jours
+T8	DISO 151 157	sueurs
+T9	MEAS 158 166	profuses
+T10	PHEN 196 211	convulsionnelle
+T11	MEAS 226 237	progressive
+T12	DISO 253 274	détresse respiratoire
+T13	PHEN 262 274	respiratoire
+T14	DISO 395 410	symptomatologie
+T15	DISO 480 493	épigastralgie
+T16	MEAS 503 511	brulante
+T17	MEAS 566 571	80 kg
+T18	MEAS 583 589	rapide
+T19	Concept_Idea 593 599	taille
+T20	PROC 615 635	examen gynécologique
+T21	DISO 692 711	traumatisme pelvien
+T22	ANAT 704 711	pelvien
+T23	DISO 729 753	accouchement traumatique
+T24	PROC 758 763	suivi
+T25	MEAS 812 816	2/10
+T26	TEMP 891 902	20 semaines
+T27	PROC 908 914	partum
+T28	PROC 997 1009	annexectomie

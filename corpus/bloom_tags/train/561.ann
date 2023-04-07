@@ -1,0 +1,20 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 38 49	antécédents
+T3	MEAS 50 58	notables
+T4	PROC 60 65	admis
+T5	Hospital 69 89	service des urgences
+T6	DISO 100 125	insuffisance respiratoire
+T7	PHEN 113 125	respiratoire
+T8	ANAT 134 144	tachycarde
+T9	TEMP 156 170	120 battements
+T10	TEMP 171 181	par minute
+T11	PROC 185 208	auscultation pulmonaire
+T12	ANAT 198 208	pulmonaire
+T13	MEAS 215 222	normale
+T14	ANAT 236 247	thoraciques
+T15	PROC 268 284	bilan biologique
+T16	CHEM 301 314	noradrénaline
+T17	DOSE 316 324	1,5mg/kg
+T18	CHEM 340 361	metrine moxifloxacine
+T19	DOSE 363 370	3 mg/kg
+T20	MODE 372 378	per os

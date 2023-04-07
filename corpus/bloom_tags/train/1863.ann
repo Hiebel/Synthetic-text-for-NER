@@ -1,0 +1,21 @@
+T1	LIVB 4 12	patiente
+T2	DISO 56 79	hypertension artérielle
+T3	ANAT 69 79	artérielle
+T4	DISO 84 98	diabète type 2
+T5	PROC 103 114	chirurgical
+T6	PROC 136 154	traitement médical
+T7	CHEM 165 183	méthylprednisolone
+T8	CHEM 196 214	hydroxychloroquine
+T9	PROC 243 266	curiethérapie adjuvante
+T10	DISO 287 309	décollement sus cutané
+T11	Localization 299 302	sus
+T12	MEAS 317 322	15 Kg
+T13	DISO 355 376	perte de connaissance
+T14	DISO 397 425	manifestations neurologiques
+T15	DISO 428 445	paralysie faciale
+T16	DISO 449 477	polyarthralgie inflammatoire
+T17	TEMP 487 504	depuis 3 semaines
+T18	LIVB 513 517	elle
+T19	PROC 569 583	examen initial
+T20	LIVB 597 605	patiente
+T21	Concept_Idea 620 638	plan hémodynamique

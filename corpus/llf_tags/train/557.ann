@@ -1,0 +1,24 @@
+T1	LIVB 25 31	garçon
+T2	TEMP 39 44	8 ans
+T3	DISO 132 155	infections nosocomiales
+T4	DISO 161 190	maladie de Von Recklinghausen
+T5	TEMP 211 226	il y a 15 jours
+T6	Hospital 236 249	établissement
+T7	DISO 282 304	constipation chronique
+T8	DISO 318 326	anorexie
+T9	LIVB 344 351	parents
+T10	Concept_Idea 536 555	résultats cliniques
+T11	Concept_Idea 575 602	aspects médico-chirurgicaux
+T12	LIVB 628 635	jumeaux
+T13	DISO 687 702	fuites fébriles
+T14	PROC 730 745	examen physique
+T15	DISO 770 791	distension abdominale
+T16	DISO 801 826	déficit sensitivo-motrice
+T17	DISO 839 860	signes inflammatoires
+T18	MEAS 876 887	désagréable
+T19	DISO 903 924	syndrome hémorragique
+T20	MEAS 931 940	excepté 2
+T21	PROC 983 1016	bilan neuropsychiatrique standard
+T22	DISO 1068 1103	troubles fonctionnels psychomoteurs
+T23	DISO 1160 1209	lésions convulsives dysfonctionnelles polymorphes
+T24	DISO 1265 1308	épisodes dépressifs paroxystiques délirants

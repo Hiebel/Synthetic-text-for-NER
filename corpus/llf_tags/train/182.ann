@@ -1,0 +1,55 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	8 ans
+T3	DISO 79 98	contage tuberculeux
+T4	ANAT 87 98	tuberculeux
+T5	DISO 105 115	métastases
+T6	DISO 126 146	foyers métastatiques
+T7	DISO 161 184	hypertension artérielle
+T8	ANAT 174 184	artérielle
+T9	TEMP 194 205	depuis 2ans
+T10	Concept_Idea 241 253	état général
+T11	DISO 269 298	sensibilité basi-mandibulaire
+T12	ANAT 281 298	basi-mandibulaire
+T13	PROC 341 356	examen clinique
+T14	LIVB 373 379	garçon
+T15	DISO 396 425	distension abdomino-pelvienne
+T16	ANAT 407 425	abdomino-pelvienne
+T17	MEAS 441 456	progressivement
+T18	MEAS 475 483	7/6 cmHg
+T19	Localization 487 496	bilatéral
+T20	DISO 520 537	signes infectieux
+T21	DEVI 563 571	prothèse
+T22	LIVB 575 577	il
+T23	DISO 620 641	détresse respiratoire
+T24	PHEN 629 641	respiratoire
+T25	PROC 774 795	contrôle radiologique
+T26	PROC 806 825	anesthésie générale
+T27	PROC 841 869	prise en charge chirurgicale
+T28	LIVB 900 906	enfant
+T29	PROC 911 917	extubé
+T30	PROC 959 977	antibioprophylaxie
+T31	CHEM 987 997	corticoïde
+T32	CHEM 1015 1046	amoxicilline acide clavulanique
+T33	CHEM 1048 1072	acide acétyle glutamique
+T34	PROC 1086 1116	toilette oeso-gastro-duodénale
+T35	ANAT 1095 1116	oeso-gastro-duodénale
+T36	PROC 1159 1187	cholécystotomie exploratrice
+T37	Concept_Idea 1257 1266	caractère
+T38	Concept_Idea 1283 1311	localisations hémodynamiques
+T39	PROC 1319 1331	consultation
+T40	DISO 1397 1431	vomissements dysphoriques fébriles
+T41	Hospital 1452 1476	grosses voies digestives
+T42	ANAT 1495 1514	râles mésentériques
+T43	ANAT 1522 1553	aires ganglionnaires cervicales
+T44	ANAT 1554 1564	sein droit
+T45	Localization 1559 1564	droit
+T47	Localization 1652 1663	superficiel
+T48	ANAT 1698 1752	ganglions axillaires temporaux superficiels inferieurs
+T49	ANAT 1755 1787	nasopharyngés inférieurs gauches
+T50	Localization 1780 1787	gauches
+T51	MEAS 1860 1870	70 x 70 mm
+T52	MEAS 1873 1880	90x50mm
+T53	MEAS 1948 1961	5 millimètres
+T54	MEAS 2539 2546	simples
+T56	DISO 2565 2588	symptômes neurologiques
+T57	TEMP 2606 2613	12 mois

@@ -1,0 +1,10 @@
+T1	PROC 3 13	traitement
+T2	PROC 32 57	chimiothérapie palliative
+T3	CHEM 67 79	amoxicilline
+T4	CHEM 86 104	acide clavulanique
+T5	Concept_Idea 155 175	paramètres cliniques
+T6	DISO 194 215	syndrome hémorragique
+T7	MEAS 217 222	2 ème
+T8	TEMP 237 243	7 mois
+T9	TEMP 262 269	12 mois
+T10	TEMP 293 300	18 mois

@@ -1,0 +1,29 @@
+T1	LIVB 4 9	femme
+T2	PROC 35 47	hospitalisée
+T3	Hospital 52 74	urgences chirurgicales
+T4	DISO 98 151	syndrome d'épanchement péritonéal liquidien gastrique
+T5	ANAT 121 151	péritonéal liquidien gastrique
+T6	TEMP 161 174	depuis 3 mois
+T7	LIVB 181 183	sa
+T8	PROC 184 196	consultation
+T9	PROC 220 252	endoscopie oeso-gastro-duodénale
+T10	ANAT 231 252	oeso-gastro-duodénale
+T11	PROC 260 287	analyse anatomopathologique
+T12	DISO 315 374	épanchement péritonéaliquidien digito-pancréato-surrénalien
+T13	ANAT 327 374	péritonéaliquidien digito-pancréato-surrénalien
+T14	DISO 389 416	empyème iléo-cæco-hépatique
+T15	ANAT 397 416	iléo-cæco-hépatique
+T16	ANAT 437 452	méso-thoracique
+T17	MEAS 462 467	12 cm
+T18	Concept_Idea 471 480	grand axe
+T19	DISO 501 515	résidu tumoral
+T20	PROC 538 562	scanner abdomino-pélvien
+T21	ANAT 546 562	abdomino-pélvien
+T22	PROC 564 582	scannographie OGDC
+T23	DISO 600 670	masse tissulaire hypodense hypoéchogène hétérogène arrondie hyperdense
+T24	MEAS 679 693	15 centimètres
+T25	Concept_Idea 697 706	grand axe
+T26	ANAT 735 764	cavité péritonéale abdominale
+T27	ANAT 810 831	fosse para hyoïdienne
+T28	Concept_Idea 843 856	circonférence
+T29	MEAS 867 871	70mm

@@ -1,0 +1,30 @@
+T1	LIVB 4 12	patiente
+T2	MEAS 58 69	particulier
+T3	DISO 87 107	diabète hypertensive
+T4	DISO 113 142	hypertrophie cardiovasculaire
+T5	ANAT 126 142	cardiovasculaire
+T6	DISO 152 170	signe neurologique
+T7	LIVB 189 196	patient
+T8	PROC 201 206	reçue
+T9	Hospital 211 219	urgences
+T11	ANAT 238 249	abdominales
+T12	MEAS 264 275	progressive
+T13	TEMP 285 301	depuis 48 heures
+T14	DISO 317 338	sensibilité pelvienne
+T15	ANAT 329 338	pelvienne
+T16	MEAS 351 357	brutal
+T17	DISO 378 390	métrorragies
+T18	MEAS 416 429	plus marquées
+T19	PHEN 458 478	grossesse gémellaire
+T20	MEAS 523 527	1 kg
+T21	MEAS 531 535	5 kg
+T22	DISO 580 609	symptomatologie psychomotrice
+T23	MEAS 643 658	progressivement
+T24	Concept_Idea 662 668	taille
+T25	PROC 685 699	interrogatoire
+T26	DISO 733 747	rupture fœtale
+T27	PROC 773 797	exploration chirurgicale
+T28	DISO 814 859	masse tumorale tissulaire hétérogène kystique
+T29	MEAS 1067 1073	T4N0M0
+T30	PROC 1096 1105	évacuatée
+T31	MEAS 1123 1129	solide

@@ -1,0 +1,50 @@
+T1	MEAS 12 13	1
+T2	LIVB 35 45	femme âgée
+T3	TEMP 100 120	il ya plus de 15 ans
+T4	DISO 141 160	douleurs pelviennes
+T5	ANAT 150 160	pelviennes
+T6	Concept_Idea 220 232	état général
+T7	DISO 245 267	signes accompagnateurs
+T8	Concept_Idea 332 344	état général
+T9	PHEN 349 361	récupération
+T10	MEAS 372 385	satisfaisante
+T11	PROC 392 407	examen clinique
+T12	LIVB 426 434	patiente
+T13	DISO 444 454	apyrétique
+T14	DISO 458 472	asymptomatique
+T15	DISO 508 527	syndrome infectieux
+T16	DISO 559 582	déficit sensitivomoteur
+T17	DEVI 601 606	stylo
+T18	CHEM 926 940	neuroleptiques
+T19	TEMP 952 960	5 heures
+T20	MEAS 981 991	difficiles
+T21	Hospital 996 1017	urgences pédiatriques
+T22	Hospital 1031 1051	maternités primaires
+T23	PROC 1061 1080	traitement adjuvant
+T24	MEAS 1134 1141	simples
+T25	LIVB 1150 1160	nouveau-né
+T26	Concept_Idea 1169 1190	résultat neurologique
+T27	MEAS 1196 1204	très bon
+T28	Concept_Idea 1291 1311	constantes cliniques
+T29	PROC 1317 1351	prise en charge pluridisciplinaire
+T30	PROC 1441 1476	chirurgie orthopédique diagnostique
+T31	PROC 1501 1539	radiothérapie palliative thérapeutique
+T32	LIVB 1660 1667	malades
+T33	PROC 1693 1714	recherche étiologique
+T34	PROC 1719 1740	suivi ophtalmologique
+T35	PROC 1778 1813	thyroïdectomie totale scanno-guidée
+T36	PROC 1826 1958	anastomose cœlioscopique segmentaire transoesophagienne asymétrique rétromamelonnaire axillaire cervicale distale inverter torsadées
+T37	PROC 1988 2132	angioplastie endobuccale anévrysmale monofibroblastique bipariéto-duodénale percutanée achromédullaire antalgique périostèro-antéro-extériorisée
+T41	PROC 2477 2494	abord chirurgical
+T42	PROC 2502 2514	intervention
+T43	PROC 2596 2625	prélèvements bactériologiques
+T44	PROC 2684 2703	immunohistochimique
+T45	CHEM 2716 2747	amoxicilline acide clavulanique
+T46	CHEM 2752 2775	antibiotique Ringer B12
+T47	PROC 2790 2808	sérologies virales
+T48	ANAT 2833 2837	sang
+T49	MEAS 2858 2867	favorable
+T50	PROC 2873 2894	contrôle radiologique
+T51	TEMP 2918 2924	3 mois
+T52	DISO 2937 2945	récidive
+T53	DISO 2949 2968	récidive secondaire

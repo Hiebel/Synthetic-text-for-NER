@@ -1,0 +1,22 @@
+T1	LIVB 28 35	patient
+T2	PROC 72 116	ponction pleurale médiastinale biquotidienne
+T3	ANAT 81 116	pleurale médiastinale biquotidienne
+T4	CHEM 127 135	néfopril
+T5	CHEM 137 148	propranolol
+T6	PROC 162 220	injection intraveineuse d’acétylsulfanyl ciprofloxacilline
+T7	CHEM 188 220	acétylsulfanyl ciprofloxacilline
+T8	DISO 263 290	complications neurologiques
+T9	DISO 428 449	détresse respiratoire
+T10	PHEN 437 449	respiratoire
+T11	DISO 456 470	conjonctivales
+T12	LIVB 482 490	patiente
+T13	DISO 548 567	douleurs pelviennes
+T14	ANAT 557 567	pelviennes
+T15	DISO 589 626	souffrance abdomino-pelvienne globale
+T16	ANAT 600 626	abdomino-pelvienne globale
+T17	MEAS 668 677	brunâtres
+T18	DISO 738 766	méningo-infiltration maligne
+T19	DISO 772 807	purpura nécrolytique épérythémateux
+T20	DISO 813 857	dégénérescences sérétantes péribucellonaires
+T21	DISO 867 877	secondaire
+T22	PROC 882 907	exploration préopératoire

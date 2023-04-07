@@ -1,0 +1,43 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 38	trois ans
+T3	PROC 77 96	bilan préopératoire
+T4	DISO 112 133	syndrome hémorragique
+T5	Concept_Idea 143 163	chiffres tensionnels
+T6	MEAS 166 175	20/minute
+T7	PHEN 183 201	tension artérielle
+T8	ANAT 191 201	artérielle
+T9	MEAS 204 214	60/50 mmHg
+T10	PROC 218 237	électrocardiogramme
+T11	DISO 255 269	particularités
+T12	PROC 283 310	numération formule sanguine
+T13	MEAS 321 328	normale
+T14	PROC 334 348	interrogatoire
+T15	LIVB 353 360	patient
+T16	DISO 381 416	douleurs du membre supérieur gauche
+T17	ANAT 393 416	membre supérieur gauche
+T18	Localization 410 416	gauche
+T19	DISO 427 444	signes infectieux
+T20	CHEM 500 531	amoxicilline acide clavulanique
+T21	DOSE 533 538	25 mg
+T22	TEMP 538 540	/j
+T23	PROC 547 591	saturation pulsée en vitamine B1 parentérale
+T24	CHEM 568 591	vitamine B1 parentérale
+T25	MODE 596 626	corticoïde intraveineux direct
+T26	DISO 710 739	symptômes neuropsychiatriques
+T27	PROC 744 780	complément thérapeutique chirurgical
+T28	MEAS 844 854	favorables
+T29	Concept_Idea 875 893	plan hémodynamique
+T30	MEAS 903 912	spontanée
+T31	PROC 928 964	antibioprophylaxie anti-pneumoccique
+T32	PROC 987 1009	traitements antérieurs
+T34	CHEM 1087 1099	midazolamide
+T35	PROC 1116 1188	néphrectomie totale ampullaire scanno bifaciale intraluminale percutanée
+T36	LIVB 1202 1212	nouveau-né
+T37	Concept_Idea 1221 1243	plan anatomopathologie
+T38	PROC 1251 1273	technique chirurgicale
+T39	Concept_Idea 1402 1426	fréquentabilité clinique
+T40	DEVI 1443 1472	produits congelés injectables
+T41	DISO 1589 1597	troubles
+T42	Concept_Idea 1610 1637	aspect clinico-radiologique
+T43	DISO 1685 1702	maladie néonatale
+T44	DISO 1719 1741	mort fœtale secondaire

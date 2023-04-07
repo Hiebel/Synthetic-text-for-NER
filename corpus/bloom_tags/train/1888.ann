@@ -1,0 +1,29 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	Hospital 97 105	urgences
+T5	DISO 124 136	hyperthermie
+T6	MEAS 148 152	39°C
+T7	PROC 157 172	examen clinique
+T8	DISO 190 218	polypnéité obstructive aigue
+T9	TEMP 239 256	depuis deux jours
+T10	PHEN 287 302	acuité visuelle
+T11	PROC 312 342	auscultation pleuro-pulmonaire
+T12	ANAT 325 342	pleuro-pulmonaire
+T13	DISO 374 383	anomalies
+T14	ANAT 404 415	thoraciques
+T15	Concept_Idea 436 450	professionnels
+T16	PROC 465 480	hospitalisation
+T17	PROC 486 509	radiothérapie adjuvante
+T18	DISO 559 590	complications thromboemboliques
+T19	PROC 740 773	radio-chimiothérapie concomitante
+T20	MEAS 788 800	insuffisante
+T21	PROC 815 858	ponction liquide céphalorachidiencéphalique
+T22	ANAT 824 858	liquide céphalorachidiencéphalique
+T23	PROC 882 905	anesthésielocorégionale
+T24	DOSE 934 939	100ml
+T25	DOSE 1049 1055	750 mg
+T26	CHEM 1059 1071	carboplatine
+T27	DOSE 1074 1077	2 g
+T28	CHEM 1081 1090	docetaxel
+T29	MODE 1092 1129	transfusions sanguines intraveineuses

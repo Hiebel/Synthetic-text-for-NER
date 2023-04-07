@@ -1,0 +1,25 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 38 43	3 ans
+T3	Concept_Idea 50 75	antécédents pathologiques
+T4	MEAS 76 88	particuliers
+T5	PROC 90 94	reçu
+T6	Hospital 99 107	urgences
+T7	DISO 117 129	vomissements
+T8	DISO 137 143	fièvre
+T9	TEMP 164 178	depuis un mois
+T10	PROC 182 197	examen clinique
+T11	PROC 202 211	admission
+T12	DISO 255 276	détresse respiratoire
+T13	PHEN 264 276	respiratoire
+T14	ANAT 300 318	lambeau thoracique
+T15	PROC 323 340	bilan étiologique
+T16	DISO 358 374	hyperleucocytose
+T17	MEAS 377 396	12000 éléments/mm 3
+T18	CHEM 398 425	polynucléaires neutrophiles
+T19	DISO 445 490	syndrome d'épanchement périphérique lésionnel
+T20	Localization 468 480	périphérique
+T21	DISO 495 528	tuberculose érythémato-pustuleuse
+T22	DISO 580 605	atteinte cutanéo-muqueuse
+T23	ANAT 589 605	cutanéo-muqueuse
+T24	DISO 633 652	maladie infectieuse
+T25	DISO 662 679	affection cutanée

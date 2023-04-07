@@ -1,0 +1,37 @@
+T1	LIVB 3 8	jeune
+T2	LIVB 9 15	garçon
+T3	TEMP 23 29	15 ans
+T4	DISO 50 78	accident de la voie publique
+T5	LIVB 97 100	lui
+T6	DISO 105 124	décharge électrique
+T7	PROC 128 143	examen clinique
+T8	LIVB 156 163	patient
+T9	MEAS 167 170	bon
+T10	Concept_Idea 171 183	état général
+T11	ANAT 193 205	conjonctives
+T12	MEAS 206 219	bien colorées
+T13	DISO 225 244	signe inflammatoire
+T14	DISO 248 258	infectieux
+T15	PROC 282 298	examen somatique
+T16	DISO 310 323	particularité
+T17	PROC 328 350	radiographie du bassin
+T18	ANAT 344 350	bassin
+T19	Concept_Idea 368 387	aspect histologique
+T20	PROC 395 409	interrogatoire
+T21	DISO 433 450	récidive tumorale
+T22	Concept_Idea 474 494	aspect morphologique
+T23	PROC 499 534	investigations anatomopathologiques
+T24	Localization 568 582	parties molles
+T25	PROC 632 652	biopsie chirurgicale
+T26	MEAS 670 678	négative
+T27	PROC 684 709	néphrectomie exploratrice
+T28	PROC 738 766	chimiothérapie néo adjuvante
+T29	CHEM 772 783	Cisplatine®
+T30	DOSE 785 791	5mg/kg
+T31	TEMP 791 796	/jour
+T32	PROC 813 878	neuronavirenzine IIIcpx3 biphosphate déshydrogènase intrakaliémie
+T33	DEVI 893 929	cathéter double lumière monophasique
+T34	PROC 989 1001	avis médical
+T35	MEAS 1038 1045	simples
+T36	TEMP 1063 1069	4 mois
+T37	PROC 1094 1111	abord chirurgical

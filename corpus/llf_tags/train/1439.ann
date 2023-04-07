@@ -1,0 +1,87 @@
+T1	PROC 3 45	radiographie de l'abdomen sans préparation
+T2	ANAT 21 28	abdomen
+T3	DISO 65 96	processus lésionnel du pancréas
+T4	ANAT 88 96	pancréas
+T5	PROC 102 124	TDM thoraco-abdominale
+T6	ANAT 106 124	thoraco-abdominale
+T7	DISO 138 181	distension des voies aérodigestives gauches
+T8	ANAT 153 181	voies aérodigestives gauches
+T9	Localization 174 181	gauches
+T10	DISO 198 222	masse tissulaire lobulée
+T11	Concept_Idea 227 243	caractéristiques
+T12	DISO 266 345	carcinome épidermomateux à cellules chromophobes infiltrant le plan sous cutané
+T13	ANAT 329 345	plan sous cutané
+T14	ANAT 365 385	structures profondes
+T15	ANAT 392 424	sinus maxillaire inférieur droit
+T16	Localization 419 424	droit
+T17	LIVB 429 437	patiente
+T18	PROC 456 484	chimiothérapie néo adjuvante
+T19	CHEM 490 499	tadalafil
+T20	DOSE 501 506	10 mg
+T21	TEMP 506 508	/j
+T22	PROC 523 543	exérèse chirurgicale
+T23	Concept_Idea 574 602	limites anatomopathologiques
+T24	LIVB 664 673	oncologue
+T25	LIVB 677 683	malade
+T26	MEAS 702 710	négative
+T27	PROC 715 734	bilan préopératoire
+T28	PROC 758 776	fibroscopie souple
+T29	PROC 795 833	laparotomie exploratrice scanno-guidée
+T30	Concept_Idea 856 876	paramètres cliniques
+T31	LIVB 916 924	patiente
+T32	MEAS 961 968	simples
+T33	PROC 982 1023	néphrectomie totale endovaginale monobloc
+T34	DISO 1050 1071	complexe hémorragique
+T35	DISO 1081 1102	trouble hémodynamique
+T36	PROC 1124 1146	traitement chirurgical
+T37	PROC 1151 1172	contrôle radiologique
+T38	MEAS 1184 1191	précoce
+T39	Concept_Idea 1200 1222	critères diagnostiques
+T40	PHEN 1251 1273	grossesses gémellaires
+T41	MEAS 1291 1299	normales
+T42	PROC 1304 1332	scanner oeso-gastroduodénale
+T43	ANAT 1312 1332	oeso-gastroduodénale
+T44	PROC 1353 1375	consultation prénatale
+T45	DISO 1395 1403	anomalie
+T46	DISO 1422 1442	déficit neurologique
+T47	PROC 1454 1478	échographie obstétricale
+T48	PROC 1504 1528	prise en charge médicale
+T49	DISO 1563 1590	hypertension intracrânienne
+T50	ANAT 1576 1590	intracrânienne
+T51	MEAS 1601 1611	170 mmol/l
+T52	MEAS 1619 1631	4600 grammes
+T53	DISO 1664 1693	symptomatologie hypokinétique
+T54	PROC 1747 1761	post ménopause
+T55	MEAS 1781 1789	30mmol/l
+T56	MEAS 1805 1820	progressivement
+T57	MEAS 1840 1844	40°C
+T58	DISO 1873 1911	insuffisance hépato-occlusive fundique
+T59	ANAT 1886 1911	hépato-occlusive fundique
+T60	DISO 1930 1961	syndrome dysantéro-hémorragique
+T61	DISO 1995 2011	maladie cœliaque
+T62	Concept_Idea 2027 2046	aspect histologique
+T63	Concept_Idea 2069 2088	faiblesse pondérale
+T64	Concept_Idea 2232 2262	résultats immunohistochimiques
+T65	DISO 2272 2299	hyperleucocytose diabétique
+T66	DISO 2327 2372	neurofibromatophobie primaire polycyclidienne
+T67	LIVB 2430 2443	obstétriciens
+T69	DISO 3069 3097	accident vasculaire cérébral
+T70	ANAT 3089 3097	cérébral
+T71	DISO 3154 3183	trouble des fonctions vitales
+T72	PHEN 3166 3183	fonctions vitales
+T73	DISO 3253 3272	sarcoïdose septique
+T74	DISO 3287 3303	foyer infectieux
+T75	LIVB 3312 3322	nourrisson
+T76	PROC 3364 3386	traitement chirurgical
+T77	PROC 3419 3436	bilan étiologique
+T78	DISO 3463 3502	inflammation digestive péri péritonéale
+T79	CHEM 3524 3551	médicaments antibacillaires
+T80	CHEM 3557 3573	fluoroquinolones
+T81	CHEM 3576 3589	amoxicillines
+T82	CHEM 3591 3615	acide salicylsalicylique
+T83	DOSE 3656 3658	2g
+T84	TEMP 3658 3668	/24 heures
+T86	PROC 3736 3776	injections intramusculaires fractionnées
+T87	CHEM 3835 3865	pénicilline acide clavulanique
+T88	TEMP 3875 3885	/24 heures
+T89	MEAS 4128 4144	312 gramme -1 mL

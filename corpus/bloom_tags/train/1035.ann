@@ -1,0 +1,30 @@
+T1	LIVB 4 12	patiente
+T2	PROC 34 39	reçue
+T3	Hospital 44 66	urgences chirurgicales
+T4	DISO 75 150	syndrome d'épanchement tissulaire liquidien basithyroïdiens inférieur droit
+T5	ANAT 98 150	tissulaire liquidien basithyroïdiens inférieur droit
+T6	Localization 145 150	droit
+T7	TEMP 160 173	depuis 1 mois
+T8	Concept_Idea 208 214	volume
+T9	MEAS 219 228	20 litres
+T10	MEAS 231 240	70 litres
+T11	DISO 259 276	dyspnée sifflante
+T12	MEAS 291 297	rapide
+T13	DISO 335 355	ictère choléstatique
+T14	DISO 394 423	sensibilité hypochondre droit
+T15	ANAT 406 423	hypochondre droit
+T16	Localization 418 423	droit
+T17	MEAS 439 450	prolapsante
+T18	ANAT 477 491	surrénaliennes
+T19	ANAT 504 530	hypophyse rétro hyoïdienne
+T20	ANAT 540 554	sous-rectoriel
+T21	DISO 581 610	symptomatologie fonctionnelle
+T22	DISO 624 637	consanguinité
+T23	LIVB 646 653	famille
+T24	DISO 701 725	symptomatologie clinique
+T26	DOSE 804 812	200mg/m²
+T27	MODE 813 823	voie orale
+T29	DEVI 887 916	attelle transfixiante plâtrée
+T30	DISO 946 978	effractions intrapéritonéalaires
+T31	ANAT 958 978	intrapéritonéalaires
+T32	LIVB 1137 1145	patients

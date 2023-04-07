@@ -1,0 +1,15 @@
+T1	PROC 6 26	reprise chirurgicale
+T2	LIVB 31 38	patient
+T3	DISO 54 73	insuffisance rénale
+T4	ANAT 67 73	rénale
+T5	MEAS 76 84	2 litres
+T6	TEMP 84 86	/j
+T7	DISO 101 126	syndrome de malabsorption
+T8	PROC 130 156	examen anatomopathologique
+T9	Concept_Idea 163 170	biopsie
+T10	DISO 192 218	carcinome du paragangliome
+T12	PROC 222 241	électrorétinogramme
+T13	PROC 243 246	ERG
+T14	PROC 253 272	électro-oculométrie
+T15	PROC 274 277	EOG
+T16	MEAS 292 299	normaux

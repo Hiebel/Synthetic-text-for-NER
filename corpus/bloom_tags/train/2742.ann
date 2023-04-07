@@ -1,0 +1,29 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	6 ans
+T3	PROC 36 41	admis
+T4	Hospital 46 54	urgences
+T5	DISO 64 99	douleurs abdomino-pelviennes aiguës
+T6	ANAT 73 92	abdomino-pelviennes
+T7	DISO 117 131	amaigrissement
+T8	MEAS 142 146	4 kg
+T9	TEMP 150 160	trois mois
+T10	PROC 164 189	intervention chirurgicale
+T11	Localization 222 229	médiane
+T12	ANAT 246 253	ombilic
+T13	Concept_Idea 260 270	profondeur
+T14	MEAS 287 291	2 cm
+T15	PROC 295 320	exploration préopératoire
+T17	ANAT 347 358	flanc droit
+T18	Localization 353 358	droit
+T19	MEAS 368 372	12cm
+T20	PROC 400 409	injection
+T21	DOSE 413 420	10ml/kg
+T22	CHEM 424 444	produit de contraste
+T23	DISO 465 481	lésion hypodense
+T24	ANAT 498 517	glandes ombilicales
+T25	DISO 523 542	extension pelvienne
+T26	ANAT 533 542	pelvienne
+T27	PROC 580 609	scanner abdomino-épigastrique
+T28	ANAT 588 609	abdomino-épigastrique
+T29	PROC 623 644	échographie hépatique
+T30	ANAT 635 644	hépatique

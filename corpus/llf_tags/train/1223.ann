@@ -1,0 +1,19 @@
+T1	PROC 3 20	bilan d'extension
+T2	DISO 37 49	adénopathies
+T3	Localization 66 78	face interne
+T4	ANAT 82 88	thorax
+T5	LIVB 93 101	patiente
+T6	PROC 118 136	antibioprophylaxie
+T7	CHEM 141 172	amoxicilline acide clavulanique
+T8	DOSE 185 188	2 g
+T9	TEMP 188 193	/jour
+T10	PROC 209 230	traitement antalgique
+T11	CHEM 220 230	antalgique
+T12	PROC 238 266	chimiothérapie néo adjuvante
+T13	CHEM 279 310	amoxicilline acide clavulanique
+T14	CHEM 319 346	triméthoprimesulfaméthonium
+T15	MODE 350 370	intraveineux profond
+T16	DEVI 372 383	sus-pédieux
+T17	MEAS 417 424	simples
+T18	DISO 430 451	récidive neurologique
+T19	DISO 455 496	syndrome infectieux cliniquement suspecté

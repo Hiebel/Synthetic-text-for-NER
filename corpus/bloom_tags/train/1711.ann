@@ -1,0 +1,70 @@
+T1	LIVB 29 37	patiente
+T2	DISO 74 112	carcinome parathyroïdien hypoéchoguidé
+T3	ANAT 84 112	parathyroïdien hypoéchoguidé
+T4	TEMP 122 135	depuis 10 ans
+T5	PROC 141 165	chimiothérapie adjuvante
+T6	CHEM 170 178	Cyclovir
+T7	DOSE 184 192	2RHZ/4RH
+T8	CHEM 213 228	antituberculeux
+T9	PROC 239 247	adressée
+T10	Hospital 257 270	établissement
+T11	PROC 290 317	explorations préopératoires
+T12	MEAS 335 343	positifs
+T13	PROC 352 385	techniques d'immuno-histochimique
+T14	PROC 395 410	immuno-marquage
+T15	DISO 427 441	myxométastases
+T16	ANAT 452 475	épithélo-gigacellulaire
+T17	MEAS 539 549	stade I-II
+T18	PROC 559 583	classification de BIRADS
+T19	LIVB 607 615	patiente
+T20	PROC 634 671	laparotomie exploratrice chirurgicale
+T21	DISO 694 710	masse tissulaire
+T22	MEAS 720 725	20 cm
+T23	Concept_Idea 729 738	grand axe
+T24	ANAT 760 781	vésicules péritonéaux
+T25	DISO 946 955	malignité
+T26	DISO 983 1020	localisation secondaire métastatiques
+T27	PROC 1023 1048	étude anatomopathologique
+T28	DISO 1082 1152	lymphangioendothélium nécrotique angiosarcomateux infiltré vascularisé
+T29	ANAT 1186 1200	méso-péritoine
+T30	ANAT 1352 1390	intraintraréctal liquidien lithiasique
+T31	DISO 1451 1499	vascularisations ostéovasculaires hypokinétiques
+T32	DISO 1509 1525	thromboembolique
+T33	DISO 1547 1586	hyperplasie fibro-adiploide polyclonale
+T34	DISO 1593 1617	maladie nécrose sanguine
+T35	DISO 1622 1651	œsophage stromal hypertrophié
+T36	LIVB 1672 1683	jeune homme
+T37	TEMP 1691 1697	28 ans
+T38	MEAS 1710 1721	progressive
+T39	DISO 1755 1793	hypertension artérielle intracrânienne
+T40	ANAT 1768 1793	artérielle intracrânienne
+T41	MEAS 1808 1819	progressive
+T42	MEAS 1829 1840	insuffiante
+T43	PROC 1857 1875	traitement médical
+T44	CHEM 1888 1899	Enoxaparine
+T45	CHEM 1911 1925	Inexaméthasone
+T46	DOSE 1926 1932	200 mg
+T47	CHEM 1935 1946	Ceftriaxone
+T48	DOSE 1947 1952	40 mg
+T49	MODE 1954 1974	transfusion sanguine
+T50	DEVI 2008 2044	sonde ventriculaire transoesophagien
+T52	PROC 2101 2138	monitorage échocardio-transthoracique
+T53	MEAS 2146 2155	déterminé
+T54	DISO 2191 2220	symptomatologie neuroderveuse
+T55	DISO 2278 2301	douleur du flanc droite
+T56	ANAT 2289 2301	flanc droite
+T57	Localization 2295 2301	droite
+T58	DISO 2317 2337	vomissements bilieux
+T59	Concept_Idea 2340 2349	intensité
+T60	MEAS 2350 2357	modérée
+T61	DISO 2371 2387	signes cliniques
+T62	PROC 2402 2422	examen gynécologique
+T63	PHEN 2443 2464	cicatrice menstruelle
+T64	MEAS 2465 2479	plus accentuée
+T65	PROC 2497 2526	échographie abdominopelvienne
+T66	ANAT 2509 2526	abdominopelvienne
+T67	DISO 2548 2583	épanchement intra-rectal péritonéal
+T68	ANAT 2560 2583	intra-rectal péritonéal
+T69	MEAS 2593 2598	12 cm
+T70	MEAS 2603 2607	6 cm
+T71	ANAT 2624 2643	grosses épiploïques

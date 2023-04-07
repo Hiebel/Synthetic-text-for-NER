@@ -1,0 +1,90 @@
+T1	LIVB 16 24	patiente
+T2	PROC 68 78	césarienne
+T3	DISO 84 103	douleurs pelviennes
+T4	ANAT 93 103	pelviennes
+T5	PROC 107 122	examen clinique
+T6	DISO 139 155	râles crépitants
+T7	ANAT 164 176	scarpa droit
+T8	Localization 171 176	droit
+T9	MEAS 185 190	léger
+T10	DISO 191 206	pneumomédiastin
+T11	ANAT 241 264	tronc spléno-mésaraique
+T12	TEMP 274 292	depuis trois jours
+T13	DISO 308 329	signes inflammatoires
+T14	Concept_Idea 343 354	température
+T15	MEAS 372 376	39°C
+T16	PHEN 382 391	grossesse
+T17	PROC 408 414	suivie
+T18	TEMP 431 439	six mois
+T19	PROC 445 484	tomodensitométrie par cohérence optique
+T20	PROC 486 517	TDM) thoraco abdomino-pelvienne
+T21	ANAT 491 517	thoraco abdomino-pelvienne
+T22	DEVI 539 557	parois anéchogènes
+T23	PROC 580 599	anesthésie générale
+T24	MEAS 622 634	irrégulières
+T25	MEAS 659 668	18 x 8 cm
+T26	MEAS 672 679	14x5 cm
+T27	PROC 685 724	radiographie obstétricale préopératoire
+T28	LIVB 742 750	patiente
+T29	MEAS 767 779	contributive
+T30	Localization 823 829	latéro
+T31	Localization 867 878	bilatérales
+T32	CHEM 927 937	aménorrhée
+T33	MEAS 987 995	0,3 mg/l
+T34	DOSE 1006 1011	1 mGy
+T35	PROC 1143 1165	lavage broncho pelvien
+T36	ANAT 1150 1165	broncho pelvien
+T37	Concept_Idea 1204 1225	tableau morphologique
+T38	DISO 1242 1279	cholécystectomie monobloc congénitale
+T39	PROC 1284 1305	contrôle radiologique
+T40	PROC 1322 1332	diagnostic
+T41	DISO 1352 1360	anomalie
+T42	DISO 1364 1394	facteur de risque hémorragique
+T43	DISO 1422 1457	récidive thromboembolique familiale
+T44	Concept_Idea 1495 1521	aspect immunohistochimique
+T45	DISO 1551 1589	syndrome polymalformatif néphrotoxique
+T46	PROC 1696 1747	néphrectomie transoesogastroduodénale scanno-guidée
+T47	PROC 1763 1798	extubation endotrachéale percutanée
+T48	PROC 1865 1914	hystérectomie totale rétromédullaire exploratrice
+T49	Concept_Idea 1923 1951	résultat anatomopathologique
+T50	DISO 1974 2009	symptomatologie infectieuse maligne
+T51	PROC 2023 2056	consultations pluridisciplinaires
+T52	DISO 2130 2185	métastase métastatique hétérozygote gestationisplénique
+T53	DISO 2237 2278	méningo-encéphalite tuberculeuse kystique
+T54	PROC 2306 2324	étude histologique
+T55	PROC 2544 2580	complément thérapeutique chirurgical
+T56	MEAS 2609 2618	important
+T57	Concept_Idea 2638 2645	valeurs
+T58	DISO 2785 2814	maladie auto-immune primitive
+T59	LIVB 2882 2890	patiente
+T60	CHEM 2907 2938	amoxicilline acide clavulanique
+T61	PROC 2964 2983	traitement adjuvant
+T62	PROC 2991 3028	lavage nerveux des cavités urétérales
+T63	ANAT 2998 3005	nerveux
+T64	ANAT 3010 3028	cavités urétérales
+T65	DEVI 3056 3080	lambeau céphalorachidien
+T66	PHEN 3099 3108	grossesse
+T67	DISO 3129 3142	particularité
+T68	LIVB 3172 3183	jeune homme
+T69	PROC 3247 3252	suivi
+T70	DISO 3269 3306	chirurgie cervico-faciale congénitale
+T71	LIVB 3316 3318	il
+T72	PROC 3332 3337	opéré
+T73	Hospital 3342 3385	urgences traumato-orthopédiques pédiatrique
+T74	PROC 3411 3426	prise en charge
+T75	DISO 3436 3457	troubles obstétricaux
+T76	DISO 3469 3483	déficit moteur
+T77	DISO 3493 3519	signes neuropsychiatriques
+T78	LIVB 3531 3539	patiente
+T79	PROC 3544 3574	bilan biologique préopératoire
+T80	DISO 3602 3618	hyperleucocytose
+T81	DISO 3629 3664	perceptions délirantes psychotiques
+T82	PROC 3699 3721	examen ophtalmologique
+T83	MEAS 3761 3774	satisfaisante
+T84	Concept_Idea 3830 3842	état général
+T85	DISO 3859 3882	pâleur cutanéomuqueuses
+T86	PROC 3919 3934	bloc opératoire
+T87	DISO 3957 4000	lésion ostéolytique érythémato-mandibulaire
+T88	ANAT 4019 4044	lumière pharyngo-laryngée
+T89	MEAS 4054 4059	14 cm
+T90	Concept_Idea 4063 4072	grand axe

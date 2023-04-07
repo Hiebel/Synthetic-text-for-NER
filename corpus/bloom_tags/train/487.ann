@@ -1,0 +1,38 @@
+T1	LIVB 29 37	patiente
+T2	DISO 72 97	tuméfaction du sein droit
+T3	ANAT 87 97	sein droit
+T4	Localization 92 97	droit
+T5	MEAS 109 124	progressivement
+T6	Concept_Idea 128 134	volume
+T7	DISO 150 162	métrorragies
+T8	DISO 168 191	adénopathies axillaires
+T9	ANAT 181 191	axillaires
+T10	PROC 196 206	diagnostic
+T11	DISO 231 269	processus ostéo-épanchement péritonéal
+T12	ANAT 259 269	péritonéal
+T13	TEMP 279 291	depuis 3mois
+T14	DISO 386 408	symptômes fonctionnels
+T15	MEAS 418 432	plus accentués
+T16	DISO 444 470	douleur abdomino pelvienne
+T17	ANAT 452 470	abdomino pelvienne
+T18	DISO 480 493	cholestatique
+T19	DISO 563 581	nausée hémoragique
+T20	DISO 619 648	sensations d'épisodes fébrile
+T21	MEAS 687 694	brutale
+T22	DISO 709 717	anorexie
+T23	MEAS 732 746	lentiglissante
+T24	PROC 774 782	explorée
+T25	PROC 786 801	examen clinique
+T26	DISO 817 848	masse tumorale arrondie ulcérée
+T27	MEAS 858 863	20 cm
+T28	Concept_Idea 867 876	grand axe
+T29	ANAT 894 943	quadrant supéro-externe cervico-thoracique gauche
+T30	MEAS 951 956	14 kg
+T31	ANAT 989 1031	aires ganglionnaires axillaires pariétales
+T32	Localization 1123 1129	gauche
+T33	MEAS 1153 1157	45cm
+T34	Concept_Idea 1175 1186	consistance
+T35	DISO 1210 1241	localisation gynécalo-reductile
+T36	DISO 1296 1329	syndrome inflammatoire biologique
+T37	PROC 1330 1333	CRP
+T39	PROC 1342 1372	tomodensitométrie exploratrice

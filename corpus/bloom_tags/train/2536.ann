@@ -1,0 +1,24 @@
+T1	LIVB 3 10	patient
+T2	Concept_Idea 27 52	antécédents pathologiques
+T3	MEAS 53 65	particuliers
+T4	PROC 67 77	consultait
+T5	DISO 87 116	douleurs épigastriques aiguës
+T6	ANAT 96 109	épigastriques
+T7	DISO 133 139	fièvre
+T8	TEMP 149 166	depuis deux jours
+T9	PROC 170 185	examen clinique
+T10	DISO 203 233	sensibilité abdomino-pelvienne
+T11	ANAT 215 233	abdomino-pelvienne
+T12	DISO 253 272	saignement purulent
+T13	ANAT 286 297	flanc droit
+T14	Localization 292 297	droit
+T15	PROC 302 318	bilan biologique
+T16	PROC 336 355	hémoglobine glyquée
+T17	MEAS 358 360	7%
+T18	PROC 367 394	taux de prothrombine activé
+T19	PROC 396 399	TPA
+T20	MEAS 403 406	25%
+T21	DISO 419 438	hyperprotéinorachie
+T22	DISO 455 470	symptomatologie
+T23	PROC 496 529	intradermo-réaction à la protéine
+T24	CHEM 521 529	protéine

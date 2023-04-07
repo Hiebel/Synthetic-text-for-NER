@@ -1,0 +1,64 @@
+T1	LIVB 16 24	patiente
+T2	PROC 50 56	admise
+T3	Hospital 61 69	urgences
+T4	DISO 79 86	douleur
+T5	ANAT 100 123	membre supérieur gauche
+T6	Localization 117 123	gauche
+T7	DISO 140 164	symptomatologie clinique
+T8	TEMP 175 190	plusieurs jours
+T9	DISO 223 246	déficit sensitivomoteur
+T10	DISO 256 276	vomissements bilieux
+T11	DISO 281 299	syndrome dysphagie
+T12	Concept_Idea 312 323	antécédents
+T13	DISO 337 348	traumatisme
+T14	MEAS 373 378	trois
+T15	LIVB 379 390	primigestes
+T16	PROC 407 421	interrogatoire
+T17	DISO 464 479	symptomatologie
+T18	LIVB 535 542	malades
+T19	DISO 586 600	hallucinations
+T20	PROC 629 648	enquête étiologique
+T21	DISO 717 732	symptomatologie
+T22	DISO 789 823	symptomatologie neuropsychiatrique
+T23	CHEM 1176 1189	amoxicilline®
+T24	PROC 1303 1362	mastectomie exploratrice scanno-guidée cervico-thyroïdienne
+T25	PROC 1368 1419	anastomose colo-mandibulaire herniaire axillaire T2
+T27	PROC 1433 1505	néphrectomie totale endonasale gastroduodénale mono-jéjunale distale BWS
+T28	PHEN 1529 1544	fonction rénale
+T29	ANAT 1538 1544	rénale
+T30	MEAS 1558 1571	satisfaisante
+T31	Concept_Idea 1598 1616	facteur rhumatoïde
+T32	PROC 1639 1650	transfusion
+T33	PROC 1655 1676	contrôle radiologique
+T34	PROC 1697 1726	prise en charge thérapeutique
+T35	DEVI 1738 1753	ampoule rectale
+T36	MEAS 1754 1758	vide
+T37	MEAS 1767 1771	3 cm
+T38	MEAS 1774 1780	0,5 ml
+T39	MEAS 1795 1808	7 centimètres
+T40	Concept_Idea 1812 1822	profondeur
+T41	MEAS 1859 1863	bien
+T42	PROC 1864 1870	suivie
+T43	PROC 1892 1907	radio digestive
+T44	TEMP 1916 1925	24 heures
+T45	PROC 1938 1963	circoncision chirurgicale
+T46	PROC 2022 2064	consultation ophtalmologique préopératoire
+T47	DISO 2116 2162	trouble oedémato-hypoglombopharyngiome myxoide
+T48	DISO 2201 2236	dégénérescence maculaire rétinienne
+T49	LIVB 2279 2289	nourrisson
+T50	CHEM 2334 2353	methyl prednisolone
+T51	Concept_Idea 2366 2388	habitudes alimentaires
+T52	PROC 2406 2431	étude immunohistochimique
+T53	PROC 2703 2707	RISA
+T54	MEAS 2709 2717	positifs
+T55	PROC 2855 2877	traitement chirurgical
+T56	PROC 2905 2933	antibioprophylaxie adjuvante
+T57	PROC 2937 3001	curage ganglionnaire cervico-thoracique transoesophagien laryngé
+T58	PROC 3002 3006	AVFT
+T59	PROC 3012 3027	bilan lipidique
+T60	DISO 3049 3057	anomalie
+T61	DISO 3075 3095	syndrome néphrotique
+T62	DISO 3102 3121	carcinose digestive
+T63	ANAT 3112 3121	digestive
+T64	LIVB 3148 3157	patientes
+T65	Concept_Idea 3166 3182	plan biochimique

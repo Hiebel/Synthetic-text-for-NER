@@ -1,0 +1,42 @@
+T1	LIVB 4 9	femme
+T2	MEAS 57 69	particuliers
+T3	PROC 76 82	admise
+T4	Hospital 87 95	urgences
+T5	DISO 105 146	douleurs abdominales aiguës constrictives
+T7	MEAS 161 167	rapide
+T8	DISO 202 214	hyperthermie
+T9	MEAS 243 247	38°c
+T10	PROC 253 262	admission
+T11	Hospital 266 273	urgence
+T12	LIVB 277 284	patient
+T13	Concept_Idea 315 333	plan hémodynamique
+T14	PHEN 337 349	respiratoire
+T15	Localization 351 366	au premier plan
+T16	DISO 383 399	troubles visuels
+T17	DISO 405 419	hallucinations
+T18	ANAT 432 441	artériels
+T19	MEAS 504 512	modérées
+T20	DISO 552 599	syndrome d'épanchement liquidien péripéritonéal
+T21	ANAT 575 599	liquidien péripéritonéal
+T22	DISO 632 656	paralysie buccodlinguale
+T23	ANAT 642 656	buccodlinguale
+T24	ANAT 678 694	muqueuse buccale
+T25	DISO 741 783	masse bourgeonnante prurigineuse pariétale
+T26	MEAS 793 797	5 cm
+T27	Concept_Idea 801 810	grand axe
+T28	ANAT 831 844	sinus crânien
+T29	ANAT 865 882	vésicule biliaire
+T30	MEAS 899 907	palpable
+T31	PROC 912 956	tomodensitométrie thoraco-abdomino-pelvienne
+T32	ANAT 930 956	thoraco-abdomino-pelvienne
+T33	PROC 972 981	injection
+T34	DOSE 985 990	2g/kg
+T35	CHEM 994 1014	produit de contraste
+T36	PROC 1020 1052	contraception utéro-myométrielle
+T37	ANAT 1034 1052	utéro-myométrielle
+T38	MODE 1057 1078	voie veineuse directe
+T39	DISO 1092 1134	hypothalamie hypophysaire hypo métabolisée
+T40	DISO 1151 1187	empyème intracrânien séreux infiltré
+T41	ANAT 1159 1187	intracrânien séreux infiltré
+T42	DISO 1243 1255	prurigineuse
+T43	ANAT 1276 1317	veines mésentériques jugulo-carotidiennes

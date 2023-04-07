@@ -1,0 +1,12 @@
+T1	LIVB 16 24	patiente
+T2	DISO 83 102	maladie auto-immune
+T3	DISO 125 143	symptômes grippaux
+T4	DISO 172 198	diabète insulino-requérant
+T5	DISO 252 280	troubles neuropsychiatriques
+T6	Concept_Idea 325 337	état général
+T7	Hospital 410 438	service de gastroentérologie
+T9	CHEM 474 489	anti bacillaire
+T10	CHEM 507 534	Simvastatine Restreintemie®
+T11	Concept_Idea 613 625	état général
+T12	LIVB 637 645	patiente
+T13	DISO 655 679	normocardite infectieuse

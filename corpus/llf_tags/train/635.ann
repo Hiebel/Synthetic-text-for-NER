@@ -1,0 +1,57 @@
+T1	LIVB 15 20	homme
+T2	DISO 63 86	hypertension artérielle
+T3	ANAT 76 86	artérielle
+T4	PROC 90 105	examen clinique
+T5	PROC 110 119	admission
+T6	LIVB 134 141	patient
+T7	MEAS 145 152	mauvais
+T8	Concept_Idea 153 165	état général
+T9	Concept_Idea 187 199	état général
+T10	DISO 207 230	symptômes neurologiques
+T11	PROC 244 260	bilan biologique
+T12	DISO 272 281	anomalies
+T13	PROC 286 300	TDM abdominale
+T14	ANAT 290 300	abdominale
+T15	DISO 335 372	masse hypo-nodulaire pariétale droite
+T16	Localization 366 372	droite
+T17	MEAS 381 394	environ 20 cm
+T18	Concept_Idea 398 407	grand axe
+T19	MEAS 417 421	7 cm
+T20	Concept_Idea 425 433	diamètre
+T21	PHEN 443 466	reflexes ostéotendineux
+T22	ANAT 452 466	ostéotendineux
+T23	MEAS 475 480	sains
+T24	PROC 486 510	laparotomie exploratrice
+T25	DEVI 584 606	voie veineuse profonde
+T26	MEAS 689 696	simples
+T27	TEMP 706 719	novembre 2017
+T28	PROC 724 745	contrôle radiologique
+T29	MEAS 757 764	négatif
+T30	TEMP 776 782	5 mois
+T31	Concept_Idea 795 815	aspect morphologique
+T32	DISO 832 866	pneumopathie chronique obstructive
+T33	CHEM 908 921	médicamenteux
+T34	DISO 968 973	plaie
+T35	LIVB 1002 1012	nouveau-né
+T36	PROC 1017 1042	scanner thoraco-abdominal
+T37	ANAT 1025 1042	thoraco-abdominal
+T38	PROC 1063 1091	prise en charge chirurgicale
+T39	DISO 1116 1185	opacité kystique jugulocytaire liquidienne basithoracique congénitale
+T40	ANAT 1206 1229	fascia abdomino-pelvien
+T41	ANAT 1251 1274	hémi-champs thoraciques
+T42	ANAT 1301 1334	troncs supra-aorto-ventriculaires
+T43	MEAS 1351 1355	4 cm
+T44	Concept_Idea 1359 1368	grand axe
+T45	PROC 1426 1436	anesthésie
+T46	MEAS 1450 1459	stade III
+T47	PROC 1469 1496	classification de Wasserman
+T48	MEAS 1507 1514	1/6 ème
+T49	MEAS 1577 1580	2cm
+T50	Concept_Idea 1584 1594	grande axe
+T51	PROC 1599 1619	suivi postopératoire
+T52	MEAS 1641 1649	correcte
+T53	DISO 1668 1679	hémorragies
+T54	DISO 1683 1720	perforation péritonéale inflammatoire
+T55	Concept_Idea 1729 1744	plan anatomique
+T56	DISO 1753 1769	récidive maligne
+T57	PROC 1802 1826	traitements chirurgicaux

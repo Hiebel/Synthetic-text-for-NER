@@ -1,0 +1,28 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	PROC 37 41	reçu
+T4	Hospital 46 54	urgences
+T5	DISO 64 84	douleurs abdominales
+T6	ANAT 73 84	abdominales
+T7	TEMP 94 107	depuis 2 mois
+T8	DISO 123 137	amaigrissement
+T9	MEAS 148 152	10kg
+T10	PROC 156 170	interrogatoire
+T11	DISO 195 209	épigastralgies
+T12	ANAT 248 256	pancréas
+T13	PROC 278 295	bilan étiologique
+T15	ANAT 315 321	rénale
+T16	DISO 338 360	cholécystite chronique
+T17	PROC 364 379	examen clinique
+T18	DISO 400 423	symptomatologie globale
+T19	DISO 429 452	anomalies hémorragiques
+T20	DISO 463 484	troubles métaboliques
+T21	Concept_Idea 498 522	vitesse de sédimentation
+T23	MEAS 535 539	70mm
+T24	TEMP 543 554	deux heures
+T25	MEAS 576 580	75mm
+T26	PROC 587 618	échographie abdomino- pelvienne
+T27	ANAT 599 618	abdomino- pelvienne
+T28	DEVI 657 665	serviers
+T29	PROC 680 696	touchers rectaux
+T30	ANAT 689 696	rectaux

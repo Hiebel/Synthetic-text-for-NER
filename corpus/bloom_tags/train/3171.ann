@@ -1,0 +1,35 @@
+T1	LIVB 28 35	patient
+T2	PROC 72 143	ponction liquide pleuro-pneumo-ganglionnaire pariétale trans-thoracique
+T3	ANAT 81 143	liquide pleuro-pneumo-ganglionnaire pariétale trans-thoracique
+T4	DISO 160 182	hémopéritoine purulent
+T5	DISO 209 323	syndrome d’épanchement pleural liquidien basithoracique périrénalo-néphrothoracique infarcto-myxo-rénal systémique
+T7	TEMP 333 347	depuis 10 mois
+T8	LIVB 354 356	sa
+T9	PROC 357 369	consultation
+T10	Hospital 374 399	urgences ophtalmologiques
+T11	LIVB 401 405	nous
+T12	PROC 426 448	technique chirurgicale
+T13	PROC 454 478	anesthésie locorégionale
+T14	ANAT 465 478	locorégionale
+T15	DISO 497 522	complication neurologique
+T16	DISO 526 542	vasculo-nerveuse
+T17	PROC 555 630	curage thoracique biliaire pancréatico-vésiculaire para médiastinal élargie
+T19	PROC 645 683	radiothérapie palliative radiodifférée
+T20	PROC 770 799	chimiothérapie anticarcéreuse
+T21	CHEM 823 836	dexaméthasone
+T22	DOSE 837 843	1mg/m²
+T23	CHEM 846 858	capécitabine
+T24	DOSE 860 867	2 µg/kg
+T25	MODE 869 879	voie orale
+T26	CHEM 882 900	methylprednisolone
+T27	DOSE 902 908	200 mg
+T28	CHEM 911 925	hydrocortisone
+T29	DOSE 927 933	100 mg
+T30	CHEM 937 953	méso-doxycycline
+T31	DOSE 955 961	750 mg
+T32	CHEM 965 976	Cyclosérine
+T33	PROC 982 1006	scanner abdomino-pelvien
+T34	ANAT 990 1006	abdomino-pelvien
+T35	DISO 1032 1106	masse solide tissulaire sus-hypophysaire bilatérale thoracique comprimante
+T36	ANAT 1056 1106	sus-hypophysaire bilatérale thoracique comprimante
+T38	MEAS 1116 1121	12 cm

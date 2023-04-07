@@ -1,0 +1,94 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 44 48	deux
+T3	LIVB 49 56	enfants
+T4	PROC 58 64	Suivie
+T5	DISO 73 97	syndrome polymalformatif
+T6	DISO 115 137	constipation chronique
+T7	DISO 145 181	douleurs basi-thoraciques chroniques
+T8	ANAT 154 170	basi-thoraciques
+T9	DISO 197 216	contage tuberculeux
+T10	DISO 226 246	symptôme psychotique
+T11	Concept_Idea 256 259	âge
+T12	LIVB 284 288	elle
+T13	CHEM 304 316	pénicillines
+T14	DOSE 329 331	2g
+T15	TEMP 331 335	/24h
+T16	PROC 360 388	antibiothérapie probabiliste
+T17	CHEM 390 421	amoxicilline acide clavulanique
+T18	CHEM 424 447	amoxicilline nifédipine
+T19	DISO 484 496	vomissements
+T20	TEMP 510 517	6 jours
+T21	PROC 536 546	traitement
+T22	DISO 558 564	crises
+T23	DISO 632 660	altération de l'état général
+T24	Concept_Idea 648 660	état général
+T25	LIVB 682 684	sa
+T26	LIVB 685 698	belle-famille
+T27	DEVI 721 735	bloc aspiratif
+T28	LIVB 894 918	confrères communautaires
+T29	LIVB 931 949	médecin urgentiste
+T30	PROC 968 987	traitement adjuvant
+T31	PHEN 1081 1090	grossesse
+T32	TEMP 1099 1106	21 mois
+T33	PROC 1111 1117	suivie
+T34	LIVB 1186 1189	son
+T35	LIVB 1190 1200	nouveau-né
+T36	CHEM 1214 4064	glucantime méthyl éthylaminoéthylène glycol Tétracycline Clopidogrel G Gamma Hormonale Oestrogene Bathycarde Pommade Xpériphérique Encéphalosporine Zentiva Organophosphocalcique Spironolactone Activitellin Erythromycine Flagyl Medtronicular Indications Antiseptiques Pastilles parentérales Chloramphénicol Arrow Manipulation Nitroflore Stoechodilatateur Adrénalinéaryngée Sérotémétrie Absolue Alcoolo-Récepteurs hormonaux Bêtalactamines Rhizobarbitaliques Récepteurs oestrogéniques Isoniazide Antispasmodiques Corticostéroïdes Polycycliques Amoxicilline Méthanolamine Gonadotrophine Chorionique Seringue électrique Diurétique Interactions médicamenteuses La prise en charge chirurgicale sera effectuée selon cette technique multidisciplinaire classiquement utilisée lorsqu'on veut éviter toute complication obstétricale infectieuse que peut causer cet intervention car c'est elle qui permet sa bonne prise en charge mais également son efficacité contre certaines lésions kystiques notamment hépatiques dont on ne connaît pas toutes les différents plans cliniques ni tous les résultats histologiques. Les suites opératoires étaient simples suivies rapidement d'une radiodiagnostic scanno-radiologique plus poussée ultérieurement suivie d'une anastomose thérapeutique postopératoire entre chaque abord chirurgical suivi ensuite d'une perfusion intraveineuse intrathrostatique afin de diminuer autant que possible ses troubles électrolytiques gênants vu leur caractère hémodynamique déjà bien installé. Un scanner préopératoire réalisé lors de la ventilation médicalement assistée mettait en évidence une masse tissulaire anéchogène péritonéale hétérogène faisant environ 6 cm de grand axe mesurant 50 mm de largeur et s'étendant du plan axial au parenchyme pulmonaire avec à l'examen tomodensitométrique, un rehaussement des vaisseaux bilieux mésentériques cervicaux péribronchovasculaires pariéto-temporo-mandibulaires antero-pubis lombaires transoesophagien sans anomalies radiologiques ainsi qu'un processus lésionnel postéro-sphinctérien malformatif arrivant jusqu'à la crête ilio-cervicale sur lequel est greffé un fil résorbable prenant tout le nerf grand pectoral (Figure 2). L'évolution était favorable sous contrôle échographique complété par une surveillance neuroradiologique associée à une thyroïdectomie longitudinale aorto-guidoïde asymétrique complétée par une hystérectomie totale bilatérale controlatérale supérieure médiane naso-céphalique basithoracique interne gauche lobulée 1/4 supérieur fente diaphragmatique homolatérale droite(Figure 4) Figure 3 Une patiente âgée de 30 ans avait été admis aux urgences dans un tableau de détresse respiratoire aiguë évoluant depuis 10 jours associé à une altération de l'état général ayant nécessité chez ce malade une consultation externe urgente pour traitement adjuvant : Acide salicylique
+T37	PROC 1872 1900	prise en charge chirurgicale
+T38	PROC 1928 1956	technique multidisciplinaire
+T39	DISO 2008 2045	complication obstétricale infectieuse
+T40	PROC 2066 2078	intervention
+T41	DISO 2177 2194	lésions kystiques
+T42	Concept_Idea 2251 2277	différents plans cliniques
+T43	Concept_Idea 2290 2313	résultats histologiques
+T44	MEAS 2346 2353	simples
+T45	PROC 2379 2414	radiodiagnostic scanno-radiologique
+T46	PROC 2456 2495	anastomose thérapeutique postopératoire
+T47	PROC 2509 2526	abord chirurgical
+T48	PROC 2547 2588	perfusion intraveineuse intrathrostatique
+T49	DISO 2630 2654	troubles électrolytiques
+T50	Concept_Idea 2671 2694	caractère hémodynamique
+T51	PROC 2718 2739	scanner préopératoire
+T52	PROC 2759 2792	ventilation médicalement assistée
+T53	DISO 2817 2867	masse tissulaire anéchogène péritonéale hétérogène
+T54	MEAS 2876 2888	environ 6 cm
+T55	Concept_Idea 2892 2901	grand axe
+T56	MEAS 2911 2916	50 mm
+T57	Concept_Idea 2920 2927	largeur
+T58	ANAT 2945 2955	plan axial
+T59	ANAT 2959 2980	parenchyme pulmonaire
+T60	PROC 2990 3016	examen tomodensitométrique
+T61	DISO 3021 3172	rehaussement des vaisseaux bilieux mésentériques cervicaux péribronchovasculaires pariéto-temporo-mandibulaires antero-pubis lombaires transoesophagien
+T63	DISO 3178 3201	anomalies radiologiques
+T64	DISO 3214 3266	processus lésionnel postéro-sphinctérien malformatif
+T65	ANAT 3287 3307	crête ilio-cervicale
+T66	DEVI 3333 3347	fil résorbable
+T67	ANAT 3364 3383	nerf grand pectoral
+T68	MEAS 3414 3423	favorable
+T69	PROC 3429 3451	contrôle échographique
+T70	PROC 3469 3499	surveillance neuroradiologique
+T71	PROC 3515 3570	thyroïdectomie longitudinale aorto-guidoïde asymétrique
+T75	Localization 3694 3700	gauche
+T76	Localization 3745 3764	homolatérale droite
+T77	LIVB 3788 3796	patiente
+T78	PROC 3822 3827	admis
+T79	Hospital 3832 3840	urgences
+T80	DISO 3860 3887	détresse respiratoire aiguë
+T81	TEMP 3897 3912	depuis 10 jours
+T82	Concept_Idea 3943 3955	état général
+T83	LIVB 3980 3986	malade
+T84	PROC 3991 4011	consultation externe
+T85	PROC 4025 4044	traitement adjuvant
+T86	DOSE 4067 4070	2 g
+T87	CHEM 4099 4117	calcium lyophilisé
+T89	CHEM 4143 4161	acétate de calcium
+T90	CHEM 4164 4180	acide valproique
+T91	CHEM 4183 4205	hydroxyde de potassium
+T92	CHEM 4208 4220	pyrazinamide
+T93	CHEM 4223 4234	rifampicine
+T94	CHEM 4237 4250	antibiotiques
+T95	CHEM 4253 4272	aminosides sériques
+T96	CHEM 4275 4285	antalgique
+T97	CHEM 4288 4297	imipenème
+T98	CHEM 4300 4313	métronidazole
+T99	CHEM 4316 4326	carbamates

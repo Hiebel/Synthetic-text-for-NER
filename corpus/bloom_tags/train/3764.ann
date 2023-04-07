@@ -1,0 +1,63 @@
+T1	PROC 18 29	observation
+T2	LIVB 36 44	patiente
+T3	PROC 70 80	consultait
+T4	Hospital 84 116	médecin gynécologue-obstétricien
+T5	DISO 146 179	syndrome d'épanchement péritonéal
+T6	ANAT 169 179	péritonéal
+T7	ANAT 208 222	ventriculaires
+T8	DISO 276 305	méningo-pancréatite chronique
+T9	DISO 312 335	tuberculose péritonéale
+T10	PROC 341 361	traitement palliatif
+T11	PROC 414 443	chimiothérapie antibacillaire
+T12	CHEM 454 465	Ceftriaxone
+T13	CHEM 471 486	Rifaméthoxazole
+T14	CHEM 500 513	carbamazépine
+T15	PROC 578 600	résection chirurgicale
+T16	DOSE 722 735	un kilogramme
+T17	CHEM 739 749	furosémide
+T18	PROC 806 826	prise médicamenteuse
+T19	Concept_Idea 939 948	moyennité
+T20	LIVB 1023 1031	patients
+T21	PHEN 1142 1151	digestive
+T22	DISO 1180 1206	pathophysiologique maligne
+T23	PROC 1209 1228	électrorétinogramme
+T24	DISO 1246 1298	hypersudation hémodialytique hypochrome monocyclique
+T25	TEMP 1308 1322	depuis 2 jours
+T26	Localization 1411 1421	bilatérale
+T27	DISO 1474 1496	symptômes oculomoteurs
+T28	DISO 1499 1518	trophoblaste visuel
+T29	DISO 1525 1581	détresse motrice prurigineuse érythémato-néphrétinisante
+T30	MEAS 1596 1607	progressive
+T31	MEAS 1617 1631	bradycrânienne
+T32	ANAT 1652 1664	champ visuel
+T33	MEAS 1680 1689	lentement
+T34	Concept_Idea 1693 1699	volume
+T35	MEAS 1765 1780	progressivement
+T36	Concept_Idea 1784 1790	taille
+T37	ANAT 1863 1880	paires crâniennes
+T38	MEAS 1905 1913	12/10 cm
+T39	MEAS 1917 1925	15/10 cm
+T40	DISO 2003 2018	œdème maculaire
+T41	MEAS 2026 2032	sévère
+T42	LIVB 2483 2491	patiente
+T43	PROC 2509 2534	traitement antibacillaire
+T44	CHEM 2548 2559	Ceftriaxone
+T45	CHEM 2561 2573	Pyrazinamide
+T46	CHEM 2575 2586	Ethionamide
+T47	CHEM 2588 2599	Cyclosérine
+T48	CHEM 2601 2607	Vit B6
+T49	CHEM 2609 2636	Triméthoprime-Sulfamoxazole
+T50	CHEM 2649 2659	Isoniazide
+T51	MODE 2663 2675	intraveineux
+T52	DISO 2724 2757	syndrome inflammatoire biologique
+T53	PROC 2767 2787	protéines-C réactive
+T54	PROC 2789 2792	CRP
+T55	MEAS 2794 2801	élevées
+T56	PROC 2805 2835	échographie abdomino-pelvienne
+T57	ANAT 2817 2835	abdomino-pelvienne
+T58	DISO 2851 2873	épanchement péritonéal
+T59	ANAT 2863 2873	péritonéal
+T60	Concept_Idea 2880 2887	hauteur
+T61	MEAS 2898 2902	30cm
+T62	DISO 2908 2936	adénopathies parathyroïdiens
+T63	ANAT 2921 2936	parathyroïdiens

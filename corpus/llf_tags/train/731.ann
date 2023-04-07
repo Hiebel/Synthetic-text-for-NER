@@ -1,0 +1,94 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 70	antécédents pathologique
+T3	MEAS 71 82	particulier
+T4	PROC 84 90	Admise
+T5	Hospital 94 114	service des urgences
+T6	DISO 124 143	dyspnée douloureuse
+T7	DISO 158 183	traumatisme du pied droit
+T8	ANAT 173 183	pied droit
+T9	Localization 178 183	droit
+T10	Concept_Idea 194 203	ingestion
+T11	CHEM 209 230	produit inflammatoire
+T12	LIVB 249 251	sa
+T13	LIVB 252 260	collègue
+T14	Concept_Idea 342 355	état générale
+T15	DISO 369 379	somnolence
+T16	PROC 416 431	examen clinique
+T17	LIVB 445 453	patiente
+T18	MEAS 457 464	mauvais
+T19	Concept_Idea 465 477	état général
+T20	PHEN 485 509	réflexes ostéo-tendineux
+T21	ANAT 494 509	ostéo-tendineux
+T22	PROC 530 547	tomodensitométrie
+T23	PROC 549 563	TDM) cérébrale
+T24	ANAT 554 563	cérébrale
+T25	DISO 600 615	lésion ostéoide
+T26	DISO 625 644	processus lésionnel
+T27	PROC 669 684	examen physique
+T28	DISO 696 709	particularité
+T29	PROC 715 739	mastectomie exploratrice
+T30	PROC 745 791	curage ganglionnaire cervico-thoraco-abdominal
+T31	DISO 812 820	anomalie
+T32	DISO 838 848	métastases
+T33	DISO 859 881	adhérences secondaires
+T34	MEAS 918 925	simples
+T35	TEMP 935 947	février 2012
+T36	PROC 985 1009	exploration chirurgicale
+T37	TEMP 1025 1031	5 mois
+T38	PROC 1036 1055	bilan préopératoire
+T39	MEAS 1067 1079	correctement
+T40	PROC 1097 1125	chimiothérapie néo adjuvante
+T41	PROC 1139 1286	néphrectomie totale axillaire élargie scanno-mandibulaire antèro-axillo-mandibulaire postérieure latérale médiane interne droite type IKB1MJHZ/IKRF
+T42	Localization 1245 1267	médiane interne droite
+T43	DISO 1323 1337	tumeur maligne
+T44	MEAS 1347 1351	2 cm
+T45	Concept_Idea 1355 1364	grand axe
+T46	MEAS 1373 1377	6 cm
+T47	Concept_Idea 1381 1391	 grand axe
+T48	PROC 1417 1438	transfert chirurgical
+T49	Hospital 1443 1483	urgences neurochirurgicales pédiatriques
+T50	PROC 1508 1584	laparotomie intraveineuse monophasique endoluminale transœso-occipitale TAPS
+T51	ANAT 1603 1642	nerf laryngé inférieur postérieur droit
+T52	Localization 1626 1642	postérieur droit
+T53	PROC 1671 1703	rachianesthésie antihypertensive
+T54	MEAS 1764 1779	progressivement
+T55	Concept_Idea 1801 1816	limites locales
+T56	DISO 1833 1874	symptomatologie obsessionnelle polymorphe
+T57	PROC 1950 1979	prise en charge psychiatrique
+T58	PROC 1983 2008	étude anatomopathologique
+T59	DISO 2023 2069	tissu graisseux angiomateux tissulaire nécrosé
+T60	DEVI 2078 2100	matériaux fibrillaires
+T61	ANAT 2134 2162	cellules musculaires striées
+T62	MEAS 2247 2260	environ 10 mm
+T63	Concept_Idea 2264 2273	grand axe
+T64	DISO 2633 2679	atypies hépato-pelviennes maxillaires lobulées
+T66	ANAT 2703 2771	clavicules vertébrales articulaires fundiques primitives antérieures
+T69	ANAT 3009 3031	muscle biceps brachial
+T70	ANAT 3044 3081	os pariétal abdomino-thoracique droit
+T71	Localization 3076 3081	droit
+T72	ANAT 3101 3122	parenchyme rénitonéal
+T73	PHEN 3131 3136	pouls
+T74	MEAS 3146 3159	10 battements
+T75	TEMP 3160 3180	toutes les 6 minutes
+T76	DISO 3193 3208	lésion tumorale
+T77	DISO 3219 3243	anomalies morphologiques
+T78	DISO 3272 3295	métastase inflammatoire
+T79	Concept_Idea 3317 3336	aspect histologique
+T80	DISO 3389 3413	tumeur primitive maligne
+T81	DISO 3627 3643	hyperleucocytose
+T82	LIVB 3685 3692	malades
+T83	PROC 3713 3732	traitement adjuvant
+T84	CHEM 3817 3855	amoxicilline acide acétyle thiazidique
+T85	PROC 3895 3928	corticothérapie substitutionnelle
+T86	DOSE 3934 3942	1 gramme
+T87	TEMP 3942 3947	/jour
+T88	PROC 3952 3958	suivie
+T89	PROC 4013 4038	kinésithérapie palliative
+T90	MEAS 4104 4129	plus rapidement favorable
+T91	DISO 4170 4201	récidive clinico-radiopéritoine
+T92	PROC 4225 4235	opératoire
+T93	PROC 4248 4281	néphrectomie percutanée classique
+T94	PROC 4305 4348	annexectomies intervésicales scanno-guidées
+T95	Localization 4398 4401	sus
+T97	ANAT 4499 4545	branches crico-céphaliques supérieures gauches
+T98	Localization 4538 4545	gauches

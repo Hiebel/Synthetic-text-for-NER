@@ -1,0 +1,68 @@
+T1	PROC 63 107	thyroïdectomie partielle scanno-pathologique
+T2	MEAS 126 133	tardive
+T3	DISO 156 194	hypertension fémoro-abdomino-pelvienne
+T4	ANAT 169 194	fémoro-abdomino-pelvienne
+T5	DISO 215 238	néphropathie diabétique
+T6	Hospital 323 366	consultations ophtalmologiques pédiatriques
+T7	PROC 380 402	examens gynécologiques
+T8	PROC 425 454	prise en charge thérapeutique
+T9	PROC 459 489	bilan biologique préopératoire
+T10	DISO 510 526	hyperleucocytose
+T11	MEAS 529 537	0,5 g/dL
+T12	MEAS 543 563	1300 fois la normale
+T13	LIVB 572 582	nourrisson
+T14	MEAS 590 601	1850grammes
+T15	MEAS 607 622	700 millilitres
+T16	PROC 631 641	transfusés
+T17	DEVI 645 653	cathéter
+T18	DISO 667 695	symptomatologie neurologique
+T19	TEMP 705 726	depuis quelques jours
+T20	PROC 732 758	examen anatomopathologique
+T21	MEAS 826 830	6 cm
+T22	MEAS 833 836	9cm
+T24	MEAS 913 919	7x10mm
+T25	MEAS 923 928	14 mm
+T26	ANAT 970 1004	champs corticaux rétromalléolaires
+T27	MEAS 1038 1044	2/10°C
+T28	ANAT 1056 1071	zones oculaires
+T29	MEAS 1077 1096	légèrement colorées
+T30	DISO 1106 1115	infectées
+T31	DISO 1119 1156	micronodules érythémato-tachycraniens
+T32	DISO 1186 1207	syndrome interstitiel
+T33	ANAT 1220 1242	muqueuses conjonctives
+T34	DISO 1255 1266	contaminées
+T35	ANAT 1285 1314	nerf laryngé inférieur gauche
+T36	Localization 1308 1314	gauche
+T37	PROC 1339 1405	scanner cardio-vasculorimotrice cervico-thoraco- abdomino-cérebral
+T38	ANAT 1347 1405	cardio-vasculorimotrice cervico-thoraco- abdomino-cérebral
+T39	PROC 1423 1437	investigations
+T40	DISO 1480 1505	ostéoarthrite infectieuse
+T41	DISO 1511 1538	rhinopharyngite bactérienne
+T42	Concept_Idea 1556 1575	classification TNMD
+T43	Concept_Idea 1598 1617	aspect histologique
+T44	DISO 1634 1672	maladie cœlio-papillaire inflammatoire
+T45	DISO 1690 1738	neurofibromatomyomeopathie chronique obstructive
+T46	ANAT 1782 1818	lambeau transoesophagien basal droit
+T47	Localization 1813 1818	droit
+T48	ANAT 3098 3119	parties molles du cou
+T49	DISO 3125 3141	signe infectieux
+T50	PHEN 3154 3163	grossesse
+T51	TEMP 3178 3189	32 semaines
+T52	LIVB 3195 3201	enfant
+T53	PROC 3214 3219	admis
+T54	Hospital 3224 3245	urgences pédiatriques
+T55	DISO 3265 3289	crise convulsive fébrile
+T56	DISO 3332 3350	état fébrilesmique
+T57	PROC 3394 3409	oxygénothérapie
+T58	PROC 3441 3465	ventilation artificielle
+T59	PROC 3482 3489	adressé
+T60	Hospital 3493 3514	service de neurologie
+T61	PROC 3520 3539	traitement adjuvant
+T62	PROC 3553 3565	consultation
+T63	PROC 3572 3602	bilan biologique préopératoire
+T64	PROC 3606 3618	radiologique
+T65	DISO 3644 3661	récidive clinique
+T66	DISO 3691 3718	symptomatologie psychotique
+T67	DISO 3785 3811	trouble bipolaire primaire
+T68	LIVB 3843 3850	enfants
+T69	DISO 3900 3917	psychose maniaque

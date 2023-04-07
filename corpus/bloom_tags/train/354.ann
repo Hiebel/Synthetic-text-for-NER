@@ -1,0 +1,69 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	10 ans
+T3	DISO 39 47	syphilis
+T4	PROC 54 65	hospitalisé
+T5	PROC 71 96	traitement antibacillaire
+T6	CHEM 102 111	Ténofovir
+T7	CHEM 114 125	Cyclosérine
+T8	DOSE 127 133	400 mg
+T10	CHEM 160 173	Métronidazole
+T11	CHEM 176 187	Ceftriaxone
+T12	DISO 205 220	symptomatologie
+T13	TEMP 232 241	six jours
+T14	DISO 267 328	lésion purpurée prurigineuse érythémato-cutanée maculomateuse
+T15	ANAT 349 371	membre supérieur droit
+T16	Localization 366 371	droit
+T17	MEAS 383 402	de façonprogressive
+T18	Concept_Idea 406 412	volume
+T19	MEAS 429 441	prurigineuse
+T21	DISO 483 495	hyperthermie
+T22	MEAS 507 513	38°2 C
+T23	DISO 572 588	signes cliniques
+T24	DISO 615 641	troubles sensitivomotrices
+T25	DISO 652 665	organomoteurs
+T26	LIVB 685 693	patiente
+T27	DISO 703 732	pathophysiologies secondaires
+T28	DISO 757 773	maladie cœliaque
+T29	DISO 786 808	problèmes métaboliques
+T30	PROC 844 877	bilan d'immunodépression sanguine
+T31	PROC 888 903	test rapide VIH
+T32	MEAS 911 918	négatif
+T33	PROC 923 947	ionogramme sanguin total
+T34	ANAT 934 947	sanguin total
+T35	DISO 970 982	hypokaliémie
+T36	DISO 999 1031	hypocholestérolémie hypertensive
+T37	MEAS 1042 1051	3,7 meq/l
+T38	PROC 1058 1077	hémoglobine glyquée
+T39	MEAS 1080 1088	0,29g/dl
+T40	DISO 1104 1123	acidose métabolique
+T41	MEAS 1134 1143	1,9 meq/l
+T42	DISO 1164 1181	protéinsinorachie
+T43	PROC 1185 1235	scanner abdomino-normo-thoracique transoesophagien
+T44	ANAT 1193 1235	abdomino-normo-thoracique transoesophagien
+T45	DISO 1298 1329	tumeur lithiasique hyperintense
+T46	ANAT 1351 1394	espaces para vertébraux cervico-scapulaires
+T47	ANAT 1423 1444	vertèbres thoraciques
+T48	ANAT 1465 1507	fosse diaphragmatique supra épicondylienne
+T49	Localization 1487 1492	supra
+T50	MEAS 1516 1527	environ 6cm
+T51	Concept_Idea 1531 1540	grand axe
+T52	ANAT 1561 1610	jonction tracheo-bronchique médiastinale bryonnet
+T53	DISO 1701 1729	foyer nécrotico-interstitiel
+T54	DISO 1770 1816	épithélio-gigantocellulaire nécrose tissulaire
+T55	DISO 1834 1850	nécrose caséeuse
+T56	DISO 1860 1875	pseudo-tumorale
+T57	ANAT 1909 1929	sous-diaphragmatique
+T58	ANAT 1953 1980	para-vertébro-médiastinales
+T59	LIVB 1985 1993	patiente
+T60	CHEM 2010 2023	sulfasalazine
+T61	DOSE 2025 2031	100 mg
+T62	TEMP 2031 2036	/jour
+T63	MODE 2038 2050	intraveineux
+T64	CHEM 2063 2077	hydrocortisone
+T65	MODE 2081 2086	bolus
+T66	DISO 2136 2163	troubles du cycle menstruel
+T67	PHEN 2148 2163	cycle menstruel
+T68	DISO 2185 2206	syndrome prémenstruel
+T69	TEMP 2216 2228	depuis 2 ans
+T70	MEAS 2251 2266	progressivement
+T71	Concept_Idea 2270 2276	volume

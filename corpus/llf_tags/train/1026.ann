@@ -1,0 +1,70 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 54 55	9
+T3	LIVB 56 63	enfants
+T4	PROC 65 71	Suivie
+T5	Concept_Idea 81 84	âge
+T6	DISO 104 127	hypertension artérielle
+T7	ANAT 117 127	artérielle
+T8	TEMP 141 165	il y a 6 mois auparavant
+T9	DISO 182 201	syndrome restrictif
+T10	DISO 215 233	trouble du transit
+T11	PHEN 226 233	transit
+T12	DISO 249 260	traumatisme
+T13	DISO 271 288	signes infectieux
+T14	Concept_Idea 333 345	état général
+T15	DISO 361 380	douleurs pelviennes
+T16	ANAT 370 380	pelviennes
+T17	Concept_Idea 402 420	état hémodynamique
+T18	PROC 452 468	bilan biologique
+T19	PROC 473 490	biologie sanguine
+T20	MEAS 497 505	positive
+T21	PROC 507 509	Hb
+T22	MEAS 511 519	1,5 g/dl
+T23	PROC 525 538	sérologie VIH
+T24	PROC 584 609	immunoglobulines anti-VIH
+T25	MEAS 631 640	négatives
+T26	PROC 646 661	examen physique
+T27	DISO 669 674	masse
+T28	DISO 678 694	nécrose caséeuse
+T29	PROC 719 736	tomodensitométrie
+T30	Hospital 747 755	urgences
+T31	DISO 782 803	distension thoracique
+T32	ANAT 793 803	thoracique
+T33	Localization 832 849	partie inférieure
+T34	DISO 863 903	symptomatologie obstétricale douloureuse
+T35	DISO 909 930	perte de connaissance
+T36	CHEM 1003 1017	neuroleptiques
+T37	DEVI 1103 1111	prothèse
+T38	PROC 1151 1180	corticothérapie préopératoire
+T39	PROC 1194 1223	néphrolithotomie exploratrice
+T40	PROC 1254 1270	geste opératoire
+T41	MEAS 1294 1298	6 cm
+T42	MEAS 1302 1307	10 cm
+T43	Concept_Idea 1317 1337	formule histologique
+T44	TEMP 1363 1373	15 minutes
+T45	MEAS 1453 1464	1800grammes
+T46	MEAS 1470 1486	1750 millilitres
+T47	PROC 1525 1549	laparotomie exploratrice
+T48	PROC 1590 1625	chimiothérapie néo adjuvante locale
+T49	MEAS 1663 1672	spontanée
+T50	PROC 1690 1706	hospitalisations
+T51	PROC 1734 1743	admission
+T52	TEMP 1772 1781	48 heures
+T53	LIVB 1791 1797	enfant
+T54	TEMP 1838 1844	26 ans
+T55	LIVB 1862 1864	sa
+T56	LIVB 1865 1869	mère
+T57	TEMP 1878 1884	32 ans
+T58	LIVB 1919 1923	père
+T59	ANAT 2916 2934	anses intestinales
+T60	ANAT 2941 2952	flanc droit
+T61	Localization 2947 2952	droit
+T62	DEVI 2957 2992	cathéter large bande bidirectionnel
+T63	ANAT 3019 3035	brèche digestive
+T64	ANAT 3089 3105	colon transverse
+T65	PHEN 3121 3148	circulation extracorporelle
+T66	Concept_Idea 3186 3195	technique
+T67	DISO 3202 3208	anémie
+T68	DISO 3342 3370	maladie cœliaque congénitale
+T69	LIVB 3419 3442	professionnels de santé
+T70	CHEM 3463 3474	médicaments

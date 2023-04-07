@@ -1,0 +1,94 @@
+T1	LIVB 20 28	patiente
+T2	DISO 45 70	antécédents pathologiques
+T3	MEAS 71 79	notables
+T4	PROC 81 87	admise
+T5	Hospital 92 100	urgences
+T6	DISO 110 136	douleurs pelviennes aiguës
+T7	ANAT 119 129	pelviennes
+T8	TEMP 146 164	depuis une semaine
+T9	LIVB 166 170	Elle
+T10	PROC 189 203	interrogatoire
+T11	Concept_Idea 212 217	poids
+T12	MEAS 221 226	50 kg
+T13	PROC 231 250	bilan préopératoire
+T14	LIVB 254 262	patiente
+T15	PROC 269 281	hospitalisée
+T16	DISO 293 314	détresse respiratoire
+T17	PHEN 302 314	respiratoire
+T18	DISO 320 332	hyperthermie
+T19	PROC 349 364	examen clinique
+T20	LIVB 378 386	patiente
+T21	Concept_Idea 401 419	plan hémodynamique
+T22	CHEM 421 434	noradrénaline
+T23	DOSE 437 443	2µg/kg
+T24	CHEM 445 461	sulfaméthoxazole
+T25	DOSE 463 469	100 mg
+T26	DEVI 483 493	tachycarde
+T27	MEAS 496 503	120 bpm
+T28	ANAT 542 551	liquidien
+T29	MEAS 570 579	20 litres
+T30	CHEM 609 627	methylprednisolone
+T31	DOSE 628 635	0 mg/kg
+T32	MODE 637 649	intraveineux
+T33	CHEM 669 710	médicaments antiinflammatoires adjuvantes
+T34	CHEM 725 749	acide acétylsalicyliques
+T35	DISO 799 827	traumatisme abdomino-pelvien
+T36	ANAT 811 827	abdomino-pelvien
+T37	DISO 838 869	malformations thromboemboliques
+T38	DISO 938 956	pathologie maligne
+T39	DISO 1042 1061	syndrome infectieux
+T40	LIVB 1104 1111	patient
+T41	PROC 1138 1169	échographie abdomino- pelvienne
+T42	ANAT 1150 1169	abdomino- pelvienne
+T43	DISO 1191 1218	anomalie cyto-morphologique
+T44	DISO 1241 1283	localisation néoplasique kystique tumorale
+T45	PROC 1294 1328	curage épigastrique transfixanteur
+T46	ANAT 1301 1328	épigastrique transfixanteur
+T47	PROC 1333 1377	tomodensitométrie thoraco-abdomino-pelvienne
+T48	ANAT 1351 1377	thoraco-abdomino-pelvienne
+T49	DISO 1475 1490	symptomatologie
+T50	LIVB 1563 1571	familles
+T51	DISO 1715 1734	prémices douloureux
+T52	MEAS 1757 1772	progressivement
+T53	Concept_Idea 1776 1782	volume
+T54	MEAS 1903 1911	14x11 cm
+T55	MEAS 1915 1923	16x12 cm
+T56	DISO 1965 1995	adénopathies sus claviculaires
+T57	Localization 1978 1981	sus
+T58	PROC 2026 2035	injection
+T59	CHEM 2039 2059	produit de contraste
+T60	DISO 2126 2175	processus tumoral lésionnel nécrotique tissulaire
+T61	ANAT 2396 2415	colique intestinale
+T62	DISO 2460 2481	carcinome endovaginal
+T63	MEAS 2800 2808	indemnes
+T64	MEAS 2863 2889	difficilement appréciables
+T65	DISO 3011 3051	masse bourgeonnante du flambeau gynélien
+T66	ANAT 3034 3051	flambeau gynélien
+T67	ANAT 3067 3108	quadrant supéro-diaphragmatique splénique
+T68	ANAT 3113 3143	veine rénale sous pancréatique
+T69	Localization 3126 3130	sous
+T70	ANAT 3152 3171	appendice hépatique
+T71	DISO 3179 3184	masse
+T72	MEAS 3191 3201	hétérogène
+T73	Concept_Idea 3210 3218	diamètre
+T74	MEAS 3233 3243	15 x 10 cm
+T75	MEAS 3247 3257	21 x 14 cm
+T76	PROC 3262 3280	traitement médical
+T77	PROC 3296 3329	anti-inflammatoire non stéroïdien
+T78	CHEM 3344 3357	bêtaméthasone
+T79	DOSE 3359 3366	1 mg/kg
+T80	TEMP 3366 3371	/jour
+T81	CHEM 3374 3388	hydrocortisone
+T82	DOSE 3390 3395	10 mg
+T83	TEMP 3395 3397	/j
+T84	CHEM 3400 3413	dexaméthasone
+T85	DOSE 3415 3420	20 mg
+T86	TEMP 3420 3422	/j
+T87	MODE 3424 3430	per os
+T88	CHEM 3442 3453	paracétamol
+T89	DISO 3486 3504	détresse digestive
+T90	PHEN 3495 3504	digestive
+T91	TEMP 3514 3527	depuis 3 mois
+T92	DISO 3543 3559	signes cliniques
+T93	DISO 3585 3593	anorexie
+T94	Concept_Idea 3615 3627	état général

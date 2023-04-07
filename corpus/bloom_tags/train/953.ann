@@ -1,0 +1,29 @@
+T1	LIVB 20 28	patiente
+T2	DISO 65 99	endométriose méningée hémorragique
+T3	CHEM 105 117	progestatifs
+T4	PHEN 119 134	cycle menstruel
+T5	TEMP 139 150	24 semaines
+T6	PROC 166 192	examen anatomopathologique
+T7	Hospital 199 232	pièce d’intervention chirurgicale
+T8	PROC 207 232	intervention chirurgicale
+T9	DISO 248 301	carcinome hypokaliémique latéro-interstitiel kystique
+T10	Localization 334 344	bilatérale
+T11	LIVB 356 364	patiente
+T12	DISO 391 420	méningo-lymphangite purulente
+T13	DISO 436 480	hypoalbuminorachie hypochrome micronodulaire
+T14	LIVB 511 515	elle
+T15	PROC 593 615	alpha-fœtoprogesterone
+T16	Concept_Idea 633 651	aspect moléculaire
+T17	PROC 665 697	scanner thoraco abdomino-pelvien
+T18	ANAT 673 697	thoraco abdomino-pelvien
+T19	DISO 714 766	masse pulmonaire basithoracique droite hypertrophiée
+T20	ANAT 720 766	pulmonaire basithoracique droite hypertrophiée
+T22	MEAS 776 780	13cm
+T23	Concept_Idea 784 793	grand axe
+T24	ANAT 822 855	sinus caverneux thoracique altéré
+T25	ANAT 896 938	veine cave superficielle supra péritonéale
+T26	Localization 921 926	supra
+T27	ANAT 954 987	artères artériolo-rénaldiculaires
+T28	MEAS 999 1012	plus réduites
+T29	PROC 1019 1035	incision plâtrée
+T30	DISO 1059 1075	nécrose caséeuse

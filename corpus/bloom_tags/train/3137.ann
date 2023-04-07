@@ -1,0 +1,30 @@
+T1	LIVB 28 35	patient
+T2	PROC 72 97	chimiothérapie palliative
+T3	MEAS 114 120	rapide
+T4	DISO 127 136	dysphagie
+T5	DOSE 173 175	2g
+T6	TEMP 175 177	/j
+T7	CHEM 181 192	métotrexate
+T8	DOSE 205 212	1 mg/kg
+T9	TEMP 212 214	/j
+T10	CHEM 227 241	neuroleptiques
+T11	CHEM 247 264	méthylthiouracyle
+T12	CHEM 279 313	anti-inflammatoires nonstéroïdiens
+T13	CHEM 321 331	isoniazide
+T14	DISO 387 411	symptomatologie clinique
+T15	TEMP 421 437	depuis deux mois
+T16	MEAS 452 459	brutale
+T17	PHEN 492 504	respiratoire
+T18	Hospital 523 532	urinaires
+T19	MODE 542 548	per os
+T20	LIVB 572 580	patiente
+T21	DISO 663 746	adénopathies basithoraciques jugulo-carotidiennes palmophalangiennes hypertrophiées
+T23	MEAS 758 768	rapidement
+T24	Concept_Idea 772 778	volume
+T25	PROC 878 958	ponction liquide pleuro-céphalo-myélinisante thoracique liquidienne exploratrice
+T27	PROC 959 964	PLTLE
+T28	MEAS 980 988	négative
+T29	PROC 995 1018	sérologies virales BHCG
+T30	MEAS 1036 1045	positives
+T31	PROC 1061 1074	examen direct
+T32	MEAS 1081 1108	inférieur à 200 copies/mm 3

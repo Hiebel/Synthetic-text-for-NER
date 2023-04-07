@@ -1,0 +1,35 @@
+T1	LIVB 19 29	adolescent
+T2	TEMP 33 39	15 ans
+T3	PROC 45 70	antécédents pathologiques
+T4	MEAS 71 83	particuliers
+T5	DISO 112 123	hypotension
+T6	Concept_Idea 133 141	pression
+T7	MEAS 144 155	120/50 mmHg
+T8	DISO 171 207	douleurs épigastriques constrictives
+T9	ANAT 180 193	épigastriques
+T10	TEMP 217 235	depuis trois jours
+T11	PROC 239 254	examen clinique
+T12	PHEN 272 283	tachycardie
+T13	MEAS 296 314	150 battements/min
+T14	DEVI 320 334	sonde pleurale
+T15	ANAT 326 334	pleurale
+T16	PROC 361 377	examen somatique
+T17	PROC 403 434	échographie abdomino- pelvienne
+T18	ANAT 415 434	abdomino- pelvienne
+T19	PROC 448 478	TDM thoraco-abdomino-pelvienne
+T20	ANAT 452 478	thoraco-abdomino-pelvienne
+T21	DISO 497 526	masse kystique du flanc droit
+T22	ANAT 515 526	flanc droit
+T23	Localization 521 526	droit
+T24	MEAS 536 540	6 cm
+T25	Concept_Idea 544 553	grand axe
+T26	MEAS 558 562	5 cm
+T27	Concept_Idea 566 575	petit axe
+T28	MEAS 577 587	hétérogène
+T29	Concept_Idea 596 604	contours
+T30	PROC 636 645	injection
+T31	DOSE 649 654	10 ml
+T32	CHEM 658 678	produit de contraste
+T33	DISO 701 739	syndrome d'épanchement intrapéritonéal
+T34	ANAT 724 739	intrapéritonéal
+T35	DISO 754 782	métanéphrine hyporachidiante

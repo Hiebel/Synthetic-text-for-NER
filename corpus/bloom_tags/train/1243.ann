@@ -1,0 +1,46 @@
+T1	LIVB 29 37	patiente
+T2	Concept_Idea 59 90	antécédents médico-chirurgicaux
+T3	MEAS 91 103	particuliers
+T4	PROC 105 111	admise
+T5	Hospital 116 124	urgences
+T6	DISO 144 182	syndrome d'épanchement intrapéritonéal
+T7	ANAT 167 182	intrapéritonéal
+T8	PROC 188 202	interrogatoire
+T9	LIVB 206 214	patiente
+T10	DOSE 231 237	1mg/kg
+T11	CHEM 240 263	acide acétylsalicylique
+T12	MODE 265 271	sachet
+T13	DOSE 274 283	0,5 mg/kg
+T14	TEMP 285 302	pendant 48 heures
+T15	CHEM 323 341	méthylprédnisolone
+T16	PROC 346 376	bilan biologique préopératoire
+T17	PHEN 407 422	fonction rénale
+T18	ANAT 416 422	rénale
+T19	MEAS 423 430	normale
+T20	PROC 440 464	natrémie orthokaliémique
+T21	MEAS 467 478	133 meq/m 2
+T22	PROC 494 502	kaliémie
+T23	MEAS 505 516	2,3 meq/m 2
+T24	PROC 519 534	examen clinique
+T25	LIVB 548 556	patiente
+T26	Concept_Idea 571 589	plan hémodynamique
+T27	DISO 594 603	pulsatile
+T28	DISO 607 621	normo-nocturne
+T29	TEMP 647 661	depuis 3 jours
+T30	DISO 683 705	douleurs épigastriques
+T31	ANAT 692 705	épigastriques
+T32	MEAS 764 779	progressivement
+T33	Concept_Idea 783 793	profondeur
+T34	MEAS 839 850	brutalement
+T35	Concept_Idea 854 860	volume
+T36	DISO 919 948	méningo-entéro-interstellaire
+T37	PROC 1013 1043	échographie abdomino-pelvienne
+T38	ANAT 1025 1043	abdomino-pelvienne
+T39	DISO 1068 1104	lésion tissulaire hypo échogéressive
+T40	MEAS 1114 1119	21 cm
+T41	Concept_Idea 1123 1132	grand axe
+T42	ANAT 1154 1171	vésicule biliaire
+T43	Localization 1183 1191	totalité
+T44	PROC 1205 1241	tomodensitométrie abdomino-pelvienne
+T45	ANAT 1223 1241	abdomino-pelvienne
+T47	PROC 1392 1410	coupes curatérales

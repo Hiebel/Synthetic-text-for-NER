@@ -1,0 +1,35 @@
+T1	LIVB 4 9	femme
+T2	PHEN 26 46	grossesse gémellaire
+T3	PROC 51 57	suivie
+T4	Hospital 61 85	unité de soins intensifs
+T5	DISO 95 123	douleurs abdomino-pelviennes
+T6	ANAT 104 123	abdomino-pelviennes
+T7	TEMP 133 146	depuis 6 mois
+T8	DISO 161 186	intoxication au midazolam
+T9	CHEM 177 186	midazolam
+T10	DOSE 188 196	0,5mg/kg
+T11	TEMP 196 198	/j
+T12	MODE 204 214	voie orale
+T13	PROC 219 231	hospitalisée
+T14	Hospital 236 244	urgences
+T15	DISO 264 304	syndrome d'épanchement pelvien liquidien
+T16	ANAT 287 304	pelvien liquidien
+T17	MEAS 335 344	30 litres
+T18	DEVI 371 385	sonde urétrale
+T19	ANAT 377 385	urétrale
+T20	PROC 398 434	drainage thoracique supérieur gauche
+T21	ANAT 407 434	thoracique supérieur gauche
+T22	Localization 428 434	gauche
+T23	DISO 472 500	prise médicamenteuse toxique
+T24	DISO 552 612	maladie thromboembolique veineuse érythémateuse prurigineuse
+T25	DISO 617 646	hypertrophie parathyroïdienne
+T26	ANAT 630 646	parathyroïdienne
+T27	MEAS 732 747	progressivement
+T28	Concept_Idea 751 757	taille
+T29	DISO 790 805	symptomatologie
+T30	PROC 870 885	examen clinique
+T31	MEAS 928 943	progressivement
+T32	Concept_Idea 947 953	volume
+T33	DISO 975 992	agitation motrice
+T34	DISO 1042 1058	anorexie fébrile
+T35	DISO 1117 1133	troubles visuels

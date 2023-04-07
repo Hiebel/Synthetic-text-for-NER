@@ -1,0 +1,50 @@
+T1	LIVB 28 33	homme
+T2	DISO 72 104	accident ischémique hypertensive
+T3	DISO 110 131	détresse respiratoire
+T4	PHEN 119 131	respiratoire
+T5	DISO 142 164	surpression artérielle
+T6	ANAT 154 164	artérielle
+T7	PROC 170 188	traitement médical
+T8	CHEM 201 219	hydro-époxyglucose
+T9	MODE 224 234	voie orale
+T10	DOSE 251 256	bolus
+T11	CHEM 259 273	hydrocortisone
+T12	DISO 304 317	consanguinité
+T13	LIVB 336 342	enfant
+T14	PROC 376 396	traitement palliatif
+T15	DEVI 402 426	ventilation artificielle
+T16	PROC 439 458	bilan préopératoire
+T17	PROC 471 503	scanner thoraco-abdomino-pelvien
+T18	ANAT 479 503	thoraco-abdomino-pelvien
+T19	MEAS 511 518	négatif
+T20	DISO 536 567	syndrome interstitiel nodulaire
+T21	DISO 574 599	paragangliome vascularisé
+T22	ANAT 620 639	sinus mésentériques
+T23	PROC 653 674	échographie pelvienne
+T24	ANAT 665 674	pelvienne
+T25	MEAS 700 707	normaux
+T26	PROC 722 755	imagerie par résonance magnétique
+T27	PROC 757 760	IRM
+T28	ANAT 762 785	cardio-vasculonucléaire
+T29	DISO 843 866	hypertension artérielle
+T30	ANAT 856 866	artérielle
+T31	ANAT 948 974	rénale juxta-microscopique
+T32	DISO 1046 1055	anomalies
+T33	DISO 1185 1200	symptomatologie
+T34	Concept_Idea 1260 1272	localisation
+T35	MEAS 1283 1308	difficilement appréciable
+T36	PROC 1325 1374	ponction liquide céphalo-rachidiens intraveineuse
+T38	PROC 1400 1430	radiothérapie adjuvante locale
+T39	PROC 1456 1484	pronostic radiotherapeutique
+T40	MEAS 1756 1778	supra-centésimétriques
+T41	MEAS 1850 1859	favorable
+T42	LIVB 1899 1933	médecins anesthésiste-réanimateurs
+T43	DISO 2502 2522	hypotonie péridurale
+T44	ANAT 2512 2522	péridurale
+T45	CHEM 2538 2552	neuroleptiques
+T46	CHEM 2559 2567	propofol
+T47	PROC 2571 2602	échographie abdomino- pelvienne
+T48	ANAT 2583 2602	abdomino- pelvienne
+T49	DISO 2614 2628	particularités
+T50	DISO 2646 2694	envahissement du parenchyme ovarien hypertrophié
+T51	ANAT 2663 2694	parenchyme ovarien hypertrophié

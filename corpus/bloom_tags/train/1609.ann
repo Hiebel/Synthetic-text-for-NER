@@ -1,0 +1,39 @@
+T1	LIVB 29 34	femme
+T2	DISO 49 75	déficit cognitivo-kognitif
+T3	DISO 102 126	hallucinations auditives
+T4	TEMP 136 147	depuis 1 an
+T5	PROC 173 199	traitement antipsychotique
+T6	CHEM 205 230	tranyl-méthylprédnisolone
+T7	MEAS 316 325	favorable
+T8	DISO 356 372	récidive maligne
+T9	MEAS 396 405	spontanée
+T10	DEVI 496 509	botte plâtrée
+T11	PROC 531 551	prise médicamenteuse
+T12	PROC 718 735	fermeture cutanée
+T13	DOSE 814 823	0,2 mg/kg
+T14	TEMP 823 828	/jour
+T15	PROC 832 856	évaluation préopératoire
+T16	Concept_Idea 869 887	état psychomotrice
+T17	PHEN 891 899	cérébral
+T18	MEAS 900 906	normal
+T19	DISO 921 940	céphalées visuelles
+T20	DISO 957 987	désorientationtemporo-spatiale
+T21	DISO 1003 1023	syndrome d’épilepsie
+T22	DISO 1034 1060	troubles sensitivomotrices
+T23	DISO 1066 1091	instabilité hémodynamique
+T24	PROC 1095 1121	examen anatomopathologique
+T25	DISO 1143 1293	épanchement bilatéral lésionnel du parenchyme cérébelleux inféro-tentoriel périfasciculaire fronto-occipital hypophagien basithalamo-cervico-fusiforme
+T26	Localization 1155 1164	bilatéral
+T28	PROC 1313 1322	injection
+T29	CHEM 1326 1347	sérum salé isotonique
+T30	PROC 1392 1417	étude immunohistochimique
+T31	PROC 1419 1422	IRM
+T32	LIVB 1451 1459	patiente
+T33	DISO 1473 1512	localisations secondaires métastatiques
+T34	ANAT 1530 1548	hémi-frontal droit
+T35	Localization 1543 1548	droit
+T36	MODE 1570 1580	voie orale
+T37	MEAS 1796 1810	plus favorable
+T38	CHEM 1853 1871	méthylprédnisolone
+T39	PROC 2332 2360	recherche pluridisciplinaire
+T40	LIVB 2422 2426	nous

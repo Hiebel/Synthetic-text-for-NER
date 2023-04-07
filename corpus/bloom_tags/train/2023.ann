@@ -1,0 +1,30 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	3 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 73 78	admis
+T6	Hospital 83 91	urgences
+T7	DISO 101 122	détresse respiratoire
+T8	PHEN 110 122	respiratoire
+T9	TEMP 132 149	depuis deux jours
+T10	PROC 153 168	examen clinique
+T11	PROC 173 182	admission
+T12	LIVB 195 205	nouveau-né
+T13	MEAS 209 212	bon
+T14	Concept_Idea 213 231	état hémodynamique
+T15	ANAT 242 252	artérielle
+T16	MEAS 254 264	90/60 mmhg
+T17	DEVI 266 270	SpO2
+T18	MEAS 273 276	97%
+T19	DISO 298 314	troubles visuels
+T20	ANAT 328 361	sinus oculomoteur supérieur droit
+T21	Localization 356 361	droit
+T22	DISO 385 418	cataracte congénitale hypotonique
+T23	DISO 424 447	atteinte sensitomotrice
+T24	PROC 452 489	ponction pleuro-pulmonaire systémique
+T25	ANAT 461 489	pleuro-pulmonaire systémique
+T26	PROC 510 529	anesthésie générale
+T27	PROC 536 564	intubation nasofibroscopique
+T28	ANAT 547 564	nasofibroscopique
+T29	DEVI 572 611	ventriculo-cardiocirculation artificiel
+T30	CHEM 625 640	surrénalectrine

@@ -1,0 +1,39 @@
+T1	LIVB 28 35	patient
+T2	PROC 60 65	admis
+T3	Hospital 70 78	urgences
+T4	DISO 114 144	pancréatite aiguë hypertensive
+T5	PHEN 150 171	contractions utérines
+T6	ANAT 163 171	utérines
+T7	DISO 187 199	vomissements
+T8	PROC 204 233	bilan d’extension chirurgical
+T9	MEAS 240 247	négatif
+T10	DISO 253 266	particularité
+T11	ANAT 280 293	pelvis utérin
+T12	ANAT 295 309	surrénaliennes
+T13	ANAT 319 337	parois abdominales
+T14	LIVB 358 366	patiente
+T15	DISO 406 436	pancréatite aiguë hypertensive
+T16	DISO 441 489	carcinome épidermoïde carciniforme pancréatiques
+T17	ANAT 451 489	épidermoïde carciniforme pancréatiques
+T18	DISO 503 531	envahissement endobronchique
+T19	ANAT 517 531	endobronchique
+T20	PROC 536 551	examen clinique
+T21	DISO 568 606	hypotonie musculaire péripancréagienne
+T22	ANAT 578 606	musculaire péripancréagienne
+T23	TEMP 616 632	depuis 48 heures
+T24	MEAS 647 654	modérée
+T25	DISO 670 762	douleur fléchisseurs rétropéritonéale superficielle cervicale latéro-utérine supérieure dure
+T26	ANAT 678 762	fléchisseurs rétropéritonéale superficielle cervicale latéro-utérine supérieure dure
+T27	Localization 758 762	dure
+T28	MEAS 772 776	2 cm
+T29	DISO 793 804	douloureuse
+T30	MEAS 816 831	progressivement
+T31	Concept_Idea 835 841	volume
+T32	Concept_Idea 877 892	acuité visuelle
+T33	MEAS 904 911	8/10ème
+T34	PROC 942 958	examen somatique
+T35	MEAS 965 983	normo-chirurgicaux
+T36	DISO 1204 1231	complications hémorragiques
+T37	PROC 1269 1300	radiographie abdomino-pelvienne
+T38	ANAT 1282 1300	abdomino-pelvienne
+T41	Localization 1331 1334	sus

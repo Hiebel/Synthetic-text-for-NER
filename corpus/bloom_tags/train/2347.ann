@@ -1,0 +1,21 @@
+T1	LIVB 3 13	nouveau-né
+T2	TEMP 37 43	4 mois
+T3	PROC 48 52	reçu
+T4	Hospital 57 79	urgences chirurgicales
+T5	DISO 99 117	choc hypovolémique
+T6	DISO 122 155	anévrysme thoracique hypertrophié
+T7	ANAT 132 155	thoracique hypertrophié
+T8	DISO 173 196	hypertension artérielle
+T9	ANAT 186 196	artérielle
+T10	DISO 238 271	épanchement vasculo-lymphophagien
+T11	ANAT 250 271	vasculo-lymphophagien
+T12	MEAS 283 298	progressivement
+T13	Concept_Idea 302 308	taille
+T14	MEAS 318 328	volumineux
+T15	PROC 343 371	traitement médical adjuvante
+T16	CHEM 383 396	dexaméthasone
+T17	CHEM 433 444	diurétiques
+T18	PROC 458 492	kinésithérapie rééducation motrice
+T19	LIVB 567 573	enfant
+T21	LIVB 869 883	jeunes adultes
+T22	DISO 907 935	troubles neuropsychiatriques

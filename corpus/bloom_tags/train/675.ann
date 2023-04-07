@@ -1,0 +1,25 @@
+T1	LIVB 29 34	femme
+T2	DISO 69 84	ménométrorrhées
+T3	Concept_Idea 129 141	état général
+T4	DISO 157 177	prise médicamenteuse
+T5	PHEN 182 191	grossesse
+T6	TEMP 222 233	28 semaines
+T7	MEAS 302 306	8/10
+T8	MEAS 318 323	3400g
+T9	MEAS 407 417	1ere degré
+T10	DISO 451 471	hypo-acuité visuelle
+T11	DISO 487 512	uvérophtalmie congénitale
+T12	DEVI 528 551	lunettes oculométriques
+T13	LIVB 563 571	patiente
+T14	LIVB 581 585	elle
+T15	DISO 624 642	facteur favorisant
+T16	DISO 655 676	anomalies rétiniennes
+T17	DISO 687 707	signes neurologiques
+T18	DISO 725 750	troubles sensitivomoteurs
+T19	PROC 753 775	examen ophtalmologique
+T20	MEAS 826 833	10/10 e
+T21	LIVB 843 849	enfant
+T22	TEMP 857 865	deux ans
+T23	PROC 909 939	photocoagulothérapie adjuvante
+T24	MODE 953 971	voie intraveineuse
+T25	DISO 1008 1023	symptomatologie

@@ -1,0 +1,76 @@
+T1	LIVB 0 8	patiente
+T2	Concept_Idea 30 55	antécédents pathologiques
+T3	MEAS 56 68	particuliers
+T4	PROC 70 76	admise
+T5	DISO 86 108	douleurs épigastriques
+T6	ANAT 95 108	épigastriques
+T7	DISO 116 122	fièvre
+T8	TEMP 145 166	depuis plusieurs mois
+T9	DISO 183 198	symptomatologie
+T10	TEMP 209 214	un an
+T11	DISO 246 273	dysmorphie du poignet droit
+T12	ANAT 260 273	poignet droit
+T13	Localization 268 273	droit
+T14	LIVB 275 279	Elle
+T15	PROC 286 296	réadressée
+T16	Hospital 300 309	chirurgie
+T17	PROC 315 339	exploration chirurgicale
+T18	DISO 357 395	ostéolyse ostéo-calcificante purulente
+T19	DISO 410 426	pneumo-péritoine
+T20	PROC 431 445	bilan clinique
+T21	PROC 459 488	échographie abdominopelvienne
+T22	ANAT 471 488	abdominopelvienne
+T23	PROC 490 493	EAP
+T24	PROC 496 528	scanner thoraco-abdomino pelvien
+T25	ANAT 504 528	thoraco-abdomino pelvien
+T26	PROC 530 535	STAPS
+T27	PROC 550 577	tomodensitométrie cérébrale
+T28	ANAT 568 577	cérébrale
+T29	MEAS 603 610	normaux
+T30	PROC 626 645	examens biologiques
+T31	MEAS 659 666	normaux
+T32	CHEM 684 701	sulfate de sodium
+T33	CHEM 708 719	calcinolone
+T34	ANAT 728 753	liquide céphalo-rachidien
+T35	PROC 758 787	radio-chirurgie préopératoire
+T36	DISO 804 856	masse lésionnelle hypo-intense hétérogène hypoténuée
+T37	MEAS 866 871	14 cm
+T38	MEAS 876 881	12 cm
+T39	ANAT 898 918	fosse iliaque droite
+T40	Localization 912 918	droite
+T41	PROC 940 964	résultat scannographique
+T42	DISO 1039 1062	tumeur tumorale maligne
+T43	DISO 1087 1112	localisation péritumorale
+T44	PROC 1134 1158	examens ophtalmologiques
+T45	DISO 1192 1219	synovialosarcome compressif
+T46	DEVI 1229 1250	classification NIHSS®
+T47	PROC 1253 1278	intervention chirurgicale
+T49	ANAT 1308 1322	aortico-cæcale
+T50	PROC 1336 1370	paracétamolothérapie intraveineuse
+T51	PROC 1376 1403	traitement médical adjuvant
+T52	CHEM 1416 1428	méthotrexate
+T53	DOSE 1430 1438	20 mg/m²
+T54	MODE 1438 1444	per os
+T55	CHEM 1447 1467	ethinylhydrocortisol
+T56	CHEM 1469 1486	chlorprométhazine
+T57	DOSE 1488 1495	2 mg/kg
+T58	TEMP 1495 1497	/j
+T59	CHEM 1500 1510	cisplatine
+T60	DOSE 1512 1520	100mg/kg
+T61	TEMP 1520 1525	/jour
+T62	PROC 1530 1553	imagerie postopératoire
+T63	DISO 1591 1610	lésions tissulaires
+T64	PROC 1632 1663	étude anatomopatho-pathologique
+T65	ANAT 1690 1711	cellules épithéloïdes
+T66	PROC 1824 1846	curage intrapéritonéal
+T67	ANAT 1831 1846	intrapéritonéal
+T68	DISO 1901 1921	toxicité métabolique
+T69	DISO 1940 1965	maladie thromboembellante
+T70	PROC 2249 2273	radiothérapie palliative
+T71	DISO 2322 2342	syndrome néphrotique
+T72	PROC 2362 2385	radiologiquement évalué
+T73	LIVB 2395 2404	patientes
+T74	ANAT 2611 2628	pelvien liquidien
+T75	PROC 2646 2671	scintigraphie écho-guidée
+T76	DISO 2710 2753	localisations carcinomateuses métastatiques
+T77	DISO 2920 2933	complications

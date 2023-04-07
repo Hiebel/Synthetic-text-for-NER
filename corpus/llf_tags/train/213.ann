@@ -1,0 +1,23 @@
+T1	PROC 3 16	sérologie VIH
+T2	MEAS 23 31	positive
+T3	MEAS 34 43	2,3 GB/ml
+T4	PROC 49 72	radiographies du thorax
+T5	ANAT 66 72	thorax
+T6	ANAT 81 88	abdomen
+T7	DISO 102 115	particularité
+T8	DISO 136 161	syndrome myélodysplasique
+T9	DISO 198 227	symptômes neuropsychiatriques
+T10	DISO 242 256	amaigrissement
+T11	MEAS 272 276	10kg
+T12	DISO 283 292	dysphonie
+T13	LIVB 336 344	patiente
+T14	Concept_Idea 357 388	antécédents médico-chirurgicaux
+T15	DISO 461 474	complications
+T16	PROC 479 501	traitement chirurgical
+T17	PROC 521 539	antibioprophylaxie
+T18	Concept_Idea 573 581	clinique
+T19	TEMP 588 598	8 semaines
+T20	PHEN 622 642	récepteurs hormonaux
+T21	MEAS 658 665	normaux
+T22	CHEM 669 677	imatinib
+T23	PROC 696 721	anticoagulants circulants

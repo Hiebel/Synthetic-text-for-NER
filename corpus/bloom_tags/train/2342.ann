@@ -1,0 +1,20 @@
+T1	LIVB 3 10	patient
+T2	LIVB 62 64	sa
+T3	PROC 65 77	consultation
+T4	DISO 82 100	détresse digestive
+T5	PHEN 91 100	digestive
+T6	DISO 114 132	diarrhée purulente
+T7	DISO 180 193	inflammatoire
+T8	MEAS 208 214	rapide
+T9	DISO 313 338	choc hydro-électrolytique
+T10	PROC 351 381	bilan phospho calcique sérique
+T11	DISO 403 423	syndrome néphrotique
+T12	DISO 441 458	hyperphosphatémie
+T13	MODE 478 488	voie orale
+T14	CHEM 499 510	nicardipril
+T15	DISO 538 557	maladie métabolique
+T16	LIVB 632 643	jeune femme
+T17	TEMP 652 658	24 ans
+T18	MEAS 686 687	8
+T19	LIVB 688 695	enfants
+T20	TEMP 723 729	12 ans

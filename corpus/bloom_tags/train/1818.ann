@@ -1,0 +1,29 @@
+T1	LIVB 4 9	femme
+T2	CHEM 26 38	prednisolone
+T3	DOSE 41 47	1mg/kg
+T4	TEMP 47 52	/jour
+T5	MODE 58 68	voie orale
+T6	CHEM 82 99	cycles palliatifs
+T7	CHEM 101 110	Etoposide
+T8	DOSE 112 120	50 mg/m²
+T9	CHEM 123 134	Cyclosérine
+T10	PROC 141 146	reçue
+T11	DISO 160 187	détresse respiratoire aiguë
+T12	PHEN 169 187	respiratoire aiguë
+T13	TEMP 197 214	depuis 3 semaines
+T14	MEAS 229 240	progressive
+T15	DISO 255 269	amaigrissement
+T16	MEAS 277 282	10 kg
+T17	PROC 295 307	consultation
+T18	MEAS 317 328	insuffisant
+T19	MEAS 344 354	rapidement
+T20	Concept_Idea 358 364	taille
+T21	MEAS 376 380	46cm
+T22	MEAS 383 387	70cm
+T23	DISO 401 418	douleur pelvienne
+T24	ANAT 409 418	pelvienne
+T25	Hospital 427 437	en urgence
+T26	MEAS 449 461	passagrement
+T27	Concept_Idea 465 471	volume
+T28	MEAS 495 504	rougeâtre
+T29	MEAS 595 600	12/10

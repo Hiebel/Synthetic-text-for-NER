@@ -1,0 +1,45 @@
+T1	LIVB 29 37	patiente
+T2	MEAS 103 111	notables
+T3	PROC 113 118	reçue
+T4	Hospital 122 143	service d'hémodialyse
+T5	DISO 176 197	détresse respiratoire
+T6	PHEN 185 197	respiratoire
+T7	MEAS 212 218	rapide
+T8	MODE 224 234	voie orale
+T9	TEMP 244 260	depuis deux mois
+T10	LIVB 267 270	son
+T11	PROC 271 280	admission
+T12	PROC 285 308	examen clinique initial
+T13	DISO 325 342	dyspnée sifflante
+T14	MEAS 357 365	brunâtre
+T15	PROC 371 394	examen pleuropulmonaire
+T16	ANAT 378 394	pleuropulmonaire
+T17	DISO 419 438	tachycardie fébrile
+T18	MEAS 451 469	120 battements/min
+T19	DISO 486 510	pâleur ocutanéo-muqueuse
+T20	ANAT 493 510	ocutanéo-muqueuse
+T21	PROC 520 543	auscultation thoracique
+T22	ANAT 533 543	thoracique
+T23	DISO 591 613	empyème basithoracique
+T24	ANAT 599 613	basithoracique
+T25	PROC 633 656	diagnostic différentiel
+T26	LIVB 666 675	patientes
+T27	DISO 693 717	symptomatologie atypique
+T28	CHEM 761 772	médicaments
+T29	CHEM 775 786	nicardipril
+T30	CHEM 788 799	hydroxyzine
+T31	CHEM 801 816	metaméthoxazole
+T32	CHEM 818 829	ethionamide
+T33	CHEM 831 843	prédnisolone
+T34	PROC 858 876	traitement curatif
+T35	DOSE 887 889	1g
+T36	CHEM 893 902	midazolam
+T37	DOSE 908 911	2 g
+T38	CHEM 915 928	phénobarbital
+T39	PROC 933 947	interrogatoire
+T40	LIVB 960 964	elle
+T41	DISO 989 995	fièvre
+T42	TEMP 1018 1025	3 jours
+T43	LIVB 1038 1041	son
+T44	PROC 1042 1051	admission
+T45	LIVB 1094 1107	belle-famille

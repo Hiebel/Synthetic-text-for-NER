@@ -1,0 +1,34 @@
+T1	PROC 3 30	bilan radiologique standard
+T2	DISO 46 78	processus tumoral du sein gauche
+T3	ANAT 67 78	sein gauche
+T4	Localization 72 78	gauche
+T5	PHEN 84 102	suites opératoires
+T6	MEAS 111 118	simples
+T7	LIVB 125 133	patiente
+T8	PROC 138 144	sortie
+T9	TEMP 148 160	sixième jour
+T10	MEAS 197 208	progressive
+T11	DISO 213 229	signes cliniques
+T12	DISO 246 253	dyspnée
+T13	MEAS 272 281	stade III
+T14	Concept_Idea 290 300	indication
+T15	PROC 307 342	chimiothérapie palliative adjuvante
+T16	CHEM 348 358	corticoïde
+T17	DOSE 363 370	20mg/kg
+T18	TEMP 370 374	/24h
+T19	MODE 378 393	intramusculaire
+T20	DOSE 406 415	0,5 mg/Kg
+T21	TEMP 415 419	/24h
+T22	PROC 425 441	traitement local
+T23	PROC 456 492	néphrectomie exploratrice percutanée
+T24	PROC 505 579	curage ganglionnaire cervico-thyroïdien superficiel scanno-trachéo-vaginal
+T25	ANAT 598 641	lambeau sternal métatarsien supérieur droit
+T26	Localization 636 641	droit
+T27	DISO 654 673	anomalie tissulaire
+T28	DISO 677 697	métaplasie nodulaire
+T29	PROC 711 738	examen anatomopathologiaque
+T30	DISO 770 841	adénocarcinome mucineux carcinomateux infiltrant les muqueuses buccales
+T31	ANAT 823 841	muqueuses buccales
+T32	ANAT 860 911	paroi thoracique postéro-latérale inférieure droite
+T33	Localization 905 911	droite
+T34	DISO 960 979	tumeur histologique

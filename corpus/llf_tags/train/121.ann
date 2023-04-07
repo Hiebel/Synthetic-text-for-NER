@@ -1,0 +1,24 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	Concept_Idea 59 65	aspect
+T4	DISO 69 89	niveau hydro-aérique
+T5	MEAS 104 108	deux
+T6	ANAT 109 126	bases pulmonaires
+T7	PROC 131 147	bilan biologique
+T8	DISO 165 185	hypertriglycéridémie
+T9	MEAS 188 196	1,2 g/dl
+T10	CHEM 199 216	hydrolyse glyquée
+T11	CHEM 224 235	Glucantime®
+T12	DOSE 237 241	3 mg
+T13	TEMP 241 246	/24 h
+T14	PROC 253 286	cholécystectomie totale adjuvante
+T15	PROC 292 348	curage ganglionnaire axillaire cervico-thoraco-abdominal
+T16	ANAT 299 348	ganglionnaire axillaire cervico-thoraco-abdominal
+T17	PROC 361 384	traitement conservateur
+T18	MEAS 436 445	favorable
+T19	DISO 451 472	récidive neurologique
+T20	PROC 481 491	extubation
+T21	LIVB 500 508	patiente
+T22	PROC 528 534	suivie
+T23	LIVB 540 545	notre
+T24	Hospital 546 553	service

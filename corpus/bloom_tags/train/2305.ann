@@ -1,0 +1,29 @@
+T1	LIVB 15 22	patient
+T2	DISO 34 43	tabagique
+T3	MEAS 56 73	30 paquets-années
+T4	PROC 85 89	réçu
+T5	Hospital 94 102	urgences
+T6	DISO 112 146	douleurs thoraciques constrictives
+T7	ANAT 121 132	thoraciques
+T8	MEAS 161 173	progressante
+T9	TEMP 183 197	depuis un mois
+T10	PROC 201 215	interrogatoire
+T11	DISO 244 258	épigastralgies
+T12	PROC 277 297	examen gynécologique
+T13	DISO 309 322	particularité
+T14	PROC 327 337	diagnostic
+T15	DISO 344 384	masse centrale du péritoine hypertrophié
+T16	Localization 350 358	centrale
+T17	ANAT 362 384	péritoine hypertrophié
+T18	PROC 414 438	bilan d'immunodépression
+T19	PROC 442 468	explorations chirurgicales
+T21	Localization 574 580	droite
+T22	MEAS 610 615	12 cm
+T23	Concept_Idea 619 628	grand axe
+T24	ANAT 645 680	vésicule biliaire supérieure droite
+T25	Localization 674 680	droite
+T26	DISO 696 743	lésion tumorale kystique hypoéchogène hypodense
+T27	PHEN 745 749	TPKH
+T28	ANAT 767 784	parois cardiaques
+T29	LIVB 812 820	patiente
+T30	DISO 834 856	adénocarcinome malaire

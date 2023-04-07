@@ -1,0 +1,64 @@
+T1	LIVB 20 28	patiente
+T2	PROC 40 46	admise
+T3	Hospital 50 57	urgence
+T4	Hospital 62 87	urgences ophtalmologiques
+T5	DISO 97 113	troubles visuels
+T6	CHEM 136 149	antibiotiques
+T7	CHEM 159 190	amoxicilline-acide clavulanique
+T8	DOSE 192 194	2g
+T9	TEMP 194 196	/j
+T10	CHEM 212 226	ciprofloxacine
+T11	DOSE 228 234	200 mg
+T12	TEMP 234 236	/j
+T13	DISO 287 340	œdème papulo-cruliforme du sinus maxillaire bilatéral
+T14	ANAT 293 310	papulo-cruliforme
+T15	ANAT 314 340	sinus maxillaire bilatéral
+T16	Localization 331 340	bilatéral
+T17	TEMP 350 366	depuis une année
+T18	DISO 380 396	signes cliniques
+T19	PROC 410 425	examen clinique
+T20	MEAS 445 448	bon
+T21	Concept_Idea 449 475	développement psychomoteur
+T22	PHEN 489 504	acuité visuelle
+T23	MEAS 515 521	1/10 e
+T24	LIVB 541 545	Elle
+T25	DISO 572 595	symptômes neurologiques
+T26	PROC 599 643	échographie abdomino-pelvienne transfixiante
+T27	ANAT 611 643	abdomino-pelvienne transfixiante
+T28	PROC 664 690	contraception progestative
+T29	MODE 694 710	collet menstruel
+T30	DISO 738 768	masse tumorale hypo échogéante
+T31	MEAS 778 785	12/4 cm
+T32	PROC 813 822	injection
+T33	CHEM 826 846	produit de contraste
+T34	DISO 863 889	lésion nodulaire hypodense
+T35	ANAT 910 942	méso-sigmoïdien péripancréatique
+T36	DISO 986 1036	adénopathie jugulo-carotidienne hyper-vascularisée
+T37	ANAT 998 1036	jugulo-carotidienne hyper-vascularisée
+T38	MEAS 1045 1059	environ 5/8 cm
+T39	ANAT 1078 1107	fosse iliaque supra hépatique
+T40	Localization 1092 1097	supra
+T41	DISO 1142 1166	pseudo-kystes hydatiques
+T42	DISO 1176 1202	anomalies ostéo-métastases
+T43	LIVB 1225 1233	patiente
+T44	PROC 1237 1261	scanner abdomino pelvien
+T45	ANAT 1245 1261	abdomino pelvien
+T47	ANAT 1381 1414	grosses-vésicules utéro-liquoraux
+T48	ANAT 1435 1452	paroi intestinale
+T49	MEAS 1464 1483	de façonprogressive
+T50	Concept_Idea 1487 1493	volume
+T51	MEAS 1512 1522	en coupole
+T52	Concept_Idea 1526 1532	taille
+T53	MEAS 1546 1554	homogène
+T54	ANAT 1597 1614	pelvien liquidien
+T55	MEAS 1630 1639	considéré
+T56	MEAS 1664 1668	15cm
+T57	MEAS 1700 1713	plus marquées
+T58	MEAS 1814 1827	bien limitées
+T59	Concept_Idea 1863 1871	contours
+T60	PROC 1877 1896	chirurgie adjuvante
+T61	PROC 1927 1948	toilette endovaginale
+T62	ANAT 1936 1948	endovaginale
+T63	PROC 1962 1992	méatotumorectomie exploratrice
+T64	DISO 2025 2031	tumeur
+T65	LIVB 2130 2138	patiente

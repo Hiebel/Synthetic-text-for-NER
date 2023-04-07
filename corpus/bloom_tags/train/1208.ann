@@ -1,0 +1,24 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 30 36	enfant
+T3	MEAS 40 49	assez bon
+T4	Concept_Idea 50 62	état général
+T5	DISO 72 106	sensibilité de la paume de la main
+T6	ANAT 90 106	paume de la main
+T7	DISO 114 140	troubles sensitivomotrices
+T9	PROC 190 199	admission
+T10	Hospital 208 215	service
+T11	PHEN 221 239	suites opératoires
+T12	DISO 280 301	détresse respiratoire
+T13	TEMP 311 324	depuis 2 mois
+T14	DISO 337 346	symptômes
+T15	PROC 360 379	bilan préopératoire
+T16	PROC 403 433	échographie abdomino-pelvienne
+T17	ANAT 415 433	abdomino-pelvienne
+T18	DISO 462 471	anomalies
+T19	DISO 498 518	hépato-surrénalectie
+T20	DISO 528 541	organomégalie
+T21	MEAS 558 562	fine
+T22	PROC 568 597	ponction-biopsie transrectale
+T23	PROC 606 618	diagnostique
+T24	DISO 633 675	carcinome vésiculo-néphrétique lithiasique
+T25	ANAT 643 675	vésiculo-néphrétique lithiasique

@@ -1,0 +1,23 @@
+T1	PROC 18 43	analyse histopathologique
+T2	PROC 45 64	immunohistochimique
+T3	PROC 66 86	immuno-histochimique
+T4	PROC 89 107	cyto-chromosomique
+T5	PROC 121 146	étude immunohistochimique
+T6	DISO 167 195	neuro-endocrine glioblastome
+T7	LIVB 306 312	enfant
+T8	TEMP 320 326	15 ans
+T9	DISO 350 369	traumatisme crânien
+T10	DISO 406 421	symptomatologie
+T11	TEMP 444 458	pendant 9 mois
+T12	Hospital 485 492	service
+T13	DISO 555 580	pathophilie psychomotrice
+T14	DISO 598 621	hypertension artérielle
+T15	ANAT 611 621	artérielle
+T16	PROC 730 757	traitement curatif adjuvant
+T17	PROC 783 828	chirurgie radicale exploratrice transfixiante
+T18	DISO 861 889	polylobée tissulaire maligne
+T19	Localization 918 928	bilatéraux
+T20	DISO 963 1011	hypervascularisation polylobée nodulaire ulcérée
+T21	ANAT 1058 1098	parties molles pariétales dorsolatérales
+T22	ANAT 1124 1143	fosse nasale droite
+T23	Localization 1137 1143	droite

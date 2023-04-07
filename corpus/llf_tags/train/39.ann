@@ -1,0 +1,75 @@
+T1	LIVB 15 22	patient
+T2	PROC 42 48	traité
+T3	DISO 58 79	tumeur du sein gauche
+T4	ANAT 68 79	sein gauche
+T5	Localization 73 79	gauche
+T6	PROC 84 101	tomodensitométrie
+T7	PROC 103 117	TDM) cérébrale
+T8	ANAT 108 117	cérébrale
+T9	DISO 133 250	processus lésionnel hypoéchogène hétéro-rectiligne tissulaire des troncs supéro-exophysaires postéro-latéraux gauches
+T10	ANAT 199 250	troncs supéro-exophysaires postéro-latéraux gauches
+T11	Localization 243 250	gauches
+T12	MEAS 259 270	plus grande
+T13	MEAS 278 282	4 cm
+T14	Concept_Idea 286 295	petit axe
+T15	ANAT 353 375	rein postérieur gauche
+T16	Localization 358 375	postérieur gauche
+T17	PROC 380 401	bilan phosphocalcique
+T18	DISO 421 429	anomalie
+T19	PROC 444 459	globules blancs
+T20	MEAS 469 477	positifs
+T21	MEAS 480 490	0,45 ng/ml
+T22	DISO 518 546	ostéopéricardite infectieuse
+T23	DISO 575 629	néoplasie intraparenchymateuse maligne kératinoconjale
+T24	PROC 635 660	chimiothérapie palliative
+T25	CHEM 666 697	amoxicilline acide clavulanique
+T26	PROC 711 738	radiothérapie néo adjuvante
+T27	Concept_Idea 778 784	pesait
+T29	TEMP 794 799	/24 h
+T30	PROC 815 840	kinésithérapie antalgique
+T31	PROC 854 895	thyréostimulation cognitive préopératoire
+T32	Concept_Idea 908 938	caractéristiques morphologique
+T34	Concept_Idea 1000 1012	état général
+T35	LIVB 1024 1032	patiente
+T36	PROC 1037 1057	suivi postopératoire
+T37	PROC 1194 1217	contrôles locorégionaux
+T38	DISO 1249 1270	syndrome fébrile aigu
+T39	DISO 1281 1310	symptômes clinico-biologiques
+T40	DISO 1348 1372	maladie thromboembolique
+T41	DISO 1387 1406	accident ischémique
+T42	PROC 1410 1435	examen neuropsychiatrique
+T43	DISO 1451 1487	déficit psychomoteur polymalformatif
+T44	DISO 1514 1533	psychose démoniaque
+T45	DISO 1600 1636	consanguinité prénatale pathologique
+T46	DISO 1678 1700	léiomyome surnuméraire
+T47	DEVI 1718 1732	complément IRM
+T48	PROC 1738 1755	enquête familiale
+T49	LIVB 1818 1822	père
+T50	LIVB 1826 1837	soeur cadet
+T51	LIVB 2137 2144	enfants
+T52	LIVB 2264 2297	familles socialement défavorisées
+T53	LIVB 2318 2325	parents
+T54	LIVB 2341 2357	filles germaines
+T55	LIVB 2401 2422	nièces patrilinéaires
+T56	PROC 2430 2463	scanner crânio-encéphalographique
+T57	ANAT 2438 2463	crânio-encéphalographique
+T58	MEAS 2532 2537	30 mm
+T59	MEAS 2541 2546	50 mm
+T60	ANAT 2572 2599	neurorécepteurs cérébelleux
+T61	PROC 2765 2790	intervention chirurgicale
+T62	Localization 3123 3140	moitié inférieure
+T63	ANAT 3144 3160	ventricule droit
+T64	Localization 3155 3160	droit
+T65	Concept_Idea 3188 3195	contour
+T66	ANAT 3272 3300	branches pariéto-palpébrales
+T67	LIVB 3377 3387	monsieur B
+T68	LIVB 3432 3434	il
+T69	PROC 3449 3473	chimiothérapie adjuvante
+T70	CHEM 3479 3489	isoniazide
+T71	DOSE 3491 3497	100 mg
+T72	TEMP 3497 3499	/j
+T73	LIVB 3620 3623	son
+T74	LIVB 3624 3651	mariage consanguin familial
+T75	DISO 3676 3702	symptomatologie dépressive
+T76	DISO 3709 3733	dépression psychomotrice
+T77	DISO 3791 3864	psychose démoniaque néonatale neuropsychiatrique malformative stade ELISA

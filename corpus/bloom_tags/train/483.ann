@@ -1,0 +1,17 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	4 ans
+T3	PROC 32 40	consulte
+T4	DISO 50 56	fièvre
+T5	Concept_Idea 113 125	état général
+T6	PROC 129 144	examen clinique
+T7	DISO 161 198	pâleur des muqueuses cervico-buccales
+T8	ANAT 172 198	muqueuses cervico-buccales
+T9	MEAS 202 214	environ 2 cm
+T11	DISO 275 283	polypnée
+T12	MEAS 286 299	28 cycles/min
+T13	PROC 304 323	bilan immunologique
+T14	MEAS 330 337	négatif
+T15	PROC 341 378	électrophorèse des protéines sériques
+T16	PROC 380 399	protéine C réactive
+T17	PROC 402 426	de l'hémoglobine glyquée
+T18	MEAS 435 452	inférieurs à 0,5%

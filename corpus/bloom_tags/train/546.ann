@@ -1,0 +1,41 @@
+T1	LIVB 29 34	femme
+T2	PROC 60 84	traitée chirurgicalement
+T3	PROC 173 206	bilan immunologique préopératoire
+T4	PROC 248 271	chimiothérapie type BEP
+T5	CHEM 282 295	dexaméthasone
+T6	DOSE 298 303	20 mg
+T7	CHEM 306 317	Cyclosérine
+T8	DOSE 319 325	1mg/kg
+T9	CHEM 328 339	Ceftriaxone
+T10	DOSE 342 351	0,5 mg/kg
+T11	DISO 415 423	récidive
+T12	DISO 430 436	signes
+T13	DISO 470 496	perte de substance blanche
+T14	ANAT 479 496	substance blanche
+T15	MEAS 577 590	prurigineuses
+T16	LIVB 730 740	patiientes
+T17	MEAS 813 817	39°C
+T18	DISO 820 828	anorexie
+T19	DISO 834 855	détresse respiratoire
+T20	PHEN 843 855	respiratoire
+T21	MEAS 867 880	30 cycles/min
+T22	PROC 909 917	vaccinée
+T23	DISO 958 995	maladie thromboembolique prurigineuse
+T24	PROC 1010 1050	technique vaccino-thérapeutique curative
+T25	TEMP 1067 1072	3 ans
+T26	LIVB 1082 1087	elles
+T27	PROC 1096 1104	référées
+T28	Hospital 1114 1121	hôpital
+T29	DISO 1142 1161	contage tuberculeux
+T30	PROC 1618 1643	intervention chirurgicale
+T31	TEMP 1651 1658	120 min
+T32	PROC 1673 1695	chirurgie exploratrice
+T33	PROC 1703 1732	biopsies anatomopathologiques
+T34	DISO 1753 1801	adénocarcinome pléomorphe du méso-pariéto-utérin
+T35	ANAT 1782 1801	méso-pariéto-utérin
+T36	PROC 1806 1830	diagnostic préopératoire
+T37	DISO 1849 1885	carcinose péritonéale carcinomateuse
+T38	ANAT 1911 1931	péritonéal liquidien
+T39	Concept_Idea 1934 1958	échostructure tissulaire
+T40	MEAS 1959 1968	régulière
+T41	DEVI 1984 1991	greffon

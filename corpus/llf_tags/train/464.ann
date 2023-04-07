@@ -1,0 +1,39 @@
+T1	PROC 4 11	biopsie
+T2	ANAT 18 23	masse
+T3	PROC 44 69	étude anatomopathologique
+T4	DISO 98 106	récidive
+T5	DISO 111 128	lésions kystiques
+T6	PROC 133 154	bilan phosphocalcique
+T7	MEAS 166 171	bonne
+T8	PHEN 172 187	fonction rénale
+T9	ANAT 181 187	rénale
+T10	Concept_Idea 200 212	état général
+T11	MEAS 213 219	altéré
+T12	PROC 233 250	bilan étiologique
+T13	DISO 260 273	particularité
+T14	MEAS 293 306	spectaculaire
+T15	PROC 312 340	antibiothérapie probabiliste
+T16	DOSE 376 383	5 mg/kg
+T17	TEMP 383 385	/j
+T18	CHEM 400 431	amoxicilline acide clavulanique
+T19	DOSE 433 435	2g
+T20	TEMP 435 437	/j
+T21	CHEM 450 479	triméthoprimesulfaméthoxazole
+T22	DOSE 481 483	1g
+T23	TEMP 483 485	/j
+T24	LIVB 491 499	patiente
+T25	PROC 530 559	cholécystectomie exploratrice
+T26	PROC 565 593	anastomose termino-terminale
+T27	Localization 576 593	termino-terminale
+T28	ANAT 607 637	région crico-pharyngo-laryngée
+T29	ANAT 648 680	fosses nasales cervicale droites
+T30	Localization 673 680	droites
+T31	ANAT 684 711	jugulo-carotidienne gauches
+T32	Localization 704 711	gauches
+T33	MEAS 730 738	négative
+T34	MEAS 775 782	simples
+T35	PROC 804 830	cholécystectomie digestive
+T36	PROC 844 877	prise en charge neurochirurgicale
+T37	PROC 883 932	thérapie cognitivo-comportementale automédication
+T38	Concept_Idea 945 963	résultats clinique
+T39	PROC 967 979	radiologique

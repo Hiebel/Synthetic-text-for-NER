@@ -1,0 +1,61 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 71	antécédents pathologiques
+T3	MEAS 72 84	particuliers
+T4	PROC 86 92	suivie
+T5	DISO 101 118	carcinome ovarien
+T6	ANAT 111 118	ovarien
+T7	ANAT 132 142	col utérin
+T8	PROC 146 160	interrogatoire
+T9	DISO 193 215	vomissements purulents
+T10	TEMP 225 238	depuis 5 mois
+T11	PROC 243 262	bilan préopératoire
+T12	PROC 275 302	tomodensitométrie pelvienne
+T13	ANAT 293 302	pelvienne
+T14	PROC 308 339	échographie abdomino- pelvienne
+T15	ANAT 320 339	abdomino- pelvienne
+T17	Localization 368 376	centrale
+T18	DISO 382 405	adénocarcinome kystique
+T19	ANAT 421 455	parties molles cervico-vésiculaire
+T20	LIVB 457 461	Elle
+T21	MEAS 480 487	pT3N0M0
+T22	Hospital 495 520	National Center of Health
+T23	CHEM 522 532	Tamoxifène
+T24	CHEM 535 548	Cycloestérone
+T25	PROC 554 578	scanner abdomino-pelvien
+T26	ANAT 562 578	abdomino-pelvien
+T27	DISO 613 639	masse tissulaire hypodense
+T28	MEAS 649 654	30 cm
+T29	MEAS 659 664	12 cm
+T30	Concept_Idea 667 673	aspect
+T31	MEAS 674 684	hyperdense
+T32	ANAT 706 741	cavités péritonéales latéroutérines
+T33	DISO 763 784	niveaux hydro-aérique
+T34	DISO 809 834	localisation métastatique
+T35	LIVB 952 959	famille
+T36	LIVB 1033 1042	patientes
+T37	PROC 1047 1067	exérèse chirurgicale
+T38	PROC 1073 1095	anesthésie généralisée
+T39	PROC 1101 1136	curage ganglionnaire intrarégionale
+T40	ANAT 1108 1136	ganglionnaire intrarégionale
+T41	DISO 1180 1186	tumeur
+T42	PROC 1208 1247	recherche étiologique histopathologique
+T43	PROC 1261 1286	étude immunohistochimique
+T44	PHEN 1322 1331	tolérance
+T45	MEAS 1675 1683	positifs
+T46	DISO 1844 1865	endométrial carcinome
+T47	DISO 1965 1992	polynucléose neutrophilique
+T48	DISO 2020 2044	localisationssecondaires
+T49	PROC 2251 2290	radiothérapie palliative complémentaire
+T50	DISO 2377 2392	symptomatologie
+T51	PROC 2520 2547	analyse anatomo-chirurgical
+T52	MEAS 2698 2704	sévère
+T53	PROC 2717 2745	pronostic radiotherapeutique
+T54	ANAT 3261 3283	membre inférieur droit
+T55	Localization 3278 3283	droit
+T56	DISO 3334 3372	hypotonie des organes hématopoiétiques
+T57	ANAT 3348 3372	organes hématopoiétiques
+T58	Concept_Idea 3376 3382	aspect
+T59	DISO 3388 3416	épanchement intra-péritonéal
+T60	ANAT 3400 3416	intra-péritonéal
+T61	LIVB 3418 3422	nous
+T62	DISO 3453 3491	syndrome d'hyperparathyroïdie primaire

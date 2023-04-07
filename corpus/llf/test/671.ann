@@ -1,0 +1,17 @@
+T1	Concept_Idea 12 21	cliniques
+T2	Concept_Idea 25 36	biologiques
+T3	DISO 60 76	myélome
+T4	LIVB 81 89	patiente
+T5	MEAS 97 101	cinq
+T6	PROC 102 135	cures
+T7	CHEM 137 147	prednisone
+T8	DOSE 148 153	1mgx2
+T9	TEMP 148 158	1mgx2/jour
+T10	TEMP 159 179	pendant
+T11	MEAS 189 194	bonne
+T12	Concept_Idea 195 211	réponse
+T13	PHEN 195 202	réponse
+T14	Concept_Idea 213 223	biologique
+T15	PROC 227 239	radiologique
+T16	MEAS 287 293	totale
+T17	DISO 297 304	trouble

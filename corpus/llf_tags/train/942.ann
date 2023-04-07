@@ -1,0 +1,11 @@
+T1	LIVB 14 21	patient
+T2	DISO 63 93	diabète non insulino-dépendant
+T3	CHEM 99 109	amlodipine
+T4	DOSE 111 117	3mg/kg
+T5	TEMP 117 119	/j
+T6	PROC 133 148	prise en charge
+T7	PROC 179 204	cholécysterectomie totale
+T8	PROC 210 240	anastomose du pédicule fémoral
+T9	ANAT 224 240	pédicule fémoral
+T10	Concept_Idea 299 321	paramètres biologiques
+T11	TEMP 384 390	6 mois

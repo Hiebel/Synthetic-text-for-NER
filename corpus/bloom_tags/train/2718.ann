@@ -1,0 +1,24 @@
+T1	LIVB 3 10	patient
+T3	ANAT 56 66	artérielle
+T4	Hospital 79 94	médecins locaux
+T5	DISO 110 130	diabète hypertenseur
+T6	PROC 135 139	reçu
+T7	LIVB 145 150	notre
+T8	Hospital 151 160	formation
+T9	DISO 196 217	détresse respiratoire
+T10	PHEN 205 217	respiratoire
+T11	MEAS 232 238	rapide
+T12	TEMP 248 264	depuis deux mois
+T13	DISO 317 343	douleur abdomino-pelvienne
+T14	ANAT 325 343	abdomino-pelvienne
+T15	MEAS 366 381	progressivement
+T16	Concept_Idea 385 391	volume
+T17	DISO 427 452	vomissements alimentaires
+T18	DISO 486 524	sensibilité abdomino-pelvienne diffuse
+T19	ANAT 498 524	abdomino-pelvienne diffuse
+T20	DISO 534 545	dénutrition
+T21	MEAS 557 562	10 kg
+T22	DISO 619 647	épigastralgies constrictives
+T23	DISO 723 745	céphalées menstruelles
+T24	MEAS 763 778	progressivement
+T25	Concept_Idea 782 788	taille

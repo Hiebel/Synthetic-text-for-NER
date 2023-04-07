@@ -1,0 +1,89 @@
+T1	MEAS 4 5	1
+T2	LIVB 6 17	Mme R... JB
+T3	DISO 49 68	contage tuberculeux
+T4	ANAT 57 68	tuberculeux
+T5	DISO 75 88	consanguinité
+T6	Hospital 109 130	urgences pédiatriques
+T7	TEMP 143 151	6 heures
+T8	PROC 179 194	examen clinique
+T9	LIVB 203 213	nourrisson
+T10	TEMP 221 227	3 mois
+T11	MEAS 238 248	17 x 12 cm
+T12	PHEN 278 287	grossesse
+T13	PROC 292 298	suivie
+T14	TEMP 312 326	depuis 6 jours
+T15	LIVB 333 335	sa
+T16	PROC 336 351	prise en charge
+T17	PROC 357 379	traitement substitutif
+T18	CHEM 394 425	immunoglobulines intraveineuses
+T19	PROC 532 541	perfusion
+T20	TEMP 553 563	45 minutes
+T21	MEAS 612 619	simples
+T22	DISO 644 663	syndrome infectieux
+T23	DISO 689 710	récidive neurologique
+T24	DISO 720 742	anomalie morphologique
+T25	PROC 755 764	contrôles
+T26	PROC 770 810	échographie obstétricale préanesthésique
+T27	DISO 853 928	masse tissulaire anéchogène hypoéchogène périrénal glomérulaire congénitale
+T28	MEAS 941 946	10 cm
+T29	ANAT 965 980	flanc inférieur
+T30	Localization 971 980	inférieur
+T31	ANAT 999 1009	sein droit
+T32	Localization 1004 1009	droit
+T33	ANAT 1034 1047	tête fémorale
+T34	ANAT 1062 1101	muscle fessier thoracique antero-dorsal
+T35	ANAT 1133 1190	parties molles cervicale distales superficielles externes
+T36	ANAT 1207 1248	fragments intervertébraux intrarachidiens
+T37	DEVI 1257 1265	seringue
+T38	MEAS 1275 1289	14 centimètres
+T39	Concept_Idea 1293 1301	diamètre
+T40	Concept_Idea 1345 1365	caractère anatomique
+T41	MEAS 1382 1398	4×11 millimètres
+T42	Concept_Idea 1402 1410	diamètre
+T43	ANAT 1431 1458	tissus coelio-cytoplasmique
+T44	ANAT 1479 1530	colon transverse céphalothoracique inferieur commun
+T45	MEAS 1571 1575	7 mm
+T46	DISO 1609 1632	tuberculose infectieuse
+T47	DISO 1638 1662	hernie hydatique maligne
+T48	MEAS 1671 1679	ACR5N0Mx
+T49	Concept_Idea 1692 1711	aspect histologique
+T50	DISO 1728 1770	maladie inflammatoire polymalpositionnelle
+T51	DISO 1788 1816	complication néonatale aiguë
+T52	PROC 1849 1888	néphrectomie exploratrice scanno-guidée
+T53	TEMP 1911 1918	8heures
+T54	PROC 1924 1934	opératoire
+T55	PROC 1967 2020	exentération biopsique endoscopique monocontrolitaire
+T56	MEAS 2069 2081	2350 grammes
+T57	TEMP 2127 2138	24 semaines
+T58	TEMP 2144 2151	32SA+9j
+T59	DISO 2206 2217	traumatisme
+T60	DISO 2227 2248	déficit en corticoïde
+T61	CHEM 2238 2248	corticoïde
+T63	CHEM 2309 2320	blé vésical
+T64	PROC 2332 2356	alimentation parentérale
+T65	PROC 2425 2454	cholécystectomie multiloculée
+T66	Concept_Idea 2465 2485	conditions cliniques
+T67	PROC 2492 2509	anastomose totale
+T68	LIVB 2525 2544	nouveau-né étranger
+T69	DISO 2549 2569	symptômes infectieux
+T70	MEAS 2587 2594	stérile
+T71	PROC 2617 2634	mise en condition
+T72	PROC 2640 2668	antibiothérapie probabiliste
+T73	DOSE 2669 2676	12mg/kg
+T74	TEMP 2676 2678	/j
+T75	TEMP 2686 2688	/j
+T76	DOSE 2730 2738	1 mg /kg
+T77	TEMP 2738 2740	/j
+T78	CHEM 2798 2809	glucantime®
+T79	PROC 2853 2887	transfusion intraveineuse continue
+T80	PHEN 2908 2923	fonction rénale
+T81	ANAT 2917 2923	rénale
+T82	MEAS 2980 2994	asymptomatique
+T83	PROC 3017 3051	laparotomie exploratrice adjuvante
+T84	PROC 3080 3126	prélèvements extrapariéto-oesophagiens simples
+T85	DISO 3154 3177	neurofibromes digestifs
+T86	DISO 3196 3217	détresse respiratoire
+T87	PHEN 3205 3217	respiratoire
+T88	DISO 3247 3275	troubles hydro-nutritionnels
+T89	LIVB 3333 3342	patientes
+T90	DISO 3408 3429	syndrome asthyroïdien

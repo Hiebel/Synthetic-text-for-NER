@@ -1,0 +1,20 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 111	carcinome colique ischémique type MAI
+T3	ANAT 84 91	colique
+T4	DISO 144 185	syndrome inflammatoire clinico-biologique
+T5	LIVB 197 205	patiente
+T6	Concept_Idea 250 262	état général
+T7	MEAS 273 277	3/10
+T9	CHEM 312 322	cisplatine
+T10	CHEM 323 334	dacarbazine
+T11	CHEM 337 350	dexaméthasone
+T12	CHEM 353 363	cytaridine
+T13	MODE 365 382	intramuscululaire
+T14	DOSE 404 411	2 mg/kg
+T15	TEMP 411 419	/semaine
+T16	PROC 432 466	radiothérapie palliative adjuvante
+T17	DOSE 476 481	60 Gy
+T18	TEMP 508 514	32 ans
+T19	DISO 571 603	lésions noduleuses prurigineuses
+T20	MEAS 619 631	spontanément
+T21	Concept_Idea 635 641	volume

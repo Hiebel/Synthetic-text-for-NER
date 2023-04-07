@@ -1,0 +1,19 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 20 23	son
+T4	LIVB 47 55	patiente
+T5	MEAS 59 62	bon
+T6	Concept_Idea 63 75	état général
+T7	DISO 77 88	polypnéique
+T8	MEAS 91 104	30 cycles/min
+T9	PROC 108 138	auscultation pleuro-pulmonaire
+T10	ANAT 121 138	pleuro-pulmonaire
+T11	MEAS 145 152	normale
+T12	PROC 170 186	examen somatique
+T13	DISO 198 211	particularité
+T14	PROC 216 246	bilan biologique préopératoire
+T15	PROC 264 279	globules blancs
+T16	MEAS 282 291	12200/mm3
+T17	PROC 296 337	ponction liquide laryngo-rhino-thoracique
+T19	DEVI 382 401	cathéter thoracique
+T20	ANAT 391 401	thoracique
+T21	Hospital 421 432	réanimation

@@ -1,0 +1,62 @@
+T1	LIVB 3 10	patient
+T2	PROC 31 42	hospitalisé
+T3	Hospital 69 77	urgences
+T4	DISO 95 114	pleurésie purulente
+T5	DISO 141 166	vomissements alimentaires
+T6	TEMP 176 192	depuis deux mois
+T7	DISO 206 222	signes cliniques
+T8	LIVB 234 236	Il
+T9	CHEM 252 265	dexaméthasone
+T10	DOSE 268 276	10 mg/kg
+T11	TEMP 276 281	/jour
+T12	CHEM 284 298	hydrocortisone
+T13	DOSE 300 305	50 mg
+T14	TEMP 305 307	/j
+T15	MODE 313 326	voie veineuse
+T16	CHEM 341 358	désoxycorticoïdes
+T17	CHEM 361 374	nortrendolone
+T18	CHEM 378 398	hydroxy-vitamine B12
+T19	CHEM 412 430	méthylprednisolone
+T20	PROC 436 466	bilan biologique préopératoire
+T21	DISO 484 500	hyperleucocytose
+T22	DISO 630 656	malformations congénitales
+T23	DISO 687 711	thrombophilie ischémique
+T24	LIVB 752 760	patients
+T25	PROC 775 800	étude anatomopathologique
+T26	DISO 879 927	syndrome d’épanchement intracanalaire péritonéal
+T27	ANAT 902 927	intracanalaire péritonéal
+T28	DISO 946 983	anévrisme ventriculaire inféro-septal
+T29	ANAT 956 983	ventriculaire inféro-septal
+T30	DISO 1001 1048	épanchement liquidien céphalorachidiocarotidien
+T31	ANAT 1013 1048	liquidien céphalorachidiocarotidien
+T32	MEAS 1062 1074	plus brutale
+T33	PROC 1135 1163	prise en charge chirurgicale
+T34	MEAS 1198 1217	spontanément élevée
+T35	DISO 1295 1321	conflits thromboemboliques
+T36	DISO 1344 1372	sécrétions pseudocoagulantes
+T37	MEAS 1406 1428	inférieure à 5 minutes
+T38	DEVI 1442 1466	sonde œsogastroduodénale
+T39	ANAT 1448 1466	œsogastroduodénale
+T40	DISO 1530 1547	souffrance fœtale
+T41	PROC 1560 1580	pronostic-opératoire
+T42	PROC 1717 1720	ECG
+T43	PROC 1726 1763	fibroscopie oeso-gastro-anastomotique
+T44	ANAT 1738 1763	oeso-gastro-anastomotique
+T45	DISO 1793 1806	masse maligne
+T46	DISO 1849 1889	néphromégalie achrome nodulaire kystique
+T47	DISO 1948 1971	schwannome hypertrophié
+T48	MEAS 2106 2111	13 cm
+T49	Concept_Idea 2115 2124	grand axe
+T50	PROC 2127 2148	échographie pelvienne
+T51	ANAT 2139 2148	pelvienne
+T52	DISO 2162 2219	hypertrophie parathyroïdienne basithoracique hypoechogène
+T54	PROC 2242 2251	injection
+T55	CHEM 2255 2275	produit de contraste
+T56	ANAT 2312 2339	parties molles intestinales
+T58	Concept_Idea 2474 2480	taille
+T59	PROC 2493 2503	diagnostic
+T60	PROC 2507 2540	imagerie par résonance magnétique
+T61	PROC 2542 2545	IRM
+T62	DISO 2568 2619	processus tumoral hypersignal T2 hyperhypersignalT1
+T63	DISO 2626 2684	envahissement des organes cervico-vasculaires péritumoraux
+T64	ANAT 2644 2684	organes cervico-vasculaires péritumoraux

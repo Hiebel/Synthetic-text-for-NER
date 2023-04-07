@@ -1,0 +1,30 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	11 ans
+T3	DISO 42 67	antécédents pathologiques
+T4	MEAS 68 76	notables
+T5	PROC 78 88	consultait
+T6	Hospital 93 114	urgences pédiatriques
+T7	DISO 124 160	douleurs épigastriques constrictives
+T8	ANAT 133 146	épigastriques
+T9	TEMP 170 187	depuis deux jours
+T10	DISO 204 210	fièvre
+T11	PROC 227 242	examen clinique
+T12	LIVB 255 261	enfant
+T13	Concept_Idea 286 304	plan hémodynamique
+T14	PHEN 308 320	respiratoire
+T15	DISO 338 345	dyspnée
+T16	MEAS 360 371	progressive
+T17	Concept_Idea 390 401	température
+T18	PROC 405 435	échographie abdomino-pelvienne
+T19	ANAT 417 435	abdomino-pelvienne
+T20	DISO 449 490	masse pariétale du pancréas hypertrophiés
+T21	ANAT 468 490	pancréas hypertrophiés
+T22	MEAS 500 512	environ 5 cm
+T23	Concept_Idea 516 525	grand axe
+T24	DISO 633 638	masse
+T25	Concept_Idea 645 651	aspect
+T26	MEAS 652 665	macroscopique
+T27	MEAS 666 676	hétérogène
+T28	ANAT 701 720	organes intestinaux
+T29	DISO 749 757	tumorale
+T30	DISO 761 773	métastatique

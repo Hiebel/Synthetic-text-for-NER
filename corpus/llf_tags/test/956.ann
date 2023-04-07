@@ -1,0 +1,61 @@
+T1	LIVB 15 20	homme
+T2	DISO 62 69	diabète
+T3	MEAS 70 84	bien équilibré
+T4	PROC 90 100	traitement
+T5	CHEM 112 127	antirétroviraux
+T6	TEMP 175 188	novembre 2007
+T7	DISO 195 224	insuffisance rénale terminale
+T8	ANAT 208 214	rénale
+T9	Concept_Idea 246 258	état général
+T10	Concept_Idea 303 321	état hémodynamique
+T11	DISO 336 353	dyspnée sifflante
+T12	DISO 366 388	signes accompagnateurs
+T13	DISO 392 408	syndrome méningé
+T14	PHEN 414 432	suites opératoires
+T15	MEAS 441 448	simples
+T16	TEMP 458 467	mars 2010
+T17	LIVB 474 481	patient
+T18	PROC 500 541	thyroïdectomie du membre inferieur gauche
+T19	ANAT 518 541	membre inferieur gauche
+T20	Localization 535 541	gauche
+T21	ANAT 558 594	veine cave inférieure juxtacarpienne
+T23	ANAT 606 628	bronches caves droites
+T24	Localization 621 628	droites
+T25	ANAT 648 670	cavité gléno-hépatique
+T26	PROC 696 729	transfert scanno-gastro-duodénale
+T27	PROC 737 764	reprises neuroradiologiques
+T28	PROC 777 792	symptomatologie
+T29	PROC 798 822	laparotomie exploratrice
+T30	LIVB 844 854	nourrisson
+T31	Concept_Idea 874 895	limites chirurgicales
+T32	DISO 919 933	amaigrissement
+T33	LIVB 940 942	on
+T34	PROC 978 994	cholécystectomie
+T35	PROC 1011 1052	néphrectomie totale élargie préopératoire
+T36	PROC 1066 1195	curage ganglionnaire axillaire transoesogastroduodénale postéro-basiléïdienne rétropéritonéale infiltrico-mandibulaire percutanée
+T37	ANAT 1214 1238	parenchyme rénal pelvien
+T38	DISO 1263 1281	lésion traumatique
+T39	PROC 1295 1315	suivi postopératoire
+T40	MEAS 1334 1341	stricte
+T41	DEVI 1353 1371	appareils auditifs
+T42	ANAT 1443 1486	parties molles cervico-céphaliques distales
+T43	ANAT 1741 1765	tempe abdomino-pelvienne
+T44	PROC 1890 1918	prise en charge anesthésique
+T45	PROC 1943 1985	contrôle locorégional multirégional direct
+T46	MEAS 2181 2190	suspectes
+T47	PROC 2225 2258	monitorage électroencéphalogramme
+T48	CHEM 2882 2898	Sulfaméthoxazole
+T49	DISO 2931 2954	carcinomes épithéloïdes
+T50	LIVB 2963 2971	patiente
+T51	LIVB 2978 2984	malade
+T52	Hospital 3011 3048	service de neurochirurgie pédiatrique
+T53	PROC 3060 3084	chimiothérapie adjuvante
+T54	CHEM 3099 3109	imipenèmes
+T55	DOSE 3127 3132	60 mg
+T56	TEMP 3132 3134	/j
+T57	CHEM 3146 3162	sulfaméthoxazole
+T58	Concept_Idea 3167 3184	moyens financiers
+T59	Concept_Idea 3207 3225	facteur rhumatoïde
+T60	Concept_Idea 3249 3272	comportements cliniques
+T61	Concept_Idea 3282 3297	santé somatique
+T62	PROC 3387 3416	chimiothérapie postopératoire

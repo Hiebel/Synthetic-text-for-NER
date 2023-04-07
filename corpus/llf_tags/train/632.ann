@@ -1,0 +1,39 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 62 68	quatre
+T3	LIVB 69 76	garçons
+T4	DISO 172 204	maladie cœlio-radiculhumatismale
+T5	LIVB 224 234	nouveau-né
+T6	TEMP 250 261	24 semaines
+T7	PROC 271 293	consultation prénatale
+T8	PROC 309 333	geste médico-chirurgical
+T9	LIVB 341 349	patiente
+T10	LIVB 424 428	elle
+T11	LIVB 447 459	agricultrice
+T12	LIVB 466 468	sa
+T13	LIVB 469 476	famille
+T14	LIVB 528 539	jeune fille
+T15	DISO 561 573	vomissements
+T16	DISO 584 605	sensations délirantes
+T17	ANAT 609 615	cordon
+T18	PHEN 634 645	acte sexuel
+T19	ANAT 673 696	membre supérieur gauche
+T20	Localization 690 696	gauche
+T21	Concept_Idea 704 718	plan somatique
+T22	DISO 725 734	dysphagie
+T23	DISO 764 775	traumatisme
+T24	DISO 785 804	symptôme infectieux
+T25	PROC 816 831	examen clinique
+T26	Hospital 843 854	psychiatrie
+T27	DISO 876 902	déficit neuropsychiatrique
+T28	DISO 909 928	trouble psychotique
+T29	LIVB 1095 1102	malades
+T30	LIVB 1258 1266	patiente
+T31	PROC 1282 1302	examen psychiatrique
+T32	DISO 1314 1327	particularité
+T33	DISO 1464 1487	hallucinations tactiles
+T34	LIVB 1707 1710	ses
+T35	LIVB 1711 1720	confrères
+T36	LIVB 1878 1885	parents
+T37	LIVB 1920 1927	enfants
+T38	LIVB 1989 1993	leur
+T39	LIVB 1994 1998	mère

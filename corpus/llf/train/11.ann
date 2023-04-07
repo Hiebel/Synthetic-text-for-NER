@@ -1,0 +1,14 @@
+T1	LIVB 3 11	patiente
+T2	PROC 29 53	bilan
+T3	DISO 76 90	déficit
+T4	DISO 76 83	déficit
+T5	DISO 94 110	sensitivo-moteur
+T6	Concept_Idea 115 125	diagnostic
+T7	DISO 151 178	psychose
+T8	DISO 184 200	trouble
+T9	DISO 233 257	troubles
+T10	DISO 264 282	contexte
+T11	LIVB 286 290	elle
+T12	LIVB 323 326	ses
+T13	DISO 327 336	symptômes
+T14	LIVB 402 406	elle

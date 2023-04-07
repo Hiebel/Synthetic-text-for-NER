@@ -1,0 +1,44 @@
+T1	LIVB 28 35	patient
+T2	Concept_Idea 56 87	antécédents médico-chirurgicaux
+T3	MEAS 88 96	notables
+T4	PROC 98 103	admis
+T5	TEMP 107 111	2008
+T6	Hospital 116 124	urgences
+T7	DISO 136 173	traumatisme ischémique du paule droit
+T8	ANAT 162 173	paule droit
+T9	Localization 168 173	droit
+T10	DISO 191 214	impotence fonctionnelle
+T11	TEMP 224 241	depuis trois mois
+T12	PROC 245 260	examen clinique
+T13	DISO 274 309	tuméfaction hypo échogène hypodense
+T14	MEAS 319 324	15 cm
+T15	Concept_Idea 327 333	aspect
+T16	MEAS 334 340	mobile
+T17	ANAT 357 389	région paraverté brachycervicale
+T18	DISO 408 426	tumeur douloureuse
+T19	MEAS 438 447	lentement
+T20	Concept_Idea 451 457	volume
+T21	PROC 462 501	scanner cervico-faciale scannographique
+T22	ANAT 470 501	cervico-faciale scannographique
+T25	Localization 573 582	bilatéral
+T26	PROC 607 637	échographie abdomino-pélvienne
+T27	ANAT 619 637	abdomino-pélvienne
+T28	PROC 639 642	ECP
+T29	PROC 650 683	incision percutanée transfixiante
+T30	PROC 689 722	curage ganglionnaire locorégional
+T31	ANAT 696 722	ganglionnaire locorégional
+T32	DISO 748 782	hémosplénome rétro-utérin infiltré
+T33	Concept_Idea 795 801	taille
+T34	MEAS 810 817	30x12cm
+T35	DISO 854 873	métastases malignes
+T36	PHEN 878 889	réductibles
+T37	DISO 902 925	paragangliome endokysté
+T38	PROC 930 955	étude immunohistochimique
+T39	DISO 983 1017	syndrome plexiforme neuroendocrine
+T40	DISO 1035 1063	polyradiculonévrite kystique
+T41	PROC 1225 1252	traitement médical adjuvant
+T42	CHEM 1263 1277	Céphalosporine
+T43	CHEM 1280 1298	Triméthoprimeazole
+T44	CHEM 1300 1315	Chloramphénicol
+T45	CHEM 1319 1330	Cyclosérine
+T46	CHEM 1421 1429	Clobazam

@@ -1,0 +1,33 @@
+T1	LIVB 15 22	patient
+T2	DISO 56 78	céphalées généralisées
+T3	DISO 94 108	déficit visuel
+T4	TEMP 118 131	depuis 1 mois
+T5	PROC 137 146	admission
+T6	Hospital 150 180	service d'accueil des urgences
+T7	DISO 199 224	insuffisance respiratoire
+T8	PHEN 212 224	respiratoire
+T9	ANAT 243 252	cérébrale
+T10	DISO 269 293	troubles sensitivomoteur
+T11	DISO 306 326	signes hémorragiques
+T12	DISO 349 368	traumatisme crânien
+T13	DISO 385 400	symptomatologie
+T14	MEAS 460 472	particuliers
+T15	DISO 543 558	symptomatologie
+T16	TEMP 569 578	24 heures
+T17	DISO 604 632	dyspnée stade II de Sistrunk
+T18	MEAS 647 658	progressive
+T19	MODE 664 674	voie orale
+T20	MEAS 689 709	rapidement accentuée
+T21	DISO 739 759	nouveau-né prématuré
+T22	MEAS 767 779	1000 grammes
+T23	DISO 840 856	épisodes fébrile
+T24	MEAS 866 878	désagréables
+T25	PROC 906 926	prise médicamenteuse
+T26	CHEM 1006 1017	Ceftriaxone
+T27	CHEM 1019 1032	Pénicilline G
+T28	CHEM 1035 1049	Gentaméthasone
+T29	DEVI 1066 1098	lambeau thoracique transfixiante
+T30	ANAT 1074 1098	thoracique transfixiante
+T31	LIVB 1121 1132	jeune homme
+T32	PHEN 1240 1261	renseignements vitaux
+T33	DISO 1308 1329	pneumocystisjirovecse

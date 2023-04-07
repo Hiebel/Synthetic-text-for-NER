@@ -1,0 +1,30 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 20 23	son
+T4	LIVB 47 55	patiente
+T5	MEAS 59 62	bon
+T6	Concept_Idea 63 75	état général
+T7	DISO 77 88	polypnéique
+T8	MEAS 91 104	25 cycles/min
+T9	PHEN 110 128	suites opératoires
+T10	MEAS 137 144	simples
+T11	PROC 149 191	radiographie de l'abdomen sans préparation
+T12	ANAT 167 174	abdomen
+T13	PROC 193 196	ASP
+T14	DISO 213 256	épanchement péritonéal latéro-utéral gauche
+T15	ANAT 225 256	péritonéal latéro-utéral gauche
+T16	Localization 250 256	gauche
+T17	ANAT 270 305	muscle ptérygoïdien supérieur droit
+T18	Localization 300 305	droit
+T19	PROC 309 339	échographie abdomino-pélvienne
+T20	ANAT 321 339	abdomino-pélvienne
+T21	PROC 360 384	anesthésie locorégionale
+T22	ANAT 371 384	locorégionale
+T23	PROC 393 421	prise en charge chirurgicale
+T24	DISO 428 461	métastase hépatico-carcinomateuse
+T25	ANAT 438 461	hépatico-carcinomateuse
+T26	ANAT 477 513	parenchyme hépato-gastro-intestinale
+T27	MEAS 526 530	20cm
+T28	Concept_Idea 534 543	grand axe
+T29	MEAS 548 553	12 cm
+T30	Concept_Idea 557 566	petit axe
+T31	DISO 589 611	métastases secondaires

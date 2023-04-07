@@ -1,0 +1,40 @@
+T1	LIVB 4 9	femme
+T2	MEAS 26 34	deuxième
+T3	PHEN 35 40	geste
+T4	MEAS 83 95	particuliers
+T5	PROC 100 112	hospitalisée
+T6	Hospital 117 125	urgences
+T7	DISO 135 156	détresse respiratoire
+T8	PHEN 144 156	respiratoire
+T9	TEMP 166 188	depuis plusieurs jours
+T10	MEAS 203 210	brutale
+T11	DISO 231 242	hémoptysies
+T12	CHEM 255 274	méthylhydrocortisol
+T13	DOSE 276 282	1mg/kg
+T14	TEMP 282 287	/jour
+T15	PROC 292 331	auscultation pleuro-pneumo-œsophagienne
+T16	ANAT 305 331	pleuro-pneumo-œsophagienne
+T17	DISO 352 365	particularité
+T18	PROC 370 387	bilan étiologique
+T19	MEAS 400 408	complété
+T20	PROC 430 453	diagnostic probabiliste
+T21	LIVB 482 493	jeune femme
+T22	DISO 610 630	défauts métaboliques
+T23	DISO 672 700	traumatisme bronchopleurique
+T24	ANAT 684 700	bronchopleurique
+T25	PROC 705 715	reconsulté
+T26	MODE 871 881	voie basse
+T27	DEVI 887 897	c'lioscope
+T28	TEMP 914 919	3 ans
+T29	LIVB 926 928	sa
+T30	PROC 929 941	consultation
+T31	PROC 962 971	transfert
+T32	Hospital 981 1030	Centre Hospitalier Universitaire Hassan II de Fès
+T33	DISO 1114 1131	lésions associées
+T34	PROC 1174 1191	macroscopiquement
+T35	PROC 1194 1209	examen clinique
+T36	LIVB 1225 1233	patiente
+T37	Concept_Idea 1248 1266	plan hémodynamique
+T38	DISO 1296 1318	troubles ventilatoires
+T39	DISO 1368 1383	pathognomonique
+T40	MEAS 1414 1438	plusieurs tours de spire

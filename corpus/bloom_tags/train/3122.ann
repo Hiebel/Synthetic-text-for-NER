@@ -1,0 +1,34 @@
+T1	LIVB 28 35	patient
+T2	DISO 69 94	néphropathie hypertensive
+T3	DISO 100 126	hypercholestérolémie aigue
+T4	DISO 142 172	troubles hydro-électrolytiques
+T5	DISO 185 216	carcinome canalaire épidermoïde
+T6	ANAT 195 216	canalaire épidermoïde
+T7	DISO 255 266	pathologies
+T8	DISO 294 314	diabète érythémateur
+T9	DISO 321 363	maladie thromboembolique veineuse profonde
+T10	DISO 389 405	fistule vaginale
+T11	ANAT 397 405	vaginale
+T12	ANAT 421 434	utérus utérin
+T13	TEMP 444 457	depuis 7 mois
+T14	DISO 497 523	douleur abdomino-pelvienne
+T15	ANAT 505 523	abdomino-pelvienne
+T16	MEAS 538 549	progressive
+T17	MEAS 561 576	progressivement
+T18	Concept_Idea 580 586	volume
+T19	DISO 604 638	ictère cutanéo-muqueux prurigineux
+T20	MEAS 674 688	plus accentuée
+T21	PROC 791 814	radiothérapie adjuvante
+T22	PHEN 844 853	grossesse
+T23	DISO 881 895	particularités
+T24	PROC 909 936	examen clinique obstétrical
+T25	Hospital 953 968	matité maternel
+T26	MEAS 969 978	difficile
+T27	PROC 983 998	toucher vaginal
+T28	ANAT 991 998	vaginal
+T29	DEVI 1012 1036	canule veineuse vaginale
+T31	MEAS 1120 1133	20 cycles/min
+T32	PROC 1182 1219	tomodensitométrie abdomino- pelvienne
+T33	ANAT 1200 1219	abdomino- pelvienne
+T34	DISO 1244 1285	lésions nodulaires angiomateuses malignes
+T35	DISO 1310 1345	hépato-splénico-lymphangiome séreux

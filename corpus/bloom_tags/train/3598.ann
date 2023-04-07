@@ -1,0 +1,52 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	3 ans
+T3	DISO 36 59	antécédent pathologique
+T4	MEAS 60 71	particulier
+T5	DISO 99 117	conflits familiaux
+T6	DISO 123 146	intoxication aux opiums
+T7	DISO 174 195	lésions prurigineuses
+T8	TEMP 205 221	depuis deux mois
+T9	Concept_Idea 257 269	état général
+T10	DISO 288 307	lésions purpuriques
+T11	DISO 336 358	craniosténoses fébrile
+T12	MEAS 373 379	rapide
+T13	DISO 400 425	symptômes neurosensoriels
+T14	DISO 439 462	dépression respiratoire
+T15	PHEN 450 462	respiratoire
+T16	PROC 514 535	recherche étiologique
+T17	PROC 717 735	traitement curatif
+T18	DISO 755 760	masse
+T19	ANAT 843 862	pleurique liquidien
+T20	DISO 895 921	adénocarcinome épidermoïde
+T21	LIVB 957 971	jeunes adultes
+T22	MEAS 979 994	moins de 50 ans
+T23	PROC 999 1014	examen clinique
+T24	DISO 1035 1060	troubles sensitivomoteurs
+T25	DISO 1074 1097	anomalies neurologiques
+T26	MEAS 1206 1221	progressivement
+T27	Concept_Idea 1225 1231	taille
+T28	DISO 1244 1285	syndrome inflammatoire clinico-biologique
+T29	PROC 1329 1363	ponction liquide céphalo-rachidien
+T30	ANAT 1338 1363	liquide céphalo-rachidien
+T31	MODE 1383 1392	substance
+T32	PROC 1451 1479	coloration cotrimoquellulone
+T33	DISO 1647 1662	polynucléorrhée
+T34	MEAS 1672 1680	violacée
+T35	PROC 1693 1717	échographie obstétricale
+T36	DISO 1750 1778	lymphangiome mal vascularisé
+T37	DISO 1797 1817	atypie cytonucléaire
+T38	ANAT 1804 1817	cytonucléaire
+T39	DISO 1833 1866	hyperplasie kystique hypertrophié
+T40	DISO 1890 1905	hypo-intenseuse
+T41	DISO 1957 1984	nodules latéroutériculaires
+T42	MEAS 2380 2387	négatif
+T43	ANAT 2592 2604	endovaginale
+T44	LIVB 2609 2616	patient
+T45	PROC 2635 2672	radiothérapie adjuvante du sein droit
+T46	ANAT 2662 2672	sein droit
+T47	Localization 2667 2672	droit
+T48	PROC 2681 2713	traitement palliatif substitutif
+T49	CHEM 2715 2726	Cyclosérine
+T50	CHEM 2728 2739	Ceftriaxone
+T51	CHEM 2741 2755	Gentaméthasone
+T52	CHEM 2757 2772	Chloramphénicol

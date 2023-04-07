@@ -1,0 +1,37 @@
+T1	LIVB 29 37	patiente
+T2	DISO 58 83	antécédents pathologiques
+T3	MEAS 84 92	notables
+T4	PROC 94 102	adressée
+T5	PROC 110 125	examen clinique
+T6	DISO 131 185	syndrome d'épanchement liquide érythémateux péritonéal
+T7	ANAT 154 185	liquide érythémateux péritonéal
+T8	PROC 189 216	analyse anatomopathologique
+T9	PROC 220 239	immunohistochimique
+T10	PROC 241 249	marquage
+T12	DISO 379 403	épanchements péritonéaux
+T13	ANAT 392 403	péritonéaux
+T14	DISO 442 470	carcinome kystique hypodense
+T15	DISO 490 531	métanéphrine-récepteurs ostrogéniculaires
+T16	LIVB 549 560	jeune homme
+T17	PROC 580 611	traitement hormonal substitutif
+T18	TEMP 633 639	6 mois
+T19	DISO 682 690	méningée
+T20	MEAS 705 716	progressive
+T21	MEAS 726 750	spontanément résolutrice
+T22	LIVB 769 773	elle
+T23	PHEN 790 810	contraception droite
+T24	Localization 804 810	droite
+T25	PROC 827 857	échographie abdomino-pelvienne
+T26	ANAT 839 857	abdomino-pelvienne
+T27	DISO 874 948	masse tissulaire hétérogène hypoechogène hypervascularisée nodulée ulcérée
+T28	MEAS 960 975	progressivement
+T29	Concept_Idea 979 985	volume
+T30	MEAS 995 999	2 cm
+T31	Concept_Idea 1003 1012	grand axe
+T32	DISO 1028 1075	distension grêlo-sigmoïdienne grêlosigmoïdienne
+T33	ANAT 1039 1075	grêlo-sigmoïdienne grêlosigmoïdienne
+T34	ANAT 1096 1102	pelvis
+T35	ANAT 1157 1182	paroi abdominale vaginale
+T36	DISO 1212 1223	myxomateuse
+T37	DISO 1227 1243	kystique maligne
+T38	PROC 1248 1267	bilan préopératoire

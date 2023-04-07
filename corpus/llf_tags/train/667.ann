@@ -1,0 +1,96 @@
+T1	LIVB 15 25	nourrisson
+T2	PHEN 54 63	grossesse
+T3	PROC 68 74	suivie
+T4	Concept_Idea 100 105	poids
+T5	MEAS 113 125	1200 grammes
+T6	PROC 137 142	admis
+T7	Hospital 146 179	service des urgences pédiatriques
+T8	Hospital 183 190	CHU-HKM
+T9	DISO 200 207	dyspnée
+T10	TEMP 217 231	depuis 5 jours
+T11	PROC 235 250	examen clinique
+T12	LIVB 261 271	nouveau-né
+T13	MEAS 275 282	mauvais
+T14	Concept_Idea 283 295	état général
+T15	ANAT 301 322	muqueuses céphaliques
+T16	MEAS 328 341	bien colorées
+T17	DISO 347 371	déficit sensitivo-moteur
+T18	DISO 375 403	altération de l'état général
+T19	Concept_Idea 391 403	état général
+T20	DISO 425 455	troubles hydro-éléctrolytiques
+T21	CHEM 470 486	corticostéroïdes
+T22	PROC 492 519	saturation pulsé en oxygène
+T23	MEAS 528 532	95 %
+T24	DEVI 538 548	bandelette
+T25	LIVB 735 743	patiente
+T26	PROC 748 773	scanner thoraco-abdominal
+T27	ANAT 756 773	thoraco-abdominal
+T28	DISO 804 853	masse tissulaire oblongue hypoéchogène congestive
+T29	MEAS 863 875	60x40 x 30mm
+T30	Localization 884 895	postérieure
+T31	MEAS 904 909	10 cm
+T32	Concept_Idea 913 921	diamètre
+T33	ANAT 950 964	paroi vésicale
+T34	DISO 978 1071	métaplasie hépato-occlusif fovéolaire congénitale temporale postéro-antérieure bilatéralement
+T36	Localization 1057 1071	bilatéralement
+T37	ANAT 1089 1132	nerf laryngé inférieur gauche antérolatéral
+T38	Localization 1112 1132	gauche antérolatéral
+T39	ANAT 1161 1187	systoles cervico-trachéaux
+T40	Localization 1198 1215	partie supérieure
+T41	PROC 1221 1246	étude immunohistochimique
+T42	DISO 1271 1295	anomalies morphologiques
+T43	MEAS 1470 1477	simples
+T44	PROC 1484 1501	remplissage total
+T45	PROC 1507 1531	réanimation chirurgicale
+T46	PROC 1545 1573	chimiothérapie néo adjuvante
+T47	CHEM 1597 1608	Gentamycine
+T48	CHEM 1611 1640	Triméthoprimesulfaméthoxazole
+T49	CHEM 1643 1676	inhibiteur calcique intraveineuse
+T50	MODE 1685 1696	dose totale
+T51	DOSE 1700 1705	50 mg
+T52	TEMP 1709 1711	/j
+T53	CHEM 1734 1749	céphalosporines
+T54	TEMP 1761 1763	/j
+T55	CHEM 1785 1821	méthylpénicilline acide clavulanique
+T56	PROC 1912 1952	oxygénothérapie palliative préopératoire
+T57	PROC 2012 2051	kinésithérapie respiratoire parentérale
+T58	CHEM 2063 2096	Chloramphénicol acétylstilbestrol
+T59	CHEM 2099 2116	Acide salicylique
+T60	CHEM 2143 2187	triméthoprimesulfamethoxazole biphosphonates
+T63	LIVB 2536 2546	nouveau-né
+T64	Hospital 2565 2598	service des urgences pédiatriques
+T65	DISO 2607 2628	syndrome neurologique
+T66	Concept_Idea 2650 2662	état général
+T67	ANAT 2683 2705	membre inférieur droit
+T68	Localization 2700 2705	droit
+T69	TEMP 2713 2719	7 mois
+T70	MEAS 2737 2746	difficile
+T71	PROC 2784 2806	radiographie du thorax
+T72	ANAT 2800 2806	thorax
+T73	PROC 2812 2840	prise en charge radiologique
+T74	PROC 2844 2866	traitement chirurgical
+T76	TEMP 2910 2920	cinq jours
+T77	Hospital 2972 3003	urgences médicales pédiatriques
+T78	Concept_Idea 3014 3023	résultats
+T79	LIVB 3041 3049	patiente
+T80	PROC 3053 3061	anamnèse
+T81	DISO 3105 3123	contage infectieux
+T82	LIVB 3132 3142	nouveau-né
+T83	PROC 3179 3207	consultation ophtalmologique
+T84	DEVI 3219 3227	prothèse
+T85	DISO 3275 3302	complication néonatalytique
+T86	PROC 3371 3392	biopsie scanno-guidée
+T87	DISO 3422 3506	métastase érythémato-papillomatose anisocartérielle congénitale hypochondroblastique
+T88	DISO 3524 3553	neuroendocrinopathie subaigüe
+T89	DISO 3569 3604	symptomatologie obstétrico-onirique
+T90	DISO 3618 3656	hyperprolactinémie gravidique primaire
+T91	DISO 3677 3703	maladie cœliaque primitive
+T92	PROC 3708 3736	cystolithotomie diagnostique
+T93	PROC 3748 3770	contrôle échographique
+T94	DISO 3805 3846	carcinose thyroïdienne atrophique maligne
+T95	DISO 3864 3896	perforation liquidienne kystique
+T96	ANAT 3911 3934	aires laryngo-laryngées
+T97	MEAS 4007 4011	bien
+T98	PROC 4012 4018	suivis
+T99	PROC 4030 4048	couple explorateur
+T100	LIVB 4082 4089	enfants

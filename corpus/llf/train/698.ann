@@ -1,0 +1,16 @@
+T1	PROC 2 27	examen
+T2	DISO 55 75	troubles
+T3	ANAT 64 75	sphénoïdaux
+T4	LIVB 80 87	patient
+T5	Concept_Idea 102 128	antécédents
+T6	MEAS 129 141	particuliers
+T7	Concept_Idea 165 185	antécédent
+T8	DISO 198 210	pathologique
+T9	MEAS 211 222	particulier
+T10	PROC 227 237	diagnostic
+T11	DISO 259 282	hypoesthésie
+T12	ANAT 272 282	médullaire
+T13	DISO 304 326	hyperglycémie
+T14	TEMP 369 392	dans
+T15	PHEN 395 404	ingestion
+T16	CHEM 409 423	plats

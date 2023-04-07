@@ -1,0 +1,17 @@
+T1	DISO 47 65	cellules
+T2	LIVB 117 124	patient
+T3	Concept_Idea 128 134	aspect
+T4	MEAS 135 150	en
+T5	PROC 154 181	examen
+T6	PROC 183 186	IHC
+T7	PROC 201 218	lymphocytes
+T8	MEAS 219 227	positifs
+T9	PROC 235 247	cytokératine
+T10	MEAS 248 256	négative
+T11	LIVB 261 269	patiente
+T12	PROC 276 283	traitée
+T13	CHEM 288 299	corticoïdes
+T14	PROC 307 315	curative
+T15	TEMP 316 338	pendant
+T16	MEAS 344 349	bonne
+T17	PHEN 350 359	tolérance

@@ -1,0 +1,62 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 71	antécédents pathologiques
+T3	MEAS 72 84	particuliers
+T4	PROC 86 94	adressée
+T5	Hospital 98 126	service d'urétrocystoplastie
+T6	PHEN 136 156	grossesse gémellaire
+T7	PROC 160 175	examen clinique
+T8	PROC 180 189	admission
+T9	Concept_Idea 206 211	poids
+T10	MEAS 215 220	16 kg
+T11	ANAT 222 239	vésicule biliaire
+T12	Concept_Idea 252 258	taille
+T13	DISO 278 339	épanchement liquidien pariétal latéro-utérine supérieur droit
+T14	ANAT 290 339	liquidien pariétal latéro-utérine supérieur droit
+T15	Localization 334 339	droit
+T16	PROC 367 383	examen somatique
+T17	DISO 395 408	particularité
+T18	DISO 426 450	troubles du tonus utérin
+T19	PHEN 438 450	tonus utérin
+T20	PROC 454 479	intervention chirurgicale
+T21	PROC 500 519	anesthésie générale
+T22	PROC 564 588	technique de Mac Lughlin
+T23	TEMP 590 632	Dans les premières minutes postopératoires
+T24	DISO 649 655	fièvre
+T25	MEAS 679 683	40°c
+T26	DISO 699 726	détresse respiratoire aiguë
+T27	PHEN 708 726	respiratoire aiguë
+T28	CHEM 777 800	catécholamines inhalées
+T29	ANAT 832 884	pariétal liquidien sus-clinico-mésentérique grêlique
+T30	LIVB 923 931	patiente
+T31	DISO 941 964	pathologies maligneuses
+T32	DISO 975 1001	malformations congénitales
+T33	DISO 1057 1084	syndrome d'immunodépression
+T34	Concept_Idea 1131 1143	état général
+T35	PROC 1147 1173	scanner abdomino-pelvienne
+T36	ANAT 1155 1173	abdomino-pelvienne
+T37	DISO 1190 1225	masse tumorale tissulaire hypodense
+T38	MEAS 1235 1240	32 mm
+T39	Concept_Idea 1244 1253	grand axe
+T40	ANAT 1278 1299	structures ovariennes
+T41	PROC 1315 1324	injection
+T42	CHEM 1328 1348	produit de contraste
+T43	ANAT 1369 1390	sinus vésculo-vaginal
+T44	DISO 1403 1431	hétérogène hypervascularisée
+T45	ANAT 1453 1480	paroi vaginale œsophagienne
+T46	DEVI 1495 1527	tissu nécrotique scannographique
+T47	ANAT 1570 1601	zones musculaires intravaginaux
+T48	DISO 1664 1682	granulome pigmenté
+T49	DISO 1689 1709	métastases kystiques
+T50	DISO 1752 1773	nécrose érythémateuse
+T51	PROC 1794 1803	injection
+T52	DOSE 1807 1813	0,5 mg
+T53	CHEM 1817 1837	produit de contraste
+T54	DISO 1876 1891	schwannomateuse
+T55	PROC 1954 1984	complément immunohistochimique
+T56	PROC 2026 2067	radio-chimiothérapie adjuvante palliative
+T57	DISO 2129 2160	hypocarcinome séreux urétriciel
+T58	PROC 2165 2188	diagnostic histologique
+T59	DISO 2214 2255	chondromatose épithélio-gigantocellulaire
+T61	LIVB 2764 2771	malades
+T62	PROC 2791 2814	pronostic gynécologique
+T63	PROC 2821 2839	traitement curatif

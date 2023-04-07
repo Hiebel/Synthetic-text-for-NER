@@ -1,0 +1,90 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 70	antécédents pathologique
+T3	MEAS 71 83	particuliers
+T4	TEMP 102 106	2001
+T5	DISO 111 131	douleurs abdominales
+T6	ANAT 120 131	abdominales
+T7	PROC 146 155	chirurgie
+T8	PROC 159 174	examen clinique
+T9	Concept_Idea 194 206	état général
+T10	MEAS 207 213	souple
+T11	DISO 221 254	matité du membre inférieur gauche
+T12	ANAT 231 254	membre inférieur gauche
+T13	Localization 248 254	gauche
+T14	TEMP 264 278	depuis 4 jours
+T15	PROC 287 299	intervention
+T16	PROC 304 321	tomodensitométrie
+T17	PROC 323 343	TDM) abdomino-rénale
+T18	ANAT 328 343	abdomino-rénale
+T19	DISO 388 396	anomalie
+T20	PROC 410 428	bilan paraclinique
+T21	DISO 453 473	hypertriglycéridémie
+T22	MEAS 476 486	0,2 mmol/l
+T23	CHEM 492 520	acide valproique alcohydraté
+T24	DISO 536 553	hyperferritinémie
+T25	MEAS 556 566	1,9 mmol/l
+T26	DISO 579 604	diabète insulinodépendant
+T27	MEAS 614 633	3200µg/kg poids sec
+T28	PROC 638 654	bilan biologique
+T29	PROC 751 784	fibroscopie oeso-gastro-duodénale
+T30	ANAT 763 784	oeso-gastro-duodénale
+T31	DISO 853 881	symptomatologie neurologique
+T32	MEAS 914 921	simples
+T33	Hospital 966 986	service de chirurgie
+T34	PROC 992 1047	angioscanner cervico-thoracique axillaire préopératoire
+T35	PHEN 1069 1086	fonctions vitales
+T36	DEVI 1096 1121	cathétérisme intraveineux
+T37	PROC 1128 1151	remplissage chirurgical
+T38	PROC 1177 1196	exercices physiques
+T39	PROC 1207 1224	combat musculaire
+T40	PROC 1227 1242	stress physique
+T41	PROC 1244 1263	marche ascensionnée
+T42	PROC 1411 1430	tennis endotrachéal
+T43	PROC 1433 1461	haltérophilie postopératoire
+T44	PROC 1473 1493	régime hypocalorique
+T45	TEMP 1499 1517	24 heurs plus tard
+T46	PROC 1524 1545	contrôle radiologique
+T47	PROC 1549 1562	échographique
+T48	Concept_Idea 1632 1658	caractéristiques cliniques
+T49	LIVB 1706 1716	praticiens
+T50	PROC 1722 1756	radiothérapie externe concomitante
+T51	PROC 1770 1789	anesthésie générale
+T52	TEMP 1826 1833	6h30min
+T53	TEMP 1837 1844	7h45min
+T54	PROC 1858 1889	ventilation assistée électrique
+T55	DISO 2756 2780	maladie thromboembolique
+T56	PROC 2785 2810	bilan préchimiothérapique
+T57	PROC 2824 2846	thrombectomie sternale
+T58	ANAT 2838 2846	sternale
+T59	DISO 2866 2899	diabète non insulino-reproductive
+T60	MEAS 2915 2916	2
+T61	PROC 2946 2994	néphrectomie totale par voie sous-costale gauche
+T62	Localization 2988 2994	gauche
+T63	ANAT 3024 3055	tronc crico-trachéo-oesophagien
+T64	DISO 3075 3096	détresse respiratoire
+T65	PHEN 3084 3096	respiratoire
+T66	PROC 3146 3172	examen anatomopathologique
+T67	DISO 3190 3215	récidive tumorale maligne
+T68	DISO 3219 3238	emboles vasculaires
+T69	ANAT 3227 3238	vasculaires
+T70	DISO 3277 3301	kyste hydatique kystique
+T71	PROC 3365 3385	exérèse chirurgicale
+T72	PROC 3410 3424	immobilisation
+T73	DISO 3442 3469	complication postopératoire
+T74	PROC 3499 3516	mise en condition
+T75	PROC 3521 3549	toucher naso-gastro-duodénal
+T76	ANAT 3529 3549	naso-gastro-duodénal
+T77	MEAS 3583 3588	10 cm
+T78	Concept_Idea 3592 3601	grand axe
+T79	MEAS 3611 3625	12 centimètres
+T80	Concept_Idea 3629 3636	largeur
+T81	MEAS 3645 3659	1,3 millimètre
+T82	Concept_Idea 3663 3678	petite courbure
+T83	DEVI 3705 3732	membranes plasmocytoplasmes
+T84	PROC 3793 3805	consultation
+T85	PROC 3812 3852	prise en charge palliative thérapeutique
+T86	Concept_Idea 3865 3885	aspect morphologique
+T87	DISO 3902 3950	tumeur lithiasique superficielle cutanéomuqueuse
+T88	DISO 4068 4131	tuberculose tubulo-interstitielle tissulaire hyperproliférative
+T89	DISO 4152 4181	symptômes neuropsychiatriques
+T90	PROC 4287 4340	prélèvement bactériologique biopsique scannogénétique

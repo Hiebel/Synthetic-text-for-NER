@@ -1,0 +1,36 @@
+T1	LIVB 12 18	enfant
+T2	TEMP 26 32	12 ans
+T3	DISO 49 83	syndrome d'épanchement  péritonéal
+T4	ANAT 72 83	 péritonéal
+T5	TEMP 99 112	depuis 3 mois
+T6	DISO 127 145	hématurie bilieuse
+T7	PROC 151 173	examen ophtalmologique
+T8	LIVB 175 178	ses
+T9	CHEM 179 190	céphaloïdes
+T10	MEAS 196 207	bien perçus
+T11	MEAS 236 245	multiples
+T12	Hospital 250 271	urgences pédiatriques
+T13	DISO 294 314	cataracte congénital
+T14	DISO 327 346	signes oculomoteurs
+T15	DISO 364 380	troubles visuels
+T16	DISO 390 416	anomalies neurorétiniennes
+T17	PROC 438 446	bili-IRM
+T18	PROC 471 493	TDM abdomino pelvienne
+T19	ANAT 475 493	abdomino pelvienne
+T20	LIVB 517 525	patiente
+T21	DISO 530 643	masse hypodense tissulaire hétérogène hypoéchogène hyperhypersignalisée latéro-supra utérine droite hypertrophiée
+T22	Localization 623 643	droite hypertrophiée
+T23	MEAS 653 658	46 mm
+T24	Concept_Idea 662 676	grand diamètre
+T25	MEAS 685 697	environ 6 cm
+T26	Concept_Idea 701 710	grand axe
+T27	ANAT 740 758	parois abdominales
+T28	Concept_Idea 776 784	contours
+T29	MEAS 785 794	réguliers
+T30	PROC 827 836	injection
+T31	CHEM 840 860	produit de contraste
+T32	DISO 945 975	métastase lithiasique nécrosée
+T33	ANAT 1014 1032	membres inférieurs
+T34	ANAT 1041 1072	muscles obturateurs intestinaux
+T35	ANAT 1097 1109	recto-cæcale
+T36	ANAT 1117 1130	anses iléales

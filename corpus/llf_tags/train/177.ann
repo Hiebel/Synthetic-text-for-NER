@@ -1,0 +1,8 @@
+T1	PROC 3 20	bilan d'extension
+T2	PROC 44 60	biopsie du grêle
+T3	ANAT 55 60	grêle
+T4	DISO 92 106	léiomyosarcome
+T5	MEAS 126 135	favorable
+T6	LIVB 142 150	patiente
+T7	Hospital 162 166	bloc
+T8	TEMP 184 190	6 mois

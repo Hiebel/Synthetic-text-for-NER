@@ -1,0 +1,54 @@
+T1	LIVB 4 9	femme
+T2	PROC 29 34	reçue
+T3	Hospital 39 47	urgences
+T4	DISO 75 92	dyspnée purulente
+T5	MEAS 107 118	progressive
+T6	DISO 136 159	déficit sensitivomoteur
+T7	DOSE 185 191	400 mg
+T8	CHEM 194 225	amoxicilline-acide clavulanique
+T9	DISO 357 380	souffrance placentaires
+T10	ANAT 368 380	placentaires
+T11	DISO 387 399	métrorragies
+T12	PROC 402 427	intervention chirurgicale
+T14	ANAT 723 741	surrénalielliennes
+T15	LIVB 778 786	patiente
+T16	DISO 827 857	hyperparathyroïdie congénitale
+T17	MEAS 869 878	1-84 g/dl
+T18	DISO 894 922	hypoalbuminémie malformative
+T19	DISO 944 960	maladie cœliaque
+T20	DISO 966 991	tuberculose cholestatique
+T21	DISO 1009 1046	néphropathie lithiasique hypertensive
+T22	PROC 1068 1087	bilan préopératoire
+T23	DISO 1094 1105	pathologies
+T24	DISO 1153 1176	symptomatologie fébrile
+T25	DISO 1273 1292	retard psychomoteur
+T26	PROC 1699 1729	auscultation pleuro-pulmonaire
+T27	ANAT 1712 1729	pleuro-pulmonaire
+T28	MEAS 1744 1756	perdu de vue
+T29	DISO 1784 1830	méningoencephalopathie plexiforme systématisée
+T30	PROC 1886 1893	PNI TDM
+T31	PROC 1896 1926	diagnostic anatomopathologique
+T32	PROC 2013 2028	examen clinique
+T33	LIVB 2046 2054	patiente
+T34	MEAS 2058 2067	assez bon
+T35	Concept_Idea 2068 2080	état général
+T36	PHEN 2091 2112	contractions utérines
+T37	ANAT 2104 2112	utérines
+T38	MEAS 2113 2120	simples
+T39	PROC 2126 2156	échographie abdomino-pelvienne
+T40	ANAT 2138 2156	abdomino-pelvienne
+T41	DISO 2208 2242	épanchement intracavité péritonéal
+T42	ANAT 2220 2242	intracavité péritonéal
+T43	ANAT 2256 2261	grêle
+T44	MEAS 2271 2276	14 cm
+T45	Concept_Idea 2280 2289	grand axe
+T46	ANAT 2305 2318	flux grêlique
+T47	DISO 2332 2354	épanchement péritonéal
+T48	ANAT 2344 2354	péritonéal
+T49	ANAT 2380 2399	vésicules biliaires
+T50	DISO 2444 2485	atteinte cardio-vasculo-nerveux cervicale
+T51	ANAT 2453 2485	cardio-vasculo-nerveux cervicale
+T52	TEMP 2495 2511	depuis deux mois
+T53	DISO 2527 2551	traumatisme hémorragique
+T54	DISO 2558 2590	syndrome d’épanchement bilatéral
+T55	Localization 2581 2590	bilatéral

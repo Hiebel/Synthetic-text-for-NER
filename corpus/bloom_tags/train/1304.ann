@@ -1,0 +1,36 @@
+T1	LIVB 16 27	jeune femme
+T2	TEMP 36 42	18 ans
+T3	PHEN 75 84	grossesse
+T4	PROC 89 95	suivie
+T5	PROC 100 110	césarienne
+T6	PROC 116 148	contraception orale progestative
+T7	TEMP 158 169	depuis 1 an
+T8	Concept_Idea 205 213	clinique
+T9	Concept_Idea 217 227	biologique
+T10	DISO 255 287	syndrome d'épanchement bilatéral
+T11	Localization 278 287	bilatéral
+T12	DISO 294 314	fistule épigastrique
+T13	ANAT 302 314	épigastrique
+T14	DISO 358 366	polypnée
+T15	MEAS 381 388	brutale
+T16	MEAS 401 409	profonde
+T17	PROC 435 453	traitement curatif
+T18	CHEM 464 476	méthotrexate
+T19	DOSE 479 484	20 mg
+T20	TEMP 484 486	/j
+T21	CHEM 489 500	Cyclosérine
+T22	DOSE 502 508	400 mg
+T23	TEMP 508 510	/j
+T24	CHEM 512 523	Ceftriaxone
+T25	DOSE 526 532	100 mg
+T26	TEMP 532 534	/j
+T27	PROC 539 553	interrogatoire
+T28	LIVB 592 598	enfant
+T29	TEMP 610 616	15 ans
+T30	DISO 631 669	traumatisme crânio-cérébral ischémique
+T31	PROC 845 860	hospitalisation
+T32	TEMP 867 879	janvier 2012
+T33	TEMP 883 896	novembre 2012
+T34	DISO 928 949	méningo-ophtalmalgies
+T35	DISO 1068 1090	douleurs prurigineuses
+T36	DISO 1136 1155	ictorrhées cutanées

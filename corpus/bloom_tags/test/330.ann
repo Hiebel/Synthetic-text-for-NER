@@ -1,0 +1,49 @@
+T1	LIVB 15 25	nouveau-né
+T2	TEMP 49 53	1 an
+T3	DISO 81 97	dyspnée d'effort
+T4	MEAS 110 121	progressive
+T5	MEAS 136 142	rapide
+T7	ANAT 168 181	épigastriques
+T8	PHEN 191 200	digestive
+T9	Concept_Idea 245 257	état général
+T10	DISO 270 289	signes fonctionnels
+T11	PROC 302 317	examen clinique
+T12	LIVB 330 336	enfant
+T13	Concept_Idea 361 379	plan hémodynamique
+T15	DISO 411 438	adénopathies du flanc droit
+T16	ANAT 427 438	flanc droit
+T17	Localization 433 438	droit
+T18	PROC 442 472	échographie abdomino-pélvienne
+T19	ANAT 454 472	abdomino-pélvienne
+T21	DISO 558 594	distension péristaltique péritonéale
+T22	ANAT 569 594	péristaltique péritonéale
+T23	Concept_Idea 608 614	taille
+T24	MEAS 623 626	3cm
+T25	Concept_Idea 630 639	grand axe
+T26	MEAS 641 652	hypointense
+T27	PROC 659 668	injection
+T28	CHEM 672 692	produit de contraste
+T29	DOSE 694 701	20ml/kg
+T30	PROC 708 725	touchers pelviens
+T31	ANAT 717 725	pelviens
+T32	DISO 755 777	localisations malignes
+T33	LIVB 789 793	Elle
+T34	PROC 810 834	chimiothérapie adjuvante
+T35	CHEM 861 884	Cyclo-désoxycyclosamide
+T36	CHEM 887 900	dexaméthasone
+T37	DOSE 903 911	60mg/m 2
+T38	CHEM 913 923	mifentanil
+T39	DOSE 925 931	2µg/kg
+T40	CHEM 934 945	nicardipril
+T41	DOSE 948 960	100 µmol/min
+T42	CHEM 963 973	furosémide
+T43	DOSE 975 984	15 mg /kg
+T44	CHEM 998 1018	anti dopaminergiques
+T45	DISO 1045 1066	déficit neuroleptique
+T46	PROC 1080 1117	ponction liquide céphalo-cérébelleuse
+T47	ANAT 1089 1117	liquide céphalo-cérébelleuse
+T48	DISO 1164 1179	symptomatologie
+T49	PROC 1232 1254	diagnostic étiologique
+T50	LIVB 1281 1288	enfants
+T51	DISO 1309 1339	syndrome d'épanchement pleural
+T52	ANAT 1332 1339	pleural

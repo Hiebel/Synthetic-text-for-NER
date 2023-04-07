@@ -1,0 +1,34 @@
+T1	LIVB 29 37	patiente
+T2	DISO 75 107	métastases cervico-angiomateuses
+T3	ANAT 86 107	cervico-angiomateuses
+T4	PROC 111 126	examen clinique
+T5	DISO 138 147	anomalies
+T6	PROC 151 181	échographie abdomino-pélvienne
+T7	ANAT 163 181	abdomino-pélvienne
+T8	DISO 200 227	épanchement intrapéritonéal
+T9	ANAT 212 227	intrapéritonéal
+T10	DISO 233 289	adénopathies péritumorales latéro hypogastriques du grêl
+T12	ANAT 285 289	grêl
+T13	DISO 297 329	lésions nodulaires vascularisées
+T14	ANAT 337 355	hile grêléo-caecal
+T15	DEVI 371 392	matériel transfixiant
+T16	LIVB 420 428	patiente
+T17	DISO 462 485	tumeur kystique maligne
+T18	DISO 487 501	neuroendocrine
+T19	DISO 507 520	paragangliome
+T20	DISO 533 559	kyste hydatique congénital
+T21	PHEN 564 570	évacué
+T22	DISO 686 710	localisations viscérales
+T23	DISO 752 776	masse tumale lithiasique
+T24	DISO 854 880	insuffisance rénalo-cæcale
+T25	ANAT 867 880	rénalo-cæcale
+T26	MEAS 955 970	200 mEq/kg/mois
+T27	DISO 985 997	hypokaliémie
+T28	PROC 1026 1048	imagerie thérapeutique
+T29	Hospital 1070 1097	urgences neurochirurgicales
+T30	PROC 1146 1155	résection
+T31	PROC 1161 1189	anesthésie palliative locale
+T32	DISO 1216 1241	pathophysiologie tumorale
+T33	PROC 1291 1305	interrogatoire
+T34	PROC 1312 1339	immunohistochimique directe
+T35	PROC 1426 1442	diagnostic final

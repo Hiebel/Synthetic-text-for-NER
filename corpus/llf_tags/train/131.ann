@@ -1,0 +1,59 @@
+T1	LIVB 15 22	patient
+T2	DISO 64 87	hypertension artérielle
+T3	ANAT 77 87	artérielle
+T4	PROC 91 106	examen clinique
+T5	PROC 111 120	admission
+T6	LIVB 131 141	nourrisson
+T7	MEAS 145 152	mauvais
+T8	Concept_Idea 153 165	état général
+T9	DISO 172 186	déficit moteur
+T10	DISO 190 216	signes neuropsychiatriques
+T11	PHEN 224 238	réflexes du QI
+T12	MEAS 244 256	correctement
+T13	TEMP 283 301	deux derniers mois
+T14	PROC 306 333	bilan radiologique standard
+T15	DISO 374 400	récidives psychokinétiques
+T16	CHEM 419 439	sulfate de magnésium
+T17	DOSE 441 447	2mg/kg
+T18	TEMP 447 457	/24 heures
+T19	PROC 462 473	échographie
+T20	PROC 500 525	bilan préchimiothérapique
+T21	DISO 537 558	distension abdominale
+T22	ANAT 548 558	abdominale
+T23	DISO 577 627	adénopathies jugulocarotidiennes péri-mandibulaire
+T24	ANAT 590 627	jugulocarotidiennes péri-mandibulaire
+T25	MEAS 652 656	5 cm
+T26	MEAS 660 664	4 cm
+T27	DISO 679 733	lésions digitiformes cervicales bilatérales polylobées
+T28	Localization 711 722	bilatérales
+T29	DISO 756 782	maladie cœliaque primitive
+T30	PROC 788 810	ponction scanno-guidée
+T31	PROC 825 842	bilan étiologique
+T32	DISO 869 891	anomalie morphologique
+T33	DISO 918 942	malformation congénitale
+T34	PROC 947 986	TDM cervico-thoraco- abdomino-pelvienne
+T35	ANAT 951 986	cervico-thoraco- abdomino-pelvienne
+T36	PROC 1005 1033	stabilisation hémodynamiques
+T37	PROC 1049 1075	anastomose lombo-trachéale
+T38	ANAT 1060 1075	lombo-trachéale
+T39	DISO 1105 1140	prolifération tissulaire hétérogène
+T40	ANAT 1166 1183	cellules myxoïdes
+T41	ANAT 1201 1225	noyaux transmembranaires
+T42	Concept_Idea 1235 1263	ordre alphabetico-sensualisé
+T43	ANAT 1277 1309	symphyse mandibulaire thoracique
+T44	ANAT 1324 1350	fibres intracytoplasmiques
+T45	ANAT 1371 1395	hémicorps sous rétiniens
+T46	Localization 1381 1385	sous
+T47	ANAT 1441 1465	zones charnues urinaires
+T48	ANAT 1530 1537	matière
+T49	PROC 1542 1567	scanner crânio-alveolyser
+T50	ANAT 1550 1567	crânio-alveolyser
+T51	DEVI 1609 1628	micro gels ioniques
+T52	ANAT 1647 1677	glandes salivaires accessoires
+T53	ANAT 1694 1716	collection liquidienne
+T54	DISO 1891 1918	tumeur érythrophile maligne
+T55	MEAS 1955 1962	simples
+T56	PROC 1990 2013	contrôles locorégionaux
+T57	DISO 2036 2045	anomalies
+T58	DISO 2073 2098	consanguinité infectieuse
+T59	LIVB 2126 2132	enfant

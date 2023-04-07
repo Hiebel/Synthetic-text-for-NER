@@ -1,0 +1,37 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 49 74	vomissements alimentaires
+T4	TEMP 84 101	depuis deux jours
+T6	ANAT 144 162	abdomino-pelvienne
+T7	PROC 167 183	bilan biologique
+T8	DISO 202 215	particularité
+T9	PROC 229 259	échographie abdomino-pelvienne
+T10	ANAT 241 259	abdomino-pelvienne
+T11	DISO 280 302	épanchement péritonéal
+T12	ANAT 292 302	péritonéal
+T13	DISO 308 400	adénopathies lomboaortiques latéro-cervicales périrénales cervico-thoraciques antécrâniennes
+T15	DISO 417 450	troubles du grossesse gélatineuse
+T16	PHEN 429 450	grossesse gélatineuse
+T17	DISO 461 483	localisations malignes
+T18	DISO 508 523	symptomatologie
+T19	Concept_Idea 567 584	état neurologique
+T20	DISO 611 619	polypnée
+T21	DISO 621 638	douleur pelvienne
+T22	ANAT 629 638	pelvienne
+T23	MEAS 650 665	progressivement
+T24	Concept_Idea 669 675	taille
+T25	PROC 702 717	hospitalisation
+T26	Hospital 722 743	urgences pédiatriques
+T27	PROC 767 795	prise en charge chirurgicale
+T28	DISO 865 908	syndrome d’épanchement péritonéal liquidien
+T29	ANAT 888 908	péritonéal liquidien
+T30	TEMP 933 939	12 ans
+T31	DISO 965 974	symptômes
+T32	TEMP 1023 1039	plusieurs années
+T33	DISO 1054 1067	dysménorrhées
+T34	MEAS 1082 1103	lentement progressive
+T35	DISO 1120 1147	céphalées sensitivomotrices
+T36	MEAS 1162 1185	spontanément croissante
+T37	DISO 1323 1343	préjudice infectieux
+T38	LIVB 1354 1358	elle
+T39	PROC 1378 1409	protocole thérapeutique curatif

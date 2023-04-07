@@ -1,0 +1,29 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	11 ans
+T3	DISO 42 107	syndrome d'épanchement péricardique infarcto-pariéto-mésentérique
+T4	ANAT 65 107	péricardique infarcto-pariéto-mésentérique
+T5	TEMP 117 130	depuis 3 mois
+T6	PROC 136 161	traitement antibacillaire
+T7	Hospital 183 213	service de chirurgie pédiatrie
+T8	DISO 232 267	épigastralgies constrictives aiguës
+T9	MEAS 282 304	rapidement progressive
+T11	ANAT 350 356	rénale
+T12	DISO 390 403	hémopéritoine
+T13	MEAS 413 418	2500g
+T14	DISO 467 492	symptomatologie digestive
+T15	DISO 503 522	anomalies associées
+T16	DISO 540 561	détresse respiratoire
+T17	PHEN 549 561	respiratoire
+T18	DISO 586 614	épigastralgies constrictives
+T19	TEMP 624 652	dans les 24 premières heures
+T20	MEAS 698 715	de façon exagérée
+T21	Concept_Idea 719 725	volume
+T22	MEAS 744 756	plusieurs kg
+T23	DISO 836 864	douleurs abdomino-pelviennes
+T24	ANAT 845 864	abdomino-pelviennes
+T25	DISO 874 882	méningée
+T26	MEAS 907 918	environ 5cm
+T27	Concept_Idea 922 932	profondeur
+T28	DEVI 964 977	médioclinique
+T29	DISO 1021 1043	inflammation chronique
+T30	LIVB 1067 1077	nouveau-né

@@ -1,0 +1,26 @@
+T1	LIVB 20 28	patiente
+T2	DISO 45 69	antécédents pathologique
+T3	MEAS 70 78	notables
+T4	PROC 80 88	adressée
+T5	TEMP 92 96	2013
+T6	DISO 106 137	tumeur du liquide céphalo-rénal
+T7	ANAT 116 137	liquide céphalo-rénal
+T8	PROC 141 156	examen clinique
+T9	PROC 161 170	admission
+T10	LIVB 188 196	patiente
+T11	Concept_Idea 205 217	état général
+T12	PHEN 234 252	suites opératoires
+T13	MEAS 253 259	bonnes
+T14	PROC 263 293	échographie abdomino-pelvienne
+T15	ANAT 275 293	abdomino-pelvienne
+T16	DISO 323 380	épanchement intrapéritonéal latéro-utérin inférieur droit
+T17	ANAT 335 380	intrapéritonéal latéro-utérin inférieur droit
+T18	Localization 375 380	droit
+T19	Localization 404 408	sous
+T20	ANAT 431 447	parois vaginales
+T21	MEAS 457 462	46 cm
+T22	Concept_Idea 466 475	grand axe
+T23	ANAT 492 510	membres inférieurs
+T24	Concept_Idea 525 533	contours
+T25	PROC 554 563	injection
+T26	CHEM 567 587	produit de contraste

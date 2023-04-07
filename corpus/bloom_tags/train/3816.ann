@@ -1,0 +1,13 @@
+T1	LIVB 4 12	patiente
+T2	PROC 106 114	adressée
+T3	LIVB 120 125	notre
+T4	Hospital 126 133	service
+T5	Hospital 138 146	urgences
+T6	DISO 160 186	douleur abdomino-pelvienne
+T7	ANAT 168 186	abdomino-pelvienne
+T8	TEMP 196 212	depuis deux mois
+T9	DISO 233 269	lésions prurigineuses érythémateuses
+T10	MEAS 285 300	progressivement
+T11	Concept_Idea 304 310	volume
+T12	DISO 427 447	préjudice esthétique
+T13	CHEM 464 482	méthylprednisolone

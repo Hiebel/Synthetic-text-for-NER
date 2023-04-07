@@ -1,0 +1,12 @@
+T1	TEMP 21 31	6 semaines
+T2	MEAS 52 55	mal
+T3	PROC 56 62	suivie
+T4	PROC 80 97	couple médicalisé
+T5	PROC 130 165	échographie obstétricale programmée
+T6	DISO 375 405	accident vasculaire ischémique
+T7	LIVB 429 431	sa
+T8	LIVB 432 443	belle-fille
+T9	DISO 546 563	épisode dépressif
+T10	DISO 647 671	syndrome polymalformatif
+T11	LIVB 879 882	son
+T12	LIVB 883 889	épouse

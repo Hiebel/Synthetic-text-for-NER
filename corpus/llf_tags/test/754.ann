@@ -1,0 +1,91 @@
+T1	LIVB 16 21	femme
+T2	DISO 65 72	dyspnée
+T3	DISO 79 109	diabète non insulino-requérant
+T4	CHEM 115 123	glycémie
+T5	PROC 129 144	examen clinique
+T6	LIVB 148 156	patiente
+T7	MEAS 166 173	mauvais
+T8	Concept_Idea 174 186	état général
+T9	DISO 193 199	fièvre
+T10	DISO 203 214	tachycardie
+T11	TEMP 224 239	depuis 6 heures
+T12	DISO 249 269	signes respiratoires
+T13	ANAT 283 294	flanc droit
+T14	Localization 289 294	droit
+T15	DISO 300 309	symptômes
+T16	TEMP 338 354	quelques minutes
+T17	LIVB 428 449	confrères neurologues
+T18	LIVB 460 475	orthopédagogues
+T19	PROC 489 504	examen physique
+T20	DISO 525 533	anomalie
+T21	DISO 551 570	syndrome infectieux
+T22	ANAT 579 590	flanc droit
+T23	Localization 585 590	droit
+T24	DISO 603 617	amaigrissement
+T25	MEAS 627 631	25kg
+T26	PHEN 700 715	fonction rénale
+T27	ANAT 709 715	rénale
+T28	MEAS 720 727	normale
+T29	DISO 734 748	déficit moteur
+T30	PROC 755 779	échographie obstétricale
+T31	PROC 802 808	suivie
+T32	MEAS 878 881	5cm
+T33	MEAS 891 896	10 cm
+T34	MEAS 899 903	8 cm
+T35	DEVI 923 931	prothèse
+T36	MEAS 941 954	6 centimètres
+T37	MEAS 957 965	4 mètres
+T38	ANAT 1007 1024	bords urogénitaux
+T39	DISO 1183 1202	distension veineuse
+T40	ANAT 1194 1202	veineuse
+T41	Concept_Idea 1215 1229	aspect clinque
+T43	DISO 1317 1345	néphropathie obéseptomateuse
+T44	PROC 1378 1418	transfusion intraveineuse maternotopique
+T45	PROC 1446 1477	prélèvement anatomopathologique
+T46	MEAS 1532 1539	simples
+T47	PROC 1545 1568	contrôle postopératoire
+T48	DISO 1593 1617	troubles électrolytiques
+T49	LIVB 1634 1641	malades
+T50	PROC 1647 1669	remplissage vasculaire
+T51	ANAT 1659 1669	vasculaire
+T52	PROC 1686 1697	hémodialyse
+T53	PROC 1710 1740	toilette oeso-gastro-duodénale
+T54	ANAT 1719 1740	oeso-gastro-duodénale
+T55	ANAT 1786 1810	liquide céphalorachidien
+T56	DOSE 1824 1835	0,60 gramme
+T57	DISO 2611 2668	accident vasculaire crânio-claviculaire rétro rachidienne
+T58	ANAT 2631 2668	crânio-claviculaire rétro rachidienne
+T60	LIVB 2777 2783	garçon
+T61	Concept_Idea 2792 2796	état
+T62	PHEN 2800 2812	accouchement
+T63	Concept_Idea 2848 2851	âge
+T64	TEMP 2855 2862	18 mois
+T65	MEAS 2878 2885	mauvais
+T66	Concept_Idea 2886 2912	développement psychomoteur
+T67	PROC 2939 2959	transfusion sanguine
+T68	CHEM 2972 2983	médicaments
+T69	CHEM 2995 3009	bêtalactamines
+T70	CHEM 3011 3042	amoxicilline acide clavulanique
+T71	CHEM 3044 3057	triméthoprime
+T72	PROC 3071 3084	bloc cervical
+T73	DISO 3100 3114	particularités
+T74	MEAS 3147 3154	simples
+T75	PROC 3160 3181	contrôle radiologique
+T76	DISO 3202 3219	récidive caséeuse
+T77	LIVB 3312 3319	patient
+T78	DISO 3353 3388	accident vasculaire crânio-cervical
+T79	ANAT 3373 3388	crânio-cervical
+T80	TEMP 3419 3427	28 jours
+T81	LIVB 3441 3448	famille
+T82	PROC 3469 3475	suivie
+T83	PROC 3589 3606	enquête familiale
+T84	DISO 3669 3693	maladie thromboembolique
+T85	DISO 3792 3813	accidents ischémiques
+T86	PROC 3819 3850	consultation neuropsychiatrique
+T87	PROC 3884 3902	traitement martial
+T88	PROC 3908 3936	antibiothérapie probabiliste
+T89	PROC 3950 3979	anticoagulation intraveineuse
+T90	MEAS 4022 4046	significativement sévère
+T91	TEMP 4180 4189	dix jours
+T92	TEMP 4342 4353	24 semaines
+T93	TEMP 4359 4365	6 mois

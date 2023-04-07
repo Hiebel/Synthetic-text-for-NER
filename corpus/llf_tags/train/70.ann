@@ -1,0 +1,35 @@
+T1	LIVB 6 14	Patiente
+T2	MEAS 39 40	5
+T3	LIVB 41 48	enfants
+T4	PROC 106 128	consultation prénatale
+T5	DISO 181 207	malformations congénitales
+T6	PROC 239 282	consultation multidisciplinaire pédiatrique
+T7	DISO 307 347	niveaux hydrothérapeutiques hypogasiques
+T13	DISO 852 941	micronéphalogrammes érythémato-bourgeonniens périostéotendineux distaux polycytonucléolés
+T14	PROC 1074 1123	résection segmentaire endocrânienne bipédiculaire
+T15	DISO 1157 1200	neurofibromatose du membre supérieur gauche
+T16	ANAT 1177 1200	membre supérieur gauche
+T17	Localization 1194 1200	gauche
+T18	DISO 1210 1241	myomeopathie des cordes vocales
+T19	ANAT 1227 1241	cordes vocales
+T20	LIVB 1297 1305	patiente
+T21	DISO 1311 1345	syndrome dysmorphique anamnestique
+T22	DISO 1359 1388	délire obsessionnel compulsif
+T23	PROC 1549 1558	admission
+T24	Hospital 1562 1577	bloc opératoire
+T25	PROC 1583 1611	prise en charge chirurgicale
+T26	DISO 1649 1663	particularités
+T27	DISO 1681 1692	traumatisme
+T28	DISO 1699 1720	détresse respiratoire
+T29	PHEN 1708 1720	respiratoire
+T30	MEAS 1753 1766	particulières
+T31	TEMP 1768 1782	quelques jours
+T32	DEVI 1794 1834	sonde naso-gastroduodénale intraveineuse
+T33	ANAT 1800 1834	naso-gastroduodénale intraveineuse
+T34	MEAS 1946 1956	facilement
+T36	PROC 1972 2005	geste chirurgical scannographique
+T37	PROC 2052 2078	investigations biologiques
+T38	DISO 2108 2718	hyperleucocytose familiale hétérozygote HER 2q100 BGTF1 Mio Cyclophosphamide Acide Gamma Arginine Glyphosate Lactate Ketoacidosis Polyhydroxydes Rhizobarbitale Leukemia Acticholarythmie Lymphocytaire Homozygote Rhésus Apertoplasmique Diabetes Res Clinical Abstract Metabilities Reference Board 2006 Red Herring Anxiety 12 May 2011 Critères histologiques Le prélèvement préopératoire ne montrait pas de symptômes neuropsychiatriques autres que ceux décrits précédemment ainsi que certains éléments pouvant orienter vers une psychose puerpérale primaire type "céphalées psychotiques alcoolo-tabagiques chroniques
+T39	PROC 2465 2490	prélèvement préopératoire
+T40	DISO 2510 2539	symptômes neuropsychiatriques
+T41	DISO 2631 2659	psychose puerpérale primaire

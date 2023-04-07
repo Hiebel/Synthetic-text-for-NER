@@ -1,0 +1,59 @@
+T1	DISO 84 123	insuffisance rénale chronique terminale
+T2	ANAT 97 103	rénale
+T3	DISO 147 178	hypertriglycéridémie diabétique
+T4	MEAS 189 197	1,2 g/dl
+T5	TEMP 223 236	depuis 3 mois
+T6	Concept_Idea 272 284	état général
+T7	DISO 306 320	amaigrissement
+T8	MEAS 332 335	8kg
+T9	MEAS 357 372	progressivement
+T10	Concept_Idea 376 393	moyenne abondance
+T11	DISO 417 440	déficit sensitivomoteur
+T12	DISO 444 474	facteur de risque hémorragique
+T13	PROC 488 503	examen clinique
+T14	DISO 530 559	distension abdomino-pelvienne
+T15	ANAT 541 559	abdomino-pelvienne
+T16	DISO 597 624	sensibilité rétro-crânienne
+T17	ANAT 609 624	rétro-crânienne
+T18	MEAS 661 669	maximale
+T19	PROC 679 692	technique OMS
+T20	Concept_Idea 707 727	température centrale
+T21	MEAS 744 749	38 °C
+T22	PROC 754 781	bilan radiologique standard
+T26	Localization 990 996	droite
+T28	Localization 1085 1104	transversale droite
+T29	Localization 1125 1142	hémicirconfluente
+T32	Localization 1296 1314	postérieure gauche
+T33	DISO 1342 1402	léiomyotomie bipyramidale ankyloglasmique retropsychomateuse
+T34	PROC 1407 1427	traitement palliatif
+T35	TEMP 1849 1854	/jour
+T36	PROC 1861 1888	contrôle neuropsychiatrique
+T37	PROC 1897 1916	suivi psychiatrique
+T38	PROC 1934 1950	bloc analgésique
+T39	PROC 1969 1987	antibioprophylaxie
+T40	MEAS 1994 2023	progressivement satisfaisante
+T41	PHEN 2046 2081	récupérations hydro-électrolytiques
+T42	LIVB 2098 2104	malade
+T43	PROC 2121 2149	chimiothérapie néo adjuvante
+T44	CHEM 2155 2169	triméthoprimes
+T45	CHEM 2172 2186	pipéracilline®
+T46	CHEM 2188 2198	isoniazide
+T47	PROC 2211 2234	remplissage oesophagien
+T48	ANAT 2223 2234	oesophagien
+T49	DEVI 2274 2288	masque laryngé
+T50	MEAS 2322 2329	simples
+T51	DISO 2335 2362	détresse respiratoire aiguë
+T52	DISO 2366 2372	fièvre
+T53	PROC 2387 2421	prise en charge pluridisciplinaire
+T54	Concept_Idea 2450 2477	conventions internationales
+T55	PROC 2506 2564	séances de rééducation fonctionnelle motrice préopératoire
+T56	PROC 2750 2765	symptomatologie
+T57	Concept_Idea 2790 2813	investigations clinique
+T58	PROC 2860 2892	surveillance psychothérapeutique
+T59	PROC 2904 2933	régime diététique substitutif
+T60	DISO 2954 2975	fébricule congénitale
+T61	PROC 3065 3081	acte chirurgical
+T62	PROC 3096 3134	complément immunohistochimique initial
+T63	MEAS 3146 3153	négatif
+T64	LIVB 3260 3268	patients
+T65	PROC 3274 3293	examens biologiques

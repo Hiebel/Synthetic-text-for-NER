@@ -1,0 +1,71 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	3 ans
+T3	Concept_Idea 41 52	antécédents
+T4	MEAS 53 65	particuliers
+T5	PROC 67 72	Admis
+T6	Hospital 77 85	urgences
+T7	DISO 95 114	douleurs pelviennes
+T8	ANAT 104 114	pelviennes
+T9	DISO 131 137	fièvre
+T10	MEAS 149 153	40°C
+T11	PROC 157 172	examen clinique
+T12	LIVB 185 191	enfant
+T13	MEAS 195 198	bon
+T14	Concept_Idea 199 211	état général
+T15	DISO 213 223	apyrétique
+T16	PHEN 229 247	suites opératoires
+T17	DISO 290 326	désinsertion du greffon épigastrique
+T18	ANAT 306 326	greffon épigastrique
+T19	DISO 340 362	épanchement péritonéal
+T20	ANAT 352 362	péritonéal
+T21	ANAT 378 407	artère gastroduodénale droite
+T22	Localization 401 407	droite
+T23	MEAS 417 421	1 cm
+T24	Concept_Idea 425 439	grand diamètre
+T25	DISO 460 476	perte de chaleur
+T26	ANAT 492 510	flambeau gastrique
+T27	ANAT 518 554	muscles fléchisseurs péripéritonéaux
+T28	DISO 584 593	anomalies
+T29	PROC 701 737	tomodensitométrie abdomino-pelvienne
+T30	ANAT 719 737	abdomino-pelvienne
+T31	DISO 769 795	masse tissulaire hypodense
+T32	MEAS 804 807	2cm
+T33	Concept_Idea 811 824	granddiamètre
+T34	ANAT 855 892	quadrant supéro-latéral gynécologique
+T35	CHEM 922 942	produit de contraste
+T36	DISO 959 987	résidu nécrotico-myxomateuse
+T37	DISO 1005 1058	syndrome d’épanchement tissulaire pariétal iléocæcale
+T38	ANAT 1028 1058	tissulaire pariétal iléocæcale
+T39	DISO 1063 1102	carcinose parathyroïdienne métastatique
+T40	ANAT 1073 1102	parathyroïdienne métastatique
+T41	DISO 1136 1155	lésions secondaires
+T42	DISO 1183 1232	adénopathisme pulmonaire basithoracique infiltrat
+T44	DISO 1262 1308	dépression ventriculo-nerveuse diaphragmatique
+T45	ANAT 1273 1308	ventriculo-nerveuse diaphragmatique
+T46	ANAT 1324 1344	lobe supérieur droit
+T47	Localization 1339 1344	droit
+T48	LIVB 1368 1376	patiente
+T49	PROC 1390 1419	chimiothérapie antibacillaire
+T50	CHEM 1425 1444	Cyclo-dexaméthasone
+T51	CHEM 1447 1458	Ceftriaxone
+T52	PROC 1499 1524	réanimation préopératoire
+T53	PROC 1537 1553	lavage gastrique
+T54	ANAT 1544 1553	gastrique
+T55	DISO 1575 1596	leishmaniose kystique
+T56	ANAT 1627 1632	grêle
+T57	PROC 1636 1657	intubation otrachéale
+T58	ANAT 1647 1657	otrachéale
+T59	DISO 1748 1763	symptomatologie
+T60	TEMP 1773 1790	pendant 48 heures
+T61	PROC 1800 1823	traumatisme chirurgical
+T62	DISO 1919 1946	localisations tuberculeuses
+T63	ANAT 2007 2020	hypogastrique
+T64	MEAS 2044 2058	centimétriques
+T65	PROC 2080 2091	prélèvement
+T66	PROC 2097 2122	recherche bactériologique
+T67	MEAS 2135 2143	négatifs
+T68	PROC 2158 2179	sérologie virale BHCG
+T69	MEAS 2188 2195	positif
+T70	PROC 2200 2212	diagnostiqué
+T71	ANAT 2268 2294	thoracique cervico-vaginal
+T72	PROC 2309 2337	marqueurs d'immunodépresence

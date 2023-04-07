@@ -1,0 +1,95 @@
+T1	LIVB 33 41	patiente
+T2	PROC 67 73	admise
+T3	Hospital 78 100	urgences chirurgicales
+T4	PROC 106 127	anesthésie péridurale
+T5	PROC 129 132	PNI
+T6	DOSE 134 143	1/10 mmHg
+T7	DEVI 148 170	sonde thoracique haute
+T9	LIVB 247 255	patiente
+T10	DISO 260 280	pneumo-surrénalienne
+T11	DISO 296 304	polypnée
+T12	MEAS 319 330	progressive
+T13	MEAS 340 348	brulante
+T14	DISO 362 389	épanchement intrapéritonéal
+T15	ANAT 374 389	intrapéritonéal
+T16	MEAS 422 430	2 litres
+T17	DISO 520 548	symptomatologie neurologique
+T18	DISO 566 590	déficit sensitivo-moteur
+T19	DISO 603 617	organomégalies
+T20	PROC 632 649	bilan étiologique
+T21	DISO 796 818	tuberculose pulmonaire
+T22	ANAT 808 818	pulmonaire
+T23	CHEM 948 959	rifampicine
+T24	CHEM 961 971	ethambutol
+T25	CHEM 973 983	isoniazide
+T26	CHEM 985 997	pyrazinamide
+T27	CHEM 999 1010	éthionamide
+T28	CHEM 1012 1025	vinblastidine
+T29	CHEM 1027 1040	dexaméthasone
+T30	CHEM 1042 1053	Cyclosérine
+T31	CHEM 1055 1072	méthylthiouracile
+T32	DISO 1291 1317	douleur intestinale ulcéré
+T33	DISO 1482 1493	métrorragie
+T34	DISO 1591 1632	syndrome d'épanchement liquidien grêlique
+T35	ANAT 1614 1632	liquidien grêlique
+T36	DISO 1710 1725	chorioamniotite
+T37	DISO 1732 1755	traumatisme placentaire
+T38	ANAT 1744 1755	placentaire
+T39	PROC 1838 1861	prélèvements biologique
+T40	MEAS 1911 1937	difficilement appréciables
+T41	PROC 2007 2024	rôle diagnostique
+T42	PROC 2050 2080	traitements curatifs adjuvants
+T43	MEAS 2157 2166	favorable
+T44	DISO 2235 2248	méningothrite
+T45	DISO 2323 2338	perte pondérale
+T46	DISO 2376 2387	myométriale
+T47	LIVB 2468 2477	patientes
+T48	PROC 2498 2521	antibiothérapie adaptée
+T49	CHEM 2534 2543	amikacine
+T50	DOSE 2545 2550	400mg
+T51	TEMP 2550 2552	/j
+T52	CHEM 2555 2566	ceftriaxone
+T53	DOSE 2568 2574	100 mg
+T54	TEMP 2574 2576	/j
+T55	CHEM 2579 2592	bêtaméthasone
+T56	DOSE 2594 2599	20 mg
+T57	TEMP 2599 2601	/j
+T58	CHEM 2604 2615	rifampicine
+T59	DOSE 2617 2623	120 mg
+T60	TEMP 2623 2625	/j
+T61	CHEM 2628 2640	Pyrazinamide
+T62	DOSE 2642 2648	750 mg
+T63	TEMP 2648 2650	/j
+T64	CHEM 2653 2664	Ethionamide
+T65	DOSE 2666 2672	200 mg
+T66	TEMP 2672 2674	/j
+T67	CHEM 2677 2690	Vinblastidine
+T68	DOSE 2692 2698	600 mg
+T69	TEMP 2698 2700	/j
+T70	CHEM 2703 2714	Cyclosérine
+T71	DOSE 2716 2719	3 g
+T72	TEMP 2719 2721	/j
+T73	CHEM 2724 2741	Méthylthiouracile
+T74	DOSE 2743 2748	2,5 g
+T75	TEMP 2748 2750	/j
+T76	CHEM 2753 2763	Isoniazide
+T77	DOSE 2765 2767	1g
+T78	TEMP 2767 2769	/j
+T79	CHEM 2772 2783	Ceftriaxone
+T80	DOSE 2785 2790	30 mg
+T81	TEMP 2790 2792	/j
+T82	CHEM 2795 2801	Vit B6
+T83	DOSE 2803 2811	10 mg/kg
+T84	TEMP 2811 2813	/j
+T85	CHEM 2816 2824	Aspirine
+T86	DOSE 2826 2831	75 mg
+T87	TEMP 2831 2833	/j
+T88	CHEM 2836 2852	Erythrométhasone
+T89	DOSE 2854 2859	50 mg
+T90	TEMP 2859 2861	/j
+T91	CHEM 2864 2875	Sulfentanil
+T92	DOSE 2877 2886	0,7 µg/kg
+T93	TEMP 2886 2892	/heure
+T94	MODE 2894 2904	voie orale
+T95	Concept_Idea 2975 2997	critères radiologiques
+T96	PHEN 3013 3029	cycles menstruel

@@ -1,0 +1,84 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	6 ans
+T3	DISO 62 82	diabète gestationnel
+T4	PROC 88 103	corticothérapie
+T5	PROC 117 122	admis
+T6	Hospital 127 148	urgences pédiatriques
+T7	Hospital 152 164	CHU Yopougon
+T8	DISO 174 204	douleurs pelviennes chroniques
+T9	ANAT 183 193	pelviennes
+T10	TEMP 214 228	depuis 2 jours
+T11	PROC 232 247	examen clinique
+T12	LIVB 263 271	patiente
+T13	MEAS 275 284	assez bon
+T14	Concept_Idea 285 297	état général
+T15	DISO 303 317	déficit moteur
+T16	DISO 321 333	neurologique
+T17	PROC 343 360	examen biologique
+T18	DISO 379 391	hypokaliémie
+T19	MEAS 394 404	2,5 mmol/l
+T20	MEAS 411 428	4 fois la normale
+T21	PROC 434 461	numération formule sanguine
+T22	MEAS 468 475	normale
+T23	PROC 489 513	bilan pré-transfusionnel
+T24	PROC 528 567	récepteurs ionotropesetransaminergiques
+T25	DISO 589 609	troubles vasomoteurs
+T26	DISO 619 639	signes neurologiques
+T27	PROC 652 671	électrocardiogramme
+T28	PHEN 696 707	température
+T29	MEAS 710 715	36°7C
+T30	DISO 826 843	épisodes fébriles
+T31	PROC 917 933	examen somatique
+T32	DISO 945 959	particularités
+T33	PROC 965 996	mastectomie totale exploratrice
+T34	PROC 1023 1076	néphrectomie transoesophagienne distale scanno-guidée
+T35	PROC 1121 1164	anastomose termino-intercostale periploi͏̈e
+T36	MEAS 1211 1218	simples
+T37	PROC 1283 1296	thérapeutique
+T38	PROC 1355 1382	traitement médical adjuvant
+T39	CHEM 1404 1421	antalgique direct
+T40	CHEM 1427 1438	tamoxifenil
+T41	CHEM 1441 1461	sulfate de magnésium
+T42	CHEM 1463 1488	acide acétyle salicylique
+T43	DISO 1589 1607	effets secondaires
+T44	PROC 1637 1666	exercices physiques intensifs
+T45	PROC 1671 1693	traitement chirurgical
+T46	PROC 1711 1809	hémodialyse médicochirurgicale percutanéflexion multidisciplinaire intraveineuse fémorale radicale
+T47	PROC 1825 1852	oxygénothérapie parentérale
+T48	DOSE 1889 1899	0,25 mg/Kg
+T49	TEMP 1899 1901	/j
+T50	PROC 1916 1982	ventilation mécanique extracorporelle monorespiratoire fractionnée
+T51	LIVB 1991 2001	nouveau-né
+T52	MEAS 2024 2036	1800 grammes
+T53	MEAS 2040 2052	1650 grammes
+T54	LIVB 2078 2081	lui
+T55	LIVB 2085 2087	sa
+T56	LIVB 2088 2098	belle-sœur
+T57	TEMP 2107 2113	3 mois
+T58	PROC 2128 2178	contrôle ophtalmologique obstétrical échographique
+T59	PROC 2208 2236	prise en charge radiologique
+T60	ANAT 2873 2888	voies urinaires
+T61	CHEM 2896 2907	bupivacaine
+T62	DISO 2927 2949	performances vésicales
+T63	Concept_Idea 2960 2968	schéma 1
+T64	DISO 3045 3090	déficit sensitivomoteur thyroidien péripartum
+T65	PHEN 3099 3106	langage
+T66	MEAS 3107 3112	franc
+T67	PROC 3258 3283	réanimation psychomotrice
+T68	PROC 3387 3451	kinésithérapie cognitivo-comportementale palliative substitutive
+T69	Concept_Idea 3464 3491	différents stades cliniques
+T70	DISO 3529 3545	trouble érectile
+T71	DISO 3555 3581	signes neuropsychiatriques
+T72	Concept_Idea 3811 3828	caractère général
+T73	PROC 3843 3869	surveillance orthophonique
+T74	LIVB 4017 4023	enfant
+T75	TEMP 4031 4037	10 ans
+T76	PROC 4075 4080	suivi
+T77	TEMP 4088 4092	2ans
+T78	DISO 4106 4122	accident de moto
+T79	LIVB 4132 4135	son
+T80	LIVB 4136 4140	père
+T81	DEVI 4349 4362	casque plâtré
+T82	LIVB 4370 4372	il
+T83	Concept_Idea 4397 4402	usage
+T84	LIVB 4542 4556	petits-enfants

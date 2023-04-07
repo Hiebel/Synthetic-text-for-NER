@@ -1,0 +1,86 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 71	antécédents pathologiques
+T3	MEAS 72 84	particuliers
+T4	PROC 95 101	admise
+T5	DISO 111 128	douleurs du genou
+T6	ANAT 123 128	genou
+T7	TEMP 138 155	depuis trois mois
+T8	PROC 159 174	examen clinique
+T9	LIVB 186 194	patiente
+T10	Concept_Idea 203 215	état général
+T11	MEAS 216 222	altéré
+T12	PHEN 228 252	réflexes ostéo-tendineux
+T13	ANAT 237 252	ostéo-tendineux
+T14	MEAS 269 272	90°
+T15	Localization 279 294	position assise
+T16	DEVI 332 341	processus
+T17	MEAS 350 358	60/40 cm
+T18	Concept_Idea 367 395	résultat anatomopathologique
+T19	DISO 418 450	fracture acro-maxillaire maligne
+T20	PROC 469 496	bilan radiologique standard
+T21	LIVB 516 524	patiente
+T22	DISO 545 565	déficit neurologique
+T23	DISO 569 599	cardio-vasculaire périphérique
+T24	DISO 616 635	lésion ostéolytique
+T25	PROC 639 650	échographie
+T26	Hospital 664 685	urgences pédiatriques
+T27	DISO 707 801	pseudo myxome épiploonocellulaire hétéroduodénale monoblastique intradiaphragmatique rénitente
+T29	DISO 870 929	hyperfixation hypogastrique périchoroïdale hyperkératosique
+T30	ANAT 996 1013	lambeau axillaire
+T31	MEAS 1023 1028	80 mm
+T32	Concept_Idea 1032 1039	hauteur
+T33	ANAT 1059 1108	fosses ischio-mandibulaires cervico-médiastinales
+T34	ANAT 1150 1209	jonction musculo-tendineuse sus mandibulaire antébronchique
+T35	Concept_Idea 1225 1232	contenu
+T36	Concept_Idea 1242 1248	aspect
+T37	Concept_Idea 1281 1305	trajectoires antérieures
+T38	ANAT 1379 1400	troncs supéro-externe
+T39	PROC 1405 1433	surveillance préanesthésique
+T40	DISO 1447 1482	distension abdomino-transthoracique
+T41	ANAT 1458 1482	abdomino-transthoracique
+T42	DISO 1498 1519	détresse respiratoire
+T43	PHEN 1507 1519	respiratoire
+T44	MEAS 1530 1538	4cuisses
+T45	ANAT 1539 1583	ventricules infundibulaires para carotidiens
+T46	DISO 1623 1660	hypocalcémie normochrome normocytaire
+T47	MEAS 1697 1704	5mmol/l
+T48	DISO 1719 1744	symptomatologie dysphagie
+T49	DISO 1754 1774	crampes généralisées
+T50	ANAT 1800 1815	voies urinaires
+T51	ANAT 1832 1868	structures pyélocalicielles pelviens
+T52	DISO 1982 2015	brûlure liquidienne superficielle
+T53	PROC 2020 2036	contrôle initial
+T54	DISO 2066 2090	complications mécaniques
+T55	DISO 2126 2152	troubles sensitivo-moteurs
+T56	PROC 2170 2195	intervention chirurgicale
+T57	DISO 2211 2225	déshydratation
+T58	PROC 2231 2241	opératoire
+T59	DISO 2277 2283	signes
+T60	CHEM 2312 2331	inhibiteur calcique
+T61	CHEM 2334 2360	amoxicilline hydrosolubles
+T63	LIVB 2746 2753	patient
+T64	TEMP 2779 2787	7 heures
+T65	Concept_Idea 2796 2814	état hémodynamique
+T66	DISO 2847 2872	réactions anaphylactiques
+T67	PROC 2883 2903	séance préopératoire
+T68	PROC 2909 2935	examen anatomopathologique
+T69	DISO 2962 3140	neurofibromatose du quadrant supèro-pylorique rénal basal ventriculaire controlatéral jugulocaverneux infiltrant les aires ganglionnaires cervicales temporales inférieure droites
+T71	ANAT 3079 3140	aires ganglionnaires cervicales temporales inférieure droites
+T72	Localization 3133 3140	droites
+T73	DISO 3159 3178	lésion pathologique
+T74	PROC 3192 3202	hémogramme
+T75	DISO 3223 3282	anémie hypochrome normocytaire hétérozygote auto-entretenue
+T76	MEAS 3289 3297	1,6 g/dl
+T77	DISO 3319 3352	cholestase monoclonale mononuclée
+T78	ANAT 3367 3403	zones parenchymateuses sus pubiennes
+T79	DISO 3430 3463	hémangioendothélium malpighiensis
+T80	MEAS 3489 3509	supérieur à 5 mmol/l
+T81	MEAS 3520 3541	inférieur à 0,25 mg/l
+T82	PROC 3547 3578	scintigraphie abdomino-fémorale
+T83	ANAT 3561 3578	abdomino-fémorale
+T84	DISO 3597 3659	processus lésionnel tumoral tissulaire péritonéal métastatique
+T85	DISO 3676 3703	remaniements inflammatoires
+T86	DISO 3707 3717	infectieux
+T87	ANAT 3730 3766	nerf crico-trachéo-oesophagien moyen
+T89	PROC 3955 3996	injection intramusculaire intrathyroïdien
+T90	DISO 4020 4073	syndactylie carcinomateuse périvasculaire congénitale

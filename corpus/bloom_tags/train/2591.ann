@@ -1,0 +1,50 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 19 25	16 ans
+T3	PROC 30 37	décédée
+T4	DISO 49 93	hémiplégie subaréflexique ischémique fébrile
+T5	DISO 111 132	perte de connaissance
+T6	DISO 167 189	céphalées hypertensive
+T7	DISO 200 228	accident vasculaire cérébral
+T8	ANAT 220 228	cérébral
+T9	DISO 245 271	neuroleptinose congénitale
+T10	DISO 314 339	hyperthyroïdie secondaire
+T11	PROC 343 358	examen clinique
+T12	LIVB 372 380	patiente
+T13	MEAS 384 387	bon
+T14	Concept_Idea 388 400	état général
+T15	PROC 404 426	examen ophtalmologique
+T16	DISO 443 486	hypermétropie flasque des paires crâniennes
+T17	ANAT 469 486	paires crâniennes
+T18	ANAT 500 550	sinus caverneux céphalo-mandibulaire latéral droit
+T19	Localization 545 550	droit
+T20	ANAT 563 577	conjonctivales
+T21	DISO 617 627	apyrétique
+T23	CHEM 661 679	méthylprednisolone
+T24	DOSE 681 688	1 mg/kg
+T25	TEMP 688 693	/jour
+T26	PROC 699 722	TDM abdomino- pelvienne
+T27	ANAT 703 722	abdomino- pelvienne
+T28	MEAS 775 786	irrégulière
+T29	MEAS 796 801	12 cm
+T30	Concept_Idea 805 814	grand axe
+T31	ANAT 874 896	muqueuses péritonéales
+T32	DISO 922 973	épanchement intracanalaire basithoracique infiltrat
+T34	DISO 993 1021	localisations hyper-intenses
+T35	DISO 1065 1070	masse
+T36	LIVB 1072 1076	Nous
+T37	PROC 1095 1121	échographie utéro-vaginale
+T38	ANAT 1107 1121	utéro-vaginale
+T39	PROC 1135 1162	tomodensitométrie pelvienne
+T40	ANAT 1153 1162	pelvienne
+T41	PROC 1187 1199	diagnostique
+T42	DISO 1225 1236	lithiasique
+T43	ANAT 1265 1281	marges vaginales
+T44	PROC 1343 1367	scanner abdomino-pelvien
+T45	ANAT 1351 1367	abdomino-pelvien
+T46	DISO 1392 1418	anévrisme kystique tumoral
+T47	PROC 1473 1494	recherche étiologique
+T48	DISO 1513 1573	prolifération proliférative tumorale maligne endométrialisée
+T49	DISO 1583 1595	tuberculeuse
+T50	ANAT 1631 1645	glande utérine
+T51	DISO 1744 1757	consanguinité
+T52	DISO 1764 1800	maladie thromboembolique parenterale

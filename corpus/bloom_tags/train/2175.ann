@@ -1,0 +1,32 @@
+T1	LIVB 15 22	patient
+T2	PROC 64 75	hospitalisé
+T3	Hospital 80 88	urgences
+T4	DISO 106 142	dyspnée obstructive du poignet droit
+T5	ANAT 129 142	poignet droit
+T6	Localization 137 142	droit
+T7	MEAS 157 168	progressive
+T8	DISO 183 191	anorexie
+T9	DISO 193 214	détresse respiratoire
+T10	PHEN 202 214	respiratoire
+T11	DISO 230 236	fièvre
+T12	MEAS 248 253	38°8C
+T13	PROC 257 287	auscultation cardio-vasculaire
+T14	ANAT 270 287	cardio-vasculaire
+T15	DISO 320 338	lésions cardiaques
+T16	DISO 349 375	malformations congénitales
+T17	PROC 399 432	échocardiographie transthoracique
+T18	ANAT 417 432	transthoracique
+T19	DISO 476 504	souffle intra-parenchymateux
+T20	ANAT 484 504	intra-parenchymateux
+T21	DISO 529 544	symptomatologie
+T22	DISO 739 752	consanguinité
+T23	DISO 780 819	prise médicamenteuse métabolicochimique
+T24	TEMP 829 842	depuis 2 mois
+T25	LIVB 849 854	notre
+T26	PROC 855 867	consultation
+T27	DISO 905 928	bradycardie réfractaire
+T28	MEAS 951 966	progressivement
+T29	Concept_Idea 970 976	volume
+T30	DISO 995 1009	ictère fébrile
+T31	MEAS 1048 1057	rougeâtre
+T32	DISO 1092 1111	douleurs purulentes

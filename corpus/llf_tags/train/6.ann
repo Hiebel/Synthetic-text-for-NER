@@ -1,0 +1,36 @@
+T1	PROC 2 20	étude histologique
+T2	DISO 34 51	lésions kystiques
+T3	ANAT 68 81	paroi rectale
+T4	ANAT 86 108	sinus caverneux gauche
+T5	Localization 102 108	gauche
+T6	ANAT 127 150	pédicule gastroduodénal
+T7	DISO 180 213	épithélium carcinomateux mucineux
+T8	ANAT 234 247	paroi rectale
+T9	Concept_Idea 333 346	hétérogénéité
+T10	MEAS 347 367	faiblement accentuée
+T11	DISO 395 464	carcinome épidermoïde infiltrant les fibres graisseux cutanéo-muqueux
+T12	ANAT 432 464	fibres graisseux cutanéo-muqueux
+T13	PROC 470 491	biopsie scanno-guidée
+T14	DISO 533 555	anomalie morphologique
+T15	LIVB 569 577	patiente
+T16	PROC 600 620	exérèse chirurgicale
+T17	PROC 626 643	anesthésie locale
+T18	PROC 657 689	toilette nasopharyngo-rétraculée
+T19	ANAT 666 689	nasopharyngo-rétraculée
+T20	ANAT 720 747	tronc crico-gastro-duodénal
+T21	PROC 754 763	injection
+T22	DOSE 767 775	2 litres
+T23	CHEM 779 791	fluorouracil
+T24	PROC 816 826	diagnostic
+T25	DISO 851 924	adénocarcinome papillaire réno-mésenchymateux stade ELISA3N9MxPDGT4GYEGRK
+T26	MEAS 932 941	stade III
+T27	Concept_Idea 1009 1027	caractère évolutif
+T28	DISO 1070 1106	kyste hydatique ostéolytique maligne
+T29	DISO 1236 1259	maladies auto-infligées
+T30	TEMP 1286 1297	Une semaine
+T31	PROC 1310 1333	cholécystectomie totale
+T32	DEVI 1340 1343	cas
+T33	MEAS 1445 1452	simples
+T34	DISO 1477 1494	récidive tumorale
+T35	DISO 1501 1522	récidive métastatique
+T36	LIVB 1564 1572	patients

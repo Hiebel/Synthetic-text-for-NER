@@ -1,0 +1,33 @@
+T1	LIVB 15 22	patient
+T2	PHEN 38 44	pesant
+T3	MEAS 45 50	60 kg
+T4	Concept_Idea 59 64	poids
+T5	MEAS 68 73	75 kg
+T6	DISO 89 102	consanguinité
+T7	PROC 106 121	examen clinique
+T8	LIVB 133 141	patiente
+T9	DISO 157 216	douleurs abdomino-sigmoïdales basithoraciques hypoéchogènes
+T11	MEAS 226 231	21 cm
+T12	MEAS 236 241	11 cm
+T13	Concept_Idea 244 250	allure
+T14	DISO 251 259	kystique
+T15	ANAT 297 315	sigmoido-péritoine
+T16	DISO 337 413	adénopathies pariéto-utérines cervicale nodulaires hypokaliées compressibles
+T18	DISO 439 448	symptômes
+T19	LIVB 475 479	Elle
+T20	DISO 502 550	dilatation thoracique hyo-thyro-laryngo-sternale
+T21	ANAT 513 550	thoracique hyo-thyro-laryngo-sternale
+T22	TEMP 560 574	depuis 10 mois
+T23	MEAS 586 601	progressivement
+T24	Concept_Idea 605 612	hauteur
+T25	MEAS 622 636	plus fréquente
+T26	Concept_Idea 645 655	profession
+T27	Concept_Idea 705 714	résultats
+T28	DISO 728 792	hypertrophie hypophyso-mandibulaire laryngo-trachéo médiastinale
+T29	ANAT 741 792	hypophyso-mandibulaire laryngo-trachéo médiastinale
+T30	DISO 802 815	inflammatoire
+T31	ANAT 836 857	parenchyme thyroïdien
+T32	LIVB 913 921	patients
+T33	DISO 1023 1042	traumatisme crânien
+T34	PROC 1057 1098	touchers cardio-vasculaires transcrâniens
+T35	ANAT 1066 1098	cardio-vasculaires transcrâniens

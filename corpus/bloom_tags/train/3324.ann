@@ -1,0 +1,27 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	13 ans
+T3	DISO 38 63	antécédents pathologiques
+T4	MEAS 64 72	notables
+T5	PROC 74 80	admise
+T6	Hospital 85 93	urgences
+T7	DISO 103 138	douleurs abdomino-pelviennes aiguës
+T8	ANAT 112 131	abdomino-pelviennes
+T9	DISO 155 161	fièvre
+T10	PROC 180 189	admission
+T11	LIVB 193 203	nouveau-né
+T12	Concept_Idea 223 241	état hémodynamique
+T13	PHEN 245 257	respiratoire
+T14	Concept_Idea 273 278	poids
+T15	MEAS 282 287	1050g
+T16	PROC 293 314	échographie pelvienne
+T17	ANAT 305 314	pelvienne
+T18	DISO 360 405	masse latéro utérine bilatérale hypertrophiée
+T19	Localization 381 391	bilatérale
+T20	ANAT 419 425	utérus
+T21	MEAS 435 440	12 cm
+T22	Concept_Idea 444 453	grand axe
+T23	MEAS 462 466	6 cm
+T24	Concept_Idea 470 481	profondeurs
+T25	Concept_Idea 484 490	aspect
+T26	MEAS 491 501	hétérogène
+T27	CHEM 518 539	surrénales ovariennes

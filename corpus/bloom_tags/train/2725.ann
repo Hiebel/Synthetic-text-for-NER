@@ -1,0 +1,54 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 87	traitée chirurgicalement
+T3	CHEM 95 113	hydroxychloroquine
+T4	DOSE 115 123	50 mg/kg
+T5	TEMP 123 125	/j
+T6	CHEM 139 150	ethionamide
+T7	DOSE 152 158	400 mg
+T8	TEMP 158 160	/j
+T9	MODE 162 172	voie orale
+T10	CHEM 220 251	amoxicilline-acide clavulanique
+T11	CHEM 341 352	médicaments
+T12	MEAS 398 403	lente
+T13	MEAS 409 415	rapide
+T14	DISO 422 437	symptomatologie
+T15	DISO 522 543	syndrome hémorragique
+T16	DISO 575 590	symptomatologie
+T17	LIVB 629 637	patiente
+T18	MEAS 1117 1136	lentement favorable
+T19	CHEM 1576 1590	tobraméthasone
+T20	PROC 1639 1656	pronostic curatif
+T21	DEVI 1660 1665	godet
+T22	MEAS 1673 1678	14 cm
+T23	Concept_Idea 1682 1691	grand axe
+T24	MEAS 1700 1704	4 cm
+T25	Concept_Idea 1708 1715	hauteur
+T26	MEAS 1735 1741	200 ml
+T27	MEAS 1772 1784	environ 2 cm
+T28	Concept_Idea 1788 1797	grand axe
+T29	ANAT 1832 1844	épigastrique
+T30	MEAS 1886 1890	2 cm
+T31	Concept_Idea 1894 1903	grand axe
+T32	DISO 1924 1952	adénopathies péri-ovariennes
+T34	DISO 1963 1993	lésions kystiques péritonéales
+T35	DISO 2015 2046	métastases hépato-pancréatiques
+T36	ANAT 2026 2046	hépato-pancréatiques
+T37	PROC 2051 2089	scanner abdomino-pelvien transfixiante
+T38	ANAT 2059 2089	abdomino-pelvien transfixiante
+T41	PROC 2760 2775	examen clinique
+T42	LIVB 2779 2786	patient
+T43	MEAS 2796 2799	bon
+T44	Concept_Idea 2800 2812	état général
+T45	PHEN 2822 2840	suites opératoires
+T46	TEMP 2841 2851	immédiates
+T47	MEAS 2852 2859	simples
+T48	PROC 2886 2910	chimiothérapie adjuvante
+T49	MODE 2916 2926	voie orale
+T50	CHEM 2940 2950	cisplatine
+T51	DOSE 2952 2957	750mg
+T52	CHEM 2960 2970	isoniazide
+T53	CHEM 2981 3001	méthylhydrocortisone
+T54	DOSE 3003 3008	50 mg
+T55	TEMP 3010 3026	pendant six mois
+T56	DISO 3080 3113	syndrome inflammatoire biologique
+T57	TEMP 3140 3147	12 mois

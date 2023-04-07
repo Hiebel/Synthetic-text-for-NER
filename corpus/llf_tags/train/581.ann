@@ -1,0 +1,21 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	7 ans
+T3	PHEN 99 111	accouchement
+T4	PROC 255 276	consultation médicale
+T5	LIVB 280 284	nous
+T6	PROC 305 327	contrôle échographique
+T7	PROC 339 367	prise en charge orthopédique
+T8	DISO 403 432	complication neurochirurgical
+T9	LIVB 477 499	familles nécessiteuses
+T10	PROC 580 597	bilan étiologique
+T11	DISO 624 640	maladie cœliaque
+T12	DISO 668 691	hypertension artérielle
+T13	ANAT 681 691	artérielle
+T14	DISO 709 752	anémie hypochrome microcytaire normocytaire
+T15	MEAS 779 789	3,5 mmol/l
+T16	MEAS 793 803	2,1 mmol/l
+T17	CHEM 839 852	métronidazole
+T18	PROC 881 922	chimiothérapie antibacillaire parentérale
+T19	DOSE 998 1004	200 mg
+T20	TEMP 1013 1023	/24 heures
+T22	PROC 1148 1219	hémoglobine déshydrogénase extracanalaire cryoprécipitationnelle totale

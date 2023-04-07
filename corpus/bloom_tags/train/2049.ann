@@ -1,0 +1,37 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	3 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 82	admis
+T6	Hospital 86 110	réanimation chirurgicale
+T7	DISO 120 141	détresse respiratoire
+T8	PHEN 129 141	respiratoire
+T9	DISO 148 181	syndrome d'épanchement péritonéal
+T10	ANAT 171 181	péritonéal
+T11	PROC 185 200	examen clinique
+T12	Concept_Idea 218 229	température
+T13	MEAS 232 237	36°8C
+T14	CHEM 242 253	tuberculine
+T15	MEAS 260 268	négative
+T16	PROC 273 303	auscultation cardio-vasculaire
+T17	ANAT 286 303	cardio-vasculaire
+T18	Localization 326 334	centraux
+T19	ANAT 348 383	carpo-métacarpien inféro-scapulaire
+T20	PROC 388 407	pression artérielle
+T21	ANAT 397 407	artérielle
+T22	MEAS 416 426	100/60mmhg
+T23	PROC 446 462	examen somatique
+T24	LIVB 464 466	Il
+T25	PROC 485 509	ventilation artificielle
+T26	DEVI 514 533	sonde nasogastrique
+T27	ANAT 520 533	nasogastrique
+T28	PROC 548 594	stabilisation hydro-électrolytique parenterale
+T29	PROC 608 665	injection intraveineuse d'amoxicilline-acide clavulanique
+T30	CHEM 634 665	amoxicilline-acide clavulanique
+T31	PROC 689 723	cathéchographie abdomino-pelvienne
+T32	ANAT 705 723	abdomino-pelvienne
+T33	DISO 752 780	hypotension intrarachidienne
+T34	ANAT 764 780	intrarachidienne
+T35	MEAS 1055 1064	70/40mmhg
+T36	ANAT 1151 1161	thoracique
+T37	PROC 1181 1185	ETTO

@@ -1,0 +1,53 @@
+T1	PROC 3 13	diagnostic
+T2	DISO 39 76	récidive tumorale de la tête fémorale
+T3	ANAT 63 76	tête fémorale
+T4	DISO 92 117	métastases du rein gauche
+T5	ANAT 106 117	rein gauche
+T6	Localization 111 117	gauche
+T7	PROC 122 143	contrôle radiologique
+T8	MEAS 160 166	légère
+T9	DISO 167 201	hypo-radiothérapie hypercalcitaire
+T10	Concept_Idea 208 216	résultat
+T11	DISO 232 249	léiomyome myxoide
+T12	ANAT 280 293	hémi-thyroïde
+T13	DISO 300 336	masse tissulaire pariétale polylobée
+T14	MEAS 345 352	6/10 cm
+T16	Localization 390 398	en avant
+T17	ANAT 428 450	troncs supéro-externes
+T18	ANAT 474 509	plexus brachial inferieur inferieur
+T19	Localization 490 509	inferieur inferieur
+T20	LIVB 525 533	patiente
+T21	PROC 564 588	chimiothérapie adjuvante
+T22	PROC 602 636	radio-chimiothérapie néo adjuvante
+T23	CHEM 642 651	tamoxifen
+T24	DOSE 666 670	5 Gy
+T25	TEMP 670 672	/j
+T26	PROC 718 741	traitement conservateur
+T27	TEMP 766 772	3 mois
+T28	PROC 778 788	opératoire
+T29	PROC 794 819	étude anatomopathologique
+T30	DISO 847 881	léiomyome anaplasique monophasique
+T31	PHEN 891 909	structures vitales
+T32	ANAT 927 962	parois rénitentiques superficielles
+T33	ANAT 975 1003	nerf laryngé supérieur droit
+T34	Localization 998 1003	droit
+T35	MEAS 1013 1020	18×9 mm
+T36	DEVI 1067 1089	broche crico-trachéale
+T37	ANAT 1097 1118	segments médiastinaux
+T38	ANAT 1124 1132	cellules
+T39	Concept_Idea 1291 1300	caractère
+T40	MEAS 1410 1412	4%
+T41	MEAS 1416 1428	0,1 µmolaire
+T42	MEAS 1436 1446	2µmolaires
+T43	DISO 1470 1502	lésions carcinomateuses malignes
+T44	Concept_Idea 1532 1551	aspect histologique
+T45	DISO 1614 1634	anomalie congénitale
+T46	LIVB 1760 1767	malades
+T47	PROC 1814 1839	chimiothérapie palliative
+T48	PROC 1852 1892	kinésithérapie concomitante substitutive
+T49	LIVB 2133 2138	homme
+T50	PROC 2243 2253	consultait
+T51	ANAT 2958 2962	cœur
+T52	PROC 2983 3009	surveillance échographique
+T53	DISO 3036 3049	particularité
+T54	TEMP 3073 3079	3 mois

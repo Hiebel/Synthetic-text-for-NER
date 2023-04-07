@@ -1,0 +1,43 @@
+T1	LIVB 29 37	patiente
+T2	DISO 106 129	déficit sensitivomoteur
+T3	DISO 139 158	cholinestéroidienne
+T4	CHEM 164 177	bêtaméthasone
+T5	DEVI 233 252	sonde nasopharyngée
+T6	ANAT 239 252	nasopharyngée
+T7	PROC 266 291	scanner abdomino- pelvien
+T8	ANAT 274 291	abdomino- pelvien
+T9	DISO 308 355	masse tissulaire hypoéchogène hypervascularisée
+T10	MEAS 365 369	12cm
+T11	Concept_Idea 373 382	grand axe
+T12	ANAT 404 420	muscles crâniens
+T13	DISO 518 548	localisations neurorétiniennes
+T14	DISO 563 585	néphrophtalmie maligne
+T15	DISO 600 616	pathocondensante
+T16	DISO 638 660	symptomatologie isolée
+T17	ANAT 777 794	paires crâniennes
+T18	DISO 890 915	neurofibromatose kystique
+T19	LIVB 925 931	enfant
+T20	PROC 1033 1049	examen somatique
+T21	DISO 1080 1092	palpitations
+T22	DISO 1129 1145	troubles visuels
+T23	DISO 1152 1165	respiratoires
+T24	ANAT 1190 1201	endovaginal
+T25	DISO 1226 1254	lésion hypokaliemicellulaire
+T26	MEAS 1283 1287	2 cm
+T27	Concept_Idea 1291 1300	grand axe
+T28	PROC 1317 1326	injection
+T29	CHEM 1330 1350	produit de contraste
+T30	MEAS 1362 1377	progressivement
+T31	Concept_Idea 1381 1387	taille
+T32	MEAS 1397 1417	multi-centimétriques
+T33	MEAS 1434 1445	plus grande
+T35	MEAS 1486 1498	bien limitée
+T36	ANAT 1533 1553	muqueuse péritonéale
+T37	PROC 1576 1594	étude histologique
+T38	PROC 1599 1621	recherche chirurgicale
+T39	Concept_Idea 1736 1746	caractères
+T40	DISO 1859 1896	maladie thromboembolique intériorisée
+T41	DISO 1902 1942	thrombosis veineuse profonde congénitale
+T42	LIVB 1949 1954	Notre
+T43	LIVB 1955 1963	patiente
+T44	ANAT 2004 2021	cérébrovasculaire

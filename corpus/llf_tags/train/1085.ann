@@ -1,0 +1,50 @@
+T1	DISO 52 59	diabète
+T2	MEAS 60 66	type 2
+T3	CHEM 72 89	insulinodépendant
+T4	DISO 96 146	syndrome d’insuffisance rénale chronique terminale
+T5	ANAT 120 126	rénale
+T6	PROC 151 180	prise en charge thérapeutique
+T7	PROC 231 278	cholécystectomie du canal carpien latéral droit
+T8	ANAT 251 278	canal carpien latéral droit
+T9	Localization 273 278	droit
+T10	PROC 284 343	anastomose des voies biliaires intraveineuses périphériques
+T11	ANAT 299 343	voies biliaires intraveineuses périphériques
+T12	Concept_Idea 345 349	VB-D
+T13	PROC 354 379	étude anatomopathologique
+T15	ANAT 504 551	sinus maxillaire inferieur inferieur péritonéal
+T16	Localization 521 540	inferieur inferieur
+T17	ANAT 560 589	anses grêliques sus pubiennes
+T18	PROC 614 623	injection
+T19	CHEM 627 656	produit de contraste iodéïque
+T20	ANAT 664 698	artère hépatique supérieure gauche
+T21	Localization 692 698	gauche
+T22	LIVB 703 710	patient
+T23	PROC 724 755	antibioprophylaxie probabiliste
+T24	TEMP 759 786	dixième jour postopératoire
+T25	PROC 800 833	néphrectomie totale scanno-guidée
+T26	PHEN 839 866	circulation extracorporelle
+T27	MEAS 899 906	simples
+T28	DISO 912 933	problème neurologique
+T29	DISO 951 957	fièvre
+T30	DISO 964 994	troubles hydro-éléctrolytiques
+T31	DISO 1005 1025	symptômes infectieux
+T32	PROC 1030 1049	bilan préopératoire
+T33	DISO 1079 1102	anomalies radiologiques
+T34	DEVI 1134 1143	prothèses
+T35	PROC 1166 1173	radiées
+T36	Hospital 1178 1199	urgences pédiatriques
+T37	LIVB 1252 1259	malades
+T38	PROC 1264 1275	transfuséés
+T39	DISO 1283 1324	complication thromboembolique congénitale
+T40	PROC 1344 1368	extubation endotrachéale
+T41	PROC 1374 1403	tumorectomie interne monobloc
+T42	PROC 1428 1445	geste prothétique
+T43	ANAT 1465 1508	paroi vésicale gastroduodénale mésentérique
+T44	ANAT 1518 1563	bloc crico-trachéo-œsophagien inférieur droit
+T45	Localization 1558 1563	droit
+T46	ANAT 1581 1608	lambeau œso-gastro-duodénum
+T47	ANAT 1623 1661	annexes médiastinales rénales antrales
+T48	MEAS 1685 1690	12 mm
+T49	MEAS 1694 1699	14 mm
+T50	Concept_Idea 1712 1732	aspect morphologique
+T51	DISO 1749 1815	neurochirurgie périmédullaire hypogastrique hypermétroprogastrique

@@ -1,0 +1,27 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 79 84	admis
+T5	Hospital 89 97	urgences
+T6	DISO 107 128	détresse respiratoire
+T7	PHEN 116 128	respiratoire
+T8	TEMP 138 152	depuis 2 jours
+T9	PROC 156 171	examen clinique
+T10	PROC 176 185	admission
+T11	LIVB 198 205	patient
+T12	MEAS 209 212	bon
+T13	Concept_Idea 213 231	état hémodynamique
+T14	ANAT 241 255	conjonctivales
+T15	MEAS 256 266	purulentes
+T16	CHEM 273 292	sérum physiologique
+T17	ANAT 305 314	artériels
+T18	DISO 355 396	épanchement intrarachidiens péribuccinale
+T19	ANAT 367 396	intrarachidiens péribuccinale
+T20	PROC 401 420	pression artérielle
+T21	ANAT 410 420	artérielle
+T22	MEAS 437 449	110/120 mmHg
+T23	ANAT 463 509	tronc aortique cervico-métacarpien superficiel
+T24	MEAS 521 531	130/60mmHg
+T25	ANAT 539 571	médiastin carotidien homolatéral
+T26	Localization 560 571	homolatéral
+T27	DISO 596 649	ischémie pariéto-ventriculaire hypovasoconstricatrice

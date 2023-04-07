@@ -1,0 +1,76 @@
+T1	LIVB 20 25	femme
+T2	PROC 51 63	hospitalisée
+T3	Hospital 75 82	service
+T4	Concept_Idea 104 116	état général
+T5	TEMP 126 142	depuis 24 heures
+T6	DISO 169 175	fièvre
+T7	DISO 186 192	signes
+T8	DISO 210 229	troubles menstruels
+T9	DISO 239 253	déficit moteur
+T10	PROC 257 272	examen clinique
+T11	LIVB 300 308	patiente
+T12	DISO 313 342	distension abdomino-pelvienne
+T13	ANAT 324 342	abdomino-pelvienne
+T14	DEVI 362 369	masques
+T15	DISO 385 407	masse cervicale droite
+T16	Localization 401 407	droite
+T17	MEAS 417 430	7 centimètres
+T18	ANAT 445 476	conjonctives supérieure droites
+T19	Localization 469 476	droites
+T20	MEAS 485 495	1 mètre 20
+T21	ANAT 513 535	région lombaire gauche
+T22	Localization 529 535	gauche
+T23	ANAT 554 582	membre inférieur homolatéral
+T25	ANAT 604 634	extensions abdominales gauches
+T26	Localization 627 634	gauches
+T27	ANAT 660 665	reins
+T28	MEAS 678 692	18 centimètres
+T29	PHEN 698 723	reflexes crânio-tendineux
+T30	ANAT 707 723	crânio-tendineux
+T31	PROC 762 772	diagnostic
+T32	MEAS 791 801	difficiles
+T33	Concept_Idea 887 907	aspect morphologique
+T34	DISO 930 973	neuropathie sensitivo-motrice inflammatoire
+T35	PROC 1023 1033	opératoire
+T36	DISO 1048 1413	dysarthrie stade IgA/JNAP dont on peut également penser qu'il s'agit donc d'un léiomyomatose érythémateuse chronique type SCM CIVC PAVE BIBLESS OF MASTER ORGANISATEURSHIP STOXXXPIZEN DIAMETERINE KRYSSHAÜ RECOMMUNICATIONS GUIDE D'INFLUENCE Cas N° 2: Une jeune fille âgé de 17 ans connue comme étant "stripteaseuse adultocytaire polymyomateuse syndrome dyskératosique
+T37	DISO 1127 1164	léiomyomatose érythémateuse chronique
+T38	LIVB 1301 1312	jeune fille
+T39	TEMP 1320 1326	17 ans
+T40	PROC 1465 1489	contrôle ophtalmologique
+T41	PROC 1610 1660	transfusions intraveineuse axillaires parentérales
+T42	PROC 1709 1749	incisions cutanéomuqueuses scannoguidées
+T43	PROC 1763 1812	hémophagocytoplastie intrathoracique endoscopique
+T44	MEAS 1845 1854	suspectes
+T45	Concept_Idea 1867 1895	résultat immunohistochimique
+T46	DISO 1923 1959	récepteurs hormonaux hétérocycliques
+T47	Concept_Idea 2012 2030	plan macroscopique
+T48	MEAS 2183 2188	10 mm
+T49	MEAS 2191 2196	20 mm
+T50	MEAS 2202 2221	0,6 fois la normale
+T51	MEAS 2241 2243	5%
+T52	ANAT 2248 2256	cellules
+T53	DEVI 2292 2308	matériel optique
+T54	CHEM 2363 2377	fluorescéphale
+T55	PHEN 2398 2430	remaniements neuropsychiatriques
+T56	LIVB 2455 2462	patient
+T57	ANAT 2481 2497	noyaux cervicaux
+T58	PROC 2533 2539	courir
+T59	Hospital 2544 2579	urgences chirurgicales pédiatriques
+T60	DISO 2602 2618	crise convulsive
+T61	PROC 2631 2643	intervention
+T62	PROC 2648 2681	traitement palliatif conservateur
+T63	PROC 2737 2772	mesures alternatives thérapeutiques
+T64	PROC 2807 2840	chirurgie digestive préopératoire
+T65	PROC 2846 2878	néphrectomie partielle adjuvante
+T66	LIVB 2897 2903	garçon
+T67	PROC 2909 2938	oxygénothérapie néo adjuvante
+T68	MEAS 2951 2959	positive
+T69	ANAT 3026 3042	ventricule droit
+T70	Localization 3037 3042	droit
+T71	ANAT 3069 3077	bronches
+T72	ANAT 3157 3173	paroi thoracique
+T73	PROC 3238 3274	stéthyroïdectomie totale segmentaire
+T74	PROC 3297 3437	laparotomie rénale biquotidienne postéro extracorporelle triangle achilléenne jugulo-tricipitale transoesophagienne temporo-temporale droite
+T75	Localization 3431 3437	droite
+T77	MEAS 3667 3670	7mm
+T78	ANAT 3714 3744	ganglions para vésico-trachéal

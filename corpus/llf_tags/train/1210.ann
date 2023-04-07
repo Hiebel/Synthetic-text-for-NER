@@ -1,0 +1,29 @@
+T1	LIVB 15 20	femme
+T2	DISO 64 87	hypertension artérielle
+T3	ANAT 77 87	artérielle
+T4	PROC 92 99	traitée
+T5	CHEM 105 140	anti-inflammatoires non stéroïdiens
+T6	PROC 144 159	examen clinique
+T7	PROC 164 173	admission
+T8	LIVB 184 194	nouveau-né
+T9	MEAS 198 205	mauvais
+T10	Concept_Idea 206 218	état général
+T11	DISO 228 244	râles crépitants
+T12	ANAT 258 273	bassinet gauche
+T13	Localization 267 273	gauche
+T14	ANAT 285 297	cuir chevelu
+T15	DISO 313 320	dyspnée
+T16	DISO 327 333	fièvre
+T17	PHEN 339 359	bruits du cœur fœtal
+T18	ANAT 349 359	cœur fœtal
+T19	MEAS 365 372	normaux
+T20	DEVI 387 400	télécommandes
+T21	PROC 409 438	prise en charge thérapeutique
+T22	PROC 442 466	échographie obstétricale
+T23	TEMP 532 543	24 semaines
+T24	DISO 585 601	diabète néonatal
+T25	LIVB 613 617	mère
+T26	Concept_Idea 629 657	tableau clinico-radiologique
+T27	DISO 718 771	malformation congénitale tuberculeuse hypocalciurique
+T28	Hospital 795 824	structures multipartenariales
+T29	DISO 882 906	complication infectieuse

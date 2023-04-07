@@ -1,0 +1,41 @@
+T1	LIVB 15 22	patient
+T2	DISO 72 99	masse du surrénalien gauche
+T3	ANAT 81 99	surrénalien gauche
+T4	Localization 93 99	gauche
+T5	MEAS 111 126	progressivement
+T6	Concept_Idea 130 136	volume
+T7	DISO 161 189	dyspnée stade I de Balthazar
+T8	DISO 210 235	troubles sensitivomoteurs
+T9	TEMP 245 261	depuis deux mois
+T10	CHEM 263 276	bêtaméthasone
+T11	CHEM 278 291	dexaméthasone
+T12	LIVB 294 296	Il
+T13	DISO 331 353	hyperthyroïdie maligne
+T14	DISO 363 385	affection neurologique
+T15	DISO 419 452	syndrome inflammatoire biologique
+T16	DISO 464 479	symptomatologie
+T17	PROC 484 498	interrogatoire
+T18	LIVB 502 509	patient
+T19	DISO 541 553	métrorragies
+T20	TEMP 570 575	8 ans
+T21	DISO 590 615	vomissements alimentaires
+T22	DISO 631 648	céphalées fébrile
+T23	DISO 665 707	douleurs abdomino-pelviennes hypoéchogènes
+T24	ANAT 674 707	abdomino-pelviennes hypoéchogènes
+T25	DISO 717 725	méningée
+T26	MEAS 738 748	1500 mg/m²
+T27	TEMP 759 768	24 heures
+T28	Hospital 793 823	professionnels de santé locaux
+T29	LIVB 833 837	elle
+T30	PROC 853 886	prise médicamenteuse progestative
+T31	CHEM 897 915	méthylprednisolone
+T32	MODE 921 926	bolus
+T33	CHEM 944 963	anti-oestrogéniques
+T34	CHEM 965 979	hydrocortisone
+T35	CHEM 982 992	tamoxifène
+T36	CHEM 995 1012	hydroprogestérone
+T37	CHEM 1014 1029	norprogesterone
+T38	LIVB 1165 1173	patiente
+T39	DISO 1225 1245	traumatisme vulvaire
+T40	ANAT 1237 1245	vulvaire
+T41	DISO 1263 1286	accouchements périnéaux

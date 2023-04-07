@@ -1,0 +1,81 @@
+T1	LIVB 14 21	Mme H.M
+T2	MEAS 56 57	2
+T3	LIVB 58 65	enfants
+T4	PROC 168 174	opérée
+T5	LIVB 213 217	elle
+T6	PROC 234 273	régime pauvre en graisses monogastrique
+T7	PROC 300 322	diagnostic chirurgical
+T8	PROC 328 334	suivie
+T9	PROC 347 356	admission
+T10	Hospital 361 406	urgences hospitalo-hospitalières pédiatriques
+T11	MEAS 448 456	normales
+T12	MEAS 520 532	126/120 mmHg
+T13	LIVB 547 550	son
+T14	PROC 551 579	consultation préanesthésique
+T15	PROC 592 620	prise en charge chirurgicale
+T16	PROC 624 642	radiothérapeutique
+T17	PROC 666 698	scanner thoraco-abdomino-pelvien
+T18	ANAT 674 698	thoraco-abdomino-pelvien
+T19	DISO 725 757	tumeur anévrysmale hypokinétique
+T20	ANAT 776 799	paroi thoracique droite
+T21	Localization 793 799	droite
+T22	MEAS 808 813	16 cm
+T23	Concept_Idea 817 826	grand axe
+T24	MEAS 836 844	13×10 cm
+T25	DEVI 860 873	micro ciseaux
+T26	MEAS 893 900	11×4 cm
+T27	MEAS 929 942	5 centimètres
+T28	Concept_Idea 946 961	grande courbure
+T29	ANAT 979 997	coté controlatéral
+T30	MEAS 1023 1026	25%
+T31	MEAS 1030 1033	50%
+T32	ANAT 1094 1118	segments para vertébraux
+T34	Concept_Idea 1181 1210	caractère angulo-conjonctival
+T35	PROC 1269 1289	reprise chirurgicale
+T36	PROC 1295 1305	opératoire
+T37	PROC 1311 1358	néphrectomie exploratrice biopsie scanno-guidée
+T38	PROC 1374 1416	hystérectomie totale axillaire endovaginal
+T39	Concept_Idea 1449 1470	critère morphologique
+T40	PROC 1506 1537	investigations bactériologiques
+T41	PROC 1585 1597	myxolytiques
+T42	Concept_Idea 1620 1637	aspects cliniques
+T43	PROC 1689 1743	curage ganglionnaire cervico-mandibulaire conservateur
+T44	LIVB 2016 2022	malade
+T45	PROC 2027 2036	transféré
+T46	Hospital 2040 2055	bloc opératoire
+T47	PROC 2061 2086	laparotomie d'hémodialyse
+T48	PROC 2108 2130	contrôle échographique
+T49	PROC 2136 2162	examen anatomopathologique
+T50	ANAT 2166 2180	canal cystique
+T51	DISO 2195 2228	hétérozygote érythémateux myxoide
+T52	ANAT 2244 2273	veines jugulaires inférieures
+T53	Localization 2262 2273	inférieures
+T54	DISO 2279 2301	syndrome inflammatoire
+T55	DISO 2305 2321	hyperéosinophile
+T56	DISO 2331 2364	adénopathie tissulaire hétérogène
+T57	PROC 2473 2499	étude immuno-histochimique
+T58	DISO 2533 2561	tuberculose epidermidiscible
+T59	MEAS 2569 2576	négatif
+T60	LIVB 2585 2595	nourrisson
+T61	TEMP 2603 2609	8 mois
+T62	MEAS 2617 2629	1200 grammes
+T63	PROC 2633 2657	échographie obstétricale
+T64	Concept_Idea 2690 2711	présentation clinique
+T65	MEAS 2718 2726	anormale
+T66	DISO 2750 2768	déficit congénital
+T67	DISO 2786 2802	récidive tumoral
+T68	MEAS 2836 2843	simples
+T69	PROC 2848 2881	suivi neuropsychiatrique adjuvant
+T70	PROC 2908 2936	chimiothérapie néo adjuvante
+T71	PROC 2950 3012	séances de rééducation fonctionnelle cognitivo-comportementale
+T72	CHEM 3023 3034	rifampicine
+T73	CHEM 3037 3068	amoxicilline acide clavulanique
+T74	CHEM 3070 3118	acide isobutylhydroxyindole acétyle carbohydrate
+T75	PROC 3134 3181	régime pauvre en amoxicilline aminotransfuséase
+T76	PROC 3214 3252	traitement pharmacologique substitutif
+T77	DOSE 3253 3259	400 mg
+T78	TEMP 3259 3264	/jour
+T79	PHEN 3270 3279	grossesse
+T80	MEAS 3291 3297	longue
+T81	TEMP 3309 3321	quatre jours
+T82	MEAS 3341 3350	spontanée

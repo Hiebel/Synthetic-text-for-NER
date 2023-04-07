@@ -1,0 +1,21 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	DISO 45 65	processus tissulaire
+T4	ANAT 72 95	région temporale droite
+T5	Localization 89 95	droite
+T6	DISO 111 126	pneumopéritoine
+T7	PROC 131 148	bilan d'extension
+T8	DISO 160 173	particularité
+T9	LIVB 180 187	patient
+T10	PROC 203 229	rachianesthésie palliative
+T11	MODE 234 252	voie intraveineuse
+T12	DEVI 277 286	ballonnet
+T13	MEAS 296 306	différents
+T14	Concept_Idea 307 328	limites chirurgicales
+T15	CHEM 351 386	anti-inflammatoires non stéroïdiens
+T16	CHEM 388 392	AINS
+T17	TEMP 440 447	3 jours
+T18	DISO 460 481	récidive neurologique
+T19	DISO 507 521	déficit moteur
+T20	DISO 525 553	altération de l'état général
+T21	Concept_Idea 541 553	état général

@@ -1,0 +1,32 @@
+T1	LIVB 15 22	patient
+T2	PHEN 49 58	grossesse
+T3	PROC 63 69	suivie
+T4	Hospital 79 100	maternité pédiatrique
+T5	TEMP 178 186	21 jours
+T6	PROC 192 198	sortie
+T7	DISO 243 249	fièvre
+T8	TEMP 259 275	depuis 72 heures
+T9	PROC 302 324	contrôle échographique
+T10	PROC 342 364	consultation prénatale
+T11	PROC 385 394	admission
+T12	LIVB 400 405	notre
+T13	Hospital 406 413	service
+T14	PROC 419 447	antibiothérapie probabiliste
+T15	Concept_Idea 460 478	résultats clinique
+T16	PROC 482 495	échographique
+T17	PROC 510 541	tomodensitométrie préopératoire
+T18	PROC 559 579	transfusion sanguine
+T19	DISO 604 625	distension abdominale
+T20	ANAT 615 625	abdominale
+T21	MEAS 637 652	progressivement
+T22	MEAS 671 677	120 cm
+T23	MEAS 692 699	normale
+T24	DISO 713 725	hypocalcémie
+T26	PROC 824 850	examen anatomopathologique
+T27	DISO 875 914	remaniements lymphoplasmaphérorragiques
+T28	MEAS 934 946	40 x 30x20mm
+T29	MEAS 974 977	50%
+T30	MEAS 987 1010	45 × 45× 50 millimètres
+T31	ANAT 1028 1045	vésicule biliaire
+T32	Localization 1056 1078	extrémités supérieures
+T33	Localization 1102 1124	latéralement supérieur

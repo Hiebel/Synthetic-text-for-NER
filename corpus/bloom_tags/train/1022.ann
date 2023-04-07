@@ -1,0 +1,56 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 43	hospitalisée
+T3	Hospital 48 86	Cliniques Universitaires de Lubumbashi
+T4	DISO 116 122	fièvre
+T5	DISO 148 170	leucorrhées purulentes
+T6	ANAT 188 200	méso-pelvien
+T7	LIVB 230 238	patiente
+T8	DISO 244 259	kyste hydatique
+T9	DISO 272 292	diabète hypertenseur
+T10	PROC 297 310	chirurgisable
+T11	PROC 346 367	échographie pelvienne
+T12	ANAT 358 367	pelvienne
+T13	PROC 386 406	biopsie chirurgicale
+T14	DISO 412 449	granulome épithélo-giganto-cellulaire
+T15	ANAT 483 492	grêloïdes
+T16	ANAT 514 536	fosse pérituberculeuse
+T17	MEAS 546 550	4 cm
+T18	Concept_Idea 554 563	grand axe
+T19	PROC 596 627	tomodensitométrie scanno-guidée
+T20	DISO 652 703	processus tissulaire nodulaire hypodense hétérogène
+T21	ANAT 725 748	ventricules ovariectaux
+T22	ANAT 765 779	rectil vésical
+T23	ANAT 793 800	ovaires
+T24	ANAT 825 842	cavité abdominale
+T25	ANAT 868 887	organes intestinaux
+T26	ANAT 896 912	coecum herniaire
+T27	ANAT 940 958	membres inférieurs
+T28	DISO 983 1000	lésions kystiques
+T29	DISO 1018 1054	thromboses veineuse saphéno-caudales
+T30	ANAT 1029 1054	veineuse saphéno-caudales
+T31	PROC 1069 1096	analyse anatomopathologique
+T32	ANAT 1103 1119	pièce opératoire
+T33	PROC 1109 1119	opératoire
+T34	DISO 1135 1188	lymphangiome hémangioendothélial érythémateux maligne
+T35	MEAS 1199 1209	stade I-II
+T36	DISO 1272 1290	maladie résiduelle
+T37	DISO 1311 1336	localisations secondaires
+T38	DISO 1351 1387	épidermoïde lésion angiosarcomateuse
+T39	DISO 1398 1444	localisations néoplasiques thromboembolytiques
+T40	PROC 1448 1483	scanner abdominopelvien explorateur
+T41	ANAT 1456 1483	abdominopelvien explorateur
+T42	DISO 1510 1616	masse hypo échogène arrondie polylobée liquidienne nécrotique du quadrant supéro-latéral gynéco-thoracique
+T43	ANAT 1575 1616	quadrant supéro-latéral gynéco-thoracique
+T44	MEAS 1665 1680	progressivement
+T45	Concept_Idea 1684 1690	taille
+T46	DISO 1697 1749	adénopathies jugulo-carotidiennes cervico-rachidiens
+T47	ANAT 1710 1749	jugulo-carotidiennes cervico-rachidiens
+T48	LIVB 1754 1761	patient
+T49	PROC 1783 1809	traitement médical curatif
+T50	CHEM 1811 1822	Cyclosérine
+T51	CHEM 1824 1834	Amiodarone
+T52	CHEM 1836 1856	Métasulfaméthoxazole
+T53	CHEM 1858 1870	Pyrazinamide
+T54	CHEM 1872 1882	Ethambutol
+T55	PROC 1896 1919	radiothérapie adjuvante
+T56	ANAT 1932 1956	liquide céphalorachidien

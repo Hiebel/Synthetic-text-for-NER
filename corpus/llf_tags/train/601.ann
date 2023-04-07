@@ -1,0 +1,87 @@
+T1	LIVB 2 10	patiente
+T2	PROC 29 53	chimiothérapie adjuvante
+T3	CHEM 64 77	triméthoprime
+T4	DOSE 79 81	1g
+T5	TEMP 81 86	/jour
+T6	MEAS 110 119	partielle
+T7	DISO 123 133	saignement
+T8	DISO 141 162	signes inflammatoires
+T9	PROC 181 196	corticothérapie
+T10	MEAS 203 212	favorable
+T11	Concept_Idea 216 229	état clinique
+T12	ANAT 264 269	masse
+T13	PROC 276 286	transférée
+T14	Hospital 290 297	urgence
+T15	PROC 303 327	laparotomie exploratrice
+T16	DISO 357 381	syndrome infectieux aigu
+T17	ANAT 390 415	nerf crico-trachéo-buccal
+T18	PHEN 420 435	fonction rénale
+T19	ANAT 429 435	rénale
+T20	MEAS 448 455	normale
+T21	DISO 461 471	métastases
+T22	DISO 482 488	signes
+T23	PROC 502 519	scanner abdominal
+T24	ANAT 510 519	abdominal
+T25	PROC 540 549	chirurgie
+T26	DISO 575 598	localisation secondaire
+T27	ANAT 613 644	aires ganglionnaires cervicales
+T28	ANAT 658 676	structures rénales
+T29	PROC 680 705	étude anatomopathologique
+T30	DISO 753 824	processus tumoral carcinomateux tissulaire mésenchymateux ostéocalcique
+T31	ANAT 843 874	grande courbure gastroduodénale
+T32	MEAS 883 887	3 cm
+T33	Concept_Idea 891 899	diamètre
+T34	Localization 907 923	haute supérieure
+T35	MEAS 933 938	15 mm
+T36	Concept_Idea 942 951	petit axe
+T37	DEVI 969 986	portion inferieur
+T38	PROC 1001 1024	traitement conservateur
+T39	PROC 1029 1077	hydrocholécystectomie monobloc scanno-guidelines
+T40	PROC 1092 1143	néphrectomie totale transoesophagienne endovaginale
+T41	PROC 1175 1344	anastomose intracrânienne axillaire péritonéale intraveineuse jugulo-mandibulaire périrénalvéolaire segmentaire postéro-antérieure controlatérale antero-antéro-extensive
+T45	PROC 1489 1515	thoracoscopie diagnostique
+T46	PROC 1534 1564	angioplastie extemporanéologie
+T47	PROC 1584 1607	prélèvements biopsiques
+T48	PROC 1624 1643	fermeture herniaire
+T49	MEAS 1676 1683	simples
+T50	TEMP 1693 1707	septembre 2012
+T51	PROC 1719 1740	contrôle locorégional
+T52	PROC 1773 1801	reprise chirurgicale urgente
+T53	TEMP 1813 1822	dix jours
+T54	PROC 1835 1862	restitution extrapulmonaire
+T55	TEMP 1873 1882	deux mois
+T56	PROC 1888 1919	consultation multidisciplinaire
+T57	Hospital 1933 1965	urgences digestives pédiatriques
+T58	LIVB 1996 2001	fille
+T59	TEMP 2010 2015	6 ans
+T60	MEAS 2089 2090	4
+T61	LIVB 2091 2098	garçons
+T62	TEMP 2243 2249	14 ans
+T63	MEAS 2501 2506	2 ème
+T64	MEAS 2510 2515	5 ème
+T65	LIVB 2516 2523	enfants
+T66	DISO 2698 2703	masse
+T67	ANAT 2730 2752	nerf thoracique gauche
+T68	Localization 2746 2752	gauche
+T69	MEAS 2762 2767	17 cm
+T70	Concept_Idea 2771 2780	petit axe
+T71	DISO 2786 2806	adénomégalopéritoine
+T72	DISO 2816 2841	localisations secondaires
+T73	ANAT 2856 2893	aires ganglionnaires cervico-caudales
+T74	ANAT 2900 2931	région sous clavière supérieure
+T75	Localization 2921 2931	supérieure
+T76	PROC 2935 2954	examen histologique
+T81	ANAT 3339 3395	angle crico-trachéobuccal dorsolombaire inférieur gauche
+T82	Localization 3379 3395	inférieur gauche
+T83	ANAT 3414 3461	nerf thoracique gauches centrales sus pubiennes
+T86	Localization 3514 3531	inferieur interne
+T87	PROC 3574 3581	exérèse
+T88	DEVI 3646 3668	tube enduit métallique
+T89	MEAS 3732 3737	16 mm
+T90	Concept_Idea 3741 3749	gros axe
+T91	PROC 3764 3789	étude anatomopathologique
+T92	DISO 3811 3843	récidive diagnosticatoire locale
+T93	PHEN 3820 3843	diagnosticatoire locale
+T94	PROC 3890 3973	hystérectomie totale élargie segmentaire transvertébrale type WSBR/SEPPIFEDGEMBOURG
+T95	PROC 3997 4031	radiothérapie externe concomitante
+T96	PROC 4047 4178	laparotomie large lobulée axilectomie transversale fléchiehellénale symétrique bipyramidale double rotationnelle étranglée manuelle

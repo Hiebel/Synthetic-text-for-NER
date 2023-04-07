@@ -1,0 +1,30 @@
+T1	LIVB 16 24	patiente
+T2	PROC 51 56	reçue
+T3	Hospital 61 69	urgences
+T5	ANAT 88 98	pelviennes
+T6	Concept_Idea 138 150	état général
+T7	TEMP 160 176	depuis 48 heures
+T8	PROC 180 195	examen clinique
+T9	DISO 207 237	distension abdomino- pelvienne
+T10	ANAT 218 237	abdomino- pelvienne
+T11	ANAT 261 272	flanc droit
+T12	Localization 267 272	droit
+T13	PROC 290 320	examen gynécologique somatique
+T14	DISO 332 345	particularité
+T16	ANAT 359 367	pleurale
+T17	LIVB 388 396	patiente
+T18	DEVI 400 418	tubercule cœliaque
+T19	DISO 480 551	syndrome d'épanchement pleural liquidien médiastinal infarcté lésionnel
+T21	DISO 556 596	sténose ventriculo-pulmonaire ischémique
+T23	DISO 614 665	vascularisation interstitielle intraparenchymateuse
+T24	ANAT 630 665	interstitielle intraparenchymateuse
+T25	DISO 686 701	nodules tumoral
+T26	PROC 733 774	échographie pulmonaire transoesophagienne
+T27	ANAT 745 774	pulmonaire transoesophagienne
+T28	DISO 820 833	paragangliome
+T29	DISO 838 888	adénopathies tumorales cervico-métacarcinomateuses
+T30	ANAT 861 888	cervico-métacarcinomateuses
+T31	DISO 902 940	hypertrophie cholinestéryl transférase
+T33	PROC 1216 1260	investigations complémentaires radiologiques
+T34	DISO 1301 1329	kyste hydatique hypertrophié
+T35	DISO 1345 1388	complication néoplasique maligne tissulaire

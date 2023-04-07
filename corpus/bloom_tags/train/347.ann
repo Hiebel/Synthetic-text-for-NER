@@ -1,0 +1,28 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	3 ans
+T3	DISO 24 49	antécédents pathologiques
+T4	MEAS 50 58	notables
+T5	PROC 60 71	hospitalisé
+T6	Hospital 75 86	réanimation
+T7	DISO 96 137	douleurs abdominales aiguës constrictives
+T8	ANAT 105 116	abdominales
+T9	DISO 154 174	vomissement purulent
+T10	TEMP 185 199	depuis 3 jours
+T11	PROC 203 218	examen clinique
+T12	Concept_Idea 234 238	état
+T13	DISO 241 265	hémodialyse hypertensive
+T15	ANAT 283 289	rénale
+T16	PROC 295 326	échographie abdomino- pelvienne
+T17	ANAT 307 326	abdomino- pelvienne
+T18	PHEN 344 364	grossesse gémellaire
+T19	ANAT 372 382	col utérin
+T20	PROC 387 403	bilan biologique
+T21	DISO 439 455	hyperleucocytose
+T22	MEAS 458 476	18300 éléments/mm3
+T23	CHEM 478 490	Céfotriaxone
+T24	DOSE 493 495	1g
+T25	DOSE 497 503	400 mg
+T26	CHEM 505 535	Triméthoprime-Sulfamethoxazole
+T27	DOSE 538 546	30 mg/kg
+T28	ANAT 561 579	plexus vésiculaire
+T29	DISO 595 662	anémie ferriprive microcytaire hypochrome normocytaire malpigmentée

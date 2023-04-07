@@ -1,0 +1,56 @@
+T1	LIVB 4 9	femme
+T2	CHEM 41 63	acide acétylsalicylate
+T3	DOSE 68 75	2 mg/kg
+T4	TEMP 75 80	/jour
+T5	CHEM 100 134	anti-inflammatoires non stéroïdien
+T6	CHEM 137 150	bupaméthasone
+T7	CHEM 153 171	méthylprednisolone
+T8	CHEM 182 195	dexaméthasone
+T9	CHEM 235 257	hydroxychloroquinolone
+T10	DOSE 312 317	1g/kg
+T11	TEMP 317 319	/j
+T12	LIVB 337 339	Il
+T13	DISO 364 380	signes cliniques
+T14	DISO 407 416	céphalées
+T15	DISO 427 450	symptômes neurologiques
+T16	LIVB 473 481	patiente
+T17	DISO 505 524	traumatisme crânien
+T18	PROC 550 591	ponction pleurésie laryngée transfixiante
+T19	ANAT 559 591	pleurésie laryngée transfixiante
+T20	DISO 746 796	syndrome d'épanchement intraralvéolaire systolique
+T21	ANAT 769 796	intraralvéolaire systolique
+T22	PROC 803 840	immuno-chimiorradiothérapie adjuvante
+T23	PROC 915 945	échographie abdomino-pelvienne
+T24	ANAT 927 945	abdomino-pelvienne
+T25	DISO 970 1017	masse pariétale hypogastrique hypo-vascularisée
+T26	ANAT 986 1017	hypogastrique hypo-vascularisée
+T27	ANAT 1152 1177	sinus gastro-vestibulaire
+T28	DISO 1206 1226	localisation maligne
+T29	PROC 1240 1276	tomodensitométrie abdomino-pelvienne
+T30	ANAT 1258 1276	abdomino-pelvienne
+T31	DISO 1295 1384	processus bourgeonnant kystico-cerviculaire angulo-sphénoïdal péristaltique anévrismalisé
+T32	ANAT 1406 1435	muscles fléchisseurs pelviens
+T33	MEAS 1469 1473	20mm
+T34	Localization 1540 1552	homolatérale
+T35	ANAT 1640 1662	structures musculaires
+T36	DISO 1805 1844	métastases ischémiques myxofibrillaires
+T37	ANAT 1855 1869	grêlo-mucineux
+T38	DISO 1896 1918	métastases secondaires
+T39	PROC 2020 2070	curage ganglionnaire axillaire curage locorégional
+T40	PROC 2082 2104	pronostic métastatique
+T41	PROC 2115 2143	ostéosurrénalien biquotidien
+T42	DISO 2268 2281	paragangliome
+T43	ANAT 2343 2366	glande parathyroïdienne
+T44	PROC 2370 2396	examen anatomopathologique
+T45	DISO 2418 2447	épanchement pariétal purulent
+T46	ANAT 2430 2447	pariétal purulent
+T47	Concept_Idea 2461 2467	aspect
+T48	DISO 2484 2512	tumeur nécrose du col utérin
+T49	ANAT 2502 2512	col utérin
+T50	LIVB 2517 2525	patiente
+T51	CHEM 2542 2554	prednisolone
+T52	DOSE 2556 2564	0,5mg/kg
+T53	TEMP 2564 2569	/jour
+T54	MODE 2571 2581	voie orale
+T55	CHEM 2594 2613	acide triamcinolone
+T56	DISO 2634 2643	symptômes

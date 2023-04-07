@@ -1,0 +1,27 @@
+T1	PROC 4 21	tomodensitométrie
+T2	PROC 23 53	TDM) thoraco-abdominopelvienne
+T3	ANAT 28 53	thoraco-abdominopelvienne
+T4	DISO 104 125	nodule du rein gauche
+T5	ANAT 114 125	rein gauche
+T6	Localization 119 125	gauche
+T7	MEAS 129 134	10 cm
+T8	PROC 139 161	traitement chirurgical
+T9	PROC 184 200	bilan biologique
+T10	Concept_Idea 210 240	résultats anatomopathologiques
+T11	DISO 254 267	particularité
+T12	PROC 281 309	radiothérapie complémentaire
+T13	Concept_Idea 315 319	dose
+T14	DOSE 323 328	15 Gy
+T15	TEMP 328 330	/j
+T16	PROC 345 371	curiethérapie antibiotique
+T17	CHEM 359 371	antibiotique
+T18	CHEM 377 408	amoxicilline acide clavulanique
+T19	DEVI 412 433	masque haute pression
+T20	MEAS 476 485	favorable
+T21	Concept_Idea 493 511	plan hémodynamique
+T22	PHEN 515 527	respiratoire
+T23	LIVB 532 540	patiente
+T24	DISO 561 582	récidive pathologique
+T25	DISO 604 624	symptômes infectieux
+T26	LIVB 695 703	patiente
+T27	TEMP 728 745	J3 postopératoire

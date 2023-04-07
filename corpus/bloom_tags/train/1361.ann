@@ -1,0 +1,12 @@
+T1	PROC 2 27	intervention chirurgicale
+T2	PROC 48 87	anesthésie locorégionale de la cheville
+T3	ANAT 79 87	cheville
+T4	ANAT 121 136	ombilic huméral
+T5	MEAS 150 157	premier
+T6	LIVB 169 176	patient
+T7	PROC 198 218	examen préopératoire
+T8	DISO 235 254	épanchement liquide
+T9	ANAT 247 254	liquide
+T10	Localization 269 284	faces latérales
+T11	Concept_Idea 287 293	aspect
+T12	DISO 311 341	tuberculose ostéo-métastatique

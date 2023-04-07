@@ -1,0 +1,86 @@
+T1	LIVB 16 24	patiente
+T2	DISO 40 49	tabagique
+T3	PROC 78 90	consultation
+T4	DISO 99 120	dyspnée aigu du tronc
+T5	ANAT 115 120	tronc
+T6	TEMP 130 143	depuis 2 mois
+T7	PROC 147 162	examen clinique
+T8	PROC 176 188	auscultation
+T9	Concept_Idea 192 204	état général
+T10	DISO 219 240	signes inflammatoires
+T11	ANAT 250 262	conjonctives
+T12	DISO 278 312	symptomatologie neuropsychiatrique
+T13	DISO 330 364	crises convulsives tonicocloniques
+T14	DISO 374 390	trouble délirant
+T15	PROC 420 436	examen somatique
+T16	DISO 448 461	particularité
+T17	PROC 465 484	électrocardiogramme
+T18	MEAS 496 502	normal
+T19	PROC 516 543	numération formule sanguine
+T20	MEAS 556 563	normaux
+T21	PHEN 568 583	fonction rénale
+T22	ANAT 577 583	rénale
+T23	PROC 585 598	créatininémie
+T24	MEAS 600 610	1,8 mmol/l
+T25	DISO 633 658	thrombose veineuse rénale
+T26	DISO 665 685	niveau hydro-aérique
+T27	PROC 691 709	sérologies virales
+T28	MEAS 730 739	négatives
+T29	LIVB 754 777	professionnels de santé
+T30	MEAS 792 842	316 000 éléments sanguins frais érythémateux /mm 3
+T31	MEAS 848 910	185 000 leucocytes polyclonaux globulaires par millimètre cube
+T32	MEAS 916 934	60 fois la normale
+T33	PROC 940 958	antibioprophylaxie
+T34	CHEM 1044 1058	céphalosporine
+T35	PROC 1084 1113	remplissage vasculaire direct
+T37	DEVI 1119 1138	verre glycolétopril
+T38	PROC 1153 1219	toilette gastro-duodénale périveineuse sous jet hydrosolubrimétrie
+T40	PROC 1232 1257	bilan préchimiothérapique
+T41	DISO 1300 1309	anomalies
+T42	Concept_Idea 1322 1341	aspect histologique
+T43	DISO 1377 1398	distension abdominale
+T44	ANAT 1388 1398	abdominale
+T45	MEAS 1410 1425	progressivement
+T46	ANAT 1468 1492	voie biliaire principale
+T47	DISO 1496 1536	lymphœdème interstitiel rétro péritonéal
+T48	MEAS 1545 1549	6 cm
+T49	DISO 1555 1597	adénopathies jugulo-carotidiennes distales
+T50	ANAT 1568 1597	jugulo-carotidiennes distales
+T51	Localization 1613 1633	quadrants supérieurs
+T52	ANAT 1657 1696	substance fundique postéro-sous cutanée
+T53	MEAS 1721 1726	12 µm
+T54	MEAS 1730 1739	17 x 6 cm
+T55	DISO 1777 1789	endocrinoïde
+T56	DISO 1825 1849	syndrome myélocalicielle
+T57	MEAS 1891 1897	T4N2Mx
+T58	PROC 1963 2007	fibroscopie oeso-gastro-duodénale infiltrant
+T60	DISO 2029 2062	tumeur endocrinoïde métaplasmique
+T61	Concept_Idea 2081 2111	résultats immunohistochimiques
+T62	DISO 2159 2186	symptomatologie traumatique
+T63	TEMP 2199 2223	deux semaines auparavant
+T64	MEAS 2275 2281	rapide
+T65	DISO 2356 2377	perte de connaissance
+T66	Concept_Idea 2511 2529	plan psychiatrique
+T67	DISO 2625 2652	hallucinations psychotiques
+T68	ANAT 2990 3003	scalp frontal
+T69	LIVB 3341 3347	enfant
+T70	CHEM 3367 3377	corticoïde
+T71	CHEM 3383 3414	amoxicilline acide clavulanique
+T72	PROC 3428 3469	antibiothérapie probabiliste concomitante
+T73	PROC 3526 3540	médicamenteuse
+T74	LIVB 3618 3624	enfant
+T75	DISO 3629 3666	récidive neuropsychiatrique somatique
+T76	DISO 3678 3696	troubles mnésiques
+T77	PROC 3889 3928	surveillance radiologique préopératoire
+T78	DISO 3970 4036	anévrysme ostéolytique cervical lombaire pariétal postérieur rompu
+T79	ANAT 4056 4104	troncs supéro-thoraciques dorsaux controlatéraux
+T80	PHEN 4109 4118	grossesse
+T81	TEMP 4129 4138	37SA+11SA
+T82	MEAS 4171 4174	35%
+T83	DISO 4184 4248	rectorragies nécrotico-nervicales scléroatrophiques asymétriques
+T84	ANAT 4269 4293	paroi thoracique rectale
+T85	DEVI 4324 4368	processus fibreux multilamellaires polylobés
+T86	ANAT 4414 4449	travées intercostales sus pubiennes
+T87	ANAT 4476 4527	vaisseaux para vertébraux abdominaux antero-externe
+T88	ANAT 4541 4572	lambeau fémoral supérieur droit
+T89	Localization 4567 4572	droit

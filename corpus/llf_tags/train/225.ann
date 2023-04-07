@@ -1,0 +1,80 @@
+T1	LIVB 16 21	femme
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 67	particuliers
+T4	PROC 78 84	opérée
+T5	DISO 94 115	masse du fémur gauche
+T6	ANAT 103 115	fémur gauche
+T7	Localization 109 115	gauche
+T8	TEMP 125 138	depuis 6 mois
+T9	PROC 142 157	examen clinique
+T10	LIVB 168 175	patient
+T11	MEAS 179 188	assez bon
+T12	Concept_Idea 189 201	état général
+T13	DISO 211 231	signes neurologiques
+T14	DISO 242 251	dysphagie
+T15	PROC 269 285	examen somatique
+T16	DISO 295 308	particularité
+T17	PROC 313 330	tomodensitométrie
+T18	PROC 332 346	TDM) cérébrale
+T19	ANAT 337 346	cérébrale
+T20	DISO 376 405	processus tissulaire érectile
+T21	MEAS 415 419	6 cm
+T22	Concept_Idea 423 432	grand axe
+T23	PHEN 448 475	sillons corticaux cérébraux
+T24	ANAT 500 552	deux lobes pariéto-temporo-occipitaux controlatéraux
+T25	PROC 593 618	bilan préchimiothérapique
+T26	PROC 711 721	diagnostic
+T27	PROC 734 753	traitement adjuvant
+T28	CHEM 758 771	dexaméthasone
+T29	PROC 878 907	prise en charge psychiatrique
+T30	PROC 922 965	rééducation fonctionnelle cognitivo-motrice
+T31	Concept_Idea 978 1008	caractéristiques morphologique
+T32	Concept_Idea 1012 1033	neuropsycho-éducative
+T33	PROC 1047 1068	recherche étiologique
+T34	LIVB 1123 1128	homme
+T35	DISO 1170 1202	méningo-encéphalopathie subaigüe
+T36	LIVB 1265 1267	il
+T37	DEVI 1331 1336	stylo
+T38	DEVI 1337 1352	pousse-à-cheval
+T39	LIVB 1371 1374	son
+T40	LIVB 1375 1381	enfant
+T41	DISO 1392 1421	symptômes psychotiques aigues
+T42	DISO 1459 1472	consanguinité
+T43	DISO 1502 1552	accident vasculaire cérébral ischémique congénital
+T44	LIVB 1566 1568	sa
+T45	LIVB 1569 1580	belle-fille
+T46	PROC 1585 1597	hospitalisée
+T47	PROC 1613 1635	kinésithérapie motrice
+T48	PROC 1671 1697	radiothérapie probabiliste
+T49	DISO 1728 1752	hallucinations visuelles
+T50	Concept_Idea 1772 1778	marche
+T51	PROC 1869 1893	contrôle ophtalmologique
+T52	LIVB 1911 1919	individu
+T53	DISO 1991 2034	déficit sensitivomoteur focal corporétinien
+T54	MEAS 2061 2065	2/10
+T56	Localization 2197 2208	bilatérales
+T57	Localization 2246 2264	droites antérieure
+T58	MEAS 2295 2299	3/10
+T59	MEAS 2303 2307	1/10
+T60	MEAS 2364 2372	modestes
+T61	Concept_Idea 2386 2406	exactitude objective
+T62	MEAS 2489 2502	insuffisantes
+T64	Localization 2637 2645	en avant
+T65	ANAT 2660 3009	muscles para vertébraux supra mandibulaires antérosubérants cutanéoplasiques spinoïdes hypogastroduodénoidaux superficiels fléchisseurs axillaires infundibulaires convexes Tissus graisseux hyperalgique musculo-tendineux triceps brachial bipétreux postérieur abductus temporal Dorsale nullipare diaphragmatique Boiterma cubitus thoracique obtusifolié
+T66	DISO 3031 3057	syndrome interstitiel aigu
+T67	DISO 3078 3089	infectieuse
+T68	ANAT 3104 3120	vaisseaux du nez
+T69	DISO 3143 3211	carcinome papillaire séreux infiltrant la muqueuse pharyngo-laryngée
+T70	ANAT 3185 3211	muqueuse pharyngo-laryngée
+T71	LIVB 3247 3254	patient
+T72	PROC 3263 3282	traitement adjuvant
+T73	PROC 3363 3396	ponction scanno-thoraco-abdominal
+T74	DISO 3433 3472	récidive traumatique liquidienne isolée
+T75	DISO 3479 3512	métastase tissulaire métastatique
+T76	PROC 3562 3587	étude immunohistochimique
+T77	PROC 3600 3620	reprise chirurgicale
+T78	PROC 3955 3968	prolifération
+T79	PROC 3973 4007	tomodensitométrie formule sanguine
+T81	PROC 4071 4089	ionogramme sanguin
+T82	ANAT 4082 4089	sanguin
+T83	MEAS 4111 4117	normal

@@ -1,0 +1,89 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	7 ans
+T3	PROC 72 91	bilan préopératoire
+T4	DISO 103 117	particularités
+T5	PROC 123 149	examen anatomopathologique
+T6	DISO 168 209	léiomyome primitif du gastro-duodénocæcum
+T7	ANAT 190 209	gastro-duodénocæcum
+T8	MEAS 211 219	Figure 1
+T9	PROC 224 250	étude immuno-histochimique
+T10	Concept_Idea 296 309	localisations
+T11	MEAS 310 321	secondaires
+T12	ANAT 346 366	ganglions axillaires
+T13	PROC 415 449	scanner thoraco abdomino-abdominal
+T14	ANAT 423 449	thoraco abdomino-abdominal
+T15	DISO 474 511	masse tissulaire hétérogène polylobée
+T16	MEAS 520 524	9 cm
+T17	Concept_Idea 528 536	diamètre
+T18	PHEN 545 560	fonction rénale
+T19	ANAT 554 560	rénale
+T20	MEAS 565 578	compréhensive
+T21	Localization 597 618	deux tiers inférieurs
+T22	DEVI 624 646	cathéter haute tension
+T23	ANAT 679 694	voies biliaires
+T24	PROC 713 739	extubation endotrachéotale
+T25	PROC 748 764	fermeture totale
+T26	Hospital 774 789	bloc opératoire
+T27	PROC 815 834	anesthésie générale
+T28	LIVB 843 845	il
+T29	PROC 858 864	retiré
+T30	PROC 870 895	prise en charge adjuvante
+T31	PROC 900 917	tomodensitométrie
+T32	PROC 918 940	TDM) nasofibroscopique
+T33	ANAT 923 940	nasofibroscopique
+T34	DISO 955 1000	pneumopathie interstitielle hypervascularisée
+T35	MEAS 1033 1040	simples
+T36	DISO 1067 1090	souffrance neurologique
+T37	DISO 1100 1128	symptomatologie pathologique
+T38	PROC 1141 1189	échographie Doppler oesogastroduodénolaryngéenne
+T39	ANAT 1161 1189	oesogastroduodénolaryngéenne
+T40	PROC 1202 1232	mise en condition anesthésique
+T41	DISO 1250 1287	niveaux hydroaériques hyperchromiques
+T42	MEAS 1312 1315	5cm
+T43	MEAS 1319 1322	8mm
+T44	CHEM 1328 1359	mélange méthoxyméthyl glutamate
+T45	CHEM 1418 1440	acide valproique total
+T46	PROC 1485 1507	perfusion artificielle
+T47	DISO 1601 1625	neurorétinite achromique
+T48	DISO 1631 1671	tumeur érythémateuse mucoliforme maligne
+T49	PROC 1709 1738	antibiothérapie intraveineuse
+T50	PROC 1752 1792	néphrectomie élargie extemporanéoplastie
+T51	DISO 1822 1861	synaptophysaire carcinomateuse fongique
+T52	PROC 1881 1902	séance postopératoire
+T53	Concept_Idea 1931 1954	principes histologiques
+T54	DISO 1983 2009	complications métaboliques
+T55	LIVB 2024 2037	dermatologues
+T56	DISO 2053 2077	troubles musculo-cutanés
+T57	PROC 2287 2311	consultations prénatales
+T58	PROC 2355 2377	examens gynécologiques
+T59	PROC 2423 2476	investigations fonctionnelles digestives alternatives
+T60	PROC 2508 2532	monitorage échographique
+T61	PROC 2551 2592	hémicolectomie exploratrice scanno-guidée
+T62	Concept_Idea 2610 2634	résultats toxicologiques
+T63	PROC 2735 2758	analyse microbiologique
+T64	MEAS 2769 2777	correcte
+T65	PROC 2832 2885	immunohistochimie couplée écho-endoreptyl coagulation
+T66	PROC 2973 3002	explorations bactériologiques
+T67	PROC 3026 3044	cerclençage direct
+T68	ANAT 3080 3120	streptococcus epidermidissimus jirovecii
+T69	PROC 3148 3173	étude immunohistochimique
+T70	DISO 3212 3241	symptômes neuropsychiatriques
+T71	TEMP 3366 3371	2 ans
+T72	LIVB 3451 3461	nourrisson
+T73	TEMP 3469 3475	7 mois
+T74	MEAS 3498 3508	650 gramme
+T75	MEAS 3512 3523	554 grammes
+T76	PHEN 3528 3536	alimenté
+T77	DISO 3552 3563	rectorragie
+T78	DISO 3573 3590	signes somatiques
+T79	PROC 3615 3630	examen clinique
+T80	DISO 3642 3656	particularités
+T81	PROC 3661 3672	échographie
+T82	ANAT 3694 3700	urines
+T83	MEAS 3706 3717	concentrées
+T84	Localization 3722 3738	bords supérieurs
+T85	ANAT 3753 3768	voies biliaires
+T86	MEAS 3774 3786	irrégulières
+T87	MEAS 3804 3817	environ 10 cm
+T88	MEAS 3820 3833	5 centimètres
+T89	PROC 3849 3876	numération formule sanguine

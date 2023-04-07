@@ -1,0 +1,73 @@
+T1	LIVB 28 35	patient
+T2	DISO 56 81	antécédents pathologiques
+T3	MEAS 82 90	notables
+T4	DISO 118 125	diabète
+T5	DISO 135 158	pathologie hypertensive
+T6	CHEM 174 203	médicaments antihypertenseurs
+T7	PROC 209 218	admission
+T8	Hospital 222 237	bloc opératoire
+T9	LIVB 255 262	patient
+T10	Concept_Idea 287 305	plan hémodynamique
+T11	DISO 314 342	polynucléaires érythémateuse
+T12	DISO 349 359	dyspnéique
+T13	DISO 363 380	normo-tachycardie
+T14	DISO 424 445	détresse respiratoire
+T15	MEAS 457 469	15 cycles/mn
+T16	DISO 485 505	tachycardie sinusale
+T17	MEAS 518 536	102 battements/min
+T18	PHEN 550 572	fonction ventriculaire
+T19	ANAT 559 572	ventriculaire
+T20	MEAS 573 583	imprenable
+T21	MEAS 659 670	progressive
+T22	ANAT 716 739	lèvres cervico-faciales
+T23	PROC 743 786	ponction pleurésie liquidienne exploratrice
+T24	ANAT 752 786	pleurésie liquidienne exploratrice
+T25	PROC 802 826	anesthésie locorégionale
+T26	ANAT 813 826	locorégionale
+T27	DISO 848 865	lésions purulente
+T28	DISO 918 944	carcinome kystique nécrosé
+T29	DISO 950 977	pulmonaires carcinomateuses
+T30	DISO 996 1052	thrombose iléo-intestinale infarcto-lésionnelle tumorale
+T32	DISO 1106 1143	maladie ischémique thromboembolisante
+T33	LIVB 1152 1160	patiente
+T34	DISO 1170 1199	kyste hydatique polymyomateux
+T35	Concept_Idea 1269 1284	état tensionnel
+T36	PROC 1303 1310	exérèse
+T37	DEVI 1319 1339	produit de contraste
+T38	MEAS 1351 1364	moins intense
+T39	MEAS 1411 1421	permanente
+T40	PROC 1452 1496	contractions vasculo-nerveuses périphériques
+T41	ANAT 1465 1496	vasculo-nerveuses périphériques
+T42	DISO 1536 1564	symptomatologie neurologique
+T43	DISO 1582 1623	épisodes cyto-inflammatoires systématisés
+T44	DISO 1653 1662	méningées
+T45	DISO 1676 1689	hypersudation
+T46	DISO 1790 1809	surdité congénitale
+T47	MEAS 1828 1834	rapide
+T48	PROC 1919 1949	échographie abdomino pelvienne
+T49	ANAT 1931 1949	abdomino pelvienne
+T50	DISO 1963 2040	formation tissulaire nodulaire hypoechogénée hétérogène hypokaliencéphallique
+T51	MEAS 2050 2054	6 cm
+T52	Concept_Idea 2058 2067	grand axe
+T53	ANAT 2086 2103	cavité abdominale
+T54	MEAS 2115 2130	progressivement
+T55	Concept_Idea 2134 2140	taille
+T56	DISO 2175 2198	résidu graisseux séreux
+T57	Localization 2249 2252	sus
+T58	ANAT 2314 2339	parties molles ovariennes
+T59	ANAT 2497 2517	fosse iliaque droite
+T60	Localization 2511 2517	droite
+T61	ANAT 2524 2538	paroi vaginale
+T62	DISO 2554 2582	adénocarcinome érythémateuse
+T63	PROC 2586 2610	exploration chirurgicale
+T64	DISO 2626 2658	nouveau-né kystique hypertrophié
+T65	DISO 2679 2715	masse pariétale tumorale lésionnelle
+T66	MEAS 2724 2729	1,5cm
+T67	Concept_Idea 2733 2742	grand axe
+T68	CHEM 2770 2790	produit de contraste
+T69	DOSE 2792 2798	5mg/ml
+T70	TEMP 2798 2800	/j
+T71	DISO 2819 2843	envahissement nécrotique
+T72	PROC 2879 2899	cystectomie monobloc
+T73	PROC 2912 2949	curage ganglionnaire pelvien adjuvant
+T74	ANAT 2933 2949	pelvien adjuvant

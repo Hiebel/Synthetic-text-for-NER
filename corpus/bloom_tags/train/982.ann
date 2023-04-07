@@ -1,0 +1,27 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	Concept_Idea 42 73	antécédents médico-chirurgicaux
+T4	MEAS 74 86	particuliers
+T5	PROC 88 93	admis
+T6	Hospital 98 106	urgences
+T7	DISO 116 134	douleur thoracique
+T8	ANAT 124 134	thoracique
+T9	TEMP 144 160	depuis 48 heures
+T10	PROC 164 179	examen clinique
+T11	PROC 184 193	admission
+T12	LIVB 210 216	enfant
+T13	MEAS 220 223	bon
+T14	Concept_Idea 224 236	état général
+T15	Concept_Idea 254 272	plan hémodynamique
+T16	PHEN 276 288	respiratoire
+T17	PROC 295 323	radiographie des pulmonaires
+T18	ANAT 312 323	pulmonaires
+T19	PROC 325 328	XPT
+T20	DISO 345 375	dilatation du péricarde gauche
+T21	ANAT 359 375	péricarde gauche
+T22	Localization 369 375	gauche
+T23	DISO 391 475	distension médiastinale sus-diaphragmatique tissulaire segmentaire hypo-vascularisée
+T25	Localization 415 418	sus
+T26	DISO 494 605	hypopression pleurale systémale diaphragmatique parenchyso-thoracique latérale angulo-cervicale hypovolumineuse
+T28	DISO 658 666	myalgies
+T29	DISO 672 726	atteinte cortico-interstitielle érythémato-pustuleuses

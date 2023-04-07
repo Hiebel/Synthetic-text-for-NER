@@ -1,0 +1,39 @@
+T1	LIVB 4 9	femme
+T2	MEAS 57 69	particuliers
+T3	PROC 71 77	admise
+T4	Hospital 82 104	urgences chirurgicales
+T5	DISO 113 151	syndrome d’épanchement intrapéritonéal
+T6	ANAT 136 151	intrapéritonéal
+T7	TEMP 184 205	depuis plus d’un mois
+T8	DISO 228 249	détresse respiratoire
+T9	PHEN 237 249	respiratoire
+T10	DISO 263 283	douleur épigastrique
+T11	ANAT 271 283	épigastrique
+T12	MEAS 295 303	15kg/m 2
+T13	PROC 382 394	hospitalisée
+T14	LIVB 401 403	sa
+T15	PROC 404 413	admission
+T16	PROC 419 443	intubation ventriculaire
+T17	DEVI 430 443	ventriculaire
+T18	PROC 456 491	traitement antibacillaire empirique
+T19	CHEM 504 512	Diazépam
+T20	LIVB 532 540	patiente
+T21	PROC 574 596	consultation prénatale
+T22	DISO 602 626	sensibilité épigastrique
+T23	ANAT 614 626	épigastrique
+T24	DISO 648 672	hémorragie surrénalienne
+T25	ANAT 659 672	surrénalienne
+T26	MEAS 695 700	100ml
+T27	DISO 776 795	thrombophlébitiques
+T28	DISO 799 824	emboles vasculo-cérébraux
+T29	ANAT 807 824	vasculo-cérébraux
+T30	LIVB 1028 1037	patientes
+T31	LIVB 1040 1043	Son
+T32	PROC 1044 1059	examen clinique
+T33	DISO 1087 1110	symptomatologie maligne
+T34	Concept_Idea 1133 1150	plan radiologique
+T35	PROC 1158 1187	échographie cardio-thoracique
+T36	ANAT 1170 1187	cardio-thoracique
+T37	PROC 1192 1236	tomodensitométrie thoraco-abdomino pelvienne
+T38	ANAT 1210 1236	thoraco-abdomino pelvienne
+T41	Localization 1296 1299	sus

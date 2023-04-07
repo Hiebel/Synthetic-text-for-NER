@@ -1,0 +1,86 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	DISO 41 56	pneumomédiastin
+T4	Localization 73 89	face postérieure
+T5	MEAS 94 95	2
+T6	ANAT 96 104	bronches
+T7	PROC 109 134	toucher pleuro-pulmonaire
+T8	ANAT 117 134	pleuro-pulmonaire
+T9	DEVI 157 167	projecteur
+T10	DISO 187 208	distension abdominale
+T11	ANAT 198 208	abdominale
+T12	DISO 218 245	reflux hépato-trachéo-jugal
+T13	ANAT 225 245	hépato-trachéo-jugal
+T14	PROC 249 268	électrocardiogramme
+T15	DISO 280 293	particularité
+T16	LIVB 300 306	malade
+T17	Concept_Idea 317 327	conscience
+T18	MEAS 328 335	normale
+T19	PROC 341 361	biopsie chirurgicale
+T20	DISO 399 421	masse tumorale maligne
+T21	MEAS 430 435	12 cm
+T22	Concept_Idea 439 448	grand axe
+T23	PROC 473 482	injection
+T24	CHEM 486 506	produit de contraste
+T25	MEAS 516 520	5 cm
+T26	Concept_Idea 524 531	largeur
+T27	DISO 539 544	masse
+T28	MEAS 554 557	6cm
+T29	Concept_Idea 561 570	grand axe
+T30	Concept_Idea 580 590	profondeur
+T31	PROC 645 672	examen anatomopathologiaque
+T32	PROC 677 708	scanner thoraco-abdominopelvien
+T33	ANAT 685 708	thoraco-abdominopelvien
+T34	DISO 743 816	métastase duodénale fovéocrojonctivale métatarsienne mésentérique lobulée
+T36	DISO 830 938	fracture kystique ankylosante sténosante cervicale supérieure controlatérale fronto-fémoral bilatéral gauche
+T38	Localization 922 938	bilatéral gauche
+T39	DISO 952 959	lésions
+T40	PROC 975 994	traitement adjuvant
+T41	PROC 999 1027	chimiothérapie néo adjuvante
+T42	PROC 1033 1047	médicamenteuse
+T43	PROC 1061 1105	rééducation fonctionnelle multidisciplinaire
+T44	PROC 1120 1148	prise en charge orthopédique
+T45	MEAS 1204 1214	favorables
+T46	Concept_Idea 1222 1239	plan psychomoteur
+T47	PHEN 1262 1272	grossesses
+T48	PROC 1311 1321	transférée
+T49	Hospital 1326 1347	urgences pédiatriques
+T50	LIVB 1370 1376	enfant
+T51	TEMP 1384 1390	16 ans
+T52	TEMP 1456 1471	il y a 3 années
+T53	LIVB 1477 1483	enfant
+T54	LIVB 1505 1508	son
+T55	LIVB 1509 1513	père
+T56	LIVB 1523 1525	il
+T57	LIVB 1544 1555	agriculteur
+T58	LIVB 1594 1601	parents
+T59	LIVB 1626 1628	sa
+T60	LIVB 1629 1633	mère
+T62	LIVB 2085 2092	patient
+T63	TEMP 2100 2106	21 ans
+T64	MEAS 2785 2791	faible
+T65	PROC 2799 2818	enquête étiologique
+T66	DISO 2913 2920	lésions
+T67	ANAT 2924 2946	pédicule fémoral droit
+T68	Localization 2941 2946	droit
+T69	Concept_Idea 2970 2982	état général
+T70	PROC 3065 3081	bilan biologique
+T71	PHEN 3112 3131	fonction systolique
+T72	MEAS 3132 3154	supérieure à 4/6cmol/l
+T73	DISO 3170 3182	hypokaliémie
+T74	MEAS 3185 3195	0,2 mmol/l
+T75	DISO 3251 3274	néphropathie diabétique
+T76	DISO 3318 3352	insuffisance rénale hypokaliémique
+T77	ANAT 3331 3337	rénale
+T78	PROC 3357 3367	hémogramme
+T79	DISO 3392 3407	hyperamylasémie
+T80	MEAS 3410 3418	1,08g/dl
+T81	DISO 3513 3539	diabète insulino-requérant
+T82	DISO 3554 3597	méningo-vascularite athéromateuse chronique
+T83	PROC 3603 3627	fibroscopie diagnostique
+T84	DISO 3670 3702	neuroparasitonécrose monocytaire
+T85	PROC 3756 3781	injection intramusculaire
+T86	MEAS 3848 3851	10%
+T88	PROC 3862 3895	particularité immunohistochimique
+T89	PROC 3913 3938	étude anatomopathologique
+T90	DISO 3958 3977	maladie auto-immune

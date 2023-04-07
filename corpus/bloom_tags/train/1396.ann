@@ -1,0 +1,22 @@
+T1	LIVB 29 37	patiente
+T2	MEAS 84 92	notables
+T3	PROC 103 111	réadmise
+T4	Hospital 116 124	urgences
+T5	DISO 151 167	syndrome fébrile
+T6	TEMP 177 190	depuis 4 mois
+T7	DISO 204 218	amaigrissement
+T8	MEAS 237 242	18 kg
+T9	PROC 248 285	traitement antibacillaire substitutif
+T10	DISO 310 333	néphropathie diabétique
+T11	PROC 364 430	immunosuppresseur béta-2 méthylhydrocortisone séro-thyrorégulative
+T12	CHEM 450 466	sulfaméthoxazole
+T13	LIVB 499 507	patiente
+T14	DISO 547 571	traumatisme hémorragique
+T15	DISO 581 614	anomalie cutanéo-vasculo-nerveuse
+T16	DISO 643 678	troubles métaboliques hypertrophiés
+T17	DISO 745 774	symptomatologie inflammatoire
+T18	MEAS 789 811	rapidement progressive
+T19	LIVB 821 825	elle
+T20	PROC 845 867	pronostic radiologique
+T21	PROC 919 940	radiothérapie externe
+T22	PROC 981 1011	curage ganglionnaire axillaire

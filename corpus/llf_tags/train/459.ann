@@ -1,0 +1,27 @@
+T1	LIVB 15 26	jeune homme
+T2	PROC 60 79	traitement adjuvant
+T3	DOSE 84 88	5 mg
+T4	CHEM 92 106	neuroleptiques
+T5	CHEM 155 166	antalgiques
+T6	CHEM 172 189	bronchodilatateur
+T7	DISO 208 231	vomissements chroniques
+T8	Concept_Idea 284 296	état général
+T9	MEAS 312 327	progressivement
+T10	PROC 348 395	corticothérapie intraveineuse substitutionnelle
+T11	PROC 445 456	rébablation
+T12	PROC 544 555	obstétrical
+T13	LIVB 581 584	son
+T14	LIVB 585 591	enfant
+T15	PHEN 602 620	épisodes délirants
+T16	PROC 637 646	admission
+T17	PROC 653 674	ventilation mécanique
+T18	PROC 761 784	scanner crânio-occlusif
+T19	ANAT 769 784	crânio-occlusif
+T20	ANAT 822 845	membre supérieur gauche
+T21	Localization 839 845	gauche
+T23	MEAS 917 921	6 cm
+T24	MEAS 930 934	8 cm
+T25	MEAS 937 941	9 cm
+T26	Concept_Idea 1007 1035	caractéristité morphologique
+T27	DISO 1063 1104	ostéome ostéoïde carcinomateux infiltrant
+T28	Localization 1244 1260	antérieur gauche

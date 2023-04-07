@@ -1,0 +1,29 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	DISO 36 61	antécédents pathologiques
+T4	MEAS 62 70	notables
+T5	DISO 88 94	fièvre
+T6	DISO 100 114	amaigrissement
+T7	Concept_Idea 159 171	état général
+T8	DISO 240 253	malformations
+T9	LIVB 265 269	mère
+T10	PROC 295 301	admise
+T11	Hospital 306 327	urgences pédiatriques
+T12	DISO 341 366	dénutrition fébrile aiguë
+T13	MEAS 422 431	spontanée
+T14	DISO 448 467	douleurs pelviennes
+T15	ANAT 457 467	pelviennes
+T16	MEAS 482 490	brunâtre
+T17	DISO 507 513	sueurs
+T18	MEAS 526 532	3 g/dl
+T19	PROC 556 574	traitement médical
+T20	CHEM 590 605	noréthrinphrine
+T21	DOSE 607 616	0,5 mg/kg
+T22	CHEM 619 644	methoxyprogesterone alpha
+T23	DOSE 647 653	500 µg
+T24	DOSE 728 734	4µg/kg
+T25	TEMP 734 742	/semaine
+T26	TEMP 760 771	trois jours
+T27	DISO 936 954	traumatisme visuel
+T28	ANAT 948 954	visuel
+T29	LIVB 1055 1061	enfant

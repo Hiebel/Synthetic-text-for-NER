@@ -1,0 +1,12 @@
+T1	LIVB 3 11	patiente
+T2	PROC 28 53	chimiothérapie palliative
+T3	Concept_Idea 104 126	paramètres biologiques
+T4	DISO 149 162	thrombocytose
+T5	MEAS 183 189	légère
+T6	DISO 190 206	hyperleucocytose
+T7	MEAS 209 219	10000 UI/L
+T8	MEAS 226 243	3 fois la normale
+T9	DISO 265 286	syndrome hémorragique
+T10	TEMP 290 315	6 ème jour postopératoire
+T11	DISO 328 337	récidives
+T12	TEMP 365 370	2 ans

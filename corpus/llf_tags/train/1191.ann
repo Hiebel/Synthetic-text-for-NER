@@ -1,0 +1,10 @@
+T1	PROC 2 19	bilan étiologique
+T2	DISO 35 59	syndrome polymalformatif
+T3	PROC 64 86	traitement substitutif
+T4	CHEM 97 113	corticostéroïdes
+T5	Concept_Idea 135 144	résultats
+T6	MEAS 156 178	strictement favorables
+T7	MEAS 199 212	spectaculaire
+T8	DISO 217 246	symptômes neuropsychiatriques
+T9	LIVB 260 267	patient
+T10	DISO 287 306	trouble psychotique

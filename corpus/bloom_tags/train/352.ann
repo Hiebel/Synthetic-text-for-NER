@@ -1,0 +1,35 @@
+T1	LIVB 28 35	patient
+T2	DISO 69 90	détresse respiratoire
+T3	PHEN 78 90	respiratoire
+T4	TEMP 100 113	depuis 5 mois
+T5	DISO 127 141	amaigrissement
+T6	MEAS 152 157	17 kg
+T7	LIVB 159 162	Son
+T8	PROC 163 178	examen clinique
+T9	DISO 190 207	dyspnée sifflante
+T10	DEVI 232 251	médicaments inhalés
+T11	DISO 253 264	polypnéique
+T12	MEAS 267 280	28 cycles/min
+T13	DISO 286 303	souffle pleurésie
+T14	ANAT 294 303	pleurésie
+T15	DISO 309 322	hémopéritoine
+T16	PROC 327 359	radiographie thoracique standard
+T17	ANAT 340 350	thoracique
+T18	ANAT 382 402	lobe inférieur droit
+T19	Localization 397 402	droit
+T20	DISO 407 470	hypertrophie basithoracique hypoglycéridienne hypo-vascularisée
+T21	ANAT 420 630	basithoracique hypoglycéridienne hypo-vascularisée mesurant 21 cm sur 13 cm avec présence d'une adénopathie axillaire droite tissulaire nodulaire hyper vascularisé refoulant l'artère hyo-thoracique sus-sternale
+T22	MEAS 480 485	21 cm
+T23	MEAS 490 495	13 cm
+T24	DISO 516 544	adénopathie axillaire droite
+T25	ANAT 528 544	axillaire droite
+T26	Localization 538 544	droite
+T27	Localization 618 621	sus
+T28	ANAT 660 683	zones cardiopulmonaires
+T29	LIVB 713 721	patiente
+T30	DISO 728 787	syndrome d'épanchement pleural liquidien périchondromateuse
+T31	ANAT 751 787	pleural liquidien périchondromateuse
+T32	DISO 805 853	hypotension artérielle intrarachidiocarotidienne
+T33	ANAT 817 853	artérielle intrarachidiocarotidienne
+T34	DISO 895 922	empyème pulmonaire infiltré
+T35	ANAT 903 922	pulmonaire infiltré

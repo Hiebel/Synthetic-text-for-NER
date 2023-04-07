@@ -1,0 +1,43 @@
+T1	LIVB 16 21	femme
+T2	PHEN 38 44	mariée
+T3	MEAS 56 57	4
+T4	LIVB 58 65	enfants
+T5	DISO 94 117	douleurs hypogastriques
+T6	ANAT 103 117	hypogastriques
+T7	TEMP 127 143	depuis deux mois
+T8	PROC 152 161	admission
+T9	Hospital 166 174	urgences
+T10	Hospital 178 227	Centre Hospitalier universitaire Hassan II de Fès
+T11	PROC 231 246	examen clinique
+T12	DISO 263 296	masse péritonéale latérale droite
+T13	ANAT 269 296	péritonéale latérale droite
+T14	Localization 290 296	droite
+T15	MEAS 306 311	20 cm
+T16	Concept_Idea 315 324	grand axe
+T17	MEAS 336 351	progressivement
+T18	Concept_Idea 355 361	taille
+T19	MEAS 373 377	12cm
+T20	Concept_Idea 380 386	aspect
+T21	MEAS 387 405	légèrement arrondi
+T22	ANAT 421 426	grêle
+T23	DISO 446 566	hématome intrapéritonéal péristaltique utéro-vésiculaire inféro-spléno-mésentérique hypogastrique superficiel compressif
+T25	DISO 580 603	distension iléo-caecale
+T26	ANAT 591 603	iléo-caecale
+T27	MEAS 618 632	plus accentuée
+T28	ANAT 662 679	greffon iléocæcal
+T29	ANAT 709 726	cavité abdominale
+T30	ANAT 739 745	utérus
+T31	MEAS 758 761	3mm
+T32	Concept_Idea 765 774	grand axe
+T33	PROC 778 816	scanner abdomino-pelvien préopératoire
+T34	ANAT 786 816	abdomino-pelvien préopératoire
+T35	DISO 841 951	masse hypo échogène hyper intégrée tissulaire polylobée angulo-circonférentielle kystique lithiasique nécrosée
+T36	ANAT 972 1017	fosse para vertébro-lombaire supra ombilicale
+T37	Localization 1001 1006	supra
+T38	ANAT 1040 1068	structures sus épigastriques
+T39	ANAT 1082 1107	rebord hépato vésiculaire
+T40	ANAT 1123 1143	zones d'infiltration
+T41	ANAT 1166 1181	glande thyroïde
+T42	ANAT 1215 1233	organes ovariennes
+T43	PROC 1263 1285	TDM cervico-thoracique
+T44	ANAT 1267 1285	cervico-thoracique

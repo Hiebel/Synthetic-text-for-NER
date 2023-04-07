@@ -1,0 +1,16 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 61 87	hyperparathyroïdie diffuse
+T4	PROC 103 132	traitement médical substituté
+T5	Hospital 136 156	urgence chirurgicale
+T6	PROC 181 207	scintigraphie scannoguidée
+T7	DISO 240 273	adénome pancréatique hypertrophié
+T8	ANAT 248 273	pancréatique hypertrophié
+T9	Localization 290 299	bilatéral
+T10	MEAS 338 350	environ 2 cm
+T11	ANAT 368 394	surrénalienne hypophysaire
+T12	MEAS 412 417	18 mm
+T13	Concept_Idea 421 430	grand axe
+T14	TEMP 503 509	17 ans
+T15	LIVB 568 580	petite fille
+T16	PROC 623 638	interrogatoires

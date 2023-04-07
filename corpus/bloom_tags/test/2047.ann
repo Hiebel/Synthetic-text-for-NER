@@ -1,0 +1,58 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 45 70	antécédents pathologiques
+T3	MEAS 71 83	particuliers
+T4	PROC 85 91	Admise
+T5	Hospital 96 103	urgence
+T6	DISO 113 132	douleurs pelviennes
+T7	ANAT 122 132	pelviennes
+T8	TEMP 154 170	depuis une année
+T9	PROC 176 191	examen clinique
+T10	LIVB 196 204	patiente
+T11	MEAS 214 217	bon
+T12	Concept_Idea 218 230	état général
+T13	DISO 248 285	épanchement abdomino-pelvien purulent
+T15	Concept_Idea 297 306	abondance
+T16	PROC 313 332	échographie utérine
+T17	ANAT 325 332	utérine
+T18	DEVI 355 364	médiastin
+T19	Hospital 368 398	service d'urétro-hypogastrique
+T20	PHEN 415 430	cycle menstruel
+T21	PROC 435 443	contrôlé
+T22	PROC 448 468	bilan préchirurgical
+T23	DISO 495 545	cystopathie congénitale kystique utéro-placentaire
+T24	DISO 561 572	prématurité
+T25	MEAS 583 588	30 cm
+T27	DISO 913 930	kystocondensation
+T28	DISO 947 985	syndrome d’épanchement intrapéritonéal
+T29	ANAT 970 985	intrapéritonéal
+T30	DISO 1019 1052	hypotension artérielle systolique
+T31	ANAT 1031 1052	artérielle systolique
+T32	CHEM 1084 1097	noradrénaline
+T33	PROC 1113 1146	traitement antalgique substitutif
+T34	DOSE 1161 1167	3mg/kg
+T35	MODE 1167 1185	voie intraveineuse
+T36	CHEM 1303 1328	proparylhydroxy-vetrolone
+T37	CHEM 1332 1348	prazépaméthasone
+T38	LIVB 1376 1384	patiente
+T39	CHEM 1414 1427	noradrénaline
+T40	CHEM 1437 1451	chlorpromidone
+T41	DOSE 1452 1459	2 mg/kg
+T42	CHEM 1462 1487	Proparylhydroxy-vetrolone
+T43	DOSE 1488 1493	50 mg
+T44	CHEM 1496 1507	Ceftriaxone
+T45	DOSE 1508 1513	1g/kg
+T46	CHEM 1516 1534	acide tranylphrine
+T47	DOSE 1535 1543	20 ng/m²
+T48	LIVB 1617 1622	fille
+T49	TEMP 1631 1637	9 mois
+T50	DISO 1654 1676	détresse psychomotrice
+T51	MEAS 1798 1804	rapide
+T52	MEAS 1852 1858	150° C
+T53	PROC 1872 1880	adressée
+T54	MEAS 1944 1950	160° C
+T55	ANAT 1976 2003	thoracique paucis liquidien
+T56	CHEM 2108 2128	sulfate de glucosëne
+T57	PROC 2167 2187	histolymniquellement
+T58	PROC 2379 2404	intervention chirurgicale
+T59	PROC 2423 2481	résection monobloc transannexielle coeléo-myometrorragante
+T60	ANAT 2503 2523	membranes urétriques

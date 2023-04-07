@@ -1,0 +1,28 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 77	particuliers
+T4	PROC 79 84	admis
+T5	Hospital 88 95	urgence
+T6	Hospital 100 125	urgences ophtalmologiques
+T7	DISO 135 151	troubles visuels
+T8	TEMP 172 188	depuis deux mois
+T9	PROC 192 207	examen clinique
+T10	DISO 224 239	tâches cutanées
+T11	ANAT 253 277	jugulo-carotidien gauche
+T12	Localization 271 277	gauche
+T13	Concept_Idea 286 293	contour
+T14	MEAS 294 302	régulier
+T15	ANAT 323 338	sinus caverneux
+T16	ANAT 345 401	cicatrice d'ostéo-cartilage palmo-métacarpienne palmaire
+T17	PROC 406 436	bilan biologique préopératoire
+T18	PHEN 454 469	fonction rénale
+T19	ANAT 463 469	rénale
+T20	MEAS 470 477	normale
+T21	PROC 479 487	natrémie
+T22	MEAS 490 503	133 meq/100ml
+T23	PROC 506 514	kaliémie
+T24	MEAS 517 530	0,6 meq/100ml
+T25	PROC 537 567	échographie abdoméno-pelvienne
+T26	ANAT 549 567	abdoméno-pelvienne
+T27	LIVB 594 602	patiente
+T28	PROC 635 658	radiothérapie adjuvante

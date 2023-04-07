@@ -1,0 +1,42 @@
+T1	LIVB 29 34	femme
+T2	Concept_Idea 56 67	antécédents
+T3	MEAS 68 80	particuliers
+T4	PROC 91 97	admise
+T5	Hospital 102 110	urgences
+T6	DISO 130 156	syndrome hémorragique aigu
+T7	DISO 158 161	SAA
+T8	LIVB 164 169	Notre
+T9	LIVB 170 178	patiente
+T10	DISO 220 235	ménométrorrhées
+T11	TEMP 254 267	depuis 3 mois
+T12	PROC 273 282	admission
+T13	LIVB 284 288	elle
+T14	DISO 295 302	fébrile
+T15	MEAS 314 318	40°c
+T16	DISO 333 361	épigastralgies prurigineuses
+T17	PROC 403 421	traitements locaux
+T18	DISO 445 459	signes cutanés
+T19	DISO 486 511	troubles sensitivomoteurs
+T20	DISO 524 556	anomalies neurovestibulo-nerveux
+T21	PROC 559 573	examen initial
+T22	DISO 590 667	masse sous-diaphragmatique bilatérale postérieure para épigastrique bilobulée
+T23	ANAT 596 667	sous-diaphragmatique bilatérale postérieure para épigastrique bilobulée
+T25	MEAS 677 682	12 cm
+T26	MEAS 687 691	8 cm
+T27	MEAS 703 718	progressivement
+T28	Concept_Idea 722 728	volume
+T29	DISO 752 778	fistule placenta-maternité
+T30	ANAT 760 778	placenta-maternité
+T31	DISO 789 817	localisations gynécomotrices
+T32	DISO 868 911	paralysie faciale prognatale palmiplantéale
+T33	ANAT 878 911	faciale prognatale palmiplantéale
+T34	ANAT 943 979	flacon pharyngo-laryngéo-oesophagien
+T35	DISO 994 1029	tachycardie palmigrêlo-thyroïdienne
+T36	ANAT 1006 1029	palmigrêlo-thyroïdienne
+T37	MEAS 1040 1052	100 batt/min
+T38	MEAS 1065 1082	120 battements/mn
+T39	MEAS 1119 1137	130 battements/min
+T40	MEAS 1151 1164	plus intenses
+T41	MEAS 1201 1223	profondément sensibles
+T42	PHEN 1250 1277	protractions grêlo-rectales
+T43	ANAT 1263 1277	grêlo-rectales

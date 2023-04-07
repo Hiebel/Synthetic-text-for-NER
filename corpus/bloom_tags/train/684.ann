@@ -1,0 +1,34 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	9 ans
+T3	Concept_Idea 41 66	antécédents pathologiques
+T4	MEAS 67 79	particuliers
+T5	PROC 81 86	admis
+T6	Hospital 91 112	urgences pédiatriques
+T7	DISO 122 143	détresse respiratoire
+T8	PHEN 131 143	respiratoire
+T9	TEMP 153 170	depuis deux jours
+T10	DISO 187 216	douleurs épigastriques aiguës
+T11	ANAT 196 209	épigastriques
+T12	CHEM 229 247	médiastinotropique
+T13	DISO 254 292	syndrome d'épanchement intrapéritonéal
+T14	ANAT 277 292	intrapéritonéal
+T15	PROC 296 311	examen clinique
+T16	DISO 346 366	masse du flanc droit
+T17	ANAT 355 366	flanc droit
+T18	Localization 361 366	droit
+T19	MEAS 378 390	spontanément
+T20	Concept_Idea 394 400	volume
+T21	ANAT 435 443	œsophage
+T22	MEAS 453 465	environ 6 cm
+T23	Concept_Idea 469 478	grand axe
+T24	Concept_Idea 481 487	aspect
+T25	MEAS 488 498	hétérogène
+T26	DISO 503 514	douloureuse
+T28	CHEM 561 579	méthylprednisolone
+T29	PROC 584 631	ponction pleurale médiastinale trans-thoracique
+T30	ANAT 593 631	pleurale médiastinale trans-thoracique
+T31	PROC 669 692	injection intraveineuse
+T32	DOSE 696 704	20 mg/kg
+T33	CHEM 708 726	méthylprednisolone
+T34	MEAS 743 751	complète
+T35	DISO 758 773	symptomatologie

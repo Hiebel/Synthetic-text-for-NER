@@ -1,0 +1,10 @@
+T1	PROC 12 25	thérapeutique
+T2	LIVB 30 38	patiente
+T3	Concept_Idea 59 70	antécédents
+T4	Concept_Idea 84 94	personnels
+T5	MEAS 95 107	particuliers
+T6	PROC 111 126	examen
+T7	LIVB 146 154	patiente
+T8	MEAS 155 165	consciente
+T9	DISO 167 177	apyrétique
+T10	MEAS 181 193	normo-normée

@@ -1,0 +1,31 @@
+T1	LIVB 29 37	patiente
+T2	Concept_Idea 54 60	pesant
+T3	MEAS 61 66	46 kg
+T4	DEVI 71 84	masse plâtrée
+T5	MEAS 100 115	progressivement
+T6	Concept_Idea 119 125	volume
+T7	PROC 129 144	examen clinique
+T8	LIVB 156 164	patiente
+T9	MEAS 168 171	bon
+T10	Concept_Idea 172 184	état général
+T11	ANAT 204 222	membres inférieurs
+T12	DISO 244 252	polypnée
+T13	MEAS 265 278	28 cycles/min
+T14	DISO 294 300	fièvre
+T15	MEAS 312 316	40°c
+T16	DISO 330 346	signes cliniques
+T17	DISO 373 389	troubles visuels
+T18	PROC 394 424	auscultation pleuro-pulmonaire
+T19	ANAT 407 424	pleuro-pulmonaire
+T20	DISO 458 561	épanchement liquidien basithoracique liquidien héléno-basithoracique périalvéolo-interstitiel hypodense
+T22	ANAT 587 620	champ pulmonaire supérieur gauche
+T23	Localization 614 620	gauche
+T24	MEAS 630 634	3 cm
+T25	Concept_Idea 638 647	grand axe
+T26	LIVB 675 683	patiente
+T27	DISO 779 805	lésions tumorales malignes
+T28	PROC 846 876	traitement médical substitutif
+T29	PROC 881 914	échocardiographie transthoracique
+T30	ANAT 899 914	transthoracique
+T31	PROC 930 950	reprise chirurgicale
+T35	ANAT 1197 1222	espaces cardiaques fœtaux

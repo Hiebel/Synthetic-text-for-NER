@@ -1,0 +1,25 @@
+T1	LIVB 4 12	patiente
+T2	CHEM 123 158	anti-inflammatoires non résorbables
+T3	CHEM 160 168	Aspirine
+T4	CHEM 170 181	Cyclosérine
+T5	CHEM 183 196	Céphalosérine
+T6	CHEM 221 231	médicament
+T7	CHEM 249 262	sulfasalamide
+T8	CHEM 275 289	neuroleptiques
+T9	PROC 294 302	adressée
+T10	PROC 311 333	consultation prénatale
+T11	DISO 384 406	intoxication tabagique
+T12	MEAS 471 476	2000g
+T13	MEAS 480 485	2950g
+T14	PROC 493 511	examen obstétrical
+T15	DISO 560 577	douleur pelvienne
+T16	ANAT 568 577	pelvienne
+T17	MEAS 592 603	progressive
+T18	TEMP 612 640	dans les premières 48 heures
+T19	LIVB 702 710	patiente
+T20	DISO 773 796	saignements prurigineux
+T21	PROC 813 839	réhydratation hydrosodique
+T22	MEAS 859 874	plus fréquentes
+T23	Hospital 878 899	en milieu hospitalier
+T24	DISO 979 1006	pathologie thromboembolante
+T25	PROC 1043 1072	prélèvements bactériologiques

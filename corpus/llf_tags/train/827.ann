@@ -1,0 +1,103 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	DISO 68 83	pneumopéritoine
+T4	MEAS 87 101	moyenne taille
+T5	Concept_Idea 95 101	taille
+T6	PROC 105 131	examen anatomopathologique
+T7	DISO 158 187	processus tissulaire polylobé
+T8	DISO 207 238	carcinose nasopharyngo-laryngée
+T9	ANAT 217 238	nasopharyngo-laryngée
+T10	DISO 246 289	fistule broncho-jugulocarotidienne eccrinea
+T11	ANAT 254 289	broncho-jugulocarotidienne eccrinea
+T12	PROC 299 324	étude immunohistochimique
+T13	MEAS 402 409	négatif
+T14	LIVB 414 422	patiente
+T15	PROC 441 466	néphrectomie exploratrice
+T16	PROC 472 491	anesthésie générale
+T17	PROC 505 536	radio-chimiothérapie palliative
+T18	CHEM 552 563	antalgiques
+T19	CHEM 569 596	amoxicilline acide acétique
+T20	CHEM 598 610	antipaludéen
+T21	CHEM 614 631	acide salicylique
+T22	DISO 677 694	récidive tumorale
+T23	DISO 705 711	signes
+T24	DISO 738 768	récidive bilatérale secondaire
+T25	Localization 747 757	bilatérale
+T26	PHEN 782 791	grossesse
+T27	PROC 796 802	suivie
+T28	TEMP 813 818	32 SA
+T29	Concept_Idea 827 844	plan radiologique
+T30	DISO 879 890	traumatisme
+T31	PROC 909 921	consultation
+T32	PROC 926 951	scanner thoraco-abdominal
+T33	ANAT 934 951	thoraco-abdominal
+T34	Hospital 964 985	urgences pédiatriques
+T35	DISO 1065 1130	lymphœdème péritonéal anaplasmocytaire intraparenchymateux cutané
+T36	ANAT 1150 1161	flanc droit
+T37	Localization 1156 1161	droit
+T38	DISO 1167 1230	remaniements kystiques périostéonécrosés ostéobronchographiques
+T39	ANAT 1245 1261	région pelvienne
+T40	DISO 1268 1320	sténose pyélocalicielle hyperduodénale hypokinétique
+T41	ANAT 1340 1365	voies veineuses centrales
+T42	ANAT 1462 1492	grêle cervical postéro-externe
+T43	Concept_Idea 1514 1534	aspect morphologique
+T44	DISO 1551 1631	léiomyosarcomatose oblitérante carcinomateuse interstitielle achilléenne ulcérée
+T45	DISO 1654 1694	tuberculose érythémato-trachéale érosive
+T46	DISO 1712 1738	distension crânio-nerveuse
+T47	ANAT 1723 1738	crânio-nerveuse
+T48	PROC 1756 1762	admise
+T49	PROC 1768 1797	prise en charge thérapeutique
+T50	PROC 1803 1825	transfusions sanguines
+T51	Concept_Idea 1852 1875	résultats histologiques
+T52	PROC 1913 1951	biopsie scanno-guidée endoscannoguidée
+T53	PROC 1976 2036	laminectomie céphalothoracique transoesophagienne percutanée
+T54	PROC 2051 2279	tumorectomie extemporanée subtotale intrathoracique comprimantèrostomie antalgique gastroduodénale jugulo-antérieure inguinale perioachillienne segmentaire postérieur cruro-mandibulaire concavière distale supéro mandiagnostiquée
+T55	DEVI 2304 2336	matériels lithotropes aspiratifs
+T56	PROC 2351 2374	fermeture préopératoire
+T57	PROC 2382 2404	technique chirurgicale
+T58	TEMP 2412 2421	24 heures
+T60	PROC 2468 2488	contrôle chirurgical
+T61	PROC 2652 2718	toilette pleurale superficielle digestivo-respiratoire fractionnée
+T63	PROC 2731 2787	hémicolectomie totale adjuvante sous anesthésie générale
+T64	LIVB 2792 2799	patient
+T65	PROC 2804 2815	hospitalisé
+T66	Hospital 2824 2839	bloc opératoire
+T67	Hospital 2843 2901	Centre hospitalier universitaire (CHU) Ibn Rochd de Meknès
+T68	PROC 2908 2939	TDM thoraco- abdomino-pelvienne
+T69	ANAT 2912 2939	thoraco- abdomino-pelvienne
+T70	PROC 2960 2986	examen anatomopathologique
+T71	DISO 3002 3082	nodules tumoraux myxoïdes infiltrant les troncs plexus veineux pariéto-abdominal
+T72	ANAT 3043 3082	troncs plexus veineux pariéto-abdominal
+T73	DISO 3088 3111	anomalies radiologiques
+T74	DISO 3139 3159	récidive liquidienne
+T75	DISO 3169 3190	signes inflammatoires
+T76	MEAS 3203 3207	gros
+T77	DISO 3208 3247	processus lésionnel tissulaire kystique
+T78	MEAS 3261 3274	environ 10 cm
+T79	Concept_Idea 3278 3287	grand axe
+T80	MEAS 3296 3300	4 cm
+T81	Concept_Idea 3304 3313	petit axe
+T82	MEAS 3323 3326	2cm
+T83	Concept_Idea 3330 3337	largeur
+T84	DISO 3354 3377	micronodules métastasés
+T85	DISO 3388 3412	lésions vasculonervicale
+T86	PROC 3426 3451	étude immunohistochimique
+T87	CHEM 3472 3521	antigène HA IgG KappaBacetyl transferase conjugue
+T88	MEAS 3531 3549	18 fois la normale
+T89	PROC 3555 3603	chromogranine aminotransférase Sulfaméthoxazole®
+T90	MEAS 3615 3629	10 gramme UI/L
+T91	MEAS 3635 3652	5 fois la normale
+T92	PROC 3658 3669	créatinémie
+T93	MEAS 3680 3691	0,40 mgol/L
+T94	PROC 3707 3716	lipasémie
+T95	MEAS 3741 3749	négative
+T96	PROC 3764 3783	phospholipidimétrie
+T97	MEAS 3795 3817	136 milligrammes mEq/L
+T98	DISO 3837 3850	particularité
+T99	PROC 3864 3867	CRP
+T100	MEAS 3878 3887	25 mmol/L
+T101	MEAS 3896 3918	correctement positives
+T102	PROC 3924 3953	prélèvements bactériologiques
+T103	ANAT 3987 3998	flanc droit
+T104	Localization 3993 3998	droit
+T105	ANAT 4014 4043	recoupes urétérales fundiques

@@ -1,0 +1,10 @@
+T1	PHEN 4 22	suites opératoires
+T2	MEAS 31 38	simples
+T3	LIVB 45 52	patient
+T4	PROC 62 85	traitement antibiotique
+T5	CHEM 73 85	antibiotique
+T6	CHEM 95 126	amoxicilline-acide clavulanique
+T7	DISO 179 194	symptomatologie
+T8	TEMP 212 219	18 mois
+T9	Concept_Idea 266 274	résultat
+T10	PROC 279 308	explorations bactériologiques

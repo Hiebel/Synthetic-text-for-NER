@@ -1,0 +1,50 @@
+T1	LIVB 3 10	patient
+T2	DISO 44 79	méningoencephalopathie hypertensive
+T3	DISO 84 123	carcinose tuberculeuse laryngopharyngée
+T4	ANAT 94 123	tuberculeuse laryngopharyngée
+T5	PROC 134 138	reçu
+T6	DISO 152 173	détresse respiratoire
+T7	PHEN 161 173	respiratoire
+T8	DEVI 198 219	sonde naso-gastriques
+T9	ANAT 204 219	naso-gastriques
+T10	PROC 253 277	intubation nasogastrique
+T11	ANAT 264 277	nasogastrique
+T12	MODE 292 302	voie orale
+T13	CHEM 305 323	hydroxychloroquine
+T14	PROC 329 356	traitement médical adjuvant
+T15	CHEM 367 378	rifampicine
+T16	CHEM 379 389	isoniazide
+T17	PROC 395 429	ponction pleurale trans-bronchique
+T18	ANAT 404 429	pleurale trans-bronchique
+T19	DISO 507 525	pathologie maligne
+T20	DISO 594 617	dégénérescence tumorale
+T21	DISO 624 633	malignité
+T22	DISO 644 668	localisations nodulaires
+T23	LIVB 686 694	patients
+T24	PROC 699 743	tomodensitométrie thoraco-abdomino-pelvienne
+T25	ANAT 717 743	thoraco-abdomino-pelvienne
+T26	PROC 765 792	scanner pelvien explorateur
+T27	ANAT 773 792	pelvien explorateur
+T28	DISO 843 860	lésions associées
+T29	DISO 876 914	vascularisation pulmonaire infarctoïde
+T30	ANAT 892 914	pulmonaire infarctoïde
+T31	PROC 928 975	imagerie par résonance magnétique intraveineuse
+T32	PROC 977 980	IRM
+T33	Localization 982 992	préérieure
+T35	ANAT 1102 1130	paroi péritonéale abdominale
+T36	DISO 1193 1225	lithiase hydronéphrulée kystique
+T37	DISO 1243 1263	sténose iléo-caecale
+T38	ANAT 1251 1263	iléo-caecale
+T39	DISO 1271 1310	syndrome d'épanchement intraparasitéral
+T40	ANAT 1294 1310	intraparasitéral
+T41	PROC 1328 1362	prélèvements bactério-nucléolaires
+T42	MEAS 1385 1403	fortement positifs
+T43	PROC 1420 1442	positivité sérologique
+T44	PROC 1533 1589	curage ganglionnaire axillaire cœlioscopique chirurgical
+T46	PROC 1604 1636	radiothérapie externe palliative
+T47	PROC 1681 1711	thérapeutiques complémentaires
+T48	PROC 1717 1772	transfusion sanguine béta-méthoxylhydrocortisone pulsée
+T49	PROC 1779 1819	sécheresse érythémateuse fébrile globale
+T50	MEAS 2009 2015	3 g/dl
+T51	MEAS 2025 2040	plus fréquentes
+T52	Concept_Idea 2162 2171	étiologie

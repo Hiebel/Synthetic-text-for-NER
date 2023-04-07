@@ -1,0 +1,35 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	6 ans
+T3	PHEN 43 63	grossesse gémellaire
+T4	DISO 93 106	consanguinité
+T5	PROC 112 121	admission
+T6	Hospital 130 173	service d'accueil des urgences pédiatriques
+T7	LIVB 175 179	nous
+T9	TEMP 228 239	depuis 2ans
+T10	MEAS 259 274	progressivement
+T11	Concept_Idea 278 284	volume
+T12	MEAS 289 295	1à3 kg
+T13	MEAS 306 325	légèrement sensible
+T14	MEAS 340 355	progressivement
+T15	Concept_Idea 359 366	surface
+T16	MEAS 376 380	12cm
+T17	MEAS 383 387	8 cm
+T18	Concept_Idea 390 396	aspect
+T19	MEAS 397 409	cuir chevelu
+T20	MEAS 471 488	plus volumineuses
+T21	MEAS 505 517	irrégulières
+T22	ANAT 541 548	ombilic
+T23	DISO 611 627	pseudo-péritoine
+T24	DISO 634 663	kystas hydatiques purpuriques
+T25	DISO 685 692	lésions
+T26	DISO 769 793	inflammation kératosique
+T27	ANAT 812 838	muqueuse abdominopelvienne
+T28	ANAT 896 917	culs-de-sacs vaginaux
+T29	PROC 1019 1049	bilan biologique préopératoire
+T30	CHEM 1063 1087	calcémie phosphocalcique
+T31	MEAS 1098 1107	9650 mg/l
+T32	MEAS 1113 1156	15 fois la" limite supérieure "du groupee U
+T33	CHEM 1256 1267	Cyclosérine
+T34	CHEM 1270 1283	Dexaméthasone
+T35	DOSE 1285 1294	100 mg/kg
+T36	MODE 1294 1306	intraveineux

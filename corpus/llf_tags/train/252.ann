@@ -1,0 +1,40 @@
+T1	LIVB 28 36	patiente
+T2	DISO 74 118	traumatisme ancien du membre inférieur droit
+T3	ANAT 96 118	membre inférieur droit
+T4	Localization 113 118	droit
+T5	LIVB 131 135	elle
+T6	PROC 152 176	chimiothérapie adjuvante
+T7	MODE 181 199	voie intraveineuse
+T8	DISO 216 240	symptomatologie clinique
+T9	Concept_Idea 253 256	âge
+T10	DISO 291 314	hallucinations tactiles
+T11	LIVB 519 527	patiente
+T12	DISO 575 589	amaigrissement
+T13	MEAS 600 605	10 kg
+T14	DISO 621 642	récidive neurologique
+T15	DISO 649 666	trouble bipolaire
+T16	PROC 670 684	examen général
+T17	LIVB 702 710	patiente
+T18	Concept_Idea 736 754	plan hémodynamique
+T19	DISO 777 795	syndrome pyramidal
+T20	PROC 801 819	tension artérielle
+T21	ANAT 809 819	artérielle
+T22	MEAS 836 847	120/60 mmHg
+T23	PHEN 862 884	fréquence respiratoire
+T24	TEMP 917 927	par minute
+T25	PROC 933 963	TDM thoraco-abdomino-pelvienne
+T26	ANAT 937 963	thoraco-abdomino-pelvienne
+T27	DISO 989 1075	masse tissulaire rétro péritonéale périrénal supérieure droite postéro-latérale droite
+T29	Localization 1069 1075	droite
+T30	MEAS 1084 1097	environ 20 cm
+T31	Concept_Idea 1101 1110	grand axe
+T32	MEAS 1120 1124	12cm
+T33	Concept_Idea 1128 1137	petit axe
+T34	ANAT 1189 1207	surface thoracique
+T35	ANAT 1239 1269	nerf phréno-trachéo-bronchique
+T36	DISO 1277 1282	masse
+T37	MEAS 1292 1296	5 cm
+T38	PROC 1330 1338	drainage
+T39	Concept_Idea 1344 1366	caractère histologique
+T40	MEAS 1439 1449	favorables
+T41	PROC 1559 1564	suivi

@@ -1,0 +1,102 @@
+T1	LIVB 4 9	femme
+T2	CHEM 41 61	acide acétylsalicylé
+T3	DOSE 63 69	1mg/kg
+T4	TEMP 69 74	/jour
+T5	CHEM 77 95	hydroxychloroquine
+T6	DOSE 97 103	500 mg
+T7	TEMP 103 105	/j
+T8	CHEM 108 119	ethionamide
+T9	DOSE 121 127	200 mg
+T10	TEMP 127 129	/j
+T11	CHEM 132 143	Cyclosérine
+T12	DOSE 145 150	20 mg
+T13	TEMP 150 152	/j
+T14	CHEM 155 168	Rifaméthasone
+T15	DOSE 170 175	50 mg
+T16	TEMP 175 177	/j
+T17	CHEM 180 199	Valproate de sodium
+T18	DOSE 201 208	5 mg/kg
+T19	TEMP 208 210	/j
+T20	CHEM 213 226	Sulfasalazine
+T21	DOSE 228 230	3g
+T22	TEMP 230 232	/j
+T23	CHEM 235 247	Pyrazinamide
+T24	DOSE 249 255	400 mg
+T25	TEMP 255 257	/j
+T26	CHEM 260 274	Ciprofloxacine
+T27	DOSE 276 282	800 mg
+T28	TEMP 282 284	/j
+T29	CHEM 287 303	Methyl folinique
+T30	DOSE 305 309	10 g
+T31	TEMP 309 311	/j
+T32	CHEM 314 325	Nicardipril
+T33	DOSE 327 333	100 mg
+T34	TEMP 333 335	/j
+T35	CHEM 338 350	Simvastatine
+T36	DOSE 352 358	600 mg
+T38	CHEM 363 371	Aspirine
+T39	DOSE 373 378	75 mg
+T40	TEMP 378 380	/j
+T41	CHEM 383 393	Isoniazide
+T42	DOSE 395 401	160 mg
+T43	TEMP 401 403	/j
+T44	CHEM 406 420	Tobraméthasone
+T45	DOSE 422 427	40 mg
+T46	TEMP 427 429	/j
+T47	CHEM 432 448	Erythrométhasone
+T48	DOSE 450 455	30 mg
+T49	TEMP 455 457	/j
+T50	CHEM 460 476	Chloramphénidine
+T51	DOSE 478 483	15 mg
+T52	TEMP 483 485	/j
+T53	CHEM 488 502	Gentaméthasone
+T54	DOSE 504 510	150 mg
+T55	TEMP 510 512	/j
+T56	CHEM 515 529	Triméthoxazole
+T57	DOSE 531 535	0,5g
+T58	TEMP 535 537	/j
+T59	CHEM 540 548	Diazépam
+T60	DOSE 550 555	80 mg
+T61	TEMP 555 557	/j
+T62	CHEM 560 576	Prodexaméthasone
+T63	DOSE 578 583	60 mg
+T64	TEMP 583 585	/j
+T65	CHEM 588 599	Ethohexanol
+T66	DOSE 601 605	7 ml
+T67	TEMP 605 607	/j
+T68	MODE 632 651	voie intra veineuse
+T69	CHEM 665 684	Oméprométhorpholone
+T70	DOSE 685 692	4 µg/kg
+T71	TEMP 692 694	/J
+T72	DEVI 700 722	bandage péribucellaire
+T73	LIVB 824 832	patiente
+T74	PROC 848 862	interrogatoire
+T75	LIVB 879 887	patients
+T76	DISO 914 941	hématurie néphropatricielle
+T77	PROC 946 951	reçue
+T78	PROC 988 1010	consultation prénatale
+T79	PROC 1034 1082	prise médicamenteuse intraveineuse transplacante
+T80	LIVB 1105 1107	on
+T81	PROC 1147 1175	ponction pleurale systémique
+T82	ANAT 1156 1175	pleurale systémique
+T83	MEAS 1190 1197	normale
+T84	PROC 1204 1213	admission
+T85	MEAS 1243 1263	spontanément pesante
+T86	MEAS 1275 1290	progressivement
+T87	Concept_Idea 1294 1300	volume
+T88	LIVB 1367 1388	médecins pédiatriques
+T89	ANAT 1428 1450	péricardique liquidien
+T90	ANAT 1473 1511	sinus thyrio-pancréatique pancréatique
+T91	DISO 1592 1608	kystes kystiques
+T92	DISO 1712 1749	carcinome tissulaire du paragangliome
+T93	ANAT 1736 1749	paragangliome
+T94	PROC 1753 1781	échographie abdomino-utérine
+T95	ANAT 1765 1781	abdomino-utérine
+T96	PHEN 1802 1822	grossesse gémellaire
+T97	DISO 1828 1840	métrorragies
+T98	DISO 1844 1878	troubles des contractions utérines
+T100	ANAT 1870 1878	utérines
+T101	PROC 1926 1965	traitement immunocorticoïde substitutif
+T102	CHEM 1979 1992	noradrénaline
+T103	CHEM 1994 2007	triméthoprime
+T104	CHEM 2011 2031	sulfanylprednisolone

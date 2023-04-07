@@ -1,0 +1,24 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	PHEN 48 68	grossesse gémellaire
+T4	PROC 73 79	suivie
+T5	DISO 147 161	épigastralgies
+T6	TEMP 171 184	depuis 6 mois
+T7	DISO 200 212	vomissements
+T8	DISO 214 220	fièvre
+T9	MEAS 232 237	38° C
+T10	PROC 243 267	traitement médicamenteux
+T11	CHEM 273 292	corticoestéroidiens
+T12	PROC 303 309	admise
+T13	Hospital 313 343	service d'accueil des urgences
+T14	DISO 363 405	syndrome d'épanchement abdomino péritonéal
+T15	ANAT 386 405	abdomino péritonéal
+T16	Concept_Idea 458 470	état général
+T17	MEAS 485 496	progressive
+T18	DISO 538 580	paralysie faciale congénitale hypertensive
+T19	LIVB 598 606	patients
+T20	DISO 690 714	pathophysiologie interne
+T21	DISO 843 865	affoulement tissulaire
+T22	TEMP 1035 1040	2 ans
+T23	DISO 1142 1165	déformations crâniennes
+T24	DISO 1185 1201	craniosténurines

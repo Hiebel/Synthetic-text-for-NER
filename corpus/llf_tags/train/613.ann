@@ -1,0 +1,26 @@
+T1	LIVB 15 22	patient
+T2	DISO 66 89	hypertension artérielle
+T3	ANAT 79 89	artérielle
+T4	DISO 96 121	diabète insulinodépendant
+T5	PROC 127 149	traitement substitutif
+T6	CHEM 157 173	glycémie glyquée
+T7	PROC 178 200	radiographie du bassin
+T8	ANAT 194 200	bassin
+T9	DISO 212 221	anomalies
+T10	PROC 226 238	angiographie
+T11	Concept_Idea 256 286	caractéristiques radiologiques
+T12	MEAS 288 296	figure 1
+T13	PROC 301 325	échographie obstétricale
+T14	LIVB 343 349	malade
+T15	DISO 367 376	anomalies
+T16	PHEN 390 395	pouls
+T17	MEAS 405 418	90 battements
+T18	TEMP 419 429	par minute
+T19	Localization 433 451	fréquence standard
+T20	DEVI 463 484	staff multiphotonique
+T21	PROC 504 519	prise en charge
+T22	MEAS 556 563	simples
+T23	DISO 580 604	signe neuropsychiatrique
+T24	MEAS 638 651	spectaculaire
+T25	PROC 661 689	consultation ophtalmologique
+T26	TEMP 706 712	8 mois

@@ -1,0 +1,92 @@
+T1	MEAS 4 12	première
+T2	PROC 13 25	consultation
+T3	Hospital 30 38	urgences
+T4	DISO 48 102	tuméfaction douloureuse de la région scapulaire gauche
+T5	ANAT 78 102	région scapulaire gauche
+T6	Localization 96 102	gauche
+T7	TEMP 112 125	depuis 2 mois
+T8	DISO 141 153	vomissements
+T9	PROC 157 172	examen clinique
+T10	LIVB 187 194	patient
+T11	MEAS 198 205	mauvais
+T12	Concept_Idea 206 218	état général
+T13	DISO 225 231	fièvre
+T14	DISO 242 259	signes infectieux
+T15	PROC 277 292	examen physique
+T16	DISO 302 315	particularité
+T17	PROC 320 337	tomodensitométrie
+T18	PROC 339 379	TDM) cervico-thoraco-abdomino- pelvienne
+T19	ANAT 344 379	cervico-thoraco-abdomino- pelvienne
+T20	DISO 400 490	masse tissulaire du lobe supérieur cervicale inférieure antero-fémoral gauches métatarsien
+T21	ANAT 420 490	lobe supérieur cervicale inférieure antero-fémoral gauches métatarsien
+T24	Localization 471 490	gauches métatarsien
+T25	MEAS 500 504	5 cm
+T26	Concept_Idea 508 517	grand axe
+T27	MEAS 526 530	7 cm
+T28	Concept_Idea 534 542	diamètre
+T29	DISO 562 590	nodule polylobés éosinophile
+T30	ANAT 608 630	pli mésentérique droit
+T31	Localization 625 630	droit
+T32	ANAT 651 695	anses intestinales inférieure superficielles
+T33	Localization 681 695	superficielles
+T34	ANAT 715 759	péribronchique postéro-temporale postérieure
+T35	Localization 748 759	postérieure
+T36	PHEN 802 820	suites opératoires
+T37	MEAS 829 836	simples
+T38	PROC 842 872	traitement médical substitutif
+T39	PROC 888 910	contrôle préopératoire
+T40	MEAS 921 929	correcte
+T41	PROC 934 951	geste chirurgical
+T42	PROC 973 1063	néphrectomie percutanée segmentaire axillaire élargie transantrieure médiane superficielle
+T43	PROC 1077 1145	curage ganglionnaire endonopharyngécto-duodénale latérale bilatérale
+T44	Localization 1135 1145	bilatérale
+T45	ANAT 1165 1206	annexes thoraciques supérieures latérales
+T46	Localization 1197 1206	latérales
+T47	ANAT 1246 1274	veines jugulaires inferieurs
+T48	Localization 1264 1274	inferieurs
+T49	PROC 1300 1330	anastomose sur lame cunéiforme
+T50	PROC 1340 1363	techniques histologique
+T51	PROC 1372 1384	intervention
+T52	PROC 1409 1466	hystérectomie totale termino-terminale supérieure externe
+T54	Localization 1459 1466	externe
+T55	ANAT 1488 1542	parties molles para vertébrales abdominales proximales
+T57	Localization 1552 1570	quadrant supérieur
+T58	PROC 1607 1770	ostéotomie longitudinale longitudinale profonde asymétrique extemporané tridactyloïdienne dorsale circonférentielle basithoracique médial Bifurcationnelle AQUI/BKO
+T61	PROC 1788 1828	rééducation fonctionnelle postopératoire
+T62	PROC 1844 1865	toilette respiratoire
+T63	ANAT 1853 1865	respiratoire
+T64	DISO 2319 2340	appendicite chronique
+T65	DISO 2368 2428	insuffisance hépato-occlusive musculo-métaphysaire terminale
+T66	ANAT 2381 2428	hépato-occlusive musculo-métaphysaire terminale
+T67	LIVB 2437 2444	patient
+T68	Concept_Idea 2454 2457	âge
+T69	PHEN 2470 2479	grossesse
+T70	PROC 2528 2545	bilan étiologique
+T71	DISO 2549 2586	diabète gestationistico-néphrotoxique
+T72	MEAS 2591 2601	spécifique
+T73	DISO 2616 2638	vomissements néonataux
+T74	DISO 2651 2667	signes cliniques
+T75	DISO 2703 2721	crises convulsives
+T76	DISO 2731 2760	anomalies neuropsychiatriques
+T77	PROC 2774 2789	examen clinique
+T78	LIVB 2807 2813	enfant
+T79	MEAS 2817 2824	mauvais
+T80	Concept_Idea 2825 2837	état général
+T81	MEAS 2848 2853	50 cm
+T82	DISO 2884 2896	constipation
+T83	CHEM 2921 2936	solution lactée
+T84	PROC 3039 3059	allaitement maternel
+T85	DISO 3066 3087	problème psychomoteur
+T86	Hospital 3205 3241	services correctionnels pédiatriques
+T87	TEMP 3263 3280	3e année primaire
+T88	PROC 3307 3348	contraception hormonale substitutionnelle
+T89	DISO 3414 3433	épisodes déprimants
+T90	Concept_Idea 3469 3487	plan hémodynamique
+T91	Concept_Idea 3512 3534	habitudes alimentaires
+T92	PROC 3572 3598	séance parents-accoucheurs
+T93	Concept_Idea 3792 3809	rythme tensionnel
+T94	DISO 3866 3890	troubles électrolytiques
+T95	PROC 4113 4143	pression artérielle préremplie
+T96	ANAT 4122 4143	artérielle préremplie
+T97	MEAS 4165 4176	110/55 mmHg
+T98	PROC 4237 4288	perfusions endoscopiques intraveineuses percutanées

@@ -1,0 +1,27 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	PROC 37 42	admis
+T4	Hospital 46 53	urgence
+T5	DISO 63 98	douleurs abdomino-pelviennes aiguës
+T6	ANAT 72 91	abdomino-pelviennes
+T7	PROC 102 117	examen clinique
+T8	PROC 123 143	reprise chirurgicale
+T9	DISO 160 181	détresse respiratoire
+T10	PHEN 169 181	respiratoire
+T11	DISO 188 221	syndrome d'épanchement péritonéal
+T12	ANAT 211 221	péritonéal
+T13	MEAS 230 234	deux
+T14	ANAT 235 253	champs pulmonaires
+T15	DISO 266 282	signes cliniques
+T16	PROC 296 315	bilan préopératoire
+T17	Concept_Idea 333 344	température
+T18	MEAS 347 353	37,2°c
+T19	DISO 374 380	fièvre
+T20	CHEM 399 410	antalgiques
+T21	DOSE 412 416	1 mg
+T22	CHEM 419 429	Isoniazide
+T23	PROC 444 457	sérologie VIH
+T24	MEAS 464 472	négative
+T25	PROC 487 539	dosage de l'hormonothrone gonadotrophine chorionique
+T26	MEAS 555 562	positif
+T27	MEAS 565 573	16 ng/ml

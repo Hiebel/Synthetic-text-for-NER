@@ -1,0 +1,20 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	PROC 42 67	antécédents pathologiques
+T4	MEAS 68 76	notables
+T5	PROC 80 95	examen clinique
+T6	PROC 100 109	admission
+T7	LIVB 122 128	enfant
+T8	PHEN 175 187	respiratoire
+T9	DISO 189 199	apyrétique
+T10	Concept_Idea 209 220	température
+T11	MEAS 223 228	37°6C
+T12	ANAT 230 240	tachycarde
+T13	MEAS 243 261	100 battements/min
+T14	PROC 267 293	pression artérielle pulsée
+T15	ANAT 276 293	artérielle pulsée
+T16	MEAS 302 311	70/60mmHg
+T18	ANAT 322 339	pleuro-pulmonaire
+T19	DISO 397 411	amaigrissement
+T20	MEAS 422 427	15 kg
+T21	TEMP 431 440	deux mois

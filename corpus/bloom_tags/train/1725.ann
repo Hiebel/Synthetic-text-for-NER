@@ -1,0 +1,39 @@
+T1	LIVB 28 35	patient
+T2	DISO 70 97	paralysie du secteur facial
+T3	ANAT 83 97	secteur facial
+T5	ANAT 127 154	péricardique basithoracique
+T6	PROC 158 174	examen somatique
+T7	DISO 186 199	particularité
+T8	PROC 204 244	ponction liquide pleural intrarachidiens
+T9	ANAT 213 244	liquide pleural intrarachidiens
+T10	PROC 246 249	PLI
+T11	PROC 254 295	injection des produits de contraste iodés
+T12	CHEM 268 295	produits de contraste iodés
+T13	DEVI 301 318	cathéter artériel
+T14	ANAT 310 318	artériel
+T15	DISO 376 405	atteinte hypodense hypoguidée
+T16	ANAT 385 405	hypodense hypoguidée
+T17	DISO 411 430	anomalies kystiques
+T18	TEMP 445 458	premiers mois
+T19	MEAS 488 500	progressives
+T20	LIVB 529 537	patiente
+T21	PROC 560 590	radiothérapie locale adjuvante
+T23	DOSE 660 667	2 mg/kg
+T24	TEMP 667 672	/jour
+T25	PROC 686 741	kinésithérapie rééducation fonctionnelle postopératoire
+T26	DISO 790 807	dyspnée sifflante
+T27	TEMP 824 838	depuis 4 jours
+T28	MEAS 848 871	de plus en plus pesante
+T29	DISO 912 920	polypnée
+T30	MEAS 935 941	rapide
+T31	MEAS 953 966	25 cycles/min
+T32	MEAS 969 982	90 cycles/min
+T33	PROC 1053 1085	scanner thoraco-abdomino-pelvien
+T34	ANAT 1061 1085	thoraco-abdomino-pelvien
+T35	DISO 1108 1130	masse arrhœnophagienne
+T36	DISO 1141 1181	adénopathies cervico-laryngolaryngiennes
+T37	DISO 1230 1254	thrombus phlébitangulant
+T38	PROC 1267 1300	imagerie par résonance magnétique
+T39	PROC 1302 1305	IRM
+T40	PROC 1308 1323	scannographique
+T41	DISO 1341 1532	épuration pulmonaire médiastinale latérale bilatérale dorsolatérale thoracique homolatérale sus-sternale infiltro-intra scissurale pariétale inférosurrénalienne antihyroperoxydase tumoralisée

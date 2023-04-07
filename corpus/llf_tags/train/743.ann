@@ -1,0 +1,30 @@
+T1	LIVB 3 10	patient
+T2	DISO 52 59	diabète
+T3	PROC 60 66	traité
+T4	CHEM 73 102	insuline insulinopelventielle
+T5	DOSE 104 109	500mg
+T6	TEMP 109 111	/j
+T7	DISO 133 149	dyspnée d'effort
+T8	PHEN 165 173	réponses
+T9	Concept_Idea 203 214	température
+T10	MEAS 223 227	39°C
+T11	ANAT 234 271	tension artérielle musculo-tendineuse
+T12	ANAT 242 252	artérielle
+T13	MEAS 274 287	90 / 80 mm Hg
+T14	PROC 291 306	examen clinique
+T15	DISO 327 350	déficit sensitivomoteur
+T16	DISO 354 370	cardiovasculaire
+T17	DISO 380 408	symptomatologie neurologique
+T18	PROC 414 436	radiographie du bassin
+T19	ANAT 430 436	bassin
+T20	DISO 457 497	thrombophlébite anéchogène hypokinétique
+T21	DISO 503 523	signes radiologiques
+T22	DISO 540 579	sensibilité périrénalvéolaire calcifiée
+T23	ANAT 588 599	rein gauche
+T24	Localization 593 599	gauche
+T25	PROC 604 645	scanner cervico-thoraco-abdomino- pelvien
+T26	ANAT 612 645	cervico-thoraco-abdomino- pelvien
+T27	MEAS 659 665	normal
+T28	PROC 669 694	étude immunohistochimique
+T29	DISO 722 768	syndrome infectieux myxoméningococcus pyogenes
+T30	LIVB 791 797	germes

@@ -1,0 +1,50 @@
+T1	LIVB 4 15	jeune femme
+T2	DISO 68 90	hypothyroïdie primaire
+T3	DISO 106 146	hypopituitarie hypocholestérolénoïdienne
+T4	DISO 164 199	hyperparathyroïdie néphrotropinante
+T5	PROC 204 209	reçue
+T6	Hospital 219 227	urgences
+T7	DISO 263 284	détresse respiratoire
+T8	PHEN 272 284	respiratoire
+T9	MEAS 310 321	progressive
+T10	PROC 338 353	prise en charge
+T11	MODE 377 387	voie orale
+T12	CHEM 475 488	dexaméthasone
+T13	DOSE 490 496	3mg/kg
+T14	TEMP 496 504	/semaine
+T15	CHEM 517 528	Cyclosérine
+T16	CHEM 530 543	Aspartic acid
+T17	CHEM 547 568	Sulfanyl-méthionamide
+T18	PROC 571 579	anamnèse
+T19	LIVB 596 600	elle
+T20	ANAT 650 660	coronarien
+T21	LIVB 748 751	ses
+T22	LIVB 752 759	enfants
+T23	DISO 766 800	symptomatologie clinico-biologique
+T24	TEMP 809 833	quelques jours plus tard
+T25	LIVB 840 842	sa
+T26	PROC 843 855	consultation
+T27	DISO 872 888	troubles visuels
+T28	DISO 934 958	syndromes neurorragiques
+T29	ANAT 1258 1265	pleural
+T30	DISO 1373 1407	méningiome choriorétinien pigmenté
+T31	DISO 1440 1463	diplopie orbitomotrices
+T32	DISO 1485 1519	manifestations neuropsychiatriques
+T33	DISO 1534 1564	désorientation temporospatiale
+T34	DISO 1625 1647	neuroépilepsie globale
+T35	DISO 1729 1755	diabète pathophysiologique
+T36	DISO 1804 1830	malformations congénitales
+T37	DISO 1865 1886	neurofibrome primitif
+T38	Concept_Idea 1967 1989	critères diagnostiques
+T39	ANAT 2274 2290	extra-thoracique
+T40	CHEM 2302 2312	mitomycine
+T41	LIVB 2344 2352	patients
+T42	DISO 2368 2390	néphropathie chronique
+T43	PROC 2394 2408	interrogatoire
+T44	LIVB 2413 2421	patients
+T45	DISO 2455 2485	paralysie du sinus ethmoïdales
+T46	ANAT 2468 2485	sinus ethmoïdales
+T47	MEAS 2487 2492	trois
+T48	LIVB 2493 2501	patients
+T49	DISO 2525 2540	symptomatologie
+T50	DISO 2650 2661	exophtalmie

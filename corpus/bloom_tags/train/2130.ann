@@ -1,0 +1,45 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 37	admise
+T3	Hospital 42 64	urgences chirurgicales
+T4	DISO 84 165	syndrome d'épanchement intracavitaire liquidien érythémato-pustuleux hémorragique
+T6	DISO 180 196	dyspnée d'effort
+T7	MEAS 211 217	rapide
+T8	CHEM 243 253	furosémide
+T9	MODE 258 268	voie orale
+T10	DOSE 270 278	0,5mg/kg
+T11	TEMP 278 284	/heure
+T12	CHEM 299 325	hydroxyindole acéthylamide
+T13	CHEM 339 352	métronidazole
+T14	LIVB 411 419	patiente
+T15	DISO 455 468	consanguinité
+T16	DISO 475 498	pathologie neurologique
+T17	DISO 526 549	traumatisme oculomoteur
+T18	DISO 560 581	troubles métaboliques
+T19	DISO 592 612	diabète hypertenseur
+T20	DISO 665 689	anomalies morphologiques
+T21	DISO 704 728	chondromatose cœliosante
+T22	DISO 854 863	symptômes
+T23	DEVI 949 975	médications vasoactivantes
+T24	PROC 1386 1430	tomodensitométrie thoraco-abdomino-pelvienne
+T25	ANAT 1404 1430	thoraco-abdomino-pelvienne
+T26	PROC 1446 1455	injection
+T27	CHEM 1459 1484	produit de contraste iodé
+T28	DISO 1509 1627	masse hétérogène tissulaire sous claviculaire bilatérale latérale hypodense pariétale basithoracique sus-hypohypodense
+T29	ANAT 1537 1784	sous claviculaire bilatérale latérale hypodense pariétale basithoracique sus-hypohypodense prenant tout le long l'épiploon mesurant 25mm de grand axe occupant presque toute la fosse iliaque droite refoulant intimement l'artère rénale supra utérine
+T31	MEAS 1669 1673	25mm
+T32	Concept_Idea 1677 1686	grand axe
+T33	ANAT 1713 1733	fosse iliaque droite
+T34	Localization 1727 1733	droite
+T35	Localization 1771 1776	supra
+T36	ANAT 1813 1838	parathyroïdienne biliaire
+T37	PROC 1844 1871	scanner pelvien explorateur
+T38	ANAT 1852 1871	pelvien explorateur
+T39	DISO 1895 1920	localisations secondaires
+T40	PROC 1925 1954	prélèvements bactériologiques
+T41	MEAS 1980 1988	positifs
+T42	CHEM 2053 2077	sulfamides antibiotiques
+T43	CHEM 2124 2138	Ciprofloxacine
+T44	CHEM 2203 2214	Riftriaxone
+T45	DOSE 2404 2411	10mg/kg
+T46	TEMP 2411 2413	/j
+T47	CHEM 2423 2436	métronidazole

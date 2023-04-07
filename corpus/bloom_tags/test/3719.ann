@@ -1,0 +1,24 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 71	antécédents pathologiques
+T3	MEAS 72 84	particuliers
+T4	PROC 86 92	admise
+T5	Hospital 97 105	urgences
+T6	DISO 115 156	douleur thoracique aiguë à la bupivacaine
+T7	ANAT 123 133	thoracique
+T8	CHEM 145 156	bupivacaine
+T9	PROC 160 174	examen initial
+T10	LIVB 188 196	patiente
+T11	MEAS 200 203	bon
+T12	Concept_Idea 204 216	état général
+T13	PHEN 225 230	pouls
+T14	MEAS 242 253	70 batt/min
+T15	LIVB 255 259	Elle
+T16	DISO 266 276	apyrétique
+T17	DISO 300 320	ictère cholestatique
+T18	DISO 341 374	syndrome d'épanchement péritonéal
+T19	ANAT 364 374	péritonéal
+T20	DISO 379 418	dilatation des bronches périthoraciques
+T21	ANAT 394 418	bronches périthoraciques
+T22	DISO 461 470	symptômes
+T23	DISO 562 579	déficit neurogène
+T24	Localization 603 613	bilatérale

@@ -1,0 +1,24 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 31 39	patiente
+T3	MEAS 43 46	bon
+T4	Concept_Idea 47 59	état général
+T5	DISO 61 72	polypnéique
+T6	MEAS 75 88	24 cycles/min
+T7	PHEN 98 116	suites opératoires
+T8	MEAS 117 124	simples
+T9	ANAT 131 138	abdomen
+T10	MEAS 139 147	distendu
+T11	DISO 154 192	sensibilité de la fosse iliaque droite
+T12	ANAT 172 192	fosse iliaque droite
+T13	Localization 186 192	droite
+T14	DISO 198 212	épigastralgies
+T15	PROC 217 247	bilan biologique préopératoire
+T16	PROC 265 284	C réactive protéine
+T17	PROC 286 289	CRP
+T18	MEAS 291 297	élevée
+T19	MEAS 300 308	120 mg/l
+T20	PROC 331 348	bilan immunitaire
+T21	MEAS 355 362	négatif
+T22	PROC 367 391	scanner abdomino-pelvien
+T23	ANAT 375 391	abdomino-pelvien
+T24	DISO 409 430	pancréatite stade DHA

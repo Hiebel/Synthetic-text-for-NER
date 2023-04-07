@@ -1,0 +1,26 @@
+T1	LIVB 26 36	madame H.Z
+T2	DISO 58 83	antécédents pathologiques
+T3	MEAS 84 96	particuliers
+T4	PROC 98 104	admise
+T5	Hospital 109 117	urgences
+T6	DISO 127 148	détresse respiratoire
+T7	PHEN 136 148	respiratoire
+T8	TEMP 158 171	depuis 2 mois
+T9	DISO 186 202	syndrome fébrile
+T10	PROC 220 229	admission
+T11	LIVB 233 241	patiente
+T12	DISO 257 287	douleurs épigastriques aiguées
+T13	ANAT 266 279	épigastriques
+T14	MEAS 302 309	modérée
+T15	ANAT 323 334	flanc droit
+T16	Localization 329 334	droit
+T17	ANAT 348 359	péritonéaux
+T18	DISO 406 422	hémoperitoinurie
+T19	DISO 431 454	kyste hydatique nécrosé
+T20	LIVB 462 466	Elle
+T21	CHEM 483 511	corticothérapie substitutive
+T22	MODE 516 526	voie orale
+T23	DOSE 537 543	100 mg
+T24	CHEM 546 564	hydroxychloroquine
+T25	DOSE 570 576	400 mg
+T26	CHEM 580 593	dexaméthasone

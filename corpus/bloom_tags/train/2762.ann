@@ -1,0 +1,25 @@
+T1	LIVB 0 8	Patiente
+T2	Concept_Idea 30 55	antécédents pathologiques
+T3	MEAS 56 68	particuliers
+T4	PROC 70 80	consultait
+T5	Hospital 85 93	urgences
+T6	DISO 103 123	douleur épigastrique
+T7	ANAT 111 123	épigastrique
+T8	TEMP 133 147	depuis un mois
+T9	PROC 151 166	examen clinique
+T10	PROC 171 180	admission
+T11	LIVB 194 202	patiente
+T12	Concept_Idea 217 235	plan hémodynamique
+T13	PHEN 245 257	sensibilités
+T14	ANAT 274 294	fosse iliaque droite
+T15	Localization 288 294	droite
+T16	ANAT 301 314	pelvis utérin
+T17	PROC 319 336	biologie initiale
+T18	DISO 359 375	hyperleucocytose
+T19	MEAS 378 412	12800 éléments par millimètre cube
+T20	ANAT 422 437	globules blancs
+T21	DOSE 439 449	10000/mm 3
+T22	PROC 456 485	prélèvements bactériologiques
+T23	MEAS 494 502	négatifs
+T24	CHEM 536 552	sulfaméthoxazole
+T25	CHEM 567 581	ciprofloxacine

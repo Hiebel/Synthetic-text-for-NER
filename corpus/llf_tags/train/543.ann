@@ -1,0 +1,76 @@
+T1	PROC 1 12	Observation
+T2	MEAS 13 14	2
+T3	LIVB 20 25	femme
+T4	DISO 47 72	antécédents pathologiques
+T5	MEAS 73 85	particuliers
+T6	PROC 93 99	admise
+T7	Hospital 103 123	service des urgences
+T8	DISO 132 189	syndrome d'épanchement liquidien du plexus brachial droit
+T9	ANAT 155 164	liquidien
+T10	ANAT 168 189	plexus brachial droit
+T11	Localization 184 189	droit
+T12	TEMP 199 213	depuis 8 jours
+T13	MEAS 228 243	progressivement
+T14	Concept_Idea 247 253	taille
+T15	LIVB 290 298	patiente
+T16	DISO 305 349	crise convulsive tonicoclonale hypokinétique
+T17	CHEM 381 395	neuroleptiques
+T18	CHEM 415 425	corticoïde
+T19	CHEM 428 438	antalgique
+T20	DOSE 452 458	1mg/kg
+T21	TEMP 458 460	/j
+T22	MODE 464 480	intramusculaires
+T23	CHEM 493 523	acide acétyle glycortismalique
+T24	MODE 528 548	voie intramusculaire
+T25	DISO 570 589	symptômes cliniques
+T26	DISO 613 633	déficit neurologique
+T27	PROC 655 674	bilan préopératoire
+T28	PHEN 709 730	grossesse monofoetale
+T29	TEMP 752 763	25 semaines
+T30	LIVB 907 917	nourrisson
+T31	TEMP 925 932	10 mois
+T32	LIVB 963 966	son
+T33	LIVB 967 973	épouse
+T34	LIVB 977 979	sa
+T35	LIVB 980 993	belle-famille
+T36	LIVB 1038 1049	petit frère
+T37	MEAS 1274 1281	simples
+T38	PROC 1304 1327	accouchement médicalisé
+T39	TEMP 1442 1451	24 heures
+T40	TEMP 1455 1462	5heures
+T41	TEMP 1535 1539	4h30
+T42	PROC 1563 1578	soins prénataux
+T43	PROC 1589 1618	consultation médicale urgente
+T44	PROC 1647 1672	chimiothérapie palliative
+T45	DEVI 1691 1736	amoxicilline acide clavulanique intraveineuse
+T46	PROC 1750 1773	radiothérapie adjuvante
+T47	DISO 3099 3121	insuffisance cardiaque
+T48	ANAT 3112 3121	cardiaque
+T49	DISO 3126 3139	choc septique
+T50	DISO 3147 3167	symptômes infectieux
+T51	LIVB 3177 3185	patiente
+T52	Concept_Idea 3233 3251	mariage consanguin
+T53	DISO 3297 3310	particularité
+T54	DISO 3323 3349	syndrome hémorragique aigu
+T55	MEAS 3354 3364	spécifique
+T56	TEMP 3381 3391	09/12/2012
+T57	DISO 3411 3417	fièvre
+T58	TEMP 3427 3443	depuis 24 heures
+T59	PROC 3453 3468	examen clinique
+T60	DISO 3478 3492	pneumocéphalie
+T61	MEAS 3509 3515	40 ° C
+T62	DISO 3524 3548	déficit sensitivo-moteur
+T63	DISO 3558 3576	signe neurologique
+T64	PHEN 3608 3628	grossesse gémellaire
+T65	PROC 3666 3699	corticothérapie substitutionnelle
+T66	Concept_Idea 3737 3768	rythmes sinus maxillo-trachéaux
+T67	Localization 3855 3866	antérieures
+T68	DISO 3901 3925	anomalies morphologiques
+T69	DISO 3969 4006	tableau psychiatrique pathognomonique
+T70	DISO 4067 4102	trouble psychotique polymalformatif
+T71	DISO 4140 4170	récidive puerpérale secondaire
+T72	PROC 4196 4215	bilan préopératoire
+T73	DISO 4452 4475	infestation bactérienne
+T74	DISO 4622 4660	complications secondaires infectieuses
+T76	PROC 4733 4763	enquête anamnèse fonctionnelle
+T78	DISO 4873 4889	crise convulsive

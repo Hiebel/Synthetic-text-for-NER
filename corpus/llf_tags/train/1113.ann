@@ -1,0 +1,99 @@
+T1	PROC 2 18	bilan biologique
+T2	DISO 32 48	hyperleucocytose
+T3	MEAS 51 58	1,6 g/L
+T4	Concept_Idea 60 62	VN
+T5	MEAS 64 73	1200 UI/L
+T6	PROC 79 101	radiographie du thorax
+T7	ANAT 95 101	thorax
+T8	PROC 108 155	tomodensitométrie de l’abdomen sans préparation
+T9	ANAT 131 138	abdomen
+T10	PROC 204 228	laparotomie exploratrice
+T11	PROC 271 319	laminectomie totale des veines jugulaires droite
+T12	ANAT 295 319	veines jugulaires droite
+T13	Localization 313 319	droite
+T14	PROC 332 367	lavage ganglionnaire cervico-facial
+T15	ANAT 339 367	ganglionnaire cervico-facial
+T16	Localization 390 396	gauche
+T17	MEAS 429 436	simples
+T18	PROC 440 459	examen histologique
+T19	DISO 481 551	carcinome iléo-caecal infiltrant les voies biliaire principale gauches
+T20	ANAT 491 502	iléo-caecal
+T21	ANAT 518 551	voies biliaire principale gauches
+T22	Localization 544 551	gauches
+T23	DISO 565 639	processus carcinomateux métastatique nécrotico-rénalvéolaire intrakystique
+T24	PROC 662 684	cholécystectomie large
+T25	TEMP 688 717	troisième jour postopératoire
+T26	PROC 722 747	scanner thoraco-abdominal
+T27	ANAT 730 747	thoraco-abdominal
+T28	PROC 762 806	curage ganglionnaire axillaire scanno-guidée
+T29	DISO 826 851	récidive tumorale maligne
+T30	DISO 861 891	adénopathies hépato-trachéales
+T31	ANAT 874 891	hépato-trachéales
+T32	DISO 901 930	métastase jugulo-carotidienne
+T33	ANAT 911 930	jugulo-carotidienne
+T34	PROC 935 956	contrôle radiologique
+T35	MEAS 970 976	normal
+T36	PROC 990 1026	TDM crânio-pulmonaires préopératoire
+T37	ANAT 994 1012	crânio-pulmonaires
+T38	DISO 1055 1125	sensibilité pleuro-pulmonaire maxillaire supérieure bilatérale lobulée
+T40	Localization 1107 1125	bilatérale lobulée
+T41	ANAT 1137 1167	nerf orbitaire supérieur droit
+T42	Localization 1162 1167	droit
+T43	LIVB 1192 1198	malade
+T44	DISO 1203 1270	tumeur pariétale superficielle réno-gastrique mésentérique kystique
+T46	MEAS 1279 1285	ACR2M0
+T47	MEAS 1295 1300	16 cm
+T48	Concept_Idea 1304 1313	grand axe
+T49	MEAS 1318 1323	10 cm
+T50	Concept_Idea 1327 1336	petit axe
+T51	PROC 1341 1361	biopsie chirurgicale
+T54	MEAS 1457 1463	ACR3M0
+T55	Concept_Idea 1473 1497	extension intrasomatique
+T56	MEAS 1508 1513	30 mm
+T57	ANAT 1527 1561	nerf ventral inférieur homolatéral
+T58	Localization 1550 1561	homolatéral
+T59	DISO 1583 1602	neurofibroblastique
+T60	PHEN 1612 1624	vascularisée
+T61	DISO 1643 1670	mégacaryocyte inflammatoire
+T62	DISO 1693 1719	symptomatologie rhumatoïde
+T63	PROC 1724 1746	traitement chirurgical
+T65	ANAT 1852 1992	vésicule iléale sus hépatique parieto-ventriculaire antérieure controlatérale gauche fundique antero-mandibulaire postérieure externe droite
+T67	Localization 1966 1992	postérieure externe droite
+T68	ANAT 2011 2055	quadrant supéro-externe gastrocnémien médian
+T69	Localization 2049 2055	médian
+T70	ANAT 2075 2149	segments distaux coliques pancréatiformes palpébraux inférieurs inférieurs
+T71	Localization 2139 2149	inférieurs
+T72	ANAT 2171 2213	structures urétérales digestives centrales
+T73	ANAT 2229 2299	vesicules péritonéales eccrines dorsales pélocalicielles angiomateuses
+T76	PROC 2579 2628	reconstruction du nerf thoraco abdomino-abdominal
+T77	ANAT 2597 2628	nerf thoraco abdomino-abdominal
+T78	CHEM 2630 2661	amoxicilline acide clavulanique
+T79	CHEM 2663 2678	corticostéroïde
+T80	MEAS 2716 2723	simples
+T81	DISO 2729 2750	détresse respiratoire
+T82	DISO 2754 2775	récidive neurologique
+T83	LIVB 2780 2787	patient
+T84	PROC 2803 2838	chimiothérapie palliative adjuvante
+T85	PROC 2866 2903	complément thérapeutique conservateur
+T86	TEMP 2931 2941	trois mois
+T87	LIVB 2952 2964	jeune garçon
+T88	TEMP 2972 2978	17 ans
+T89	PROC 3029 3051	consultation prénatale
+T90	TEMP 3067 3072	5 ans
+T91	PROC 3095 3119	échographie obstétricale
+T93	PROC 3236 3261	exploration échographique
+T94	DISO 3286 3328	distension péritonéale fœtale hypoéchogène
+T95	ANAT 3297 3328	péritonéale fœtale hypoéchogène
+T96	DISO 3349 3394	métastase utérine mésentérique rénale jugulée
+T98	DISO 3410 3444	méningo-encéphalopathie diabétique
+T99	DISO 3458 3520	myomectasie tuberculeuse mucokératoclonale congénitale maligne
+T100	DISO 3535 3613	insuffisance hépato-surrénalienne péri médullaire rétropéritonéale latéralisée
+T102	DISO 3631 3690	dilatation intrapalpébrale hyperkératosensorielle terminale
+T103	PROC 3706 3767	scintigraphie cardio-trachéale scanno-guidée cervico-thyroïde
+T104	ANAT 3720 3767	cardio-trachéale scanno-guidée cervico-thyroïde
+T105	DISO 3807 3830	déficit sensitivomoteur
+T106	DISO 3840 3859	syndrome infectieux
+T107	DISO 3892 3944	splénomégalie polymicronodulaire pseudo kératinisant
+T108	PROC 3955 3972	Tomodensitométrie
+T109	PROC 3995 4019	angioscanner automatisés
+T110	DISO 4086 4161	lésionnel traumatique tissulaire ischémique stade II hétérogène métatarsien

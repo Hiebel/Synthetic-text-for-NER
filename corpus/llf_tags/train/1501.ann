@@ -1,0 +1,80 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	5 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 79	particuliers
+T5	PROC 85 94	admission
+T6	Hospital 98 131	service des urgences pédiatriques
+T7	Hospital 135 142	CHU-HDD
+T8	DISO 152 161	dysphonie
+T9	Concept_Idea 206 218	état général
+T10	Concept_Idea 240 263	état neuropsychiatrique
+T11	PROC 321 342	ventilation mécanique
+T12	PROC 352 367	examen clinique
+T13	LIVB 387 394	patient
+T14	PHEN 398 407	grossesse
+T15	Concept_Idea 422 440	plan hémodynamique
+T16	ANAT 447 478	aires ganglionnaires cervicales
+T17	MEAS 484 503	légèrement dégagées
+T18	Localization 508 530	extrémités supérieures
+T19	DISO 544 579	pâleur cutanéo-muqueuse anictérique
+T21	DISO 646 674	symptomatologie obstétricale
+T22	LIVB 699 705	malade
+T23	PROC 711 733	TDM cervico-thoracique
+T24	ANAT 715 733	cervico-thoracique
+T25	DISO 782 804	anomalie morphologique
+T26	DISO 808 820	métaphorique
+T27	PROC 825 858	fibroscopie naso-gastro-duodénale
+T28	ANAT 837 858	naso-gastro-duodénale
+T29	DISO 885 976	distension digestive jugulocarotido-mandibulaire postéro-supra mandibulaire gauche associée
+T31	Localization 961 976	gauche associée
+T32	DISO 998 1066	tumeur rétro-pylorique lobaire retro péritonéale hypogastroduodencée
+T34	MEAS 1076 1080	2 cm
+T35	Concept_Idea 1084 1093	grand axe
+T36	MEAS 1122 1127	3 ème
+T37	Concept_Idea 1136 1145	caractère
+T38	DISO 1179 1231	prolifération tumorale hétérogène tissulaire maligne
+T39	ANAT 1362 1372	sein droit
+T40	Localization 1367 1372	droit
+T41	PROC 1377 1394	scanner abdominal
+T42	ANAT 1385 1394	abdominal
+T43	PROC 1417 1430	radiothérapie
+T44	DISO 1444 1489	lésion polypoïde hyperchromateuse infiltrante
+T45	PROC 1504 1527	injection intraveineuse
+T46	DOSE 1531 1535	50cc
+T47	CHEM 1539 1559	produit de contraste
+T48	ANAT 1577 1591	paroi vésicale
+T49	ANAT 1617 1654	quadrants supéro-latéraux thoraciques
+T50	ANAT 1676 1704	parties molles crico-iliaque
+T51	ANAT 1820 1834	zones charnues
+T52	ANAT 1861 1886	ganglion axillaire commun
+T53	PROC 1891 1912	biopsie scanno-guidée
+T54	Concept_Idea 1992 2013	limites diagnostiques
+T55	Concept_Idea 2027 2058	localisation extracytoplasmique
+T56	DISO 2079 2111	tuberculose érythémato-ascitique
+T57	PROC 2168 2197	prise en charge adjudicatrice
+T58	PROC 2203 2222	rééducation motrice
+T59	PROC 2236 2287	néphrectomie totale transoesophagienne exploratrice
+T62	PROC 2483 2525	explorations endoscopiques postopératoires
+T63	PROC 2553 2580	reconstruction extemporanée
+T64	PROC 2599 2616	résection in situ
+T65	PROC 2633 2681	séjour para laryngo-laryngoloplastie fractionnée
+T66	PROC 2750 2783	expectoration tomodensitométrique
+T67	PROC 2880 2966	contrôle locorégional du nerf laryngé supérieur droit postéro-sinus maxillaire interne
+T69	Localization 2928 2966	droit postéro-sinus maxillaire interne
+T70	MEAS 2983 3007	strictement satisfaisant
+T71	DISO 3051 3099	carcinomes épidermoïdes hypoéchogènes malignités
+T72	PROC 3136 3158	traitement chirurgical
+T73	PHEN 3172 3190	suites opératoires
+T74	TEMP 3196 3206	immédiates
+T75	MEAS 3207 3214	simples
+T76	LIVB 3218 3226	patiente
+T77	PROC 3241 3270	rachianesthésie peropératoire
+T78	TEMP 3280 3287	5 jours
+T79	Concept_Idea 3311 3329	état hémodynamique
+T80	DISO 3348 3367	syndrome infectieux
+T81	PROC 3452 3473	thérapie chirurgicale
+T82	DISO 3539 3545	fièvre
+T83	DISO 3549 3574	signes neuropsychiatrique
+T84	DISO 3584 3605	détresse respiratoire
+T85	PHEN 3593 3605	respiratoire
+T86	PROC 3611 3644	surveillance clinique pédiatrique

@@ -1,0 +1,33 @@
+T1	LIVB 28 35	patient
+T2	TEMP 49 55	16 ans
+T3	DISO 61 86	antécédents pathologiques
+T4	MEAS 87 95	notables
+T5	PROC 97 105	consulte
+T6	Hospital 110 118	urgences
+T7	DISO 136 157	détresse respiratoire
+T8	PHEN 145 157	respiratoire
+T9	TEMP 167 183	depuis 72 heures
+T10	MEAS 198 220	rapidement progressive
+T11	DISO 241 266	douleur abdominopelvienne
+T12	ANAT 249 266	abdominopelvienne
+T13	MEAS 293 299	rapide
+T14	Concept_Idea 303 309	volume
+T15	DISO 333 354	hématuries purulentes
+T16	PROC 381 400	bilan préopératoire
+T17	DISO 417 447	anémie hypochrome microcytaire
+T18	DISO 463 469	fièvre
+T19	MEAS 481 486	38°8C
+T20	PROC 491 518	numération formule sanguine
+T21	CHEM 532 551	proteine C réactive
+T22	MEAS 564 581	4 fois la normale
+T23	PROC 594 620	taux d’hémoglobine glyquée
+T24	MEAS 631 635	1,7%
+T25	PROC 640 670	tomodensitométrie encéphalique
+T26	PROC 671 675	TDCI
+T27	DOSE 702 708	2mg/kg
+T28	MODE 712 730	voie intraveineuse
+T29	CHEM 734 745	méthyl-Dopa
+T30	DISO 880 919	paragangliome angioséreux hypertrophiés
+T31	DISO 959 979	syndrome néphrotique
+T32	ANAT 1073 1103	artérielle jugulo-carotidienne
+T33	DISO 1191 1216	localisations secondaires

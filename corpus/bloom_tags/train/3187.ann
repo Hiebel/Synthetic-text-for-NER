@@ -1,0 +1,72 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 70	traitée
+T3	CHEM 78 96	méthylprednisolone
+T4	DOSE 98 104	1mg/kg
+T5	TEMP 104 109	/jour
+T6	CHEM 125 138	bêtaméthasone
+T7	DOSE 140 149	0,5 mg/m²
+T8	TEMP 149 151	/j
+T9	MODE 153 159	per os
+T10	CHEM 171 188	corticoïde inhalé
+T11	PROC 193 211	scanner thoracique
+T12	ANAT 201 211	thoracique
+T13	PROC 225 242	anesthésie locale
+T14	DISO 260 319	masse tissulaire latéro-utérine bilatérale droite hypodense
+T15	Localization 292 309	bilatérale droite
+T16	MEAS 329 334	12 cm
+T17	Concept_Idea 338 347	grand axe
+T18	MEAS 352 356	6 cm
+T19	Concept_Idea 360 373	petite taille
+T20	ANAT 401 419	pavillons iliaques
+T21	ANAT 444 468	sinus cardio-pulmonaires
+T22	DISO 538 573	dilatation ventriculo-surrénalienne
+T23	ANAT 549 573	ventriculo-surrénalienne
+T24	PROC 578 622	tomodensitométrie thoraco-abdomino-pelvienne
+T25	ANAT 596 622	thoraco-abdomino-pelvienne
+T26	LIVB 649 657	patiente
+T27	PROC 664 687	injection intraveineuse
+T28	CHEM 691 711	produit de contraste
+T29	DISO 729 783	épanchement liquidien pariétal gauche antihypoéchogène
+T30	ANAT 741 783	liquidien pariétal gauche antihypoéchogène
+T32	ANAT 827 846	organes thyroïdiens
+T33	ANAT 862 878	paroi abdominale
+T34	ANAT 892 926	greffon phréno-gastro-intestinales
+T35	DISO 948 978	nodule kystique péritissulaire
+T36	DISO 988 1024	adénopathie médiastinale infiltratée
+T37	ANAT 1000 1024	médiastinale infiltratée
+T38	DISO 1052 1074	chondromateuse maligne
+T39	Concept_Idea 1114 1124	caractères
+T40	PROC 1180 1208	techniques d'immuno-marquage
+T41	PROC 1214 1234	immuno-histochimique
+T42	DISO 1315 1322	tumeurs
+T43	DEVI 1381 1392	bandelettes
+T44	DISO 1415 1447	récidive carcinomateuse tumorale
+T45	DISO 1465 1507	adénocarcinome épithélio-gigantocellulaire
+T46	MEAS 1515 1529	multi-moyennés
+T47	ANAT 1553 1572	muqueuses cervicale
+T48	MEAS 1594 1610	supérieure à 1cm
+T49	MEAS 1628 1639	secondaires
+T50	DISO 1743 1765	tuméfaction résiduelle
+T51	MEAS 1777 1792	progressivement
+T52	Concept_Idea 1796 1802	taille
+T53	DISO 1845 1876	symptomatologies inflammatoires
+T54	DISO 1890 1904	amaigrissement
+T55	MEAS 1915 1919	2 kg
+T56	TEMP 1936 1941	7 ans
+T57	MEAS 1955 1980	profondément prurigineuse
+T58	DISO 2035 2056	détresse respiratoire
+T59	PHEN 2044 2056	respiratoire
+T60	Concept_Idea 2107 2124	état respiratoire
+T61	PROC 2141 2165	extirpation chirurgicale
+T62	DISO 2193 2217	lésions pléomélangiennes
+T63	DISO 2227 2249	prurigineuse purulente
+T64	DISO 2449 2486	épanchement du sinus angulo-péribucal
+T65	ANAT 2464 2486	sinus angulo-péribucal
+T66	LIVB 2491 2498	patient
+T67	PROC 2517 2547	radiothérapie locale adjuvante
+T68	ANAT 2560 2567	pelvien
+T69	Localization 2569 2579	bilatérale
+T70	Localization 2583 2586	sus
+T71	MODE 2602 2614	intraveineux
+T72	DOSE 2639 2644	50 Gy
+T73	DISO 2668 2677	symptômes

@@ -1,0 +1,41 @@
+T1	LIVB 29 37	patiente
+T2	DISO 72 110	douleurs abdomino-pelvienne chroniques
+T3	ANAT 81 99	abdomino-pelvienne
+T4	TEMP 120 138	depuis deux années
+T5	DISO 154 168	amaigrissement
+T6	MEAS 179 183	3 kg
+T7	PROC 187 218	échographie abdomino- pelvienne
+T8	ANAT 199 218	abdomino- pelvienne
+T9	DISO 243 267	masse tumorale hypodense
+T10	MEAS 269 277	homogène
+T11	MEAS 281 291	hétérogène
+T12	MEAS 301 306	16 cm
+T13	MEAS 311 316	12 cm
+T14	PROC 337 346	injection
+T15	CHEM 350 370	produit de contraste
+T16	ANAT 387 406	parois intestinales
+T17	Localization 408 414	droite
+T18	DISO 423 450	masse hétérogène tissulaire
+T19	PHEN 482 491	grossesse
+T20	DISO 523 549	adénopathies épigastriques
+T21	ANAT 536 549	épigastriques
+T22	DISO 612 630	fistule péritonéal
+T23	ANAT 620 630	péritonéal
+T24	PROC 635 662	ponction liquide ombilicale
+T25	ANAT 644 662	liquide ombilicale
+T26	PROC 681 702	anesthésie ombilicale
+T27	ANAT 692 702	ombilicale
+T28	MEAS 713 718	70 ml
+T29	MEAS 737 754	environ 20 litres
+T30	PROC 830 861	fibroscopie œsogastro-duodénale
+T31	ANAT 842 861	œsogastro-duodénale
+T32	DISO 875 902	tumeur lithiasique kystique
+T33	ANAT 924 945	structures digestives
+T34	ANAT 1004 1019	anses jéjunales
+T35	MEAS 1028 1034	T4N0M0
+T36	DISO 1054 1103	endométrial polymyomateux myometriale proliférant
+T37	MEAS 1111 1117	T3N2M0
+T38	PROC 1151 1160	injection
+T39	CHEM 1164 1189	produit de contraste iodé
+T40	DISO 1232 1251	mélanome pléomorphe
+T41	DISO 1256 1285	angiomyolipome polynucléaires

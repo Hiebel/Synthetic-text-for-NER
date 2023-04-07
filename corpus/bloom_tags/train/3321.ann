@@ -1,0 +1,24 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 33 39	enfant
+T3	MEAS 43 46	bon
+T4	Concept_Idea 47 59	état général
+T5	DISO 61 71	apyrétique
+T6	MEAS 74 80	37,2°C
+T7	PHEN 88 106	tension artérielle
+T8	ANAT 96 106	artérielle
+T9	MEAS 109 120	100/60 mmhg
+T10	PROC 126 148	auscultation cardiaque
+T11	ANAT 139 148	cardiaque
+T12	ANAT 192 206	auricule droit
+T13	Localization 201 206	droit
+T14	DEVI 215 239	sonde transoesophagienne
+T15	PROC 243 276	échocardiographie transthoracique
+T16	ANAT 261 276	transthoracique
+T19	Localization 343 347	sous
+T21	ANAT 403 423	ventricule supérieur
+T22	Localization 414 423	supérieur
+T23	DISO 442 482	masse hypertrophie hétérogène hypokaliée
+T24	ANAT 499 520	surrénales hépatiques
+T25	DISO 526 552	vascularisation systolique
+T26	DISO 558 583	adénopathies médiastinées
+T27	ANAT 571 583	médiastinées

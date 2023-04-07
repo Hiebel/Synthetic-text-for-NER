@@ -1,0 +1,51 @@
+T1	LIVB 4 9	femme
+T2	PROC 35 47	hospitalisée
+T3	Hospital 52 60	urgences
+T4	DISO 80 93	choc septique
+T5	CHEM 99 120	sérum salé isotonique
+T6	MODE 125 135	voie orale
+T7	DOSE 150 162	dose globale
+T8	DOSE 166 171	2g/kg
+T9	CHEM 175 195	méthyl-méthasulprone
+T10	LIVB 307 318	jeune femme
+T11	PROC 349 427	ponction liquide pleuro-pneumoniae cervico-thoracique pariétale médiane droite
+T12	ANAT 358 427	liquide pleuro-pneumoniae cervico-thoracique pariétale médiane droite
+T13	DEVI 522 539	sonde thoraciques
+T14	ANAT 528 539	thoraciques
+T15	PROC 584 615	tomodensitométrie préopératoire
+T16	DISO 632 789	hypotonie sinus médiastin bilatérale asymétrique latéro-cervicale thoracique homolatérale segmentaire inféro-parenchymateuse tissulaire lésionnaire hypodense
+T20	MEAS 799 807	17x12 cm
+T21	Concept_Idea 832 838	taille
+T22	ANAT 917 927	pulmonaire
+T23	ANAT 952 961	cérébrale
+T24	DISO 1115 1143	manifestations neurologiques
+T25	DISO 1162 1176	craniosténoses
+T26	PROC 1190 1230	scanner abdomino-pelvien scannographique
+T27	ANAT 1198 1230	abdomino-pelvien scannographique
+T28	DISO 1255 1330	masse hypoéchogène tumorale parathyroïdienne péripancréatique hypertrophiée
+T30	ANAT 1362 1399	paroi abdominale œsophagienne bilobée
+T31	MEAS 1411 1426	progressivement
+T32	Concept_Idea 1430 1436	volume
+T33	ANAT 1479 1495	paroi abdominale
+T34	ANAT 1530 1563	structures intestinales jéjunales
+T35	ANAT 1580 1595	grosses courtes
+T36	MEAS 1637 1648	multifocale
+T37	DISO 1658 1674	tumorale maligne
+T38	DISO 1989 2023	méningoendométriose carcinomateuse
+T39	DISO 2040 2095	envahissement vasculovésculo-inflammatoire crânio-nasal
+T40	ANAT 2054 2095	vasculovésculo-inflammatoire crânio-nasal
+T41	DISO 2115 2140	localisations secondaires
+T42	DISO 2154 2179	empyème jugulo-carotidien
+T43	ANAT 2162 2179	jugulo-carotidien
+T44	PROC 2287 2310	étude histopathologique
+T45	DISO 2330 2340	granulomes
+T46	DISO 2347 2356	malignité
+T47	LIVB 2361 2368	patient
+T48	PROC 2387 2411	chimiothérapie adjuvante
+T49	CHEM 2413 2416	BEP
+T50	CHEM 2418 2422	CDDP
+T51	CHEM 2424 2433	docetaxel
+T52	CHEM 2437 2449	carboplatine
+T53	TEMP 2451 2470	pendant 12 semaines
+T54	PROC 2484 2517	curage ganglionnaire locorégional
+T55	ANAT 2491 2517	ganglionnaire locorégional

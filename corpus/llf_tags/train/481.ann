@@ -1,0 +1,9 @@
+T1	DISO 0 8	nécroses
+T2	MEAS 41 48	simples
+T3	PROC 55 85	contrôle radiologique standard
+T4	DISO 97 111	particularités
+T5	LIVB 116 124	patiente
+T6	PROC 129 135	sortie
+T7	Hospital 141 148	hôpital
+T8	TEMP 151 153	J4
+T9	TEMP 190 197	12 mois

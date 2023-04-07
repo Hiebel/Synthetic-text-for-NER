@@ -1,0 +1,89 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 47 52	3 ans
+T3	PROC 56 61	admis
+T4	Hospital 66 87	urgences pédiatriques
+T5	DISO 97 105	douleurs
+T6	ANAT 119 125	thorax
+T7	PROC 129 144	examen clinique
+T8	PROC 149 158	admission
+T9	LIVB 171 181	nouveau-né
+T10	MEAS 185 192	mauvais
+T11	Concept_Idea 193 205	état général
+T12	DISO 226 249	déficit sensitivomoteur
+T13	PHEN 259 275	réaction motrice
+T14	MEAS 276 282	légère
+T15	DISO 298 309	traumatisme
+T16	DISO 319 324	signe
+T17	PROC 337 346	palpation
+T18	DISO 381 437	distension abdomino-occipitale postéro-supérieure gauche
+T20	Localization 431 437	gauche
+T21	DEVI 483 491	poignées
+T22	DISO 505 524	perforation abcédée
+T23	MEAS 547 552	18 cm
+T24	Concept_Idea 556 564	diamètre
+T25	PROC 570 587	tomodensitométrie
+T26	PROC 589 627	TDM) cervico-mandibulaire scannoguidée
+T27	PROC 629 633	TOGD
+T28	DISO 654 659	masse
+T29	MEAS 669 677	21×17 mm
+T30	Localization 723 740	partie supérieure
+T31	MEAS 777 784	simples
+T32	PROC 790 801	transfusion
+T33	PROC 840 899	chimiothérapie palliative adjuvante type hydroxychloroquine
+T34	CHEM 881 899	hydroxychloroquine
+T35	PROC 912 940	oxygénothérapie probabiliste
+T36	PROC 956 987	radiothérapie conformationnelle
+T37	PROC 992 1013	contrôle locorégional
+T38	PROC 1034 1062	prise en charge chirurgicale
+T39	DISO 1097 1104	lésions
+T40	LIVB 1114 1120	enfant
+T41	DISO 1169 1181	métastatique
+T42	PROC 1185 1210	étude anatomopathologique
+T43	DISO 1236 1248	métastatique
+T44	DISO 1309 1347	neurofibromatose tumorale métastatique
+T46	LIVB 1472 1479	patient
+T47	DISO 1492 1519	dermatomyoblastes atypiques
+T48	DISO 1620 1674	tuberculose maligne tuberculeuse mucopolysaccharidique
+T49	DISO 1732 1774	symptômes neuropsychiatriques psychotiques
+T50	PROC 1963 1993	surveillance biomédicamenteuse
+T51	PROC 2072 2076	HIVA
+T52	PROC 2099 2165	biantibiothérapies prophylactiques antituberculeuses concomitantes
+T54	LIVB 2687 2693	malade
+T55	Hospital 2726 2746	service des urgences
+T56	Concept_Idea 2755 2773	état hémodynamique
+T57	CHEM 2808 2819	antalgiques
+T58	CHEM 2826 2836	corticoïde
+T59	PROC 2850 2868	remplissage cutané
+T60	ANAT 2862 2868	cutané
+T61	CHEM 2875 2896	hydroxyprogesterolone
+T62	DOSE 2898 2906	60 mg/kg
+T63	PROC 2926 2945	anesthésie générale
+T64	MEAS 2952 2958	simple
+T65	DISO 2971 2991	récidive infectieuse
+T66	DISO 3001 3024	trouble sensitivomoteur
+T67	DISO 3028 3049	signes inflammatoires
+T68	PROC 3063 3083	bronchoscopie souple
+T69	DEVI 3101 3128	sonde naso-gastro-duodénale
+T70	ANAT 3107 3128	naso-gastro-duodénale
+T71	Localization 3145 3161	partie proximale
+T72	MEAS 3171 3183	environ 5 cm
+T73	Concept_Idea 3187 3196	grand axe
+T74	ANAT 3223 3229	vessie
+T75	ANAT 3239 3257	foyer crico-rectal
+T76	MEAS 3274 3278	4 cm
+T77	Concept_Idea 3282 3297	grande courbure
+T78	PROC 3313 3325	angioscanner
+T79	MEAS 3338 3347	déterminé
+T80	PHEN 3357 3376	fonction systolique
+T81	MEAS 3442 3451	négatives
+T82	PROC 3455 3481	examen anatomopathologique
+T83	DISO 3501 3547	tumeur érythroblastique carcinomateuse lobulée
+T84	MEAS 3569 3576	pT3G2B0
+T85	MEAS 3636 3640	5cas
+T86	LIVB 3649 3656	patient
+T87	PROC 3661 3666	opéré
+T88	DISO 3764 3785	perforation urétérale
+T89	PROC 3830 3861	radiothérapie externe adjuvante
+T90	Concept_Idea 3959 3979	aspect morphologique
+T91	LIVB 4111 4117	garçon
+T92	TEMP 4125 4131	10 ans

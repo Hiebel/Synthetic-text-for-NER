@@ -1,0 +1,23 @@
+T1	LIVB 15 22	patient
+T2	DISO 34 43	tabagique
+T3	DISO 94 114	vomissements bilieux
+T4	Concept_Idea 146 158	état général
+T5	DISO 187 201	amaigrissement
+T6	MEAS 212 217	10 kg
+T7	TEMP 221 230	deux mois
+T8	PROC 235 257	ponction surrénalienne
+T9	ANAT 244 257	surrénalienne
+T10	PROC 290 306	examen somatique
+T11	DISO 320 333	particularité
+T12	PROC 338 354	bilan biologique
+T13	DISO 371 387	hyperleucocytose
+T14	MEAS 420 454	20 000 élément par millimètre cube
+T15	ANAT 468 493	liquide céphalorachidiens
+T16	PROC 495 498	LCR
+T17	PROC 505 518	sérologie VIH
+T18	MEAS 525 533	négative
+T19	PROC 546 570	prélèvements biologiques
+T20	DISO 600 609	anomalies
+T21	DISO 627 661	syndrome inflammatoire immunitaire
+T22	DISO 668 705	polynucléaires érythémato-pustuleuses
+T23	DISO 711 730	hémoglobine glyquée

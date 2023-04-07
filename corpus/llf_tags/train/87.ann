@@ -1,0 +1,97 @@
+T1	LIVB 20 28	patiente
+T2	PROC 55 67	hospitalisée
+T3	Hospital 71 82	psychiatrie
+T4	Concept_Idea 108 120	état général
+T5	PROC 124 139	examen clinique
+T6	DISO 159 180	nodule du sein gauche
+T7	ANAT 169 180	sein gauche
+T8	Localization 174 180	gauche
+T9	MEAS 182 190	Figure 2
+T10	PROC 197 211	TDM thoracique
+T11	ANAT 201 211	thoracique
+T12	DISO 254 262	anomalie
+T13	PROC 276 293	bilan étiologique
+T14	DISO 310 323	particularité
+T15	DISO 341 358	récidive tumorale
+T16	DISO 365 374	malignité
+T17	PROC 381 390	recherche
+T18	DISO 405 468	carcinome mastomédiastiel postéro-spléno-mandibulaire médiastin
+T19	ANAT 415 468	mastomédiastiel postéro-spléno-mandibulaire médiastin
+T20	ANAT 487 507	plexus cartilagineux
+T21	ANAT 515 546	aires ganglionnaires axillaires
+T22	DISO 565 588	adénomégalies kystiques
+T23	MEAS 593 604	spécifiques
+T24	DISO 619 667	lésions cutanéomuqueuses superficielles malignes
+T25	ANAT 713 754	muscle triceps brachial inférieur gauches
+T26	Localization 747 754	gauches
+T27	Concept_Idea 764 792	limites anatomopathologiques
+T28	MEAS 801 810	négatives
+T29	PHEN 815 830	fonction rénale
+T30	ANAT 824 830	rénale
+T31	DISO 852 875	localisation secondaire
+T32	LIVB 918 926	patiente
+T33	DISO 931 943	hypokaliémie
+T34	MEAS 954 964	3,4 mmol/l
+T35	PROC 983 1003	consultation urgente
+T36	LIVB 1009 1014	notre
+T37	Hospital 1015 1024	structure
+T38	MEAS 1057 1064	simples
+T39	PROC 1070 1092	contrôle échographique
+T40	PROC 1099 1127	dérivations scannographiques
+T41	PROC 1165 1203	chimiothérapie palliative substitutive
+T42	PROC 1230 1265	radiothérapie adjuvante fractionnée
+T43	ANAT 1278 1306	nerf laryngé supérieur droit
+T44	Localization 1301 1306	droit
+T45	PROC 1321 1360	anticoagulation intraveineuse indirecte
+T46	TEMP 1370 1380	15ème jour
+T47	PROC 1386 1396	opératoire
+T48	TEMP 1402 1408	6 mois
+T49	PROC 1423 1441	geste chirurgicale
+T50	PROC 1468 1502	prise en charge multidisciplinaire
+T51	PROC 1620 1651	kinésithérapie motrice générale
+T52	PROC 1685 1703	séjour hospitalier
+T53	PROC 1716 1751	radio cardiologie interventionnelle
+T54	PROC 1796 1806	opératoire
+T55	PROC 1809 1838	traitement anesthésique local
+T56	CHEM 1841 1856	fluoroquinolone
+T57	DOSE 1857 1862	75 mg
+T59	DEVI 2328 2381	cathéter double lumière Arrow DC9 étanche réfractaire
+T60	PROC 2498 2521	monoscopie exploratrice
+T61	DISO 2586 2595	métastase
+T62	ANAT 2599 2620	muscle grand pectoral
+T63	LIVB 2626 2634	patients
+T64	PROC 2643 2653	transférés
+T65	Hospital 2657 2672	bloc opératoire
+T66	PROC 2678 2699	sutures chirurgicales
+T67	PROC 2703 2727	radiothérapie adjuvantes
+T68	MEAS 2729 2734	0,1mg
+T69	TEMP 2734 2738	/24h
+T70	PROC 2743 2769	examen anatomopathologique
+T71	DISO 2785 2815	processus tissulaire polylobée
+T72	MEAS 2824 2828	5 cm
+T73	Localization 2836 2857	versant ventriculaire
+T74	Concept_Idea 2867 2875	contours
+T75	MEAS 2876 2885	réguliers
+T76	ANAT 2907 2914	ombilic
+T77	DISO 2927 2951	anomalies morphologiques
+T78	DISO 2979 2994	lésion kystique
+T79	DISO 3001 3025	remaniements secondaires
+T80	PHEN 3030 3048	fonction cardiaque
+T81	ANAT 3039 3048	cardiaque
+T82	MEAS 3055 3063	correcte
+T83	DISO 3088 3114	thrombophlébite nécrosante
+T84	DISO 3124 3140	signe infectieux
+T85	PROC 3153 3171	scanner pulmonaire
+T86	ANAT 3161 3171	pulmonaire
+T87	DISO 3191 3216	adénofibrome hémorragique
+T88	DISO 3233 3268	tumeur érythémato-pseudo-papillaire
+T89	DISO 3309 3336	déficit immunohistochimique
+T90	DISO 3363 3409	récidive carcinome épidermoïde mucineux cutané
+T91	PROC 3433 3461	chimiothérapie néo adjuvante
+T92	PROC 3487 3572	corticothérapie concomitante type tobramycine monocytoplasmique intraveineuseïne AINS
+T93	CHEM 3521 3572	tobramycine monocytoplasmique intraveineuseïne AINS
+T94	MODE 3603 3644	antibiothérapie probabiliste longue durée
+T95	Concept_Idea 3657 3666	résultats
+T96	MEAS 3693 3701	négatifs
+T97	TEMP 3708 3714	8 mois
+T98	PROC 3718 3723	suivi

@@ -1,0 +1,85 @@
+T1	LIVB 3 10	patient
+T2	Concept_Idea 27 38	antécédents
+T3	MEAS 39 51	particuliers
+T4	PROC 53 61	consulte
+T5	Hospital 66 74	urgences
+T6	DISO 83 114	syndrome d'épanchement pleuraux
+T7	ANAT 106 114	pleuraux
+T8	DISO 129 150	détresse respiratoire
+T9	PHEN 138 150	respiratoire
+T10	PROC 156 171	examen clinique
+T11	LIVB 176 183	patient
+T12	MEAS 193 196	bon
+T13	Concept_Idea 197 209	état général
+T14	PROC 221 235	interrogatoire
+T15	DISO 258 272	épigastralgies
+T16	TEMP 294 310	depuis deux mois
+T17	DISO 328 332	toux
+T18	MEAS 333 338	sèche
+T19	DISO 347 376	défroidissement du sein droit
+T20	ANAT 366 376	sein droit
+T21	Localization 371 376	droit
+T23	PROC 414 444	bilan biologique préopératoire
+T24	DISO 471 487	hyperleucocytose
+T25	MEAS 490 508	13000 éléments/mm3
+T26	MEAS 555 573	11200 éléments/mm3
+T27	LIVB 575 579	Nous
+T28	DISO 641 662	anomalies biologiques
+T29	DISO 680 697	symptômes fébrile
+T30	DISO 708 750	adénopathies cervico-pulmonaires biliaires
+T31	ANAT 721 750	cervico-pulmonaires biliaires
+T32	DISO 784 827	traumatisme abdomino- pelvien péristaltique
+T33	ANAT 796 827	abdomino- pelvien péristaltique
+T34	PROC 831 875	tomodensitométrie thoraco-abdomino-pelvienne
+T35	ANAT 849 875	thoraco-abdomino-pelvienne
+T37	ANAT 906 954	sous-diaphragmatique latéro-myxo-laterale droite
+T39	MEAS 1030 1042	21x17 x12 cm
+T40	ANAT 1063 1085	sinus thyroïdien droit
+T41	Localization 1080 1085	droit
+T42	ANAT 1106 1132	fosse iliaque homolatérale
+T43	Localization 1120 1132	homolatérale
+T44	ANAT 1161 1197	glandes épithélio-gigantocellulaires
+T45	DISO 1287 1322	lésion angulo-conjonctivale maligne
+T46	PROC 1343 1352	injection
+T48	LIVB 1397 1405	patiente
+T49	DISO 1423 1462	neuroendocrine lithiasique érythémateux
+T50	DISO 1478 1502	bronchiectasie chronique
+T51	MEAS 1525 1544	fortement suspectée
+T52	DISO 1584 1590	fièvre
+T53	MEAS 1602 1606	40°C
+T54	CHEM 1623 1635	antibiotique
+T55	CHEM 1641 1671	amoxicillineacide clavulanique
+T56	DISO 1701 1745	œdème pulmonaire basithoracique hypertrophié
+T57	ANAT 1707 1745	pulmonaire basithoracique hypertrophié
+T58	PROC 1763 1784	recherche étiologique
+T59	PROC 1808 1850	scanner cardio-vasculaire transoesophagien
+T60	ANAT 1816 1850	cardio-vasculaire transoesophagien
+T61	DISO 1867 1902	sténose artériolo-cœuréo-bronchique
+T62	ANAT 1875 1902	artériolo-cœuréo-bronchique
+T63	DISO 1912 1926	thrombolysante
+T64	DEVI 1963 1984	trajet d'air comprimé
+T65	DISO 2026 2055	complication thromboembolique
+T66	PROC 2138 2162	ventilation artificielle
+T67	PROC 2306 2331	voie médiane chirurgicale
+T68	DISO 2360 2377	dyspnée sifflante
+T69	PROC 2448 2469	échographie pelvienne
+T70	ANAT 2460 2469	pelvienne
+T71	DISO 2483 2515	masse tumorale kystique nécrosée
+T72	MEAS 2554 2558	5 cm
+T73	Concept_Idea 2562 2571	grand axe
+T74	ANAT 2647 2662	cavité vaginale
+T75	ANAT 2695 2715	muqueuse intestinale
+T76	ANAT 2728 2745	organes viscéraux
+T77	DISO 2762 2784	métastase du péritoine
+T78	ANAT 2775 2784	péritoine
+T79	PROC 2789 2826	tomodensitométrie abdomino- pelvienne
+T80	ANAT 2807 2826	abdomino- pelvienne
+T81	DISO 2840 2926	adénopathies cervico périthoraciques latéro-supra hyoïdiennes hypodenses hyperintenses
+T83	MEAS 2952 2955	6cm
+T84	MEAS 2959 2962	8mm
+T85	ANAT 2978 2991	ovaire gauche
+T86	Localization 2985 2991	gauche
+T87	LIVB 2996 3004	patiente
+T88	PHEN 3014 3029	cycle menstruel
+T89	DISO 3045 3074	syndrome d'hyper-éosinophilie
+T90	DISO 3081 3095	prise de poids

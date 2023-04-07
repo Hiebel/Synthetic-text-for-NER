@@ -1,0 +1,20 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 33 41	patiente
+T3	MEAS 45 48	bon
+T4	Concept_Idea 49 61	état général
+T5	DISO 63 73	apyrétique
+T6	MEAS 76 80	37°C
+T7	ANAT 90 95	pouls
+T8	MEAS 99 110	90 batt/min
+T9	PHEN 116 134	suites opératoires
+T10	DISO 174 203	cardiomyopathie hypertrophiée
+T11	ANAT 207 223	ventricule droit
+T12	Localization 218 223	droit
+T13	DISO 239 260	troubles métaboliques
+T14	PROC 265 281	bilan biologique
+T15	DISO 293 307	particularités
+T16	PROC 309 328	protéine C-réactive
+T18	PROC 333 343	globulines
+T19	MEAS 346 353	0,5g/dl
+T20	PROC 359 369	diagnostic
+T21	DISO 394 436	coronaropérional systarospadias ischémique

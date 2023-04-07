@@ -1,0 +1,38 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 33 39	10 ans
+T3	DISO 67 74	diabète
+T4	MEAS 75 81	type 2
+T5	PROC 87 102	corticothérapie
+T6	Concept_Idea 112 136	vitesse de sédimentation
+T7	PHEN 123 136	sédimentation
+T8	MEAS 147 154	70 cm/h
+T9	PROC 159 178	bilan préopératoire
+T10	DISO 211 224	particularité
+T11	PROC 237 262	étude anatomopathologique
+T12	ANAT 267 287	structures urétrales
+T13	ANAT 291 313	membre supérieur droit
+T14	Localization 308 313	droit
+T15	PROC 337 383	curage ganglionnaire cervico-thoraco-abdominal
+T16	ANAT 344 383	ganglionnaire cervico-thoraco-abdominal
+T17	LIVB 400 410	nouveau-né
+T18	PROC 415 432	tomodensitométrie
+T19	PROC 434 452	TDM) scanno-guidée
+T20	DISO 502 580	masse tissulaire hétérogène infiltrant les troncules cérébraux intracardiaques
+T21	ANAT 545 580	troncules cérébraux intracardiaques
+T22	ANAT 598 626	nerf laryngé inférieur droit
+T23	Localization 621 626	droit
+T24	MEAS 635 648	7 centimètres
+T25	Concept_Idea 652 661	grand axe
+T26	MEAS 692 703	irréguliers
+T27	MEAS 713 727	12 centimètres
+T28	Concept_Idea 731 738	largeur
+T29	DISO 755 785	tumeur neuroendocrine kystique
+T30	MEAS 822 829	simples
+T31	PROC 836 849	antibiogramme
+T32	DISO 869 885	signe infectieux
+T33	DISO 889 916	retentissement psychomoteur
+T34	DISO 926 940	déficit moteur
+T35	MEAS 966 971	bonne
+T36	Concept_Idea 979 997	plan hémodynamique
+T37	DISO 1042 1060	embols vasculaires
+T38	Hospital 1096 1117	urgences pédiatriques

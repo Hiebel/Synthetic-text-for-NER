@@ -1,0 +1,27 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	DISO 41 86	processus tumoral de la veine cave inférieure
+T4	ANAT 65 86	veine cave inférieure
+T5	Localization 76 86	inférieure
+T6	MEAS 119 126	simples
+T7	PROC 132 158	examen anatomopathologique
+T8	DISO 180 257	carcinome épithélio-métastatique des voies aérodigestives supérieures droites
+T9	ANAT 217 257	voies aérodigestives supérieures droites
+T11	Concept_Idea 267 279	localisation
+T12	ANAT 296 319	lambeau crico-trachéale
+T13	PROC 357 384	investigations cytologiques
+T14	LIVB 389 397	patiente
+T15	PROC 420 440	exérèse chirurgicale
+T16	PROC 454 472	résection monobloc
+T17	PROC 486 514	chimiothérapie néo adjuvante
+T18	CHEM 520 534	bêtalactamines
+T19	DOSE 536 542	3mg/kg
+T20	TEMP 542 544	/j
+T21	PROC 550 572	contrôle échographique
+T22	PROC 587 617	curage ganglionnaire axillaire
+T23	ANAT 594 617	ganglionnaire axillaire
+T24	DISO 636 657	récidive métastatique
+T25	DISO 667 685	signe histologique
+T26	MEAS 728 741	spectaculaire
+T27	DISO 747 766	récidive secondaire
+T28	DISO 777 806	anomalies clinico-biologiques

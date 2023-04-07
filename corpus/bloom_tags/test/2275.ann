@@ -1,0 +1,29 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 38 63	antécédents pathologiques
+T4	MEAS 64 76	particuliers
+T5	PROC 78 83	admis
+T6	Hospital 88 109	urgences pédiatriques
+T7	DISO 119 142	douleurs du flanc droit
+T8	ANAT 131 142	flanc droit
+T9	Localization 137 142	droit
+T10	PROC 146 161	examen clinique
+T11	PROC 166 175	admission
+T12	LIVB 188 195	patient
+T13	MEAS 199 202	bon
+T14	Concept_Idea 203 215	état général
+T15	Concept_Idea 233 251	plan hémodynamique
+T16	PHEN 261 280	pression artérielle
+T17	ANAT 270 280	artérielle
+T18	MEAS 291 303	120/100 mmHg
+T19	PROC 309 339	échographie abdomino-pelvienne
+T20	ANAT 321 339	abdomino-pelvienne
+T23	TEMP 432 443	depuis 1 an
+T24	MEAS 455 470	progressivement
+T25	Concept_Idea 474 480	volume
+T26	DISO 501 579	métastases ganglionnaires basithoraciques cervicovésico-vaginales infiltrantes
+T28	ANAT 595 622	fosse para hépatique droite
+T29	Localization 616 622	droite
+T30	MEAS 632 636	3 cm
+T31	Concept_Idea 640 649	grand axe
+T32	ANAT 666 694	paroi abdominale iléo-cæcale

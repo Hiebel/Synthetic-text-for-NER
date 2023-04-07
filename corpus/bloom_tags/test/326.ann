@@ -1,0 +1,37 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	8 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 82	admis
+T6	Hospital 87 108	urgences pédiatriques
+T7	DISO 118 153	douleurs abdomino-pelviennes aiguës
+T8	ANAT 127 146	abdomino-pelviennes
+T9	TEMP 163 179	depuis 48 heures
+T10	PROC 183 198	examen clinique
+T11	LIVB 211 217	enfant
+T12	Concept_Idea 237 248	température
+T13	MEAS 251 255	37°C
+T14	PHEN 263 274	tachycardie
+T15	MEAS 277 298	102 battements/minute
+T16	PROC 303 333	auscultation pleuro-pulmonaire
+T17	ANAT 316 333	pleuro-pulmonaire
+T18	MEAS 340 347	normale
+T19	PROC 362 381	pression artérielle
+T20	ANAT 371 381	artérielle
+T21	MEAS 399 406	30 mmhg
+T22	CHEM 408 418	sufentanil
+T23	PROC 435 457	examen ophtalmologique
+T24	MEAS 464 470	normal
+T25	PROC 474 504	échographie abdomino-pelvienne
+T26	ANAT 486 504	abdomino-pelvienne
+T27	DISO 542 611	masse tissulaire du parenchyme rétro péritonéal ovarien latéral droit
+T28	ANAT 562 611	parenchyme rétro péritonéal ovarien latéral droit
+T29	Localization 606 611	droit
+T30	MEAS 623 633	rapidement
+T31	Concept_Idea 637 643	volume
+T32	MEAS 652 656	1 cm
+T33	Concept_Idea 660 669	grand axe
+T34	ANAT 684 702	liquide œsophagien
+T35	ANAT 719 736	vésicules utérins
+T36	DEVI 753 785	sonde œsophagienne transfixiante
+T38	DISO 799 856	sténose duodéno-interstitielle antéro-myometriale bilobée

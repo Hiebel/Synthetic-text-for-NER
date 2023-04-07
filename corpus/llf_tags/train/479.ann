@@ -1,0 +1,23 @@
+T1	LIVB 3 9	malade
+T2	PROC 16 22	opérée
+T3	PROC 28 35	exérèse
+T4	DISO 42 47	masse
+T5	PROC 66 91	étude anatomopathologique
+T6	PROC 111 128	tomodensitométrie
+T7	PROC 130 161	TDM) thoraco-abdomino-pelvienne
+T8	ANAT 135 161	thoraco-abdomino-pelvienne
+T9	DISO 179 234	processus tissulaire hétérogène du lobe supérieur droit
+T10	ANAT 214 234	lobe supérieur droit
+T11	Localization 229 234	droit
+T12	MEAS 237 249	environ 4 cm
+T13	Concept_Idea 253 262	grand axe
+T14	DISO 277 310	adénopathies jugulo-mandibulaires
+T15	ANAT 290 310	jugulo-mandibulaires
+T16	ANAT 350 372	plan sous mandibulaire
+T17	DISO 414 428	particularités
+T18	PROC 434 459	chimiothérapie palliative
+T19	CHEM 465 476	Cisplatine®
+T20	DOSE 499 504	15 mg
+T21	TEMP 504 510	/jours
+T22	Concept_Idea 536 553	plan neurologique
+T23	TEMP 581 587	2 mois

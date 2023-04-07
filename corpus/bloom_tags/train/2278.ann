@@ -1,0 +1,80 @@
+T1	LIVB 3 13	nouveau-né
+T2	TEMP 37 44	6 jours
+T3	Concept_Idea 53 58	poids
+T4	MEAS 62 67	1230g
+T5	Localization 69 79	au décours
+T6	DISO 129 150	détresse respiratoire
+T7	PHEN 138 150	respiratoire
+T8	TEMP 160 176	depuis 72 heures
+T9	LIVB 226 228	Il
+T10	Hospital 247 265	urgences maternité
+T11	PROC 273 288	examen clinique
+T12	DISO 295 319	tuméfaction épigastrique
+T13	ANAT 307 319	épigastrique
+T14	MEAS 331 340	lentement
+T15	Concept_Idea 344 350	volume
+T16	MEAS 360 368	palpable
+T17	DISO 384 401	douleur pelvienne
+T18	ANAT 392 401	pelvienne
+T19	MEAS 427 438	progressive
+T20	MEAS 470 476	brutal
+T21	LIVB 497 500	son
+T22	PROC 538 566	contraception méthaméthasone
+T23	CHEM 552 566	méthaméthasone
+T24	MODE 580 598	voie intraveineuse
+T25	MODE 615 625	voie orale
+T26	DOSE 636 639	1mg
+T27	DOSE 646 650	3 mg
+T28	PROC 664 678	interrogatoire
+T29	DISO 710 727	souffrance fœtale
+T30	DISO 738 761	symptômes neurologiques
+T31	DISO 779 795	troubles visuels
+T32	DISO 805 824	facteur obstétrical
+T33	DISO 862 883	placenta hypertrophié
+T34	MEAS 893 898	15 cm
+T35	Concept_Idea 902 911	grand axe
+T36	MEAS 920 925	10 cm
+T37	Concept_Idea 929 936	hauteur
+T38	MEAS 941 945	2 cm
+T39	Concept_Idea 949 958	petit axe
+T40	ANAT 979 1002	carrefour péristaltique
+T41	ANAT 1024 1040	zones ovariennes
+T42	PROC 1062 1087	ligature scannoprélatrice
+T43	DEVI 1102 1114	objet plâtré
+T44	ANAT 1149 1165	ampoule grêlique
+T45	DEVI 1249 1276	moteur électrique bipolaire
+T46	MEAS 1392 1401	20 litres
+T47	DISO 1553 1567	masse tumorale
+T48	PROC 1583 1605	résection chirurgicale
+T49	DISO 1622 1628	fièvre
+T50	TEMP 1641 1644	48h
+T51	CHEM 1843 1866	primotrypsyl progestrel
+T52	DISO 1963 1992	syndrome méningoinflammatoire
+T53	DISO 2038 2054	méningo-fibreuse
+T54	DISO 2210 2239	thromboses thromborésistantes
+T55	PROC 2253 2283	échographie abdomino-pelvienne
+T56	ANAT 2265 2283	abdomino-pelvienne
+T57	DISO 2300 2327	hypertrophie du flanc droit
+T58	ANAT 2316 2327	flanc droit
+T59	Localization 2322 2327	droit
+T60	PROC 2343 2363	examen gynécologique
+T61	DISO 2375 2388	particularité
+T62	DISO 2405 2439	anomalie des contractions utérines
+T63	PHEN 2418 2439	contractions utérines
+T64	ANAT 2431 2439	utérines
+T65	DISO 2462 2481	sténose péritonéale
+T66	ANAT 2470 2481	péritonéale
+T67	LIVB 2483 2487	Nous
+T68	PROC 2507 2531	anesthésie locorégionale
+T69	PROC 2535 2553	bilan paraclinique
+T70	PROC 2557 2569	radiologique
+T71	PROC 2583 2607	chimiothérapie adjuvante
+T72	DOSE 2609 2613	50Gy
+T73	PROC 2628 2654	curiethérapie transvaginal
+T74	LIVB 2699 2707	patiente
+T75	PROC 2729 2762	curage ganglionnaire métastatique
+T76	ANAT 2736 2762	ganglionnaire métastatique
+T77	ANAT 2784 2808	paroi utérine abdominale
+T79	CHEM 2851 2864	dexaméthasone
+T80	TEMP 2876 2894	pendant 3 semaines
+T81	Hospital 2925 2933	urgences

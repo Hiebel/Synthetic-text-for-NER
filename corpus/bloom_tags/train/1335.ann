@@ -1,0 +1,46 @@
+T1	LIVB 4 7	S.M
+T2	PROC 27 32	reçue
+T3	Hospital 37 45	urgences
+T4	DISO 65 88	choc hypovolémique aigu
+T5	DISO 93 135	thrombose veineuse superficielle infarctée
+T6	ANAT 103 135	veineuse superficielle infarctée
+T7	MEAS 151 157	brutal
+T8	PROC 172 187	hospitalisation
+T9	PROC 193 226	traitement médical antibacillaire
+T10	CHEM 237 248	Cyclosérine
+T11	DOSE 250 258	20 mg/m²
+T12	CHEM 260 277	Ethylprédnisolone
+T13	DOSE 279 285	0mg/kg
+T14	CHEM 288 304	sulfaméthoxazole
+T15	DOSE 307 315	15 mg/kg
+T16	DISO 335 382	syndrome d'épanchement liquidien basithoracique
+T17	ANAT 358 382	liquidien basithoracique
+T18	DISO 402 422	maladie systématisée
+T20	ANAT 449 455	rénale
+T21	PROC 546 575	tomodensitométrie thoraciques
+T22	ANAT 564 575	thoraciques
+T23	DISO 603 647	localisations secondaires tumorales malignes
+T24	DISO 675 691	rhabdomyosarcome
+T25	DISO 698 719	métastase épidermoïde
+T26	ANAT 708 719	épidermoïde
+T27	LIVB 728 738	nouveau-né
+T28	TEMP 746 756	deux jours
+T29	DISO 798 821	symptômes angiolytiques
+T30	MEAS 836 847	progressive
+T31	PROC 909 948	intervention chirurgicale préopératoire
+T32	DISO 995 1014	nodule hypoéchogène
+T33	DISO 1025 1044	anomalies nodulaire
+T34	DISO 1086 1097	pathologies
+T35	DISO 1157 1179	hypersudation nuptiale
+T36	PROC 1195 1217	diagnostic d'exclusion
+T37	DEVI 1284 1297	microscopique
+T38	DISO 1366 1389	atteinte cytonucléaires
+T39	ANAT 1410 1435	parties molles cervicales
+T40	Concept_Idea 1480 1502	données fonctionnelles
+T41	DISO 1524 1555	localisations visculo-tumorales
+T42	DISO 1650 1677	nécrose graisseuse kystique
+T43	DISO 1717 1732	kyste hydatique
+T44	Concept_Idea 1748 1755	limités
+T45	MEAS 1761 1788	profondément satisfaisantes
+T46	DISO 2198 2241	carcinome du parenchyme cérébral hypovolulé
+T47	ANAT 2211 2241	parenchyme cérébral hypovolulé

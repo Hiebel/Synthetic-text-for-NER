@@ -1,0 +1,39 @@
+T1	PROC 3 21	scanner thoracique
+T2	ANAT 11 21	thoracique
+T3	DISO 35 61	lésion de la cuisse droite
+T4	ANAT 48 61	cuisse droite
+T5	Localization 55 61	droite
+T6	Concept_Idea 64 70	aspect
+T7	MEAS 71 79	noirâtre
+T8	PROC 85 107	radiographie du bassin
+T9	ANAT 101 107	bassin
+T10	DISO 128 163	niveaux hydroaériques hyperbasiques
+T11	ANAT 172 198	pédicule thoracique gauche
+T12	Localization 192 198	gauche
+T13	ANAT 204 238	angle crico-trachéo-lombaire droit
+T14	Localization 233 238	droit
+T15	DISO 253 320	masse tissulaire péritonéale hétéro médiastinale oblongue calcifiée
+T16	DISO 340 399	processus lésionnel périostéomédullaire suprachiasopharyngé
+T17	DISO 415 436	métaplasie médullaire
+T18	DISO 446 464	nodule éosinophile
+T19	PROC 476 501	étude immunohistochimique
+T20	PROC 503 506	IHC
+T21	LIVB 535 542	malades
+T22	PROC 555 562	traités
+T23	CHEM 567 598	amoxicilline acide clavulanique
+T24	DOSE 611 620	0,5 mg/kg
+T25	TEMP 620 625	/jour
+T26	PROC 631 649	traitement martial
+T27	PROC 655 742	halopéridol acétyle vicryl nifédipine ketoacidoccique ®en perfusion intraveineuse lente
+T28	PROC 755 776	contrôle radiologique
+T29	PROC 791 806	antibiothérapie
+T30	MEAS 818 825	négatif
+T31	Concept_Idea 838 858	aspect morphologique
+T32	DISO 888 914	tumeur myxoïde infiltrante
+T33	PROC 929 955	contage tuberculeux cutané
+T34	PROC 967 993	examen anatomopathologique
+T35	PROC 998 1018	suivi postopératoire
+T36	DISO 1054 1075	récidive métastatique
+T37	PROC 1088 1108	reprise chirurgicale
+T38	PHEN 1146 1164	suites opératoires
+T39	MEAS 1173 1180	simples

@@ -1,0 +1,29 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	9 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 83	admise
+T6	Hospital 88 96	urgences
+T7	DISO 106 127	détresse respiratoire
+T8	PHEN 115 127	respiratoire
+T9	MEAS 142 153	progressive
+T10	DISO 169 203	douleurs thoraciques constrictives
+T11	ANAT 178 189	thoraciques
+T12	TEMP 213 229	depuis deux mois
+T13	PROC 235 244	admission
+T14	LIVB 248 255	patient
+T15	Concept_Idea 280 285	poids
+T16	MEAS 289 294	12 kg
+T17	Concept_Idea 302 308	taille
+T18	MEAS 312 317	75 cm
+T19	PROC 322 352	bilan biologique préopératoire
+T20	DISO 370 387	hyperéosinophilie
+T21	MEAS 390 425	15 000 éléments par millimètre cube
+T22	DOSE 427 437	20000/mm 3
+T23	PROC 443 462	protéine-C Réactive
+T24	PROC 464 467	CRP
+T25	PROC 470 485	globules blancs
+T26	MEAS 488 521	18000 élément par millimètre cube
+T27	DEVI 523 536	microscopique
+T28	PROC 551 578	numération formule sanguine
+T29	DISO 595 641	maladie thromboembolique érythémato-pustuleuse

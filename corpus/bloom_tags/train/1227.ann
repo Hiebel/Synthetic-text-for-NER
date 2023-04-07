@@ -1,0 +1,58 @@
+T1	LIVB 28 35	patient
+T2	DISO 86 124	tuberculose érythémateuse prurigineuse
+T3	TEMP 134 147	depuis 2 mois
+T4	Concept_Idea 183 200	état neurologique
+T5	PROC 230 254	scanner abdomino-pelvien
+T6	ANAT 238 254	abdomino-pelvien
+T7	PROC 267 284	bilan étiologique
+T8	MEAS 298 306	négatifs
+T9	DISO 337 343	fièvre
+T10	DISO 350 377	troubles cholinestérasiques
+T11	LIVB 386 393	patient
+T12	DISO 411 431	prise médicamenteuse
+T13	DISO 438 445	diabète
+T14	CHEM 462 493	anti-tuberculeux antibacillaire
+T15	CHEM 499 510	Cyclosérine
+T16	PROC 517 547	radio-chimiothérapie adjuvante
+T17	CHEM 558 568	cisplatine
+T18	CHEM 571 582	trastuzumab
+T19	DISO 643 659	rhabdomyomateuse
+T20	ANAT 701 735	grossesse gynécalo-mésencéphalique
+T21	PROC 827 848	technique chirurgical
+T22	PROC 852 872	chirurgie palliative
+T23	DISO 942 982	envahissement kystique lésionnel maligne
+T24	ANAT 1004 1019	parois utérines
+T25	PROC 1032 1065	curage ganglionnaire exploratrice
+T26	MEAS 1112 1121	favorable
+T27	Concept_Idea 1129 1135	taille
+T28	MEAS 1146 1150	12cm
+T29	PROC 1167 1185	résection radicale
+T30	DEVI 1224 1239	matériel plâtré
+T31	PROC 1364 1397	chirurgie proligère transfixiante
+T32	PROC 1486 1526	rééducation fonctionnelle postopératoire
+T33	DISO 1586 1595	symptômes
+T34	PROC 1826 1867	radiologique préopératoires radiologiques
+T35	PROC 2102 2125	pronostic thérapeutique
+T36	LIVB 2141 2149	patients
+T37	PHEN 2336 2366	mouvement des organes génitaux
+T38	ANAT 2350 2366	organes génitaux
+T39	DISO 2383 2412	carcinose du pneumo-péritoine
+T40	ANAT 2396 2412	pneumo-péritoine
+T41	TEMP 2446 2463	premier trimestre
+T42	PROC 2481 2508	scanner abdomino- pelvienne
+T43	ANAT 2489 2508	abdomino- pelvienne
+T44	DISO 2526 2562	masse tissulaire polylobée hypodense
+T45	MEAS 2564 2572	homogène
+T46	MEAS 2576 2588	bien limitée
+T47	MEAS 2598 2603	29 cm
+T48	MEAS 2608 2612	24mm
+T49	ANAT 2629 2650	fosse lombaire droite
+T50	Localization 2644 2650	droite
+T51	ANAT 2675 2684	épiploons
+T52	DISO 2748 2771	déficit sensitivomoteur
+T53	MEAS 2786 2797	progressive
+T54	TEMP 2823 2845	depuis plusieurs jours
+T55	DISO 2848 2871	agitation psychomotrice
+T56	DISO 2884 2922	syndrome d’épanchement intrapéritonéal
+T57	ANAT 2907 2922	intrapéritonéal
+T58	ANAT 2943 2958	sinus ombilical

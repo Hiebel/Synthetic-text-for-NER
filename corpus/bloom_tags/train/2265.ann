@@ -1,0 +1,25 @@
+T1	LIVB 19 29	adolescent
+T2	TEMP 33 39	15 ans
+T3	DISO 46 71	antécédents pathologiques
+T4	MEAS 72 80	notables
+T5	PROC 82 86	reçu
+T6	Hospital 90 97	urgence
+T7	DISO 107 136	douleurs épigastriques aiguës
+T8	ANAT 116 129	épigastriques
+T9	DISO 153 171	diarrhée chronique
+T10	TEMP 181 197	depuis deux mois
+T11	PROC 201 216	examen clinique
+T12	LIVB 229 235	enfant
+T14	Concept_Idea 282 294	respiratoire
+T15	DISO 315 350	sensibilité postérieure du pancréas
+T16	Localization 327 338	postérieure
+T17	ANAT 342 350	pancréas
+T18	ANAT 367 389	région lombaire droite
+T19	Localization 383 389	droite
+T20	MEAS 405 412	brutale
+T21	PROC 416 446	échographie abdomino-pelvienne
+T22	ANAT 428 446	abdomino-pelvienne
+T23	DISO 464 561	masse arrondie hypo échogéne tissulaire latéro-utérine péripancréateuse hypokaliemicellulomateuse
+T24	MEAS 571 574	2cm
+T25	Concept_Idea 578 587	grand axe
+T26	ANAT 615 633	glandes salivaires

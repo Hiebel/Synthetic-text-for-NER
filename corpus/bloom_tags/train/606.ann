@@ -1,0 +1,41 @@
+T1	LIVB 29 37	patiente
+T2	PROC 75 99	scanner abdomino pelvien
+T3	ANAT 83 99	abdomino pelvien
+T4	Hospital 112 120	urgences
+T5	Hospital 125 163	Cliniques Universitaires de Lubumbashi
+T6	PROC 173 197	exploration chirurgicale
+T7	DISO 201 245	carcinome épidermoïde cervico-mésenchymateux
+T8	ANAT 211 245	épidermoïde cervico-mésenchymateux
+T9	PROC 251 260	admission
+T10	Hospital 264 279	bloc opératoire
+T11	LIVB 281 285	nous
+T12	DEVI 305 324	sonde nasogastrique
+T14	PHEN 339 368	contractions utérines fœtales
+T15	ANAT 352 368	utérines fœtales
+T16	LIVB 401 409	patiente
+T17	DISO 417 438	métrorragies primaire
+T18	DISO 448 473	sténose grêliquide utérin
+T19	ANAT 456 473	grêliquide utérin
+T20	DISO 489 504	fausses couches
+T21	CHEM 519 531	amoxicilline
+T22	CHEM 535 548	acébutololone
+T23	MODE 578 588	voie basse
+T24	MEAS 670 676	1500 g
+T25	MEAS 680 686	1600 g
+T26	DISO 738 753	ménométrorrhées
+T27	TEMP 771 785	depuis 7 jours
+T28	DISO 802 834	douleurs pelviennes biligéminées
+T29	ANAT 811 834	pelviennes biligéminées
+T30	MEAS 859 870	progressive
+T31	MEAS 897 910	plus marquées
+T32	TEMP 926 930	7ans
+T33	MEAS 950 958	brunâtre
+T34	LIVB 984 998	jeunes adultes
+T35	DISO 1029 1040	pathologies
+T36	DISO 1058 1071	paragangliome
+T37	ANAT 1264 1271	pleural
+T38	DISO 1334 1353	masse bourgeonnante
+T39	MEAS 1365 1377	spontanément
+T40	Concept_Idea 1381 1387	volume
+T41	DISO 1413 1429	troubles visuels
+T42	DISO 1462 1490	déficit neurologique praxial

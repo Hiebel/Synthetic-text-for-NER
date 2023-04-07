@@ -1,0 +1,53 @@
+T1	LIVB 4 12	patiente
+T2	PROC 32 38	admise
+T3	Hospital 43 64	urgences pédiatriques
+T4	DISO 82 104	pâleur maculopapuleuse
+T5	DISO 165 186	détresse respiratoire
+T6	MEAS 201 212	progressive
+T7	CHEM 238 249	corticoïdes
+T8	MODE 254 264	voie orale
+T9	CHEM 278 294	acide nifédipine
+T10	LIVB 330 338	patiente
+T11	DISO 343 376	symptomatologie méningo-cervicale
+T12	DOSE 399 404	bolus
+T13	CHEM 408 438	sulfaméthoxazole/triméthoprime
+T14	PROC 476 509	traitement médicamenteux adjuvant
+T15	CHEM 592 605	métronidazole
+T16	CHEM 612 623	Ceftriaxone
+T17	CHEM 700 740	médicaments antiplaquettaires circulants
+T18	DISO 771 816	méningo-pneumopathies ischémato-interstitiels
+T19	ANAT 1060 1078	abdomino-pelvienne
+T20	DISO 1095 1184	masse tissulaire arrondie hypodense hétérogène lithiasique hypoechogéne hypervascularisée
+T21	MEAS 1194 1199	46 cm
+T22	Concept_Idea 1203 1212	grand axe
+T23	MEAS 1225 1234	fortement
+T24	PROC 1241 1250	injection
+T25	CHEM 1254 1265	propranolol
+T26	ANAT 1283 1301	parenchyme ovarien
+T27	PROC 1317 1326	injection
+T28	CHEM 1330 1348	méthylprednisolone
+T29	Concept_Idea 1369 1377	contours
+T30	MEAS 1387 1395	régulier
+T31	MEAS 1403 1408	75 mg
+T32	CHEM 1411 1425	hydrocortisone
+T33	PROC 1432 1468	tomodensitométrie abdomino-pelvienne
+T34	ANAT 1450 1468	abdomino-pelvienne
+T35	DISO 1487 1659	masse tumorale ovarienne latéroutérine bilatérale basithoracique bilobée dorsophloïdienne rétrogastro péritonéale séreux kystique infiltro-gastrique hyo-vésiculeuse maligne
+T38	ANAT 1680 1696	organes gynécaux
+T39	ANAT 1730 1748	vésicules utérines
+T40	ANAT 1772 1786	méso-sigmoïdal
+T41	ANAT 1803 1820	annexes grêliques
+T42	ANAT 1846 1863	cavité abdominale
+T43	DISO 1935 1961	épanchements intracrâniens
+T44	ANAT 1948 1961	intracrâniens
+T45	ANAT 1987 2074	pleural médiastinal pariétal cervicothoracique inféro-latéral thoracique basithoracique
+T47	ANAT 2150 2160	tissulaire
+T48	DISO 2226 2234	kystique
+T49	PROC 2250 2265	examen clinique
+T50	DISO 2277 2290	particularité
+T51	PROC 2296 2319	radiothérapie adjuvante
+T52	Hospital 2338 2345	urgence
+T53	DOSE 2347 2352	60 Gy
+T54	TEMP 2354 2369	pendant 7 jours
+T55	PROC 2384 2409	chimiothérapie palliative
+T56	MODE 2414 2424	voie orale

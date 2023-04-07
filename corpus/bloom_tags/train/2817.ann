@@ -1,0 +1,66 @@
+T1	LIVB 17 23	enfant
+T2	TEMP 27 32	2 ans
+T3	Hospital 55 98	service d'accueil des urgences pédiatriques
+T4	Hospital 100 103	UPS
+T5	DISO 132 145	choc septique
+T6	LIVB 164 167	ses
+T7	LIVB 168 175	parents
+T8	DISO 181 195	décès néonatal
+T9	DISO 200 232	hémorragie intracérébro-méningée
+T10	ANAT 211 232	intracérébro-méningée
+T11	PROC 238 269	traitement médical probabiliste
+T12	CHEM 283 296	metronidazole
+T13	CHEM 304 337	antiinflammatoires non-stéroïdien
+T14	CHEM 343 361	méthylprednisolone
+T15	DISO 404 426	épigastralgies fébrile
+T16	MEAS 441 447	rapide
+T17	MEAS 457 486	progressivement plus marquées
+T18	LIVB 499 502	ils
+T19	DEVI 517 547	prothèse plâtrée transfixiante
+T20	PROC 721 751	prise médicamenteuse adjuvante
+T21	PROC 758 784	corticothérapie palliative
+T22	PROC 791 826	réanimation anesthésique péridurale
+T23	DISO 857 876	symptômes délirants
+T24	LIVB 905 907	il
+T25	DISO 934 955	anomalie neurologique
+T26	DISO 971 1008	aphasie motrice flitivo-cinesthésique
+T27	DISO 1084 1113	méningo-vascularite purulente
+T28	PROC 1190 1219	prélèvements fœto-biologiques
+T29	DISO 1283 1310	myxome kystique prurigineux
+T30	DISO 1321 1359	malformations congénitales maligneuses
+T31	PROC 1403 1425	consultation prénatale
+T32	PROC 1534 1564	curage ganglionnaire axillaire
+T33	ANAT 1541 1564	ganglionnaire axillaire
+T34	DISO 1614 1639	néphropathie hypertensive
+T35	DISO 1779 1801	paragangliome primitif
+T36	DISO 1927 1953	endométrial myxome pyogène
+T37	DISO 1967 2002	placenta polymyomateux anévrismatif
+T38	DISO 2008 2038	cytomyosophéo-rhabdomyolytique
+T39	DISO 2060 2095	localisations viscérales infertiles
+T40	DISO 2138 2164	kystoréflexes trophoblaste
+T41	PROC 2219 2248	recherche immunohistochimique
+T42	ANAT 2265 2271	organe
+T43	PROC 2275 2288	sérologie VIH
+T44	MEAS 2295 2303	négative
+T45	PROC 2318 2353	tomodensitométrie abdominopelvienne
+T46	ANAT 2336 2353	abdominopelvienne
+T47	DISO 2374 2436	lésion tumorale hypo échogène hétérogène érythémateuse ulcérée
+T48	MEAS 2446 2450	22cm
+T49	Concept_Idea 2454 2463	grand axe
+T50	ANAT 2486 2509	structures intestinales
+T51	ANAT 2523 2528	grêle
+T52	ANAT 2533 2550	vésicule biliaire
+T53	ANAT 2556 2564	épiploon
+T54	LIVB 2569 2577	patiente
+T55	PROC 2596 2620	chimiothérapie adjuvante
+T56	CHEM 2626 2636	Tamoxifène
+T57	DOSE 2638 2645	50mg/m²
+T58	TEMP 2645 2647	/j
+T59	PROC 2660 2690	traitement médical substitutif
+T60	CHEM 2704 2723	Valproate de sodium
+T61	CHEM 2725 2739	Chlorpromazine
+T62	CHEM 2754 2787	anti-inflammatoires plaquettaires
+T63	PROC 2793 2812	annexectomie totale
+T64	Localization 2806 2812	totale
+T65	PROC 2830 2850	péritoine aspiration
+T66	PHEN 2898 2918	grossesse gémellaire

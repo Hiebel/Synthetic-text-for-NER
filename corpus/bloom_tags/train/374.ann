@@ -1,0 +1,62 @@
+T1	LIVB 29 37	patiente
+T2	DISO 71 94	hypertension artérielle
+T3	ANAT 84 94	artérielle
+T4	CHEM 100 113	béta bloqueur
+T5	MODE 118 128	voie orale
+T6	PROC 139 144	reçue
+T7	Hospital 156 163	service
+T8	DISO 199 211	chirurgicale
+T9	TEMP 221 234	depuis 2 mois
+T10	DISO 254 266	métrorragies
+T11	PROC 284 305	traitées médicalement
+T12	DISO 319 325	fièvre
+T13	MEAS 337 341	39°C
+T14	DISO 357 387	sensibilité abdomino-pelvienne
+T15	ANAT 369 387	abdomino-pelvienne
+T16	MEAS 402 413	progressive
+T17	TEMP 422 442	deux jours plus tard
+T18	DISO 467 486	traumatisme méningé
+T19	LIVB 508 516	patiente
+T20	PROC 654 682	prise en charge chirurgicale
+T21	DISO 791 814	hyperthyroïdie primaire
+T22	PROC 831 852	échographie pelvienne
+T23	ANAT 843 852	pelvienne
+T24	LIVB 873 881	patients
+T25	MEAS 901 908	brutale
+T26	DISO 915 938	paralysie sinusiocæcale
+T27	ANAT 925 938	sinusiocæcale
+T28	LIVB 959 965	femmes
+T29	PROC 1001 1018	cysto-mastoplasty
+T30	DEVI 1055 1063	matériel
+T31	DEVI 1089 1104	attelle plâtrée
+T32	MEAS 1373 1377	10 %
+T33	PROC 1445 1492	scanner thoraco-abdomino pelvien complémentaire
+T34	ANAT 1453 1492	thoraco-abdomino pelvien complémentaire
+T35	DISO 1514 1609	masse tissulaire hypo vascularisée hypodense pariétale latérale bilatérale pro-supérieur droite
+T36	Localization 1578 1609	bilatérale pro-supérieur droite
+T37	MEAS 1619 1622	2cm
+T38	Concept_Idea 1626 1635	grand axe
+T39	DOSE 1752 1761	injection
+T40	CHEM 1765 1785	produit de contraste
+T41	DISO 1815 1850	anévrismome tumoradénineux kystique
+T42	DISO 1920 1945	localisations secondaires
+T43	DISO 2272 2297	signes histopathologiques
+T44	DISO 2320 2369	négativations immunohistochimiques inflammatoires
+T45	MEAS 2468 2487	fortement positives
+T46	LIVB 2492 2500	patiente
+T47	PROC 2520 2551	traitement médical conservateur
+T48	CHEM 2564 2573	acyclovir
+T49	DOSE 2575 2580	400mg
+T50	TEMP 2580 2585	/jour
+T51	CHEM 2593 2606	métronidazole
+T52	DOSE 2608 2614	200 mg
+T53	TEMP 2614 2616	/j
+T54	DISO 2668 2689	détresse respiratoire
+T55	PHEN 2677 2689	respiratoire
+T56	TEMP 2699 2712	depuis 1 mois
+T57	DISO 2728 2734	sueurs
+T58	MEAS 2735 2743	profuses
+T59	MODE 2770 2780	voie orale
+T60	CHEM 2783 2801	hydroxychloroquine
+T61	DISO 2822 2860	syndrome d'épanchement intrapéritonéal
+T62	ANAT 2845 2860	intrapéritonéal

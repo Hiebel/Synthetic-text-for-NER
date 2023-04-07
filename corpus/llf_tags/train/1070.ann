@@ -1,0 +1,10 @@
+T1	LIVB 3 10	patient
+T2	DISO 71 99	dysfonction rénale chronique
+T3	ANAT 83 89	rénale
+T4	DISO 115 121	fièvre
+T5	MEAS 132 137	39°5C
+T6	ANAT 156 191	rein controlatéral supérieur droite
+T7	Localization 185 191	droite
+T8	MEAS 235 250	progressivement
+T9	MEAS 265 277	spontanément
+T10	DISO 327 345	polypnée sifflante

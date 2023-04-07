@@ -1,0 +1,20 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	5 ans
+T3	TEMP 65 70	2 ans
+T4	PROC 76 113	traitement antibacillaire substitutif
+T5	PROC 118 124	envoyé
+T6	Hospital 134 141	hôpital
+T7	PROC 160 250	ponction-biopsie pleurale érythémato-graisseuse para péritonéale segmentaire cœlioscopique
+T8	ANAT 177 185	pleurale
+T9	DOSE 286 290	4 mg
+T10	CHEM 294 307	bêtaméthasone
+T11	Concept_Idea 323 331	contours
+T12	MEAS 332 358	macroscopiquementrégulière
+T13	ANAT 438 459	épi-pleural liquidien
+T14	MEAS 505 518	proportionale
+T15	DISO 554 585	complications thromboemboliques
+T16	DISO 604 628	traumatisme hémorragique
+T17	Localization 662 672	bilatérale
+T18	ANAT 702 712	pulmonaire
+T19	DISO 784 804	kystes hypertrophiés
+T20	DEVI 1108 1200	Siemens-Scanner® 2-Densitométrique monochambre 64 CHIRRHZ/4CHIRRHZE/2DRM Métaphasique 4FLAIR

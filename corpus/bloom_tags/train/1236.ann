@@ -1,0 +1,56 @@
+T1	LIVB 19 26	patient
+T2	PROC 59 83	chimiothérapie adjuvante
+T3	CHEM 85 89	CDDP
+T4	MODE 95 105	voie orale
+T5	CHEM 119 132	dexaméthasone
+T6	CHEM 141 151	cisplatine
+T7	DOSE 168 173	20 mg
+T8	TEMP 173 175	/j
+T9	CHEM 187 199	carboplatine
+T10	PROC 205 227	corticothérapie per os
+T11	PHEN 233 246	biquotidienne
+T12	CHEM 261 287	radiothérapeurs palliatifs
+T13	LIVB 317 325	patiente
+T14	LIVB 335 339	elle
+T15	PROC 358 376	traitement curatif
+T16	DISO 414 423	symptômes
+T17	ANAT 463 493	liquidien péritonéal liquidien
+T18	DISO 567 587	hémorragie pelvienne
+T19	ANAT 578 587	pelvienne
+T20	PROC 694 734	radiographie thoracico-dorsorso-latérale
+T24	Localization 795 814	homolatérale droite
+T25	MEAS 855 859	13cm
+T26	Concept_Idea 863 872	grand axe
+T27	DISO 888 1017	dépression hilaire basithoracique bilatérale prédominante palméo-céphalo-diaphragmatique scissurolombaire lobulo-thoracique droit
+T28	ANAT 899 1017	hilaire basithoracique bilatérale prédominante palméo-céphalo-diaphragmatique scissurolombaire lobulo-thoracique droit
+T31	Localization 1012 1017	droit
+T32	PROC 1066 1075	injection
+T33	CHEM 1079 1090	propranolol
+T34	PROC 1134 1143	injection
+T35	CHEM 1147 1158	propranolol
+T36	Concept_Idea 1193 1201	contours
+T37	Concept_Idea 1218 1224	taille
+T38	DEVI 1241 1266	microscope radiographique
+T39	PROC 1283 1302	étude histochimique
+T40	DISO 1340 1355	élément tumoral
+T41	PROC 1376 1399	diagnostic différentiel
+T42	DISO 1484 1517	métastose pulmonaire métastatique
+T43	ANAT 1494 1517	pulmonaire métastatique
+T44	PROC 1522 1554	scanner thoraco-abdomino-pelvien
+T45	ANAT 1530 1554	thoraco-abdomino-pelvien
+T46	DISO 1591 1616	localisations secondaires
+T47	PROC 1694 1725	tomodensitométrie préopératoire
+T48	PROC 1726 1747	TDM) pleuropulmonaire
+T49	ANAT 1731 1747	pleuropulmonaire
+T50	MEAS 1764 1771	normale
+T51	CHEM 1805 1823	méthylprednisolone
+T52	MEAS 1834 1848	12 µg/m² /µmol
+T53	PROC 2205 2234	recherche immunohistochimique
+T54	PROC 2253 2275	marquants sérologiques
+T55	LIVB 2280 2288	patiente
+T56	PROC 2306 2333	traitement médical adjuvant
+T57	CHEM 2348 2361	bêtaméthasone
+T58	DOSE 2363 2369	0,5 mg
+T59	TEMP 2369 2371	/j
+T60	CHEM 2379 2404	antiestrogène substitutif
+T61	TEMP 2423 2429	4 mois

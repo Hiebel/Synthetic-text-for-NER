@@ -1,0 +1,54 @@
+T1	LIVB 4 9	femme
+T2	DISO 34 59	antécédents pathologiques
+T3	MEAS 60 72	particuliers
+T4	PROC 79 84	reçue
+T5	Hospital 89 97	urgences
+T6	DISO 117 185	syndrome d'épanchement liquidien médiastinal basithoracique syndrome
+T8	CHEM 187 192	EIMTS
+T9	PROC 199 222	radiographies standards
+T10	DISO 241 322	masse ostéo-condensante hypodense hyperhétérogène tissulaire lithiasique nécrosée
+T11	ANAT 337 346	épigastre
+T12	MEAS 356 361	10 cm
+T13	Concept_Idea 365 374	grand axe
+T14	MEAS 379 383	6 cm
+T15	Concept_Idea 387 400	petite taille
+T16	DISO 421 523	adénopathies jugulo-carotidopharyngiennes inféro-latérales thoraciques cervico-sternale hypohypodenses
+T18	CHEM 546 566	produit de contraste
+T19	DISO 606 623	ostéo-condensante
+T20	DISO 728 806	opacité basithoracique bilatérale latérale diaphragmatique segmentaire bilobée
+T21	ANAT 736 806	basithoracique bilatérale latérale diaphragmatique segmentaire bilobée
+T23	DEVI 823 862	boudin d'invagination gynécocylindrique
+T24	MEAS 871 884	stade III-IIA
+T25	DISO 960 980	déficit neurologique
+T26	DISO 991 1014	localisations tumorales
+T27	DISO 1042 1060	thrombus caverneux
+T28	PROC 1064 1108	tomodensitométrie thoraco-abdomino-pelvienne
+T29	ANAT 1082 1108	thoraco-abdomino-pelvienne
+T31	Localization 1171 1174	sus
+T33	MEAS 1788 1793	70 mm
+T34	MEAS 1796 1800	50mm
+T35	MEAS 1804 1808	40mm
+T36	MEAS 1811 1815	30mm
+T37	ANAT 1838 1856	cavités cardiaques
+T38	DISO 1928 1953	maladie cardiovasculaires
+T39	DISO 1960 1973	consanguinité
+T40	DISO 2001 2021	lymphangiome maligne
+T41	LIVB 2076 2082	enfant
+T42	LIVB 2086 2088	il
+T43	TEMP 2096 2102	24 ans
+T44	PROC 2124 2139	scanner pelvien
+T45	ANAT 2132 2139	pelvien
+T46	PROC 2151 2195	échographie abdomino-pelvienne transfixiante
+T49	ANAT 2285 2298	épiphéritoine
+T50	PHEN 2320 2335	cycle menstruel
+T51	Concept_Idea 2341 2348	hauteur
+T52	MEAS 2352 2357	10 cm
+T53	PROC 2362 2378	bilan biologique
+T54	CHEM 2391 2411	produit de contraste
+T55	PROC 2425 2448	diagnostic différentiel
+T56	DISO 2465 2488	méningo-radiculonévrite
+T57	DISO 2506 2540	hypothalamohypocinésie hypotensive
+T58	DISO 2557 2600	syndrome d'épanchement liquidien péritonéal
+T59	ANAT 2580 2600	liquidien péritonéal
+T60	DISO 2646 2658	métrorragies
+T61	DISO 2673 2689	signes cliniques

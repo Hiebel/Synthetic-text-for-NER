@@ -1,0 +1,116 @@
+T1	PROC 2 17	examen clinique
+T2	DISO 34 39	masse
+T3	ANAT 56 80	région scapulaire droite
+T4	Localization 74 80	droite
+T5	MEAS 91 95	3 cm
+T6	Concept_Idea 99 108	grand axe
+T7	DISO 118 145	remaniements cutanéomuqueux
+T8	PROC 150 167	tomodensitométrie
+T9	PROC 169 183	TDM) cérébrale
+T10	ANAT 174 183	cérébrale
+T11	DISO 195 204	anomalies
+T12	DISO 241 266	localisations secondaires
+T13	DISO 280 310	pseudo-kyste du tronc cérébral
+T14	ANAT 296 310	tronc cérébral
+T15	DISO 320 340	signe neuropsychique
+T16	Concept_Idea 352 380	tableau clinico-radiologique
+T17	DISO 398 424	neurofibromatopancréatique
+T18	PROC 454 473	traitement adjuvant
+T19	LIVB 503 509	malade
+T20	PROC 531 536	suivi
+T21	Hospital 546 566	services spécialisés
+T22	PROC 571 587	bilan biologique
+T23	MEAS 601 607	normal
+T24	PROC 623 642	hémoglobine glyquée
+T25	MEAS 645 653	2,6 g/dL
+T26	MEAS 670 689	supérieur à 0,5g/dL
+T27	PROC 696 707	transfusion
+T28	DOSE 712 718	400 mg
+T29	CHEM 722 737	céphalosporines
+T30	TEMP 778 788	/24 heures
+T31	PROC 795 823	prise en charge chirurgicale
+T32	Hospital 828 849	urgences pédiatriques
+T33	DISO 906 937	séjour hospitalier pathologique
+T34	DISO 961 983	complication néonatale
+T35	PROC 1069 1082	consultations
+T36	MEAS 1115 1122	simples
+T37	PROC 1128 1158	antibiothérapie antibacillaire
+T38	CHEM 1168 1199	amoxicilline acide clavulanique
+T39	CHEM 1202 1231	amoxicilline aminotransfuséne
+T40	CHEM 1234 1260	amoxicilline diphosphonate
+T41	CHEM 1263 1277	gentaméthasone
+T42	CHEM 1280 1290	aminosides
+T43	CHEM 1293 1303	vécuronium
+T44	CHEM 1306 1321	glucantimeptine
+T45	CHEM 1324 1337	monocytocique
+T46	CHEM 1340 1350	isoniazide
+T47	CHEM 1353 1364	rifampicine
+T48	CHEM 1367 1382	fluoroquinolone
+T49	CHEM 1385 1401	cyclophosphamide
+T50	CHEM 1404 1417	métronidazole
+T51	CHEM 1420 1432	pyrazinamide
+T52	CHEM 1435 1446	potramycine
+T53	CHEM 1449 1460	nicardipine
+T54	CHEM 1463 1481	acide tranexamique
+T55	CHEM 1484 1495	néostigmine
+T56	CHEM 1498 1507	imipenème
+T57	CHEM 1510 1523	dexaméthasone
+T58	CHEM 1526 1539	noradrénaline
+T59	CHEM 1542 1554	rituximazine
+T60	CHEM 1557 1567	antalgique
+T61	CHEM 1570 1600	dihydroxychlorure de magnésium
+T62	CHEM 1603 1622	tétrazidimepéridine
+T63	CHEM 1625 1639	hydrocortisone
+T64	CHEM 1642 1662	calciparumabouracile
+T65	CHEM 1665 1682	methoxycarbamates
+T66	CHEM 1685 1697	prédnisolone
+T67	CHEM 1700 1721	statinesulfaméthasone
+T68	CHEM 1724 1743	carbonate de sodium
+T69	CHEM 1746 1762	ethambutolactone
+T70	CHEM 1765 1776	cortisolone
+T71	CHEM 1779 1795	ciprosifloxacine
+T72	CHEM 1798 1817	méthylpropanolamine
+T73	CHEM 1820 1836	etopentamétaxone
+T74	CHEM 1839 1852	cotrimoxazole
+T75	CHEM 1855 1865	cisplatine
+T76	CHEM 1868 1879	énoxaparine
+T77	CHEM 1882 1896	rhamnaphtalène
+T78	CHEM 1899 1918	furosémide acétique
+T79	CHEM 1921 1941	valproate de lithium
+T80	CHEM 1944 1978	polypropyl benzyle adrénal sodique
+T81	CHEM 1981 2003	formaldéhyde éthylique
+T82	CHEM 2006 2015	thymidine
+T83	CHEM 2018 2032	œstriméthamine
+T84	PROC 2050 2072	contrôle échographique
+T85	LIVB 2095 2102	enfants
+T86	Concept_Idea 2143 2172	état hémodynamiquement stable
+T87	DEVI 2196 2229	échographe obstétrical compressif
+T88	PROC 2252 2295	doppler des aires ganglionnaires cervicales
+T89	ANAT 2264 2295	aires ganglionnaires cervicales
+T91	ANAT 2337 2349	cuir chevelu
+T92	MEAS 2386 2393	simples
+T93	PROC 2400 2416	bilan biologique
+T94	DISO 2428 2437	anomalies
+T95	DISO 2458 2478	récidive infectieuse
+T96	PROC 2487 2496	admission
+T97	Hospital 2505 2526	structure pédiatrique
+T98	MEAS 2544 2553	favorable
+T99	TEMP 2556 2566	trois mois
+T100	PROC 2572 2594	traitement substitutif
+T101	PROC 2603 2633	biantibiothérapie probabiliste
+T102	Concept_Idea 2645 2673	résultat anatomopathologique
+T103	PROC 2752 2758	examen
+T104	LIVB 2769 2777	Patiente
+T105	MEAS 2802 2803	3
+T106	LIVB 2804 2811	garçons
+T107	CHEM 2854 2869	antituberculeux
+T108	CHEM 2871 2881	aminosides
+T109	CHEM 2884 2898	neuroleptiques
+T110	DISO 2952 2971	contage tuberculeux
+T111	DISO 2982 3011	problèmes neuropsychiatriques
+T112	LIVB 3028 3036	patiente
+T113	PROC 3068 3107	hypnoticoagulation intraveineuse totale
+T114	DISO 3180 3207	hallucinations psychotiques
+T115	PROC 3250 3281	enquête médico-psycho-éducative
+T116	PHEN 3618 3635	épisodes fébriles
+T117	DISO 3828 3853	syphilitique rhumatismale

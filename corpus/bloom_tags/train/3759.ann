@@ -1,0 +1,45 @@
+T1	LIVB 29 37	patiente
+T2	MEAS 54 63	primipare
+T3	MEAS 96 104	notables
+T4	PROC 108 123	examen clinique
+T5	PROC 128 137	admission
+T6	Concept_Idea 154 169	acuité visuelle
+T7	PHEN 174 185	perceptions
+T8	TEMP 205 218	depuis 2 mois
+T9	PROC 222 243	échographie pelvienne
+T10	ANAT 234 243	pelvienne
+T11	MEAS 250 257	normale
+T12	PROC 264 300	tomodensitométrie abdomino-pelvienne
+T13	ANAT 282 300	abdomino-pelvienne
+T14	DISO 318 340	épanchement péritonéal
+T15	ANAT 330 340	péritonéal
+T16	DISO 350 370	masse du flanc droit
+T17	ANAT 359 370	flanc droit
+T18	Localization 365 370	droit
+T19	CHEM 378 399	produits de contraste
+T20	ANAT 418 444	grosses cavités ovariennes
+T21	DISO 468 483	symptomatologie
+T22	PROC 502 535	diagnostic prénatal échographique
+T23	PROC 553 582	prélèvement bactérioculturels
+T24	PROC 641 664	évacuation chirurgicale
+T25	DISO 670 690	fœtus hypo-protéinné
+T26	MEAS 717 730	macroscopique
+T27	DISO 748 769	détresse respiratoire
+T28	PHEN 757 769	respiratoire
+T29	LIVB 791 797	enfant
+T30	PROC 802 812	extubation
+T31	MODE 818 844	voie veineuse périphérique
+T32	CHEM 886 904	méthylprednisolone
+T33	PROC 909 934	intervention chirurgicale
+T34	PROC 951 975	anesthésie locorégionale
+T35	ANAT 962 975	locorégionale
+T36	PROC 1067 1098	trans-surrénaline intraveineuse
+T37	DOSE 1112 1119	2 µg/kg
+T38	CHEM 1123 1136	triaméthasone
+T39	DOSE 1170 1177	1 mg/kg
+T40	CHEM 1181 1195	hydrocortisone
+T41	MEAS 1304 1309	10/10
+T42	MEAS 1332 1344	2900 grammes
+T43	MEAS 1348 1360	3430 grammes
+T44	MEAS 1385 1390	36 cm
+T45	MEAS 1394 1399	42 cm

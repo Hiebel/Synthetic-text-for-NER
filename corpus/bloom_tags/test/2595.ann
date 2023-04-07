@@ -1,0 +1,24 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 19 25	16 ans
+T3	PROC 30 38	adressée
+T4	PROC 49 55	suivie
+T5	PHEN 62 82	grossesse gémellaire
+T6	PROC 87 98	contraculée
+T7	Hospital 105 149	hôpital universitaire Hassan Ibn Sina de Fès
+T8	DISO 208 228	douleur épigastrique
+T9	ANAT 216 228	épigastrique
+T10	MEAS 243 254	progressive
+T11	MEAS 266 279	rapidentement
+T12	Concept_Idea 283 289	volume
+T13	MEAS 299 306	intense
+T14	LIVB 319 323	elle
+T15	DISO 352 380	symptomatologie neurologique
+T16	DISO 412 451	traumatisme abdomino-pyéléo-prénétrable
+T17	ANAT 424 451	abdomino-pyéléo-prénétrable
+T18	TEMP 479 485	10 ans
+T19	DISO 544 584	déficit sensitivo-moteur sensitivomoteur
+T20	DISO 601 635	méningoencephalopathie congénitale
+T21	DISO 653 677	anomalies neuro motrices
+T22	DISO 1057 1081	pathologies néoplasiques
+T23	DISO 1096 1115	métastases tumoraux
+T24	ANAT 1107 1115	tumoraux

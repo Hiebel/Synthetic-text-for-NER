@@ -1,0 +1,24 @@
+T1	LIVB 20 28	patiente
+T2	DISO 40 51	hypertendue
+T3	PROC 57 75	traitement médical
+T4	CHEM 85 106	antidiabétiques oraux
+T5	PROC 121 133	hospitalisée
+T6	DISO 143 196	carcinose pneumo-pulmonaire du membre inférieur droit
+T7	ANAT 153 170	pneumo-pulmonaire
+T8	ANAT 174 196	membre inférieur droit
+T9	Localization 191 196	droit
+T10	TEMP 206 218	depuis un an
+T11	PROC 222 237	examen clinique
+T12	LIVB 251 259	patiente
+T13	MEAS 263 266	bon
+T15	DISO 285 306	détresse respiratoire
+T16	Concept_Idea 294 306	respiratoire
+T17	DISO 317 340	symptômes neurologiques
+T18	DISO 367 393	troubles sensitivomotrices
+T20	PROC 417 432	TDM) abdominale
+T21	ANAT 422 432	abdominale
+T22	DISO 466 536	épanchement intrapéritonéal latéro-mésentérique péripancréatico-dilaté
+T24	ANAT 551 576	membres inférieurs droits
+T25	Localization 570 576	droits
+T26	ANAT 593 613	structures grêliques
+T27	ANAT 627 664	parenchyme graisseux hépato-splénique

@@ -1,0 +1,83 @@
+T1	LIVB 3 10	patient
+T2	DISO 44 89	accident ischémique du membre supérieur droit
+T3	ANAT 67 89	membre supérieur droit
+T4	Localization 84 89	droit
+T5	LIVB 108 111	son
+T6	LIVB 112 118	enfant
+T7	DISO 120 131	traumatique
+T8	DISO 135 148	anévrismalisé
+T9	PROC 154 172	traitement médical
+T10	CHEM 183 191	néfopril
+T11	CHEM 195 207	bêtabloquant
+T12	PROC 211 244	échocardiographie transthoracique
+T13	ANAT 229 244	transthoracique
+T15	ANAT 492 512	ventricules centraux
+T16	Localization 504 512	centraux
+T17	DISO 560 571	infarctante
+T18	DISO 598 624	troubles électrocardiaques
+T19	DISO 654 694	polynucléaires érythémato-pustule cutané
+T20	DISO 701 762	syndrome d'épanchement intrarachidien laryngopharyngotrachéal
+T21	ANAT 724 762	intrarachidien laryngopharyngotrachéal
+T22	DISO 772 805	maladie thromboembolique veineuse
+T23	DISO 868 883	symptomatologie
+T24	PROC 887 923	tomodensitométrie abdomino-pelvienne
+T25	ANAT 905 923	abdomino-pelvienne
+T27	PROC 1042 1051	injection
+T28	CHEM 1055 1075	produit de contraste
+T29	MEAS 1087 1096	lentement
+T30	Concept_Idea 1100 1106	volume
+T31	MEAS 1116 1120	48mm
+T32	Concept_Idea 1124 1133	grand axe
+T33	ANAT 1154 1164	col utérin
+T34	ANAT 1185 1202	paroi péritonéale
+T35	MEAS 1231 1239	homogène
+T36	ANAT 1283 1300	vésicule biliaire
+T37	ANAT 1327 1345	cavités ovariennes
+T38	DISO 1466 1481	myxome kystique
+T39	DISO 1489 1546	hypertrophie myxo-gigantocellulaire choroïdienne nécrosée
+T40	ANAT 1568 1577	pelvienne
+T41	DISO 1590 1612	neuroendocrine tumoral
+T42	PROC 1653 1685	scanner thoraco abdomino-pelvien
+T43	ANAT 1661 1685	thoraco abdomino-pelvien
+T44	DISO 1729 1789	lésion lobulée bourgeonnante angiographiquement vascularisée
+T45	ANAT 1835 1858	structures intestinales
+T46	MEAS 1894 1903	suspectes
+T47	DISO 1927 1944	lésions cliniques
+T48	DISO 2002 2021	douleurs ombiliques
+T49	ANAT 2011 2021	ombiliques
+T50	MEAS 2046 2073	progressivement progressive
+T51	MEAS 2088 2094	rapide
+T52	Concept_Idea 2121 2127	taille
+T53	DISO 2158 2168	ménorrhées
+T54	MEAS 2182 2201	de grande abondance
+T55	DISO 2208 2232	céphalées post méningées
+T56	DISO 2460 2482	neuroleptique purulent
+T57	DISO 2507 2516	diarrhées
+T58	DISO 2523 2556	syndrome d'épanchement péritonéal
+T59	ANAT 2546 2556	péritonéal
+T60	PROC 2562 2578	examen somatique
+T61	LIVB 2595 2603	patiente
+T62	Concept_Idea 2618 2636	plan hémodynamique
+T63	DISO 2645 2666	détresse respiratoire
+T64	PHEN 2654 2666	respiratoire
+T65	DISO 2672 2695	adénopathies cervicales
+T66	ANAT 2685 2695	cervicales
+T67	PROC 2701 2731	bilan biologique préopératoire
+T68	PROC 2745 2824	anémie hypochrome microcytaire ferriprive érythémato-nucléocytaire plaquettaire
+T69	CHEM 2829 2847	méthyl-méthoxazole
+T70	DOSE 2848 2855	1 mg/kg
+T71	TEMP 2855 2860	/jour
+T72	MODE 2862 2878	intramusculaires
+T73	DEVI 2883 2902	seringue électrique
+T74	CHEM 2915 2928	metaméthasone
+T75	PROC 2934 2965	échographie abdomino- pelvienne
+T76	ANAT 2946 2965	abdomino- pelvienne
+T77	DISO 2982 3040	masse tissulaire arrondie latéro-vésiculaire hypovolaminée
+T78	MEAS 3049 3053	3 cm
+T79	Concept_Idea 3057 3064	largeur
+T80	MEAS 3066 3070	2 cm
+T81	Concept_Idea 3074 3084	profondeur
+T82	DISO 3104 3138	infiltrat gangliosidéo-bulletineux
+T83	ANAT 3114 3138	gangliosidéo-bulletineux
+T84	DISO 3144 3166	épanchement péritonéal
+T85	ANAT 3156 3166	péritonéal

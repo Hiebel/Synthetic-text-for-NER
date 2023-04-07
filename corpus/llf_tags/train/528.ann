@@ -1,0 +1,29 @@
+T1	LIVB 21 28	patient
+T2	LIVB 133 139	équipe
+T3	DISO 149 175	déambulations psychotiques
+T4	CHEM 193 222	alcoolisations intraveineuses
+T5	DISO 228 242	désambulations
+T6	DISO 306 330	hallucinations auditives
+T7	DISO 464 487	hallucinations tactiles
+T8	PROC 726 749	enquête comportementale
+T9	LIVB 759 766	malades
+T10	Concept_Idea 1125 1137	état général
+T11	MEAS 1436 1440	100%
+T12	Hospital 1476 1504	soins intensifs pédiatriques
+T13	PROC 1625 1653	consultation préanesthésique
+T14	PROC 1669 1691	traitement substitutif
+T15	PROC 1711 1755	ponction biopsie nasopharyngée scanno-guidée
+T16	ANAT 1728 1741	nasopharyngée
+T17	LIVB 1809 1816	patient
+T18	PHEN 1828 1848	diabète gestationnel
+T19	DISO 1863 1891	hypoparathyroïdie secondaire
+T20	DISO 1904 1923	signes fonctionnels
+T21	PROC 1938 1968	bupivacainectomie exploratrice
+T22	DISO 2016 2080	masse cervicale lobaire rétro péritonéale tissulaire polylobulée
+T23	MEAS 2089 2094	2/3cm
+T24	MEAS 2104 2110	5×6 cm
+T25	ANAT 2125 2135	rein droit
+T26	Localization 2130 2135	droit
+T27	MEAS 2171 2181	hétérogène
+T28	ANAT 2202 2222	muqueuses digestives
+T29	MEAS 2283 2290	simples

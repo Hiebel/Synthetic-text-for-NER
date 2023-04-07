@@ -1,0 +1,37 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	DISO 55 82	douleur abdomino- pelvienne
+T4	ANAT 63 82	abdomino- pelvienne
+T5	TEMP 103 120	depuis 3 semaines
+T6	MEAS 135 146	progressive
+T7	DISO 162 174	métrorragies
+T8	DISO 187 206	signes fonctionnels
+T9	PROC 220 242	radiographie pelvienne
+T10	ANAT 233 242	pelvienne
+T11	DISO 256 280	masse kystique hypodense
+T12	MEAS 290 295	17 cm
+T13	Concept_Idea 299 308	grand axe
+T14	Localization 317 325	totalité
+T15	ANAT 360 372	ovaire droit
+T16	Localization 367 372	droit
+T17	DISO 391 418	hypotonie péritonéale aiguë
+T18	MEAS 430 442	spontanément
+T19	Concept_Idea 446 452	taille
+T20	MEAS 462 473	volumineuse
+T21	PROC 490 507	tomodensitométrie
+T22	PROC 509 512	TDM
+T23	PROC 529 538	injection
+T24	DOSE 542 546	1 ml
+T25	CHEM 550 570	produit de contraste
+T26	DISO 597 610	masse maligne
+T27	DISO 641 660	pancréatocellulaire
+T28	DISO 664 681	paragangliomateux
+T29	PROC 713 734	biopsie transfixiante
+T30	PROC 740 773	anesthésie loco-rachianesthétique
+T31	ANAT 751 773	loco-rachianesthétique
+T32	DEVI 799 815	matériel fibreux
+T33	DISO 841 862	kystique hypertrophié
+T34	DISO 1153 1181	lésions nécrotico-squameuses
+T35	DISO 1209 1222	ganglionnaire
+T36	DISO 1228 1247	adénomégalie cœcale
+T37	DISO 1267 1280	pathologiques

@@ -1,0 +1,73 @@
+T1	LIVB 20 25	femme
+T2	PROC 51 63	hospitalisée
+T3	DISO 73 80	dyspnée
+T4	Concept_Idea 125 137	état général
+T5	DISO 145 157	vomissements
+T6	PROC 161 176	examen clinique
+T7	MEAS 206 216	volumineux
+T8	DISO 217 232	œdème du thorax
+T9	ANAT 226 232	thorax
+T10	DISO 246 266	signes histologiques
+T11	DISO 293 321	symptomatologie respiratoire
+T12	PHEN 309 321	respiratoire
+T13	DISO 331 351	trouble ventilatoire
+T14	DISO 381 396	symptomatologie
+T15	PROC 402 416	TDM thoracique
+T16	ANAT 406 416	thoracique
+T17	Concept_Idea 449 455	aspect
+T18	PROC 463 474	échographie
+T19	ANAT 489 513	troncs jugulocarotidiens
+T20	PROC 570 595	étude immunohistochimique
+T21	CHEM 719 738	immunoglobulines A2
+T22	LIVB 760 768	patiente
+T23	PROC 1319 1329	recherches
+T24	PROC 1617 1644	anticorps auto-agglutinants
+T25	Concept_Idea 1684 1719	domaine biologiquement probabiliste
+T26	PROC 1750 1769	bilan chromogénique
+T27	PROC 1861 1883	cysto-réaction directe
+T28	PROC 1903 1936	anticorps monoclonaux polyvalents
+T29	DEVI 1992 2016	matériel d'ostéosynthèse
+T30	PROC 2022 2053	diagnostic anatomopathologiaque
+T31	DISO 2087 2150	processus tissulaire érythromateux hétéronodulaire malformative
+T32	ANAT 2176 2210	ganglions mésenchymateux fundiques
+T33	MEAS 2295 2299	20mm
+T34	MEAS 2302 2306	15mm
+T35	PROC 2323 2345	résection chirurgicale
+T36	DISO 2436 2447	infectieuse
+T37	PROC 2479 2517	curage ganglionnaire cervicale profond
+T38	MEAS 2543 2552	10 litres
+T39	ANAT 2556 2567	sang séreux
+T41	PROC 2882 2921	anastomose du quadrant inférieur gauche
+T42	ANAT 2896 2921	quadrant inférieur gauche
+T43	Localization 2915 2921	gauche
+T44	PROC 2935 2966	reprise en charge adjudicatrice
+T45	DISO 3013 3049	germe dysplasmocytogenes neutrophile
+T46	LIVB 3076 3083	malades
+T47	CHEM 3099 3110	corticoïdes
+T48	DOSE 3112 3121	1,5 mg/kg
+T49	TEMP 3121 3126	/jour
+T50	PROC 3153 3331	cholécystectomie totale élargie monobloc BOIRELAZINE Acide acétyle méthoxypyrrolidase Methotrexate Inextric Treatment Fibroscopy Growth Factors Organized Leukemia Metabioecidosis
+T51	MEAS 3348 3355	tardive
+T52	PROC 3369 3426	hystérectomie partielle enduro-pédiatrique double invasif
+T53	PROC 3447 3479	geste chirurgical complémentaire
+T54	MEAS 3544 3554	favorables
+T55	LIVB 3569 3576	malades
+T56	LIVB 3608 3615	patient
+T57	Hospital 3663 3691	soins intensifs pédiatriques
+T58	PHEN 3703 3712	grossesse
+T59	TEMP 3722 3742	deux mois auparavant
+T60	LIVB 3757 3759	il
+T61	PROC 3786 3817	hémiparésie primaire bichoriale
+T62	PROC 3850 3870	transfusion sanguine
+T63	PROC 3880 3921	hémodialyse intraveineuse extracorporelle
+T64	PROC 3952 3967	examen clinique
+T65	LIVB 3978 3984	enfant
+T66	DISO 3985 3994	nullipare
+T67	MEAS 4002 4013	3500grammes
+T68	Concept_Idea 4031 4057	classification de Schöckle
+T69	MEAS 4154 4164	4,2 mmol/L
+T70	MEAS 4186 4197	307 grammes
+T71	MEAS 4203 4213	170 gramme
+T72	PROC 4222 4235	préparationné
+T73	PROC 4242 4269	analyse immunohistochimique
+T74	DISO 4371 4396	lymphome myxoïde kystique

@@ -1,0 +1,82 @@
+T1	LIVB 3 10	patient
+T2	DISO 31 56	antécédents pathologiques
+T3	MEAS 57 69	particuliers
+T4	DISO 93 102	dysphagie
+T5	DISO 109 135	diabète insulino-requérant
+T6	DISO 152 167	symptomatologie
+T7	TEMP 178 187	deux mois
+T8	DISO 213 219	fièvre
+T9	Concept_Idea 277 289	état général
+T10	DISO 299 325	signes neuropsychiatriques
+T11	ANAT 339 361	membre supérieur droit
+T12	Localization 356 361	droit
+T13	PROC 367 382	examen clinique
+T14	LIVB 387 394	patient
+T15	DISO 399 406	fébrile
+T16	MEAS 409 415	38,7°C
+T17	DISO 447 466	syndrome infectieux
+T18	DISO 476 495	déficit immunitaire
+T19	DISO 506 532	signes clinico-biologiques
+T20	PHEN 547 565	suites opératoires
+T21	MEAS 571 578	simples
+T22	PROC 584 612	antibiothérapie probabiliste
+T23	CHEM 614 626	amoxicilline
+T24	CHEM 629 647	acide clavulanique
+T25	PROC 653 682	prise en charge thérapeutique
+T27	PROC 742 760	geste chirurgicale
+T28	Concept_Idea 771 789	principes généraux
+T29	PROC 808 826	toilette périnéale
+T30	ANAT 817 826	périnéale
+T31	PROC 855 869	lavage sanguin
+T32	ANAT 862 869	sanguin
+T33	PROC 918 948	corticothérapie antibacillaire
+T34	CHEM 954 968	ciprofloxacine
+T35	PROC 977 1003	explorations radiologiques
+T36	PROC 1035 1061	scintigraphie scannoguidée
+T37	ANAT 1080 1091	côté utérin
+T38	PROC 1103 1129	mise en place endoscopique
+T39	PROC 1164 1192	TDM crânio-thoraco-abdominal
+T40	ANAT 1168 1192	crânio-thoraco-abdominal
+T41	PROC 1214 1242	anastomose termino-terminale
+T42	ANAT 1281 1296	anses grêliques
+T43	ANAT 1322 1376	parties molles cervicales superficielles mésentériques
+T44	ANAT 1396 1421	veines jugulaires gauches
+T45	Localization 1414 1421	gauches
+T46	ANAT 1435 1461	anse inférieure bilatérale
+T47	Localization 1451 1461	bilatérale
+T48	MEAS 1543 1551	16/18 cm
+T49	MEAS 1554 1562	14/15 cm
+T50	ANAT 1568 1617	voies biliaires intrabronchovasculaires profondes
+T51	ANAT 1670 1715	annexes urétérales fémorales distales rénales
+T52	MEAS 1764 1769	20 mm
+T53	LIVB 1819 1826	famille
+T54	PROC 1831 1853	traitement chirurgical
+T55	Concept_Idea 1891 1920	résultats anatomopathologique
+T56	Hospital 1946 1953	hôpital
+T57	DISO 1983 2008	difficultés diagnostiques
+T58	PROC 2354 2384	traitement médical substitutif
+T59	PROC 2421 2446	étude immunohistochimique
+T60	PHEN 3188 3215	récepteurs gonadotrophiques
+T61	MEAS 3221 3229	négatifs
+T62	CHEM 3280 3288	inositol
+T63	DOSE 3290 3298	0,6mg/kg
+T64	TEMP 3298 3300	/j
+T65	PROC 3307 3334	tomodensitométrie du thorax
+T66	ANAT 3328 3334	thorax
+T67	DISO 3355 3413	urétéro-hydronéphrose bilatérale inguino-pariétale lobulée
+T68	Localization 3377 3387	bilatérale
+T69	DISO 3428 3476	pneumopéritoine rétropéritonéal exsudatif jugulé
+T70	ANAT 3495 3510	méso transverse
+T71	ANAT 3518 3541	fosses pyélocalicielles
+T72	PROC 3546 3572	complément scannographique
+T73	DISO 3604 3732	lymphocytome papillaire polymalformaté infiltrant tissulaire primitif érythromateux myxoïde monophasique fovéolaire type Wirsung
+T74	ANAT 3773 3791	cavité péritonéale
+T75	ANAT 3843 3864	structures digestives
+T76	ANAT 3882 3903	anse jéjunale caudale
+T77	ANAT 3920 3970	anses intestinales mésentériques antrepostérieures
+T78	ANAT 4155 4176	liquide gastrocnémien
+T79	PROC 4181 4191	diagnostic
+T80	DISO 4217 4292	hyperplasie glandulaire lymphoblastique eccrinescentrale thymique stade SBR
+T81	DISO 4310 4369	tuberculose carcinomateuse récidivante réfractaire primaire
+T82	PROC 4379 4419	classification Scapula tuberculosis AEVA
+T83	DISO 4463 4530	métastase ulcéro-ganglionnaire granulomateuse BCFNMHT syndrome KSBR

@@ -1,0 +1,35 @@
+T1	LIVB 3 14	jeune homme
+T2	PROC 159 192	cardiomyopathie dilatée du thorax
+T3	ANAT 186 192	thorax
+T4	LIVB 207 209	il
+T5	PROC 228 251	radiothérapie adjuvante
+T6	TEMP 255 259	2007
+T7	CHEM 261 292	amoxicilline acide clavulanique
+T8	Concept_Idea 317 320	âge
+T9	DISO 335 368	polyarthralgies aiguës mycosiques
+T10	DISO 384 424	syndrome polymalformatif sensitivomoteur
+T11	DISO 467 473	fièvre
+T12	TEMP 483 501	depuis trois jours
+T13	DISO 514 520	signes
+T14	DISO 547 558	traumatisme
+T15	DISO 568 602	symptomatologie neuropsychiatrique
+T16	PROC 607 636	prise en charge thérapeutique
+T17	PROC 668 695	mesures hygiéno-diététiques
+T18	Hospital 715 775	service hospitalier régional universitaire Yverdon-les-bains
+T19	DISO 823 852	manifestations psychomotrices
+T21	LIVB 1012 1019	patient
+T22	PHEN 1078 1098	allaitement maternel
+T23	PROC 1147 1168	méthode contraceptive
+T24	MEAS 1254 1264	favorables
+T25	PROC 1273 1294	contrôle radiologique
+T26	PROC 1345 1371	anticoagulation préventive
+T27	DISO 1479 1499	facteurs rhumatoïdes
+T28	DISO 1526 1568	maladie thromboembolique veineuse centrale
+T29	PROC 1585 1615	ventilation mécanique assistée
+T30	PROC 1629 1657	kinésithérapie sédationnelle
+T31	PROC 1671 1695	hémodialyse diagnostique
+T32	LIVB 1722 1732	nouveau-né
+T33	LIVB 1835 1837	sa
+T34	LIVB 1838 1848	belle-sœur
+T35	LIVB 1868 1871	son
+T36	LIVB 1872 1877	marié

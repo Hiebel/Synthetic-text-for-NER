@@ -1,0 +1,34 @@
+T1	LIVB 4 9	femme
+T2	MEAS 67 71	deux
+T3	LIVB 72 81	patientes
+T4	PROC 90 97	admises
+T5	Hospital 102 110	urgences
+T6	DISO 119 176	syndrome d'épanchement bilatéral du pancréas pancréatique
+T7	Localization 142 151	bilatéral
+T8	ANAT 155 176	pancréas pancréatique
+T9	TEMP 186 200	depuis 2 jours
+T10	Concept_Idea 235 247	état général
+T11	DISO 286 310	sensibilité épigastrique
+T12	ANAT 298 310	épigastrique
+T13	MEAS 322 337	progressivement
+T14	Concept_Idea 341 347	volume
+T15	MEAS 362 368	brutal
+T16	MEAS 378 390	prurigineuse
+T17	PROC 408 423	prise en charge
+T18	PROC 429 460	cortico-radiothérapie adjuvante
+T19	ANAT 561 584	méso-péritoine pariétal
+T20	PROC 633 648	examen clinique
+T21	LIVB 660 668	patiente
+T22	Concept_Idea 683 701	plan hémodynamique
+T23	Concept_Idea 716 733	état neurologique
+T24	MEAS 745 756	très altéré
+T25	PROC 774 805	auscultation abdomino-pelvienne
+T26	ANAT 787 805	abdomino-pelvienne
+T27	DISO 826 852	distension duodéno-caecale
+T28	ANAT 837 852	duodéno-caecale
+T29	MEAS 862 866	18cm
+T30	Concept_Idea 870 884	grand diamètre
+T31	ANAT 905 931	fosse iliaque homolatérale
+T32	Localization 919 931	homolatérale
+T33	DISO 953 1123	adénopathies hypogastriques infra-cervicales latérales hypogastriculaires basithoraciques épigastriques hétérogènes hétéro-myometricielles prédiamétrictives prurigineuses
+T35	PROC 1141 1161	examen préopératoire

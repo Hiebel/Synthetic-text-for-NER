@@ -1,0 +1,11 @@
+T1	PROC 3 20	bilan d'extension
+T2	PROC 44 66	radiographie du thorax
+T3	ANAT 60 66	thorax
+T4	DISO 82 96	particularités
+T5	PROC 110 132	TDM thoraco-abdominale
+T6	ANAT 114 132	thoraco-abdominale
+T7	MEAS 165 172	simples
+T8	TEMP 190 197	18 mois
+T9	Concept_Idea 204 224	résultat fonctionnel
+T10	MEAS 234 243	excellent
+T11	DISO 269 299	symptômes clinico-chirurgicaux

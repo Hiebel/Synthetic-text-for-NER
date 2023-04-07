@@ -1,0 +1,35 @@
+T1	LIVB 4 9	femme
+T2	Concept_Idea 31 56	antécédents pathologiques
+T3	MEAS 57 65	notables
+T4	PROC 67 73	admise
+T5	Hospital 78 86	urgences
+T6	DISO 96 149	douleurs pelviennes aiguës généralisées constrictives
+T7	ANAT 105 115	pelviennes
+T8	TEMP 159 175	depuis 48 heures
+T9	DISO 195 201	fièvre
+T10	PROC 218 233	examen clinique
+T11	LIVB 247 255	patiente
+T12	MEAS 259 264	bonne
+T13	Concept_Idea 265 279	santé générale
+T14	PROC 283 314	échographie abdomino- pelvienne
+T15	ANAT 295 314	abdomino- pelvienne
+T16	DISO 335 380	masse tissulaire hétérogène hypo vascularisée
+T17	ANAT 396 408	ovaire droit
+T18	Localization 403 408	droit
+T19	MEAS 418 423	13 cm
+T20	MEAS 428 433	12 cm
+T21	Concept_Idea 436 442	aspect
+T22	MEAS 443 455	bien arrondi
+T23	MEAS 464 467	1cm
+T24	Concept_Idea 471 480	grand axe
+T25	DISO 533 541	kystique
+T26	MEAS 553 568	progressivement
+T27	Concept_Idea 572 578	volume
+T28	MEAS 583 588	15 mm
+T29	MEAS 591 595	21mm
+T30	MEAS 606 622	multi-cloisonnée
+T31	DISO 718 758	carcinome œsophagien latéro-sphinctérien
+T32	PROC 764 800	tomodensitométrie abdomino-pelvienne
+T33	ANAT 782 800	abdomino-pelvienne
+T34	DISO 831 948	masse tumorale polylobée hypersignal rehaussée hyperintense pariétale infiltro-myometrielle basithoracique bilatérale
+T35	Localization 938 948	bilatérale

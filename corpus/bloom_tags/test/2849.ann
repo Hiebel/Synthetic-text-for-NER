@@ -1,0 +1,68 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	Concept_Idea 37 48	antécédents
+T4	MEAS 49 57	notables
+T5	PROC 59 64	Admis
+T6	Hospital 68 75	urgence
+T7	Hospital 80 101	urgences pédiatriques
+T8	DISO 120 143	agitation psychomotrice
+T9	DISO 157 169	hyperthermie
+T10	MEAS 172 176	39°c
+T11	PROC 180 195	examen clinique
+T12	ANAT 209 214	masse
+T13	ANAT 228 250	sinus parotidien droit
+T14	Localization 245 250	droit
+T15	MEAS 252 258	mobile
+T16	MEAS 262 270	indolore
+T17	PROC 275 309	ponction liquide céphalorachidiens
+T19	PROC 311 314	LCC
+T20	CHEM 332 353	hémoglobines glyquées
+T21	MEAS 356 361	4g/dl
+T22	PROC 374 411	électrophorèse des protéines sériques
+T23	PROC 519 540	recherche étiologique
+T24	MEAS 547 552	nulle
+T25	PROC 568 597	sérologies d'immunodépression
+T26	MEAS 606 615	négatives
+T27	PROC 625 663	protéinome polynucléaires neutrophiles
+T28	PROC 665 674	Genexpert
+T29	PROC 679 709	échographie abdomino-pelvienne
+T30	ANAT 691 709	abdomino-pelvienne
+T31	DISO 734 851	masse tissulaire hypo échogène hétérogène latéroutérine bilatérale basithoracique sus-rénal lithiasique hypertrophiée
+T33	MEAS 861 866	12 cm
+T34	Concept_Idea 870 879	grand axe
+T35	MEAS 884 889	13 cm
+T36	Concept_Idea 893 902	petit axe
+T37	PHEN 919 940	grossesse péritonéale
+T38	ANAT 929 940	péritonéale
+T39	DISO 951 971	anomalies viscérales
+T40	DISO 1005 1028	adénopathies pelviennes
+T41	ANAT 1018 1028	pelviennes
+T42	DISO 1038 1063	localisations secondaires
+T43	LIVB 1086 1094	patiente
+T44	PROC 1118 1124	suivie
+T45	DISO 1134 1143	symptômes
+T46	PROC 1147 1183	scanner abdomino périnéal transfixié
+T47	ANAT 1155 1183	abdomino périnéal transfixié
+T48	PROC 1197 1216	anesthésie générale
+T49	PROC 1223 1248	injections intraveineuses
+T50	DOSE 1252 1259	2 mg/kg
+T51	CHEM 1263 1274	propranolol
+T52	DOSE 1283 1290	1 mg/kg
+T53	CHEM 1294 1304	furosémide
+T54	DISO 1318 1339	hypersignal hypodense
+T55	ANAT 1368 1390	sinus parotidien droit
+T56	Localization 1385 1390	droit
+T57	DISO 1419 1433	chondromateuse
+T58	DISO 1479 1491	tuberculeuse
+T59	DISO 1536 1574	syndrome d'épanchement intrapéritonéal
+T60	ANAT 1559 1574	intrapéritonéal
+T61	DISO 1591 1611	processus gélatineux
+T62	Concept_Idea 1636 1657	résultats biologiques
+T63	DISO 1712 1747	métastases ganglionnaires tumorales
+T64	DISO 1839 1868	épanchement érythémato-cutané
+T65	PROC 2021 2048	reconstruction chirurgicale
+T66	DISO 2070 2093	lésions carcinomateuses
+T67	DISO 2103 2111	kystique
+T68	PROC 2139 2158	bilan préopératoire
+T69	DISO 2199 2215	maladie virale B
+T70	PROC 2326 2349	diagnostic différentiel

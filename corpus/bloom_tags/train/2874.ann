@@ -1,0 +1,76 @@
+T1	LIVB 15 22	patient
+T2	TEMP 59 63	2011
+T3	ANAT 80 100	paroi iliaque droite
+T4	Localization 94 100	droite
+T5	Concept_Idea 103 109	aspect
+T6	MEAS 110 117	tuméfié
+T7	DISO 125 134	saignante
+T8	PROC 139 163	bilan d'immunodépression
+T9	MEAS 175 182	négatif
+T10	DISO 200 230	polynucléaires érythrocytaires
+T11	DISO 237 256	protéine C réactive
+T12	PROC 258 261	CRP
+T13	MEAS 263 269	élevés
+T14	PROC 282 323	examen cytobactériologique des surrénales
+T15	ANAT 313 323	surrénales
+T16	PROC 329 353	scanner abdomino-pelvien
+T17	ANAT 337 353	abdomino-pelvien
+T18	PHEN 370 379	grossesse
+T19	MEAS 380 396	triple évolutive
+T20	PROC 419 426	biopsie
+T21	PROC 442 466	chimiothérapie adjuvante
+T22	CHEM 472 485	dexaméthasone
+T23	CHEM 488 502	hydrocortisone
+T24	MODE 507 525	voie intraveineuse
+T25	DOSE 528 533	30 mg
+T26	DOSE 536 542	1mg/kg
+T27	TEMP 547 553	7 mois
+T28	MEAS 570 578	complète
+T29	DISO 585 597	métrorragies
+T30	DISO 611 644	envahissement cervico-placentaire
+T31	ANAT 625 644	cervico-placentaire
+T32	DISO 651 674	vascularisation maligne
+T33	ANAT 694 713	annexes intestinaux
+T34	DISO 758 773	lésion kystique
+T35	PROC 806 821	échostructurale
+T36	DISO 867 889	épanchement péritonéal
+T37	ANAT 879 889	péritonéal
+T38	DISO 942 970	lésions ostéocarcinomateuses
+T39	PROC 974 1004	tomodensitométrie scannoguidée
+T40	LIVB 1031 1039	patiente
+T41	DISO 1110 1153	localisations thromboemboliques secondaires
+T42	DISO 1264 1278	thrombolytique
+T43	ANAT 1414 1420	pelvis
+T44	MEAS 1430 1434	46cm
+T45	Concept_Idea 1438 1447	grand axe
+T46	DEVI 1472 1481	injection
+T47	CHEM 1485 1505	produit de contraste
+T48	ANAT 1526 1568	région latéro sigmoïdienne diaphragmatique
+T49	ANAT 1608 1642	muscles fléchisseurs pelviculaires
+T50	MEAS 1656 1667	encéphalées
+T51	ANAT 1701 1748	musclesfléchisseurs cerviculo-latéraux vaginaux
+T52	ANAT 1765 1791	fibres laryngo-thoraciques
+T53	ANAT 1816 1846	parties molles basithoraciques
+T54	MEAS 1858 1867	lentement
+T55	Concept_Idea 1871 1877	volume
+T56	MEAS 1907 1926	multidimensionnelle
+T57	PROC 2071 2104	imagerie par résonance magnétique
+T58	PROC 2106 2109	IRM
+T59	DISO 2124 2162	hypersignal T2 hypersignal hypointense
+T60	DISO 2185 2193	kystique
+T61	Concept_Idea 2303 2310	hauteur
+T62	DISO 2331 2391	inflammation vasculo-cyto-interstellelle cutanéo-glandulaire
+T63	ANAT 2344 2391	vasculo-cyto-interstellelle cutanéo-glandulaire
+T64	DISO 2407 2443	lyse séquellaire des parois du kyste
+T65	ANAT 2428 2443	parois du kyste
+T66	LIVB 2448 2456	patiente
+T67	PROC 2474 2498	scanner abdomino-pelvien
+T68	ANAT 2482 2498	abdomino-pelvien
+T69	PROC 2508 2542	tomodensitométrie thoraco-axillale
+T70	ANAT 2526 2542	thoraco-axillale
+T71	DISO 2555 2588	adénopathie péritoine péritonéale
+T72	ANAT 2567 2588	péritoine péritonéale
+T74	DISO 2618 2640	anomalies métaboliques
+T75	PROC 2656 2681	chimiothérapie palliative
+T76	TEMP 2691 2696	un an
+T77	PROC 2700 2723	radiothérapie adjuvante

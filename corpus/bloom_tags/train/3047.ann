@@ -1,0 +1,34 @@
+T1	LIVB 3 10	patient
+T2	DISO 27 52	antécédents pathologiques
+T3	MEAS 53 65	particuliers
+T4	PROC 67 75	consulte
+T5	Hospital 80 88	urgences
+T6	DISO 100 118	traumatisme du dos
+T7	ANAT 115 118	dos
+T8	PROC 122 137	examen clinique
+T9	Concept_Idea 149 160	température
+T10	MEAS 163 167	36°C
+T11	PHEN 175 193	tension artérielle
+T12	ANAT 183 193	artérielle
+T13	MEAS 196 207	110/70 mmhg
+T14	PROC 213 222	admission
+T15	Hospital 226 256	service d'accueil des urgences
+T16	LIVB 276 283	patient
+T17	MEAS 297 300	bon
+T18	Concept_Idea 301 313	état général
+T19	DISO 346 379	tuméfaction latéro-utérine droite
+T20	Localization 373 379	droite
+T21	MEAS 389 394	20 cm
+T22	Concept_Idea 398 407	grand axe
+T23	TEMP 417 430	depuis 6 mois
+T24	LIVB 432 434	Il
+T25	CHEM 450 461	bupivacaine
+T26	DOSE 464 471	1 mg/kg
+T27	MODE 476 494	voie intraveineuse
+T28	CHEM 514 528	neuroleptiques
+T29	CHEM 538 558	méthylhydrocortisone
+T30	CHEM 566 584	prazépaméthoxasone
+T31	DISO 605 620	symptomatologie
+T32	MEAS 635 641	rapide
+T33	MEAS 651 679	progressivement plus gênante
+T34	Concept_Idea 688 694	taille

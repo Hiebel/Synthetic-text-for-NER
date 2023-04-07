@@ -1,0 +1,31 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 83 93	consultait
+T5	Hospital 98 106	urgences
+T6	DISO 116 137	détresse respiratoire
+T7	PHEN 125 137	respiratoire
+T8	DISO 145 173	douleurs abdomino-pelviennes
+T9	ANAT 154 173	abdomino-pelviennes
+T10	TEMP 183 201	depuis trois jours
+T11	PROC 207 222	examen clinique
+T12	LIVB 226 233	patient
+T13	DISO 248 281	syndrome d’épanchement péritonéal
+T14	ANAT 271 281	péritonéal
+T15	DISO 298 360	tumeur du parenchyme ovarien inféro-sigmoïdien hypovolumineuse
+T17	ANAT 376 394	cavité péritonéale
+T18	PROC 399 429	bilan biologique préopératoire
+T19	PROC 450 485	intradermoréaction à la tuberculine
+T20	CHEM 474 485	tuberculine
+T21	PROC 487 491	IRAT
+T22	PROC 494 525	anticorps antinucléaires natifs
+T23	PROC 527 531	ANCA
+T24	PROC 534 559	anti-nucléoside hydrolase
+T25	PROC 561 575	antiADN natifs
+T26	PROC 578 594	analgésie locale
+T27	DOSE 599 603	2 mg
+T28	CHEM 607 623	sulfaméthoxazole
+T29	DOSE 626 632	200 mg
+T30	CHEM 636 649	métronidazole
+T31	PROC 666 702	sérologies d'immunodépression virale
+T32	MEAS 720 729	négatives

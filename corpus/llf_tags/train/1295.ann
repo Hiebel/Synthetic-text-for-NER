@@ -1,0 +1,82 @@
+T1	LIVB 16 24	patiente
+T2	PROC 63 87	ménopause par voie basse
+T3	Concept_Idea 91 99	histoire
+T4	PHEN 106 115	grossesse
+T5	TEMP 128 134	6 mois
+T6	DISO 166 174	douleurs
+T7	ANAT 188 209	plexus brachial droit
+T8	Localization 204 209	droit
+T9	DISO 222 228	signes
+T10	MEAS 247 254	mauvais
+T11	Concept_Idea 255 281	développement psychomoteur
+T12	DISO 298 310	complication
+T13	DISO 348 362	amaigrissement
+T14	MEAS 373 377	40kg
+T15	TEMP 381 385	1 an
+T16	PROC 414 444	traitement médical substitutif
+T17	CHEM 446 454	Aspirine
+T18	CHEM 457 465	Glivec ®
+T19	PROC 472 502	tomodensitométrie-mammographie
+T20	Hospital 513 534	urgences pédiatriques
+T21	Concept_Idea 558 578	paramètres cliniques
+T22	PROC 586 595	admission
+T23	ANAT 600 605	cavum
+T24	MEAS 612 634	macroscopiquement sain
+T25	DISO 660 684	déficit sensitivo-moteur
+T26	ANAT 691 730	aires ganglionnaires cervico-thoracique
+T28	DISO 890 914	léger épisode infectieux
+T29	DISO 946 961	symptomatologie
+T30	PROC 965 980	examen clinique
+T31	DEVI 994 1014	sonde naso-gastrique
+T32	ANAT 1000 1014	naso-gastrique
+T33	MEAS 1024 1037	5 centimètres
+T34	Concept_Idea 1041 1050	grand axe
+T35	MEAS 1059 1063	4 cm
+T36	Concept_Idea 1067 1076	petit axe
+T37	MEAS 1116 1123	visible
+T38	MEAS 1181 1185	3 mm
+T39	PROC 1227 1236	injection
+T40	Concept_Idea 1261 1287	aspect anatomopathologique
+T41	PROC 1292 1325	fibroscopie oeso-gastro-duodénale
+T42	ANAT 1304 1325	oeso-gastro-duodénale
+T43	DISO 1359 1428	prolifération tumorale tissulaire superficielle érythémateuse maligne
+T44	DISO 1434 1453	hémangiome kystique
+T45	MEAS 1461 1470	stade III
+T46	Concept_Idea 2755 2758	cas
+T47	MEAS 2759 2771	exceptionnel
+T48	LIVB 2777 2782	homme
+T49	DISO 2824 2835	tuberculose
+T50	PROC 2847 2857	traitement
+T51	Hospital 2918 2926	urgences
+T52	DISO 2946 2991	contage tuberculeux du membre supérieur droit
+T53	ANAT 2969 2991	membre supérieur droit
+T54	Localization 2986 2991	droit
+T55	Concept_Idea 3013 3026	état générale
+T56	DISO 3039 3068	symptômes neuropsychiatriques
+T57	DISO 3084 3110	signe clinico-radiologique
+T58	PROC 3122 3137	examen clinique
+T59	LIVB 3165 3172	patient
+T60	DISO 3190 3197	malaise
+T61	DISO 3204 3223	syndrome infectieux
+T62	PROC 3238 3257	examens biologiques
+T63	DISO 3280 3286	fièvre
+T64	MEAS 3289 3294	38 °C
+T65	CHEM 3301 3313	amoxicilline
+T66	PROC 3320 3332	scanners IRM
+T67	LIVB 3384 3392	individu
+T68	DISO 3413 3449	lithiase urétéro-utérine congénitale
+T69	DISO 3477 3501	souffrance fœtale fœtale
+T70	ANAT 3488 3501	fœtale fœtale
+T71	DISO 3524 3535	perforation
+T72	PROC 3540 3558	bilan paraclinique
+T73	DISO 3591 3623	lésion érythémateuse infiltrante
+T74	MEAS 3633 3638	17 cm
+T75	Concept_Idea 3642 3651	petit axe
+T76	PROC 3744 3772	biopsie exérèse chirurgicale
+T77	DISO 3885 3958	tissu polypoïde anaplasique tissulaire hétérogène polymyomateux nécrosant
+T78	DISO 3980 4028	pneumopathie pyélonéphrite juvénile idiopathique
+T79	DISO 4045 4070	métaphagocytose familiale
+T80	PROC 4076 4100	chimiothérapie adjuvante
+T81	PROC 4127 4154	rééducation préanesthésique
+T82	DISO 4241 4265	déficit psychotique aigu
+T83	PROC 4287 4309	traitement chirurgical

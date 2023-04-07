@@ -1,0 +1,39 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 37	admise
+T3	Hospital 42 50	urgences
+T5	ANAT 69 79	pelviennes
+T6	TEMP 89 106	depuis deux jours
+T7	DISO 125 144	ictère hémorragique
+T8	PROC 148 163	examen clinique
+T9	DISO 175 188	particularité
+T10	PROC 193 223	bilan biologique préopératoire
+T11	PHEN 248 263	fonction rénale
+T12	ANAT 257 263	rénale
+T13	MEAS 264 273	conservée
+T14	MEAS 282 291	0,21 g/dl
+T15	MEAS 306 313	15 mg/l
+T16	PROC 318 349	échographie abdomino- pelvienne
+T17	ANAT 330 349	abdomino- pelvienne
+T18	DISO 376 407	épanchement bilatéral liquidien
+T19	Localization 388 397	bilatéral
+T20	ANAT 423 433	col utérin
+T21	ANAT 450 467	annexes urinaires
+T22	DISO 487 538	adénopathies cervico-vestibulo-rectales purpuriques
+T23	ANAT 500 526	cervico-vestibulo-rectales
+T24	ANAT 577 588	intestinale
+T25	ANAT 592 609	pleuro-pulmonaire
+T26	DISO 636 647	gynécalgies
+T27	DISO 658 674	signes cliniques
+T28	ANAT 723 788	intrapéritonéal systéo-liquidien pariétal pariéto-diaphragmatique
+T29	ANAT 824 841	duodéno-grêliques
+T30	DISO 866 887	troubles métaboliques
+T31	DISO 990 1002	chirurgicale
+T32	MEAS 1017 1028	progressive
+T33	DISO 1139 1159	diabète hypertensive
+T34	CHEM 1165 1183	anti-hypertenseurs
+T35	LIVB 1202 1208	enfant
+T36	TEMP 1216 1221	7 ans
+T37	PROC 1234 1246	consultation
+T38	PROC 1253 1292	sérologies d'immunodépression adjuvante
+T39	DEVI 1328 1372	prélèvements bactériologiques microscopiques
+T40	CHEM 1410 1424	Ciprofloxacine

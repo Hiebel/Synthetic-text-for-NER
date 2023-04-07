@@ -1,0 +1,33 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 73 84	hospitalisé
+T6	Hospital 89 97	urgences
+T7	DISO 107 133	douleurs pelviennes aiguës
+T8	ANAT 116 126	pelviennes
+T9	TEMP 143 157	depuis un mois
+T10	DISO 175 181	fièvre
+T11	MEAS 193 197	39°c
+T12	PROC 202 219	bilan d'extension
+T13	MEAS 226 233	négatif
+T14	PROC 239 269	échographie abdomino-pelvienne
+T15	ANAT 251 269	abdomino-pelvienne
+T16	DISO 300 332	lésion hypo échogéante hypodense
+T17	ANAT 346 356	sein droit
+T18	Localization 351 356	droit
+T19	MEAS 366 369	5cm
+T20	MEAS 374 377	3cm
+T21	Concept_Idea 402 408	taille
+T22	PROC 415 424	injection
+T23	DOSE 428 433	15 mg
+T24	CHEM 437 457	produit de contraste
+T25	MODE 462 479	voie transrectale
+T26	PROC 483 516	imagerie par résonance magnétique
+T27	PROC 517 520	IRM
+T28	PROC 533 550	anesthésie locale
+T29	LIVB 584 592	patiente
+T30	DISO 597 643	formation tissulaire latéralisée hyper-intense
+T31	ANAT 671 688	sinus péritonéaux
+T32	ANAT 709 733	fosse iliaque bilatérale
+T33	Localization 723 733	bilatérale

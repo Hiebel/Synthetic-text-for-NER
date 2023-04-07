@@ -1,0 +1,21 @@
+T1	LIVB 19 26	patient
+T2	PROC 38 49	hospitalisé
+T3	DISO 59 78	douleurs pelviennes
+T4	ANAT 68 78	pelviennes
+T5	TEMP 88 101	depuis 6 mois
+T6	PROC 105 120	examen clinique
+T7	Concept_Idea 138 149	température
+T8	MEAS 152 158	37,2°c
+T9	DISO 164 193	adénopathie abdominopelvienne
+T10	ANAT 176 193	abdominopelvienne
+T11	PROC 198 214	bilan biologique
+T12	PROC 232 251	hémoglobine glyquée
+T13	MEAS 254 256	7%
+T14	PROC 263 281	taux de plaquettes
+T15	MEAS 284 321	2000 000 éléments par millimètre cube
+T16	DOSE 323 332	20000/mm3
+T17	PROC 339 389	ponction périphérique du liquide céphalo-rachidien
+T18	Localization 348 360	périphérique
+T20	MODE 408 426	voie intraveineuse
+T21	PROC 443 468	intervention chirurgicale
+T22	ANAT 484 492	épiploon

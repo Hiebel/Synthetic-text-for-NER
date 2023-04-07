@@ -1,0 +1,37 @@
+T1	LIVB 16 21	femme
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	DISO 97 114	céphalées fébrile
+T5	TEMP 124 138	depuis 3 jours
+T6	Concept_Idea 153 174	état d'amaigrissement
+T7	MEAS 185 193	20kg/m 2
+T8	DISO 227 243	syndrome grippal
+T9	LIVB 266 274	patiente
+T10	DISO 332 348	maladie cœliaque
+T11	PROC 353 361	adressée
+T12	DISO 372 397	pathologies neurologiques
+T13	DISO 401 414	vasculorénaux
+T14	CHEM 451 465	tétraméthasone
+T15	PROC 512 555	sérologies d'immunodépression antitétanique
+T16	PROC 619 634	examen clinique
+T17	DISO 646 652	fièvre
+T18	MEAS 655 659	39°C
+T19	DISO 680 696	signes digestifs
+T20	DISO 708 726	détresse digestive
+T21	PHEN 717 726	digestive
+T22	DISO 729 753	sensibilité épigastrique
+T23	ANAT 741 753	épigastrique
+T24	DISO 760 779	douleurs pelviennes
+T25	ANAT 769 779	pelviennes
+T26	MEAS 794 805	progressive
+T27	MEAS 815 822	intense
+T28	DEVI 827 845	paires électriques
+T29	Concept_Idea 894 909	hauteur utérine
+T30	ANAT 902 909	utérine
+T31	ANAT 934 959	intrapéritonéal liquidien
+T32	DISO 1007 1022	symptomatologie
+T33	DOSE 1028 1032	2 kg
+T34	MODE 1036 1041	bolus
+T35	CHEM 1045 1063	méthylprédnisolone
+T36	Hospital 1077 1108	milieu hospitalier périphérique
+T37	ANAT 1169 1187	membres inférieurs

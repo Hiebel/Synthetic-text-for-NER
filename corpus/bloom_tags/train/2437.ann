@@ -1,0 +1,44 @@
+T1	LIVB 3 10	patient
+T2	PROC 31 36	admis
+T3	Hospital 40 60	service des urgences
+T4	DISO 80 146	syndrome d'épanchement péricardico-liquidien inféro-supra-rénalien
+T6	DISO 179 195	épisodes fébrile
+T7	TEMP 205 221	depuis deux mois
+T8	DISO 243 252	symptômes
+T9	DISO 255 276	détresse respiratoire
+T10	PHEN 264 276	respiratoire
+T11	DISO 381 406	diabète insulinodépendant
+T12	DISO 440 468	prise médicamenteuse maligne
+T13	DISO 475 494	carcinose ovarienne
+T14	ANAT 485 494	ovarienne
+T15	PROC 509 531	touchers pelviculaires
+T16	ANAT 518 531	pelviculaires
+T17	DISO 624 647	pronostic paucisigmenté
+T18	DISO 654 691	maladie thromboembolique orophagienne
+T19	ANAT 679 691	orophagienne
+T20	DISO 697 722	néphropathie systématisée
+T21	DISO 760 776	épisodes fébrile
+T22	DISO 808 832	symptômes gynecologiques
+T23	DISO 844 856	dysménorrhée
+T24	DISO 858 875	hypotonie utérine
+T25	ANAT 868 875	utérine
+T26	DISO 951 980	désinsertion placento-utérine
+T27	ANAT 964 980	placento-utérine
+T28	PROC 985 1010	troponines natriurétiques
+T29	MEAS 1024 1033	négatives
+T30	PROC 1047 1066	alpha foetoprotéine
+T31	MEAS 1085 1103	16 fois la normale
+T32	PROC 1109 1135	traitement médical curatif
+T33	CHEM 1146 1156	furosémide
+T34	CHEM 1162 1185	méthylhydrosalazolamide
+T35	PROC 1216 1251	perfusion sanguine trans-thrombulée
+T36	PROC 1258 1282	anesthésie locorégionale
+T37	ANAT 1269 1282	locorégionale
+T38	LIVB 1395 1401	enfant
+T39	DISO 1406 1437	choc hémorragiques ischemiaques
+T40	ANAT 1466 1487	parenchyme péritonéal
+T41	ANAT 1509 1530	cloisons intestinales
+T42	ANAT 1547 1565	coulées ovariennes
+T43	ANAT 1574 1588	méso-péritoine
+T44	Localization 1800 1804	sous
+T45	DISO 2022 2046	affection néuroendocrine

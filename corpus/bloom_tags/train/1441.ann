@@ -1,0 +1,30 @@
+T1	PROC 18 29	observation
+T2	LIVB 35 40	homme
+T3	PROC 69 74	admis
+T4	Hospital 79 104	urgences ophtalmologiques
+T5	DISO 123 135	uvéite aiguë
+T6	TEMP 145 163	depuis trois jours
+T7	DISO 176 198	symptômes fonctionnels
+T8	DISO 221 245	bilan d'immunodépression
+T9	DISO 258 272	conjonctivales
+T10	PROC 294 328	traitement antibacillaire adjuvant
+T11	CHEM 343 356	triméthoprime
+T12	CHEM 358 371	ethaméthasone
+T13	CHEM 373 391	hydroxychloroquine
+T14	CHEM 393 411	méthylprednisolone
+T15	PROC 416 431	examen clinique
+T16	DISO 448 484	dysarthrie monoclonale polyradiculée
+T17	MEAS 499 511	imprévisible
+T18	DISO 725 748	déficit sensitivomoteur
+T19	DISO 762 784	hypotension artérielle
+T20	ANAT 774 784	artérielle
+T21	DISO 794 807	inflammatoire
+T22	MEAS 817 821	4 cm
+T23	Concept_Idea 825 834	grand axe
+T24	MEAS 850 865	progressivement
+T25	Concept_Idea 869 875	taille
+T26	MEAS 896 916	infra-centimétriques
+T27	DISO 942 953	traumatique
+T28	DISO 1022 1040	anxiolyse primaire
+T29	DISO 1075 1105	insuffisance cardio-vasculaire
+T30	ANAT 1088 1105	cardio-vasculaire

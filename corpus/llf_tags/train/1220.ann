@@ -1,0 +1,94 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 71	antécédents pathologiques
+T3	MEAS 72 84	particuliers
+T4	DISO 104 121	dyspnée sifflante
+T5	Concept_Idea 126 132	effort
+T6	PROC 136 148	auscultation
+T7	MEAS 155 162	normale
+T8	PROC 180 195	examen clinique
+T9	DISO 207 220	particularité
+T10	PROC 225 247	radiographie du thorax
+T11	ANAT 241 247	thorax
+T12	DISO 263 379	processus tissulaire hétéro-aortique bilatéral des cavités urogénitales controlatérales gauches antero-mandibulaires
+T13	Localization 300 309	bilatéral
+T14	ANAT 314 379	cavités urogénitales controlatérales gauches antero-mandibulaires
+T16	MEAS 389 393	3 cm
+T17	Concept_Idea 397 406	grand axe
+T18	DISO 422 455	lymphocytopéricardite infectieuse
+T19	PROC 460 492	fibroscopie oeso-gastroduodénale
+T20	ANAT 472 492	oeso-gastroduodénale
+T21	ANAT 536 576	troncs lymphatiques intravésico-vaginaux
+T22	ANAT 578 581	VBP
+T23	ANAT 660 681	nerf thoracique moyen
+T24	PROC 702 715	trachéotomisé
+T25	LIVB 750 758	patiente
+T26	DISO 763 786	infestation parasitaire
+T27	DISO 792 806	germe fongique
+T28	MEAS 814 821	T4 N0Mx
+T29	PROC 872 896	laparotomie endoscopique
+T30	PROC 902 943	curage ganglionnaire axillaire infiltrant
+T32	MEAS 987 995	suspecte
+T33	PROC 1037 1076	hystérectomie large extemporanéoplastie
+T34	ANAT 1096 1145	veine musculo-métaphysaire para vertébro-palatine
+T35	PROC 1224 1246	technique chirurgicale
+T36	MEAS 1297 1304	simples
+T37	Concept_Idea 1336 1353	plan radiologique
+T38	PROC 1379 1404	réanimation préopératoire
+T39	PROC 1418 1455	anesthésie locorégionale exploratrice
+T40	PROC 1471 1506	néphrectomie totale intrathoracique
+T41	ANAT 1519 1581	aires ganglionnaires cervicales maxillaires inférieure droites
+T42	Localization 1574 1581	droites
+T44	PROC 1718 1754	cholécystokératine biphosphonuclease
+T45	PROC 1769 1802	céphalosporadiologie diagnostique
+T46	PROC 1821 1876	myélofibroscopie digestive rétrosigmoïdale multiloculée
+T47	DISO 1899 1929	laryngotrachéite aigüe maligne
+T48	PROC 1934 1958	scanner abdomino-pelvien
+T49	ANAT 1942 1958	abdomino-pelvien
+T50	DISO 1985 1994	symptômes
+T51	DISO 2019 2063	perforation anéchogène liquidienne périostée
+T52	ANAT 2080 2101	espace laryngé distal
+T53	ANAT 2124 2170	muqueuses basithoraciques jugulo-carotidiennes
+T54	ANAT 2191 2260	anses grêliques palpébrales pariéto-temporo-pyloriques superficielles
+T55	ANAT 2287 2345	zones mandibulaires crico-claviculaires ectrophoblastiques
+T56	Concept_Idea 2422 2441	aspect histologique
+T57	DISO 2462 2521	léiomyélite aiguë myasthénique asymptomatique polymalformée
+T58	PROC 2578 2600	traitement chirurgical
+T59	PHEN 2643 2922	grossesses monofoetales aboutissant soit à une hyperplasie acromégalie monoclonale mucilagineuse terminale récidivantes plus tard accompagnées d'épisodes fébriles augmentant progressivement durant plusieurs mois parfois associés à des épisodes de douleurs péribronchodilatatrices
+T60	DISO 2690 2749	hyperplasie acromégalie monoclonale mucilagineuse terminale
+T61	MEAS 2817 2832	progressivement
+T62	DISO 2890 2955	douleurs péribronchodilatatrices du plexus brachial intrakystique
+T64	ANAT 2926 2955	plexus brachial intrakystique
+T65	DISO 2974 3002	syndrome infectieux néonatal
+T66	PROC 3022 3031	admission
+T67	Hospital 3035 3050	bloc opératoire
+T68	PROC 3056 3073	anesthésie locale
+T69	DEVI 3082 3088	masque
+T70	CHEM 3097 3104	acétone
+T71	CHEM 3107 3119	prédnisolone
+T72	LIVB 3125 3133	patiente
+T73	PROC 3138 3148	transférée
+T74	Hospital 3157 3185	service de gastroentérologie
+T75	PROC 3192 3220	prise en charge obstétricale
+T76	PROC 3239 3265	examen anatomopathologique
+T77	DISO 3305 3352	méningo-sarcoïdose diabétique gestationisatrice
+T78	DISO 3373 3440	adénocarcinome hypochondriaque carcinomateux tissulaire neutrophile
+T79	MEAS 3448 3465	T3N0Mx S2F1BU/mm³
+T80	MEAS 3475 3488	17×11×12×6 cm
+T81	ANAT 3508 3515	trachée
+T83	Localization 3545 3555	en arrière
+T84	DEVI 3657 3682	lambeau cutané injectable
+T85	TEMP 3765 3767	/j
+T86	PROC 3783 3829	thyréostimuline acide clavulanique fractionnée
+T87	DOSE 3831 3837	400 mg
+T88	PROC 3926 3956	antibiothérapie antibacillaire
+T89	CHEM 3969 3998	ciprofloxacine Aminoamidazole
+T90	CHEM 4001 4015	gentaméthasone
+T91	CHEM 4018 4028	aminosides
+T92	CHEM 4031 4045	acide citrique
+T93	CHEM 4048 4059	rifampicine
+T94	CHEM 4062 4075	métronidazole
+T95	CHEM 4078 4097	monoxyde de carbone
+T96	CHEM 4100 4112	propranolone
+T97	CHEM 4115 4125	fluindione
+T98	CHEM 4128 4138	furosémide
+T99	CHEM 4141 4160	hydroxyprogestérone

@@ -1,0 +1,38 @@
+T1	PROC 4 46	radiographie de l'abdomen sans préparation
+T2	ANAT 22 29	abdomen
+T3	DISO 77 97	niveau hydro-aérique
+T4	MEAS 100 114	environ 3,5 cm
+T5	PROC 119 136	tomodensitométrie
+T6	PROC 138 169	TDM) thoraco-abdomino-pelvienne
+T7	ANAT 143 169	thoraco-abdomino-pelvienne
+T8	DISO 198 254	prolifération tumorale maligne tissulaire du sein gauche
+T9	ANAT 243 254	sein gauche
+T10	Localization 248 254	gauche
+T11	Concept_Idea 264 285	limites métastatiques
+T12	MEAS 286 292	saines
+T13	PHEN 300 320	récepteurs hormonaux
+T14	MEAS 326 334	négatifs
+T15	PROC 338 356	étude histologique
+T16	CHEM 381 393	fluorescéine
+T17	DISO 419 511	adénocarcinome myxoïde carcinomateux sarcomateux infiltrant le canal cystique gastroduodénal
+T18	ANAT 482 511	canal cystique gastroduodénal
+T20	LIVB 602 608	malade
+T21	PROC 624 652	chimiothérapie néo adjuvante
+T22	PROC 666 687	biopsie scanno-guidée
+T24	DISO 729 752	localisation secondaire
+T25	PROC 757 788	bilan étiologique préopératoire
+T26	PROC 823 850	prélèvement bactériologique
+T27	PROC 877 912	traitement chirurgical conservateur
+T28	TEMP 916 928	sixième jour
+T29	LIVB 972 982	nourrisson
+T30	DISO 990 1011	syndrome hémorragique
+T31	DISO 1018 1044	complications infectieuses
+T32	PROC 1063 1083	exérèse chirurgicale
+T33	Concept_Idea 1129 1144	position finale
+T34	PROC 1151 1170	anastomose complète
+T35	DISO 1189 1216	décomplication thrombotique
+T36	MEAS 1267 1277	favorables
+T37	Concept_Idea 1285 1302	plan radiologique
+T38	Concept_Idea 1318 1336	état hémodynamique
+T39	Hospital 1348 1356	urgences
+T40	TEMP 1366 1394	huitième jour postopératoire

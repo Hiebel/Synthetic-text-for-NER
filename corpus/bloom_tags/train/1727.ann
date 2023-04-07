@@ -1,0 +1,25 @@
+T1	LIVB 4 9	femme
+T2	DISO 44 75	douleur thoracique constrictive
+T3	TEMP 85 104	depuis plus d'un an
+T4	Concept_Idea 126 138	état général
+T5	DISO 151 167	signes cliniques
+T6	DISO 193 258	adénopathies thoraciques inféro-sigmoïdiennes normo-vascularisées
+T8	DISO 294 356	syndrome d'épanchement liquidien basithoracique pérarachidiens
+T9	ANAT 317 356	liquidien basithoracique pérarachidiens
+T10	DISO 376 401	localisations secondaires
+T11	DISO 415 437	endométriose ovarienne
+T12	ANAT 428 437	ovarienne
+T13	DISO 439 461	tuberculose pituitaire
+T14	DISO 478 501	hyperthyroïdie primaire
+T15	LIVB 540 548	patiente
+T16	PROC 562 598	tomodensitométrie abdomino-pélvienne
+T17	ANAT 580 598	abdomino-pélvienne
+T18	DEVI 736 751	canule urétrale
+T19	ANAT 743 751	urétrale
+T20	DISO 801 814	inflammatoire
+T21	MEAS 871 880	favorable
+T22	Hospital 913 921	urgences
+T23	PROC 928 954	contraception progestative
+T24	MEAS 1147 1159	2900 grammes
+T25	TEMP 1221 1227	7 mois
+T26	PROC 1238 1253	hospitalisation

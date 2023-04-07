@@ -1,0 +1,47 @@
+T1	LIVB 4 11	Mlle HB
+T2	MEAS 46 48	12
+T3	LIVB 49 56	enfants
+T4	MEAS 62 63	4
+T5	MEAS 122 123	2
+T6	LIVB 124 130	frères
+T7	DISO 191 214	infections nosocomiales
+T8	LIVB 238 242	Elle
+T9	DISO 299 322	manifestations cutanées
+T10	DISO 404 422	céphalées fébriles
+T11	DISO 452 478	détresses ophtalmologiques
+T12	DISO 520 556	symptômes neuropsychiatriques aigues
+T13	DISO 582 601	troubles trophiques
+T14	DISO 610 663	sensations psychotiques convulsives dysfonctionnelles
+T15	MEAS 890 898	instable
+T16	PROC 1000 1029	prise en charge psychiatrique
+T17	Hospital 1049 1084	méthodes thérapeutiques habituelles
+T18	CHEM 1086 1096	corticoïde
+T19	CHEM 1098 1113	chlorpromazine®
+T20	TEMP 1151 1158	15 mois
+T21	Concept_Idea 1212 1224	état général
+T22	PHEN 1244 1249	pouls
+T23	MEAS 1260 1264	1/10
+T24	LIVB 1281 1288	jumeaux
+T25	PROC 1294 1317	traitement antipaludéen
+T26	CHEM 1305 1317	antipaludéen
+T27	PROC 1333 1353	drainage chirurgical
+T28	Concept_Idea 1369 1380	température
+T29	MEAS 1398 1402	36°C
+T30	DEVI 1408 1421	lampe à fente
+T31	MEAS 1436 1456	strictement sensible
+T32	Concept_Idea 1504 1518	plans clinique
+T33	Concept_Idea 1522 1532	biologique
+T34	DISO 1576 1605	neuropathie sensitivo-motrice
+T35	CHEM 1756 1766	bupivacine
+T36	CHEM 1769 1782	métronidazole
+T37	CHEM 1785 1813	hydroxyprogésulfaméthoxazole
+T38	TEMP 1819 1829	/24 heures
+T39	DISO 1865 1885	contracture anémique
+T40	LIVB 1919 1927	patients
+T41	PROC 1937 1967	traitement médical substitutif
+T42	PROC 1983 2027	radiothérapie conformationelle préopératoire
+T43	PROC 2041 2082	néphrectomie totale élargie scanno-guidée
+T44	PROC 2144 2174	séances de rééducation motrice
+T45	PROC 2189 2313	ostéotomie exploratrice endotrachéale monogastroduodéno-pelvienne segmentaire transoesophagienne axillaire distale infiltrée
+T46	PROC 2356 2449	perfusion aspirative intraveineuse péri péritonéale intrasynapatellaire guidée électriquement
+T47	DOSE 2491 2506	25 milligrammes

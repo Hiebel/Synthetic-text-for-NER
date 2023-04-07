@@ -1,0 +1,32 @@
+T1	LIVB 3 13	adolescent
+T2	TEMP 17 23	15 ans
+T3	DISO 30 55	antécédents pathologiques
+T4	MEAS 56 68	particuliers
+T5	PROC 70 78	consulte
+T6	Hospital 83 108	urgences ophtalmologiques
+T8	MEAS 142 153	progressive
+T9	TEMP 163 180	depuis deux jours
+T10	PROC 184 199	examen clinique
+T11	PROC 204 213	admission
+T12	LIVB 224 231	patient
+T13	Concept_Idea 251 262	température
+T14	MEAS 265 269	37°C
+T15	PHEN 277 296	pression artérielle
+T16	ANAT 286 296	artérielle
+T17	MEAS 299 310	100/50 mmhg
+T18	PROC 315 334	bilan préopératoire
+T19	DISO 370 430	syndrome d'épanchement intrarachidien latéro-axillaire droit
+T20	ANAT 393 430	intrarachidien latéro-axillaire droit
+T21	Localization 425 430	droit
+T22	DISO 450 464	signes cutanés
+T23	DISO 481 490	épistaxis
+T24	DISO 508 514	fièvre
+T25	MEAS 526 530	40°c
+T26	DISO 547 568	détresse respiratoire
+T27	PHEN 556 568	respiratoire
+T28	DISO 584 599	symptomatologie
+T29	DISO 617 666	syndrome d’épanchement intrarachidien systématisé
+T30	ANAT 640 666	intrarachidien systématisé
+T31	DISO 700 731	troubles sensitivo-vestibulaire
+T32	DISO 760 772	hyperthermie
+T33	MEAS 786 794	39mmol/l

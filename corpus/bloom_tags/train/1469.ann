@@ -1,0 +1,60 @@
+T1	LIVB 28 35	patient
+T2	DISO 50 82	tuberculose cutanéo-folliculaire
+T3	CHEM 88 99	Ceftriaxone
+T4	DOSE 101 107	400 mg
+T5	CHEM 122 132	isoniazide
+T6	DOSE 134 140	200 mg
+T7	CHEM 143 156	Rifaméthasone
+T8	DOSE 158 163	20 mg
+T9	CHEM 166 177	Nicardipine
+T10	DOSE 179 185	0,5 mg
+T11	CHEM 188 200	Pyrazinamide
+T12	DOSE 202 208	100 mg
+T13	CHEM 211 222	Ethionamide
+T14	DOSE 224 230	500 mg
+T15	CHEM 233 244	Cyclosérine
+T16	DOSE 246 252	600 mg
+T17	CHEM 255 269	Chlorpromazine
+T18	DOSE 271 276	50 mg
+T19	CHEM 279 292	Erythromycine
+T20	DOSE 294 299	30 mg
+T21	CHEM 302 315	Bêtaméthasone
+T22	DOSE 317 322	60 mg
+T23	CHEM 325 336	Gentamicine
+T24	DOSE 338 343	40 mg
+T25	CHEM 346 357	Amoxiclovir
+T26	DOSE 359 365	160 mg
+T27	CHEM 368 378	Lamidazole
+T28	DOSE 380 386	750 mg
+T29	CHEM 389 399	Isoniazide
+T30	DOSE 401 407	800 mg
+T31	CHEM 410 430	Triméthoprime sodium
+T32	DOSE 432 438	250 mg
+T33	CHEM 441 457	Sulfaméthoxazole
+T34	DOSE 459 464	75 mg
+T35	MODE 466 478	intraveineux
+T36	MODE 483 501	voie intraveineuse
+T37	LIVB 530 538	patiente
+T38	PROC 557 583	antituberculeu prophylaxie
+T39	DISO 703 722	syndrome infectieux
+T40	DISO 738 761	pathologie tuberculeuse
+T41	PROC 858 892	ponction liquide céphalorachidiens
+T42	ANAT 867 892	liquide céphalorachidiens
+T43	DISO 1038 1061	processus carcinomateux
+T44	DISO 1080 1106	paragangliome tuberculoïde
+T45	DISO 1112 1131	emboles vasculaires
+T46	ANAT 1120 1131	vasculaires
+T47	DISO 1161 1169	kystique
+T48	DISO 1216 1239	fistule trachéovésicale
+T49	ANAT 1224 1239	trachéovésicale
+T50	DISO 1246 1260	myometrorragie
+T51	DISO 1277 1299	tuméfaction péridurale
+T52	DISO 1335 1344	mal malin
+T53	DISO 1348 1359	envahissant
+T54	DISO 1400 1427	localisations métastatiques
+T55	PROC 1479 1509	radio-chimiothérapie adjuvante
+T56	PROC 1515 1528	EBV / RHZ/4RH
+T57	PROC 1566 1590	radiothérapie palliative
+T58	PROC 1665 1683	chirurgie curative
+T59	PROC 1806 1832	radiothérapie probabiliste
+T60	Concept_Idea 2128 2147	résultat esthétique

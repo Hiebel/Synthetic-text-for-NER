@@ -1,0 +1,32 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	8 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 82	admis
+T6	Hospital 87 108	urgences pédiatriques
+T7	DISO 118 147	douleurs épigastriques aiguës
+T8	ANAT 127 140	épigastriques
+T9	DISO 176 182	fièvre
+T10	PROC 201 216	examen clinique
+T11	Concept_Idea 220 231	température
+T12	MEAS 240 244	38°C
+T13	PHEN 254 272	tension artérielle
+T14	ANAT 262 272	artérielle
+T15	MEAS 275 286	130/85 mmhg
+T16	PROC 290 320	auscultation abdominopelvienne
+T17	ANAT 303 320	abdominopelvienne
+T18	DISO 340 365	pneumopéritoine liquidien
+T19	ANAT 379 390	flanc droit
+T20	Localization 385 390	droit
+T21	PROC 397 427	bilan biologique préopératoire
+T22	DISO 451 467	hyperleucocytose
+T23	PROC 503 534	échographie abdomino- pelvienne
+T24	ANAT 515 534	abdomino- pelvienne
+T25	PROC 556 565	injection
+T26	CHEM 569 589	produit de contraste
+T27	DISO 638 711	masse tumorale kystique hétérogène tissulaire hypo échogéne hypokinétique
+T28	MEAS 721 726	15 cm
+T29	MEAS 731 736	12 cm
+T30	ANAT 753 772	surrénaux grêliques
+T31	DISO 810 829	organométastatiques
+T32	DISO 847 870	métanéphrines ostéoïdes

@@ -1,0 +1,36 @@
+T1	LIVB 29 37	patiente
+T2	TEMP 54 64	primiparée
+T3	DISO 101 117	péritonite aigue
+T4	CHEM 123 154	amoxicilline-acide clavulanique
+T5	PROC 181 209	chimiothérapie néo adjuvante
+T6	PROC 215 239	cystoscopie obstétricale
+T7	DISO 260 296	sténose abdomino-pelvienne étranglée
+T8	ANAT 268 296	abdomino-pelvienne étranglée
+T9	DISO 314 342	hernie utérine intravaginale
+T10	ANAT 321 342	utérine intravaginale
+T11	MEAS 352 356	6 cm
+T12	Concept_Idea 360 369	grand axe
+T13	DISO 385 420	épanchement intra utérin péritonéal
+T14	ANAT 397 420	intra utérin péritonéal
+T15	DISO 444 490	syndrome d’épanchement intracrânien compressif
+T16	ANAT 467 490	intracrânien compressif
+T17	TEMP 500 513	depuis 2 mois
+T18	PROC 522 537	hospitalisation
+T19	MEAS 572 584	plus intense
+T20	MEAS 596 611	progressivement
+T21	Concept_Idea 615 621	volume
+T22	MEAS 635 645	totalement
+T23	DISO 646 657	œtympnéique
+T24	DISO 661 674	hyper-algique
+T25	ANAT 704 746	muscles fléchisseurs métacarophalangiennes
+T26	DISO 782 822	paralysie globale motrice palmoplantaire
+T27	DISO 836 868	hypotension artérielle crânienne
+T28	ANAT 848 868	artérielle crânienne
+T29	MEAS 879 889	70/60 mmHg
+T30	PROC 893 917	scanner abdomino-pelvien
+T31	ANAT 901 917	abdomino-pelvien
+T32	DISO 949 968	lésions secondaires
+T33	DISO 997 1072	thrombose grêlique postéro-laterale latero-supra-thoracique hypo-fistulisée
+T35	MEAS 1081 1091	grade I-II
+T36	DISO 1197 1220	dilatation tuberculeuse
+T37	DISO 1231 1262	localisations thromboemboliques

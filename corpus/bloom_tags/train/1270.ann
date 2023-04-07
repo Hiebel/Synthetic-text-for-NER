@@ -1,0 +1,26 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	13 ans
+T3	DISO 47 60	consanguinité
+T4	PROC 71 82	hospitalisé
+T5	Hospital 87 108	urgences pédiatriques
+T6	PHEN 119 131	accouchement
+T7	DISO 172 187	symptomatologie
+T8	TEMP 198 212	trois semaines
+T9	DISO 286 302	épisodes fébrile
+T10	MEAS 374 389	progressivement
+T11	LIVB 412 414	il
+T12	PROC 450 465	prise en charge
+T13	DISO 482 502	effets hémorragiques
+T14	DISO 520 532	métrorragies
+T15	ANAT 577 589	péricardique
+T16	LIVB 624 632	derniers
+T17	MEAS 712 720	9,2 g/dl
+T18	PROC 743 777	soins prénatals intensifs curatifs
+T19	CHEM 801 835	anti-inflammatoires non-stéroïdien
+T20	CHEM 838 870	anti hypertenseurs vasoactivants
+T21	CHEM 873 884	Propranolol
+T22	CHEM 889 906	natrémie glucosée
+T23	PROC 911 935	échographie obstétricale
+T24	MEAS 998 1010	3250 grammes
+T25	MEAS 1018 1034	3300 kilogrammes
+T26	ANAT 1103 1120	rétro-péritoineux

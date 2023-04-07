@@ -1,0 +1,16 @@
+T1	LIVB 29 34	femme
+T2	PROC 60 66	suivie
+T3	DISO 100 128	douleurs abdomino-pelviennes
+T4	ANAT 109 128	abdomino-pelviennes
+T5	PROC 146 171	observation rétrospective
+T6	DEVI 246 255	appareils
+T7	LIVB 289 295	enfant
+T8	DISO 324 346	métacarpophalangiennes
+T9	DISO 370 421	affections ostéo-cartilagineuses érythémato-nécrose
+T10	TEMP 806 816	six années
+T11	PROC 849 871	coupes radiographiques
+T12	PROC 891 913	traitements palliatifs
+T13	PROC 953 975	recherche chirurgicale
+T14	MEAS 1053 1066	spectaculaire
+T15	MEAS 1415 1434	lentement favorable
+T16	DISO 1508 1533	troubles sensitivomoteurs

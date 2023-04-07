@@ -1,0 +1,29 @@
+T1	LIVB 15 22	patient
+T2	DISO 64 71	diabète
+T3	MEAS 72 78	type 2
+T4	PROC 84 94	traitement
+T5	Concept_Idea 120 123	âge
+T6	DISO 138 187	sensibilité douloureuse du membre inférieur droit
+T7	ANAT 165 187	membre inférieur droit
+T8	Localization 182 187	droit
+T9	PROC 191 206	examen clinique
+T10	DISO 234 294	hypertrophie bénigne des fibres tendineuses ostéomédullaires
+T11	ANAT 259 294	fibres tendineuses ostéomédullaires
+T12	DISO 347 367	tachycardie profonde
+T13	MEAS 370 384	110 battements
+T14	TEMP 385 395	par minute
+T15	PROC 399 418	électrocardiogramme
+T16	DISO 434 443	anomalies
+T17	PROC 448 465	biologie standard
+T18	MEAS 472 480	négative
+T19	PROC 485 509	bilan neuropsychiatrique
+T20	LIVB 540 547	patient
+T21	DISO 552 579	hyperactivité psychomotrice
+T22	PHEN 581 606	réception extravertébrale
+T23	ANAT 620 626	visage
+T24	DISO 645 686	phénomènes maniaco-cervico-thérapeutiques
+T25	PROC 786 809	radiothérapie adjuvante
+T26	ANAT 822 837	plexus brachial
+T27	PROC 851 875	laparotomie exploratrice
+T28	MEAS 979 986	simples
+T29	MEAS 1006 1016	favorables

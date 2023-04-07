@@ -1,0 +1,53 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 68	reçue
+T3	Hospital 72 107	service de gynécologie- obstétrique
+T4	DISO 134 152	œdème épigastrique
+T5	ANAT 140 152	épigastrique
+T6	DISO 162 175	inflammatoire
+T7	PROC 214 230	bilan biologique
+T8	MEAS 270 281	17000 /mm 3
+T9	PROC 294 320	taux d’hémoglobine glyquée
+T10	MEAS 323 329	9,7g/l
+T11	PROC 332 362	échographie abdomino-pelvienne
+T12	ANAT 344 362	abdomino-pelvienne
+T13	DISO 385 400	lésion kystique
+T14	DISO 417 443	malformations congénitales
+T15	DISO 471 488	pancréatite aiguë
+T16	DISO 495 524	kystes hydatiques péritonéaux
+T17	DISO 560 586	vésicule biliaire résiduel
+T18	PROC 600 636	tomodensitométrie abdomino-pelvienne
+T19	ANAT 618 636	abdomino-pelvienne
+T20	DISO 650 702	masse hypodense hétérogène hypoechogène prurigineuse
+T21	MEAS 714 729	progressivement
+T22	Concept_Idea 733 739	volume
+T23	MEAS 748 751	2cm
+T24	Concept_Idea 755 764	grand axe
+T25	PROC 793 802	injection
+T26	CHEM 806 826	produit de contraste
+T27	ANAT 852 867	pelvis grêlique
+T28	DISO 888 947	adénopathies intrapéritonéale érythémato-néphrithriculaires
+T29	DISO 957 969	prurigineuse
+T30	ANAT 990 1022	fosse iliaque supra pancréatique
+T31	Localization 1004 1009	supra
+T32	DISO 1042 1087	adénopathies intrapéritonéalle dorsophasiques
+T33	ANAT 1055 1087	intrapéritonéalle dorsophasiques
+T34	ANAT 1111 1144	parties molles abdominopelviennes
+T35	PROC 1170 1192	imagerie échographique
+T36	PROC 1198 1242	incision sphinctérienne transotricuspaginale
+T37	ANAT 1207 1242	sphinctérienne transotricuspaginale
+T38	DISO 1282 1306	masse arrondie polylobée
+T39	ANAT 1343 1354	méso-cæcale
+T40	Localization 1379 1397	partie postérieure
+T41	ANAT 1416 1444	sinus transverse iléocoecale
+T42	Concept_Idea 1457 1464	contour
+T43	MEAS 1465 1473	régulier
+T44	MEAS 1522 1535	macroscopique
+T45	MEAS 1544 1548	fine
+T46	LIVB 1566 1576	nouveau-né
+T47	DISO 1608 1638	méningo-interstitiels tumoraux
+T48	DISO 2305 2311	fièvre
+T49	DISO 2319 2346	polynucléaires neutrophiles
+T50	DISO 2352 2368	hyperleucocytose
+T51	PROC 2372 2396	exploration chirurgicale
+T52	DISO 2413 2463	kyste hydatique du parenchyme ovarien hypertrophié
+T53	ANAT 2432 2463	parenchyme ovarien hypertrophié

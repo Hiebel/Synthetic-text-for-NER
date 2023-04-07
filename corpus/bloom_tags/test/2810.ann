@@ -1,0 +1,25 @@
+T1	LIVB 19 26	patient
+T2	DISO 42 65	antécédent pathologique
+T3	MEAS 66 73	notable
+T4	DISO 94 112	fissure du greffon
+T5	ANAT 105 112	greffon
+T6	PROC 116 131	examen clinique
+T7	PROC 136 145	admission
+T8	LIVB 162 169	patient
+T9	Concept_Idea 194 212	plan hémodynamique
+T10	PHEN 216 228	respiratoire
+T11	DISO 249 295	masse latéro-diaphragmatique bilatérale droite
+T12	Localization 278 295	bilatérale droite
+T13	MEAS 297 302	ferme
+T14	MEAS 312 317	12 cm
+T15	Concept_Idea 321 330	grand axe
+T16	DEVI 347 363	sonde thoracique
+T18	PROC 381 411	bilan biologique préopératoire
+T19	PROC 425 444	hémoglobine glyquée
+T20	MEAS 447 451	1,7%
+T21	PROC 493 554	ponction liquide pleuro-pulmonaire antécraniosténorachidienne
+T22	ANAT 502 554	liquide pleuro-pulmonaire antécraniosténorachidienne
+T23	PROC 569 593	anesthésie locorégionale
+T24	CHEM 610 634	anticorps antinucléaires
+T25	PROC 645 655	recherchés
+T26	PROC 660 695	technique d'immuno-cholécystectomie

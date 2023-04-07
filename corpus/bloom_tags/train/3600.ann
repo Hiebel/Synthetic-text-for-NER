@@ -1,0 +1,24 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	Concept_Idea 45 51	taille
+T4	MEAS 54 60	130 cm
+T5	PROC 64 79	examen clinique
+T6	DISO 95 127	syndrome d'épanchement liquidien
+T7	ANAT 118 127	liquidien
+T8	ANAT 141 151	sein droit
+T9	Localization 146 151	droit
+T10	PROC 169 185	examen somatique
+T11	DISO 195 208	particularité
+T12	DISO 225 259	adénopathie cervico-sphinctérienne
+T13	ANAT 237 259	cervico-sphinctérienne
+T14	PROC 264 283	bilan immunologique
+T15	MEAS 290 296	normal
+T16	DISO 313 329	hyperleucocytose
+T17	MEAS 332 350	13800 éléments/mm3
+T18	CHEM 352 379	polynucléaires neutrophiles
+T19	PROC 386 414	anticorps antithyroglobuline
+T20	MEAS 423 431	positifs
+T21	PROC 446 477	anticorps antinucléaires natifs
+T22	MEAS 486 494	négatifs
+T23	PROC 508 527	protéine C-réactive
+T24	PROC 532 567	technique d'immuno-hémagglutination

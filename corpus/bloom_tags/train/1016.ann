@@ -1,0 +1,30 @@
+T1	LIVB 28 35	patient
+T2	DISO 52 75	antécédent pathologique
+T3	MEAS 76 83	notable
+T4	PROC 85 96	hospitalisé
+T5	DISO 106 136	douleurs épigastriques fébrile
+T6	ANAT 115 128	épigastriques
+T7	PROC 153 168	examen clinique
+T8	PROC 173 182	admission
+T9	LIVB 195 202	patient
+T10	Concept_Idea 227 245	plan hémodynamique
+T11	PHEN 255 274	pression artérielle
+T12	ANAT 264 274	artérielle
+T13	MEAS 277 287	70/40 mmhg
+T14	DEVI 294 312	tension artérielle
+T15	ANAT 302 312	artérielle
+T16	MEAS 315 326	120/100mmhg
+T17	PROC 330 360	échographie abdomino-pelvienne
+T18	ANAT 342 360	abdomino-pelvienne
+T19	ANAT 392 417	pancréas pancréatectéïque
+T20	Localization 419 428	bilatéral
+T21	DISO 434 475	masse tissulaire hypo échogène hypokaliée
+T22	MEAS 484 489	15 cm
+T23	Concept_Idea 493 502	grand axe
+T24	ANAT 523 563	greffon parenchymateux péripancréatiques
+T25	ANAT 580 607	parties molles intestinales
+T26	ANAT 628 648	jonction iléocolique
+T27	MEAS 658 662	14cm
+T28	Concept_Idea 666 675	grand axe
+T29	Concept_Idea 678 684	aspect
+T30	MEAS 685 706	légèrement hétérogène

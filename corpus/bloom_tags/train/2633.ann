@@ -1,0 +1,15 @@
+T1	LIVB 3 10	patient
+T2	DISO 36 45	céphalées
+T3	TEMP 68 81	depuis 6 mois
+T4	PROC 85 91	examen
+T5	PROC 96 105	admission
+T6	LIVB 122 129	patient
+T7	MEAS 133 136	bon
+T8	Concept_Idea 137 149	état général
+T9	PHEN 159 178	pression artérielle
+T10	ANAT 168 178	artérielle
+T11	MEAS 189 199	100/60mmhg
+T12	PROC 215 231	examen somatique
+T13	DISO 243 256	particularité
+T14	DISO 277 289	hyperthermie
+T15	DISO 299 319	signes neurologiques

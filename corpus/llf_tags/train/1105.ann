@@ -1,0 +1,7 @@
+T1	PROC 3 27	laparotomie exploratrice
+T2	MEAS 75 82	simples
+T3	LIVB 87 95	patiente
+T4	PROC 100 106	sortie
+T5	Hospital 112 119	hôpital
+T6	TEMP 123 151	huitième jour postopératoire
+T7	TEMP 169 175	5 mois

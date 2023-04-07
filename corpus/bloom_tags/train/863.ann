@@ -1,0 +1,107 @@
+T1	LIVB 19 26	patient
+T2	DISO 47 72	antécédents pathologiques
+T3	MEAS 73 81	notables
+T4	PROC 83 94	hospitalisé
+T5	Hospital 99 107	urgences
+T6	DISO 117 153	douleurs abdomino-pelviennes aiguées
+T7	ANAT 126 145	abdomino-pelviennes
+T8	DISO 170 190	distension pelvienne
+T9	ANAT 181 190	pelvienne
+T10	DISO 197 230	syndrome d'épanchement péritonéal
+T11	ANAT 220 230	péritonéal
+T12	PROC 234 248	interrogatoire
+T13	DISO 274 288	épigastralgies
+T14	PHEN 346 1956	état général. Il a été mis sous paracétamol (200 mg/J), céfaméthasone (400 mg/J), méthylprednisolone (20 mg/kg/J) intraveineux en bolus associé au furosémide.
+L'exploration chirurgicale objectivait une lésion ulcérée du flanc droit mesurant environ 10 cm de grand axe sur 5 cm de petit axe envahissant le méso-sigmoïde ainsi que les anses grêles avec présence d'une adénopathie hypogastrique latérale droite augmentant massivement de volume apparue 2 mois auparavant qui n'avait pas présenté d'autres symptômes associés notamment pas de troubles hydro-électrolytiques ou autres anomalies métaboliques décelables chez cette patiente pouvant être expliquées par ce type de pathophysiologie maligne dont l'origine était discutée devant l'absence d'antécédents clinico-radiologiques évocateurs permettant d'exclure toute étiologie autre qu'une métastose intra-parathyroïdienne secondaire à sa localisation in utéro-néphrétique faisant évoquer aussi bien l'hypothalamate-protéinémie primaire comme origine probable qu'une gliomatose métastatique résiduelle ayant développé ces lésions prurigineuses localisées intéressant tout le territoire corporéo-myométrial cerviculaire refoulant l'épiploon vers son tissu gélatineux périrénal suggérant alors plutôt leur nature mésenchymateuse tissulaire bourgeonnante chondromateuse kystique nécrosée hypokleurique arrondie érythémateuse hétérogène sus-cervicale
+Le bilan préopératoire montrait une natrémie à 138 meq/l associée à une anorthropénie hypochrome microcytaire normocytaire normochrome ferriprive hypertriéhydratée nécessitant l'obtention d’une pression artérielle
+T15	LIVB 360 362	Il
+T16	CHEM 378 389	paracétamol
+T17	DOSE 391 397	200 mg
+T18	TEMP 397 399	/J
+T19	CHEM 402 415	céfaméthasone
+T20	DOSE 417 423	400 mg
+T21	TEMP 423 425	/J
+T22	CHEM 428 446	méthylprednisolone
+T23	DOSE 448 456	20 mg/kg
+T24	TEMP 456 458	/J
+T25	MODE 460 472	intraveineux
+T26	MODE 476 481	bolus
+T27	CHEM 493 503	furosémide
+T28	PROC 507 531	exploration chirurgicale
+T29	DISO 548 577	lésion ulcérée du flanc droit
+T30	ANAT 566 577	flanc droit
+T31	Localization 572 577	droit
+T32	MEAS 587 600	environ 10 cm
+T33	Concept_Idea 604 613	grand axe
+T34	MEAS 618 622	5 cm
+T35	Concept_Idea 626 635	petit axe
+T36	ANAT 651 664	méso-sigmoïde
+T37	ANAT 679 691	anses grêles
+T38	DISO 712 753	adénopathie hypogastrique latérale droite
+T39	ANAT 724 753	hypogastrique latérale droite
+T40	Localization 747 753	droite
+T41	MEAS 765 776	massivement
+T42	Concept_Idea 780 786	volume
+T43	TEMP 795 812	2 mois auparavant
+T44	DISO 847 856	symptômes
+T45	DISO 883 913	troubles hydro-électrolytiques
+T46	DISO 924 946	anomalies métaboliques
+T47	LIVB 969 977	patiente
+T48	DISO 1017 1041	pathophysiologie maligne
+T49	DISO 1186 1218	métastose intra-parathyroïdienne
+T50	ANAT 1196 1218	intra-parathyroïdienne
+T51	DISO 1363 1386	gliomatose métastatique
+T52	DISO 1418 1439	lésions prurigineuses
+T53	ANAT 1545 1571	tissu gélatineux périrénal
+T54	PROC 1746 1765	bilan préopératoire
+T55	PROC 1779 1787	natrémie
+T56	MEAS 1790 1799	138 meq/l
+T58	ANAT 1946 1956	artérielle
+T59	MEAS 1980 1991	100/70 mmHg
+T60	PROC 1996 2025	examen cardio-vasculo-nerveux
+T61	ANAT 2003 2025	cardio-vasculo-nerveux
+T62	DISO 2056 2077	détresse neurologique
+T63	DISO 2083 2114	atteinte sensitivo-vestibulaire
+T64	PROC 2128 2146	scanner thoracique
+T65	ANAT 2136 2146	thoracique
+T66	DISO 2171 2236	hypertrophie basithoracique basithoracique bilatérale asymétrique
+T68	Localization 2214 2236	bilatérale asymétrique
+T69	DISO 2254 2322	empyème sous-diaphragmatique hyo-laryngo-thoracique infarcto-fissuré
+T71	ANAT 2353 2383	parties molles interstitielles
+T72	DISO 2400 2417	processus tumoral
+T73	PROC 2434 2458	chimiothérapie adjuvante
+T74	CHEM 2485 2495	cisplatine
+T75	CHEM 2498 2509	vinblastine
+T76	CHEM 2512 2525	dexaméthasone
+T77	DEVI 2609 2623	masse tumorale
+T78	MEAS 2633 2663	plus difficilement appréciable
+T79	DISO 2738 2753	symptomatologie
+T80	LIVB 2755 2759	Elle
+T81	PROC 2786 2810	curiethérapie palliative
+T82	PHEN 2816 2834	suites opératoires
+T83	MEAS 2843 2850	simples
+T84	TEMP 2868 2875	18 mois
+T85	DISO 2881 2894	particularité
+T86	Concept_Idea 2901 2909	résultat
+T87	MEAS 2921 2938	très satisfaisant
+T88	PROC 2942 2970	étude d'immunohistochimiques
+T89	PROC 2972 2981	immunoHCG
+T90	PROC 2983 2998	anti-ADN natifs
+T91	ANAT 3013 3027	méso-péritoine
+T92	DISO 3153 3171	métanérolactinurie
+T93	DISO 3177 3207	hypervaccination antitétanique
+T94	PROC 3220 3253	imagerie par résonance magnétique
+T95	PROC 3255 3258	IRM
+T96	ANAT 3260 3269	pelvienne
+T97	DISO 3302 3336	adénopathies latéro-hypogastriques
+T98	LIVB 3396 3407	jeune fille
+T99	TEMP 3416 3422	17 ans
+T100	DISO 3442 3472	pancréatite ischémique stade E
+T101	DISO 3490 3528	syndrome d'épanchement intrapéritonéal
+T102	ANAT 3513 3528	intrapéritonéal
+T103	DOSE 3558 3563	10 mg
+T104	CHEM 3567 3584	méthylpropranolol
+T105	DISO 3605 3621	surdité visuelle
+T106	DISO 3638 3651	myometrorisme
+T107	PROC 3707 3732	intervention chirurgicale
+T108	PROC 3871 3898	radiothérapie intraveineuse

@@ -1,0 +1,30 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	DISO 40 65	antécédents pathologiques
+T4	MEAS 66 74	notables
+T5	DISO 95 129	tuméfaction des membres inférieurs
+T6	ANAT 111 129	membres inférieurs
+T7	TEMP 139 155	depuis deux mois
+T8	PROC 161 170	admission
+T9	Hospital 175 183	urgences
+T10	LIVB 185 189	elle
+T11	MEAS 199 202	bon
+T12	Concept_Idea 203 215	état général
+T13	DISO 233 283	syndrome d'épanchement péricardique latéro-utérine
+T15	DISO 285 289	LUHT
+T16	PROC 294 309	examen clinique
+T17	DISO 332 367	déformation du greffon épigastrique
+T18	ANAT 347 367	greffon épigastrique
+T19	PHEN 373 384	déglutition
+T20	MEAS 398 410	environ 5 cm
+T21	Concept_Idea 414 423	grand axe
+T22	DISO 444 472	vésicule biliaire résiduelle
+T23	PROC 476 506	échographie abdomino-pelvienne
+T24	ANAT 488 506	abdomino-pelvienne
+T25	DISO 524 589	lésion tumorale kystique hypoglycoréticulaire lithiasique maligne
+T26	ANAT 605 633	parties molles cerviculaires
+T27	MODE 661 670	injection
+T28	DOSE 674 679	10 mg
+T29	CHEM 683 698	prolablocortène
+T30	DEVI 703 728	cathéter transoesophagien
+T31	ANAT 712 728	transoesophagien

@@ -1,0 +1,62 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	10 ans
+T3	DISO 37 59	céphalées hypertensive
+T4	TEMP 69 90	depuis plusieurs mois
+T5	DISO 107 127	diplopie oculomoteur
+T6	MEAS 142 153	progressive
+T7	PROC 158 190	bilan radiologique préopératoire
+T8	DISO 211 249	hyperparathyroïdie primaire secondaire
+T9	MEAS 265 272	brutale
+T10	PROC 299 317	traitement curatif
+T11	CHEM 328 338	tamoxifène
+T12	DOSE 340 345	200mg
+T13	CHEM 347 361	hydrocortisone
+T14	DOSE 364 368	2 mg
+T15	PROC 374 384	diagnostic
+T16	DEVI 407 412	bolus
+T17	DISO 469 498	cataracte congénitale maligne
+T18	DISO 511 533	signes neurosensoriels
+T19	DISO 551 604	syndrome d'épanchement intracrânien céphalorachidiens
+T20	ANAT 574 604	intracrânien céphalorachidiens
+T21	DISO 615 640	pathologies neurologiques
+T22	LIVB 663 671	patiente
+T23	TEMP 680 686	12 ans
+T24	DISO 706 715	symptômes
+T25	LIVB 725 727	on
+T26	DISO 755 788	métastases cervico-vésicululaires
+T27	DISO 818 837	contage tuberculeux
+T28	DISO 861 885	végétations péritonéales
+T29	PROC 904 930	prélèvement bactériolgique
+T30	DISO 993 1008	douleur fébrile
+T31	DISO 1024 1030	fièvre
+T32	MEAS 1042 1047	39° C
+T33	MEAS 1057 1080	spontanément résolutive
+T34	PROC 1183 1216	traitements antalgiques adjuvants
+T35	PROC 1448 1481	imagerie par résonance magnétique
+T36	PROC 1483 1486	IRM
+T37	Localization 1488 1498	bilatérale
+T39	MEAS 1585 1590	21 cm
+T40	MEAS 1593 1598	15 cm
+T41	DISO 1662 1688	épiphyso-cranio-scapulaire
+T42	PROC 1705 1732	examen anatomo-myographique
+T43	PROC 1739 1764	étude anatomopathologique
+T44	DISO 1789 1834	processus lésionnel tumoral kystique purulent
+T45	ANAT 1864 1879	tissu graisseux
+T46	DISO 1981 2032	lésions ostéo-carcinomateuses nécrose-tuberculoïdes
+T47	DISO 2057 2083	vascularisation nécrotique
+T48	ANAT 2107 2127	membranes pariétales
+T49	ANAT 2148 2173	muqueuse ptérygo-palmaire
+T50	DISO 2198 2209	polyradical
+T51	MEAS 2237 2249	irrégulières
+T52	DISO 2303 2332	localisations intracrâniennes
+T53	DISO 2346 2384	méningiome épithélio-gigantocellulaire
+T54	DISO 2408 2427	neurofibrillonnards
+T55	PROC 2529 2563	scintigraphie in utéro-nucléarisée
+T56	Concept_Idea 2731 2744	échostructure
+T57	ANAT 2748 2764	corps cœléatique
+T58	LIVB 2769 2777	patiente
+T59	PROC 2795 2812	bilan d'extension
+T60	PROC 2830 2860	radio-chimiothérapie adjuvante
+T61	CHEM 2866 2879	dexaméthasone
+T62	CHEM 2881 2891	paclitaxel
+T63	CHEM 2895 2907	carboplatine

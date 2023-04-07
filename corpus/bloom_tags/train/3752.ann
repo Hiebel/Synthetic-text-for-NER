@@ -1,0 +1,51 @@
+T1	LIVB 26 34	patiente
+T2	TEMP 51 57	13 ans
+T3	PROC 67 89	traitement chirurgical
+T4	DISO 118 160	épanchement intrapulmonaire basithoracique
+T5	ANAT 130 160	intrapulmonaire basithoracique
+T6	PROC 702 743	prélèvement bactériolytique transfixiante
+T7	DISO 796 826	tuberculose caséo-folliculaire
+T8	DISO 843 890	syndrome d’épanchement liquidien basithoracique
+T9	ANAT 876 890	basithoracique
+T10	ANAT 974 1005	artère iliaque supra hyoïdienne
+T11	Localization 989 994	supra
+T12	MEAS 1043 1047	2 cm
+T13	Concept_Idea 1051 1060	grand axe
+T14	DISO 1192 1224	métastisme parenchymateux cutané
+T15	ANAT 1203 1224	parenchymateux cutané
+T16	DISO 1291 1300	purulente
+T17	ANAT 1337 1385	veines pulmonaires cervico-thoraciques latérales
+T18	Concept_Idea 1457 1465	contours
+T19	MEAS 1474 1483	réguliers
+T20	ANAT 1575 1594	recliner bronchique
+T21	ANAT 1617 1641	liquide céphalorachidien
+T22	DISO 1664 1698	fistule sinusiothoracique biliaire
+T23	ANAT 1672 1698	sinusiothoracique biliaire
+T24	DISO 1706 1756	thrombus carotidophréno-rénal infarcto-sténosantes
+T26	DISO 1770 1791	lésions hémorragiques
+T27	PROC 1795 1826	échographie abdomino- pelvienne
+T28	ANAT 1807 1826	abdomino- pelvienne
+T29	PHEN 1844 1861	grossesse utérine
+T30	ANAT 1854 1861	utérine
+T31	TEMP 1871 1884	depuis 6 mois
+T32	PROC 1894 1903	admission
+T33	LIVB 1907 1914	patient
+T34	Concept_Idea 1939 1956	plan neurologique
+T35	DISO 1964 1973	pulsatile
+T36	DISO 1980 2005	troubles sensitivomoteurs
+T37	DISO 2009 2022	sphinctériens
+T38	PROC 2026 2041	examen clinique
+T39	DISO 2064 2088	défauts trophoblastiques
+T40	ANAT 2102 2135	quadrant supéro-inferieure rectum
+T41	DISO 2156 2180	anomalies morphologiques
+T42	DISO 2195 2214	kystopathie utérine
+T43	DISO 2216 2246	polynucléaires neutrophiliques
+T44	DISO 2259 2295	infiltrat épithélo-gigantocellulaire
+T45	ANAT 2269 2295	épithélo-gigantocellulaire
+T46	DISO 2325 2347	carcinome endometriale
+T47	ANAT 2335 2347	endometriale
+T48	ANAT 2364 2374	pulmonaire
+T49	PROC 2380 2424	tomodensitométrie thoraco-abdomino-pelvienne
+T50	ANAT 2398 2424	thoraco-abdomino-pelvienne
+T51	CHEM 2439 2459	produit de contraste
+T52	PROC 2480 2510	radio-chimiothérapie adjuvante

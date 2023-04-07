@@ -1,0 +1,38 @@
+T1	LIVB 4 12	patiente
+T2	DISO 28 55	tuméfaction du flanc gauche
+T3	ANAT 43 55	flanc gauche
+T4	Localization 49 55	gauche
+T5	MEAS 67 82	progressivement
+T6	Concept_Idea 86 95	grand axe
+T7	TEMP 105 118	depuis 6 mois
+T8	PROC 127 136	admission
+T9	Hospital 140 155	bloc opératoire
+T10	DISO 172 187	symptomatologie
+T11	TEMP 198 206	deux ans
+T12	DISO 237 334	syndrome d'épanchement intrarachidien latéro-thoracique homolatéral supérieur laryngo-surrénalant
+T13	ANAT 260 334	intrarachidien latéro-thoracique homolatéral supérieur laryngo-surrénalant
+T15	PROC 357 378	biopsie transfixiante
+T16	PROC 384 408	cœlioscopie exploratrice
+T17	PROC 431 455	scanner abdomino-pelvien
+T18	ANAT 439 455	abdomino-pelvien
+T19	DISO 476 489	particularité
+T20	PROC 502 513	myélogramme
+T21	DISO 534 584	hyperplasie lymphocytaire polyclonale malpighienne
+T22	DISO 594 609	neuro-endocrine
+T23	PROC 635 660	étude immunohistochimique
+T24	PROC 677 703	examen anatomopathologique
+T25	DISO 719 748	lymphome malin non hodgkinien
+T26	PROC 801 804	CD3
+T27	PROC 806 826	cytokératine sérique
+T28	PROC 832 912	curage tuberculeux ganglionnaire cervico-vestibulaire thoracique locorégionalisé
+T30	PROC 913 918	TDCCT
+T31	MODE 920 938	voie intraveineuse
+T32	DISO 983 1004	dépistage tuberculeux
+T33	DISO 1060 1075	symptomatologie
+T34	LIVB 1099 1107	patiente
+T35	PROC 1171 1207	quadrithérapie probabiliste curative
+T36	CHEM 1218 1228	isoniazide
+T37	CHEM 1230 1243	rifosfentanil
+T38	CHEM 1245 1264	méthoxyprednisolone
+T39	CHEM 1266 1277	ethionamide
+T40	CHEM 1279 1298	hydroxy chloroquine

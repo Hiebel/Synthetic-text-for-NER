@@ -1,0 +1,36 @@
+T1	LIVB 2 8	enfant
+T2	PROC 15 19	reçu
+T3	Hospital 23 43	service de pédiatrie
+T4	DISO 53 72	douleurs pelviennes
+T5	ANAT 62 72	pelviennes
+T6	TEMP 82 94	depuis un an
+T7	DISO 111 117	fièvre
+T8	LIVB 139 146	parents
+T9	PROC 152 161	admission
+T10	LIVB 163 165	il
+T11	MEAS 186 189	bon
+T12	Concept_Idea 190 202	état général
+T13	DISO 211 232	détresse respiratoire
+T14	PHEN 220 232	respiratoire
+T15	DISO 238 249	hémoptysies
+T16	DISO 260 276	signes cliniques
+T17	LIVB 287 289	Il
+T18	PROC 312 334	échographie abdominale
+T19	ANAT 324 334	abdominale
+T20	DISO 363 388	localisations secondaires
+T21	PROC 393 424	radiographie standard du thorax
+T22	ANAT 418 424	thorax
+T23	DISO 454 513	syndrome d'épanchement péritonéal latéro-latéral bilatérale
+T24	ANAT 477 513	péritonéal latéro-latéral bilatérale
+T25	Localization 503 513	bilatérale
+T26	MEAS 523 528	21 cm
+T27	Concept_Idea 532 541	grand axe
+T28	MEAS 546 551	12 cm
+T29	Concept_Idea 555 564	petit axe
+T30	ANAT 580 611	sinus ptérygo-épiploique gauche
+T31	Localization 605 611	gauche
+T32	DISO 631 721	métastases parenchymateuses hypopigmentées basithoraciques cervico-capillaires sécrétrices
+T34	LIVB 749 760	jeune femme
+T35	DISO 780 810	carcinomes ovariectocellulaire
+T36	ANAT 791 810	ovariectocellulaire
+T37	LIVB 860 867	famille

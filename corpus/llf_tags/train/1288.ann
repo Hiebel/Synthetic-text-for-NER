@@ -1,0 +1,87 @@
+T1	LIVB 16 24	patiente
+T2	PROC 63 74	laparotomie
+T3	TEMP 78 82	2000
+T4	DISO 91 112	nodule du rein gauche
+T5	ANAT 101 112	rein gauche
+T6	Localization 106 112	gauche
+T7	PROC 116 131	examen clinique
+T8	PROC 136 145	admission
+T9	PHEN 160 175	fonction rénale
+T10	ANAT 169 175	rénale
+T11	MEAS 182 189	normale
+T12	PROC 196 212	bilan biologique
+T13	PROC 214 224	hémogramme
+T14	PROC 226 230	urée
+T15	PROC 232 245	créatininémie
+T16	DISO 256 269	particularité
+T17	PROC 275 322	radiographie des troncs supra-aorto-pulmonaires
+T18	ANAT 292 322	troncs supra-aorto-pulmonaires
+T19	PROC 335 367	scanner thoraco-abdomino-pelvien
+T20	ANAT 343 367	thoraco-abdomino-pelvien
+T21	DISO 406 416	métastases
+T22	DISO 423 448	localisations secondaires
+T23	PROC 453 483	fibroscopie œsogastroduodénale
+T24	ANAT 465 483	œsogastroduodénale
+T25	Concept_Idea 502 522	aspect morphologique
+T26	DISO 551 592	granulations érythémato-tracheocellulaire
+T27	ANAT 602 634	voies biliaires intracaverneuses
+T28	PROC 639 681	tomodensitométrie par émission de positons
+T29	PROC 683 690	TOPFIGO
+T30	PROC 720 736	cholécystectomie
+T31	MEAS 856 863	21x14mm
+T32	ANAT 890 908	lobes sous cutanés
+T33	MEAS 917 921	5 cm
+T35	ANAT 1006 1026	membranes pyloriques
+T36	DISO 1054 1088	pseudo myxome épithélioïde maligne
+T37	ANAT 1107 1128	veine cave inférieure
+T38	Localization 1118 1128	inférieure
+T39	ANAT 1160 1176	colon transverse
+T40	PROC 1196 1216	reprise chirurgicale
+T41	PROC 1221 1252	diagnostic anatomopathologiaque
+T42	DISO 1277 1372	adénocarcinome papillaire mucineux tissulaire angiomateux infiltrant rénoencéphalite monophasée
+T43	MEAS 1380 1402	classification TNMAC I
+T44	PROC 1595 1628	explorations immunohistochimiques
+T45	MEAS 1637 1649	particuliers
+T46	LIVB 1686 1693	malades
+T47	PROC 1717 1736	étude cytogénétique
+T48	DISO 1768 1859	myxome inflammatoire polymorphe carcinomateux métastatique hétérocytaire tumoral isotypique
+T49	ANAT 1886 1910	ganglions para mammaires
+T50	ANAT 1938 1969	cellules sanguines plasmatiques
+T52	ANAT 2158 2176	muqueuse digestive
+T53	ANAT 2226 2291	zones charnues pariéto-oesophagiennes fronto-temporo péritonéales
+T54	MEAS 2451 2459	nombreux
+T55	DISO 2588 2629	dérivés choriorétiniens spumeux distordus
+T56	DISO 2715 2750	volvulus syphilitiques cavernicoles
+T57	DISO 2786 2850	polynucléaires neutrophiles éosinophiles du lambeau péricardique
+T58	ANAT 2830 2850	lambeau péricardique
+T59	Concept_Idea 2854 2864	indication
+T60	PROC 2871 2896	corticothérapie adjuvante
+T61	MEAS 2930 2939	favorable
+T62	PROC 2945 2973	chimiothérapie néo adjuvante
+T63	DOSE 2988 2992	dose
+T64	DOSE 2996 3004	1 gramme
+T65	TEMP 3004 3006	/j
+T66	MODE 3010 3026	intramusculaires
+T67	PROC 3041 3069	antibiothérapie probabiliste
+T68	CHEM 3097 3126	immunoglobulines polyvalentes
+T69	CHEM 3128 3159	amoxicilline acide clavulanique
+T70	CHEM 3162 3199	amoxicilline alpha méthyl transférase
+T71	CHEM 3202 3231	amoxicilline beta hémolytique
+T72	CHEM 3234 3254	amoxicilline sodique
+T73	CHEM 3257 3282	amoxicilline pyrazinamide
+T74	PROC 3318 3340	kinésithérapie motrice
+T75	Concept_Idea 3353 3373	paramètres cliniques
+T76	PROC 3386 3406	bilan phtisiologique
+T77	DISO 3444 3461	récidive clinique
+T78	DISO 3465 3496	anomalies clinico-radiologiques
+T79	PROC 3515 3537	traitement chirurgical
+T80	PROC 3569 3598	radio-thoracotomie percutanée
+T81	PROC 3622 3646	stérnotomie exploratrice
+T82	ANAT 3665 3690	pédicule spléno-gastrique
+T83	PROC 3703 3760	recto-sigmoïdectomie totale exentriculaire per opératoire
+T84	ANAT 3780 3800	graisse médiastinale
+T85	ANAT 3829 3853	systèmes gastroduodénaux
+T86	PROC 3941 3973	remise en condition chirurgicale
+T87	PROC 3999 4065	résection transurétrale pré anévrysmale cervicale postanesthésique
+T88	PROC 4083 4156	exentération intrascrotale segmentaire multilamina bifidaonigestreffiquée
+T89	DEVI 4183 4213	matériel laryngé professionnel

@@ -1,0 +1,49 @@
+T1	LIVB 15 25	nourrisson
+T2	TEMP 33 39	8 mois
+T3	PROC 83 89	suivie
+T4	TEMP 100 110	6 semaines
+T5	DISO 129 155	malformations congénitales
+T6	DISO 162 190	syndrome infectieux néonatal
+T7	LIVB 217 223	enfant
+T8	PROC 228 250	bilan fœtopathologique
+T9	DISO 310 352	maternité tuberculeuse évolutive malformée
+T10	DISO 370 405	tuberculose gestationisque primaire
+T11	MEAS 459 474	progressivement
+T12	PROC 499 535	prise en charge médicale pédiatrique
+T13	DISO 564 590	maladie cœliaque chronique
+T14	DISO 600 620	anomalies trophiques
+T15	PROC 649 674	traitement prophylactique
+T16	PROC 695 715	récepteurs hormonaux
+T17	PROC 730 773	troponine alpha méthyl glutaméthasonectomie
+T18	PROC 802 835	néphropathie hypokinétique totale
+T19	DISO 894 907	complications
+T20	PROC 912 934	résection chirurgicale
+T21	PROC 961 985	extraction scanno-guidée
+T22	Localization 1007 1021	parties molles
+T23	PROC 1088 1114	examen anatomopathologique
+T24	DISO 1182 1197	zones nécrosées
+T25	PROC 1232 1257	procédure préanesthésique
+T26	PROC 1287 1311	exentération endobuccale
+T27	ANAT 1368 1387	annexes anténatales
+T28	MEAS 1401 1415	12 centimètres
+T29	Concept_Idea 1593 1602	caractère
+T30	MEAS 1603 1609	solide
+T31	DISO 1615 1636	signes inflammatoires
+T32	ANAT 1671 1688	pédicule digestif
+T33	ANAT 1692 1731	noyau intraparenchymateux gastrocnémien
+T34	ANAT 1733 1748	canal hépatique
+T35	MEAS 1786 1793	simples
+T36	Concept_Idea 1812 1820	clinique
+T37	PHEN 1824 1845	grossesse monofoetale
+T38	PROC 1937 1957	examens obstétricaux
+T39	DISO 1990 2015	difficultés diagnostiques
+T40	DISO 2131 2158	symptomatologie psychotique
+T41	PROC 2203 2237	radiothérapie externe substitutive
+T42	CHEM 2243 2257	fluocorticoïde
+T43	DOSE 2294 2302	20 mg/Kg
+T44	PROC 2354 2379	chimiothérapie palliative
+T47	PROC 2630 2657	prélèvement bactériologique
+T48	Hospital 2670 2686	salle opératoire
+T49	MEAS 2698 2707	perméable
+T51	TEMP 3057 3063	7 mois
+T52	DEVI 3075 3095	fente labio-dentaire

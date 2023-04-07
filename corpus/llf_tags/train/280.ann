@@ -1,0 +1,45 @@
+T1	LIVB 19 29	nourrisson
+T2	TEMP 37 43	4 mois
+T3	DEVI 73 79	casque
+T4	PROC 84 90	amenée
+T5	Hospital 95 116	urgences pédiatriques
+T6	PROC 148 170	consultation prénatale
+T7	CHEM 207 247	neuroleptiques substitutifs intraveineux
+T8	DOSE 271 276	50 mg
+T9	TEMP 276 278	/j
+T10	PROC 294 329	néphropathie diabétique parentérale
+T11	DISO 363 419	hyperprolactinémie congénitale polymalformatiquotidienne
+T12	PROC 520 534	interrogatoire
+T13	LIVB 540 550	nouveau-né
+T14	MEAS 560 574	12 centimètres
+T15	MEAS 587 599	4500 grammes
+T16	MEAS 605 616	930 grammes
+T17	PROC 629 640	administrés
+T18	PHEN 1633 1642	grossesse
+T19	TEMP 1659 1670	39 semaines
+T20	Concept_Idea 1673 1684	aménorrhées
+T21	DISO 1698 1721	retard staturo-pondéral
+T22	TEMP 1725 1730	22 SA
+T23	ANAT 1738 1756	systèmes digestifs
+T24	Concept_Idea 1777 1792	rythme sinusale
+T25	PROC 1810 1816	suivie
+T26	LIVB 1825 1835	grand-mère
+T27	TEMP 1844 1850	24 ans
+T28	DISO 1866 1887	récidive neurologique
+T29	DISO 1894 1922	décompensation psychomotrice
+T30	MEAS 1984 1991	simples
+T31	LIVB 2000 2004	elle
+T32	PROC 2016 2040	chimiothérapie adjuvante
+T33	PROC 2056 2084	corticothérapie probabiliste
+T34	MODE 2089 2107	voie intraveineuse
+T35	PROC 2120 2152	remplissage oeso-gastro-duodénal
+T37	CHEM 2167 2185	bronchodilatateurs
+T38	DOSE 2289 2297	1 gramme
+T39	DOSE 2303 2308	50 mg
+T40	PROC 2328 2350	traitement substitutif
+T41	LIVB 2420 2426	sujets
+T42	Concept_Idea 2486 2506	paramètres physiques
+T43	LIVB 2542 2549	enfants
+T44	PROC 2565 2589	traitements chirurgicaux
+T45	PROC 2594 2615	contrôle radiologique
+T47	Localization 2927 2936	bilatéral

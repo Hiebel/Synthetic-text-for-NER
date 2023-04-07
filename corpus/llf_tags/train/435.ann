@@ -1,0 +1,43 @@
+T1	LIVB 20 25	fille
+T2	TEMP 29 35	11 ans
+T3	DISO 64 85	tumeur du sein gauche
+T4	ANAT 74 85	sein gauche
+T5	Localization 79 85	gauche
+T6	LIVB 100 103	son
+T7	PROC 104 113	admission
+T8	Hospital 119 141	maternité des orangers
+T9	TEMP 155 165	21/09/2011
+T10	Concept_Idea 171 174	âge
+T11	TEMP 178 184	3 mois
+T12	TEMP 211 219	15 jours
+T13	DISO 225 233	récidive
+T14	DISO 241 248	douleur
+T15	DISO 268 282	déficit moteur
+T16	DISO 286 305	syndrome infectieux
+T17	PROC 309 324	examen physique
+T18	MEAS 342 347	bonne
+T19	PHEN 348 357	tolérance
+T20	CHEM 362 381	anti-inflammatoires
+T21	CHEM 411 429	bronchodilatateurs
+T22	DISO 446 471	troubles sensitivo-moteur
+T23	DISO 489 510	signes inflammatoires
+T24	PROC 524 541	biologie standard
+T25	MEAS 548 555	normale
+T26	PROC 557 568	hémoglobine
+T27	MEAS 570 584	1,98 gramme /l
+T28	PROC 591 613	transaminases sériques
+T29	MEAS 622 661	supérieurs à 0,2 milligrammes par litre
+T30	DISO 688 727	myélome mucineux érythémateux myalgique
+T31	MEAS 735 741	T4N0Mx
+T32	PROC 774 789	index mitotique
+T33	PROC 875 910	radiothérapie externe préopératoire
+T34	PROC 922 946	rachianesthésie générale
+T35	PROC 960 985	laminectomie exploratrice
+T36	MEAS 1000 1009	positives
+T37	MEAS 1027 1031	6 cm
+T38	MEAS 1035 1040	10 mm
+T39	MEAS 1078 1085	simples
+T40	Concept_Idea 1093 1110	plan radiologique
+T41	DISO 1120 1140	récidive infectieuse
+T42	DISO 1150 1171	anomalie neurologique
+T43	PROC 1204 1216	consultation

@@ -1,0 +1,85 @@
+T1	LIVB 15 22	patient
+T2	PROC 64 87	hypertension artérielle
+T3	ANAT 77 87	artérielle
+T4	DISO 94 115	carcinome épidermoïde
+T5	ANAT 104 115	épidermoïde
+T6	PROC 119 144	étude anatomopathologique
+T7	PROC 170 195	scanner thoraco-abdominal
+T8	ANAT 178 195	thoraco-abdominal
+T9	Concept_Idea 208 211	âge
+T10	TEMP 215 221	19 ans
+T11	DISO 233 241	anomalie
+T12	DISO 258 296	dilatation des voies aériennes droites
+T13	ANAT 273 296	voies aériennes droites
+T14	Localization 289 296	droites
+T15	MEAS 313 317	deux
+T16	ANAT 327 340	bronchogramme
+T17	DISO 357 382	localisations secondaires
+T18	MEAS 425 432	simples
+T19	PROC 438 469	traitement médical conservateur
+T20	CHEM 471 481	fluoxétine
+T21	CHEM 484 509	hydroxychlorure de sodium
+T22	PROC 524 547	radiothérapie adjuvante
+T23	Hospital 551 566	bloc opératoire
+T24	PHEN 585 611	récupération fonctionnelle
+T25	PROC 631 641	diagnostic
+T26	DISO 664 698	métastase péritonéale ostéolytique
+T27	ANAT 674 685	péritonéale
+T28	MEAS 708 712	3 cm
+T29	Concept_Idea 716 725	grand axe
+T30	MEAS 741 756	progressivement
+T31	Concept_Idea 760 766	taille
+T32	PROC 773 796	transplantation externe
+T33	ANAT 815 833	lambeau thoracique
+T34	DEVI 843 857	sac anéchogène
+T35	LIVB 1283 1294	jeune homme
+T36	LIVB 1368 1384	cousins germains
+T37	LIVB 1480 1495	sœur maternelle
+T38	TEMP 1504 1510	35 ans
+T39	PROC 1568 1581	accouchements
+T40	DISO 1617 1638	grossesse monofoetale
+T41	DISO 1645 1659	décès néonatal
+T42	DISO 1670 1696	malformations congénitales
+T43	LIVB 1713 1723	nouveau-né
+T44	MEAS 1731 1743	1700 grammes
+T45	MEAS 1751 1762	506 grammes
+T46	MEAS 1768 1785	4 fois la normale
+T47	MEAS 1794 1805	395 grammes
+T48	DISO 1826 1844	maladie démoniaque
+T49	Concept_Idea 1862 1878	plan obstétrical
+T50	LIVB 1933 1948	famille élargie
+T51	LIVB 1963 1982	confrères maternels
+T52	PROC 2081 2090	consulter
+T53	Concept_Idea 2147 2167	résultats somatiques
+T54	PROC 2183 2215	fibroscopie oeso-gastroduodénale
+T55	ANAT 2195 2215	oeso-gastroduodénale
+T56	DISO 2232 2294	formation tissulaire érythémato-céphaloblastique hypokinétique
+T57	ANAT 2315 2343	membranes rénales cervicales
+T58	DISO 2406 2472	cytoplasme achromique mucineux périméro-mésenchymateux superficiel
+T59	PROC 2482 2511	technique immunohistochimique
+T60	MEAS 2946 2951	10 cm
+T61	Concept_Idea 2955 2964	grand axe
+T62	PROC 2968 2986	étude histologique
+T63	ANAT 3018 3037	nerf laryngo-larynx
+T65	DISO 3258 3304	tumeur mésenchymateuse cutanéomuqueuse myxoïde
+T66	LIVB 3391 3396	fille
+T67	PHEN 3402 3408	suites
+T68	MEAS 3417 3424	simples
+T69	DISO 3430 3468	récidive neuropsychiatrique secondaire
+T70	MEAS 3493 3502	favorable
+T71	PROC 3508 3530	traitement substitutif
+T72	CHEM 3536 3573	amoxicilline acide acétyle glutamique
+T73	LIVB 3586 3590	elle
+T74	PROC 3607 3635	chimiothérapie néo adjuvante
+T75	Hospital 3640 3648	urgences
+T76	PROC 3673 3708	transfusion sanguine postopératoire
+T77	PROC 3782 3810	contrôle psychothérapeutique
+T78	TEMP 3864 3871	37 mois
+T79	PROC 3939 3951	accouchement
+T80	DISO 3963 3987	déficit immunitaire aigu
+T81	DISO 4002 4033	hypertriglycéridémie diabétique
+T82	TEMP 4053 4064	depuis 2ans
+T83	MEAS 4079 4094	progressivement
+T84	DOSE 4165 4175	dose orale
+T85	DOSE 4179 4183	20mg
+T86	PROC 4216 4552	antibiothérapie probabiliste fractionnée HIV frais congelés isotoniques concomitants Bléomycine Acide Fusidique Protéine Sulfadiazine Glucuronéphrite Glycoprotéine Critamine Kératine Lactate Récepteurs hormonaux Oestrogéniques Antigènes Adrénalins Tachycarde Abdomen Embryonnaire Membranectomie Chirurgie Observation anatomopathologique

@@ -1,0 +1,54 @@
+T1	LIVB 16 21	fille
+T2	TEMP 30 35	7 ans
+T3	PROC 166 191	traitement complémentaire
+T4	PROC 232 247	suivi prénatale
+T5	LIVB 281 292	jeune fille
+T6	MEAS 366 369	70%
+T7	ANAT 391 403	rein gauches
+T8	Localization 396 403	gauches
+T9	MEAS 411 428	5 fois la normale
+T10	PROC 435 457	consultation prénatale
+T11	Hospital 468 499	urgences médicales pédiatriques
+T13	DISO 612 633	syndrome hémorragique
+T14	DISO 640 659	déficit vitaminique
+T15	Concept_Idea 680 700	aspect morphologique
+T16	DISO 717 762	malformation congénitale néonatalgie primaire
+T17	Concept_Idea 785 803	état hémodynamique
+T18	MEAS 814 820	stable
+T19	PROC 833 854	traitements parentaux
+T20	PROC 944 981	régime pauvre en fluorescéine sodique
+T21	CHEM 961 981	fluorescéine sodique
+T22	PROC 1014 1030	séance digestive
+T23	PHEN 1105 1128	grossesse néphrotoxique
+T24	PROC 1143 1163	drainage chirurgical
+T25	PROC 1176 1210	toilette respiratoire chirurgicale
+T26	ANAT 1185 1210	respiratoire chirurgicale
+T27	DISO 1296 1388	adénocarcinome pléomorphe mucineux intramamelonnaire mésenchymateux adénomégrinoïde III MKJB
+T28	MEAS 1396 1404	T6N0MxCD
+T29	DEVI 1481 1524	tubercules transparents polygonaux perforés
+T30	MEAS 1599 1604	50 mm
+T31	MEAS 1606 1611	90 mm
+T32	MEAS 1615 1621	110 mm
+T33	ANAT 1667 1705	pédicule infundibulaire pariétal droit
+T34	Localization 1700 1705	droit
+T35	PROC 1711 1736	étude anatomopathologique
+T36	DISO 1757 1778	récidive métastatique
+T37	DISO 1804 1836	métastases hépato-trachéo-anales
+T38	ANAT 1815 1836	hépato-trachéo-anales
+T39	PROC 1863 1871	curetage
+T40	DISO 1904 1916	Syndrome HIV
+T41	PROC 2009 2031	contrôle échographique
+T42	TEMP 2056 2069	deux semaines
+T43	PROC 2075 2085	opératoire
+T44	ANAT 2109 2142	sinus maxillaire inférieur gauche
+T45	Localization 2136 2142	gauche
+T46	DISO 2226 2258	lésions nécrotico-inflammatoires
+T47	DISO 2264 2279	sang coagulants
+T48	DISO 2290 2315	localisations secondaires
+T49	Concept_Idea 2326 2355	caractère immunohistochimique
+T50	DISO 2558 2634	hyperplasmocytes érythémateux hétérozygotes monoclonaux angiomateux myxoïdes
+T52	PROC 2964 2993	immunophénotypage moléculaire
+T53	MEAS 3016 3023	négatif
+T54	DISO 3095 3153	maladie thromboembolique ischémique idiopathique primitive
+T55	PROC 3181 3208	études cytobactériologiques
+T56	PROC 3263 3284	surveillance clinique

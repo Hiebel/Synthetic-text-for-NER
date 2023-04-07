@@ -1,0 +1,21 @@
+T1	LIVB 29 37	patiente
+T2	DISO 58 83	pathologies pathologiques
+T3	MEAS 84 96	particuliers
+T4	Hospital 121 146	urgences ophtalmologiques
+T5	DISO 165 184	insuffisance rénale
+T6	PHEN 178 184	rénale
+T7	TEMP 267 281	depuis 12 mois
+T8	LIVB 288 291	son
+T9	PROC 292 307	hospitalisation
+T10	DEVI 313 333	lunettes oculomoteur
+T11	PROC 679 693	interrogatoire
+T12	LIVB 700 708	patiente
+T13	DISO 731 826	dysfonction ventriculo-diploïque antéhypnoradrénalienne noradrénaline-noradrénaline hypotensive
+T15	MEAS 839 846	brutale
+T16	PROC 863 878	hospitalisation
+T17	LIVB 888 892	elle
+T18	DISO 924 937	consanguinité
+T19	DISO 947 988	maladie thromboembolique cardiovasculaire
+T20	ANAT 972 988	cardiovasculaire
+T21	DISO 999 1021	anomalies métaboliques
+T22	DISO 1079 1121	symptômes neurovégétatifs sensitivomotrice

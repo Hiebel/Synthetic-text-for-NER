@@ -1,0 +1,17 @@
+T1	LIVB 21 27	enfant
+T2	TEMP 31 36	9 ans
+T3	DISO 42 67	antécédents pathologiques
+T4	MEAS 68 80	particuliers
+T5	PROC 86 95	admission
+T6	Hospital 104 111	service
+T7	LIVB 113 117	nous
+T8	DISO 139 175	polyarthrite érythémateuse chronique
+T9	TEMP 197 210	depuis 8 mois
+T10	DISO 225 241	épisodes fébrile
+T11	MEAS 267 278	progressive
+T12	MEAS 288 311	spontanément résolutifs
+T13	Hospital 367 410	service d'accueil des urgences pédiatriques
+T14	PROC 462 483	échographie pelvienne
+T15	ANAT 474 483	pelvienne
+T16	Hospital 497 505	urgences
+T17	PROC 512 532	reprise chirurgicale

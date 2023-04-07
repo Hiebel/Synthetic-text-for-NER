@@ -1,0 +1,43 @@
+T1	PROC 2 17	examen clinique
+T2	PROC 22 31	admission
+T3	LIVB 43 51	patiente
+T4	MEAS 55 58	bon
+T5	Concept_Idea 59 71	état général
+T6	DISO 73 84	polypnéique
+T7	MEAS 87 100	28 cycles/min
+T8	PHEN 105 110	pouls
+T9	MEAS 114 121	120 bpm
+T10	PROC 126 142	bilan biologique
+T11	PROC 156 167	leucorachie
+T12	MEAS 170 188	12300 éléments/mm3
+T13	PROC 195 214	protéine-C réactive
+T14	PROC 216 219	CRP
+T15	MEAS 223 230	15 mg/l
+T16	PROC 235 261	ponction pleurale ventilée
+T17	ANAT 244 252	pleurale
+T18	DEVI 284 292	cathéter
+T19	PROC 298 347	anesthésie du médiastin crânien postéro-supérieur
+T21	PROC 370 407	remplissage vasculo-nerveux péridural
+T22	ANAT 382 407	vasculo-nerveux péridural
+T23	DOSE 411 413	5%
+T24	CHEM 417 438	sérum salé isotonique
+T25	DISO 455 486	complications thromboemboliques
+T26	TEMP 488 507	Une heure plus tard
+T27	DISO 530 551	détresse respiratoire
+T28	PHEN 539 551	respiratoire
+T29	DISO 578 585	nausées
+T30	DISO 614 628	amaigrissement
+T31	MEAS 639 644	18 kg
+T32	DISO 660 676	troubles visuels
+T33	DISO 687 710	symptômes neurologiques
+T34	DISO 743 763	douleurs abdominales
+T35	DISO 783 809	défense abdomino-pelvienne
+T36	ANAT 791 809	abdomino-pelvienne
+T37	DISO 823 844	sensibilité pelvienne
+T38	ANAT 835 844	pelvienne
+T39	MEAS 859 866	brutale
+T40	MEAS 878 893	progressivement
+T41	Concept_Idea 897 903	volume
+T42	MEAS 985 1005	profondément gênante
+T43	LIVB 1042 1050	patiente
+T44	Concept_Idea 1085 1091	volume

@@ -1,0 +1,25 @@
+T1	LIVB 19 26	patient
+T2	DISO 60 85	pancréatite aiguë stade A
+T3	PROC 91 109	traitement curatif
+T4	CHEM 122 153	amoxicilline-acide clavulanique
+T5	DOSE 155 162	2 mg/kg
+T6	TEMP 162 167	/jour
+T7	CHEM 170 183	chlorhexidine
+T8	DOSE 184 190	500 mg
+T9	TEMP 190 192	/j
+T10	CHEM 197 207	furosémide
+T11	DOSE 209 216	20mg/kg
+T12	TEMP 216 218	/J
+T13	PROC 224 255	tomodensitométrie préopératoire
+T14	DISO 276 310	sténose bilatérale hypo-résistante
+T15	Localization 284 294	bilatérale
+T16	ANAT 335 361	artères rénales centraires
+T17	Localization 351 361	centraires
+T18	PROC 378 389	évacuatrice
+T19	MEAS 406 423	circonférentielle
+T20	PROC 463 480	résection élargie
+T21	DISO 495 527	métastases ostéo-interstitielles
+T22	ANAT 548 573	greffon vésculo-splénique
+T23	ANAT 596 610	surrénaliennes
+T24	MEAS 632 644	négligeables
+T25	PROC 710 741	techniques d'immuno-hybridation

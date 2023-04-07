@@ -1,0 +1,20 @@
+T1	LIVB 19 24	homme
+T2	DISO 79 103	constipations chroniques
+T3	PROC 136 145	admission
+T4	Hospital 150 171	urgences pédiatriques
+T5	TEMP 182 195	depuis 8 mois
+T6	Hospital 227 252	urgences ophtalmologiques
+T7	DISO 272 278	fièvre
+T8	TEMP 288 305	depuis cinq jours
+T9	Concept_Idea 333 345	état général
+T10	DISO 360 391	vomissements bilieux crépitants
+T11	LIVB 429 441	dermatologue
+T12	DISO 487 506	symptômes cliniques
+T13	TEMP 519 546	plusieurs années auparavant
+T14	PROC 562 567	admis
+T15	Hospital 572 600	soins intensifs pédiatriques
+T16	DISO 639 655	troubles visuels
+T17	DEVI 676 699	lampe à fente cervicale
+T18	MEAS 712 738	difficilement perceptibles
+T19	Concept_Idea 752 775	précédents chirurgicaux
+T20	DISO 828 852	lésions cutanéomuqueuses

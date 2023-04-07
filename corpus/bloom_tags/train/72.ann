@@ -1,0 +1,32 @@
+T1	LIVB 4 12	Patiente
+T2	PROC 32 38	admise
+T3	DISO 48 66	détresse digestive
+T4	PHEN 57 66	digestive
+T5	DISO 83 121	syndrome d'épanchement intrapéritonéal
+T6	ANAT 106 121	intrapéritonéal
+T7	DISO 150 164	amaigrissement
+T8	MEAS 175 180	15 kg
+T9	TEMP 197 203	12 ans
+T10	MEAS 219 234	progressivement
+T11	Concept_Idea 238 244	taille
+T12	DISO 276 294	œdème épigastrique
+T13	ANAT 282 294	épigastrique
+T14	MEAS 309 315	rapide
+T15	PROC 330 339	admission
+T16	PROC 345 380	anesthésie locorégionale percutanée
+T17	PROC 408 414	suivie
+T18	PROC 418 431	diagnostiquée
+T19	DISO 445 473	symptomatologie neurologique
+T20	MEAS 483 495	plus gênante
+T21	Concept_Idea 520 526	volume
+T22	Concept_Idea 554 582	manifestations radiologiques
+T23	DISO 596 616	hypotonie péridurale
+T24	DISO 641 675	métrorragies méningées purpuriques
+T25	DISO 691 723	douleurs pelviennes généralisées
+T26	ANAT 700 723	pelviennes généralisées
+T27	DISO 800 818	infarctus oculaire
+T28	ANAT 810 818	oculaire
+T29	TEMP 877 896	environ trois jours
+T30	LIVB 903 906	son
+T31	PROC 907 922	hospitalisation
+T32	DISO 986 1008	paroxysme épigastrique

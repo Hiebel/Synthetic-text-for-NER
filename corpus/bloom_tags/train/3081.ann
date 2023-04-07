@@ -1,0 +1,44 @@
+T1	LIVB 20 28	patiente
+T3	ANAT 76 86	artérielle
+T4	DISO 102 114	hypokaliémie
+T5	MEAS 130 154	insuffisance métabolique
+T6	DISO 163 182	déficit immunitaire
+T7	DISO 196 215	anesthésie vaginale
+T8	ANAT 207 215	vaginale
+T9	DISO 225 238	inflammatoire
+T10	TEMP 248 261	depuis 4 mois
+T11	LIVB 268 270	sa
+T12	PROC 271 283	consultation
+T13	Hospital 288 296	urgences
+T14	MEAS 314 321	modérée
+T15	PHEN 334 346	respiratoire
+T16	MEAS 358 370	2kg/m²/heure
+T17	DISO 385 409	sensibilité épigastrique
+T18	ANAT 397 409	épigastrique
+T19	MEAS 421 430	lentement
+T20	Concept_Idea 434 440	volume
+T21	DISO 462 481	symptômes digestifs
+T22	DISO 484 503	défense intestinale
+T23	ANAT 492 503	intestinale
+T24	DISO 505 531	douleur abdomino-pelvienne
+T25	ANAT 513 531	abdomino-pelvienne
+T26	ANAT 610 631	muqueuses abdominales
+T27	MEAS 644 651	majeure
+T28	Concept_Idea 703 721	état hémodynamique
+T29	PROC 755 774	pression artérielle
+T30	ANAT 764 774	artérielle
+T31	MEAS 791 798	70 mmhg
+T32	DEVI 824 846	médiateur intrarachéal
+T34	DOSE 867 875	10 mg/kg
+T35	CHEM 879 892	triamcinolone
+T36	MODE 895 913	voie intraveineuse
+T37	DOSE 917 924	3 mg/kg
+T38	CHEM 928 939	propranolol
+T39	PROC 946 967	échographie pelvienne
+T40	ANAT 958 967	pelvienne
+T42	MEAS 1043 1048	17 cm
+T43	Concept_Idea 1052 1061	grand axe
+T44	MEAS 1070 1082	environ 5 cm
+T45	Concept_Idea 1086 1094	diamètre
+T46	ANAT 1112 1126	sinus grêlique
+T47	Concept_Idea 1156 1163	hauteur

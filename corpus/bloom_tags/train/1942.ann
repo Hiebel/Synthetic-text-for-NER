@@ -1,0 +1,41 @@
+T1	LIVB 3 9	garçon
+T2	TEMP 17 22	2 ans
+T3	PROC 29 33	reçu
+T4	Hospital 38 59	urgences pédiatriques
+T5	Hospital 63 111	Centre Hospitalier Universitaire Ibn Sina de Fès
+T6	PROC 138 160	échographie abdominale
+T7	ANAT 150 160	abdominale
+T8	DISO 199 225	épanchement péripéritonéal
+T9	ANAT 211 225	péripéritonéal
+T10	MEAS 235 246	1345 litres
+T11	DISO 273 362	adénopathies cervico-surrénaliennes basithoraciques jugulo-carotidiennes hypovolématisées
+T13	MEAS 387 394	12/8 cm
+T14	MEAS 398 405	9/10 cm
+T15	PROC 422 447	examen clinique somatique
+T16	DISO 489 502	particularité
+T17	DISO 520 526	fièvre
+T18	DISO 528 552	déficit sensitivomotrice
+T19	DISO 561 577	atteinte faciale
+T20	ANAT 570 577	faciale
+T21	PROC 581 620	écho-Doppler cardiaque transoesophagien
+T22	ANAT 594 620	cardiaque transoesophagien
+T23	PROC 635 659	anesthésie locorégionale
+T24	ANAT 646 659	locorégionale
+T25	DISO 682 728	sténose ventriculaire infarcto-diaphragmatique
+T26	ANAT 690 728	ventriculaire infarcto-diaphragmatique
+T27	PROC 768 786	traitement médical
+T28	CHEM 799 823	bêtaméthasylprédnisolone
+T29	DOSE 825 831	400 mg
+T30	TEMP 831 833	/j
+T31	CHEM 836 849	phénobarbital
+T32	DOSE 851 856	40 mg
+T33	TEMP 856 858	/j
+T34	CHEM 860 871	nicardipril
+T35	DOSE 873 879	120 mg
+T36	TEMP 879 881	/j
+T37	CHEM 884 902	hydroxychloroquine
+T38	DOSE 905 911	200 mg
+T39	TEMP 911 913	/j
+T40	CHEM 915 940	ethionamide hydrochloride
+T41	PROC 945 970	étude immunohistochimique
+T42	MEAS 987 995	positifs

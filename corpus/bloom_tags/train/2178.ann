@@ -1,0 +1,46 @@
+T1	LIVB 29 37	patiente
+T2	TEMP 72 76	2011
+T3	DISO 81 243	douleurs du fléchisseur scapho-aponévrotendineux fléchissulaire laryngéo-bronchoclaviculaires cervico-fémoro-laterales infra-mandibulo-carotidiennes constrictives
+T5	Concept_Idea 252 257	poids
+T6	MEAS 261 266	20 kg
+T7	PROC 270 292	examen ophtalmologique
+T8	PHEN 306 321	acuité visuelle
+T9	MEAS 332 335	4/5
+T10	ANAT 351 360	œil droit
+T11	Localization 355 360	droit
+T12	MEAS 362 366	8/10
+T13	ANAT 382 392	œil gauche
+T14	Localization 386 392	gauche
+T15	PROC 398 407	admission
+T16	LIVB 411 419	patiente
+T17	DISO 426 437	polypnéique
+T18	MEAS 441 454	28 cycles/min
+T19	DISO 457 467	tachycarde
+T20	MEAS 470 488	102 battements/min
+T21	DISO 504 525	détresse respiratoire
+T22	PHEN 513 525	respiratoire
+T23	DISO 538 554	symptômes vitaux
+T24	Concept_Idea 595 613	plan hémodynamique
+T25	Concept_Idea 646 658	état général
+T26	MODE 664 691	voie veineuse intraveineuse
+T27	CHEM 717 733	glucocorticoïdes
+T28	CHEM 739 753	hydrocortisone
+T29	PROC 778 808	traitement médical substitutif
+T30	TEMP 825 830	9 ans
+T31	DOSE 841 850	0,5 mg/kg
+T32	TEMP 850 855	/jour
+T33	DOSE 902 909	1 mg/kg
+T34	TEMP 909 911	/j
+T35	DISO 929 948	réaction allergique
+T36	PROC 961 994	bilan préopératoire immunologique
+T37	PROC 1008 1020	anti CCP IgE
+T38	MEAS 1034 1041	négatif
+T39	DISO 1072 1093	asthénie prurigineuse
+T40	DISO 1157 1174	dyspnée sifflante
+T41	MEAS 1186 1201	progressivement
+T42	Concept_Idea 1205 1211	volume
+T43	MEAS 1221 1235	plus accentuée
+T44	Hospital 1239 1258	au décubitus dorsal
+T45	LIVB 1279 1287	patiente
+T46	DISO 1293 1320	empyème thyroïdien infiltré
+T47	ANAT 1301 1320	thyroïdien infiltré

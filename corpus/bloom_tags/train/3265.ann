@@ -1,0 +1,55 @@
+T1	LIVB 28 35	patient
+T2	PROC 56 62	traité
+T3	DISO 69 88	insuffisance rénale
+T4	PHEN 82 88	rénale
+T5	DISO 106 146	cardiomyopathie ischémique hypertrophiée
+T6	PROC 152 188	surveillance échocardio-radiologique
+T7	PROC 201 234	imagerie par résonance magnétique
+T8	PROC 236 239	IRM
+T9	PROC 246 263	touchers pelviens
+T10	ANAT 255 263	pelviens
+T11	DISO 328 349	troubles métaboliques
+T12	LIVB 383 391	patiente
+T13	PROC 442 470	consultation ophtalmologique
+T14	DISO 525 551	maladie thrombo-embellante
+T15	PROC 568 585	étude étiologique
+T16	DISO 613 638	contage cardio-vasculaire
+T17	ANAT 621 638	cardio-vasculaire
+T18	DISO 645 658	thrombophilie
+T19	LIVB 684 690	enfant
+T20	TEMP 694 699	9 ans
+T21	Hospital 779 800	urgences pédiatriques
+T22	DISO 829 843	amaigrissement
+T23	MEAS 854 858	6 kg
+T24	PROC 875 903	prise en charge chirurgicale
+T25	DISO 943 978	symptomatologie gynéco obstétricale
+T26	TEMP 1069 1076	3 jours
+T27	DISO 1093 1128	crises convulsives tonico-cloniques
+T28	MEAS 1168 1183	progressivement
+T29	Concept_Idea 1187 1193	volume
+T30	DISO 1200 1207	lésions
+T31	MEAS 1219 1228	brunâtres
+T32	ANAT 1252 1270	parois abdominales
+T33	ANAT 1299 1313	parties molles
+T34	DISO 1394 1426	syndrome d'épanchement liquidien
+T35	ANAT 1417 1426	liquidien
+T36	DISO 1549 1580	léiomyosarcome kystique maligne
+T37	PROC 1587 1621	sérologies virales cytomégalovirus
+T38	MEAS 1636 1645	négatives
+T39	PROC 1660 1693	cytolyse hépatique BHCG conjuguée
+T40	MEAS 1707 1732	supérieure à 200 000 UI/l
+T41	PROC 1739 1784	fibroscopie oesophagienne trans-oesophagienne
+T42	ANAT 1751 1784	oesophagienne trans-oesophagienne
+T43	PROC 1811 1827	fixation plâtrée
+T44	MEAS 1912 1917	22 cm
+T45	MEAS 1920 1925	15 cm
+T46	ANAT 2120 2136	zones cardiaques
+T47	DISO 2267 2285	pathophysiologique
+T48	PROC 2301 2325	scanner abdomino-pelvien
+T49	ANAT 2309 2325	abdomino-pelvien
+T50	DISO 2354 2379	localisations secondaires
+T51	LIVB 2384 2392	patiente
+T52	PROC 2411 2435	chimiothérapie adjuvante
+T53	CHEM 2449 2460	doxycycline
+T54	CHEM 2462 2473	cyclosérine
+T55	CHEM 2477 2490	dexaméthasone

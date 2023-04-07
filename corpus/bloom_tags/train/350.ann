@@ -1,0 +1,29 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 41 52	antécédents
+T3	MEAS 53 61	notables
+T4	PROC 63 69	admise
+T5	DISO 79 101	douleurs épigastriques
+T6	ANAT 88 101	épigastriques
+T7	TEMP 111 124	depuis 4 mois
+T8	PROC 128 143	examen clinique
+T9	LIVB 155 163	patiente
+T10	MEAS 167 170	bon
+T11	Concept_Idea 171 183	état général
+T12	PHEN 192 197	pouls
+T14	TEMP 215 226	par minutes
+T15	DEVI 234 253	pression artérielle
+T16	ANAT 243 253	artérielle
+T17	MEAS 256 265	70/40mmHg
+T18	PROC 270 306	tomodensitométrie abdomino-pelvienne
+T19	ANAT 288 306	abdomino-pelvienne
+T20	DISO 333 371	syndrome d'épanchement intrapéritonéal
+T21	ANAT 356 371	intrapéritonéal
+T22	ANAT 387 398	flanc droit
+T23	Localization 393 398	droit
+T24	MEAS 408 412	14cm
+T25	MEAS 417 422	12 cm
+T26	ANAT 438 457	espaces péritonéaux
+T27	ANAT 470 497	hile pariéto-appendiculaire
+T28	MEAS 521 531	13 / 12 cm
+T29	MEAS 535 543	16/10 cm
+T30	ANAT 557 579	péritoine iléo-caecale

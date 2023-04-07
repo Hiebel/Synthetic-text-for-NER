@@ -1,0 +1,96 @@
+T1	LIVB 19 29	nouveau-né
+T2	TEMP 55 66	14 semaines
+T3	PROC 70 85	examen clinique
+T4	DISO 102 108	fièvre
+T5	MEAS 111 115	38°C
+T6	Concept_Idea 124 136	état général
+T7	MEAS 137 143	altéré
+T8	DISO 151 167	râles crépitants
+T9	ANAT 181 191	pied droit
+T10	Localization 186 191	droit
+T11	PROC 196 215	ponction abdominale
+T12	ANAT 205 215	abdominale
+T13	DISO 236 242	tumeur
+T14	PROC 256 283	bilan radiologique standard
+T15	DISO 295 308	particularité
+T16	MEAS 345 352	simples
+T17	DISO 372 390	choc hypovolémique
+T18	PROC 405 420	hospitalisation
+T19	Hospital 424 435	psychiatrie
+T20	PROC 441 469	chimiothérapie néo adjuvante
+T21	CHEM 474 484	corticoïde
+T22	PROC 498 523	radiodialyse exploratrice
+T23	DISO 577 591	déficit moteur
+T24	DISO 601 624	trouble sensitivomoteur
+T25	PROC 637 668	scanner thoraco-abdominopelvien
+T26	ANAT 645 668	thoraco-abdominopelvien
+T27	PROC 670 673	THD
+T28	MEAS 691 697	normal
+T29	PROC 708 720	soins locaux
+T30	DISO 760 820	masse tissulaire rénoventriculaire retro péritonéale lobulée
+T31	MEAS 829 834	17 cm
+T32	Concept_Idea 838 847	grand axe
+T33	MEAS 859 863	5 cm
+T34	Concept_Idea 867 876	petit axe
+T35	PROC 893 902	injection
+T36	DISO 910 915	masse
+T37	MEAS 925 930	12 mm
+T38	Concept_Idea 934 943	grand axe
+T39	PHEN 951 972	grossesse monofoetale
+T40	TEMP 983 989	2 mois
+T41	PROC 1011 1036	étude anatomopathologique
+T42	PROC 1058 1085	contrôle neuropsychiatrique
+T43	LIVB 1117 1125	patiente
+T44	DISO 1130 1143	symptomatique
+T45	DISO 1147 1161	asymptomatique
+T46	TEMP 1182 1190	deux ans
+T47	Concept_Idea 1224 1236	état général
+T48	LIVB 1308 1312	elle
+T49	PROC 1328 1348	prise médicamenteuse
+T50	DISO 1386 1414	manifestations psychomotrice
+T51	PROC 1420 1439	enquête étiologique
+T52	DISO 1469 1510	accident vasculaire ischémique congénital
+T53	DISO 1542 1571	maladie auto-immune familiale
+T54	DISO 1700 1737	syndrome polymalformatif tonicoclonal
+T55	DISO 1784 1806	crise convulsive aiguë
+T56	ANAT 1824 1853	nerf laryngé supérieur médian
+T57	Localization 1847 1853	médian
+T58	PROC 1892 1926	médications vitaminiques standards
+T59	CHEM 1929 1940	fluconazole
+T60	CHEM 1942 1952	isoniazide
+T61	CHEM 1954 1968	céphalosporine
+T62	CHEM 1970 1984	gentaméthasone
+T63	CHEM 1986 2001	fluoroquinolone
+T64	PROC 2009 2025	antibiothérapies
+T65	PROC 2226 2244	traitement curatif
+T66	PROC 2434 2452	séjour hospitalier
+T67	PROC 2483 2507	consultations prénatales
+T68	PROC 2963 2982	bilan préopératoire
+T69	Concept_Idea 3028 3045	paramètres vitaux
+T70	MEAS 3099 3105	légère
+T71	DISO 3106 3129	perte fœtale maternelle
+T72	MEAS 3140 3152	3200 grammes
+T73	LIVB 3184 3190	enfant
+T74	TEMP 3198 3205	24 mois
+T75	MEAS 3213 3227	30 kilogrammes
+T76	Concept_Idea 3237 3243	taille
+T77	MEAS 3247 3255	2 mètres
+T78	DISO 3271 3291	prise médicamenteuse
+T79	DISO 3298 3317	crises épileptiques
+T80	DISO 3327 3361	symptomatologie neuropsychiatrique
+T81	PROC 3389 3415	examen anatomopathologique
+T82	LIVB 3438 3449	jeune femme
+T83	PROC 3536 3542	suivie
+T84	LIVB 3564 3566	sa
+T85	PHEN 3567 3588	grossesse monofoetale
+T86	Hospital 3613 3644	urgences médicales pédiatriques
+T87	DISO 3773 3801	troubles psychotraumatismaux
+T88	PROC 3931 3966	soins maternels intensifs parentaux
+T89	PROC 4081 4105	scanner abdomino-pelvien
+T90	ANAT 4089 4105	abdomino-pelvien
+T91	DISO 4138 4192	fractures pariéto-carotidiennes anéchogènes hypodenses
+T92	MEAS 4217 4222	10 cm
+T93	MEAS 4226 4230	5 cm
+T94	DISO 4252 4285	lésions myxolygonales lithiasique
+T95	DISO 4311 4335	anomalies morphologiques
+T96	DISO 4396 4436	récidives somato-pancréatiques atypiques

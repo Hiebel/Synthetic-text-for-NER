@@ -1,0 +1,41 @@
+T1	PROC 30 35	suivi
+T2	TEMP 43 47	2001
+T3	Concept_Idea 69 81	état général
+T4	TEMP 91 104	depuis 6 mois
+T5	DISO 119 133	amaigrissement
+T6	MEAS 143 147	10kg
+T7	DISO 183 207	symptomatologie clinique
+T8	PROC 213 227	interrogatoire
+T9	LIVB 231 241	nouveau-né
+T10	LIVB 287 290	son
+T11	LIVB 291 295	père
+T12	LIVB 299 301	sa
+T13	LIVB 302 312	belle-mère
+T14	DISO 412 434	consanguinité élective
+T15	PROC 464 492	prise en charge chirurgicale
+T16	LIVB 512 519	parents
+T17	PROC 653 670	enquête familiale
+T18	CHEM 693 718	antibiotique probabiliste
+T19	CHEM 745 760	fluoroquinolone
+T20	DOSE 761 766	25 mg
+T21	TEMP 766 768	/j
+T22	PROC 825 857	supplémentation vitaminophagique
+T23	CHEM 881 895	céphalosporine
+T24	DOSE 898 903	50 mg
+T25	TEMP 903 905	/j
+T27	DOSE 921 926	40 mg
+T28	TEMP 926 928	/j
+T29	CHEM 931 941	isoniazide
+T30	DOSE 943 948	20 mg
+T31	TEMP 948 950	/j
+T32	TEMP 958 960	/j
+T33	PROC 978 1008	bilan biologique préopératoire
+T34	DISO 1020 1028	anomalie
+T35	PHEN 1042 1057	fonction rénale
+T36	ANAT 1051 1057	rénale
+T37	MEAS 1072 1079	normale
+T38	TEMP 1099 1106	18 mois
+T39	DISO 1114 1122	récidive
+T40	DISO 1162 1188	signes neuropsychiatriques
+T41	DISO 1195 1216	syndrome hémorragique
+T42	DISO 1226 1249	déficit sensitivomoteur

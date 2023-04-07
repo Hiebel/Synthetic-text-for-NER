@@ -1,0 +1,34 @@
+T1	LIVB 4 9	femme
+T2	PROC 65 78	radiologiques
+T3	MEAS 79 91	particuliers
+T4	Hospital 110 117	urgence
+T5	DISO 134 160	diabète insulino-dépendant
+T6	PHEN 165 171	toléré
+T7	MEAS 185 192	brutale
+T8	DISO 209 236	polynucléaires éosinophiles
+T9	LIVB 248 251	Son
+T10	PROC 252 267	examen clinique
+T11	LIVB 281 289	patiente
+T12	Concept_Idea 305 330	constantes hémodynamiques
+T13	DISO 336 346	asthénique
+T14	DISO 348 358	apyrétique
+T15	PROC 362 383	échographie pelvienne
+T16	ANAT 374 383	pelvienne
+T17	DISO 397 446	épanchement intra péritonéal liquidien cœliosique
+T18	ANAT 409 446	intra péritonéal liquidien cœliosique
+T19	ANAT 472 477	grêle
+T20	MEAS 487 492	32 cm
+T21	Concept_Idea 496 505	grand axe
+T22	ANAT 538 569	zones ganglionnaires cervicales
+T23	ANAT 590 611	jonction iléo-caecale
+T24	DISO 634 653	métastase hépatique
+T25	ANAT 644 653	hépatique
+T26	DISO 667 694	hypertrophie intragastrique
+T27	ANAT 680 694	intragastrique
+T28	DISO 710 727	sténose gastrique
+T29	ANAT 718 727	gastrique
+T30	DISO 786 800	tumeur ulcérée
+T31	MEAS 850 858	type III
+T32	PROC 910 932	TDM abdomino-pelvienne
+T33	ANAT 914 932	abdomino-pelvienne
+T35	Concept_Idea 1016 1022	taille

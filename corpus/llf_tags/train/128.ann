@@ -1,0 +1,104 @@
+T1	LIVB 16 24	patiente
+T2	DISO 49 56	diabète
+T3	MEAS 57 71	bien équilibré
+T4	PROC 77 95	traitement médical
+T5	DISO 118 141	hypertension artérielle
+T6	ANAT 131 141	artérielle
+T7	PROC 147 162	examen clinique
+T8	LIVB 167 175	patiente
+T9	Concept_Idea 185 200	position debout
+T10	MEAS 203 206	5cm
+T11	ANAT 210 216	bassin
+T12	DISO 222 246	déficit sensitivo-moteur
+T13	DISO 250 269	syndrome infectieux
+T14	DISO 279 306	symptôme neuropsychiatrique
+T15	PHEN 313 337	réflexes ostéo-tendineux
+T16	ANAT 322 337	ostéo-tendineux
+T17	MEAS 346 353	normaux
+T18	DISO 386 401	doigts digitaux
+T19	ANAT 410 433	membre supérieur gauche
+T20	Localization 427 433	gauche
+T21	DISO 446 635	épanchement liquidien cervico-mandibulaire pariétal naso-fémoral homolatéral postéro-supérieur fléchi distal antero-tarsien fronto-temporo-latéral controlatéral temporal latéralisé estropié
+T23	CHEM 637 648	Rifampicine
+T24	PROC 653 664	échographie
+T25	DISO 685 758	grossesse gémellaire monofoetale bipariéto-transoesophagienne asymétrique
+T26	TEMP 779 790	33 semaines
+T27	PROC 796 806	aménorrhée
+T28	TEMP 812 818	7 mois
+T29	PROC 831 848	perte médicalisée
+T30	PROC 853 885	scanner thoraco-abdomino-pelvien
+T31	ANAT 861 885	thoraco-abdomino-pelvien
+T32	PROC 909 914	suivi
+T33	DISO 934 942	anomalie
+T34	DISO 960 988	récidive hépato-trachogénése
+T35	ANAT 969 988	hépato-trachogénése
+T36	PROC 1001 1020	enquête étiologique
+T37	Hospital 1031 1052	urgences pédiatriques
+T38	PROC 1110 1118	contrôlé
+T39	DISO 1152 1173	infection nosocomiale
+T40	DISO 1179 1206	hépatite virale C chronique
+T41	LIVB 1231 1238	enfants
+T42	DISO 1286 1305	maladie infectieuse
+T43	PROC 1331 1363	néphrectomie totale exploratrice
+T44	Concept_Idea 1400 1428	résultat anatomopathologique
+T45	MEAS 1438 1449	particulier
+T46	PROC 1485 1530	hystérectomie transoesophagienne diagnostique
+T47	MEAS 1601 1608	simples
+T48	PROC 1630 1648	séjour hospitalier
+T49	TEMP 1657 1666	24 heures
+T50	TEMP 1692 1700	48heures
+T51	DISO 1724 1745	malignité congénitale
+T53	DISO 1826 1864	infections sexuellement transmissibles
+T54	PROC 1893 1916	remplissage chirurgical
+T55	PROC 1937 1965	consultation préanesthésique
+T56	DISO 1994 2034	complications fonctionnelles secondaires
+T57	PROC 2122 2149	prélèvement bactériologique
+T58	PROC 2179 2205	radiothérapie antibiotique
+T59	PROC 2232 2260	antibioprophylaxie adjuvante
+T60	PROC 2290 2331	kinésithérapie prophylactique parentérale
+T61	PROC 2376 2403	reprise psychothérapeutique
+T62	DISO 2431 2460	fausses couches pathologiques
+T63	MEAS 2507 2515	stade IV
+T64	TEMP 2556 2569	novembre 2008
+T65	PROC 2577 2602	étude immunohistochimique
+T66	MEAS 2639 2652	plus probante
+T67	DISO 2711 2744	métastase muconnasale infiltrante
+T68	PROC 2796 2841	numération formule sanguine IgG/globule rouge
+T69	PROC 2864 2887	analyse scannographique
+T70	ANAT 2935 2945	rein droit
+T71	Localization 2940 2945	droit
+T72	ANAT 2951 2979	veines sus-réro-péritonéales
+T73	ANAT 2989 3034	artère fémorale superficielle intracaverneuse
+T74	PHEN 3054 3076	fonctionnement du foie
+T75	ANAT 3072 3076	foie
+T76	DISO 3097 3126	symptômes neuropsychiatriques
+T77	PROC 3190 3226	néphrectomie exploratrice percutanée
+T78	PROC 3265 3296	drainage axillaire endoscopique
+T79	ANAT 3339 3368	valve iliaque fundique rénale
+T80	DEVI 3375 3383	brochets
+T81	MEAS 3408 3413	15 mm
+T82	MEAS 3416 3421	16 mm
+T83	PROC 3444 3476	reconstruction tridimensionnelle
+T84	PROC 3480 3500	thoracoscopie totale
+T85	DISO 3544 3579	maladie cœliaque primaire primitive
+T86	LIVB 3591 3596	femme
+T87	PROC 3639 3645	traité
+T88	Hospital 3650 3658	urgences
+T89	PROC 3664 3695	traitement médical conservateur
+T90	CHEM 3696 3707	Rifampicine
+T91	Concept_Idea 3721 3733	état général
+T92	MEAS 3734 3740	souple
+T93	DISO 3763 3777	amaigrissement
+T94	MEAS 3788 3791	5kg
+T95	MEAS 3797 3801	1m80
+T96	MEAS 3807 3812	14 Kg
+T97	DISO 3836 3863	hypertension intracrânienne
+T98	ANAT 3849 3863	intracrânienne
+T99	DISO 3879 3887	asthénie
+T100	MEAS 3899 3910	170 grammes
+T101	MEAS 3918 3928	950 gramme
+T102	PROC 3932 3947	examen clinique
+T103	DISO 3968 3983	perte pondérale
+T104	MEAS 3994 3998	2 kg
+T105	DISO 4022 4041	syndrome infectieux
+T106	DISO 4059 4084	contracture hémodynamique

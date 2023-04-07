@@ -1,0 +1,22 @@
+T1	LIVB 20 28	patiente
+T2	DISO 50 75	antécédents pathologiques
+T3	MEAS 76 88	particuliers
+T4	PROC 90 96	admise
+T5	Hospital 101 109	urgences
+T6	DISO 128 152	hémodialyse hypertensive
+T7	PROC 156 181	intervention chirurgicale
+T9	DEVI 219 231	sonde cutané
+T10	ANAT 225 231	cutané
+T11	ANAT 245 256	flanc droit
+T12	Localization 251 256	droit
+T13	PROC 269 302	anesthésie des membres inférieurs
+T14	Concept_Idea 284 302	membres inférieurs
+T15	CHEM 308 317	lidocaïne
+T16	PROC 321 346	exploration préopératoire
+T17	DISO 366 388	masse tumorale ulcérée
+T18	MEAS 398 402	14cm
+T19	Concept_Idea 406 420	grand diamètre
+T20	MEAS 425 430	10 cm
+T21	Concept_Idea 434 443	petit axe
+T22	ANAT 460 479	vésicules ovariires
+T23	ANAT 486 500	paroi vaginale

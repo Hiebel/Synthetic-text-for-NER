@@ -1,0 +1,102 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 33 41	patiente
+T3	MEAS 45 52	mauvais
+T4	Concept_Idea 53 65	état général
+T5	ANAT 71 102	aires ganglionnaires cervicales
+T6	MEAS 111 117	saines
+T7	DISO 140 152	adénopathies
+T8	DISO 159 177	troubles sensitifs
+T9	PROC 182 192	inspection
+T10	PROC 197 219	radiographie du thorax
+T11	ANAT 213 219	thorax
+T12	MEAS 226 233	normale
+T13	PROC 247 261	TDM thoracique
+T14	ANAT 251 261	thoracique
+T15	PROC 266 293	bilan radiologique standard
+T16	PROC 295 320	scanner thoraco-abdominal
+T17	ANAT 303 320	thoraco-abdominal
+T18	DISO 341 349	anomalie
+T19	DISO 353 362	métastase
+T20	ANAT 377 405	troncs supra-aorto-parietaux
+T21	PROC 411 429	mastectomie totale
+T22	Localization 423 429	totale
+T23	PROC 448 467	anesthésie générale
+T24	DEVI 494 516	cathéter haute tension
+T25	ANAT 531 563	voies biliaires intracaverneuses
+T26	PROC 589 610	contrôle locorégional
+T27	ANAT 636 669	segments crico-trachéomédullaires
+T28	PROC 674 690	geste opératoire
+T29	DISO 712 721	incidents
+T30	PROC 740 764	laparotomie exploratrice
+T31	PROC 790 849	curage ganglionnaire axillaire endoscopiquement extemporané
+T32	ANAT 797 820	ganglionnaire axillaire
+T33	ANAT 914 922	cloisons
+T34	PROC 940 950	recueillie
+T35	Hospital 965 999	structures hospitalo-chirurgicales
+T36	PROC 1019 1039	transfusion sanguine
+T37	CHEM 1066 1097	amoxicilline acide clavulanique
+T38	TEMP 1125 1130	x 2/j
+T39	CHEM 1133 1145	antibiotique
+T40	CHEM 1151 1169	acide clavulanique
+T41	CHEM 1175 1197	triméthoprimesulfamide
+T42	DOSE 1198 1204	300 mg
+T43	TEMP 1204 1209	x 3/j
+T44	MEAS 1247 1254	simples
+T45	PROC 1266 1289	remplissage chirurgical
+T46	Concept_Idea 1326 1346	aspect morphologique
+T47	PHEN 1353 1373	grossesse monofœtale
+T48	MEAS 1384 1393	évolutive
+T49	Concept_Idea 1420 1448	caractères anthropométriques
+T50	Concept_Idea 1465 1487	distance orthodromique
+T51	MEAS 1498 1517	4 kilomètres carrés
+T52	LIVB 1613 1621	patiente
+T53	PROC 1626 1654	suivi néonatal préopératoire
+T54	LIVB 1705 1710	fille
+T55	TEMP 1719 1725	17 ans
+T56	LIVB 1803 1809	garçon
+T57	TEMP 1817 1823	14 ans
+T58	LIVB 1922 1925	son
+T59	LIVB 1926 1930	père
+T60	LIVB 1970 1973	ses
+T61	LIVB 1974 1981	parents
+T62	PROC 2068 2092	exploration obstétricale
+T63	PROC 2099 2132	étude anatomopathologiaque totale
+T64	PHEN 2783 2798	fonction rénale
+T65	ANAT 2792 2798	rénale
+T66	MEAS 2805 2818	satisfaisante
+T67	DISO 2828 2840	hypocalcémie
+T68	MEAS 2843 2850	0,15g/L
+T69	DISO 2856 2874	hyperparathyroïdie
+T70	DISO 2878 2908	trouble des transitocriniennes
+T71	PHEN 2890 2908	transitocriniennes
+T72	ANAT 2946 2966	structures urinaires
+T73	PROC 2972 2994	TDM abdomino-pelvienne
+T74	ANAT 2976 2994	abdomino-pelvienne
+T75	Localization 3023 3039	extra péritonéal
+T76	ANAT 3043 3053	rein droit
+T77	Localization 3048 3053	droit
+T78	ANAT 3069 3079	plan axial
+T79	MEAS 3104 3109	50 mm
+T80	MEAS 3112 3117	70 mm
+T81	MEAS 3120 3125	60 mm
+T82	ANAT 3140 3151	rein gauche
+T83	Localization 3145 3151	gauche
+T84	MEAS 3161 3166	80 mm
+T85	MEAS 3169 3174	30 mm
+T86	PROC 3177 3200	hémoglobine glycorachie
+T87	DISO 3231 3291	hémangioendothélium tissulaire intraveineux hyperchromatique
+T88	ANAT 3391 3417	noyaux fovéaux sus pubiens
+T89	PROC 3451 3480	prélèvements bactériologiques
+T90	PROC 3534 3552	scanner thoracique
+T91	ANAT 3542 3552	thoracique
+T92	PROC 3566 3589	anesthèsie endoscopique
+T93	DISO 3609 3631	anomalie morphologique
+T94	DISO 3677 3720	néoplasie mucopolysaccharidique congénitale
+T95	DISO 3737 3772	symptomatologie génétique familiale
+T96	PROC 3777 3804	bilan radiologique standard
+T97	PROC 3811 3834	monitorage bidiagnostic
+T98	DISO 3866 3926	nécrose anaplasmocytaire mononucléaire hétérotopique maligne
+T99	ANAT 3944 3966	nerf crico-sous cutané
+T100	ANAT 3992 4037	segments érecteurs gastroduodénaux abdominaux
+T101	Concept_Idea 4138 4178	résultats immunohistochimiques cliniques
+T102	DISO 4188 4222	métastase tuberculeuse infiltrante

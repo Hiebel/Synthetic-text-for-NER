@@ -1,0 +1,85 @@
+T1	PROC 4 28	laparotomie exploratrice
+T2	Hospital 51 58	urgence
+T3	PROC 64 88	exploration chirurgicale
+T4	DISO 109 135	nodule de la cuisse droite
+T5	ANAT 122 135	cuisse droite
+T6	Localization 129 135	droite
+T7	MEAS 144 150	4/2 cm
+T8	DISO 164 223	processus tumoral du plexus brachial supérieur droit fléchi
+T9	ANAT 185 223	plexus brachial supérieur droit fléchi
+T10	Localization 211 223	droit fléchi
+T11	DISO 229 234	signe
+T12	DISO 238 247	malignité
+T13	PROC 251 271	examen microscopique
+T14	DISO 288 332	masse tissulaire hétéro-mandibulaire lobulée
+T15	Concept_Idea 341 370	caractère anatomopathologique
+T16	LIVB 389 397	patiente
+T17	PROC 416 433	tomodensitométrie
+T18	PROC 435 449	TDM) cérébrale
+T19	ANAT 440 449	cérébrale
+T20	DISO 481 499	lésion traumatique
+T21	DISO 516 549	micronodules érythémato-occlusifs
+T22	PHEN 557 584	remaniements hémodynamiques
+T23	MEAS 593 606	partiellement
+T24	DISO 607 614	dilatés
+T25	PROC 660 686	anesthésie générale totale
+T26	PROC 700 728	oxygénothérapie concomitante
+T27	CHEM 732 752	sulfate de magnésium
+T28	DOSE 757 764	1 litre
+T29	DEVI 768 786	cathéter péridural
+T30	TEMP 864 866	3h
+T31	PROC 869 891	induction anesthésique
+T32	PROC 896 917	contrôle radiologique
+T33	DISO 944 952	anomalie
+T34	DISO 962 983	récidive neurologique
+T35	PROC 988 1010	traitement chirurgical
+T37	CHEM 1068 1079	Vinblastine
+T38	PROC 1102 1189	transfusion sanguine Isoniazide per ostidene O négotizumacine aldostreptyl prednisolone
+T39	PROC 1190 1195	OLIGO
+T40	PROC 1201 1225	prélèvement scanno-guidé
+T41	LIVB 1234 1244	nouveau-né
+T42	TEMP 1252 1259	15 mois
+T43	PROC 1272 1291	suivi préopératoire
+T44	DISO 1354 1378	symptomatologie clinique
+T45	DISO 1396 1422	maladie cœliaque primitive
+T46	DISO 1440 1462	complication néonatale
+T47	DISO 1472 1502	hyperparathyroïdie congénitale
+T48	DISO 1531 1545	amaigrissement
+T49	MEAS 1556 1568	6 kgourgears
+T50	MEAS 1574 1578	0,5%
+T51	Concept_Idea 1591 1595	âges
+T53	LIVB 1642 1649	Patient
+T54	PROC 1728 1739	contributif
+T55	LIVB 1741 1744	ses
+T56	LIVB 1809 1813	mère
+T57	DISO 1880 1897	accident de sport
+T58	LIVB 1948 1952	père
+T59	LIVB 1993 2005	petit garçon
+T60	LIVB 2117 2119	sa
+T61	LIVB 2120 2124	sœur
+T62	MEAS 2737 2745	80×40 mm
+T63	MEAS 2749 2757	50×20 mm
+T64	PROC 2999 3024	étude cytobactériologique
+T65	DISO 3051 3079	pneumopéritonite infectieuse
+T66	PROC 3098 3125	études immunohistochimiques
+T67	PROC 3127 3145	immuno-histochimie
+T68	PROC 3146 3180	anticorps antinucléaires IgG Kappa
+T69	PROC 3181 3188	AAN/ALK
+T70	CHEM 3196 3214	antigène carboxylé
+T71	PROC 3239 3265	examen anatomopathologique
+T72	DISO 3295 3331	sarcoïdose ectopique méningococcique
+T73	DISO 3346 3401	tumeur érythroblastique nodulaire maligne inflammatoire
+T74	DISO 3407 3427	signes neurologiques
+T75	ANAT 3431 3440	urinaires
+T76	PHEN 3454 3463	grossesse
+T77	TEMP 3474 3485	24 semaines
+T78	PROC 3501 3539	anticoagulation intraveineuse générale
+T79	DISO 3629 3638	infection
+T80	LIVB 3647 3657	nourrisson
+T81	DISO 3724 3751	malfaisante endométriosique
+T82	DISO 3808 3832	symptomatologie primaire
+T83	Localization 3896 3910	parties molles
+T84	DISO 3938 3984	adénopathies cervicales péribronchovasculaires
+T85	DISO 4034 4055	dysplasie épiphysaire
+T86	DISO 4113 4183	remaniement lésionnel polypoïde rétro péritonéal postérieur nécrotique
+T87	DISO 4188 4218	perforation kystique calcifiée

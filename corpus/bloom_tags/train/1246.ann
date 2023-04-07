@@ -1,0 +1,18 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	3 ans
+T3	PROC 57 90	colpohystérectomie type Mc Burney
+T4	ANAT 103 121	uretère réno-cæcal
+T5	PROC 137 231	gastro-entero-anastomose pancréatique iléo-caecale antéro-sternale endoscopique coeliosoguidée
+T6	PROC 245 281	immobilisation plâtrée intraveineuse
+T7	TEMP 296 307	12 semaines
+T8	DISO 341 357	signes cliniques
+T9	DISO 360 382	atteinte pancréatienne
+T10	ANAT 369 382	pancréatienne
+T11	TEMP 392 406	pendant 6 mois
+T12	PROC 416 444	curage iléo-rénal abdominéal
+T13	ANAT 423 444	iléo-rénal abdominéal
+T14	MODE 458 468	voie orale
+T15	DOSE 472 478	2mg/kg
+T16	CHEM 482 492	furosémide
+T17	LIVB 531 538	enfants
+T18	DISO 561 576	cytomégalovirus

@@ -1,0 +1,24 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 31 39	patiente
+T3	MEAS 43 46	bon
+T4	Concept_Idea 47 59	état général
+T5	DISO 61 72	polypnéique
+T6	MEAS 75 88	28 cycles/min
+T7	PHEN 93 98	pouls
+T8	MEAS 102 113	70 batt/min
+T9	PROC 118 134	bilan biologique
+T10	DISO 146 159	particularité
+T11	PROC 164 189	scanner abdomino- pelvien
+T12	ANAT 172 189	abdomino- pelvien
+T13	PROC 215 260	ponction liquidienne péritonéale exploratrice
+T14	ANAT 224 260	liquidienne péritonéale exploratrice
+T15	PROC 262 266	PPTE
+T16	DISO 301 337	pneumo-nodule tumoral du flanc droit
+T17	ANAT 326 337	flanc droit
+T18	Localization 332 337	droit
+T19	MEAS 346 351	12 cm
+T20	Concept_Idea 355 364	grand axe
+T21	MEAS 377 380	6cm
+T22	Concept_Idea 384 392	diamètre
+T23	CHEM 417 437	produit de contraste
+T24	ANAT 467 477	surrénales

@@ -1,0 +1,24 @@
+T1	LIVB 28 35	patient
+T2	DISO 56 81	antécédents pathologiques
+T3	MEAS 82 90	notables
+T4	PROC 92 97	admis
+T5	Hospital 102 110	urgences
+T6	DISO 120 142	douleurs du pied droit
+T7	ANAT 132 142	pied droit
+T8	Localization 137 142	droit
+T9	TEMP 152 165	depuis 3 mois
+T10	PROC 169 184	examen clinique
+T11	DISO 201 233	masse angulo-céphalo-rénitulaire
+T12	Concept_Idea 236 242	aspect
+T13	Concept_Idea 249 260	consistance
+T14	MEAS 261 267	molles
+T15	MEAS 277 281	3 cm
+T16	ANAT 297 350	épiphyse fémoro-métacarpienne métatarso-phalangiennes
+T17	PROC 355 387	bilan paraclinique préopératoire
+T18	PROC 389 407	ionogramme sodique
+T19	ANAT 400 407	sodique
+T20	PROC 413 430	natrémie corrigée
+T21	PROC 452 478	explorations radiologiques
+T23	ANAT 526 561	intra-parenchymateux basithoracique
+T24	DISO 575 589	diabète type 2
+T25	CHEM 595 613	metformylhydrazone

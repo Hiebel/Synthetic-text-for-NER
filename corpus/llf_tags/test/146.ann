@@ -1,0 +1,95 @@
+T1	LIVB 15 22	patient
+T2	Hospital 57 78	urgences pédiatriques
+T3	DISO 88 114	tuméfaction du pied gauche
+T4	ANAT 103 114	pied gauche
+T5	Localization 108 114	gauche
+T6	TEMP 124 137	depuis 3 mois
+T7	PROC 143 158	examen clinique
+T8	LIVB 163 170	patient
+T9	Concept_Idea 176 188	état général
+T10	MEAS 189 195	altéré
+T11	DISO 205 217	vomissements
+T12	DISO 228 239	tachycardie
+T13	DISO 262 273	traumatisme
+T14	DISO 283 299	signe infectieux
+T15	DISO 329 344	symptomatologie
+T16	PROC 348 363	examen physique
+T17	DISO 385 408	déficit sensitivomoteur
+T18	PHEN 416 439	réflexes ostéotendineux
+T19	ANAT 425 439	ostéotendineux
+T20	MEAS 448 455	normaux
+T21	DISO 498 550	lésion ostéo-mandibulaire cutanéomuqueuse hyperdense
+T22	ANAT 569 590	marge postéro-externe
+T23	DISO 604 652	métaphyse fémorale superficielle intracaverneuse
+T24	MEAS 661 674	5 centimètres
+T25	ANAT 691 702	main droite
+T26	Localization 696 702	droite
+T27	PROC 718 734	examen somatique
+T28	DISO 746 759	particularité
+T29	PROC 765 787	chirurgie orthopédique
+T30	PROC 793 812	anesthésie générale
+T31	DOSE 814 822	50 mg/kg
+T32	PROC 883 904	scanner préopératoire
+T33	PROC 928 952	stimulation anesthésique
+T34	PROC 959 982	ponction scanno-guidage
+T35	DEVI 1007 1015	prothèse
+T36	MEAS 1025 1030	14 cm
+T37	Concept_Idea 1034 1057	grand axe longitudinale
+T38	ANAT 1076 1107	membre supérieur inferieur fond
+T39	Localization 1093 1107	inferieur fond
+T41	PROC 1229 1271	néphrectomie partielle extemporanéoplastie
+T42	CHEM 1291 1344	adénopathies cervicales thyroidiennes « épithéloides»
+T43	PROC 1399 1424	étude anatomopathologique
+T44	DISO 1440 1485	léiomyome papillaire polymyomateux infiltrant
+T45	ANAT 1507 1550	segments mandibulaires maxillaires pelviens
+T46	ANAT 1562 1587	région temporale fessière
+T47	ANAT 1606 1647	moellon axial inférieur bilatéral interne
+T48	Localization 1630 1647	bilatéral interne
+T49	MEAS 1702 1709	simples
+T50	PROC 1738 1784	contrôle locorégional échographie obstétricale
+T51	PROC 1799 1851	prise en charge neurochirurgicale multidisciplinaire
+T52	DISO 1910 1945	fractures anapathiques asymétriques
+T53	LIVB 1974 1981	jumeaux
+T54	PROC 2004 2035	radio-chimiothérapie palliative
+T55	PROC 2049 2076	radiothérapie néo adjuvante
+T56	DISO 2092 2101	fractures
+T57	PROC 2121 2141	transfusion sanguine
+T58	DISO 2166 2188	fractures congénitales
+T59	LIVB 2212 2215	nos
+T60	LIVB 2216 2223	enfants
+T61	PROC 2228 2234	suivis
+T62	Concept_Idea 2283 2301	plan morphologique
+T63	DISO 2306 2315	fractures
+T64	Concept_Idea 2355 2383	localisations hémodynamiques
+T65	DISO 2467 2486	anomalies cliniques
+T66	LIVB 2571 2592	familles consanguines
+T67	PROC 2617 2654	consanguinité monogastrique familiale
+T68	DISO 2743 2764	tuberculose néonatale
+T69	DISO 2832 2891	rectorragies fœtales idiopathiques tardives asymptomatiques
+T70	DISO 2914 2961	perforations tuberculeuses apyrétiques malignes
+T71	LIVB 2984 3001	parents maternels
+T72	PHEN 3017 3037	allaitement maternel
+T73	CHEM 3058 3069	corticoïdes
+T74	Hospital 3104 3124	service des urgences
+T75	PROC 3131 3153	traitement substitutif
+T76	CHEM 3158 3189	amoxicilline acide clavulanique
+T77	DOSE 3191 3198	25mg/kg
+T78	TEMP 3198 3200	/j
+T79	PROC 3222 3250	antibiothérapie probabiliste
+T80	TEMP 3275 3282	un mois
+T81	PROC 3286 3304	traitement initial
+T82	MEAS 3347 3360	satisfaisante
+T83	Concept_Idea 3390 3407	plan histologique
+T84	DISO 3448 3484	tumeur annexielle anténatale lobulée
+T85	ANAT 3511 3562	branche crico-trachéale cervicale médio péritonéale
+T86	Localization 3545 3550	médio
+T87	MEAS 3636 3644	70x60 mm
+T88	MEAS 3648 3652	75mm
+T89	MEAS 3655 3663	90+30 cm
+T90	DISO 3697 3706	malignité
+T91	PROC 3781 3806	étude immunohistochimique
+T92	DEVI 4214 4236	protocole anesthésique
+T93	Concept_Idea 4297 4318	présentation clinique
+T94	DISO 4419 4443	complication infectieuse
+T95	DISO 4449 4482	hémiparésie spasmodique primitive
+T96	PROC 4488 4501	méthode ELISA

@@ -1,0 +1,27 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	3 ans
+T3	PHEN 32 40	accouché
+T4	MODE 45 68	voie basse artificielle
+T5	Hospital 73 81	urgences
+T6	DISO 95 110	détresse vitale
+T7	TEMP 120 134	depuis 3 jours
+T8	MEAS 149 160	progressive
+T9	DISO 205 227	hémiplégie bilateriale
+T10	DISO 257 279	ictère cutanéo-muqueux
+T11	DISO 289 302	inflammatoire
+T12	DISO 316 322	fièvre
+T13	MEAS 334 338	39°C
+T14	PROC 394 437	traitements locaux antibacilléens instaurés
+T15	DOSE 440 448	2 litres
+T16	CHEM 459 490	amoxicilline-acide clavulanique
+T17	CHEM 493 504	rifampicine
+T18	CHEM 506 517	ethionamide
+T19	CHEM 519 529	isoniazide
+T20	CHEM 531 543	Pyrazinamide
+T21	CHEM 545 556	Cyclosérine
+T22	CHEM 558 569	Ethionamide
+T23	CHEM 571 585	Ciprofloxacine
+T24	CHEM 587 598	Vinblastine
+T25	CHEM 600 611	Epirubicine
+T26	CHEM 613 627	Hydrocortisone
+T27	CHEM 629 643	BEPHACOPRINOLE

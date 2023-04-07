@@ -1,0 +1,25 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	Hospital 59 80	urgences pédiatriques
+T4	DISO 90 126	douleurs épigastriques constrictives
+T5	ANAT 99 126	épigastriques constrictives
+T6	DISO 136 149	inflammatoire
+T7	TEMP 159 172	depuis 2 mois
+T8	DISO 197 226	dyspnée stade IV de Balthazar
+T9	DISO 240 246	fièvre
+T10	MEAS 258 264	40 ° C
+T11	MEAS 280 295	progressivement
+T12	Concept_Idea 299 305	volume
+T13	LIVB 343 345	on
+T14	DISO 371 380	symptômes
+T15	DISO 407 428	sensibilité pelvienne
+T16	ANAT 419 428	pelvienne
+T17	DISO 439 451	métrorragies
+T18	LIVB 543 549	enfant
+T19	DISO 594 607	inflammatoire
+T20	DISO 621 639	détresse digestive
+T21	PHEN 630 639	digestive
+T22	TEMP 673 683	deux jours
+T23	MEAS 703 710	brutale
+T24	MEAS 723 729	rapide
+T25	LIVB 757 765	patients

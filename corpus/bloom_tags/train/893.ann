@@ -1,0 +1,25 @@
+T1	LIVB 16 21	femme
+T2	DISO 59 125	syndrome d'épanchement intracrânien infarcto-lésionnel hypotenseur
+T4	PROC 131 161	cortisolothérapie substitutive
+T5	CHEM 174 192	méthylprédnisolone
+T6	PHEN 230 246	surrénalesiennes
+T7	DEVI 263 282	dépakine électrique
+T8	PROC 324 356	TDM cranio-encéphalo-rachidienne
+T9	ANAT 328 356	cranio-encéphalo-rachidienne
+T10	DISO 373 407	pariéto-myélonévralgie congénitale
+T11	TEMP 417 431	depuis 10 mois
+T12	LIVB 438 441	son
+T13	PROC 442 457	hospitalisation
+T14	PROC 471 499	tomodensitométrie thoracique
+T15	ANAT 489 499	thoracique
+T16	DISO 515 552	épanchement parenchymateux ischématié
+T18	DISO 616 647	adénopathies cervico-cervicales
+T19	LIVB 668 672	elle
+T20	DISO 702 717	symptomatologie
+T21	DISO 735 777	douleur prurigineuse érythémato-pustulante
+T22	MEAS 792 802	croissante
+T23	MEAS 812 824	fistulisante
+T24	MEAS 836 853	significativement
+T25	Concept_Idea 857 863	taille
+T26	DISO 1095 1122	traumatisme méningocerebral
+T27	DISO 1174 1190	vertiges faciaux

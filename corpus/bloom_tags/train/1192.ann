@@ -1,0 +1,26 @@
+T1	LIVB 28 35	patient
+T2	MEAS 82 90	notables
+T3	PROC 92 102	consultait
+T4	Hospital 107 115	urgences
+T5	DISO 124 140	syndrome fébrile
+T6	TEMP 150 163	depuis 2 mois
+T7	PHEN 173 194	contractions utérines
+T8	ANAT 186 194	utérines
+T9	MEAS 204 228	de plus en plus intenses
+T10	PROC 232 247	examen clinique
+T11	PROC 252 261	admission
+T12	Concept_Idea 282 293	température
+T13	MEAS 296 302	39°8 C
+T14	CHEM 310 322	cortisolémie
+T15	MEAS 325 331	1mg/dl
+T16	PROC 336 353	bilan d'extension
+T17	MEAS 360 366	normal
+T18	PROC 368 390	TDM abdomino-pelvienne
+T19	ANAT 372 390	abdomino-pelvienne
+T20	PROC 430 476	tomodensitométrie thoracico-abdomino pelvienne
+T21	ANAT 448 476	thoracico-abdomino pelvienne
+T22	ANAT 503 534	sinus caverneux inférieur droit
+T23	Localization 529 534	droit
+T24	MEAS 618 625	12x11cm
+T25	ANAT 642 670	parties molles cerviculaires
+T26	DISO 692 782	métastases pulmonaires basithoraciques inféro-diaphragmatiques périrénaliennes métatissées

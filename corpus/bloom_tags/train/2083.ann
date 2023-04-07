@@ -1,0 +1,66 @@
+T1	LIVB 4 12	patiente
+T2	PROC 34 40	admise
+T3	DISO 50 72	douleurs épigastriques
+T4	ANAT 59 72	épigastriques
+T5	TEMP 82 104	depuis plusieurs jours
+T6	DISO 136 152	dyspnée d'effort
+T7	MEAS 167 188	lentement progressive
+T8	PROC 210 225	toucher vaginal
+T9	ANAT 218 225	vaginal
+T10	CHEM 251 266	matériel cutané
+T11	PROC 270 285	examen clinique
+T12	DISO 297 318	détresse respiratoire
+T13	PHEN 306 318	respiratoire
+T14	DISO 364 370	fièvre
+T15	DISO 399 420	diarrhée prurigineuse
+T16	PROC 437 452	prise en charge
+T17	PROC 458 476	traitement médical
+T18	CHEM 491 505	anti-biotiques
+T19	PROC 519 550	radiothérapie externe adjuvante
+T20	ANAT 563 598	sinus caverneux cervico-vésiculaire
+T21	LIVB 670 674	Elle
+T22	MEAS 715 723	notables
+T23	DISO 751 764	consanguinité
+T24	DISO 771 814	syndrome d'épanchement liquidien péritonéal
+T25	ANAT 794 814	liquidien péritonéal
+T26	DISO 824 839	symptomatologie
+T27	PROC 876 888	consultation
+T28	DISO 961 980	pancréatite stade E
+T29	DISO 983 1010	cystadénocarcinose kystique
+T30	DISO 1012 1051	cholangiocarcinomateuse hypertrophiante
+T31	PROC 1055 1085	bilan biologique préopératoire
+T32	MEAS 1121 1129	9,1 g/dl
+T33	PROC 1140 1150	leucocytes
+T34	MEAS 1153 1171	18000 éléments/mm3
+T35	PROC 1178 1201	sérologies virales BHCG
+T36	MEAS 1210 1219	négatives
+T37	LIVB 1314 1321	malades
+T38	MEAS 1419 1438	fortement suspectée
+T39	PROC 1464 1494	diagnostic immunohistochimique
+T40	PROC 1510 1524	rétablissement
+T41	PROC 1545 1576	complément immuno-histochimique
+T42	DISO 1601 1631	méningoencephalopathie maligne
+T43	DISO 1649 1659	métastases
+T44	TEMP 1884 1891	24 mois
+T45	PROC 1946 2011	échocardiographiedu-liquide céphalo-ganglionnaire écho-myométrial
+T46	DOSE 2074 2080	une ml
+T47	MEAS 2153 2165	2 fois moins
+T48	DEVI 2173 2193	sonde sphinctérienne
+T50	MEAS 2201 2204	50g
+T51	DISO 2234 2249	mitose tumorale
+T52	PROC 2317 2344	tomodensitométrie pelvienne
+T53	ANAT 2335 2344	pelvienne
+T54	ANAT 2382 2392	col utérin
+T55	DISO 2399 2501	masse tissulaire hétérogène des parties molles cervico-utérines inféro-stercoronaires hypo échogéantes
+T57	MEAS 2511 2516	12 cm
+T58	Concept_Idea 2520 2529	grand axe
+T59	PROC 2535 2555	exérèse chirurgicale
+T60	PROC 2576 2601	anesthésie loco-régionale
+T61	ANAT 2587 2601	loco-régionale
+T62	CHEM 2615 2634	hydroxyprogestérone
+T63	PROC 2638 2665	analyse anatomopathologique
+T64	DISO 2682 2701	épiderme atrophique
+T65	DISO 2705 2714	œdémateux
+T66	DISO 2720 2737	hyperpigmentation
+T67	DISO 2748 2767	lésions secondaires
+T68	DISO 2784 2800	atteinte cutanée

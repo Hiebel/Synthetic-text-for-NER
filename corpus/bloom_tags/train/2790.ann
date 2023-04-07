@@ -1,0 +1,26 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 31 39	patiente
+T3	MEAS 43 46	bon
+T4	Concept_Idea 47 59	état général
+T5	DISO 61 71	apyrétique
+T6	MEAS 74 80	37,5°c
+T7	ANAT 86 103	paires crâniennes
+T8	Localization 128 140	face dorsale
+T9	ANAT 144 158	nerf trijumeau
+T10	ANAT 166 200	sinus caverneux pariéto-occipitaux
+T11	DISO 213 226	particularité
+T12	DISO 252 261	épistaxis
+T13	DISO 274 300	troubles sensitivomotrices
+T14	PROC 304 340	auscultation cardio-vasculo-nerveuse
+T15	ANAT 317 340	cardio-vasculo-nerveuse
+T16	MEAS 347 354	normale
+T17	PROC 368 401	échocardiographie transthoracique
+T18	ANAT 386 401	transthoracique
+T19	PHEN 417 433	rythme cardiaque
+T20	ANAT 424 433	cardiaque
+T21	MEAS 434 453	régulièrement pulsé
+T22	MEAS 457 475	120 battements/min
+T23	DISO 497 534	surcharge ventriculaire hypertrophiée
+T24	ANAT 507 534	ventriculaire hypertrophiée
+T25	DISO 570 626	syndrome d'épanchement intra-cytoplasmique inféro-septal
+T26	ANAT 593 626	intra-cytoplasmique inféro-septal

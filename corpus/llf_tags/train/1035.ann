@@ -1,0 +1,21 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 33 40	six ans
+T3	PHEN 104 116	accouchement
+T4	LIVB 158 161	son
+T5	LIVB 162 166	père
+T6	DISO 177 196	problèmes maternels
+T7	LIVB 213 220	dernier
+T8	Concept_Idea 235 270	antécédents médico-psycho-éducatifs
+T9	LIVB 285 294	familiaux
+T10	LIVB 322 332	nouveau-né
+T11	Hospital 360 388	soins intensifs pédiatriques
+T12	PROC 429 455	travail pluridisciplinaire
+T13	LIVB 470 472	sa
+T14	LIVB 473 477	mère
+T15	LIVB 555 560	fille
+T16	LIVB 725 729	leur
+T17	LIVB 730 743	belle-famille
+T18	DISO 763 780	accident corporel
+T19	LIVB 792 795	ils
+T20	PROC 808 817	transfusé
+T21	PROC 832 873	corticostéroïdes systémiques intraveineux

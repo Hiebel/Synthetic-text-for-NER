@@ -1,0 +1,36 @@
+T1	LIVB 9 17	Mme M.NZ
+T2	DISO 61 96	diarrhées glaireuses aigues froides
+T3	TEMP 106 119	depuis 6 mois
+T4	LIVB 136 140	elle
+T5	PROC 159 187	prise en charge chirurgicale
+T6	PROC 201 219	antibioprophylaxie
+T7	PROC 228 247	bilan préopératoire
+T8	MEAS 265 271	normal
+T9	PROC 275 295	anamnèse infectieuse
+T10	PROC 323 335	consultation
+T11	DEVI 356 374	facteur rhumatoïde
+T12	DISO 397 413	maladie cœliaque
+T13	PROC 428 453	scanner thoraco-abdominal
+T14	ANAT 436 453	thoraco-abdominal
+T16	DISO 573 600	syndrome myélocalicite aigu
+T17	DISO 618 669	insuffisance rénale chronique terminale obstructive
+T18	ANAT 631 637	rénale
+T19	ANAT 695 718	membre inférieur gauche
+T20	Localization 712 718	gauche
+T21	DISO 733 779	hypertriglycéridémie congénitale hypokinétique
+T22	DISO 793 844	néphropathie interstitielle mucotrope réactionnelle
+T23	ANAT 874 890	ventricule droit
+T24	Localization 885 890	droit
+T25	PROC 894 919	étude immunohistochimique
+T26	LIVB 954 960	sujets
+T27	LIVB 2691 2697	malade
+T28	CHEM 2762 2793	amoxicilline acide clavulanique
+T29	CHEM 2796 2809	métronidazole
+T30	TEMP 2834 2841	24 mois
+T31	MEAS 2851 2852	5
+T32	LIVB 2853 2861	patients
+T33	Concept_Idea 2917 2920	vie
+T34	PROC 2954 2974	traités médicalement
+T35	Hospital 3006 3021	soins intensifs
+T36	TEMP 3033 3040	12 mois
+T37	LIVB 3255 3263	patiente

@@ -1,0 +1,67 @@
+T1	PROC 3 21	scanner thoracique
+T2	ANAT 11 21	thoracique
+T3	DISO 34 49	pneumopéritoine
+T4	PROC 54 84	bilan biologique préopératoire
+T5	DISO 96 105	anomalies
+T6	DISO 122 138	hyperleucocytose
+T7	DISO 145 156	lymphopénie
+T8	PHEN 161 176	fonction rénale
+T9	ANAT 170 176	rénale
+T10	MEAS 181 188	normale
+T11	PROC 198 211	créatininémie
+T12	MEAS 214 234	1,5 gramme par litre
+T13	PROC 242 263	sérologies hydatiques
+T14	MEAS 264 273	négatives
+T15	CHEM 275 287	amoxicilline
+T16	CHEM 289 307	acide clavulanique
+T17	CHEM 309 336	triméthoprimesulfaméthasone
+T18	PROC 351 383	fibroscopie oeso-gastroduodénale
+T19	ANAT 363 383	oeso-gastroduodénale
+T20	LIVB 416 424	patiente
+T21	PROC 443 465	traitement chirurgical
+T22	PROC 511 529	drainage axillaire
+T23	MEAS 566 573	simples
+T24	PROC 579 615	corticothérapie antiphospholipidique
+T25	TEMP 619 629	4 ème jour
+T26	PROC 642 671	cholécystectomie exploratrice
+T27	PROC 685 722	néphrocalcinomyoplastie scanno-guidée
+T28	ANAT 742 775	paroi thoraco abdomino-abdominale
+T29	MEAS 806 811	large
+T30	ANAT 840 862	membre inférieur droit
+T31	Localization 857 862	droit
+T32	Concept_Idea 867 873	aspect
+T33	PROC 874 886	radiologique
+T35	ANAT 1139 1179	parties molles cervicales superficielles
+T36	ANAT 1212 1237	muscles fessiers pelviens
+T37	ANAT 1274 1306	nerfs fémoro-tendineux lombaires
+T38	ANAT 1359 1489	branches sus pubiennes temporales supérieures controlatérales antero-hépato-mandibulaire interne eccentrico-trachéal intracrâniens
+T39	PROC 1568 1592	contrôles échographiques
+T40	PROC 1635 1670	curage croisé écho-endomysiologique
+T41	MEAS 1693 1718	difficilement réalisables
+T42	MEAS 1760 1770	pertinents
+T43	Concept_Idea 1913 1923	indication
+T44	PROC 1977 2008	prélèvement immunohistochimique
+T45	LIVB 2018 2031	dermatologues
+T46	DEVI 2078 2100	bioprothèse tissulaire
+T47	MEAS 2195 2200	40 mm
+T48	MEAS 2203 2208	55 mm
+T49	MEAS 2232 2267	6 fois la taille moyenne habituelle
+T50	PROC 2291 2331	étude cytobactériologique postopératoire
+T51	CHEM 3476 3490	ciprofloxacine
+T52	DOSE 3547 3555	1 gramme
+T53	TEMP 3555 3557	/j
+T54	MODE 3572 3577	bolus
+T55	DOSE 3581 3586	50 mg
+T56	TEMP 3586 3588	/j
+T57	CHEM 3602 3613	paracétamol
+T58	PROC 3627 3656	oxygénothérapie néo adjuvante
+T59	PROC 3670 3709	chimiothérapie antibiotique parentérale
+T60	CHEM 3722 3747	acide acétyle thiazidique
+T61	CHEM 3767 3812	céphalosporine basicilline acide clavulanique
+T62	DISO 3861 3886	symptomatologie néonatale
+T63	MEAS 3899 3907	positive
+T64	PHEN 3924 3946	grossesses monozygotes
+T65	Localization 4007 4019	périphérique
+T66	Concept_Idea 4136 4165	critères préétablis cliniques
+T67	PROC 4304 4324	traitement palliatif
+T68	PROC 4330 4354	laparotomie exploratrice

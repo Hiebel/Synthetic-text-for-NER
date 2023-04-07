@@ -1,0 +1,19 @@
+T1	LIVB 0 7	Patient
+T2	DISO 23 32	tabagique
+T4	MEAS 95 107	particuliers
+T5	PROC 118 129	hospitalisé
+T6	Hospital 133 140	urgence
+T7	DISO 149 174	déficit moteur du poignet
+T8	ANAT 167 174	poignet
+T9	TEMP 184 207	depuis plusieurs années
+T10	DISO 222 239	céphalées fébrile
+T11	PROC 243 258	examen clinique
+T12	LIVB 279 286	patient
+T14	DISO 392 425	syndrome d'épistaxis hémorragique
+T15	DISO 458 464	fièvre
+T16	MEAS 476 480	39°c
+T17	Concept_Idea 487 493	épaule
+T18	PROC 510 526	examen somatique
+T19	DISO 537 550	particularité
+T20	DISO 568 580	polyarthrite
+T21	DISO 586 611	atteinte sensitivomotrice

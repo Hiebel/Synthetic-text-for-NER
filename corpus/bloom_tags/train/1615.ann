@@ -1,0 +1,36 @@
+T1	LIVB 32 39	patient
+T2	DISO 60 84	antécédents pathologique
+T3	MEAS 85 97	particuliers
+T4	PROC 99 104	admis
+T5	Hospital 109 117	urgences
+T6	DISO 136 159	agitation psychomotrice
+T7	Concept_Idea 169 180	température
+T8	MEAS 183 189	37.5°C
+T9	PROC 195 204	admission
+T10	Hospital 208 238	service d'accueil des urgences
+T11	PHEN 253 271	tension artérielle
+T12	ANAT 261 271	artérielle
+T13	MEAS 274 284	110/60mmhg
+T14	CHEM 292 311	Hémoglobine glyquée
+T15	MEAS 314 316	7%
+T16	PROC 322 395	radiographie du boudin d'invagination abdomino-iléo péritonéal transfixié
+T17	ANAT 338 395	boudin d'invagination abdomino-iléo péritonéal transfixié
+T18	DISO 416 468	nécrose ischémique hétérogène hypodense hyperintense
+T19	ANAT 489 510	parenchyme iléo-cæcal
+T20	DISO 524 556	masse latéro-utérine compressive
+T21	MEAS 565 568	2cm
+T22	Concept_Idea 572 581	grand axe
+T23	MEAS 586 590	1 cm
+T24	PROC 634 643	injection
+T25	CHEM 647 667	produit de contraste
+T26	LIVB 689 697	patiente
+T27	PROC 864 892	kinésithérapie préopératoire
+T28	DISO 1064 1112	hypoglycémie métabolique pancréato-surrénalienne
+T29	ANAT 1156 1202	métacarpophalangiennes métacarpo-phalangiennes
+T30	TEMP 1212 1235	depuis plusieurs années
+T31	DISO 1260 1285	troubles sensitivomoteurs
+T32	MEAS 1348 1355	modérée
+T33	CHEM 1417 1439	méthylhydrocortisolone
+T34	MODE 1440 1450	voie orale
+T35	DOSE 1452 1458	3mg/kg
+T36	TEMP 1458 1463	/jour

@@ -1,0 +1,33 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 29 37	patiente
+T3	MEAS 41 50	assez bon
+T4	Concept_Idea 51 63	état général
+T5	DISO 65 76	polypnéique
+T6	MEAS 79 92	25 cycles/min
+T7	PHEN 97 116	pression artérielle
+T8	ANAT 106 116	artérielle
+T9	MEAS 124 134	100/50mmHg
+T10	ANAT 157 174	bruits cardiaques
+T11	DISO 188 221	syndrome d'épanchement péritonéal
+T12	ANAT 211 221	péritonéal
+T13	DISO 234 248	particularités
+T14	PROC 253 276	scanner abdominopelvien
+T16	DISO 303 348	processus tumoral du parenchyme ovarien droit
+T17	ANAT 324 348	parenchyme ovarien droit
+T18	Localization 343 348	droit
+T19	PROC 376 385	injection
+T20	CHEM 388 414	hémosidérylhydronucléoside
+T21	MEAS 427 432	30 cm
+T22	Concept_Idea 436 450	grand diamètre
+T23	MEAS 468 473	27 cm
+T24	Concept_Idea 477 490	petite taille
+T25	DISO 511 549	lésion tissulaire hétérogène hypodense
+T26	ANAT 566 586	fosse utérine droite
+T27	Localization 580 586	droite
+T28	ANAT 603 634	vésicules pariéto-utériculaires
+T29	MEAS 658 665	21x14cm
+T30	MEAS 669 677	12x11 mm
+T31	LIVB 710 718	patiente
+T32	Hospital 723 731	urgences
+T33	PROC 737 761	anesthésie locorégionale
+T34	ANAT 748 761	locorégionale

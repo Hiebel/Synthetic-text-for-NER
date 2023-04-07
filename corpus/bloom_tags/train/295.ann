@@ -1,0 +1,31 @@
+T1	LIVB 28 35	patient
+T2	DISO 55 80	hypotension orthostatique
+T3	DISO 96 123	épanchement intrapéritonéal
+T4	ANAT 108 123	intrapéritonéal
+T5	DISO 130 164	polyradiculonévralgie épigastrique
+T6	TEMP 186 202	depuis trois ans
+T7	DISO 221 235	amaigrissement
+T8	CHEM 253 266	noradrénaline
+T9	Localization 268 284	au premier degré
+T10	PROC 310 358	traitements médicamenteux substitutifs adjuvants
+T11	DISO 385 391	pathie
+T12	ANAT 435 462	intrapéritonéal périérectal
+T13	DISO 482 515	complications thromboembolytiques
+T14	DISO 530 557	hyperpression surrénalienne
+T15	ANAT 544 557	surrénalienne
+T16	DISO 567 598	syndrome néphrotique congénital
+T17	DISO 627 636	anomalies
+T18	LIVB 683 690	patient
+T19	PROC 730 761	échographie abdomino- pelvienne
+T20	ANAT 742 761	abdomino- pelvienne
+T21	DISO 778 828	masse hypo échogène hétérogène tissulaire kystique
+T22	MEAS 838 842	12cm
+T23	Concept_Idea 846 855	grand axe
+T24	ANAT 876 897	sinus recto-sigmoïdal
+T25	Concept_Idea 925 931	taille
+T26	MEAS 940 945	20 cm
+T27	Concept_Idea 949 958	grand axe
+T28	ANAT 1005 1024	zones fibroséreuses
+T29	DISO 1061 1133	hypertrophie tissulaire latéro-péritonéale hypogastrique hyperhétérogène
+T31	MEAS 1141 1145	2 kg
+T32	Hospital 1181 1198	site périphérique

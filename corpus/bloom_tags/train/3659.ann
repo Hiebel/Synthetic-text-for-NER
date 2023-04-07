@@ -1,0 +1,35 @@
+T1	LIVB 29 37	patiente
+T2	TEMP 67 72	2 ans
+T3	PROC 76 86	diagnostic
+T4	DISO 92 117	neurofibrome érythémateux
+T5	LIVB 137 145	patiente
+T6	DISO 161 186	pathologies neurologiques
+T7	PROC 200 226	examen anatomopathologique
+T8	DISO 248 281	neuroendothélium fibromuscléaires
+T9	PHEN 298 315	cycles menstruels
+T10	TEMP 325 337	depuis 2 ans
+T11	DISO 392 414	épisodes hémorragiques
+T12	DISO 425 450	localisations tissulaires
+T13	LIVB 472 476	elle
+T14	PROC 503 534	traitement hormonal substitutif
+T15	PROC 539 573	échocardio-graphie transthoracique
+T16	ANAT 558 573	transthoracique
+T17	DISO 594 627	hypertrophie ventriculaire droite
+T18	ANAT 607 627	ventriculaire droite
+T19	Localization 621 627	droite
+T20	DISO 643 680	hypotonie ventriculaire hypertrophiée
+T21	ANAT 653 680	ventriculaire hypertrophiée
+T22	DISO 690 698	kystique
+T23	MEAS 708 712	13mm
+T24	Concept_Idea 716 726	grande axe
+T25	PROC 755 764	injection
+T26	CHEM 768 788	produit de contraste
+T27	PROC 846 874	techniques d'immuno-marquage
+T28	DEVI 911 917	moyens
+T29	DISO 968 988	localisation maligne
+T30	DISO 1049 1071	néphropathy ischémique
+T31	PROC 1160 1183	pronostic scanno-guidée
+T32	PROC 1354 1375	fibroscopie gastrique
+T33	ANAT 1366 1375	gastrique
+T34	DISO 1398 1416	signes biologiques
+T35	DISO 1419 1441	envahissement tumorale

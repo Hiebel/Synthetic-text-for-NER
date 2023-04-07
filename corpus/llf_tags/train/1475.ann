@@ -1,0 +1,75 @@
+T1	PROC 4 26	radiographie du thorax
+T2	ANAT 20 26	thorax
+T3	DISO 49 58	lombalgie
+T4	PROC 63 105	tomodensitométrie par émission de positons
+T5	PROC 107 138	TDM) thoraco abdomino-pelvienne
+T6	ANAT 112 138	thoraco abdomino-pelvienne
+T7	DISO 160 200	processus tumoral des cavités urétérales
+T8	ANAT 182 200	cavités urétérales
+T9	Concept_Idea 209 232	indice de prolifération
+T10	MEAS 242 246	10 %
+T11	Localization 254 277	face antero-péritonéale
+T12	MEAS 288 293	13 cm
+T13	Concept_Idea 297 306	grand axe
+T14	MEAS 317 326	20 gramme
+T15	DISO 350 368	signe hémorragique
+T16	ANAT 385 410	liquide céphalo rachidien
+T17	ANAT 418 440	troncs supra-aortiques
+T18	LIVB 445 453	patiente
+T19	PROC 472 494	résection chirurgicale
+T20	TEMP 498 526	deuxième jour postopératoire
+T21	PROC 536 564	toilette naso-gastro-rectale
+T22	ANAT 545 564	naso-gastro-rectale
+T23	DISO 601 615	particularités
+T24	PROC 619 644	étude anatomopathologique
+T25	DISO 672 754	lymphocytome myxoïde carcinomateux cavernicole érythémateux intracytoplasmocytaire
+T26	MEAS 762 769	stade I
+T27	PROC 823 840	scanner abdominal
+T28	ANAT 831 840	abdominal
+T29	DISO 862 876	tumeur maligne
+T31	MEAS 931 938	simples
+T32	PROC 945 965	extubation digestive
+T33	PROC 971 1017	antibiothérapie probabiliste substitutionnelle
+T34	PROC 1029 1048	bilan préopératoire
+T35	PROC 1066 1106	cholécystectomie percutanéphrine élargie
+T36	PROC 1120 1177	anastomose œso-trachéo-oesophagienne rénale scanno-guidée
+T38	ANAT 1197 1223	veine cave postéro-septale
+T39	Localization 1208 1223	postéro-septale
+T40	ANAT 1243 1275	vaisseaux biliaires superficiels
+T41	PROC 1283 1309	mise en condition initiale
+T42	DISO 1330 1350	récidive infectieuse
+T43	DISO 1354 1386	métastase cliniquement décelable
+T44	DISO 1426 1448	germe entéropathogénes
+T45	DISO 1480 1518	myxome angiomateux herniaire nécrosant
+T46	PROC 2950 2962	consultation
+T47	DISO 2972 3018	symptômes infectieux du membre inférieur droit
+T48	ANAT 2996 3018	membre inférieur droit
+T49	Localization 3013 3018	droit
+T50	DISO 3053 3062	hématurie
+T51	MEAS 3075 3094	40 grammes par mois
+T52	DISO 3107 3124	signes somatiques
+T53	DISO 3145 3154	symptômes
+T54	DISO 3168 3174	fièvre
+T55	TEMP 3184 3206	depuis plusieurs jours
+T56	LIVB 3296 3302	enfant
+T57	PHEN 3384 3393	grossesse
+T58	Concept_Idea 3424 3427	âge
+T59	TEMP 3431 3442	24 semaines
+T60	LIVB 3516 3521	fille
+T61	LIVB 3529 3535	garçon
+T62	PROC 3571 3576	admis
+T63	Hospital 3581 3602	urgences pédiatriques
+T64	PROC 3628 3663	chirurgie obstétricale exploratrice
+T65	PROC 3681 3710	prise en charge thérapeutique
+T66	LIVB 3741 3748	patient
+T67	PROC 3754 3778	laparotomie exploratrice
+T68	DISO 3826 3853	complications chirurgicales
+T69	PROC 3949 3967	traitement curatif
+T70	MEAS 4010 4017	simples
+T71	Concept_Idea 4025 4043	plan physiologique
+T72	PROC 4054 4104	circulation extracorporelle intraveineuse continue
+T73	PROC 4118 4148	antibiothérapie prophylactique
+T74	CHEM 4186 4197	médicaments
+T75	Concept_Idea 4231 4256	paramètres toxicologiques
+T76	PROC 4280 4315	thyroïdectomie totale scanno-guidée
+T77	DEVI 4337 4360	bandeslette injectables

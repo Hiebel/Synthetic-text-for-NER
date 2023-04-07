@@ -1,0 +1,22 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 47 58	antécédents
+T3	MEAS 59 71	particuliers
+T4	DISO 103 140	traumatisme du membre inférieur droit
+T5	ANAT 118 140	membre inférieur droit
+T6	Localization 135 140	droit
+T7	LIVB 216 234	médecin urgentiste
+T8	DISO 256 271	symptomatologie
+T9	DISO 309 331	détresse psychomotrice
+T10	Concept_Idea 353 365	état général
+T11	Concept_Idea 421 439	état hémodynamique
+T12	DISO 448 458	lombalgies
+T13	Concept_Idea 543 557	rythme sinusal
+T14	PROC 612 620	sédation
+T15	DISO 732 749	trouble bipolaire
+T16	Concept_Idea 935 957	discrète vie familiale
+T17	PHEN 1212 1230	mariage consanguin
+T18	TEMP 1257 1262	17h00
+T19	DISO 1394 1448	épilepsie primaire hypophysaire monogène hétérocéphale
+T20	DISO 1469 1517	lésions neuroendocrines polyclonales secondaires
+T21	CHEM 1592 1630	médicaments antipsychotiques atypiques
+T22	PROC 1799 1856	hypoglycémie sublinguale direct glycorrecte intraveineuse

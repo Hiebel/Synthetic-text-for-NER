@@ -1,0 +1,54 @@
+T1	LIVB 4 7	F.K
+T2	MEAS 32 37	trois
+T3	LIVB 38 45	enfants
+T4	TEMP 104 111	21 mois
+T5	MEAS 164 176	particuliers
+T6	DISO 204 227	consanguinité parentale
+T7	DISO 234 262	conflits socioprofessionnels
+T8	LIVB 389 393	Elle
+T9	DISO 460 475	symptomatologie
+T10	PROC 589 610	enquête rétrospective
+T11	LIVB 630 651	collègues consanguins
+T12	LIVB 686 689	ses
+T13	LIVB 690 697	parents
+T14	LIVB 712 714	sa
+T15	LIVB 715 731	tante paternelle
+T16	LIVB 746 766	mariages consanguins
+T17	LIVB 816 833	frères maternités
+T18	DEVI 1005 1029	matériel d'ostéosynthèse
+T19	PROC 1098 1109	endocrinien
+T20	TEMP 1178 1189	36 semaines
+T21	MEAS 1202 1213	1850 gramme
+T22	PROC 1268 1273	suivi
+T23	MEAS 1401 1409	3800 GBP
+T24	MEAS 1413 1424	399 000 GBP
+T25	MEAS 1445 1476	1360 unités leucocytaires / mm3
+T26	MEAS 1497 1507	16600 UI/L
+T28	DISO 1629 1684	malpertuisation fœtale néonatale hétérozygote malformée
+T29	DISO 1716 1756	grossesse clonale polymyome surnuméraire
+T30	MEAS 1923 1937	49 centimètres
+T31	Concept_Idea 1946 1951	poids
+T32	MEAS 1955 1970	1,5 kilogrammes
+T33	PHEN 2017 2029	accouchement
+T34	Hospital 2043 2050	urgence
+T35	PROC 2056 2075	anesthésie générale
+T36	DISO 2091 2100	anomalies
+T37	ANAT 2124 2134	sein droit
+T38	Localization 2129 2134	droit
+T39	ANAT 2142 2175	annexes ganglionnaires cervicales
+T40	CHEM 2188 2208	produit anesthésique
+T41	CHEM 2214 2231	midazolaméthasone
+T42	PROC 2256 2278	manucure préopératoire
+T43	PROC 2292 2319	néphrolithotomie percutanée
+T44	PROC 2332 2360	curiethrectomie exploratrice
+T45	MEAS 2394 2401	simples
+T46	LIVB 2422 2430	patients
+T47	DISO 2657 2711	métaplasie hypophysaire auto-réticulente réactionnelle
+T48	PROC 2758 2817	séances psychothérapeutiques étiopathogéniques alternatives
+T49	PROC 2851 2889	psychothérapie cognitivo-thérapeutique
+T50	PROC 2931 2999	chirurgie palliative endocrinoïde centromédiévale multidisciplinaire
+T51	PROC 3043 3086	prise en charge neuropsychiatrique standard
+T52	PROC 3102 3166	neurochirurgie réparatrice axillaire substitutive intracrânienne
+T53	DISO 3295 3308	consanguinité
+T54	DOSE 3352 3358	2200gE
+T55	DOSE 3362 3375	400 mgGrammes

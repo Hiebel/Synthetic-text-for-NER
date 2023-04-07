@@ -1,0 +1,33 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	Concept_Idea 37 62	antécédents pathologiques
+T4	MEAS 63 75	particuliers
+T5	PROC 77 82	admis
+T6	Hospital 87 95	urgences
+T7	DISO 114 137	agitation psychomotrice
+T8	TEMP 147 160	depuis 3 mois
+T9	PROC 164 179	examen clinique
+T10	PROC 184 193	admission
+T11	PHEN 209 221	récupération
+T12	MEAS 222 229	modérée
+T13	ANAT 234 251	paires crâniennes
+T14	LIVB 253 255	Il
+T15	MEAS 265 268	bon
+T16	Concept_Idea 269 281	état général
+T17	PROC 300 330	bilan biologique préopératoire
+T18	DISO 355 364	anomalies
+T19	DEVI 369 377	cathéter
+T20	PROC 394 460	mise en place du drainage péricardique artificiel trans-thoracique
+T22	LIVB 487 530	médecin-chirurgien anesthésiste-réanimateur
+T23	PROC 542 587	réunion pluridisciplinaire multidisciplinaire
+T24	PROC 593 619	surrénalectomie bilatérale
+T25	Localization 609 619	bilatérale
+T26	PROC 625 668	curage ganglionnaire axillaire bilateralisé
+T27	ANAT 632 668	ganglionnaire axillaire bilateralisé
+T28	MEAS 689 711	facilement extensibles
+T29	MEAS 750 776	difficilement appréciables
+T30	PROC 791 814	injection intraveineuse
+T31	DOSE 818 824	0,5 ml
+T32	CHEM 828 841	métaméthasone
+T33	DOSE 848 855	1 mg/kg
+T34	CHEM 859 871	prednisolone

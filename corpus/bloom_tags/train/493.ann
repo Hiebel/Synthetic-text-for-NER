@@ -1,0 +1,18 @@
+T1	LIVB 16 21	femme
+T2	DISO 55 72	hypochondre droit
+T3	Localization 67 72	droit
+T4	TEMP 82 95	depuis 10 ans
+T5	PROC 117 151	bilan hormonothérapie substitutive
+T6	CHEM 164 178	hydrocortisone
+T7	CHEM 181 191	tamoxifène
+T8	PROC 197 221	scanner abdomino-pelvien
+T9	ANAT 205 221	abdomino-pelvien
+T10	DISO 246 272	malformations congénitales
+T11	PROC 285 308	protéinogramme sanguine
+T12	MEAS 309 315	normal
+T13	PROC 320 359	radiographie thoraco-abdomino-pelvienne
+T14	ANAT 333 359	thoraco-abdomino-pelvienne
+T15	MEAS 373 380	normale
+T16	PROC 395 425	ponction lombaire exploratrice
+T17	ANAT 404 425	lombaire exploratrice
+T18	DISO 462 482	prise médicamenteuse

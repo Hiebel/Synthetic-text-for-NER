@@ -1,0 +1,92 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	DISO 39 73	pneumopathie chronique obstructive
+T4	PROC 78 97	bilan préopératoire
+T5	DISO 109 122	particularité
+T6	LIVB 129 137	patiente
+T7	PROC 156 184	chimiothérapie néo adjuvante
+T8	CHEM 195 205	Cisplatine
+T9	DOSE 207 213	4mg/kg
+T10	TEMP 213 215	/j
+T11	MODE 219 234	intramusculaire
+T12	PROC 249 291	tomodensitométrie par résonance magnétique
+T13	PROC 293 307	TDM) cérébrale
+T14	ANAT 298 307	cérébrale
+T15	DISO 323 408	processus lésionnel tissulaire rétromalléolaire des glandes salivaires intra-kystique
+T16	ANAT 375 408	glandes salivaires intra-kystique
+T17	DISO 432 468	syndrome myélodysplasique congénital
+T18	Concept_Idea 486 516	résultats anatomopathologiques
+T19	PROC 596 613	scanner abdominal
+T20	ANAT 604 613	abdominal
+T21	PROC 671 683	palper scann
+T22	Hospital 700 735	structures hospitalo-universitaires
+T23	PROC 739 764	étude immunohistochimique
+T24	PROC 765 768	IHC
+T25	LIVB 790 798	patiente
+T26	MEAS 826 832	énorme
+T27	DISO 833 849	hyperleucocytose
+T28	ANAT 871 882	sein gauche
+T29	Localization 876 882	gauche
+T30	ANAT 896 919	sillons intervertébraux
+T31	PHEN 947 967	récepteurs hormonaux
+T32	MEAS 968 1002	progressivement exagérément élevés
+T33	ANAT 1064 1085	cellules épithéliales
+T34	DISO 1171 1176	signe
+T35	DISO 1180 1189	malignité
+T36	DISO 1270 1301	Syndrome myélodysplasique fœtal
+T37	PROC 1320 1342	contrôle échographique
+T38	PROC 1348 1367	immunohistochimique
+T39	LIVB 1443 1454	jeune homme
+T40	TEMP 1518 1531	depuis 6 mois
+T41	DISO 1544 1567	infection nosocomitiale
+T42	DISO 1573 1611	rhinopharyngiome érythémato-nécrotique
+T43	MEAS 1619 1624	ACR 4
+T44	Concept_Idea 1634 1657	classification de JAAMD
+T45	PROC 1746 1761	examen clinique
+T46	Concept_Idea 1923 1943	aspect morphologique
+T47	Concept_Idea 1958 1975	caractère général
+T48	DISO 1995 2023	symptomatologie rhumatismale
+T49	PROC 2028 2043	radiodiagnostic
+T50	MEAS 2064 2081	strictement bonne
+T51	LIVB 2359 2383	grands-parents maternels
+T52	DISO 2405 2478	angiosarcome cervical pateyrial aigu stade III métastase kystique maligne
+T53	LIVB 2492 2502	nouveau-né
+T54	PROC 2507 2512	suivi
+T55	DISO 2594 2615	problèmes vasomoteurs
+T56	DISO 2977 2999	lésions du sein gauche
+T57	ANAT 2988 2999	sein gauche
+T58	Localization 2993 2999	gauche
+T59	PROC 3019 3040	prélèvement biopsique
+T60	LIVB 3052 3069	belle jeune fille
+T61	TEMP 3078 3084	21 ans
+T62	Hospital 3114 3135	urgences pédiatriques
+T63	DISO 3155 3198	syndrome infectieux polymalformatif fébrile
+T64	PROC 3213 3238	intervention chirurgicale
+T65	PROC 3244 3267	traitement antibiotique
+T66	CHEM 3282 3296	bêtalactamines
+T67	DOSE 3298 3306	1 gramme
+T68	TEMP 3306 3308	/j
+T69	CHEM 3322 3336	gentaméthasone
+T70	DOSE 3338 3343	50 mg
+T71	TEMP 3343 3345	/j
+T72	PROC 3351 3368	scanner abdominal
+T73	ANAT 3359 3368	abdominal
+T74	DISO 3413 3472	perforation ganglionnaire mésentérique hypodense encapsulée
+T75	ANAT 3494 3517	séreuse gastroduodénale
+T76	DISO 3531 3612	rétraction anévrysmale péritonéale segmentaire oblongue mono médiastinale lobulée
+T77	DISO 3618 3651	remaniements tumoraux nécrotiques
+T78	DISO 3655 3679	adénopathies tissulaires
+T79	PROC 3695 3725	fibroscopie œsogastroduodénale
+T80	ANAT 3707 3725	œsogastroduodénale
+T81	ANAT 3823 3838	crêtes buccales
+T82	DISO 3861 3891	collection liquidienne ulcérée
+T83	DISO 3895 3913	ankylose pylorique
+T84	PROC 3927 3944	geste chirurgical
+T85	PROC 3971 4003	coupes axillaires scanno-guidées
+T86	DEVI 4031 4059	annexes quadrilobées courtes
+T87	Concept_Idea 4100 4117	volume globulaire
+T88	MEAS 4168 4173	10 cm
+T89	Concept_Idea 4177 4186	petit axe
+T90	ANAT 4208 4226	branche épiploique
+T92	ANAT 4285 4314	ganglions abdominaux pelviens
+T93	Concept_Idea 4427 4447	complexes hydatiques

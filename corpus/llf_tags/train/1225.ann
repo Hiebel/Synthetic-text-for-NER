@@ -1,0 +1,97 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	DISO 54 82	fracture de la cuisse droite
+T4	ANAT 69 82	cuisse droite
+T5	Localization 76 82	droite
+T6	PROC 88 110	réduction orthopédique
+T7	DEVI 126 139	botte plâtrée
+T8	DOSE 141 147	1,5 kg
+T9	TEMP 147 149	/j
+T10	Concept_Idea 173 181	résultat
+T11	DISO 197 267	processus tissulaire lésionnel des articulations temporo-mandibulaires
+T12	ANAT 232 267	articulations temporo-mandibulaires
+T13	MEAS 282 290	mauvaise
+T14	Concept_Idea 291 301	observance
+T15	LIVB 305 312	patient
+T16	PROC 328 352	rachianesthésie générale
+T17	PROC 358 363	opéré
+T18	PROC 390 422	vérification anatomopathologique
+T19	DISO 445 467	anomalie morphologique
+T20	DISO 477 491	déficit moteur
+T21	DISO 495 507	métaphysaire
+T22	PROC 520 542	traitement chirurgical
+T23	MEAS 556 565	difficile
+T24	LIVB 574 584	nourrisson
+T25	MEAS 626 633	simples
+T26	DISO 639 656	récidive tumorale
+T27	DISO 666 671	signe
+T28	PHEN 686 701	fonction rénale
+T29	ANAT 695 701	rénale
+T30	MEAS 714 721	normale
+T31	TEMP 733 743	3 semaines
+T32	DISO 785 824	insuffisance rénale chronique terminale
+T33	ANAT 798 804	rénale
+T34	DISO 838 888	hypocalcémie normochrome normocytaire hétérozygote
+T35	TEMP 905 911	4 mois
+T36	PROC 916 936	suivi postopératoire
+T37	LIVB 962 983	nouveau-né hypertendu
+T38	DISO 1003 1029	dilatation néphrocalcinque
+T39	TEMP 1039 1055	depuis 24 heures
+T40	DISO 1077 1111	troubles sensitivo-moteur néonatal
+T41	DISO 1134 1163	symptômes neuropsychiatriques
+T42	PROC 1201 1210	transfusé
+T43	PROC 1223 1246	ventilation médicalisée
+T44	MEAS 1277 1283	saines
+T45	LIVB 1361 1367	enfant
+T46	TEMP 1375 1380	6 ans
+T47	LIVB 1435 1437	sa
+T48	LIVB 1438 1442	mère
+T49	Concept_Idea 1498 1501	âge
+T50	TEMP 1505 1510	2 ans
+T51	LIVB 1512 1515	son
+T52	LIVB 1516 1520	père
+T53	LIVB 1552 1558	frères
+T54	LIVB 2058 2064	garçon
+T55	TEMP 2072 2079	18 mois
+T56	Concept_Idea 2224 2242	plan hémodynamique
+T57	DISO 2261 2298	distension utérine fœtale congénitale
+T58	ANAT 2272 2298	utérine fœtale congénitale
+T59	DISO 2314 2352	collection liquidienne cutanéomuqueuse
+T60	ANAT 2381 2396	anses grêliques
+T61	MEAS 2421 2428	10x7 cm
+T62	MEAS 2432 2440	8 x 8 cm
+T63	DISO 2446 2469	bombement du rein droit
+T64	ANAT 2459 2469	rein droit
+T65	Localization 2464 2469	droit
+T66	PROC 2478 2505	numération formule sanguine
+T67	MEAS 2512 2534	supérieure à 100mmol/l
+T68	DISO 2552 2568	signe infectieux
+T69	Concept_Idea 2621 2633	état général
+T70	DISO 2654 2670	râles crépitants
+T71	DISO 2684 2707	hypertension artérielle
+T72	ANAT 2697 2707	artérielle
+T73	PROC 2727 2739	consultation
+T74	Hospital 2744 2780	urgences gynécologiques pédiatriques
+T75	PHEN 2785 2794	grossesse
+T76	PROC 2815 2845	traitement médical substitutif
+T77	CHEM 2850 2881	amoxicilline acide tranexamique
+T78	DOSE 2883 2885	3g
+T79	TEMP 2885 2887	/j
+T80	PROC 2901 2931	antibioprophylaxie parentérale
+T81	PROC 2944 2964	contrôle obstétrical
+T82	DISO 2997 3018	perte pondérale aiguë
+T83	MEAS 3029 3041	1500 grammes
+T84	TEMP 3089 3112	24e jour postopératoire
+T85	PROC 3118 3153	fibroscopie digestive scanno-guidée
+T86	DISO 3203 3219	nécrose caséeuse
+T87	DISO 3226 3244	thrombophagocytose
+T88	MEAS 3284 3291	simples
+T89	LIVB 3306 3313	enfants
+T90	PROC 3328 3347	traitement adjuvant
+T91	Concept_Idea 3438 3458	chiffres tensionnels
+T92	MEAS 3483 3493	favorables
+T93	PROC 3498 3517	suivi préopératoire
+T94	LIVB 3527 3533	enfant
+T95	TEMP 3541 3548	22 mois
+T96	DISO 3566 3583	récidive tumorale
+T97	DISO 3587 3599	hémorragique

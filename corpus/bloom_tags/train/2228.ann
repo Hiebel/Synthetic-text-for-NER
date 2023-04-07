@@ -1,0 +1,32 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 41 52	antécédents
+T3	MEAS 53 61	notables
+T4	PROC 63 69	admise
+T5	DISO 79 107	douleurs abdomino-pelviennes
+T6	ANAT 88 107	abdomino-pelviennes
+T7	TEMP 117 130	depuis 7 mois
+T8	ANAT 144 154	col utérin
+T9	DISO 171 177	fièvre
+T10	PROC 194 209	examen clinique
+T11	LIVB 223 231	patiente
+T12	Concept_Idea 246 264	plan hémodynamique
+T13	PHEN 268 280	respiratoire
+T14	DISO 323 358	épanchement séro-muqueux péritonéal
+T15	ANAT 335 358	séro-muqueux péritonéal
+T16	DISO 378 416	syndrome d'épanchement intrapéritonéal
+T17	ANAT 401 416	intrapéritonéal
+T18	PROC 422 452	échographie abdomino-pelvienne
+T19	ANAT 434 452	abdomino-pelvienne
+T20	PROC 454 457	EAP
+T21	DISO 476 510	masse latéro-utérine droite gauche
+T22	Localization 497 510	droite gauche
+T23	MEAS 520 527	46x41mm
+T24	Concept_Idea 530 536	aspect
+T25	MEAS 537 547	hétérogène
+T26	ANAT 564 614	parties molles rétro-vésicales cervico-thoraciques
+T27	MEAS 630 645	progressivement
+T28	Concept_Idea 649 655	taille
+T29	MEAS 677 684	intense
+T30	PROC 691 700	injection
+T31	DOSE 704 711	10ml/kg
+T32	CHEM 715 735	produit de contraste

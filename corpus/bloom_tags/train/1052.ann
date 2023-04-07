@@ -1,0 +1,32 @@
+T1	LIVB 4 12	patiente
+T2	PROC 46 77	TDM thoraco- abdomino-pelvienne
+T3	ANAT 50 77	thoraco- abdomino-pelvienne
+T4	DISO 103 135	rupture du placenta hypertrophié
+T5	ANAT 114 135	placenta hypertrophié
+T6	ANAT 151 160	œil droit
+T7	Localization 155 160	droit
+T8	Concept_Idea 163 169	aspect
+T9	MEAS 170 192	macroscopiquement sain
+T10	ANAT 227 265	structures para-tendineuses ovariennes
+T11	ANAT 279 298	vésicules biliaires
+T12	ANAT 345 366	capsule rétro utérine
+T13	CHEM 385 405	produit de contraste
+T14	DISO 446 471	polynucléaires céphaloïde
+T15	DISO 492 512	prurigineuse maligne
+T16	DISO 516 533	lymphangiomateuse
+T17	PROC 549 574	intervention chirurgicale
+T18	DEVI 612 630	ponction pelvienne
+T19	ANAT 621 630	pelvienne
+T20	MEAS 644 657	environ 50 ml
+T21	PHEN 711 724	échostructure
+T22	MEAS 725 733	arrondie
+T23	DISO 750 761	coagulables
+T24	PROC 855 864	retraités
+T25	PROC 870 879	ligaturés
+T26	DISO 912 932	adhérences nécrosées
+T27	PROC 1007 1012	ELISA
+T28	PROC 1017 1041	étude cyto-histochimique
+T29	DISO 1140 1147	mitoses
+T30	MEAS 1148 1156	modérées
+T31	DISO 1234 1296	granulomatose carcinomateuse brunoleucythémateuse prurigineuse
+T32	PROC 1314 1340	récepteurs hormonothérapie

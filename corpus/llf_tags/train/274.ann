@@ -1,0 +1,33 @@
+T1	LIVB 7 15	Mlle S.H
+T2	MEAS 39 40	2
+T3	LIVB 41 48	garçons
+T4	LIVB 67 77	belle-mère
+T5	TEMP 85 104	6 années auparavant
+T6	DISO 326 353	distension utérine fundique
+T7	ANAT 337 353	utérine fundique
+T8	Concept_Idea 653 660	pesages
+T9	PROC 956 976	récepteurs hormonaux
+T10	CHEM 990 1003	bêtalactamase
+T11	CHEM 1007 1053	œstradiol acétyle alpha méthyltransfénéthasone
+T12	CHEM 1058 1079	sulfate de clobétasol
+T13	CHEM 1085 1109	corticoïdes tricycliques
+T14	CHEM 1111 1124	imidacloprime
+T15	PROC 1160 1184	monitorage échographique
+T16	DISO 1203 1247	rupture prématurée des circonstances vitales
+T17	PHEN 1226 1247	circonstances vitales
+T18	PROC 1264 1284	reprise chirurgicale
+T19	DEVI 1293 1335	cathéter double lumière pulsé intraveineux
+T20	PROC 1375 1387	intervention
+T21	Hospital 1431 1458	bloc opératoire obstétrical
+T22	PROC 1463 1485	traitement chirurgical
+T23	PROC 1507 1535	antibiothérapie probabiliste
+T24	CHEM 1541 1551	aminosides
+T25	PROC 1565 1606	néphrotomie exploratrice intrarachidienne
+T26	PROC 1612 1634	contrôle échographique
+T27	PROC 1647 1718	hystérectomie transoesophagienne rétro achilléenne multidissectionnelle
+T28	PROC 1724 1742	curage chorionique
+T29	LIVB 1816 1824	patiente
+T30	PROC 1876 1886	opératoire
+T31	Concept_Idea 1977 1997	paramètres cliniques
+T32	PROC 2115 2142	perfusion extra péritonéale
+T33	Concept_Idea 2452 2478	difficultées diagnostiques

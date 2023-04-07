@@ -1,0 +1,44 @@
+T1	LIVB 20 28	patiente
+T2	DISO 64 85	détresse respiratoire
+T3	PHEN 73 85	respiratoire
+T4	MEAS 100 106	rapide
+T5	DEVI 134 171	médicaments ventilatoires artificiels
+T6	TEMP 173 188	le premier jour
+T7	DISO 213 236	symptômes neurologiques
+T8	ANAT 251 271	nerf supérieur droit
+T9	Localization 266 271	droit
+T10	PROC 278 315	tomodensitométrie abdomino- pelvienne
+T11	ANAT 296 315	abdomino- pelvienne
+T12	DISO 332 354	épanchement péritonéal
+T13	ANAT 344 354	péritonéal
+T14	Concept_Idea 370 378	contours
+T15	MEAS 379 387	régulier
+T16	DISO 408 470	masse tissulaire hypoéchogène hétérogène lithiasique hypodense
+T17	MEAS 479 483	1 cm
+T18	MEAS 488 492	2 cm
+T19	ANAT 512 517	grêle
+T20	PROC 522 540	scanner thoracique
+T21	ANAT 530 540	thoracique
+T22	DISO 557 645	distension artérielle thoracique basithoracique latérale droite médiastinale hypertendue
+T23	ANAT 568 645	artérielle thoracique basithoracique latérale droite médiastinale hypertendue
+T25	Concept_Idea 648 654	aspect
+T26	MEAS 655 665	hétérogène
+T27	ANAT 687 718	lumière cardiothoracique gauche
+T28	Localization 712 718	gauche
+T29	DISO 736 826	œdème cervico-lobe pariéto-diaphragmatique homolatéral inféro-médio-pleurieux sus-symplexe
+T30	ANAT 742 826	cervico-lobe pariéto-diaphragmatique homolatéral inféro-médio-pleurieux sus-symplexe
+T32	ANAT 841 899	étage infero-commissurale diaphragmatique bilatéral gauche
+T33	Localization 883 899	bilatéral gauche
+T34	ANAT 913 953	sinus caverneux sous cutanéo-vésiculaire
+T35	Localization 929 933	sous
+T36	MEAS 963 967	35mm
+T37	Concept_Idea 971 980	grand axe
+T38	DISO 994 1094	adénomégalie jugulo-carotidienne supra claviculaire ptérygo-interstitielle pachymyas dorsifasciculée
+T40	Localization 1027 1032	supra
+T41	MEAS 1112 1115	4cm
+T42	Concept_Idea 1123 1131	diamètre
+T43	LIVB 1152 1159	patient
+T44	DISO 1187 1204	dyspnée purulente
+T45	MEAS 1219 1226	modérée
+T46	TEMP 1236 1263	dans les 48 heures suivants
+T47	PROC 1269 1296	stabilisation hémodynamique

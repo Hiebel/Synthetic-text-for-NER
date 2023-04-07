@@ -1,0 +1,25 @@
+T1	LIVB 29 37	patiente
+T2	DISO 59 84	antécédents pathologiques
+T3	MEAS 85 97	particuliers
+T4	DISO 126 138	hyperthermie
+T5	DISO 154 168	déshydratation
+T6	PROC 185 200	examen clinique
+T7	DISO 217 246	polynucléaires érythémateuses
+T8	PHEN 248 251	PNE
+T9	ANAT 266 281	plexus brachial
+T10	Localization 283 287	sous
+T11	ANAT 311 336	fosse parotidienne droite
+T12	Localization 330 336	droite
+T13	MEAS 346 350	2 cm
+T14	MEAS 355 359	1 cm
+T15	PROC 363 394	échographie abdomino- pelvienne
+T16	ANAT 375 394	abdomino- pelvienne
+T17	DISO 441 450	anomalies
+T18	PROC 463 497	imagerie par résonnance magnétique
+T19	PROC 499 502	IRM
+T20	ANAT 504 523	cervico-thoraciques
+T21	DISO 561 587	masse tissulaire hypodense
+T22	MEAS 596 607	environ 2cm
+T23	Concept_Idea 627 635	contours
+T24	MEAS 636 646	hétérogène
+T25	ANAT 667 726	parenchyme médiastinal pariétal thyréo-pariéto-surrénaliien

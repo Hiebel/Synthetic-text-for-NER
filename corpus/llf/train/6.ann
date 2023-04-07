@@ -1,0 +1,15 @@
+T1	PROC 4 29	données
+T2	CHEM 76 103	pesticides
+T3	CHEM 105 122	protoxyde
+T4	PHEN 160 177	fonctions
+T5	ANAT 170 177	rénales
+T6	DISO 179 189	hépatiques
+T7	ANAT 179 189	hépatiques
+T8	ANAT 193 204	pulmonaires
+T9	DISO 193 204	pulmonaires
+T10	PROC 210 227	ponction
+T11	ANAT 219 227	lombaire
+T12	PROC 233 258	étude
+T13	DISO 280 302	métastase
+T14	ANAT 290 302	tuberculeuse
+T15	LIVB 362 369	patient

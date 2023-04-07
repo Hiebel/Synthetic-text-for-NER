@@ -1,0 +1,42 @@
+T1	LIVB 28 35	patient
+T2	PROC 60 64	reçu
+T3	Hospital 68 77	chirurgie
+T4	MEAS 86 96	volumineux
+T6	ANAT 115 139	parathyroïdien bilatéral
+T7	Localization 130 139	bilatéral
+T8	PROC 144 164	biopsie chirurgicale
+T10	PROC 215 230	examen clinique
+T11	LIVB 232 236	nous
+T12	DISO 249 291	lésions nodulaires angulo-basilico-lobulée
+T13	Concept_Idea 294 300	aspect
+T14	MEAS 301 309	brunâtre
+T15	ANAT 326 346	sous clavière droite
+T16	Localization 340 346	droite
+T17	PROC 369 388	résection adjuvante
+T18	PROC 394 411	anesthésie locale
+T19	PROC 415 448	curage ganglionnaire locorégional
+T20	DISO 467 504	adénocarcinome chondromasquéptomateux
+T21	DISO 517 544	localisations histologiques
+T22	DISO 577 587	métastases
+T23	ANAT 616 634	cavités cardiaques
+T24	ANAT 647 664	organes viscéraux
+T25	DISO 704 727	carcinomes épidermoïdes
+T26	DISO 734 749	tumeur kystique
+T27	LIVB 752 756	Nous
+T28	LIVB 790 797	patient
+T29	PROC 802 825	radiographie thoracique
+T30	ANAT 815 825	thoracique
+T31	PROC 839 872	échocardiographie transthoracique
+T32	ANAT 857 872	transthoracique
+T33	DISO 915 940	localisation métastatique
+T34	DISO 1020 1060	masse latéro-ventriculaire hypertrophiée
+T35	MEAS 1070 1074	13cm
+T36	Concept_Idea 1078 1087	grand axe
+T37	ANAT 1113 1139	lobe inférieur homolatéral
+T38	Localization 1128 1139	homolatéral
+T39	DISO 1154 1219	hypervascularisation hilaire lobulocarotidienne isthmique altérée
+T41	MEAS 1228 1232	T3/4
+T42	DISO 1294 1324	complications thromboembigènes
+T43	PROC 1327 1354	analyse anatomopathologique
+T44	DISO 1377 1406	remaniements nécrose tumorale
+T45	DISO 1429 1453	pathophysiologie tumoral

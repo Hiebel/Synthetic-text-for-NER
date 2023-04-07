@@ -1,0 +1,75 @@
+T1	LIVB 15 25	nourrisson
+T2	TEMP 33 40	18 mois
+T3	PROC 69 74	suivi
+T4	Hospital 78 87	chirurgie
+T5	DISO 97 133	hypoplasie du membre supérieur droit
+T6	ANAT 111 133	membre supérieur droit
+T7	Localization 128 133	droit
+T8	DISO 150 174	symptomatologie clinique
+T9	Concept_Idea 189 192	âge
+T10	TEMP 196 201	3 ans
+T11	LIVB 217 219	il
+T12	DISO 239 272	hallucinations auditivo-visuelles
+T13	DEVI 298 308	projecteur
+T14	PHEN 373 383	réceptions
+T15	LIVB 483 491	patiente
+T16	PROC 644 663	bilan préopératoire
+T17	MEAS 697 703	grosse
+T18	DISO 704 719	masse polylobée
+T19	MEAS 729 732	2cm
+T20	MEAS 735 740	10 cm
+T21	MEAS 749 762	5 centimètres
+T22	Concept_Idea 766 775	grand axe
+T23	MEAS 793 808	progressivement
+T24	Concept_Idea 812 818	taille
+T25	MEAS 828 834	solide
+T26	MEAS 849 860	douloureuse
+T27	ANAT 887 956	paupière infra temporale supérieure médio cervico-mandibulaire droite
+T28	Localization 923 928	médio
+T29	DISO 965 970	masse
+T30	ANAT 1007 1050	troncs supra mandibulaires jugulocardiaques
+T31	ANAT 1070 1131	segments ganglions mésentériques antro-hémisphériques gauches
+T32	Localization 1124 1131	gauches
+T33	ANAT 1143 1184	vaisseaux thoracique inférieur inférieurs
+T34	Localization 1174 1184	inférieurs
+T35	ANAT 1203 1247	muscle biceps brachial antérieur homolatéral
+T36	Localization 1236 1247	homolatéral
+T37	PROC 1264 1288	laparotomie exploratrice
+T40	Localization 1498 1532	antérieure postéro-latérale gauche
+T41	PROC 1542 1569	examen anatomo-pathologique
+T43	MEAS 1757 1765	stade II
+T44	PROC 1775 1808	classification SSRN HER2FACS 2010
+T45	Localization 1896 1902	gauche
+T48	TEMP 2540 2550	30 minutes
+T49	DISO 2574 2600	complications infectieuses
+T50	Concept_Idea 2786 2796	indication
+T51	PROC 2803 2834	néphrectomie totale de contrôle
+T52	LIVB 2851 2858	patient
+T53	DISO 2883 2890	douleur
+T54	DISO 2894 2900	fièvre
+T55	DISO 2910 2929	symptôme infectieux
+T56	PROC 2937 2956	bilan préopératoire
+T57	MEAS 2974 2980	normal
+T58	PROC 2985 3005	reprise chirurgicale
+T59	PROC 3041 3063	traitement chirurgical
+T60	CHEM 3072 3086	neuroleptiques
+T61	DISO 3112 3137	réactions anaphylactoïdes
+T62	DEVI 3150 3170	processus électrique
+T63	MEAS 3171 3190	légèrement sensible
+T64	PROC 3241 3261	évacuation sanitaire
+T65	PROC 3290 3318	corticothérapie probabiliste
+T66	TEMP 3377 3383	5 mois
+T67	DISO 3403 3422	syndrome restrictif
+T68	Concept_Idea 3450 3468	état hémodynamique
+T69	DISO 3490 3528	effets secondaires neuropsychiatriques
+T70	Concept_Idea 3548 3565	état nutritionnel
+T71	LIVB 3590 3597	malades
+T72	PROC 3602 3609	traités
+T73	LIVB 3655 3658	son
+T74	LIVB 3659 3670	petit frère
+T75	TEMP 3678 3683	4 ans
+T76	PROC 3706 3725	anesthésie générale
+T77	PROC 3731 3755	ventilation artificielle
+T78	PROC 3769 3806	laparotomie exploratrice endoscopique
+T79	PROC 3819 3845	consultation psychiatrique
+T80	LIVB 3977 3982	homme

@@ -1,0 +1,61 @@
+T1	LIVB 3 11	patiente
+T2	PROC 28 51	traitement anxiolytique
+T3	CHEM 39 51	anxiolytique
+T4	DISO 56 71	symptomatologie
+T5	DISO 104 110	fièvre
+T6	MEAS 113 117	39°C
+T7	DISO 127 158	douleurs de l'hypochondre droit
+T8	ANAT 141 158	hypochondre droit
+T9	Localization 153 158	droit
+T10	PROC 162 177	examen clinique
+T11	Concept_Idea 197 209	état général
+T12	MEAS 210 216	altéré
+T13	PROC 234 250	examen somatique
+T14	DISO 262 276	particularités
+T15	DISO 298 336	maladie cœliaque du rein controlatéral
+T16	ANAT 318 336	rein controlatéral
+T17	LIVB 368 378	oncologues
+T18	PHEN 473 482	grossesse
+T19	LIVB 494 502	patiente
+T20	DISO 524 544	syndrome néphrotique
+T21	PROC 606 631	bilan préchimiothérapique
+T22	PROC 633 656	échographie obstétrique
+T23	PROC 658 698	scintigraphie thoraco-abdomino pelvienne
+T24	ANAT 672 698	thoraco-abdomino pelvienne
+T25	DISO 743 764	nodules hypoéchogènes
+T26	DISO 787 798	infectieuse
+T27	DISO 830 847	dermatomyopathies
+T28	PROC 853 881	examens anatomopathologiques
+T29	DISO 920 952	adénopathies cervicales lobulées
+T30	ANAT 933 952	cervicales lobulées
+T31	MEAS 973 977	3 cm
+T32	MEAS 1004 1008	7 mm
+T33	MEAS 1030 1038	6 x 6 cm
+T34	ANAT 1066 1100	sinus maxillaire supérieure gauche
+T35	Localization 1094 1100	gauche
+T36	PROC 1106 1148	hystérectomie totale élargie scanno-guidée
+T37	PROC 1164 1193	radiodiagnostic échographique
+T38	MEAS 1208 1217	suspectes
+T39	PROC 1262 1286	laparotomes explorateurs
+T40	PROC 1310 1337	analyse immunohistochimique
+T41	DISO 1356 1382	léiomyome kystique maligne
+T42	DISO 1403 1451	neurofibromatopsie myxoïde fundique idiopathique
+T43	Concept_Idea 1464 1484	aspect morphologique
+T44	DISO 1501 1547	néoplasie ectopique carcinomateuse congénitale
+T45	PROC 1565 1614	biopsie endonasale extirpidienne cutanée monobloc
+T46	PROC 1633 1652	technique ELISA OFG
+T47	PROC 1670 1694	étude histo-histologique
+T48	DISO 1719 1796	infiltrat inflammatoire intracytoplasmique éosinophile tissulaire réactionnel
+T49	ANAT 1875 1911	parties molles cervico-mandibulaires
+T50	MEAS 1920 1931	environ 50%
+T51	MEAS 1976 1994	20 fois la normale
+T52	ANAT 2055 2077	quadrant gastrocnémien
+T53	ANAT 2099 2138	ganglions axillaires supérieurs gauches
+T54	Localization 2131 2138	gauches
+T55	ANAT 2168 2216	membrane basale superficielle plexiglasmoïdienne
+T57	ANAT 2439 2468	cellules tumorales digestives
+T58	ANAT 2490 2554	zones lymphocytaires ganglionnaires mésentériques métatarsiennes
+T59	ANAT 2580 2611	méso transverse inférieur droit
+T60	Localization 2606 2611	droit
+T61	ANAT 2641 2676	vaisseaux biliaires musculo-cutanés
+T62	ANAT 2697 2746	vésicules articulaires thoraciques antérolatéraux

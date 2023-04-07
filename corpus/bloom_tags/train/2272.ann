@@ -1,0 +1,23 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	PROC 41 52	hospitalisé
+T4	Hospital 57 78	urgences pédiatriques
+T5	DISO 114 131	dyspnée sifflante
+T6	DISO 160 174	amaigrissement
+T7	MEAS 185 189	3 kg
+T8	DISO 205 226	détresse respiratoire
+T9	PHEN 214 226	respiratoire
+T10	PROC 230 245	examen clinique
+T11	DISO 257 341	syndrome d'épanchement liquidien infanto-jaunâtre pariétalo-scapulaire stade EIISDSI
+T14	PROC 549 558	injection
+T16	DISO 603 655	masse tissulaire tumorale érythémateuse prurigineuse
+T17	MEAS 665 670	15 cm
+T18	Concept_Idea 674 683	grand axe
+T19	ANAT 704 721	greffon splénique
+T20	MEAS 733 748	progressivement
+T21	Concept_Idea 752 758	taille
+T22	DISO 782 804	paragangliome kystique
+T23	PROC 808 838	ponction tumorale exploratrice
+T24	ANAT 817 838	tumorale exploratrice
+T25	ANAT 960 977	cavité graisseuse
+T26	ANAT 998 1026	vésicule biliaire principale

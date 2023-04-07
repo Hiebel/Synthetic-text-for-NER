@@ -1,0 +1,19 @@
+T1	LIVB 28 33	homme
+T2	DISO 67 108	diabète sous anti diabétique progestatifs
+T3	CHEM 80 108	anti diabétique progestatifs
+T4	PROC 131 154	radiothérapie adjuvante
+T5	ANAT 161 178	hémi thorax droit
+T6	Localization 173 178	droit
+T7	DISO 242 260	atteinte cervicale
+T8	ANAT 251 260	cervicale
+T9	PROC 281 328	curage ganglionnaire locorégional scanno-guidée
+T10	PROC 335 363	chimiothérapie néo adjuvante
+T11	TEMP 373 392	une année plus tard
+T12	LIVB 448 456	patients
+T13	DEVI 475 498	sonde nasofibroscopique
+T15	PROC 591 612	surveillance clinique
+T16	MEAS 637 651	insufflicieuse
+T17	PROC 674 707	rééducation fonctionnelle motrice
+T18	PROC 708 711	RFM
+T19	PHEN 718 736	suites opératoires
+T20	MEAS 745 752	simples

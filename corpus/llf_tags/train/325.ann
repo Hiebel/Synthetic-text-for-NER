@@ -1,0 +1,80 @@
+T1	MEAS 12 13	1
+T2	LIVB 34 41	patient
+T3	Concept_Idea 81 84	âge
+T4	LIVB 97 99	il
+T5	PROC 122 146	chimiothérapie adjuvante
+T6	PROC 164 195	bilan étiologique préopératoire
+T7	PROC 221 253	corticothérapie anticonvulsivant
+T8	CHEM 267 291	acide acétyle glutamique
+T9	CHEM 294 307	dexaméthasone
+T10	LIVB 313 323	nouveau-né
+T11	LIVB 427 436	familiaux
+T12	MEAS 437 449	particuliers
+T13	LIVB 451 453	Sa
+T14	PHEN 454 463	grossesse
+T15	TEMP 476 484	28 jours
+T16	DISO 500 513	consanguinité
+T17	DISO 520 533	drépanocytose
+T18	PROC 550 555	suivi
+T19	DISO 581 613	complication médico-chirurgicale
+T20	DISO 630 649	retard psychomoteur
+T21	ANAT 655 667	conjonctives
+T22	MEAS 682 694	plus courtes
+T23	Concept_Idea 737 755	caractère familial
+T24	PROC 761 776	examen clinique
+T25	LIVB 797 802	fille
+T26	TEMP 811 818	24 mois
+T27	DISO 825 848	signes neuro-sensoriels
+T28	DISO 863 879	râles crépitants
+T29	DISO 902 922	tachycardie sinusale
+T30	DISO 928 953	syndrome méningé temporal
+T31	Hospital 966 987	urgences pédiatriques
+T32	DISO 1181 1200	mouvements toniques
+T34	Concept_Idea 1402 1422	aspect morphologique
+T35	DISO 1447 1477	maladie cœliaque inflammatoire
+T36	DEVI 2480 2514	protides injectables intraveineuse
+T37	PROC 2518 2566	ponction rénale extracorporellaire scanno-guidée
+T38	PROC 2618 2635	tomodensitométrie
+T39	PROC 2637 2652	TDM) abdominale
+T40	ANAT 2642 2652	abdominale
+T41	PROC 2680 2700	examen du fond d'œil
+T42	ANAT 2690 2700	fond d'œil
+T43	DISO 2712 2721	anomalies
+T44	MEAS 2746 2750	deux
+T45	ANAT 2751 2755	yeux
+T46	ANAT 2775 2794	bouche œsophagienne
+T47	MEAS 2813 2821	sensible
+T48	CHEM 2826 2840	neuroleptiques
+T49	CHEM 2853 2868	fluoroquinolone
+T50	DOSE 2881 2889	50 mg/kg
+T51	TEMP 2889 2894	/jour
+T52	LIVB 2903 2908	jeune
+T53	LIVB 2909 2916	patient
+T54	TEMP 2924 2930	24 ans
+T55	PROC 2941 2946	opéré
+T56	TEMP 2950 2960	18/11/2013
+T57	DISO 2977 3006	hypertension rénale chronique
+T58	ANAT 2990 2996	rénale
+T59	TEMP 3016 3029	depuis 6 mois
+T60	DISO 3049 3063	amaigrissement
+T62	PROC 3090 3128	laparotomie exploratrice thérapeutique
+T63	LIVB 3152 3162	nouveau-né
+T64	PROC 3168 3196	chimiothérapie néo adjuvante
+T65	PROC 3209 3242	monitorage électroencéphalogramme
+T66	ANAT 3259 3287	nerf laryngé inférieur droit
+T67	Localization 3282 3287	droit
+T68	ANAT 3298 3334	branches jugulo-carotidienne gauches
+T69	Localization 3327 3334	gauches
+T70	PROC 3349 3426	anastomose termino-mandibulaire transversale médiane fundique interne lobulée
+T72	ANAT 3440 3495	paroi thoracique homolatérale postéro-inférieure droite
+T73	Localization 3457 3495	homolatérale postéro-inférieure droite
+T74	ANAT 3536 3571	colonne mandibulaire iliaque droite
+T75	Localization 3565 3571	droite
+T78	PROC 3696 3735	perfusion intrathoracique préopératoire
+T79	DISO 3755 3764	métastase
+T80	DISO 3774 3779	signe
+T81	DISO 3783 3792	malignité
+T82	PROC 3805 3830	étude immunohistochimique
+T83	DISO 3849 3893	cystadénome épidermoïde érythémateux maligne
+T84	PHEN 3898 3913	circonférentiel
+T85	MEAS 3921 3925	ACR4

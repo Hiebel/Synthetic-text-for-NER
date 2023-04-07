@@ -1,0 +1,27 @@
+T1	LIVB 19 29	adolescent
+T2	TEMP 33 39	12 ans
+T3	DISO 46 71	antécédents pathologiques
+T4	MEAS 72 84	particuliers
+T5	PROC 86 92	admise
+T6	Hospital 97 105	urgences
+T7	DISO 115 151	douleurs abdomino-pelviennes fébrile
+T8	ANAT 124 143	abdomino-pelviennes
+T9	PROC 155 170	examen clinique
+T10	PROC 175 184	admission
+T11	LIVB 198 206	patiente
+T12	MEAS 210 213	bon
+T13	Concept_Idea 214 226	état général
+T14	PHEN 233 238	nuits
+T15	MEAS 247 255	profuses
+T16	DISO 280 301	signes inflammatoires
+T17	ANAT 310 327	cavité abdominale
+T18	ANAT 334 341	pelvien
+T19	PROC 346 362	bilan biologique
+T20	DISO 378 397	syndrome infectieux
+T21	MEAS 413 431	11300 éléments/mm3
+T22	PROC 437 464	numération formule sanguine
+T23	MEAS 471 477	élevée
+T24	CHEM 480 495	globules blancs
+T25	MEAS 497 514	13000 élément/mm3
+T26	PROC 516 526	plaquettes
+T27	MEAS 528 547	20 000 éléments/mm3

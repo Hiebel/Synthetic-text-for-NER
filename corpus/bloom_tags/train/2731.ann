@@ -1,0 +1,37 @@
+T1	LIVB 27 33	enfant
+T2	TEMP 41 46	5 ans
+T3	DISO 52 76	antécédents pathologique
+T4	MEAS 77 85	notables
+T5	PHEN 94 109	cycle menstruel
+T6	PROC 120 125	suivi
+T7	PROC 131 140	admission
+T8	Hospital 144 187	service d'accueil des urgences pédiatriques
+T9	Hospital 191 241	centre hospitalier universitaire Mohammed V de Fès
+T10	DISO 250 279	traumatisme par jet de pierre
+T11	LIVB 299 307	patiente
+T12	LIVB 317 321	elle
+T13	DISO 353 378	vomissements alimentaires
+T14	Concept_Idea 460 472	état général
+T15	MEAS 482 493	insuffisant
+T16	PROC 499 525	traitement médical curatif
+T17	CHEM 531 544	bêtaméthasone
+T18	CHEM 547 561	luprednisolone
+T19	PROC 566 591	intervention chirurgicale
+T20	DISO 614 651	tumeur arrondie lithiasique hydatique
+T21	MEAS 660 665	10 cm
+T22	Concept_Idea 669 678	grand axe
+T23	ANAT 705 727	paroi utéro-thoracique
+T24	DISO 741 838	hernie ganglionnaire pré-stercorale péritonéo-rénale liquidienne scrotale érythémateuse chronique
+T26	DISO 848 862	carcinomateuse
+T27	DISO 878 904	épanchement péripéritonéal
+T28	ANAT 890 904	péripéritonéal
+T29	MEAS 914 919	750ml
+T30	DISO 950 969	métastose pelvienne
+T31	ANAT 960 969	pelvienne
+T32	ANAT 988 1027	cavité péritonéale abdominale splénique
+T33	DISO 1045 1075	syndrome pétéchial anévrismaux
+T34	DISO 1099 1129	dilatation intestinale ulcérée
+T35	PROC 1147 1176	résection totale endoscopique
+T36	PROC 1191 1217	examen anatomopathologique
+T37	DEVI 1224 1245	biopsie transfixiante
+T38	DISO 1261 1307	mésoendometrioid carcinome proliférant maligne

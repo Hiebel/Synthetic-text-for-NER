@@ -1,0 +1,14 @@
+T1	LIVB 18 23	jeune
+T2	LIVB 24 31	patient
+T3	Concept_Idea 47 58	antécédents
+T4	MEAS 59 71	particuliers
+T5	DISO 91 139	pneumopathie chronique obstructive du rein droit
+T6	ANAT 129 139	rein droit
+T7	Localization 134 139	droit
+T8	LIVB 154 158	nous
+T9	PROC 172 192	exérèse chirurgicale
+T10	Localization 215 221	droite
+T11	MEAS 254 261	simples
+T12	PHEN 268 273	décès
+T13	TEMP 290 293	J15
+T14	TEMP 328 334	5 mois

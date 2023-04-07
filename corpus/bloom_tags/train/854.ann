@@ -1,0 +1,44 @@
+T1	LIVB 29 37	patiente
+T2	Concept_Idea 59 85	antécédents gynécologiques
+T3	MEAS 86 98	particuliers
+T4	PROC 100 106	admise
+T5	Hospital 111 119	urgences
+T6	DISO 128 196	syndrome d'épanchement liquidien rétro péritonéal du flux œsophagien
+T8	ANAT 181 196	flux œsophagien
+T11	TEMP 249 265	depuis 48 heures
+T12	DISO 289 312	déficit sensitivomoteur
+T13	PROC 316 331	examen clinique
+T14	LIVB 345 353	patiente
+T15	MEAS 357 360	bon
+T16	Concept_Idea 361 373	état général
+T17	PHEN 391 409	plan hémodynamique
+T18	PROC 425 440	hospitalisation
+T19	CHEM 446 459	noradrénaline
+T20	DOSE 461 468	1 mg/kg
+T21	MODE 470 480	voie orale
+T22	CHEM 483 503	produit de contraste
+T23	PROC 508 539	auscultation pleuro-pulmonaires
+T24	ANAT 521 539	pleuro-pulmonaires
+T25	MEAS 546 553	normale
+T26	ANAT 575 586	thoraciques
+T27	MEAS 610 621	symétriques
+T28	Concept_Idea 624 633	intensité
+T29	MEAS 634 643	régulière
+T30	DISO 667 713	souffle alvéolo-interstitiel laryngocentricaux
+T31	ANAT 675 713	alvéolo-interstitiel laryngocentricaux
+T32	DISO 723 761	thrombose cérébro-catarso-vestibulaire
+T33	ANAT 733 761	cérébro-catarso-vestibulaire
+T34	PROC 779 800	échographie pelvienne
+T35	ANAT 791 800	pelvienne
+T36	DISO 821 866	masse tissulaire hypo échogéne hypokaliémique
+T37	MEAS 876 881	20 cm
+T38	Concept_Idea 885 894	grand axe
+T39	MEAS 903 907	12cm
+T40	Concept_Idea 911 919	diamètre
+T41	PROC 984 993	injection
+T42	CHEM 997 1017	produit de contraste
+T43	DISO 1038 1065	cholestatique hyperkystisée
+T44	DISO 1093 1139	adénopathies hépato-surrénaliennes sécrétrices
+T45	ANAT 1106 1139	hépato-surrénaliennes sécrétrices
+T46	PROC 1189 1210	biopsie transfixiante
+T47	PROC 1370 1401	investigations somatomégaliques

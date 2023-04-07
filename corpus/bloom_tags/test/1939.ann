@@ -1,0 +1,52 @@
+T1	LIVB 4 9	femme
+T2	MEAS 75 82	notable
+T3	DEVI 94 113	placenta artificiel
+T4	TEMP 140 146	16 ans
+T5	LIVB 153 157	elle
+T6	DISO 326 353	hypofertilité fonctionnelle
+T7	MEAS 363 375	plus gênante
+T8	LIVB 395 406	jeune femme
+T9	DISO 498 516	syndrome infertile
+T10	MEAS 532 538	rapide
+T11	MEAS 556 561	lente
+T12	Concept_Idea 575 590	cycle menstruel
+T13	LIVB 592 595	Ses
+T14	PHEN 596 613	cycles menstruels
+T15	DISO 638 674	contractions utérines latéro-utérine
+T17	DISO 740 757	souffrance fœtale
+T18	PROC 763 783	examen gynécologique
+T19	LIVB 785 789	nous
+T20	DISO 821 834	masse ulcérée
+T21	MEAS 844 848	6 cm
+T22	Concept_Idea 852 861	grand axe
+T23	MEAS 870 874	2 cm
+T24	Concept_Idea 878 886	diamètre
+T25	MEAS 902 917	progressivement
+T26	Concept_Idea 921 927	taille
+T27	MEAS 939 958	de façon symétrique
+T28	DOSE 983 994	environ 6cm
+T29	DISO 1015 1020	masse
+T30	TEMP 1033 1037	3ans
+T31	MEAS 1051 1062	massivement
+T32	Concept_Idea 1076 1082	volume
+T33	MEAS 1109 1126	14/10 centimètres
+T34	MEAS 1130 1147	13/10 centimètres
+T35	DISO 1204 1226	polyarthrite chronique
+T36	ANAT 1245 1282	articulations métacarpo-phalangiennes
+T37	DISO 1304 1375	adénopathies parathyroïdiennes hypocholestérolémateuses scannodésminées
+T39	ANAT 1394 1431	sous-diaphragmatiques hyo-thoraciques
+T40	DISO 1449 1511	épanchement péritonéal liquidien basithoracique péripéritonéal
+T41	ANAT 1461 1511	péritonéal liquidien basithoracique péripéritonéal
+T42	MEAS 1532 1539	15000ml
+T43	PROC 1578 1616	traitement antibacillaire probabiliste
+T44	CHEM 1671 1681	rifosamide
+T45	CHEM 1684 1708	ethinyl indole acrylique
+T46	CHEM 1714 1737	Valproate de Sufentanil
+T47	CHEM 1825 1835	furosémide
+T48	DOSE 1837 1842	200mg
+T49	MODE 1842 1850	sanguine
+T50	CHEM 1853 1864	nicardipine
+T51	DOSE 1866 1872	0,4 mg
+T52	CHEM 1916 1926	dobutamine
+T53	CHEM 1929 1942	dexaméthasone
+T54	DOSE 1944 1952	50 µg/kg

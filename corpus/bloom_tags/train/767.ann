@@ -1,0 +1,40 @@
+T1	LIVB 16 24	patiente
+T3	ANAT 68 90	abdomino-épigastriques
+T4	DISO 107 113	fièvre
+T5	DISO 132 140	anorexie
+T6	TEMP 150 163	depuis 6 mois
+T7	LIVB 170 173	son
+T8	PROC 174 183	admission
+T9	Hospital 188 196	urgences
+T10	Concept_Idea 232 245	état générale
+T11	PROC 250 260	diagnostic
+T12	DISO 285 334	syndrome d'épanchement liquidien intra péritonéal
+T13	ANAT 318 334	intra péritonéal
+T14	DISO 351 381	hémodialyse aiguë tuberculeuse
+T15	LIVB 405 408	Son
+T16	PROC 409 424	prise en charge
+T17	CHEM 440 453	noradrénaline
+T18	CHEM 455 466	hydroxyzine
+T19	CHEM 468 482	hydrocortisone
+T20	CHEM 484 502	benzylprédnisolone
+T21	CHEM 517 536	corticoïdes inhalés
+T22	CHEM 557 587	anti-inflammatoires vasoactifs
+T23	CHEM 598 618	médiates antalgiques
+T24	DISO 665 692	complications neurologiques
+T25	DOSE 698 702	4 mg
+T27	CHEM 711 720	midazolam
+T28	PROC 750 774	anesthésie locorégionale
+T29	ANAT 761 774	locorégionale
+T30	DISO 832 853	détresse respiratoire
+T31	PHEN 841 853	respiratoire
+T32	DISO 869 897	dyspnée stade II de Sistrunk
+T33	DISO 947 984	tuméfaction basithoracique paucilobée
+T34	MEAS 1007 1022	progressivement
+T35	Concept_Idea 1026 1032	volume
+T36	TEMP 1041 1053	le jour même
+T37	DISO 1070 1085	symptomatologie
+T38	PROC 1160 1183	intubation chirurgicale
+T39	DISO 1189 1222	masse bourgeonnante hypopigmentée
+T40	MEAS 1241 1245	12cm
+T41	Concept_Idea 1249 1258	grand axe
+T42	Localization 1311 1321	inférieure

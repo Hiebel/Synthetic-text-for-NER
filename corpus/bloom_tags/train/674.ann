@@ -1,0 +1,52 @@
+T1	LIVB 16 24	patiente
+T2	PROC 61 133	curage pancréatico-méningé antéro-supérieur périhépatique intragastrique
+T4	PROC 139 191	anastomotomie artériolaire pancréatique scannoguidée
+T6	PROC 197 225	chimiothérapie néo adjuvante
+T8	PHEN 285 303	suites opératoires
+T9	DISO 319 331	complication
+T10	DISO 359 381	détresse hémodynamique
+T11	DISO 383 416	syndrome inflammatoire biologique
+T12	DISO 427 453	modifications métaboliques
+T13	PROC 466 491	étude anatomopathologique
+T14	DEVI 498 530	bandelette plâtrée transfixiante
+T15	DISO 549 567	malignité tumorale
+T16	DISO 595 620	localisations secondaires
+T17	LIVB 632 643	jeune femme
+T18	PROC 656 684	traitement médical palliatif
+T19	LIVB 747 755	patients
+T20	DISO 768 781	paragangliome
+T21	PROC 799 821	diagnostic étiologique
+T22	DISO 1118 1155	neurofibrome ischémateux hypertrophié
+T23	DISO 1160 1168	kystique
+T24	ANAT 1283 1305	paires crânio-faciales
+T25	Concept_Idea 1442 1462	moyens radiologiques
+T26	PROC 1487 1516	tomodensitométrie écho guidée
+T27	PROC 1517 1520	TDM
+T28	PROC 1523 1571	imagerie par résonance magnétique complémentaire
+T29	PROC 1573 1576	IRM
+T30	DISO 1803 1845	hyperintenseurose segmentaire hypoéchogène
+T31	ANAT 1870 1918	sous claviculaire basithoracique inférieur droit
+T32	Localization 1913 1918	droit
+T33	DISO 1927 1980	hypersignal T2 hétérogène tissulaire hypervascularisé
+T34	DISO 2025 2083	envahissement chondro-carcineocytaire épidermoide infiltré
+T35	DISO 2116 2160	neuroendocrine mésenchymateuse endometrioïde
+T36	ANAT 2177 2220	parties molles cervicales sus claviculaires
+T37	DISO 2283 2304	lésions vascularisées
+T38	ANAT 2521 2541	péritonéal liquidien
+T39	DISO 2632 2664	ostéomyélite ostéochondromateuse
+T40	DISO 2686 2727	tuberculose du liquide céphalo-rhumatoïde
+T41	ANAT 2701 2727	liquide céphalo-rhumatoïde
+T42	LIVB 2748 2755	patient
+T43	CHEM 2771 2781	isoniazide
+T44	CHEM 2783 2793	éthambutol
+T45	CHEM 2795 2807	Pyrazinamide
+T46	CHEM 2809 2820	Ethionamide
+T47	CHEM 2822 2833	Ceftriaxone
+T48	CHEM 2835 2848	Triméthoprime
+T49	CHEM 2850 2861	Vinblastine
+T50	CHEM 2863 2874	Cyclosérine
+T51	CHEM 2876 2888	Rifamylaside
+T52	CHEM 2890 2904	Gentaméthasone
+T53	MEAS 2918 2926	première
+T54	DOSE 2935 2938	2 g
+T55	CHEM 2942 2956	ciprofloxacine

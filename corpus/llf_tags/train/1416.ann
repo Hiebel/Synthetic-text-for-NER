@@ -1,0 +1,27 @@
+T1	LIVB 3 11	patiente
+T2	PROC 18 24	admise
+T3	Hospital 29 37	urgences
+T4	DISO 47 54	dyspnée
+T5	MEAS 69 80	progressive
+T6	PROC 84 99	examen clinique
+T7	DISO 130 163	sensibilité de l'hémicorps gauche
+T8	ANAT 147 163	hémicorps gauche
+T9	Localization 157 163	gauche
+T10	Concept_Idea 172 192	rapport signal-bruit
+T11	MEAS 195 198	0,3
+T12	DISO 206 222	râles crépitants
+T13	ANAT 236 242	thrill
+T14	PROC 248 286	TDM cervico-thoraco- abdomino-fémorale
+T15	ANAT 252 286	cervico-thoraco- abdomino-fémorale
+T16	DISO 324 332	anomalie
+T17	DISO 359 383	signe neuropsychiatrique
+T18	DISO 399 416	neurofibromatoïde
+T19	DISO 426 445	maladie auto-immune
+T20	PHEN 451 469	suites opératoires
+T21	DISO 483 497	particularités
+T22	PROC 539 567	bilan préopératoire standard
+T23	LIVB 575 593	médecin urgentiste
+T24	PROC 608 647	contrôles radiologiques postopératoires
+T25	DISO 673 692	syndrome infectieux
+T26	DISO 698 709	infectieuse
+T27	LIVB 721 729	patiente

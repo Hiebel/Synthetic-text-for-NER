@@ -1,0 +1,29 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 77 94	anorexie primaire
+T4	PHEN 110 130	grossesse gémellaire
+T5	PROC 198 232	ponction liquide céphalo-rachidien
+T6	ANAT 207 232	liquide céphalo-rachidien
+T7	ANAT 248 273	liquide céphalo-rachidien
+T8	LIVB 284 286	Il
+T9	PROC 297 302	admis
+T10	Hospital 307 328	urgences pédiatriques
+T11	ANAT 359 374	intrarachidiens
+T12	MEAS 399 405	2500ml
+T13	TEMP 415 430	depuis 6 heures
+T14	MEAS 445 454	spontanée
+T15	DEVI 473 492	sonde surrénalienne
+T16	ANAT 479 492	surrénalienne
+T17	MODE 506 540	voie d'abord veineuse périphérique
+T18	DISO 657 674	lésions kystiques
+T19	LIVB 703 711	patiente
+T20	DISO 745 760	symptomatologie
+T21	PROC 774 804	échographie abdomino-pelvienne
+T22	ANAT 786 804	abdomino-pelvienne
+T23	MEAS 968 977	favorable
+T24	DISO 994 1024	troubles hydro-électrolytiques
+T25	DISO 1183 1196	inflammatoire
+T26	DISO 1200 1214	carcinomateuse
+T27	PROC 1229 1254	bilan immunohistochimique
+T28	MEAS 1268 1275	négatif
+T29	PROC 1383 1402	anatomopathologique

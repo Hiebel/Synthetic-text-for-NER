@@ -1,0 +1,123 @@
+T1	LIVB 3 11	patiente
+T2	PROC 18 24	opérée
+T3	Localization 47 53	gauche
+T4	PROC 57 81	exploration chirurgicale
+T5	DISO 92 124	processus tissulaire du pancréas
+T6	ANAT 116 124	pancréas
+T7	MEAS 127 140	environ 20 cm
+T8	Concept_Idea 144 152	diamètre
+T9	ANAT 175 201	angle crico-trachéo-buccal
+T10	ANAT 229 248	veine rénale droite
+T11	Localization 242 248	droite
+T12	DISO 259 274	masse polylobée
+T13	MEAS 284 297	6 centimètres
+T14	Concept_Idea 301 310	grand axe
+T15	DISO 326 361	remaniements liquidiens angiomateux
+T16	DISO 397 437	neurofibromatose maniaco-alvéolo-anxieux
+T17	PROC 442 468	scanner cervico-thoracique
+T18	ANAT 450 468	cervico-thoracique
+T19	DISO 478 487	anomalies
+T20	DISO 504 554	distension crânio-cardio-vasculonerveux fessiforme
+T21	ANAT 515 554	crânio-cardio-vasculonerveux fessiforme
+T22	DISO 583 608	insuffisance respiratoire
+T23	PHEN 596 608	respiratoire
+T24	PROC 643 662	traitement adjuvant
+T25	CHEM 678 694	antibiothérapies
+T26	CHEM 731 746	céphalosporines
+T27	DOSE 748 754	100 mg
+T28	TEMP 754 759	/jour
+T29	CHEM 762 774	pyrazinamide
+T30	DOSE 776 782	400 mg
+T31	TEMP 782 787	/jour
+T32	CHEM 790 804	gentaméthasone
+T33	DOSE 806 812	250 mg
+T34	TEMP 812 817	/jour
+T35	CHEM 820 833	triméthoprime
+T36	DOSE 835 841	255 mg
+T37	TEMP 841 843	/j
+T38	CHEM 846 857	rifampicine
+T39	DOSE 859 864	30 mg
+T40	TEMP 864 866	/j
+T41	CHEM 869 880	oxazolamide
+T42	DOSE 882 888	200 mg
+T43	TEMP 888 890	/j
+T44	CHEM 893 904	tétrazidime
+T45	DOSE 906 912	500 mg
+T46	TEMP 912 914	/j
+T47	CHEM 917 926	nivaquine
+T48	DOSE 928 933	50 mg
+T49	TEMP 933 935	/j
+T50	CHEM 938 952	fentaméthasone
+T51	DOSE 954 959	15 mg
+T52	TEMP 959 961	/j
+T53	CHEM 964 982	acide zolédronique
+T54	DOSE 984 992	2 gramme
+T55	TEMP 992 994	/j
+T56	CHEM 997 1007	isoniazide
+T57	DOSE 1009 1016	1 litre
+T58	TEMP 1016 1018	/j
+T59	CHEM 1021 1032	vincristine
+T60	DOSE 1034 1043	4 grammes
+T61	TEMP 1043 1045	/j
+T62	CHEM 1048 1060	doxorubicine
+T63	DOSE 1062 1071	12grammes
+T64	TEMP 1071 1073	/j
+T65	CHEM 1076 1087	paracétamol
+T66	DOSE 1089 1094	20 mg
+T67	TEMP 1094 1096	/j
+T68	CHEM 1099 1114	sulforaphénanes
+T69	DOSE 1116 1122	120 mg
+T70	TEMP 1122 1124	/j
+T71	CHEM 1127 1141	chlorpromazine
+T72	DOSE 1143 1148	40 mg
+T73	TEMP 1148 1150	/j
+T74	CHEM 1153 1169	cyclophosphamide
+T75	DOSE 1171 1176	60 mg
+T76	TEMP 1176 1178	/j
+T77	CHEM 1181 1190	aminoside
+T78	DOSE 1192 1197	10 mg
+T79	TEMP 1197 1199	/j
+T80	CHEM 1202 1213	halopéridol
+T81	DOSE 1215 1219	3 ml
+T82	TEMP 1219 1221	/j
+T83	CHEM 1224 1237	métronidazole
+T84	DOSE 1239 1244	70 mg
+T85	TEMP 1244 1246	/j
+T86	CHEM 1249 1269	monocyclophosphamide
+T87	DOSE 1271 1276	75 mg
+T88	TEMP 1276 1278	/j
+T89	CHEM 1281 1290	imipenème
+T90	DOSE 1292 1298	150 mg
+T91	TEMP 1298 1300	/j
+T92	CHEM 1303 1322	hydroxyprogestérone
+T94	TEMP 1331 1333	/j
+T95	CHEM 1336 1350	hydrocortisone
+T97	TEMP 1358 1360	/j
+T98	MEAS 1401 1412	prématurées
+T99	DISO 1440 1457	récidive tumorale
+T100	DISO 1474 1484	métastases
+T101	DISO 1495 1519	symptômes neuropathiques
+T102	PROC 1525 1550	étude immunohistochimique
+T103	DISO 1594 1602	cytolyse
+T104	DISO 1696 1722	lésions kystiques malignes
+T105	LIVB 1732 1745	rhumatologues
+T106	LIVB 1880 1900	médecins urgentistes
+T107	PROC 2038 2071	traitements curatifs substitutifs
+T108	LIVB 2097 2104	malades
+T109	DISO 2195 2211	maladie cœliaque
+T110	ANAT 2223 2233	col utérin
+T111	PROC 2268 2292	rachianesthésie générale
+T112	MEAS 2297 2306	favorable
+T113	TEMP 2330 2339	24 heures
+T114	Concept_Idea 2345 2363	état hémodynamique
+T115	PHEN 2620 2635	fonction rénale
+T116	ANAT 2629 2635	rénale
+T117	MEAS 2655 2659	bien
+T118	PROC 2809 2835	examens anatomopathologies
+T119	DISO 2876 2918	cellules carcinomateuses ectomycorrhinoïde
+T120	MEAS 2937 2941	4 mm
+T121	Concept_Idea 2945 2954	grand axe
+T122	ANAT 3083 3098	fibres mycoïdes
+T123	MEAS 3120 3132	environ 1 cm
+T124	Concept_Idea 3136 3145	petit axe
+T125	DISO 3498 3527	proliférations inflammatoires

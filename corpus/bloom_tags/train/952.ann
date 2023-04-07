@@ -1,0 +1,43 @@
+T1	LIVB 4 13	patientes
+T2	PROC 35 41	admise
+T3	Hospital 46 54	urgences
+T4	DISO 81 102	détresse respiratoire
+T5	PHEN 90 102	respiratoire
+T6	TEMP 112 126	depuis 3 jours
+T7	DISO 142 148	fièvre
+T8	DISO 186 224	syndrome d’épanchement intrapéritonéal
+T9	ANAT 209 224	intrapéritonéal
+T10	LIVB 226 230	Elle
+T11	DISO 251 276	atteinte cutanéo-muqueuse
+T12	ANAT 260 276	cutanéo-muqueuse
+T13	DISO 294 301	prurigo
+T14	DISO 308 315	dyspnée
+T15	DISO 321 335	amaigrissement
+T16	MEAS 346 349	5kg
+T17	PROC 372 397	intervention chirurgicale
+T18	PROC 418 630	anesthésie locorégionale cervico-métacarpienne métatarsienne scapholunaire trans-thoracique axillaire pré-tendineuse latéro-aponévrotomotrice thoracique antero-lunaire postérieure médiastinothrombytique type FAVI
+T20	LIVB 651 659	patiente
+T21	CHEM 697 713	vasoconstricteur
+T22	ANAT 734 760	tronc musculaire splénique
+T23	MEAS 830 836	rapide
+T24	DISO 912 929	séquelles nécrose
+T25	PROC 934 959	étude immunohistochimique
+T26	DISO 982 999	cellules malignes
+T27	DISO 1023 1059	vésicules carcinomateuses nodulaires
+T28	ANAT 1079 1087	épiploon
+T29	DISO 1110 1118	tumorale
+T30	PROC 1166 1189	chirurgie locorégionale
+T31	DEVI 1681 1704	bandelette obstétricale
+T32	LIVB 2521 2528	patient
+T33	PROC 2546 2594	curage ganglionnaire cervico-thoracique adjuvant
+T34	ANAT 2553 2594	ganglionnaire cervico-thoracique adjuvant
+T35	Concept_Idea 2620 2626	taille
+T36	MEAS 2637 2643	120 cm
+T37	PROC 2647 2678	échographie abdomino- pelvienne
+T38	ANAT 2659 2678	abdomino- pelvienne
+T39	DISO 2690 2703	particularité
+T40	PROC 2708 2759	ponction liquide pleurésie du col utérin transfixié
+T42	ANAT 2738 2759	col utérin transfixié
+T43	DISO 2787 2830	adénocarcinome des parties molles vaginales
+T44	ANAT 2806 2830	parties molles vaginales
+T45	ANAT 2846 2869	parenchyme para-vaginal

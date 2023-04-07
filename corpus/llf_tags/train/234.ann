@@ -1,0 +1,80 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 59 64	trois
+T3	LIVB 65 72	enfants
+T4	PROC 77 99	radiographie du thorax
+T5	ANAT 93 99	thorax
+T6	DISO 116 138	niveaux hydro-aériques
+T7	ANAT 147 151	sang
+T8	Concept_Idea 160 186	indice de masse corporelle
+T9	Concept_Idea 188 191	IMC
+T10	MEAS 195 204	25 kg/m 2
+T11	PROC 209 230	bilan phosphocalcique
+T12	DISO 242 250	anomalie
+T13	PROC 254 272	ionogramme sanguin
+T14	ANAT 265 272	sanguin
+T15	DISO 296 316	hypertriglycéridémie
+T16	CHEM 338 349	corticoïdes
+T17	CHEM 356 386	pénicilline acide clavulanique
+T18	Concept_Idea 399 419	aspect morphologique
+T19	DISO 435 477	kyste hydatique hypoéchogène mal équilibré
+T20	PROC 501 529	prise en charge chirurgicale
+T21	PROC 535 563	chimiothérapie néo adjuvante
+T22	MEAS 580 588	complète
+T23	TEMP 595 601	6 mois
+T24	PHEN 608 614	suites
+T25	MEAS 623 630	simples
+T26	PROC 635 655	suivi postopératoire
+T27	LIVB 667 675	patiente
+T28	PROC 692 715	contrôles radiologiques
+T29	DISO 740 760	récidive infectieuse
+T30	DISO 770 793	déficit sensitivomoteur
+T31	PROC 807 839	fibroscopie œso-gastro-duodénale
+T32	ANAT 819 839	œso-gastro-duodénale
+T33	PROC 853 887	scintigraphie oeso-gastroduodénale
+T34	ANAT 867 887	oeso-gastroduodénale
+T35	PROC 917 941	retraitement chirurgical
+T36	MEAS 961 969	normales
+T37	MEAS 1001 1012	précédentes
+T38	PROC 1034 1052	séjour hospitalier
+T39	LIVB 1066 1071	homme
+T40	DISO 1133 1162	symptômes neuropsychiatriques
+T41	DISO 1208 1230	trouble bipolaire aigu
+T42	PROC 1248 1255	mariage
+T43	LIVB 1268 1270	sa
+T44	LIVB 1271 1275	mère
+T45	DISO 1293 1320	accident vasculaire crânien
+T46	ANAT 1313 1320	crânien
+T47	LIVB 1338 1341	son
+T48	LIVB 1342 1348	épouse
+T49	PROC 1386 1405	enquête étiologique
+T50	DISO 1555 1574	syndrome infectieux
+T51	LIVB 1655 1664	confrères
+T52	LIVB 1724 1731	garçons
+T53	LIVB 2451 2457	enfant
+T54	MEAS 2490 2491	3
+T55	LIVB 2492 2499	parents
+T56	ANAT 2680 2702	segments du cœur fœtal
+T57	LIVB 2711 2722	jeune fille
+T58	TEMP 2731 2737	15 ans
+T59	PROC 2748 2760	hospitalisée
+T60	Hospital 2764 2775	psychiatrie
+T61	DISO 2785 2826	symptomatologie obsessionnelle compulsive
+T62	Concept_Idea 2856 2868	état général
+T63	DISO 2883 2906	trouble de comportement
+T64	CHEM 2991 3005	neuroleptiques
+T65	DOSE 3007 3013	1 g/kg
+T66	TEMP 3013 3015	/j
+T67	LIVB 3045 3050	femme
+T68	LIVB 3080 3091	grand frère
+T69	TEMP 3099 3105	26 ans
+T70	DISO 3223 3239	idées délirantes
+T71	PROC 3348 3390	séances de rééducation psychothérapeutique
+T72	PHEN 3478 3495	fonctions vitales
+T73	PROC 3531 3560	prise en charge psychiatrique
+T74	MEAS 3597 3610	concentriques
+T75	DISO 4226 4278	infarctus myocardique cérébrolocaliciel hypodermique
+T76	DISO 4296 4319	bradycardie néonatalgie
+T77	LIVB 4385 4388	son
+T78	LIVB 4389 4400	petite sœur
+T79	LIVB 4575 4580	homme
+T80	PROC 4599 4610	hospitalisé

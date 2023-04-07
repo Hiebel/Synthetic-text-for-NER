@@ -1,0 +1,86 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	14 ans
+T3	DISO 38 63	antécédents pathologiques
+T4	MEAS 64 72	notables
+T5	PROC 74 80	admise
+T6	Hospital 85 93	urgences
+T7	DISO 102 136	syndrome d'hypertension artérielle
+T8	ANAT 126 136	artérielle
+T9	DISO 145 215	cardiomyopathie hypertrophique du sinus caverneux inféro-latéral droit
+T10	ANAT 179 215	sinus caverneux inféro-latéral droit
+T11	Localization 210 215	droit
+T12	Concept_Idea 225 244	critères prédictifs
+T13	PROC 282 309	angioscanner angiographique
+T14	PROC 311 314	AVG
+T15	DISO 364 378	masse tumorale
+T16	PROC 382 407	intervention chirurgicale
+T17	PROC 428 447	anesthésie générale
+T18	PROC 454 481	stabilisation hémodynamique
+T19	PHEN 485 497	respiratoire
+T20	LIVB 499 503	Elle
+T21	PROC 522 545	résection transpleurale
+T22	DEVI 561 575	liquide cutané
+T23	PROC 590 622	greffon-anastomose péritrachéale
+T24	PROC 628 647	étude préopératoire
+T25	PROC 669 702	échocardiographie transthoracique
+T26	ANAT 687 702	transthoracique
+T27	LIVB 723 733	nouveau-né
+T28	DISO 738 811	dépression ventriculaire intrarénal laryngo médiastinale hypo-contractile
+T30	MEAS 821 826	20 cm
+T31	Concept_Idea 830 839	grand axe
+T32	MEAS 852 863	diffusément
+T33	MEAS 901 908	normaux
+T34	DISO 926 949	souffle hypovolontaires
+T35	ANAT 934 949	hypovolontaires
+T36	DISO 962 1001	adénopathies basithoraciques cervicales
+T37	ANAT 975 1001	basithoraciques cervicales
+T38	PROC 1017 1061	tomodensitométrie thoraco-abdomino-pelvienne
+T39	ANAT 1035 1061	thoraco-abdomino-pelvienne
+T40	DISO 1090 1190	métastase parenchymateuse basithoracique sous hyoïdienne thoracique tissulaire angulo-myxo-splénique
+T42	Localization 1131 1135	sous
+T43	MEAS 1199 1203	23cm
+T44	Concept_Idea 1207 1216	grand axe
+T45	MEAS 1267 1282	progressivement
+T46	Concept_Idea 1286 1292	taille
+T47	ANAT 1318 1344	muscles para-cerviculaires
+T48	DISO 1358 1448	infiltration ganglionnaire locorégionale supérieure bilatérale métasurrénalienne comprimée
+T49	ANAT 1371 1448	ganglionnaire locorégionale supérieure bilatérale métasurrénalienne comprimée
+T51	ANAT 1470 1539	région sus-hyoïdienne thymopharyngo-rachidienne rétro-diaphragmatique
+T52	DISO 1591 1617	envahissement intracrânien
+T53	ANAT 1605 1617	intracrânien
+T54	DISO 1739 1766	tumeur kystique sécrétrante
+T55	TEMP 2045 2051	16 ans
+T56	PROC 2063 2097	radiothérapie palliative adjuvante
+T57	LIVB 2129 2137	patients
+T58	PROC 2176 2215	technologie d'immunodépression curative
+T59	DISO 2292 2320	symptomatologie neurologique
+T60	CHEM 2477 2490	bêtaméthasone
+T61	MODE 2560 2565	bolus
+T62	DISO 2672 2692	hypoglycémie fébrile
+T63	MEAS 2704 2712	1,7 g/dl
+T64	TEMP 2722 2738	depuis 72 heures
+T65	DISO 2764 2782	douleur abdominale
+T66	ANAT 2772 2782	abdominale
+T67	MEAS 2797 2803	rapide
+T68	ANAT 2830 2838	grêlique
+T69	ANAT 2899 2905	pelvis
+T70	MEAS 2917 2934	de façon exagérée
+T71	PROC 2938 2953	examen clinique
+T72	LIVB 2966 2974	patiente
+T73	MEAS 2978 2981	bon
+T74	Concept_Idea 2982 2994	état général
+T75	PHEN 3007 3018	température
+T76	MEAS 3021 3026	36°8C
+T77	DISO 3032 3066	adénopathies bilatérales hypodense
+T78	Localization 3045 3056	bilatérales
+T79	DISO 3072 3120	atteinte du nerf thyroïdien cerviciculorachidien
+T80	ANAT 3084 3120	nerf thyroïdien cerviciculorachidien
+T81	PROC 3124 3176	auscultation cardio-ventriculaire transoesophagienne
+T82	ANAT 3137 3176	cardio-ventriculaire transoesophagienne
+T83	MEAS 3183 3190	normale
+T84	PROC 3203 3222	examen respiratoire
+T85	ANAT 3210 3222	respiratoire
+T86	DISO 3278 3286	polypnée
+T87	MEAS 3299 3311	28 cycles/mn
+T88	PROC 3317 3348	cathétère artério-lympho-gazeux
+T89	ANAT 3327 3348	artério-lympho-gazeux

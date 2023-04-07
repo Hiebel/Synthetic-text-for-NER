@@ -1,0 +1,16 @@
+T1	LIVB 4 9	femme
+T2	CHEM 26 40	hydrocortisone
+T3	DOSE 41 45	5 mg
+T4	MODE 46 52	per os
+T5	CHEM 55 73	méthylprednisolone
+T6	DOSE 74 78	20mg
+T7	DEVI 79 98	seringue électrique
+T8	TEMP 105 120	pendant 3 jours
+T9	PROC 136 166	traitement médical substitutif
+T10	CHEM 179 192	noradrénaline
+T11	CHEM 194 204	dobutamine
+T12	CHEM 208 226	éthyleprédnisolone
+T13	Hospital 298 320	urgences chirurgicales
+T14	PROC 453 484	ponction sanguine transfixiante
+T15	ANAT 462 484	sanguine transfixiante
+T16	PROC 561 583	technique anesthésique

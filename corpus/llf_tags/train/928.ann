@@ -1,0 +1,102 @@
+T1	PROC 4 21	tomodensitométrie
+T2	PROC 23 55	TDM) thoraco- abdomino-pelvienne
+T3	ANAT 28 55	thoraco- abdomino-pelvienne
+T4	DISO 72 111	dilatation des cavités pyélocalicielles
+T5	ANAT 87 111	cavités pyélocalicielles
+T6	Concept_Idea 120 129	caractère
+T7	DISO 145 222	lymphocytome à cellules chromophobes de la paroi thoracique supérieure droite
+T8	ANAT 188 222	paroi thoracique supérieure droite
+T9	Localization 216 222	droite
+T10	PROC 228 252	laparotomie exploratrice
+T11	Hospital 271 278	urgence
+T12	PROC 284 303	anesthésie générale
+T13	PROC 309 334	exploration préopératoire
+T14	DISO 346 355	anomalies
+T15	PROC 369 386	scanner abdominal
+T16	ANAT 377 386	abdominal
+T17	DISO 409 426	récidive tumorale
+T18	DISO 436 446	métastases
+T19	LIVB 451 457	malade
+T20	PROC 471 499	antibiothérapie probabiliste
+T21	MODE 504 522	voie intraveineuse
+T22	CHEM 524 555	amoxicilline acide clavulanique
+T23	CHEM 558 570	pyrazinamide
+T24	CHEM 573 583	céfotaxime
+T25	CHEM 586 599	métronidazole
+T26	Concept_Idea 610 619	principes
+T27	PROC 623 641	classification TNM
+T28	TEMP 683 688	/24 h
+T29	MEAS 723 728	60 mm
+T30	PHEN 731 750	fonction systolique
+T31	MEAS 751 759	correcte
+T32	MEAS 762 784	100 battements /minute
+T33	DEVI 788 796	bistouri
+T34	MEAS 804 808	55 %
+T35	PROC 815 836	remplissage mécanique
+T36	MEAS 863 882	90 cycles / minutes
+T37	PROC 935 987	néphrectomie totale endo-oesophagienne scanno-guidée
+T38	PROC 1013 1021	réséquer
+T39	DISO 1028 1055	symptomatologie néoplasique
+T40	MEAS 1088 1095	simples
+T41	LIVB 1105 1111	enfant
+T42	TEMP 1119 1124	3 ans
+T43	LIVB 1255 1258	son
+T44	LIVB 1259 1263	père
+T45	LIVB 1287 1289	sa
+T46	LIVB 1290 1311	grand-mère maternelle
+T47	LIVB 1333 1337	sœur
+T48	TEMP 1346 1351	4 ans
+T49	PROC 1436 1470	contrôle locorégional radiologique
+T50	DISO 1496 1512	signe infectieux
+T51	DISO 1540 1560	pneumopathie fébrile
+T52	DISO 1567 1587	cholécyste hydatique
+T53	DISO 1628 1661	souffrance nasopharyngo-tracheale
+T54	ANAT 1639 1661	nasopharyngo-tracheale
+T55	PROC 1675 1723	bloc axillaire cervico-thoracique multiloculaire
+T56	PROC 1752 1781	bloc axillaire bidimensionnel
+T57	DISO 1806 1843	masse tissulaire hétérogène polylobée
+T58	MEAS 1853 1858	70 cm
+T59	Concept_Idea 1862 1871	grand axe
+T60	MEAS 1880 1884	7 cm
+T61	Concept_Idea 1888 1897	petit axe
+T62	ANAT 1916 1939	quadrant supéro-externe
+T63	ANAT 1967 1982	anses grêliques
+T64	PROC 1994 2014	reprise chirurgicale
+T65	DISO 2022 2028	tumeur
+T66	MEAS 2038 2051	40x15 x 15 cm
+T67	ANAT 2078 2099	structure liquidienne
+T68	MEAS 2260 2263	18%
+T69	MEAS 2267 2270	14%
+T70	DISO 2661 2691	cellules étoilées physeterques
+T71	PROC 2721 2746	étude immunohistochimique
+T72	LIVB 2762 2768	enfant
+T73	PHEN 2786 2806	grossesse monofœtale
+T74	Concept_Idea 2815 2827	sexe féminin
+T75	TEMP 2836 2842	3 mois
+T76	PROC 2862 2867	admis
+T77	Hospital 2872 2880	urgences
+T78	PROC 2898 2928	bilan biologique préopératoire
+T79	MEAS 3079 3089	favorables
+T80	PROC 3095 3128	circulation extracorporelle libre
+T81	DISO 3188 3226	distension abdomino-crânio-anale aiguë
+T82	ANAT 3199 3220	abdomino-crânio-anale
+T83	LIVB 3270 3278	patiente
+T84	TEMP 3285 3292	6heures
+T85	PROC 3295 3336	hémodialyse intraveineuse conventionnelle
+T86	PROC 3342 3374	néphrectomie totale exploratrice
+T87	PROC 3403 3433	radiotransfusion scanno-guidée
+T88	DISO 3492 3528	récidive carcinomateuse hypoéchogène
+T89	PROC 3545 3562	abord chirurgical
+T90	MEAS 3581 3586	ACR 4
+T91	PROC 3591 3622	scanner transoesogastroduodénal
+T92	ANAT 3599 3622	transoesogastroduodénal
+T93	DISO 3649 3717	hyperfixation anéchogène réno-rénalienne hyperbasithyroïdienne TSHBG
+T94	Localization 3732 3742	postérieur
+T95	PROC 3766 3817	intervention thérapeutique adjuvante complémentaire
+T96	PROC 3839 3873	reconstruction anatomopathologique
+T97	DISO 3910 3968	processus tumoral érythémateux pelvien néoplasique maligne
+T98	PROC 3991 4047	résection transurétrale cutanée segmentaire endoscopique
+T99	PROC 4057 4084	classification OMSAR/FTIRST
+T100	DISO 4104 4144	léiomyome épidermoïde polypoïde kystique
+T101	MEAS 4152 4157	ACR 3
+T102	CHEM 4220 4243	actinomycète agonitrope

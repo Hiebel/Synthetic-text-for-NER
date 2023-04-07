@@ -1,0 +1,27 @@
+T1	LIVB 4 12	Patiente
+T2	DISO 50 73	hypertension artérielle
+T3	PHEN 63 73	artérielle
+T4	DISO 78 99	détresse respiratoire
+T5	PHEN 87 99	respiratoire
+T6	TEMP 109 121	depuis 10ans
+T7	DISO 142 165	symptômes neurologiques
+T8	Concept_Idea 173 181	histoire
+T9	TEMP 192 197	3mois
+T10	LIVB 204 206	sa
+T11	PROC 207 219	consultation
+T12	Hospital 224 232	urgences
+T13	DISO 239 273	syndrome hémorragique hypertensive
+T14	MEAS 402 408	rapide
+T15	MEAS 418 441	spontanément résolutive
+T16	PROC 465 480	hospitalisation
+T17	ANAT 512 536	intrarachidien liquidien
+T18	LIVB 577 585	patiente
+T19	DISO 681 701	douleurs thoraciques
+T20	ANAT 690 701	thoraciques
+T21	MEAS 801 808	brutale
+T22	ANAT 827 849	liquidienne céphalique
+T23	MEAS 903 914	massivement
+T24	Concept_Idea 919 925	taille
+T25	MEAS 942 947	20 kg
+T26	MEAS 951 957	120 kg
+T27	DEVI 1014 1033	réflexes archaïques

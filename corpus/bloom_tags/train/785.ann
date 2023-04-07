@@ -1,0 +1,25 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 34 42	patiente
+T3	MEAS 46 55	assez bon
+T4	Concept_Idea 56 68	état général
+T5	DISO 70 81	polypnéique
+T6	MEAS 84 97	28 cycles/min
+T7	PHEN 102 107	pouls
+T8	MEAS 111 117	120bpm
+T9	PROC 133 149	examen somatique
+T10	DISO 161 174	particularité
+T11	DISO 191 217	atteinte pleuro-pulmonaire
+T12	ANAT 200 217	pleuro-pulmonaire
+T13	PROC 221 253	auscultation cardio-vascululaire
+T14	ANAT 234 253	cardio-vascululaire
+T15	DISO 294 347	pneumo-dilatation des artères coronaires infarctoïdes
+T16	ANAT 316 347	artères coronaires infarctoïdes
+T17	ANAT 361 382	sinus caverneux droit
+T18	Localization 377 382	droit
+T19	DISO 391 436	œdème cutanéo-muqueux cervico-laryngopharyngé
+T20	ANAT 397 436	cutanéo-muqueux cervico-laryngopharyngé
+T21	ANAT 444 466	membre inférieur droit
+T22	Localization 461 466	droit
+T23	MEAS 476 480	3 cm
+T24	Concept_Idea 484 493	grand axe
+T25	DISO 514 542	tuberculisations purpuriques

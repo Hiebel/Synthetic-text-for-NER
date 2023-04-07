@@ -1,0 +1,21 @@
+T1	LIVB 15 22	patient
+T2	TEMP 81 93	il y a 4 ans
+T3	Hospital 117 138	urgences pédiatriques
+T4	DISO 151 185	symptomatologie neuropsychiatrique
+T5	DISO 187 204	trouble bipolaire
+T6	Concept_Idea 294 306	état général
+T7	PROC 312 327	examen clinique
+T8	DISO 358 371	coma délirant
+T9	LIVB 380 387	patient
+T10	Localization 778 799	deux tiers supérieurs
+T11	LIVB 2160 2175	personnes âgées
+T12	LIVB 2356 2379	familles monoparentales
+T13	MEAS 2403 2408	4 ème
+T14	MEAS 2412 2417	3 ème
+T15	LIVB 2418 2425	enfants
+T16	LIVB 2565 2571	enfant
+T17	LIVB 3169 3187	cousines germaines
+T18	LIVB 3300 3307	famille
+T19	LIVB 3614 3621	garçons
+T20	Hospital 3815 3831	mariage conjugal
+T21	PROC 3876 3893	enquête familiale

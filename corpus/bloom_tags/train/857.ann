@@ -1,0 +1,31 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 69	admise
+T3	Hospital 74 82	urgences
+T4	DISO 101 126	épigastralgies chroniques
+T5	TEMP 148 161	depuis 2 mois
+T6	DISO 178 198	vomissements bilieux
+T7	DISO 200 206	fièvre
+T8	MEAS 224 228	38°C
+T9	MEAS 231 235	39°C
+T10	DISO 238 261	diarrhées hypertoniques
+T11	PROC 280 295	hospitalisation
+T12	Hospital 299 348	centre hospitalier universitaire Hassan II de Fès
+T13	CHEM 354 368	hydrocortisone
+T14	DOSE 383 399	dose d'entretien
+T15	DOSE 403 409	1mg/kg
+T16	TEMP 409 411	/j
+T17	MEAS 444 457	spectaculaire
+T18	PHEN 470 482	respiratoire
+T19	DISO 612 633	troubles métaboliques
+T20	TEMP 698 704	15 ans
+T21	DISO 742 755	symptomatique
+T22	MEAS 777 799	rapidement progressive
+T23	LIVB 856 864	patiente
+T24	PROC 872 881	retraitée
+T25	PROC 949 959	diagnostic
+T26	DISO 1132 1150	tissulorproductive
+T27	MEAS 1162 1177	progressivement
+T28	Concept_Idea 1181 1187	taille
+T29	PROC 1254 1284	échographie abdomino-pelvienne
+T30	ANAT 1266 1284	abdomino-pelvienne
+T31	PROC 1303 1337	pronostic scanno-modensitométrique

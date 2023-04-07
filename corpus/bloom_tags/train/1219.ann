@@ -1,0 +1,32 @@
+T1	LIVB 3 14	jeune homme
+T2	TEMP 18 24	22 ans
+T3	DISO 44 67	polyarthrite rhumatoïde
+T4	ANAT 80 93	massif facial
+T5	PROC 100 111	hospitalisé
+T6	DISO 123 138	symptomatologie
+T7	TEMP 148 162	depuis 04 mois
+T8	LIVB 169 171	sa
+T9	PROC 172 182	consultait
+T10	LIVB 184 186	il
+T11	DISO 216 232	signes cliniques
+T12	DISO 259 279	douleur épigastrique
+T13	ANAT 267 279	épigastrique
+T14	PROC 303 345	traitements anti-inflammatoires adjuvantes
+T15	DOSE 347 354	2 mg/kg
+T17	PROC 364 379	examen clinique
+T18	DISO 391 397	sueurs
+T19	MEAS 398 406	profuses
+T20	Concept_Idea 438 450	état général
+T21	DISO 464 491	détresse respiratoire aiguë
+T22	PHEN 473 491	respiratoire aiguë
+T23	Concept_Idea 522 528	volume
+T24	MEAS 543 551	brunâtre
+T25	MEAS 561 568	modérée
+T26	DISO 592 617	troubles sensitivomoteurs
+T27	PROC 660 690	touchers pelviens explorateurs
+T28	ANAT 669 690	pelviens explorateurs
+T29	DISO 717 757	paralysie motrice prurigineuse nicturale
+T30	PROC 859 893	ponction liquide céphalo-rachidien
+T31	ANAT 868 893	liquide céphalo-rachidien
+T32	DISO 955 970	symptomatologie
+T33	DISO 1006 1047	myxome épidermo-gigantocellulaire tumoral

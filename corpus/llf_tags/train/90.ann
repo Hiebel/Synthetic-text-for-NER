@@ -1,0 +1,39 @@
+T1	MEAS 4 5	1
+T2	LIVB 6 14	Patiente
+T3	MEAS 38 39	6
+T4	LIVB 40 47	enfants
+T5	PROC 67 73	suivis
+T6	TEMP 81 85	2002
+T7	DISO 95 104	céphalées
+T8	TEMP 127 149	deux années auparavant
+T9	Concept_Idea 170 188	type morphologique
+T10	LIVB 225 246	familles consanguines
+T11	DISO 278 309	troubles menstruels irréguliers
+T12	DISO 341 361	infections fongiques
+T13	DISO 397 422	dépassements anictériques
+T14	DISO 483 509	maltraitance psychomotrice
+T15	DISO 540 549	affection
+T16	TEMP 670 674	7ans
+T17	PROC 834 853	étude cytogénétique
+T18	Concept_Idea 876 895	aspect histologique
+T19	LIVB 944 952	patiente
+T20	PROC 1000 1030	séances de rééducation motrice
+T21	PROC 1317 1337	cysto-radioactivités
+T22	ANAT 1374 1395	syndrome prémenstruel
+T23	PROC 1515 1543	corticothérapie concomitante
+T24	CHEM 1545 1555	Cisplatine
+T25	CHEM 1558 1569	Vinblastine
+T26	CHEM 1572 1599	Triméthoprimesulfaméthonium
+T27	DISO 1635 1643	récidive
+T28	DISO 1647 1665	nécrose caséiforme
+T29	DISO 1676 1702	signes clinico-biologiques
+T30	PROC 1758 1785	contrôle neuropsychiatrique
+T31	PROC 1804 1855	réflexes électroencéphalogénératifs scannographique
+T32	PROC 1868 1892	scanner abdomino-pelvien
+T33	ANAT 1876 1892	abdomino-pelvien
+T34	PHEN 1910 1931	distension artérielle
+T35	ANAT 1921 1931	artérielle
+T36	MEAS 1942 1953	120/90 mmHg
+T37	DISO 1976 2046	déficit sensitivo-moteur triceps cervical distalgiemellitus diabétique
+T38	DEVI 2155 2190	processus proprioceptif implantable
+T39	DEVI 2237 2275	amplificateur optique intraauriculaire

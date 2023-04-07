@@ -1,0 +1,38 @@
+T1	LIVB 15 20	homme
+T2	Concept_Idea 40 65	antécédents pathologiques
+T3	MEAS 66 74	notables
+T4	PROC 76 81	admis
+T5	Hospital 86 94	urgences
+T6	DISO 106 129	choc hypovolémique aigu
+T7	DISO 135 151	hyperleucocytose
+T8	ANAT 165 175	sein droit
+T9	Localization 170 175	droit
+T10	TEMP 185 201	depuis 48 heures
+T11	DISO 221 229	apyrexie
+T12	MEAS 241 250	20 kg/m 2
+T13	PROC 254 269	examen clinique
+T14	DISO 286 308	hypotension artérielle
+T15	ANAT 298 308	artérielle
+T16	LIVB 332 334	il
+T17	CHEM 361 367	alcool
+T18	DOSE 381 386	2g/kg
+T19	TEMP 386 391	/jour
+T20	DISO 468 477	métanique
+T21	MEAS 492 514	rapidement progressive
+T22	MEAS 524 537	insupportable
+T23	MEAS 559 574	progressivement
+T24	Concept_Idea 578 584	taille
+T25	MEAS 596 600	10cm
+T26	MEAS 603 608	50 cm
+T27	LIVB 638 646	personne
+T28	DISO 660 674	tumeur maligne
+T29	DISO 686 706	pathologie chronique
+T30	PROC 787 804	touchers vaginaux
+T31	ANAT 796 804	vaginaux
+T32	MEAS 818 839	profondément anormaux
+T33	DISO 871 887	signes kystiques
+T34	DISO 915 1008	œdème papuleux péritrophique cervico-vésiculaire lésionnel prurigineux érythémato-pustuleuses
+T36	MEAS 1033 1037	12mm
+T37	MEAS 1041 1045	16mm
+T38	PROC 1300 1323	TDM abdomino- pelvienne
+T39	ANAT 1304 1323	abdomino- pelvienne

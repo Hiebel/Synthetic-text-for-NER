@@ -1,0 +1,20 @@
+T1	DISO 0 16	nécrose caséeuse
+T2	LIVB 21 29	patiente
+T3	PROC 41 69	chimiothérapie néo adjuvante
+T4	CHEM 79 90	albendazole
+T5	CHEM 97 108	gentamycine
+T6	PROC 124 146	remplissage vasculaire
+T7	ANAT 136 146	vasculaire
+T8	CHEM 154 177	sérum salé hypertonique
+T9	DOSE 179 185	5mg/kg
+T10	TEMP 185 187	/j
+T11	Concept_Idea 239 259	paramètres cliniques
+T12	DISO 289 318	symptômes neuropsychiatriques
+T13	PROC 363 373	opératoire
+T14	TEMP 399 415	1er octobre 2012
+T15	TEMP 422 438	21 novembre 2013
+T16	MEAS 443 451	dernière
+T17	PROC 452 467	cure opératoire
+T18	PROC 622 631	exercices
+T19	LIVB 646 653	malades
+T20	PROC 669 679	traitement

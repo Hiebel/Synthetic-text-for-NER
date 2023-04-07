@@ -1,0 +1,25 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 50 61	antécédents
+T3	MEAS 62 74	particuliers
+T4	PROC 76 88	hospitalisée
+T5	Hospital 92 111	service d'oncologie
+T6	DISO 121 140	carcinose ovarienne
+T7	ANAT 131 140	ovarienne
+T8	PROC 144 159	examen clinique
+T9	PROC 164 173	admission
+T10	LIVB 191 199	patiente
+T11	MEAS 203 212	assez bon
+T12	Concept_Idea 213 225	état général
+T13	PHEN 235 257	réflexes ostéo-cutanés
+T14	ANAT 244 257	ostéo-cutanés
+T15	MEAS 258 267	conservés
+T16	PROC 272 296	ponction liquide ovarien
+T17	ANAT 281 296	liquide ovarien
+T18	CHEM 309 334	polynucléaire neutrophile
+T19	PROC 356 390	dopamine radio-chimiothérapeutique
+T20	PROC 392 395	DRC
+T21	PROC 401 414	sérologie VIH
+T22	MEAS 421 428	positif
+T23	PROC 435 471	tomodensitométrie abdomino-pelvienne
+T24	ANAT 453 471	abdomino-pelvienne
+T25	DISO 499 522	localisations tumorales

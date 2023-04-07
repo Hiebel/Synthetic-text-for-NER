@@ -1,0 +1,14 @@
+T1	LIVB 4 12	patients
+T2	PROC 13 20	traités
+T3	CHEM 25 44	corticoïdes
+T4	CHEM 54 85	amoxicilline-acide
+T5	CHEM 92 106	ciprofloxacine
+T6	TEMP 107 125	pendant
+T7	MEAS 131 136	bonne
+T8	Concept_Idea 137 153	réponse
+T9	TEMP 173 178	6
+T10	Concept_Idea 195 205	antécédent
+T11	LIVB 219 227	familial
+T12	MEAS 228 239	particulier
+T13	DISO 264 286	syndrome
+T14	MEAS 291 301	spécifique

@@ -1,0 +1,48 @@
+T1	LIVB 4 9	femme
+T2	PHEN 49 61	accouchement
+T3	ANAT 105 117	péricardique
+T4	PROC 292 299	traitée
+T5	CHEM 305 343	amoxicilline-acide acétyl clavulanique
+T6	CHEM 346 357	ceftriaxone
+T7	CHEM 385 411	médicaments antibacilliens
+T8	CHEM 417 430	métronidazole
+T9	CHEM 489 503	ciprofloxacine
+T10	CHEM 505 514	quinolone
+T11	CHEM 516 532	sulfaméthoxazole
+T12	CHEM 534 547	dexaméthasone
+T13	CHEM 549 560	rifampicine
+T14	CHEM 562 574	pyrazinamide
+T15	CHEM 576 587	Ethionamide
+T16	CHEM 589 601	Methotrexate
+T17	CHEM 604 615	Cyclosérine
+T18	PROC 648 672	chimiothérapie adjuvante
+T19	CHEM 683 692	docetaxel
+T20	DOSE 698 705	50mg/m²
+T21	CHEM 708 719	Eudrubicine
+T22	DOSE 721 730	2 mg / M²
+T23	CHEM 732 742	Cisplatine
+T24	CHEM 747 760	Fluorouridine
+T25	DISO 1049 1064	symptomatologie
+T26	TEMP 1077 1084	4 jours
+T27	PROC 1095 1110	hospitalisation
+T28	DISO 1147 1160	inflammatoire
+T29	ANAT 1179 1197	membres inférieurs
+T30	LIVB 1218 1226	patiente
+T31	MEAS 1256 1265	purulente
+T32	MEAS 1301 1315	plus accentuée
+T33	DISO 1378 1389	tuberculose
+T34	DISO 1396 1420	maladie cœliaque maligne
+T35	DISO 1435 1444	symptômes
+T36	PHEN 1523 1556	équilibre psychomotrice menstruel
+T37	CHEM 1702 1722	phényle progestérone
+T38	PROC 1800 1823	immuno-hyperstimulation
+T39	DISO 1866 1886	détresse métabolique
+T40	PHEN 1875 1886	métabolique
+T41	PROC 1924 1948	exploration obstétricale
+T42	MEAS 2034 2042	positifs
+T43	DEVI 2058 2066	attentif
+T44	Concept_Idea 2110 2130	chiffres tensionnels
+T45	MEAS 2142 2155	170/100 mm Hg
+T46	DISO 2180 2226	insuffisance centrale du pancréas pancréatique
+T47	Localization 2193 2201	centrale
+T48	ANAT 2205 2226	pancréas pancréatique

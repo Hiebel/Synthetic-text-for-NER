@@ -1,0 +1,35 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 79 84	admis
+T5	Hospital 89 97	urgences
+T6	DISO 107 146	douleurs abdomino-pelviennes aiguëantes
+T7	ANAT 116 135	abdomino-pelviennes
+T8	TEMP 156 170	depuis 6 jours
+T9	PROC 174 189	examen clinique
+T10	PROC 194 203	admission
+T11	LIVB 216 223	patient
+T12	MEAS 227 230	bon
+T13	Concept_Idea 231 243	état général
+T14	PHEN 253 264	tachycardie
+T15	MEAS 277 295	100 battements/min
+T16	DEVI 303 322	pression artérielle
+T17	ANAT 312 322	artérielle
+T18	MEAS 334 343	90/50mmHg
+T19	PROC 348 384	tomodensitométrie abdomino-pelvienne
+T20	ANAT 366 384	abdomino-pelvienne
+T21	PROC 386 409	TDM) abdomino-pelvienne
+T22	ANAT 391 409	abdomino-pelvienne
+T23	DISO 440 460	masse du flanc droit
+T24	ANAT 449 460	flanc droit
+T25	Localization 455 460	droit
+T26	MEAS 470 475	15 cm
+T27	MEAS 480 485	14 cm
+T28	Concept_Idea 488 494	aspect
+T29	MEAS 495 505	hétérogène
+T30	PROC 525 534	injection
+T31	CHEM 538 558	produit de contraste
+T32	ANAT 574 595	parenchyme péritonéal
+T33	ANAT 612 637	parties molles hépatiques
+T34	DISO 664 672	kystique
+T35	DISO 676 690	chondromateuse

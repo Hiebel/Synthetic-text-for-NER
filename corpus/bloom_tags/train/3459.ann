@@ -1,0 +1,41 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 72 80	notables
+T3	PROC 82 87	reçue
+T4	Hospital 92 100	urgences
+T5	DISO 109 133	syndrome d'épigastralgie
+T6	TEMP 143 156	depuis 1 mois
+T7	PROC 160 174	interrogatoire
+T8	DISO 198 218	douleur épigastrique
+T9	ANAT 206 218	épigastrique
+T10	PHEN 223 230	tolérée
+T11	DISO 246 271	vomissements alimentaires
+T12	PROC 276 319	tomodensitométrie du membre supérieur droit
+T13	ANAT 297 319	membre supérieur droit
+T14	Localization 314 319	droit
+T15	PROC 321 325	MUSD
+T17	MEAS 409 413	17cm
+T18	Concept_Idea 417 426	grand axe
+T19	ANAT 441 475	artère hépato-surrénalienne droite
+T20	Localization 469 475	droite
+T21	DISO 492 574	adénopathies péripancréatiques latéro-stercoronaires périrénaux hypovolématisantes
+T23	Concept_Idea 580 587	contour
+T24	MEAS 588 596	régulier
+T25	DISO 634 662	tumeur kystique épigastrique
+T26	MEAS 693 709	bien circonscrit
+T27	PROC 716 737	image parenchymateuse
+T28	DISO 752 785	nodule tissulaire hyperhétérogène
+T29	PROC 857 889	fibroscopie oeso-gastroduodénale
+T30	ANAT 869 889	oeso-gastroduodénale
+T31	MEAS 896 903	normale
+T32	PROC 918 945	scintigraphie ganglionnaire
+T33	ANAT 932 945	ganglionnaire
+T34	DISO 959 1018	hyperphosphatémie ganglionnaire paucicarcinomateuse maligne
+T35	LIVB 1050 1058	patiente
+T36	DISO 1077 1137	carcinome parathyroïdien superficiel cœléo-néphrotuberculose
+T38	DISO 1241 1254	épigastralgIE
+T39	MEAS 1282 1289	brutale
+T40	MEAS 1315 1327	environ 2 kg
+T41	LIVB 1331 1335	elle
+T42	PROC 1421 1442	échographie pelvienne
+T43	ANAT 1433 1442	pelvienne
+T44	MEAS 1460 1468	négative

@@ -1,0 +1,92 @@
+T1	PROC 3 22	examens biologiques
+T2	DISO 41 47	anémie
+T3	MEAS 50 57	9,7g/dl
+T4	Concept_Idea 66 70	taux
+T5	PROC 73 84	hémoglobine
+T6	MEAS 87 95	8,2 g/dL
+T7	PROC 99 116	examen des urines
+T8	ANAT 110 116	urines
+T9	DISO 144 166	sténose du rein gauche
+T10	ANAT 155 166	rein gauche
+T11	Localization 160 166	gauche
+T12	MEAS 170 174	6 cm
+T13	DISO 187 193	signes
+T14	DISO 220 236	nécrose caséeuse
+T15	DISO 246 262	foyer infectieux
+T16	PROC 267 297	TDM thoraco abdomino-pelvienne
+T17	ANAT 271 297	thoraco abdomino-pelvienne
+T18	PHEN 332 350	état hémodynamique
+T19	LIVB 389 395	jumeau
+T20	TEMP 403 408	3 ans
+T21	PROC 423 428	admis
+T22	Hospital 432 447	bloc opératoire
+T23	DISO 459 476	choc psychomoteur
+T24	CHEM 504 518	neuroleptiques
+T25	DISO 544 556	complication
+T26	MEAS 589 596	simples
+T27	PROC 602 624	traitement substitutif
+T28	CHEM 639 660	antibioprophylaxiques
+T29	DOSE 705 710	50 mg
+T30	TEMP 710 714	/24h
+T31	CHEM 717 748	amoxicilline acide clavulanique
+T32	DOSE 750 755	30 mg
+T33	TEMP 755 759	/24h
+T34	CHEM 764 775	céftriaxone
+T35	DOSE 777 782	20 mg
+T36	TEMP 782 786	/24h
+T37	PROC 793 818	chimiothérapie palliative
+T38	MODE 823 841	voie intraveineuse
+T39	PROC 875 905	radiothérapie adjuvante locale
+T40	ANAT 918 940	membre supérieur droit
+T41	Localization 935 940	droit
+T42	PROC 1016 1035	bilan préopératoire
+T43	DISO 1068 1096	troubles neuropsychiatriques
+T44	DEVI 1111 1131	clinique ambulatoire
+T45	DISO 1177 1187	métastases
+T46	LIVB 1228 1236	patients
+T47	LIVB 1297 1303	enfant
+T48	TEMP 1312 1318	4 mois
+T49	LIVB 1406 1408	sa
+T50	LIVB 1409 1422	belle-famille
+T51	Concept_Idea 1428 1431	âge
+T52	TEMP 1435 1446	quatre mois
+T53	PROC 1457 1463	suivie
+T54	PROC 1473 1494	méthode contraceptive
+T55	PROC 1520 1527	mariage
+T56	PROC 1539 1557	contrôle prénatale
+T57	DISO 1824 1859	symptôme polymalformatif congénital
+T58	DISO 1916 1941	manifestations somatiques
+T59	TEMP 2085 2103	depuis deux années
+T60	DISO 2274 2300	maladie cœliaque primitive
+T62	MEAS 2464 2501	0,1 fois la limite supérieure tolérée
+T63	MEAS 2518 2593	1500 UI/kg Poids sec plaquettaire moyen pondéré inférieur à 500 millilitres
+T64	MEAS 2601 2614	17000 grammes
+T65	MEAS 2620 2623	23%
+T66	PROC 2648 2677	prise en charge thérapeutique
+T67	TEMP 2744 2755	trois jours
+T68	PROC 2768 2783	radiodiagnostic
+T69	PROC 2883 2909	hystérectomie exploratrice
+T70	PROC 2915 2932	anesthésie locale
+T71	PROC 2939 2962	traitement antibiotique
+T72	CHEM 2964 2976	amoxicilline
+T73	CHEM 2979 3004	acide acétyle salicylique
+T74	MEAS 3044 3057	plus efficace
+T75	PROC 3072 3090	antibioprophylaxie
+T76	PHEN 3104 3127	grossesses monofoetales
+T77	TEMP 3152 3175	deux semaines plus tard
+T78	LIVB 3204 3211	enfants
+T79	DISO 3271 3285	particularités
+T80	DISO 3322 3348	déficit neuropsychiatrique
+T81	LIVB 3396 3401	notre
+T82	LIVB 3402 3410	patiente
+T83	LIVB 3414 3417	son
+T84	LIVB 3418 3426	conjoint
+T85	PROC 3476 3503	analyse anatomopathologique
+T86	MEAS 3517 3524	normale
+T87	DISO 3845 3883	dérivités psychiatriques tuberculeuses
+T88	LIVB 3929 3938	personnes
+T89	PROC 4529 4562	consultations pluridisciplinaires
+T90	LIVB 4673 4679	garçon
+T91	TEMP 4687 4693	14 ans
+T92	LIVB 4829 4839	nouveau-né
+T93	PROC 5025 5049	échographie obstétricale

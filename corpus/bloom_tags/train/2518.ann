@@ -1,0 +1,52 @@
+T1	LIVB 9 14	homme
+T2	TEMP 18 24	17 ans
+T3	DISO 45 67	chute d’un échafaudage
+T4	ANAT 74 83	œil droit
+T5	Localization 78 83	droit
+T6	LIVB 102 105	lui
+T7	DISO 109 130	détresse respiratoire
+T8	PHEN 118 130	respiratoire
+T9	MEAS 145 156	progressive
+T10	PROC 173 195	traitement chirurgical
+T11	PROC 201 235	transfusion sanguine intraveineuse
+T12	PROC 248 273	remplissage intrarétinien
+T13	ANAT 260 273	intrarétinien
+T14	DOSE 282 287	0,5 g
+T15	CHEM 290 304	hydrocortisone
+T16	DEVI 415 435	cathères artificiels
+T17	PROC 462 487	surveillance endoscopique
+T18	DISO 509 525	récidive tumoral
+T19	DISO 532 556	métastases métastatiques
+T20	DISO 573 595	décollements rétiniens
+T21	ANAT 586 595	rétiniens
+T22	DISO 639 646	lésions
+T23	DISO 739 780	paragangliome épithélio-gigantocellulaire
+T24	PROC 916 943	recherche histopathologique
+T25	PROC 950 975	étude immunohistochimique
+T26	PROC 976 983	HC/ IHC
+T27	PROC 1127 1149	scanner endobronchique
+T28	ANAT 1135 1149	endobronchique
+T29	DISO 1176 1197	adénopathies malignes
+T30	ANAT 1208 1219	intestinale
+T31	Concept_Idea 1249 1258	grand axe
+T32	ANAT 1280 1312	structures visuels/ovésiculaires
+T33	DISO 1341 1362	nécrose érythémateuse
+T34	DISO 1419 1434	empyème nécrosé
+T35	PROC 1485 1509	laparotomie exploratrice
+T36	MEAS 1618 1621	2cm
+T37	Concept_Idea 1625 1634	grand axe
+T38	DISO 1738 1768	résidu cicatriciel prurigineux
+T39	PROC 1845 1870	sérologie rétrovirale VIH
+T40	MEAS 1877 1886	négativée
+T41	MEAS 1940 1957	fortement positif
+T42	PROC 1962 1979	natrémie corrigée
+T43	MEAS 1988 1997	126 meq/l
+T44	PROC 2002 2033	dosage de l'hémoglobine glyquée
+T45	MEAS 2042 2044	7%
+T46	PROC 2047 2069	auscultation cardiaque
+T47	ANAT 2060 2069	cardiaque
+T48	DISO 2092 2140	syndrome d'épanchement thoracique basithoracique
+T49	ANAT 2115 2140	thoracique basithoracique
+T50	MEAS 2151 2155	14 %
+T51	DISO 2205 2228	anomalies neurologiques
+T52	DISO 2253 2277	déficit sensitivomotrice

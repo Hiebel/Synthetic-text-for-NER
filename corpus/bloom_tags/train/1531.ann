@@ -1,0 +1,32 @@
+T1	LIVB 4 7	M.K
+T2	Localization 24 32	droitier
+T3	DISO 64 91	épanchement intrapéritonéal
+T4	ANAT 76 91	intrapéritonéal
+T5	TEMP 113 122	une année
+T6	MEAS 137 143	rapide
+T7	Concept_Idea 188 200	état général
+T8	DISO 234 255	détresse respiratoire
+T9	PHEN 243 255	respiratoire
+T10	DISO 271 304	syndrome inflammatoire biologique
+T11	PROC 306 308	VS
+T12	PROC 323 338	examen clinique
+T13	LIVB 352 360	patiente
+T14	DISO 361 368	fébrile
+T15	MEAS 371 377	39°8 C
+T16	DISO 380 391	polypnéique
+T17	MEAS 394 407	22 cycles/min
+T18	DISO 423 455	diarrhée hypochrome microcytaire
+T19	MEAS 468 473	lente
+T20	TEMP 482 498	depuis deux mois
+T21	DISO 524 583	œdème sous-muculaire cervico-thoracique thoracique infiltré
+T23	DISO 589 629	masse latéro-surrénalienne périgastrique
+T24	ANAT 644 674	membres supérieurs/thoraciques
+T25	MEAS 684 689	20 cm
+T26	Concept_Idea 693 702	grand axe
+T27	ANAT 728 773	sinus supraganglionnaire laryngéo médiastinal
+T28	LIVB 841 849	patiente
+T29	DISO 931 946	kyste hydatique
+T30	DISO 972 990	tumeur gynécélaire
+T31	CHEM 1014 1069	immuno-hormonothérapie adjuvante alpha-fœtoprogestative
+T32	PROC 1121 1141	prise médicamenteuse
+T33	DEVI 1181 1203	médicaments génériques

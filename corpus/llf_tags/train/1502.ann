@@ -1,0 +1,20 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 35	3 mois
+T3	DISO 59 75	accident de vélo
+T4	LIVB 94 97	son
+T5	LIVB 98 102	père
+T6	PROC 168 206	classification de Koppenreizer AEW/FBP
+T7	LIVB 263 269	enfant
+T8	PROC 274 283	transfusé
+T9	LIVB 305 307	sa
+T10	LIVB 308 318	belle-mère
+T11	DISO 329 351	hémoptysies partielles
+T12	ANAT 369 392	membre inférieur utérin
+T13	MEAS 454 466	persistantes
+T14	MEAS 499 511	spontanément
+T15	MEAS 550 554	4 cm
+T16	MEAS 558 571	2 centimètres
+T17	DISO 580 595	symptomatologie
+T18	TEMP 610 637	plusieurs années auparavant
+T19	LIVB 653 660	parents
+T20	DISO 709 731	pathologies chroniques

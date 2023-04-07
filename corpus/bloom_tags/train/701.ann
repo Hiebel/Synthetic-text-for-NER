@@ -1,0 +1,21 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 41 52	antécédents
+T3	MEAS 53 65	particuliers
+T4	PROC 67 73	admise
+T5	DISO 82 117	syndrome d'épanchement péricardique
+T6	ANAT 105 117	péricardique
+T7	DISO 125 143	troubles du rythme
+T8	PHEN 137 143	rythme
+T9	DISO 153 178	instabilité psychomotrice
+T10	PROC 182 197	examen clinique
+T11	LIVB 211 219	patiente
+T12	Concept_Idea 234 252	plan hémodynamique
+T13	PROC 277 296	bilan préopératoire
+T14	PROC 310 343	échocardiographie transthoracique
+T15	ANAT 328 343	transthoracique
+T16	MEAS 364 371	normaux
+T17	PROC 375 412	intradermoréaction à la sulfasalazine
+T18	CHEM 399 412	sulfasalazine
+T19	DOSE 414 420	1mg/kg
+T20	TEMP 420 422	/j
+T21	MODE 443 448	bolus

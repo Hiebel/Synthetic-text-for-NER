@@ -1,0 +1,35 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	LIVB 41 46	fille
+T4	TEMP 55 61	10 ans
+T5	PROC 65 81	examen somatique
+T6	PHEN 94 104	nouveau-né
+T7	Concept_Idea 119 141	plan cutanéo-végétatif
+T8	DISO 160 174	amaigrissement
+T9	MEAS 185 190	30 kg
+T10	TEMP 194 203	deux mois
+T11	Concept_Idea 220 226	taille
+T12	PROC 233 262	échographie cardio-vasculaire
+T13	ANAT 245 262	cardio-vasculaire
+T14	DISO 302 338	hypertrophie pulmonaire systématisée
+T15	ANAT 315 338	pulmonaire systématisée
+T16	DISO 352 396	épanchement péricardique infarcto-péritonéal
+T17	ANAT 364 396	péricardique infarcto-péritonéal
+T18	DISO 453 491	syndrome d'épanchement intrapéritonéal
+T19	ANAT 476 491	intrapéritonéal
+T20	DISO 493 552	thrombus cérébro-ganglionnaire intrahypophyso-hypophagienne
+T22	MEAS 657 661	46mm
+T23	MEAS 665 669	36mm
+T24	DISO 683 778	circulation intra-tissulaire basithoracique hyo-laryngectasique craniothoracique scallopédieuse
+T26	MEAS 797 823	de plus en plus fréquentes
+T27	ANAT 872 896	parathyroïdien purulents
+T28	LIVB 921 928	famille
+T29	MEAS 975 988	satisfaisante
+T30	DISO 1038 1081	adénopathies ptérygo-intestinales grêlantes
+T31	MEAS 1091 1106	progressivement
+T32	DISO 1140 1167	douleur pelvienne chronique
+T33	ANAT 1148 1167	pelvienne chronique
+T34	MEAS 1182 1192	rapoureuse
+T35	LIVB 1228 1233	notre
+T36	TEMP 1327 1332	2 ans
+T37	DISO 1359 1373	ictère fébrile

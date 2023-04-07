@@ -1,0 +1,32 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	Concept_Idea 40 45	poids
+T4	MEAS 49 54	14 kg
+T6	Hospital 69 90	urgences pédiatriques
+T7	Hospital 94 143	centre Hospitalier Universitaire Hassan II de Fès
+T8	DISO 179 192	symptomatique
+T9	MEAS 207 218	progressive
+T10	PROC 233 239	admise
+T11	PROC 245 272	traitement antibacillémique
+T12	CHEM 285 296	rifampicine
+T13	CHEM 298 310	pyrazinamide
+T14	CHEM 312 323	ethionamide
+T15	CHEM 325 343	éthylhexaméthasone
+T16	CHEM 345 355	isoniazide
+T17	CHEM 357 368	Ethionamide
+T18	CHEM 370 381	Cyclosérine
+T19	CHEM 383 396	Triméthoprime
+T20	CHEM 398 410	Pyrazinamide
+T21	CHEM 412 423	Ceftriaxone
+T22	CHEM 425 440	Chloramphénicol
+T23	CHEM 442 450	Diazépam
+T24	CHEM 452 471	Pralido-oxifentanil
+T25	LIVB 513 521	patiente
+T26	DISO 526 560	malformations thromboembolismantes
+T27	DISO 582 607	pathologies pathologiques
+T28	DISO 619 642	pancréatopathie maligne
+T29	DISO 644 664	diabète hypertensive
+T30	DISO 667 690	hypertension artérielle
+T31	ANAT 680 690	artérielle
+T32	DISO 701 732	facteurs rhumato-supplémentants
+T33	PROC 843 885	protocole d'immunochimiothérapie adjuvante

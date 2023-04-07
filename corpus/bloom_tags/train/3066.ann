@@ -1,0 +1,84 @@
+T1	LIVB 3 10	patient
+T2	PROC 40 70	traitement médical substitutif
+T3	CHEM 81 99	hydroxychloroquine
+T4	DOSE 101 108	3 mg/kg
+T5	TEMP 108 113	/jour
+T6	CHEM 116 129	carbamazépine
+T7	DOSE 131 136	20 mg
+T8	TEMP 136 138	/j
+T9	CHEM 141 154	acénocoumarol
+T10	DOSE 156 162	120 mg
+T11	TEMP 162 164	/j
+T12	CHEM 167 178	ethionamide
+T13	DOSE 180 186	200 mg
+T14	TEMP 186 188	/j
+T15	CHEM 191 209	méthylprédnisolone
+T16	DOSE 211 218	1 mg/kg
+T17	TEMP 218 220	/j
+T18	CHEM 223 236	bétaméthasone
+T19	DOSE 238 243	60 mg
+T20	TEMP 243 245	/j
+T21	CHEM 248 261	dexaméthasone
+T22	DOSE 263 268	50 mg
+T23	TEMP 268 270	/j
+T24	CHEM 273 283	cisplatine
+T25	DOSE 285 290	40 mg
+T26	TEMP 290 292	/j
+T27	CHEM 295 308	triméthoprime
+T28	DOSE 310 315	30 mg
+T29	TEMP 315 317	/j
+T30	CHEM 322 338	sulfaméthoxazole
+T31	DOSE 340 343	2 g
+T32	TEMP 343 345	/j
+T33	PROC 351 361	diagnostic
+T34	DISO 383 422	hyperparathyroïdie congénitale primaire
+T35	PROC 427 467	dosage de l'hormonothérapie substitutive
+T36	MODE 472 482	voie orale
+T37	MEAS 496 503	négatif
+T38	PROC 526 552	investigations biologiques
+T39	MEAS 561 569	normales
+T40	PROC 582 601	hémoglobine glyquée
+T41	MEAS 603 605	7%
+T42	PROC 607 620	globule rouge
+T43	MEAS 622 647	12300 globules blancs/mm3
+T44	PROC 650 662	ferritinémie
+T45	MEAS 664 673	70 µmol/l
+T46	DEVI 677 696	seringue électrique
+T47	PROC 702 713	transférées
+T48	Hospital 717 728	laboratoire
+T49	PROC 746 757	reconduites
+T50	PROC 764 792	ligature transplacentarienne
+T51	PROC 798 828	anastomose artério-vésiculaire
+T52	ANAT 809 828	artério-vésiculaire
+T53	PROC 900 923	évacuation chirurgicale
+T54	PROC 928 950	natrémie peropératoire
+T55	MEAS 959 970	135 meq/m 2
+T56	PROC 986 994	kaliémie
+T57	MEAS 997 1006	9 meq/m 2
+T58	PROC 1020 1032	cortisolémie
+T59	MEAS 1035 1049	0,5 mEq/kg/min
+T60	DISO 1116 1131	symptomatologie
+T61	MEAS 1141 1164	de plus en plus pesante
+T62	MEAS 1179 1188	spontanée
+T63	PROC 1205 1235	traumatisme pluridisciplinaire
+T64	PROC 1256 1283	ponction liquide péritonéal
+T65	ANAT 1265 1283	liquide péritonéal
+T66	PROC 1298 1329	intubation ventriculo-trachéale
+T67	ANAT 1309 1329	ventriculo-trachéale
+T68	DISO 1451 1470	tuméfaction maligne
+T69	ANAT 1521 1540	tissu conjonctivale
+T70	MEAS 1550 1554	6 cm
+T71	Concept_Idea 1558 1567	grand axe
+T72	DISO 1598 1635	léiomyome épithélio-gigantocellulaire
+T73	LIVB 1910 1917	malades
+T74	DISO 1980 1995	kyste hydatique
+T75	DISO 2030 2038	nécroses
+T76	ANAT 2171 2180	pelvienne
+T77	PROC 2186 2214	échodoppler abdomino-pelvien
+T78	ANAT 2198 2214	abdomino-pelvien
+T79	DISO 2232 2267	épanchement sous cutané du pancréas
+T80	Localization 2244 2248	sous
+T81	ANAT 2259 2267	pancréas
+T82	ANAT 2282 2309	rehaussées cervico-faciales
+T83	PROC 2313 2339	examen anatomopathologique
+T84	DISO 2354 2392	adénocarcinome érythémateux gélatineux

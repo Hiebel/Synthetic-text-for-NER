@@ -1,0 +1,24 @@
+T1	LIVB 3 10	patient
+T2	PHEN 81 90	grossesse
+T3	PROC 95 101	suivie
+T4	TEMP 111 123	depuis 2 ans
+T5	DISO 139 175	dégénérescence utérine cicatricielle
+T6	ANAT 154 175	utérine cicatricielle
+T7	PROC 221 241	hystérectomie totale
+T8	PROC 247 277	anesthésie abdomino- pelvienne
+T9	ANAT 258 277	abdomino- pelvienne
+T10	PROC 283 316	curage ganglionnaire sous-vaginal
+T11	ANAT 304 316	sous-vaginal
+T12	PROC 330 358	parotidectomie conservatrice
+T13	Hospital 380 419	Chirurgies Universitaires de Lubumbashi
+T14	DISO 438 475	syndrome d'épanchement intracavitaire
+T15	ANAT 461 475	intracavitaire
+T16	DISO 489 520	thrombose artériolo-myocardiale
+T17	ANAT 499 520	artériolo-myocardiale
+T18	DISO 534 565	adénocarcinome pléométastatique
+T19	MEAS 793 805	10 000 UI/mL
+T20	PROC 809 833	exploration chirurgicale
+T21	DISO 858 928	masse tissulaire angulo-canaliculaire pariétale latérale hypertrophiée
+T22	MEAS 938 941	2cm
+T23	Concept_Idea 945 954	grand axe
+T24	ANAT 1019 1049	structures ovariennes utérines

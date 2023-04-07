@@ -1,0 +1,46 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 69	admise
+T3	Hospital 74 99	urgences ophtalmologiques
+T4	DISO 118 135	uvéite ischémique
+T5	DISO 175 194	traumatisme fébrile
+T6	DISO 207 216	symptômes
+T7	DISO 243 264	détresse respiratoire
+T8	PHEN 252 264	respiratoire
+T9	DISO 271 277	fièvre
+T10	DISO 284 305	troubles métaboliques
+T11	TEMP 315 328	depuis 1 mois
+T12	LIVB 335 337	sa
+T13	PROC 338 353	hospitalisation
+T14	CHEM 359 372	antibiotiques
+T15	CHEM 378 408	Amoxicilline/Acido-ceftriaxone
+T16	DISO 461 473	hyperthermie
+T17	LIVB 509 517	patiente
+T18	DISO 551 583	prise médicamenteuse traumatique
+T19	DISO 590 598	vertiges
+T20	DISO 641 652	bradycardie
+T21	MEAS 663 679	90 battements/mn
+T22	DISO 696 718	tirage vasculo-nerveux
+T23	ANAT 703 718	vasculo-nerveux
+T25	DISO 850 871	perte de connaissance
+T26	PROC 921 957	scanner abdominopelvien scanno-guidé
+T27	ANAT 929 957	abdominopelvien scanno-guidé
+T28	DISO 986 1002	signes cliniques
+T29	DISO 1018 1043	vomissements alimentaires
+T30	DISO 1151 1174	désordre gastroduodénal
+T31	DISO 1298 1395	maladie cutanée érythémato-muqueuse kératosique bulleuse ulcéro-nécrotico-bourgeonnante purulente
+T32	DISO 1443 1471	infiltrat liquide péritonéal
+T33	ANAT 1453 1471	liquide péritonéal
+T34	PROC 1979 2014	intradermonéaction à la tuberculine
+T35	CHEM 2003 2014	tuberculine
+T36	MEAS 2027 2034	positif
+T37	MEAS 2037 2043	1/1280
+T38	PROC 2058 2071	examen direct
+T39	MEAS 2078 2085	négatif
+T40	LIVB 2090 2098	patiente
+T41	PROC 2114 2139	traitement antibacillaire
+T42	CHEM 2153 2164	riftriaxone
+T43	DOSE 2166 2172	500 mg
+T44	TEMP 2172 2177	/jour
+T45	CHEM 2186 2199	bêtaméthasone
+T46	DOSE 2201 2207	1mg/kg
+T47	TEMP 2207 2209	/j

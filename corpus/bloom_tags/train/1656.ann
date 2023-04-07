@@ -1,0 +1,30 @@
+T1	LIVB 16 24	patiente
+T2	TEMP 58 62	2008
+T3	DISO 67 91	pancréatite hypertensive
+T4	TEMP 101 114	depuis 6 mois
+T5	DISO 130 148	cholécystite aiguë
+T6	PHEN 184 199	acuité visuelle
+T7	LIVB 201 205	Elle
+T8	PROC 216 228	hospitalisée
+T9	Hospital 232 260	service de gastroentérologie
+T10	Hospital 264 313	Centre Hospitalier universitaire Hassan II de Fès
+T11	PROC 319 354	anesthésie cérébrale transcranienne
+T12	ANAT 330 354	cérébrale transcranienne
+T13	PROC 368 391	radiothérapie adjuvante
+T14	ANAT 404 442	parenchyme ovarien hypophyso-myometral
+T15	ANAT 540 581	replats ganglionnaire cervico-surrénalien
+T16	MEAS 631 636	11 cm
+T17	Concept_Idea 640 649	grand axe
+T18	PROC 665 698	imagerie par résonance magnétique
+T19	PROC 699 702	IRM
+T20	PROC 707 732	intervention chirurgicale
+T21	PROC 753 786	anesthésie locorégionale méningée
+T22	ANAT 764 786	locorégionale méningée
+T23	PROC 802 837	intubation nasotrachéale péridurale
+T24	ANAT 813 837	nasotrachéale péridurale
+T25	PROC 865 901	extubation somno-électro-chirurgical
+T26	DISO 930 947	récidive tumorale
+T27	PROC 971 1001	échographie abdomino pelvienne
+T28	ANAT 983 1001	abdomino pelvienne
+T29	DISO 1029 1045	lésions kystique
+T30	DISO 1098 1123	adénocarcinome pléomorphe

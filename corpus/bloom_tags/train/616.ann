@@ -1,0 +1,17 @@
+T1	LIVB 29 37	patiente
+T2	DISO 59 84	antécédents pathologiques
+T3	MEAS 85 93	notables
+T4	PROC 104 110	admise
+T5	Hospital 114 129	bloc opératoire
+T6	DISO 142 179	tuberculose du membre supérieur droit
+T7	ANAT 157 179	membre supérieur droit
+T8	Localization 174 179	droit
+T9	PROC 183 208	intervention chirurgicale
+T10	PROC 229 248	anesthésie générale
+T11	DEVI 298 323	cathéter veineux périnéal
+T12	ANAT 307 323	veineux périnéal
+T13	PROC 327 352	étude anatomopathologique
+T14	PROC 356 375	immunohistochimique
+T15	DISO 405 433	épiderme atrophique purulent
+T16	Concept_Idea 436 443	aspects
+T17	LIVB 482 491	patientes

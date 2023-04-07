@@ -1,0 +1,20 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 20 23	son
+T4	LIVB 46 52	enfant
+T5	Concept_Idea 77 95	plan hémodynamique
+T6	PHEN 99 111	respiratoire
+T7	MEAS 116 119	bon
+T8	Concept_Idea 120 132	état général
+T9	DISO 142 153	sensibilité
+T10	ANAT 170 190	fosse iliaque droite
+T11	Localization 184 190	droite
+T12	PROC 206 222	examen somatique
+T13	DISO 234 247	particularité
+T14	PROC 252 282	bilan biologique préopératoire
+T16	PROC 296 304	natrémie
+T17	PROC 306 314	kaliémie
+T18	PROC 317 337	analgésie péridurale
+T19	DOSE 342 351	0,5 mg/kg
+T20	TEMP 351 353	/j
+T21	CHEM 356 387	amoxicilline-acide clavulanique
+T22	PROC 401 431	antibiothérapie antibacillaire

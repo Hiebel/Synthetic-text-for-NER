@@ -1,0 +1,80 @@
+T1	LIVB 20 25	fille
+T2	TEMP 34 40	11 ans
+T3	DISO 57 70	consanguinité
+T4	DISO 77 96	contage tuberculeux
+T5	LIVB 109 113	elle
+T6	PROC 136 153	tomodensitométrie
+T8	ANAT 163 185	membre supérieur droit
+T9	Localization 180 185	droit
+T10	Hospital 199 206	urgence
+T11	DISO 248 270	niveaux hydro-aériques
+T12	ANAT 279 320	région ano-thyroïdienne inférieure droite
+T13	Localization 314 320	droite
+T14	Concept_Idea 329 341	score SLEDAE
+T15	MEAS 348 356	6 points
+T16	PROC 361 371	diagnostic
+T17	DISO 389 425	néoplasie thyroïdienne hyperplasique
+T18	DISO 443 487	hyperparathyroïdie primaire polymalpighienne
+T19	MEAS 507 511	deux
+T20	LIVB 512 519	enfants
+T21	MEAS 553 563	prématurés
+T22	PROC 713 739	hystérectomie exploratrice
+T23	PROC 753 792	anastomose antéro-septale scanno-guidée
+T24	PROC 826 846	reprise chirurgicale
+T25	PROC 873 899	étude anatomo-pathologique
+T26	Hospital 910 931	urgences pédiatriques
+T27	DISO 953 988	lésions dysfonctionnelles kystiques
+T28	DISO 1016 1053	récidive hépatocytaires intrakystique
+T29	ANAT 1025 1053	hépatocytaires intrakystique
+T30	DISO 1107 1132	symptomatologie néonatale
+T31	PROC 1136 1147	échographie
+T33	Localization 1279 1297	bilatérale médiane
+T34	MEAS 1306 1312	3/2 cm
+T35	MEAS 1322 1329	13×14mm
+T36	MEAS 1344 1354	rapidement
+T37	PROC 1361 1370	injection
+T38	DISO 1401 1500	métastase métastatique péribronchovasculaire bourgeonnante rétro achromico-mandibulaire infiltrante
+T39	PROC 1505 1549	scintigraphie œsogastroduodénale segmentaire
+T40	ANAT 1519 1549	œsogastroduodénale segmentaire
+T41	DISO 1574 1670	nodules digitiformes grêliques éosinophiles médiastinaux mésenchymateux hétérotopiques malformés
+T42	DEVI 1699 1739	fibres gélatines adrénalino-sous cutanés
+T43	DISO 1763 1776	inflammatoire
+T44	DISO 1801 1821	cytoplasme exsudatif
+T45	PROC 1826 1860	contrôle obstétrical échographique
+T46	DISO 1882 1934	distension utérine fœtale pariéto-mésaraique in situ
+T48	PROC 1955 1965	extraction
+T49	DISO 1979 1997	gêne fonctionnelle
+T50	DISO 2026 2051	détresse foeto-maternelle
+T51	PHEN 2035 2051	foeto-maternelle
+T52	MEAS 2061 2074	insupportable
+T53	DISO 2088 2100	complication
+T54	MEAS 2112 2127	progressivement
+T55	Concept_Idea 2156 2177	limites chirurgicales
+T56	TEMP 2210 2227	5 jours plus tard
+T57	LIVB 2275 2304	familles sado-médicamenteuses
+T58	Concept_Idea 2350 2363	domaine vital
+T59	Concept_Idea 2369 2389	aspect morphologique
+T60	PROC 2425 2454	prise en charge thérapeutique
+T61	DISO 2515 2559	métastases du pédicule péritonéal anévrismal
+T62	ANAT 2529 2559	pédicule péritonéal anévrismal
+T63	DISO 2617 2690	métastase tubulo-occipitale endométrial des anses intestinales fistulisée
+T64	ANAT 2661 2690	anses intestinales fistulisée
+T65	PROC 2741 2766	tumorectomie exploratrice
+T66	PROC 2803 2825	traction scanno-guidée
+T67	PROC 2888 2913	étude cytobactériologique
+T68	DISO 2931 2956	tissus tumoraux atypiques
+T69	MEAS 3058 3076	bien différenciées
+T70	DISO 3097 3152	carcinomes mucineux bilieux hyperchromiques polymorphes
+T71	DISO 3177 3223	remaniements secondaires liquidiens mitotiques
+T72	DISO 3270 3297	polynucléaires dysplasiques
+T73	ANAT 3311 3350	noyaux lymphoïdes épidermoïdes jéjunaux
+T74	PROC 3395 3408	histochimique
+T75	CHEM 3424 3441	culots phénotypés
+T76	PROC 3521 3596	anticorps monoclonaux IgG anti-synaptophysine Acide Sulfaméthoxazole Ringer
+T77	PROC 3597 3634	anti-CD10nephenolone Facteur Vanguard
+T78	Concept_Idea 3670 3688	profil étiologique
+T79	DISO 3728 3776	métastases carcinomateuses intracrânio-aortiques
+T80	LIVB 3849 3866	parents maternels
+T81	PROC 3871 3890	suivi préopératoire
+T82	PROC 3922 4008	néphrectomie élargie transoesophagienne monocytaire axillaire rémissionnelle type EMBR
+T83	PROC 4027 4053	hystéroscopie diagnostique

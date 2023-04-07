@@ -1,0 +1,29 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	Concept_Idea 42 67	antécédents pathologiques
+T4	MEAS 68 76	notables
+T5	PROC 78 83	admis
+T6	Hospital 88 96	urgences
+T7	DISO 106 127	détresse respiratoire
+T8	ANAT 115 127	respiratoire
+T9	DISO 134 167	syndrome d'épanchement péritonéal
+T10	ANAT 157 167	péritonéal
+T11	PROC 171 191	examen gynécologique
+T12	PHEN 208 229	contractions utérines
+T13	ANAT 221 229	utérines
+T14	MEAS 230 237	intense
+T15	ANAT 251 261	col utérin
+T16	MEAS 266 270	4 cm
+T17	MEAS 273 277	3 cm
+T18	Localization 279 290	bilatérales
+T19	Concept_Idea 293 303	amplitudes
+T20	MEAS 304 324	supra-centimétriques
+T21	PROC 328 359	échographie abdomino--pelvienne
+T22	ANAT 340 359	abdomino--pelvienne
+T23	DEVI 399 416	cathéter périnéal
+T24	MEAS 507 512	17 mm
+T25	Concept_Idea 516 525	grand axe
+T26	PROC 545 554	injection
+T27	CHEM 558 578	produit de contraste
+T28	ANAT 600 612	ovaire droit
+T29	Localization 607 612	droit

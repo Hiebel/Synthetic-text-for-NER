@@ -1,0 +1,49 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 17 23	12 ans
+T3	Hospital 42 63	urgences pédiatriques
+T4	DISO 83 104	détresse respiratoire
+T5	TEMP 114 130	depuis 72 heures
+T6	DISO 146 165	pleurésie purulente
+T7	MEAS 180 191	progressive
+T9	ANAT 214 226	épigastrique
+T10	DISO 236 249	inflammatoire
+T11	CHEM 272 283	antalgiques
+T12	CHEM 298 308	sufentanil
+T13	DOSE 309 317	0,5µg/kg
+T14	MODE 319 337	voie intraveineuse
+T16	ANAT 361 395	vasculaire inféro-laryngo-trachéal
+T17	CHEM 408 418	furosémide
+T18	PROC 438 462	exploration chirurgicale
+T19	DISO 489 531	masse tumorale arrondie tissulaire maligne
+T20	MEAS 541 553	environ 3 cm
+T21	Concept_Idea 557 566	grand axe
+T22	ANAT 592 639	parenchyme hyoïdien thyroïdien supérieur centré
+T23	Localization 633 639	centré
+T24	ANAT 662 678	cordons crâniens
+T25	PHEN 699 721	récupération pulsatile
+T26	Concept_Idea 755 764	grand axe
+T27	ANAT 790 807	vésicule biliaire
+T28	ANAT 823 838	organe viscéral
+T29	PROC 854 903	tomodensitométrie cervico-thoracique exploratrice
+T30	ANAT 872 903	cervico-thoracique exploratrice
+T31	DISO 920 1929	masse pariétale sous ary-thoracique sus claviculaire sus-claviculaire latéralisée hypoéchogène hétérogène systolocardiocytoplasmique prédominante T2 hyperintense hypersignal après injection de produit de contraste ce qui fait évoquer cette myxomateuse angulo-cystadénoïde hypertrophiée envahissant toutes les cavités cardiaques jusqu'à son extrémité alors que l'autre forme plus particulière est classée cliniquement comme maladie thromboembolique prurigineuse cœlonécrosante extirpative
+La biopsie scannoguidée faite sous anesthésie locale préopératoire n'avait pas trouvé de localisations secondaires métastatiques ni de revascularisation nécrose caséeuse dissociées d'autres localisations pouvant faire suspecter leur nature même si elle n'a pas pu être éliminée devant l'impossibilité d'exclure toute étiologie secondaire chez ces nouveau-nés étant donné qu'il n'existait pas de radiothérapie adjuvante et/ou de chirurgie palliative curative pratiquées lors de l'épisodes d´insuffisance cardio-vasculaires
+T33	Localization 956 959	sus
+T34	PROC 1100 1109	injection
+T35	CHEM 1113 1133	produit de contraste
+T36	DISO 1160 1205	myxomateuse angulo-cystadénoïde hypertrophiée
+T37	ANAT 1229 1247	cavités cardiaques
+T38	MEAS 1299 1311	particulière
+T39	DISO 1343 1395	maladie thromboembolique prurigineuse cœlonécrosante
+T40	PROC 1411 1431	biopsie scannoguidée
+T41	PROC 1443 1474	anesthésie locale préopératoire
+T42	DISO 1497 1536	localisations secondaires métastatiques
+T43	DISO 1543 1577	revascularisation nécrose caséeuse
+T44	LIVB 1755 1766	nouveau-nés
+T45	PROC 1803 1826	radiothérapie adjuvante
+T46	PROC 1836 1865	chirurgie palliative curative
+T47	ANAT 1911 1929	cardio-vasculaires
+T48	DISO 2071 2088	kystes hydatiques
+T49	DISO 2158 2175	tabagisme toxique
+T50	DISO 2259 2272	consanguinité
+T51	LIVB 2281 2288	famille

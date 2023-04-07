@@ -1,0 +1,97 @@
+T1	LIVB 16 24	patiente
+T2	DISO 52 64	pathologique
+T3	MEAS 65 76	particulier
+T4	PROC 87 99	hospitalisée
+T5	DISO 108 129	syndrome hémorragique
+T6	TEMP 139 155	depuis deux mois
+T7	PROC 159 174	examen clinique
+T8	LIVB 186 194	patiente
+T9	MEAS 198 205	mauvais
+T10	Concept_Idea 206 218	état général
+T11	ANAT 220 230	tachycarde
+T12	MEAS 233 247	120 battements
+T13	TEMP 248 258	par minute
+T14	DISO 270 288	râles myocloniques
+T15	ANAT 302 318	plan sous cutané
+T16	ANAT 329 335	thorax
+T17	PROC 351 367	examen somatique
+T18	DISO 377 390	particularité
+T19	PROC 394 413	électrocardiogramme
+T20	DISO 435 463	trouble hydro-éléctrolytique
+T21	PHEN 469 491	fonction ventriculaire
+T22	ANAT 478 491	ventriculaire
+T23	MEAS 498 505	normale
+T24	PROC 510 538	saturation pulsée en oxygène
+T25	CHEM 531 538	oxygène
+T26	DEVI 543 556	lampe à fente
+T27	MEAS 572 579	30 mmHg
+T28	MEAS 637 644	90 mmHg
+T29	PROC 651 660	transfusé
+T30	ANAT 672 689	alvéolo-trachéaux
+T31	MEAS 695 707	perceptibles
+T32	DISO 725 743	dysphonie sinusale
+T33	DISO 747 768	sensations délirantes
+T34	DISO 778 805	symptôme neuropsychiatrique
+T35	Concept_Idea 814 829	plan biologique
+T36	DISO 843 856	hyperglycémie
+T37	MEAS 859 868	5,1mmol/l
+T38	DISO 884 926	hyperferritinémie normochrome normocytaire
+T39	MEAS 938 945	7,2µg/l
+T40	DISO 960 993	insuffisance rénale fonctionnelle
+T41	ANAT 973 979	rénale
+T42	DISO 1014 1056	néphropathie diabétique insulinodépendante
+T43	MEAS 1067 1069	4%
+T44	PROC 1075 1096	biopsie scanno-guidée
+T45	DISO 1136 1170	prolifération leucocytaire maligne
+T46	ANAT 1196 1214	noyau pancréatique
+T47	MEAS 1223 1233	13×12x6 cm
+T48	Localization 1270 1295	quadrant supero-extenseur
+T49	MEAS 1300 1307	visible
+T50	MEAS 1345 1351	T3N0M+
+T51	PROC 1356 1381	bilan immunohistochimique
+T52	DISO 1402 1434	neurofibromatose acroïde type II
+T53	Hospital 1444 1552	FIGO Hospitality Offered Reference Center for Gynecology and Metabilization Clinical Research aux États-Unis
+T54	Concept_Idea 1575 1594	aspect histologique
+T55	DISO 1640 1669	métaplasies dysplasmocytaires
+T56	DISO 1699 1726	remaniements inflammatoires
+T57	DISO 1758 1782	anomalies morphologiques
+T58	PROC 1808 1829	prélèvement biopsique
+T59	DISO 1864 1884	myomectasie kystique
+T60	MEAS 1895 1902	négatif
+T61	LIVB 1917 1925	patients
+T63	MEAS 2057 2065	40 UI/dl
+T65	CHEM 2592 2605	Amoxicilline®
+T66	CHEM 2613 2642	ciprofloxacine biphosphonates
+T67	PROC 2660 2682	contrôle échographique
+T68	MEAS 2699 2707	positifs
+T69	Concept_Idea 2716 2740	résultat bactériologique
+T70	MEAS 2741 2761	supérieur à 100 mg/l
+T71	PROC 2765 2785	examen macroscopique
+T72	ANAT 2799 2806	estomac
+T73	DISO 2829 2841	inflammation
+T74	DISO 2845 2861	nécrose caséeuse
+T75	ANAT 2874 2887	plan vésicale
+T76	PROC 2893 2918	scanner thoraco-abdominal
+T77	ANAT 2901 2918	thoraco-abdominal
+T78	DISO 2943 2959	syndrome tumoral
+T79	DISO 2978 3001	récidive interstitielle
+T80	PHEN 3008 3026	suites opératoires
+T81	MEAS 3035 3042	simples
+T82	TEMP 3052 3060	1er jour
+T83	PROC 3081 3112	traitement médical conservateur
+T84	MEAS 3129 3133	bien
+T85	TEMP 3173 3189	pendant 15 jours
+T86	PROC 3241 3276	néphrectomie endoscopiquement saine
+T87	PROC 3290 3324	tomodensitométrie scannoguidée IRM
+T88	PROC 3359 3376	geste chirurgical
+T89	DISO 3396 3423	symptomatologie infectieuse
+T90	DISO 3433 3452	complication locale
+T91	DISO 3479 3503	troubles électrolytiques
+T92	DISO 3544 3576	micronodules lymphoplasmaphiques
+T93	PROC 3609 3658	toilette oeso-gastroduodénale digestivo-duodénale
+T94	ANAT 3618 3658	oeso-gastroduodénale digestivo-duodénale
+T95	PROC 3670 3687	mise en condition
+T96	PROC 3695 3734	étude cytobactériologique rétrospective
+T97	DISO 3780 3828	localisations secondaires cliniquement atypiques
+T98	DISO 3856 3893	hyperleucocytose leucocytaire maligne
+T99	MEAS 3904 3927	1030 000 éléments /mm 3

@@ -1,0 +1,35 @@
+T1	LIVB 16 24	patiente
+T2	DISO 57 92	tuberculose pulmonaire métastatique
+T3	ANAT 69 92	pulmonaire métastatique
+T4	TEMP 102 116	depuis 10 mois
+T5	DISO 132 165	syndrome d'épanchement péritonéal
+T6	ANAT 155 165	péritonéal
+T7	DISO 181 195	perte de poids
+T8	PHEN 190 195	poids
+T9	PROC 211 226	hospitalisation
+T10	Hospital 231 239	urgences
+T11	DISO 258 292	insuffisance centrale respiratoire
+T12	Localization 271 279	centrale
+T13	MEAS 307 318	progressive
+T14	MODE 324 342	voie intraveineuse
+T15	CHEM 345 355	isoniazide
+T16	CHEM 368 386	hydroxychloroquine
+T17	PROC 399 433	radiothérapie palliative adjuvante
+T18	ANAT 455 481	membre supérieur bilatéral
+T19	Localization 472 481	bilatéral
+T20	DISO 500 521	méningo-radiculalgies
+T21	DISO 541 565	symptomatologie tumorale
+T22	PROC 570 600	échographie abdomino-pelvienne
+T23	ANAT 582 600	abdomino-pelvienne
+T24	DISO 618 655	masse tissulaire hétérogène hypodense
+T25	MEAS 665 670	12 cm
+T26	Concept_Idea 674 683	grand axe
+T27	ANAT 713 744	parties molles péripéritonéales
+T28	LIVB 894 904	nouveau-né
+T29	TEMP 912 919	6 jours
+T30	PROC 929 951	recherche chirurgicale
+T31	PROC 964 988	bilan d'immunodépression
+T32	DISO 1008 1031	kyste hydatique nécraté
+T33	DISO 1097 1132	localisations viscérales nodulaires
+T34	DISO 1207 1226	diabète systématisé
+T35	DISO 1233 1252	surdité congénitale

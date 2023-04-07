@@ -1,0 +1,87 @@
+T1	PROC 4 21	tomodensitométrie
+T2	PROC 23 46	TDM) abdomino-pelvienne
+T3	ANAT 28 46	abdomino-pelvienne
+T4	DISO 66 110	processus tissulaire de la veine cave droite
+T5	ANAT 93 110	veine cave droite
+T6	Localization 104 110	droite
+T7	MEAS 120 124	3 cm
+T8	Concept_Idea 128 137	grand axe
+T9	PROC 151 167	bilan biologique
+T10	DISO 179 188	anomalies
+T11	DISO 211 227	hyperleucocytose
+T12	DISO 234 246	lymphocytose
+T13	PROC 252 270	sérologies virales
+T14	MEAS 291 300	négatives
+T15	PROC 314 332	bilan paraclinique
+T16	PROC 346 357	hémoglobine
+T17	MEAS 360 366	9 g/dL
+T18	PROC 374 384	plaquettes
+T19	MEAS 387 400	10 000 UI/mm³
+T20	LIVB 405 413	patiente
+T21	PROC 439 465	scanner cervico-thoracique
+T22	ANAT 447 465	cervico-thoracique
+T23	DISO 497 687	distension transjugulocarotidienne basithoracique intracrânio-mandibulaire jugulaire gauches lobaire supérieure homolatérale naso-gastroduodénale controlatérale epsilaterale dialystokystique
+T27	ANAT 706 741	tronc spléno-aorto-ventricule droit
+T28	Localization 736 741	droit
+T29	LIVB 769 777	patiente
+T30	DISO 782 809	symptomatologie infectieuse
+T31	DISO 815 854	méningo-encéphalite spondyloïde stade E
+T32	Concept_Idea 867 886	aspect histologique
+T33	DISO 903 919	maladie cœliaque
+T34	DISO 929 949	neurofibromatoplégie
+T35	DISO 988 1013	myasthénie interstitielle
+T36	CHEM 1029 1045	immunoglobulines
+T37	DISO 1079 1089	infections
+T38	PROC 1094 1121	constat anatomopathologique
+T39	DISO 1141 1162	récidive myasthénique
+T40	DISO 1207 1237	cholestase congénitale maligne
+T41	PROC 1259 1279	exérèse chirurgicale
+T42	PROC 1293 1323	néphrocalcinose postopératoire
+T43	PROC 1335 1359	rachianesthésie générale
+T44	PROC 1375 1420	antibioprophylaxie antitétanospirale standard
+T45	PHEN 1434 1443	grossesse
+T46	PROC 1448 1499	complément immunohistochimiothérapeutique adjuvante
+T47	PROC 1500 1507	PANCA1D
+T48	PROC 1542 1548	dosage
+T49	DISO 1573 1601	cellule tumorale néoplasique
+T50	MEAS 1610 1622	grade SBR II
+T51	PROC 1657 1685	examens cytobactériologiques
+T52	PROC 1700 1732	examen macroscopiquement correct
+T53	DISO 1742 1760	facteur rhumatoïde
+T54	DISO 1778 1800	germe entéropathogénes
+T55	ANAT 1810 1838	annexes grêliques cervicales
+T56	PROC 1886 1894	préparés
+T57	PROC 1908 1929	étude bactériologique
+T58	DEVI 2068 2092	matériel d'ostéosynthèse
+T59	LIVB 2170 2180	nourrisson
+T60	TEMP 2188 2199	22 semaines
+T61	LIVB 2231 2233	sa
+T62	LIVB 2234 2238	mère
+T63	LIVB 2246 2256	belle-sœur
+T64	TEMP 2265 2272	17 mois
+T65	LIVB 2306 2309	son
+T66	LIVB 2310 2314	père
+T67	LIVB 2318 2320	sa
+T68	LIVB 2321 2333	tante puînée
+T69	DISO 2367 2386	accident domestique
+T70	DISO 2454 2477	maltraitance maternelle
+T71	LIVB 2483 2489	enfant
+T72	LIVB 2535 2537	sa
+T73	LIVB 2538 2546	soeur AE
+T74	DISO 2718 2747	symptômes neuropsychiatriques
+T75	Concept_Idea 2810 2830	chiffres tensionnels
+T76	DISO 2863 2894	déficit immunitaire malformatif
+T77	PROC 2926 2945	enquête étiologique
+T78	PROC 2967 2998	comparaison anatomopathologique
+T79	LIVB 3031 3037	enfant
+T80	CHEM 3065 3078	médicamenteux
+T81	CHEM 3129 3140	corticoïdes
+T82	DISO 3225 3250	hyperleucocytose primaire
+T83	MEAS 3261 3275	10 000 GBq/mm3
+T84	DISO 3296 3330	tuberculose tuberculeuse chronique
+T85	LIVB 3350 3361	primigestes
+T86	PROC 3367 3404	laparotomie exploratrice endoscopique
+T87	DISO 3452 3466	neuroendocrine
+T88	DISO 3502 3548	tuberculose érythémato-splénomégalie primitive
+T89	DISO 3559 3592	granulomatose génitale secondaire
+T90	PROC 3597 3626	prise en charge thérapeutique

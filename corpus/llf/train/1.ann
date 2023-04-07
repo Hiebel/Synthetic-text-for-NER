@@ -1,0 +1,15 @@
+T1	DISO 13 31	syndrome
+T2	Concept_Idea 57 73	état
+T3	DISO 64 73	agitation
+T4	DISO 81 95	hallucinations
+T5	PROC 99 114	examen
+T6	LIVB 117 120	son
+T7	PROC 121 130	admission
+T8	LIVB 141 148	patient
+T9	DISO 149 154	agité
+T10	DISO 156 167	polypneique
+T11	DISO 179 202	trouble
+T12	DISO 212 230	symptôme
+T13	LIVB 254 257	lui
+T14	DISO 284 293	symptômes
+T15	PROC 322 338	neuropsychiatrie

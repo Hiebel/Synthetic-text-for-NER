@@ -1,0 +1,32 @@
+T1	LIVB 3 10	patient
+T2	PHEN 54 66	accouchement
+T3	PROC 72 96	anesthésie locorégionale
+T4	Hospital 104 121	hôpital militaire
+T5	LIVB 130 132	Il
+T6	PROC 206 244	programme d'immunodépression prénatale
+T7	PROC 246 250	PIPP
+T8	LIVB 253 255	Il
+T9	DISO 280 289	tabagisme
+T10	DISO 296 315	syndrome allergique
+T11	DISO 325 344	facteur déclenchant
+T12	LIVB 393 400	famille
+T13	MEAS 454 473	fortement suspectés
+T14	DISO 508 531	dyspnée aiguë sifflante
+T15	MEAS 546 553	modérée
+T16	TEMP 563 585	depuis plusieurs jours
+T17	Concept_Idea 615 627	état général
+T18	DISO 649 677	douleurs abdomino-pelviennes
+T19	ANAT 658 677	abdomino-pelviennes
+T20	DISO 700 713	inflammatoire
+T21	MEAS 723 736	plus marquées
+T22	LIVB 749 753	elle
+T23	DEVI 774 797	appâter menstruellement
+T24	LIVB 821 824	ses
+T26	DISO 864 888	déficit sensitivomotrice
+T27	DISO 937 967	épanchement liquidien périnéal
+T28	ANAT 949 967	liquidien périnéal
+T29	PROC 1023 1039	examen somatique
+T30	PROC 1064 1094	échographie abdomino-pelvienne
+T31	ANAT 1076 1094	abdomino-pelvienne
+T32	DISO 1111 1146	distrophie parathyro-hypovolliculée
+T33	ANAT 1122 1146	parathyro-hypovolliculée

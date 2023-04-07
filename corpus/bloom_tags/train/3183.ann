@@ -1,0 +1,41 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	3 ans
+T3	DISO 80 103	hypotonie psychomotrice
+T4	TEMP 113 129	depuis deux mois
+T5	PROC 134 151	bilan d'extension
+T6	DISO 167 195	adénocarcinome du sein droit
+T7	ANAT 185 195	sein droit
+T8	Localization 190 195	droit
+T9	MEAS 203 210	pT3N2M0
+T10	DISO 223 233	métastases
+T11	LIVB 277 284	patient
+T12	Hospital 289 297	urgences
+T13	PROC 305 324	examen neurologique
+T14	PHEN 359 381	réflexes ostéo-nerveux
+T15	ANAT 368 381	ostéo-nerveux
+T16	MEAS 382 389	normaux
+T17	ANAT 414 434	membranes crâniennes
+T18	DISO 447 467	syndrome cérébelleux
+T19	ANAT 486 494	poignets
+T20	DISO 514 540	troubles sensitivo-moteurs
+T21	DISO 620 632	vomissements
+T22	DISO 648 654	fièvre
+T23	MEAS 666 673	38 °8 C
+T24	DISO 675 692	dyspnée sifflante
+T25	DOSE 764 775	deux litres
+T26	CHEM 779 803	sérum glucosé isotonique
+T27	DISO 934 957	conjonctivales malignes
+T28	TEMP 985 990	2 ans
+T29	DISO 1013 1039	déficit sensitivospastique
+T30	ANAT 1074 1110	intracrânien céphalo-pariéto-sylvien
+T31	PROC 1115 1137	TDM abdomino-pelvienne
+T32	ANAT 1119 1137	abdomino-pelvienne
+T33	DISO 1151 1291	lésion hypodense hétérogène hypoéchogène tissulaire nodulaire étagée angulo-céphalo-rachidienne rétro herniploïque basithoracique bilatérale
+T34	Localization 1281 1291	bilatérale
+T35	MEAS 1300 1305	12 cm
+T36	Concept_Idea 1309 1318	grand axe
+T37	MEAS 1328 1332	13cm
+T38	Concept_Idea 1336 1345	petit axe
+T39	ANAT 1369 1420	muscle fléchisseur thoracique supérieur homolatéral
+T40	Localization 1409 1420	homolatéral
+T41	MEAS 1438 1441	1/3

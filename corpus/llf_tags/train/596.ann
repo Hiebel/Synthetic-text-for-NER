@@ -1,0 +1,45 @@
+T1	MEAS 0 6	noires
+T2	DISO 13 19	signes
+T3	DISO 23 32	malignité
+T4	LIVB 37 45	patiente
+T5	PROC 64 81	tomodensitométrie
+T6	PROC 83 98	TDM) thoracique
+T7	ANAT 88 98	thoracique
+T8	DISO 122 168	processus tissulaire du plexus brachial gauche
+T9	ANAT 146 168	plexus brachial gauche
+T10	Localization 162 168	gauche
+T11	DISO 178 209	lésions kystiques hypoéchogènes
+T12	DISO 217 301	opacité péribronchovasculaire sous-kystique intraparenchymateuse oblongue achromatée
+T13	Concept_Idea 309 329	aspect morphologique
+T15	ANAT 405 416	KCNQ1c/S2B4
+T16	CHEM 430 453	tuberculine monoclonale
+T17	PROC 509 548	néphrectomie totale extemporanéoplastie
+T18	PHEN 570 595	récepteurs cutanéomuqueux
+T19	ANAT 615 645	veine jugulaire interne droite
+T20	Localization 639 645	droite
+T21	PROC 652 682	curage ganglionnaire axillaire
+T22	PROC 686 712	examen anatomopathologique
+T23	DISO 737 762	localisations secondaires
+T24	DISO 769 783	résidu tumoral
+T25	DISO 826 897	léiomyome tubulomucineux éosinophile carcinomateux métastatique maligne
+T26	MEAS 905 913	stade II
+T27	MEAS 1024 1031	simples
+T28	Hospital 1065 1080	bloc opératoire
+T29	PROC 1086 1114	prise en charge chirurgicale
+T30	PROC 1119 1141	contrôle échographique
+T31	MEAS 1153 1159	normal
+T32	DISO 1186 1207	récidive radiologique
+T33	DISO 1217 1238	anomalie histologique
+T34	PROC 1248 1272	traitements chirurgicaux
+T35	PROC 1289 1332	consultation complémentaire préanesthésique
+T36	PROC 1352 1375	radiothérapie adjuvante
+T37	PROC 1418 1468	laparotomie endotrachéale biquotidienne anténatale
+T38	PROC 1484 1625	hystérectomie élargie scannoïdectomie antéro-mandibulaire lobulée séquellaire cervico-transfibrato-jugulaire mandibulaire bilatérale fléchies
+T39	Localization 1606 1625	bilatérale fléchies
+T40	TEMP 1643 1649	6 mois
+T41	PROC 1653 1675	traitement substitutif
+T42	DISO 1705 1719	perte de poids
+T43	Concept_Idea 1737 1755	surface corporelle
+T44	MEAS 1766 1773	50 cm 2
+T45	PROC 1800 1814	pris en charge
+T46	LIVB 1827 1834	patient

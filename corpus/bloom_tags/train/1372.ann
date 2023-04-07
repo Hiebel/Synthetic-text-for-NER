@@ -1,0 +1,47 @@
+T1	LIVB 4 12	patiente
+T2	Concept_Idea 34 59	antécédents pathologiques
+T3	MEAS 60 72	particuliers
+T4	PROC 80 88	adressée
+T5	Hospital 92 116	unité de soins intensifs
+T6	DISO 133 154	détresse respiratoire
+T7	PHEN 142 154	respiratoire
+T8	DISO 170 192	céphalées généralisées
+T9	TEMP 202 218	depuis deux mois
+T10	PROC 222 236	interrogatoire
+T11	DISO 273 282	symptômes
+T12	TEMP 295 306	trois jours
+T13	PROC 315 330	hospitalisation
+T14	DISO 361 380	œdème du sein droit
+T15	ANAT 370 380	sein droit
+T16	Localization 375 380	droit
+T17	MEAS 395 401	rapide
+T18	DISO 426 432	fièvre
+T19	PROC 449 479	échographie abdomino-pelvienne
+T20	ANAT 461 479	abdomino-pelvienne
+T21	DISO 501 510	anomalies
+T22	PROC 529 538	biologies
+T23	MEAS 547 555	normales
+T24	PROC 557 565	natrémie
+T25	MEAS 567 576	123 meq/l
+T26	PROC 578 586	kaliémie
+T27	MEAS 588 596	0,4meq/l
+T28	PROC 598 617	hémoglobine glyquée
+T29	MEAS 619 623	1,4%
+T30	PROC 626 638	troponine Ic
+T31	PROC 660 686	taux d'hémoglobine glyquée
+T32	LIVB 730 738	patiente
+T33	DISO 769 782	particularité
+T34	DISO 810 845	maladie thromboembolique ischémique
+T35	DISO 858 881	lésions angiographiques
+T36	DISO 934 950	signes cliniques
+T37	DISO 977 996	douleurs pelviennes
+T38	ANAT 986 996	pelviennes
+T39	ANAT 1026 1033	utérine
+T40	PROC 1160 1200	examen gynécologue obstétrical somatique
+T41	Concept_Idea 1231 1251	prédominantes nature
+T42	PROC 1272 1306	classification étiologique globale
+T43	PROC 1311 1347	tomodensitométrie abdomino pelvienne
+T44	ANAT 1329 1347	abdomino pelvienne
+T46	MEAS 1447 1452	11 cm
+T47	Concept_Idea 1456 1465	grand axe
+T48	ANAT 1489 1515	parties molles abdominales

@@ -1,0 +1,30 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 35	12 ans
+T3	PHEN 37 43	décédé
+T4	DISO 58 98	choc cardiovasculaire ischémato-calcifié
+T5	DISO 122 145	douleurs hypogastriques
+T6	ANAT 131 145	hypogastriques
+T7	MEAS 160 171	progressive
+T8	TEMP 181 197	depuis deux mois
+T9	DISO 217 231	anorexie aiguë
+T10	Concept_Idea 253 265	état général
+T11	MEAS 320 330	perméables
+T12	DISO 352 365	dysménorrhées
+T13	LIVB 408 419	jeune femme
+T14	DISO 474 494	souffrance ovarienne
+T15	ANAT 485 494	ovarienne
+T16	DISO 501 550	syndrome d'épanchement liquidien rétro péritonéal
+T17	ANAT 524 550	liquidien rétro péritonéal
+T18	PROC 569 581	consultation
+T19	Hospital 586 621	urgences chirurgicales pédiatriques
+T20	DISO 756 768	complication
+T21	PROC 910 919	admission
+T22	TEMP 976 987	32 semaines
+T23	DISO 1020 1029	anomalies
+T24	MEAS 1065 1075	rapidement
+T25	MEAS 1103 1116	plus marquées
+T26	MEAS 1144 1164	multi-inflammatoires
+T27	DISO 1170 1197	difficultés obstétricielles
+T28	PHEN 1243 1252	grossesse
+T29	DISO 1293 1301	cœliaque
+T30	MEAS 1309 1321	2030 grammes

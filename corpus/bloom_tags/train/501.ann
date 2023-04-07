@@ -1,0 +1,28 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	Concept_Idea 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	DISO 92 99	dyspnée
+T6	TEMP 109 125	depuis deux mois
+T7	PROC 129 143	examen initial
+T8	PROC 148 157	admission
+T9	Hospital 161 176	bloc opératoire
+T10	LIVB 187 193	enfant
+T11	MEAS 197 200	bon
+T12	Concept_Idea 201 219	état hémodynamique
+T13	ANAT 235 244	artériels
+T14	PHEN 259 270	diastolique
+T15	MEAS 271 281	perméables
+T16	PROC 286 316	bilan biologique préopératoire
+T17	PROC 357 388	échographie abdomino- pelvienne
+T18	ANAT 369 388	abdomino- pelvienne
+T19	PROC 390 393	EAP
+T20	DISO 411 481	masse du flux utéro-vésico-thoracique pariéto-épigastrique infilcrante
+T22	MEAS 491 496	30 cm
+T23	Concept_Idea 499 505	aspect
+T24	MEAS 506 516	hétérogène
+T25	MEAS 518 529	bien limité
+T26	Concept_Idea 539 548	grand axe
+T27	PROC 576 585	injection
+T28	DOSE 589 593	2 cc
+T29	CHEM 597 617	produit de contraste

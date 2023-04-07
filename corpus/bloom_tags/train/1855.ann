@@ -1,0 +1,34 @@
+T1	LIVB 15 25	adolescent
+T2	TEMP 29 35	16 ans
+T3	Concept_Idea 42 53	antécédents
+T4	MEAS 54 66	particuliers
+T5	PROC 68 74	admise
+T6	Hospital 79 87	urgences
+T7	DISO 97 113	dyspnée d'effort
+T8	MEAS 128 139	progressive
+T9	DISO 154 190	épanchement péricardique purulentiel
+T10	ANAT 166 178	péricardique
+T11	TEMP 200 216	depuis 48 heures
+T12	PROC 220 235	examen clinique
+T13	PROC 240 249	admission
+T14	LIVB 262 268	enfant
+T15	Concept_Idea 283 301	plan hémodynamique
+T16	PHEN 305 317	respiratoire
+T17	DISO 338 357	tachycardie fébrile
+T18	MEAS 360 378	132 battements/min
+T19	PROC 384 414	échographie abdomino-pelvienne
+T20	ANAT 396 414	abdomino-pelvienne
+T21	DISO 465 492	masse du liquide péritonéal
+T22	ANAT 474 492	liquide péritonéal
+T23	MEAS 502 507	12 cm
+T24	Concept_Idea 511 520	grand axe
+T25	ANAT 537 568	fosse iliaque supérieure droite
+T26	Localization 562 568	droite
+T27	CHEM 590 607	médiations iodées
+T28	DOSE 609 611	5g
+T29	PROC 617 654	tomodensitométrie abdomino- pelvienne
+T30	ANAT 635 654	abdomino- pelvienne
+T31	DISO 685 706	métanéphrineurinaires
+T32	DISO 724 738	masse tumorale
+T33	DISO 754 778	infiltrats carcinomateux
+T34	ANAT 765 778	carcinomateux

@@ -1,0 +1,48 @@
+T1	PROC 3 19	bilan biologique
+T2	DISO 33 39	anémie
+T3	MEAS 42 50	9,3 g/dl
+T4	PROC 56 74	sérologies virales
+T5	MEAS 83 92	négatives
+T6	PROC 106 119	cytologie HIV
+T7	PROC 125 145	immunoglobulines IgG
+T8	PROC 149 186	examen cytobactériologique des urines
+T9	ANAT 180 186	urines
+T10	DISO 198 211	particularité
+T11	PROC 216 246	TDM thoraco abdomino-pelvienne
+T12	ANAT 220 246	thoraco abdomino-pelvienne
+T13	DISO 266 311	processus tissulaire polypoïde du foie gauche
+T14	ANAT 300 311	foie gauche
+T15	Localization 305 311	gauche
+T16	MEAS 321 326	14 cm
+T17	Concept_Idea 330 339	grand axe
+T18	ANAT 360 378	symphyse hépatique
+T19	ANAT 401 417	plan vésiculaire
+T20	DISO 423 447	hémopéritoine anéchogène
+T21	ANAT 475 491	branches iléales
+T22	PROC 497 535	laparotomie exploratrice scanno-guidée
+T23	PROC 554 569	rachianesthésie
+T24	PROC 583 607	néphrectomie en monobloc
+T25	PROC 613 638	exploration peropératoire
+T26	MEAS 663 672	spontanée
+T27	DISO 713 733	récidive infectieuse
+T28	DISO 771 797	maladie cœliaque primitive
+T29	PROC 801 826	étude immunohistochimique
+T30	PROC 828 831	INI
+T31	PROC 2463 2477	immunomarquage
+T32	DISO 2810 2853	dégénérescence maligne du nodule thyroïdien
+T33	ANAT 2836 2853	nodule thyroïdien
+T34	DISO 2866 2949	carcinome épidermoïde basocellulaire sarcomateux carcinomateux eccrine ketoacidosis
+T35	TEMP 2976 2981	3 ans
+T36	MEAS 3020 3030	volumineux
+T38	ANAT 3142 3150	thyroïde
+T39	ANAT 3178 3207	paroi gastrocnémato-rénaldive
+T40	Localization 3251 3267	partie proximale
+T42	Localization 3292 3310	postérieure droite
+T43	ANAT 3394 3406	bronchocrâne
+T44	Concept_Idea 3411 3434	localisation secondaire
+T45	LIVB 3489 3498	patientes
+T46	PHEN 3565 3587	suites postopératoires
+T47	MEAS 3596 3603	simples
+T48	CHEM 3635 3664	triméthoprimesulfaméthoxazole
+T49	PROC 3670 3690	transfusion sanguine
+T50	PROC 3704 3748	néphrectomie totale endotrachéale percutanée

@@ -1,0 +1,15 @@
+T2	MEAS 46 47	4
+T3	LIVB 48 55	enfants
+T4	PROC 60 80	traités médicalement
+T5	PROC 93 105	hospitalisée
+T6	Concept_Idea 150 162	état général
+T7	DISO 192 254	rhinorrhée chronique interstitielle prurigineuse aigüe fébrile
+T8	MEAS 266 281	progressivement
+T9	Concept_Idea 335 354	limites habituelles
+T10	DISO 378 400	pathologie infectieuse
+T11	PROC 438 453	examen clinique
+T12	DISO 481 540	hépato-sarcoïdose érythémateuse aiguë idiopathique anémique
+T13	DISO 572 596	syndrome polymalformatif
+T14	PROC 611 638	Tomodensitométrie cervicale
+T15	PROC 660 673	antibiogramme
+T16	DISO 697 749	broncho-encéphalopathie dilatée hypertensive maligne

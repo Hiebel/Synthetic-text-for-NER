@@ -1,0 +1,29 @@
+T1	LIVB 4 12	patiente
+T2	PROC 46 64	traitement curatif
+T3	DISO 68 120	syndrome d'épanchement péricardique infanto-juvénile
+T4	ANAT 91 120	péricardique infanto-juvénile
+T5	TEMP 130 143	depuis 5 mois
+T6	PROC 147 177	échographie abdomino-pelvienne
+T7	ANAT 159 177	abdomino-pelvienne
+T8	DISO 195 204	anomalies
+T9	DISO 293 331	épanchement pulmonaire intrapéritonéal
+T10	ANAT 305 331	pulmonaire intrapéritonéal
+T11	LIVB 351 359	patiente
+T12	DISO 397 410	symptomatique
+T13	DISO 417 442	insuffisance rénale aiguë
+T15	Concept_Idea 517 529	état général
+T16	DISO 554 570	signes cliniques
+T17	DISO 592 614	douleurs épigastriques
+T18	DISO 616 624	anorexie
+T19	DISO 631 652	distension abdominale
+T20	ANAT 642 652	abdominale
+T21	DISO 676 693	fistule pelvienne
+T22	ANAT 684 693	pelvienne
+T23	DISO 737 787	carcinome kystique nécrose caséo-fœto-embryonnable
+T24	ANAT 911 934	artérioveineux pleuraux
+T25	PROC 984 1010	contraception progestative
+T26	DISO 1033 1067	adénopathies nodulaires hypodenses
+T27	MEAS 1092 1096	12mm
+T28	MEAS 1100 1104	10mm
+T29	MEAS 1170 1179	multiples
+T30	MEAS 1304 1315	plus larges

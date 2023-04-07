@@ -1,0 +1,91 @@
+T1	PROC 3 22	bilan préopératoire
+T2	DISO 36 47	sensibilité
+T3	ANAT 53 70	hypochondre droit
+T4	Localization 65 70	droit
+T5	PROC 75 101	tomodensitométrie du genou
+T6	ANAT 96 101	genou
+T7	PROC 103 123	TDM) cervico-dorsale
+T8	ANAT 108 123	cervico-dorsale
+T9	DISO 139 172	processus tissulaire hypoéchogène
+T10	MEAS 175 188	environ 20 mm
+T11	Concept_Idea 192 200	diamètre
+T12	ANAT 220 236	plan sous cutané
+T13	ANAT 259 277	symphyse hépatique
+T14	ANAT 293 327	parties molles cervicale inferieur
+T15	Localization 318 327	inferieur
+T16	MEAS 351 355	7 cm
+T17	MEAS 359 366	9/10 cm
+T18	PROC 370 395	étude anatomopathologique
+T19	DISO 417 470	léiomyome kystique des glandes salivaires accessoires
+T20	ANAT 440 470	glandes salivaires accessoires
+T21	ANAT 540 565	nerf grand pectoral axial
+T22	MEAS 575 579	25mm
+T23	Concept_Idea 583 592	grand axe
+T24	Localization 630 644	partie distale
+T25	DISO 672 721	maladie cœliaque carcinomateuse primitive maligne
+T26	DISO 763 777	particularités
+T27	PROC 783 811	chimiothérapie néo adjuvante
+T28	CHEM 817 832	fluoroquinolone
+T29	PROC 846 890	rééducation fonctionnelle multidisciplinaire
+T30	PROC 950 1030	anastomose thoracique digestive gastroduodénale transoesophagienne scanno-guidée
+T31	ANAT 961 1030	thoracique digestive gastroduodénale transoesophagienne scanno-guidée
+T32	TEMP 1040 1050	3 ème jour
+T33	PROC 1226 1260	prise en charge pluridisciplinaire
+T34	PROC 1285 1324	radio cardiothoracocentèse exploratrice
+T35	PHEN 1346 1356	grossesses
+T36	PROC 1368 1383	hospitalisation
+T37	Hospital 1387 1402	bloc opératoire
+T38	PROC 1451 1507	néphrectomie totale élargie rétropéritonéale fractionnée
+T39	LIVB 1522 1529	jumeaux
+T40	Concept_Idea 1549 1585	caractéristiques sociodémographiques
+T41	PROC 1615 1669	ostéosynthèse fémorale réhaussée sur liquidien profond
+T42	PROC 1684 1715	reprise orthopédique percutanée
+T43	PROC 1738 1879	reconstruction prothétique périrénalvéolaire rachidienne segmenteuse achilléenne séquellaire T1N2MGYKBPOTHIAZIDE ALMOBIOLOGICAL LIBRACULAIRES
+T44	PROC 1894 1924	complément immunohistochimique
+T45	DISO 1942 1964	pathologie infectieuse
+T46	PROC 1989 2015	antibiogramme probabiliste
+T47	MEAS 2084 2091	négatif
+T48	LIVB 2114 2121	patient
+T49	PROC 2159 2183	consultations prénatales
+T50	DOSE 2374 2380	250 ml
+T51	DEVI 2412 2435	seringue antibacillaire
+T52	CHEM 2467 2546	céphalosporine diéthyldisulfamidazole acétyltransferase 2 carboxypeprednisolone
+T53	MEAS 2758 2769	2500 gramme
+T54	Concept_Idea 2771 2777	valeur
+T55	MEAS 2778 2785	normale
+T56	MEAS 2786 2816	inférieure à 3 fois la normale
+T57	PROC 2833 2862	prélèvements bactériologiques
+T58	PROC 2880 2919	bilan étiologique pré et postopératoire
+T59	PROC 2932 2957	étude anatomopathologique
+T60	DISO 2982 3010	tuberculose primaire maligne
+T61	PHEN 3020 3038	suites opératoires
+T62	MEAS 3052 3059	simples
+T63	LIVB 3084 3090	malade
+T64	Hospital 3111 3132	urgences pédiatriques
+T65	PROC 3138 3153	rachianesthésie
+T66	PROC 3169 3189	ventilation assistée
+T67	DISO 3205 3223	contage infectieux
+T68	TEMP 3248 3256	six mois
+T69	PROC 3260 3278	traitement médical
+T70	Concept_Idea 3297 3303	taille
+T71	DISO 3334 3352	récidive néonatale
+T72	DISO 3367 3394	déficit congénital évolutif
+T73	DISO 3484 3520	incident thromboembolique secondaire
+T74	LIVB 3530 3536	enfant
+T75	ANAT 3541 3563	membre inférieur droit
+T76	Localization 3558 3563	droit
+T77	MEAS 3587 3596	stade III
+T78	MEAS 3658 3662	40cm
+T79	Concept_Idea 3666 3675	grand axe
+T80	MEAS 3684 3689	37 cm
+T81	Concept_Idea 3693 3702	petit axe
+T82	MEAS 3710 3715	10 kg
+T83	MEAS 3752 3763	très petits
+T84	MEAS 3788 3798	18 x 11 mm
+T85	MEAS 3802 3809	14×12mm
+T86	PROC 3814 3838	laparotomie exploratrice
+T87	ANAT 4094 4114	branches musculaires
+T88	ANAT 4133 4150	fascia pectoralis
+T89	PROC 4187 4243	tumorectomie bilatérale scanno-guidée endo-thérapeutique
+T90	PROC 4259 4309	recto-sigmoïde rétropéritonéale biopsychanalytique
+T91	PROC 4350 4386	annexectomie controlatérale monobloc

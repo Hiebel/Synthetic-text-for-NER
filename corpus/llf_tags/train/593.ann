@@ -1,0 +1,58 @@
+T1	LIVB 4 12	patiente
+T2	PROC 56 72	cholécystectomie
+T3	DISO 81 109	adénocarcinome du rein droit
+T4	ANAT 99 109	rein droit
+T5	Localization 104 109	droit
+T6	MEAS 125 136	progressive
+T7	TEMP 146 159	depuis 6 mois
+T8	MEAS 174 189	progressivement
+T9	Concept_Idea 193 199	volume
+T10	PROC 220 229	admission
+T11	DISO 236 252	dyspnée profonde
+T12	DISO 268 288	signes neurologiques
+T13	DISO 301 329	syndrome délirant polymorphe
+T14	PHEN 334 343	grossesse
+T15	LIVB 371 403	médecin anesthésiste-réanimateur
+T16	PROC 409 437	corticothérapie antiseptique
+T17	CHEM 439 470	amoxicilline acide clavulanique
+T18	DOSE 471 479	1 gramme
+T19	TEMP 479 489	/24 heures
+T20	DISO 521 534	particularité
+T21	LIVB 713 721	patiente
+T22	PROC 758 766	adressée
+T23	Hospital 771 795	consultations prénatales
+T24	DISO 854 866	métrorragies
+T25	PROC 871 884	diagnostiquée
+T26	PROC 928 947	bilan préopératoire
+T27	DISO 974 992	hyperprolactinémie
+T28	MEAS 995 1005	9,5 mmol/l
+T29	MEAS 1072 1081	2,20 µg/l
+T30	LIVB 2683 2691	patients
+T31	PROC 2715 2732	bilan étiologique
+T32	PROC 2740 2769	chimiothérapie antibacillaire
+T33	DOSE 2783 2785	1g
+T34	TEMP 2785 2790	/jour
+T35	PROC 2805 2833	antibiothérapie probabiliste
+T36	CHEM 2835 2866	amoxicilline acide tranexamique
+T37	CHEM 2869 2879	aminosides
+T38	DISO 2930 2959	symptômes neuropsychiatriques
+T39	TEMP 2967 2978	24 ème mois
+T40	PROC 2996 3015	traitement adjuvant
+T41	MEAS 3166 3174	premiers
+T42	Concept_Idea 3175 3183	épisodes
+T43	LIVB 3219 3226	enfants
+T44	LIVB 3293 3304	jeune homme
+T45	PHEN 3405 3426	grossesse monofoetale
+T46	TEMP 3435 3446	12 semaines
+T47	PROC 3494 3516	consultation prénatale
+T48	PROC 3545 3569	échographie obstétricale
+T49	PROC 3660 3682	contrôle échographique
+T50	PROC 3699 3727	prise en charge chirurgicale
+T51	DISO 3788 3808	coma foetomédiastral
+T52	TEMP 3818 3832	depuis 5 jours
+T53	LIVB 3890 3896	enfant
+T54	Concept_Idea 3994 4022	partenaires socioéconomiques
+T55	PROC 4137 4142	suivi
+T56	DISO 4231 4253	pathologies néonatales
+T57	ANAT 4295 4299	père
+T58	DISO 4350 4410	masses cervicales scapulo vertébro-nodulaires pachydermiques

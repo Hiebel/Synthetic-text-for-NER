@@ -1,0 +1,39 @@
+T1	LIVB 20 28	patiente
+T2	DISO 63 94	douleurs épigastriques ulcérées
+T3	ANAT 72 94	épigastriques ulcérées
+T4	DISO 104 117	inflammatoire
+T5	TEMP 127 140	depuis 3 mois
+T6	DISO 153 162	symptômes
+T7	PROC 177 196	bilan préopératoire
+T8	PHEN 214 223	grossesse
+T9	PROC 242 248	suivie
+T10	DISO 264 285	contractions utérines
+T11	ANAT 277 285	utérines
+T12	LIVB 287 290	Son
+T13	PROC 291 321	échographie abdomino-pelvienne
+T14	ANAT 303 321	abdomino-pelvienne
+T15	DISO 346 355	anomalies
+T16	PROC 361 385	exploration chirurgicale
+T17	Hospital 427 458	centre hospitalier périphérique
+T18	PROC 529 542	consultations
+T19	DISO 559 570	pathologies
+T20	DISO 645 660	prémétrorragies
+T21	DISO 670 689	sténoses ovariennes
+T22	ANAT 679 689	ovariennes
+T23	DISO 733 773	maladie thromboembolique intrarétinienne
+T24	ANAT 758 773	intrarétinienne
+T25	LIVB 790 801	jeune homme
+T26	DISO 833 882	accident ischémique cardiovasculaires infarctoire
+T27	ANAT 853 882	cardiovasculaires infarctoire
+T28	TEMP 906 912	20 ans
+T29	MEAS 964 975	progressive
+T30	DISO 1012 1040	polynucléaires érythémateuse
+T31	MEAS 1052 1062	rapidement
+T32	Concept_Idea 1066 1072	taille
+T33	ANAT 1101 1126	parties molles cervicales
+T34	MEAS 1136 1141	30 cm
+T35	LIVB 1154 1158	elle
+T36	LIVB 1186 1190	mère
+T37	CHEM 1275 1293	méthylprednisolone
+T38	MEAS 1306 1313	négatif
+T39	DISO 1378 1393	kyste hydatique

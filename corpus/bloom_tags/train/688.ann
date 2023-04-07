@@ -1,0 +1,44 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 19 25	16 ans
+T3	Hospital 46 67	urgences pédiatriques
+T4	PROC 93 118	scanner abdomino- pelvien
+T5	ANAT 101 118	abdomino- pelvien
+T6	DISO 134 159	adénocarcinome péritonéal
+T7	ANAT 149 159	péritonéal
+T8	ANAT 175 197	parties molles iléales
+T9	MEAS 207 215	12x11 cm
+T10	ANAT 236 252	sinus péritonéal
+T11	MEAS 261 267	type I
+T12	DISO 321 371	nodule parenchymateux épithélio-giganto-cellulaire
+T13	ANAT 328 371	parenchymateux épithélio-giganto-cellulaire
+T14	PROC 391 400	injection
+T15	CHEM 404 424	produit de contraste
+T16	LIVB 454 459	fille
+T17	DISO 471 498	neuroendocrine pancréatique
+T18	DISO 531 554	localisation secondaire
+T19	DISO 582 603	signe neurorésistante
+T20	ANAT 621 646	ganglionnaire lithiasique
+T21	DISO 692 707	lésion kystique
+T22	DISO 850 886	cardiomyopathie dilaté hypertrophiée
+T23	PROC 916 942	traitement médical curatif
+T24	CHEM 955 968	bêtaméthasone
+T25	DOSE 970 977	30mg/kg
+T26	TEMP 977 979	/j
+T27	CHEM 982 996	hydrocortisone
+T28	CHEM 999 1017	méthylprednisolone
+T29	DOSE 1018 1027	0,2 mg/kg
+T30	TEMP 1027 1029	/j
+T31	MODE 1031 1043	intraveineux
+T32	Concept_Idea 1083 1101	plan hémodynamique
+T33	DISO 1123 1156	crises ischémiques valvulculaires
+T34	DISO 1165 1204	insuffisance cardio-vasculo-myocardiale
+T35	ANAT 1178 1204	cardio-vasculo-myocardiale
+T36	PROC 1358 1387	traitement pluridisciplinaire
+T37	DISO 1528 1547	symptômes cliniques
+T38	PROC 1563 1585	diagnostic étiologique
+T39	DISO 1678 1704	complications métaboliques
+T40	DISO 1719 1759	thrombose veineuse varicelleuse profonde
+T41	ANAT 1729 1759	veineuse varicelleuse profonde
+T42	DISO 1775 1800	adénocarcinome péritonéal
+T43	PROC 1939 1985	prédominance scanno-thoracique scannographique
+T44	MEAS 2015 2026	négligeable

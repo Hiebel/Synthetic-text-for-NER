@@ -1,0 +1,83 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 37	admise
+T3	Hospital 41 90	centre hospitalier universitaire Hassan II de Fès
+T4	DISO 101 124	agitation psychomotrice
+T5	DISO 141 156	symptomatologie
+T6	TEMP 169 180	trois jours
+T7	PROC 189 204	hospitalisation
+T8	DISO 236 255	pleurésie purulente
+T9	MEAS 270 281	progressive
+T10	CHEM 305 322	méthylhydrosérine
+T11	DOSE 324 332	20 mg/kg
+T12	TEMP 332 334	/J
+T13	PROC 339 354	examen clinique
+T14	LIVB 368 376	patiente
+T15	Concept_Idea 391 409	plan hémodynamique
+T16	PHEN 413 425	respiratoire
+T17	DISO 441 466	tuméfaction du sein droit
+T18	ANAT 456 466	sein droit
+T19	Localization 461 466	droit
+T20	MEAS 478 493	progressivement
+T21	Concept_Idea 497 503	volume
+T22	MEAS 558 570	particuliers
+T23	DISO 598 611	consanguinité
+T24	DISO 618 659	syndrome d'épanchement liquide péritonéal
+T25	ANAT 641 659	liquide péritonéal
+T26	DISO 669 699	anévrysmes vésiculo-cæculaires
+T27	ANAT 680 699	vésiculo-cæculaires
+T28	PROC 713 744	échographie abdomino- pelvienne
+T29	ANAT 725 744	abdomino- pelvienne
+T30	DISO 775 787	métrorragies
+T31	DISO 837 867	niveau hydro-électro-myometral
+T32	PROC 890 914	scanner abdomino-pélvien
+T33	ANAT 898 914	abdomino-pélvien
+T34	PROC 928 954	contraception progestative
+T35	DEVI 942 954	progestative
+T36	DISO 979 1007	masse ostéolytique hypodense
+T37	MEAS 1017 1025	14x12 cm
+T38	ANAT 1044 1081	fosse iliaque supra utéro-surrénalien
+T39	Localization 1058 1063	supra
+T40	ANAT 1111 1130	parois intestinales
+T41	DISO 1157 1167	tissulaire
+T42	PROC 1181 1208	tomodensitométrie pelvienne
+T43	ANAT 1199 1208	pelvienne
+T45	ANAT 1309 1322	méso grêlique
+T46	ANAT 1353 1379	parties molles abdominales
+T47	ANAT 1400 1436	grande courbure iléosurrénaloïdienne
+T48	PROC 1466 1489	injection de sufentanil
+T49	CHEM 1479 1489	sufentanil
+T50	DISO 1533 1544	mitotopique
+T51	PROC 1549 1573	cystoscopie exploratrice
+T52	DISO 1592 1606	résidu tumoral
+T53	DISO 1644 1683	lésions nécroseuses kystiques tumorales
+T54	DISO 1729 1763	masse gynécovaginale hypertrophiée
+T55	LIVB 1781 1787	enfant
+T56	TEMP 1795 1802	six ans
+T57	DISO 1877 1893	accident méningé
+T58	LIVB 1913 1919	enfant
+T59	PROC 1924 1943	traité médicalement
+T60	CHEM 1954 1967	bêtaméthasone
+T61	DOSE 1970 1976	1mg/kg
+T62	TEMP 1976 1981	/jour
+T63	CHEM 1984 1997	phénobarbital
+T64	DOSE 2000 2010	10 mg / kg
+T65	TEMP 2010 2012	/j
+T66	CHEM 2037 2055	hydroxychloroquine
+T67	DOSE 2057 2066	0,7 mg/kg
+T68	TEMP 2066 2074	/semaine
+T69	CHEM 2076 2088	pyrazinamide
+T70	DOSE 2091 2099	15 mg/kg
+T71	TEMP 2099 2111	hebdomadaire
+T72	CHEM 2114 2124	cisplatine
+T73	DOSE 2127 2134	2 µg/kg
+T74	TEMP 2134 2150	tous les 21jours
+T75	PROC 2164 2187	curage axillari-vaginal
+T76	ANAT 2171 2187	axillari-vaginal
+T77	CHEM 2406 2419	dexaméthasone
+T78	DOSE 2422 2430	50 ng/ml
+T79	CHEM 2433 2443	ethoxamide
+T80	DOSE 2446 2454	400µg/m²
+T81	CHEM 2456 2469	métronidazole
+T82	DOSE 2472 2481	500 μg/m2
+T83	CHEM 2485 2500	chloramphénicol
+T84	DOSE 2503 2512	100 UI/mL

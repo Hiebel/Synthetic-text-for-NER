@@ -1,0 +1,65 @@
+T1	LIVB 15 22	patient
+T2	DISO 51 67	syndrome fébrile
+T3	DISO 87 118	douleurs thoraciques purulantes
+T4	ANAT 96 107	thoraciques
+T5	TEMP 128 141	depuis 2 mois
+T6	DISO 158 175	dyspnée sifflante
+T8	PROC 245 260	examen clinique
+T9	DISO 305 326	détresse respiratoire
+T10	PHEN 314 326	respiratoire
+T11	MEAS 341 348	brutale
+T12	ANAT 362 385	sinus médiastinal droit
+T13	Localization 380 385	droit
+T14	LIVB 387 390	Son
+T15	Concept_Idea 391 396	poids
+T16	MEAS 427 432	70 kg
+T17	TEMP 436 445	deux mois
+T18	PROC 452 483	échographie abdomino--pelvienne
+T19	ANAT 464 483	abdomino--pelvienne
+T20	PROC 513 549	ponction liquide pleuro-péricardique
+T21	ANAT 522 549	liquide pleuro-péricardique
+T22	DISO 682 697	symptomatologie
+T23	DISO 752 778	empyème cervico-thoracique
+T24	ANAT 760 778	cervico-thoracique
+T25	DISO 780 802	épanchement péritonéal
+T26	ANAT 792 802	péritonéal
+T27	DISO 812 831	pathophysiologiques
+T28	LIVB 851 858	patient
+T29	PROC 863 906	tomodensitométrie thoraco-abdominopelvienne
+T30	ANAT 881 906	thoraco-abdominopelvienne
+T31	DISO 923 950	masse sous clavicale droite
+T32	ANAT 929 950	sous clavicale droite
+T33	Localization 944 950	droite
+T34	MEAS 962 977	progressivement
+T35	Concept_Idea 981 987	taille
+T36	DISO 1008 1048	hypersignal hétérogène hypervascularisée
+T37	ANAT 1070 1103	muscles para vertébraux cervicaux
+T38	MEAS 1113 1118	35 mm
+T39	Concept_Idea 1122 1131	grand axe
+T40	DISO 1137 1175	adénopathie paravertébro-métacarpienne
+T41	ANAT 1149 1175	paravertébro-métacarpienne
+T42	DISO 1227 1342	hématome basithoracique craniocéphalosophagien latéro-sigmoïdien basithoracique inféro périphérique hypovolémateuse
+T44	ANAT 1366 1394	parties molles hyo-laryngées
+T45	DISO 1407 1494	processus lésionnel tissulaire liquidien tissulaire subcrânien susclaviculaire infiltré
+T47	ANAT 1515 1532	vésicule biliaire
+T48	CHEM 1549 1569	produit de contraste
+T49	DISO 1606 1622	kystique maligne
+T50	PROC 1627 1645	traitement curatif
+T51	PROC 1664 1694	chimiothérapie antirétrovirale
+T52	CHEM 1700 1719	Cyclo-dexaméthasone
+T53	CHEM 1722 1732	Tamoxifène
+T54	MODE 1763 1781	voie intraveineuse
+T56	DOSE 1807 1813	1mg/kg
+T57	CHEM 1815 1832	Rifhydrocortisone
+T58	DOSE 1834 1843	0,7 mg/kg
+T59	CHEM 1846 1865	ethinylprednisolone
+T60	DOSE 1867 1875	25 mg/m²
+T61	MEAS 1897 1910	satisfaisante
+T62	Concept_Idea 1923 1931	clinique
+T63	DISO 1955 1986	récidive locorégionale tumorale
+T64	PROC 2092 2123	curage ganglionnaire palliative
+T65	ANAT 2099 2123	ganglionnaire palliative
+T66	DISO 2163 2178	symptomatologie
+T67	DISO 2220 2255	évènement hémorragique hypertensive
+T68	DISO 2266 2292	malformations congénitales
+T69	CHEM 2386 2415	polynucléaire érythromélanine

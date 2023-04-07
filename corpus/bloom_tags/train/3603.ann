@@ -1,0 +1,56 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	6 ans
+T3	DISO 55 66	hypoacousie
+T4	PROC 71 80	admission
+T5	Hospital 84 117	service des urgences pédiatriques
+T6	Hospital 121 141	CHU Hassan II de Fès
+T7	PROC 145 160	examen clinique
+T8	LIVB 173 179	enfant
+T9	MEAS 183 186	bon
+T10	PHEN 187 213	développement psychomoteur
+T11	ANAT 215 222	faciale
+T12	Concept_Idea 226 243	staturo-pondérale
+T13	DISO 249 269	signes neurologiques
+T14	PROC 283 310	numération formule sanguine
+T15	DISO 349 365	hyperleucocytose
+T16	MEAS 368 387	12 000 éléments/mm3
+T17	PROC 434 454	protéines C-réactive
+T18	PROC 489 505	bilan biologique
+T19	DEVI 520 531	bandelettes
+T20	LIVB 533 535	Il
+T21	CHEM 551 564	antibiotiques
+T22	CHEM 570 601	amoxicilline-acide clavulanique
+T23	CHEM 627 641	ciprofloxacine
+T24	CHEM 642 653	éthionamide
+T25	PROC 667 692	chimiothérapie palliative
+T26	DOSE 698 700	1g
+T27	CHEM 703 716	dexaméthasone
+T28	TEMP 717 725	par jour
+T29	MODE 757 775	voie intraveineuse
+T30	MEAS 842 851	spontanée
+T31	DISO 857 875	hypotonie visuelle
+T32	MEAS 891 900	perméable
+T33	LIVB 953 961	patiente
+T34	DISO 988 1007	traumatisme crânien
+T35	DISO 1013 1040	effraction cutanéo-muqueuse
+T36	PROC 1057 1087	traitement curatif chirurgical
+T37	PROC 1090 1123	imagerie par résonance magnétique
+T38	PROC 1125 1128	IRM
+T39	ANAT 1130 1139	cérébrale
+T41	MEAS 1285 1290	29 cm
+T42	Concept_Idea 1294 1302	diamètre
+T43	MEAS 1307 1311	21cm
+T44	Concept_Idea 1315 1324	grand axe
+T45	ANAT 1354 1377	ventricules thalamicaux
+T46	ANAT 1393 1419	périparties caudéscentraux
+T47	DISO 1446 1491	volumineux bourrelet d’épanchement tissulaire
+T48	DISO 1542 1566	tumeur kystique nécrosée
+T49	Localization 1588 1612	dix premiers centimètres
+T50	DISO 1618 1654	masse lésionnelle tumorale purulente
+T51	ANAT 1675 1692	vésicule biliaire
+T52	DISO 1698 1745	hémangioendothélial nécrotico-séro-métanéphrine
+T53	DISO 1774 1813	schwannome pigmenté hémangioendothélial
+T54	DISO 1948 1982	neurolupus congénital hypertrophié
+T55	MEAS 2016 2025	favorable
+T56	LIVB 2144 2151	famille
+T57	DISO 2174 2200	prédisposition immunitaire

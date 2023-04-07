@@ -1,0 +1,72 @@
+T1	LIVB 3 13	nouveau-né
+T2	PROC 37 48	hospitalisé
+T3	Hospital 52 83	service de réanimation néonatal
+T4	DISO 93 113	douleurs abdominales
+T5	ANAT 102 113	abdominales
+T6	DISO 129 145	syndrome fébrile
+T7	PROC 149 164	examen clinique
+T8	MEAS 199 210	volumineuse
+T9	DISO 211 247	tuméfaction tissulaire du foie droit
+T10	ANAT 237 247	foie droit
+T11	Localization 242 247	droit
+T12	MEAS 258 266	10/11 cm
+T13	Concept_Idea 276 282	taille
+T14	MEAS 286 289	4cm
+T15	DISO 313 335	ictère polymalformatif
+T16	DISO 353 372	choc anaphylactique
+T17	DISO 385 391	signes
+T18	PROC 416 430	examen général
+T19	DISO 442 455	particularité
+T20	PROC 460 487	bilan radiologique standard
+T21	PROC 489 513	échographie obstétricale
+T22	PROC 515 547	scanner thoraco-abdomino pelvien
+T23	ANAT 523 547	thoraco-abdomino pelvien
+T24	DISO 570 590	récidive infectieuse
+T25	DISO 600 616	neurofibromatose
+T26	PROC 622 646	chimiothérapie adjuvante
+T27	CHEM 651 682	fluorescéine acide clavulanique
+T28	PROC 711 746	transfusion sanguine postopératoire
+T29	DOSE 761 766	50 mg
+T30	TEMP 766 768	/j
+T31	PROC 783 812	anticoagulation intraveineuse
+T32	DEVI 816 834	staff multibarilix
+T33	MEAS 871 878	simples
+T34	PHEN 883 898	fonction rénale
+T35	ANAT 892 898	rénale
+T36	MEAS 908 915	normale
+T37	ANAT 935 938	VBP
+T38	MEAS 945 952	normale
+T39	PROC 980 1002	traitement substitutif
+T40	PROC 1009 1038	prise en charge thérapeutique
+T41	Concept_Idea 1051 1071	aspect morphologique
+T42	DISO 1088 1122	symphysite atrophique hypophysaire
+T43	Concept_Idea 1143 1163	résumés étiologiques
+T44	LIVB 1212 1219	auteurs
+T45	LIVB 1250 1255	notre
+T46	LIVB 1256 1261	fille
+T47	TEMP 1270 1276	12 ans
+T48	DISO 1310 1343	complications neuropsychiatriques
+T49	DISO 1370 1398	crise convulsive myoclonique
+T50	PROC 1497 1506	admission
+T51	DISO 1524 1537	consanguinité
+T53	LIVB 1709 1716	enfants
+T54	PROC 1722 1732	administré
+T55	LIVB 3150 3160	nourrisson
+T56	DISO 3197 3235	choriorétinite à éosinophilus spinosus
+T57	PROC 3247 3266	bilan préopératoire
+T58	MEAS 3283 3291	mauvaise
+T59	PHEN 3292 3313	fonction respiratoire
+T60	ANAT 3301 3313	respiratoire
+T61	Concept_Idea 3315 3337	fréquence respiratoire
+T62	MEAS 3340 3356	40 cycles/minute
+T63	DEVI 3366 3390	cathéter péri-thoracique
+T64	Concept_Idea 3418 3437	plans radiologiques
+T65	DISO 3451 3467	signe infectieux
+T66	DISO 3494 3503	symptômes
+T67	PROC 3509 3543	radiothérapie externe concomitante
+T68	TEMP 3564 3590	10 ème jour postopératoire
+T69	PROC 3603 3630	remplissage aorto-coronaire
+T70	ANAT 3615 3630	aorto-coronaire
+T71	TEMP 3640 3666	12 ème mois postopératoire
+T73	Localization 3692 3699	médiane
+T74	ANAT 3860 3935	surface postéro-latérale supérieure fundique ventriculo-mandibulaire gauche

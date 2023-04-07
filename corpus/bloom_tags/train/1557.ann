@@ -1,0 +1,29 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 42 48	10 ans
+T3	DISO 66 86	tuberculose laryngée
+T4	DISO 93 128	syndrome d’épanchement intracrânien
+T5	ANAT 116 128	intracrânien
+T6	TEMP 138 151	depuis 7 mois
+T7	Concept_Idea 184 196	état général
+T8	PROC 220 250	échographie abdomino-pelvienne
+T9	ANAT 232 250	abdomino-pelvienne
+T10	DISO 268 296	adénopathie cervicale droite
+T11	ANAT 280 296	cervicale droite
+T12	Localization 290 296	droite
+T13	MEAS 306 310	2 cm
+T14	Concept_Idea 314 322	diamètre
+T15	ANAT 339 377	plexus veineux cerviculo-épiglottiques
+T16	MEAS 386 392	type I
+T17	DEVI 456 488	scanner thoraco-abdomino-pelvien
+T18	ANAT 464 488	thoraco-abdomino-pelvien
+T19	DISO 514 541	localisations pathologiques
+T20	PROC 555 594	radio-chirurgie pelvienne transfixiante
+T21	ANAT 571 594	pelvienne transfixiante
+T22	Hospital 632 653	urgences pédiatriques
+T23	PROC 706 739	chirurgie prophylactique curative
+T24	PROC 789 835	chirurgie érythémato-lésionnelle superficielle
+T25	PHEN 856 880	récupération métabolique
+T26	MEAS 887 896	difficile
+T27	LIVB 898 902	nous
+T28	PROC 922 953	investigations bactériologiques
+T29	CHEM 1021 1034	metronidazole

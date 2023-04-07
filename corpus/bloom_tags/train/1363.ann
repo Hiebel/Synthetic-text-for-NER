@@ -1,0 +1,22 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 69	admise
+T3	Hospital 74 82	urgences
+T4	DISO 117 144	syndrome fébrile généralisé
+T5	DISO 177 231	douleurs thoraciques cervico-sigmoïdiennes antalgiques
+T6	ANAT 186 231	thoraciques cervico-sigmoïdiennes antalgiques
+T7	Concept_Idea 257 263	volume
+T8	TEMP 273 287	un an plus tôt
+T9	Concept_Idea 323 335	état général
+T10	DISO 349 366	dyspnée chronique
+T11	MEAS 381 389	brulante
+T12	LIVB 493 497	elle
+T13	DISO 524 533	symptômes
+T14	DISO 551 575	malformation congénitale
+T15	DISO 598 613	symptomatologie
+T16	PROC 640 664	échographie endovaginale
+T17	ANAT 652 664	endovaginale
+T18	PROC 671 696	curage laryngo-thoracique
+T19	ANAT 678 696	laryngo-thoracique
+T20	MEAS 713 720	normaux
+T21	LIVB 724 732	patiente
+T22	PROC 747 765	traitement curatif

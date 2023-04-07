@@ -1,0 +1,39 @@
+T1	LIVB 16 24	patiente
+T2	DISO 56 63	diabète
+T3	DISO 69 92	hypertension artérielle
+T4	CHEM 82 92	artérielle
+T5	TEMP 94 100	6 mois
+T6	LIVB 107 109	sa
+T7	PROC 110 122	consultation
+T8	Hospital 126 175	centre hospitalier universitaire Hassan II de Fès
+T9	Hospital 177 183	CHU-HF
+T10	PROC 188 203	examen clinique
+T11	DISO 224 282	déformation des paires crânio-faciales antécraniolatérales
+T13	DISO 302 329	carcinome chondromembraneux
+T14	PROC 334 360	sérologie rétrovirale BHCV
+T15	MEAS 367 375	négative
+T16	PROC 389 419	échographie abdomino-pelvienne
+T17	ANAT 401 419	abdomino-pelvienne
+T18	DISO 445 454	anomalies
+T19	DISO 471 1068	hypotrophie placentaire estimée à 1cm sur laquelle on a réalisé une prélèvement biopsique après analyse anatomopathologique ayant conclu à un adénocarcinome placentaire ainsi qu'une recherche d'immunoglobulines anti-ADN natifs étaient revenus positifs respectivement à 1/1280 et 1/1680 aux anticorps anti DNA natifs IgG et anti DNA natifs IgG avec absence d'amplification chromosomique type brachyno-synucleosyl transferase(BTS).
+Il n'existait pas de facteurs déclenchants possibles notamment pas d'antécédents personnels ou familiaux d'invagination grêlique sous contractions utérines céphaliques
+T20	ANAT 483 494	placentaire
+T21	MEAS 505 508	1cm
+T22	PROC 539 560	prélèvement biopsique
+T23	PROC 567 594	analyse anatomopathologique
+T24	DISO 613 639	adénocarcinome placentaire
+T25	PROC 653 697	recherche d'immunoglobulines anti-ADN natifs
+T26	MEAS 714 722	positifs
+T27	MEAS 740 746	1/1280
+T28	MEAS 750 756	1/1680
+T29	PROC 761 790	anticorps anti DNA natifs IgG
+T30	PROC 794 813	anti DNA natifs IgG
+T31	ANAT 1021 1029	grêlique
+T33	ANAT 1048 1068	utérines céphaliques
+T34	Localization 1103 1113	bilatérale
+T35	TEMP 1123 1136	depuis 6 mois
+T36	DISO 1197 1210	inflammatoire
+T37	MEAS 1225 1236	progressive
+T38	PROC 1255 1273	traitement curatif
+T39	CHEM 1284 1319	anti-inflammatoires non-stéroïdiens
+T40	CHEM 1321 1339	méthylprednisolone

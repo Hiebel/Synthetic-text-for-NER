@@ -1,0 +1,59 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	5 ans
+T3	Concept_Idea 41 66	antécédents pathologiques
+T4	MEAS 67 79	particuliers
+T5	PROC 81 86	admis
+T6	Hospital 91 112	urgences pédiatriques
+T7	DISO 122 149	douleurs abdominales aiguës
+T8	ANAT 131 142	abdominales
+T9	DISO 157 175	diarrhée purulente
+T10	TEMP 185 202	depuis deux jours
+T11	PROC 206 221	examen clinique
+T12	PROC 226 235	admission
+T13	LIVB 248 254	enfant
+T14	MEAS 258 261	bon
+T15	Concept_Idea 262 274	état général
+T16	PHEN 280 308	reflexes cutanéo-plantariens
+T17	ANAT 289 308	cutanéo-plantariens
+T18	ANAT 339 352	tronc crânien
+T19	LIVB 354 356	Il
+T20	DISO 372 395	dépression épigastrique
+T21	ANAT 383 395	épigastrique
+T22	MEAS 410 431	lentement progressive
+T23	DISO 450 500	sensibilité pelvienne latéro-thoracique bilatérale
+T24	ANAT 462 500	pelvienne latéro-thoracique bilatérale
+T25	Localization 490 500	bilatérale
+T26	MEAS 516 523	brutale
+T27	DISO 574 592	symptômes associés
+T28	PROC 647 677	échographie abdomino-pelvienne
+T29	ANAT 659 677	abdomino-pelvienne
+T31	DEVI 787 797	bandelette
+T32	DOSE 847 849	1g
+T33	CHEM 853 870	benzylphénidazole
+T34	DISO 933 955	masse tumorale maligne
+T35	LIVB 977 981	mère
+T36	DISO 1037 1058	traumatisme périnatal
+T37	DISO 1072 1103	dégénérescence placenta utérine
+T38	ANAT 1087 1103	placenta utérine
+T39	PROC 1107 1143	tomodensitométrie abdomino-pelvienne
+T40	ANAT 1125 1143	abdomino-pelvienne
+T41	DISO 1160 1229	hypertrophie surrénalienne centrale humérale bilirubine-cétaméthasone
+T42	ANAT 1173 1229	surrénalienne centrale humérale bilirubine-cétaméthasone
+T44	MEAS 1239 1244	14 cm
+T45	Concept_Idea 1248 1262	grand diamètre
+T46	ANAT 1283 1303	parenchyme hépatique
+T47	DISO 1357 1365	tumorale
+T48	DISO 1385 1398	cholestatique
+T49	DISO 1492 1580	pseudo-interstitielle nécrose caséeuse cholestatique épanchement liquide intrarésistante
+T50	ANAT 1557 1580	liquide intrarésistante
+T51	MEAS 1606 1615	favorable
+T52	PROC 1621 1656	traitement médical curatif adjuvant
+T53	CHEM 1674 1685	Cyclosérine
+T54	CHEM 1688 1701	cisatracurium
+T55	CHEM 1709 1719	Rifentanil
+T56	CHEM 1725 1733	propofol
+T57	MEAS 1868 1877	spontanée
+T58	MEAS 1894 1898	2 kg
+T59	LIVB 1911 1915	elle
+T60	MEAS 2204 2213	multiples
+T61	DISO 2341 2365	manifestations cliniques

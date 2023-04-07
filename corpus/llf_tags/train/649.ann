@@ -1,0 +1,32 @@
+T1	LIVB 4 12	patiente
+T2	DISO 34 59	antécédents pathologiques
+T3	MEAS 60 72	particuliers
+T4	PROC 79 91	hospitalisée
+T5	DISO 101 133	tuméfaction douloureuse du genou
+T6	ANAT 128 133	genou
+T7	MEAS 145 160	progressivement
+T8	Concept_Idea 164 170	volume
+T9	PROC 174 189	examen clinique
+T10	PROC 194 203	admission
+T11	LIVB 214 224	nourrisson
+T12	MEAS 228 235	mauvais
+T13	Concept_Idea 236 248	état général
+T14	Concept_Idea 284 296	état général
+T15	DISO 306 335	symptômes neuropsychiatriques
+T16	LIVB 360 368	patiente
+T17	PROC 373 388	prise en charge
+T18	CHEM 430 443	antibiotiques
+T19	DOSE 445 453	1 gramme
+T20	TEMP 453 458	/jour
+T21	PROC 537 556	remplissage bilieux
+T22	ANAT 549 556	bilieux
+T23	CHEM 560 583	sérum salé hypertonique
+T24	CHEM 586 617	amoxicilline acide clavulanique
+T25	CHEM 619 632	gentamicine ®
+T26	PROC 645 657	consultation
+T27	MEAS 690 697	simples
+T28	PHEN 716 736	suivi postopératoire
+T29	DISO 803 820	signes infectieux
+T30	LIVB 864 871	malades
+T31	PROC 882 902	traités médicalement
+T32	DISO 936 960	récidives psychomotrices

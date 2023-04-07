@@ -1,0 +1,48 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 39 64	antécédents pathologiques
+T3	MEAS 65 77	particuliers
+T4	PROC 79 84	Admis
+T5	Hospital 89 111	urgences chirurgicales
+T6	DISO 120 153	syndrome d'épanchement péritonéal
+T7	ANAT 143 153	péritonéal
+T8	TEMP 163 181	depuis trois jours
+T9	PROC 185 210	exploration préopératoire
+T10	DISO 224 309	hernie pelvienne antéro-mandibulaire du greffon hépatico-spléno-pancréatique biliaire
+T14	ANAT 345 370	glandes parathyroïdiennes
+T15	PROC 374 389	examen clinique
+T16	PROC 394 403	admission
+T17	Hospital 407 437	service d'accueil des urgences
+T18	Hospital 439 442	SUH
+T19	LIVB 460 467	patient
+T20	Concept_Idea 492 510	plan hémodynamique
+T21	PHEN 514 526	respiratoire
+T22	DISO 528 539	polypnéique
+T23	MEAS 542 555	24 cycles/min
+T24	DISO 575 589	amaigrissement
+T25	MEAS 600 605	12 kg
+T26	TEMP 609 618	deux mois
+T27	CHEM 624 638	bendaméthasone
+T28	CHEM 653 675	méthylhydrocortisolone
+T29	PROC 706 732	investigations biologiques
+T30	PROC 734 737	CRP
+T31	MEAS 740 748	100 mg/L
+T32	PROC 750 767	bilirubine totale
+T33	PROC 781 801	leucorachie sanguine
+T34	MEAS 815 823	normales
+T35	PROC 828 864	tomodensitométrie abdomino-pelvienne
+T36	ANAT 846 864	abdomino-pelvienne
+T38	ANAT 971 989	mésentère grêlique
+T39	MEAS 1001 1016	progressivement
+T40	Concept_Idea 1020 1026	volume
+T41	MEAS 1036 1040	2 cm
+T42	Concept_Idea 1044 1053	grand axe
+T43	ANAT 1085 1103	parois abdominales
+T44	LIVB 1131 1139	patiente
+T45	DISO 1144 1183	carcinose grêlo-épidermoide péritonéale
+T46	ANAT 1154 1183	grêlo-épidermoide péritonéale
+T47	PROC 1310 1329	traitement adjuvant
+T48	DOSE 1494 1500	1mg/m²
+T49	CHEM 1521 1534	dexaméthasone
+T50	MEAS 1551 1557	rapide
+T51	DISO 1564 1579	symptomatologie
+T52	PROC 1607 1649	mesures anti-inflammatoires palliativiques

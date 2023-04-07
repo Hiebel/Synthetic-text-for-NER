@@ -1,0 +1,16 @@
+T1	LIVB 15 21	garçon
+T2	TEMP 25 30	8 ans
+T3	PROC 47 63	cholécystectomie
+T4	DISO 72 97	kyste hydatique du bassin
+T5	ANAT 91 97	bassin
+T6	PROC 101 127	examen anatomopathologique
+T7	DISO 139 148	anomalies
+T8	PROC 155 188	toucher thoraco- abdomino pelvien
+T9	ANAT 163 188	thoraco- abdomino pelvien
+T10	DISO 207 215	récidive
+T11	PROC 225 241	cholécystectomie
+T12	MEAS 278 285	simples
+T13	Concept_Idea 296 299	âge
+T14	TEMP 303 308	4 ans
+T15	DISO 330 359	symptômes neuropsychiatriques
+T16	Concept_Idea 395 423	conditions socio-économiques

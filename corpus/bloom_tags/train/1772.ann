@@ -1,0 +1,90 @@
+T1	LIVB 28 35	patient
+T2	DISO 52 75	antécédent pathologique
+T3	MEAS 76 83	notable
+T4	PROC 85 96	hospitalisé
+T5	Hospital 101 109	urgences
+T6	DISO 118 146	syndrome d'hypochondre droit
+T7	ANAT 141 146	droit
+T8	DISO 154 199	paralysie du tronc cérébelleux inféro-sylvien
+T10	LIVB 201 203	Il
+T11	PROC 210 216	traité
+T12	CHEM 223 233	imipramine
+T13	DOSE 246 251	10 mg
+T14	TEMP 251 256	/jour
+T15	CHEM 268 286	méthylprédnisolone
+T16	DOSE 288 296	20 mg/kg
+T17	TEMP 296 298	/j
+T18	MODE 300 310	voie orale
+T19	DISO 378 404	troubles sensitivomotrices
+T20	DISO 434 450	signes cliniques
+T21	PROC 465 501	tomodensitométrie abdomino-pelvienne
+T22	ANAT 483 501	abdomino-pelvienne
+T23	DISO 515 622	lésion tissulaire hypo-vascularisée hypodense hétérogène lithiasique nécrosée pariétale bilatérale kystique
+T24	Localization 603 613	bilatérale
+T25	MEAS 632 637	12 cm
+T26	Concept_Idea 641 655	grand diamètre
+T27	ANAT 672 714	aires ganglionnaires cervico-claviculaires
+T28	DISO 735 782	infiltration hémangio-lymphocytaire péritonéale
+T29	ANAT 748 782	hémangio-lymphocytaire péritonéale
+T30	DISO 792 810	kystique nodulaire
+T31	LIVB 835 841	malade
+T32	DISO 885 902	symptômes visuels
+T33	PROC 979 1018	corticothérapie intraveineuse adjuvante
+T34	CHEM 1035 1049	hydrocortisone
+T35	DEVI 1056 1078	produit intra-cervical
+T36	PROC 1112 1127	prise en charge
+T37	PHEN 1218 1244	développement psychomoteur
+T38	Concept_Idea 1282 1301	effort intellectuel
+T39	LIVB 1321 1329	patients
+T40	PROC 1341 1367	consultation préopératoire
+T41	DISO 1435 1457	schizophrénie maniaque
+T42	DISO 1470 1495	pathologies neurologiques
+T43	DISO 1523 1545	hypotension artérielle
+T44	ANAT 1535 1545	artérielle
+T45	DISO 1562 1585	hyperthyroïdie primaire
+T46	PROC 1645 1654	injection
+T47	CHEM 1658 1678	produit de contraste
+T48	DISO 1691 1718	épanchement intrapéritonéal
+T49	ANAT 1703 1718	intrapéritonéal
+T50	MEAS 1771 1796	plus difficile à préciser
+T51	PROC 1866 1875	injection
+T52	CHEM 1879 1899	produit de contraste
+T53	MEAS 1909 1928	de grande abondance
+T54	DISO 1957 2008	adénopathies pariéto-basiliques latéo-mésentériques
+T55	ANAT 1970 2008	pariéto-basiliques latéo-mésentériques
+T56	MEAS 2020 2030	rapidement
+T57	Concept_Idea 2036 2042	taille
+T58	Concept_Idea 2086 2099	granddiamètre
+T59	ANAT 2120 2139	vésicules biliaires
+T60	MEAS 2156 2171	indifférenciées
+T61	ANAT 2199 2226	parties molles intestinales
+T62	ANAT 2348 2365	cardio-vasculaire
+T63	CHEM 2526 2537	nicardipine
+T64	CHEM 2538 2551	catécholamine
+T65	CHEM 2553 2566	bêtaméthasone
+T66	PROC 2571 2597	examen neuropsychiatriques
+T67	MEAS 2606 2613	normaux
+T68	DISO 2635 2641	fièvre
+T69	TEMP 2718 2722	2ans
+T70	TEMP 2725 2730	7mois
+T71	DISO 2738 2751	neuroleptique
+T72	DISO 2805 2824	agressivité mentale
+T73	PROC 2851 2872	sérologie virale BHCG
+T74	PROC 2917 2958	diagnostique phospho-transglutaminase IgG
+T75	MEAS 2966 2973	positif
+T76	PROC 2980 3010	complément immunohistochimique
+T77	PROC 3012 3018	C-ANCA
+T78	PROC 3020 3035	anti-ADN natifs
+T79	PROC 3052 3104	anticorps anti-cytoplasme du réticulum endoplasmique
+T80	PROC 3106 3109	CRP
+T81	LIVB 3111 3114	lui
+T82	MEAS 3128 3135	négatif
+T83	PROC 3139 3163	exploration chirurgicale
+T84	PHEN 3177 3197	grossesse gémellaire
+T85	ANAT 3228 3241	ovaire gauche
+T86	Localization 3235 3241	gauche
+T87	DISO 3248 3262	masse kystique
+T88	MEAS 3272 3276	4 cm
+T89	Concept_Idea 3280 3289	grand axe
+T90	DISO 3359 3408	syndrome d'épanchement liquidien intra-péritonéal
+T91	ANAT 3382 3408	liquidien intra-péritonéal

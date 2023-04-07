@@ -1,0 +1,39 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 41 47	pesant
+T3	MEAS 48 53	46 kg
+T4	Concept_Idea 62 68	taille
+T5	MEAS 72 78	175 cm
+T6	PROC 91 103	hospitalisée
+T7	Hospital 108 131	urgences psychiatriques
+T8	DISO 141 165	hallucinations visuelles
+T9	PROC 169 184	examen clinique
+T10	DISO 202 257	hypoesthésie globale du plexus brachial supérieur droit
+T11	ANAT 226 257	plexus brachial supérieur droit
+T12	Localization 252 257	droit
+T13	TEMP 267 280	depuis 4 mois
+T14	DISO 293 319	signes neuropsychiatriques
+T15	DISO 346 355	céphalées
+T16	DISO 371 390	épisodes dépressifs
+T17	Concept_Idea 402 411	intensité
+T18	PROC 428 444	examen somatique
+T19	DISO 476 501	lésions neurofibrillaires
+T20	DISO 537 566	carcinome épithélio-gigaloïde
+T21	ANAT 576 594	cordons ombilicaux
+T22	PROC 617 642	scanner abdomino- pelvien
+T23	ANAT 625 642	abdomino- pelvien
+T24	LIVB 791 798	famille
+T25	DISO 818 851	méningo-névralalgies fébulisantes
+T26	DISO 923 953	dyspnée chronique constrictive
+T27	DISO 1002 1049	insuffisance cardiaque thoracique hypertrophiée
+T28	ANAT 1015 1049	cardiaque thoracique hypertrophiée
+T29	DISO 1080 1122	douleur pelvienne ischasique hypogastrique
+T30	ANAT 1088 1122	pelvienne ischasique hypogastrique
+T31	MEAS 1134 1149	progressivement
+T32	Concept_Idea 1153 1159	volume
+T33	ANAT 1188 1211	liquide para péritonéal
+T34	MEAS 1272 1285	2 centimètres
+T35	Concept_Idea 1289 1298	grand axe
+T36	ANAT 1318 1343	parties molles ovariennes
+T37	DEVI 1412 1437	médiateurs gynéo-vaginaux
+T38	PROC 1471 1507	tomodensitométrie abdomino-pelvienne
+T39	ANAT 1489 1507	abdomino-pelvienne

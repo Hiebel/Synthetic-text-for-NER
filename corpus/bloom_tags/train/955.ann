@@ -1,0 +1,55 @@
+T1	LIVB 28 35	patient
+T2	DISO 87 114	hyperparathyroïdie primaire
+T3	DISO 119 185	carcinose canalaire hypopharyngée hypochondrogénique hypertrophiée
+T5	DISO 187 208	hypophtalmie syndrome
+T6	PROC 215 245	ponction liquide intraveineuse
+T7	ANAT 224 245	liquide intraveineuse
+T8	LIVB 265 273	patiente
+T9	PROC 286 319	dosage paracétylcholestérolactone
+T10	DISO 381 405	hypertrophie métabolique
+T11	MEAS 419 427	brunante
+T12	CHEM 452 467	antituberculeux
+T13	MODE 518 534	voie sous-cutané
+T14	CHEM 545 556	rifosfamide
+T15	DOSE 557 564	2 mg/kg
+T16	TEMP 564 566	/j
+T17	CHEM 569 585	sulfaméthoxazole
+T18	DOSE 587 593	750 mg
+T19	TEMP 593 595	/j
+T20	CHEM 600 613	bêtaméthasone
+T21	DOSE 615 621	1mg/kg
+T22	TEMP 621 623	/j
+T23	PROC 629 691	complément immunodépressionnel d'immunoglobulines IgG/4RHZ/4RH
+T24	PHEN 736 756	grossesse gémellaire
+T25	DISO 926 959	syndrome inflammatoire biologique
+T26	DISO 997 1022	diabète insulinorésistant
+T27	DEVI 1112 1131	placenta artificiel
+T28	PROC 1222 1245	radiothérapie adjuvante
+T29	DISO 1423 1446	symptômes neurologiques
+T30	PROC 1635 1669	pronostic échocardio-gynécologique
+T31	PROC 1672 1697	intervention chirurgicale
+T32	PROC 1720 1805	curage ganglionnaire locorégionale métastatique axillaire cœlioscopique transfixiante
+T34	PROC 1820 1852	mastectomie partielle palliative
+T35	MEAS 1887 1892	30 cm
+T36	Concept_Idea 1896 1905	grand axe
+T37	ANAT 1926 1946	muscle latéral droit
+T38	Localization 1941 1946	droit
+T39	PROC 1962 1989	splénectomie totale étiulée
+T40	DISO 2209 2225	tumeur pédiculée
+T41	PROC 2296 2327	traitement médical conservateur
+T42	DISO 2366 2383	récidive tumorale
+T43	DISO 2421 2432	tuméfaction
+T44	DISO 2519 2526	maladie
+T45	LIVB 2531 2539	patiente
+T46	PROC 2558 2586	chimiothérapie intraveineuse
+T47	CHEM 2600 2610	paclitaxel
+T48	DOSE 2612 2621	175 mg/m²
+T49	TEMP 2621 2626	/jour
+T50	CHEM 2632 2645	dexaméthasone
+T51	DOSE 2647 2653	1mg/kg
+T52	TEMP 2653 2655	/j
+T53	CHEM 2665 2683	hydroxychloroquine
+T54	DOSE 2685 2692	3 mg/kg
+T55	TEMP 2692 2694	/j
+T56	MODE 2696 2708	intraveineux
+T57	PROC 2712 2738	examen anatomopathologique

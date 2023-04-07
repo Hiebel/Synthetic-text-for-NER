@@ -1,0 +1,21 @@
+T1	LIVB 3 14	jeune homme
+T2	DISO 62 87	consanguinité consanguine
+T3	DISO 98 121	manifestations morbides
+T4	PROC 138 148	diagnostic
+T5	Hospital 170 201	urgences médicales pédiatriques
+T6	LIVB 262 272	belle-sœur
+T7	TEMP 281 287	22 ans
+T8	DISO 298 350	lombalgies cervicales congénitales diffuses fébriles
+T9	TEMP 360 377	depuis deux jours
+T10	DISO 394 419	vomissements alimentaires
+T11	DISO 503 519	syndrome grippal
+T12	DISO 542 562	traumatisme crâniens
+T13	DISO 600 624	hallucinations visuelles
+T14	DISO 640 667	fourmillement bucco-faciaux
+T15	DISO 686 703	signes infectieux
+T16	Concept_Idea 788 800	état général
+T17	LIVB 841 843	sa
+T18	LIVB 844 857	soeur jumelle
+T19	PROC 955 971	acte chirurgical
+T20	PROC 977 992	examen clinique
+T22	Localization 1073 1084	bilatérales

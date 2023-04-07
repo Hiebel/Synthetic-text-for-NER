@@ -1,0 +1,24 @@
+T1	LIVB 4 15	jeune femme
+T2	Hospital 51 82	urgences médicales pédiatriques
+T3	Hospital 108 158	centre hospitalier universitaire Yalgado Ouédraogo
+T4	DEVI 185 199	sac amniotique
+T5	MEAS 207 211	7 kg
+T6	Concept_Idea 221 243	limites thérapeutiques
+T7	DISO 337 349	complication
+T8	PROC 353 368	examen clinique
+T9	MEAS 379 388	concluant
+T10	DISO 411 419	anomalie
+T11	DISO 437 471	déficit sensitivomoteur douloureux
+T12	DISO 482 502	signes neurologiques
+T13	DISO 521 527	fièvre
+T14	PROC 556 566	diagnostic
+T15	LIVB 592 600	patiente
+T16	TEMP 659 678	six mois auparavant
+T17	LIVB 739 742	son
+T19	DEVI 875 889	sac amniotique
+T20	MEAS 899 909	6 cm x 9cm
+T21	Localization 958 974	portion proximal
+T22	PROC 988 1009	transfusion familiale
+T23	PROC 1021 1043	traitement substitutif
+T24	CHEM 1123 1145	amoxicilline botulique
+T25	DOSE 1190 1195	50 mg

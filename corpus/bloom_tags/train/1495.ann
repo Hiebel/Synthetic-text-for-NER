@@ -1,0 +1,41 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 37	admise
+T3	Hospital 42 50	urgences
+T4	DISO 60 87	douleurs abdominales aiguës
+T5	ANAT 69 80	abdominales
+T6	TEMP 97 115	depuis trois jours
+T7	DISO 131 145	ictère fébrile
+T8	DISO 160 168	anorexie
+T9	PHEN 190 205	acuité visuelle
+T10	PROC 209 232	auscultation abdominale
+T11	ANAT 222 232	abdominale
+T12	DISO 250 287	sensibilité épigastrique constrictive
+T14	DISO 306 333	distension intrapéritonéale
+T15	ANAT 317 333	intrapéritonéale
+T16	DISO 387 406	pancréatite ulcérée
+T17	DISO 411 439	insuffisance hépato-biliaire
+T18	ANAT 424 439	hépato-biliaire
+T19	DISO 460 503	masse tissulaire sus hépatique hypoéchogène
+T20	Localization 477 480	sus
+T21	MEAS 513 518	17 cm
+T22	Concept_Idea 522 531	grand axe
+T23	Concept_Idea 534 540	aspect
+T24	MEAS 541 549	jaunâtre
+T25	PROC 582 591	injection
+T26	CHEM 595 615	produit de contraste
+T27	MEAS 625 643	hyper-vascularisée
+T28	ANAT 665 700	fosse iliaque supra utéro-pelvienne
+T29	Localization 679 684	supra
+T30	ANAT 713 730	utérus abdominale
+T31	LIVB 753 758	fille
+T32	DISO 763 793	dépression grêlique ischémique
+T33	ANAT 774 793	grêlique ischémique
+T34	DISO 825 857	saignement hémorragique purulent
+T35	MEAS 867 873	1000ml
+T36	MEAS 879 890	deux litres
+T37	MEAS 921 927	200 ml
+T38	PROC 933 986	radiographie thoracique scannographique préopératoire
+T39	ANAT 946 986	thoracique scannographique préopératoire
+T40	DISO 1003 1068	thrombose pulmonaire infarctoide thoracique basithoracique droite
+T41	ANAT 1013 1068	pulmonaire infarctoide thoracique basithoracique droite
+T42	Localization 1062 1068	droite

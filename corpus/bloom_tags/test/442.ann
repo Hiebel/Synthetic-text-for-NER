@@ -1,0 +1,24 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	DISO 101 108	dyspnée
+T5	DISO 124 136	métrorragies
+T6	TEMP 146 159	depuis 6 mois
+T7	PROC 165 171	examen
+T8	LIVB 175 182	patient
+T9	MEAS 192 195	bon
+T10	Concept_Idea 196 208	état général
+T11	ANAT 210 220	tachycarde
+T12	MEAS 223 248	100 battements par minute
+T13	DISO 266 321	ictère érythémateux prurigineuse du côté droit palmaire
+T14	ANAT 302 321	côté droit palmaire
+T15	Localization 307 312	droit
+T16	DISO 345 366	détresse respiratoire
+T17	PHEN 354 366	respiratoire
+T18	PROC 370 390	examen gynécologique
+T19	ANAT 418 436	cavité péritonéale
+T20	DISO 490 510	utérus polymyomateux
+T21	Concept_Idea 523 537	taille globale
+T22	MEAS 541 546	12 cm
+T23	MEAS 557 569	environ 2 cm
+T24	Concept_Idea 573 587	grand diamètre

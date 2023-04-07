@@ -1,0 +1,33 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 73 78	admis
+T6	Hospital 82 89	urgence
+T7	Hospital 94 115	urgences pédiatriques
+T8	DISO 125 152	douleur épigastrique aiguée
+T9	ANAT 133 145	épigastrique
+T10	DISO 168 188	vomissements bilieux
+T11	TEMP 198 214	depuis 24 heures
+T12	PROC 218 233	examen clinique
+T13	Concept_Idea 246 250	état
+T14	DISO 253 276	agitation psychomotrice
+T15	PROC 283 314	auscultation abdomino-pelvienne
+T16	ANAT 296 314	abdomino-pelvienne
+T17	MEAS 321 328	normale
+T18	PROC 333 367	ponction liquide céphalo-rachidien
+T19	ANAT 342 367	liquide céphalo-rachidien
+T20	PROC 369 372	PCL
+T21	ANAT 400 433	sinus sphénoïdal supérieur gauche
+T22	Localization 427 433	gauche
+T23	DEVI 452 467	masse plâtrante
+T24	ANAT 481 497	paroi abdominale
+T25	MEAS 507 511	6 cm
+T26	Concept_Idea 515 524	grand axe
+T27	PROC 529 559	bilan biologique préopératoire
+T28	PHEN 576 591	fonction rénale
+T29	ANAT 585 591	rénale
+T30	MEAS 592 603	défectueuse
+T31	LIVB 633 641	patiente
+T32	DISO 673 703	troubles hydro-électrolytiques
+T33	DISO 716 736	diabète non insuliné

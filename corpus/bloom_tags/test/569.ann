@@ -1,0 +1,61 @@
+T1	LIVB 29 34	femme
+T2	PROC 60 66	admise
+T3	Hospital 71 79	urgences
+T4	DISO 106 148	syndrome d'épanchement péritonéal biliaire
+T5	ANAT 129 148	péritonéal biliaire
+T6	TEMP 158 174	depuis deux mois
+T7	PROC 213 228	hospitalisation
+T8	PROC 234 259	chimiothérapie palliative
+T9	CHEM 270 283	dexaméthasone
+T10	DOSE 284 290	200 mg
+T11	TEMP 290 295	/jour
+T12	CHEM 298 322	sulfate dehydrocortisone
+T13	CHEM 326 338	triamoxifène
+T14	PROC 344 374	bilan biologique préopératoire
+T15	PHEN 412 427	fonction rénale
+T16	ANAT 421 427	rénale
+T17	MEAS 428 435	normale
+T18	DISO 448 477	hyperparathyroïdie secondaire
+T19	DISO 487 505	pathologie maligne
+T20	PROC 519 543	hémoglobine glycoréférée
+T21	MEAS 556 563	12 g/dl
+T22	PROC 569 604	TDM abdomino-pelvienne exploratrice
+T23	ANAT 573 604	abdomino-pelvienne exploratrice
+T25	ANAT 668 689	latéro-utérine droite
+T27	PROC 788 797	injection
+T28	CHEM 801 821	produit de contraste
+T29	MEAS 833 843	rapidement
+T30	Concept_Idea 847 853	volume
+T31	ANAT 874 906	greffon hépato-gastro œsophagien
+T32	ANAT 938 955	anses intestinaux
+T33	PROC 1000 1009	injection
+T34	CHEM 1013 1033	produit de contraste
+T35	DISO 1061 1076	cystorénellaire
+T36	LIVB 1096 1101	homme
+T37	DISO 1138 1158	maladie neurologique
+T38	DISO 1185 1203	diabète hypertendu
+T39	DISO 1209 1242	insuffisance rénale intraveineuse
+T40	ANAT 1222 1242	rénale intraveineuse
+T41	DISO 1307 1322	symptomatologie
+T42	PROC 1327 1363	tomodensitométrie abdomino pelvienne
+T43	ANAT 1345 1363	abdomino pelvienne
+T46	Localization 1413 1417	sous
+T47	ANAT 1499 1518	muqueuse abdominale
+T48	ANAT 1558 1577	membranes vaginales
+T49	DISO 1627 1658	kysto-interstitielle pléomorphe
+T50	ANAT 1681 1711	jonction colligeur iléocoecale
+T51	ANAT 1778 1803	valvule rectosigmoïdienne
+T52	PROC 1806 1829	endoscopie œsophagienne
+T53	ANAT 1817 1829	œsophagienne
+T54	DISO 1856 1898	tumeur polypoïde bourgeonnante sécrétrante
+T55	PROC 2005 2031	examen anatomopathologique
+T56	DISO 2044 2075	adénocarcinome du paragangliome
+T57	ANAT 2062 2075	paragangliome
+T58	DISO 2137 2169	métastase des glandes salivaires
+T59	ANAT 2151 2169	glandes salivaires
+T60	DISO 2219 2272	syndrome d'épanchement péricardique périhypogastrique
+T61	ANAT 2242 2272	péricardique périhypogastrique
+T62	TEMP 2282 2295	depuis 2 mois
+T63	DISO 2311 2330	traumatisme crânien
+T64	DISO 2336 2361	atteinte vasculo-nerveuse
+T65	ANAT 2345 2361	vasculo-nerveuse

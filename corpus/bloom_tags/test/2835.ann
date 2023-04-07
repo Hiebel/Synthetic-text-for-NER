@@ -1,0 +1,26 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 82	admis
+T6	Hospital 87 95	urgences
+T7	DISO 104 148	syndrome d'épanchement péritonéal aigu aigue
+T8	ANAT 127 137	péritonéal
+T9	TEMP 180 193	depuis 3 mois
+T10	PROC 197 211	interrogatoire
+T11	DISO 234 248	épigastralgies
+T12	DISO 277 300	vomissements chroniques
+T13	LIVB 321 329	patiente
+T14	PROC 333 363	échographie abdomino-pelvienne
+T15	ANAT 345 363	abdomino-pelvienne
+T16	PROC 396 415	bilan préopératoire
+T17	PROC 429 453	laparotomie exploratrice
+T18	PROC 459 505	anastomose intestinale iléo-gastro-anastomotée
+T19	ANAT 470 505	intestinale iléo-gastro-anastomotée
+T20	DISO 532 574	masse tissulaire latéro péritonéale droite
+T21	Localization 568 574	droite
+T22	MEAS 584 588	12cm
+T23	Concept_Idea 592 601	grand axe
+T24	ANAT 617 628	hile utérin
+T25	PROC 670 679	injection
+T26	CHEM 683 703	produit de contraste

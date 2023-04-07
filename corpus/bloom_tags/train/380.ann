@@ -1,0 +1,14 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	MEAS 36 44	deuxième
+T4	DISO 80 103	hypertension artérielle
+T5	ANAT 93 103	artérielle
+T6	PROC 108 117	admission
+T7	Hospital 121 136	bloc opératoire
+T8	Concept_Idea 145 150	poids
+T9	MEAS 154 159	12 kg
+T10	PROC 163 188	intervention chirurgicale
+T11	PROC 224 242	cystectomie droite
+T12	Localization 236 242	droite
+T13	PROC 248 408	anastomose péritonéale péripancréatico-gastro duodéno-épiploique ilééo-cæcale pancréatique biliopancréatique iléo-biliaire transfixiante des grosses épiploiques
+T15	ANAT 389 408	grosses épiploiques

@@ -1,0 +1,52 @@
+T1	LIVB 29 34	femme
+T2	DISO 61 88	AVC ischémique hémorragique
+T3	DISO 123 147	déficit moteur myalgique
+T4	TEMP 157 172	pendant 6 jours
+T5	LIVB 179 181	sa
+T6	PROC 182 197	hospitalisation
+T7	DISO 213 245	polyradiculonévrite constrictive
+T8	MEAS 260 267	modérée
+T9	MEAS 277 300	spontanément résolutive
+T10	DISO 333 354	perte de connaissance
+T11	DISO 362 378	sueurs bilieuses
+T12	PROC 384 399	examen clinique
+T13	LIVB 404 412	patiente
+T14	DISO 427 452	amaigrissement généralisé
+T15	MEAS 463 468	30 kg
+T16	DISO 484 501	hypotonie motrice
+T17	DISO 509 534	troubles sensitivo-moteur
+T18	DISO 545 568	anomalies neurologiques
+T19	PROC 583 634	radiographie du cervico-thoraco-abdomino- pelvienne
+T20	ANAT 599 634	cervico-thoraco-abdomino- pelvienne
+T22	ANAT 661 693	artérielle périthoracique droite
+T23	Localization 687 693	droite
+T24	DISO 712 755	insuffisance ventriculaire supra-sténosante
+T25	ANAT 725 755	ventriculaire supra-sténosante
+T26	Localization 739 744	supra
+T27	ANAT 771 807	artère pulmonaire postérieure droite
+T28	Localization 789 807	postérieure droite
+T29	DISO 827 910	infiltrat graisseux tissulaire intrarachidien pariétal inféro-supraglaniosténonnant
+T31	MEAS 920 928	14/10 cm
+T32	PROC 944 953	injection
+T33	CHEM 957 977	produit de contraste
+T34	MEAS 989 1006	significativement
+T35	Concept_Idea 1010 1016	taille
+T36	TEMP 1035 1044	24 heures
+T37	PROC 1050 1079	rachianesthésie locorégionale
+T38	LIVB 1122 1124	Sa
+T39	PROC 1125 1169	ponction pleurieuse médiastinale liquidienne
+T40	ANAT 1134 1169	pleurieuse médiastinale liquidienne
+T41	MEAS 1183 1190	1 litre
+T42	DOSE 1232 1237	10 mg
+T43	CHEM 1241 1255	chlorpromazine
+T44	DEVI 1280 1301	doulleurs électriques
+T45	CHEM 1349 1367	méthylprednisolone
+T46	PROC 1380 1398	traitement curatif
+T47	CHEM 1409 1428	cyclo-dexaméthasone
+T48	DOSE 1431 1438	2 mg/kg
+T49	TEMP 1438 1443	/jour
+T50	CHEM 1446 1464	hydroxychloroquine
+T51	DOSE 1467 1475	0,5mg/kg
+T52	TEMP 1475 1477	/j
+T53	PHEN 1516 1530	réhydratations
+T54	LIVB 1693 1701	médecins

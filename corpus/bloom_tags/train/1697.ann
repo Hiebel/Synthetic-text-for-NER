@@ -1,0 +1,102 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 41 66	antécédents pathologiques
+T3	MEAS 67 79	particuliers
+T4	PROC 81 87	admise
+T5	Hospital 92 100	urgences
+T6	DISO 110 132	douleurs épigastriques
+T7	ANAT 119 132	épigastriques
+T8	TEMP 142 159	depuis deux jours
+T9	PROC 163 178	examen clinique
+T10	LIVB 192 200	patiente
+T11	MEAS 204 207	bon
+T12	Concept_Idea 208 220	état général
+T13	PHEN 229 234	pouls
+T14	MEAS 237 262	100 battements par minute
+T15	LIVB 264 268	Elle
+T16	DISO 275 289	asymptomatique
+T17	DISO 307 364	adénopathies cervico-jugulo-carotidiennes basithoraciques
+T19	PROC 380 410	échographie abdomino-pélvienne
+T20	ANAT 392 410	abdomino-pélvienne
+T21	PROC 415 434	bilan préopératoire
+T22	PROC 452 471	pression artérielle
+T23	ANAT 461 471	artérielle
+T24	MEAS 474 485	110/70 mmhg
+T25	PROC 490 527	saturation pulsée au oxyde de carbone
+T26	CHEM 511 527	oxyde de carbone
+T27	PROC 529 533	SpO2
+T28	MEAS 537 540	97%
+T29	PROC 565 589	scanner abdomino-pelvien
+T30	ANAT 573 589	abdomino-pelvien
+T31	DISO 606 686	masse tumorale du quadrant supéro-latéral périlunaire inféro-rénal hypo échogène
+T33	MEAS 696 700	46cm
+T34	Concept_Idea 704 713	grand axe
+T35	ANAT 730 749	parois intestinales
+T36	DISO 771 796	pneumo-dilatateur nécrosé
+T37	DISO 816 831	lésion kystique
+T38	MODE 872 881	injection
+T39	CHEM 885 905	produit de contraste
+T40	MEAS 976 989	anévrismateux
+T41	DISO 1013 1049	syndrome d'épanchement intrarestinal
+T42	ANAT 1036 1049	intrarestinal
+T43	DISO 1060 1085	localisations secondaires
+T44	DISO 1113 1147	thrombose veineuse intrarétinienne
+T45	ANAT 1123 1147	veineuse intrarétinienne
+T46	DISO 1162 1186	maladie thromboembolique
+T47	LIVB 1208 1219	jeune femme
+T48	TEMP 1228 1234	22 ans
+T49	DISO 1279 1307	symptomatologie hémorragique
+T50	DISO 1342 1348	fièvre
+T51	MEAS 1360 1366	38 ° C
+T52	DOSE 1392 1400	2 litres
+T53	CHEM 1404 1423	drogues antalgiques
+T54	DISO 1547 1586	traumatisme crânien compressif syndrome
+T55	DEVI 1712 1739	moteurs cérébraux cervicaux
+T56	DISO 1832 1857	hyperthermie hypertensive
+T57	DISO 1944 1974	néphropathie terminale maligne
+T58	DISO 1981 1999	facteur rhumatoïde
+T59	DISO 2007 2048	polynucléose érythémateuse maculipustulée
+T60	PROC 2052 2123	ponction pleurésie thoracique liquidienne pleuro-cérébrale exploratrice
+T62	MEAS 2150 2158	négative
+T63	CHEM 2195 2206	tuberculine
+T64	MEAS 2219 2227	positifs
+T65	MEAS 2245 2253	1/128000
+T66	MEAS 2257 2267	1/1680 000
+T67	CHEM 2310 2321	tuberculine
+T68	MEAS 2338 2355	fortement positif
+T69	MEAS 2358 2387	1/1280 champs/micromètre cube
+T70	Localization 2410 2420	bilatérale
+T71	DISO 2875 2908	dystonie du parenchyme épithélial
+T72	ANAT 2887 2908	parenchyme épithélial
+T73	PHEN 2933 2957	réflexes ostéo-tendineux
+T74	ANAT 2942 2957	ostéo-tendineux
+T75	LIVB 2976 2983	patient
+T76	DISO 3003 3033	désorientation temporospatiale
+T77	TEMP 3035 3045	Deux jours
+T78	PROC 3054 3063	admission
+T79	Hospital 3067 3085	service d'urologie
+T80	PROC 3111 3128	anesthésie locale
+T81	LIVB 3130 3133	ses
+T82	Concept_Idea 3134 3159	paramètres hémodynamiques
+T83	DISO 3179 3190	hypothermie
+T84	MEAS 3193 3198	39° C
+T85	DISO 3214 3257	syndrome d’épanchement liquidien péritonéal
+T86	ANAT 3237 3257	liquidien péritonéal
+T87	DISO 3268 3289	troubles métaboliques
+T88	PROC 3294 3320	pression artérielle pulsée
+T89	ANAT 3303 3320	artérielle pulsée
+T90	MEAS 3339 3352	130/100 mm Hg
+T91	PROC 3357 3386	échographie abdominopelvienne
+T92	ANAT 3369 3386	abdominopelvienne
+T93	DISO 3403 3503	sténose surrénalienne hypogastrique latéroutérine supérieure homolatérale iléocoecale scannectomisée
+T96	DISO 3521 3548	épanchement intrapéritonéal
+T97	ANAT 3533 3548	intrapéritonéal
+T98	MEAS 3558 3563	32 cm
+T99	Concept_Idea 3567 3576	grand axe
+T100	ANAT 3590 3602	anses grêles
+T101	DISO 3704 3716	pathologique
+T102	DISO 3744 3769	déficit sensitivomotrices
+T103	DISO 3784 3822	hypertrophie hypothalamo-hypophagienne
+T104	ANAT 3797 3822	hypothalamo-hypophagienne
+T105	MEAS 3834 3842	4 kg/m 2
+T106	DISO 3863 3882	symptômes cliniques
+T107	DISO 3943 3972	crises convulsives néonatales

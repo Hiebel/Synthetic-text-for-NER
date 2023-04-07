@@ -1,0 +1,12 @@
+T1	LIVB 24 31	patient
+T2	Concept_Idea 286 303	état psychomoteur
+T3	PROC 345 379	prise en charge médicale familiale
+T4	TEMP 390 397	enfance
+T5	PROC 427 454	chimiothérapie substitutive
+T7	PROC 548 574	anticoagulation préventive
+T8	PROC 590 632	thyroïdectomie prophylactique endoscopique
+T9	PROC 646 734	perfusion aspirative extracorporelle monophasique péribronchovasculaire bipédicamenteuse
+T10	DOSE 852 867	500 millilitres
+T11	PROC 981 1003	traitement chirurgical
+T12	DEVI 1075 1110	matériel cohésif lithiasique souple
+T13	PROC 1217 1248	chauffage gastroduodénal direct

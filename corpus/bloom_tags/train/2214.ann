@@ -1,0 +1,26 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	DISO 42 66	antécédents pathologique
+T4	MEAS 67 75	notables
+T5	PROC 77 82	admis
+T6	Hospital 87 108	urgences pédiatriques
+T7	DISO 127 152	insuffisance rénale aigue
+T8	ANAT 140 146	rénale
+T9	Concept_Idea 162 169	vitesse
+T10	PHEN 173 186	sédimentation
+T11	MEAS 189 194	40 mm
+T12	PROC 198 222	exploration chirurgicale
+T13	DISO 239 265	pneumo-pancréatite nécrose
+T14	ANAT 279 298	gros intestin grêle
+T15	ANAT 306 321	parois utérines
+T16	PROC 326 345	bilan préopératoire
+T17	PROC 363 371	kaliémie
+T18	MEAS 374 383	2,6 meq/l
+T19	DOSE 385 395	150 meq/kg
+T20	PROC 398 417	hémoglobine glyquée
+T21	MEAS 420 424	8,7%
+T22	PROC 446 473	numération formule sanguine
+T23	MEAS 480 487	normale
+T24	PROC 492 510	ionogramme sanguin
+T25	ANAT 503 510	sanguin
+T26	CHEM 556 574	méthylprédnisolone

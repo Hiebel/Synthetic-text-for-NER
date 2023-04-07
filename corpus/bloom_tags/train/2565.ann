@@ -1,0 +1,30 @@
+T1	LIVB 20 25	fille
+T2	TEMP 34 39	5 ans
+T3	MEAS 74 82	notables
+T4	DISO 132 151	symptômes cliniques
+T5	TEMP 161 174	depuis 6 mois
+T6	DISO 194 208	amaigrissement
+T7	MEAS 219 224	15 kg
+T8	Hospital 257 265	urgences
+T9	PROC 271 296	traitement antibacillaire
+T10	CHEM 307 318	Cyclosérine
+T11	CHEM 321 348	Triméthoprime-Sulfamoxazole
+T12	CHEM 373 389	Rif+Pyrazinamide
+T13	DOSE 477 486	200 mg/kg
+T14	MODE 486 498	intraveineux
+T15	DOSE 534 542	400mg/kg
+T16	TEMP 542 544	/j
+T17	DISO 590 616	douleurs pelviennes aiguës
+T18	ANAT 599 616	pelviennes aiguës
+T19	MEAS 638 646	intenses
+T20	MEAS 661 686	progressivement accentuée
+T21	DISO 703 709	sueurs
+T22	PHEN 714 722	tolérées
+T23	DISO 739 765	perte de substance blanche
+T24	ANAT 786 798	sinus utérin
+T25	DISO 855 886	méningo-néphropathy congénitale
+T26	DISO 898 927	pathophysiologie neurologique
+T27	DISO 941 989	syndrome d'épanchement péricardique systématisée
+T28	ANAT 964 989	péricardique systématisée
+T29	LIVB 1120 1127	patiens
+T30	PROC 1323 1349	traitement médical curatif

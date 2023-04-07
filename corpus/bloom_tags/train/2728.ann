@@ -1,0 +1,21 @@
+T1	LIVB 28 35	patient
+T3	ANAT 75 106	jugulo-carotidienne congénitale
+T4	TEMP 116 132	depuis deux mois
+T5	MEAS 144 159	progressivement
+T6	Concept_Idea 163 169	volume
+T7	MEAS 179 195	plus volumineuse
+T8	DISO 221 242	détresse respiratoire
+T9	PHEN 230 242	respiratoire
+T10	MEAS 257 268	progressive
+T11	LIVB 286 293	patient
+T12	PROC 300 319	traité médicalement
+T13	PROC 332 364	bilan radiologique préopératoire
+T14	DISO 402 412	métastases
+T15	DISO 418 443	envahissement sous-cutané
+T16	ANAT 432 443	sous-cutané
+T17	PROC 446 471	intervention chirurgicale
+T18	PROC 490 512	chirurgie exploratrice
+T19	DISO 529 543	masse tumorale
+T20	DISO 562 603	asymétrie tricuspédion tridiaphragmatique
+T21	ANAT 572 603	tricuspédion tridiaphragmatique
+T22	LIVB 624 630	enfant

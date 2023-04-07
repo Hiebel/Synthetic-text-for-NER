@@ -1,0 +1,42 @@
+T1	LIVB 29 37	patiente
+T2	PROC 64 68	reçu
+T3	Hospital 73 81	urgences
+T4	DISO 93 160	traumatisme ischémique du plexus phréno-pancréatique inféro-latéral
+T6	DISO 189 210	détresse respiratoire
+T7	PHEN 198 210	respiratoire
+T8	PROC 214 229	examen clinique
+T9	Concept_Idea 247 258	température
+T10	MEAS 261 265	39°C
+T11	DISO 271 279	polypnée
+T12	DISO 283 289	sueurs
+T13	PROC 294 313	pression artérielle
+T14	ANAT 303 313	artérielle
+T15	MEAS 322 333	130/70 mmHg
+T16	DISO 357 394	syndrome d'épanchement intracavitaire
+T17	ANAT 380 394	intracavitaire
+T18	DISO 404 434	troubles hydro-électrolytiques
+T19	DISO 460 487	hypotensionnel hypertensive
+T20	PROC 493 512	bilan préopératoire
+T21	DISO 538 562	thrombophilie secondaire
+T22	PROC 576 593	natrémie corrigée
+T23	MEAS 596 609	126 meq/100ml
+T24	PROC 611 619	kaliémie
+T25	MEAS 622 635	2,5 meq/100ml
+T26	PROC 642 675	échocardiographie transthoracique
+T27	ANAT 660 675	transthoracique
+T28	PROC 690 713	anesthésielocorégionale
+T29	DISO 729 791	masse tissulaire hypo-echogène hétérogène hypokaliéno-acidulée
+T30	MEAS 801 804	3cm
+T31	Concept_Idea 808 817	grand axe
+T32	CHEM 835 855	produit de contraste
+T33	ANAT 870 887	oreillette gauche
+T34	Localization 881 887	gauche
+T35	DISO 916 933	tumorale kystique
+T36	DISO 954 999	hyperdensité liquidienne angulo-cytoplasmique
+T37	DEVI 1014 1035	lambeau transfixiante
+T38	ANAT 1075 1102	organe hyo-thyro-rhynallien
+T39	DISO 1175 1208	carcinome parathyroïdien infiltré
+T40	ANAT 1185 1208	parathyroïdien infiltré
+T41	DISO 1222 1254	adénocarcinome chondromédullaire
+T42	TEMP 1303 1320	à titre personnel
+T43	PROC 1360 1387	tomodensitométrie digestive

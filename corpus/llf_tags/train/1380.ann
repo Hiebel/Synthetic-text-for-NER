@@ -1,0 +1,69 @@
+T1	LIVB 20 28	patiente
+T2	DISO 50 75	antécédents pathologiques
+T3	MEAS 76 88	particuliers
+T4	PROC 99 107	adressée
+T5	Hospital 111 130	chirurgie viscérale
+T6	PROC 136 164	prise en charge chirurgicale
+T7	DISO 181 205	symptomatologie clinique
+T8	TEMP 218 224	2 mois
+T9	DISO 257 306	déficit sensitivomoteur du membre supérieur droit
+T10	ANAT 284 306	membre supérieur droit
+T11	Localization 301 306	droit
+T12	DISO 321 329	boiterie
+T13	DISO 336 365	trouble des réponses sociales
+T14	PHEN 348 365	réponses sociales
+T15	Concept_Idea 367 370	IMC
+T16	MEAS 372 382	33,6 kg/m²
+T17	PROC 389 403	interrogatoire
+T18	LIVB 408 415	patient
+T19	DISO 456 469	consanguinité
+T20	LIVB 476 479	son
+T21	LIVB 480 486	épouse
+T22	LIVB 490 492	sa
+T23	LIVB 493 506	belle-famille
+T24	CHEM 582 597	céphalosporines
+T25	DISO 660 668	vertiges
+T26	LIVB 672 674	il
+T27	PROC 699 712	antibiogramme
+T28	PROC 716 741	examen neuropsychiatrique
+T29	LIVB 762 772	nourrisson
+T30	DISO 837 877	convulsions hypocaloriques paroxystiques
+T31	TEMP 891 911	deux heures plus tôt
+T32	PROC 924 948	alimentation parentérale
+T33	LIVB 1014 1024	nouveau-né
+T34	DISO 1334 1372	phénomènes maniaco-dépressifs fébriles
+T35	MEAS 2331 2336	trois
+T36	PROC 2337 2380	investigations fonctionnelles diagnostiques
+T37	DEVI 2417 2453	matériel d'ostéosynthèse percutanées
+T38	DISO 3768 3789	nodule du rein gauche
+T39	ANAT 3778 3789	rein gauche
+T40	Localization 3783 3789	gauche
+T41	MEAS 3801 3816	progressivement
+T42	Concept_Idea 3820 3826	volume
+T43	DISO 3838 3859	signes inflammatoires
+T44	Concept_Idea 3889 3901	état général
+T45	PROC 3905 3920	examen clinique
+T46	LIVB 3937 3945	patiente
+T47	PHEN 3977 3992	fonction rénale
+T48	ANAT 3986 3992	rénale
+T49	MEAS 3999 4007	correcte
+T50	PROC 4027 4047	examen gynécologique
+T51	PROC 4098 4115	biologie standard
+T52	CHEM 4166 4182	acide valproique
+T53	DOSE 4184 4187	2 g
+T54	TEMP 4187 4195	par jour
+T55	PROC 4201 4231	bilan biologique préopératoire
+T56	DISO 4250 4266	syndrome tumoral
+T57	DISO 4284 4309	thrombose veineuse rénale
+T58	ANAT 4333 4349	colon transverse
+T59	PROC 4367 4388	fibroscopie cervicale
+T60	ANAT 4379 4388	cervicale
+T61	DISO 4415 4483	prolifération tissulaire intracytoplasmique anéchogène hétérotopique
+T62	ANAT 4497 4530	grande courbure iléale thoracique
+T63	MEAS 4540 4545	15 cm
+T64	Concept_Idea 4549 4557	diamètre
+T65	LIVB 4658 4666	patiente
+T66	DISO 4671 4714	tuberculose pulmonaire idiopathique maligne
+T67	DISO 4743 4759	maladie cœliaque
+T68	DISO 4781 4818	angiosarcome épidermoïde aigu myxoide
+T69	DISO 4959 4995	neurofibrome carcinomateux osmotrope

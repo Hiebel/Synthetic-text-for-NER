@@ -1,0 +1,62 @@
+T1	LIVB 4 15	jeune femme
+T2	TEMP 24 30	20 ans
+T3	PROC 54 66	hospitalisée
+T4	PROC 72 105	traitement substitutif anténatale
+T5	MEAS 159 167	notables
+T6	PROC 172 178	admise
+T7	Hospital 183 204	urgences pédiatriques
+T8	DISO 224 251	détresse respiratoire aiguë
+T9	PHEN 233 251	respiratoire aiguë
+T10	DOSE 277 282	2g/kg
+T11	CHEM 285 313	Ampicilline-Sulfaméthoxazole
+T12	CHEM 326 344	acide clavulanique
+T13	MODE 349 362	voie veineuse
+T14	PROC 382 401	chirurgie néonatale
+T15	PROC 418 444	traitement médical curatif
+T16	DISO 480 508	symptomatologie neurologique
+T17	PROC 532 560	soins locaux antibacillaires
+T18	PROC 574 597	radiothérapie adjuvante
+T19	DISO 674 705	méningo-pancréatopathie maligne
+T20	DISO 707 723	maladie cœliaque
+T21	DISO 726 748	paragangliome kystique
+T22	DISO 755 776	métastases pigmentées
+T23	DISO 820 844	diabète thromboembolique
+T24	PROC 865 898	imagerie par résonance magnétique
+T25	PROC 900 903	IRM
+T26	Localization 905 915	bilatérale
+T28	ANAT 1018 1048	corps caverneux ovésico-utérin
+T29	MEAS 1073 1080	32x24mm
+T30	MEAS 1084 1091	23x17mm
+T31	PROC 1107 1116	injection
+T32	CHEM 1120 1131	propranolol
+T33	DISO 1201 1334	lésions nodulaires basithoraciques infra-cerviculo-thoraciques latéro-suprato-laterales périventriculeuses infilcrantes hypertrophiés
+T34	ANAT 1388 1406	vésices cardiaques
+T35	DISO 1467 1496	tissus lésionnels nécrotiques
+T36	ANAT 1517 1557	hémisphères diaphragmatiques thoraciques
+T37	ANAT 1589 1606	ventricules droit
+T38	Localization 1601 1606	droit
+T39	ANAT 1614 1641	cavités cardiaques utérines
+T40	DISO 1662 1670	opacités
+T41	DISO 1783 1806	localisations tumorales
+T42	DISO 1821 1854	myomateuse éosinophilicocytophile
+T43	DISO 2062 2073	pathologies
+T44	MEAS 2087 2099	négligeables
+T45	PROC 2115 2139	scanner abdomino-pélvien
+T46	ANAT 2123 2139	abdomino-pélvien
+T47	ANAT 2181 2202	sous-diaphragmatiques
+T48	LIVB 2234 2242	patients
+T49	PROC 2263 2287	laparotomie exploratrice
+T50	Concept_Idea 2305 2322	anesthésie locale
+T51	DEVI 2327 2341	cæcum-kystique
+T52	PROC 2345 2369	exploration chirurgicale
+T53	DISO 2383 2411	épanchements intrapéritonéal
+T54	ANAT 2396 2411	intrapéritonéal
+T55	DISO 2426 2462	développement du greffon iléocoecale
+T56	ANAT 2443 2462	greffon iléocoecale
+T57	DISO 2475 2488	particularité
+T59	ANAT 2526 2543	parathyroïdiennes
+T60	PROC 2558 2577	bilan préopératoire
+T61	PROC 2579 2596	radio-chirurgical
+T62	PROC 2598 2621	radiothérapie adjuvante
+T63	DISO 2655 2678	ovario-fibrome kystique
+T64	DISO 2706 2731	localisation métastatique

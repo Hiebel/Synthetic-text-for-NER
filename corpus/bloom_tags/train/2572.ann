@@ -1,0 +1,73 @@
+T1	LIVB 26 36	madame T.Z
+T2	Concept_Idea 58 69	antécédents
+T3	MEAS 70 82	particuliers
+T4	PROC 84 96	hospitalisée
+T5	DISO 106 128	douleurs épigastriques
+T6	ANAT 115 128	épigastriques
+T7	DISO 145 151	fièvre
+T8	MEAS 163 167	39°C
+T9	PHEN 176 181	pouls
+T10	MEAS 191 203	120 batt/min
+T11	LIVB 205 209	Elle
+T12	PROC 216 224	adressée
+T13	Hospital 228 246	service d'urologie
+T14	Hospital 250 270	CHU Hassan II de Fès
+T15	PROC 284 309	cystoscopie transfixiante
+T16	PROC 311 315	CTFT
+T17	TEMP 317 326	immédiate
+T18	PROC 353 377	scanner abdomino-pelvien
+T19	ANAT 361 377	abdomino-pelvien
+T20	DISO 398 466	lésion tissulaire molle hypo-échogéne hypodense pariétale bilatérale
+T21	Localization 456 466	bilatérale
+T22	MEAS 476 480	6 cm
+T23	MEAS 485 488	3cm
+T24	DISO 529 559	troubles hydro-électrolytiques
+T25	PROC 565 588	auscultation pulmonaire
+T26	ANAT 578 588	pulmonaire
+T27	MEAS 595 602	normale
+T28	PROC 606 626	examen gynécologique
+T29	DISO 653 706	masse rétro utérine droite latéro péritonéale bilobée
+T30	ANAT 659 706	rétro utérine droite latéro péritonéale bilobée
+T32	MEAS 715 737	environ 50 centimètres
+T33	Concept_Idea 762 770	contours
+T34	MEAS 776 785	réguliers
+T35	DISO 807 817	saignement
+T36	DISO 836 848	métrorragies
+T37	PROC 864 880	bilan biologique
+T38	Hospital 893 901	urgences
+T39	PROC 915 923	kaliémie
+T40	MEAS 926 935	4,5 mEq/l
+T41	CHEM 951 959	natrémie
+T42	MEAS 962 971	135 meq/l
+T43	PROC 985 997	hyponatrémie
+T44	MEAS 1008 1017	122 meq/l
+T45	PROC 1040 1064	fibroscopie œsophagienne
+T46	ANAT 1052 1064	œsophagienne
+T47	DISO 1093 1102	anomalies
+T48	DISO 1120 1137	kystes hydatiques
+T49	DISO 1147 1179	atteinte parenchymateuse cutanée
+T50	ANAT 1156 1179	parenchymateuse cutanée
+T51	PROC 1185 1229	tomodensitométrie thoraco abdomino-pelvienne
+T52	ANAT 1203 1229	thoraco abdomino-pelvienne
+T53	PROC 1244 1268	anesthésie locorégionale
+T54	ANAT 1255 1268	locorégionale
+T58	ANAT 1532 1550	sinus sphénoïdiens
+T59	ANAT 1572 1600	parties molles interstitiels
+T60	DISO 1628 1863	envahilation ganglionnaire mésentérique normo-thoracique systéo-résidivante lobulocarotidienne étagée sécrétante métasurrénalienne craniothoracique splénocentricielle nécrose ischémique scissurale d'épanchement intrapéritonéal purulent
+T62	ANAT 1839 1854	intrapéritonéal
+T63	ANAT 1884 1914	veine cave rénale supra-cæcale
+T64	Localization 1902 1907	supra
+T65	DISO 1937 1997	nécrose sous-claviculaire diaphragmatique kystique polylobée
+T67	ANAT 2016 2033	cavité abdominale
+T68	ANAT 2076 2094	replis vasculaires
+T69	ANAT 2112 2130	membres inférieurs
+T70	ANAT 2146 2173	ventricule sus claviculaire
+T71	Localization 2157 2160	sus
+T72	ANAT 2190 2216	substance musculo-nerveuse
+T73	ANAT 2239 2276	muscle gastrocnéen superficiel médial
+T74	DISO 2311 2317	tumeur
+T75	DISO 2345 2366	détresse respiratoire
+T76	PHEN 2354 2366	respiratoire
+T77	DISO 2396 2416	syndrome malformatif
+T78	LIVB 2434 2445	jeune homme
+T79	TEMP 2453 2459	30 ans

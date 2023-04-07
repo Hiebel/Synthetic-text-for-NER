@@ -1,0 +1,88 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 67	particuliers
+T4	DISO 85 124	insuffisance rénale chronique terminale
+T5	ANAT 98 104	rénale
+T6	PROC 129 142	TDM du bassin
+T7	ANAT 136 142	bassin
+T8	DISO 158 228	processus tissulaire liquidien nodulaire des veines jugulaires droites
+T9	ANAT 203 228	veines jugulaires droites
+T10	Localization 221 228	droites
+T11	Concept_Idea 237 245	résultat
+T12	DISO 268 288	hypertriglycéridémie
+T13	PROC 293 312	sérologie hydatique
+T14	PROC 314 333	hémoglobine glyquée
+T15	PROC 337 339	Hb
+T16	PROC 353 379	ionogramme phosphocalcique
+T17	MEAS 392 402	concluants
+T18	PROC 408 428	biopsie chirurgicale
+T19	PROC 434 460	étude immuno-histochimique
+T20	Localization 498 504	droite
+T21	ANAT 519 540	troncs supra-aortique
+T22	DISO 579 609	symptômes hydroélectrolytiques
+T23	PHEN 624 642	suites opératoires
+T24	MEAS 651 658	simples
+T25	TEMP 668 678	10/12/2012
+T26	PROC 700 728	chimiothérapie néo adjuvante
+T27	CHEM 734 744	paclitaxel
+T28	PROC 758 791	néphrectomie totale scanno-guidée
+T29	PROC 807 834	surveillance postopératoire
+T30	PROC 854 880	transfusions intraveineuse
+T31	PROC 884 903	curage iléonobuccal
+T32	ANAT 891 903	iléonobuccal
+T33	PROC 908 927	suivi préopératoire
+T34	MEAS 938 945	stricte
+T35	LIVB 954 964	nourrisson
+T36	LIVB 981 983	il
+T37	PROC 994 999	admis
+T38	Hospital 1004 1025	urgences pédiatriques
+T39	PROC 1031 1058	prise en charge étiologique
+T40	PROC 1064 1075	hospitalisé
+T41	Hospital 1113 1145	bloc polycentrique psychiatrique
+T42	LIVB 1154 1156	il
+T43	Concept_Idea 1178 1204	activités professionnelles
+T44	PROC 1208 1235	analyse anatomopathologique
+T45	DISO 1254 1352	adénocarcinome épidermoïde papillaire infiltrant éosinophile mucineux carcinomateux nécrosophagien
+T46	MEAS 1360 1367	ACR4MN0
+T47	PROC 1428 1467	examen macroscopiquement per opératoire
+T48	DEVI 1492 1513	fil résorbable plâtré
+T49	MEAS 1523 1527	7 mm
+T50	MEAS 1532 1536	6 mm
+T51	ANAT 1734 1761	cavité gastro-oesophagienne
+T52	ANAT 1771 1792	parenchyme pulmonaire
+T53	ANAT 1813 1832	ganglions cervicaux
+T54	ANAT 1861 1912	foyer bronchique thoracique cavité abdomino-pelvien
+T55	ANAT 1918 1935	fragments cutanés
+T56	ANAT 1971 1994	parties molles fessiers
+T57	ANAT 2027 2058	région péritonéale médiastinale
+T58	ANAT 2074 2106	lambeau veineux antero-abdominal
+T59	DISO 2121 2148	métastase tumorale kystique
+T61	PROC 2273 2316	ostéotomie large amphiploi͏̈e T2BOTSOBODIAI
+T63	Localization 2557 2610	basithoracique interne basithoracique latérale droite
+T64	ANAT 2682 2737	segment III de l'artère sous clavière supérieure droite
+T65	Localization 2731 2737	droite
+T66	MEAS 2781 2788	simples
+T67	PROC 2795 2819	contrôle scannographique
+T68	DISO 2831 2839	anomalie
+T69	PROC 2844 2861	bilan d'extension
+T70	DISO 2876 3086	adénocarcinome des troncs supéro-aortiques sterno-mandibulaires jugulo-carotidiens intrahépato-thyroïdien gauches métatarsiens superficiellaires endocrânien inférieur thyroidien externe retroartériel infiltrant
+T73	Concept_Idea 3095 3123	position anatomopathologique
+T75	Localization 3187 3206	bilatéral antérieur
+T76	Localization 3222 3238	antérieur gauche
+T77	ANAT 3250 3260	rein droit
+T78	Localization 3255 3260	droit
+T79	ANAT 3266 3311	muscles ptérygoïdiens superficiels inferieurs
+T80	Localization 3288 3311	superficiels inferieurs
+T81	ANAT 3319 3471	membranes grêliques iléales cavitaires sus aréolo-réticulo-mésentériques rétromamelentiennes fronto-jugulosaurales homolatérales proximales conjonctives
+T82	Localization 3434 3471	homolatérales proximales conjonctives
+T83	PHEN 3476 3491	fonction rénale
+T84	ANAT 3485 3491	rénale
+T85	MEAS 3498 3505	normale
+T86	DISO 3527 3545	troubles sensitifs
+T87	DISO 3556 3576	symptômes infectieux
+T88	DISO 3603 3623	convulsions fébriles
+T89	PROC 3641 3657	acte chirurgical
+T90	PROC 3663 3688	étude immunohistochimique
+T91	DISO 3714 3759	cytokératine mucopolysaccharomyces cerevisiae
+T92	LIVB 3800 3806	germes
+T93	LIVB 3842 3865	Echinococcus agalactiae

@@ -1,0 +1,17 @@
+T1	PROC 3 19	cholécystectomie
+T2	PROC 40 59	anesthésie générale
+T3	PROC 85 113	drainage de l'intestin grêle
+T4	ANAT 99 113	intestin grêle
+T5	PROC 117 143	examen anatomopathologique
+T6	DISO 166 190	tumeur primitive du rein
+T7	ANAT 186 190	rein
+T8	DISO 196 206	métastases
+T9	DISO 217 242	localisations secondaires
+T10	PROC 260 279	bilan préopératoire
+T11	PROC 281 284	NFS
+T12	PROC 286 310	taux des globules blancs
+T13	PROC 312 329	hémoglobine A1-A2
+T14	PROC 331 333	Hb
+T15	MEAS 346 353	négatif
+T16	MEAS 386 393	simples
+T17	TEMP 412 419	24 mois

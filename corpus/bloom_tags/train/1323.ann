@@ -1,0 +1,67 @@
+T1	LIVB 4 9	fille
+T2	TEMP 18 23	7 ans
+T3	PROC 30 36	opérée
+T4	PROC 60 83	anesthésielocorégionale
+T5	CHEM 85 93	propofol
+T6	DOSE 96 105	0,5 mg/kg
+T7	CHEM 108 118	sufentanil
+T8	DOSE 121 130	1 µmol/kg
+T9	LIVB 141 145	elle
+T10	Hospital 165 186	urgences pédiatriques
+T11	DISO 205 228	agitation psychomotrice
+T12	MEAS 243 249	rapide
+T13	PROC 272 294	traitement chirurgical
+T14	CHEM 309 322	métronidazole
+T15	DOSE 324 330	200 mg
+T16	CHEM 332 347	éthaméthasolone
+T17	DOSE 350 355	20 mg
+T18	MODE 357 375	voie intraveineuse
+T19	LIVB 505 515	nouveau-né
+T20	TEMP 523 528	2 ans
+T21	PROC 551 566	hospitalisation
+T22	PROC 592 616	chimiothérapie adjuvante
+T23	PROC 757 777	traitement palliatif
+T24	DISO 851 877	malformations congénitales
+T25	DISO 920 936	rupture tumorale
+T26	DISO 954 982	tuberculose cutanéo-muqueuse
+T27	DISO 999 1032	syndrome d'épanchement péritonéal
+T28	ANAT 1022 1032	péritonéal
+T29	PROC 1249 1275	diagnostic bactériologique
+T30	PROC 1315 1318	IFI
+T31	PROC 1321 1357	ponction liquide pleural liquidienne
+T32	ANAT 1330 1357	liquide pleural liquidienne
+T33	PROC 1360 1363	PLL
+T34	PROC 1369 1401	scanner thoraco-abdomino pelvien
+T35	ANAT 1377 1401	thoraco-abdomino pelvien
+T39	PROC 1603 1612	injection
+T40	CHEM 1616 1624	propofol
+T41	PROC 1638 1654	bilan infectieux
+T42	MEAS 1661 1669	négativé
+T43	PROC 1676 1705	sérologies d'immunodépression
+T44	MEAS 1714 1723	négatives
+T45	MEAS 1783 1802	fortement positifés
+T46	TEMP 1816 1822	4 mois
+T47	MEAS 1842 1852	1680 UI/mL
+T48	PROC 1898 1939	numération formule sanguine préopératoire
+T49	PROC 1953 1972	hémoglobine glyquée
+T50	MEAS 1975 1979	8,2%
+T51	MEAS 1987 1992	10,7%
+T53	MEAS 2074 2081	1,2g/dl
+T54	LIVB 2086 2094	patiente
+T55	PROC 2114 2152	traitement antibacillaire probabiliste
+T56	CHEM 2166 2177	rifampicine
+T57	CHEM 2179 2189	isoniazide
+T58	CHEM 2191 2202	ethionamide
+T59	CHEM 2206 2219	métronidazole
+T60	Concept_Idea 2237 2251	critères d'OMS
+T61	PROC 2257 2287	échographie abdomino-pelvienne
+T62	ANAT 2269 2287	abdomino-pelvienne
+T63	PROC 2289 2292	ECU
+T64	DISO 2328 2365	kystadénocarcinome du pelvis grêlique
+T65	ANAT 2350 2365	pelvis grêlique
+T66	DISO 2383 2406	masse arrondie kystique
+T67	MEAS 2416 2420	20cm
+T68	Concept_Idea 2424 2433	grand axe
+T69	DISO 2439 2448	anomalies
+T70	DISO 2465 2491	composante tumoral maligne
+T71	ANAT 2506 2530	utérus utéro-placentaire

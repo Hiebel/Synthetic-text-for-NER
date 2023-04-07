@@ -1,0 +1,13 @@
+T1	PROC 2 23	recherche étiologique
+T2	DISO 40 48	récidive
+T3	DISO 54 82	kyste hydatique du péritoine
+T4	ANAT 73 82	péritoine
+T5	LIVB 87 95	patiente
+T6	PROC 114 148	radio-chimiothérapie néo adjuvante
+T7	CHEM 159 171	Temozolomide
+T8	DOSE 173 180	20mg/kg
+T9	TEMP 180 182	/j
+T10	MEAS 203 212	favorable
+T11	PROC 218 240	contrôle échographique
+T12	Concept_Idea 244 262	état hémodynamique
+T13	TEMP 297 304	18 mois

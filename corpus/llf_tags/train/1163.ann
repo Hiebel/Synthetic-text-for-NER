@@ -1,0 +1,28 @@
+T1	PROC 1 20	étude cytogénétique
+T2	ANAT 27 32	pièce
+T3	DISO 48 67	processus polypoïde
+T4	PROC 77 104	analyse immunohistochimique
+T5	DISO 121 175	formation tissulaire polylobée du lobe supérieur droit
+T6	ANAT 155 175	lobe supérieur droit
+T7	Localization 170 175	droit
+T8	DISO 191 212	léiomyome éosinophile
+T9	Concept_Idea 218 248	résultats anatomopathologiques
+T10	PROC 252 272	immunohistochimiques
+T11	LIVB 294 304	chirurgien
+T12	PROC 310 329	traitement adjuvant
+T13	DISO 334 371	récepteurs hormonaux gonadotrophiques
+T14	CHEM 373 386	oestrogénique
+T15	PROC 392 414	contrôle échographique
+T16	MEAS 426 431	bonne
+T17	PHEN 432 452	fonction moléculaire
+T18	ANAT 441 452	moléculaire
+T19	DISO 458 467	anomalies
+T20	ANAT 476 482	rectum
+T21	DISO 496 506	métastases
+T22	DISO 510 535	localisations secondaires
+T23	MEAS 563 576	spectaculaire
+T24	PROC 582 616	radio-chimiothérapie néo adjuvante
+T25	TEMP 623 631	deux ans
+T26	PROC 635 652	mise en condition
+T27	PROC 666 703	curiethérapie palliative substitutive
+T28	Concept_Idea 714 743	positionnements histologiques

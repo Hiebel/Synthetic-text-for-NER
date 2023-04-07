@@ -1,0 +1,29 @@
+T1	LIVB 22 27	fille
+T2	TEMP 31 37	12 ans
+T3	DISO 57 100	douleurs pelviennes méningées hyperalgiques
+T5	TEMP 110 126	depuis deux mois
+T6	Concept_Idea 162 174	état général
+T7	DISO 190 223	syndrome inflammatoire biologique
+T8	DISO 234 250	signes cliniques
+T9	DISO 277 303	sensibilité utéro-vaginale
+T10	ANAT 289 303	utéro-vaginale
+T11	DISO 316 340	symptômes gynécologiques
+T12	PROC 356 382	examens cytobactériophiles
+T13	PROC 404 416	consultation
+T14	MEAS 433 441	positifs
+T15	PROC 479 489	diagnostic
+T16	MEAS 504 513	négatives
+T17	PROC 516 531	examen clinique
+T18	LIVB 549 557	patiente
+T19	MODE 607 626	voie intra veineuse
+T20	CHEM 663 671	propofol
+T21	DOSE 674 686	0,5mg/kg/min
+T22	CHEM 688 697	midazolam
+T23	DOSE 700 709	1 mg/kg/h
+T24	CHEM 712 725	noradrenaline
+T25	DOSE 727 738	10ug/kg/min
+T26	CHEM 740 753	catécholamine
+T27	DOSE 756 767	4 µg/kg/min
+T28	DEVI 785 812	sonde œsophageoesophagienne
+T29	ANAT 791 812	œsophageoesophagienne
+T30	PROC 941 964	anesthésie chirurgicale

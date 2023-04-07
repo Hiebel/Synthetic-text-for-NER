@@ -1,0 +1,25 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 43	hospitalisée
+T3	Hospital 48 73	urgences ophtalmologiques
+T4	DISO 107 122	uvéite bulleuse
+T5	TEMP 132 149	depuis deux jours
+T6	DISO 174 188	déficit visuel
+T7	DISO 198 210	mélénasienne
+T8	DISO 275 338	décollement maculopapulo-squameux érythémato-nucléado-circulaté
+T9	DOSE 373 377	1 ml
+T10	CHEM 381 392	nicardipril
+T11	MODE 393 404	injectables
+T12	DOSE 407 411	2 mg
+T13	CHEM 415 427	prédnisolone
+T14	CHEM 461 474	dexaméthasone
+T15	CHEM 476 494	hydroxychloroquine
+T16	CHEM 496 509	bêtaméthasone
+T17	CHEM 511 525	hydrocortisone
+T18	CHEM 527 537	furosémide
+T19	CHEM 539 557	méthylprednisolone
+T20	PROC 562 598	auscultation cardio-vasculo-nerveuse
+T21	ANAT 575 598	cardio-vasculo-nerveuse
+T22	DISO 612 641	dyspnée stade II de Balthazar
+T23	ANAT 669 710	liquidien péribuccal iléocæco-tricuspidal
+T24	DISO 746 776	sensibilité thoracique purulée
+T25	ANAT 758 776	thoracique purulée

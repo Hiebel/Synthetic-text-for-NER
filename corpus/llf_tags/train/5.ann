@@ -1,0 +1,86 @@
+T1	PROC 2 21	bilan préopératoire
+T2	DISO 59 73	particularités
+T3	PROC 77 103	examen anatomopathologique
+T4	ANAT 110 126	pièce opératoire
+T5	PROC 116 126	opératoire
+T6	DISO 144 152	anomalie
+T7	PROC 157 190	scanner thoraco- abdomino pelvien
+T8	ANAT 165 190	thoraco- abdomino pelvien
+T9	MEAS 197 203	normal
+T10	PROC 218 273	radiographies des glandes salivaires intracrânio-rénale
+T11	ANAT 236 273	glandes salivaires intracrânio-rénale
+T12	Concept_Idea 283 290	chiffre
+T13	MEAS 293 298	15 mm
+T14	DISO 314 381	carcinome épidermoïde du lobe supérieur péritonéal basal infiltrant
+T16	Localization 344 353	supérieur
+T17	LIVB 397 405	patiente
+T18	PROC 424 444	exérèse chirurgicale
+T19	Localization 467 473	droite
+T20	PROC 487 523	tomodensitométrie mono-échographique
+T21	DISO 539 621	processus lésionnel tissulaire érythémateux mésenchymateux erectiligne polylobulée
+T22	ANAT 638 655	hémithorax gauche
+T23	Localization 649 655	gauche
+T24	MEAS 665 669	7 cm
+T25	Concept_Idea 673 682	grand axe
+T26	Concept_Idea 688 697	caractère
+T27	DISO 716 781	pseudo myxome interstitiel cutané anévrysmale kystique malignités
+T28	MEAS 789 795	T3N2M0
+T29	PROC 840 876	curage ganglionnaire cervico-vaginal
+T30	ANAT 847 876	ganglionnaire cervico-vaginal
+T31	PHEN 968 990	grossesses gémellaires
+T32	MEAS 1023 1033	au moins 5
+T33	ANAT 1034 1067	voies veineuses biliaires fœtales
+T34	ANAT 1094 1118	branches iléales droites
+T35	Localization 1111 1118	droites
+T36	MEAS 1162 1169	diffuse
+T37	MEAS 1190 1197	simples
+T38	MEAS 1207 1235	significativement favorables
+T39	Concept_Idea 1248 1265	plan neurologique
+T40	PROC 1285 1356	tumorectomie totale axillaire supérieure termino-latérale superficielle
+T41	Localization 1326 1356	termino-latérale superficielle
+T42	TEMP 1385 1397	février 2012
+T46	Localization 1699 1743	gauchescentrale maxillaire inférieure droite
+T47	Localization 1795 1814	transversale gauche
+T49	Localization 1862 1872	symétrique
+T50	PROC 1932 2130	anastomose termino-mandibulaire pariéto-fundique péridurale sus claviculienne supra mandibulaire costale superpostérieure longitudinale réhaussée médiobronchique rétro apicale latéral adjacente face
+T52	Localization 2116 2130	adjacente face
+T55	MEAS 2819 2826	simples
+T56	PROC 2832 2858	examen anatomopathologique
+T57	ANAT 2865 2870	pièce
+T58	DISO 2891 2924	tumeur primitive du scalp frontal
+T59	ANAT 2911 2924	scalp frontal
+T60	Concept_Idea 2933 2953	aspect morphologique
+T61	DISO 2974 3008	thrombophlébite ischémique maligne
+T62	DISO 3025 3085	remaniements kystiques érythémateux cutanéomuqueux cervicaux
+T63	LIVB 3102 3110	patiente
+T64	CHEM 3127 3146	corticoïde calcique
+T65	MODE 3151 3171	voie intramédullaire
+T66	PROC 3184 3207	mesures prophylactiques
+T67	PROC 3214 3232	séjour hospitalier
+T68	Hospital 3236 3251	bloc opératoire
+T69	PROC 3264 3289	consultation chirurgicale
+T70	TEMP 3309 3317	six mois
+T71	MEAS 3339 3348	favorable
+T72	Concept_Idea 3356 3369	plan clinique
+T73	DISO 3399 3424	réactions anaphylactoïdes
+T74	PROC 3448 3472	traitements chirurgicaux
+T75	DISO 3501 3526	incident thromboembolique
+T76	DISO 3544 3563	maladie auto-immune
+T77	Concept_Idea 3576 3594	état hémodynamique
+T78	LIVB 3617 3625	Madame H
+T79	DISO 3630 3653	distension respiratoire
+T80	PHEN 3641 3653	respiratoire
+T81	DEVI 3710 3731	appareil respiratoire
+T82	MEAS 3816 3826	permanente
+T83	Concept_Idea 3852 3870	limites naturelles
+T84	PROC 3918 3957	contractions cardio-vasculaires fœtales
+T85	ANAT 3931 3957	cardio-vasculaires fœtales
+T86	DISO 4018 4045	trouble hydro-hémodynamique
+T87	DISO 4052 4085	syndrome néphrotique gestationnel
+T88	DISO 4105 4114	malignité
+T89	DISO 4152 4161	anomalies
+T90	DISO 4186 4192	fièvre
+T91	MEAS 4204 4210	39 ° C
+T92	DISO 4233 4280	hypertension naso-crânio-céphalique congénitale
+T93	ANAT 4246 4280	naso-crânio-céphalique congénitale
+T94	Concept_Idea 4363 4380	état neurologique

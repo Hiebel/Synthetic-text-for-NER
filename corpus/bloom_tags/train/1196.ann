@@ -1,0 +1,101 @@
+T1	LIVB 29 37	patiente
+T2	PROC 78 119	curetage grêlico-surrénalien transfémoral
+T3	ANAT 87 119	grêlico-surrénalien transfémoral
+T4	PROC 121 124	TFT
+T5	PROC 129 154	étude anatomopathologique
+T6	DISO 176 184	kystique
+T7	DISO 191 197	tumeur
+T8	MEAS 207 212	10 cm
+T9	Concept_Idea 216 225	grand axe
+T10	PROC 246 255	injection
+T11	DOSE 259 264	20 ml
+T12	CHEM 268 288	produit de contraste
+T13	ANAT 309 327	membres inférieurs
+T14	ANAT 340 360	artère rénale droite
+T15	Localization 354 360	droite
+T16	DISO 439 466	épanchement intrapéritonéal
+T17	ANAT 451 466	intrapéritonéal
+T18	LIVB 517 523	malade
+T19	DISO 587 609	intoxication tabagique
+T20	DISO 616 635	syndrome infectieux
+T21	PROC 648 672	échographie obstétricale
+T22	DISO 691 719	adénopathie surrénalienienne
+T23	ANAT 703 719	surrénalienienne
+T24	PROC 743 767	scanner abdomino-pelvien
+T25	ANAT 751 767	abdomino-pelvien
+T27	ANAT 889 912	paroi abdominopelvienne
+T28	TEMP 922 934	depuis 6mois
+T29	MEAS 950 965	progressivement
+T30	Concept_Idea 969 975	taille
+T31	MEAS 985 997	bien limitée
+T32	ANAT 1014 1050	quadrant supéro-médio-latéral gauche
+T33	DISO 1070 1127	adénopathies hypovolculaires péripéritonéales hypodensees
+T35	TEMP 1153 1165	environ 1 an
+T36	DISO 1196 1221	tuméfaction hypertrophiée
+T37	DISO 1240 1263	hernie placenta utérine
+T38	ANAT 1247 1263	placenta utérine
+T39	DISO 1292 1335	utérus polymyomateux séreux mal cicatriciel
+T40	DISO 1356 1386	troubles hydro-électrolytiques
+T41	DISO 1408 1427	symptômes cliniques
+T42	Concept_Idea 1480 1487	aspects
+T43	MEAS 1496 1522	difficilement appréciables
+T44	PROC 1577 1593	touchers rectaux
+T45	ANAT 1586 1593	rectaux
+T46	PROC 1644 1668	obstétriciens radiologue
+T47	PROC 1756 1774	chirurgie curative
+T48	PROC 1914 1937	diagnostic différentiel
+T49	PROC 2020 2064	tomodensitométrie thoraco-abdomino-pelvienne
+T50	ANAT 2038 2064	thoraco-abdomino-pelvienne
+T51	DISO 2078 2168	masse angulo-céphaloïdo-thoracique rétrostérnale latercervicale basithoracique dorsiflexée
+T52	Localization 2157 2168	dorsiflexée
+T53	MEAS 2180 2197	de façon homogène
+T54	Concept_Idea 2201 2207	volume
+T55	MEAS 2218 2221	6cm
+T56	MEAS 2224 2238	13 centimètres
+T57	DISO 2259 2340	adénopathies hypovolculaires pericentritallées sus-rénaliennes hypo-vascularisées
+T59	PROC 2344 2374	échographie abdomino-pelvienne
+T60	ANAT 2356 2374	abdomino-pelvienne
+T61	DISO 2406 2498	masse arrondie hétérogène des parties molles cervico-caudales du pancréas biliaire chronique
+T63	MEAS 2508 2514	2,5 cm
+T64	CHEM 2545 2553	propofol
+T65	PROC 2557 2590	imagerie par résonance magnétique
+T66	PROC 2592 2595	IRM
+T67	DISO 2624 2662	syndrome d'épanchement péritonéal aigu
+T68	ANAT 2647 2662	péritonéal aigu
+T69	LIVB 2664 2666	Il
+T70	PROC 2684 2703	anesthésie générale
+T71	PROC 2709 2739	bilan d’extension locorégional
+T72	MEAS 2757 2763	normal
+T73	DISO 2781 2806	localisation métastatique
+T74	PROC 2821 2844	sérologies virales BHCG
+T75	PROC 2846 2870	anticorps antinucléaires
+T76	PROC 2883 2925	examen cytobactériologique des prurigineux
+T77	ANAT 2914 2925	prurigineux
+T78	MEAS 2947 2955	positifs
+T79	PHEN 2973 2993	grossesse gémellaire
+T80	TEMP 3003 3015	depuis 3 ans
+T81	DISO 3031 3045	prise de poids
+T82	DISO 3052 3071	déficit immunitaire
+T83	DISO 3077 3104	hyperparathyroïdie primaire
+T84	LIVB 3123 3131	patiente
+T85	PROC 3137 3173	ponctions pleurétiques exploratrices
+T86	ANAT 3147 3159	pleurétiques
+T87	Hospital 3188 3196	urgences
+T88	MEAS 3223 3231	1 litres
+T89	MEAS 3237 3245	4 litres
+T90	PROC 3298 3331	dosage de la 25hydroxy-vitamine D
+T91	MEAS 3344 3359	fortement élevé
+T92	PROC 3373 3397	exploration chirurgicale
+T93	DISO 3429 3459	carcinose épidermoïde kystique
+T94	DISO 3506 3537	épanchement péritonéal infiltré
+T95	ANAT 3518 3537	péritonéal infiltré
+T96	PROC 3543 3569	radiothérapies palliatives
+T97	PROC 3610 3637	traitement médical adjuvant
+T98	CHEM 3668 3678	cisplatine
+T99	CHEM 3681 3694	dexaméthasone
+T100	DOSE 3697 3700	3mg
+T101	DOSE 3702 3707	75 mg
+T102	MODE 3709 3719	voie orale
+T103	CHEM 3722 3735	metronidazole
+T104	DOSE 3738 3744	800 mg
+T105	DISO 3788 3811	récidive carcinomateuse

@@ -1,0 +1,15 @@
+T1	LIVB 3 10	patient
+T2	PROC 28 52	scanner abdomino-pelvien
+T3	ANAT 36 52	abdomino-pelvien
+T4	MEAS 70 81	volumineuse
+T5	DISO 82 88	tumeur
+T6	ANAT 105 128	fosse ombilicale droite
+T7	Localization 122 128	droite
+T8	ANAT 144 153	péritoine
+T9	ANAT 161 167	utérus
+T10	PROC 172 194	TDM abdomino-pelvienne
+T11	ANAT 176 194	abdomino-pelvienne
+T12	DISO 206 215	anomalies
+T13	DISO 232 265	hypodensité du liquide péritonéal
+T14	ANAT 247 265	liquide péritonéal
+T15	DISO 287 330	carcinome épidermoïde pancréatothrombopénie

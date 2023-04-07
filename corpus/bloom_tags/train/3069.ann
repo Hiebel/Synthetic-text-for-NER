@@ -1,0 +1,44 @@
+T1	LIVB 29 37	patiente
+T2	Hospital 73 98	urgences ophtalmologiques
+T3	DISO 124 155	accident oculomoteur ischémique
+T4	DISO 161 182	détresse respiratoire
+T5	PHEN 170 182	respiratoire
+T6	LIVB 201 204	son
+T7	LIVB 205 215	grand père
+T8	DISO 237 254	atteinte visuelle
+T9	DISO 270 282	hyperthermie
+T10	DISO 334 350	signes cliniques
+T11	DISO 368 404	syndrome d’épanchement intracérébral
+T12	ANAT 391 404	intracérébral
+T13	DISO 415 438	symptômes neurologiques
+T14	DISO 461 485	instabilité hémorragique
+T15	DISO 516 535	traumatisme crânien
+T16	DISO 542 568	troubles sensitivomotrices
+T17	PROC 585 600	prise en charge
+T18	PROC 606 644	anesthésie locorégionale transfixiante
+T19	CHEM 657 677	méthyl-méthasoxazole
+T20	CHEM 680 693	métronidazole
+T21	CHEM 695 707	prednisolone
+T22	DOSE 708 714	1mg/kg
+T23	TEMP 714 716	/j
+T24	CHEM 719 732	dexaméthasone
+T25	DOSE 746 755	0,5 mg/kg
+T26	TEMP 755 757	/J
+T27	TEMP 883 886	J 2
+T28	PROC 906 964	radiothérapie curative adjuvante palliative complémentaire
+T29	ANAT 1028 1040	parathyroîcs
+T30	MEAS 1050 1054	7 cm
+T31	Concept_Idea 1063 1071	diamètre
+T32	PROC 1830 1849	étude rétrospective
+T33	DISO 1880 1904	complications néonatales
+T34	DISO 1919 1941	hypotension artérielle
+T35	ANAT 1931 1941	artérielle
+T36	LIVB 1997 2006	patientes
+T37	DISO 2085 2105	empyème tuberculoïde
+T38	ANAT 2093 2105	tuberculoïde
+T39	MEAS 2125 2145	difficile à préciser
+T40	PROC 2162 2194	prélèvements anatomopathologique
+T41	DISO 2383 2414	malformations thromboemboliques
+T42	DISO 2533 2552	signes fonctionnels
+T43	DISO 2559 2593	syndrome inflammatoire immunitaire
+T44	TEMP 2611 2616	5 ans

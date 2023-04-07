@@ -1,0 +1,46 @@
+T1	LIVB 4 15	jeune femme
+T2	TEMP 24 30	22 ans
+T3	PROC 35 40	reçue
+T4	Hospital 45 70	urgences ophtalmologiques
+T5	DISO 106 123	céphalées fébrile
+T6	TEMP 133 150	depuis deux jours
+T7	LIVB 160 164	elle
+T8	DISO 186 205	signes oculomoteurs
+T9	DISO 216 225	symptômes
+T10	DISO 251 260	hématurie
+T11	DISO 267 279	vomissements
+T12	PROC 283 325	ponction pleuro-pleuriale trans-bronchique
+T13	ANAT 292 325	pleuro-pleuriale trans-bronchique
+T14	DISO 347 368	troubles métaboliques
+T15	PROC 381 398	scanner cérébrale
+T16	ANAT 389 398	cérébrale
+T17	MEAS 406 412	normal
+T18	PROC 416 446	échographie abdomino-pelvienne
+T19	ANAT 428 446	abdomino-pelvienne
+T20	DISO 460 543	hypertrophie latéro-utérine sécrétrielle péritissulaire hypovaginale hypoechogéante
+T22	PROC 560 569	injection
+T23	CHEM 575 595	produit de contraste
+T24	ANAT 616 640	méso-cerviculaire utérin
+T25	DISO 649 666	masse gélatineuse
+T26	ANAT 695 718	paroi vaginale prolabée
+T27	ANAT 746 760	grêlo-résiduel
+T28	ANAT 780 806	récepteurs urétéro-vaginal
+T29	DEVI 843 862	colleteur plâtrable
+T30	DISO 894 914	hydrorrhée purulente
+T31	DISO 929 957	stroma kystique hémorragique
+T32	ANAT 973 991	glandes salivaires
+T33	DISO 997 1016	lésions hétérogènes
+T34	DISO 1050 1083	fistule iléo-néphrosphinctérienne
+T35	ANAT 1058 1083	iléo-néphrosphinctérienne
+T36	DISO 1108 1194	thrombose aorto-ventriculaire intrarachidienne sus-myometrculaire angulo-surrénalienne
+T38	DISO 1253 1274	emboles intracrâniens
+T39	ANAT 1261 1274	intracrâniens
+T40	DISO 1317 1334	évènement tumoral
+T41	DISO 1366 1385	contage tuberculeux
+T42	PROC 1425 1472	traitement curatif antibacillaire antitétanique
+T43	LIVB 1651 1661	patiientes
+T44	DISO 1727 1773	maladie thromboembolique veineuse périphérique
+T45	DISO 1788 1848	myocardiopathie ischémique congénitale maligne hypertrophiée
+T46	DISO 1858 1886	hypercoagulabilité viscérale
+T47	MEAS 1952 1961	spontanée
+T48	TEMP 2004 2009	2 ans

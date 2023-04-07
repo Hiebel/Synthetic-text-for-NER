@@ -1,0 +1,70 @@
+T1	LIVB 33 41	patiente
+T2	PROC 67 79	hospitalisée
+T3	Hospital 83 98	bloc opératoire
+T4	PROC 127 173	cholécystectomie transpancréatico-mésentérique
+T5	PROC 179 201	anesthésie-réanimation
+T6	MODE 206 224	voie intraveineuse
+T7	CHEM 227 239	indométacone
+T8	DOSE 241 248	20mg/kg
+T9	MEAS 286 293	simples
+T10	PROC 298 328	bilan biologique préopératoire
+T11	DISO 345 361	hyperleucocytose
+T12	MEAS 364 382	14000 éléments/mm3
+T13	PROC 402 432	échographie abdomino-pelvienne
+T14	ANAT 414 432	abdomino-pelvienne
+T15	PROC 447 480	anticorps antithyroperoxydase IgG
+T16	MEAS 494 500	élevés
+T17	MEAS 503 513	2350 UI/ml
+T18	PROC 520 551	immuno-chimiothérapie adjuvante
+T19	MEAS 568 579	progressive
+T20	DISO 586 636	défense parenchymateuse péripancréato-œsophagienne
+T21	ANAT 594 636	parenchymateuse péripancréato-œsophagienne
+T22	MEAS 646 667	spontanément sensible
+T23	Concept_Idea 706 727	concentration sérique
+T24	Concept_Idea 737 762	caractères immunologiques
+T25	PROC 767 794	tomodensitométrie pelvienne
+T26	ANAT 785 794	pelvienne
+T27	PROC 807 833	scanner cervico-thoracique
+T28	ANAT 815 833	cervico-thoracique
+T29	DISO 869 894	localisations secondaires
+T30	DISO 912 935	lésions carcinomateuses
+T31	DISO 953 981	vascularisation médiastinale
+T32	ANAT 969 981	médiastinale
+T33	LIVB 1002 1010	patiente
+T34	DISO 1024 1044	maladie métastatique
+T35	DISO 1082 1105	localisation secondaire
+T36	DISO 1145 1193	lésion ostéo-néphrogliomateuse tumorale kystique
+T37	ANAT 1203 1210	organes
+T38	PROC 1535 1553	traitement médical
+T39	CHEM 1566 1576	cisplatine
+T40	CHEM 1579 1593	hydrocortisone
+T41	DISO 1660 1683	symptomatologie fébrile
+T42	TEMP 1693 1709	depuis 48 heures
+T43	DISO 1732 1749	dyspnée sifflante
+T44	MEAS 1761 1776	progressivement
+T45	Concept_Idea 1780 1790	profondeur
+T46	PROC 1847 1872	intervention chirurgicale
+T47	PROC 1880 1906	étude anatomo-pathologique
+T48	DISO 2108 2152	méningo-fibrine hypodermo-adénome plexiforme
+T49	PROC 2191 2230	remplissage vasculo-nerveux systématisé
+T50	ANAT 2203 2230	vasculo-nerveux systématisé
+T51	PROC 2255 2284	prophylaxie antibacillérienne
+T52	DISO 2308 2341	souffrance néphréno-surrénalienne
+T53	ANAT 2319 2341	néphréno-surrénalienne
+T54	DEVI 2464 2495	cathéter veineux intrarachidien
+T55	PROC 2500 2524	scanner abdomino-pelvien
+T56	ANAT 2508 2524	abdomino-pelvien
+T57	DISO 2552 2582	tumeur du pancréas compressive
+T59	PHEN 2592 2604	vésiculation
+T60	MEAS 2605 2613	complète
+T61	ANAT 2618 2640	troncs supra-aortiques
+T62	ANAT 2656 2696	étage sous-diaphragmatique utéro-vaginal
+T63	MEAS 2706 2711	13 cm
+T64	Concept_Idea 2715 2724	grand axe
+T65	PROC 2729 2739	diagnostic
+T66	DISO 2756 2794	adénocarcinome érythémateux tissulaire
+T67	DISO 2796 2800	ADCT
+T68	Localization 2803 2811	centrale
+T69	ANAT 2828 2861	régions ganglionnaires axillaires
+T70	PROC 2917 2926	injection
+T71	CHEM 2930 2950	produit de contraste

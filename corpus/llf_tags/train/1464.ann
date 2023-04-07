@@ -1,0 +1,95 @@
+T1	DISO 0 23	déficit sensitivomoteur
+T2	PROC 29 44	examen clinique
+T3	LIVB 49 57	patiente
+T4	Concept_Idea 67 79	état général
+T5	MEAS 80 86	altéré
+T6	DISO 96 107	tachycardie
+T7	MEAS 110 117	120 bpm
+T8	DISO 125 136	picotements
+T9	ANAT 150 172	membre inférieur droit
+T10	Localization 167 172	droit
+T11	DISO 185 191	signes
+T12	PROC 206 223	tomodensitométrie
+T13	PROC 225 248	TDM) cervico-thoracique
+T14	ANAT 230 248	cervico-thoracique
+T15	DISO 285 334	processus tissulaire hyperchromatique de type IgG
+T16	ANAT 343 369	tronc spléno-rénalvéolaire
+T17	MEAS 402 410	60/20 cm
+T18	ANAT 431 446	anses grêliques
+T19	ANAT 457 478	veines sus hépatiques
+T20	ANAT 491 505	rein antérieur
+T21	Localization 496 505	antérieur
+T22	PROC 529 549	reprise chirurgicale
+T23	PROC 594 606	reconstituté
+T24	PHEN 613 636	réflexes ostéotendineux
+T25	ANAT 622 636	ostéotendineux
+T26	MEAS 645 654	réguliers
+T27	DISO 741 769	symptomatologie rhumatismale
+T28	DISO 785 811	trouble neuropsychiatrique
+T29	PROC 836 840	ECBU
+T30	MEAS 847 854	normale
+T31	PROC 882 899	tests biologiques
+T32	MEAS 908 916	négatifs
+T33	PROC 921 954	fibroscopie oeso-gastro-duodénale
+T34	ANAT 933 954	oeso-gastro-duodénale
+T35	PROC 969 988	anesthésie générale
+T36	ANAT 1013 1050	pneumopéritoine pariétal mésentérique
+T37	MEAS 1059 1063	2 mm
+T38	ANAT 1080 1104	sang veineux superficiel
+T39	DEVI 1112 1127	broche ventrale
+T40	ANAT 1194 1229	paroi thoracique cavité péritonéale
+T41	DISO 1284 1309	vascularite inflammatoire
+T42	CHEM 1329 1346	produits laitiers
+T43	DISO 1395 1428	dysphonie hypertensive secondaire
+T44	DISO 1444 1485	rhinopharyngite atrophique mucocompatible
+T45	DISO 1502 1516	amaigrissement
+T46	MEAS 1563 1567	18kg
+T47	TEMP 1567 1571	/24h
+T48	MEAS 1579 1590	3500 gramme
+T49	MEAS 1596 1614	30 fois la normale
+T50	PROC 1655 1665	opératoire
+T51	PROC 1692 1716	extubation endotrachéale
+T52	PROC 1730 1766	transfusion aspirative intraveineuse
+T53	PROC 1779 1821	intubation trachéogastrique intratrachéale
+T54	ANAT 1843 1873	modifications cutanéomuqueuses
+T55	PROC 1916 1926	extraction
+T56	ANAT 1955 1971	nerfs axillaires
+T57	Concept_Idea 2058 2077	aspect histologique
+T58	DISO 2100 2136	maladie thromboembolique infectieuse
+T59	Hospital 2152 2177	classification de Merckel
+T60	CHEM 2703 2713	aminosides
+T61	CHEM 2715 2728	métronidazole
+T62	LIVB 2769 2775	enfant
+T63	TEMP 2783 2788	3 ans
+T64	PROC 2795 2802	adressé
+T65	Hospital 2806 2852	service des maladies infectieuses pédiatriques
+T66	Hospital 2856 2906	centre hospitalier universitaire Yalgado Ouédraogo
+T67	PROC 2912 2938	examen anatomopathologique
+T68	DISO 2958 3013	carcinome hépato-rénal infiltrant érythromycine maligne
+T69	DISO 3019 3029	métastases
+T70	ANAT 3037 3048	rein gauche
+T71	Localization 3042 3048	gauche
+T72	ANAT 3056 3074	anses intestinales
+T73	PROC 3079 3096	tomodensitométrie
+T74	DISO 3118 3177	nodule polymorphe tissulaire carcinomateux mono ou trichobé
+T75	MEAS 3187 3192	16 cm
+T76	Concept_Idea 3196 3205	grand axe
+T77	MEAS 3214 3219	20 mm
+T78	Concept_Idea 3223 3232	petit axe
+T79	PROC 3251 3264	antibiogramme
+T80	DEVI 3300 3307	annexes
+T81	PROC 3335 3368	oxygénothérapie substitutionnelle
+T82	PROC 3407 3424	mise en condition
+T83	MEAS 3460 3468	négative
+T84	PROC 3507 3537	tumorectomie élargie adjuvante
+T85	PROC 3581 3634	résection transurétrale directe pédiculée fractionnée
+T87	PROC 3817 3841	stérnotomie exploratrice
+T88	LIVB 3866 3877	jeune fille
+T89	TEMP 3886 3892	2 mois
+T90	DISO 3912 3929	récidive tumorale
+T91	PHEN 3952 3961	grossesse
+T92	PROC 3977 3983	suivie
+T93	PROC 3991 4019	prise en charge chirurgicale
+T94	PROC 4054 4082	consultation préanesthésique
+T95	PROC 4089 4113	bilan neuropsychiatrique
+T96	PROC 4131 4155	hémodialyse diagnostique

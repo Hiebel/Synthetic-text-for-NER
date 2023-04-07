@@ -1,0 +1,17 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 31 39	patiente
+T3	MEAS 43 46	bon
+T4	Concept_Idea 47 59	état général
+T5	DISO 69 104	douleurs de la fosse iliaque droite
+T6	ANAT 84 104	fosse iliaque droite
+T7	Localization 98 104	droite
+T8	DISO 121 143	ictère cutanéo-muqueux
+T9	PROC 148 164	bilan biologique
+T10	DISO 176 189	particularité
+T11	DISO 206 222	hyperleucocytose
+T12	PROC 228 263	tomodensitométrie abdominopelvienne
+T13	ANAT 246 263	abdominopelvienne
+T14	TEMP 276 291	24 octobre 2012
+T17	MEAS 441 446	14 mm
+T18	Concept_Idea 450 459	grand axe
+T19	CHEM 484 504	produit de contraste

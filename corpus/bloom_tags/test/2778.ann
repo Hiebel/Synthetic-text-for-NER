@@ -1,0 +1,59 @@
+T1	LIVB 4 9	femme
+T2	DISO 46 60	myélodysplasie
+T3	PROC 71 78	traitée
+T4	CHEM 85 103	hydroxychloroquine
+T5	PROC 108 113	reçue
+T6	LIVB 119 124	notre
+T7	Hospital 125 132	service
+T8	PROC 138 168	corticothérapie antibacillaire
+T9	CHEM 174 188	Gentaméthasone
+T10	MODE 196 202	per os
+T11	TEMP 203 219	pendant 10 jours
+T12	DOSE 236 246	voie orale
+T13	CHEM 276 292	anti bacillaires
+T14	CHEM 304 318	Ciprofloxacine
+T15	DOSE 319 325	400 mg
+T16	CHEM 327 338	Cyclosérine
+T17	DOSE 339 345	100 mg
+T18	CHEM 347 362	Chloramphénicol
+T19	DOSE 363 369	600 mg
+T20	PROC 383 414	radiothérapie externe adjuvante
+T21	ANAT 427 454	parenchyme ovale thyroïdien
+T22	MEAS 464 469	70 Gy
+T23	LIVB 523 531	patiente
+T24	DISO 610 629	symptômes cliniques
+T25	DISO 647 653	râleur
+T26	DISO 660 679	troubles trophiques
+T27	DISO 738 773	malformations congénitales malignes
+T28	PROC 1015 1043	consultation ophtalmologique
+T29	ANAT 1152 1163	tuberculeux
+T30	PROC 1219 1255	ponction liquide pleuro-péricardique
+T31	ANAT 1228 1255	liquide pleuro-péricardique
+T32	PROC 1450 1476	examen anatomopathologique
+T33	PROC 1720 1750	échographie abdomino-pelvienne
+T34	ANAT 1732 1750	abdomino-pelvienne
+T35	DISO 1775 1795	distension pelvienne
+T36	ANAT 1786 1795	pelvienne
+T37	DISO 1805 1813	anormale
+T38	MEAS 1837 1841	4 cm
+T39	MEAS 1844 1848	2 cm
+T40	DISO 1863 1880	hypotonie utérine
+T41	ANAT 1873 1880	utérine
+T42	PROC 1984 2006	TDM abdomino-pelvienne
+T43	ANAT 1988 2006	abdomino-pelvienne
+T44	Concept_Idea 2029 2035	taille
+T45	MEAS 2046 2060	15 centimètres
+T46	MEAS 2063 2077	10 centimètres
+T47	ANAT 2112 2123	lit vésical
+T48	DISO 2143 2176	épanchement périphérique purulent
+T49	Localization 2155 2167	périphérique
+T50	PROC 2192 2208	examen somatique
+T51	DISO 2220 2233	particularité
+T52	LIVB 2238 2246	patiente
+T53	PROC 2273 2301	chimiothérapie néo adjuvante
+T54	CHEM 2303 2307	CDDP
+T55	DOSE 2310 2318	175mg/m²
+T56	TEMP 2318 2323	/jour
+T57	TEMP 2325 2339	pendant 6 mois
+T58	CHEM 2362 2375	dexaméthasone
+T60	ANAT 2395 2434	ganglionnaire cervico-dorsorso-lombaire

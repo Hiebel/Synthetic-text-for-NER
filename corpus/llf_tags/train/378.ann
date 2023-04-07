@@ -1,0 +1,51 @@
+T1	LIVB 16 27	jeune fille
+T2	TEMP 36 42	13 ans
+T3	MEAS 73 84	particulier
+T4	Hospital 105 126	urgences pédiatriques
+T5	TEMP 130 140	08/11/2013
+T6	DISO 172 188	crise convulsive
+T7	LIVB 203 207	elle
+T8	PROC 224 236	hospitalisée
+T9	LIVB 288 291	son
+T10	LIVB 292 298	enfant
+T11	PROC 314 343	anticoagulation intraveineuse
+T12	DEVI 345 370	automédication percutanée
+T13	PROC 377 392	examen clinique
+T14	LIVB 412 419	patient
+T15	LIVB 506 508	il
+T16	ANAT 525 546	câble tibial cervical
+T17	LIVB 689 710	grand-mère maternelle
+T18	PHEN 773 793	mariages consanguins
+T19	PROC 797 816	enquête étiologique
+T20	LIVB 834 844	nouveau-né
+T21	DISO 854 906	dysfonctionnements neuropsychiatriques psychomoteurs
+T22	DISO 1016 1034	psychose familiale
+T23	PROC 1072 1082	diagnostic
+T24	DISO 1105 1135	trouble obsessionnel compulsif
+T25	MEAS 1531 1534	40%
+T26	MEAS 1538 1541	60%
+T27	PROC 1794 1809	hospitalisation
+T28	PROC 1823 1844	séances de relaxation
+T29	TEMP 2237 2255	5 jours auparavant
+T30	LIVB 2263 2273	monsieur B
+T31	LIVB 2311 2314	ses
+T32	LIVB 2315 2333	cousines germaines
+T33	LIVB 2350 2354	leur
+T35	LIVB 3213 3220	patient
+T36	LIVB 3233 3240	famille
+T37	DISO 3259 3290	complication neuropsychiatrique
+T38	Concept_Idea 3396 3420	stratégies thérapeutique
+T39	CHEM 3425 3441	antipsychotiques
+T40	Concept_Idea 3478 3512	positionnement psychothérapeutique
+T41	CHEM 3544 3559	bêtalaméthasone
+T42	CHEM 3562 3573	paracétamol
+T43	CHEM 3577 3594	triméthopriméxole
+T44	CHEM 3596 3611	chloramphénicol
+T45	CHEM 3635 3645	corticoïde
+T46	ANAT 3662 3677	photorécepteurs
+T48	PROC 3793 3812	traitement adjuvant
+T49	PROC 3827 3854	travaux multidisciplinaires
+T50	PROC 3875 3925	traitement antipsychotique concomitant substitutif
+T51	PROC 3953 3982	symptômes clinico-biologiques
+T52	PROC 4043 4068	remplissage médicamenteux
+T53	PROC 4074 4094	récepteurs hormonaux

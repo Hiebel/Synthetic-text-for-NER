@@ -1,0 +1,40 @@
+T1	LIVB 29 37	patiente
+T2	DISO 58 83	antécédents pathologiques
+T3	MEAS 84 96	particuliers
+T4	PROC 98 104	admise
+T5	Hospital 109 131	urgences chirurgicales
+T6	DISO 150 171	épigastralgies aiguës
+T7	TEMP 195 209	depuis 5 jours
+T8	DISO 225 257	vomissement hémorragique bilieux
+T9	DISO 272 291	pleurésie purulente
+T10	MEAS 306 313	brutale
+T11	PROC 343 368	traitement antibacillaire
+T12	DOSE 373 377	deux
+T13	CHEM 378 394	anti bacillaires
+T14	CHEM 397 408	Riftriaxone
+T15	DOSE 409 417	20 mg/kg
+T16	TEMP 417 419	/j
+T17	CHEM 422 433	Ceftriaxone
+T18	DOSE 434 443	100 mg/kg
+T19	TEMP 443 445	/j
+T20	CHEM 448 460	Pyrazinamide
+T21	DOSE 461 467	200 mg
+T22	TEMP 467 469	/j
+T23	CHEM 472 482	Ethambutol
+T24	DOSE 483 489	600 mg
+T25	TEMP 489 491	/j
+T26	CHEM 494 505	Cyclosérine
+T27	DOSE 506 511	0,5 g
+T28	TEMP 511 513	/j
+T29	CHEM 516 546	Triméthoprime-Sulfamethoxazole
+T30	CHEM 550 564	Gentaméthasone
+T31	DISO 599 621	anomalies métaboliques
+T32	DISO 672 696	épigastralgies chronique
+T33	MEAS 711 718	brutale
+T34	LIVB 746 754	patiente
+T35	DISO 773 789	troubles visuels
+T36	MEAS 829 852	progressivement gênants
+T37	DISO 893 908	symptomatologie
+T38	DISO 922 948	traumatisme cutanéo-cutané
+T39	DISO 1023 1051	conjonctivoclonicosynaptique
+T40	PROC 1067 1094	imagerie radiothérapeutique

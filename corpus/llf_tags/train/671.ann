@@ -1,0 +1,83 @@
+T1	LIVB 3 10	patient
+T2	DISO 53 76	hypertension artérielle
+T3	ANAT 66 76	artérielle
+T4	Concept_Idea 81 84	âge
+T5	TEMP 88 96	deux ans
+T6	PROC 100 115	examen clinique
+T7	LIVB 126 133	patient
+T8	MEAS 137 144	mauvais
+T9	Concept_Idea 145 157	état général
+T10	DISO 167 209	râles crépitants du membre supérieur droit
+T11	ANAT 187 209	membre supérieur droit
+T12	Localization 204 209	droit
+T13	DISO 215 221	fièvre
+T14	DISO 232 238	signes
+T15	DISO 264 288	antécédents pathologique
+T16	MEAS 289 301	particuliers
+T17	PROC 308 321	sérologie HIV
+T18	MEAS 326 334	négative
+T19	PROC 339 356	tomodensitométrie
+T20	PROC 358 372	TDM) cérébrale
+T21	ANAT 363 372	cérébrale
+T22	TEMP 385 395	18/03/2012
+T23	DISO 423 470	processus tissulaire hétérotopique hypoéchogène
+T24	MEAS 480 484	46mm
+T25	ANAT 507 527	convergences rénales
+T26	DISO 541 566	distension crânio-dorsale
+T27	ANAT 552 566	crânio-dorsale
+T28	PROC 608 633	étude immunohistochimique
+T29	PROC 660 677	bilan étiologique
+T30	Hospital 690 698	urgences
+T31	DISO 717 752	thrombophlébite nécrosante kystique
+T32	DISO 768 810	insuffisance cardio-vasculaire obstructive
+T33	ANAT 781 798	cardio-vasculaire
+T34	TEMP 897 905	six mois
+T35	LIVB 965 970	notre
+T36	LIVB 971 977	malade
+T37	DISO 982 1019	récidive anévrysmètriocytose septique
+T38	LIVB 1034 1036	il
+T39	PROC 1050 1089	traitement anticoagulants plaquettaires
+T40	CHEM 1061 1089	anticoagulants plaquettaires
+T41	PROC 1102 1139	hémodialyse préopératoire fractionnée
+T42	PROC 1153 1181	antibiothérapie concomitante
+T43	CHEM 1187 1218	amoxicilline acide clavulanique
+T44	CHEM 1222 1239	aminosides libres
+T45	PROC 1254 1289	laparotomie exploratrice échoguidée
+T46	PROC 1302 1330	prise en charge chirurgicale
+T47	MEAS 1367 1374	simples
+T48	DISO 1400 1421	problème hémorragique
+T49	DISO 1439 1488	trouble vésico-fibro-urétanéphropathie diabétique
+T50	PROC 1507 1527	consultation externe
+T51	PROC 1552 1587	radio-chimiothérapie antibacillaire
+T52	PROC 1616 1665	néphrectomie scanno-trachéale percutanée monobloc
+T53	PROC 1684 1757	ponction biopsie écho-endorectale endonasale transoesophagienne adjuvante
+T54	PHEN 1779 1806	grosses masses liquidiennes
+T55	DISO 1827 1853	tumeur éosinophile maligne
+T56	PROC 1859 1907	scintigraphie osseuse rétropéritonéale cervicale
+T57	ANAT 1873 1907	osseuse rétropéritonéale cervicale
+T58	PROC 1926 1940	investigations
+T59	DISO 1956 1998	germe carcinomateux fongique polymicrobien
+T60	ANAT 2020 2056	segments biliaires intravésitionnels
+T61	ANAT 2092 2143	ganglion infundibulaire mésentérique gastroduodénal
+T62	Localization 2235 2262	inferius brachial antérieur
+T63	DISO 2310 2337	particularité morphologique
+T64	DEVI 2441 2458	ballonnet perforé
+T65	ANAT 2483 2502	orifices herniaires
+T66	ANAT 2525 2581	lobules pharyngo-laryngéaux para palmo-palmo-sigmoïdiens
+T67	DISO 2622 2655	remaniements tumoraux métatarsifs
+T68	DISO 2682 2756	kyste hydatique choriorétinoidien périrénal achilléen distal BAPMKIMAÏDIYE
+T70	ANAT 2795 2871	nerf pancréatico-diaphragmatique supérieur supérieur thymique basithoracique
+T72	LIVB 2910 2918	patiente
+T73	MEAS 2975 2987	particuliers
+T74	Concept_Idea 2989 2998	résultats
+T75	PROC 3003 3027	examens bactériologiques
+T76	DISO 3066 3132	narcissus pseudomyotrophique acido-hydatique hypocholestérolémiant
+T77	MEAS 3164 3169	16 mm
+T78	MEAS 3172 3176	6 mm
+T79	DISO 3251 3304	perforation trophoblastique kystique dysplasmocytaire
+T80	ANAT 3325 3365	veine cave corpio-mésentérique hépatique
+T82	PROC 3512 3537	traitements médicamenteux
+T83	CHEM 3524 3537	médicamenteux
+T84	PROC 3551 3594	TDM abdomino-pelvienne parieto-anesthésique
+T85	ANAT 3555 3594	abdomino-pelvienne parieto-anesthésique
+T86	PROC 3610 3634	réanimation chirurgicale

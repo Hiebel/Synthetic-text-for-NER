@@ -1,0 +1,85 @@
+T1	PROC 4 30	sérologies de l’hépatite B
+T2	DISO 20 30	hépatite B
+T3	PROC 32 35	HIV
+T4	PROC 39 42	VHB
+T5	MEAS 51 60	positives
+T6	PROC 65 84	bilan immunologique
+T7	PROC 108 130	radiographie du thorax
+T8	ANAT 124 130	thorax
+T9	DISO 146 160	particularités
+T10	Concept_Idea 169 177	résultat
+T11	DISO 193 296	hémangio-carcinome épidermoïde infiltrant les parties molles cervicales pariéto-mandibulaires lombaires
+T12	ANAT 239 296	parties molles cervicales pariéto-mandibulaires lombaires
+T13	PROC 301 333	scanner thoraco abdomino pelvien
+T14	ANAT 309 333	thoraco abdomino pelvien
+T15	PROC 351 367	cholécystectomie
+T16	DISO 388 434	niveaux hydroaériques nécrotico inflammatoires
+T17	DISO 449 486	adénopathies antérieures anictériques
+T18	Localization 462 473	antérieures
+T19	LIVB 497 505	patiente
+T20	PROC 512 550	laparotomie exploratrice scanno-guidée
+T21	ANAT 567 587	tronc crico-trachéal
+T22	DISO 612 622	métastases
+T24	PROC 682 701	anesthésie générale
+T25	PROC 715 762	curage ganglionnaire axillaire endobuccal T1/T2
+T26	ANAT 722 762	ganglionnaire axillaire endobuccal T1/T2
+T27	PROC 766 792	examen anatomopathologique
+T28	MEAS 806 813	négatif
+T29	PROC 829 847	étude histologique
+T30	DISO 872 952	processus carcinomateux kystique tissulaire érythémateux hétérogène métastatique
+T31	ANAT 961 988	cellules tumorales malignes
+T32	ANAT 1057 1086	noyaux mésenchymateux fibreux
+T33	ANAT 1102 1116	zones charnues
+T34	ANAT 1178 1197	structures myxoïdes
+T35	DEVI 1283 1304	filaments biphasiques
+T36	ANAT 1371 1388	filière digestive
+T37	DISO 1407 1428	récidive pathologique
+T38	PROC 1458 1469	exploration
+T39	Concept_Idea 1481 1501	aspect morphologique
+T40	DISO 1518 1535	malignité causale
+T41	PROC 1559 1599	prise en charge thérapeutique palliative
+T42	PROC 1611 1631	suivi postopératoire
+T43	PHEN 1636 1657	grossesse monofoetale
+T44	TEMP 1672 1678	4 mois
+T45	PROC 1691 1715	consultations prénatales
+T46	PROC 1723 1738	rhabdomyogénèse
+T47	PROC 1806 1834	antibiothérapie probabiliste
+T48	CHEM 1866 1914	amoxicilline aminotransférase acide clavulanique
+T49	CHEM 1917 1944	triméthoprimesulfaméthonium
+T50	CHEM 1946 1965	isoniazide calcique
+T51	DOSE 2026 2041	10 mg /24heures
+T52	PROC 2049 2073	échographie obstétricale
+T53	TEMP 2168 2179	31 semaines
+T54	PROC 2197 2215	geste chirurgicale
+T55	PROC 2247 2258	hospitalisé
+T56	PROC 2269 2278	transfusé
+T57	DISO 2313 2335	complication néonatale
+T58	PROC 2389 2421	néphrectomie partielle adjuvante
+T60	ANAT 2549 2607	segments thyroïdiens laryngo-laryngés congénitaux externes
+T63	ANAT 2911 2931	nerf supérieur droit
+T64	Localization 2926 2931	droit
+T66	Localization 2988 3004	antérieur droite
+T67	Concept_Idea 3013 3041	résultat anatomopathologique
+T68	MEAS 3052 3061	Tableau 6
+T69	MEAS 3095 3102	simples
+T70	PROC 3108 3127	anesthésie générale
+T71	PROC 3141 3171	réanimation neuropsychiatrique
+T72	LIVB 3196 3206	nouveau-né
+T73	Concept_Idea 3228 3246	état hémodynamique
+T74	DISO 3252 3265	signes vitaux
+T75	DISO 3283 3307	déficit sensitivomoteurs
+T76	DISO 3317 3336	symptôme infectieux
+T77	PROC 3360 3375	examen clinique
+T78	DISO 3387 3400	particularité
+T79	LIVB 3469 3501	médecins anesthésistes pédiatres
+T80	LIVB 3505 3533	radiologues interventionnels
+T81	DISO 3568 3587	lésion pathologique
+T82	PROC 3603 3627	traitements substitutifs
+T83	DEVI 3645 3667	processus érythémateux
+T84	LIVB 4269 4280	jeune fille
+T85	LIVB 4303 4316	jeunes filles
+T86	TEMP 4341 4347	12 ans
+T87	TEMP 4351 4358	14 mois
+T88	LIVB 4375 4378	ses
+T89	LIVB 4379 4388	confrères
+T90	PROC 4409 4436	thyroïdectomie endovaginale

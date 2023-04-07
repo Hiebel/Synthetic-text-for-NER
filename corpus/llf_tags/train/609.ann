@@ -1,0 +1,34 @@
+T1	PROC 3 20	bilan étiologique
+T2	PROC 44 85	radiographie de l'épaule sans préparation
+T3	ANAT 62 68	épaule
+T4	DISO 102 121	processus lésionnel
+T5	Localization 135 150	tiers inférieur
+T6	ANAT 157 186	région médio-cervicale droite
+T7	Localization 180 186	droite
+T8	LIVB 191 199	patiente
+T9	PROC 218 242	laparotomie exploratrice
+T10	PROC 248 294	curage ganglionnaire cervico-thoraco-abdominal
+T11	PROC 303 315	diagnostique
+T12	PROC 319 332	thérapeutique
+T13	PROC 347 368	toilette respiratoire
+T14	ANAT 356 368	respiratoire
+T15	PROC 375 386	transfusion
+T16	Hospital 390 406	salle opératoire
+T17	MEAS 439 446	simples
+T18	PROC 452 504	circulation extracorporelle intraveineuse bipédieuse
+T19	Concept_Idea 506 508	VN
+T20	PROC 525 561	séances de rééducation préopératoire
+T21	TEMP 571 602	deuxième semaine postopératoire
+T22	PROC 607 637	monitorage électrocardiogramme
+T23	TEMP 659 683	8ème jour postopératoire
+T24	Concept_Idea 703 723	chiffres tensionnels
+T25	Concept_Idea 737 758	résultats anatomiques
+T26	LIVB 804 811	malades
+T27	PROC 815 833	étude histologique
+T28	DISO 866 883	lésions kystiques
+T29	ANAT 911 933	membre supérieur droit
+T30	Localization 928 933	droit
+T31	PHEN 950 985	structures hospitalo-universitaires
+T32	Concept_Idea 1005 1032	positionnement géographique
+T33	DISO 1067 1087	récepteurs hormonaux
+T34	DISO 1131 1156	détérioration liquidienne

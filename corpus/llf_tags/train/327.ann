@@ -1,0 +1,73 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 71	antécédents pathologiques
+T3	MEAS 72 84	particuliers
+T4	PROC 95 107	hospitalisée
+T5	Hospital 116 123	service
+T6	Hospital 127 134	CHU-HKM
+T7	DISO 143 167	syndrome polymalformatif
+T8	DISO 178 190	vomissements
+T9	PROC 218 233	examen clinique
+T10	LIVB 247 255	patiente
+T11	MEAS 259 266	mauvais
+T12	Concept_Idea 267 279	état général
+T13	ANAT 287 299	conjonctives
+T14	MEAS 300 309	multiples
+T15	PHEN 314 325	sensibilité
+T16	CHEM 330 344	neuroleptiques
+T17	CHEM 358 374	antipsychotiques
+T18	MEAS 381 388	normale
+T19	PROC 404 420	examen somatique
+T20	DISO 430 443	particularité
+T21	PROC 447 466	enquête étiologique
+T22	LIVB 713 721	patiente
+T23	Concept_Idea 742 759	état neurologique
+T24	LIVB 1228 1232	elle
+T25	DISO 1250 1289	accident vasculaire cérébral ischémique
+T26	LIVB 1332 1335	son
+T27	DEVI 1336 1341	staff
+T28	LIVB 1546 1552	garçon
+T29	TEMP 1560 1570	7 semaines
+T30	LIVB 1634 1636	sa
+T31	LIVB 1637 1652	mère biologique
+T32	PROC 2942 2962	traitement palliatif
+T33	LIVB 3218 3226	patiente
+T34	PROC 3244 3277	scanner cervico-thoraco-abdominal
+T35	ANAT 3252 3277	cervico-thoraco-abdominal
+T36	DISO 3294 3337	fracture de l'artère gastroduodénale gauche
+T37	ANAT 3308 3337	artère gastroduodénale gauche
+T38	Localization 3331 3337	gauche
+T39	Concept_Idea 3347 3365	état hémodynamique
+T40	Concept_Idea 3380 3397	plan radiologique
+T41	PHEN 3404 3419	fonction rénale
+T42	ANAT 3413 3419	rénale
+T43	MEAS 3422 3426	2 cm
+T44	ANAT 3430 3446	colon transverse
+T45	DISO 3452 3462	métastases
+T46	DISO 3466 3479	adénomégalies
+T47	DISO 3497 3512	lésion tumorale
+T48	ANAT 3522 3536	anses grêlique
+T51	Localization 3621 3673	supra mandibulaire inferieur fléchi postéro-extensif
+T52	MEAS 3691 3698	normaux
+T53	PROC 3705 3725	reprise chirurgienne
+T54	PROC 3731 3765	angioplastie élargie scanno-guidée
+T55	MEAS 3780 3788	positive
+T56	PROC 3801 3821	suivi postopératoire
+T57	PROC 3837 3861	laparotomie exploratrice
+T58	Hospital 3879 3887	urgences
+T59	DISO 3907 3933	tumeur péritonéale maligne
+T60	DISO 3943 3964	anomalie histologique
+T61	PROC 3990 3996	examen
+T62	PROC 4000 4025	étude anatomopathologique
+T63	DISO 4044 4092	léiomyolipome mucineux lobulé myxoide infiltrant
+T64	MEAS 4100 4107	stade I
+T65	PROC 4174 4204	complément immunohistochimique
+T66	LIVB 4230 4238	patiente
+T67	PROC 4243 4251	réséquée
+T68	PROC 4272 4307	chimiothérapie néoadjuvante type II
+T69	PROC 4321 4378	immunoglobuline monoclonale intracytoplacent neutrophile®
+T70	PROC 4408 4417	admission
+T71	PROC 4430 4475	antibiothérapie probabiliste antituberculeuse
+T72	PROC 4497 4505	contrôle
+T73	LIVB 4531 4541	nouveau-né
+T74	TEMP 4549 4554	3 ans
+T75	MEAS 4562 4573	1350 gramme

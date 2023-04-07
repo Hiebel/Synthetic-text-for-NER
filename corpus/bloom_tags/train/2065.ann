@@ -1,0 +1,69 @@
+T1	LIVB 29 34	femme
+T2	PROC 60 72	hospitalisée
+T3	Hospital 76 91	bloc opératoire
+T4	DISO 129 166	œdème cutanéo-muqueux cervico-laryngé
+T5	ANAT 135 166	cutanéo-muqueux cervico-laryngé
+T6	DISO 189 220	méningo-ovariennes compressives
+T7	PROC 327 351	scanner abdomino pelvien
+T8	ANAT 335 351	abdomino pelvien
+T9	MEAS 359 366	normale
+T10	PROC 381 402	échographie pelvienne
+T11	ANAT 393 402	pelvienne
+T12	DISO 419 445	masse tissulaire hypodense
+T13	MEAS 455 460	18 cm
+T14	MEAS 465 469	9 cm
+T15	MEAS 481 491	rapidement
+T16	Concept_Idea 495 501	taille
+T17	PROC 522 531	injection
+T18	DOSE 535 537	1g
+T19	CHEM 541 561	produit de contraste
+T20	Localization 584 594	bilatérale
+T21	DISO 614 632	chondrome kystique
+T22	PROC 655 677	résection chirurgicale
+T23	PROC 683 700	anesthésie locale
+T24	ANAT 719 734	greffon ovarien
+T25	PROC 749 793	curage ganglionnaire axillaire locorégionale
+T26	ANAT 891 907	vasculo-nerveuse
+T27	ANAT 941 968	cérébrale inféro-thoracique
+T28	DISO 975 1012	tuberculose purulente cutanée maligne
+T29	LIVB 1092 1100	patiente
+T30	PROC 1135 1143	anamnèse
+T31	MEAS 1210 1223	significative
+T32	DISO 1238 1247	symptômes
+T33	MEAS 1261 1276	progressivement
+T34	Concept_Idea 1288 1304	caractéristiques
+T35	DISO 1369 1404	maladie thromboembolique pulmonaire
+T36	ANAT 1394 1404	pulmonaire
+T37	DISO 1410 1444	métastases hépato-mésenchymateuses
+T38	ANAT 1421 1444	hépato-mésenchymateuses
+T39	DISO 1450 1484	myélome érythémateux lymphocytaire
+T40	ANAT 1495 1514	lympho-hypophysaire
+T41	DISO 1535 1562	localisations métastatiques
+T42	ANAT 1586 1619	espaces para vertébraux lombaires
+T43	ANAT 1649 1674	organes génitaux externes
+T44	PROC 1681 1709	investigations radiologiques
+T45	DISO 1738 1844	hypotension vertébrobasithalamo-tendineuse bilhoménopharyngo-sigmoïdienne hypochondroidienne hypertrophiée
+T47	DISO 1854 1862	kystique
+T48	Concept_Idea 1875 1883	contours
+T49	MEAS 1884 1895	irréguliers
+T50	ANAT 1914 1939	fosse iliaque postérieure
+T51	Localization 1928 1939	postérieure
+T52	ANAT 1973 1994	surrénale cave droite
+T53	Localization 1988 1994	droite
+T54	MEAS 2004 2015	volumineuse
+T55	PROC 2046 2055	injection
+T56	DOSE 2059 2067	0,5ml/kg
+T57	CHEM 2071 2091	produit de contraste
+T58	MEAS 2105 2117	plus arrondi
+T59	PHEN 2162 2186	prédominatisme liquidien
+T60	ANAT 2201 2231	parties molles cervico-vaginal
+T61	PROC 2236 2252	bilan biologique
+T62	DISO 2269 2285	hyperleucocytose
+T63	MEAS 2288 2297	15000/mm3
+T64	PROC 2305 2324	protéine C réactive
+T65	PROC 2326 2329	CRP
+T66	MEAS 2333 2341	180 mg/l
+T67	PROC 2347 2382	chirurgie exploratrice chirurgicale
+T68	PROC 2388 2435	anastomose péritoine-pancréatique transfixiante
+T69	ANAT 2399 2435	péritoine-pancréatique transfixiante
+T72	TEMP 2532 2549	pendant 72 heures

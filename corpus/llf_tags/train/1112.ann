@@ -1,0 +1,83 @@
+T1	LIVB 15 23	patiente
+T2	DISO 67 74	diabète
+T3	PROC 75 81	traité
+T4	PROC 90 132	néphropathie diabétique insulinodépendante
+T5	Concept_Idea 136 144	histoire
+T6	DISO 151 166	symptomatologie
+T7	TEMP 177 182	un an
+T8	DISO 216 223	dyspnée
+T9	DISO 239 259	vomissements bilieux
+T10	DISO 272 278	signes
+T11	Concept_Idea 348 360	état général
+T12	ANAT 390 413	membre inférieur gauche
+T13	Localization 407 413	gauche
+T14	DISO 420 426	fièvre
+T15	Concept_Idea 468 480	état général
+T16	PROC 484 499	examen physique
+T17	MEAS 516 522	légère
+T18	DISO 523 567	déficit sensitivo-motrice temporo-sporadique
+T19	DISO 606 624	maladie de Basedow
+T20	DISO 626 647	sensibilité somatique
+T21	PROC 653 669	bilan biologique
+T22	DISO 683 699	hyperleucocytose
+T23	MEAS 702 713	1200 GB/mm³
+T24	PHEN 723 740	fonctions vitales
+T25	ANAT 771 789	membres inférieurs
+T26	ANAT 803 817	nerfs crâniens
+T27	DISO 851 866	thrombophlébite
+T28	DISO 876 897	atteinte neurologique
+T29	PROC 902 914	mammographie
+T30	DISO 951 968	récidive kystique
+T31	DISO 985 1036	fibromatopsie érythémato-encéphalique réactionnelle
+T32	ANAT 1064 1076	cuir chevelu
+T33	MEAS 1086 1090	6 cm
+T34	Concept_Idea 1094 1103	grand axe
+T35	ANAT 1129 1156	paroi abdominale antérieure
+T36	Localization 1146 1156	antérieure
+T37	ANAT 1176 1192	segments charnus
+T38	DEVI 1228 1245	siège sous cutané
+T39	ANAT 1263 1282	membranes digestifs
+T40	PROC 1288 1312	laparotomie exploratrice
+T41	ANAT 1353 1369	annexes caudales
+T42	PROC 1518 1538	reprise chirurgicale
+T43	MEAS 1575 1582	simples
+T44	DISO 1595 1606	traumatisme
+T45	LIVB 1618 1626	patiente
+T46	DISO 1680 1701	récidive pathologique
+T47	MEAS 1738 1745	diffuse
+T48	CHEM 1770 1800	céphalosporines intraveineuses
+T49	CHEM 1813 1835	amoxicilline botulique
+T50	Concept_Idea 2026 2043	état nutritionnel
+T51	DISO 2064 2091	surconstipations chroniques
+T52	DISO 2216 2241	contractions intestinales
+T53	DISO 2291 2312	brûlures alimentaires
+T54	DISO 2475 2503	syndrome ulcéro-hémorragique
+T55	ANAT 2532 2557	anses jéjunales fundiques
+T56	DISO 2594 2630	infection sexuellement transmissible
+T57	DISO 2853 2875	dermatomyélites aiguës
+T58	LIVB 2886 2892	malade
+T59	PROC 2897 2906	transfusé
+T60	PROC 2944 2963	anesthésie générale
+T61	PROC 2995 3016	ventilation mécanique
+T62	PROC 3070 3146	résection endotrachéale cervicale transvésiculaire laryngo-trachéale jugulée
+T63	PROC 3161 3179	antibioprophylaxie
+T64	DEVI 3214 3222	cathéter
+T65	TEMP 3224 3232	1 minute
+T66	DISO 3285 3304	incident infectieux
+T67	PROC 3325 3335	extubation
+T68	Hospital 3340 3348	urgences
+T69	DISO 3399 3415	dyspnée primaire
+T70	DISO 3434 3477	neuropathie sensitivo-motrice inflammatoire
+T71	PHEN 3498 3519	grossesse monofoetale
+T72	DISO 3535 3554	trouble psychotique
+T73	DISO 3561 3579	psychose délirante
+T74	DISO 3589 3604	signe neurogène
+T75	DISO 3665 3685	symptômes dépressifs
+T76	PROC 3703 3718	examen clinique
+T77	MEAS 3737 3745	correcte
+T78	DISO 3930 3954	psychomotricité maniaque
+T79	Concept_Idea 4445 4475	caractères sexuels secondaires
+T80	PROC 4481 4504	cervicotomie percutanée
+T81	DISO 4631 4669	rhinopharyngiomes puerpéraux atypiques
+T82	PROC 4723 4751	bilan préchimiothérapeutique
+T83	PROC 4871 4900	prélèvements bactériologiques

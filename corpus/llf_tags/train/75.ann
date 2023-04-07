@@ -1,0 +1,69 @@
+T1	LIVB 16 21	femme
+T2	DISO 43 67	antécédents pathologique
+T3	MEAS 68 80	particuliers
+T4	DISO 98 129	tumeur du plexus brachial droit
+T5	ANAT 108 129	plexus brachial droit
+T6	Localization 124 129	droit
+T7	TEMP 139 151	depuis un an
+T8	PROC 156 168	mammographie
+T9	Concept_Idea 182 185	âge
+T10	TEMP 189 202	vingt-six ans
+T11	DISO 219 270	adénopathies jugulocarotidiennes rétro péritonéales
+T12	ANAT 232 270	jugulocarotidiennes rétro péritonéales
+T13	DISO 290 315	diabète insulinodépendant
+T14	DISO 322 356	thyréopathie chronique obstructive
+T15	DISO 358 370	dyslipidémie
+T16	PROC 375 394	électrocardiogramme
+T17	LIVB 411 418	patient
+T18	CHEM 456 468	fluorouracil
+T19	PROC 488 507	traitement adjuvant
+T20	PROC 551 564	sérologie VIH
+T21	MEAS 571 579	négative
+T22	PROC 589 619	marqueurs immunohistochimiques
+T23	MEAS 628 647	faiblement positifs
+T24	PHEN 669 706	réponses aux recherches diagnostiques
+T25	PROC 682 706	recherches diagnostiques
+T26	PROC 758 783	chimiothérapie palliative
+T27	DISO 870 891	symptômes rhumatoïdes
+T28	DISO 914 934	maladie auto-immunes
+T29	DISO 984 1008	constipations chroniques
+T30	PROC 1013 1032	bilan préopératoire
+T31	DISO 1120 1148	syndrome infectieux néonatal
+T32	DISO 1166 1222	hypertriglycéridémie hypochrome microcytaire polyclonale
+T33	PROC 1245 1294	anastomose colo-pariéto-rénal postéro-expectorale
+T35	Localization 1275 1294	postéro-expectorale
+T36	DEVI 1302 1323	section intraveineuse
+T37	PROC 1340 1365	transfusion foeto-pelvien
+T38	MEAS 1379 1390	3500grammes
+T39	MEAS 1396 1422	7200 unités millimétriques
+T40	MEAS 1428 1436	174 mg/l
+T41	PROC 1452 1519	néphrotomie percutanée cervicale scanno-oesophagienne transvaginale
+T42	PROC 1645 1677	hémoglobine glycorachie sanguine
+T43	PROC 1678 1680	Hb
+T44	MEAS 1763 1767	0,8%
+T45	MEAS 1771 1776	1,5 %
+T46	PROC 1792 1831	injection intramusculaire biquotidienne
+T47	PROC 1856 1881	perfusion parentérale IEC
+T48	DOSE 1892 1906	50 millilitres
+T49	PROC 1921 1944	salivation artificielle
+T50	PROC 1983 2017	prise en charge neuropsychiatrique
+T51	Concept_Idea 2233 2257	état hémodynamique fœtal
+T52	MEAS 2271 2276	14 °C
+T53	MEAS 2280 2286	30 ° C
+T54	DISO 2333 2349	lésions myxoides
+T55	PROC 2394 2404	opératoire
+T56	DISO 2434 2455	céphalées convulsives
+T57	DISO 2491 2515	hallucinations visuelles
+T58	DISO 2613 2638	manifestations somatiques
+T59	PROC 2668 2694	préparations anesthésiques
+T60	PROC 2994 3017	traitement néo-adjuvant
+T61	CHEM 3024 3033	halothane
+T62	CHEM 3036 3065	pénicilline acide nalidixique
+T63	MEAS 3099 3106	simples
+T64	DISO 3112 3147	récidive du membre supérieur gauche
+T65	ANAT 3124 3147	membre supérieur gauche
+T66	Localization 3141 3147	gauche
+T67	DISO 3158 3177	signes fonctionnels
+T68	LIVB 3191 3199	patiente
+T69	TEMP 3227 3237	24/08/2017
+T70	TEMP 3255 3261	3 mois

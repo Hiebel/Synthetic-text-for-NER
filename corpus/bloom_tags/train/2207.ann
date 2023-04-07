@@ -1,0 +1,29 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	3 ans
+T3	DISO 39 56	syndromes fébrile
+T4	DISO 62 76	amaigrissement
+T5	MEAS 87 92	14 kg
+T6	Hospital 107 124	urgence pédiatrie
+T7	CHEM 154 183	poliovirus d'immunodépression
+T8	DISO 204 219	symptomatologie
+T9	TEMP 229 242	depuis 3 mois
+T10	MEAS 276 287	progressive
+T11	DISO 301 333	douleurs cerviculo-carotidiennes
+T12	ANAT 310 333	cerviculo-carotidiennes
+T13	DISO 335 348	dysménorrhées
+T14	DISO 362 368	sueurs
+T15	Concept_Idea 426 443	état neurologique
+T16	MEAS 487 493	rapide
+T17	PROC 580 591	diagnostics
+T18	DISO 703 735	pleurésie purulente prurigineuse
+T19	ANAT 756 767	lit crânien
+T20	PROC 783 801	scanner thoracique
+T21	ANAT 791 801	thoracique
+T22	DISO 855 871	lésions malignes
+T23	LIVB 890 900	nouveau-né
+T24	MEAS 924 933	débutante
+T25	DISO 956 964	apyrexie
+T26	MEAS 987 1007	rapidement favorable
+T27	MEAS 1080 1101	supérieure à 10/10ème
+T28	DISO 1294 1327	troubles sensitivo-physiologiques
+T29	DISO 1388 1417	perceptions sensitivomotrices

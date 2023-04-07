@@ -1,0 +1,50 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 108	traitement antibacillaire adjuvant
+T3	CHEM 121 131	isoniazide
+T4	DOSE 133 138	3g/m²
+T5	TEMP 138 140	/j
+T6	CHEM 143 155	pyrazinamide
+T7	DOSE 157 166	750 mg/m²
+T8	TEMP 166 168	/j
+T9	CHEM 171 184	ethaméthasone
+T10	DOSE 186 194	25 mg/kg
+T11	TEMP 194 196	/j
+T12	CHEM 199 210	rifampicine
+T13	DOSE 212 221	200 mg/m²
+T14	TEMP 221 223	/j
+T15	CHEM 226 237	nicardipril
+T16	DOSE 239 245	1mg/kg
+T17	TEMP 245 247	/j
+T18	CHEM 250 263	triméthoprime
+T19	DOSE 265 274	500 mg/m²
+T20	TEMP 274 276	/j
+T21	CHEM 279 297	hydroxychloroquine
+T22	DOSE 299 308	400 mg/m²
+T23	TEMP 308 310	/j
+T24	CHEM 313 331	méthylprednisolone
+T25	DOSE 333 341	20 μg/kg
+T26	TEMP 341 343	/j
+T27	CHEM 346 359	dexaméthasone
+T28	DOSE 361 370	0,4 µg/kg
+T29	TEMP 370 372	/j
+T30	PROC 378 388	diagnostic
+T31	PROC 418 453	interprétation clinico-radiologique
+T32	PROC 534 553	curage sphinctérien
+T33	ANAT 541 553	sphinctérien
+T34	PROC 563 584	technique chirurgical
+T35	LIVB 616 624	patiente
+T36	DISO 666 687	carcinose épidermoïde
+T37	DISO 880 895	maladie maligne
+T38	DISO 939 981	myélome érythémato-cellulaire hypertrophié
+T39	DISO 999 1031	épanchement pulmonaire liquidien
+T40	ANAT 1011 1031	pulmonaire liquidien
+T41	DISO 1215 1232	lésions tumorales
+T42	DISO 1406 1427	incidence métabolique
+T43	PROC 2173 2202	nasofibrinolyse intraveineuse
+T44	MEAS 2336 2361	progressivement favorable
+T45	CHEM 2386 2414	anticoagulants circulatoires
+T46	CHEM 2432 2452	produit de contraste
+T47	Concept_Idea 2456 2471	aspect clinique
+T48	DISO 2490 2515	prurigo dermatomyosiforme
+T49	PROC 2519 2543	examen histopathologique
+T50	DISO 2558 2581	dermomyosite purpurique

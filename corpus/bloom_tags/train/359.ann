@@ -1,0 +1,52 @@
+T1	LIVB 4 12	patiente
+T2	PROC 34 41	traitée
+T3	DISO 57 66	symptômes
+T4	PROC 72 100	corticothérapie substitutive
+T5	DOSE 105 114	0,5 mg/kg
+T6	TEMP 114 116	/j
+T7	CHEM 118 137	métylhydrocortisone
+T8	DOSE 139 144	50 mg
+T9	TEMP 144 146	/j
+T10	CHEM 149 162	dexaméthasone
+T11	DOSE 165 171	1mg/kg
+T12	TEMP 171 173	/j
+T13	PROC 189 223	radiothérapie adjuvante palliative
+T14	ANAT 236 249	massif facial
+T15	PROC 278 298	biopsie chirurgicale
+T16	DISO 327 339	tuberculeuse
+T17	PROC 409 419	diagnostic
+T18	DISO 479 488	symptômes
+T19	DISO 506 542	syndrome d'épanchement intracérébral
+T20	ANAT 529 542	intracérébral
+T21	DISO 549 582	thrombose ischémique systématisée
+T22	LIVB 602 610	patiente
+T23	Concept_Idea 663 675	état général
+T24	PROC 702 721	traitement phasique
+T25	CHEM 765 780	méthoxorésolone
+T26	CHEM 781 792	albendazole
+T27	DISO 839 867	souffrance fœto-embryonnante
+T28	ANAT 850 867	fœto-embryonnante
+T29	DISO 927 966	hyperprolactinémie primaire congénitale
+T30	DISO 1023 1045	myomateux hypertrophié
+T31	LIVB 1170 1188	famille paternelle
+T32	DISO 1316 1344	douleurs abdomino-pelviennes
+T33	ANAT 1325 1344	abdomino-pelviennes
+T34	PROC 1351 1400	radio-chimiothérapie complémentaire intraveineuse
+T35	DEVI 1459 1485	canaux veineux artificiels
+T36	PROC 1500 1519	étude rétrospective
+T37	LIVB 1548 1555	patient
+T38	DISO 1584 1609	instabilité hémodynamique
+T39	Hospital 1643 1650	urgence
+T40	PROC 1664 1684	transfusion sanguine
+T41	DISO 1696 1730	craniosténose méningée traumatique
+T42	DISO 1748 1799	dépression médullaire inféro-rachidienne hypochrome
+T43	ANAT 1759 1799	médullaire inféro-rachidienne hypochrome
+T44	DISO 1818 1830	hypoglycémie
+T45	DISO 1849 1873	hémiplégie hypokinétique
+T46	MODE 1942 1960	voie intra-buccale
+T47	DOSE 1971 1979	12000 UI
+T48	DISO 2021 2069	méningoencephalopathie dégénérative neurofibrile
+T49	DISO 2165 2191	cytopencéphaline déaminase
+T50	MEAS 2205 2214	suspectée
+T51	PHEN 2294 2312	suites opératoires
+T52	MEAS 2321 2327	bonnes

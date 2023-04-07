@@ -1,0 +1,17 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 30 36	enfant
+T3	MEAS 40 43	bon
+T4	Concept_Idea 44 56	état général
+T5	DISO 58 69	polypnéique
+T6	MEAS 72 85	28 cycles/min
+T7	PHEN 91 110	pression artérielle
+T8	ANAT 100 110	artérielle
+T9	MEAS 113 123	70/40 mmhg
+T10	Localization 128 140	face interne
+T11	ANAT 147 160	tête humérale
+T12	ANAT 168 206	parties molles métacarpo-phalangiennes
+T13	DISO 220 233	particularité
+T14	PROC 249 265	examen somatique
+T15	DISO 283 303	anomalies viscérales
+T16	ANAT 326 333	fémoral
+T17	ANAT 337 360	pédicule tibio-péronier

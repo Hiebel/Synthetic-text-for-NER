@@ -1,0 +1,12 @@
+T1	PROC 2 17	examen
+T2	DISO 38 57	anémie
+T3	ANAT 45 57	microcytaire
+T4	MEAS 60 67	3,6
+T5	PROC 72 98	taux
+T6	MEAS 105 149	inférieur
+T7	DISO 166 192	hypochondrie
+T8	ANAT 225 245	noyaux
+T9	Localization 237 245	centraux
+T10	MEAS 246 262	peu
+T11	DISO 286 315	granulome
+T12	ANAT 296 307	épidermoïde

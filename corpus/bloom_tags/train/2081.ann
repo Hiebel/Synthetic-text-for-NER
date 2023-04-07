@@ -1,0 +1,35 @@
+T1	LIVB 15 22	patient
+T2	PROC 47 58	hospitalisé
+T3	Hospital 62 92	service d'accueil des urgences
+T4	DISO 102 137	douleur abdomino- périnéale fébrile
+T6	TEMP 146 163	depuis deux jours
+T7	DISO 185 191	fièvre
+T8	MEAS 203 207	37°C
+T9	DISO 220 233	signes vitaux
+T10	DISO 259 267	anorexie
+T11	Concept_Idea 289 301	état général
+T12	PROC 305 336	auscultation abdomino pelvienne
+T13	ANAT 318 336	abdomino pelvienne
+T14	DISO 352 385	masse épigastrique ischéo ulcérée
+T16	MEAS 394 398	4 cm
+T17	Concept_Idea 402 416	grand diamètre
+T18	ANAT 442 460	parois abdominales
+T19	MEAS 470 482	environ 3 cm
+T20	Concept_Idea 486 495	grand axe
+T21	PROC 539 563	échographie endovaginale
+T22	ANAT 551 563	endovaginale
+T23	DISO 580 619	masse tumorale kystique hypersignalisée
+T24	ANAT 636 651	anses grêliques
+T25	ANAT 691 711	cavités intestinales
+T26	Localization 724 727	sus
+T27	ANAT 724 735	sus-vaginal
+T28	MEAS 755 762	intense
+T29	DISO 777 794	défauts pigmentés
+T30	ANAT 823 848	fosse ombilicale fundique
+T31	DISO 938 1016	adénopathies jugulo-carotidopholliculaires pariéto-ombilicales iléofistulisées
+T33	PROC 1042 1062	imagerie multimodèle
+T34	DISO 1105 1110	masse
+T35	ANAT 1136 1161	sinus caverneux gastrique
+T36	DISO 1192 1217	résidu graisseux infiltré
+T37	DISO 1227 1238	pancréatome
+T38	LIVB 1255 1263	patiente

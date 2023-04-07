@@ -1,0 +1,18 @@
+T1	PROC 2 17	examen clinique
+T2	PROC 22 31	admission
+T3	LIVB 44 51	patient
+T4	MEAS 55 58	bon
+T5	Concept_Idea 59 71	état général
+T6	DISO 73 83	apyrétique
+T7	PHEN 94 105	tachycardie
+T8	MEAS 109 124	100 batt/minute
+T9	CHEM 132 159	saturation pulsée d'oxygène
+T10	MEAS 167 183	supérieure à 94%
+T11	DEVI 187 197	microscope
+T12	PROC 213 229	examen somatique
+T13	DISO 241 254	particularité
+T14	PROC 259 292	ponction liquide pleuro-pleurieux
+T15	ANAT 268 292	liquide pleuro-pleurieux
+T16	ANAT 364 407	parenchyme pulmonaire basithoracique gauche
+T17	Localization 401 407	gauche
+T18	DISO 443 464	pleurésie lithiasique

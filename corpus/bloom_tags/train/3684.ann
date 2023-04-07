@@ -1,0 +1,30 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	9 ans
+T3	Concept_Idea 41 52	antécédents
+T4	MEAS 53 65	particuliers
+T5	PROC 67 72	admis
+T6	Hospital 77 98	urgences pédiatriques
+T7	DISO 107 142	syndrome d'épanchement péricardique
+T8	ANAT 130 142	péricardique
+T9	DISO 163 182	épigastralgie aiguë
+T10	TEMP 192 205	depuis 2 mois
+T11	PROC 209 224	examen clinique
+T12	PROC 229 238	admission
+T13	DISO 264 348	tuméfaction des muscles para vertébraux du péripancréatico-surrénalienne douloureuse
+T15	Concept_Idea 351 357	aspect
+T16	MEAS 358 366	boudinée
+T17	MEAS 370 378	homogène
+T18	MEAS 387 400	environ 15 cm
+T19	MEAS 405 410	12 cm
+T20	DISO 424 433	anomalies
+T21	PROC 450 466	examen somatique
+T22	DISO 478 492	particularités
+T23	PROC 497 513	bilan biologique
+T24	PHEN 531 546	fonction rénale
+T25	ANAT 540 546	rénale
+T26	MEAS 547 554	altérée
+T27	CHEM 560 578	hydroxychloroquine
+T28	CHEM 591 613	méthyl-méthasufentanil
+T29	MODE 618 636	voie intraveineuse
+T30	LIVB 656 666	nouveau-né
+T31	PROC 687 709	traitement chirurgical

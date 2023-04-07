@@ -1,0 +1,31 @@
+T1	LIVB 16 24	patiente
+T2	DISO 45 70	antécédents pathologiques
+T3	MEAS 71 83	particuliers
+T4	DISO 111 118	diabète
+T5	DISO 124 147	hypertension artérielle
+T6	ANAT 137 147	artérielle
+T7	PROC 153 178	examen gynéco obstétrical
+T8	PHEN 194 203	grossesse
+T9	TEMP 213 226	depuis 3 mois
+T10	PROC 231 237	suivie
+T11	DISO 296 352	carcinome col utérin séreux cervico-sigmoïdo-vascularisé
+T13	LIVB 382 390	patiente
+T14	DISO 401 409	tumorale
+T15	DISO 468 486	pathophysiologique
+T16	PROC 491 513	TDM abdomino pelvienne
+T17	ANAT 495 513	abdomino pelvienne
+T18	DISO 534 575	paragangliome parathyroïdien hypertrophié
+T19	MEAS 585 590	10 cm
+T20	Concept_Idea 594 603	grand axe
+T21	ANAT 643 664	membranes ombilicales
+T22	ANAT 694 721	grande tubérosité gastrique
+T23	PROC 739 772	imagerie par résonance magnétique
+T24	PROC 774 777	IRM
+T25	CHEM 779 797	méthylprednisolone
+T26	PROC 804 827	injection intraveineuse
+T27	DOSE 831 837	1mg/kg
+T28	CHEM 841 853	prédnisolone
+T29	Concept_Idea 876 882	aspect
+T30	DEVI 950 958	matériel
+T31	DISO 1003 1034	lésions hétérogènes tissulaires
+T32	DISO 1044 1054	secondaire

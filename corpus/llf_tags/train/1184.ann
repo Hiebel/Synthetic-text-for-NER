@@ -1,0 +1,38 @@
+T1	PROC 23 46	IRM de la cuisse droite
+T2	ANAT 33 46	cuisse droite
+T3	Localization 40 46	droite
+T4	PROC 50 75	étude anatomopathologique
+T5	DISO 88 118	processus tissulaire liquidien
+T6	ANAT 132 169	quadrant supero-externe des vertébrés
+T7	DISO 189 204	nodule polylobé
+T8	MEAS 214 218	5 cm
+T9	Concept_Idea 222 231	grand axe
+T10	ANAT 271 294	tronc spléno-mésaraïque
+T11	ANAT 302 333	parties molles para vertébrales
+T12	DISO 414 433	lésion métastatique
+T13	PROC 447 464	tomodensitométrie
+T14	PROC 466 480	TDM) cérébrale
+T15	ANAT 471 480	cérébrale
+T16	DISO 492 501	anomalies
+T17	MEAS 526 530	7 cm
+T18	Concept_Idea 534 543	grand axe
+T19	DISO 569 622	métastase mucopéridoléculaire monophasique hétérogène
+T20	ANAT 641 665	région sous mandibulaire
+T21	ANAT 691 710	nerf grand pectoral
+T22	LIVB 715 722	patient
+T23	PROC 745 770	chimiothérapie palliative
+T24	CHEM 776 787	vancomycine
+T25	CHEM 790 800	aminosides
+T26	PROC 814 844	radio-chimiothérapie adjuvante
+T27	MODE 849 867	voie intraveineuse
+T28	PROC 896 922	radiothérapie concomitante
+T29	Concept_Idea 935 966	caractéristiques morphologiques
+T30	DOSE 1040 1045	50 Gy
+T31	TEMP 1045 1050	/jour
+T32	PROC 1057 1110	néphrectomie transoesogastroduodénale scanno-guidonèe
+T33	PROC 1128 1166	angioplastie percutanée endobronchique
+T34	DISO 1209 1230	symptômes secondaires
+T35	PROC 1235 1256	contrôle locorégional
+T36	DISO 1287 1303	syndrome tumoral
+T37	PHEN 1349 1361	respiratoire
+T38	Hospital 1373 1395	structure hospitalière

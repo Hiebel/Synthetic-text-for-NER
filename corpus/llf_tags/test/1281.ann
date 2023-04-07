@@ -1,0 +1,69 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 59 60	4
+T3	LIVB 61 68	enfants
+T4	DISO 73 88	symptomatologie
+T5	TEMP 99 105	2 mois
+T6	DISO 138 153	pneumopéritoine
+T7	DISO 168 177	dysphonie
+T8	Concept_Idea 186 195	score OMS
+T9	MEAS 198 202	5/15
+T10	DISO 215 221	signes
+T11	DISO 255 266	traumatisme
+T12	PROC 294 310	bilan biologique
+T13	DISO 327 343	hyperleucocytose
+T14	MEAS 346 366	9000 plaquettes /mm3
+T15	ANAT 381 399	membres inférieurs
+T16	Localization 389 399	inférieurs
+T17	ANAT 414 447	région lombaire supérieure droite
+T18	Localization 441 447	droite
+T19	DISO 477 492	symptomatologie
+T20	DISO 517 535	crises convulsives
+T21	DISO 545 569	pseudo-épisode dépressif
+T22	Concept_Idea 1116 1137	traditions familiales
+T23	LIVB 1194 1205	jeune fille
+T24	PROC 1226 1238	hospitalisée
+T25	LIVB 1248 1251	son
+T26	LIVB 1252 1263	grand frère
+T27	TEMP 1277 1283	17 ans
+T28	PROC 1313 1351	transfusions intraveineuse parentérale
+T29	CHEM 1391 1422	neuroleptiques thymorégulateurs
+T30	LIVB 1449 1451	sa
+T31	LIVB 1452 1456	sœur
+T32	Concept_Idea 1486 1498	état général
+T33	PROC 1702 1714	ventilatoire
+T34	DISO 1785 1838	hallucinations neuropsychiatriques schizophréniformes
+T35	DISO 1857 1887	trouble obsessionnel compulsif
+T36	PROC 2128 2147	geste psychiatrique
+T37	DEVI 2188 2211	substances psychotropes
+T38	Concept_Idea 2234 2257	caractère normalisateur
+T39	PROC 2285 2304	exercices cognitifs
+T40	PHEN 2328 2345	fonctions vitales
+T41	ANAT 2365 2374	auditives
+T42	PROC 2460 2481	contrôle locorégional
+T43	MEAS 2495 2503	spontané
+T44	LIVB 2511 2515	nous
+T45	PROC 2539 2592	explorations électroencéphalogramme IRM scannoguidées
+T46	PROC 2683 2701	étude radiologique
+T47	DISO 2717 2760	processus lésionnel polypnéique réactionnel
+T48	LIVB 3221 3229	patiente
+T49	DISO 3277 3297	hypertriglycéridémie
+T50	PROC 3311 3339	corticothérapie probabiliste
+T51	CHEM 3341 3368	antiagrégants plaquettaires
+T52	DISO 3406 3433	symptomatologie infectieuse
+T53	ANAT 3463 3474	rein gauche
+T54	Localization 3468 3474	gauche
+T55	DISO 3507 3524	signes infectieux
+T56	DISO 3550 3583	diarrhées hypocholestérolémiantes
+T57	LIVB 3609 3613	elle
+T58	Hospital 3630 3651	urgences pédiatriques
+T59	DISO 3751 3775	symptomatologie clinique
+T60	TEMP 3786 3811	quelques jours auparavant
+T61	LIVB 3868 3870	sa
+T62	LIVB 3871 3875	mère
+T63	PROC 3895 3932	prise en charge médicale substitutive
+T64	LIVB 4090 4093	son
+T65	LIVB 4094 4104	belle-sœur
+T67	TEMP 4163 4169	18 ans
+T68	MEAS 4524 4532	majeures
+T69	LIVB 4774 4794	paramètres familiaux
+T70	DISO 4887 4913	consanguinité pathologique

@@ -1,0 +1,15 @@
+T1	LIVB 29 37	patiente
+T2	DISO 66 93	accident ischémique fébrile
+T3	DISO 121 141	douleurs abdominales
+T4	ANAT 130 141	abdominales
+T5	MEAS 156 167	progressive
+T6	PROC 203 233	prise médicamenteuse adjuvante
+T7	PROC 247 268	échographie pelvienne
+T8	ANAT 259 268	pelvienne
+T9	DISO 290 299	stigmates
+T10	DISO 728 772	syndrome d'épanchement bilatéral lithiasique
+T11	Localization 751 760	bilatéral
+T12	MEAS 802 811	favorable
+T13	PHEN 834 852	débit sphinctérien
+T14	ANAT 840 852	sphinctérien
+T15	DISO 884 910	troubles sensitivomotrices

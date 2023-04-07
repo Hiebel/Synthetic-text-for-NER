@@ -1,0 +1,20 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	7 ans
+T3	DISO 40 65	antécédents pathologiques
+T4	MEAS 66 74	notables
+T5	CHEM 80 100	méthylhydrocortisone
+T6	Concept_Idea 104 108	dose
+T7	DOSE 112 118	1mg/kg
+T8	TEMP 118 123	/jour
+T9	CHEM 136 154	hydroxychloroquine
+T10	PROC 183 221	corticothérapie substitutive adjuvante
+T11	MODE 227 239	intraveineux
+T12	ANAT 294 320	corps vertébraux lombaires
+T13	PROC 327 345	traitement curatif
+T14	DISO 373 402	complications néphropathiques
+T15	PROC 541 561	traitement préventif
+T16	CHEM 570 583	dexaméthasone
+T17	TEMP 610 621	trois jours
+T18	MEAS 677 690	macroscopique
+T19	CHEM 720 750	médication d'immunosuppresseur
+T20	CHEM 765 792	inhibiteur de l'hémoglobine

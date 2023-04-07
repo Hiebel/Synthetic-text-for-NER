@@ -1,0 +1,94 @@
+T1	LIVB 20 28	patiente
+T2	PROC 54 66	hospitalisée
+T3	DISO 76 93	dyspnée sifflante
+T4	ANAT 97 104	abdomen
+T5	MEAS 111 121	légèrement
+T6	DISO 122 130	distendu
+T7	Concept_Idea 161 167	effort
+T8	DISO 174 191	syndrome anémique
+T9	Concept_Idea 236 248	état général
+T10	DISO 262 268	signes
+T11	DISO 295 307	vomissements
+T12	DISO 317 331	déshydratation
+T13	PROC 337 351	interrogatoire
+T14	LIVB 355 363	patiente
+T15	DISO 414 437	déficit sensitivomoteur
+T16	PROC 468 478	scolarisée
+T17	PROC 518 523	admis
+T18	Hospital 527 532	lycée
+T19	PHEN 557 573	langage corporel
+T20	PROC 625 641	bilan biologique
+T21	DISO 663 702	insuffisance rénale chronique terminale
+T22	ANAT 676 682	rénale
+T23	MEAS 713 722	12 mmol/l
+T24	CHEM 728 759	amoxicilline acide clavulanique
+T25	PROC 795 828	scanner cervico-thoraco-abdominal
+T26	ANAT 803 828	cervico-thoraco-abdominal
+T27	DISO 845 888	masse tissulaire hypoéchogène hyperéchogène
+T28	ANAT 907 918	rein gauche
+T29	Localization 912 918	gauche
+T30	MEAS 928 932	6 cm
+T31	Concept_Idea 936 945	grand axe
+T32	ANAT 968 1001	anses urétrale supérieure gauches
+T33	Localization 994 1001	gauches
+T34	Concept_Idea 1015 1023	quantité
+T35	MEAS 1032 1036	3 cm
+T36	Concept_Idea 1040 1048	diamètre
+T37	ANAT 1070 1085	annexes rénales
+T38	ANAT 1101 1112	anse iléale
+T39	ANAT 1132 1163	reins érecteurs gastroduodénaux
+T40	ANAT 1179 1198	annexes pulmonaires
+T41	MEAS 1232 1239	simples
+T42	PROC 1245 1269	chimiothérapie adjuvante
+T43	LIVB 1295 1303	patiente
+T44	PROC 1319 1378	néphrolithotomie exploratrice intrathoracique scanno-guidée
+T45	PROC 1398 1439	explorations endoscopiques préopératoires
+T46	PROC 1464 1492	radiothérapie postopératoire
+T47	DEVI 1498 1527	cathéter pulsé infundibulaire
+T48	TEMP 1527 1549	pendant trois semaines
+T49	PROC 1562 1610	toilette urothéliale digestive nécrotique direct
+T51	PROC 1625 1672	transfusion aspirante périmétraréflexion totale
+T52	PROC 1701 1722	contrôle radiologique
+T53	DISO 1747 1785	trajet fistuleux artériel hémorragique
+T54	DISO 1792 1829	calcification liquidienne péritonéale
+T55	PROC 1842 1868	examen anatomopathologique
+T56	PROC 1873 1900	numération formule sanguine
+T57	DISO 1925 2641	anémie normochrome normocytaire alpha méthyl transférase IgG³=1,85 g/dl correspondant à 11 fois la normale compatible avec une hyperprotéinorachie congénitalocytose diabétique insulino-hypogasmonaire selon la classification de Haglund alors que ceci revenait à 0,16 mg/L soit près de 3 fois la normale mais non compatible avec une maladie cœliaque comme évoqué précédemment. De plus amples informations ont été demandées concernant : iinos antécédents obstétricaux antérieurs probabilistes dont certains avaient nécessité une consultation ophtalmologique multidisciplinaire ayant conclu à une surinfection tuberculeuse kératinisante évolutive pouvant être expliquée par «Bacille de Koch encéphalopathie inflammatoire
+T58	MEAS 2013 2031	11 fois la normale
+T59	DISO 2052 2124	hyperprotéinorachie congénitalocytose diabétique insulino-hypogasmonaire
+T60	PROC 2134 2159	classification de Haglund
+T61	MEAS 2186 2195	0,16 mg/L
+T62	DISO 2256 2272	maladie cœliaque
+T64	PROC 2451 2498	consultation ophtalmologique multidisciplinaire
+T65	DISO 2518 2557	surinfection tuberculeuse kératinisante
+T66	PROC 2909 2937	examens immunohistochimiques
+T67	Concept_Idea 2961 2984	résultats histologiques
+T68	PROC 3008 3021	histologiques
+T69	DISO 3057 3089	carcinome primitif du sein droit
+T70	ANAT 3079 3089	sein droit
+T71	Localization 3084 3089	droit
+T72	PROC 3105 3122	scanner abdominal
+T73	ANAT 3113 3122	abdominal
+T77	ANAT 3508 3533	scarpa ventral fovéolaire
+T78	DISO 3577 3615	neurofibromatosplénomégalie ischémique
+T79	PROC 3630 3679	curage ganglionnaire transvertébral scanno-guidée
+T80	PROC 3699 3729	antibiothérapie antibacillaire
+T81	Concept_Idea 3742 3764	paramètres biologiques
+T82	PROC 3776 3802	hémodialyse postopératoire
+T83	DEVI 3806 3836	fil résorbable haute fréquence
+T84	CHEM 3861 3872	céftriaxone
+T85	PROC 3888 3915	thyroïdectomie exploratrice
+T86	PROC 3929 3949	néphrectomie in situ
+T87	ANAT 3969 3986	vésicule biliaire
+T88	ANAT 4008 4043	membranes hépatiques superficielles
+T89	ANAT 4066 4101	branches pyélocalicielle accessoire
+T90	PROC 4128 4157	investigations macroscopiques
+T91	DISO 4183 4204	récidive pathologique
+T92	DISO 4238 4279	cytokératite septique maligne lithiasique
+T93	DISO 4312 4347	tuberculose pseudo tumorale myxoide
+T94	LIVB 4380 4387	malades
+T95	MEAS 4473 4482	évolutive
+T96	PHEN 4488 4506	suites opératoires
+T97	MEAS 4513 4520	simples
+T98	MEAS 4531 4538	simples
+T99	PROC 4543 4558	exploration ORL

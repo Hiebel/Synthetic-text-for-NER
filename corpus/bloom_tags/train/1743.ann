@@ -1,0 +1,28 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	5 ans
+T3	DISO 48 71	hypertension artérielle
+T4	Concept_Idea 61 71	artérielle
+T5	TEMP 81 97	depuis deux mois
+T6	MEAS 109 124	progressivement
+T7	Concept_Idea 128 134	volume
+T8	MEAS 146 150	6 kg
+T9	MEAS 153 158	14 kg
+T10	Concept_Idea 165 168	âge
+T11	TEMP 172 177	2 ans
+T12	PHEN 219 244	équilibre psychomotricité
+T13	DISO 251 267	troubles visuels
+T14	DISO 273 336	intoxication aux anti-adrénalineergiques noradrénalectrolyseurs
+T15	CHEM 290 336	anti-adrénalineergiques noradrénalectrolyseurs
+T16	PROC 362 382	reprise chirurgicale
+T17	PROC 389 412	radiothérapie adjuvante
+T18	DISO 459 496	défibrillation ventriculo-myocardique
+T19	ANAT 474 496	ventriculo-myocardique
+T20	MEAS 522 538	progressionnelle
+T21	TEMP 562 571	trois ans
+T22	MEAS 636 663	de plus en plus prurigineux
+T23	DISO 679 699	céphalées fébuleuses
+T24	MEAS 714 725	progressive
+T25	MEAS 754 757	4kg
+T26	DEVI 774 792	sonde œsophagienne
+T27	ANAT 780 792	œsophagienne
+T28	MEAS 802 811	difficile

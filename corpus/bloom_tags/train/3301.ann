@@ -1,0 +1,38 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 19 25	15 ans
+T3	DISO 31 54	antécédent pathologique
+T4	MEAS 55 62	notable
+T5	PROC 69 75	admise
+T6	Hospital 80 101	urgences pédiatriques
+T7	DISO 120 134	amaigrissement
+T8	MEAS 145 150	10 kg
+T9	PROC 155 174	bilan préopératoire
+T10	DISO 191 207	hyperleucocytose
+T11	MEAS 210 228	14000 éléments/mm3
+T12	PROC 297 300	CRP
+T13	MEAS 313 322	100 mg /l
+T14	PHEN 338 346	natrémie
+T15	MEAS 357 367	135 meq /L
+T16	PROC 377 393	analgésie locale
+T17	DEVI 425 438	masse plâtrée
+T18	MEAS 446 450	18 g
+T19	MODE 456 466	voie orale
+T20	MEAS 478 490	spontanément
+T21	Concept_Idea 494 500	volume
+T22	TEMP 510 527	depuis deux jours
+T23	MEAS 543 553	rapidement
+T24	Concept_Idea 557 563	taille
+T25	Concept_Idea 568 578	coloration
+T26	MEAS 585 593	violacée
+T27	Concept_Idea 609 617	tonalité
+T28	MEAS 624 642	paucisignificative
+T29	DISO 662 701	brulure méningée hémorragique purulente
+T30	DISO 711 721	cocciforme
+T31	ANAT 753 774	structures cérébrales
+T32	ANAT 849 873	liquide céphalorachidien
+T33	LIVB 893 900	jumeule
+T34	TEMP 909 914	2 ans
+T35	DISO 971 986	kyste hydatique
+T36	ANAT 997 1011	intracrânienne
+T37	DISO 1097 1118	détresse respiratoire
+T38	DISO 1135 1155	syndrome grippaloïde

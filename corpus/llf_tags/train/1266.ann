@@ -1,0 +1,28 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 66	antécédents pathologiques
+T3	MEAS 67 79	particuliers
+T4	DISO 99 137	tuméfaction douloureuse du pied gauche
+T5	ANAT 126 137	pied gauche
+T6	Localization 131 137	gauche
+T7	DISO 154 165	traumatisme
+T8	PROC 170 187	tomodensitométrie
+T9	TEMP 200 213	novembre 2014
+T10	DISO 233 312	processus lésionnel inflammatoire des muscles psoas postéro-supérieures gauches
+T11	ANAT 271 312	muscles psoas postéro-supérieures gauches
+T12	Localization 305 312	gauches
+T13	MEAS 321 325	2 cm
+T14	Concept_Idea 329 337	diamètre
+T15	PHEN 363 369	effort
+T16	MEAS 383 393	plus grand
+T17	MEAS 403 416	6 centimètres
+T18	Concept_Idea 420 429	grand axe
+T19	PROC 433 458	étude anatomopathologique
+T20	DISO 488 591	carcinome épidermoïde rénitralisé mononucléiforme carcinomateux infiltrant les structures sous cutanées
+T21	ANAT 567 591	structures sous cutanées
+T22	ANAT 614 651	plexus brachial supérieur homolatéral
+T23	Localization 640 651	homolatéral
+T24	DISO 658 718	lésion maligne tissulaire nécrosante kystique hypoatrophique
+T25	ANAT 736 751	méso transverse
+T26	MEAS 780 789	favorable
+T27	DISO 822 843	récidive métastatique
+T28	DISO 853 878	signe neurofibroblastique

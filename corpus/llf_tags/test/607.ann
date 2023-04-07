@@ -1,0 +1,58 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 41 52	antécédents
+T3	MEAS 53 65	particuliers
+T4	DISO 85 106	tumeur du sein gauche
+T5	ANAT 95 106	sein gauche
+T6	Localization 100 106	gauche
+T7	PROC 111 117	examen
+T8	PROC 121 139	étude histologique
+T9	DISO 161 216	carcinome mucineux infiltrant la veine jugulaire droite
+T10	ANAT 194 216	veine jugulaire droite
+T11	Localization 210 216	droite
+T12	ANAT 239 259	pli sub-sphinctérien
+T13	ANAT 267 297	vaisseaux rénaux mésentériques
+T14	DISO 301 347	processus carcinomateux métastatique nodulaire
+T15	ANAT 362 394	parties molles cervicale droites
+T16	Localization 387 394	droites
+T17	ANAT 407 477	nerf musculo-tendineux psoasal antero-mandibulaire inférieur inférieur
+T18	Localization 468 477	inférieur
+T19	PROC 483 507	chimiothérapie adjuvante
+T20	CHEM 512 525	triméthoprime
+T21	DOSE 527 530	5mg
+T22	TEMP 530 532	/j
+T23	PROC 549 575	radiothérapie concomitante
+T24	PROC 589 620	radio-chimiothérapie palliative
+T25	PHEN 646 664	suites opératoires
+T26	MEAS 673 680	simples
+T27	PROC 686 716	traitement médical substitutif
+T28	PROC 729 749	rééducation sportive
+T29	PROC 788 823	scanner thoraco- abdomino-abdominal
+T30	ANAT 796 823	thoraco- abdomino-abdominal
+T31	DISO 840 935	distension hépato-pelvienne intra péritonéale lobaire homolatérale supérieure bilatérale droite
+T34	Localization 918 935	bilatérale droite
+T35	ANAT 948 976	quadrants supérieurs utérins
+T36	DISO 988 1003	symptomatologie
+T37	DISO 1049 1079	métastase tuberculeuse maligne
+T38	DISO 1092 1117	signes neuropsychiatrique
+T39	PROC 1122 1149	numération formule sanguine
+T40	DISO 1163 1179	hyperleucocytose
+T41	MEAS 1182 1195	12400 GB/mm 3
+T42	MEAS 1201 1222	11000 fois la normale
+T43	Concept_Idea 1259 1270	température
+T44	MEAS 1281 1285	37°C
+T45	PROC 1301 1316	examen clinique
+T46	DISO 1328 1342	particularités
+T47	DISO 1359 1387	retentissement hémodynamique
+T48	DISO 1398 1421	anomalies radiologiques
+T49	DISO 1452 1471	troubles infectieux
+T50	DISO 1531 1562	râles crépitants hypocaloriques
+T51	ANAT 1582 1611	annexes coccygiennes externes
+T52	DISO 1681 1705	complication infectieuse
+T53	Concept_Idea 1718 1732	aspect général
+T54	DISO 1749 1792	maladie thromboembolique veineuse chronique
+T55	DISO 1798 1830	infarctus myocardique secondaire
+T56	MEAS 1838 1844	T4N2M0
+T57	PROC 1894 1949	biopsies cutanéomuqueuses superficielles scanno-guidées
+T58	LIVB 1985 1994	patientes
+T59	Concept_Idea 2017 2045	résultat anatomopathologique
+T60	LIVB 2082 2089	malades

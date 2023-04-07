@@ -1,0 +1,103 @@
+T1	LIVB 19 27	patiente
+T2	DISO 48 73	antécédents pathologiques
+T3	MEAS 74 86	particuliers
+T4	PROC 98 104	admise
+T5	Hospital 109 117	urgences
+T6	DISO 127 144	douleurs du genou
+T7	ANAT 139 144	genou
+T8	TEMP 154 168	depuis 3 jours
+T9	PROC 172 187	examen clinique
+T10	LIVB 201 209	patiente
+T11	MEAS 213 220	mauvais
+T12	Concept_Idea 221 233	état général
+T13	PHEN 242 247	pouls
+T14	MEAS 250 264	115 battements
+T15	TEMP 265 286	toutes les 30 minutes
+T16	DISO 303 323	signes neuro-cutanés
+T17	PROC 343 359	examen somatique
+T18	PROC 363 377	interrogatoire
+T19	DISO 423 442	syndrome infectieux
+T20	LIVB 454 462	patiente
+T21	CHEM 507 522	fluoroquinolone
+T22	DOSE 524 530	1mg/kg
+T23	TEMP 530 535	/jour
+T24	PROC 542 560	antibioprophylaxie
+T25	MODE 565 583	voie intraveineuse
+T26	DISO 662 680	crises convulsives
+T27	PROC 697 720	traumatisme chirurgical
+T28	PROC 725 755	bilan biologique préopératoire
+T29	DISO 780 788	récidive
+T30	DISO 798 811	symptomatique
+T31	DISO 838 861	trouble trophoblastique
+T32	DISO 872 895	maladies auto-infligées
+T33	PROC 900 928	prise en charge chirurgicale
+T34	PROC 966 990	laparotomie exploratrice
+T35	PROC 1004 1036	chimiothérapie substitutionnelle
+T36	CHEM 1042 1058	cyclophosphamide
+T37	DOSE 1059 1065	400 mg
+T38	TEMP 1065 1069	/24h
+T39	PROC 1075 1096	contrôle radiologique
+T40	PROC 1103 1124	monitorage biphasique
+T41	PROC 1151 1170	suivi échographique
+T42	PROC 1203 1230	examen anatomo-pathologique
+T43	MEAS 1241 1248	négatif
+T44	PROC 1253 1281	remplissage abdomino-pelvien
+T45	ANAT 1265 1281	abdomino-pelvien
+T46	PROC 1296 1324	néphrectomie totale monobloc
+T47	PROC 1354 1396	reconstruction scanno-guidée endoscannaire
+T48	PROC 1406 1420	technique EMDR
+T49	PROC 1424 1455	scanner thoraco-abdominopelvien
+T50	ANAT 1432 1455	thoraco-abdominopelvien
+T51	DISO 1491 1518	neurofibromatose diabétique
+T52	DISO 1545 1596	sensibilité œsogastroduodénale pariéto-mésentérique
+T53	ANAT 1557 1596	œsogastroduodénale pariéto-mésentérique
+T54	Localization 1611 1617	gauche
+T55	DISO 1652 1668	maladie cœliaque
+T56	MEAS 1709 1716	simples
+T57	DISO 1796 1824	détails hydroélectrolytiques
+T58	DISO 1861 1890	hypertension cardiovasculaire
+T59	ANAT 1874 1890	cardiovasculaire
+T60	DISO 1901 1920	insuffisance rénale
+T61	ANAT 1914 1920	rénale
+T62	ANAT 2352 2360	urinaire
+T63	ANAT 2410 2421	colorectale
+T64	PROC 2671 2674	NFS
+T65	Concept_Idea 2684 2690	aspect
+T66	DISO 2706 2787	léiomyosarcome épidermoïde des glandes salivaires intraparenchymateuses fundiques
+T67	ANAT 2737 2787	glandes salivaires intraparenchymateuses fundiques
+T68	DISO 2840 2896	tumeur primitive du nerf cruro-péritonéal aorto-cervical
+T69	ANAT 2860 2896	nerf cruro-péritonéal aorto-cervical
+T70	MEAS 2922 2927	bonne
+T71	PROC 2933 2965	traitement adjuvant conservateur
+T72	PROC 2979 3011	scanner thoraco-abdomino-pelvien
+T73	ANAT 2987 3011	thoraco-abdomino-pelvien
+T74	DISO 3035 3060	localisations secondaires
+T75	DISO 3067 3088	métastases tubulaires
+T76	ANAT 3098 3125	vaisseaux sus mésentériques
+T77	ANAT 3133 3170	ganglions urothéliaux intrarachidiens
+T78	PROC 3175 3181	suivie
+T79	LIVB 3212 3217	femme
+T80	DISO 3238 3263	antécédents pathologiques
+T81	MEAS 3264 3276	particuliers
+T82	PROC 3299 3324	chimiothérapie palliative
+T83	CHEM 3330 3353	cyclophosphamide per os
+T84	DISO 3363 3391	perceptions ophtalmologiques
+T85	PROC 3416 3442	remplissage nasopharyngéen
+T86	ANAT 3428 3442	nasopharyngéen
+T87	PROC 3468 3487	radiologie standard
+T88	PROC 3521 3543	contrôle échographique
+T89	PHEN 3572 3593	fonction respiratoire
+T90	ANAT 3581 3593	respiratoire
+T91	MEAS 3594 3626	inférieure à deux litres/minutes
+T92	MEAS 3652 3657	10 cm
+T93	Concept_Idea 3661 3670	grand axe
+T94	PROC 3710 3737	séances multidisciplinaires
+T95	PROC 3781 3800	examens biologiques
+T96	PROC 3807 3826	bilan immunologique
+T97	PROC 3848 3872	recherches histologiques
+T98	MEAS 3938 3951	probabilistes
+T99	PROC 3958 3987	prise en charge psychiatrique
+T100	PROC 4039 4079	kinésithérapie cognitivo-comportementale
+T101	PROC 4093 4136	consultation psychanalytique individualisée
+T102	PROC 4152 4211	psychothérapie comportementale antipsychotique probabiliste
+T103	PROC 4242 4277	surveillance électroencéphalogramme

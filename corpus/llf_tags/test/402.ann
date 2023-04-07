@@ -1,0 +1,22 @@
+T1	LIVB 15 22	patient
+T2	PROC 87 93	suivie
+T3	PROC 126 131	admis
+T4	Hospital 136 171	urgences obstétricales pédiatriques
+T5	PROC 179 198	traitement adjuvant
+T6	DISO 229 248	maladie infectieuse
+T7	PROC 266 293	thyroïdectomie exploratrice
+T8	PROC 297 362	curage ganglionnaire cervicale transoesophagienne conventionnelle
+T9	PROC 379 417	laparotomie intrathécale scanno-guidée
+T10	PROC 429 442	consultations
+T11	DISO 462 500	déficit neuropsychiatrique psychotique
+T12	LIVB 534 541	patient
+T13	DISO 551 579	symptômes schizophréniformes
+T14	DISO 649 671	signes dysfonctionnels
+T15	PHEN 739 754	ingestion orale
+T16	PROC 820 844	alimentation parentérale
+T17	PROC 850 878	prise en charge chirurgicale
+T18	PROC 914 938	neuroradiologie générale
+T19	PROC 952 999	kinésithérapie motrice locorégionale palliative
+T20	PROC 1018 1043	radio kinésithérapeutique
+T21	PROC 1077 1098	sédation orthopédique
+T22	DISO 1126 1148	convulsions partielles

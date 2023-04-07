@@ -1,0 +1,31 @@
+T1	LIVB 4 9	femme
+T2	DISO 31 56	antécédents pathologiques
+T3	MEAS 57 65	notables
+T4	PROC 67 73	admise
+T5	Hospital 78 86	urgences
+T6	DISO 93 117	toux sifflante chronique
+T7	DISO 133 153	dyspnée constrictive
+T8	TEMP 163 176	depuis 1 mois
+T10	ANAT 193 210	pleuro-pulmonaire
+T11	DISO 244 318	syndrome d'épanchement liquidien basithoracique huméro-myxo-latéral gauche
+T12	ANAT 267 318	liquidien basithoracique huméro-myxo-latéral gauche
+T13	Localization 312 318	gauche
+T14	DISO 328 354	empyème pleuréo-thoracique
+T15	ANAT 336 354	pleuréo-thoracique
+T16	LIVB 357 360	Son
+T17	PROC 361 378	bilan étiologique
+T18	PROC 392 420	endoscopie bronchobronchique
+T19	ANAT 403 420	bronchobronchique
+T20	PROC 433 466	échocardiographie transthoracique
+T21	ANAT 451 466	transthoracique
+T22	DISO 493 519	malformations congénitales
+T23	DISO 533 574	épanchement basithoracique myxo-cavitaire
+T24	ANAT 545 574	basithoracique myxo-cavitaire
+T25	ANAT 607 639	intra-diaphragmatique thoracique
+T26	PROC 679 708	recherche immunohistochimique
+T27	PROC 729 755	étude immuno-histochimique
+T28	PHEN 792 812	grossesse gémellaire
+T29	DEVI 847 877	bandelettes vaginales plâtrées
+T30	PROC 988 998	opératoire
+T31	PROC 1179 1204	extraction médicamenteuse
+T32	DISO 1253 1297	contage hépatovaginale cytomégalo-globulaire

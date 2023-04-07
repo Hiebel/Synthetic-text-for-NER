@@ -1,0 +1,14 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 17 22	7 ans
+T3	DISO 89 109	sexe féminin stérile
+T4	Hospital 146 178	urgences néonatales pédiatriques
+T5	DISO 198 241	naissance gémellaire anamnestique purulente
+T6	TEMP 251 268	depuis 2 semaines
+T7	DISO 285 314	crise convulsive paroxystique
+T8	PROC 334 356	consultation prénatale
+T9	PROC 369 397	prise en charge diagnostique
+T10	PROC 403 420	enquête familiale
+T11	LIVB 446 456	frère aîné
+T12	LIVB 478 484	épouse
+T13	TEMP 493 499	18 ans
+T14	TEMP 581 587	27 ans

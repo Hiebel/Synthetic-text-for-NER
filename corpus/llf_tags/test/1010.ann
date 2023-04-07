@@ -1,0 +1,93 @@
+T1	LIVB 16 28	petite fille
+T2	TEMP 32 37	7 ans
+T3	Concept_Idea 44 55	antécédents
+T4	MEAS 56 68	particuliers
+T5	PROC 79 85	admise
+T6	DISO 95 114	douleurs pelviennes
+T7	ANAT 104 114	pelviennes
+T8	DISO 131 169	hypertrophie du membre supérieur droit
+T9	ANAT 147 169	membre supérieur droit
+T10	Localization 164 169	droit
+T11	Concept_Idea 214 226	état général
+T12	PROC 230 245	examen clinique
+T13	LIVB 257 265	patiente
+T14	MEAS 269 276	mauvais
+T15	Concept_Idea 277 289	état général
+T16	Concept_Idea 307 325	plan hémodynamique
+T17	PHEN 330 345	fonction rénale
+T18	ANAT 339 345	rénale
+T19	MEAS 350 357	normale
+T20	DISO 375 396	distension pulmonaire
+T21	ANAT 386 396	pulmonaire
+T22	DISO 403 431	trouble hydro-éléctrolytique
+T23	DISO 442 470	symptômes ostéo-articulaires
+T24	PROC 491 524	bivagtomédiastinomie exploratrice
+T25	PROC 530 541	hémodialyse
+T26	PROC 562 577	anticoagulation
+T27	Concept_Idea 594 614	chiffres tensionnels
+T28	MEAS 621 632	0,5 mEq/m 2
+T29	MEAS 670 677	simples
+T30	PROC 682 701	suivi préopératoire
+T31	TEMP 713 719	3 mois
+T32	PROC 761 773	soins locaux
+T33	CHEM 785 797	antibiotique
+T34	CHEM 800 810	céfotaxime
+T35	CHEM 813 825	amitruciline
+T36	CHEM 828 841	métronidazole
+T37	CHEM 844 856	pyrazinamide
+T38	CHEM 859 869	aminosides
+T39	CHEM 872 888	acide valproique
+T40	CHEM 891 902	rifampicine
+T41	CHEM 905 919	gentaméthasone
+T42	CHEM 922 931	colistine
+T43	CHEM 934 954	palmitate de méthyle
+T44	CHEM 957 976	phénylpropanolamine
+T45	CHEM 979 991	oxaliplatine
+T46	CHEM 994 1011	glucantimegestrel
+T47	CHEM 1014 1038	dihydroxychloramphénicol
+T48	CHEM 1041 1051	furosémide
+T49	CHEM 1054 1064	ethambutol
+T50	CHEM 1067 1077	antalgique
+T51	CHEM 1080 1088	aspirine
+T52	CHEM 1091 1101	isoniazide
+T53	CHEM 1104 1120	cyclophosphamide
+T54	CHEM 1123 1134	paracétamol
+T55	CHEM 1137 1147	metformine
+T56	CHEM 1150 1161	halopéridol
+T57	CHEM 1164 1176	méthotrexate
+T58	CHEM 1179 1192	fluorouracile
+T59	CHEM 1195 1213	ciprofloxacrylique
+T60	CHEM 1216 1230	hydrocortisone
+T61	CHEM 1233 1243	œstrogènes
+T62	CHEM 1246 1255	étoposide
+T63	CHEM 1258 1286	carbonate de soude caustique
+T64	CHEM 1289 1306	organométalliques
+T65	CHEM 1309 1323	neuroleptiques
+T66	CHEM 1326 1339	estrogéniques
+T67	CHEM 1342 1355	ciclosporines
+T68	CHEM 1358 1367	imipenème
+T69	CHEM 1370 1390	immunohistochimiques
+T70	CHEM 1393 1410	anticonvulsivants
+T71	CHEM 1413 1426	acides aminés
+T72	CHEM 1429 1447	hormones adrénales
+T73	CHEM 1450 1463	noradrénaline
+T74	CHEM 1466 1478	progestérone
+T75	CHEM 1481 1492	nicardipine
+T76	CHEM 1495 1507	analgésiques
+T77	CHEM 1510 1518	insuline
+T78	CHEM 1521 1531	carbamates
+T79	CHEM 1534 1543	hépatites
+T80	CHEM 1546 1559	potassignoles
+T81	CHEM 1562 1580	arcoxyprogestérone
+T82	CHEM 1583 1594	rituximides
+T83	CHEM 1597 1606	cortisols
+T84	CHEM 1609 1632	catécholactone acétique
+T85	CHEM 1635 1648	cotrimoxazole
+T86	CHEM 1651 1665	thiocarbamates
+T87	CHEM 1668 1679	néostigmine
+T88	CHEM 1682 1695	tartreptazine
+T89	PROC 2125 2135	traitement
+T90	Concept_Idea 2178 2208	résultats anatomopathologiques
+T91	DISO 2242 2272	syndrome myélodysplasmocytaire
+T92	LIVB 2299 2307	patiente
+T93	TEMP 2351 2356	3 ans

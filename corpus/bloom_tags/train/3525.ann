@@ -1,0 +1,38 @@
+T1	LIVB 28 35	patient
+T2	DISO 55 80	antécédents pathologiques
+T3	MEAS 81 93	particuliers
+T4	DISO 112 151	syndrome d'épanchement intra péritonéal
+T5	ANAT 135 151	intra péritonéal
+T6	ANAT 173 181	pancréas
+T7	PROC 185 200	examen clinique
+T9	ANAT 226 238	épigastrique
+T10	DISO 248 261	inflammatoire
+T11	TEMP 271 284	depuis 8 mois
+T12	DISO 309 315	fièvre
+T13	MEAS 327 332	39°8C
+T14	DISO 334 346	polypnéiques
+T15	MEAS 349 362	19 cycles/min
+T16	PROC 368 389	traitement antalgique
+T17	CHEM 379 389	antalgique
+T18	CHEM 395 408	sulfasalazine
+T19	CHEM 414 448	anti-inflammatoires non-stéroïdien
+T20	PHEN 453 460	tolérés
+T21	MODE 474 479	bolus
+T22	DOSE 483 489	500 mg
+T23	CHEM 493 511	méthylprednisolone
+T24	CHEM 582 593	tuberculine
+T25	DISO 647 668	détresse respiratoire
+T26	PHEN 656 668	respiratoire
+T27	MEAS 677 702	spontanément insoutenante
+T28	DISO 779 809	pathophysiologie inflammatoire
+T29	DISO 820 839	diabète métabolique
+T30	DISO 850 869	organomégalopathies
+T31	LIVB 890 898	patients
+T32	MEAS 924 936	négligeables
+T33	DISO 985 1008	métaméthasone adjuvante
+T34	PROC 1046 1068	biopsies pancréatiques
+T35	PROC 1085 1108	recherche histochimique
+T36	DEVI 1138 1169	matériel d'immuno-histochimique
+T37	PROC 1222 1252	technique microdissectionnelle
+T38	MEAS 1267 1276	difficile
+T39	Hospital 1318 1352	chirurgien-réanimateur hospitalier

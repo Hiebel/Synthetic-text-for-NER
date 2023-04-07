@@ -1,0 +1,18 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 77	particuliers
+T4	DISO 100 133	masse tumorale du plexus brachial
+T5	ANAT 118 133	plexus brachial
+T6	TEMP 143 159	depuis deux mois
+T7	PROC 164 171	biopsie
+T8	DISO 194 220	métanéphrine-surrénalienne
+T9	DISO 235 258	épithélium hypertrophié
+T10	PROC 264 288	chimiothérapie adjuvante
+T11	MODE 293 303	voie orale
+T12	DOSE 305 312	3 mg/kg
+T13	TEMP 312 317	/jour
+T14	CHEM 319 332	dexaméthasone
+T15	CHEM 334 345	doxycycline
+T16	CHEM 347 361	hydrocortisone
+T17	CHEM 363 376	bêtaméthasone
+T18	PROC 390 422	radiothérapie externe palliative

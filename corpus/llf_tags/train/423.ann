@@ -1,0 +1,28 @@
+T1	LIVB 15 22	patient
+T2	DISO 65 88	hypertension artérielle
+T3	ANAT 78 88	artérielle
+T4	DISO 95 132	traumatisme du membre supérieur droit
+T5	ANAT 110 132	membre supérieur droit
+T6	Localization 127 132	droit
+T7	PROC 137 156	bilan préopératoire
+T8	PROC 180 199	examens biologiques
+T9	MEAS 220 227	normaux
+T10	PROC 232 245	examen direct
+T11	DISO 277 293	hyperleucocytose
+T12	MEAS 296 313	1600 éléments/mm3
+T13	Concept_Idea 315 321	valeur
+T14	MEAS 322 343	entre 30 et 100 UI/mL
+T15	PROC 349 363	sérologie VIH1
+T16	MEAS 370 378	positive
+T17	MEAS 381 399	15000 éléments/mm3
+T18	MEAS 424 442	10100 éléments/mm3
+T19	PROC 474 504	marqueurs myélofibrinogéniques
+T20	MEAS 513 521	négatifs
+T21	MEAS 524 541	1250 éléments/mm3
+T22	LIVB 563 570	malades
+T23	MEAS 579 595	960 éléments/mm3
+T24	PROC 621 649	chimiothérapie néo adjuvante
+T25	CHEM 655 665	corticoïde
+T26	PROC 746 780	radio antibiothérapie concomitante
+T27	TEMP 820 831	24 semaines
+T28	TEMP 849 856	25 mois

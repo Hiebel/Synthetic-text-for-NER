@@ -1,0 +1,17 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 63	notables
+T4	PROC 65 70	admis
+T5	Hospital 75 83	urgences
+T6	DISO 93 128	douleurs abdomino-pelviennes aiguës
+T7	ANAT 102 121	abdomino-pelviennes
+T8	DISO 145 164	vomissement bilieux
+T9	TEMP 174 191	depuis deux jours
+T10	PROC 195 210	examen clinique
+T11	LIVB 227 234	patient
+T12	MEAS 238 241	bon
+T13	Concept_Idea 242 254	état général
+T14	DISO 264 289	atteinte cutanéo-muqueuse
+T15	ANAT 273 289	cutanéo-muqueuse
+T16	PROC 293 311	examen obstétrical
+T17	PHEN 334 343	grossesse

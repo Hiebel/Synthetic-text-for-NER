@@ -1,0 +1,28 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 41 47	pesant
+T3	MEAS 48 53	75 kg
+T4	DISO 77 100	hématurie malabsortrice
+T5	PROC 120 146	scanner abdomino-pelvienne
+T6	ANAT 128 146	abdomino-pelvienne
+T7	PROC 154 178	étude histo pathologique
+T8	LIVB 221 229	patients
+T9	DISO 234 273	paragangliome hypogastrique lithiasique
+T10	ANAT 290 317	grosses-vésicules biliaires
+T11	MEAS 327 331	46mm
+T12	Concept_Idea 335 344	grand axe
+T13	MEAS 349 353	24mm
+T14	Concept_Idea 357 366	petit axe
+T15	TEMP 455 471	plusieurs années
+T16	PROC 491 513	admission chirurgicale
+T17	Hospital 525 532	service
+T18	DISO 574 602	nodules gynocarcinomatesques
+T19	ANAT 633 652	vésicules biliaires
+T20	ANAT 684 718	voie biliaire mésentérique interne
+T21	MEAS 727 733	T4N0M0
+T22	ANAT 760 774	parties molles
+T23	DISO 810 860	secondary kystofibrillar nodule angiographischgêné
+T24	PROC 1033 1066	imagerie par résonance magnétique
+T25	PROC 1068 1071	IRM
+T26	ANAT 1073 1086	hypogastrique
+T27	MEAS 1190 1195	12 cm
+T28	MEAS 1198 1202	10cm

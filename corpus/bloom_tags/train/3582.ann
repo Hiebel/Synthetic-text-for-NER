@@ -1,0 +1,29 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 109 115	fièvre
+T4	DISO 117 131	ictère fébrile
+T5	TEMP 141 158	depuis 4 semaines
+T6	PROC 164 173	admission
+T7	Hospital 177 207	service d'accueil des urgences
+T8	Hospital 212 237	urgences ophtalmologiques
+T9	DISO 257 284	détresse respiratoire aiguë
+T10	PHEN 266 284	respiratoire aiguë
+T11	DEVI 302 329	cathéter cardio-vasculaires
+T12	ANAT 311 329	cardio-vasculaires
+T13	DISO 384 422	syndrome d'épanchement intrapéritonéal
+T14	ANAT 407 422	intrapéritonéal
+T15	MEAS 438 453	progressivement
+T16	Concept_Idea 457 463	volume
+T17	DISO 484 513	douleurs abdomino- pelviennes
+T18	ANAT 493 513	abdomino- pelviennes
+T19	MEAS 537 552	progressivement
+T20	Concept_Idea 556 572	force musculaire
+T21	ANAT 593 599	pelvis
+T22	DISO 704 738	complication thrombo-inflammatoire
+T23	PROC 828 867	diagnostic préopératoire angiographique
+T24	LIVB 891 899	patiente
+T25	DISO 1031 1070	anévrysme thrombolithiasique congénital
+T26	DISO 1102 1119	œdème hypoglycére
+T27	DISO 1129 1142	symptomatique
+T28	DISO 1157 1179	masse tumorale maligne
+T29	MEAS 1318 1323	10 cm

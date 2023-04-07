@@ -1,0 +1,82 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 45 56	antécédents
+T3	MEAS 57 69	particuliers
+T4	PROC 71 79	adressée
+T5	Hospital 84 92	urgences
+T6	DISO 102 128	tuméfaction du flanc droit
+T7	ANAT 117 128	flanc droit
+T8	Localization 123 128	droit
+T9	DISO 136 161	vomissements alimentaires
+T10	PROC 165 180	examen clinique
+T11	PROC 185 194	admission
+T12	LIVB 212 220	patiente
+T13	MEAS 224 227	bon
+T14	Concept_Idea 228 240	état général
+T15	DISO 263 285	épanchement péritonéal
+T16	ANAT 275 285	péritonéal
+T17	LIVB 287 291	Elle
+T18	CHEM 308 318	furosémide
+T19	DOSE 320 327	2 mg/kg
+T20	TEMP 327 329	/j
+T21	CHEM 332 345	dexaméthasone
+T22	DOSE 347 354	20mg/kg
+T23	TEMP 354 356	/j
+T24	CHEM 359 372	bêtaméthasone
+T25	DOSE 374 381	5 mg/kg
+T26	TEMP 381 383	/j
+T27	CHEM 386 400	hydrocortisone
+T28	DOSE 402 408	1mg/kg
+T29	TEMP 408 410	/j
+T30	CHEM 413 432	ethinylprédnisolone
+T31	DOSE 434 442	50 µg/kg
+T32	TEMP 442 444	/j
+T33	CHEM 447 460	noradrénaline
+T34	DOSE 462 470	10 µg/kg
+T35	TEMP 470 472	/j
+T36	CHEM 475 486	nicardipine
+T37	DOSE 488 499	0,05µmol/kg
+T38	TEMP 499 501	/j
+T39	CHEM 504 518	ciprofloxacine
+T40	DOSE 520 528	3grammes
+T41	TEMP 528 530	/j
+T42	CHEM 533 543	sufentanil
+T43	DOSE 545 551	4ug/kg
+T44	TEMP 551 553	/j
+T45	CHEM 556 564	propofol
+T46	DOSE 566 575	100 μg/kg
+T47	TEMP 575 577	/j
+T48	CHEM 580 589	lidocaine
+T49	DOSE 591 599	15 ng/kg
+T50	TEMP 599 601	/j
+T51	CHEM 604 614	isoflurane
+T52	DOSE 616 618	2%
+T53	DEVI 641 647	masque
+T54	PROC 651 682	échographie abdomino- pelvienne
+T55	ANAT 663 682	abdomino- pelvienne
+T56	DISO 699 715	tumeur hypodense
+T57	ANAT 732 752	fosse iliaque droite
+T58	Localization 746 752	droite
+T59	MEAS 762 767	46 mm
+T60	Concept_Idea 771 780	grand axe
+T61	ANAT 797 839	réflexes péristaltiques intestinaux grêles
+T62	DISO 861 880	endométrial nécrose
+T63	DISO 886 916	atypie cytonucléaire ovarienne
+T64	ANAT 893 916	cytonucléaire ovarienne
+T65	PROC 922 958	tomodensitométrie abdomino-pelvienne
+T66	ANAT 940 958	abdomino-pelvienne
+T67	DISO 972 1034	hypertrophie hépato-surrénalienne lithiasique hypo métabolique
+T69	DISO 1048 1112	thrombose interstissulaire infarcto-ligéro-necromateuse kystisée
+T71	ANAT 1131 1151	fosse iliaque droite
+T72	Localization 1145 1151	droite
+T73	PHEN 1191 1200	injection
+T74	CHEM 1204 1224	produit de contraste
+T75	DISO 1243 1264	pathologies tumorales
+T76	ANAT 1290 1300	péritonéal
+T77	LIVB 1320 1328	patiente
+T78	DISO 1367 1380	symptomatique
+T79	DISO 1415 1427	hyperthermie
+T80	MEAS 1439 1444	36°8C
+T81	DISO 1485 1497	hypoglycémie
+T82	DISO 1670 1691	détresse respiratoire
+T83	PHEN 1679 1691	respiratoire
+T84	MEAS 1811 1830	de façonprogressive

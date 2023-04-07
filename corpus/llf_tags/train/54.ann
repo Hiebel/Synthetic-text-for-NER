@@ -1,0 +1,104 @@
+T1	PROC 4 21	tomodensitométrie
+T3	ANAT 31 53	membre inférieur droit
+T4	Localization 48 53	droit
+T5	DISO 69 101	processus tissulaire de l’épaule
+T6	ANAT 95 101	épaule
+T7	Concept_Idea 104 110	allure
+T8	DISO 111 124	inflammatoire
+T9	PROC 128 138	hémogramme
+T10	PROC 143 170	numération formule sanguine
+T11	PROC 177 195	bilan paraclinique
+T12	DISO 209 218	anomalies
+T13	LIVB 223 231	patiente
+T14	CHEM 248 258	glucantime
+T15	DOSE 271 277	2mg/kg
+T16	TEMP 277 282	/jour
+T17	MODE 286 301	intramusculaire
+T18	MEAS 311 316	bonne
+T19	PHEN 317 330	cicatrisation
+T20	DISO 335 364	symptômes neuropsychiatriques
+T21	PROC 377 401	traitement médicamenteux
+T22	TEMP 422 432	5 semaines
+T23	PROC 437 463	scanner cervico-thoracique
+T24	ANAT 445 463	cervico-thoracique
+T25	PROC 513 532	examens spécialisés
+T26	MEAS 561 567	normal
+T27	LIVB 579 587	patiente
+T28	PROC 591 612	étude bactériologique
+T29	Hospital 626 647	urgences pédiatriques
+T30	DISO 666 686	germe multiloculaire
+T31	DISO 690 702	sarcomatoide
+T32	DISO 712 738	pneumococcus granulomateux
+T33	PROC 765 774	admission
+T34	LIVB 780 785	notre
+T35	Hospital 786 793	service
+T36	PROC 799 828	prise en charge thérapeutique
+T37	MEAS 865 872	simples
+T38	PROC 922 950	chimiothérapie néo adjuvante
+T39	PROC 964 992	néphrectomie totale invasive
+T40	DEVI 1014 1041	annexes cutanées cervicales
+T41	DISO 1068 1085	récidive tumorale
+T42	PROC 1112 1140	investigations diagnostiques
+T43	LIVB 1158 1169	jeune fille
+T44	TEMP 1173 1179	11 ans
+T45	PROC 1277 1284	traitée
+T46	PROC 1296 1308	consultation
+T47	DISO 1323 1360	accident vasculaire crânio-céphalique
+T48	ANAT 1343 1360	crânio-céphalique
+T49	LIVB 1378 1381	son
+T50	LIVB 1382 1393	frère cadet
+T51	TEMP 1401 1406	9 ans
+T52	LIVB 1454 1456	sa
+T53	LIVB 1457 1461	sœur
+T54	DISO 1472 1493	perte de connaissance
+T55	PROC 1507 1538	transfusion anesthésie générale
+T56	DISO 1591 1626	contage tuberculeux méningopharyngé
+T57	TEMP 1650 1656	6 mois
+T58	DISO 1690 1731	dysplasie érythémato-mandibulaire lobulée
+T59	DISO 1748 1772	amaigrissement chronique
+T60	MEAS 1783 1788	12 kg
+T61	LIVB 1803 1809	Mlle H
+T62	PROC 1833 1875	résection transoesophagienne scanno-guidée
+T63	PROC 1890 1937	intubation mécanique endotrachéale exploratrice
+T64	Concept_Idea 1978 2006	tableau clinico-radiologique
+T65	DISO 2024 2043	syndrome infectieux
+T66	DISO 2128 2166	maladie démyélonéphrotique congénitale
+T67	TEMP 2185 2188	J15
+T68	TEMP 2192 2197	17h30
+T69	TEMP 2234 2243	18 heures
+T70	DISO 2362 2395	trouble hydro électrolytique aigu
+T71	DISO 2404 2438	sensations délirantes psychotiques
+T72	PHEN 2791 2803	accouchement
+T73	ANAT 2841 2851	nourrisson
+T74	LIVB 2913 2918	Mme H
+T75	DEVI 2983 2999	sac gestationnel
+T76	MEAS 3032 3039	simples
+T77	PROC 3045 3078	corticothérapie substitutionnelle
+T78	CHEM 3080 3095	céphalosporines
+T79	CHEM 3098 3128	pénicilline acide clavulanique
+T80	CHEM 3131 3151	sulfate de magnésium
+T81	PROC 3166 3190	réanimation chirurgicale
+T82	PROC 3230 3252	laparotomie percutanée
+T83	PROC 3258 3283	prise en charge adjuvante
+T84	DISO 3309 3330	maladies auto-immunes
+T85	DISO 3373 3402	symptômes neuropsychiatriques
+T86	DISO 3425 3446	phénomènes dépressifs
+T87	DISO 3466 3489	dépressions polymorphes
+T88	PROC 3540 3557	geste chirurgical
+T89	PROC 3572 3604	mise en condition postopératoire
+T90	DISO 3626 3646	traumatisme corporel
+T91	DISO 3656 3680	déficit sensitivo-moteur
+T92	DISO 3691 3712	anomalies vasculaires
+T93	DISO 3737 3753	crise convulsive
+T94	TEMP 3767 3788	il y a trois semaines
+T95	PROC 3801 3821	consultation externe
+T96	DISO 3850 3873	neuroleplégie spastique
+T97	TEMP 4007 4013	21 ans
+T98	LIVB 4020 4023	son
+T99	LIVB 4024 4042	grand frère jumeau
+T100	Hospital 4071 4093	séances extrascolaires
+T101	LIVB 4116 4119	ils
+T102	Concept_Idea 4214 4238	particularités cliniques
+T103	LIVB 4278 4289	parturiente
+T104	LIVB 4297 4302	leurs
+T105	PROC 4489 4522	anesthésie locorégionale élective

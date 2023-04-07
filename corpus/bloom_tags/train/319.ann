@@ -1,0 +1,41 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 43	hospitalisée
+T3	Hospital 47 65	service d'urologie
+T4	DISO 75 87	métrorragies
+T5	DISO 111 127	signes cliniques
+T6	PROC 142 157	examen clinique
+T7	LIVB 159 163	elle
+T8	DISO 182 234	syndrome d'épanchement péritonéal liquidien purulent
+T9	TEMP 244 260	depuis deux mois
+T11	ANAT 297 310	hypogastrique
+T12	PROC 315 331	bilan biologique
+T13	PROC 333 356	numération plaquettaire
+T14	PROC 358 361	CRP
+T15	PROC 363 383	taux de prothrombine
+T16	PROC 385 396	fibrinogène
+T17	PROC 398 410	troponine Ic
+T18	PROC 412 430	protéine C activée
+T19	PROC 432 450	protéine S activée
+T20	PROC 453 475	enzymes muscles lisses
+T22	PROC 488 506	ionogramme sanguin
+T23	ANAT 499 506	sanguin
+T24	MEAS 515 522	normaux
+T25	PROC 527 540	sérologie VIH
+T26	MEAS 555 563	négative
+T27	PROC 577 595	traitement curatif
+T28	CHEM 600 623	corticothérapie inhalée
+T29	DOSE 629 636	1 mg/kg
+T30	TEMP 636 641	/jour
+T31	CHEM 644 675	amoxicilline-acide clavulanique
+T32	LIVB 705 713	patiente
+T33	PHEN 761 770	grossesse
+T34	PROC 775 788	contracuculée
+T35	DISO 809 829	prise médicamenteuse
+T36	CHEM 843 861	stéroestrogoniques
+T37	DISO 943 952	symptômes
+T38	ANAT 1009 1018	hépatique
+T39	MEAS 1030 1045	progressivement
+T40	Concept_Idea 1049 1055	volume
+T41	PROC 1083 1100	geste chirurgical
+T42	PROC 1106 1130	anesthésie locorégionale
+T43	ANAT 1149 1172	greffon cervico-vaginal

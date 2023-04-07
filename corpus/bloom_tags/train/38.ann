@@ -1,0 +1,23 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	DISO 104 112	diplopie
+T5	TEMP 122 134	depuis un an
+T6	DISO 152 186	tuberculose des membres inférieurs
+T7	ANAT 168 186	membres inférieurs
+T8	PROC 190 196	examen
+T9	PROC 201 210	admission
+T10	PHEN 228 243	acuité visuelle
+T11	CHEM 261 272	corticoïdes
+T12	DOSE 274 280	1mg/kg
+T13	TEMP 280 285	/jour
+T14	MODE 300 310	voie orale
+T15	CHEM 314 330	sulfaméthoxazole
+T16	DOSE 344 347	2 g
+T17	TEMP 347 349	/j
+T18	PROC 364 383	bilan immunologique
+T19	PROC 388 409	recherche étiologique
+T20	MEAS 416 424	négative
+T21	DISO 442 462	prise médicamenteuse
+T22	DISO 468 492	hyperthyroïdie nodulaire
+T23	DISO 505 527	anomalies métaboliques

@@ -1,0 +1,43 @@
+T1	LIVB 3 14	jeune homme
+T2	PROC 33 44	hospitalisé
+T3	PROC 51 61	consultait
+T4	Concept_Idea 83 95	état général
+T5	TEMP 105 122	depuis deux jours
+T6	LIVB 194 204	nouveau-né
+T7	DISO 215 244	symptômes neuropsychiatriques
+T8	DISO 262 295	troubles obsessionnels compulsifs
+T9	PROC 301 316	examen physique
+T10	DISO 347 378	désorientation temporo-spaciale
+T11	DISO 546 573	psychose maniaco-dépressive
+T12	LIVB 599 605	garçon
+T13	TEMP 609 616	18 mois
+T14	PROC 700 709	incarcéré
+T15	PROC 724 744	contrôle ambulatoire
+T16	DISO 769 794	hallucinations délirantes
+T17	LIVB 858 865	dernier
+T18	PROC 876 904	pris en charge psychiatrique
+T19	PROC 948 966	séjour hospitalier
+T20	DISO 998 1020	tentatives délicieuses
+T21	LIVB 1749 1756	patient
+T22	PROC 1795 1814	traitement adjuvant
+T23	DISO 1826 1836	saignement
+T24	DISO 1840 1847	dyspnée
+T25	PHEN 1878 1889	convulsions
+T26	Concept_Idea 1930 1953	état neuropsychiatrique
+T27	TEMP 1978 1985	5 jours
+T28	ANAT 1990 2014	muqueuse gastroduodénale
+T29	MEAS 2031 2038	normale
+T30	DISO 2055 2083	retentissement psychomotrice
+T31	DISO 2101 2132	désorientation temporo-spaciale
+T32	DISO 2142 2169	symptôme obsessif compulsif
+T33	PROC 2206 2259	consultations pluridisciplinaires multidisciplinaires
+T34	PROC 2284 2313	prise en charge thérapeutique
+T35	PROC 2319 2338	enquête étiologique
+T36	LIVB 2359 2366	malades
+T37	LIVB 2380 2386	enfant
+T38	TEMP 2394 2399	7 ans
+T39	Hospital 2556 2563	service
+T40	DEVI 2570 2593	matériels d'obstétrique
+T41	LIVB 2621 2631	nouveau-né
+T42	PROC 2655 2668	vie familiale
+T43	TEMP 2677 2683	6 mois

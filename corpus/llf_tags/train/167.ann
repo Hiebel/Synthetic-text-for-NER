@@ -1,0 +1,67 @@
+T1	LIVB 15 22	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 90 101	hospitalisé
+T5	Hospital 105 116	psychiatrie
+T6	DISO 125 153	syndrome délirant polymorphe
+T7	Concept_Idea 179 191	état général
+T8	DISO 199 223	troubles du comportement
+T9	PROC 227 242	examen clinique
+T10	PROC 247 256	admission
+T11	LIVB 269 276	patient
+T12	ANAT 307 323	fente palpébrale
+T13	MEAS 330 336	souple
+T14	ANAT 358 372	zones charnues
+T15	MEAS 381 407	macroscopiquement normales
+T16	PROC 423 439	examen somatique
+T17	DISO 451 464	particularité
+T18	PROC 469 486	tomodensitométrie
+T19	PROC 488 502	TDM) cérébrale
+T20	ANAT 493 502	cérébrale
+T21	DISO 527 544	lésion tissulaire
+T22	DISO 548 573	du membre inférieur droit
+T23	ANAT 551 573	membre inférieur droit
+T24	Localization 568 573	droit
+T25	DISO 596 602	tumeur
+T26	PROC 607 623	bilan biologique
+T27	DISO 666 696	anémie hypochrome microcytaire
+T28	MEAS 712 720	8,9 g/dL
+T29	DISO 736 748	hypokaliémie
+T30	MEAS 751 758	1,5g/dL
+T31	PROC 772 808	protéine C réactive protein standard
+T32	PROC 810 813	CRP
+T33	DOSE 832 838	225 mg
+T34	TEMP 838 840	/j
+T35	PROC 847 875	anticorps anti mitochondries
+T36	MEAS 884 892	positifs
+T37	PROC 896 910	test salivaire
+T38	PROC 917 934	immunohistochimie
+T39	CHEM 949 981	anti anticorps monoclonaux IgG ®
+T40	MEAS 2580 2603	1,5 à 5 fois la normale
+T41	Concept_Idea 2627 2645	taux d'hémoglobine
+T42	PROC 2647 2649	Hb
+T43	MEAS 2651 2670	12 gramme par litre
+T44	DISO 2719 2747	perturbations hémodynamiques
+T45	ANAT 2791 2808	cloisons coliques
+T46	LIVB 2829 2846	Scarpa laricifera
+T47	DISO 2877 2893	hyperglycorachie
+T48	DISO 2990 3023	cytoplasme érythémateux disséminé
+T49	ANAT 3037 3053	muqueuse buccale
+T50	ANAT 3099 3115	orifices buccaux
+T51	LIVB 3455 3509	collemboles pulmonaires angiomateuses sylvigesterelles
+T52	PHEN 3514 3523	grossesse
+T53	TEMP 3538 3543	3 ans
+T54	MEAS 3551 3563	1900 grammes
+T55	LIVB 3610 3635	prélèvements pédiatriques
+T56	CHEM 3752 3783	amoxicilline acide clavulanique
+T57	Concept_Idea 3826 3846	antécédents médicaux
+T58	MEAS 3883 3893	favorables
+T59	MEAS 3934 3946	1670 grammes
+T60	DOSE 3959 3970	deux prises
+T61	TEMP 3971 3994	toutes les trois heures
+T62	Concept_Idea 4006 4014	quantité
+T63	MEAS 4025 4046	225 000 éléments/mm 3
+T64	MEAS 4075 4135	environ 4 litres /kg Giga masse corporel moyennement minorée
+T65	MEAS 4146 4161	100 millilitres
+T66	MEAS 4172 4185	9 centimètres
+T67	MEAS 4188 4206	15 centimètre cube

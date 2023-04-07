@@ -1,0 +1,163 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	Concept_Idea 42 67	antécédents pathologiques
+T4	MEAS 68 80	particuliers
+T5	PROC 82 87	admis
+T6	Hospital 92 100	urgences
+T7	DISO 113 134	détresse respiratoire
+T8	MEAS 149 155	rapide
+T9	PROC 159 174	examen clinique
+T10	LIVB 187 194	patient
+T11	Concept_Idea 219 237	plan hémodynamique
+T12	PHEN 241 253	respiratoire
+T13	ANAT 255 257	Sa
+T14	CHEM 258 269	tuberculine
+T15	MEAS 288 296	1 mg/mm3
+T16	ANAT 310 325	liquide pleural
+T17	PROC 329 359	échographie abdomino-pelvienne
+T18	ANAT 341 359	abdomino-pelvienne
+T19	MEAS 435 440	18 cm
+T20	Concept_Idea 444 453	grand axe
+T21	ANAT 468 500	épanchement pleuraux péritonéale
+T22	ANAT 480 488	pleuraux
+T23	ANAT 522 552	orifices herniaires abdominaux
+T24	MEAS 561 567	libres
+T25	DISO 589 627	syndrome d'épanchement intrapéritonéal
+T26	ANAT 612 627	intrapéritonéal
+T27	DISO 633 670	envahissement parenchymateux biliaire
+T28	ANAT 647 670	parenchymateux biliaire
+T29	DISO 680 716	atteinte hépato-vasculo-circulatrice
+T30	ANAT 689 716	hépato-vasculo-circulatrice
+T31	DISO 733 750	carcinose maligne
+T32	PROC 768 791	radiographie des thorax
+T33	ANAT 785 791	thorax
+T34	DISO 812 841	opacité basithoracique droite
+T35	ANAT 820 841	basithoracique droite
+T36	Localization 835 841	droite
+T37	MEAS 879 882	2cm
+T38	Concept_Idea 886 895	grand axe
+T39	ANAT 913 937	sinus médiastinal gauche
+T40	Localization 931 937	gauche
+T41	DISO 953 1008	hypotension surrénalienne laryngopharyngée paroxystante
+T43	LIVB 1036 1042	enfant
+T44	DISO 1078 1093	symptomatologie
+T45	PROC 1099 1124	traitement antibacillaire
+T46	CHEM 1135 1149	Ciprofloxacine
+T47	DOSE 1161 1166	100mg
+T48	TEMP 1166 1168	/j
+T49	MODE 1201 1226	voie intra veineuse lente
+T50	CHEM 1251 1263	prednisolone
+T51	CHEM 1266 1278	bêaméthasone
+T52	DISO 1307 1321	masse tumorale
+T53	MEAS 1357 1361	10kg
+T54	MEAS 1365 1370	15 kg
+T55	Concept_Idea 1420 1432	état général
+T56	DISO 1463 1470	dyspnée
+T57	MEAS 1485 1492	brutale
+T58	DISO 1545 1564	traumatisme crânien
+T59	DISO 1641 1660	maladie auto-immune
+T60	DISO 1665 1687	myocardopathie dilatée
+T61	DISO 1693 1730	hypochondre hypovolémie hypertrophiée
+T62	DISO 1743 1773	diabète néphrotique diabétique
+T63	DISO 1789 1890	œdème jugulo-carotidien inféro-sigmoïdal palméo-mandibulaire cervico-dorsiflexionnaire hypo-intenseur
+T65	MEAS 1902 1917	progressivement
+T66	Concept_Idea 1921 1927	taille
+T67	MEAS 1939 1945	0,5 mm
+T68	MEAS 1948 1951	5cm
+T69	MEAS 1980 1996	très vascularisé
+T70	ANAT 2020 2054	aires ganglionnaires mésentériques
+T71	ANAT 2073 2090	cavité ombilicale
+T72	ANAT 2111 2131	fosse iliaque droite
+T73	Localization 2125 2131	droite
+T74	ANAT 2157 2176	annexes intestinaux
+T75	PROC 2328 2352	résection transduodénale
+T76	DISO 2446 2465	tabagisme tabagique
+T77	MEAS 2475 2492	40 paquets années
+T78	PROC 2526 2548	consultation prénatale
+T79	DEVI 2785 2806	sonnette d'avortement
+T80	PROC 2845 2874	échographie abdominopelvienne
+T81	ANAT 2857 2874	abdominopelvienne
+T82	PHEN 2891 2911	grossesse gémellaire
+T83	ANAT 2936 2949	paroi utérine
+T84	MEAS 2959 2964	20 cm
+T85	MEAS 2969 2974	12 cm
+T86	ANAT 2990 2996	pelvis
+T87	DISO 3002 3024	épanchement péritonéal
+T88	ANAT 3014 3024	péritonéal
+T89	LIVB 3029 3039	nouveau-né
+T90	PROC 3055 3073	traitement curatif
+T91	CHEM 3086 3098	amoxicilline
+T92	DOSE 3100 3102	1g
+T93	TEMP 3102 3104	/j
+T94	CHEM 3107 3125	acide clavulanique
+T95	DOSE 3127 3133	200 mg
+T96	TEMP 3133 3135	/j
+T97	CHEM 3138 3152	ciprofloxacine
+T98	DOSE 3154 3160	500 mg
+T99	TEMP 3160 3162	/j
+T100	CHEM 3165 3178	métronidazole
+T101	DOSE 3180 3186	400 mg
+T102	TEMP 3186 3188	/j
+T103	CHEM 3191 3204	noradrénaline
+T104	DOSE 3206 3213	2 µg/kg
+T105	TEMP 3213 3215	/j
+T106	CHEM 3218 3229	nicardipine
+T107	DOSE 3231 3240	10µmol/kg
+T108	TEMP 3240 3242	/j
+T109	CHEM 3245 3256	propranolol
+T110	DOSE 3258 3265	4 mg/kg
+T111	TEMP 3265 3267	/j
+T112	CHEM 3270 3280	furosémide
+T113	DOSE 3282 3289	1000 mg
+T114	TEMP 3289 3291	/j
+T115	CHEM 3294 3313	éthylhydrocortisone
+T116	DOSE 3315 3321	3mg/m²
+T117	TEMP 3321 3323	/j
+T118	CHEM 3326 3339	dexaméthasone
+T119	DOSE 3341 3347	160 mg
+T120	TEMP 3347 3349	/j
+T121	CHEM 3352 3371	hydroxy-chloroquine
+T122	DOSE 3373 3379	800 mg
+T123	TEMP 3379 3381	/j
+T124	CHEM 3384 3395	rifampicine
+T125	DOSE 3397 3403	250 mg
+T126	TEMP 3403 3405	/j
+T127	CHEM 3408 3420	pyrazinamide
+T128	DOSE 3422 3428	600 mg
+T129	TEMP 3428 3430	/j
+T130	CHEM 3433 3447	ethythronamide
+T131	DOSE 3449 3455	300 mg
+T132	TEMP 3455 3457	/j
+T133	CHEM 3460 3473	triméthoprime
+T134	DOSE 3475 3480	75 mg
+T135	TEMP 3480 3482	/j
+T136	CHEM 3485 3501	sulfaméthoxazole
+T137	DOSE 3503 3509	750 mg
+T138	TEMP 3509 3511	/j
+T139	CHEM 3514 3524	isoniazide
+T140	DOSE 3526 3532	120 mg
+T141	TEMP 3532 3534	/j
+T142	CHEM 3537 3550	chlorhexidine
+T143	DOSE 3552 3558	100 mg
+T144	TEMP 3558 3560	/j
+T145	CHEM 3563 3574	Cyclosérine
+T146	DOSE 3576 3581	50 mg
+T147	TEMP 3581 3583	/j
+T148	CHEM 3586 3597	Ceftriaxone
+T149	DOSE 3599 3604	30 mg
+T150	TEMP 3604 3606	/j
+T151	CHEM 3609 3622	Triméthoprime
+T152	DOSE 3624 3629	45 mg
+T153	TEMP 3629 3631	/j
+T154	CHEM 3634 3650	Sulfamethoxazole
+T155	DOSE 3652 3659	1500 mg
+T156	TEMP 3659 3661	/j
+T157	CHEM 3664 3676	Pyrazinamide
+T158	DOSE 3678 3684	450 mg
+T159	TEMP 3684 3686	/j
+T160	CHEM 3689 3700	Vincrédione
+T161	DOSE 3702 3708	150 mg
+T162	TEMP 3708 3710	/j
+T163	CHEM 3713 3726	Ethrylmetrine
+T164	DOSE 3728 3733	80 mg
+T165	TEMP 3733 3735	/j

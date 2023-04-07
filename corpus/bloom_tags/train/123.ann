@@ -1,0 +1,72 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 69	admise
+T3	Hospital 74 82	urgences
+T4	DISO 114 166	syndrome d’épanchement liquidien infarcté péritonéal
+T5	ANAT 137 166	liquidien infarcté péritonéal
+T6	TEMP 176 192	depuis 72 heures
+T7	DISO 208 214	fièvre
+T8	MEAS 226 230	40°C
+T9	DISO 232 288	douleurs pelviennes aiguës latéro-utérines hypoéchogènes
+T11	MEAS 298 303	12 cm
+T12	Concept_Idea 307 316	grand axe
+T13	DISO 343 370	polynucléaires éosinophiles
+T14	ANAT 380 396	méso-vésiculaire
+T15	DISO 409 440	ictère prurigineux hémorragique
+T16	PROC 459 495	tomodensitométrie abdomino-pelvienne
+T17	ANAT 477 495	abdomino-pelvienne
+T18	DISO 518 533	symptomatologie
+T19	DISO 552 579	épanchement intrapéritonéal
+T20	ANAT 564 579	intrapéritonéal
+T21	DISO 592 619	localisations métastatiques
+T22	DISO 634 656	carcinose endovaginale
+T23	ANAT 644 656	endovaginale
+T24	DISO 666 688	anomalie pathologiques
+T25	PROC 701 725	exploration chirurgicale
+T26	DISO 742 781	adénopathie axillaire supérieure droite
+T27	ANAT 754 781	axillaire supérieure droite
+T28	Localization 775 781	droite
+T29	MEAS 810 814	2 cm
+T30	Concept_Idea 818 827	grand axe
+T31	MEAS 832 836	1 cm
+T32	Concept_Idea 840 849	petit axe
+T33	PROC 879 888	injection
+T34	CHEM 892 912	produit de contraste
+T35	DISO 935 956	myxomateuse nodulaire
+T36	DISO 973 1009	processus tumoral kystique hypodense
+T37	ANAT 1035 1052	sphincter urétral
+T38	LIVB 1152 1158	enfant
+T39	PROC 1181 1200	chirurgie adjuvante
+T40	DEVI 1206 1225	masse transfixiante
+T41	PROC 1238 1262	scanner abdomino pelvien
+T42	ANAT 1246 1262	abdomino pelvien
+T43	PROC 1283 1308	étude anatomopathologique
+T44	DISO 1337 1368	kystiose myxomateuse purpurique
+T45	ANAT 1401 1419	organes abdominaux
+T46	ANAT 1445 1458	pancréatiques
+T47	DISO 1479 1496	lésions nécrosées
+T48	DISO 1658 1699	vascularisation thromboembolique tumorale
+T49	DISO 1723 1755	hyperplasie ostéolytique maligne
+T50	DISO 1947 1986	tuméfaction angulo-céphalo-mandibulaire
+T51	MEAS 1998 2013	progressivement
+T52	Concept_Idea 2017 2023	volume
+T53	DISO 2028 2039	douloureuse
+T54	TEMP 2048 2063	le premier jour
+T55	Concept_Idea 2085 2095	caractères
+T56	MEAS 2101 2113	bien définis
+T57	DISO 2222 2254	nodules gélatineux hypertrophiés
+T58	ANAT 2289 2327	muqueuse intestinale grêlique jéjunale
+T59	PROC 2343 2359	examen somatique
+T60	DISO 2371 2384	particularité
+T61	PROC 2390 2418	investigations radiologiques
+T62	DISO 2431 2473	épanchement intrapéritonéal du méso-radial
+T65	PROC 2490 2499	injection
+T66	CHEM 2503 2523	produit de contraste
+T67	PHEN 2533 2551	densité tissulaire
+T68	MEAS 2552 2559	modérée
+T69	ANAT 2564 2594	parties molles latéro-utérines
+T70	MEAS 2604 2608	3 cm
+T71	MEAS 2613 2617	2 cm
+T72	Concept_Idea 2620 2626	aspect
+T73	MEAS 2627 2634	boudiné
+T74	Localization 2636 2645	en dedans
+T75	ANAT 2661 2683	muscles psoas vaginaux

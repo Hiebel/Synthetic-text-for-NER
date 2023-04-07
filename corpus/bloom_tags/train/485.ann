@@ -1,0 +1,32 @@
+T1	LIVB 4 15	jeune femme
+T2	TEMP 24 30	24 ans
+T3	PROC 37 43	admise
+T4	Hospital 48 56	urgences
+T6	ANAT 88 94	rénale
+T7	TEMP 104 120	depuis 48 heures
+T8	MEAS 138 149	progressive
+T9	DISO 181 187	fièvre
+T10	MEAS 199 203	38°c
+T11	DISO 205 259	douleur abdomino- pelvienne érythémateuse prurigineuse
+T13	MEAS 275 290	progressivement
+T14	Concept_Idea 294 300	volume
+T15	MEAS 305 314	20 litres
+T16	MEAS 317 326	80 litres
+T17	DISO 329 350	sensibilité pelvienne
+T18	ANAT 341 350	pelvienne
+T19	DISO 364 389	impotence motrice globale
+T20	DISO 416 426	hydrorrhée
+T21	CHEM 449 485	amoxicilline-acide acétylsalicylique
+T22	LIVB 505 510	femme
+T23	CHEM 542 555	bêtaméthasone
+T24	PROC 559 579	examen gynécologique
+T25	PHEN 596 615	contraction utérine
+T26	ANAT 608 615	utérine
+T27	MEAS 616 630	plus accentuée
+T29	MEAS 668 678	bradycarde
+T30	PROC 694 709	toucher vaginal
+T31	ANAT 702 709	vaginal
+T32	MEAS 719 728	difficile
+T33	DEVI 822 833	sac vaginal
+T34	ANAT 893 901	utérines
+T35	TEMP 1168 1174	15 ans

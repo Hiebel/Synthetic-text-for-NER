@@ -1,0 +1,31 @@
+T1	LIVB 4 7	A.N
+T2	PHEN 24 33	grossesse
+T3	PROC 38 44	suivie
+T4	DISO 60 67	diabète
+T5	DISO 73 87	hyperthyroïdie
+T6	DISO 97 121	pathologie pathologiques
+T7	DISO 201 224	syndrome hypoglycémique
+T8	MEAS 239 250	progressive
+T9	TEMP 260 273	depuis 5 mois
+T10	DISO 290 307	céphalées fébrile
+T11	Concept_Idea 354 366	état général
+T12	MEAS 377 385	7/10cm 2
+T13	DISO 443 468	hypoglycémie hémorragique
+T14	DISO 488 503	symptomatologie
+T15	PROC 535 569	examens complémentaires somatiques
+T16	PROC 573 600	numération formule sanguine
+T17	MEAS 659 666	normaux
+T18	PROC 669 686	natrémie corrigée
+T19	MEAS 689 699	125 meq/m²
+T20	PROC 701 709	kaliémie
+T21	MEAS 712 722	135 meq/m²
+T22	PROC 725 737	hyponatrémie
+T23	MEAS 740 750	133 meq/m²
+T24	PROC 753 764	leucocytose
+T25	MEAS 767 777	16000/mm 3
+T26	PROC 812 826	protéinorachie
+T27	MEAS 852 858	96 g/l
+T28	PROC 873 895	sulfate déshydrogénase
+T29	PROC 917 920	LDH
+T30	MEAS 923 934	1480 UI /ml
+T31	PROC 938 970	recherche d'immuno-histochimique

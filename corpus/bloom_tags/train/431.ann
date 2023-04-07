@@ -1,0 +1,25 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 69	antécédent pathologique
+T3	MEAS 70 77	notable
+T4	PROC 79 89	consultait
+T5	Hospital 94 102	urgences
+T6	DISO 112 154	douleurs épigastriques aiguës généralisées
+T7	ANAT 121 134	épigastriques
+T8	TEMP 164 177	depuis 3 mois
+T9	PROC 181 196	examen clinique
+T10	PROC 201 210	admission
+T11	LIVB 222 230	patiente
+T12	MEAS 234 237	bon
+T13	Concept_Idea 238 250	état général
+T14	PHEN 259 264	pouls
+T15	ANAT 278 287	péritoine
+T16	DISO 308 346	syndrome d'épanchement intrapéritonéal
+T17	ANAT 331 346	intrapéritonéal
+T18	CHEM 354 367	hémoperitoine
+T19	PROC 371 402	échographie abdomino- pelvienne
+T20	ANAT 383 402	abdomino- pelvienne
+T21	DISO 416 477	masse tissulaire hypo échogéophagienne latéro-sternale droite
+T22	Localization 471 477	droite
+T23	ANAT 493 529	parenchyme hépato-gastro-intestinale
+T24	MEAS 539 543	6 cm
+T25	Concept_Idea 547 561	grand diamètre

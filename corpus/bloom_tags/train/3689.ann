@@ -1,0 +1,22 @@
+T1	LIVB 35 43	patiente
+T2	TEMP 52 58	24 ans
+T3	TEMP 129 142	depuis 1 mois
+T4	DISO 158 179	détresse respiratoire
+T5	PHEN 167 179	respiratoire
+T6	MEAS 194 205	progressive
+T7	DISO 215 246	symptômes d'épisodes infectieux
+T9	PROC 293 316	radiothérapie adjuvante
+T10	MODE 340 350	médiations
+T11	Concept_Idea 397 409	état général
+T12	PROC 423 445	examens gynécologiques
+T13	PROC 459 503	tomodensitométrie thoraco-abdomino-pelvienne
+T14	ANAT 477 503	thoraco-abdomino-pelvienne
+T15	DISO 541 602	masse pariétale supra médiastinellaire basithoracique altérée
+T17	MEAS 612 616	13mm
+T18	Concept_Idea 620 629	grand axe
+T19	ANAT 653 675	muscle psoas splénique
+T20	Concept_Idea 722 728	taille
+T21	MEAS 739 743	1 cm
+T22	MEAS 746 749	2cm
+T23	PROC 754 781	ponction liquide ombilicale
+T24	ANAT 763 781	liquide ombilicale

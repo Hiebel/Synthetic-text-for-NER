@@ -1,0 +1,52 @@
+T1	LIVB 4 9	femme
+T2	MEAS 57 69	particuliers
+T3	PROC 76 88	hospitalisée
+T4	Hospital 92 101	chirurgie
+T5	DISO 111 132	tumeur du sein gauche
+T6	ANAT 121 132	sein gauche
+T7	Localization 126 132	gauche
+T8	PROC 136 151	examen clinique
+T9	DISO 186 195	dysphonie
+T10	Concept_Idea 204 216	état général
+T11	MEAS 217 223	altéré
+T12	DISO 231 251	symptômes infectieux
+T13	DISO 262 268	fièvre
+T14	TEMP 278 296	depuis trois jours
+T15	PROC 305 314	admission
+T16	Hospital 323 342	service psychiatrie
+T17	PROC 348 362	interrogatoire
+T18	LIVB 383 390	patient
+T19	DISO 424 446	constipation chronique
+T20	PHEN 451 461	cicatrisée
+T21	PROC 467 489	traitement substitutif
+T22	CHEM 498 508	corticoïde
+T23	LIVB 558 565	médecin
+T24	PROC 684 718	transfusion sanguine intraveineuse
+T25	DISO 1055 1065	saignement
+T27	PROC 1126 1166	bilan étiologique pré-opératoire complet
+T28	DISO 1254 1275	pancréatite stade EMD
+T29	DISO 1303 1334	neurobrucellose actinomycosique
+T30	DISO 1350 1378	maladie cœliaque auto-immune
+T31	PROC 1478 1504	étude immuno-histochimique
+T32	PROC 1553 1583	immunofibroscopie diagnostique
+T33	PROC 1597 1643	imagerie par résonance magnétique scannoguidée
+T34	PROC 1653 1676	classification ECB/CQDM
+T35	PROC 1695 1749	myéloperoxydase recombinante transmembraneuse IgG test
+T36	MEAS 1773 1781	60x40 mm
+T38	LIVB 2678 2689	jeune fille
+T39	LIVB 2954 2967	belle-famille
+T40	DEVI 3014 3044	ustensiles ménagers personnels
+T41	LIVB 3075 3095	confrères du village
+T42	LIVB 3355 3359	elle
+T43	LIVB 3378 3381	son
+T44	TEMP 3449 3464	depuis cinq ans
+T45	LIVB 3684 3691	garçons
+T46	LIVB 3856 3870	meilleure amie
+T47	LIVB 3950 3953	ses
+T48	TEMP 4284 4295	trois jours
+T49	LIVB 5072 5080	patiente
+T50	TEMP 5122 5141	cinq ans auparavant
+T51	MEAS 5151 5155	deux
+T52	LIVB 5156 5163	enfants
+T53	Concept_Idea 5219 5252	mariage consanguin monogammagique
+T54	MEAS 5262 5281	2+3=700 000 dollars

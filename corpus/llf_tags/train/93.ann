@@ -1,0 +1,15 @@
+T1	LIVB 3 10	patient
+T2	PROC 29 40	hospitalisé
+T3	TEMP 48 62	septembre 2012
+T4	Concept_Idea 84 96	état général
+T5	DISO 108 138	dyspnée sifflante paroxystique
+T6	TEMP 148 165	depuis 3 semaines
+T7	DISO 182 213	crise convulsive tonicocclusive
+T8	LIVB 237 244	malades
+T9	DISO 270 298	symptômes psychotiques aigus
+T10	PROC 314 335	ventilation mécanique
+T11	PROC 370 395	hypotension orthostatique
+T12	MEAS 407 417	modérément
+T13	MEAS 440 458	110/60 millimètres
+T14	DISO 474 523	sensation de froid gastroduodénale hypokalièmique
+T15	PROC 563 601	transfusion intrakinétique parentérale

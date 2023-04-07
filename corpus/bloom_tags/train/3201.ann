@@ -1,0 +1,25 @@
+T1	LIVB 20 28	patiente
+T2	PROC 40 46	suivie
+T3	DISO 56 92	tuberculose du parenchyme pulmonaire
+T4	ANAT 71 92	parenchyme pulmonaire
+T5	PROC 100 108	adressée
+T6	Hospital 113 120	hôpital
+T7	DISO 139 153	amaigrissement
+T8	PHEN 175 190	acuité visuelle
+T9	PROC 194 204	examen ORL
+T10	DISO 216 229	particularité
+T11	PROC 254 270	examen somatique
+T12	MEAS 281 290	difficile
+T13	PROC 294 345	examen des aires ganglionnaires cervico-thoraciques
+T14	ANAT 305 345	aires ganglionnaires cervico-thoraciques
+T15	DISO 379 403	pneumopéritoine purulant
+T16	ANAT 420 455	cavité péripleurale latérale droite
+T17	Localization 449 455	droite
+T18	MEAS 465 468	2cm
+T19	Concept_Idea 472 481	grand axe
+T20	DISO 495 504	anomalies
+T21	PROC 519 554	scanner cervico-thoracique infarcté
+T22	ANAT 527 554	cervico-thoracique infarcté
+T23	PROC 568 598	échographie abdomino-pelvienne
+T24	ANAT 580 598	abdomino-pelvienne
+T25	DEVI 658 664	casque

@@ -1,0 +1,90 @@
+T1	LIVB 2 8	malade
+T2	PROC 15 20	opéré
+T3	Localization 43 49	droite
+T4	PROC 53 78	étude anatomopathologique
+T5	DISO 101 118	maladie de kaposi
+T6	LIVB 127 133	enfant
+T7	TEMP 141 147	10 ans
+T8	DISO 164 183	contage tuberculeux
+T9	LIVB 192 199	famille
+T10	DISO 218 256	troubles du développement psychomoteur
+T11	DISO 272 297	hypertension cérébelleuse
+T12	ANAT 285 297	cérébelleuse
+T13	Concept_Idea 299 301	VN
+T14	MEAS 303 310	90 mmHg
+T15	PROC 316 332	bilan biologique
+T16	DISO 361 377	hyperleucocytose
+T17	MEAS 380 391	1200 GB/mm³
+T18	CHEM 404 435	amoxicilline acide clavulanique
+T19	DOSE 436 441	25 mg
+T20	TEMP 441 446	/24 h
+T21	CHEM 454 475	triméthoprimifentanil
+T22	DOSE 477 483	1mg/kg
+T23	TEMP 483 487	/24h
+T24	PHEN 494 514	récepteurs hormonaux
+T25	MEAS 523 541	fortement diminués
+T26	CHEM 573 593	immunoglobulines IgG
+T27	CHEM 606 621	myélopéroxydase
+T28	MEAS 637 644	négatif
+T29	PROC 650 675	chimiothérapie palliative
+T30	PROC 681 698	antibiothérapique
+T31	PROC 792 805	radiothérapie
+T32	PROC 884 914	complément immunohistochimique
+T33	PROC 1026 1051	prise en charge adjuvante
+T34	MEAS 1095 1105	favorables
+T35	PROC 1121 1141	consultation externe
+T36	LIVB 1205 1212	patient
+T37	DISO 1276 1296	douleurs abdominales
+T38	ANAT 1285 1296	abdominales
+T39	TEMP 1306 1319	depuis 6 mois
+T40	PROC 1329 1354	consultation chirurgicale
+T41	DISO 1371 1410	insuffisance rénale chronique terminale
+T42	ANAT 1384 1390	rénale
+T43	DISO 1426 1458	diarrhée glaireuse hypocalorique
+T44	PROC 1481 1503	remplissage vasculaire
+T45	ANAT 1493 1503	vasculaire
+T46	PROC 1528 1560	néphrectomie totale exploratrice
+T47	ANAT 1582 1616	rectorragies pariéto-oesophagienne
+T48	PROC 1681 1718	perfusion endotrachéale intraveineuse
+T49	ANAT 1737 1761	nappes phréno-pelviennes
+T50	ANAT 1796 1828	aires ganglionnaires thoraciques
+T51	MEAS 1849 1855	floues
+T52	PROC 1871 1888	geste chirurgical
+T53	Concept_Idea 1950 1962	état général
+T54	DISO 1977 1985	asthénie
+T55	PROC 2016 2031	examen clinique
+T56	DISO 2055 2061	fièvre
+T57	MEAS 2064 2069	38 °C
+T58	DISO 2090 2102	paresthésies
+T59	DISO 2125 2184	thyréopathie interstitielle lithiasique congénitale maligne
+T60	PROC 2190 2209	enquête étiologique
+T61	DISO 2233 2272	symptômes neuropsychiatriques néonatals
+T62	LIVB 2875 2881	enfant
+T63	TEMP 2889 2895	9 mois
+T64	MEAS 2928 2940	particuliers
+T65	PROC 2951 2956	admis
+T66	Hospital 2961 2982	urgences pédiatriques
+T67	Hospital 2986 3036	centre hospitalier universitaire Yalgado Ouédraogo
+T68	DISO 3046 3065	règles irrégulières
+T69	PHEN 3145 3160	acuité visuelle
+T70	LIVB 3214 3216	il
+T71	Concept_Idea 3231 3253	objectif thérapeutique
+T72	DISO 3328 3343	symptomatologie
+T73	PROC 3347 3362	examen clinique
+T74	DISO 3384 3416	syndrome oculomoteur psychotique
+T75	LIVB 3471 3478	malades
+T76	PROC 3490 3497	traités
+T77	CHEM 3503 3517	hypolipémiants
+T78	CHEM 3523 3534	corticoïde®
+T79	TEMP 3673 3675	/j
+T80	PROC 3693 3715	consultation prénatale
+T81	PROC 3796 3819	traitements postérieurs
+T82	PROC 3881 3894	accouchements
+T83	Concept_Idea 3941 3950	résultats
+T84	MEAS 3980 3997	peu satisfaisants
+T85	DISO 4067 4127	douleurs latéro-basithoracique maxillo-mandibulaire laryngée
+T86	ANAT 4076 4127	latéro-basithoracique maxillo-mandibulaire laryngée
+T87	Localization 4155 4169	partie moyenne
+T88	PROC 4185 4209	échographie obstétricale
+T89	DISO 4238 4317	métastase œso-gastroduodénale hypochondrocytaire hétérotopique hyperplasmodique
+T90	PROC 4338 4357	hémodialyse urgente

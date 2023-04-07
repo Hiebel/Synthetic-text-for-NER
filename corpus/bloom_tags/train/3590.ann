@@ -1,0 +1,29 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	13 ans
+T3	DISO 40 72	lésions érythémato prurigineuses
+T4	TEMP 82 95	depuis 3 mois
+T5	DISO 111 144	syndrome inflammatoire biologique
+T6	PHEN 146 168	réponse au Ceftriaxone
+T7	CHEM 157 168	Ceftriaxone
+T8	PROC 193 217	chimiothérapie adjuvante
+T9	DOSE 223 227	2RHZ
+T10	CHEM 241 253	carboplatine
+T11	CHEM 255 268	dexaméthasone
+T12	CHEM 270 280	cisplatine
+T13	CHEM 282 293	vincristine
+T14	CHEM 295 313	methylprednisolone
+T15	PROC 327 353	radiothérapie encéphalique
+T16	ANAT 366 371	corps
+T17	PROC 396 422	contraception progestative
+T18	MEAS 439 448	partielle
+T19	Hospital 478 486	urgences
+T20	DISO 500 524	brulures péribucculaires
+T21	TEMP 560 564	1 an
+T22	MEAS 592 599	modérée
+T23	LIVB 626 642	patients/enfants
+T24	Concept_Idea 735 750	profonde nature
+T25	DISO 841 848	maladie
+T26	LIVB 865 873	familles
+T27	DISO 1124 1150	hyperkératémie congénitale
+T28	MEAS 1349 1354	3500g
+T29	MEAS 1358 1363	3800g

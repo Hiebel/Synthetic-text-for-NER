@@ -1,0 +1,69 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 75	hospitalisée
+T3	DISO 96 177	douleurs thoraciques basithoraciques inféro-sténosantes du membre inférieur droit
+T5	ANAT 155 177	membre inférieur droit
+T6	Localization 172 177	droit
+T7	TEMP 187 203	depuis deux mois
+T8	PROC 208 227	bilan préopératoire
+T9	PROC 229 260	échographie abdomino- pelvienne
+T10	ANAT 241 260	abdomino- pelvienne
+T11	PROC 264 298	tomodensitométrie cervico-vésicale
+T12	ANAT 282 298	cervico-vésicale
+T13	PROC 313 352	réponction liquidienne intra-thoracique
+T14	ANAT 324 352	liquidienne intra-thoracique
+T15	DISO 379 406	épanchement intrapéritonéal
+T16	ANAT 391 406	intrapéritonéal
+T17	DISO 426 442	signes cliniques
+T18	DISO 469 475	fièvre
+T19	DISO 485 512	symptomatologie infectieuse
+T20	PROC 529 552	recherche radiologiques
+T21	MEAS 579 587	positifs
+T22	LIVB 599 607	patiente
+T23	LIVB 609 613	elle
+T24	CHEM 630 642	Amoxicilline
+T25	CHEM 645 659	Ciprofloxacine
+T26	CHEM 672 685	metaméthasone
+T27	DISO 734 747	inflammatoire
+T28	ANAT 769 786	pièces cardiaques
+T29	PROC 807 816	transfert
+T30	Hospital 821 829	urgences
+T31	DISO 849 870	détresse respiratoire
+T32	PHEN 858 870	respiratoire
+T33	DISO 981 1014	souffrance ventriculaire laryngée
+T34	ANAT 992 1014	ventriculaire laryngée
+T35	DISO 1109 1148	syndrome d’épanchement intra-péritonéal
+T36	ANAT 1132 1148	intra-péritonéal
+T37	DISO 1199 1231	kystoempyème épiploïque kystique
+T38	DISO 1264 1299	tumeur érythémateuse périthoracique
+T39	DISO 1337 1358	paragangliose maligne
+T40	DISO 1376 1396	diabète pancréatique
+T41	DEVI 1424 1456	attestations radio-radiologiques
+T42	PROC 1716 1738	chirurgie exploratrice
+T43	PROC 1833 1875	radiothérapie interne palliative adjuvante
+T44	PROC 1882 1923	anastomose iléo-tuberculoïdo-mésentérique
+T45	ANAT 1893 1923	iléo-tuberculoïdo-mésentérique
+T46	PROC 1959 2008	traitement médical antibacillaire antituberculeux
+T47	CHEM 2021 2032	Cyclosérine
+T48	DOSE 2034 2041	1 mg/kg
+T49	CHEM 2043 2054	Ethionamide
+T50	DOSE 2056 2062	400 mg
+T51	CHEM 2064 2075	Nicardipril
+T52	DOSE 2077 2084	20mg/kg
+T53	CHEM 2087 2095	Diazépam
+T54	DOSE 2097 2104	0,5g/kg
+T55	CHEM 2107 2116	Captopril
+T56	CHEM 2119 2130	Enoxaparine
+T57	PROC 2200 2233	radio-chimiothérapie concomitante
+T58	MEAS 2321 2328	brutale
+T59	ANAT 2442 2472	transthoracique angiographique
+T60	MEAS 2525 2543	très satisfaisante
+T61	MEAS 2577 2583	rapide
+T62	DISO 2590 2619	dyspnée stade III de Laughlin
+T63	MEAS 2643 2648	nulle
+T64	PHEN 2670 2683	récupérations
+T65	MEAS 2684 2692	modestes
+T66	PROC 2698 2707	admission
+T67	Hospital 2711 2739	service d'urétro-néphrologie
+T68	LIVB 2743 2750	patient
+T69	Concept_Idea 2775 2793	état hémodynamique
+T70	DISO 2806 2832	troubles sensitivomotrices

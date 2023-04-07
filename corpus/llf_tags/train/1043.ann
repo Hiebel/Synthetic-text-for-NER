@@ -1,0 +1,29 @@
+T1	PROC 3 20	bilan étiologique
+T2	PROC 42 84	radiographie de l'abdomen sans préparation
+T3	ANAT 60 67	abdomen
+T4	DISO 97 112	pneumopéritoine
+T5	Concept_Idea 115 121	aspect
+T6	MEAS 122 146	macroscopiquement normal
+T7	LIVB 151 159	patiente
+T8	CHEM 176 187	glucantime®
+T9	Concept_Idea 193 197	dose
+T10	DOSE 201 206	100mg
+T11	TEMP 206 208	/j
+T12	MODE 224 243	corticoïdes inhalés
+T13	CHEM 249 261	tamoxifenone
+T14	CHEM 263 274	vincristine
+T15	DEVI 288 309	solution anesthésique
+T16	PHEN 328 335	transit
+T17	Hospital 339 354	bloc opératoire
+T18	PROC 358 378	drainage chirurgical
+T19	MEAS 398 412	plus favorable
+T20	TEMP 419 425	5 mois
+T21	PROC 434 444	opératoire
+T22	MEAS 484 494	difficiles
+T23	DISO 511 536	récidive tumorale maligne
+T24	DISO 543 559	signe infectieux
+T25	DISO 594 604	métastases
+T26	PROC 610 648	chimiothérapie palliative non invasive
+T27	PROC 685 733	néphrectomie totale extemporanéoplastie monobloc
+T28	PROC 766 796	radio-chimiothérapie adjuvante
+T29	TEMP 814 821	18 mois

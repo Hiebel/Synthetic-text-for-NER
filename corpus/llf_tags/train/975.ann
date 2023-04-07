@@ -1,0 +1,16 @@
+T1	LIVB 9 15	H. J W
+T2	PROC 34 41	adressé
+T3	Hospital 46 84	chirurgiens anesthésistes pédiatriques
+T4	Hospital 86 148	Chirurgie Publique Hospitalier Universitaire Yalgado Ouédraogo
+T5	PROC 171 208	laparotomie exploratrice endoscopique
+T6	PROC 344 378	contrôle électroencéphalographique
+T7	LIVB 582 592	nouveau-né
+T8	PROC 597 602	suivi
+T10	TEMP 692 704	janvier 2009
+T11	PROC 710 738	résultat anatomopathologique
+T12	DISO 757 813	nodule tissulaire carcinomateux hypophysaire monocytaire
+T13	MEAS 822 830	2 mètres
+T14	MEAS 838 850	3000 grammes
+T15	MEAS 860 870	17×8×10 mm
+T16	MEAS 873 878	6×9mm
+T17	ANAT 898 945	muqueuse musculo-tendineuse fessière anténatale

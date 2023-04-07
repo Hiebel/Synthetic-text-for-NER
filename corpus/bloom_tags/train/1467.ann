@@ -1,0 +1,34 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 19 25	16 ans
+T3	DISO 31 57	antécédents gynécologiques
+T4	MEAS 58 70	particuliers
+T5	PROC 75 87	hospitalisée
+T6	Hospital 91 114	service de dermatologie
+T7	DISO 123 154	œdème maculopapuleux généralisé
+T8	ANAT 173 181	poignets
+T9	MEAS 200 210	rapidement
+T10	Concept_Idea 214 220	volume
+T11	MEAS 230 256	macroscopiquement sensible
+T12	DISO 314 335	détresse respiratoire
+T13	PHEN 323 335	respiratoire
+T14	DISO 367 373	fièvre
+T15	DISO 400 436	polyarthrite purulente inflammatoire
+T16	DISO 462 491	lésions papuleuses pigmentées
+T17	Localization 524 542	face dorsolatérale
+T18	DISO 551 566	symptomatologie
+T19	LIVB 592 598	enfant
+T20	Concept_Idea 615 619	âgée
+T21	DISO 633 663	syndrome d’épisodes infectieux
+T22	DISO 674 705	pathologies auto-inflammatoires
+T23	PROC 761 788	numération formule sanguine
+T24	MEAS 813 817	9,1%
+T25	PROC 819 834	globules blancs
+T26	MEAS 837 855	18000 éléments/mm³
+T27	PROC 860 881	échographie pelvienne
+T28	ANAT 872 881	pelvienne
+T29	DISO 904 934	troubles hydro-électrolytiques
+T30	DISO 944 953	anomalies
+T31	DISO 980 1016	thrombose veineuse varicaverneitaire
+T32	ANAT 990 1016	veineuse varicaverneitaire
+T33	PROC 1091 1118	traitement curatif adjuvant
+T34	DISO 1173 1198	localisations néoplasique

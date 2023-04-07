@@ -1,0 +1,67 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 86	consultation
+T3	Hospital 120 179	centre hospitalier universitaire Mohammed V Ibn Sina de Fès
+T4	CHEM 181 188	CHU-MVS
+T5	DISO 219 237	épistaxis purulent
+T6	PROC 241 271	auscultation pleuro-pulmonaire
+T7	ANAT 254 271	pleuro-pulmonaire
+T8	DISO 299 315	signes cliniques
+T9	PROC 329 339	examen ORL
+T10	MEAS 346 352	normal
+T11	PHEN 368 387	reflexes cardiaques
+T12	ANAT 377 387	cardiaques
+T13	MEAS 396 405	conservés
+T14	PROC 440 464	anesthésie locorégionale
+T15	ANAT 451 464	locorégionale
+T16	DEVI 469 509	cathéter artério-veineux intrarachidiien
+T17	ANAT 478 509	artério-veineux intrarachidiien
+T18	DISO 547 571	hyperpression pulmonaire
+T19	ANAT 561 571	pulmonaire
+T20	MEAS 586 592	rapide
+T21	DISO 651 686	syndrome d'épanchement péricardique
+T22	ANAT 674 686	péricardique
+T23	DISO 702 726	pathophysiologie maligne
+T24	DISO 744 770	métastose parathyroïdienne
+T25	ANAT 754 770	parathyroïdienne
+T26	Concept_Idea 828 840	état général
+T27	PROC 857 887	traitement curatif chirurgical
+T28	PROC 943 963	chirurgie palliative
+T29	LIVB 986 997	jeune femme
+T30	DISO 1127 1154	traumatisme cutanéo-muqueux
+T31	DISO 1186 1202	troubles visuels
+T32	DISO 1231 1255	détresse tonico-clinique
+T33	PHEN 1240 1255	tonico-clinique
+T34	DISO 1271 1277	fièvre
+T35	MEAS 1289 1295	39°4 C
+T36	Localization 1317 1333	au premier degré
+T37	DISO 1364 1377	psychiatriale
+T38	MEAS 1462 1469	brutale
+T39	CHEM 1513 1526	céphalosérine
+T40	MEAS 1537 1549	10 mg / cm 2
+T41	PROC 1556 1572	photocoagulation
+T42	MEAS 1753 1765	18 x 10x8 mm
+T43	ANAT 1873 1889	noyaux ovariiens
+T44	ANAT 1917 1936	vésiculesovariennes
+T46	PROC 2043 2074	tomodensitométrie préopératoire
+T47	DISO 2108 2140	localisation secondaire tumorale
+T48	PROC 2164 2185	mesures radiologiques
+T49	PROC 2199 2223	scanner abdomino-pélvien
+T50	ANAT 2207 2223	abdomino-pélvien
+T51	PROC 2246 2259	radiothérapie
+T54	MEAS 2529 2539	régulières
+T55	Concept_Idea 2562 2570	contours
+T56	Concept_Idea 2619 2625	taille
+T57	LIVB 2632 2640	patiente
+T58	PROC 2654 2669	bilan somatique
+T59	DISO 2681 2694	particularité
+T60	PROC 2698 2723	intervention chirurgicale
+T64	ANAT 2869 2901	grosses tubérosités intestinales
+T65	ANAT 2915 2931	colon transverse
+T66	ANAT 2947 2961	intestin grêle
+T67	PROC 2970 3027	curage ganglionnaire ganglionnaire para-rénal explorateur
+T68	ANAT 2977 3015	ganglionnaire ganglionnaire para-rénal
+T71	DISO 3103 3143	processus lésionnel tumoral bourgeonnant
+T72	MEAS 3152 3156	6 cm
+T73	Concept_Idea 3159 3170	allongement
+T74	ANAT 3195 3210	parois utérines
+T75	PHEN 3255 3270	acuité visuelle

@@ -1,0 +1,54 @@
+T1	LIVB 4 9	femme
+T2	PROC 29 34	reçue
+T3	Hospital 39 62	urgences psychiatriques
+T4	DISO 95 122	symptomatologie dépressante
+T5	DISO 154 182	méningoencephalée généralisé
+T6	MEAS 196 203	brutale
+T7	LIVB 231 239	patiente
+T8	CHEM 260 287	médicaments antipsychotique
+T9	PROC 300 330	traitement substitutif médical
+T10	CHEM 341 363	méthyl triaméthoxazole
+T11	DOSE 366 373	1 mg/kg
+T12	TEMP 373 375	/j
+T13	CHEM 378 387	clonidine
+T14	DOSE 389 397	0,5mg/kg
+T15	TEMP 397 402	/jour
+T16	PROC 719 759	scanner cervico-thoraco-abdomino pelvien
+T17	ANAT 727 759	cervico-thoraco-abdomino pelvien
+T18	DISO 776 922	lésion lithiasique hétérogène hypodense pariétale basithoracique médiastinale bilatéralehomolatérale infiltro-surrénalienne nodulaire hypoéchogène
+T20	MEAS 931 935	22mm
+T21	Concept_Idea 939 948	grand axe
+T22	ANAT 972 1000	muscle thyroïdien sus-rectal
+T23	Localization 990 993	sus
+T24	ANAT 1020 1056	parenchyme hyo-pyrso-laryngectatique
+T25	PROC 1086 1095	injection
+T26	CHEM 1099 1119	produit de contraste
+T27	DISO 1164 1174	tissulaire
+T28	DISO 1186 1194	calcique
+T29	DISO 1198 1215	gigantocellulaire
+T30	DISO 1273 1295	localisations malignes
+T31	Concept_Idea 1324 1334	caractères
+T32	DISO 1421 1434	consanguinité
+T33	DISO 1441 1460	maladie métabolique
+T34	DISO 1488 1532	myxome myxoide épididymo-fœtoprolactinophile
+T35	DISO 1538 1567	synovialosarcome pléomucineux
+T36	DISO 1599 1623	prise de médicamenteuses
+T37	DISO 1650 1671	souffrance fœtonnelle
+T38	DISO 1679 1710	réaction inflammatoire tumorale
+T39	DISO 1728 1747	thrombus nécrotique
+T40	DISO 1761 1787	surinfection surrénalienne
+T41	ANAT 1774 1787	surrénalienne
+T42	DISO 1800 1818	nodule vascularisé
+T43	DISO 1856 1877	lymphangiite kystique
+T44	DISO 1895 1918	épiderme dyskératosique
+T45	LIVB 1923 1931	patiente
+T46	PROC 1949 1971	traitement chirurgical
+T47	PROC 2003 2024	résection en monobloc
+T48	PROC 2031 2048	curage péritonéal
+T49	ANAT 2038 2048	péritonéal
+T50	PROC 2052 2078	examen anatomopathologique
+T51	Hospital 2085 2103	pièce d’opératoire
+T52	PROC 2093 2103	opératoire
+T53	LIVB 2122 2130	patiente
+T54	DISO 2135 2159	granulomes érythémateuse
+T55	DISO 2178 2194	nécrose caséeuse

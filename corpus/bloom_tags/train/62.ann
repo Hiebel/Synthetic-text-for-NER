@@ -1,0 +1,23 @@
+T1	LIVB 16 21	fille
+T2	TEMP 25 30	7 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 73 79	admise
+T6	Hospital 83 99	bloc chirurgical
+T7	DISO 108 146	syndrome d'épanchement péritonéal aigu
+T8	ANAT 131 141	péritonéal
+T9	TEMP 156 170	depuis 3 jours
+T10	PROC 174 189	examen clinique
+T11	PROC 194 203	admission
+T12	LIVB 215 223	patiente
+T13	MEAS 227 230	bon
+T14	Concept_Idea 231 243	état général
+T15	PHEN 253 263	mouvements
+T16	MEAS 264 273	abondants
+T17	ANAT 277 288	flanc droit
+T18	Localization 283 288	droit
+T19	DISO 302 322	hépato-splénomégalie
+T20	PROC 327 346	bilan préopératoire
+T21	PROC 376 407	scanner abdomino-cervico-utérin
+T22	ANAT 384 407	abdomino-cervico-utérin
+T23	LIVB 476 482	couple

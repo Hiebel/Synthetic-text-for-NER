@@ -1,0 +1,23 @@
+T1	LIVB 29 37	patiente
+T2	DISO 102 118	syndrome fébrile
+T3	TEMP 128 146	depuis trois jours
+T4	DISO 171 199	douleurs abdomino-pelviennes
+T5	ANAT 180 199	abdomino-pelviennes
+T6	DISO 227 239	métrorragies
+T7	DISO 250 270	symptômes infectieux
+T8	PROC 297 327	échographie abdomino-pelvienne
+T9	ANAT 309 327	abdomino-pelvienne
+T10	DISO 341 375	hypertrophie utérine hypertrophiée
+T11	ANAT 354 375	utérine hypertrophiée
+T12	MEAS 385 388	3cm
+T13	Concept_Idea 392 401	grand axe
+T14	ANAT 418 440	fosse ovarienne droite
+T15	Localization 434 440	droite
+T16	MEAS 452 467	progressivement
+T17	Concept_Idea 471 477	volume
+T18	TEMP 486 498	le jour même
+T19	MEAS 512 539	volontairement plus intense
+T21	DISO 682 715	myxome séreux endométrial kystien
+T22	DISO 820 840	infertilité primaire
+T23	DISO 856 886	contractions utérines utérines
+T24	ANAT 869 886	utérines utérines

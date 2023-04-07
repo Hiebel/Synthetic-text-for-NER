@@ -1,0 +1,63 @@
+T1	MEAS 0 8	négative
+T2	PROC 14 29	examen physique
+T3	LIVB 34 42	patiente
+T4	MEAS 52 55	bon
+T5	Concept_Idea 56 68	état général
+T6	DISO 78 89	tachycardie
+T7	MEAS 92 99	120 bpm
+T8	DISO 112 118	signes
+T9	DISO 145 166	syndrome hémorragique
+T10	DISO 172 195	épanchement sous cutané
+T11	Localization 184 188	sous
+T12	ANAT 184 195	sous cutané
+T13	PROC 200 222	radiographie du bassin
+T14	ANAT 216 222	bassin
+T15	DISO 239 270	niveaux hydroaériques calciques
+T16	ANAT 304 336	sinus longitudinal sus-hépatique
+T17	ANAT 350 379	parenchyme pulmonaire sténosé
+T18	PROC 396 431	fibroscopie thoraco-abdomino-rénale
+T19	ANAT 408 431	thoraco-abdomino-rénale
+T23	PROC 581 605	anastomose endotrachéale
+T24	DISO 649 746	carcinome urothelial kystique néoplasique malpighien myxoide infiltrant les troncs supra-aeriques
+T25	ANAT 725 746	troncs supra-aeriques
+T26	ANAT 775 817	ganglions mésentériques inférieurs gauches
+T27	Localization 810 817	gauches
+T28	PROC 822 840	scanner thoracique
+T29	ANAT 830 840	thoracique
+T30	Hospital 900 935	structures hospitalo-universitaires
+T31	PROC 964 970	mesure
+T32	PROC 974 999	étude anatomopathologique
+T37	PHEN 1627 1649	suites postopératoires
+T38	MEAS 1658 1665	simples
+T39	PROC 1671 1694	hémodialyse médicalisée
+T40	DISO 1712 1739	décompensation obstétricale
+T41	DISO 1755 1779	maladie thromboembolique
+T42	LIVB 1817 1822	femme
+T43	MEAS 1997 2001	deux
+T45	LIVB 2474 2485	jeune femme
+T46	PROC 2490 2496	suivie
+T47	LIVB 2506 2510	elle
+T48	DISO 2542 2564	consanguinité primaire
+T49	Concept_Idea 2572 2595	plan neuropsychiatrique
+T51	Concept_Idea 2608 2613	santé
+T52	LIVB 2688 2698	frère aîné
+T53	PROC 2763 2768	admis
+T54	Hospital 2772 2805	service des urgences pédiatriques
+T55	LIVB 2809 2812	ses
+T56	ANAT 2813 2822	confrères
+T57	LIVB 2852 2859	parents
+T58	PROC 2881 2896	hospitalisation
+T59	LIVB 2905 2915	nouveau-né
+T60	LIVB 3014 3017	son
+T61	TEMP 3043 3050	10 mois
+T62	MEAS 3437 3455	très satisfaisante
+T63	TEMP 3462 3465	24h
+T64	DISO 3477 3495	récidive somatique
+T65	DISO 3499 3521	atteinte hématologique
+T66	DISO 3547 3566	syndrome infectieux
+T67	PROC 3591 3631	fibroscopie digestive transoesophagienne
+T68	CHEM 3666 3684	bronchodilatateurs
+T69	PROC 3850 3867	biologie standard
+T70	MEAS 3891 3898	normale
+T71	Concept_Idea 3965 3986	qualité thérapeutique
+T72	DEVI 4007 4025	sang frais congelé

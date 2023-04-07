@@ -1,0 +1,25 @@
+T1	LIVB 15 20	homme
+T2	PROC 67 72	admis
+T3	Hospital 77 85	urgences
+T5	ANAT 116 126	artérielle
+T6	PROC 158 213	implantation d'une ventriculoplastie transoesophagienne
+T7	DEVI 177 213	ventriculoplastie transoesophagienne
+T9	ANAT 226 236	artérielle
+T10	MEAS 253 272	120/10 mmHg/70 cmHg
+T11	PHEN 288 309	dilatation tricuspide
+T12	ANAT 299 309	tricuspide
+T13	MEAS 327 347	100 millimètres cube
+T15	PROC 432 495	mise en place d'intradermorécepteurs nifédipine intrarachidiens
+T16	PROC 513 537	exploration chirurgicale
+T17	DISO 553 584	anévrysme aorto-auriculo-dilaté
+T18	ANAT 563 584	aorto-auriculo-dilaté
+T19	PROC 602 658	myomectomie transthoracique sus-thoracique périélectrale
+T20	ANAT 614 658	transthoracique sus-thoracique périélectrale
+T21	PROC 757 801	greffon ombilicale angioplastie endoscopique
+T22	PROC 824 841	bilan étiologique
+T23	MEAS 854 861	négatif
+T24	DISO 875 913	syndrome d'épanchement intrapéritonéal
+T25	ANAT 898 913	intrapéritonéal
+T26	DISO 920 957	déficit neurologique sensitivomotrice
+T27	DISO 973 989	prise médullaire
+T28	DISO 1002 1036	pathophysiologies ostéochondriales

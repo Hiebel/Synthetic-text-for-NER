@@ -1,0 +1,82 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	3 ans
+T3	Concept_Idea 37 48	antécédents
+T4	DISO 49 62	pathologiques
+T5	MEAS 63 75	particuliers
+T6	PROC 77 88	hospitalisé
+T7	Hospital 92 125	service des urgences pédiatriques
+T8	Hospital 129 149	CHU Hassan II de Fès
+T9	DISO 159 175	hyperhydratation
+T10	DISO 182 226	syndrome d'épanchement péricardique purulent
+T11	ANAT 205 217	péricardique
+T12	CHEM 236 246	Amiodarone
+T13	DISO 263 278	symptomatologie
+T14	TEMP 289 296	un mois
+T15	DISO 328 354	douleur abdomino-pelvienne
+T16	ANAT 336 354	abdomino-pelvienne
+T17	MEAS 369 376	modérée
+T19	LIVB 435 437	Il
+T20	PROC 444 449	admis
+T21	DISO 461 482	détresse respiratoire
+T22	PHEN 470 482	respiratoire
+T23	PROC 486 500	interrogatoire
+T24	LIVB 517 519	il
+T25	TEMP 533 544	trois jours
+T26	LIVB 551 554	son
+T27	PROC 555 564	admission
+T28	Hospital 569 590	urgences pédiatriques
+T29	PROC 726 754	prise en charge chirurgicale
+T30	PROC 760 785	corticothérapie adjuvante
+T31	DOSE 787 793	1mg/kg
+T32	TEMP 793 798	/jour
+T33	PROC 804 820	bilan biologique
+T34	DISO 837 853	hyperleucocytose
+T35	MEAS 856 870	20800 GB /mm 3
+T36	DISO 886 941	anémie microcytaire hypochrome normochrome normocytaire
+T37	MEAS 953 959	6 g/dl
+T38	PROC 966 986	transfusion sanguine
+T39	DISO 1000 1016	hypoglobulinémie
+T40	MEAS 1019 1024	7g/dl
+T41	CHEM 1105 1118	acénocoumarol
+T42	LIVB 1255 1265	nouveau-né
+T43	MEAS 1438 1449	10 000 UI/l
+T44	PROC 1454 1498	tomodensitométrie thoraco-abdomino-pelvienne
+T45	ANAT 1472 1498	thoraco-abdomino-pelvienne
+T46	DISO 1512 1617	masse hétérogène tissulaire centrale péritonéale basithoracique latérale bilatérale infiltra-métastasique
+T47	Localization 1540 1548	centrale
+T49	MEAS 1627 1632	23 cm
+T50	Concept_Idea 1636 1650	grand diamètre
+T51	ANAT 1679 1692	surrénalectum
+T52	DISO 1744 1773	lésions nodulaires hypodenses
+T53	DISO 1811 1853	localisation métastatique tumorale maligne
+T54	ANAT 1864 1879	parenchymateuse
+T55	ANAT 1913 1923	médullaire
+T56	DISO 1939 1963	métastisme carcinomateus
+T57	ANAT 1982 2006	épiploons susrénalectaux
+T58	ANAT 2034 2051	organes grêliques
+T59	ANAT 2082 2099	greffon splénique
+T60	ANAT 2109 2132	vaisseaux mésentériques
+T61	PROC 2138 2170	échographie pelvienne abdominale
+T62	ANAT 2150 2170	pelvienne abdominale
+T63	DISO 2192 2211	fistule intestinale
+T64	ANAT 2200 2211	intestinale
+T65	DISO 2243 2265	reflux intrapéritonéal
+T66	ANAT 2250 2265	intrapéritonéal
+T67	DISO 2294 2349	œdème sous-rénal pariétalo-sigmoïdien bilio-lithiasique
+T69	DISO 2426 2487	hypo-contractions musculaires psoas uterculo-diaphragmatiques
+T70	ANAT 2444 2487	musculaires psoas uterculo-diaphragmatiques
+T71	DISO 2497 2528	tumorale kystique hypertrophiée
+T72	MEAS 2540 2549	lentement
+T73	Concept_Idea 2553 2559	taille
+T74	MEAS 2569 2578	brillante
+T75	MEAS 2595 2607	plus gênante
+T76	DISO 2635 2666	impotence fonctionnelle motrice
+T77	PROC 2765 2784	bilan préopératoire
+T78	PROC 2788 2813	intervention chirurgicale
+T79	DEVI 2848 2865	cathéter artériel
+T80	ANAT 2857 2865	artériel
+T81	ANAT 2881 2938	artère fémoro-pariétale inféro-tendineuse du grand épaule
+T82	PROC 2974 3064	mise en place d'une plaque plâtrée prothésiste des artères fémoro-patellaires transfixiées
+T84	ANAT 3025 3051	artères fémoro-patellaires
+T85	CHEM 3066 3076	Furosémide
+T86	TEMP 3078 3095	pendant 72 heures

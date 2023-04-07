@@ -1,0 +1,32 @@
+T1	PROC 4 28	échographie obstétricale
+T2	DISO 60 89	dilatation de l'annexe droite
+T3	ANAT 76 89	annexe droite
+T4	Localization 83 89	droite
+T5	PROC 94 134	scanner cervico-thoraco-abdomino pelvien
+T6	ANAT 102 134	cervico-thoraco-abdomino pelvien
+T7	MEAS 162 172	importante
+T11	ANAT 246 262	sein homolatéral
+T12	Localization 251 262	homolatéral
+T13	ANAT 283 307	structures sous cutanées
+T14	Concept_Idea 316 325	caractère
+T15	MEAS 326 336	hétérogène
+T16	MEAS 347 360	environ 10 cm
+T17	Concept_Idea 364 373	grand axe
+T18	DISO 394 421	remaniements inflammatoires
+T19	DISO 432 449	réaction éruptive
+T20	DISO 455 483	troubles neuropsychiatriques
+T21	PROC 498 520	traitement chirurgical
+T22	PROC 544 572	chimiothérapie néo adjuvante
+T23	CHEM 579 589	céfotaxime
+T24	PROC 621 639	antibioprophylaxie
+T25	TEMP 643 666	12e jour postopératoire
+T26	PROC 680 704	radiothérapie palliative
+T27	LIVB 718 726	patiente
+T28	TEMP 736 759	14e jour postopératoire
+T29	PROC 774 837	mise en place d'un cathéter intraveineux périphérique aspiratif
+T30	DEVI 793 837	cathéter intraveineux périphérique aspiratif
+T31	PHEN 859 887	soins intensifs pédiatriques
+T32	MEAS 898 905	simples
+T33	MEAS 938 945	simples
+T34	PROC 975 995	transfusion sanguine
+T35	PROC 1002 1030	contrôle locorégional direct

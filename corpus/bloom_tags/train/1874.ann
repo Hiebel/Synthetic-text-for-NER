@@ -1,0 +1,32 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 70	traitée
+T3	CHEM 78 114	inhibiteur de l'enzyme de conversion
+T4	CHEM 116 119	IEC
+T5	DOSE 121 126	200mg
+T6	MODE 129 147	voie intraveineuse
+T7	CHEM 150 171	hydroxy-dexaméthasone
+T8	PROC 176 195	bilan préopératoire
+T9	PROC 213 230	natrémie initiale
+T10	MEAS 233 242	120 meq/l
+T11	PROC 250 258	kaliémie
+T12	MEAS 261 268	6 meq/l
+T13	PROC 273 310	scanner cervico-faciale scanno-guidée
+T14	ANAT 281 310	cervico-faciale scanno-guidée
+T15	DISO 327 355	pancréatite aigue ischémique
+T16	DISO 372 422	épanchement intraprenal latéro-dorso-latéral droit
+T17	ANAT 384 422	intraprenal latéro-dorso-latéral droit
+T18	Localization 417 422	droit
+T19	DISO 428 448	sténose pancréatique
+T20	DISO 459 478	lésions secondaires
+T21	DISO 506 533	nécrose résiduelle biliaire
+T22	DISO 543 563	localisation maligne
+T23	ANAT 575 591	paroi abdominale
+T24	PROC 622 648	mastectomie prophylactique
+T25	ANAT 676 714	liquidien cervico-abdomino-vésiculaire
+T26	DISO 731 747	lymphodysplasies
+T27	DEVI 829 848	sonde nasogastrique
+T29	CHEM 877 885	propofol
+T30	PROC 1058 1078	chirurgie palliative
+T31	MEAS 1149 1158	favorable
+T32	DISO 1231 1246	symptomatologie
+T33	MEAS 1322 1333	progressive

@@ -1,0 +1,31 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	7 ans
+T3	PHEN 65 86	grossesse monofoetale
+T4	PROC 99 105	suivie
+T5	CHEM 156 187	amoxicilline acide clavulanique
+T6	DOSE 189 195	4mg/kg
+T7	TEMP 195 197	/j
+T8	MEAS 224 233	favorable
+T9	Hospital 272 293	urgences pédiatriques
+T10	DISO 313 343	crise convulsive psychomotrice
+T11	Concept_Idea 365 378	état générale
+T12	DISO 391 417	signes neuropsychiatriques
+T13	DISO 442 456	trouble mental
+T14	PROC 468 488	examen psychiatrique
+T15	LIVB 516 528	petite fille
+T16	Concept_Idea 539 555	idées délirantes
+T17	LIVB 564 585	collègues plus jeunes
+T18	LIVB 733 735	sa
+T19	LIVB 736 749	belle-famille
+T20	PROC 1142 1169	bilan radiologique standard
+T21	MEAS 1189 1197	perturbé
+T22	DISO 1226 1260	tumeur polypoïde primitive maligne
+T23	ANAT 1309 1327	cavité péritonéale
+T24	MEAS 1337 1342	12 cm
+T25	Concept_Idea 1346 1354	diamètre
+T26	MEAS 1418 1431	environ 20 cm
+T27	Concept_Idea 1435 1455	diamètre transversal
+T28	Concept_Idea 1463 1487	plan anatomopathologique
+T29	DISO 1495 1528	prolifération tumorale secondaire
+T30	PROC 1625 1658	traitement palliatif conservateur
+T31	PROC 1725 1740	examen clinique

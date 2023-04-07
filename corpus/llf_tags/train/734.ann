@@ -1,0 +1,34 @@
+T1	LIVB 9 18	Mme I.R.M
+T2	MEAS 59 60	3
+T3	LIVB 61 68	garçons
+T4	PROC 73 78	reçus
+T5	PROC 104 127	transplantation in situ
+T6	PROC 141 160	greffe chirurgicale
+T7	LIVB 178 181	son
+T8	LIVB 182 194	petit garçon
+T9	TEMP 202 208	7 mois
+T10	PROC 213 227	pris en charge
+T11	LIVB 232 234	sa
+T12	LIVB 235 242	famille
+T13	DISO 263 283	grossesse gémellaire
+T14	LIVB 323 330	Mme R.N
+T15	MEAS 378 379	6
+T16	LIVB 380 387	enfants
+T17	ANAT 1283 1289	tissus
+T18	Hospital 1326 1348	urgences obstétricales
+T19	LIVB 1357 1365	patiente
+T20	PHEN 1386 1423	accouchement par voie basse digestive
+T21	DEVI 1432 1446	sac amniotique
+T22	CHEM 1461 1489	éléments nutritifs maternels
+T24	PROC 1557 1590	assistance médicale intraveineuse
+T25	PROC 1602 1633	bilan étiologique préopératoire
+T26	DISO 1658 1691	gynécomastie primaire congénitale
+T27	MEAS 1717 1735	très satisfaisante
+T28	Concept_Idea 1743 1771	résultat anatomopathologique
+T29	DISO 1809 1830	récidive métastatique
+T30	Localization 1850 1869	périmètre supérieur
+T31	DISO 1904 1933	fractures pariéto-occipitales
+T32	DISO 1965 1983	céphalées fébriles
+T33	DISO 1996 2022	signes neuropsychiatriques
+T34	DISO 2032 2053	anomalies biologiques
+T35	PROC 2068 2093	étude immunohistochimique

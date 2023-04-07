@@ -1,0 +1,12 @@
+T1	LIVB 19 26	patient
+T2	PROC 104 113	contrôlée
+T3	PROC 237 266	corticostéroïdes substitutifs
+T4	LIVB 461 467	malade
+T5	DISO 535 552	épisodes fébriles
+T6	Concept_Idea 658 664	usages
+T7	Concept_Idea 708 728	aspect morphologique
+T8	DISO 802 827	symptômes dermatologiques
+T9	DISO 870 898	pneumopéritoine hémorragique
+T10	DISO 915 951	déficit immunitaire auto-immunitaire
+T11	DISO 966 984	fièvre infectieuse
+T12	Concept_Idea 1018 1036	état hémodynamique

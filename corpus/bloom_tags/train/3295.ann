@@ -1,0 +1,38 @@
+T1	LIVB 4 12	patiente
+T2	Concept_Idea 34 45	antécédents
+T3	MEAS 46 58	particuliers
+T4	PROC 66 74	adressée
+T5	Hospital 78 85	urgence
+T6	DISO 94 123	traumatisme abdomino- pelvien
+T8	PROC 127 141	interrogatoire
+T11	TEMP 194 209	depuis six mois
+T12	DISO 234 251	céphalées fébrile
+T13	MEAS 266 272	rapide
+T14	MEAS 282 297	plus accentuées
+T15	Localization 302 317	au premier plan
+T16	DISO 343 364	dysménorrhée primaire
+T17	MEAS 379 390	progressive
+T18	DISO 410 424	amaigrissement
+T19	MEAS 435 440	15 kg
+T20	DISO 469 488	œdème hypogastrique
+T21	ANAT 475 488	hypogastrique
+T22	MEAS 500 515	progressivement
+T23	Concept_Idea 519 525	volume
+T24	DISO 570 586	troubles visuels
+T25	ANAT 649 658	cérébrale
+T26	DISO 788 803	symptomatologie
+T27	PROC 807 822	examen clinique
+T28	DISO 840 891	sensibilité paravertébro-mandibulaire hypogastrique
+T29	ANAT 852 891	paravertébro-mandibulaire hypogastrique
+T30	MEAS 912 916	2 cm
+T31	Concept_Idea 920 929	grand axe
+T32	MEAS 931 938	diffuse
+T33	ANAT 957 974	cavité abdominale
+T34	MEAS 992 1008	significablement
+T35	Concept_Idea 1012 1018	volume
+T36	MEAS 1030 1035	70 cc
+T37	MEAS 1038 1044	130 cc
+T38	DEVI 1051 1072	sonde grêlo-gastrique
+T40	Concept_Idea 1153 1159	taille
+T41	ANAT 1186 1207	sinus recto sigmoïdal
+T42	ANAT 1277 1312	fosse péritonéale iléale transverse

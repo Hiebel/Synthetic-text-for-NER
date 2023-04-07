@@ -1,0 +1,35 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 39 50	antécédents
+T3	MEAS 51 63	particuliers
+T4	PROC 65 70	suivi
+T5	DISO 80 100	hypercholestérolémie
+T6	CHEM 132 145	acénocoumarol
+T7	ANAT 159 165	visage
+T8	PROC 171 180	admission
+T9	DISO 200 221	détresse respiratoire
+T10	PHEN 209 221	respiratoire
+T11	DISO 237 249	météoralgies
+T12	TEMP 259 275	depuis 48 heures
+T13	MEAS 290 305	progressivement
+T14	Concept_Idea 309 315	volume
+T15	PROC 320 339	bilan préopératoire
+T16	PROC 353 380	hémoglobine glycorachidique
+T17	MEAS 383 391	9,7 g/dl
+T18	DOSE 393 408	normétanéphrine
+T19	PROC 411 431	taux de prothrombine
+T20	MEAS 434 437	82%
+T21	DEVI 445 470	cathéter transoesophagien
+T22	PROC 492 503	troponiques
+T23	MEAS 512 518	élevés
+T24	LIVB 520 524	Nous
+T25	PROC 543 576	échocardiographie transthoracique
+T26	ANAT 561 576	transthoracique
+T27	DISO 611 658	insuffisance ventriculaire droite hypertrophiée
+T29	Localization 638 644	droite
+T30	MEAS 674 689	progressivement
+T31	Concept_Idea 693 699	volume
+T32	PROC 729 756	traitement médical adjuvant
+T33	CHEM 803 816	protépranolol
+T34	DOSE 819 828	0,5 mg/kg
+T35	TEMP 828 834	/ jour
+T36	MODE 866 884	voie intraveineuse

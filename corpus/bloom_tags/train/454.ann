@@ -1,0 +1,67 @@
+T1	LIVB 29 37	patiente
+T2	CHEM 73 92	Valproate de Sodium
+T3	DOSE 94 100	400 mg
+T5	DOSE 141 147	800 mg
+T6	TEMP 147 149	/j
+T7	DISO 170 193	céphalées hypertensives
+T8	DISO 215 237	symptômes métaboliques
+T9	TEMP 256 278	depuis plusieurs jours
+T10	ANAT 310 332	péricardique liquidien
+T11	DEVI 341 357	liquide visqueux
+T12	LIVB 385 393	patiente
+T13	DISO 403 434	pathologies neuroradioméningées
+T14	DISO 445 505	adénopathie cervico-thoracique érythémato-nucléophagocytaire
+T16	DISO 625 652	hyperparathyroïdie primaire
+T17	ANAT 718 723	corps
+T18	PROC 726 757	échographie abdomino- pelvienne
+T19	ANAT 738 757	abdomino- pelvienne
+T21	DISO 985 1023	épanchement intrapéritonéal compressif
+T22	ANAT 997 1023	intrapéritonéal compressif
+T23	DISO 1033 1046	cholestatique
+T24	ANAT 1068 1091	veine rénale bilatérale
+T25	Localization 1081 1091	bilatérale
+T26	DISO 1104 1188	épanchement intra-vésiculaire intrarénal postéro-latéral pituitaire néphrotropionnel
+T28	DISO 1203 1272	sténoses rétrovésiculaires angulo-kystiques iléocæcaliennes étranglée
+T30	PROC 1317 1326	injection
+T31	CHEM 1330 1350	produit de contraste
+T32	MEAS 1376 1391	hypersignalisée
+T33	PROC 1404 1413	injection
+T34	DISO 1467 1487	tissulaire nodulaire
+T35	MEAS 1497 1521	spontanément opacifiante
+T36	Concept_Idea 1544 1551	limites
+T37	MEAS 1560 1570	régulières
+T38	DISO 1596 1615	fistule réno-cæcale
+T39	ANAT 1604 1615	réno-cæcale
+T40	DISO 1622 1642	signes hydro-aérique
+T41	PROC 1701 1721	biopsie chirurgicale
+T42	DISO 1764 1769	masse
+T43	PROC 1836 1867	diagnostic radiodensitométrique
+T44	PROC 2055 2085	bilan biologique préopératoire
+T45	DISO 2113 2143	maladie inflammatoire syndrome
+T46	PROC 2145 2163	C Reactive protein
+T47	MEAS 2166 2175	0,07 UI/l
+T48	PROC 2177 2188	troponine I
+T49	MEAS 2190 2197	1 ng/ml
+T50	PROC 2199 2218	protéine C réactive
+T51	PROC 2232 2250	facteur rhumatoïde
+T52	PROC 2252 2255	CRP
+T53	MEAS 2257 2277	supérieur à 0,5 mg/l
+T54	LIVB 2282 2289	patient
+T55	PROC 2307 2331	scanner abdomino-pelvien
+T56	ANAT 2315 2331	abdomino-pelvien
+T59	ANAT 2413 2434	mésentère vésiculaire
+T60	ANAT 2454 2463	péritoine
+T61	DISO 2469 2513	adénopathies des organes génitaux inférieurs
+T62	ANAT 2486 2513	organes génitaux inférieurs
+T63	DISO 2531 2545	masse tumorale
+T64	MEAS 2555 2560	20 mm
+T65	Concept_Idea 2564 2573	grand axe
+T66	ANAT 2590 2613	veine rénale bilatérale
+T67	Localization 2603 2613	bilatérale
+T68	ANAT 2630 2645	parois utérines
+T69	ANAT 2666 2693	vésicule biliaire gastrique
+T70	DISO 2714 2752	lésion lithiasique tissulaire kystique
+T71	MEAS 2761 2765	2 cm
+T72	Concept_Idea 2768 2774	aspect
+T73	MEAS 2775 2785	hétérogène
+T74	ANAT 2802 2831	angle colo-ombilico-sigmoïdal

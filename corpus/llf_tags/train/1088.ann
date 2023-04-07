@@ -1,0 +1,56 @@
+T1	LIVB 19 29	nouveau-né
+T2	DISO 125 154	travail obstétrical chronique
+T3	DISO 183 227	pathologie infectieuse néonatale congénitale
+T4	LIVB 240 242	sa
+T5	LIVB 243 256	belle-famille
+T6	DISO 276 295	accident de travail
+T7	LIVB 314 317	son
+T8	LIVB 318 322	père
+T9	TEMP 409 420	28 semaines
+T10	TEMP 440 449	1 semaine
+T11	LIVB 459 461	il
+T12	PROC 476 517	contraception hormonale substitutionnelle
+T13	Hospital 518 524	PTHFOP
+T14	LIVB 537 542	femme
+T15	MEAS 567 568	5
+T16	LIVB 569 576	enfants
+T17	LIVB 648 654	frères
+T18	TEMP 678 686	4 années
+T19	DISO 739 750	infertilité
+T20	LIVB 758 766	patiente
+T21	LIVB 811 814	ses
+T22	LIVB 815 824	conjoints
+T23	TEMP 871 895	depuis 6 mois auparavant
+T24	DISO 916 935	troubles menstruels
+T25	LIVB 960 964	elle
+T26	PROC 986 1001	examen clinique
+T27	DISO 1026 1035	céphalées
+T28	DISO 1042 1052	lombalgies
+T29	DISO 1060 1080	brulure prurigineuse
+T30	DISO 1087 1111	déficit sensitivo-moteur
+T31	DISO 1140 1167	hyperactivité psychomotrice
+T32	Concept_Idea 1319 1339	état ophtalmologique
+T33	DISO 1370 1398	mélanome oculomoteur rénoané
+T34	LIVB 1457 1468	jeune homme
+T35	TEMP 1476 1482	17 ans
+T36	TEMP 1499 1504	18ans
+T37	LIVB 1646 1648	il
+T38	DEVI 1674 1680	broche
+T39	ANAT 1712 1723	fémur droit
+T40	Localization 1718 1723	droit
+T41	LIVB 1742 1745	son
+T42	LIVB 1746 1749	ami
+T43	DISO 1786 1812	pathologie néonatale aiguë
+T44	DISO 1828 1849	détresse respiratoire
+T45	PHEN 1837 1849	respiratoire
+T46	CHEM 1875 1899	neuroleptiques atypiques
+T48	PROC 1976 1981	suivi
+T49	DISO 2027 2042	symptomatologie
+T50	TEMP 2053 2060	12 mois
+T51	LIVB 2122 2124	sa
+T52	LIVB 2125 2132	famille
+T53	LIVB 2136 2139	lui
+T54	Concept_Idea 2168 2192	limites professionnelles
+T55	LIVB 2212 2230	maëstrothérapeutes
+T56	DISO 2265 2274	séquelles
+T57	DISO 2331 2356	hallucinations délirantes

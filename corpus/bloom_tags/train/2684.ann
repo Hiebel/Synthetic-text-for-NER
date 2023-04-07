@@ -1,0 +1,22 @@
+T1	LIVB 4 12	patiente
+T2	DISO 34 59	antécédents pathologiques
+T3	MEAS 60 68	notables
+T4	PROC 70 80	consultait
+T5	Hospital 85 93	urgences
+T6	DISO 103 132	douleurs épigastriques aiguës
+T7	ANAT 112 125	épigastriques
+T8	TEMP 142 156	depuis 3 jours
+T9	DISO 173 179	fièvre
+T10	PROC 198 233	tomodensitométrie abdominopelvienne
+T11	ANAT 216 233	abdominopelvienne
+T12	DISO 249 316	adénocarcinome du paroi vésculo-urétrale utéro péritonéale infiltré
+T14	Concept_Idea 339 345	aspect
+T15	DISO 362 388	pancréatite carcinomateuse
+T16	PROC 393 410	bilan étiologique
+T17	PROC 427 455	examens anatomopathologiques
+T18	PROC 457 476	échocardiographique
+T19	PROC 480 504	scanner abdomino-pelvien
+T20	ANAT 488 504	abdomino-pelvien
+T21	DISO 536 549	métanévrysmes
+T22	ANAT 558 582	liquide céphalorachidien
+T23	ANAT 597 606	surrénaux

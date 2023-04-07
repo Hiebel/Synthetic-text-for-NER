@@ -1,0 +1,83 @@
+T1	LIVB 15 21	jumeau
+T2	TEMP 25 31	10 ans
+T3	DISO 49 55	fièvre
+T4	MEAS 58 62	38°C
+T5	DISO 68 96	douleurs abdomino-pelviennes
+T6	ANAT 77 96	abdomino-pelviennes
+T7	PROC 110 133	traitements antalgiques
+T8	CHEM 122 133	antalgiques
+T9	DISO 140 172	œdème du membre supérieur gauche
+T10	ANAT 149 172	membre supérieur gauche
+T11	Localization 166 172	gauche
+T12	PROC 178 193	examen clinique
+T13	LIVB 197 204	patient
+T15	Concept_Idea 216 228	état général
+T16	DISO 247 270	déficit sensitivomoteur
+T17	DISO 287 313	signes neuropsychiatriques
+T18	DISO 331 341	lombalgies
+T19	DISO 348 368	symptômes infectieux
+T20	DISO 406 452	masse cervicale médio cervico-brachiale droite
+T21	Localization 422 427	médio
+T22	Localization 446 452	droite
+T23	MEAS 461 466	3/4cm
+T24	DISO 472 484	adénomégalie
+T25	PROC 497 508	échographie
+T26	Hospital 521 545	staff multidisciplinaire
+T27	DISO 563 585	anomalie morphologique
+T28	DISO 589 601	histologique
+T29	PROC 623 642	examens biologiques
+T30	PROC 644 671	numération formule sanguine
+T31	PROC 673 681	urologie
+T32	PROC 683 696	créatininémie
+T33	PROC 702 723	bilan phosphocalcique
+T34	MEAS 735 741	normal
+T35	PHEN 747 765	suites opératoires
+T36	MEAS 774 781	simples
+T37	PROC 804 815	retransféré
+T38	Hospital 830 837	service
+T39	PROC 843 871	prise en charge chirurgicale
+T40	PROC 877 897	récepteurs hormonaux
+T41	LIVB 936 943	malades
+T42	PROC 1008 1035	radiothérapie préopératoire
+T43	ANAT 1048 1058	sein droit
+T44	Localization 1053 1058	droit
+T45	DOSE 1110 1113	2Gy
+T46	DEVI 1118 1126	cathéter
+T47	PROC 1132 1163	contrôle électrocardiographique
+T48	PROC 1175 1191	injection locale
+T49	PROC 1231 1329	anastomose iléocarotidienne dorsale postéro-extragalo-sous clavière bilatérale interne asymétrique
+T51	Localization 1299 1329	bilatérale interne asymétrique
+T52	ANAT 1351 1381	nerfs fémoro-tibial coccygiens
+T53	PROC 1429 1453	chimiothérapie adjuvante
+T54	DISO 2758 2763	décès
+T55	CHEM 2804 2815	corticoïdes
+T56	Concept_Idea 2820 2848	résultat anatomopathologique
+T57	PROC 2854 2866	intervention
+T58	PROC 2889 2916	bilan radiologique standard
+T59	DISO 2940 2984	récidive tumorale du membre inferieur gauche
+T60	ANAT 2961 2984	membre inferieur gauche
+T61	Localization 2978 2984	gauche
+T62	MEAS 3078 3086	figure 4
+T63	MEAS 3108 3115	simples
+T64	DISO 3121 3142	détresse respiratoire
+T65	PHEN 3130 3142	respiratoire
+T66	DISO 3146 3158	hémorragique
+T67	LIVB 3166 3173	malades
+T68	PROC 3182 3192	transférés
+T69	Hospital 3208 3223	bloc opératoire
+T70	PROC 3229 3257	prise en charge chirurgicale
+T71	PROC 3261 3279	étude histologique
+T72	DISO 3300 3355	masse tissulaire mésenchymateuse hétérogène polylobulée
+T73	MEAS 3365 3372	10/8 cm
+T74	MEAS 3375 3379	6 mm
+T75	ANAT 3424 3448	troncs supéro-pyloriques
+T76	DISO 3492 3531	tumeur polypoïde carcinomateuse maligne
+T77	MEAS 3540 3549	stade III
+T78	DISO 3608 3637	métatarsyndrome inflammatoire
+T80	PROC 3664 3684	drainage chirurgical
+T81	DISO 3691 3714	localisation secondaire
+T82	MEAS 3727 3730	peu
+T83	LIVB 3753 3761	patients
+T84	DISO 3829 3850	infection nosocomiale
+T85	Concept_Idea 3986 4006	aspect morphologique
+T86	Concept_Idea 4044 4074	éléments clinico-radiologiques

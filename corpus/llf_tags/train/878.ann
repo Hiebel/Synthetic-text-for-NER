@@ -1,0 +1,36 @@
+T1	LIVB 4 9	fille
+T2	TEMP 18 23	8 ans
+T3	DISO 136 151	symptomatologie
+T4	DISO 215 235	dépression familiale
+T5	MEAS 247 262	progressivement
+T6	TEMP 497 503	3 mois
+T7	DISO 949 975	trouble délirant paranoïde
+T8	DEVI 1083 1102	prothèse médicinale
+T9	LIVB 1645 1653	Patiente
+T10	TEMP 1662 1667	7 ans
+T11	MEAS 1690 1691	4
+T12	LIVB 1692 1699	enfants
+T13	MEAS 1720 1731	3650 GBP/an
+T14	TEMP 1789 1794	11 an
+T15	TEMP 1798 1805	16 mois
+T17	PROC 2184 2196	intervention
+T18	PROC 2205 2232	ponction du rachis cervical
+T19	ANAT 2217 2232	rachis cervical
+T20	TEMP 2256 2266	14/08/2012
+T21	Concept_Idea 2293 2304	voie vagale
+T22	PROC 2330 2347	bilan étiologique
+T23	PROC 2363 2381	sérologie sérielle
+T24	LIVB 2425 2433	patiente
+T25	DISO 2444 2460	signes cliniques
+T26	DISO 2477 2506	neuropsychiatrie pathologique
+T27	CHEM 2536 2551	éthylène glycol
+T28	TEMP 2582 2591	18 heures
+T29	DISO 2681 2701	traumatisme corporel
+T30	PROC 2765 2794	prise en charge psychiatrique
+T31	PROC 2847 2906	psychothérapie cognitivo-comportementale multiréférentielle
+T32	PROC 2920 2954	rééducation motrice individualisée
+T33	LIVB 3163 3169	enfant
+T34	PROC 3623 3657	investigations préélectrophysiques
+T35	PROC 3800 3834	traitements pharmacothérapeutiques
+T36	PHEN 3901 3924	grossesses monofoetales
+T37	Hospital 3960 3988	services pédiatriques locaux

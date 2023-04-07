@@ -1,0 +1,28 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	3 ans
+T3	PHEN 69 90	accouchement maternel
+T4	Hospital 95 103	urgences
+T5	PROC 109 132	anesthésielocorégionale
+T6	DISO 178 211	pneumo-thorax congénital purulent
+T7	DISO 224 254	traumatisme crânien ischémique
+T8	LIVB 273 275	sa
+T9	LIVB 276 288	petite-fille
+T10	TEMP 360 381	depuis environ 2 mois
+T11	PROC 397 417	reprise chirurgicale
+T12	PROC 420 434	interrogatoire
+T13	DISO 475 488	consanguinité
+T14	LIVB 518 525	famille
+T15	DISO 557 571	déficit moteur
+T16	DISO 577 602	atteinte sensitivomotrice
+T17	DISO 632 660	douleur prurigineuse fébrile
+T18	TEMP 673 677	1 an
+T19	MEAS 692 699	intense
+T20	MEAS 711 730	de façonprogressive
+T21	Concept_Idea 734 740	volume
+T22	DISO 758 772	amaigrissement
+T23	MEAS 782 786	5 kg
+T24	TEMP 800 808	deux ans
+T25	DISO 854 870	signes cliniques
+T26	DISO 905 928	polyarthrite allergique
+T27	DISO 938 972	nodule papulo-radiculonévrotélégué
+T28	ANAT 945 972	papulo-radiculonévrotélégué

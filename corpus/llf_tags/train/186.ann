@@ -1,0 +1,87 @@
+T1	PROC 2 19	tomodensitométrie
+T2	PROC 21 35	TDM) cérébrale
+T3	ANAT 26 35	cérébrale
+T4	DISO 70 75	masse
+T5	ANAT 91 129	angle postéro-supérieur du fémur droit
+T6	Localization 124 129	droit
+T7	LIVB 134 142	patiente
+T8	PROC 167 191	laparotomie exploratrice
+T9	PROC 216 235	anesthésie générale
+T10	Concept_Idea 240 251	poids total
+T11	MEAS 265 270	40 Kg
+T12	PHEN 280 288	fonction
+T13	MEAS 289 296	normale
+T14	Concept_Idea 303 315	état général
+T15	MEAS 316 325	excellent
+T16	PROC 329 355	examen anatomopathologique
+T17	DEVI 360 367	annexes
+T18	DISO 386 408	anomalie morphologique
+T19	DISO 435 452	récidive tumorale
+T20	DISO 462 480	signe histologique
+T21	PROC 493 512	bilan préopératoire
+T22	PROC 525 557	scanner thoraco-abdomino-pelvien
+T23	ANAT 533 557	thoraco-abdomino-pelvien
+T24	DISO 576 589	particularité
+T25	MEAS 626 633	simples
+T26	TEMP 643 653	22/12/2010
+T27	PROC 678 702	chimiothérapie adjuvante
+T28	CHEM 707 726	inhibiteur calcique
+T29	PROC 740 777	transfusion intraveineuse fractionnée
+T30	DOSE 781 786	25 mg
+T31	TEMP 786 790	/24h
+T32	Concept_Idea 801 837	critères clinico-radiothérapeutiques
+T33	Hospital 854 875	urgences pédiatriques
+T34	PROC 880 890	traitement
+T35	TEMP 907 913	3 mois
+T36	LIVB 1013 1019	enfant
+T37	TEMP 1027 1032	8 ans
+T38	PROC 1037 1042	suivi
+T39	DISO 1542 1576	pneumopathie chronique obstructive
+T40	LIVB 1585 1597	petit enfant
+T41	DISO 1636 1657	maladie inflammatoire
+T42	DISO 1691 1711	dysphagie diabétique
+T43	DISO 1840 1849	symptômes
+T44	PROC 1884 1905	contrôle locorégional
+T45	PROC 1999 2046	neuropsychiatrie spécialisée multidisciplinaire
+T46	PROC 2121 2183	kinésithérapie cognitivo-comportementale psychopharmacologique
+T47	PROC 2214 2248	prise en charge neuropsychiatrique
+T48	PROC 2293 2318	traitements médicamenteux
+T49	MEAS 2733 2738	bonne
+T50	Concept_Idea 2739 2761	attitude thérapeutique
+T51	TEMP 2785 2791	5 mois
+T52	TEMP 2798 2812	3 ans et demie
+T53	CHEM 2831 2859	corticoïdes hyperglycémiants
+T54	PROC 2890 2921	traitement adjuvant substitutif
+T55	Hospital 2930 2949	structure sanitaire
+T56	PROC 2982 3001	rééducation motrice
+T57	LIVB 3021 3028	malades
+T58	PROC 3081 3117	régime pauvre en graisses cétoniques
+T59	PROC 3132 3188	nourrisson végétalien frais congelé fractionnement libre
+T60	DISO 3211 3236	consanguinité consanguine
+T61	DISO 3243 3290	contage tuberculeux du streptococcus agalactiae
+T62	ANAT 3266 3290	streptococcus agalactiae
+T63	DISO 3301 3321	signes radiologiques
+T64	PHEN 3336 3346	grossesses
+T65	PROC 3367 3378	précédentes
+T66	LIVB 3391 3397	enfant
+T67	Concept_Idea 3427 3447	chiffres tensionnels
+T68	MEAS 3469 3489	50 grammes/24 heures
+T69	LIVB 3588 3593	homme
+T70	DISO 3643 3670	hypertension intracrânienne
+T71	ANAT 3656 3670	intracrânienne
+T72	PROC 3692 3723	bilan étiologique préopératoire
+T73	PROC 3753 3791	échographie obstétricale scanno-guidée
+T74	DISO 3839 3878	insuffisance utérine fœtale congénitale
+T75	ANAT 3852 3866	utérine fœtale
+T76	DISO 3894 3944	distension rétro-aréolaire postéro-latérale droite
+T77	ANAT 3905 3944	rétro-aréolaire postéro-latérale droite
+T78	Localization 3938 3944	droite
+T79	TEMP 3954 3964	depuis 24h
+T80	DISO 3979 4000	détresse respiratoire
+T81	PHEN 3988 4000	respiratoire
+T82	MEAS 4011 4024	15º sur 10 cm
+T83	DISO 4051 4064	choc septique
+T84	DISO 4083 4098	perte pondérale
+T85	MEAS 4110 4124	10 kilogrammes
+T86	DISO 4178 4202	troubles électrolytiques
+T87	DISO 4234 4291	cyanose périplasmocytaire érythémato-caecale idiopathique

@@ -1,0 +1,38 @@
+T1	LIVB 28 36	patiente
+T2	DISO 80 103	hyperthyroïdie primaire
+T3	TEMP 130 143	depuis 2 mois
+T4	CHEM 174 197	Cyclosérylhydrocortisol
+T5	PROC 201 216	examen clinique
+T6	LIVB 232 240	patiente
+T7	DISO 284 294	apyrétique
+T8	DISO 300 326	douleur abdomino-pélvienne
+T9	ANAT 308 326	abdomino-pélvienne
+T10	DISO 351 357	sueurs
+T11	MEAS 358 366	profuses
+T12	TEMP 415 423	2 heures
+T13	TEMP 426 435	12 heures
+T14	DISO 499 505	fièvre
+T15	MEAS 517 523	36°8 C
+T16	DISO 539 568	distension abdomino-pelvienne
+T17	ANAT 550 568	abdomino-pelvienne
+T18	DISO 578 591	inflammatoire
+T19	ANAT 612 628	liquide périnéal
+T20	DISO 664 688	kystadénome hypophysaire
+T21	DISO 696 717	métastases ovariennes
+T22	ANAT 707 717	ovariennes
+T23	DISO 733 752	affection pelvienne
+T24	ANAT 743 752	pelvienne
+T25	PROC 756 779	TDM abdomino- pelvienne
+T26	ANAT 760 779	abdomino- pelvienne
+T27	DISO 804 879	masse tissulaire hypo-intense hétérogène pariétale droite latéralehomodense
+T28	Localization 855 879	droite latéralehomodense
+T29	MEAS 889 893	22mm
+T30	Concept_Idea 897 906	grand axe
+T31	PROC 937 946	injection
+T32	DOSE 950 955	10 mg
+T33	CHEM 959 972	prolablocaine
+T34	DISO 992 1012	tissulaire nodulaire
+T35	DISO 1157 1231	nodules parenchymateux ovariothoraciques segmentaires hyperhypersignalisés
+T37	MEAS 1243 1255	spontanément
+T38	Concept_Idea 1259 1265	taille
+T39	MEAS 1275 1285	hétérogène

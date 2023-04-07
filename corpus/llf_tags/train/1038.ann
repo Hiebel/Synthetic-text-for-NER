@@ -1,0 +1,25 @@
+T1	PROC 4 14	sérologies
+T2	DISO 21 25	toux
+T3	DISO 33 48	pneumopéritoine
+T4	PROC 62 78	bilan biologique
+T5	DISO 92 100	anomalie
+T6	PROC 105 119	TDM thoracique
+T7	ANAT 109 119	thoracique
+T8	DISO 139 173	processus tissulaire du rein droit
+T9	ANAT 163 173	rein droit
+T10	Localization 168 173	droit
+T11	Concept_Idea 176 182	allure
+T12	DISO 183 194	infectieuse
+T13	MEAS 205 209	6 cm
+T14	Concept_Idea 213 222	grand axe
+T15	PROC 232 251	examen histologique
+T16	DISO 256 272	nécrose caséeuse
+T17	ANAT 289 304	plan sous-rénal
+T18	DISO 323 338	symptomatologie
+T19	LIVB 378 385	malades
+T20	PROC 410 433	radiothérapie adjuvante
+T21	TEMP 444 456	quotidiennes
+T22	DOSE 472 477	10 Gy
+T23	MODE 482 500	voie intraveineuse
+T24	PROC 514 545	curiethérapie immunosuppressive
+T25	CHEM 528 545	immunosuppressive

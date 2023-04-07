@@ -1,0 +1,25 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 24 30	17 ans
+T3	PROC 119 127	consulte
+T4	Hospital 132 140	urgences
+T5	DISO 179 192	inflammatoire
+T6	TEMP 202 219	depuis deux jours
+T7	DISO 239 329	douleurs fléchisseurs dorsiflexes sus-rénaliens crani-lombolombophalangiennes compressives
+T9	PROC 349 377	prise en charge chirurgicale
+T10	PROC 382 439	ponction pleurale liquidienne rétro-thoracique systatique
+T11	ANAT 391 439	pleurale liquidienne rétro-thoracique systatique
+T12	PROC 465 503	traitement antibacillaire probabiliste
+T13	CHEM 514 524	isoniazide
+T14	CHEM 526 539	metronidazole
+T15	CHEM 541 552	rifampicile
+T16	CHEM 554 565	ethionamide
+T17	CHEM 567 584	éthylprednisolone
+T18	CHEM 587 598	Ceftriaxone
+T19	CHEM 600 611	nicardipril
+T20	CHEM 613 627	hydrocortisone
+T21	CHEM 629 647	hydroxychloroquine
+T22	CHEM 649 662	noradrénaline
+T23	CHEM 664 677	dexaméthasone
+T24	Concept_Idea 743 763	plan bactériologique
+T25	MODE 770 798	vasculo-nerveux périphérique
+T26	LIVB 817 823	enfant

@@ -1,0 +1,26 @@
+T1	LIVB 4 7	M.I
+T2	DISO 39 52	consanguinité
+T3	LIVB 93 100	famille
+T4	PROC 106 115	admission
+T5	Hospital 120 128	urgences
+T7	ANAT 147 166	abdomino-pelviennes
+T8	TEMP 176 189	depuis 2 mois
+T9	DISO 205 219	ictère fébrile
+T10	LIVB 252 260	patiente
+T11	DISO 301 320	syndrome infectieux
+T12	DISO 331 347	troubles visuels
+T13	DISO 351 373	anomalies métaboliques
+T14	PROC 390 406	examen somatique
+T15	DISO 428 441	particularité
+T16	PROC 459 475	touchage vaginal
+T17	ANAT 468 475	vaginal
+T18	PROC 489 506	palpation rectale
+T19	ANAT 499 506	rectale
+T20	MEAS 537 543	mobile
+T21	MEAS 553 565	environ 5 cm
+T22	Concept_Idea 569 578	grand axe
+T23	PHEN 583 594	contrôlable
+T24	MEAS 606 615	lentement
+T25	Concept_Idea 619 625	volume
+T26	TEMP 634 650	deux jours avant
+T27	MEAS 676 682	rapide

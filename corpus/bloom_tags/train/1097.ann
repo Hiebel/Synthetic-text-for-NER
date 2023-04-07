@@ -1,0 +1,54 @@
+T1	LIVB 16 24	patiente
+T2	PROC 50 55	reçue
+T3	Hospital 60 82	urgences chirurgicales
+T4	DISO 117 151	syndrome d’hypertension artérielle
+T5	ANAT 141 151	artérielle
+T6	PROC 168 186	traitement curatif
+T7	CHEM 191 218	sulfate de dihydrocortisone
+T8	DOSE 224 230	2mg/kg
+T9	MODE 233 251	voie intraveineuse
+T10	CHEM 276 286	furosémide
+T11	CHEM 287 300	nicardiprolol
+T12	DEVI 321 340	seringue électrique
+T13	DEVI 347 378	canule cutanée transphlébitique
+T15	Hospital 400 420	hôpital périphérique
+T16	PROC 457 481	scanner abdomino-pelvien
+T17	ANAT 465 481	abdomino-pelvien
+T18	LIVB 515 523	patiente
+T19	DISO 528 690	tumeur parathyroïdienne hypertrophiée para-utérine hypophyso-métaphysaire antéro-latérale gauche juxta-surrénalienne palmovésiculaire infiltra-tissulaire kystique
+T22	MEAS 713 725	2900 grammes
+T23	MEAS 729 741	3000 grammes
+T24	ANAT 755 785	structures utérines ovariennes
+T25	ANAT 807 828	membranes urétruelles
+T26	DISO 850 873	adénomégalies nécrosées
+T27	PROC 925 958	imagerie par résonance Magnétique
+T28	PROC 960 963	IRM
+T30	PROC 1096 1105	injection
+T31	CHEM 1109 1129	produit de contraste
+T32	MEAS 1141 1156	progressivement
+T33	Concept_Idea 1160 1171	consistance
+T34	MEAS 1193 1210	bien systématisée
+T35	PROC 1227 1250	hypotonie préopératoire
+T36	DISO 1351 1384	envahissement endométrial maligne
+T37	ANAT 1365 1384	endométrial maligne
+T38	DISO 1391 1439	processus polymyomateux carcinomateux plexiforme
+T39	DISO 1453 1491	schwannome épithélio-gigantocellulaire
+T40	PROC 1531 1553	ponction intravaginale
+T41	ANAT 1540 1553	intravaginale
+T42	DISO 1819 1840	méningiome pléomorphe
+T43	DISO 1847 1865	nécrose ischémique
+T44	DISO 1871 1909	malformations cyto-rhabdomyosarcomales
+T45	DISO 1980 1996	rhabdomyosarcome
+T46	LIVB 2005 2012	famille
+T47	PROC 2028 2044	examen somatique
+T48	DISO 2056 2069	particularité
+T49	PROC 2073 2094	échographie pelvienne
+T50	ANAT 2085 2094	pelvienne
+T51	DISO 2114 2136	épanchement péritonéal
+T52	ANAT 2126 2136	péritonéal
+T53	PROC 2141 2220	doppler des artères coronaires superficielles trans-thoraciques angiographiques
+T55	DISO 2245 2298	paragangliite hypertrophie du sinus thyroïdien gauche
+T56	ANAT 2275 2298	sinus thyroïdien gauche
+T57	Localization 2292 2298	gauche
+T58	DISO 2314 2346	bradycardie hypokaliemicœuriaque
+T59	PHEN 2394 2407	surrénalienne

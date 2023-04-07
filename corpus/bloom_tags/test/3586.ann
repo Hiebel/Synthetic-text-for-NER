@@ -1,0 +1,62 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 33 38	7 ans
+T3	DISO 63 103	traumatisme abdominopelvien périsphincté
+T4	ANAT 75 103	abdominopelvien périsphincté
+T5	LIVB 135 138	ses
+T6	LIVB 139 162	grand-parents paternels
+T7	PROC 168 195	pontage aorto-coronarien ST
+T8	ANAT 176 195	aorto-coronarien ST
+T9	PROC 197 202	PACST
+T10	LIVB 205 207	Il
+T11	DISO 249 287	carcinose péribucellale utéro-vaginale
+T12	ANAT 259 287	péribucellale utéro-vaginale
+T13	TEMP 297 309	depuis 2 ans
+T14	DISO 329 343	amaigrissement
+T15	MEAS 354 359	15 kg
+T16	PROC 365 410	tomodensitométrie thoraco-abdomino- pelvienne
+T17	ANAT 383 410	thoraco-abdomino- pelvienne
+T18	LIVB 431 439	patiente
+T19	DISO 464 489	localisations secondaires
+T20	PROC 524 539	examen clinique
+T21	DISO 559 567	anomalie
+T22	DISO 585 606	syndrome hémorragique
+T23	DISO 616 636	maladie neurologique
+T24	DISO 640 652	métastatique
+T25	PROC 676 697	échographie pelvienne
+T26	ANAT 688 697	pelvienne
+T27	MEAS 698 705	normale
+T28	DISO 748 771	consanguinité familiale
+T29	LIVB 773 776	son
+T31	ANAT 788 795	sanguin
+T32	MEAS 802 808	normal
+T33	PROC 811 819	natrémie
+T34	MEAS 821 830	135 meq/l
+T35	PROC 832 840	kaliémie
+T36	MEAS 842 851	0,6 meq/l
+T37	PROC 854 873	Hémoglobine glyquée
+T38	MEAS 875 879	2,4%
+T39	PROC 881 895	globule rouges
+T40	MEAS 898 917	14 000 éléments/mm3
+T41	PROC 924 953	prélèvements bactériologiques
+T42	MEAS 962 970	positifs
+T43	CHEM 975 994	bêtaciprofloxacines
+T44	DOSE 995 1001	200 mg
+T45	MODE 1003 1015	intraveineux
+T46	DEVI 1025 1038	milieu gélosé
+T47	CHEM 1124 1151	médicaments antibacillaires
+T48	DISO 1186 1208	dermomyosite purulente
+T49	CHEM 1244 1262	Methylprednisolone
+T50	PROC 1340 1356	radiologiquement
+T51	DISO 1366 1408	empyème tissulaire cervico-mésentriculaire
+T52	ANAT 1468 1495	endobronchique mésentérique
+T53	MEAS 1563 1585	rapidement progressive
+T54	MEAS 1640 1651	spasmodique
+T55	MEAS 1661 1674	plus marquées
+T56	DISO 1722 1743	troubles métaboliques
+T57	PROC 1762 1782	reprise chirurgicale
+T58	PROC 1866 1889	laparotomie transfœtale
+T59	ANAT 1934 1945	intestinale
+T60	ANAT 2189 2206	paroi intestinale
+T61	ANAT 2361 2374	méso grêlique
+T62	ANAT 2419 2435	placenta-liquide
+T63	DISO 2456 2482	pneumo-utérus hypertrophié

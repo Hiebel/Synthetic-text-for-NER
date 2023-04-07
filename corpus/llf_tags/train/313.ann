@@ -1,0 +1,77 @@
+T1	LIVB 15 23	patiente
+T2	PROC 62 88	consultation gynécologique
+T3	Hospital 93 100	hôpital
+T4	DISO 110 129	douleurs pelviennes
+T5	ANAT 119 129	pelviennes
+T6	TEMP 139 152	depuis 2 mois
+T7	PROC 158 173	examen clinique
+T8	PHEN 177 192	fonction rénale
+T9	ANAT 186 192	rénale
+T10	MEAS 199 206	normale
+T11	PROC 213 232	bilan préopératoire
+T12	DISO 252 265	particularité
+T13	PROC 269 280	échographie
+T14	DISO 300 328	épaississement du rein droit
+T15	ANAT 318 328	rein droit
+T16	Localization 323 328	droit
+T17	MEAS 338 343	12 cm
+T18	Concept_Idea 352 361	grand axe
+T19	DISO 373 393	anomalie congénitale
+T20	PROC 407 447	scanner cervico-thoraco-abdomino pelvien
+T21	ANAT 415 447	cervico-thoraco-abdomino pelvien
+T22	PROC 449 453	TAPS
+T23	PROC 521 543	traitement substitutif
+T24	CHEM 548 560	tamoxifenone
+T25	PROC 651 666	rachianesthésie
+T26	PROC 676 697	contrôle radiologique
+T28	PROC 739 764	trachéotomie exploratrice
+T29	ANAT 783 795	nerf fessier
+T30	ANAT 815 834	annexes thoraciques
+T31	PROC 839 847	extirpés
+T32	PROC 861 868	suturés
+T33	DEVI 872 893	processus endoluminal
+T34	PROC 914 932	geste chirurgicaux
+T35	PROC 946 977	mobilisation transoesophagienne
+T36	PROC 981 1016	laparotomie cervicale scanno-guidée
+T37	PROC 1021 1061	débridement péritonéal périrénal complet
+T38	PROC 1074 1103	transplantation intrascrotale
+T39	PROC 1108 1132	chimiothérapie adjuvante
+T40	CHEM 1138 1169	ciclosporine acide clavulanique
+T41	CHEM 1172 1186	ciprofloxacine
+T42	PROC 1200 1226	radiothérapie concomitante
+T43	CHEM 1232 1242	isoflurane
+T44	CHEM 1244 1256	pyrazinamide
+T45	PROC 1307 1339	complément thérapeutique externe
+T46	MEAS 1390 1397	simples
+T47	LIVB 1412 1421	collègues
+T48	MEAS 1446 1456	spontanées
+T49	TEMP 1482 1489	4 jours
+T50	PROC 1504 1535	prélèvement immunohistochimique
+T51	DISO 1594 1626	léiomyome polypneïque infiltrant
+T52	MEAS 1634 1650	1500 gramme cube
+T53	MEAS 1658 1668	H1N1M/mm ²
+T54	Concept_Idea 1723 1746	caractère morphologique
+T55	ANAT 1753 1777	liquide céphalorachidien
+T56	MEAS 1791 1794	14%
+T57	ANAT 1798 1820	cellules thyroïdiennes
+T58	MEAS 1895 1899	5 mm
+T59	LIVB 2832 2840	patiente
+T60	PHEN 2869 2878	grossesse
+T61	PROC 2883 2889	suivie
+T62	Hospital 2893 2916	chirurgie gynécologique
+T63	LIVB 2931 2935	elle
+T64	PROC 2953 2980	accouchement par voie basse
+T65	PROC 2986 3017	traitement médical conservateur
+T66	PROC 3032 3047	soins maternels
+T67	PROC 3099 3118	bilan préopératoire
+T68	LIVB 3135 3139	elle
+T69	CHEM 3156 3187	amoxicilline acide clavulanique
+T70	DOSE 3189 3197	2cpx3 ml
+T71	LIVB 3205 3209	elle
+T72	LIVB 3243 3246	son
+T73	LIVB 3247 3255	collègue
+T74	LIVB 3301 3303	sa
+T75	LIVB 3304 3309	fille
+T76	TEMP 3324 3331	24 mois
+T77	DISO 3354 3371	maladie chronique
+T78	DISO 3378 3391	consanguinité

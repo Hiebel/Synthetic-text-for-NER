@@ -1,0 +1,17 @@
+T1	PROC 4 21	tomodensitométrie
+T2	PROC 23 53	TDM) thoraco-abdominopelvienne
+T3	ANAT 28 53	thoraco-abdominopelvienne
+T4	DISO 70 98	masse tissulaire du pancréas
+T5	ANAT 90 98	pancréas
+T6	MEAS 102 106	8 cm
+T7	PROC 111 127	bilan biologique
+T8	DISO 139 147	anomalie
+T9	LIVB 154 162	patiente
+T10	PROC 179 207	traitement immunosuppresseur
+T11	CHEM 190 207	immunosuppresseur
+T12	MODE 212 222	voie orale
+T13	CHEM 232 263	amoxicilline acide clavulanique
+T14	Concept_Idea 272 280	résultat
+T15	MEAS 281 290	favorable
+T16	TEMP 297 304	12 mois
+T17	PROC 308 313	suivi

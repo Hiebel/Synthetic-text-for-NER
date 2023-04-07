@@ -1,0 +1,31 @@
+T1	LIVB 4 12	patiente
+T2	Hospital 50 58	urgences
+T3	DISO 93 109	syndrome fébrile
+T4	PHEN 154 169	acuité visuelle
+T5	PROC 180 195	examen clinique
+T6	DISO 211 232	détresse respiratoire
+T7	PHEN 220 232	respiratoire
+T8	DISO 241 255	amaigrissement
+T9	MEAS 266 271	30 kg
+T10	DISO 325 333	polypnée
+T11	MEAS 348 354	rapide
+T12	MEAS 366 381	progressivement
+T13	Concept_Idea 385 390	poids
+T14	MEAS 402 416	20 kilogrammes
+T15	MEAS 419 434	100 kilogrammes
+T16	LIVB 447 451	elle
+T17	PROC 464 470	admise
+T18	DISO 483 492	symptômes
+T19	DISO 519 537	douleur thoracique
+T20	ANAT 527 537	thoracique
+T21	DISO 547 574	atteinte pleuro-pulmonaires
+T22	ANAT 556 574	pleuro-pulmonaires
+T23	ANAT 586 604	cardio-vasculaires
+T24	MEAS 613 621	présents
+T25	MEAS 631 640	cohérents
+T26	DISO 783 805	traumatisme ischémique
+T27	LIVB 824 835	jeune femme
+T28	CHEM 863 874	nicardipine
+T29	CHEM 887 919	anti hypertenseurs circulatoires
+T30	CHEM 925 944	méthylbromocriptine
+T31	DISO 969 997	complication neurovégétative

@@ -1,0 +1,33 @@
+T1	LIVB 14 21	patient
+T2	DISO 42 67	antécédents pathologiques
+T3	MEAS 68 80	particuliers
+T4	Hospital 101 109	urgences
+T5	DISO 119 128	dysphagie
+T6	PROC 133 150	tomodensitométrie
+T7	PROC 152 167	TDM) abdominale
+T8	ANAT 157 167	abdominale
+T9	DISO 183 209	hématome sous dural gauche
+T10	Localization 203 209	gauche
+T11	ANAT 223 242	tronc iliaque droit
+T12	Localization 237 242	droit
+T13	MEAS 251 256	2/3cm
+T14	DISO 271 287	râles crépitants
+T15	ANAT 296 319	région temporale droite
+T16	Localization 313 319	droite
+T17	ANAT 325 332	ombilic
+T18	PROC 336 354	étude histologique
+T19	DISO 377 413	prolifération polyploïde anaplasique
+T20	Concept_Idea 451 470	caractère mitotique
+T21	DISO 491 537	fistule atrophique auto-reseptocytopéritonéale
+T22	PHEN 543 561	suites opératoires
+T23	MEAS 570 577	simples
+T24	TEMP 609 616	8 jours
+T25	PROC 622 633	transfusion
+T26	PROC 647 702	anticoagulation par les immunoglobulines intraveineuses
+T27	CHEM 671 702	immunoglobulines intraveineuses
+T28	PROC 716 735	rééducation motrice
+T29	MEAS 761 770	favorable
+T30	Concept_Idea 778 795	plan neurologique
+T31	MEAS 817 840	plus ou moins favorable
+T32	Concept_Idea 867 886	résultats cliniques
+T33	PROC 898 919	contrôle radiologique

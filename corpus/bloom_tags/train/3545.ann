@@ -1,0 +1,25 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	Concept_Idea 40 66	développement psychomoteur
+T4	PHEN 91 111	grossesse gémellaire
+T5	PROC 162 187	traitement antibacillaire
+T6	PROC 231 238	adressé
+T7	Hospital 243 264	urgences pédiatriques
+T8	DISO 284 317	syndrome inflammatoire biologique
+T9	TEMP 327 340	depuis 3 mois
+T10	DISO 373 395	hypotension artérielle
+T11	ANAT 385 395	artérielle
+T12	MODE 401 411	voie orale
+T13	MEAS 426 437	progressive
+T14	DEVI 479 501	cathéter oeso-trachéal
+T15	ANAT 488 501	oeso-trachéal
+T16	DISO 520 547	souffrance vasculo-nerveuse
+T17	ANAT 531 547	vasculo-nerveuse
+T18	DISO 565 587	anomalies métaboliques
+T19	LIVB 606 616	nouveau-né
+T20	DISO 698 726	traumatisme cardiovasculaire
+T21	ANAT 710 726	cardiovasculaire
+T23	LIVB 1086 1090	bébé
+T24	MEAS 1119 1131	2950 grammes
+T25	DISO 1224 1263	pathologie thromboembolique congénitale
+T26	PHEN 1333 1358	grossesse mono amniotique

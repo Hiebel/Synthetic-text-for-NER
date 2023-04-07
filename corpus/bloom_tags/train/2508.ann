@@ -1,0 +1,24 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DOSE 33 38	2g/kg
+T4	TEMP 38 43	/jour
+T5	MEAS 53 57	9/10
+T6	DISO 98 105	diabète
+T7	DISO 142 185	hyperparathyroïdie congénitale hypertensive
+T8	TEMP 195 206	depuis 6ans
+T9	LIVB 213 216	son
+T10	PROC 217 226	admission
+T11	DISO 232 252	polyarthrite fébrile
+T12	MEAS 267 274	modérée
+T13	DISO 292 315	perte pondérale globale
+T14	MEAS 327 332	30 kg
+T15	DISO 360 382	détresse respiratoires
+T16	PHEN 369 382	respiratoires
+T17	CHEM 398 410	amoxicilline
+T18	TEMP 424 433	six jours
+T19	PROC 437 467	échographie abdomino-pelvienne
+T20	ANAT 449 467	abdomino-pelvienne
+T21	MEAS 474 481	normale
+T22	PROC 485 529	tomodensitométrie thoraco-abdomino-pelvienne
+T23	ANAT 503 529	thoraco-abdomino-pelvienne
+T24	DISO 543 633	métastases pulmononaires hétérotopiques latéro-interstitiel médiastin pariétalesbilaminées

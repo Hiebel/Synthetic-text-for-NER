@@ -1,0 +1,91 @@
+T1	PROC 3 10	biopsie
+T2	DISO 17 22	masse
+T3	PROC 43 68	étude anatomopathologique
+T4	DISO 96 125	carcinome épidermoïde du rein
+T5	ANAT 121 125	rein
+T6	LIVB 130 137	patient
+T7	PROC 153 177	chimiothérapie adjuvante
+T8	CHEM 189 200	antalgiques
+T9	CHEM 211 242	amoxicilline acide clavulanique
+T10	CHEM 244 273	triméthoprimesulfaméthoxazole
+T11	CHEM 275 287	antibiotique
+T12	CHEM 293 307	ciprofloxacine
+T13	DOSE 309 314	20 mg
+T14	TEMP 314 316	/j
+T15	Concept_Idea 326 334	résultat
+T16	MEAS 335 347	satisfaisant
+T17	PROC 361 383	traitement chirurgical
+T18	PROC 392 416	laparotomie exploratrice
+T19	DISO 442 464	métastase métastatique
+T20	PROC 472 507	thyroïdectomie totale scanno-guidée
+T21	MEAS 544 551	simples
+T22	DISO 557 577	signes neurologiques
+T23	DISO 581 600	neuropsychiatriques
+T24	DISO 629 648	syndrome infectieux
+T25	DISO 659 685	complications infectieuses
+T26	PROC 691 716	rééducation fonctionnelle
+T27	TEMP 742 752	trois mois
+T28	LIVB 772 779	malades
+T29	Concept_Idea 798 824	activités professionnelles
+T30	PHEN 888 914	retournement professionnel
+T31	LIVB 941 946	notre
+T32	LIVB 947 954	patient
+T33	DISO 1031 1065	contractures psychomotrices aigues
+T34	Concept_Idea 1110 1122	état général
+T35	DISO 1143 1168	caractéristiques morbides
+T36	PROC 1193 1217	changement thérapeutique
+T37	PROC 1222 1249	bilan radiologique standard
+T38	DISO 1271 1338	pneumopathie interstitielle cutanéo-muqueuse infiltrante atrophique
+T39	DISO 1354 1392	rhinorrhée crépuscularisée douloureuse
+T40	DISO 1436 1479	lésions prurigineuses érythémato-nodulaires
+T41	PROC 1520 1568	scanner crânio-veineux cervico-thoraco-abdominal
+T42	ANAT 1528 1568	crânio-veineux cervico-thoraco-abdominal
+T43	DISO 1589 1667	perforation ganglionnaire axillaire lobulée postéro-latérale bilatérale gauche
+T44	Localization 1650 1667	bilatérale gauche
+T45	ANAT 1689 1708	symphyse thoracique
+T46	MEAS 1718 1727	18 x 6 cm
+T47	ANAT 1749 1768	segments inferieurs
+T48	ANAT 1779 1816	ganglions para vertébro-iliaéro-anale
+T49	MEAS 1840 1844	6 mm
+T50	MEAS 1848 1853	10 mm
+T51	DISO 1893 1930	processus lésionnels anisocaryotiques
+T52	ANAT 1992 2009	muscles digestifs
+T53	PROC 2023 2061	examen macroscopiquement controlatéral
+T54	DISO 2084 2115	collection liquidienne kystique
+T55	DEVI 2125 2157	filaments tissulaire hélicoïdale
+T56	ANAT 2181 2210	parties molles intrakystiques
+T57	ANAT 2240 2261	tissus conjonctifères
+T58	ANAT 2297 2314	branches mitrales
+T59	ANAT 2336 2353	noyaux gastriques
+T60	ANAT 2378 2405	nerfs pancréatico-hépatites
+T61	MEAS 2411 2422	environ 50%
+T62	PROC 2486 2515	prise en charge préopératoire
+T63	PROC 2538 2578	kinésithérapie palliative antibacillaire
+T64	PROC 2626 2666	radiothérapie probabiliste endotrachéale
+T65	PROC 2680 2760	néphrectomie transversale latérale inférieure transseptale fovéolaire anténatale
+T67	PROC 2782 2798	acte chirurgical
+T68	PROC 2807 2887	angioplastie néoprostate achilléenne multicloisonnée double composante TAPS+DQBN
+T69	PROC 2902 2928	surveillance peropératoire
+T70	Concept_Idea 2957 2965	résultat
+T71	MEAS 2966 2978	satisfaisant
+T72	TEMP 3002 3008	7 mois
+T73	MEAS 3045 3052	simples
+T74	LIVB 3057 3064	patient
+T75	Hospital 3090 3097	service
+T76	TEMP 3101 3123	deuxième semestre 2018
+T77	PROC 3129 3148	traitement adjuvant
+T78	PROC 3161 3191	radiodiagnostic phléboscopique
+T79	CHEM 3193 3208	fluorouracilone
+T80	CHEM 3211 3242	amoxicilline acide clavulanique
+T81	MEAS 3262 3269	normale
+T82	TEMP 3276 3284	30 jours
+T83	PROC 3288 3320	chimiothérapie substitutionnelle
+T84	PROC 3336 3363	corticothérapie parentérale
+T85	PROC 3428 3446	traitement curatif
+T86	PROC 3455 3498	ostéotomie percutanée scanno-guidée type BK
+T87	PROC 3512 3592	reconstruction tomodensitométrique mono/frottispectomie subtotale bi distale IRM
+T88	DISO 3616 3649	récidive métastatique traumatique
+T89	PROC 3665 3694	contrôles radiothérapeutiques
+T90	Concept_Idea 3726 3741	position assise
+T91	Concept_Idea 3759 3777	état hémodynamique
+T92	MEAS 3783 3789	strict

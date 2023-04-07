@@ -1,0 +1,16 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 31 39	patiente
+T3	MEAS 43 46	bon
+T4	Concept_Idea 47 59	état général
+T5	DISO 68 75	douleur
+T6	ANAT 89 104	plexus brachial
+T7	PROC 109 138	examen des membres inférieurs
+T8	ANAT 120 138	membres inférieurs
+T9	DISO 150 163	particularité
+T10	PROC 179 195	examen somatique
+T11	PROC 211 228	bilan d'extension
+T12	PROC 244 269	scanner cervico-axillaire
+T14	DISO 303 394	adénocarcinome parathyroïdien latéro-mésentérique infilcranéphrine hypersignal hypoéchogène
+T17	ANAT 421 435	épiploiculaire
+T18	ANAT 452 484	structures sous-diaphragmatiques
+T19	ANAT 513 527	parties molles

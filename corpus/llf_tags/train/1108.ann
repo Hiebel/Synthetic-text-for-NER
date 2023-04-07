@@ -1,0 +1,62 @@
+T1	TEMP 66 79	il y a 3 mois
+T2	DISO 91 114	épisode infectieux aigu
+T3	DISO 145 186	rhinopharyngite sèche kératoconjonctivite
+T4	MEAS 194 207	Catégorie III
+T5	DISO 260 287	crise myasthénique septique
+T6	DISO 341 347	fièvre
+T7	MEAS 359 365	39 ° C
+T8	DISO 376 397	signes cutanéomuqueux
+T9	DISO 401 417	râles crépitants
+T10	DISO 446 471	maladie cœliaque primaire
+T11	PROC 483 505	contrôle échographique
+T12	PROC 522 538	test étiologique
+T13	LIVB 614 629	chirurgiens ORL
+T15	LIVB 756 758	sa
+T16	PROC 759 787	consultation préanesthésiste
+T17	DISO 810 847	déficit sensitivo-moteur psychomoteur
+T18	PROC 867 898	consultation neuropsychiatrique
+T19	PROC 1359 1387	antibiothérapie probabiliste
+T20	DOSE 1413 1420	400mgx2
+T21	TEMP 1420 1430	/24 heures
+T22	CHEM 1441 1451	isoniazide
+T23	CHEM 1454 1465	rifampicine
+T24	CHEM 1467 1479	pyrazinamide
+T25	CHEM 1482 1496	gentaméthasone
+T26	PROC 1502 1565	sulfaméthasone biphosphonates intraveineuse directe fractionnés
+T27	PROC 1581 1640	kinésithérapie cognitivo-comportementale multidisciplinaire
+T29	MEAS 1909 1935	=0,3 gramme par kilogramme
+T30	PROC 1954 1980	traitement pharmacologique
+T31	Concept_Idea 1986 2008	paramètres biologiques
+T32	DISO 2022 2030	anomalie
+T33	PHEN 2037 2052	fonction rénale
+T34	ANAT 2046 2052	rénale
+T35	MEAS 2057 2064	normale
+T36	PROC 2070 2085	radio du bassin
+T37	ANAT 2079 2085	bassin
+T38	DISO 2115 2134	niveau hydroaérique
+T39	ANAT 2143 2174	plexus brachial supérieur droit
+T40	Localization 2169 2174	droit
+T41	MEAS 2201 2213	perceptibles
+T42	Hospital 2218 2250	urgences traumato-obstétricaires
+T46	DEVI 2479 2494	drain scaphoïde
+T47	ANAT 2548 2561	nerfs jumeaux
+T48	MEAS 2574 2587	4 centimètres
+T49	MEAS 2677 2682	15 mm
+T50	MEAS 2686 2691	148mm
+T51	PROC 2745 2772	numération formule sanguine
+T52	PROC 2801 2828	explorations cytogénétiques
+T53	LIVB 2895 2901	enfant
+T54	TEMP 2909 2915	13 ans
+T55	DISO 2933 2949	accident de moto
+T56	LIVB 2968 2971	son
+T57	LIVB 2972 2995	mariage consanguin CKJB
+T58	LIVB 3051 3056	notre
+T59	LIVB 3057 3061	fils
+T60	DISO 3072 3100	troubles menstruels fébriles
+T61	PROC 3150 3187	contrôle ophtalmologique traditionnel
+T62	PROC 3193 3202	admission
+T63	DISO 3228 3255	manifestations oculomoteurs
+T64	Concept_Idea 3326 3355	état hémodynamiquement stable
+T65	PROC 3397 3408	hémodialyse
+T66	DISO 3425 3446	symptomatologie aiguë
+T67	DISO 3452 3466	diarrhée sèche

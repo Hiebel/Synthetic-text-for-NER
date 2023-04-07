@@ -1,0 +1,9 @@
+T1	LIVB 3 11	patiente
+T2	PROC 30 67	chimiothérapie
+T3	PROC 84 115	hormonothérapie
+T4	MODE 120 130	voie
+T5	TEMP 131 149	pendant
+T6	Concept_Idea 163 171	clinique
+T7	MEAS 178 187	favorable
+T8	MEAS 205 213	complète
+T9	DISO 218 227	symptomes

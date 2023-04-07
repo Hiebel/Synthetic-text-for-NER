@@ -1,0 +1,86 @@
+T1	PROC 0 12	consultation
+T2	DISO 21 41	nodule du rein droit
+T3	ANAT 31 41	rein droit
+T4	Localization 36 41	droit
+T5	MEAS 53 68	progressivement
+T6	Concept_Idea 72 78	taille
+T7	Concept_Idea 132 144	état général
+T8	DISO 152 161	dysphonie
+T9	DISO 199 205	signes
+T10	PROC 218 233	examen clinique
+T11	DISO 264 292	distension abdominopelvienne
+T12	ANAT 275 292	abdominopelvienne
+T13	DISO 309 333	syndrome polymalformatif
+T14	DISO 373 387	déshydratation
+T15	CHEM 415 434	anti-inflammatoires
+T16	CHEM 456 467	rifampicine
+T17	DOSE 480 488	1 gramme
+T18	TEMP 488 490	/j
+T19	CHEM 502 512	corticoïde
+T20	MODE 516 531	intramusculaire
+T21	CHEM 544 565	sérum salé isotonique
+T22	MODE 570 588	voie intraveineuse
+T23	PROC 601 644	laparotomie exploratrice multidisciplinaire
+T24	PROC 650 674	rachianesthésie générale
+T25	PROC 700 727	stabilisation hémodynamique
+T26	DISO 756 773	récidive anémique
+T27	LIVB 779 787	patiente
+T28	PROC 802 827	traitement prophylactique
+T29	DEVI 830 870	bronchodilatateurs calciques parentéraux
+T30	PHEN 880 901	contractions utérines
+T31	ANAT 893 901	utérines
+T32	PROC 1032 1052	séance préopératoire
+T33	PROC 1066 1080	lavage vaginal
+T34	ANAT 1073 1080	vaginal
+T35	LIVB 1176 1185	familiaux
+T36	PROC 1210 1228	mariage consanguin
+T37	MEAS 1279 1285	simple
+T38	Concept_Idea 1293 1310	plan neurologique
+T39	DISO 1333 1359	comportement psychomotrice
+T40	DISO 1401 1425	symptômes psychiatriques
+T41	Concept_Idea 1438 1456	aspect étiologique
+T42	DISO 1538 1558	perceptions morbides
+T43	LIVB 1572 1583	jeune fille
+T44	LIVB 1596 1609	belle-famille
+T45	DISO 1750 1780	trouble obsessionnel compulsif
+T47	Concept_Idea 2015 2033	résultat somatique
+T48	LIVB 2291 2297	enfant
+T49	TEMP 2305 2311	15 ans
+T50	MEAS 2582 2583	5
+T51	LIVB 2584 2591	garçons
+T52	TEMP 2615 2621	2 mois
+T53	PROC 2642 2677	médico-cholécystectomie monoblocale
+T55	PROC 2876 2941	hémicolectomie digestive fractionnée céphalique distale du bassin
+T56	ANAT 2935 2941	bassin
+T57	PROC 2957 2979	traitement substitutif
+T58	CHEM 2982 3013	amoxicilline acide clavulanique
+T59	CHEM 3018 3028	corticoïde
+T60	CHEM 3035 3060	macrolidesulfaméthoxazole
+T61	PROC 3073 3089	antibiothérapies
+T62	CHEM 3103 3113	aminosides
+T63	CHEM 3116 3129	triméthoprime
+T64	PHEN 3135 3144	grossesse
+T65	TEMP 3161 3172	24 semaines
+T66	DISO 3192 3213	mort foetale néonatal
+T67	LIVB 3226 3229	son
+T68	LIVB 3230 3234	père
+T69	PROC 3245 3256	hospitalisé
+T70	Hospital 3260 3275	bloc opératoire
+T71	PROC 3300 3318	séjour hospitalier
+T72	PROC 3374 3423	néphrectomie exploratrice préanesthésique urgente
+T73	PROC 3447 3475	prise en charge anesthésique
+T74	Concept_Idea 3488 3510	paramètres biologiques
+T75	PROC 3514 3534	immunohistochimiques
+T76	PROC 3549 3573	monitorage échographique
+T77	DEVI 3672 3715	utérus polymyomateux fœtal canard inferieur
+T78	MEAS 3725 3730	23 cm
+T79	MEAS 3733 3737	14mm
+T80	PROC 3800 3822	contrôle échographique
+T81	MEAS 3846 3859	spectaculaire
+T82	Localization 3873 3889	partie proximale
+T83	ANAT 3922 3947	péritoine pariétal gauche
+T84	MEAS 3953 3967	10 centimètres
+T85	MEAS 3975 3989	35 millimètres
+T86	DISO 4030 4050	anomalie congénitale
+T87	DISO 4082 4111	symptômes neuropsychiatriques
+T88	Concept_Idea 4184 4206	constats histologiques

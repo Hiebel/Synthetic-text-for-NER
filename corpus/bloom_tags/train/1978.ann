@@ -1,0 +1,83 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	9 ans
+T3	Concept_Idea 25 36	antécédents
+T4	MEAS 37 49	particuliers
+T5	PROC 51 61	consultait
+T6	Hospital 66 74	urgences
+T7	DISO 84 110	douleur abdomino-pelvienne
+T8	ANAT 92 110	abdomino-pelvienne
+T9	PROC 114 129	examen clinique
+T10	PROC 134 143	admission
+T11	LIVB 160 167	patient
+T12	MEAS 171 180	assez bon
+T13	Concept_Idea 181 193	état général
+T14	Concept_Idea 211 229	plan hémodynamique
+T15	LIVB 231 233	Il
+T16	DISO 249 272	métrorragies purulantes
+T17	CHEM 285 305	produit de contraste
+T18	Localization 307 318	bilatérales
+T19	LIVB 321 324	Ses
+T20	PHEN 325 346	contractions utérines
+T21	ANAT 338 346	utérines
+T22	MEAS 355 363	intenses
+T23	DISO 378 389	aménorrhées
+T24	TEMP 399 412	depuis 3 mois
+T25	PROC 416 446	échographie abdomino-pelvienne
+T26	ANAT 428 446	abdomino-pelvienne
+T27	DISO 476 565	épanchement intra péritonéal liquidien latéro-sigmoïdien lithiasique du flux iléo-caecale
+T29	ANAT 548 565	flux iléo-caecale
+T30	DISO 578 624	lésion tissulaire hypo-vascularisée hypotendue
+T31	MEAS 634 639	13 cm
+T32	Concept_Idea 643 652	grand axe
+T33	PROC 678 687	injection
+T34	DOSE 691 698	2 ml/kg
+T35	CHEM 702 722	produit de contraste
+T36	ANAT 744 758	surrénaliennes
+T37	DISO 792 797	masse
+T38	ANAT 822 853	sinus caverneux inférieur droit
+T39	Localization 848 853	droit
+T40	ANAT 874 888	paroi vaginale
+T41	ANAT 919 929	tissulaire
+T42	PROC 935 971	tomodensitométrie abdomino-pelvienne
+T43	ANAT 953 971	abdomino-pelvienne
+T44	PROC 985 1005	IRM cervico-vaginale
+T45	ANAT 989 1005	cervico-vaginale
+T46	LIVB 1043 1051	patients
+T47	DISO 1088 1097	anomalies
+T48	DISO 1131 1155	lésions neurorétiniennes
+T49	DISO 1165 1185	localisation maligne
+T50	DISO 1293 1323	sensibilité abdomino-pelvienne
+T51	ANAT 1305 1323	abdomino-pelvienne
+T52	DISO 1531 1547	fistule biliaire
+T53	DISO 1554 1573	gastrite ischémique
+T54	DISO 1611 1624	symptomatique
+T55	CHEM 1743 1756	métronidazole
+T56	TEMP 1792 1800	10 jours
+T57	Concept_Idea 1851 1874	effets bactériologiques
+T58	DISO 2000 2026	malformations métaboliques
+T59	DISO 2127 2157	placenta hypertrophié kystique
+T60	PROC 2637 2667	bilan biologique préopératoire
+T61	PROC 2681 2696	globules blancs
+T62	MEAS 2698 2717	12 000 éléments/mm3
+T63	PROC 2719 2729	plaquettes
+T64	MEAS 2731 2749	800000 élément/mm3
+T65	PROC 2751 2761	leucocytes
+T66	MEAS 2763 2781	17300 éléments/mm3
+T67	PROC 2783 2795	ferritinémie
+T68	MEAS 2797 2802	4mg/l
+T69	PROC 2804 2816	ferritinurie
+T70	MEAS 2818 2827	0,5 g/24h
+T71	PROC 2832 2870	dosage des catécholamines intestinales
+T72	PROC 2905 2930	investigation étiologique
+T73	LIVB 2952 2962	nouveau-né
+T74	Hospital 2967 2988	urgences pédiatriques
+T75	PROC 2996 3037	recherche d'immunoglobulines monoclonales
+T76	PROC 3039 3073	anticorps anti-protéine C réactive
+T77	PROC 3075 3090	anti DNA natifs
+T78	PROC 3095 3123	antibiothérapie probabiliste
+T79	CHEM 3136 3151	cephalosporines
+T80	CHEM 3160 3171	Ceftriaxone
+T81	DOSE 3184 3189	20 mg
+T82	CHEM 3192 3222	Ampicilline-acide clavulanique
+T83	DEVI 3227 3246	sonde nasogastrique
+T84	ANAT 3233 3246	nasogastrique

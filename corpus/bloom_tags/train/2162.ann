@@ -1,0 +1,31 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 38 44	12 ans
+T3	Hospital 65 73	urgences
+T4	DISO 132 211	traumatisme ischémique du pédicule crânio-cérébelleux pariétale supérieur droit
+T5	ANAT 158 211	pédicule crânio-cérébelleux pariétale supérieur droit
+T6	Localization 206 211	droit
+T7	ANAT 225 277	noyaux musculaires superficiels fronto-temporoïdiens
+T8	DISO 293 306	consanguinité
+T9	DISO 317 344	complications pathologiques
+T10	DISO 372 395	déficit sensitivomoteur
+T11	DISO 401 425	hallucinations visuelles
+T12	DISO 450 457	douleur
+T13	DISO 467 487	méningoinflammatoire
+T14	TEMP 497 512	depuis 10 jours
+T15	DEVI 534 563	cathéter veineux périphérique
+T17	DOSE 591 596	50 mg
+T18	CHEM 600 621	cristallo-glycoramide
+T19	DISO 642 653	bradycardie
+T20	MODE 667 677	voie orale
+T21	DOSE 681 688	0,5g/kg
+T22	CHEM 692 701	nébivolol
+T23	DISO 734 758	paresthésie prurigineuse
+T24	PROC 764 788	scanner abdomino-pelvien
+T25	ANAT 772 788	abdomino-pelvien
+T27	Localization 879 882	sus
+T28	MEAS 937 946	multiples
+T29	MEAS 971 976	24 cm
+T30	Concept_Idea 980 989	grand axe
+T31	ANAT 1011 1032	structures hépatiques
+T32	ANAT 1065 1075	structures
+T33	DISO 1102 1120	tissules kystiques

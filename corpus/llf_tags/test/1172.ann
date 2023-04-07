@@ -1,0 +1,16 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	3 ans
+T3	PHEN 222 245	grossage socio-familial
+T4	PROC 250 269	geste thérapeutique
+T5	Hospital 325 361	consultations médicales pédiatriques
+T6	CHEM 388 412	neuroleptiques atypiques
+T7	LIVB 439 445	enfant
+T8	DISO 467 498	troubles fonctionnels digestifs
+T9	DEVI 597 615	automates médicaux
+T10	DISO 699 722	difficulté obstétricale
+T11	Concept_Idea 952 974	caractère pathologique
+T12	Concept_Idea 1001 1021	vitalité étiologique
+T13	PROC 1065 1101	méthodes thérapeutiques alternatives
+T14	PROC 1194 1218	prise en charge médicale
+T15	PROC 1327 1342	antibiothérapie
+T16	CHEM 1348 1381	céphalosporine acide clavulanique

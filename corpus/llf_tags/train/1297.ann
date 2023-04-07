@@ -1,0 +1,77 @@
+T1	PHEN 4 22	suites opératoires
+T2	MEAS 31 38	simples
+T3	LIVB 45 51	malade
+T4	PROC 58 63	opéré
+T5	Localization 86 92	droite
+T6	PROC 96 120	exploration chirurgicale
+T7	DISO 142 147	signe
+T8	DISO 150 180	insuffisance cardio-vasculaire
+T9	ANAT 163 180	cardio-vasculaire
+T10	PROC 184 210	examen anatomopathologique
+T11	DISO 233 264	tuberculose séreuse du pancréas
+T12	ANAT 256 264	pancréas
+T13	PROC 290 310	bilan phtysiologique
+T14	MEAS 328 335	négatif
+T15	Concept_Idea 347 367	aspect morphologique
+T16	PROC 372 400	chimiothérapie néo adjuvante
+T17	CHEM 412 423	corticoïdes
+T18	DOSE 425 433	50 mg/kg
+T19	TEMP 433 435	/j
+T20	PROC 451 476	traitement prophylactique
+T21	TEMP 520 530	3 semaines
+T22	LIVB 553 560	patient
+T23	DISO 623 642	contage tuberculeux
+T24	DISO 655 674	symptôme infectieux
+T25	DISO 718 742	phénomènes asthmatiforme
+T26	PROC 763 784	contrôle locorégional
+T27	PROC 809 819	diagnostic
+T28	DISO 843 908	tumeur brune érythémato-pseudo myxoïde épithélioides kératinisant
+T29	Concept_Idea 953 971	état hémodynamique
+T30	PROC 978 997	anesthésie générale
+T31	MEAS 1013 1028	progressivement
+T32	Concept_Idea 1032 1038	taille
+T33	PROC 1051 1068	mise en condition
+T34	TEMP 1108 1125	J7 postopératoire
+T35	PROC 1129 1154	étude immunohistochimique
+T36	LIVB 1173 1180	patient
+T37	DISO 1196 1203	lésions
+T38	MEAS 1209 1227	bien différenciées
+T39	DISO 1263 1282	maladie auto-immune
+T40	Concept_Idea 1352 1374	hétérogénéité clinique
+T41	PROC 1397 1431	prise en charge pluridisciplinaire
+T42	PROC 1460 1496	néphrolithotomie totale exploratrice
+T43	PROC 1567 1587	biopsie extemporanée
+T44	PROC 1593 1620	explorations cytogénétiques
+T45	PROC 1630 1657	prélèvement scannographique
+T46	PROC 1665 1688	recherches biochimiques
+T47	PROC 1708 1726	classification TNM
+T49	Concept_Idea 2700 2723	variables pathologiques
+T50	PROC 2762 2791	consultation pré anesthésique
+T51	PROC 2805 2830	transfusion de sufentanyl
+T52	CHEM 2820 2830	sufentanyl
+T53	Concept_Idea 2847 2877	résultats anatomopathologiques
+T54	PROC 2881 2900	traitement adjuvant
+T55	PROC 2908 2933	chimiothérapie palliative
+T56	DISO 2946 2975	symptômes neuropsychiatriques
+T57	TEMP 3021 3026	7 ans
+T58	PROC 3035 3056	contrôle locorégional
+T59	MEAS 3069 3071	10
+T60	PHEN 3072 3082	grossesses
+T61	DISO 3165 3186	récidive hémorragique
+T62	DISO 3193 3233	trouble sensitivomoteur psychotique aigu
+T63	LIVB 3268 3277	dernières
+T64	ANAT 3278 3329	structures psychiatriques ambulatoires pédiatriques
+T65	Hospital 3343 3364	hôpital psychiatrique
+T66	Hospital 3371 3386	bloc opératoire
+T67	Concept_Idea 3471 3496	caractères morphologiques
+T68	Concept_Idea 3512 3548	comportements clinico-thérapeutiques
+T69	PROC 3653 3695	prise en charge thérapeutique substitutive
+T70	PROC 3742 3773	intervention multidisciplinaire
+T71	Concept_Idea 3849 3878	conventions institutionnelles
+T72	LIVB 4261 4267	garçon
+T73	TEMP 4276 4281	8 ans
+T74	LIVB 4358 4379	pâtissier hospitalier
+T75	LIVB 4559 4565	enfant
+T76	LIVB 4668 4670	sa
+T77	LIVB 4671 4684	belle-famille
+T78	DISO 4695 4714	crises épileptiques

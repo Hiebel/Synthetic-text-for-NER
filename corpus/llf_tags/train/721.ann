@@ -1,0 +1,9 @@
+T1	LIVB 4 12	patiente
+T2	CHEM 29 41	amoxicilline
+T3	DOSE 43 49	100 mg
+T4	TEMP 49 54	/jour
+T5	CHEM 59 70	vincristine
+T6	DOSE 72 77	50 mg
+T7	TEMP 77 82	/jour
+T8	DISO 134 163	symptômes neuropsychiatriques
+T9	TEMP 181 187	6 mois

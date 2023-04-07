@@ -1,0 +1,30 @@
+T1	LIVB 16 21	femme
+T2	PROC 51 56	reçue
+T3	Hospital 61 69	urgences
+T4	PROC 75 110	traitement antibacillaire adjuvante
+T5	MEAS 127 135	complète
+T6	DISO 141 167	déficit sensitivomotricité
+T7	LIVB 199 207	patiente
+T8	PHEN 216 228	accouchement
+T9	PROC 246 261	hospitalisation
+T10	ANAT 278 296	abdomino-pelvienne
+T11	DISO 314 323	céphalées
+T12	TEMP 333 346	depuis 6 mois
+T13	DISO 366 402	douleurs thoraciques basithoraciques
+T15	MEAS 417 423	rapide
+T16	MEAS 433 457	spontanément résolutives
+T17	MEAS 469 484	progressivement
+T18	Concept_Idea 488 494	volume
+T19	MEAS 511 531	supra-centimétriques
+T20	PROC 638 666	prise en charge chirurgicale
+T21	PROC 696 716	examen préopératoire
+T22	LIVB 728 736	patiente
+T23	DISO 737 748	polypnéique
+T24	MEAS 751 764	36 cycles/min
+T25	Localization 769 778	en dedans
+T26	MEAS 815 820	30 cm
+T27	MEAS 823 828	25 cm
+T28	MEAS 836 841	16 kg
+T29	DISO 875 932	sensations d'épanchement basithoracique latéro péritonéal
+T30	ANAT 900 932	basithoracique latéro péritonéal
+T31	DISO 945 1075	adénophrement hilaire droit inféro-thoracique antéhypso-latéo-épiploïque para médiastinal thoraco-abdomino-cæcal hypogastro-dilaté

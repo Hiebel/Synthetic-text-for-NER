@@ -1,0 +1,23 @@
+T1	LIVB 4 12	patiente
+T2	MEAS 58 69	particulier
+T3	PROC 77 82	admis
+T4	Hospital 86 101	bloc opératoire
+T5	PROC 107 145	laparotomie exploratrice scanno-guidée
+T6	PROC 160 177	anesthésie locale
+T7	LIVB 210 218	patiente
+T9	ANAT 234 270	cervico-trachéale abdomino-pelvienne
+T10	TEMP 280 296	depuis 24 heures
+T14	MEAS 451 458	simples
+T15	DISO 468 496	symptomatologie obstétricale
+T16	PROC 531 546	prise en charge
+T17	PROC 551 572	contrôle radiologique
+T18	DEVI 588 599	vis canulée
+T19	MEAS 608 622	2/10 ème degré
+T20	MEAS 632 637	30 mm
+T21	Concept_Idea 641 650	grand axe
+T22	ANAT 683 714	fosse iliaque antérieure gauche
+T23	Localization 697 714	antérieure gauche
+T24	ANAT 793 817	paroi digestive profonde
+T25	PHEN 822 849	circulation extracorporéale
+T26	Concept_Idea 874 891	limites cliniques
+T27	PROC 908 925	abord chirurgical

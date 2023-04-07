@@ -1,0 +1,33 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	9 ans
+T3	PROC 36 41	suivi
+T4	DISO 51 82	pancréatite aiguë aigue stade E
+T5	Concept_Idea 93 101	critères
+T6	CHEM 117 136	Valproate de sodium
+T7	DOSE 149 151	1g
+T8	MODE 155 167	intraveineux
+T9	TEMP 168 184	pendant 6 heures
+T10	DISO 234 277	insuffisance centrale du cæcum pancréatique
+T11	Localization 247 255	centrale
+T12	ANAT 259 277	cæcum pancréatique
+T13	TEMP 287 309	depuis plusieurs jours
+T14	DISO 325 350	vomissements alimentaires
+T15	DISO 356 368	hypoglycémie
+T16	PROC 386 413	numération formule sanguine
+T17	MEAS 425 431	légère
+T18	DISO 432 448	hyperleucocytose
+T19	MEAS 451 469	14300 éléments/mm3
+T20	DISO 482 515	syndrome inflammatoire biologique
+T21	PROC 525 556	échographie abdomino- pelvienne
+T22	ANAT 537 556	abdomino- pelvienne
+T23	DISO 576 612	épanchement métanéphrine péritonéale
+T24	ANAT 588 612	métanéphrine péritonéale
+T25	ANAT 629 649	fosse iliaque droite
+T26	Localization 643 649	droite
+T27	MEAS 659 671	environ 5 cm
+T28	Concept_Idea 675 684	grand axe
+T29	DISO 711 830	adénopathies jugulo-carotidiennes cervico-thoraciques basithoraciques tissulaires latéro-diaphragmatiques hypoéchogènes
+T31	PHEN 858 867	injection
+T32	CHEM 871 891	produit de contraste
+T33	LIVB 916 924	patiente
+T34	DISO 929 949	tuberculose kystique

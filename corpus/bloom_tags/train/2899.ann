@@ -1,0 +1,24 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	DISO 41 67	particularité neurologique
+T4	DISO 85 110	syndrome neuropsychiatrie
+T5	DISO 117 133	déficits visuels
+T6	DISO 155 169	organomégalies
+T7	ANAT 184 193	œil droit
+T8	Localization 188 193	droit
+T9	LIVB 259 265	enfant
+T10	DISO 302 318	dyspnée profonde
+T11	TEMP 328 349	depuis plusieurs mois
+T12	DISO 380 399	traumatisme fébrile
+T13	LIVB 401 404	ses
+T14	PHEN 405 427	réflexes ostéo-nerveux
+T15	ANAT 414 427	ostéo-nerveux
+T16	DEVI 453 471	doigts électriques
+T17	DISO 484 549	œdème jugulo-carotidien basithoracique cervico-bronchodorsiflexis
+T19	DISO 564 654	épanchement péricardique latéro-latéral médiastin pariétal thoracique hypohypersignal MIBI
+T21	MEAS 679 684	10 cm
+T22	MEAS 688 692	5 cm
+T23	PROC 698 733	tomodensitométrie abdominopelvienne
+T24	ANAT 716 733	abdominopelvienne
+T28	DISO 944 985	distension grêlo-pancréatique infiltrante
+T29	ANAT 955 985	grêlo-pancréatique infiltrante

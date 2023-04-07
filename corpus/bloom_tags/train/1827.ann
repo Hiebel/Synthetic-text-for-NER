@@ -1,0 +1,35 @@
+T1	LIVB 20 28	patiente
+T2	PROC 46 51	reçue
+T3	Hospital 55 62	urgence
+T4	DISO 81 106	insuffisance respiratoire
+T5	PHEN 94 106	respiratoire
+T6	Concept_Idea 116 135	pression artérielle
+T7	ANAT 125 135	artérielle
+T8	MEAS 138 147	70/40mmHg
+T9	PROC 151 165	interrogatoire
+T10	LIVB 185 193	patiente
+T11	PROC 204 211	traitée
+T12	CHEM 220 253	anti-inflammatoires nonstéroïdien
+T13	DOSE 255 258	1mg
+T14	TEMP 258 260	/j
+T15	CHEM 268 280	méthotrexate
+T16	DOSE 282 289	2 mg/kg
+T17	TEMP 289 291	/j
+T18	PROC 298 307	admission
+T19	Hospital 311 344	service d'opto-rhino-laryngologie
+T20	DISO 366 403	œdème cutanéo-muqueux laryngopharyngé
+T21	ANAT 372 403	cutanéo-muqueux laryngopharyngé
+T22	TEMP 413 426	depuis 9 mois
+T23	PROC 431 447	bilan biologique
+T24	DISO 459 472	particularité
+T25	PROC 475 494	protéine C-réactive
+T26	MEAS 496 506	1285 UI/ml
+T27	PROC 508 528	hyperglycérinorachie
+T28	MEAS 530 539	160 mg/dl
+T29	PROC 541 552	leucorachie
+T30	MEAS 554 572	15300 éléments/mm3
+T31	PROC 575 590	globules blancs
+T32	MEAS 592 609	13800 élément/mm3
+T33	PROC 625 661	tomodensitométrie abdomino-pelvienne
+T34	ANAT 643 661	abdomino-pelvienne
+T35	DISO 694 719	localisations secondaires

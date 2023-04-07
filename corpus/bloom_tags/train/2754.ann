@@ -1,0 +1,16 @@
+T1	LIVB 3 10	patient
+T2	Concept_Idea 27 38	antécédents
+T3	MEAS 39 51	particuliers
+T4	PROC 53 63	consultait
+T5	DISO 73 103	douleurs pelviennes mécaniques
+T6	ANAT 82 92	pelviennes
+T8	ANAT 132 150	abdomino-périnéale
+T9	TEMP 160 176	depuis deux mois
+T10	PROC 180 195	examen clinique
+T11	LIVB 208 215	patient
+T12	PHEN 262 274	respiratoire
+T13	PROC 279 296	bilan d'extension
+T14	MEAS 303 310	négatif
+T15	DISO 328 353	localisations secondaires
+T16	DISO 370 402	tumeur métastatique du péritoine
+T18	ANAT 393 402	péritoine

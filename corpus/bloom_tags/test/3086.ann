@@ -1,0 +1,47 @@
+T1	LIVB 28 35	patient
+T2	PROC 60 64	reçu
+T3	Hospital 91 112	urgences pédiatriques
+T4	DISO 132 170	syndrome d'épanchement intrapéritonéal
+T5	ANAT 155 170	intrapéritonéal
+T6	DISO 176 197	détresse respiratoire
+T7	PHEN 185 197	respiratoire
+T8	DISO 213 234	déglutition purulente
+T9	TEMP 244 261	depuis deux jours
+T10	LIVB 268 271	son
+T11	PROC 272 287	hospitalisation
+T12	DISO 301 317	dyspnée d'effort
+T13	MEAS 332 343	progressive
+T14	DISO 386 399	inflammatoire
+T15	DISO 435 456	pemphysème compressif
+T16	DISO 468 490	tuberculose systémique
+T17	LIVB 502 513	jeune fille
+T18	TEMP 522 528	17 ans
+T19	PROC 568 589	échographie pelvienne
+T20	ANAT 580 589	pelvienne
+T21	DISO 610 760	anomalie hypoechogène pariétale angulo-myometriforme hétérogène kystique intravésiculaire rétrovésicale lithiasique nécrose érythémateuse prurigineuse
+T22	ANAT 793 810	organes pyéliques
+T23	DISO 828 873	épanchement météorico-interstitiel péritonéal
+T24	ANAT 840 873	météorico-interstitiel péritonéal
+T25	MEAS 883 891	4 litres
+T26	PROC 897 920	radiothérapie adjuvante
+T27	PROC 962 972	diagnostic
+T28	DISO 998 1039	carcinose ovarienne utérine polyradiculée
+T29	ANAT 1008 1039	ovarienne utérine polyradiculée
+T30	DISO 1044 1072	œstrogénoïdiome hypertrophié
+T31	DISO 1093 1118	signes histopathologiques
+T32	DISO 1177 1204	allées délirantes visuelles
+T33	MEAS 1214 1224	perméantes
+T34	DISO 1454 1477	troubles symptomatiques
+T35	PROC 1491 1535	tomodensitométrie thoraco-abdomino-pelvienne
+T36	ANAT 1509 1535	thoraco-abdomino-pelvienne
+T37	DISO 1560 1589	lésions ostéo-cartilagineuses
+T38	PROC 1631 1659	chimiothérapie néo adjuvante
+T39	PROC 1779 1795	radiologiquement
+T40	DISO 1864 1879	symptomatologie
+T41	DEVI 1917 1955	dosage sérique contraceptif artificiel
+T42	MEAS 2100 2112	plus durable
+T43	LIVB 2130 2139	patientes
+T44	PROC 2179 2216	accouchements obstétricaux somatiques
+T45	DISO 2273 2288	symptomatologie
+T46	DISO 2371 2389	conflits familiaux
+T47	DISO 2396 2424	consanguinité pathogénétique

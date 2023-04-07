@@ -1,0 +1,135 @@
+T1	PROC 2 12	traitement
+T2	CHEM 22 33	corticoïdes
+T3	CHEM 42 60	anti-inflammatoire
+T4	DISO 111 125	particularités
+T5	LIVB 130 140	nouveau-né
+T6	PROC 145 150	sorti
+T7	TEMP 153 155	J3
+T8	PROC 161 171	opératoire
+T9	MEAS 181 187	légère
+T10	Concept_Idea 204 220	tableau clinique
+T11	ANAT 233 240	abdomen
+T12	MEAS 241 249	sensible
+T13	DISO 266 272	fièvre
+T14	PROC 289 309	examen gynécologique
+T15	MEAS 323 329	normal
+T16	PHEN 334 343	grossesse
+T17	PROC 356 362	suivie
+T18	LIVB 371 378	parents
+T19	LIVB 412 420	patiente
+T20	PROC 439 461	traitement substitutif
+T21	CHEM 463 473	bléomycine
+T22	CHEM 476 507	amoxicilline acide clavulanique
+T23	CHEM 509 522	métronidazole
+T24	LIVB 534 539	homme
+T25	PROC 560 565	admis
+T26	Hospital 570 591	urgences pédiatriques
+T27	DISO 611 638	dyspnée sifflante chronique
+T28	TEMP 648 668	depuis deux semaines
+T29	PROC 681 694	rhabdomyolyse
+T30	Concept_Idea 748 760	état général
+T31	DISO 776 803	détresse respiratoire aiguë
+T32	DOSE 814 821	25mg/kg
+T33	Concept_Idea 851 874	plan neuropsychiatrique
+T34	TEMP 948 965	2 mois auparavant
+T35	LIVB 980 990	monsieur A
+T36	PROC 995 1006	hospitalisé
+T37	PROC 1021 1060	traitement antipsychotique probabiliste
+T38	CHEM 1083 1097	neuroleptiques
+T39	CHEM 1100 1113	triméthoprime
+T40	CHEM 1116 1126	isoniazide
+T41	CHEM 1129 1147	acide zolédronique
+T42	CHEM 1150 1164	céphalosporine
+T43	CHEM 1167 1176	floxacine
+T44	CHEM 1179 1190	rifampicine
+T45	CHEM 1193 1204	propranolol
+T46	CHEM 1207 1218	tétrazidime
+T47	CHEM 1221 1236	chloramphénicol
+T48	CHEM 1239 1251	pyrazinamide
+T49	CHEM 1254 1264	ethambutol
+T50	CHEM 1267 1276	halothane
+T51	CHEM 1279 1290	vincristine
+T52	CHEM 1293 1306	phénobarbital
+T53	CHEM 1309 1319	aminosides
+T54	CHEM 1356 1368	carbofuranil
+T55	CHEM 1371 1385	dexaméthoprime
+T56	CHEM 1388 1397	méthadone
+T57	CHEM 1400 1409	imipenème
+T58	CHEM 1412 1422	antalgique
+T59	CHEM 1425 1436	prégabaline
+T60	CHEM 1439 1447	aspirine
+T61	CHEM 1450 1460	metformine
+T62	CHEM 1463 1473	émollients
+T63	CHEM 1476 1484	diazépam
+T64	CHEM 1487 1515	hydroxychlorodifluorouracile
+T65	CHEM 1518 1528	carbamates
+T66	CHEM 1531 1545	catécholamines
+T67	CHEM 1548 1558	cortisones
+T68	CHEM 1561 1585	héparine acétyle sodique
+T69	CHEM 1588 1606	méthamydrocuronium
+T70	CHEM 1609 1625	cyclophosphamide
+T71	CHEM 1628 1641	noradrénaline
+T72	CHEM 1644 1659	œstradiolactone
+T73	CHEM 1662 1674	vitamine B12
+T74	CHEM 1677 1700	thiocyanate monosodique
+T75	CHEM 1703 1714	nicardipine
+T76	CHEM 1717 1735	pottazidime per os
+T77	CHEM 1738 1785	ciprofloxacine biphosphonate dietroprogestérone
+T78	CHEM 1788 1819	arythromycine méthyltransfurant
+T79	CHEM 1822 1848	aspartate aminotransférase
+T80	CHEM 1851 1861	gentamides
+T81	CHEM 1864 1880	immunoglobulines
+T82	CHEM 1883 1896	cyperméthrine
+T83	CHEM 1899 1929	progestérone perfluorooctanese
+T84	CHEM 1932 1947	calcium glucosé
+T85	CHEM 1950 1965	indométhorazine
+T86	CHEM 1968 1979	ceftriaxone
+T88	CHEM 1997 2010	cotrimoxazole
+T89	CHEM 2013 2033	palmitoyl salivaires
+T90	CHEM 2036 2048	plasma frais
+T91	CHEM 2051 2078	thyphénhydrate de potassium
+T92	CHEM 2081 2107	spironolactone chloroforme
+T93	CHEM 2110 2125	lidocavirenzyme
+T94	CHEM 2128 2140	pyrazinamide
+T95	CHEM 2143 2156	triméthoprime
+T96	CHEM 2159 2171	nitrastatine
+T97	CHEM 2174 2185	vincristine
+T98	CHEM 2188 2198	ethambutol
+T99	CHEM 2201 2218	acide nalidixique
+T100	CHEM 2221 2232	rifampicine
+T101	CHEM 2235 2245	corticoïde
+T102	CHEM 2248 2261	métronidazole
+T103	CHEM 2264 2279	sulfaméthoprime
+T104	CHEM 2282 2292	bupivacine
+T105	CHEM 2295 2305	isoniazole
+T106	PROC 2309 2315	examen
+T107	LIVB 2341 2348	patient
+T108	MEAS 2352 2355	bon
+T109	Concept_Idea 2356 2368	état général
+T110	DISO 2378 2384	fièvre
+T111	MEAS 2387 2393	36 ° C
+T112	ANAT 2399 2411	conjonctives
+T113	MEAS 2412 2433	légèrement décolorées
+T114	ANAT 2447 2460	nerf oculaire
+T115	PROC 2478 2494	examen somatique
+T116	DISO 2506 2519	particularité
+T117	DISO 2546 2584	syndrome infectieux clinico-biologique
+T118	PROC 2606 2634	dosages immunohistochimiques
+T119	PROC 2655 2679	explorations biologiques
+T120	DISO 2715 2732	hépatite virale A
+T121	LIVB 2765 2773	patiente
+T122	Hospital 2866 2899	services spécialisés pédiatriques
+T123	DISO 2922 2937	pneumomédiastin
+T124	DISO 2953 2982	lésion érythémato-encéphalite
+T125	LIVB 3031 3037	enfant
+T126	PROC 3042 3084	traitement psychothérapeutique substitutif
+T127	DEVI 3100 3137	kinésithérapeutiques thymorégulateurs
+T128	CHEM 3148 3161	polypyroidien
+T129	CHEM 3164 3184	morphine glycémicide
+T130	DOSE 3187 3195	15 mg/kg
+T131	TEMP 3195 3200	/24 h
+T132	CHEM 3202 3215	rituximabinal
+T133	CHEM 3218 3237	monoxyde de carbone
+T134	CHEM 3240 3261	chlorure de magnésium
+T135	CHEM 3267 3306	hypolipoprotétratigramine intraveineuse
+T136	PROC 3320 3339	rééducation motrice

@@ -1,0 +1,31 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	9 ans
+T3	PHEN 20 22	né
+T4	DISO 126 151	symptomatologie chronique
+T5	Concept_Idea 196 208	état général
+T6	DISO 224 242	crises convulsives
+T7	Hospital 281 299	traitement médical
+T8	CHEM 312 331	Valproate de sodium
+T9	CHEM 334 345	Ceftriaxone
+T10	CHEM 348 378	Triméthoprime /ulfaméthoxazole
+T11	PROC 392 411	bilan immunodéprimé
+T12	PROC 417 430	sérologie VIH
+T13	PROC 435 451	examen somatique
+T14	DISO 462 483	détresse respiratoire
+T15	PHEN 471 483	respiratoire
+T16	DISO 493 506	inflammatoire
+T17	DISO 545 589	douleur basithoracique basithoracique gauche
+T18	ANAT 553 589	basithoracique basithoracique gauche
+T19	Localization 583 589	gauche
+T20	MEAS 601 616	progressivement
+T21	Concept_Idea 620 629	intensité
+T22	MEAS 644 650	rapide
+T23	Concept_Idea 689 701	état général
+T24	DISO 722 731	symptômes
+T25	LIVB 762 767	frère
+T26	TEMP 775 781	10 ans
+T27	PROC 792 798	suivis
+T28	TEMP 815 820	6 ans
+T29	DISO 830 856	polyarthrite inflammatoire
+T30	MODE 862 872	voie orale
+T31	CHEM 929 940	Cyclosérine

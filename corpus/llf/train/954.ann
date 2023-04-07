@@ -1,0 +1,13 @@
+T1	LIVB 12 15	son
+T2	PROC 16 31	hospitalisation
+T3	LIVB 36 43	patient
+T4	DISO 59 77	crises
+T5	MEAS 78 86	toniques
+T6	DISO 94 103	agitation
+T7	DISO 152 168	crise
+T8	DISO 174 201	psychose
+T9	PROC 225 240	examen
+T10	DISO 273 288	symptomatologie
+T11	LIVB 292 296	elle
+T12	LIVB 315 317	sa
+T13	LIVB 318 325	famille

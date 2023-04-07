@@ -1,0 +1,29 @@
+T1	LIVB 15 22	patient
+T2	PROC 34 39	suivi
+T3	DISO 49 74	pancréatite aigue stade E
+T4	Concept_Idea 79 82	âge
+T5	TEMP 86 92	15 ans
+T6	CHEM 101 114	sulfasalazine
+T7	MODE 118 128	voie orale
+T8	DISO 179 199	tumeur du sein droit
+T9	ANAT 189 199	sein droit
+T10	Localization 194 199	droit
+T11	TEMP 209 225	depuis deux mois
+T12	PROC 229 244	examen clinique
+T13	DISO 255 277	épanchement péritonéal
+T14	ANAT 267 277	péritonéal
+T15	MEAS 280 296	environ 2 litres
+T16	DISO 309 323	particularités
+T17	PROC 328 358	bilan biologique préopératoire
+T18	PHEN 379 394	fonction rénale
+T19	ANAT 388 394	rénale
+T20	MEAS 395 402	normale
+T21	PROC 404 414	créatinine
+T22	MEAS 416 422	25mg/l
+T23	PROC 424 432	natrémie
+T24	MEAS 434 444	133 meq/m²
+T25	PROC 450 488	recherche étiologique des métrorragies
+T26	DISO 476 488	métrorragies
+T27	MEAS 497 506	négatives
+T28	DISO 524 543	diabète métabolique
+T29	DISO 556 582	pathologies gynécologiques

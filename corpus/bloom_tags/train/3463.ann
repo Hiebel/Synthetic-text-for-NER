@@ -1,0 +1,18 @@
+T1	LIVB 28 35	patient
+T2	PROC 47 52	suivi
+T3	DISO 61 82	carcinome du pancréas
+T4	ANAT 74 82	pancréas
+T5	DISO 103 119	hyperleucocytose
+T6	MEAS 122 141	12800 éléments/mm 3
+T7	PROC 146 165	bilan immunologique
+T8	MEAS 172 179	négatif
+T9	PROC 181 210	anticorps antithyroglobulines
+T10	PROC 214 224	anti PS100
+T11	PROC 231 249	sérologies virales
+T12	MEAS 258 267	négatives
+T13	CHEM 282 285	VIH
+T14	PROC 291 325	ponction liquide céphalo-rachidien
+T15	ANAT 300 325	liquide céphalo-rachidien
+T16	Concept_Idea 353 362	substance
+T17	MEAS 363 371	jaunâtre
+T18	ANAT 386 416	sinus caverneux paravertébraux

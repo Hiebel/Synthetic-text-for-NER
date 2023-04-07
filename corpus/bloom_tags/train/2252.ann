@@ -1,0 +1,13 @@
+T1	PROC 4 32	tomodensitométrie thoracique
+T2	ANAT 22 32	thoracique
+T3	DISO 48 72	épanchement péricardique
+T4	ANAT 60 72	péricardique
+T5	Localization 89 93	base
+T6	ANAT 97 134	champ pulmonaire basithoracique droit
+T7	Localization 129 134	droit
+T8	LIVB 138 144	enfant
+T9	CHEM 160 169	bupropion
+T10	DOSE 182 188	1mg/kg
+T11	TEMP 188 193	/jour
+T12	PROC 201 217	analgésie locale
+T13	MODE 222 239	voie sous-cutanée

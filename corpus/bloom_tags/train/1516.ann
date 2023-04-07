@@ -1,0 +1,81 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 57	antécédents
+T3	MEAS 58 70	particuliers
+T4	PROC 72 82	consultait
+T5	DISO 91 126	syndrome d'épanchement péricardique
+T6	ANAT 114 126	péricardique
+T7	PHEN 139 145	effort
+T8	LIVB 147 151	Elle
+T9	PROC 169 187	traitement médical
+T10	CHEM 201 212	bupivacaine
+T11	CHEM 219 230	sulfentanil
+T12	PROC 234 259	intervention chirurgicale
+T13	PROC 280 304	anesthésie locorégionale
+T14	ANAT 291 304	locorégionale
+T15	PROC 314 350	mise en place du cathéter thoracique
+T16	DEVI 331 350	cathéter thoracique
+T17	ANAT 340 350	thoracique
+T18	PROC 357 374	retrachéalisation
+T19	PROC 378 403	exploration préopératoire
+T20	DISO 421 496	dilatation globale des artères coronaires inféro-ventriculaires bilatérales
+T21	ANAT 444 496	artères coronaires inféro-ventriculaires bilatérales
+T22	Localization 485 496	bilatérales
+T23	DISO 526 550	épanchement péricardique
+T24	ANAT 538 550	péricardique
+T25	Hospital 595 603	urgences
+T26	DISO 629 680	coronaropathie ischémique aiguée thromboembolisante
+T27	DISO 695 726	insuffisance cardio-vasculaires
+T28	ANAT 708 726	cardio-vasculaires
+T29	TEMP 826 834	immédiat
+T30	MEAS 845 853	2 litres
+T31	DISO 880 901	détresse respiratoire
+T32	PHEN 889 901	respiratoire
+T33	MEAS 911 925	plus accentuée
+T34	MODE 978 983	bolus
+T35	DOSE 987 994	1 mg/kg
+T36	CHEM 998 1008	furosémide
+T37	LIVB 1043 1051	patiente
+T38	DISO 1123 1159	hypertension artérielle hypertensive
+T39	ANAT 1136 1159	artérielle hypertensive
+T40	TEMP 1169 1180	depuis 1 an
+T41	Concept_Idea 1216 1231	acuité visuelle
+T42	DISO 1332 1356	empyème jugulo-caverneux
+T43	ANAT 1340 1356	jugulo-caverneux
+T44	MEAS 1509 1519	0,5 litres
+T45	DISO 1581 1635	thrombose sous-diaphragmatique superficielle angineuse
+T48	PROC 1690 1719	prélèvements bactériologiques
+T49	MEAS 1736 1744	négatifs
+T50	PROC 1749 1779	échographie abdomino pelvienne
+T51	ANAT 1761 1779	abdomino pelvienne
+T53	MEAS 1916 1920	4 cm
+T54	Concept_Idea 1924 1933	grand axe
+T55	ANAT 1968 1985	utérus abdominaux
+T56	MEAS 1997 2012	progressivement
+T57	Concept_Idea 2016 2022	taille
+T58	MEAS 2033 2038	10 mm
+T59	MEAS 2041 2045	12mm
+T60	MEAS 2062 2072	rapidement
+T61	Concept_Idea 2076 2082	volume
+T62	MEAS 2094 2098	30cc
+T63	MEAS 2101 2106	100cc
+T64	Concept_Idea 2128 2136	contours
+T65	MEAS 2137 2146	réguliers
+T66	MEAS 2173 2182	lentement
+T67	Concept_Idea 2186 2192	taille
+T68	MEAS 2203 2218	progressivement
+T69	Concept_Idea 2222 2229	couleur
+T70	DISO 2255 2298	adénopathies ganglionnaires cervicomotrices
+T71	ANAT 2268 2298	ganglionnaires cervicomotrices
+T72	Concept_Idea 2321 2327	marges
+T73	MEAS 2336 2343	simples
+T74	DISO 2350 2387	lésions ostéo-métastatiques kystiques
+T75	ANAT 2461 2475	endometridiens
+T76	DISO 2672 2701	organométastases compressives
+T77	ANAT 2712 2739	parathyroïdienne pituitaire
+T78	DISO 2832 2859	épanchement intrapéritonéal
+T79	ANAT 2844 2859	intrapéritonéal
+T80	PROC 2863 2878	examen clinique
+T81	LIVB 2891 2898	patient
+T82	Concept_Idea 2923 2941	plan hémodynamique
+T83	PHEN 2945 2957	respiratoire
+T84	DISO 2970 2984	particularités

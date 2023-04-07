@@ -1,0 +1,19 @@
+T1	PROC 4 26	biopsie du nasopharynx
+T2	ANAT 15 26	nasopharynx
+T3	PROC 47 73	examen anatomopathologique
+T4	DISO 98 128	prolifération tumorale maligne
+T5	MEAS 138 145	petites
+T6	LIVB 227 235	patiente
+T7	PROC 252 280	antibiothérapie probabiliste
+T8	CHEM 282 313	amoxicilline-acide clavulanique
+T9	DOSE 315 320	50 mg
+T10	TEMP 320 322	/j
+T11	CHEM 325 335	céfotaxime
+T12	DOSE 337 342	25 mg
+T13	TEMP 342 344	/j
+T14	CHEM 349 362	triméthoprime
+T15	DOSE 364 369	20 mg
+T16	TEMP 369 371	/j
+T17	PHEN 378 400	suites postopératoires
+T18	MEAS 409 416	simples
+T19	TEMP 434 440	3 mois

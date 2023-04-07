@@ -1,0 +1,41 @@
+T1	LIVB 29 37	patiente
+T2	DISO 58 83	antécédents pathologiques
+T3	MEAS 84 96	particuliers
+T4	DISO 125 132	diabète
+T5	DISO 138 158	hypercholestérolémie
+T7	ANAT 189 202	épigastriques
+T8	DISO 212 225	inflammatoire
+T9	TEMP 235 251	depuis deux mois
+T10	PROC 260 274	interrogatoire
+T11	Concept_Idea 310 322	état général
+T12	PROC 326 341	examen clinique
+T13	LIVB 359 367	patiente
+T14	Concept_Idea 382 400	plan hémodynamique
+T15	PHEN 402 414	respiratoire
+T16	PHEN 418 426	digestif
+T17	DISO 431 442	polypnéique
+T18	MEAS 485 489	40°C
+T19	DISO 519 543	sensibilité épigastrique
+T20	ANAT 531 543	épigastrique
+T21	MEAS 556 567	progressive
+T22	MEAS 577 585	brulante
+T23	LIVB 626 634	patiente
+T24	DISO 661 699	syndrome d’épanchement intrapéritonéal
+T25	ANAT 684 699	intrapéritonéal
+T26	DISO 703 728	tissulaire péripéritonéal
+T27	DISO 750 766	signes cliniques
+T28	DISO 781 813	défense abdominale hypogastrique
+T29	ANAT 789 813	abdominale hypogastrique
+T30	MEAS 915 930	progressivement
+T31	Concept_Idea 934 940	taille
+T32	DISO 957 986	cranialgies sensitivomotrices
+T33	MEAS 1001 1007	rapide
+T34	DISO 1020 1051	ictère cutanéo-muqueux purulent
+T35	CHEM 1138 1169	amoxicilline-acide clavulanique
+T36	CHEM 1172 1200	ceftriaxone-érythrométhasone
+T37	DEVI 1222 1239	sonde vésiculaire
+T38	ANAT 1228 1239	vésiculaire
+T39	DISO 1260 1282	souffrance intestinale
+T40	ANAT 1271 1282	intestinale
+T41	Hospital 1319 1346	militaire interventionnelle
+T42	MODE 1378 1389	injectables

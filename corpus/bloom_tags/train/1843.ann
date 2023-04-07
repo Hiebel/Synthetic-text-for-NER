@@ -1,0 +1,38 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 38 43	9 ans
+T3	Concept_Idea 50 75	antécédents pathologiques
+T4	MEAS 76 84	notables
+T5	PROC 86 92	admise
+T6	Hospital 97 105	urgences
+T7	DISO 115 136	détresse respiratoire
+T8	PHEN 124 136	respiratoire
+T9	DISO 151 165	amaigrissement
+T10	MEAS 176 180	2 kg
+T11	TEMP 194 203	24 heures
+T12	PROC 221 235	interrogatoire
+T13	LIVB 239 250	jeune femme
+T14	DISO 269 313	empyème suscarpino-épiglottique hypertrophié
+T16	MEAS 329 344	progressivement
+T17	Concept_Idea 351 357	taille
+T18	MEAS 361 364	6cm
+T19	TEMP 374 387	depuis 6 mois
+T20	PROC 392 410	scanner thoracique
+T21	ANAT 400 410	thoracique
+T22	DISO 427 502	lésion tissulaire lithiasique du tissu suscarpino épiglottique hypertrophié
+T24	MEAS 512 517	12 cm
+T25	Concept_Idea 521 530	grand axe
+T26	Concept_Idea 559 566	contenu
+T27	PROC 581 611	échographie abdomino-pelvienne
+T28	ANAT 593 611	abdomino-pelvienne
+T29	DISO 625 664	sténose grêlique grêlique hypogastrique
+T30	ANAT 633 664	grêlique grêlique hypogastrique
+T31	PROC 685 694	injection
+T32	CHEM 698 718	produit de contraste
+T33	DEVI 742 762	bandelettes plâtrées
+T34	DISO 883 904	anomalie neurologique
+T35	DISO 908 915	maligne
+T36	PROC 1177 1190	TDM pelvienne
+T37	ANAT 1181 1190	pelvienne
+T38	PROC 1244 1266	résection chirurgicale
+T39	DISO 1295 1314	masse bourgeonnante
+T40	DISO 1362 1373	tuméfaction

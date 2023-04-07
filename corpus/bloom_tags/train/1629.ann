@@ -1,0 +1,34 @@
+T1	LIVB 4 9	femme
+T2	PROC 16 22	admise
+T3	Hospital 27 35	urgences
+T4	DISO 44 110	syndrome d'épanchement intrarachidien liquidien cervico péritonéal
+T5	ANAT 67 110	intrarachidien liquidien cervico péritonéal
+T6	TEMP 120 137	depuis deux jours
+T7	DISO 153 160	trismus
+T8	DISO 166 205	hypopigmentation des membres inférieurs
+T9	ANAT 187 205	membres inférieurs
+T10	PROC 210 224	bilan clinique
+T11	Concept_Idea 236 247	température
+T12	MEAS 250 254	38°C
+T13	PHEN 262 271	tolérance
+T14	DISO 311 332	détresse respiratoire
+T15	PHEN 320 332	respiratoire
+T16	MEAS 347 354	brutale
+T17	DISO 368 400	hématurie purulente prurigineuse
+T18	DISO 433 441	kystique
+T19	DISO 447 469	épanchement péritonéal
+T20	ANAT 459 469	péritonéal
+T21	PROC 488 503	hospitalisation
+T22	CHEM 509 522	noradrénaline
+T23	CHEM 524 537	sulfasalazine
+T24	DOSE 539 545	1mg/kg
+T25	TEMP 545 551	/heure
+T26	CHEM 554 568	hydrocortisone
+T27	DOSE 570 576	100 mg
+T28	TEMP 576 578	/j
+T29	CHEM 581 593	nicardiprine
+T30	DOSE 595 604	0,5 µg/kg
+T31	TEMP 604 606	/h
+T32	CHEM 609 619	furosémide
+T33	DOSE 621 628	2 mg/kg
+T34	TEMP 628 630	/j

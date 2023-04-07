@@ -1,0 +1,39 @@
+T1	LIVB 29 37	patiente
+T2	DISO 95 129	carcinose ovarienne polymyomateuse
+T3	ANAT 105 129	ovarienne polymyomateuse
+T4	PROC 147 171	chimiothérapie adjuvante
+T5	MODE 176 186	voie orale
+T6	CHEM 197 207	cisplatine
+T7	CHEM 209 221	carboplatine
+T8	CHEM 223 236	dexaméthasone
+T9	CHEM 238 249	vinblastine
+T10	CHEM 251 261	paclitaxel
+T11	CHEM 263 275	doxorubicine
+T12	CHEM 277 288	Cyclosérine
+T13	CHEM 290 306	hydrocortisolone
+T14	CHEM 309 318	docetaxel
+T15	CHEM 320 331	trastuzumab
+T16	CHEM 333 345	capécitabine
+T17	CHEM 347 358	Epirubicine
+T18	CHEM 360 370	mitomycine
+T19	CHEM 372 392	Rifoxyciprofloxacine
+T20	CHEM 394 405	Ceftriaxone
+T21	CHEM 407 418	Ethionamide
+T22	CHEM 420 433	Bromocriptine
+T23	CHEM 435 445	Amiodarone
+T24	CHEM 447 467	Sulfanyl méthoxazole
+T25	DOSE 469 474	500mg
+T26	DOSE 477 483	400 mg
+T27	CHEM 486 504	etho-sulfasalazine
+T28	CHEM 517 552	anti-inflammatoires non stéroïdiens
+T29	CHEM 541 552	stéroïdiens
+T30	CHEM 555 574	méthyleprednisolone
+T31	DOSE 575 582	1 mg/kg
+T32	CHEM 584 598	sulfaphentanil
+T33	DOSE 599 607	20 µg/kg
+T34	CHEM 610 620	furosémide
+T35	DOSE 621 629	0,5µg/kg
+T36	PROC 635 659	scanner abdomino-pelvien
+T37	ANAT 643 659	abdomino-pelvien
+T38	DISO 673 725	hernie intestinale grêlique bilithiasique incarcérée
+T40	MEAS 737 752	progressivement

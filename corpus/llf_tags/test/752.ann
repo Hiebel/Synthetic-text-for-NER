@@ -1,0 +1,58 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 71	antécédents pathologiques
+T3	MEAS 72 80	notables
+T4	PROC 91 100	consultée
+T5	DISO 110 128	tumeur du pancréas
+T6	ANAT 120 128	pancréas
+T7	TEMP 138 151	depuis 4 mois
+T8	PROC 155 170	examen clinique
+T9	Concept_Idea 182 193	température
+T10	MEAS 196 200	37°C
+T11	DISO 210 222	vomissements
+T12	DISO 229 243	amaigrissement
+T13	MEAS 254 257	2kg
+T14	TEMP 261 267	1 mois
+T15	PROC 283 298	examen physique
+T16	DISO 308 322	particularités
+T17	DISO 340 361	syndrome hémorragique
+T18	DISO 368 382	déficit moteur
+T19	PROC 387 404	tomodensitométrie
+T20	PROC 406 429	TDM) cervico-thoracique
+T21	ANAT 411 429	cervico-thoracique
+T22	DISO 455 470	lésion kystique
+T23	DISO 480 510	processus lésionnel ischémique
+T24	ANAT 519 547	région cervicale postérieure
+T25	Localization 536 547	postérieure
+T26	ANAT 569 601	aires ganglionnaires thoraciques
+T27	MEAS 610 618	normales
+T28	MEAS 651 658	simples
+T29	PROC 664 683	anesthésie générale
+T30	PROC 697 736	trachéotomie exploratrice scanno-guidée
+T31	PROC 787 804	bilan étiologique
+T32	PROC 816 841	étude anatomopathologique
+T33	DISO 863 951	adénocarcinome pléomorphe myxoïde infiltrant cavernicole anévrysmocytaire type IgG/IIaBK
+T34	MEAS 959 963	ACR+
+T35	Concept_Idea 1025 1044	aspect histologique
+T36	LIVB 1096 1100	nous
+T37	DISO 1119 1228	léiomyosarcome mucineux érythroblastique carcinomateux lobulé hypokinétique maligne monoangioïde endocrinoïde
+T38	ANAT 1262 1272	rein droit
+T39	Localization 1267 1272	droit
+T40	MEAS 1281 1285	5 cm
+T41	Concept_Idea 1289 1297	diamètre
+T42	Concept_Idea 1311 1318	hauteur
+T43	MEAS 1328 1333	17 mm
+T44	PHEN 1375 1384	grossesse
+T45	LIVB 1460 1466	garçon
+T46	TEMP 1474 1484	9 semaines
+T47	LIVB 1540 1550	Monsieur B
+T48	LIVB 1569 1572	son
+T49	LIVB 1573 1586	belle-famille
+T50	LIVB 1667 1669	il
+T51	CHEM 1683 1701	céfotaxime glucose
+T52	PROC 1834 1853	traitement adjuvant
+T53	DISO 1875 1905	récidive tumorale métastatique
+T54	DISO 1943 1967	anomalies hématologiques
+T55	LIVB 2008 2024	frères maternels
+T56	Concept_Idea 2076 2097	période thérapeutique
+T57	Concept_Idea 2127 2142	soins prénataux
+T58	Hospital 2165 2197	médecin obstétricien pédiatrique

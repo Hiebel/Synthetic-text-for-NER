@@ -1,0 +1,41 @@
+T1	LIVB 28 35	patient
+T2	DISO 56 81	antécédents pathologiques
+T3	MEAS 82 90	notables
+T4	PROC 92 97	admis
+T5	Hospital 102 110	urgences
+T6	DISO 119 169	syndrome d’épanchement péricardique inféro-latéral
+T8	DISO 181 194	dyspnée aigue
+T9	MEAS 209 220	progressive
+T10	TEMP 230 244	depuis 3 jours
+T11	PROC 249 271	radiographie du thorax
+T12	ANAT 265 271	thorax
+T13	DISO 288 335	distension basithoracique latérale homoclinique
+T15	Localization 323 335	homoclinique
+T16	MEAS 346 352	minime
+T17	PROC 380 403	injection intraveineuse
+T18	CHEM 407 427	produit de contraste
+T19	MEAS 439 454	progressivement
+T20	Concept_Idea 458 464	taille
+T21	ANAT 480 511	hémidiaphragme thoracique droit
+T22	Localization 506 511	droit
+T23	MEAS 521 536	circonférentiel
+T24	DISO 552 558	fièvre
+T25	MEAS 570 574	38°c
+T26	DISO 590 640	paralysie surrénalienne hypocholinestéraminergique
+T27	ANAT 600 640	surrénalienne hypocholinestéraminergique
+T28	DISO 660 756	opacités médiastinales angulo-ventriculaires basithoraciques cervico-parenchymateuses tissulaire
+T30	MEAS 770 777	brutale
+T31	DISO 799 837	nodules pulmonaires hyper vascularisés
+T32	ANAT 807 837	pulmonaires hyper vascularisés
+T33	MEAS 862 870	12/10 cm
+T34	MEAS 874 882	14/10 cm
+T35	DISO 895 922	polynucléaires érythémateux
+T36	PROC 935 959	scanner abdomino-pelvien
+T37	ANAT 943 959	abdomino-pelvien
+T39	DISO 1000 1008	kystique
+T40	DISO 1029 1076	particularité ostéo-cartilagineuse nécromateuse
+T41	DISO 1102 1123	atteinte épigastrique
+T42	ANAT 1111 1123	épigastrique
+T43	DISO 1140 1172	volvulus périthoracique primitif
+T44	DISO 1220 1238	thrombose cœliaque
+T45	PROC 1351 1387	traitement antalgique per opératoire

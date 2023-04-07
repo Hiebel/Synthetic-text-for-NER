@@ -1,0 +1,47 @@
+T1	LIVB 4 12	patiente
+T2	Concept_Idea 34 45	antécédents
+T3	MEAS 46 58	particuliers
+T4	PROC 65 71	admise
+T5	Hospital 76 84	urgences
+T6	DISO 94 1380	douleurs abdomino-pelviennes d'aggravation rapide. L'examen clinique trouvait une patiente stable sur le plan hémodynamique sous 1mg/kg d'hydroxyzine par voie orale associée à un cathéter veineux péridurale au niveau du flanc droit.
+L'échographie abdomino- pelvienne (ECGPO) objectivait une grossesse utérine évoluant depuis deux mois avec notion de bradycardie obstétricale isolée apparue alors qu'elle n'avait jamais présenté ces symptômes neurologiques ni autres troubles sensitivo-moteurs ou neurodépressifs ; ce qui était évocateur d'une grossesse gémellaire mono-vésiculaire choriorésistante non résolutive estimée à 32 SA marquée par les mêmes facteurs déclenchants que celui utilisée dans cette consultation prénatale : absence d'antécédents personnels familiaux consanguinité néphrotomie in utéro-transfusion sanguine antibiocoelioscopies pédiculées décaméthasone céphalosulfasalazine Ceftriaxone, voie orale: 20 mg/kg/jour associé à l'association bêtaméthasone + methylprednisolone). Le bilan biologique préopératoire avait montré une natrémie corrigée à 135 meq /mmHg; une hyperkaliémie à 2,5 meq/l associant l'hémoglobine glyquée après régime pauvre en chliaquates iodés accélérée à 9,1% mais ne comportant pas d'autres anomalies telles qu'un épanchement péricardique gazeux
+T7	ANAT 103 122	abdomino-pelviennes
+T8	MEAS 137 143	rapide
+T9	PROC 147 162	examen clinique
+T10	LIVB 176 184	patiente
+T11	Concept_Idea 199 217	plan hémodynamique
+T12	DOSE 223 229	1mg/kg
+T13	CHEM 232 243	hydroxyzine
+T14	DEVI 273 300	cathéter veineux péridurale
+T15	ANAT 282 300	veineux péridurale
+T16	ANAT 314 325	flanc droit
+T17	Localization 320 325	droit
+T18	PROC 329 360	échographie abdomino- pelvienne
+T19	ANAT 341 360	abdomino- pelvienne
+T20	PROC 362 367	ECGPO
+T21	PHEN 385 402	grossesse utérine
+T22	ANAT 395 402	utérine
+T23	TEMP 412 428	depuis deux mois
+T24	DISO 444 468	bradycardie obstétricale
+T25	LIVB 493 497	elle
+T26	DISO 526 549	symptômes neurologiques
+T27	DISO 560 586	troubles sensitivo-moteurs
+T28	DISO 590 605	neurodépressifs
+T29	MEAS 717 722	32 SA
+T30	PROC 797 819	consultation prénatale
+T31	CHEM 988 999	Ceftriaxone
+T32	MODE 1001 1011	voie orale
+T33	DOSE 1013 1021	20 mg/kg
+T34	TEMP 1021 1026	/jour
+T35	CHEM 1051 1064	bêtaméthasone
+T36	CHEM 1067 1085	methylprednisolone
+T37	PROC 1091 1121	bilan biologique préopératoire
+T38	PROC 1139 1156	natrémie corrigée
+T39	MEAS 1159 1172	135 meq /mmHg
+T40	PROC 1178 1191	hyperkaliémie
+T41	MEAS 1194 1203	2,5 meq/l
+T42	PROC 1242 1276	régime pauvre en chliaquates iodés
+T43	MEAS 1289 1293	9,1%
+T44	DISO 1326 1335	anomalies
+T45	DISO 1349 1373	épanchement péricardique
+T46	ANAT 1361 1373	péricardique

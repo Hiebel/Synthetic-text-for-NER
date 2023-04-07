@@ -1,0 +1,103 @@
+T1	LIVB 2 7	homme
+T2	DISO 39 51	pathologique
+T3	MEAS 52 63	particulier
+T4	PROC 70 77	adressé
+T5	Hospital 81 100	service d'oncologie
+T6	Hospital 104 116	CHU Yopougon
+T7	PROC 125 142	bilan étiologique
+T8	PROC 146 172	examen anatomopathologique
+T9	DISO 188 217	tuberculose abdominopelvienne
+T10	ANAT 200 217	abdominopelvienne
+T11	PROC 224 236	colonoscopie
+T12	MEAS 253 260	normale
+T13	PROC 266 290	chimiothérapie adjuvante
+T14	CHEM 296 308	tamoxifenème
+T15	DOSE 310 314	60mg
+T16	TEMP 314 316	/j
+T17	CHEM 319 330	rifampicine
+T18	DOSE 332 337	20 mg
+T19	TEMP 337 339	/j
+T20	CHEM 344 354	isoniazide
+T21	DOSE 356 359	5µg
+T22	TEMP 359 361	/j
+T23	PROC 411 432	mesures paracliniques
+T24	Concept_Idea 461 469	résultat
+T25	MEAS 470 482	satisfaisant
+T26	LIVB 491 503	dermatologue
+T27	PROC 508 531	contrôle postopératoire
+T28	DISO 553 574	récidive neurologique
+T29	DISO 578 588	métaplasie
+T30	DISO 604 620	signe infectieux
+T31	ANAT 629 657	nerf laryngé inférieur droit
+T32	Localization 652 657	droit
+T33	DISO 675 699	trouble sensitivo-moteur
+T34	DISO 727 746	lésion ostéolytique
+T35	ANAT 762 780	parois anéchogènes
+T36	PROC 785 824	TDM cervico-thoraco- abdomino-pelvienne
+T37	ANAT 789 824	cervico-thoraco- abdomino-pelvienne
+T38	MEAS 837 844	normale
+T39	DISO 872 878	tumeur
+T40	PROC 948 976	anticoagulation chirurgicale
+T41	PROC 1000 1024	laparotomie exploratrice
+T42	PROC 1038 1079	néphrectomie totale élargie scanno-guidée
+T43	ANAT 1098 1144	nerf gastroduodéno-oesophagien supérieur droit
+T44	Localization 1139 1144	droit
+T45	PROC 1171 1205	perforation digestive extemporanée
+T46	ANAT 1224 1247	brèche pharyngo-larynge
+T47	ANAT 1287 1338	reins palpédiculés cervicaux antero-extraspectoraux
+T48	PHEN 1343 1359	reflexes faciaux
+T49	MEAS 1386 1398	complètement
+T50	DISO 1399 1407	calcifié
+T51	MEAS 1444 1454	favorables
+T52	DISO 1482 1507	surinfections secondaires
+T53	DISO 1540 1556	maladie cœliaque
+T54	DISO 1563 1584	méningite infectieuse
+T55	DISO 1591 1620	symptômes psychotiques aigues
+T56	Concept_Idea 1653 1665	état général
+T57	PROC 1838 1891	bloc analgésique intraveineux axillaire préopératoire
+T58	PROC 1920 1942	traitement substitutif
+T59	DISO 1966 1995	symptômes psychotiques aigues
+T60	PROC 2009 2037	prise en charge diagnostique
+T61	DISO 2134 2165	constipations aiguës chroniques
+T62	PROC 2204 2223	examens biologiques
+T63	MEAS 2247 2268	correctement positifs
+T64	PROC 2289 2308	anticorps anti HHV8
+T65	MEAS 2322 2330	négatifs
+T66	PROC 2345 2371	scanner transoesophagienne
+T67	ANAT 2353 2371	transoesophagienne
+T68	Concept_Idea 2496 2522	caractères morphométriques
+T69	MEAS 2559 2564	10 mm
+T70	MEAS 2567 2571	2 cm
+T71	MEAS 2577 2589	0,6 mEq / ml
+T72	MEAS 2592 2600	154 UI/L
+T73	DOSE 2737 2743	300 mg
+T74	TEMP 2743 2745	/j
+T75	LIVB 2753 2761	patiente
+T76	PROC 2783 2814	remplissage naso-gastroduodénal
+T77	ANAT 2795 2814	naso-gastroduodénal
+T78	DEVI 2822 2836	fil résorbable
+T79	PROC 2847 2864	mise en condition
+T80	TEMP 2876 2879	24h
+T81	PROC 2888 2913	drainage du bronchogramme
+T82	ANAT 2900 2913	bronchogramme
+T83	DISO 2980 3026	troubles hydro-éléctrolytiques postopératoires
+T84	Concept_Idea 3064 3086	limites physiologiques
+T85	Concept_Idea 3113 3124	température
+T86	Concept_Idea 3132 3150	état hémodynamique
+T87	PROC 3154 3181	examen anatomo-pathologique
+T88	MEAS 3194 3209	peu contributif
+T89	DISO 3247 3268	syndrome hémorragique
+T90	DISO 3278 3298	anomalie métabolique
+T91	DISO 3329 3346	récidive tumorale
+T92	ANAT 3360 3397	compartiment mésentérique sous cutané
+T93	DISO 3411 3442	hyperparathormonéphrose myxoide
+T94	PROC 3469 3491	thyroïdectomédiastinal
+T95	PROC 3497 3525	corticothérapie probabiliste
+T96	PROC 3558 3583	oxygénothérapie adjuvante
+T97	DISO 3613 3634	récidive malformative
+T98	LIVB 3643 3650	patient
+T99	PROC 3655 3677	TDM abdomino-pelvienne
+T100	ANAT 3659 3677	abdomino-pelvienne
+T102	Localization 3792 3797	extra
+T104	Localization 3850 3928	homolatérale supérieure transborderline controlatérale postéro-latérale gauche
+T105	MEAS 3972 3976	20mm

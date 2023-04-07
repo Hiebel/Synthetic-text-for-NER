@@ -1,0 +1,26 @@
+T1	LIVB 15 22	patient
+T3	ANAT 77 87	artérielle
+T4	DISO 120 139	dyspnée obstructive
+T5	MEAS 154 165	progressive
+T6	CHEM 171 198	médiastycorticoïdes inhalés
+T7	DISO 214 236	troubles ventilatoires
+T8	TEMP 249 262	depuis 2 mois
+T9	LIVB 271 273	il
+T10	PROC 284 295	hospitalisé
+T11	Hospital 300 340	Cliniques Universitaires Ibn Sina de Fès
+T12	ANAT 367 392	intrapéritonéal liquidien
+T13	DISO 422 443	détresse respiratoire
+T14	PHEN 431 443	respiratoire
+T15	MEAS 458 469	progressive
+T16	DISO 522 544	tuberculose systémique
+T17	DISO 557 588	hyperhydratation péripulmonaire
+T18	PROC 698 732	traitement antibacillaire adjuvant
+T19	CHEM 785 799	Céphalosporine
+T20	CHEM 800 812	Pyrazinamide
+T21	PROC 845 883	radiothérapie palliative locorégionale
+T22	DISO 923 950	craniosténose neurovaginale
+T23	PROC 987 1007	immuno-histochimique
+T24	PROC 1010 1029	examen radiologique
+T25	DISO 1046 1058	hypokaliémie
+T26	DISO 1074 1105	distension ventriculaire droite
+T28	Localization 1099 1105	droite

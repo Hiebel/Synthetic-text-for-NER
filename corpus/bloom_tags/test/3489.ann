@@ -1,0 +1,29 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	DISO 45 66	perte de connaissance
+T4	DISO 96 102	fièvre
+T5	TEMP 112 125	depuis 6 mois
+T6	DISO 150 167	céphalées fébrile
+T7	CHEM 181 195	neuroleptiques
+T8	Concept_Idea 233 251	état hémodynamique
+T9	CHEM 303 314	ceftriaxone
+T10	CHEM 317 332	rifaméthoxazole
+T11	DOSE 334 336	1g
+T12	TEMP 337 339	/j
+T13	CHEM 342 355	metronidazole
+T14	DOSE 356 362	1000mg
+T15	MODE 363 368	bolus
+T16	TEMP 369 385	pendant 10 jours
+T17	CHEM 410 423	cisatracurium
+T18	CHEM 426 434	dextrane
+T19	CHEM 437 449	prédnisolone
+T20	DOSE 450 458	20 mg/kg
+T21	TEMP 459 478	toutes les 8 heures
+T22	DEVI 493 511	bandage thoracique
+T23	ANAT 501 511	thoracique
+T24	DISO 529 543	toux sifflante
+T25	Localization 649 655	droite
+T26	PROC 660 685	intervention chirurgicale
+T27	PROC 706 730	anesthésie locorégionale
+T28	ANAT 717 730	locorégionale
+T29	PROC 737 821	curage liquidien pariétal inféro-latéral laryngo-tracheo médiastinal scannographique

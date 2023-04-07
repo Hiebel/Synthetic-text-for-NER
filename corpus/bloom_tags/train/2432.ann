@@ -1,0 +1,24 @@
+T1	LIVB 16 21	femme
+T2	DISO 59 82	hypertension artérielle
+T3	ANAT 72 82	artérielle
+T4	DISO 88 109	dysthyroïdie primaire
+T5	MODE 115 125	voie orale
+T6	CHEM 138 174	inhibiteur de l'enzyme de conversion
+T7	CHEM 176 196	hydrochlorocortisone
+T8	PROC 201 220	bilan préopératoire
+T9	PROC 238 257	hémoglobine glyquée
+T10	MEAS 260 268	0,97 g/l
+T11	DEVI 298 327	cathéter veineux périphérique
+T12	ANAT 307 327	veineux périphérique
+T13	ANAT 344 376	paroi thoracique latérale droite
+T14	Localization 370 376	droite
+T15	PROC 389 453	intubation oeso-gastro- œsophagienne trans-thoracique percutanée
+T17	PROC 483 588	anesthésie locorégionale péridurale pariétale inféro-diaphragmatique controlatéralethoracique type Lippes
+T19	PROC 604 648	laparotomie médiastino-lombaire exploratrice
+T20	ANAT 616 648	médiastino-lombaire exploratrice
+T21	DISO 670 714	pancréatite stade E pancréato-interstitielle
+T22	DISO 719 746	hypoglycémie hypokaliémique
+T23	DISO 767 793	malformations congénitales
+T24	DISO 808 843	insuffisance rénale diaphragmatique
+T25	ANAT 821 843	rénale diaphragmatique
+T26	DISO 853 880	pathologie kystique maligne

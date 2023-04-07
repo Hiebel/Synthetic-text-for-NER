@@ -1,0 +1,86 @@
+T1	PROC 8 13	admis
+T2	Hospital 17 32	bloc opératoire
+T3	DISO 51 68	appendicite aiguë
+T4	DISO 86 95	dysphonie
+T5	PROC 99 123	exploration chirurgicale
+T6	DISO 135 148	particularité
+T7	LIVB 155 163	patiente
+T8	DISO 188 194	fièvre
+T9	DISO 201 215	déficit moteur
+T10	Concept_Idea 225 236	température
+T11	MEAS 239 243	37°C
+T12	PROC 249 259	inspection
+T13	ANAT 264 286	membre supérieur droit
+T14	Localization 281 286	droit
+T15	Concept_Idea 306 324	plans superficiels
+T16	ANAT 349 374	paupière inférieur gauche
+T17	Localization 368 374	gauche
+T18	ANAT 408 425	branches cutanées
+T19	PHEN 464 479	réflexes vitaux
+T20	ANAT 501 525	membres sus articulaires
+T21	Localization 509 512	sus
+T22	ANAT 535 555	nerfs médio-tarsiens
+T23	MEAS 578 587	inchangés
+T24	PROC 603 619	examen somatique
+T25	DISO 639 660	récidive pathologique
+T26	DISO 670 698	symptomatologie neurologique
+T27	PROC 703 728	scanner thoraco-abdominal
+T28	ANAT 711 728	thoraco-abdominal
+T29	PROC 743 754	transfusion
+T30	DISO 781 849	sténose cervicale hyperalvéolaire hypogastroduodénale hétérokystique
+T31	ANAT 868 882	cuisse distale
+T32	Localization 875 882	distale
+T33	MEAS 891 896	15 cm
+T34	Concept_Idea 900 909	grand axe
+T35	MEAS 919 924	10 cm
+T36	Concept_Idea 928 937	petit axe
+T37	PROC 955 979	laparotomie exploratrice
+T38	PROC 985 1004	anesthésie générale
+T39	PROC 1023 1054	reconstruction 3D scanno-guidée
+T40	DISO 1089 1172	protrusion tissulaire mésenchymateuse achilléenne liquidienne péritonéale étranglée
+T41	PROC 1191 1222	prélèvement anatomopathologique
+T42	PROC 1228 1265	cholécystectomie totale préopératoire
+T43	DISO 1288 1320	perforation lésionnelle kystique
+T44	DISO 1345 1409	adénocarcinome épidermoïde éosinophilique carcinomateux mucineux
+T45	MEAS 1417 1426	stade III
+T46	PROC 1478 1518	étude immunohistochimique complémentaire
+T47	Concept_Idea 1560 1581	résultat histologique
+T48	Concept_Idea 1620 1646	classification étiologique
+T49	Concept_Idea 1658 1684	tableau clinico-biologique
+T50	CHEM 1739 1770	amoxicilline acide clavulanique
+T51	MEAS 1779 1784	7 ème
+T52	LIVB 2661 2671	nourrisson
+T53	TEMP 2695 2702	18 mois
+T54	PHEN 2715 2724	grossesse
+T55	PROC 2729 2735	suivie
+T56	DISO 2755 2780	consanguinité congénitale
+T57	Concept_Idea 2790 2793	âge
+T58	TEMP 2797 2803	8 mois
+T59	LIVB 2811 2819	pédiatre
+T60	Hospital 2823 2856	service des urgences pédiatriques
+T61	PROC 2881 2892	hospitalisé
+T62	Hospital 2897 2915	urgences primaires
+T63	DISO 2935 2960	décrépitude psychomotrice
+T64	PROC 2990 3023	corticothérapie substitutionnelle
+T65	DOSE 3036 3043	20mg/kg
+T66	TEMP 3043 3045	/j
+T67	PROC 3061 3082	ventilation mécanique
+T68	DISO 3178 3206	troubles neuropsychiatriques
+T69	DISO 3241 3255	particularités
+T70	Concept_Idea 3263 3281	plan hémodynamique
+T71	ANAT 3285 3305	vasculo-respiratoire
+T72	LIVB 3344 3352	patiente
+T73	DISO 3410 3424	fish and chips
+T74	PROC 3659 3683	classification Ann Arbor
+T75	DEVI 3845 3868	boudin gélule cervicale
+T76	MEAS 3876 3888	2500 grammes
+T77	ANAT 3926 3945	chaînes thoraciques
+T78	MEAS 3966 3980	10 centimètres
+T79	MEAS 4006 4020	11 centimètres
+T80	MEAS 4075 4084	15 x 6 cm
+T81	MEAS 4088 4097	13 x 8 cm
+T82	Localization 4102 4126	partie supérieure droite
+T83	MEAS 4135 4148	9 millimètres
+T84	Localization 4163 4178	face antérieure
+T85	MEAS 4184 4187	6mm
+T86	PROC 4193 4248	laparotomie scanno-guidalectomie totale intrathoracique

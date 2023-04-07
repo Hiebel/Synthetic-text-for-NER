@@ -1,0 +1,44 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 106	scanner thoraco-abdomino-pelvien
+T3	ANAT 82 106	thoraco-abdomino-pelvien
+T4	DISO 145 172	atteintes cutanéo-muqueuses
+T5	ANAT 155 172	cutanéo-muqueuses
+T6	TEMP 182 195	depuis 3 mois
+T7	PROC 210 243	imagerie par résonance magnétique
+T8	PROC 245 248	IRM
+T9	PROC 255 271	bilan biologique
+T10	PROC 276 297	recherche étiologique
+T11	MEAS 399 407	négatifs
+T12	LIVB 419 427	patiente
+T13	DISO 455 488	syndrome d’épanchement péritonéal
+T14	ANAT 478 488	péritonéal
+T15	DISO 584 622	traumatisme pelvien infarcto-splénique
+T16	ANAT 596 622	pelvien infarcto-splénique
+T17	PROC 627 634	réséqué
+T18	DISO 655 672	choc hémorragique
+T19	DISO 812 837	récupération neurologique
+T20	DISO 909 934	œdème tissulaire pariétal
+T21	ANAT 915 934	tissulaire pariétal
+T22	PROC 995 1023	investigations radiologiques
+T23	PROC 1117 1143	prélémentation écho-guidée
+T24	MEAS 1158 1168	laborieuse
+T25	DISO 1349 1362	consanguinité
+T26	LIVB 1373 1379	enfant
+T27	TEMP 1405 1411	12 ans
+T28	TEMP 1508 1514	15 ans
+T29	DISO 1534 1553	symptômes cliniques
+T30	DISO 1561 1569	asthénie
+T31	DISO 1576 1597	détresse respiratoire
+T32	MEAS 1612 1642	progressivement plus accentuée
+T33	PHEN 1686 1703	grosses menstrues
+T34	DISO 1820 1829	symptômes
+T35	LIVB 1968 2016	médecins anesthésistes-réanimateurs pédiatriques
+T36	DISO 2115 2124	symptômes
+T37	PROC 2140 2156	examen somatique
+T38	DISO 2168 2181	particularité
+T39	PROC 2186 2212	tomodensitométrie du coude
+T43	Localization 2286 2291	droit
+T44	MEAS 2302 2307	70 mm
+T45	MEAS 2312 2316	75mm
+T46	Concept_Idea 2344 2353	injection
+T47	CHEM 2356 2370	hydrocéphaline

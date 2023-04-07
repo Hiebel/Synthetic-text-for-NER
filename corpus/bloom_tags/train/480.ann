@@ -1,0 +1,32 @@
+T1	LIVB 20 28	patiente
+T2	DISO 50 75	antécédents pathologiques
+T3	MEAS 76 88	particuliers
+T4	PROC 90 96	admise
+T5	Hospital 101 109	urgences
+T6	DISO 119 144	tuméfaction du col utérin
+T7	ANAT 134 144	col utérin
+T8	TEMP 154 166	depuis un an
+T9	MEAS 181 196	progressivement
+T10	Concept_Idea 200 206	volume
+T11	PROC 210 225	examen clinique
+T12	PROC 230 239	admission
+T13	LIVB 253 261	patiente
+T14	MEAS 265 268	bon
+T15	Concept_Idea 269 281	état général
+T16	PHEN 291 312	contractions utérines
+T17	ANAT 304 312	utérines
+T18	MEAS 313 321	profuses
+T19	DISO 354 373	épanchement vaginal
+T20	ANAT 366 373	vaginal
+T21	PROC 380 416	tomodensitométrie abdomino-pelvienne
+T22	ANAT 398 416	abdomino-pelvienne
+T23	DISO 434 472	lésion tissulaire hétérogène hypodense
+T24	Localization 489 509	face latérocervicale
+T25	CHEM 547 567	produit de contraste
+T26	MEAS 577 581	2 cm
+T27	Concept_Idea 585 594	grand axe
+T28	MEAS 599 603	1 mm
+T29	Concept_Idea 607 616	petit axe
+T30	PROC 622 642	biopsie chirurgicale
+T31	PROC 663 687	anesthésie locorégionale
+T32	DISO 721 749	sarcome épidermoïde kystique

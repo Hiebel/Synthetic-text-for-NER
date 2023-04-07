@@ -1,0 +1,18 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 42 52	caractères
+T3	MEAS 53 64	particulier
+T4	Hospital 84 99	bloc opératoire
+T5	TEMP 104 123	premières 24 heures
+T7	PHEN 163 172	naissance
+T8	PROC 177 184	assurée
+T9	MEAS 226 232	2930 g
+T10	LIVB 245 253	patiente
+T11	DISO 278 286	surpoids
+T12	MEAS 297 303	200 kg
+T13	TEMP 317 321	1 an
+T14	PROC 339 373	traitement chirurgical substitutif
+T15	DOSE 435 440	500ml
+T16	MODE 456 461	bolus
+T17	TEMP 462 479	pendant 48 heures
+T18	DOSE 513 520	0,5g/kg
+T19	TEMP 520 526	/heure

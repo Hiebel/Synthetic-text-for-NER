@@ -1,0 +1,20 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 67	particuliers
+T4	PROC 69 74	admis
+T5	Hospital 79 87	urgences
+T6	DISO 100 105	chute
+T7	ANAT 142 171	fosse sus-claviculaire droite
+T8	Localization 165 171	droite
+T9	LIVB 190 193	lui
+T12	PROC 289 305	bilan biologique
+T13	PHEN 322 337	fonction rénale
+T14	ANAT 331 337	rénale
+T15	MEAS 338 347	conservée
+T16	PROC 354 391	scanner cervico-corono-laryngologique
+T17	ANAT 362 391	cervico-corono-laryngologique
+T18	MEAS 398 404	normal
+T19	PROC 408 433	intervention chirurgicale
+T20	PROC 454 477	anesthésielocorégionale
+T21	ANAT 494 522	fosse susclaviculaire droite
+T22	Localization 516 522	droite

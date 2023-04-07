@@ -1,0 +1,33 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 73 78	admis
+T6	Hospital 83 104	urgences pédiatriques
+T7	DISO 113 132	traumatisme fébrile
+T8	LIVB 161 180	grand père maternel
+T9	DISO 207 218	traumatisme
+T10	PROC 237 247	extubation
+T11	Hospital 257 287	structures d'accueil d'urgence
+T12	PROC 294 312	traitement curatif
+T13	CHEM 402 419	hydroxocobalamine
+T14	Concept_Idea 475 487	état général
+T15	DISO 528 537	méningées
+T16	MEAS 552 559	majeure
+T17	MEAS 569 593	spontanément résolutives
+T18	DISO 619 632	neurofibromes
+T19	PROC 731 754	pronostic thérapeutique
+T20	PROC 767 787	prise médicamenteuse
+T21	PROC 790 821	auscultation abdomino-pelvienne
+T22	ANAT 803 821	abdomino-pelvienne
+T23	DISO 847 866	syndrome infectieux
+T24	PROC 881 902	échographie pelvienne
+T25	ANAT 893 902	pelvienne
+T26	DISO 916 976	masse polymyomateuse lithiasique érythémateuse prurigineuses
+T27	MEAS 985 989	6 cm
+T28	Concept_Idea 993 1002	grand axe
+T29	ANAT 1031 1051	cavités péritonéales
+T30	MEAS 1061 1073	environ 15cm
+T31	Concept_Idea 1077 1086	grand axe
+T32	ANAT 1117 1140	hypochondre homolatéral
+T33	Localization 1129 1140	homolatéral

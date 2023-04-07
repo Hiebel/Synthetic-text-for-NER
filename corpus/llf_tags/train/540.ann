@@ -1,0 +1,65 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 65	antécédents pathologique
+T3	MEAS 66 77	particulier
+T4	PROC 88 94	admise
+T5	Hospital 98 109	psychiatrie
+T6	DISO 119 142	agitation psychomotrice
+T7	PROC 146 161	examen clinique
+T8	LIVB 174 184	nourrisson
+T9	PHEN 189 195	décédé
+T10	Concept_Idea 200 203	âge
+T11	TEMP 207 214	10 mois
+T12	ANAT 228 247	boudin dorsal droit
+T13	Localization 242 247	droit
+T14	DISO 277 302	hallucinations délirantes
+T15	PROC 329 357	geste thérapeutique adjuvant
+T16	PROC 361 375	interrogatoire
+T17	PROC 420 432	laparoscopie
+T18	LIVB 496 504	patiente
+T19	LIVB 589 594	jeune
+T20	LIVB 595 601	malade
+T21	LIVB 824 830	enfant
+T22	DEVI 847 870	lit médicalisé portatif
+T23	LIVB 936 938	il
+T24	CHEM 970 990	corticoïdéphtalmones
+T25	DISO 1023 1045	constipation chronique
+T26	PROC 1103 1132	prise en charge psychiatrique
+T27	LIVB 1422 1425	son
+T28	LIVB 1426 1432	épouse
+T29	LIVB 1436 1438	sa
+T30	LIVB 1439 1449	belle-sœur
+T31	Concept_Idea 1498 1501	âge
+T32	TEMP 1505 1510	6 ans
+T33	LIVB 1569 1572	ses
+T34	LIVB 1573 1591	confrères consœurs
+T35	LIVB 3315 3322	patient
+T36	Concept_Idea 3356 3359	âge
+T37	PROC 3378 3401	fracture du col fémoral
+T38	ANAT 3390 3401	col fémoral
+T39	PROC 3405 3425	enquête pré anamnèse
+T40	DISO 3470 3489	accident vasculaire
+T41	PROC 3515 3535	séance thérapeutique
+T42	MEAS 3550 3554	deux
+T43	ANAT 3555 3570	troncs fessiers
+T44	DISO 3612 3635	déficit sensitivomoteur
+T45	PROC 3676 3692	cholécystectomie
+T46	PROC 3698 3718	consultation externe
+T47	DISO 3810 3822	complication
+T48	PHEN 3827 3836	grossesse
+T49	TEMP 3848 3859	12 semaines
+T50	DISO 3875 3894	contage tuberculeux
+T51	DISO 3901 3920	trouble psychotique
+T52	MEAS 3986 3993	simples
+T53	PROC 3999 4026	contrôle neuropsychiatrique
+T54	PROC 4079 4107	prise en charge radiologique
+T55	PROC 4203 4213	diagnostic
+T56	DISO 4236 4269	léiomyosarcome myxoide congénital
+T57	ANAT 4342 4369	muscles infra-métaphysaires
+T58	ANAT 4382 4402	ventricule antérieur
+T59	Localization 4393 4402	antérieur
+T60	PROC 4412 4441	classification de Jensen AIDS
+T61	LIVB 4473 4481	patients
+T62	DISO 4491 4519	maladies orphelines malignes
+T63	DISO 4534 4559	maladie de kaposi cutanée
+T64	DISO 4565 4593	dermatomyosite inflammatoire
+T65	DISO 4622 4657	neurofibromatopathies idiopathiques

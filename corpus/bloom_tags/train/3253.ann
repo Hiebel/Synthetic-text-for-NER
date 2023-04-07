@@ -1,0 +1,25 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	Concept_Idea 42 64	antécédents personnels
+T4	MEAS 65 77	particuliers
+T5	PROC 79 84	admis
+T6	Hospital 89 97	urgences
+T7	DISO 107 133	douleur abdomino-pelvienne
+T8	ANAT 115 133	abdomino-pelvienne
+T9	TEMP 143 157	depuis 3 jours
+T10	PROC 161 176	examen clinique
+T11	PROC 181 190	admission
+T12	LIVB 207 213	enfant
+T13	Concept_Idea 238 256	plan hémodynamique
+T14	PHEN 266 284	suites opératoires
+T15	MEAS 285 292	simples
+T16	ANAT 306 321	sinus ombilical
+T17	PROC 325 350	intervention chirurgicale
+T18	PROC 386 643	anastomose transpéritonéale utéro-myometriale péridurale para-lombaire paracervico-vésiculaire bilio-gastroduodéno-épiploïque iléocolique gastrorétinée abdominocoecale pancréato-appendiculaire rétro-surrénalienne hypogastrique sus-tuberculoïde scannoplanner
+T20	DISO 669 685	trajet fistulisé
+T21	ANAT 695 720	parois vaginales utérines
+T22	DISO 726 744	intradermoréaction
+T23	CHEM 754 771	dermocorticoïdien
+T24	PROC 778 802	laparotomie exploratrice
+T25	PROC 823 847	anesthésie locorégionale
+T26	ANAT 834 847	locorégionale

@@ -1,0 +1,17 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 38 44	12 ans
+T3	DISO 124 145	épilepsie monoclonale
+T4	PROC 158 182	réanimation chirurgicale
+T5	DOSE 188 194	1mg/kg
+T6	CHEM 197 208	Amiodarone®
+T7	CHEM 221 255	anti-tachycardiaques isoprénoidaux
+T8	CHEM 261 274	noradrénaline
+T9	DISO 305 338	prise médicamenteuse hypertensive
+T10	DISO 430 466	prises médicamenteuses hypertensives
+T11	DISO 480 504	hypoglycémie métabolique
+T12	MEAS 516 523	0,6g/dl
+T13	PROC 540 562	traitement substitutif
+T14	PROC 812 841	examen clinique préopératoire
+T15	DISO 872 899	souffrance cutanéo-muqueuse
+T16	ANAT 883 899	cutanéo-muqueuse
+T17	DISO 906 932	troubles sensitivomotrices

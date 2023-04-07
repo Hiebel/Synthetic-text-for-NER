@@ -1,0 +1,24 @@
+T1	LIVB 4 9	femme
+T2	DISO 42 69	pemphysème bronchopleurique
+T3	ANAT 53 69	bronchopleurique
+T4	DISO 75 107	fistule parenchymateuse laryngée
+T5	ANAT 83 107	parenchymateuse laryngée
+T6	DISO 135 162	localisations métastatiques
+T7	DISO 198 221	tumeur tumorale maligne
+T8	DISO 223 245	métastases épidermoïde
+T9	PROC 251 278	tomodensitométrie pelvienne
+T10	ANAT 269 278	pelvienne
+T11	DISO 296 330	masse tissulaire hypo-vascularisée
+T12	MEAS 340 348	24x13 mm
+T13	Concept_Idea 361 369	contours
+T14	MEAS 370 379	réguliers
+T15	ANAT 401 413	lèvre gauche
+T16	Localization 407 413	gauche
+T17	DISO 429 574	adénopathie jugulo-carotidienne hypoglandulomoïdienne latérale pariétale séro-laryngo-muido-thoracique basithoracique hétérogastro-sphinctérienne
+T19	DISO 588 660	infiltration musculaire méso-tendineuse pinguinalothoracique infiltrante
+T21	MEAS 675 690	plus évocateurs
+T22	PROC 730 761	investigations somatomégaliques
+T23	DISO 790 805	kyste hydatique
+T24	PROC 1044 1091	ponction pleurésie pleuro-rachéale exploratrice
+T25	ANAT 1053 1091	pleurésie pleuro-rachéale exploratrice
+T26	MEAS 1107 1114	normale

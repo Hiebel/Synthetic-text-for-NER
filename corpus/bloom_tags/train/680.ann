@@ -1,0 +1,64 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	3 ans
+T4	ANAT 73 95	membre supérieur droit
+T5	Localization 90 95	droit
+T6	TEMP 105 118	depuis 2 mois
+T7	DISO 134 246	syndrome d'épanchement pérituberculien liquidien pariétal basithoracique laryngolaryngo médiastinal paroxystique
+T9	DISO 265 295	inflammation cutanée purulente
+T10	DISO 323 346	symptômes neurologiques
+T11	DISO 364 386	troubles hémorragiques
+T12	PROC 413 429	examen somatique
+T13	DISO 456 475	signes fonctionnels
+T14	PROC 490 520	échographie abdomino-pelvienne
+T15	ANAT 502 520	abdomino-pelvienne
+T16	DISO 545 570	localisations nécrosantes
+T17	DISO 590 609	pathologie kystique
+T18	DISO 643 649	lésion
+T19	LIVB 667 673	enfant
+T20	PROC 742 764	traitement étiologique
+T21	PROC 786 808	imagerie préopératoire
+T22	Hospital 832 840	urgences
+T23	PROC 1098 1122	exploration chirurgicale
+T24	DISO 1136 1174	tumeur tissulaire hétérogène polylobée
+T25	MEAS 1184 1188	4 cm
+T26	Concept_Idea 1192 1201	grand axe
+T27	MEAS 1206 1210	2 cm
+T28	Concept_Idea 1214 1227	petite taille
+T29	ANAT 1248 1286	parenchyme hépato-gastro-duodéno-cæcal
+T30	MEAS 1298 1313	progressivement
+T31	Concept_Idea 1317 1323	volume
+T32	ANAT 1344 1405	structures jugulo-carotidiennes cervico-thoraciques latérales
+T33	Concept_Idea 1553 1562	grand axe
+T34	ANAT 1586 1618	parties molles para-rachidiennes
+T35	ANAT 1639 1659	organes glandulaires
+T36	ANAT 1690 1709	glande thyroïdienne
+T37	MEAS 1725 1741	de grande taille
+T38	ANAT 1776 1809	cavité cardio-latérale abdominale
+T39	Concept_Idea 1821 1827	taille
+T40	MEAS 1842 1846	70mm
+T41	MEAS 1850 1855	150mm
+T42	MEAS 1890 1906	peu vascularisée
+T43	ANAT 1935 1972	réseau artériolo-veineux périphérique
+T44	ANAT 2003 2028	coecum utéro-mésentérique
+T45	PHEN 2043 2073	fonctionnalités gynesthésiques
+T46	MEAS 2100 2108	primeure
+T47	PROC 2184 2209	c'lioscopie transvaginale
+T48	MEAS 2218 2243	macroscopiquement intacte
+T49	DEVI 2273 2286	ligaturetinée
+T50	TEMP 2327 2343	plusieurs années
+T51	DISO 2368 2402	polyradiculoneutropne myélomateuse
+T52	MEAS 2438 2445	modérée
+T53	MEAS 2517 2522	12 kg
+T54	DISO 2754 2797	paragangliome pléomorphe du sinus caverneux
+T56	DISO 2817 2848	épanchement pariétal ischémique
+T57	ANAT 2829 2848	pariétal ischémique
+T58	DISO 2865 2920	syndrome d'épanchement liquidien infarctoide péritonéal
+T59	ANAT 2888 2920	liquidien infarctoide péritonéal
+T60	PROC 2926 2941	examen clinique
+T61	LIVB 2945 2952	patient
+T62	MEAS 2962 2965	bon
+T63	Concept_Idea 2966 2978	état général
+T64	DISO 2984 3009	troubles sensitivo moteur
+T65	DISO 3013 3040	anomalies sensitivomotrices
+T66	DISO 3067 3096	ictère hémorragique purulents
+T67	DISO 3104 3125	leucorrhées bilieuses

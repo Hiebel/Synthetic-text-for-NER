@@ -1,0 +1,33 @@
+T1	LIVB 20 28	patiente
+T2	DISO 40 50	primigeste
+T3	DISO 71 95	douleur pelvienne aiguée
+T4	ANAT 79 88	pelvienne
+T5	MEAS 110 121	progressive
+T6	PHEN 166 181	acuité visuelle
+T7	DISO 187 201	amaigrissement
+T8	MEAS 212 217	14 kg
+T9	TEMP 221 230	deux mois
+T10	PROC 234 248	interrogatoire
+T11	LIVB 310 313	Son
+T12	Concept_Idea 314 319	poids
+T13	MEAS 329 334	45 kg
+T14	Concept_Idea 344 350	taille
+T15	MEAS 354 360	170 cm
+T16	DISO 376 389	consanguinité
+T17	PROC 394 416	TDM abdomino-pelvienne
+T18	ANAT 398 416	abdomino-pelvienne
+T19	DISO 450 513	épanchement intrapéritonéal latéro du dôme parathyroïdien droit
+T21	ANAT 488 513	dôme parathyroïdien droit
+T22	Localization 508 513	droit
+T23	MEAS 523 527	46mm
+T24	Concept_Idea 531 540	grand axe
+T25	DISO 555 628	adénopathies parathyroïdiens hypovolémateuses para-utérines hypoechogènes
+T27	MODE 656 665	injection
+T28	CHEM 669 680	propranolol
+T29	DOSE 682 688	1mg/kg
+T30	CHEM 691 703	prednisolone
+T31	DOSE 705 712	3 mg/kg
+T32	TEMP 712 717	/jour
+T33	CHEM 722 733	bupivacaine
+T34	DOSE 735 741	200 mg
+T35	TEMP 741 743	/j

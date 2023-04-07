@@ -1,0 +1,27 @@
+T1	LIVB 16 24	patiente
+T2	DISO 36 46	diabétique
+T3	PROC 52 70	traitement médical
+T4	PROC 82 88	admise
+T5	Hospital 92 112	service des urgences
+T6	DISO 131 145	amaigrissement
+T7	MEAS 156 161	30 kg
+T8	TEMP 165 175	trois mois
+T9	PROC 179 194	examen clinique
+T10	Concept_Idea 212 236	indice de masse corporel
+T11	MEAS 245 253	28kg/m 2
+T12	PROC 258 274	bilan infectieux
+T13	MEAS 281 288	négatif
+T14	PROC 295 319	scanner abdomino-pelvien
+T15	ANAT 303 319	abdomino-pelvien
+T16	DISO 349 406	nodule du méso-trigone péripéritonéal latéroutérin gauche
+T17	ANAT 359 406	méso-trigone péripéritonéal latéroutérin gauche
+T18	Localization 400 406	gauche
+T19	MEAS 416 420	2 cm
+T20	Concept_Idea 424 433	grand axe
+T21	MEAS 438 441	1cm
+T22	Concept_Idea 445 454	petit axe
+T23	ANAT 469 481	ovaire droit
+T24	Localization 476 481	droit
+T25	DISO 487 526	adénopathies parenchymateuses biliaires
+T26	ANAT 500 526	parenchymateuses biliaires
+T27	DISO 537 562	localisations secondaires

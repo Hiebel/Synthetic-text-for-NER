@@ -1,0 +1,114 @@
+T1	LIVB 15 22	patient
+T2	PHEN 64 76	accouchement
+T3	PROC 81 94	consanguinisé
+T4	TEMP 106 119	décembre 2010
+T5	TEMP 285 296	depuis 2ans
+T6	CHEM 389 402	antibiotiques
+T7	CHEM 413 444	Amoxicilline acide clavulanique
+T8	CHEM 446 456	Cisplatine
+T9	CHEM 458 476	acide zolédronique
+T10	CHEM 478 488	corticoïde
+T11	CHEM 490 513	amoxicilline Isoniazide
+T12	CHEM 515 527	pyrazinamide
+T13	CHEM 529 539	aminosides
+T14	CHEM 541 552	nitrofurant
+T15	CHEM 554 567	métronidazole
+T16	CHEM 569 580	vancomycine
+T17	CHEM 582 596	céphalosporine
+T18	CHEM 598 607	étoposide
+T19	CHEM 609 630	tétrazidime acaricide
+T20	CHEM 632 646	gentaméthasone
+T21	CHEM 648 658	dobutamine
+T22	CHEM 660 675	pénicilline B12
+T23	CHEM 677 689	monocyclines
+T24	CHEM 691 701	fluindione
+T25	CHEM 703 719	cyclophosphamide
+T26	CHEM 721 734	dihydroxyzine
+T27	CHEM 736 750	sulfaméthasone
+T28	CHEM 752 763	rifampicine
+T29	CHEM 765 775	ethambutol
+T30	CHEM 777 788	nicardipine
+T31	CHEM 790 800	propanolol
+T32	CHEM 802 811	imipenème
+T33	CHEM 813 835	carbamate de magnésium
+T34	CHEM 837 846	potassium
+T35	CHEM 848 861	phénobarbital
+T36	CHEM 863 887	metformine Acide folique
+T37	CHEM 889 899	furosémide
+T38	CHEM 901 912	néostigmine
+T39	CHEM 914 930	palmitrocuronium
+T40	CHEM 932 955	polypropyl pyrazinamide
+T41	CHEM 957 970	cotrimoxazole
+T42	CHEM 972 983	héparine G5
+T43	CHEM 985 997	méthotrexate
+T44	CHEM 999 1009	antalgique
+T45	CHEM 1011 1041	immunoglobulines intraveineuse
+T46	CHEM 1043 1055	progestérone
+T47	CHEM 1057 1071	neuroleptiques
+T48	CHEM 1073 1092	hypolignalactamines
+T49	CHEM 1094 1103	œstrogène
+T50	CHEM 1105 1115	adrénaline
+T51	CHEM 1117 1136	glucantime carbonyl
+T52	CHEM 1138 1149	prégabaline
+T53	CHEM 1151 1171	halopéridol agoniste
+T54	CHEM 1173 1185	ciclofollium
+T55	CHEM 1187 1201	anticoagulants
+T56	CHEM 1203 1219	antispasmodiques
+T57	CHEM 1221 1235	métoclopramide
+T58	CHEM 1237 1247	cortisones
+T59	CHEM 1249 1266	rituximabouracile
+T60	CHEM 1268 1283	alpha galactose
+T61	CHEM 1285 1299	hydrocortisone
+T62	CHEM 1301 1323	ciprofloxacine sodique
+T63	CHEM 1325 1336	ceftriaxone
+T64	CHEM 1338 1350	kétoconazole
+T65	CHEM 1352 1371	morphine isoniazide
+T66	CHEM 1373 1388	myéloperoxydase
+T67	CHEM 1390 1416	capécitabine dietrogénique
+T68	CHEM 1418 1430	carbofuranes
+T69	CHEM 1432 1450	gonadotrophozoline
+T70	CHEM 1452 1478	catécholysatral citrulline
+T71	CHEM 1480 1492	calcivitrace
+T72	CHEM 1494 1518	citrosarcome phentermine
+T73	CHEM 1520 1546	aspirine alpha gemcitabine
+T74	CHEM 1548 1561	cyperméthrine
+T75	CHEM 1563 1583	valproate de sodium®
+T76	CHEM 1585 1606	érythromycine glyquée
+T77	CHEM 1608 1629	macrolides substitués
+T78	CHEM 1631 1655	homocystinamide conjugué
+T79	CHEM 1657 1674	époxyde gamma HCG
+T80	CHEM 1676 1686	corticoïde
+T81	CHEM 1688 1714	gentamicine acide acétique
+T82	CHEM 1716 1726	aminosides
+T83	CHEM 1728 1744	acide zobarbital
+T84	CHEM 1746 1769	tétracycline nifédipine
+T85	CHEM 1771 1784	triméthoprime
+T86	CHEM 1786 1823	rifampicine biphosphonate d'induction
+T87	CHEM 1825 1853	vincristine acido-isoniazide
+T88	PROC 1858 1867	recherche
+T90	ANAT 1888 1892	sang
+T91	DISO 1913 1942	hyperferritinémie congénitale
+T92	Concept_Idea 1951 1960	score HKI
+T93	MEAS 1963 1967	10,1
+T94	DISO 2078 2132	néoplasie médullaire monoclonale érythémateuse maligne
+T95	DISO 2138 2157	lésion métastatique
+T96	DISO 2161 2177	thrombus tumoral
+T97	PROC 2190 2216	examen anatomopathologique
+T98	DISO 2238 2285	léiomyome polymalformatif thymique dyschromique
+T99	PHEN 2295 2315	récepteurs hormonaux
+T100	ANAT 2358 2368	rein droit
+T101	Localization 2363 2368	droit
+T102	ANAT 2394 2415	segments lymphatiques
+T103	ANAT 2463 2494	expectorations réno-céphaliques
+T104	LIVB 2537 2544	patient
+T105	DISO 2557 2589	signe histologique carcinomateux
+T106	DISO 2607 2632	symptomatologie familiale
+T107	DISO 2642 2664	anomalie morphologique
+T108	DISO 2721 2749	dermatomyopathie multifocale
+T109	PROC 2754 2776	traitement chirurgical
+T110	PROC 2816 2845	badigeonnage axillaire direct
+T111	PROC 2859 2881	toilette endotrachéale
+T112	DISO 2919 2940	complication septique
+T113	PROC 3014 3050	biopsie exérèse totale scanno-guidée
+T114	PROC 3088 3116	résection transoesophagienne
+T115	PROC 3129 3156	lavementctomie exploratrice

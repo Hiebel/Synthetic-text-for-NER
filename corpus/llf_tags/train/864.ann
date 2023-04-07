@@ -1,0 +1,41 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 66	antécédents pathologiques
+T3	MEAS 67 79	particuliers
+T4	PROC 90 101	hospitalisé
+T5	DISO 111 117	fièvre
+T6	TEMP 127 141	depuis 2 jours
+T7	PROC 147 162	examen clinique
+T8	Concept_Idea 167 178	température
+T9	MEAS 185 189	39°C
+T10	PROC 207 223	examen somatique
+T11	DISO 233 242	anomalies
+T12	PROC 247 269	radiographie du thorax
+T13	ANAT 263 269	thorax
+T14	DISO 281 302	niveaux hydroaériques
+T15	DISO 318 465	carcinome épidermocytomateux mucineux transoesophagien infiltrant les aires ganglionnaires cervico-jugulo-mandibulaires antro-pariéto-carotidiennes
+T16	ANAT 388 465	aires ganglionnaires cervico-jugulo-mandibulaires antro-pariéto-carotidiennes
+T17	ANAT 485 522	sinus caverneux bilatéraux inférieurs
+T18	Localization 501 522	bilatéraux inférieurs
+T19	ANAT 535 572	tronc crico-trachéal supérieur gauche
+T20	Localization 566 572	gauche
+T21	PROC 577 595	scanner thoracique
+T22	ANAT 585 595	thoracique
+T23	DISO 606 724	processus tissulaire érythémato-péritonéal nodulaire postéro-latéral gauchestiel controlatéral médial inferieur gauche
+T25	Localization 708 724	inferieur gauche
+T26	ANAT 749 788	granges conjonctivaux intra péritonéaux
+T27	PHEN 832 853	contours sous cutanés
+T28	PROC 860 884	laparotomie exploratrice
+T29	PROC 906 926	reprise chirurgicale
+T30	PROC 940 980	annexectomie longitudinale superficielle
+T31	Localization 953 980	longitudinale superficielle
+T32	ANAT 1000 1050	symphyse mandibulaire maxillaire supérieure droite
+T33	Localization 1044 1050	droite
+T34	ANAT 1082 1103	ganglions thoraciques
+T35	MEAS 1154 1161	simples
+T36	PROC 1165 1191	étude anatomo-pathologique
+T37	DISO 1216 1263	adénocarcinome polypoïde mésenchymateux ossifié
+T38	MEAS 1271 1277	T3N0M1
+T39	MEAS 1281 1287	T4N5M6
+T40	Concept_Idea 1605 1613	résultat
+T41	Concept_Idea 1879 1905	aspect immunohistochimique
+T42	LIVB 1942 1950	patiente

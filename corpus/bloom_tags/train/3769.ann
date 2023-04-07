@@ -1,0 +1,21 @@
+T1	LIVB 16 24	patiente
+T2	PROC 36 42	suivie
+T3	DISO 52 73	carcinose épidermoïde
+T4	ANAT 62 73	épidermoïde
+T5	ANAT 96 106	sein droit
+T6	Localization 101 106	droit
+T7	TEMP 116 127	depuis 3ans
+T8	PROC 133 142	admission
+T9	LIVB 147 155	patiente
+T10	MEAS 165 168	bon
+T11	Concept_Idea 169 181	état général
+T12	DISO 199 232	syndrome d'épanchement péritonéal
+T13	ANAT 222 232	péritonéal
+T14	DISO 247 272	vomissements alimentaires
+T15	PROC 276 296	examen gynécologique
+T16	PHEN 314 322	grossité
+T17	MEAS 333 338	28 cm
+T18	DISO 353 371	extension tumorale
+T19	ANAT 363 371	tumorale
+T20	ANAT 380 390	col utérin
+T21	ANAT 398 405	ovaires

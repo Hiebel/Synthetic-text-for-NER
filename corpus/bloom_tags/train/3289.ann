@@ -1,0 +1,16 @@
+T1	LIVB 29 34	femme
+T2	Hospital 72 80	urgences
+T3	DISO 112 150	syndrome d’épanchement intrapéritonéal
+T4	ANAT 135 150	intrapéritonéal
+T5	MEAS 176 191	progressivement
+T6	Concept_Idea 195 201	volume
+T7	DISO 216 232	dyspnée d'effort
+T8	MEAS 247 253	rapide
+T9	MEAS 268 281	supra-normale
+T10	PROC 294 313	bilan préopératoire
+T11	DISO 336 356	prise médicamenteuse
+T12	DISO 362 389	hyperparathyroïdie primaire
+T13	DISO 415 430	symptomatologie
+T14	PROC 434 472	scanner abdomino-pelvien transfixiante
+T15	ANAT 442 472	abdomino-pelvien transfixiante
+T16	DISO 486 561	lésion ischémique rétractile anévrismateuse interstitielle panniculomateuse

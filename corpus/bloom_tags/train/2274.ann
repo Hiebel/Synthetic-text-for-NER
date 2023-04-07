@@ -1,0 +1,44 @@
+T1	LIVB 4 12	patiente
+T2	Concept_Idea 34 59	antécédents pathologiques
+T3	MEAS 60 72	particuliers
+T4	PROC 74 80	admise
+T5	Hospital 85 93	urgences
+T7	ANAT 112 123	abdominales
+T8	TEMP 145 167	depuis plusieurs jours
+T9	DISO 197 218	détresse respiratoire
+T10	PHEN 206 218	respiratoire
+T11	DISO 232 249	ictère généralisé
+T12	PROC 253 268	examen clinique
+T13	LIVB 282 290	patiente
+T14	MEAS 294 297	bon
+T15	Concept_Idea 298 310	état général
+T16	ANAT 321 334	surrénalienne
+T17	MEAS 337 350	90/60 mmH 2 O
+T18	PROC 357 387	auscultation cardio-vasculaire
+T19	ANAT 370 387	cardio-vasculaire
+T20	MEAS 392 399	normale
+T21	PROC 404 420	bilan biologique
+T22	DISO 452 468	hyperleucocytose
+T23	MEAS 471 497	12 000 éléments blancs/mm3
+T24	ANAT 511 538	polynucléaires neutrophiles
+T25	PROC 620 638	sérologies virales
+T26	MEAS 660 669	négatives
+T27	PROC 674 701	tomodensitométrie pelvienne
+T28	ANAT 692 701	pelvienne
+T29	DISO 715 831	masse hypodense hétérogène tissulaire hypo-échogéminée kystique pariétale rétropéritonéale droite hyper vascularisée
+T30	Localization 806 831	droite hyper vascularisée
+T31	MEAS 841 846	20 cm
+T32	Concept_Idea 850 864	grand diamètre
+T33	ANAT 914 940	hépato-gastroduodéno-cæcal
+T34	DISO 971 997	localisations compressives
+T35	DISO 1019 1069	adénopathies intra-parenchymateuses érythémateuses
+T37	DISO 1080 1109	métastases périprétronéaliens
+T38	DISO 1118 1132	masse arrondie
+T39	MEAS 1144 1159	progressivement
+T40	Concept_Idea 1163 1169	taille
+T41	MEAS 1179 1187	indolore
+T42	DOSE 1194 1198	5 mg
+T43	CHEM 1202 1216	hydrocortisone
+T44	Concept_Idea 1234 1242	contours
+T45	MEAS 1243 1252	réguliers
+T46	DEVI 1277 1318	cathéter transoesophagien haute fréquence

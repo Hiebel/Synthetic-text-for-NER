@@ -1,0 +1,29 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 83 93	consultait
+T5	Hospital 98 106	urgences
+T6	DISO 116 149	douleurs épigastriques chroniques
+T7	ANAT 125 138	épigastriques
+T8	TEMP 159 171	depuis un an
+T9	PROC 175 190	examen clinique
+T10	PROC 195 204	admission
+T11	DISO 240 270	masse tumorale du flanc gauche
+T12	ANAT 258 270	flanc gauche
+T13	Localization 264 270	gauche
+T14	Concept_Idea 273 279	aspect
+T15	MEAS 280 290	hétérogène
+T16	MEAS 300 304	6 cm
+T17	Concept_Idea 308 317	grand axe
+T18	ANAT 344 353	péritoine
+T19	PROC 358 366	biologie
+T20	PHEN 380 395	fonction rénale
+T21	ANAT 389 395	rénale
+T22	MEAS 396 403	altérée
+T23	PROC 405 418	créatininémie
+T24	MEAS 420 428	120 mg/l
+T25	PROC 430 438	natrémie
+T26	MEAS 440 449	126 meq/l
+T27	PROC 455 479	scanner abdomino-pelvien
+T28	ANAT 463 479	abdomino-pelvien
+T30	ANAT 591 619	parties molles épigastriques

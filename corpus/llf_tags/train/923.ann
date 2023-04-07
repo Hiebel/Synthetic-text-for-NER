@@ -1,0 +1,41 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	7 ans
+T3	PHEN 47 56	grossesse
+T4	PROC 61 67	suivie
+T5	Concept_Idea 87 90	âge
+T6	TEMP 94 100	6 mois
+T7	LIVB 105 111	malade
+T8	DISO 127 139	vomissements
+T9	DISO 155 164	dysphagie
+T10	DISO 173 187	amaigrissement
+T11	MEAS 198 202	13kg
+T12	TEMP 206 213	2 jours
+T13	Concept_Idea 267 279	état général
+T14	Concept_Idea 297 313	tableau clinique
+T15	PROC 317 332	examen clinique
+T16	DISO 354 381	symptôme neuropsychiatrique
+T17	PROC 421 437	bilan biologique
+T18	DISO 449 458	anomalies
+T19	PROC 472 499	numération formule sanguine
+T20	PROC 501 511	leucocytes
+T21	PROC 518 538	récepteurs hormonaux
+T22	PROC 540 568	œstradiol acétyl-transférase
+T23	PROC 569 572	FVG
+T24	MEAS 604 611	normaux
+T25	PROC 617 638	biopsie scanno-guidée
+T26	LIVB 736 748	petite fille
+T27	DISO 752 774	syndrome inflammatoire
+T28	DISO 780 817	méningococcus erythémateux systémique
+T29	DISO 840 886	sensibilité aux immunoglobulines intraveineuse
+T31	PROC 942 961	traitement adjuvant
+T32	PROC 995 1019	échographie obstétricale
+T33	PROC 1029 1049	contrôle uro-génital
+T34	ANAT 1077 1082	reins
+T35	PROC 1136 1145	ingestion
+T36	DEVI 1195 1219	matériel d'ostéosynthèse
+T37	DOSE 1244 1253	10 litres
+T38	CHEM 1257 1270	glucarbonates
+T39	CHEM 1396 1425	pénicilline acide thiazidique
+T40	MEAS 1514 1521	simples
+T41	TEMP 1531 1540	mars 2018
+T42	PROC 1585 1613	prise en charge chirurgicale

@@ -1,0 +1,63 @@
+T1	LIVB 3 13	nourrisson
+T2	TEMP 21 27	7 mois
+T3	PROC 47 80	polyantibiothérapie néo adjuvante
+T4	CHEM 86 104	céphalosporine B12
+T5	DOSE 155 163	70 mg/kg
+T6	TEMP 163 171	/semaine
+T7	PROC 186 213	oxygénothérapie parentérale
+T8	PROC 347 358	transfusion
+T9	PROC 372 464	hydroxocobalamine kétoconazole glycorrizum glucoséfonate monophaséphrogénase IgG monoclonale
+T10	PROC 470 494	consultation pédiatrique
+T11	LIVB 517 524	enfants
+T12	DEVI 544 557	bébés paquets
+T13	PROC 685 691	repris
+T14	PROC 698 714	examens médicaux
+T15	DISO 799 831	maladie auto-immune hypertensive
+T16	DISO 923 967	encéphalopathie congénitale polymalformative
+T17	ANAT 992 1010	membres inferieurs
+T18	ANAT 1019 1033	pieds chaussés
+T19	PROC 1106 1130	prise en charge médicale
+T20	DISO 1214 1248	hypertension artérielle artérielle
+T21	ANAT 1238 1248	artérielle
+T22	DISO 1255 1292	traumatisme du membre inférieur droit
+T23	ANAT 1270 1292	membre inférieur droit
+T24	Localization 1287 1292	droit
+T25	LIVB 1310 1312	il
+T26	Hospital 1339 1352	salle de bain
+T27	PROC 1373 1391	séjour hospitalier
+T28	PROC 1397 1406	admission
+T29	PROC 1606 1617	hospitalisé
+T30	Hospital 1621 1636	bloc opératoire
+T31	DISO 1649 1670	vomissements fébriles
+T32	Concept_Idea 1684 1742	mouvements respiratoires (notamment la pression artérielle
+T34	ANAT 1732 1742	artérielle
+T35	DISO 1758 1765	douleur
+T36	DISO 1778 1784	signes
+T37	PROC 1867 1891	laparotomie exploratrice
+T38	PROC 1974 2005	tomodensitométrie scanno-guidée
+T39	MEAS 2011 2019	deuxième
+T40	PROC 2020 2038	césarienne urgente
+T41	PROC 2067 2098	antibioprophylaxie antiseptique
+T42	CHEM 2104 2135	amoxicilline acide clavulanique
+T43	CHEM 2138 2162	aminosides cyanogéniques
+T44	PROC 2167 2189	contrôle échographique
+T45	PROC 2220 2237	mise en condition
+T46	PROC 2243 2254	hémodialyse
+T47	DISO 2261 2282	syndrome hémorragique
+T48	DISO 2286 2307	récidive thrombotique
+T49	DISO 2325 2341	nécrose tumorale
+T50	DISO 2351 2375	complication infectieuse
+T51	PROC 2395 2433	échographie obstétricale préopératoire
+T52	DISO 2480 2526	symptômes neuropsychiatriques sensitifs aiguës
+T53	DISO 2580 2606	dépressions psychomotrices
+T54	PROC 2662 2686	ventilation artificielle
+T55	PROC 2729 2762	scanner thoraco- abdomino-pelvien
+T56	ANAT 2737 2762	thoraco- abdomino-pelvien
+T57	MEAS 2776 2783	normale
+T58	DISO 2807 2829	chondromégalie maligne
+T59	DISO 2847 2889	néoplasie épiploonoblastique hétérotopique
+T60	DISO 2908 2935	adénopathies abdominalaires
+T61	ANAT 2921 2935	abdominalaires
+T62	ANAT 2992 3026	paroi gastrocnémato-rénaltibulaire
+T63	ANAT 3041 3060	annexes thoraciques
+T64	ANAT 3184 3209	parties molles cervicales

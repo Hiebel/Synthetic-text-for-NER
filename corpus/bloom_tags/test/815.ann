@@ -1,0 +1,89 @@
+T1	LIVB 4 9	femme
+T2	MEAS 26 35	primipare
+T3	DISO 42 67	antécédents pathologiques
+T4	MEAS 68 76	notables
+T5	PROC 78 84	Admise
+T6	Hospital 89 111	urgences chirurgicales
+T7	DISO 121 141	tumeur du sein droit
+T8	ANAT 131 141	sein droit
+T9	Localization 136 141	droit
+T10	TEMP 151 164	depuis 2 mois
+T11	PROC 168 183	examen clinique
+T12	PROC 188 197	admission
+T13	Concept_Idea 212 216	état
+T14	DISO 219 242	agitation psychomotrice
+T15	PHEN 252 276	réflexes ostéo-tendineux
+T16	ANAT 261 276	ostéo-tendineux
+T17	MEAS 277 285	présents
+T18	PROC 291 312	échographie pelvienne
+T19	ANAT 303 312	pelvienne
+T20	PROC 333 357	anesthésie locorégionale
+T21	ANAT 344 357	locorégionale
+T23	CHEM 461 481	produit de contraste
+T24	ANAT 498 515	rétrovésiculaires
+T25	MEAS 525 530	70 mm
+T26	MEAS 535 539	40mm
+T27	DISO 572 621	carcinose épidermoïde latéro-vésicale péritonéale
+T28	ANAT 582 621	épidermoïde latéro-vésicale péritonéale
+T29	DISO 656 689	syndrome d'épanchement péritonéal
+T30	ANAT 679 689	péritonéal
+T31	DISO 704 723	métastase ovarienne
+T32	ANAT 714 723	ovarienne
+T33	PROC 750 774	scanner abdomino-pelvien
+T34	ANAT 758 774	abdomino-pelvien
+T35	DISO 805 867	masse tissulaire rétro-utérine lithiasique hétérogène nécrosée
+T36	ANAT 887 913	parenchyme grêlique utérin
+T37	PROC 944 953	injection
+T38	DOSE 957 961	1 ml
+T39	CHEM 965 985	produit de contraste
+T40	DEVI 1004 1023	sonde transfixiante
+T41	MEAS 1105 1119	interstitielle
+T42	PROC 1163 1202	explorations somatiques complémentaires
+T43	DISO 1226 1258	niveau hydro-myométrial kystique
+T44	DISO 1288 1310	sténose tuberculoïcale
+T45	DISO 1362 1385	lésions focales étagées
+T46	ANAT 1407 1431	replis urétraux vaginaux
+T47	PROC 1435 1471	ponction pleurieuse intrarachidienne
+T48	ANAT 1444 1471	pleurieuse intrarachidienne
+T49	MEAS 1486 1493	normale
+T50	PROC 1508 1552	tomodensitométrie thoraco-abdomino pelvienne
+T51	ANAT 1526 1552	thoraco-abdomino pelvienne
+T52	DISO 1579 1639	volvulus tricuspide thoracico-latéral basithoracique bilobée
+T54	PROC 1666 1698	technique d'immuno-radiomarquage
+T55	DISO 1779 1816	maladie thromboembolique prurigineuse
+T56	PROC 1846 1874	investigations diagnostiques
+T57	MEAS 1885 1896	laborieuses
+T58	DISO 2027 2038	parasitaire
+T59	PROC 2109 2118	pronostic
+T60	LIVB 2130 2138	patiente
+T61	MEAS 2220 2239	fortement suspectée
+T62	DISO 2289 2314	symptomatologie purulente
+T63	DISO 2391 2410	fièvre hémorragique
+T64	MEAS 2420 2425	sèche
+T65	DISO 2456 2482	hématurie macromoléculaire
+T66	PROC 2499 2519	traitements curatifs
+T67	CHEM 2555 2566	ceftriaxone
+T68	DISO 2646 2666	détresse métabolique
+T69	PROC 2694 2736	bilan biologique préopératoire étiologique
+T70	MEAS 2753 2761	nécessif
+T71	PROC 2844 2895	curage ganglionnaire ganglionnaire locorégionaliste
+T72	ANAT 2851 2895	ganglionnaire ganglionnaire locorégionaliste
+T73	PROC 2973 2998	intervention chirurgicale
+T74	TEMP 3024 3034	26/09/2012
+T75	Concept_Idea 3041 3058	anesthésie locale
+T76	DEVI 3067 3088	liquide para-aréthral
+T77	DOSE 3090 3098	2 litres
+T78	MODE 3100 3112	intraveineux
+T79	ANAT 3126 3178	parenchyme paravertébroïdien supérieur droit interne
+T80	Localization 3165 3178	droit interne
+T81	ANAT 3186 3232	artères iliaques latéro-vésiculo-pancréatiques
+T82	PROC 3236 3260	exploration chirurgicale
+T83	DISO 3274 3298	masse tumorale polylobée
+T84	MEAS 3308 3313	21 cm
+T85	MEAS 3318 3323	15 cm
+T86	ANAT 3347 3373	parties molles abdominales
+T87	ANAT 3395 3416	structures digestives
+T88	DISO 3445 3461	tumorale maligne
+T89	PROC 3478 3504	examen anatomopathologique
+T90	DISO 3531 3540	malignité
+T91	DISO 3557 3582	localisation métastatique

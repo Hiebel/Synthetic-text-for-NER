@@ -1,0 +1,41 @@
+T1	LIVB 9 12	M.A
+T2	DISO 64 90	cardiomyopathie ischémique
+T3	DISO 108 161	insuffisance hépato-oesophagienne chronique terminale
+T4	ANAT 121 141	hépato-oesophagienne
+T5	DISO 177 211	hypertension artérielle artérielle
+T6	ANAT 201 211	artérielle
+T7	CHEM 241 257	hydrocholestérol
+T8	DISO 297 351	anémie hypochrome microcytaire normocytaire polyclonal
+T9	CHEM 364 388	acide acétyle glutamique
+T10	DISO 403 446	hyperferritinémie diabétique gestationnelle
+T11	DISO 464 495	méningo-vascularite congénitale
+T12	DISO 553 589	symptomatologie néonatalgie primaire
+T13	PROC 594 636	réunion de concertation multidisciplinaire
+T14	PROC 774 815	néphrocalcinoplastie partielle percutanée
+T15	PROC 818 869	ostéotomie exploratrice scanno-guidée échographique
+T16	PROC 871 923	radiothérapies intraveineuse axillaires asymétriques
+T17	PROC 926 967	hémodialyse rénale intrascributive totale
+T18	PROC 971 1002	prélèvement anatomopathologique
+T19	DISO 1031 1086	tumeur érythémateuse cervicale tissulaire hétérotopique
+T20	MEAS 1095 1103	2×0,5 cm
+T21	DISO 1200 1243	adénofibroblastes séreux myélobésectasiques
+T22	ANAT 1262 1280	rein controlatéral
+T23	Localization 1267 1280	controlatéral
+T24	ANAT 1304 1325	structures digestives
+T25	ANAT 1337 1356	membranes biliaires
+T26	DISO 1418 1454	maladie cœloïde maligne métastatique
+T27	Concept_Idea 1581 1602	limites diagnostiques
+T28	PROC 1662 1688	enquête pré angiographique
+T29	PROC 1856 1889	imagerie par résonance magnétique
+T30	DISO 1930 2012	nodule du rein droit controlatéral sous chondromédullaire sténosante superficielle
+T31	ANAT 1940 2012	rein droit controlatéral sous chondromédullaire sténosante superficielle
+T33	ANAT 2075 2091	sinus piriformes
+T34	ANAT 2099 2117	cavités pelviennes
+T35	PROC 2137 2149	consultation
+T36	LIVB 2158 2165	patient
+T37	PHEN 2220 2229	grossesse
+T38	PROC 2234 2240	suivie
+T39	LIVB 2259 2261	il
+T40	PROC 2281 2286	opéré
+T41	PROC 2290 2301	hospitalisé
+T42	Hospital 2313 2332	formation sanitaire

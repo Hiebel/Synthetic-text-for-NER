@@ -1,0 +1,54 @@
+T1	LIVB 28 35	patient
+T2	TEMP 43 49	17 ans
+T3	DISO 87 105	asthénie chronique
+T4	TEMP 141 152	depuis 1 an
+T5	DISO 165 173	anorexie
+T6	MEAS 185 190	15 kg
+T7	TEMP 207 212	un an
+T8	DISO 229 264	syndrome d'épanchement périphérique
+T9	Localization 252 264	périphérique
+T10	DISO 277 300	symptômes neurologiques
+T11	DISO 329 343	signes visuels
+T12	DISO 354 372	atteintes cutanées
+T13	DISO 398 431	lésions prurigineuses purpuriques
+T14	LIVB 452 460	patiente
+T15	DISO 492 504	dermomyosite
+T16	DISO 603 626	déficit sensitivomoteur
+T17	PROC 649 670	enquête préopératoire
+T18	DISO 742 754	tuberculeuse
+T19	PROC 769 802	chirurgie cervicale transfixiante
+T20	LIVB 912 920	patients
+T21	PROC 945 975	radio-chimiothérapie adjuvante
+T22	PROC 981 1037	radiothérapie conformationnelle palliative locorégionale
+T23	PROC 1038 1042	RCCP
+T24	PROC 1049 1084	ponction-biopsie épiploico-vaginale
+T25	ANAT 1066 1084	épiploico-vaginale
+T26	DISO 1114 1164	neuroendocrine infiltrat érythémateux hémorragique
+T27	PROC 1183 1208	étude immunohistochimique
+T28	PROC 1345 1369	exploration chirurgicale
+T29	PROC 1495 1504	pronostic
+T30	LIVB 1625 1633	patients
+T31	DISO 1681 1701	vomissements bilieux
+T32	MEAS 1713 1728	progressivement
+T33	Concept_Idea 1732 1738	volume
+T34	DISO 1754 1777	douleurs hypogastriques
+T35	ANAT 1763 1777	hypogastriques
+T36	MEAS 1787 1797	intenseurs
+T37	MEAS 1814 1821	massifs
+T38	DISO 1845 1865	diarrhées sifflantes
+T39	ANAT 1955 1987	fosse abdominale diaphragmatique
+T40	DISO 2111 2133	affection sigmoïdienne
+T41	ANAT 2121 2133	sigmoïdienne
+T42	DISO 2190 2216	paragangliome hypophysaire
+T43	MEAS 2328 2332	20cm
+T44	Concept_Idea 2336 2345	grand axe
+T45	DISO 2482 2513	hyperplasies kystiques malignes
+T46	PROC 2519 2549	radio-chimiothérapie adjuvante
+T47	CHEM 2579 2583	CDDP
+T48	CHEM 2585 2595	cisplatine
+T49	CHEM 2599 2612	dexaméthasone
+T50	DOSE 2614 2622	200mg/m²
+T51	TEMP 2622 2624	/j
+T52	MODE 2628 2640	intraveineux
+T53	MEAS 2662 2668	rapide
+T54	TEMP 2680 2686	3 mois

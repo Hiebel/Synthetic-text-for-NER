@@ -1,0 +1,16 @@
+T1	PROC 4 14	sérologies
+T2	DISO 19 30	toxoplasmes
+T3	DISO 38 44	fièvre
+T4	DISO 51 62	traumatisme
+T5	MEAS 71 79	normales
+T6	DISO 101 123	infection tuberculeuse
+T7	Concept_Idea 146 152	aspect
+T8	ANAT 174 184	intestinal
+T9	LIVB 205 212	malades
+T10	PROC 238 256	antibioprophylaxie
+T11	PROC 271 288	bilan étiologique
+T12	DISO 343 425	carcinome épidermomateux cutané infiltrant réno-fronto-mandibulaire éosinophilique
+T13	MEAS 446 452	rapide
+T14	TEMP 459 465	5 mois
+T15	MEAS 489 498	favorable
+T16	TEMP 501 506	3 ans

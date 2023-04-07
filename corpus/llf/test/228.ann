@@ -1,0 +1,15 @@
+T1	LIVB 3 11	patiente
+T2	PROC 30 52	résection
+T3	DISO 59 65	tumeur
+T4	TEMP 69 73	2004
+T5	PROC 77 103	examen
+T6	PROC 107 127	immuno-histochimique
+T7	PROC 145 189	marquage
+T8	ANAT 221 235	oestrogéniques
+T9	PROC 246 256	diagnostic
+T10	DISO 279 341	mélanome
+T11	ANAT 288 297	canalaire
+T12	ANAT 323 341	sinus
+T13	Localization 329 341	longitudinal
+T14	DISO 358 371	lymphomateuse
+T15	DISO 375 387	métastatique

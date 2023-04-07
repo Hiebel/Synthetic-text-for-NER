@@ -1,0 +1,58 @@
+T1	LIVB 3 13	nouveau-né
+T2	TEMP 21 26	7 ans
+T3	MEAS 34 45	1750 gramme
+T4	MEAS 51 62	1240grammes
+T5	Hospital 67 98	urgences médicales pédiatriques
+T6	TEMP 114 124	2 semaines
+T7	LIVB 131 133	sa
+T8	PROC 134 154	consultation externe
+T9	Concept_Idea 160 181	présentation clinique
+T10	MEAS 195 204	favorable
+T11	Concept_Idea 257 268	température
+T12	MEAS 284 313	39° centigrade degrés Celsius
+T13	Concept_Idea 329 357	paramètres anthropométriques
+T14	MEAS 388 401	38 °µ×36 mmHg
+T15	MEAS 404 410	43mmHg
+T16	DISO 530 558	symptomatologie pathologique
+T17	TEMP 571 578	4 jours
+T18	LIVB 591 597	enfant
+T19	LIVB 916 919	son
+T20	LIVB 920 930	nourrisson
+T21	LIVB 969 972	ses
+T22	LIVB 973 990	confrères mineurs
+T23	DISO 1183 1208	manifestation psychotique
+T24	LIVB 1320 1336	Mlle BOUKARAYADO
+T25	TEMP 1351 1355	8ans
+T26	PROC 1509 1530	contrôle radiologique
+T27	PROC 1645 1673	prise en charge chirurgicale
+T28	PROC 1738 1770	geste chirurgical prophylactique
+T29	PROC 1847 1866	enquête étiologique
+T30	LIVB 1938 1944	garçon
+T31	TEMP 1952 1959	six ans
+T32	MEAS 1967 1978	620 grammes
+T33	DISO 2122 2149	masse cervicale médiocorale
+T35	MEAS 2158 2172	15 centimètres
+T36	MEAS 2182 2186	5 cm
+T37	Concept_Idea 2194 2207	petite taille
+T38	DISO 2223 2241	récidive somatique
+T39	DISO 2252 2274	signes neuropsychiques
+T40	PHEN 2287 2299	accouchement
+T41	PROC 2338 2363	stabilisation fœto-fœtale
+T42	CHEM 2365 2376	Glasgowénil
+T43	ANAT 2397 2405	bronches
+T44	Hospital 2428 2451	maternités pédiatriques
+T45	PROC 2465 2487	consultation prénatale
+T46	LIVB 2499 2504	fille
+T47	LIVB 2519 2523	elle
+T48	PROC 2537 2546	admission
+T49	TEMP 2552 2558	J2mois
+T50	PROC 2564 2579	intercésarienne
+T51	PROC 2593 2630	laparotomie exploratrice endoscopique
+T52	PROC 2647 2678	soins obstétricaux substitutifs
+T53	LIVB 2693 2698	notre
+T54	LIVB 2699 2717	médecin urgentiste
+T55	PROC 2734 2751	suivi hospitalier
+T56	LIVB 2757 2765	patiente
+T57	PROC 2780 2817	transfusion intraveineuse parentérale
+T58	DOSE 2818 2824	100 UI
+T59	MEAS 2868 2875	simples

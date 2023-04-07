@@ -1,0 +1,34 @@
+T1	PROC 3 28	scanner thoraco-abdominal
+T2	ANAT 11 28	thoraco-abdominal
+T3	DISO 56 95	dilatation des veines caves supérieures
+T4	ANAT 71 95	veines caves supérieures
+T5	Localization 84 95	supérieures
+T6	PHEN 101 124	reflexes ostéotendineux
+T7	ANAT 110 124	ostéotendineux
+T8	MEAS 133 145	perceptibles
+T9	Concept_Idea 160 168	résultat
+T10	PROC 172 191	bilan préopératoire
+T11	DISO 212 220	récidive
+T12	DISO 224 229	signe
+T13	DISO 233 242	malignité
+T14	LIVB 247 255	patiente
+T15	PROC 276 304	chimiothérapie néo adjuvante
+T16	CHEM 306 322	cyclophosphamide
+T17	CHEM 326 340	gentaméthasone
+T18	PROC 356 376	transfert en urgence
+T19	Hospital 369 376	urgence
+T20	Hospital 380 395	bloc opératoire
+T21	DISO 418 460	carcinome urothelial carcinomateux myxoide
+T22	PROC 611 636	néphrectomie exploratrice
+T23	DISO 682 703	prolifération maligne
+T24	MEAS 730 738	négative
+T25	PROC 742 767	étude immunohistochimique
+T26	Concept_Idea 798 823	caractères morphologiques
+T27	PROC 831 851	examen macroscopique
+T28	DISO 890 900	métastases
+T29	LIVB 921 931	nourrisson
+T30	Concept_Idea 976 1003	rapports anatomopathologies
+T31	LIVB 1013 1019	enfant
+T32	PROC 1042 1086	tumorectomie endobuccale scanno-pathologique
+T33	Concept_Idea 1094 1100	taille
+T34	MEAS 1111 1115	7 cm

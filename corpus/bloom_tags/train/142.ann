@@ -1,0 +1,34 @@
+T1	LIVB 3 10	patient
+T2	DISO 31 56	antécédents pathologiques
+T3	MEAS 57 65	notables
+T4	PROC 67 75	consulte
+T5	Hospital 80 88	urgences
+T6	DISO 98 125	douleurs abdominales aiguës
+T7	ANAT 107 118	abdominales
+T8	DISO 142 148	fièvre
+T9	TEMP 158 172	depuis 3 jours
+T10	PROC 176 196	examen gynécologique
+T11	Concept_Idea 209 215	aspect
+T12	DISO 218 240	épanchement péritonéal
+T13	ANAT 230 240	péritonéal
+T14	PROC 247 271	scanner abdomino-pelvien
+T15	ANAT 255 271	abdomino-pelvien
+T16	DISO 294 315	tumeur du flanc droit
+T17	ANAT 304 315	flanc droit
+T18	Localization 310 315	droit
+T19	MEAS 325 330	12 cm
+T20	Concept_Idea 334 343	grand axe
+T21	ANAT 359 374	capsule rectale
+T22	PROC 378 392	interrogatoire
+T23	PHEN 422 431	grossesse
+T24	PROC 436 442	suivie
+T25	MODE 500 510	voie basse
+T26	DISO 526 538	métrorragies
+T27	TEMP 561 580	deux mois plus tard
+T28	MEAS 596 611	progressivement
+T29	Concept_Idea 615 621	taille
+T30	MEAS 626 634	3 litres
+T31	MEAS 637 646	14 litres
+T32	PROC 653 676	radiothérapie adjuvante
+T33	ANAT 694 741	quadrants cervico-thoraciques latéro-supérieurs
+T34	PROC 754 774	analgésie péridurale

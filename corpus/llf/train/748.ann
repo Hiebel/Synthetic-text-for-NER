@@ -1,0 +1,15 @@
+T1	PROC 2 26	échographie
+T2	DISO 44 53	anomalies
+T3	MEAS 54 62	notables
+T4	PROC 67 91	taux
+T5	MEAS 98 104	normal
+T6	MEAS 106 113	Table
+T7	PROC 120 144	échographie
+T8	PHEN 161 192	grossesse
+T9	MEAS 193 202	évolutive
+T10	MEAS 204 216	bien
+T11	TEMP 219 230	12
+T12	TEMP 234 241	4
+T13	MEAS 250 253	bon
+T14	PHEN 254 280	développement
+T15	Concept_Idea 254 280	développement

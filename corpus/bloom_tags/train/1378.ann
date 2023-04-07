@@ -1,0 +1,6 @@
+T1	LIVB 28 36	patiente
+T2	PROC 58 83	intervention chirurgicale
+T3	PHEN 160 172	respiratoire
+T4	PROC 228 255	traitement médical adjuvant
+T5	DISO 296 351	dépression pleuro-pulmonaire diaphragmatique thoracique
+T6	ANAT 307 351	pleuro-pulmonaire diaphragmatique thoracique

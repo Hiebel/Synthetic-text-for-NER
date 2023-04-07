@@ -1,0 +1,34 @@
+T1	LIVB 16 24	fillette
+T2	TEMP 33 39	12 ans
+T3	DISO 56 99	syndrome d'épanchement liquidien péritonéal
+T4	ANAT 79 99	liquidien péritonéal
+T5	DISO 115 134	tabagisme chronique
+T6	DISO 150 169	surdité congénitale
+T7	LIVB 188 191	ses
+T8	LIVB 192 199	parents
+T9	DISO 204 226	douleurs épigastriques
+T11	TEMP 248 261	depuis 3 mois
+T12	PHEN 297 322	équilibre psychomotricité
+T13	DEVI 354 382	réflexes abdominaux externes
+T14	DISO 409 421	métrorragies
+T15	MODE 467 477	voie basse
+T16	PROC 482 500	contraceptionnelle
+T17	DISO 603 645	tableau d’épanchement péritonéal liquidien
+T18	ANAT 625 645	péritonéal liquidien
+T19	LIVB 647 651	elle
+T20	PROC 673 697	scanner abdomino-pelvien
+T21	ANAT 681 697	abdomino-pelvien
+T22	PROC 712 739	injection intrarachidiienne
+T23	CHEM 743 754	propranolol
+T24	DISO 771 832	sténose artériolo-veineuse hypo-thoracique inféro-tuberculose
+T26	MEAS 841 849	T4NHAI 2
+T27	ANAT 889 900	intestinale
+T28	PROC 918 962	tomodensitométrie thoraco-abdomino-pelvienne
+T29	ANAT 936 962	thoraco-abdomino-pelvienne
+T30	PROC 979 994	hospitalisation
+T31	DISO 1019 1077	formation tissulaire hétérogène basithoracique hypotensive
+T32	MEAS 1087 1092	32 cm
+T33	Concept_Idea 1096 1105	grand axe
+T34	ANAT 1131 1153	grosses tubérositaires
+T35	ANAT 1184 1204	cordons intestinales
+T36	ANAT 1228 1242	surrénaliennes

@@ -1,0 +1,99 @@
+T1	LIVB 20 28	patiente
+T2	MEAS 63 64	4
+T3	LIVB 65 72	enfants
+T4	PROC 77 94	tomodensitométrie
+T5	PROC 96 110	TDM) cérébrale
+T6	ANAT 101 110	cérébrale
+T7	DISO 131 176	masse tissulaire du plan sous corticale droit
+T8	ANAT 151 176	plan sous corticale droit
+T9	Localization 171 176	droit
+T10	Concept_Idea 203 212	caractère
+T11	MEAS 261 266	10 cm
+T12	Concept_Idea 270 279	grand axe
+T13	DISO 295 417	adénopathies jugulocarotidiennes sinusales temporales postérieures antero-mandibulaires bilatérales controlatérales gauche
+T15	Localization 383 417	bilatérales controlatérales gauche
+T16	MEAS 418 426	figure 1
+T17	PROC 433 452	examen histologique
+T18	PHEN 470 485	fonction rénale
+T19	ANAT 479 485	rénale
+T20	MEAS 492 499	normale
+T21	DISO 505 524	syndrome infectieux
+T22	DISO 528 538	infectieux
+T23	PROC 551 586	scanner thoraco- abdomino-abdominal
+T24	ANAT 559 586	thoraco- abdomino-abdominal
+T25	ANAT 649 661	conjonctives
+T26	ANAT 675 686	rein gauche
+T27	Localization 680 686	gauche
+T28	PROC 690 714	exploration chirurgicale
+T29	LIVB 744 752	patiente
+T30	DISO 757 794	tumeur polylobée érythémato-splénique
+T31	MEAS 803 807	7 mm
+T32	Concept_Idea 811 820	grand axe
+T33	ANAT 848 881	plexus brachial supérieur gauches
+T34	Localization 874 881	gauches
+T35	ANAT 893 934	méso transverse postéro-inférieure droite
+T36	Localization 928 934	droite
+T38	Localization 982 990	en avant
+T39	ANAT 1002 1050	symphyse pubienne inférieure homolatérale droite
+T40	Localization 1031 1050	homolatérale droite
+T41	ANAT 1100 1144	vaisseaux mésentériques antérieurs proximaux
+T42	Localization 1135 1144	proximaux
+T43	MEAS 1154 1158	15mm
+T44	Concept_Idea 1162 1171	petit axe
+T45	ANAT 1271 1289	veines cunéiformes
+T46	Concept_Idea 1336 1345	grand axe
+T47	PROC 1349 1374	étude immunohistochimique
+T48	DISO 1403 1441	myélofibromatopsie myxoïde infiltrante
+T49	DISO 1460 1511	métastase intrapleurale monocytaire stade IgG Kappa
+T50	PROC 1533 1577	prise en charge thérapeutique complémentaire
+T51	Concept_Idea 1620 1645	aspect clinico-biologique
+T52	DISO 1662 1717	cholécystectomie partielle hétéropathyroïdienne maligne
+T53	PROC 1727 1759	classification de Beerle JNM/JRB
+T54	PROC 1796 1815	traitement adjuvant
+T55	Concept_Idea 1865 1885	spécificité clinique
+T56	MEAS 1896 1898	5%
+T57	MEAS 1906 1909	45%
+T58	PROC 2012 2033	recherche étiologique
+T59	DISO 2072 2091	maladie auto-immune
+T60	DISO 2097 2131	méningo-encéphalopathie herpétique
+T61	PROC 2154 2177	résection scanno-guidée
+T62	PROC 2191 2224	radio-chimiothérapie néoadjuvante
+T64	PROC 2325 2366	surveillance cytogénétique postopératoire
+T65	PROC 2385 2416	laparotomie exploratrice guidée
+T66	PROC 2511 2527	consultation ORL
+T67	PROC 2533 2557	prélèvement urétéroriste
+T68	PROC 2575 2634	perfusion parentérale inguinale planitionumorale percutanée
+T69	PROC 2827 2858	investigations bactériologiques
+T70	Concept_Idea 2885 2910	critères épidémiologiques
+T71	PROC 2925 2935	diagnostic
+T72	LIVB 2941 2966	Pneumocystis jirovecii AE
+T73	LIVB 2975 2987	jeune enfant
+T74	TEMP 2995 3000	7 ans
+T75	DISO 3024 3047	sensibilités pelviennes
+T76	ANAT 3037 3047	pelviennes
+T77	Concept_Idea 3066 3069	âge
+T78	TEMP 3073 3079	4 mois
+T79	DISO 3095 3119	symptômes psychomotrices
+T80	DISO 3130 3152	signes dermatologiques
+T81	DISO 3179 3198	déficit immunitaire
+T82	DISO 3208 3235	problème neuropsychiatrique
+T83	ANAT 3278 3300	membre supérieur droit
+T84	Localization 3295 3300	droit
+T85	DISO 3307 3341	rhinopharyngite purulente ataxique
+T86	PHEN 3387 3402	acuité visuelle
+T87	DISO 3422 3445	rhinopharyngite érosive
+T88	PROC 3484 3510	examen anatomopathologique
+T89	DISO 3537 3576	léiomyome mucineux cutané polymyomateux
+T90	MEAS 3586 3597	16×14×10 mm
+T91	DISO 3613 3695	localisations secondaires pseudofolliculo-nodulaires érythémato-bronchovasculaires
+T92	ANAT 3714 3740	membres inférieurs gauches
+T93	Localization 3733 3740	gauches
+T94	ANAT 3754 3797	parois caudales cervicale antérieure droite
+T95	Localization 3780 3797	antérieure droite
+T96	MEAS 3821 3827	11×6mm
+T97	MEAS 3831 3837	3×1 cm
+T98	ANAT 3856 3893	bras postéro-latéral inférieur gauche
+T99	Localization 3887 3893	gauche
+T100	MEAS 3900 3920	moyennement sensible
+T101	PROC 3925 3957	scanner thoraco-abdomino-pelvien
+T102	ANAT 3933 3957	thoraco-abdomino-pelvien

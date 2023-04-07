@@ -1,0 +1,34 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 82	admis
+T6	Hospital 86 93	urgence
+T7	Hospital 98 119	urgences pédiatriques
+T8	DISO 128 171	syndrome d'épanchement péritonéal liquidien
+T9	ANAT 151 161	péritonéal
+T10	PROC 175 190	examen clinique
+T11	PROC 195 204	admission
+T12	Concept_Idea 218 229	température
+T13	MEAS 232 237	36°8C
+T14	PHEN 245 263	tension artérielle
+T15	ANAT 253 263	artérielle
+T16	MEAS 266 277	170/70 mmhg
+T17	PROC 283 312	échographie abdominopelvienne
+T18	ANAT 295 312	abdominopelvienne
+T19	DISO 358 389	masse tissulaire du flanc droit
+T20	ANAT 378 389	flanc droit
+T21	Localization 384 389	droit
+T22	ANAT 406 426	surrénalienne droite
+T23	Localization 420 426	droite
+T24	MEAS 436 441	10 cm
+T25	Concept_Idea 445 454	grand axe
+T26	MEAS 459 463	12cm
+T27	Concept_Idea 467 476	petit axe
+T28	CHEM 504 524	produit de contraste
+T29	CHEM 551 578	anti-méthyl-glycorésistants
+T30	CHEM 580 603	Methyl Glycocorticoïdes
+T31	PROC 609 645	tomodensitométrie abdomino-pelvienne
+T32	ANAT 627 645	abdomino-pelvienne
+T34	DISO 772 872	métastases parathyroïdiennes bilobées cerviculaires angulo-laterales métatarsophalangiennes malignes
+T36	DISO 889 908	lésions secondaires

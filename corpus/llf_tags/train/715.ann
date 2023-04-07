@@ -1,0 +1,85 @@
+T1	LIVB 15 25	nourrisson
+T2	TEMP 51 57	4 mois
+T3	PROC 61 66	suivi
+T4	Concept_Idea 76 79	âge
+T5	TEMP 83 89	3 mois
+T6	DISO 99 108	dysphonie
+T7	PROC 112 127	examen clinique
+T8	LIVB 138 144	malade
+T9	MEAS 148 151	bon
+T10	Concept_Idea 152 164	état général
+T11	ANAT 174 186	conjonctives
+T12	MEAS 187 194	souples
+T13	DISO 200 221	signes inflammatoires
+T14	ANAT 235 245	rein droit
+T15	Localization 240 245	droit
+T16	PHEN 254 263	grossesse
+T17	PROC 269 279	inspection
+T18	LIVB 284 291	patient
+T19	MEAS 310 332	légèrement courbaturés
+T20	DISO 368 393	symptomatologie somatique
+T21	DISO 431 451	déficit neurologique
+T22	DISO 462 490	troubles psychopathologiques
+T23	PROC 503 514	échographie
+T24	DISO 554 593	masse tissulaire oblongue hypogastrique
+T25	MEAS 603 607	2 cm
+T26	Concept_Idea 611 619	diamètre
+T27	ANAT 661 728	parties molles cervicale médio cartilagineuses fronto-mandibulaires
+T28	Localization 686 691	médio
+T29	MEAS 737 741	8 cm
+T30	Concept_Idea 745 754	petit axe
+T31	DISO 762 767	masse
+T32	MEAS 775 787	environ 4 cm
+T33	Concept_Idea 791 800	grand axe
+T34	PROC 819 842	injection intraveineuse
+T35	Concept_Idea 858 870	plan profond
+T36	MEAS 887 896	largement
+T37	ANAT 917 939	cuisse postéro-externe
+T38	Localization 924 939	postéro-externe
+T40	Localization 980 988	en avant
+T41	ANAT 1010 1034	troncs supraconductoraux
+T42	MEAS 1077 1084	simples
+T43	PROC 1090 1114	contrôle scannographique
+T44	DISO 1122 1147	blocage sensitivo-motrice
+T45	PROC 1215 1248	scanner thoraco-abdomino-trachéal
+T46	ANAT 1223 1248	thoraco-abdomino-trachéal
+T47	PROC 1274 1312	angioplastie endovasculaire percutanée
+T48	ANAT 1332 1423	aires ganglionnaires cervicales jugulocarotidiennes controlatérales postéro-latéral gauches
+T49	Localization 1416 1423	gauches
+T50	DEVI 1445 1461	processus cutané
+T51	Localization 1475 1486	transversal
+T52	ANAT 1502 1560	structures musculo-tendineux antero-talonico-claviculaires
+T53	PROC 1608 1630	reprises chirurgicales
+T54	PROC 1635 1661	fibroscopie réno-kinétique
+T55	ANAT 1647 1661	réno-kinétique
+T56	MEAS 1674 1681	normale
+T57	ANAT 1697 1729	membranes lymphatiques centrales
+T58	MEAS 1744 1752	intactes
+T59	PROC 1757 1787	complément immunohistochimique
+T60	CHEM 2861 2888	amoxicilline acide acétique
+T61	DISO 2908 2924	immunoglobulines
+T62	Concept_Idea 2967 2987	aspect morphologique
+T63	LIVB 2991 2998	patient
+T64	DISO 3020 3055	léiomyofibroblastome polymalformans
+T65	DISO 3077 3096	emboles vasculaires
+T66	DISO 3107 3126	lésions secondaires
+T67	PHEN 3142 3160	suites opératoires
+T68	MEAS 3169 3176	simples
+T69	TEMP 3186 3201	24 octobre 2012
+T70	LIVB 3221 3228	patient
+T71	Hospital 3248 3256	urgences
+T72	Hospital 3260 3275	bloc opératoire
+T73	PROC 3300 3319	traitement adjuvant
+T74	PROC 3332 3349	cure chirurgicale
+T76	Hospital 3467 3481	CAMU cliniques
+T77	PROC 3488 3515	hémicolectomie exploratrice
+T78	PROC 3530 3549	anesthésie générale
+T79	PROC 3563 3593	oxygénothérapie postopératoire
+T80	DISO 3633 3654	anomalies biologiques
+T81	PROC 3686 3698	intervention
+T82	PROC 3710 3737	examen anatomo-pathologique
+T83	DISO 3758 3850	hémangiome mucineux multiloculaire carcinomateux spinosomatosique hétéronodulaire infiltrant
+T84	MEAS 3860 3864	2 cm
+T85	Concept_Idea 3868 3877	grand axe
+T86	PROC 3909 3919	extraction
+T87	PROC 3943 3974	consultation pluridisciplinaire

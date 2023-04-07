@@ -1,0 +1,93 @@
+T1	LIVB 15 22	patient
+T2	DISO 64 100	méningo-encéphalopathie subocclusive
+T3	Concept_Idea 108 116	histoire
+T4	PROC 130 139	naissance
+T5	PHEN 159 168	grossesse
+T6	PROC 173 179	suivie
+T7	PROC 183 198	examen clinique
+T8	LIVB 213 219	enfant
+T9	MEAS 223 230	mauvais
+T10	Concept_Idea 231 243	état général
+T11	ANAT 249 261	conjonctives
+T12	MEAS 262 269	souples
+T13	DISO 275 298	déficit sensitivomoteur
+T14	DISO 302 319	syndrome anémique
+T15	DISO 330 356	signes neuropsychiatriques
+T16	LIVB 444 454	nouveau-né
+T17	Concept_Idea 474 502	paramètres socio-économiques
+T18	Concept_Idea 504 510	pesant
+T19	MEAS 511 522	2700grammes
+T20	DISO 550 581	troubles fonctionnels digestifs
+T21	PROC 649 675	explorations radiologiques
+T22	DISO 698 707	symptômes
+T23	LIVB 762 768	garçon
+T24	PROC 795 800	opéré
+T25	PROC 822 846	exploration chirurgicale
+T26	ANAT 865 892	foyer cervico-cétino-caudal
+T27	DISO 905 931	masse tissulaire polylobée
+T28	MEAS 940 947	6/10 mm
+T29	MEAS 957 963	7/8 cm
+T30	PROC 984 994	dissection
+T31	MEAS 1004 1014	hétérogène
+T32	Localization 1033 1050	moitié inférieure
+T33	ANAT 1054 1093	plexus brachial postéro-latéral droites
+T34	Localization 1086 1093	droites
+T35	DISO 1117 1143	lésions cutanées kystiques
+T36	ANAT 1243 1312	parties molles para vertébro-médio-tarsiennes controlatérales gauches
+T37	Localization 1305 1312	gauches
+T38	PROC 1317 1342	bilan préchimiothérapique
+T39	DISO 1381 1401	problèmes trophiques
+T40	ANAT 1426 1443	cardio-vasculaire
+T41	MEAS 1607 1622	progressivement
+T42	Concept_Idea 1626 1643	moyenne abondance
+T43	DISO 1660 1678	fièvre néphrétique
+T44	TEMP 1688 1702	depuis 4 jours
+T45	DISO 1770 1789	sensations fébriles
+T46	Concept_Idea 1854 1873	aspect histologique
+T47	DISO 1955 1981	maladie cœliaque primitive
+T48	CHEM 2025 2064	vaccinations parenterales substitutives
+T49	PROC 2070 2094	échographie obstétricale
+T50	DISO 2141 2173	malformations fœtales néonatales
+T51	PROC 2197 2221	laparotomie exploratrice
+T52	Hospital 2303 2326	infectieux pédiatriques
+T53	DISO 2377 2415	neurofibromatose congénitale familiale
+T54	PROC 2421 2444	biopsies scanno-guidées
+T55	DISO 2521 2528	myxoide
+T56	DISO 2602 2642	métastase tubulomatosique éosinophilique
+T57	PROC 2648 2677	prélèvements bactériologiques
+T58	DISO 2725 2758	proliférations tumorales myxoides
+T59	PROC 2937 2977	étude immunohistochimique prophylactique
+T60	PROC 2982 3021	curage ganglionnaire axillaire fundique
+T61	PROC 3040 3081	injection intramusculaire intrathoracique
+T62	PROC 3101 3117	section du cavum
+T63	ANAT 3112 3117	cavum
+T64	MEAS 3136 3144	complète
+T65	PROC 3180 3202	traitement chirurgical
+T67	Localization 3234 3248	termino-latéro
+T68	PROC 3286 3311	bilan cytobactériologique
+T69	DISO 3323 3332	anomalies
+T70	MEAS 3356 3363	score 3
+T71	PROC 3380 3400	examen macroscopique
+T73	ANAT 3503 3543	fosses labio-palpébrale gastrocnémiennes
+T74	MEAS 3563 3568	13 cm
+T75	Concept_Idea 3572 3581	grand axe
+T76	ANAT 3608 3623	bulbe digestive
+T77	PROC 3676 3686	extraction
+T78	MEAS 3769 3774	12 mm
+T79	Concept_Idea 3778 3786	diamètre
+T80	MEAS 3806 3823	620 grammegrammes
+T81	MEAS 3829 3837	374 UI/L
+T82	DISO 3876 3916	tumeur polypoïde mésenchymateuse maligne
+T83	MEAS 3925 3940	grade II SBR IV
+T84	PROC 3980 4008	contrôle tomodensitométrique
+T85	PHEN 4037 4079	structures laryngées aiguës superficielles
+T86	MEAS 4125 4134	40 x 16mm
+T87	MEAS 4138 4148	35 - 30 mm
+T88	DISO 4182 4210	vascularites ankylaromorphes
+T89	ANAT 4267 4310	paroi vésicale supérieure inférieure droite
+T90	Localization 4293 4310	inférieure droite
+T91	PROC 4376 4430	scanner cardio-mandibulaire inférieur transoesophagien
+T92	ANAT 4384 4430	cardio-mandibulaire inférieur transoesophagien
+T93	ANAT 4478 4515	masse rectale thoracique subverticale
+T94	Localization 4503 4515	subverticale
+T95	DISO 4578 4614	histiocytoplasmique retropéritonéale

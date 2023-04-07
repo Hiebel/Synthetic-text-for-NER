@@ -1,0 +1,29 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 38 43	3 ans
+T3	DISO 53 100	tuberculose du pôle supérieur cervico-dorsiflex
+T5	DISO 119 150	symptômes neurologiques fébrile
+T6	PROC 167 182	examen clinique
+T7	LIVB 199 206	patient
+T8	Concept_Idea 231 248	plan psychomoteur
+T9	DISO 256 273	paralysie faciale
+T10	DISO 284 311	anomalies sensitivomotrices
+T11	DISO 340 357	détresse visuelle
+T12	PROC 438 471	traitement curatif antibacillaire
+T13	Hospital 476 497	urgences pédiatriques
+T14	LIVB 499 502	son
+T15	MEAS 535 542	2/10ème
+T16	Localization 551 569	partie postérieure
+T17	MEAS 581 588	1/10ème
+T18	PROC 629 648	correction manuelle
+T19	PROC 779 813	ponction liquide pleuro-pulmonaire
+T20	ANAT 788 813	liquide pleuro-pulmonaire
+T21	MEAS 829 834	nulle
+T22	PROC 848 876	échocardiographie thoracique
+T23	ANAT 866 876	thoracique
+T24	DISO 893 970	épanchement intra-thoracique liquidien péripleuraux basithoracique latéralisé
+T26	MEAS 980 988	45*25 cm
+T27	DISO 1003 1044	distension basithoracique défavorabilisée
+T29	Localization 1029 1044	défavorabilisée
+T30	DISO 1254 1291	maladie thromboembolique prurigineuse
+T31	DISO 1316 1354	adénocarcinome érythro-hypokaliemateux
+T32	DISO 1399 1433	métastases tuberculeuses kystiques

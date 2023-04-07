@@ -1,0 +1,11 @@
+T1	PROC 3 20	bilan d'extension
+T2	DISO 43 70	thrombose veineuse profonde
+T3	ANAT 77 99	veine jugulaire gauche
+T4	Localization 93 99	gauche
+T5	ANAT 106 108	VG
+T6	Localization 117 131	partie moyenne
+T7	MEAS 164 171	simples
+T8	LIVB 176 183	patient
+T9	PROC 188 193	sorti
+T10	TEMP 196 213	J2 postopératoire
+T11	TEMP 231 236	3 ans

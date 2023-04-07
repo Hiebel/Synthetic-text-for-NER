@@ -1,0 +1,27 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 57	antécédents
+T3	MEAS 58 70	particuliers
+T4	PROC 72 78	admise
+T5	Hospital 82 89	urgence
+T6	Hospital 94 116	urgences chirurgicales
+T7	DISO 126 137	tuméfaction
+T8	ANAT 154 174	fosse iliaque droite
+T9	Localization 168 174	droite
+T10	TEMP 184 198	depuis un mois
+T11	PROC 202 217	examen clinique
+T12	PROC 222 231	admission
+T13	DISO 245 293	masse tumorale du quadrant supéro-latérale droit
+T14	ANAT 263 293	quadrant supéro-latérale droit
+T15	Localization 288 293	droit
+T16	MEAS 303 307	3 cm
+T17	Concept_Idea 311 320	grand axe
+T18	ANAT 349 366	liquide hépatique
+T19	PROC 370 400	échographie abdomino-pelvienne
+T20	ANAT 382 400	abdomino-pelvienne
+T22	ANAT 472 563	troncs grêliques latérocurriculaires anténasciutaux bilobées intéressant les surrénaliennes
+T23	PHEN 549 563	surrénaliennes
+T24	PROC 587 596	injection
+T25	CHEM 599 617	Hémosylpropranolol
+T26	DOSE 619 625	1mg/kg
+T27	MODE 627 644	intramuscululaire
+T28	DEVI 672 691	seringue électrique

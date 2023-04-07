@@ -1,0 +1,17 @@
+T1	LIVB 28 35	patient
+T2	DISO 83 125	maladie thromboembolique veineuse profonde
+T3	ANAT 108 125	veineuse profonde
+T4	DISO 154 182	hémangiopéricardial syndrome
+T5	DISO 204 222	hypercoagulabilité
+T6	PROC 252 272	analgésie palliative
+T7	MODE 277 287	voie orale
+T8	CHEM 313 324	paracétamol
+T9	CHEM 327 343	sulfaméthoxazole
+T10	DOSE 372 379	1 mg/kg
+T11	TEMP 379 384	/jour
+T12	DEVI 444 469	médiateur radiothérapique
+T13	PROC 472 497	intervention chirurgicale
+T14	PROC 518 628	chirurgie cardio-vasculo-nerveux somatomoteuromotrice pariétale intrarégionale transoesophagienne exploratrice
+T16	PROC 629 634	TOTIE
+T17	DISO 683 705	récidive locorégionale
+T18	TEMP 731 735	5ans

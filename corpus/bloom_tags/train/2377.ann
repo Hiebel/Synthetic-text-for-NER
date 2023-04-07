@@ -1,0 +1,30 @@
+T1	LIVB 29 37	patiente
+T2	Hospital 77 85	urgences
+T3	PROC 111 131	bilan préchirurgical
+T4	PROC 144 181	analyse scannographique du col utérin
+T5	ANAT 171 181	col utérin
+T6	PROC 183 216	scanner thoraco-abdomino- pelvien
+T7	ANAT 191 216	thoraco-abdomino- pelvien
+T8	PROC 230 263	imagerie par résonance magnétique
+T9	ANAT 270 279	pelvienne
+T10	DISO 312 350	syndrome d'épanchement intrapéritonéal
+T11	ANAT 335 350	intrapéritonéal
+T12	DISO 356 378	épanchement péritonéal
+T13	ANAT 368 378	péritonéal
+T14	DISO 394 412	traumatisme utérin
+T15	ANAT 406 412	utérin
+T16	LIVB 432 440	patiente
+T17	DISO 483 554	dégénérescence endovaginale cervicale latéro-mandibulaire bilithiasique
+T19	TEMP 564 577	depuis 6 mois
+T20	Concept_Idea 613 625	état général
+T21	DISO 658 676	polypnésie fébrile
+T22	MEAS 691 702	progressive
+T23	MODE 771 781	voie orale
+T24	PROC 798 820	traitement chirurgical
+T25	TEMP 899 908	24 heures
+T26	DISO 918 927	symptômes
+T27	DISO 963 996	lésions purpuriques prurigineuses
+T28	MEAS 1006 1015	brunâtres
+T29	DISO 1042 1051	symptômes
+T30	DISO 1114 1126	prurigineuse
+T31	DISO 1162 1175	complications

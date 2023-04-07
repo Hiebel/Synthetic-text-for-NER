@@ -1,0 +1,28 @@
+T1	LIVB 29 37	patiente
+T2	PROC 75 99	scanner abdomino-pelvien
+T3	ANAT 83 99	abdomino-pelvien
+T4	PROC 107 137	TDM thoraco-abdomino-pelvienne
+T5	ANAT 111 137	thoraco-abdomino-pelvienne
+T6	LIVB 234 242	patiente
+T7	DISO 258 275	placenta kystique
+T8	PHEN 289 309	grossesse gémellaire
+T9	MEAS 331 336	23 cm
+T10	MEAS 341 346	24 cm
+T11	PROC 350 377	examen anatomo-pathologique
+T12	DISO 396 413	kystes hydatiques
+T13	DISO 426 451	localisations secondaires
+T14	ANAT 471 498	surrénales gonadotrophiques
+T15	ANAT 500 534	plexus vesiculo-myometrorragionale
+T16	DISO 561 593	dilatation anévrismale purulente
+T17	ANAT 615 636	structures ovariennes
+T18	PROC 691 707	histologiquement
+T19	DISO 712 719	lésions
+T20	DISO 887 914	hyperprolactinémie primaire
+T21	DISO 930 954	hypothalamie hypotonique
+T22	DISO 973 1009	insuffisance hypophyro-hypophagienne
+T23	ANAT 986 1009	hypophyro-hypophagienne
+T24	DISO 1186 1229	traumatisme épigastrique hypohydronéphrique
+T25	ANAT 1198 1229	épigastrique hypohydronéphrique
+T26	PROC 1248 1272	traitement médicamenteux
+T27	PROC 1312 1350	intervention chirurgicale exploratrice
+T28	PROC 1357 1393	anesthésie-réanimation préopératoire

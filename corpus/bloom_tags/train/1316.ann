@@ -1,0 +1,56 @@
+T1	LIVB 29 37	patiente
+T5	MEAS 237 241	2 cm
+T6	PROC 265 282	tomodensitométrie
+T7	PROC 283 314	TDM) cervico-fémoro-pédiculeuse
+T8	ANAT 288 314	cervico-fémoro-pédiculeuse
+T9	DISO 321 404	masse hypo-échogène hétérogène hyperintense entourée d'anticorps antithyroglobuline
+T10	CHEM 376 404	anticorps antithyroglobuline
+T11	MEAS 414 418	32cm
+T12	MEAS 423 427	28mm
+T13	ANAT 464 494	parties molles intrarachidiens
+T14	ANAT 519 539	fosse iliaque droite
+T15	Localization 533 539	droite
+T16	DISO 560 602	lésions hypersignalées tumorales kystiques
+T17	DISO 612 625	paragangliale
+T19	CHEM 658 678	produit de contraste
+T20	ANAT 696 734	sinus cavernéolaire cervicotératosique
+T22	ANAT 759 773	péripapillaire
+T24	PROC 872 900	résultat anatomopathologique
+T25	DISO 919 947	métastase angiosurrénalienne
+T26	ANAT 969 1020	artères coronaires superficielles crânio-cérébrales
+T27	LIVB 1054 1062	patiente
+T28	DISO 1095 1154	schwannome érythémateux prurigineux laryngopharyngotrachéal
+T29	DISO 1161 1196	tumeur nécrose graisseuse purulente
+T30	DISO 1243 1280	méningiomes hémangioendothelialisante
+T31	DISO 1368 1400	insuffisance cholinestéracciaire
+T32	ANAT 1381 1400	cholinestéracciaire
+T33	PHEN 1417 1449	récupération cholinestéracciaire
+T34	DISO 1456 1479	signes neuro-endocrines
+T35	DISO 1508 1533	récepteurs séro-hormonaux
+T36	DISO 1557 1571	neuroleptiques
+T37	DISO 1614 1645	complications thromboemboliques
+T38	DISO 1821 1888	hypervascularisation ischémique nodulaire congénitale hypertrophiée
+T39	ANAT 1921 1954	coronaires thoraciques inférieurs
+T40	DISO 1972 2012	œdème papillaire basithoracique infiltré
+T41	ANAT 1978 2012	papillaire basithoracique infiltré
+T43	DISO 2076 2102	organes lymphoïdes tumoral
+T44	DISO 2125 2158	symptômes neuropeptido-résistants
+T45	PROC 2212 2246	radiothérapie palliative adjuvante
+T46	Concept_Idea 2254 2260	taille
+T47	MEAS 2271 2290	de façonprogressive
+T48	MEAS 2314 2323	lentement
+T49	MEAS 2335 2338	5kg
+T50	MEAS 2341 2346	10 kg
+T51	PROC 2368 2388	radio-chimiothérapie
+T53	PROC 2534 2555	électroneuromyogramme
+T54	PROC 2557 2560	EEG
+T55	LIVB 2584 2592	patiente
+T56	DISO 2626 2682	neuropathy sensitivomotrice du plexus pharyngo-laryngien
+T57	ANAT 2657 2682	plexus pharyngo-laryngien
+T58	DISO 2703 2727	maladie de Guillain Barr
+T59	PROC 2745 2762	bilan étiologique
+T60	PROC 2777 2793	examen somatique
+T61	PROC 2806 2824	ionogramme sanguin
+T62	ANAT 2817 2824	sanguin
+T63	PROC 2832 2850	sérologies virales
+T64	MEAS 2901 2909	négatifs

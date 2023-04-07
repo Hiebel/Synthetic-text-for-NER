@@ -1,0 +1,93 @@
+T1	PROC 4 26	radiographie du thorax
+T2	ANAT 20 26	thorax
+T3	DISO 40 71	distension de l'artère carotide
+T4	ANAT 56 71	artère carotide
+T5	Concept_Idea 74 80	allure
+T6	DISO 81 92	infectieuse
+T7	LIVB 97 105	patiente
+T8	PROC 122 143	traitement corticoïde
+T9	CHEM 133 143	corticoïde
+T10	Concept_Idea 149 153	dose
+T11	DOSE 157 161	1 mg
+T12	TEMP 161 163	/j
+T13	PROC 171 187	bilan biologique
+T14	DISO 199 212	particularité
+T15	MEAS 247 260	spectaculaire
+T16	TEMP 285 292	18 mois
+T17	LIVB 316 324	patiente
+T18	Hospital 355 376	urgences pédiatriques
+T19	DISO 386 407	lésions prurigineuses
+T20	Concept_Idea 452 464	état général
+T21	Concept_Idea 486 509	état neuropsychiatrique
+T22	DISO 523 545	signes accompagnateurs
+T23	PROC 550 565	examen clinique
+T24	LIVB 593 601	patiente
+T25	DISO 651 660	dysphagie
+T26	PROC 682 715	traitement antalgique substitutif
+T27	DISO 758 782	amaigrissement chronique
+T28	MEAS 793 797	17kg
+T29	MEAS 814 817	4kg
+T30	DISO 902 928	complications infectieuses
+T31	PROC 970 989	examens biologiques
+T32	DISO 1013 1034	syndrome fébrile aigu
+T33	DISO 1041 1096	polypneumopathie interstitielle érythémateux systémique
+T34	DISO 1122 1140	symptômes grippaux
+T35	DISO 1157 1184	troubles gastro-intestinaux
+T36	Concept_Idea 1215 1235	aspect morphologique
+T37	DISO 1260 1293	maladie cœliaque polymalpighienne
+T38	PHEN 1321 1338	fonctions vitales
+T39	Concept_Idea 1375 1392	plan radiologique
+T40	Concept_Idea 1428 1448	rôles psychomotrices
+T42	PROC 1720 1744	chimiothérapie adjuvante
+T43	PROC 1885 1910	étude immunohistochimique
+T44	DISO 1938 2033	lymphadénocarcinome métastatique infiltrant tissulaire rétromamelonnaire angiomateux nécrotique
+T45	MEAS 2041 2047	T2N0Mx
+T46	PROC 2070 2109	néphrectomie exploratrice scanno-guidée
+T47	PROC 2138 2224	curage ganglionnaire cervico-thoracique segmentaire transoesophagien axillaire élargie
+T48	DISO 2255 2294	ganglions lymphoplasmapathogénes malins
+T49	MEAS 2319 2328	11 x 8 cm
+T50	MEAS 2332 2338	6×3 cm
+T51	Concept_Idea 2350 2380	caractéristiques histologiques
+T52	PROC 2395 2430	scanner thoraco- abdomino-abdominal
+T53	ANAT 2403 2430	thoraco- abdomino-abdominal
+T54	DISO 2465 2513	niveaux trophoblastiques lobulés hyperbasophiles
+T55	DISO 2540 2586	cytoplasme carcinomateux liquidien monocytaire
+T56	ANAT 2595 2615	membranes hépatiques
+T57	ANAT 2633 2647	zones charnues
+T59	ANAT 2774 2791	colon transplanté
+T62	ANAT 3005 3016	rein gauche
+T63	Localization 3010 3016	gauche
+T64	ANAT 3022 3063	hémicirconférentiel postéro-latéral droit
+T65	Localization 3058 3063	droit
+T66	PHEN 3079 3100	structures digestives
+T67	DISO 3141 3215	sténose du tronc spléno-pancréatico-jugulaire péritonéal fundique adipeuse
+T69	DISO 3229 3246	signes évocateurs
+T70	DISO 3273 3295	syndrome inflammatoire
+T71	DISO 3302 3326	carcinose vasculariforme
+T72	ANAT 3312 3326	vasculariforme
+T73	Concept_Idea 3347 3375	tableau clinico-radiologique
+T74	LIVB 3382 3390	patiente
+T75	MEAS 3405 3412	stade I
+T76	MEAS 3416 3424	stade II
+T77	PROC 3435 3455	exérèse chirurgicale
+T78	MEAS 3462 3467	4 ème
+T79	MEAS 3499 3508	stade III
+T80	DEVI 3517 3538	bandelette aspirative
+T81	MEAS 3552 3561	16 × 7 cm
+T82	LIVB 3618 3626	patiente
+T83	PROC 3632 3670	tomodensitométrie anatomopathologiaque
+T84	DISO 3689 3780	adénocarcinome interstitiel éosinophile myxoide achroméasébronchique eccrineaemorragique BK
+T85	TEMP 3788 3794	18 ans
+T86	CHEM 3844 3859	céphalosporines
+T87	Hospital 3911 3927	radio-procédures
+T88	PROC 3998 4035	supplément thérapeutique conservateur
+T89	PROC 4063 4092	prise en charge préopératoire
+T90	PROC 4136 4156	transfusion sanguine
+T91	DOSE 4180 4185	10 mg
+T92	CHEM 4189 4209	glucantime® acétique
+T93	CHEM 4219 4253	fluoroquinolone acide clavulanique
+T94	CHEM 4264 4277	dexaméthasone
+T95	PROC 4291 4320	toilette respiratoire externe
+T96	ANAT 4300 4320	respiratoire externe
+T97	PROC 4354 4413	tumorectomie superficielle œso-gastroduodénale endovaginale
+T98	PROC 4429 4466	anastomose termino-iléale extemporané

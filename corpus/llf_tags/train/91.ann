@@ -1,0 +1,100 @@
+T1	LIVB 16 21	femme
+T2	DISO 65 74	stérilité
+T3	PROC 79 85	suivie
+T4	PROC 99 104	reçue
+T5	Hospital 109 117	urgences
+T6	DISO 126 147	syndrome hémorragique
+T7	TEMP 157 170	depuis 4 mois
+T8	PROC 176 191	examen clinique
+T9	LIVB 195 203	patiente
+T10	MEAS 211 214	bon
+T11	Concept_Idea 215 227	état général
+T12	ANAT 237 249	conjonctives
+T13	MEAS 250 269	légèrement colorées
+T14	PROC 285 301	examen somatique
+T15	DISO 311 324	particularité
+T16	PROC 329 358	palpation du pédicule fessier
+T17	ANAT 342 358	pédicule fessier
+T18	DISO 384 399	symptomatologie
+T19	DISO 417 432	symptomatologie
+T20	PROC 436 460	échographie obstétricale
+T21	PROC 493 510	bilan étiologique
+T22	DISO 529 546	récidive tumorale
+T23	DISO 563 592	masse tissulaire hypoéchogène
+T24	ANAT 611 635	région temporale utérine
+T25	MEAS 645 650	70 cm
+T26	Concept_Idea 654 663	grand axe
+T27	MEAS 672 677	10 cm
+T28	Concept_Idea 681 690	petit axe
+T29	Localization 700 718	parties proximales
+T30	MEAS 724 739	bien délimitées
+T31	ANAT 763 775	cuir chevelu
+T32	ANAT 865 876	sein gauche
+T33	Localization 870 876	gauche
+T34	ANAT 905 911	lèvres
+T35	ANAT 931 949	annexes cervicales
+T36	PROC 993 1025	scanner thoraco-abdomino-pelvien
+T37	ANAT 1001 1025	thoraco-abdomino-pelvien
+T38	PROC 1051 1076	bilan immunohistochimique
+T39	DISO 1118 1162	cystadénome polyploïde stade II métastatique
+T40	MEAS 1205 1212	simples
+T41	PROC 1252 1282	radio chimiothérapie adjuvante
+T42	PROC 1296 1321	chimiothérapie palliative
+T43	CHEM 1327 1339	doxorubicine
+T44	CHEM 1343 1367	acide acétyle glutamique
+T45	PROC 1380 1436	néphrectomie totale élargie scapulo-kystique fractionnée
+T46	PROC 1446 1459	technique EMD
+T47	Concept_Idea 1482 1501	aspect histologique
+T48	PHEN 1524 1539	fonction rénale
+T49	ANAT 1533 1539	rénale
+T50	MEAS 1540 1548	correcte
+T51	DEVI 1594 1620	voie veineuse périphérique
+T52	MEAS 1633 1637	25mm
+T53	PROC 1675 1703	mise en place endovasculaire
+T54	PROC 1732 1782	transfusion sanguine intraveineuse conventionnelle
+T55	PROC 1796 1815	anesthésie générale
+T56	PROC 1845 1900	hémicolectomie segmentaire transoesophagienne terminale
+T57	PROC 1917 1966	laparotomie percutanéoplastie axillaire T2 CYR1C3
+T58	PROC 1982 2038	perfusion rénale parentérale monofovirale encapsulatrice
+T59	PROC 2065 2110	aspiration intrathoracique périmédicamenteuse
+T60	PROC 2140 2200	circulation extracorporelle perifonctionnelles préopératoire
+T61	PROC 2229 2269	oxygénothérapie néoadjuvante double dose
+T63	DOSE 2354 2367	100 mg / 2 ml
+T64	PROC 2405 2427	séances thérapeutiques
+T65	TEMP 2440 2448	12h30min
+T66	PROC 2465 2518	monocytocique transfusionnelle bipyramidale IgG libre
+T67	PROC 2552 2585	immunostimulation pharmacologique
+T68	LIVB 2622 2629	malades
+T69	DISO 2673 2700	hypertension intracrânienne
+T70	ANAT 2686 2700	intracrânienne
+T71	MEAS 2729 2744	progressivement
+T72	Concept_Idea 2751 2770	bénéfices cliniques
+T73	DISO 2821 2845	troubles électrolytiques
+T74	DISO 2886 2906	hypercholestérolémie
+T75	CHEM 2910 2941	amoxicilline acide clavulanique
+T76	PROC 2966 2995	prélèvements bactériologiques
+T77	DISO 3059 3066	diabète
+T78	PROC 3127 3148	traitements adjuvants
+T79	PROC 3162 3174	soins locaux
+T80	PROC 3185 3206	traitement substituts
+T81	Hospital 3226 3238	germe porcin
+T82	MEAS 3282 3289	simples
+T83	PROC 3336 3373	néphrocalcinostomie distale hyperbare
+T84	PROC 3389 3423	antibioprophylaxie antiparasitaire
+T85	PROC 3436 3458	remplissage médullaire
+T86	ANAT 3448 3458	médullaire
+T87	PROC 3471 3491	toilette péritonéale
+T88	ANAT 3480 3491	péritonéale
+T89	PROC 3660 3684	contrôles hémodynamiques
+T90	PROC 3724 3756	scanner thoraco abdomino-pelvien
+T91	ANAT 3732 3756	thoraco abdomino-pelvien
+T92	DISO 3773 3827	tumeur interstitielle polyploïde liquidienne calcifiée
+T93	MEAS 3837 3841	5 cm
+T94	Concept_Idea 3845 3854	grand axe
+T95	Localization 3870 3892	extrémités supérieures
+T96	MEAS 3919 3923	6 cm
+T97	Concept_Idea 3927 3936	petit axe
+T98	PROC 3978 4011	exeat scannage multidisciplinaire
+T99	PROC 4034 4059	étude anatomopathologique
+T100	PROC 4073 4110	complément tomodensitométrique direct
+T101	DISO 4176 4206	tissu germinatif inflammatoire

@@ -1,0 +1,55 @@
+T1	LIVB 15 21	garçon
+T2	TEMP 25 31	13 ans
+T3	MEAS 55 56	3
+T4	LIVB 66 74	patients
+T5	DISO 94 119	hypotension surrénalienne
+T6	ANAT 106 119	surrénalienne
+T7	MEAS 171 185	plus marquante
+T8	MODE 189 202	intraveineuse
+T9	PROC 424 448	exploration obstétricale
+T10	DISO 480 518	troubles trophoblastiques malformatifs
+T11	PROC 584 607	biopsie scannographique
+T12	PROC 611 637	examen anatomopathologique
+T13	Concept_Idea 673 680	tailles
+T14	Concept_Idea 684 692	contours
+T15	MEAS 693 702	réguliers
+T16	ANAT 714 724	col utérin
+T17	MEAS 734 739	45 cm
+T18	Concept_Idea 743 752	grand axe
+T19	DISO 765 774	anomalies
+T20	PROC 788 816	échographie abdomino-utérine
+T21	ANAT 800 816	abdomino-utérine
+T22	DEVI 840 862	sonde recto-sigmoïdien
+T23	ANAT 846 862	recto-sigmoïdien
+T24	PROC 871 888	bilan étiologique
+T25	PHEN 890 899	grossesse
+T26	DISO 912 951	épanchement liquidien ovarien liquidien
+T27	ANAT 924 951	liquidien ovarien liquidien
+T28	PROC 966 1002	tomodensitométrie abdomino-pélvienne
+T29	ANAT 984 1002	abdomino-pélvienne
+T30	DISO 1031 1060	fausses couches pathologiques
+T31	Hospital 1072 1081	maternité
+T32	ANAT 1125 1153	rétrovésiculaires inférieurs
+T33	TEMP 1163 1175	depuis 3 ans
+T34	LIVB 1177 1181	Nous
+T35	PROC 1200 1229	injections intravestibulaires
+T36	DOSE 1233 1237	4 ml
+T37	CHEM 1241 1259	méthylprednisolone
+T38	DOSE 1289 1297	20 mg/kg
+T39	CHEM 1301 1312	propranolol
+T40	PROC 1373 1404	corticothérapie orale adjuvante
+T41	CHEM 1427 1441	hydrocortisone
+T42	DOSE 1443 1449	100 mg
+T43	DOSE 1452 1457	10 mg
+T44	CHEM 1460 1483	hydroxyindole acétamide
+T45	DOSE 1485 1493	1 000 mg
+T46	CHEM 1497 1510	noradrénaline
+T47	DOSE 1512 1522	0,05 µg/m²
+T48	PROC 1546 1564	perfusion sanguine
+T49	DOSE 1568 1574	500 cc
+T50	CHEM 1578 1603	concentré salé isotonique
+T51	DOSE 1606 1616	200 ml/mm³
+T52	DISO 1746 1769	déficit sensitivomoteur
+T53	ANAT 1852 1877	pulmonaire basithoracique
+T54	MEAS 1888 1897	12 litres
+T55	PROC 1982 2017	prise médicamenteuse prophylactique

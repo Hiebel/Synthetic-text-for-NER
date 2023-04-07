@@ -1,0 +1,9 @@
+T1	PROC 3 13	diagnostic
+T2	DISO 20 38	métastase
+T3	PROC 69 92	angiographie
+T4	ANAT 82 92	abdominale
+T5	LIVB 108 116	patiente
+T6	Concept_Idea 135 154	antécédent
+T7	MEAS 155 166	particulier
+T8	PROC 186 201	prise
+T9	TEMP 202 211	à

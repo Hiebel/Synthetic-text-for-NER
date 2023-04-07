@@ -1,0 +1,38 @@
+T1	LIVB 4 10	enfant
+T2	TEMP 19 25	12 ans
+T3	PROC 32 37	reçue
+T4	Hospital 41 90	centre Hospitalier universitaire Hassan II de Fès
+T5	TEMP 94 104	06/09/2011
+T6	DISO 121 142	détresse respiratoire
+T7	PHEN 130 142	respiratoire
+T8	MEAS 157 168	progressive
+T9	DEVI 174 206	cathéter ventriculo-aryténoïdien
+T10	ANAT 183 206	ventriculo-aryténoïdien
+T11	CHEM 220 231	nicardipine
+T12	MODE 236 254	voie intraveineuse
+T13	LIVB 308 315	enfants
+T14	DOSE 408 414	400 mg
+T15	PROC 468 497	prélèvements bactériologiques
+T16	PROC 521 530	inculture
+T17	MEAS 576 584	positifs
+T18	LIVB 599 607	patients
+T19	CHEM 746 765	dacronylnephtalmone
+T20	PROC 769 806	glycorachie artificielle substitutive
+T21	MEAS 910 924	satisfaisantes
+T22	DISO 1203 1218	symptomatologie
+T23	DISO 1547 1562	symptomatologie
+T24	DISO 1617 1632	symptomatologie
+T25	DISO 1723 1765	maladie thromboembolique veineuse profonde
+T26	DISO 1766 1769	AVC
+T27	DISO 1772 1796	hyperpression artérielle
+T28	ANAT 1786 1796	artérielle
+T29	DISO 1803 1825	thrombus hypertrophiés
+T30	DISO 1909 1953	syndrome d'épanchement intrapéribucellulaire
+T31	ANAT 1932 1953	intrapéribucellulaire
+T32	PROC 2763 2781	échocardio-graphie
+T33	Concept_Idea 2797 2803	aspect
+T34	DISO 2820 2838	tumeur du pancréas
+T35	ANAT 2830 2838	pancréas
+T36	LIVB 2843 2850	patient
+T37	PROC 2866 2884	traitement curatif
+T38	PROC 2894 2909	schéma 2RHZ/4RH

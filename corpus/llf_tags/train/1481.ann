@@ -1,0 +1,81 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	DISO 42 57	pneumopéritoine
+T4	MEAS 61 66	2,5cm
+T5	PROC 71 88	bilan d’hémostase
+T6	DISO 100 113	particularité
+T7	PROC 120 133	sérologie HIV
+T8	MEAS 140 148	négative
+T9	PROC 154 169	examen clinique
+T10	LIVB 187 194	patient
+T11	MEAS 198 205	mauvais
+T12	Concept_Idea 206 218	état général
+T13	DISO 228 243	râles ronflants
+T14	ANAT 283 300	ventricule gauche
+T15	Localization 294 300	gauche
+T16	Concept_Idea 345 363	état hémodynamique
+T17	PHEN 369 389	récepteurs sensitifs
+T18	MEAS 395 412	fortement intacts
+T19	ANAT 441 464	symptômes tonicoclonaux
+T20	PROC 528 552	échographie obstétricale
+T21	MEAS 567 574	normale
+T22	PROC 589 627	laparotomie exploratrice scanno-guidée
+T23	Concept_Idea 674 693	aspect histologique
+T24	DISO 727 786	maladie thromboembolique ischémique myéloscléroanesthésique
+T25	DISO 788 791	TPI
+T26	MEAS 860 867	brutale
+T27	DISO 899 923	neuropathie hémorragique
+T28	PROC 928 964	complément thérapeutique chirurgical
+T29	PROC 970 1004	scintigraphie cutanéo-mandibulaire
+T30	ANAT 984 1004	cutanéo-mandibulaire
+T31	PROC 1010 1047	traction transœso-oesogastroduodénale
+T32	PROC 1053 1081	prise en charge chirurgicale
+T33	PROC 1119 1148	consultation pré anesthésique
+T34	MEAS 1195 1202	simples
+T35	PROC 1209 1226	mise en condition
+T36	LIVB 1247 1272	investigateurs infectieux
+T37	Concept_Idea 1298 1317	résultats cliniques
+T38	Concept_Idea 1333 1369	caractéristiques psychopathologiques
+T39	DISO 1385 1413	troubles neuropsychiatriques
+T40	LIVB 1501 1508	malades
+T41	LIVB 1521 1531	nouveau-né
+T42	TEMP 1539 1546	13 mois
+T43	DISO 1609 1634	rhinopharyngites érosives
+T44	TEMP 1661 1687	quelques heures auparavant
+T45	LIVB 1700 1702	il
+T46	CHEM 1801 1819	boisson alcoolisée
+T47	TEMP 1838 1850	1h30 environ
+T48	DISO 1873 1893	fistule prurigineuse
+T49	DISO 1903 1930	traumatisme cervico-vaginal
+T50	LIVB 2106 2112	enfant
+T51	TEMP 2168 2178	4 semaines
+T52	MEAS 2275 2280	18 cm
+T53	MEAS 2283 2290	16×9 cm
+T54	PROC 2676 2682	sortie
+T55	Hospital 2686 2706	service des urgences
+T56	DISO 2728 2752	déficit sensitivo-moteur
+T57	DISO 2760 2769	dysphonie
+T58	DISO 2791 2808	signes infectieux
+T59	Concept_Idea 2826 2840	plan somatique
+T60	PHEN 2844 2855	fonctionnel
+T61	DISO 2872 2896	symptomatologie clinique
+T62	TEMP 2907 2914	7heures
+T63	Hospital 2930 2945	bloc opératoire
+T64	PROC 2967 3000	antibioprophylaxie antibacillaire
+T65	DOSE 3002 3007	400mg
+T66	TEMP 3010 3012	/j
+T67	DISO 3064 3070	fièvre
+T68	MEAS 3129 3148	3,6 fois la normale
+T69	DISO 3164 3172	polypnée
+T70	MEAS 3184 3199	10 cycles / min
+T71	Concept_Idea 3221 3239	état hémodynamique
+T72	DISO 3258 3294	distension abdomino-pelvienne aigues
+T73	ANAT 3269 3287	abdomino-pelvienne
+T74	DEVI 3349 3354	bébés
+T75	DISO 3368 3395	détresse respiratoire aiguë
+T76	MODE 3439 3467	activité extrapyramidalgique
+T77	LIVB 3536 3542	enfant
+T78	LIVB 3699 3704	homme
+T79	DISO 3775 3823	accident vasculaire cérébral ischémique stade II
+T80	LIVB 3841 3843	il
+T81	DISO 4132 4172	bruits neuropsychiatriques hémorragiques

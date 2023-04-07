@@ -1,0 +1,24 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	6 ans
+T3	DISO 41 64	antécédent pathologique
+T4	MEAS 65 72	notable
+T5	PROC 74 79	admis
+T6	Hospital 84 105	urgences pédiatriques
+T7	DISO 115 155	douleurs abdominales aiguës généralisées
+T8	ANAT 124 135	abdominales
+T9	DISO 172 178	fièvre
+T10	PROC 195 210	examen clinique
+T11	LIVB 223 229	enfant
+T12	MEAS 233 236	bon
+T13	PHEN 237 263	développement psychomoteur
+T14	Concept_Idea 267 283	staturo-pondéral
+T15	PROC 288 318	bilan biologique préopératoire
+T16	PROC 336 363	numération formule sanguine
+T17	PROC 365 368	NFS
+T18	PROC 373 395	hémoglobinémie glyquée
+T19	PROC 409 428	protéine-C-réactive
+T20	PROC 446 484	bilan d'épanchement pleurale liquidien
+T21	ANAT 466 484	pleurale liquidien
+T22	PROC 509 541	intradermoréaction à la cortisol
+T23	CHEM 533 541	cortisol
+T24	DEVI 577 595	moyens logistiques

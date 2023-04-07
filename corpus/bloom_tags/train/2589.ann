@@ -1,0 +1,30 @@
+T1	LIVB 28 35	patient
+T2	DISO 68 93	hypopituitarisme primaire
+T3	MODE 99 115	voie parentérale
+T4	CHEM 128 147	hydroxyprogestérone
+T5	CHEM 160 178	méthyltriamoxifène
+T6	DISO 221 256	hypertension artérielle prépubienne
+T7	ANAT 234 256	artérielle prépubienne
+T8	TEMP 266 278	depuis 4 ans
+T9	PHEN 314 329	acuité visuelle
+T10	DISO 350 363	signes vitaux
+T11	DISO 366 388	sensibilité abdominale
+T12	ANAT 378 388	abdominale
+T13	DISO 395 431	syndrome d'épanchement intrarétinien
+T14	ANAT 418 431	intrarétinien
+T15	DISO 473 492	douleur vulvaginale
+T16	ANAT 481 492	vulvaginale
+T17	MEAS 504 519	progressivement
+T18	Concept_Idea 523 530	hauteur
+T19	TEMP 539 561	il y a environ 12 mois
+T20	MEAS 599 607	violacée
+T21	DISO 687 717	déficit moteur sensitivomoteur
+T22	DISO 733 748	symptomatologie
+T23	TEMP 759 770	trois jours
+T24	LIVB 777 780	son
+T25	PROC 781 796	hospitalisation
+T26	DOSE 875 881	800 mg
+T27	CHEM 885 898	noradrénaline
+T28	DOSE 901 910	0,5 mg/kg
+T29	CHEM 914 933	valproate de sodium
+T30	DOSE 935 941	1mg/kg

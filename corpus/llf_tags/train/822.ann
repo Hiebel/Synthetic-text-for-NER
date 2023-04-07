@@ -1,0 +1,98 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 66	antécédents pathologiques
+T3	MEAS 67 79	particuliers
+T4	PROC 90 102	hospitalisée
+T5	Hospital 111 118	service
+T6	DISO 128 158	douleurs pelviennes chroniques
+T7	ANAT 137 147	pelviennes
+T8	TEMP 168 181	depuis 2 mois
+T9	DISO 187 196	symptômes
+T10	DISO 223 229	fièvre
+T11	MEAS 232 236	39°C
+T12	DISO 243 264	syndrome hémorragique
+T13	Concept_Idea 286 298	état général
+T14	PHEN 313 324	normativité
+T15	PROC 329 344	examen clinique
+T16	LIVB 356 364	patiente
+T17	MEAS 368 371	bon
+T18	Concept_Idea 372 384	état général
+T19	ANAT 390 402	conjonctives
+T20	Concept_Idea 412 419	couleur
+T21	MEAS 420 434	blanc-jaunâtre
+T22	Localization 451 456	bords
+T23	MEAS 457 469	bien définis
+T24	ANAT 475 514	aires ganglionnaires cervico-thoracique
+T25	MEAS 523 543	légèrement atypiques
+T26	ANAT 557 579	nerf thoracique distal
+T27	Localization 573 579	distal
+T28	DISO 605 628	déficit sensitivomoteur
+T29	DISO 638 656	signe neurologique
+T30	DISO 674 684	lombalgies
+T31	DISO 695 718	troubles psychomotrices
+T32	PROC 734 750	examen somatique
+T33	DISO 762 776	particularités
+T34	PROC 780 791	échographie
+T35	Hospital 802 810	urgences
+T36	DISO 830 858	récidive anatomopathologique
+T37	LIVB 900 908	patiente
+T38	DISO 913 957	masse tissulaire hétérogène fibrocytonucléée
+T39	MEAS 967 971	7 cm
+T40	Concept_Idea 975 984	petit axe
+T41	MEAS 993 1006	6 centimètres
+T42	Concept_Idea 1010 1019	grand axe
+T43	ANAT 1045 1067	sinus maxillaire droit
+T44	Localization 1062 1067	droit
+T45	ANAT 1087 1106	région sous cutanée
+T46	ANAT 1117 1151	parties molles médio-mandibulaires
+T47	ANAT 1186 1210	structures sus pubiennes
+T48	MEAS 1323 1328	10 mm
+T49	MEAS 1367 1375	5 x 6 cm
+T50	PROC 1489 1524	TDM abdominopelvienne scanno-guidée
+T52	DISO 1550 1586	formation polypoïde monobloc maligne
+T53	MEAS 1599 1609	nombreuses
+T54	DISO 1674 1711	polynucléaires éosinophiles calcifiés
+T55	DISO 1727 1781	proliférations réticulocarotidiennes basales nécrosées
+T56	DISO 1854 1876	neurofibromes myxoïdes
+T57	PROC 1999 2023	scintigraphie pulmonaire
+T58	ANAT 2013 2023	pulmonaire
+T59	MEAS 2036 2043	normale
+T60	PROC 2050 2086	étude macroscopiquement extemporanée
+T61	DISO 2131 2176	lésion ostéochondrale lésionnelle dysplasique
+T62	Concept_Idea 2239 2259	caractère multimodal
+T63	DISO 2280 2334	métastase mucineuse kystique carcinomateuse encapsulée
+T64	DEVI 2341 2357	bijou électrique
+T65	MEAS 2367 2372	128mm
+T66	Concept_Idea 2376 2385	grand axe
+T67	Concept_Idea 2400 2413	demi-longueur
+T68	MEAS 2430 2435	234mm
+T70	LIVB 3299 3305	enfant
+T71	TEMP 3313 3320	11 mois
+T72	DISO 3344 3377	hématome sous dural du rein droit
+T73	ANAT 3367 3377	rein droit
+T74	Localization 3372 3377	droit
+T75	LIVB 3402 3408	malade
+T76	Concept_Idea 3419 3440	antécédents cliniques
+T77	PROC 3448 3457	admission
+T78	PROC 3511 3535	exploration chirurgicale
+T79	DISO 3562 3579	récidive clinique
+T80	DISO 3586 3614	symptomatologie neurologique
+T81	DISO 3646 3694	thrombophlébite aiguë peropératoire idiopathique
+T82	PHEN 3718 3740	traitement substitutif
+T83	PROC 3759 3783	traitements antibiotique
+T84	CHEM 3771 3783	antibiotique
+T85	PROC 3810 3834	consultations prénatales
+T86	PROC 3900 3929	prise en charge thérapeutique
+T87	PROC 3934 3955	contrôle radiologique
+T88	DISO 3982 4019	lithiase utérine fœtale intrakystique
+T89	ANAT 3991 4019	utérine fœtale intrakystique
+T90	MEAS 4029 4033	6 mm
+T91	Concept_Idea 4037 4046	grand axe
+T92	ANAT 4059 4073	rein supérieur
+T93	Localization 4064 4073	supérieur
+T94	Concept_Idea 4132 4151	fraction d'éjection
+T95	MEAS 4161 4180	45° centimètre cube
+T96	MEAS 4205 4208	55%
+T97	MEAS 4235 4238	75%
+T98	MEAS 4250 4253	60%
+T99	MEAS 4275 4278	50%
+T100	MEAS 4315 4325	favorables

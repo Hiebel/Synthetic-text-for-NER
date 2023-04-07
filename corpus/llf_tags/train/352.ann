@@ -1,0 +1,24 @@
+T1	LIVB 4 11	Mlle BW
+T2	MEAS 59 60	2
+T3	LIVB 61 68	enfants
+T4	PROC 96 102	suivie
+T5	LIVB 150 156	garçon
+T6	TEMP 164 170	7 mois
+T7	LIVB 218 220	sa
+T8	LIVB 221 225	mère
+T9	PROC 276 283	mariage
+T10	LIVB 377 380	son
+T11	LIVB 381 385	père
+T12	LIVB 404 407	ses
+T13	LIVB 415 422	parents
+T14	Concept_Idea 457 478	 projets matrimoniaux
+T15	LIVB 486 489	ils
+T16	LIVB 641 658	familles éplorées
+T17	LIVB 843 861	cousines maternels
+T18	LIVB 890 894	leur
+T19	LIVB 895 908	belle-famille
+T20	PHEN 1448 1453	union
+T21	Hospital 1645 1667	Consultation prénatale
+T23	LIVB 2152 2160	Patiente
+T24	PROC 2601 2630	contrôles neuropsychiatriques
+T25	TEMP 2738 2743	6j+3h

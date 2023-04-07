@@ -1,0 +1,59 @@
+T1	LIVB 29 34	femme
+T2	PROC 60 66	admise
+T3	Hospital 71 79	urgences
+T5	ANAT 98 111	épigastriques
+T6	TEMP 121 134	depuis 2 mois
+T7	DISO 150 162	vomissements
+T8	DISO 173 182	symptômes
+T9	PROC 197 211	interrogatoire
+T10	LIVB 215 223	patiente
+T11	DISO 252 272	cholécystite aiguade
+T12	MEAS 299 310	progressive
+T13	DISO 330 357	hyperparathyroïdie primaire
+T14	DOSE 363 369	1mg/kg
+T15	MODE 446 464	voie intraveineuse
+T16	MEAS 505 513	modérées
+T17	PHEN 526 534	digestif
+T18	DISO 548 575	hypoparathyroïdie nodulaire
+T19	DISO 626 636	ulcéreuses
+T20	DISO 658 749	métastases ganglionnaires hypo-échogènes basithoraciques inféro-latérales laryngopharyngées
+T22	TEMP 775 789	environ 10 ans
+T23	MEAS 805 821	de façon brutale
+T24	Concept_Idea 827 833	volume
+T25	MEAS 843 856	plus marquées
+T26	DISO 944 961	lésions kystiques
+T27	LIVB 982 990	patiente
+T28	DISO 1028 1060	syndrome d'épanchement liquidien
+T29	ANAT 1051 1060	liquidien
+T30	DISO 1081 1100	signes fonctionnels
+T31	DISO 1127 1148	détresse respiratoire
+T32	PHEN 1136 1148	respiratoire
+T33	DISO 1181 1199	processus tumorale
+T34	MEAS 1273 1279	rapide
+T35	PROC 1373 1401	prise en charge chirurgicale
+T36	PROC 1417 1439	pronostic radiologique
+T37	PROC 1562 1587	examen clinique somatique
+T38	DISO 1612 1625	particularité
+T39	PROC 1631 1692	scanner thoraco-abdomino-pelvien péraxillaire scannographique
+T41	MEAS 1706 1713	normale
+T42	PROC 1747 1768	recherche étiologique
+T44	ANAT 1991 2007	zones pariétales
+T45	ANAT 2031 2051	veines cave centraux
+T46	Localization 2043 2051	centraux
+T47	ANAT 2079 2113	artères coronaires méso-rhiniennes
+T48	DEVI 2199 2213	fil résorbable
+T49	MEAS 2274 2284	stade I-II
+T50	MEAS 2357 2364	simples
+T51	MEAS 2399 2412	spectaculaire
+T52	DISO 2479 2495	dyspnée d'effort
+T53	MEAS 2507 2517	rapidement
+T54	Concept_Idea 2521 2531	profondeur
+T55	PROC 2564 2584	tocolyse liquidienne
+T56	DOSE 2663 2669	100 mg
+T57	TEMP 2669 2675	/heure
+T58	CHEM 2691 2724	séro-anticorps antithyroglobuline
+T59	LIVB 2729 2737	patiente
+T60	MODE 2754 2764	voie orale
+T61	CHEM 2767 2792	Hormonotrophic Antagonist
+T62	PHEN 2797 2806	grossesse
+T63	DISO 2842 2859	souffrance fœtale

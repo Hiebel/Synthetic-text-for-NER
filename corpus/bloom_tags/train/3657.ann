@@ -1,0 +1,25 @@
+T1	LIVB 20 25	femme
+T2	DISO 42 65	antécédent pathologique
+T3	MEAS 66 73	notable
+T4	PROC 75 82	traitée
+T5	DISO 92 119	hyperparathyroïdie primaire
+T6	CHEM 125 139	cholestyrérone
+T7	DOSE 141 150	100 mg/m²
+T8	TEMP 150 152	/j
+T9	TEMP 154 167	depuis 6 mois
+T10	PROC 171 186	examen clinique
+T11	PROC 191 200	admission
+T12	LIVB 214 222	patiente
+T13	MEAS 226 229	bon
+T14	Concept_Idea 230 242	état général
+T15	PHEN 252 257	râles
+T16	MEAS 258 278	légèrement crépitant
+T17	ANAT 285 292	abdomen
+T18	MEAS 293 299	souple
+T19	PROC 316 332	examen somatique
+T20	DISO 344 357	particularité
+T21	PROC 362 380	bilan paraclinique
+T22	PROC 413 433	taux de prothrombine
+T23	MEAS 442 445	92%
+T24	PROC 460 487	numération formule sanguine
+T25	MEAS 524 533	13300/mm3

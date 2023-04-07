@@ -1,0 +1,101 @@
+T1	LIVB 15 22	patient
+T2	DISO 65 83	fistule thoracique
+T3	ANAT 73 83	thoracique
+T4	PROC 97 106	admission
+T5	Hospital 115 135	service des urgences
+T6	PROC 139 154	examen clinique
+T7	LIVB 167 174	patient
+T8	MEAS 178 185	mauvais
+T9	Concept_Idea 186 198	état général
+T10	DISO 202 213	polypneïque
+T11	Localization 217 230	1/3 supérieur
+T12	DISO 236 244	boiterie
+T13	DISO 248 257	dyspnéies
+T14	PROC 283 299	examen somatique
+T15	DISO 311 324	particularité
+T16	PHEN 330 348	suites opératoires
+T17	MEAS 354 361	simples
+T18	PROC 367 392	réanimation préopératoire
+T19	Localization 428 433	médio
+T20	DISO 461 491	distension abdomino-pelviennes
+T21	ANAT 472 491	abdomino-pelviennes
+T22	PROC 520 559	chimiothérapie palliative intraveineuse
+T23	CHEM 565 577	amoxicilline
+T24	DOSE 579 584	20 mg
+T25	TEMP 584 594	/24 heures
+T26	Concept_Idea 604 619	plan biologique
+T27	DISO 633 645	hyponatrémie
+T28	MEAS 648 658	0,7 mmol/l
+T29	DISO 684 701	signes infectieux
+T30	DISO 719 746	remaniements inflammatoires
+T31	DISO 756 775	déficit immunitaire
+T32	PROC 780 811	scanner thoraco-abdominopelvien
+T33	ANAT 788 811	thoraco-abdominopelvien
+T34	DISO 832 873	formation tissulaire hypodense hétérogène
+T35	MEAS 882 886	5 cm
+T36	Concept_Idea 890 898	diamètre
+T37	MEAS 958 971	8 centimètres
+T38	Concept_Idea 975 984	grand axe
+T39	ANAT 1003 2438	nerf laryngé inférieur en avant jusqu'aux parties molles supérieure gauches qui délimitent son espace liquidien superficiel sur toute sa longueur. Devant ce caractère morphologique associé à cette symptomatologie polymorphique il ne peut être fait aucune prise en charge chirurgicale. La TDM cervico-thoracique réalisé après monitorage biquotidienne montrait que ces adhérences cervicales ont été reliées aux ganglions médiastinaux rétromamelonniens sus pubien ainsi qu'au muscle psoas transoesophagien basal droit autour desquels elles étaient confinées. Elles faisaient également 2mm de petit axe se frayant un chemin entre les aires ganglionnaires antro-exophytiques et leurs troncs supra mésentériques postéro-latéral bilatéraux. Cette prolifération tumorale infiltreptoïde faisait aussi 4 mètres de grande axe prenant presque toutes les membranes conjonctives cutanées; elle délimitait chaque muqueuse fundique adjacente mais englobait tous les autres structures grêliques dont certaines avaient leur racines musculo-cutanés eccrines bien individualisées. Ces adhérences chondroblastiques correspondaient donc à autant de zones anéchogènes dissociables appartenant chacune à deux branches lymphoplasmales endométriosiques disposées symétriquement bordant respectivement ses segments maxillaires inféro-interne moyen et interhépato-mandibulaire interne droite. L'ensemble semblait faire office de colonne vertébrale extrapalpébrale
+T40	Localization 1026 1034	en avant
+T41	ANAT 1045 1078	parties molles supérieure gauches
+T42	Localization 1071 1078	gauches
+T43	ANAT 1098 1126	espace liquidien superficiel
+T44	Concept_Idea 1140 1148	longueur
+T45	Concept_Idea 1160 1183	caractère morphologique
+T46	DISO 1200 1229	symptomatologie polymorphique
+T47	PROC 1258 1286	prise en charge chirurgicale
+T48	PROC 1291 1313	TDM cervico-thoracique
+T49	ANAT 1295 1313	cervico-thoracique
+T50	PROC 1328 1352	monitorage biquotidienne
+T51	DISO 1370 1391	adhérences cervicales
+T52	ANAT 1412 1452	ganglions médiastinaux rétromamelonniens
+T53	ANAT 1476 1517	muscle psoas transoesophagien basal droit
+T54	Localization 1512 1517	droit
+T55	MEAS 1585 1588	2mm
+T56	Concept_Idea 1592 1601	petit axe
+T57	ANAT 1633 1672	aires ganglionnaires antro-exophytiques
+T58	ANAT 1682 1735	troncs supra mésentériques postéro-latéral bilatéraux
+T59	Localization 1725 1735	bilatéraux
+T60	DISO 1743 1780	prolifération tumorale infiltreptoïde
+T61	MEAS 1795 1803	4 mètres
+T62	Concept_Idea 1807 1817	grande axe
+T63	ANAT 1845 1876	membranes conjonctives cutanées
+T64	ANAT 1901 1918	muqueuse fundique
+T65	ANAT 1960 1980	structures grêliques
+T66	ANAT 2009 2041	racines musculo-cutanés eccrines
+T67	DISO 2068 2096	adhérences chondroblastiques
+T68	ANAT 2188 2229	branches lymphoplasmales endométriosiques
+T69	ANAT 2282 2323	segments maxillaires inféro-interne moyen
+T70	ANAT 2327 2366	interhépato-mandibulaire interne droite
+T73	TEMP 2545 2555	/24 heures
+T74	PROC 2719 2731	prélèvements
+T75	Hospital 2749 2756	service
+T76	LIVB 2761 2767	malade
+T77	PROC 2783 2811	antibiothérapie probabiliste
+T78	PROC 2823 2856	complément thérapeutique adjuvant
+T79	CHEM 2858 2889	amoxicilline acide clavulanique
+T80	DOSE 2891 2901	0,5 - 5 mg
+T81	TEMP 2901 2911	/24 heures
+T82	PROC 2917 2946	chimiothérapie antibacillaire
+T84	DOSE 2968 2972	1 ml
+T85	TEMP 2972 2982	/24 heures
+T86	PROC 2998 3024	surveillance échographique
+T87	MEAS 3041 3048	stricte
+T88	TEMP 3055 3065	6 semaines
+T89	DISO 3107 3127	signes histaminiques
+T90	TEMP 3139 3144	3 ans
+T91	PROC 3149 3176	contrôle neuropsychiatrique
+T92	MEAS 3190 3197	négatif
+T93	DISO 3226 3246	récidive traumatique
+T94	DISO 3256 3279	déficit sensitivomoteur
+T95	LIVB 3288 3295	patient
+T96	PROC 3301 3339	laparotomie exploratrice préopératoire
+T97	PROC 3370 3387	geste chirurgical
+T98	PROC 3402 3414	radiologique
+T99	PROC 3440 3465	étude immunohistochimique
+T100	Concept_Idea 3507 3529	particularité clinique
+T101	MEAS 3566 3576	favorables
+T102	Concept_Idea 3584 3601	plan radiologique
+T103	DISO 3624 3645	récidive pathologique
+T104	PROC 3666 3678	intervention

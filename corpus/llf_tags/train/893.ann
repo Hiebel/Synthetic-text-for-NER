@@ -1,0 +1,18 @@
+T1	DISO 41 78	accident vasculaire thoraco-abdominal
+T2	ANAT 61 78	thoraco-abdominal
+T3	LIVB 100 106	malade
+T4	DISO 111 159	décompensation sensitivo-sensorielle douloureuse
+T5	TEMP 169 183	depuis 5 jours
+T6	PROC 206 218	intervention
+T7	PROC 224 254	traitement médical substitutif
+T8	CHEM 260 276	antipyrazinamide
+T9	PROC 290 312	radio cardiothoracique
+T10	PROC 346 400	kinésithérapie cognitivo-motrice biphasique péridurale
+T11	Concept_Idea 429 449	paramètres cliniques
+T12	LIVB 512 522	nourrisson
+T13	TEMP 530 540	7 semaines
+T14	LIVB 608 613	maçon
+T15	LIVB 617 626	bouvillon
+T16	TEMP 635 645	11semaines
+T17	TEMP 651 655	6ans
+T18	PROC 667 683	mariage monogame

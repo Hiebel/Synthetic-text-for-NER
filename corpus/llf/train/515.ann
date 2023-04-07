@@ -1,0 +1,11 @@
+T1	LIVB 3 10	patient
+T2	PHEN 15 21	décédé
+T3	Concept_Idea 26 29	âge
+T4	DISO 45 87	kyste
+T5	ANAT 64 87	membre
+T6	Localization 81 87	gauche
+T7	LIVB 89 91	Il
+T8	PROC 98 103	opéré
+T9	Localization 129 135	droite
+T10	TEMP 139 143	2009
+T11	MEAS 172 179	simples

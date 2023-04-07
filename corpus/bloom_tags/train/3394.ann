@@ -1,0 +1,23 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	4 ans
+T3	DISO 76 94	douleur abdominale
+T4	ANAT 84 94	abdominale
+T5	DISO 123 137	amaigrissement
+T6	MEAS 148 153	30 kg
+T7	DISO 174 194	anomalies digestives
+T8	PROC 234 246	consultation
+T9	Hospital 251 276	urgences ophtalmologiques
+T10	PROC 282 306	surveillance étiologique
+T11	DISO 342 357	symptomatologie
+T12	LIVB 359 362	son
+T13	PROC 363 372	admission
+T14	DISO 389 410	détresse respiratoire
+T15	PHEN 398 410	respiratoire
+T16	DISO 462 474	thrombopénie
+T17	MEAS 477 500	160 000 leucocytes/mm 3
+T18	DISO 602 614	vascularisée
+T19	LIVB 683 691	patiente
+T20	MEAS 699 708	plusieurs
+T21	MEAS 751 774	progressivement altérée
+T22	DISO 909 929	dyspnée hypertensive
+T23	MEAS 939 949	imprenable

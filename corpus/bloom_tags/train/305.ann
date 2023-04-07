@@ -1,0 +1,31 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 83 88	admis
+T5	Hospital 93 101	urgences
+T6	DISO 111 132	détresse respiratoire
+T7	Concept_Idea 120 132	respiratoire
+T8	DISO 148 182	douleurs thoraciques constrictives
+T9	ANAT 157 168	thoraciques
+T10	TEMP 192 214	depuis plusieurs jours
+T11	PROC 218 233	examen clinique
+T12	LIVB 246 253	patient
+T13	MEAS 257 266	assez bon
+T14	Concept_Idea 267 279	état général
+T15	PROC 285 315	auscultation pleuro-pulmonaire
+T16	ANAT 298 315	pleuro-pulmonaire
+T17	DISO 350 387	masse du sinus latéro-sternale gauche
+T18	ANAT 359 387	sinus latéro-sternale gauche
+T19	Localization 381 387	gauche
+T20	MEAS 399 414	progressivement
+T21	Concept_Idea 418 424	volume
+T22	TEMP 433 450	2 mois auparavant
+T23	PROC 455 474	bilan préopératoire
+T24	PROC 488 523	échographie cardio-vasculo-nerveuse
+T25	ANAT 500 523	cardio-vasculo-nerveuse
+T26	PROC 525 528	ECG
+T27	MEAS 550 557	normaux
+T28	PROC 579 602	examens complémentaires
+T29	DISO 620 655	syndrome d'épanchement péricardique
+T30	ANAT 643 655	péricardique
+T31	DISO 668 687	organométastatiques

@@ -1,0 +1,15 @@
+T1	LIVB 3 10	patient
+T2	MEAS 61 71	3éme degré
+T3	PROC 76 90	pris en charge
+T4	TEMP 160 171	24 semaines
+T5	PROC 186 208	consultation prénatale
+T6	DISO 231 265	symptomatologie neuropsychiatrique
+T7	DISO 275 309	troubles sensitivomoteurs tactiles
+T8	PROC 464 524	prise en charge pré néonatale multidisciplinaire pédiatrique
+T9	PROC 556 583	thyroïdectomie exploratrice
+T10	DISO 603 660	ganglions axillaires cervicaux locorégionaux superficiels
+T11	DISO 693 729	métastases osseuses aiguës profondes
+T12	Concept_Idea 807 825	état hémodynamique
+T13	DISO 859 891	céphalées fébriles hémorragiques
+T14	DISO 961 990	vomissements ophtalmologiques
+T15	DISO 1006 1029	râles aigues glousiques

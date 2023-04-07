@@ -1,0 +1,89 @@
+T1	LIVB 29 37	patiente
+T2	DISO 72 84	métrorragies
+T3	CHEM 127 138	corticoïdes
+T4	MODE 143 153	voie orale
+T5	DOSE 155 160	400mg
+T6	CHEM 163 177	hydrocortisone
+T7	TEMP 179 198	pendant 16 semaines
+T8	TEMP 221 232	14 semaines
+T9	PROC 238 269	échographie abdomino- périnéale
+T10	ANAT 250 269	abdomino- périnéale
+T11	DISO 328 343	symptomatologie
+T12	PROC 383 412	prélèvements bactériologiques
+T13	DISO 519 541	paragangliome kystique
+T14	DISO 554 577	localisations tumorales
+T15	DISO 591 614	myxome ostéo-myxo-rénal
+T16	DISO 640 663	hypopituitarie primaire
+T17	PROC 726 748	immunohistochirurgical
+T19	DISO 943 957	résidu tumoral
+T20	PROC 974 999	annexectomie chirurgicale
+T21	DISO 1006 1026	pneumo-splénomégalie
+T22	DISO 1043 1057	lésion maligne
+T23	DISO 1169 1199	utérus polymyomateux nodulaire
+T24	DISO 1216 1240	polydactylie congénitale
+T25	PROC 1304 1329	diagnostique différentiel
+T26	PROC 1373 1392	bilan préopératoire
+T27	PROC 1425 1470	exploration cyto-bactériolytique transaminase
+T28	MEAS 1484 1492	posative
+T29	PROC 1506 1525	protéine-C-réactive
+T30	MEAS 1545 1553	180 UI/L
+T31	PROC 1566 1602	scanner abdomino-pelvien explorateur
+T32	ANAT 1574 1602	abdomino-pelvien explorateur
+T33	DISO 1625 1642	kystes hydatiques
+T34	MEAS 1652 1657	46 mm
+T35	Concept_Idea 1661 1675	grand diamètre
+T36	ANAT 1815 1839	basithoraciques vaginaux
+T37	ANAT 1872 1907	membres inférieurs ovariocentriques
+T38	ANAT 1931 1955	vésicules ombiliculaires
+T39	ANAT 1987 2009	surrénale pancréatique
+T40	ANAT 2097 2151	région para-hypophysaire antéhypophyso-gonadocervicale
+T41	PROC 2212 2256	tomodensitométrie thoraco-abdomino-pelvienne
+T42	ANAT 2230 2256	thoraco-abdomino-pelvienne
+T43	PROC 2311 2354	traitement curatif radiothérapique adjuvant
+T44	PROC 2360 2391	radio-chimiothérapie palliative
+T45	DISO 2428 2433	masse
+T46	MEAS 2442 2480	de plus en plus grossièrement arrondie
+T47	MEAS 2495 2517	rapidement progressive
+T48	ANAT 2548 2573	intrapéritonéal liquidien
+T49	MEAS 2586 2605	supra-centimétrique
+T50	MEAS 2656 2660	6 kg
+T51	PROC 2674 2684	découverte
+T52	DISO 2723 2730	maladie
+T53	LIVB 2732 2736	Elle
+T54	PROC 2754 2771	geste chirurgical
+T55	PROC 2777 2796	cystoplastie totale
+T56	PROC 2803 2820	curage péritonéal
+T57	ANAT 2810 2820	péritonéal
+T58	MEAS 2874 2881	simples
+T59	PHEN 2902 2917	fonction rénale
+T60	ANAT 2911 2917	rénale
+T61	MEAS 2918 2927	conservée
+T62	TEMP 2946 2952	15 ans
+T63	DISO 2958 2966	récidive
+T64	DISO 2977 3002	localisations secondaires
+T65	CHEM 3021 3052	amoxicilline-acide clavulanique
+T66	CHEM 3066 3080	hydrocortisone
+T67	DOSE 3082 3086	1 mg
+T69	DISO 3100 3114	ménétrorragies
+T70	MEAS 3130 3145	progressivement
+T71	Concept_Idea 3149 3155	volume
+T72	Concept_Idea 3158 3164	aspect
+T73	MEAS 3165 3193	macroscopiquement gélatineux
+T74	TEMP 3203 3216	depuis 5 mois
+T75	MEAS 3231 3244	plus gênantes
+T76	LIVB 3295 3299	elle
+T77	Hospital 3320 3343	urgences psychiatriques
+T78	DISO 3363 3385	détresse psychomotrice
+T79	ANAT 3452 3457	corps
+T80	DISO 3471 3490	tachycardie fébrile
+T81	DEVI 3531 3545	moteur externe
+T82	DISO 3552 3575	symptômes neurologiques
+T83	Concept_Idea 3646 3658	état général
+T84	LIVB 3678 3689	jeune femme
+T85	TEMP 3698 3704	17 ans
+T86	DISO 3816 3843	syndrome d'immunodépression
+T87	DISO 3893 3906	consanguinité
+T89	PROC 4139 4154	examen physique
+T90	LIVB 4168 4176	patiente
+T91	Concept_Idea 4201 4219	plan hémodynamique
+T92	MEAS 4231 4243	spontanément

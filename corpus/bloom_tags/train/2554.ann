@@ -1,0 +1,25 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	3 ans
+T3	Concept_Idea 37 48	antécédents
+T4	MEAS 49 61	particuliers
+T5	PROC 63 67	reçu
+T6	Hospital 72 80	urgences
+T7	DISO 90 111	détresse respiratoire
+T8	ANAT 99 111	respiratoire
+T9	PROC 115 130	examen clinique
+T10	LIVB 143 149	enfant
+T11	Concept_Idea 174 192	plan hémodynamique
+T12	ANAT 208 219	thoraciques
+T13	MEAS 222 240	100 battements/min
+T14	PHEN 247 265	tension artérielle
+T15	ANAT 255 265	artérielle
+T16	MEAS 274 286	130/80 mm Hg
+T17	PROC 291 310	pression artérielle
+T18	ANAT 300 310	artérielle
+T19	MEAS 319 331	135 / 80mmHg
+T20	Concept_Idea 356 363	normale
+T21	PROC 380 396	examen somatique
+T22	DISO 419 436	dyspnée sifflante
+T23	DISO 452 495	paralysie globale du membre supérieur droit
+T24	ANAT 473 495	membre supérieur droit
+T25	Localization 490 495	droit

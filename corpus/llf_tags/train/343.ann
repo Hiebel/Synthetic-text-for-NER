@@ -1,0 +1,52 @@
+T1	PROC 2 17	examen clinique
+T2	PROC 22 31	admission
+T3	LIVB 47 55	patiente
+T4	MEAS 59 66	mauvais
+T5	Concept_Idea 67 79	état général
+T6	DISO 89 97	matières
+T7	ANAT 111 117	bassin
+T8	DISO 136 147	tuberculose
+T9	LIVB 167 175	patiente
+T10	PROC 186 218	traitement antibioprophylactique
+T11	CHEM 197 218	antibioprophylactique
+T12	CHEM 220 251	Amoxicilline-acide clavulanique
+T13	CHEM 253 263	Isoniazide
+T14	PHEN 269 278	grossesse
+T15	TEMP 343 357	environ 6 mois
+T16	MEAS 367 371	deux
+T17	LIVB 372 379	garçons
+T18	DISO 423 442	contage tuberculeux
+T19	DISO 449 470	maladies infectieuses
+T20	PROC 498 528	complément psychothérapeutique
+T21	PROC 536 612	thyroïdectomies martiales intraveineuse axillaire substitutives fractionnées
+T22	LIVB 629 636	parents
+T23	TEMP 661 669	six mois
+T24	Localization 852 867	tiers inferieur
+T25	ANAT 871 883	cuir chevelu
+T26	MEAS 918 931	satisfaisante
+T27	TEMP 1008 1019	quatre mois
+T28	TEMP 1023 1032	sept mois
+T29	LIVB 1082 1090	familles
+T30	PROC 1118 1129	vie commune
+T31	LIVB 1173 1179	chiens
+T32	LIVB 1198 1204	filles
+T34	LIVB 1283 1287	mère
+T35	TEMP 1296 1302	18 ans
+T36	TEMP 1319 1323	2003
+T37	LIVB 1343 1354	nouveau-nés
+T38	DEVI 1491 1522	ustensiles de cuisine portatifs
+T39	LIVB 1624 1630	enfant
+T40	TEMP 1638 1642	1 an
+T41	PROC 1713 1779	laparotomie exploratrice scanno-trachéale bipédiculaire percutanée
+T42	PROC 1795 1812	tomodensitométrie
+T43	PROC 1841 1947	mastectomie large endoscopique transoesogastroduodénale peropérante fémorale postéro-ombiliquienne élargie
+T44	MEAS 1989 2000	1350 gramme
+T45	PROC 2036 2064	prise en charge chirurgicale
+T46	Concept_Idea 2086 2106	aspect morphologique
+T47	DISO 2123 2137	tumeur maligne
+T48	DISO 2180 2222	symptômes infectieux néonatalorrhésionnels
+T49	DISO 2228 2285	perforation urétérostomie achilléenne distale congénitale
+T50	MEAS 2421 2428	simples
+T51	PROC 2436 2458	consultation prénatale
+T52	PROC 2468 2488	contrôle obstétrical
+T53	PROC 2525 2548	réanimation pédiatrique

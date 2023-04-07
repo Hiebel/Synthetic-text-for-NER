@@ -1,0 +1,44 @@
+T1	LIVB 4 9	femme
+T2	PROC 48 60	hospitalisée
+T3	Hospital 65 73	urgences
+T4	DISO 92 106	amaigrissement
+T5	MEAS 117 122	12 kg
+T6	PROC 159 184	intervention chirurgicale
+T7	PROC 218 236	traitement curatif
+T8	CHEM 247 258	Cyclosérine
+T9	CHEM 260 271	Ceftriaxone
+T10	CHEM 273 286	bêtaméthasone
+T11	CHEM 288 301	Triméthoprime
+T12	CHEM 303 315	Pyrazinamide
+T13	CHEM 317 327	Ethambutol
+T14	CHEM 329 352	Guanidine hydrochloride
+T15	CHEM 354 364	Isoniazide
+T16	CHEM 366 377	Vinblastine
+T17	CHEM 379 392	Erythromycine
+T18	CHEM 394 400	Vit B6
+T19	CHEM 402 415	Phénobarbital
+T20	CHEM 417 430	Chlorhexidine
+T21	CHEM 432 452	Sulfate de magnésium
+T22	CHEM 454 463	Captopril
+T23	CHEM 465 473	Atenolol
+T24	CHEM 475 494	Valproate de sodium
+T25	CHEM 496 507	Propranolol
+T26	CHEM 510 522	Simvastatine
+T27	DOSE 524 530	100 mg
+T28	TEMP 530 532	/j
+T29	CHEM 537 547	Rifentanil
+T30	DOSE 549 556	1 mg/kg
+T31	TEMP 556 561	/ min
+T32	PROC 566 586	examen préopératoire
+T33	DISO 603 624	détresse respiratoire
+T34	PHEN 612 624	respiratoire
+T35	DISO 655 672	dyspnée sifflante
+T36	MEAS 687 693	rapide
+T37	TEMP 703 725	depuis plusieurs jours
+T38	DISO 748 765	ictère généralisé
+T39	DISO 778 790	métrorragies
+T40	DISO 867 882	symptomatologie
+T41	PROC 887 929	scanner cervico-thoracique scannographique
+T42	ANAT 895 913	cervico-thoracique
+T43	PROC 943 976	échocardiographie transthoracique
+T44	ANAT 961 976	transthoracique

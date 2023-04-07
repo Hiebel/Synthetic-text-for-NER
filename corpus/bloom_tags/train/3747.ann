@@ -1,0 +1,36 @@
+T1	LIVB 9 17	Patiente
+T2	DISO 70 92	polyarthrite chronique
+T3	TEMP 118 131	depuis 3 mois
+T4	DISO 143 157	amaigrissement
+T5	MEAS 168 173	12 kg
+T6	DISO 180 213	syndrome inflammatoire biologique
+T7	PROC 215 217	VS
+T8	PROC 219 222	CRP
+T9	PROC 225 252	numération formule sanguine
+T10	PROC 257 271	interrogatoire
+T11	LIVB 286 290	elle
+T12	Hospital 307 315	urgences
+T13	Concept_Idea 350 362	état général
+T14	MEAS 372 383	très altéré
+T15	MEAS 465 472	modérée
+T16	DISO 490 518	symptomatologie neurologique
+T17	DISO 531 568	adénopathies cervico-thyro-lunariques
+T18	LIVB 614 625	jeune femme
+T19	PROC 639 669	auscultation pleuro-pulmonaire
+T20	ANAT 652 669	pleuro-pulmonaire
+T21	DISO 684 704	souffrance trachéale
+T22	ANAT 695 704	trachéale
+T23	MEAS 723 738	progressivement
+T24	Concept_Idea 742 748	volume
+T25	DISO 792 832	épanchement basithoracique latéro-septal
+T26	ANAT 804 832	basithoracique latéro-septal
+T27	DISO 952 982	hypertrophie ventriculo-fœtale
+T28	ANAT 965 982	ventriculo-fœtale
+T29	PROC 1091 1118	touchers cardio-vasculaires
+T30	ANAT 1100 1118	cardio-vasculaires
+T31	MEAS 1127 1134	normaux
+T32	PROC 1137 1153	examen somatique
+T33	DISO 1170 1182	hyperthermie
+T34	MEAS 1185 1190	39°2C
+T35	DISO 1206 1228	hypotension artérielle
+T36	ANAT 1218 1228	artérielle

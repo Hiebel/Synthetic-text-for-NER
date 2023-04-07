@@ -1,0 +1,64 @@
+T1	LIVB 16 24	patiente
+T2	DISO 81 108	détresse respiratoire aiguë
+T3	PHEN 90 108	respiratoire aiguë
+T4	DISO 110 134	trachéobronchodilatation
+T5	DISO 141 157	dyspnée d'effort
+T6	DISO 188 261	syndrome d'épanchement péricardique liquidien parenchymateux érythémateur
+T8	TEMP 271 287	depuis 72 heures
+T9	PROC 292 316	scanner abdomino pelvien
+T10	ANAT 300 316	abdomino pelvien
+T11	DISO 333 393	masse tissulaire kystique pléomorphe hypo-échogène hypodense
+T12	MEAS 402 412	13/10/8 cm
+T13	MODE 429 438	injection
+T14	DOSE 442 446	2 ml
+T15	CHEM 450 468	methylprednisolone
+T16	ANAT 486 498	corps utérin
+T17	DISO 521 530	anomalies
+T18	DISO 547 583	extension ganglionnaire métastatique
+T19	ANAT 557 583	ganglionnaire métastatique
+T20	LIVB 605 613	patiente
+T21	PROC 624 648	reprise chirurgicalement
+T22	PROC 654 687	cervico-vésiculaire transfixiante
+T23	PROC 705 747	curage liquidien pérituberculeux pariétale
+T24	ANAT 712 747	liquidien pérituberculeux pariétale
+T25	PROC 762 786	paraclinie préopératoire
+T26	PROC 792 811	numération sanguine
+T27	PROC 824 859	prélèvement bactérioculture purifié
+T28	PROC 893 918	diagnostics différentiels
+T29	PROC 928 940	explorations
+T30	DISO 968 993	localisations secondaires
+T31	DISO 1008 1030	cytolyse buccodentaire
+T32	ANAT 1017 1030	buccodentaire
+T33	DISO 1072 1091	symptômes cliniques
+T34	PROC 1135 1171	tomodensitométrie abdomino-pelvienne
+T35	ANAT 1153 1171	abdomino-pelvienne
+T37	ANAT 1331 1351	membranes ovariennes
+T38	ANAT 1372 1397	parties molles abdominaux
+T39	ANAT 1419 1451	fosse iliaque supra épigastrique
+T40	Localization 1433 1438	supra
+T41	ANAT 1472 1499	jonction recto-sigmoïdienne
+T42	PROC 1539 1577	radiothérapie adjuvante complémentaire
+T43	PROC 1624 1644	toilette intestinale
+T44	ANAT 1633 1644	intestinale
+T45	DEVI 1761 1764	TSA
+T46	PROC 1782 1809	hémicolectomie exploratrice
+T47	DISO 1868 1873	masse
+T48	PROC 1889 1894	palpé
+T49	PROC 1931 1958	technique d'immuno-marquage
+T50	PROC 2049 2068	immunohistochimique
+T51	PROC 2218 2226	biopsies
+T52	PROC 2261 2286	étude immunohistochimique
+T53	DISO 2465 2470	masse
+T54	PROC 2621 2676	imagerie par résonance magnétique (IRM) cervico-faciale
+T55	PROC 2656 2659	IRM
+T56	ANAT 2661 2676	cervico-faciale
+T57	MEAS 2689 2699	volumineux
+T58	DISO 2700 2736	adénocarcinome du parotide bilatéral
+T60	Localization 2727 2736	bilatéral
+T61	MEAS 2746 2753	12,5 cm
+T62	Concept_Idea 2757 2766	grand axe
+T63	CHEM 2794 2814	produit de contraste
+T64	LIVB 2820 2828	patients
+T65	PROC 2848 2868	traitement palliatif
+T66	PHEN 2878 2896	suites opératoires
+T67	MEAS 2897 2904	simples

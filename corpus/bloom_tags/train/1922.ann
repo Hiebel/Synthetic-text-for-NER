@@ -1,0 +1,30 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 71	antécédents pathologiques
+T3	MEAS 72 80	notables
+T4	PROC 82 94	hospitalisée
+T5	Hospital 98 105	urgence
+T6	DISO 124 138	amaigrissement
+T7	MEAS 149 154	12 kg
+T8	TEMP 167 185	deuxième trimestre
+T9	PROC 189 209	examen gynécologique
+T10	ANAT 223 242	masse latéroutérine
+T11	MEAS 252 256	2 cm
+T12	Concept_Idea 260 269	grand axe
+T13	DISO 305 323	kystadénome utérin
+T14	PROC 328 347	bilan préopératoire
+T15	DISO 372 381	anomalies
+T16	PROC 400 439	palpation des parties molles cervicales
+T17	ANAT 414 439	parties molles cervicales
+T18	PROC 445 475	échographie abdomino-pelvienne
+T19	ANAT 457 475	abdomino-pelvienne
+T20	PROC 490 507	touchers vaginaux
+T21	ANAT 499 507	vaginaux
+T22	MEAS 521 528	normaux
+T23	PROC 545 555	diagnostic
+T24	DISO 596 615	métastase ovarienne
+T25	ANAT 606 615	ovarienne
+T26	Localization 625 635	bilatérale
+T27	DISO 669 717	syndrome d’épanchement intracanalaire péritonéal
+T28	ANAT 692 717	intracanalaire péritonéal
+T29	LIVB 737 745	patiente
+T30	CHEM 771 799	médicaments anti-endométrial

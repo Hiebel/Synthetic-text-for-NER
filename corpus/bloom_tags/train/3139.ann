@@ -1,0 +1,37 @@
+T1	LIVB 20 25	femme
+T2	MEAS 73 81	notables
+T3	PROC 83 89	admise
+T4	Hospital 94 102	urgences
+T5	DISO 121 135	ictère fébrile
+T6	PROC 188 203	examen clinique
+T7	DISO 224 251	lésions purpura-pustuleuses
+T8	DISO 261 286	polynucléaire neutrophile
+T9	ANAT 302 314	corps cutané
+T10	TEMP 394 408	depuis 2 jours
+T11	Concept_Idea 454 466	état général
+T12	DISO 483 489	sueurs
+T13	MEAS 490 498	profuses
+T14	MEAS 513 519	rapide
+T15	DISO 533 609	sensibilité abdomino- pelvienne basithoracique laryngopharyngotricusplexique
+T16	ANAT 545 609	abdomino- pelvienne basithoracique laryngopharyngotricusplexique
+T17	MEAS 624 632	brunâtre
+T18	DISO 653 730	adénopathies axillaires latéro-thoraciques péripartiales sus-diaphragmatiques
+T19	ANAT 666 730	axillaires latéro-thoraciques péripartiales sus-diaphragmatiques
+T20	MEAS 755 759	4 cm
+T21	MEAS 762 766	3 cm
+T22	MEAS 770 774	2 cm
+T23	LIVB 802 810	patiente
+T24	PROC 848 878	bilan biologique préopératoire
+T25	MEAS 894 901	négatif
+T26	PROC 913 923	leucocytes
+T27	MEAS 925 936	15000 /mm 3
+T28	PROC 938 941	CRP
+T29	MEAS 944 949	1mg/l
+T30	PROC 951 970	protéine C réactive
+T31	PROC 973 992	Protéine-C-Réactive
+T32	PROC 999 1037	sérologies d'immunodépression sanguine
+T33	MEAS 1052 1061	négatives
+T34	PROC 1185 1203	ionogramme sanguin
+T35	ANAT 1196 1203	sanguin
+T36	DISO 1223 1236	hyperkaliémie
+T37	DISO 1247 1278	anomalies hydro-électrolytiques

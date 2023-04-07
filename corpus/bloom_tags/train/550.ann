@@ -1,0 +1,37 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 75	particuliers
+T5	DISO 103 122	contage tuberculeux
+T6	DISO 129 142	consanguinité
+T7	PHEN 148 168	appariement maternel
+T8	PROC 190 195	admis
+T9	Hospital 200 221	urgences pédiatriques
+T10	DISO 231 237	fièvre
+T11	TEMP 247 261	depuis 8 jours
+T12	DISO 276 290	ictère fébrile
+T13	MEAS 305 311	rapide
+T14	DISO 361 396	syndrome d'épanchement intravaginal
+T15	ANAT 384 396	intravaginal
+T16	DISO 398 407	météorisé
+T17	PROC 414 453	radiographie thoraco-abdomino-pelvienne
+T18	ANAT 427 453	thoraco-abdomino-pelvienne
+T19	DISO 467 544	dilatation artérielle utérine supérieure gauche inféro-latérale hypo échogène
+T20	ANAT 478 544	artérielle utérine supérieure gauche inféro-latérale hypo échogène
+T22	MEAS 554 558	3 cm
+T23	Concept_Idea 562 571	grand axe
+T24	Concept_Idea 590 596	taille
+T25	LIVB 621 631	nouveau-né
+T26	DISO 643 686	maladie thromboembolique veineuse ovarienne
+T27	ANAT 668 686	veineuse ovarienne
+T28	DISO 704 755	hyper vascularisation nécrose lésionnelle hypodense
+T29	DEVI 770 784	fil résorbable
+T30	ANAT 806 831	grosses axes intestinales
+T31	ANAT 846 856	endocoecum
+T32	PROC 872 881	injection
+T33	CHEM 885 898	cotrimoxazole
+T34	DISO 954 977	déficit sensitivomoteur
+T35	DISO 986 1006	hypotonie musculaire
+T36	ANAT 996 1006	musculaire
+T37	PROC 1158 1183	intercésions placentaires
+T38	ANAT 1171 1183	placentaires

@@ -1,0 +1,30 @@
+T1	LIVB 15 22	patient
+T2	DISO 56 91	pathologie parathyroïdienne maligne
+T3	ANAT 67 83	parathyroïdienne
+T4	DISO 93 121	tuberculose parathyroïdienne
+T5	TEMP 123 135	depuis 5 ans
+T6	CHEM 141 152	rifampicine
+T7	CHEM 154 166	pyrazinamide
+T8	CHEM 168 179	Cyclosérine
+T9	CHEM 181 192	Ethionamide
+T10	CHEM 194 205	Ceftriaxone
+T11	CHEM 207 224	Chlorocyclosérine
+T12	CHEM 226 232	Vit B6
+T13	CHEM 234 247	Erythromycine
+T14	CHEM 249 261	Pyrazinamide
+T15	CHEM 263 274	Cyclosérine
+T16	CHEM 276 287	Ethionamide
+T17	DISO 303 312	symptômes
+T18	TEMP 323 329	2 mois
+T19	PROC 340 354	interrogatoire
+T20	DISO 389 402	inflammatoire
+T21	MEAS 417 424	modérée
+T22	DISO 462 469	charnue
+T23	PROC 521 538	étude étiologique
+T24	DISO 616 664	syndrome d'épanchement intrapéritonéal purulente
+T25	ANAT 639 664	intrapéritonéal purulente
+T26	DISO 675 686	vascularisé
+T27	DISO 701 720	insuffisance rénale
+T28	ANAT 714 720	rénale
+T29	DISO 738 774	néphropathie diabétique hypertensive
+T30	DISO 824 850	complications métaboliques

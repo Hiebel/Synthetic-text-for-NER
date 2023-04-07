@@ -1,0 +1,20 @@
+T1	PROC 2 25	examen pleuropulmonaire
+T2	ANAT 9 25	pleuropulmonaire
+T3	DISO 39 47	polypnée
+T4	MEAS 50 63	32 cycles/min
+T5	Concept_Idea 68 73	poids
+T6	MEAS 77 82	22 kg
+T7	Concept_Idea 90 96	taille
+T8	MEAS 100 106	170 cm
+T9	PROC 122 138	examen somatique
+T10	DISO 150 164	particularités
+T11	PROC 169 200	radiographie standard du thorax
+T12	ANAT 194 200	thorax
+T13	DISO 221 282	épanchement péricardique latéro-thoracique périhilaire gauche
+T14	ANAT 233 282	péricardique latéro-thoracique périhilaire gauche
+T15	Localization 276 282	gauche
+T16	ANAT 300 362	tissules parenchymateuses médiastinées cervico-latérale droite
+T17	DISO 378 449	syndrome d'épanchement péricardique basithoracique pariétal bilateralis
+T18	ANAT 401 449	péricardique basithoracique pariétal bilateralis
+T19	LIVB 458 466	patiente
+T20	PROC 489 508	chirurgie adjuvante

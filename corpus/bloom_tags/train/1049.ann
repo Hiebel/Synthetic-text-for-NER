@@ -1,0 +1,42 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	6 ans
+T3	PROC 37 56	néphrectomie droite
+T4	Localization 50 56	droite
+T5	PROC 62 79	anesthésie locale
+T6	DISO 125 141	syndrome fébrile
+T7	MEAS 156 163	brutale
+T8	DISO 178 200	douleurs épigastriques
+T9	ANAT 187 200	épigastriques
+T10	ANAT 226 237	flanc droit
+T11	Localization 232 237	droit
+T12	LIVB 239 241	Il
+T13	Hospital 256 264	urgences
+T14	DISO 284 305	détresse respiratoire
+T15	PHEN 293 305	respiratoire
+T16	MEAS 317 330	32 cycles/min
+T17	DISO 332 338	sueurs
+T18	MEAS 339 347	profuses
+T19	DISO 362 376	amaigrissement
+T20	MEAS 387 392	15 kg
+T21	DEVI 414 423	pansement
+T22	DISO 437 443	fièvre
+T23	MEAS 454 458	40°c
+T24	PROC 463 480	natrémie corrigée
+T25	MEAS 496 506	135 meq/dl
+T26	PROC 521 529	kaliémie
+T27	MEAS 547 555	12 meq/l
+T28	DISO 574 598	diurèse néphréno-prurale
+T29	DISO 746 759	œsophagiennes
+T30	PROC 765 799	fibroscopie digestive endoscopique
+T31	ANAT 777 799	digestive endoscopique
+T32	DISO 837 869	envahissement duodénovésiculaire
+T33	ANAT 851 869	duodénovésiculaire
+T34	DISO 875 899	atteinte hépato-biliaire
+T35	ANAT 884 899	hépato-biliaire
+T36	PROC 912 944	scanner thoraco-abdomino pelvien
+T37	ANAT 920 944	thoraco-abdomino pelvien
+T38	DISO 1015 1049	kystadénopathie kystique hydatique
+T39	DISO 1068 1090	hypotension pulmonaire
+T40	ANAT 1080 1090	pulmonaire
+T41	DISO 1110 1133	hypertension artérielle
+T42	ANAT 1123 1133	artérielle

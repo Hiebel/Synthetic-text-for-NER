@@ -1,0 +1,41 @@
+T1	LIVB 4 9	femme
+T2	MEAS 57 69	particuliers
+T3	PROC 71 79	consulte
+T4	Hospital 84 106	urgences chirurgicales
+T6	ANAT 127 137	thoracique
+T7	DISO 155 160	chute
+T8	MEAS 176 184	brulante
+T9	PROC 188 203	examen clinique
+T10	LIVB 217 225	patiente
+T11	Concept_Idea 251 269	plan hémodynamique
+T12	PHEN 273 285	respiratoire
+T14	ANAT 302 314	tuberculoide
+T15	MODE 319 329	voie orale
+T16	DOSE 331 337	2mg/kg
+T17	TEMP 337 343	/heure
+T18	CHEM 356 374	méthylprednisolone
+T19	DOSE 377 384	1 mg/kg
+T20	TEMP 384 386	/j
+T21	CHEM 425 456	amoxicilline-acide clavulanique
+T22	DOSE 458 465	0,5g/kg
+T23	TEMP 465 467	/J
+T24	DISO 483 526	syndrome d'épanchement liquidien péritonéal
+T25	ANAT 506 526	liquidien péritonéal
+T26	TEMP 536 550	depuis 4 jours
+T27	Concept_Idea 614 626	état général
+T28	MEAS 657 660	3/5
+T29	DISO 685 697	céphalalgies
+T30	MEAS 712 723	progressive
+T31	DISO 810 833	symptômes neurologiques
+T32	DISO 853 873	diplopathie visuelle
+T33	DISO 884 905	troubles métaboliques
+T34	LIVB 928 936	patiente
+T35	PROC 940 959	pression artérielle
+T36	ANAT 949 959	artérielle
+T37	MEAS 978 990	150/100 mmhg
+T38	PROC 994 1027	échocardiographie transthoracique
+T39	ANAT 1012 1027	transthoracique
+T40	DISO 1052 1112	hypertrophie ventriculaire supra tricusponaires systématisée
+T42	Localization 1079 1084	supra
+T43	MEAS 1121 1134	IV-SNYHA I-II
+T44	DEVI 1214 1263	sonde œsophagienne transoesophagienne monochambre

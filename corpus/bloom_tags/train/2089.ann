@@ -1,0 +1,47 @@
+T1	LIVB 3 13	nouveau-né
+T2	LIVB 55 59	aîné
+T3	MEAS 77 83	quatre
+T4	TEMP 107 113	15 ans
+T5	DISO 148 170	traumatisme congénital
+T6	DISO 177 190	malformations
+T7	DISO 218 256	syndrome d’épanchement intrapéritonéal
+T8	ANAT 241 256	intrapéritonéal
+T9	DISO 262 290	épanchement intra péritonéal
+T10	ANAT 274 290	intra péritonéal
+T11	PROC 356 359	PTP
+T12	LIVB 362 364	Il
+T13	DISO 391 413	affection pathologique
+T14	LIVB 432 448	tante paternelle
+T15	TEMP 457 463	17 ans
+T16	DISO 486 548	paragangliome lithiasique nodulaire pancréato-carcino-primitif
+T17	MEAS 556 563	pT3N0M1
+T18	PROC 661 710	classification moléculaire d'immuno-chemothérapie
+T19	DISO 830 846	signes cliniques
+T20	DISO 960 989	neurofibromatopathie tumorale
+T21	DISO 1008 1040	kyste hydatique nécrosé kystique
+T22	DISO 1058 1074	schwannomateuses
+T23	PROC 1209 1245	tomodensitométrie abdomino-pelvienne
+T24	ANAT 1227 1245	abdomino-pelvienne
+T26	Localization 1361 1373	homolatérale
+T27	ANAT 1402 1429	zones cardiaques inférieurs
+T28	MEAS 1439 1443	12cm
+T29	Concept_Idea 1447 1456	grand axe
+T30	ANAT 1491 1509	cavités cardiaques
+T31	ANAT 1530 1547	vésicule biliaire
+T32	DISO 1587 1610	résidu tumoral résiduel
+T33	ANAT 1632 1650	artères coronaires
+T34	DISO 1717 1762	lésions papuleuses nécrotiques érythémateuses
+T35	Concept_Idea 1825 1833	contours
+T36	MEAS 1842 1851	réguliers
+T37	DISO 1872 1921	polynucléaires épithélial infiltrat inflammatoire
+T38	DISO 2004 2018	métastigineuse
+T39	LIVB 2023 2030	patient
+T40	PROC 2049 2077	chimiothérapie néo adjuvante
+T41	CHEM 2079 2083	CDDP
+T42	CHEM 2085 2102	Cyclo-phosphamide
+T43	CHEM 2104 2115	Doxycycline
+T44	TEMP 2117 2131	pendant 6 mois
+T45	MEAS 2148 2161	spectaculaire
+T46	DISO 2166 2265	adénopathies du parenchyme paraaortico-myocardique laryngopharyngéo-rhagien susjugulo médiastinales
+T48	MEAS 2291 2306	assez favorable
+T49	TEMP 2325 2331	10 ans

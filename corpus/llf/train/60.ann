@@ -1,0 +1,11 @@
+T1	PROC 3 18	examen
+T2	LIVB 32 40	patiente
+T3	MEAS 44 51	mauvais
+T4	Concept_Idea 52 64	état
+T5	ANAT 66 76	tachycarde
+T6	MEAS 79 95	80
+T7	DISO 102 123	syndrome
+T8	ANAT 111 123	sub-occlusif
+T9	MEAS 138 149	progressive
+T10	Concept_Idea 175 193	état
+T11	TEMP 209 236	dans

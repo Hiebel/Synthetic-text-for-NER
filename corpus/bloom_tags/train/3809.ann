@@ -1,0 +1,26 @@
+T1	LIVB 19 26	patient
+T2	DISO 38 57	tabagique chronique
+T3	DOSE 70 87	30 paquets-années
+T4	TEMP 107 111	2008
+T5	DISO 116 147	lésion nodulaire du sein gauche
+T6	ANAT 136 147	sein gauche
+T7	Localization 141 147	gauche
+T8	TEMP 157 170	depuis 6 mois
+T9	PROC 174 189	examen clinique
+T10	Concept_Idea 205 211	aspect
+T11	DISO 214 240	épanchement péripéritonéal
+T12	ANAT 226 240	péripéritonéal
+T13	DISO 255 310	adénopathies médiastinales latéroutérines hypoéchogènes
+T15	ANAT 327 370	région parotidienne antéaxillaire axillaire
+T16	MEAS 380 393	environ 10 cm
+T17	Concept_Idea 397 406	grand axe
+T18	DISO 418 431	particularité
+T19	PROC 436 455	bilan préopératoire
+T20	PROC 473 497	chimiothérapie adjuvante
+T21	CHEM 499 509	Tamoxifène
+T22	CHEM 513 524	Cyclosérine
+T23	PROC 527 554	radiothérapie néo adjuvante
+T24	ANAT 562 572	sein droit
+T25	Localization 567 572	droit
+T26	PROC 586 610	cystectomie exploratrice
+T28	ANAT 623 635	mésentérique

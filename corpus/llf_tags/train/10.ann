@@ -1,0 +1,94 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 41 52	antécédents
+T3	MEAS 53 65	particuliers
+T4	PROC 76 82	admise
+T5	Hospital 87 95	urgences
+T6	DISO 105 112	dyspnée
+T7	DISO 128 140	vomissements
+T8	DISO 147 184	traumatisme du membre supérieur droit
+T9	ANAT 162 184	membre supérieur droit
+T10	Localization 179 184	droit
+T11	Concept_Idea 229 241	état général
+T12	Concept_Idea 263 281	état hémodynamique
+T13	PROC 299 314	examen clinique
+T14	LIVB 320 328	patiente
+T15	MEAS 336 343	mauvais
+T16	PHEN 344 363	staturo-pondération
+T17	PROC 380 396	examen somatique
+T18	DISO 406 419	particularité
+T19	PROC 423 452	auscultation cardiopulmonaire
+T20	ANAT 436 452	cardiopulmonaire
+T21	DISO 477 486	anomalies
+T22	DISO 490 511	signes inflammatoires
+T23	DISO 515 534	neuropsychiatriques
+T24	Concept_Idea 571 591	aspect morphologique
+T25	DISO 608 646	symptomatologie neurocognitivo-motrice
+T26	DISO 679 727	déficit sensitivomoteur motrice temporo-spontané
+T27	DEVI 745 761	bases cervicales
+T28	PROC 786 795	admission
+T29	PROC 820 839	anesthésie générale
+T30	DISO 882 901	syndrome restrictif
+T31	LIVB 913 921	patiente
+T32	PROC 926 956	bilan biologique préopératoire
+T33	DISO 973 993	hypertriglycéridémie
+T34	MEAS 996 1006	2,5 mmol/l
+T35	PROC 1021 1044	leucocytes éosinophiles
+T36	MEAS 1047 1057	1050 pg/ml
+T37	Concept_Idea 1066 1083	plan radiologique
+T38	DISO 1185 1209	thrombophlébite nécrosée
+T39	ANAT 1222 1243	cordon supéro-externe
+T40	DISO 1249 1317	lésions kystiques ankylogoïdiennes périvasculaires rénales atypiques
+T41	PROC 1339 1350	transfusion
+T42	PROC 1363 1391	prise en charge chirurgicale
+T43	MEAS 1414 1426	compressives
+T44	PROC 1492 1513	biopsie scanno-guidée
+T45	MEAS 1583 1604	difficile à apprécier
+T46	Concept_Idea 1644 1664	moyens diagnostiques
+T47	MEAS 1728 1738	favorables
+T48	Concept_Idea 1750 1759	résultats
+T49	DISO 1783 1808	psychose polymalformative
+T50	DISO 1837 1856	maladie auto-immune
+T51	TEMP 1868 1881	Quatre heures
+T52	PROC 1918 1934	consultation ORL
+T53	DISO 1939 1981	perforation prurigo-oesophagienne oblongue
+T54	MEAS 1991 2000	18 x 8 cm
+T55	ANAT 2026 2047	branches épiphysaires
+T56	MEAS 2061 2083	environ 50 centimètres
+T57	MEAS 2198 2212	40 millimètres
+T58	DISO 2217 2234	processus tumoral
+T59	MEAS 2244 2257	15x7×4 × 4 cm
+T60	PROC 2267 2294	classification de Wassenaer
+T61	DISO 3091 3136	adénocarcinome malin du lobe supérieur gauche
+T63	Localization 3130 3136	gauche
+T64	PROC 3155 3175	récepteurs hormonaux
+T65	PROC 3182 3199	bilan cytologique
+T66	PROC 3213 3232	hémoglobine glyquée
+T67	PROC 3234 3236	Hb
+T68	MEAS 3238 3247	0,25 g/dl
+T69	PROC 3249 3259	Plaquettes
+T70	MEAS 3261 3274	235 000 UI/ml
+T71	PROC 3280 3302	traitement chirurgical
+T72	MEAS 3316 3330	complémentaire
+T73	CHEM 3342 3361	antigène nifédipine
+T74	CHEM 3371 3382	paracétamol
+T76	PROC 3425 3461	curage ganglionnaire rétropéritonéal
+T77	PROC 3482 3500	traction axillaire
+T78	PROC 3514 3538	toilette gastroduodénale
+T79	ANAT 3523 3538	gastroduodénale
+T80	MEAS 3556 3563	3 litre
+T81	ANAT 3567 3581	sang corporéen
+T82	PROC 3602 3627	étude immunohistochimique
+T83	PROC 3634 3654	exérèse chirurgicale
+T84	DISO 3674 3688	neuroendocrine
+T85	DISO 3699 3727	déficits neuropsychiatriques
+T86	LIVB 3746 3753	patient
+T87	Concept_Idea 3766 3786	aspect morphologique
+T88	Concept_Idea 3801 3823	extension métaphorique
+T89	PROC 3866 3887	recherche étiologique
+T90	PROC 3909 3943	prise en charge pluridisciplinaire
+T91	PHEN 4003 4031	soins intensifs pédiatriques
+T92	Hospital 4045 4060	centre néonatal
+T93	PROC 4092 4123	contrôles locorégionaux simples
+T94	PROC 4151 4170	suivi psychiatrique
+T95	PROC 4176 4199	radiothérapie adjuvante
+T96	PROC 4202 4212	diagnostic

@@ -1,0 +1,37 @@
+T1	LIVB 16 24	patiente
+T2	DISO 45 70	antécédents pathologiques
+T3	MEAS 71 83	particuliers
+T4	PROC 85 91	admise
+T5	Hospital 96 104	urgences
+T6	DISO 113 175	empyème liquide caverneux pharyngo-laryngocentrical systolique
+T8	TEMP 185 198	depuis 2 mois
+T9	PROC 202 217	examen clinique
+T10	DISO 245 261	syndrome fébrile
+T11	MEAS 272 277	39°2C
+T12	MODE 283 293	voie orale
+T13	DOSE 296 302	unités
+T14	CHEM 306 319	métronidazole
+T15	DOSE 321 327	1mg/kg
+T16	TEMP 327 329	/j
+T17	PROC 334 364	auscultation pleuro-pulmonaire
+T18	ANAT 347 364	pleuro-pulmonaire
+T19	PROC 411 425	interrogatoire
+T20	DISO 442 463	détresse respiratoire
+T21	PHEN 451 463	respiratoire
+T22	DISO 469 500	insuffisance cardiocarotidienne
+T23	ANAT 482 500	cardiocarotidienne
+T24	PROC 514 533	examen locorégional
+T25	ANAT 521 533	locorégional
+T26	DISO 559 579	signes neurologiques
+T27	DEVI 592 618	drainage jugulo-carotidien
+T28	ANAT 601 618	jugulo-carotidien
+T29	DISO 758 794	hyperpression pulmonaire liquidienne
+T30	ANAT 772 794	pulmonaire liquidienne
+T31	ANAT 823 842	carrefour piriforme
+T32	ANAT 866 914	voies aéro-digestives intestinales mésentériques
+T33	DISO 942 979	hypertrophie basithoracique pariétale
+T34	ANAT 955 979	basithoracique pariétale
+T35	ANAT 1000 1017	vésicule biliaire
+T36	DISO 1034 1073	hernie duodéno-iléo-gastro œsophagienne
+T37	ANAT 1041 1073	duodéno-iléo-gastro œsophagienne
+T38	MEAS 1083 1102	de grande abondance

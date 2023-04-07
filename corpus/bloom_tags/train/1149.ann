@@ -1,0 +1,16 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 24 30	24 ans
+T3	PROC 35 40	reçue
+T4	Hospital 45 70	urgences ophtalmologiques
+T5	DISO 90 111	détresse respiratoire
+T6	PHEN 99 111	respiratoire
+T7	DISO 121 146	primipulmonaire purulente
+T8	DEVI 209 226	médicament inhalé
+T9	CHEM 244 261	méthylphénidazole
+T10	PROC 269 285	examen somatique
+T11	DISO 301 374	sensibilité pleuro-pulmonaire infarcto-médiastinale thoracique hypotensee
+T13	ANAT 401 421	muscles ptérygoïdaux
+T14	ANAT 442 504	fosse claviculaire sous-diaphragmatique antéro latérale gauche
+T15	Localization 461 465	sous
+T16	MEAS 514 525	douloureuse
+T17	MEAS 533 537	7 kg

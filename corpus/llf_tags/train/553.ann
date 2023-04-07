@@ -1,0 +1,83 @@
+T1	LIVB 15 22	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	TEMP 97 109	depuis un an
+T5	DISO 114 149	douleurs du membre inférieur gauche
+T6	ANAT 126 149	membre inférieur gauche
+T7	Localization 143 149	gauche
+T8	PROC 153 168	examen clinique
+T9	DISO 182 188	fièvre
+T10	MEAS 191 197	38 ° C
+T11	PROC 203 214	échographie
+T13	ANAT 336 363	muscle biceps fémoral droit
+T14	Localization 358 363	droit
+T15	MEAS 372 376	9 cm
+T16	Concept_Idea 385 403	plan superficielle
+T17	MEAS 421 425	6 cm
+T18	Localization 432 448	partie proximale
+T19	DISO 456 461	masse
+T20	ANAT 474 506	parties molles cervicale gauches
+T21	Localization 499 506	gauches
+T22	MEAS 598 606	10/15 mm
+T23	MEAS 610 618	11/16 mm
+T24	PROC 623 640	tomodensitométrie
+T25	PROC 641 672	TDM) thoraco-abdomino-pelvienne
+T26	ANAT 646 672	thoraco-abdomino-pelvienne
+T27	DISO 692 697	masse
+T28	MEAS 714 718	deux
+T29	DEVI 764 778	anneau fibreux
+T30	PHEN 814 835	structures digestives
+T31	ANAT 863 878	flanc supérieur
+T32	Localization 869 878	supérieur
+T33	PROC 883 910	bilan radiologique standard
+T34	PROC 912 915	NFS
+T35	PROC 917 940	ionogramme nasopharyngé
+T36	ANAT 928 940	nasopharyngé
+T37	PROC 942 976	ponction transoesogastro-duodénale
+T38	ANAT 951 976	transoesogastro-duodénale
+T39	PROC 983 1002	examens biologiques
+T40	DISO 1027 1043	hyperleucocytose
+T41	MEAS 1046 1068	185 000 éléments /mm 3
+T42	DISO 1085 1107	syndrome inflammatoire
+T43	DISO 1120 1143	récidive carcinomateuse
+T44	DISO 1153 1162	malignité
+T45	PROC 1168 1200	antibioprophylaxie intraveineuse
+T46	CHEM 1206 1237	amoxicilline acide clavulanique
+T47	DISO 1281 1291	infections
+T48	PROC 1296 1306	traitement
+T49	PROC 1328 1356	chimiothérapie néo adjuvante
+T50	DOSE 1371 1374	2 g
+T51	TEMP 1376 1378	/j
+T52	PROC 1392 1414	kinésithérapie motrice
+T53	PROC 1440 1445	suivi
+T54	PROC 1460 1491	radiothérapie conformationnelle
+T55	PROC 1523 1556	radio kinésithérapie concomitante
+T56	PROC 1577 1604	contrôle neuropsychiatrique
+T57	PROC 1626 1646	consultation externe
+T58	LIVB 1675 1682	patient
+T59	ANAT 1772 1791	zones médiastinales
+T60	PROC 1968 2023	régression orthostatique axiale multimodale écho-guidée
+T61	PROC 2039 2089	prise en charge psychothérapeutique individualisée
+T62	DISO 2119 2143	troubles dysfonctionnels
+T63	PROC 2205 2224	enquête étiologique
+T64	PROC 2306 2331	étude immunohistochimique
+T65	DISO 2347 2384	léiomyosarcome séreux myxoïde maligne
+T66	MEAS 2405 2412	grade I
+T67	Concept_Idea 2779 2785	Suivie
+T68	TEMP 2793 2797	2008
+T69	DISO 2809 2839	tumeur de l’hypochondre gauche
+T71	Localization 2833 2839	gauche
+T72	MEAS 2858 2862	rare
+T73	DISO 2979 3000	signes fonctionnelles
+T74	PROC 3014 3036	traitement chirurgical
+T75	PROC 3068 3092	chimiothérapie adjuvante
+T76	PROC 3098 3159	antibioprophylaxie antibacillaire intraveineuse thérapeutique
+T77	CHEM 3162 3196	amoxicilline acétyle biphosphonate
+T78	CHEM 3198 3228	gentamycine acide clavulanique
+T79	PROC 3262 3287	thérapeutique non invasif
+T81	DOSE 3849 3864	20 milligrammes
+T82	TEMP 3867 3877	/24 heures
+T83	PROC 3894 3969	transfusion bêtalorique parentérale fractionnement gastrique postopératoire
+T84	PROC 4026 4063	mesures prophylactiques substitutives
+T85	PROC 4080 4124	tomodensitométrie préopératoire diagnostique
+T86	DISO 4159 4249	adénocarcinome mucineux mésenchymateux hétérotopique eccrinemictal ketoacidosis diabétique

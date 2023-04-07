@@ -1,0 +1,39 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	8 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 73 78	admis
+T6	Hospital 82 89	urgence
+T7	DISO 99 138	pseudarthrose du membre supérieur droit
+T8	ANAT 116 138	membre supérieur droit
+T9	Localization 133 138	droit
+T10	TEMP 148 162	depuis 10 mois
+T11	PROC 166 181	examen clinique
+T12	PROC 186 195	admission
+T13	LIVB 212 219	patient
+T14	Concept_Idea 247 265	plan hémodynamique
+T15	PHEN 269 281	respiratoire
+T16	LIVB 283 285	Il
+T17	PROC 304 327	radiographie des doigts
+T18	ANAT 321 327	doigts
+T19	DISO 358 424	ostéoblastes ostéo-épiphysiiques latéro-thoraciques paravertébraux
+T20	PROC 466 496	échographie abdomino-pelvienne
+T21	ANAT 478 496	abdomino-pelvienne
+T22	PROC 518 548	mise sous produit de contraste
+T23	CHEM 528 548	produit de contraste
+T24	DOSE 550 559	0,5 mg/kg
+T25	DEVI 564 583	temps tardif biplan
+T26	PROC 597 641	tomodensitométrie thoraco-abdomino-pelvienne
+T27	ANAT 615 641	thoraco-abdomino-pelvienne
+T28	MEAS 663 671	normales
+T29	PROC 685 703	traitement curatif
+T30	CHEM 727 743	anti-tuberculeux
+T31	CHEM 755 766	rifampicine
+T32	CHEM 767 777	isoniazide
+T33	CHEM 779 789	ethambutol
+T34	CHEM 809 821	pyrazinamide
+T35	CHEM 822 837	éthoxybenzamide
+T36	PROC 844 869	chimiothérapie palliative
+T37	PROC 875 908	curage ganglionnaire métastatique
+T38	ANAT 882 908	ganglionnaire métastatique
+T39	MODE 979 989	voie orale

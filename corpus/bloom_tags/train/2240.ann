@@ -1,0 +1,16 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 31 39	patiente
+T3	MEAS 43 46	bon
+T4	Concept_Idea 47 59	état général
+T5	DISO 61 82	pâleur de l'œil droit
+T6	ANAT 73 82	œil droit
+T7	Localization 77 82	droit
+T8	DISO 89 112	déficit sensitivomoteur
+T9	PROC 117 138	pression oculomotrice
+T10	ANAT 126 138	oculomotrice
+T11	MEAS 156 166	90/10 mmHg
+T12	PHEN 173 195	réflexe cutanéo-moteur
+T13	ANAT 181 195	cutanéo-moteur
+T14	PROC 232 254	examen ophtalmologique
+T15	DISO 275 306	syndrome d'hyperacuité visuelle
+T16	ANAT 344 353	œil droit

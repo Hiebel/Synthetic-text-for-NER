@@ -1,0 +1,42 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	11 ans
+T4	MEAS 63 75	particuliers
+T5	DISO 95 115	douleurs thoraciques
+T6	ANAT 104 115	thoraciques
+T7	TEMP 137 159	depuis plusieurs jours
+T8	Concept_Idea 195 207	état général
+T9	PROC 212 256	tomodensitométrie thoraco-abdomino-pelvienne
+T10	ANAT 230 256	thoraco-abdomino-pelvienne
+T11	DISO 291 338	masse tumorale du sinus latéro thyroïdien droit
+T12	ANAT 309 338	sinus latéro thyroïdien droit
+T13	Localization 333 338	droit
+T14	MEAS 348 352	18mm
+T15	Concept_Idea 356 365	grand axe
+T16	MEAS 374 378	3 cm
+T17	Concept_Idea 382 391	grand axe
+T18	ANAT 409 441	champ pulmonaire supérieur droit
+T19	Localization 436 441	droit
+T20	ANAT 468 488	crête iliaque droite
+T21	Localization 482 488	droite
+T22	Concept_Idea 491 497	aspect
+T23	MEAS 498 506	homogène
+T24	MEAS 508 517	hypodense
+T25	PROC 542 551	injection
+T26	CHEM 555 575	produit de contraste
+T27	DISO 592 633	complications pulmonaires basithoraciques
+T28	ANAT 606 633	pulmonaires basithoraciques
+T29	DISO 649 704	adénopathies pariéto-bronchopharyngées hypertrophiantes
+T31	PROC 721 751	échographie abdomino-pelvienne
+T32	ANAT 733 751	abdomino-pelvienne
+T33	DISO 764 811	syndrome d'épanchement intrarachidiens infiltré
+T34	ANAT 787 811	intrarachidiens infiltré
+T35	ANAT 823 855	parties molles sus-claviculaires
+T36	DISO 881 901	lymphangiome maligne
+T37	LIVB 920 926	enfant
+T38	TEMP 934 940	11 ans
+T39	PROC 963 987	radiothérapie palliative
+T40	DISO 1001 1028	localisation carcinomateuse
+T41	DISO 1043 1060	processus tumoral
+T42	PROC 1095 1112	étude étiologique
+T43	PROC 1150 1181	investigations bactériologiques
+T44	DISO 1251 1278	localisations histologiques

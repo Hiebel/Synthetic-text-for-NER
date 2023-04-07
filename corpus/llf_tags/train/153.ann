@@ -1,0 +1,15 @@
+T1	LIVB 30 36	enfant
+T2	TEMP 44 49	5 ans
+T3	Concept_Idea 77 80	âge
+T4	TEMP 84 94	4 semaines
+T5	DISO 113 139	signes neuropsychiatriques
+T6	Concept_Idea 194 206	état général
+T7	Concept_Idea 228 246	état hémodynamique
+T8	Hospital 266 287	urgences pédiatriques
+T9	PROC 303 329	anticoagulation préventive
+T10	PROC 358 386	prise en charge chirurgicale
+T11	LIVB 390 392	il
+T12	PHEN 414 425	conventions
+T13	LIVB 621 636	famille élargie
+T14	LIVB 869 875	enfant
+T15	Concept_Idea 974 1010	caractéristiques sociodémographiques

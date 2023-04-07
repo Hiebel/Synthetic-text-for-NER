@@ -1,0 +1,19 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	3 ans
+T3	Concept_Idea 25 36	antécédents
+T4	MEAS 37 45	notables
+T5	PROC 47 51	reçu
+T6	Hospital 55 62	urgence
+T7	Hospital 67 92	urgences ophtalmologiques
+T8	DISO 102 120	crises convulsives
+T9	DISO 150 173	agitation psychomotrice
+T10	DISO 180 200	syndrome d’épilepsie
+T11	PROC 204 219	examen clinique
+T12	DISO 254 285	hypoacousie du sinus sphénoïdal
+T13	ANAT 269 285	sinus sphénoïdal
+T14	DISO 303 334	déficit visuomoteur monoculaire
+T15	CHEM 357 369	amoxicilline
+T17	ANAT 384 406	liquide intracrânienne
+T18	PROC 427 464	anesthésielocorégionale préopératoire
+T19	PROC 466 469	PPO
+T20	PHEN 499 521	suites postopératoires

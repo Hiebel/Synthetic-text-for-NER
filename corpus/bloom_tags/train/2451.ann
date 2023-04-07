@@ -1,0 +1,72 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 83 87	reçu
+T5	Hospital 92 100	urgences
+T6	DISO 110 132	céphalées généralisées
+T7	DISO 149 184	paralysie du membre supérieur droit
+T8	ANAT 162 184	membre supérieur droit
+T9	Localization 179 184	droit
+T10	DISO 201 216	symptomatologie
+T11	TEMP 227 236	12 heures
+T12	PROC 245 254	admission
+T13	Hospital 258 273	bloc opératoire
+T14	DISO 305 326	détresse respiratoire
+T15	PHEN 314 326	respiratoire
+T16	MEAS 341 352	progressive
+T17	MEAS 370 376	rapide
+T18	LIVB 378 380	Il
+T19	CHEM 402 413	corticoïdes
+T20	MODE 417 427	voie orale
+T21	DOSE 429 436	1 mg/kg
+T22	TEMP 436 441	/jour
+T23	DEVI 456 496	traitement immunodépresseur antitéphoïde
+T24	CHEM 502 515	dexaméthasone
+T25	DISO 534 572	syndrome d'épanchement intrapéritonéal
+T26	ANAT 557 572	intrapéritonéal
+T27	Concept_Idea 575 584	intensité
+T28	MEAS 585 591	élevée
+T29	LIVB 616 624	patiente
+T30	DISO 659 678	signes fonctionnels
+T31	DISO 705 735	troubles hydro-électrolytiques
+T32	DISO 745 767	anomalies métaboliques
+T33	DISO 778 805	atteintes sensitivomotrices
+T34	DISO 834 852	intra-mésentérique
+T35	DISO 859 878	processus lésionnel
+T36	DISO 917 925	tumorale
+T37	DISO 964 1009	méningo-vasculopathies purulentes nécrotiques
+T38	DISO 1014 1039	inflammation péritumorale
+T39	PROC 1057 1082	intervention chirurgicale
+T40	DISO 1244 1266	diabète hypertrophique
+T41	LIVB 1275 1282	famille
+T42	DISO 1313 1337	sécrétions prurigineuses
+T43	TEMP 1347 1360	depuis 6 mois
+T44	DISO 1380 1393	polypleurésie
+T45	DISO 1435 1470	ictère maculopustuleux érythémateux
+T46	ANAT 1508 1535	greffon pharyngo-œsophagien
+T47	MEAS 1545 1558	environ 20 cm
+T48	Concept_Idea 1562 1571	grand axe
+T49	PROC 1650 1680	échographie abdoméno-pelvienne
+T50	ANAT 1662 1680	abdoméno-pelvienne
+T52	PROC 1811 1820	injection
+T53	CHEM 1824 1844	produit de contraste
+T54	ANAT 1877 1899	vésicules ovarienniens
+T55	ANAT 1916 1949	membrane basithoracique cervicale
+T56	PROC 2146 2190	tomodensitométrie thoraco abdomino-pelvienne
+T57	ANAT 2164 2190	thoraco abdomino-pelvienne
+T60	ANAT 2857 2871	parties molles
+T61	LIVB 2876 2884	patiente
+T62	PROC 2903 2931	pariéto-utérine exploratrice
+T63	MEAS 2947 2957	volumineux
+T64	DISO 2958 2971	hémopéritoine
+T65	MEAS 2981 2985	18cm
+T66	Concept_Idea 2989 2998	grand axe
+T67	PROC 3013 3044	bilan d'extension scanno-guidée
+T68	PROC 3048 3071	étude histopathologique
+T69	PHEN 3076 3094	suites opératoires
+T70	DISO 3117 3184	tumeur carcinomateuse pléomorphe du greffon parathyroïdien purulent
+T71	ANAT 3153 3184	greffon parathyroïdien purulent
+T72	DISO 3216 3243	adénocarcinome hypertrophié
+T73	PROC 3264 3283	traitement adjuvant
+T74	CHEM 3296 3310	hydrocortisone
+T75	CHEM 3317 3327	tamoxifène

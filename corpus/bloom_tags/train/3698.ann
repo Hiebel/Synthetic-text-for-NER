@@ -1,0 +1,23 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 83 88	admis
+T5	Hospital 93 118	urgences ophtalmologiques
+T6	DISO 137 146	épistaxis
+T7	ANAT 160 163	dos
+T8	DISO 178 199	détresse respiratoire
+T9	PHEN 187 199	respiratoire
+T10	PROC 204 220	bilan biologique
+T11	Concept_Idea 238 262	vitesse de sédimentation
+T12	PROC 264 266	VS
+T13	MEAS 280 285	50 mm
+T14	PROC 308 327	bilan immunologique
+T15	MEAS 334 341	positif
+T16	PROC 347 378	échographie abdomino- pelvienne
+T17	ANAT 359 378	abdomino- pelvienne
+T18	DISO 403 458	dilatations péritonéales latéro-thoraciques bilatérales
+T19	Localization 447 458	bilatérales
+T20	DISO 472 494	hémoperitoine méningée
+T21	DISO 512 530	péritonite nécrose
+T22	DISO 535 572	métastases parathyroïdiennes bilobées
+T23	ANAT 546 572	parathyroïdiennes bilobées

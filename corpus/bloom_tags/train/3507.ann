@@ -1,0 +1,72 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 51 85	douleurs du membre inférieur droit
+T4	ANAT 63 85	membre inférieur droit
+T5	Localization 80 85	droit
+T6	TEMP 95 111	depuis deux mois
+T7	MEAS 126 141	progressivement
+T8	Concept_Idea 145 151	volume
+T9	DISO 181 188	dyspnée
+T10	MEAS 203 209	rapide
+T11	DISO 228 239	traumatisme
+T12	PROC 245 275	bilan biologique préopératoire
+T13	PHEN 293 317	vitesse de sédimentation
+T14	MEAS 330 334	32mm
+T15	MEAS 379 384	75 mm
+T16	TEMP 391 403	trois heures
+T17	PROC 405 420	globules blancs
+T18	MEAS 423 432	20300/mm3
+T19	PROC 434 453	protéine-C réactive
+T20	MEAS 455 462	70 mg/l
+T21	PROC 468 510	radiographie thoraco-abdomino-épigastrique
+T22	ANAT 481 510	thoraco-abdomino-épigastrique
+T23	DISO 524 591	cardiomégalie angulo-toracique latéro-latérale ischémique hypodense
+T24	DISO 612 663	lésions nodulaires hétérogéniques hypo métabolisées
+T25	ANAT 685 690	seins
+T26	MEAS 715 721	6x5 cm
+T27	MEAS 725 731	2x4 cm
+T28	DISO 781 805	tuberculose systémateuse
+T29	DISO 844 887	infiltrat parenchymateux cervico-thoracique
+T30	ANAT 854 887	parenchymateux cervico-thoracique
+T31	DISO 903 933	affection sous-diaphragmatique
+T32	ANAT 913 933	sous-diaphragmatique
+T33	PROC 989 1017	techniques d'immuno-chiffres
+T34	LIVB 1055 1064	patientes
+T35	MEAS 1073 1081	négatifs
+T36	DISO 1102 1122	signes radiologiques
+T37	DISO 1149 1187	thrombose veineuse thrombo-suspendante
+T38	DISO 1231 1255	atteinte rénale biliaire
+T39	ANAT 1240 1255	rénale biliaire
+T40	DISO 1304 1320	détresse fébrile
+T41	MEAS 1332 1336	40°C
+T42	DISO 1366 1395	accident néonatal hypertensif
+T43	PROC 1414 1439	traitement antirétroviral
+T44	CHEM 1445 1456	Cyclosérine
+T45	DOSE 1482 1487	100mg
+T46	MODE 1490 1495	bolus
+T47	CHEM 1499 1517	méthylprednisolone
+T48	DISO 1561 1570	symptômes
+T49	DISO 1767 1774	maladie
+T50	LIVB 2297 2301	Nous
+T51	PROC 2323 2353	prélèvement bactérioculturenel
+T52	PROC 2367 2394	biopsie étagée chirurgicale
+T53	MEAS 2416 2434	fortement sensible
+T54	CHEM 2576 2589	céphalosérine
+T55	CHEM 2617 2628	Ceftriaxone
+T56	CHEM 2642 2656	Gentaméthasone
+T57	DISO 2674 2697	hyperthyroïdie primaire
+T58	DISO 2714 2738	carcinome parathyroïdien
+T59	ANAT 2724 2738	parathyroïdien
+T60	PROC 2758 2782	examen histopathologique
+T61	PROC 2790 2843	ponction liquide para-bournane utéro-cervico-vaginale
+T62	ANAT 2799 2843	liquide para-bournane utéro-cervico-vaginale
+T63	PROC 2849 2882	imagerie par résonance magnétique
+T64	PROC 2884 2898	IRM) pelvienne
+T65	ANAT 2889 2898	pelvienne
+T66	ANAT 2971 2982	flanc droit
+T67	Localization 2977 2982	droit
+T68	MEAS 2992 3000	12/10 cm
+T69	DISO 3020 3049	processus lésionnel hypodense
+T70	ANAT 3066 3103	zones péripapillaires cervicovaginaux
+T71	DISO 3117 3207	tumeur hypo-intenseuite tissulaire ischymateuse infiltro-myométrial infanto-granulomateuse
+T72	DISO 3220 3233	particularité

@@ -1,0 +1,37 @@
+T1	LIVB 16 21	femme
+T2	Concept_Idea 42 67	antécédents pathologiques
+T3	MEAS 68 80	particuliers
+T4	DISO 100 128	douleurs abdomino-pelviennes
+T5	ANAT 109 128	abdomino-pelviennes
+T6	TEMP 138 155	depuis deux jours
+T7	ANAT 171 180	épigastre
+T8	DISO 196 210	amaigrissement
+T9	MEAS 221 226	10 kg
+T10	MEAS 242 252	rapidement
+T11	Concept_Idea 256 262	taille
+T12	PROC 268 277	admission
+T13	LIVB 298 306	patiente
+T14	Concept_Idea 321 339	plan hémodynamique
+T15	PHEN 343 355	respiratoire
+T16	DISO 370 379	hématurie
+T17	MEAS 380 389	purulente
+T18	DISO 404 425	œdème rétropéritonéal
+T19	ANAT 410 425	rétropéritonéal
+T20	DISO 456 499	syndrome d'épanchement liquidien péritonéal
+T21	ANAT 479 499	liquidien péritonéal
+T22	DISO 514 542	sténose iléo-caecale stade E
+T23	ANAT 522 542	iléo-caecale stade E
+T24	MEAS 558 569	progressive
+T25	MEAS 614 620	rapide
+T26	DISO 641 663	symptômes fonctionnels
+T27	DISO 667 684	sensitivo-moteurs
+T28	DISO 698 721	céphalées prurigineuses
+T29	DISO 744 753	symptômes
+T30	DISO 797 822	troubles sensitivomoteurs
+T31	LIVB 839 850	jeune femme
+T32	DISO 882 909	traumatisme vasculo-nerveux
+T33	ANAT 894 909	vasculo-nerveux
+T35	PROC 928 943	examen clinique
+T36	DISO 960 1037	distension grêlique antro-surrénalienne liquidienne hypogastrique hypoaérique
+T38	MEAS 1047 1051	4 cm
+T39	Concept_Idea 1055 1064	grand axe

@@ -1,0 +1,60 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	PROC 69 74	admis
+T4	Hospital 79 87	urgences
+T5	DISO 97 118	détresse respiratoire
+T6	PHEN 106 118	respiratoire
+T7	DISO 134 168	douleurs thoraciques constrictives
+T8	ANAT 143 154	thoraciques
+T9	MEAS 183 194	progressive
+T10	PROC 198 212	interrogatoire
+T11	DISO 238 254	épisodes fébrile
+T12	LIVB 268 271	Ses
+T13	Concept_Idea 272 283	antécédents
+T14	DISO 308 344	maladie thromboembolique du placenta
+T15	ANAT 336 344	placenta
+T16	PROC 349 374	scanner abdomino- pelvien
+T17	ANAT 357 374	abdomino- pelvien
+T18	PROC 376 384	scopique
+T19	PROC 388 407	tomodensitométrique
+T20	PROC 422 455	échocardiographie tran-thoracique
+T21	ANAT 440 455	tran-thoracique
+T22	DISO 472 522	syndrome d'épanchement liquidien latéro péritonéal
+T23	ANAT 495 522	liquidien latéro péritonéal
+T24	TEMP 532 553	depuis environ 2 mois
+T25	DISO 568 601	thrombose veine cave supra-rénale
+T26	ANAT 578 601	veine cave supra-rénale
+T27	Localization 589 594	supra
+T28	PROC 621 636	examen clinique
+T29	DISO 662 687	localisations secondaires
+T30	DISO 715 741	péristaltisme œsophagienne
+T31	ANAT 729 741	œsophagienne
+T32	DISO 752 771	anomalies cliniques
+T33	DISO 812 831	diabète métabolique
+T34	CHEM 848 881	anti-inflammatoire non stéroïdien
+T35	CHEM 887 897	Céfotaxime
+T36	LIVB 990 997	famille
+T37	PROC 1015 1054	explorations biologiques préopératoires
+T38	DISO 1171 1184	organomégalie
+T39	PROC 1187 1222	intradermoréaction à la tuberculine
+T40	CHEM 1211 1222	tuberculine
+T41	MEAS 1235 1243	négative
+T42	DISO 1264 1308	carcinome parathyroïdien laryngéo-bronchique
+T43	ANAT 1274 1308	parathyroïdien laryngéo-bronchique
+T44	CHEM 1352 1363	tuberculine
+T45	MEAS 1377 1382	posée
+T46	PROC 1389 1402	prétraitement
+T47	DISO 1439 1480	myosospondylarthropathie purpurae commune
+T48	DISO 1485 1513	hyperréticulocytose primaire
+T49	DISO 1578 1605	troubles trophiques craniés
+T50	DISO 1623 1660	atteinte neurolymphoblastique maligne
+T51	DISO 1678 1717	sécrétions érythémateuses prurigineuses
+T52	DEVI 1735 1750	appareil cutané
+T53	DISO 1773 1795	hypotension pulmonaire
+T54	ANAT 1785 1795	pulmonaire
+T55	MODE 1824 1829	bolus
+T56	CHEM 1833 1846	noradrénaline
+T57	PROC 1984 2014	prise médicamenteuse adjuvante
+T58	PROC 2023 2054	radio-chimiothérapie palliative
+T59	DISO 2225 2245	toxidermomyosopathie
+T60	LIVB 2264 2275	populations

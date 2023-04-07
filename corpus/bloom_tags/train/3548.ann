@@ -1,0 +1,38 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	11 ans
+T3	Concept_Idea 42 53	antécédents
+T4	MEAS 54 66	particuliers
+T5	PROC 68 74	admise
+T6	Hospital 79 87	urgences
+T7	DISO 97 124	douleurs abdominales aiguës
+T8	ANAT 106 117	abdominales
+T9	TEMP 134 150	depuis 48 heures
+T10	PROC 154 169	examen clinique
+T11	PROC 174 183	admission
+T12	DISO 204 224	masse du flanc droit
+T13	ANAT 213 224	flanc droit
+T14	Localization 219 224	droit
+T15	MEAS 236 251	progressivement
+T16	Concept_Idea 255 261	volume
+T17	MEAS 279 285	rapide
+T18	PROC 289 313	exploration chirurgicale
+T19	DISO 326 353	épanchement intrapéritonéal
+T20	ANAT 338 353	intrapéritonéal
+T21	ANAT 370 390	fosse iliaque droite
+T22	Localization 384 390	droite
+T23	MEAS 400 404	15cm
+T24	Concept_Idea 408 417	grand axe
+T25	ANAT 433 438	grêle
+T26	DISO 459 506	paroi abdominopelvienne latéroutérine polylobée
+T27	ANAT 530 575	muscles paravertébraux méso-latéraux vaginaux
+T28	PROC 605 630	scanner abdomino- pelvien
+T29	ANAT 613 630	abdomino- pelvien
+T30	PROC 644 668	anesthésie locorégionale
+T31	ANAT 655 668	locorégionale
+T32	DISO 682 697	masse hypodense
+T33	PHEN 745 754	injection
+T34	CHEM 758 778	sulfate de prolabole
+T35	MEAS 787 792	10 cm
+T36	Concept_Idea 795 801	aspect
+T37	MEAS 802 828	macroscopiquement arrondie
+T38	ANAT 850 866	organes hilaires

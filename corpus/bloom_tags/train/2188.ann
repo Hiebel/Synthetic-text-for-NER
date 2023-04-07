@@ -1,0 +1,34 @@
+T1	LIVB 15 22	patient
+T2	DISO 60 77	hypochondre droit
+T3	Localization 72 77	droit
+T4	PROC 88 93	opéré
+T5	Hospital 97 104	urgence
+T6	DISO 113 154	syndrome néphrotique hypokaliéno-calcique
+T7	PROC 160 169	admission
+T8	Hospital 173 203	service d'accueil des urgences
+T9	LIVB 207 214	patient
+T10	DISO 230 265	dyspnée obstructive aiguë sifflante
+T11	TEMP 275 292	depuis deux jours
+T12	DISO 308 331	troubles hémodynamiques
+T13	PHEN 373 380	appétit
+T14	DISO 382 397	de la nocturité
+T15	PHEN 388 397	nocturité
+T16	DISO 410 419	symptômes
+T18	MEAS 478 483	12 kg
+T19	PROC 530 549	bilan préopératoire
+T20	DISO 570 600	dépression sous-clinale droite
+T21	ANAT 581 600	sous-clinale droite
+T22	Localization 594 600	droite
+T23	MEAS 651 659	4,2 g/dl
+T24	DEVI 675 699	bandelette nasogastrique
+T25	ANAT 686 699	nasogastrique
+T26	MEAS 715 730	progressivement
+T27	Concept_Idea 734 740	taille
+T28	MEAS 840 845	32 cm
+T29	Concept_Idea 849 858	grand axe
+T30	DISO 994 1008	carcinomateuse
+T31	DISO 1013 1056	métanéphrine-noradrénaline sensitivomotrice
+T32	PROC 1060 1097	scanner abdomino- pelvien explorateur
+T33	ANAT 1068 1097	abdomino- pelvien explorateur
+T34	DISO 1111 1232	hernie épiploïdienne latéro péritonéale pariétale bilatérale inférieure droite tissulaire hypoéchogènes hypervascularisée
+T37	ANAT 1250 1272	lit vésiculaire utérin

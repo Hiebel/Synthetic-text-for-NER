@@ -1,0 +1,39 @@
+T1	LIVB 15 25	nouveau-né
+T2	Concept_Idea 48 59	antécédents
+T3	MEAS 60 72	particuliers
+T4	PROC 74 78	reçu
+T5	Hospital 82 106	unité de soins intensifs
+T6	DISO 116 136	douleurs abdominales
+T7	ANAT 125 136	abdominales
+T8	MEAS 151 158	brutale
+T9	PROC 162 177	examen clinique
+T10	PHEN 193 202	cicatrice
+T11	ANAT 218 235	hypochondre droit
+T12	Localization 230 235	droit
+T13	PROC 253 269	examen somatique
+T14	DISO 281 294	particularité
+T15	PROC 299 361	radiographie du boudin d'invagination utéro-abdomino-pelvienne
+T16	ANAT 315 361	boudin d'invagination utéro-abdomino-pelvienne
+T17	CHEM 367 387	produit de contraste
+T18	PROC 389 392	PDC
+T19	DISO 410 477	épanchement liquidien péritérérinaire inféro-myometriale plexiforme
+T21	DISO 498 548	masse tumorale hypoechogène tissulaire lithiasique
+T22	MEAS 557 564	15x12cm
+T23	MEAS 574 578	3 cm
+T24	Concept_Idea 581 587	aspect
+T25	MEAS 588 596	jaunâtre
+T26	DOSE 619 624	bolus
+T27	CHEM 628 638	sufentanil
+T28	PROC 642 691	imagerie par résonance magnétique(IRM) pelviennes
+T29	PROC 676 679	IRM
+T30	ANAT 681 691	pelviennes
+T31	PROC 704 713	admission
+T32	Hospital 718 739	urgences pédiatriques
+T33	DISO 768 797	hypersignal T2 hypersignal T1
+T34	ANAT 818 861	parenchyme graisseux pariétal latéral droit
+T35	Localization 856 861	droit
+T36	TEMP 886 900	première heure
+T37	DISO 914 945	hyper-signal T2 hyper-signal T1
+T38	ANAT 982 1000	glandes ovariennes
+T39	Concept_Idea 1023 1031	contours
+T40	MEAS 1032 1043	irréguliers

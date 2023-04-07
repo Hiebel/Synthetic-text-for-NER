@@ -1,0 +1,11 @@
+T1	PROC 3 28	chimiothérapie palliative
+T2	DISO 72 101	insuffisance rénale terminale
+T3	ANAT 85 91	rénale
+T4	DISO 154 163	dysphonie
+T5	Concept_Idea 180 194	rythme sinusal
+T6	MEAS 211 217	légère
+T7	PHEN 233 253	bruits du cœur fœtal
+T8	ANAT 243 253	cœur fœtal
+T9	DISO 266 292	signes neuropsychiatriques
+T10	DISO 319 335	troubles visuels
+T11	DISO 352 381	anomalie clinico-radiologique

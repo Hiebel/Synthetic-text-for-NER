@@ -1,0 +1,29 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	10 ans
+T3	DISO 25 50	antécédents pathologiques
+T4	MEAS 51 59	notables
+T5	PROC 61 71	consultait
+T6	Hospital 76 84	urgences
+T7	DISO 94 141	douleurs abdomino-pelviennes aiguës récurrentes
+T8	ANAT 103 122	abdomino-pelviennes
+T9	TEMP 151 167	depuis deux mois
+T10	PROC 171 186	examen clinique
+T11	PROC 191 200	admission
+T12	LIVB 213 219	enfant
+T13	MEAS 223 226	bon
+T14	Concept_Idea 227 239	état général
+T15	PHEN 245 256	déglutition
+T16	MEAS 257 267	laborieuse
+T17	DISO 277 299	épanchement péritonéal
+T18	PROC 304 323	bilan préopératoire
+T19	PROC 341 365	analgésie du flanc droit
+T20	ANAT 354 365	flanc droit
+T21	Localization 360 365	droit
+T22	DOSE 370 374	2 ml
+T23	CHEM 378 389	paracétamol
+T24	DOSE 391 400	100 mg/kg
+T25	TEMP 400 402	/j
+T26	MODE 404 417	intra-veineux
+T27	DEVI 451 519	cathéter artériolaire trans-thoracique infarcto-gastro-duodéno-rénal
+T28	ANAT 460 519	artériolaire trans-thoracique infarcto-gastro-duodéno-rénal
+T29	PHEN 548 566	suites opératoires

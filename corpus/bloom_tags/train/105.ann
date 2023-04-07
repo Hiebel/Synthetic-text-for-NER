@@ -1,0 +1,27 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 50 75	antécédents pathologiques
+T3	MEAS 76 88	particuliers
+T4	PROC 90 96	admise
+T5	Hospital 101 126	urgences ophtalmologiques
+T6	DISO 136 145	céphalées
+T7	DISO 153 162	dysphagie
+T8	TEMP 172 189	depuis deux jours
+T9	PROC 195 204	admission
+T10	DISO 223 237	amaigrissement
+T11	MEAS 248 252	2 kg
+T12	TEMP 256 264	six mois
+T13	PROC 271 280	recherche
+T14	DISO 286 311	traumatisme du côté droit
+T15	ANAT 301 311	côté droit
+T16	Localization 306 311	droit
+T17	PROC 333 348	examen clinique
+T18	DISO 373 406	tuméfaction érythémato-pustuleuse
+T19	ANAT 423 461	sphère oculomoterice supérieure droite
+T20	Localization 455 461	droite
+T21	MEAS 471 483	environ 6 cm
+T22	Concept_Idea 487 496	grand axe
+T23	MEAS 501 504	1cm
+T24	Concept_Idea 508 521	petite taille
+T25	ANAT 538 569	aires ganglionnaires cervicales
+T26	ANAT 583 592	péritoine
+T27	ANAT 618 645	sinus sphéno-rhinopharyngée

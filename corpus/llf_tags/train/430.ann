@@ -1,0 +1,104 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 37	deux ans
+T3	DISO 54 67	consanguinité
+T4	PROC 72 87	prise en charge
+T5	PROC 109 119	césarienne
+T6	Concept_Idea 135 144	existence
+T7	DISO 151 193	masse tissulaire du membre supérieur droit
+T8	ANAT 171 193	membre supérieur droit
+T9	Localization 188 193	droit
+T10	MEAS 205 220	progressivement
+T11	Concept_Idea 224 230	volume
+T12	DISO 240 266	remaniements hémorragiques
+T13	ANAT 275 295	pédicule sous cutané
+T14	LIVB 314 317	lui
+T15	DISO 321 340	syndrome infectieux
+T16	PROC 363 385	résection chirurgicale
+T17	MEAS 418 425	simples
+T18	PHEN 447 465	suites opératoires
+T19	Hospital 487 502	bloc opératoire
+T20	LIVB 512 516	elle
+T21	DISO 547 563	plages septiques
+T22	LIVB 575 582	malades
+T23	PROC 633 652	bilan préopératoire
+T24	PROC 672 677	suivi
+T25	DISO 699 719	récidive infectieuse
+T26	DISO 735 756	déficit immunologique
+T27	LIVB 805 812	patient
+T28	DISO 826 850	choc anaphylactoïde aigu
+T29	DISO 868 890	inflammation chronique
+T30	DISO 900 929	crampes érythémato-trachéales
+T31	DISO 937 952	symptomatologie
+T32	MEAS 967 973	T4N0Mx
+T33	Concept_Idea 983 1001	vitesse de transit
+T34	PHEN 994 1001	transit
+T35	MEAS 1012 1024	20 ml/minute
+T36	PROC 1069 1104	examen anatomopathologiaque général
+T37	DISO 1125 1144	lésion prurigineuse
+T38	CHEM 1164 1177	antiseptiques
+T39	DISO 1220 1232	paresthésies
+T40	CHEM 1242 1253	rifampicine
+T41	CHEM 1256 1287	amoxicilline acide clavulanique
+T42	CHEM 1290 1315	acide acétyle salicylique
+T43	CHEM 1318 1328	aminosides
+T44	CHEM 1331 1344	néfopamidines
+T45	CHEM 1347 1359	pyrazinamide
+T46	CHEM 1362 1372	éthambutol
+T47	CHEM 1375 1389	neuroleptiques
+T48	CHEM 1392 1411	phénésulfaméthasone
+T49	CHEM 1414 1427	métronidazole
+T50	CHEM 1430 1441	propranolol
+T51	CHEM 1444 1453	imipenème
+T52	CHEM 1456 1466	antalgique
+T53	CHEM 1469 1497	nivaquine dietroprogestérone
+T54	CHEM 1500 1512	tétracycline
+T55	CHEM 1515 1525	dobutamine
+T56	CHEM 1528 1544	monohydrolatéral
+T57	CHEM 1547 1562	immunostimulant
+T58	CHEM 1565 1577	cortisonique
+T59	CHEM 1580 1592	prédnisolone
+T60	CHEM 1595 1610	gastrocortisone
+T61	CHEM 1613 1631	hydroxychloroquine
+T62	CHEM 1634 1644	isoflurane
+T63	CHEM 1647 1659	strimoxazole
+T64	CHEM 1662 1679	héparine standard
+T65	CHEM 1682 1695	fluorouracile
+T66	CHEM 1698 1707	œstrogène
+T67	CHEM 1710 1723	dexaméthasone
+T68	CHEM 1726 1738	myorelaxants
+T69	CHEM 1741 1752	glucantime®
+T70	CHEM 1755 1770	oxygénothérapie
+T71	CHEM 1773 1786	cotrimoxazole
+T72	CHEM 1789 1808	carbonate de sodium
+T73	CHEM 1811 1825	céphalosporine
+T74	CHEM 1828 1842	gentamethasone
+T75	CHEM 1845 1863	hypertriglycérides
+T76	CHEM 1866 1876	alcoolique
+T77	CHEM 1879 1894	polyprotinamide
+T78	CHEM 1897 1906	potassium
+T79	CHEM 1909 1923	hydrocortisone
+T80	CHEM 1926 1937	arythiasone
+T81	CHEM 1940 1953	méthacrylique
+T82	CHEM 1956 1978	ciprofloxacine sodique
+T83	CHEM 1981 2000	valproate de sodium
+T84	CHEM 2003 2018	alphabromégalie
+T85	CHEM 2021 2044	aspirine biphosphonates
+T86	CHEM 2047 2060	cyperméthrine
+T87	CHEM 2063 2074	nicardipine
+T88	CHEM 2077 2089	triptanidine
+T89	CHEM 2092 2109	halothélocalcique
+T90	CHEM 2112 2122	cisplatine
+T91	CHEM 2125 2150	formaldéhyde perfluoroïde
+T92	CHEM 2153 2180	métamphétamine antibiotique
+T94	CHEM 2218 2231	médicamenteux
+T95	CHEM 2234 2245	sulfonamide
+T96	CHEM 2248 2278	rifampicine acide clavulanique
+T97	CHEM 2281 2293	pyrazinamide
+T98	CHEM 2296 2310	acide salicylé
+T99	CHEM 2313 2327	cavécylcholine
+T100	Concept_Idea 2380 2405	paramètres hémodynamiques
+T101	PROC 2412 2431	bilan préopératoire
+T102	MEAS 2458 2465	nouveau
+T103	DISO 2466 2471	décès
+T104	TEMP 2474 2477	H24
+T105	DISO 2497 2516	choc anaphylactique

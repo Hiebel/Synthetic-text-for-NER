@@ -1,0 +1,18 @@
+T1	LIVB 28 35	patient
+T2	DISO 56 81	antécédents pathologiques
+T3	MEAS 82 90	notables
+T4	PROC 92 103	hospitalisé
+T5	Hospital 107 114	urgence
+T6	DISO 123 164	syndrome d'épanchement liquidien purulent
+T7	ANAT 146 155	liquidien
+T8	ANAT 178 189	flanc droit
+T9	Localization 184 189	droit
+T10	PROC 194 211	bilan d'extension
+T11	PROC 235 269	radiothérapie palliative adjuvante
+T12	Concept_Idea 275 279	dose
+T13	DOSE 283 287	75Gy
+T14	ANAT 300 305	corps
+T15	TEMP 319 338	pendant 06 semaines
+T16	PROC 351 376	chimiothérapie biphasique
+T17	CHEM 382 395	dexaméthasone
+T18	CHEM 399 413	hydrocortisone

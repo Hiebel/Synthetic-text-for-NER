@@ -1,0 +1,6 @@
+T1	PROC 3 24	radiothérapie externe
+T2	MEAS 61 70	favorable
+T3	PROC 76 98	contrôle échographique
+T4	MEAS 119 133	quasi complète
+T5	DISO 140 151	sensibilité
+T6	ANAT 156 165	paupières

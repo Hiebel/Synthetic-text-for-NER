@@ -1,0 +1,56 @@
+T1	LIVB 4 7	N.M
+T2	MEAS 32 33	6
+T3	LIVB 34 41	enfants
+T4	Concept_Idea 254 271	moyens financiers
+T5	Concept_Idea 333 351	caractères sexuels
+T6	LIVB 377 382	fille
+T7	PROC 414 439	corticothérapie adjuvante
+T8	CHEM 445 464	drogues vasoactives
+T9	TEMP 508 514	3 mois
+T10	PROC 528 553	consultation obstétricale
+T11	PROC 590 618	prise en charge chirurgicale
+T12	PROC 763 778	examen clinique
+T13	PROC 898 920	contrôle échographique
+T14	Concept_Idea 969 990	limites chirurgicales
+T15	MEAS 1033 1042	multiples
+T16	Concept_Idea 1051 1090	résultats anatomo-clinico-radiologiques
+T17	DISO 1179 1215	symptomatologies neuropsychiatriques
+T18	DISO 1555 1581	symptômes schizophréniques
+T19	PROC 2179 2210	mise en condition thérapeutique
+T20	PROC 2227 2275	thyroïdectomie totale exploratrice scanno-guidée
+T21	PROC 2288 2307	rééducation motrice
+T22	PROC 2446 2505	kinésithérapie cognitivo-comportementale multidisciplinaire
+T23	TEMP 2603 2608	/jour
+T25	PHEN 2859 2877	suites opératoires
+T26	MEAS 2886 2893	simples
+T27	PROC 2902 2925	contrôle postopératoire
+T28	PROC 2931 2953	traitement substitutif
+T29	CHEM 2955 2966	gentamicine
+T30	CHEM 2969 2983	ciprofloxacine
+T31	LIVB 3003 3011	patiente
+T32	DISO 3027 3039	vomissements
+T33	DISO 3055 3072	trouble convulsif
+T34	DISO 3082 3100	épisode infectieux
+T35	Concept_Idea 3113 3125	état général
+T36	MEAS 3126 3132	altéré
+T37	Concept_Idea 3165 3183	plan hémodynamique
+T38	DISO 3210 3218	apyrexie
+T39	PROC 3256 3268	consultation
+T40	TEMP 3280 3288	24heures
+T41	DISO 3296 3304	récidive
+T42	ANAT 3330 3347	parois digestives
+T43	LIVB 3390 3414	nourrisseurs primigestes
+T44	LIVB 3484 3491	malades
+T45	Hospital 3515 3538	structures ambulatoires
+T46	PROC 3650 3670	reprise chirurgicale
+T47	PROC 3785 3818	remplissage oeso-gastro-abdominal
+T48	ANAT 3797 3818	oeso-gastro-abdominal
+T49	PROC 3837 3856	étude morphologique
+T50	DISO 3890 3931	adénocarcinome mucineux infiltrant cutané
+T51	MEAS 3952 3956	18mm
+T52	MEAS 3959 3963	14mm
+T53	MEAS 3975 3979	10mm
+T54	Concept_Idea 4286 4299	cas cliniques
+T55	LIVB 4347 4356	personnes
+T56	TEMP 4376 4382	23 ans
+T57	DISO 4406 4423	anomalies fœtales

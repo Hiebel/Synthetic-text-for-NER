@@ -1,0 +1,18 @@
+T1	LIVB 19 26	patient
+T2	PROC 38 43	admis
+T3	Hospital 48 56	urgences
+T4	DISO 68 87	traumatisme crânien
+T5	ANAT 101 117	sinus maxillaire
+T6	LIVB 139 146	patient
+T7	DISO 151 172	perte de connaissance
+T8	DISO 182 209	troubles sensitivoomotrices
+T9	PROC 213 228	examen clinique
+T10	DISO 256 285	hémiplégie postérieure droite
+T11	DISO 299 319	signes neurologiques
+T12	PROC 334 350	bilan biologique
+T13	PROC 372 391	électrorétinogramme
+T14	PROC 393 396	ERG
+T15	PROC 399 416	IRM préopératoire
+T16	PROC 420 453	imagerie par résonance magnétique
+T17	PROC 455 458	IRM
+T18	DISO 486 503	atteinte visuelle

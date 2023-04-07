@@ -1,0 +1,52 @@
+T1	LIVB 29 37	patiente
+T2	DISO 71 94	hyperthyroïdie primaire
+T3	ANAT 106 126	arc thyroïdien droit
+T4	Localization 121 126	droit
+T5	PROC 146 176	complément immunohistochimique
+T6	Concept_Idea 207 213	aspect
+T7	MEAS 241 247	second
+T8	DISO 248 288	carcinome des parties molles du pancréas
+T9	ANAT 262 288	parties molles du pancréas
+T10	LIVB 308 312	elle
+T11	CHEM 329 344	biphosphonamide
+T12	DOSE 346 353	1 mg/kg
+T13	TEMP 353 358	/jour
+T14	CHEM 363 377	hydrocortisone
+T15	DOSE 379 385	2mg/kg
+T16	TEMP 385 387	/j
+T17	MODE 389 402	intraveineuse
+T18	CHEM 414 427	dexaméthasone
+T19	DOSE 429 439	0,5 mg /kg
+T20	TEMP 439 441	/J
+T21	PROC 446 475	examen clinique préopératoire
+T22	PHEN 493 511	fonction cardiaque
+T23	ANAT 502 511	cardiaque
+T24	DISO 524 554	troubles hydro-électrolytiques
+T25	DISO 560 585	atteinte vasculo-nerveuse
+T26	ANAT 569 585	vasculo-nerveuse
+T27	PROC 590 621	scanner thoracoabdomino pelvien
+T28	ANAT 598 621	thoracoabdomino pelvien
+T29	DISO 638 678	lésion hypo-intense tissulaire hypodense
+T30	MEAS 688 696	17x12 cm
+T31	PROC 717 743	injection intrarachidienne
+T32	CHEM 747 767	produit de contraste
+T33	MEAS 779 794	progressivement
+T34	Concept_Idea 798 804	taille
+T35	Concept_Idea 807 813	aspect
+T36	MEAS 814 824	hétérogène
+T37	ANAT 841 853	ovaire droit
+T38	Localization 848 853	droit
+T39	DISO 871 949	épanchement hypogastrique latéro-dorsal laryngo-hypophagien liquidien infiltré
+T40	ANAT 883 996	hypogastrique latéro-dorsal laryngo-hypophagien liquidien infiltré prenant toutes les structures cervico-vaginaux
+T42	DISO 1016 1070	adénopathies pelviennes basithoraciques hypertrophiées
+T44	DISO 1146 1193	épanchement pulmonaire purulentiel hyperintense
+T46	LIVB 1195 1199	Nous
+T47	PROC 1221 1272	tomodensitométrie pleuro-pulmonaire diaphragmatique
+T48	ANAT 1239 1272	pleuro-pulmonaire diaphragmatique
+T49	DISO 1286 1438	masse arrondie polylobée angulo-circoniforme hétérogène pariétale sus-diaphragmatique apophyso-lygomateuse sus-claviculaire sous carotidienne bilatérale
+T50	Localization 1352 1355	sus
+T51	Localization 1410 1414	sous
+T52	Localization 1428 1438	bilatérale
+T53	MEAS 1450 1454	50mm
+T54	Concept_Idea 1458 1467	grand axe
+T55	PROC 1496 1505	injection

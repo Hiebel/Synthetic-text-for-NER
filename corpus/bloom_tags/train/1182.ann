@@ -1,0 +1,29 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	11 ans
+T3	DISO 50 82	syndrome d'hyponatrémie primaire
+T4	PHEN 102 123	récupération sportive
+T5	DISO 157 181	symptômes neuropathiques
+T6	LIVB 183 185	Il
+T7	PROC 201 206	admis
+T8	Hospital 211 232	urgences pédiatriques
+T9	LIVB 234 237	ses
+T10	DISO 284 297	particularité
+T11	DISO 325 345	déficit neurologique
+T12	PROC 349 364	examen clinique
+T13	DISO 385 408	hypotonie psychomotrice
+T14	DISO 483 489	fièvre
+T15	DISO 505 511	sueurs
+T16	MEAS 512 520	profuses
+T17	MEAS 545 551	brutal
+T18	TEMP 561 577	depuis deux mois
+T19	LIVB 584 587	son
+T20	PROC 588 597	admission
+T21	Hospital 601 620	milieu réanimatoire
+T22	PROC 668 690	traitement chirurgical
+T23	PROC 695 710	examen physique
+T24	DISO 722 748	polyarthrite inflammatoire
+T25	DISO 758 768	rhumatoïde
+T26	ANAT 786 808	tronc huméro-graisseux
+T27	ANAT 838 868	membrane apicale métacavitaire
+T28	ANAT 890 931	masse ptérygo-phalangienne palmariocæcale
+T29	MEAS 941 950	12 x 10cm

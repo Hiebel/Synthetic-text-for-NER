@@ -1,0 +1,74 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 38 44	10 ans
+T3	PROC 46 51	admis
+T4	Hospital 55 62	urgence
+T5	DISO 72 81	hématurie
+T6	TEMP 91 104	depuis 3 mois
+T7	DISO 119 133	ictère fébrile
+T8	DISO 146 162	signes cliniques
+T9	PROC 175 190	examen clinique
+T10	DISO 207 233	tuméfaction du flanc droit
+T11	ANAT 222 233	flanc droit
+T12	Localization 228 233	droit
+T13	MEAS 236 247	environ 2cm
+T14	Concept_Idea 251 260	grand axe
+T15	MEAS 271 275	5 cm
+T16	Concept_Idea 279 287	diamètre
+T17	CHEM 308 320	fluorescéine
+T18	LIVB 322 326	Nous
+T19	PROC 344 359	examen physique
+T20	PROC 368 397	échographie abdomino-utérines
+T21	ANAT 380 397	abdomino-utérines
+T22	DISO 426 450	masse tumorale hypodense
+T23	ANAT 467 491	veine cave rénale droite
+T24	Localization 485 491	droite
+T25	DISO 510 530	pénétration vulvaire
+T26	ANAT 522 530	vulvaire
+T27	PROC 534 553	enquête étiologique
+T28	MEAS 560 568	négative
+T29	DISO 604 617	consanguinité
+T30	PHEN 623 638	fonction rénale
+T31	ANAT 632 638	rénale
+T32	MEAS 645 652	normale
+T33	DISO 676 715	syndrome d'épanchement intra-péritonéal
+T34	ANAT 699 715	intra-péritonéal
+T35	DISO 734 752	fistule épiploïque
+T36	ANAT 742 752	épiploïque
+T37	DISO 769 790	troubles métaboliques
+T38	DEVI 811 843	appareils d'immuno-histochimique
+T39	DISO 861 884	métastases péritonéales
+T40	LIVB 915 923	patiente
+T41	LIVB 943 952	patientes
+T42	PROC 969 980	recherchées
+T43	DISO 1049 1069	carcinome urothélial
+T44	DISO 1090 1105	récidive locale
+T45	PROC 1112 1135	radiothérapie adjuvante
+T46	DISO 1151 1176	localisation métastatique
+T47	DISO 1194 1217	polyarthrite rhumatoïde
+T48	PROC 1294 1318	anticorps antinucléaires
+T49	PROC 1365 1397	anti-myoglobine G antiADN natifs
+T50	MEAS 1409 1417	positifs
+T51	MEAS 1448 1457	négativés
+T52	PROC 1474 1500	ponction liquide synoviale
+T53	ANAT 1483 1500	liquide synoviale
+T54	PROC 1522 1548	contraception prostitieuse
+T55	ANAT 1536 1548	prostitieuse
+T56	MEAS 1557 1565	anormale
+T57	DISO 1597 1610	inflammatoire
+T58	DISO 1617 1646	symptomatologie inflammatoire
+T59	CHEM 1687 1698	tuberculine
+T60	PROC 1723 1735	diagnostique
+T61	DISO 1913 1942	conjonctivorragies purulentes
+T62	DISO 2251 2311	thrombose artérielle infarcto-loculée ischémique lithiasique
+T64	PROC 2317 2351	scanner thoracico-abdomino-pelvien
+T65	ANAT 2325 2351	thoracico-abdomino-pelvien
+T66	DISO 2365 2436	distension pulmonaire basithoracique bilatérale latérale bilate pesante
+T67	ANAT 2376 2436	pulmonaire basithoracique bilatérale latérale bilate pesante
+T69	ANAT 2456 2508	espace intercostal thoracique sus hyo-thyro-tracheal
+T70	Localization 2486 2489	sus
+T71	ANAT 2529 2565	parenchyme pulmonaire basithoracique
+T72	Localization 2551 2565	basithoracique
+T73	ANAT 2597 2618	structures cardiaques
+T74	ANAT 2648 2678	glandes pulmonaires cervicales
+T75	PROC 2700 2723	remplissage chirurgical
+T76	PROC 2796 2823	traitement médical adjuvant

@@ -1,0 +1,30 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 33 39	12 ans
+T3	DISO 95 139	cardiopathies congénitales thromboemboliques
+T4	DISO 141 145	CCTE
+T5	DISO 148 171	hyperthyroïdie primaire
+T6	DISO 184 205	maladies métaboliques
+T7	TEMP 231 240	trois ans
+T8	DISO 256 302	douleur thoracique basithoracique hypoéchogène
+T9	ANAT 264 302	thoracique basithoracique hypoéchogène
+T10	MEAS 317 323	rapide
+T11	ANAT 391 404	épaule droite
+T12	Localization 398 404	droite
+T13	DISO 423 452	détresse respiratoire globale
+T14	MEAS 462 475	insupportable
+T15	Concept_Idea 493 511	plan hémodynamique
+T16	DISO 532 538	fièvre
+T17	DISO 545 583	saignement bronchique liquidien cutané
+T18	ANAT 556 583	bronchique liquidien cutané
+T19	CHEM 603 622	anti-inflammatoires
+T20	CHEM 628 646	méthylprednisolone
+T21	CHEM 671 715	paracétamol-acide acido-amoxicillinucléosine
+T22	PROC 736 758	traitement curativiste
+T23	CHEM 807 825	acide clavulanique
+T24	MODE 867 880	intraveineuse
+T25	DISO 922 938	conjonctivalgies
+T26	DISO 1004 1029	empyème pariéto-occipital
+T27	ANAT 1012 1029	pariéto-occipital
+T28	DISO 1056 1070	thrombus rompu
+T29	DEVI 1237 1256	serviers mécaniques
+T30	LIVB 1283 1291	patients

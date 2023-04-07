@@ -1,0 +1,55 @@
+T1	LIVB 33 41	patiente
+T2	CHEM 77 91	méthotrexazole
+T3	MODE 96 106	voie orale
+T4	DOSE 110 116	1mg/kg
+T5	TEMP 116 118	/j
+T6	CHEM 132 157	acide valproate de sodium
+T7	DISO 191 234	syndrome d’épanchement liquidien péritonéal
+T8	ANAT 214 234	liquidien péritonéal
+T9	LIVB 263 271	patiente
+T10	PROC 334 356	traitement chirurgical
+T11	PROC 369 414	curage ganglionnaire pannicululaire pariétale
+T12	ANAT 376 414	ganglionnaire pannicululaire pariétale
+T13	CHEM 429 455	sulfamésulfonyl-triazolone
+T14	DISO 500 521	conflits métaboliques
+T15	DISO 655 693	syndrome d'épanchement intrapéritonéal
+T16	ANAT 678 693	intrapéritonéal
+T17	DISO 734 756	symptômes néphrétiques
+T18	DISO 796 820	déficit sensitivomotrice
+T19	PROC 826 848	diagnostic étiologique
+T20	DISO 874 927	cardiomyopathie congénitale hypertrophiéde ischémique
+T21	DISO 955 983	anomalies cardio-vasculaires
+T22	DISO 1001 1016	myocardomégalie
+T23	DISO 1023 1060	maladie thromboembolique prurigineuse
+T24	MEAS 1241 1248	simples
+T25	PROC 1253 1287	prise en charge pluridisciplinaire
+T26	DISO 1358 1390	tachycardie sinus bradycardieuse
+T27	ANAT 1370 1390	sinus bradycardieuse
+T28	MEAS 1405 1416	progressive
+T29	MEAS 1426 1436	insoutenue
+T30	PROC 1515 1549	décubitus ventriculo-surrénalienne
+T31	ANAT 1525 1549	ventriculo-surrénalienne
+T32	ANAT 1619 1637	membres inférieurs
+T33	PROC 1843 1865	consultation prénatale
+T34	DEVI 1872 1879	brochos
+T35	PROC 1909 1930	échographie pelvienne
+T36	ANAT 1921 1930	pelvienne
+T37	PROC 1981 2009	investigations radiologiques
+T38	MEAS 2024 2033	négatives
+T39	MEAS 2260 2274	indifférenciée
+T40	DISO 2359 2384	localisations secondaires
+T41	DISO 2399 2432	kystadénopathie rétro péritonéale
+T42	DISO 2439 2465	hémangiome cervico-ovarien
+T43	LIVB 2470 2478	patiente
+T44	CHEM 2495 2508	noradrénaline
+T45	DOSE 2510 2516	5mg/kg
+T46	TEMP 2516 2522	/heure
+T47	CHEM 2525 2538	buprénorphine
+T48	DOSE 2540 2549	0,6 mg/kg
+T49	TEMP 2549 2551	/j
+T50	CHEM 2556 2569	cétaméthasone
+T51	DOSE 2571 2579	10 mg/kg
+T52	TEMP 2579 2581	/J
+T53	MODE 2583 2589	per os
+T54	DISO 2614 2641	troubles du cycle menstruel
+T55	PHEN 2626 2641	cycle menstruel

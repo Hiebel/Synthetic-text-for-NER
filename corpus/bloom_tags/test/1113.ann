@@ -1,0 +1,39 @@
+T1	LIVB 25 31	enfant
+T2	TEMP 35 41	10 ans
+T3	DISO 47 72	antécédents pathologiques
+T4	MEAS 73 81	notables
+T5	Hospital 104 125	urgences pédiatriques
+T7	ANAT 144 163	abdomino-pelviennes
+T8	TEMP 173 191	depuis trois jours
+T9	DISO 207 213	sueurs
+T10	MEAS 214 222	profuses
+T11	DISO 242 250	anorexie
+T12	MEAS 262 266	2 kg
+T13	TEMP 270 277	un mois
+T14	DISO 297 311	amaigrissement
+T15	MEAS 322 326	6 kg
+T16	DISO 342 362	traumatisme périnéal
+T17	LIVB 382 389	fratrie
+T18	PROC 409 437	prise en charge chirurgicale
+T19	PROC 443 476	anesthésie locorégionale plexique
+T20	PROC 499 518	tumorectomie droite
+T21	Localization 512 518	droite
+T22	PROC 532 565	résection ovarienne trans-utérine
+T23	ANAT 542 565	ovarienne trans-utérine
+T24	PHEN 603 620	replis ovariennes
+T25	DISO 680 705	endométrial polymyomateux
+T26	DISO 720 746	épanchement basithoracique
+T27	ANAT 732 746	basithoracique
+T28	PROC 753 789	tomodensitométrie abdomino pelvienne
+T29	ANAT 771 789	abdomino pelvienne
+T30	PROC 805 827	induction anesthésique
+T31	MEAS 887 892	12 cm
+T32	Concept_Idea 896 905	grand axe
+T33	Localization 954 959	supra
+T34	Localization 986 989	sus
+T35	MEAS 1014 1029	progressivement
+T36	Concept_Idea 1033 1039	taille
+T37	MEAS 1056 1073	circonférentielle
+T38	MEAS 1081 1086	1170g
+T39	DISO 1177 1211	infiltration médullaire graisseuse
+T40	DISO 1230 1256	paragangliome hypertrophié

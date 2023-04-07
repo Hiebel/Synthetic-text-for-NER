@@ -1,0 +1,43 @@
+T1	MEAS 12 13	1
+T2	LIVB 31 37	enfant
+T3	TEMP 41 46	7 ans
+T4	PROC 57 63	admise
+T5	Hospital 68 89	urgences pédiatriques
+T7	ANAT 108 118	pelviennes
+T8	MEAS 133 139	rapide
+T9	DISO 155 172	ictère péribuccal
+T10	TEMP 182 196	depuis 3 jours
+T11	LIVB 203 205	sa
+T12	PROC 206 218	consultation
+T13	Concept_Idea 254 266	état général
+T14	PROC 271 287	bilan biologique
+T15	PHEN 305 320	fonction rénale
+T16	ANAT 314 320	rénale
+T17	MEAS 321 328	normale
+T18	DISO 353 386	syndrome d'épanchement péritonéal
+T19	ANAT 376 386	péritonéal
+T20	DISO 396 417	déficit neurorétinien
+T21	DISO 441 453	thrombopénie
+T22	DISO 466 489	symptômes hémorragiques
+T23	DISO 516 533	prolapsus ovarien
+T24	ANAT 526 533	ovarien
+T25	PROC 557 571	toucher utérin
+T26	ANAT 565 571	utérin
+T27	DISO 664 676	prurigineuse
+T28	MEAS 688 703	progressivement
+T29	Concept_Idea 707 713	volume
+T30	TEMP 722 734	le jour même
+T31	LIVB 748 752	elle
+T32	PROC 758 763	reçue
+T33	Hospital 768 789	urgences pédiatriques
+T34	LIVB 791 795	elle
+T35	PROC 880 895	hospitalisation
+T36	PROC 909 946	tomodensitométrie abdomino- pelvienne
+T37	ANAT 927 946	abdomino- pelvienne
+T38	MEAS 967 977	concluante
+T39	LIVB 1001 1013	petite-fille
+T40	DISO 1018 1183	masse bourgeonnante tumorale polyradiculée infiltro-médiastinguellaire kystique préhisténomateuse pariétale basithoracico-ganglionnaire rétrotricuspulmonaire altérée
+T41	Concept_Idea 1203 1210	aspects
+T42	PROC 1252 1270	scanner thoracique
+T43	ANAT 1260 1270	thoracique
+T44	DISO 1288 1307	métastases malignes

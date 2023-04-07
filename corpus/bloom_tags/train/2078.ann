@@ -1,0 +1,24 @@
+T1	LIVB 29 34	fille
+T2	TEMP 43 48	5 ans
+T3	DISO 68 95	douleurs abdomino-pelvienne
+T4	ANAT 77 95	abdomino-pelvienne
+T5	PROC 109 130	traitements institués
+T6	TEMP 144 157	depuis 6 mois
+T7	PHEN 193 216	équilibre psychomotrice
+T8	DISO 232 244	vomissements
+T9	DISO 251 271	saignement menstruel
+T10	DISO 288 308	inflammation utérine
+T11	ANAT 301 308	utérine
+T12	ANAT 335 349	hypogastriques
+T14	ANAT 379 402	pelvienne transfixiante
+T15	PROC 404 407	TFT
+T16	LIVB 410 413	Son
+T17	PROC 414 429	examen clinique
+T18	DISO 450 480	sensibilité abdomino-pelvienne
+T19	ANAT 462 480	abdomino-pelvienne
+T20	MEAS 495 501	rapide
+T21	PROC 548 572	anesthésie locorégionale
+T22	DISO 629 657	maladie kystique néphrotique
+T23	LIVB 675 681	enfant
+T24	DISO 973 1006	lésions purpuriques prurigineuses
+T25	DISO 1022 1036	amaigrissement

@@ -1,0 +1,15 @@
+T1	PROC 3 20	bilan d'extension
+T2	DISO 30 43	particularité
+T3	LIVB 48 56	patiente
+T4	PROC 73 101	antibiothérapie probabiliste
+T5	CHEM 103 115	amoxicilline
+T6	CHEM 117 127	aminosides
+T7	Concept_Idea 134 138	dose
+T8	DOSE 142 148	1mg/kg
+T9	TEMP 148 150	/j
+T10	PROC 165 187	remplissage vasculaire
+T11	ANAT 177 187	vasculaire
+T12	MODE 192 210	voie intraveineuse
+T13	MEAS 232 241	favorable
+T14	DISO 265 286	syndrome hémorragique
+T15	DISO 308 337	symptômes neuropsychiatriques

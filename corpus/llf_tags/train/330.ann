@@ -1,0 +1,99 @@
+T1	PROC 2 44	radiographie de l'abdomen sans préparation
+T2	ANAT 20 27	abdomen
+T3	DISO 61 87	masse tissulaire du thorax
+T4	ANAT 81 87	thorax
+T5	PROC 92 109	tomodensitométrie
+T6	PROC 111 141	TDM) thoraco-abdominopelvienne
+T7	ANAT 116 141	thoraco-abdominopelvienne
+T8	DISO 169 194	localisations secondaires
+T9	Concept_Idea 203 211	résultat
+T10	DISO 227 277	carcinome épidermoïde des deux membres supérieures
+T11	MEAS 253 257	deux
+T12	ANAT 258 277	membres supérieures
+T13	Localization 266 277	supérieures
+T14	MEAS 310 317	simples
+T15	LIVB 324 331	patient
+T16	PROC 336 341	sorti
+T17	TEMP 345 372	sixième jour postopératoire
+T18	PROC 378 420	réunion de concertation pluridisciplinaire
+T20	LIVB 490 496	malade
+T21	PROC 502 541	traitement anticoagulants plaquettaires
+T22	CHEM 513 541	anticoagulants plaquettaires
+T23	MODE 546 566	voie intramusculaire
+T24	DOSE 579 586	1 mg/kg
+T25	TEMP 586 588	/j
+T26	DEVI 605 640	prothèse intraveineuse percutanéale
+T27	PHEN 758 779	grossesse monofoetale
+T28	PROC 784 790	suivie
+T29	LIVB 814 824	nourrisson
+T30	TEMP 833 843	trois mois
+T31	PROC 852 867	prise en charge
+T32	DISO 881 887	fièvre
+T33	TEMP 897 915	depuis trois jours
+T34	Concept_Idea 951 969	état hémodynamique
+T35	Concept_Idea 1008 1025	état nutritionnel
+T36	Hospital 1056 1064	urgences
+T37	PROC 1068 1083	examen clinique
+T38	LIVB 1107 1119	petite fille
+T39	DISO 1151 1170	contage tuberculeux
+T40	DISO 1177 1206	symptômes neuropsychiatriques
+T41	PROC 1261 1291	bilan biologique préopératoire
+T42	PROC 1311 1340	prélèvements bactériologiques
+T43	DISO 1393 1424	cytoplasme érythémateux maligne
+T44	DISO 1438 1465	pneumocystis jiroveciiforme
+T45	PROC 1523 1545	contrôle échographique
+T46	PROC 1560 1571	hémodialyse
+T47	DISO 1596 1615	hypocholestérolémie
+T48	MEAS 1618 1628	5,4 mmol/l
+T49	DISO 1647 1660	hyperkaliémie
+T50	MEAS 1663 1673	9,7 mmol/l
+T51	DISO 1689 1715	syndrome hémorragique aigu
+T52	DISO 1734 1776	dilatation des voies aériennes antérieures
+T53	ANAT 1749 1776	voies aériennes antérieures
+T54	Localization 1765 1776	antérieures
+T55	DISO 1796 1813	diabète chronique
+T56	PROC 1818 1841	remplissage vascularisé
+T57	ANAT 1830 1841	vascularisé
+T58	PROC 1996 2033	biparotomie exploratrice endoscopique
+T59	PROC 2047 2107	curarisation scanno-guidée transœso-gastro-duodénale élargie
+T60	PROC 2122 2183	myograffectomie axilectomie transversale superficielle totale
+T61	Localization 2150 2183	transversale superficielle totale
+T62	ANAT 2202 2246	ganglion infundibulaire cervico-mandibulaire
+T63	ANAT 2257 2276	annexes cunéiformes
+T64	PROC 2321 2344	exploration extemporané
+T65	Concept_Idea 2411 2432	limites chirurgicales
+T66	PROC 2479 2507	antibiothérapie probabiliste
+T67	PROC 2557 2590	consultation médicale spécialisée
+T68	PROC 2617 2668	néphrectomie bilatérale latérale supérieure étendue
+T69	Localization 2630 2668	bilatérale latérale supérieure étendue
+T71	ANAT 2759 2880	massif ano-thyroïdien supéro-extenseur controlatéral postéro-latéral droit qui reçoit l’artère thyroïdienne inferiempaire
+T75	DISO 2899 2947	processus mamelonnaire intracorpioïde ischémique
+T76	DISO 2961 3005	nodule ganglionnaire myomateux hypokinétique
+T77	DISO 3014 3037	adénopathies axillaires
+T78	ANAT 3027 3037	axillaires
+T79	PROC 3052 3069	tomodensitométrie
+T80	PROC 3071 3074	IRM
+T81	PHEN 3099 3120	grossesse monofoetale
+T82	PROC 3125 3135	opératoire
+T83	CHEM 3152 3162	médicament
+T84	TEMP 3177 3206	quatrième jour postopératoire
+T85	DOSE 3219 3227	1 gramme
+T86	CHEM 3231 3254	methylpyriméthamétasone
+T87	DOSE 3256 3265	3 grammes
+T88	CHEM 3269 3304	amoxicilline acide acétique sodique
+T89	ANAT 3317 3342	vésicule biliaire commune
+T90	PROC 3366 3435	anastomose réticulo-aortique segmentaire deltoïde sternale fistulisée
+T92	PROC 3470 3489	examen radiologique
+T93	PROC 3522 3556	prise en charge neuropsychiatrique
+T94	LIVB 3613 3620	parents
+T95	MEAS 3773 3780	simples
+T96	DISO 3831 3842	traumatisme
+T97	DISO 3849 3862	mal convulsif
+T98	Concept_Idea 3889 3906	résultat clinique
+T99	MEAS 3912 3923	particulier
+T100	PROC 3928 3950	suivi socio-judiciaire
+T101	TEMP 3962 3972	trois mois
+T102	TEMP 3983 3998	11 octobre 2012
+T103	TEMP 4002 4017	24 février 2013
+T104	Concept_Idea 4095 4113	cadre médico-légal
+T105	DISO 4281 4305	tentatives obstétricales

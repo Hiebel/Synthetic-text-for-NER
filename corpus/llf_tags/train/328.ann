@@ -1,0 +1,49 @@
+T1	LIVB 2 9	patient
+T2	DISO 30 55	antécédents pathologiques
+T3	MEAS 56 68	particuliers
+T4	PROC 75 80	admis
+T5	Hospital 84 104	service des urgences
+T6	DISO 124 130	fièvre
+T7	MEAS 133 137	38°C
+T8	DISO 145 161	dyspnée d'effort
+T9	PROC 167 182	examen clinique
+T10	LIVB 187 194	patient
+T12	Concept_Idea 206 218	état général
+T13	PHEN 223 230	réponse
+T14	ANAT 234 239	genou
+T15	DISO 266 276	lombalgies
+T16	DISO 286 315	symptômes neuropsychiatriques
+T17	DISO 340 364	syndrome polymalformatif
+T18	DISO 373 388	signes généraux
+T19	MEAS 424 446	supérieure à 60 cycles
+T20	TEMP 447 457	par minute
+T21	DISO 465 484	sensations tactiles
+T22	Concept_Idea 519 532	état générale
+T23	PROC 537 554	bilan étiologique
+T24	DISO 585 620	hypokératoconjonctivite infectieuse
+T25	DISO 640 658	neurofibromatopsie
+T26	DISO 682 691	cervicale
+T27	DISO 705 754	rhinopharyngite érythémato-trachéo-nasale maligne
+T28	LIVB 768 775	patient
+T29	PROC 780 790	traitement
+T30	PROC 812 841	chimiothérapie antibacillaire
+T31	CHEM 847 859	amoxicilline
+T32	CHEM 862 887	vaccin GOLDECKULANIAZINE®
+T33	PROC 901 929	antibiothérapie probabiliste
+T34	CHEM 935 965	rifampicine acide clavulanique
+T35	PROC 980 1009	immunoglobuline intraveineuse
+T37	PROC 1335 1377	prise en charge thérapeutique substitutive
+T38	MEAS 1441 1451	favorables
+T39	LIVB 1461 1467	enfant
+T40	PROC 1502 1534	néphrectomie totale endovaginale
+T41	PROC 1547 1726	anastomose antéro-septale hépatique transoesophagienne postéro-mandibulaire costale gauchedistale latérale jugulo-carotidienne controlatérale antero-abdomino-rénale gauche élargie
+T43	Localization 1631 1637	gauche
+T44	PROC 1738 1771	radio-chimiothérapie néoadjuvante
+T45	DEVI 1777 1849	bolus Wirsung bipyramidazole/Rituximab Ringer Inhibiteur Doppler couleur
+T46	PROC 1865 1904	hormonothérapie palliative concomitante
+T47	CHEM 1910 1932	aminosides citrullinés
+T48	PROC 1948 1970	kinésithérapie motrice
+T49	CHEM 1976 2004	fluorescéine dihydrosolubles
+T50	LIVB 2202 2219	gardiens médicaux
+T51	Concept_Idea 2282 2290	discours
+T52	DISO 2343 2361	effets secondaires

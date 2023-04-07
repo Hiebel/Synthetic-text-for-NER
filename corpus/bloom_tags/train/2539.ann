@@ -1,0 +1,39 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 45 56	antécédents
+T3	MEAS 57 69	particuliers
+T4	PROC 71 83	hospitalisée
+T5	Hospital 88 96	urgences
+T6	DISO 106 127	détresse respiratoire
+T7	PHEN 115 127	respiratoire
+T8	TEMP 137 150	depuis 3 mois
+T9	DISO 166 200	douleurs thoraciques constrictives
+T10	ANAT 175 186	thoraciques
+T11	PROC 204 219	examen clinique
+T12	LIVB 233 241	patiente
+T13	DISO 260 274	amaigrissement
+T14	MEAS 285 290	20 kg
+T15	TEMP 294 300	3 mois
+T16	PROC 306 336	auscultation pleuro-bronchique
+T17	ANAT 319 336	pleuro-bronchique
+T18	MEAS 343 350	normale
+T19	PROC 355 377	radiographie du thorax
+T20	ANAT 371 377	thorax
+T21	DISO 395 424	opacité basithoracique droite
+T22	ANAT 403 424	basithoracique droite
+T23	Localization 418 424	droite
+T24	MEAS 434 439	12 cm
+T25	ANAT 456 489	paroi crico-thoracique bilatérale
+T26	Localization 479 489	bilatérale
+T27	ANAT 505 534	sinus latéro-pulmonaire droit
+T28	Localization 529 534	droit
+T29	ANAT 556 612	muscles claviculaires basithoraciques jugulo carotidiens
+T30	DISO 636 752	adénopathies médiastiniennes paucilatéralisées hétérogènes sus-diaphragmatiques hypo-intenseuses hyper-vascularisées
+T32	PROC 795 811	examen somatique
+T33	DISO 822 835	particularisé
+T34	PROC 838 874	échocardiographie artériolo-veineuse
+T35	ANAT 856 874	artériolo-veineuse
+T36	PROC 889 908	anesthésie générale
+T37	LIVB 932 940	patiente
+T38	DISO 945 992	pneumo-cardiomyopathie hypertrophiésystématisée
+T39	DISO 1004 1101	épanchement liquidien péri-ventriculaire infarcto-lésionnel pariéto-hypovoléculaire hypokinétique
+T41	ANAT 1128 1149	structures cardiaques

@@ -1,0 +1,28 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	9 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 79	particuliers
+T5	DISO 99 133	douleurs du membre inférieur droit
+T6	ANAT 111 133	membre inférieur droit
+T7	Localization 128 133	droit
+T8	TEMP 143 156	depuis 2 mois
+T9	DISO 176 182	fièvre
+T10	PROC 199 214	examen clinique
+T11	PROC 219 228	admission
+T12	LIVB 241 247	enfant
+T13	Concept_Idea 272 290	plan hémodynamique
+T14	PHEN 300 318	tension artérielle
+T15	ANAT 308 318	artérielle
+T16	MEAS 321 332	110/70 mmHg
+T18	MEAS 354 358	37°C
+T19	PROC 362 393	échographie abdomino- pelvienne
+T20	ANAT 374 393	abdomino- pelvienne
+T22	CHEM 516 526	sérum salé
+T23	MEAS 536 541	13 cm
+T24	Concept_Idea 545 554	grand axe
+T25	MEAS 556 565	régulière
+T26	Concept_Idea 568 574	aspect
+T27	MEAS 575 582	arrondi
+T28	MEAS 591 595	2 cm
+T29	Concept_Idea 599 608	grand axe
+T30	ANAT 624 638	paroi vaginale

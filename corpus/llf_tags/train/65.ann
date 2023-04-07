@@ -1,0 +1,28 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	7 ans
+T3	PROC 71 76	admis
+T4	Hospital 81 102	urgences pédiatriques
+T5	PHEN 114 123	grossesse
+T6	PROC 129 157	corticostéroïdes injectables
+T7	PROC 191 205	séance urgente
+T8	LIVB 214 221	patient
+T9	DISO 226 260	tuméfaction abdominale douloureuse
+T10	MEAS 272 287	progressivement
+T11	MEAS 304 312	indolore
+T12	MEAS 322 326	5 cm
+T13	Concept_Idea 330 339	petit axe
+T14	ANAT 367 389	membre supérieur droit
+T15	Localization 384 389	droit
+T16	MEAS 398 412	40 centimètres
+T17	Concept_Idea 416 425	grand axe
+T18	MEAS 440 451	douloureuse
+T19	DISO 514 546	contage thoraco-abdomino-ovarien
+T20	ANAT 522 546	thoraco-abdomino-ovarien
+T21	DISO 557 577	symptômes trophiques
+T22	PROC 592 607	examen clinique
+T23	LIVB 612 618	enfant
+T24	DISO 625 635	tachycarde
+T26	TEMP 661 671	par minute
+T27	MEAS 677 684	100 bpm
+T28	TEMP 696 707	par minutes
+T29	MEAS 713 720	110 BPM

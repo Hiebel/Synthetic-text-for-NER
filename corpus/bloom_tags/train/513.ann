@@ -1,0 +1,68 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 39 50	antécédents
+T3	MEAS 51 63	particuliers
+T4	PROC 65 69	reçu
+T5	Hospital 74 82	urgences
+T6	DISO 92 111	douleurs pelviennes
+T7	ANAT 101 111	pelviennes
+T8	DISO 128 148	diarrhée liquidienne
+T9	TEMP 158 175	depuis deux jours
+T10	PROC 179 193	interrogatoire
+T11	DISO 215 235	hypoglycémies aiguës
+T12	CHEM 257 265	diazépam
+T13	LIVB 267 269	Il
+T14	PROC 292 322	échographie abdomino-pelvienne
+T15	ANAT 304 322	abdomino-pelvienne
+T16	DISO 338 377	carcinome pléomorphe kystique du utérus
+T17	ANAT 371 377	utérus
+T18	PROC 382 401	bilan préopératoire
+T19	PROC 418 437	anesthésie générale
+T20	PROC 447 650	mise en place d’une sonde œsophagienne transoesophagienne péristaltique au niveau de l'oreillette droite avec mise en place d’un attouchement recto-sigmoïdien scannographique type Patey biplan systolique
+T21	DEVI 467 518	sonde œsophagienne transoesophagienne péristaltique
+T23	ANAT 534 551	oreillette droite
+T24	Localization 545 551	droite
+T27	PROC 666 694	tomodensitométrie thoracique
+T28	ANAT 684 694	thoracique
+T29	PHEN 731 749	suites opératoires
+T30	MEAS 758 766	normales
+T31	PROC 770 955	ponction liquide pleuro-encéphalique pariétale inféro-médio-latérale médiastinale antihipophysaire intrarachidienne cervicale intra-thoracique craniocérébrale superficielle exploratrice
+T33	PROC 969 986	biopsie sélective
+T34	LIVB 1013 1020	patient
+T35	DISO 1062 1080	choc hypothermique
+T36	DISO 1176 1207	toux érythémateuse prurigineuse
+T37	MEAS 1219 1226	40 g/dl
+T38	DISO 1242 1259	dyspnée sifflante
+T39	MEAS 1274 1285	progressive
+T40	MEAS 1300 1307	modérée
+T41	MEAS 1320 1329	récentuée
+T42	DISO 1372 1395	symptômes neurologiques
+T43	MEAS 1405 1427	profondément sensibles
+T44	DISO 1481 1501	syndrome d’épilepsie
+T45	DISO 1509 1528	pleurésie purulente
+T46	DISO 1535 1557	traumatisme pulmonaire
+T47	ANAT 1547 1557	pulmonaire
+T48	DISO 1563 1590	hyperparathyroïdie primaire
+T49	DISO 1626 1657	troubles sensitivo-vestibulaire
+T50	DISO 1667 1692	atteinte sensitivomotrice
+T51	PROC 1727 1746	bilan préopératoire
+T52	DISO 1764 1780	vertiges visuels
+T53	DISO 1787 1827	rétrécissement ventriculo-interstellaire
+T54	ANAT 1802 1827	ventriculo-interstellaire
+T55	DISO 1846 1868	prolifération tumorale
+T56	MEAS 1878 1890	plusieurs cm
+T57	ANAT 1912 1930	cavités cardiaques
+T58	ANAT 1959 1974	sinus caverneux
+T59	ANAT 1996 2024	artères coronaires latérales
+T60	ANAT 2039 2066	organes vasculo-circulaires
+T61	ANAT 2363 2380	noyau atrophiques
+T62	Concept_Idea 2413 2420	tailles
+T63	Concept_Idea 2436 2447	consistance
+T64	PROC 2538 2558	examen macroscopique
+T65	DISO 2577 2601	foyer pathologique malin
+T66	DISO 2900 2922	hypotension artérielle
+T67	ANAT 2912 2922	artérielle
+T68	DISO 2930 2964	épanchement liquidien péritracheal
+T69	ANAT 2942 2964	liquidien péritracheal
+T70	LIVB 2966 2970	nous
+T71	DISO 2989 3024	kystis hydatique du sinus caverneux
+T72	ANAT 3009 3024	sinus caverneux

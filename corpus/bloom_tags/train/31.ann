@@ -1,0 +1,33 @@
+T1	LIVB 16 24	patiente
+T2	PROC 51 56	reçue
+T3	Hospital 61 69	urgences
+T4	DISO 79 96	céphalées fébrile
+T5	DISO 131 160	syndrome d’épistaxis purulent
+T6	ANAT 174 184	sein droit
+T7	Localization 179 184	droit
+T8	MEAS 198 206	brunâtre
+T9	CHEM 234 265	amoxicilline-acide clavulanique
+T10	PROC 271 315	tomodensitométrie thoraco-abdomino-pelvienne
+T11	ANAT 289 315	thoraco-abdomino-pelvienne
+T12	PROC 317 320	TDM
+T13	DISO 338 418	parathyroïdie primaire hypoparathyroïdienne nodulaire hypo échogène vascularisée
+T14	MEAS 428 433	46 mm
+T15	Concept_Idea 437 446	grand axe
+T16	ANAT 465 497	sinus caverneux péripancréatique
+T17	PHEN 519 540	grossesse gélatineuse
+T18	DISO 556 595	adénopathie axillaire supérieure droite
+T19	ANAT 568 595	axillaire supérieure droite
+T20	Localization 589 595	droite
+T21	Concept_Idea 598 604	aspect
+T22	MEAS 605 613	homogène
+T23	PROC 645 654	injection
+T24	CHEM 658 683	produit de contraste iodé
+T25	DISO 706 745	myxométacromégalie sécrétrante kystique
+T26	DISO 765 806	hypervascularisation ostéo-interstitielle
+T27	DISO 845 875	pneumo-carcinoses compressives
+T28	PROC 921 954	imagerie par résonance magnétique
+T29	ANAT 961 970	pelvienne
+T30	DISO 1007 1048	épidurite lithiasique rétinolymphocytaire
+T31	DISO 1050 1071	hypophyso-hypotonique
+T32	Concept_Idea 1275 1284	grand axe
+T33	PROC 1345 1408	complément immunohistochimique d'immuno-récepteurs locorégional

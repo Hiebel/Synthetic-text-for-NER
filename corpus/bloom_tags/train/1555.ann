@@ -1,0 +1,25 @@
+T1	LIVB 15 22	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 79 89	consultait
+T5	Hospital 94 102	urgences
+T6	DISO 112 138	douleurs pelviennes aiguës
+T7	ANAT 121 131	pelviennes
+T8	ANAT 152 158	utérus
+T9	PROC 162 177	examen clinique
+T10	PROC 182 191	admission
+T11	LIVB 204 211	patient
+T12	MEAS 215 218	bon
+T13	Concept_Idea 219 231	état général
+T14	PHEN 241 259	tension artérielle
+T15	ANAT 249 259	artérielle
+T16	MEAS 262 273	120/70 mmhg
+T17	CHEM 278 291	noradrénaline
+T18	PROC 313 343	échographie abdomino-pelvienne
+T19	ANAT 325 343	abdomino-pelvienne
+T20	DISO 386 446	masse hypo échogène hypodense latéro-utérine séreux kystique
+T21	MEAS 456 461	46 cm
+T22	Concept_Idea 465 474	grand axe
+T23	ANAT 491 503	ovaire droit
+T24	Localization 498 503	droit
+T25	ANAT 521 542	cloisons intestinales

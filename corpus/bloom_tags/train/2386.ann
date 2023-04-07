@@ -1,0 +1,78 @@
+T1	LIVB 28 35	patient
+T2	PROC 72 96	chimiothérapie adjuvante
+T3	CHEM 122 134	oxaliplatine
+T4	CHEM 137 147	cisplatine
+T5	CHEM 149 162	dexaméthasone
+T6	DISO 240 262	prolifération tumorale
+T7	PROC 281 306	prélèvements chirurgicaux
+T8	LIVB 329 336	patient
+T9	PROC 357 381	étude anatomopatholgique
+T10	PROC 387 407	immuno-histochimique
+T11	DISO 411 443	processus carcinomateuse maligne
+T12	DISO 848 903	métastase érythémato-froide angiosarcomateuse purulente
+T13	ANAT 1177 1193	corps lymphoïdes
+T14	PROC 1289 1302	cytochimiques
+T15	DISO 1378 1402	maladie phéochromocytome
+T16	LIVB 1532 1536	nous
+T17	PROC 1558 1595	curage abdomino-pelvien transfixiante
+T18	ANAT 1565 1595	abdomino-pelvien transfixiante
+T19	PROC 1606 1626	enquête diagnostique
+T20	PROC 1635 1661	explorations exploratoires
+T21	MEAS 1679 1705	difficilement appréciables
+T22	MEAS 2184 2193	favorable
+T23	CHEM 2224 2242	méthylprednisolone
+T24	DOSE 2244 2251	3 mg/kg
+T25	TEMP 2251 2256	/jour
+T26	CHEM 2259 2272	dexaméthasone
+T27	DOSE 2274 2280	100 mg
+T28	TEMP 2280 2282	/j
+T29	CHEM 2285 2298	sulfasalazine
+T30	DOSE 2300 2306	200 mg
+T31	TEMP 2306 2308	/j
+T32	CHEM 2311 2321	ethambutol
+T33	DOSE 2323 2329	400 mg
+T34	TEMP 2329 2331	/j
+T35	CHEM 2334 2344	isoniazide
+T36	DOSE 2346 2352	750 mg
+T37	TEMP 2352 2354	/j
+T38	CHEM 2357 2369	Pyrazinamide
+T39	DOSE 2371 2377	150 mg
+T40	TEMP 2377 2379	/j
+T41	CHEM 2382 2396	Ciprofloxacine
+T42	DOSE 2398 2401	5 g
+T43	TEMP 2401 2403	/j
+T44	CHEM 2406 2417	Gentamicine
+T45	DOSE 2419 2425	800 mg
+T46	TEMP 2425 2427	/j
+T47	CHEM 2430 2441	Cyclosérine
+T48	DOSE 2443 2449	600 mg
+T49	TEMP 2449 2451	/j
+T50	CHEM 2454 2465	Ethionamide
+T51	DOSE 2467 2473	500 mg
+T52	TEMP 2473 2475	/j
+T53	CHEM 2478 2492	Chlorpromazine
+T54	DOSE 2494 2499	25 mg
+T55	TEMP 2499 2501	/j
+T56	CHEM 2504 2517	Phénobarbital
+T57	DOSE 2519 2524	20 mg
+T58	TEMP 2524 2526	/j
+T59	CHEM 2529 2540	Nicardipril
+T60	DOSE 2542 2548	120 mg
+T61	TEMP 2548 2550	/j
+T62	CHEM 2553 2562	Captopril
+T63	DOSE 2564 2569	30 mg
+T64	TEMP 2569 2571	/j
+T65	CHEM 2574 2585	Enoxaparine
+T66	DOSE 2587 2592	80 mg
+T67	TEMP 2592 2594	/j
+T68	CHEM 2597 2610	Bromocriptine
+T69	DOSE 2612 2617	50 mg
+T71	CHEM 2622 2641	Valproate de sodium
+T72	DOSE 2643 2648	15 mg
+T73	TEMP 2648 2650	/j
+T74	CHEM 2653 2664	Propranolol
+T75	DOSE 2666 2671	60 mg
+T76	TEMP 2671 2673	/j
+T77	CHEM 2676 2686	Sufentanil
+T78	DOSE 2688 2696	10 µg/kg
+T79	TEMP 2696 2704	/semaine

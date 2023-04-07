@@ -1,0 +1,45 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 38 44	11 ans
+T3	DISO 65 86	détresse respiratoire
+T4	PHEN 74 86	respiratoire
+T5	PROC 105 120	hospitalisation
+T6	Hospital 124 155	service d'urgences pédiatriques
+T7	Concept_Idea 164 169	poids
+T8	MEAS 173 177	17kg
+T9	PROC 181 196	examen clinique
+T10	DISO 208 214	sueurs
+T11	MEAS 215 223	profuses
+T12	TEMP 233 249	depuis 24 heures
+T13	DISO 265 281	syndrome fébrile
+T14	PROC 286 315	pression surrénalienne pulsée
+T15	ANAT 295 315	surrénalienne pulsée
+T16	MEAS 332 347	120/ 80 mmH 2 O
+T17	Localization 371 386	au premier plan
+T18	MEAS 392 406	100/60mm H 2 O
+T19	PROC 434 458	scanner abdomino-pelvien
+T20	ANAT 442 458	abdomino-pelvien
+T23	Localization 541 551	bilatérale
+T24	PROC 567 576	injection
+T26	DOSE 603 610	injecté
+T27	MODE 615 620	bolus
+T28	DOSE 624 629	10 mg
+T29	CHEM 633 653	produit de contraste
+T30	PROC 668 690	traitement chirurgical
+T31	PROC 707 762	anastomose artério-veineuse transoesophagienne prolabée
+T33	PROC 763 766	AVT
+T34	PROC 773 794	échographie pelvienne
+T35	ANAT 785 794	pelvienne
+T36	DISO 823 837	organomégalies
+T37	DISO 848 885	adénopathies pulmonarielles biliaires
+T38	ANAT 861 885	pulmonarielles biliaires
+T39	MEAS 910 920	12 / 11 cm
+T40	MEAS 924 932	13/10 cm
+T41	PROC 946 968	TDM abdomino-pelvienne
+T42	ANAT 950 968	abdomino-pelvienne
+T43	LIVB 1005 1013	patiente
+T44	DISO 1041 1067	défense utérine abdominale
+T45	ANAT 1049 1067	utérine abdominale
+T46	MEAS 1077 1084	massive
+T47	PROC 1107 1135	radio-chirurgie exploratrice
+T48	DISO 1153 1176	paragangliome nodulaire
+T49	DISO 1181 1225	épithélio-gigantocôlonidermie polymyomateuse

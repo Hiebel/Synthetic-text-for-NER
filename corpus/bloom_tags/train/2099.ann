@@ -1,0 +1,30 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	6 ans
+T3	Concept_Idea 37 48	antécédents
+T4	MEAS 49 57	notables
+T5	PROC 59 63	reçu
+T6	Hospital 68 76	urgences
+T7	DISO 86 97	tuméfaction
+T8	ANAT 101 112	coude droit
+T9	Localization 107 112	droit
+T10	TEMP 122 135	depuis 6 mois
+T11	MEAS 150 165	progressivement
+T12	Concept_Idea 169 175	volume
+T13	PROC 179 194	examen clinique
+T14	PROC 199 208	admission
+T15	DISO 224 322	épaississement des pavillons auriculo-cervico-thoraciques basithoraciques congénital hypertrophiés
+T17	Concept_Idea 332 338	aspect
+T18	MEAS 339 348	polylobée
+T19	MEAS 359 363	2 cm
+T20	Concept_Idea 367 376	grand axe
+T21	ANAT 390 410	corps musculo-cutané
+T22	DISO 434 460	lésion arrondie nécrotique
+T23	DEVI 487 497	bandelette
+T24	PROC 501 532	échographie abdomino- pelvienne
+T25	ANAT 513 532	abdomino- pelvienne
+T26	DISO 559 607	tumeur solide tissulaire hypo échogène hypodense
+T27	ANAT 624 665	muscles paravertébraux latéro péritonéaux
+T28	ANAT 684 709	parenchyme thyroïdiocæcal
+T29	LIVB 736 746	nouveau-né
+T30	DISO 761 769	kystique
+T31	DISO 773 786	hydatidiforme

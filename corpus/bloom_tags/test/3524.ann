@@ -1,0 +1,52 @@
+T1	LIVB 28 35	patient
+T2	PROC 72 95	radiothérapie adjuvante
+T3	ANAT 99 121	membre supérieur droit
+T4	Localization 116 121	droit
+T5	ANAT 138 196	muqueuse paravertébro-métacarpienne métacarpo-phalangienne
+T6	DISO 221 258	pneumo-scapondromatopathie purpurique
+T7	TEMP 268 281	depuis 6 mois
+T8	DISO 296 310	amaigrissement
+T9	MEAS 321 325	3 kg
+T10	CHEM 331 349	méthylprednisolone
+T11	DOSE 351 360	0,5 mg/kg
+T12	TEMP 360 362	/j
+T13	PROC 367 392	intervention chirurgicale
+T14	DEVI 444 456	cathérisants
+T15	PROC 554 582	injection intradermo-cutanée
+T16	PROC 589 607	chirurgie radicale
+T17	LIVB 628 636	patients
+T18	PROC 667 686	prémédication orale
+T19	PROC 761 804	curage séro-anticorps antithyroglobulinique
+T21	PROC 829 868	traitement immunocorticoïde substitutif
+T22	CHEM 874 887	bêtaméthasone
+T23	DISO 1038 1064	épanchement parathyroïdien
+T24	ANAT 1050 1064	parathyroïdien
+T25	MEAS 1208 1212	rare
+T26	ANAT 1287 1302	troncs crâniens
+T27	ANAT 1330 1358	cordons cutanés superficiels
+T28	MEAS 1413 1421	brunâtre
+T29	MEAS 1431 1443	environ 5 cm
+T30	MEAS 1446 1450	4 cm
+T31	PROC 1597 1615	étude cytochimique
+T32	Concept_Idea 1698 1704	taille
+T33	DISO 1786 1792	tumeur
+T34	TEMP 1805 1809	2ans
+T35	MEAS 1849 1860	progressive
+T36	MEAS 1870 1881	plus grande
+T37	MEAS 1898 1920	grossièrement arrondie
+T38	MEAS 1932 1941	lentement
+T39	Concept_Idea 1945 1954	grand axe
+T40	PROC 2171 2201	échographie abdomino-pelvienne
+T41	ANAT 2183 2201	abdomino-pelvienne
+T42	DISO 2226 2273	masse hypodense hypointense tissulaire kystique
+T43	MEAS 2332 2338	1250 g
+T44	MEAS 2342 2348	1475 g
+T45	DISO 2469 2504	kystarome polyradiculé hypertrophié
+T46	LIVB 2511 2513	Il
+T47	PROC 2537 2575	radiothérapie palliative locorégionale
+T48	ANAT 2666 2735	colonne vertébro-basilaire transfixiante thoracique scapophthoracique
+T49	Concept_Idea 2763 2774	consistance
+T50	PROC 2805 2830	intervention chirurgicale
+T51	PROC 2835 2854	bilan immunologique
+T52	MEAS 2947 2955	positifs
+T53	LIVB 2970 2978	patients

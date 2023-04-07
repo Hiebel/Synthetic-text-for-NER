@@ -1,0 +1,128 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 71	antécédents pathologiques
+T3	MEAS 72 84	particuliers
+T4	PROC 86 92	Admise
+T5	Hospital 97 118	urgences pédiatriques
+T6	DISO 128 159	douleurs abdominales chroniques
+T7	ANAT 137 148	abdominales
+T8	TEMP 169 187	depuis une semaine
+T9	MEAS 202 217	progressivement
+T10	Concept_Idea 221 227	volume
+T11	PHEN 244 253	grossesse
+T12	PROC 268 283	examen clinique
+T13	LIVB 296 306	nouveau-né
+T14	MEAS 310 317	mauvais
+T15	Concept_Idea 318 330	état général
+T16	DISO 344 350	signes
+T17	PROC 366 375	admission
+T18	LIVB 379 389	nouveau-né
+T19	DISO 396 403	fébrile
+T20	MEAS 406 412	38,5°C
+T21	DISO 445 466	syndrome hémorragique
+T22	DISO 473 494	symptôme neurologique
+T23	DISO 504 518	déficit moteur
+T24	MEAS 566 578	correctement
+T25	PROC 596 616	séance préopératoire
+T26	CHEM 625 638	antibiotiques
+T27	CHEM 649 680	amoxicilline acide clavulanique
+T28	CHEM 682 708	pénicilline antibacillaire
+T29	CHEM 710 726	corticostéroïdes
+T30	CHEM 728 740	pyrazinamide
+T31	CHEM 742 752	aminosides
+T32	CHEM 754 765	gentamycine
+T33	CHEM 767 780	médicamenteux
+T34	CHEM 782 796	sulfaméthasone
+T35	CHEM 798 812	bêtalactamines
+T36	CHEM 814 831	acide salicylique
+T37	CHEM 833 844	monoclonale
+T38	CHEM 846 859	phénobarbital
+T39	CHEM 861 871	carbamates
+T40	CHEM 873 884	rifampicine
+T41	CHEM 886 896	ethambutol
+T42	CHEM 898 913	chloramphénicol
+T43	CHEM 915 932	xylate de potasse
+T44	CHEM 934 944	propanolol
+T45	CHEM 946 956	furosémide
+T46	CHEM 958 977	étomidate de sodium
+T47	CHEM 979 997	nitrate de calcium
+T48	CHEM 999 1012	fluorouracile
+T49	CHEM 1014 1025	diazépamole
+T50	CHEM 1027 1036	potassium
+T51	CHEM 1038 1051	dexaméthasone
+T52	CHEM 1053 1063	isoniazide
+T53	CHEM 1065 1083	hypertriglycérides
+T54	CHEM 1085 1096	paracétamol
+T55	CHEM 1098 1110	neuroleptine
+T56	CHEM 1112 1140	hydroxychlorure de magnésium
+T57	CHEM 1142 1153	tétrazidime
+T58	CHEM 1155 1170	céphalosporines
+T59	CHEM 1172 1180	morphine
+T60	CHEM 1182 1205	méthotrexate de carbone
+T61	CHEM 1207 1220	polyprotérols
+T62	CHEM 1222 1248	organochimiothérapeutiques
+T63	CHEM 1250 1262	méthalothane
+T64	CHEM 1264 1274	antalgique
+T65	CHEM 1276 1294	immunosuppresseurs
+T66	CHEM 1296 1312	anticonvulsivant
+T67	CHEM 1314 1321	statine
+T68	CHEM 1323 1334	nicardipine
+T69	CHEM 1336 1354	héparine acrylique
+T70	CHEM 1356 1368	prédnisolone
+T71	CHEM 1370 1388	aspirine citronnée
+T72	CHEM 1390 1399	œstradiol
+T73	CHEM 1401 1410	amine B12
+T74	CHEM 1412 1420	carotène
+T75	CHEM 1422 1431	imipenème
+T76	CHEM 1433 1447	anticoagulants
+T77	CHEM 1449 1459	adrénaline
+T78	CHEM 1461 1474	fermentequine
+T79	CHEM 1476 1487	ciprofurant
+T80	CHEM 1489 1500	myorelaxant
+T81	CHEM 1502 1512	émollients
+T82	CHEM 1514 1525	vitamine D1
+T83	CHEM 1527 1539	arythroprime
+T84	CHEM 1541 1555	hydrocortisone
+T85	CHEM 1557 1574	éphédrine sodique
+T86	CHEM 1576 1584	calcium®
+T87	CHEM 1586 1597	ceftriaxone
+T88	CHEM 1599 1613	malakoffiolide
+T89	CHEM 1615 1632	cyclophosphamides
+T90	CHEM 1634 1647	estrogéniques
+T91	CHEM 1649 1667	alpha progestérone
+T92	CHEM 1669 1682	ritracyclines
+T93	CHEM 1684 1697	cotrimoxazole
+T94	CHEM 1699 1725	metformine aldéhyde glycol
+T95	CHEM 1727 1739	plasma frais
+T96	CHEM 1741 1762	cyperméthrine diurèse
+T97	CHEM 1764 1784	pastazidime agoniste
+T98	CHEM 1786 1806	gigantoformifentanil
+T99	CHEM 1808 1820	acetaminoïde
+T101	CHEM 1830 1854	tertidine carbamydatique
+T102	CHEM 1856 1867	fluconazole
+T103	CHEM 1869 1881	antibiotique
+T104	PROC 1886 1895	chirurgie
+T105	ANAT 1946 1974	nerf laryngé inférieur droit
+T106	Localization 1969 1974	droit
+T107	PROC 2001 2025	brochage scannographique
+T108	MEAS 2074 2078	deux
+T109	ANAT 2079 2099	sillons sous cutanés
+T110	DISO 2147 2172	adénocarcinome pléomorphe
+T111	LIVB 2188 2195	patient
+T112	PROC 2214 2238	laparotomie exploratrice
+T113	PROC 2267 2355	néphrectomie totale endovaginale transoeso-nasale intraveineuse peropératoire percutanée
+T114	Concept_Idea 2374 2395	cordon infundibulaire
+T115	MEAS 2408 2413	20 cm
+T116	DISO 2426 2447	signes inflammatoires
+T117	DISO 2451 2474	anomalies histologiques
+T118	MEAS 2521 2528	simples
+T119	TEMP 2538 2548	24/08/2017
+T120	PHEN 2578 2587	grossesse
+T121	PROC 2618 2633	prise en charge
+T122	LIVB 2644 2650	enfant
+T123	TEMP 2658 2665	16 mois
+T124	DISO 2689 2708	accident de travail
+T126	LIVB 2969 2974	homme
+T127	TEMP 3020 3041	cinq jours auparavant
+T128	DEVI 3047 3057	voiturette
+T129	TEMP 3066 3073	18 mois
+T130	LIVB 3092 3094	sa

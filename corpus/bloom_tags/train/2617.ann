@@ -1,0 +1,25 @@
+T1	LIVB 19 26	patient
+T2	DISO 56 70	AVC ischémique
+T3	PROC 72 83	hospitalisé
+T4	Hospital 87 94	urgence
+T5	TEMP 98 108	24/08/2011
+T6	DISO 118 143	douleur thoracique aiguée
+T7	ANAT 126 136	thoracique
+T8	MEAS 158 164	rapide
+T9	TEMP 174 190	depuis 48 heures
+T10	PROC 194 209	examen clinique
+T11	LIVB 226 233	patient
+T12	Concept_Idea 258 262	plan
+T13	PHEN 280 292	respiratoire
+T14	PROC 302 331	auscultation pleuro-trachéale
+T15	ANAT 315 331	pleuro-trachéale
+T16	DISO 370 387	dyspnée sifflante
+T17	PROC 392 408	bilan biologique
+T18	DISO 420 433	particularité
+T19	PROC 435 454	protéine-C Réactive
+T20	MEAS 456 462	1 mg/l
+T21	PROC 464 476	ferritinémie
+T22	MEAS 479 497	10 fois la normale
+T24	ANAT 512 520	lombaire
+T25	DISO 546 576	polynucléaires neutrophiliques
+T26	ANAT 586 594	crachats

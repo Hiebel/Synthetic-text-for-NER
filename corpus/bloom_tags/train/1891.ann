@@ -1,0 +1,33 @@
+T1	LIVB 16 21	femme
+T2	DISO 58 118	carcinome épidermoïde utéro-nodulaire kystique du col utérin
+T4	ANAT 108 118	col utérin
+T5	PROC 139 163	radiothérapie palliative
+T6	ANAT 189 226	muqueuse cervico-vaginale péritonéale
+T7	Concept_Idea 261 285	plan immunohistochimique
+T8	PROC 314 352	réflexes ostéo-tendineux intracanalaux
+T9	ANAT 323 352	ostéo-tendineux intracanalaux
+T10	DEVI 358 382	sonde transoesophagienne
+T12	DISO 476 482	fièvre
+T13	MEAS 494 499	40° C
+T14	TEMP 509 522	depuis 6 mois
+T15	PHEN 558 1113	état général ainsi qu’une prise de poids non chiffrée estimée à 5 kg devenues difficilement appréciables faisant suspecter l’existence d’un neuro-endocrine carcinome pour cette patiente chez qui aucune autre étiologie n’a été mise en évidence notamment pas de traumatisme abdominal ou autres localisations néoplasiques associées..
+Une tomodensitométrie scanno-guidée faite après anesthésie générale avaient montré une masse tissulaire hétérogène latero-rachidienne angulo-isthmique rétro-mésentérielle homolatérale basithoracique lobulée supérieure droite
+T16	DISO 584 598	prise de poids
+T17	MEAS 622 626	5 kg
+T18	MEAS 636 662	difficilement appréciables
+T19	DISO 698 723	neuro-endocrine carcinome
+T20	LIVB 735 743	patiente
+T21	DISO 818 839	traumatisme abdominal
+T22	ANAT 830 839	abdominal
+T23	DISO 850 876	localisations néoplasiques
+T24	PROC 893 924	tomodensitométrie scanno-guidée
+T25	PROC 937 956	anesthésie générale
+T27	Localization 1060 1087	homolatérale basithoracique
+T28	Localization 1107 1113	droite
+T29	MEAS 1125 1140	progressivement
+T30	Concept_Idea 1144 1150	taille
+T31	MEAS 1162 1167	18 mm
+T32	MEAS 1176 1190	28 millimètres
+T33	ANAT 1212 1228	sinusi caverneux
+T34	ANAT 1242 1268	ventricule cave postérieur
+T35	Localization 1258 1268	postérieur

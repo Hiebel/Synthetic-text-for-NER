@@ -1,0 +1,33 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	PROC 42 47	admis
+T4	Hospital 52 73	urgences pédiatriques
+T5	DISO 92 126	atteinte du déficit moteur globale
+T6	PHEN 104 126	déficit moteur globale
+T7	TEMP 136 149	depuis 2 mois
+T8	PROC 153 168	examen clinique
+T9	PROC 173 182	admission
+T10	LIVB 193 199	enfant
+T11	Concept_Idea 224 241	plan neurologique
+T12	DISO 250 266	troubles visuels
+T13	PROC 280 310	bilan biologique préopératoire
+T14	PROC 312 339	numération formule sanguine
+T15	PROC 341 357	glycémie glyquée
+T16	PROC 359 378	protéine-C réactive
+T17	PROC 380 407	plaquettaires plaquettaires
+T18	DISO 426 442	hyperleucocytose
+T19	MEAS 445 463	11000 éléments/mm3
+T20	DISO 539 556	hyperferritinémie
+T21	DISO 572 600	hyperparathyroïdie nodulaire
+T22	MEAS 612 618	1 g/dl
+T23	DOSE 652 658	2mg/kg
+T24	CHEM 662 672	furosémide
+T25	MODE 677 696	voie intra veineuse
+T26	LIVB 1063 1071	patiente
+T27	CHEM 1147 1164	corticoïdes oraux
+T28	PROC 1170 1213	traitement probabiliste d'immunosuppresseur
+T29	PROC 1354 1379	scanner abdomino-cervical
+T30	ANAT 1362 1379	abdomino-cervical
+T31	DISO 1396 1501	épanchement pleurionnaire liquidien bilieber-arémo-splénique para-vésiculaire apicale bilatéral supérieur
+T33	Localization 1482 1501	bilatéral supérieur
+T34	Localization 1564 1567	sus

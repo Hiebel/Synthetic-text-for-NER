@@ -1,0 +1,29 @@
+T1	PROC 2 24	radiographie du thorax
+T2	ANAT 18 24	thorax
+T3	DISO 51 66	pneumopéritoine
+T4	PROC 72 96	laparotomie exploratrice
+T5	Localization 134 140	droite
+T6	PROC 144 169	étude anatomopathologique
+T7	Concept_Idea 188 208	aspect morphologique
+T8	DISO 218 224	lésion
+T9	MEAS 234 240	petite
+T10	DISO 241 255	tumeur maligne
+T11	DISO 271 284	particularité
+T12	MEAS 297 301	5 cm
+T13	Concept_Idea 305 314	grand axe
+T14	PROC 339 357	traitement curatif
+T15	PROC 372 404	antibiothérapies antibacillaires
+T16	LIVB 418 425	malades
+T17	CHEM 427 437	aminosides
+T18	CHEM 440 453	amoxicillines
+T19	MEAS 489 498	favorable
+T20	DISO 518 548	récidive tumorale métastatique
+T21	ANAT 562 578	colon transverse
+T22	ANAT 593 619	bronches cervicale droites
+T23	Localization 612 619	droites
+T24	ANAT 632 645	serein gauche
+T25	Localization 639 645	gauche
+T26	PHEN 650 659	grossesse
+T27	PROC 705 726	surveillance clinique
+T28	DISO 764 809	complications neuropsychiatriques secondaires
+T29	TEMP 827 835	six mois

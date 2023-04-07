@@ -1,0 +1,25 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	Concept_Idea 41 66	antécédents pathologiques
+T4	MEAS 67 79	particuliers
+T5	PROC 81 86	admis
+T6	Hospital 91 99	urgences
+T7	DISO 109 146	tuméfaction du membre inférieur droit
+T8	ANAT 124 146	membre inférieur droit
+T9	Localization 141 146	droit
+T10	MEAS 158 173	progressivement
+T11	Concept_Idea 177 183	volume
+T12	TEMP 193 206	depuis 6 mois
+T13	PROC 210 225	examen clinique
+T14	DISO 241 260	saignement purulent
+T15	PHEN 266 275	recherche
+T16	CHEM 278 294	organophosphorés
+T17	ANAT 321 340	tissu conjonctivale
+T18	ANAT 348 386	aires ganglionnaires cervico-vaginales
+T19	PROC 391 399	biologie
+T20	PROC 422 441	enzymes musculaires
+T21	ANAT 430 441	musculaires
+T22	PROC 443 446	LDH
+T23	MEAS 448 475	supérieures à 10 000 UI/mm3
+T24	PROC 489 505	hyperleucocytose
+T25	MEAS 538 563	12800 éléments blancs/mm3

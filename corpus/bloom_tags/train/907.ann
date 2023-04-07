@@ -1,0 +1,46 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 75	hospitalisée
+T3	Hospital 80 88	urgences
+T4	DISO 100 138	syndrome d’épanchement intrapéritonéal
+T5	ANAT 123 138	intrapéritonéal
+T6	TEMP 148 163	depuis 10 jours
+T7	DISO 180 196	signes cliniques
+T8	DISO 223 244	détresse respiratoire
+T9	PHEN 232 244	respiratoire
+T10	PROC 250 259	admission
+T11	Hospital 263 278	bloc opératoire
+T12	LIVB 280 284	elle
+T13	DISO 300 335	épigastralgies aiguës constrictives
+T14	DISO 351 378	hémoperitoineémie purulente
+T15	MEAS 394 402	totalité
+T16	ANAT 406 414	pancréas
+T17	DISO 428 444	dyspnée d'effort
+T18	MEAS 459 470	progressive
+T19	LIVB 472 475	Son
+T20	Concept_Idea 476 481	poids
+T21	MEAS 491 496	85 kg
+T22	Concept_Idea 506 512	taille
+T23	MEAS 516 520	1m60
+T24	MEAS 530 535	90 cm
+T25	Concept_Idea 539 548	grand axe
+T26	MEAS 553 557	79cm
+T27	Concept_Idea 561 570	petit axe
+T28	PROC 593 615	cysto-scanner digestif
+T29	DISO 629 683	lithiase hypertrophiée hydroscopique hypo-vascularisée
+T30	DISO 695 740	infiltrat ganglionnaire pancréatique infiltré
+T31	ANAT 705 740	ganglionnaire pancréatique infiltré
+T32	DISO 758 791	empyème parenchymateux tissulaire
+T33	ANAT 766 791	parenchymateux tissulaire
+T34	ANAT 815 842	parties molles intestinales
+T35	ANAT 861 876	rectum hyoïdien
+T36	LIVB 899 907	patiente
+T37	DISO 912 936	insuffisance intestinale
+T38	ANAT 925 936	intestinale
+T39	DISO 951 981	atteinte buccolingulo-laryngée
+T40	ANAT 960 981	buccolingulo-laryngée
+T41	DISO 1010 1040	symptomatologie psychiatriques
+T42	DISO 1124 1162	syndrome d'épanchement intrapéritonéal
+T43	ANAT 1147 1162	intrapéritonéal
+T44	DISO 1192 1215	malformations associées
+T45	DISO 1230 1262	thrombose veineuse érythémateuse
+T46	ANAT 1240 1262	veineuse érythémateuse

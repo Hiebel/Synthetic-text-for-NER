@@ -1,0 +1,27 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	6 ans
+T3	DISO 45 64	traumatisme crânien
+T4	PROC 83 98	hospitalisation
+T5	Hospital 103 112	surgences
+T6	PROC 118 136	traitement curatif
+T7	CHEM 149 162	bêtaméthasone
+T8	CHEM 164 174	furosémide
+T9	CHEM 176 187	propranolol
+T10	CHEM 189 200	nicardipril
+T11	CHEM 202 213	hydroxyzine
+T12	CHEM 215 228	noradrénaline
+T13	CHEM 230 249	méthylhydrocortisol
+T14	DISO 302 332	déficit moteur sensitivomoteur
+T15	MEAS 342 348	brutal
+T16	DISO 375 383	aryténie
+T17	TEMP 393 409	depuis 48 heures
+T18	LIVB 416 418	sa
+T19	PROC 419 431	consultation
+T20	Concept_Idea 467 479	état général
+T21	PROC 584 608	chirurgie prophylactique
+T22	MEAS 635 643	anormale
+T23	PHEN 650 685	accouchement gynécologique maternel
+T24	TEMP 738 745	12 mois
+T25	DISO 795 835	malformations congénitales neurologiques
+T26	PROC 998 1019	psychiatrie prénatale
+T27	LIVB 1044 1050	enfant

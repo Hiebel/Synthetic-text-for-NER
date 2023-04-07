@@ -1,0 +1,25 @@
+T1	LIVB 20 28	patiente
+T2	PROC 45 51	admise
+T3	Hospital 56 64	urgences
+T4	DISO 74 104	dilatation des voies biliaires
+T5	ANAT 89 104	voies biliaires
+T6	TEMP 114 127	depuis 6 mois
+T7	PROC 131 156	intervention chirurgicale
+T8	Concept_Idea 176 179	âge
+T9	TEMP 183 187	1 an
+T10	PROC 193 216	cholécystectomie totale
+T11	PROC 222 246	curage hépatico-duodénal
+T12	ANAT 229 246	hépatico-duodénal
+T13	DISO 263 283	syndrome néphrotique
+T14	PROC 287 302	examen clinique
+T15	LIVB 320 328	patiente
+T16	MEAS 332 335	bon
+T17	PHEN 336 362	développement psychomoteur
+T18	ANAT 376 398	membre supérieur droit
+T19	Localization 393 398	droit
+T20	Concept_Idea 421 427	taille
+T21	MEAS 438 441	4cm
+T22	Concept_Idea 448 454	aspect
+T23	MEAS 455 463	homogène
+T24	PROC 479 501	examen ophtalmologique
+T25	DISO 527 536	anomalies

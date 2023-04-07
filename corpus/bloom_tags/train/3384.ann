@@ -1,0 +1,77 @@
+T1	LIVB 28 35	patient
+T2	DISO 56 81	antécédents pathologiques
+T3	MEAS 82 90	notables
+T4	PROC 92 97	admis
+T5	Hospital 101 108	urgence
+T6	Hospital 113 138	urgences ophtalmologiques
+T7	DISO 148 177	douleurs épigastriques aiguës
+T8	ANAT 157 170	épigastriques
+T9	PROC 181 196	examen clinique
+T10	PROC 201 210	admission
+T11	LIVB 223 230	patient
+T12	PHEN 277 289	respiratoire
+T13	Concept_Idea 299 310	température
+T14	MEAS 313 318	37°8C
+T15	PROC 323 331	biologie
+T16	CHEM 358 379	acide acétylsalicylée
+T17	DOSE 381 386	20 mg
+T18	TEMP 386 391	/jour
+T19	CHEM 404 414	nifédipine
+T20	DOSE 416 423	1 mg/kg
+T21	TEMP 423 425	/j
+T22	CHEM 428 441	noradrénaline
+T23	DOSE 443 452	100 μg/kg
+T24	TEMP 452 454	/j
+T25	CHEM 457 470	bupropionique
+T26	DOSE 472 477	75 mg
+T27	TEMP 477 479	/j
+T28	CHEM 482 496	ciprofloxacine
+T29	DOSE 498 504	200 mg
+T30	TEMP 504 506	/j
+T31	CHEM 509 520	paracétamol
+T32	DOSE 522 528	400 mg
+T33	TEMP 528 530	/j
+T34	CHEM 533 549	sulfamethoxazole
+T35	DOSE 551 556	500mg
+T36	TEMP 556 558	/j
+T37	CHEM 561 572	méthoprolol
+T38	DOSE 574 580	150 mg
+T39	TEMP 580 582	/j
+T40	CHEM 585 603	hydroxychloroquine
+T41	DOSE 605 608	2 g
+T42	TEMP 608 610	/j
+T43	CHEM 613 625	méthotrexate
+T44	DOSE 627 632	15 mg
+T45	TEMP 632 634	/j
+T46	CHEM 637 650	dexaméthasone
+T47	DOSE 652 657	50 µg
+T48	TEMP 657 659	/j
+T49	CHEM 662 675	triméthoprime
+T50	DOSE 677 682	30 mg
+T51	TEMP 682 684	/j
+T52	CHEM 687 699	pyrazinamide
+T53	DOSE 701 707	750 mg
+T54	TEMP 707 709	/j
+T55	CHEM 712 722	ethambutol
+T56	DOSE 724 731	1260 mg
+T57	TEMP 731 733	/j
+T58	CHEM 736 747	rifampicine
+T59	DOSE 749 755	450 mg
+T60	TEMP 755 757	/j
+T61	CHEM 760 771	vinblastine
+T62	DOSE 773 779	800 mg
+T63	TEMP 779 781	/j
+T64	CHEM 784 795	périndopril
+T65	DOSE 797 803	250 mg
+T66	TEMP 803 805	/j
+T67	CHEM 808 818	furosémide
+T68	DOSE 820 826	120 mg
+T69	TEMP 826 828	/j
+T70	CHEM 831 845	hydrocortisone
+T71	DOSE 847 855	10 ng/ml
+T72	TEMP 855 857	/j
+T73	CHEM 860 871	propranolol
+T74	DOSE 873 879	0,5 mg
+T75	TEMP 879 881	/j
+T76	MODE 883 895	intraveineux
+T77	MODE 900 910	voie orale

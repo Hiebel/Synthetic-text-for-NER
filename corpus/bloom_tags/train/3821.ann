@@ -1,0 +1,67 @@
+T1	LIVB 4 9	fille
+T2	TEMP 18 23	5 ans
+T3	PROC 30 36	admise
+T4	Hospital 41 62	urgences pédiatriques
+T5	Hospital 66 115	centre Hospitalier universitaire Hassan II de Fès
+T6	DISO 135 223	syndrome d'épanchement liquidien médiastinal latéro laryngopharyngéo-thoracique purulent
+T8	TEMP 233 250	depuis deux jours
+T9	LIVB 257 259	sa
+T10	PROC 260 275	hospitalisation
+T11	DISO 307 373	tuméfaction pariéto-latérale droite pharyngotracheale hypoéchogène
+T13	Localization 336 342	droite
+T14	MEAS 383 387	2 cm
+T15	Concept_Idea 391 405	grand diamètre
+T16	DISO 426 442	signes cliniques
+T17	DISO 465 485	déficit neurologique
+T18	DISO 495 520	troubles sensitivomoteurs
+T19	PROC 534 557	radiographie thoracique
+T20	ANAT 547 557	thoracique
+T21	DISO 575 648	opacité paralymphangulo-interstitielle basithyroïdienne bilatérale gauche
+T23	Localization 631 648	bilatérale gauche
+T24	MEAS 664 679	progressivement
+T25	Concept_Idea 683 689	volume
+T26	MEAS 699 710	volumineuse
+T27	DISO 746 758	métastatique
+T28	PROC 801 823	chirurgie concomitante
+T29	DISO 891 899	récidive
+T30	DISO 906 931	localisation métastatique
+T31	LIVB 941 950	patientes
+T32	DISO 972 987	symptomatologie
+T33	PROC 991 1021	bilan biologique préopératoire
+T34	PROC 1035 1051	hyperleucocytose
+T35	MEAS 1054 1062	26300/uL
+T36	PROC 1076 1095	hémoglobine glyquée
+T37	MEAS 1098 1102	1,2%
+T38	DISO 1125 1159	syndrome inflammatoire métabolique
+T39	PROC 1162 1181	protéine C-réactive
+T40	MEAS 1194 1203	1280 mg/l
+T41	PROC 1205 1232	numération formule sanguine
+T42	PROC 1234 1247	globule blanc
+T43	MEAS 1249 1269	7200 éléments / mm 3
+T44	PROC 1272 1282	plaquettes
+T45	MEAS 1284 1319	20 000 éléments per millimètre cube
+T46	PROC 1324 1348	scanner abdomino-pelvien
+T47	ANAT 1332 1348	abdomino-pelvien
+T48	DISO 1373 1401	masse hypodense hyperintense
+T49	MEAS 1402 1414	multiloculée
+T50	ANAT 1435 1442	pelvien
+T51	MEAS 1451 1464	13x 13 x 11cm
+T52	ANAT 1517 1531	sinus urétraux
+T53	ANAT 1554 1580	cloison recto-sigmoïdienne
+T54	ANAT 1619 1641	fosse vaginale utérine
+T55	ANAT 1663 1683	membranes ovariennes
+T56	ANAT 1704 1729	jonction ombilicovaginale
+T57	ANAT 1767 1792	organes génitaux externes
+T58	CHEM 1857 1879	carcinomateuse maligne
+T59	PROC 1941 1970	recherche anatomopathologique
+T60	PROC 1977 2001	étude immunocytochimique
+T61	ANAT 2245 2259	méso-métacôlon
+T62	LIVB 2265 2273	patiente
+T63	PROC 2292 2320	chimiothérapie néo adjuvante
+T64	DOSE 2326 2329	4RH
+T65	CHEM 2342 2356	hydrocortisone
+T66	CHEM 2358 2371	bêtaméthasone
+T67	CHEM 2375 2387	méthotrexate
+T68	PHEN 2393 2411	suites opératoires
+T69	MEAS 2420 2427	simples
+T70	DISO 2433 2450	récidive tumorale

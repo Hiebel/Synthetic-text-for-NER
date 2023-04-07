@@ -1,0 +1,39 @@
+T1	LIVB 16 24	patiente
+T2	DISO 54 83	douleurs épigastriques aiguës
+T3	ANAT 63 76	épigastriques
+T4	DISO 100 106	fièvre
+T5	TEMP 116 134	depuis trois jours
+T6	DISO 147 160	particularité
+T7	PROC 164 179	examen clinique
+T8	LIVB 191 199	patiente
+T9	MEAS 203 206	bon
+T10	Concept_Idea 207 219	état général
+T11	DISO 221 231	apyrétique
+T12	PROC 235 266	auscultation abdomino-pelvienne
+T13	ANAT 248 266	abdomino-pelvienne
+T14	DISO 285 294	anomalies
+T15	ANAT 308 317	péritoine
+T16	PROC 335 351	examen somatique
+T17	DISO 363 376	particularité
+T18	PROC 381 397	bilan biologique
+T19	PHEN 415 430	fonction rénale
+T20	ANAT 424 430	rénale
+T21	MEAS 431 438	normale
+T22	MEAS 453 472	12000 éléments /mm3
+T23	PROC 478 481	CRP
+T24	MEAS 500 508	160 mg/l
+T25	PROC 523 542	protéine C réactive
+T26	MEAS 560 566	1mg/ml
+T27	PROC 573 588	globules blancs
+T28	MEAS 598 632	20000 éléments par millimètre cube
+T29	MEAS 670 674	0,3%
+T30	PROC 678 714	tomodensitométrie abdomino-pelvienne
+T31	ANAT 696 714	abdomino-pelvienne
+T32	DISO 731 769	lésion hétérogène tissulaire hypodense
+T33	MEAS 779 784	16 cm
+T34	Concept_Idea 788 797	grand axe
+T35	PROC 818 827	injection
+T36	CHEM 833 853	produit de contraste
+T37	ANAT 871 888	paroi vésiculaire
+T38	ANAT 910 930	fosse iliaque droite
+T39	Localization 924 930	droite

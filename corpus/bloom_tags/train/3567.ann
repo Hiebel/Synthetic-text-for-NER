@@ -1,0 +1,27 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 42 47	9 ans
+T3	PROC 55 78	examen clinique initial
+T4	DISO 92 130	masse para-aortique surrénalien droite
+T5	DISO 149 183	surpression artérielle cave droite
+T6	ANAT 161 183	artérielle cave droite
+T7	Localization 177 183	droite
+T8	TEMP 193 206	depuis 3 mois
+T9	MEAS 218 233	progressivement
+T10	Concept_Idea 237 243	volume
+T11	MEAS 253 267	indifférenciée
+T12	MEAS 277 282	12 cm
+T13	Concept_Idea 286 295	grand axe
+T14	Concept_Idea 298 304	aspect
+T15	MEAS 305 313	kystique
+T16	DISO 347 359	métastatique
+T17	DISO 386 410	traumatisme pathologique
+T18	DISO 428 458	syndrome d’épanchement méningé
+T19	ANAT 451 458	méningé
+T20	PROC 471 490	bilan immunologique
+T21	MEAS 491 502	négligeable
+T22	MEAS 510 517	positif
+T23	PROC 578 608	scannographie trans-thoracique
+T24	ANAT 592 608	trans-thoracique
+T25	PROC 624 668	anesthésie locorégionale trans-oesophagienne
+T27	MEAS 778 783	3560g
+T29	Localization 835 839	sous

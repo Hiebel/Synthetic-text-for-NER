@@ -1,0 +1,22 @@
+T1	LIVB 19 26	patient
+T2	PROC 42 53	hospitalisé
+T3	Hospital 57 64	urgence
+T4	DISO 83 102	insuffisance rénale
+T5	ANAT 96 102	rénale
+T6	DISO 120 142	cystatite hypertensive
+T7	PROC 147 169	bilan phospho-calcique
+T8	DISO 181 190	anomalies
+T9	PROC 196 226	échographie abdomino-pelvienne
+T10	ANAT 208 226	abdomino-pelvienne
+T11	Concept_Idea 257 263	taille
+T12	MEAS 274 278	2 cm
+T13	ANAT 296 324	parenchyme rénal homolatéral
+T14	Localization 313 324	homolatéral
+T15	ANAT 338 348	rein droit
+T16	Localization 343 348	droit
+T17	PROC 354 381	ponction liquide péritonéal
+T18	ANAT 363 381	liquide péritonéal
+T19	PROC 395 431	tomodensitométrie abdomino-pelvienne
+T20	ANAT 413 431	abdomino-pelvienne
+T21	PROC 433 455	TDM abdomino-pelvienne
+T22	PROC 515 544	prélèvements bactériologiques

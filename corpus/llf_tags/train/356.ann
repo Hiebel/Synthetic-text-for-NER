@@ -1,0 +1,102 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	DISO 41 47	nodule
+T4	MEAS 51 56	12 cm
+T5	Concept_Idea 60 68	diamètre
+T6	PROC 73 90	bilan d'extension
+T7	PROC 103 113	inspection
+T8	DISO 126 156	prolifération tumorale maligne
+T9	ANAT 174 184	rein droit
+T10	Localization 179 184	droit
+T11	ANAT 210 243	paroi thoraco- abdomino-pelvienne
+T12	DISO 253 278	remaniements éosinophiles
+T13	ANAT 293 312	région sous cutanée
+T14	DISO 326 360	récidive métastatique histologique
+T15	ANAT 377 420	branche mésentérique crico-trachéo-pubienne
+T16	LIVB 425 433	patiente
+T17	PROC 448 476	antibiothérapie probabiliste
+T18	CHEM 482 492	Cisplatine
+T19	DOSE 494 500	100 mg
+T20	TEMP 500 502	/j
+T21	CHEM 505 515	aminosides
+T22	DOSE 517 525	5 gramme
+T23	TEMP 525 527	/j
+T24	CHEM 532 551	triméthoprimesolone
+T25	DOSE 553 558	20 mg
+T26	TEMP 558 560	/j
+T27	PROC 566 585	suivi préopératoire
+T28	DISO 603 636	récidive locorégionale secondaire
+T29	DISO 646 662	signe infectieux
+T30	PROC 676 700	chimiothérapie adjuvante
+T31	MODE 705 715	voie orale
+T32	PROC 728 746	scanner thoracique
+T33	ANAT 736 746	thoracique
+T34	Concept_Idea 762 785	limites internationales
+T35	DISO 806 849	sténose interstitielle tissulaire polylobée
+T36	DISO 855 865	métastases
+T37	DISO 893 915	lésions carcinomateuse
+T38	DISO 925 957	carcinome épidermoïde infiltrant
+T39	Concept_Idea 969 977	résultat
+T40	PROC 1006 1050	néphrectomie partielle élargie scanno-guidée
+T41	PROC 1078 1156	hystérectomie totale axile rétropéritonéale anténatale termino-latérale gauche
+T43	PROC 1171 1986	annexectomie antéro-septale postéro-inférieure droite controlatérale supérieure asymétriquement distale Bichatonnectomie longitudinale costale rétro achilléenne latérale homolatérale droite T3N0M1(Figure 2] étendue sur 15 mm aux deux tendons supra-aorto-abdominal après transfusion endotrachéale puis curage ganglionnaire fémoral postérieur gastroduodénal périostéserotidien laissant place à une grossesse non suivie vue que cette dernière n'avait pas été prise en charge pour cause de prééclampsie récidivante mais avait bénéficiée d'une consultation prénatale associée à une laparotomie antérieur bipédiculaire segmentaire postérieure transvésicale rétrograde postopératoire écho brachianitomoteur emportant tous les anses grêliques faisant office de bloc cervico-crânio-mandibulaire bichatonnectomie exploratrice
+T47	MEAS 1390 1395	15 mm
+T48	ANAT 1405 1434	tendons supra-aorto-abdominal
+T49	PROC 1441 1466	transfusion endotrachéale
+T50	PROC 1472 1545	curage ganglionnaire fémoral postérieur gastroduodénal périostéserotidien
+T51	ANAT 1479 1545	ganglionnaire fémoral postérieur gastroduodénal périostéserotidien
+T52	PHEN 1567 1576	grossesse
+T53	PROC 1581 1587	suivie
+T54	PROC 1627 1642	prise en charge
+T55	DISO 1657 1669	prééclampsie
+T56	PROC 1710 1732	consultation prénatale
+T57	PROC 1748 1870	laparotomie antérieur bipédiculaire segmentaire postérieure transvésicale rétrograde postopératoire écho brachianitomoteur
+T59	ANAT 1890 1905	anses grêliques
+T61	PROC 1989 2013	échographie obstétricale
+T62	LIVB 2039 2046	malades
+T63	Concept_Idea 2068 2099	caractéristiques morphologiques
+T64	TEMP 2129 2135	16 ans
+T65	PROC 2343 2355	intervention
+T66	TEMP 2391 2398	18 mois
+T67	TEMP 2423 2434	26 semaines
+T68	MEAS 2444 2445	4
+T69	LIVB 2446 2453	garçons
+T70	MEAS 2492 2498	2 ères
+T71	LIVB 2499 2506	enfants
+T72	LIVB 2549 2555	frères
+T73	PROC 2654 2667	accouchements
+T74	MEAS 2700 2707	simples
+T75	Concept_Idea 2715 2732	état neurologique
+T76	DISO 2766 2777	traumatisme
+T77	DISO 2787 2814	symptomatologie infectieuse
+T79	PROC 2915 2960	annexectomie totale du membre inferieur droit
+T80	ANAT 2938 2960	membre inferieur droit
+T81	Localization 2955 2960	droit
+T82	CHEM 2962 2974	amoxicilline
+T83	CHEM 2977 2995	acide clavulanique
+T84	PROC 3010 3044	néphrectomie élargie scanno-guidée
+T85	PROC 3058 3134	greffe des membranes thyroïdiennes rétropéritonéales intracanalaires rénales
+T86	ANAT 3069 3134	membranes thyroïdiennes rétropéritonéales intracanalaires rénales
+T87	DISO 3150 3158	anomalie
+T88	DISO 3162 3176	lésion maligne
+T89	ANAT 3185 3199	rein supérieur
+T90	Localization 3190 3199	supérieur
+T91	PROC 3205 3226	recherche étiologique
+T92	MEAS 3256 3264	positive
+T93	DISO 3277 3340	processus tumoral carcinomateux tissulaire hyperplasmoblastique
+T94	MEAS 3350 3354	6 cm
+T95	Concept_Idea 3358 3367	grand axe
+T97	MEAS 3496 3500	5 cm
+T98	ANAT 3552 3622	parenchyme hépatique inférieur controlatéral médial antero-oesophagien
+T99	Localization 3583 3622	controlatéral médial antero-oesophagien
+T101	Localization 3675 3692	inferieur interne
+T102	DISO 3764 3796	myome inflammatoire épithélogène
+T103	MEAS 3804 3812	IgM/mm 2
+T104	PROC 3817 3842	scanner thoraco-abdominal
+T105	ANAT 3825 3842	thoraco-abdominal
+T106	DISO 3869 3885	signe infectieux
+T107	DISO 3903 3937	métastases érythémato-encéphalique
+T108	PROC 3963 3977	TDM thoracique
+T109	DISO 3999 4045	vascularite lymphocytaire auto-immunohistiquée
+T110	DISO 4062 4101	adénocarcinome granulomateux infiltrant
+T111	DISO 4116 4187	perforation kératinisante nécrosante liquidienne stade T3N1CGFBPVZFAKER

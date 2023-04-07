@@ -1,0 +1,26 @@
+T1	PROC 3 28	scanner thoraco-abdominal
+T2	ANAT 11 28	thoraco-abdominal
+T3	MEAS 35 41	normal
+T4	PROC 47 69	radiographie du thorax
+T5	ANAT 63 69	thorax
+T6	DISO 104 112	luxation
+T7	Localization 118 135	extrémité distale
+T8	Concept_Idea 163 171	contours
+T9	MEAS 172 181	réguliers
+T10	DISO 188 203	pneumomédiastin
+T11	PROC 225 250	réanimation préopératoire
+T12	PROC 256 275	anesthésie générale
+T13	DEVI 320 335	drain aspiratif
+T14	PROC 350 386	contrôle radiologique postopératoire
+T15	LIVB 420 428	patiente
+T16	TEMP 459 467	8 heures
+T17	PROC 471 492	ventilation mécanique
+T18	PROC 506 531	corticothérapie adjuvante
+T19	CHEM 535 546	sulfonamide
+T20	DISO 571 600	symptômes neuropsychiatriques
+T21	PROC 614 634	mobilisation passive
+T22	DISO 658 680	perceptions délirantes
+T23	PHEN 691 715	réflexes ostéo-tendineux
+T24	MEAS 788 795	simples
+T25	DISO 823 840	récidive tumorale
+T26	DISO 850 864	signe clinique

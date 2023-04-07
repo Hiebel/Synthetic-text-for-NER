@@ -1,0 +1,30 @@
+T1	LIVB 28 35	patient
+T2	Concept_Idea 52 63	antécédents
+T3	MEAS 64 76	particuliers
+T4	PROC 78 89	hospitalisé
+T5	Hospital 94 102	urgences
+T6	DISO 112 134	douleurs épigastriques
+T7	ANAT 121 134	épigastriques
+T8	TEMP 144 157	depuis 3 mois
+T9	PROC 162 179	bilan d'extension
+T10	MEAS 197 204	négatif
+T11	PROC 208 223	examen clinique
+T12	LIVB 236 243	patient
+T13	MEAS 247 256	assez bon
+T14	Concept_Idea 257 269	état général
+T15	Concept_Idea 287 305	plan hémodynamique
+T16	PHEN 309 321	respiratoire
+T17	DISO 330 349	troubles du transit
+T18	PHEN 342 349	transit
+T19	PROC 354 384	échographie abdomino-pelvienne
+T20	ANAT 366 384	abdomino-pelvienne
+T21	DISO 398 417	métastase pelvienne
+T22	ANAT 408 417	pelvienne
+T24	MEAS 514 518	13cm
+T25	ANAT 534 552	hémi pelvien droit
+T26	Localization 547 552	droit
+T27	ANAT 568 596	veine cave supra péritonéale
+T28	Localization 579 584	supra
+T29	DISO 617 663	adénopathies nodulaires érythémato-crétinantes
+T30	DISO 673 686	cholestatique
+T31	ANAT 707 716	péritoine

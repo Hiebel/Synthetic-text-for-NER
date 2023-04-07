@@ -1,0 +1,27 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	Concept_Idea 42 67	antécédents pathologiques
+T4	MEAS 68 76	notables
+T5	PROC 78 82	reçu
+T6	Hospital 87 95	urgences
+T7	DISO 105 124	douleurs pelviennes
+T8	ANAT 114 124	pelviennes
+T9	TEMP 134 147	depuis 2 mois
+T10	DISO 164 170	fièvre
+T11	PROC 187 202	examen clinique
+T12	LIVB 215 221	enfant
+T13	Concept_Idea 236 254	plan hémodynamique
+T14	DISO 278 308	sensibilité abdomino-pélvienne
+T15	ANAT 290 308	abdomino-pélvienne
+T16	ANAT 322 334	flanc gauche
+T17	Localization 328 334	gauche
+T18	DISO 340 354	épigastralgies
+T19	PROC 359 367	biologie
+T20	DISO 390 406	hyperleucocytose
+T21	MEAS 439 449	18000/mm 3
+T22	MEAS 481 490	11000/mm3
+T23	PROC 496 533	tomodensitométrie abdomino- pelvienne
+T24	ANAT 514 533	abdomino- pelvienne
+T25	DISO 554 581	lésion tissulaire hypodense
+T26	MEAS 591 599	32x24 mm
+T27	ANAT 615 653	muscles péristaltiques utéro-cervicaux

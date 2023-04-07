@@ -1,0 +1,80 @@
+T1	PROC 4 35	fibroscopie nasogastroduodénale
+T2	ANAT 16 35	nasogastroduodénale
+T3	DISO 51 56	masse
+T4	Concept_Idea 59 65	allure
+T5	DISO 66 74	tumorale
+T6	MEAS 78 83	12 cm
+T7	Concept_Idea 87 95	diamètre
+T8	MEAS 108 112	3 cm
+T9	Concept_Idea 116 125	grand axe
+T10	MEAS 135 142	épaisse
+T11	DISO 174 196	remaniement péritonéal
+T12	DISO 200 212	adénomégalie
+T13	PROC 225 249	échographie obstétricale
+T14	TEMP 253 263	11/08/2017
+T15	DISO 284 318	niveaux hydro-aériques hétérogènes
+T16	DISO 338 360	hémopéritoine néonatal
+T17	PROC 365 390	scanner thoraco-abdominal
+T18	ANAT 373 390	thoraco-abdominal
+T19	TEMP 402 412	10/09/2017
+T20	DISO 439 513	processus tissulaire hyper vasculonucleaire intracytoplasme éosinophilique
+T21	ANAT 535 566	parties molles cervicale gauche
+T22	Localization 560 566	gauche
+T23	ANAT 580 651	angle crico-trachéo-bronchomentéral antero-pubien postéro-latéral droit
+T24	Localization 646 651	droit
+T25	ANAT 672 703	sinus piriformes supracliniques
+T26	LIVB 737 744	patient
+T27	CHEM 760 771	antalgiques
+T28	CHEM 777 788	paracétamol
+T29	DOSE 790 795	25 mg
+T30	TEMP 795 805	/24 heures
+T31	CHEM 808 821	antibiotiques
+T32	CHEM 827 841	gentaméthasone
+T33	DOSE 843 851	1 gramme
+T34	TEMP 851 861	/24 heures
+T35	CHEM 866 876	corticoïde
+T36	DOSE 878 883	20 mg
+T37	TEMP 883 893	/24 heures
+T38	MEAS 931 938	simples
+T39	DISO 958 976	récidive grossesse
+T40	PHEN 967 976	grossesse
+T41	Concept_Idea 1014 1044	résultats anatomopathologiques
+T42	PROC 1068 1089	contrôle radiologique
+T43	DISO 1166 1173	myxoide
+T44	DISO 1177 1189	métaphysaire
+T45	DISO 1221 1229	récidive
+T46	PROC 1235 1269	prise en charge neuropsychiatrique
+T47	DISO 1309 1328	trouble psychotique
+T48	LIVB 1337 1347	nouveau-né
+T49	TEMP 1355 1362	18 mois
+T50	PROC 1367 1386	traité médicalement
+T51	LIVB 1409 1416	enfants
+T52	PROC 1432 1456	consultations prénatales
+T53	LIVB 1505 1510	fille
+T54	TEMP 1519 1525	15 ans
+T55	DEVI 1540 1569	matériel médical orthopédique
+T56	PROC 1666 1676	transférée
+T57	Hospital 1686 1717	travails intensifs pédiatriques
+T58	PROC 1745 1771	radiothérapie concomitante
+T59	PROC 1785 1806	anesthésie péridurale
+T60	PROC 1898 1928	acte chirurgical préopératoire
+T61	MEAS 1992 1995	80%
+T62	LIVB 2469 2501	médecin anesthésiste-réanimateur
+T64	DISO 2599 2626	symptomatologie infectieuse
+T65	ANAT 2631 2643	conjonctives
+T66	Concept_Idea 2652 2670	état hémodynamique
+T67	PROC 2676 2700	ventilation artificielle
+T68	PROC 2727 2755	traitement psychotraumatique
+T69	LIVB 2764 2774	nourrisson
+T70	PROC 2848 2877	prise en charge thérapeutique
+T71	MEAS 2910 2917	simples
+T72	DISO 2923 2941	troubles sensitifs
+T73	DISO 2945 2958	syncinétiques
+T74	PROC 3014 3047	cholécystokératine postopératoire
+T75	CHEM 3048 3058	paclitaxel
+T76	PHEN 3064 3073	grossesse
+T77	LIVB 3187 3198	nouveau-nés
+T78	PROC 3216 3237	séance néonatalytique
+T79	Concept_Idea 3323 3345	paramètres biologiques
+T80	PROC 3359 3379	contrôle obstétrical
+T81	DISO 3442 3459	signes infectieux

@@ -1,0 +1,106 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 69	antécédent pathologique
+T3	MEAS 70 81	particulier
+T4	PROC 83 89	Admise
+T5	Hospital 94 102	urgences
+T6	DISO 112 135	dyspnée sifflante aigue
+T7	DISO 144 170	traumatisme du foie gauche
+T8	ANAT 159 170	foie gauche
+T9	Localization 164 170	gauche
+T10	Concept_Idea 175 181	effort
+T11	DISO 189 207	lombalgies droites
+T12	Localization 200 207	droites
+T13	Concept_Idea 252 265	état générale
+T14	CHEM 292 298	Glivec
+T15	DOSE 300 303	1 g
+T16	TEMP 303 314	/ 2 minutes
+T17	DISO 332 347	symptomatologie
+T18	TEMP 362 369	un mois
+T19	DISO 401 422	distension abdominale
+T20	ANAT 412 422	abdominale
+T21	PHEN 484 493	grossesse
+T22	PROC 562 577	examen physique
+T23	DISO 593 599	fièvre
+T24	MEAS 602 608	39 ° C
+T25	DISO 614 647	leucorrhées glaireuses crépitants
+T26	ANAT 667 696	sphincter vésico-nasopharyngé
+T27	DISO 710 718	asthénie
+T28	MEAS 734 749	progressivement
+T29	DISO 755 771	syndrome grippal
+T30	ANAT 812 817	grêle
+T31	DISO 830 851	signes inflammatoires
+T32	DISO 887 910	rhinorrhée crachatsante
+T33	PROC 923 934	échographie
+T34	LIVB 966 974	patiente
+T35	DISO 979 1038	masse tissulaire lobulée hypoéchogène hétérodense calcifiée
+T36	MEAS 1047 1052	12 cm
+T37	Concept_Idea 1056 1064	diamètre
+T38	PROC 1085 1094	injection
+T39	CHEM 1098 1113	Triméthopriméne
+T40	MEAS 1123 1127	18cm
+T41	Concept_Idea 1131 1140	grand axe
+T42	DISO 1145 1153	rehaussé
+T43	DISO 1157 1169	hémorragique
+T44	PROC 1174 1191	bilan étiologique
+T45	ANAT 1214 1232	latéro-thoraciques
+T46	TEMP 1322 1346	deux semaines auparavant
+T47	DISO 1362 1388	vomissements bilieux aigus
+T48	DISO 1404 1447	sensation de pesanteur ventriculaire rénale
+T49	ANAT 1427 1447	ventriculaire rénale
+T50	DISO 1504 1545	insuffisance rénale congénitale primitive
+T51	ANAT 1517 1523	rénale
+T52	DISO 1563 1586	néphropathie diabétique
+T53	DISO 1604 1628	hypercalciurie chronique
+T54	DISO 1728 1737	symptômes
+T55	PROC 1742 1759	Tomodensitométrie
+T56	DISO 1786 1829	anémie normochrome normocytaire polyclonale
+T57	MEAS 1838 1848	7,5 mmol/L
+T58	MEAS 1854 1874	0,25 fois la normale
+T59	PROC 1914 1926	surveillance
+T60	MEAS 1933 1954	fortement recommandée
+T61	PROC 2078 2090	angioplastie
+T62	Concept_Idea 2097 2105	résultat
+T63	MEAS 2106 2113	précoce
+T64	PROC 2128 2165	complément thérapeutique substitutive
+T65	PROC 2179 2207	antibiothérapie probabiliste
+T66	CHEM 2283 2298	céphalosporines
+T67	CHEM 2301 2317	fluoroquinolones
+T68	CHEM 2319 2347	imipenèmexyphényle acetaxone
+T69	PROC 2354 2388	prise en charge pluridisciplinaire
+T70	PROC 2513 2544	scintigraphies scannographiques
+T71	PROC 2559 2579	étude hémodialytique
+T72	PROC 2609 2656	cystolithotomie axilectomie anténatale monobloc
+T73	PROC 2690 2721	myéloperoxydase intramédullaire
+T74	DEVI 2791 2802	laboratoire
+T75	LIVB 2816 2826	nouveau-né
+T76	PROC 2833 2850	extraction fœtale
+T77	PROC 2863 2882	bilan préopératoire
+T78	PROC 2892 2915	analyses toxicologiques
+T79	PROC 2919 2939	immunohistochimiques
+T80	Concept_Idea 2958 2978	caractère infectieux
+T81	Concept_Idea 2995 3030	paramètres immuno-hépato-spléniques
+T82	PROC 3043 3055	hémocultures
+T83	PHEN 3108 3118	grossesses
+T84	LIVB 3162 3168	malade
+T85	LIVB 3238 3248	nourrisson
+T86	TEMP 3256 3263	24 mois
+T87	PROC 3274 3283	transfusé
+T88	TEMP 3290 3303	novembre 2012
+T89	TEMP 3307 3319	février 2013
+T90	PROC 3325 3350	traitement prophylactique
+T91	DOSE 3352 3361	50 mg /kg
+T92	TEMP 3361 3363	/j
+T93	PROC 3369 3389	suivi postopératoire
+T94	TEMP 3401 3406	3mois
+T95	PROC 3419 3443	consultation pédiatrique
+T96	PROC 3469 3490	contrôle locorégional
+T98	DISO 3882 3913	crise convulsive hypocalcémique
+T99	DISO 3929 3947	diarrhée glaireuse
+T100	Concept_Idea 4003 4016	état générale
+T101	PROC 4070 4089	séance chirurgicale
+T102	PROC 4143 4160	geste chirurgical
+T103	DISO 4215 4236	infection nosocomiale
+T104	PROC 4404 4433	investigations fonctionnelles
+T105	DISO 4475 4508	perforation transfixiante maligne
+T106	DISO 4529 4559	tuberculose tubéneuse primaire
+T107	DISO 4578 4620	hyperbilharziose inflammatoire généralisée

@@ -1,0 +1,19 @@
+T1	Concept_Idea 18 21	cas
+T2	LIVB 27 34	patient
+T3	PROC 68 96	chimiothérapie néo adjuvante
+T4	DISO 145 153	douleurs
+T5	ANAT 167 173	thorax
+T6	PROC 184 193	palpation
+T7	MEAS 198 204	légère
+T8	DISO 205 231	distension basi-thoracique
+T9	ANAT 216 231	basi-thoracique
+T10	PHEN 237 252	réflexes vitaux
+T11	MEAS 261 268	souples
+T12	DISO 274 300	troubles sensitivo-moteurs
+T13	PROC 318 334	examen somatique
+T14	DISO 346 360	particularités
+T15	PROC 365 397	traitement palliatif chirurgical
+T16	TEMP 410 424	pendant 3 mois
+T17	CHEM 458 471	antibiotiques
+T18	DISO 556 582	déficit neuropsychiatrique
+T19	LIVB 591 598	patient

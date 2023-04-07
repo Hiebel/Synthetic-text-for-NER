@@ -1,0 +1,31 @@
+T1	LIVB 16 24	patiente
+T2	DISO 55 63	douleurs
+T3	ANAT 77 87	col utérin
+T4	TEMP 97 109	depuis un an
+T5	PROC 115 124	admission
+T6	Hospital 133 140	service
+T7	LIVB 142 146	elle
+T8	MEAS 156 159	bon
+T9	Concept_Idea 160 172	état général
+T10	PHEN 182 200	tension artérielle
+T11	ANAT 190 200	artérielle
+T12	MEAS 203 214	110/68 mmHg
+T13	DISO 220 241	dépression abdominale
+T14	ANAT 231 241	abdominale
+T15	DISO 252 261	anomalies
+T16	DISO 295 317	épanchement péritonéal
+T17	ANAT 307 317	péritonéal
+T18	PROC 334 349	examen clinique
+T19	DISO 361 374	particularité
+T20	PROC 378 399	échographie pelvienne
+T21	ANAT 390 399	pelvienne
+T22	PROC 414 438	anesthésie locorégionale
+T23	DISO 472 501	processus lésionnel hypodense
+T24	MEAS 511 515	3 cm
+T25	Concept_Idea 519 528	grand axe
+T26	ANAT 553 577	muscles périvésiculaires
+T27	ANAT 593 608	anses grêliques
+T28	ANAT 632 656	veine cave rénale droite
+T29	Localization 650 656	droite
+T30	DISO 688 737	lésions nodulaires tissulaires hypo-vascularisées
+T31	ANAT 758 780	méso-rétro-vésiculaire

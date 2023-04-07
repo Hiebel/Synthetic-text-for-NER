@@ -1,0 +1,23 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 79 90	hospitalisé
+T5	Hospital 95 103	urgences
+T6	DISO 113 131	douleur abdominale
+T7	ANAT 121 131	abdominale
+T8	TEMP 141 154	depuis 2 mois
+T9	MEAS 169 184	progressivement
+T10	Concept_Idea 188 194	volume
+T11	PROC 198 213	examen clinique
+T12	PROC 218 227	admission
+T13	LIVB 244 251	patient
+T14	MEAS 255 258	bon
+T15	Concept_Idea 259 271	état général
+T16	DISO 287 307	hémorragie digestive
+T17	PROC 312 328	bilan biologique
+T18	PHEN 342 366	vitesse de sédimentation
+T19	PROC 368 370	VS
+T20	MEAS 384 388	75mm
+T21	DEVI 424 438	fil résorbable
+T22	PROC 452 471	protéine-C-Réactive
+T23	MEAS 489 496	18 mg/l

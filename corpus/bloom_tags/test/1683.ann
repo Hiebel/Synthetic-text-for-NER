@@ -1,0 +1,35 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 71	antécédents pathologiques
+T3	MEAS 72 80	notables
+T4	PROC 82 88	admise
+T5	Hospital 93 115	urgences chirurgicales
+T7	ANAT 134 154	abdomino- périnéales
+T8	TEMP 164 180	depuis 48 heures
+T9	DISO 195 209	ictère fébrile
+T10	PROC 213 228	examen clinique
+T11	PHEN 242 253	mastication
+T12	MEAS 254 263	difficile
+T13	Localization 287 300	périphériques
+T14	ANAT 304 315	flanc droit
+T15	Localization 310 315	droit
+T16	DISO 332 351	signes fonctionnels
+T17	DISO 377 385	anorexie
+T18	DISO 398 424	symptômes neuroréflexiques
+T19	MEAS 442 461	fortement suspectés
+T20	MEAS 481 498	bradycarotidienne
+T21	MEAS 524 540	de façon brutale
+T22	MEAS 555 561	rapide
+T23	DEVI 611 639	ampleur buccodentaire plâtré
+T24	PROC 656 671	extériorisation
+T25	LIVB 785 793	patiente
+T26	DISO 811 852	paragangliome kystico-méthylnéctrolytique
+T27	DISO 972 1006	tumeur épithélio-gigantocellulaire
+T28	ANAT 1017 1028	épidermique
+T29	MEAS 1038 1042	6 cm
+T30	Concept_Idea 1046 1055	grand axe
+T31	DISO 1060 1073	vascularisées
+T32	DISO 1077 1086	calcifiée
+T33	ANAT 1108 1131	muqueuse utéro-vaginale
+T34	ANAT 1151 1170	organes intestinaux
+T35	PROC 1330 1351	échographie pelvienne
+T36	ANAT 1342 1351	pelvienne

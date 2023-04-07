@@ -1,0 +1,65 @@
+T1	LIVB 14 22	Patiente
+T2	TEMP 70 78	six mois
+T3	LIVB 85 87	sa
+T4	PROC 88 116	consultation préanesthésique
+T5	LIVB 134 140	malade
+T6	Hospital 158 189	urgences médicales pédiatriques
+T7	PROC 195 210	prise en charge
+T8	TEMP 246 266	depuis deux semaines
+T9	PROC 302 323	contrôle radiologique
+T10	PROC 327 340	échographique
+T11	DISO 383 394	infectieuse
+T12	PROC 428 443	examen clinique
+T13	LIVB 450 458	patiente
+T14	DISO 463 470	fébrile
+T15	MEAS 473 477	39°C
+T16	DISO 482 493	polypnéique
+T17	DISO 508 541	dysphonie laryngo-laryngolaryngée
+T18	DISO 557 579	brouillard hypotonique
+T19	DISO 588 613	vomissements mydriatiques
+T20	DISO 629 635	fièvre
+T21	MEAS 647 652	36 °C
+T22	DISO 676 688	neurasthénie
+T23	DISO 706 729	hyperthyroïdie primaire
+T24	TEMP 742 751	24 heures
+T25	DISO 766 788	symptômes psychotiques
+T26	DISO 1044 1067	déficit sensitivomoteur
+T27	DISO 1163 1180	psychose maniaque
+T28	CHEM 1281 1292	corticoïde®
+T29	DOSE 1293 1300	1 mg/kg
+T30	TEMP 1300 1302	/j
+T31	ANAT 1752 1757	tronc
+T32	PROC 1784 1799	bloc opératoire
+T33	LIVB 1820 1828	patiente
+T34	PROC 1839 1890	ventilation mécanique extracorporelle intraveineuse
+T35	Concept_Idea 1908 1933	antécédents pathologiques
+T36	Concept_Idea 1966 1996	caractères neuropsychiatriques
+T37	PHEN 2021 2039	suites opératoires
+T38	MEAS 2048 2055	simples
+T39	DISO 2064 2084	récidive infectieuse
+T40	LIVB 2136 2144	patiente
+T41	CHEM 2187 2210	pénicilline vincristine
+T42	DEVI 2239 2258	nourrisson bleuâtre
+T43	TEMP 2267 2273	9 mois
+T44	PROC 2307 2316	admission
+T45	Hospital 2321 2342	urgences pédiatriques
+T46	DISO 2362 2384	constipation chronique
+T47	TEMP 2394 2408	depuis 4 jours
+T48	MEAS 2448 2463	progressivement
+T49	DISO 2584 2607	habitudes obstétricales
+T50	PROC 2612 2632	reprise chirurgicale
+T51	TEMP 2644 2654	6 semaines
+T52	PROC 2667 2697	remplissage anesthésique local
+T53	PROC 2718 2748	antibioprophylaxie parentérale
+T54	PROC 2769 2788	suivi préopératoire
+T55	MEAS 2809 2821	significatif
+T56	DISO 2828 2853	contage tuberculeux rénal
+T57	PROC 2920 2949	cholécystectomie exploratrice
+T58	ANAT 2973 3052	fragments osseux pariéto-mandibulaire thoracique antro-mandibulaire superficiel
+T59	MEAS 3077 3085	13x15 cm
+T60	MEAS 3089 3097	12×10 cm
+T61	Localization 3111 3126	tiers supérieur
+T62	MEAS 3136 3142	5×3 cm
+T63	ANAT 3157 3186	quadrant infundibulaire moyen
+T64	MEAS 3194 3200	2×4 cm
+T65	DISO 3222 3245	trouble hydrothoracique

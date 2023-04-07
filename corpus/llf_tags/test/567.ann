@@ -1,0 +1,59 @@
+T1	LIVB 14 22	Patiente
+T2	DISO 99 118	syndrome infectieux
+T3	DISO 124 138	pneumocéphalie
+T4	DISO 148 154	fièvre
+T5	TEMP 164 177	depuis 3 mois
+T6	LIVB 184 186	sa
+T7	PROC 187 220	consultation pré ano-anesthésiste
+T8	DISO 335 345	saignement
+T9	LIVB 364 367	son
+T10	LIVB 368 402	mariage consanguino-hémodialytique
+T11	DISO 413 433	perceptions morbides
+T12	Concept_Idea 484 496	état général
+T13	LIVB 511 514	son
+T14	PROC 515 537	hospitalisation totale
+T15	TEMP 545 554	24 heures
+T16	PROC 583 627	antibiothérapie antibacillaire intraveineuse
+T17	PROC 661 708	kinésithérapie cognitivo-motrice individualisée
+T18	TEMP 869 883	quelques jours
+T19	DISO 922 946	hallucinations visuelles
+T20	DISO 963 994	vomissements bilieux convulsifs
+T21	DISO 1010 1047	convulsions généralisées glaucomiques
+T22	DISO 1059 1090	désorientation temporo-spaciale
+T23	DISO 1133 1186	troubles obsessionnels compulsifs délires polymorphes
+T24	DISO 1201 1221	conflits interordres
+T25	LIVB 1228 1231	lui
+T26	LIVB 1235 1238	ses
+T28	LIVB 1402 1416	Mme HELLERBECK
+T29	MEAS 1885 1892	26x20mm
+T30	MEAS 1895 1899	23mm
+T31	DISO 2222 2251	hypertension artérielle aiguë
+T32	ANAT 2235 2245	artérielle
+T33	PROC 2262 2268	admise
+T34	Hospital 2272 2292	service des urgences
+T35	DISO 2301 2346	dysfonctionnement ventilatoire chronique aigu
+T36	Concept_Idea 2391 2403	état général
+T37	LIVB 2429 2435	malade
+T38	DISO 2441 2455	amaigrissement
+T39	MEAS 2466 2470	39kg
+T40	DISO 2492 2518	signes neuropsychiatriques
+T41	DISO 2528 2555	contractions psychomotrices
+T42	CHEM 2591 2603	antibiotique
+T43	PROC 2608 2623	examen clinique
+T44	DISO 2642 2667	symptomatologie somatique
+T45	PHEN 2689 2709	grossesse gémellaire
+T46	PROC 2714 2720	suivie
+T47	PROC 2726 2737	hémodialyse
+T48	MEAS 2785 2795	favorables
+T49	Concept_Idea 2821 2847	antécédents gynécologiques
+T50	Concept_Idea 2867 2886	ordre professionnel
+T51	PROC 2919 2944	bilan préchimiothérapique
+T52	PROC 2971 2999	prise en charge chirurgicale
+T53	DISO 3036 3058	complication néonatale
+T54	DISO 3065 3091	consanguinité pathologique
+T55	Concept_Idea 3104 3123	aspect histologique
+T56	DISO 3267 3290	déficit sensitivomoteur
+T57	DISO 3360 3378	récidives toxiques
+T58	DISO 3403 3438	crises convulsives schizophréniques
+T59	DISO 3460 3499	céphalées paroxystiques tonicocloniques
+T60	DISO 3593 3624	réflexes dépressives bipolaires

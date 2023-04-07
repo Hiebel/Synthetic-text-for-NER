@@ -1,0 +1,70 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 69	admise
+T3	Hospital 74 82	urgences
+T4	DISO 92 110	crises convulsives
+T5	DISO 118 141	agitation psychomotrice
+T6	PHEN 161 170	naissance
+T7	DISO 226 254	syndrome délirant polymorphe
+T8	Concept_Idea 315 331	langage corporel
+T9	ANAT 363 381	consignes auditifs
+T10	MEAS 952 961	quatrième
+T11	LIVB 982 1000	médecin psychiatre
+T12	PROC 1006 1021	examen physique
+T13	LIVB 1027 1035	patiente
+T14	DISO 1040 1054	drépanocytaire
+T15	DISO 1060 1088	troubles neuropsychiatriques
+T16	PROC 1118 1134	examen somatique
+T17	DISO 1146 1160	particularités
+T18	PROC 1164 1175	échographie
+T19	DISO 1202 1244	distension abdomino-mandibulaire ectopique
+T20	ANAT 1213 1244	abdomino-mandibulaire ectopique
+T21	ANAT 1266 1297	région temporo-temporale gauche
+T22	Localization 1291 1297	gauche
+T23	MEAS 1307 1318	50 cm/15 cm
+T24	ANAT 1347 1363	sinus vertébraux
+T25	MEAS 1399 1403	4 mm
+T26	MEAS 1407 1411	5 mm
+T27	PROC 1416 1433	tomodensitométrie
+T28	PROC 1434 1447	TDM / Doppler
+T29	DISO 1465 1500	ostéochondrite ankylosante calcique
+T31	Localization 1702 1721	bilatéral antérieur
+T35	PROC 2004 2023	électrocardiogramme
+T36	DISO 2037 2085	pneumopathie subocclusive monophasique terminale
+T37	MEAS 2094 2103	stade III
+T38	MEAS 2986 2993	simples
+T39	DISO 3044 3092	hématome intracérébral du membre supérieur droit
+T40	ANAT 3070 3092	membre supérieur droit
+T41	Localization 3087 3092	droit
+T42	LIVB 3097 3104	patient
+T43	PROC 3111 3118	adressé
+T44	Hospital 3122 3137	bloc opératoire
+T45	PROC 3143 3171	prise en charge chirurgicale
+T46	PROC 3175 3201	examen anatomopathologique
+T47	Concept_Idea 3216 3222	aspect
+T48	DISO 3226 3266	tuberculose érythémato-trachéale maligne
+T49	DISO 3276 3310	niveaux hydroaériques kératinisant
+T50	DISO 3324 3361	lymphocytose leucocytaire neutrophile
+T51	MEAS 3364 3384	10 000 cellules/mm 3
+T52	PROC 3437 3458	bilan phosphocalcique
+T53	MEAS 3473 3479	normal
+T54	PROC 3487 3514	numérations globules blancs
+T55	PROC 3516 3519	GBF
+T56	DISO 3545 3557	hyponatrémie
+T57	MEAS 3560 3570	0,5 mmol/l
+T58	DISO 3615 3667	métaplasie médullaire anéchogène hétérotrimestriaque
+T59	CHEM 3723 3738	céphalosporines
+T60	MEAS 3757 3770	bien tolérées
+T61	PROC 3777 3796	remise en condition
+T62	DEVI 3829 3853	matériel d'ostéosynthèse
+T63	PHEN 3858 3879	fonction respiratoire
+T64	ANAT 3867 3879	respiratoire
+T65	MEAS 3892 3899	normale
+T66	PROC 3924 3950	explorations radiologiques
+T67	MEAS 3978 3987	négatives
+T68	PROC 4063 4087	examens bactériologiques
+T69	DISO 4134 4168	neurochimie hypokalièdotriptorrhée
+T70	LIVB 4337 4343	enfant
+T71	TEMP 4351 4357	9 mois
+T72	PROC 4420 4429	admission
+T73	LIVB 4438 4457	grand père maternel
+T74	LIVB 4532 4550	famille maternelle

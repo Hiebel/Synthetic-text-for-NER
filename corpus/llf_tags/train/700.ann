@@ -1,0 +1,111 @@
+T1	LIVB 19 30	jeune fille
+T2	TEMP 39 45	17 ans
+T3	DISO 52 77	antécédents pathologiques
+T4	MEAS 78 90	particuliers
+T5	PROC 101 113	hospitalisée
+T6	DISO 123 140	dyspnée sifflante
+T7	PROC 144 159	examen clinique
+T8	LIVB 172 182	nourrisson
+T9	MEAS 186 193	mauvais
+T10	Concept_Idea 194 206	état général
+T11	DISO 216 228	vomissements
+T12	DISO 239 245	fièvre
+T13	TEMP 268 282	depuis 3 jours
+T14	PROC 300 316	examen somatique
+T15	DISO 328 342	particularités
+T16	PROC 347 364	tomodensitométrie
+T17	PROC 366 381	TDM) thoracique
+T18	ANAT 371 381	thoracique
+T19	DISO 415 460	processus lésionnel tissulaire du rein gauche
+T20	ANAT 449 460	rein gauche
+T21	Localization 454 460	gauche
+T22	MEAS 470 474	7 cm
+T23	Concept_Idea 478 487	grand axe
+T24	PHEN 493 508	reflexes rénaux
+T25	ANAT 502 508	rénaux
+T26	MEAS 517 522	sains
+T27	MEAS 526 540	très distendus
+T28	Concept_Idea 556 566	plan axial
+T29	DISO 592 620	niveau hydro-aorto-caverneux
+T30	DISO 627 659	troubles vasomoteurs obstructifs
+T31	PROC 673 704	fibroscopie oesogastroduodénale
+T32	ANAT 685 704	oesogastroduodénale
+T33	PROC 705 709	FOGD
+T34	ANAT 733 764	aires ganglionnaires cervicales
+T35	ANAT 782 807	veines cave inféro-anales
+T36	Localization 794 807	inféro-anales
+T37	ANAT 820 851	nerf fémoral homolatéral gauche
+T38	Localization 833 851	homolatéral gauche
+T39	MEAS 875 879	9 mm
+T40	MEAS 883 888	2mg/l
+T41	DISO 929 949	métastase bronchique
+T42	ANAT 939 949	bronchique
+T43	MEAS 1016 1026	favorables
+T44	PROC 1032 1063	traitement substitutif adjuvant
+T45	PROC 1075 1096	contrôle radiologique
+T46	Concept_Idea 1165 1193	résultat anatomopathologique
+T47	PROC 1199 1225	radiothérapie concomitante
+T48	PROC 1264 1297	néphrectomie totale scanno-guidée
+T49	ANAT 1313 1335	symphysies thoraciques
+T50	PROC 1360 1392	exérèse endobuccale chirurgicale
+T51	ANAT 1434 1454	segments anéchogènes
+T52	DISO 1488 1510	anomalie morphologique
+T53	PROC 1515 1538	remplissage vascularisé
+T54	ANAT 1527 1538	vascularisé
+T55	PROC 1574 1599	réanimation préopératoire
+T56	PROC 1637 1667	curage ganglionnaire hépatique
+T57	ANAT 1644 1667	ganglionnaire hépatique
+T58	PROC 1672 1689	scanner abdominal
+T59	ANAT 1680 1689	abdominal
+T60	Localization 1861 1868	gauches
+T62	Localization 2048 2069	latéralement latéraux
+T63	ANAT 2090 2135	grande courbure antero-diaphragmatique droite
+T65	DISO 2320 2346	tumeur péritonéale maligne
+T66	DISO 2364 2450	perforation endo-appendiculaire basilinguodénale périméatale rachidienne kirsteniforme
+T68	PROC 2460 2489	technique immunohistochimique
+T69	PROC 2510 2515	étude
+T70	PROC 2535 2552	abord chirurgical
+T71	LIVB 2599 2616	ouvrière porteuse
+T72	LIVB 2736 2739	son
+T73	LIVB 2740 2746	enfant
+T74	DEVI 2772 2796	matériel d'ostéosynthèse
+T75	PROC 2804 2810	admise
+T76	Hospital 2815 2823	urgences
+T77	PROC 2829 2844	prise en charge
+T78	DISO 2851 2920	dysphagie aiguë des paupières cervicales hypogastriques du nouveau-né
+T80	PHEN 2937 2948	allaitement
+T81	PROC 2953 2964	chirurgical
+T82	MEAS 2983 2998	progressivement
+T83	Concept_Idea 3003 3020	paramètres vitaux
+T84	PROC 3036 3051	examen clinique
+T85	TEMP 3063 3073	14/05/2013
+T86	ANAT 3091 3118	orifices herniaires droites
+T87	Localization 3111 3118	droites
+T88	MEAS 3127 3138	bien fermés
+T89	DISO 3144 3162	troubles sensitifs
+T90	DISO 3166 3186	symptômes infectieux
+T91	MEAS 3232 3239	simples
+T92	PROC 3245 3273	antibiothérapie probabiliste
+T93	CHEM 3279 3289	corticoïde
+T94	CHEM 3292 3313	aminosides méthoxylés
+T95	CHEM 3315 3327	vitamine B12
+T96	DOSE 3328 3333	400mg
+T97	TEMP 3333 3338	/jour
+T98	PROC 3352 3376	monitorage échographique
+T99	PROC 3412 3488	thyroïdectomie transoesophagienne scanno-bulbaire endotrachéale exploratrice
+T100	ANAT 3516 3548	vaisseaux thoraciques antérieurs
+T101	Localization 3538 3548	antérieurs
+T102	ANAT 3564 3615	annexe inferieur inferieur fémorale postéro-externe
+T103	Localization 3571 3615	inferieur inferieur fémorale postéro-externe
+T104	ANAT 3637 3658	veine cave inférieure
+T105	Localization 3648 3658	inférieure
+T106	PROC 3665 3705	anastomose termino-interstitielle totale
+T107	PROC 3721 3786	fermeture axiale peropédienne cutanée multilamellaire évacuatrice
+T108	PROC 3805 3835	greffe chirurgicale percutanée
+T109	DISO 3956 3976	lésions infectieuses
+T110	PROC 4025 4065	toilette respiratoire abdomino-pelvienne
+T111	ANAT 4034 4065	respiratoire abdomino-pelvienne
+T112	MEAS 4087 4095	négative
+T113	DISO 4119 4144	fœtale métapneumonéphrile
+T114	DISO 4165 4211	tuberculose chronique idiopathique polymyxoide
+T115	PROC 4266 4293	numération formule sanguine

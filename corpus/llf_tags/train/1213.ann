@@ -1,0 +1,71 @@
+T1	PROC 3 18	examen clinique
+T2	DISO 35 41	fièvre
+T3	MEAS 44 50	38,7°c
+T4	ANAT 58 70	conjonctives
+T5	MEAS 71 78	légères
+T6	DISO 91 119	œdème de l'hémisphére gauche
+T7	ANAT 102 119	hémisphére gauche
+T8	Localization 113 119	gauche
+T9	Concept_Idea 122 131	intensité
+T10	MEAS 132 135	3/6
+T11	ANAT 149 170	plexus brachial droit
+T12	Localization 165 170	droit
+T13	DISO 182 187	signe
+T14	PROC 211 227	examen somatique
+T15	DISO 239 253	particularités
+T16	PROC 258 275	tomodensitométrie
+T17	PROC 277 308	TDM) thoraco abdomino-pelvienne
+T18	ANAT 282 308	thoraco abdomino-pelvienne
+T19	DISO 349 386	masse tissulaire hétérogène polylobée
+T20	MEAS 396 417	environ 5 centimètres
+T21	Concept_Idea 421 430	grand axe
+T22	Concept_Idea 439 447	diamètre
+T23	DISO 471 507	processus tissulaire érythrodermique
+T24	ANAT 532 596	sillons jugulo-carotidiens intra péritonéaux rénaux sous cutanés
+T25	PHEN 664 670	reflux
+T26	PROC 676 704	chimiothérapie néo adjuvante
+T27	DOSE 709 711	1g
+T28	CHEM 715 726	gentamycine
+T29	PROC 740 773	néphrectomie totale scanno-guidée
+T30	Hospital 846 881	structures hospitalo-universitaires
+T31	PROC 903 917	investigations
+T32	MEAS 963 970	simples
+T33	LIVB 987 994	malades
+T34	DISO 1023 1058	symptomatologie médico-chirurgicale
+T35	PROC 1072 1092	transfusion sanguine
+T36	PROC 1122 1134	consultation
+T37	PROC 1219 1248	traitements antihypertenseurs
+T38	DEVI 1278 2027	immunoglobulines intraveineuse injectables insulinodépendantes B12 parentérale Isonicap®; -l'apparition chez certaines patientes d'épisodes convulsifs fébriles récidivants précédés ou suivis immédiatement d'un épisode aigu hémorragique fébrile type rhinopharyngiite infectieuse non résolutif ayant motivé ses prélèvements bactériologiques prophylactiques(Figure 1). Un scanner abdominal réalisé suite à cet épisode invasif mettait en évidence :Une perforation polyptyque mésentérique liquidienne hyperbare occupant toute la grande courbure susocclusale parieto-trachéale postéro-latéro-septale antero-expectorale supérieure droite faisant 11 cm de grand axe adhérente à la région temporale inférieure crico-mandibulaire cervicale bilatérale latérale
+T39	LIVB 1397 1406	patientes
+T40	DISO 1527 1555	rhinopharyngiite infectieuse
+T41	PROC 1587 1632	prélèvements bactériologiques prophylactiques
+T42	PROC 1647 1664	scanner abdominal
+T43	ANAT 1655 1664	abdominal
+T44	DISO 1726 1783	perforation polyptyque mésentérique liquidienne hyperbare
+T45	ANAT 1802 1908	grande courbure susocclusale parieto-trachéale postéro-latéro-septale antero-expectorale supérieure droite
+T46	Localization 1902 1908	droite
+T47	MEAS 1917 1922	11 cm
+T48	Concept_Idea 1926 1935	grand axe
+T49	ANAT 1951 2027	région temporale inférieure crico-mandibulaire cervicale bilatérale latérale
+T51	ANAT 2044 2112	muscle grand pectoral thoracique supérieur inferius basi chancellone
+T54	Localization 2263 2268	rétro
+T55	Localization 2281 2291	postérieur
+T56	DISO 2331 2380	calcifications digitiformes achilléennes kystique
+T57	Concept_Idea 2509 2524	petite courbure
+T58	DISO 2530 2583	micronodules anéchogènes hypergastriques asymétriques
+T59	LIVB 3029 3036	enfants
+T60	DISO 3052 3074	pathologie auto-immune
+T61	DISO 3079 3124	hypertriglycéridémie hétérozygote neutrophile
+T63	ANAT 3160 3306	quadrant supercholestènémien homolatéral proximal lobe inférieur thyroidien gauches fronto-pariéto-intermédial transoesophagien ecclesiastic IgMF2
+T66	DISO 3318 3339	anomalie pathologique
+T67	DISO 3375 3391	syndrome méningé
+T68	DISO 3406 3438	hépato-splénomégalie psoriasique
+T69	DISO 3478 3502	déficit sensitivo-moteur
+T70	PROC 3585 3610	étude immunohistochimique
+T71	DISO 3678 3693	symptomatologie
+T72	DISO 3735 3775	foyers infectieux clinico-biomédiastinés
+T73	Concept_Idea 4031 4053	critères diagnostiques
+T74	PROC 4102 4136	prise en charge neuropsychiatrique
+T75	PROC 4258 4287	investigations thérapeutiques
+T76	PROC 4525 4567	consultations fonctionnelles exploratoires
+T78	MEAS 4695 4697	10

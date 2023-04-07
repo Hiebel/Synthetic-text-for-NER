@@ -1,0 +1,24 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 47 72	antécédents pathologiques
+T3	MEAS 73 81	notables
+T4	PROC 83 88	admis
+T5	Hospital 92 99	urgence
+T6	DISO 109 134	tuméfaction du sein droit
+T7	ANAT 124 134	sein droit
+T8	Localization 129 134	droit
+T9	TEMP 144 160	depuis deux mois
+T10	PROC 164 179	examen clinique
+T11	PROC 184 193	admission
+T12	DISO 213 292	déficit moteur symétrique des muscles paravertébraux axillaires latéro-utérines
+T13	ANAT 243 292	muscles paravertébraux axillaires latéro-utérines
+T14	DISO 311 322	traumatisme
+T15	DISO 328 346	anomalies motrices
+T16	PROC 352 382	échographie abdomino-pélvienne
+T17	ANAT 364 382	abdomino-pélvienne
+T18	PROC 384 387	ETU
+T19	PROC 424 458	reprise chirurgicale préopératoire
+T20	DISO 485 544	masse tumorale kystique hypoechogéante hétérogène hypodense
+T21	MEAS 554 558	6 cm
+T22	Concept_Idea 562 571	grand axe
+T23	ANAT 588 607	structures gynécées
+T24	PHEN 649 659	régulières

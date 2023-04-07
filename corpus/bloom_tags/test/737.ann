@@ -1,0 +1,30 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	12 ans
+T3	LIVB 62 67	frère
+T4	TEMP 75 80	4 ans
+T5	PROC 88 93	admis
+T6	Hospital 98 119	urgences pédiatriques
+T10	TEMP 231 253	depuis plusieurs jours
+T11	MEAS 265 280	progressivement
+T12	Concept_Idea 284 290	volume
+T13	DISO 315 330	symptomatologie
+T14	DISO 348 360	palpitations
+T15	DISO 367 383	troubles visuels
+T16	DISO 394 410	lésions cutanées
+T17	CHEM 426 437	Nicardipril
+T18	DOSE 442 448	200 mg
+T19	MODE 449 460	injectables
+T20	ANAT 485 490	corps
+T21	MEAS 500 504	2 cm
+T22	Concept_Idea 508 517	grand axe
+T23	LIVB 547 555	patiente
+T24	DISO 565 588	localisations kystiques
+T25	PROC 632 648	examen somatique
+T26	DISO 663 684	détresse respiratoire
+T27	PHEN 672 684	respiratoire
+T28	MEAS 711 721	rapprochée
+T29	MEAS 736 750	plus accentuée
+T30	MEAS 844 867	de plus en plus pesante
+T31	DEVI 968 987	sonde nasogastrique
+T33	DISO 1070 1076	tumeur
+T34	DISO 1166 1196	récidive tumorale prurigineuse

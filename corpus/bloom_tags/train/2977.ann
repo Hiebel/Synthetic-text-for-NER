@@ -1,0 +1,30 @@
+T1	LIVB 3 10	patient
+T2	Concept_Idea 27 38	antécédents
+T3	MEAS 39 51	particuliers
+T4	PROC 53 61	consulte
+T5	Hospital 66 74	urgences
+T6	DISO 84 95	tuméfaction
+T7	TEMP 105 121	depuis deux mois
+T8	ANAT 135 145	sein droit
+T9	Localization 140 145	droit
+T10	PHEN 163 180	grosses menstrues
+T11	PROC 184 199	examen clinique
+T12	PROC 204 213	admission
+T13	LIVB 226 233	patient
+T14	MEAS 237 246	assez bon
+T15	Concept_Idea 247 259	état général
+T16	PROC 272 291	bilan préopératoire
+T17	PROC 305 336	échographie abdomino- pelvienne
+T18	ANAT 317 336	abdomino- pelvienne
+T19	DISO 361 421	masse hypo échogène hétérogène tissulaire kystique hypodense
+T20	DISO 425 436	hypertendue
+T21	MEAS 446 451	12 cm
+T22	Concept_Idea 455 464	grand axe
+T23	DEVI 479 500	lambeau transfixiante
+T24	PROC 505 522	geste chirurgical
+T25	PROC 542 566	anesthésie locorégionale
+T26	ANAT 553 566	locorégionale
+T27	PROC 592 617	biopsie exo-anastomotique
+T28	DISO 650 687	pneumo-pancréatite ischémique maligne
+T29	DISO 692 719	épanchement intrapéritonéal
+T30	ANAT 704 719	intrapéritonéal

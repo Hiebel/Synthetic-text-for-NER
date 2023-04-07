@@ -1,0 +1,32 @@
+T1	LIVB 15 22	patient
+T2	MEAS 68 76	notables
+T3	DISO 96 117	détresse respiratoire
+T4	PHEN 105 117	respiratoire
+T5	CHEM 155 168	noradrénaline
+T6	DOSE 170 179	200 µg/kg
+T7	TEMP 179 181	/h
+T8	MODE 183 201	voie intraveineuse
+T9	PROC 205 221	examen somatique
+T10	LIVB 234 240	enfant
+T11	Concept_Idea 265 283	plan hémodynamique
+T12	DISO 304 326	troubles ventilatoires
+T13	TEMP 336 351	depuis 6 heures
+T14	LIVB 358 361	son
+T15	PROC 362 377	hospitalisation
+T16	MEAS 387 391	deux
+T17	LIVB 392 400	patients
+T18	DISO 444 535	adénopathie cervico-thyroïdienne basithyroïdienne laryngo-oeso-trachea-laryngo œsophagienne
+T20	DISO 542 561	pneumo-bradycardies
+T21	DISO 593 600	dyspnée
+T22	DISO 607 618	tachycardie
+T23	DEVI 634 654	poignets digitalisés
+T24	DISO 667 727	tirage abdominocorso-mandibulaire thoraco-axillaire purulacé
+T26	LIVB 789 797	patients
+T27	DISO 845 875	sensibilité thoracique altérée
+T28	ANAT 857 875	thoracique altérée
+T29	DISO 897 922	vomissements alimentaires
+T30	DISO 967 973	sueurs
+T31	MEAS 974 988	macroscopiques
+T32	DISO 1005 1025	diarrhées chroniques
+T33	MEAS 1040 1047	modérée
+T34	PROC 1142 1168	traitement médical curatif

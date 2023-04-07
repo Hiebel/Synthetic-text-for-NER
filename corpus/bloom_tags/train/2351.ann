@@ -1,0 +1,25 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	DISO 63 101	syndrome d'épanchement intrapéritonéal
+T4	ANAT 86 101	intrapéritonéal
+T5	PROC 106 115	admission
+T6	Hospital 139 147	urgences
+T7	Hospital 151 200	Centre Hospitalier universitaire Hassan II de Fès
+T8	PROC 206 230	examens ophtalmologiques
+T9	Concept_Idea 249 264	acuité visuelle
+T10	MEAS 270 274	4/10
+T11	DISO 280 304	défauts sensitivomoteurs
+T12	PROC 317 334	IRM préopératoire
+T13	DISO 362 389	épanchement intrapéritonéal
+T14	ANAT 374 389	intrapéritonéal
+T15	DISO 406 434	pancréatite nécrose tumorale
+T16	DISO 440 480	infiltration parenchymateuse péritonéale
+T17	DISO 484 522	hémorragie bilatérale intrapéritonéale
+T18	Localization 495 505	bilatérale
+T19	ANAT 544 562	paroi pancréatique
+T20	MEAS 572 577	17 cm
+T21	Concept_Idea 581 595	grand diamètre
+T22	MEAS 600 604	16cm
+T23	Concept_Idea 608 617	petit axe
+T24	DISO 669 695	malformations congénitales
+T25	DISO 706 723	lésions kystiques

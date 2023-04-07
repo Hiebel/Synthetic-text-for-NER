@@ -1,0 +1,32 @@
+T1	LIVB 3 14	jeune homme
+T2	DISO 40 53	consanguinité
+T3	DISO 87 110	dyspnée hypertrophiante
+T4	MEAS 125 136	progressive
+T5	TEMP 146 162	depuis deux mois
+T6	MODE 168 178	voie orale
+T7	PROC 195 210	examen clinique
+T8	DISO 227 254	tachycardie orthokaliémique
+T9	MEAS 266 281	progressivement
+T10	Concept_Idea 285 291	volume
+T11	PHEN 317 326	grossesse
+T12	DISO 374 417	syndrome d’épanchement basithoracique droit
+T13	ANAT 397 417	basithoracique droit
+T14	Localization 412 417	droit
+T15	LIVB 453 459	enfant
+T16	DISO 523 555	pathologies thromboemboliquantes
+T17	DISO 656 674	détresse digestive
+T18	PHEN 665 674	digestive
+T19	TEMP 742 747	28 SA
+T20	TEMP 750 755	32 SA
+T21	DISO 784 806	douleurs épigastriques
+T22	ANAT 793 806	épigastriques
+T23	DISO 828 841	inflammatoire
+T24	DISO 864 883	symptômes digestifs
+T25	DISO 892 900	anorexie
+T26	DISO 904 937	déséquilibre hydro-électrolytique
+T27	PROC 1017 1047	échographie abdomino-pelvienne
+T28	ANAT 1029 1047	abdomino-pelvienne
+T29	DISO 1072 1122	hypertrophie hypogastrique cervico utérine altérée
+T31	MEAS 1132 1146	12 centimètres
+T32	Concept_Idea 1150 1159	grand axe
+T34	CHEM 1212 1235	produit de progestérone

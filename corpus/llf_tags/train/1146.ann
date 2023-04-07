@@ -1,0 +1,92 @@
+T1	LIVB 3 10	patient
+T2	PROC 31 42	hospitalisé
+T3	DISO 52 58	fièvre
+T4	TEMP 68 82	depuis 4 jours
+T5	PROC 88 103	examen clinique
+T6	LIVB 107 113	malade
+T7	Concept_Idea 123 135	état général
+T8	MEAS 136 145	désaltéré
+T9	PROC 155 188	examen du membre inférieur gauche
+T10	ANAT 165 188	membre inférieur gauche
+T11	Localization 182 188	gauche
+T12	DISO 195 211	râles crépitants
+T13	PHEN 217 232	bruits du coeur
+T14	MEAS 238 245	normaux
+T15	DISO 264 293	hématome sous dural chronique
+T16	PROC 309 324	examen physique
+T17	DISO 334 347	particularité
+T18	PROC 351 370	électrocardiogramme
+T19	PROC 372 375	ECG
+T20	DISO 402 423	distension abdominale
+T21	ANAT 413 423	abdominale
+T22	Concept_Idea 469 478	fréquence
+T23	MEAS 487 493	20/min
+T24	ANAT 507 525	tronc crico-trapus
+T25	PROC 530 544	toucher rectal
+T26	ANAT 538 544	rectal
+T27	DISO 561 575	déficit moteur
+T28	DISO 579 592	symptomatique
+T29	DISO 602 620	signe neurologique
+T30	PROC 634 658	échographie obstétricale
+T31	DISO 688 725	masse tissulaire hypodense hétérogène
+T32	MEAS 735 740	16 cm
+T33	Concept_Idea 744 753	grand axe
+T34	ANAT 777 787	segment IV
+T35	MEAS 796 800	8 cm
+T36	Concept_Idea 804 813	petit axe
+T37	ANAT 832 850	cavité péritonéale
+T38	Concept_Idea 881 900	limites habituelles
+T40	Localization 960 976	antérieur gauche
+T41	Localization 1034 1053	bilatéral antérieur
+T42	Concept_Idea 1134 1151	extension moyenne
+T43	MEAS 1162 1167	12 cm
+T44	DEVI 1211 1249	matériels d'ostéosynthèse asymétriques
+T45	MEAS 1275 1284	15 /10 cm
+T46	MEAS 1288 1297	17 /10 cm
+T47	PROC 1305 1326	biologie standardisée
+T48	DISO 1341 1361	hypertriglycéridémie
+T49	MEAS 1364 1374	7,6 mmol/l
+T50	DISO 1387 1417	hyperprolactinémie congénitale
+T51	CHEM 1432 1444	antibiotique
+T52	PROC 1500 1516	cholécystectomie
+T54	PROC 2322 2348	hystérectomie exploratrice
+T56	PROC 2434 2512	anastomose segmentaire scanno-hépato-appendiculaire gastroduodénale rétrograde
+T57	ANAT 2528 2598	branches abdominales fundiques distales jugulo-utérines superficielles
+T58	Hospital 2609 2637	structure digestive centrale
+T59	DEVI 2731 2745	fil résorbable
+T60	MEAS 2749 2754	2 ème
+T61	ANAT 2755 2760	tronc
+T62	Localization 2781 2798	moitié supérieure
+T63	ANAT 2803 2816	anses grêlées
+T64	PHEN 2838 2850	circoncision
+T65	DISO 2856 2864	incident
+T66	PROC 2871 2888	retour à domicile
+T67	TEMP 2892 2917	3 ème jour postopératoire
+T68	LIVB 2922 2933	jeune fille
+T69	CHEM 2980 3013	Amoxicilline C1 Acide nalidixique
+T70	CHEM 3016 3056	Erythromycine Gonadotrophine Chorionique
+T71	CHEM 3059 3089	Ciprofloxacine Fludrocortisone
+T72	CHEM 3092 3113	Imidacloprimifentanil
+T73	PROC 3118 3144	examen anatomopathologique
+T74	DISO 3163 3220	léiomyosarcome épidermoïde thyroïdien kystique infiltrant
+T75	Concept_Idea 3230 3249	limites opératoires
+T76	MEAS 3255 3263	normales
+T77	PROC 3269 3298	radiodiagnostic préopératoire
+T79	MEAS 3441 3451	20 x 12 cm
+T80	PROC 3502 3512	dissection
+T81	DISO 3531 3560	récidive locorégionale locale
+T82	PROC 3565 3597	scanner thoraco-abdomino-pelvien
+T83	ANAT 3573 3597	thoraco-abdomino-pelvien
+T84	DISO 3624 3656	métastases métastatiques lobulée
+T85	DISO 3667 3687	signes histologiques
+T86	DISO 3714 3747	remaniements lymphoplasmocytaires
+T87	DISO 3837 3865	maladies neuropsychiatriques
+T88	LIVB 3897 3910	dermatologues
+T89	DISO 3920 3934	neuroleptiques
+T90	DISO 3949 3966	psychose ataxique
+T91	DISO 3989 4000	infectieuse
+T92	Concept_Idea 4019 4039	aspect morphologique
+T93	DISO 4059 4079	symptômes infectieux
+T94	PROC 4103 4124	résection extemporané
+T95	ANAT 4141 4170	nerf laryngé inférieur gauche
+T96	Localization 4164 4170	gauche

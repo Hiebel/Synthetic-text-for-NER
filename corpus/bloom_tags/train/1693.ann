@@ -1,0 +1,52 @@
+T1	LIVB 4 12	patiente
+T2	PROC 32 37	reçue
+T3	Hospital 42 50	urgences
+T4	DISO 78 99	détresse respiratoire
+T5	PHEN 87 99	respiratoire
+T6	MEAS 114 125	progressive
+T7	DISO 151 174	hémoptysies purpuriques
+T8	TEMP 184 197	depuis 3 mois
+T9	DISO 225 258	déshydratation hémorragique aiguë
+T10	PROC 337 345	anamnèse
+T11	LIVB 378 386	patiente
+T12	DISO 396 417	symptômes secondaires
+T13	DISO 435 441	fièvre
+T14	DISO 448 479	syndrome d'épanchement mucineux
+T15	ANAT 471 479	mucineux
+T16	DISO 501 526	douleur pleuro-pulmonaire
+T17	ANAT 509 526	pleuro-pulmonaire
+T18	DISO 570 579	tabagisme
+T19	DISO 609 637	traumatisme cardiovasculaire
+T20	ANAT 621 637	cardiovasculaire
+T21	DISO 866 899	méningo-inflammatoires nodulaires
+T22	PROC 905 943	pression artérielle transoesophagienne
+T23	ANAT 914 943	artérielle transoesophagienne
+T24	MEAS 960 971	100/60 mmHg
+T25	PROC 986 1019	auscultation oeso-gastroduodénale
+T26	ANAT 999 1019	oeso-gastroduodénale
+T27	DISO 1047 1093	souffrance ventriculaire ischémique systolique
+T28	ANAT 1058 1093	ventriculaire ischémique systolique
+T29	PROC 1146 1180	scanner thoracique scannographique
+T30	ANAT 1154 1180	thoracique scannographique
+T31	PROC 1195 1219	anesthésie locorégionale
+T32	ANAT 1206 1219	locorégionale
+T33	DISO 1244 1382	tumeur tissulaire lithiasique pariétale angulo-interstitielle médiastinale thoracique bilatérale infiltro-tissulaire diaphragmatico-barrée
+T34	Localization 1330 1831	bilatérale infiltro-tissulaire diaphragmatico-barrée augmentant progressivement de taille apparue il y a plusieurs années puis devenue de grande taille devenant bien encapsulée arrivant jusqu'à l'épithélium adipeux épithéloide mésenchymateux cervicale œsophagien résiduel susdiaphragmatique postéro-latéral étendu refoulant l'artère cardio-œsophagienne médiane artérialisée pré-aortique carotidienne commune céphalique moyenne cérébrale occipitale classée TT3N0M0R+). Un curage ganglionnaire axillaire
+T35	MEAS 1394 1409	progressivement
+T36	Concept_Idea 1413 1419	taille
+T37	MEAS 1465 1481	de grande taille
+T38	MEAS 1491 1506	bien encapsulée
+T39	PROC 1801 1867	curage ganglionnaire axillaire ganglionnaire locorégional adjuvant
+T41	PROC 1890 1915	étude immunohistochimique
+T42	PROC 1917 1920	IHC
+T43	TEMP 1922 1931	après 48h
+T44	PROC 1934 1949	hospitalisation
+T45	ANAT 1984 2004	plexus hypogastrique
+T46	ANAT 2011 2029	liquide péritonéal
+T47	CHEM 2036 2048	cytokératine
+T48	DEVI 2063 2098	anticorps anti-récepteurs hormonaux
+T49	DISO 2133 2158	adénocarcinome thyroïdien
+T50	LIVB 2163 2171	patiente
+T52	ANAT 2196 2206	pelviennes
+T53	DISO 2235 2249	amaigrissement
+T54	MEAS 2260 2265	14 kg

@@ -1,0 +1,29 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	9 ans
+T3	DISO 54 75	lésions prurigineuses
+T4	ANAT 89 108	sinus frontal droit
+T5	Localization 103 108	droit
+T6	DISO 135 157	anomalies métaboliques
+T8	CHEM 190 209	valproate de sodium
+T9	DISO 223 248	hyponatrémie hypertensive
+T10	DISO 269 310	localisations dermatologiques purpuriques
+T11	TEMP 320 333	depuis 1 mois
+T12	MODE 339 349	voie orale
+T13	MEAS 362 381	lentement favorable
+T14	DEVI 447 471	craniolaires monochambre
+T15	DISO 532 564	paroxysmes hydro-électrolytiques
+T16	TEMP 594 605	une semaine
+T17	DISO 664 689	troubles sensitivomoteurs
+T18	LIVB 804 816	petite fille
+T19	PROC 1040 1055	examen clinique
+T20	DISO 1072 1096	détresse tonico-clinique
+T21	PHEN 1081 1096	tonico-clinique
+T22	DISO 1098 1108	apyrétique
+T23	Concept_Idea 1123 1141	plan hémodynamique
+T24	DISO 1147 1154	fébrile
+T25	MEAS 1157 1161	40°C
+T26	CHEM 1203 1215	prédnisolone
+T27	PROC 1222 1242	asepsie chirurgicale
+T28	DISO 1270 1292	épanchement péritonéal
+T29	ANAT 1282 1292	péritonéal
+T30	DISO 1302 1318	thrombopéritoine

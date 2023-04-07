@@ -1,0 +1,24 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 38 44	10 ans
+T3	DISO 60 80	polyarthrite fébrile
+T4	DISO 108 157	hyperleucocytose purpura hémolytique prurigineuse
+T5	PROC 189 223	bronchoalvéolaire trans-bronchique
+T6	PROC 230 257	recrutement bactériologique
+T7	PROC 272 306	radiothérapie adjuvante palliative
+T8	DOSE 320 324	40Gy
+T9	DOSE 355 359	20Gy
+T10	DISO 473 483	pathologie
+T11	LIVB 503 509	enfant
+T12	DISO 523 536	thrombophilie
+T13	DISO 543 568	surcoagulant plaquettaire
+T14	DISO 584 603	déficit immunitaire
+T15	MEAS 727 735	positifs
+T16	DISO 832 856	proteins C microgestivés
+T17	DISO 1023 1043	prise médicamenteuse
+T18	DISO 1091 1110	arthrite rhumatoïde
+T19	DISO 1116 1166	purpura angulo-myélinisante hyperauto-réticulisant
+T20	MEAS 1208 1219	progressive
+T21	ANAT 1240 1279	parties molles humérales métacarpiennes
+T22	TEMP 1296 1302	12 ans
+T23	MEAS 1371 1379	profonde
+T24	LIVB 1392 1396	elle

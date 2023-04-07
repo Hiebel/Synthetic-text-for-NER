@@ -1,0 +1,28 @@
+T1	LIVB 19 26	patient
+T2	PROC 38 43	admis
+T3	Hospital 48 56	urgences
+T4	DISO 66 77	tuméfaction
+T5	TEMP 87 100	depuis 2 mois
+T6	Localization 117 129	face interne
+T7	ANAT 133 143	sein droit
+T8	Localization 138 143	droit
+T9	PROC 148 165	bilan d'extension
+T10	DISO 177 190	particularité
+T11	PROC 197 227	échographie abdomino-pelvienne
+T12	ANAT 209 227	abdomino-pelvienne
+T13	DISO 240 324	épanchement ganglionnaire périthoracique inféro-scapulaire latéascapsulaire infiltré
+T15	DISO 341 393	métastase périthoracique dorsolatérale des épiploons
+T16	ANAT 351 393	périthoracique dorsolatérale des épiploons
+T17	PROC 397 430	imagerie par résonance magnétique
+T18	PROC 432 435	IRM
+T19	ANAT 437 456	cervico-thoraciques
+T21	MEAS 508 524	de façon intense
+T22	CHEM 531 551	produit de contraste
+T23	MEAS 561 566	46 mm
+T24	Concept_Idea 570 579	grand axe
+T25	ANAT 605 622	surrénalien droit
+T26	Localization 617 622	droit
+T27	DISO 642 663	lésions hypersignales
+T28	ANAT 680 719	espaces sous claviculaires sus-rénaliés
+T29	LIVB 747 755	patiente
+T30	DISO 775 810	neuroendocrine carcinome pituitaire

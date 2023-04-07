@@ -1,0 +1,30 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	DISO 37 47	diabétique
+T4	PROC 53 75	traitement substitutif
+T5	DISO 96 126	douleurs pelviennes chroniques
+T6	ANAT 105 115	pelviennes
+T7	TEMP 136 152	depuis une année
+T8	PROC 156 171	examen physique
+T9	LIVB 184 190	enfant
+T10	MEAS 194 197	bon
+T11	Concept_Idea 198 210	état général
+T12	DISO 216 251	syndrome d'épanchement péricardique
+T13	ANAT 239 251	péricardique
+T14	DISO 257 271	épigastralgies
+T15	PROC 276 299	radiographie du abdomen
+T16	ANAT 292 299	abdomen
+T17	CHEM 305 316	propranolol
+T18	DOSE 318 326	0,5mg/kg
+T19	DISO 362 404	lésion tissulaire hypo-condensée hypodense
+T20	ANAT 420 438	hypochondre gauche
+T21	Localization 432 438	gauche
+T22	DEVI 478 487	injection
+T23	CHEM 491 502	propranolol
+T24	MEAS 512 516	3 cm
+T25	Concept_Idea 520 534	grand diamètre
+T26	MEAS 539 543	4 cm
+T27	Concept_Idea 547 556	petit axe
+T29	ANAT 590 607	sous péritonéales
+T30	ANAT 628 639	flanc droit
+T31	Localization 634 639	droit

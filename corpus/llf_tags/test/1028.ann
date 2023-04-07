@@ -1,0 +1,77 @@
+T1	LIVB 15 25	nourrisson
+T2	TEMP 33 39	8 mois
+T3	PROC 67 89	traitement chirurgical
+T4	CHEM 101 112	corticoïdes
+T5	DISO 152 167	symptomatologie
+T6	TEMP 178 185	2 jours
+T7	PROC 194 203	admission
+T8	DISO 212 228	crise convulsive
+T9	ANAT 242 274	sinus maxillaire supérieur droit
+T10	Localization 269 274	droit
+T11	MEAS 298 302	deux
+T12	ANAT 303 321	champs pulmonaires
+T13	Concept_Idea 366 378	état général
+T14	LIVB 406 413	patient
+T15	CHEM 491 502	corticoïdes
+T16	PROC 508 523	examen clinique
+T17	DISO 547 554	dyspnée
+T18	DISO 572 608	extrasystoles oeso-gastro-duodénales
+T19	ANAT 586 608	oeso-gastro-duodénales
+T20	DISO 623 639	troubles visuels
+T21	DISO 675 707	tuméfaction palpébrale polylobée
+T22	MEAS 717 729	environ 5 cm
+T23	Concept_Idea 733 742	grand axe
+T24	MEAS 751 755	3 cm
+T25	Concept_Idea 759 768	petit axe
+T26	PHEN 774 798	réflexes ostéo-tendineux
+T27	ANAT 783 798	ostéo-tendineux
+T28	MEAS 807 827	légèrement sensibles
+T29	DISO 857 871	déficit moteur
+T30	DISO 881 915	facteur de risque thromboembolique
+T31	PROC 920 936	bilan biologique
+T32	DISO 953 969	hyperleucocytose
+T33	MEAS 972 982	0,5 mmol/l
+T34	MEAS 988 1025	15 fois la limite supérieure OMSN ° 3
+T36	MEAS 1293 1297	32°C
+T37	PROC 1301 1328	numération formule sanguine
+T38	MEAS 1335 1342	normale
+T39	PROC 1345 1363	ionogramme sanguin
+T40	ANAT 1356 1363	sanguin
+T41	DISO 1397 1417	hypertriglycéridemie
+T42	DISO 1427 1446	syndrome infectieux
+T43	TEMP 1513 1515	J1
+T44	TEMP 1518 1521	J10
+T45	TEMP 1536 1545	24 heures
+T46	PROC 1551 1561	opératoire
+T47	PROC 1577 1608	néphrectomie percutanée urgente
+T48	PROC 1646 1658	consultation
+T49	PROC 1672 1708	réanimation préopératoire programmée
+T50	DISO 1731 1744	paragangliome
+T51	PROC 1760 1795	transfusions sanguines parentérales
+T52	MEAS 1828 1838	favorables
+T53	Hospital 1853 1882	structures neurochirurgicales
+T54	PROC 1956 2010	chirurgies cervico-thoraciques digestives pédiatriques
+T55	PROC 2034 2083	séances de rééducation motrice multidisciplinaire
+T56	DISO 2120 2152	tuberculose tuberculeuse maligne
+T57	LIVB 2174 2180	enfant
+T58	DISO 2335 2354	choc anaphylactique
+T59	DEVI 2488 2504	stylo scapulaire
+T60	LIVB 2563 2570	enfants
+T61	LIVB 2690 2707	cousins maternels
+T62	PROC 2724 2762	contractures rhumatismales correctives
+T63	DISO 2832 2863	tuberculose congénitale maligne
+T64	Concept_Idea 2880 2902	critères histologiques
+T65	Concept_Idea 3026 3044	état hémodynamique
+T66	ANAT 3060 3078	anses intestinales
+T67	PHEN 3087 3108	grossesse monofoetale
+T68	TEMP 3119 3125	2 mois
+T69	CHEM 3217 3227	médicament
+T70	PROC 3242 3256	automédication
+T71	MODE 3382 3418	compléments intraveineux injectables
+T72	Concept_Idea 3527 3539	état général
+T73	DISO 3585 3600	dyspnée laryngé
+T74	MEAS 3626 3637	plus pesant
+T75	PROC 3705 3723	traitements locaux
+T76	DOSE 3729 3769	corticoïde–aspirine acide acétique µg/kg
+T77	DOSE 3804 3814	0,5 gramme
+T78	PROC 3850 3873	manœuvres endoscopiques

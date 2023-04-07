@@ -1,0 +1,29 @@
+T1	LIVB 16 21	femme
+T2	DISO 55 74	traumatisme crânien
+T3	PROC 107 132	intervention chirurgicale
+T4	PROC 155 177	résection concomitante
+T5	DISO 184 219	épanchement parenchymateux purulent
+T6	ANAT 196 219	parenchymateux purulent
+T7	ANAT 231 240	œil droit
+T8	Localization 235 240	droit
+T9	PROC 246 311	mise en place d’un boudin d'invagination céphalique transfixiante
+T10	DEVI 265 311	boudin d'invagination céphalique transfixiante
+T11	PHEN 330 351	récidive neurologique
+T12	PROC 356 382	examen anatomopathologique
+T13	ANAT 389 405	pièce opératoire
+T14	PROC 395 405	opératoire
+T15	DISO 427 457	myxome pléomorphe hypertrophié
+T16	ANAT 472 522	angle ptérygo-mandibulo-thyroïdien inférieur droit
+T17	Localization 517 522	droit
+T18	ANAT 536 558	surrénales thyroïdiens
+T19	DISO 577 596	nodules nécrotiques
+T20	LIVB 618 626	patiente
+T21	PROC 668 694	consultation préopératoire
+T22	PROC 700 734	radiothérapie adjuvante palliative
+T23	DISO 789 817	localisation métastapeutique
+T24	PROC 824 860	curage tuberculeux cutanéo-axillaire
+T25	ANAT 831 860	tuberculeux cutanéo-axillaire
+T26	DISO 910 928	nécrose ischémique
+T27	DISO 935 975	envahissement ganglionnaire mésentérique
+T28	PROC 978 1011	imagerie par résonance Magnétique
+T29	PROC 1013 1016	IRM

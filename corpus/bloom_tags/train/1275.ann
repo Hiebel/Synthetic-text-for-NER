@@ -1,0 +1,52 @@
+T1	LIVB 4 12	patiente
+T2	PROC 34 40	admise
+T3	PROC 49 59	diagnostic
+T4	DISO 62 89	épanchement intrapéritonéal
+T5	ANAT 74 89	intrapéritonéal
+T6	TEMP 99 112	depuis 6 mois
+T7	MEAS 131 146	progressivement
+T8	Concept_Idea 150 156	volume
+T9	PROC 162 180	traitement médical
+T10	CHEM 191 204	bêtabloquants
+T11	CHEM 206 240	anti inflammatoires non stéroïdien
+T12	CHEM 242 275	anti-inflammatoire non-stéroïdien
+T13	PROC 291 325	radiothérapie palliative adjuvante
+T14	ANAT 343 361	marges abdominales
+T15	ANAT 378 417	fosse iliaque supra hépato-sigmoïdienne
+T16	Localization 392 397	supra
+T17	Hospital 479 501	urgences chirurgicales
+T18	MEAS 556 568	environ 5 cm
+T19	Concept_Idea 572 581	grand axe
+T20	MEAS 590 594	6 cm
+T21	Concept_Idea 598 606	diamètre
+T22	ANAT 639 672	structures grêliques intestinales
+T23	MEAS 681 686	pT3/4
+T24	DISO 749 772	récidive carcinomateuse
+T25	LIVB 809 817	patiente
+T26	DISO 842 856	choc dépressif
+T27	DOSE 882 887	15 mg
+T28	CHEM 891 916	triamcinolone perindopril
+T29	MEAS 957 971	30 litres/m²/h
+T30	LIVB 978 982	elle
+T31	DISO 1076 1115	syndrome d'épanchement intra péritonéal
+T32	ANAT 1099 1115	intra péritonéal
+T33	DISO 1125 1143	anomalies kystique
+T34	PROC 1251 1272	recherche étiologique
+T35	DISO 1310 1346	ostéochondromatose osténo-tissulaire
+T36	DISO 1380 1425	œdème épithélio-gigantocellulaire purulentiel
+T37	PROC 1539 1555	examen somatique
+T38	DISO 1567 1581	particularités
+T39	PROC 1586 1616	échographie abdomino-pelvienne
+T40	ANAT 1598 1616	abdomino-pelvienne
+T42	ANAT 1718 1739	parenchyme ovovaginal
+T43	DEVI 1793 1811	bandelette plâtrée
+T44	DISO 1865 1908	hyper vascularisation nécrotique sécrétante
+T45	ANAT 1930 1950	grossesse gémellaire
+T46	ANAT 1967 1986	vésicules biliaires
+T47	DISO 2022 2042	kystique lithiasique
+T48	DISO 2076 2103	carcinomatses œsophagiennes
+T49	DISO 2286 2296	nodulaires
+T50	DISO 2324 2336	douloureuses
+T51	DISO 2351 2365	résidu tumoral
+T52	DISO 2438 2470	processus maligne hypertrophiaté
+T53	DISO 2617 2633	pneumo-kystiques

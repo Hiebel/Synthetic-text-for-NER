@@ -1,0 +1,37 @@
+T1	LIVB 29 37	patiente
+T2	TEMP 54 63	nullipare
+T3	MEAS 98 106	notables
+T4	DISO 124 133	tabagisme
+T5	DISO 150 165	symptomatologie
+T6	TEMP 176 184	10 jours
+T7	PROC 193 208	examen clinique
+T8	DISO 236 254	anorexie viscérale
+T9	Concept_Idea 299 311	état général
+T10	MEAS 326 337	progressive
+T11	MODE 361 371	voie orale
+T12	DOSE 384 389	bolus
+T13	CHEM 393 411	méthylprednisolone
+T14	PROC 435 455	échographie vésicale
+T15	ANAT 447 455	vésicale
+T16	LIVB 483 491	patiente
+T17	DISO 496 530	lésion tissulaire hypo échogéantes
+T18	MEAS 539 551	environ 14cm
+T19	Concept_Idea 555 564	grand axe
+T20	ANAT 582 592	col utérin
+T21	DISO 613 625	métastisable
+T22	DISO 691 730	hypertrophie péri-utérine péristaltique
+T23	ANAT 704 730	péri-utérine péristaltique
+T24	MEAS 742 757	progressivement
+T25	Concept_Idea 761 767	taille
+T26	MEAS 777 804	de plus en plus volumineuse
+T27	MEAS 820 832	spontanément
+T28	Concept_Idea 836 842	volume
+T29	MEAS 854 858	75mm
+T30	MEAS 861 866	120mm
+T31	DISO 899 927	défauts kystiques hydatiques
+T32	DISO 1011 1028	sténose pelvienne
+T33	ANAT 1019 1028	pelvienne
+T34	DISO 1061 1087	épanchement basithoracique
+T35	ANAT 1073 1087	basithoracique
+T36	DISO 1105 1160	syndrome d'épanchement pulmonaire basithoraco-liquidien
+T37	ANAT 1128 1160	pulmonaire basithoraco-liquidien

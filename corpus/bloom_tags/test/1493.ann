@@ -1,0 +1,41 @@
+T1	LIVB 3 10	patient
+T2	DISO 40 63	hypertension artérielle
+T3	ANAT 53 63	artérielle
+T4	CHEM 69 86	antihypertenseurs
+T5	PROC 88 99	hospitalisé
+T6	Hospital 103 127	réanimation chirurgicale
+T7	DISO 137 159	céphalées hypertensive
+T8	TEMP 169 187	depuis trois jours
+T9	PROC 191 206	examen clinique
+T10	Concept_Idea 220 238	tension artérielle
+T11	ANAT 228 238	artérielle
+T12	MEAS 241 253	170/100 mmhg
+T13	PHEN 261 280	fréquence cardiaque
+T14	ANAT 271 280	cardiaque
+T15	MEAS 283 309	100 battements par minutes
+T16	PROC 325 341	examen somatique
+T17	DISO 353 366	particularité
+T18	PROC 371 402	radiographie standard du thorax
+T19	ANAT 396 402	thorax
+T20	DISO 419 475	syndrome d'épanchement péricardique latéro-utérine droit
+T21	ANAT 442 475	péricardique latéro-utérine droit
+T22	Localization 470 475	droit
+T23	DISO 504 590	opacification pleuro-pulmonaire basithoracique bilatérale droite tissulaire hétérogène
+T24	ANAT 518 590	pleuro-pulmonaire basithoracique bilatérale droite tissulaire hétérogène
+T26	MEAS 600 605	11 cm
+T27	Concept_Idea 609 618	grand axe
+T28	MEAS 623 627	12cm
+T29	Concept_Idea 631 640	petit axe
+T30	PROC 655 683	tomodensitométrie thoracique
+T31	ANAT 673 683	thoracique
+T33	DISO 724 762	processus tumoral basithoracique droit
+T34	ANAT 742 762	basithoracique droit
+T35	Localization 757 762	droit
+T36	PROC 795 821	injection intrarachidienne
+T37	CHEM 825 845	produit de contraste
+T38	ANAT 866 901	parenchyme hyo-thyro-cervico-dorsal
+T39	MEAS 927 937	régulières
+T40	LIVB 967 975	patiente
+T41	DISO 985 1022	adénopathies cerviculo-hypophagiennes
+T42	ANAT 998 1022	cerviculo-hypophagiennes
+T43	DISO 1033 1076	localisations secondaires thromboemboliques

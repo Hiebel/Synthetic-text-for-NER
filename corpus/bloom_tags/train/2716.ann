@@ -1,0 +1,25 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 41 66	antécédents pathologiques
+T3	MEAS 67 79	particuliers
+T4	PROC 81 87	admise
+T5	Hospital 92 100	urgences
+T6	DISO 119 132	épigastralgie
+T7	MEAS 147 158	progressive
+T8	DISO 175 200	vomissements alimentaires
+T9	PROC 204 224	examen gynécologique
+T10	PHEN 238 247	grossesse
+T11	TEMP 257 274	depuis 4 semaines
+T12	ANAT 288 298	col utérin
+T13	PROC 302 332	auscultation cardio-vasculaire
+T14	ANAT 315 332	cardio-vasculaire
+T15	MEAS 339 346	normale
+T16	PROC 352 382	échographie abdomino-pelvienne
+T17	ANAT 364 382	abdomino-pelvienne
+T18	DISO 416 459	adénocarcinome hypovaginal hypo-vascularisé
+T19	MEAS 469 474	30 cm
+T20	Concept_Idea 478 487	grand axe
+T21	MEAS 492 497	10 cm
+T22	Concept_Idea 501 514	petite taille
+T23	ANAT 529 545	paroi abdominale
+T24	ANAT 562 596	aires ganglionnaires cerviculaires
+T25	DISO 613 625	métanéphrine

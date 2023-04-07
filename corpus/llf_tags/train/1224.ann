@@ -1,0 +1,69 @@
+T1	LIVB 3 13	nourrisson
+T2	TEMP 21 28	13 mois
+T3	PROC 35 40	admis
+T4	Hospital 45 66	urgences pédiatriques
+T5	DISO 86 99	pré éclampsie
+T6	TEMP 109 123	depuis 6 jours
+T7	PROC 135 153	geste obstétricale
+T8	DISO 192 210	dysphonie laryngée
+T9	PHEN 256 268	accouchement
+T10	PROC 291 306	examen clinique
+T11	LIVB 337 347	nouveau-né
+T12	Concept_Idea 358 391	caractéristiques comportementales
+T13	DISO 425 437	désobéissant
+T14	Concept_Idea 443 455	état général
+T15	MEAS 462 468	stable
+T16	MEAS 504 512	notables
+T17	DISO 548 561	consanguinité
+T18	DISO 571 587	déficit affectif
+T19	PROC 593 602	admission
+T20	LIVB 608 614	enfant
+T21	DISO 641 662	sensations délirantes
+T22	TEMP 676 693	6 heures plus tôt
+T23	LIVB 811 815	mère
+T24	TEMP 909 918	24 heures
+T25	TEMP 922 930	7 heures
+T26	DISO 1013 1036	agitation psychomotrice
+T27	DISO 1162 1188	symptomatologie dépressive
+T28	PROC 1299 1320	contrôle locorégional
+T29	Concept_Idea 1572 1596	comportement alimentaire
+T30	Concept_Idea 1657 1684	habitudes socio-culturelles
+T31	PROC 2093 2127	exploration fonctionnelle générale
+T32	PROC 2169 2200	tonus staturo-pondéral cervical
+T33	ANAT 2175 2200	staturo-pondéral cervical
+T34	MEAS 2267 2308	60 mm×40 mmx50 mm x80 mmmm hgcm≤0,8 mEq/L
+T35	DISO 2337 2366	distension pharyngo-trachéale
+T36	MEAS 2378 2393	progressivement
+T37	MEAS 2411 2432	difficilement audible
+T38	DISO 2523 2546	extrasystoles digestifs
+T39	PHEN 2706 2718	respiratoire
+T40	LIVB 2857 2865	patiente
+T41	Hospital 2901 2909	urgences
+T42	DISO 2918 2945	syndrome obstructif fébrile
+T43	Concept_Idea 2967 2979	état général
+T44	DISO 2992 3009	signes infectieux
+T45	DISO 3032 3038	fièvre
+T46	DISO 3048 3062	déshydratation
+T47	PROC 3066 3080	interrogatoire
+T48	LIVB 3115 3120	homme
+T49	LIVB 3182 3212	saveur correcteur orthopédique
+T50	LIVB 3263 3266	lui
+T51	DISO 3271 3294	hallucinations tactiles
+T52	DEVI 3334 3344	téléphones
+T53	TEMP 3406 3415	deux mois
+T54	LIVB 3438 3446	patiente
+T55	CHEM 3458 3480	dérivés glycoténulants
+T56	PROC 3609 3629	consultation externe
+T57	DISO 3686 3714	troubles neuropsychiatriques
+T58	PROC 3744 3763	enquête étiologique
+T59	PROC 3780 3798	thérapie adjuvante
+T60	Localization 3803 3814	postérieure
+T61	TEMP 3879 3896	quelques semaines
+T62	Concept_Idea 4000 4027	caractères épidémiologiques
+T63	PROC 4047 4060	radiologiques
+T64	Concept_Idea 4121 4142	présentation clinique
+T65	PROC 4202 4240	chimiothérapie palliative concomitante
+T66	PROC 4256 4289	oxygénothérapie substitutionnelle
+T67	DISO 4344 4365	détresse respiratoire
+T68	PHEN 4353 4365	respiratoire
+T69	DISO 4387 4399	stridorrhées

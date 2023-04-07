@@ -1,0 +1,49 @@
+T1	LIVB 4 9	femme
+T2	MEAS 34 38	deux
+T3	LIVB 39 46	enfants
+T4	DISO 89 112	hypertension artérielle
+T5	ANAT 102 112	artérielle
+T6	TEMP 122 133	depuis 3ans
+T7	PROC 145 167	traitement substitutif
+T8	LIVB 242 263	familles consanguines
+T9	CHEM 282 309	dérivés hydroxyprogestérone
+T10	CHEM 320 346	hormones hyperglycémiantes
+T11	MEAS 433 446	bien tolérées
+T12	DISO 524 545	maladies auto-immunes
+T13	LIVB 589 596	clients
+T14	LIVB 936 941	homme
+T15	MEAS 965 969	cinq
+T16	LIVB 970 977	enfants
+T17	MEAS 1109 1114	29 kg
+T18	ANAT 1793 1803	rein droit
+T19	Localization 1798 1803	droit
+T20	PROC 1808 1827	suivi préopératoire
+T21	PROC 1849 1874	néphrectomie exploratrice
+T22	PROC 1883 1911	scanner du pancréas cervical
+T23	ANAT 1894 1911	pancréas cervical
+T24	TEMP 1913 1933	deux mois auparavant
+T25	Concept_Idea 1960 1963	cas
+T26	MEAS 1964 1974	similaires
+T27	DISO 1980 1990	métastases
+T28	DISO 1994 2019	signes histopathologiques
+T29	DISO 2035 2074	carcinome épidermoïde polypoïde maligne
+T30	PHEN 2124 2142	contage thyroïdien
+T31	ANAT 2132 2142	thyroïdien
+T32	PROC 2194 2219	transfusion intraveineuse
+T33	DISO 2250 2306	métastase tubulaire métastatique tumorale carcinomateuse
+T34	PROC 2327 2344	contrôle adjuvant
+T35	PROC 2382 2390	exsortie
+T36	PROC 2396 2424	chimiothérapie néo adjuvante
+T37	PROC 2438 2465	consultation postopératoire
+T38	PROC 2481 2517	prise en charge médicale ambulatoire
+T39	PROC 2528 2545	geste chirurgical
+T40	PROC 2551 2577	tumorectomie scanno-guidée
+T41	DEVI 2612 2637	annexes cutanées rectales
+T42	ANAT 2657 2680	lèvre antérieure droite
+T43	Localization 2663 2680	antérieure droite
+T44	PROC 2713 2723	visualisés
+T45	DISO 2784 2819	complications hémodynamiques aiguës
+T46	PROC 2856 2866	extraction
+T47	MEAS 2898 2908	favorables
+T48	TEMP 2953 2964	10 semaines
+T49	DISO 2990 3009	symptôme infectieux

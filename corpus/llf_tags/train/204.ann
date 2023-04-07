@@ -1,0 +1,28 @@
+T1	LIVB 19 26	patient
+T2	PROC 51 62	hospitalisé
+T3	Hospital 67 88	urgences pédiatriques
+T4	Hospital 92 99	CHU/JRA
+T5	DISO 115 135	douleurs abdominales
+T6	ANAT 124 135	abdominales
+T7	TEMP 145 165	depuis deux semaines
+T8	DISO 182 211	symptômes neuropsychiatriques
+T9	DISO 226 247	sensations délirantes
+T10	PROC 279 308	prise en charge psychiatrique
+T11	DISO 321 345	trouble psychotique aigu
+T12	LIVB 349 351	il
+T13	PROC 379 394	hospitalisation
+T14	LIVB 449 459	nouveau-né
+T15	DISO 531 554	hallucinations tactiles
+T16	PROC 712 727	examen clinique
+T17	LIVB 749 760	jeune homme
+T18	DISO 818 834	idées délirantes
+T19	DISO 841 873	agitation psychomotrice maniaque
+T20	LIVB 1047 1054	patient
+T21	DISO 1072 1111	accident vasculaire cérébral ischémique
+T22	PROC 1177 1191	interrogatoire
+T23	CHEM 1258 1294	céphalopharynxythopneumoniae sodique
+T24	DISO 1332 1361	crise convulsive hypertensive
+T25	DISO 1377 1411	hypertension artérielle systolique
+T26	MEAS 1422 1431	176mmol/l
+T27	MEAS 1454 1465	555 grammes
+T28	MEAS 1469 1472	4kg

@@ -1,0 +1,34 @@
+T1	LIVB 16 21	femme
+T2	DISO 81 104	hypothyroïdie nodulaire
+T3	PROC 110 154	tomodensitométrie thoraco-abdomino-pelvienne
+T4	ANAT 128 154	thoraco-abdomino-pelvienne
+T5	MEAS 177 183	grosse
+T6	DISO 184 236	masse hypo échogéne du quadrant supéro-latéral droit
+T7	ANAT 207 236	quadrant supéro-latéral droit
+T8	Localization 231 236	droit
+T9	MEAS 246 251	96 mm
+T10	MEAS 275 279	97mm
+T11	TEMP 307 320	depuis 3 mois
+T12	PROC 325 349	scanner abdomino pelvien
+T13	ANAT 333 349	abdomino pelvien
+T14	PROC 372 391	bilan préopératoire
+T15	PROC 404 424	échographie mammaire
+T16	ANAT 416 424	mammaire
+T17	MEAS 441 449	normales
+T18	PROC 464 489	ponction liquide vaginale
+T19	ANAT 473 489	liquide vaginale
+T20	MEAS 496 504	positive
+T21	DOSE 506 1136	1285 UI/ml). L'examen anatomopathologique avait conclu à un adénocarcinome urothelial inféro-giganto-cellulaire infiltrant tous les repaires musculaires périssurrénaliennes faisant évoquer chez cette parturiente l´origine probable sous-jacente siégeant dans le sinus vésiculaire cervico-caudale par voie biliaire conjuguée secondaire alors que son origine endovasculaire restait envisageable surtout face aux données radiographiques suggérant elle se localiserait avant tout ailleurs afin qu´il soit retenu finalement celui d´un envahissement métastatique thyroulo-hypophysaire vu ses suites opératoires simples, propranolol 20 mg
+T22	PROC 521 547	examen anatomopathologique
+T23	DISO 566 617	adénocarcinome urothelial inféro-giganto-cellulaire
+T24	LIVB 706 717	parturiente
+T25	ANAT 767 800	sinus vésiculaire cervico-caudale
+T26	DISO 1035 1083	envahissement métastatique thyroulo-hypophysaire
+T27	PHEN 1091 1109	suites opératoires
+T28	MEAS 1110 1117	simples
+T29	CHEM 1119 1130	propranolol
+T30	MODE 1137 1156	voie intra veineuse
+T31	CHEM 1159 1174	méthoxifentanil
+T32	DOSE 1175 1186	0,5 µmol/m²
+T33	Localization 1370 1377	médiane
+T34	DISO 1465 1488	récidive carcinomateuse

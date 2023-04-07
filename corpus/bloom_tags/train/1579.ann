@@ -1,0 +1,26 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	4 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 87	consultait
+T6	Hospital 92 113	urgences pédiatriques
+T7	DISO 123 148	vomissements alimentaires
+T8	TEMP 158 174	depuis 48 heures
+T9	DISO 190 211	détresse respiratoire
+T10	PHEN 199 211	respiratoire
+T11	PROC 215 230	examen clinique
+T12	Concept_Idea 241 246	poids
+T13	MEAS 250 255	15 kg
+T14	Concept_Idea 263 269	taille
+T15	MEAS 273 278	70 cm
+T16	ANAT 280 292	sexe féminin
+T17	PROC 298 328	radiographie standard du coude
+T18	ANAT 323 328	coude
+T19	DISO 351 391	pneumo-radiculonévrite ostéo-condensante
+T20	ANAT 404 426	membre supérieur droit
+T21	Localization 421 426	droit
+T22	PROC 431 465	ponction liquide céphalo-rachidien
+T23	ANAT 440 465	liquide céphalo-rachidien
+T24	CHEM 489 508	hémoglobine glyquée
+T25	MEAS 511 519	1,2 g/dl
+T26	DISO 543 564	troubles métaboliques

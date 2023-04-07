@@ -1,0 +1,44 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	3 ans
+T3	Concept_Idea 37 62	antécédents pathologiques
+T4	MEAS 63 75	particuliers
+T5	PROC 77 83	admise
+T6	Hospital 88 109	urgences pédiatriques
+T8	ANAT 128 148	abdomino- pelviennes
+T9	CHEM 161 174	bêtaméthasone
+T10	TEMP 187 200	depuis 6 mois
+T11	PROC 204 219	examen clinique
+T12	DISO 236 282	paralysie du fléchisseur utéro-myometrorragnel
+T14	PHEN 299 320	contractions utérines
+T15	ANAT 312 320	utérines
+T16	DISO 376 403	masse polylobée douloureuse
+T17	MEAS 415 430	progressivement
+T18	Concept_Idea 434 440	taille
+T19	MEAS 450 453	5cm
+T20	MEAS 458 461	1cm
+T21	Concept_Idea 464 470	aspect
+T22	MEAS 471 479	homogène
+T23	Concept_Idea 506 522	plan superficiel
+T24	PROC 527 557	auscultation cardio-vasculaire
+T25	ANAT 540 557	cardio-vasculaire
+T26	ANAT 600 625	ventriculo-trochantériens
+T27	LIVB 648 652	elle
+T28	MODE 673 683	voie orale
+T29	PROC 689 725	tomodensitométrie abdomino-pelvienne
+T30	ANAT 707 725	abdomino-pelvienne
+T31	PROC 741 750	admission
+T32	DISO 764 796	opacité pulmonaire latérale dure
+T33	ANAT 772 796	pulmonaire latérale dure
+T34	Localization 792 796	dure
+T35	ANAT 815 843	fosse para-thoracique droite
+T36	Localization 837 843	droite
+T37	DEVI 873 896	sonde nasofibroscopique
+T39	DISO 926 961	localisations nodulaires angineuses
+T40	DISO 974 1022	syndrome d'épanchement intrarétinien ischémateux
+T41	ANAT 997 1022	intrarétinien ischémateux
+T42	DISO 1051 1072	souffrance rétinienne
+T43	ANAT 1062 1072	rétinienne
+T44	DISO 1086 1157	circulation sinusiencellulaire mésentérique infra-rétinienne épiploïque
+T46	DISO 1163 1188	thrombocytose congénitale
+T47	LIVB 1277 1285	patiente
+T48	DISO 1299 1325	troubles sensitivomooteurs

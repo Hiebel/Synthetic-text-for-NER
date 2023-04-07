@@ -1,0 +1,31 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 24 30	14 ans
+T3	PROC 35 47	hospitalisée
+T4	Hospital 52 77	urgences ophtalmologiques
+T5	DISO 96 110	amaigrissement
+T6	MEAS 121 126	17 kg
+T7	CHEM 163 180	méthylpropranolol
+T8	DOSE 181 185	4 mg
+T9	MODE 187 193	per os
+T10	CHEM 206 224	hydroxychloroquine
+T11	DEVI 297 316	seringue électrique
+T12	PROC 329 357	nasofibroscopie chirurgicale
+T13	PROC 370 400	massage vasculo-nerveux cutané
+T14	ANAT 378 400	vasculo-nerveux cutané
+T15	LIVB 513 519	enfant
+T16	PROC 531 547	rentrée scolaire
+T17	LIVB 554 556	on
+T18	DISO 647 676	syndrome méningo-syphilitique
+T19	DISO 863 882	épanchement pleural
+T20	ANAT 875 882	pleural
+T21	DISO 969 1005	traumatisme abdomino-iléo péritonéal
+T22	ANAT 981 1005	abdomino-iléo péritonéal
+T23	DISO 1018 1034	signes cliniques
+T24	DISO 1065 1088	symptômes neurologiques
+T25	Concept_Idea 1192 1204	état général
+T26	LIVB 1208 1212	elle
+T27	DISO 1529 1562	syndrome néphrotique hypertensive
+T28	ANAT 1745 1766	substance sécrétrante
+T29	ANAT 2003 2021	membres inférieurs
+T30	LIVB 2317 2343	parents maternels/filleuls
+T31	PHEN 2443 2463	grossesse gémellaire

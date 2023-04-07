@@ -1,0 +1,34 @@
+T1	PROC 3 20	bilan étiologique
+T2	PROC 50 76	étude immuno-histochimique
+T3	Concept_Idea 82 91	résultats
+T4	DISO 112 147	carcinome éosinophile carcinomateux
+T5	ANAT 154 168	paroi vésicale
+T6	ANAT 183 194	rein gauche
+T7	Localization 188 194	gauche
+T8	MEAS 204 210	légère
+T9	DISO 226 261	adénopathies réticulo-mandibulaires
+T10	ANAT 239 261	réticulo-mandibulaires
+T11	PHEN 268 295	fonctionnement psychomoteur
+T12	MEAS 296 308	satisfaisant
+T13	LIVB 313 321	patiente
+T14	CHEM 338 369	amoxicilline acide clavulanique
+T15	DOSE 371 379	1 gramme
+T16	TEMP 379 384	/jour
+T17	CHEM 387 397	céfotaxime
+T18	CHEM 399 428	triméthoprimesulfaméthoxazole
+T19	DOSE 430 436	0,5 ml
+T20	TEMP 436 438	/j
+T21	CHEM 443 454	vincristine
+T22	DOSE 456 462	450 mg
+T23	TEMP 462 464	/j
+T24	PROC 479 493	bilan clinique
+T25	DISO 503 516	particularité
+T26	PROC 522 547	chimiothérapie palliative
+T27	MODE 552 570	voie intraveineuse
+T28	PROC 584 623	néphrectomie exploratrice scanno-guidée
+T29	MEAS 688 698	favorables
+T30	LIVB 785 793	patiente
+T31	Concept_Idea 815 841	activités professionnelles
+T32	PROC 870 902	prise en charge médicale urgente
+T33	Hospital 906 956	centre Hospitalier Universitaire Yalgado Ouédraogo
+T34	Hospital 970 1001	urgences médicales pédiatriques

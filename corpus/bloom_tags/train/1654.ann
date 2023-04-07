@@ -1,0 +1,31 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 73 78	admis
+T6	Hospital 82 89	urgence
+T7	DISO 99 128	douleurs épigastriques aiguës
+T8	ANAT 108 121	épigastriques
+T9	TEMP 138 151	depuis 3 mois
+T10	DISO 168 174	fièvre
+T11	PROC 191 206	examen clinique
+T12	LIVB 219 225	enfant
+T13	Concept_Idea 250 268	plan hémodynamique
+T14	PHEN 272 284	respiratoire
+T15	DISO 302 328	tuméfaction du flanc droit
+T16	ANAT 317 328	flanc droit
+T17	Localization 323 328	droit
+T18	DISO 348 383	urétéro-hydronéphrose néphrotérante
+T19	DISO 423 440	neurolymphangiome
+T20	PROC 445 469	scanner abdomino-pelvien
+T21	ANAT 453 469	abdomino-pelvien
+T22	DISO 497 561	masse tumorale tissulaire hypodense hétérogène hypo-vascularisée
+T23	MEAS 571 576	12 cm
+T24	Concept_Idea 580 589	grand axe
+T25	ANAT 615 631	parois vaginales
+T26	ANAT 646 666	utérus utéro-vaginal
+T27	PROC 702 711	injection
+T28	CHEM 715 735	produit de contraste
+T29	ANAT 757 795	corps vertébraux cervico-mésentériques
+T30	ANAT 814 839	méso-basilaire péritonéal
+T31	DISO 859 908	métastases parathyroïdiennes angulo-surrénalienne

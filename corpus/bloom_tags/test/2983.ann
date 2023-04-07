@@ -1,0 +1,44 @@
+T1	LIVB 4 12	patiente
+T2	Localization 29 39	bilatérale
+T3	PROC 46 58	hospitalisée
+T4	Hospital 62 84	service de réanimation
+T5	Hospital 88 108	CHU Hassan II de Fès
+T6	DISO 118 148	pneumo-interstitiels purulents
+T7	TEMP 158 176	depuis trois jours
+T8	MEAS 195 210	progressivement
+T9	Concept_Idea 214 220	volume
+T10	MEAS 230 242	plus marqués
+T11	DISO 265 295	sensibilité abdomino-pelvienne
+T12	ANAT 277 295	abdomino-pelvienne
+T13	MEAS 310 332	rapidement progressive
+T14	PROC 337 353	bilan infectieux
+T15	PROC 355 358	CRP
+T16	PROC 373 400	numération formule sanguine
+T17	MEAS 409 417	négatifs
+T18	PROC 422 444	biologie préopératoire
+T19	PROC 458 466	natrémie
+T20	MEAS 469 478	135 meq/l
+T21	PROC 484 492	kaliémie
+T22	MEAS 495 504	2,6 meq/l
+T23	PROC 507 528	échographie pelvienne
+T24	ANAT 519 528	pelvienne
+T25	DEVI 542 547	sonde
+T26	MEAS 548 560	bien limitée
+T27	MEAS 569 581	environ 2 cm
+T28	Concept_Idea 585 594	grand axe
+T29	ANAT 626 641	parois utérines
+T30	DISO 688 702	organomégalies
+T31	DISO 713 736	anomalies malformatives
+T32	DISO 758 794	myometre polymyomateux kystadémateux
+T33	LIVB 825 833	patiente
+T34	MEAS 923 930	18/10cm
+T35	MEAS 934 940	15/5mm
+T36	Concept_Idea 984 992	longueur
+T37	ANAT 1013 1042	parties molles latéroutérines
+T38	ANAT 1086 1115	susthoracique cœliosigmoïdien
+T39	CHEM 1167 1181	métaxonéphrine
+T40	DOSE 1183 1190	50µg/m²
+T41	CHEM 1207 1218	propranolol
+T42	DOSE 1219 1227	0,5mg/kg
+T43	PROC 1234 1264	tomodensitométrie obstétricale
+T44	PROC 1265 1270	TO-DO

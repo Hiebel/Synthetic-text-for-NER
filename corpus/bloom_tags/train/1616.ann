@@ -1,0 +1,17 @@
+T1	LIVB 19 26	patient
+T2	PROC 42 48	traité
+T3	DISO 58 69	tuberculose
+T4	ANAT 74 80	épaule
+T5	PROC 92 97	admis
+T6	Hospital 101 116	bloc opératoire
+T7	DISO 133 154	détresse respiratoire
+T8	PHEN 142 154	respiratoire
+T9	PROC 158 183	intervention chirurgicale
+T10	PROC 204 221	anesthésie locale
+T11	CHEM 230 240	sufentanil
+T12	DOSE 242 251	0,4 µg/kg
+T13	TEMP 251 253	/j
+T14	MEAS 259 263	deux
+T16	Localization 325 338	face latérale
+T17	Concept_Idea 355 383	résultat anatomopathologique
+T18	DISO 406 447	myxométacôlonulonéphrine méningo-primaire

@@ -1,0 +1,84 @@
+T1	LIVB 18 23	homme
+T2	Concept_Idea 44 55	antécédents
+T3	MEAS 56 68	particuliers
+T4	DISO 87 115	accident vasculaire cérébral
+T5	ANAT 107 115	cérébral
+T6	Concept_Idea 128 131	âge
+T7	DISO 154 159	chute
+T8	LIVB 199 202	lui
+T9	DISO 207 226	choc anaphylactique
+T10	PROC 230 245	examen clinique
+T11	ANAT 275 297	membre inférieur droit
+T12	Localization 292 297	droit
+T13	DISO 302 329	masse tissulaire hétérogène
+T14	MEAS 334 342	sensible
+T15	MEAS 351 355	6 cm
+T16	Concept_Idea 359 368	grand axe
+T17	MEAS 378 391	3 centimètres
+T18	Concept_Idea 395 403	diamètre
+T19	PROC 457 472	examen physique
+T20	DISO 482 495	particularité
+T21	PROC 500 524	bilan neuropsychiatrique
+T22	DISO 543 563	récidive traumatique
+T23	DISO 573 592	trouble psychotique
+T24	PHEN 613 632	épisodes menstruels
+T25	PROC 648 687	tomodensitométrie par cohérence optique
+T26	PROC 689 719	TDM) thoraco-abdominopelvienne
+T27	ANAT 694 719	thoraco-abdominopelvienne
+T28	DISO 742 809	lésion kystique cutanéo-kystique cervico-mandibulaire hypogastrique
+T29	ANAT 839 861	fosses iliaque gauches
+T30	Localization 854 861	gauches
+T31	ANAT 881 910	paupières jugulocarotidiennes
+T32	ANAT 933 957	carrefour crico-trachéal
+T33	ANAT 977 1020	région périventriculaire supra mandibulaire
+T34	Localization 1002 1020	supra mandibulaire
+T35	ANAT 1035 1132	branches sus trochantéro-hépatique inférieure postéro-inférieure postéro-latéral supérieur gauche
+T37	Localization 1126 1132	gauche
+T38	DEVI 1150 1165	visière tibiale
+T39	ANAT 1208 1219	tissus mous
+T40	DISO 1241 1266	ostéosynthèse asymétrique
+T41	ANAT 1284 1306	plan sous claviculaire
+T42	ANAT 1338 1373	membranes intracrânio-claviculaires
+T43	MEAS 1455 1462	simples
+T44	PROC 1469 1497	prise en charge chirurgicale
+T45	PROC 1514 1542	consultation ophtalmologique
+T46	PROC 1566 1599	contrôle oto-rhino-laryngologique
+T47	PROC 1626 1652	radiothérapie concomitante
+T48	CHEM 1658 1672	neuroleptiques
+T49	CHEM 1675 1686	antalgiques
+T50	PROC 1700 1752	néphrostomie totale axillaire percutanée fractionnée
+T51	PROC 1768 1814	antibioprophylaxie antibiotique postopératoire
+T52	PROC 1821 1845	examens bactériologiques
+T53	ANAT 2907 2916	œil droit
+T54	Localization 2911 2916	droit
+T55	LIVB 2925 2931	enfant
+T56	TEMP 2939 2944	9 ans
+T57	DISO 2959 2986	traumatisme du bouche doigt
+T58	ANAT 2974 2986	bouche doigt
+T59	DISO 2998 3043	accident vasculaire cervico-thoraco-abdominal
+T60	ANAT 3018 3043	cervico-thoraco-abdominal
+T61	PROC 3103 3170	chirurgie des deux clavicules intracrâniennes pariéto-mandibulaires
+T62	MEAS 3117 3121	deux
+T63	ANAT 3122 3170	clavicules intracrâniennes pariéto-mandibulaires
+T64	Concept_Idea 3181 3190	technique
+T65	DISO 3304 3342	décompensation sensitivo-réactionnelle
+T66	DISO 3355 3364	symptômes
+T67	PHEN 3417 3432	acuité visuelle
+T68	PROC 3449 3458	admission
+T69	Hospital 3463 3491	soins intensifs pédiatriques
+T70	PROC 3497 3525	prise en charge chirurgicale
+T71	LIVB 3552 3559	patient
+T72	TEMP 3567 3573	10 ans
+T73	LIVB 3660 3670	nouveau-né
+T74	DISO 3775 3789	perte auditive
+T75	DISO 3806 3813	maladie
+T76	DISO 3883 3929	paralysie faciale rétrotemporo temporale aiguë
+T77	LIVB 3951 3954	son
+T78	LIVB 3955 3959	père
+T79	PROC 4009 4034	examen neuropsychiatrique
+T80	PROC 4061 4067	séjour
+T81	DISO 4102 4109	lésions
+T82	LIVB 4144 4147	lui
+T83	LIVB 4151 4153	sa
+T84	LIVB 4154 4164	belle-sœur
+T85	TEMP 4173 4179	12 ans

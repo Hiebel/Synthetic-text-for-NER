@@ -1,0 +1,31 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 45 76	antécédents médico-chirurgicaux
+T3	MEAS 77 89	particuliers
+T4	PROC 93 117	exploration chirurgicale
+T5	PROC 133 140	exérèse
+T6	DISO 158 192	adénocarcinome grêlo-granulomateux
+T7	ANAT 173 192	grêlo-granulomateux
+T9	Concept_Idea 211 220	grand axe
+T10	MEAS 234 239	20 mm
+T11	Concept_Idea 243 251	diamètre
+T12	MEAS 256 260	12mm
+T13	Concept_Idea 264 274	profondeur
+T14	DEVI 291 306	sonde gastrique
+T16	PROC 340 364	biopsies complémentaires
+T17	LIVB 423 427	nous
+T18	PROC 447 471	anesthésie locorégionale
+T19	PROC 477 523	curage axillaire ganglionnaire cervico-vaginal
+T20	ANAT 484 523	axillaire ganglionnaire cervico-vaginal
+T21	PROC 530 549	aspiration initiale
+T22	DOSE 553 557	40ml
+T23	CHEM 561 581	produit de contraste
+T24	PROC 648 678	échographie abdomino-pelvienne
+T25	ANAT 660 678	abdomino-pelvienne
+T26	DISO 697 806	hernie colique grêlo-ganglionnaire latérocervicale mésentérique pariétale biliaire anévrismateuse sécrétrante
+T28	ANAT 827 847	fosse iliaque droite
+T29	Localization 841 847	droite
+T30	DISO 912 934	tuberculose pulmonaire
+T31	ANAT 924 934	pulmonaire
+T32	DISO 944 977	pathophysiologie thromboembolique
+T33	TEMP 987 1000	depuis 6 mois
+T34	Hospital 1020 1067	service d'accueil des urgences ophtalmologiques

@@ -1,0 +1,34 @@
+T1	LIVB 3 10	patient
+T2	DISO 27 52	antécédents pathologiques
+T3	MEAS 53 61	notables
+T4	PROC 63 71	consulte
+T5	Hospital 76 84	urgences
+T6	DISO 94 121	douleurs abdominales aiguës
+T7	ANAT 103 114	abdominales
+T8	DISO 151 172	diarrhée hypertensive
+T9	TEMP 182 198	depuis deux mois
+T10	PROC 202 217	examen clinique
+T11	LIVB 234 241	patient
+T12	Concept_Idea 266 284	plan hémodynamique
+T13	PHEN 288 300	respiratoire
+T14	DISO 316 328	vomissements
+T15	ANAT 342 353	flanc droit
+T16	Localization 348 353	droit
+T17	PROC 388 419	échographie abdomino- pelvienne
+T18	ANAT 400 419	abdomino- pelvienne
+T19	DISO 453 480	épanchement intrapéritonéal
+T20	ANAT 465 480	intrapéritonéal
+T21	PROC 485 504	bilan préopératoire
+T22	PROC 518 531	créatininémie
+T23	MEAS 534 546	120 meq /mm3
+T24	MEAS 553 570	1 fois la normale
+T25	PROC 577 594	natrémie corrigée
+T26	MEAS 597 608	135 meq/mm3
+T27	MEAS 614 631	2 fois la normale
+T28	PROC 634 642	kaliémie
+T29	MEAS 645 651	4meq/l
+T30	MEAS 657 668	0,25 meq /l
+T31	PROC 674 695	recherche étiologique
+T32	MEAS 704 709	nulle
+T33	DISO 764 783	hypocholestérolémie
+T34	DISO 790 817	cardiomyopathie congénitale

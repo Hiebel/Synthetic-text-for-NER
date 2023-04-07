@@ -1,0 +1,11 @@
+T1	PROC 3 24	surveillance clinique
+T2	DISO 63 71	anomalie
+T3	LIVB 76 84	patiente
+T4	Concept_Idea 101 104	âge
+T5	DISO 128 155	rupture des anses grêliques
+T6	ANAT 140 155	anses grêliques
+T7	DISO 164 195	accident vasculaire cérébelleux
+T8	ANAT 184 195	cérébelleux
+T9	TEMP 207 217	deux jours
+T10	MEAS 240 251	2 ème degré
+T11	DISO 294 308	particularités

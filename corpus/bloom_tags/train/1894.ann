@@ -1,0 +1,36 @@
+T1	LIVB 17 24	patient
+T2	DISO 82 104	tuberculose pulmonaire
+T3	ANAT 94 104	pulmonaire
+T4	PROC 117 140	radiothérapie adjuvante
+T5	PROC 146 176	corticothérapie antibacillaire
+T6	CHEM 215 226	Ceftriaxone
+T7	CHEM 228 238	Isoniazide
+T9	DISO 365 398	syndrome inflammatoire biologique
+T10	DISO 405 424	déficit immunitaire
+T11	PROC 450 465	examen clinique
+T12	PROC 478 510	scanner thoraco-abdomino-pelvien
+T13	ANAT 486 510	thoraco-abdomino-pelvien
+T14	LIVB 524 532	patiente
+T15	DISO 564 591	épanchement intrapéritonéal
+T16	ANAT 576 591	intrapéritonéal
+T17	DISO 608 626	empyème médullaire
+T18	ANAT 616 626	médullaire
+T19	PROC 643 675	scintigraphie intrasurrénalienne
+T20	PROC 676 679	SRS
+T21	PROC 682 715	technique d'immuno-chimiothérapie
+T22	DISO 727 737	pathologie
+T23	CHEM 748 767	cyclo-dexaméthasone
+T24	CHEM 769 779	cisplatine
+T25	CHEM 781 793	carboplatine
+T26	CHEM 795 807	doxorubicine
+T27	CHEM 809 818	Etoposide
+T28	CHEM 820 831	Cyclosérine
+T29	CHEM 833 847	BEPZOLOPHamide
+T30	CHEM 849 859	Tamoxifène
+T31	CHEM 861 872	Vinblastine
+T32	CHEM 874 883	Paclidine
+T33	CHEM 885 897	Pyrazinamide
+T34	CHEM 899 910	Ethionamide
+T35	CHEM 912 922	Furosémide
+T36	CHEM 924 938	Chlorpromazine
+T37	CHEM 940 956	Vit B6 cofolates

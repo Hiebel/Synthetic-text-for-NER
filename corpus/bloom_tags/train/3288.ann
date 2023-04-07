@@ -1,0 +1,73 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	DISO 51 83	lésions papuleuses prurigineuses
+T4	DISO 100 133	polyradiculonévrite érythémateuse
+T5	TEMP 143 159	depuis deux mois
+T6	PROC 185 201	examen somatique
+T7	PHEN 222 231	grossesse
+T8	PROC 251 257	suivie
+T9	LIVB 386 394	patiente
+T10	LIVB 396 398	il
+T11	PROC 421 444	radiothérapie adjuvante
+T12	ANAT 457 462	corps
+T13	MEAS 472 477	70 Gy
+T14	DOSE 509 518	2Gy /cm 2
+T15	MEAS 530 548	120 Grays/fraction
+T16	PROC 551 569	ionogramme sanguin
+T18	DISO 592 613	syndrome hémorragique
+T19	DISO 620 641	troubles métaboliques
+T20	PROC 652 678	électrocardiographiquement
+T21	DISO 700 766	insuffisance ventriculo-surrénalienne hypo-thyroïdo-intracrânienne
+T22	ANAT 713 766	ventriculo-surrénalienne hypo-thyroïdo-intracrânienne
+T23	DISO 782 807	hypokaliémie hypertensive
+T24	CHEM 813 834	natrémie artificielle
+T25	Localization 845 851	droite
+T26	MEAS 854 868	1,5 meq/kg/min
+T27	Localization 880 886	gauche
+T28	DISO 914 959	cardiomyopathie ischémique systolique dilatée
+T29	MEAS 971 986	progressivement
+T30	Concept_Idea 990 996	taille
+T31	MEAS 1008 1012	18mm
+T32	DEVI 1029 1070	sonde cardiopulmonaire transoesophagienne
+T34	ANAT 1254 1290	ventriculaire latéro-latérale droite
+T35	PROC 1349 1374	prélèvements chirurgicaux
+T36	MEAS 1394 1403	favorable
+T37	MEAS 1419 1432	spectaculaire
+T38	DISO 1440 1465	signes neuroradiologiques
+T39	DISO 1529 1549	pôle tumoral maligne
+T40	ANAT 1560 1570	tissulaire
+T41	PROC 2059 2103	curage ganglionnaire axillaire locorégionale
+T42	TEMP 2613 2617	3ans
+T43	PROC 2620 2647	traitement immunodépresseur
+T44	CHEM 2689 2717	Corticosteroidylprednisolone
+T45	CHEM 2723 2734	Cyclosérine
+T46	LIVB 2738 2744	enfant
+T47	DISO 2760 2781	détresse respiratoire
+T48	PHEN 2769 2781	respiratoire
+T49	DISO 2808 2830	hémoptysies purulentes
+T50	TEMP 2840 2856	depuis deux mois
+T51	DISO 2872 2886	amaigrissement
+T52	MEAS 2897 2901	12kg
+T53	DISO 2909 2931	douleurs épigastriques
+T55	PROC 2937 2946	admission
+T56	Hospital 2955 2985	service d'accueil des urgences
+T57	Hospital 2989 3038	centre hospitalier universitaire Hassan II de Fès
+T58	Hospital 3040 3047	CHU-HFI
+T59	LIVB 3070 3078	patiente
+T60	PROC 3084 3123	traitement antibiothérapie probabiliste
+T62	CHEM 3150 3164	ciprofloxacine
+T63	CHEM 3166 3177	ceftriaxone
+T64	CHEM 3179 3192	dexaméthasone
+T65	CHEM 3194 3207	triamcinolone
+T66	CHEM 3209 3222	noradrénaline
+T67	PROC 3236 3259	radiothérapie adjuvante
+T68	Concept_Idea 3289 3293	dose
+T69	DOSE 3297 3301	20Gy
+T70	ANAT 3323 3328	corps
+T71	PROC 3332 3362	échographie abdomino-pelvienne
+T72	ANAT 3344 3362	abdomino-pelvienne
+T73	DISO 3383 3464	masse hypo-vascularisée hyper échogéminée ulcérée rétro-sphinctérienne bilatérale
+T74	Localization 3454 3464	bilatérale
+T75	MEAS 3474 3478	2 cm
+T76	Concept_Idea 3482 3491	grand axe
+T77	DISO 3504 3513	anomalies

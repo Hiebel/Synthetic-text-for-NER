@@ -1,0 +1,12 @@
+T1	LIVB 3 11	patiente
+T2	PROC 28 53	traitement anticoagulants
+T3	CHEM 39 53	anticoagulants
+T4	CHEM 64 72	diazépam
+T5	DISO 122 144	symptômes psychotiques
+T6	Concept_Idea 166 192	tableau neuropsychiatrique
+T7	DISO 218 293	carcinome épidermoïde nodulaire epidermoïde infiltrant la veine cave droite
+T8	ANAT 276 293	veine cave droite
+T9	Localization 287 293	droite
+T10	MEAS 306 311	6 cas
+T11	MEAS 345 352	simples
+T12	TEMP 370 377	24 mois

@@ -1,0 +1,17 @@
+T1	PROC 44 59	biopsie
+T2	ANAT 52 59	cutanée
+T3	PROC 65 90	étude
+T4	PROC 94 119	étude
+T5	DISO 141 162	granulome
+T6	ANAT 151 162	épidermoïde
+T7	MEAS 163 186	moyennement
+T8	ANAT 190 206	derme
+T9	PROC 215 235	analyse
+T10	DISO 257 297	schwannome
+T11	ANAT 286 297	tissus
+T12	DISO 300 324	cellules
+T13	DISO 328 338	infiltrant
+T14	MEAS 339 348	grade
+T15	DISO 350 353	VMS
+T16	PHEN 360 378	suites
+T17	MEAS 387 394	simples

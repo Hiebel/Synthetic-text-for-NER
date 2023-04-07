@@ -1,0 +1,30 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	Concept_Idea 38 49	antécédents
+T4	MEAS 50 62	particuliers
+T5	PROC 64 69	admis
+T6	Hospital 74 82	urgences
+T7	DISO 92 113	détresse respiratoire
+T8	PHEN 101 113	respiratoire
+T9	DISO 129 163	douleurs thoraciques constrictives
+T10	ANAT 138 149	thoraciques
+T11	TEMP 173 189	depuis 48 heures
+T12	PROC 193 208	examen clinique
+T13	LIVB 219 225	enfant
+T14	MEAS 229 232	bon
+T15	Concept_Idea 233 245	état général
+T16	Concept_Idea 263 281	plan hémodynamique
+T17	Concept_Idea 297 302	repos
+T18	DISO 326 342	dyspnée d'effort
+T19	MEAS 357 368	progressive
+T20	PROC 373 392	bilan préopératoire
+T21	DISO 409 483	hypotension périphérique du membre inféro-diaphragmatique thoracique droit
+T22	Localization 421 433	périphérique
+T23	ANAT 437 483	membre inféro-diaphragmatique thoracique droit
+T24	Localization 478 483	droit
+T25	CHEM 489 502	noradrénaline
+T26	DOSE 504 508	2 mg
+T27	MODE 510 516	per os
+T28	CHEM 529 547	hydroxychloroquine
+T29	DOSE 549 557	10 mg/kg
+T30	DEVI 568 586	bolus intraveineux

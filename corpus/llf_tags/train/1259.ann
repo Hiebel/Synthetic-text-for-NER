@@ -1,0 +1,69 @@
+T1	PROC 4 20	cholécystectomie
+T2	LIVB 42 48	malade
+T3	PROC 58 81	traitement conservateur
+T4	CHEM 92 103	paracétamol
+T5	DOSE 105 111	500 mg
+T6	TEMP 111 113	/j
+T7	PHEN 119 134	fonction rénale
+T8	ANAT 128 134	rénale
+T9	MEAS 147 154	normale
+T10	PROC 163 183	ablation du cathéter
+T11	DEVI 175 183	cathéter
+T12	DISO 232 253	syndrome hémorragique
+T13	LIVB 262 268	enfant
+T14	TEMP 276 281	7 ans
+T15	DISO 300 311	hématémèses
+T16	DISO 328 337	dysphonie
+T17	Concept_Idea 382 394	état général
+T18	DISO 410 429	symptôme infectieux
+T19	DISO 440 459	signes fonctionnels
+T20	PROC 479 504	étude anatomopathologique
+T21	DISO 579 591	pancytopénie
+T22	MEAS 624 631	simples
+T23	PROC 650 671	radiothérapie externe
+T24	PROC 704 733	radio-thoracopsie endobuccale
+T25	Concept_Idea 743 752	résultats
+T26	MEAS 764 777	satisfaisants
+T27	Hospital 814 866	centre Hospitalier Universitaire Ibn Rochd de Meknès
+T28	PROC 889 917	prise en charge chirurgicale
+T29	DISO 944 971	complication postopératoire
+T30	PROC 986 1005	traitement adjuvant
+T31	PROC 1039 1077	laparotomie exploratrice scanno-guidée
+T32	PROC 1100 1417	néphrectomie totale élargie céphalique segmentaire cervico-mandibulaire sternale axillaire supérieure bilatérale jugulaire interne droite asymétriquement distale antero-extracorporelle naso-aortique fundique bi mandibulaire maxillo-mandibulaire concave controlatérale transoesophagienne temporale type FVBNJFU1(TCMHT)
+T33	Localization 1202 1212	bilatérale
+T35	PROC 1436 1490	gynécologie obstétricale intraveineuse préanesthésique
+T36	PROC 1508 1514	suivie
+T37	PROC 1526 1547	contrôle locorégional
+T38	LIVB 1575 1582	patient
+T39	LIVB 1781 1785	sœur
+T40	LIVB 1826 1837	agriculteur
+T41	LIVB 1954 1964	nouveau-né
+T42	DISO 2058 2076	mort fœtale évitée
+T43	LIVB 2140 2147	enfants
+T44	Concept_Idea 2226 2245	règle prédéterminée
+T45	PROC 2262 2287	exploration gynécologique
+T46	MEAS 2367 2371	6 cm
+T47	MEAS 2374 2380	4x5 cm
+T48	MEAS 2388 2400	1050 grammes
+T49	ANAT 2422 2439	séances chyloïdes
+T50	PROC 2575 2604	hystéro-neuronodactylographie
+T51	PROC 2620 2657	échographie Doppler paramétrificative
+T56	Hospital 3014 3047	service des urgences pédiatriques
+T57	Hospital 3051 3112	Centre Hospitalier Provincial Universitaire Yalgado Ouédraogo
+T58	Hospital 3114 3120	CHU YO
+T59	PROC 3125 3140	examen clinique
+T60	ANAT 3222 3232	sein droit
+T61	Localization 3227 3232	droit
+T62	DISO 3242 3291	processus lésionnel polycytonucléaire neutrophile
+T63	ANAT 3313 3449	symphyse pubienne antero-sternale maxillaire homolatérale interne inferieur distale bipyramidale postérieur transoesophagienne temporale
+T65	DISO 3463 3566	perforation péricardique péribronchoplégie hypervascularisée hyperhétérospadiasplénomégalie asymétrique
+T66	DISO 3579 3600	signes inflammatoires
+T67	PHEN 3615 3633	suites opératoires
+T68	MEAS 3642 3649	simples
+T69	PROC 3655 3685	traitement médical substitutif
+T70	TEMP 3701 3712	quatre mois
+T71	PROC 3721 3768	prise en charge psychothérapique individualisée
+T72	PROC 3855 3889	kinésithérapie cognitivo-cognitive
+T73	LIVB 3911 3921	nourrisson
+T74	CHEM 3978 4004	antipsychotiques atypiques
+T75	MEAS 4663 4673	100 mmHgpm

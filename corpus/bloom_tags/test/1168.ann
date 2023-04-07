@@ -1,0 +1,25 @@
+T1	LIVB 20 25	femme
+T2	DISO 61 83	douleurs épigastriques
+T3	ANAT 70 83	épigastriques
+T4	DISO 112 118	fièvre
+T5	TEMP 141 154	depuis 4 mois
+T6	DISO 170 189	pleurésie purulente
+T7	PROC 194 211	ponction pleurale
+T8	ANAT 203 211	pleurale
+T9	MEAS 228 233	léger
+T10	DISO 234 254	œdème du flanc droit
+T11	ANAT 243 254	flanc droit
+T12	Localization 249 254	droit
+T13	PROC 259 278	bilan préopératoire
+T14	DISO 310 319	anomalies
+T16	ANAT 358 376	intrarachidianguin
+T17	PROC 402 433	échographie abdomino- pelvienne
+T18	ANAT 414 433	abdomino- pelvienne
+T19	PROC 440 457	dosage de la βHCG
+T20	PROC 499 523	exploration chirurgicale
+T21	PROC 541 565	contraception échoguidée
+T22	DEVI 569 598	cathéter veineux périphérique
+T23	ANAT 578 598	veineux périphérique
+T24	Concept_Idea 607 624	limites d'exérèse
+T26	DISO 664 687	séquellisation tumorale
+T27	PROC 694 717	cholécystectomie totale

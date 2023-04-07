@@ -1,0 +1,20 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	12 ans
+T3	DISO 77 99	polyarthrite chronique
+T4	TEMP 109 122	depuis 5 mois
+T5	DISO 138 165	douleur abdominéo-pelvienne
+T6	ANAT 146 165	abdominéo-pelvienne
+T7	DISO 167 184	diarrhée bilieuse
+T8	DISO 198 214	hyperleucocytose
+T9	MEAS 218 237	11 000 éléments/mm3
+T10	LIVB 240 243	Son
+T11	PROC 244 261	geste chirurgical
+T12	PROC 280 320	greffon phréno-basilectomie exploratrice
+T13	PROC 335 363	splénectomie totale curative
+T14	PROC 380 421	radiothérapie palliative locale adjuvante
+T15	ANAT 434 457	méso-région péritonéale
+T16	PROC 504 520	fixation plâtrée
+T17	PROC 543 566	pronostic scanno-guidée
+T18	DISO 608 627	lésions secondaires
+T19	DISO 641 664	syndrome néphropathique
+T20	DISO 680 710	complication thromboembellante

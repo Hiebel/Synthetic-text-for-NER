@@ -1,0 +1,25 @@
+T1	LIVB 29 37	patiente
+T2	DISO 54 79	antécédents pathologiques
+T3	MEAS 80 88	notables
+T4	PROC 90 96	admise
+T5	Hospital 100 107	urgence
+T6	Hospital 112 135	urgences psychiatriques
+T7	DISO 145 167	troubles psychomoteurs
+T8	TEMP 177 191	depuis 5 jours
+T9	PROC 195 210	examen clinique
+T10	PROC 215 224	admission
+T11	Concept_Idea 238 249	température
+T12	MEAS 252 256	39°C
+T13	PHEN 265 279	tonus artériel
+T14	ANAT 271 279	artériel
+T15	MEAS 282 294	120 / 80mmhg
+T16	DEVI 300 318	tension artérielle
+T17	ANAT 308 318	artérielle
+T18	MEAS 327 338	110/75 mmhg
+T19	PROC 343 371	ponction pleurale systolique
+T20	ANAT 352 371	pleurale systolique
+T21	CHEM 384 412	liquide pleural hypertonique
+T22	DOSE 414 419	200ml
+T23	CHEM 422 436	hydrocortisone
+T24	MODE 441 454	intraveineuse
+T25	CHEM 467 485	méthylprednisolone

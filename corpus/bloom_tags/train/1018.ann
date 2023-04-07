@@ -1,0 +1,27 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	16 ans
+T3	PHEN 25 40	statut scolaire
+T4	DISO 60 80	accident oculomoteur
+T5	ANAT 102 121	œil droit supérieur
+T6	Localization 106 121	droit supérieur
+T7	DISO 149 166	paralysie fébrile
+T8	DISO 195 203	apyrexie
+T9	MEAS 215 219	32°C
+T10	DISO 234 245	polypnéique
+T11	MEAS 248 261	28 cycles/min
+T12	DISO 277 288	tachycardie
+T13	MEAS 299 316	110 battements/mn
+T14	MODE 322 327	bolus
+T15	DOSE 331 337	120 mg
+T16	CHEM 341 354	noradrénaline
+T17	DISO 461 482	détresse respiratoire
+T18	PHEN 470 482	respiratoire
+T19	DISO 489 519	syndrome d'épanchement pleural
+T20	ANAT 512 519	pleural
+T21	DISO 540 566	pathologie visculonerveuse
+T22	PROC 606 637	investigations ophtalmologiques
+T23	DISO 776 801	atteinte sensitivomotrice
+T24	DISO 833 844	traumatisme
+T25	PROC 1156 1172	examen somatique
+T26	DISO 1200 1213	particularité
+T27	DISO 1230 1280	adénopathies hépato-basili-crâniennes hypoéchogène

@@ -1,0 +1,7 @@
+T1	PROC 34 56	radiographie
+T2	ANAT 50 56	rachis
+T3	DISO 76 93	processus
+T4	PROC 97 122	étude
+T5	DISO 152 181	tumeur
+T6	ANAT 167 181	carcinomateuse
+T7	DISO 208 228	granulome

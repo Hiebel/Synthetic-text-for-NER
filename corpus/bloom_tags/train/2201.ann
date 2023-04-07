@@ -1,0 +1,23 @@
+T1	LIVB 29 34	femme
+T2	DISO 115 136	syndrome interstitiel
+T3	DISO 172 193	détresse respiratoire
+T4	MEAS 208 215	brutale
+T5	DISO 232 268	épanchement intraliquidien périrénal
+T6	ANAT 244 268	intraliquidien périrénal
+T7	MEAS 278 284	2000ml
+T8	PROC 307 332	intervention chirurgicale
+T9	PROC 352 417	anesthésie locorégionale pré-anesthésique pariétale scanno-guidée
+T11	PROC 511 541	échographie abdomino-pelvienne
+T12	ANAT 523 541	abdomino-pelvienne
+T13	PROC 557 586	pronostic échocardiographique
+T14	DISO 611 636	métastases gynécovaginaux
+T15	DISO 647 670	lésions carcinomateuses
+T16	LIVB 682 693	jeune femme
+T17	DISO 711 734	localisation tissulaire
+T18	DISO 741 769	thrombose veineuse ovarienne
+T19	ANAT 751 769	veineuse ovarienne
+T20	DISO 793 812	fistule iléocoecale
+T21	ANAT 801 812	iléocoecale
+T22	PROC 825 849	scanner abdomino-pelvien
+T23	ANAT 833 849	abdomino-pelvien
+T24	PROC 888 908	imagerie multimodèle

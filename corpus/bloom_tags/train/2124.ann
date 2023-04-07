@@ -1,0 +1,44 @@
+T1	LIVB 28 35	patient
+T2	DISO 51 76	antécédents pathologiques
+T3	MEAS 77 85	notables
+T4	DISO 106 132	tuméfaction du fléchisseur
+T5	ANAT 121 132	fléchisseur
+T6	TEMP 142 155	depuis 4 mois
+T7	PROC 159 174	examen clinique
+T8	PROC 179 188	admission
+T9	DISO 199 221	épanchement péritonéal
+T10	ANAT 211 221	péritonéal
+T11	Concept_Idea 224 230	aspect
+T12	DISO 247 273	métastase tumorale maligne
+T13	PROC 278 308	bilan biologique préopératoire
+T14	PHEN 343 367	vitesse de sédimentation
+T15	PROC 369 371	VS
+T16	MEAS 373 380	élevées
+T17	PROC 382 401	protéine C réactive
+T18	PROC 403 406	CRP
+T19	MEAS 410 418	120 mg/L
+T20	LIVB 420 422	Il
+T21	CHEM 438 457	Valproate de sodium
+T22	DOSE 460 469	200 mg/kg
+T23	TEMP 469 471	/j
+T24	CHEM 485 498	phénobarbital
+T25	DOSE 500 505	2g/kg
+T26	TEMP 505 507	/j
+T27	CHEM 520 540	méthyl-méthacrylique
+T28	DISO 594 609	symptomatologie
+T29	DISO 678 699	détresse respiratoire
+T30	PHEN 687 699	respiratoire
+T31	LIVB 711 719	patiente
+T32	DEVI 846 864	sonde œsophagienne
+T33	ANAT 852 864	œsophagienne
+T34	MEAS 873 885	inesthétique
+T35	LIVB 964 968	elle
+T36	DISO 1012 1018	tumeur
+T37	DISO 1067 1078	saignements
+T38	DISO 1122 1139	processus tumoral
+T39	PROC 1247 1271	chimiothérapie adjuvante
+T40	PROC 1278 1309	radio-chimiothérapie palliative
+T41	Hospital 1338 1351	établissement
+T42	PROC 1415 1436	recherche étiologique
+T43	DISO 1604 1617	complications
+T44	PROC 1777 1780	ICC

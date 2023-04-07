@@ -1,0 +1,39 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	9 ans
+T3	Concept_Idea 20 26	pesant
+T4	MEAS 27 32	70 kg
+T5	PROC 39 43	reçu
+T6	Hospital 48 69	urgences pédiatriques
+T8	ANAT 94 156	plexus angulo-palmophagien latéro-axillaire d'angle thoracique
+T9	MEAS 168 183	progressivement
+T10	Concept_Idea 187 193	volume
+T11	PROC 197 212	examen clinique
+T12	DISO 224 248	masse tissulaire ulcérée
+T13	MEAS 257 262	10 cm
+T14	Concept_Idea 266 275	grand axe
+T15	MEAS 285 288	5cm
+T16	Concept_Idea 292 301	grand axe
+T17	MEAS 306 309	2cm
+T18	Concept_Idea 313 321	diamètre
+T19	ANAT 338 406	région sous-diaphragmatique sus-talcarienne superficielle palmateuse
+T20	TEMP 416 432	depuis deux mois
+T21	DISO 448 469	signes inflammatoires
+T22	DISO 487 492	masse
+T23	MEAS 504 519	progressivement
+T24	Concept_Idea 523 529	volume
+T25	ANAT 546 586	zones musculaires fléchies mésentériques
+T26	ANAT 601 619	muqueuses rectales
+T27	DISO 640 677	métastases parathyroïdiens nodulaires
+T28	ANAT 651 666	parathyroïdiens
+T29	PHEN 698 718	grossesse gémellaire
+T30	MEAS 728 735	normale
+T31	DISO 765 788	symptômes hémorragiques
+T32	DISO 798 820	pathognomonie tumorale
+T33	DISO 848 876	traumatisme abdomino-pelvien
+T34	ANAT 860 876	abdomino-pelvien
+T35	DISO 888 935	maladie thromboembolique infarctante systémique
+T36	DISO 941 967	myocardiopathie ischémique
+T37	LIVB 988 994	enfant
+T38	DISO 1046 1083	dilatation artériolo-gastro-dorétrale
+T39	ANAT 1057 1083	artériolo-gastro-dorétrale
+T40	MEAS 1139 1148	accentuée

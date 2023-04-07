@@ -1,0 +1,43 @@
+T1	LIVB 29 37	patiente
+T2	PROC 75 92	cystectomie total
+T3	Concept_Idea 87 92	total
+T4	PHEN 148 171	accouchement gémellaire
+T5	ANAT 192 202	tissulaire
+T6	DISO 237 275	syndrome d’épanchement intrapéritonéal
+T7	ANAT 260 275	intrapéritonéal
+T8	ANAT 291 336	hémi épiploon diaphragmatique supérieur droit
+T9	Localization 331 336	droit
+T10	MEAS 352 359	brutale
+T11	PROC 376 404	prise en charge chirurgicale
+T12	DISO 463 475	complication
+T13	DISO 503 525	maladie néphropathique
+T14	DISO 532 564	pathologies thromboemboliquantes
+T15	PROC 608 619	observation
+T16	LIVB 930 965	médecins anesthésistes-réanimateurs
+T17	PROC 982 1001	étude rétrospective
+T18	MEAS 1051 1056	10/10
+T19	PROC 1087 1097	découverts
+T20	DISO 1141 1162	mort fœtale primitive
+T21	DISO 1180 1208	lésions cyto-carcinomateuses
+T22	DISO 1239 1255	signes cliniques
+T23	DISO 1329 1431	vascularisation parathyroïdienne hypogastrique hypochoriale kystique pancréatocytaire tumorale maligne
+T25	MEAS 1467 1492	progressivement favorable
+T26	PROC 1556 1578	technique radiologique
+T28	DISO 1691 1715	distension hypogastrique
+T29	ANAT 1702 1715	hypogastrique
+T30	DEVI 1739 1760	sonde naso-sigmoïdien
+T32	DISO 2046 2067	surinfection méningée
+T33	PROC 2306 2417	radiothérapie externe palliative locale adjuvante curage locorégional métastatique chimiothérapie néo adjuvante
+T34	DOSE 2419 2423	40Gy
+T35	MODE 2425 2430	bolus
+T36	TEMP 2443 2461	deuxième intention
+T37	ANAT 2475 2483	épiploon
+T38	LIVB 2488 2495	patient
+T39	PROC 2513 2535	traitement d’entretien
+T40	CHEM 2537 2548	Cyclosérine
+T41	CHEM 2550 2563	Céphaloserine
+T42	CHEM 2567 2579	Pyrazinamide
+T43	Concept_Idea 2595 2611	dose fractionnée
+T44	DOSE 2615 2619	2 Gy
+T45	DISO 2660 2691	complications thromboemboliques
+T46	DISO 2702 2711	anomalies

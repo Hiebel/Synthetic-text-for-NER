@@ -1,0 +1,51 @@
+T1	LIVB 4 12	patiente
+T3	DISO 106 117	traumatique
+T4	MEAS 130 137	brutale
+T5	MEAS 147 161	plus fréquents
+T6	DISO 214 220	sueurs
+T7	MEAS 221 229	profuses
+T8	DISO 246 268	céphalées généralisées
+T9	MEAS 283 310	progressivement progressive
+T10	DISO 323 365	lésions érythémato-violacées prurigineuses
+T11	ANAT 387 426	paupière supérieure homolatérale droite
+T12	Localization 407 426	homolatérale droite
+T13	TEMP 440 445	3 ans
+T14	MEAS 496 503	modérée
+T15	PROC 520 537	réhospitalisation
+T16	PROC 541 555	interrogatoire
+T17	DISO 583 617	tumeur du sinus caverneux purulent
+T18	ANAT 593 617	sinus caverneux purulent
+T19	DISO 652 666	amaigrissement
+T20	PHEN 688 709	équilibre métabolique
+T21	TEMP 720 733	depuis 5 mois
+T22	DISO 746 762	signes cliniques
+T23	DISO 804 822	conflits familiaux
+T24	DISO 829 842	consanguinité
+T25	LIVB 851 859	patients
+T26	LIVB 861 865	elle
+T27	LIVB 888 896	familles
+T28	MEAS 941 945	deux
+T29	LIVB 947 951	Elle
+T30	DISO 978 1021	épanchement liquidien péribuccal bilharzéen
+T31	ANAT 990 1021	liquidien péribuccal bilharzéen
+T32	DISO 1049 1066	douleur pelvienne
+T33	ANAT 1057 1066	pelvienne
+T34	MEAS 1084 1099	progressivement
+T35	Concept_Idea 1103 1109	taille
+T36	MEAS 1114 1124	0,5 litres
+T37	MEAS 1127 1134	1 litre
+T38	PROC 1139 1168	échographie abdominopelvienne
+T39	ANAT 1151 1168	abdominopelvienne
+T40	MEAS 1211 1216	120mm
+T41	Concept_Idea 1220 1229	grand axe
+T42	ANAT 1254 1277	organes hyo-thoraciques
+T43	ANAT 1307 1346	parenchyme thyroïdien latéro-myometrial
+T44	PROC 1441 1474	imagerie par résonance magnétique
+T45	PROC 1476 1493	IRM) péritonéales
+T46	ANAT 1481 1493	péritonéales
+T47	DISO 1522 1553	métastases kystiques hypodenses
+T48	ANAT 1574 1618	sous-diaphragme iléo-pancréatique pariétalis
+T49	DISO 1631 1757	infiltrat basithoracique basithoracique résiduel infarcto-lésionnel para-interstellaire susdiaphragmatique cervicophyso-dilaté
+T51	MEAS 1774 1778	13cm
+T52	Concept_Idea 1782 1791	grand axe
+T53	DISO 1812 1875	adénopathies ganglionnaires intrahypophysaires hyperintensenées

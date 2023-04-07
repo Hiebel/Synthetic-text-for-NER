@@ -1,0 +1,35 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	Concept_Idea 41 66	antécédents pathologiques
+T4	MEAS 67 79	particuliers
+T5	PROC 81 85	reçu
+T6	Hospital 89 107	service d'urologie
+T7	DISO 117 142	tuberculose du col utérin
+T8	ANAT 132 142	col utérin
+T9	PROC 146 161	examen clinique
+T10	PROC 166 175	admission
+T11	LIVB 194 200	enfant
+T12	MEAS 204 207	bon
+T13	Concept_Idea 208 220	état général
+T14	DISO 240 257	céphalées fébrile
+T15	CHEM 280 293	sérum glucosé
+T16	DOSE 295 303	0,5 g/kg
+T17	PROC 309 345	tomodensitométrie abdomino-pelvienne
+T18	ANAT 327 345	abdomino-pelvienne
+T19	DISO 391 424	masse tissulaire hypo-échogéantes
+T20	MEAS 433 437	20cm
+T21	MEAS 442 447	15 cm
+T22	ANAT 467 474	pelvien
+T23	ANAT 506 520	parties molles
+T24	ANAT 535 554	pavillons périnéaux
+T25	PROC 558 582	exploration chirurgicale
+T26	DISO 596 625	incontinence totale purulente
+T27	Localization 609 615	totale
+T28	DISO 638 665	épanchement intrapéritonéal
+T29	ANAT 650 665	intrapéritonéal
+T30	ANAT 708 726	paires épiploiques
+T31	PROC 788 816	ponction liquide explorateur
+T32	ANAT 797 816	liquide explorateur
+T33	MEAS 830 838	négative
+T34	CHEM 875 886	tuberculine
+T35	MEAS 895 900	posée

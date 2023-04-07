@@ -1,0 +1,63 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 42 47	5 ans
+T3	Hospital 68 89	urgences pédiatriques
+T4	PROC 107 125	saigner les genoux
+T5	ANAT 119 125	genoux
+T6	LIVB 133 138	germe
+T7	LIVB 142 144	il
+T8	LIVB 177 179	sa
+T9	LIVB 180 187	famille
+T10	PHEN 233 241	familial
+T11	DISO 276 291	symptomatologie
+T12	PROC 297 314	enquête familiale
+T13	DISO 348 361	consanguinité
+T14	LIVB 371 377	enfant
+T15	LIVB 435 442	enfants
+T16	PROC 453 459	suivis
+T17	PROC 472 483	vie commune
+T18	LIVB 552 559	enfants
+T19	LIVB 600 609	serviteur
+T20	Concept_Idea 665 701	caractéristiques sociodémographiques
+T21	PROC 1028 1053	intervention chirurgicale
+T22	LIVB 1062 1068	enfant
+T23	CHEM 1127 1141	neuroleptiques
+T24	CHEM 1192 1205	chromogranine
+T25	DOSE 1206 1214	1 gramme
+T26	TEMP 1214 1216	/j
+T27	CHEM 1219 1232	antipaludéens
+T28	DOSE 1234 1240	500 mg
+T29	TEMP 1240 1242	/j
+T30	CHEM 1247 1260	phénobarbital
+T31	DOSE 1262 1267	50 mg
+T32	TEMP 1267 1269	/j
+T33	CHEM 1272 1285	cotrimoxazole
+T34	TEMP 1293 1295	/j
+T35	CHEM 1297 1308	vancomycine
+T36	TEMP 1797 1803	10 ans
+T37	LIVB 1865 1871	frères
+T38	LIVB 2001 2007	garçon
+T39	TEMP 2015 2020	7 ans
+T40	LIVB 2074 2080	filles
+T41	TEMP 2090 2096	16 ans
+T43	DISO 3203 3210	lésions
+T44	PROC 3227 3252	bilan immunohistochimique
+T45	Concept_Idea 3270 3300	caractéristiques histologiques
+T46	PROC 3316 3340	néphrotomie exploratrice
+T47	PROC 3349 3367	scanner thoracique
+T48	ANAT 3357 3367	thoracique
+T49	DISO 3397 3421	remaniements hétérogènes
+T50	ANAT 3438 3476	structures vasculaires mésenchymateuse
+T51	MEAS 3490 3498	discrète
+T52	DISO 3499 3555	prolifération tumorale nodulaire hypoéchogène tissulaire
+T53	DISO 3578 3612	tumeur bénigne achilléenne maligne
+T54	PROC 3617 3644	prélèvement bactériologique
+T55	DISO 3680 3689	anomalies
+T56	MEAS 3791 3795	5 mm
+T57	MEAS 3869 3876	négatif
+T58	DISO 3983 4017	symptomatologie pseudofolliculaire
+T59	PROC 4023 4065	résection transoesophagienne scanno-guidée
+T60	PROC 4084 4127	curage ganglionnaire axillaire endoscopique
+T61	PROC 4140 4173	radio-cholécystectomie bilatérale
+T62	Localization 4163 4173	bilatérale
+T64	PROC 4293 4431	translocation segmentaire rétropéritonéale laryngéne extérieutique échoguidée cervicale rétromalléolaire tracheoningumphale néo rachelisée
+T65	ANAT 4444 4510	ganglions ptérygoïdiens inferieurs pelviens thoraciques abdominaux

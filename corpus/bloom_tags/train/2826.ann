@@ -1,0 +1,45 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	DISO 52 85	syndrome d'épanchement péritonéal
+T4	ANAT 75 85	péritonéal
+T5	DISO 91 111	hépato-splénomégalie
+T6	PROC 117 132	examen clinique
+T7	LIVB 134 137	son
+T8	PHEN 138 143	pouls
+T9	MEAS 161 175	110 battements
+T10	TEMP 176 186	par minute
+T11	PROC 190 219	échographie abdominopelvienne
+T12	ANAT 202 219	abdominopelvienne
+T13	DISO 244 265	masse du flanc gauche
+T14	ANAT 253 265	flanc gauche
+T15	Localization 259 265	gauche
+T16	MEAS 277 292	progressivement
+T17	Concept_Idea 296 304	diamètre
+T18	MEAS 314 319	20 cm
+T19	ANAT 336 363	fosse iliaque supra utérine
+T20	Localization 350 355	supra
+T21	ANAT 395 423	anses intestinales grêliques
+T22	DISO 446 485	adénopathie axillaire bilatérale droite
+T23	ANAT 458 485	axillaire bilatérale droite
+T24	Localization 468 485	bilatérale droite
+T25	MEAS 494 507	environ 10 cm
+T26	Concept_Idea 511 520	grand axe
+T27	DISO 541 551	thrombosée
+T28	DISO 572 658	nodules vésiculo-retroutérins inférieurs para-stercoronaires hyper échogène hétérogène
+T30	DISO 685 694	polylobés
+T31	MEAS 719 723	30 %
+T32	MEAS 727 731	40 %
+T33	DEVI 738 753	petite épiploon
+T34	PROC 760 780	transfert transverse
+T35	DISO 794 813	anomalies associées
+T36	PROC 819 841	TDM abdomino-pelvienne
+T37	ANAT 823 841	abdomino-pelvienne
+T38	Hospital 892 899	service
+T39	PROC 916 940	exploration chirurgicale
+T40	DISO 999 1006	maladie
+T41	TEMP 1016 1037	depuis plusieurs mois
+T42	Concept_Idea 1154 1171	état neurologique
+T43	MEAS 1182 1193	5/10 points
+T44	PROC 1203 1230	classification de Brackmann
+T45	DISO 1286 1302	signes cliniques
+T46	PROC 1346 1380	technique d'imagerie préopératoire

@@ -1,0 +1,28 @@
+T1	PROC 3 20	bilan étiologique
+T2	PROC 32 74	radiographie de l'abdomen sans préparation
+T3	ANAT 50 57	abdomen
+T4	DISO 91 106	lithiase gauche
+T5	Localization 100 106	gauche
+T6	PROC 111 128	tomodensitométrie
+T7	PROC 130 161	TDM) thoraco-abdomino-pelvienne
+T8	ANAT 135 161	thoraco-abdomino-pelvienne
+T9	DISO 178 210	processus tissulaire du pancréas
+T10	ANAT 202 210	pancréas
+T11	DISO 244 261	nodules polylobés
+T12	Concept_Idea 266 273	limites
+T13	MEAS 274 284	régulières
+T14	ANAT 300 317	vésicule biliaire
+T15	PROC 322 338	curage gastrique
+T16	ANAT 329 338	gastrique
+T17	MEAS 345 352	négatif
+T18	PROC 356 374	étude histologique
+T19	DISO 399 413	résidu tumoral
+T20	DISO 423 446	localisation secondaire
+T21	ANAT 456 481	structures sus hépatiques
+T23	CHEM 530 544	Ciprofloxacine
+T24	MODE 549 567	voie intraveineuse
+T25	PROC 581 602	surveillance clinique
+T26	PROC 641 662	contrôle radiologique
+T27	MEAS 667 676	favorable
+T28	TEMP 702 708	6 mois
+T29	TEMP 749 754	3 ans

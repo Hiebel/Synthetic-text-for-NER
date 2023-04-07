@@ -1,0 +1,32 @@
+T1	LIVB 29 37	patiente
+T2	DISO 71 87	syndrome fébrile
+T3	PHEN 109 116	appétit
+T4	TEMP 126 139	depuis 2 mois
+T5	PROC 143 175	auscultation abdomino- pelvienne
+T6	ANAT 156 175	abdomino- pelvienne
+T7	MEAS 182 189	normale
+T8	PROC 204 227	radiographie thoracique
+T9	ANAT 217 227	thoracique
+T10	DISO 252 281	opacité basithoracique droite
+T11	ANAT 260 281	basithoracique droite
+T12	Localization 275 281	droite
+T13	DISO 291 299	tumorale
+T14	Concept_Idea 302 308	aspect
+T15	MEAS 309 321	peu homogène
+T16	MEAS 331 336	14 cm
+T17	MEAS 341 346	12 cm
+T18	ANAT 363 383	fosse iliaque droite
+T19	Localization 377 383	droite
+T20	DISO 401 428	épanchement intrapéritonéal
+T21	ANAT 413 428	intrapéritonéal
+T22	PROC 473 500	tomodensitométrie cérébrale
+T23	ANAT 491 500	cérébrale
+T24	DISO 518 533	masse hypodense
+T25	Localization 577 587	bilatérale
+T26	PROC 804 815	extirpation
+T27	DISO 839 877	hypertrophie parathyroïdienne tumorale
+T28	ANAT 852 877	parathyroïdienne tumorale
+T29	PROC 890 913	complément scanno-guidé
+T30	PROC 923 941	traitement curatif
+T31	Hospital 967 974	hôpital
+T32	PROC 996 1022	réunion pluridisciplinaire

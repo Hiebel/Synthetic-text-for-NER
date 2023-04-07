@@ -1,0 +1,35 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 33 38	7 ans
+T3	Concept_Idea 182 194	état général
+T4	DISO 206 232	infarctus aigu du myocarde
+T5	LIVB 250 253	son
+T6	LIVB 254 265	petit frère
+T7	PROC 306 329	néphrostomie percutanée
+T8	DISO 365 405	syndrome méningé érythémato-hypophysaire
+T9	DISO 519 544	symptomatologie néonatale
+T10	Hospital 612 655	structures multidisciplinaires pédiatriques
+T11	DISO 762 781	maladie infectieuse
+T12	Concept_Idea 822 850	caractère pluridisciplinaire
+T13	LIVB 2126 2137	Kitabchi AE
+T14	PROC 2179 2191	consultation
+T15	Hospital 2196 2217	urgences pédiatriques
+T16	DISO 2227 2280	polyadénopathies cervicales du membre supérieur droit
+T17	ANAT 2258 2280	membre supérieur droit
+T18	Localization 2275 2280	droit
+T19	DISO 2298 2313	céphalosporémie
+T20	DISO 2320 2327	diabète
+T21	PROC 2337 2352	examen clinique
+T22	PHEN 2370 2379	grossesse
+T23	PROC 2384 2390	suivie
+T24	CHEM 2411 2442	neuroleptiques thymorégulateurs
+T25	TEMP 2467 2475	six mois
+T26	PROC 2493 2506	bilan clinque
+T27	DISO 2523 2566	hypercholestérolémie hypocholestérolémiante
+T28	MEAS 2577 2585	1100mg/l
+T29	DEVI 2603 2635	corticoïdes inhalés intraveineux
+T31	LIVB 2737 2745	patients
+T32	MEAS 2768 2777	1750 mg/L
+T33	MEAS 2783 2786	45%
+T34	DISO 2817 2853	pyélonéphrite anémique polymalformée
+T35	DISO 2863 2924	hypofibromatoplégie érythémateuse ataxophagienne hétérozygote
+T36	DISO 3075 3120	physiologies psychiatriques schizophréniforme

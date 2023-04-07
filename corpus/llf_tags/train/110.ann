@@ -1,0 +1,23 @@
+T1	PROC 3 22	sérologie hydatique
+T2	DISO 32 45	particularité
+T3	DISO 64 85	tuberculose du poumon
+T4	ANAT 79 85	poumon
+T5	LIVB 105 112	patient
+T6	PROC 122 150	antibiothérapie concomitante
+T7	CHEM 160 191	amoxicilline acide clavulanique
+T8	DOSE 193 196	5 g
+T9	TEMP 196 198	/j
+T10	MEAS 215 220	bonne
+T11	Concept_Idea 221 237	réponse clinique
+T12	PROC 242 264	traitement substitutif
+T13	CHEM 272 283	rifampicine
+T14	PROC 297 331	radio-chimiothérapie néo adjuvante
+T15	Hospital 335 342	urgence
+T16	DISO 410 439	symptômes neuropsychiatriques
+T17	DISO 506 525	phobies démultiples
+T18	Concept_Idea 570 582	état général
+T19	ANAT 615 661	segments temporaux fronto-temporo-apophysaires
+T20	TEMP 690 692	J1
+T21	PROC 698 708	opératoire
+T22	LIVB 721 723	il
+T23	PROC 789 816	prise en charge spécialisée

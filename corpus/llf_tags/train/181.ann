@@ -1,0 +1,11 @@
+T1	LIVB 3 9	malade
+T2	PROC 28 41	radiothérapie
+T3	Concept_Idea 47 51	dose
+T4	DOSE 55 60	60 Gy
+T5	DISO 111 140	symptômes neuropsychiatriques
+T6	TEMP 158 165	12 mois
+T7	PROC 184 194	traitement
+T8	PHEN 200 220	récepteurs hormonaux
+T9	MEAS 236 251	progressivement
+T10	MEAS 252 261	perturbés
+T11	ANAT 263 276	oestrogénique

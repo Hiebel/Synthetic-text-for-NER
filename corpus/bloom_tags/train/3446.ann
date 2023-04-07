@@ -1,0 +1,35 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	Concept_Idea 38 49	antécédents
+T4	MEAS 50 62	particuliers
+T5	PROC 64 70	admise
+T6	Hospital 75 96	urgences pédiatriques
+T7	DISO 106 126	douleurs abdominales
+T8	ANAT 115 126	abdominales
+T9	CHEM 141 154	symptomatique
+T10	PROC 158 173	examen clinique
+T11	LIVB 186 193	patient
+T12	MEAS 197 200	bon
+T13	Concept_Idea 201 213	état général
+T14	DISO 221 245	sensibilité épigastrique
+T15	ANAT 233 245	épigastrique
+T16	ANAT 261 278	hémithorax gauche
+T17	Localization 272 278	gauche
+T18	DISO 307 315	anorexie
+T19	PROC 333 352	bilan préopératoire
+T20	PHEN 370 385	fonction rénale
+T21	ANAT 379 385	rénale
+T22	MEAS 386 393	altérée
+T23	PROC 398 416	taux de créatinine
+T24	MEAS 435 442	15 mg/l
+T25	PROC 448 488	natrémie corrigée par voie intraveineuse
+T26	MODE 470 488	voie intraveineuse
+T27	MEAS 506 515	133 meq/l
+T28	PROC 521 546	scanner abdomino- pelvien
+T29	ANAT 529 546	abdomino- pelvien
+T30	DISO 560 653	lésion du parenchyme pérituberculoïde latéro-surrénalienne bilatérale cervicale hypogastrique
+T31	ANAT 570 653	parenchyme pérituberculoïde latéro-surrénalienne bilatérale cervicale hypogastrique
+T33	MEAS 663 668	13 cm
+T34	MEAS 673 677	5 cm
+T35	ANAT 699 716	cavité abdominale
+T36	ANAT 744 763	annexes intestinaux

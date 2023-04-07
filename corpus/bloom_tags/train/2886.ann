@@ -1,0 +1,38 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 46 71	antécédents pathologiques
+T3	MEAS 72 80	notables
+T4	DISO 103 128	tumeur du plexus brachial
+T5	ANAT 113 128	plexus brachial
+T6	TEMP 138 151	depuis 6 mois
+T7	PROC 156 173	bilan d'extension
+T8	MEAS 180 187	négatif
+T9	DISO 205 228	localisation secondaire
+T10	PROC 234 255	échographie pelvienne
+T11	ANAT 246 255	pelvienne
+T12	DISO 272 327	adénopathies cervico-fasciculées basithoraciques droite
+T13	ANAT 285 327	cervico-fasciculées basithoraciques droite
+T14	Localization 321 327	droite
+T15	MEAS 337 341	2 cm
+T16	MEAS 346 350	3 cm
+T17	ANAT 367 396	fosse latéro-cervicale droite
+T18	Localization 390 396	droite
+T19	DISO 410 471	hyper-vascularisation péritissulaire tissulaire hypo échogéne
+T20	ANAT 491 504	utérus utérin
+T21	PROC 532 541	injection
+T22	CHEM 545 565	produit de contraste
+T23	DISO 589 631	adénopathies hypodense hyper vascularisées
+T24	PHEN 661 680	réflexes cardiaques
+T25	ANAT 670 680	cardiaques
+T26	MEAS 693 711	modérément altérés
+T27	DISO 761 779	schwannome maligne
+T28	DISO 832 847	kyste hydatique
+T29	DISO 899 910	lithiasique
+T30	PROC 921 931	diagnostic
+T31	LIVB 941 947	enfant
+T32	PROC 968 991	radiothérapie adjuvante
+T33	MEAS 1013 1018	70 Gy
+T34	Concept_Idea 1100 1106	taille
+T35	Concept_Idea 1157 1179	caractères biologiques
+T36	PROC 1217 1250	imagerie par résonance magnétique
+T37	PROC 1252 1270	IRM préopératoires
+T38	LIVB 1418 1453	médecins anesthésistes-réanimateurs

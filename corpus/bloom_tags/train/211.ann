@@ -1,0 +1,47 @@
+T1	LIVB 20 28	patiente
+T2	DISO 49 73	antécédent pathologiques
+T3	MEAS 74 86	particuliers
+T4	LIVB 94 102	patiente
+T5	PROC 109 115	admise
+T6	Hospital 120 128	urgences
+T8	ANAT 153 164	flanc droit
+T9	Localization 159 164	droit
+T10	MEAS 176 191	progressivement
+T11	Concept_Idea 195 201	volume
+T12	TEMP 211 224	depuis 4 mois
+T13	DISO 283 298	épidermomyosite
+T14	CHEM 344 357	carbamazépine
+T15	MODE 359 363	oral
+T16	PROC 369 386	bilan étiologique
+T17	PROC 404 434	échographie abdomino-pelvienne
+T18	ANAT 416 434	abdomino-pelvienne
+T19	DISO 463 491	atteinte anatomopathologique
+T20	ANAT 472 491	anatomopathologique
+T21	PROC 505 518	touché rectal
+T22	ANAT 512 518	rectal
+T23	PHEN 532 555	grossesse intra utérine
+T24	ANAT 542 555	intra utérine
+T25	MEAS 577 582	12 SA
+T26	PROC 619 644	traitement prophylactique
+T27	CHEM 658 670	méthotrexate
+T28	DOSE 673 679	1mg/kg
+T29	CHEM 682 700	hydroxychloroquine
+T30	DOSE 703 708	50 mg
+T31	DISO 750 797	complication thromboembolique veineuse profonde
+T32	PROC 811 845	transfusion sanguine intraveineuse
+T33	DOSE 862 912	400000 globules blancs/polynucléaires neutrophiles
+T34	PROC 925 948	radiothérapie adjuvante
+T35	ANAT 966 982	parois vaginales
+T36	PROC 1022 1039	anesthésie locale
+T37	PROC 1046 1086	curage pelvien périnéale laryngoscopique
+T38	ANAT 1053 1086	pelvien périnéale laryngoscopique
+T39	DEVI 1138 1170	ventilation artificielle plâtrée
+T40	LIVB 1188 1196	patiente
+T41	DISO 1217 1238	détresse respiratoire
+T42	PHEN 1226 1238	respiratoire
+T43	DISO 1248 1259	tachycardie
+T44	MEAS 1271 1292	110 battements/minute
+T45	DISO 1308 1346	syndrome d'épanchement intrapéritonéal
+T46	ANAT 1331 1346	intrapéritonéal
+T47	MEAS 1367 1375	15litres
+T48	DISO 1390 1418	rupture hémorragique diffuse

@@ -1,0 +1,23 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	8 ans
+T3	Concept_Idea 20 26	pesant
+T4	MEAS 27 32	14 kg
+T5	DISO 83 102	déficit immunitaire
+T7	ANAT 121 127	rénale
+T8	PROC 132 136	reçu
+T9	Hospital 141 149	urgences
+T10	DISO 168 184	épisodes fébrile
+T11	TEMP 194 210	depuis 48 heures
+T12	LIVB 217 220	son
+T13	PROC 221 230	admission
+T14	Hospital 234 292	centre hospitalier universitaire Hassan II de Befelatanana
+T15	DISO 372 391	déstresse digestive
+T16	PHEN 382 391	digestive
+T17	MEAS 406 411	lente
+T18	MEAS 421 432	plus serrée
+T19	LIVB 456 464	patiente
+T20	DEVI 478 498	attouchement vaginal
+T21	ANAT 491 498	vaginal
+T22	PROC 572 590	traitement curatif
+T23	CHEM 663 682	méthyl triamoxifène
+T24	PROC 706 729	radiothérapie adjuvante

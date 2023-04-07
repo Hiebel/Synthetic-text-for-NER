@@ -1,0 +1,77 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	Concept_Idea 38 49	antécédents
+T4	MEAS 50 62	particuliers
+T5	PROC 64 69	admis
+T6	DISO 79 105	douleurs abdominales aiguë
+T7	ANAT 88 99	abdominales
+T8	MEAS 132 143	progressive
+T9	TEMP 153 165	depuis un an
+T10	LIVB 167 169	Il
+T11	PROC 176 182	traité
+T12	PROC 191 211	chirurgie anténatale
+T13	PROC 217 234	anesthésie locale
+T14	CHEM 240 251	bupivacaine
+T15	CHEM 264 275	paracétamol
+T16	PROC 279 303	échographie obstétricale
+T17	PHEN 324 344	grossesse gémellaire
+T18	ANAT 376 384	placenta
+T19	DISO 403 447	lésion hétérogène hypo échogéminée hypodense
+T20	MEAS 457 462	14 cm
+T21	Concept_Idea 466 475	grand axe
+T22	Localization 491 505	pôle supérieur
+T23	ANAT 491 520	pôle supérieur utéro-vaginale
+T24	PROC 525 558	scanner abdomino-cervico périnéal
+T25	ANAT 533 558	abdomino-cervico périnéal
+T26	PROC 560 563	ECP
+T27	PROC 577 610	imagerie par résonance magnétique
+T28	PROC 612 615	IRM
+T29	ANAT 617 627	cérébrales
+T30	DISO 669 691	signes neurorésistants
+T31	DISO 717 738	atteinte hémorragique
+T32	DISO 748 770	localisations nécroses
+T33	ANAT 791 831	aires ganglionnaires cerviculo-axoniques
+T34	MEAS 850 858	normales
+T35	Concept_Idea 910 918	clinique
+T36	MEAS 978 991	significative
+T37	LIVB 1006 1013	malades
+T38	ANAT 1192 1203	endocrinien
+T39	ANAT 1210 1220	pulmonaire
+T40	PROC 1223 1248	intervention chirurgicale
+T41	PROC 1268 1292	anesthésie locorégionale
+T42	PROC 1319 1350	induction anesthésique profonde
+T43	DOSE 1363 1370	1 mg/kg
+T44	CHEM 1374 1382	propofol
+T45	DOSE 1385 1393	20 mg/kg
+T46	CHEM 1397 1405	fentanyl
+T47	MODE 1408 1418	injections
+T48	DOSE 1431 1438	5 µg/kg
+T49	CHEM 1442 1460	méthylprednisolone
+T50	DEVI 1492 1505	masse plâtrée
+T51	MEAS 1514 1519	16 cm
+T52	Concept_Idea 1523 1532	grand axe
+T53	MEAS 1547 1563	de façon intense
+T54	CHEM 1585 1627	augmentation de concentration d’adrénaline
+T55	Concept_Idea 1653 1661	contours
+T56	MEAS 1662 1683	régulièrement arrondi
+T57	CHEM 1714 1739	hydroxy-chlorprométhasone
+T58	ANAT 1787 1794	pelvien
+T59	PROC 1858 1878	pronostic artificiel
+T60	PROC 2266 2306	remplissage vasculo-nerveux périphérique
+T61	ANAT 2278 2306	vasculo-nerveux périphérique
+T62	DISO 2449 2490	syndrome d'épanchement pleural compressif
+T63	ANAT 2472 2490	pleural compressif
+T64	PROC 2592 2633	intubation bronchiopneumo-nucléopharyngée
+T65	PROC 2722 2732	diagnostic
+T66	DISO 2836 2891	complication thromboembolique érythémato-fibroblastique
+T67	ANAT 2937 2966	veineuse profonde du pancréas
+T68	LIVB 2971 2979	patiente
+T69	PROC 2998 3026	prise en charge chirurgicale
+T70	PROC 3040 3065	carcinothérapie adjuvante
+T71	DOSE 3067 3074	3 mg/m²
+T72	TEMP 3074 3079	/jour
+T73	MODE 3081 3091	voie orale
+T74	PROC 3105 3168	radiothérapie externe des masses cervico-vaginal utéro-utérines
+T75	ANAT 3131 3168	masses cervico-vaginal utéro-utérines
+T76	PHEN 3173 3193	grossesse gémellaire
+T77	DISO 3214 3223	anomalies

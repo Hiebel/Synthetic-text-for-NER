@@ -1,0 +1,50 @@
+T1	LIVB 3 10	patient
+T2	Concept_Idea 31 42	antécédents
+T3	MEAS 43 55	particuliers
+T4	PROC 57 67	consultait
+T5	Hospital 72 97	urgences ophtalmologiques
+T7	ANAT 116 126	pelviennes
+T8	TEMP 136 149	depuis 3 mois
+T9	DISO 165 186	ictère cutané fébrile
+T10	PROC 190 204	interrogatoire
+T11	LIVB 232 240	patiente
+T12	PHEN 258 278	grossesse gémellaire
+T13	PROC 283 289	suivie
+T14	PROC 308 358	ablation du matériel d'ostéosynthèse transfixiante
+T15	DEVI 320 358	matériel d'ostéosynthèse transfixiante
+T16	CHEM 360 367	Vicryl®
+T17	DISO 411 427	signes cliniques
+T18	PROC 441 472	scanner cervico-thoraco-pelvien
+T19	ANAT 449 472	cervico-thoraco-pelvien
+T20	PROC 519 557	anesthésie locorégionale peropératoire
+T21	PROC 564 573	injection
+T22	DOSE 577 581	2 mg
+T23	CHEM 585 596	propranolol
+T24	DOSE 599 608	0,5 mg/kg
+T25	CHEM 612 623	paracétamol
+T26	DISO 648 672	masse tumorale hypodense
+T27	MEAS 682 687	22 mm
+T28	Concept_Idea 691 700	grand axe
+T29	MEAS 709 713	4 cm
+T30	Concept_Idea 717 726	grand axe
+T31	ANAT 758 787	fosse thyroïdienne bilatérale
+T32	Localization 777 787	bilatérale
+T33	DISO 808 835	humeur aqueuse nécromateuse
+T34	ANAT 857 887	cavité abdominale mésentérique
+T35	DISO 900 943	épanchement œsophagocytaire intrapéritonéal
+T36	ANAT 912 943	œsophagocytaire intrapéritonéal
+T37	DISO 957 1002	processus carcinomateux hémorragique purulent
+T38	ANAT 1021 1040	estomac vésiculaire
+T39	DISO 1077 1092	neuro-endocrine
+T40	DISO 1096 1116	polyradiculoneuronne
+T41	PROC 1120 1145	échographie gynécologique
+T42	ANAT 1132 1145	gynécologique
+T43	DISO 1159 1192	hypertrophie ventriculaire droite
+T44	ANAT 1172 1192	ventriculaire droite
+T45	Localization 1186 1192	droite
+T46	MEAS 1204 1224	de façon conséquente
+T47	Concept_Idea 1228 1234	taille
+T48	MEAS 1246 1253	21/10mm
+T49	MEAS 1256 1263	32/10mm
+T50	MEAS 1272 1289	hypervascularisée
+T51	PROC 1340 1372	réaction inflammatoire adjuvante

@@ -1,0 +1,22 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	13 ans
+T4	Hospital 48 69	urgences pédiatriques
+T5	DISO 89 120	détresse respiratoire sifflante
+T6	TEMP 130 143	depuis 6 mois
+T7	DISO 164 370	adénopathies jugulo-carotidiennes palmobuccalo-métacarpiennes para-tuberculeuses dorsolateralisantes métacarpo-phalangiennes céphalho-diaphysaires basipariétales phalangiennes symétriques hypervascularisées
+T9	DISO 380 393	bourgeonnante
+T10	MEAS 405 420	progressivement
+T11	Concept_Idea 424 430	volume
+T12	MEAS 441 445	3 mm
+T13	MEAS 448 451	5mm
+T14	DISO 501 521	prise médicamenteuse
+T15	DISO 528 554	consanguinité pathologique
+T16	LIVB 576 583	famille
+T17	LIVB 591 614	grand-parents familiaux
+T18	PROC 618 642	ionogramme sanguin total
+T19	ANAT 629 642	sanguin total
+T20	MEAS 681 690	133 meq/l
+T21	PROC 704 719	natrémie pulsée
+T22	MEAS 737 746	126 meq/l
+T23	MEAS 768 778	supérieure
+T24	MEAS 781 790	138 meq/l

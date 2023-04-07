@@ -1,0 +1,21 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 77	particuliers
+T4	DISO 106 129	épigastralgie chronique
+T5	MEAS 144 155	progressive
+T6	PROC 159 165	examen
+T7	PROC 170 179	admission
+T8	Hospital 184 192	urgences
+T9	Concept_Idea 204 215	température
+T10	MEAS 218 224	36°8 C
+T11	PHEN 234 252	suites opératoires
+T12	MEAS 253 260	simples
+T13	PROC 265 284	bilan préopératoire
+T14	DISO 312 348	dilatation du canal péripancréatique
+T15	ANAT 326 348	canal péripancréatique
+T16	MEAS 353 357	2 cm
+T17	Localization 374 390	face postérieure
+T18	MEAS 397 401	3 cm
+T19	Localization 418 432	face antérieur
+T20	DISO 449 471	paragangliome kystique
+T21	ANAT 487 496	péritoine

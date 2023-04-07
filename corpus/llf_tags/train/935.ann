@@ -1,0 +1,40 @@
+T1	TEMP 53 66	il y a 14 ans
+T2	LIVB 78 85	famille
+T3	DISO 99 136	accident vasculaire crânio-alvéolaire
+T4	ANAT 119 136	crânio-alvéolaire
+T5	LIVB 149 151	sa
+T6	LIVB 152 156	mère
+T7	PROC 169 179	transfusée
+T8	Hospital 211 219	urgences
+T9	PROC 232 256	prise en charge médicale
+T10	PROC 262 277	examen clinique
+T11	LIVB 291 301	Monsieur B
+T12	DISO 323 337	déficit moteur
+T13	DISO 347 373	signes neuropsychiatriques
+T14	LIVB 430 433	son
+T15	PROC 434 449	hospitalisation
+T16	TEMP 459 469	14/08/2011
+T17	CHEM 488 535	amoxicilline acide clavulonécrotétrahydrogénase
+T18	Concept_Idea 566 584	état hémodynamique
+T19	TEMP 601 616	depuis 12 jours
+T20	PROC 648 670	traitement substitutif
+T21	PROC 688 738	supplémentation en glucantime® méthyl prednisolone
+T22	CHEM 707 738	glucantime® méthyl prednisolone
+T23	PROC 749 789	médications médicamenteuses parentérales
+T24	PHEN 802 822	rendez-vous digestif
+T25	PROC 843 871	geste thérapeutique agressif
+T26	MEAS 931 940	favorable
+T27	Concept_Idea 948 972	plan psychothérapeutique
+T28	TEMP 1030 1040	3 semaines
+T29	PROC 1053 1098	néphrectomie totale endobuccale décompressive
+T30	TEMP 1107 1123	7jours plus tard
+T31	PROC 1139 1184	naissance monofoetale bipariéto-oesophagienne
+T32	LIVB 1227 1237	Monsieur B
+T34	DOSE 1298 1303	450mg
+T35	TEMP 1303 1305	/j
+T36	Concept_Idea 1354 1361	réponse
+T37	MEAS 1362 1372	prématurée
+T38	Concept_Idea 1386 1403	moyens financiers
+T39	Concept_Idea 1467 1480	circonstances
+T40	MEAS 1486 1511	entre 2 500 et 3 200F Cfa
+T41	MEAS 1535 1541	175 Kg

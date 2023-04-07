@@ -1,0 +1,35 @@
+T1	LIVB 3 10	patient
+T2	DISO 22 32	diabétique
+T3	CHEM 38 48	metformine
+T4	PROC 56 67	hospitalisé
+T5	Hospital 71 91	chirurgie thoracique
+T6	DISO 101 127	pneumo-pleurésie purulente
+T7	TEMP 137 150	depuis 2 mois
+T8	PROC 154 169	examen clinique
+T9	ANAT 180 187	abdomen
+T10	MEAS 188 196	distendu
+T11	Concept_Idea 200 205	masse
+T12	MEAS 206 214	indolore
+T13	MEAS 224 229	14 cm
+T14	ANAT 243 254	flanc droit
+T15	Localization 249 254	droit
+T16	DISO 270 294	météorisme péristaltique
+T17	DISO 300 313	hémopéritoine
+T18	ANAT 322 328	pelvis
+T19	PROC 332 363	échographie abdomino- pelvienne
+T20	ANAT 344 363	abdomino- pelvienne
+T21	PHEN 377 399	grossesse épigastrique
+T22	ANAT 387 399	épigastrique
+T23	DISO 449 500	carcinome épidermoïde des annexes pyélocaliculaires
+T24	ANAT 475 500	annexes pyélocaliculaires
+T25	ANAT 515 535	fosse iliaque droite
+T26	Localization 529 535	droite
+T27	ANAT 552 567	reins grêliques
+T28	ANAT 580 601	ampoule recto-vaginal
+T29	PROC 626 662	tomodensitométrie abdomino-pelvienne
+T30	ANAT 644 662	abdomino-pelvienne
+T31	DISO 709 735	masse tissulaire hypodense
+T32	MEAS 744 748	13cm
+T33	MEAS 753 756	9cm
+T34	PROC 777 786	injection
+T35	CHEM 790 810	produit de contraste

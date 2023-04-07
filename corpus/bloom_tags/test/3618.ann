@@ -1,0 +1,80 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 69	admise
+T3	Hospital 84 102	service d'urologie
+T4	Hospital 106 118	CHU d'Amiens
+T5	DISO 138 181	syndrome d'épanchement liquidien péritonéal
+T6	ANAT 161 181	liquidien péritonéal
+T7	ANAT 197 208	péritonéale
+T8	PROC 214 228	interrogatoire
+T9	LIVB 232 240	patiente
+T10	DISO 284 305	traumatiques crâniens
+T11	LIVB 340 343	Ses
+T12	DISO 406 418	métastatique
+T13	MEAS 433 439	rapide
+T14	DISO 455 476	détresse respiratoire
+T15	PHEN 464 476	respiratoire
+T16	MEAS 503 510	modérée
+T17	CHEM 516 535	bêtaméthasone alpha
+T18	PROC 552 580	prise en charge chirurgicale
+T19	DISO 688 702	masse tumorale
+T20	MEAS 714 729	progressivement
+T21	Concept_Idea 733 739	taille
+T22	MEAS 749 757	brunâtre
+T23	DISO 762 773	douloureuse
+T24	LIVB 786 790	elle
+T25	MEAS 800 808	palpable
+T26	DISO 846 864	signe radiologique
+T27	DISO 890 919	symptomatologie fonctionnelle
+T28	DEVI 932 970	sonde nasogastrique transoesophaginale
+T30	PROC 1051 1083	intubation trachéo-oesophagienne
+T31	CHEM 1127 1138	tuberculine
+T32	DOSE 1139 1148	0,5 µg/kg
+T33	PROC 1155 1178	césarienne exploratrice
+T34	Localization 1225 1234	bilatéral
+T35	MEAS 1242 1254	2000 grammes
+T36	MEAS 1283 1297	indifférenciée
+T37	PROC 1312 1349	tomodensitométrie abdomino- pelvienne
+T38	ANAT 1330 1349	abdomino- pelvienne
+T39	MEAS 1405 1410	21 cm
+T40	Concept_Idea 1414 1423	grand axe
+T41	ANAT 1441 1459	parenchyme ovarien
+T42	DISO 1492 1506	malin kystique
+T43	DISO 1571 1599	épanchement hépato-splénique
+T44	ANAT 1583 1599	hépato-splénique
+T45	ANAT 1610 1627	iléo-pancréatique
+T46	DISO 1644 1659	ménométrorrhées
+T47	LIVB 1680 1701	obstétricocélibataire
+T48	MODE 1781 1797	poche-nouveau-né
+T49	DISO 1839 1851	hyperthermie
+T50	MEAS 1863 1869	38°6 C
+T51	DISO 1908 1929	troubles métaboliques
+T52	DISO 1935 1966	atteinte cardio-vasculonerveuse
+T53	ANAT 1944 1966	cardio-vasculonerveuse
+T54	DISO 1993 2024	thrombose veineuse infarctoïnée
+T55	DISO 2054 2079	lésions thromboemboliques
+T56	DISO 2093 2159	hypopigment érythémateus maculopapule cutané nodulaire prurigineux
+T57	ANAT 2181 2196	rachianesthésie
+T58	ANAT 2218 2239	sinus para vertébraux
+T59	PROC 2255 2264	injection
+T60	CHEM 2268 2293	produit de contraste iodé
+T61	DISO 2316 2324	kystique
+T62	DISO 2339 2350	anévrismale
+T63	PROC 2422 2449	angioscanner angiographique
+T64	DISO 2495 2553	dilatation ischémique des artères coronaires hypertrophiés
+T65	ANAT 2521 2553	artères coronaires hypertrophiés
+T66	PROC 2559 2589	radio-chimiothérapie adjuvante
+T67	CHEM 2618 2632	acronucléoside
+T68	DOSE 2634 2636	2g
+T69	TEMP 2636 2638	/j
+T70	CHEM 2646 2659	sulfasalazine
+T71	DOSE 2661 2667	1mg/kg
+T72	TEMP 2667 2669	/j
+T73	DISO 2720 2753	syndrome d'épanchement péritonéal
+T74	ANAT 2743 2753	péritonéal
+T75	TEMP 2763 2779	depuis deux mois
+T76	DISO 2794 2826	adénopathies cervico-thoraciques
+T78	PROC 2842 2857	examen clinique
+T79	LIVB 2859 2863	nous
+T80	LIVB 2880 2887	patient
+T81	Concept_Idea 2912 2930	plan hémodynamique
+T82	PHEN 2934 2946	respiratoire

@@ -1,0 +1,17 @@
+T1	TEMP 14 20	2 mois
+T2	DISO 100 124	choc anaphylactique aigu
+T3	PROC 191 200	transféré
+T4	DISO 217 231	déficit moteur
+T5	DISO 247 263	contage occlusif
+T6	ANAT 255 263	occlusif
+T7	DISO 274 302	signes clinico-radiologiques
+T8	LIVB 325 333	patiente
+T9	DISO 400 406	crises
+T10	TEMP 417 424	7 jours
+T11	PROC 456 465	scolarisé
+T12	PHEN 526 544	mariage consanguin
+T13	DISO 584 614	accident vasculaire ischémique
+T14	PROC 742 766	prise en charge médicale
+T15	DISO 900 931	manifestations pathognomoniques
+T16	DISO 1051 1080	effets secondaires psychiques
+T17	LIVB 1735 1737	sa

@@ -1,0 +1,33 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	2 ans
+T3	DISO 54 87	douleurs abdomino-rectales aiguës
+T4	ANAT 63 80	abdomino-rectales
+T5	DISO 97 109	métastatique
+T6	MEAS 124 135	progressive
+T7	TEMP 145 160	depuis 10 jours
+T8	Concept_Idea 196 208	état général
+T9	MEAS 219 222	3/5
+T10	DISO 300 325	vomissements alimentaires
+T11	DISO 341 347	fièvre
+T12	PROC 376 420	prélèvement liquido-cutanéo-muqueux purulent
+T13	ANAT 388 420	liquido-cutanéo-muqueux purulent
+T14	DISO 434 457	désorientation visuelle
+T15	DISO 471 493	détresse métabolitaire
+T16	MEAS 503 529	spontanément résolutivante
+T17	LIVB 552 555	son
+T18	Hospital 556 582	enfance scolarité publique
+T19	TEMP 600 606	12 ans
+T20	DISO 629 667	syndrome d'épanchement intrapéritonéal
+T21	ANAT 652 667	intrapéritonéal
+T22	DISO 687 712	symptômes dermatologiques
+T23	DISO 735 778	signes pathognomoniques clinico-biologiques
+T24	DISO 798 832	lésions papuleuses hyperpigmentées
+T25	DISO 860 907	adénopathies jugulo-carotidiennes cerviculaires
+T26	ANAT 873 907	jugulo-carotidiennes cerviculaires
+T27	DISO 914 935	cataracte congénitale
+T28	DISO 943 960	neurofibromatoses
+T29	DISO 968 994	hyperthyroïdie anévrismale
+T30	DISO 1001 1029	épanchement intra-péritonéal
+T31	ANAT 1013 1029	intra-péritonéal
+T32	PROC 1118 1131	sérologie VIH
+T33	MEAS 1138 1147	négativée

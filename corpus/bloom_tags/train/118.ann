@@ -1,0 +1,27 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	13 ans
+T3	MEAS 82 90	notables
+T4	DISO 109 128	déficit immunitaire
+T5	PROC 133 148	examen clinique
+T6	DISO 160 177	dyspnée sifflante
+T7	MEAS 192 198	rapide
+T8	TEMP 208 224	depuis deux mois
+T9	PROC 230 260	traitement médical substitutif
+T10	CHEM 275 293	méthylprednisolone
+T11	DOSE 296 301	60 mg
+T12	TEMP 301 303	/j
+T13	CHEM 306 319	sulfasalazine
+T14	DOSE 322 328	160 mg
+T15	TEMP 328 330	/j
+T16	PROC 359 389	radiothérapie locale adjuvante
+T17	PROC 395 407	TDF/EFV/4HCG
+T18	DISO 444 461	souffrance rénale
+T19	ANAT 455 461	rénale
+T20	DISO 474 507	complications thromboembolytiques
+T21	PROC 512 542	échographie abdomino-pelvienne
+T22	ANAT 524 542	abdomino-pelvienne
+T23	Hospital 556 577	urgences pédiatriques
+T24	DISO 595 640	hypertrophie vésiculaire hypertrophiedeutérée
+T25	ANAT 608 640	vésiculaire hypertrophiedeutérée
+T26	DISO 656 694	hypotrophie fœto-placentaire distendue
+T27	ANAT 668 694	fœto-placentaire distendue

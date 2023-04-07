@@ -1,0 +1,41 @@
+T1	LIVB 4 9	femme
+T2	DISO 103 114	tuberculose
+T3	DISO 121 147	maladie thromboembolisante
+T4	PROC 162 168	admise
+T5	Hospital 173 181	urgences
+T6	DISO 198 219	détresse respiratoire
+T7	PHEN 207 219	respiratoire
+T8	DISO 229 256	épanchement intrapéritonéal
+T9	ANAT 241 256	intrapéritonéal
+T10	MEAS 272 291	de grande abondance
+T11	PROC 310 321	cystoscopie
+T12	DISO 352 362	pathologie
+T13	LIVB 372 380	patients
+T14	DISO 421 430	symptômes
+T15	DISO 442 467	douleur pelvienne diffuse
+T16	ANAT 450 467	pelvienne diffuse
+T17	DISO 497 513	signes cliniques
+T18	DISO 527 539	hyperthermie
+T19	MEAS 550 554	40°C
+T20	ANAT 654 663	rénulaire
+T21	DISO 681 703	néphropathie purulente
+T22	PROC 820 850	recherche bactériomoellérienne
+T23	MEAS 903 912	négativée
+T24	PROC 1010 1039	colpofibroscopie chirurgicale
+T25	LIVB 1131 1139	patients
+T26	PROC 1178 1212	radiothérapie palliative adjuvante
+T27	CHEM 1246 1258	CEC/4RHZ/4RH
+T28	DOSE 1296 1303	5 mg/m²
+T29	TEMP 1304 1322	pendant 6 semaines
+T30	MEAS 1372 1385	spectaculaire
+T31	DISO 1428 1443	empyème nécrosé
+T32	PROC 1582 1610	investigations exploratoires
+T33	PROC 1644 1676	scanner thoraco-abdomino pelvien
+T34	ANAT 1652 1676	thoraco-abdomino pelvien
+T35	MEAS 1684 1690	normal
+T36	PROC 1705 1738	imagerie par résonance magnétique
+T37	PROC 1739 1742	IRM
+T38	DISO 1766 1785	lésions hétérogènes
+T39	ANAT 1820 1849	volumines cervico-thoraciques
+T40	PROC 2040 2053	cytochimiques
+T41	PROC 2087 2105	traitement curatif

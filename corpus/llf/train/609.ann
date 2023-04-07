@@ -1,0 +1,14 @@
+T1	PROC 3 29	examen
+T2	DISO 51 73	granulome
+T3	ANAT 61 73	épithélioïde
+T4	DISO 79 95	nécrose
+T5	ANAT 113 130	tissu
+T6	ANAT 137 159	région
+T7	DISO 175 190	adénocarcinomes
+T8	ANAT 204 218	tronc
+T9	PROC 261 288	tomodensitométrie
+T10	ANAT 279 288	cérébrale
+T11	DISO 309 335	envahissement
+T12	Localization 323 335	périphérique
+T13	DISO 339 362	métastase
+T14	ANAT 349 362	ganglionnaire

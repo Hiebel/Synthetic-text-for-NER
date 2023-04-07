@@ -1,0 +1,36 @@
+T1	LIVB 28 35	patient
+T2	DISO 69 95	polyarthrite inflammatoire
+T3	DISO 111 144	syndrome d'épanchement péritonéal
+T4	ANAT 134 144	péritonéal
+T6	ANAT 162 172	artérielle
+T7	DISO 189 226	néphropathie congénitale hypertensive
+T8	CHEM 261 274	sulfasalazine
+T9	CHEM 276 294	méthylprednisolone
+T10	DOSE 296 302	1mg/kg
+T11	TEMP 302 304	/j
+T12	CHEM 307 338	amoxicilline/acide clavulanique
+T13	CHEM 320 338	acide clavulanique
+T14	PROC 343 372	échographie abdominopelvienne
+T15	ANAT 355 372	abdominopelvienne
+T16	PHEN 386 406	grossesse ombilicale
+T17	ANAT 396 406	ombilicale
+T18	MEAS 417 422	38 SA
+T19	DISO 476 493	souffrance fœtale
+T20	DISO 499 521	épanchement péritonéal
+T21	ANAT 511 521	péritonéal
+T22	MEAS 531 536	20 cm
+T23	MEAS 541 546	30 cm
+T24	DISO 559 611	masse tissulaire hypo échogéminée lobulée hypokaliée
+T25	MEAS 620 631	environ 5cm
+T26	Concept_Idea 635 644	grand axe
+T27	ANAT 661 682	structures ovariennes
+T28	DEVI 698 709	matroscopes
+T29	PROC 733 757	laparotomie exploratrice
+T30	DISO 786 808	dilatation péritonéale
+T31	PROC 821 845	diagnostic préopératoire
+T32	DISO 877 892	kyste hydatique
+T33	DISO 927 959	granulome érythémateux purulente
+T34	DISO 1005 1031	hyperplasie granulomateuse
+T35	DISO 1225 1244	maladie infectieuse
+T36	PROC 1282 1298	radiologiquement
+T37	TEMP 1341 1344	J-1

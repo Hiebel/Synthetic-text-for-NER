@@ -1,0 +1,41 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	2 ans
+T3	Concept_Idea 37 62	antécédents pathologiques
+T4	MEAS 63 75	particuliers
+T5	DISO 95 120	vomissements alimentaires
+T6	Concept_Idea 165 177	état général
+T7	PROC 181 196	examen clinique
+T8	DISO 217 238	détresse respiratoire
+T9	PHEN 226 238	respiratoire
+T10	CHEM 262 275	sulfasalazine
+T11	DOSE 277 283	500 mg
+T12	TEMP 283 285	/j
+T13	DEVI 296 315	sonde nasogastrique
+T15	PROC 348 377	corticothérapie intraveineuse
+T16	CHEM 392 407	méthylphénidone
+T17	CHEM 412 426	neuroleptiques
+T18	PROC 440 465	réhydratation parenterale
+T19	PROC 519 536	bilan étiologique
+T20	PROC 552 582	cholangiographie ultrasensible
+T21	CHEM 661 674	metaméthasone
+T22	PROC 681 686	reçue
+T23	MEAS 718 724	rapide
+T24	MEAS 734 744	permanente
+T25	PROC 780 848	ponction biopsie tissulaire pancréatique infarcto-lésionnelle étagée
+T26	ANAT 797 807	tissulaire
+T27	ANAT 867 887	greffon pancréatique
+T28	PROC 902 946	tomodensitométrie thoraco-abdomino-pelvienne
+T29	ANAT 920 946	thoraco-abdomino-pelvienne
+T30	LIVB 964 972	patiente
+T31	DISO 1020 1045	épigastralgies chroniques
+T32	DISO 1086 1112	sténose iléo-hypogastrique
+T33	ANAT 1094 1112	iléo-hypogastrique
+T34	DISO 1128 1185	adénopathie jugulo-mandibulaire latéro-supra épigastrique
+T35	ANAT 1140 1185	jugulo-mandibulaire latéro-supra épigastrique
+T36	ANAT 1204 1222	flancs intestinaux
+T37	MEAS 1234 1249	progressivement
+T38	Concept_Idea 1253 1259	taille
+T39	MEAS 1277 1282	10 cm
+T40	Concept_Idea 1285 1294	grand axe
+T41	DISO 1312 1331	saignement purulent
+T42	MEAS 1346 1368	rapidement progressive

@@ -1,0 +1,58 @@
+T1	LIVB 3 8	homme
+T2	DISO 49 70	hémiplégie rémittente
+T3	CHEM 76 89	Céphalosérine
+T4	PROC 94 99	admis
+T5	Hospital 104 129	urgences ophtalmologiques
+T6	DISO 148 176	hyperpression intracrânienne
+T7	ANAT 162 176	intracrânienne
+T8	PROC 207 246	intubation oeso-gastroduodénale directe
+T9	ANAT 218 246	oeso-gastroduodénale directe
+T10	PROC 262 296	transfusion sanguine intraveineuse
+T11	DOSE 302 308	1mg/kg
+T12	CHEM 312 334	culocortylprednisolone
+T13	MODE 339 358	voie intra veineuse
+T14	PROC 373 403	traitement médical substitutif
+T15	CHEM 414 427	dexaméthasone
+T16	DOSE 430 437	3 mg/kg
+T17	CHEM 439 449	furosémide
+T18	DOSE 452 457	50 mg
+T19	CHEM 460 471	nicardipril
+T20	DOSE 474 479	20 mg
+T21	CHEM 493 512	acétylsulfasalazine
+T22	DOSE 514 520	200 mg
+T23	CHEM 523 535	césufentanil
+T24	DOSE 538 550	100 µmol /ml
+T25	PROC 557 583	explorations chirurgicales
+T26	DISO 603 629	masse tumorale hypotensive
+T27	MEAS 639 643	46cm
+T28	Concept_Idea 647 655	diamètre
+T29	PROC 676 685	injection
+T30	CHEM 689 709	produit de contraste
+T31	ANAT 727 760	parenchyme graisseux pancréatique
+T32	LIVB 788 794	enfant
+T33	DISO 805 813	tumorale
+T34	PROC 817 850	imagerie par résonance magnétique
+T35	PROC 852 855	IRM
+T36	Localization 857 865	centrale
+T38	ANAT 1094 1131	muscles para vertébraux cerviculaires
+T39	ANAT 1152 1184	fosse iliaque supra thyroïdienne
+T40	Localization 1166 1171	supra
+T41	ANAT 1235 1265	substance ptérygo-mésentérique
+T42	ANAT 1293 1308	voies biliaires
+T43	Concept_Idea 1336 1345	caractère
+T44	DISO 1362 1375	ganglionnaire
+T45	DISO 1389 1401	métastatique
+T46	DISO 1408 1413	masse
+T47	DISO 1478 1494	organométastases
+T48	DISO 1614 1647	syndrome d'épanchement péritonéal
+T49	ANAT 1637 1647	péritonéal
+T50	DISO 1654 1677	dilatation tuberculoïde
+T51	DISO 1733 1749	kystique tumoral
+T52	DISO 1799 1820	nouveau-né nécrotique
+T53	DISO 1892 1927	traumatisme vasculo-cutané purulent
+T54	ANAT 1904 1927	vasculo-cutané purulent
+T55	PROC 1949 1972	opérer chirurgicalement
+T56	PROC 1978 2034	anesthésie locorégionale du liquide pleural intrarachéal
+T57	ANAT 2006 2034	liquide pleural intrarachéal
+T58	PROC 2061 2089	traitement médical palliatif
+T59	TEMP 2091 2109	pendant 6 semaines

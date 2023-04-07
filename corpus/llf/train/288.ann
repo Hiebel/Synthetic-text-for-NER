@@ -1,0 +1,16 @@
+T1	PROC 3 31	tomodensitométrie
+T2	ANAT 21 31	thoracique
+T3	Concept_Idea 47 53	aspect
+T4	DISO 69 101	mélanome
+T5	Localization 78 87	bilatéral
+T6	ANAT 91 101	sein
+T7	Localization 96 101	droit
+T8	DISO 117 140	métastase
+T9	ANAT 127 140	ganglionnaire
+T10	ANAT 155 170	sinus
+T11	PROC 174 200	examen
+T12	ANAT 207 222	pièce
+T13	PROC 213 222	biopsique
+T14	DISO 245 286	tumeur
+T15	PROC 297 307	histologie
+T16	MEAS 354 380	difficile

@@ -1,0 +1,66 @@
+T1	LIVB 4 9	femme
+T2	Hospital 47 55	urgences
+T3	DISO 65 85	céphalalgies fébrile
+T4	TEMP 95 109	depuis 7 jours
+T5	DISO 145 163	hématurie biliaire
+T6	MEAS 175 181	1000ml
+T7	DISO 202 228	troubles sensitivo-moteurs
+T8	DISO 241 295	syndrome d'épanchement liquidien péri cutané purulents
+T10	ANAT 316 334	membres inférieurs
+T11	DISO 350 356	fièvre
+T12	PHEN 392 407	fonction rénale
+T13	ANAT 401 407	rénale
+T14	DISO 446 458	thrombopénie
+T15	DISO 469 478	anomalies
+T16	DISO 505 526	déficit neurorétinien
+T17	DISO 536 558	atteinte surrénalienne
+T18	ANAT 545 558	surrénalienne
+T19	DISO 620 642	occlusion hémorragique
+T20	LIVB 669 678	métriques
+T21	PROC 689 695	reçues
+T22	DISO 746 783	épanchement intrapéritonéal liquidien
+T23	ANAT 758 783	intrapéritonéal liquidien
+T24	DISO 813 828	perte pondérale
+T25	PROC 834 864	traitement médical substitutif
+T26	CHEM 877 901	hydrocortisone glucoside
+T27	DOSE 903 909	2mg/kg
+T28	TEMP 909 911	/j
+T29	PROC 943 961	protocole 2RHZ/4RH
+T30	MODE 964 982	voie intraveineuse
+T32	CHEM 1045 1058	dexaméthasone
+T33	DOSE 1061 1068	1 mg/kg
+T34	TEMP 1068 1079	/ 48 heures
+T35	MODE 1096 1106	voie orale
+T36	PROC 1166 1179	TDM pelvienne
+T37	ANAT 1170 1179	pelvienne
+T38	DISO 1196 1291	distension intestinale grêlique segmentaire iléocoecale mésentérique transverse hypo-signal T2*
+T40	ANAT 1312 1328	sigmoïdéo-caecum
+T41	Localization 1340 1354	partie distale
+T42	Concept_Idea 1544 1552	contours
+T43	MEAS 1553 1561	respecté
+T44	DISO 1582 1603	niveaux hydro-aérique
+T45	MEAS 1627 1647	complètement dévolue
+T46	DISO 1683 1698	hyposignal T1T2
+T47	ANAT 1725 1783	anse intestinale sigmoïdéo-coecale mesentérique transverse
+T48	MEAS 1797 1801	deux
+T49	ANAT 1847 1866	zones anévricielles
+T50	ANAT 1899 1921	tissu adipeux fundique
+T51	DISO 1970 2040	nodules hyper-intenses hétérogène nodulaires tumoraux mal systématisés
+T52	DISO 2184 2222	ganglions éosinophiles carcinomateuses
+T53	ANAT 2346 2354	pancréas
+T54	DISO 2367 2390	localisations associées
+T55	PROC 2406 2422	examen somatique
+T56	DISO 2444 2472	épanchement intra-péritonéal
+T57	ANAT 2456 2472	intra-péritonéal
+T58	LIVB 2477 2483	malade
+T59	PROC 2502 2527	chimiothérapie palliative
+T60	CHEM 2542 2549	taxanes
+T61	CHEM 2551 2564	Cyclohexamide
+T62	CHEM 2566 2576	Cisplatine
+T63	CHEM 2580 2591	Adriamycine
+T64	CHEM 2597 2615	corticosurrénalien
+T65	CHEM 2617 2631	hydrocortisone
+T66	CHEM 2645 2666	antiangiosclérotiques
+T67	CHEM 2668 2687	Valproate de sodium
+T68	PROC 2693 2724	radiothérapie externe adjuvante
+T69	LIVB 2792 2800	patients

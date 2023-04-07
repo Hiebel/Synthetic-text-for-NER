@@ -1,0 +1,95 @@
+T1	LIVB 19 26	patient
+T2	DISO 69 92	hypertension artérielle
+T3	ANAT 82 92	artérielle
+T4	PROC 96 111	examen clinique
+T5	Concept_Idea 124 136	état général
+T6	MEAS 137 143	altéré
+T7	DISO 153 174	distractions utérines
+T8	ANAT 166 174	utérines
+T9	DISO 189 209	douleurs abdominales
+T10	ANAT 198 209	abdominales
+T11	ANAT 223 240	col fémoral droit
+T12	Localization 235 240	droit
+T13	DISO 253 259	signes
+T14	PROC 273 300	numération formule sanguine
+T15	MEAS 307 314	normale
+T16	PROC 321 337	bilan biologique
+T17	PROC 350 359	admission
+T18	DISO 386 402	hyperleucocytose
+T19	MEAS 405 446	14400 globules blancs par millimètre cube
+T20	MEAS 448 465	6 fois la normale
+T21	DISO 481 496	symptomatologie
+T22	DISO 535 563	symptomatologie pathologique
+T23	PROC 568 587	examens biologiques
+T24	DISO 606 621	hémophagocytose
+T25	MEAS 624 642	9500 éléments/mm 3
+T26	CHEM 667 735	pénicilline acide méthyltransférase Acide Leucérophosphonate B12 OCR
+T27	DOSE 739 789	4-hydroxyzine glutaméthoxazole acétyle vicryl 20 g
+T28	TEMP 789 793	/24h
+T29	PHEN 847 862	acuité visuelle
+T30	PROC 893 927	cholécystotomie transoesophagienne
+T31	PROC 947 966	annexectomie totale
+T32	DISO 985 1010	localisations secondaires
+T33	PROC 1072 1104	scanner thoraco-abdomino-pelvien
+T34	ANAT 1080 1104	thoraco-abdomino-pelvien
+T35	DISO 1131 1184	cirrhose anévrysmale myxomateuse érythémato-digestive
+T36	ANAT 1205 1238	région scapulaire médio hépatique
+T37	Localization 1223 1228	médio
+T38	ANAT 1260 1291	paroi postéro-supérieure gauche
+T39	Localization 1285 1291	gauche
+T40	MEAS 1301 1306	18 mm
+T41	Concept_Idea 1310 1319	grand axe
+T42	DISO 1327 1355	prolifération carcinomateuse
+T43	PROC 1447 1481	traitements anticoagulants inhalés
+T44	CHEM 1459 1481	anticoagulants inhalés
+T46	PROC 1613 1636	radiothérapie adjuvante
+T47	PROC 1672 1712	kinésithérapie motrice substitutionnelle
+T48	PROC 1743 1793	prise en charge psychothérapeutique individualisée
+T49	PROC 1795 1855	régime pauvre en graisses insaturées hypocholestérolémiantes
+T50	PROC 1861 1914	supplémentation en calcium colloïdal sodique calcique
+T51	CHEM 1880 1914	calcium colloïdal sodique calcique
+T53	CHEM 1935 1964	métronidazole dimethylglycine
+T55	PROC 2101 2124	traitement conservateur
+T56	PROC 2166 2189	contrôles radiologiques
+T57	PROC 2223 2244	recherche étiologique
+T58	LIVB 2260 2267	patient
+T59	DISO 2297 2322	maladie cœlio-rachidienne
+T60	DISO 2357 2379	affections rhumatoïdes
+T61	MEAS 2479 2489	similaires
+T62	PROC 2494 2521	dossier anatomopathologique
+T63	DISO 2573 2594	maladies auto-immunes
+T64	Concept_Idea 2626 2656	résultats immunohistochimiques
+T65	DISO 2684 2717	complications neuropsychiatriques
+T66	DISO 2856 2880	encéphalopathie subaigüe
+T67	DISO 2887 2906	paralysie des mains
+T68	ANAT 2901 2906	mains
+T69	DISO 2919 2939	symptômes infectieux
+T70	DISO 3000 3073	carcinome épidermoïde primitif du foie cervico-thyroïdien supérieur droit
+T72	Localization 3068 3073	droit
+T73	PROC 3132 3150	bilan histologique
+T74	DISO 3192 3271	tissu fibro-vasculo-nerveux tissulaire érythémateux cutané nodulaire egastrique
+T75	MEAS 3281 3288	15/8 cm
+T76	ANAT 3313 3325	flanc gauche
+T77	Localization 3319 3325	gauche
+T78	ANAT 3407 3424	noyaux axillaires
+T79	MEAS 3448 3452	7 mm
+T80	MEAS 3456 3459	5mm
+T81	ANAT 3465 3483	cellules tumorales
+T82	PHEN 3598 3616	liquide gélatineux
+T83	Concept_Idea 3629 3637	quantité
+T84	MEAS 3638 3649	environ 10%
+T85	ANAT 3653 3659	selles
+T86	MEAS 3737 3763	0,6 fois la dose prescrite
+T87	MEAS 3784 3803	40 x 30 millimètres
+T88	Concept_Idea 3812 3828	plan transversal
+T89	ANAT 3867 3885	chaine lymphatique
+T90	ANAT 3893 3909	branches rénales
+T91	ANAT 3928 3967	nerf laryngé inférieur inférieur gauche
+T92	Localization 3951 3967	inférieur gauche
+T93	PROC 4009 4026	scanner abdominal
+T94	ANAT 4017 4026	abdominal
+T95	DISO 4159 4203	lésions kystiques achromiques métachromiques
+T96	DISO 4207 4257	tumeur mucocytosique anaplasmocytaire prurigineuse
+T97	PROC 4282 4342	ponction biopsie segmentaire scanno-guidée écho-endoscopique
+T98	DISO 4374 4410	niveaux hydroaryténoïdiens fundiques
+T99	ANAT 4427 4446	plaque thyroïdienne

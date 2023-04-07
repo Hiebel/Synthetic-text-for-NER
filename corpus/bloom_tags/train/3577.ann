@@ -1,0 +1,25 @@
+T1	LIVB 20 28	patiente
+T2	DISO 50 75	antécédents pathologiques
+T3	MEAS 76 84	notables
+T4	PROC 86 94	adressée
+T5	Hospital 99 121	urgences chirurgicales
+T6	DISO 130 153	carcinome du sein droit
+T7	ANAT 143 153	sein droit
+T8	Localization 148 153	droit
+T9	PROC 157 172	examen clinique
+T10	PROC 177 186	admission
+T11	LIVB 200 208	patiente
+T12	MEAS 212 215	bon
+T13	Concept_Idea 216 228	état général
+T14	PHEN 238 251	signes vitaux
+T15	MEAS 252 259	normaux
+T16	PROC 263 294	échographie abdomino- pelvienne
+T17	ANAT 275 294	abdomino- pelvienne
+T18	DISO 334 419	épanchement liquidien périvésiculaire latéro-mésentriculaire bilatéral sur-nécrasique
+T20	Localization 395 408	bilatéral sur
+T21	MEAS 429 436	22x15mm
+T22	Concept_Idea 439 445	aspect
+T23	MEAS 446 454	homogène
+T24	MEAS 458 473	circonférentiel
+T25	PROC 501 510	injection
+T26	CHEM 514 525	propranolol

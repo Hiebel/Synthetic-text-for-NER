@@ -1,0 +1,73 @@
+T1	LIVB 3 10	patient
+T2	Concept_Idea 31 42	antécédents
+T3	MEAS 43 55	particuliers
+T4	PROC 66 71	admis
+T5	Hospital 76 84	urgences
+T6	DISO 103 125	insuffisance cardiaque
+T7	ANAT 116 125	cardiaque
+T8	DISO 142 157	symptomatologie
+T9	TEMP 168 174	3 mois
+T10	DISO 208 220	hyperthermie
+T11	PROC 237 258	ventilation mécanique
+T12	CHEM 274 285	corticoïdes
+T13	DOSE 287 292	20 mg
+T14	TEMP 292 294	/j
+T15	PROC 348 380	broncho-pneumotomie exploratrice
+T16	DISO 418 439	syndrome hémorragique
+T17	PHEN 444 469	facteur de décompensation
+T18	LIVB 478 488	nourrisson
+T19	PROC 494 523	anticoagulation intraveineuse
+T20	PROC 540 550	hémogramme
+T21	DISO 571 591	récidive infectieuse
+T22	DISO 598 615	résidu infectieux
+T23	PROC 667 691	échographie obstétricale
+T24	PROC 719 734	hospitalisation
+T25	MEAS 749 756	stricte
+T26	PROC 768 792	recherches anamnestiques
+T27	PROC 825 867	mastectomie totale axillaire scanno-guidée
+T28	ANAT 887 903	pièce opératoire
+T29	ANAT 939 972	troncs supra-aorto-paravertébraux
+T30	ANAT 1011 1028	annexes digestifs
+T33	Localization 1175 1188	longitudinale
+T34	PROC 1274 1290	toilette cutanée
+T35	ANAT 1283 1290	cutanée
+T36	DISO 1339 1349	métastases
+T37	PROC 1391 1409	gynécologie fœtale
+T38	DISO 1428 1467	processus tissulaire érythémato-pelvien
+T39	MEAS 1531 1538	simples
+T40	PROC 1545 1551	admise
+T41	DISO 1561 1577	crise convulsive
+T42	PROC 1595 1616	traitements adjuvants
+T43	MEAS 1666 1683	5 cycles /10 cm 3
+T44	MEAS 1689 1706	4 fois la normale
+T45	Concept_Idea 1719 1736	état neurologique
+T46	DISO 1766 1772	fièvre
+T47	MEAS 1783 1789	39 ° C
+T48	Concept_Idea 1822 1834	état général
+T49	DISO 1866 1905	thyréopathie interstitielle congénitale
+T50	DISO 1927 1952	perte pondérale terminale
+T51	DISO 1981 1988	cyanose
+T52	DISO 2000 2036	sensations délirantes psychomotrices
+T53	DISO 2052 2079	hallucinations sensorielles
+T54	PROC 2155 2170	examen clinique
+T55	DISO 2206 2228	conversions somatiques
+T56	DEVI 2267 2293	seringues hypodisphériques
+T57	MEAS 2335 2354	de façon hétérogène
+T58	PROC 2392 2409	geste chirurgical
+T59	DISO 2553 2576	trouble bipolaire aiguë
+T60	DISO 2941 2966	confusions psychiatriques
+T61	ANAT 3149 3174	symptômes comportementaux
+T62	DISO 3215 3222	dyspnée
+T63	LIVB 3249 3267	mariage consanguin
+T64	TEMP 3283 3299	quelques minutes
+T65	PHEN 3960 3981	grossesse monofoetale
+T66	LIVB 4039 4047	patients
+T67	PROC 4065 4087	chirurgie exploratrice
+T68	LIVB 4158 4161	ils
+T69	PROC 4192 4220	consultations préopératoires
+T70	PROC 4438 4466	prise en charge diagnostique
+T71	PROC 4599 4647	laparotomie exploratrice percutanée chirurgicale
+T72	PROC 4653 4700	corticothérapie intraveineuse substitutionnelle
+T73	CHEM 4701 4711	Tamoxifen®
+T74	LIVB 4781 4784	nos
+T75	LIVB 4785 4805	oncologues pédiatres

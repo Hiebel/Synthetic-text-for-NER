@@ -1,0 +1,19 @@
+T1	LIVB 28 35	patient
+T2	Concept_Idea 51 55	âgée
+T3	PHEN 58 70	accouchement
+T4	PROC 94 128	radiothérapie palliative adjuvante
+T5	Hospital 133 158	urgences ophtalmologiques
+T6	MEAS 215 221	12/10°
+T7	PROC 243 263	reprise chirurgicale
+T8	PROC 285 303	traitement curatif
+T9	PROC 345 368	examens complémentaires
+T10	CHEM 488 500	prédnisolone
+T11	PROC 507 541	infarctus artério-ventriculaire ST
+T12	ANAT 517 541	artério-ventriculaire ST
+T13	Localization 570 578	totalité
+T14	DISO 994 1033	insuffisance rénalo-cæcale pancréatique
+T15	ANAT 1007 1033	rénalo-cæcale pancréatique
+T16	ANAT 1061 1077	pancréato-rénale
+T17	DISO 1202 1245	maladie neurogénétique purpura prurigineuse
+T18	PROC 1338 1368	échographie abdomino-pelvienne
+T19	ANAT 1350 1368	abdomino-pelvienne

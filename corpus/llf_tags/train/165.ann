@@ -1,0 +1,86 @@
+T1	LIVB 15 23	patiente
+T2	DISO 45 70	antécédents pathologiques
+T3	MEAS 71 83	particuliers
+T4	PROC 104 129	chimiothérapie palliative
+T5	CHEM 141 174	immunoglobulines polyvalentes IgG
+T6	PHEN 179 188	grossesse
+T7	PROC 201 207	suivie
+T8	LIVB 215 235	médecin obstétricien
+T9	Concept_Idea 241 247	enfant
+T10	TEMP 292 299	24 mois
+T11	LIVB 308 314	garçon
+T12	MEAS 363 370	simples
+T13	LIVB 389 397	patiente
+T14	LIVB 432 436	père
+T15	PROC 457 479	consultation prénatale
+T16	PROC 483 494	échographie
+T17	Hospital 507 514	urgence
+T18	ANAT 542 557	masse cervicale
+T19	ANAT 561 571	bronchique
+T20	PROC 586 616	tomodensitométrie exploratoire
+T21	PROC 618 648	TDM) cervico-thoraco-abdominal
+T22	ANAT 623 648	cervico-thoraco-abdominal
+T23	Localization 669 682	2/3 inférieur
+T25	MEAS 747 751	5 cm
+T26	MEAS 755 759	4 mm
+T27	MEAS 807 811	6 cm
+T28	PROC 815 841	examen anatomopathologique
+T29	PROC 865 891	étude immuno-histochimique
+T30	LIVB 909 917	patiente
+T31	DISO 970 1068	métastase spléno-pancréatico péritonéale mésentérique gastroduodénale rénale fœtale hypercalvéïque
+T33	PROC 1078 1171	classification de Jensen Actions of the College of Obstetrics and Biotherapeutic ketoacidosis
+T34	PROC 1187 1197	diagnostic
+T35	DISO 1227 1267	maladie cœliaque néphropathie diabétique
+T36	DISO 1285 1323	hypergammaglobulinémie polymyocardique
+T38	Concept_Idea 1447 1466	aspect histologique
+T39	DISO 1529 1550	maladies lithiasiques
+T40	DISO 1586 1636	hyperparathyroïdie primaire hétérozygote stade EBP
+T41	DISO 1649 1689	symptomatologie neuropsychiatrique aiguë
+T42	LIVB 2027 2038	jeune femme
+T43	LIVB 2103 2105	sa
+T44	LIVB 2106 2113	famille
+T45	MEAS 2144 2145	7
+T46	LIVB 2146 2153	enfants
+T47	LIVB 2216 2219	son
+T48	LIVB 2220 2230	nouveau-né
+T49	PROC 2254 2281	assistance médicale urgente
+T50	PROC 2306 2352	transfusion sanguine intraveineuse parentérale
+T51	DEVI 2472 2495	cathéter haute pression
+T52	MEAS 2503 2517	2200 gramme Kg
+T53	ANAT 2537 2573	troncs supraventriculaires digestifs
+T54	ANAT 2595 2620	voies urinaires centrales
+T56	PROC 2739 2767	prise en charge chirurgicale
+T57	PROC 2783 2799	bilan biologique
+T58	DISO 2827 2863	hypocalcémie hypochrome microcytaire
+T59	MEAS 2866 2876	3,4 mmol/l
+T60	Concept_Idea 2878 2884	valeur
+T61	MEAS 2885 2892	normale
+T62	MEAS 2893 2912	entre 4 et 22mmol/l
+T63	PHEN 2918 2933	fonction rénale
+T64	ANAT 2927 2933	rénale
+T65	MEAS 2946 2954	correcte
+T66	PROC 2968 2983	examen clinique
+T67	DISO 3004 3020	râles crépitants
+T68	ANAT 3034 3044	rein droit
+T69	Localization 3039 3044	droit
+T70	DISO 3057 3078	signes inflammatoires
+T71	DISO 3082 3105	dyschromatopéricardique
+T72	PROC 3118 3142	échographie obstétricale
+T73	Concept_Idea 3170 3199	caractère cytobactériologique
+T74	PROC 3223 3256	scanner thoraco-abdomino- pelvien
+T75	ANAT 3231 3256	thoraco-abdomino- pelvien
+T76	Concept_Idea 3280 3296	haute résolution
+T77	DISO 3331 3347	lésion polylobée
+T78	MEAS 3357 3362	14 cm
+T79	Concept_Idea 3366 3375	grand axe
+T80	MEAS 3384 3397	5 centimètres
+T81	Concept_Idea 3401 3410	petit axe
+T82	ANAT 3446 3467	cellules épiploi͏̈des
+T83	ANAT 3502 3512	plaquettes
+T84	DISO 4014 4025	tuberculose
+T85	PROC 4031 4057	étude immuno-histochimique
+T86	LIVB 4073 4080	patient
+T87	DISO 4106 4139	myxocytose tuberculeuse primitive
+T88	DISO 4155 4182	anémie normocytaire maligne
+T89	MEAS 4193 4202	8,6 pg/dl
+T90	CHEM 4385 4418	glucantidéshydrogénases alcalines

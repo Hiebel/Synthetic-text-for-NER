@@ -1,0 +1,79 @@
+T1	LIVB 19 27	patiente
+T2	PROC 53 65	hospitalisée
+T3	Hospital 74 81	service
+T4	DISO 91 120	tuméfaction du tronc cérébral
+T5	ANAT 106 120	tronc cérébral
+T6	TEMP 130 143	depuis 4 mois
+T7	MEAS 156 171	progressivement
+T8	Concept_Idea 175 181	taille
+T9	DISO 191 217	signes neuropsychiatriques
+T10	PROC 221 236	examen clinique
+T11	PROC 241 250	admission
+T12	LIVB 263 270	patient
+T13	Concept_Idea 295 313	plan hémodynamique
+T14	PHEN 317 329	respiratoire
+T15	DISO 335 349	déficit moteur
+T16	DISO 353 381	altération de l'état général
+T17	Concept_Idea 369 381	état général
+T18	PROC 397 412	examen physique
+T19	DISO 424 437	particularité
+T20	PROC 442 458	bilan biologique
+T21	DISO 489 529	syndrome cérébelleux staturo-cérébelleux
+T22	DISO 531 535	HTAP
+T23	CHEM 557 585	antipsychotiques thyroidiens
+T24	CHEM 591 603	Halopéridol®
+T25	DOSE 604 609	400mg
+T26	TEMP 609 611	/j
+T27	PROC 617 646	prise en charge psychiatrique
+T28	PROC 682 721	rééducation fonctionnelle psychomotrice
+T29	PROC 748 790	complément thérapeutique cognitivo-motrice
+T30	LIVB 803 826	confrères ophtalmologue
+T31	LIVB 830 844	orthopédagogue
+T32	LIVB 865 877	psychologues
+T33	PROC 898 922	traitements substitutifs
+T34	LIVB 941 951	nourrisson
+T35	TEMP 959 966	18 mois
+T36	DISO 984 999	symptomatologie
+T37	PROC 1034 1048	interrogatoire
+T38	LIVB 1054 1060	enfant
+T39	PROC 1495 1521	consultations préopinioïde
+T40	PROC 1575 1610	conseils diététiques intraveineuses
+T41	Concept_Idea 1677 1693	idées délirantes
+T42	LIVB 1712 1714	sa
+T43	LIVB 1715 1719	sœur
+T44	PROC 1734 1761	chimiothérapie néoadjuvante
+T45	PROC 1777 1811	thyroïdectomie radicale percutanée
+T46	PROC 1825 1957	néphrectomie totale élargie axillaire rétro péritonéale rénale bilatérale transoesophagienne distale jugulaire anténatale fistulisée
+T47	Localization 1888 1925	bilatérale transoesophagienne distale
+T48	PROC 1977 2072	pancréatectomie ouverte endoscléro-mandibulaire termino-aorto-coronale controlatérale sclérosée
+T50	PROC 2089 2402	anastomose termino-interventriculaire rétropéritonéale cervicale retro rachidienne latérale postéro-supra mandibulaire fémoro-abdomino-céphalique temporale transversale rétrograde médiale bipédiculaire costale interne lombosacrale externe gauche longitudinale asymétrique supérieure tranchante inférieure arrondie
+T53	PROC 2436 2529	curage ganglionnaire subocclusif monobloc periplésilaterale multidisciplinaire postopératoire
+T54	DEVI 2551 2577	annexes cutanées adhésives
+T55	MEAS 2612 2621	12 x 6 cm
+T56	MEAS 2625 2634	14 x 7 cm
+T57	MEAS 2667 2677	favorables
+T58	PROC 2684 2705	contrôle orthopédique
+T59	PROC 2728 2756	fermeture périostée manuelle
+T60	Localization 2816 2822	gauche
+T61	DISO 2899 2926	remaniements inflammatoires
+T62	Concept_Idea 3166 3193	autre hémisphère du cerveau
+T63	ANAT 3272 3300	nerf laryngé inférieur droit
+T64	Localization 3295 3300	droit
+T65	Concept_Idea 3314 3331	activité sportive
+T66	PROC 3411 3426	examen physique
+T67	DISO 3436 3449	particularité
+T68	DISO 3467 3486	syndrome infectieux
+T69	DISO 3496 3516	déficit neurologique
+T70	DISO 3548 3575	troubles sensitivo-auditifs
+T71	PHEN 3602 3625	réflexes proprioceptifs
+T72	PROC 3666 3690	échographie obstétricale
+T73	LIVB 3706 3713	malades
+T79	DISO 4060 4099	formation tissulaire liquidienne rompue
+T80	ANAT 4117 4171	tronc intertemporel tibial antérieur superintracrânien
+T81	Localization 4154 4171	superintracrânien
+T82	ANAT 4191 4257	symphyse pubiscoïdale métatarsienne supérieur susinférieure S5 /S6
+T85	Concept_Idea 4474 4509	caractéristiques anatomopathologies
+T86	DISO 4517 4523	tumeur
+T87	MEAS 4533 4538	10 mm
+T88	Concept_Idea 4542 4551	grand axe
+T89	MEAS 4564 4569	11 mm

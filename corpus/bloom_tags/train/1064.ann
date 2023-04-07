@@ -1,0 +1,39 @@
+T1	LIVB 29 37	patiente
+T2	DISO 72 94	douleurs épigastriques
+T3	ANAT 81 94	épigastriques
+T4	TEMP 104 117	depuis 3 mois
+T5	DISO 133 185	déficit moteur du muscle obturateur péripancréatique
+T7	PROC 191 200	admission
+T8	Hospital 205 230	urgences ophtalmologiques
+T9	DISO 247 279	traumatisme purpura hémorragique
+T10	PROC 322 346	laparotomie exploratrice
+T11	PROC 368 392	anesthésie locorégionale
+T12	ANAT 379 392	locorégionale
+T13	PROC 398 509	mise en place d’une sonde pédicule pancréatique para-pulmonaire latéro-supra-latérale endoscopiquement réalisée
+T16	Localization 511 519	A gauche
+T17	DISO 557 618	syndrome d’épanchement intravésiculaire liquidien lithiasique
+T18	ANAT 580 618	intravésiculaire liquidien lithiasique
+T19	DISO 631 645	particularités
+T20	DISO 662 680	atteinte digestive
+T21	PHEN 671 680	digestive
+T22	DISO 690 710	signes radiologiques
+T23	DISO 727 748	troubles métaboliques
+T24	PROC 776 806	échographie abdomino-pelvienne
+T25	ANAT 788 806	abdomino-pelvienne
+T26	DISO 864 879	symptomatologie
+T27	DISO 899 926	métastase hépato-ombilicale
+T28	ANAT 909 926	hépato-ombilicale
+T29	DISO 928 955	carcinose duodéno-axillaire
+T30	ANAT 938 955	duodéno-axillaire
+T31	DISO 968 1012	envahissement médullaire cervico-vésiculaire
+T32	ANAT 982 1012	médullaire cervico-vésiculaire
+T33	LIVB 1021 1029	patients
+T34	PROC 1066 1101	radiothérapie locorégionale externe
+T35	PROC 1122 1149	chimiothérapie séquentielle
+T36	CHEM 1164 1175	doxycycline
+T37	DOSE 1178 1184	200 mg
+T38	MODE 1187 1197	voie orale
+T39	TEMP 1198 1214	pendant 10 jours
+T40	CHEM 1228 1240	méthotrexate
+T41	DOSE 1243 1248	50 mg
+T42	TEMP 1249 1270	toutes les 8 semaines

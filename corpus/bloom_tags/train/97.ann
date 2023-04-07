@@ -1,0 +1,69 @@
+T1	LIVB 0 8	patiente
+T2	DISO 30 55	antécédents pathologiques
+T3	MEAS 56 64	notables
+T4	PROC 66 78	hospitalisée
+T5	DISO 88 114	tuméfaction du sein gauche
+T6	ANAT 103 114	sein gauche
+T7	Localization 108 114	gauche
+T8	TEMP 124 135	depuis 1 an
+T9	Concept_Idea 150 156	volume
+T10	LIVB 174 178	Elle
+T11	PROC 185 189	reçu
+T12	Hospital 194 202	urgences
+T13	DISO 218 232	amaigrissement
+T14	MEAS 243 248	28 kg
+T15	TEMP 252 265	quelques mois
+T16	PROC 270 284	bilan clinique
+T17	PROC 302 316	administration
+T18	CHEM 322 344	corticoïde substitutif
+T19	CHEM 350 364	hydrocortisone
+T20	DOSE 366 372	5mg/kg
+T21	TEMP 372 377	/jour
+T22	PROC 382 413	échographie abdomino- pelvienne
+T23	ANAT 394 413	abdomino- pelvienne
+T24	DISO 431 538	masse hypo échogène tissulaire latéro péritonéale bilatérale inférieure-métacervicale cervicale infiltratée
+T26	MEAS 548 553	12 mm
+T27	Concept_Idea 557 566	grand axe
+T28	ANAT 582 605	paroi abdominopelvienne
+T29	DISO 639 661	métastase épigastrique
+T30	ANAT 649 661	épigastrique
+T31	PROC 666 676	diagnostic
+T32	DISO 683 724	kystéocholécystonéphrine angiosuppresseur
+T33	DISO 756 777	facteurs déclenchants
+T34	DISO 804 842	syndrome d'épanchement intrapéritonéal
+T35	ANAT 827 842	intrapéritonéal
+T36	DISO 855 874	anomalies associées
+T37	DISO 890 919	niveaux hydro-électrolytiques
+T38	LIVB 958 966	patiente
+T39	DISO 999 1020	détresse respiratoire
+T40	PHEN 1008 1020	respiratoire
+T41	Concept_Idea 1052 1064	état général
+T42	DISO 1120 1126	tumeur
+T43	MEAS 1136 1142	lourde
+T44	Concept_Idea 1158 1169	consistance
+T45	MEAS 1178 1191	bien arrondie
+T46	DISO 1196 1203	ulcérée
+T47	DISO 1207 1219	surrénalisée
+T48	ANAT 1248 1266	abdomino-pelvienne
+T49	PROC 1295 1318	anesthésielocorégionale
+T50	PROC 1325 1345	asepsie transrectale
+T51	DISO 1370 1385	nodule kystique
+T52	DISO 1405 1455	polynucléaire érythémateuse graisseuse sécrétrante
+T53	DISO 1484 1508	résidu nécrosé lésionnel
+T54	DISO 1556 1598	dilatation ostéocartilaginée hypertrophiée
+T55	ANAT 1615 1649	muscle recto-sigmoïdien transverse
+T56	ANAT 1675 1694	organes intestinaux
+T57	DISO 1709 1736	pneumo-carcinome pléomorphe
+T58	ANAT 1757 1781	paroi abdomino-duodénale
+T59	ANAT 1800 1834	aires ganglionnaires mésentériques
+T60	Concept_Idea 1855 1866	profondeurs
+T61	PROC 1872 1908	tomodensitométrie abdomino-pelvienne
+T62	ANAT 1890 1908	abdomino-pelvienne
+T63	DISO 1939 1981	localisation métastatique tumorale maligne
+T64	DISO 2120 2152	volvulus hydrosalpinx ischémique
+T65	DISO 2179 2206	épanchement intrapéritonéal
+T66	ANAT 2191 2206	intrapéritonéal
+T67	ANAT 2217 2238	intestinale digestive
+T68	DISO 2256 2310	envahissement endovaginal cæco-hypophligio-intestinale
+T69	ANAT 2270 2310	endovaginal cæco-hypophligio-intestinale
+T70	ANAT 2323 2343	hépato-tuberculoïdes

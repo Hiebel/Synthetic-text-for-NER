@@ -1,0 +1,32 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	4 ans
+T3	DISO 55 81	pemphysème cutanéo-muqueux
+T4	TEMP 91 102	depuis 3ans
+T5	PROC 113 124	hospitalisé
+T6	DISO 136 161	symptomatologie purulente
+T7	MEAS 176 187	progressive
+T8	MEAS 197 215	multi-prurigineuse
+T9	DISO 236 270	douleurs bilatérales prurigineuses
+T10	Localization 245 256	bilatérales
+T11	Concept_Idea 319 331	état général
+T12	MODE 337 350	voie veineuse
+T13	MEAS 363 372	favorable
+T14	DISO 398 441	syndrome inflammatoire clinico-radiologique
+T15	DISO 466 502	souffrance vasculo-nerveuse biliaire
+T16	ANAT 477 502	vasculo-nerveuse biliaire
+T17	PROC 507 529	sérologies biologiques
+T18	MEAS 538 547	négatives
+T19	PROC 549 576	numération formule sanguine
+T20	PROC 578 597	protéine C réactive
+T21	MEAS 612 620	positifs
+T22	PROC 623 626	CRP
+T23	MEAS 628 635	65 mg/l
+T24	PROC 637 652	globules rouges
+T25	MEAS 655 671	15000 blancs/mm3
+T26	PROC 677 698	recherche étiologique
+T27	MEAS 715 720	nulle
+T28	LIVB 730 736	enfant
+T29	DISO 819 834	kyste hydatique
+T30	CHEM 958 971	phénobarbital
+T31	PROC 1045 1063	immunophénotypique
+T32	DISO 1163 1174	pathologies

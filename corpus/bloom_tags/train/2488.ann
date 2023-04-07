@@ -1,0 +1,24 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 83 94	hospitalisé
+T5	Hospital 99 107	urgences
+T6	DISO 117 140	douleurs du flanc droit
+T7	ANAT 129 140	flanc droit
+T8	Localization 135 140	droit
+T9	DISO 156 170	ictère fébrile
+T10	DISO 178 186	anorexie
+T11	PROC 192 201	admission
+T12	Hospital 205 231	service d'urétro-chirurgie
+T13	Concept_Idea 235 247	état général
+T14	DISO 284 305	détresse respiratoire
+T15	PHEN 293 305	respiratoire
+T16	TEMP 315 338	depuis plusieurs heures
+T17	PROC 342 373	échographie abdomino- pelvienne
+T18	ANAT 354 373	abdomino- pelvienne
+T20	ANAT 489 520	paroi latéro péritonéale droite
+T21	Localization 514 520	droite
+T22	MEAS 530 534	6 cm
+T23	Concept_Idea 538 547	grand axe
+T24	MEAS 559 574	progressivement
+T25	Concept_Idea 578 584	taille

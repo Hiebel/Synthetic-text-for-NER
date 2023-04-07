@@ -1,0 +1,38 @@
+T1	LIVB 16 21	femme
+T2	Concept_Idea 38 49	antécédents
+T3	MEAS 50 58	notables
+T4	PROC 60 72	hospitalisée
+T5	DISO 82 101	douleurs pelviennes
+T6	ANAT 91 101	pelviennes
+T7	TEMP 111 124	depuis 2 mois
+T8	DISO 141 147	fièvre
+T9	PROC 164 179	examen clinique
+T10	LIVB 193 201	patiente
+T11	MEAS 205 208	bon
+T12	Concept_Idea 209 221	état général
+T13	PHEN 230 246	ictère menstruel
+T14	ANAT 260 273	culmen utérin
+T15	PROC 291 307	examen somatique
+T16	DISO 319 332	particularité
+T17	PROC 336 368	auscultation abdomino- pelvienne
+T18	ANAT 349 368	abdomino- pelvienne
+T19	DISO 386 418	épanchement liquidien péritonéal
+T20	ANAT 398 418	liquidien péritonéal
+T21	DISO 431 452	signes hydro-aériques
+T22	PROC 466 493	numération formule sanguine
+T23	DISO 505 521	hyperleucocytose
+T24	MEAS 524 534	12 000/mm3
+T25	PROC 570 605	tomodensitométrie abdominopelvienne
+T26	ANAT 588 605	abdominopelvienne
+T27	DISO 626 677	masse tissulaire hypodense latéroutérine bilatérale
+T28	Localization 667 677	bilatérale
+T29	MEAS 686 691	17 cm
+T30	Concept_Idea 695 704	grand axe
+T31	MEAS 714 719	13 mm
+T32	Concept_Idea 723 730	hauteur
+T33	MEAS 735 738	6cm
+T34	Concept_Idea 742 750	diamètre
+T35	ANAT 767 783	parois vaginales
+T36	ANAT 804 827	jonction recto-vaginale
+T37	PROC 852 861	injection
+T38	CHEM 865 885	produit de contraste

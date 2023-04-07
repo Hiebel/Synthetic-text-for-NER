@@ -1,0 +1,42 @@
+T1	LIVB 15 26	jeune homme
+T2	TEMP 30 36	17 ans
+T3	DISO 53 66	consanguinité
+T4	DISO 73 92	tabagisme tabagique
+T5	Hospital 113 121	urgences
+T6	DISO 141 162	détresse respiratoire
+T7	PHEN 150 162	respiratoire
+T8	MEAS 177 188	progressive
+T9	TEMP 198 211	depuis 3 mois
+T10	DISO 226 242	troubles visuels
+T11	DOSE 265 273	2 litres
+T12	CHEM 277 288	nicardipine
+T13	MODE 297 307	voie orale
+T14	ANAT 321 333	jugum dilaté
+T15	DISO 358 387	dyspnée stade II de Balthazar
+T16	DEVI 438 463	cathéter aortique interne
+T17	ANAT 447 463	aortique interne
+T18	PROC 470 494	ventilation artificielle
+T19	CHEM 507 520	noradrénaline
+T20	CHEM 523 533	dobutamine
+T21	CHEM 535 552	éthylprednisolone
+T22	PROC 557 572	examen clinique
+T23	DISO 584 631	distension oculomoteuriomuque crânio-ombilicale
+T24	ANAT 595 631	oculomoteuriomuque crânio-ombilicale
+T25	MEAS 646 657	progressive
+T26	MEAS 669 673	1 kg
+T27	TEMP 682 702	deux jours plus tard
+T28	MEAS 712 741	de plus en plus prurigineuses
+T29	ANAT 770 788	membres inférieurs
+T30	MEAS 804 815	massivement
+T31	Concept_Idea 819 825	volume
+T32	MEAS 835 840	14 cm
+T33	Concept_Idea 844 853	grand axe
+T34	ANAT 878 887	œil droit
+T35	Localization 882 887	droit
+T36	ANAT 909 916	muqueux
+T37	DISO 1022 1041	lésions purpuriques
+T38	DISO 1089 1122	syndrome d'épanchement péritonéal
+T39	ANAT 1112 1122	péritonéal
+T40	DISO 1127 1151	lésion tumorale kystique
+T41	DISO 1167 1192	localisations secondaires
+T42	LIVB 1221 1229	patiente

@@ -1,0 +1,86 @@
+T1	LIVB 20 25	fille
+T2	TEMP 34 40	15 ans
+T3	PROC 55 67	hospitalisée
+T4	DISO 77 100	vomissements chroniques
+T5	TEMP 110 124	depuis 4 jours
+T6	PROC 133 142	admission
+T7	DISO 158 180	constipation chronique
+T8	DISO 190 209	symptôme infectieux
+T9	PROC 215 230	examen clinique
+T10	Concept_Idea 235 251	caractéristiques
+T11	LIVB 269 279	nourrisson
+T12	TEMP 287 294	16 mois
+T13	TEMP 301 318	6 mois auparavant
+T14	LIVB 392 394	sa
+T15	LIVB 395 405	grand-mère
+T16	LIVB 537 552	frères germains
+T17	PHEN 557 572	fonction rénale
+T18	ANAT 566 572	rénale
+T19	MEAS 579 586	normale
+T20	LIVB 598 606	fillette
+T21	CHEM 651 686	transfusions sanguines intraveineux
+T22	CHEM 761 775	neuroleptiques
+T23	PROC 799 818	hémoglobine glyquée
+T24	MEAS 827 835	10,4g/dL
+T25	MEAS 843 851	7,1mg/dL
+T26	MEAS 882 891	9,5 µg/dL
+T28	DEVI 987 995	prothèse
+T29	PROC 1000 1017	scanner abdominal
+T30	ANAT 1008 1017	abdominal
+T31	DISO 1040 1096	hypocholestérolémie hypochrome microglycérides conjuguée
+T32	DISO 1112 1146	cholestase monoclonale monocytaire
+T33	MEAS 1157 1167	128 mmol/l
+T34	PROC 1275 1294	traitement adjuvant
+T35	PROC 1311 1339	antibiothérapie probabiliste
+T36	CHEM 1363 1394	amoxicilline acide clavulanique
+T37	CHEM 1397 1411	ciprofloxacine
+T38	CHEM 1414 1424	aminosides
+T39	CHEM 1427 1468	acide acétyle alpha hydroxylésulfamectine
+T40	PROC 1482 1506	néphrotomie endovaginale
+T41	PROC 1592 1614	contrôle échographique
+T42	DISO 1773 1794	signes fonctionnelles
+T43	PROC 1865 1893	investigations radiologiques
+T44	PROC 1938 1957	enquête étiologique
+T45	Concept_Idea 2007 2026	aspect histologique
+T46	DISO 2043 2077	maladie thromboembolique familiale
+T47	LIVB 2239 2246	garçons
+T48	TEMP 2299 2310	26 semaines
+T49	DISO 2369 2406	accident vasculaire crânio-céphalique
+T50	ANAT 2389 2406	crânio-céphalique
+T52	DISO 2545 2564	accident ischémique
+T53	LIVB 2579 2590	jeune fille
+T54	DISO 2608 2627	choc anaphylactique
+T55	LIVB 2646 2649	son
+T57	MEAS 2698 2702	cinq
+T58	LIVB 2703 2719	collègues filles
+T59	TEMP 2729 2735	9 mois
+T60	LIVB 2761 2771	nouveau-né
+T61	TEMP 2779 2784	3 ans
+T62	PHEN 2793 2811	mariage consanguin
+T63	DISO 2827 2849	pathologie infectieuse
+T64	DISO 2882 2897	symptomatologie
+T65	DISO 2930 2968	infections sexuellement transmissibles
+T66	LIVB 2985 2987	sa
+T67	LIVB 2988 3001	belle-famille
+T68	PROC 3024 3048	laparotomie exploratrice
+T69	MEAS 3069 3078	perméable
+T70	LIVB 3092 3103	vétérinaire
+T71	Hospital 3122 3153	services d'urgence pédiatriques
+T72	DISO 3245 3258	consanguinité
+T73	MEAS 3290 3300	favorables
+T74	PROC 3306 3334	anticoagulation chirurgicale
+T75	DISO 3387 3411	difficultées hémorragies
+T76	Localization 3429 3448	extrémités distales
+T77	Concept_Idea 3541 3565	principes thérapeutiques
+T78	DISO 3604 3625	mort fœtale néonatale
+T79	DISO 3921 3943	lésions hypogastriques
+T80	PROC 3965 3984	rééducation motrice
+T81	PROC 4006 4017	hémodialyse
+T82	PROC 4030 4061	surveillance multidisciplinaire
+T83	PROC 4077 4121	thyroïdectomie transvésico-abdominopelvienne
+T84	PROC 4140 4187	prise en charge thérapeutique substitutionnelle
+T86	PROC 4284 4318	circulation extracorporelle per os
+T87	PROC 4333 4371	neuroleptiques injectables fractionnée
+T88	PROC 4394 4439	séances de kinésithérapie psychothérapeutique
+T89	PROC 4505 4542	kinésithérapie péridurale double dose
+T90	PROC 4565 4588	manœuvres diagnostiques

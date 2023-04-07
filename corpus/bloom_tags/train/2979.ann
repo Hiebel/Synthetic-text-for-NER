@@ -1,0 +1,33 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	PHEN 43 63	grossesse gémellaire
+T4	Hospital 82 103	urgences pédiatriques
+T5	Concept_Idea 139 151	état général
+T6	DEVI 177 196	cathéter péridurale
+T7	DISO 436 459	dégénérescence tumorale
+T8	DISO 497 525	douleurs abdomino-helviennes
+T9	ANAT 506 525	abdomino-helviennes
+T10	DISO 535 548	cholestatique
+T11	DISO 566 588	nouveau-né hypotonique
+T12	MEAS 596 608	1570 grammes
+T13	Concept_Idea 611 617	aspect
+T14	MEAS 618 623	blanc
+T15	MEAS 633 638	32 cm
+T16	Concept_Idea 642 651	grand axe
+T17	MEAS 656 661	20 cm
+T18	Concept_Idea 665 674	petit axe
+T19	ANAT 699 705	utérus
+T20	DISO 718 749	infiltrat vaginal hypohystéreux
+T21	ANAT 728 749	vaginal hypohystéreux
+T22	DISO 769 807	adénopathies pelviennes hypertrophiées
+T23	ANAT 782 807	pelviennes hypertrophiées
+T24	DISO 831 861	souffle vasculo-parenchymateux
+T25	ANAT 839 861	vasculo-parenchymateux
+T26	DISO 907 924	dyspnée sifflante
+T27	MEAS 936 951	progressivement
+T28	Concept_Idea 955 961	volume
+T29	MEAS 971 1000	supérieure à 50 cycles/minute
+T30	LIVB 1027 1035	patiente
+T31	PROC 1040 1060	consentement éclairé
+T32	LIVB 1068 1079	jeune femme
+T33	TEMP 1088 1094	12 ans

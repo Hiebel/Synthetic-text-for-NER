@@ -1,0 +1,38 @@
+T1	LIVB 28 35	patient
+T2	Concept_Idea 56 81	antécédents pathologiques
+T3	MEAS 82 94	particuliers
+T4	PROC 96 107	hospitalisé
+T5	DISO 117 162	syndrome d'épanchement intrarétinien biliaire
+T6	ANAT 140 162	intrarétinien biliaire
+T7	ANAT 177 190	conjonctivale
+T8	PROC 196 205	admission
+T9	DISO 223 237	amaigrissement
+T10	MEAS 248 252	20kg
+T11	DISO 260 268	polypnée
+T12	MEAS 271 284	15 cycles/min
+T13	PROC 289 308	bilan préopératoire
+T14	PROC 331 361	échographie abdomino périnéale
+T15	ANAT 343 361	abdomino périnéale
+T16	DISO 375 448	lésion hypo échogène hétérogène tissulaire du sinus latéro-rétinien droit
+T17	ANAT 421 448	sinus latéro-rétinien droit
+T18	Localization 443 448	droit
+T19	MEAS 458 462	7 cm
+T20	MEAS 465 469	5 cm
+T21	Concept_Idea 481 489	contours
+T22	MEAS 490 498	régulier
+T23	ANAT 527 546	sinus recto-vaginal
+T24	ANAT 571 595	paroi abdominale utérine
+T25	ANAT 633 653	vésicules menstruels
+T26	DISO 687 701	tumeur maligne
+T27	PROC 792 814	TDM abdomino-pelvienne
+T28	ANAT 796 814	abdomino-pelvienne
+T29	DISO 828 925	formation tumorale polylobée ostéo-liquidienne arrondie érythémateuse nécrotico-cytocytoplasmique
+T30	ANAT 944 978	organes cervicaux ovari-trophiques
+T31	DISO 1045 1069	pseudo cavités hypodense
+T32	DISO 1079 1096	kystique kystique
+T33	Localization 1181 1189	centrale
+T34	ANAT 1225 1250	anses grêlitiques iléales
+T35	DISO 1273 1297	épanchement interstitiel
+T36	ANAT 1285 1297	interstitiel
+T37	DISO 1340 1376	localisations secondaires nodulaires
+T38	DISO 1414 1433	masse bourgeonnante

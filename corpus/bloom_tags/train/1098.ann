@@ -1,0 +1,37 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	DISO 58 86	tuberculose cutanéo-muqueuse
+T4	ANAT 70 86	cutanéo-muqueuse
+T5	PROC 118 151	traitement curatif antibacillaire
+T6	CHEM 162 173	rifampicine
+T7	CHEM 175 185	isoniazide
+T8	CHEM 187 199	Pyrazinamide
+T9	CHEM 201 212	Ethionamide
+T10	CHEM 214 227	Cefaméthasone
+T11	CHEM 229 242	Triméthoprime
+T12	CHEM 244 255	Cyclosérine
+T13	CHEM 257 268	Riftriaxone
+T14	CHEM 270 283	Gentamiclovir
+T15	CHEM 285 295	Isoniazide
+T16	CHEM 297 313	Sulfaméthoxazole
+T17	CHEM 315 328	Chlorhexidine
+T18	CHEM 330 343	Erythromycine
+T19	CHEM 345 356	Vinblastine
+T20	CHEM 358 371	Levoquinolone
+T21	CHEM 373 387	Tobraméthasone
+T22	CHEM 389 398	Captopril
+T23	CHEM 401 410	Simvudine
+T24	CHEM 412 426	Acetylprédione
+T25	CHEM 428 438	Tamoxifène
+T26	CHEM 440 453	Bêtaméthasone
+T27	CHEM 455 461	Vit B6
+T28	DOSE 463 472	400 mg/kg
+T29	MODE 475 480	bolus
+T30	CHEM 483 497	hydrocortisone
+T31	DOSE 498 505	20mg/kg
+T32	DOSE 526 532	200 mg
+T33	TEMP 545 562	pendant 48 heures
+T34	DEVI 642 650	urinaire
+T35	LIVB 662 673	jeune femme
+T37	DISO 765 793	symptomatologie neurologique
+T38	DISO 878 889	mélénorrhée

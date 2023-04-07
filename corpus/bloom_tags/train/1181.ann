@@ -1,0 +1,79 @@
+T1	LIVB 29 37	patiente
+T2	DISO 72 98	tuberculose du sein gauche
+T3	ANAT 87 98	sein gauche
+T4	Localization 92 98	gauche
+T5	PROC 116 125	admission
+T6	Hospital 129 144	bloc opératoire
+T7	DISO 177 183	fièvre
+T8	DISO 189 203	amaigrissement
+T9	PHEN 211 233	reflexes ostéo-cutanés
+T10	ANAT 220 233	ostéo-cutanés
+T11	MEAS 242 251	conservés
+T12	DISO 283 304	métastase péritonéale
+T13	ANAT 293 304	péritonéale
+T14	DISO 313 336	empyème rétropéritonéal
+T15	ANAT 321 336	rétropéritonéal
+T16	PROC 374 390	examen somatique
+T17	DISO 402 415	particularité
+T18	PROC 421 447	explorations paracliniques
+T19	CHEM 482 496	ciprofloxacine
+T20	MODE 510 522	intraveineux
+T21	CHEM 525 543	hydroxychloroquine
+T22	LIVB 615 623	patiente
+T23	PROC 681 704	radiothérapie adjuvante
+T24	ANAT 774 787	surrénalectum
+T25	PROC 829 870	traitement antibacillaire antituberculeux
+T26	PROC 923 953	échographie abdomino-pelvienne
+T27	ANAT 935 953	abdomino-pelvienne
+T28	PROC 979 1016	rétrécissement grêlique transfixiante
+T29	ANAT 994 1002	grêlique
+T30	PROC 1034 1054	analgésie péridurale
+T32	MEAS 1157 1162	18 cm
+T33	Concept_Idea 1166 1175	grand axe
+T34	DISO 1257 1274	lésions kystiques
+T35	DISO 1315 1323	kystique
+T36	PROC 1327 1371	tomodensitométrie thoraco abdomino-pelvienne
+T37	ANAT 1345 1371	thoraco abdomino-pelvienne
+T41	Localization 1457 1469	homolatérale
+T42	ANAT 1504 1521	épiploon grêlique
+T43	DISO 1539 1647	hernie pariéto-diaphragmatique supra pancréato-sigmoïdienne sus hyo-thoracique infarcto-métaphysaire bilobée
+T45	Localization 1570 1575	supra
+T46	ANAT 1674 1701	sinus caverneux thoraciques
+T47	DISO 1740 1801	processus bourgeonnant résiduel ostéolytique mal systématisée
+T48	ANAT 1835 1864	cavités cardiaques cervicales
+T49	DISO 1941 2008	nodules vasculaires para-interstitiels médiastinaux cœliacarophiles
+T51	DISO 2024 2065	organo-régionalisation tumorale nodulaire
+T52	DISO 2121 2152	maladie néphrotique métabolique
+T53	DISO 2158 2203	méningoencephalopathie purulente tuberculeuse
+T54	ANAT 2433 2441	pancréas
+T55	DISO 2446 2469	tuberculose péritonéale
+T56	DISO 2476 2497	carcinome endovaginal
+T57	ANAT 2486 2497	endovaginal
+T58	LIVB 2501 2509	patiente
+T59	CHEM 2526 2537	rifampicine
+T60	DOSE 2539 2547	10 mg/kg
+T61	TEMP 2547 2552	/jour
+T62	CHEM 2555 2565	isoniazide
+T63	DOSE 2567 2573	400 mg
+T64	TEMP 2573 2578	/jour
+T65	CHEM 2581 2593	pyrazinamide
+T66	DOSE 2595 2601	600 mg
+T67	TEMP 2601 2603	/j
+T68	CHEM 2606 2617	ethionamide
+T69	DOSE 2619 2625	300 mg
+T70	TEMP 2625 2627	/j
+T71	CHEM 2630 2640	cisplatine
+T72	DOSE 2642 2648	750 mg
+T73	TEMP 2648 2650	/j
+T74	CHEM 2653 2671	hydroxychloroquine
+T75	DOSE 2673 2675	1g
+T76	TEMP 2675 2677	/j
+T77	CHEM 2680 2696	sulfaméthoxazole
+T78	DOSE 2698 2704	800 mg
+T79	TEMP 2704 2706	/j
+T80	CHEM 2709 2722	dexaméthasone
+T81	DOSE 2724 2727	2 g
+T82	TEMP 2727 2729	/j
+T83	CHEM 2732 2750	methylprednisolone
+T84	DOSE 2752 2760	0,5mg/kg
+T85	TEMP 2760 2762	/j

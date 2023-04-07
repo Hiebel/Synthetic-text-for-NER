@@ -1,0 +1,104 @@
+T1	LIVB 19 24	homme
+T2	Concept_Idea 45 56	antécédents
+T3	MEAS 57 69	particuliers
+T4	DISO 89 95	fièvre
+T5	TEMP 118 132	depuis 2 jours
+T6	PROC 136 151	examen clinique
+T7	LIVB 164 171	patient
+T8	DISO 172 179	fébrile
+T9	MEAS 182 188	38,5°C
+T10	ANAT 198 210	conjonctives
+T11	MEAS 211 224	bien colorées
+T12	ANAT 230 234	yeux
+T13	MEAS 243 250	normaux
+T14	PROC 268 282	examen général
+T15	DISO 294 307	particularité
+T16	DISO 325 332	dyspnée
+T17	PHEN 341 356	fonction rénale
+T18	ANAT 350 356	rénale
+T19	MEAS 363 370	normale
+T20	PROC 375 394	palpation du bassin
+T21	ANAT 388 394	bassin
+T22	DISO 415 444	distension abdomino-pelvienne
+T23	ANAT 426 444	abdomino-pelvienne
+T24	DISO 458 490	hépatoméningocardite infectieuse
+T25	DISO 520 535	symptomatologie
+T26	PROC 540 560	traitement palliatif
+T27	CHEM 565 575	corticoïde
+T28	DOSE 577 580	1 g
+T29	TEMP 580 585	/24 h
+T30	CHEM 588 599	céftriaxone
+T31	DOSE 601 605	4 mg
+T32	TEMP 605 615	/24 heures
+T33	CHEM 620 651	amoxicilline acide clavulanique
+T34	DOSE 653 659	500 mg
+T35	TEMP 659 669	/24 heures
+T36	DISO 707 720	complications
+T37	MEAS 757 764	simples
+T38	PROC 770 798	antibiothérapie probabiliste
+T39	Concept_Idea 811 831	chiffres tensionnels
+T40	PROC 897 916	suivi préopératoire
+T41	DISO 940 951	hémorragies
+T42	DISO 962 979	signes infectieux
+T43	Hospital 1013 1021	services
+T44	PROC 1026 1048	radiographie du thorax
+T45	ANAT 1042 1048	thorax
+T46	MEAS 1061 1068	normale
+T47	DEVI 1083 1094	laboratoire
+T48	Localization 1101 1104	dos
+T49	PROC 1145 1173	reconstruction échographique
+T50	DISO 1193 1292	métaplasie duodénale lombo-trachéale cervico-antéro-mandibulaire pariéto-médiale bilatérale interne
+T52	Localization 1274 1292	bilatérale interne
+T53	MEAS 1302 1306	3 cm
+T54	Concept_Idea 1310 1319	grand axe
+T55	MEAS 1332 1337	12 mm
+T56	Concept_Idea 1341 1351	profondeur
+T57	DISO 1375 1399	calcification anéchogène
+T59	Localization 1566 1577	transversal
+T60	Localization 1596 1643	homolatérale oblique controlatérale asymétrique
+T62	Localization 1779 1785	droite
+T63	PROC 1800 1889	anastomose pondéro-utérine rétromédullaire segmentaire multibasithoracique périrénal TNM2
+T68	PROC 2186 2221	radio lipospiècectomie exploratrice
+T69	LIVB 2241 2247	malade
+T70	PROC 2270 2291	recherche étiologique
+T71	LIVB 2371 2373	sa
+T72	LIVB 2374 2384	belle-mère
+T73	LIVB 2388 2391	son
+T74	LIVB 2392 2402	frère aîné
+T75	LIVB 2463 2469	frères
+T76	LIVB 2494 2498	leur
+T77	LIVB 2499 2505	épouse
+T78	LIVB 2538 2552	petits-enfants
+T79	PHEN 2576 2594	mariage consanguin
+T80	TEMP 2606 2617	vingt jours
+T81	ANAT 2659 2681	collections cervicales
+T82	PROC 2766 2782	divorce maternel
+T83	LIVB 2799 2805	Mme JA
+T84	CHEM 2822 2845	sérum salé hypertonique
+T85	DOSE 2847 2852	0,8 g
+T86	TEMP 2852 2856	/24h
+T87	PROC 3013 3030	geste chirurgical
+T88	MEAS 3065 3074	favorable
+T89	PROC 3139 3162	vaccinations parentales
+T90	PROC 3189 3214	réanimation préopératoire
+T91	LIVB 3286 3292	chiens
+T92	Concept_Idea 3311 3327	activité normale
+T93	MEAS 3482 3489	simples
+T94	LIVB 3624 3629	homme
+T95	PROC 3648 3658	consultait
+T96	Concept_Idea 3680 3698	état hémodynamique
+T97	TEMP 3708 3726	depuis cinq heures
+T98	DISO 3742 3775	dyspnée paroxystique dyspnéiforme
+T99	PROC 3792 3802	extubation
+T100	PROC 3807 3824	toucher abdominal
+T101	ANAT 3815 3824	abdominal
+T102	DISO 3875 3916	lombalgie congénitale polyneurobronchique
+T103	DISO 3947 3983	insuffisance cardiaque biliaire aigu
+T104	ANAT 3960 3978	cardiaque biliaire
+T105	DISO 4001 4041	symptomatologie neuropsychiatrique aiguë
+T106	DISO 4065 4080	symptomatologie
+T107	MEAS 4143 4158	progressivement
+T108	MEAS 4173 4182	spontanée
+T109	Concept_Idea 4197 4215	fréquence clinique
+T110	MEAS 4233 4240	diffuse
+T111	MEAS 4272 4284	très intense

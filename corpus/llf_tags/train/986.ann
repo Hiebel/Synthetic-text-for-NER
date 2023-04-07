@@ -1,0 +1,115 @@
+T1	PROC 4 21	tomodensitométrie
+T2	PROC 23 46	TDM) thoraco-abdominale
+T3	ANAT 28 46	thoraco-abdominale
+T4	DISO 66 100	processus tissulaire du rein droit
+T5	ANAT 90 100	rein droit
+T6	Localization 95 100	droit
+T7	MEAS 104 108	25mm
+T8	PROC 113 140	numération formule sanguine
+T9	PROC 145 160	glycémie à jeun
+T10	PROC 174 193	bilan d'hémoglobine
+T11	MEAS 202 209	normaux
+T12	PROC 213 250	électrophorèse des protéines sériques
+T13	PROC 256 281	étude immunohistochimique
+T14	Hospital 319 327	urgences
+T15	Concept_Idea 337 356	fraction d'éjection
+T16	MEAS 360 364	5 mm
+T17	DISO 397 421	pneumopéritoine néonatal
+T18	DISO 427 432	signe
+T19	DISO 436 445	malignité
+T20	PROC 451 479	chimiothérapie néo adjuvante
+T21	CHEM 485 516	amoxicilline acide clavulanique
+T22	PROC 530 558	corticothérapie concomitante
+T23	PHEN 611 629	suites opératoires
+T24	MEAS 637 644	simples
+T25	TEMP 649 653	2011
+T26	LIVB 674 680	enfant
+T27	TEMP 688 693	3 ans
+T28	DISO 736 767	diarrhées glaireuses chroniques
+T29	TEMP 790 803	il y a 3 mois
+T30	LIVB 813 816	son
+T31	LIVB 817 821	père
+T32	PROC 830 837	adressé
+T33	Hospital 841 861	service de pédiatrie
+T34	DISO 912 927	symptomatologie
+T35	PROC 933 948	examen physique
+T36	LIVB 952 962	nouveau-né
+T37	DISO 975 985	apyrétique
+T38	DISO 989 1000	polypnéique
+T39	DISO 1013 1023	déshydraté
+T40	LIVB 1037 1039	sa
+T41	PROC 1040 1066	consultation psychiatrique
+T42	LIVB 1072 1077	notre
+T43	Hospital 1078 1103	centre neuropsychiatrique
+T44	PROC 1109 1132	traitement conservateur
+T46	DISO 1180 1204	trouble psychotique aigu
+T47	DEVI 1232 1267	produits anesthésiques intraveineux
+T48	DISO 1361 1386	hallucinations délirantes
+T49	DISO 1407 1433	hallucinations hystériques
+T50	MEAS 1506 1514	suspecte
+T51	LIVB 1529 1537	patients
+T52	PROC 1594 1622	traitements pharmacologiques
+T53	PROC 1624 1646	kinésithérapie motrice
+T54	PROC 1648 1692	neuroleptiques antipsychotiques substitutifs
+T55	PROC 1694 1716	antipaludéens centraux
+T56	PROC 1718 1738	anticoagulants oraux
+T57	PROC 1740 1768	antispasmodiques injectables
+T58	PROC 1770 1799	insulinothérapeutiques libres
+T59	PROC 1801 1821	phénobarbital direct
+T60	PROC 1823 1859	antalgiques alimentaires parentérale
+T61	PROC 1861 1888	médicamenteuses isoniquines
+T62	PROC 1890 1910	analgésie péridurale
+T63	PROC 1912 1954	hydroxychlorure de sodium intrarachidienne
+T64	PROC 1956 1988	spiramycine alcoolique indirecte
+T65	PROC 1990 2019	méthotrexate aminotransférase
+T66	PROC 2021 2051	catécholamines protides per os
+T67	PROC 2053 2081	peroxyde d'azote subconjugue
+T68	PROC 2083 2108	éthambutolactone conjugué
+T69	PROC 2110 2152	fluoroquinolones sodiques intramusculaires
+T70	PROC 2154 2176	ionogramme biochimique
+T71	PROC 2178 2194	bilirubine libre
+T72	PROC 2196 2225	gélatines glycérophosphonurie
+T73	PROC 2227 2249	créatine phosphokinase
+T74	PROC 2251 2279	transaminases cytonucléaires
+T75	PROC 2281 2284	CK7
+T76	PROC 2286 2289	CRP
+T77	PROC 2291 2294	IEC
+T78	PROC 2296 2300	TCMG
+T79	PROC 2302 2306	FVO2
+T80	PROC 2308 2312	Spo2
+T81	PROC 2314 2321	HLA B12
+T82	PROC 2323 2326	LDH
+T83	PROC 2328 2332	LDB6
+T84	PROC 2334 2337	EMA
+T85	PROC 2339 2343	TSR8
+T86	PROC 2345 2349	CD99
+T87	PROC 2351 2354	GB4
+T88	PROC 2356 2360	AS23
+T89	PROC 2362 2365	AE1
+T90	PROC 2367 2389	glucose intravitréenne
+T91	PROC 2391 2401	nitropénie
+T92	PROC 2405 2423	cytométrie en flux
+T93	MEAS 2432 2440	négatifs
+T94	Concept_Idea 2442 2449	valeurs
+T96	PHEN 2457 2475	suites opératoires
+T97	MEAS 2484 2491	simples
+T98	TEMP 2509 2516	18 mois
+T99	DISO 2535 2550	symptomatologie
+T100	DISO 2576 2618	crise convulsive du membre inférieur droit
+T101	ANAT 2596 2618	membre inférieur droit
+T103	PROC 2633 2658	intervention chirurgicale
+T104	TEMP 2679 2702	24e jour postopératoire
+T105	PROC 2708 2735	chimiothérapie concomitante
+T106	PROC 2749 2782	prise en charge neurochirurgicale
+T107	Concept_Idea 2795 2804	résultats
+T108	PROC 2809 2851	radiographies diagnostiques fonctionnelles
+T109	PROC 2864 2887	traitement conservateur
+T110	CHEM 2893 2911	acide zolédronique
+T111	DEVI 2931 2952	broche multimodulaire
+T112	PROC 2996 3025	thyroïdectomie totale élargie
+T113	PROC 3128 3149	remplissage mécanique
+T114	PROC 3157 3183	étude immuno-histochimique
+T115	DISO 3210 3252	léiomyosarcome myxoïde monocytaire maligne
+T116	MEAS 3260 3266	T3N0Mx
+T117	Concept_Idea 3354 3376	limites thérapeutiques
+T118	Concept_Idea 3468 3488	aspect morphologique

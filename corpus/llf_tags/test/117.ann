@@ -1,0 +1,75 @@
+T1	LIVB 16 24	patiente
+T2	DISO 68 91	hypertension artérielle
+T3	ANAT 81 91	artérielle
+T4	PROC 95 106	échographie
+T5	Concept_Idea 117 120	âge
+T6	TEMP 124 137	vingt-six ans
+T7	MEAS 150 159	important
+T8	DISO 160 180	nodule du sein droit
+T9	ANAT 170 180	sein droit
+T10	Localization 175 180	droit
+T11	MEAS 189 193	5 cm
+T12	MEAS 206 209	2cm
+T13	DISO 215 228	adénomégalite
+T14	DISO 238 243	signe
+T15	PROC 256 281	étude anatomopathologique
+T16	DISO 303 329	diabète insulino-requérant
+T17	PHEN 346 368	grossesses gémellaires
+T18	PROC 373 379	suivie
+T19	PROC 402 407	opéré
+T20	PROC 413 435	traitement substitutif
+T21	CHEM 443 465	dérivé hydroxycholique
+T22	DOSE 467 472	50 mg
+T23	TEMP 472 482	/24 heures
+T24	CHEM 495 535	méthylphénidate acétyle glutaméthoxazole
+T25	DOSE 537 542	20 mg
+T26	TEMP 542 552	/24 heures
+T27	MEAS 594 601	simples
+T28	LIVB 610 618	patiente
+T29	DISO 644 684	symptômes neuropsychiatriques somatiques
+T30	PROC 697 709	consultation
+T31	PROC 714 736	contrôle échographique
+T32	Concept_Idea 763 780	aspects cliniques
+T33	LIVB 797 806	patientes
+T34	PROC 846 885	néphrectomie percutanée rénale complète
+T35	TEMP 904 913	deux mois
+T36	PROC 927 951	laparotomie exploratrice
+T37	DISO 992 1013	récidive métastatique
+T38	DISO 1024 1034	métastases
+T39	PROC 1050 1077	hémodialyses intraveineuses
+T40	PROC 1100 1133	fibroscopie oeso-gastro-duodénale
+T41	ANAT 1112 1133	oeso-gastro-duodénale
+T42	PROC 1155 1167	angioscanner
+T43	DISO 1188 1228	processus lésionnel tumoral locorégional
+T44	DEVI 1235 1243	bistouri
+T45	MEAS 1253 1261	4 x 4 cm
+T46	PROC 1327 1340	thérapeutique
+T47	PROC 1346 1380	hystérectomie totale scanno-guidée
+T48	ANAT 1441 1462	structures digestives
+T49	ANAT 1492 1513	portion cœlioscopique
+T50	ANAT 1523 1539	annexes pelviens
+T52	ANAT 1608 1629	vaisseaux péritonéaux
+T57	ANAT 2168 2237	anse abdominale rectale préhépato-pelvienne maxillaire supéro-septale
+T60	PROC 2973 2998	étude immunohistochimique
+T61	PROC 3025 3035	diagnostic
+T62	DISO 3042 3086	gastrite chronique idiopathique des bronches
+T63	ANAT 3078 3086	bronches
+T64	Concept_Idea 3091 3116	caractère bactériologique
+T65	MEAS 3124 3130	faible
+T66	CHEM 3147 3160	antibiotiques
+T67	CHEM 3169 3183	triméthoprime®
+T68	DOSE 3185 3193	60 mg/kg
+T69	TEMP 3193 3195	/j
+T70	PROC 3201 3223	traitement chirurgical
+T71	DEVI 3259 3289	lambeau entéropneumomédullaire
+T72	PROC 3295 3313	traction mécanique
+T73	PROC 3325 3346	contrôle locorégional
+T74	PROC 3356 3384	prise en charge chirurgicale
+T75	LIVB 3390 3398	patiente
+T76	PROC 3415 3438	corticothérapie inhalée
+T77	MODE 3431 3438	inhalée
+T78	PHEN 3457 3470	fonctionnelle
+T79	PROC 3485 3503	séjour hospitalier
+T80	TEMP 3519 3531	six semaines
+T81	Concept_Idea 3573 3599	attitudes professionnelles
+T82	Hospital 3606 3624	milieu ambulatoire

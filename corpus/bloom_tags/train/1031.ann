@@ -1,0 +1,51 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 67	reçu
+T3	Hospital 71 120	centre Hospitalier universitaire Hassan II de Fès
+T4	DISO 140 178	syndrome d’épanchement intrapéritonéal
+T5	ANAT 163 178	intrapéritonéal
+T6	PHEN 197 209	accouchement
+T7	LIVB 245 249	Elle
+T8	DISO 287 322	néphropathie chronique hypertensive
+T9	CHEM 328 346	hydroxychloroquine
+T10	MODE 433 443	voie orale
+T11	DOSE 454 461	3 mg/kg
+T12	TEMP 461 466	/jour
+T13	DISO 531 545	toux purulante
+T14	MEAS 569 584	progressivement
+T15	Concept_Idea 588 594	volume
+T16	DISO 610 626	dyspnée d'effort
+T17	MEAS 641 647	rapide
+T18	MEAS 662 668	sévère
+T19	LIVB 689 693	elle
+T20	DISO 708 721	polypleurique
+T21	DISO 764 787	dépression péricardique
+T22	ANAT 775 787	péricardique
+T23	DISO 791 811	paralysie thoracique
+T24	ANAT 801 811	thoracique
+T25	LIVB 888 896	patiente
+T26	LIVB 948 950	Il
+T27	DISO 973 994	lésions prurigineuses
+T28	ANAT 1027 1033	visage
+T29	TEMP 1043 1058	le premier jour
+T30	DISO 1146 1168	prurigines sécrétantes
+T31	ANAT 1215 1232	paires crâniennes
+T32	ANAT 1256 1286	muqueuses jugulo-carotidiennes
+T33	MEAS 1311 1319	12x10 cm
+T34	MEAS 1323 1329	8x6 cm
+T35	MEAS 1342 1364	rapidement progressive
+T36	DISO 1390 1415	vomissements alimentaires
+T37	DISO 1422 1446	sensibilité épigastrique
+T38	ANAT 1434 1446	épigastrique
+T39	LIVB 1456 1460	elle
+T40	PROC 1476 1496	prise médicamenteuse
+T41	DISO 1521 1536	symptomatologie
+T42	DISO 1551 1580	troubles visuels/esthalgiques
+T43	PROC 1682 1710	échographie abdomino-utérine
+T44	ANAT 1694 1710	abdomino-utérine
+T45	DISO 1729 1759	masse tissulaire hypo échogène
+T47	MEAS 2078 2094	supérieure à 5mm
+T48	DISO 2195 2208	malformations
+T49	PROC 2211 2236	intervention chirurgicale
+T50	MEAS 2253 2262	difficile
+T51	Concept_Idea 2306 2312	propos
+T52	LIVB 2317 2327	patiientes

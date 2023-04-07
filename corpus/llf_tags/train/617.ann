@@ -1,0 +1,80 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 66	antécédents pathologiques
+T3	MEAS 67 79	particuliers
+T4	PROC 90 102	hospitalisée
+T5	Hospital 106 117	psychiatrie
+T6	TEMP 121 131	07/08/2011
+T7	Concept_Idea 157 169	état général
+T8	PROC 179 194	examen clinique
+T9	DISO 199 228	nodules du plexus sous cutané
+T10	ANAT 210 228	plexus sous cutané
+T11	PROC 234 248	interrogatoire
+T12	LIVB 252 260	patiente
+T13	PHEN 270 296	développement psychomoteur
+T14	MEAS 297 308	très limité
+T15	CHEM 344 350	alcool
+T16	DEVI 382 387	stylo
+T17	PROC 424 444	examen gynécologique
+T18	DISO 469 488	méningo-encéphalite
+T19	DISO 498 519	symptôme neurologique
+T20	DISO 545 562	dyschromatoplégie
+T21	PROC 655 671	examen somatique
+T22	PROC 711 723	consultation
+T23	PROC 775 781	suivie
+T24	TEMP 792 797	37 SA
+T25	PROC 836 856	transfusion sanguine
+T26	LIVB 936 944	patiente
+T27	PROC 951 981	traitement médical substitutif
+T28	PROC 1115 1147	corticothérapie antihypertensive
+T29	PROC 1153 1159	admise
+T30	Hospital 1164 1192	soins intensifs pédiatriques
+T31	PROC 1211 1245	laparotomie exploratrice cervicale
+T32	PROC 1259 1308	hystérectomie axilectomie bilatérale endovaginale
+T33	Localization 1285 1295	bilatérale
+T34	ANAT 1328 1344	membres fessiers
+T35	PROC 1376 1384	résétrés
+T36	MEAS 1417 1441	favorablement favorables
+T37	PROC 1456 1481	réanimation préopératoire
+T38	PROC 1490 1505	radiodiagnostic
+T39	DISO 1538 1575	neuropathie sensitivomotrice primaire
+T40	DISO 1593 1627	syndrome délirant hypocalciquelque
+T41	PROC 1757 1784	bilan radiologique standard
+T42	DISO 1801 1866	luxation périnéale intrakystique congénitale hétérozygote maligne
+T43	DISO 1882 1929	distension abdomino-pelvaso-partum paroxystique
+T44	ANAT 1893 1916	abdomino-pelvaso-partum
+T48	DISO 2123 2146	vascularite polypnéique
+T49	PROC 2151 2184	scanner thoraco- abdomino pelvien
+T50	ANAT 2159 2184	thoraco- abdomino pelvien
+T51	PROC 2205 2219	investigations
+T52	DISO 2236 2292	rupture anévrysmale tissulaire péripylorique asymétrique
+T53	ANAT 2311 2326	plaque vésicale
+T54	MEAS 2336 2341	18 mm
+T55	Concept_Idea 2345 2354	grand axe
+T56	PROC 2688 2726	échographie obstétricale scanno-guidée
+T60	Localization 3063 3088	inferieur tiers inférieur
+T61	ANAT 3111 3163	artère gastroduodénale antérieure fundique rénitente
+T62	ANAT 3171 3213	tronc cœliaque thoracique inferieur gauche
+T63	Localization 3207 3213	gauche
+T65	Localization 3255 3263	en avant
+T66	ANAT 3299 3329	plan sous arachnoïdien profond
+T68	LIVB 3405 3411	malade
+T69	CHEM 3428 3459	amoxicilline acide tranexamique
+T70	DOSE 3461 3469	60 mg/kg
+T71	TEMP 3469 3474	/jour
+T72	PROC 3497 3530	antibioprophylaxie antibacillaire
+T73	PROC 3543 3562	remplissage pleural
+T74	ANAT 3555 3562	pleural
+T75	PROC 3577 3626	rétractions pulmonaires cervicales endotrachéales
+T76	ANAT 3589 3626	pulmonaires cervicales endotrachéales
+T77	DEVI 3638 3657	cathéter électrique
+T78	MEAS 3717 3724	simples
+T79	DISO 3744 3770	décompensation hypotonique
+T80	ANAT 3797 3827	ventricule sus ombilical moyen
+T81	Localization 3808 3811	sus
+T82	ANAT 3854 3872	systèmes digestifs
+T83	PROC 3910 3936	examen anatomopathologique
+T84	DISO 3955 3969	résidu tumoral
+T85	DISO 3976 4003	neurofibroblastome mucineux
+T86	DISO 4018 4042	complication infectieuse
+T87	MEAS 4091 4117	significativement sensible
+T88	PROC 4122 4162	tests immunohistochimiques diagnostiques

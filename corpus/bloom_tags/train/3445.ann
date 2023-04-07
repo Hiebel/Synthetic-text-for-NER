@@ -1,0 +1,36 @@
+T1	LIVB 15 22	patient
+T2	CHEM 73 84	Ceftriaxone
+T3	DOSE 86 93	15mg/kg
+T4	TEMP 93 98	/jour
+T5	DISO 104 120	hyperhydratation
+T6	TEMP 130 144	depuis 3 jours
+T7	DISO 160 181	détresse respiratoire
+T8	PHEN 169 181	respiratoire
+T9	MEAS 196 203	modérée
+T10	DISO 236 264	dyspnée stade III d’Enneking
+T11	MEAS 276 291	progressivement
+T12	Concept_Idea 295 301	volume
+T13	DISO 319 333	amaigrissement
+T14	MEAS 343 347	20kg
+T15	DISO 375 385	polypnésie
+T16	DISO 387 393	sueurs
+T17	DISO 420 426	fièvre
+T18	MEAS 438 442	38°C
+T19	PROC 447 477	auscultation pleuro-pulmonaire
+T20	ANAT 460 477	pleuro-pulmonaire
+T21	DISO 499 522	distension tuberculeuse
+T22	ANAT 510 522	tuberculeuse
+T23	PROC 536 565	examen cardio-vasculo-nerveux
+T24	ANAT 543 565	cardio-vasculo-nerveux
+T25	MEAS 572 578	normal
+T26	PROC 583 610	numération formule sanguine
+T27	PROC 621 629	natrémie
+T28	MEAS 632 641	135 meq/l
+T29	PROC 643 651	kaliémie
+T30	MEAS 654 661	7 meq/l
+T31	PROC 664 669	HCO3-
+T32	MEAS 672 679	4 meq/l
+T33	PROC 681 700	protéine C réactive
+T34	PROC 701 704	CRP
+T35	MEAS 706 712	élevée
+T36	MEAS 715 723	100 mg/l

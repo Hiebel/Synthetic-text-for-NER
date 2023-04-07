@@ -1,0 +1,88 @@
+T1	PROC 3 14	échographie
+T2	DISO 28 45	masse du pancréas
+T3	ANAT 37 45	pancréas
+T4	PROC 49 75	examen anatomopathologique
+T5	DISO 98 116	maladie de Basedow
+T6	PROC 124 141	bilan étiologique
+T7	PROC 163 189	étude immuno-histochimique
+T8	PROC 191 194	IHC
+T9	DISO 215 323	carcinome myxoïde mononucleaire infiltrant des ganglions intraparenchymateux superficiels rénitrosopharyngés
+T10	ANAT 262 323	ganglions intraparenchymateux superficiels rénitrosopharyngés
+T11	MEAS 332 343	plus grande
+T12	MEAS 353 364	17×9 × 7 cm
+T13	ANAT 383 393	rein droit
+T14	Localization 388 393	droit
+T15	PROC 398 423	scanner thoraco-abdominal
+T16	ANAT 406 423	thoraco-abdominal
+T17	DISO 445 455	métastases
+T18	DISO 462 481	lésions secondaires
+T19	PROC 488 517	prélèvements bactériologiques
+T20	MEAS 526 544	fortement positifs
+T21	LIVB 554 560	germes
+T22	CHEM 878 904	aminosides cyanogénétiques
+T23	PROC 909 938	néphrolithotomie exploratrice
+T24	DISO 958 980	anomalie morphologique
+T25	Concept_Idea 997 1006	caractère
+T26	DEVI 1044 1052	prothèse
+T27	PROC 1089 1105	cholécystectomie
+T28	PROC 1120 1140	suivi postopératoire
+T29	TEMP 1147 1153	2 mois
+T30	Concept_Idea 1184 1193	résultats
+T31	LIVB 1208 1216	patients
+T32	Hospital 1250 1284	structures hospitalo-hospitalières
+T33	LIVB 1356 1366	nouveau-né
+T34	TEMP 1374 1379	3 ans
+T35	PHEN 1435 1447	sexe féminin
+T36	PROC 1560 1576	acte chirurgical
+T37	DISO 1603 1637	symptomatologie neuropsychiatrique
+T38	DISO 1647 1663	trouble maniaque
+T39	LIVB 1702 1713	jeune fille
+T40	TEMP 1722 1727	5 ans
+T41	PROC 1766 1776	scolarisée
+T42	PROC 1842 1868	séance psychothérapeutique
+T43	PROC 1890 1914	psychothérapie adjuvante
+T44	Concept_Idea 2047 2067	relations parentales
+T45	Concept_Idea 2116 2136	conventions sociales
+T46	LIVB 2262 2287	collègues socio-éducatifs
+T47	Concept_Idea 2315 2341	facteur sociodémographique
+T48	MEAS 2351 2354	10%
+T49	PROC 2385 2407	consultation prénatale
+T50	DISO 2488 2512	syndrome polymalformatif
+T51	DISO 2528 2555	hypertension intracrânienne
+T52	ANAT 2541 2555	intracrânienne
+T53	MEAS 2566 2576	40/50 mmHg
+T54	DISO 2591 2603	neurasthénie
+T55	MEAS 2615 2622	35µg/dL
+T56	DISO 2638 2653	perte pondérale
+T57	MEAS 2664 2672	184 UI/l
+T58	DISO 2689 2714	hypothyroïdie néonatalgie
+T60	DISO 2814 2838	anomalies morphologiques
+T61	DISO 2864 2876	métrorragies
+T62	ANAT 2890 2931	pédicule céphalorachidien inférieur droit
+T63	Localization 2926 2931	droit
+T64	Concept_Idea 2947 2968	caractère obstétrical
+T65	LIVB 3029 3034	fille
+T66	DISO 3040 3054	bébé phlegmone
+T67	TEMP 3067 3074	11 mois
+T68	CHEM 3086 3099	phénobarbital
+T69	DOSE 3101 3107	100 mg
+T70	TEMP 3107 3112	/jour
+T71	PROC 3171 3183	intervention
+T72	DISO 3205 3249	hyperplasie médullosurrénalienne monosodique
+T73	MEAS 3259 3268	60 x 55mm
+T74	ANAT 3284 3311	ganglions cervicale gauches
+T75	Localization 3304 3311	gauches
+T76	ANAT 3324 3357	nerf thoracique inferieur interne
+T77	Localization 3340 3357	inferieur interne
+T78	DISO 3363 3383	nodules érythémateux
+T79	PROC 3416 3471	injection intramusculaire scanno-crânio-palmo-plantaire
+T80	DISO 3505 3527	tumeur myxoide maligne
+T81	LIVB 3594 3602	patients
+T82	LIVB 3681 3688	parents
+T84	MEAS 3742 3755	16×12 × 14 cm
+T85	LIVB 3768 3778	nouveau-né
+T88	DEVI 3855 3876	matériel orthopédique
+T89	ANAT 4057 4063	thorax
+T90	ANAT 4177 4206	membranes jéjunales centrales
+T91	PROC 4269 4280	opératoires
+T92	TEMP 4315 4325	8 semaines

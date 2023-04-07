@@ -1,0 +1,76 @@
+T1	LIVB 3 10	patient
+T2	PROC 26 44	traitement médical
+T3	CHEM 55 65	furosémide
+T4	DOSE 67 76	0,5 mg/kg
+T5	TEMP 76 78	/j
+T6	CHEM 81 94	sulfasalamide
+T7	DOSE 96 102	600 mg
+T8	TEMP 102 104	/j
+T9	CHEM 107 120	dexaméthasone
+T10	DOSE 122 128	200 mg
+T11	TEMP 128 130	/j
+T12	CHEM 133 147	hydrocortisone
+T13	DOSE 149 154	50 mg
+T14	TEMP 154 156	/j
+T15	CHEM 159 177	méthylprednisolone
+T16	DOSE 179 185	1mg/kg
+T17	TEMP 185 187	/j
+T18	CHEM 190 203	acénocoumarol
+T19	DOSE 205 210	25 mg
+T20	TEMP 210 212	/j
+T21	CHEM 215 229	bupropionamine
+T22	DOSE 231 236	20 mg
+T23	TEMP 236 238	/j
+T24	CHEM 241 255	ciprofloxacine
+T25	DOSE 257 260	3 g
+T26	TEMP 260 262	/j
+T27	CHEM 265 278	métronidazole
+T28	DOSE 280 286	100 mg
+T29	TEMP 286 288	/j
+T30	CHEM 291 302	périndopril
+T31	DOSE 304 310	400 mg
+T32	TEMP 310 312	/j
+T33	CHEM 315 328	noradrénaline
+T34	DOSE 330 337	4 µg/kg
+T35	TEMP 337 339	/j
+T36	CHEM 342 354	prédnisolone
+T37	DOSE 356 361	30 mg
+T38	TEMP 361 363	/j
+T39	CHEM 366 384	hydroxychloroquine
+T40	DOSE 386 392	120 mg
+T41	TEMP 392 394	/j
+T42	CHEM 397 408	Cyclosérine
+T43	DOSE 410 416	800 mg
+T44	TEMP 416 418	/j
+T45	CHEM 421 432	Ceftriaxone
+T46	DOSE 434 440	160 mg
+T47	TEMP 440 442	/j
+T48	CHEM 445 457	Pyrazinamide
+T49	DOSE 459 465	500 mg
+T50	TEMP 465 467	/j
+T51	CHEM 470 481	Ethionamide
+T52	DOSE 483 487	2.5g
+T53	TEMP 487 489	/j
+T54	CHEM 492 505	Triméthoprime
+T55	DOSE 507 514	2000 mg
+T56	TEMP 514 516	/j
+T57	CHEM 519 539	Sulfanyl-méthoxazole
+T58	DOSE 541 547	750 mg
+T59	TEMP 547 549	/j
+T60	CHEM 552 566	Gentaméthasone
+T61	DOSE 568 573	45 mg
+T62	TEMP 573 575	/j
+T63	PHEN 584 603	fonction systolique
+T64	ANAT 607 627	ventricule supérieur
+T65	Localization 618 627	supérieur
+T66	DEVI 635 648	doppler pulsé
+T67	DISO 681 704	lésions hypertrophiques
+T69	ANAT 717 733	abdomino-pelvien
+T70	DISO 745 758	particularité
+T71	DISO 775 823	atteinte vasculo-nerveuse cervicale hypoéchogène
+T73	DISO 839 866	épanchement intrapéritonéal
+T74	ANAT 851 866	intrapéritonéal
+T75	DISO 883 917	infiltrat parenchymateux hypodense
+T76	ANAT 893 917	parenchymateux hypodense
+T77	MEAS 934 938	deux
+T78	ANAT 939 957	espaces périrénaux

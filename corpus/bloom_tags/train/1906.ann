@@ -1,0 +1,44 @@
+T1	LIVB 29 34	femme
+T2	DISO 78 92	diabète type 2
+T3	MEAS 94 100	type 2
+T4	DISO 122 149	troubles du cycle menstruel
+T5	PHEN 134 149	cycle menstruel
+T6	DISO 156 180	carcinome parathyroïdien
+T7	ANAT 166 180	parathyroïdien
+T8	Concept_Idea 185 200	résultat global
+T9	DISO 241 253	hyperthermie
+T10	DISO 283 295	vomissements
+T11	TEMP 305 323	depuis trois jours
+T12	PROC 327 342	examen clinique
+T13	LIVB 360 368	patiente
+T14	MEAS 372 381	assez bon
+T15	Concept_Idea 382 394	état général
+T16	DISO 396 407	polypnéique
+T17	MEAS 410 423	28 cycles/min
+T18	DISO 436 452	signes cliniques
+T19	DISO 479 500	saignement péritonéal
+T20	ANAT 490 500	péritonéal
+T21	DISO 522 565	syndrome d’épanchement liquidien péritonéal
+T22	ANAT 545 565	liquidien péritonéal
+T23	DISO 586 601	surdité mentale
+T24	LIVB 603 606	Ses
+T25	DEVI 607 615	poignets
+T26	Concept_Idea 642 650	postures
+T27	DISO 679 707	symptomatologie hémorragique
+T28	PROC 720 751	auscultation abdomino-pelvienne
+T29	ANAT 733 751	abdomino-pelvienne
+T30	DISO 776 825	adénopathies jugulo-carotidiennes hypertrophiques
+T31	ANAT 789 825	jugulo-carotidiennes hypertrophiques
+T32	PROC 848 877	échographie cardio-vasculaire
+T33	ANAT 860 877	cardio-vasculaire
+T34	PROC 893 916	intubation artificielle
+T35	DISO 941 950	anomalies
+T36	DISO 968 994	kyste hydatique congénital
+T37	DISO 1013 1047	circulation artérielle hypotensive
+T38	ANAT 1025 1047	artérielle hypotensive
+T39	DISO 1074 1101	épanchement intrapéritonéal
+T40	ANAT 1086 1101	intrapéritonéal
+T41	LIVB 1137 1146	patientes
+T42	DISO 1159 1177	souffrance utérine
+T43	ANAT 1170 1177	utérine
+T44	DISO 1582 1603	schwannome plexiforme

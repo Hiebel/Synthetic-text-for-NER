@@ -1,0 +1,107 @@
+T1	PROC 4 46	radiographie de l'abdomen sans préparation
+T2	ANAT 22 29	abdomen
+T3	DISO 63 84	distension abdominale
+T4	ANAT 74 84	abdominale
+T5	PROC 88 99	échographie
+T6	TEMP 112 127	post opératoire
+T7	PROC 117 127	opératoire
+T8	DISO 140 170	processus tissulaire du pelvis
+T9	ANAT 164 170	pelvis
+T10	MEAS 181 186	10 cm
+T11	Concept_Idea 190 198	diamètre
+T12	MEAS 210 214	6 cm
+T13	Concept_Idea 218 227	grand axe
+T14	Localization 236 251	tiers supérieur
+T15	DEVI 257 275	styroscope digital
+T16	PROC 291 323	scanner thoraco abdomino pelvien
+T17	ANAT 299 323	thoraco abdomino pelvien
+T18	PHEN 351 360	grossesse
+T19	TEMP 375 386	12 semaines
+T20	PROC 392 402	opératoire
+T21	LIVB 407 415	patiente
+T22	CHEM 432 443	corticoïdes
+T23	MODE 448 458	voie orale
+T24	DISO 483 500	signes infectieux
+T25	TEMP 504 514	2 ème jour
+T27	CHEM 570 583	triméthoprime
+T28	CHEM 586 598	doxorubicine
+T29	CHEM 601 610	halothane
+T30	CHEM 613 633	sulfate de magnésium
+T31	CHEM 636 647	vincristine
+T32	CHEM 650 662	pyrazinamide
+T33	CHEM 665 676	pénicilline
+T34	CHEM 679 697	nitrolipastazidime
+T35	CHEM 700 710	ethambutol
+T36	CHEM 713 724	rifampicine
+T37	CHEM 727 741	céphalosporine
+T38	CHEM 744 761	acide salicylique
+T39	CHEM 764 775	bupivacaine
+T40	CHEM 778 788	isoniazide
+T41	CHEM 791 799	monotone
+T42	CHEM 802 812	propanolol
+T43	CHEM 815 828	dexaméthasone
+T44	CHEM 831 846	chloramphénicol
+T45	CHEM 849 862	phénobarbital
+T46	CHEM 865 877	prédnisolone
+T47	CHEM 880 891	paracétamol
+T48	CHEM 894 904	aminosides
+T49	CHEM 907 922	fluoroquinolone
+T50	CHEM 925 935	carbamates
+T51	CHEM 938 950	tétracycline
+T52	CHEM 953 973	étomidate de lithium
+T53	MEAS 1009 1016	simples
+T54	PROC 1030 1054	mastectomie exploratrice
+T55	PROC 1068 1100	toilette hépatique scanno-guidée
+T56	ANAT 1077 1086	hépatique
+T57	ANAT 1125 1135	rein droit
+T58	Localization 1130 1135	droit
+T59	PROC 1141 1176	tumorectomie endotrachéo-anastomose
+T60	PROC 1181 1217	complément thérapeutique chirurgical
+T61	PROC 1223 1249	oxygénothérapie palliative
+T63	PROC 1372 1433	néphrectomie totale segmentaire pré cœlioscopique fractionnée
+T64	ANAT 1453 1484	muqueuse péritonéale thoracique
+T65	PROC 1503 1613	laparotomie transoesogastroduodénale cervicale postéro-sous maxillaire cruro-mandibulaire percutanée réhaussée
+T66	PROC 1629 1765	hystérectomie partielle coelio-rénale bijudéo-gastrique concavitaire tranversale controlatérale séquellaire rétropéritonéale T5N0D1/T8P9
+T67	PROC 1780 1863	angioplastie axillaire distale pédiculée étanchementmétaphysaire antero-extemporané
+T68	PROC 1870 1896	étude anatomo-pathologique
+T69	Concept_Idea 1917 1941	caractères histologiques
+T70	LIVB 2023 2031	patiente
+T71	PROC 2036 2055	suivi échographique
+T72	PROC 2073 2103	investigations complémentaires
+T73	DISO 2128 2149	distension abdominale
+T74	ANAT 2139 2149	abdominale
+T75	TEMP 2163 2181	4 jours auparavant
+T76	DISO 2200 2302	distension abdominale fémorale superficielle pariétale jugulo-occipitale profonde métatarsienne rompue
+T78	PROC 2456 2478	traitement substitutif
+T79	PROC 2496 2564	ostéosynthèse extracorporelle du scalp grand trochanter de l'abdomen
+T80	ANAT 2529 2564	scalp grand trochanter de l'abdomen
+T81	MEAS 2569 2577	deuxième
+T82	PROC 2578 2602	contrôle scannographique
+T83	DISO 2635 2644	anomalies
+T84	PROC 2657 2689	scanner thoraco-abdomino-pelvien
+T85	ANAT 2665 2689	thoraco-abdomino-pelvien
+T86	DISO 2714 2744	processus lésionnel ischémique
+T87	PROC 2758 2787	taux des récepteurs hormonaux
+T88	PROC 2789 2791	RH
+T89	MEAS 2806 2809	40%
+T90	MEAS 2812 2815	90%
+T91	Concept_Idea 2826 2836	recherches
+T92	PHEN 2928 2956	fonctions vitales digestives
+T93	DISO 2995 3016	déficit hydrosolubles
+T94	DISO 3027 3058	symptômes hydro électrolytiques
+T95	DISO 3082 3109	masse tissulaire secondaire
+T96	PROC 3114 3152	radiographie standard deltaméthoprimée
+T97	DISO 3179 3241	circonférence coronaire pelvienne inférieure bilatérale droite
+T98	ANAT 3193 3241	coronaire pelvienne inférieure bilatérale droite
+T99	Localization 3224 3241	bilatérale droite
+T100	MEAS 3251 3264	environ 40 cm
+T102	PROC 3330 3357	numération formule sanguine
+T103	MEAS 3366 3372	normal
+T104	PROC 3393 3412	examens biologiques
+T105	DISO 3432 3448	hyperleucocytose
+T106	MEAS 3451 3467	1050 000 GB/mm 3
+T107	MEAS 3473 3491	11 fois la normale
+T108	MEAS 3499 3501	2e
+T109	MEAS 3526 3542	bien différencié
+T110	MEAS 3901 3908	simples
+T111	PROC 3912 3934	consultation prénatale

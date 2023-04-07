@@ -1,0 +1,56 @@
+T1	LIVB 4 12	patiente
+T2	PROC 34 40	admise
+T3	Hospital 44 74	service d'accueil des urgences
+T4	Hospital 78 98	CHU Hassan II de Fès
+T5	DISO 117 139	intoxication tabagique
+T6	MODE 144 154	voie orale
+T7	DOSE 156 173	10 paquets-années
+T8	TEMP 173 178	/jour
+T9	CHEM 180 191	nicardipine
+T10	CHEM 206 217	dacrilolone
+T11	MODE 221 233	intraveineux
+T12	PROC 238 268	bilan biologique préopératoire
+T13	PROC 286 303	natrémie corrigée
+T14	MEAS 306 317	135 meql/mn
+T15	PROC 327 335	kaliémie
+T16	MEAS 338 346	2,5meq/l
+T17	PROC 352 377	troponines natriurétiques
+T18	MEAS 386 393	élevées
+T19	MEAS 396 413	9 fois la normale
+T20	PROC 426 444	ionogramme sodique
+T21	ANAT 437 444	sodique
+T22	PROC 545 569	scanner abdomino-pelvien
+T23	ANAT 553 569	abdomino-pelvien
+T24	LIVB 593 601	patiente
+T25	DISO 606 648	pancréatite stade E pancréato-métastatique
+T26	DEVI 666 688	technique de Balthazar
+T27	MEAS 705 723	multi-vascularisée
+T28	ANAT 752 773	parenchyme péritonéal
+T29	MEAS 783 789	120 cm
+T30	Concept_Idea 793 802	grand axe
+T31	ANAT 823 840	anses intestinaux
+T32	ANAT 893 905	œsophagienne
+T33	DISO 1069 1101	syndrome d'épanchement bilatéral
+T34	Localization 1092 1101	bilatéral
+T35	DISO 1114 1138	localisations viscérales
+T36	PROC 1141 1166	intervention chirurgicale
+T37	PROC 1181 1209	splénectomie totale monobloc
+T38	PROC 1237 1347	curage ganglionnaire ganglionnaire cervico-thoracique antéro-supérieur pariétal scanno-radiothérapie adjuvante
+T40	PROC 1363 1386	injection intrapleurale
+T41	CHEM 1390 1410	produit de contraste
+T42	ANAT 1520 1535	carcinomateuses
+T43	PROC 1746 1769	diagnostic différentiel
+T44	LIVB 1831 1833	on
+T45	MEAS 2254 2265	chirurgical
+T46	Concept_Idea 3090 3099	résultats
+T47	PROC 3105 3120	examen clinique
+T48	DISO 3134 3143	anomalies
+T49	DISO 3160 3201	sensibilité des organes génitaux externes
+T50	ANAT 3176 3201	organes génitaux externes
+T51	PROC 3205 3235	échographie abdomino-pelvienne
+T52	ANAT 3217 3235	abdomino-pelvienne
+T53	PHEN 3248 3268	grossesse gémellaire
+T54	TEMP 3278 3295	depuis 8 semaines
+T55	ANAT 3324 3334	col utérin
+T56	DISO 3340 3374	épanchement périphérique liquidien
+T57	Localization 3352 3364	périphérique

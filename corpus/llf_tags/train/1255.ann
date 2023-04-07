@@ -1,0 +1,49 @@
+T1	LIVB 4 11	Mme F.H
+T2	MEAS 46 47	3
+T3	LIVB 48 55	enfants
+T4	LIVB 75 77	sa
+T5	LIVB 78 88	belle-mère
+T6	DISO 147 179	accident vasculaire crânien aigu
+T7	ANAT 167 174	crânien
+T8	LIVB 237 239	Sa
+T9	LIVB 240 247	famille
+T10	LIVB 294 301	cousins
+T11	DISO 364 401	maladie de Staphylococcus epidermidis
+T12	LIVB 425 438	saltimbanques
+T13	Concept_Idea 476 502	résultats socio-économique
+T14	LIVB 510 514	elle
+T15	PROC 532 615	contraception psychotraumatologiaque per osteotistantidis erythématise ketoacidosis
+T16	DISO 670 701	hyperkératose du tronc cérébral
+T17	ANAT 687 701	tronc cérébral
+T18	LIVB 724 727	son
+T19	LIVB 728 736	conjoint
+T20	CHEM 752 762	corticoïde
+T21	DOSE 764 772	50 mg/kg
+T22	TEMP 772 774	/j
+T23	PROC 781 807	surveillance préopératoire
+T24	DISO 859 888	symptômes neuropsychiatriques
+T25	LIVB 950 954	elle
+T26	PROC 975 997	consultation prénatale
+T27	PROC 1007 1021	bilan hormonal
+T28	PROC 1033 1039	séjour
+T29	PROC 1044 1064	suivi postopératoire
+T30	DISO 1074 1088	particularités
+T31	PHEN 1094 1109	fonction rénale
+T32	ANAT 1103 1109	rénale
+T33	MEAS 1114 1121	normale
+T34	PROC 1137 1149	intervention
+T35	PROC 1153 1177	échographie obstétricale
+T36	DISO 1198 1229	insuffisance rénale congénitale
+T37	ANAT 1211 1217	rénale
+T38	ANAT 1247 1264	ventricule utérin
+T39	MEAS 1274 1288	13 centimètres
+T40	Concept_Idea 1292 1299	largeur
+T41	DISO 1366 1413	lésion tissulaire liquidienne péritroprogènique
+T42	DISO 1423 1446	niveau hydrocarbonéaire
+T43	Localization 1457 1474	partie supérieure
+T44	MEAS 1507 1514	simples
+T45	DISO 1559 1585	décompensations partielles
+T46	DISO 1671 1688	crise épileptique
+T47	PROC 1791 1824	traitements antéro-neuroleptiques
+T48	DISO 1859 1896	néoplasie tuberculeuse aneuploïdienne
+T49	DISO 1913 1941	perforation choriorétinienne

@@ -1,0 +1,32 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 43	hospitalisée
+T3	DISO 53 71	symptômes méningés
+T4	TEMP 81 95	depuis 3 jours
+T5	DISO 108 125	ictère généralisé
+T6	DISO 127 133	fièvre
+T7	DISO 176 237	syndrome d'épanchement cutanéo-muqueux lésionnel hémorragique
+T9	LIVB 258 266	patiente
+T10	DISO 315 345	déficit immunitaire systémique
+T11	Concept_Idea 386 410	équilibre psychoaffectif
+T12	DISO 443 459	signes cliniques
+T13	DISO 477 499	sensibilité abdominale
+T14	ANAT 489 499	abdominale
+T15	DISO 506 522	troubles visuels
+T16	PHEN 558 570	locomotorité
+T17	PROC 607 622	examen clinique
+T18	DISO 640 708	tuméfaction douloureuse prurigineuse angulo-ganglionnaire flasiforme
+T19	MEAS 720 726	rapide
+T20	Concept_Idea 730 736	taille
+T21	ANAT 862 884	membrane cotyloïdienne
+T22	MEAS 903 916	3 centimètres
+T23	Concept_Idea 920 929	grand axe
+T24	ANAT 945 950	paroi
+T25	MEAS 951 961	régulières
+T26	DEVI 985 1002	cloisons cutanées
+T27	PROC 1058 1074	examen somatique
+T28	DISO 1086 1163	distension thoracique basithoracique humérale homolatérale postérieure gauche
+T30	Localization 1132 1163	homolatérale postérieure gauche
+T31	MEAS 1179 1189	rapidement
+T32	Concept_Idea 1193 1200	hauteur
+T33	DISO 1215 1238	dyspnée aiguë sifflante
+T34	MEAS 1253 1264	progressive

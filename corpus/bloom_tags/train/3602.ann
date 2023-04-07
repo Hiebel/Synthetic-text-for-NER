@@ -1,0 +1,30 @@
+T1	LIVB 16 24	patiente
+T2	Hospital 64 72	urgences
+T3	DISO 91 105	amaigrissement
+T4	MEAS 116 121	10 kg
+T5	TEMP 123 136	depuis 3 mois
+T6	DISO 139 160	détresse respiratoire
+T7	PHEN 148 160	respiratoire
+T8	TEMP 170 190	depuis deux semaines
+T9	DISO 192 218	douleur abdomino-pelvienne
+T10	ANAT 200 218	abdomino-pelvienne
+T11	DISO 224 244	vomissements bilieux
+T12	DISO 284 300	syndrome fébrile
+T13	DISO 316 336	traumatisme périnéal
+T14	DISO 346 361	symptomatologie
+T15	DISO 387 426	adénopathies cervico-bronchodigestivaux
+T16	ANAT 400 426	cervico-bronchodigestivaux
+T17	PROC 444 475	échographie abdomino- pelvienne
+T18	ANAT 456 475	abdomino- pelvienne
+T19	DISO 495 577	masse hypovolocellulaire latéro-mésentérique cervicale hypogastrique hypertrophiée
+T21	MEAS 587 591	2 cm
+T22	Concept_Idea 595 604	grand axe
+T23	PROC 642 651	injection
+T24	CHEM 655 675	produit de contraste
+T25	ANAT 702 718	fosse ombilicale
+T26	DISO 764 783	métastase purulente
+T27	DISO 792 826	kyste malformé kysto-endométrionné
+T28	DISO 1096 1158	maladie systémique thromboembolique prurigo érythémato-nucléus
+T29	PROC 1163 1175	diagnostiqué
+T30	PROC 1197 1217	prise médicamenteuse
+T31	DISO 1293 1309	myxome nodulaire

@@ -1,0 +1,56 @@
+T1	LIVB 18 25	patient
+T2	DISO 46 71	antécédents pathologiques
+T3	MEAS 72 84	particuliers
+T4	PROC 95 100	admis
+T5	Hospital 105 113	urgences
+T6	DISO 133 154	distension abdominale
+T7	ANAT 144 154	abdominale
+T8	PROC 158 173	examen clinique
+T9	PROC 178 187	admission
+T10	LIVB 201 209	patiente
+T11	MEAS 213 220	mauvais
+T12	Concept_Idea 221 233	état général
+T13	DISO 243 269	signes neuropsychiatriques
+T14	ANAT 283 305	membre inférieur droit
+T15	Localization 300 305	droit
+T16	TEMP 315 328	depuis 4 mois
+T17	PROC 332 343	échographie
+T18	DISO 384 431	masse cervico-thoracique médio cervicale gauche
+T19	Localization 409 414	médio
+T20	Localization 425 431	gauche
+T21	MEAS 440 445	13 cm
+T22	MEAS 458 472	30 centimètres
+T23	Concept_Idea 476 485	grand axe
+T24	PROC 490 507	bilan étiologique
+T25	PROC 536 564	toucher nasopharyngo-laryngé
+T26	ANAT 544 564	nasopharyngo-laryngé
+T27	Concept_Idea 574 596	limites thérapeutiques
+T28	MEAS 605 611	saines
+T29	PROC 616 633	biologie standard
+T30	PROC 635 653	ionogramme sanguin
+T31	ANAT 646 653	sanguin
+T32	PROC 655 671	bilans hépatique
+T33	ANAT 662 671	hépatique
+T34	DISO 692 707	symptomatologie
+T35	DISO 727 766	insuffisance rénale chronique terminale
+T36	ANAT 740 746	rénale
+T37	DISO 782 796	diarrhée aigue
+T38	TEMP 823 835	le soir même
+T39	PHEN 848 857	grossesse
+T40	MEAS 890 897	simples
+T41	PROC 903 932	anticoagulation intraveineuse
+T42	PROC 938 974	antibioprophylaxie antitétanositaire
+T43	PROC 987 998	hémodialyse
+T44	PROC 1012 1036	laparotomie exploratrice
+T45	DISO 1054 1077	défaillance intestinale
+T46	ANAT 1066 1077	intestinale
+T47	PROC 1083 1126	cholécystectomie endoscopique scanno-guidée
+T48	PROC 1133 1159	étude anatomopathologiaque
+T49	DISO 1184 1263	adénocarcinome mucineux réniforme anévrysmale monofibrineux myxoïde métatarsien
+T50	MEAS 1271 1279	stade IV
+T51	Concept_Idea 1329 1348	aspect histologique
+T52	DISO 1379 1406	neuroleptique carcinomateux
+T53	DISO 1416 1450	métastase tubulocytaire secondaire
+T54	PROC 1455 1486	traitement médical conservateur
+T55	MEAS 1541 1553	complétement
+T56	MEAS 1583 1610	progressivement progressive

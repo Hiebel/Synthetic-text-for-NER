@@ -1,0 +1,24 @@
+T1	LIVB 15 22	patient
+T2	DISO 42 67	antécédents pathologiques
+T3	MEAS 68 80	particuliers
+T4	DISO 96 116	douleur épigastrique
+T5	ANAT 104 116	épigastrique
+T6	TEMP 126 143	depuis deux jours
+T7	DISO 184 201	dyspnée sifflante
+T8	MEAS 215 221	brutal
+T9	MEAS 236 247	progressive
+T10	PROC 265 280	examen clinique
+T11	DISO 297 310	masse ulcérée
+T12	MEAS 320 333	environ 10 cm
+T13	Concept_Idea 337 346	grand axe
+T14	MEAS 355 360	12 cm
+T15	Concept_Idea 364 372	diamètre
+T16	ANAT 391 424	fosse iliaque supra-mésentorielle
+T17	Localization 405 410	supra
+T18	PROC 440 462	examen ophtalmologique
+T19	MEAS 469 475	normal
+T20	PROC 480 508	ponction liquide explorateur
+T21	ANAT 489 508	liquide explorateur
+T22	DISO 624 676	kystadénome épithélio-gigantocellulaire kystophagien
+T23	PROC 701 731	échographie abdomino-pelvienne
+T24	ANAT 713 731	abdomino-pelvienne

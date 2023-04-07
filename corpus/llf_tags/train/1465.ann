@@ -1,0 +1,76 @@
+T1	LIVB 15 22	patient
+T2	DISO 42 67	antécédents pathologiques
+T3	MEAS 68 80	particuliers
+T4	DISO 101 130	lésions érythémato papuleuses
+T5	ANAT 144 158	tronc cérébral
+T6	PROC 162 168	examen
+T7	PROC 173 182	admission
+T8	Concept_Idea 201 213	état général
+T9	MEAS 214 220	altéré
+T10	DISO 230 236	fièvre
+T11	MEAS 239 245	39 ° C
+T12	PROC 263 278	examen physique
+T13	DISO 290 303	particularité
+T14	PROC 308 325	tomodensitométrie
+T15	PROC 327 350	TDM) thoraco-abdominale
+T16	ANAT 332 350	thoraco-abdominale
+T17	DISO 382 401	niveau hydroaérique
+T18	PROC 415 458	broncho-pneumo-trachéale transoesophagienne
+T19	PROC 460 465	BPCO2
+T20	Hospital 482 490	urgences
+T21	DISO 528 555	masse tissulaire plexiforme
+T22	MEAS 564 569	13 cm
+T23	Concept_Idea 573 582	grand axe
+T24	PHEN 592 609	sillons corticaux
+T25	Localization 636 651	quatrième rayon
+T26	ANAT 668 693	voies veineuses centrales
+T27	MEAS 729 734	21 mm
+T28	MEAS 738 743	16 mm
+T29	DISO 759 765	tumeur
+T30	CHEM 827 858	amoxicilline acide clavulanique
+T31	DOSE 884 892	1 gramme
+T32	TEMP 892 897	/24 h
+T33	TEMP 915 919	/24h
+T34	MODE 922 971	gentaméthasone - inhibiteur calcique intraveineux
+T36	PROC 981 1012	méthode contraceptive empirique
+T37	PROC 1026 1051	étude immunohistochimique
+T38	LIVB 1066 1073	patient
+T39	DISO 1095 1117	anomalie morphologique
+T40	DISO 1121 1140	immunohistochimique
+T41	PROC 1932 1961	prélèvements bactériologiques
+T42	PROC 1992 2020	antibiothérapie probabiliste
+T43	Concept_Idea 2079 2108	différents facteurs cliniques
+T44	Concept_Idea 2123 2149	compétences hémodynamiques
+T45	MEAS 2204 2213	favorable
+T46	PROC 2264 2293	néphrolithotomie exploratrice
+T47	PROC 2337 2421	résection extemporanéatectomie totale segmentaire élargie scanno-chimiothérapeutique
+T48	PROC 2436 2471	fermeture préanesthésique séquencée
+T49	PROC 2487 2544	extubation aspiration intrascrotale périduro-respiratoire
+T50	ANAT 2738 2752	fente palatine
+T52	DISO 2782 2860	processus tissulaire érythémato-trachéo-occipital postéro-pariétal basal droit
+T53	Localization 2855 2860	droit
+T54	DISO 2866 2883	signes infectieux
+T55	ANAT 2913 2943	méso sigmoïde inferieur gauche
+T56	Localization 2937 2943	gauche
+T57	DISO 2958 3059	adénopathies jugulo-carotidiennes médiofibrillaires temporales hyperclaviculaires hypokinéstructrices
+T59	DISO 3096 3108	malakoplakie
+T60	MEAS 3142 3149	simples
+T61	PROC 3155 3183	curiethérapie antibacillaire
+T62	CHEM 3188 3199	céftriaxone
+T63	DOSE 3201 3204	2 g
+T64	TEMP 3204 3214	/24 heures
+T66	DISO 3304 3333	symptômes neuropsychiatriques
+T67	PROC 3350 3387	vaccinations parentérales habituelles
+T68	Concept_Idea 3417 3430	état clinique
+T69	Concept_Idea 3446 3465	aspect histologique
+T70	LIVB 3533 3541	patients
+T71	PROC 3598 3617	immunohistochimique
+T72	PROC 3622 3647	scanner thoraco-abdominal
+T73	ANAT 3630 3647	thoraco-abdominal
+T75	PROC 3898 3920	contrôle échographique
+T76	MEAS 3927 3936	définitif
+T77	PROC 3955 3980	étude anatomopathologique
+T78	PROC 3999 4026	analyse immunohistochimique
+T79	DISO 4064 4112	nodule ovalaire œdémateux interstitiel nécrosant
+T80	MEAS 4122 4125	6mm
+T81	Concept_Idea 4129 4138	grand axe

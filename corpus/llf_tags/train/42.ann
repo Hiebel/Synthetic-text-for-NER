@@ -1,0 +1,88 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 64	antécédent pathologique
+T3	MEAS 65 76	particulier
+T4	PROC 78 83	Admis
+T5	Hospital 88 96	urgences
+T6	DISO 105 142	traumatisme du membre inférieur droit
+T7	ANAT 120 142	membre inférieur droit
+T8	Localization 137 142	droit
+T9	DISO 150 170	déchirure des jambes
+T10	ANAT 164 170	jambes
+T11	TEMP 183 193	11/08/2014
+T12	MEAS 290 300	favorables
+T13	PROC 306 330	chimiothérapie adjuvante
+T14	CHEM 341 351	corticoïde
+T15	CHEM 365 383	hydroxychloroquine
+T16	MODE 387 405	bronchodilatateurs
+T17	CHEM 417 433	sulfaméthoxazole
+T18	MODE 438 456	voie intraveineuse
+T19	PROC 518 538	suivi postopératoire
+T20	PROC 562 588	consultation psychiatrique
+T21	Concept_Idea 610 637	résultat neuropsychiatrique
+T22	DISO 658 683	trouble schizophréniforme
+T23	PROC 687 713	examen anatomopathologique
+T24	DISO 735 758	déficit sensitivomoteur
+T25	DISO 768 785	signe psychotique
+T26	LIVB 797 803	malade
+T27	PROC 808 825	biologie standard
+T28	MEAS 832 839	normale
+T29	PROC 845 867	transaminases sériques
+T30	MEAS 870 880	0,155 UI/l
+T31	PROC 884 903	hémoglobine glyquée
+T32	MEAS 905 913	1,09g/dl
+T33	PROC 917 944	numération formule sanguine
+T34	MEAS 957 965	positive
+T35	MEAS 968 989	126 000 éléments /mm3
+T36	PROC 994 1007	créatininémie
+T37	MEAS 1010 1018	2,54mg/l
+T38	PROC 1024 1044	récepteurs hormonaux
+T39	MEAS 1058 1064	élevés
+T40	MEAS 1067 1088	148 400 éléments /mm3
+T41	MEAS 1094 1097	74%
+T42	LIVB 1132 1153	relais communautaires
+T43	DISO 1183 1202	maladie auto-immune
+T44	DISO 1261 1282	symptômes thyroïdiens
+T45	PHEN 1319 1342	conceptions délicieuses
+T46	Concept_Idea 1449 1463	plan somatique
+T47	Concept_Idea 1512 1532	aspect morphologique
+T48	DISO 1579 1610	psychose démoniaque polyclonale
+T49	PROC 1881 1898	scanner abdominal
+T50	ANAT 1889 1898	abdominal
+T51	DISO 2011 2044	lésions myéloblastiques atypiques
+T52	MEAS 2069 2074	60 mm
+T53	MEAS 2077 2082	70 mm
+T54	MEAS 2087 2092	50 mm
+T55	MEAS 2095 2100	20 mm
+T56	ANAT 2207 2236	expectorations conjonctivales
+T57	DEVI 2312 2336	tissu fibro-ostéathélial
+T58	ANAT 2531 2547	muqueuse buccale
+T59	ANAT 2567 2582	foyer liquidien
+T60	PROC 2588 2641	néphrectomie totale scanno-guidalectomie exploratrice
+T61	ANAT 2755 2791	noyaux fundiques cervico-thyroïdiens
+T62	Concept_Idea 3007 3037	caractéristiques histologiques
+T63	ANAT 3092 3125	sinus maxillaire inférieur gauche
+T64	Localization 3119 3125	gauche
+T65	CHEM 3130 3149	protéine C réactive
+T66	DOSE 3151 3157	500 mg
+T67	CHEM 3160 3191	amoxicilline acide clavulanique
+T68	PROC 3196 3221	étude immunohistochimique
+T69	LIVB 3250 3272	Pseudomonas Aeroginosa
+T70	LIVB 3343 3351	patiente
+T71	PROC 3356 3378	traitement chirurgical
+T72	PROC 3418 3440	remplissage vasculaire
+T73	ANAT 3430 3440	vasculaire
+T74	PROC 3446 3465	anesthésie générale
+T75	DEVI 3490 3568	cathéter péridural intracérébrale double lumière pulsé hybride basse fréquence
+T76	PROC 3600 3665	contrôles radiologiques préopératoires non invasive endoscopiques
+T77	ANAT 3942 3967	cellules para pulmonaires
+T78	ANAT 4198 4236	vaisseaux abdominaux sus mésentériques
+T79	DISO 4290 4304	trouble moteur
+T80	DISO 4308 4327	syndrome ischémique
+T81	PROC 4332 4366	prise en charge neuropsychiatrique
+T82	TEMP 4378 4388	5 semaines
+T83	PHEN 4478 4496	suites opératoires
+T84	MEAS 4505 4512	simples
+T85	DISO 4526 4542	crise convulsive
+T86	PROC 4577 4609	consultation psychothérapeutique
+T87	DISO 4639 4666	psychoses schizophréniforme
+T88	Concept_Idea 4787 4799	état général

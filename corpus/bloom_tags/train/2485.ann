@@ -1,0 +1,29 @@
+T1	LIVB 29 37	patiente
+T2	Hospital 76 91	bloc opératoire
+T4	DISO 130 153	hypertension artérielle
+T5	ANAT 143 153	artérielle
+T6	CHEM 159 177	hydroxychloroquine
+T7	DISO 224 245	détresse respiratoire
+T8	PHEN 233 245	respiratoire
+T9	Concept_Idea 292 304	état général
+T10	DISO 328 355	traumatisme abdominoprinéal
+T11	ANAT 340 355	abdominoprinéal
+T12	LIVB 410 418	patiente
+T13	DOSE 420 423	1kg
+T14	CHEM 427 440	dexaméthasone
+T15	DOSE 444 450	100 mg
+T16	CHEM 454 467	noradrénaline
+T17	DEVI 568 577	téléphone
+T18	PROC 607 630	analgésie intraveineuse
+T19	PROC 804 824	enquête radiologique
+T20	DISO 841 897	distension aortique segmentaire bilatérale hypertrophiée
+T22	Localization 873 883	bilatérale
+T23	MEAS 909 924	progressivement
+T24	Concept_Idea 928 934	volume
+T25	TEMP 943 964	2 semaines auparavant
+T26	MEAS 974 986	prédominante
+T27	PROC 997 1011	interrogatoire
+T28	DISO 1108 1119	bradycardie
+T29	MEAS 1134 1140	rapide
+T30	DISO 1161 1184	symptômes neurologiques
+T31	DISO 1213 1240	polynucléaires neutrophiles

@@ -1,0 +1,85 @@
+T1	DISO 4 13	symptômes
+T2	Concept_Idea 30 50	dossier de l'abdomen
+T3	ANAT 43 50	abdomen
+T4	DISO 78 94	dyspnée d'effort
+T5	DISO 107 113	signes
+T6	DISO 129 150	trouble de conscience
+T7	PROC 155 190	palpation du membre inférieur droit
+T8	ANAT 168 190	membre inférieur droit
+T9	Localization 185 190	droit
+T10	DISO 220 283	processus tissulaire fibro-iléo-duodénal des membres inferieurs
+T11	ANAT 265 283	membres inferieurs
+T12	MEAS 285 293	figure 1
+T13	PROC 299 315	bilan biologique
+T14	MEAS 322 328	normal
+T15	DISO 347 370	sérum salé hypertonique
+T16	CHEM 380 392	antibiotique
+T17	PROC 413 428	examen clinique
+T18	LIVB 451 457	enfant
+T19	TEMP 465 472	10 mois
+T20	PHEN 510 518	familial
+T21	Hospital 542 563	urgences pédiatriques
+T22	DISO 592 611	accident domestique
+T23	LIVB 630 633	son
+T24	LIVB 634 640	épouse
+T25	DISO 651 663	métrorragies
+T26	DISO 691 704	consanguinité
+T27	DISO 711 729	mariage consanguin
+T28	PROC 748 765	enquête familiale
+T29	DISO 860 884	complication infectieuse
+T30	LIVB 913 916	lui
+T31	LIVB 920 922	sa
+T32	LIVB 923 936	belle-famille
+T33	LIVB 1059 1063	leur
+T34	LIVB 1070 1075	fille
+T35	TEMP 1084 1089	8 ans
+T36	PROC 1095 1119	laparotomie exploratrice
+T37	PROC 1125 1159	traction transoesophagienne totale
+T38	PROC 1182 1203	extubation percutanée
+T39	DEVI 1257 1283	annexectomie endotrachéale
+T40	DISO 1303 1353	perforation péritonéale extradigestive douloureuse
+T41	ANAT 1374 1417	parties molles cervico-thoracique pelvienne
+T42	PROC 1441 1483	anastomose termino-aortocléphrine profonde
+T43	ANAT 1502 1546	nerf thoracique inferieur(e) postéro-caudale
+T45	ANAT 1556 1583	muscle lombaire homolatéral
+T46	Localization 1572 1583	homolatéral
+T47	PROC 1649 1674	étude anatomopathologique
+T48	DISO 1700 1731	lésions kystiques angiomateuses
+T49	MEAS 1756 1767	14×16×13 cm
+T50	MEAS 1770 1776	5×3 cm
+T51	ANAT 1843 1874	paroi gastroduodénale digestive
+T52	MEAS 1882 1892	17×7×11 cm
+T53	MEAS 1895 1904	2×1 pouce
+T54	DISO 1927 1973	récidive traumatique myofibroblastique maligne
+T55	DISO 2010 2052	contracture ostéocalicielle postopératoire
+T56	ANAT 2130 2153	hémi-clavicule biliaire
+T57	ANAT 2178 2206	septum intervertébral commun
+T60	MEAS 2580 2591	30×24×15 cm
+T61	PROC 2673 2695	résection histologique
+T62	DISO 2882 2954	infiltration du méso transverse hépato-rénal mucineux péritroglycéridisé
+T64	ANAT 2962 2966	foie
+T65	PROC 2986 3043	extraction des tissus tumoraux cervicothéliaux axillaires
+T66	ANAT 3001 3043	tissus tumoraux cervicothéliaux axillaires
+T67	PROC 3052 3090	anastomose termino-terminalo-trachéale
+T68	PROC 3097 3115	lavage chirurgical
+T69	DISO 3153 3162	incidents
+T70	DISO 3180 3201	détresse respiratoire
+T71	PHEN 3189 3201	respiratoire
+T72	DISO 3208 3225	choc hémorragique
+T73	LIVB 3243 3251	patiente
+T74	Concept_Idea 3269 3300	antécédents médico-chirurgicaux
+T75	PROC 3314 3352	contrôle ophtalmologique préopératoire
+T76	PROC 3359 3391	traitement palliatif substitutif
+T77	CHEM 3408 3447	acide acétyle méthoxylésulfaméthoxazole
+T78	DISO 3467 3496	carcinome épidermocrystolique
+T79	LIVB 3547 3552	femme
+T80	PROC 3590 3617	thyroïdectomie exploratrice
+T81	PROC 3631 3658	radiothérapie néo adjuvante
+T82	PROC 3702 3757	néphrectomie totale multiviscérale endotrachéotalytique
+T83	PROC 3787 3807	examen macroscopique
+T84	DISO 3836 3864	prolifération carcinomateuse
+T85	DISO 3878 3913	cellules polyploïdes hypokinétiques
+T86	ANAT 3939 3962	structures urogénitales
+T87	DISO 4007 4107	adénocarcinome pléomorphe lobulaire érythémateux juvénile achilléen hétérozygote atrophique calcifié
+T88	TEMP 4115 4127	initialement
+T89	MEAS 4128 4137	grade III

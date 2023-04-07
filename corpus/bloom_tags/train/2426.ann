@@ -1,0 +1,34 @@
+T1	LIVB 16 24	patiente
+T2	DISO 60 95	paralysie du membre inférieur droit
+T3	ANAT 73 95	membre inférieur droit
+T4	Localization 90 95	droit
+T5	TEMP 105 118	depuis 3 mois
+T6	DISO 131 140	symptômes
+T7	PROC 153 168	examen clinique
+T8	DEVI 186 199	masse plâtrée
+T9	MEAS 209 212	6cm
+T10	Concept_Idea 216 225	grand axe
+T11	MEAS 227 235	indolore
+T12	MEAS 239 245	mobile
+T13	Concept_Idea 261 273	plan profond
+T14	Concept_Idea 282 288	aspect
+T15	DISO 304 378	carcinome des muscles fléchisseurs crâniens inféro-latéraux périrachidiens
+T16	ANAT 318 378	muscles fléchisseurs crâniens inféro-latéraux périrachidiens
+T17	ANAT 393 426	sinus caverneux céphalo-tentorien
+T18	DISO 464 482	prise de contraste
+T19	PROC 499 527	imagerie tomodensitométrique
+T20	PROC 529 532	TDM
+T21	DISO 583 601	lésions nodulaires
+T22	DISO 607 630	emboles vasculo-nerveux
+T23	ANAT 615 630	vasculo-nerveux
+T24	DISO 666 681	masse hypodense
+T25	MEAS 693 708	progressivement
+T26	Concept_Idea 712 718	volume
+T27	PROC 739 748	injection
+T28	CHEM 752 772	produit de contraste
+T29	PROC 805 843	anesthésie locorégionale transpleurale
+T30	ANAT 961 999	muqueuse musculaire intestinale iléale
+T31	ANAT 1029 1076	fosse d'épanchement tissulaire ptérygo-vésicale
+T33	DISO 1432 1462	endométrial polyposangioséreux
+T34	ANAT 1473 1496	ganglionnaire cervicale
+T35	PROC 1612 1628	bilan biologique

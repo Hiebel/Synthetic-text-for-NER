@@ -1,0 +1,40 @@
+T1	LIVB 19 29	nourrisson
+T2	TEMP 37 48	21 semaines
+T3	PHEN 96 105	grossesse
+T4	PROC 110 116	suivie
+T5	TEMP 126 141	4 jours plutard
+T6	LIVB 151 162	grand frère
+T7	LIVB 180 182	il
+T8	PROC 196 260	transfusion sanguine intraveineuse substitutionnelle fractionnée
+T9	PROC 273 295	consultation prénatale
+T10	PROC 311 331	bilan préchirurgical
+T11	DISO 360 379	syndrome infectieux
+T12	DISO 390 412	récidive néonatalienne
+T13	DISO 422 441	maladies orphelines
+T14	PROC 456 482	recherche étiopathogénique
+T15	CHEM 497 510	métronidazole
+T16	PROC 590 637	complément immunohistochimique IgG antibiotique
+T17	MEAS 659 676	fortement positif
+T18	Concept_Idea 1733 1736	cas
+T19	LIVB 1743 1751	patiente
+T20	DISO 1786 1812	hyperplasie du rein gauche
+T21	ANAT 1801 1812	rein gauche
+T22	Localization 1806 1812	gauche
+T23	PROC 1828 1850	traitement substitutif
+T24	LIVB 1880 1888	patiente
+T25	DISO 1893 1914	coliques néphrotiques
+T26	DISO 1929 1960	nodules rénaux intrabronchiques
+T27	DISO 1976 1989	consanguinité
+T28	DISO 1996 2016	souffrance grossesse
+T29	PHEN 2007 2016	grossesse
+T30	LIVB 2086 2093	parents
+T31	PROC 2098 2104	suivis
+T32	PROC 2124 2163	tomodensitométrie par cohérence optique
+T33	PROC 2165 2168	OCT
+T34	PROC 2208 2227	bilan préopératoire
+T35	DISO 2258 2286	anomalie anatomopathologique
+T36	MEAS 2373 2380	simples
+T37	PROC 2386 2408	contrôle échographique
+T38	TEMP 2445 2451	3 mois
+T39	PROC 2457 2485	antibiothérapie probabiliste
+T40	Concept_Idea 2508 2527	résultats cliniques

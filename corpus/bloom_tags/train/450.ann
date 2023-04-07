@@ -1,0 +1,52 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 38	trois ans
+T3	DISO 58 80	douleurs épigastriques
+T4	ANAT 67 80	épigastriques
+T5	TEMP 90 103	depuis 2 mois
+T6	MEAS 118 129	progressive
+T7	PROC 133 147	interrogatoire
+T8	DISO 174 206	hémiplégie du côté controlatéral
+T9	ANAT 188 206	côté controlatéral
+T10	PHEN 226 246	récupération motrice
+T11	DISO 262 278	troubles visuels
+T12	PROC 305 321	examen somatique
+T13	DISO 333 346	particularité
+T14	DISO 364 397	syndrome inflammatoire biologique
+T15	PROC 399 401	VS
+T16	MEAS 404 407	1mm
+T17	PROC 409 412	CRP
+T18	MEAS 414 420	3 mg/l
+T19	DISO 423 444	détresse respiratoire
+T20	PHEN 432 444	respiratoire
+T21	DISO 454 482	souffrance buccodentaculaire
+T22	ANAT 465 482	buccodentaculaire
+T23	LIVB 502 507	fille
+T24	TEMP 516 521	2 ans
+T25	PROC 526 532	suivie
+T26	PROC 536 542	admise
+T27	Hospital 547 555	urgences
+T28	DISO 569 584	perte pondérale
+T29	MEAS 596 600	15kg
+T30	PROC 606 632	traitement médical curatif
+T31	DISO 668 684	signes cliniques
+T32	PROC 713 735	recherche étiologiques
+T33	DISO 802 822	douleur épigastrique
+T34	ANAT 810 822	épigastrique
+T35	MEAS 855 863	brunâtre
+T36	MEAS 875 890	progressivement
+T37	Concept_Idea 894 900	taille
+T38	MEAS 912 915	5cm
+T39	MEAS 918 922	4 cm
+T40	MEAS 932 944	prurigineuse
+T41	PROC 968 990	traitement chirurgical
+T42	PROC 1025 1056	échographie abdomino- pelvienne
+T43	ANAT 1037 1056	abdomino- pelvienne
+T44	DISO 1081 1115	sténose artériolaire hypogastrique
+T45	ANAT 1089 1115	artériolaire hypogastrique
+T46	Concept_Idea 1129 1137	diamètre
+T47	ANAT 1167 1185	cavité intestinale
+T48	DISO 1204 1245	adénopathies hypogastriques hypoechogènes
+T49	ANAT 1217 1245	hypogastriques hypoechogènes
+T50	DISO 1264 1273	symptômes
+T51	DISO 1450 1469	œdème péristaltique
+T52	ANAT 1456 1469	péristaltique

@@ -1,0 +1,81 @@
+T1	LIVB 3 13	nouveau-né
+T2	PROC 38 43	admis
+T3	TEMP 46 48	J2
+T4	DISO 83 104	détresse respiratoire
+T5	PHEN 92 104	respiratoire
+T6	DISO 114 121	dyspnée
+T7	MEAS 136 147	progressive
+T8	PROC 153 168	examen clinique
+T9	LIVB 172 182	nouveau-né
+T10	DISO 203 227	rupture des conjonctives
+T11	ANAT 215 227	conjonctives
+T12	Concept_Idea 254 264	antécédent
+T13	DISO 285 298	consanguinité
+T14	PROC 302 320	anamnèse familiale
+T15	LIVB 344 355	frère cadet
+T16	TEMP 363 369	21 ans
+T18	LIVB 448 455	parents
+T19	LIVB 460 464	père
+T20	LIVB 506 533	lutter contre les incendies
+T21	LIVB 703 709	enfant
+T22	DISO 738 756	crises convulsives
+T23	PROC 824 846	traitement substitutif
+T24	CHEM 858 870	antipaludéen
+T25	PROC 1159 1192	complément scannopolymérométrique
+T26	Localization 1220 1254	bandes hyperchromatiques centrales
+T27	ANAT 1266 1278	foyer cutané
+T28	MEAS 1302 1306	5 cm
+T29	MEAS 1310 1323	3 centimètres
+T30	PROC 1397 1435	translation endotrachéale systématique
+T31	DEVI 1449 1470	matériel intraveineux
+T32	ANAT 1480 1533	nerf laryngé inférieur droit postéro supérieur gauche
+T33	Localization 1503 1533	droit postéro supérieur gauche
+T34	ANAT 1605 1640	muscle controlatéral interne gauche
+T35	Localization 1634 1640	gauche
+T36	PROC 1683 1709	radiothérapie concomitante
+T37	PROC 1723 1755	thoracotomie exploratrice guidée
+T38	PROC 1768 1800	réanimation cervico-mandibulaire
+T39	PROC 1816 1865	exo-hystérectomie transœso-oesophagienne monobloc
+T40	MEAS 1899 1906	simples
+T41	Concept_Idea 1958 1996	caractéristiques anatomo-pathologiques
+T42	MEAS 2036 2048	particuliers
+T43	PROC 2150 2190	perfusion aspirative intrascapartérielle
+T44	Hospital 2218 2276	logements médicopsychiatriques pédiatriques communautaires
+T45	PROC 2281 2309	prise en charge anesthésique
+T47	PROC 2440 2510	plastie antracho-axillaire distale multikinétique bifocale écho-guidée
+T48	MEAS 2520 2531	16x12 x 8mm
+T49	MEAS 2537 2542	14 mm
+T50	Concept_Idea 2546 2555	grand axe
+T52	DISO 3135 3153	crises convulsives
+T53	PROC 3182 3201	traitement adjuvant
+T54	PROC 3209 3245	transfusions intraveineuses du genou
+T55	ANAT 3240 3245	genou
+T56	PROC 3294 3315	contrôle radiologique
+T57	MEAS 3332 3344	satisfaisant
+T58	DISO 3350 3378	complications hémodynamiques
+T59	DISO 3382 3394	chirurgicaux
+T60	LIVB 3415 3422	malades
+T61	PHEN 3426 3438	accouchement
+T62	MEAS 3445 3449	bien
+T63	PROC 3450 3455	suivi
+T64	Concept_Idea 3465 3481	situation fœtale
+T65	PROC 3487 3510	consignation maternelle
+T66	CHEM 3512 3522	Lamivudine
+T67	CHEM 3525 3538	Glivecestrel®
+T68	LIVB 3566 3572	enfant
+T69	DEVI 3578 3614	utérus polymyomateux micropolymorphe
+T70	MEAS 3623 3627	5 cm
+T71	Concept_Idea 3631 3640	petit axe
+T72	Localization 3654 3684	portion postéro-latérophérique
+T73	PROC 3704 3724	séance préopératoire
+T74	DISO 3745 3762	maladie néonatale
+T75	TEMP 3783 3797	quatrième mois
+T76	PROC 3803 3813	opératoire
+T77	MEAS 3824 3842	strictement normal
+T78	DISO 3887 3915	troubles neuropsychiatriques
+T79	LIVB 4007 4014	patient
+T80	LIVB 4066 4068	sa
+T81	PROC 4069 4095	consultation psychiatrique
+T82	PROC 4131 4160	anticoagulation contraceptive
+T83	PROC 4174 4223	néphrolithotomie percutanée endotrachéale in situ
+T84	PROC 4236 4366	hémi angioplastie pariétale scanno-clampage rétropéritonéale subtotale bijectionnelle per os circonférentiel brachial ketoacidosis

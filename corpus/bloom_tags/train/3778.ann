@@ -1,0 +1,26 @@
+T1	PROC 2 17	examen clinique
+T2	PROC 22 31	admission
+T3	LIVB 44 51	patient
+T4	MEAS 55 58	bon
+T5	Concept_Idea 59 71	état général
+T6	DISO 73 84	polypnéique
+T7	MEAS 87 100	25 cycles/min
+T8	PHEN 110 129	pression artérielle
+T9	ANAT 119 129	artérielle
+T10	MEAS 133 143	70/40 mmhg
+T11	PROC 148 172	scanner abdomino-pelvien
+T12	ANAT 156 172	abdomino-pelvien
+T13	DISO 184 193	anomalies
+T14	PROC 220 236	examen somatique
+T15	DISO 274 343	épanchement liquidien pariétal latéro péritonéal du pancréas infarcté
+T17	ANAT 326 343	pancréas infarcté
+T18	MEAS 348 352	2 cm
+T19	DISO 361 387	masse tissulaire hypodense
+T20	ANAT 402 437	parois intestinales jéjunosténosées
+T21	PROC 465 474	injection
+T22	CHEM 477 491	Hidrocortisone
+T23	MEAS 501 505	14cm
+T24	Concept_Idea 509 523	grand diamètre
+T25	Localization 540 544	deux
+T26	ANAT 545 560	grosses splènes
+T27	ANAT 586 620	aires ganglionnaires cerviculaires

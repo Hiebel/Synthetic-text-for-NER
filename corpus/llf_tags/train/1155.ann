@@ -1,0 +1,14 @@
+T1	LIVB 37 44	patient
+T2	DISO 109 146	hypertension intracrânienne terminale
+T3	ANAT 122 136	intracrânienne
+T4	TEMP 180 197	depuis trois mois
+T5	DISO 213 242	diabète non insulino-calcique
+T6	Concept_Idea 272 290	état hémodynamique
+T7	PROC 441 455	interrogatoire
+T8	DISO 473 490	trouble bipolaire
+T9	DISO 497 510	schizophrénie
+T10	DISO 547 562	symptomatologie
+T11	TEMP 573 581	six mois
+T12	DISO 655 675	kyste hydatique aigu
+T13	ANAT 696 717	troncs supra-aortique
+T14	MEAS 751 759	15x12 mm

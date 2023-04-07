@@ -1,0 +1,38 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 71	antécédents pathologiques
+T3	MEAS 72 84	particuliers
+T4	PROC 96 102	admise
+T5	Hospital 107 115	urgences
+T6	DISO 128 153	vomissements alimentaires
+T7	TEMP 163 181	depuis trois jours
+T8	PROC 186 209	scanner abdominopelvien
+T9	ANAT 194 209	abdominopelvien
+T10	DISO 227 277	épanchement pariéto-diaphragmatique du flanc droit
+T12	ANAT 266 277	flanc droit
+T13	Localization 272 277	droit
+T14	DISO 311 338	carcinome kystique purulent
+T15	PROC 348 377	échographie cardio-vasculaire
+T16	ANAT 360 377	cardio-vasculaire
+T17	DISO 394 465	anévrysme ventriculaire supéro-médio artériocardiocytaire hypo-echogène
+T19	Localization 418 430	supéro-médio
+T20	ANAT 481 525	artère cave superficielle postérieure droite
+T21	Localization 507 525	postérieure droite
+T22	DISO 550 566	signes cliniques
+T23	DISO 593 631	syndrome d'épanchement intrarachidiens
+T24	ANAT 616 631	intrarachidiens
+T25	DISO 668 692	maladie thromboembolique
+T26	CHEM 698 717	anti-thrombolytique
+T27	PROC 838 861	glycémie à jeun glyquée
+T28	MEAS 893 903	0,97 meq/L
+T29	MODE 910 915	bolus
+T30	DOSE 919 926	20mg/kg
+T31	CHEM 930 943	dexaméthasone
+T32	DOSE 965 977	50 mg/m²/min
+T33	CHEM 981 1000	hydroxyprogestérone
+T34	MEAS 1018 1026	normales
+T35	PROC 1041 1066	protéinurie d'hémoglobine
+T36	MEAS 1143 1152	lentement
+T37	Concept_Idea 1156 1162	volume
+T38	DEVI 1197 1229	méthodes contraceptives externes
+T39	PROC 1287 1292	suivi
+T40	MEAS 1349 1350	2

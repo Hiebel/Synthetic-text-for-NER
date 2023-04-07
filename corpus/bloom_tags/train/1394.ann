@@ -1,0 +1,26 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 66	antécédent pathologique
+T3	MEAS 67 74	notable
+T4	PROC 76 81	admis
+T5	Hospital 85 103	service d'urologie
+T6	DISO 113 149	douleurs abdomino-pelviennes fébrile
+T7	ANAT 122 141	abdomino-pelviennes
+T8	TEMP 159 172	depuis 3 mois
+T9	PROC 176 191	examen clinique
+T10	LIVB 204 211	patient
+T11	Concept_Idea 215 227	état général
+T12	PHEN 237 255	tension artérielle
+T13	ANAT 245 255	artérielle
+T14	MEAS 258 269	130/70 mmhg
+T15	PROC 287 323	examen gynécologique obstétriculaire
+T16	PROC 325 328	ECG
+T17	PROC 347 366	bilan préopératoire
+T18	PROC 384 392	kaliémie
+T19	MEAS 395 405	5,6 mmol/l
+T20	MEAS 431 441	4,2 mmol/l
+T21	DOSE 445 458	deuxième dose
+T22	DEVI 462 495	cathéter fémoral transphlébitique
+T24	MODE 500 521	voie postéro-laterale
+T25	PROC 528 551	injection intraveineuse
+T26	CHEM 558 571	sufentanilone
+T27	DISO 615 633	conflits familiaux

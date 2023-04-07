@@ -1,0 +1,57 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 77	particuliers
+T4	DISO 97 122	tuméfaction du sein droit
+T5	ANAT 112 122	sein droit
+T6	Localization 117 122	droit
+T7	TEMP 132 144	depuis un an
+T8	PROC 146 153	traitée
+T9	PROC 162 186	mastectomies en monobloc
+T10	DISO 236 266	dyspnée stade III de Balthazar
+T11	LIVB 268 270	Il
+T12	CHEM 290 303	benzodiazépam
+T13	DOSE 316 322	1mg/kg
+T14	TEMP 322 327	/jour
+T15	CHEM 339 349	sufentanil
+T16	DOSE 351 360	0,5 mg/kg
+T17	TEMP 360 362	/j
+T18	CHEM 371 381	furosémide
+T19	DOSE 383 389	200 mg
+T20	TEMP 389 391	/j
+T21	PROC 396 420	exploration chirurgicale
+T22	DISO 445 478	adénopathies cervico-clitoridales
+T23	ANAT 458 478	cervico-clitoridales
+T24	PROC 483 508	scanner abdomino- pelvien
+T25	ANAT 491 508	abdomino- pelvien
+T26	DISO 522 547	lésion tumorale hypodense
+T27	PROC 618 627	injection
+T28	CHEM 631 651	produit de contraste
+T29	MEAS 661 669	13x12 cm
+T30	ANAT 686 703	pièces ovariennes
+T31	DISO 732 741	tumeurale
+T32	Concept_Idea 754 760	aspect
+T33	DISO 835 876	lésions nodulaires érythémato-pustuleuses
+T34	ANAT 894 910	méso-vésiculaire
+T35	ANAT 932 951	organes péritonéaux
+T36	DISO 958 966	opacités
+T37	Concept_Idea 1020 1026	taille
+T38	MEAS 1033 1051	supérieure à 20 mm
+T39	DISO 1068 1108	parenchymes épithélio-gigantocoagulantes
+T40	Concept_Idea 1131 1137	aspect
+T41	DISO 1174 1190	masse tissulaire
+T42	MEAS 1199 1205	T4N0M0
+T43	PROC 1231 1251	biopsie exploratrice
+T44	PROC 1259 1277	étude histologique
+T45	DISO 1296 1302	mitose
+T46	DISO 1309 1329	rhabdomyosencéphalie
+T47	LIVB 1367 1373	malade
+T48	ANAT 1466 1481	intrarachidiens
+T49	PROC 1506 1535	prise médicamenteuse curative
+T50	DISO 1569 1587	détresse digestive
+T51	PHEN 1578 1587	digestive
+T52	DISO 1620 1635	hypercoagulante
+T54	PROC 1741 1770	chimiothérapie antibacillaire
+T55	PROC 1777 1811	radiothérapie palliative adjuvante
+T56	DISO 1888 1908	formations kystiques
+T57	DISO 2017 2037	résidu ostéophytique
+T58	Hospital 2084 2125	American College ofRadiotherapist Society

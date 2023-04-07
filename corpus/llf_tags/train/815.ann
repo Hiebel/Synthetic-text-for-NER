@@ -1,0 +1,12 @@
+T1	PROC 30 75	prise en charge radiothérapique néo adjuvante
+T2	PROC 108 137	radiodiagnostic préopératoire
+T3	PROC 177 202	kinésithérapie péridurale
+T4	PROC 243 292	séances de kinésithérapie motrice conventionnelle
+T5	PROC 330 354	scanner abdomino-pelvien
+T6	ANAT 338 354	abdomino-pelvien
+T7	MEAS 373 379	normal
+T8	PROC 394 422	radiochimiothérapie initiale
+T10	PROC 551 632	exérèse monocytaire segmentaire cervicale écho-guiderienne invasive thérapeutique
+T11	ANAT 650 680	moelle mésentérique thoracique
+T12	MEAS 690 694	55mm
+T13	MEAS 697 702	70 mm

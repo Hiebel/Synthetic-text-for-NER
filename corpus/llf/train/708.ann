@@ -1,0 +1,13 @@
+T1	TEMP 3 31	cours
+T2	LIVB 36 43	patient
+T3	MEAS 55 64	plusieurs
+T4	Concept_Idea 65 73	épisodes
+T5	DISO 76 95	épisodes
+T6	DISO 111 129	perte
+T7	PHEN 122 129	appétit
+T8	LIVB 148 151	son
+T9	PROC 152 161	transfert
+T10	Hospital 170 186	hôpital
+T11	PROC 191 201	diagnostic
+T12	DISO 226 273	trouble
+T13	MEAS 275 282	Table

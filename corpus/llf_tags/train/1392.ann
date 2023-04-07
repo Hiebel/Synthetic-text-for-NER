@@ -1,0 +1,19 @@
+T1	LIVB 7 12	P.L.F
+T2	MEAS 60 72	particuliers
+T3	PROC 78 84	admise
+T4	Hospital 89 97	urgences
+T5	DISO 117 139	constipation chronique
+T6	PHEN 144 153	digestive
+T7	TEMP 163 176	depuis 4 mois
+T8	DISO 192 212	dyspnée paroxystique
+T9	LIVB 231 233	sa
+T10	LIVB 234 245	belle-soeur
+T11	PROC 376 391	examen physique
+T12	DISO 434 442	asthénie
+T13	TEMP 456 474	5 jours auparavant
+T14	PROC 487 511	thérapeutique antalgique
+T15	MEAS 525 552	de plus en plus invalidante
+T16	MEAS 564 579	progressivement
+T17	MEAS 724 733	35grammes
+T18	LIVB 776 784	Madame H
+T19	CHEM 828 859	antipyrétiques thymorégulateurs

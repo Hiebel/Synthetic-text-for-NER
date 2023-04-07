@@ -1,0 +1,32 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 42 67	antécédents pathologiques
+T3	MEAS 68 80	particuliers
+T4	Hospital 95 103	urgences
+T5	DISO 113 135	douleurs épigastriques
+T6	ANAT 122 135	épigastriques
+T7	MEAS 150 158	profonde
+T8	DISO 173 193	ictère choléstatique
+T9	PROC 197 212	examen clinique
+T10	DISO 230 259	distension abdomino-pelvienne
+T11	ANAT 241 259	abdomino-pelvienne
+T12	ANAT 273 291	flanc épigastrique
+T13	MEAS 305 316	progressive
+T14	DISO 335 389	diarrhée bilieuse prurigineuse hémoperitoine sanglante
+T15	PHEN 434 457	ouverture surrénalienne
+T16	ANAT 444 457	surrénalienne
+T17	DEVI 478 498	cathéter oesophagien
+T18	ANAT 487 498	oesophagien
+T19	DISO 562 583	symptômes intestinaux
+T20	DISO 597 648	hypoalbuminémie hypochrome micronodulaire nodulaire
+T21	DISO 679 686	diabète
+T22	DISO 697 723	malformations congénitales
+T23	PROC 778 812	curage ganglionnaire ganglionnaire
+T24	ANAT 785 812	ganglionnaire ganglionnaire
+T25	Localization 842 853	bilatérales
+T26	DISO 899 918	métastases malignes
+T27	MEAS 939 948	favorable
+T28	PROC 979 991	paraclinique
+T29	PROC 1049 1074	étude anatomopathologique
+T31	DISO 1367 1395	kystome hydatique péritonéal
+T32	PROC 1478 1515	ponction liquidienne intrapéritonéale
+T33	ANAT 1487 1515	liquidienne intrapéritonéale

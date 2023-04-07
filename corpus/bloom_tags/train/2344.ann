@@ -1,0 +1,36 @@
+T1	LIVB 19 26	patient
+T2	DISO 56 109	déficit moteur des muscles ptérygoïdiens fléchisseurs
+T4	DISO 129 141	céphalalgies
+T5	TEMP 151 164	depuis 3 mois
+T6	PROC 169 185	bilan biologique
+T7	DISO 197 210	particularité
+T8	DISO 267 289	hypotension artérielle
+T9	ANAT 279 289	artérielle
+T10	PROC 295 327	examen gynécologique obstétrical
+T11	PROC 329 332	ECG
+T12	PROC 334 337	FOI
+T13	MEAS 345 351	normal
+T14	DISO 369 416	syndrome d’épanchement liquidien péri-myometral
+T15	ANAT 392 416	liquidien péri-myometral
+T17	ANAT 454 473	cervico-placentaire
+T18	PROC 497 530	imagerie par résonance magnétique
+T19	PROC 532 535	IRM
+T20	Localization 537 547	bilatérale
+T21	DISO 563 640	hypertrophie parathyroïdienne latérohomolatérale basithoracique bilateralisée
+T23	PROC 663 672	injection
+T24	CHEM 676 687	propranolol
+T25	ANAT 708 740	sinus thyroïdien droit supérieur
+T26	Localization 725 740	droit supérieur
+T27	DISO 754 850	masse tissulaire hétérogène mal systématisée symétrique pariétale lobulo-supragastrique infiltré
+T28	Concept_Idea 884 893	caractère
+T29	DISO 969 1021	métastases ptérygo-fœtoprénoidiennes laryngoscopiées
+T30	ANAT 980 1021	ptérygo-fœtoprénoidiennes laryngoscopiées
+T31	MEAS 1046 1051	17 cm
+T32	MEAS 1054 1059	15 cm
+T33	ANAT 1089 1110	structures lymphoïdes
+T34	DISO 1175 1222	neuroendocrine glanglionnaire hémangiocarcinome
+T35	PROC 1228 1282	curage ganglionnaire lymphatique axillaire scannoguidé
+T37	PROC 1306 1330	anesthésie locorégionale
+T38	MEAS 1351 1363	moins de 5ml
+T39	DOSE 1394 1400	5mg/m²
+T40	PROC 1405 1430	étude immunohistochimique

@@ -1,0 +1,28 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 33 38	3 ans
+T3	PROC 77 94	bilan étiologique
+T4	DISO 113 137	syndrome polymalformatif
+T5	Concept_Idea 139 151	score SLEDAI
+T6	MEAS 154 155	5
+T7	PHEN 161 170	grossesse
+T8	PROC 187 193	suivie
+T9	TEMP 244 252	six mois
+T10	PROC 292 303	post-partum
+T11	PROC 309 333	laparotomie exploratrice
+T12	LIVB 357 367	nouveau-né
+T13	PROC 373 392	anesthésie générale
+T14	DISO 418 442	complications néonatales
+T15	MEAS 488 495	simples
+T16	ANAT 499 505	utérus
+T17	MEAS 513 525	1400 grammes
+T18	MEAS 531 542	750 grammes
+T19	PROC 555 565	transférés
+T20	Hospital 570 591	urgences pédiatriques
+T21	PROC 612 652	hystérectomie totale extemporanéoplastie
+T22	Localization 672 678	moitié
+T23	ANAT 684 698	annexe utérine
+T24	PROC 748 761	thérapeutique
+T25	PROC 765 777	chirurgicale
+T26	PROC 782 817	traitement chirurgical conservateur
+T27	PROC 944 974	prise en charge endovasculaire
+T28	DEVI 986 1007	maternité médicalisée

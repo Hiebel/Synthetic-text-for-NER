@@ -1,0 +1,82 @@
+T1	LIVB 29 37	patiente
+T2	PROC 48 68	traitée médicalement
+T3	CHEM 77 86	quinolone
+T4	DOSE 88 94	500 mg
+T5	TEMP 94 96	/j
+T6	MODE 98 111	intraveineuse
+T7	CHEM 124 137	métronidazole
+T8	DISO 154 169	symptomatologie
+T9	TEMP 182 191	deux mois
+T10	Hospital 225 250	urgences ophtalmologiques
+T11	Hospital 254 300	centre Neurochirurgical Hassan II de Marrakech
+T12	PROC 306 331	corticothérapie adjuvante
+T13	CHEM 344 360	sulfaméthoxazole
+T14	CHEM 362 373	rifampicine
+T15	CHEM 377 389	pirazinamide
+T16	PHEN 401 424	accouchement gémellaire
+T17	PROC 429 434	suivi
+T18	DISO 496 515	syndrome infectieux
+T19	DISO 533 554	détresse respiratoire
+T20	PHEN 542 554	respiratoire
+T21	DISO 561 582	sécheresse abdominale
+T22	ANAT 572 582	abdominale
+T23	DISO 599 638	pleurésie nécrose érythémato-pustuleuse
+T24	PROC 683 724	échographie thoracique transoesophagienne
+T25	ANAT 695 724	thoracique transoesophagienne
+T26	PROC 725 728	ETO
+T27	DISO 748 785	broncho-interstitiel purpura syndrome
+T28	LIVB 810 818	patiente
+T29	PROC 843 881	tomodensitométrie thoracique infarctée
+T30	ANAT 861 881	thoracique infarctée
+T31	PROC 894 913	bilan immunologique
+T32	PROC 924 970	marquage anti-anticorps antithyroglobuliniques
+T33	MEAS 987 995	négatifs
+T34	PROC 999 1029	électrocardiogramme biphasique
+T35	DISO 1064 1102	insuffisance supraventriculaire gauche
+T36	Localization 1077 1082	supra
+T37	TEMP 1123 1139	depuis 48 heures
+T38	DISO 1154 1166	hypokaliémie
+T39	MEAS 1178 1187	3,5 mEq/l
+T40	DISO 1201 1281	épanchement liquidien péribuccal latéro-suprachianal liquidien jugulo-carotidien
+T41	ANAT 1213 1281	liquidien péribuccal latéro-suprachianal liquidien jugulo-carotidien
+T42	MEAS 1291 1295	2 cm
+T43	Concept_Idea 1299 1308	grand axe
+T44	DEVI 1325 1333	matériel
+T45	DISO 1385 1401	maladie cœliaque
+T46	DISO 1408 1437	hyperparathyroïdie secondaire
+T47	DISO 1444 1463	diabète métabolique
+T48	DISO 1471 1495	vomissements intestinaux
+T49	DISO 1503 1544	anomalies congénitales thrombo-emboliques
+T50	PROC 1549 1639	ponction tumorale médiastinale cervicale biliaire intrapéritonéo-lithiasique préopératoire
+T52	MEAS 1669 1682	environ 10 cc
+T53	ANAT 1797 1818	muscles ischio-cæcale
+T54	ANAT 1848 1894	glandes salivaires para vertébro-mandibulaires
+T55	ANAT 1913 1930	cavité abdominale
+T56	MEAS 1963 1988	plus intensément colorées
+T57	Concept_Idea 2016 2025	caractère
+T58	DISO 2032 2047	foyers tumoraux
+T59	DISO 2090 2130	lésions noduleuses hétérogènes kystiques
+T60	DISO 2187 2218	cellules épithélio-gigocytaires
+T61	PROC 2321 2345	scanner abdomino-pelvien
+T62	ANAT 2329 2345	abdomino-pelvien
+T63	MEAS 2353 2360	normale
+T64	PROC 2374 2407	imagerie par résonance magnétique
+T65	PROC 2409 2412	IRM
+T66	LIVB 2414 2422	patiente
+T67	DISO 2452 2491	adénocarcinome du pancréas pancréatique
+T68	ANAT 2470 2491	pancréas pancréatique
+T69	PROC 2510 2528	traitement curatif
+T70	CHEM 2542 2555	sulfasalazine
+T71	CHEM 2557 2575	hydroxychloroquine
+T72	CHEM 2577 2587	cisplatine
+T73	CHEM 2589 2601	pyrazinamide
+T74	CHEM 2603 2614	éthionamide
+T75	CHEM 2616 2626	Cisplatine
+T76	CHEM 2628 2641	Chlorhexidine
+T77	CHEM 2643 2654	Ethionamide
+T78	CHEM 2656 2668	Pyrazinamide
+T79	CHEM 2670 2681	Cyclosérine
+T80	CHEM 2683 2695	Rifamylasone
+T81	MODE 2708 2713	bolus
+T82	DOSE 2717 2723	0,6 mg
+T83	CHEM 2727 2737	furosémide

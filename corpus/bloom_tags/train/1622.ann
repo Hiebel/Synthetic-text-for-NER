@@ -1,0 +1,27 @@
+T1	LIVB 0 6	enfant
+T2	TEMP 10 15	6 ans
+T3	PROC 17 23	admise
+T4	Hospital 28 36	urgences
+T5	DISO 46 74	douleurs abdomino-pelviennes
+T6	ANAT 55 74	abdomino-pelviennes
+T7	TEMP 84 106	depuis plusieurs jours
+T8	PROC 110 125	examen clinique
+T9	PROC 130 139	admission
+T10	LIVB 153 161	patiente
+T11	MEAS 165 168	bon
+T12	Concept_Idea 169 187	état hémodynamique
+T13	PHEN 191 203	respiratoire
+T14	DISO 209 218	anomalies
+T15	DISO 245 265	hépato-splénomégalie
+T16	DISO 276 290	signes cutanés
+T17	PROC 294 325	échographie abdomino- pelvienne
+T18	ANAT 306 325	abdomino- pelvienne
+T19	DISO 345 386	nodule du parenchyme ovarien hypertrophié
+T20	ANAT 355 386	parenchyme ovarien hypertrophié
+T21	MEAS 397 409	environ 5 cm
+T22	Concept_Idea 413 422	grand axe
+T23	ANAT 450 470	pédicule pérovaginal
+T24	PROC 507 525	bilan paraclinique
+T25	PROC 539 572	imagerie par résonance magnétique
+T26	PROC 574 577	IRM
+T27	DISO 626 649	localisations tumorales

@@ -1,0 +1,74 @@
+T1	LIVB 16 21	femme
+T2	PROC 47 59	hospitalisée
+T3	DISO 69 89	douleurs abdominales
+T4	ANAT 78 89	abdominales
+T5	DISO 106 127	distension abdominale
+T6	ANAT 117 127	abdominale
+T7	PROC 131 146	examen clinique
+T8	LIVB 158 166	patiente
+T9	MEAS 170 177	mauvais
+T10	Concept_Idea 178 190	état général
+T11	PHEN 199 204	pouls
+T12	MEAS 214 228	100 battements
+T13	TEMP 229 240	par minutes
+T14	DISO 253 281	symptomatologie neurologique
+T15	DISO 291 296	signe
+T16	PROC 320 336	examen somatique
+T17	DISO 346 360	particularités
+T18	PROC 365 378	TDM du bassin
+T19	ANAT 372 378	bassin
+T20	DISO 423 444	syndrome hémorragique
+T21	ANAT 455 465	carotidien
+T22	MEAS 472 491	légèrement sensible
+T23	CHEM 496 507	antalgiques
+T24	CHEM 521 556	anti-inflammatoires non stéroïdiens
+T25	CHEM 558 568	aminosides
+T26	PROC 575 594	examens biologiques
+T27	DISO 617 639	syndrome inflammatoire
+T28	DISO 643 652	tabagique
+T29	PROC 663 675	hémocultures
+T30	DISO 728 810	carcinome épidermoïde maligne érythémateux cutanéo-papillaire infiltrant rénitraté
+T31	MEAS 818 828	NSE N1Mx 2
+T33	TEMP 2745 2755	/24 heures
+T34	PROC 2759 2774	examen clinique
+T35	DISO 2788 2809	distension abdominale
+T36	ANAT 2799 2809	abdominale
+T37	Concept_Idea 2815 2821	marche
+T38	DISO 2829 2855	signes neuropsychiatriques
+T39	ANAT 2869 2892	membre supérieur gauche
+T40	Localization 2886 2892	gauche
+T41	DISO 2929 2962	syndrome délirant schizophrénique
+T42	LIVB 2991 3001	nourrisson
+T43	CHEM 3025 3034	rituximab
+T44	DISO 3051 3076	hallucinations délirantes
+T45	PROC 3101 3116	examen physique
+T46	DISO 3128 3141	particularité
+T47	PROC 3146 3163	biologie standard
+T48	PROC 3165 3184	hémoglobine glyquée
+T49	PROC 3186 3201	bilan lipidique
+T50	PROC 3203 3220	cholestérol total
+T51	PROC 3222 3239	triglycéridesémie
+T52	MEAS 3253 3260	normale
+T53	PROC 3274 3291	calcémie corrigée
+T54	MEAS 3294 3302	9,1 mg/L
+T55	Concept_Idea 3359 3385	valeurs pré-thérapeutiques
+T56	PROC 3390 3410	suivi postopératoire
+T57	DISO 3430 3458	récidive clinico-néoplasique
+T58	DISO 3468 3488	métastase secondaire
+T59	DISO 3499 3520	anomalies secondaires
+T60	DISO 3538 3567	neuropathie sensitivo-motrice
+T61	PROC 3589 3608	étude rétrospective
+T62	PROC 3613 3648	traitement chirurgical conservateur
+T63	PROC 3735 3750	toucher vaginal
+T64	ANAT 3743 3750	vaginal
+T65	PROC 3754 3777	palpation gynécologique
+T66	PROC 3782 3820	myomectomie rénale totale exploratrice
+T67	Concept_Idea 3878 3899	résultat anesthésique
+T68	MEAS 3942 3950	précoces
+T69	DISO 4021 4050	crise convulsive paroxystique
+T70	PROC 4073 4101	prise en charge chirurgicale
+T71	PHEN 4121 4144	accouchement gémellaire
+T72	TEMP 4160 4166	7 mois
+T73	PROC 4189 4214	consultation obstétricale
+T74	PROC 4228 4258	séjour hospitalier pédiatrique
+T75	PROC 4270 4283	cycle initial

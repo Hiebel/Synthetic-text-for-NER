@@ -1,0 +1,38 @@
+T1	MEAS 42 48	T3N2M0
+T2	Concept_Idea 94 102	résultat
+T3	PROC 106 125	traitement adjuvant
+T4	DISO 162 178	râles crépitants
+T5	PHEN 185 211	développement psychomoteur
+T6	MEAS 212 218	rapide
+T7	DEVI 246 265	cathéter thoracique
+T8	ANAT 255 265	thoracique
+T9	PROC 295 319	réinsertion chirurgicale
+T10	PROC 325 334	admission
+T11	Hospital 338 353	bloc opératoire
+T12	LIVB 355 357	il
+T13	DISO 373 413	polyneuropathie sensitivomotrice globale
+T14	TEMP 423 440	depuis deux jours
+T15	LIVB 442 445	Ses
+T16	DISO 471 484	particularité
+T18	DISO 510 532	intoxication tabagique
+T19	PROC 537 552	examen clinique
+T20	DISO 569 575	fièvre
+T21	MEAS 578 582	40°C
+T22	CHEM 603 617	hydrocortisone
+T23	DISO 647 667	signes neurologiques
+T24	DISO 750 762	hyperthermie
+T25	DISO 794 837	syndrome d'épanchement bilatérale liquidien
+T26	Localization 817 827	bilatérale
+T27	ANAT 850 872	muqueuses intestinales
+T28	ANAT 945 958	anses iléales
+T29	ANAT 990 1004	craniosternale
+T30	MEAS 1014 1017	2cm
+T31	Concept_Idea 1021 1030	grand axe
+T32	DISO 1059 1128	sensibilité paravertébro-tendineuse basithoracique segmentaire droite
+T33	ANAT 1071 1128	paravertébro-tendineuse basithoracique segmentaire droite
+T34	Localization 1122 1128	droite
+T35	Concept_Idea 1159 1166	hauteur
+T36	MEAS 1176 1184	palpable
+T38	PROC 1404 1428	scanner abdomino-pelvien
+T39	ANAT 1412 1428	abdomino-pelvien
+T41	MEAS 1624 1635	massivement

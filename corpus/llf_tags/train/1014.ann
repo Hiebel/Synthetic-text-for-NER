@@ -1,0 +1,39 @@
+T1	LIVB 4 7	S.M
+T2	MEAS 32 33	2
+T3	LIVB 34 41	garçons
+T4	LIVB 132 134	sa
+T5	LIVB 135 142	famille
+T6	PROC 157 179	consultation prénatale
+T7	PROC 275 295	transfusion sanguine
+T8	PROC 309 336	néphrostomie antérolatérale
+T9	PROC 514 544	antibiothérapie prophylactique
+T10	LIVB 560 567	Mme S.M
+T11	TEMP 582 588	10 ans
+T12	MEAS 596 607	5500grammes
+T13	MEAS 637 638	4
+T14	LIVB 639 646	enfants
+T15	LIVB 721 743	grandparents maternels
+T16	Concept_Idea 749 752	âge
+T17	TEMP 756 761	3 ans
+T18	LIVB 763 765	Sa
+T19	LIVB 766 770	mère
+T20	DEVI 789 807	annexes digestives
+T21	LIVB 828 831	son
+T22	LIVB 832 842	frère aîné
+T23	DISO 880 898	conflits familiaux
+T24	Concept_Idea 1030 1033	âge
+T25	TEMP 1037 1043	14 ans
+T26	LIVB 1045 1049	Elle
+T27	LIVB 1068 1085	petite entreprise
+T28	LIVB 1092 1095	ses
+T29	LIVB 1096 1100	fils
+T30	DISO 1122 1158	accident de chemin de fer électrique
+T31	LIVB 1257 1260	son
+T32	LIVB 1261 1265	père
+T33	DISO 1289 1306	accident de sport
+T34	DISO 1360 1399	déformations neuropsychiatriques aiguës
+T35	CHEM 1425 1439	neuroleptiques
+T36	Hospital 1756 1768	CASATECHANIA
+T37	ANAT 3152 3172	grossesse gémellaire
+T38	PHEN 3182 3202	grossesse monofocale
+T39	LIVB 3399 3407	patients

@@ -1,0 +1,33 @@
+T1	LIVB 17 22	homme
+T2	MEAS 59 60	7
+T3	LIVB 61 68	garçons
+T4	MEAS 130 134	deux
+T5	LIVB 135 142	enfants
+T6	LIVB 144 147	Son
+T8	TEMP 179 186	18 mois
+T9	LIVB 193 203	monsieur Z
+T10	DISO 221 240	accident de travail
+T11	LIVB 259 262	lui
+T12	DISO 273 295	décollements cervicaux
+T13	PROC 504 529	préparatifs médicamenteux
+T14	CHEM 530 544	Pristinamycine
+T15	CHEM 546 556	Cisplatine
+T16	CHEM 558 587	Triméthoprimesulfamethoxazole
+T17	CHEM 628 662	Chlorodiphénidate acétyle salicylé
+T18	LIVB 723 732	collègues
+T19	DISO 763 803	symptômes psychotraumatismaux chroniques
+T20	DISO 824 859	hallucinations délires paranoïaques
+T21	PROC 1238 1259	traitements parentaux
+T22	PROC 1284 1328	psychothérapies comportementales correctives
+T23	CHEM 1330 1346	antipsychotiques
+T24	CHEM 1348 1359	antalgiques
+T25	DISO 1468 1494	déficit cognitivocompulsif
+T26	DISO 1714 1736	trouble neuropsychique
+T27	PROC 1810 1839	consignes somnifères généraux
+T28	Concept_Idea 1887 1905	fécondité sexuelle
+T29	LIVB 2268 2271	son
+T30	LIVB 2272 2278	épouse
+T31	DISO 2430 2469	douleurs thoraciques laryngées diffuses
+T32	ANAT 2439 2450	thoraciques
+T33	DISO 2518 2542	syndrome polymalformatif
+T34	DISO 2629 2663	agitation psychomotrice productive

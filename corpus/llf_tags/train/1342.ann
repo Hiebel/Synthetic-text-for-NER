@@ -1,0 +1,16 @@
+T1	DISO 20 29	anomalies
+T2	MEAS 30 44	significatives
+T3	PHEN 51 66	fonction rénale
+T4	ANAT 60 66	rénale
+T5	PROC 70 83	examen direct
+T6	DISO 95 103	anomalie
+T7	PROC 111 130	examens biologiques
+T8	DISO 144 153	anomalies
+T9	LIVB 158 166	patiente
+T10	CHEM 205 236	amoxicilline-acide clavulanique
+T11	DOSE 238 244	500 mg
+T12	TEMP 244 249	/jour
+T13	PROC 266 293	chimiothérapie concomitante
+T14	MODE 298 316	voie intraveineuse
+T15	Concept_Idea 326 339	protocole API
+T16	Hospital 343 347	CRCM

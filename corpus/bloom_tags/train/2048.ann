@@ -1,0 +1,55 @@
+T1	LIVB 28 35	patient
+T2	ANAT 71 96	hypothalamo-hypophagienne
+T3	DISO 139 185	tuméfaction érythémateuse cutanée prurigineuse
+T4	ANAT 203 209	pelvis
+T5	PROC 250 274	scanner abdomino-pelvien
+T6	ANAT 258 274	abdomino-pelvien
+T7	DISO 288 353	plaie cicatricielle polylobée du paroi utéro-vaginale péritonéale
+T9	DISO 373 403	lésions nodulaires purpuriques
+T10	Concept_Idea 416 422	aspect
+T11	DISO 439 459	métastose pulmonaire
+T12	ANAT 449 459	pulmonaire
+T13	PROC 465 490	étude anatomopathologique
+T14	DISO 514 539	localisation métastatique
+T15	DISO 550 578	modifications morphologiques
+T16	DISO 609 623	masse tumorale
+T17	DISO 641 663	épanchement péritonéal
+T18	ANAT 653 663	péritonéal
+T19	MEAS 673 677	14cm
+T20	Concept_Idea 681 690	grand axe
+T21	DISO 707 725	carcinose vésicale
+T22	ANAT 717 725	vésicale
+T23	PROC 732 767	examens complémentaires biologiques
+T24	PROC 781 817	tomodensitométrie abdomino-pelvienne
+T25	ANAT 799 817	abdomino-pelvienne
+T26	MEAS 846 853	normaux
+T27	PROC 856 869	troponine IgG
+T28	PROC 871 882	fibrinogène
+T29	PROC 884 903	protéine-C réactive
+T30	PROC 905 921	glycémie glyquée
+T31	PROC 923 951	proteine-9 antithrombine III
+T32	PROC 953 980	plaquettaires plaquettaires
+T33	PROC 982 995	globule rouge
+T34	PROC 997 1010	lymphocytaire
+T35	PROC 1012 1038	polynucléaires neutrophile
+T36	PROC 1040 1056	réticulonéphrine
+T37	PROC 1058 1082	créatinine phosphokinase
+T38	PROC 1084 1104	bilirubine conjuguée
+T39	PROC 1106 1118	ferritinémie
+T40	PROC 1120 1137	natrémie corrigée
+T41	PROC 1139 1159	dopamine hydroxylase
+T42	PROC 1161 1178	hydroxy-oxygénase
+T43	PROC 1180 1198	facteur rhumatoïde
+T44	PROC 1200 1227	numération formule sanguine
+T45	PROC 1229 1239	leucocytes
+T46	MEAS 1241 1257	1530 éléments/ml
+T47	PROC 1259 1262	CRP
+T48	MEAS 1265 1274	3580 mg/l
+T49	PROC 1277 1298	recherche cytolytique
+T50	MEAS 1305 1313	fortuite
+T51	LIVB 1322 1328	malade
+T52	DISO 1369 1388	syndrome infectieux
+T53	PHEN 1409 1421	Cas clinique
+T54	LIVB 1441 1448	patient
+T55	DISO 1478 1507	broncho-alvéolo-interstitiels
+T56	TEMP 1528 1551	depuis plusieurs années

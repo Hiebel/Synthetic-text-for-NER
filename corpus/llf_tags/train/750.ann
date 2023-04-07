@@ -1,0 +1,16 @@
+T1	LIVB 19 26	patient
+T2	MEAS 73 85	particuliers
+T3	PROC 97 102	admis
+T4	LIVB 108 113	notre
+T5	Hospital 114 136	structure hospitalière
+T6	PROC 142 157	prise en charge
+T7	DISO 163 209	syndrome infectieux sexuellement transmissible
+T8	TEMP 219 230	depuis 3ans
+T9	PROC 409 424	examen clinique
+T10	DISO 445 478	distension psychomotrice générale
+T11	DISO 493 522	symptômes neuropsychiatriques
+T12	PROC 981 1012	bilan étiologique préopératoire
+T13	PROC 1031 1055	examens microbiologiques
+T14	DISO 1111 1126	maladie fébrile
+T15	Concept_Idea 1174 1210	caractéristiques sociodémographiques
+T16	LIVB 1235 1245	nouveau-né

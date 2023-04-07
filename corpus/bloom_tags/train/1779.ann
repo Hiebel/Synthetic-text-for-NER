@@ -1,0 +1,31 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 79	particuliers
+T5	PROC 100 109	admission
+T6	DISO 114 131	céphalées fébrile
+T7	DISO 147 180	syndrome d'épanchement péribuccal
+T8	ANAT 170 180	péribuccal
+T9	PROC 184 199	examen clinique
+T10	Concept_Idea 213 224	température
+T11	MEAS 227 231	40°c
+T12	PHEN 238 257	pression artérielle
+T13	ANAT 247 257	artérielle
+T14	MEAS 260 270	100/60mmhg
+T15	PROC 275 283	biologie
+T16	DISO 306 322	hyperleucocytose
+T17	MEAS 325 359	13000 éléments par millimètre cube
+T18	MEAS 366 375	22000/mm3
+T19	PROC 381 408	numération formule sanguine
+T20	PROC 438 464	taux d'hémoglobine glyquée
+T21	MEAS 467 479	1,4 g/100 ml
+T22	PROC 481 494	globule rouge
+T23	MEAS 506 539	60000 élément par millimètre cube
+T24	MEAS 546 558	20000 / mm 3
+T25	PROC 561 589	polynucléaire érythrocytaire
+T26	PROC 590 593	PNN
+T27	MEAS 595 601	élevés
+T28	MEAS 604 617	85 000 PNN/ml
+T29	MEAS 623 648	environ 5 fois la normale
+T30	PROC 748 768	protéines C réactive
+T31	MEAS 784 805	inférieurs à 200 mg/l

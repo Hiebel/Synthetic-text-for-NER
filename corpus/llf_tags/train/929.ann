@@ -1,0 +1,93 @@
+T1	DISO 19 42	antécédent pathologique
+T2	MEAS 43 54	particulier
+T3	PROC 59 75	bilan biologique
+T4	Concept_Idea 91 115	vitesse de sédimentation
+T5	MEAS 118 123	12 mm
+T6	PROC 149 159	plaquettes
+T7	MEAS 162 182	407 000 éléments/mm3
+T8	PROC 188 198	hémogramme
+T9	DISO 210 223	particularité
+T10	PROC 229 247	sérologies virales
+T11	MEAS 256 265	négatives
+T12	PROC 289 308	bilan immunologique
+T13	PROC 310 325	IgG antigrippal
+T14	PROC 327 336	anti-CD56
+T15	PROC 338 363	anticorps anti DNA natifs
+T16	DISO 384 392	anomalie
+T17	PROC 396 415	examen histologique
+T18	DISO 441 484	léiomyome épidermoïde papillomateux myxoide
+T19	ANAT 494 500	noyaux
+T20	MEAS 560 568	16×11 cm
+T21	MEAS 572 579	15×5 cm
+T22	Localization 718 734	partie proximale
+T23	MEAS 742 756	10 × 10 x 6 cm
+T24	DISO 783 831	processus lésionnel fibro-métaphysaire rénitente
+T25	ANAT 852 873	lobe supérieur utérin
+T26	LIVB 878 884	malade
+T27	PROC 897 902	opéré
+T28	PROC 908 931	radiothérapie adjuvante
+T29	CHEM 937 953	Temozolomidezone
+T30	PROC 967 1001	radio-chimiothérapie néo adjuvante
+T31	PROC 1026 1036	anesthésie
+T32	PROC 1041 1073	scanner thoraco-abdomino-pelvien
+T33	ANAT 1049 1073	thoraco-abdomino-pelvien
+T34	DISO 1098 1177	lésion kystique hypoéchogène tissulaire hétérogène hyperbasithiasique calcifiée
+T35	ANAT 1196 1214	cavité péritonéale
+T36	MEAS 1246 1258	environ 4 cm
+T37	PROC 1293 1324	tomodensitométrie scanno-guidée
+T39	LIVB 1627 1633	enfant
+T40	TEMP 1641 1648	18 mois
+T41	PROC 1671 1729	néphrectomie totale intraveineuse segmentaire endovaginale
+T42	PROC 1730 1733	OGD
+T43	PROC 1750 1776	transfibroscopie cardiaque
+T44	ANAT 1767 1776	cardiaque
+T45	PROC 1790 1827	uroscintigraphie oeso-gastroduodénale
+T46	ANAT 1807 1827	oeso-gastroduodénale
+T47	PROC 1833 1864	investigations cytobactériennes
+T48	LIVB 1891 1901	nouveau-né
+T49	PROC 1926 1950	consultations prénatales
+T50	PROC 1965 1988	monocytoplastie in situ
+T51	PHEN 1995 2007	accouchement
+T52	MEAS 2026 2038	5500 grammes
+T53	MEAS 2046 2058	4950 grammes
+T54	MEAS 2064 2097	1460 grammes /24 centimètres cube
+T55	MEAS 2111 2165	27 fois la limite supérieure EUROSPORT centimètre cube
+T56	MEAS 2176 2190	379 kilotonnes
+T57	Concept_Idea 2209 2233	classification classique
+T58	MEAS 2250 2253	45%
+T59	MEAS 2260 2264	47 %
+T60	MEAS 2271 2274	46%
+T61	MEAS 2281 2284	33%
+T62	MEAS 2290 2293	30%
+T63	MEAS 2300 2303	42%
+T64	MEAS 2310 2313	22%
+T65	MEAS 2320 2323	29%
+T66	MEAS 2330 2333	21%
+T67	MEAS 2340 2343	25%
+T68	DISO 2439 2453	particularités
+T69	DEVI 2460 2480	matériel chirurgical
+T70	PROC 2503 2558	curage ganglionnaire cervico-thoracique du cuir chevelu
+T71	ANAT 2546 2558	cuir chevelu
+T72	PROC 2562 2587	étude immunohistochimique
+T73	PROC 2612 2641	prélèvements bactériologiques
+T74	ANAT 2650 2681	aires ganglionnaires axillaires
+T75	PROC 2717 2730	antibiotiques
+T76	CHEM 2741 2772	amoxicilline acide clavulanique
+T77	CHEM 2774 2797	aminosides naphténiques
+T78	CHEM 2799 2817	acide tranexamique
+T79	CHEM 2819 2830	rifampicine
+T80	CHEM 2832 2847	chloramphénicol
+T81	PROC 2853 2883	bilan biologique préopératoire
+T82	DISO 2929 2938	malignité
+T83	DISO 2956 2975	syndrome infectieux
+T84	DISO 2986 3006	récepteurs hormonaux
+T85	DISO 3023 3048	symptomatologie somatique
+T86	PROC 3053 3075	ponction scanno-guidée
+T87	Hospital 3229 3273	structures anatomopathologiques pédiatriques
+T88	PROC 3363 3385	TDM abdomino-pelvienne
+T89	ANAT 3367 3385	abdomino-pelvienne
+T90	MEAS 3457 3476	10 000 éléments/mm3
+T91	MEAS 3478 3497	7 100 éléments/mm 3
+T92	MEAS 3501 3520	1 300 éléments/mm 3
+T93	DISO 3568 3589	lésions métastatiques
+T94	PROC 3603 3628	examen neuropsychiatrique

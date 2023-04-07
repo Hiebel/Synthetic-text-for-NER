@@ -1,0 +1,50 @@
+T1	LIVB 4 9	femme
+T2	DISO 62 93	méningoencephalite tuberculeuse
+T3	CHEM 137 148	Cyclosérine
+T4	CHEM 163 182	corticoïdes inhalés
+T5	CHEM 232 245	dexaméthasone
+T6	PROC 250 258	réadmise
+T7	Hospital 263 271	urgences
+T8	DISO 291 320	détresse neurologique globale
+T9	TEMP 330 343	depuis 2 mois
+T10	DOSE 369 375	100 mg
+T11	MODE 375 496	/j de Cyclosérine avec instauration d'antibiocorticoïdiurétique secondairement arrêté puis réinsufflé par liquide sérique
+T12	CHEM 381 392	Cyclosérine
+T14	PROC 593 624	anastomose oeso-gastroduodénale
+T15	ANAT 604 624	oeso-gastroduodénale
+T16	PROC 645 668	intubation endoscopique
+T17	MEAS 722 727	800ml
+T18	PROC 757 787	surveillance neurochirurgicale
+T19	PROC 804 825	bilan immunodépressif
+T20	LIVB 854 862	patiente
+T21	DISO 967 979	hyperthermie
+T22	MEAS 991 998	38 °6 C
+T23	TEMP 1034 1044	3 semaines
+T24	DISO 1062 1093	sensibilité abdomino- pelvienne
+T25	ANAT 1074 1093	abdomino- pelvienne
+T26	MEAS 1108 1119	progressive
+T27	MEAS 1148 1163	progressivement
+T28	Concept_Idea 1167 1176	grand axe
+T29	LIVB 1207 1211	elle
+T30	DISO 1240 1254	épigastralgies
+T31	DISO 1265 1282	douleurs utérines
+T32	ANAT 1274 1282	utérines
+T33	DISO 1308 1321	inflammatoire
+T34	DISO 1339 1375	signes inflammatoires péristaltiques
+T35	DISO 1402 1430	saignements gynécotrophiques
+T36	LIVB 1580 1584	Elle
+T37	Concept_Idea 1633 1646	grande taille
+T38	ANAT 1676 1697	structures abdominaux
+T39	ANAT 1737 1762	muqueuses utéro-vaginales
+T40	MEAS 1904 1907	5cm
+T41	Concept_Idea 1911 1920	grand axe
+T42	ANAT 1945 1959	parties molles
+T43	DISO 1976 1999	défautlement tissulaire
+T45	PROC 2034 2057	TDM) abdomino-pelvienne
+T46	ANAT 2039 2057	abdomino-pelvienne
+T47	DISO 2074 2149	lésion hypodense hypointense en hyposignal pariétalisante du méso-sigmoïdal
+T49	ANAT 2171 2193	muscles paravertébraux
+T50	ANAT 2198 2216	parenchyme ovarien
+T51	ANAT 2222 2231	endomètre
+T52	DISO 2253 2284	méningoencephalite hypertensive
+T53	DISO 2301 2322	syndrome hémorragique

@@ -1,0 +1,58 @@
+T1	LIVB 16 21	femme
+T2	DISO 65 94	hyperparathyroïdie secondaire
+T3	CHEM 100 118	méthylprednisolone
+T4	DOSE 131 139	10 mg/kg
+T5	TEMP 139 141	/j
+T6	CHEM 155 201	hormonothérapie substitutive calcortiboidienne
+T7	CHEM 207 219	triamoxifène
+T8	CHEM 223 237	hydrocortisone
+T9	PROC 352 385	traitement complémentaire curatif
+T10	LIVB 397 405	patiente
+T11	TEMP 415 427	depuis 2 ans
+T12	DISO 447 461	amaigrissement
+T13	MEAS 472 477	14 kg
+T14	DISO 493 514	prématurité néonatale
+T15	DISO 592 618	douleur abdomino-pelvienne
+T16	ANAT 600 618	abdomino-pelvienne
+T17	MEAS 633 639	rapide
+T18	MEAS 649 657	brulante
+T19	DISO 753 796	syndrome pseudo-interstitiel intestin grêle
+T20	ANAT 821 836	intrapéritonéal
+T21	DISO 982 1006	néphropathie congénitale
+T22	DISO 1013 1048	thrombose veineuse thromboembolique
+T23	DISO 1084 1106	traumatisme ischémique
+T24	PROC 1192 1213	échographie pelvienne
+T25	ANAT 1204 1213	pelvienne
+T27	Localization 1354 1358	sous
+T28	ANAT 1417 1441	tissu gynécélique utérin
+T29	ANAT 1463 1486	veine cave supra-rénale
+T30	Localization 1474 1479	supra
+T31	ANAT 1505 1542	veine cave rénale sus-diaphragmatique
+T32	Localization 1523 1526	sus
+T33	ANAT 1562 1587	organes génitaux externes
+T34	DISO 1603 1655	hypertrophie ventriculaire homolatérale prédominante
+T36	Localization 1630 1655	homolatérale prédominante
+T37	ANAT 1752 1777	cellules mésenchymateuses
+T38	ANAT 1838 1864	cytoplasme éosinophilicisé
+T39	ANAT 1973 1994	méso-sigmoïde ovarien
+T40	DISO 2016 2037	lymphocytaire maligne
+T41	DISO 2072 2091	papillaire infiltré
+T42	DISO 2124 2154	endométrialosarcome papillaire
+T43	MEAS 2162 2168	T3N2M0
+T44	PROC 2218 2244	scintigraphie thyroïdienne
+T45	MEAS 2273 2282	spontanée
+T46	DISO 2289 2304	symptomatologie
+T47	PROC 2318 2369	complément scannographique par résonance magnétique
+T48	PROC 2371 2374	RSM
+T49	DISO 2417 2475	processus ostéolytique du pédicule sous clavière bilatéral
+T51	Localization 2466 2475	bilatéral
+T52	DISO 2481 2531	envahissement des parties molles cervico-vaginales
+T53	ANAT 2499 2531	parties molles cervico-vaginales
+T54	DISO 2550 2592	carcinome parathyroïdien hypovascularisant
+T55	ANAT 2560 2592	parathyroïdien hypovascularisant
+T56	LIVB 2610 2617	patient
+T57	PROC 2636 2659	radiothérapie adjuvante
+T58	DOSE 2683 2688	10 Gy
+T59	Concept_Idea 2690 2702	dose globale
+T60	TEMP 2705 2718	30Gy/fraction
+T61	CHEM 2733 2746	cisatracurium

@@ -1,0 +1,24 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 38 44	12 ans
+T3	PHEN 46 51	admis
+T4	Hospital 56 64	urgences
+T5	DISO 71 97	douleur abdominale ulcérée
+T6	ANAT 79 97	abdominale ulcérée
+T7	TEMP 107 121	depuis 5 jours
+T8	DISO 134 149	signes associés
+T9	DISO 152 182	intoxication alcoolo-tabagique
+T10	PROC 187 221	imagerie par résonnance magnétique
+T11	PROC 223 226	IRM
+T12	DISO 263 297	hyperéosinophilie pérituberculeuse
+T13	MEAS 309 324	progressivement
+T14	Concept_Idea 328 334	taille
+T15	ANAT 360 366	pelvis
+T16	PROC 384 393	injection
+T17	CHEM 397 417	produit de contraste
+T18	DISO 469 507	syndrome d'épanchement submandibulaire
+T19	ANAT 492 507	submandibulaire
+T20	DISO 527 557	troubles hydro-électrolytiques
+T21	DISO 570 620	épanchement rétro-mandibulaire laryngo-dyscrasique
+T22	ANAT 582 620	rétro-mandibulaire laryngo-dyscrasique
+T24	ANAT 770 796	hypogastrique mésentérique
+T25	PROC 935 981	chirurgie transperitonéo-nectrice exploratrice

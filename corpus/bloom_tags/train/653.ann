@@ -1,0 +1,27 @@
+T1	LIVB 28 35	patient
+T2	Concept_Idea 52 63	antécédents
+T3	MEAS 64 72	notables
+T4	PROC 74 79	admis
+T5	Hospital 84 92	urgences
+T6	DISO 102 120	douleur abdominale
+T7	ANAT 110 120	abdominale
+T8	TEMP 130 143	depuis 4 mois
+T9	PROC 147 162	examen clinique
+T10	PROC 167 176	admission
+T11	LIVB 189 197	patiente
+T12	MEAS 201 204	bon
+T13	Concept_Idea 205 217	état général
+T14	PHEN 227 254	contractions utéro-utérines
+T15	ANAT 240 254	utéro-utérines
+T16	MEAS 255 274	de grande abondance
+T17	PROC 279 296	bilan d'extension
+T18	PROC 336 374	TDM cervico-thoraco-abdomino pelvienne
+T19	ANAT 340 374	cervico-thoraco-abdomino pelvienne
+T20	PROC 376 381	TDCAP
+T21	Concept_Idea 393 402	résultats
+T22	ANAT 430 455	quadrant inferieure droit
+T23	Localization 450 455	droit
+T24	MEAS 574 578	12cm
+T25	Concept_Idea 582 596	grand diamètre
+T26	MEAS 601 605	7 cm
+T27	Concept_Idea 609 622	petite taille

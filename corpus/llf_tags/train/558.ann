@@ -1,0 +1,65 @@
+T1	Concept_Idea 19 22	cas
+T2	LIVB 28 35	patient
+T3	DISO 77 84	diabète
+T4	MEAS 85 91	type 2
+T5	PROC 97 128	traitement hormonal substitutif
+T6	CHEM 130 140	amlodipine
+T7	DISO 191 220	symptômes neuropsychiatriques
+T8	PROC 240 259	chirurgie plastique
+T9	ANAT 264 286	membre supérieur droit
+T10	Localization 281 286	droit
+T11	PROC 293 298	opéré
+T12	Hospital 302 309	urgence
+T13	PHEN 315 333	suites opératoires
+T14	MEAS 342 349	simples
+T15	TEMP 371 399	huitième jour postopératoire
+T16	DISO 406 415	dysphagie
+T17	DISO 428 434	signes
+T18	DISO 473 494	récidive hémorragique
+T19	DISO 504 533	facteur de risque étiologique
+T20	PROC 537 563	examen anatomopathologique
+T21	ANAT 567 590	membre inférieur utérin
+T23	Localization 784 802	postérieur interne
+T24	ANAT 826 881	parties molles cervico-mandibulaires supérieure gauches
+T25	Localization 874 881	gauches
+T26	MEAS 890 896	3/2 cm
+T27	Concept_Idea 902 932	complément immunohistochimique
+T28	DISO 951 970	syndrome infectieux
+T29	DISO 996 1028	remaniements tumoraux liquidiens
+T30	DISO 1045 1082	lésion traumatique tissulaire maligne
+T31	PROC 1096 1113	biologie standard
+T32	MEAS 1125 1133	positive
+T33	PROC 1135 1154	hémoglobine glyquée
+T34	MEAS 1157 1165	9,8 g/dl
+T35	PROC 1167 1190	troponine IgG céphaline
+T36	MEAS 1192 1203	1,25 mmol/l
+T37	PROC 1205 1259	Troponine Acide aminotransférase C6H19glucleotide OGTF
+T38	MEAS 1265 1275	0,15 mEq/l
+T39	PROC 1278 1295	Bilirubine totale
+T40	MEAS 1298 1309	12 mg/kg ml
+T41	PROC 1311 1324	Globule rouge
+T42	MEAS 1334 1346	3500 UI /mm³
+T43	PROC 1348 1358	Plaquettes
+T44	MEAS 1369 1394	1024 UI / millimètre cube
+T45	MEAS 1400 1428	294 000 UI / millimètre cube
+T46	Concept_Idea 1476 1495	aspect histologique
+T47	DISO 1528 1552	métastase carcinomateuse
+T48	LIVB 1582 1590	patients
+T49	DISO 2011 2039	dépendances médicales aiguës
+T50	ANAT 2903 2910	plantes
+T51	ANAT 2917 2941	liquide céphalorachidien
+T52	PHEN 3639 3660	grossesse monofoetale
+T53	PROC 3682 3706	consultation spécialisée
+T54	TEMP 3710 3723	décembre 2012
+T55	Hospital 3728 3749	urgences pédiatriques
+T56	LIVB 3757 3763	garçon
+T57	TEMP 3771 3777	14 ans
+T58	PROC 3853 3886	bilan neuropsychiatrique standard
+T59	PROC 3929 3979	prise en charge psychothérapeutique individualisée
+T60	PROC 4248 4273	hospitalisation familiale
+T61	LIVB 4282 4284	il
+T62	Concept_Idea 4320 4351	résultats fonctionnels généraux
+T63	Concept_Idea 4384 4404	consignes somatiques
+T64	PROC 4509 4545	traitements médicalement nécessaires
+T65	PROC 4558 4586	surveillance préanesthésique
+T66	LIVB 4598 4603	fille

@@ -1,0 +1,40 @@
+T1	LIVB 14 22	Patiente
+T2	DISO 53 90	psychose maniaco-dépressive chronique
+T3	DISO 157 193	consanguinité prénatale malformative
+T4	LIVB 360 362	sa
+T5	LIVB 363 370	famille
+T6	LIVB 372 376	Elle
+T7	LIVB 407 410	son
+T8	LIVB 411 415	père
+T9	LIVB 470 472	il
+T10	PROC 726 758	exercices physiques substitutifs
+T11	DISO 787 803	idées délirantes
+T14	DOSE 985 990	300mg
+T15	TEMP 990 992	/j
+T16	DEVI 1007 1024	coussin gonflable
+T17	ANAT 1062 1066	pied
+T18	CHEM 1084 1092	amalgame
+T19	PHEN 1113 1135	hygiène bucco-dentaire
+T20	LIVB 1139 1143	elle
+T21	LIVB 1277 1281	elle
+T22	Concept_Idea 1326 1347	doudoukuett graisseux
+T23	PROC 1423 1447	bilan neuropsychiatrique
+T24	DISO 1468 1493	déficience intellectuelle
+T25	MEAS 1504 1513	4 e degré
+T26	DISO 1527 1570	désorientation temporo-spatiale congénitale
+T27	MEAS 1581 1589	3e degré
+T28	PROC 1594 1615	contrôle radiologique
+T29	DISO 1629 1713	impotence fonctionnelle motrice périphérique sensitivo-motrice spontannément acquise
+T30	DISO 1729 1755	hyperactivité perceptuelle
+T31	MEAS 1766 1775	11/15 ème
+T34	Localization 1808 1814	gauche
+T36	Localization 2020 2034	droite interne
+T37	MEAS 2070 2075	80 mm
+T38	PROC 2084 2106	électroencéphalogramme
+T39	DISO 2120 2212	volémie normochrome normothyroidienne sinusale rétroneurale alpha fœtomédullaire hétérodense
+T40	MEAS 2225 2233	810 mg/l
+T41	PROC 2247 2303	saturation pulsée en fluorescéine hydroxyde de magnésium
+T42	CHEM 2268 2303	fluorescéine hydroxyde de magnésium
+T43	MEAS 2314 2323	135 mEq/l
+T44	PROC 2345 2364	enquête étiologique
+T45	PROC 2382 2421	échographie obstétricale complémentaire

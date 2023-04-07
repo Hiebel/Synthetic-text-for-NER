@@ -1,0 +1,51 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 24 30	18 ans
+T3	Hospital 48 56	urgences
+T4	DISO 84 105	détresse respiratoire
+T5	PHEN 93 105	respiratoire
+T6	MEAS 120 131	progressive
+T7	TEMP 141 155	depuis 4 jours
+T8	LIVB 162 165	son
+T9	PROC 166 181	hospitalisation
+T10	DISO 200 219	amaigrissement aigu
+T11	MEAS 230 235	17 kg
+T12	DEVI 267 292	réanimateur natriurétique
+T13	DISO 317 343	douleur thoraco-abdominale
+T14	MEAS 358 369	progressive
+T15	PROC 388 413	traitement antibacillaire
+T16	CHEM 415 426	Teftriaxone
+T17	CHEM 428 442	Gentaméthasone
+T18	CHEM 445 457	Pyrazinamide
+T19	LIVB 471 475	elle
+T20	DISO 503 523	défense oropharyngée
+T21	ANAT 511 523	oropharyngée
+T22	DISO 542 582	syndrome d’épanchement intrapéritonévien
+T23	ANAT 565 582	intrapéritonévien
+T24	PROC 628 648	prise médicamenteuse
+T25	PROC 690 720	bilan biologique préopératoire
+T26	DISO 739 771	syndrome inflammatoirebiologique
+T27	PROC 791 814	radiologiquement évalué
+T28	DISO 852 886	troubles métaboliques alimentaires
+T29	PROC 908 938	échographie abdomino-helvienne
+T30	ANAT 920 938	abdomino-helvienne
+T31	DISO 952 978	masse tissulaire hypodense
+T32	MEAS 988 993	32 mm
+T33	Concept_Idea 997 1006	grand axe
+T34	MEAS 1015 1019	2 cm
+T35	MEAS 1024 1028	1 cm
+T36	ANAT 1047 1064	cavité abdominale
+T37	ANAT 1080 1094	rebord urétral
+T38	DISO 1195 1237	anomatismes hétérogènes hyper vascularisés
+T39	ANAT 1259 1265	utérus
+T40	DISO 1349 1366	pathologie virale
+T41	LIVB 1376 1382	enfant
+T42	TEMP 1426 1432	30 ans
+T43	PROC 1442 1470	diagnostic histopathologique
+T44	Concept_Idea 1490 1498	contours
+T45	PROC 1502 1529	examen anatomo-pathologique
+T46	DISO 1552 1606	métastase du paragangliome kystadénoïde péripéritonéal
+T47	ANAT 1565 1606	paragangliome kystadénoïde péripéritonéal
+T48	PROC 1612 1636	chimiothérapie adjuvante
+T49	CHEM 1665 1678	dexaméthasone
+T50	CHEM 1680 1699	ethinylprédnisolone
+T51	CHEM 1703 1715	doxorubicine

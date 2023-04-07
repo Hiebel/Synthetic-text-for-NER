@@ -1,0 +1,82 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 33 38	8 ans
+T3	DISO 45 70	antécédents pathologiques
+T4	MEAS 71 83	particuliers
+T5	Hospital 106 126	service des urgences
+T6	DISO 136 186	tuméfaction douloureuse du membre inférieur gauche
+T7	ANAT 163 186	membre inférieur gauche
+T8	Localization 180 186	gauche
+T9	MEAS 198 213	progressivement
+T10	Concept_Idea 217 223	taille
+T11	PROC 227 233	examen
+T12	PROC 238 247	admission
+T13	LIVB 260 267	patient
+T14	MEAS 271 278	mauvais
+T15	Concept_Idea 279 291	état général
+T16	PROC 309 324	examen clinique
+T17	DISO 336 345	anomalies
+T18	PROC 350 362	mammographie
+T19	DISO 379 442	symptomatologie neurologique sensitivo-motrice temporo-spaciale
+T20	PHEN 506 515	grossesse
+T21	MEAS 581 591	difficiles
+T22	PROC 596 623	bilan radiologique standard
+T23	PROC 625 628	NFS
+T24	PROC 630 655	scanner thoraco-abdominal
+T25	ANAT 638 655	thoraco-abdominal
+T26	DISO 677 696	syndrome infectieux
+T27	DISO 707 725	lésion traumatique
+T28	PROC 740 764	échographie obstétricale
+T29	Hospital 778 786	urgences
+T30	TEMP 867 873	6 mois
+T31	PROC 878 884	suivie
+T32	CHEM 890 900	Tamoxifen®
+T33	DISO 989 1022	dysfonctionnement fœtal chronique
+T34	LIVB 1034 1042	fillette
+T35	DISO 1083 1127	maladie congénitale polymyomateuse stade EBP
+T36	TEMP 1174 1188	à l'âge adulte
+T37	PROC 1217 1239	consultation prénatale
+T38	DISO 1282 1315	méningo-encéphalite hypokinétique
+T39	PROC 1335 1370	classification de Balthazar Bergman
+T40	DISO 1385 1421	récepteurs hormonaux éosinophiliques
+T41	LIVB 1534 1544	nourrisson
+T42	LIVB 1701 1708	parents
+T43	PROC 1795 1837	activités professionnelles extraconjugales
+T44	PROC 1899 1918	bilan préopératoire
+T45	DISO 1943 1986	sténose péritonéale cervico-crânio-palatine
+T46	ANAT 2007 2017	sein droit
+T47	Localization 2012 2017	droit
+T48	MEAS 2027 2031	5 cm
+T49	DISO 2052 2096	luxation foeto-placentaire anapathyroïdienne
+T50	DISO 2104 2155	choriocarcinome épidermoïde gestationisymptomatique
+T51	MEAS 2163 2170	ACR2MN0
+T52	PROC 2185 2238	bloc axillaire multilateral échoguidée scanographique
+T53	PROC 2252 2277	revue anatomopathologique
+T55	ANAT 2837 2843	thorax
+T56	PROC 2849 2882	imagerie par résonance magnétique
+T57	PROC 2886 2907	scintigraphie osseuse
+T58	ANAT 2900 2907	osseuse
+T59	MEAS 2925 2932	normaux
+T60	Concept_Idea 2934 2943	résultats
+T61	PROC 2948 2984	explorations tomodensitométriosiques
+T62	PROC 2986 3017	échostructure cristallochimique
+T63	PROC 3021 3038	immunohistochimie
+T64	PHEN 3044 3059	fonction rénale
+T65	ANAT 3053 3059	rénale
+T66	MEAS 3066 3074	correcte
+T67	DISO 3080 3102	syndrome inflammatoire
+T68	DISO 3106 3134	trouble hydro électrolytique
+T69	PROC 3147 3166	électrocardiogramme
+T70	MEAS 3180 3198	strictement normal
+T71	PROC 3203 3229	Fibroscopie oeso-gastrique
+T72	ANAT 3215 3229	oeso-gastrique
+T73	MEAS 3236 3243	normale
+T74	Concept_Idea 3252 3274	coupe intrastrasystole
+T75	PROC 3288 3325	myélopéroxotomie totale endotrachéale
+T76	CHEM 3381 3393	fluorescéine
+T77	PROC 3407 3451	hystérectomie totale extemporanée biannuelle
+T79	PROC 3467 3485	antibioprophylaxie
+T80	PROC 3504 3539	ponction biopsie abdomino-pelvienne
+T81	ANAT 3521 3539	abdomino-pelvienne
+T82	DEVI 3552 3571	seringue électrique
+T83	MEAS 3655 3664	13mmol/kg
+T84	TEMP 3664 3674	/24 heures

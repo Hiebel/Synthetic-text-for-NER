@@ -1,0 +1,23 @@
+T1	PROC 2 5	TDM
+T2	DISO 19 24	masse
+T3	ANAT 31 44	hanche droite
+T4	Localization 38 44	droite
+T5	Concept_Idea 52 58	aspect
+T6	DISO 81 111	prolifération tumorale maligne
+T7	PROC 116 141	bilan immunohistochimique
+T8	PROC 143 146	IHC
+T9	PROC 150 155	C-KIT
+T10	PROC 184 207	traitement conservateur
+T11	DISO 211 214	PTH
+T12	LIVB 236 247	chirurgiens
+T13	PROC 269 293	diagnostic préopératoire
+T14	PROC 323 356	explorations anatomopathologiques
+T15	MEAS 357 365	Figure 3
+T16	PROC 385 400	corticothérapie
+T17	PROC 413 437	remplissage vasculorénal
+T18	ANAT 425 437	vasculorénal
+T19	DISO 457 472	récidive locale
+T20	DISO 476 485	métastase
+T21	PROC 502 520	étude histologique
+T22	PHEN 556 571	circonférentiel
+T23	DISO 623 638	symptomatologie

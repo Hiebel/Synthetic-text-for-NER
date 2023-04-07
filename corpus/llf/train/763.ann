@@ -1,0 +1,16 @@
+T1	PROC 4 26	radiographie
+T2	ANAT 20 26	thorax
+T3	MEAS 33 40	normale
+T4	DISO 57 87	dysmorphie
+T5	ANAT 68 87	orbito-mésentérique
+T6	PROC 94 116	échographie
+T7	ANAT 106 116	abdominale
+T8	DISO 137 167	anémie
+T9	PROC 185 218	ponction
+T10	ANAT 206 218	anses
+T11	DISO 224 233	anomalies
+T12	LIVB 248 255	patient
+T13	PROC 281 297	drainage
+T14	ANAT 290 297	pleural
+T15	Concept_Idea 306 334	résultat
+T16	Concept_Idea 367 384	moyens

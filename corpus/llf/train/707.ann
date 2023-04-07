@@ -1,0 +1,14 @@
+T1	PROC 2 28	examen
+T2	DISO 50 64	adénocarcinome
+T3	MEAS 65 88	moyennement
+T4	ANAT 95 116	fosse
+T5	PROC 120 146	étude
+T6	DISO 184 202	cellules
+T7	ANAT 184 192	cellules
+T8	CHEM 207 236	anticorps
+T9	PROC 207 236	anticorps
+T10	PROC 238 241	IHC
+T11	PROC 247 251	CD20
+T12	ANAT 270 281	oestrogènes
+T13	ANAT 360 393	cytoplasme
+T14	DISO 421 431	schwannome

@@ -1,0 +1,47 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 101	traitement médical adjuvant
+T3	CHEM 112 128	cyclophosphamide
+T4	CHEM 131 144	dexaméthasone
+T5	DOSE 150 157	2 mg/kg
+T7	CHEM 173 187	hydrocortisone
+T8	PROC 192 216	exploration chirurgicale
+T9	LIVB 250 258	patiente
+T10	DISO 263 335	épanchement pleuro-péricardique basithoracique lithiasique hypertrophiés
+T12	ANAT 353 384	lit thoracique supérieur gauche
+T13	Localization 378 384	gauche
+T14	DISO 401 416	lésion kystique
+T15	ANAT 433 455	structures pulmonaires
+T16	PROC 471 492	échographie pelvienne
+T17	ANAT 483 492	pelvienne
+T18	DISO 516 555	syndrome d’hypertension intrapéritonéal
+T19	ANAT 540 555	intrapéritonéal
+T20	DISO 562 588	sténose médiastin biliaire
+T21	ANAT 570 588	médiastin biliaire
+T22	DISO 598 618	localisation maligne
+T23	PROC 649 682	imagerie par résonance magnétique
+T24	PROC 684 687	IRM
+T26	ANAT 735 747	placéo-rénal
+T27	PROC 767 776	injection
+T28	CHEM 780 797	méthylpropranolol
+T29	ANAT 819 854	substance grêlique antre péricæcale
+T30	ANAT 878 914	anses intestinales jéjunostomotivées
+T31	ANAT 935 979	fossette recto-sigmoïdienne iléosigmoïdienne
+T32	PROC 995 1004	injection
+T33	CHEM 1008 1038	réservo-désoxy-Dichloroplatine
+T34	DISO 1042 1070	processus tumoral compressif
+T35	ANAT 1090 1112	troncs supra-aortiques
+T36	CHEM 1148 1168	produit de contraste
+T37	DISO 1192 1200	kystique
+T38	DISO 1228 1241	particularité
+T39	DISO 1259 1279	déficit neurologique
+T40	DISO 1301 1366	atteinte axonévrotendineuse palmiplantaire érythémato-nucléateuse
+T42	DISO 1376 1389	inflammatoire
+T43	DISO 1462 1498	maladie thromboembolique dissociante
+T44	PHEN 1606 1626	grossesse gémellaire
+T45	MEAS 1637 1642	20 SA
+T46	DISO 1681 1690	symptômes
+T47	DISO 1731 1749	craniométrorragies
+T48	LIVB 1819 1827	patiente
+T49	DISO 1912 1936	symptômes inflammatoires
+T50	DISO 1951 1980	tuberculose méningo-cérébrale
+T51	DISO 2021 2048	complications hémorragiques

@@ -1,0 +1,32 @@
+T1	LIVB 0 8	Patiente
+T2	DISO 30 55	antécédents pathologiques
+T3	MEAS 56 64	notables
+T4	PROC 66 72	admise
+T5	Hospital 77 85	urgences
+T6	DISO 97 114	choc hémorragique
+T7	Concept_Idea 124 131	vitesse
+T8	MEAS 134 140	75cm/s
+T9	PROC 144 159	examen clinique
+T10	ANAT 175 182	abdomen
+T11	Concept_Idea 195 201	taille
+T12	Concept_Idea 207 222	acuité visuelle
+T13	ANAT 236 248	flanc gauche
+T14	Localization 242 248	gauche
+T15	TEMP 258 274	depuis 48 heures
+T16	PROC 279 298	bilan préopératoire
+T17	PROC 316 346	échographie abdomino-pelvienne
+T18	ANAT 328 346	abdomino-pelvienne
+T19	PROC 348 351	EAP
+T20	PROC 357 402	tomodensitométrie thoraco-abdomino- pelvienne
+T21	ANAT 375 402	thoraco-abdomino- pelvienne
+T22	PROC 404 407	TSA
+T23	PROC 421 462	écho-Doppler artério-veineux périphérique
+T24	ANAT 434 462	artério-veineux périphérique
+T25	PROC 464 467	ETD
+T26	PROC 474 500	explorations radiologiques
+T27	DEVI 526 550	scanner abdomino-pelvien
+T28	ANAT 534 550	abdomino-pelvien
+T29	DISO 568 663	métastases parenchymateuses latéro-vésiculo-hypophysaires basithalamo-thyroïdiennes hétérogènes
+T31	ANAT 680 703	surrénaleshypophysiques
+T32	MEAS 728 735	21x17mm
+T33	MEAS 739 746	24x25mm

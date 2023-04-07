@@ -1,0 +1,58 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 79 94	examen clinique
+T6	Concept_Idea 114 119	poids
+T7	MEAS 122 127	16 kg
+T9	MEAS 142 148	170 cm
+T10	Concept_Idea 156 182	indice de masse corporelle
+T11	MEAS 191 199	29kg/m 2
+T12	LIVB 201 203	Il
+T13	DISO 219 253	douleurs abdominales constrictives
+T14	ANAT 228 239	abdominales
+T15	CHEM 267 286	anti-inflammatoires
+T16	ANAT 300 314	méso-péritoine
+T17	PROC 319 338	bilan immunologique
+T18	MEAS 345 352	positif
+T19	PROC 441 456	glycémie à jeun
+T20	MEAS 465 474	0,70 g/dl
+T21	PROC 487 513	hyperglycéridémie corrigée
+T22	MEAS 522 530	1,94 g/l
+T23	PROC 534 574	ponction surrénalienne intrarachidiienne
+T24	ANAT 543 574	surrénalienne intrarachidiienne
+T25	PROC 621 645	chimiothérapie adjuvante
+T26	PROC 686 706	traitement palliatif
+T27	DEVI 711 728	médiatisé externe
+T28	CHEM 743 753	paclitaxel
+T29	CHEM 755 768	dexaméthasone
+T30	CHEM 770 777	taxanes
+T31	PROC 791 821	corticothérapie postopératoire
+T32	DISO 861 878	récidive tumorale
+T33	DISO 906 931	localisations secondaires
+T34	DISO 938 957	métastases malignes
+T35	DISO 964 1003	dégénérescence péritonéale métastatique
+T36	PROC 1085 1110	intervention chirurgicale
+T37	DISO 1230 1249	symptômes cliniques
+T38	DISO 1367 1394	processus tumoral lésionnel
+T39	Localization 1410 1414	sous
+T40	PROC 1458 1470	rehaussement
+T41	DISO 1586 1600	résidu nécrosé
+T42	LIVB 1874 1882	patients
+T43	DISO 2308 2317	tumorales
+T44	MEAS 2459 2472	18 x 13x 8 cm
+T45	MEAS 2498 2503	21 cm
+T46	ANAT 2529 2547	particule vaginaux
+T47	DISO 2572 2608	adénomopathies cervico-vestibuleuses
+T48	MEAS 2617 2630	fasciculantes
+T49	DISO 2689 2720	nodules hypertrophiés kystiques
+T50	ANAT 2738 2756	annexes inférieurs
+T51	DISO 2773 2798	neuroendocrine myometrale
+T52	ANAT 2814 2835	organes méso-ovariens
+T53	DISO 2876 2885	prélagien
+T54	PROC 3041 3056	immuno-marquage
+T55	PROC 3204 3228	chimiothérapie adjuvante
+T56	CHEM 3230 3240	cisplatine
+T57	CHEM 3242 3254	doxorubicine
+T58	CHEM 3258 3271	dexaméthasone
+T59	TEMP 3310 3316	8 mois

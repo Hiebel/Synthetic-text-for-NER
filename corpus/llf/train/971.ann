@@ -1,0 +1,16 @@
+T1	LIVB 4 12	patients
+T2	PROC 26 50	radiothérapie
+T3	CHEM 60 74	anthracyclines
+T4	CHEM 81 92	corticoïdes
+T5	MEAS 98 103	bonne
+T6	Concept_Idea 104 120	réponse
+T7	Concept_Idea 125 153	résultat
+T8	DISO 173 183	schwannome
+T9	MEAS 184 207	moyennement
+T10	PROC 216 241	étude
+T11	PROC 272 320	anticorps
+T12	PROC 322 326	ASAT
+T13	PROC 332 356	complément
+T14	PROC 361 374	IRM
+T15	ANAT 365 374	cérébrale
+T16	Concept_Idea 408 425	moyens

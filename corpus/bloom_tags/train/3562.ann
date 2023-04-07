@@ -1,0 +1,31 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	10 ans
+T3	Concept_Idea 25 36	antécédents
+T4	MEAS 37 49	particuliers
+T5	DISO 92 114	douleurs du sein droit
+T6	ANAT 104 114	sein droit
+T7	Localization 109 114	droit
+T8	PROC 118 124	examen
+T9	PROC 129 138	admission
+T10	LIVB 151 157	enfant
+T11	MEAS 161 164	bon
+T12	Concept_Idea 165 177	état général
+T13	DISO 179 190	polypnéique
+T14	MEAS 193 206	28 cycles/min
+T15	PHEN 216 235	pression artérielle
+T16	ANAT 225 235	artérielle
+T17	MEAS 238 249	70/40 mm Hg
+T18	PROC 254 273	bilan immunologique
+T19	MEAS 280 287	négatif
+T20	PROC 289 307	anti-cardiolipines
+T21	PROC 311 339	anticorps antiphospholipides
+T22	PROC 345 376	échographie abdomino- pelvienne
+T23	ANAT 357 376	abdomino- pelvienne
+T24	DISO 403 456	masse hypo échogéante hétérogène tissulaire hypodense
+T25	MEAS 466 474	12/10 cm
+T26	ANAT 491 511	fosse utérine droite
+T27	Localization 505 511	droite
+T28	PROC 532 541	injection
+T30	DISO 600 636	épanchement intracervico-vésiculaire
+T31	ANAT 612 636	intracervico-vésiculaire
+T32	DISO 656 684	métanéphrines péristaltiques

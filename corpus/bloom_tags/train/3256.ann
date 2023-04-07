@@ -1,0 +1,27 @@
+T1	LIVB 20 25	femme
+T2	Concept_Idea 42 53	antécédents
+T3	MEAS 54 66	particuliers
+T4	PROC 68 76	adressée
+T5	Hospital 81 89	urgences
+T6	DISO 99 124	tuméfaction du sein droit
+T7	ANAT 114 124	sein droit
+T8	Localization 119 124	droit
+T9	TEMP 134 150	depuis deux mois
+T10	PROC 154 169	examen clinique
+T11	PROC 174 183	admission
+T12	DISO 200 233	syndrome d’épanchement péritonéal
+T13	ANAT 223 233	péritonéal
+T14	PHEN 243 270	mouvements abdomino-pelvien
+T15	ANAT 254 270	abdomino-pelvien
+T16	MEAS 271 277	diffus
+T17	PROC 295 311	examen somatique
+T18	DISO 333 346	particularité
+T19	DISO 363 390	épanchement intrapéritonéal
+T20	ANAT 375 390	intrapéritonéal
+T21	PROC 396 413	touchers pelviens
+T22	ANAT 405 413	pelviens
+T23	MEAS 422 429	normaux
+T24	PROC 443 479	tomodensitométrie abdomino-pelvienne
+T25	ANAT 461 479	abdomino-pelvienne
+T26	DISO 513 556	carcinome ovarien utéro-myometriel infiltré
+T28	DISO 558 561	CUI

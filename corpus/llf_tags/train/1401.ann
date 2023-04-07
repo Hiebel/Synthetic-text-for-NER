@@ -1,0 +1,80 @@
+T1	PROC 3 45	radiographie de l'abdomen sans préparation
+T2	ANAT 21 28	abdomen
+T3	DISO 59 74	opacité du foie
+T4	ANAT 70 74	foie
+T5	PROC 79 104	scanner thoraco-abdominal
+T6	ANAT 87 104	thoraco-abdominal
+T7	DISO 124 133	anomalies
+T8	PROC 140 157	biologie standard
+T9	PROC 159 162	NFS
+T10	PROC 164 179	glycémie à jeun
+T11	MEAS 187 194	normale
+T12	PROC 200 224	laparotomie exploratrice
+T13	PROC 245 273	anastomose termino-terminale
+T14	Localization 256 273	termino-terminale
+T15	ANAT 282 323	récessus sous thoracique intra péritonéal
+T16	PROC 330 362	dissection des annexes centrales
+T17	ANAT 345 362	annexes centrales
+T18	DEVI 370 386	cathéter fémoral
+T19	Concept_Idea 425 437	plan profond
+T20	ANAT 462 499	voies biliaires cervicale supérieures
+T21	Localization 488 499	supérieures
+T22	Localization 514 531	antérieure droite
+T23	MEAS 568 575	simples
+T24	PROC 594 627	cholécysterectomie totale élargie
+T25	PROC 663 674	extirpation
+T26	PROC 680 708	prise en charge chirurgicale
+T27	PROC 712 737	étude anatomopathologique
+T28	MEAS 752 765	plus complète
+T29	DISO 825 931	carcinome épidermoïde réactionnel tissulaire kystique séreux éosinophile infiltrant rétropéritonéal cutané
+T30	PROC 941 963	classification TNM/CDG
+T31	PHEN 971 997	micronodules bourgeonnants
+T32	ANAT 1011 1036	région scapulaire caudale
+T33	ANAT 1052 1082	ganglions lymphoplasmocytaires
+T34	MEAS 1088 1098	fusiformes
+T36	ANAT 1170 1228	zones ganglionnaires mésenchymateuses hétérocytonucléaires
+T38	MEAS 1360 1372	2500 UI/mm 3
+T39	MEAS 1375 1386	690 UI/mm 3
+T40	MEAS 1388 1400	1480 UI/mm 3
+T41	MEAS 1446 1458	1030 UI/mm 3
+T42	PROC 1462 1507	complément immunohistochimique type IgG Kappa
+T43	PROC 1536 1558	traitement chirurgical
+T44	DISO 1581 1603	malignité radiologique
+T45	DISO 1613 1630	risque infectieux
+T46	LIVB 1653 1659	enfant
+T47	TEMP 1667 1672	3 ans
+T48	DISO 1761 1790	pathologie obstétricale aiguë
+T49	Hospital 1895 1929	consultions médicales pédiatriques
+T50	PROC 1964 1979	examen clinique
+T51	LIVB 2001 2007	enfant
+T52	DISO 2067 2109	pseudo-neurofibromatose diabétique maligne
+T53	DISO 2163 2203	syndrome délirant convulsif psychomoteur
+T54	DISO 2231 2240	céphalées
+T55	CHEM 2293 2307	antipyrétiques
+T56	PROC 2485 2514	symptômes neuropsychiatriques
+T57	LIVB 2536 2543	patient
+T58	DISO 2584 2612	trouble dissociatif addictif
+T59	DISO 2646 2708	sensations délirantes tonicoclonico-spasmodiques paroxystiques
+T60	Concept_Idea 2900 2936	caractéristiques sociodémographiques
+T61	LIVB 2959 2969	nouveau-né
+T62	PHEN 3014 3023	grossesse
+T63	MEAS 3126 3128	4e
+T64	MEAS 3147 3149	6e
+T65	DISO 3201 3211	difficulté
+T66	PROC 3235 3260	transfusion intraveineuse
+T67	PROC 3279 3292	suivi médical
+T68	PROC 3356 3400	corticothérapie antipsychotique probabiliste
+T69	DOSE 3422 3427	50 mg
+T70	TEMP 3428 3446	deux fois par jour
+T71	PROC 3502 3540	midazolamidectomie exploratrice totale
+T72	PROC 3695 3747	chimiothérapie prophylactique parenterale palliative
+T73	PROC 3780 3846	kinésithérapie motrice extracorporelle sublinguale laryngéne BHPMF
+T74	Concept_Idea 3917 3929	état général
+T75	DISO 3953 3979	tumeur acro cataphorétique
+T76	DISO 3987 4006	signes oculomoteurs
+T77	DISO 4030 4054	maladie auto-immunitaire
+T78	DISO 4106 4134	retentissement professionnel
+T79	PROC 4232 4265	prise en charge médicale générale
+T80	DISO 4369 4398	sarcoïdose diabétique maligne
+T81	DISO 4416 4434	polypnée chronique
+T82	ANAT 4553 4577	voie biliaire principale

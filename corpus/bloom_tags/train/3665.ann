@@ -1,0 +1,43 @@
+T1	LIVB 28 35	patient
+T2	PROC 60 71	hospitalisé
+T3	Hospital 75 112	service des urgences ophtalmologiques
+T4	Hospital 116 150	Clube Hospitalier Hassan II de Fès
+T5	PHEN 158 175	atteinte visuelle
+T6	TEMP 185 203	pendant deux jours
+T7	LIVB 210 213	son
+T8	PROC 214 223	admission
+T9	PROC 227 242	examen clinique
+T10	DISO 254 268	particularités
+T11	PROC 273 299	scanner cervico-thoracique
+T12	ANAT 281 299	cervico-thoracique
+T13	PROC 301 304	TSO
+T14	PROC 319 350	anesthésie locorégionale locale
+T15	DISO 368 410	paralysie pariéto-supra-tentorielle droite
+T16	ANAT 378 410	pariéto-supra-tentorielle droite
+T17	Localization 404 410	droite
+T18	MEAS 454 459	14 cm
+T19	Concept_Idea 463 472	grand axe
+T20	MEAS 477 481	13cm
+T21	Concept_Idea 485 494	petit axe
+T22	DISO 515 593	épanchement basithoracique péribuccinien liquidien basithoracique hypertrophié
+T24	DISO 606 663	bradycardie ventriculo-interstitielle infarcto-résistante
+T25	ANAT 618 663	ventriculo-interstitielle infarcto-résistante
+T26	LIVB 689 697	patients
+T27	DISO 736 799	syndrome d'épanchement basithoracique peribuccinien systématisé
+T29	DISO 843 863	sténoses thoraciques
+T30	ANAT 852 863	thoraciques
+T31	DISO 865 894	défaillance mittraprolaryngée
+T32	ANAT 877 894	mittraprolaryngée
+T33	DISO 909 927	pathophysiologique
+T34	DISO 1006 1028	consanguinité familial
+T35	LIVB 1037 1044	famille
+T36	PROC 1050 1097	ponction pleurale exploratrice trans-bronchique
+T37	ANAT 1059 1097	pleurale exploratrice trans-bronchique
+T38	ANAT 1153 1204	purulentaires bilobébilvéculaires sus claviculaires
+T39	Concept_Idea 1237 1243	taille
+T40	MEAS 1254 1258	30ml
+T41	PROC 1265 1301	radiothérapie concomitante adjuvante
+T42	DOSE 1359 1364	70 Gy
+T43	MEAS 1379 1394	40Gy / fraction
+T44	MEAS 1406 1411	120Gy
+T45	PROC 1424 1456	surveillance tomodensitométrique

@@ -1,0 +1,89 @@
+T1	LIVB 2 8	garçon
+T2	TEMP 16 21	8 ans
+T3	Concept_Idea 29 34	santé
+T4	MEAS 35 43	mauvaise
+T5	DISO 45 53	asthénie
+T6	DISO 57 65	anorexie
+T7	PROC 107 122	examen clinique
+T8	LIVB 126 133	patient
+T9	DISO 140 147	fébrile
+T10	MEAS 150 154	38°C
+T11	ANAT 164 176	conjonctives
+T12	MEAS 177 198	légèrement décolorées
+T13	DISO 204 216	vomissements
+T14	DISO 227 256	symptômes neuropsychiatriques
+T15	DISO 270 279	dysphagie
+T16	DISO 295 328	hallucinations visuelles tactiles
+T17	ANAT 342 348	thorax
+T18	DISO 363 397	lombo-altération de l'état général
+T19	PHEN 385 397	état général
+T20	DISO 410 424	amaigrissement
+T21	MEAS 435 439	10kg
+T22	TEMP 443 449	1 mois
+T23	PROC 453 467	interrogatoire
+T24	PROC 534 544	diagnostic
+T25	DISO 638 650	pancytopénie
+T26	DISO 680 713	syndrome délirant polymalformatif
+T27	DISO 728 761	troubles obsessionnels compulsifs
+T28	Concept_Idea 777 802	aspect psychopathologique
+T29	DISO 876 903	psychothérapies éveilleuses
+T30	PROC 955 971	scanner cérébral
+T31	ANAT 963 971	cérébral
+T32	CHEM 1024 1035	paracétamol
+T33	PROC 1041 1056	reprise motrice
+T34	PROC 1070 1108	extubation endotrachéale bipédiculaire
+T35	DEVI 1118 1123	stylo
+T36	PROC 1181 1208	transfusions intraveineuses
+T37	MEAS 1271 1278	simples
+T38	PROC 1282 1302	suivi postopératoire
+T39	DISO 1322 1357	hypertriglycéridémie hypokalièmique
+T40	MEAS 1368 1406	650 milligrammes trois fois la normale
+T41	DISO 1422 1461	insuffisance rénale chronique terminale
+T42	ANAT 1435 1441	rénale
+T43	PROC 1502 1532	traitement médical substitutif
+T44	PROC 1536 1556	sortie thérapeutique
+T45	TEMP 1586 1593	5 jours
+T46	PROC 1606 1634	antibiothérapie probabiliste
+T47	PROC 1679 1713	radio-chimiothérapie préopératoire
+T48	PROC 1729 1749	contrôle ambulatoire
+T49	Hospital 1754 1769	bloc opératoire
+T50	PROC 1792 1833	séances de rééducation multidisciplinaire
+T51	PROC 1875 1899	consultation spécialisée
+T52	PROC 1916 1943	radiothérapie néo adjuvante
+T53	PROC 1964 1992	néphrectomie totale monobloc
+T54	ANAT 2012 2028	muqueuse rectale
+T55	PROC 2033 2059	surveillance échographique
+T56	DISO 2082 2241	métaplasie rétinienne lobulée rétroglioblastique hyperéchogène hétérodimédiasplénomégalie conformationelle achilléenne monoclonale bifocalciquerculaire maligne
+T57	MEAS 2251 2256	13 cm
+T58	Concept_Idea 2260 2269	grand axe
+T59	MEAS 2275 2280	15 mm
+T60	Concept_Idea 2284 2309	grossissement superficiel
+T61	Concept_Idea 2324 2338	axe céphalique
+T62	MEAS 2348 2352	18mm
+T63	Concept_Idea 2356 2365	petit axe
+T64	Localization 2381 2396	aires frontales
+T65	MEAS 2430 2433	25%
+T66	MEAS 2437 2473	30 - 40 ° degrés centigrades Celsius
+T67	PROC 2479 2518	tests immunohistochimiques IgG anti DR3
+T68	PHEN 2878 2907	consignes neuropsychiatriques
+T69	TEMP 2927 2933	6 mois
+T70	LIVB 2939 2949	nourrisson
+T71	PROC 2988 3007	rééducation motrice
+T72	PROC 3021 3045	curiethérapie palliative
+T73	PROC 3060 3077	bilan étiologique
+T74	DISO 3093 3102	anomalies
+T75	DISO 3120 3154	lésions érythémato papillomateuses
+T76	DISO 3161 3190	remaniements hydrocéphaliques
+T77	ANAT 3204 3210	thorax
+T78	ANAT 3223 3249	marges distales cervicales
+T79	PROC 3277 3311	prise en charge pluridisciplinaire
+T80	CHEM 3313 3344	amoxicilline acide clavulanique
+T81	CHEM 3347 3370	pénicilline salicylique
+T82	MEAS 3404 3411	simples
+T83	PROC 3417 3441	anticoagulation curative
+T84	TEMP 3478 3482	1 an
+T85	TEMP 3486 3491	2 ans
+T86	DISO 3529 3550	symptôme pathologique
+T87	DEVI 3594 3614	tableau radiologique
+T88	Concept_Idea 3644 3671	circulation extracorporelle
+T89	DISO 3691 3719	complications hémodynamiques

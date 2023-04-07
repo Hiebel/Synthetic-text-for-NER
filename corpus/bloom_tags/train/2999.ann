@@ -1,0 +1,28 @@
+T1	LIVB 29 37	patiente
+T2	DISO 117 141	hallucinations visuelles
+T3	TEMP 151 164	depuis 2 mois
+T4	DISO 180 201	détresse respiratoire
+T5	PHEN 189 201	respiratoire
+T6	DISO 214 236	symptômes neurologique
+T7	DISO 263 283	syndrome d'épilepsie
+T8	DISO 293 322	troubles sensitivospincturaux
+T9	LIVB 350 358	patiente
+T10	PROC 435 464	investigations préopératoires
+T11	DISO 487 509	hypotension artérielle
+T12	PROC 530 557	traitement médical adjuvant
+T13	CHEM 568 578	furosémide
+T14	CHEM 580 598	méthylprédnisolone
+T15	CHEM 600 611	nicardipine
+T16	CHEM 613 626	buprenorphine
+T17	PROC 640 664	analgésie endobronchique
+T18	ANAT 650 664	endobronchique
+T19	PROC 721 756	audiométrie cardio-vasculo-nerveuse
+T20	ANAT 733 756	cardio-vasculo-nerveuse
+T21	DISO 785 809	hyperpression artérielle
+T22	ANAT 799 809	artérielle
+T23	DISO 863 897	méningo-lymphangiopathie purulente
+T24	DISO 915 951	neurofibrillation ischémique fébrile
+T25	PROC 987 1019	scanner thoraco abdomino-pelvien
+T26	ANAT 995 1019	thoraco abdomino-pelvien
+T27	DISO 1050 1082	atteinte pulmonaire métastatique
+T28	ANAT 1059 1082	pulmonaire métastatique

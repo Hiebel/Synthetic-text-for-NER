@@ -1,0 +1,46 @@
+T1	LIVB 3 13	nourrisson
+T2	TEMP 21 28	10 mois
+T3	Hospital 60 95	service de néonatologie pédiatrique
+T4	PHEN 119 139	grossesse gémellaire
+T5	TEMP 148 154	9 mois
+T6	PROC 160 171	consultable
+T7	PROC 181 186	admis
+T8	Hospital 191 212	urgences pédiatriques
+T9	PROC 222 238	avis obstétrical
+T10	PROC 272 297	schéma neuropsychiatrique
+T11	PROC 344 369	séance multidisciplinaire
+T12	DISO 472 487	maladie mentale
+T13	DISO 515 532	trouble bipolaire
+T14	LIVB 553 562	pédiatres
+T15	PROC 577 586	admission
+T16	PROC 605 622	enquête familiale
+T17	LIVB 643 653	nouveau-né
+T18	LIVB 727 745	frères plus jeunes
+T19	LIVB 771 775	père
+T20	LIVB 794 803	papa aîné
+T21	LIVB 823 842	grand-père maternel
+T22	PROC 1137 1158	avortements parentaux
+T23	Concept_Idea 2159 2176	histoire clinique
+T24	LIVB 2180 2190	nourrisson
+T25	DISO 2211 2220	dysphagie
+T26	DISO 2225 2273	syndrome oedémato-œdémateux chronique obstructif
+T27	MEAS 2275 2283	stade II
+T28	DISO 2290 2321	perforation prénatale aseptique
+T29	DISO 2419 2445	réchauffement psychomoteur
+T30	Concept_Idea 2467 2490	état neuropsychiatrique
+T32	DISO 2545 2573	symptomatologie pathologique
+T33	LIVB 2614 2616	il
+T34	DISO 2646 2668	crise convulsive aiguë
+T35	DISO 2749 2773	malformation congénitale
+T36	PROC 2787 2806	bilan préopératoire
+T37	DISO 2845 2877	hyperparathormonéphrite ataxique
+T38	CHEM 2883 2902	corticoïde calcique
+T39	DISO 2916 2940	thrombophlébite septique
+T40	ANAT 2945 2963	pédicule hépatique
+T41	PROC 2980 2989	transfusé
+T42	PROC 3219 3266	hémoglobine hypochrome microcytaire glycémiante
+T43	MEAS 3269 3286	3 fois la normale
+T44	LIVB 3301 3322	sujets hématologiques
+T45	MEAS 3355 3364	580 pg/ml
+T46	MEAS 3398 3413	630 millilitres
+T47	MEAS 3417 3428	1050 pg/ ml

@@ -1,0 +1,28 @@
+T1	LIVB 3 10	patient
+T2	DISO 27 52	antécédents pathologiques
+T3	MEAS 53 65	particuliers
+T4	PROC 67 77	consultait
+T5	Hospital 82 90	urgences
+T6	DISO 100 124	douleur abdominale aiguë
+T7	ANAT 108 118	abdominale
+T8	TEMP 134 148	depuis 2 jours
+T9	PROC 152 167	examen clinique
+T10	PROC 172 181	admission
+T11	LIVB 192 199	patient
+T12	Concept_Idea 203 207	état
+T13	PHEN 244 256	respiratoire
+T14	PROC 260 291	échographie abdomino- pelvienne
+T15	ANAT 272 291	abdomino- pelvienne
+T16	DISO 322 372	masse hypo échogène hétérogène des parois utérines
+T17	ANAT 357 372	parois utérines
+T18	MEAS 382 396	14 centimètres
+T19	Concept_Idea 400 409	grand axe
+T20	ANAT 423 444	flanc droit supérieur
+T21	Localization 429 444	droit supérieur
+T22	DISO 458 490	hépato-splénomégalie congénitale
+T23	MEAS 495 498	2cm
+T24	PROC 504 521	bilan étiologique
+T25	MEAS 528 535	négatif
+T26	DISO 553 560	diabète
+T27	DISO 566 586	hypercholestérolémie
+T28	PROC 605 629	explorations biologiques

@@ -1,0 +1,42 @@
+T2	MEAS 87 88	3
+T3	LIVB 89 96	garçons
+T4	PROC 101 111	consultait
+T5	Hospital 116 127	psychiatres
+T6	TEMP 135 139	2013
+T7	Concept_Idea 161 174	état générale
+T8	DISO 190 202	pancytopénie
+T9	MEAS 213 220	18kg/m2
+T10	DISO 237 252	symptomatologie
+T11	TEMP 267 280	novembre 2012
+T12	LIVB 288 291	son
+T13	LIVB 292 298	enfant
+T14	PROC 320 325	suivi
+T15	DISO 392 416	hallucinations visuelles
+T16	CHEM 483 498	médicamenteuses
+T17	CHEM 519 546	antidépresseurs tricyclique
+T18	PROC 613 632	enquête étiologique
+T19	Concept_Idea 815 835	aspect morphologique
+T20	DISO 865 886	syndrome dyschromique
+T21	Concept_Idea 916 935	stade symptomatique
+T22	MEAS 1064 1083	0,6 fois la normale
+T24	DISO 1182 1206	performanence hétérogène
+T25	DEVI 1349 1381	matériel chirurgical multifocale
+T26	PROC 1396 1451	transfibroscopie digestivo-oesogastroduodénale assistée
+T27	LIVB 2091 2099	patiente
+T28	DISO 2134 2170	dysphagie chronique aigue stade IcT2
+T29	LIVB 2185 2187	sa
+T30	PHEN 2188 2203	fonction rénale
+T31	ANAT 2197 2203	rénale
+T32	MEAS 2218 2225	normale
+T33	PROC 2231 2262	traitement hormonal substitutif
+T34	TEMP 2280 2286	9 mois
+T35	Hospital 2365 2373	urgences
+T36	Concept_Idea 2408 2427	résultats cliniques
+T37	PROC 2435 2460	hémodialyse préopératoire
+T38	PROC 2480 2527	ponction scanno-thoraco-abdominale exploratrice
+T39	LIVB 2554 2562	patiente
+T40	PROC 2655 2673	bilans biologiques
+T41	DISO 2692 2750	anémie hypochrome normocytaire corrigée cliniquement saine
+T42	MEAS 2760 2768	3,8 g/dl
+T43	PROC 2791 2817	introduction thérapeutique
+T44	PROC 2854 2891	tomodensitométrie cytokératine totale

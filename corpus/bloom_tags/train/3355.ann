@@ -1,0 +1,30 @@
+T1	LIVB 4 9	femme
+T2	PROC 29 35	admise
+T3	Hospital 39 69	service d'accueil des urgences
+T4	Hospital 73 122	centre hospitalier universitaire Hassan II de Fès
+T5	DISO 141 162	obnubilation visuelle
+T6	DISO 164 190	troubles sensitivo-moteurs
+T7	DISO 204 220	polynucléocytose
+T8	CHEM 222 225	PNN
+T9	MEAS 229 254	16000 éléments blancs/mm3
+T10	PROC 262 276	examen général
+T11	DISO 288 297	anomalies
+T12	DISO 315 342	souffrance cutanéo-muqueuse
+T13	ANAT 326 342	cutanéo-muqueuse
+T14	PROC 348 356	biologie
+T15	MEAS 363 370	normale
+T16	PROC 374 404	échographie abdomino-pelvienne
+T17	ANAT 386 404	abdomino-pelvienne
+T18	DISO 431 467	hypertrophie ovarienne hypertrophiée
+T19	ANAT 444 467	ovarienne hypertrophiée
+T20	MEAS 477 489	environ 5 cm
+T21	Concept_Idea 493 502	grand axe
+T22	DISO 537 549	thrombopénie
+T23	DISO 556 583	vascularisation péritonéale
+T24	DISO 593 618	envahissement placentaire
+T25	ANAT 607 618	placentaire
+T26	DISO 646 679	métastases thrombo-interstitiales
+T27	LIVB 712 720	patiente
+T28	DISO 1012 1061	synovialosarcome kystique hydroséreux lithiasique
+T29	ANAT 1072 1080	kystique
+T30	DISO 1163 1177	résidu tumoral

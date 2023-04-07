@@ -1,0 +1,15 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 39 50	antécédents
+T3	MEAS 51 63	particuliers
+T4	PROC 65 70	suivi
+T5	DISO 79 106	carcinome du méso-péritoine
+T6	ANAT 92 106	méso-péritoine
+T7	PROC 111 126	examen clinique
+T8	PROC 134 141	biopsie
+T9	PROC 145 171	examen anatomopathologique
+T10	DISO 190 230	adénocarcinome des muscles mésentériques
+T11	ANAT 209 230	muscles mésentériques
+T12	DISO 247 270	tuberculose péritonéale
+T13	ANAT 259 270	péritonéale
+T14	PROC 275 296	recherche étiologique
+T15	PROC 310 329	traitement adjuvant

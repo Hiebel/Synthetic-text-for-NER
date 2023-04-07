@@ -1,0 +1,26 @@
+T1	PROC 2 17	examen clinique
+T2	PROC 22 31	admission
+T3	LIVB 44 50	enfant
+T4	Concept_Idea 75 93	plan hémodynamique
+T5	PHEN 97 109	respiratoire
+T6	DISO 119 130	tuméfaction
+T7	ANAT 137 158	fosse parotide droite
+T8	Localization 152 158	droite
+T9	TEMP 168 181	depuis 3 mois
+T10	MEAS 194 209	progressivement
+T11	Concept_Idea 213 219	volume
+T12	PROC 235 251	examen somatique
+T13	DISO 263 276	particularité
+T14	PROC 280 310	échographie abdomino-pelvienne
+T15	ANAT 292 310	abdomino-pelvienne
+T18	ANAT 417 435	glandes salivaires
+T19	ANAT 452 473	fosse parotide droite
+T20	Localization 467 473	droite
+T21	MEAS 482 486	2 cm
+T22	Concept_Idea 490 499	grand axe
+T23	DISO 515 538	kystique hydaté nécrosé
+T24	DISO 562 620	hyper vascularisation des parties molles cervico-vaginales
+T25	ANAT 588 620	parties molles cervico-vaginales
+T26	DISO 634 656	épanchement péritonéal
+T27	ANAT 646 656	péritonéal
+T28	DOSE 664 676	environ 50cc

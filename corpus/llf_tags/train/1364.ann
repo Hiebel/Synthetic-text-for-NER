@@ -1,0 +1,88 @@
+T1	LIVB 19 26	patient
+T2	DISO 47 72	antécédents pathologiques
+T3	MEAS 73 85	particuliers
+T4	PROC 105 114	admission
+T5	DISO 119 136	douleurs du genou
+T6	ANAT 131 136	genou
+T7	DISO 152 166	amaigrissement
+T8	PROC 184 199	examen clinique
+T9	LIVB 203 210	patient
+T10	DISO 217 224	fébrile
+T11	MEAS 227 236	39 degrés
+T12	Concept_Idea 246 257	température
+T13	MEAS 260 264	37°C
+T14	PHEN 271 286	fonction rénale
+T15	ANAT 280 286	rénale
+T16	MEAS 287 294	normale
+T17	PROC 300 317	tomodensitométrie
+T18	PROC 319 350	TDM) cervico-thoraco-abdominale
+T19	ANAT 324 350	cervico-thoraco-abdominale
+T20	TEMP 370 384	postopératoire
+T21	DISO 422 441	syndrome restrictif
+T22	PROC 453 470	bilan étiologique
+T23	DISO 504 517	particularité
+T24	PROC 522 544	traitement chirurgical
+T25	PROC 559 578	anesthésie générale
+T26	CHEM 584 594	antalgique
+T27	MODE 599 617	voie intraveineuse
+T28	PROC 631 687	néphrectomie axillaire rotationnelle latérale bilatérale
+T29	Localization 677 687	bilatérale
+T30	ANAT 707 712	verge
+T31	ANAT 734 769	annexes vertébrales controlatérales
+T32	PROC 773 800	analyse anatomopathologique
+T33	PROC 816 836	exérèse chirurgicale
+T34	DISO 862 892	prolifération tumorale maligne
+T35	ANAT 910 938	nerf laryngé inférieur droit
+T36	Localization 933 938	droit
+T37	ANAT 965 989	sinus maxillaire antrale
+T38	ANAT 1009 1026	segments cystique
+T39	ANAT 1045 1085	travées jugulo-carotidiennes thoraciques
+T40	ANAT 1145 1196	aires ganglionnaires cervicocorporo-lombo-aortiques
+T41	MEAS 1220 1226	3/6 cm
+T42	MEAS 1230 1236	1/4 cm
+T43	ANAT 1241 1305	ganglions lymphatiques thyroïdiens sus clavicubérosaphylactiques
+T44	Localization 1276 1279	sus
+T45	MEAS 1330 1336	9/7 cm
+T46	MEAS 1340 1347	10/8 cm
+T47	MEAS 1370 1379	stade III
+T48	PROC 1403 1431	chimiothérapie néo adjuvante
+T49	PROC 1464 1472	contrôle
+T50	PROC 1504 1559	prise en charge thérapeutique postopératoire palliative
+T51	PROC 1574 1598	remplissage vasculorénal
+T52	ANAT 1586 1598	vasculorénal
+T53	PROC 1646 1683	toilette pulmonaire digestive épaisse
+T54	ANAT 1655 1683	pulmonaire digestive épaisse
+T55	PROC 1688 1713	lavage oesogastroduodénal
+T56	ANAT 1695 1713	oesogastroduodénal
+T57	PROC 1730 1803	translation percutanéenne endotrachéale multirégionale périmédicamenteuse
+T58	TEMP 1815 1827	six semaines
+T59	TEMP 1872 1889	après trois jours
+T60	PROC 1897 1917	tumorectomie élargie
+T64	PROC 2166 2194	radiodiagnostic histologique
+T65	LIVB 2217 2225	patiente
+T66	DISO 2275 2298	infections nosocomiales
+T67	DISO 2320 2351	lésions érythémato-conjonctives
+T68	DISO 2393 2434	métaplasie kystique chronique obstructive
+T69	Concept_Idea 2447 2467	aspect morphologique
+T70	DISO 2484 2518	symptomatologie neuropsychiatrique
+T71	DISO 2606 2630	neurasthénie psychotique
+T72	DISO 2642 2666	hypersexualisme exacerbé
+T73	PROC 2713 2735	consultations externes
+T74	PROC 2840 2865	hémodialyse préopératoire
+T75	PROC 2900 2917	bilan étiologique
+T76	DISO 2952 2974	syndrome inflammatoire
+T77	MEAS 2979 2989	spécifique
+T78	CHEM 3012 3025	antibiotiques
+T79	CHEM 3032 3048	sulfaméthoxazole
+T80	CHEM 3101 3116	céphalosporines
+T81	PROC 3154 3178	néphrotomie exploratrice
+T82	DISO 3323 3387	récidive myxoendocrine primaire anévrysmale hypophysaire maligne
+T83	PROC 3399 3449	corticothérapie sinusale intraveineuse fractionnée
+T84	PROC 3463 3488	surveillance radiologique
+T85	Hospital 3525 3572	structures hospitalo-hospitalières pédiatriques
+T86	PROC 3600 3639	chimiothérapie antigrippale parentérale
+T87	DISO 3683 3722	maladie cœlio-papillonnaire congénitale
+T88	DISO 3728 3762	méningo-encéphalopathie diabétique
+T89	PROC 3823 3858	scanner thoraco- abdomino-abdominal
+T90	ANAT 3831 3858	thoraco- abdomino-abdominal
+T91	MEAS 3865 3883	strictement normal

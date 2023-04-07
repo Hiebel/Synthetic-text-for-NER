@@ -1,0 +1,31 @@
+T1	LIVB 29 37	patiente
+T2	DISO 59 84	antécédents pathologiques
+T3	MEAS 85 93	notables
+T4	PROC 95 101	admise
+T5	Hospital 106 114	urgences
+T6	DISO 124 153	douleurs épigastriques aiguës
+T7	ANAT 133 146	épigastriques
+T8	TEMP 163 179	depuis deux mois
+T9	PROC 183 198	examen clinique
+T10	PROC 203 212	admission
+T11	LIVB 226 234	patiente
+T12	MEAS 238 241	bon
+T13	Concept_Idea 242 254	état général
+T14	ANAT 285 297	péricardique
+T15	ANAT 320 333	poignet droit
+T16	Localization 328 333	droit
+T17	PROC 337 367	échographie abdomino-pelvienne
+T18	ANAT 349 367	abdomino-pelvienne
+T20	ANAT 523 540	vésicule biliaire
+T21	MEAS 550 555	20 cm
+T22	Concept_Idea 559 568	grand axe
+T23	MEAS 577 581	4 cm
+T24	Concept_Idea 585 593	diamètre
+T25	ANAT 608 620	anses grêles
+T26	PROC 644 653	injection
+T27	CHEM 657 667	sufentanil
+T28	DOSE 669 682	0,3 µg/kg/min
+T29	PROC 689 725	TDM abdomino-pelvienne transfixiante
+T30	ANAT 693 725	abdomino-pelvienne transfixiante
+T31	PROC 746 770	anesthésie locorégionale
+T32	ANAT 757 770	locorégionale

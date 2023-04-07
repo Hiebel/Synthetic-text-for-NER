@@ -1,0 +1,32 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	PROC 53 78	chimiothérapie palliative
+T4	DOSE 80 85	60 mg
+T5	CHEM 88 99	Adriamycine
+T6	MODE 101 111	voie orale
+T7	PROC 136 159	radiothérapie adjuvante
+T8	PROC 166 204	radio-chimiothérapie conformationnelle
+T9	ANAT 221 241	fosse iliaque droite
+T10	Localization 235 241	droite
+T11	LIVB 269 275	enfant
+T12	PROC 281 317	contraception cardio-vasculopressive
+T13	DEVI 295 317	cardio-vasculopressive
+T14	PROC 322 365	traitement médical progestatifs substitutif
+T15	CHEM 379 399	méthylhydrocortisone
+T16	CHEM 401 425	béta méthoxyprogesterone
+T17	CHEM 427 447	hydroxy-progestérone
+T18	PROC 461 502	hormonothérapie substitutive probabiliste
+T19	DISO 580 596	signes cliniques
+T20	DISO 623 631	surpoids
+T21	DISO 638 685	syndrome d'épanchement intrapéritonéal biliaire
+T22	ANAT 661 685	intrapéritonéal biliaire
+T23	PROC 709 731	traitement étiologique
+T24	CHEM 747 766	médico-chirurgicaux
+T25	ANAT 793 823	veine rénale supérieure droite
+T26	Localization 817 823	droite
+T27	PROC 948 968	suivi postopératoire
+T28	DISO 987 1000	récidivations
+T29	PHEN 1052 1077	cotrimoxazole parenterale
+T30	MEAS 1126 1131	1/10°
+T31	TEMP 1145 1152	12 mois
+T32	MEAS 1160 1165	0/4 °

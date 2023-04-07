@@ -1,0 +1,38 @@
+T1	LIVB 21 28	patient
+T2	Concept_Idea 49 80	antécédents médico-chirurgicaux
+T3	MEAS 81 89	notables
+T4	PROC 91 96	admis
+T5	Hospital 101 109	urgences
+T6	DISO 119 145	tuméfaction du flanc droit
+T7	ANAT 134 145	flanc droit
+T8	Localization 140 145	droit
+T9	MEAS 157 172	progressivement
+T10	Concept_Idea 176 182	volume
+T11	TEMP 192 206	depuis un mois
+T12	PROC 210 225	examen clinique
+T14	ANAT 284 291	ombilic
+T15	MEAS 301 305	6 cm
+T16	Concept_Idea 309 318	grand axe
+T17	DISO 323 334	douloureuse
+T18	PROC 339 358	bilan immunologique
+T19	MEAS 365 372	négatif
+T20	DISO 390 417	polynucléaires neutrophiles
+T21	ANAT 426 451	liquide céphalo-rachidien
+T22	PROC 456 487	échographie abdomino- pelvienne
+T23	ANAT 468 487	abdomino- pelvienne
+T24	DISO 512 1126	masse kystique tissulaire hypo échogène hypersignal T2 hyper-signal T2* intéressant tout le utérus faisant 17mm de grand axe envahissant intimement tous les parties molles abdominales ainsi qu'une hyppression artérielle péripéritonéale chiffrée à 20 mmHg évoquant plutôt une carcinose épithélio-gigantocellulaire utérine compliquée d'agénésie ganglionnaire prurigineuse latéro-péritonéale infarcto-folliculaire pariétale cervico-supra-myometricielle séreuxganglionnaire mésentérinaire vésulo-interstitiel hyo-caverne pancréatique résiduelle lithiasique splénomégalo-duodénarienne d'épanchement péritonéal liquidien
+T25	ANAT 604 610	utérus
+T26	MEAS 619 623	17mm
+T27	Concept_Idea 627 636	grand axe
+T28	ANAT 669 695	parties molles abdominales
+T29	DISO 709 747	hyppression artérielle péripéritonéale
+T30	ANAT 721 747	artérielle péripéritonéale
+T31	MEAS 759 766	20 mmHg
+T32	DISO 787 832	carcinose épithélio-gigantocellulaire utérine
+T33	ANAT 797 832	épithélio-gigantocellulaire utérine
+T34	ANAT 1106 1126	péritonéal liquidien
+T35	DISO 1161 1182	détresse respiratoire
+T36	PHEN 1170 1182	respiratoire
+T37	MEAS 1192 1202	impérieuse
+T38	PROC 1237 1261	scanner abdomino-pelvien
+T39	ANAT 1245 1261	abdomino-pelvien

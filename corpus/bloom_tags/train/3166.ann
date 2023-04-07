@@ -1,0 +1,65 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 49 74	antécédents pathologiques
+T3	MEAS 75 87	particuliers
+T4	DISO 108 129	douleur du sein droit
+T5	ANAT 119 129	sein droit
+T6	Localization 124 129	droit
+T7	DISO 137 162	vomissements alimentaires
+T8	MEAS 177 188	progressive
+T9	TEMP 198 211	depuis 2 mois
+T10	PROC 215 230	examen clinique
+T11	PROC 235 244	admission
+T12	LIVB 258 266	patiente
+T13	MEAS 270 273	bon
+T14	Concept_Idea 274 286	état général
+T15	DISO 288 299	polypnéique
+T16	MEAS 302 315	28 cycles/min
+T17	PHEN 324 329	pouls
+T18	MEAS 341 359	100 battements/min
+T19	PROC 364 384	ponction liquide axé
+T20	ANAT 373 384	liquide axé
+T21	DISO 426 446	ictère choléstatique
+T22	CHEM 478 494	sulfaméthoxazole
+T23	DOSE 496 504	400mg/kg
+T24	TEMP 504 510	/ jour
+T25	MODE 512 524	intraveineux
+T26	CHEM 538 548	furosémide
+T27	DOSE 550 557	2 mg/kg
+T28	TEMP 557 559	/j
+T29	CHEM 562 573	périndopril
+T30	DOSE 575 580	75 mg
+T31	TEMP 580 582	/J
+T32	CHEM 585 598	acénocoumarol
+T33	DOSE 600 606	200 mg
+T34	TEMP 606 608	/J
+T35	CHEM 611 624	bromocriptine
+T36	DOSE 626 631	20 mg
+T37	TEMP 631 633	/J
+T38	CHEM 636 650	hydrocortisone
+T39	DOSE 652 657	50 mg
+T40	TEMP 657 659	/J
+T41	CHEM 662 675	dexaméthasone
+T42	DOSE 677 682	10 mg
+T43	TEMP 682 684	/J
+T44	CHEM 687 701	ciprofloxacine
+T45	DOSE 703 709	600 mg
+T46	TEMP 709 711	/J
+T47	CHEM 714 727	métronidazole
+T48	DOSE 729 732	1 g
+T49	TEMP 732 734	/J
+T50	CHEM 737 755	méthylprednisolone
+T51	DOSE 757 762	60 mg
+T52	TEMP 762 764	/J
+T53	CHEM 767 780	noradrénaline
+T54	DOSE 782 789	3 µg/kg
+T55	TEMP 789 791	/h
+T56	CHEM 794 822	tachycardium glycorésistante
+T57	PROC 848 874	scanner abdomino- périnéal
+T58	ANAT 856 874	abdomino- périnéal
+T59	DISO 891 932	hypertrophie épanchement hépato-splénique
+T61	ANAT 916 932	hépato-splénique
+T62	CHEM 989 1009	produit de contraste
+T63	MEAS 1019 1023	14cm
+T64	Concept_Idea 1027 1036	grand axe
+T65	ANAT 1054 1065	flanc droit
+T66	Localization 1060 1065	droit

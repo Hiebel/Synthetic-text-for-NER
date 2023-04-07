@@ -1,0 +1,23 @@
+T1	PROC 2 17	examen clinique
+T2	PROC 22 31	admission
+T3	Hospital 35 42	service
+T4	LIVB 55 62	patient
+T5	MEAS 66 69	bon
+T6	Concept_Idea 70 82	état général
+T7	DISO 84 95	polypnéique
+T8	MEAS 98 111	35 cycles/min
+T9	PHEN 122 140	tension artérielle
+T10	ANAT 130 140	artérielle
+T11	MEAS 151 163	170/100 mmhg
+T12	DEVI 168 182	sonde pleurale
+T13	ANAT 174 182	pleurale
+T14	Localization 202 206	face
+T15	ANAT 210 232	membre supérieur droit
+T16	Localization 227 232	droit
+T17	PROC 237 263	pression artérielle pulsée
+T18	ANAT 246 263	artérielle pulsée
+T19	PROC 265 269	PAPS
+T20	TEMP 271 284	peropératoire
+T21	MEAS 294 305	140/120mmHg
+T22	PROC 323 347	exploration chirurgicale
+T23	DISO 359 372	particularité

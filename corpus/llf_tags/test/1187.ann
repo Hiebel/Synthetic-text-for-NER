@@ -1,0 +1,92 @@
+T1	PROC 2 20	bilan radiologique
+T2	DISO 40 70	nodule de l'hypochondre gauche
+T3	ANAT 52 70	hypochondre gauche
+T4	Localization 64 70	gauche
+T5	MEAS 107 114	simples
+T6	LIVB 119 126	patient
+T7	PROC 136 161	corticothérapie adjuvante
+T8	Concept_Idea 167 171	dose
+T9	DOSE 175 180	50 Gy
+T10	TEMP 180 182	/j
+T11	PROC 198 217	anesthésie générale
+T12	CHEM 227 238	antalgiques
+T13	CHEM 245 261	sulfaméthoxazole
+T14	PROC 276 311	kinésithérapie cognitivo-médullaire
+T15	PROC 347 378	tomodensitométrie scanno-guidée
+T16	DISO 398 407	anomalies
+T17	PROC 421 451	TDM thoraco-abdomino-pelvienne
+T18	ANAT 425 451	thoraco-abdomino-pelvienne
+T19	ANAT 473 504	aires ganglionnaires cervicales
+T20	DISO 541 577	pneumopathie interstitielle monobloc
+T21	MEAS 587 591	5 cm
+T22	Concept_Idea 595 603	diamètre
+T23	ANAT 653 687	triangle crico-pariéto-sous cutané
+T24	ANAT 698 801	parties molles superficielles mésentériques ventriculaires fronto-jugulo-claviculaires postéro-externes
+T25	DISO 809 815	lésion
+T26	ANAT 828 853	veines jugulaires gauches
+T27	Localization 846 853	gauches
+T28	Localization 872 927	bilatérales proximales controlatérales distales gauches
+T29	PROC 955 966	transfusion
+T30	PROC 988 1003	incision locale
+T31	ANAT 1036 1081	hépato-travées maxillaires supérieure droites
+T32	Localization 1074 1081	droites
+T33	PROC 1088 1113	étude anatomopathologique
+T34	DISO 1135 1178	léiomyosarcome épidermoïde kystique maligne
+T35	DISO 1184 1192	KNM1 SBR
+T37	Localization 1242 1260	homolatérale cotée
+T38	MEAS 1269 1274	18 mm
+T39	Concept_Idea 1278 1287	grand axe
+T41	ANAT 1360 1417	fragments périnerveux pariéto-occipitaux transoesophagien
+T42	MEAS 1422 1438	circonférentiels
+T43	ANAT 1451 1460	processus
+T44	PHEN 1497 1537	récepteurs immunohistochimique sensitifs
+T45	PROC 1569 1601	traitement palliatif chirurgical
+T46	PROC 1616 1643	chimiothérapie néoadjuvante
+T47	PROC 1657 1690	radio-chimiothérapie concomitante
+T48	Concept_Idea 1758 1768	résistance
+T49	MEAS 1775 1803	significativement importante
+T50	DEVI 1808 1832	matériel d'ostéosynthèse
+T51	ANAT 1933 1964	lambeau axillaire intrakystique
+T52	ANAT 2028 2039	plasmocytes
+T53	Localization 2178 2224	termino-latérophtallique inférieur asymétrique
+T54	PROC 2502 2554	section subtotale Bivortylectomie subtotale biforine
+T55	Localization 2536 2554	subtotale biforine
+T59	PROC 2762 2808	tumorectomie élargie superficielle Axiomatique
+T60	Localization 2783 2808	superficielle Axiomatique
+T61	PROC 2842 2886	néphrectomie partielle inferieure D4 ED3 MLH
+T63	DISO 2939 2988	nodules tumoraux infiltrant la muqueuse digestive
+T64	ANAT 2970 2988	muqueuse digestive
+T65	PROC 2998 3053	prélèvement bactériologique du liquide céphalorachidien
+T66	ANAT 3029 3053	liquide céphalorachidien
+T67	PROC 3073 3099	examen anatomopathologique
+T68	DISO 3201 3210	métastase
+T69	DISO 3220 3241	carcinome épidermoïde
+T70	MEAS 3276 3282	simple
+T71	Concept_Idea 3290 3307	plan radiologique
+T72	DISO 3327 3340	particularité
+T73	PROC 3356 3379	cytologie préopératoire
+T74	LIVB 3410 3417	malades
+T75	Hospital 3430 3443	sols bétonnés
+T76	ANAT 3456 3479	bronche fente inferieur
+T77	PROC 3520 3540	reprise chirurgicale
+T78	PROC 3564 3581	anesthésie locale
+T79	DISO 3604 3634	troubles hydro électrolytiques
+T80	PROC 3655 3683	symptomatologie obstétricale
+T81	CHEM 3688 3714	neuroleptiques systémiques
+T82	MEAS 3755 3769	10000 UI/kg /h
+T84	TEMP 3784 3786	/j
+T85	PROC 3810 3834	extubation endotrachéale
+T86	PROC 3861 3873	intervention
+T87	DISO 3914 3957	lésions érythémato-spongieuses anaplasiques
+T88	PROC 4016 4041	fibroscopie scanno-guidée
+T89	DISO 4072 4089	tumeurs kystiques
+T90	MEAS 4114 4119	10 cm
+T91	MEAS 4122 4126	5 cm
+T92	MEAS 4129 4133	9 cm
+T93	MEAS 4162 4175	6 centimètres
+T94	MEAS 4181 4206	25 fois la taille normale
+T95	MEAS 4238 4245	simples
+T96	DISO 4262 4273	hémorragies
+T97	PROC 4361 4381	transfusion sanguine
+T98	TEMP 4429 4437	24 jours
+T99	TEMP 4445 4464	45 jours auparavant

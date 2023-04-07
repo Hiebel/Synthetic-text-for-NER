@@ -1,0 +1,66 @@
+T1	LIVB 20 25	fille
+T2	TEMP 29 35	12 ans
+T3	Concept_Idea 42 53	antécédents
+T4	MEAS 54 62	notables
+T5	PROC 64 70	admise
+T6	Hospital 75 83	urgences
+T7	DISO 93 105	vomissements
+T8	TEMP 115 129	depuis 3 jours
+T9	PROC 133 148	examen clinique
+T10	LIVB 162 170	patiente
+T11	MEAS 174 177	bon
+T12	PHEN 178 204	développement psychomoteur
+T13	Concept_Idea 213 218	poids
+T14	MEAS 222 227	10 kg
+T15	Concept_Idea 235 241	taille
+T16	MEAS 245 250	76 cm
+T17	LIVB 252 255	Ses
+T18	ANAT 256 275	muqueuses vaginales
+T19	Concept_Idea 286 292	aspect
+T20	MEAS 293 299	normal
+T21	PROC 303 333	auscultation cardio-vasculaire
+T22	ANAT 316 333	cardio-vasculaire
+T23	MEAS 340 347	normale
+T24	PROC 362 388	pression artérielle pulsée
+T25	ANAT 371 388	artérielle pulsée
+T26	PROC 390 394	PAPS
+T27	MEAS 404 416	110/70 mm Hg
+T28	ANAT 430 465	sinus caverneux supérieur bilatéral
+T29	Localization 456 465	bilatéral
+T30	PROC 482 507	examen somatométrologique
+T31	DISO 541 579	syndrome d'épanchement intrapéritonéal
+T32	ANAT 564 579	intrapéritonéal
+T33	LIVB 619 627	patiente
+T34	LIVB 637 641	elle
+T35	DISO 669 678	symptômes
+T36	DISO 705 717	palpitations
+T37	DISO 728 749	troubles métaboliques
+T38	PROC 753 793	TDM abdomino- pelvienne trans-thoracique
+T39	ANAT 757 793	abdomino- pelvienne trans-thoracique
+T41	DEVI 855 878	technique de Mac Gregor
+T42	DISO 894 943	dilatation péritumorale pancréatique hypoéchogène
+T43	ANAT 960 981	parois pariéto-cæcale
+T44	MEAS 991 995	30cm
+T45	Concept_Idea 999 1008	grand axe
+T46	MEAS 1013 1017	14cm
+T47	Concept_Idea 1021 1032	petits axes
+T48	PROC 1050 1059	injection
+T49	CHEM 1063 1083	produit de contraste
+T50	ANAT 1101 1115	méso-péritoine
+T51	DISO 1122 1169	adénopathies hétérogènes tissulaires hypodenses
+T52	PROC 1189 1198	injection
+T53	DOSE 1202 1210	0,5mg/kg
+T54	CHEM 1214 1234	produit de contraste
+T55	DISO 1287 1333	hémangioendothélium érythémateux purulonécrase
+T56	DISO 1372 1392	traumatisme kystique
+T57	DISO 1402 1425	anomalies hydro-aérique
+T58	DISO 1623 1662	carcinome épidermo-giganto-adipocytaire
+T59	ANAT 1633 1662	épidermo-giganto-adipocytaire
+T60	PROC 1849 1869	traitement palliatif
+T61	TEMP 1905 1910	2 ans
+T62	DISO 1941 1986	lésion nodule prurigineuse ulcéro-sécrétrante
+T63	MEAS 1998 2013	progressivement
+T64	Concept_Idea 2017 2023	volume
+T65	ANAT 2053 2067	corps chevelés
+T66	DISO 2135 2164	kyste hydatique hypertrophiés
+T67	DISO 2204 2233	métastases nécrtico-kystiques

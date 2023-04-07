@@ -1,0 +1,41 @@
+T1	LIVB 4 7	S.Z
+T2	PROC 29 35	admise
+T3	Hospital 40 48	urgences
+T4	DISO 68 110	syndrome d'épanchement liquidien infarctus
+T5	ANAT 91 110	liquidien infarctus
+T6	CHEM 137 148	bupivacaine
+T7	MODE 151 156	bolus
+T8	DOSE 156 165	0,6 mg/kg
+T9	DEVI 168 194	cathéter jugulo-carotidien
+T10	ANAT 177 194	jugulo-carotidien
+T11	PROC 198 222	diagnostic préopératoire
+T12	DISO 247 284	hémorragie intrapéritonéale purulente
+T13	ANAT 258 284	intrapéritonéale purulente
+T14	DISO 332 358	troubles sensitivo-moteurs
+T15	Concept_Idea 390 402	état général
+T16	PROC 423 450	stabilisation radioclinique
+T17	DISO 513 546	chirurgie iléo-basilico-duodénale
+T18	ANAT 523 546	iléo-basilico-duodénale
+T19	LIVB 645 658	jeunepatiente
+T20	DISO 678 725	maladie thromboembolique veineuse superficielle
+T21	DISO 731 746	AVC systématisé
+T22	DISO 929 959	hyperthyroïdie nécrose cutanée
+T23	ANAT 981 1012	aires ganglionnaires cervicales
+T24	DISO 1077 1101	thrombophilie congolaise
+T25	DISO 1119 1142	pathologie neurologique
+T26	DISO 1168 1179	néoplasique
+T27	DISO 1242 1295	Syndrome d’épanchement intra-parenchymateux liquidien
+T28	ANAT 1265 1295	intra-parenchymateux liquidien
+T29	DISO 1342 1350	polypnée
+T30	MEAS 1362 1375	28 cycles/min
+T31	MEAS 1385 1410	de plus en plus difficile
+T32	PROC 1426 1435	admission
+T33	DISO 1455 1472	atteinte visuelle
+T34	DISO 1558 1588	œdème muqueux pharyngotracheal
+T35	ANAT 1564 1588	muqueux pharyngotracheal
+T36	DISO 1603 1632	dyspnée stade II de Balthazar
+T37	MEAS 1647 1672	progressivement accentuée
+T38	TEMP 1821 1833	cinq minutes
+T39	DISO 1887 1907	hypertrophie maligne
+T40	PROC 1929 1956	traitement médical adjuvant
+T41	CHEM 2068 2097	anti-coagulants circulatoires

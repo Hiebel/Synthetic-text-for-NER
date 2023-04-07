@@ -1,0 +1,27 @@
+T1	LIVB 15 25	nourrisson
+T2	TEMP 33 39	6 mois
+T3	DISO 117 137	douleurs abdominales
+T4	ANAT 126 137	abdominales
+T5	DISO 153 174	syndrome hémorragique
+T6	PROC 184 187	CRP
+T7	MEAS 190 197	39 mg/L
+T8	PROC 202 219	bilan étiologique
+T9	DISO 231 244	particularité
+T10	PROC 258 284	fibroscopie oeso-gastrique
+T11	ANAT 270 284	oeso-gastrique
+T12	Concept_Idea 325 333	résultat
+T13	MEAS 343 354	particulier
+T14	PROC 359 376	tomodensitométrie
+T15	PROC 378 418	TDM) cervico-thoraco-abdomino- pelvienne
+T16	ANAT 383 418	cervico-thoraco-abdomino- pelvienne
+T17	DISO 453 497	distension occlusale pariéto-temporale droit
+T18	ANAT 464 497	occlusale pariéto-temporale droit
+T19	Localization 492 497	droit
+T20	PHEN 517 538	fonctions supérieures
+T21	DISO 556 583	symptomatologie douloureuse
+T22	PROC 589 610	radiothérapie externe
+T23	PROC 627 637	traitement
+T24	CHEM 642 652	paclitaxel
+T25	DISO 718 739	signes inflammatoires
+T26	PROC 744 754	traitement
+T27	Concept_Idea 830 848	état hémodynamique

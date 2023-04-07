@@ -1,0 +1,15 @@
+T1	LIVB 3 10	patient
+T2	PHEN 26 46	grossesse gémellaire
+T3	PROC 51 57	suivie
+T5	MEAS 153 158	2930g
+T6	MEAS 162 167	3000g
+T7	MEAS 177 185	premiers
+T8	MEAS 278 287	spontanée
+T9	PROC 304 331	traitement médical adjuvant
+T10	PROC 352 376	techniques contraceptifs
+T12	MEAS 868 894	difficilement appréciables
+T13	Concept_Idea 914 924	profondeur
+T14	MEAS 933 950	inférieure à 1 cm
+T15	PROC 963 979	bilan infectieux
+T16	PROC 1027 1036	pronostic
+T17	PROC 1299 1333	examen clinique pluridisciplinaire

@@ -1,0 +1,30 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 100	scanner cervico-thoracique
+T3	ANAT 82 100	cervico-thoracique
+T4	PROC 102 105	SCT
+T5	DISO 122 163	nodule du sinus caverneux médiastin droit
+T6	ANAT 132 163	sinus caverneux médiastin droit
+T7	Localization 158 163	droit
+T8	ANAT 179 197	épiploon gastrique
+T10	ANAT 209 221	pancréatique
+T11	PROC 236 258	biopsies chirurgicales
+T12	DISO 322 328	nodule
+T13	DISO 359 389	granulome érythémato-pustuleux
+T14	DISO 437 470	syndrome inflammatoire biologique
+T15	DISO 477 511	maladie thromboembolique dissociée
+T16	LIVB 532 540	patiente
+T17	Hospital 566 591	urgences ophtalmologiques
+T18	DISO 604 620	évènement cutané
+T19	TEMP 630 646	depuis deux mois
+T20	PROC 690 718	radiothérapie complémentaire
+T21	PHEN 750 759	digestive
+T22	DISO 763 779	tumorale maligne
+T23	DISO 819 873	chirurgie parathyroïdienne biliaire carcinophagiquante
+T24	ANAT 829 873	parathyroïdienne biliaire carcinophagiquante
+T25	DISO 903 913	métastases
+T26	PROC 990 1013	diagnostic différentiel
+T27	DISO 1049 1087	masse kystique cervicale hypertrophiée
+T28	MEAS 1128 1133	19 cm
+T29	Concept_Idea 1137 1146	grand axe
+T30	ANAT 1175 1196	muqueuse œsophagienne
+T31	DISO 1344 1359	lésionkystiques

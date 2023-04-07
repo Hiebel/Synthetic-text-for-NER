@@ -1,0 +1,67 @@
+T1	LIVB 16 24	patiente
+T2	DISO 67 81	épigastralgies
+T3	TEMP 91 104	depuis 2 mois
+T4	DEVI 133 145	vissé plâtré
+T5	PROC 165 171	traité
+T6	CHEM 180 207	médicaments antibacillaires
+T7	PROC 213 241	corticothérapie substitutive
+T8	CHEM 254 264	furosémide
+T9	CHEM 266 284	méthylprednisolone
+T10	DOSE 285 292	2 mg/kg
+T11	TEMP 292 294	/j
+T12	MODE 296 309	intraveineuse
+T13	CHEM 323 358	anti-inflammatoires non-stéroïdiens
+T14	CHEM 360 373	bêtaméthasone
+T15	CHEM 376 387	paracétamol
+T16	PROC 401 425	chimiothérapie adjuvante
+T17	LIVB 455 463	patiente
+T18	DISO 539 561	diabète mal métabolisé
+T19	LIVB 586 597	jeune homme
+T20	TEMP 605 611	20 ans
+T21	LIVB 651 655	elle
+T22	PROC 674 704	traitement curatif chirurgical
+T23	PROC 783 795	prélèvements
+T24	CHEM 839 851	sulftriaxone
+T25	DISO 1171 1191	souffrance néonatale
+T26	MEAS 1868 1871	6cm
+T27	Concept_Idea 1875 1884	grand axe
+T28	MEAS 1970 1982	environ 6 cm
+T29	MEAS 1985 1989	4 cm
+T30	DISO 2097 2126	symptomatologies intestinales
+T31	DISO 2177 2198	détresse respiratoire
+T32	PHEN 2186 2198	respiratoire
+T33	DISO 2238 2252	ictère fébrile
+T34	DISO 2262 2273	traumatique
+T35	LIVB 2296 2306	adolescent
+T36	Concept_Idea 2323 2340	état neurologique
+T37	LIVB 2385 2387	il
+T38	DISO 2503 2525	accouchement prématuré
+T39	LIVB 2707 2715	patients
+T40	PROC 2717 2728	Observation
+T41	MEAS 2729 2730	2
+T42	LIVB 2752 2760	patiente
+T43	TEMP 2769 2775	24 ans
+T44	PROC 2787 2793	admise
+T45	DISO 2803 2829	tuméfaction du flanc droit
+T46	ANAT 2818 2829	flanc droit
+T47	Localization 2824 2829	droit
+T48	MEAS 2845 2856	progressive
+T49	TEMP 2866 2878	depuis un an
+T50	PROC 2883 2903	biopsie exploratrice
+T51	DISO 2933 2954	carcinome épidermoïde
+T52	PROC 2960 2985	étude immunohistochimique
+T53	PROC 2987 2990	IHC
+T54	PROC 3032 3054	résection chirurgicale
+T55	PROC 3060 3084	anesthésie préopératoire
+T56	PROC 3098 3125	traitement médical adjuvant
+T57	PROC 3148 3171	diagnostic différentiel
+T58	DISO 3237 3270	syndrome d'épanchement péritonéal
+T59	ANAT 3260 3270	péritonéal
+T60	DISO 3275 3308	paragangliome achromogranocytaire
+T61	DISO 3370 3387	lésions associées
+T62	ANAT 3424 3432	urinaire
+T63	ANAT 3436 3446	pulmonaire
+T64	CHEM 3590 3608	anti-œstrogéniques
+T65	DEVI 3744 3765	broches artificielles
+T66	DISO 3814 3846	pathophysiologiques malformatifs
+T67	DISO 3917 3945	myometrorragie hypertrophiés

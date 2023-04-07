@@ -1,0 +1,17 @@
+T1	PROC 2 28	examen
+T2	PROC 34 49	biopsie
+T3	ANAT 42 49	cutanée
+T4	DISO 81 89	tumorale
+T5	DISO 99 106	nodules
+T6	ANAT 132 147	tissu
+T7	ANAT 180 195	sinus
+T8	ANAT 201 219	cellules
+T9	DISO 201 219	cellules
+T10	MEAS 235 258	en
+T11	MEAS 264 272	quelques
+T12	ANAT 273 297	noyaux
+T13	DISO 273 297	noyaux
+T14	MEAS 298 307	atypiques
+T15	DISO 322 332	cytoplasme
+T16	MEAS 333 353	moyennement
+T17	PROC 393 426	observations

@@ -1,0 +1,43 @@
+T1	LIVB 4 12	patiente
+T2	MEAS 29 38	nullipare
+T3	MEAS 71 78	notable
+T4	DISO 106 119	consanguinité
+T5	PROC 124 130	admise
+T6	Hospital 135 143	urgences
+T7	DISO 155 188	douleur abdomino-pelvienne aiguée
+T8	ANAT 163 181	abdomino-pelvienne
+T9	MEAS 203 210	modérée
+T10	PROC 220 235	examen clinique
+T11	DISO 240 286	sensibilité rétropéritonéale latéro-supérieure
+T13	Concept_Idea 298 313	progressivement
+T14	Concept_Idea 317 323	volume
+T15	TEMP 333 350	depuis deux jours
+T16	DISO 367 382	symptomatologie
+T17	DISO 406 412	fièvre
+T18	MEAS 424 429	39°8C
+T19	DISO 436 474	syndrome d'épanchement intrapéritonéal
+T20	ANAT 459 474	intrapéritonéal
+T21	DISO 508 528	diarrhée généralisée
+T22	DISO 549 565	signes digestifs
+T23	DISO 604 626	dégénérescence utérine
+T24	ANAT 619 626	utérine
+T25	MODE 632 642	voie orale
+T26	LIVB 654 662	patiente
+T27	PROC 672 681	admission
+T28	DISO 728 741	choléstatique
+T29	PROC 769 800	traitement médical conservateur
+T30	CHEM 813 823	nifédipine
+T31	CHEM 825 838	phénobarbital
+T32	CHEM 840 851	ceftriaxone
+T33	CHEM 853 866	noradrénaline
+T34	CHEM 868 879	hydroxyzine
+T35	CHEM 881 892	ethionamide
+T36	CHEM 894 905	paracétamol
+T37	CHEM 907 920	métronidazole
+T38	CHEM 922 947	metformyl hydroxybutyrate
+T39	DISO 1092 1113	détresse respiratoire
+T40	PHEN 1101 1113	respiratoire
+T41	DISO 1129 1156	complications hémorragiques
+T42	DISO 1171 1190	insuffisance rénale
+T43	ANAT 1184 1190	rénale
+T44	DISO 1281 1300	maladie métabolique

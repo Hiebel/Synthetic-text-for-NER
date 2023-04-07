@@ -1,0 +1,21 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 73	notables
+T4	PROC 75 86	hospitalisé
+T5	Hospital 91 99	urgences
+T6	DISO 108 153	syndrome d'épanchement péricardique liquidien
+T7	ANAT 131 143	péricardique
+T8	TEMP 163 176	depuis 3 mois
+T9	DISO 191 219	dyspnée stade III de la NYHA
+T10	PROC 224 240	bilan biologique
+T11	Concept_Idea 254 278	vitesse de sédimentation
+T12	PROC 280 282	VS
+T13	MEAS 284 290	élevée
+T14	MEAS 293 298	45 mm
+T15	DISO 326 354	hyperpression intracrânienne
+T16	ANAT 340 354	intracrânienne
+T17	PROC 359 389	ponction pleurale exploratrice
+T18	ANAT 368 389	pleurale exploratrice
+T19	PROC 410 456	analyse bactériologique des liquides pleurales
+T20	ANAT 438 456	liquides pleurales
+T21	PROC 566 593	prélèvement purulent direct

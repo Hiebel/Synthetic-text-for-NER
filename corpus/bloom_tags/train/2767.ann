@@ -1,0 +1,34 @@
+T1	LIVB 16 24	patiente
+T2	DISO 59 80	hémodialyse chronique
+T3	DISO 85 112	cétaméthasone hypogastrique
+T4	PHEN 122 140	grossesse gémellée
+T5	PROC 145 151	suivie
+T6	PROC 164 170	admise
+T7	Hospital 174 196	service de réanimation
+T8	DISO 227 282	syndrome d'épanchement péricardique péribuccinocystique
+T9	ANAT 250 282	péricardique péribuccinocystique
+T10	PROC 310 340	échographie abdomino-pelvienne
+T11	ANAT 322 340	abdomino-pelvienne
+T12	DISO 357 429	masse tumorale hétérogène hypo échogène latéro utérine bilatérale gauche
+T13	Localization 412 429	bilatérale gauche
+T14	MEAS 439 444	20 cm
+T15	Concept_Idea 448 457	grand axe
+T16	ANAT 472 478	utérus
+T17	ANAT 499 528	symphyse ptérygo-métaphysaire
+T18	DISO 542 598	hypertrophie myometricielle basithoracique hypertrophiée
+T20	DISO 614 677	thrombose intra-vésiculaire liquidienne intestinale protéaginée
+T22	MEAS 685 688	50g
+T23	MEAS 690 707	bien systématisée
+T24	PROC 727 736	injection
+T25	DOSE 740 745	15 ml
+T26	CHEM 749 769	produit de contraste
+T27	MEAS 840 855	circonférencées
+T28	Concept_Idea 877 887	caractères
+T29	MEAS 888 897	réguliers
+T30	DEVI 927 949	ponction surrénalienne
+T31	ANAT 936 949	surrénalienne
+T32	MEAS 956 964	homogène
+T33	DISO 1004 1025	adénopathies malignes
+T34	DISO 1103 1131	données anatomopathologiques
+T35	DISO 1275 1299	epanchement péricardique
+T36	ANAT 1287 1299	péricardique

@@ -1,0 +1,23 @@
+T1	LIVB 4 9	femme
+T2	Hospital 98 119	urgences pédiatriques
+T3	LIVB 152 162	nourrisson
+T4	DISO 174 184	diabétique
+T6	CHEM 232 252	amoxicilline glyquée
+T7	CHEM 255 268	métronidazole
+T8	CHEM 270 286	acide valproique
+T9	LIVB 300 302	il
+T10	PROC 325 353	prise en charge chirurgicale
+T11	PROC 367 392	rééducation psychomotrice
+T12	PROC 453 485	néphrectomie digestive exclusive
+T13	PROC 519 537	traitement médical
+T14	LIVB 542 548	malade
+T15	DISO 617 634	épisodes aiguanés
+T16	MEAS 813 822	favorable
+T17	Concept_Idea 830 853	plan neuropsychiatrique
+T18	LIVB 1186 1192	garçon
+T19	TEMP 1200 1207	14 mois
+T20	LIVB 1304 1306	sa
+T21	LIVB 1307 1311	mère
+T22	PROC 1332 1344	hospitalisée
+T24	LIVB 1557 1560	son
+T25	LIVB 1561 1570	père aîné

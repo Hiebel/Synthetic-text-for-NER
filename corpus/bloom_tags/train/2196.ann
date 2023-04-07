@@ -1,0 +1,32 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	PHEN 44 49	pouls
+T4	MEAS 60 77	75 battements/min
+T6	MEAS 89 95	120 kg
+T7	Hospital 110 128	enfance scolarisée
+T8	DISO 145 158	consanguinité
+T9	MEAS 192 204	particuliers
+T10	DISO 222 254	syndrome d'épanchement bilatéral
+T11	Localization 245 254	bilatéral
+T12	DISO 260 293	adénopathies jugulo-carotidiennes
+T13	ANAT 273 293	jugulo-carotidiennes
+T14	TEMP 303 316	depuis 3 mois
+T15	PROC 341 359	traitement médical
+T16	CHEM 374 399	corticoïdes bêtaméthasone
+T17	CHEM 400 413	métronidazole
+T18	CHEM 416 434	méthylprednisolone
+T19	CHEM 436 454	hydroxychloroquine
+T20	MODE 456 472	intramusculaires
+T21	DISO 507 524	surdité néonatale
+T22	CHEM 602 636	anti inflammatoires non-stéroïdien
+T23	LIVB 672 677	fille
+T24	PROC 683 719	contraception hormonale progestative
+T25	CHEM 721 731	Tamoxifène
+T26	CHEM 734 745	Ceftriaxone
+T27	PROC 848 867	trajets électriques
+T28	LIVB 888 898	nouveau-né
+T29	DISO 918 941	bradycardie congénitale
+T30	PROC 1027 1048	ligature artificielle
+T31	DISO 1140 1156	craniomyotensors
+T32	PROC 1206 1237	échographie abdomino- pelvienne
+T33	ANAT 1218 1237	abdomino- pelvienne

@@ -1,0 +1,64 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 59 60	3
+T3	LIVB 61 68	enfants
+T4	PROC 70 76	Admise
+T5	Hospital 81 89	urgences
+T6	DISO 99 124	vomissements alimentaires
+T7	TEMP 134 156	depuis plusieurs jours
+T8	DISO 172 189	dyspnée sifflante
+T9	DISO 204 218	amaigrissement
+T10	MEAS 229 233	2 kg
+T11	Concept_Idea 235 261	indice de masse corporelle
+T12	MEAS 264 272	32kg/m 2
+T13	PROC 279 294	examen clinique
+T14	LIVB 299 307	patiente
+T15	DISO 314 321	fébrile
+T16	MEAS 324 330	38,5°C
+T17	Concept_Idea 352 364	état général
+T18	DISO 377 398	syndrome hémorragique
+T19	ANAT 412 434	membre supérieur droit
+T20	Localization 429 434	droit
+T21	PROC 470 496	anticoagulation préventive
+T22	DEVI 521 550	cathéter double lumière pulsé
+T23	PHEN 585 600	fonction rénale
+T24	ANAT 594 600	rénale
+T25	PROC 631 645	thyroïdectomie
+T26	CHEM 655 690	anti-inflammatoires non stéroïdiens
+T27	LIVB 752 755	son
+T28	LIVB 756 762	épouse
+T29	DISO 767 797	crise convulsive polymalformée
+T30	PROC 852 876	exploration chirurgicale
+T31	DISO 893 948	sténose pyélocalicielle monoclonale hypogastroduodénale
+T32	ANAT 976 1024	vésicules bilieux intraveineux sus mésentériques
+T33	MEAS 1033 1037	6 cm
+T34	ANAT 1066 1084	séances digestives
+T35	MEAS 1090 1098	normales
+T36	PROC 1104 1128	laparotomie exploratrice
+T37	PROC 1158 1202	néphrectomie partielle élargie scanno-guidée
+T38	ANAT 1221 1242	nerf fémoral proximal
+T39	Localization 1234 1242	proximal
+T40	PROC 1255 1284	radiodiagnostic préopératoire
+T42	PROC 1424 1511	curage colo-trachéo-œsophagien périchoroïdien postéro-antéro-extenseur gastropéritonéal
+T43	ANAT 1431 1511	colo-trachéo-œsophagien périchoroïdien postéro-antéro-extenseur gastropéritonéal
+T44	MEAS 1544 1551	simples
+T45	PROC 1558 1580	traitement chirurgical
+T46	DISO 1598 1623	complication neurologique
+T47	DISO 1627 1650	cardiologie infectieuse
+T48	PROC 1672 1697	étude anatomopathologique
+T50	PROC 2095 2113	geste histologique
+T51	PROC 2132 2185	manipulation immunohistochimique extemporanéoplasique
+T52	ANAT 2833 2839	urines
+T53	ANAT 2852 2868	tumeurs rectales
+T54	LIVB 2873 2881	patiente
+T55	PROC 2908 2930	résection endoscopique
+T56	PROC 2943 3070	curage ganglionnaire digestif transoesogastroduodénale scanno-trachéo-œsophagien intraveineux par voie sous mandibulaire direct
+T57	ANAT 2950 2997	ganglionnaire digestif transoesogastroduodénale
+T58	Concept_Idea 3081 3101	protocole opératoire
+T59	MEAS 3122 3131	favorable
+T60	DISO 3151 3178	décompensation psychomoteur
+T61	PHEN 3194 3213	nourrisson national
+T62	Hospital 3218 3239	urgences pédiatriques
+T63	DISO 3251 3259	incident
+T64	Concept_Idea 3320 3338	état hémodynamique
+T65	MEAS 3387 3393	stable
+T66	PROC 3456 3485	prise en charge thérapeutique

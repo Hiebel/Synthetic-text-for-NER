@@ -1,0 +1,53 @@
+T1	LIVB 4 9	femme
+T3	PHEN 54 60	rénale
+T4	DISO 65 105	carcinose parathyroïdienne hypertrophiée
+T5	ANAT 75 105	parathyroïdienne hypertrophiée
+T6	PROC 111 130	traitement adjuvant
+T7	CHEM 132 148	Cyclophosphamide
+T8	CHEM 151 164	dexaméthasone
+T9	DISO 184 213	tuberculose angulo-fistulisée
+T10	DISO 230 266	processus carcinomateux érythémateux
+T11	LIVB 373 382	patientes
+T12	PROC 403 422	étude rétrospective
+T13	MEAS 434 436	32
+T14	LIVB 437 446	patientes
+T15	MEAS 452 453	3
+T16	LIVB 454 463	patientes
+T17	DISO 495 532	broncho-pneumo-néphrite inflammatoire
+T18	CHEM 563 600	anti-inflammatoires non-stéroïdiennés
+T19	DISO 639 669	dyspnée stade III de Balthazar
+T20	PROC 703 739	scanner thoraco-laryngéo-oesophagien
+T21	ANAT 711 739	thoraco-laryngéo-oesophagien
+T22	MEAS 747 754	négatif
+T23	PROC 761 781	reprise chirurgicale
+T24	LIVB 801 806	fille
+T25	DISO 839 882	syndrome d'épanchement liquidien péritonéal
+T26	ANAT 862 882	liquidien péritonéal
+T27	DISO 904 928	bradycardies nécrétantes
+T28	MEAS 943 950	majeure
+T29	DISO 964 992	hypotension intrarachidienne
+T30	ANAT 976 992	intrarachidienne
+T31	MEAS 1005 1018	significative
+T32	DISO 1146 1168	diabète mal métabolisé
+T33	DISO 1174 1198	hyperglycémie diabétique
+T34	DISO 1239 1263	hépatectis cholestatique
+T35	PROC 1294 1349	radio-chirurgie radicale transfixiante locorégionalisée
+T36	PROC 1350 1360	abord LCRT
+T37	MEAS 1377 1390	indispensable
+T38	DISO 1429 1454	localisations hétérogènes
+T39	DISO 1559 1575	récidive tumoral
+T40	PROC 1664 1691	analyse anatomopathologique
+T41	DISO 1720 1752	lymphangiome lésionnel hypodense
+T42	DEVI 1777 1816	polynucléaires neutrophiles aspirateurs
+T43	ANAT 1846 1872	organes pharyngo-larynxaux
+T44	DISO 2067 2088	lésions hémorragiques
+T45	DISO 2136 2157	cellules épithéloïdes
+T46	MEAS 2300 2321	1085 000 éléments/mm³
+T47	LIVB 2326 2334	patiente
+T48	PROC 2355 2384	chimiothérapie antibacillaire
+T49	CHEM 2386 2397	Cyclosérine
+T50	CHEM 2399 2409	cisplatine
+T51	CHEM 2411 2420	Etoposide
+T52	CHEM 2424 2436	Pyrazinamide
+T53	DOSE 2438 2444	400 mg
+T54	TEMP 2444 2446	/j

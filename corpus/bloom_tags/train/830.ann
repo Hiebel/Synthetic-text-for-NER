@@ -1,0 +1,41 @@
+T1	LIVB 19 26	patient
+T2	DISO 47 72	antécédents pathologiques
+T3	MEAS 73 81	notables
+T4	PROC 83 94	hospitalisé
+T6	ANAT 113 124	abdominales
+T7	DISO 134 147	inflammatoire
+T8	MEAS 163 178	progressivement
+T9	Concept_Idea 182 188	volume
+T10	TEMP 198 211	depuis 6 mois
+T11	PROC 215 230	examen clinique
+T12	DISO 265 308	masse tumorale hypoéchogène hypersignalisée
+T13	MEAS 320 331	massivement
+T14	Concept_Idea 335 341	volume
+T15	MEAS 351 356	35 cm
+T16	Concept_Idea 360 369	grand axe
+T17	MEAS 374 378	24cm
+T18	Concept_Idea 382 391	petit axe
+T19	ANAT 406 470	hémi péristaltique iléo-sigmoïdien épiploïque abdominosigmoïdien
+T20	MEAS 485 493	centrale
+T21	DISO 517 545	lésions noduleuses kystiques
+T22	PROC 568 584	touche pelvienne
+T23	ANAT 575 584	pelvienne
+T24	PROC 599 615	examen somatique
+T25	DISO 641 660	anomalies associées
+T26	DISO 678 684	fièvre
+T27	DISO 691 716	sensibilité hypogastrique
+T28	ANAT 703 716	hypogastrique
+T29	LIVB 737 742	femme
+T30	DISO 747 779	carcinose endovaginale ovarienne
+T31	ANAT 757 779	endovaginale ovarienne
+T32	ANAT 805 815	tissulaire
+T33	DISO 852 881	perte de grêliquide menstruel
+T34	PHEN 861 881	grêliquide menstruel
+T35	DISO 940 958	kyste hypertrophié
+T36	PROC 1005 1036	exploration anatomopathologique
+T37	LIVB 1043 1047	elle
+T38	PROC 1063 1083	biopsie exploratrice
+T39	PROC 1090 1114	contraception palliative
+T40	PROC 1120 1146	surveillance échographique
+T41	MEAS 1155 1164	difficile
+T42	MEAS 1175 1186	volumineuse

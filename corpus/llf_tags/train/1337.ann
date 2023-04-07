@@ -1,0 +1,69 @@
+T1	LIVB 15 25	nouveau-né
+T2	TEMP 51 57	3 mois
+T3	PROC 68 73	opéré
+T4	DISO 83 113	tumeur du quatrième ventricule
+T5	ANAT 93 113	quatrième ventricule
+T6	DISO 151 164	particularité
+T7	PHEN 170 182	accouchement
+T8	MEAS 220 223	bon
+T9	Concept_Idea 224 251	développement psychomotrice
+T10	Concept_Idea 282 310	systèmes neuropsychiatriques
+T11	LIVB 319 329	nouveau-né
+T12	MEAS 335 339	N° 2
+T13	LIVB 343 349	garçon
+T14	TEMP 357 362	5 ans
+T15	TEMP 381 393	février 2014
+T16	PROC 409 437	consultation préanesthésique
+T17	LIVB 698 717	grand père maternel
+T18	PROC 923 957	traitement médical antipsychotique
+T19	CHEM 960 977	amoxicilline IgIV
+T20	CHEM 980 990	corticoïde
+T21	CHEM 992 1012	sulfate de magnésium
+T22	CHEM 1015 1045	pénicilline acide clavulanique
+T23	CHEM 1048 1077	triméthoprime® Acide citrique
+T24	CHEM 1080 1098	acide zolédronique
+T25	DOSE 1100 1109	100 mg/kg
+T26	TEMP 1109 1111	/j
+T27	PROC 1174 1203	antibiothérapie intraveineuse
+T28	PROC 1236 1277	prise en charge psychiatrique pédiatrique
+T29	Concept_Idea 1290 1321	chiffres teneurs hémodynamiques
+T30	CHEM 3048 3062	triméthoprimes
+T31	PROC 3080 3090	traitement
+T32	DISO 3095 3120	syndrome myélodysplasique
+T33	LIVB 3129 3136	patient
+T34	PHEN 3179 3200	grossesse monofoetale
+T35	PROC 3205 3211	suivie
+T36	Concept_Idea 3218 3234	âge gestationnel
+T37	TEMP 3236 3241	33 SA
+T38	LIVB 3266 3271	femme
+T39	PROC 3297 3303	admise
+T40	Hospital 3308 3331	urgences gynécologiques
+T41	DISO 3343 3349	fièvre
+T42	MEAS 3359 3374	progressivement
+T43	Concept_Idea 3384 3387	âge
+T44	TEMP 3391 3398	24 mois
+T45	LIVB 3413 3417	elle
+T46	PROC 3439 3460	lavage gastro-pelvien
+T47	ANAT 3446 3460	gastro-pelvien
+T48	DEVI 3499 3525	sonde naso-gastroduodénale
+T49	ANAT 3505 3525	naso-gastroduodénale
+T50	DISO 3541 3558	trouble menstruel
+T51	DISO 3569 3586	signes infectieux
+T52	PROC 3600 3615	examen physique
+T53	Concept_Idea 3651 3672	limites chirurgicales
+T54	LIVB 3684 3688	elle
+T55	Hospital 3708 3734	service gynéco-obstétrique
+T56	DISO 3760 3774	déficit moteur
+T57	DISO 3784 3805	symptôme pathologique
+T58	PROC 3819 3833	interrogatoire
+T59	LIVB 3840 3846	malade
+T60	Concept_Idea 3892 3915	plan neuropsychiatrique
+T61	PROC 3962 3983	mariage consanguinité
+T62	PROC 4063 4073	césarienne
+T63	DISO 4230 4257	pathologie maniaco-maniaque
+T64	PROC 4317 4352	prise en charge psychothérapeutique
+T65	LIVB 4426 4431	homme
+T66	PROC 4446 4470	chimiothérapie adjuvante
+T67	CHEM 4476 4488	Kétoconazole
+T68	DOSE 4491 4497	200 mg
+T69	TEMP 4500 4502	/j

@@ -1,0 +1,19 @@
+T1	PROC 2 26	exploration chirurgicale
+T2	DISO 40 46	tumeur
+T3	ANAT 62 68	épaule
+T4	Concept_Idea 78 84	aspect
+T5	DISO 101 136	métastase tumorale du paragangliome
+T6	ANAT 123 136	paragangliome
+T7	PROC 142 176	radiothérapie palliative adjuvante
+T8	Concept_Idea 198 202	dose
+T9	DOSE 206 211	70 Gy
+T10	MEAS 220 224	deux
+T11	ANAT 225 247	muscles paravertébraux
+T12	Localization 249 253	sous
+T13	PROC 280 308	chimiothérapie néo adjuvante
+T15	CHEM 339 355	Erythropoietin ®
+T16	DOSE 357 361	2 mg
+T17	TEMP 361 363	/J
+T18	CHEM 366 377	Cyclosérine
+T19	DOSE 380 387	1 mg/kg
+T20	TEMP 387 389	/J

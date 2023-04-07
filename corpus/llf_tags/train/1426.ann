@@ -1,0 +1,54 @@
+T1	DISO 57 80	infections parasitaires
+T2	LIVB 119 129	nourrisson
+T3	Concept_Idea 137 140	âge
+T4	TEMP 144 151	18 mois
+T5	LIVB 161 163	Il
+T6	PROC 172 177	admis
+T7	Hospital 182 203	urgences pédiatriques
+T8	DISO 223 250	détresse respiratoire aiguë
+T9	LIVB 304 317	primigranches
+T10	PROC 352 380	antibiothérapie probabiliste
+T11	PROC 458 473	soins intensifs
+T12	PROC 497 507	traitement
+T13	PROC 512 539	chimiothérapie néoadjuvante
+T14	CHEM 565 583	culots globulaires
+T15	CHEM 589 620	amoxicilline acide clavulanique
+T17	PROC 760 788	prise en charge diagnostique
+T18	PROC 817 842	étude immunohistochimique
+T19	Concept_Idea 1145 1151	nature
+T20	DISO 1152 1166	immunodéprimée
+T21	LIVB 1241 1247	enfant
+T22	PROC 1299 1336	laparotomie exploratrice endoscopique
+T23	PROC 1350 1388	radiothérapie palliative préopératoire
+T24	PROC 1404 1446	toilette gastro-duodénale intrascicatrisée
+T26	PROC 1447 1462	Tableau 3 ELISA
+T27	PROC 1478 1519	tumorectomie totale élargie scanno-guidée
+T28	PROC 1568 1593	surveillance obstétricale
+T29	PROC 1606 1675	hystérectomie large extemporanéphrine plan cutanée segmentaire IRM/RP
+T30	Concept_Idea 1753 1779	caractéristiques cliniques
+T31	PROC 1796 1827	exploration cytobactériologique
+T32	PROC 1837 1984	classification OMS 6N0 NIHZ1 Rating Score Molecular Psychiatry of Hormonal Embryology Clinical Immunopharmacology and Antigeneous Behavior Diabetes
+T33	MEAS 1986 1994	figure 7
+T34	PHEN 2000 2015	fonction rénale
+T35	ANAT 2009 2015	rénale
+T36	MEAS 2022 2035	satisfaisante
+T37	PROC 2041 2094	examen des aires ganglionnaires cervico-thyroïdiennes
+T38	ANAT 2052 2094	aires ganglionnaires cervico-thyroïdiennes
+T39	DISO 2107 2192	remaniement lymphatique érythémateux du quadrant supero-externe droit sagittal T2 LBK
+T41	Localization 2171 2176	droit
+T43	DISO 2286 2295	anomalies
+T44	PROC 2310 2333	contrôle postopératoire
+T45	LIVB 2350 2360	nouveau-né
+T46	PROC 2395 2416	prélèvement aspiratif
+T47	PROC 2434 2449	radiodiagnostic
+T48	DISO 2475 2534	pneumocéphalie myéloblastique hyperhétérogène hypokinétique
+T49	DISO 2562 2628	neurofibromatomyopathie auto-immune granulomateuse métachyscytaire
+T50	PROC 2669 2693	consultations prénatales
+T51	PROC 2699 2710	hémodialyse
+T52	PROC 2722 2748	anticoagulation préventive
+T53	DISO 2770 2789	syndrome infectieux
+T54	DISO 2796 2837	contage naso-œso-gastro-duodenal primaire
+T55	ANAT 2804 2828	naso-œso-gastro-duodenal
+T56	PROC 2842 2861	traitement adjuvant
+T57	PROC 2893 2921	chimiothérapie néo adjuvante
+T58	PROC 2940 2998	transfusion sanguine intraveineuse parentérale pédiatrique

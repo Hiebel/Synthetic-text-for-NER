@@ -1,0 +1,18 @@
+T1	LIVB 4 9	fille
+T2	TEMP 18 24	12 ans
+T3	DISO 103 115	hyperthermie
+T4	MEAS 127 133	40 ° C
+T5	DISO 135 149	amaigrissement
+T6	MEAS 160 164	6 kg
+T7	TEMP 169 188	premières 24 heures
+T8	DISO 418 446	symptomatologie neurologique
+T9	DISO 463 474	polypnéique
+T10	DISO 501 528	douleurs abdomino-pélvienne
+T11	ANAT 510 528	abdomino-pélvienne
+T12	DISO 538 551	inflammatoire
+T13	DISO 611 617	sueurs
+T14	MEAS 703 712	difficile
+T15	DISO 777 805	troubles neuropsychiatriques
+T16	PHEN 837 862	râles maternels/nocturnes
+T17	DISO 902 921	traumatisme crânien
+T18	DISO 928 976	séquelle neuro-cortico-hormonothérapie adjuvante

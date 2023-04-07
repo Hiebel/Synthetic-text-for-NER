@@ -1,0 +1,74 @@
+T1	DISO 27 52	antécédents pathologiques
+T2	MEAS 53 65	particuliers
+T3	DISO 94 114	tuméfaction du genou
+T4	ANAT 109 114	genou
+T5	TEMP 124 135	depuis 3ans
+T6	MEAS 150 165	progressivement
+T7	Concept_Idea 168 177	intensité
+T8	PROC 181 196	examen clinique
+T9	DISO 218 241	déficit sensitivomoteur
+T10	PROC 251 261	inspection
+T11	DISO 280 311	masse au niveau du cuir chevelu
+T12	ANAT 299 311	cuir chevelu
+T13	MEAS 320 326	6/7 cm
+T14	Localization 334 355	1/3 inferieur-externe
+T15	DISO 364 369	masse
+T16	PROC 382 391	retrouvée
+T17	LIVB 400 427	confrères kinésithérapeutes
+T18	ANAT 471 504	tendons fléchisseurs superficiels
+T19	ANAT 547 566	fléchisseur profond
+T20	PROC 571 587	bilan biologique
+T21	DISO 604 620	hyperleucocytose
+T22	MEAS 623 642	2500 éléments / mm³
+T23	MEAS 649 667	11 fois la normale
+T24	PROC 674 685	lymphocytes
+T25	MEAS 688 707	12200 éléments /mm³
+T26	MEAS 709 727	16 fois la normale
+T27	PHEN 733 748	fonction rénale
+T28	ANAT 742 748	rénale
+T29	MEAS 755 763	correcte
+T31	CHEM 802 827	amylasulfate de magnésium
+T32	DOSE 828 834	600 mg
+T33	TEMP 834 844	/24 heures
+T34	PROC 859 870	créatinémie
+T35	MEAS 881 902	0,5 µgramme par litre
+T36	DISO 982 1011	symptômes neuropsychiatriques
+T37	PROC 1025 1050	bilan préchimiothérapique
+T38	DISO 1062 1075	particularité
+T39	DISO 1106 1125	syndrome infectieux
+T40	DISO 1141 1160	signe inflammatoire
+T41	PROC 1174 1193	examens biologiques
+T42	DISO 1207 1239	dysfonctionnement vasculonerveux
+T43	DISO 1279 1310	hypoalbuminorrhée hypertrophiée
+T44	DISO 1327 1335	anorexie
+T45	DISO 1351 1372	distension pulmonaire
+T46	ANAT 1362 1372	pulmonaire
+T47	DISO 1504 1520	troubles visuels
+T48	ANAT 1542 1562	abdomino-palpébrales
+T49	ANAT 1697 1713	séance digestive
+T50	ANAT 2108 2126	rachidienne fœtale
+T51	PROC 2949 2975	examen anatomopathologique
+T52	PROC 2994 3004	diagnostic
+T53	MEAS 3041 3048	simples
+T54	DISO 3074 3103	symptômes neuropsychiatriques
+T55	DISO 3108 3147	déficit en neuroleptiques adrénergiques
+T56	CHEM 3119 3147	neuroleptiques adrénergiques
+T57	DISO 3158 3175	signes somatiques
+T58	TEMP 3204 3210	1 mois
+T59	TEMP 3233 3240	18 mois
+T60	LIVB 3245 3251	malade
+T61	PROC 3256 3265	transféré
+T62	Hospital 3270 3278	urgences
+T63	PROC 3284 3310	consultation psychiatrique
+T64	PROC 3316 3359	contrôle ophtalmologique multidisciplinaire
+T65	Concept_Idea 3383 3408	antécédents médico-légaux
+T66	DISO 3436 3463	psychose maniaco-dépressive
+T67	LIVB 3472 3479	patient
+T68	PROC 3484 3511	bilan radiologique standard
+T69	Concept_Idea 3654 3668	physiologiques
+T70	Concept_Idea 3746 3761	aspect clinique
+T71	DISO 3781 3804	récidive anaphylactoïde
+T72	DISO 3866 3880	amaigrissement
+T73	DISO 3907 3931	hypertension sartérielle
+T74	ANAT 3920 3931	sartérielle
+T75	DISO 3947 4013	douleur abdomino-palpébrale lombo-trachéale controlatérale abcédée

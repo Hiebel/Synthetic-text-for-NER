@@ -1,0 +1,21 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 46 51	7 ans
+T3	DISO 79 86	diabète
+T4	MEAS 87 93	type 2
+T5	DISO 114 153	insuffisance rénale chronique terminale
+T6	ANAT 127 133	rénale
+T7	PROC 155 166	créatinémie
+T8	MEAS 169 193	1,2 gramme par décilitre
+T9	LIVB 209 212	son
+T10	Concept_Idea 213 223	indication
+T11	DISO 252 276	symptomatologie clinique
+T12	TEMP 287 294	4 jours
+T13	PROC 313 323	traitement
+T14	DISO 355 361	fièvre
+T15	DISO 377 402	vomissements alimentaires
+T16	DISO 452 458	signes
+T17	PROC 489 503	interrogatoire
+T18	DISO 536 549	consanguinité
+T19	LIVB 560 564	deux
+T20	LIVB 565 572	enfants
+T21	LIVB 591 594	ils

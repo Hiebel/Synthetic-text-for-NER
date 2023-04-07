@@ -1,0 +1,19 @@
+T1	LIVB 20 28	patiente
+T2	PROC 40 45	reçue
+T3	Hospital 50 58	urgences
+T4	DISO 67 78	traumatisme
+T5	PROC 118 133	examen clinique
+T6	LIVB 151 159	patiente
+T7	MEAS 163 166	bon
+T8	Concept_Idea 167 179	état général
+T9	DISO 186 206	signes hémorragiques
+T10	ANAT 220 241	boudin d'invagination
+T11	ANAT 249 267	pavillons vaginaux
+T12	PROC 285 301	examen somatique
+T13	DISO 313 326	particularité
+T15	ANAT 352 366	oculomoteuriée
+T16	PROC 370 395	intervention chirurgicale
+T17	PROC 416 433	anesthésie locale
+T18	CHEM 439 447	propofol
+T19	DOSE 449 456	2 mg/kg
+T20	TEMP 456 463	/minute

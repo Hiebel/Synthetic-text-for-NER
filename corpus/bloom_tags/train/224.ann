@@ -1,0 +1,45 @@
+T1	LIVB 28 35	patient
+T2	PROC 72 127	chimiothérapie adjuvante locorégionale antihodgkinéenne
+T3	DISO 172 186	râles puriques
+T4	DISO 221 250	lésions érythémato-vomissives
+T5	DISO 314 340	pneumo-dilatation syndrome
+T6	LIVB 352 358	malade
+T7	PROC 364 382	traitement curatif
+T8	CHEM 393 400	taxanes
+T9	CHEM 404 428	médiocorticoïdes inhalés
+T10	PROC 465 487	diagnostic étiologique
+T11	DISO 522 551	pathophysiologies secondaires
+T12	DISO 569 602	syndrome inflammatoire biologique
+T13	DISO 609 630	troubles métaboliques
+T14	PROC 644 673	recherche immunohistochimique
+T15	MEAS 729 738	difficile
+T16	PROC 759 779	techniques invasives
+T17	MEAS 794 803	pratiques
+T18	PROC 926 954	investigations diagnostiques
+T19	PROC 1366 1389	manœuvres chirurgicales
+T20	DISO 1416 1432	abcès cœliosique
+T21	ANAT 1558 1578	intestinale grêlique
+T22	DISO 1595 1624	séquelles ischio-intestinales
+T23	DISO 1649 1680	hypogastronévralgie congénitale
+T24	DISO 1690 1713	circonférence ovarienne
+T25	ANAT 1704 1713	ovarienne
+T26	TEMP 1782 1787	3 ans
+T27	LIVB 1790 1794	Elle
+T28	Hospital 1813 1838	urgences ophtalmologiques
+T29	DISO 1848 1874	douleur abdomino-pelvienne
+T30	ANAT 1856 1874	abdomino-pelvienne
+T31	MEAS 1889 1895	rapide
+T32	DISO 1905 1918	inflammatoire
+T33	DISO 1934 1978	leucorrhée bilieuse prurigineuse généralisée
+T34	TEMP 1991 2000	24 heures
+T35	PROC 2014 2026	consultation
+T36	PROC 2030 2045	examen clinique
+T37	LIVB 2059 2067	patiente
+T38	MEAS 2071 2074	bon
+T39	Concept_Idea 2075 2087	état général
+T40	PHEN 2097 2118	contractions utérines
+T41	ANAT 2110 2118	utérines
+T42	MEAS 2119 2127	modérées
+T43	ANAT 2141 2153	col vaginale
+T44	DISO 2191 2205	amaigrissement
+T45	MEAS 2216 2221	10 kg

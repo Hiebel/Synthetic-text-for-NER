@@ -1,0 +1,21 @@
+T1	LIVB 20 28	patiente
+T2	MEAS 45 54	primipare
+T3	PROC 73 92	bilan préopératoire
+T4	DISO 113 136	hypertension artérielle
+T5	ANAT 126 136	artérielle
+T6	MEAS 139 151	170/100 mmhg
+T7	PHEN 156 171	fonction rénale
+T8	ANAT 165 171	rénale
+T9	MEAS 178 185	normale
+T10	Concept_Idea 194 212	taux de créatinine
+T11	MEAS 222 228	5 mg/l
+T12	PROC 232 253	échographie pelvienne
+T13	ANAT 244 253	pelvienne
+T14	PROC 255 258	ECG
+T15	Hospital 272 279	urgence
+T16	Hospital 284 306	urgences chirurgicales
+T17	Hospital 310 328	service d'urologie
+T18	DISO 382 458	syndrome hypertrophique des parties molles cervico-vaginales latéro-latérale
+T20	TEMP 468 484	depuis 48 heures
+T21	DISO 500 521	prise de prédnisolone
+T22	CHEM 509 521	prédnisolone

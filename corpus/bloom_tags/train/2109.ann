@@ -1,0 +1,27 @@
+T1	LIVB 19 24	homme
+T2	Concept_Idea 41 52	antécédents
+T3	MEAS 53 65	particuliers
+T4	PROC 67 71	reçu
+T5	Hospital 76 83	hôpital
+T6	DISO 93 97	toux
+T7	DISO 124 158	douleurs thoraciques constrictives
+T8	ANAT 133 144	thoraciques
+T9	MEAS 173 184	progressive
+T10	TEMP 197 211	depuis un mois
+T11	PROC 215 230	examen clinique
+T12	DISO 265 306	masse tumorale du plexus thoracique droit
+T13	ANAT 283 306	plexus thoracique droit
+T14	Localization 301 306	droit
+T15	MEAS 316 321	12 cm
+T16	Concept_Idea 325 334	grand axe
+T17	ANAT 354 378	liquide pleuro-pleurieux
+T18	PROC 383 402	bilan immunologique
+T19	PROC 404 428	anticorps antinucléaires
+T20	MEAS 443 450	positif
+T21	MEAS 532 541	négativés
+T22	PROC 624 643	numération sanguine
+T23	PHEN 657 668	leucocytose
+T24	MEAS 671 690	11300 éléments /mm3
+T25	CHEM 703 734	amoxicilline-acide clavulanique
+T26	DISO 792 822	adénopathie cervico-fasciculée
+T27	ANAT 804 822	cervico-fasciculée

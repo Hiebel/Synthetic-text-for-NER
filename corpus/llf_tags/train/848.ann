@@ -1,0 +1,49 @@
+T1	PROC 3 18	prise en charge
+T2	LIVB 36 47	gynécologue
+T3	DISO 57 76	tumeur de la vessie
+T4	ANAT 70 76	vessie
+T5	PROC 81 100	bilan préopératoire
+T6	DISO 112 126	particularités
+T7	DISO 143 152	hématurie
+T8	DISO 159 166	dyspnée
+T9	MEAS 201 208	simples
+T10	Concept_Idea 212 222	indication
+T11	PROC 226 248	traitement chirurgical
+T12	PHEN 267 288	grossesse monofoetale
+T13	LIVB 298 305	patient
+T14	PROC 327 332	suivi
+T15	LIVB 338 343	notre
+T16	Hospital 344 351	service
+T17	Concept_Idea 360 384	plan anatomopathologique
+T18	DISO 401 439	lésions prurigineuses kératinocytaires
+T19	DISO 452 466	amaigrissement
+T20	MEAS 477 481	2 kg
+T21	TEMP 483 489	7 mois
+T22	DISO 505 517	complication
+T23	CHEM 551 561	corticoïde
+T24	DEVI 576 580	sels
+T25	LIVB 616 626	monsieur B
+T26	LIVB 630 632	sa
+T27	LIVB 633 643	belle-sœur
+T28	PROC 659 681	traitement substitutif
+T29	CHEM 699 726	médicaments antibacillaires
+T30	DOSE 766 772	4mg/kg
+T31	TEMP 772 774	/j
+T32	CHEM 778 810	inhibiteur calcique intraveineux
+T33	CHEM 846 864	acide clavulanique
+T34	CHEM 976 1010	triméthoprimesulfate de clobétasol
+T35	LIVB 1529 1540	jeune femme
+T36	TEMP 1587 1613	depuis plus de deux années
+T37	LIVB 1620 1623	son
+T38	PROC 1624 1631	mariage
+T39	DISO 1643 1676	syndrome myélodysplasmatique aigu
+T40	DISO 1685 1711	perte auditive congénitale
+T41	LIVB 1801 1806	frère
+T42	TEMP 1814 1820	16 ans
+T43	LIVB 1929 1937	Madame B
+T44	Concept_Idea 1956 1973	plan psychomoteur
+T45	Concept_Idea 2111 2127	idées délirantes
+T46	LIVB 2159 2161	Sa
+T47	LIVB 2162 2167	femme
+T48	TEMP 2282 2297	5ans auparavant
+T49	TEMP 2301 2308	3 jours

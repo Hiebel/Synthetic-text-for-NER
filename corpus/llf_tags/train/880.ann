@@ -1,0 +1,70 @@
+T1	PROC 3 12	sérologie
+T2	DISO 16 31	pneumopéritoine
+T3	MEAS 44 52	négative
+T4	PROC 58 83	étude immunohistochimique
+T5	Concept_Idea 100 107	réponse
+T6	MEAS 108 117	partielle
+T7	ANAT 122 141	ganglions cervicaux
+T8	PROC 146 163	bilan d'extension
+T9	PROC 178 211	scanner cervico-thoraco-abdominal
+T10	ANAT 186 211	cervico-thoraco-abdominal
+T11	DISO 230 251	récidive métastatique
+T12	PROC 266 297	TDM crânio-maxillo-mandibulaire
+T13	ANAT 270 297	crânio-maxillo-mandibulaire
+T14	TEMP 310 320	11/03/2017
+T15	DISO 343 382	prolifération tumorale kystique maligne
+T16	ANAT 417 455	granulations crico-trachéo-alvéolaires
+T17	ANAT 476 501	nerf thoracique bilatéral
+T18	Localization 492 501	bilatéral
+T19	LIVB 535 543	patiente
+T20	PROC 560 586	anticoagulation préventive
+T21	CHEM 588 592	AINS
+T22	CHEM 595 612	acide valproidien
+T23	PROC 629 663	radio-chimiothérapie néo adjuvante
+T24	PROC 676 716	contrôle locorégional multidisciplinaire
+T25	Concept_Idea 785 804	aspect histologique
+T26	PHEN 839 872	grossesse monofoetale biparentale
+T27	TEMP 881 892	26 semaines
+T28	TEMP 930 937	31 mois
+T29	LIVB 1022 1028	frères
+T30	DISO 1071 1099	consanguinité parentalealité
+T31	MEAS 1163 1173	favorables
+T32	LIVB 1187 1197	nouveau-né
+T33	LIVB 1216 1223	parents
+T34	PROC 1255 1287	remplissage nasopharyngo-laryngé
+T35	ANAT 1267 1287	nasopharyngo-laryngé
+T36	Hospital 1300 1308	urgences
+T37	ANAT 1343 1369	nerf thoracique inferieurs
+T38	Localization 1359 1369	inferieurs
+T39	DEVI 1376 1400	substance blanche téflon
+T40	PROC 1417 1433	incision cutanée
+T41	MEAS 1442 1446	4 cm
+T42	DISO 1462 1498	remaniements périnerveux tissulaires
+T43	ANAT 1515 1543	parties molles médiastinales
+T44	MEAS 1628 1633	15 mm
+T45	MEAS 1637 1642	14 mm
+T46	MEAS 1707 1715	5x2×3 cm
+T47	MEAS 1742 1751	7x1 x 4mm
+T48	MEAS 1774 1777	20%
+T49	Concept_Idea 1789 1795	taille
+T50	ANAT 1970 2029	branche inféro-ventriculaire fundique interne superficielle
+T51	DISO 2063 2144	perforation néoplasique périplacentaire rétromamelonnaire mésocolique congénitale
+T52	DISO 2209 2260	métastase myéloblastique mucronodulaire hypoblongue
+T53	PROC 2361 2381	transit écho-guidage
+T54	PROC 2404 2415	hémodialyse
+T55	PROC 2445 2474	investigations thérapeutiques
+T56	PROC 2567 2594	complications chirurgicales
+T57	MEAS 2624 2652	significativement favorables
+T58	PROC 2696 2745	hystérectomie transoesophagienne rétropéritonéale
+T61	LIVB 2918 2925	patient
+T62	PROC 2941 2965	laparotomie exploratrice
+T63	PROC 2975 2996	contrôle radiologique
+T64	MEAS 3015 3028	satisfaisante
+T65	DISO 3086 3100	particularités
+T66	PROC 3152 3181	prélèvements bactériologiques
+T67	PROC 3188 3216	corticoïdalolamide aéroporté
+T68	PROC 3231 3255	chimiothérapie adjuvante
+T69	LIVB 3290 3297	patient
+T70	PROC 3302 3325	récepteurs progestérone
+T71	CHEM 3383 3414	neuroleptique substitutionnelle
+T72	Concept_Idea 3478 3496	plan hémodynamique

@@ -1,0 +1,25 @@
+T1	LIVB 15 22	patient
+T2	DISO 52 75	hypertension artérielle
+T3	ANAT 65 75	artérielle
+T4	PROC 81 91	traitement
+T5	CHEM 102 110	diazépam
+T6	DOSE 112 114	1g
+T7	TEMP 114 116	/j
+T8	CHEM 124 137	sulfasalazine
+T9	DOSE 139 144	10 mg
+T10	TEMP 144 146	/j
+T11	MEAS 148 154	perçus
+T12	Concept_Idea 162 173	mode visuel
+T13	PROC 177 199	examen ophtalmologique
+T14	ANAT 242 274	nerf oculomoteur supérieur droit
+T15	Localization 269 274	droit
+T16	PHEN 284 306	contractions oculaires
+T17	ANAT 297 306	oculaires
+T18	MEAS 307 314	simples
+T19	PROC 319 338	bilan préopératoire
+T20	PROC 369 388	pression artérielle
+T21	ANAT 378 388	artérielle
+T22	ANAT 396 428	nerf oculomoteur inférieur droit
+T23	Localization 423 428	droit
+T24	PROC 452 478	injection intrarachidienne
+T25	CHEM 482 502	produit de contraste

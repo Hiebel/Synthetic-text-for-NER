@@ -1,0 +1,51 @@
+T1	PROC 2 29	bilan radiologique standard
+T2	DISO 45 62	processus tumoral
+T3	ANAT 69 92	paroi abdominale droite
+T4	Localization 86 92	droite
+T5	MEAS 102 106	5 cm
+T6	Concept_Idea 110 119	grand axe
+T7	PROC 123 148	étude immunohistochimique
+T8	PROC 150 153	IHC
+T9	PHEN 187 207	récepteurs hormonaux
+T10	CHEM 237 247	corticoïde
+T11	CHEM 255 267	oxaliplatine
+T12	CHEM 280 295	fluoroquinolone
+T13	DISO 325 379	tumeur maligne du pédicule sous-rénal intra péritonéal
+T14	ANAT 343 379	pédicule sous-rénal intra péritonéal
+T15	ANAT 404 440	vaisseaux mésentériques superficiels
+T16	ANAT 458 469	rein gauche
+T17	Localization 463 469	gauche
+T18	PROC 475 499	scintigraphie médullaire
+T19	ANAT 489 499	médullaire
+T20	DISO 518 538	métastase secondaire
+T21	DISO 557 573	signe infectieux
+T22	PROC 586 625	tomodensitométrie par cohérence optique
+T23	PROC 627 631	TOGD
+T24	MEAS 647 654	normale
+T25	DISO 684 716	adénocarcinome métastasopharyngé
+T26	MEAS 801 808	simples
+T27	TEMP 818 833	post opératoire
+T29	LIVB 849 855	malade
+T30	PROC 860 865	sorti
+T31	TEMP 872 880	15 jours
+T32	PROC 899 908	transfert
+T33	Hospital 917 935	service spécialisé
+T34	PROC 962 985	radiothérapie adjuvante
+T35	PROC 999 1023	laparotomie exploratrice
+T36	ANAT 1043 1078	portion postéro latérale céphalique
+T37	PROC 1099 1184	anastomose terminoterminale cutanéoplastie axillaire endobuccalcique rétropéritonéale
+T38	ANAT 1205 1235	orifices herniaires digestives
+T39	PROC 1255 1274	dilatation complète
+T40	PROC 1278 1305	examen anatomopathologiaque
+T41	DISO 1327 1379	lamelles kystiques tissulaires érythémato-papuloïdes
+T42	MEAS 1400 1404	20mm
+T43	Concept_Idea 1408 1416	diamètre
+T44	MEAS 1440 1445	10 mm
+T45	MEAS 1449 1462	4 millimètres
+T46	ANAT 1479 1507	nerf plexis brachial profond
+T47	ANAT 1526 1552	segments fundiques antraux
+T48	ANAT 1572 1598	pièce réceptrice gastrique
+T49	PROC 1634 1654	exérèse chirurgicale
+T50	DISO 1692 1731	symptomatologie carcinoïde prurigineuse
+T51	DISO 1741 1767	neurofibromatose tubulaire
+T52	LIVB 1793 1801	patiente

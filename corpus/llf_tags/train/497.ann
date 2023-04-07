@@ -1,0 +1,90 @@
+T1	LIVB 16 21	fille
+T2	TEMP 25 30	7 ans
+T3	PROC 69 75	examen
+T4	PROC 80 89	admission
+T5	LIVB 101 109	patiente
+T6	MEAS 113 120	mauvais
+T7	Concept_Idea 121 133	état général
+T8	DISO 142 166	syndrome polymalformatif
+T9	DISO 181 192	hématémèses
+T10	ANAT 206 220	tronc cérébral
+T11	Localization 228 232	deux
+T12	ANAT 233 241	poignets
+T13	DISO 253 258	signe
+T14	PROC 273 286	sérologie VIH
+T15	MEAS 293 301	négative
+T16	PROC 306 324	scanner thoracique
+T17	ANAT 314 324	thoracique
+T18	Concept_Idea 356 365	caractère
+T19	PROC 373 379	entrée
+T20	DISO 413 442	distension abdomino-pelvienne
+T21	ANAT 424 442	abdomino-pelvienne
+T22	ANAT 458 477	bourses pulmonaires
+T23	DISO 500 522	tuberculose secondaire
+T24	PROC 528 554	anticoagulation préventive
+T25	CHEM 559 590	amoxicilline acide clavulanique
+T26	DOSE 592 598	5mg/kg
+T27	TEMP 598 600	/j
+T28	PROC 615 648	antibioprophylaxie postopératoire
+T29	DISO 683 704	récidive tuberculeuse
+T30	LIVB 713 723	nourrisson
+T31	PROC 728 750	contrôle échographique
+T32	DISO 771 779	anomalie
+T33	DISO 797 820	déficit sensitivomoteur
+T34	DISO 827 854	polynucléaires éosinophiles
+T35	PHEN 860 878	suites opératoires
+T36	MEAS 887 894	simples
+T37	TEMP 904 914	3ième jour
+T38	DISO 1011 1034	symptômes neurologiques
+T39	ANAT 1050 1064	intracrânienne
+T40	MEAS 1076 1085	15 mmol/l
+T41	DISO 1101 1133	hypertriglycéridémie congénitale
+T42	MEAS 1144 1149	2 g/L
+T43	DEVI 1155 1178	cathéter extracorporéal
+T44	ANAT 1164 1178	extracorporéal
+T45	Concept_Idea 1201 1220	aspect histologique
+T46	PROC 1240 1268	prise en charge diagnostique
+T47	DISO 1347 1388	neuro-encéphalopathie cervicale primitive
+T48	DISO 1463 1483	céphalées chroniques
+T49	DISO 1486 1507	vomissements fébriles
+T50	DISO 1518 1539	phénotype psychotique
+T51	TEMP 2678 2685	11 mois
+T52	MEAS 2752 2753	4
+T53	LIVB 2754 2761	enfants
+T54	PHEN 2773 2782	grossesse
+T55	PROC 2812 2824	consultation
+T56	Hospital 2828 2849	chirurgie pédiatrique
+T57	DISO 2859 2882	troubles gynécologiques
+T58	Concept_Idea 2886 2896	indication
+T59	PROC 2903 2922	anesthésie générale
+T60	LIVB 2942 2960	médecin urgentiste
+T61	PROC 2987 3009	traitement substitutif
+T62	CHEM 3023 3053	pénicilline acide clavulanique
+T63	DOSE 3055 3058	3mg
+T64	CHEM 3063 3074	bupivacaine
+T65	DOSE 3076 3079	2mg
+T66	PROC 3099 3126	circulation extracorporelle
+T67	MEAS 3131 3140	favorable
+T68	ANAT 3194 3201	annexes
+T69	ANAT 3213 3227	nerfs crâniens
+T70	Concept_Idea 3258 3273	réponse motrice
+T71	PROC 3278 3300	contrôle échographique
+T72	DISO 3391 3416	fibrillation fœtale aiguë
+T73	DISO 3443 3457	décès néonatal
+T74	PROC 3462 3472	opératoire
+T75	PROC 3489 3514	transfusion intraveineuse
+T76	PROC 3528 3553	néphrectomie exploratrice
+T77	PROC 3569 3594	surveillance obstétricale
+T78	MEAS 3674 3681	souples
+T79	DISO 3709 3728	symptôme infectieux
+T80	DISO 3735 3761	malformations congénitales
+T81	PROC 3782 3798	tableau clinique
+T82	PROC 3804 3830	radiographie préopératoire
+T83	PROC 3858 3867	exercices
+T84	Localization 3891 3913	extrémités supérieures
+T85	DISO 4030 4061	récidive tumorale réactionnelle
+T86	DISO 4076 4092	maladie cœliaque
+T87	PROC 4097 4129	dissection biopsie scanno-guidée
+T88	DEVI 4222 4243	structures tubulaires
+T89	MEAS 4268 4273	10 cm
+T90	MEAS 4276 4280	5 cm

@@ -1,0 +1,40 @@
+T1	LIVB 19 24	homme
+T2	PROC 79 86	exérèse
+T3	DISO 93 145	tumeur polypoïde hypoéchogène kystique réno-méningée
+T4	PROC 158 185	adénocarcinome hypophysaire
+T5	ANAT 173 185	hypophysaire
+T6	MEAS 193 201	ACR5N0Mx
+T7	ANAT 240 325	région temporale supérieure homolatérale controlatérale parieto-mandibulaire fundique
+T9	PROC 354 378	chimiothérapie adjuvante
+T10	Concept_Idea 391 416	constantes hémodynamiques
+T11	Concept_Idea 428 453	présentation histologique
+T12	PROC 480 595	néphrectomie axilectomie médiane postéro latérale mandibulaire rétrojugulaire transoesophagienne distale antalgique
+T14	ANAT 612 653	tronc spléno-mésentérique supérieur droit
+T15	Localization 648 653	droit
+T16	PROC 666 840	curage ganglionnaire cervico-thyroïdien antérieur interne scrotale endocrinoïde retro costale subtotale cruro-transfémoral sus clavicondéro médial médiastin ostéometrificandi
+T18	Localization 789 792	sus
+T19	PROC 855 1121	anastomose réticulo-axillaire bilatérale maxillo-mandibulaire symétrique postérieure basithoracique concavitaire rétropéritonéale intracrânio-mandibulaire controlatérale inférieure jugulaire intrascléenne asymétrique tranchentale fronto-temporo-mandibulaire en amont
+T24	Localization 1113 1121	en amont
+T28	PROC 1334 1370	radio coelioscopie digestive globale
+T29	ANAT 1392 1437	muqueuses mésentériques hépato –respiratoires
+T30	ANAT 1454 1510	ganglions cutanéoplasmes conjonctivaux supra péritonéaux
+T31	MEAS 1555 1560	50 mm
+T32	MEAS 1563 1568	40 mm
+T33	MEAS 1576 1581	60 mm
+T34	MEAS 1584 1588	70mm
+T35	DISO 1628 1709	kyste hydatique périrénal hyperéchogène polyclonal hétéronodulaire métamédullaire
+T36	ANAT 1800 1836	zones charnues grêliques épiploi͏̈es
+T37	Concept_Idea 1883 1892	grand axe
+T38	MEAS 2006 2020	55 millimètres
+T39	MEAS 2043 2058	plus importante
+T40	ANAT 2080 2112	plexus brachial supérieur gauche
+T41	Localization 2106 2112	gauche
+T42	ANAT 2134 2178	paroi abdominale inferieur aorto-abdominalis
+T44	ANAT 2190 2218	nerf laryngé inférieur droit
+T45	Localization 2213 2218	droit
+T46	PROC 2255 2397	cholécysterectomie transcraniosténosante élargie mandibulaire axillaire supérieure controlatérale rétropectorale homolatérale fundique refaite
+T49	Localization 2505 2538	extensiblement fléchisse en avant
+T50	PROC 2554 2576	antibiopsie percutanée
+T51	PROC 2590 2675	perforation des troncs pectiques pariéto-œsophagiens intervertébraux paraprostatiques
+T53	LIVB 2727 2735	patiente
+T54	PROC 2759 2783	laparotomie exploratrice

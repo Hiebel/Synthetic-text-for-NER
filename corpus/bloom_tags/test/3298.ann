@@ -1,0 +1,34 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	PHEN 33 39	décédé
+T4	DISO 62 98	néphropathie diabétique hypertensive
+T5	PROC 103 114	évacuatrice
+T6	DISO 130 176	traumatisme du pédicule veineux pérituberculeu
+T7	ANAT 145 176	pédicule veineux pérituberculeu
+T8	Localization 178 187	bilatéral
+T9	PROC 201 215	interrogatoire
+T10	DISO 264 277	hypercalcémie
+T11	DISO 290 314	pathologies métaboliques
+T12	PROC 328 365	tomodensitométrie abdomino- pelvienne
+T13	ANAT 346 365	abdomino- pelvienne
+T14	Hospital 379 400	urgences pédiatriques
+T15	LIVB 480 492	jeune enfant
+T16	TEMP 500 505	9 ans
+T17	DISO 514 538	symptomatologie clinique
+T18	TEMP 548 561	depuis 4 mois
+T19	MEAS 576 582	rapide
+T20	DISO 623 636	inflammatoire
+T21	MEAS 660 675	progressivement
+T22	Concept_Idea 679 685	volume
+T23	LIVB 703 707	elle
+T24	Hospital 733 758	urgences ophtalmologiques
+T25	DISO 778 795	dyspnée purulente
+T26	MEAS 808 822	bradycardiaque
+T27	MEAS 861 871	palpitante
+T28	TEMP 885 896	trois jours
+T29	PROC 900 937	intradermoréaction à la cétaméthasone
+T30	CHEM 924 937	cétaméthasone
+T31	DISO 983 1009	déficit sensitivomotricité
+T32	DISO 1031 1064	syndrome inflammatoire systémique
+T33	PROC 1090 1092	VS
+T34	MEAS 1094 1111	inférieure à 3 mm

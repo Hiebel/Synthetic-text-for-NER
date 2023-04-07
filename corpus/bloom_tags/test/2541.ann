@@ -1,0 +1,36 @@
+T1	LIVB 4 12	patiente
+T2	PROC 32 38	admise
+T3	Hospital 43 51	urgences
+T4	DISO 61 106	douleurs thoraciques basithoraciques évoluées
+T5	ANAT 70 709	thoraciques basithoraciques évoluées depuis l'âge de deux mois accompagnées d'une dyspnée d'effort et d'anorexie.
+L'examen initial trouvait une patiente stable sur le plan hémodynamique avec absence de détresse respiratoire (FEV=100%). L'échographie pelvienne montrait une masse tissulaire hypo échogène kystique rétro périthoracique hypersignal T2 hétérogène hyper vascularisée mesurant 12cm de grand axe prenant contact intimement au myometre rehaussé après injection de 0,3 de produit de contraste réalisant par effet de « tourbillon » suggérant l'origine d'un adénocarcinome péritonéal infiltrant l'aorte thoracique sous-utérine droite
+T6	TEMP 116 132	âge de deux mois
+T7	DISO 152 168	dyspnée d'effort
+T8	DISO 174 182	anorexie
+T9	PROC 186 200	examen initial
+T10	LIVB 214 222	patiente
+T11	Concept_Idea 237 255	plan hémodynamique
+T12	DISO 272 293	détresse respiratoire
+T13	PHEN 281 293	respiratoire
+T14	PROC 308 329	échographie pelvienne
+T15	ANAT 320 329	pelvienne
+T17	MEAS 458 462	12cm
+T18	Concept_Idea 466 475	grand axe
+T19	PROC 530 539	injection
+T20	DOSE 543 546	0,3
+T21	CHEM 550 570	produit de contraste
+T22	DISO 634 659	adénocarcinome péritonéal
+T23	ANAT 649 659	péritonéal
+T25	MEAS 721 730	lentement
+T26	Concept_Idea 734 740	taille
+T27	DISO 761 829	opacités infra-centimétriques liquidiennes noduleuses bourgeonnantes
+T28	ANAT 863 876	péristaltique
+T29	DISO 881 894	vascularisées
+T30	DISO 904 914	hétérogène
+T31	ANAT 936 963	structures méso-thoraciques
+T32	LIVB 1025 1033	patiente
+T33	LIVB 1085 1089	nous
+T34	PROC 1110 1134	biopsie transperitonéale
+T35	DISO 1162 1206	carcinome parenchymateux thyroïdien infiltré
+T37	DISO 1236 1270	myxomyolipome hypertrophié tumoral
+T38	PROC 1280 1308	traitement curatif palliatif

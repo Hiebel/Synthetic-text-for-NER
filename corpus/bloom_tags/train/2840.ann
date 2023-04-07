@@ -1,0 +1,25 @@
+T1	LIVB 29 35	enfant
+T2	TEMP 39 44	6 ans
+T3	DISO 50 75	antécédents pathologiques
+T4	MEAS 76 84	notables
+T5	PROC 86 91	admis
+T6	Hospital 96 118	urgences chirurgicales
+T7	DISO 154 175	détresse respiratoire
+T8	PHEN 163 175	respiratoire
+T9	CHEM 201 208	oxygène
+T10	DEVI 213 234	cathéter artériolaire
+T11	ANAT 222 234	artériolaire
+T12	LIVB 281 284	son
+T13	LIVB 285 310	médecin-gynéco-nouveau-né
+T14	DOSE 313 329	environ 2 litres
+T15	MEAS 336 343	1litres
+T16	DISO 365 371	fièvre
+T17	TEMP 394 411	depuis deux jours
+T18	LIVB 418 420	sa
+T19	PROC 421 436	hospitalisation
+T20	MODE 442 463	voie d'abord veineuse
+T21	PROC 838 853	examen clinique
+T22	DISO 870 887	dyspnée sifflante
+T23	MEAS 900 907	modérée
+T26	PROC 1177 1213	tomodensitométrie abdomino-pelvienne
+T27	ANAT 1195 1213	abdomino-pelvienne

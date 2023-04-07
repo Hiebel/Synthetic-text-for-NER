@@ -1,0 +1,54 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	7 ans
+T3	CHEM 32 46	Ciprofloxacine
+T4	CHEM 49 62	Métronidazole
+T5	DOSE 65 72	1 mg/kg
+T6	TEMP 72 77	/jour
+T7	CHEM 102 113	Cyclosérine
+T8	DOSE 130 132	2g
+T9	TEMP 132 134	/j
+T10	MODE 139 149	voie orale
+T11	TEMP 167 173	10 ans
+T12	CHEM 244 260	Gentaméthoxazole
+T13	DOSE 262 268	200 mg
+T14	TEMP 268 270	/J
+T15	CHEM 301 318	colchicorticoïdes
+T16	DISO 349 369	souffrance digestive
+T17	PHEN 360 369	digestive
+T18	DISO 379 412	maladie thromboembolique veineuse
+T19	PROC 498 516	traitement curatif
+T20	CHEM 580 602	médicaments vasoactifs
+T21	CHEM 604 613	Captopril
+T22	CHEM 615 629	Chlorpromazine
+T23	CHEM 631 642	Propranolol
+T24	CHEM 644 656	Simvastatine
+T25	CHEM 658 669	Sulfentanil
+T26	CHEM 671 684	noradrénaline
+T27	CHEM 686 696	furosémide
+T28	CHEM 698 711	phénobarbital
+T29	CHEM 713 723	dobutamine
+T30	CHEM 725 737	nicardiprine
+T31	CHEM 739 753	hydrocortisone
+T32	CHEM 755 768	dexaméthasone
+T33	CHEM 770 788	méthylprednisolone
+T34	CHEM 791 809	hydroxychloroquine
+T35	CHEM 811 821	ethindrone
+T36	CHEM 823 836	vinblastidine
+T37	CHEM 838 850	pyrazinamide
+T38	CHEM 852 863	Ethionamide
+T39	CHEM 865 877	Pyrazinamide
+T40	CHEM 879 892	FluoroUracile
+T41	CHEM 894 916	Bromure de Bithufurane
+T42	DISO 976 991	symptomatologie
+T43	DISO 1009 1035	détresse cardio-vasculaire
+T44	PHEN 1018 1035	cardio-vasculaire
+T45	DISO 1046 1067	troubles métaboliques
+T46	TEMP 1077 1094	depuis deux jours
+T47	PROC 1114 1139	intervention chirurgicale
+T48	DISO 1258 1275	céphalées fébrile
+T49	DISO 1319 1332	inflammatoire
+T50	MEAS 1347 1374	progressivement progressive
+T51	MEAS 1479 1494	plus accentuées
+T52	DISO 1598 1622	hallucinations visuelles
+T53	DISO 1925 1954	anomalies neuropsychiatriques
+T54	Localization 1980 1988	centrale

@@ -1,0 +1,16 @@
+T1	LIVB 4 12	patients
+T2	PROC 32 48	bilan
+T3	PROC 75 87	hypokaliémie
+T4	MEAS 88 95	modérée
+T5	MEAS 98 108	5,2
+T6	DISO 115 137	syndrome
+T7	MEAS 142 152	spécifique
+T8	PROC 157 173	ponction
+T9	DISO 179 198	adénome
+T10	ANAT 187 198	sous-cutané
+T11	DISO 220 226	lésion
+T12	MEAS 227 235	suspecte
+T13	DISO 239 248	métastase
+T14	Localization 249 255	locale
+T15	ANAT 259 273	loco-régionale
+T16	DISO 259 273	loco-régionale

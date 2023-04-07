@@ -1,0 +1,20 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 24 30	4 mois
+T3	LIVB 95 113	frères plus jeunes
+T4	PROC 243 263	manœuvres parentales
+T5	TEMP 323 327	2ans
+T7	DISO 463 490	symptomatologie infectieuse
+T8	PROC 516 525	admission
+T9	LIVB 570 572	sa
+T10	LIVB 573 578	femme
+T11	LIVB 582 585	son
+T13	LIVB 975 977	il
+T14	DISO 995 1010	pneumopéritoine
+T15	Localization 1025 1031	boudin
+T16	MEAS 1039 1044	20 Kg
+T17	PROC 1059 1087	prise en charge chirurgicale
+T18	DISO 1111 1166	distension crânio-fémoral abdomino-abdominale chronique
+T19	ANAT 1122 1166	crânio-fémoral abdomino-abdominale chronique
+T20	PROC 1196 1221	vaccination antitétanique
+T21	CHEM 1253 1265	antibiotique
+T22	LIVB 2024 2032	patiente

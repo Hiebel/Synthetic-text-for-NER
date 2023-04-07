@@ -1,0 +1,38 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 59 64	trois
+T3	LIVB 65 72	enfants
+T4	DISO 89 104	symptomatologie
+T5	TEMP 115 125	deux jours
+T6	PROC 134 143	admission
+T7	Hospital 147 167	bloc ophtalmologique
+T8	Concept_Idea 203 215	état général
+T9	MEAS 226 230	2/10
+T10	DISO 246 267	détresse respiratoire
+T11	PHEN 255 267	respiratoire
+T12	DISO 277 304	polynucléaires neutrophiles
+T13	DISO 370 400	syndrome d'épanchement pleural
+T14	ANAT 393 400	pleural
+T15	DISO 489 517	insuffisance rénale biliaire
+T16	ANAT 502 517	rénale biliaire
+T17	DISO 533 556	perte pondérale globale
+T18	MEAS 567 571	3 kg
+T19	PROC 588 623	cathéchographie abdomino- pelvienne
+T20	ANAT 604 623	abdomino- pelvienne
+T21	LIVB 644 649	femme
+T22	MODE 666 676	voie orale
+T23	DOSE 679 685	1mg/kg
+T25	CHEM 701 714	dexaméthasone
+T26	DOSE 716 724	20 mg/kg
+T27	TEMP 724 726	/j
+T28	CHEM 729 739	furosémide
+T29	DOSE 741 746	50 mg
+T30	TEMP 746 748	/J
+T31	CHEM 751 759	propofol
+T32	DOSE 761 769	40 µg/kg
+T33	TEMP 769 771	/h
+T34	PROC 776 791	hospitalisation
+T35	PROC 810 845	kinésithérapie réadaptative motrice
+T36	ANAT 867 885	membres inférieurs
+T37	PROC 899 923	intubation oesophagienne
+T38	ANAT 910 923	oesophagienne
+T39	Concept_Idea 1358 1369	durabilités

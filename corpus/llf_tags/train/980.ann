@@ -1,0 +1,29 @@
+T1	LIVB 3 14	jeune homme
+T2	Hospital 45 66	urgences pédiatriques
+T3	DISO 86 107	syndrome hémorragique
+T4	TEMP 117 130	depuis 4 mois
+T5	DISO 206 225	contage tuberculeux
+T6	PROC 282 296	interrogatoire
+T7	LIVB 316 323	patient
+T8	TEMP 388 406	depuis trois jours
+T9	TEMP 464 477	quinze heures
+T10	DISO 555 603	symptomatologie psychiatrique maniaco-dépressive
+T11	PROC 608 636	prise en charge diagnostique
+T12	Concept_Idea 701 713	état général
+T13	DISO 738 751	bronchoalgies
+T14	PROC 1742 1766	consultation ambulatoire
+T15	DISO 3030 3080	perturbations électrolytiques hypertensives aiguës
+T16	ANAT 3303 3314	sein gauche
+T17	Localization 3308 3314	gauche
+T18	PROC 3364 3388	chimiothérapie adjuvante
+T19	CHEM 3394 3404	corticoïde
+T20	DOSE 3406 3413	25mg/kg
+T21	TEMP 3413 3415	/j
+T22	CHEM 3426 3436	céfotaxime
+T23	CHEM 3476 3489	doxorubicine®
+T24	CHEM 3503 3521	triméthoprimes B12
+T25	PROC 3632 3656	contrôles échographiques
+T26	LIVB 3743 3751	patients
+T27	Concept_Idea 3842 3855	état clinique
+T28	PROC 3913 3942	prise en charge thérapeutique
+T29	PROC 4155 4177	récepteurs adrénalines

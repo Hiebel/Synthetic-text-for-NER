@@ -1,0 +1,21 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 39 70	antécédents médico-chirurgicaux
+T3	MEAS 71 83	particuliers
+T4	DISO 103 108	masse
+T5	TEMP 118 131	depuis 2 mois
+T6	MEAS 143 158	progressivement
+T7	Concept_Idea 162 168	volume
+T8	PROC 173 190	tomodensitométrie
+T9	PROC 192 195	TDM
+T10	ANAT 197 206	cérébrale
+T11	CHEM 212 232	produit de contraste
+T12	DISO 255 271	lésion hypodense
+T13	ANAT 285 331	parenchyme pariéto-ventriculaire médian gauche
+T14	Localization 325 331	gauche
+T15	MEAS 341 345	6 cm
+T16	Concept_Idea 349 358	grand axe
+T17	ANAT 374 396	plexus phréno-laryngés
+T18	PROC 432 441	injection
+T19	CHEM 445 465	produit de contraste
+T20	PROC 471 480	admission
+T22	ANAT 523 552	intrarachidiangulo-péritonéal

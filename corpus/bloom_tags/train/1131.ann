@@ -1,0 +1,35 @@
+T1	LIVB 29 37	patiente
+T2	PROC 68 74	admise
+T3	Hospital 79 87	urgences
+T4	DISO 99 125	détresse cardio-vasculaire
+T5	PHEN 108 125	cardio-vasculaire
+T6	DISO 160 197	cardiomyopathie dilatée hypertrophiée
+T7	CHEM 235 248	sulfasalazine
+T8	CHEM 250 281	amoxicilline-acide clavulanique
+T9	CHEM 283 293	furosémide
+T10	MODE 306 311	bolus
+T11	DOSE 315 322	3 mg/kg
+T12	CHEM 326 339	bêtaméthasone
+T13	PROC 343 368	exploration préopératoire
+T14	LIVB 387 395	patiente
+T15	DISO 400 433	distension ventriculaire centrale
+T16	ANAT 411 433	ventriculaire centrale
+T17	Localization 425 433	centrale
+T18	MEAS 492 495	20%
+T19	DISO 510 568	adénocarcinome ventriculo-ventriculaire cervico-thoracique
+T20	ANAT 525 568	ventriculo-ventriculaire cervico-thoracique
+T21	DISO 586 631	hypertrophie ventriculaire médio utériculaire
+T22	ANAT 599 631	ventriculaire médio utériculaire
+T23	Localization 613 618	médio
+T24	DISO 646 705	insuffisance ventriculaire basithoracique latéro-dorsiflexe
+T25	ANAT 659 705	ventriculaire basithoracique latéro-dorsiflexe
+T28	DISO 868 926	adénocarcinome ventriculo-ventriculaire cervico-thoracique
+T29	ANAT 883 926	ventriculo-ventriculaire cervico-thoracique
+T30	PROC 1029 1061	scanner thoraco-abdomino pelvien
+T31	ANAT 1037 1061	thoraco-abdomino pelvien
+T32	DISO 1075 1132	hernie hydatique duodéno-épigastrique iléocoecale bilobée
+T34	MEAS 1142 1147	70 cm
+T35	Concept_Idea 1151 1160	grand axe
+T36	PROC 1191 1200	injection
+T37	CHEM 1204 1224	produit de contraste
+T38	DISO 1252 1279	neuroendocrine vascularisée

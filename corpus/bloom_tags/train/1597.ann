@@ -1,0 +1,32 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	4 ans
+T3	PROC 57 89	cardiocœurariennes artificielles
+T4	DEVI 91 95	CECI
+T5	PROC 102 126	anesthésie locorégionale
+T6	ANAT 113 126	locorégionale
+T7	CHEM 140 151	enoxaparine
+T8	DOSE 153 157	2 mg
+T9	TEMP 158 166	par jour
+T10	TEMP 183 188	7 ans
+T11	DISO 203 225	insuffisance cardiaque
+T12	PHEN 216 225	cardiaque
+T13	DISO 230 281	syndrome d'épanchement intrarachidien inféro-cæcale
+T14	ANAT 253 281	intrarachidien inféro-cæcale
+T15	ANAT 292 306	basithoracique
+T16	DISO 487 495	récidive
+T17	DISO 502 528	symptômes cutanéo-muqueurs
+T18	DISO 555 561	fièvre
+T19	DISO 568 589	détresse respiratoire
+T20	TEMP 599 610	depuis 1 an
+T21	LIVB 617 619	sa
+T22	PROC 620 632	consultation
+T23	Hospital 637 645	urgences
+T24	LIVB 655 657	il
+T25	DISO 728 748	polypnée obstructive
+T26	MEAS 763 769	rapide
+T27	MEAS 779 793	plus fréquente
+T28	Concept_Idea 853 865	état général
+T29	DISO 885 910	troubles sensitivo-moteur
+T30	MEAS 1009 1019	rapidement
+T31	Concept_Idea 1023 1029	volume
+T32	MEAS 1046 1056	perméables

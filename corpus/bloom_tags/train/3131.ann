@@ -1,0 +1,43 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 41 50	multipare
+T3	MEAS 82 90	notables
+T4	PROC 94 109	examen clinique
+T5	PROC 114 123	admission
+T6	LIVB 137 145	patiente
+T7	Concept_Idea 171 189	plan hémodynamique
+T8	DISO 205 230	atteinte vasculo-nerveuse
+T9	ANAT 214 230	vasculo-nerveuse
+T10	Localization 232 252	au niveau thoracique
+T11	ANAT 256 270	sus-thoracique
+T12	DISO 285 297	hyperthermie
+T13	MEAS 300 304	38°C
+T14	DISO 320 339	dyspnée sifleurante
+T15	Concept_Idea 384 396	état général
+T16	PROC 401 417	bilan biologique
+T17	PROC 435 443	kaliémie
+T18	MEAS 446 455	4,6 mEq/l
+T19	PROC 461 469	natrémie
+T20	MEAS 472 481	135 meq/l
+T21	PROC 487 500	HCO3- sérique
+T22	MEAS 503 512	0,9 meq/l
+T23	PROC 518 532	protéinorachie
+T24	MEAS 535 543	120 g/dl
+T25	PROC 563 586	chirurgie biquotidienne
+T26	DISO 592 626	carcinome épidermoïde hypertrophié
+T27	ANAT 602 626	épidermoïde hypertrophié
+T28	MEAS 642 653	brutalement
+T29	Concept_Idea 657 663	taille
+T30	MEAS 682 688	majeur
+T31	PROC 708 733	intervention chirurgicale
+T32	PROC 739 756	anesthésie locale
+T33	PROC 759 789	échographie abdomino pelvienne
+T34	ANAT 771 789	abdomino pelvienne
+T35	DISO 806 857	masse hypo échogène tissulaire arrondie polyloculée
+T36	MEAS 867 872	16 cm
+T37	Concept_Idea 876 885	grand axe
+T38	ANAT 906 920	méso-péritoine
+T39	Concept_Idea 1092 1101	caractère
+T40	DEVI 1131 1169	dopamine radiostimulateurs monochambre
+T41	MEAS 1179 1196	bien circonscrite
+T42	Concept_Idea 1243 1251	contours
+T43	MEAS 1265 1289	de plus grande abondance

@@ -1,0 +1,39 @@
+T1	LIVB 16 24	patiente
+T3	ANAT 69 88	abdomino-pelviennes
+T4	TEMP 98 111	depuis 6 mois
+T5	PROC 115 130	examen clinique
+T6	PHEN 144 164	grossesse gémellaire
+T7	ANAT 209 229	utérus utéro-ovarien
+T8	CHEM 232 247	épiduronéphrine
+T9	MEAS 273 288	progressivement
+T10	Concept_Idea 292 298	volume
+T11	DISO 311 320	anomalies
+T12	PROC 335 351	bilan biologique
+T13	PROC 353 356	ECG
+T14	PROC 358 378	taux de prothrombine
+T15	PROC 382 396	fibrinolytique
+T16	PROC 410 443	imagerie par résonance magnétique
+T17	PROC 445 459	IRM) pelvienne
+T18	ANAT 450 459	pelvienne
+T19	DISO 478 523	masse tissulaire hypo-intense hypersignalisée
+T20	MEAS 535 547	spontanément
+T21	Concept_Idea 551 557	volume
+T22	MEAS 567 571	2 cm
+T23	Concept_Idea 575 589	grand diamètre
+T24	ANAT 618 627	péritoine
+T25	DISO 657 710	adénopathies axillaires périrénaliennes hypertrophiés
+T27	MEAS 734 737	1cm
+T28	MEAS 741 746	0,5cm
+T29	ANAT 819 837	parois abdominales
+T30	ANAT 860 882	ganglionnaire biliaire
+T31	DISO 891 896	masse
+T32	MEAS 908 918	rapidement
+T33	Concept_Idea 922 928	volume
+T34	MEAS 940 947	20mg/m²
+T35	MEAS 950 959	120 mg/m²
+T36	Concept_Idea 989 999	caractères
+T37	MEAS 1009 1018	régulière
+T38	ANAT 1085 1111	méso-latérale œsophagienne
+T39	ANAT 1138 1167	centrale épiploïque ovarienne
+T40	PROC 1194 1229	TDM abdomino pelvienne exploratrice
+T41	ANAT 1198 1229	abdomino pelvienne exploratrice

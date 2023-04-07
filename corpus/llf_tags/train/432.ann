@@ -1,0 +1,48 @@
+T1	LIVB 15 22	patient
+T2	DISO 66 89	hypertension artérielle
+T3	ANAT 79 89	artérielle
+T4	DISO 96 110	ictère fébrile
+T5	PROC 115 120	suivi
+T6	DISO 137 152	symptomatologie
+T7	TEMP 165 182	6 mois auparavant
+T8	DISO 216 225	dysphonie
+T9	Concept_Idea 270 282	état général
+T10	DISO 298 318	vomissements bilieux
+T11	DISO 333 349	diarrhée aqueuse
+T12	DISO 361 367	signes
+T13	PROC 389 404	examen clinique
+T14	LIVB 408 415	patient
+T15	MEAS 425 432	mauvais
+T16	Concept_Idea 433 445	état général
+T17	DISO 463 487	déficit sensitivo-moteur
+T18	DISO 491 506	sensitivomoteur
+T19	DISO 524 538	déshydratation
+T20	PHEN 545 566	réflexes oculomoteurs
+T21	MEAS 575 595	légèrement sensibles
+T22	CHEM 600 618	bronchodilatateurs
+T23	DOSE 620 626	3mg/kg
+T24	TEMP 626 630	/24h
+T25	CHEM 645 664	antipaludéens oraux
+T26	CHEM 675 699	acide acétyle glutamique
+T27	CHEM 702 716	céphalosporine
+T28	CHEM 719 729	isoniazide
+T29	CHEM 732 742	éthambutol
+T30	CHEM 745 757	pyrazinamide
+T31	CHEM 760 771	rifampicine
+T32	CHEM 774 784	corticoïde
+T33	CHEM 787 798	pénicilline
+T34	CHEM 801 814	métronidazole
+T36	DISO 1489 1492	SAM
+T37	LIVB 1510 1518	patiente
+T38	PROC 1537 1550	radiothérapie
+T39	Concept_Idea 1556 1560	dose
+T40	DOSE 1564 1569	50 Gy
+T41	MEAS 1580 1588	quantité
+T42	Concept_Idea 1595 1614	résultat anatomique
+T44	ANAT 1710 1713	CRF
+T45	PHEN 1720 1738	suites opératoires
+T46	MEAS 1747 1754	simples
+T47	DISO 1760 1777	récidive tumorale
+T48	DISO 1788 1794	signes
+T49	PROC 1807 1832	étude immunohistochimique
+T50	CHEM 1855 1881	amikacine® ® ® ® ® ® ® ® ®

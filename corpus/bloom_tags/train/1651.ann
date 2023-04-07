@@ -1,0 +1,37 @@
+T1	LIVB 3 10	patient
+T2	DISO 52 80	pancréatectasies surdénudées
+T3	PROC 85 99	chirurgicables
+T4	PROC 105 123	traitement curatif
+T5	CHEM 137 150	bêtaméthasone
+T6	CHEM 152 162	tamoxifène
+T7	CHEM 164 184	hydroxy progestérone
+T8	CHEM 186 205	méthoxyprogesterone
+T9	CHEM 207 220	dexaméthasone
+T10	DOSE 222 228	1mg/kg
+T11	TEMP 228 230	/j
+T12	CHEM 233 247	hydrocortisone
+T13	DOSE 249 256	5 mg/m²
+T14	TEMP 256 258	/J
+T15	MODE 260 266	per os
+T16	DISO 282 312	prise médicamenteuse tabagique
+T17	PHEN 359 368	digestive
+T18	DISO 374 382	anorexie
+T19	TEMP 401 412	depuis 3ans
+T20	LIVB 475 491	médecin référent
+T21	DISO 518 573	syndrome d'épanchement intracapillaire péripancréatique
+T22	ANAT 541 573	intracapillaire péripancréatique
+T23	DISO 593 613	anomalies digestives
+T24	DISO 627 650	épanchement sous cutané
+T25	Localization 639 643	sous
+T26	ANAT 668 700	greffon spléno-gastro-intestinal
+T27	DISO 738 766	tuberculose ulcéré purulente
+T28	PROC 812 829	curage intestinal
+T29	ANAT 819 829	intestinal
+T30	DISO 922 943	rhabdomyosite maligne
+T31	DISO 965 1014	craniosténose traumatique érythémateuse chronique
+T32	PROC 1037 1072	tomodensitométrie abdominopelvienne
+T33	ANAT 1055 1072	abdominopelvienne
+T35	MEAS 1129 1133	12cm
+T36	Concept_Idea 1137 1146	grand axe
+T37	MEAS 1155 1159	3 cm
+T38	Concept_Idea 1163 1171	diamètre

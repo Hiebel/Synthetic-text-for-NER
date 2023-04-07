@@ -1,0 +1,14 @@
+T1	LIVB 29 38	patientes
+T2	PROC 64 70	admise
+T3	Hospital 75 114	urgences chirurgicales ophtalmologiques
+T4	DISO 130 177	tuméfaction temporo-céphalo-buccale douloureuse
+T6	TEMP 186 203	le jour précédant
+T7	DISO 231 249	impotence visuelle
+T8	MEAS 264 275	progressive
+T9	DISO 290 307	symptômes fébrile
+T10	MEAS 319 323	38°C
+T11	DISO 351 366	symptomatologie
+T12	DISO 433 456	traumatisme oculomoteur
+T13	DISO 569 602	prise médicamenteuse hypertensive
+T14	DISO 609 653	maladie thromboembolique veineuse systémique
+T15	PROC 668 696	investigations radiologiques

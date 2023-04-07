@@ -1,0 +1,84 @@
+T1	LIVB 19 26	patient
+T2	DISO 47 72	antécédents pathologiques
+T3	MEAS 73 85	particuliers
+T4	PROC 91 100	admission
+T5	Hospital 104 124	service des urgences
+T6	Hospital 128 135	CHU-HDD
+T7	DISO 145 186	tuméfaction abdominopelvienne douloureuse
+T8	ANAT 157 174	abdominopelvienne
+T9	TEMP 196 214	depuis trois jours
+T10	DISO 232 246	amaigrissement
+T11	MEAS 257 260	4kg
+T12	TEMP 264 273	deux mois
+T13	PROC 277 292	examen clinique
+T14	DISO 325 340	masse polylobée
+T15	MEAS 350 354	3 cm
+T16	Concept_Idea 358 366	diamètre
+T17	MEAS 375 379	9 cm
+T18	Concept_Idea 383 392	grand axe
+T19	Localization 400 414	versant médial
+T20	ANAT 421 444	paroi abdominale gauche
+T21	Localization 438 444	gauche
+T22	ANAT 473 495	troncs supra-aortiques
+T23	DEVI 504 513	prothèses
+T24	ANAT 530 553	structures péritonéales
+T25	PROC 557 569	angioscanner
+T26	PROC 640 664	chimiothérapie adjuvante
+T27	PROC 757 774	tomodensitométrie
+T28	PROC 776 797	TDM) cervico-vaginale
+T29	ANAT 781 797	cervico-vaginale
+T30	DISO 817 834	lésion secondaire
+T31	DISO 844 884	adénocarcinome épithélio-gastro-duodénal
+T32	PROC 898 922	laparotomie exploratrice
+T33	PROC 928 954	annexectomie longitudinale
+T34	Localization 941 954	longitudinale
+T35	PROC 982 1000	toilette pelvienne
+T36	ANAT 991 1000	pelvienne
+T37	ANAT 1019 1043	liquide céphalorachidien
+T38	ANAT 1063 1094	aires ganglionnaires cervicales
+T39	MEAS 1131 1138	simples
+T40	PROC 1143 1162	bilan préopératoire
+T41	PROC 1178 1211	scanner œso-guidèrostomatologique
+T42	ANAT 1186 1211	œso-guidèrostomatologique
+T43	LIVB 1231 1239	patiente
+T44	DISO 1264 1325	hypertrophie congénitale hétérodense tissulaire hypokinétique
+T45	CHEM 1335 1354	cellules fusiformes
+T46	ANAT 1418 1435	cloisons myxoïdes
+T47	ANAT 1451 1485	zones charnues érythémato-myxoides
+T48	ANAT 1507 1525	plaques corticales
+T49	ANAT 1539 1558	plasmocytes cutanés
+T50	ANAT 1582 1615	ganglions lymphatiques axillaires
+T51	ANAT 1640 1660	lymphocytes tumoraux
+T52	ANAT 1700 1719	globes oculomoteurs
+T54	ANAT 1807 1842	atypies hydrosolubles angiomateuses
+T55	ANAT 1864 1909	cytoplasmes bulbo métatarsiens ectoplasmiques
+T56	Concept_Idea 2053 2073	aspect morphologique
+T57	DISO 2096 2156	métanéphrine monophasique mucopolysaccharomyces tuberculosis
+T58	PHEN 2211 2241	récepteurs hormonaux somatique
+T59	PROC 2336 2366	antibiothérapies probabilistes
+T60	PROC 2372 2383	prélevement
+T61	PROC 2462 2491	prise en charge thérapeutique
+T62	DISO 2509 2537	maladies auto-immunes aiguës
+T63	PROC 2675 2733	néphrectomie totale transoesogastroduodénale scanno-guidèe
+T64	PROC 2749 2767	étude histologique
+T65	ANAT 2771 2781	sein droit
+T66	Localization 2776 2781	droit
+T67	PROC 2788 2807	traitement adjuvant
+T68	CHEM 2815 2828	Temozolomide®
+T69	DOSE 2830 2835	20 mg
+T70	TEMP 2835 2845	/24 heures
+T71	PROC 2859 2900	chimiothérapie antibacillaire parentérale
+T72	PROC 2914 2947	corticothérapie néo zéaxyphylaxie
+T73	CHEM 2961 2974	rifampicine ®
+T74	CHEM 2978 2999	triméthoprimifentanil
+T75	PROC 3012 3056	remplissage thyroidien péribronchovasculaire
+T77	PROC 3082 3103	refroidissement total
+T78	LIVB 3128 3136	patiente
+T79	PROC 3149 3155	admise
+T80	MEAS 3160 3164	deux
+T81	Hospital 3165 3200	structures hospitalo-universitaires
+T82	PROC 3206 3235	consultation pré anesthésique
+T83	MEAS 3316 3329	trèsfavorable
+T84	DISO 3470 3506	méningo-encéphalopathie subocclusive
+T85	LIVB 3546 3569	professionnels médicaux
+T86	Concept_Idea 3588 3610	caractère radiologique

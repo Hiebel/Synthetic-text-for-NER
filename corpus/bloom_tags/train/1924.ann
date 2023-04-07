@@ -1,0 +1,32 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	6 ans
+T3	DISO 36 61	antécédents pathologiques
+T4	MEAS 62 70	notables
+T5	DISO 88 99	traumatisme
+T6	DISO 105 130	atteinte sensitivomotrice
+T7	PROC 136 145	admission
+T8	Hospital 150 171	urgences pédiatriques
+T9	DISO 185 201	détresse fébrile
+T10	TEMP 211 226	depuis 6 heures
+T11	DISO 243 274	douleurs basithoraciques droite
+T12	ANAT 252 274	basithoraciques droite
+T13	Localization 268 274	droite
+T14	MEAS 301 308	modérée
+T15	DISO 328 334	fièvre
+T16	MEAS 346 351	38° C
+T17	PHEN 367 383	râles crépitants
+T18	MEAS 425 445	profondément altérés
+T19	LIVB 469 477	patiente
+T20	MODE 495 513	voie intraveineuse
+T21	DISO 548 567	insuffisance rénale
+T22	ANAT 561 567	rénale
+T23	DISO 574 623	syndrome d’épanchement liquidien rétro péritonéal
+T24	ANAT 597 623	liquidien rétro péritonéal
+T25	DISO 657 676	lésions purpuriques
+T26	PROC 751 788	intradermoréaction à la sulfasalazine
+T27	CHEM 775 788	sulfasalazine
+T28	MEAS 807 815	1 mg/m 2
+T29	PROC 829 851	examen ophtalmologique
+T30	DISO 868 952	hypotonie bronto-paralypneïque segmentaire dorsolatérale bilatérale rétrajunctoriale
+T32	DISO 1107 1134	troubles sensitivo motrices
+T33	DISO 1158 1183	polynucléose leucocytaire

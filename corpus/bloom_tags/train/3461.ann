@@ -1,0 +1,55 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	PHEN 48 57	grossesse
+T4	PROC 76 86	césarienne
+T5	Hospital 99 120	urgences pédiatriques
+T6	DEVI 174 202	surrénalectomie chirurgicale
+T7	PROC 204 207	SSR
+T8	LIVB 236 246	nouveau-né
+T9	MEAS 253 257	9/10
+T10	ANAT 295 304	liquidien
+T11	DISO 342 363	détresse respiratoire
+T12	PHEN 351 363	respiratoire
+T13	Hospital 441 468	milieux d'accueil d'urgence
+T14	LIVB 478 482	elle
+T15	DISO 513 528	symptomatologie
+T16	DISO 561 584	anomalies neurologiques
+T17	DISO 595 620	manifestations somatiques
+T18	DISO 635 647	hyperthermie
+T19	DISO 649 665	choc hypotenseur
+T20	DISO 681 696	maladie maligne
+T21	DISO 753 778	épanchement intracérébral
+T22	ANAT 765 778	intracérébral
+T23	LIVB 790 798	patiente
+T25	DISO 855 893	méningoencephalite fébrile lithiasique
+T26	TEMP 949 956	un mois
+T27	PROC 966 986	traitement palliatif
+T28	LIVB 1003 1010	enfants
+T29	DISO 1308 1321	consanguinité
+T30	LIVB 1332 1340	patients
+T31	LIVB 1408 1417	patientes
+T32	MEAS 1432 1444	1 an maximum
+T33	DISO 1486 1519	syndrome inflammatoire biologique
+T34	DISO 1525 1573	broncho-pneupneumopathie chronique obstructieuse
+T35	DISO 1585 1618	diabète gestationnel hypertensive
+T36	DISO 1643 1691	pathogénie thromboemboliquante veineuse profonde
+T37	DISO 1909 1915	fièvre
+T38	TEMP 1928 1937	24 heures
+T39	CHEM 1970 1981	tuberculine
+T40	MEAS 2014 2029	progressivement
+T41	Concept_Idea 2033 2039	taille
+T42	MEAS 2051 2055	50°C
+T43	MEAS 2061 2080	deux degrés Celsius
+T44	DISO 2117 2124	dyspnée
+T45	MEAS 2139 2145	rapide
+T46	ANAT 2188 2223	pulmonaire basithoracique liquidien
+T47	MEAS 2243 2250	1410 mg
+T48	Localization 2306 2315	bilatéral
+T49	DISO 2349 2408	douleurs abdomino-pelviennes infra-thoraciques constrictive
+T51	DISO 2425 2431	sueurs
+T52	MEAS 2432 2440	profuses
+T53	DISO 2458 2472	déshydratation
+T54	PROC 2491 2522	radiothérapie externe adjuvante
+T55	DOSE 2552 2557	15 Gy
+T56	ANAT 2565 2578	pelvis utérin
+T57	TEMP 2597 2602	2 ans

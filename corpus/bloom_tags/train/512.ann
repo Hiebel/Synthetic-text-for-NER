@@ -1,0 +1,34 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	DISO 40 65	antécédents pathologiques
+T4	MEAS 66 78	particuliers
+T5	DISO 106 125	contage tuberculeux
+T6	DISO 132 148	maladie cœliaque
+T7	LIVB 165 172	famille
+T8	PROC 177 192	examen clinique
+T9	DISO 213 236	masse tumorale kystique
+T10	ANAT 253 276	paroi abdominale droite
+T11	Localization 270 276	droite
+T12	MEAS 285 297	environ 4 cm
+T13	Concept_Idea 301 310	grand axe
+T14	Concept_Idea 313 319	aspect
+T15	MEAS 320 345	macroscopiquement arrondi
+T16	MEAS 355 359	15cm
+T17	Concept_Idea 363 372	grand axe
+T18	PROC 393 402	injection
+T19	CHEM 406 426	produit de contraste
+T20	DISO 464 508	envahissement épithélio-gigalo-cytoplasmique
+T21	ANAT 478 508	épithélio-gigalo-cytoplasmique
+T22	DISO 515 549	lymphangio-splénomégalie nodulaire
+T23	ANAT 566 584	membres inférieurs
+T24	PROC 587 616	échographie abdominopelvienne
+T25	ANAT 599 616	abdominopelvienne
+T27	ANAT 733 761	grosses-vésicules ovariennes
+T28	ANAT 795 823	vésicule biliaire principale
+T29	ANAT 841 855	cotrimoellaire
+T30	ANAT 873 893	rebordes péritonéaux
+T31	DISO 930 953	localisations associées
+T32	DISO 967 994	nodule ovarien hypertrophié
+T33	ANAT 974 994	ovarien hypertrophié
+T34	DISO 1004 1024	complication maligne
+T35	DISO 1059 1093	symptomatologie clinico-biologique

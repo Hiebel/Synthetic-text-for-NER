@@ -1,0 +1,47 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 73 78	admis
+T6	Hospital 82 89	urgence
+T7	Hospital 94 115	urgences pédiatriques
+T8	DISO 125 159	douleur pelvienne aiguë résolutive
+T9	ANAT 133 142	pelvienne
+T10	TEMP 169 183	depuis 3 jours
+T11	PROC 187 202	examen clinique
+T12	PROC 207 216	admission
+T13	LIVB 233 239	enfant
+T14	PHEN 286 298	respiratoire
+T15	Concept_Idea 308 332	paramètres ventilatoires
+T16	MEAS 333 346	satisfaisants
+T17	PROC 351 376	radiographie du péritoine
+T18	ANAT 367 376	péritoine
+T19	DISO 407 454	masse ostéolithiasique latéroutérine bilatérale
+T20	Localization 444 454	bilatérale
+T21	MEAS 463 469	6/4 cm
+T22	Concept_Idea 472 478	aspect
+T23	MEAS 479 494	hyperhétérogène
+T24	ANAT 511 531	fosse iliaque droite
+T25	Localization 525 531	droite
+T26	MEAS 541 545	13cm
+T27	Concept_Idea 549 558	grand axe
+T28	ANAT 575 591	parois vaginales
+T29	PROC 609 618	injection
+T30	CHEM 622 633	propranolol
+T31	DOSE 635 644	0,5 mg/m²
+T32	PROC 651 681	échographie abdomino-pélvienne
+T33	ANAT 663 681	abdomino-pélvienne
+T34	PROC 702 727	anesthésie loco-régionale
+T35	ANAT 713 727	loco-régionale
+T36	DEVI 732 751	sonde nasogastrique
+T38	DISO 815 851	masse kystique tissulaire hypokaliée
+T39	ANAT 872 894	muscles péristaltiques
+T40	LIVB 896 899	Son
+T41	PROC 900 918	traitement médical
+T42	MODE 930 940	voie orale
+T43	CHEM 943 967	amoxicilline clavulanate
+T44	CHEM 981 1003	acénocotrylhydroxazole
+T45	CHEM 1013 1023	furosémide
+T46	DOSE 1024 1032	20 mg/kg
+T47	PROC 1045 1076	radiothérapie externe adjuvante
+T48	DOSE 1107 1111	60Gy

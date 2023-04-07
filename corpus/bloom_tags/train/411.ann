@@ -1,0 +1,23 @@
+T1	LIVB 29 34	femme
+T2	PROC 60 66	suivie
+T3	DISO 92 126	carcinome vésiculo-néphro-myometre
+T4	ANAT 102 126	vésiculo-néphro-myometre
+T5	PROC 140 167	traitement médical adjuvant
+T6	MODE 178 190	intraveineux
+T7	CHEM 193 202	Etoposide
+T8	CHEM 204 215	Cyclosérine
+T9	CHEM 217 247	Triméthoprime-Sulfaméthoxazole
+T10	PROC 261 289	chimiothérapie néo adjuvante
+T11	MEAS 306 319	spectaculaire
+T12	DISO 326 341	symptomatologie
+T13	DOSE 475 483	3 litres
+T14	CHEM 487 505	méthylprednisolone
+T15	MEAS 572 577	20 kg
+T16	PROC 582 596	interrogatoire
+T17	PROC 662 675	diagnostiqués
+T18	DISO 687 711	polyarthrite auto-immune
+T19	ANAT 773 782	muqueuses
+T20	MEAS 831 840	favorable
+T21	DISO 912 948	céphalées constrictives généralisées
+T22	MEAS 1016 1041	progressivement accentuée
+T23	PROC 1054 1066	consultation

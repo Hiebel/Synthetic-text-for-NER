@@ -1,0 +1,113 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 66	antécédents pathologiques
+T3	MEAS 67 75	notables
+T4	PROC 86 98	hospitalisée
+T5	Hospital 102 109	urgence
+T6	DISO 119 125	fièvre
+T7	TEMP 135 153	depuis trois jours
+T8	DISO 169 189	douleurs abdominales
+T9	ANAT 178 189	abdominales
+T10	ANAT 203 214	foie gauche
+T11	Localization 208 214	gauche
+T12	DISO 230 249	syndrome infectieux
+T13	Concept_Idea 254 261	chiffré
+T14	LIVB 293 301	patiente
+T15	DISO 307 329	ictère polymalformatif
+T16	PHEN 363 369	urètre
+T17	MEAS 371 377	0,5 cm
+T18	DISO 403 443	symptômes érythémato-psychomotorrhéiques
+T19	PROC 468 480	consultation
+T20	PROC 485 500	prise en charge
+T21	CHEM 532 552	antipyrétiques oraux
+T22	CHEM 563 594	amoxicilline acide clavulanique
+T23	CHEM 596 606	corticoïde
+T24	CHEM 608 622	gentaméthasone
+T25	CHEM 624 636	prédnisolone
+T26	CHEM 638 648	isoniazide
+T27	CHEM 650 660	aminosides
+T28	CHEM 662 675	métronidazole
+T29	CHEM 678 704	rifampicine diphosphonates
+T30	CHEM 706 716	pesticides
+T31	CHEM 718 732	acide acétique
+T32	CHEM 734 752	nitrubine conjugue
+T33	CHEM 754 763	étoposide
+T34	CHEM 765 781	fluoroquinolones
+T35	CHEM 783 794	bupivacaine
+T36	CHEM 796 807	tétrazidime
+T37	CHEM 809 824	céphalosporines
+T38	CHEM 826 849	sulfate de pyrazinamide
+T39	CHEM 851 860	imipenème
+T40	CHEM 862 888	xylococcus epidemidissimum
+T41	CHEM 890 901	vancomycine
+T42	CHEM 903 926	staphylococcus angineux
+T43	CHEM 928 946	héparine botulique
+T44	CHEM 948 959	paracétamol
+T45	CHEM 961 981	carbonate de calcium
+T46	CHEM 983 994	monosodique
+T47	CHEM 996 1019	propionate de magnésium
+T48	CHEM 1021 1037	hydroxycarbonyle
+T49	CHEM 1039 1049	gadolinium
+T50	CHEM 1051 1065	fermentemicide
+T51	CHEM 1067 1078	nicardipine
+T52	CHEM 1080 1098	myristicaryngotine
+T53	CHEM 1100 1114	ciprofloxacine
+T54	CHEM 1116 1126	furosémide
+T55	CHEM 1128 1140	métaplastine
+T56	CHEM 1142 1155	cotrimoxazole
+T57	CHEM 1157 1170	noradrénaline
+T58	CHEM 1172 1191	valproate de sodium
+T59	CHEM 1193 1202	œstradiol
+T60	CHEM 1204 1213	halothane
+T61	CHEM 1215 1222	taxanes
+T62	CHEM 1224 1234	antalgique
+T63	CHEM 1236 1249	catécholamine
+T64	CHEM 1251 1265	anethiouracile
+T65	CHEM 1267 1279	vitamine B12
+T66	CHEM 1281 1296	immunoglobuline
+T67	CHEM 1298 1311	neuroleptique
+T68	CHEM 1331 1356	méthotrexate de potassium
+T69	CHEM 1358 1370	estrogénique
+T70	CHEM 1372 1383	énoxaparine
+T71	CHEM 1385 1395	cisplatine
+T72	CHEM 1397 1416	indométhorromégalie
+T73	CHEM 1418 1429	palmitolide
+T74	CHEM 1431 1446	érythrithoprime
+T75	CHEM 1448 1464	organophosphorés
+T76	CHEM 1466 1474	aspirine
+T77	CHEM 1476 1485	thymidine
+T78	CHEM 1487 1506	atropine thyroidien
+T79	CHEM 1508 1523	diminuclopentel
+T80	CHEM 1525 1539	hydrocortisone
+T81	CHEM 1541 1555	spironolactone
+T82	CHEM 1557 1574	alpha-2 mimétique
+T83	CHEM 1576 1585	etoposide
+T84	CHEM 1587 1599	neutrophiles
+T85	CHEM 1601 1613	endobarbital
+T86	CHEM 1615 1639	triglycérides substitués
+T87	CHEM 1641 1654	hypertenseurs
+T88	CHEM 1656 1667	cortisolone
+T89	CHEM 1669 1683	alcoolavirenz®
+T90	CHEM 1685 1721	progestérone méthyle glycollicidique
+T91	CHEM 1723 1748	ceftriaxone sublingulaire
+T92	CHEM 1750 1784	thiocyanate monosodique insulinase
+T93	CHEM 1786 1815	ambigallergique aglycténoïdes
+T95	CHEM 1893 1924	amoxicilline acide clavulanique
+T96	CHEM 1926 1941	céphalosporines
+T97	DISO 1968 1991	symptômes neurologiques
+T98	LIVB 1996 2002	malade
+T99	PROC 2021 2041	traitement palliatif
+T100	PROC 2055 2109	kinésithérapie cognitivo-comportementale préanalytique
+T101	PROC 2116 2150	chimiothérapie psychothérapeutique
+T102	DOSE 2195 2202	6 mg/kg
+T103	TEMP 2202 2204	/j
+T104	PROC 2217 2237	contrôle ambulatoire
+T105	Concept_Idea 2257 2266	résultats
+T106	DISO 2298 2323	récidive sensitivomotrice
+T107	DISO 2342 2360	syndrome démentiel
+T108	LIVB 2443 2450	patient
+T109	DISO 2484 2506	constipation chronique
+T110	PHEN 2511 2523	respiratoire
+T111	TEMP 2533 2547	depuis 3 jours
+T112	MEAS 2568 2576	premiers
+T113	ANAT 2577 2585	bronches
+T114	DEVI 2599 2614	sels hydroxylés

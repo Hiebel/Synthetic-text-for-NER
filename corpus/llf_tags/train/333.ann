@@ -1,0 +1,76 @@
+T1	PROC 3 20	tomodensitométrie
+T2	DISO 37 58	distension abdominale
+T3	ANAT 48 58	abdominale
+T4	PROC 63 80	bilan étiologique
+T5	DISO 92 106	particularités
+T6	LIVB 113 121	patiente
+T7	DISO 151 172	syndrome hémorragique
+T8	DISO 179 198	contage tuberculeux
+T9	Concept_Idea 211 217	aspect
+T10	DISO 233 274	kyste hydatique du hile spléno-mésaraique
+T11	ANAT 252 274	hile spléno-mésaraique
+T12	PROC 279 314	traitement chirurgical conservateur
+T13	PROC 320 339	anesthésie générale
+T14	CHEM 347 359	fluorouracil
+T15	DOSE 361 365	50mg
+T16	TEMP 365 367	/j
+T17	PROC 383 422	séances de kinésithérapie locorégionale
+T18	MEAS 475 482	simples
+T19	PHEN 490 500	extubation
+T20	Hospital 504 519	bloc opératoire
+T21	PROC 533 558	réanimation préopératoire
+T22	DEVI 587 597	supporters
+T23	TEMP 616 623	7 jours
+T24	PROC 629 639	opératoire
+T25	PROC 645 689	toilette nasopharyngo-trachéale exploratrice
+T26	ANAT 654 676	nasopharyngo-trachéale
+T27	PROC 722 764	néphrostomie percutanée multidisciplinaire
+T28	Localization 784 790	moitié
+T29	ANAT 794 822	nerf laryngé supérieur droit
+T30	Localization 817 822	droit
+T31	PROC 842 867	étude anatomopathologique
+T32	PROC 871 890	examen histologique
+T33	MEAS 967 971	2 cm
+T34	Concept_Idea 975 984	grand axe
+T35	Concept_Idea 1014 1039	structures métatarsiennes
+T36	Concept_Idea 1106 1129	processus morphologique
+T37	MEAS 1190 1195	15 mm
+T38	Concept_Idea 1199 1208	petit axe
+T39	PROC 1229 1238	résection
+T40	ANAT 1577 1611	nerf basal inferieur controlatéral
+T41	Localization 1588 1611	inferieur controlatéral
+T42	ANAT 1760 1780	cubitus brachycinome
+T43	DISO 1847 1930	épanchement intrapéritonéal anéchogène tissulaire rétromédiastinal hypervascularisé
+T44	ANAT 1859 1874	intrapéritonéal
+T45	ANAT 2004 2031	membranes galactoblastiques
+T46	PROC 2102 2123	biologie antibiotique
+T47	PROC 2144 2162	antibioprophylaxie
+T48	DISO 2178 2199	léiomyome éosinophile
+T49	MEAS 2207 2213	T3N0Mx
+T50	Concept_Idea 3036 3055	résultat anatomique
+T52	ANAT 3106 3167	lambeau céphalorachidien droit °-pariétal antero-mandibulaire
+T54	ANAT 3182 3214	nerf orbitaire supérieur gauches
+T55	Localization 3207 3214	gauches
+T56	ANAT 3229 3265	espace sous arachnoïdien superficiel
+T57	ANAT 3288 3319	parties molles cervicovaginales
+T58	DISO 3350 3509	prolifération tumorale polyploïde des nappes cutanéomuqueuses pariétocytoplasmaplogroupes basales postéro-latéro-mandibulaires jugulo-mandibulaires nigriformes
+T61	Localization 3558 3568	en arrière
+T62	DEVI 3607 3623	matériel optique
+T63	MEAS 3648 3656	15/11 cm
+T64	MEAS 3660 3667	10/5 cm
+T65	PHEN 3673 3705	récepteurs hormonaux stéroïdiens
+T66	MEAS 3714 3733	modérément positifs
+T67	ANAT 3750 3770	segments sus pubiens
+T68	Concept_Idea 3813 3843	caractéristiques histologiques
+T69	DISO 3879 3902	complication secondaire
+T70	MEAS 3966 3975	favorable
+T71	Concept_Idea 3983 4000	plan neurologique
+T72	TEMP 4033 4043	2 semaines
+T73	LIVB 4052 4059	patient
+T74	CHEM 4087 4116	polytraumatisme psoriasiforme
+T75	LIVB 4129 4131	il
+T76	PROC 4154 4189	amputation exploratrice bipédiculée
+T77	PROC 4203 4226	radiothérapie adjuvante
+T78	PROC 4258 4278	exérèse chirurgicale
+T79	DISO 4311 4338	détresse respiratoire aiguë
+T80	PHEN 4320 4338	respiratoire aiguë

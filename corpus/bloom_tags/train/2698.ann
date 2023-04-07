@@ -1,0 +1,26 @@
+T1	LIVB 3 9	garçon
+T2	TEMP 13 19	12 ans
+T3	CHEM 33 46	métronidazole
+T4	CHEM 48 62	Ciprofloxacine
+T5	CHEM 64 74	Kanamycine
+T6	CHEM 76 88	Pyrazinamide
+T7	CHEM 90 101	Cyclosérine
+T8	CHEM 103 114	Ethionamide
+T9	CHEM 116 130	Chlorpromazine
+T10	CHEM 132 143	Rifampicine
+T11	CHEM 145 156	Vinblastine
+T12	CHEM 158 174	Erythrométhasone
+T13	CHEM 176 188	Simvastatine
+T14	CHEM 190 196	Vit B6
+T15	CHEM 198 211	Dexaméthasone
+T16	CHEM 213 226	Phénobarbital
+T17	CHEM 229 238	Captopril
+T18	CHEM 240 258	Ametilprednisolone
+T19	PROC 265 298	imagerie par résonance magnétique
+T20	PROC 300 303	IRM
+T21	PROC 319 342	radiothérapie adjuvante
+T22	MEAS 401 411	similaires
+T23	DISO 450 467	récidive tumorale
+T24	DISO 474 513	localisations métastatiques secondaires
+T25	DISO 520 542	pneumo-radiculopathies
+T26	TEMP 558 565	24 mois

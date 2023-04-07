@@ -1,0 +1,30 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	Concept_Idea 38 69	antécédents médico-chirurgicaux
+T4	MEAS 70 82	particuliers
+T5	PROC 84 89	admis
+T6	Hospital 94 102	urgences
+T7	DISO 112 140	douleurs abdomino-pelviennes
+T8	ANAT 121 140	abdomino-pelviennes
+T9	DISO 157 163	fièvre
+T10	TEMP 186 199	depuis 2 mois
+T11	PROC 204 220	bilan biologique
+T12	PHEN 234 258	vitesse de sédimentation
+T13	PROC 260 262	VS
+T14	MEAS 276 281	80 mm
+T15	PROC 286 305	protéine-C-réactive
+T16	PROC 307 310	CRP
+T17	MEAS 312 318	élevée
+T18	MEAS 321 329	180 mg/l
+T19	PROC 336 361	taux d'hémoglobine glycée
+T20	DISO 384 400	hyperleucocytose
+T21	MEAS 403 422	18000 éléments /mm³
+T22	PROC 426 441	examen clinique
+T23	LIVB 454 460	enfant
+T24	Concept_Idea 485 503	plan hémodynamique
+T25	CHEM 509 525	sulfaméthoxazole
+T26	CHEM 526 539	triméthoprime
+T27	CHEM 552 575	acide acétylsalicylique
+T28	MODE 580 590	voie orale
+T29	DISO 611 649	syndrome d'épanchement intrapéritonéal
+T30	ANAT 634 649	intrapéritonéal

@@ -1,0 +1,56 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 57	antécédents
+T3	MEAS 58 70	particuliers
+T4	PROC 72 80	adressée
+T5	Hospital 85 110	urgences ophtalmologiques
+T6	DISO 120 136	troubles visuels
+T7	TEMP 146 160	depuis un mois
+T8	PROC 164 179	examen clinique
+T9	PROC 184 193	admission
+T10	LIVB 207 215	patiente
+T11	MEAS 219 222	bon
+T12	Concept_Idea 223 235	état général
+T13	MEAS 245 250	10/10
+T14	ANAT 256 273	segment antérieur
+T15	Localization 264 273	antérieur
+T16	Concept_Idea 292 298	taille
+T17	DISO 318 355	décollement du papillome érythémateux
+T18	ANAT 333 355	papillome érythémateux
+T19	ANAT 372 391	fosse nasale droite
+T20	Localization 385 391	droite
+T21	PROC 396 426	bilan biologique préopératoire
+T22	PHEN 444 459	fonction rénale
+T23	ANAT 453 459	rénale
+T24	MEAS 460 469	conservée
+T25	PROC 476 491	globules blancs
+T26	MEAS 512 538	160000 par millimètre cube
+T27	LIVB 540 544	Nous
+T28	PROC 564 594	échographie abdomino-pelvienne
+T29	ANAT 576 594	abdomino-pelvienne
+T30	PROC 608 621	IRM cérébrale
+T31	ANAT 612 621	cérébrale
+T32	DISO 644 680	lésion tumorale tissulaire hypodense
+T33	MEAS 689 694	18 cm
+T34	MEAS 699 704	12 cm
+T35	MEAS 717 720	3cm
+T36	Concept_Idea 724 733	grand axe
+T37	ANAT 755 781	structures crânio-faciales
+T38	PROC 800 817	bilan d'extension
+T39	PROC 826 857	TDM thoraco-abdomino- pelvienne
+T40	ANAT 830 857	thoraco-abdomino- pelvienne
+T41	DISO 886 922	localisations secondaires nodulaires
+T42	DISO 933 960	métanéphrines métastatiques
+T43	PROC 965 989	chimiothérapie adjuvante
+T44	CHEM 995 1008	dexaméthasone
+T45	DOSE 1011 1016	75 mg
+T46	TEMP 1017 1025	par jour
+T47	CHEM 1076 1089	dexaméthasone
+T48	CHEM 1092 1117	Cisplatine acylsalicyléne
+T49	CHEM 1120 1131	Bevacizumab
+T50	PROC 1137 1167	traitement curatif chirurgical
+T51	PROC 1186 1243	curage ganglionnaire ganglionnaire axillaire locorégional
+T52	ANAT 1193 1243	ganglionnaire ganglionnaire axillaire locorégional
+T53	DEVI 1249 1272	sonde nasofibroscopique
+T55	PROC 1279 1302	injection intraveineuse
+T56	CHEM 1306 1316	paclitaxel
+T57	PROC 1331 1368	radiothérapie concomitante palliative

@@ -1,0 +1,29 @@
+T1	LIVB 20 28	patiente
+T2	DISO 50 75	antécédents pathologiques
+T3	MEAS 76 84	notables
+T4	PROC 88 103	examen clinique
+T5	PROC 108 117	admission
+T6	LIVB 131 139	patiente
+T7	MEAS 143 146	bon
+T8	Concept_Idea 147 159	état général
+T9	ANAT 168 175	abdomen
+T10	MEAS 176 195	légèrement sensible
+T11	PHEN 203 224	contractions utérines
+T12	ANAT 216 224	utérines
+T13	MEAS 225 233	intenses
+T14	PROC 270 289	bilan préopératoire
+T15	PROC 291 312	échographie pelvienne
+T16	ANAT 303 312	pelvienne
+T17	PROC 314 336	radiographie du thorax
+T18	ANAT 330 336	thorax
+T19	DISO 359 368	anomalies
+T20	PROC 383 410	tuberculose pleurale isolée
+T21	ANAT 395 403	pleurale
+T22	PROC 425 439	sérologies VIH
+T23	MEAS 448 456	négatifs
+T24	PROC 461 490	ponction pleurale liquidienne
+T25	ANAT 470 490	pleurale liquidienne
+T26	MODE 507 520	voie veineuse
+T27	PROC 527 550	injection intraveineuse
+T28	DOSE 554 563	0,5 mg/kg
+T29	CHEM 567 585	méthylprednisolone

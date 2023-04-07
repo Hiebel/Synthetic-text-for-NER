@@ -1,0 +1,34 @@
+T1	LIVB 16 21	femme
+T2	PHEN 42 53	antécédents
+T3	MEAS 54 66	particuliers
+T4	PROC 68 74	admise
+T5	Hospital 78 93	bloc opératoire
+T7	DISO 116 161	nodule parathyroïdien tissulaire hypopigmenté
+T8	ANAT 123 161	parathyroïdien tissulaire hypopigmenté
+T9	MEAS 177 188	brutalement
+T10	Concept_Idea 192 198	volume
+T11	MEAS 203 206	3cm
+T12	MEAS 209 214	17 cm
+T13	PROC 219 241	examen ophtalmologique
+T14	DISO 259 283	hyperhémie conjonctivale
+T15	ANAT 270 283	conjonctivale
+T16	PROC 308 338	auscultation pleuro-pulmonaire
+T17	ANAT 321 338	pleuro-pulmonaire
+T18	DISO 360 394	adénopathies laryngopharyngatiques
+T19	ANAT 373 394	laryngopharyngatiques
+T20	DISO 404 424	métastases kystiques
+T21	PROC 442 470	anesthésie nasofibroscopique
+T22	ANAT 453 470	nasofibroscopique
+T23	TEMP 494 507	immédiatement
+T24	MEAS 508 517	détruites
+T25	LIVB 622 631	patientes
+T26	DISO 655 700	traumatisme ischémique laryngolaryngogénitale
+T27	DISO 734 750	kystique maligne
+T29	ANAT 884 905	gynécologue cervicale
+T30	PROC 922 949	examen somatomégalométrique
+T31	DISO 961 974	particularité
+T32	PROC 981 1014	imagerie par résonance magnétique
+T33	PROC 1016 1019	IRM
+T34	PROC 1037 1046	injection
+T35	CHEM 1050 1070	produit de contraste
+T36	CHEM 1076 1103	cisatracurium hydrochloride

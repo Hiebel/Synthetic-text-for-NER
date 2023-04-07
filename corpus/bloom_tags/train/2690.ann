@@ -1,0 +1,40 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 50 61	antécédents
+T3	MEAS 62 74	particuliers
+T4	PROC 76 86	consultait
+T5	Hospital 91 99	urgences
+T6	DISO 109 114	masse
+T7	TEMP 124 136	depuis un an
+T8	ANAT 150 165	plexus brachial
+T9	MEAS 184 199	progressivement
+T10	Concept_Idea 203 209	volume
+T11	DISO 217 222	masse
+T12	MEAS 232 237	14 cm
+T13	Concept_Idea 241 255	grand diamètre
+T14	MEAS 260 264	8 cm
+T15	Concept_Idea 268 281	petite taille
+T16	PROC 285 300	examen clinique
+T17	PROC 305 314	admission
+T18	LIVB 332 340	patiente
+T19	MEAS 344 347	bon
+T20	Concept_Idea 348 360	état général
+T21	PHEN 370 394	réflexes cutanéo-muqueux
+T22	ANAT 379 394	cutanéo-muqueux
+T23	MEAS 395 404	conservés
+T24	DISO 413 440	polynucléaires neutrophiles
+T25	PROC 446 469	TDM abdomino- pelvienne
+T26	ANAT 450 469	abdomino- pelvienne
+T27	DISO 507 549	épanchement intrapéritonéal péribucellaire
+T28	ANAT 519 549	intrapéritonéal péribucellaire
+T29	PROC 567 597	bilan biologique préopératoire
+T30	PROC 610 645	scanner abdomino-cervico-thoracique
+T31	ANAT 618 645	abdomino-cervico-thoracique
+T32	DISO 662 696	lésion tissulaire hypoéchogéodense
+T33	MEAS 705 712	12/10cm
+T34	PROC 733 742	injection
+T35	CHEM 746 766	produit de contraste
+T36	ANAT 787 793	pelvis
+T37	ANAT 811 830	parois intestinales
+T38	ANAT 864 884	substance abdominale
+T39	ANAT 905 925	fosse iliaque droite
+T40	Localization 919 925	droite

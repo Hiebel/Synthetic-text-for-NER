@@ -1,0 +1,65 @@
+T1	LIVB 14 21	Mme Z.Z
+T2	MEAS 59 60	4
+T3	LIVB 61 68	enfants
+T4	DEVI 151 175	matériel d'ostéosynthèse
+T5	Hospital 228 235	travail
+T6	LIVB 246 248	il
+T7	PROC 253 261	consulté
+T8	LIVB 270 280	nourrisson
+T9	PHEN 291 300	grossesse
+T10	MEAS 312 327	progressivement
+T11	Concept_Idea 332 338	taille
+T12	MEAS 355 376	quasi centimètre cube
+T13	PROC 380 398	examen obstétrical
+T14	LIVB 443 454	jeune femme
+T15	PROC 466 472	suivie
+T16	LIVB 491 493	sa
+T17	LIVB 494 499	fille
+T18	LIVB 513 525	petite fille
+T19	LIVB 584 596	frères aînés
+T20	TEMP 625 632	36 mois
+T21	TEMP 636 643	18 mois
+T22	DISO 738 760	difficultés conjugales
+T23	LIVB 786 789	son
+T24	LIVB 790 811	mariage extraconjugal
+T25	LIVB 815 817	sa
+T26	LIVB 818 831	belle-famille
+T27	LIVB 950 954	elle
+T28	DISO 1295 1318	problématique familiale
+T29	DISO 1469 1494	manifestations délirantes
+T30	LIVB 1541 1545	nous
+T31	PROC 1582 1596	étude clinique
+T32	PROC 1605 1621	TDM radiologique
+T33	PROC 1640 1679	scintigraphie rétinienne endobronchique
+T34	PROC 1724 1772	néphrectomie exploratrice scanno-doppler couleur
+T35	MEAS 1828 1832	5 cm
+T36	ANAT 2002 2022	lignes sus pubiennes
+T37	DOSE 2199 2207	10000 UI
+T38	MEAS 2317 2324	simples
+T40	PROC 2385 2442	anastomose termino-terminale du squelette cervico-vaginal
+T41	ANAT 2417 2442	squelette cervico-vaginal
+T42	Concept_Idea 2455 2474	aspect histologique
+T43	PROC 2487 2514	examen anatomopathologiaque
+T44	DISO 2541 2577	nodules tumoraux érythémateux malins
+T45	ANAT 2590 2601	rein gauche
+T46	Localization 2595 2601	gauche
+T47	DISO 2608 2621	calcification
+T48	DISO 2625 2652	remaniements inflammatoires
+T49	DISO 2669 2687	cytoplasme myxoïde
+T50	DISO 2726 2747	récidive métastatique
+T51	PROC 2783 2812	corticothérapie intraveineuse
+T52	CHEM 2818 2836	triméthopéridolone
+T53	DISO 2958 2987	symptômes neuropsychiatriques
+T54	PROC 3015 3034	traitement adjuvant
+T55	DOSE 3075 3081	4mg/kg
+T56	TEMP 3081 3086	/jour
+T57	DOSE 3089 3099	50 mg / kg
+T58	TEMP 3099 3101	/j
+T60	PROC 3149 3174	antibiotique probabiliste
+T61	PROC 3198 3236	méthodes immunoglobulines IgG sériques
+T62	LIVB 3698 3709	vétérinaire
+T63	PROC 3773 3783	transfecté
+T64	MEAS 3894 3906	particuliers
+T65	PROC 3947 3959	intervention
+T66	MEAS 3966 3976	raccourcie
+T67	LIVB 4006 4016	nouveau-né

@@ -1,0 +1,50 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	12 ans
+T3	CHEM 35 41	Ténon®
+T4	DOSE 43 52	600 mg/kg
+T5	TEMP 52 54	/j
+T6	MODE 60 70	voie orale
+T7	TEMP 84 89	2 ans
+T8	DISO 183 206	traumatisme oculomoteur
+T9	DISO 246 259	symptomatique
+T10	LIVB 286 298	petite fille
+T11	DISO 355 376	cataracte congénitale
+T12	DISO 383 411	tuberculose cutanée brunâtre
+T13	DISO 427 462	chondromatose érythémato-pustuleuse
+T14	DISO 472 498	maladie ostéo-vascularisée
+T15	PROC 570 614	prélèvements bactériologiques peropératoires
+T16	PROC 621 654	ponction liquide céphalorachidien
+T17	ANAT 630 654	liquide céphalorachidien
+T18	DISO 740 765	pathologies neurologiques
+T19	PROC 798 820	recherche radiologique
+T20	DISO 915 950	méningo-radiculopathies secondaires
+T21	PROC 1098 1128	bilan biologique préopératoire
+T22	PROC 1227 1250	sérologies virales BHCG
+T23	MEAS 1259 1268	négatives
+T24	CHEM 1306 1320	Ciprofloxacine
+T25	MEAS 1329 1337	positifs
+T26	MEAS 1355 1365	0,48 UI/ml
+T27	MEAS 1373 1383	1,08 UI/ml
+T28	PROC 1387 1412	traitement prophylactique
+T29	CHEM 1449 1465	sulfaméthoxazole
+T30	CHEM 1467 1478	ceftriaxone
+T31	DOSE 1479 1485	200 mg
+T32	TEMP 1485 1490	/jour
+T33	PROC 1496 1506	diagnostic
+T34	DISO 1532 1561	neuroendocrinome hypophysaire
+T35	PROC 1600 1623	radiothérapie adjuvante
+T36	DISO 1663 1677	ictère fébrile
+T37	MEAS 1726 1749	de plus en plus pesante
+T38	PROC 1781 1806	réhydratation parentérale
+T39	DISO 1899 1924	craniosténoses mécaniques
+T40	ANAT 1954 1980	masses cervico-thoraciques
+T41	DEVI 2192 2227	sonde thoracique transoesophagienne
+T42	ANAT 2198 2227	thoracique transoesophagienne
+T43	ANAT 2335 2357	fosse iliaque centrale
+T44	Localization 2349 2357	centrale
+T45	Concept_Idea 2411 2417	taille
+T46	LIVB 2422 2430	patiente
+T48	DISO 2469 2522	syndrome d'atrophie des parties molles crânio-faciale
+T49	ANAT 2493 2522	parties molles crânio-faciale
+T50	PROC 2538 2563	surveillance radiologique
+T51	TEMP 2581 2586	2 ans

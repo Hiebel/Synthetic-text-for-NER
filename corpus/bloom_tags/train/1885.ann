@@ -1,0 +1,17 @@
+T1	LIVB 29 37	patiente
+T2	DISO 58 81	antécédent pathologique
+T3	MEAS 82 89	notable
+T4	PROC 91 99	adressée
+T5	PROC 107 118	exploration
+T6	DISO 124 189	carcinome ganglionnaire médiastinal angiosarcomateux hypertrophié
+T8	DISO 191 195	ADKT
+T9	TEMP 197 209	initialement
+T10	PROC 210 222	diagnostiqué
+T11	DISO 229 261	neuroendocrine tumoral lésionnel
+T12	PROC 345 368	radiothérapie adjuvante
+T13	DOSE 379 384	60 Gy
+T14	CHEM 460 473	dexaméthasone
+T15	CHEM 476 486	cisplatine
+T16	CHEM 491 503	carboplatine
+T17	CHEM 506 520	hydrocortisone
+T18	LIVB 601 611	survivants

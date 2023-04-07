@@ -1,0 +1,93 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 35	9 mois
+T3	DISO 42 67	antécédents pathologiques
+T4	MEAS 68 80	particuliers
+T5	Concept_Idea 86 89	âge
+T6	TEMP 93 99	8 mois
+T7	LIVB 104 110	malade
+T8	DISO 126 159	douleurs au niveau du rein gauche
+T9	ANAT 148 159	rein gauche
+T10	Localization 153 159	gauche
+T11	DISO 167 171	toux
+T12	Concept_Idea 222 234	état général
+T13	PROC 244 259	examen clinique
+T14	DISO 278 314	tuméfaction érythémato-splénomégalie
+T15	MEAS 323 327	1 cm
+T16	Concept_Idea 331 339	diamètre
+T17	PHEN 432 457	réflexes cutanéomuqueuses
+T18	ANAT 470 481	flanc moyen
+T19	Localization 476 481	moyen
+T20	DISO 526 541	symptomatologie
+T21	DISO 557 562	signe
+T22	DISO 585 600	symptomatologie
+T23	PROC 604 629	étude anatomopathologique
+T24	DISO 651 712	léiomyosarcome sarcomateux carcinomateux myxoide métastatique
+T25	MEAS 733 740	stade I
+T26	PROC 791 813	traitement chirurgical
+T27	PROC 836 855	rééducation motrice
+T28	PROC 869 894	chimiothérapie palliative
+T29	Concept_Idea 907 926	résultats cliniques
+T30	PROC 940 963	radiothérapie adjuvante
+T31	CHEM 983 992	fluothane
+T32	CHEM 995 1021	bupropionate de gadolinium
+T33	PROC 1038 1074	thyroïdectomie transrectale monobloc
+T34	PROC 1080 1104	rachianesthésie générale
+T35	DISO 1123 1189	distension abdominale cervico-thoraco- abdomino-pelviennopelvienne
+T36	ANAT 1134 1189	abdominale cervico-thoraco- abdomino-pelviennopelvienne
+T37	MEAS 1226 1233	simples
+T38	PROC 1288 1308	TDM crânio-cervicale
+T39	ANAT 1292 1308	crânio-cervicale
+T40	DISO 1326 1456	processus lésionnel tissulaire ostéocaliciel ischémique hétérodimédiastinébelleux hypoachromagique hyperkératosique multicloisonné
+T41	MEAS 1466 1470	6 cm
+T42	Concept_Idea 1474 1483	grand axe
+T43	DISO 1553 1607	calcifications kératinocytoplasmes intracytonucléaires
+T44	ANAT 1627 1647	ganglions pyloriques
+T45	DISO 1683 1764	remaniement liquidien périostéonucleaire polyploïde oblong fibrinolytique nécrosé
+T46	DEVI 1773 1823	plaquettes polygonales alpha hydrosolubles courtes
+T47	ANAT 1840 1855	cellule caudale
+T48	MEAS 2015 2018	10%
+T49	MEAS 2022 2024	5%
+T52	ANAT 2233 2283	lobules cartilagineux chondroblastiques postérieur
+T53	ANAT 2298 2343	parenchyme rénal thoracique inferieur latéral
+T54	ANAT 2372 2414	parties molles pariéto-pyloriques charnues
+T56	ANAT 2495 2589	structures musculaires jéjunales antero-mandibulaires juxta glandiformes scapulaires adjacents
+T57	PROC 2615 2644	prise en charge thérapeutique
+T58	PROC 2650 2687	échographie obstétricale exploratrice
+T59	LIVB 2702 2708	garçon
+T60	ANAT 2736 2771	annexes gastroduodénales inguinales
+T61	Localization 2850 2865	face inférieure
+T62	ANAT 2870 2934	anses péritonéales intrarachidiennes du plexus brachydactyloides
+T63	PHEN 2955 2964	grossesse
+T64	MEAS 2972 2978	2,9 kg
+T65	DISO 2984 3006	adénopathies cervicale
+T66	DISO 3010 3026	du rein proximal
+T67	ANAT 3013 3026	rein proximal
+T69	DISO 3036 3061	localisations secondaires
+T70	PROC 3095 3104	injection
+T71	CHEM 3108 3131	sérum salé hypertonique
+T72	DOSE 3133 3135	1g
+T73	TEMP 3135 3145	/24 heures
+T74	PROC 3161 3181	biopsie chirurgicale
+T75	PROC 3187 3212	étude immunohistochimique
+T76	DISO 3235 3282	léiomyome éosinophile carcinomateux métastasant
+T77	TEMP 3290 3295	3 ans
+T78	PROC 3315 3325	diagnostic
+T79	PROC 3354 3363	transfusé
+T80	PROC 3383 3408	corticothérapie adjuvante
+T81	PROC 3422 3456	radiothérapie externe concomitante
+T82	PROC 3472 3495	néphrectomie préventive
+T83	PROC 3508 3540	scanner thoraco-abdomino-pelvien
+T84	ANAT 3516 3540	thoraco-abdomino-pelvien
+T85	DISO 3564 3666	comblement tissulaire endocrine hétérotopique monobloc adhérentiel aux glandes salivaires anictériques
+T86	ANAT 3635 3666	glandes salivaires anictériques
+T87	ANAT 3684 3714	lobe supérieur inférieur droit
+T88	Localization 3699 3714	inférieur droit
+T89	MEAS 3723 3727	8 cm
+T90	Concept_Idea 3731 3740	petit axe
+T92	MEAS 4050 4057	simples
+T93	PROC 4060 4087	examen anatomo-pathologique
+T94	DISO 4112 4151	mégacaryocytose trophoblastique myxoide
+T95	MEAS 4160 4168	stade IV
+T96	Concept_Idea 4222 4251	aspect cliniquement évocateur
+T97	DISO 4274 4310	myome interstitiel tumoral malignité
+T98	MEAS 4318 4326	grade II

@@ -1,0 +1,46 @@
+T1	LIVB 4 15	jeune femme
+T2	TEMP 24 30	22 ans
+T3	PROC 35 40	reçue
+T4	Hospital 45 53	urgences
+T5	DISO 73 108	polyradiculonévralgie inflammatoire
+T6	DISO 124 136	hyperthermie
+T7	DISO 209 222	inflammatoire
+T8	PROC 241 269	prise en charge chirurgicale
+T9	LIVB 281 289	patiente
+T10	DISO 317 336	pleurésie purulante
+T11	PROC 523 549	étude immuno-histochimique
+T12	DISO 642 663	carcinome épidermoide
+T13	DISO 674 701	chondromatose érythémateuse
+T14	DISO 853 876	kystis hydronéphratique
+T15	DISO 1005 1024	traumatisme crânien
+T16	PROC 1220 1245	exploration gynécologique
+T17	DISO 1270 1286	tumeur hypodense
+T18	MEAS 1302 1313	volumineuse
+T19	Concept_Idea 1327 1333	taille
+T20	ANAT 1361 1371	col utérin
+T21	Concept_Idea 1485 1496	proportions
+T22	DISO 1511 1535	sténose duodéno-grêlique
+T23	ANAT 1519 1535	duodéno-grêlique
+T24	Concept_Idea 1573 1581	contours
+T25	MEAS 1582 1598	circonférentiels
+T26	ANAT 1642 1656	parties molles
+T27	DISO 1702 1733	lésions cicatricielles malignes
+T28	DISO 1750 1772	fistule péritissulaire
+T29	DISO 1920 1941	détresse respiratoire
+T30	PHEN 1929 1941	respiratoire
+T31	DISO 1953 1968	empyème tumoral
+T32	MEAS 1978 1982	4 cm
+T33	Concept_Idea 1986 1999	petite taille
+T34	TEMP 2025 2030	12ans
+T35	Concept_Idea 2087 2100	grande taille
+T36	MEAS 2110 2136	de plus en plus volumineux
+T37	Concept_Idea 2159 2180	limites radiologiques
+T38	LIVB 2240 2248	patiente
+T39	PROC 2267 2295	chimiothérapie néo adjuvante
+T40	CHEM 2297 2301	CDDP
+T41	CHEM 2303 2313	cisplatine
+T42	CHEM 2317 2330	dexaméthasone
+T43	MODE 2336 2346	voie orale
+T44	PROC 2360 2448	radiothérapie du carcinome urothelial cervicocervico-mésenchymateux des parois vaginales
+T46	ANAT 2432 2448	parois vaginales
+T47	ANAT 2455 2463	épiploon

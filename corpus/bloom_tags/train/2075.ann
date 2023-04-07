@@ -1,0 +1,41 @@
+T1	LIVB 29 34	femme
+T2	DISO 56 87	antécédents médico-chirurgicaux
+T3	MEAS 88 100	particuliers
+T4	PROC 102 108	admise
+T5	Hospital 113 121	urgences
+T6	DISO 141 167	douleur abdominale ulcérée
+T7	ANAT 149 167	abdominale ulcérée
+T8	DISO 180 202	cholécystite chronique
+T9	PROC 206 230	exploration chirurgicale
+T10	LIVB 254 262	patiente
+T11	DISO 267 314	paroi abdominopelvienne polymyomateuse kystisée
+T12	Concept_Idea 317 323	aspect
+T13	MEAS 324 339	en verre dépoli
+T14	MEAS 349 354	10 cm
+T15	Concept_Idea 358 367	grand axe
+T16	MEAS 372 376	5 cm
+T17	Concept_Idea 380 388	diamètre
+T18	DISO 408 436	épanchement intra-péritonéal
+T19	ANAT 420 436	intra-péritonéal
+T20	ANAT 454 463	péritoine
+T21	PROC 491 509	toilette pelvienne
+T22	ANAT 500 509	pelvienne
+T23	PROC 530 555	anesthésie loco-régionale
+T24	ANAT 541 555	loco-régionale
+T25	CHEM 566 577	propranolol
+T26	CHEM 583 596	bromocriptine
+T27	PROC 610 641	colpohysterectomie type Bruneau
+T28	MEAS 693 707	satisfaisantes
+T29	DISO 720 742	troubles neurologiques
+T30	PROC 762 799	extraction utérine transplacentanelle
+T31	DISO 817 844	thrombose veineuse méningée
+T32	ANAT 827 844	veineuse méningée
+T33	DISO 851 870	nécrose membraneuse
+T34	ANAT 859 870	membraneuse
+T35	DISO 944 957	inflammatoire
+T36	DISO 969 982	métastatiques
+T37	DISO 1003 1020	récidive tumorale
+T38	PROC 1037 1062	étude anatomopathologique
+T39	ANAT 1069 1086	pièce) opératoire
+T40	PROC 1076 1086	opératoire
+T41	PROC 1090 1107	bilan d'hémostase

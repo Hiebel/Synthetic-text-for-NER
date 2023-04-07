@@ -1,0 +1,32 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	PHEN 43 63	grossesse gémellaire
+T4	PROC 82 88	suivie
+T5	DISO 155 168	consanguinité
+T6	DISO 174 196	épanchement péritonéal
+T7	ANAT 186 196	péritonéal
+T8	LIVB 210 220	nouveau-né
+T9	DISO 240 257	dyspnée sifflante
+T10	DISO 273 279	sueurs
+T11	MEAS 280 288	profuses
+T12	DISO 290 320	diarrhées bilieuses purulentes
+T13	Concept_Idea 350 362	état général
+T14	PROC 380 416	tomodensitométrie abdomino pelvienne
+T15	ANAT 398 416	abdomino pelvienne
+T16	DISO 430 503	masse tumorale du parenchyme rétro hyoïdien sus claviculaire hypertrophié
+T18	Localization 474 477	sus
+T19	MEAS 513 517	10cm
+T20	Concept_Idea 521 530	grand axe
+T21	ANAT 555 589	parties molles cervico-thoraciques
+T22	DISO 612 641	lésions ostéo-carcinomateuses
+T23	DISO 712 730	pathologie maligne
+T24	ANAT 824 834	thoracique
+T25	DISO 893 903	métastases
+T26	DISO 909 943	lymphangiome hyperkérato-sécrétant
+T27	DISO 970 1001	stigmates d'épanchement pleural
+T28	ANAT 994 1001	pleural
+T29	PROC 1038 1062	scanner abdomino-pélvien
+T30	ANAT 1046 1062	abdomino-pélvien
+T31	DISO 1087 1124	lésion hypo métaboliquement rehaussée
+T32	ANAT 1155 1208	structures musculaires méso-distales susclaviculaires
+T33	ANAT 1230 1265	glande œsophagienne diaphragmatique

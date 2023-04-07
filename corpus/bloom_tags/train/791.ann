@@ -1,0 +1,64 @@
+T1	LIVB 29 34	femme
+T2	DISO 93 110	céphalées fébrile
+T3	DISO 112 141	troubles visuels monoculaires
+T4	DISO 154 168	amaigrissement
+T5	MEAS 179 184	15 kg
+T6	DISO 236 265	hypercholestérolémie primaire
+T7	PROC 271 289	traitement médical
+T8	CHEM 300 318	méthylprednisolone
+T9	DOSE 321 327	1mg/kg
+T11	CHEM 335 348	acénocoumarol
+T12	DOSE 350 357	0,5g/kg
+T13	TEMP 357 359	/j
+T14	DISO 365 388	hémopéritoine purulente
+T15	DISO 404 426	insuffisance digestive
+T16	PHEN 417 426	digestive
+T17	DISO 503 538	anomalie thromboembolique viscérale
+T18	DISO 555 575	hydatidose chronique
+T19	DISO 580 617	néphropathie congénitale hypertensive
+T20	LIVB 645 655	nouveau-né
+T21	Hospital 669 690	urgences pédiatriques
+T22	PROC 710 736	investigation radiologique
+T23	PROC 740 753	radioclinique
+T24	DISO 781 806	signes neuroradiologiques
+T25	DISO 833 859	déficits sensitivomotrices
+T26	DISO 881 907	diplômes sensitivo-moteurs
+T27	DISO 1030 1054	maladie cœliaque maligne
+T28	DISO 1062 1079	épilepsie globale
+T29	PROC 1115 1149	ponction écho-guidée transfixiante
+T30	PROC 1150 1153	TEP
+T31	PROC 1158 1188	échographie abdomino-pelvienne
+T32	ANAT 1170 1188	abdomino-pelvienne
+T33	DISO 1215 1243	vésicule biliaire polykystée
+T34	TEMP 1271 1282	12 semaines
+T35	PROC 1319 1336	scanner abdominal
+T36	ANAT 1327 1336	abdominal
+T37	DISO 1350 1377	sténose duodéno-iléo-cæcale
+T38	ANAT 1358 1377	duodéno-iléo-cæcale
+T39	MEAS 1386 1397	volumineuse
+T40	ANAT 1433 1446	méso-duodénal
+T41	MEAS 1476 1490	indifférenciée
+T42	PROC 1515 1537	palpation chirurgicale
+T43	Concept_Idea 1545 1551	taille
+T44	MEAS 1562 1567	30 mm
+T45	DISO 1690 1699	symptômes
+T46	MEAS 2004 2013	favorable
+T47	MEAS 2023 2036	plus marquées
+T48	DISO 2061 2079	crises douloureuse
+T49	MEAS 2094 2101	modérée
+T50	PROC 2117 2140	explorations somatiques
+T51	DEVI 2223 2240	doulas électrique
+T52	LIVB 2317 2327	nouveau-né
+T53	PHEN 2361 2370	grossesse
+T54	PROC 2375 2381	suivie
+T55	DISO 2411 2432	progestérone syndrome
+T56	PROC 2436 2460	aménorrhée thérapeutique
+T57	CHEM 2462 2482	hydroxy progestérone
+T58	DOSE 2484 2490	0,5 mg
+T59	CHEM 2493 2507	hydrocortisone
+T60	PROC 2528 2547	bilan préopératoire
+T61	PROC 2562 2578	glycémie glyquée
+T62	PROC 2580 2592	troponine Ic
+T63	PROC 2594 2619	fibrinolyse intraveineuse
+T64	PROC 2634 2658	anticorps antinucléaires
+T65	MEAS 2675 2682	normaux

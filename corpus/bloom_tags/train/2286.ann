@@ -1,0 +1,13 @@
+T1	LIVB 3 11	patiente
+T2	PROC 18 25	traitée
+T3	CHEM 33 43	corticoïde
+T4	CHEM 49 63	hydrocortisone
+T5	DOSE 65 70	10 mg
+T6	TEMP 70 72	/j
+T7	MEAS 88 94	grande
+T8	CHEM 102 120	hydroxychloroquine
+T9	DOSE 122 128	400 mg
+T10	TEMP 128 130	/j
+T11	DISO 181 190	symptômes
+T12	DISO 196 218	hypotension artérielle
+T13	ANAT 208 218	artérielle

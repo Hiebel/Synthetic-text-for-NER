@@ -1,0 +1,27 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	PROC 33 38	admis
+T4	Hospital 43 51	urgences
+T5	DISO 61 83	douleurs épigastriques
+T6	ANAT 70 83	épigastriques
+T7	DISO 100 106	fièvre
+T8	MEAS 118 122	39°C
+T9	PROC 126 150	exploration chirurgicale
+T10	DISO 164 193	masse kystique du flanc droit
+T11	ANAT 182 193	flanc droit
+T12	Localization 188 193	droit
+T13	MEAS 202 208	2,5 cm
+T14	Concept_Idea 211 217	aspect
+T15	MEAS 218 224	massif
+T16	MEAS 228 240	bien limitée
+T17	PROC 264 301	rehaussement par produit de contraste
+T18	CHEM 281 301	produit de contraste
+T19	DISO 307 327	signes neurorétinien
+T20	PROC 341 371	ponction liquidienne gastrique
+T21	ANAT 350 371	liquidienne gastrique
+T22	DEVI 395 413	cathéter intubaire
+T23	ANAT 404 413	intubaire
+T24	DEVI 429 460	sonde œsophagienne ultrasonique
+T26	PHEN 469 485	trajet gastrique
+T27	ANAT 476 485	gastrique
+T28	PROC 505 522	anesthésie locale

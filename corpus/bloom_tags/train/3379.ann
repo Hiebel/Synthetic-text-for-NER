@@ -1,0 +1,92 @@
+T1	LIVB 19 26	patient
+T2	PROC 38 49	hospitalisé
+T3	Hospital 53 60	urgence
+T4	DISO 70 100	tuméfaction du plexus brachial
+T5	ANAT 85 100	plexus brachial
+T6	TEMP 110 124	depuis un mois
+T7	MEAS 137 152	progressivement
+T8	Concept_Idea 156 162	volume
+T9	LIVB 164 166	Il
+T10	PROC 173 178	admis
+T11	Hospital 182 197	bloc opératoire
+T12	PROC 210 227	anesthésie locale
+T13	CHEM 237 249	indométacine
+T14	DOSE 251 258	2 mg/kg
+T15	MODE 260 266	per os
+T16	PROC 272 295	radiothérapie adjuvante
+T17	ANAT 319 333	tissu grêlique
+T18	PROC 337 355	examen extemporané
+T19	DISO 373 466	masse tissulaire arrondie des muscles paravertébraux cervico-cervicominusiens latéro-utérines
+T21	MEAS 475 480	11 cm
+T22	Concept_Idea 484 493	grand axe
+T23	DISO 499 536	épanchement intramembraneux liquidien
+T24	ANAT 511 536	intramembraneux liquidien
+T25	DISO 547 567	signes neurologiques
+T26	DISO 594 658	syndrome d'épanchement intra-parenchymateux liquidien péritonéal
+T27	ANAT 617 658	intra-parenchymateux liquidien péritonéal
+T28	DISO 668 693	localisations secondaires
+T29	ANAT 712 728	organes hilaires
+T30	PROC 746 760	identification
+T31	DISO 767 801	carcinose épidermique prurigineuse
+T32	DEVI 826 851	classification NIHSS/4ADS
+T33	PROC 855 886	tomodensitométrie préopératoire
+T34	DISO 908 933	localisation métastatique
+T35	PROC 940 970	supplémentation radiorésistive
+T36	DISO 986 1006	vomissements bilieux
+T37	PHEN 1020 1035	fonction rénale
+T38	ANAT 1029 1035	rénale
+T39	MEAS 1036 1043	normale
+T40	DISO 1076 1107	hyperdensité tumorale hypodense
+T41	ANAT 1131 1154	parties molles utérines
+T42	MEAS 1179 1187	35x22 mm
+T43	MEAS 1191 1198	39x23mm
+T44	ANAT 1231 1250	parois intestinales
+T45	Localization 1276 1284	totalité
+T46	DISO 1378 1392	neuroendocrine
+T47	DISO 1396 1415	hormonophagocytaire
+T48	DISO 1454 1481	maladie thromboemboliquante
+T49	LIVB 1538 1546	patiente
+T50	DISO 1592 1618	douleur abdomino-pelvienne
+T51	ANAT 1600 1618	abdomino-pelvienne
+T52	MEAS 1633 1640	modérée
+T53	MEAS 1650 1678	de plus en plus insoportable
+T54	DISO 1697 1718	détresse respiratoire
+T55	PHEN 1706 1718	respiratoire
+T56	MEAS 1730 1738	8 kg/m 2
+T57	DISO 1753 1759	fièvre
+T58	MEAS 1770 1776	38°5 C
+T59	PROC 1788 1808	intubage chirurgical
+T60	DISO 1869 1893	bradycardie hypertensive
+T61	TEMP 1941 1967	quelques heures auparavant
+T62	DISO 1996 2018	néphropathie purulente
+T63	DISO 2052 2063	prématurité
+T64	MEAS 2073 2080	10kg/kg
+T65	DISO 2098 2121	hypertension artérielle
+T66	ANAT 2111 2121	artérielle
+T67	MEAS 2158 2181	122/89 millimètres cube
+T68	PROC 2270 2293	chirurgie transurectale
+T69	PROC 2372 2389	bilan étiologique
+T70	PROC 2397 2419	interrogatoires locaux
+T71	DISO 2487 2496	symptômes
+T72	TEMP 2509 2518	six jours
+T73	LIVB 2525 2527	sa
+T74	PROC 2528 2553	récupération hospitalière
+T75	PROC 2558 2579	échographie pelvienne
+T76	ANAT 2570 2579	pelvienne
+T78	MEAS 2688 2702	30 centimètres
+T79	Concept_Idea 2706 2715	grand axe
+T80	ANAT 2739 2755	placenta urétral
+T81	Localization 2780 2790	bilatérale
+T82	DISO 2827 2842	kyste hydatique
+T83	PROC 2884 2909	étude anatomopathologique
+T84	DISO 2927 2949	épanchement péritonéal
+T85	ANAT 2939 2949	péritonéal
+T86	DISO 3011 3040	niveaux hydro-électrolytiques
+T87	ANAT 3050 3076	liquides céphalorachidiens
+T88	PROC 3125 3147	ponction intraveineuse
+T90	PROC 3168 3199	anesthésie locale préopératoire
+T91	CHEM 3201 3209	propofol
+T92	DOSE 3212 3221	0,4 mg/kg
+T93	CHEM 3224 3233	midazolam
+T94	DOSE 3236 3242	1mg/kg
+T95	DEVI 3322 3332	cathéteres

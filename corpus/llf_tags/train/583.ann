@@ -1,0 +1,12 @@
+T1	PROC 0 10	consultait
+T2	DISO 20 58	tumeur de l'angle crico-trachéo-buccal
+T3	ANAT 32 58	angle crico-trachéo-buccal
+T4	LIVB 63 70	patient
+T5	PROC 84 105	traitement corticoïde
+T6	CHEM 95 105	corticoïde
+T7	Concept_Idea 111 115	dose
+T8	DOSE 119 124	20 mg
+T9	TEMP 124 126	/j
+T10	PROC 137 161	chimiothérapie adjuvante
+T11	CHEM 167 179	tamoxifenème
+T13	TEMP 217 224	18 mois

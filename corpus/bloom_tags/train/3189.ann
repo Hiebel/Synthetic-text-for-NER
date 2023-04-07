@@ -1,0 +1,29 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	PROC 37 41	reçu
+T4	Hospital 46 54	urgences
+T5	DISO 64 93	douleurs épigastriques aiguës
+T6	ANAT 73 86	épigastriques
+T7	DISO 110 121	déglutition
+T8	PROC 125 140	examen clinique
+T9	LIVB 157 163	enfant
+T10	MEAS 167 170	bon
+T11	Concept_Idea 171 183	état général
+T12	PHEN 189 211	reflexes ostéo-cutanés
+T13	ANAT 198 211	ostéo-cutanés
+T14	ANAT 244 254	artérielle
+T15	MEAS 263 276	180/100 mm Hg
+T16	Localization 278 290	périphérique
+T17	PROC 296 324	radiographie du cuir chevelu
+T18	ANAT 312 324	cuir chevelu
+T19	DISO 338 367	hyperparathyroïdie hétérogène
+T20	CHEM 389 409	produit de contraste
+T21	PROC 415 445	échographie abdomino-pelvienne
+T22	ANAT 427 445	abdomino-pelvienne
+T23	PROC 457 474	anesthésie locale
+T24	DISO 499 560	adénopathie hépato-surrénalienne péribuccale hypovascularisée
+T26	DISO 581 663	hypertrophie tissulaire basithalamo-hypophysaire bilobée inféro-laterale hypodense
+T28	DISO 684 749	opacités vésiculo-interstitielles latéro-utérines palmipalmiennes
+T29	ANAT 693 749	vésiculo-interstitielles latéro-utérines palmipalmiennes
+T30	DISO 763 848	hypotrophie ganglionnaire pituitaire antécristalline susrétinienne cervicale nécrosée
+T32	DISO 854 878	lésion nodulaire maligne

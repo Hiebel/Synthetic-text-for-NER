@@ -1,0 +1,28 @@
+T1	LIVB 20 25	femme
+T2	Concept_Idea 42 53	antécédents
+T3	MEAS 54 66	particuliers
+T4	PROC 68 78	consultait
+T5	Hospital 83 91	urgences
+T6	DISO 101 109	douleurs
+T7	ANAT 123 145	membre supérieur droit
+T8	Localization 140 145	droit
+T9	Concept_Idea 159 165	effort
+T10	TEMP 175 188	depuis 6 mois
+T11	PROC 192 207	examen clinique
+T12	LIVB 221 229	patiente
+T13	MEAS 233 242	assez bon
+T14	Concept_Idea 243 255	état général
+T16	ANAT 296 327	péritonéal latéro périprénalien
+T17	DISO 351 369	détresse digestive
+T18	PHEN 360 369	digestive
+T19	PROC 374 393	bilan préopératoire
+T20	PROC 411 442	échographie abdomino- pelvienne
+T21	ANAT 423 442	abdomino- pelvienne
+T22	TEMP 455 464	2ème jour
+T23	PROC 467 482	hospitalisation
+T24	DISO 499 538	lésion kystique hypo échogène hypodense
+T25	MEAS 548 556	46x42 mm
+T26	ANAT 572 599	substance grêlique jéjunale
+T27	PROC 610 618	réséquée
+T28	PROC 624 646	anastomose iléocoecale
+T29	ANAT 635 646	iléocoecale

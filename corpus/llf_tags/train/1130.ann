@@ -1,0 +1,33 @@
+T1	DISO 4 34	tumeur du parenchyme hépatique
+T2	ANAT 14 34	parenchyme hépatique
+T3	Concept_Idea 39 46	couleur
+T4	MEAS 47 61	blanc grisâtre
+T5	PROC 65 83	étude histologique
+T6	DISO 98 152	processus tumoral maligne des hépato-gastro-duodénales
+T7	ANAT 128 152	hépato-gastro-duodénales
+T8	ANAT 169 208	voies biliaires intrabronchovasculaires
+T9	ANAT 215 226	rein gauche
+T10	Localization 220 226	gauche
+T11	ANAT 239 253	annexe utérine
+T12	ANAT 276 284	pancréas
+T13	DISO 290 332	envahissement par la veine cave antérieure
+T14	ANAT 311 332	veine cave antérieure
+T15	Localization 322 332	antérieure
+T16	DISO 342 347	signe
+T17	PROC 361 391	complément immunohistochimique
+T18	DISO 423 454	léiomyome polypoïde épithéloide
+T19	MEAS 464 468	3 cm
+T20	Concept_Idea 472 481	grand axe
+T21	ANAT 495 518	sillons crico-trachéaux
+T22	DISO 555 561	lésion
+T23	LIVB 566 574	patiente
+T24	PROC 593 620	thyroïdectomie exploratrice
+T25	PROC 626 644	antibioprophylaxie
+T26	CHEM 646 658	amoxicilline
+T27	CHEM 661 685	acide acétyle glutamique
+T28	PROC 700 741	radio-chimiothoracothérapie néo adjuvante
+T29	TEMP 748 756	deux ans
+T30	PROC 762 772	opératoire
+T31	PHEN 815 838	cicatrisation terminale
+T32	DISO 857 879	récidive peropératoire
+T33	PROC 889 909	traitement palliatif

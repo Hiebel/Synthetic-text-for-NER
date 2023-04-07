@@ -1,0 +1,90 @@
+T1	LIVB 16 24	patiente
+T2	PROC 66 72	Admise
+T3	DISO 82 86	toux
+T4	MEAS 87 92	sèche
+T5	TEMP 102 120	depuis trois jours
+T6	Concept_Idea 142 154	état général
+T7	DISO 170 202	douleurs basi-thoracique froides
+T8	ANAT 179 194	basi-thoracique
+T9	DISO 215 221	signes
+T10	DISO 255 271	syndrome grippal
+T11	DISO 288 315	symptomatologie infectieuse
+T12	PROC 337 352	examen clinique
+T13	LIVB 356 364	patiente
+T14	PHEN 371 378	décédée
+T15	PROC 395 405	transférée
+T16	Hospital 409 428	chirurgie viscérale
+T17	PROC 435 452	geste chirurgical
+T18	PROC 499 532	résection du lobe inferieur droit
+T19	ANAT 512 532	lobe inferieur droit
+T20	Localization 527 532	droit
+T21	PROC 538 553	rachianesthésie
+T22	PROC 567 586	toilette abdominale
+T23	ANAT 576 586	abdominale
+T24	ANAT 670 682	conjonctives
+T25	PROC 694 704	extraction
+T26	PROC 718 765	ponction biopsie scanno-guidée cervico-vaginale
+T27	ANAT 782 790	muqueuse
+T28	DISO 819 828	métastase
+T29	MEAS 865 872	simples
+T30	MEAS 882 890	brutales
+T31	PROC 894 919	étude immunohistochimique
+T32	PROC 921 938	immunohistochimie
+T33	CHEM 979 991	antibiotique
+T34	CHEM 1004 1022	acide clavulanique
+T35	CHEM 1025 1045	amoxicilline sodique
+T36	MEAS 1065 1070	bonne
+T37	MEAS 1109 1118	favorable
+T38	LIVB 1198 1205	malades
+T39	TEMP 1215 1223	six mois
+T40	PROC 1231 1253	traitement substitutif
+T41	PROC 1374 1393	traitement adjuvant
+T42	LIVB 1427 1439	réanimateurs
+T43	DEVI 1530 1550	produits injectables
+T44	MODE 1602 1617	culots perfusés
+T45	TEMP 2307 2317	4 semaines
+T46	MEAS 2325 2330	20 kg
+T47	PROC 2406 2431	consultation obstétricale
+T48	PROC 2455 2480	néphrectomie exploratrice
+T49	DISO 2549 2607	adénomégalies cutanéomuqueuses prurigineuses angiomateuses
+T50	PROC 2661 2684	accouchement monofoetal
+T51	PROC 2702 2724	technique endoscopiste
+T52	PROC 2754 2760	suivie
+T53	PROC 2813 2832	séances asynchrones
+T54	PROC 2853 2870	bilan étiologique
+T55	PROC 2897 2916	examens biologiques
+T56	DISO 2941 2955	particularités
+T57	DISO 2979 3002	souffrance respiratoire
+T58	ANAT 2990 3002	respiratoire
+T59	DISO 3013 3039	signes neuropsychiatriques
+T60	LIVB 3068 3078	nouveau-né
+T61	Hospital 3099 3120	urgences pédiatriques
+T62	PROC 3131 3140	transfusé
+T63	Hospital 3144 3159	bloc opératoire
+T64	PROC 3193 3224	traction scapulaire extradurale
+T65	PROC 3254 3262	adressée
+T66	Hospital 3266 3277	psychiatrie
+T67	PROC 3297 3335	anticoagulation intraveineuse générale
+T68	CHEM 3351 3367	acide valproique
+T69	DOSE 3369 3378	0,5 mg/kg
+T70	PROC 3393 3415	kinésithérapie motrice
+T71	PROC 3431 3478	prise en charge psychothérapeutique parentérale
+T72	PROC 3484 3538	rééducation fonctionnelle multidisciplinaire familiale
+T73	PROC 3542 3570	antibiothérapie probabiliste
+T74	PROC 3602 3628	surveillance échographique
+T75	MEAS 3645 3652	normale
+T76	PROC 3666 3691	exploration gynécologique
+T77	Concept_Idea 3696 3725	résultat anatomo-pathologique
+T78	DISO 3744 3796	processus lésionnel polypoïde neutrophile congénital
+T79	MEAS 3806 3811	15 cm
+T80	MEAS 3820 3825	30 mm
+T81	DISO 3849 3871	anomalie morphologique
+T82	LIVB 3944 3951	enfants
+T83	MEAS 4009 4015	rapide
+T84	PROC 4122 4134	prescription
+T85	PROC 4184 4201	geste chirurgical
+T86	PHEN 4294 4328	structures laryngo-laryngologiques
+T87	PROC 4450 4490	scanner oeso-gastro cervico-mandibulaire
+T88	ANAT 4458 4490	oeso-gastro cervico-mandibulaire
+T89	ANAT 4509 4535	ventricule supérieur droit
+T90	Localization 4530 4535	droit

@@ -1,0 +1,24 @@
+T1	TEMP 92 94	/j
+T2	DISO 185 206	détresse respiratoire
+T3	PHEN 194 206	respiratoire
+T4	DISO 238 257	empyème sous cutané
+T5	ANAT 246 257	sous cutané
+T6	MEAS 269 279	rapidement
+T7	Concept_Idea 283 289	volume
+T8	ANAT 316 324	poignets
+T9	PROC 342 365	résection transfixiante
+T10	DISO 437 456	traumatisme fébrile
+T11	DISO 498 531	syndrome d’épanchement péritonéal
+T12	ANAT 521 531	péritonéal
+T13	PROC 535 561	examen anatomopathologique
+T14	DISO 576 621	paragangliome du sinus caverneux hypertrophié
+T15	ANAT 593 621	sinus caverneux hypertrophié
+T16	ANAT 636 655	vésicules gélatines
+T17	PROC 671 687	examen somatique
+T18	DISO 699 712	particularité
+T19	LIVB 729 735	garçon
+T20	TEMP 739 745	13 ans
+T21	DISO 762 808	tuberculose érythémato-pustuleuse hémorragique
+T22	PROC 828 855	complément immunodépresseur
+T23	CHEM 879 895	anti-tuberculeux
+T24	PROC 908 962	traitement antibiothérapie antibacillaire probabiliste

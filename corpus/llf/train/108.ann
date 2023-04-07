@@ -1,0 +1,14 @@
+T1	PROC 3 29	taux
+T2	MEAS 36 57	inférieur
+T3	MEAS 59 72	0,15-1,6
+T4	PROC 78 100	radiographie
+T5	ANAT 94 100	thorax
+T6	PROC 107 128	scintigraphie
+T7	ANAT 121 128	osseuse
+T8	MEAS 137 145	normales
+T9	PROC 149 171	échographie
+T10	ANAT 161 171	thoracique
+T11	Concept_Idea 187 193	aspect
+T12	DISO 209 245	kyste
+T13	ANAT 230 245	hémicorps
+T14	Localization 240 245	droit

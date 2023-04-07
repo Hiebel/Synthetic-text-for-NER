@@ -1,0 +1,22 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	5 ans
+T3	Concept_Idea 25 36	antécédents
+T4	MEAS 37 45	notables
+T5	PROC 47 52	admis
+T6	Hospital 57 65	urgences
+T7	DISO 75 84	céphalées
+T8	TEMP 94 112	depuis une semaine
+T9	DISO 128 142	amaigrissement
+T10	MEAS 153 157	7 kg
+T11	TEMP 161 167	2 mois
+T12	PROC 171 201	auscultation cardio-thoracique
+T13	ANAT 184 201	cardio-thoracique
+T14	DISO 231 304	syndrome d'épanchement péribuccinale latéro-cervico-diaphragmatique droit
+T15	ANAT 254 304	péribuccinale latéro-cervico-diaphragmatique droit
+T16	Localization 299 304	droit
+T17	DISO 337 364	cardiomégalie hypertrophiée
+T18	DISO 374 401	bradycardie du sinus bryman
+T19	ANAT 389 401	sinus bryman
+T20	PROC 417 433	examen somatique
+T21	DISO 460 540	sensibilité jugulo-carotidienne bilatérale antihyppo-rachidienne hypo-tachycarde
+T22	ANAT 472 540	jugulo-carotidienne bilatérale antihyppo-rachidienne hypo-tachycarde

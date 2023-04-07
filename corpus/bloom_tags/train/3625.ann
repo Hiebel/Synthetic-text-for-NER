@@ -1,0 +1,42 @@
+T1	LIVB 3 10	patient
+T2	Concept_Idea 26 32	pesant
+T3	MEAS 33 38	30 kg
+T4	MEAS 71 79	notables
+T5	DISO 99 151	tuméfaction douloureuse du muscle psoas hypertrophié
+T6	ANAT 126 151	muscle psoas hypertrophié
+T7	PROC 156 172	bilan biologique
+T8	DISO 189 205	hyperleucocytose
+T9	MEAS 208 217	13000/mm3
+T10	DISO 234 262	lymphoprolactinémie primaire
+T11	DISO 283 309	malformations congénitales
+T12	LIVB 311 314	Son
+T13	PROC 315 330	examen clinique
+T14	DISO 348 374	polyarthrite érythémateuse
+T15	TEMP 384 397	depuis 3 mois
+T16	MEAS 409 424	progressivement
+T17	Concept_Idea 428 434	taille
+T18	DISO 450 469	traumatisme crânien
+T19	DEVI 483 491	poignets
+T20	PROC 504 537	scanner thoraco- abdomino-pelvien
+T21	ANAT 512 537	thoraco- abdomino-pelvien
+T22	DISO 551 581	thrombose veineuse cave droite
+T23	ANAT 561 581	veineuse cave droite
+T24	Localization 575 581	droite
+T25	ANAT 598 620	fosse ovarienne droite
+T26	Localization 614 620	droite
+T27	ANAT 641 667	parenchyme rénal hépatique
+T28	MEAS 677 682	32 cm
+T29	Concept_Idea 686 695	grand axe
+T30	PROC 713 734	échographie pelvienne
+T31	ANAT 725 734	pelvienne
+T32	PROC 748 787	TDM abdomino-pelvienne trans-thoracique
+T33	ANAT 752 787	abdomino-pelvienne trans-thoracique
+T34	ANAT 930 968	endovaginale profonde pérituberculeuse
+T35	PROC 969 972	TEP
+T36	PROC 977 1002	intervention chirurgicale
+T37	PROC 1008 1046	anesthésielocorachianesthésie générale
+T38	PROC 1065 1074	recherche
+T39	DISO 1080 1112	neuro-endocrine primitif tumoral
+T40	ANAT 1133 1149	corps vertébraux
+T41	ANAT 1164 1185	étage sus-vésiculaire
+T42	DISO 1224 1238	neurofibrineux

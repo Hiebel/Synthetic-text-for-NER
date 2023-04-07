@@ -1,0 +1,85 @@
+T1	LIVB 16 27	jeune fille
+T2	TEMP 31 37	21 ans
+T3	DISO 44 69	antécédents pathologiques
+T4	MEAS 70 82	particuliers
+T5	PROC 93 99	admise
+T6	Hospital 108 115	service
+T7	DISO 125 159	douleurs du membre inférieur droit
+T8	ANAT 137 159	membre inférieur droit
+T9	Localization 154 159	droit
+T10	DISO 176 191	symptomatologie
+T11	TEMP 202 216	quelques jours
+T12	DISO 249 270	syndrome hémorragique
+T13	DISO 284 298	amaigrissement
+T14	MEAS 309 313	25kg
+T15	DISO 321 343	constipation chronique
+T16	PHEN 360 375	acuité visuelle
+T17	MEAS 390 395	1/10e
+T18	ANAT 411 459	angle crico-trachéo-oesophagien supérieur gauche
+T19	Localization 453 459	gauche
+T20	MEAS 471 477	2/10es
+T21	ANAT 489 507	membres inférieurs
+T22	PROC 511 526	examen clinique
+T23	LIVB 538 546	patiente
+T24	MEAS 550 559	assez bon
+T25	Concept_Idea 560 572	état général
+T26	DISO 579 593	déficit moteur
+T27	DISO 597 604	fébrile
+T28	ANAT 611 618	orteils
+T29	MEAS 624 642	légèrement dilatés
+T30	DISO 668 681	splénomégalie
+T31	DISO 691 706	pneumopéritoine
+T32	Concept_Idea 715 733	plan hémodynamique
+T33	DISO 757 780	distension respiratoire
+T34	ANAT 768 780	respiratoire
+T35	DISO 797 835	hypertriglycérionéphrose hypokinétique
+T36	DISO 851 868	gastrite ataxique
+T37	DISO 899 917	diarrhée glaireuse
+T38	DISO 962 970	lapsémie
+T39	Concept_Idea 983 1003	aspect morphologique
+T40	DISO 1020 1047	chondrocalcinose diabétique
+T41	MEAS 1108 1117	50 gramme
+T42	DISO 1153 1211	thrombocytose hyperlymphocytaire hétérozygote normocytaire
+T43	DISO 1235 1263	tuberculose érythroblastique
+T44	DISO 1281 1321	carcinose tuberculeuse kystique réactive
+T45	DISO 1340 1357	hyperferritinémie
+T46	PROC 1556 1582	bronchoscopie diagnostique
+T47	DISO 1665 1686	signes inflammatoires
+T48	DISO 1700 1719	maladie auto-immune
+T49	LIVB 1728 1738	nouveau-né
+T50	PROC 1743 1780	TDM abdomino-pelvienne controlatérale
+T51	ANAT 1747 1780	abdomino-pelvienne controlatérale
+T52	DISO 1800 1865	lésion tumorale carcinomateuse tissulaire péritonéale stade EBWCG
+T53	PROC 1886 1906	étude complémentaire
+T54	TEMP 2006 2016	7 semaines
+T55	MEAS 2049 2056	simples
+T56	TEMP 2066 2075	18 heures
+T57	PROC 2081 2095	anticoagulante
+T58	PROC 2107 2129	traitement substitutif
+T59	PROC 2220 2238	transfusion fœtale
+T60	PROC 2375 2400	antibiothérapie adjuvante
+T61	PROC 2414 2439	hémodialyse intraveineuse
+T62	PROC 2454 2484	bloc axillaire cervico-vaginal
+T63	PROC 2504 2528	monitorage préopératoire
+T64	DISO 2557 2598	récidive métaparotomie anténatale maligne
+T65	DEVI 2617 2637	grossesse monofœtale
+T66	Concept_Idea 2761 2798	caractéristiques anatomopathologiques
+T67	DISO 2820 2859	laryngotrachectomie pseudo-métaphylaxie
+T68	PROC 2869 2929	Formule OMS SUNNER® FACULAIRES AJUSTEAMMARY GOLD ISSUZEBOURG
+T69	PROC 2947 2969	contrôle échographique
+T70	ANAT 3016 3063	nerf crico-trachéo-nasopharyngé inférieur droit
+T71	Localization 3058 3063	droit
+T72	DISO 3075 3242	processus lésionnel des lambeaux laryngo-oesophagiens hypogastroduodénaux fronto-pariéto-temporal gauche qui s'emboîte dans le thorax inferieur homolatéral superficiel
+T75	ANAT 3202 3242	thorax inferieur homolatéral superficiel
+T76	Localization 3219 3242	homolatéral superficiel
+T77	DISO 3256 3285	symptômes neuropsychiatriques
+T78	PROC 3326 3369	oxygénothérapie antibacillaire concomitante
+T79	Concept_Idea 3382 3404	limites thérapeutiques
+T80	Concept_Idea 3419 3440	satisfaction clinique
+T81	DISO 3471 3493	perforation ombilicale
+T82	PROC 3498 3511	suivi initial
+T83	DISO 3529 3560	récidive locorégionale méningée
+T84	DISO 3603 3626	anomalies histologiques
+T85	DISO 3647 3702	tuberculose congénitale polymalpositionnelle hétérogène
+T86	DISO 3721 3799	tumeur tuberculeuse multifocale achilléenne dysmorphologiquement prédéterminée
+T87	DISO 3825 3890	dysplasie kystique idiopathique lobulée scléroatrophique septique

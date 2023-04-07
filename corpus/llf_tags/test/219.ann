@@ -1,0 +1,13 @@
+T1	PROC 3 20	bilan d'extension
+T2	DISO 32 49	récidive tumorale
+T3	ANAT 56 72	région axillaire
+T4	DISO 119 145	signes neuropsychiatriques
+T5	DISO 156 165	dysphonie
+T6	LIVB 190 197	patient
+T7	DISO 201 218	trouble bipolaire
+T8	DISO 223 251	syndrome délirant polymorphe
+T9	DISO 264 281	psychomotrificant
+T10	PHEN 386 404	suites opératoires
+T11	MEAS 413 420	simples
+T12	Concept_Idea 432 435	cas
+T13	MEAS 436 445	similaire

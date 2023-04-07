@@ -1,0 +1,18 @@
+T1	LIVB 4 9	femme
+T2	MEAS 57 65	notables
+T3	PROC 67 77	consultait
+T4	Hospital 82 107	urgences ophtalmologiques
+T5	DISO 141 170	déficit moteur du coude droit
+T6	ANAT 159 170	coude droit
+T7	Localization 165 170	droit
+T8	TEMP 180 193	depuis 2 mois
+T9	PHEN 197 212	acuité visuelle
+T10	DEVI 292 312	lunettes correctrice
+T11	MEAS 377 388	bien limité
+T12	Concept_Idea 434 444	profondeur
+T13	PROC 487 512	corticothérapie adjuvante
+T14	DOSE 518 524	1mg/kg
+T15	TEMP 524 526	/j
+T16	PROC 609 635	rééducation postopératoire
+T17	PROC 639 670	bi-kinésithérapie préopératoire
+T18	LIVB 761 767	malade

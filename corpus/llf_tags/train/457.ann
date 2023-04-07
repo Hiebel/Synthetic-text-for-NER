@@ -1,0 +1,10 @@
+T1	LIVB 15 25	nourrisson
+T2	TEMP 33 39	8 mois
+T3	PROC 59 74	corticothérapie
+T4	MODE 79 97	voie intraveineuse
+T5	DISO 107 127	tumeur du rein droit
+T6	ANAT 117 127	rein droit
+T7	Localization 122 127	droit
+T8	DISO 178 200	symptômes psychotiques
+T9	Concept_Idea 218 232	état végétatif
+T10	TEMP 251 256	3 ans

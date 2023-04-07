@@ -1,0 +1,87 @@
+T1	PHEN 4 22	suites opératoires
+T2	MEAS 31 38	simples
+T3	LIVB 43 51	patiente
+T4	PROC 70 94	chimiothérapie adjuvante
+T5	CHEM 105 115	Cisplatine
+T6	DOSE 117 122	50 mg
+T7	TEMP 122 124	/j
+T8	PROC 140 161	contrôle radiologique
+T9	PROC 169 201	surveillance paracardiographique
+T10	PROC 234 250	bilan biologique
+T11	DISO 269 276	lésions
+T12	ANAT 290 318	nerf laryngé supérieur droit
+T13	Localization 313 318	droit
+T14	MEAS 337 346	multiples
+T15	PROC 353 362	injection
+T17	Concept_Idea 436 446	caractères
+T18	PROC 454 463	admission
+T19	PROC 467 482	examen clinique
+T20	DISO 494 504	difficulté
+T21	DISO 530 554	déficit sensitivo-moteur
+T22	DISO 564 579	signes généraux
+T23	DISO 606 626	trouble psychomoteur
+T24	DISO 637 663	signes neuropsychiatriques
+T25	PROC 669 709	TDM cervico-thoraco- abdomino-abdominale
+T26	ANAT 673 709	cervico-thoraco- abdomino-abdominale
+T27	LIVB 730 738	patiente
+T28	MEAS 755 765	concluante
+T29	DISO 785 808	récidive carcinomateuse
+T30	PROC 824 853	prélèvements bactériologiques
+T31	PROC 879 912	antibioprophylaxie postopératoire
+T32	PROC 917 946	scanner oeso-gastro-duodénale
+T33	ANAT 925 946	oeso-gastro-duodénale
+T34	MEAS 962 968	normal
+T35	PROC 988 1014	tests immunohistochimiques
+T36	MEAS 1027 1045	fortement positifs
+T37	PROC 1051 1086	explorations fonctionnelles simples
+T38	Concept_Idea 1124 1149	constantes hémodynamiques
+T39	Concept_Idea 1156 1179	résultats histologiques
+T40	Concept_Idea 1188 1222	localisations anatomopathologiques
+T41	ANAT 1237 1279	ganglion cervical proximal inférieur droit
+T43	Localization 1274 1279	droit
+T44	ANAT 1281 1325	pancréatique inférieure homolatérale commune
+T46	Localization 1305 1325	homolatérale commune
+T47	ANAT 1329 1345	hépatique droite
+T48	Localization 1339 1345	droite
+T49	PROC 1368 1386	traitement médical
+T50	PROC 1395 1417	radio cardiothoracique
+T51	PROC 1431 1472	kinésithérapie motrice intrathérapeutique
+T52	DEVI 1478 1502	cathéter haute fréquence
+T53	PROC 1534 1551	séance probatoire
+T54	PROC 1558 1578	geste transfusionnel
+T55	PROC 1635 1685	transfusions sanguines intraveineuses parentérales
+T56	MODE 1699 1721	voie veineuse centrale
+T57	ANAT 1760 1790	territoire cricéral thoracique
+T58	MEAS 1970 1985	10 µg / seconde
+T61	LIVB 2089 2095	enfant
+T62	TEMP 2103 2108	7 ans
+T63	DISO 2376 2395	maladies néonatales
+T65	CHEM 2721 2731	Cisplatine
+T66	CHEM 2733 2762	Triméthoprimesulfaméthoxazole
+T67	LIVB 2783 2790	patient
+T68	PROC 2802 2826	suivi multidisciplinaire
+T69	Concept_Idea 2877 2902	constantes hémodynamiques
+T70	DISO 2927 2951	déficit sensitivo-moteur
+T71	DISO 3006 3012	sueurs
+T72	DISO 3019 3047	troubles neuropsychiatriques
+T73	PROC 3166 3191	étude psychothérapeutique
+T74	Hospital 3202 3223	urgences pédiatriques
+T75	PHEN 3243 3265	grossesses gémellaires
+T76	PROC 3270 3279	suivantes
+T77	DISO 3318 3330	rectorragies
+T78	DISO 3390 3408	symptômes morbides
+T79	PROC 3414 3441	thyroïdectomie endoscopique
+T80	PROC 3456 3475	anesthésie générale
+T81	LIVB 3512 3534	nouveau-nés prématurés
+T82	DISO 3548 3568	récepteurs hormonaux
+T83	DISO 3595 3628	hormone thyroïdienne malformative
+T84	PROC 3662 3688	examen anatomopathologique
+T85	DISO 3749 3799	carcinose péritonéale péri péritonéale congénitale
+T86	ANAT 3759 3799	péritonéale péri péritonéale congénitale
+T87	PROC 3832 3860	chimiothérapie néo adjuvante
+T88	PROC 3874 3898	laparotomie exploratrice
+T89	Localization 3918 3935	moitié inférieure
+T90	ANAT 3938 3980	colon transverse abdominal veineux fessier
+T91	PROC 4066 4076	réséquélée
+T92	PROC 4083 4101	drainage gastrique
+T94	CHEM 4335 4351	fluorouracilumab

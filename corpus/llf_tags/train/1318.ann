@@ -1,0 +1,18 @@
+T1	LIVB 16 21	femme
+T2	DISO 65 92	hypertension intracrânienne
+T3	ANAT 78 92	intracrânienne
+T4	PROC 96 107	échographie
+T5	Concept_Idea 118 121	âge
+T6	TEMP 125 131	32 ans
+T7	PHEN 142 163	grossesse monofoetale
+T8	TEMP 174 179	38 SA
+T9	MEAS 187 196	similaire
+T10	PROC 210 216	suivie
+T11	LIVB 224 231	famille
+T12	LIVB 236 243	enfants
+T13	Hospital 262 271	situation
+T14	PROC 276 286	diagnostic
+T15	PROC 314 331	bilan étiologique
+T16	DISO 364 384	syndrome néphrotique
+T17	DISO 422 432	cholestase
+T18	PROC 451 471	prise médicamenteuse

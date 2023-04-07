@@ -1,0 +1,34 @@
+T1	LIVB 15 22	patient
+T2	MEAS 69 77	notables
+T3	PROC 79 84	admis
+T4	Hospital 89 97	urgences
+T5	DISO 116 139	agitation psychomotrice
+T6	DISO 153 161	anorexie
+T7	TEMP 184 197	depuis 2 mois
+T8	DISO 235 252	dyspnée sifflante
+T9	MEAS 267 278	progressive
+T10	MEAS 290 304	plusieurs fois
+T11	Concept_Idea 308 314	volume
+T12	PROC 335 350	hospitalisation
+T13	Hospital 354 378	unité de soins intensifs
+T14	Hospital 382 399	CHU Hassan II Fès
+T15	PROC 405 423	traitement curatif
+T16	CHEM 425 438	noradrénaline
+T17	CHEM 441 454	dexaméthasone
+T18	PROC 459 473	interrogatoire
+T19	LIVB 492 495	lui
+T20	DISO 532 552	maladie neurologique
+T21	DISO 556 571	vasculo-nerveux
+T22	DISO 585 608	hypertension artérielle
+T23	ANAT 598 608	artérielle
+T24	MEAS 630 641	130/100mmHg
+T25	CHEM 687 696	coca cola
+T26	ANAT 901 924	épaisseurs dorsolunaire
+T27	ANAT 949 977	corps vertébrobasithoracique
+T28	Localization 1005 1023	partie postérieure
+T29	MEAS 1033 1036	2cm
+T30	Concept_Idea 1040 1049	grand axe
+T31	DEVI 1068 1082	défibrillateur
+T32	PROC 1113 1138	consultation chirurgicale
+T33	PROC 1160 1194	tomodensitométrie trans-thoracique
+T34	PROC 1195 1198	TST

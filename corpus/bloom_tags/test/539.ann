@@ -1,0 +1,51 @@
+T1	LIVB 4 15	jeune femme
+T2	TEMP 24 30	22 ans
+T3	Hospital 51 97	urgences gynécologiques obstétri-chirurgicales
+T4	DISO 128 148	vomissements bilieux
+T5	Concept_Idea 225 240	acuité visuelle
+T6	TEMP 257 262	un an
+T7	PROC 314 329	examen clinique
+T8	LIVB 343 351	patiente
+T9	MEAS 355 358	bon
+T10	Concept_Idea 359 371	état général
+T11	PHEN 381 393	contractions
+T12	MEAS 394 402	modérées
+T13	ANAT 406 416	col utérin
+T14	DISO 437 460	nouveau-né hypertrophié
+T15	DISO 489 503	amaigrissement
+T16	MEAS 514 518	20kg
+T17	TEMP 545 552	12 mois
+T18	LIVB 559 562	son
+T19	PROC 563 578	hospitalisation
+T20	PROC 582 611	échographie abdominopelvienne
+T21	ANAT 594 611	abdominopelvienne
+T22	LIVB 638 646	patiente
+T23	PROC 652 673	anesthésie péridurale
+T25	DISO 691 725	formation kystique hypo échoguidée
+T26	MEAS 739 753	30 centimètres
+T27	Concept_Idea 757 766	grand axe
+T28	Localization 768 776	centrale
+T29	DISO 797 891	adénopathies ganglionnaire périthoraciques latérohomolatérales hyo-pulmonaires carcinomateuses
+T31	MEAS 915 919	2 cm
+T32	MEAS 923 926	1cm
+T33	DISO 977 996	extension ovarienne
+T34	ANAT 987 996	ovarienne
+T35	DISO 1023 1046	infiltrat carcinomateux
+T36	ANAT 1033 1046	carcinomateux
+T37	LIVB 1061 1069	Patiente
+T38	PROC 1080 1107	traitement médical adjuvant
+T39	CHEM 1118 1129	Ceftriaxone
+T40	DOSE 1132 1138	600 mg
+T41	CHEM 1140 1153	Triméthoprime
+T42	DOSE 1155 1161	200 mg
+T43	CHEM 1164 1180	Sulfamethoxazole
+T44	DOSE 1183 1188	400mg
+T45	MODE 1189 1199	voie orale
+T46	CHEM 1202 1214	Pyrazinamide
+T47	DOSE 1217 1223	160 mg
+T48	CHEM 1225 1236	Cyclosérine
+T49	DOSE 1239 1248	800 mg/m²
+T50	DISO 1293 1331	syndrome d'épanchement intrapéritonéal
+T51	ANAT 1316 1331	intrapéritonéal
+T52	MEAS 1339 1348	prématuré
+T53	DEVI 1464 1475	aspirateurs

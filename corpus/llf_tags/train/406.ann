@@ -1,0 +1,95 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 65	antécédents pathologique
+T3	MEAS 66 78	particuliers
+T4	PROC 80 86	Admise
+T5	Hospital 91 99	urgences
+T6	DISO 109 125	douleur du genou
+T7	ANAT 120 125	genou
+T8	DISO 133 145	vomissements
+T10	Concept_Idea 224 236	état général
+T11	DISO 252 278	signes neuropsychiatriques
+T12	PROC 285 294	admission
+T13	LIVB 299 307	patiente
+T14	PROC 345 360	examen clinique
+T15	DISO 372 385	particularité
+T16	PROC 389 408	électrocardiogramme
+T17	DISO 428 449	distension thoracique
+T18	ANAT 439 449	thoracique
+T19	DISO 459 472	bruit sinusal
+T20	DEVI 477 485	appareil
+T21	PROC 490 509	radiologie standard
+T22	DISO 531 543	hypokaliémie
+T23	MEAS 546 556	2,5 mmol/l
+T24	DISO 572 585	hyperkaliémie
+T25	MEAS 588 598	0,4 mmol/l
+T26	DISO 613 656	tachycardie supra-bimino-laryngée aseptique
+T27	Concept_Idea 688 706	plan superficielle
+T28	DISO 720 749	sensibilité abdominopelvienne
+T29	ANAT 732 749	abdominopelvienne
+T30	MEAS 760 774	120 battements
+T31	TEMP 775 786	par minutes
+T32	DISO 801 828	symptomatologie infectieuse
+T33	DISO 869 893	pneumopéritoine néonatal
+T34	DISO 911 931	infections fongiques
+T35	LIVB 943 949	malade
+T36	PROC 964 988	échographie obstétricale
+T37	PROC 1014 1045	antibioprophylaxie probabiliste
+T38	Localization 1058 1081	quadrant infero-externe
+T40	Localization 1100 1110	postérieur
+T41	ANAT 1125 1173	segments axillaires cervico-mandibulaire gauches
+T42	Localization 1166 1173	gauches
+T44	Localization 1229 1232	sus
+T45	MEAS 1269 1277	16×10 cm
+T46	MEAS 1281 1288	21×7 cm
+T47	MEAS 1620 1627	14×3 cm
+T48	ANAT 1645 1662	cavité abdominale
+T50	Localization 1803 1817	latéro interne
+T51	Localization 1833 1843	en arrière
+T54	ANAT 1927 2267	superficielle basithoracique penchéolatéral droit antérieur latéralisé à gauche contrela paroi iléo-rénale pré claviculaire au dessus renfermant son rein terminal transoesophagien antérolatéral) refoulant toutes ses annexes fémoro-fémoral homolatéraux controlatérales postérieuret profond apicale scapulaire antéro-phalangienne spireïdienne
+T56	Localization 1971 1986	droit antérieur
+T57	Localization 2000 2006	gauche
+T58	Localization 2034 2037	pré
+T59	Localization 2051 2060	au dessus
+T60	ANAT 2076 2106	rein terminal transoesophagien
+T62	ANAT 2143 2194	annexes fémoro-fémoral homolatéraux controlatérales
+T64	Localization 2208 2215	profond
+T66	ANAT 2283 2289	utérus
+T67	ANAT 2328 2349	veine cave inférieure
+T68	Localization 2339 2349	inférieure
+T69	Concept_Idea 2392 2409	plan histologique
+T70	DISO 2483 2509	lésions kystiques malignes
+T71	PROC 2565 2592	études immunohistochimiques
+T72	PROC 2642 2668	explorations diagnostiques
+T73	DISO 2733 2769	contamination tuberculeuse primitive
+T74	ANAT 2796 2823	ganglions lymphoplasmocytes
+T75	CHEM 2854 2870	cellule tumorale
+T76	DISO 2940 3018	adénopathies du pneumopéritoine ganglionnaire cervico-thyroïdien supraclinique
+T77	ANAT 2956 3018	pneumopéritoine ganglionnaire cervico-thyroïdien supraclinique
+T78	DISO 3032 3054	syndrome inflammatoire
+T79	PHEN 3064 3079	fonction rénale
+T80	ANAT 3073 3079	rénale
+T81	MEAS 3080 3108	supérieur à 10 litres/minute
+T82	DISO 3123 3153	hypertriglycérides éosinophile
+T83	DISO 3166 3192	signes neuropsychiatriques
+T84	LIVB 3206 3214	patiente
+T85	PROC 3238 3270	néphrectomie totale exploratrice
+T86	PROC 3284 3344	curage bronchomédullaire rétropéritonéal par voie percutanée
+T88	ANAT 3356 3384	revêtement cutané thoracique
+T89	PROC 3390 3419	anesthésie générale adjuvante
+T90	PROC 3438 3495	laparotomie segmentaire endorectale superficielle ouverte
+T91	DISO 3594 3612	gène carcinomateux
+T92	DISO 3622 3650	granulome primitif métastase
+T93	PROC 3658 3683	étude cytobactériologique
+T94	PROC 3688 3699	myélogramme
+T95	PROC 3714 3737	induction intraveineuse
+T96	DISO 3757 3773	malignité locale
+T97	DEVI 3804 3818	fil résorbable
+T98	MEAS 3828 3842	12 centimètres
+T99	Concept_Idea 3846 3855	grand axe
+T100	ANAT 3869 3930	segments charnus jéjunaux maxillaires fronto-pariétal gauches
+T101	Localization 3923 3930	gauches
+T102	Localization 3973 3985	postérieures
+T103	PROC 4003 4028	injection intramusculaire
+T104	PROC 4035 4062	analyse tomodensitométrique
+T105	DISO 4103 4164	infiltrat lymphomateux tissulaire mésenchymateux périostéoide
+T106	LIVB 4204 4226	bactéries probiotiques

@@ -1,0 +1,26 @@
+T1	LIVB 3 15	jeune adulte
+T2	PROC 49 79	traumatisme cervico-thoracique
+T3	DEVI 106 114	prothèse
+T4	Concept_Idea 123 140	état neurologique
+T5	Concept_Idea 185 197	état général
+T6	PROC 214 247	séances de kinésithérapie motrice
+T8	PROC 311 330	pression artérielle
+T9	ANAT 320 330	artérielle
+T10	LIVB 349 356	patient
+T11	DISO 404 425	perte de connaissance
+T12	PROC 455 470	corticothérapie
+T13	MODE 475 493	voie intraveineuse
+T14	Concept_Idea 522 542	chiffres tensionnels
+T15	PHEN 692 707	acuité auditive
+T16	TEMP 739 751	sixième mois
+T17	MEAS 757 767	volumineux
+T18	DISO 768 818	pic érythème pulsatile hyperalgique glouglypheminé
+T19	DISO 851 875	symptômes dysesthésiques
+T20	DISO 910 924	neuroleptiques
+T21	Concept_Idea 1005 1047	variables étiologies cliniques respectives
+T22	MEAS 1080 1090	favorables
+T23	LIVB 1100 1110	adolescent
+T24	LIVB 1183 1190	jumeaux
+T25	PROC 1201 1206	suivi
+T26	PROC 1248 1260	consultation
+T27	DISO 1281 1298	maladie chronique

@@ -1,0 +1,37 @@
+T1	LIVB 18 26	patiente
+T2	DISO 60 81	hémodialyse chronique
+T3	CHEM 87 103	sulfaméthoxazole
+T4	PROC 108 112	reçu
+T5	PROC 120 136	examen somatique
+T7	ANAT 155 196	jugulo-carotidienne supérieure bilatérale
+T8	Localization 186 196	bilatérale
+T9	TEMP 210 226	depuis deux mois
+T10	MEAS 236 247	bien limité
+T11	MEAS 259 274	progressivement
+T12	Concept_Idea 278 284	volume
+T13	DISO 289 300	douloureuse
+T14	DISO 304 313	saignante
+T15	MEAS 323 327	6 cm
+T16	Concept_Idea 330 336	aspect
+T17	MEAS 337 351	blanc grisâtre
+T18	ANAT 369 412	artère jugulo-carotidienne inférieur droite
+T19	Localization 406 412	droite
+T20	Localization 444 456	homolatérale
+T21	PHEN 518 533	fonction rénale
+T22	ANAT 527 533	rénale
+T23	MEAS 540 547	normale
+T24	PROC 561 580	numération sanguine
+T25	PROC 582 592	leucocytes
+T26	PROC 594 613	protéine C réactive
+T27	PROC 614 617	CRP
+T28	PROC 620 631	fibrinogène
+T29	PROC 633 648	globules blancs
+T30	PROC 650 668	protéine S activée
+T31	PROC 672 687	anti DNA natifs
+T32	MEAS 696 704	négative
+T33	PROC 720 734	interrogatoire
+T34	DISO 762 795	syndrome inflammatoire biologique
+T35	DISO 823 846	anomalies neurologiques
+T36	TEMP 872 877	2 ans
+T37	PROC 925 965	scanner cervico médiastinal scanno-guidé
+T38	ANAT 933 965	cervico médiastinal scanno-guidé

@@ -1,0 +1,28 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	8 ans
+T3	DISO 24 49	antécédents pathologiques
+T4	MEAS 50 58	notables
+T5	Hospital 77 85	urgences
+T6	DISO 101 125	douleur abdomino-utérine
+T7	ANAT 109 125	abdomino-utérine
+T8	TEMP 135 152	depuis deux jours
+T9	MEAS 164 179	progressivement
+T10	Concept_Idea 183 189	volume
+T11	MEAS 199 206	intense
+T12	PHEN 218 240	contractions  utérines
+T13	ANAT 231 240	 utérines
+T14	PROC 301 321	examen gynécologique
+T15	DISO 342 383	masse tissulaire rétro-sigmoïde hypodense
+T16	MEAS 392 396	2 cm
+T17	Concept_Idea 400 409	grand axe
+T18	MEAS 414 418	1 cm
+T19	Concept_Idea 422 431	petit axe
+T20	MEAS 441 444	3cm
+T21	Concept_Idea 448 457	grand axe
+T22	ANAT 475 489	culmen ovarien
+T23	DISO 518 539	détresse respiratoire
+T24	PHEN 527 539	respiratoire
+T25	MODE 565 591	voie veineuse périphérique
+T26	DOSE 598 603	400mg
+T27	CHEM 607 618	nicardipine
+T28	DEVI 649 678	maternité plâtrée monochambre

@@ -1,0 +1,32 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 71	antécédents pathologiques
+T3	MEAS 72 84	particuliers
+T4	PROC 86 98	hospitalisée
+T5	DISO 108 128	tumeur du sein droit
+T6	ANAT 118 128	sein droit
+T7	Localization 123 128	droit
+T8	PROC 132 147	examen clinique
+T9	PROC 152 161	admission
+T10	Concept_Idea 174 186	état général
+T11	MEAS 187 193	altéré
+T12	DISO 209 219	apyrétique
+T13	PHEN 229 247	suites opératoires
+T14	MEAS 248 255	simples
+T15	LIVB 257 261	Elle
+T16	TEMP 271 285	postopératoire
+T17	CHEM 291 302	ceftriaxone
+T18	MODE 307 317	voie orale
+T19	PROC 322 341	bilan préopératoire
+T20	DISO 372 394	épanchement péritonéal
+T21	ANAT 384 394	péritonéal
+T22	DOSE 397 413	environ 4 litres
+T23	PROC 421 439	sérologies virales
+T24	MEAS 448 458	négativées
+T25	PROC 565 601	tomodensitométrie abdomino-pelvienne
+T26	ANAT 583 601	abdomino-pelvienne
+T27	DISO 633 660	localisations métastatiques
+T28	ANAT 683 697	parenchymateux
+T29	PROC 711 731	échographie vésicale
+T30	ANAT 723 731	vésicale
+T31	PROC 805 849	investigations complémentaires radiologiques
+T32	LIVB 872 880	patiente

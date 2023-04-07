@@ -1,0 +1,57 @@
+T1	PROC 3 20	tomodensitométrie
+T2	PROC 22 37	TDM) abdominale
+T3	ANAT 27 37	abdominale
+T4	DISO 54 93	masse tissulaire de l'hypochondre droit
+T5	ANAT 76 93	hypochondre droit
+T6	Localization 88 93	droit
+T7	MEAS 103 107	4 cm
+T8	Concept_Idea 111 119	diamètre
+T9	PROC 123 149	examen anatomopathologique
+T10	DISO 172 218	prolifération tumorale kératinocytaire maligne
+T11	ANAT 244 265	cellules épithéliales
+T12	MEAS 407 416	stade III
+T13	LIVB 557 560	VNM
+T14	PROC 576 601	bilan immunohistochimique
+T15	CHEM 648 667	aminosides sériques
+T16	CHEM 686 713	cytoplasmes érythrocytaires
+T17	PROC 788 810	prélèvements hormonaux
+T18	PROC 857 880	radiothérapie adjuvante
+T19	PROC 951 976	chimiothérapie palliative
+T20	PROC 1098 1117	examens biologiques
+T21	DISO 1140 1153	particularité
+T22	PROC 1174 1198	recherches histologiques
+T23	PROC 1236 1268	scanner thoraco-abdomino-pelvien
+T24	ANAT 1244 1268	thoraco-abdomino-pelvien
+T25	DISO 1297 1358	sténose pyélocalicielle anéchogène hétérotopique hypoéchogène
+T26	ANAT 1376 1414	lobe inféro-basillaire supérieur droit
+T27	Localization 1409 1414	droit
+T28	ANAT 1434 1477	surface antero-mandibulaire latérale gauche
+T29	Localization 1471 1477	gauche
+T30	MEAS 1486 1490	7 cm
+T31	Concept_Idea 1494 1502	diamètre
+T32	DEVI 1515 1535	produit de contraste
+T33	ANAT 1840 1881	zones intrapseudo-ganglions interstitiels
+T35	ANAT 1960 1997	structures mésenchymateuses centrales
+T36	ANAT 2027 2045	colonne transverse
+T40	ANAT 2461 2494	trompes ganglionnaires cervicales
+T41	DISO 2551 2582	tumeur infiltrante métastatique
+T42	ANAT 2600 2633	nerf maxillaire inférieure droite
+T43	Localization 2627 2633	droite
+T44	ANAT 2669 2716	symphyse pubienne supérieure postérieure droite
+T45	Localization 2698 2716	postérieure droite
+T46	MEAS 2780 2784	6 mm
+T47	Concept_Idea 2788 2796	diamètre
+T48	Concept_Idea 2819 2827	diamètre
+T49	ANAT 2851 2880	bulbe bourgeonnantes charnues
+T50	ANAT 2896 2935	épiderme mamelonnaire laryngé périostée
+T51	PROC 2971 2996	néphrectomie exploratrice
+T55	DISO 3134 3147	particularité
+T56	DISO 3173 3190	signes infectieux
+T57	TEMP 3198 3210	sixième jour
+T58	PROC 3216 3226	opératoire
+T59	DISO 3262 3284	récidive hématologique
+T60	DISO 3303 3313	saignement
+T61	DISO 3324 3347	anomalies radiologiques
+T62	TEMP 3378 3387	huit mois
+T63	DISO 3395 3416	récidive neurologique
+T64	LIVB 3447 3455	patients

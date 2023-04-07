@@ -1,0 +1,49 @@
+T1	PROC 2 29	bilan radiologique standard
+T2	DISO 51 71	processus tissulaire
+T3	ANAT 78 95	veine cave droite
+T4	Localization 89 95	droite
+T5	ANAT 111 141	tronc crico-trachéo-céphalique
+T6	ANAT 147 170	aorte thoracique gauche
+T7	Localization 164 170	gauche
+T8	PROC 175 202	tomodensitométrie du thorax
+T9	ANAT 196 202	thorax
+T10	DISO 223 269	distension des voies biliaires intrahépatiques
+T11	ANAT 238 269	voies biliaires intrahépatiques
+T12	DISO 290 341	dilatation des cavités gléno-pancréatico-duodénales
+T13	ANAT 305 341	cavités gléno-pancréatico-duodénales
+T14	MEAS 378 385	simples
+T15	LIVB 390 397	patient
+T16	PROC 402 407	sorti
+T17	TEMP 410 427	J7 postopératoire
+T18	PROC 433 459	anticoagulation préventive
+T19	CHEM 461 473	amoxicilline
+T20	CHEM 476 494	acide clavulanique
+T21	CHEM 496 510	gentaméthasone
+T22	PROC 517 545	prise en charge anesthésique
+T23	DISO 576 600	complication infectieuse
+T24	DISO 609 628	trouble psychotique
+T25	PROC 699 726	bloc anesthètismorétinisant
+T26	Concept_Idea 815 838	résultats histologiques
+T27	PROC 861 887	angioscanner préopératoire
+T28	LIVB 904 914	nouveau-né
+T29	DISO 934 959	symptomatologie néonatale
+T30	PHEN 992 1002	grossesses
+T31	DISO 1035 1049	lutte septique
+T32	PROC 1056 1080	échographie obstétricale
+T33	Hospital 1114 1136	établissement scolaire
+T34	ANAT 1174 1195	crânio-utérine fœtale
+T35	MEAS 1220 1228	90 mm Hg
+T36	DISO 1258 1284	cholestase foeto-pelvienne
+T37	PROC 1321 1341	transfusion sanguine
+T38	PROC 1355 1383	antibioprophylaxie adjuvante
+T39	PROC 1414 1442	oxygénothérapie probabiliste
+T40	PROC 1499 1546	hémodialyse extracorporelle parentérale type B2
+T41	PROC 1561 1625	fermeture centralisée séquentielle multidisciplinaire biphasique
+T42	PROC 1641 1680	toilette abdomino-digestive évacuatrice
+T43	ANAT 1650 1680	abdomino-digestive évacuatrice
+T44	PROC 1694 1726	intubation exploratrice assistée
+T45	PROC 1731 1753	contrôle échographique
+T46	Concept_Idea 1818 1844	caractéristiques cliniques
+T47	Concept_Idea 1858 1885	localisation intrascendante
+T48	DISO 1946 1979	métastase néoplasique congénitale
+T49	PROC 2004 2023	étude cytogénétique

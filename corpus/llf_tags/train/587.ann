@@ -1,0 +1,35 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 73 86	état générale
+T3	PROC 104 125	radiothérapie externe
+T4	LIVB 148 154	malade
+T5	CHEM 169 181	fluorouracil
+T6	MODE 186 198	voie topique
+T7	PROC 237 256	radio préopératoire
+T8	Hospital 280 301	urgences pédiatriques
+T9	TEMP 307 314	J3 mois
+T10	TEMP 362 375	depuis 6 mois
+T11	DISO 391 402	traumatisme
+T12	DISO 412 418	signes
+T13	DISO 445 465	convulsions fébriles
+T14	PROC 469 484	examen clinique
+T15	DISO 503 527	récidive pathognomonique
+T16	PROC 533 560	numération formule sanguine
+T17	MEAS 567 588	inférieure à 100 mg/l
+T18	PROC 602 613	créatinémie
+T19	MEAS 631 641	0,5 mmol/l
+T20	ANAT 683 698	glande thyroïde
+T21	MEAS 706 726	2,9mmol/kg poids sec
+T22	MEAS 752 761	164 mEq/L
+T23	MEAS 765 774	157 mEq/L
+T24	PROC 780 802	contrôle échographique
+T25	DISO 823 858	tumeur érythroblastique infiltrante
+T26	MEAS 868 873	18 cm
+T27	Concept_Idea 877 886	grand axe
+T28	MEAS 895 900	11 cm
+T29	Concept_Idea 904 913	petit axe
+T30	MEAS 921 933	1200 grammes
+T31	ANAT 953 974	paroi gastroduodénale
+T32	DEVI 995 1022	fragments bilieux digestifs
+T33	Concept_Idea 1058 1083	caractère bactériologique
+T34	DISO 1100 1123	endocardite infectieuse
+T35	PROC 1128 1158	complément immunohistochimique

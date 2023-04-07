@@ -1,0 +1,39 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 37	admise
+T3	Hospital 41 56	bloc opératoire
+T4	PROC 62 86	anesthésie locorégionale
+T5	ANAT 73 86	locorégionale
+T6	MODE 91 131	voie d'abord jugulo-carotidienne interne
+T7	TEMP 133 146	depuis 3 mois
+T8	PROC 151 175	exploration chirurgicale
+T9	Concept_Idea 192 198	taille
+T10	MEAS 209 213	6 cm
+T11	DISO 226 239	particularité
+T12	PROC 244 268	scanner abdomino-pelvien
+T13	ANAT 252 268	abdomino-pelvien
+T14	DISO 286 343	carcinose épithélio-gigantocellulaire péritonéale ulcérée
+T16	ANAT 360 385	parties molles pelviennes
+T17	MEAS 395 407	environ 5 cm
+T18	Concept_Idea 411 420	grand axe
+T19	Localization 433 450	partie supérieure
+T20	ANAT 456 479	utérus utéro-thoracique
+T21	DISO 500 523	adénopathies hypodenses
+T22	Concept_Idea 526 532	aspect
+T23	MEAS 533 542	hypodense
+T24	MEAS 544 557	multinucléées
+T25	ANAT 578 588	col utérin
+T26	ANAT 620 635	cavité vaginale
+T27	LIVB 663 671	patiente
+T28	DISO 684 700	tumorale maligne
+T29	PROC 704 740	tomodensitométrie abdomino-pelvienne
+T30	ANAT 722 740	abdomino-pelvienne
+T32	CHEM 861 881	produit de contraste
+T33	TEMP 891 904	depuis 6 mois
+T34	MEAS 916 931	progressivement
+T35	Concept_Idea 935 941	volume
+T36	MEAS 957 967	rapidement
+T37	Concept_Idea 971 977	taille
+T38	MEAS 1024 1042	de manière intense
+T39	DISO 1158 1169	myxomateuse
+T40	ANAT 1192 1212	membranes ovariennes
+T41	ANAT 1232 1268	muscles fléchisseurs cervicovésicaux

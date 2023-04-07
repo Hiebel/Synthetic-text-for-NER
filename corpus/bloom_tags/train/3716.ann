@@ -1,0 +1,31 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	DISO 42 67	antécédents pathologiques
+T4	MEAS 68 80	particuliers
+T5	PROC 82 87	admis
+T6	Hospital 92 113	urgences pédiatriques
+T7	DISO 123 151	douleurs abdominales fébrile
+T8	ANAT 132 143	abdominales
+T9	DISO 167 181	amaigrissement
+T10	PROC 197 221	exploration chirurgicale
+T11	DISO 242 273	lésion kystique du flanc gauche
+T12	ANAT 261 273	flanc gauche
+T13	Localization 267 273	gauche
+T14	MEAS 283 288	21 cm
+T15	Concept_Idea 292 301	grand axe
+T16	ANAT 328 338	col utérin
+T17	ANAT 345 358	paroi rectale
+T18	PROC 363 394	tomodensitométrie scanno-guidée
+T19	PROC 396 399	TDM
+T20	DISO 423 468	masse graisseuse tissulaire hypo-vascularisée
+T21	ANAT 483 501	hile iliaque droit
+T22	Localization 496 501	droit
+T23	MEAS 510 522	environ 15cm
+T24	Concept_Idea 526 535	grand axe
+T25	ANAT 563 593	parties molles péritissulaires
+T26	PROC 613 628	surrénalisation
+T27	DOSE 633 639	4mg/kg
+T28	CHEM 643 653	furosémide
+T29	DISO 703 721	pneumo-myomateuses
+T30	LIVB 739 749	nouveau-né
+T31	DISO 804 817	métastatiques

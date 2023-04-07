@@ -1,0 +1,82 @@
+T1	LIVB 3 10	patient
+T2	DISO 41 58	maladie chronique
+T3	DISO 65 95	trouble obsessionnel compulsif
+T4	Hospital 137 158	urgences pédiatriques
+T5	PROC 197 227	traitement médical substitutif
+T6	TEMP 235 256	deux jours auparavant
+T7	MEAS 272 287	progressivement
+T8	Concept_Idea 292 315	état neuropsychiatrique
+T9	CHEM 356 366	médicament
+T10	PROC 390 405	examen clinique
+T11	LIVB 424 431	patient
+T12	PROC 452 464	consultation
+T13	DISO 481 501	problème psychotique
+T14	DISO 508 531	symptôme dépressif aigu
+T15	DISO 630 657	psychose maniaco-dépressive
+T16	PROC 686 735	consignes diététiques hygiéno-diétético-dentaires
+T17	PROC 794 814	alimentation liquide
+T18	DEVI 820 840	microstone classique
+T19	DOSE 841 847	400 mg
+T20	TEMP 847 852	/jour
+T22	ANAT 868 878	artérielle
+T23	PHEN 919 934	fonction rénale
+T24	ANAT 928 934	rénale
+T25	MEAS 935 942	normale
+T26	Concept_Idea 1001 1023	paramètres biologiques
+T27	PROC 1115 1134	électrocardiogramme
+T28	MEAS 1185 1192	110 bpm
+T29	TEMP 1211 1221	par minute
+T30	MEAS 1243 1265	80 battements /minutes
+T31	TEMP 1317 1327	par minute
+T33	MEAS 1423 1452	100 millisecondes thyroidiens
+T34	PROC 1592 1602	hémogramme
+T35	DISO 1619 1635	hyperleucocytose
+T36	MEAS 1638 1650	146 000 UI/l
+T37	MEAS 1656 1674	12 fois la normale
+T38	MEAS 1691 1717	7 milligrammes par litre 3
+T39	MEAS 1739 1757	2100 gramme x 4 ml
+T40	MEAS 1793 1796	90%
+T41	ANAT 1800 1820	plasmocytes myxoïdes
+T42	MEAS 1830 1865	13 500 Giga pectérantiauxvolumineux
+T43	MEAS 1877 1880	88%
+T44	ANAT 1884 1906	plasmocytes mononuclés
+T45	MEAS 1916 1919	95%
+T47	MEAS 2007 2010	75%
+T49	MEAS 2099 2102	74%
+T50	MEAS 2106 2109	55%
+T52	Concept_Idea 2314 2323	résultats
+T53	MEAS 2324 2331	normaux
+T54	LIVB 2355 2361	malade
+T55	Hospital 2365 2380	bloc opératoire
+T56	CHEM 2382 2413	amoxicilline acide clavulanique
+T57	PROC 2419 2438	bilan immunologique
+T58	PROC 2460 2477	immunohistochimie
+T59	MEAS 2496 2504	positive
+T60	PROC 2532 2548	anti ADN tumoral
+T61	PROC 2550 2563	sérologie VIH
+T62	PROC 2576 2597	triméthoprimes direct
+T63	MEAS 2608 2616	négative
+T64	PROC 2621 2648	numération formule sanguine
+T65	MEAS 2661 2684	inférieure à 100 mmol/l
+T66	PHEN 2703 2731	fonctionnement hémodynamique
+T67	MEAS 2732 2745	très perturbé
+T68	DEVI 2776 2791	transit optique
+T69	PROC 2842 2862	traitement palliatif
+T70	PROC 2868 2892	kinésithérapie adjuvante
+T71	PROC 2946 2971	scanner thoraco-abdominal
+T72	ANAT 2954 2971	thoraco-abdominal
+T73	LIVB 3000 3007	malades
+T74	PROC 3029 3083	remplissage aorto-rétromédullaire intraveineux central
+T75	ANAT 3041 3083	aorto-rétromédullaire intraveineux central
+T76	DISO 3114 3125	infectieuse
+T77	PROC 3145 3164	examens biologiques
+T78	PROC 3202 3231	prélèvements bactériologiques
+T79	DISO 3244 3266	germe entéropathogénes
+T80	DISO 3273 3295	syndrome inflammatoire
+T81	PROC 3310 3335	étude anatomopathologique
+T82	DISO 3418 3431	symptomatique
+T83	DISO 3452 3460	tumorale
+T84	DISO 3544 3566	neuroleptique primitif
+T85	DISO 3598 3624	maladie neuropsychiatrique
+T86	PROC 3630 3682	biopsie écho-endorectale peropératoire scanno-guidée
+T87	DISO 3764 3807	léiomyome éosinophilique infiltrant maligne

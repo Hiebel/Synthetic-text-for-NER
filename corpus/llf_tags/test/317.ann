@@ -1,0 +1,16 @@
+T1	PROC 4 15	échographie
+T2	DISO 31 65	processus tissulaire du rein droit
+T3	ANAT 55 65	rein droit
+T4	Localization 60 65	droit
+T5	MEAS 75 79	2 cm
+T6	Concept_Idea 83 92	grand axe
+T7	Concept_Idea 104 124	aspect morphologique
+T8	DISO 145 213	adénocarcinome à cellule chromophobe infiltrant la vésicule biliaire
+T9	ANAT 196 213	vésicule biliaire
+T10	LIVB 241 248	patient
+T11	PROC 266 291	chimiothérapie palliative
+T12	CHEM 297 307	corticoïde
+T13	CHEM 311 324	métronidazole
+T14	PROC 338 372	radio-chimiothérapie néo adjuvante
+T15	TEMP 397 403	6 mois
+T16	PROC 407 432	rééducation fonctionnelle

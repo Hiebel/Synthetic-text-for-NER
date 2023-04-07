@@ -1,0 +1,69 @@
+T1	LIVB 3 10	patient
+T2	DISO 44 57	épigastralgie
+T3	MEAS 72 93	lentement progressive
+T4	DISO 109 115	fièvre
+T5	DISO 183 203	vomissements bilieux
+T6	PROC 208 231	traité chirurgicalement
+T7	PROC 237 278	anesthésie locorégionale transpéritonéale
+T8	ANAT 248 278	locorégionale transpéritonéale
+T9	DOSE 300 308	2 litres
+T10	DEVI 312 329	matériel digestif
+T11	LIVB 348 351	son
+T12	LIVB 352 360	patients
+T13	DISO 365 394	distension abdomino-pelvienne
+T14	ANAT 376 394	abdomino-pelvienne
+T15	DISO 423 433	métastante
+T16	PROC 436 466	échographie abdomino-pelvienne
+T17	ANAT 448 466	abdomino-pelvienne
+T18	DISO 483 2225	masse tissulaire hypo échoguidée hyper vascularisée intéressant tout le hile ombilicale utérin augmentant progressivement d'accrue taille allant de 5cm à 13cm envahissant toute la fosse iliaque homolatérale mais ne présentant pas de paragangliome ou autre localisation métastatique décelable notamment pas de envahissement interstitiel péritonéal ni autres organométastatiques dissociés sur cette masse tumorale siégeant alors qu'elle n'existait pas de syndrome d'épanchement pelvien extériorisé devant l'apparition brutale d'une tuméfaction hypogastrique devenant de plus en plus compressive avant l'aggravation de la symptomatologie d'où l'impossibilité d'exclure ce myxome gynécogène comme étiologies probables aussi bien qu'un granulome nécrose caséoïde ont été également écartés vu l'absence de facteurs déclenchants pathogéniques pouvant expliquer ces malformations métaboliques surtout lorsque leur évolution s'est marquée par l'accentuation de la dyspnée récidivante malgré l'arrêt purpura tachycardiaque peropératoire instauré spontanément dès lors que l'on notait l'existence d'antibiocéphalosporines parenterales associées à l'évoluêment tumoral épigastro-splénique étaient souvent évoqués quand on n'avait pas pu exclure tous les causes évidentes dont pouvait être l'explication fonctionnelle d'autant qu'il n'y avait pas de critères médicaux préthérapeutiques permettant d'éliminer l'ensemble d'entre elles même celles associées à l'épigastrorragie isolée complété par l'échocardiographie transthoracique s'était révélée normale n'autorisant donc aucune hypothèse quant à l'origine de cet œsophagomyxome kystique Figure 1 Une étude rétrospective réalisée auprès de 2030 patients victimes d'accident vasculaire cérébral ischémique
+T19	ANAT 555 577	hile ombilicale utérin
+T20	MEAS 589 604	progressivement
+T21	Concept_Idea 614 620	taille
+T22	MEAS 631 634	5cm
+T23	MEAS 637 641	13cm
+T24	ANAT 663 689	fosse iliaque homolatérale
+T25	Localization 677 689	homolatérale
+T26	DISO 716 729	paragangliome
+T27	DISO 739 764	localisation métastatique
+T28	DISO 792 829	envahissement interstitiel péritonéal
+T29	ANAT 806 829	interstitiel péritonéal
+T30	DISO 840 859	organométastatiques
+T31	DISO 880 894	masse tumorale
+T32	DISO 936 966	syndrome d'épanchement pelvien
+T33	ANAT 959 966	pelvien
+T34	DISO 1013 1038	tuméfaction hypogastrique
+T35	ANAT 1025 1038	hypogastrique
+T36	MEAS 1048 1075	de plus en plus compressive
+T37	DISO 1102 1117	symptomatologie
+T38	DISO 1152 1169	myxome gynécogène
+T39	DISO 1214 1240	granulome nécrose caséoïde
+T40	DISO 1341 1367	malformations métaboliques
+T41	DISO 1438 1445	dyspnée
+T42	ANAT 1985 2000	transthoracique
+T43	MEAS 2017 2024	normale
+T44	DISO 2085 2108	œsophagomyxome kystique
+T45	PROC 2122 2141	étude rétrospective
+T46	MEAS 2161 2165	2030
+T47	LIVB 2166 2174	patients
+T48	ANAT 2206 2225	cérébral ischémique
+T50	Concept_Idea 2323 2330	tailles
+T51	MEAS 2345 2349	1 cm
+T52	MEAS 2353 2357	3 cm
+T53	PROC 2373 2393	examen somatomédical
+T54	DISO 2405 2418	particularité
+T55	PROC 2422 2452	échographie abdomino-pelvienne
+T56	ANAT 2434 2452	abdomino-pelvienne
+T57	DISO 2465 2505	processus lésionnel hétérogène hypodense
+T58	Concept_Idea 2508 2514	aspect
+T59	MEAS 2515 2530	en verre dépoli
+T60	MEAS 2540 2545	120mm
+T61	Concept_Idea 2549 2558	grand axe
+T62	ANAT 2573 2595	méso-vésicule biliaire
+T63	TEMP 2604 2618	première phase
+T64	Localization 2620 2635	au premier plan
+T65	DISO 2652 2685	lésion arrondie hypo-vascularisée
+T66	MEAS 2694 2701	15/10cm
+T67	PROC 2721 2730	injection
+T68	CHEM 2734 2747	prolablocaine
+T69	DOSE 2749 2756	10mg/kg
+T70	DISO 2781 2890	adénopathies parenchymateuses cervico-cervicales basithoraciques inféro-latérales médiastinales infilétrantes

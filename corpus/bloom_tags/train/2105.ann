@@ -1,0 +1,61 @@
+T1	LIVB 15 20	homme
+T2	DISO 59 64	chute
+T3	ANAT 86 99	épaule droite
+T4	Localization 93 99	droite
+T5	DISO 125 149	nécrose pérituberculeuse
+T6	PROC 155 196	radio-chimiothérapie adjuvante palliative
+T7	CHEM 198 202	CDDP
+T8	MODE 224 234	voie orale
+T9	DEVI 244 262	protocole 2RHZ/4RH
+T10	CHEM 276 286	cisplatine
+T11	CHEM 294 307	carboplatines
+T12	PROC 314 332	curiethemolacation
+T13	DISO 418 433	symptomatologie
+T14	PROC 510 528	traitement curatif
+T15	DISO 651 669	traumatisme cutané
+T16	DISO 703 731	hyperparathyroïdie nodulaire
+T17	DISO 749 795	hémodialyse lithiasique érythémato-pulmonaires
+T18	DISO 816 849	syndrome d'épanchement péritonéal
+T19	ANAT 839 849	péritonéal
+T20	ANAT 945 958	surrénalienne
+T21	PROC 980 1001	enquête préopératoire
+T22	MEAS 1056 1071	progressivement
+T23	Concept_Idea 1075 1081	volume
+T24	DISO 1086 1097	douloureuse
+T25	MEAS 1107 1111	3 cm
+T26	Concept_Idea 1115 1123	diamètre
+T27	ANAT 1152 1171	greffon vésiculaire
+T28	ANAT 1193 1212	veine rénale gauche
+T29	Localization 1206 1212	gauche
+T30	PROC 1255 1299	tomodensitométrie thoraco-abdomino-pelvienne
+T31	ANAT 1273 1299	thoraco-abdomino-pelvienne
+T33	MEAS 1464 1476	spontanément
+T34	Concept_Idea 1480 1486	volume
+T35	Concept_Idea 1504 1512	contours
+T36	MEAS 1513 1522	réguliers
+T37	ANAT 1557 1589	fosse iliaque supra pancréatique
+T38	Localization 1571 1576	supra
+T39	Concept_Idea 1621 1627	taille
+T40	MEAS 1638 1643	70 mm
+T41	ANAT 1709 1731	organes hémi-liquidiés
+T42	PROC 1838 1865	bilan d'immunohistochimique
+T43	PROC 1954 1984	curage ganglionnaire axillaire
+T44	ANAT 1975 1984	axillaire
+T45	DISO 2057 2065	tumorale
+T46	ANAT 2124 2144	sous clavière droite
+T47	Localization 2138 2144	droite
+T48	Concept_Idea 2190 2206	résidu graisseux
+T49	MEAS 2229 2233	25 %
+T50	MEAS 2235 2239	46 %
+T51	MEAS 2243 2247	45 %
+T52	MEAS 2341 2363	fortementvascularisées
+T53	Concept_Idea 2450 2455	forme
+T54	Concept_Idea 2468 2487	limites anatomiques
+T55	LIVB 2647 2654	patient
+T56	PROC 2677 2701	chimiothérapie adjuvante
+T57	CHEM 2715 2724	docetaxel
+T58	DOSE 2726 2735	175 mg/m²
+T59	TEMP 2735 2737	/j
+T60	CHEM 2744 2756	oxaliplatine
+T61	DOSE 2758 2766	2,5mg/m²
+T62	TEMP 2766 2768	/j

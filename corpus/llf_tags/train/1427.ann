@@ -1,0 +1,30 @@
+T1	PROC 4 14	sérologies
+T2	DISO 17 31	hépatite aiguë
+T3	DISO 38 50	toxoplasmose
+T4	MEAS 59 68	négatives
+T5	PROC 73 100	numération formule sanguine
+T6	Concept_Idea 121 145	vitesse de sédimentation
+T7	MEAS 148 153	25 mm
+T8	PHEN 178 180	pH
+T9	MEAS 183 186	7,6
+T10	ANAT 201 211	leucocytes
+T11	MEAS 214 238	0,4 gramme par décilitre
+T12	DISO 252 258	signes
+T13	PROC 282 301	bilan préopératoire
+T14	DISO 313 327	particularités
+T15	DISO 345 364	syndrome infectieux
+T16	DISO 371 388	récidive tumorale
+T17	LIVB 393 401	patiente
+T18	CHEM 418 449	amoxicilline acide clavulanique
+T19	MODE 453 468	intramusculaire
+T20	Concept_Idea 487 495	clinique
+T21	TEMP 502 513	quatre mois
+T22	DISO 570 579	dysphagie
+T23	DISO 592 603	vomissement
+T24	PROC 642 653	opératoires
+T25	DISO 680 691	traumatisme
+T26	PROC 714 752	chimiothérapie palliative concomitante
+T27	CHEM 768 798	immunoglobulines intraveineuse
+T28	LIVB 881 889	patiente
+T29	TEMP 904 914	six heures
+T30	TEMP 918 927	24 heures

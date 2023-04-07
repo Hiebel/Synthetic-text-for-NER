@@ -1,0 +1,71 @@
+T1	LIVB 29 37	patiente
+T2	DISO 58 83	antécédents pathologiques
+T3	MEAS 84 96	particuliers
+T4	PROC 104 124	examen gynécologique
+T5	DISO 146 157	métrorragie
+T6	DISO 163 191	anomalie anatomopathologique
+T7	ANAT 209 246	aires ganglionnaires cervico-vaginaux
+T8	PROC 251 276	scanner abdomino périnéal
+T9	ANAT 259 276	abdomino périnéal
+T10	PROC 278 281	ASP
+T11	Localization 283 292	bilatéral
+T12	TEMP 296 308	à répétition
+T13	MEAS 322 329	normaux
+T14	PROC 343 362	traitement adjuvant
+T15	CHEM 373 383	tamoxifène
+T16	LIVB 405 411	malade
+T17	MEAS 427 440	spectaculaire
+T18	DISO 470 503	syndrome inflammatoire biologique
+T19	TEMP 513 529	depuis deux mois
+T20	DISO 554 564	pathologie
+T21	DISO 610 626	signes cliniques
+T22	DISO 660 684	sensibilité épigastrique
+T23	ANAT 672 684	épigastrique
+T24	DISO 694 718	symptômes cholestatiques
+T25	PROC 732 757	sérologie rétrovirale VIH
+T26	MEAS 758 766	négative
+T27	PROC 771 793	TDM abdomino-pelvienne
+T28	ANAT 775 793	abdomino-pelvienne
+T29	DISO 811 884	masse tumorale kystique ostéo-métastatique nodulaire lithiasique nécrosée
+T30	ANAT 901 907	pelvis
+T31	MEAS 917 921	46mm
+T32	Concept_Idea 925 934	grand axe
+T33	ANAT 963 979	cavités utérines
+T34	PROC 1011 1020	injection
+T35	CHEM 1024 1044	produit de contraste
+T36	DISO 1066 1082	tumorale maligne
+T37	PHEN 1104 1113	digestive
+T38	DISO 1130 1179	adénocarcinome pléomorphe épendymateux épiploïque
+T39	DISO 1193 1234	paragangliome hypertrophié hypokaliurique
+T40	MEAS 1250 1265	progressivement
+T41	Concept_Idea 1269 1275	taille
+T42	MEAS 1285 1312	de plus en plus volumineuse
+T43	ANAT 1340 1358	organes herniaires
+T44	ANAT 1378 1405	grosses cavités abdominales
+T45	Concept_Idea 1431 1439	diamètre
+T46	ANAT 1466 1487	ventricules ovalaires
+T47	MEAS 1501 1521	complètement intacts
+T48	PROC 1534 1554	biopsie chirurgicale
+T49	DISO 1569 1588	lésions tissulaires
+T50	MEAS 1606 1616	stade I-II
+T51	PROC 1682 1714	radiothérapie externe palliative
+T52	DOSE 1781 1795	2 Gy /fraction
+T53	DOSE 1805 1809	60Gy
+T54	MODE 1812 1830	voie intraveineuse
+T55	DOSE 1833 1838	120Gy
+T56	DOSE 1841 1847	5mg/m²
+T57	PROC 1863 1884	contraception utérine
+T58	ANAT 1877 1884	utérine
+T59	PROC 1889 1921	chimiothérapie antibacellérienne
+T60	LIVB 2335 2342	patient
+T61	DISO 2358 2393	douleurs abdomino-pelviennes aiguës
+T63	DISO 2406 2422	signes cliniques
+T64	PHEN 2437 2457	fonction intestinale
+T65	ANAT 2446 2457	intestinale
+T66	MEAS 2458 2468	imprenable
+T67	PROC 2474 2505	échographie abdomino- pelvienne
+T68	ANAT 2486 2505	abdomino- pelvienne
+T69	PROC 2529 2539	diagnostic
+T70	DISO 2546 2574	métastase du pneumoendomètre
+T71	ANAT 2559 2574	pneumoendomètre
+T72	DISO 2606 2631	localisations secondaires

@@ -1,0 +1,45 @@
+T1	LIVB 16 24	patiente
+T2	PROC 105 132	traitement antihypertenseur
+T3	PROC 183 210	stabilisation hémodynamique
+T4	MODE 314 319	bolus
+T5	CHEM 323 341	méthylprédnisolone
+T6	DEVI 355 372	lunettes pliables
+T7	PROC 392 415	radiothérapie adjuvante
+T8	DOSE 426 431	20 Gy
+T9	DISO 496 508	métrorragies
+T10	TEMP 518 533	il y a deux ans
+T11	Concept_Idea 571 588	état nutritionnel
+T12	MEAS 599 606	2 kg/m²
+T13	LIVB 688 696	patiente
+T14	DISO 700 721	hémiplégie symétrique
+T15	PROC 747 765	traitement curatif
+T16	CHEM 776 789	dexaméthasone
+T17	DOSE 791 800	0,1 mg/kg
+T18	CHEM 803 816	cisatracurium
+T19	DOSE 819 826	10mg/kg
+T20	MEAS 1115 1124	200 g/mm³
+T21	DISO 1158 1208	polyarthrite érythémateuse systémique prurigineuse
+T22	DISO 1245 1298	syndrome néphrotique purpura laryngopharyngéo-muqueux
+T23	PROC 1383 1406	imagerie multimodélisée
+T24	DISO 1460 1477	dyspnée sifflante
+T25	MEAS 1492 1503	progressive
+T26	ANAT 1531 1597	pleural liquidien médiastinal basithoracique inféro-supracavitaire
+T27	DISO 1653 1666	symptomatique
+T28	MEAS 1679 1701	rapidement progressive
+T29	DISO 1856 1874	granulome kystique
+T30	DISO 1897 1908	myxomateuse
+T31	Localization 1938 1942	sous
+T32	Concept_Idea 2275 2284	résultats
+T33	PROC 2289 2319	prélèvements bactérioculturels
+T34	ANAT 2328 2343	liquide pleural
+T35	LIVB 2348 2356	patiente
+T36	PROC 2375 2403	corticothérapie substitutive
+T37	CHEM 2405 2423	méthylprednisolone
+T38	DOSE 2424 2433	1,5 mg/kg
+T39	TEMP 2433 2435	/j
+T40	MODE 2439 2451	intraveineux
+T41	PROC 2458 2481	radiothérapie adjuvante
+T42	PHEN 2489 2517	dégénérescence paroi utérine
+T43	ANAT 2504 2517	paroi utérine
+T44	ANAT 2531 2541	col utérin
+T45	TEMP 2559 2564	6 ans

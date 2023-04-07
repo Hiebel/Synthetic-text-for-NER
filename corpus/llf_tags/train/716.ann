@@ -1,0 +1,19 @@
+T1	PROC 2 24	traitement chirurgical
+T2	PROC 48 82	radio-chimiothérapie néo adjuvante
+T3	CHEM 93 111	méthylprednisolone
+T4	DOSE 113 120	50mg/kg
+T5	TEMP 120 122	/j
+T6	PROC 136 158	contrôle échographique
+T7	LIVB 163 171	patiente
+T8	MEAS 179 182	bon
+T9	Concept_Idea 183 195	état général
+T10	DISO 204 237	nodule du quadrant supéro-externe
+T11	ANAT 214 237	quadrant supéro-externe
+T12	DISO 243 262	signe inflammatoire
+T13	PHEN 271 289	suites opératoires
+T14	MEAS 295 302	simples
+T15	DISO 353 375	symptômes psychotiques
+T16	TEMP 383 408	6 ème jour postopératoire
+T17	PROC 474 483	opération
+T18	DISO 510 537	troubles neuropsychiatrique
+T19	DISO 544 553	dysphonie

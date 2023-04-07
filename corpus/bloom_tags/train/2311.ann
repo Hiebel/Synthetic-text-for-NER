@@ -1,0 +1,28 @@
+T1	LIVB 20 28	patiente
+T2	DISO 40 50	diabétique
+T3	PROC 56 74	traitement médical
+T4	CHEM 84 99	antidiabétiques
+T5	TEMP 119 123	2013
+T6	DISO 128 155	hyperparathyroïdie primaire
+T7	DISO 172 192	œdème du coude droit
+T8	ANAT 181 192	coude droit
+T9	Localization 187 192	droit
+T10	PROC 196 211	examen clinique
+T11	DISO 245 325	syndrome d'épanchement cutané pérituberculeux des parties molles latéro-utérines
+T13	ANAT 295 325	parties molles latéro-utérines
+T14	DISO 339 395	lésion hyper échogéne nécrose érythémateuse prurigineuse
+T15	MEAS 404 416	environ 3 cm
+T16	MEAS 429 433	6 cm
+T17	MEAS 438 442	4 cm
+T18	ANAT 458 466	épiploon
+T19	TEMP 476 493	depuis trois mois
+T20	DISO 506 522	signes cliniques
+T21	PROC 535 565	échographie abdomino-pelvienne
+T22	ANAT 547 565	abdomino-pelvienne
+T23	DISO 590 618	localisations gynécologiques
+T24	PROC 644 660	touchers rectaux
+T25	ANAT 653 660	rectaux
+T26	MEAS 669 676	normaux
+T27	PROC 693 713	biopsie chirurgicale
+T28	Concept_Idea 737 765	résultat anatomopathologique
+T29	DISO 788 798	métastases

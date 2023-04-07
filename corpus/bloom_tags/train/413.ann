@@ -1,0 +1,95 @@
+T1	LIVB 4 9	femme
+T2	PROC 28 34	admise
+T3	Hospital 39 61	urgences chirurgicales
+T4	DISO 89 110	détresse respiratoire
+T5	PHEN 98 110	respiratoire
+T6	MEAS 125 135	insidieuse
+T7	LIVB 157 159	sa
+T8	PROC 177 216	scanner cervico-dorso-lombaire infarcté
+T9	ANAT 185 216	cervico-dorso-lombaire infarcté
+T10	PROC 218 247	scintigraphie scannographique
+T11	PROC 262 281	bilan préopératoire
+T12	DISO 312 331	pancréatite stade I
+T13	DISO 347 372	atteinte hépato-circinale
+T14	ANAT 356 372	hépato-circinale
+T15	PROC 412 436	prélèvements biologiques
+T16	MEAS 450 457	normaux
+T17	DISO 475 497	syndrome cholestatique
+T18	DISO 503 522	abcès pancréatiques
+T19	ANAT 509 522	pancréatiques
+T20	DISO 542 561	métastases kystique
+T21	DISO 650 682	surdité congénitale hypertensive
+T22	PROC 724 748	traumatisme diagnostique
+T23	PROC 752 770	traitement curatif
+T24	PROC 802 836	radiothérapie palliative adjuvante
+T25	PROC 842 883	anesthésie locorégionale trans-thoracique
+T26	DOSE 886 890	50Gy
+T27	DOSE 911 915	5 Gy
+T28	DEVI 1037 1048	sonde nylon
+T29	DISO 1136 1159	tissulaires nécrasiques
+T30	PROC 1283 1309	consolidation métastatique
+T31	MEAS 1566 1576	nécessaire
+T32	PROC 1614 1638	laparotomie exploratrice
+T33	CHEM 1767 1778	Céftriaxone
+T34	CHEM 1781 1802	Ethylcarbaméthoxazole
+T35	MEAS 1834 1840	1500ml
+T36	MEAS 1843 1854	0,2g/m²/min
+T38	TEMP 1867 1869	/h
+T39	PROC 1882 1917	voie veineuse périphérique biliaire
+T40	PROC 1918 1922	VPTB
+T41	MODE 1924 1937	intraveineuse
+T42	PROC 1943 1992	ponction médullaire biquotidienne laryngoscopique
+T43	ANAT 1952 1992	médullaire biquotidienne laryngoscopique
+T44	MEAS 2080 2089	15 litres
+T45	PROC 2123 2167	tomodensitométrie thoraco-abdomino-pelvienne
+T46	ANAT 2141 2167	thoraco-abdomino-pelvienne
+T47	Concept_Idea 2180 2186	aspect
+T50	PROC 2331 2349	traitement curatif
+T51	CHEM 2383 2394	métotrexate
+T52	DOSE 2396 2401	20 mg
+T53	TEMP 2401 2403	/j
+T54	CHEM 2406 2419	dexaméthasone
+T55	DOSE 2421 2427	400 mg
+T56	TEMP 2427 2429	/j
+T57	CHEM 2432 2450	hydroxychloroquine
+T58	DOSE 2452 2458	750 mg
+T59	TEMP 2458 2460	/j
+T60	CHEM 2463 2473	cisplatine
+T61	DOSE 2475 2481	200 mg
+T62	TEMP 2481 2483	/j
+T63	CHEM 2486 2498	pyrazinamide
+T64	DOSE 2500 2506	250 mg
+T65	TEMP 2506 2508	/j
+T66	CHEM 2511 2521	furosémide
+T67	DOSE 2523 2529	600 mg
+T68	TEMP 2529 2531	/j
+T69	CHEM 2534 2546	curiethidine
+T70	DOSE 2548 2554	100 mg
+T71	TEMP 2554 2556	/j
+T72	CHEM 2559 2569	thalidovir
+T73	DOSE 2571 2577	450 mg
+T74	TEMP 2577 2579	/j
+T75	CHEM 2582 2595	bêtaméthasone
+T76	DOSE 2597 2602	40 mg
+T77	TEMP 2602 2604	/j
+T78	CHEM 2607 2624	follicle-protéine
+T79	DOSE 2626 2633	1280 mg
+T80	TEMP 2633 2635	/j
+T81	CHEM 2638 2651	sulfasalopril
+T82	DOSE 2653 2658	75 mg
+T83	TEMP 2658 2660	/j
+T84	CHEM 2663 2673	dobutamine
+T85	DOSE 2675 2681	120 mg
+T86	TEMP 2681 2683	/j
+T87	CHEM 2686 2698	nicardiprine
+T88	DOSE 2700 2710	25 μmol/kg
+T89	TEMP 2710 2712	/J
+T90	CHEM 2715 2728	noradrénaline
+T91	DOSE 2730 2740	10 µmol/kg
+T92	TEMP 2740 2742	/J
+T93	CHEM 2745 2758	hydrocortisol
+T94	DOSE 2760 2768	30 ng/ml
+T95	TEMP 2768 2770	/J
+T96	LIVB 2776 2783	patient
+T97	DISO 2809 2858	désinsertion des membres inférieurs hypertrophiés
+T98	ANAT 2826 2858	membres inférieurs hypertrophiés

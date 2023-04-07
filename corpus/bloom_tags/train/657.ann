@@ -1,0 +1,41 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 46 71	antécédents pathologiques
+T3	MEAS 72 84	particuliers
+T4	PROC 86 96	consultait
+T5	DISO 106 129	douleurs du flanc droit
+T6	ANAT 118 129	flanc droit
+T7	Localization 124 129	droit
+T8	TEMP 139 152	depuis 6 mois
+T9	PROC 156 171	examen clinique
+T10	DISO 188 215	lombodisclérite douloureuse
+T11	DISO 219 242	impotence fonctionnelle
+T12	DISO 258 291	syndrome d’épanchement péritonéal
+T13	ANAT 281 291	péritonéal
+T14	ANAT 299 326	espace flasque antéro-cæcal
+T15	DISO 351 365	perte de poids
+T16	PHEN 360 365	poids
+T17	MEAS 370 374	6 kg
+T18	TEMP 379 400	deux dernières années
+T19	LIVB 403 406	Son
+T20	PROC 407 424	bilan étiologique
+T21	MEAS 431 439	complété
+T22	DISO 467 486	diabète métabolique
+T23	CHEM 492 513	anti-diabétaméthasone
+T24	PROC 561 570	recherche
+T25	PROC 574 605	échographie abdomino- pelvienne
+T26	ANAT 586 605	abdomino- pelvienne
+T27	DISO 623 663	hépatomégalie rétro péritonéale d'emblée
+T28	DISO 677 713	hypertrophie grêlo-kystique biliaire
+T29	ANAT 690 713	grêlo-kystique biliaire
+T30	DISO 750 772	tuberculose pulmonaire
+T31	ANAT 762 772	pulmonaire
+T32	DISO 785 812	localisations tuberculeuses
+T33	DISO 826 888	désinsertion ganglionnaire para-aortique hépatique iléocoecale
+T34	ANAT 839 888	ganglionnaire para-aortique hépatique iléocoecale
+T35	MEAS 898 902	18cm
+T36	Concept_Idea 906 915	grand axe
+T37	DOSE 943 950	50mg/kg
+T38	CHEM 954 967	metronidazole
+T39	CHEM 1173 1184	tuberculine
+T40	MEAS 1198 1207	négativée
+T41	PROC 1211 1261	résection transpharyngo œsophagienne conservatrice

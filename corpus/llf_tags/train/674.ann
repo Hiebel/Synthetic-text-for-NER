@@ -1,0 +1,60 @@
+T1	LIVB 16 21	femme
+T2	DISO 65 74	ménopause
+T3	TEMP 75 88	il y a 20 ans
+T4	PROC 94 109	examen clinique
+T5	LIVB 113 121	patiente
+T6	MEAS 131 138	mauvais
+T7	Concept_Idea 139 151	état général
+T8	DISO 170 186	râles crépitants
+T9	ANAT 196 203	cuisses
+T10	TEMP 213 230	depuis deux jours
+T11	DISO 246 253	dyspnée
+T12	DISO 260 279	trouble psychotique
+T13	PHEN 288 293	tonus
+T14	MEAS 296 301	90bpm
+T15	ANAT 315 338	membre supérieur gauche
+T16	Localization 332 338	gauche
+T17	MEAS 369 380	massivement
+T18	DEVI 393 399	radars
+T19	PROC 415 431	examen somatique
+T20	DISO 443 456	particularité
+T21	PROC 460 471	échographie
+T22	DISO 488 534	masse tissulaire hypoéchogène hétéro-extensive
+T23	MEAS 544 548	2 cm
+T24	Concept_Idea 552 561	grand axe
+T25	MEAS 570 583	6 centimètres
+T26	Concept_Idea 587 596	petit axe
+T27	PROC 617 626	injection
+T28	ANAT 651 668	symphyse pubienne
+T29	DISO 677 682	masse
+T30	MEAS 695 701	T4N0Mx
+T31	MEAS 705 711	T3N1Mx
+T32	Concept_Idea 722 743	résultat histologique
+T33	PROC 759 776	tomodensitométrie
+T34	PROC 777 809	TDM) thoraco- abdomino-pelvienne
+T35	ANAT 782 809	thoraco- abdomino-pelvienne
+T36	DISO 852 896	épanchement péritonéal liquidien néoplasique
+T37	ANAT 914 938	sinus maxillaire gauches
+T38	Localization 931 938	gauches
+T39	Concept_Idea 1031 1046	caractéristique
+T40	PROC 1051 1068	geste chirurgical
+T41	PROC 1090 1144	laparotomie exploratrice sous couverture scanno-guidée
+T42	PROC 1163 1202	toilette abdominopelvienne chirurgicale
+T43	ANAT 1172 1202	abdominopelvienne chirurgicale
+T44	PROC 1232 1267	investigations anatomopathologiques
+T45	PROC 1283 1303	hystérectomie totale
+T46	PROC 1317 1344	gynécomastiectomie monobloc
+T47	PROC 1347 1368	analyse cytogénétique
+T48	LIVB 1383 1393	nourrisson
+T49	DISO 1418 1431	gène mucineux
+T50	DISO 1464 1486	remaniements kystiques
+T51	PROC 1494 1519	étude immunohistochimique
+T52	CHEM 1547 1562	myélopéroxedème
+T53	ANAT 1652 1679	zones érythémato-tracheales
+T54	PROC 1779 1798	traitement adjuvant
+T55	PROC 1804 1838	transfusion sanguine intraveineuse
+T56	PROC 1851 1885	radio-chimiothérapie néo adjuvante
+T57	PROC 2014 2033	essai thérapeutique
+T58	PROC 2074 2114	rééducation fonctionnelle postopératoire
+T59	PROC 2186 2209	contrôles radiologiques
+T60	PROC 2377 2414	méthodes contraceptives substitutives

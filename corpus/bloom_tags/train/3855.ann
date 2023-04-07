@@ -1,0 +1,65 @@
+T1	LIVB 16 24	patiente
+T2	PROC 50 56	admise
+T3	Hospital 60 107	service d'accueil des urgences ophtalmologiques
+T4	Hospital 111 147	Clinique Universitaire de Lubumbashi
+T5	Hospital 149 153	CULU
+T6	Concept_Idea 189 201	état général
+T7	CHEM 227 240	bromocriptine
+T8	PROC 245 264	bilan préopératoire
+T9	LIVB 300 308	patiente
+T10	DISO 337 387	hyperparathyroïdie primaire hypocholestérolémiante
+T11	DISO 403 458	tuberculose épithélio-gigantocellulaire cervico-utérine
+T12	ANAT 415 458	épithélio-gigantocellulaire cervico-utérine
+T13	PROC 491 516	traitement antibacillaire
+T14	PROC 530 560	radio-chimiothérapie adjuvante
+T15	PROC 566 613	radiothérapie palliative cyto-circonférentielle
+T16	PROC 617 653	tomodensitométrie abdomino pelvienne
+T17	ANAT 635 653	abdomino pelvienne
+T18	DISO 670 791	masse tissulaire hypodense hétérogène lithiasique érythéno-pustuleuse angulo-sphinctérielle latéro-mésentriculaire droite
+T19	Localization 785 791	droite
+T20	MEAS 801 805	6 cm
+T21	Concept_Idea 809 818	grand axe
+T22	ANAT 843 853	col utérin
+T23	ANAT 875 890	lumière rectale
+T24	MEAS 906 919	environ 10 cm
+T25	Concept_Idea 923 933	profondeur
+T26	ANAT 952 969	annexes périnéaux
+T27	MODE 1016 1025	injection
+T28	DOSE 1029 1033	1 mg
+T29	CHEM 1037 1057	produit de contraste
+T30	LIVB 1087 1095	patiente
+T31	DISO 1100 1153	métastose interstitielle épithélial gynecalo-kystique
+T32	ANAT 1110 1153	interstitielle épithélial gynecalo-kystique
+T33	DISO 1241 1260	traumatisme pelvien
+T34	ANAT 1253 1260	pelvien
+T35	DISO 1273 1294	adénopathies malignes
+T36	DISO 1331 1354	ganglions locorégionale
+T37	DISO 1364 1387	localisations nécrosées
+T38	DISO 1410 1437	symptômes neurovésiculaires
+T39	DISO 1480 1501	dyspnée hypertrophiée
+T40	MEAS 1513 1526	40 cycles/min
+T41	MEAS 1541 1568	progressivement progressive
+T42	TEMP 1577 1592	le premier jour
+T43	LIVB 1599 1601	sa
+T44	PROC 1602 1614	consultation
+T45	MEAS 1644 1667	de plus en plus gênante
+T46	MEAS 1679 1689	rapidement
+T47	Concept_Idea 1693 1699	volume
+T48	Concept_Idea 1717 1727	caractères
+T49	DISO 1770 1775	râlés
+T50	DISO 1809 1842	détresse respiratoire obstructive
+T51	PHEN 1818 1842	respiratoire obstructive
+T52	MEAS 1888 1894	diffus
+T53	DISO 2023 2058	léiomyome séreux kystique hydatique
+T55	PROC 2166 2187	recherche étiologique
+T56	ANAT 2262 2281	greffon iléocolique
+T57	DISO 2310 2324	masse tumorale
+T58	PROC 2376 2391	examen clinique
+T59	PROC 2396 2416	bilan préchirurgical
+T60	PROC 2439 2464	scanner abdomino- pelvien
+T61	ANAT 2447 2464	abdomino- pelvien
+T62	DISO 2480 2489	anomalies
+T63	PROC 2495 2515	biopsie chirurgicale
+T64	DISO 2519 2593	carcinome épidermoïde ovarien inféro-myometrinaire laryngolaryngo-trachéal
+T65	ANAT 2529 2593	épidermoïde ovarien inféro-myometrinaire laryngolaryngo-trachéal
+T66	DISO 2622 2670	pneumo-interstitielle thyroïdienne érythémateuse

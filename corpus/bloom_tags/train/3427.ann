@@ -1,0 +1,60 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	DISO 38 63	antécédents pathologiques
+T4	MEAS 64 72	notables
+T5	PROC 74 79	admis
+T6	Hospital 84 109	urgences ophtalmologiques
+T7	DISO 119 148	douleurs épigastriques aiguës
+T8	ANAT 128 141	épigastriques
+T9	TEMP 158 174	depuis 48 heures
+T10	LIVB 176 178	Il
+T11	PROC 197 227	échographie abdomino-pelvienne
+T12	ANAT 209 227	abdomino-pelvienne
+T13	DISO 248 283	masse du pelvis utérin hypertrophié
+T14	ANAT 257 283	pelvis utérin hypertrophié
+T15	MEAS 293 298	12 cm
+T16	MEAS 303 308	11 cm
+T17	Concept_Idea 311 317	aspect
+T18	MEAS 318 328	hétérogène
+T19	MEAS 332 344	bien limitée
+T20	PROC 348 363	examen clinique
+T21	PROC 368 377	admission
+T22	Hospital 381 396	bloc opératoire
+T23	LIVB 413 420	patient
+T24	MEAS 424 427	bon
+T25	Concept_Idea 428 446	état hémodynamique
+T26	ANAT 457 467	artérielle
+T27	MEAS 470 481	100/70 mmHg
+T28	PHEN 484 489	pouls
+T29	MEAS 491 505	120 battements
+T30	TEMP 506 516	par minute
+T31	PROC 522 552	bilan phospho-calcique sérique
+T32	MEAS 559 565	normal
+T33	PROC 570 608	scanner abdomino-pelvien transfixiante
+T34	ANAT 578 608	abdomino-pelvien transfixiante
+T36	Localization 710 720	bilatérale
+T37	ANAT 736 753	vésicule biliaire
+T38	MODE 781 790	injection
+T39	CHEM 794 814	produit de contraste
+T40	ANAT 831 850	surrénales iliaques
+T41	LIVB 878 886	patiente
+T42	DISO 891 913	pancréatite ischémique
+T43	DISO 919 989	dilatation anévrismale tumorale intrapéritonéale nécrose érythémateuse
+T44	DISO 1005 1040	métastase ovarienne parenchymateuse
+T45	ANAT 1015 1040	ovarienne parenchymateuse
+T46	DISO 1070 1086	lésions malignes
+T47	DISO 1104 1129	lésion kystique hydatique
+T48	DISO 1139 1161	anomalie morphologique
+T49	PROC 1176 1197	biopsie scanno-guidée
+T50	PROC 1203 1229	anesthésie générale locale
+T51	DISO 1257 1318	carcinome épithélio-gigantocellulaire pancréato-mégalocytaire
+T52	PROC 1390 1420	curage ganglionnaire axillaire
+T53	ANAT 1397 1420	ganglionnaire axillaire
+T54	DISO 1454 1476	pronostic métastatique
+T55	DEVI 1516 1522	moyens
+T56	Hospital 1544 1557	établissement
+T57	PROC 1571 1605	radiothérapie palliative adjuvante
+T58	CHEM 1636 1649	dexaméthasone
+T59	DOSE 1652 1660	175mg/m²
+T60	DISO 1717 1732	symptomatologie
+T61	PROC 1792 1810	traitement curatif

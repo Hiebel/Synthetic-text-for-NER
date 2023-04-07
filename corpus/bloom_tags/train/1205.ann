@@ -1,0 +1,27 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 67	particuliers
+T4	PROC 69 73	reçu
+T5	Hospital 78 86	urgences
+T6	DISO 96 129	douleurs épigastriques chroniques
+T7	ANAT 105 118	épigastriques
+T8	TEMP 139 156	depuis trois mois
+T9	PROC 160 175	examen clinique
+T10	PROC 180 189	admission
+T11	LIVB 200 207	patient
+T12	MEAS 221 224	bon
+T13	Concept_Idea 225 237	état général
+T14	PHEN 247 265	tension artérielle
+T15	ANAT 255 265	artérielle
+T16	MEAS 276 289	110/120 mm Hg
+T17	MEAS 311 315	39°C
+T18	PROC 320 339	bilan préopératoire
+T19	PROC 353 361	kaliémie
+T20	MEAS 364 374	1,5 mmol/l
+T21	DOSE 376 386	200 meq/kg
+T22	CHEM 389 407	hydroxychloroquine
+T23	PROC 414 436	natrémie intraveineuse
+T24	MEAS 439 448	123 meq/L
+T25	MODE 453 479	voie veineuse périphérique
+T26	DEVI 486 505	sonde surrénalienne
+T27	ANAT 492 505	surrénalienne

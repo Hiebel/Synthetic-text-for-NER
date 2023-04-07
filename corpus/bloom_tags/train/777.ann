@@ -1,0 +1,29 @@
+T1	LIVB 29 37	patiente
+T2	DISO 72 93	paragangliome maligne
+T3	PROC 99 129	traitement médical substitutif
+T4	DOSE 140 143	1 g
+T5	CHEM 146 164	hydroxychloroquine
+T6	DOSE 167 173	400 mg
+T7	CHEM 177 195	méthylprednisolone
+T8	PROC 207 232	intervention chirurgicale
+T9	DISO 278 312	symptomatologie neuropsychiatriale
+T10	DISO 330 344	amaigrissement
+T11	MEAS 355 360	12 kg
+T12	LIVB 415 423	patiente
+T13	PROC 446 468	ablation transurétrale
+T14	DISO 474 504	adénophagocystico-mésentérique
+T15	PROC 523 546	curage pelvien périnéal
+T16	ANAT 530 546	pelvien périnéal
+T17	PROC 561 605	laparotomie oeso-gastroduodénale transversée
+T18	ANAT 573 605	oeso-gastroduodénale transversée
+T19	DISO 619 633	kyste kystique
+T20	MEAS 642 654	environ 7 cm
+T21	Concept_Idea 658 666	diamètre
+T22	PROC 682 702	extirpation manuelle
+T23	DISO 738 751	consanguinité
+T24	DISO 758 779	familiaux pathologies
+T25	DISO 806 837	syndrome néphrotique congénital
+T26	DISO 996 1006	métastases
+T27	PROC 1296 1318	diagnostic étiologique
+T28	PROC 1576 1604	recherche pluridisciplinaire
+T29	Concept_Idea 1839 1849	caractères

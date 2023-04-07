@@ -1,0 +1,36 @@
+T1	LIVB 20 31	jeune fille
+T2	TEMP 35 41	17 ans
+T3	MEAS 73 81	notables
+T4	DISO 99 116	souffrance fœtale
+T5	ANAT 110 116	fœtale
+T6	PHEN 118 127	grossesse
+T7	DISO 179 201	douleurs épigastriques
+T8	ANAT 188 201	épigastriques
+T9	TEMP 211 228	depuis deux jours
+T10	DISO 254 263	symptômes
+T11	DISO 266 288	sensibilité abdominale
+T12	ANAT 278 288	abdominale
+T13	MEAS 300 315	progressivement
+T14	Concept_Idea 319 325	volume
+T15	MEAS 384 392	10 000ml
+T16	PROC 409 424	hospitalisation
+T17	Hospital 429 450	urgences pédiatriques
+T18	PROC 460 480	traitée médicalement
+T19	CHEM 502 516	Céphalosporine
+T20	CHEM 519 535	Sulfaméthoxazole
+T21	CHEM 538 549	Cyclosérine
+T22	CHEM 551 574	Triméthoprime-Acetamide
+T23	PROC 579 609	échographie abdomino-pelvienne
+T24	ANAT 591 609	abdomino-pelvienne
+T25	DISO 626 673	masse hypo échogène hétérogène arrondie ulcérée
+T26	MEAS 682 686	3 cm
+T27	Concept_Idea 690 699	grand axe
+T28	MEAS 709 712	4cm
+T29	Concept_Idea 716 725	grand axe
+T30	MEAS 743 746	5cm
+T31	Concept_Idea 750 759	grand axe
+T32	ANAT 856 890	parties molles intéro-rectiliennes
+T33	DISO 917 935	atteinte pelvienne
+T34	ANAT 926 935	pelvienne
+T35	PROC 939 980	scanner abdomino-pelvien transoesophagien
+T36	ANAT 947 980	abdomino-pelvien transoesophagien

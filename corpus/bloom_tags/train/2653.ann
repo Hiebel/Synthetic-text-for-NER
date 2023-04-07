@@ -1,0 +1,56 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 38 43	6 ans
+T3	PROC 66 76	césarienne
+T4	PROC 82 106	anesthésie préopératoire
+T5	PROC 122 146	chimiothérapie adjuvante
+T6	CHEM 152 156	CDDP
+T7	DOSE 159 165	100 mg
+T8	MODE 168 181	intra-muqueux
+T9	CHEM 195 226	amoxicilline-acide clavulanique
+T10	LIVB 260 268	patiente
+T11	DISO 337 359	syndrome inflammatoire
+T12	DISO 366 383	récidive tumorale
+T13	Concept_Idea 487 511	risque cyto-radionétique
+T14	Concept_Idea 528 558	caractères curatifs/palliatifs
+T15	PROC 626 650	techniques chirurgicales
+T16	PROC 653 675	anamnèse gynécologique
+T17	LIVB 707 729	médecins obstétriciens
+T18	PROC 742 756	interrogatoire
+T19	MEAS 767 797	très difficilement appréciable
+T20	LIVB 1043 1065	Streptococcus pyogenes
+T21	MEAS 1231 1236	40° c
+T22	LIVB 1275 1281	garçon
+T23	TEMP 1289 1294	7 ans
+T24	Hospital 1311 1332	urgences pédiatriques
+T25	DISO 1348 1367	douleurs pelviennes
+T26	ANAT 1357 1367	pelviennes
+T27	TEMP 1377 1392	depuis 6 heures
+T28	DISO 1409 1421	palpitations
+T29	MEAS 1436 1442	rapide
+T30	MEAS 1454 1465	massivement
+T31	Concept_Idea 1469 1475	volume
+T32	DISO 1513 1533	symptômes abdominaux
+T33	ANAT 1551 1562	flanc droit
+T34	Localization 1557 1562	droit
+T35	ANAT 2008 2029	cloisons intestinales
+T36	DEVI 2088 2106	greffon cellulaire
+T37	PROC 2110 2125	examen clinique
+T38	LIVB 2139 2147	patiente
+T39	MEAS 2151 2154	bon
+T40	Concept_Idea 2155 2173	état hémodynamique
+T41	PROC 2177 2208	auscultation abdomino-pelvienne
+T42	ANAT 2190 2208	abdomino-pelvienne
+T43	DISO 2220 2233	particularité
+T44	PROC 2239 2265	échographie utéro-vaginale
+T45	ANAT 2251 2265	utéro-vaginale
+T47	ANAT 2339 2363	plexus ombilicale utérin
+T48	MEAS 2373 2377	2 cm
+T49	Concept_Idea 2381 2390	grand axe
+T50	DISO 2414 2460	épanchement intrapéritonéal liquidien purulent
+T51	ANAT 2426 2460	intrapéritonéal liquidien purulent
+T52	PHEN 2538 2559	contractions utérines
+T53	ANAT 2551 2559	utérines
+T54	MEAS 2571 2580	brunâtres
+T55	DISO 2603 2670	sensibilité rétro-utérine péristaltique parathyroïdienne symétrique
+T57	MEAS 2686 2701	progressivement
+T58	Concept_Idea 2705 2711	volume

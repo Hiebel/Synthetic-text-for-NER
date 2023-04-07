@@ -1,0 +1,80 @@
+T1	LIVB 15 23	patiente
+T2	Concept_Idea 45 56	antécédents
+T3	MEAS 57 69	particuliers
+T4	PROC 80 86	opérée
+T5	TEMP 90 94	2004
+T6	DISO 104 139	hypertrophie des membres inférieurs
+T7	ANAT 121 139	membres inférieurs
+T8	PHEN 144 153	grossesse
+T9	Localization 195 212	moitié inférieure
+T10	ANAT 216 221	genou
+T11	DEVI 229 253	staff multithérapeutique
+T12	PROC 286 315	corticothérapie néo adjuvante
+T13	CHEM 317 348	amoxicilline acide clavulanique
+T14	CHEM 351 365	gentaméthasone
+T15	PROC 370 396	examen anatomopathologique
+T16	DISO 415 503	léiomyome éosinophile épidermoïde ischémique rénitro-mésenchymateux kératinisant maligne
+T17	MEAS 511 517	T3N0Mx
+T18	ANAT 575 620	parties molles cervicale supra controlatéraux
+T19	Localization 600 605	supra
+T20	DISO 643 666	localisation secondaire
+T21	MEAS 703 710	simples
+T22	PROC 728 760	bilan radiologique préopératoire
+T23	DISO 782 877	myomegie hypertrophique mucineux anévrysmale hétérodactyle hyperbasoctaquetemporaire infiltrant
+T24	ANAT 894 899	genou
+T25	ANAT 919 944	symphyse fémorale caudale
+T26	MEAS 954 968	14 centimètres
+T27	Concept_Idea 972 981	grand axe
+T28	ANAT 1008 1026	muscles abdominaux
+T29	MEAS 1051 1061	fusiformes
+T30	PROC 1065 1090	étude immunohistochimique
+T31	LIVB 1111 1119	patiente
+T32	DISO 1149 1193	récepteurs hormonaux gonadotrophiques fœtaux
+T33	DISO 1224 1236	méatocytaire
+T34	DISO 1240 1259	heteroendocrinienne
+T35	PROC 1264 1286	traitement chirurgical
+T36	PROC 1308 1346	laparotomie exploratrice scanno-guidée
+T37	PROC 1360 1375	exérèse in situ
+T38	DISO 1397 1412	lésions nécrosé
+T39	PROC 1419 1446	reconstruction chirurgicale
+T40	PROC 1452 1500	hystérectomie endoscopique monobloc non invasive
+T41	PROC 1516 1583	néphrectomie totale élargie rétrocervicale homolatérale asymétrique
+T42	Localization 1559 1583	homolatérale asymétrique
+T43	PROC 1602 1702	annexectomie bilatérale médiane retro péritonéale médiane distale termino-distale antero-péritonéale
+T45	Localization 1668 1702	termino-distale antero-péritonéale
+T46	Concept_Idea 1729 1752	caractère morphologique
+T47	DISO 1773 1827	neurofibromatose diabétique néonatalitaire congénitale
+T48	PROC 1832 1903	curage ganglionnaire intraabdomino-pelvien transplacentaire biopsicoïde
+T49	PROC 1918 1957	anastomo-transfusion sanguine type IgG®
+T50	Concept_Idea 2000 2028	paramètres histo-biologiques
+T51	PROC 2036 2053	mise en condition
+T52	PROC 2069 2121	exploration échographique obstétricale gynécologique
+T54	PROC 2268 2333	angioplastie pariéto-œstradiale extravasationnelle fractionnée BK
+T55	PROC 2352 2383	explorations cytothérapeutiques
+T56	DISO 2427 2487	tuberculose pulmonaire interstitielle tuberculeuse chronique
+T57	MEAS 2496 2502	T1N0Mx
+T58	PROC 2509 2536	investigations exoluminales
+T59	DISO 2570 2618	microkératose pyriforme lymphoblastique primaire
+T60	DISO 2674 2762	cellules trophoblastiques polyploïdes métachromatineuses carcinomateuses thymobilisantes
+T61	DISO 2792 2827	pseudo-tumeur lymphomateuse myxoide
+T62	ANAT 2835 2842	estomac
+T63	ANAT 2847 2864	vésicule biliaire
+T64	ANAT 2872 2903	aires ganglionnaires cervicales
+T65	ANAT 2917 2928	nasopharynx
+T66	DISO 2944 2953	anomalies
+T67	DISO 2970 2990	hépato-splénomégalie
+T68	DISO 2997 3030	lésion tumorale du lambeau buccal
+T69	ANAT 3016 3030	lambeau buccal
+T70	LIVB 3035 3043	patiente
+T71	PROC 3069 3111	complément immunohistochimique moléculaire
+T72	MEAS 3128 3135	négatif
+T73	PHEN 3149 3169	récepteurs hormonaux
+T74	MEAS 3170 3194	progressivement positifs
+T75	LIVB 3243 3251	patiente
+T76	MEAS 3286 3295	favorable
+T77	TEMP 3314 3321	12 mois
+T78	PROC 3350 3380	corticothérapie antibacillaire
+T79	PROC 3397 3439	contrôle radiologique préopératoire direct
+T80	PROC 3452 3486	radio chimiothérapie néo adjuvante
+T81	PROC 3522 3559	prise en charge chirurgicale générale
+T82	PROC 3589 3606	geste chirurgical

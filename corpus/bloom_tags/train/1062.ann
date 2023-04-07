@@ -1,0 +1,44 @@
+T1	LIVB 29 37	patiente
+T2	DISO 69 82	consanguinité
+T3	PROC 86 111	intervention chirurgicale
+T4	PROC 129 155	remplissage postopératoire
+T5	CHEM 159 182	sérum salé hypertonique
+T6	DOSE 184 191	20ml/kg
+T7	TEMP 191 193	/j
+T8	CHEM 201 214	métronidazole
+T9	DOSE 216 224	100mg/kg
+T10	TEMP 224 226	/j
+T11	MODE 228 240	intraveineux
+T12	PROC 254 287	toilette péritonéale prokinétique
+T13	ANAT 263 274	péritonéale
+T14	PROC 291 316	étude anatomopathologique
+T15	DISO 338 383	carcinome épidermoïde kystadéno-lymphocytaire
+T16	DISO 403 430	localisations histologiques
+T17	DISO 444 457	paragangliome
+T18	DISO 464 497	épanchement bilatérale péritonéal
+T19	Localization 476 486	bilatérale
+T20	ANAT 587 598	sous-rénaux
+T21	DISO 637 666	polynucléaires érythémateuses
+T22	Concept_Idea 669 675	aspect
+T23	MEAS 676 689	macroscopique
+T24	DISO 761 797	localisation secondaire métastatique
+T25	DISO 828 851	dégénérescence tumorale
+T26	MEAS 1010 1022	particuliers
+T27	DISO 1040 1061	syndrome hémorragique
+T28	DISO 1063 1074	traumatique
+T29	DISO 1078 1090	thrombotique
+T30	TEMP 1100 1111	depuis 1 an
+T31	DISO 1154 1167	cholestatique
+T32	MEAS 1182 1188	rapide
+T33	MEAS 1200 1212	spontanément
+T34	Concept_Idea 1216 1222	volume
+T35	Concept_Idea 1258 1270	état général
+T36	DISO 1287 1321	douleurs thoraciques constrictives
+T37	ANAT 1296 1321	thoraciques constrictives
+T38	MEAS 1346 1357	progressive
+T39	DISO 1374 1380	sueurs
+T40	MEAS 1381 1390	nocturnes
+T41	DISO 1418 1441	céphalalgies fébuleuses
+T42	ANAT 1482 1537	couches musculaires thoraciques latéro-trochantériennes
+T43	MEAS 1547 1557	entre 5 cm
+T44	Concept_Idea 1561 1570	grand axe

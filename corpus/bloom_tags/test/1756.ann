@@ -1,0 +1,85 @@
+T1	LIVB 16 21	femme
+T2	PROC 47 53	admise
+T3	Hospital 58 66	urgences
+T4	DISO 101 157	syndrome d'épanchement péritonéal latéro péribuccal aigu
+T6	DISO 171 232	épanchement surrénalien pariéto-thoracique liquidien biliaire
+T8	DISO 253 278	vomissements alimentaires
+T9	TEMP 288 304	depuis deux mois
+T10	DISO 321 336	symptomatologie
+T11	TEMP 347 356	24 heures
+T12	LIVB 363 366	son
+T13	PROC 367 376	admission
+T14	Hospital 380 398	service d’urologie
+T15	LIVB 404 410	enfant
+T16	PROC 433 457	cystatectomie bilatérale
+T17	Localization 447 457	bilatérale
+T18	PROC 466 485	bilan préopératoire
+T19	PROC 487 518	échographie abdomino- pelvienne
+T20	ANAT 499 518	abdomino- pelvienne
+T21	PROC 532 564	scanner thoraco-abdomino-pelvien
+T22	ANAT 540 564	thoraco-abdomino-pelvien
+T23	MEAS 581 588	normaux
+T24	PROC 606 625	examens biologiques
+T25	PHEN 642 657	fonction rénale
+T26	ANAT 651 657	rénale
+T27	MEAS 658 664	altéré
+T28	DISO 680 696	hyperleucocytose
+T29	MEAS 699 718	14 000 éléments/mm3
+T30	MEAS 734 750	de façon intense
+T31	LIVB 763 767	elle
+T32	CHEM 784 798	Ciprofloxacine
+T33	DOSE 803 805	1g
+T34	TEMP 805 807	/j
+T35	TEMP 816 826	deux jours
+T36	DISO 883 891	récidive
+T37	DISO 898 911	complications
+T38	DISO 939 964	néphropathie hypertensive
+T39	DISO 980 1003	anomalies pathologiques
+T40	DISO 1041 1074	dégénérescence kystique hydatique
+T41	LIVB 1086 1094	patiente
+T42	DISO 1125 1137	cholécystite
+T43	DISO 1147 1172	métastases cholestatiques
+T44	DISO 1190 1208	craniométrorragies
+T45	PROC 1225 1257	auscultation cardio-respiratoire
+T46	ANAT 1238 1257	cardio-respiratoire
+T47	DISO 1282 1311	dyspnée sifflante obstructive
+T48	MEAS 1323 1333	modérément
+T49	Concept_Idea 1337 1343	volume
+T50	MEAS 1368 1378	bradycarde
+T51	MEAS 1393 1404	progressive
+T52	TEMP 1413 1440	quelques minutes auparavant
+T53	DISO 1494 1536	insuffisance ventriculo-lympho-myocardique
+T54	ANAT 1507 1536	ventriculo-lympho-myocardique
+T55	DISO 1554 1580	polynucléose érythémateuse
+T56	ANAT 1598 1633	sinus caverneux cervico-vésiculaire
+T57	ANAT 1774 1800	parties molles thoraciques
+T58	ANAT 1820 1870	zones musculaires para-tendineuses sus-rénalielles
+T59	MODE 1899 1933	voie d'abord veineuse périphérique
+T60	Concept_Idea 1949 1957	contours
+T61	MEAS 1968 1977	réguliers
+T62	DISO 2048 2068	tuberculose méningée
+T63	DISO 2075 2106	infarctus myocardio-fibrillaire
+T64	ANAT 2085 2106	myocardio-fibrillaire
+T65	MEAS 2119 2141	rapidement progressive
+T66	ANAT 2171 2192	coronaires cardiaques
+T67	PROC 2291 2332	explorations fonctionnelles respiratoires
+T68	ANAT 2319 2332	respiratoires
+T69	DISO 2348 2369	détresse respiratoire
+T70	PHEN 2357 2369	respiratoire
+T71	LIVB 2442 2444	on
+T72	DISO 2485 2505	désinsertion utérine
+T73	ANAT 2498 2505	utérine
+T74	DISO 2509 2518	hématurie
+T75	DISO 2524 2547	hypochrome microcytaire
+T76	PROC 2552 2570	traitement curatif
+T77	CHEM 2580 2611	amoxicilline-acide clavulanique
+T78	DOSE 2613 2619	500 mg
+T79	PROC 2649 2677	chirurgie abdomino-pelvienne
+T80	ANAT 2659 2677	abdomino-pelvienne
+T81	PROC 2682 2712	bilan biologique préopératoire
+T82	PROC 2739 2754	globules blancs
+T83	MEAS 2757 2776	11 000 éléments/mm3
+T84	PROC 2785 2811	taux d'hémoglobine glyquée
+T85	MEAS 2821 2825	7,4%
+T86	PROC 2827 2846	protéine C réactive
+T87	MEAS 2859 2868	1280 UI/l

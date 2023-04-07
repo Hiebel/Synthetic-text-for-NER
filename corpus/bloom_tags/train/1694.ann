@@ -1,0 +1,32 @@
+T1	LIVB 20 28	patiente
+T2	DISO 49 74	antécédents pathologiques
+T3	MEAS 75 83	notables
+T4	DISO 101 137	facteurs de risque cardiovasculaires
+T5	DISO 150 176	maladie thromboemboligènes
+T6	PROC 178 182	reçu
+T7	Hospital 187 209	urgences chirurgicales
+T8	PROC 217 232	examen clinique
+T9	DISO 249 281	masse jugulo-carotidienne droite
+T10	ANAT 255 281	jugulo-carotidienne droite
+T11	Localization 275 281	droite
+T12	MEAS 291 296	13 cm
+T13	Concept_Idea 300 309	grand axe
+T14	MEAS 318 321	5cm
+T15	Concept_Idea 325 333	diamètre
+T16	MEAS 338 341	3cm
+T17	Concept_Idea 345 355	profondeur
+T18	DISO 372 383	saignements
+T19	DISO 406 423	lésions tumorales
+T20	DISO 449 485	polynucléose érythémateuse purulante
+T21	ANAT 516 548	mésentère hyo-thyro-sphinctérien
+T22	MEAS 564 581	indifférenciément
+T23	Concept_Idea 585 591	volume
+T24	TEMP 608 614	12 ans
+T25	PROC 637 670	bilan d'immunodépression curative
+T26	DOSE 676 684	2RHZ/4RH
+T27	CHEM 695 717	éthylhydrosalicylamide
+T28	CHEM 719 729	prednisone
+T29	CHEM 734 752	hydroxychloroquine
+T31	DISO 847 869	hyperthyroïdie maligne
+T32	DISO 887 915	hypoalbuminémie hypertensive
+T33	PROC 954 1000	traités médicalement chimiothérapie palliative

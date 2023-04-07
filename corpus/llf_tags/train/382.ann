@@ -1,0 +1,34 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 67	particuliers
+T4	DISO 87 95	récidive
+T5	ANAT 100 110	œil gauche
+T6	Localization 104 110	gauche
+T7	TEMP 120 133	depuis 8 mois
+T8	PROC 137 152	examen clinique
+T9	LIVB 165 170	sujet
+T10	MEAS 174 177	bon
+T11	Concept_Idea 178 190	état général
+T12	DISO 198 218	signes neurologiques
+T13	ANAT 232 249	tronc oculomoteur
+T14	PHEN 254 274	conduction sensitive
+T15	ANAT 290 301	fond d'oeil
+T16	ANAT 307 326	réflexes orbitaires
+T17	MEAS 332 339	normaux
+T18	DISO 365 373	boiterie
+T19	DISO 383 396	symptomatique
+T20	PROC 401 418	biologie standard
+T21	MEAS 423 430	normale
+T22	PROC 432 435	VGM
+T23	MEAS 438 448	15-20 mmHg
+T24	PROC 455 479	laparotomie exploratrice
+T25	PROC 522 567	néphrectomie partielle axillaire endovaginale
+T26	ANAT 587 628	membrane céphalorachidien intracaverneuse
+T27	ANAT 657 699	tissus sous cutanés cervico-pariéto-dorsal
+T28	Concept_Idea 730 734	long
+T29	MEAS 771 778	simples
+T30	LIVB 810 817	patient
+T31	DISO 837 872	crise convulsive psychomotrice aigu
+T32	TEMP 886 911	quelques jours auparavant
+T33	TEMP 934 942	8 heures
+T34	DISO 980 997	trouble bipolaire

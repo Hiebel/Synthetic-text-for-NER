@@ -1,0 +1,65 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	9 ans
+T3	Concept_Idea 41 52	antécédents
+T4	MEAS 53 65	particuliers
+T5	PROC 67 72	admis
+T6	Hospital 76 91	bloc opératoire
+T7	DISO 110 124	amaigrissement
+T8	MEAS 135 140	20 kg
+T9	TEMP 144 154	trois mois
+T10	PROC 173 192	bilan préopératoire
+T11	DISO 214 247	dilatation des artères coronaires
+T12	ANAT 229 247	artères coronaires
+T13	PHEN 255 286	fonction ventriculo-auriculaire
+T14	ANAT 264 286	ventriculo-auriculaire
+T15	MEAS 287 294	normale
+T16	PROC 300 314	interrogatoire
+T17	LIVB 318 326	patiente
+T18	PROC 348 354	admise
+T19	Hospital 359 367	urgences
+T20	DISO 400 426	douleur abdomino-pélvienne
+T21	ANAT 408 426	abdomino-pélvienne
+T22	TEMP 436 454	depuis trois jours
+T23	DISO 475 496	symptômes intestinaux
+T24	DISO 518 542	sensibilité épigastrique
+T25	ANAT 530 542	épigastrique
+T26	PROC 547 582	auscultation cardio-vasculonerveuse
+T27	ANAT 560 582	cardio-vasculonerveuse
+T28	MEAS 589 596	normale
+T29	PROC 619 637	examens somatiques
+T30	LIVB 664 668	Elle
+T31	DISO 701 721	déficit neurologique
+T32	DISO 725 746	cataracte congénitale
+T33	Localization 822 826	sous
+T34	TEMP 873 877	2009
+T35	TEMP 881 885	2016
+T36	CHEM 891 902	Cyclosérine
+T37	LIVB 935 943	patiente
+T38	MEAS 964 977	significative
+T39	DISO 991 1023	polyneuropathie sensitivo-moteur
+T40	ANAT 1041 1066	corps oculomoteur crânien
+T41	DISO 1111 1131	syndrome d'épilepsie
+T42	DISO 1201 1250	traumatisme hémorragique inféro-cérébro-lateralis
+T43	ANAT 1318 1340	paires crânio-faciales
+T44	DISO 1396 1414	crises convulsives
+T45	DOSE 1442 1448	5mg/kg
+T46	PROC 1565 1607	scanner thoraco-abdomino-gastro péritonéal
+T47	ANAT 1573 1607	thoraco-abdomino-gastro péritonéal
+T48	DISO 1621 1655	pancréatite aiguë maligne kystique
+T49	ANAT 1685 1705	parois pancréatiques
+T50	PROC 1736 1756	traitement palliatif
+T51	CHEM 1769 1782	sulfasalazine
+T52	CHEM 1785 1798	metronidazole
+T53	PROC 1831 1854	radiothérapie adjuvante
+T54	PROC 1870 1902	curage ganglionnaire biquotidien
+T55	ANAT 1877 1902	ganglionnaire biquotidien
+T56	MEAS 2001 2007	totale
+T57	DISO 2014 2028	masse tumorale
+T58	MEAS 2038 2043	46 cm
+T59	Concept_Idea 2047 2056	grand axe
+T60	DEVI 2069 2088	sonde nasogastrique
+T62	DISO 2161 2167	tumeur
+T63	DISO 2285 2302	fistule digestive
+T64	ANAT 2293 2302	digestive
+T65	DISO 2309 2331	récidive locorégionale
+T66	MEAS 2392 2404	peu sensible

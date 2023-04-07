@@ -1,0 +1,69 @@
+T1	LIVB 15 22	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	Hospital 102 110	urgences
+T5	DISO 120 137	douleurs du fémur
+T6	ANAT 132 137	fémur
+T7	TEMP 147 164	depuis cinq jours
+T8	PROC 168 183	examen clinique
+T9	LIVB 196 203	patient
+T10	MEAS 207 214	mauvais
+T11	Concept_Idea 215 227	état général
+T12	DISO 237 243	fièvre
+T13	MEAS 246 252	39 ° C
+T14	PROC 270 286	examen somatique
+T15	DISO 298 311	particularité
+T16	PROC 316 333	tomodensitométrie
+T17	PROC 335 358	TDM) cervico-thoracique
+T18	ANAT 340 358	cervico-thoracique
+T19	DISO 386 394	anomalie
+T20	DISO 398 407	métastase
+T21	MEAS 462 469	simples
+T22	PROC 475 501	surveillance préopératoire
+T23	DEVI 529 543	broche filetée
+T24	Localization 552 574	extrémités supérieures
+T25	PROC 588 616	prise en charge chirurgicale
+T26	PROC 622 640	antibioprophylaxie
+T27	PROC 654 686	radio cardiotocomie exploratrice
+T28	PROC 693 704	transfusion
+T29	PROC 727 750	contrôle postopératoire
+T30	PHEN 772 792	récepteurs hormonaux
+T31	ANAT 823 849	parties molles thoraciques
+T32	PROC 886 916	traitement médical substitutif
+T33	Concept_Idea 929 949	aspect morphologique
+T34	DISO 1010 1054	sténose pyélocalicielle congénitale kystique
+T35	DISO 1072 1091	péritonite septique
+T36	DISO 1098 1138	adénocarcinome pléomorphe hyperchromosis
+T37	ANAT 1157 1160	VBP
+T38	ANAT 1180 1196	colon transverse
+T39	ANAT 1233 1255	ganglions médiastinaux
+T40	ANAT 1282 1306	graisse para péritonéale
+T41	ANAT 1327 1360	voies biliaires intravésiculaires
+T42	DISO 1369 1394	symptômes neuroendocrines
+T43	DISO 1413 1423	aménorrhée
+T44	DISO 1441 1478	insuffisance nasopharyngo-laryngienne
+T45	ANAT 1454 1478	nasopharyngo-laryngienne
+T46	DISO 1497 1530	perforation cervicale douloureuse
+T47	DISO 1576 1603	neurofibromatose diabétique
+T48	DISO 1618 1647	maladie cœliaque idiopathique
+T49	PROC 1654 1679	étude immunohistochimique
+T50	PROC 1680 1719	anticorps monoclonaux anti mitochondrie
+T51	Concept_Idea 2875 2883	mobilité
+T52	ANAT 2890 2898	cheville
+T53	MEAS 2921 2930	39 degrés
+T55	TEMP 2983 3001	environ 20 minutes
+T56	Concept_Idea 3027 3046	résultat anatomique
+T57	ANAT 3058 3080	cavités résidentielles
+T58	LIVB 3110 3150	géomètres radiologiques interventionnels
+T59	DEVI 3308 3343	tableau clinique multidisciplinaire
+T60	PHEN 3348 3357	grossesse
+T61	PROC 3395 3417	contrôle échographique
+T62	DISO 3435 3454	trouble obstétrical
+T63	Hospital 3580 3595	bloc opératoire
+T64	MEAS 3632 3639	simples
+T65	PROC 3711 3736	prélèvements chirurgicaux
+T66	PROC 3772 3800	suivi néonatal préopératoire
+T67	PROC 3813 3841	antibioprophylaxie adjuvante
+T68	CHEM 3875 3920	amoxicilline acide clavulanique intraveineuse
+T69	PROC 3956 3984	prise en charge anesthésique
+T70	PROC 4012 4046	traitement analgésique substitutif

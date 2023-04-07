@@ -1,0 +1,19 @@
+T1	LIVB 29 37	patiente
+T2	DISO 94 131	carcinome papillaire recto-sigmoïdien
+T3	ANAT 104 131	papillaire recto-sigmoïdien
+T4	LIVB 141 160	médecin gynécologue
+T5	DISO 185 211	méningoencephalite fébrile
+T6	TEMP 291 305	premiers jours
+T7	PROC 308 323	hospitalisation
+T9	DISO 393 418	hypotension surrénalienne
+T10	ANAT 405 418	surrénalienne
+T11	DISO 438 454	nécrose tumorale
+T12	DISO 519 545	neuroendocrine tuméfaction
+T13	DISO 554 580	pronostic immunodépresseur
+T14	DISO 594 625	inflammation maligne purpurique
+T15	DISO 683 695	neurofibrome
+T16	PROC 743 766	recherche histochymique
+T17	Concept_Idea 792 817	caractères morphologiques
+T18	DISO 903 915	vascularisée
+T19	PROC 930 940	résections
+T20	DISO 1016 1042	malformations congénitales

@@ -1,0 +1,99 @@
+T1	LIVB 15 22	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 101 110	admission
+T5	DISO 115 124	dysphonie
+T6	DISO 131 156	bombement du cuir chevelu
+T7	ANAT 144 156	cuir chevelu
+T8	Concept_Idea 210 222	état général
+T9	DISO 232 261	symptômes neuropsychiatriques
+T10	DISO 288 312	hallucinations auditives
+T11	DISO 348 359	traumatisme
+T12	DISO 373 386	consanguinité
+T13	PROC 392 407	examen clinique
+T14	LIVB 412 419	patient
+T15	DISO 426 433	fébrile
+T16	MEAS 436 442	38,5°C
+T17	PHEN 449 470	réflexes oculomoteurs
+T18	MEAS 479 486	normaux
+T19	DISO 508 523	signes généraux
+T20	DISO 541 556	morbi-mortalité
+T21	DISO 566 580	déficit moteur
+T22	PROC 584 603	électrocardiogramme
+T23	MEAS 614 620	normal
+T24	PROC 635 662	numération formule sanguine
+T25	PROC 664 675	hémoglobine
+T26	MEAS 677 685	0,6 g/dl
+T27	PROC 687 713	troponines IgG glycorachie
+T28	MEAS 716 722	8 UI/l
+T29	PROC 724 729	HbA1c
+T30	MEAS 732 741	4,7 mEq/l
+T31	PROC 743 760	Bilirubine totale
+T32	PROC 761 764	VGM
+T33	MEAS 768 778	2,9 mmol/L
+T34	PROC 784 815	saturation pulsée en oxygène O2
+T35	CHEM 805 815	oxygène O2
+T36	DEVI 820 842	cathéter haute tension
+T37	MEAS 893 899	30 ° C
+T38	LIVB 925 930	notre
+T39	LIVB 937 944	patient
+T40	DISO 949 970	distension artérielle
+T41	ANAT 960 970	artérielle
+T42	PROC 987 998	transfusion
+T43	PROC 1004 1037	anticoagulation substitutionnelle
+T44	DOSE 1043 1048	20 mg
+T45	TEMP 1048 1058	/24 heures
+T46	PROC 1072 1103	antibioprophylaxie probabiliste
+T47	PROC 1116 1140	ventilation artificielle
+T48	PROC 1146 1168	réanimation maxillaire
+T49	PROC 1195 1209	thyroïdectomie
+T50	DISO 1232 1257	troubles sensitivo-moteur
+T51	PROC 1401 1417	acte chirurgical
+T52	Localization 1427 1449	extrémités supérieures
+T53	PROC 1463 1471	relevées
+T54	LIVB 1573 1578	homme
+T55	PROC 1683 1714	hystérectomie partielle élargie
+T56	LIVB 2244 2248	nous
+T57	LIVB 2283 2290	garçons
+T58	PROC 2397 2402	suivi
+T60	LIVB 2564 2574	nouveau-né
+T61	PHEN 2627 2647	grossesse gémellaire
+T62	TEMP 2658 2665	15 mois
+T63	TEMP 2671 2686	depuis 14 jours
+T64	MEAS 2846 2853	mauvais
+T65	Concept_Idea 2854 2866	état général
+T66	PROC 2883 2907	laparotomie exploratrice
+T67	ANAT 2921 2944	tronc spléno-péritonéal
+T68	PROC 2962 2988	examen anatomopathologique
+T69	PROC 3001 3018	bilan étiologique
+T70	DISO 3023 3046	symptômes hémorragiques
+T71	LIVB 3065 3072	patient
+T72	PROC 3083 3092	admission
+T73	Hospital 3096 3118	service de réanimation
+T74	CHEM 3120 3130	céfotaxime
+T75	CHEM 3133 3143	corticoïde
+T76	PROC 3150 3169	anesthésie générale
+T77	PROC 3198 3216	antibioprophylaxie
+T78	Concept_Idea 3229 3244	limites locales
+T79	DISO 3263 3284	dilatation anéchogène
+T80	PROC 3347 3369	induction anesthésique
+T81	MEAS 3384 3408	difficilement réalisable
+T82	PROC 3436 3458	surveillance prénatale
+T83	DISO 3510 3531	malignité congénitale
+T84	PROC 3552 3574	contrôle échographique
+T85	PROC 3578 3590	radiologique
+T86	Concept_Idea 3732 3752	caractères cliniques
+T87	DISO 3781 3801	syndrome obstétrical
+T88	DEVI 3922 3944	médicament psychotrope
+T89	MEAS 4120 4125	3 ème
+T90	LIVB 4126 4132	enfant
+T91	LIVB 4148 4150	sa
+T92	LIVB 4151 4155	sœur
+T93	MEAS 4174 4180	2 èmes
+T94	LIVB 4181 4188	enfants
+T95	LIVB 4305 4308	son
+T96	LIVB 4309 4327	mariage biologique
+T97	LIVB 4405 4417	petit enfant
+T98	MEAS 4478 4485	simples
+T99	LIVB 4506 4513	jumeaux
+T100	LIVB 4562 4566	père

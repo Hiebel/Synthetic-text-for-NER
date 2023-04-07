@@ -1,0 +1,34 @@
+T1	LIVB 28 35	patient
+T2	DISO 66 91	maladie cardio-vasculaire
+T3	DISO 97 116	insuffisance rénale
+T4	PHEN 110 116	rénale
+T5	DISO 136 155	douleurs pelviennes
+T6	ANAT 145 155	pelviennes
+T7	MEAS 170 177	modérée
+T8	TEMP 187 200	depuis 1 mois
+T9	DISO 222 248	troubles sensitivo-moteurs
+T10	DISO 253 289	syndrome d'épanchement intrarétinien
+T11	ANAT 276 289	intrarétinien
+T12	PROC 310 319	admission
+T13	Hospital 323 338	bloc opératoire
+T14	Hospital 342 391	Centre Hospitalier Universitaire Hassan II de Fès
+T15	PROC 396 415	bilan préopératoire
+T16	PROC 433 464	ponction lombaire transfixiante
+T17	ANAT 442 464	lombaire transfixiante
+T18	PROC 466 503	réhydratation par sonde nasogastrique
+T19	DEVI 484 503	sonde nasogastrique
+T21	PROC 507 534	prélèvement bactériolytique
+T22	PROC 547 570	scanner cervico-vaginal
+T23	ANAT 555 570	cervico-vaginal
+T24	Hospital 592 617	urgences ophtalmologiques
+T25	DISO 647 663	signes cliniques
+T26	DISO 710 725	symptomatologie
+T27	MEAS 797 801	100g
+T28	ANAT 822 847	parties molles cervicales
+T29	MEAS 879 894	progressivement
+T30	Concept_Idea 898 904	taille
+T31	MEAS 921 938	plus volumineuses
+T32	MEAS 980 1006	difficilement appréciables
+T33	Concept_Idea 1016 1042	considérations esthétiques
+T34	DISO 1208 1232	hyperthyroïdie nodulaire
+T35	DISO 1260 1299	kyste hydatique congénital hypertrophié

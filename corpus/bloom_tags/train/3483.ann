@@ -1,0 +1,28 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 67	particuliers
+T4	PROC 69 80	hospitalisé
+T5	Hospital 85 93	urgences
+T6	DISO 103 132	douleurs épigastriques aiguës
+T7	ANAT 112 125	épigastriques
+T8	TEMP 142 155	depuis 3 mois
+T9	PROC 159 174	examen clinique
+T10	LIVB 187 194	patient
+T11	MEAS 198 201	bon
+T12	Concept_Idea 202 214	état général
+T13	PHEN 224 242	tension artérielle
+T14	ANAT 232 242	artérielle
+T15	MEAS 245 256	170/85 mmhg
+T16	PROC 261 280	bilan préopératoire
+T17	PROC 315 351	tomodensitométrie abdomino-pelvienne
+T18	ANAT 333 351	abdomino-pelvienne
+T19	PROC 353 385	TDM) thoraco-abdomino- pelvienne
+T20	ANAT 358 385	thoraco-abdomino- pelvienne
+T21	ANAT 412 438	sinus caverneux péritonéal
+T22	ANAT 444 469	étage sous hyoïdien droit
+T23	Localization 464 469	droit
+T24	ANAT 516 529	méso grêlique
+T25	ANAT 550 566	parois vaginales
+T26	MEAS 591 601	45 x 45 cm
+T27	MEAS 605 613	50x 50cm
+T28	DISO 657 666	nodulaire

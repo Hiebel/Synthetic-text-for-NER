@@ -1,0 +1,40 @@
+T1	LIVB 28 38	nourrisson
+T2	TEMP 46 52	3 mois
+T3	PHEN 82 91	grossesse
+T4	PROC 96 102	suivie
+T5	LIVB 125 127	il
+T6	PROC 150 174	échographie obstétricale
+T7	Hospital 178 185	urgence
+T8	MEAS 206 214	positive
+T9	ANAT 227 233	utérus
+T10	DISO 254 276	niveaux hydro-aortique
+T11	PROC 290 307	geste chirurgical
+T12	MEAS 344 351	simples
+T13	DISO 357 374	récidive clinique
+T14	DISO 378 391	particularité
+T15	Concept_Idea 410 439	résultats anatomopathologique
+T16	PROC 443 455	radiologique
+T17	LIVB 459 461	on
+T18	LIVB 490 496	garçon
+T19	PROC 501 520	bilan préopératoire
+T20	Hospital 533 554	urgences pédiatriques
+T21	PROC 664 683	traitement adjuvant
+T22	PROC 720 755	contrôle échographique diagnostique
+T23	PROC 777 806	prise en charge thérapeutique
+T24	DEVI 827 862	sonde urétrale rénale intraveineuse
+T25	ANAT 945 959	canal cystique
+T26	MEAS 968 982	12 centimètres
+T27	Concept_Idea 986 995	grand axe
+T28	ANAT 1037 1054	annexes grêliques
+T29	ANAT 1074 1097	anses jéjunales fœtales
+T30	ANAT 1121 1134	plan vésicale
+T31	Localization 1163 1181	portion supérieure
+T32	MEAS 1208 1217	comprimée
+T33	Concept_Idea 1241 1257	doppler pondéral
+T34	MEAS 1289 1294	40 mm
+T35	MEAS 1297 1302	60 mm
+T36	PROC 1345 1375	gynécopéro-obstétrique urgente
+T37	PROC 1393 1399	examen
+T38	PROC 1425 1461	cholécystectomie totale endovaginale
+T39	PROC 1475 1524	laparotomie percutanée intrascrotale exploratrice
+T40	PROC 1540 1628	mastectomie partielle segmentaire transoesogastroduodénale scanno-trachéo-exocytoplastie

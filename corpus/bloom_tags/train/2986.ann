@@ -1,0 +1,27 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	DISO 96 118	douleurs du pied droit
+T6	ANAT 108 118	pied droit
+T7	Localization 113 118	droit
+T8	TEMP 128 142	depuis un mois
+T9	PROC 146 152	examen
+T10	PROC 157 166	admission
+T11	Concept_Idea 184 195	température
+T12	MEAS 198 204	37°6 C
+T13	PROC 222 238	examen somatique
+T14	DISO 259 272	particularité
+T15	PROC 276 300	exploration chirurgicale
+T16	PROC 330 357	anesthésie locale adjuvante
+T18	PROC 498 543	technique d’imagerie par résonance magnétique
+T19	LIVB 564 568	nous
+T20	DISO 588 616	lésion tumorale hypotenseuse
+T21	MEAS 626 630	4 cm
+T22	Concept_Idea 634 648	grand diamètre
+T23	MEAS 653 657	3 cm
+T24	Concept_Idea 661 670	petit axe
+T25	ANAT 691 749	muscle plexus brachial superficiel antérocervico-axillaire
+T26	PROC 785 794	injection
+T27	CHEM 798 818	produit de contraste
+T28	DISO 840 856	tumorale maligne

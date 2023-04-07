@@ -1,0 +1,33 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	6 ans
+T3	Hospital 71 92	urgences pédiatriques
+T4	DISO 102 118	troubles visuels
+T5	DISO 134 145	bradycardie
+T6	DISO 174 188	amaigrissement
+T7	MEAS 199 203	10kg
+T8	PHEN 217 229	accouchement
+T10	ANAT 244 342	veineux périphéro-sigmoïdien cutané transoesophagien interne saphio-axillaire sus-oculo-thoracique
+T11	PROC 365 388	ponction intracrânienne
+T12	ANAT 374 388	intracrânienne
+T13	PROC 400 420	transfusion sanguine
+T14	DISO 448 461	hémopéritoine
+T15	DISO 485 500	symptomatologie
+T16	MEAS 515 526	progressive
+T17	DISO 580 615	hyperthyroïdie congénitale primaire
+T18	DISO 637 670	syndrome d'épanchement péritonéal
+T19	ANAT 660 670	péritonéal
+T20	DISO 676 700	kyste hydatique purulent
+T21	DISO 723 744	thrombose intestinale
+T22	ANAT 733 744	intestinale
+T23	PROC 770 791	échographie pelvienne
+T24	ANAT 782 791	pelvienne
+T25	DISO 809 827	dépression utérine
+T26	ANAT 820 827	utérine
+T27	Concept_Idea 841 847	taille
+T28	MEAS 858 861	1cm
+T29	ANAT 896 906	col utérin
+T30	DISO 950 975	localisations nécrotiques
+T31	DISO 989 1010	placenta hypertrophié
+T32	LIVB 1180 1192	parturientes
+T33	PROC 1248 1274	curage urinaire systémique
+T34	ANAT 1255 1274	urinaire systémique

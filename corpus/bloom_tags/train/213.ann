@@ -1,0 +1,53 @@
+T1	LIVB 29 37	patiente
+T2	DISO 86 119	syndrome d’épanchement péritonéal
+T3	ANAT 109 119	péritonéal
+T4	PROC 163 178	hospitalisation
+T5	PROC 184 204	anesthésie pelvienne
+T6	ANAT 195 204	pelvienne
+T7	DOSE 215 219	2 ml
+T8	CHEM 223 244	liquide peropératoire
+T9	DOSE 247 255	30 mg/kg
+T10	CHEM 259 268	midazolam
+T11	DEVI 289 313	cathéter périnéal souple
+T12	DISO 353 380	symptomatologie néphrotique
+T13	MEAS 427 447	de façon progressive
+T14	Concept_Idea 451 457	volume
+T15	DISO 486 508	kystopathie épiploïque
+T16	PROC 599 616	scanner abdominal
+T17	ANAT 607 616	abdominal
+T18	PROC 624 649	étude anatomopathologique
+T19	DISO 671 690	métastases malignes
+T20	Concept_Idea 714 734	caractère lipomateux
+T21	PROC 758 780	palpation chirurgicale
+T22	MEAS 817 831	plus fréquente
+T23	LIVB 894 910	femmes ménagères
+T24	DISO 1044 1059	myxome purulent
+T25	PROC 1062 1097	intradermoréaction à la tuberculine
+T26	CHEM 1086 1097	tuberculine
+T27	MEAS 1115 1123	40 ng/ml
+T28	PROC 1127 1145	ionogramme sanguin
+T29	ANAT 1138 1145	sanguin
+T30	PROC 1194 1210	natrémie globale
+T31	MEAS 1229 1239	120 meq/kg
+T32	MEAS 1261 1271	118 meq/kg
+T33	ANAT 1312 1334	ventriculo-myocardique
+T34	MEAS 1345 1348	25%
+T35	PROC 1362 1382	prélèvement sanguine
+T36	DISO 1457 1476	diabète métabolique
+T37	DISO 1492 1510	affection cœliaque
+T38	DISO 1522 1542	maladie hypertensive
+T39	DISO 1569 1602	Syndrome d'épanchement péritonéal
+T40	ANAT 1592 1602	péritonéal
+T41	DISO 1617 1637	atteinte intestinale
+T42	ANAT 1626 1637	intestinale
+T43	DISO 1673 1692	pathogénie tumorale
+T44	PROC 1725 1778	radiographie thoraco-abdomino-pelvienne scanno-guidée
+T46	PROC 1779 1843	IRM) trans-thoracique sus-claviculaire pré-sternale exploratrice
+T48	DISO 1882 1907	localisations secondaires
+T49	DISO 1936 1969	syndrome d'épanchement péritonéal
+T50	ANAT 1959 1969	péritonéal
+T51	DISO 1976 1996	empyème épigastrique
+T52	ANAT 1984 1996	épigastrique
+T54	DISO 2041 2057	nodule hypodense
+T55	PROC 2063 2107	anastomose iléo-colique transoeso iléocæcale
+T56	ANAT 2074 2107	iléo-colique transoeso iléocæcale

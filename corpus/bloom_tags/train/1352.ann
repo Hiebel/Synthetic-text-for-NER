@@ -1,0 +1,27 @@
+T1	LIVB 4 7	M.A
+T2	DISO 43 55	métrorragies
+T3	TEMP 79 92	depuis 6 mois
+T4	DISO 112 120	apyrexie
+T5	PHEN 142 157	acuité visuelle
+T6	ANAT 174 213	masse rétro péritonéale latérale droite
+T7	Localization 207 213	droite
+T8	MEAS 225 237	spontanément
+T9	Concept_Idea 241 247	volume
+T10	CHEM 277 308	amoxicilline acide clavulanique
+T11	DOSE 322 331	200 mg/kg
+T12	TEMP 331 336	/jour
+T13	PROC 341 355	interrogatoire
+T14	LIVB 381 389	patiente
+T15	DISO 424 443	troubles menstruels
+T16	LIVB 447 451	elle
+T17	CHEM 473 485	tuberculines
+T18	CHEM 492 505	phénobarbital
+T19	DISO 589 630	prolapsing ovum hypertrophiatric syndrome
+T22	PROC 801 814	hospitalisées
+T23	DISO 1020 1047	souffrance fœtale pariétale
+T24	ANAT 1031 1047	fœtale pariétale
+T25	PROC 1107 1128	accouchement in utéro
+T26	LIVB 1263 1275	obstétricien
+T27	PROC 1280 1320	ponction pleurésie crânienne liquidienne
+T28	ANAT 1289 1320	pleurésie crânienne liquidienne
+T29	MEAS 1337 1344	normale

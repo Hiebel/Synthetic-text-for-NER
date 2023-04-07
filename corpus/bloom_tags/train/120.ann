@@ -1,0 +1,41 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 43	hospitalisée
+T3	Hospital 47 60	service d'ORL
+T4	PROC 66 76	césarienne
+T5	DISO 87 110	accouchement voie basse
+T6	MEAS 148 153	2900g
+T7	MODE 158 168	voie basse
+T8	PROC 191 207	colpofibroscopie
+T9	LIVB 316 324	patiente
+T10	DISO 412 448	maladie thromboembolique congénitale
+T11	DISO 455 474	syndrome infectieux
+T12	DISO 552 573	souffrance nouveau-né
+T13	ANAT 563 573	nouveau-né
+T14	PROC 664 682	traitement curatif
+T15	DISO 770 790	œsophagospasmolytome
+T16	LIVB 846 853	famille
+T17	PROC 958 993	protocole thérapeutique chirurgical
+T18	PROC 1052 1100	imagerie par résonance magnétique transcrânienne
+T19	PROC 1102 1110	IRM TCRP
+T21	Localization 1290 1302	homolatérale
+T22	DISO 1446 1490	formations tumorales érythémato-crustuleuses
+T23	DISO 1513 1527	thrombomateuse
+T24	DISO 1602 1612	métastases
+T25	ANAT 1657 1678	sous-parenchymateuses
+T26	DISO 1826 1859	prostate thyroïdectomie nodulaire
+T27	DISO 1877 1913	hyper vascularisation intracrânienne
+T28	ANAT 1899 1913	intracrânienne
+T29	DISO 1964 2001	vésicule biliaire hydatique purulente
+T30	DISO 2102 2130	plages graisseux prurigineux
+T31	DISO 2186 2212	processus nécrose kystique
+T32	DISO 2302 2359	carcinome des organes génitaux externes intra péritonéaux
+T33	ANAT 2316 2359	organes génitaux externes intra péritonéaux
+T34	PROC 2397 2416	traitement adjuvant
+T35	CHEM 2431 2462	médicaments d'immunosuppresseur
+T36	DOSE 2464 2466	1g
+T37	TEMP 2466 2468	/j
+T38	CHEM 2471 2490	éthylhydrocortisone
+T39	Concept_Idea 2497 2507	indication
+T40	PROC 2513 2537	scanner abdomino-pelvien
+T41	ANAT 2521 2537	abdomino-pelvien
+T42	MEAS 2553 2559	normal

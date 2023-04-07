@@ -1,0 +1,21 @@
+T1	LIVB 15 22	patient
+T2	DISO 34 43	tabagique
+T3	TEMP 56 73	30 paquets-années
+T4	Concept_Idea 82 87	poids
+T5	MEAS 91 96	46 kg
+T6	PROC 108 119	hospitalisé
+T7	Hospital 123 130	urgence
+T8	DISO 140 171	douleurs abdominales purulentes
+T9	ANAT 149 160	abdominales
+T10	TEMP 181 194	depuis 3 mois
+T11	DISO 207 223	signes cliniques
+T12	PROC 238 261	examens complémentaires
+T13	DISO 291 345	masse tumorale du grêlo-gastro-rénal inféro-sigmoïdien
+T15	MEAS 355 359	6 cm
+T16	ANAT 375 395	artère rénale droite
+T17	Localization 389 395	droite
+T18	DISO 411 483	adénopathie péripancréatique latérocystico-mésentériellaire hypoéchogène
+T20	MEAS 517 533	multi-cloisonnée
+T21	PROC 538 555	bilan d'extension
+T22	MEAS 562 568	normal
+T23	DISO 586 611	localisation métastatique

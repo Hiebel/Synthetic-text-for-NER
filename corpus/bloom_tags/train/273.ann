@@ -1,0 +1,30 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 81	reçu
+T6	Hospital 85 92	urgence
+T7	DISO 102 136	douleurs thoraciques constrictives
+T8	ANAT 111 122	thoraciques
+T9	MEAS 151 162	progressive
+T10	DISO 179 185	fièvre
+T11	PROC 202 216	examen initial
+T12	LIVB 229 235	enfant
+T14	Concept_Idea 282 294	respiratoire
+T15	PROC 299 329	auscultation pleuro-pulmonaire
+T16	ANAT 312 329	pleuro-pulmonaire
+T17	MEAS 336 343	normale
+T18	PROC 349 378	échographie abdominopelvienne
+T19	ANAT 361 378	abdominopelvienne
+T20	DISO 413 443	masse tumorale du flanc gauche
+T21	ANAT 431 443	flanc gauche
+T22	Localization 437 443	gauche
+T23	MEAS 453 458	17 cm
+T24	Concept_Idea 462 471	grand axe
+T25	ANAT 488 508	fosse iliaque droite
+T26	Localization 502 508	droite
+T27	ANAT 525 551	parties molles périrénales
+T28	PROC 634 643	injection
+T29	CHEM 646 660	hydrocortisone
+T30	DISO 680 688	tumorale
+T31	DISO 734 755	malformations maligne

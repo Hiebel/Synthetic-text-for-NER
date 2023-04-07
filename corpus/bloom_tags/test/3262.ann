@@ -1,0 +1,74 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	DISO 38 63	antécédents pathologiques
+T4	MEAS 64 72	notables
+T5	PROC 76 91	examen clinique
+T6	LIVB 104 111	patient
+T7	Concept_Idea 136 154	plan hémodynamique
+T8	PHEN 158 170	respiratoire
+T9	ANAT 180 191	tachycardie
+T10	MEAS 194 206	100 batt/min
+T11	DISO 218 225	dyspnée
+T12	ANAT 239 249	sein droit
+T13	Localization 244 249	droit
+T14	TEMP 259 275	depuis deux mois
+T15	PROC 280 296	bilan biologique
+T16	PROC 314 333	protéine C réactive
+T17	PROC 335 338	CRP
+T18	MEAS 340 346	élevée
+T19	MEAS 349 367	12 fois la normale
+T20	PROC 369 384	globules blancs
+T21	MEAS 387 405	11000 éléments/mm3
+T22	MEAS 423 444	1000 000 élément/mm 3
+T23	PROC 450 484	ponction liquide céphalo-rachidien
+T24	ANAT 459 484	liquide céphalo-rachidien
+T25	PROC 500 509	admission
+T26	Hospital 514 535	urgences pédiatriques
+T27	CHEM 560 573	hémopéritoine
+T28	LIVB 575 577	Il
+T29	PROC 594 603	transféré
+T30	Hospital 611 632	unité de néonatalogie
+T31	PROC 638 672	anastomose oeso-gastro-pancréatale
+T32	ANAT 649 672	oeso-gastro-pancréatale
+T33	PROC 683 709	explorations chirurgicales
+T34	MEAS 731 754	difficilement faisables
+T35	DEVI 763 771	câlinons
+T36	MEAS 826 851	techniquement appréciable
+T37	PROC 857 882	contraception placentaire
+T38	ANAT 871 882	placentaire
+T39	LIVB 935 943	patients
+T40	PROC 1171 1211	résection ganglionnaire cervico-vagienne
+T41	ANAT 1181 1211	ganglionnaire cervico-vagienne
+T42	LIVB 1259 1267	patients
+T43	PROC 1291 1333	artériographie percutanée pré-anesthésique
+T44	PROC 1347 1372	intervention anesthésique
+T45	DISO 1393 1406	choc septique
+T46	PROC 1446 1471	surveillance radiologique
+T47	DISO 1527 1544	lésions tumorales
+T48	ANAT 1603 1628	muscles para vertébraires
+T49	DISO 1681 1723	syndrome hypertrophié kystique malformatif
+T50	ANAT 1734 1765	endovésiculaire diaphragmatique
+T51	MEAS 1831 1844	environ 10 cm
+T52	Concept_Idea 1848 1857	grand axe
+T53	TEMP 1885 1895	deux jours
+T54	PROC 1910 1928	traitement médical
+T55	PROC 2310 2340	tomodensitométrie exploratrice
+T56	DISO 2354 2420	épigastrite ischémique métastatique carcinomateuse bilobée ulcérée
+T57	ANAT 2438 2463	greffon gastro œsophagien
+T58	ANAT 2492 2515	vésicules pancréatiques
+T59	ANAT 2536 2563	fosse iliaque supra utérine
+T60	Localization 2550 2555	supra
+T61	ANAT 2593 2607	parties molles
+T62	DISO 2689 2724	hyperparathyroïdie primaire lobulée
+T63	DISO 2742 2779	insuffisance rénulo-lympho-dilatation
+T64	ANAT 2755 2779	rénulo-lympho-dilatation
+T65	DISO 2788 2838	métastases pulmononaires thoraciques hypoéchogènes
+T66	ANAT 2799 2838	pulmononaires thoraciques hypoéchogènes
+T67	PHEN 2848 2857	digestive
+T68	LIVB 2862 2869	patient
+T69	PROC 2888 2911	radiothérapie adjuvante
+T70	DOSE 2915 2919	50Gy
+T71	DISO 2941 2971	troubles hydro-électrolytiques
+T72	PROC 2992 3012	taux de prothrombine
+T73	PROC 3028 3043	examen clinique
+T74	DISO 3055 3068	particularité

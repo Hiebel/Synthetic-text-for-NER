@@ -1,0 +1,22 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 68	reçue
+T3	DISO 105 137	syndrome fébrile mal systématisé
+T4	Concept_Idea 173 185	état général
+T5	DISO 201 207	fièvre
+T6	TEMP 217 231	depuis 3 jours
+T7	DISO 252 284	lésions purpuriques maculolobées
+T8	PROC 355 370	hospitalisation
+T9	PROC 376 401	traitement antibacillaire
+T10	CHEM 414 428	ciprofloxacine
+T11	CHEM 431 446	rifaméthoxazole
+T12	PROC 451 476	intervention chirurgicale
+T13	PROC 497 521	anesthésie locorégionale
+T14	ANAT 508 521	locorégionale
+T15	DISO 573 592	pénétration rectale
+T16	ANAT 585 592	rectale
+T17	PROC 605 643	remplissage vasculo-cutané iléocolique
+T18	ANAT 617 643	vasculo-cutané iléocolique
+T19	PROC 658 694	résection transgrêlo-rectale élargie
+T20	ANAT 713 723	col utérin
+T21	DISO 799 829	récidive tumorale métastatique
+T22	TEMP 855 861	6 mois

@@ -1,0 +1,50 @@
+T1	LIVB 20 28	patiente
+T2	DISO 45 70	antécédents pathologiques
+T3	MEAS 71 83	particuliers
+T4	PROC 94 106	hospitalisée
+T5	TEMP 110 120	18/09/2011
+T6	DISO 130 164	symptomatologie neuropsychiatrique
+T7	TEMP 174 187	depuis 3 mois
+T8	PROC 193 208	examen clinique
+T9	LIVB 213 221	patiente
+T10	Concept_Idea 236 248	état général
+T11	MEAS 249 261	satisfaisant
+T12	PROC 271 303	examen du membre inférieur droit
+T13	ANAT 281 303	membre inférieur droit
+T14	Localization 298 303	droit
+T15	DISO 308 324	râles crépitants
+T16	PHEN 332 346	bruits du cœur
+T17	ANAT 342 346	cœur
+T18	DISO 351 380	distension abdomino-pelvienne
+T19	ANAT 362 380	abdomino-pelvienne
+T20	MEAS 391 396	36cpm
+T21	TEMP 427 436	la veille
+T22	PROC 440 450	examen ORL
+T23	DISO 462 475	particularité
+T24	DISO 493 500	dyspnée
+T25	DISO 507 523	syndrome méningé
+T26	PROC 528 546	palpation auditive
+T27	PROC 706 722	examen somatique
+T28	DISO 734 748	particularités
+T29	DISO 771 777	fièvre
+T30	DISO 784 794	brouillard
+T31	PROC 800 825	réanimation préopératoire
+T32	Hospital 842 857	bloc opératoire
+T33	PROC 871 899	prise en charge anesthésique
+T34	PROC 929 959	contrôle radiologique standard
+T35	PROC 965 984	anesthésie générale
+T36	PROC 997 1014	mise en condition
+T37	MEAS 1047 1054	simples
+T38	DISO 1074 1102	détresse respiratoire aigues
+T39	Concept_Idea 1188 1213	constantes hémodynamiques
+T40	PROC 1218 1318	remplissage vasculo-nerveux cervico-thoracique intraveineux transventriculaire axillaire rétrofœtale
+T42	PROC 1380 1400	résection percutanée
+T43	PROC 1417 1448	oxygénothérapie antirachidienne
+T44	CHEM 1454 1485	amoxicilline acide clavulanique
+T45	PROC 1501 1528	kinésithérapie respiratoire
+T46	ANAT 1516 1528	respiratoire
+T47	PROC 1562 1588	radiothérapie concomitante
+T48	PROC 1645 1654	chirurgie
+T49	DISO 1662 1682	récidive infectieuse
+T50	LIVB 1707 1714	patient
+T51	DISO 1744 1768	trouble sensitivo-moteur

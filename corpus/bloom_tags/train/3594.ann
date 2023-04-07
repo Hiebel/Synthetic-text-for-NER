@@ -1,0 +1,31 @@
+T1	LIVB 19 26	patient
+T2	PROC 38 43	admis
+T3	Hospital 48 56	urgences
+T4	DISO 66 86	douleurs abdominales
+T5	ANAT 75 86	abdominales
+T6	DISO 103 115	vomissements
+T8	DISO 179 193	amaigrissement
+T9	MEAS 204 208	8 kg
+T10	TEMP 212 218	3 mois
+T11	PROC 222 237	examen clinique
+T12	DISO 258 287	distension abdomino-pelvienne
+T13	ANAT 269 287	abdomino-pelvienne
+T14	ANAT 301 312	flanc droit
+T15	Localization 307 312	droit
+T16	DISO 325 341	signes cliniques
+T17	DISO 374 393	symptômes digestifs
+T18	PROC 397 411	interrogatoire
+T19	DISO 440 455	symptomatologie
+T20	TEMP 468 474	2 mois
+T21	DISO 506 534	masse pelvienne hypertrophée
+T22	ANAT 512 534	pelvienne hypertrophée
+T23	Concept_Idea 539 550	douloureuse
+T24	MEAS 562 577	progressivement
+T25	Concept_Idea 581 587	taille
+T26	MEAS 597 609	volumineuses
+T27	DISO 632 656	polynucléose neutrophile
+T28	PROC 689 698	injection
+T29	CHEM 702 722	produit de contraste
+T30	MEAS 732 745	environ 10 cm
+T31	Concept_Idea 749 758	grand axe
+T32	ANAT 775 797	grosses intestin grêle

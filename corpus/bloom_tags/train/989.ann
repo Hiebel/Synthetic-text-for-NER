@@ -1,0 +1,80 @@
+T1	LIVB 4 9	femme
+T2	Concept_Idea 31 56	antécédents pathologiques
+T3	MEAS 57 65	notables
+T4	PROC 67 73	admise
+T5	Hospital 78 86	urgences
+T6	DISO 105 132	intoxication au nicardipine
+T7	CHEM 121 132	nicardipine
+T8	PROC 136 161	intervention chirurgicale
+T9	PROC 182 206	anesthésie locorégionale
+T10	ANAT 193 206	locorégionale
+T11	CHEM 220 231	bupivacaine
+T12	DOSE 233 239	1mg/kg
+T13	TEMP 239 246	/minute
+T14	CHEM 251 269	hydroxychloroquine
+T15	DOSE 271 278	2 mg/kg
+T16	TEMP 278 285	/minute
+T17	CHEM 288 301	sulfasalazine
+T18	DOSE 303 309	100 mg
+T19	TEMP 309 316	/minute
+T20	CHEM 319 330	paracétamol
+T21	DOSE 332 338	400 mg
+T22	TEMP 338 345	/minute
+T23	CHEM 348 359	éthionamide
+T24	DOSE 361 367	800 mg
+T25	TEMP 367 374	/minute
+T26	CHEM 377 391	ciprofloxacine
+T27	DOSE 393 402	15 000 mg
+T28	TEMP 402 409	/minute
+T29	CHEM 412 425	noradrénaline
+T30	DOSE 427 436	0,5 µg/kg
+T31	TEMP 436 443	/minute
+T32	CHEM 446 457	périndopril
+T33	DOSE 459 465	300 mg
+T34	TEMP 465 472	/minute
+T35	CHEM 475 489	hydrocortisone
+T36	DOSE 491 497	200 mg
+T37	TEMP 497 504	/minute
+T38	CHEM 507 522	dobutaméthasone
+T39	DOSE 524 529	30 mg
+T40	TEMP 529 536	/minute
+T41	CHEM 539 557	methylprednisolone
+T42	DOSE 559 564	75 mg
+T43	TEMP 564 571	/minute
+T44	CHEM 574 584	furosémide
+T45	DOSE 586 592	600 mg
+T46	TEMP 592 599	/minute
+T47	CHEM 602 615	dexaméthasone
+T48	DOSE 617 622	50 mg
+T49	TEMP 622 629	/minute
+T50	CHEM 632 648	metrométhidazole
+T51	DOSE 650 657	1280 mg
+T52	TEMP 657 664	/minute
+T53	CHEM 667 679	nicosulpride
+T54	DOSE 681 687	120 mg
+T55	TEMP 687 694	/minute
+T56	CHEM 697 705	diazépam
+T57	DOSE 707 712	40 mg
+T58	TEMP 712 719	/minute
+T59	CHEM 722 742	phénobarbital sodium
+T60	DOSE 744 749	60 mg
+T61	TEMP 749 756	/minute
+T62	CHEM 759 782	ethanyl-méthylepyrazole
+T63	DOSE 784 790	450 mg
+T64	TEMP 790 797	/minute
+T65	CHEM 800 810	cisplatine
+T66	DOSE 812 817	25 mg
+T67	TEMP 817 824	/minute
+T68	CHEM 827 838	Ceftriaxone
+T69	DOSE 840 846	500 mg
+T70	TEMP 846 853	/minute
+T71	CHEM 856 869	triméthoprime
+T72	DOSE 871 877	250 mg
+T73	TEMP 877 884	/minute
+T74	CHEM 887 897	céfotaxime
+T75	DOSE 899 905	750 mg
+T76	TEMP 905 912	/minute
+T77	CHEM 915 928	Métronidazole
+T78	DOSE 930 938	40000 mg
+T79	TEMP 938 945	/minute
+T80	CHEM 948 962	Gentaméthasone

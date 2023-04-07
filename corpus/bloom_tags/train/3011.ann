@@ -1,0 +1,57 @@
+T1	LIVB 15 25	nouveau-né
+T2	PHEN 54 63	grossesse
+T3	PROC 82 88	suivie
+T4	Concept_Idea 97 102	poids
+T5	MEAS 106 112	3050 g
+T6	Concept_Idea 120 126	taille
+T7	MEAS 130 136	130 cm
+T8	DISO 141 156	symptomatologie
+T9	TEMP 172 188	depuis deux mois
+T10	DISO 201 221	signes neurologiques
+T11	LIVB 232 234	Il
+T12	PROC 241 246	admis
+T13	Hospital 251 259	urgences
+T14	DISO 278 295	agitation fébrile
+T15	DISO 311 345	douleurs thoraciques constrictives
+T16	ANAT 320 331	thoraciques
+T17	CHEM 377 390	métronidazole
+T18	DOSE 392 400	20 mg/kg
+T19	TEMP 400 402	/j
+T20	MODE 406 424	voie intraveineuse
+T21	PROC 429 455	examen anatomopathologique
+T22	DEVI 462 476	tête d'épingle
+T23	DISO 509 540	syndrome néphrotique congénital
+T24	PROC 556 571	examen clinique
+T25	DISO 603 612	anomalies
+T26	DISO 640 663	pâleur cutanéo-muqueuse
+T27	ANAT 647 663	cutanéo-muqueuse
+T28	DISO 670 691	détresse respiratoire
+T29	PHEN 679 691	respiratoire
+T30	ANAT 704 722	cardio-thoraciques
+T31	MEAS 731 740	conservés
+T32	LIVB 755 763	patients
+T33	Concept_Idea 792 801	fréquence
+T34	PROC 823 832	injection
+T35	CHEM 836 856	produit de contraste
+T36	LIVB 870 878	patients
+T37	DISO 902 915	hypersudation
+T38	DISO 941 963	sensibilité abdominale
+T39	ANAT 953 963	abdominale
+T40	DISO 970 989	paralysie axillaire
+T41	ANAT 980 989	axillaire
+T42	DISO 1013 1030	atteinte nerveuse
+T43	ANAT 1022 1030	nerveuse
+T44	PROC 1063 1099	numération formule sanguine initiale
+T45	PROC 1110 1120	plaquettes
+T46	MEAS 1123 1133	13000 /mm3
+T47	PROC 1135 1150	globules blancs
+T48	MEAS 1153 1170	2000 éléments/mm3
+T49	PROC 1172 1191	Hémoglobine glyquée
+T50	MEAS 1194 1198	2,7%
+T51	PROC 1200 1219	protéine C réactive
+T52	PROC 1220 1223	CRP
+T53	MEAS 1227 1234	96 mg/L
+T54	PROC 1236 1267	anticorps antithyroperoxydase 3
+T55	PROC 1269 1287	anti-troponine III
+T56	PROC 1290 1317	antigène natriurétrolytique
+T57	PROC 1319 1323	ANCA

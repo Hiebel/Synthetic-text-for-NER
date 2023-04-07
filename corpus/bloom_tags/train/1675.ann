@@ -1,0 +1,30 @@
+T1	PROC 18 29	observation
+T2	LIVB 36 44	patiente
+T3	Concept_Idea 65 90	antécédents pathologiques
+T4	MEAS 91 99	notables
+T5	Hospital 123 148	urgences ophtalmologiques
+T6	DISO 157 179	ictère cutanéo-muqueux
+T7	TEMP 189 202	depuis 3 mois
+T8	MEAS 222 233	progressive
+T9	PHEN 248 263	cycle menstruel
+T10	TEMP 273 282	20 cycles
+T11	LIVB 284 288	elle
+T12	PROC 311 338	échographie abdomino-utérin
+T13	ANAT 323 338	abdomino-utérin
+T14	DISO 355 393	métastase parathyroïdienne infiltratée
+T15	ANAT 365 393	parathyroïdienne infiltratée
+T16	MEAS 403 407	3 cm
+T17	Concept_Idea 411 420	grand axe
+T18	DISO 509 534	localisation métastatique
+T19	DISO 555 578	localisations associées
+T20	DISO 593 623	tumeur ovarienne bilithiasique
+T21	ANAT 600 623	ovarienne bilithiasique
+T22	PROC 705 731	examen somatomorphologique
+T23	DISO 769 793	maladie immunodépressive
+T24	DISO 800 823	pathologie neurologique
+T25	DISO 851 868	lésions méningées
+T26	DISO 937 981	traumatisme cardiovasculo-nerveux congénital
+T27	ANAT 949 981	cardiovasculo-nerveux congénital
+T28	DISO 1261 1295	douleur neuropathique constrictive
+T29	MEAS 1305 1316	généralisée
+T30	MEAS 1328 1343	progressivement

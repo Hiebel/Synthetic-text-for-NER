@@ -1,0 +1,26 @@
+T1	LIVB 19 26	patient
+T2	PROC 38 43	suivi
+T3	DISO 53 81	carcinose du sinus caverneux
+T4	ANAT 66 81	sinus caverneux
+T5	PROC 105 128	radiothérapie adjuvante
+T6	Concept_Idea 134 138	dose
+T7	DOSE 142 146	30Gy
+T8	ANAT 154 169	sinus caverneux
+T9	ANAT 175 182	ombilic
+T10	PROC 186 201	examen clinique
+T11	DISO 215 316	adénopathies axillaires cervico-bronchiques basithoraciques latéro-supracaverniculaires bilithiasique
+T13	TEMP 326 339	depuis 3 mois
+T14	DISO 352 361	symptômes
+T15	DISO 387 407	hépato-splénomégalie
+T16	DISO 420 435	signes tumoraux
+T17	PROC 440 459	bilan préopératoire
+T18	PROC 478 502	scanner abdomino-pelvien
+T19	ANAT 486 502	abdomino-pelvien
+T20	MEAS 520 531	volumineuse
+T21	DISO 532 603	lésion tissulaire hypodense pariétale bilatérale nodulaire hypoechogène
+T23	Localization 570 580	bilatérale
+T24	MEAS 613 621	32/42 cm
+T25	ANAT 638 655	vésicule biliaire
+T26	ANAT 672 690	organes hépatiques
+T27	DISO 706 736	fistule iléo-entéropancrénique
+T28	ANAT 714 736	iléo-entéropancrénique

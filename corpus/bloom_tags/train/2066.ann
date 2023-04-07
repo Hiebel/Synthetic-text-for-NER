@@ -1,0 +1,31 @@
+T1	LIVB 16 24	patiente
+T2	DISO 45 70	antécédents pathologiques
+T3	MEAS 71 79	notables
+T4	DISO 97 106	tabagisme
+T5	DISO 113 126	consanguinité
+T6	DISO 140 174	syndrome d'hypertension artérielle
+T7	ANAT 164 174	artérielle
+T8	DISO 179 215	néphropathie congénitale obstructive
+T9	PROC 234 243	admission
+T10	TEMP 247 257	22/08/2011
+T11	Hospital 262 270	urgences
+T12	DISO 305 327	céphalées généralisées
+T13	MEAS 342 349	intense
+T14	TEMP 359 372	depuis 2 mois
+T15	DISO 388 396	anorexie
+T16	MEAS 408 413	10 kg
+T17	DISO 426 440	amaigrissement
+T18	MEAS 451 456	12 kg
+T19	DISO 488 506	détresse digestive
+T20	PHEN 497 506	digestive
+T21	MODE 534 544	voie orale
+T22	CHEM 547 572	amphotéricine-Buclomycine
+T23	DOSE 574 581	1 mg/kg
+T24	TEMP 581 583	/j
+T25	CHEM 586 599	dexaméthasone
+T26	DOSE 600 605	400mg
+T27	TEMP 605 607	/j
+T28	DEVI 658 677	aiguille électrique
+T29	DISO 706 733	complications ischolytiques
+T30	ANAT 861 870	liquidien
+T31	MEAS 888 897	120litres

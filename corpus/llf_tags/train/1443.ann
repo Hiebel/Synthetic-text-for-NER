@@ -1,0 +1,77 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 33 38	7 ans
+T3	DISO 66 73	diabète
+T4	MEAS 74 80	type 1
+T5	CHEM 86 98	insulinomide
+T6	PROC 122 129	adressé
+T7	Hospital 134 155	urgences pédiatriques
+T8	DISO 165 186	tumeur du sein gauche
+T9	ANAT 175 186	sein gauche
+T10	Localization 180 186	gauche
+T11	PROC 190 205	examen clinique
+T12	Concept_Idea 220 232	état général
+T13	DISO 249 266	signes infectieux
+T14	DISO 277 286	dysphonie
+T15	Concept_Idea 331 343	état général
+T16	DISO 359 378	contage tuberculeux
+T17	DISO 388 413	facteur de décompensation
+T18	PROC 419 433	interrogatoire
+T19	LIVB 438 446	patiente
+T20	MEAS 490 491	4
+T21	LIVB 492 499	enfants
+T22	MEAS 501 502	3
+T23	LIVB 503 510	garçons
+T24	MEAS 514 515	2
+T25	LIVB 516 522	femmes
+T26	LIVB 525 529	Elle
+T27	PHEN 546 555	grossesse
+T28	PROC 560 566	suivie
+T29	TEMP 577 588	24 semaines
+T30	LIVB 596 616	médecin obstétricien
+T31	TEMP 628 638	12/08/2017
+T32	LIVB 655 658	son
+T33	LIVB 659 663	père
+T34	Concept_Idea 689 709	paramètres cliniques
+T35	LIVB 713 715	sa
+T36	LIVB 716 726	belle-mère
+T37	TEMP 831 848	6 mois auparavant
+T38	LIVB 920 924	leur
+T39	LIVB 925 943	mariage consanguin
+T40	DISO 981 1005	malformation congénitale
+T41	Concept_Idea 1014 1028	plan somatique
+T42	LIVB 1179 1183	elle
+T43	DEVI 1215 1233	appareils ménagers
+T44	PROC 1524 1551	chimiothérapie concomitante
+T45	PROC 1565 1588	curiethérapie adjuvante
+T46	MEAS 1662 1664	15
+T47	PROC 1665 1677	soins locaux
+T48	MEAS 1681 1683	20
+T49	PROC 1684 1733	séances de rééducation psychomotrice fractionnées
+T50	Concept_Idea 1746 1776	positionnements psychiatriques
+T51	PROC 1792 1822	bilan biologique préopératoire
+T52	PROC 1842 1864	traitement substitutif
+T53	DISO 1878 1894	hyperleucocytose
+T54	MEAS 1897 1935	16000 leucocyte globules blancs / mm 3
+T55	MEAS 1941 1961	9300 fois la normale
+T56	MEAS 1978 1991	18300 GB/mm 3
+T57	MEAS 1994 2005	0,46 mg/m 2
+T58	LIVB 2836 2843	patient
+T59	PROC 2850 2861	hospitalisé
+T60	Hospital 2865 2876	psychiatrie
+T61	PROC 2895 2919	chimiothérapie adjuvante
+T62	ANAT 2927 2965	neuroleptique neuroleptique antalgique
+T63	Concept_Idea 3040 3065	paramètres hémodynamiques
+T64	PHEN 3087 3111	transit cardiovasculaire
+T65	ANAT 3095 3111	cardiovasculaire
+T66	MEAS 3148 3155	négatif
+T67	ANAT 3191 3222	aires ganglionnaires cervicales
+T68	TEMP 3246 3257	quatre mois
+T69	CHEM 3299 3318	corticoïdes inhalés
+T70	CHEM 3405 3418	cotrimoxazole
+T71	CHEM 3448 3466	triméthopéridolone
+T72	CHEM 3486 3503	fibrates sodiques
+T73	LIVB 3518 3525	malades
+T74	DISO 3553 3584	syndrome interstitiel bipolaire
+T75	PROC 3589 3609	consultation externe
+T76	DISO 3679 3707	symptômes schizophréniformes
+T77	DISO 3715 3739	troubles comportementaux

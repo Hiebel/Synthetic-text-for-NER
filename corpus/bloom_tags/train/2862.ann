@@ -1,0 +1,18 @@
+T1	LIVB 19 29	nouveau-né
+T2	PROC 58 85	accouchement par voie basse
+T3	Concept_Idea 105 110	poids
+T4	MEAS 114 119	3200g
+T6	MEAS 137 142	120cm
+T7	PHEN 147 156	grossesse
+T8	DISO 177 186	anomalies
+T9	TEMP 198 212	première année
+T10	DISO 233 263	douleurs pelviennes mécaniques
+T11	ANAT 242 252	pelviennes
+T12	MEAS 278 289	progressive
+T13	TEMP 299 312	depuis 3 mois
+T14	PROC 316 331	examen clinique
+T15	ANAT 367 384	sphincter urétral
+T16	Localization 386 396	bilatérale
+T17	DISO 411 432	incontinence urinaire
+T18	ANAT 424 432	urinaire
+T19	DISO 442 469	symptomatologie lithiasique

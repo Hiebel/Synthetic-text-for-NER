@@ -1,0 +1,79 @@
+T1	LIVB 2 7	homme
+T2	PROC 50 62	consultation
+T3	DISO 72 93	lombalgies chroniques
+T4	TEMP 103 114	depuis 2ans
+T5	PROC 118 133	examen clinique
+T6	Concept_Idea 149 161	état général
+T7	MEAS 162 174	satisfaisant
+T8	DISO 198 204	fièvre
+T9	MEAS 207 211	37°C
+T10	DISO 224 237	malformations
+T11	PROC 252 272	palpation du poignet
+T12	ANAT 265 272	poignet
+T13	PHEN 299 304	appui
+T14	ANAT 312 317	genou
+T15	DEVI 391 411	coussins anti-retour
+T16	PROC 427 445	examen obstétrical
+T17	DISO 457 471	particularités
+T18	MEAS 504 511	simples
+T19	PROC 517 545	antibiothérapie probabiliste
+T20	PROC 559 583	chimiothérapie adjuvante
+T21	CHEM 589 605	amoxicilline B12
+T22	CHEM 608 622	gentaméthasone
+T23	CHEM 625 635	aminosides
+T24	DOSE 637 646	0,5 mg/kg
+T25	TEMP 646 651	/jour
+T26	TEMP 670 678	8 heures
+T27	PROC 737 755	toilette abdominal
+T28	ANAT 746 755	abdominal
+T29	PROC 768 795	prélèvement bactériologique
+T30	PROC 824 840	bilan biologique
+T31	PROC 860 895	échographie Doppler scannographique
+T32	DISO 920 954	masse tissulaire rénale bilatérale
+T33	Localization 944 954	bilatérale
+T34	MEAS 964 972	30x10 cm
+T35	ANAT 987 1042	veines salivaires superficielles crico-réno-thoraciques
+T36	MEAS 1051 1055	6 mm
+T37	MEAS 1058 1062	2 µm
+T38	Concept_Idea 1104 1113	caractère
+T39	DISO 1118 1131	inflammatoire
+T40	Concept_Idea 1169 1189	aspect morphologique
+T41	DISO 1206 1289	tumeur tubulomateuse kystique anévrysmale myxoïde infiltrant péritonéale fistulisée
+T42	PROC 1296 1316	reprise chirurgicale
+T43	LIVB 1404 1412	patients
+T44	PROC 1430 1453	résection préopératoire
+T45	PROC 1457 1471	exérèse totale
+T46	Concept_Idea 1501 1508	surface
+T47	MEAS 1509 1520	irrégulière
+T48	PROC 1576 1635	perfusion intraveineuse péridurale percutanéo-oesophagienne
+T49	PROC 1648 1677	reconstruction endovasculaire
+T50	PROC 1734 1775	gastro-entérocystolithotomie exploratrice
+T51	PROC 1800 1839	extraction extemporanéoplastie monobloc
+T52	Concept_Idea 1946 1976	processus anatomopathologiques
+T53	PROC 2006 2080	angiocytose érythroblastique intrarachidienne controlatérale transfixiante
+T54	PROC 2096 2172	hémicolectomie transœso-digestive fractionnée subtotale échoendoscopiquement
+T55	PROC 2232 2261	investigations fonctionnelles
+T56	PROC 2266 2301	traitement chirurgical conservateur
+T57	PROC 2316 2355	anesthésie locorégionale postopératoire
+T58	PROC 2473 2499	oxygénothérapie palliative
+T59	PROC 2500 2503	OLD
+T60	Concept_Idea 2543 2546	cas
+T61	MEAS 2547 2569	significativement rare
+T62	Hospital 2580 2598	service spécialisé
+T63	MEAS 2753 2764	3500 gramme
+T64	MEAS 2768 2779	360 grammes
+T65	MEAS 2871 2892	450 microgrammes /mm³
+T66	MEAS 2972 2987	620 grammes/m ²
+T67	ANAT 2996 3005	squelette
+T68	LIVB 3022 3029	patient
+T69	TEMP 3043 3049	8 mois
+T70	PROC 3053 3063	postpartum
+T71	PHEN 3082 3094	accouchement
+T72	LIVB 3103 3113	nourrisson
+T73	DISO 3142 3166	constipations chroniques
+T74	DISO 3222 3238	trouble digestif
+T75	DISO 3248 3269	complication néonatal
+T76	DISO 3287 3305	récidive prénatale
+T77	DISO 3316 3345	problèmes neuropsychiatriques
+T78	LIVB 3366 3368	sa
+T79	LIVB 3369 3373	mère

@@ -1,0 +1,13 @@
+T1	Concept_Idea 4 13	résultats
+T2	PROC 17 33	bilan
+T3	DISO 48 70	syndrome
+T4	MEAS 75 85	spécifique
+T5	DISO 136 145	dysphagie
+T6	DISO 156 160	toux
+T7	MEAS 161 166	sèche
+T8	DISO 174 183	céphalées
+T9	DISO 200 212	hypoesthésie
+T10	DISO 219 231	irradiations
+T11	DISO 235 253	troubles
+T12	ANAT 277 302	champ
+T13	Localization 290 302	périphérique

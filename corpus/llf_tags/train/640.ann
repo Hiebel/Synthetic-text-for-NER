@@ -1,0 +1,133 @@
+T1	PROC 3 24	radiographie du genou
+T2	ANAT 19 24	genou
+T3	DISO 41 63	niveaux hydro-aériques
+T4	Concept_Idea 66 75	intensité
+T5	MEAS 76 80	4 cm
+T6	Concept_Idea 84 91	hauteur
+T7	PROC 96 114	scanner thoracique
+T8	ANAT 104 114	thoracique
+T9	DISO 136 169	processus tissulaire hypoéchogène
+T10	MEAS 178 184	2,3 cm
+T11	Concept_Idea 188 196	diamètre
+T12	DISO 209 229	signes histologiques
+T13	PROC 242 261	électrocardiogramme
+T14	PROC 268 295	bilan radiologique standard
+T15	MEAS 310 317	normaux
+T16	Concept_Idea 329 337	résultat
+T17	DISO 355 375	pneumopéritoine aigu
+T18	DISO 385 414	distension abdomino-pelvienne
+T19	ANAT 396 414	abdomino-pelvienne
+T20	MEAS 473 480	simples
+T21	LIVB 489 497	patiente
+T22	DISO 519 536	récidive tumorale
+T23	DISO 543 553	métastases
+T24	PROC 570 608	chimiothérapie palliative concomitante
+T25	MODE 613 631	voie intraveineuse
+T26	PROC 657 686	corticothérapie néo adjuvante
+T27	DOSE 688 692	25mg
+T28	TEMP 692 697	/jour
+T29	CHEM 711 726	fluoroquinolone
+T30	PHEN 766 776	injections
+T31	DOSE 789 794	10 mg
+T32	TEMP 794 796	/j
+T33	CHEM 809 822	antibiotiques
+T34	CHEM 833 843	isoniazide
+T35	CHEM 846 856	céfotaxime
+T36	CHEM 859 868	imipenème
+T37	CHEM 871 883	pyrazinamide
+T38	CHEM 886 899	métronidazole
+T39	CHEM 902 916	sulfaméthasone
+T40	CHEM 919 929	aminosides
+T41	CHEM 932 945	triméthoprime
+T42	CHEM 948 961	phénobarbital
+T43	CHEM 964 975	gentamicine
+T44	CHEM 978 1002	acide acétyle glutamique
+T45	CHEM 1005 1018	dexaméthasone
+T46	CHEM 1021 1032	rifampicine
+T47	CHEM 1035 1073	hydroxychlorure de phénylpropanolamine
+T48	CHEM 1076 1103	polynucléaires neutrophiles
+T49	CHEM 1106 1117	monoflurane
+T50	CHEM 1120 1140	oxalate de potassium
+T51	CHEM 1143 1159	cyclophosphamide
+T52	CHEM 1162 1175	ethambutolone
+T53	CHEM 1178 1193	palmitoconazole
+T54	CHEM 1196 1210	ciprofloxacine
+T55	CHEM 1213 1224	ceftriaxone
+T56	CHEM 1227 1238	paracétamol
+T57	CHEM 1241 1253	prédnisolone
+T58	CHEM 1256 1267	tétrazidime
+T59	CHEM 1270 1280	carbamates
+T60	CHEM 1283 1295	néfopamycine
+T61	CHEM 1298 1308	metformine
+T62	CHEM 1311 1320	œstrogène
+T63	CHEM 1323 1333	antalgique
+T64	CHEM 1336 1350	neuroleptiques
+T65	CHEM 1353 1364	cortisolone
+T66	CHEM 1367 1378	myorelaxant
+T67	CHEM 1381 1394	cotrimoxazole
+T68	CHEM 1397 1414	immunosuppresseur
+T69	CHEM 1417 1427	adrénaline
+T70	CHEM 1430 1442	progestérone
+T71	CHEM 1445 1456	psychotique
+T72	CHEM 1459 1471	hypertenseur
+T73	CHEM 1474 1488	hydrocortisone
+T74	CHEM 1491 1502	nicardipine
+T75	CHEM 1505 1518	noradrénaline
+T76	CHEM 1521 1529	atropine
+T77	CHEM 1532 1550	alpha progestérone
+T78	CHEM 1553 1562	méthadone
+T79	CHEM 1565 1580	catécholestérol
+T80	CHEM 1583 1594	rituximides
+T81	CHEM 1597 1611	anticoagulants
+T82	CHEM 1614 1625	arythmisone
+T83	CHEM 1628 1636	aspirine
+T84	CHEM 1639 1658	dérivés carbamiques
+T85	CHEM 1661 1673	amphétamines
+T86	CHEM 1676 1683	taxanes
+T87	CHEM 1686 1701	halopérimésones
+T88	CHEM 1704 1711	ivudine
+T89	CHEM 1714 1727	coxarthrosone
+T90	CHEM 1730 1744	érythrostatine
+T91	CHEM 1747 1759	calciplatine
+T92	CHEM 1762 1783	thiocyanate de sodium
+T93	CHEM 1786 1798	vitamine B12
+T94	CHEM 1801 1811	furosémide
+T95	CHEM 1814 1831	produits laitiers
+T96	CHEM 1834 1853	oligo carboténoïdes
+T97	CHEM 1856 1875	cisplatine aglycone
+T98	CHEM 1878 1892	lidocobalamine
+T99	CHEM 1895 1908	hémoglobuline
+T101	CHEM 1951 1964	cyperméthrine
+T102	CHEM 1967 1987	protéines naturelles
+T103	CHEM 1990 2022	chromogranine acide tranexamique
+T104	CHEM 2025 2043	acide fénéthylique
+T105	CHEM 2046 2059	triméthoprime
+T106	CHEM 2062 2075	phénobarbital
+T107	CHEM 2078 2088	isoniazole
+T108	CHEM 2091 2112	antidiabétiques oraux
+T109	CHEM 2115 2124	aminoside
+T110	CHEM 2127 2140	métronidazole
+T111	CHEM 2143 2163	nitrate de magnésium
+T112	CHEM 2166 2177	vincristine
+T113	CHEM 2180 2192	pyrazinamide
+T114	CHEM 2195 2208	fluorouracile
+T115	PROC 2212 2218	examen
+T116	DISO 2230 2239	anomalies
+T117	PROC 2252 2272	analyse histologique
+T118	DISO 2288 2318	prolifération tumorale maligne
+T119	ANAT 2351 2367	lambeau cricoïde
+T120	DISO 2383 2448	remaniement mucineux des fragments chondroblastiques métatarsiens
+T121	ANAT 2408 2448	fragments chondroblastiques métatarsiens
+T122	MEAS 2474 2478	deux
+T123	ANAT 2479 2502	ganglions paravertébral
+T124	ANAT 2514 2548	sinus veineux rénal antero-externe
+T125	DISO 2554 2587	granulome érythémateux infiltrant
+T126	MEAS 2597 2605	50/20 cm
+T127	ANAT 2623 2641	membrane digestive
+T128	DISO 2669 2721	métaplasie carcinomateuse monofoetale multiloculaire
+T129	MEAS 2748 2758	favorables
+T130	PROC 2764 2789	rachianesthésie adjuvante
+T131	TEMP 2799 2810	24 ème jour
+T132	PROC 2816 2826	opératoire
+T133	PROC 2831 2853	contrôle échographique
+T134	DISO 2909 2941	symptomatologie auto destructive

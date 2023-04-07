@@ -1,0 +1,24 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	Hospital 93 108	bloc opératoire
+T6	DISO 118 130	métrorragies
+T7	TEMP 140 154	depuis 10 mois
+T8	DISO 197 210	symptomatique
+T9	MEAS 225 241	progressionnelle
+T10	DEVI 313 319	doulas
+T11	LIVB 374 378	elle
+T12	MEAS 531 540	favorable
+T13	MEAS 613 622	prolongée
+T14	DOSE 648 651	3kg
+T16	CHEM 660 678	méthylprednisolone
+T17	CHEM 705 718	bêtaméthasone
+T18	CHEM 721 747	triamcinolone progestérone
+T19	PROC 753 793	scanner abdomino-pelvien scannographique
+T20	ANAT 761 793	abdomino-pelvien scannographique
+T21	DISO 807 949	hernie grêlo-thoracique latérale lithiasique diaphragmatico-lunaire fundique anévrismateuse médiastinothoracique bilirubine épiploïde kystique
+T23	MEAS 959 964	29 cm
+T24	Concept_Idea 968 977	grand axe
+T25	MEAS 1001 1028	discrètement plus évidentes
+T26	PROC 1035 1062	anesthésie locorégionaliste

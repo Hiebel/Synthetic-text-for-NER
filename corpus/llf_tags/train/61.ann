@@ -1,0 +1,20 @@
+T1	Concept_Idea 4 13	résultats
+T2	PROC 19 45	examen anatomopathologique
+T3	DISO 75 111	carcinome épidermoïde du sein gauche
+T4	ANAT 100 111	sein gauche
+T5	Localization 105 111	gauche
+T6	PROC 117 151	radio-chimiothérapie néo adjuvante
+T7	PROC 181 207	radiothérapie concomitante
+T8	CHEM 213 225	Temozolomide
+T9	Concept_Idea 231 235	dose
+T10	DOSE 239 245	100 Gy
+T11	TEMP 245 247	/j
+T12	PROC 262 284	remplissage thyroïdien
+T13	ANAT 274 284	thyroïdien
+T14	MEAS 294 299	bonne
+T15	PHEN 300 313	cicatrisation
+T16	DISO 333 343	métastases
+T17	LIVB 348 355	patient
+T18	PROC 371 416	programmation neurochirurgicale peropératoire
+T19	MEAS 435 442	normale
+T20	TEMP 454 460	3 mois

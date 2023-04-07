@@ -1,0 +1,26 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 50 61	antécédents
+T3	MEAS 62 74	particuliers
+T4	PROC 76 82	admise
+T5	Hospital 87 95	urgences
+T6	DISO 105 116	tuméfaction
+T7	TEMP 126 142	depuis deux mois
+T8	MEAS 161 176	progressivement
+T9	Concept_Idea 180 186	volume
+T10	PROC 190 205	examen clinique
+T11	PROC 210 219	admission
+T12	ANAT 233 247	tête d'épingle
+T13	Localization 264 276	face interne
+T14	ANAT 280 292	cuir chevelu
+T15	DISO 312 326	amaigrissement
+T16	MEAS 338 343	10 kg
+T17	TEMP 347 356	deux mois
+T18	PROC 361 391	bilan biologique préopératoire
+T19	DISO 412 428	hyperleucocytose
+T20	CHEM 430 457	polynucléaires neutrophiles
+T21	MEAS 459 477	11300 éléments/mm3
+T22	PROC 484 505	protéines C réactives
+T23	MEAS 508 525	6 fois la normale
+T24	PROC 531 541	diagnostic
+T25	DISO 566 598	syndrome inflammatoire chronique
+T26	DISO 603 622	déficit immunitaire

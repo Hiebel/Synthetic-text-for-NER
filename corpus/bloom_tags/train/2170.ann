@@ -1,0 +1,33 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 67 90	néphropathie diabétique
+T4	TEMP 100 116	depuis deux mois
+T5	PROC 139 148	admission
+T6	Hospital 152 195	service d'accueil des urgences pédiatriques
+T7	DISO 228 249	détresse respiratoire
+T8	PHEN 237 249	respiratoire
+T9	MEAS 264 270	rapide
+T10	DOSE 276 283	1 mg/kg
+T11	CHEM 287 298	propranolol
+T12	MODE 318 330	intraveineux
+T13	CHEM 339 349	furosémide
+T14	CHEM 352 363	nicardipine
+T15	CHEM 365 378	noradrénaline
+T16	LIVB 402 410	patiente
+T17	DISO 458 476	défense abdominale
+T18	ANAT 466 476	abdominale
+T19	DISO 494 512	œdème épigastrique
+T20	ANAT 500 512	épigastrique
+T21	MEAS 526 547	supérieure à 4 litres
+T22	MEAS 559 574	progressivement
+T23	Concept_Idea 578 584	taille
+T24	MEAS 594 605	plus serrée
+T26	PROC 684 708	scanner abdomino-pelvien
+T27	ANAT 692 708	abdomino-pelvien
+T28	DISO 733 766	opacité tissulaire hypoéchoguidée
+T29	MEAS 776 788	environ 5 cm
+T30	DISO 823 851	métastase vésico-intestinale
+T31	ANAT 833 851	vésico-intestinale
+T32	ANAT 868 886	organes abdominaux
+T33	Concept_Idea 911 922	profondeité
+T34	ANAT 944 963	parois intestinales

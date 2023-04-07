@@ -1,0 +1,36 @@
+T1	LIVB 16 21	femme
+T3	ANAT 78 95	intrapéricardique
+T4	TEMP 105 118	depuis 8 mois
+T5	DISO 131 140	anomalies
+T6	PROC 155 174	bilan préopératoire
+T7	PHEN 221 230	digestifs
+T8	DISO 234 248	symptomatiques
+T9	DISO 276 295	traumatisme pleural
+T10	ANAT 288 295	pleural
+T11	DISO 302 322	prise médicamenteuse
+T12	PROC 337 362	intervention chirurgicale
+T13	LIVB 364 367	son
+T14	PROC 368 383	examen clinique
+T15	LIVB 397 405	patiente
+T16	MEAS 413 418	70 kg
+T17	Concept_Idea 428 434	taille
+T18	MEAS 438 444	158 cm
+T19	DISO 461 467	fièvre
+T20	MEAS 479 484	38°8C
+T21	PROC 488 509	échographie pelvienne
+T22	ANAT 500 509	pelvienne
+T23	DISO 534 616	rupture ostéolytique subtotale pariétale kystique hydatique péritonéalo-nécrosante
+T24	ANAT 636 653	greffon ombilical
+T25	DISO 668 718	sténose grêlique iléocoecale transfixiante érosive
+T27	DISO 787 808	détresse respiratoire
+T28	PHEN 796 808	respiratoire
+T29	MEAS 828 850	rapidement progressive
+T30	DISO 878 910	sensibilité ombilicale purulente
+T31	ANAT 890 910	ombilicale purulente
+T32	PROC 950 968	traitement médical
+T33	CHEM 981 991	nifédipine
+T34	CHEM 994 1008	hydrocortisone
+T35	CHEM 1011 1029	méthylprednisolone
+T36	PROC 1035 1077	ponction pleurieuse liquidienne percutanée
+T37	ANAT 1044 1077	pleurieuse liquidienne percutanée
+T38	LIVB 1099 1107	patiente

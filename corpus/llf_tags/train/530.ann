@@ -1,0 +1,22 @@
+T1	LIVB 19 26	patient
+T2	DISO 69 93	infections tuberculeuses
+T3	LIVB 110 112	il
+T4	PROC 135 166	antibioprophylaxie probabiliste
+T5	Concept_Idea 175 193	critères cliniques
+T6	PHEN 414 425	allaitement
+T7	Hospital 461 489	soins intensifs pédiatriques
+T8	Hospital 493 545	Centre Hospitalier Universitaire Ibn Rochd de Meknès
+T9	DISO 676 698	constipation chronique
+T10	ANAT 738 746	matières
+T11	PROC 772 816	tomodensitométrie préopératoire diagnostique
+T12	MEAS 833 839	grosse
+T13	DISO 840 880	distension crânio-anale cervicale droite
+T14	ANAT 851 880	crânio-anale cervicale droite
+T15	Localization 874 880	droite
+T16	DISO 896 944	tumeur cunéiforme lobulée polygonale asymétrique
+T17	MEAS 954 958	6 cm
+T18	Concept_Idea 962 971	grand axe
+T19	ANAT 993 1045	muscles fessiers maxillaires abdominaux superficiels
+T20	MEAS 1054 1058	5 cm
+T21	Concept_Idea 1062 1077	petite courbure
+T22	ANAT 1103 1155	symphyse pubienne anténatale iléale supérieur droite

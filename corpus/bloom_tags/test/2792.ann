@@ -1,0 +1,20 @@
+T1	LIVB 3 10	patient
+T2	DISO 55 75	diabète hypertenseur
+T3	DISO 90 150	hypertrophie pariéto-condylienne diaphragmatique congénitale
+T5	MEAS 158 162	2 kg
+T6	TEMP 172 185	depuis 9 mois
+T7	PROC 190 201	hospitalisé
+T8	DISO 226 254	dyspnée stade II de Sistrunk
+T9	DISO 270 293	polypleurésie purulente
+T10	MEAS 319 330	progressive
+T11	MEAS 340 365	difficilement appréciable
+T12	DISO 393 409	signes cliniques
+T13	DISO 426 437	hémoptysies
+T14	DISO 444 469	défense pleuro-bronchique
+T15	ANAT 452 469	pleuro-bronchique
+T16	PROC 484 498	examen initial
+T17	LIVB 517 525	patiente
+T18	DISO 531 608	hyperpression pulmonaire pariétale dorsolaterale thoracique craniosténonnante
+T20	DISO 626 660	empyème basithoracique suscrâniens
+T21	ANAT 634 660	basithoracique suscrâniens
+T22	MEAS 683 692	brunâtres

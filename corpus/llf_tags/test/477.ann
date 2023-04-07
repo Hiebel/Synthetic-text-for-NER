@@ -1,0 +1,32 @@
+T1	LIVB 14 19	jeune
+T2	LIVB 20 27	patient
+T3	Concept_Idea 48 58	antécédent
+T4	MEAS 59 70	particulier
+T5	DISO 90 99	céphalées
+T6	TEMP 100 118	depuis une semaine
+T7	PROC 124 141	tomodensitométrie
+T9	ANAT 151 173	membre supérieur droit
+T10	Localization 168 173	droit
+T11	DISO 186 223	processus tissulaire périostéo-dilaté
+T13	ANAT 299 353	quadrant supero-extenseur métatarsien inférieur gauche
+T14	Localization 347 353	gauche
+T15	MEAS 363 368	14 cm
+T16	Concept_Idea 372 380	diamètre
+T17	PROC 392 417	étude immunohistochimique
+T18	DISO 440 495	lésion carcinomateuse kératinocytoplasmocytaire maligne
+T19	ANAT 547 569	troncs supra-pariétaux
+T20	ANAT 582 613	nerf laryngotrachéal postérieur
+T21	Localization 603 613	postérieur
+T22	PROC 618 637	bilan préopératoire
+T23	DEVI 705 732	matériel d'ostéostimulation
+T24	PROC 737 765	chimiothérapie néo adjuvante
+T25	DISO 843 863	récepteurs hormonaux
+T26	PHEN 869 887	suites opératoires
+T27	MEAS 896 903	simples
+T28	CHEM 946 970	héparine non fractionnée
+T29	PROC 987 1074	transfusions sanguines intraveineuse bêtalactamines éthylène glycorachie séricimétrique
+T30	PROC 1075 1078	VBP
+T31	PROC 1084 1104	suivi postopératoire
+T32	PROC 1133 1166	corticothérapie substitutionnelle
+T33	Concept_Idea 1185 1193	clinique
+T34	DISO 1213 1241	troubles neuropsychiatriques

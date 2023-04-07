@@ -1,0 +1,42 @@
+T1	LIVB 28 35	patient
+T2	DISO 69 92	tuberculose du pancréas
+T3	ANAT 84 92	pancréas
+T4	DISO 110 131	détresse respiratoire
+T5	PHEN 119 131	respiratoire
+T6	PROC 135 150	examen clinique
+T7	DISO 169 186	paralysie faciale
+T8	DISO 192 208	atteinte faciale
+T9	ANAT 201 208	faciale
+T11	ANAT 221 237	abdomino-pelvien
+T12	DISO 258 286	adénopathie axillaire droite
+T13	ANAT 270 286	axillaire droite
+T14	Localization 280 286	droite
+T15	MEAS 296 300	6 cm
+T16	Concept_Idea 304 313	grand axe
+T18	DISO 441 483	envahissement ganglionnaire parenchymateux
+T19	ANAT 455 483	ganglionnaire parenchymateux
+T20	ANAT 503 517	parties molles
+T21	DISO 531 614	thrombose veineuse plexique scannobronchovasculaire tricuspide pariétale bilatérale
+T22	ANAT 541 614	veineuse plexique scannobronchovasculaire tricuspide pariétale bilatérale
+T23	Localization 604 614	bilatérale
+T24	ANAT 639 670	sinus cavités sus claviculaires
+T25	CHEM 741 752	tuberculine
+T26	MEAS 759 768	négativée
+T27	PROC 773 828	ponction pleurieuse liquidienne trans-bronchodilatateur
+T28	ANAT 782 828	pleurieuse liquidienne trans-bronchodilatateur
+T29	PROC 843 867	anesthésie locorégionale
+T30	DEVI 854 867	locorégionale
+T31	PROC 874 906	incision thoracique exploratrice
+T32	ANAT 883 906	thoracique exploratrice
+T33	MEAS 937 944	1280 ml
+T34	MEAS 948 955	1160 ml
+T35	DISO 1025 1071	maladie d'épanchement liquidien basithoracique
+T36	ANAT 1047 1071	liquidien basithoracique
+T37	DISO 1073 1098	syndrome néphrotique aigu
+T38	DISO 1113 1144	souffrance pulmonaire chronique
+T39	ANAT 1124 1144	pulmonaire chronique
+T40	DISO 1149 1184	volvulus artériolaire intratrachéal
+T41	ANAT 1158 1184	artériolaire intratrachéal
+T42	DISO 1192 1220	kyste hydatique hypertrophié
+T43	DISO 1238 1265	inflammation basithoracique
+T44	ANAT 1251 1265	basithoracique

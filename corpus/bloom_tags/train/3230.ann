@@ -1,0 +1,22 @@
+T1	LIVB 15 22	patient
+T2	PROC 34 40	traité
+T3	DISO 50 73	hypertension artérielle
+T4	ANAT 63 73	artérielle
+T5	CHEM 79 93	hydrocortisone
+T6	Concept_Idea 99 103	dose
+T7	DOSE 107 116	0,5 mg/kg
+T8	TEMP 116 121	/jour
+T9	CHEM 135 145	amiodarone
+T10	CHEM 152 169	méthylpropranolol
+T11	MODE 173 185	intraveineux
+T12	PROC 189 204	examen clinique
+T13	LIVB 217 224	patient
+T14	Concept_Idea 239 257	plan hémodynamique
+T15	MEAS 267 276	multiples
+T16	DISO 288 302	hémopéritoines
+T17	DISO 339 358	troubles du transit
+T18	PHEN 351 358	transit
+T19	PROC 372 390	bilan paraclinique
+T20	PROC 408 453	tomodensitométrie thoraco- abdomino-pelvienne
+T21	ANAT 426 453	thoraco- abdomino-pelvienne
+T22	DISO 485 494	anomalies

@@ -1,0 +1,75 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	5 ans
+T3	DISO 82 99	dyspnée chronique
+T4	TEMP 109 123	depuis 5 jours
+T5	DISO 139 150	traumatisme
+T6	DISO 160 173	symptomatique
+T7	PROC 187 202	examen physique
+T8	LIVB 206 212	malade
+T9	MEAS 220 227	mauvais
+T10	Concept_Idea 228 240	état général
+T11	ANAT 246 258	conjonctives
+T12	MEAS 264 271	souples
+T13	DISO 278 299	signes inflammatoires
+T14	DISO 319 353	syndrome infectieux postopératoire
+T15	DISO 370 389	déficit immunitaire
+T16	LIVB 419 429	nouveau-né
+T17	LIVB 461 468	parents
+T18	DISO 491 510	maladie auto-immune
+T19	Concept_Idea 608 629	hétérogénéité interne
+T20	PROC 690 714	prise en charge médicale
+T21	LIVB 823 828	homme
+T22	DISO 894 924	hypertension normocarotidienne
+T23	ANAT 907 924	normocarotidienne
+T25	CHEM 946 972	antidépresseur tricyclique
+T26	CHEM 978 989	corticoïdes
+T27	PROC 1081 1093	consultation
+T28	LIVB 1099 1104	notre
+T29	Hospital 1105 1123	centre hospitalier
+T30	TEMP 1145 1158	deux semaines
+T31	DISO 1165 1176	tuméfaction
+T32	MEAS 1198 1205	diffuse
+T33	MEAS 1217 1232	progressivement
+T34	Concept_Idea 1236 1243	largeur
+T35	MEAS 1260 1268	indolore
+T36	DISO 1290 1319	neuropathie sensitivo-motrice
+T37	DISO 1349 1373	surinfection bactérienne
+T38	PROC 1403 1411	contrôle
+T39	PHEN 1416 1437	grossesse monofoetale
+T40	MEAS 1481 1485	bien
+T41	Localization 1486 1499	longitudinale
+T42	PROC 1578 1593	examen clinique
+T43	LIVB 1604 1609	fœtus
+T44	Concept_Idea 1634 1652	plan hémisphérique
+T45	ANAT 1674 1690	coude postérieur
+T46	Localization 1680 1690	postérieur
+T47	MEAS 1700 1714	18 centimètres
+T48	Concept_Idea 1718 1732	plus grand axe
+T49	DEVI 1747 1761	broche dorsale
+T50	MEAS 1769 1783	13 centimètres
+T51	Concept_Idea 1787 1796	grand axe
+T52	ANAT 1809 1834	organes génitaux externes
+T53	MEAS 1843 1863	légèrement distordus
+T54	ANAT 1869 1887	marges abdominales
+T55	MEAS 1897 1916	environ 500 grammes
+T56	DISO 1988 2000	macroscopies
+T57	DISO 2023 2037	hallucinations
+T58	LIVB 2092 2100	individu
+T59	DISO 2123 2142	rhinorrhées fétides
+T60	DISO 2308 2332	manifestations phobiques
+T61	DISO 2375 2383	brûlures
+T62	DISO 2481 2500	réveils diaboliques
+T63	DISO 2605 2617	prématurités
+T65	DISO 2993 3021	symptomatologie obstétricale
+T66	LIVB 3179 3184	femme
+T67	LIVB 3633 3635	sa
+T68	LIVB 3636 3641	fille
+T69	LIVB 3645 3648	son
+T71	TEMP 3702 3708	21 ans
+T72	Hospital 3747 3786	chirurgien cardiothoracique pédiatrique
+T73	LIVB 3863 3902	médecins rhumatologues interventionnels
+T74	PROC 4034 4068	thyroïdectomie adjuvante familiale
+T75	PROC 4082 4104	consultation prénatale
+T76	LIVB 4237 4248	jeune femme
+T77	MEAS 4374 4379	trois
+T78	LIVB 4380 4387	enfants

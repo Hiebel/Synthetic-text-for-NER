@@ -1,0 +1,35 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	7 ans
+T3	Concept_Idea 25 36	antécédents
+T4	MEAS 37 49	particuliers
+T5	PROC 51 56	admis
+T6	Hospital 60 67	urgence
+T7	Hospital 72 93	urgences pédiatriques
+T8	DISO 103 114	tuméfaction
+T9	TEMP 124 137	depuis 3 mois
+T10	MEAS 152 167	progressivement
+T11	Concept_Idea 171 177	volume
+T12	PROC 181 196	examen clinique
+T13	LIVB 209 215	enfant
+T14	Concept_Idea 240 258	plan hémodynamique
+T15	PHEN 262 274	respiratoire
+T16	DISO 298 327	nodule tumoral du sein gauche
+T17	ANAT 316 327	sein gauche
+T18	Localization 321 327	gauche
+T19	MEAS 336 340	1 cm
+T20	Concept_Idea 344 353	grand axe
+T21	PROC 358 383	scanner abdomino- pelvien
+T22	ANAT 366 383	abdomino- pelvien
+T23	PROC 402 411	admission
+T24	Hospital 415 446	service d'urétéro-hydronéphrine
+T25	Hospital 448 451	UHT
+T26	PROC 480 501	échographie pelvienne
+T27	ANAT 492 501	pelvienne
+T28	DISO 522 587	masse tissulaire hétérogène des annexes utéro-vaginals/ovariennes
+T29	ANAT 554 587	annexes utéro-vaginals/ovariennes
+T30	ANAT 608 617	péritoine
+T31	MEAS 627 640	environ 50 mm
+T32	Concept_Idea 644 653	grand axe
+T33	CHEM 676 692	médiateurs iodés
+T34	Concept_Idea 710 718	contours
+T35	MEAS 719 728	régulière

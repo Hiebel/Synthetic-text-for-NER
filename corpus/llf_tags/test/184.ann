@@ -1,0 +1,27 @@
+T1	PROC 2 20	traitement médical
+T2	PROC 48 76	chimiothérapie néo adjuvante
+T3	DISO 126 146	symptômes infectieux
+T4	DISO 176 205	lésions érythémato-trachéales
+T5	PROC 237 260	laparotomie en monobloc
+T6	PROC 283 317	curage ganglionnaire préopératoire
+T7	ANAT 290 303	ganglionnaire
+T8	MEAS 332 356	2/3 infra centimétriques
+T9	ANAT 360 373	cordon caudal
+T10	Localization 375 381	gauche
+T11	LIVB 387 394	patient
+T12	PROC 399 408	transféré
+T13	Hospital 417 439	structure hospitalière
+T14	PROC 445 469	prise en charge médicale
+T15	PROC 473 500	examen anatomopathologiaque
+T16	MEAS 514 521	négatif
+T17	PROC 535 554	bilan immunologique
+T18	DISO 573 581	anomalie
+T19	DISO 585 590	signe
+T20	Concept_Idea 611 631	aspect morphologique
+T21	PROC 665 700	tumorectomie axillaire chirurgicale
+T22	PROC 714 811	angioplastie segmentaire scanno-guidée bidimensionnelle transoesophagienne lobulée convexe type Y
+T23	ANAT 825 860	paroi postéro-supérieure thoracique
+T24	PROC 892 911	anesthésie générale
+T25	MEAS 948 955	simples
+T26	TEMP 962 972	6 semaines
+T27	PROC 976 998	contrôle échographique

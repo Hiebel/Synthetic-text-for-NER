@@ -1,0 +1,28 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 17 24	17 mois
+T3	PROC 40 73	consultation médicale pédiatrique
+T4	PHEN 95 110	acuité visuelle
+T5	TEMP 120 136	depuis trois ans
+T6	DISO 152 172	récidive liquidienne
+T7	ANAT 201 224	nœud crico-palpébelleux
+T8	DISO 350 387	trouble sensitivo-moteur psychomoteur
+T9	DISO 417 443	déficience motrice globale
+T10	ANAT 516 538	membre inférieur droit
+T11	Localization 533 538	droit
+T12	PROC 573 615	prise en charge thérapeutique substitutive
+T13	PROC 621 663	soins intensifs neuropsychiatriques locaux
+T14	PROC 679 741	kinésithérapie cognitivo-éducative multidisciplinaire standard
+T15	PROC 755 793	régime pauvre en graisses parentérales
+T16	PROC 831 856	surveillance radiologique
+T17	PROC 868 886	séjour hospitalier
+T18	LIVB 894 900	enfant
+T19	Concept_Idea 937 967	conventions hygiénodiététiques
+T20	MEAS 1034 1043	favorable
+T21	TEMP 1180 1193	le 8 ème jour
+T22	MEAS 1217 1228	progressive
+T23	TEMP 1240 1246	6jours
+T24	PROC 1353 1359	suivie
+T25	TEMP 1371 1379	24heures
+T26	PROC 1395 1410	bilan lipidique
+T27	MEAS 1419 1438	correctement normal
+T28	PROC 1463 1485	contrôle échographique

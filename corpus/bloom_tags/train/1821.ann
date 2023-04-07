@@ -1,0 +1,31 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	PROC 41 47	admise
+T4	Hospital 52 73	urgences pédiatriques
+T5	DISO 92 124	agitation psychomotrice primaire
+T6	TEMP 134 147	depuis 6 mois
+T7	DISO 163 169	fièvre
+T8	PROC 187 206	examen neurologique
+T9	DISO 218 242	polyarthrite polyclonale
+T10	LIVB 270 281	jeune fille
+T11	PROC 329 362	traitement antibacillaire curatif
+T12	CHEM 373 384	Cyclosérine
+T13	DOSE 387 393	1mg/kg
+T14	CHEM 395 408	Aspaméthasone
+T15	DOSE 411 417	200 mg
+T17	CHEM 426 439	Céphalosérine
+T18	DOSE 442 451	0,5 mg/kg
+T19	CHEM 454 470	Acide valproïque
+T20	DOSE 473 479	500 mg
+T21	TEMP 479 484	/jour
+T22	PROC 489 507	ionogramme sanguin
+T23	ANAT 500 507	sanguin
+T24	PHEN 521 529	natrémie
+T25	MEAS 540 554	133 meq/100m 2
+T26	DISO 630 670	syndrome d'épanchement pleural liquidien
+T27	ANAT 653 670	pleural liquidien
+T28	DISO 680 697	signes évocateurs
+T29	DISO 801 824	hyperkaliémie chronique
+T30	PROC 857 891	prise médicamenteuse peropératoire
+T31	PROC 895 939	tomodensitométrie thoraco-abdomino-pelvienne
+T32	ANAT 913 939	thoraco-abdomino-pelvienne

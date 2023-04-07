@@ -1,0 +1,22 @@
+T1	PROC 3 27	laparotomie exploratrice
+T2	PROC 46 72	examen anatomopathologique
+T3	DISO 87 105	carcinome mucineux
+T4	ANAT 109 120	sein gauche
+T5	Localization 114 120	gauche
+T6	MEAS 125 129	6 cm
+T7	Concept_Idea 133 142	grand axe
+T8	DISO 162 210	processus tissulaire fibro-duodénal bourgeonnant
+T9	ANAT 235 246	lit tumoral
+T10	PROC 270 283	opacification
+T11	MEAS 326 338	environ 6 cm
+T12	Concept_Idea 342 351	petit axe
+T13	LIVB 356 364	patiente
+T14	PROC 387 410	tumorectomie préventive
+T15	PROC 424 448	chimiothérapie adjuvante
+T16	CHEM 454 467	triméthoprime
+T17	DOSE 469 475	5mg/kg
+T18	TEMP 475 477	/j
+T19	DISO 516 530	particularités
+T20	DISO 560 580	signes hémorragiques
+T21	PHEN 593 624	amélioration neuropsychiatrique
+T22	TEMP 636 641	2 ans

@@ -1,0 +1,83 @@
+T1	LIVB 18 26	patiente
+T2	PROC 52 58	admise
+T3	Hospital 63 85	urgences chirurgicales
+T4	DISO 105 183	métastases carcinomateuses cervico-vésiculaires utéro-myomateuses lithiasiques
+T6	PHEN 199 219	grossesse gémellaire
+T7	PROC 224 230	suivie
+T8	LIVB 258 266	patiente
+T9	DISO 294 320	paragangliome hypertrophié
+T10	DISO 322 347	hypopituitarisme primaire
+T11	DISO 350 372	tuberculose thoracique
+T12	ANAT 362 372	thoracique
+T13	PROC 447 471	échographie endovaginale
+T14	ANAT 459 471	endovaginale
+T15	PROC 548 593	investigations somatométriques intraveineuses
+T16	PROC 607 629	TDM abdomino pelvienne
+T17	ANAT 611 629	abdomino pelvienne
+T18	PROC 671 691	interventionnalisent
+T19	DISO 712 737	récidive tumorale maligne
+T20	PROC 865 882	troponines natifs
+T21	MEAS 897 905	positifs
+T22	MEAS 930 943	significatifs
+T23	MEAS 998 1015	fortement positif
+T24	MEAS 1027 1045	12 fois la normale
+T25	PROC 1066 1097	protocole thérapeutique curatif
+T26	DISO 1206 1248	lésions érythémato-pustuleuses purpuriques
+T27	DISO 1258 1266	kystique
+T28	MEAS 1324 1330	rapide
+T29	DISO 1344 1361	céphalées fébrile
+T30	DISO 1378 1401	symptômes hémorragiques
+T31	DISO 1428 1470	polynucléaires neutrophiles inflammatoires
+T32	DISO 1501 1514	hyperplasique
+T33	DISO 1594 1620	granulome nécrosé kystique
+T34	MODE 1631 1644	intraveineuse
+T35	PROC 1860 1863	EGE
+T36	PROC 1928 1952	anticorps antinucléaires
+T37	PROC 1955 1978	cytokératyl transférase
+T38	PROC 1980 1984	BTCT
+T39	PROC 1990 2017	numération formule sanguine
+T40	PROC 2129 2158	recherche immunohistochimique
+T41	PROC 2310 2320	diagnostic
+T42	DISO 2345 2401	syndrome d'épanchement intra-parenchymateux péritumoraux
+T43	ANAT 2368 2401	intra-parenchymateux péritumoraux
+T45	ANAT 2420 2436	parathyroïdienne
+T46	ANAT 2463 2479	péritoine utérin
+T47	LIVB 2481 2485	Elle
+T48	PROC 2504 2534	chimiothérapie type palliative
+T49	CHEM 2536 2546	cisplatine
+T50	CHEM 2548 2560	carboplatine
+T51	CHEM 2562 2575	dexaméthasone
+T52	CHEM 2577 2588	ethionamide
+T53	CHEM 2592 2604	capécitabine
+T54	PROC 2619 2642	radiothérapie adjuvante
+T55	TEMP 2645 2655	2 semaines
+T56	PROC 2664 2673	admission
+T57	Concept_Idea 2687 2693	aspect
+T58	DISO 2696 2715	épanchement central
+T59	Localization 2708 2715	central
+T60	DISO 2721 2746	nécrose caséeuse tumorale
+T61	PROC 2750 2770	examen gynécologique
+T62	PHEN 2788 2797	grossesse
+T63	MEAS 2798 2814	triple évolutive
+T64	MEAS 2836 2841	36 SA
+T65	DEVI 2846 2860	colpo-sigmoïde
+T66	PROC 2892 2920	techniques d'immunoaffection
+T67	PROC 2956 2973	anesthésie locale
+T68	LIVB 2985 2993	patiente
+T69	DISO 3059 3080	hématurie traumatique
+T70	DISO 3096 3126	antécédent médico-chirurgicaux
+T71	DISO 3174 3210	pathologie thromboembolique veineuse
+T72	DISO 3251 3282	empyème pelvien cervico-méningé
+T73	ANAT 3259 3282	pelvien cervico-méningé
+T74	DISO 3319 3344	conflits abdomino-pelvien
+T75	ANAT 3328 3344	abdomino-pelvien
+T76	MEAS 3419 3430	progressive
+T77	DISO 3437 3457	masse polymyometriée
+T78	MEAS 3467 3472	17 cm
+T79	Concept_Idea 3476 3485	grand axe
+T80	DISO 3538 3561	déficit sensitivomoteur
+T81	PROC 3633 3653	examen préopératoire
+T82	PROC 3674 3698	pronostic postopératoire
+T83	PROC 3795 3819	échographie obstétricale
+T84	ANAT 3807 3819	obstétricale
+T85	MEAS 3827 3835	négative

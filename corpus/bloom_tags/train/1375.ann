@@ -1,0 +1,30 @@
+T1	LIVB 4 9	femme
+T2	MEAS 55 62	notable
+T3	DISO 80 99	syndrome infectieux
+T4	DISO 105 137	épanchement liquidien péritonéal
+T5	ANAT 117 137	liquidien péritonéal
+T6	PROC 139 147	adressée
+T7	PROC 155 179	exploration chirurgicale
+T8	DISO 186 238	masse pelvienne latéro-myometricielle carcinomateuse
+T10	DISO 256 272	œdème péritonéal
+T11	ANAT 262 272	péritonéal
+T12	DISO 278 337	atteinte ganglionnaire locorégionale érythémato-pustuleuses
+T14	DISO 364 399	carcinose rétrovésiculaire kystique
+T15	ANAT 374 399	rétrovésiculaire kystique
+T16	Hospital 401 404	RCK
+T17	PROC 410 427	bilan étiologique
+T18	PROC 446 474	prélèvement bactérioclasique
+T19	PROC 482 510	examens anatomopathologiques
+T20	DISO 540 549	malignité
+T21	LIVB 571 579	patiente
+T22	PROC 590 614	chimiothérapie adjuvante
+T23	TEMP 619 629	spécifique
+T24	DOSE 674 689	175 mg/m ²/ 3RH
+T25	TEMP 697 705	six mois
+T26	MODE 708 718	voie orale
+T27	DEVI 776 791	sonde ultrasons
+T28	ANAT 904 920	retrovésiculaire
+T29	PROC 1112 1147	scanner abdomino pelvien transfixié
+T30	ANAT 1120 1147	abdomino pelvien transfixié
+T31	PROC 1181 1217	bilan somatométrical scannographique
+T32	PROC 1239 1283	tomodensitométrie thoraco-abdomino-pelvienne

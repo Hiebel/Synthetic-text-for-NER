@@ -1,0 +1,56 @@
+T1	LIVB 16 21	fille
+T2	TEMP 25 31	11 ans
+T3	Concept_Idea 38 49	antécédents
+T4	MEAS 50 62	particuliers
+T5	PROC 73 79	amenée
+T6	Hospital 84 105	urgences pédiatriques
+T7	DISO 115 144	symptômes neuropsychiatriques
+T8	PROC 148 163	examen clinique
+T9	LIVB 177 185	patiente
+T10	MEAS 189 192	bon
+T11	Concept_Idea 193 205	état général
+T12	Concept_Idea 223 241	plan hémodynamique
+T13	PROC 251 284	examen du membre supérieur gauche
+T14	ANAT 261 284	membre supérieur gauche
+T15	Localization 278 284	gauche
+T16	DISO 288 312	déficit sensitivo-moteur
+T17	DISO 327 350	agitation psychomotrice
+T18	DISO 363 377	amaigrissement
+T19	MEAS 387 392	40 Kg
+T20	PROC 396 407	échographie
+T21	PHEN 428 448	grossesse monofoetal
+T22	TEMP 459 464	28 SA
+T23	Concept_Idea 474 483	résultats
+T24	MEAS 499 509	favorables
+T25	PROC 515 537	traitement substitutif
+T26	CHEM 539 555	acide valproique
+T27	CHEM 558 568	céfotaxime
+T28	PROC 575 599	laparotomie exploratrice
+T29	DISO 659 681	anomalie morphologique
+T30	DISO 691 709	signe hémorragique
+T31	PROC 714 733	bilan préopératoire
+T32	DISO 776 812	pancréatite anoxoblastique primitive
+T33	DISO 830 869	anémie normochrome microcytaire maligne
+T34	PROC 890 901	hémodialyse
+T35	DISO 937 944	maladie
+T36	DISO 965 993	syndrome myélodysfonctionnel
+T37	PROC 1015 1035	reprise chirurgicale
+T38	PROC 1085 1128	néphrectomie totale élargie multidissection
+T39	PROC 1168 1208	cholécystectomie partielle scanno-guidée
+T40	PROC 1222 1267	corticothérapie antimicrobienne intraveineuse
+T41	CHEM 1273 1284	glucantime®
+T42	DOSE 1300 1306	100 mg
+T43	TEMP 1306 1308	/j
+T44	PROC 1325 1354	oxygénothérapie néo adjuvante
+T45	PROC 1389 1406	geste chirurgical
+T46	PROC 1416 1439	contrôle postopératoire
+T47	MEAS 1472 1486	satisfaisantes
+T48	LIVB 1508 1516	patiente
+T49	TEMP 1531 1533	J2
+T50	TEMP 1537 1544	3 jours
+T51	LIVB 1566 1568	sa
+T52	LIVB 1569 1579	belle-mère
+T53	PROC 1590 1623	programmateur ventilatoire direct
+T54	TEMP 1666 1672	18 ans
+T55	DISO 1775 1819	pseudo-neuroleptogène néoplasique infiltrant
+T56	DISO 1837 1851	hypercalciurie

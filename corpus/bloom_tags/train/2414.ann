@@ -1,0 +1,46 @@
+T1	LIVB 28 35	patient
+T2	DISO 94 117	hypertension artérielle
+T3	PHEN 107 117	artérielle
+T4	PROC 121 136	examen clinique
+T5	LIVB 147 154	patient
+T6	Concept_Idea 179 197	plan hémodynamique
+T7	DEVI 207 226	pression artérielle
+T8	ANAT 216 226	artérielle
+T9	MEAS 237 247	100/60mmhg
+T11	MEAS 269 275	37°8 C
+T12	PROC 280 296	bilan biologique
+T13	PROC 313 328	globules blancs
+T14	MEAS 331 349	13800 éléments/mm3
+T15	PROC 351 378	numération formule sanguine
+T16	PROC 380 390	leucocytes
+T17	MEAS 393 410	14000 élément/mm3
+T18	PROC 412 422	plaquettes
+T19	MEAS 425 444	120000 éléments/mm3
+T20	PROC 447 466	protéine-C Réactive
+T21	PROC 468 471	CRP
+T22	MEAS 473 478	élevé
+T23	MEAS 481 489	120 mg/L
+T24	PROC 495 540	tomodensitométrie thoraco-abdomino- pelvienne
+T25	ANAT 513 540	thoraco-abdomino- pelvienne
+T26	PROC 576 600	cystoscopie exploratrice
+T27	PROC 608 633	étude anatomopathologique
+T28	PROC 639 663	anesthésie locorégionale
+T29	DISO 694 736	paragangliome laryngopharyngo-scléromateux
+T30	DISO 793 810	lésions kystiques
+T31	DISO 838 873	atteinte vasculo-nerveuse cervicale
+T32	ANAT 847 873	vasculo-nerveuse cervicale
+T33	PROC 898 927	échographie cardio-vasculaire
+T34	ANAT 910 927	cardio-vasculaire
+T35	DISO 940 999	adénocarcinome papillaire angioséreux érythémateux purulent
+T36	DISO 1018 1053	syndrome d’épanchement sous pleural
+T37	Localization 1041 1045	sous
+T38	ANAT 1064 1074	épiploïque
+T39	DOSE 1077 1090	environ 500ml
+T40	DISO 1114 1136	myometrorragie maligne
+T41	DISO 1156 1174	lésion hétérogènes
+T42	PROC 1207 1231	diagnostic préopératoire
+T43	DISO 1248 1272	tuberculose non invasive
+T44	PROC 1291 1309	prélèvement direct
+T45	PROC 1316 1341	recherche antibactérienne
+T46	Hospital 1352 1376	milieux bactériologiques
+T47	PROC 1382 1396	sérologies VIH

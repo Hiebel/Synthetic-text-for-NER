@@ -1,0 +1,48 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 34	3 ans
+T3	LIVB 119 121	il
+T4	LIVB 192 194	sa
+T5	PHEN 195 204	grossesse
+T6	TEMP 260 270	8 semaines
+T7	DISO 286 299	consanguinité
+T8	DISO 306 325	contage obstétrical
+T9	PROC 445 467	consultation prénatale
+T10	DISO 483 509	problème gestationnel aigu
+T11	PROC 588 608	examen gynécologique
+T12	Hospital 746 786	accouchementsoins intensifs pédiatriques
+T13	DISO 1108 1142	troubles pubertaires polymalformés
+T14	DISO 1235 1260	caractère dysfonctionnels
+T15	TEMP 1347 1353	14 ans
+T16	PROC 1376 1400	chimiothérapie adjuvante
+T17	PROC 1414 1443	anticoagulation intraveineuse
+T18	PROC 1456 1494	kinésithérapie péridurale endovaginale
+T19	TEMP 1522 1527	1mois
+T20	PROC 1543 1578	fistule vaginale interne fistulisée
+T22	PROC 1684 1787	hémodialyse transfixiante biquotidienne fractionnée multiphospholipidique segmentaire substitutive BDCT
+T23	PROC 1802 1834	oxygénothérapie antithrombotique
+T24	DISO 1859 1888	anomalie clinico-radiologique
+T25	MEAS 1943 1950	simples
+T26	PROC 1993 2029	hystérectomie totale élargie in situ
+T27	Localization 2051 2073	extrémités supérieures
+T31	LIVB 2477 2483	malade
+T32	PROC 2488 2499	hospitalisé
+T33	Hospital 2503 2518	bloc opératoire
+T34	PROC 2524 2552	prise en charge anesthésique
+T35	PROC 2556 2580	réanimation chirurgicale
+T36	PROC 2586 2621	rachianesthésie du membre inferieur
+T37	ANAT 2605 2621	membre inferieur
+T38	PROC 2630 2657	contrôle neuropsychiatrique
+T39	DISO 2673 2686	particularité
+T40	PROC 2699 2717	bilan radiologique
+T41	DISO 2742 2780	syndrome cérébelleux sensitivo-motrice
+T42	Concept_Idea 2782 2791	score IRQ
+T43	MEAS 2793 2801	6 points
+T44	TEMP 2854 2861	4 jours
+T45	MEAS 2871 2896	plus ou moins progressive
+T46	Concept_Idea 3029 3044	aspect clinique
+T47	DISO 3069 3084	symptomatologie
+T48	PROC 3089 3109	traitement palliatif
+T49	PROC 3115 3197	corticoïde aminotransfusion scampo veineuse intrathoracique séquellaire percutanée
+T50	CHEM 3289 3318	antidiabétique non stéroïdien
+T51	DOSE 3397 3407	20 mg/jour
+T52	DOSE 3411 3424	3 gélules /kg

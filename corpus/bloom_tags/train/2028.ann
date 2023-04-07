@@ -1,0 +1,35 @@
+T1	LIVB 4 12	patiente
+T2	Localization 29 38	droitière
+T3	TEMP 65 71	3 mois
+T4	DISO 77 101	empyème pelvien infiltré
+T5	ANAT 85 101	pelvien infiltré
+T6	Concept_Idea 146 163	état nutritionnel
+T7	DISO 176 192	signes cliniques
+T8	DISO 229 238	tabagisme
+T9	PROC 243 258	examen clinique
+T10	LIVB 272 280	patiente
+T11	MEAS 288 293	75 kg
+T12	DISO 298 309	douloureuse
+T13	MEAS 319 324	45 cm
+T14	Concept_Idea 328 337	grand axe
+T15	MEAS 346 350	5 cm
+T16	Concept_Idea 354 365	profondeurs
+T18	ANAT 392 421	rétrovésicale latérale droite
+T20	Concept_Idea 437 445	diamètre
+T21	MEAS 457 472	progressivement
+T22	Concept_Idea 476 482	volume
+T23	DISO 490 505	symptomatologie
+T24	DISO 534 555	détresse respiratoire
+T25	PHEN 543 555	respiratoire
+T26	MEAS 570 576	rapide
+T27	DISO 590 606	dyspnée d'effort
+T28	MEAS 621 631	importante
+T29	DISO 677 697	méningo-mésentérique
+T30	PROC 713 729	examen somatique
+T31	DISO 741 754	particularité
+T32	PROC 768 804	auscultation cardio-vasculo-nerveuse
+T33	ANAT 781 804	cardio-vasculo-nerveuse
+T34	DISO 827 853	lésions nodulo-pustuleuses
+T35	ANAT 882 903	corps cutanéo-muqueux
+T36	LIVB 932 939	malades
+T37	DISO 952 964	tuberculeuse

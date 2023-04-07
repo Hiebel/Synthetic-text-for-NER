@@ -1,0 +1,39 @@
+T1	LIVB 16 24	patiente
+T2	DISO 58 86	hémodialyse thromboembolique
+T3	DISO 91 112	diabète insulinorénal
+T4	PROC 117 123	traité
+T5	DEVI 128 146	dialyse artérielle
+T6	ANAT 136 146	artérielle
+T7	MODE 157 167	voie orale
+T8	CHEM 182 194	méthotrexate
+T9	CHEM 207 225	hydroxychloroquine
+T10	LIVB 229 233	elle
+T11	PROC 270 304	réhydratation hydro-électrolytique
+T12	PROC 329 356	adjournement postopératoire
+T13	DISO 387 405	douleur abdominale
+T14	ANAT 395 405	abdominale
+T15	MEAS 420 426	rapide
+T16	TEMP 436 452	depuis 48 heures
+T17	MEAS 462 470	brulante
+T18	MEAS 482 497	progressivement
+T19	Concept_Idea 501 507	volume
+T20	DISO 523 537	amaigrissement
+T21	MEAS 548 553	15 kg
+T22	PROC 569 584	examen clinique
+T23	LIVB 602 610	patiente
+T24	Concept_Idea 625 643	plan hémodynamique
+T25	LIVB 651 655	elle
+T26	DISO 667 700	sensibilité épigastrique bilieuse
+T27	ANAT 679 700	épigastrique bilieuse
+T28	PROC 753 783	échographie abdomino pelvienne
+T29	ANAT 765 783	abdomino pelvienne
+T30	DISO 800 856	masse tissulaire hypo échoguidée latéro-utérine centrale
+T31	Localization 848 856	centrale
+T32	MEAS 866 870	13cm
+T33	Concept_Idea 874 883	grand axe
+T34	ANAT 908 925	rebord œsophagien
+T35	DISO 948 985	grossesse gémellaire polymyometrielle
+T36	ANAT 1001 1029	méso-sigmoïde péritissulaire
+T37	MEAS 1038 1044	T3N2M0
+T38	PROC 1061 1084	étude histopathologique
+T39	DISO 1109 1134	lymphangiome hypertrophié

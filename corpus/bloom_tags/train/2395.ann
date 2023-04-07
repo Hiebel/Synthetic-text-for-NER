@@ -1,0 +1,39 @@
+T1	LIVB 28 38	nouveau-né
+T2	PROC 65 71	traité
+T3	CHEM 80 91	médicaments
+T4	CHEM 103 121	méthylprednisolone
+T5	DOSE 123 130	3 mg/kg
+T6	TEMP 130 132	/j
+T7	CHEM 135 156	corticoïdes inhalants
+T8	CHEM 170 203	anti-inflammatoire non stéroïdien
+T9	DISO 242 273	méningoencephalopathie kystique
+T10	DISO 291 307	hyperleucocytose
+T11	MEAS 319 345	14500 éléments blancs/mm 3
+T12	LIVB 376 388	petite fille
+T13	DISO 428 463	chondromatose congénitale nodulaire
+T14	Localization 474 478	sous
+T15	DISO 519 554	pemphème érythémateux inflammatoire
+T16	DISO 559 574	prurigo bulleux
+T17	DISO 605 633	prise médicamenteuse toxique
+T18	DISO 644 667	malformations associées
+T19	DISO 696 706	métastases
+T20	MEAS 813 821	fortuite
+T21	PROC 953 981	radiologiques préopératoires
+T23	CHEM 1395 1415	produit de contraste
+T24	ANAT 1500 1514	paroi grêlique
+T25	MEAS 1598 1606	17/10 cm
+T26	ANAT 1639 1669	structures cardiaques utérines
+T27	MEAS 1705 1711	12/5cm
+T28	ANAT 1743 1763	membranes ovariennes
+T29	MEAS 1782 1794	volumineuses
+T30	Concept_Idea 1809 1820	profondeurs
+T31	MEAS 1873 1888	120 centimètres
+T32	MEAS 1922 1931	plusieurs
+T33	PROC 1974 1996	consultation prénatale
+T34	LIVB 2004 2012	patiente
+T35	MEAS 2154 2171	de taille globale
+T36	Concept_Idea 2157 2171	taille globale
+T37	MEAS 2182 2187	4650g
+T38	DISO 2259 2276	kystes hydatiques
+T39	ANAT 2291 2298	ovaires
+T40	DISO 2349 2378	épigastrite ulcéro-nécrotique

@@ -1,0 +1,24 @@
+T1	PROC 2 25	examen pleuropulmonaire
+T2	ANAT 9 25	pleuropulmonaire
+T3	DISO 41 52	tachycardie
+T4	MEAS 55 67	110 batt/min
+T5	Concept_Idea 72 83	température
+T6	MEAS 93 99	37.2°c
+T7	LIVB 101 105	elle
+T8	DISO 120 162	syndrome d'épanchement péribuccal purulent
+T10	PHEN 170 186	râles crépitants
+T11	MEAS 187 212	de plus en plus fréquents
+T12	ANAT 226 248	membre inférieur droit
+T13	Localization 243 248	droit
+T14	TEMP 258 274	depuis deux mois
+T15	DISO 287 296	symptômes
+T16	DISO 313 325	hyperthermie
+T17	PROC 338 372	auscultation pulmonaire systolique
+T18	ANAT 351 372	pulmonaire systolique
+T19	DISO 406 437	souffrance ventriculaire droite
+T20	ANAT 417 437	ventriculaire droite
+T21	Localization 431 437	droite
+T22	DISO 454 482	myocardiopathie hypertrophié
+T23	PROC 488 507	pression artérielle
+T24	ANAT 497 507	artérielle
+T25	MEAS 526 537	120/70 mmhg

@@ -1,0 +1,118 @@
+T1	Concept_Idea 27 38	antécédents
+T2	DISO 39 51	particuliers
+T3	DISO 80 96	dyspnée d’effort
+T4	TEMP 106 121	depuis 10 jours
+T5	PROC 127 141	interrogatoire
+T6	LIVB 146 154	patiente
+T7	DISO 165 181	râles crépitants
+T8	ANAT 195 217	membre supérieur droit
+T9	Localization 212 217	droit
+T10	MEAS 247 254	120 bpm
+T11	Concept_Idea 310 322	état général
+T12	DISO 328 334	fièvre
+T13	MEAS 337 341	39°C
+T14	PROC 347 364	tomodensitométrie
+T15	PROC 365 379	TDM) cérébrale
+T16	ANAT 370 379	cérébrale
+T17	LIVB 409 415	malade
+T18	PROC 419 444	étude anatomopathologique
+T19	DISO 476 506	processus carcinomateux cutané
+T20	MEAS 526 531	14 cm
+T21	Concept_Idea 535 544	grand axe
+T22	ANAT 563 604	région temporale postéro-temporale gauche
+T23	Localization 598 604	gauche
+T24	MEAS 614 627	8 centimètres
+T25	Concept_Idea 631 640	petit axe
+T26	ANAT 676 708	parties molles cervicale gauches
+T27	Localization 701 708	gauches
+T28	DEVI 757 776	seringue électrique
+T29	Concept_Idea 840 848	diamètre
+T30	PHEN 854 876	suites postopératoires
+T31	MEAS 885 892	simples
+T32	PROC 898 917	anesthésie générale
+T33	PROC 921 951	traitement médical substitutif
+T34	CHEM 956 974	bronchodilatateurs
+T35	DOSE 1028 1031	2 g
+T36	CHEM 1035 1046	paracétamol
+T37	CHEM 1059 1071	antibiotique
+T38	CHEM 1082 1092	aminosides
+T39	CHEM 1095 1109	gentaméthasone
+T40	CHEM 1112 1123	vincristine
+T41	CHEM 1126 1139	métronidazole
+T42	CHEM 1142 1160	acide clavulanique
+T43	CHEM 1163 1175	pyrazinamide
+T44	CHEM 1178 1189	fibrinolyne
+T45	CHEM 1192 1205	phénobarbital
+T46	CHEM 1208 1220	oxaliplatine
+T47	CHEM 1223 1233	antalgique
+T48	CHEM 1236 1251	fluoroquinolone
+T49	CHEM 1254 1268	céphalosporine
+T50	CHEM 1271 1280	imipenème
+T51	CHEM 1283 1294	hydroxyzine
+T52	CHEM 1297 1305	aspirine
+T53	CHEM 1308 1316	morphine
+T54	CHEM 1319 1329	propanolol
+T55	CHEM 1332 1341	étoposide
+T56	CHEM 1344 1353	nivaquine
+T57	CHEM 1356 1368	tétracycline
+T58	CHEM 1371 1382	rifampicine
+T59	CHEM 1385 1396	aréflexique
+T60	CHEM 1399 1409	prurigoone
+T61	CHEM 1412 1425	cyperméthrine
+T62	CHEM 1428 1438	isoniazole
+T63	CHEM 1441 1457	immunoglobulines
+T64	CHEM 1460 1479	monohydrocannabinol
+T65	CHEM 1482 1496	neuroleptiques
+T66	CHEM 1499 1514	antispasmodique
+T67	CHEM 1517 1533	ethambutolactone
+T68	CHEM 1536 1550	hydrocortisone
+T69	CHEM 1553 1567	metformine B12
+T70	CHEM 1570 1580	cefotaxime
+T71	CHEM 1583 1594	néostigmine
+T72	CHEM 1597 1608	nicardipine
+T73	CHEM 1611 1626	méthalothiazine
+T74	CHEM 1629 1655	furosémide acétyle sodique
+T75	CHEM 1658 1668	vitamine K
+T76	CHEM 1671 1680	œstradiol
+T77	CHEM 1683 1707	héparine non fractionnée
+T78	CHEM 1710 1721	ciprofurant
+T79	CHEM 1724 1752	carbonate dietroprogestérone
+T80	CHEM 1755 1768	cotrimoxazole
+T81	CHEM 1771 1784	noradrénaline
+T82	CHEM 1787 1800	thiocyanidine
+T83	CHEM 1803 1813	carbamates
+T84	CHEM 1816 1827	potramycine
+T85	CHEM 1864 1884	taxanesulfaméthasone
+T86	CHEM 1887 1898	ceftriaxone
+T87	CHEM 1901 1923	atropine platinumolide
+T88	CHEM 1926 1960	ritracycline Rhésus antimicrobiens
+T89	CHEM 1963 1986	lidocavir ® chloroquine
+T90	CHEM 1989 1998	cortisone
+T92	Concept_Idea 2130 2142	état général
+T93	PROC 2152 2180	saturation pulsée en oxygène
+T94	MEAS 2183 2187	40°C
+T95	DISO 2208 2246	dilatation des voies aériennes gauches
+T96	ANAT 2223 2246	voies aériennes gauches
+T97	Localization 2239 2246	gauches
+T98	ANAT 2260 2290	bifurcation transoesophagienne
+T99	LIVB 2307 2315	patiente
+T100	PROC 2326 2338	hospitalisée
+T101	Hospital 2347 2367	centre psychiatrique
+T102	PROC 2375 2394	examens biologiques
+T103	DISO 2412 2439	syndrome neuropsychiatrique
+T104	DISO 2455 2468	consanguinité
+T105	DISO 2475 2497	récidive psychomotrice
+T106	LIVB 2506 2514	patiente
+T107	Concept_Idea 2523 2541	plan macroscopique
+T108	DISO 2566 2590	symptomatologie clinique
+T109	DISO 2614 2650	processus lésionnel sensitivo-moteur
+T110	Concept_Idea 2704 2718	plan corporéal
+T111	Concept_Idea 2745 2763	aspect étiologique
+T112	DISO 2802 2832	symptomatologie obsessionnelle
+T113	TEMP 3215 3222	16 mois
+T114	LIVB 3419 3424	femme
+T115	MEAS 3459 3463	deux
+T116	LIVB 3464 3471	enfants
+T117	LIVB 3497 3511	petits-enfants
+T118	TEMP 3535 3542	18 mois
+T119	TEMP 3546 3553	24 mois

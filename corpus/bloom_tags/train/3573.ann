@@ -1,0 +1,22 @@
+T1	LIVB 33 41	patiente
+T2	DISO 100 138	hyperproteinorachromégalie congénitale
+T3	DEVI 175 196	attélateur électrique
+T4	ANAT 213 249	fosse cérébrale dorsolaterale gauche
+T5	Localization 243 249	gauche
+T6	DISO 270 287	récidive tumorale
+T7	DISO 310 332	anomalies métaboliques
+T8	DISO 357 367	cholestase
+T9	PROC 573 600	scanner abdomino-thoracique
+T10	ANAT 581 600	abdomino-thoracique
+T11	Hospital 637 657	milieux hospitaliers
+T12	PROC 687 707	critères diagnostics
+T13	PROC 721 755	échographie pelvienne exploratrice
+T14	ANAT 733 755	pelvienne exploratrice
+T15	LIVB 776 784	patiente
+T16	DISO 801 839	masse polymyomateuse nodulaire ulcérée
+T17	MEAS 849 854	24 cm
+T18	Concept_Idea 858 867	grand axe
+T19	PROC 917 926	injection
+T20	DOSE 930 936	0,5 ml
+T21	CHEM 940 960	produit de contraste
+T22	ANAT 1010 1035	organes para-vésiculaires

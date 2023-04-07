@@ -1,0 +1,20 @@
+T1	PROC 4 28	laparotomie exploratrice
+T2	PROC 47 73	examen anatomopathologique
+T3	DISO 95 130	carcinome épidermoïde du sein droit
+T4	ANAT 120 130	sein droit
+T5	Localization 125 130	droit
+T6	MEAS 138 144	T4N0Mx
+T7	MEAS 153 161	nombreux
+T8	DISO 162 172	métastases
+T9	ANAT 187 209	ganglions lymphatiques
+T10	ANAT 218 242	veine cave superficielle
+T11	Localization 229 242	superficielle
+T12	ANAT 256 285	angle crico-thyroïdien gauche
+T13	Localization 279 285	gauche
+T14	LIVB 290 296	malade
+T15	PROC 301 306	sorti
+T16	TEMP 313 323	6 semaines
+T17	PROC 329 368	traitement médical type gammaglobulines
+T18	CHEM 353 368	gammaglobulines
+T19	Concept_Idea 374 383	résultats
+T20	DISO 394 407	particularité

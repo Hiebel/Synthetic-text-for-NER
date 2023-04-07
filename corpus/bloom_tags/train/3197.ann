@@ -1,0 +1,35 @@
+T1	LIVB 4 9	femme
+T2	PHEN 37 46	grossesse
+T3	PROC 51 57	suivie
+T4	PROC 66 72	admise
+T5	Hospital 77 85	urgences
+T6	DISO 121 148	douleur abdomino- pelvienne
+T7	ANAT 129 148	abdomino- pelvienne
+T8	TEMP 157 174	le jour précédant
+T9	MEAS 211 225	plus accentuée
+T10	MEAS 237 252	progressivement
+T11	Concept_Idea 256 262	volume
+T12	LIVB 292 300	patiente
+T13	DISO 319 350	carcinome péritonéale infiltrat
+T14	ANAT 329 350	péritonéale infiltrat
+T15	DISO 356 383	adénopathies hypogastriques
+T16	ANAT 369 383	hypogastriques
+T17	PROC 398 418	anesthésie pelvienne
+T18	ANAT 409 418	pelvienne
+T19	DISO 491 510	facteur déclenchant
+T20	DISO 538 565	souffrance fœtale néonatale
+T21	LIVB 567 571	elle
+T22	DISO 612 637	hypochondre droit ulcérée
+T23	Localization 624 629	droit
+T24	DISO 653 689	masse parathyroïdienne hypogastrique
+T25	ANAT 659 689	parathyroïdienne hypogastrique
+T26	MEAS 698 709	douloureuse
+T27	PROC 716 722	palper
+T28	DISO 818 831	symptomatisme
+T29	DISO 843 897	neuropolynévrose sensitivomotrice prurigineuse maligne
+T30	DISO 948 978	métastase pulmonaire primitive
+T31	ANAT 958 978	pulmonaire primitive
+T32	PROC 1034 1039	reçue
+T33	DISO 1153 1175	dépression intestinale
+T34	ANAT 1164 1175	intestinale
+T35	MEAS 1228 1244	spaciocentricaux

@@ -1,0 +1,90 @@
+T1	LIVB 20 28	patiente
+T2	PHEN 45 65	grossesse gémellaire
+T3	PROC 87 104	geste chirurgical
+T4	ANAT 120 142	utérus cervico-vaginal
+T5	DISO 173 196	traumatisme malformatif
+T6	LIVB 205 212	famille
+T7	TEMP 222 235	depuis 3 mois
+T8	PROC 241 259	traitement curatif
+T9	CHEM 270 281	Cyclosérine
+T10	DOSE 283 289	400 mg
+T11	TEMP 289 291	/j
+T12	CHEM 294 313	Valproate de sodium
+T13	DOSE 315 321	800 mg
+T14	TEMP 321 323	/j
+T15	CHEM 326 346	Aspasulfaméthoxazole
+T16	DOSE 348 354	600 mg
+T17	TEMP 354 356	/j
+T18	CHEM 359 371	Pyrazinamide
+T19	DOSE 373 379	200 mg
+T20	TEMP 379 381	/j
+T21	CHEM 384 400	Ethynylcarbamide
+T22	DOSE 402 410	20 mg/kg
+T23	TEMP 410 412	/j
+T24	CHEM 415 426	Ceftriaxone
+T25	DOSE 428 434	100 mg
+T26	TEMP 434 436	/j
+T27	CHEM 439 448	Clonidine
+T28	DOSE 450 455	60 mg
+T29	TEMP 455 457	/j
+T30	CHEM 460 473	Métronidazole
+T31	DOSE 475 481	160 mg
+T32	TEMP 481 483	/j
+T33	CHEM 486 502	Erythrométholone
+T34	DOSE 504 510	1mg/kg
+T35	TEMP 510 512	/j
+T36	CHEM 515 528	Phénobarbital
+T37	DOSE 530 535	40 mg
+T38	TEMP 535 537	/j
+T39	CHEM 540 551	Trifentanyl
+T40	DOSE 553 560	2 µg/kg
+T41	TEMP 560 562	/j
+T42	CHEM 565 576	Bupivacaine
+T43	DOSE 578 584	150 mg
+T44	TEMP 584 586	/j
+T45	CHEM 589 599	Sufentanil
+T46	DOSE 601 610	0,5 µg/kg
+T47	TEMP 610 612	/j
+T48	CHEM 615 625	Furosémide
+T49	DOSE 627 634	30µg/kg
+T50	TEMP 634 636	/j
+T51	CHEM 639 651	Nicardiprine
+T52	DOSE 653 660	3 µg/kg
+T53	TEMP 660 662	/j
+T54	CHEM 665 675	Isoflurane
+T55	DOSE 677 679	4%
+T56	MODE 681 693	intraveineux
+T57	LIVB 756 764	patiente
+T58	DISO 874 890	métanéphrétinome
+T59	DISO 924 952	pathologies dermatophytiques
+T60	Hospital 971 1001	structures médico-chirurgicaux
+T61	DISO 1015 1041	carcinose parathyroïdienne
+T62	ANAT 1025 1041	parathyroïdienne
+T63	MEAS 1050 1057	type II
+T64	DISO 1222 1247	lymphangiome hypertrophié
+T65	PROC 1250 1271	échographie pelvienne
+T66	ANAT 1262 1271	pelvienne
+T68	MEAS 1368 1381	environ 10 cm
+T69	Concept_Idea 1385 1394	grand axe
+T70	ANAT 1414 1428	méso-péritoine
+T71	ANAT 1455 1486	organes herniaires mésocoliques
+T72	ANAT 1513 1525	sphinctérien
+T73	MEAS 1564 1579	progressivement
+T74	Concept_Idea 1583 1589	taille
+T75	MEAS 1601 1605	50mm
+T76	Concept_Idea 1609 1618	grand axe
+T77	DISO 1638 1687	adénopathies hypogastrocnémiennes basithoraciques
+T78	ANAT 1651 1687	hypogastrocnémiennes basithoraciques
+T79	DISO 1697 1705	tumorale
+T80	DEVI 1726 1745	sonde nasogastrique
+T82	TEMP 1787 1792	12ans
+T83	DISO 1818 1833	symptomatologie
+T84	MEAS 1842 1856	plus accentuée
+T85	TEMP 1870 1875	6 ans
+T86	PROC 1891 1906	examen clinique
+T87	DISO 1918 1931	particularité
+T88	PROC 1936 1988	ponction exploratrice des liquides pleuro-rachidiens
+T89	ANAT 1962 1988	liquides pleuro-rachidiens
+T90	DISO 2033 2048	kyste hydatique
+T91	ANAT 2062 2070	pancréas
+T92	PROC 2167 2177	diagnostic

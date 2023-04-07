@@ -1,0 +1,32 @@
+T1	LIVB 16 21	femme
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 63	notables
+T4	PROC 65 71	admise
+T5	Hospital 76 84	urgences
+T6	DISO 94 124	douleurs épigastriques aiguées
+T7	ANAT 103 116	épigastriques
+T8	TEMP 134 152	depuis une semaine
+T9	PROC 156 171	examen clinique
+T10	PROC 176 185	admission
+T11	LIVB 199 207	patiente
+T12	MEAS 211 214	bon
+T13	Concept_Idea 215 233	état hémodynamique
+T14	PHEN 237 250	respiratoires
+T15	ANAT 269 280	flanc droit
+T16	Localization 275 280	droit
+T17	DISO 298 313	pâleur purulent
+T18	DISO 335 350	kyste hydatique
+T19	PROC 355 380	scanner abdomino- pelvien
+T20	ANAT 363 380	abdomino- pelvien
+T22	CHEM 433 440	IOMBIO®
+T23	PROC 448 471	injection intraveineuse
+T24	DOSE 475 479	4 ml
+T25	CHEM 483 494	propranolol
+T26	DISO 522 555	carcinome kystique péripéritonéal
+T27	ANAT 570 589	parois intestinales
+T28	MEAS 599 603	3 cm
+T29	Concept_Idea 607 616	grand axe
+T30	MEAS 621 625	2 cm
+T31	Concept_Idea 629 642	petite taille
+T32	Concept_Idea 645 651	aspect
+T33	MEAS 652 661	hypodense

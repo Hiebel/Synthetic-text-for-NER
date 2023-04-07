@@ -1,0 +1,44 @@
+T1	DISO 50 125	méningo-encéphalite tuberculeuse évolutive compliquée d'insuffisance rénale
+T2	ANAT 119 125	rénale
+T3	PROC 155 167	accouchement
+T4	DISO 271 288	anomalies fœtales
+T5	DISO 313 337	hyperthyroïdie néonatale
+T6	MEAS 348 351	38%
+T7	TEMP 367 372	32 SA
+T8	DISO 388 448	anémie hypochrome microcytaire normocytaire polygloblastique
+T9	PROC 480 502	transfusions sanguines
+T10	PROC 523 544	monitorage biphasique
+T11	CHEM 546 580	amoxicilline acide acétyle glyquée
+T12	PROC 586 616	bilan biologique préopératoire
+T13	DISO 645 661	hyperleucocytose
+T14	MEAS 664 684	131000 éléments/mm 3
+T15	DISO 690 712	syndrome inflammatoire
+T16	DISO 723 734	carcinomies
+T17	DISO 768 788	diabète gestationnel
+T18	LIVB 831 841	nourrisson
+T19	PROC 847 869	TDM thoraco-abdominale
+T20	ANAT 851 869	thoraco-abdominale
+T21	DISO 911 977	lésion tissulaire intraparenchymateuse anéchogène érythroblastique
+T22	DISO 991 1030	hémophagocytose familiale hétérotopique
+T23	ANAT 1064 1103	fosses digestives fundiques anténatales
+T24	ANAT 1118 1150	veines rénales jugulo-cardiaques
+T25	PROC 1155 1188	scanner obstétrico-gastro-pelvien
+T26	ANAT 1163 1188	obstétrico-gastro-pelvien
+T27	DISO 1202 1222	pancytopénie ulcérée
+T28	DISO 1238 1280	dysmorphie cervicale bilatérale inférieure
+T29	Localization 1259 1280	bilatérale inférieure
+T30	DISO 1295 1387	distension ventriculaire gauches fronto-temporo ventriculaire homolatérale supérieure droite
+T33	Localization 1357 1387	homolatérale supérieure droite
+T34	PROC 1410 1425	prise en charge
+T35	PROC 1430 1451	recherche étiologique
+T36	MEAS 1470 1482	particulière
+T37	DISO 1513 1536	malignité morphologique
+T38	DISO 1546 1572	métaphoriquement évocateur
+T39	DISO 1594 1623	symptômes neuropsychiatriques
+T40	DISO 1672 1702	céphalées paroxystiques aiguës
+T41	PROC 1736 1746	traitement
+T42	PROC 1750 1775	étude immunohistochimique
+T43	DISO 1800 1849	léiomyome mucineux myxoïde infiltrant périnerveux
+T44	DISO 1868 1913	perforation trophoblastique hyperprédominante
+T45	ANAT 1932 1958	région lombaire antérieure
+T46	Localization 1948 1958	antérieure

@@ -1,0 +1,29 @@
+T1	LIVB 15 25	adolescent
+T2	TEMP 29 35	12 ans
+T3	Concept_Idea 42 53	antécédents
+T4	MEAS 54 66	particuliers
+T5	PROC 68 74	admise
+T6	Hospital 79 87	urgences
+T7	DISO 97 115	détresse digestive
+T8	PHEN 106 115	digestive
+T9	TEMP 125 139	depuis 3 jours
+T10	PROC 143 158	examen clinique
+T11	LIVB 171 178	patient
+T12	MEAS 182 185	bon
+T13	Concept_Idea 186 198	état général
+T14	DISO 208 238	douleurs épigastriques aiguées
+T15	ANAT 217 230	épigastriques
+T16	PROC 244 253	palpation
+T17	ANAT 267 278	flanc droit
+T18	Localization 273 278	droit
+T19	PROC 283 306	scanner abdominopelvien
+T20	ANAT 291 306	abdominopelvien
+T21	DISO 323 396	masse tissulaire hypo-échogène hétérogène latéro péritonéale sus cœlestée
+T22	Localization 384 387	sus
+T23	CHEM 419 432	sulfasalazine
+T25	MEAS 469 474	46 cm
+T26	Concept_Idea 478 487	grand axe
+T27	MEAS 492 497	23 cm
+T28	Concept_Idea 501 514	petite taille
+T29	ANAT 529 556	hémi-diaphragme iléo-caecal
+T30	DISO 593 618	paragangliome lithiasique

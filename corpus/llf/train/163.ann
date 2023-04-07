@@ -1,0 +1,11 @@
+T1	LIVB 3 10	patient
+T2	PROC 29 43	IRM
+T3	ANAT 33 43	médullaire
+T4	ANAT 59 83	interligne
+T5	Localization 77 83	gauche
+T6	DISO 110 125	lésion
+T7	MEAS 172 178	totale
+T8	DISO 182 202	syndrome
+T9	ANAT 191 202	cérébelleux
+T10	MEAS 217 222	nette
+T11	Concept_Idea 236 244	clinique

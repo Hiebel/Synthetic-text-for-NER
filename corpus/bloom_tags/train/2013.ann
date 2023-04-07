@@ -1,0 +1,33 @@
+T1	LIVB 21 27	enfant
+T2	TEMP 31 37	13 ans
+T3	DISO 57 87	douleurs thoraciques crépantes
+T4	ANAT 66 87	thoraciques crépantes
+T5	TEMP 110 128	depuis deux années
+T6	PROC 134 149	examen clinique
+T7	LIVB 151 154	son
+T8	Concept_Idea 155 167	état général
+T10	ANAT 221 263	basithoraciques basithoracique bilatérales
+T11	Localization 252 263	bilatérales
+T12	MEAS 275 290	progressivement
+T13	Concept_Idea 294 300	taille
+T14	MEAS 310 319	sensibles
+T15	DISO 335 356	détresse respiratoire
+T16	PHEN 344 356	respiratoire
+T17	MEAS 452 464	plus marquée
+T18	DEVI 488 511	équilibre psychomotrice
+T19	Concept_Idea 565 582	état neurologique
+T20	PROC 623 650	explorations thérapeutiques
+T21	CHEM 672 682	furosémide
+T22	CHEM 684 695	nicardipine
+T23	CHEM 697 707	sufentanil
+T24	CHEM 709 720	morphindone
+T25	CHEM 722 736	hydrocortisone
+T26	CHEM 738 748	dobutamine
+T27	CHEM 750 758	pranolol
+T28	CHEM 760 773	cisatracurium
+T29	CHEM 775 788	triamcinolone
+T30	CHEM 790 802	ethylethrine
+T31	CHEM 804 817	noradrénaline
+T32	CHEM 819 832	catécholamine
+T33	CHEM 834 857	méthyl-dopahydroquinone
+T34	CHEM 859 878	paragangliotrophine

@@ -1,0 +1,26 @@
+T1	LIVB 4 9	femme
+T2	PROC 50 77	tumorectomie colpico-cæcale
+T3	ANAT 63 77	colpico-cæcale
+T4	PROC 83 119	annexectomie bilatérale endoscopique
+T5	Localization 96 106	bilatérale
+T6	PROC 142 166	examen histopathologique
+T7	DISO 169 204	adénocarcinome carcinomateux séreux
+T8	MEAS 212 223	stade I-IIb
+T9	MEAS 250 254	3 cm
+T10	Concept_Idea 258 276	grand axe clinique
+T11	DISO 330 340	métastases
+T12	PROC 358 381	radiothérapie adjuvante
+T13	PROC 427 459	étage pleurésie-abdomino pelvien
+T14	PROC 464 485	recherche étiologique
+T15	MEAS 500 508	négative
+T16	LIVB 520 528	patiente
+T18	ANAT 609 628	jugulo-encéphalique
+T19	DISO 661 691	symptomatologie démyélinisante
+T20	TEMP 701 714	depuis 3 mois
+T21	DISO 743 774	déficit moteur sensitivomotrice
+T22	MEAS 789 800	progressive
+T23	DISO 814 830	dyspnée d'effort
+T24	DISO 893 918	hypotension surrénalienne
+T25	ANAT 905 918	surrénalienne
+T26	DISO 928 940	fistulisante
+T27	MEAS 973 987	insupportables

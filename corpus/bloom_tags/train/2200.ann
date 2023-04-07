@@ -1,0 +1,69 @@
+T1	LIVB 28 35	patient
+T2	DISO 71 98	hyperparathyroïdie primaire
+T3	DISO 134 162	hypoparathyroïdie secondaire
+T4	CHEM 168 183	lithiocortisone
+T5	DOSE 185 194	600 mg/m²
+T6	TEMP 194 199	/jour
+T7	PROC 204 233	échographie abdominopelvienne
+T8	ANAT 216 233	abdominopelvienne
+T9	LIVB 263 271	patiente
+T10	DISO 277 349	hypertrophie épigastrique péripancréatique latéro-duodénale hypophœlitée
+T12	MEAS 359 364	46 mm
+T13	Concept_Idea 368 382	grand diamètre
+T14	MEAS 387 391	28mm
+T15	Concept_Idea 395 404	petit axe
+T16	DISO 409 428	volvulus péritonéal
+T17	ANAT 418 428	péritonéal
+T18	ANAT 457 472	hile iléo-cæcal
+T19	DISO 522 545	anomalies hydro-aérique
+T20	DISO 558 581	kyste hydatique nécrosé
+T21	DISO 700 720	maladie neurologique
+T22	DISO 727 750	consanguinité familiale
+T23	PROC 754 773	bilan préopératoire
+T24	DISO 809 847	syndrome d’épanchement intrapéritonéal
+T25	ANAT 832 847	intrapéritonéal
+T26	PROC 871 916	tomodensitométrie thoraco- abdomino-pelvienne
+T27	ANAT 889 916	thoraco- abdomino-pelvienne
+T29	MODE 1041 1046	bolus
+T30	CHEM 1050 1070	produit de contraste
+T31	ANAT 1092 1120	structures pyélocaliculaires
+T32	ANAT 1142 1172	membranes intestinales iléales
+T33	MEAS 1208 1225	supérieure à 2 cm
+T34	ANAT 1261 1297	cavité abdominale recto-sigmoïdienne
+T35	ANAT 1320 1351	fosse ombilicale rétro-lombaire
+T36	ANAT 1383 1401	glandes herniaires
+T37	DISO 1416 1437	troubles métaboliques
+T38	DISO 1468 1492	formule tumorale maligne
+T39	PROC 1504 1528	examen histopathologique
+T40	DISO 1542 1618	tissules épithélo-gigantocellulaires hypertrophiés éosinophile nécrolytiques
+T41	DISO 1722 1736	neuroendocrine
+T42	DISO 1765 1779	carcinomateuse
+T43	PROC 1785 1831	ponction pleurésie transpariétale scannoguidée
+T45	PROC 1832 1836	PTSC
+T46	DEVI 1879 1912	sonde transpariétale bipulmonaire
+T48	PROC 2141 2166	traitement antibacillaire
+T49	CHEM 2172 2190	méthylprednisolone
+T50	CHEM 2215 2241	Cyclosérine /dexaméthasone
+T51	MEAS 2376 2386	importante
+T52	Concept_Idea 2478 2495	mesures curatives
+T53	LIVB 2512 2519	patient
+T54	DISO 2540 2565	antécédents pathologiques
+T55	MEAS 2566 2574	notables
+T56	PROC 2576 2580	reçu
+T57	Hospital 2584 2614	service d'accueil des urgences
+T58	DISO 2623 2660	traumatisme du sinus maxillaire droit
+T59	ANAT 2638 2660	sinus maxillaire droit
+T60	Localization 2655 2660	droit
+T61	TEMP 2670 2687	depuis deux jours
+T62	PHEN 2723 2735	état général
+T63	DISO 2741 2755	amaigrissement
+T64	MEAS 2766 2770	4 kg
+T65	PROC 2774 2789	examen clinique
+T66	DISO 2806 2838	masse latéro-utérine hypotonique
+T67	MEAS 2850 2865	progressivement
+T68	Concept_Idea 2869 2875	volume
+T69	MEAS 2885 2890	10 cm
+T70	Concept_Idea 2894 2903	grand axe
+T71	DISO 2924 2972	sensibilité paravertébro-mandibulaire bilatérale
+T73	Localization 2962 2972	bilatérale
+T74	MEAS 2992 3002	rapidement

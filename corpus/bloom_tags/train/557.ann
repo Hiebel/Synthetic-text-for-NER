@@ -1,0 +1,67 @@
+T1	LIVB 4 9	femme
+T2	DISO 43 72	hyperparathyroïdie secondaire
+T3	CHEM 78 91	méthylhydraté
+T4	DOSE 93 100	1250 mg
+T5	TEMP 100 105	/jour
+T6	Hospital 107 660	traitée par voie intraveineuse et qui avait bénéficié d'un bilan préopératoire comprenant l'ionogramme sanguin ainsi qu'une hormonothérapie substitutive type prolactinone ont été évoqués devant l'absence de grossesse décelable sur les échocardiographies prénatales réalisées chez cette patiente entre 2009 et 2016 n'ont pas révélées d'autres malformations notamment aucune anomalie neurologique ni autre syndrome neuro-cérébelleux ou autres troubles sensitivo-moteurs associés n'a été mis en évidence dans l'Hôpital National Sylvanien de Bobo-Dioulasso(
+T7	MODE 119 137	voie intraveineuse
+T8	PROC 166 185	bilan préopératoire
+T9	PROC 199 217	ionogramme sanguin
+T10	ANAT 210 217	sanguin
+T11	PROC 231 259	hormonothérapie substitutive
+T12	CHEM 265 277	prolactinone
+T13	PHEN 314 323	grossesse
+T14	PROC 342 371	échocardiographies prénatales
+T15	LIVB 393 401	patiente
+T16	TEMP 408 412	2009
+T17	TEMP 416 420	2016
+T18	DISO 449 462	malformations
+T19	DISO 480 501	anomalie neurologique
+T20	DISO 511 537	syndrome neuro-cérébelleux
+T21	DISO 548 574	troubles sensitivo-moteurs
+T22	PROC 673 687	sérologies VIH
+T23	MEAS 702 711	négatives
+T24	PROC 746 749	CRP
+T25	MEAS 768 775	100mg/l
+T26	DISO 902 942	méningoencephalopathie nodulaire maligne
+T27	DISO 996 1022	traumatisme craniocérébral
+T28	DISO 1038 1056	chirurgie méningée
+T29	DISO 1061 1090	placenta hypertrophié nécrosé
+T30	PROC 1116 1139	résection transfixiante
+T31	DISO 1174 1196	kystadénome pléomorphe
+T32	DISO 1203 1254	neuroendocrine épithélio-gigantocellulaire kystique
+T33	DISO 1311 1337	épanchement intrarachidien
+T34	ANAT 1323 1337	intrarachidien
+T35	MEAS 1348 1356	10 000ml
+T36	MEAS 1362 1379	2 fois la normale
+T37	PROC 1382 1407	intervention chirurgicale
+T38	PROC 1428 1452	contraception symétrique
+T39	Localization 1442 1452	symétrique
+T40	CHEM 1463 1475	Progestérone
+T41	CHEM 1478 1491	Césaméthasone
+T42	CHEM 1493 1513	hydroxy progestérone
+T43	PROC 1522 1545	induction hypothermique
+T44	MEAS 1548 1561	35 cycles/min
+T45	MEAS 1638 1643	9g/dl
+T46	PROC 1737 1763	surveillance radiostatique
+T47	PROC 1836 1860	intubation oeso-laryngée
+T48	ANAT 1847 1860	oeso-laryngée
+T49	DISO 1920 1964	complications thromboemboliques ischémiantes
+T50	DISO 1993 2014	détresse respiratoire
+T51	PHEN 2002 2014	respiratoire
+T52	MEAS 2081 2090	difficile
+T53	PROC 2191 2219	accouchement maternel unique
+T54	MEAS 2269 2281	2900 grammes
+T55	MEAS 2291 2295	46cm
+T56	Concept_Idea 2299 2308	grand axe
+T57	Concept_Idea 2323 2339	plan obstétrical
+T58	MEAS 2445 2452	simples
+T59	PROC 2458 2482	examen histopathologique
+T60	DISO 2503 2544	carcinome séreux des vésicules ovariennes
+T61	ANAT 2524 2544	vésicules ovariennes
+T62	LIVB 2580 2587	patient
+T63	PROC 2606 2633	circulation extracorporelle
+T64	MODE 2638 2672	voie d'abord veineuse périphérique
+T65	ANAT 2686 2717	sinus caverneux inférieur droit
+T66	Localization 2712 2717	droit
+T67	PROC 2725 2795	anastomose artériolo-vésiculaire inféro-surrénalienne latérale (AIVSI)

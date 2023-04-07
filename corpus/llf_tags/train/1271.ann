@@ -1,0 +1,73 @@
+T1	LIVB 20 28	patiente
+T2	PROC 54 60	admise
+T3	DISO 70 91	tumeur du sein gauche
+T4	ANAT 80 91	sein gauche
+T5	Localization 85 91	gauche
+T6	TEMP 101 115	depuis 10 mois
+T7	PROC 121 135	interrogatoire
+T8	LIVB 140 148	patiente
+T9	PROC 174 186	hospitalisée
+T10	TEMP 190 200	10/08/2011
+T11	Hospital 204 224	service des urgences
+T12	DISO 236 259	épisode infectieux aigu
+T13	TEMP 273 291	24 heures plus tôt
+T14	MEAS 306 321	progressivement
+T15	MEAS 353 359	diffus
+T16	Concept_Idea 411 422	antécédents
+T17	DISO 436 455	contage tuberculeux
+T18	PROC 459 474	examen clinique
+T19	LIVB 488 496	patiente
+T20	MEAS 500 503	bon
+T21	Concept_Idea 504 516	état général
+T22	DISO 523 549	signes neuropsychiatriques
+T23	PHEN 567 588	réflexes oculomoteurs
+T24	MEAS 597 604	normaux
+T25	DISO 666 689	déficit sensitivomoteur
+T26	DISO 699 723	mégacôloneuromédiastinal
+T27	DISO 753 769	syndrome méningé
+T28	PROC 785 801	examen somatique
+T29	DISO 813 827	particularités
+T30	PROC 831 841	histologie
+T31	DISO 858 901	récidive carcinomateuse myxoïde infiltrante
+T32	MEAS 910 914	3 cm
+T33	Concept_Idea 918 927	grand axe
+T34	DEVI 964 971	annexes
+T35	MEAS 996 1004	9 x 9 mm
+T36	MEAS 1008 1017	7 × 12 mm
+T37	ANAT 1105 1128	quadrant supéro-externe
+T38	ANAT 1148 1163	anses grêliques
+T39	ANAT 1215 1235	noyaux mésentériques
+T40	DISO 1275 1290	résidu tumorale
+T41	PROC 1296 1327	radiothérapie externe adjuvante
+T42	PROC 1333 1361	chimiothérapie néo adjuvante
+T43	PROC 1375 1403	néphrectomie totale monobloc
+T44	LIVB 1435 1443	patiente
+T45	PROC 1449 1473	contrôle radiothérapique
+T46	PROC 1488 1527	transfusion peropératoire thérapeutique
+T47	PROC 1543 1578	laparotomie percutanée exploratrice
+T48	LIVB 1621 1631	oncologues
+T49	LIVB 1635 1663	gastro-entero-anesthéticiens
+T50	PROC 1668 1691	toilette postopératoire
+T51	PROC 1710 1732	ponction scanno-guidée
+T52	CHEM 1765 1790	liquide céphalorachidique
+T53	CHEM 1809 1829	sulfate de magnésium
+T54	DOSE 1830 1835	50 mg
+T55	PROC 1841 1873	scanner thoraco-abdomino-pelvien
+T56	ANAT 1849 1873	thoraco-abdomino-pelvien
+T57	DISO 1896 1961	prolifération érythroblastique liquidienne péritonéale hétérogène
+T58	ANAT 1987 2006	lymphoplasmocytaire
+T59	DISO 2080 2102	tuberculose nécrosante
+T60	ANAT 2134 2150	troncs urétéraux
+T61	DISO 2192 2237	neurofibromatose pyriforme mucocytogénérative
+T62	MEAS 2274 2284	favorables
+T63	PROC 2296 2326	oxygénothérapie antibacillaire
+T64	PROC 2329 2405	curarisation intraveineuse transoesophagienne laryngée endotrachéale élargie
+T65	PROC 2408 2445	hydrocéphalosporine glycorachie libre
+T67	PROC 2766 2787	contrôle radiologique
+T68	PROC 2803 2829	examen anatomopathologique
+T69	DISO 2841 2854	particularité
+T70	PROC 2882 2962	tumorectomie du cuir chevelu pariétal maxillaire par voie postéro-sous cornéenne
+T72	Concept_Idea 2983 3003	aspect morphologique
+T73	DISO 3020 3063	ostéomyélite myxoïde neuroendocrine maligne
+T74	PHEN 3072 3077	décès
+T75	PROC 3106 3124	étude histologique

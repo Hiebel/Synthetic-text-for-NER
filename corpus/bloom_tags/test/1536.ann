@@ -1,0 +1,45 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 79	particuliers
+T5	PROC 81 87	admise
+T6	Hospital 92 100	urgences
+T8	ANAT 119 138	abdomino-pelviennes
+T9	TEMP 161 178	depuis deux jours
+T10	DISO 198 212	amaigrissement
+T11	MEAS 223 227	6 kg
+T12	PROC 248 260	consultation
+T13	Hospital 264 313	centre hospitalier universitaire Hassan II de Fès
+T14	PROC 319 333	examen initial
+T15	DISO 360 366	fièvre
+T16	DISO 420 463	syndrome d'épanchement liquidien péritonéal
+T17	ANAT 443 463	liquidien péritonéal
+T18	LIVB 488 499	jeune femme
+T19	LIVB 509 513	elle
+T20	DISO 541 556	symptomatologie
+T21	DISO 583 601	ictère prurigineux
+T22	DISO 614 630	lésions cutanées
+T23	DISO 645 662	paralysie faciale
+T24	DISO 673 696	manifestations malignes
+T25	ANAT 763 779	péritoine dorsal
+T26	PROC 809 839	échographie abdomino-pélvienne
+T27	ANAT 821 839	abdomino-pélvienne
+T28	PROC 860 884	anesthésie locorégionale
+T29	ANAT 871 884	locorégionale
+T30	DISO 901 940	hernie intra-méningée hypo-vascularisée
+T32	CHEM 991 999	propofol
+T33	CHEM 1003 1016	buprenorphine
+T34	PHEN 1048 1063	défense utérine
+T35	ANAT 1056 1063	utérine
+T36	MEAS 1085 1100	progressivement
+T37	Concept_Idea 1104 1112	diamètre
+T38	MODE 1119 1124	bolus
+T39	DOSE 1128 1132	1 mg
+T40	CHEM 1136 1149	dexaméthasone
+T41	PROC 1161 1185	scanner abdomino-pelvien
+T42	ANAT 1169 1185	abdomino-pelvien
+T43	DISO 1199 1225	carcinose intrapéritonéale
+T44	ANAT 1209 1225	intrapéritonéale
+T45	ANAT 1246 1251	reins
+T46	MEAS 1261 1266	10 cm
+T47	Concept_Idea 1270 1279	grand axe

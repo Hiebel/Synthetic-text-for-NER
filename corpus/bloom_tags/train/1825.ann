@@ -1,0 +1,94 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	10 ans
+T3	Concept_Idea 26 37	antécédents
+T4	MEAS 38 50	particuliers
+T5	PROC 52 62	consultait
+T6	Hospital 67 75	urgences
+T7	DISO 85 114	paralysie du nerf oculomoteur
+T8	ANAT 98 114	nerf oculomoteur
+T9	TEMP 124 138	depuis 5 jours
+T10	PROC 142 156	interrogatoire
+T11	DISO 180 210	intoxication à l'acénocoumarol
+T12	CHEM 197 210	acénocoumarol
+T13	PROC 215 229	bilan clinique
+T14	DISO 249 270	syndrome hémorragique
+T15	MEAS 286 304	12000 éléments/mm3
+T16	PHEN 311 337	contractions périphériques
+T17	Localization 324 337	périphériques
+T18	DISO 391 416	hypotension orthostatique
+T19	DISO 453 482	ictère prurigineux généralisé
+T20	LIVB 484 486	Il
+T21	DISO 514 532	choc hypothermique
+T22	MEAS 543 549	36°2 C
+T23	DEVI 555 581	sonde cardio-ventriculaire
+T25	ANAT 641 699	aires ganglionnaires cervico-bronchiques latéro-axillaires
+T26	LIVB 734 738	elle
+T27	DISO 807 816	symptômes
+T28	DISO 1008 1028	signes neurologiques
+T29	DISO 1094 1110	troubles visuels
+T30	PROC 1122 1145	examen gynécobstétrical
+T31	DISO 1165 1178	masse maligne
+T32	ANAT 1193 1205	ovaire droit
+T33	Localization 1200 1205	droit
+T34	MEAS 1215 1220	16 cm
+T35	Concept_Idea 1224 1233	grand axe
+T36	PROC 1271 1280	injection
+T37	DOSE 1284 1290	0,5 ml
+T38	CHEM 1294 1314	produit de contraste
+T39	DISO 1338 1379	adénopathies épithélio-gigantocellulaires
+T40	ANAT 1351 1379	épithélio-gigantocellulaires
+T41	LIVB 1400 1408	patiente
+T42	DISO 1421 1457	carcinose ganglionnaire hypoéchogène
+T43	ANAT 1431 1457	ganglionnaire hypoéchogène
+T44	DISO 1475 1511	tumeur nécrose érythémato-pustuleuse
+T45	ANAT 1530 1543	utérus utérin
+T46	PROC 1549 1593	tomodensitométrie thoraco-abdomino-pelvienne
+T47	ANAT 1567 1593	thoraco-abdomino-pelvienne
+T48	DISO 1607 1670	lithiase pulmonaire supérieure bilatérale bilirunine-nitrosurée
+T49	ANAT 1616 1670	pulmonaire supérieure bilatérale bilirunine-nitrosurée
+T51	DISO 1686 1764	opacité basithoracique diaphragmatique homolatérale basithoracique lithiasique
+T52	ANAT 1694 1764	basithoracique diaphragmatique homolatérale basithoracique lithiasique
+T53	Localization 1725 3045	homolatérale basithoracique lithiasique intéressant tous les replis thoraciques prenant le contraste tardivement mais laissant apparaitre toute sa taille avant son comblement évocateur d’autre nature qu’une lyse médullaire thyroïdienne angulo-surrénalienne hypertrophiée non expansive compatible avec l’absence d’autres localisations secondaires tumorales comme celles médiastinales épiploïdiado-hypogastricaux hyo-diaphragmatiques susrénaliennes postéro-latérales juxtrasurrénaliennes pancréatiques polylobées séreux lobés suggérant aussi bien qu’un schwannome pléomorphe kysto-encéphaloendothélial nodulaire ayant étendu vers ces organes mésentériques inférieurs alors qu’autre part on notait absence de kystes anévridiés dissociant leur mise en place ; L’étude immunohistochimique n’a pas montré de positivité paraffine-méthyle histone 3(Ki-67). La sérologie VIH était revenue négative tandis qu'il n'existait pas d'amplification d'immunoglobulines sériques IgG normo-chargeante cétaméthasulfate lymphoïde béta 2HCG CHCA19-9 BHCG progestatifs cytochrome P450 1A1 A20.
+L'évolution a été marquée par la survenue d'une détresse respiratoire d'aggravation rapide, patient sous sufentanil (1,5 mg/kg/minute) associé à des injections intraveineuses de noradrénaline et de propranolol au niveau du sinus caverneux péribuccal
+T54	ANAT 1786 1804	replis thoraciques
+T55	Concept_Idea 1872 1878	taille
+T56	DISO 1932 1995	lyse médullaire thyroïdienne angulo-surrénalienne hypertrophiée
+T58	DISO 2045 2080	localisations secondaires tumorales
+T59	DISO 2276 2334	schwannome pléomorphe kysto-encéphaloendothélial nodulaire
+T60	ANAT 2357 2389	organes mésentériques inférieurs
+T61	DISO 2431 2448	kystes anévridiés
+T62	PROC 2483 2508	étude immunohistochimique
+T63	PROC 2577 2590	sérologie VIH
+T64	MEAS 2605 2613	négative
+T65	DISO 2844 2865	détresse respiratoire
+T66	PHEN 2853 2865	respiratoire
+T67	MEAS 2880 2886	rapide
+T68	LIVB 2888 2895	patient
+T69	CHEM 2901 2911	sufentanil
+T70	DOSE 2913 2922	1,5 mg/kg
+T71	TEMP 2922 2929	/minute
+T72	MODE 2945 2970	injections intraveineuses
+T73	CHEM 2974 2987	noradrénaline
+T74	CHEM 2994 3005	propranolol
+T76	LIVB 3047 3049	Il
+T77	DISO 3064 3116	traumatisme péricardico-cérébral ischémato-fasciculé
+T79	DISO 3129 3151	troubles neurologiques
+T80	DISO 3178 3203	atteinte sensitivomotrice
+T81	DISO 3216 3241	syndromes vasculo-nerveux
+T82	ANAT 3256 3280	hémiface supérieur droit
+T83	Localization 3275 3280	droit
+T84	DISO 3298 3325	épanchement intrapéritonéal
+T85	ANAT 3310 3325	intrapéritonéal
+T87	PROC 3488 3518	radio chimiothérapie adjuvante
+T88	CHEM 3531 3545	hydrocortisone
+T89	CHEM 3550 3587	anti-inflammatoires non-stéroïdiennes
+T90	PROC 3601 3627	radiothérapie concomitante
+T91	DISO 3672 3710	carcinose érythémateuse carcinomateuse
+T92	DEVI 3752 3772	résultat chirurgical
+T93	MEAS 3778 3787	supérieur
+T94	PROC 3804 3848	ponction pleurale transpariétale liquidienne
+T95	ANAT 3813 3848	pleurale transpariétale liquidienne
+T96	PROC 4069 4099	échographie abdomino-pelvienne
+T97	ANAT 4081 4099	abdomino-pelvienne
+T98	DISO 4132 4172	adénopathie parathyroïdienne infiltrante
+T99	ANAT 4144 4172	parathyroïdienne infiltrante

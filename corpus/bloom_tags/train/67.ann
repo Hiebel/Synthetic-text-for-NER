@@ -1,0 +1,35 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	4 ans
+T3	Concept_Idea 41 52	antécédents
+T4	MEAS 53 61	notables
+T5	PROC 63 74	hospitalisé
+T6	DISO 84 111	douleurs abdominales aiguës
+T7	ANAT 93 104	abdominales
+T8	DISO 128 145	dyspnée sifflante
+T9	TEMP 155 168	depuis 2 mois
+T10	PROC 174 183	admission
+T11	LIVB 187 197	nouveau-né
+T12	Concept_Idea 207 212	poids
+T13	MEAS 216 221	29 kg
+T14	Concept_Idea 229 235	taille
+T15	MEAS 239 244	90 cm
+T16	Concept_Idea 266 273	normale
+T17	PROC 293 322	examen clinique préopératoire
+T18	DISO 339 370	tuméfaction du paroi abdominale
+T19	ANAT 354 370	paroi abdominale
+T20	MEAS 379 382	2cm
+T21	Concept_Idea 385 391	aspect
+T22	MEAS 392 400	homogène
+T23	MEAS 410 431	environ 5 centimètres
+T24	Concept_Idea 435 444	grand axe
+T25	DISO 465 491	masse arrondie hypotonique
+T26	ANAT 508 537	muscles pariéto-épigastriques
+T27	ANAT 554 574	fosse iliaque gauche
+T28	Localization 568 574	gauche
+T29	MEAS 586 601	progressivement
+T30	Concept_Idea 605 611	volume
+T31	PROC 615 640	intervention chirurgicale
+T32	PROC 672 696	anesthésie locorégionale
+T33	ANAT 683 696	locorégionale
+T34	DISO 716 759	syndrome d'épanchement liquidien péritonéal
+T35	ANAT 739 759	liquidien péritonéal

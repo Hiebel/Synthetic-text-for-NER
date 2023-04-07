@@ -1,0 +1,97 @@
+T1	LIVB 16 24	patiente
+T2	DISO 67 74	diabète
+T3	MEAS 75 81	type 2
+T4	DISO 102 122	hypertriglycéridémie
+T5	Concept_Idea 132 135	âge
+T6	PROC 150 159	admission
+T7	LIVB 163 171	patiente
+T8	DISO 178 189	polypnéique
+T9	TEMP 192 205	38 cycles/min
+T10	DISO 215 231	râles crépitants
+T11	ANAT 241 253	conjonctives
+T12	DISO 266 272	signes
+T13	DISO 311 317	fièvre
+T14	PROC 331 350	palpation du bassin
+T15	ANAT 344 350	bassin
+T16	DISO 373 399	masse tissulaire polylobée
+T17	MEAS 409 414	17 cm
+T18	Concept_Idea 418 427	grand axe
+T19	ANAT 441 462	scarpa supéro-externe
+T20	MEAS 471 475	4 cm
+T21	Concept_Idea 479 488	petit axe
+T22	Concept_Idea 497 509	plan profond
+T23	DISO 536 557	récidive métastatique
+T24	MEAS 590 597	simples
+T25	PROC 604 626	traction scanno-guidée
+T26	PROC 632 658	anticoagulation préventive
+T27	CHEM 697 723	neuroleptiques thyroidiens
+T28	DOSE 725 730	60 mg
+T29	TEMP 730 735	/jour
+T30	PROC 740 766	examen anatomopathologique
+T31	DISO 793 883	adénocarcinome épidermoïde infiltrant érythroblastiquore carcinomateux muscularachidiforme
+T32	PROC 946 965	classification TNMF
+T33	PROC 990 1031	scanner cervico-thoraco-abdomino- pelvien
+T34	ANAT 998 1031	cervico-thoraco-abdomino- pelvien
+T35	Concept_Idea 1065 1073	résultat
+T36	Concept_Idea 1087 1093	taille
+T37	DISO 1121 1143	anomalie morphologique
+T38	DISO 1147 1159	métaphorique
+T39	PROC 1165 1231	hystérectomie partielle totale élargie préopératoire type Birstein
+T40	PROC 1274 1345	curage ganglionnaire axillaire bilatéral rétropéritonéal rétroréfléchie
+T41	Localization 1305 1314	bilatéral
+T42	ANAT 1378 1427	nerf thoracique supérieur droit postéro-inferieur
+T46	ANAT 1553 1742	ganglions mésentériques intraparavertébraux abdominaux médiastinaux superficiels cervicaux lombaires inférieure sus claviculaires antero-aorto-mandibulaire controlatéraux supérieure gauches
+T47	Localization 1665 1668	sus
+T48	Localization 1735 1742	gauches
+T49	ANAT 1774 1812	région temporale latérale homolatérale
+T50	Localization 1800 1812	homolatérale
+T51	PROC 1853 1883	prise en charge endovasculaire
+T52	PROC 1891 1911	analyse histologique
+T53	DISO 1938 1959	localisation tumorale
+T54	LIVB 1984 1990	malade
+T55	PROC 1995 2016	contrôle radiologique
+T56	PHEN 2041 2062	grossesse monofoetale
+T57	MEAS 2063 2072	évolutive
+T58	TEMP 2083 2089	2 mois
+T59	PROC 2095 2105	opératoire
+T60	TEMP 2111 2122	24 semaines
+T61	DEVI 2140 2182	échographie obstétricale substitutionnelle
+T62	Concept_Idea 2318 2336	état hémodynamique
+T63	MEAS 2342 2346	bien
+T64	PROC 2372 2395	mesures prophylactiques
+T65	PROC 2408 2428	transfusion sanguine
+T66	PROC 2431 2447	insulinothérapie
+T67	PROC 2449 2460	hémodialyse
+T70	PROC 2659 2673	investigations
+T71	DISO 2684 2711	remaniements inflammatoires
+T72	ANAT 2740 3608	segments caudés du même tronc cérébral qui étaient sans anomalies et dont l'origine était indéterminée. L'examen clinique a mis en évidence un syndrome hémorragique, des vomissements bilieux avec altération de l'état général (sans autres signes infectieux), le tout évoluant favorablement après intervention chirurgicale sous anticoagulation préventive mais ayant évolué dans un contexte d'amaigrissement chiffré à 4kg par rapport aux moyens financiers estimé à 256 Kcal contre 149kcal pour cette dernière solution). La réanimation préopératoire avait duré deux heures au bout desquelles il s'agissait là encore probablement d'un nodule tissulaire maligne mesurant 18 cm de grand axe refoulant diversement chaque pédicule gastroduodénal faisant 5 cm de petit axe ainsi que son contenu fibrinoïde se projetant obliquement ou perpendiculairement vers sa moelle digestive
+T73	ANAT 2764 2778	tronc cérébral
+T74	DISO 2796 2805	anomalies
+T75	PROC 2846 2861	examen clinique
+T76	DISO 2883 2904	syndrome hémorragique
+T77	DISO 2910 2930	vomissements bilieux
+T78	Concept_Idea 2952 2964	état général
+T79	DISO 2978 2995	signes infectieux
+T80	PROC 3035 3060	intervention chirurgicale
+T81	PROC 3066 3092	anticoagulation préventive
+T82	DISO 3130 3144	amaigrissement
+T83	MEAS 3155 3158	4kg
+T84	Concept_Idea 3175 3192	moyens financiers
+T86	MEAS 3218 3225	149kcal
+T87	PROC 3260 3285	réanimation préopératoire
+T88	TEMP 3297 3308	deux heures
+T89	DISO 3370 3395	nodule tissulaire maligne
+T90	MEAS 3405 3410	18 cm
+T91	Concept_Idea 3414 3423	grand axe
+T92	ANAT 3453 3476	pédicule gastroduodénal
+T93	MEAS 3485 3489	5 cm
+T94	Concept_Idea 3493 3502	petit axe
+T96	DISO 3647 3669	souffrance intestinale
+T97	ANAT 3658 3669	intestinale
+T98	DISO 3697 3703	fièvre
+T99	MEAS 3715 3719	39°C
+T100	DISO 3735 3856	distension abdominale basithoracique rétropéritonéale transoesophagienne scapulo-papillaire spondyloarthritique étranglée
+T102	PROC 3873 3891	drainage aspiratif
+T103	DISO 3902 3936	symptomatologie clinico-biologique
+T104	PROC 3965 3998	scanner cervico-thoraco-abdominal
+T105	ANAT 3973 3998	cervico-thoraco-abdominal

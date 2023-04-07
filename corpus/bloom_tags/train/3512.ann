@@ -1,0 +1,28 @@
+T1	PROC 2 17	examen clinique
+T2	PROC 22 31	admission
+T3	LIVB 44 50	enfant
+T4	MEAS 54 57	bon
+T5	Concept_Idea 58 70	état général
+T6	DISO 72 83	polypnéique
+T7	MEAS 86 99	29 cycles/min
+T8	PHEN 110 121	tachycardie
+T9	MEAS 124 142	120 battements/min
+T10	PROC 147 163	bilan biologique
+T11	DISO 175 188	particularité
+T12	PROC 193 214	radiographie du coude
+T13	ANAT 209 214	coude
+T14	DISO 231 251	lésions ostéolytique
+T15	Localization 264 280	face postérieure
+T16	ANAT 287 318	scapho-calcanéale métacarpienne
+T17	CHEM 346 366	produit de contraste
+T18	ANAT 384 412	parties molles cerviculaires
+T19	DISO 453 476	anomalies radiologiques
+T20	DISO 520 536	lésion hypodense
+T21	MEAS 548 563	progressivement
+T22	Concept_Idea 567 576	grand axe
+T23	MEAS 586 590	15mm
+T24	MEAS 595 599	12mm
+T25	Concept_Idea 602 611	épaisseur
+T26	ANAT 629 662	sinus scapho-métacarpien palmaire
+T27	MEAS 679 687	homogène
+T28	DISO 719 734	kyste hydatique

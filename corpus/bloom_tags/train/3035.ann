@@ -1,0 +1,55 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 106	scanner thoraco-abdomino-pelvien
+T3	ANAT 82 106	thoraco-abdomino-pelvien
+T4	DISO 133 159	lésion nodulaire hypodense
+T5	MEAS 169 173	6 cm
+T6	Concept_Idea 177 186	grand axe
+T7	ANAT 223 241	organes hépatiques
+T8	MEAS 253 268	progressivement
+T9	Concept_Idea 272 278	taille
+T10	TEMP 288 302	depuis 04 mois
+T11	PHEN 338 353	acuité visuelle
+T12	MEAS 363 388	de plus en plus accentuée
+T13	DISO 401 458	syndrome d’épanchement péritonéal latéro périhypophysaire
+T15	DISO 506 532	carcinome hépato-splénique
+T16	ANAT 516 532	hépato-splénique
+T17	DISO 538 570	métastase surrénalienne tumorale
+T18	ANAT 548 570	surrénalienne tumorale
+T19	DISO 628 656	pronostic paucisymptomatique
+T20	DISO 663 707	malformations thromboemboliques congénitales
+T21	DISO 721 770	œdème cutané érythrémateux prurigineux nécrotique
+T22	DISO 881 905	traumatisme hémorragique
+T23	DISO 915 936	déficits immunitaires
+T24	TEMP 962 968	03 ans
+T25	DEVI 1075 1105	hydrocortisone vaginal plâtrée
+T26	DISO 1149 1175	symptômes purpura-grippaux
+T27	DISO 1219 1233	particularités
+T28	DISO 1242 1263	troubles métaboliques
+T29	Localization 1312 1330	bilatérale interne
+T30	DISO 1340 1368	tumeur hypertrophiée maligne
+T31	PROC 1407 1436	échographie utérine cervicale
+T32	ANAT 1419 1436	utérine cervicale
+T33	DISO 1492 1513	sensibilité pelvienne
+T34	ANAT 1504 1513	pelvienne
+T35	MEAS 1528 1550	rapidement progressive
+T36	DISO 1588 1615	niveau hydro-électrolytique
+T37	PROC 1649 1684	ponction intrapéritonéo-liquidienne
+T38	ANAT 1658 1684	intrapéritonéo-liquidienne
+T39	DISO 1720 1743	lésions carcinomateuses
+T40	DISO 1800 1823	glandulo-carcinomateuse
+T41	DISO 1829 1865	polype épidermoïde kystico-fibrineux
+T42	ANAT 1887 1903	paroi abdominale
+T43	ANAT 1925 1942	cavités grêliques
+T44	ANAT 1993 2011	greffon œsophagien
+T45	ANAT 2030 2036	berges
+T46	DISO 2066 2081	neuro-endocrine
+T47	ANAT 2103 2137	zones interstitielles digestivales
+T48	DISO 2155 2170	vascularisation
+T49	DISO 2202 2235	complication neurorhabdomyonnante
+T50	DISO 2271 2295	pathologie gynécologique
+T51	LIVB 2300 2307	patient
+T52	PROC 2326 2361	chimiothérapie palliative adjuvante
+T53	Concept_Idea 2363 2374	dose totale
+T54	DOSE 2378 2383	175mg
+T55	CHEM 2386 2398	oxaliplatine
+T56	PROC 2408 2436	myélodysplastie substitutive

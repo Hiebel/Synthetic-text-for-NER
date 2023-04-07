@@ -1,0 +1,93 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 46 51	3 ans
+T3	PROC 53 58	Admis
+T4	Hospital 63 84	urgences pédiatriques
+T5	DISO 94 138	masse douloureuse du membre supérieur gauche
+T6	ANAT 115 138	membre supérieur gauche
+T7	Localization 132 138	gauche
+T8	MEAS 154 169	progressivement
+T9	Concept_Idea 173 179	volume
+T10	DISO 200 208	douleurs
+T11	PHEN 214 225	déglutition
+T12	Concept_Idea 270 282	état général
+T13	DISO 304 315	traumatisme
+T14	PROC 331 340	admission
+T15	LIVB 344 351	patient
+T16	DISO 358 365	fébrile
+T17	MEAS 368 374	38,5°C
+T18	DISO 399 420	symptôme neurologique
+T19	PROC 449 464	examen physique
+T20	DISO 476 489	particularité
+T21	DISO 516 532	troubles visuels
+T22	DISO 543 549	signes
+T23	DISO 566 580	psychomotritie
+T24	PROC 584 595	échographie
+T25	DISO 662 686	cholécystite infectieuse
+T26	PROC 714 738	explorations biologiques
+T27	DISO 763 776	thrombocytose
+T28	CHEM 778 781	IgG
+T29	PROC 788 816	corticothérapie probabiliste
+T30	PROC 830 855	kinésithérapie palliative
+T31	TEMP 885 898	deux semaines
+T32	TEMP 924 930	2 mois
+T33	PROC 936 981	séances de rééducation motrice individualisée
+T34	PROC 1133 1165	bilan radiologique préopératoire
+T35	PROC 1185 1201	examens généraux
+T36	MEAS 1243 1250	normaux
+T37	PROC 1256 1287	scanners scanners endoscopiques
+T38	PROC 1309 1333	contrôle ophtalmologique
+T39	DISO 1360 1405	pneumopathie interstitielle primitive maligne
+T40	MEAS 1418 1424	T4N0Mx
+T41	LIVB 1436 1447	jeune fille
+T42	MEAS 1459 1465	normal
+T43	PROC 1499 1509	opératoire
+T44	MEAS 1523 1532	négatives
+T45	PROC 1537 1565	prise en charge obstétricale
+T46	DISO 1603 1632	hypogonadisme polymalformatif
+T47	DISO 1647 1689	rétinopathie diabétique insulinodépendante
+T48	DISO 1705 1718	diabète obèse
+T49	MEAS 1726 1732	T8N0Mx
+T50	TEMP 1854 1856	/j
+T51	PROC 1873 1897	traitements chirurgicaux
+T52	PROC 1902 1926	remplissage respiratoire
+T53	ANAT 1914 1926	respiratoire
+T54	PROC 1939 2000	néphrectomie totale élargie axillaire rétroméno-oesophagienne
+T55	DISO 2036 2051	brèche anémique
+T56	PROC 2055 2069	lavage vaginal
+T57	ANAT 2062 2069	vaginal
+T58	DEVI 2117 2151	annexes péritonéales intraveineuse
+T59	DISO 2194 2201	lésions
+T60	MEAS 2211 2225	superficielles
+T61	PROC 2231 2378	biopsies cervicales pariéto-mandibulaires biplanaires intrasphalangiennes monochoriales séquellaires jugulo-carotidiennes échoendobronchographiques
+T62	PROC 2394 2415	recherche étiologique
+T63	DISO 2461 2501	maladie cœlio-papillomatoide congénitale
+T64	DISO 2507 2574	Histiocytose Ceutrophile Infectious Disease Pneumopathic Biosystems
+T65	DISO 2578 2601	tuberculose acromégalie
+T66	Concept_Idea 2747 2769	concepts histologiques
+T67	DISO 2798 2810	complication
+T68	LIVB 2888 2895	patient
+T69	DISO 2933 2961	troubles neuropsychiatriques
+T70	PHEN 3015 3024	grossesse
+T71	DISO 3083 3123	symptomatologie obstétricale néonatalgie
+T72	DISO 3130 3151	syndrome dysmorphique
+T73	LIVB 3283 3289	enfant
+T74	TEMP 3297 3302	2 ans
+T75	PROC 3392 3420	corticothérapie probabiliste
+T76	CHEM 3421 3431	céfotaxime
+T77	CHEM 3434 3447	sérum glucosé
+T78	PROC 3534 3557	traitement conservateur
+T79	DISO 3630 3667	hyperparathyroïdie primaire familiale
+T80	DISO 3681 3710	nécrose caséeuse hypertensive
+T81	PROC 3798 3820	consultation prénatale
+T82	Concept_Idea 3866 3886	aspect morphologique
+T83	DISO 3903 3927	hypothyroïdie secondaire
+T84	MEAS 3970 3985	progressivement
+T85	MEAS 4058 4069	particulier
+T86	MEAS 4099 4111	plus intense
+T87	DISO 4192 4221	neuromyélite kystique maligne
+T88	DISO 4239 4364	tumeur trophoblastique hétérozygote gestationisplénomégalie monoclonale multiloculée infiltrant érythrocytaire fœtoproteinial
+T89	MEAS 4374 4378	5 cm
+T90	Concept_Idea 4382 4391	grand axe
+T91	PROC 4453 4482	prise en charge thérapeutique
+T92	PROC 4512 4557	kinésithérapie psychothérapeutique palliative
+T93	PROC 4582 4637	psychothérapie cognitivo-comportementale individualisée

@@ -1,0 +1,45 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	6 ans
+T3	DISO 36 61	antécédents pathologiques
+T4	MEAS 62 74	particuliers
+T5	PROC 76 80	reçu
+T6	Hospital 85 106	urgences pédiatriques
+T7	DISO 139 161	détresse surrénalienne
+T8	PHEN 148 161	surrénalienne
+T9	MEAS 176 187	progressive
+T10	DISO 202 221	hématurie purulente
+T11	TEMP 231 253	depuis plusieurs jours
+T12	LIVB 260 263	son
+T13	PROC 264 273	admission
+T14	Hospital 277 292	bloc opératoire
+T15	PROC 298 315	anesthésie locale
+T16	DOSE 320 324	3 ml
+T17	CHEM 328 346	méthylprednisolone
+T18	DOSE 348 354	1mg/kg
+T19	TEMP 354 356	/j
+T20	PROC 361 376	examen clinique
+T21	DISO 393 407	prise de poids
+T22	MEAS 419 424	15 kg
+T23	Concept_Idea 454 466	état général
+T24	PROC 473 495	soins locaux adjuvants
+T25	DEVI 501 548	bandage hydro-aérique humidificateur électrique
+T26	MODE 590 596	per os
+T27	CHEM 612 626	hydrocortisone
+T28	DOSE 629 639	2 mg/kg/m²
+T29	DOSE 642 647	500ml
+T30	CHEM 651 664	dexaméthasone
+T31	DOSE 667 676	0,5 µg/kg
+T32	TEMP 676 678	/j
+T33	PROC 683 714	échographie abdomino- pelvienne
+T34	ANAT 695 714	abdomino- pelvienne
+T35	DISO 728 777	masse ovarienne droite hypogastrique hypoéchogène
+T36	ANAT 734 777	ovarienne droite hypogastrique hypoéchogène
+T38	MEAS 787 792	23 cm
+T39	Concept_Idea 796 805	grand axe
+T40	ANAT 831 846	sinus ombilical
+T41	DISO 867 900	lésions hétérogènes vascularisées
+T42	MEAS 967 982	progressivement
+T43	Concept_Idea 986 992	taille
+T44	MEAS 1002 1012	fasciculés
+T45	ANAT 1119 1141	cytoplasmes ovariennes
+T46	ANAT 1163 1183	structures vaginales

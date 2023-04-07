@@ -1,0 +1,12 @@
+T1	Concept_Idea 4 13	résultats
+T2	PROC 19 37	étude histologique
+T3	DISO 61 101	carcinome épidermoïde du plexus brachial
+T4	ANAT 86 101	plexus brachial
+T5	LIVB 106 114	patiente
+T6	CHEM 131 144	triméthoprime
+T7	Concept_Idea 150 154	dose
+T8	DOSE 158 164	100 mg
+T9	TEMP 164 166	/j
+T10	MEAS 176 181	bonne
+T11	Concept_Idea 182 203	amélioration clinique
+T12	TEMP 228 235	18 mois

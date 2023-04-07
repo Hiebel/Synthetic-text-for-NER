@@ -1,0 +1,21 @@
+T1	LIVB 20 28	patiente
+T2	PROC 45 53	adressée
+T3	Hospital 57 75	service d'urologie
+T4	DISO 85 97	métrorragies
+T5	TEMP 107 120	depuis 6 mois
+T6	DISO 133 149	signes cliniques
+T7	PROC 162 177	examen clinique
+T8	ANAT 197 204	abdomen
+T9	MEAS 205 213	distendu
+T10	Concept_Idea 219 225	taille
+T11	MEAS 228 234	160 cm
+T12	Concept_Idea 242 251	grand axe
+T13	ANAT 255 265	col utérin
+T14	MEAS 270 275	15 cm
+T15	PHEN 281 301	grossesse gémellaire
+T16	PROC 325 349	exploration chirurgicale
+T17	Localization 378 390	bord latéral
+T18	DISO 430 468	épanchement pérituberculeux péritonéal
+T19	ANAT 442 468	pérituberculeux péritonéal
+T20	DISO 508 571	opacités vésiculo-interstitiels inféro-latérales hypogastriques
+T21	ANAT 517 571	vésiculo-interstitiels inféro-latérales hypogastriques

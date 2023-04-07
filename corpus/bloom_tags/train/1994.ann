@@ -1,0 +1,35 @@
+T1	LIVB 29 37	patiente
+T2	DISO 49 60	hypertendue
+T3	PROC 66 84	traitement médical
+T4	CHEM 94 108	hydrocortisone
+T5	CHEM 122 140	hydroxychloroquine
+T6	PROC 152 158	admise
+T7	Hospital 162 169	urgence
+T8	DISO 179 210	douleurs abdominales chroniques
+T9	ANAT 188 199	abdominales
+T10	DISO 227 233	fièvre
+T11	PROC 252 283	échographie abdomino- pelvienne
+T12	ANAT 264 283	abdomino- pelvienne
+T13	TEMP 322 325	24h
+T14	DISO 356 365	anomalies
+T15	PROC 379 415	tomodensitométrie abdomino-pelvienne
+T16	ANAT 397 415	abdomino-pelvienne
+T17	DISO 421 434	particularité
+T18	PROC 438 453	examen clinique
+T19	MEAS 469 475	grande
+T20	DISO 476 497	masse du flanc gauche
+T21	ANAT 485 497	flanc gauche
+T22	Localization 491 497	gauche
+T23	MEAS 507 513	120 cm
+T24	MEAS 518 523	90 cm
+T25	ANAT 539 562	paroi abdominopelvienne
+T26	DISO 582 608	kyste hydatique tissulaire
+T27	ANAT 625 645	fosse iliaque droite
+T28	Localization 639 645	droite
+T29	Concept_Idea 671 685	grand épiploon
+T30	MEAS 696 703	46x41cm
+T31	PROC 720 736	examen somatique
+T32	DISO 770 790	localisation tumoral
+T33	PROC 805 847	touchers pelviens biquasi-cervico-vaginaux
+T34	ANAT 814 847	pelviens biquasi-cervico-vaginaux
+T35	MEAS 856 863	normaux

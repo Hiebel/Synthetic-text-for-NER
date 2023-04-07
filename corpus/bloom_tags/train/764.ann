@@ -1,0 +1,34 @@
+T1	LIVB 4 9	femme
+T2	PROC 87 95	adressée
+T3	Hospital 99 117	service d'urologie
+T4	Hospital 123 172	Centre Hospitalier Universitaire Hassan II de Fès
+T5	PROC 196 219	TDM abdomino- pelvienne
+T6	ANAT 200 219	abdomino- pelvienne
+T7	DISO 253 281	épanchement intra péritonéal
+T8	ANAT 265 281	intra péritonéal
+T9	TEMP 291 304	depuis 6 mois
+T10	DISO 323 373	carcinose parenchympannocyto-papuleuse infilcrante
+T12	PROC 378 431	curage ganglionnaire axillaire à titre prophylactique
+T14	PROC 433 478	axillary locorégionale adjuvant brachytherapy
+T15	LIVB 504 515	jeune femme
+T16	DEVI 538 561	sonde nasofibroscopique
+T18	PROC 653 693	anastomose transverse mésenterotrachéale
+T19	ANAT 664 693	transverse mésenterotrachéale
+T20	PROC 694 698	TMBO
+T21	PROC 714 752	réanimation chirurgicale peropératoire
+T22	DISO 781 797	hyperleucocytose
+T23	MEAS 830 855	13000 éléments blancs/mm3
+T24	CHEM 857 870	noradrénaline
+T25	MEAS 883 892	20 µmol/l
+T26	CHEM 895 908	buprolorphine
+T28	TEMP 926 936	/24 heures
+T29	MODE 938 950	intraveineux
+T30	DOSE 955 964	0,2 mg/kg
+T31	TEMP 964 966	/j
+T32	PROC 979 1012	stabilisation hémoglobine glyquée
+T33	MEAS 1024 1028	9,4%
+T34	CHEM 1053 1065	nicardiprine
+T35	CHEM 1068 1087	ethidinehydroxamine
+T36	PROC 1093 1118	pronostic pré-chirurgical
+T37	DISO 1155 1189	syndrome d’hypertension artérielle
+T38	ANAT 1179 1189	artérielle

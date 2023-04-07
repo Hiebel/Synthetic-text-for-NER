@@ -1,0 +1,25 @@
+T1	PROC 2 29	bilan radiologique standard
+T2	DISO 67 95	processus lésionnel du grêle
+T3	ANAT 90 95	grêle
+T4	MEAS 99 103	8 mm
+T5	Concept_Idea 113 120	hauteur
+T6	MEAS 131 135	3 cm
+T7	PROC 141 165	laparotomie exploratrice
+T8	TEMP 184 194	24/08/2017
+T9	PROC 208 233	prise en charge adjuvante
+T10	LIVB 241 248	famille
+T11	LIVB 253 260	malades
+T12	DISO 283 353	carcinome épidermocytoblastique myxoïde infiltrant les anses grêliques
+T13	ANAT 338 353	anses grêliques
+T14	MEAS 364 370	T4N0Mx
+T15	PROC 393 418	thyroïdectomie préventive
+T16	PROC 451 476	étude immunohistochimique
+T17	PROC 480 500	immuno-histochimique
+T18	MEAS 565 572	simples
+T19	DISO 578 607	récidive clinico-chirurgicale
+T20	DISO 625 648	récidive carcinomateuse
+T21	PROC 662 696	radio antibiothérapie probabiliste
+T22	PROC 702 720	antibioprophylaxie
+T23	CHEM 722 742	amoxicilline sodique
+T24	CHEM 745 763	acide clavulanique
+T25	PHEN 793 803	grossesses

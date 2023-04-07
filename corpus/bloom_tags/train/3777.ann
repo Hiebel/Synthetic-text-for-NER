@@ -1,0 +1,30 @@
+T1	LIVB 20 28	patiente
+T2	PHEN 45 55	primigeste
+T3	CHEM 60 70	tamoxifène
+T4	DEVI 90 141	césarienne d'urgence obstétricale gynécocoeliosique
+T5	MEAS 150 154	8/10
+T6	DOSE 161 168	1280 ml
+T7	PROC 226 248	résection chirurgicale
+T8	PROC 266 314	radiothérapie adjuvante locorégionale palliative
+T9	PROC 329 352	contraception hormonale
+T10	CHEM 363 373	Tamoxifène
+T11	CHEM 374 393	Valproate de sodium
+T12	CHEM 463 479	Cyclophosphamide
+T13	CHEM 481 490	Etoposide
+T14	CHEM 492 503	Ceftriaxone
+T15	CHEM 505 518	Triméthoprime
+T16	CHEM 520 534	Gentaméthasone
+T17	CHEM 536 549	Chlorhexidine
+T18	CHEM 551 562	Bromomycine
+T19	CHEM 564 576	Pyrazinamide
+T20	CHEM 578 588	Ethambutol
+T21	CHEM 590 596	Vit B6
+T22	CHEM 599 610	Rifampicine
+T23	CHEM 612 625	Levofloxacine
+T24	CHEM 627 638	Vincristine
+T25	CHEM 640 650	Paclitaxel
+T26	CHEM 652 662	cisplatine
+T27	CHEM 664 677	Dexaméthasone
+T28	CHEM 679 691	Simvastatine
+T29	CHEM 693 711	Erythrométhidazole
+T30	PROC 716 735	enquête étiologique

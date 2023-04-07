@@ -1,0 +1,23 @@
+T1	LIVB 2 8	enfant
+T2	PROC 15 26	hospitalisé
+T3	Hospital 30 41	réanimation
+T4	Concept_Idea 46 49	âge
+T5	TEMP 53 59	24 ans
+T6	DISO 69 88	pancréatite stade E
+T7	DISO 107 134	adénocarcinome pancréatique
+T8	DISO 183 224	épanchement liquidien péritonéal purulent
+T9	ANAT 195 204	liquidien
+T10	DISO 239 259	vomissements bilieux
+T11	TEMP 269 282	depuis 2 mois
+T12	DISO 295 315	signes neurologiques
+T13	DISO 342 353	hémiplégies
+T14	PROC 376 413	tomodensitométrie abdomino- pelvienne
+T15	ANAT 394 413	abdomino- pelvienne
+T16	DISO 430 467	métastase parenchymateuse péritonéale
+T17	ANAT 440 467	parenchymateuse péritonéale
+T18	MEAS 469 477	arrondie
+T19	MEAS 487 491	45mm
+T20	Concept_Idea 495 504	grand axe
+T21	ANAT 522 542	fosse iliaque droite
+T22	Localization 536 542	droite
+T23	ANAT 565 615	muscle ptérygo épiploique utéro-cervico-sigmoïdien

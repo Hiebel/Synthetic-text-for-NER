@@ -1,0 +1,30 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 73	notables
+T4	PROC 75 86	hospitalisé
+T5	Hospital 91 99	urgences
+T6	DISO 109 155	dyspnée obstructive du membre inférieur gauche
+T7	ANAT 132 155	membre inférieur gauche
+T8	Localization 149 155	gauche
+T9	PROC 159 174	examen clinique
+T10	PROC 179 188	admission
+T11	LIVB 201 208	patient
+T12	Concept_Idea 212 221	assez bon
+T13	Concept_Idea 222 234	état général
+T14	PHEN 244 265	contractions utérines
+T15	ANAT 257 265	utérines
+T16	MEAS 266 274	modérées
+T17	MEAS 299 314	plus accentuées
+T18	Concept_Idea 339 356	plan radiologique
+T19	PROC 361 377	bilan biologique
+T20	PROC 395 422	numération formule sanguine
+T21	PROC 428 447	électrocardiogramme
+T22	MEAS 465 472	normaux
+T23	PROC 490 521	échographie abdomino- pelvienne
+T24	ANAT 502 521	abdomino- pelvienne
+T25	DISO 538 565	épanchement intrapéritonéal
+T26	ANAT 550 565	intrapéritonéal
+T27	MEAS 606 611	70 mm
+T28	Concept_Idea 615 624	grand axe
+T29	DISO 639 722	dilatation artérielle périthoracique cervico-thoracique bilateralisée hypertrophiée
+T31	TEMP 739 754	2 premiers mois

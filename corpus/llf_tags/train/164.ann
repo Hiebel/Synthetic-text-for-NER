@@ -1,0 +1,74 @@
+T1	LIVB 15 25	nouveau-né
+T2	PHEN 54 63	grossesse
+T3	PROC 68 74	suivie
+T4	Concept_Idea 92 100	histoire
+T5	DISO 107 122	symptomatologie
+T6	TEMP 133 147	plusieurs mois
+T7	DISO 179 196	douleurs du genou
+T8	ANAT 191 196	genou
+T9	ANAT 204 209	genou
+T10	DISO 232 243	traumatisme
+T11	DISO 253 258	signe
+T12	PROC 284 299	examen clinique
+T13	PROC 305 316	échographie
+T14	PROC 324 336	mammographie
+T15	Concept_Idea 380 397	moyens financiers
+T16	MEAS 405 411	époque
+T17	MEAS 444 451	simples
+T18	PROC 457 475	antibioprophylaxie
+T19	CHEM 477 487	céfotaxime
+T20	CHEM 490 521	amoxicilline acide clavulanique
+T21	PROC 527 545	séjour hospitalier
+T22	Hospital 549 560	psychiatrie
+T23	PROC 580 614	prise en charge pluridisciplinaire
+T24	PROC 660 680	récepteurs hormonaux
+T25	Localization 796 803	gauches
+T26	DOSE 1412 1418	500 mg
+T27	TEMP 1418 1430	/ 3 semaines
+T28	PROC 1434 1451	geste chirurgical
+T29	PROC 1494 1509	radiodiagnostic
+T30	PROC 1523 1546	radiothérapie adjuvante
+T31	PROC 1565 1611	scintigraphies fonctionnelles scannographiques
+T32	PROC 1692 1715	contrôles radiologiques
+T33	PROC 1733 1764	TDM thoraco- abdomino-abdominal
+T34	ANAT 1737 1764	thoraco- abdomino-abdominal
+T35	DISO 1794 1833	lésions tissulaires pariétoarticulaires
+T36	MEAS 1854 1862	diffuses
+T37	MEAS 1887 1891	4 cm
+T38	MEAS 1894 1898	3 cm
+T39	MEAS 1902 1906	5 cm
+T40	MEAS 1909 1913	2 cm
+T41	DISO 1966 2018	micronodules bourgeonnants angiomateux hémorragiques
+T42	ANAT 2046 2077	hémi mésentère supérieur utérin
+T43	ANAT 2113 2125	ovaire droit
+T44	Localization 2120 2125	droit
+T45	DISO 2147 2226	nodules épithélioïdes achilléens infiltrant liquidiens péritonéaux métatarsiens
+T46	LIVB 2284 2292	patiente
+T47	PROC 2298 2324	investigations biologiques
+T48	DISO 2358 2381	malignités infectieuses
+T49	Concept_Idea 2405 2429	spécificité histologique
+T50	DISO 2481 2498	carcinomes malins
+T51	DISO 2512 2535	syndrome néphrocalcique
+T52	DISO 2600 2624	cellules carcinomateuses
+T53	DISO 2649 2683	tissus érythémateux inflammatoires
+T54	DISO 2699 2733	lymphocytes polyclonaux fusiformes
+T55	DISO 2746 2782	polynucléaires adrénergiques spumeux
+T56	DISO 2807 2827	hémosidérose tumoral
+T57	DISO 2834 2867	cytoplasme granulomateux calcifié
+T58	DISO 2882 2908	tuberculose du polygone T1
+T59	ANAT 2897 2908	polygone T1
+T60	DEVI 2945 2955	extracteur
+T61	CHEM 3009 3039	aminosides phosphocalciuriques
+T62	DISO 3089 3120	récepteurs immunohistochimiques
+T63	PROC 3138 3164	immunofluorescence directe
+T64	PHEN 3171 3189	suites opératoires
+T65	TEMP 3198 3208	immédiates
+T66	MEAS 3209 3216	simples
+T67	DISO 3222 3243	récidive neurologique
+T68	DISO 3254 3283	foyers infectieux secondaires
+T69	PROC 3288 3310	traitement chirurgical
+T70	PROC 3329 3349	exérèse chirurgicale
+T71	PROC 3355 3372	anesthésie totale
+T72	PROC 3396 3423	section extemporanéoplastie
+T73	ANAT 3443 3460	vésicule biliaire
+T74	PROC 3538 3592	néphrectomie transœso-oesophagiennectomie exploratrice

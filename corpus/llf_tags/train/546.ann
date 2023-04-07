@@ -1,0 +1,62 @@
+T1	DISO 42 90	accident vasculaire crânio-céphalique congénital
+T2	ANAT 62 90	crânio-céphalique congénital
+T3	PROC 102 122	transfusion sanguine
+T4	PROC 204 219	hémopéritations
+T5	PROC 246 265	anesthésie générale
+T6	PROC 279 300	ventilation mécanique
+T7	PROC 330 354	intubation endotrachéale
+T8	PROC 377 403	trachéostomie diagnostique
+T9	PROC 419 465	antibioprophylaxie probabiliste antibacillaire
+T10	PROC 495 542	cholécystectomie percutanée intrathrolinergique
+T11	MEAS 566 570	5 cm
+T12	MEAS 574 582	4 x 3 cm
+T13	PROC 590 616	symptomatologie opératoire
+T14	TEMP 629 639	trois mois
+T15	PROC 650 665	épisode initial
+T16	DISO 768 789	maladies métaboliques
+T17	DISO 826 859	métastases digestives compliquées
+T18	PROC 866 923	contrôle ophtalmologique préopératoire multidisciplinaire
+T19	DISO 998 1027	troubles hydroélectrolytiques
+T20	TEMP 1116 1133	depuis 6 semaines
+T22	MEAS 1218 1232	10 mg/KgEq/mm³
+T23	MEAS 1273 1288	progressivement
+T24	Concept_Idea 1292 1309	moyenne intensité
+T25	MEAS 1328 1354	0,75 gramme par kilogramme
+T26	ANAT 1368 1387	tronc iliaque droit
+T27	Localization 1382 1387	droit
+T28	DISO 1400 1416	signes cliniques
+T29	DISO 1443 1452	lombalgie
+T30	DISO 1462 1485	perforation anictérique
+T31	ANAT 1494 1504	fond d'œil
+T32	ANAT 1511 1532	région péribronchique
+T33	PROC 1537 1552	examen clinique
+T34	LIVB 1565 1572	patient
+T35	Concept_Idea 1597 1615	plan hémodynamique
+T36	DISO 1632 1664	syndrome délirant hallucinatoire
+T37	LIVB 1699 1709	nourrisson
+T38	PROC 1713 1735	électroencéphalogramme
+T39	PROC 1737 1740	EEG
+T40	PHEN 1755 1782	récepteurs hormonaux fœtaux
+T41	MEAS 1783 1791	positifs
+T42	CHEM 1796 1820	hormones gonadotropiques
+T43	CHEM 1833 1869	méthyl phénotype acétyle méthoxylase
+T44	MEAS 1879 1896	2 fois la normale
+T45	MEAS 1902 1911	1250 UI/L
+T46	PROC 1918 1943	injection intramusculaire
+T47	PROC 1958 1981	manipulation électrique
+T48	DISO 2000 2033	décompensation neuropsychiatrique
+T49	PROC 2047 2069	sédation intraveineuse
+T50	DISO 2116 2150	neurofibromatose néonatale maligne
+T51	PROC 2209 2231	surveillance prénatale
+T52	PROC 2237 2251	cystoendocrine
+T53	PROC 2252 2255	SAM
+T54	PROC 2271 2308	échographie obstétricale exploratrice
+T55	DISO 2360 2389	anomalie clinico-radiologique
+T56	PROC 2410 2431	prélèvements invasifs
+T57	DISO 2479 2502	cardiomyopathie dilatée
+T58	TEMP 2517 2532	depuis 10 jours
+T59	MEAS 2549 2556	diffuse
+T60	DEVI 2603 2623	viscères pulmonaires
+T61	ANAT 2643 2672	zones infra chondroblastiques
+T62	LIVB 2866 2876	nouveau-né
+T63	Hospital 2888 2913	grossesse monofactorielle

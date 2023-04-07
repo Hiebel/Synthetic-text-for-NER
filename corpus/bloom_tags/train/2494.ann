@@ -1,0 +1,18 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 69	admise
+T3	Hospital 74 82	urgences
+T4	DISO 102 123	détresse respiratoire
+T5	PHEN 111 123	respiratoire
+T6	PROC 140 158	traitement curatif
+T7	CHEM 160 170	furosémide
+T8	CHEM 172 191	hydroxy-chloroquine
+T9	CHEM 193 206	bromocriptine
+T10	CHEM 210 223	dexaméthasone
+T11	LIVB 295 303	patiente
+T12	PROC 322 341	traitement adjuvant
+T13	CHEM 356 387	médicaments antirétroviralliens
+T14	CHEM 393 403	Lamuvril ®
+T15	DISO 659 706	maladie thromboembolique veineuse superficielle
+T16	DOSE 798 801	2kg
+T17	CHEM 805 820	méthoxifentanil
+T18	PROC 825 845	transfusion sanguine

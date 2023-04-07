@@ -1,0 +1,28 @@
+T1	LIVB 19 26	patient
+T2	DISO 60 72	métrorragies
+T3	TEMP 82 93	depuis 1 an
+T4	PROC 99 108	admission
+T5	Hospital 112 142	service d'accueil des urgences
+T6	Hospital 146 195	Centre Hospitalier Universitaire Hassan II de Fès
+T7	Hospital 197 204	CHU-HFI
+T8	DISO 237 265	douleurs abdomino-pelviennes
+T9	ANAT 246 265	abdomino-pelviennes
+T10	MEAS 314 329	plus fréquentes
+T11	Concept_Idea 333 347	originairement
+T12	LIVB 368 376	patients
+T14	DISO 460 469	symptômes
+T15	DISO 500 527	vomissements cholestatiques
+T16	MEAS 542 553	progressive
+T17	PROC 571 599	prise en charge chirurgicale
+T18	DEVI 620 657	médicaments anesthésiques artificiels
+T19	DISO 687 716	processus gynéco-hémorragique
+T20	ANAT 775 799	paroi vaginale cervicale
+T21	MEAS 978 990	environ 2 cm
+T22	DISO 1043 1054	prurigineux
+T23	PHEN 1078 1106	surrénalections menstruelles
+T24	MEAS 1145 1148	20°
+T25	MEAS 1152 1155	70°
+T26	ANAT 1192 1206	grêles utérins
+T27	MEAS 1226 1229	50°
+T28	DISO 1382 1410	lésions cutanées purpuriques
+T29	ANAT 1499 1515	fosse ombilicale

@@ -1,0 +1,37 @@
+T1	LIVB 16 24	patiente
+T2	PHEN 45 70	antécédents pathologiques
+T3	MEAS 71 79	notables
+T4	PROC 81 86	reçue
+T5	Hospital 91 113	urgences chirurgicales
+T8	TEMP 179 192	depuis 9 mois
+T9	DISO 222 244	ictère cutanéo-muqueux
+T10	DISO 258 276	détresse digestive
+T11	PHEN 267 276	digestive
+T12	PROC 281 306	scanner abdomino périnéal
+T13	ANAT 289 306	abdomino périnéal
+T14	DISO 323 348	masse polylobée hypodense
+T15	MEAS 358 363	14 cm
+T16	Concept_Idea 367 376	grand axe
+T17	MEAS 381 386	13 cm
+T18	Concept_Idea 390 399	petit axe
+T19	ANAT 434 451	ovaire sus utérin
+T20	Localization 441 444	sus
+T21	DISO 483 500	lésions associées
+T22	DISO 517 544	épanchement intrapéritonéal
+T23	ANAT 529 544	intrapéritonéal
+T24	DISO 568 573	masse
+T25	DISO 626 650	kyste hydatique primitif
+T26	DISO 685 717	cholécystite aiguë inflammatoire
+T27	DISO 747 775	hyperplasie nécrose caséeuse
+T28	DISO 789 836	hypertrophie vésicale intrahydronéphrénoidienne
+T29	ANAT 802 836	vésicale intrahydronéphrénoidienne
+T30	DISO 852 885	nécrose granulomateuse ischémique
+T31	PROC 913 943	bilan biologique préopératoire
+T32	CHEM 968 976	natrémie
+T33	MEAS 979 988	126 meq/l
+T34	PROC 994 1002	kaliémie
+T35	MEAS 1005 1014	2,5 meq/l
+T36	PROC 1020 1039	hémoglobine glyquée
+T37	MEAS 1042 1047	9,4 %
+T38	PROC 1053 1075	leucocytes globulaires
+T39	MEAS 1078 1102	2000 éléments blancs/mm3

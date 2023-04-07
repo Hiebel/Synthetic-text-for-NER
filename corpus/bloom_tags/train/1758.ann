@@ -1,0 +1,41 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	12 ans
+T3	DISO 26 51	antécédents pathologiques
+T4	MEAS 52 60	notables
+T5	PROC 62 70	consulte
+T6	Hospital 75 83	urgences
+T7	DISO 93 113	masse du pied gauche
+T8	ANAT 102 113	pied gauche
+T9	Localization 107 113	gauche
+T10	TEMP 123 136	depuis 2 mois
+T11	MEAS 151 166	progressivement
+T12	Concept_Idea 170 176	volume
+T13	PROC 180 195	examen clinique
+T14	PROC 200 209	admission
+T15	LIVB 222 228	enfant
+T16	MEAS 232 241	assez bon
+T17	Concept_Idea 242 254	état général
+T18	PHEN 260 284	reflexes ostéo-tendineux
+T19	ANAT 269 284	ostéo-tendineux
+T20	PROC 326 345	examen somatomoteur
+T21	DISO 380 452	déficit sensitivomotricité des membres inférieurs métatarsophalangiennes
+T22	ANAT 411 452	membres inférieurs métatarsophalangiennes
+T23	DISO 465 510	syndrome d'épanchement liquidien péribuccinée
+T24	ANAT 488 510	liquidien péribuccinée
+T25	DISO 529 544	hématurie aigue
+T26	DISO 560 566	fièvre
+T27	MEAS 578 582	39°C
+T28	DISO 599 608	diarrhées
+T29	DISO 614 633	hypocholestérolémie
+T30	PROC 638 668	échographie abdomino-pelvienne
+T31	ANAT 650 668	abdomino-pelvienne
+T33	CHEM 751 771	produit de contraste
+T34	MEAS 781 786	20 cm
+T35	Concept_Idea 790 799	grand axe
+T36	MEAS 804 809	13 cm
+T37	Concept_Idea 813 826	petite taille
+T38	ANAT 843 876	muscles latérocervico-thyroïdiens
+T39	DISO 893 913	vésicule lithiasique
+T40	DISO 934 956	opacification kystique
+T41	DISO 974 1026	carcinose maligne épidermoïde purulente prurigineuse
+T42	DISO 1058 1074	signes cliniques

@@ -1,0 +1,40 @@
+T1	LIVB 15 22	patient
+T2	DISO 60 80	symptômes infectieux
+T3	DISO 91 102	pollakiurie
+T4	DISO 123 139	maladie cœliaque
+T5	LIVB 154 156	sa
+T6	PHEN 157 178	grossesse monofoetale
+T7	PROC 192 198	suivie
+T8	Hospital 202 217	bloc opératoire
+T9	PROC 223 229	admise
+T10	Hospital 238 266	service de gastroentérologie
+T11	LIVB 270 273	son
+T12	PROC 274 293	bilan préopératoire
+T13	PROC 295 315	glycémie glycédienne
+T14	PROC 317 332	hémophagocytose
+T15	PROC 334 358	créatinine acide folique
+T16	PROC 360 385	phosphaturie normocytaire
+T17	PROC 387 411	amylasémie intraveineuse
+T18	PROC 413 439	ionogramme bactériologique
+T19	MEAS 451 458	négatif
+T20	PROC 473 502	TDM cervico-thoraco-abdominal
+T21	ANAT 477 502	cervico-thoraco-abdominal
+T22	DISO 516 560	distension crânio-utérine fœtale anévrismale
+T23	ANAT 527 560	crânio-utérine fœtale anévrismale
+T24	DISO 576 586	myasthénie
+T25	DISO 600 629	insuffisance rénale terminale
+T26	ANAT 613 619	rénale
+T27	MEAS 640 644	0,5%
+T28	PROC 650 683	néphrectomie totale scanno-guidée
+T29	PROC 697 712	radiodiagnostic
+T30	DEVI 797 818	processus ambulatoire
+T31	PROC 823 857	scanner oeso-gastroduodénométrique
+T32	ANAT 831 857	oeso-gastroduodénométrique
+T33	DISO 874 919	tumeur myéloblastique hypokinétique calcifiée
+T34	ANAT 938 965	fosse infundibulaire droite
+T35	Localization 959 965	droite
+T36	MEAS 975 979	4 cm
+T37	Concept_Idea 983 992	grand axe
+T38	ANAT 1018 1050	nerf laryngé inférieur inférieur
+T39	Localization 1041 1050	inférieur
+T40	DEVI 1076 1109	cathéter double lumière aspiratif

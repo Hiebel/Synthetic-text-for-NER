@@ -1,0 +1,51 @@
+T1	LIVB 3 13	nourrisson
+T2	TEMP 39 45	5 mois
+T3	PROC 48 59	aménorrhées
+T4	DISO 89 119	diabète non insulino-requérant
+T5	DISO 139 158	douleurs pelviennes
+T6	ANAT 148 158	pelviennes
+T7	PROC 190 210	prise médicamenteuse
+T8	DISO 227 251	symptomatologie clinique
+T9	Concept_Idea 266 269	âge
+T10	TEMP 273 279	6 mois
+T11	LIVB 295 301	enfant
+T12	DISO 325 342	accident de sport
+T13	LIVB 361 363	sa
+T14	LIVB 364 371	famille
+T15	DISO 376 410	fracture du membre supérieur droit
+T16	ANAT 388 410	membre supérieur droit
+T17	Localization 405 410	droit
+T18	LIVB 428 431	son
+T19	LIVB 432 436	sœur
+T20	Hospital 458 491	service des urgences pédiatriques
+T21	DISO 511 530	choc anaphylactique
+T22	DISO 532 541	fébricule
+T23	PROC 546 561	examen physique
+T24	DISO 573 586	particularité
+T25	DISO 604 610	fièvre
+T26	DISO 620 639	signe inflammatoire
+T27	MEAS 659 663	deux
+T28	ANAT 664 669	pieds
+T29	MEAS 678 698	légèrement sensibles
+T30	PROC 704 715	échographie
+T31	DISO 736 755	niveau hydroaérique
+T32	DISO 762 773	cervicalgie
+T33	DISO 817 857	masse tissulaire hétérogène hypoéchogène
+T34	MEAS 866 871	10 cm
+T35	Concept_Idea 875 884	grand axe
+T36	MEAS 894 907	3 centimètres
+T37	Concept_Idea 911 920	petit axe
+T38	Concept_Idea 974 993	aspect histologique
+T39	DISO 1046 1083	récepteurs hormonaux gonadotrophiques
+T40	DISO 1107 1128	atteinte neurologique
+T41	Concept_Idea 1218 1227	abondance
+T42	MEAS 2839 2846	simples
+T43	LIVB 2853 2860	patient
+T44	PROC 2870 2889	traitement adjuvant
+T45	CHEM 2899 2930	amoxicilline-acide clavulanique
+T46	TEMP 2950 2955	3 ans
+T47	DISO 3005 3026	adénopathies faciales
+T48	DISO 3051 3079	processus lésionnel pariétal
+T49	DISO 3095 3131	nodule scléreux érythémateux lobulée
+T50	DISO 3144 3165	signes morphologiques
+T51	DISO 3191 3216	lésion tissulaire maligne

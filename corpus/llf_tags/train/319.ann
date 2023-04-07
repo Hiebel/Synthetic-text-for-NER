@@ -1,0 +1,27 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 62 63	7
+T3	LIVB 64 71	enfants
+T4	DISO 129 148	mortalité néonatale
+T5	DISO 155 178	consanguinité multisexe
+T6	PHEN 194 203	grossesse
+T7	PROC 230 240	césarienne
+T8	TEMP 257 268	24 semaines
+T9	CHEM 284 309	antibiotique probabiliste
+T10	CHEM 315 326	rifampicine
+T11	DOSE 328 336	260 mg 3
+T12	TEMP 336 338	/j
+T14	DOSE 357 371	25 mg 1 gramme
+T15	TEMP 371 373	/j
+T16	PROC 406 416	césarienne
+T17	PROC 430 457	néphrectomie totale élargie
+T18	Hospital 470 495	circonstances anténatales
+T19	PROC 501 525	échographie obstétricale
+T21	Localization 694 699	droit
+T22	MEAS 735 739	6 cm
+T23	Concept_Idea 743 751	diamètre
+T24	MEAS 760 774	20 centimètres
+T25	Concept_Idea 778 792	plus grand axe
+T26	ANAT 810 831	carrefour iléo-caecal
+T27	ANAT 873 900	pédicule fémoral sus pubien
+T28	PROC 906 936	complément scannographique IRM
+T29	PROC 970 1001	prélèvement anatomopathologique

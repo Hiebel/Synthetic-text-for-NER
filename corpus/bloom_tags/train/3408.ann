@@ -1,0 +1,68 @@
+T1	LIVB 3 9	garçon
+T2	TEMP 13 19	12 ans
+T3	DISO 38 56	chute accidentelle
+T4	PROC 117 135	traitement curatif
+T5	CHEM 148 158	Amiodarone
+T6	CHEM 161 172	Cyclosérine
+T7	CHEM 186 200	Ciprofloxacine
+T8	PROC 250 293	prise médicamenteuse adjuvante chirurgicale
+T9	PROC 309 324	hospitalisation
+T10	PROC 366 370	IUCT
+T11	PROC 375 396	enquête peropératoire
+T12	DISO 410 431	incontinence urinaire
+T13	ANAT 423 431	urinaire
+T14	DISO 465 485	hydrocèle hydrorrhée
+T15	TEMP 495 508	depuis 1 mois
+T16	PROC 533 564	méthode diurétique substitutive
+T17	PROC 569 601	exploration fonctionnelle rénale
+T18	ANAT 595 601	rénale
+T19	DISO 626 695	sténose intestinale jéjunostomie intestinale iléocoecale du groupee B
+T21	DISO 700 738	syndrome d’épanchement intrapéritonéal
+T22	ANAT 723 738	intrapéritonéal
+T23	PHEN 746 770	réflexes ostéo-tendineux
+T24	ANAT 755 770	ostéo-tendineux
+T25	MEAS 771 780	conservés
+T26	Concept_Idea 785 790	poids
+T27	MEAS 800 805	20 kg
+T28	Concept_Idea 815 821	taille
+T29	MEAS 825 830	75 cm
+T30	DISO 843 856	particularité
+T31	DISO 873 901	épanchement intra-péritonéal
+T32	ANAT 885 901	intra-péritonéal
+T33	PROC 905 931	examen anatomopathologique
+T34	ANAT 938 954	pièce opératoire
+T35	PROC 944 954	opératoire
+T36	DISO 989 1020	adénocarcinome hypo-vascularisé
+T37	ANAT 1037 1066	glandons salivaires pyéliques
+T38	MEAS 1076 1081	13 mm
+T39	MEAS 1086 1089	9mm
+T40	DISO 1110 1160	emboles artériolaires cerviculo-carotidopharyngées
+T41	ANAT 1118 1160	artériolaires cerviculo-carotidopharyngées
+T42	DISO 1199 1209	métastases
+T43	DISO 1298 1327	carcinome œsophagien kystique
+T44	LIVB 1366 1374	patiente
+T45	TEMP 1383 1389	12 ans
+T46	DISO 1409 1436	polyneuropathie monoclonale
+T47	DISO 1446 1469	symptômes neurologiques
+T48	DISO 1498 1524	troubles sensitivomotrices
+T49	PROC 1568 1601	imagerie par résonance magnétique
+T50	PROC 1603 1606	IRM
+T51	PROC 1611 1641	échographie abdomino-pelvienne
+T52	ANAT 1623 1641	abdomino-pelvienne
+T53	DISO 1669 1678	anomalies
+T54	DISO 1702 1722	utérus polymyomateux
+T55	DISO 1732 1764	localisation néoplasique maligne
+T56	DISO 1787 1806	ectopie placentaire
+T57	ANAT 1795 1806	placentaire
+T58	LIVB 1851 1856	Notre
+T59	PROC 1888 1925	prémédication antalgique probabiliste
+T60	DOSE 1936 1942	2mg/kg
+T61	CHEM 1946 1957	bupivacaine
+T62	DOSE 1959 1966	1 mg/kg
+T63	CHEM 1970 1980	furosémide
+T64	MODE 1982 1988	per os
+T65	DOSE 1992 1998	200 mg
+T66	CHEM 2002 2015	cisatracurium
+T67	DEVI 2032 2050	bolus intraveineux
+T68	DOSE 2054 2061	3 µg/kg
+T69	CHEM 2065 2084	prolablocorticoïdes

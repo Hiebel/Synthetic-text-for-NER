@@ -1,0 +1,53 @@
+T1	LIVB 3 10	patient
+T2	DISO 65 87	hypertension artériale
+T3	ANAT 78 87	artériale
+T4	PROC 92 96	reçu
+T5	Hospital 101 123	urgences chirurgicales
+T6	DISO 158 179	syndrome épigastrique
+T7	PROC 185 199	interrogatoire
+T8	DISO 228 249	détresse respiratoire
+T9	PHEN 237 249	respiratoire
+T10	MEAS 264 275	progressive
+T11	TEMP 285 298	depuis 2 mois
+T12	Concept_Idea 334 346	état général
+T13	DISO 377 401	sensibilité épigastrique
+T14	ANAT 389 401	épigastrique
+T15	MEAS 413 428	progressivement
+T16	Concept_Idea 432 438	volume
+T17	PROC 460 483	consultation en urgence
+T18	Hospital 487 502	bloc opératoire
+T19	PROC 508 524	examens clinique
+T20	DISO 543 574	distension duodéno-sigmoïdienne
+T21	ANAT 554 574	duodéno-sigmoïdienne
+T22	PROC 596 614	traitement médical
+T23	CHEM 629 660	anti inflammatoires biologiques
+T24	CHEM 662 681	corticoïdes inhalés
+T25	PROC 694 724	bilan biologique préopératoire
+T26	DISO 752 760	surpoids
+T27	DISO 767 788	troubles métaboliques
+T28	PROC 803 833	échographie abdomino-pelvienne
+T29	ANAT 815 833	abdomino-pelvienne
+T30	LIVB 857 865	patiente
+T31	PROC 871 916	anesthésie locorégionale du sinus cave gauche
+T33	ANAT 899 916	sinus cave gauche
+T34	Localization 910 916	gauche
+T35	DEVI 941 977	drainage péristaltique transpariétal
+T36	DISO 1014 1050	sténose grêlo-pancréatique étranglée
+T37	ANAT 1022 1050	grêlo-pancréatique étranglée
+T38	DISO 1055 1081	paragangliome hypertrophié
+T39	MEAS 1091 1096	23 cm
+T40	Concept_Idea 1100 1109	grand axe
+T41	DISO 1124 1163	volvulus interstissulaire pancréatiques
+T42	ANAT 1133 1163	interstissulaire pancréatiques
+T43	ANAT 1180 1203	ventricules thyroïdiens
+T44	ANAT 1219 1239	substance nécrotique
+T45	PROC 1291 1335	tomodensitométrie thoraco-abdomino-pelvienne
+T46	ANAT 1309 1335	thoraco-abdomino-pelvienne
+T48	ANAT 1473 1496	utérus gynéo-thoracique
+T49	ANAT 1516 1535	liquide hysterélial
+T50	ANAT 1623 1643	membranes ovariennes
+T51	PROC 1673 1682	injection
+T52	CHEM 1686 1706	produit de contraste
+T53	ANAT 1725 1746	surrénaux pituitaires
+T54	DISO 1833 1853	métastases tumorales
+T55	MEAS 1862 1880	plus systématisées

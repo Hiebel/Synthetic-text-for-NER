@@ -1,0 +1,90 @@
+T1	LIVB 19 29	nourrisson
+T2	TEMP 37 43	9 mois
+T3	PROC 102 123	transits pédiatriques
+T4	PROC 134 146	néonatologie
+T5	PROC 148 170	pédiatrie obstétricale
+T6	PROC 172 182	hémogramme
+T7	PROC 184 195	échographie
+T8	PROC 197 217	gynécologie générale
+T9	PROC 219 250	endocrinopathologie infectieuse
+T10	PROC 252 275	laryngoscopie digestive
+T11	PROC 277 303	scanner oesogastroduodénal
+T12	ANAT 285 303	oesogastroduodénal
+T13	PROC 305 324	électrocardiogramme
+T14	PROC 326 342	neuropsychiatrie
+T15	PROC 344 363	radiologie clinique
+T16	PROC 365 386	recherche étiologique
+T17	PROC 388 407	immunohistochimique
+T18	PROC 409 435	étude immuno-histochimique
+T19	PROC 437 450	antibiogramme
+T20	PROC 452 474	examen bactériologique
+T21	PROC 476 503	numération formule sanguine
+T22	PROC 505 526	enzymes pancréatiques
+T23	PROC 528 545	glycémie standard
+T24	PROC 547 551	urée
+T25	PROC 553 575	créatine phosphokinase
+T26	PROC 577 597	bilirubine conjuguée
+T27	PROC 599 618	hydroxyprogestérone
+T28	PROC 620 645	troponine intracytoplasme
+T29	PROC 647 651	TCMH
+T30	PROC 653 667	phospholipasme
+T31	PROC 669 682	acide folique
+T32	PROC 684 711	polynucléaires éosinophiles
+T33	PROC 713 725	protides AQ2
+T34	PROC 727 745	alpha fœtoproteine
+T35	PROC 747 769	triglycérides sériques
+T36	PROC 771 785	catécholécyste
+T37	PROC 787 813	fermentation lactico-rénal
+T38	PROC 815 826	urosclérose
+T39	PROC 828 843	myélopéroxydase
+T40	PROC 845 861	œstrogène direct
+T41	PROC 863 896	céphalosporine acide clavulanique
+T42	PROC 898 913	oxygénothérapie
+T43	PROC 915 934	méthotrexate totale
+T44	PROC 936 961	métronidazole sublinguale
+T45	PROC 963 994	peroxyde acétyle glutaméthasone
+T46	PROC 996 1010	hydrocortisone
+T48	PROC 1025 1045	indométacôlonergique
+T49	PROC 1047 1069	kinésithérapie motrice
+T50	PROC 1071 1092	ventilation mécanique
+T51	PROC 1094 1117	trachéotomie percutanée
+T52	PROC 1119 1145	monocortico angiographique
+T54	DISO 1161 1181	lésions de l'estomac
+T55	ANAT 1174 1181	estomac
+T56	PROC 1183 1203	exérèse chirurgicale
+T57	PROC 1205 1248	curage ganglionnaire cervical scanno-guidon
+T58	PROC 1250 1297	anastomose péritonéale du tronc spléno-duodénum
+T59	ANAT 1276 1297	tronc spléno-duodénum
+T60	DISO 1350 1371	trouble de conscience
+T61	PROC 1388 1417	prise en charge psychiatrique
+T62	PROC 1424 1433	transfert
+T63	Hospital 1437 1452	bloc opératoire
+T64	TEMP 1476 1486	24/07/2017
+T65	MEAS 1523 1530	simples
+T66	DISO 1543 1563	récidive psychotique
+T67	DISO 1573 1599	signe clinico-radiologique
+T68	LIVB 1619 1624	femme
+T69	DISO 1659 1698	accident vasculaire cérébral ischémique
+T70	LIVB 1717 1721	elle
+T71	CHEM 1736 1758	atropine bêtalactamine
+T72	DOSE 1760 1765	50 mg
+T73	PHEN 1771 1780	grossesse
+T74	LIVB 1822 1826	elle
+T75	Hospital 1849 1872	urgences gynécologiques
+T76	DISO 1892 1907	dyspnée stade I
+T77	DISO 1938 1959	distension thoracique
+T78	ANAT 1949 1959	thoracique
+T79	DISO 1975 2002	sensation de corps étranger
+T80	Concept_Idea 2032 2052	convulsions fébriles
+T81	Concept_Idea 2091 2103	état général
+T82	PROC 2165 2187	consultation prénatale
+T83	PROC 2256 2270	interrogatoire
+T84	LIVB 2297 2307	nourrisson
+T85	TEMP 2377 2383	6 mois
+T86	TEMP 2421 2427	4 mois
+T87	PROC 2439 2445	suivie
+T88	TEMP 2502 2508	18 ans
+T89	MEAS 2517 2518	5
+T90	LIVB 2519 2526	enfants
+T91	LIVB 2680 2683	son
+T92	LIVB 2684 2690	épouse

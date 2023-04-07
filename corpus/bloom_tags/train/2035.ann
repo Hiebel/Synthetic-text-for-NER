@@ -1,0 +1,24 @@
+T1	LIVB 20 25	femme
+T2	Concept_Idea 42 53	antécédents
+T3	MEAS 54 62	notables
+T4	PROC 64 70	admise
+T5	Hospital 74 81	urgence
+T6	Hospital 86 111	urgences ophtalmologiques
+T7	DISO 121 130	céphalées
+T8	TEMP 152 165	depuis 6 mois
+T9	PROC 169 183	interrogatoire
+T10	DISO 211 242	traumatisme du sinus maxillaire
+T11	ANAT 226 242	sinus maxillaire
+T12	PROC 276 291	examen clinique
+T13	DISO 307 348	œdème maculopapuleux érythémato-pustuleux
+T14	ANAT 365 396	région para parotidienne droite
+T15	Localization 390 396	droite
+T16	PROC 423 443	bilan d'hyperthermie
+T17	MEAS 446 450	40°C
+T18	PROC 455 490	scanner cervico-thoracique infarcté
+T19	ANAT 463 490	cervico-thoracique infarcté
+T20	PROC 510 527	anesthésie locale
+T21	CHEM 529 537	propofol
+T22	DOSE 539 548	0,5 mg/m²
+T23	DEVI 550 559	laser CO2
+T27	ANAT 850 879	susdiaphragmatique thoracique

@@ -1,0 +1,36 @@
+T1	LIVB 16 21	femme
+T2	PROC 65 81	cholécystectomie
+T3	DISO 88 117	carcinome épidermoïde du rein
+T4	ANAT 113 117	rein
+T5	PROC 121 147	examen anatomopathologique
+T6	DISO 169 194	localisations secondaires
+T7	MEAS 213 217	deux
+T8	ANAT 218 238	ganglions axillaires
+T9	Localization 247 260	1/3 supérieur
+T10	Concept_Idea 297 304	limites
+T11	MEAS 305 311	saines
+T12	PHEN 329 339	diagnostic
+T13	MEAS 340 351	particulier
+T14	PROC 450 475	étude immunohistochimique
+T15	PROC 477 480	IHC
+T16	MEAS 488 496	positive
+T17	LIVB 526 534	patiente
+T18	CHEM 564 577	métronidazole
+T19	MODE 582 600	voie intraveineuse
+T20	PROC 614 642	antibiothérapie concomitante
+T21	CHEM 648 664	amoxicilline IgG
+T22	CHEM 667 677	aminosides
+T23	TEMP 710 716	7 mois
+T24	PROC 720 732	surveillance
+T25	PROC 737 754	tomodensitométrie
+T27	ANAT 761 787	thoraco-abdomino-pelvienne
+T28	Hospital 801 822	urgences pédiatriques
+T29	DISO 842 859	récidive tumorale
+T30	DISO 869 887	nodule métastasant
+T31	PROC 900 919	bilan préopératoire
+T32	DISO 953 974	processus malformatif
+T33	PROC 1001 1024	radiothérapie adjuvante
+T34	PROC 1056 1096	tumorectomie exploratrice complémentaire
+T35	MEAS 1168 1175	simples
+T36	MEAS 1197 1207	favorables
+T37	DISO 1242 1265	difficulté diagnostique

@@ -1,0 +1,33 @@
+T1	PROC 3 16	radiologiques
+T2	DISO 27 36	anomalies
+T3	LIVB 41 49	patiente
+T4	PROC 68 103	tomodensitométrie du genou cervical
+T5	ANAT 89 103	genou cervical
+T6	DISO 135 177	processus tissulaire de la cheville gauche
+T7	ANAT 162 177	cheville gauche
+T8	Localization 171 177	gauche
+T9	Concept_Idea 186 201	index mitotique
+T10	MEAS 204 205	8
+T11	PHEN 211 230	fonction systolique
+T12	MEAS 231 238	normale
+T13	DISO 245 271	signes neuropsychiatriques
+T14	PROC 286 302	bilan biologique
+T15	DISO 324 346	syndrome inflammatoire
+T16	DISO 353 373	carcinose pulmonaire
+T17	ANAT 363 373	pulmonaire
+T18	DISO 390 425	adénopathies antéro-supra fundiques
+T19	ANAT 403 425	antéro-supra fundiques
+T20	PROC 466 481	examen clinique
+T21	DISO 493 506	particularité
+T22	PROC 511 533	traitement chirurgical
+T23	PROC 553 578	chimiothérapie palliative
+T24	CHEM 584 598	céphalosporine
+T25	PROC 612 630	antibioprophylaxie
+T26	MODE 635 653	voie intraveineuse
+T27	MEAS 735 742	simples
+T28	TEMP 750 775	4 ème jour postopératoire
+T29	PROC 780 816	contrôle radiologique complémentaire
+T30	Hospital 829 837	urgences
+T31	DISO 855 865	métastases
+T32	DISO 869 886	lésions kystiques
+T33	LIVB 898 906	patiente

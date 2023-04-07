@@ -1,0 +1,25 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 77	particuliers
+T4	PROC 79 84	admis
+T5	Hospital 89 114	urgences ophtalmologiques
+T6	DISO 124 174	lésions érythémateuses du cuir chevelu prurigineux
+T7	ANAT 150 162	cuir chevelu
+T8	TEMP 184 202	depuis trois jours
+T9	PROC 206 221	examen clinique
+T10	PROC 226 235	admission
+T11	Concept_Idea 248 260	état général
+T12	MEAS 310 317	modérée
+T13	PROC 323 351	investigations radiologiques
+T14	DISO 384 407	paralysie faciale droit
+T15	ANAT 394 407	faciale droit
+T16	Localization 402 407	droit
+T17	DISO 427 454	diabète cytocholestérolique
+T18	DISO 462 489	neurorétinophagocanalgiques
+T19	ANAT 510 522	champ visuel
+T20	DISO 536 585	hyperhémie papulo-lésionnellerétinienne purulente
+T21	ANAT 547 585	papulo-lésionnellerétinienne purulente
+T22	ANAT 602 636	région pariéto-mandibulaire droite
+T23	Localization 630 636	droite
+T24	DISO 680 712	épanchement intrarétinien séreux
+T25	ANAT 692 712	intrarétinien séreux

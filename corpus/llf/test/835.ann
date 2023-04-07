@@ -1,0 +1,11 @@
+T1	LIVB 3 10	patient
+T2	DISO 26 35	céphalées
+T3	DISO 41 79	baisse
+T4	PHEN 53 68	acuité
+T5	Localization 69 79	bilatérale
+T6	DISO 86 109	trouble
+T7	PROC 113 132	examen
+T8	ANAT 120 132	neurologique
+T9	DISO 144 157	particularité
+T10	DISO 174 205	désorientation
+T11	ANAT 189 205	temporo-spatiale

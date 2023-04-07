@@ -1,0 +1,34 @@
+T1	LIVB 28 35	patient
+T2	DISO 64 107	syndrome d'épanchement liquidien péritonéal
+T3	ANAT 87 107	liquidien péritonéal
+T4	DISO 128 214	adénopathies jugulo-carotidiennes latéro-maxillaires cervico-thoraciques hypoechogènes
+T6	DISO 291 319	prise médicamenteuse toxique
+T7	LIVB 352 355	ses
+T8	MEAS 382 394	particuliers
+T9	DISO 422 435	consanguinité
+T10	DISO 442 448	fièvre
+T11	MEAS 460 466	39 ° C
+T12	DISO 496 534	symptomatologie épanchement péritonéal
+T13	ANAT 524 534	péritonéal
+T14	PHEN 581 593	état général
+T15	DISO 613 641	épanchement sous lithiasique
+T16	Localization 625 629	sous
+T17	MEAS 657 672	progressivement
+T18	Concept_Idea 676 682	taille
+T19	MEAS 694 702	2 litres
+T20	MEAS 705 714	13 litres
+T21	PROC 740 755	hospitalisation
+T22	DISO 780 800	déficit neurologique
+T23	DISO 825 851	troubles sensitivomotrices
+T24	TEMP 861 877	depuis deux mois
+T25	DISO 892 907	pruritissements
+T26	DISO 928 955	polynucléaires neutrophiles
+T27	LIVB 1000 1006	enfant
+T28	LIVB 1019 1040	grand-mère paternelle
+T29	PROC 1065 1094	diagnostic histo-pathologique
+T30	PROC 1112 1142	échographie abdomino-pélvienne
+T31	ANAT 1124 1142	abdomino-pélvienne
+T32	DISO 1156 1212	masse tumorale tissulaire polylobée pariétale hyperdense
+T33	MEAS 1224 1239	progressivement
+T34	Concept_Idea 1243 1249	volume
+T35	ANAT 1285 1314	rectum intestinale transverse

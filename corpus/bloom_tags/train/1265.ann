@@ -1,0 +1,17 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 83 88	suivi
+T5	DISO 97 119	carcinome du péritoine
+T6	ANAT 110 119	péritoine
+T7	PROC 158 177	bilan préopératoire
+T8	PROC 191 214	annexectomie bilatérale
+T9	Localization 204 214	bilatérale
+T10	PROC 220 262	curage surrénalien hépatique transfixiante
+T11	ANAT 227 262	surrénalien hépatique transfixiante
+T12	PROC 268 292	chimiothérapie adjuvante
+T13	CHEM 294 303	docetaxel
+T14	CHEM 307 317	furosémide
+T15	DOSE 347 355	175mg/m²
+T16	TEMP 355 357	/j
+T17	MODE 361 371	voie orale

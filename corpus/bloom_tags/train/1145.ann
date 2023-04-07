@@ -1,0 +1,53 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	Concept_Idea 42 67	antécédents pathologiques
+T4	MEAS 68 80	particuliers
+T5	PROC 82 87	admis
+T6	Hospital 92 100	urgences
+T7	DISO 110 145	douleurs abdomino-pelviennes aiguës
+T8	ANAT 119 138	abdomino-pelviennes
+T9	LIVB 147 149	Il
+T10	DISO 175 181	fièvre
+T11	PROC 198 213	examen clinique
+T12	LIVB 230 237	patient
+T13	MEAS 241 244	bon
+T14	Concept_Idea 245 257	état général
+T15	MEAS 267 272	10/10
+T16	PHEN 281 302	contractions utérines
+T17	ANAT 294 302	utérines
+T18	PROC 325 341	bilan biologique
+T19	PROC 359 362	CRP
+T20	MEAS 365 372	150mg/l
+T21	PROC 532 562	échographie abdomino-pelvienne
+T22	ANAT 544 562	abdomino-pelvienne
+T23	DEVI 585 605	cathéter vésiculaire
+T24	ANAT 594 605	vésiculaire
+T25	PROC 621 646	intervention chirurgicale
+T26	PROC 660 682	TDM abdomino-pelvienne
+T27	ANAT 664 682	abdomino-pelvienne
+T28	DISO 709 761	masse tumorale du flanc péritonéal inféro-sigmoïdien
+T29	ANAT 727 3114	flanc péritonéal inféro-sigmoïdien mesurant 2cm sur 3 cm intéressant tout le pelvis faisant suspecter sa nature ganglionnaire associée à d'autres opacités tissulaires hypodenses dissociées entrecroisées d'allure métastatique prenant le contraste sous forme de polynucléaires hétérogènes suggérant leur nature pleurésie ou hémangioendothélial kystique
+Un traitement médical adjuvant type Cyclo-oxazole -1 mg/kg + Ceftriaxone) per os est instauré dans ce cas alors qu'à titre palliatif il peut être utilisé comme moyen thérapeutique devant l'absence d'autre alternative curative chez cette jeune patiente décédée avant toute chirurgie bupivacaine notamment après avoir montré qu'il n'existe pas de consensus quant à son étiologie bien qu'elle soit liée à l'immunodépression consanguine mais elle doit être abordée aussi bien cliniquement qu'histologiquement vu que tous les facteurs déclenchants sont susceptibles d'expliquer ces affections dont l'origine reste encore mal cernée d'où l'impérieuse nécessité d'améliorer notre pronostic préopératoire surtout quand on se propose d'intervenir in utéro afin d'éliminer toutes autres causes secondaires d'évolutivité défavorable postopératoires ayant pu s'invahir lors de l'accouchement extemporané où elles peuvent parfois devenir devenues plus fréquentes qu'on ne le pensait jusqu'a présent grâce à leurs méthodes d'invagination améliorées tel qu'un myomateo-myometrectomie transplacentarienne permettant l'obtention d'accouchements eutociques séparés prématurément associés à l'éventuelle voie basse étant jugulé par l'interruption médicale de la grossesse gémellaire monofœtale biparité procréation artificielle monochoriale fœto-rectale scrotale gestationnelle mono-cervico-thoracique cytopolypnéique syndrome nécrose cicatiquante érythème prurigineux cervicothoracique thoracique diaphragmatique œsophagier hyo-diaphragmatique trépied flasque séreux angulo-aortique craniosténotextural épiploïdal d'épanchement liquidien cérébro-liquidien pariétal rétrovésiculaire lithiasique médiastinal ischio-interstitiel achilléo-transverse grêlique fundus caverneux rétroparenchymateux sus latéral médian sylvien basithoracique métamélique céphalique résiduel pancréato-carotidien effrangé refoulant vésiculaire bicuculliforme myomyométrisé placo-vésiculaire macromégalicus ovariome thyroïde échogène polylengéonéphrine artérielle périventriculaire
+T30	MEAS 771 774	2cm
+T31	MEAS 779 783	3 cm
+T32	ANAT 804 810	pelvis
+T33	DISO 839 852	ganglionnaire
+T34	DISO 873 904	opacités tissulaires hypodenses
+T35	DISO 939 951	métastatique
+T36	DISO 987 1013	polynucléaires hétérogènes
+T37	DISO 1036 1045	pleurésie
+T38	DISO 1049 1077	hémangioendothélial kystique
+T39	PROC 1081 1108	traitement médical adjuvant
+T40	CHEM 1114 1127	Cyclo-oxazole
+T41	DOSE 1129 1136	1 mg/kg
+T42	CHEM 1139 1150	Ceftriaxone
+T43	MODE 1152 1158	per os
+T44	LIVB 1321 1329	patiente
+T45	PROC 1350 1371	chirurgie bupivacaine
+T46	DISO 1655 1665	affections
+T47	PROC 1751 1774	pronostic préopératoire
+T48	PROC 2123 2166	myomateo-myometrectomie transplacentarienne
+T50	LIVB 3118 3124	enfant
+T51	PROC 3142 3171	geste chirurgical explorateur
+T52	Concept_Idea 3181 3189	résultat
+T53	MEAS 3190 3208	assez satisfaisant

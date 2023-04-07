@@ -1,0 +1,26 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 30 37	patient
+T3	Concept_Idea 62 80	plan hémodynamique
+T4	DISO 84 96	respiratoire
+T5	PHEN 106 124	tension artérielle
+T6	ANAT 114 124	artérielle
+T7	MEAS 127 138	120/70 mmhg
+T8	Concept_Idea 147 162	plan biologique
+T9	PROC 167 194	numération formule sanguine
+T10	DISO 206 215	anomalies
+T11	DISO 232 248	hyperleucocytose
+T12	MEAS 251 285	14800 éléments par millimètre cube
+T13	PROC 289 319	échographie abdomino-pelvienne
+T14	ANAT 301 319	abdomino-pelvienne
+T15	MEAS 335 344	multiples
+T18	DISO 426 459	syndrome d'épanchement péritonéal
+T19	ANAT 449 459	péritonéal
+T20	DISO 480 520	métastases parathyroïdiens hypophysaires
+T21	ANAT 491 520	parathyroïdiens hypophysaires
+T22	DISO 526 548	épanchement péritonéal
+T23	ANAT 538 548	péritonéal
+T24	CHEM 562 596	sulfate de dihydrocardioprogestrel
+T25	DOSE 598 603	20 mg
+T26	TEMP 603 605	/j
+T27	PROC 611 655	tomodensitométrie thoraco abdomino-pelvienne
+T28	ANAT 629 655	thoraco abdomino-pelvienne

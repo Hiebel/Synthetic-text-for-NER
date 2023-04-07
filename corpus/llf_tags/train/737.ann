@@ -1,0 +1,12 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 39 50	antécédents
+T3	MEAS 51 63	particuliers
+T4	PROC 83 111	chimiothérapie néo adjuvante
+T5	CHEM 122 133	Cisplatine®
+T6	DOSE 135 142	15mg/kg
+T7	TEMP 142 144	/j
+T8	CHEM 152 181	triméthoprimesulfaméthoxazole
+T9	DOSE 183 191	20 mg/kg
+T10	TEMP 191 193	/j
+T11	DISO 245 264	symptômes cliniques
+T12	TEMP 282 288	4 mois

@@ -1,0 +1,16 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 28 35	patient
+T3	MEAS 39 42	bon
+T4	Concept_Idea 43 55	état général
+T5	DISO 57 66	eupnéique
+T6	MEAS 69 82	28 cycles/min
+T7	PHEN 92 110	tension artérielle
+T8	ANAT 100 110	artérielle
+T9	MEAS 113 124	120/70 mmhg
+T10	PROC 128 158	auscultation cardio-pulmonaire
+T11	ANAT 141 158	cardio-pulmonaire
+T12	PROC 203 219	examen somatique
+T13	DISO 229 242	particularité
+T14	DISO 260 276	atteinte cutanée
+T15	ANAT 269 276	cutanée
+T16	DISO 286 311	localisations secondaires

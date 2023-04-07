@@ -1,0 +1,22 @@
+T1	LIVB 28 35	patient
+T2	PROC 72 96	chimiothérapie adjuvante
+T3	CHEM 101 111	cisplatine
+T4	CHEM 114 127	dexaméthasone
+T5	CHEM 149 163	hydrocortisone
+T6	DOSE 166 173	20mg/m²
+T7	DOSE 190 198	10 mg/m²
+T8	PROC 282 304	curage cervico-vaginal
+T9	ANAT 289 304	cervico-vaginal
+T10	PROC 311 335	prophylaxie progestative
+T11	LIVB 368 376	patiente
+T12	DISO 418 446	perte pondérale hypertensive
+T13	TEMP 528 540	depuis 3 ans
+T14	LIVB 547 549	sa
+T15	PROC 550 570	prise médicamenteuse
+T16	LIVB 580 584	elle
+T17	DISO 611 640	symptomatologie fonctionnelle
+T18	DISO 644 662	douleur ombilicale
+T19	ANAT 652 662	ombilicale
+T20	DISO 746 776	déficit moteur sensitivomoteur
+T21	MEAS 784 809	difficilement appréciable
+T22	DISO 933 969	hypothyroïdie congénitale purpurique

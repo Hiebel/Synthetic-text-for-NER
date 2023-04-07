@@ -1,0 +1,104 @@
+T1	PROC 22 27	suivi
+T2	TEMP 35 39	2008
+T3	DISO 49 72	hypertension artérielle
+T4	ANAT 62 72	artérielle
+T5	PROC 76 91	examen clinique
+T6	Concept_Idea 107 119	état général
+T7	MEAS 120 126	altéré
+T8	PROC 136 156	examen gynécologique
+T9	DISO 172 212	masse douloureuse du col fémorale gauche
+T10	ANAT 193 212	col fémorale gauche
+T11	Localization 206 212	gauche
+T12	DISO 218 239	signes inflammatoires
+T13	DISO 253 276	adénopathies cervicales
+T14	PROC 291 308	tomodensitométrie
+T15	PROC 310 349	TDM) cervico-thoraco abdomino-pelvienne
+T16	ANAT 315 349	cervico-thoraco abdomino-pelvienne
+T17	LIVB 385 393	patiente
+T18	CHEM 410 422	antibiotique
+T19	CHEM 428 439	rifampicine
+T20	CHEM 443 474	amoxicilline acide clavulanique
+T21	PROC 484 503	bilan préopératoire
+T22	MEAS 543 549	normal
+T23	PROC 554 576	traitement chirurgical
+T24	PROC 584 630	blocage des voies biliaires intra péritonéales
+T25	ANAT 596 630	voies biliaires intra péritonéales
+T26	DISO 662 685	symptômes hémorragiques
+T27	PROC 698 719	monitorage biphasique
+T28	MEAS 755 763	négatifs
+T29	PROC 767 778	échographie
+T30	DISO 798 820	anomalie morphologique
+T31	DISO 846 901	épanchement pleural mésentérique gastroduodéno-digestif
+T32	ANAT 858 901	pleural mésentérique gastroduodéno-digestif
+T33	MEAS 952 959	simples
+T34	PROC 969 992	contrôle postopératoire
+T35	MEAS 1017 1031	satisfaisantes
+T36	PROC 1036 1076	scanner oeso-gastro-duodénal endorectale
+T37	ANAT 1044 1076	oeso-gastro-duodénal endorectale
+T38	PROC 1103 1131	prise en charge chirurgicale
+T39	PHEN 1145 1167	grossesse monochoriale
+T40	MEAS 1168 1177	évolutive
+T41	MEAS 1187 1195	55/50 cm
+T42	MEAS 1203 1213	170 gramme
+T43	MEAS 1219 1237	10 fois la normale
+T44	LIVB 1269 1279	nouveau-né
+T45	DISO 1296 1316	mort fœtale in utero
+T46	Concept_Idea 1339 1355	aspect somatique
+T47	PROC 1364 1401	laparotomie exploratrice scannoguidée
+T48	PROC 1415 1452	exploration obstétricale diagnostique
+T49	PROC 1471 1522	cholécystectomie totale transœstroguidée percutanée
+T50	MEAS 1612 1617	14 mm
+T51	DEVI 1670 1686	manches courbées
+T52	ANAT 1721 1742	plans crico-trachéaux
+T53	MEAS 1768 1772	12°C
+T54	MEAS 1776 1780	18°C
+T55	ANAT 1798 1828	segment inférieur antéro-droit
+T56	Localization 1816 1828	antéro-droit
+T57	ANAT 1849 1863	plaques ovales
+T58	ANAT 1884 1898	zones charnues
+T60	ANAT 2039 2059	structures grêliques
+T61	MEAS 2209 2213	20mm
+T62	ANAT 2219 2239	tissus cartilagineux
+T63	MEAS 2257 2272	environ 12×6 cm
+T64	DISO 2347 2388	tubules érythémato-testiculaires nécrosés
+T65	DISO 2485 2527	remaniements cutanés angiomateux liquidien
+T66	DISO 2588 2616	foyers tumoraux kératinisant
+T67	ANAT 2664 2678	nerfs crâniens
+T68	DISO 2848 2876	accident vasculaire néonatal
+T69	PROC 2914 2924	traitement
+T70	Concept_Idea 2940 2950	indication
+T71	PROC 2959 3008	contrôle radiologique postopératoire conservateur
+T72	PROC 3021 3037	cholécystectomie
+T73	MEAS 3070 3077	simples
+T74	PROC 3083 3111	antibiothérapie probabiliste
+T75	PROC 3125 3148	radiothérapie adjuvante
+T76	CHEM 3154 3169	fluoroquinolone
+T77	DOSE 3171 3178	60mg/kg
+T78	TEMP 3178 3180	/j
+T79	PROC 3253 3277	remplissage respiratoire
+T80	ANAT 3265 3277	respiratoire
+T81	PROC 3290 3318	corticothérapie concomitante
+T82	CHEM 3324 3337	carbamazépine
+T83	DOSE 3338 3344	100 mg
+T84	TEMP 3344 3346	/j
+T85	CHEM 3349 3365	sulfaméthoxazole
+T86	DOSE 3378 3384	2x3 ml
+T87	TEMP 3384 3386	/j
+T89	DISO 3454 3482	troubles neuropsychiatriques
+T90	PROC 3493 3511	séjour hospitalier
+T91	LIVB 3516 3523	patient
+T92	Hospital 3539 3546	hôpital
+T93	PROC 3559 3587	prise en charge anesthésique
+T94	PROC 3591 3607	neurochirurgical
+T95	PHEN 3696 3717	grossesse monofoetale
+T96	DISO 3739 3759	récidive psychotique
+T97	DISO 3769 3785	conflit familial
+T98	LIVB 3829 3835	garçon
+T99	TEMP 3843 3849	10 ans
+T100	PROC 3954 3981	contraception intraveineuse
+T101	PROC 4003 4025	consultation prénatale
+T102	LIVB 4137 4148	nouveau-nés
+T103	MEAS 4171 4182	1500 gramme
+T104	MEAS 4186 4198	2700 grammes
+T105	Concept_Idea 4205 4223	état morphologique
+T106	MEAS 4235 4244	grade III

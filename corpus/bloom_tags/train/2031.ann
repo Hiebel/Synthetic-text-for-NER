@@ -1,0 +1,29 @@
+T1	LIVB 15 22	patient
+T2	Hospital 53 75	urgences chirurgicales
+T3	DISO 82 182	tuméfaction du quadrant supéro-latéral supérieur inféro-bilio-dorso-externe pancréatique douloureuse
+T5	MEAS 194 209	progressivement
+T6	Concept_Idea 213 219	volume
+T7	TEMP 229 242	depuis 6 mois
+T8	MEAS 258 268	rapidement
+T9	Concept_Idea 272 278	volume
+T10	MEAS 288 300	bien limitée
+T11	MEAS 310 323	environ 10 cm
+T12	Concept_Idea 327 336	grand axe
+T13	ANAT 357 362	grêle
+T14	ANAT 380 413	zones ganglionnaires intestinales
+T15	MEAS 438 442	2 cm
+T16	Concept_Idea 446 455	grand axe
+T17	MEAS 489 499	douloureux
+T18	Concept_Idea 516 524	contours
+T19	MEAS 533 542	réguliers
+T20	DISO 547 559	vascularisée
+T21	DISO 563 577	hyperpigmentée
+T22	DISO 603 628	localisation métastatique
+T23	LIVB 637 643	malade
+T25	DISO 678 683	masse
+T26	MEAS 695 714	de façon symétrique
+T27	Concept_Idea 718 724	taille
+T28	MEAS 741 753	environnante
+T29	ANAT 783 804	structures pariétales
+T30	PROC 1017 1038	biopsie transfixiante
+T31	PROC 1052 1077	étude immunohistochimique

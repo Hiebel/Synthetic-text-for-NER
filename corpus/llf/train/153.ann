@@ -1,0 +1,12 @@
+T1	LIVB 3 10	patient
+T2	PROC 17 24	adressé
+T3	Hospital 28 65	service
+T4	PROC 71 86	prise
+T5	DISO 93 110	hémiplégie
+T6	Localization 104 110	droite
+T7	PHEN 116 134	suites
+T8	MEAS 143 150	simples
+T9	LIVB 157 163	malade
+T10	PROC 168 173	sorti
+T11	TEMP 176 195	J
+T12	TEMP 180 195	post-opératoire

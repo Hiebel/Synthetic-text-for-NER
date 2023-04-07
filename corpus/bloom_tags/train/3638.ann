@@ -1,0 +1,63 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 79 84	admis
+T5	Hospital 89 97	urgences
+T6	Hospital 102 140	Cliniques Universitaires de Lubumbashi
+T7	DISO 150 1749	détresse respiratoire évoluant depuis 5 jours et d'aggravation rapide. L'interrogatoire à l'admission notait un état d'agitation psychomotrice au niveau du membre supérieur droit.
+L'examen clinique était marqué par la présence d'une dyspnée stade II de la NYHA (NYHA-II), non améliorée par le traitement anti-inflammatoire mis en place. Sa fonction respiratoire était imprenable avec notion de nausées chiffrées à 10 kg/m² ayant nécessité sa mise sous 2 litres de sérum salé hypertonique + 500 mg de méthylprednisolone) dans les heures précédant son hospitalisation qui a aggravé ces symptômes mais ne permettait pas d'exclure d'autres étiologies associées telles qu'une hyperthyroïdie secondaire ou toute autre pathologie intestinale pouvant expliquer cette syndrome d'épanchement intrarachidien
+Le bilan biologique avait objectivé une anémie microcytaire normochrome normocytaire hypochrome ferriprive: hémoglobine glyquée à 4,9%; taux de plaquettes à 25000 éléments/mm3 ; leucocytes à 150000 élément/ mm3). La natrémie peropératoire était à 125 meq/l tandis que la pression artérielle pulsée était à 70/50 cmH 2O. Les sérologies virales BHCG étaient fortement positives : vaccination antitétanique intraveineuse réalisée il n'y avait pas d'antécédents personnels ni familiaux d'allaitement maternel périrétro-maternel exclusif jusqu'à l'âge de 12 mois survenu chez cet patiente devant l'apparition brutale d’une polynucléose fébrile apparue suite à l’installation d’un pneumocystis jirovec syndrome clinico-radiodigestif ainsi qu’un épisode d’asthénie maculopapuleuse prurigineuse laryngectasique
+T8	ANAT 159 171	respiratoire
+T9	TEMP 181 195	depuis 5 jours
+T10	MEAS 213 219	rapide
+T11	PROC 223 237	interrogatoire
+T12	PROC 242 251	admission
+T13	Concept_Idea 262 266	état
+T14	DISO 269 292	agitation psychomotrice
+T15	ANAT 306 328	membre supérieur droit
+T16	Localization 323 328	droit
+T17	PROC 332 347	examen clinique
+T18	DISO 383 410	dyspnée stade II de la NYHA
+T19	PROC 443 472	traitement anti-inflammatoire
+T20	CHEM 454 472	anti-inflammatoire
+T21	LIVB 487 489	Sa
+T22	PHEN 490 511	fonction respiratoire
+T23	ANAT 499 511	respiratoire
+T24	MEAS 518 528	imprenable
+T25	DISO 544 551	nausées
+T26	MEAS 564 572	10 kg/m²
+T27	DOSE 602 610	2 litres
+T28	CHEM 614 637	sérum salé hypertonique
+T29	DOSE 640 646	500 mg
+T30	CHEM 650 668	méthylprednisolone
+T31	PROC 700 715	hospitalisation
+T32	DISO 734 743	symptômes
+T33	DISO 821 846	hyperthyroïdie secondaire
+T34	DISO 862 884	pathologie intestinale
+T35	DISO 909 946	syndrome d'épanchement intrarachidien
+T36	ANAT 932 946	intrarachidien
+T37	PROC 950 966	bilan biologique
+T38	DISO 987 1053	anémie microcytaire normochrome normocytaire hypochrome ferriprive
+T39	PROC 1055 1074	hémoglobine glyquée
+T40	MEAS 1077 1081	4,9%
+T41	PROC 1083 1101	taux de plaquettes
+T42	MEAS 1104 1122	25000 éléments/mm3
+T43	PROC 1125 1135	leucocytes
+T44	MEAS 1138 1157	150000 élément/ mm3
+T45	PROC 1163 1185	natrémie peropératoire
+T46	MEAS 1194 1203	125 meq/l
+T47	PROC 1218 1244	pression artérielle pulsée
+T48	ANAT 1227 1244	artérielle pulsée
+T49	MEAS 1253 1265	70/50 cmH 2O
+T50	PROC 1271 1294	sérologies virales BHCG
+T51	MEAS 1303 1322	fortement positives
+T52	PROC 1325 1364	vaccination antitétanique intraveineuse
+T53	TEMP 1497 1504	12 mois
+T54	LIVB 1522 1530	patiente
+T55	DISO 1565 1585	polynucléose fébrile
+T56	DISO 1622 1673	pneumocystis jirovec syndrome clinico-radiodigestif
+T57	PROC 1784 1829	ponction laryngéo-ganglionnaire transfixiante
+T58	ANAT 1793 1829	laryngéo-ganglionnaire transfixiante
+T59	PROC 1901 1930	chirurgie pharyngo-thoracique
+T60	MEAS 2090 2103	significative
+T61	MEAS 2631 2640	favorable

@@ -1,0 +1,37 @@
+T1	LIVB 29 34	femme
+T2	PROC 60 84	traitée chirurgicalement
+T3	DISO 90 110	pneumo-sinus sténosé
+T4	PROC 130 155	anesthésique locorégional
+T5	CHEM 168 199	amoxicilline-acide clavulanique
+T6	PROC 212 260	remplissage vasculo-nerveux crânien transcranial
+T7	ANAT 224 260	vasculo-nerveux crânien transcranial
+T8	PROC 267 292	réinjection intraveineuse
+T9	CHEM 295 309	hydrocortisone
+T10	CHEM 323 350	hydroxyprogestyl progestrel
+T11	DOSE 351 359	20 mg/m²
+T12	TEMP 361 376	pendant 2 jours
+T13	TEMP 397 409	six semaines
+T14	DISO 466 489	séquelles neurologiques
+T15	MODE 521 552	bolus d'hémodialyse parentérale
+T16	DISO 638 667	complications postopératoires
+T17	PROC 700 720	techniques curatives
+T18	DISO 1077 1105	syndrome néphrotique fébrile
+T19	PROC 1577 1696	ponction liquidienne intra péritonéale médiastino-hypophysaire antéro-latérale interne pariétale abdominale écho-guidée
+T21	PROC 1714 1747	imagerie par résonance magnétique
+T22	PROC 1749 1752	IRM
+T23	PROC 1755 1787	scanner thoraco-abdomino pelvien
+T24	ANAT 1763 1787	thoraco-abdomino pelvien
+T25	DISO 1852 1927	métastases paragangliens ovariennes hypophyso-diaphragmatiques sécrétrantes
+T27	DISO 1976 2003	épanchement intrapéritonéal
+T28	ANAT 1988 2003	intrapéritonéal
+T29	DISO 2331 2363	myxose tumorale kystique lobulée
+T30	MEAS 2409 2413	12cm
+T31	Concept_Idea 2417 2426	grand axe
+T32	PROC 2514 2529	examen clinique
+T33	DISO 2541 2554	particularité
+T34	PROC 2559 2577	traitement curatif
+T35	DISO 2581 2639	carcinome mésenchymateux méso-nodulaire cervico-thoracique
+T36	ANAT 2591 2639	mésenchymateux méso-nodulaire cervico-thoracique
+T37	PROC 2674 2750	curage ganglionnaire axillaire ganglionnaire pariéto-ombilical transfixiante
+T39	PROC 2760 2783	radiothérapie adjuvante
+T40	TEMP 2836 2844	six mois

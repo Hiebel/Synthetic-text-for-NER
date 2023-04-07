@@ -1,0 +1,20 @@
+T1	LIVB 20 28	patiente
+T2	DISO 63 77	épigastralgies
+T3	TEMP 87 103	depuis deux mois
+T4	DISO 113 138	vomissements alimentaires
+T5	DISO 146 154	anorexie
+T6	MEAS 166 170	2 kg
+T7	TEMP 174 183	deux mois
+T8	PROC 188 205	ponction lombaire
+T9	ANAT 197 205	lombaire
+T10	DEVI 218 232	pneumo-scanner
+T11	PROC 234 245	PNI-Scanner
+T12	DISO 290 383	processus lésionnel du sigmoïde hypogastro-interstitiel péripancréatico-lenticulaire infiltré
+T14	MEAS 393 398	10 cm
+T15	Concept_Idea 402 411	grand axe
+T16	DISO 424 442	signes secondaires
+T17	PROC 457 493	tomodensitométrie abdomino-pelvienne
+T18	ANAT 475 493	abdomino-pelvienne
+T19	PROC 523 547	exploration chirurgicale
+T20	DISO 580 589	anomalies
+T21	PHEN 609 618	sensibles

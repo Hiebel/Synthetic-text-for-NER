@@ -1,0 +1,24 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	DISO 42 67	antécédents pathologiques
+T4	MEAS 68 76	notables
+T5	PROC 80 86	examen
+T6	PROC 91 100	admission
+T7	Concept_Idea 114 132	tension artérielle
+T8	ANAT 122 132	artérielle
+T9	MEAS 135 149	120 / 80 mm Hg
+T10	PHEN 151 156	pouls
+T11	MEAS 159 170	75 batt/min
+T12	Concept_Idea 177 195	état hémodynamique
+T13	PROC 207 238	radiographie standard du thorax
+T14	ANAT 232 238	thorax
+T15	DISO 261 293	dépression médiastinienne droite
+T16	ANAT 272 293	médiastinienne droite
+T17	Localization 287 293	droite
+T18	ANAT 310 350	paroi latérale postérieure des épiploons
+T19	Localization 325 336	postérieure
+T20	DISO 376 473	opacités pariéto-sous-diaphragmatiques basithoraciques inféro-supra-bronchonaires hypoglycéridées
+T22	DISO 507 546	broncho-pneumo-interstitiel purulentiel
+T23	PROC 559 589	échographie abdomino périnéale
+T24	ANAT 571 589	abdomino périnéale
+T25	DISO 634 659	localisations secondaires

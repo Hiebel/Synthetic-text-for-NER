@@ -1,0 +1,25 @@
+T1	LIVB 28 35	patient
+T2	MEAS 82 90	notables
+T3	PROC 92 97	admis
+T4	Hospital 102 110	urgences
+T5	DISO 119 144	traumatisme crânien aigue
+T6	TEMP 154 171	depuis deux jours
+T7	PROC 176 195	bilan préopératoire
+T8	DISO 217 239	troubles hémodynamique
+T9	DISO 243 265	hypotension artérielle
+T10	DISO 283 314	complications vasculorénalaires
+T11	ANAT 297 314	vasculorénalaires
+T13	MEAS 454 457	5cm
+T14	MEAS 462 465	2cm
+T15	ANAT 491 529	épiploon caverneux laryngéo-thyroïdien
+T16	LIVB 554 561	patient
+T17	DISO 574 607	méningoencephalopathie ischémique
+T18	PROC 629 662	curage ganglionnaire locorégional
+T19	PROC 665 695	échographie abdomino-pélvienne
+T20	ANAT 677 695	abdomino-pélvienne
+T22	Localization 782 799	droite supérieure
+T23	DISO 914 957	prurigineuse nécrose séquellaire myometrale
+T24	ANAT 981 1014	parenchyme thyroïdien superficiel
+T25	PROC 1228 1261	imagerie par résonance magnétique
+T26	PROC 1263 1277	IRM) cérébrale
+T27	ANAT 1268 1277	cérébrale

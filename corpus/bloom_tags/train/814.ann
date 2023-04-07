@@ -1,0 +1,54 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	9 ans
+T3	DISO 37 42	chute
+T4	LIVB 90 92	sa
+T5	LIVB 93 105	petite frère
+T6	TEMP 113 119	10 ans
+T7	LIVB 163 169	enfant
+T8	DISO 184 217	hernies ombilico-cæcale nécrosées
+T9	ANAT 192 207	ombilico-cæcale
+T10	MEAS 227 255	profondément anévrismateuses
+T11	DISO 275 282	nausées
+T12	DISO 299 322	diarrhées hémorragiques
+T13	DISO 384 432	syndrome d’épanchement pulmonaire basithoracique
+T14	ANAT 407 432	pulmonaire basithoracique
+T15	DISO 457 483	complications métaboliques
+T16	ANAT 507 520	rénale fœtale
+T17	LIVB 633 635	Il
+T18	CHEM 651 667	sulfaméthoxazole
+T19	CHEM 669 679	ethambutol
+T20	CHEM 683 695	pyrazinamide
+T21	DISO 712 719	diabète
+T22	DISO 725 748	hypochrome microcytaire
+T23	PROC 754 763	admission
+T24	Hospital 767 797	service d'accueil des urgences
+T25	LIVB 801 808	patient
+T26	Concept_Idea 839 857	plan hémodynamique
+T27	PHEN 866 871	pouls
+T28	MEAS 883 907	90 battements par minute
+T29	DEVI 912 922	bandelette
+T30	Localization 924 943	au niveau axillaire
+T31	MEAS 953 957	1 cm
+T32	Concept_Idea 961 975	grand diamètre
+T33	PROC 997 1022	scanner abdomino- pelvien
+T34	ANAT 1005 1022	abdomino- pelvien
+T35	Hospital 1040 1057	milieux intensifs
+T36	DISO 1075 1161	masse hypoéchogène hétérogène du sinus grêlique iléo-caecal hypogastrique sus-méningée
+T38	MEAS 1173 1190	de façon homogène
+T39	Concept_Idea 1194 1200	volume
+T40	PROC 1207 1216	injection
+T41	DOSE 1220 1224	3 ml
+T42	CHEM 1228 1248	produit de contraste
+T43	ANAT 1274 1299	sinus hépato-sphinctérien
+T44	ANAT 1320 1367	jonction iléo-colique jéjunostérno-pancréatique
+T45	DISO 1400 1418	pathologie maligne
+T46	MEAS 1427 1434	pT3N0M0
+T47	PROC 1458 1500	explorations radiologiques complémentaires
+T48	PROC 1508 1542	métanéphrine-Dopamine scannogramme
+T49	DISO 1559 1578	hypersignal intense
+T50	DISO 1588 1597	mitotique
+T51	ANAT 1619 1657	voie biliaire méso-gastro œsophagienne
+T52	ANAT 1705 1747	voies biliaires pancréatiques segmentaires
+T53	ANAT 1815 1843	structures para vertébraires
+T54	PROC 1913 1957	tomodensitométrie thoraco-abdomino-pélvienne
+T55	ANAT 1931 1957	thoraco-abdomino-pélvienne

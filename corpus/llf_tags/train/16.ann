@@ -1,0 +1,102 @@
+T1	LIVB 3 13	nourrisson
+T2	TEMP 21 27	6 mois
+T3	PHEN 40 49	grossesse
+T4	Concept_Idea 70 73	âge
+T5	TEMP 77 84	10 mois
+T6	LIVB 89 95	malade
+T7	DISO 113 141	accident vasculaire cérébral
+T8	ANAT 133 141	cérébral
+T9	LIVB 160 163	lui
+T10	DISO 168 189	perte de connaissance
+T11	MEAS 206 210	deux
+T12	ANAT 211 215	yeux
+T13	PROC 219 225	examen
+T14	PROC 230 239	admission
+T15	LIVB 252 259	patient
+T16	MEAS 263 270	mauvais
+T17	Concept_Idea 271 283	état général
+T18	Concept_Idea 298 316	plan hémodynamique
+T19	DISO 323 337	déficit moteur
+T20	DISO 341 352	vomissement
+T21	DISO 359 380	signes inflammatoires
+T22	DISO 384 412	troubles neuropsychiatriques
+T23	PROC 426 457	radiographie standard du thorax
+T24	ANAT 451 457	thorax
+T25	DISO 483 494	traumatisme
+T26	DISO 512 540	distension crânio-palpébrale
+T27	ANAT 523 540	crânio-palpébrale
+T28	CHEM 583 614	amoxicilline acide clavulanique
+T29	PROC 637 649	soins locaux
+T30	DISO 668 688	récidive infectieuse
+T31	PROC 694 725	tomodensitométrie préopératoire
+T32	DISO 782 831	masse hypoéchogène tissulaire hétérodense maligne
+T33	MEAS 841 845	5 cm
+T34	Concept_Idea 849 858	grand axe
+T35	MEAS 867 872	15 mm
+T36	Concept_Idea 876 885	petit axe
+T37	Localization 899 922	partie proximale droite
+T39	MEAS 963 966	7mm
+T40	Concept_Idea 970 979	grand axe
+T41	PROC 1026 1051	étude anatomopathologique
+T42	MEAS 1088 1095	simples
+T43	Hospital 1105 1117	néonatologie
+T44	PROC 1131 1159	chimiothérapie néo adjuvante
+T45	PROC 1173 1202	radio digestive intraveineuse
+T46	PROC 1218 1263	kinésithérapie antalgique type bêtalactylémie
+T47	PROC 1292 1320	prise en charge anesthésique
+T48	PROC 1368 1395	numération formule sanguine
+T49	MEAS 1402 1410	correcte
+T50	DISO 1441 1457	hyperleucocytose
+T51	MEAS 1468 1482	420000 GB/mm 3
+T52	MEAS 1488 1509	12000 fois la normale
+T53	PROC 1514 1531	scanner abdominal
+T54	ANAT 1522 1531	abdominal
+T55	PROC 1551 1572	contrôle radiologique
+T56	DISO 1595 1642	niveau hydrocéphalo rachidien sensitivo-motrice
+T57	DISO 1658 1678	anomalie congénitale
+T58	Concept_Idea 1697 1715	facteur rhumatoïde
+T59	MEAS 1725 1732	0,25g/l
+T60	MEAS 1786 1797	environ 40%
+T61	MEAS 1801 1804	70%
+T62	PROC 1808 1824	hémophagocytoses
+T63	MEAS 1843 1852	négatives
+T64	Concept_Idea 1924 1943	aspect histologique
+T65	DISO 1967 1992	symptomatologie néonatale
+T66	DISO 2017 2038	rectorragies tardives
+T67	DISO 2155 2216	dilatations bronchocrino-conjonctivales cervico-mandibulaires
+T68	ANAT 2167 2216	bronchocrino-conjonctivales cervico-mandibulaires
+T69	MEAS 2226 2241	progressivement
+T70	MEAS 2242 2258	plus importantes
+T71	DISO 2312 2356	lésions achromiques scléroatrophoblasiformes
+T72	MEAS 2368 2383	progressivement
+T73	DISO 2411 2428	hépatites virales
+T74	MEAS 2447 2466	quasi paroxystiques
+T75	DISO 2570 2610	infections fébriles aigues hémorragiques
+T76	TEMP 2622 2649	plusieurs années auparavant
+T77	Concept_Idea 2702 2714	état général
+T78	LIVB 2832 2839	patient
+T79	PROC 2869 2887	antibioprophylaxie
+T81	CHEM 2907 2938	amoxicilline acide clavulanique
+T82	CHEM 3004 3014	corticoïde
+T83	DOSE 3016 3022	5mg/kg
+T84	TEMP 3022 3027	/jour
+T85	PROC 3033 3043	traitement
+T86	PROC 3062 3124	néphrectomie totale élargie du grand pectoral inférieur droite
+T88	Localization 3118 3124	droite
+T89	MEAS 3143 3147	bien
+T90	TEMP 3167 3172	3mois
+T91	Concept_Idea 3198 3213	plan biologique
+T92	DISO 3231 3246	récidive locale
+T93	DISO 3253 3270	signes infectieux
+T94	LIVB 3303 3305	sa
+T95	LIVB 3306 3313	famille
+T96	PROC 3362 3380	mariage consanguin
+T97	DEVI 3473 3490	plantes potagères
+T98	CHEM 3495 3511	sels cortisoneux
+T100	PROC 3694 3716	processus diagnostique
+T101	DISO 3744 3834	neuropathie dilatée hétérozygote hypertensive polyclonale temporal postérieur idiopathique
+T102	MEAS 3842 3848	ACR II
+T103	Concept_Idea 3857 3877	caractérisation T1NM
+T104	PHEN 4199 4217	suites opératoires
+T105	MEAS 4226 4233	simples
+T106	DISO 4289 4305	crise convulsive

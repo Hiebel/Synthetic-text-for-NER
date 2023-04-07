@@ -1,0 +1,24 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	6 ans
+T3	Concept_Idea 41 52	antécédents
+T4	MEAS 53 65	particuliers
+T5	PROC 67 72	admis
+T6	DISO 82 110	douleurs abdomino-pelviennes
+T7	ANAT 91 110	abdomino-pelviennes
+T8	TEMP 120 133	depuis 2 mois
+T9	MEAS 148 159	progressive
+T10	PROC 163 178	examen clinique
+T11	LIVB 191 198	patient
+T12	MEAS 202 205	bon
+T13	Concept_Idea 206 218	état général
+T14	PROC 253 262	palpation
+T15	ANAT 276 287	flanc droit
+T16	Localization 282 287	droit
+T17	PROC 293 321	échographie abdomino-utérine
+T18	ANAT 305 321	abdomino-utérine
+T19	PHEN 357 377	grossesse ombilicale
+T20	ANAT 367 377	ombilicale
+T21	PROC 414 424	césarienne
+T22	MODE 429 439	voie basse
+T23	PROC 445 470	anesthésie loco-régionale
+T24	ANAT 456 470	loco-régionale

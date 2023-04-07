@@ -1,0 +1,33 @@
+T1	LIVB 12 18	enfant
+T2	TEMP 22 28	10 ans
+T3	DISO 57 163	chirurgie ostéotéo-cartilagineuse scapho-fémoro-patellaire métacarpo-métacarpienne infartrante congénitale
+T5	Hospital 165 170	SCCTI
+T6	PROC 175 187	intervention
+T7	PROC 204 228	anesthésie locorégionale
+T8	DISO 296 316	hépato-splénomégalie
+T9	MEAS 328 332	2 kg
+T10	ANAT 367 378	péricardial
+T11	ANAT 460 489	tissu fibreux sus-tuberculeux
+T12	PROC 537 545	recoltés
+T13	PROC 557 571	immobilisation
+T14	DEVI 583 599	broches plâtrées
+T15	PROC 614 623	prélevées
+T16	PROC 733 772	surveillance radiologique échographique
+T17	MEAS 812 818	totale
+T18	DISO 825 832	maladie
+T19	DISO 859 894	localisations secondaires tumorales
+T20	DISO 901 913	récidivantes
+T21	DISO 920 951	complications thromboemboliques
+T23	DISO 1353 1367	résidu tumoral
+T24	DISO 1490 1523	syndrome inflammatoire biologique
+T25	PROC 1579 1600	enquête peropératoire
+T26	DISO 1696 1723	déficit métabolique crânien
+T27	DOSE 1753 1763	20 000/mm3
+T28	PROC 1852 1884	scanner thoraco-abdomino pelvien
+T29	ANAT 1860 1884	thoraco-abdomino pelvien
+T33	MEAS 2115 2119	29cm
+T34	ANAT 2133 2154	sinus caverneux droit
+T35	Localization 2149 2154	droit
+T36	DISO 2191 2216	neuroendocrine pituitaire
+T37	PROC 2232 2248	examen somatique
+T38	DISO 2260 2273	particularité

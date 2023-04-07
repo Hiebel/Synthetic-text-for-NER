@@ -1,0 +1,36 @@
+T1	PROC 2 15	sérologie VIH
+T2	MEAS 22 30	négative
+T3	PROC 34 60	examen anatomopathologique
+T4	ANAT 67 72	pièce
+T5	DISO 85 114	processus tumoral du pancréas
+T6	ANAT 106 114	pancréas
+T7	MEAS 124 128	5 cm
+T8	Concept_Idea 131 140	épaisseur
+T9	DISO 155 186	volvulus anamnesticerculocytose
+T10	PROC 229 255	étude immuno-histochimique
+T11	PROC 257 260	IHC
+T12	DISO 290 351	cellulite polymorphe carcinomateuse des troncs supéro-septaux
+T13	ANAT 330 351	troncs supéro-septaux
+T14	PROC 377 397	exérèse chirurgicale
+T15	PROC 404 424	suivi postopératoire
+T16	PROC 429 463	scanner thoraco abdomino-abdominal
+T17	ANAT 437 463	thoraco abdomino-abdominal
+T18	DISO 496 512	signes digestifs
+T19	PROC 525 559	curage ganglionnaire cervico-anale
+T20	ANAT 532 559	ganglionnaire cervico-anale
+T21	DISO 579 604	lésion tissulaire maligne
+T22	LIVB 618 626	patiente
+T23	PROC 641 672	corticothérapie type céfotaxime
+T24	CHEM 662 672	céfotaxime
+T25	MODE 677 689	voie topique
+T26	Concept_Idea 708 716	clinique
+T27	DISO 727 743	embole cardiaque
+T28	ANAT 734 743	cardiaque
+T29	DISO 747 771	circonférence artérielle
+T30	ANAT 761 771	artérielle
+T33	DISO 962 986	perforation métastatique
+T34	PROC 1004 1027	mesures prophylactiques
+T35	MEAS 1060 1067	simples
+T36	PHEN 1084 1093	grossesse
+T37	MEAS 1107 1117	tranquille
+T38	Localization 1145 1167	extrémités supérieures

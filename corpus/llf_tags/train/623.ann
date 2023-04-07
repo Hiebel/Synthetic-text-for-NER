@@ -1,0 +1,23 @@
+T1	LIVB 19 26	patient
+T2	DISO 46 70	antécédents pathologique
+T3	MEAS 71 82	particulier
+T4	PROC 93 98	admis
+T5	Hospital 103 124	urgences pédiatriques
+T6	DISO 144 165	conflits psychotiques
+T7	TEMP 186 202	il y a dix jours
+T8	PROC 215 239	prise en charge médicale
+T9	PROC 261 292	bilan étiologique préopératoire
+T10	LIVB 484 491	dernier
+T11	PROC 556 582	consultation psychiatrique
+T12	Concept_Idea 629 632	âge
+T13	TEMP 636 642	31 ans
+T14	LIVB 648 654	enfant
+T15	LIVB 709 723	frères mineurs
+T16	PROC 890 904	chier ensemble
+T17	PROC 919 937	mariage consanguin
+T18	LIVB 984 986	sa
+T19	LIVB 987 991	sœur
+T20	TEMP 1000 1006	22 ans
+T21	LIVB 1032 1035	son
+T22	LIVB 1036 1046	frère aîné
+T23	LIVB 1117 1136	cousins consanguins

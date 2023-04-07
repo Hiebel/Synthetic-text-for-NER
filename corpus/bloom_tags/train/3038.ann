@@ -1,0 +1,41 @@
+T1	LIVB 15 22	patient
+T2	PROC 45 56	hospitalisé
+T3	DISO 66 109	tuméfaction épigastrique ulcéro-sécrétrante
+T4	ANAT 78 109	épigastrique ulcéro-sécrétrante
+T5	DISO 125 161	douleur abdomino-pelvienne chronique
+T6	ANAT 133 161	abdomino-pelvienne chronique
+T7	TEMP 190 203	depuis 3 mois
+T8	ANAT 219 228	épigastre
+T9	MEAS 240 255	progressivement
+T10	Concept_Idea 259 265	volume
+T11	LIVB 267 270	Son
+T12	PROC 271 291	examen gynécologique
+T13	DISO 312 338	masse molle du flanc droit
+T14	ANAT 327 338	flanc droit
+T15	Localization 333 338	droit
+T16	MEAS 348 353	24 cm
+T17	Concept_Idea 357 366	grand axe
+T18	MEAS 368 380	bien limitée
+T19	Concept_Idea 389 402	circonférence
+T20	MEAS 418 433	progressivement
+T21	Concept_Idea 437 443	taille
+T22	MEAS 453 464	volumineuse
+T23	PROC 482 503	contractions utérines
+T24	ANAT 495 503	utérines
+T25	PROC 517 540	échographie pervaginale
+T26	ANAT 529 540	pervaginale
+T27	DISO 554 607	masse hypo échogène hétérogène tissulaire lithiasique
+T28	MEAS 616 620	12cm
+T29	Concept_Idea 624 633	grand axe
+T30	ANAT 651 658	pelvien
+T31	ANAT 673 687	paroi vaginale
+T32	ANAT 704 729	parties molles cervicales
+T33	PROC 733 777	tomodensitométrie thoraco-abdomino-pelvienne
+T34	ANAT 751 777	thoraco-abdomino-pelvienne
+T35	DISO 806 825	lésions secondaires
+T36	DISO 856 894	anomalie ostéo-condensante péritonéale
+T37	DISO 1045 1059	épigastralgène
+T38	DISO 1074 1127	métastases pulmonariales basithoraciques étranglantes
+T39	ANAT 1085 1127	pulmonariales basithoraciques étranglantes
+T40	MEAS 1140 1161	lentement progressive
+T41	DISO 1191 1243	syndrome d'épanchement tissulaire liquidien purulent

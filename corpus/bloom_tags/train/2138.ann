@@ -1,0 +1,28 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	12 ans
+T3	PROC 21 28	réadmis
+T4	Hospital 33 41	urgences
+T5	DISO 51 72	détresse respiratoire
+T6	PHEN 60 72	respiratoire
+T7	TEMP 82 95	depuis 2 mois
+T8	MEAS 114 129	progressivement
+T9	Concept_Idea 133 139	volume
+T10	PROC 143 158	examen clinique
+T11	PROC 163 172	admission
+T12	LIVB 185 191	enfant
+T13	MEAS 195 198	bon
+T14	Concept_Idea 199 211	état général
+T15	Concept_Idea 227 245	plan hémodynamique
+T16	DISO 251 267	signes cliniques
+T17	PROC 280 310	auscultation pleuro-pulmonaire
+T18	ANAT 293 310	pleuro-pulmonaire
+T19	ANAT 371 393	membre supérieur droit
+T20	Localization 388 393	droit
+T21	DISO 427 453	empyème pulmonaire stade I
+T22	ANAT 435 453	pulmonaire stade I
+T23	DISO 463 482	pleurésie purulente
+T24	DISO 496 519	anomalies pathologiques
+T25	DISO 547 561	hémopéritoines
+T26	ANAT 571 577	urines
+T27	PROC 594 610	examen somatique
+T28	DISO 638 661	malformations associées

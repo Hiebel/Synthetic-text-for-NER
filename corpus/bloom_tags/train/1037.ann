@@ -1,0 +1,59 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	DISO 54 88	douleurs abdominales constrictives
+T5	MEAS 103 114	progressive
+T6	DISO 132 148	maladie cœliaque
+T7	DISO 198 225	épanchement intrapéritonéal
+T8	ANAT 210 225	intrapéritonéal
+T9	DISO 235 260	symptomatologie digestive
+T10	Concept_Idea 305 317	état général
+T11	CHEM 341 356	corticothérapie
+T12	CHEM 379 397	méthylprednisolone
+T13	DOSE 399 406	5 mg/kg
+T14	TEMP 406 411	/jour
+T15	PROC 417 436	bilan préopératoire
+T16	PROC 454 457	CRP
+T17	MEAS 460 467	48 mg/l
+T18	PROC 473 497	bilans phospho-calciques
+T19	MEAS 506 518	négligeables
+T20	PROC 532 571	radiographie thoraco-abdomino-pelvienne
+T21	ANAT 545 571	thoraco-abdomino-pelvienne
+T22	DISO 588 652	lithiase pancréatico-surrénalienne diaphragmatique hypertrophiée
+T24	ANAT 670 686	sinus iléo-cæcal
+T25	MEAS 696 701	13 mm
+T26	Concept_Idea 705 714	grand axe
+T27	MEAS 719 723	15mm
+T28	Concept_Idea 727 736	petit axe
+T29	ANAT 758 774	paroi abdominale
+T30	PROC 797 842	surrénalectomie transduodéno-laparosophagante
+T31	PROC 857 881	anesthésie locorégionale
+T32	ANAT 868 881	locorégionale
+T33	PROC 888 985	curage grêlo-métacromégaloplastie pancréatique biliaire pariétale angiographiquement vascularisée
+T35	PROC 1003 1025	traitement chirurgical
+T36	PROC 1044 1068	intubation nasogastrique
+T37	ANAT 1055 1068	nasogastrique
+T38	DEVI 1083 1109	sonde oesophagienne souple
+T40	PROC 1128 1147	tumorectomie droite
+T41	Localization 1141 1147	droite
+T42	PROC 1163 1215	hystérectomie totale coeliosigmoïdienne type Buerger
+T43	Localization 1177 1183	totale
+T44	LIVB 1245 1253	patiente
+T45	PROC 1274 1297	prélèvements biopsiques
+T46	DISO 1335 1354	mucocèle myxomateux
+T47	DISO 1372 1395	masse tumorale kystique
+T48	ANAT 1410 1452	structures musculaires intestinales grêles
+T49	PROC 1471 1492	intervention radicale
+T50	MEAS 1516 1525	incertain
+T51	PROC 1542 1561	chirurgie adjuvante
+T52	PROC 1574 1613	complément d’étude immuno histochimique
+T53	DISO 1687 1737	prolifération tumorale épithélio-gigantocellulaire
+T54	PROC 1910 1941	recherche d'immunohistochimique
+T55	PROC 2027 2056	technique immunohistochimique
+T56	DISO 2574 2591	carcinome maligne
+T57	PROC 2595 2621	examen anatomopathologique
+T58	PHEN 2626 2644	suites opératoires
+T59	DISO 2666 2687	épiderme hypertrophié
+T60	ANAT 2701 2719	lambeau iléocoecal
+T61	DISO 2735 2752	hyperkératogénèse
+T62	DISO 2759 2783	remaniements cellulaires
+T63	DISO 2794 2807	malformations

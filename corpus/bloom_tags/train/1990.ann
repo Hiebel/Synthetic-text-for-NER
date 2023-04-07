@@ -1,0 +1,23 @@
+T1	LIVB 28 35	patient
+T2	DISO 54 108	syndrome d'épanchement pleuréo-facéctoriale purulineux
+T3	ANAT 77 108	pleuréo-facéctoriale purulineux
+T4	TEMP 118 134	depuis trois ans
+T5	PROC 152 163	observation
+T6	PROC 168 189	recherche étiologique
+T7	DISO 194 217	symptômes neurologiques
+T8	DISO 221 232	diabétiques
+T9	DISO 246 268	douleurs épigastriques
+T10	ANAT 255 268	épigastriques
+T11	DISO 321 343	hypotension artérielle
+T12	ANAT 333 343	artérielle
+T13	LIVB 435 443	patients
+T14	PHEN 483 503	grossesse gémellaire
+T15	DISO 579 596	souffrance fœtale
+T16	ANAT 590 596	fœtale
+T17	DISO 603 639	pathologie thromboembolique sanguine
+T18	LIVB 781 787	enfant
+T19	DISO 816 837	détresse respiratoire
+T20	PHEN 825 837	respiratoire
+T21	ANAT 990 996	rénale
+T22	ANAT 1140 1172	carrefour cæcal latéro-basilaire
+T23	DISO 1221 1265	carcinomésies trophoblastiques endométriales

@@ -1,0 +1,77 @@
+T1	LIVB 19 27	patiente
+T2	DISO 49 74	antécédents pathologiques
+T3	MEAS 75 83	notoires
+T4	PROC 94 100	admise
+T5	Hospital 105 113	urgences
+T6	DISO 122 141	rendez-vous fébrile
+T7	TEMP 151 166	depuis 6 heures
+T8	PROC 170 185	examen clinique
+T9	ANAT 201 216	masse cervicale
+T10	Localization 232 247	tiers supérieur
+T11	ANAT 251 261	rein droit
+T12	Localization 256 261	droit
+T13	MEAS 273 286	5 centimètres
+T14	Concept_Idea 290 298	diamètre
+T15	PROC 309 318	palpation
+T16	DISO 323 349	signes neuropsychiatriques
+T17	DISO 362 382	symptômes infectieux
+T18	PROC 388 402	interrogatoire
+T19	LIVB 410 418	patiente
+T20	PROC 429 441	hospitalisée
+T21	Hospital 445 456	psychiatrie
+T22	PROC 462 474	consultation
+T23	Hospital 478 490	CHU Yopougon
+T24	Hospital 492 533	Centre hospitalier universitaire Yopougon
+T25	TEMP 573 580	un mois
+T26	DISO 614 623	dysphonie
+T27	LIVB 646 656	praticiens
+T28	TEMP 718 734	4 jours plus tôt
+T29	LIVB 744 748	elle
+T30	PROC 763 778	prise en charge
+T31	PHEN 992 1000	épisodes
+T32	LIVB 1044 1067	professionnels de santé
+T33	LIVB 1113 1123	nourrisson
+T34	TEMP 1131 1141	8 semaines
+T35	PROC 1146 1153	vacciné
+T36	LIVB 1159 1164	femme
+T37	LIVB 1178 1181	son
+T38	LIVB 1182 1192	nouveau-né
+T39	CHEM 1241 1261	sulfate de magnésium
+T40	DEVI 1368 1382	Similarone OCZ
+T41	MEAS 1417 1427	favorables
+T42	TEMP 1564 1568	1j20
+T43	TEMP 1572 1576	2j45
+T44	DISO 1593 1624	distension crânio-faciale aiguë
+T45	ANAT 1604 1618	crânio-faciale
+T46	PROC 1648 1669	contrôle radiologique
+T47	DISO 1699 1729	crise convulsive psychomotrice
+T48	PROC 1821 1851	traitement médical substitutif
+T49	MODE 1857 4738	anticoagulants circulants intraveineux parenterésidoccique suivie d'une antibiothérapie probabiliste tous les six mois y compris toute surveillance préchimiothérapique avaient été évités devant toutes les autres causes possibles pouvant survenir ultérieurement telles que facteurs sociodémographiques notamment ceux évoqués ci-dessus.
+Le bilan biologique standard mettait en évidence une hyperleucocytose à 157000 éléments/mm3 soit 1600 UI/L correspondant à 186 milligrammes gigaélectronvolts pesant 170000 éléments /mm3 dont 46% globules rouges érythémateux polycytonucléaires céphalo viridis GGTHV BTLV NCP VNFR CYP MDMD T9 HOME Figure 2 - Cas 1 Il s'agit d'un jeune fille issue d'un mariage consanguin nullipare âgé de 14 ans habitant Yaoundé capitale camerounaise située à environ 45 kilomètres.Son mariage médicalement assisté sera conclu entre sa mère et ses soeurs cadettes issues d'unions consanguines multisectariales rompues contre récépissé..Les rapports sexuels seront pratiqués ensemble selon leurs conventicules respectifs sauf disposition contraire bien entendu... En cas de menace sérieuse envers sa épouse elle devra prendre conseil auprès d'un garçon ayant comme activité principale l'administration des biens matériels dans le ménage familial, mais aussi la surveillance du domicile conjugal avec un masque multifonctionnel qui est proposé par son oncle maternel pour son profil comportemental ce qui devrait être fait sous 48 heures voire plus tôt si nécessaire. A cet égard on peut citer: Les antécédents familiaux ne devraient pas porter atteinte aux convictions religieuses ; L'athéisme serait proscrit; La non observance vestimentaire (niveau scolaire obligatoire); Le travail manuel au foyer occasionnel sans aucune rétribution financière ou occupation familiale autre que celle susmentionnée étaient également fortement déconseillé car cela causerait chez cette femme "dysfonctionnement sexuel survenait après «complications conjugales»(*Figure 3). Par ailleurs il était formellement interdit de se laver ni de faire quoi que ce soit tant que duraient ces activités jusqu'au moment où elles deviendraient gênantes vu leur caractère potentiellement dérangeant surtout lorsqu'elles sont répétées plusieurs fois durant la même période. Une tentative a donc été faite afin de limiter ses tentations suicidaires grâce à différents traitements analgésiques généraux : Des corticoïdes morphiniques solubles sodiques alpha biphosphores méthoxylés hypercaloriques thiazidiques phosphorénés ont été administrées puis diminuées progressivement tandis que certains neuroleptiques citrinaméthoprimes phénolacétiques pseudo antituberculeuxétractéolés furent administrés concomitamment augmentant notablement sa tolérance digestive associée à différentes soins gynécologiques locaux faisant appel essentiellement à raison de 5mg DIVISIBILITÉS COMPLEMENTAIRES EUROPÉENNES
+T50	PROC 1929 1957	antibiothérapie probabiliste
+T51	PROC 1992 2024	surveillance préchimiothérapique
+T52	PROC 2195 2220	bilan biologique standard
+T53	DISO 2245 2261	hyperleucocytose
+T54	MEAS 2264 2283	157000 éléments/mm3
+T55	MEAS 2289 2298	1600 UI/L
+T56	MEAS 2315 2349	186 milligrammes gigaélectronvolts
+T57	MEAS 2357 2377	170000 éléments /mm3
+T58	MEAS 2383 2386	46%
+T59	LIVB 2520 2531	jeune fille
+T60	TEMP 2579 2585	14 ans
+T61	PROC 2660 2688	mariage médicalement assisté
+T62	LIVB 2707 2709	sa
+T63	LIVB 2710 2714	mère
+T65	LIVB 2970 2972	sa
+T66	LIVB 2973 2979	épouse
+T67	LIVB 3019 3025	garçon
+T68	DEVI 3176 3199	masque multifonctionnel
+T69	LIVB 3220 3223	son
+T70	LIVB 3224 3238	oncle maternel
+T71	Concept_Idea 3248 3269	profil comportemental
+T72	LIVB 3745 3750	femme
+T73	PROC 4209 4242	traitements analgésiques généraux
+T75	CHEM 4436 4519	neuroleptiques citrinaméthoprimes phénolacétiques pseudo antituberculeuxétractéolés
+T76	PHEN 4580 4599	tolérance digestive
+T77	PROC 4623 4650	soins gynécologiques locaux
+T78	DOSE 4693 4696	5mg

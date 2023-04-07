@@ -1,0 +1,34 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 42 47	3 ans
+T3	PROC 62 66	reçu
+T4	Hospital 71 92	urgences pédiatriques
+T5	PHEN 100 112	accouchement
+T6	PROC 118 133	examen clinique
+T7	LIVB 135 137	il
+T8	DISO 162 192	troubles hydro-électrolytiques
+T9	DISO 213 236	symptômes neurologiques
+T10	DISO 260 283	vasculo-cutanéo-nerveux
+T11	DISO 287 296	cérébrale
+T12	DISO 307 329	anomalies métaboliques
+T13	Concept_Idea 413 425	état général
+T14	DISO 438 449	pathologies
+T15	DISO 477 510	maladie thromboembolique veineuse
+T16	DISO 517 549	défense artérielle cœlioscopique
+T17	ANAT 525 549	artérielle cœlioscopique
+T18	PROC 563 593	échographie abdomino pelvienne
+T19	ANAT 575 593	abdomino pelvienne
+T20	PROC 608 633	anesthésie loco-régionale
+T21	ANAT 619 633	loco-régionale
+T22	DISO 656 679	matité intrapéritonéale
+T23	ANAT 663 679	intrapéritonéale
+T24	MEAS 689 692	5cm
+T25	MEAS 697 700	5cm
+T26	LIVB 725 737	petit garçon
+T27	DISO 766 788	paragangliome kystique
+T28	PROC 844 868	exploration chirurgicale
+T29	PROC 875 907	palpation in utéro-transervicale
+T30	ANAT 1093 1100	pleural
+T31	ANAT 1231 1258	polynucléaires neutrophiles
+T32	DISO 1280 1292	tuberculeuse
+T33	DISO 1361 1382	dépression pulmonaire
+T34	ANAT 1372 1382	pulmonaire

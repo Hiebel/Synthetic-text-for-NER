@@ -1,0 +1,31 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	2 ans
+T3	DISO 62 83	détresse respiratoire
+T4	PHEN 71 83	respiratoire
+T5	DISO 94 112	épisodes purulents
+T6	MEAS 125 136	progressive
+T7	DISO 163 177	amaigrissement
+T8	MEAS 188 193	10 kg
+T9	TEMP 207 211	1 an
+T10	DISO 259 304	syndrome d'épanchement péricardique liquidien
+T11	ANAT 282 304	péricardique liquidien
+T12	DISO 361 384	hypertension artérielle
+T13	ANAT 374 384	artérielle
+T14	CHEM 400 418	sulfates de sodium
+T15	MODE 587 592	bolus
+T16	CHEM 596 615	méthylbromocriptine
+T17	DOSE 635 639	5 mg
+T18	CHEM 643 653	furosémide
+T19	CHEM 710 729	Méthylbromocriptine
+T20	CHEM 732 742	Furosémide
+T21	CHEM 745 758	bêtaméthasone
+T22	PROC 763 778	hospitalisation
+T23	TEMP 790 803	deux semaines
+T24	MEAS 933 949	de façon brutale
+T25	Concept_Idea 953 959	volume
+T26	Concept_Idea 995 1004	grand axe
+T27	LIVB 1150 1156	enfant
+T28	TEMP 1178 1184	6 mois
+T29	DISO 1220 1251	crises convulsives généralisées
+T30	DISO 1274 1291	céphalées fébrile
+T31	MEAS 1301 1313	généralisées

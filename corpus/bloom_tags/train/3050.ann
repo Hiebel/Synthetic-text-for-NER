@@ -1,0 +1,24 @@
+T1	LIVB 28 34	enfant
+T2	TEMP 38 43	6 ans
+T3	Concept_Idea 50 61	antécédents
+T4	MEAS 62 74	particuliers
+T5	PROC 76 81	admis
+T6	Hospital 86 107	urgences pédiatriques
+T7	DISO 117 138	détresse respiratoire
+T8	PHEN 126 138	respiratoire
+T9	MEAS 153 159	rapide
+T10	DISO 175 194	lésions purpuriques
+T11	ANAT 208 214	culmen
+T12	DISO 231 246	symptomatologie
+T13	TEMP 259 266	un mois
+T14	DISO 290 307	dyspnée sifflante
+T15	DISO 318 351	syndrome d'épanchement péritonéal
+T16	ANAT 341 351	péritonéal
+T17	PROC 370 385	hospitalisation
+T18	Hospital 389 410	réanimation néonatale
+T19	PROC 415 431	bilan biologique
+T20	DISO 445 461	hyperleucocytose
+T21	MEAS 464 482	17300 éléments/mm3
+T22	CHEM 484 511	polynucléaires neutrophiles
+T23	PROC 520 544	vitesse de sédimentation
+T24	MEAS 557 562	60 mm

@@ -1,0 +1,72 @@
+T1	LIVB 15 22	patient
+T2	MEAS 69 81	particuliers
+T3	Hospital 97 118	urgences pédiatriques
+T4	DISO 130 148	choc hémodynamique
+T5	DISO 150 182	bradypneumopathie interstitielle
+T6	PROC 207 235	chimiothérapie néo adjuvante
+T7	PROC 251 269	antibioprophylaxie
+T9	TEMP 300 302	/j
+T10	PROC 317 353	kinésithérapie psychopharmacologique
+T11	PROC 391 415	laparotomie exploratrice
+T12	PROC 429 455	thoracoscopie diagnostique
+T13	Concept_Idea 527 539	état général
+T14	DISO 555 569	amaigrissement
+T15	MEAS 593 597	14kg
+T16	MEAS 603 606	8kg
+T17	MEAS 650 660	favorables
+T18	DISO 683 694	traumatisme
+T19	DISO 701 724	déficit sensitivomoteur
+T20	DISO 743 762	contage tuberculeux
+T21	DISO 772 791	problème infectieux
+T22	PROC 813 841	prise en charge chirurgicale
+T23	Concept_Idea 956 965	caractère
+T24	Localization 966 969	pré
+T25	Concept_Idea 1062 1082	aspect morphologique
+T26	DISO 1099 1122	récidive anaphylactique
+T27	DISO 1164 1199	métastase ganglionnaire endobuccale
+T28	DISO 1217 1245	perforation tumorale maligne
+T29	DISO 1305 1325	tumeur superficielle
+T30	DISO 1455 1485	métastase épidermoïde primaire
+T31	ANAT 1514 1588	fosse infra temporale lombo-huméro-mandibulaire thoracique postéro-externe
+T32	MEAS 1598 1603	10 cm
+T33	Concept_Idea 1607 1616	grand axe
+T34	ANAT 1636 1704	ganglions axillaires cervico-axillaires pelviens distaux sus pubiens
+T35	ANAT 1744 1799	structures cutanées maxillaires métacarpo-phalangiennes
+T36	DISO 1846 1881	maladie thromboembolique ischémique
+T37	PROC 1887 1911	contrôles échographiques
+T38	PROC 1928 1948	transfusion sanguine
+T39	DISO 1978 2029	prolifération carcinomateuse éosinophile nécrosante
+T40	ANAT 2046 2086	plaque gastroduodénale pariéto-trachéale
+T41	ANAT 2102 2129	fragments lymphoplasmocytes
+T42	ANAT 2157 2197	noyaux transmembraneux para vascularisés
+T43	ANAT 2271 2313	parenchyme rénal anterieur superfluenzaire
+T44	MEAS 2339 2363	1850 giga globules /mm 3
+T45	MEAS 2366 2392	1600 Giga plaquettes /mm 3
+T47	ANAT 2672 2709	nappes charnues du péritoine digestif
+T49	ANAT 2775 2786	rein gauche
+T50	Localization 2780 2786	gauche
+T51	DISO 2858 2878	résidu inflammatoire
+T53	Concept_Idea 2937 2967	caractéristiques histologiques
+T54	PROC 2981 3006	étude immunohistochimique
+T55	DISO 3038 3152	hémangioendothélium ganglionnaire ostéolytique mésenchymateux neutrophile intracaverneméningiforme hypokératosique
+T56	ANAT 3173 3238	récessus musculo-tendineux iléal basithoracique fémoral rachidien
+T57	LIVB 3256 3262	malade
+T58	DEVI 3268 3288	matériel injectables
+T59	MEAS 3322 3327	15 mm
+T60	MEAS 3330 3345	5/6 centimètres
+T61	MEAS 3371 3376	35 mm
+T62	MEAS 3379 3394	3/4 centimètres
+T63	PROC 3398 3428	TDM thoraco-abdomino-pelvienne
+T64	ANAT 3402 3428	thoraco-abdomino-pelvienne
+T65	PROC 3453 3478	échographie préopératoire
+T66	PROC 3490 3505	antibiothérapie
+T67	CHEM 3511 3537	amoxicilline biphosphonate
+T68	PROC 3551 3595	scintigraphie œsogastroduodénale liquidienne
+T69	ANAT 3565 3595	œsogastroduodénale liquidienne
+T70	PHEN 3613 3646	contours bilio-pulmonaires fœtaux
+T71	DISO 3679 3707	symptomatologie pathologique
+T72	DISO 3786 3817	complication neuropsychiatrique
+T73	PROC 3835 3849	investigations
+T74	DISO 3906 3939	tuberculose tuberculeuse fongique
+T75	DISO 3965 4014	ascite granulomateuse staphylococcus agilistitiae
+T76	PROC 4024 4043	classification APG1

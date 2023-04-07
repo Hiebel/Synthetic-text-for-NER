@@ -1,0 +1,28 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 73	notables
+T4	PROC 75 79	reçu
+T5	Hospital 84 92	urgences
+T6	DISO 102 154	douleur abdomino-pelvienne aiguë à type de pesanteur
+T7	ANAT 110 128	abdomino-pelvienne
+T8	TEMP 164 178	depuis 5 jours
+T9	MEAS 193 208	progressivement
+T10	Concept_Idea 211 226	acuité visuelle
+T11	PROC 230 245	examen clinique
+T12	LIVB 258 265	patient
+T13	MEAS 269 272	bon
+T14	Concept_Idea 273 285	état général
+T15	PHEN 295 316	contractions utérines
+T16	ANAT 308 316	utérines
+T17	MEAS 317 330	plus marquées
+T18	PROC 349 365	examen somatique
+T19	PROC 369 389	examen gynécologique
+T20	DISO 430 461	masse du col utérin hypertrophé
+T21	ANAT 439 461	col utérin hypertrophé
+T22	MEAS 471 484	environ 15 cm
+T23	Concept_Idea 488 502	grand diamètre
+T24	MEAS 507 512	12 cm
+T25	Concept_Idea 516 525	petit axe
+T26	ANAT 538 552	paroi vaginale
+T27	ANAT 567 585	annexes ombilicaux
+T28	Localization 604 613	en dedans

@@ -1,0 +1,34 @@
+T1	LIVB 4 9	femme
+T2	PROC 35 41	admise
+T3	Hospital 46 54	urgences
+T4	DISO 81 119	syndrome d'épanchement intrapéritonéal
+T5	ANAT 104 119	intrapéritonéal
+T6	TEMP 129 145	depuis 48 heures
+T7	MODE 151 161	voie orale
+T8	DOSE 163 171	2 litres
+T9	TEMP 171 176	/jour
+T10	LIVB 193 197	elle
+T11	DISO 224 244	déficit neurologique
+T12	DISO 255 272	lésions associées
+T13	DISO 286 303	atteinte méningée
+T14	ANAT 295 303	méningée
+T15	DISO 323 353	affection érythémato purulente
+T16	MEAS 369 385	de façon brutale
+T17	Concept_Idea 389 395	volume
+T18	MEAS 406 414	3 litres
+T19	PROC 428 443	examen clinique
+T20	DISO 468 545	sensibilité temporo-cérébrale inféro-mandibulaire palmomo-lunaire hypo-tendue
+T22	MEAS 553 564	120 grammes
+T23	DISO 585 615	troubles sensitivospinctériens
+T24	DISO 678 697	insuffisance rénale
+T25	ANAT 691 697	rénale
+T26	PROC 847 877	curage ganglionnaire percutané
+T27	ANAT 854 877	ganglionnaire percutané
+T28	DISO 1054 1074	douleurs abdominales
+T29	MEAS 1129 1138	violacées
+T30	MEAS 1153 1159	rapide
+T31	MEAS 1171 1182	massivement
+T32	Concept_Idea 1186 1192	volume
+T33	MEAS 1219 1226	10 2 kg
+T34	MEAS 1229 1236	15 3 kg
+T35	PROC 1254 1272	traitement médical

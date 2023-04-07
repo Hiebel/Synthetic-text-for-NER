@@ -1,0 +1,41 @@
+T1	LIVB 4 12	patiente
+T2	Concept_Idea 33 44	antécédents
+T3	MEAS 45 57	particuliers
+T4	PROC 65 71	admise
+T5	Hospital 75 82	urgence
+T6	DISO 92 119	douleurs abdominales aiguës
+T7	ANAT 101 112	abdominales
+T8	DISO 136 144	polypnée
+T9	PROC 148 163	examen clinique
+T10	LIVB 175 183	patiente
+T11	Concept_Idea 209 227	plan hémodynamique
+T12	PHEN 231 243	respiratoire
+T13	DISO 245 255	tachycarde
+T14	MEAS 258 275	100 battements/mn
+T15	DISO 295 307	hyperthermie
+T16	MEAS 310 315	39°8C
+T17	PROC 321 339	chaleur thoracique
+T18	ANAT 329 339	thoracique
+T19	MEAS 350 358	40mmol/l
+T20	DISO 374 380	fièvre
+T21	LIVB 402 411	patientes
+T22	DISO 431 440	symptômes
+T23	PROC 454 484	échographie abdomino-pelvienne
+T24	ANAT 466 484	abdomino-pelvienne
+T25	MEAS 497 504	normale
+T26	PROC 508 544	tomodensitométrie abdomino-pelvienne
+T27	ANAT 526 544	abdomino-pelvienne
+T28	DISO 575 652	masse latéroutérine angulo-mésentérique rétro péritonéale homolatérale gauche
+T29	Localization 633 652	homolatérale gauche
+T30	MEAS 661 667	T4N0M0
+T31	DISO 693 723	paragangliome kystique maligne
+T32	ANAT 751 788	ganglionnaire para vertébro-axillaire
+T33	ANAT 803 817	surrénaliennes
+T34	PROC 834 867	imagerie par résonance magnétique
+T35	PROC 869 872	IRM
+T36	PROC 877 902	étude immunohistochimique
+T37	DISO 944 985	métastase tumorale polyradiculonévrotulée
+T38	DISO 1003 1031	syndrome myometrondilatateur
+T39	LIVB 1086 1094	patiente
+T40	DISO 1126 1149	localisation secondaire
+T41	DISO 1213 1239	localisations néoplasiques

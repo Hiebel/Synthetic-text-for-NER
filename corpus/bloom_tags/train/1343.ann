@@ -1,0 +1,50 @@
+T1	LIVB 3 10	patient
+T2	PROC 47 81	chirurgien-réanimateur chirurgical
+T3	PROC 93 119	consultation préopératoire
+T4	PROC 123 147	exploration exploratrice
+T5	DISO 161 200	kystie hydatique biliaire hypertrophiée
+T6	PROC 213 231	surrachianesthésie
+T7	DISO 249 296	syndrome d’épanchement périthoracique infarctus
+T8	ANAT 272 296	périthoracique infarctus
+T9	DISO 311 346	plage d’hypertension intracrânienne
+T10	ANAT 332 346	intracrânienne
+T11	MEAS 357 365	100 mmhg
+T12	DEVI 391 419	bandelettes pleuro-aortiques
+T13	PROC 423 447	scanner abdomino-pelvien
+T14	ANAT 431 447	abdomino-pelvien
+T15	LIVB 487 495	patiente
+T16	PROC 549 561	prélèvements
+T17	Hospital 571 584	établissement
+T18	DISO 627 650	localisations suspectes
+T19	DISO 678 705	carcinose vésicale tumorale
+T20	ANAT 688 705	vésicale tumorale
+T21	DISO 716 739	adénopathies pelviennes
+T22	ANAT 729 739	pelviennes
+T23	DISO 749 778	atteinte endocrine graisseuse
+T24	ANAT 758 778	endocrine graisseuse
+T25	DISO 820 845	localisation radiologique
+T26	PROC 875 906	tomodensitométrie scanno-guidée
+T27	PROC 908 931	TDM) abdomino-pelvienne
+T28	ANAT 913 931	abdomino-pelvienne
+T30	DISO 968 1019	masse polylobée angulo-tissulaire hyper métabolisée
+T31	ANAT 1038 1053	flux œsophagien
+T32	ANAT 1072 1089	cavité abdominale
+T33	MEAS 1156 1172	multi-composante
+T34	CHEM 1190 1210	produit de contraste
+T35	DISO 1312 1328	nécrose caséeuse
+T36	ANAT 1353 1376	parties interstitielles
+T37	Concept_Idea 1392 1400	contours
+T38	MEAS 1401 1410	conservés
+T39	ANAT 1441 1458	organes digestifs
+T40	ANAT 1516 1529	cotrimoxazole
+T41	DISO 1567 1589	épanchement péritonéal
+T42	ANAT 1579 1589	péritonéal
+T43	DISO 1597 1602	masse
+T44	MEAS 1612 1616	70mm
+T45	Concept_Idea 1620 1629	grand axe
+T47	ANAT 1654 1696	aires ganglionnaires cervico-vestibulaires
+T48	PROC 1701 1733	radio-chirurgie trans-thoracique
+T49	TEMP 1761 1774	deuxième mois
+T50	PROC 1780 1818	anesthésie locorégionale préopératoire
+T51	PROC 1843 1866	radiothérapie adjuvante
+T52	PROC 1875 1976	pontage artéri-ventriculaire thoracique postéro-latéral antébradycardioeurystrophique scannographique

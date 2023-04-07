@@ -1,0 +1,19 @@
+T1	PROC 3 20	bilan d'extension
+T2	PROC 43 68	scanner thoraco-abdominal
+T3	ANAT 51 68	thoraco-abdominal
+T4	Concept_Idea 72 91	aspect radiologique
+T5	DISO 98 103	masse
+T6	DISO 125 157	processus tumoral du rein gauche
+T7	ANAT 146 157	rein gauche
+T8	Localization 151 157	gauche
+T9	MEAS 168 173	18 cm
+T10	Concept_Idea 177 185	diamètre
+T11	PROC 209 218	injection
+T12	CHEM 222 242	produit de contraste
+T13	ANAT 251 269	lambeau péritonéal
+T14	DISO 290 324	sarcomatose transcorporéo-fémorale
+T15	ANAT 302 324	transcorporéo-fémorale
+T16	LIVB 329 337	patiente
+T17	PROC 354 382	chimiothérapie néo adjuvante
+T18	PROC 396 414	antibioprophylaxie
+T19	DISO 457 476	symptômes cliniques

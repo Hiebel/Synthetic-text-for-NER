@@ -1,0 +1,20 @@
+T1	LIVB 9 12	MJA
+T2	TEMP 72 84	il y a 2 ans
+T3	LIVB 215 218	son
+T4	LIVB 219 225	épouse
+T5	PROC 309 335	examen anatomopathologique
+T6	DISO 357 371	tumeur maligne
+T7	DISO 381 394	foyer tumoral
+T8	PROC 407 424	biologie standard
+T9	DISO 441 457	hyperleucocytose
+T10	MEAS 460 487	16000 globules blancs /mm 3
+T11	DISO 503 523	hypertriglycéridémie
+T12	MEAS 526 536	0,6 mmol/l
+T13	PROC 543 555	hémocultures
+T14	MEAS 583 592	négatives
+T15	PROC 622 641	examens biologiques
+T16	PROC 684 710	étude immuno-histochimique
+T18	Concept_Idea 1936 1945	résultats
+T19	PROC 1949 1968	traitement adjuvant
+T20	TEMP 1997 2003	3 mois
+T21	DISO 2072 2080	récidive

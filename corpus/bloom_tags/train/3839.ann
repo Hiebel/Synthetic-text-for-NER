@@ -1,0 +1,34 @@
+T1	LIVB 28 35	patient
+T2	DISO 55 80	antécédents pathologiques
+T3	MEAS 81 93	particuliers
+T4	PROC 104 109	admis
+T5	Hospital 114 122	urgences
+T6	DISO 131 151	ictère choléstatique
+T7	TEMP 161 175	depuis 3 jours
+T8	MEAS 190 205	progressivement
+T9	Concept_Idea 208 223	acuité visuelle
+T10	PROC 227 242	examen clinique
+T11	DISO 259 333	cataracte congénitale bilacellulaire latéro-mandibulaire bilatérale droite
+T12	Localization 316 333	bilatérale droite
+T13	PROC 386 406	reprise chirurgicale
+T14	PROC 412 437	anesthésie postopératoire
+T15	PHEN 467 479	récupération
+T16	MEAS 480 488	complète
+T17	PROC 526 540	interrogatoire
+T18	DISO 567 587	déficit neurologique
+T19	DISO 591 597	facial
+T20	DISO 629 650	troubles métaboliques
+T21	DISO 661 688	atteintes sensitivomotrices
+T22	LIVB 711 719	patiente
+T23	PROC 725 770	ponction liquide céphalo-rachidien transfixié
+T24	ANAT 734 770	liquide céphalo-rachidien transfixié
+T25	MEAS 861 869	0,45 g/L
+T26	MEAS 873 881	1,12 g/L
+T27	MEAS 895 903	négatifs
+T28	PROC 908 939	TDM thoraco- abdomino-pelvienne
+T29	ANAT 912 939	thoraco- abdomino-pelvienne
+T30	DISO 953 1040	hypertrophie ventriculo-lobe supérieure droitehomolatérale hétéro-thoracique tissulaire
+T31	ANAT 966 1040	ventriculo-lobe supérieure droitehomolatérale hétéro-thoracique tissulaire
+T33	DISO 1056 1192	thrombose veineuse artérielle méso-hypophagienne infarcto-ganglionnaire péripéritonéale sus-surrénalienne hypoéchogène hypervascularisée
+T35	MEAS 1202 1206	46mm
+T36	Concept_Idea 1210 1218	diamètre

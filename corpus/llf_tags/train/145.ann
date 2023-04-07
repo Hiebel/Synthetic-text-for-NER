@@ -1,0 +1,48 @@
+T1	LIVB 9 17	Patiente
+T2	MEAS 55 56	4
+T3	LIVB 57 64	enfants
+T4	MEAS 70 71	1
+T5	LIVB 72 76	fils
+T6	PROC 81 92	consanguins
+T7	DISO 323 357	hypertension artérielle systolique
+T8	MEAS 366 384	120 mm Hg /85 mmHg
+T9	DISO 400 413	hyperkaliémie
+T10	MEAS 424 476	2 fois la limite supérieure OCDNote de bas de page 5
+T11	PROC 481 521	cholestérolémie normochrome microcytaire
+T12	PROC 522 529	TSH GDS
+T13	Hospital 544 563	urgences digestives
+T14	MEAS 661 688	0,01 gramme par millilitres
+T15	MEAS 694 720	126 milligrammes par litre
+T16	PROC 734 795	normophosphatase alcalinoïde phosphokinase acide clavulanique
+T17	PROC 797 801	ALAT
+T18	MEAS 811 819	238 UI/L
+T19	MEAS 827 835	175 UI/L
+T20	PROC 850 871	recherche biomédicale
+T21	MEAS 927 930	21%
+T22	MEAS 997 1006	1030 UI/L
+T23	MEAS 1042 1050	980 UI/L
+T24	MEAS 1055 1085	25 grammes par centimètre cube
+T25	DISO 1697 1718	syndrome interstitiel
+T26	LIVB 1744 1752	patients
+T27	DISO 1765 1772	diabète
+T28	Concept_Idea 1782 1806	vitesse de sédimentation
+T29	PHEN 1793 1806	sédimentation
+T30	MEAS 1818 1829	40 cmminute
+T31	DISO 1870 1889	maladie auto-immune
+T32	DISO 1908 1921	hyperkaliémie
+T33	PROC 1966 1984	traitement curatif
+T34	DISO 2001 2016	symptomatologie
+T35	PROC 2131 2150	bilan préopératoire
+T36	Concept_Idea 2199 2222	caractère hémodynamique
+T37	DISO 2294 2302	récidive
+T38	PROC 2393 2421	chimiothérapie néo adjuvante
+T39	CHEM 2454 2465	paracétamol
+T40	PROC 2478 2517	remplissage vasculorénal endovasculaire
+T41	ANAT 2490 2502	vasculorénal
+T44	Localization 2597 2618	transfémorale interne
+T47	Localization 3007 3030	controlatéral antérieur
+T48	Localization 3179 3197	antérieure moyenne
+T49	PROC 3201 3222	radiographie standard
+T50	PROC 3240 3266	examen anatomopathologique
+T51	DISO 3285 3322	épanchement péritonéal postopératoire
+T52	ANAT 3341 3375	crosse mésentérique cérébrospinale

@@ -1,0 +1,45 @@
+T1	LIVB 29 40	jeune fille
+T2	TEMP 49 55	17 ans
+T3	DISO 75 101	douleurs pelviennes aiguës
+T4	ANAT 84 101	pelviennes aiguës
+T5	MEAS 116 127	progressive
+T6	PROC 198 210	consultation
+T7	Hospital 218 267	hôpital militaire d'instruction Mohammed V de Fès
+T8	LIVB 292 296	elle
+T9	DISO 321 330	symptômes
+T10	PROC 364 389	intervention chirurgicale
+T11	PROC 392 407	examen clinique
+T12	LIVB 425 433	patiente
+T13	Concept_Idea 448 466	plan hémodynamique
+T14	DISO 484 508	souffle cardiovasculaire
+T15	ANAT 492 508	cardiovasculaire
+T16	DISO 515 549	syndrome d'épanchement intrabuccal
+T17	ANAT 538 549	intrabuccal
+T18	DISO 572 598	troubles sensitivomotrices
+T19	DISO 605 625	sensibilité urétrale
+T20	ANAT 617 625	urétrale
+T21	DEVI 649 694	sonde recto-gastro- œsophagien transperméable
+T23	DOSE 726 730	2 ml
+T24	PROC 752 763	immobilisés
+T25	PROC 889 910	contraception utérine
+T26	ANAT 903 910	utérine
+T27	MEAS 1161 1167	rapide
+T28	ANAT 1332 1358	vulvovaginale obstétricale
+T29	LIVB 1402 1411	patientes
+T30	PROC 1426 1434	traitées
+T31	PROC 1661 1683	chirurgie exploratrice
+T32	MEAS 2737 2741	6 cm
+T33	DISO 2797 2808	kystadénome
+T34	DISO 2815 2831	pneumo-péritoine
+T35	Concept_Idea 2837 2840	âge
+T36	TEMP 2844 2850	23 ans
+T37	LIVB 2855 2862	patient
+T38	DISO 2878 2903	tuméfaction du sein droit
+T39	ANAT 2893 2903	sein droit
+T40	Localization 2898 2903	droit
+T41	MEAS 2915 2927	spontanément
+T42	Concept_Idea 2931 2937	volume
+T43	DISO 2950 2966	signes cliniques
+T44	PHEN 3020 3035	acuité visuelle
+T45	DISO 3041 3055	amaigrissement
+T46	MEAS 3066 3071	10 kg

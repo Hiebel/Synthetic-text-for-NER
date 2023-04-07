@@ -1,0 +1,27 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	12 ans
+T3	Concept_Idea 42 53	antécédents
+T4	MEAS 54 66	particuliers
+T5	PROC 68 72	reçu
+T6	Hospital 77 85	urgences
+T7	DISO 95 122	douleurs abdominales aiguës
+T8	ANAT 104 115	abdominales
+T9	TEMP 132 149	depuis deux jours
+T10	DISO 166 186	vomissement purulent
+T11	PROC 190 205	examen clinique
+T12	LIVB 218 224	enfant
+T13	MEAS 228 231	bon
+T14	Concept_Idea 232 244	état général
+T15	PROC 257 287	pression artérielle systolique
+T16	ANAT 266 287	artérielle systolique
+T17	MEAS 304 315	150/80 mmHg
+T18	PHEN 322 341	fréquence cardiaque
+T19	ANAT 332 341	cardiaque
+T20	MEAS 344 355	75 batt/min
+T21	PROC 360 393	ponction pleurale transpulmonaire
+T22	ANAT 369 393	pleurale transpulmonaire
+T23	CHEM 410 420	sérum salé
+T24	PROC 445 475	échographie abdomino-pelvienne
+T25	ANAT 457 475	abdomino-pelvienne
+T26	DISO 500 532	épanchement liquidien péritonéal
+T27	ANAT 512 532	liquidien péritonéal

@@ -1,0 +1,11 @@
+T1	PROC 2 21	bilan préopératoire
+T2	DISO 52 61	métastase
+T3	DISO 67 94	adénocarcinome de l'estomac
+T4	ANAT 87 94	estomac
+T5	LIVB 99 107	patiente
+T6	CHEM 124 134	corticoïde
+T7	Concept_Idea 140 144	dose
+T8	DOSE 148 154	1mg/kg
+T9	TEMP 154 159	/jour
+T10	MODE 163 178	intramusculaire
+T11	TEMP 216 223	18 mois

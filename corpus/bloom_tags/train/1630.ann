@@ -1,0 +1,30 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	8 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 81	reçu
+T6	Hospital 86 94	urgences
+T7	DISO 104 143	douleurs abdomino-pelviennes purulentes
+T8	ANAT 113 132	abdomino-pelviennes
+T9	TEMP 153 169	depuis 48 heures
+T10	PHEN 205 210	poids
+T11	MEAS 221 225	2 kg
+T12	TEMP 229 236	un mois
+T13	PROC 240 255	examen clinique
+T14	Concept_Idea 271 275	état
+T15	Concept_Idea 304 317	plan physique
+T16	ANAT 328 338	artérielle
+T17	MEAS 341 353	120/100 mmHg
+T18	Concept_Idea 357 368	température
+T19	MEAS 371 375	37°C
+T20	PROC 381 400	bilan préopératoire
+T21	PROC 418 448	échographie abdomino-pelvienne
+T22	ANAT 430 448	abdomino-pelvienne
+T23	DISO 475 546	masse kystique polylobée hypo échogène tissulaire latéro-utérine droite
+T24	Localization 540 546	droite
+T25	ANAT 563 583	fosse iliaque gauche
+T26	Localization 577 583	gauche
+T27	MEAS 593 598	12 cm
+T28	Concept_Idea 602 611	grand axe
+T29	DISO 643 655	cholécystite
+T30	DISO 662 674	métrorragies

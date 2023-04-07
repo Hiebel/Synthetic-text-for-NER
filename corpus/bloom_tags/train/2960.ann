@@ -1,0 +1,54 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	Concept_Idea 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 82	admis
+T6	Hospital 87 108	urgences pédiatriques
+T7	DISO 118 151	douleur du membre supérieur droit
+T8	ANAT 129 151	membre supérieur droit
+T9	Localization 146 151	droit
+T10	MEAS 166 177	progressive
+T11	TEMP 187 205	depuis trois jours
+T12	PROC 209 224	examen clinique
+T13	PROC 229 238	admission
+T14	LIVB 251 257	enfant
+T15	MEAS 261 264	bon
+T16	Concept_Idea 265 291	développement psychomoteur
+T17	ANAT 306 324	membres inférieurs
+T18	PHEN 331 343	récupération
+T19	MEAS 350 356	totale
+T20	PROC 372 388	examen somatique
+T21	DISO 411 436	épigastralgies chroniques
+T22	TEMP 446 462	il y a deux mois
+T23	MEAS 480 495	progressivement
+T24	LIVB 509 511	Il
+T25	PROC 534 564	échographie abdomino-pelvienne
+T26	ANAT 546 564	abdomino-pelvienne
+T27	PROC 566 569	ECP
+T28	DISO 587 675	masse hypo échogène hétérogène polylobée tissulaire latéro-utérine épigastrique kystique
+T29	MEAS 684 689	10 cm
+T30	MEAS 694 698	5 cm
+T31	ANAT 725 734	péritoine
+T32	MEAS 744 756	environ 3 cm
+T33	Concept_Idea 760 769	grand axe
+T34	PROC 788 797	injection
+T35	CHEM 801 821	produit de contraste
+T36	ANAT 839 857	liquide péritonéal
+T37	ANAT 874 896	muscles paravertébraux
+T38	ANAT 923 941	parois abdominales
+T39	ANAT 1048 1067	vésicules biliaires
+T40	ANAT 1076 1090	surrénaliennes
+T41	PROC 1094 1130	tomodensitométrie abdomino-pelvienne
+T42	ANAT 1112 1130	abdomino-pelvienne
+T43	PROC 1145 1171	contraception progestative
+T45	ANAT 1401 1437	granulomes érythémato-végétolytiques
+T46	ANAT 1477 1532	cellules carcinomateuses hypertrophiées basithoraciques
+T47	DISO 1598 1617	lésions purpuriques
+T48	LIVB 1638 1646	patiente
+T49	DISO 1663 1677	myometrorragie
+T50	DISO 1687 1704	kystoprolactinose
+T51	DISO 1721 1747	tumeur hydrosplénomullaire
+T52	PROC 1775 1798	réparation chirurgicale
+T53	PROC 1815 1834	résection adjuvante
+T54	DISO 1856 1871	symptomatologie
+T55	DEVI 2063 2087	cathéteres transfixiante

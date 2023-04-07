@@ -1,0 +1,24 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	PHEN 46 55	grossesse
+T4	PROC 60 66	suivie
+T5	MODE 72 90	voie intraveineuse
+T6	MEAS 101 108	16 000g
+T7	MEAS 161 167	40 ° C
+T8	DISO 169 194	polynucléaire neutropénie
+T9	MEAS 197 207	15000/mm 3
+T10	PROC 211 241	bilan infectieux préopératoire
+T11	PROC 259 272	sérologie VIH
+T12	MEAS 273 280	positif
+T13	PROC 293 312	hémoglobine glyquée
+T14	MEAS 321 325	8,7%
+T15	Hospital 330 351	urgences pédiatriques
+T16	MEAS 357 362	13,3%
+T17	DISO 497 510	consanguinité
+T18	LIVB 540 547	famille
+T19	PROC 561 588	numération formule sanguine
+T20	DISO 617 639	syndromes malformatifs
+T21	DISO 657 696	déficits immunitaires sensitivomotrices
+T22	LIVB 746 754	patients
+T23	DISO 803 816	craniosténose
+T24	CHEM 935 953	méthylprédnisolone

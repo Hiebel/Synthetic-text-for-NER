@@ -1,0 +1,54 @@
+T1	LIVB 16 24	patiente
+T2	TEMP 127 139	juillet 2012
+T3	TEMP 143 156	décembre 2013
+T4	LIVB 171 175	elle
+T5	PHEN 198 219	grossesse monofoetale
+T6	PROC 233 257	laparotomie exploratrice
+T7	LIVB 269 280	parturiente
+T8	DEVI 295 326	garrot pneumatique percutanaire
+T9	TEMP 613 622	mars 2011
+T10	PROC 642 662	rééducation sexuelle
+T11	PROC 699 721	contrôle gynécologique
+T12	PROC 740 759	suivi préopératoire
+T13	PROC 785 808	transfusion parentérale
+T14	DOSE 819 824	50 mg
+T15	CHEM 828 840	prédnisolone
+T16	CHEM 852 864	midazolamide
+T17	CHEM 937 950	métronidazole
+T18	DOSE 956 962	100 mg
+T19	MEAS 1080 1087	simples
+T20	PROC 1107 1135	prise en charge chirurgicale
+T21	PROC 1222 1243	résection médicalisée
+T22	Concept_Idea 1256 1274	état hémodynamique
+T23	PROC 1316 1343	hystérectomie endotrachéale
+T25	LIVB 1581 1589	patiente
+T26	DISO 1605 1621	râles crépitants
+T27	DISO 1628 1654	traumatisme du flanc droit
+T28	ANAT 1643 1654	flanc droit
+T29	Localization 1649 1654	droit
+T30	DISO 1677 1698	distension thoracique
+T31	ANAT 1688 1698	thoracique
+T32	Concept_Idea 1743 1755	état général
+T33	DISO 1824 1839	symptomatologie
+T34	PROC 1845 1873	chimiothérapie néo adjuvante
+T35	PROC 1902 1937	remplissage péritonéal conservateur
+T36	ANAT 1914 1937	péritonéal conservateur
+T37	PROC 1962 1998	reconstructions anatomopathologiques
+T38	PROC 2012 2040	investigations radiologiques
+T39	PROC 2069 2140	corticothérapie antibiotique type bêtalactamines sodiques intraveineuse
+T40	PROC 2152 2169	bilan étiologique
+T41	MEAS 2182 2189	négatif
+T42	PHEN 2194 2212	fonction hépatique
+T43	ANAT 2203 2212	hépatique
+T44	MEAS 2225 2232	normale
+T45	PROC 2238 2271	explorations cytobactériologiques
+T46	MEAS 2286 2295	correctes
+T47	LIVB 2662 2672	nouveau-né
+T48	LIVB 2729 2731	sa
+T49	LIVB 2732 2756	belle-famille maternelle
+T50	TEMP 2765 2772	17 mois
+T51	LIVB 2776 2779	son
+T52	LIVB 2780 2784	père
+T53	TEMP 2792 2797	3 ans
+T54	LIVB 2846 2853	enfants
+T55	LIVB 3043 3049	épouse

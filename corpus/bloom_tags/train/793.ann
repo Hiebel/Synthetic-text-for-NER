@@ -1,0 +1,27 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	7 ans
+T3	Concept_Idea 25 36	antécédents
+T4	MEAS 37 45	notables
+T5	PROC 47 57	consultait
+T6	DISO 67 97	douleurs pelviennes mécaniques
+T7	ANAT 76 86	pelviennes
+T8	TEMP 107 120	depuis 2 mois
+T9	PROC 124 139	examen clinique
+T10	LIVB 152 158	enfant
+T11	MEAS 162 165	bon
+T12	Concept_Idea 166 178	état général
+T13	PHEN 197 217	grossesse gémellaire
+T14	PROC 243 267	exploration chirurgicale
+T15	DISO 290 309	rupture du placenta
+T16	ANAT 301 309	placenta
+T17	Localization 326 347	face postéro-latérale
+T18	PROC 351 381	échographie abdomino-pelvienne
+T19	ANAT 363 381	abdomino-pelvienne
+T20	DISO 398 444	masse tissulaire hypo échogéminée hypokaliique
+T21	MEAS 454 458	50mm
+T22	Concept_Idea 462 471	grand axe
+T23	Concept_Idea 480 487	contour
+T24	MEAS 492 505	bien délimité
+T25	DISO 522 544	dilatation péritonéale
+T26	DISO 550 576	épanchement péripéritonéal
+T27	ANAT 562 576	péripéritonéal

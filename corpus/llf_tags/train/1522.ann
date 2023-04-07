@@ -1,0 +1,44 @@
+T1	LIVB 18 25	patient
+T2	TEMP 84 97	il y a 3 mois
+T3	DISO 109 148	accident vasculaire cérébral ischémique
+T4	LIVB 160 163	ses
+T5	MEAS 213 217	N° 4
+T6	LIVB 220 228	Patiente
+T7	DISO 249 258	tabagique
+T8	DISO 262 273	hypertendue
+T9	PROC 290 300	consultait
+T10	Hospital 305 340	urgences neurologiques pédiatriques
+T11	LIVB 595 612	parents maternels
+T12	LIVB 659 680	mariage consanguin AE
+T13	LIVB 727 730	son
+T14	LIVB 737 754	petit frère cadet
+T15	DISO 884 902	neuropsychiatrique
+T16	PROC 1217 1242	observation rétrospective
+T17	Concept_Idea 1331 1355	paramètres histologiques
+T18	Concept_Idea 1408 1432	caractères médico-légaux
+T19	DISO 1518 1544	symptomatologie polymorphe
+T20	PROC 1601 1620	suivi psychiatrique
+T21	LIVB 1770 1777	patient
+T22	PHEN 1820 1834	décès néonatal
+T23	LIVB 1847 1849	sa
+T24	LIVB 1850 1855	femme
+T25	PROC 1874 1903	néphrolithotomie exploratrice
+T26	TEMP 1916 1926	12/06/2012
+T27	PROC 1932 1942	extraction
+T28	PROC 1948 1967	anesthésie générale
+T29	PROC 1981 1999	antibioprophylaxie
+T30	CHEM 2001 2011	Imidacétal
+T31	CHEM 2014 2045	Amoxicilline acide clavulanique
+T32	CHEM 2047 2085	acide acétyle salicylésulfaméthoxazole
+T33	LIVB 2105 2107	il
+T34	PROC 2123 2152	chimiothérapie antibacillaire
+T35	CHEM 2158 2172	corticoïdexone
+T36	Concept_Idea 2198 2216	plan hémodynamique
+T37	LIVB 2271 2276	notre
+T38	LIVB 2277 2298	nouveau-né souffrante
+T39	DISO 2308 2319	hémorragies
+T40	ANAT 2384 2396	conjonctives
+T41	MEAS 2456 2461	2 ème
+T42	DEVI 2462 2480	prothèse cervicale
+T44	PROC 2695 2848	annexectomie antérolatérale pré anastomotique distale aspirative monovisternale periplatine adriatico-occipitale jugulaire large extemporanée fractionnée
+T45	PROC 2865 2898	oxygénothérapie substitutionnelle

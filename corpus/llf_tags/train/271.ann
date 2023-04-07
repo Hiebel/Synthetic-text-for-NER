@@ -1,0 +1,90 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 71	antécédents pathologiques
+T3	MEAS 72 84	particuliers
+T4	PROC 95 107	hospitalisée
+T5	DISO 117 134	douleur du thorax
+T6	ANAT 128 134	thorax
+T7	DISO 141 160	syndrome infectieux
+T8	TEMP 170 190	depuis deux semaines
+T9	PROC 194 209	examen clinique
+T10	LIVB 221 229	patiente
+T11	MEAS 233 240	mauvais
+T12	Concept_Idea 241 253	état général
+T13	DISO 263 287	contractions abdominales
+T14	ANAT 276 287	abdominales
+T15	DISO 298 331	crises convulsives tonicoclonales
+T16	DISO 345 351	signes
+T17	PROC 366 391	bilan biologique standard
+T18	DISO 405 421	hyperleucocytose
+T19	MEAS 424 446	15500 éléments par mm3
+T20	PROC 451 478	numération formule sanguine
+T21	MEAS 483 490	normale
+T22	PROC 496 517	bilan phosphocalcique
+T23	MEAS 528 535	correct
+T24	PHEN 545 563	sérologies virales
+T25	MEAS 569 578	positives
+T26	PROC 591 602	échographie
+T27	Hospital 613 621	urgences
+T28	DISO 636 664	trouble hydro-éléctrolytique
+T29	DISO 668 678	infectieux
+T30	PROC 683 715	fibroscopie oeso-gastroduodénale
+T31	ANAT 695 715	oeso-gastroduodénale
+T32	LIVB 742 750	patiente
+T33	DISO 755 781	masse tissulaire polylobée
+T34	ANAT 808 815	trachée
+T35	MEAS 824 828	8 cm
+T36	Localization 837 856	plus grande étendue
+T37	MEAS 866 870	6 cm
+T38	Localization 995 1001	droite
+T39	ANAT 1018 1037	parenchyme digestif
+T40	ANAT 1052 1087	aires ganglionnaires superficielles
+T41	PROC 1110 1131	contrôle locorégional
+T42	DEVI 1157 1197	cathéter double lumière pulsé multimodal
+T43	ANAT 1293 1326	extrémités gastrocnémédiastinales
+T44	PROC 1372 1393	biopsie scanno-guidée
+T45	DISO 1458 1484	tumeur myxoide infiltrante
+T46	MEAS 1492 1504	2500 grammes
+T47	ANAT 1522 1551	membranes hépatiques sériques
+T48	ANAT 1555 1564	hépatique
+T50	ANAT 1686 1706	structures biliaires
+T51	PROC 1905 1925	suivi postopératoire
+T52	DISO 1959 2002	anémie hypochrome microcytaire normocytaire
+T53	DISO 2036 2051	hémophagocytose
+T54	MEAS 2062 2072	185 pg/mm³
+T55	MEAS 2078 2114	17 fois la limite supérieure tolérée
+T56	MEAS 2131 2143	30 000 GBq/L
+T57	DISO 2166 2188	anomalie morphologique
+T58	DISO 2222 2247	récidive tumorale maligne
+T59	PROC 2274 2299	étude anatomopathologique
+T60	DISO 2329 2413	remaniements métaplasiques périvasculaires hyperbasophiles nécrosés érythroblastique
+T61	DISO 2432 2465	lymphomes tuberculeux kératinosis
+T62	MEAS 2543 2550	simples
+T63	MEAS 2600 2607	simples
+T64	TEMP 2627 2641	quelques jours
+T65	DISO 2744 2773	symptomatologies infectieuses
+T67	PHEN 2907 2928	grossesse monofoetale
+T68	TEMP 2932 2943	24 semaines
+T69	Concept_Idea 2953 2962	résultats
+T70	MEAS 2963 2973	favorables
+T71	ANAT 3002 3012	rein droit
+T72	Localization 3007 3012	droit
+T73	MEAS 3027 3031	bien
+T74	DISO 3049 3066	embols vasculaire
+T75	ANAT 3056 3066	vasculaire
+T76	DISO 3070 3097	circulation extracorporelle
+T77	LIVB 3118 3125	parents
+T78	PROC 3141 3172	bilan étiologique préopératoire
+T79	PROC 3174 3178	ECBU
+T80	PROC 3180 3204	échographie obstétricale
+T81	PROC 3206 3246	scintigraphie thoraco-abdomino pelvienne
+T82	ANAT 3220 3246	thoraco-abdomino pelvienne
+T83	DISO 3288 3313	traumatisme gynécologique
+T84	DEVI 3387 3409	chirurgies percutanées
+T85	DISO 3439 3460	détresse respiratoire
+T86	PHEN 3448 3460	respiratoire
+T87	PROC 3478 3502	consultations prénatales
+T88	PROC 3570 3595	prise en charge adjuvante
+T89	PROC 3701 3713	radiologique
+T90	PROC 3718 3729	endocrinien
+T91	LIVB 3774 3781	malades
+T92	Concept_Idea 3804 3840	conditions socio-économiques locales

@@ -1,0 +1,99 @@
+T1	LIVB 16 21	fille
+T2	TEMP 25 31	10 ans
+T3	PROC 91 103	consultation
+T4	Hospital 108 129	urgences pédiatriques
+T5	DISO 139 168	symptômes neuropsychiatriques
+T6	TEMP 178 196	2 jours auparavant
+T7	DISO 205 228	agitation psychomotrice
+T8	Concept_Idea 238 241	âge
+T9	TEMP 245 251	3 mois
+T10	MEAS 255 262	mauvais
+T11	PHEN 263 289	développement psychomoteur
+T12	DISO 307 316	dysphagie
+T13	LIVB 337 353	grand frère aîné
+T14	PROC 360 369	admission
+T15	LIVB 373 380	patient
+T16	DISO 393 413	primigeste nullipare
+T17	DISO 417 424	anxieux
+T18	ANAT 516 523	abdomen
+T19	MEAS 530 549	légèrement sensible
+T20	PROC 553 570	palper-opératoire
+T21	Localization 585 601	partie proximale
+T22	MEAS 608 620	bien limitée
+T23	MEAS 630 635	14 cm
+T24	Concept_Idea 639 647	diamètre
+T25	DEVI 657 670	sac aspiratif
+T26	PROC 686 702	examen somatique
+T27	DISO 714 727	particularité
+T28	PROC 732 759	bilan radiologique standard
+T29	DISO 776 795	hyperproteinorachie
+T30	MEAS 798 805	0,6 g/l
+T31	DISO 821 841	hypertriglycéridémie
+T32	MEAS 844 850	1,9g/l
+T33	DISO 865 878	thrombocytose
+T34	MEAS 881 894	31000 GB/mm 3
+T35	MEAS 905 924	1600 éléments /mm 3
+T36	PROC 930 956	tests immunohistochimiques
+T37	MEAS 965 983	fortement positifs
+T38	PROC 990 1030	concentration en hémoglobine glycorachie
+T39	MEAS 1041 1044	21%
+T40	CHEM 1050 1099	immunoglobulines intraveineuse acide tranexamique
+T41	MEAS 1105 1113	432 UI/L
+T42	MEAS 1145 1153	158 UI/L
+T43	MEAS 1157 1165	512 UI/L
+T44	LIVB 1287 1293	malade
+T45	DISO 1304 1321	signes infectieux
+T46	PROC 1494 1519	chimiothérapie palliative
+T47	PROC 1525 1560	méthotrexate intrathécale adjuvante
+T48	PROC 1574 1604	neuroleptiques antibacillaires
+T49	PROC 1663 1676	radiothérapie
+T50	PROC 1682 1698	antibiothérapies
+T51	PROC 1725 1869	néphrotoxime BOIRACULAZINE DYNAMICAL RIBERIAX FOLEUCKET MDRG TURFIGHT STAR INCHAÏDIMAN DRAGOGUID COMPRIS Hydrocortisolarythromycine ketoacidosis
+T52	DOSE 1871 1886	50 milligrammes
+T53	Concept_Idea 2004 2024	technique opératoire
+T54	DOSE 2054 2059	20 mg
+T55	PROC 2196 2215	rééducation motrice
+T56	PROC 2266 2293	surveillance postopératoire
+T57	PROC 2385 2409	techniques anesthésiques
+T58	PROC 2575 2597	traitement substitutif
+T59	PROC 2652 2684	transfusion sanguine parentérale
+T60	CHEM 2708 2726	culots globulaires
+T61	PROC 2880 2903	intubation exploratrice
+T62	PROC 2946 2958	soins locaux
+T63	DISO 3002 3021	symptôme infectieux
+T64	TEMP 3048 3058	2 ème mois
+T65	PROC 3075 3087	intervention
+T66	DISO 3094 3108	amaigrissement
+T67	MEAS 3119 3132	3 kilogrammes
+T68	DISO 3148 3166	diarrhée chronique
+T69	DISO 3177 3193	signes digestifs
+T70	PROC 3218 3223	suivi
+T71	DISO 3238 3252	déshydratation
+T72	MEAS 3263 3267	39°C
+T73	DEVI 3273 3280	capsule
+T74	PHEN 3296 3316	grossesse gémellaire
+T75	Concept_Idea 3374 3392	état hémodynamique
+T76	MEAS 3430 3440	favorables
+T77	DISO 3472 3500	troubles neuropsychiatriques
+T78	LIVB 3515 3523	patients
+T79	DISO 3545 3571	syndrome schizophréniforme
+T80	Concept_Idea 3598 3611	état générale
+T81	ANAT 3616 3620	peau
+T82	MEAS 3627 3640	très sensible
+T83	PROC 3645 3679	kinésithérapeutiques endoscopiques
+T84	ANAT 3732 3744	conjonctives
+T85	PROC 3940 3955	examen clinique
+T86	DISO 3967 3981	particularités
+T87	TEMP 4000 4010	24/03/2017
+T88	LIVB 4012 4019	Mme A.S
+T89	MEAS 4044 4045	9
+T90	LIVB 4046 4053	enfants
+T91	MEAS 4073 4074	6
+T92	LIVB 4075 4082	garçons
+T93	TEMP 4139 4145	5 mois
+T94	MEAS 4153 4165	1700 grammes
+T95	LIVB 4313 4316	son
+T96	LIVB 4317 4329	petit garçon
+T97	LIVB 4355 4357	sa
+T98	DISO 4432 4467	déficit immunitaire polymalformatif
+T99	LIVB 4501 4512	belle-fille

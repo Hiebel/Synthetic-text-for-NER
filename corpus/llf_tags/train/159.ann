@@ -1,0 +1,84 @@
+T1	LIVB 3 10	patient
+T2	PROC 31 42	hospitalisé
+T3	Hospital 47 55	urgences
+T4	DISO 65 71	fièvre
+T5	MEAS 74 80	38 ° C
+T6	TEMP 90 107	depuis deux jours
+T7	PROC 111 126	examen clinique
+T8	DISO 157 177	masse du flanc droit
+T9	ANAT 166 177	flanc droit
+T10	Localization 172 177	droit
+T11	MEAS 186 190	3 cm
+T12	DISO 207 223	râles crépitants
+T13	DISO 239 250	traumatisme
+T14	DISO 261 285	symptômes psychomotoraux
+T15	DISO 300 323	déficit sensitivomoteur
+T16	PROC 330 339	admission
+T17	LIVB 344 351	patient
+T18	Concept_Idea 358 364	pesant
+T19	MEAS 365 379	39 kilogrammes
+T20	Concept_Idea 388 399	score NIHSS
+T21	MEAS 402 406	5/10
+T22	DISO 428 444	syndrome méningé
+T23	DISO 451 477	signes neuropsychiatriques
+T24	PHEN 485 505	récepteurs hormonaux
+T25	MEAS 514 522	négatifs
+T26	PROC 538 554	examen somatique
+T27	DISO 566 579	particularité
+T28	PROC 584 611	bilan radiologique standard
+T29	DISO 631 639	anomalie
+T30	DISO 655 672	léiomyome myxoide
+T31	LIVB 681 691	nourrisson
+T32	PROC 696 729	fibroscopie oeso-gastro-duodénale
+T33	ANAT 708 729	oeso-gastro-duodénale
+T34	MEAS 746 755	perméable
+T35	DEVI 759 765	masque
+T36	DISO 791 820	distension abdomino-pelvienne
+T37	ANAT 802 820	abdomino-pelvienne
+T38	MEAS 831 845	12 centimètres
+T39	ANAT 879 910	aires ganglionnaires cervicales
+T40	Concept_Idea 949 968	aspect histologique
+T41	DISO 999 1023	tumeur polypoïde maligne
+T42	PROC 1049 1074	étude immunohistochimique
+T43	PROC 1105 1129	chimiothérapie adjuvante
+T44	CHEM 1135 1149	gentaméthasone
+T45	PROC 1163 1197	radio-chimiothérapie néo adjuvante
+T46	PROC 1236 1303	corticothérapie antibacillaire intraveineuse parentérale injectable
+T47	DOSE 1304 1308	50 G
+T48	TEMP 1308 1318	/24 heures
+T49	PROC 1346 1356	traitement
+T50	PROC 1362 1418	néphrectomie exploratrice préanesthésique postopératoire
+T51	PROC 1450 1467	geste chirurgical
+T52	Concept_Idea 1524 1543	résultat anatomique
+T53	PROC 1548 1574	travail multidisciplinaire
+T54	PROC 1596 1619	recherche endoscopiques
+T55	ANAT 1635 1679	parties molles pariéto-mandibulaire caudales
+T56	DISO 1751 1766	neuronuclobéïde
+T57	DISO 1773 1785	métaphysaire
+T58	MEAS 1853 1860	simples
+T59	Concept_Idea 1958 1971	circonstances
+T60	PROC 1986 2026	biopsies cutanéomuqueuses scanno-guidées
+T61	MEAS 2126 2141	170 millimètres
+T62	MEAS 2144 2159	115 millimètres
+T63	MEAS 2213 2224	environ 30%
+T65	MEAS 2305 2323	entre 50 et 100 mm
+T67	MEAS 2389 2393	40mm
+T68	MEAS 2396 2400	45mm
+T69	MEAS 2403 2407	55mm
+T70	DISO 2448 2491	vascularite mucocytoplasmique inflammatoire
+T71	ANAT 2537 2580	noyaux grêliques mésentériques réactionnels
+T72	ANAT 2719 2763	ganglions axillaires abdominaux superficiels
+T73	ANAT 2812 2845	nerfs fémoraux tibial postérieurs
+T74	DISO 2868 2953	myxome épidermoïde du plexus brachial postéro-supérieur péritendineux antéropsychique
+T76	DISO 2991 3030	nodule érythémateux papillaire pédiculé
+T77	DISO 3036 3059	anomalies morphologique
+T78	PHEN 3063 3076	fonctionnelle
+T79	LIVB 3091 3098	patient
+T81	CHEM 3147 3177	immunoglobulines intraveineuse
+T82	DOSE 3188 3195	3 mg/kg
+T83	TEMP 3195 3197	/j
+T84	PROC 3212 3277	corticothérapie anticonvulsivant plaquettaire moyenne fractionnée
+T85	MODE 3281 3286	bolus
+T86	TEMP 3298 3308	4 semaines
+T87	PROC 3317 3327	traitement
+T88	MEAS 3377 3386	perméable

@@ -1,0 +1,27 @@
+T1	LIVB 19 26	patient
+T2	DISO 42 65	antécédent pathologique
+T3	MEAS 66 73	notable
+T4	PROC 85 90	admis
+T5	Hospital 95 103	urgences
+T6	DISO 113 143	douleurs pelviennes chroniques
+T7	ANAT 122 132	pelviennes
+T8	DISO 163 169	fièvre
+T9	PROC 186 201	examen clinique
+T10	LIVB 218 225	patient
+T11	MEAS 229 238	assez bon
+T12	Concept_Idea 239 251	état général
+T13	DISO 253 264	polypnéique
+T14	MEAS 267 280	40 cycles/min
+T15	PROC 286 316	échographie abdomino-pelvienne
+T16	ANAT 298 316	abdomino-pelvienne
+T17	ANAT 342 364	utérus cervico-vaginal
+T18	DISO 383 435	masse hétérogène hypo- échogène tissulaire hypodense
+T19	MEAS 445 450	13 cm
+T20	Concept_Idea 454 463	grand axe
+T21	Concept_Idea 466 472	aspect
+T22	MEAS 473 488	en verre dépoli
+T23	PROC 516 525	injection
+T24	CHEM 529 549	produit de contraste
+T25	PHEN 566 587	contractions utérines
+T26	ANAT 579 587	utérines
+T27	CHEM 620 636	acétaméthasolone

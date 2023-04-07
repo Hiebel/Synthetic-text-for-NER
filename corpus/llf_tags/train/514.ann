@@ -1,0 +1,38 @@
+T1	LIVB 3 8	homme
+T2	PROC 65 100	radio-chimiothérapie postopératoire
+T3	PROC 106 132	anticoagulation préventive
+T4	PROC 146 190	néphropathie hypertensive multithérapeutique
+T5	ANAT 375 388	tête fémorale
+T6	MEAS 457 465	diffuses
+T7	Concept_Idea 524 541	bruits cardiaques
+T8	PROC 555 573	séance parentérale
+T9	DISO 707 771	maladie thromboembolique veineuse primitive polymyoménoroidienne
+T10	DISO 779 794	symptomatologie
+T11	TEMP 807 813	8 mois
+T12	LIVB 829 836	auteurs
+T13	DISO 886 910	troubles myométriosiques
+T14	PHEN 1383 1393	grossesses
+T15	PROC 1442 1458	bilan biologique
+T16	LIVB 1462 1468	malade
+T17	PROC 1491 1510	traitement adjuvant
+T18	CHEM 1515 1530	fluoroquinolone
+T19	DOSE 1532 1537	50 mg
+T20	TEMP 1537 1539	/j
+T21	CHEM 1552 1568	cyclophosphamide
+T22	DOSE 1570 1575	20 mg
+T23	TEMP 1575 1577	/j
+T24	PROC 1583 1601	traitement curatif
+T25	TEMP 1609 1622	deux semaines
+T26	LIVB 1696 1703	patient
+T27	LIVB 1734 1758	médecins rhumatologiques
+T28	DISO 1786 1810	symptomatologie clinique
+T29	MEAS 1819 1829	évocatrice
+T30	LIVB 1860 1895	infirmiers anesthésistes cliniciens
+T31	PROC 1905 1922	examens cliniques
+T32	PROC 1967 1996	prélèvements bactériologiques
+T33	DISO 2037 2061	réactions inflammatoires
+T34	PROC 2250 2269	traitement adjuvant
+T35	Concept_Idea 2562 2580	état hémodynamique
+T36	DISO 2710 2763	paralysie sensitivo-motrice psychomotrice généralisée
+T37	DISO 2779 2827	lésion érythémato-psychomotrice maniaco-tarcique
+T38	MEAS 2888 2912	sensiblement douloureuse

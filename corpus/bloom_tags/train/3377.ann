@@ -1,0 +1,69 @@
+T1	LIVB 29 37	patiente
+T2	DISO 94 105	pathologies
+T3	LIVB 109 113	elle
+T4	PROC 120 127	traitée
+T5	CHEM 135 145	colchicine
+T6	DOSE 147 153	200 mg
+T7	MODE 155 167	intraveineux
+T8	ANAT 181 198	muscle quadriceps
+T9	DISO 215 230	symptomatologie
+T10	TEMP 243 260	2 mois auparavant
+T11	DISO 288 312	épigastralgies bilieuses
+T12	MEAS 334 342	profuses
+T13	DISO 368 390	défauts hématologiques
+T14	MEAS 420 435	progressivement
+T15	Concept_Idea 439 445	volume
+T16	DISO 458 507	syndrome d'épanchement péricardique latéro-utérin
+T18	PROC 528 538	consultait
+T19	Hospital 547 569	maternité périphérique
+T20	DISO 611 638	traumatisme abdominopelvien
+T21	ANAT 623 638	abdominopelvien
+T22	DISO 648 657	anomalies
+T23	DISO 686 698	vomissements
+T24	DISO 709 726	céphalées fébrile
+T25	LIVB 810 818	patiente
+T26	DISO 835 854	maladie infectieuse
+T27	MEAS 1045 1057	bradytonique
+T28	PROC 1063 1088	corticothérapie adjuvante
+T29	CHEM 1094 1106	méthotrexate
+T30	CHEM 1121 1131	colchicine
+T31	DOSE 1132 1141	400 mg/m²
+T32	PROC 1158 1174	examen somatique
+T33	DISO 1201 1214	particularité
+T34	PROC 1228 1249	échographie pelvienne
+T35	ANAT 1240 1249	pelvienne
+T36	PROC 1265 1287	consultation prénatale
+T37	MEAS 1316 1323	normale
+T38	CHEM 1361 1372	tuberculine
+T39	DISO 1444 1486	méningoencephalopathie congénitale maligne
+T40	LIVB 1518 1527	patientes
+T41	PROC 1905 1924	biopsie écho guidée
+T42	DISO 1956 1991	schwannome plexiforme angiosarmoïde
+T43	ANAT 2012 2048	structures ganglionnaires cervicales
+T44	ANAT 2079 2107	sinus caverneux crânianeural
+T45	MEAS 2117 2121	20mm
+T46	Concept_Idea 2125 2134	grand axe
+T47	ANAT 2158 2178	membranes pariétales
+T48	ANAT 2199 2262	substance blanche superficielle basithoracique laryngopharyngée
+T49	PROC 2280 2307	tomodensitométrie axillaire
+T50	ANAT 2298 2307	axillaire
+T51	DISO 2331 2357	masse tissulaire hypodense
+T52	ANAT 2420 2448	sinus caverneux-crânianeural
+T53	Concept_Idea 2461 2469	contours
+T54	MEAS 2470 2479	réguliers
+T55	DISO 2610 2628	plexuses kystiques
+T56	PROC 2656 2689	imagerie par résonance magnétique
+T57	PROC 2691 2694	IRM
+T58	TEMP 2699 2709	21/08/2011
+T60	Localization 2797 2806	au dessus
+T61	DEVI 2813 2818	sonde
+T62	DISO 2831 2844	particularité
+T64	ANAT 2883 2926	médiastynucléaires fronto-jugulo-hypophysés
+T65	DISO 2936 2959	anomalies radiologiques
+T66	PHEN 2976 2994	suites opératoires
+T67	DISO 3035 3083	syndrome d'épanchement intracrânien périplégique
+T68	ANAT 3058 3083	intracrânien périplégique
+T69	DISO 3115 3136	détresse respiratoire
+T70	PHEN 3124 3136	respiratoire
+T71	TEMP 3146 3168	depuis plusieurs jours
+T72	Concept_Idea 3204 3216	état général

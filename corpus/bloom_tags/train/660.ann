@@ -1,0 +1,46 @@
+T1	LIVB 4 9	femme
+T2	Concept_Idea 31 62	antécédents médico-chirurgicaux
+T3	MEAS 63 71	notables
+T4	PROC 78 90	hospitalisée
+T5	Hospital 94 112	service d'urologie
+T6	DISO 122 198	douleurs du sinus vesculo-nerveux périhypostéroïdiatique infarcto-scapulanée
+T8	PROC 202 217	examen clinique
+T9	DISO 233 262	syndrome postural hypertensif
+T10	DISO 278 326	tuméfaction purulente prurigineuse érythémateuse
+T11	TEMP 336 353	depuis 2 semaines
+T12	MEAS 368 383	progressivement
+T13	Concept_Idea 387 393	taille
+T14	PROC 398 414	bilan biologique
+T15	PROC 432 448	hyperleucocytose
+T16	MEAS 451 469	12900 éléments/mm3
+T17	PROC 471 490	protéine-C réactive
+T18	PROC 492 495	CRP
+T19	MEAS 497 503	élevée
+T20	MEAS 506 513	64 mg/l
+T21	PROC 516 531	globules blancs
+T22	MEAS 533 544	18000 /mm 3
+T23	PROC 546 573	polynucléaires neutrophiles
+T24	MEAS 576 593	11100 élément/mm³
+T25	PROC 599 626	numération formule sanguine
+T26	CHEM 640 659	hémoglobine glyquée
+T27	MEAS 662 666	4,3%
+T28	PROC 671 681	diagnostic
+T29	DISO 706 743	carcinome vésico-vésiculaire infiltré
+T30	ANAT 716 743	vésico-vésiculaire infiltré
+T31	DISO 762 788	hypoparathyroïdie primaire
+T32	LIVB 800 811	jeune femme
+T33	CHEM 843 861	méthylprednisolone
+T34	CHEM 872 906	médicaments progestatifs hormonaux
+T35	LIVB 970 977	famille
+T36	DISO 996 1014	tableau douloureux
+T37	MODE 1020 1032	intraveineux
+T38	DOSE 1036 1041	0,5 g
+T39	CHEM 1045 1058	dexaméthasone
+T40	TEMP 1072 1081	24 heures
+T41	DISO 1124 1153	symptomatologie neuroleptique
+T42	MEAS 1168 1174	rapide
+T43	DISO 1197 1213	épisodes fébrile
+T44	MEAS 1224 1228	40°C
+T45	PROC 1261 1282	traitement antalgique
+T46	CHEM 1322 1330	propofol
+T47	CHEM 1333 1349	furosémifentanil

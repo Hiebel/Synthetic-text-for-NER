@@ -1,0 +1,66 @@
+T1	LIVB 19 26	patient
+T2	DISO 42 67	antécédents pathologiques
+T3	MEAS 68 80	particuliers
+T4	PROC 92 103	hospitalisé
+T5	Hospital 107 114	service
+T6	DISO 124 145	détresse respiratoire
+T7	PHEN 133 145	respiratoire
+T8	MEAS 160 171	progressive
+T9	PROC 176 198	radiographie du thorax
+T10	ANAT 192 198	thorax
+T11	DISO 219 283	opacification des bronches médiastinales inférieures bilatérales
+T12	ANAT 237 283	bronches médiastinales inférieures bilatérales
+T13	Localization 272 283	bilatérales
+T14	Concept_Idea 292 298	aspect
+T15	DISO 315 334	pleurésie purulente
+T16	TEMP 344 358	depuis 2 jours
+T17	LIVB 360 362	Il
+T18	CHEM 384 397	sulfasalazine
+T19	Concept_Idea 403 407	dose
+T20	DOSE 411 417	200 mg
+T21	TEMP 417 419	/j
+T22	CHEM 433 451	hydroxychloroquine
+T23	DOSE 453 459	500 mg
+T24	TEMP 459 461	/j
+T25	CHEM 469 482	métronidazole
+T26	DOSE 484 490	400 mg
+T27	TEMP 490 492	/j
+T28	PROC 497 527	échographie abdomino-pelvienne
+T29	ANAT 509 527	abdomino-pelvienne
+T30	DISO 549 557	anomalie
+T31	PROC 562 591	tomodensitométrie thoraciques
+T32	ANAT 580 591	thoraciques
+T33	PROC 607 616	admission
+T34	Hospital 625 655	service d'accueil des urgences
+T35	DISO 669 770	masse sous-diaphragmatique homolatérale latérale hypertrophie sus-bronchithoracique hypo-vascularisée
+T38	MEAS 780 787	70x65mm
+T40	ANAT 1024 1049	intrapéritonéal liquidien
+T41	MODE 1068 1073	bolus
+T42	CHEM 1077 1090	protrompolone
+T43	CHEM 1097 1110	cisatracurium
+T44	LIVB 1138 1146	patiente
+T45	DISO 1161 1185	myélopathies secondaires
+T46	DISO 1212 1224	tuberculeuse
+T47	DISO 1240 1300	paragangliome épiploïtico-rénal kystéo-ganglionnaire maligne
+T48	ANAT 1321 1345	glandes paravertébraires
+T49	DISO 1402 1419	vésicule biliaire
+T50	PROC 1433 1448	examen clinique
+T51	DISO 1473 1530	distension axillaire ascendante laryngo-dyso-triglottique
+T52	ANAT 1484 1530	axillaire ascendante laryngo-dyso-triglottique
+T54	MEAS 1542 1553	brutalement
+T55	Concept_Idea 1557 1563	volume
+T56	TEMP 1572 1591	24 heures plus tard
+T57	MEAS 1606 1620	plus accentuée
+T58	LIVB 1635 1639	elle
+T59	MEAS 1652 1664	prurigineuse
+T60	PROC 1691 1713	traitement étiologique
+T61	DISO 1766 1785	maladie infectieuse
+T62	DISO 1927 1956	complication thromboembolique
+T63	DISO 1968 2000	lésions noduleuses prurigineuses
+T64	DISO 2023 2053	sarcome érythémato-kératosique
+T65	ANAT 2066 2099	interstitiel grêlique iléocoecale
+T66	ANAT 2131 2164	muqueuse intestinale œsophagienne
+T67	DISO 2204 2241	carcinose neuroendocrine pancréatique
+T68	ANAT 2214 2241	neuroendocrine pancréatique
+T69	DISO 2259 2283	épais tissulaire tumoral
+T70	PROC 2316 2336	reprise chirurgicale

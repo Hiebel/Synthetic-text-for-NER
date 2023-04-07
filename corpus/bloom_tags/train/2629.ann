@@ -1,0 +1,54 @@
+T1	LIVB 4 9	femme
+T2	DISO 41 68	dyspnée stade III de l’NYHA
+T3	DISO 85 99	amaigrissement
+T4	MEAS 110 115	15 kg
+T5	PROC 518 533	examen clinique
+T6	LIVB 547 555	patiente
+T7	MEAS 559 562	bon
+T8	Concept_Idea 563 575	état général
+T9	DISO 582 632	syndrome d'épanchement liquidien inféro péritonéal
+T10	ANAT 605 632	liquidien inféro péritonéal
+T11	PROC 636 666	échographie abdomino-pelvienne
+T12	ANAT 648 666	abdomino-pelvienne
+T13	MEAS 673 680	normale
+T14	ANAT 694 707	flux grêlique
+T15	PROC 720 744	exploration chirurgicale
+T16	DISO 761 788	épanchement intrapéritonéal
+T17	ANAT 773 788	intrapéritonéal
+T18	ANAT 824 839	flux gélatineux
+T19	DISO 856 898	adénopathies surrénaliennes hypohypodenses
+T20	ANAT 869 898	surrénaliennes hypohypodenses
+T21	Localization 900 911	bilatérales
+T22	DISO 947 1017	masse tissulaire nodulaire bourgeonnante des glandes parathyroïdiennes
+T23	ANAT 992 1017	glandes parathyroïdiennes
+T24	DISO 1032 1047	nodule kystique
+T25	ANAT 1063 1078	parois utérines
+T26	LIVB 1080 1084	Nous
+T27	PROC 1103 1148	tomodensitométrie thoraco- abdomino-pelvienne
+T28	ANAT 1121 1148	thoraco- abdomino-pelvienne
+T29	LIVB 1176 1184	patiente
+T30	DISO 1189 1247	opacité pleurale supérieure sus claviculaire hypertrophiée
+T32	Localization 1217 1220	sus
+T33	MEAS 1259 1274	progressivement
+T34	Concept_Idea 1278 1285	hauteur
+T35	MEAS 1295 1299	6 cm
+T36	MEAS 1304 1308	3 cm
+T37	ANAT 1330 1347	sinus pulmonaires
+T38	ANAT 1365 1397	fosse nasale homolatérale droite
+T39	Localization 1378 1397	homolatérale droite
+T40	ANAT 1422 1454	champ pulmonaire supérieur droit
+T41	Localization 1449 1454	droit
+T42	DISO 1497 1519	atteinte locorégionale
+T43	ANAT 1506 1519	locorégionale
+T44	TEMP 1536 1552	24h d'intervalle
+T45	DISO 1572 1619	complications thromboemboliques intrarachidiens
+T46	DISO 1667 1702	polynucléosie pulmonaire ischémique
+T47	ANAT 1681 1702	pulmonaire ischémique
+T48	ANAT 1731 1756	voie biliaires principale
+T49	PROC 1771 1790	traitement adjuvant
+T50	CHEM 1801 1811	furosémide
+T51	CHEM 1813 1831	hydroxychloroquine
+T52	CHEM 1833 1848	ethaméthasoline
+T53	CHEM 1850 1863	dexaméthasone
+T54	PROC 1868 1893	intervention chirurgicale
+T55	PROC 1912 1962	anastomose grêlo-caecale iléocoecale transfixiante

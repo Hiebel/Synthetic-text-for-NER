@@ -1,0 +1,83 @@
+T1	LIVB 20 28	patiente
+T2	DISO 45 54	primipare
+T3	Concept_Idea 61 72	antécédents
+T4	MEAS 73 85	particuliers
+T5	PROC 87 93	Admise
+T6	Hospital 97 112	bloc opératoire
+T7	TEMP 116 131	post opératoire
+T8	PROC 121 131	opératoire
+T9	PROC 135 159	exploration chirurgicale
+T10	ANAT 179 185	utérus
+T11	Concept_Idea 188 194	aspect
+T12	MEAS 195 217	macroscopiquement sain
+T13	PHEN 227 247	grossesse gémellaire
+T14	MEAS 270 275	12 cm
+T15	Localization 277 287	bilatérale
+T16	MEAS 292 297	10 cm
+T17	Localization 299 309	symétrique
+T18	PROC 379 404	scanner abdomino- pelvien
+T19	ANAT 387 404	abdomino- pelvien
+T20	DISO 422 449	anomalies ostéovésiculaires
+T21	ANAT 470 476	pelvis
+T22	PROC 513 538	intervention chirurgicale
+T23	CHEM 556 566	sufentanil
+T24	CHEM 569 582	noradrénaline
+T25	CHEM 596 616	produit de contraste
+T26	Concept_Idea 640 646	aspect
+T27	DOSE 675 680	bolus
+T28	CHEM 724 738	hydrocortisone
+T29	PROC 766 786	reprise anesthésique
+T30	DISO 863 882	décharge électrique
+T31	DISO 893 924	complications thromboemboliques
+T32	LIVB 953 961	patiente
+T33	MEAS 1022 1033	progressive
+T34	TEMP 1050 1056	20 ans
+T35	DISO 1092 1113	détresse respiratoire
+T36	PHEN 1101 1113	respiratoire
+T37	DISO 1143 1193	syndrome d’épanchement péricardique basithoracique
+T38	ANAT 1166 1193	péricardique basithoracique
+T39	PROC 1210 1225	hospitalisation
+T40	PROC 1241 1268	traitement médical adjuvant
+T41	CHEM 1281 1291	furosémide
+T42	CHEM 1293 1306	bêtaméthasone
+T43	CHEM 1309 1325	ethynylestradiol
+T44	CHEM 1328 1347	corticoïdes inhalés
+T45	CHEM 1353 1366	métronidazole
+T46	DOSE 1367 1374	1 mg/kg
+T47	TEMP 1374 1380	/heure
+T48	MODE 1382 1394	intraveineux
+T49	DISO 1572 1592	traumatisme virale C
+T50	PROC 1595 1622	examen anatomo-pathologique
+T51	DEVI 1629 1653	biopsie transperitonéale
+T52	DISO 1681 1699	plages nécrotiques
+T53	DISO 1793 1831	nécrose caséeuse kystique hémorragique
+T54	DISO 1881 1904	insuffisance rénalienne
+T55	ANAT 1894 1904	rénalienne
+T56	DISO 1922 1976	hypochrome micronéphropathie congénitale hypertrophiée
+T57	Concept_Idea 2235 2241	taille
+T58	DISO 2475 2497	malformations malignes
+T59	PROC 2715 2745	diagnostic anatomopathologique
+T60	PROC 3251 3277	contraception progestative
+T61	LIVB 3296 3302	enfant
+T62	PROC 3338 3368	échographie abdomino-pelvienne
+T63	ANAT 3350 3368	abdomino-pelvienne
+T64	MEAS 3384 3388	gros
+T65	DISO 3389 3451	épanchement péritonéal liquidien latéro-cervico-latéral gauche
+T66	ANAT 3401 3451	péritonéal liquidien latéro-cervico-latéral gauche
+T67	Localization 3445 3451	gauche
+T69	ANAT 3470 3484	surrénaliennes
+T70	PROC 3488 3521	imagerie par résonance magnétique
+T71	PROC 3523 3526	IRM
+T72	DISO 3550 3595	lésion tissulaire hypo-vascularisée hypodense
+T73	ANAT 3609 3624	sus-rénal droit
+T74	Localization 3619 3624	droit
+T75	MEAS 3634 3639	24 cm
+T76	Concept_Idea 3643 3652	grand axe
+T77	MEAS 3657 3662	12 cm
+T78	Concept_Idea 3666 3679	petite taille
+T79	CHEM 3744 3764	produit de contraste
+T80	ANAT 3786 3804	cavité péritonéale
+T81	DISO 3824 3862	hémithorax hernéo-vésiculaire biloculé
+T82	MEAS 3873 3877	13cm
+T83	Concept_Idea 3881 3890	grand axe
+T84	ANAT 3904 3928	structures mésentériques

@@ -1,0 +1,26 @@
+T1	LIVB 4 9	femme
+T2	DEVI 26 47	ménarche artificielle
+T3	Hospital 52 77	urgences ophtalmologiques
+T4	DISO 91 112	détresse respiratoire
+T5	PHEN 100 112	respiratoire
+T6	MEAS 127 138	progressive
+T7	DISO 154 171	dyspnée sifflante
+T8	TEMP 181 194	depuis 1 mois
+T9	PROC 209 234	consultation chirurgicale
+T10	DISO 255 291	tuberculose broncholunaire cervicale
+T11	ANAT 267 291	broncholunaire cervicale
+T12	DISO 309 346	syndrome d'épanchement intrapleurique
+T13	ANAT 332 346	intrapleurique
+T14	DISO 353 371	douleur thoracique
+T15	ANAT 361 371	thoracique
+T16	MEAS 383 392	15 litres
+T17	MEAS 446 453	extrême
+T18	MEAS 464 476	160 batt/min
+T19	DISO 593 619	kyste hydatique congénital
+T20	PROC 635 671	scanner pleuro-pulmonaire transaxial
+T21	ANAT 643 671	pleuro-pulmonaire transaxial
+T22	DISO 698 749	lésions ostéo-chondromateuses pléométanéphrillaires
+T23	DISO 780 834	hyper vascularisation basithoracique supérieure droite
+T24	ANAT 802 834	basithoracique supérieure droite
+T25	Localization 828 834	droite
+T26	DISO 853 873	thrombophlébitensive

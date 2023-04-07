@@ -1,0 +1,72 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 50 75	antécédents pathologiques
+T3	MEAS 76 88	particuliers
+T4	PROC 90 96	admise
+T5	Hospital 101 109	urgences
+T6	DISO 119 140	détresse respiratoire
+T7	PHEN 128 140	respiratoire
+T8	TEMP 150 164	depuis 3 jours
+T9	DISO 180 219	douleurs abdomino-pelviennes purulentes
+T10	ANAT 189 208	abdomino-pelviennes
+T11	PROC 223 238	examen clinique
+T12	LIVB 252 260	patiente
+T13	MEAS 264 267	bon
+T14	Concept_Idea 268 280	état général
+T15	ANAT 295 305	artérielle
+T16	MEAS 328 342	120 battements
+T17	TEMP 343 353	par minute
+T18	DISO 376 419	syndrome d'épanchement péritonéal liquidien
+T19	DISO 425 445	hépato-splénomégalie
+T20	LIVB 447 451	Elle
+T21	CHEM 468 481	sulfasalazine
+T22	DOSE 483 490	1 mg/kg
+T23	CHEM 495 505	furosémide
+T24	DOSE 507 513	400 mg
+T25	MODE 515 528	intra-utérine
+T26	DEVI 533 549	cathéter veineux
+T27	ANAT 542 549	veineux
+T28	PROC 569 599	traitement antalgique adjuvant
+T29	DISO 603 635	diabète néphrotique hypertensive
+T30	DISO 695 709	symptomatiques
+T31	PROC 770 785	hospitalisation
+T32	Hospital 789 824	service de réanimation chirurgicale
+T33	DISO 1046 1084	schwannome épithélio-gigantocellulaire
+T34	DISO 1199 1221	souffrance péritonéale
+T35	ANAT 1210 1221	péritonéale
+T36	DISO 1242 1261	métastases malignes
+T37	PROC 1290 1305	radiolocalisées
+T38	PROC 1356 1374	chirurgie pleurale
+T39	PROC 1380 1418	colpo-laparothoracique transannexielle
+T40	PROC 1419 1423	TOTA
+T41	DISO 1483 1510	adénocarcinose tuberculeuse
+T42	ANAT 1498 1510	tuberculeuse
+T43	LIVB 1550 1558	patiente
+T44	CHEM 1683 1704	méthyl-chloropriptine
+T45	PROC 2088 2095	FAT/PCM
+T46	PROC 2102 2124	TDM abdomino-pelvienne
+T47	ANAT 2106 2124	abdomino-pelvienne
+T48	DISO 2138 2265	masse ostéolytique tumorale arrondie pariétale bilatérale postérieure œsophagienne infiltro-interstitielle nécrotico-sténosante
+T49	Localization 2185 2207	bilatérale postérieure
+T50	MEAS 2275 2280	14 cm
+T51	Concept_Idea 2284 2293	grand axe
+T52	ANAT 2319 2326	pelvien
+T53	DISO 2454 2522	lésion angulo-capullaire ovarienne nodulaire pléomorphe vascularisée
+T54	ANAT 2555 2579	parties molles vaginales
+T55	ANAT 2614 2647	glandes salivaires intravaginales
+T56	DISO 2748 2783	volvulus trophoblasto-bourgeonnante
+T57	DISO 2795 2830	foyer d’inflammation granulomateuse
+T58	Concept_Idea 2847 2853	aspect
+T59	DISO 2861 2891	ostéophyte méningée tuberculée
+T60	DISO 2915 2934	nodule hémorragique
+T61	ANAT 2954 2962	épiploon
+T62	PROC 2967 2997	complément immunohistochimique
+T63	PHEN 3027 3047	recepteurs hormonaux
+T64	LIVB 3064 3085	cytokératine positive
+T65	DISO 3103 3139	métastase parathyroïdienne étranglée
+T66	ANAT 3113 3139	parathyroïdienne étranglée
+T67	PROC 3145 3175	chimiothérapie type palliative
+T68	MODE 3197 3215	voie intra-utérine
+T69	DOSE 3218 3224	175 mg
+T70	TEMP 3224 3226	/j
+T71	CHEM 3229 3238	amoxifène
+T72	CHEM 3251 3264	bêtaméthasone

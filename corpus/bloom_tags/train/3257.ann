@@ -1,0 +1,62 @@
+T1	LIVB 4 12	patiente
+T2	PROC 34 46	hospitalisée
+T3	Hospital 50 81	service de chirurgie thoracique
+T4	DISO 100 120	empyèmes pulmonaires
+T5	ANAT 109 120	pulmonaires
+T6	LIVB 134 138	Elle
+T7	DISO 158 185	dyspnée sifflante chronique
+T8	MEAS 200 211	progressive
+T9	CHEM 239 258	médicaments inhalés
+T10	CHEM 271 287	éthylbuprenolone
+T11	DOSE 290 296	2mg/kg
+T12	TEMP 296 298	/j
+T13	CHEM 301 312	nicardipril
+T14	DOSE 314 320	1mg/kg
+T15	TEMP 320 322	/j
+T16	PROC 327 362	échographie cardio-vasculo-nerveuse
+T17	ANAT 339 362	cardio-vasculo-nerveuse
+T18	LIVB 386 394	patiente
+T19	DISO 399 417	hypochondre droite
+T20	Localization 411 417	droite
+T21	MEAS 427 431	13mm
+T22	MEAS 436 440	12mm
+T23	DISO 456 483	hypoglycémie hypokaliémique
+T24	MEAS 495 500	4g/dl
+T25	DEVI 506 530	sonde transoesophagienne
+T27	MEAS 632 636	10 g
+T28	PROC 643 667	anesthésie peropératoire
+T29	PROC 680 697	scanne thoracique
+T30	ANAT 687 697	thoracique
+T31	DISO 722 1594	masse tumorale tissulaire hypo échogène hétérogène pariétale lobaire sus herniaire diaphragmatique systématico-loculée T2 hyper-intenseur T1-hyper intenseur Fissure anévrismomateuse kystique Pseudo-céphalo-rénal pancréas lithiasique périrénal ostéo-splénique nécrose ischondrale scannographique
+Le diagnostic retenu était celui d´une atteinte ventriculo-troponine aiguée ou d´une insuffisance artérielle fœto-hypophysaire compliquée d´un tuberculose épithélio-gigantocellulaire décelable devant l’absence de notion de fièvre ni de troubles métaboliques évoqués comme étiologies pouvant être écartées telles qu´une maladie thromboembolique prurigineuse(déficit immunitaire),des hémorragies  menstruelles isolées lorsqu´on n´avait pas éliminé autre étiologies possibles tant cliniquement qu’radiologiquement; il s agit d´une altération de la fonction rénale infarcto-dilatée
+T32	Localization 791 794	sus
+T33	PROC 1020 1030	diagnostic
+T34	DISO 1056 1092	atteinte ventriculo-troponine aiguée
+T35	ANAT 1065 1092	ventriculo-troponine aiguée
+T36	DISO 1102 1143	insuffisance artérielle fœto-hypophysaire
+T37	ANAT 1115 1143	artérielle fœto-hypophysaire
+T38	DISO 1160 1199	tuberculose épithélio-gigantocellulaire
+T39	DISO 1240 1246	fièvre
+T40	DISO 1253 1274	troubles métaboliques
+T41	DISO 1336 1373	maladie thromboembolique prurigineuse
+T42	DISO 1374 1393	déficit immunitaire
+T43	DISO 1399 1424	hémorragies  menstruelles
+T44	ANAT 1411 1424	 menstruelles
+T46	ANAT 1571 1594	rénale infarcto-dilatée
+T47	MEAS 1604 1618	plus accentuée
+T48	DISO 1639 1682	saturation interstitielle vésicale biliaire
+T49	ANAT 1650 1682	interstitielle vésicale biliaire
+T50	MEAS 1694 1711	significativement
+T51	Concept_Idea 1715 1721	taille
+T52	MEAS 1741 1748	stade 3
+T53	DISO 1844 1892	neurofibromatose congénitale érythémato-crulante
+T54	DISO 1909 1945	adénocarcinome du plexus brachycæcum
+T55	ANAT 1927 1945	plexus brachycæcum
+T56	LIVB 1950 1958	patiente
+T57	PROC 1981 2011	radio-chimiothérapie adjuvante
+T58	CHEM 2013 2026	dexaméthasone
+T59	CHEM 2028 2041	bêtaméthasone
+T60	CHEM 2043 2057	hydrocortisone
+T61	CHEM 2061 2072	méthoxazole
+T62	TEMP 2074 2090	pendant 10 jours
+T63	PROC 2100 2118	traitement curatif

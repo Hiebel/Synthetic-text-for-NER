@@ -1,0 +1,59 @@
+T1	LIVB 3 14	jeune homme
+T2	Hospital 59 80	urgences pédiatriques
+T3	PROC 109 165	kinésithérapie comportementale cognitivo-comportementale
+T4	PROC 185 234	chimiothérapie néoadjuvante type A2Z1/4TECHNOGEN®
+T5	CHEM 235 258	Doxorubicine Isoniazole
+T6	CHEM 261 275	Sulfaméthasone
+T7	PROC 282 291	admission
+T8	DISO 309 327	syndrome convulsif
+T9	DISO 331 354	déficit sensitivomoteur
+T10	DISO 375 394	trouble déliratoire
+T11	DISO 403 430	tuméfaction cutanéomuqueuse
+T12	PROC 454 495	symptomatologie obstétricale diagnosticée
+T13	DISO 508 536	dysmorphisme thyroïdien aigu
+T14	DEVI 1008 1014	culots
+T15	PROC 1020 1047	anticoagulation parentérale
+T17	MEAS 1223 1233	légèrement
+T18	DISO 1234 1245	polypnéique
+T19	MEAS 1276 1286	126 cycles
+T20	TEMP 1287 1298	par minutes
+T21	Concept_Idea 1317 1336	rythme respiratoire
+T22	MEAS 1346 1353	intense
+T23	Concept_Idea 1451 1471	aspect morphologique
+T24	PROC 1499 1533	prise en charge pluridisciplinaire
+T25	PROC 1616 1657	ostéosynthèse multiplanaire scanno-guidée
+T26	PROC 1662 1689	traitement médical adjuvant
+T27	PROC 1697 1709	soins locaux
+T28	CHEM 1739 1755	antibiothérapies
+T29	LIVB 1764 1772	patiente
+T30	CHEM 1805 1822	amoxicilline AINS
+T31	MEAS 1858 1867	favorable
+T32	PROC 1873 1888	rachianesthésie
+T33	ANAT 1910 1932	membre supérieur droit
+T34	Localization 1927 1932	droit
+T35	DISO 1938 1946	récidive
+T36	DISO 1950 1971	détresse respiratoire
+T37	PHEN 1959 1971	respiratoire
+T38	TEMP 1994 2001	3 jours
+T39	DISO 2043 2066	déficit sensitivomoteur
+T40	DISO 2070 2088	facteur rhumatoïde
+T41	PROC 2103 2130	contrôle neuropsychiatrique
+T42	LIVB 2143 2150	patient
+T43	Concept_Idea 2168 2193	amplitudes psychomotrices
+T44	Concept_Idea 2248 2261	état générale
+T45	DISO 2292 2309	trouble organique
+T46	LIVB 2318 2328	nouveau-né
+T47	PROC 2336 2372	consultation prénatale psychiatrique
+T48	MEAS 2430 2437	simples
+T49	PROC 2580 2611	polychimiothérapie probabiliste
+T50	PROC 2624 2655	remplissage naso-gastroduodénal
+T51	ANAT 2636 2655	naso-gastroduodénal
+T52	PROC 2675 2695	reprise chirurgicale
+T53	TEMP 2866 2871	24 SA
+T54	LIVB 3022 3028	garçon
+T55	TEMP 3036 3043	18 mois
+T56	DISO 3090 3109	accident ischémique
+T57	DISO 3133 3147	perte auditive
+T58	TEMP 3157 3180	depuis plusieurs années
+T59	DISO 3242 3269	syndrome délirant convulsif
+T60	Hospital 3296 3312	services sociaux

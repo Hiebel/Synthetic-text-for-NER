@@ -1,0 +1,14 @@
+T1	PROC 2 27	étude
+T2	Concept_Idea 8 27	anatomopathologique
+T3	PROC 34 56	biopsie
+T4	ANAT 42 56	ostéoblastique
+T5	DISO 70 107	prolifération
+T6	ANAT 93 107	fusocellulaire
+T7	PROC 122 162	revêtement
+T8	PROC 168 186	cellules
+T9	MEAS 192 211	fortement
+T10	PROC 219 246	anticorps
+T11	PROC 254 279	anticorps
+T12	DISO 300 335	atteinte
+T13	ANAT 313 335	structures
+T14	DISO 341 364	adénopathies

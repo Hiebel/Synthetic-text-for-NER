@@ -1,0 +1,46 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 31 39	patiente
+T3	MEAS 43 46	bon
+T4	Concept_Idea 47 59	état général
+T5	DISO 61 71	apyrétique
+T6	MEAS 74 78	37°C
+T7	ANAT 83 88	pouls
+T8	MEAS 98 115	90 battements/min
+T9	PHEN 122 133	tachycardie
+T10	MEAS 137 149	120 batt/min
+T11	PROC 154 180	pression artérielle pulsée
+T12	ANAT 163 180	artérielle pulsée
+T13	MEAS 197 209	130/70 mm Hg
+T14	PROC 214 233	bilan préopératoire
+T15	PROC 248 280	scanner thoraco-abdomino-pelvien
+T17	DISO 305 430	lésion nodulaire du sinus caverneux latéral droit inféro-sigmoïdienne basithoracique péritonéale hypovolumineuse hypoéchogène
+T20	MEAS 440 445	15 cm
+T21	MEAS 450 455	12 cm
+T22	ANAT 471 487	hémilarynx droit
+T23	Localization 482 487	droit
+T24	DISO 500 561	adénopathies cervico-thoraciques locorégionales métastatiques
+T26	TEMP 573 583	Deux jours
+T27	PROC 594 624	prélèvements bactérioculturaux
+T28	PROC 626 629	BRC
+T29	PROC 653 675	TDM abdomino-pelvienne
+T30	ANAT 657 675	abdomino-pelvienne
+T31	DISO 708 717	anomalies
+T32	DISO 734 758	épanchement intravaginal
+T33	ANAT 746 758	intravaginal
+T34	DISO 768 803	localisations secondaires tumorales
+T35	PROC 825 853	technique radiothérapeutique
+T36	DISO 905 928	métastose intra-utérine
+T37	ANAT 915 928	intra-utérine
+T38	DISO 937 984	paragangliome infiltrant des vésicules urétraux
+T39	ANAT 966 984	vésicules urétraux
+T40	MEAS 1059 1065	200 cc
+T41	PROC 1082 1114	ponction pelvienne transfixiante
+T42	ANAT 1091 1114	pelvienne transfixiante
+T43	DISO 1155 1184	complication thromboembolique
+T44	PROC 1190 1228	chimiothérapie intraveineuse adjuvante
+T45	CHEM 1234 1247	dexaméthasone
+T46	LIVB 1291 1300	patientes
+T47	DEVI 1411 1431	broches menstruelles
+T48	LIVB 1625 1627	on
+T49	DISO 1670 1700	souffrance fœtale malformative
+T50	LIVB 1847 1854	malades

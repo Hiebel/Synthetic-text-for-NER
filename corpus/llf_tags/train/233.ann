@@ -1,0 +1,21 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 33 39	11 ans
+T3	DISO 116 143	confectionnement secondaire
+T4	PROC 207 230	entretien préopératoire
+T5	LIVB 239 243	mère
+T6	LIVB 247 257	nouveau-né
+T7	DISO 304 321	signes infectieux
+T8	ANAT 336 351	voies urinaires
+T9	PROC 463 482	examen histologique
+T10	DISO 494 508	particularités
+T11	DISO 526 543	masse infectieuse
+T12	DISO 547 570	streptococcose septique
+T13	DISO 581 606	localisations secondaires
+T14	PROC 649 667	bilan paraclinique
+T15	DISO 692 736	pneumopathie pyélonéphrite aigüe généralisée
+T16	MEAS 747 757	260 UI/mm³
+T17	DISO 774 811	thrombus tumoral érythémateux myxoide
+T18	PROC 832 851	traitement adjuvant
+T19	DISO 878 909	hyperleucocytose interstitielle
+T20	MEAS 921 934	1250 UI/ mm 3
+T21	MEAS 1023 1035	1300 UI/mm 3

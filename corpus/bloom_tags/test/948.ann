@@ -1,0 +1,15 @@
+T1	LIVB 29 37	patiente
+T2	DISO 54 77	antécédent pathologique
+T3	MEAS 78 85	notable
+T4	PROC 87 93	admise
+T5	Hospital 98 123	urgences ophtalmologiques
+T6	DISO 142 161	hypoacuité visuelle
+T7	TEMP 171 188	depuis trois mois
+T8	PROC 192 207	examen clinique
+T9	PROC 212 221	admission
+T10	Concept_Idea 239 254	acuité visuelle
+T11	MEAS 265 269	1/10
+T12	ANAT 283 292	œil droit
+T13	Localization 287 292	droit
+T14	MEAS 307 311	3/10
+T15	ANAT 333 337	yeux

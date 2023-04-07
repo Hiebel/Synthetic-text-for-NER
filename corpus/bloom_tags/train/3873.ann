@@ -1,0 +1,27 @@
+T1	LIVB 16 21	femme
+T2	DISO 54 76	douleurs épigastriques
+T3	ANAT 63 76	épigastriques
+T4	TEMP 86 102	depuis deux mois
+T5	DISO 128 156	intoxication aux nicardipril
+T6	CHEM 145 156	nicardipril
+T7	Concept_Idea 158 165	susdité
+T8	PROC 172 187	examen clinique
+T9	LIVB 189 193	elle
+T10	DISO 209 234	dyspnée stade 2 de Sadoul
+T11	MEAS 249 256	modérée
+T12	DISO 272 278	fièvre
+T13	MEAS 290 296	39°8 C
+T14	DISO 299 305	sueurs
+T15	MEAS 306 314	profuses
+T16	DISO 328 352	sensibilité épigastrique
+T17	ANAT 340 352	épigastrique
+T18	LIVB 392 400	patiente
+T19	DISO 410 428	troubles digestifs
+T20	DISO 439 470	signes fonctionnels intestinaux
+T21	DISO 492 544	syndrome d'épanchement sous-mandibulaire lithiasique
+T22	ANAT 515 544	sous-mandibulaire lithiasique
+T23	PROC 563 591	touchers abdomino-pelviennes
+T24	ANAT 572 591	abdomino-pelviennes
+T25	Concept_Idea 635 647	état général
+T26	Hospital 671 695	consultations prénatales
+T27	DISO 703 727	malformation congénitale

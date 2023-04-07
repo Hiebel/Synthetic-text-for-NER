@@ -1,0 +1,27 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	8 ans
+T3	DISO 62 98	lésions érythémateuses prurigineuses
+T4	ANAT 106 120	muqueus buccal
+T5	TEMP 130 143	depuis 3 mois
+T6	DISO 168 185	dyspnée sifflante
+T7	PROC 213 222	admission
+T8	LIVB 224 227	ses
+T9	PHEN 228 241	signes vitaux
+T10	MEAS 256 271	assez conservés
+T11	DISO 299 314	symptomatologie
+T12	CHEM 340 350	Amiodarone
+T13	DOSE 353 359	2mg/kg
+T15	CHEM 367 381	Ciprofloxacine
+T16	DOSE 383 389	400 mg
+T17	TEMP 389 391	/j
+T18	CHEM 451 469	méthylprednisolone
+T19	DOSE 470 477	3 mg/kg
+T20	TEMP 477 479	/J
+T21	DISO 513 531	carcinome kystique
+T22	DISO 542 552	métastases
+T23	LIVB 564 572	patiente
+T24	PROC 583 598	hospitalisation
+T25	Hospital 610 619	formation
+T26	PROC 702 730	recherche bactérioculturelle
+T27	MEAS 748 755	positif
+T28	DISO 800 830	pneumo-néphropathéo-rhumatoide

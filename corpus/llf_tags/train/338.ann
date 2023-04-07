@@ -1,0 +1,36 @@
+T1	PROC 3 20	tomodensitométrie
+T2	PROC 22 37	TDM) abdominale
+T3	ANAT 27 37	abdominale
+T4	DISO 69 95	masse tissulaire du rectum
+T5	ANAT 89 95	rectum
+T6	MEAS 99 104	14 cm
+T7	Concept_Idea 108 116	diamètre
+T8	PROC 120 146	examen anatomopathologique
+T9	DISO 168 199	léiomyome urothelial infiltrant
+T10	LIVB 208 213	germe
+T11	MEAS 221 230	stade III
+T12	DISO 264 294	myomes à cellules chromophobes
+T13	PROC 299 319	bilan pré-opératoire
+T14	PROC 325 350	étude immunohistochimique
+T15	DISO 364 373	anomalies
+T16	PROC 379 408	chimiothérapie postopératoire
+T17	MODE 413 431	voie intraveineuse
+T18	PROC 445 468	radiothérapie adjuvante
+T19	PROC 485 513	corticothérapie néoadjuvante
+T20	CHEM 519 529	pacetazole
+T21	PROC 565 587	traitement chirurgical
+T22	PHEN 592 607	fonction rénale
+T23	ANAT 601 607	rénale
+T24	PROC 637 646	transfert
+T25	PROC 660 688	prise en charge chirurgicale
+T26	PROC 706 738	séances de rééducation périnéale
+T27	TEMP 763 773	5 semaines
+T28	LIVB 792 799	patient
+T29	Concept_Idea 823 835	état général
+T30	Hospital 863 871	urgences
+T31	PROC 876 898	contrôle échographique
+T32	MEAS 910 922	satisfaisant
+T33	PROC 942 964	examens gynécologiques
+T34	MEAS 982 988	normal
+T35	PROC 994 1029	dérivés salicylés hypercalciuriques
+T36	DEVI 1053 1067	biphosphonates

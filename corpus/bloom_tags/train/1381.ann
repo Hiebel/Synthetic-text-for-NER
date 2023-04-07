@@ -1,0 +1,25 @@
+T1	LIVB 5 8	A.Z
+T2	TEMP 17 23	17 ans
+T3	MEAS 55 67	particuliers
+T4	PROC 72 84	hospitalisée
+T5	Hospital 88 109	service d'hémodialyse
+T6	DISO 145 158	cholestatique
+T7	MEAS 173 179	rapide
+T8	DISO 198 227	dyspnée stade II de Balthazar
+T9	TEMP 237 255	depuis trois jours
+T10	PROC 292 317	traitement antibacillaire
+T11	CHEM 325 336	albendazole
+T12	CHEM 356 372	anti-tuberculeux
+T13	CHEM 384 396	méthotrexate
+T14	CHEM 398 408	Rifentanil
+T15	CHEM 410 420	furosémide
+T16	CHEM 422 440	methylprednisolone
+T17	CHEM 442 455	dexaméthasone
+T18	CHEM 457 471	hydrocortisone
+T19	PROC 476 491	examen clinique
+T20	LIVB 505 513	patiente
+T21	DISO 553 564	polypnéique
+T22	MEAS 567 583	70 cycles/minute
+T23	PHEN 616 638	trajets aérodynamiques
+T24	DISO 652 673	détresse respiratoire
+T25	MEAS 685 698	28 cycles/min

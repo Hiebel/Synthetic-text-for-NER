@@ -1,0 +1,90 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	DISO 41 56	pneumopéritoine
+T4	PROC 62 86	chimiothérapie adjuvante
+T5	CHEM 96 110	anthracyclines
+T6	CHEM 115 131	fluoroquinolones
+T7	CHEM 138 151	métronidazole
+T8	PROC 185 219	radio-chimiothérapie néo adjuvante
+T9	MEAS 229 234	bonne
+T10	Concept_Idea 235 244	tolérance
+T11	LIVB 253 260	patient
+T12	PROC 292 313	surveillance clinique
+T13	TEMP 315 333	dans les 72 heures
+T14	DISO 359 385	signes neuropsychiatriques
+T15	PROC 391 417	scanner cervico-thoracique
+T16	ANAT 399 417	cervico-thoracique
+T17	MEAS 431 437	normal
+T18	Concept_Idea 453 483	résultats anatomopathologiques
+T19	MEAS 498 511	satisfaisants
+T20	Concept_Idea 523 531	résultat
+T21	PROC 548 557	transfert
+T22	Hospital 562 583	urgences pédiatriques
+T23	PROC 608 636	antibiothérapie probabiliste
+T24	CHEM 675 708	céphalosporine acide clavulanique
+T25	CHEM 711 729	acide zolédronique
+T26	DOSE 733 744	faible dose
+T27	MEAS 778 787	inadaptée
+T28	PROC 800 821	remplissage abdominal
+T29	ANAT 812 821	abdominal
+T30	PROC 836 897	prise en charge thérapeutique psychothérapeutique parentérale
+T31	PROC 909 931	contrôle échographique
+T32	PROC 935 957	traitement substitutif
+T33	PHEN 961 973	accouchement
+T34	TEMP 985 995	6 semaines
+T35	LIVB 1023 1030	enfants
+T36	Concept_Idea 1228 1243	caractère fœtal
+T37	DEVI 1267 1289	matériel anamnestiques
+T38	PROC 1318 1339	consultation médicale
+T39	PROC 1343 1369	psycho-éducative familiale
+T40	MEAS 1402 1412	favorables
+T41	PROC 1466 1490	échographie obstétricale
+T42	PROC 1519 1542	trachéotomie anténatale
+T43	DISO 1566 1597	néoplasie néonatale congénitale
+T44	LIVB 1609 1614	fille
+T45	TEMP 1623 1630	21 mois
+T46	PROC 1635 1641	suivie
+T47	LIVB 1673 1680	garçons
+T48	TEMP 1704 1710	12 ans
+T49	TEMP 1714 1721	16 mois
+T50	LIVB 1800 1806	frères
+T51	LIVB 1841 1862	grand-mère maternelle
+T52	LIVB 1937 1941	fils
+T53	Localization 1983 1997	antépénultième
+T54	MEAS 2052 2057	20 cm
+T55	MEAS 2061 2066	40 cm
+T56	Concept_Idea 2084 2102	état hémodynamique
+T57	DISO 2317 2345	lésions érythémato-anxieuses
+T58	ANAT 2364 2399	quadrant inferieur fundique interne
+T59	Localization 2425 2445	latéralement opposés
+T60	MEAS 2551 2579	de plus en plus volumineuses
+T61	DISO 2607 2640	troubles ventilatoires chroniques
+T62	PROC 2776 2806	bilan phosphocalcique standard
+T63	PROC 2859 2886	numération formule sanguine
+T64	DOSE 3071 3079	100 mg/l
+T65	PROC 3082 3115	calcémie normochrome normocytaire
+T66	PROC 3117 3211	bilirubine conjugue IgG sériques nullificating bilirubine direct insulin for factor receptores
+T67	CHEM 3213 3266	alpha galactose gemcitabine acide aminotransférasique
+T68	PROC 3272 3307	tomodensitométrie du genou cervical
+T69	ANAT 3293 3307	genou cervical
+T72	ANAT 3677 3731	muqueuse buccale antero-sinusophagienne controlatérale
+T73	ANAT 3747 3807	paupières crico-trachéales métatarsiennes supérieure gauches
+T74	Localization 3800 3807	gauches
+T75	ANAT 3830 3899	vaisseaux mésentériques gastrocnémien inférieur homolatéral antérieur
+T76	Localization 3878 3899	homolatéral antérieur
+T77	ANAT 3913 4062	branche intrascaphoïdienne iléo-mandibulaire rétropériphérique inférieure sus maxillaire scapulo-mandibulaire eccrine jugulienne longitudinale droite
+T78	MEAS 4095 4102	simples
+T79	PROC 4108 4141	antibioprophylaxie postopératoire
+T80	CHEM 4154 4172	azathioprine G6PDZ
+T81	PROC 4186 4229	hémodialyse substitutionnelle intraveineuse
+T82	PROC 4243 4263	reprise chirurgicale
+T83	TEMP 4287 4297	3 semaines
+T84	PHEN 4302 4311	grossesse
+T85	MEAS 4340 4344	N° 3
+T86	Concept_Idea 4354 4370	âge gestationnel
+T87	TEMP 4380 4392	23SA+2 jours
+T88	PROC 4421 4464	réanimation obstétricale multidisciplinaire
+T89	PROC 4477 4518	consultation prénatale pluridisciplinaire
+T90	PROC 4530 4554	retournement chirurgical
+T91	PROC 4561 4583	contrôle échographique
+T92	PROC 4587 4600	thérapeutique

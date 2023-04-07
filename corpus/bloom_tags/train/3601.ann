@@ -1,0 +1,51 @@
+T1	LIVB 29 34	femme
+T2	PROC 60 72	hospitalisée
+T3	DISO 82 94	métrorragies
+T4	DISO 109 134	vomissements alimentaires
+T5	TEMP 144 157	depuis 2 mois
+T6	Concept_Idea 193 205	état général
+T7	MEAS 216 219	2/5
+T8	DOSE 225 231	400 mg
+T9	CHEM 235 253	méthylprogestérone
+T10	MODE 255 267	sous cutanée
+T11	PHEN 302 314	accouchement
+T12	PROC 319 324	suivi
+T13	PROC 336 360	scanner abdomino-pelvien
+T14	ANAT 344 360	abdomino-pelvien
+T15	DISO 378 422	épanchement intracanalaire latéro péritonéal
+T16	ANAT 390 422	intracanalaire latéro péritonéal
+T17	LIVB 455 463	patiente
+T18	DISO 492 518	myométrial kyste hydatique
+T19	PROC 557 582	intervention chirurgicale
+T20	PROC 603 726	anesthésie locorégionale intrarachidienne axillaire sus-myometrine transfixiante phréno-gastro-rétro-aréolaire scannoguidée
+T22	PROC 742 770	chimiothérapie néo adjuvante
+T23	DEVI 855 873	broches plâtrantes
+T24	MEAS 944 964	infra-centimétriques
+T25	PROC 993 1013	traitements curatifs
+T26	PROC 1110 1151	parathyroïdectomie partielle exploratrice
+T27	MEAS 1209 1217	tumorale
+T28	PROC 1329 1356	prédominances radiologiques
+T29	PROC 1513 1532	geste gynécologique
+T30	PROC 1551 1571	aspiration sélective
+T31	DOSE 1575 1580	12 cc
+T32	CHEM 1584 1594	sufentanil
+T33	DOSE 1597 1600	4cc
+T34	CHEM 1604 1613	midazolam
+T35	DOSE 1615 1624	0,5 mg/kg
+T36	CHEM 1628 1636	fentanyl
+T37	PROC 1665 1690	réanimation préopératoire
+T38	MEAS 1760 1769	difficile
+T39	PROC 1777 1809	intubation ventriculo-tricuspide
+T40	ANAT 1788 1809	ventriculo-tricuspide
+T41	DEVI 1848 1874	sonde oesophagienne souple
+T43	PROC 2124 2164	colpo-laryngoscopie directe endoscopique
+T44	PROC 2165 2169	CPTE
+T46	PROC 2313 2351	fibroscopie œsophagienne transfixiante
+T47	ANAT 2325 2351	œsophagienne transfixiante
+T48	DISO 2387 2413	épanchement basithoracique
+T49	ANAT 2399 2413	basithoracique
+T50	ANAT 2427 2448	méso-sigmoidien droit
+T51	Localization 2443 2448	droit
+T52	Concept_Idea 2453 2461	résultat
+T53	MEAS 2493 2501	complète
+T54	DISO 2507 2526	hémoglobine glyquée

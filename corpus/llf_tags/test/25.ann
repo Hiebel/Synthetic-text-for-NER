@@ -1,0 +1,31 @@
+T1	LIVB 29 37	patiente
+T2	DISO 59 84	antécédents pathologiques
+T3	MEAS 85 97	particuliers
+T4	Hospital 121 129	urgences
+T5	DISO 149 160	vomissement
+T6	PROC 165 182	tomodensitométrie
+T7	PROC 184 215	TDM) thoraco-abdomino-pelvienne
+T8	ANAT 189 215	thoraco-abdomino-pelvienne
+T9	DISO 238 269	masse tissulaire du rein gauche
+T10	ANAT 258 269	rein gauche
+T11	Localization 263 269	gauche
+T12	Concept_Idea 277 283	aspect
+T13	DISO 305 376	carcinome pulmonaire basocellulaire infiltrant la veine fémorale droite
+T14	ANAT 315 340	pulmonaire basocellulaire
+T15	ANAT 355 376	veine fémorale droite
+T16	Localization 370 376	droite
+T17	ANAT 394 415	troncs supra-aeriques
+T18	DISO 446 467	remaniements mucineux
+T19	PROC 472 491	bilan préopératoire
+T20	PHEN 575 584	digestive
+T21	PROC 590 617	chimiothérapie concomitante
+T22	CHEM 622 653	amoxicilline acide clavulanique
+T23	DOSE 654 658	5 mg
+T24	TEMP 658 660	/j
+T25	CHEM 663 696	acide acétyle alpha hydroxyindole
+T26	DISO 768 794	signes neuropsychiatriques
+T27	TEMP 806 812	4 mois
+T28	MEAS 849 859	favorables
+T29	PROC 865 891	anticoagulation préventive
+T30	MEAS 928 936	complète
+T31	TEMP 943 949	6 mois

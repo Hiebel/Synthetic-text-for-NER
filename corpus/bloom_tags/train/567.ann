@@ -1,0 +1,83 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 96	traitement chirurgical
+T3	DISO 106 126	pneumo-péricardiques
+T4	DISO 158 180	œdème mucoléo-sphincté
+T5	ANAT 164 180	mucoléo-sphincté
+T6	TEMP 190 207	depuis deux jours
+T7	LIVB 214 217	son
+T8	PROC 218 233	hospitalisation
+T9	Hospital 243 268	urgences ophtalmologiques
+T10	PROC 283 298	prise en charge
+T11	CHEM 304 315	paracétamol
+T12	MODE 320 330	voie orale
+T13	CHEM 343 357	hydrocortisone
+T14	DEVI 364 383	cathéter nasofibral
+T15	ANAT 373 383	nasofibral
+T16	PROC 397 440	transfixation thoracique transoesophagienne
+T17	ANAT 411 440	thoracique transoesophagienne
+T18	LIVB 470 478	patiente
+T19	DISO 521 545	traumatisme neurologique
+T20	DISO 558 593	complications thrombo-inflammatoire
+T21	PROC 748 751	ECG
+T22	PROC 756 783	explorations préopératoires
+T23	DISO 810 843	syndrome inflammatoire biologique
+T24	ANAT 886 901	transthoracique
+T25	DISO 915 946	souffrance ventriculaire droite
+T26	ANAT 926 946	ventriculaire droite
+T27	Localization 940 946	droite
+T28	DISO 1013 1097	insuffisance ventriculaire sous-diaphragmatique scapho-myxo-thoracique antrépulsante
+T30	Localization 1040 1044	sous
+T31	PROC 1128 1137	injection
+T32	CHEM 1141 1152	propranolol
+T33	DISO 1191 1229	maladie ischémique nécrose traumatique
+T34	DISO 1320 1349	thrombus veineux mésentérique
+T35	ANAT 1329 1349	veineux mésentérique
+T36	DISO 1394 1448	polypleurésie hémorragique fébrile aiguë polyclonellée
+T37	DISO 1640 1653	inflammatoire
+T38	DISO 1676 1697	troubles métaboliques
+T39	PROC 1771 1802	dosage de l'hémoglobine glyquée
+T40	MEAS 1812 1816	1,7%
+T41	MEAS 1824 1828	0,3%
+T42	PROC 1831 1855	créatinine phosphokinase
+T43	PROC 1857 1860	CPK
+T44	MEAS 1864 1873	2085 UI/l
+T45	PROC 1875 1894	protéine-C-Réactive
+T46	PROC 1896 1899	CRP
+T47	MEAS 1903 1911	120 mg/l
+T48	PROC 1916 1969	ponction pleurale liquidienne thoracique exploratrice
+T49	ANAT 1925 1969	pleurale liquidienne thoracique exploratrice
+T50	PROC 2319 2351	scanner thoraco-abdomino-pelvien
+T51	ANAT 2327 2351	thoraco-abdomino-pelvien
+T52	PROC 2361 2394	imagerie par résonance magnétique
+T53	PROC 2395 2398	IRM
+T54	ANAT 2400 2410	cérébrales
+T55	DISO 2424 2437	particularité
+T56	LIVB 2439 2443	Nous
+T57	PROC 2462 2478	bilan biologique
+T58	PROC 2486 2504	ionogramme sanguin
+T59	ANAT 2497 2504	sanguin
+T60	PROC 2506 2525	hémoglobine glyquée
+T61	PROC 2538 2555	examen des urines
+T62	ANAT 2549 2555	urines
+T63	Hospital 2559 2570	laboratoire
+T64	PROC 2576 2606	radiographies du massif facial
+T65	ANAT 2593 2606	massif facial
+T66	DISO 2644 2684	paragangliome ostéo-carténo-interstitiel
+T67	Concept_Idea 2687 2700	échostructure
+T68	MEAS 2701 2710	régulière
+T69	MEAS 2720 2724	6 cm
+T70	Concept_Idea 2728 2737	grand axe
+T71	MEAS 2742 2746	5 cm
+T72	Concept_Idea 2750 2763	petite taille
+T73	ANAT 2780 2820	sinusiens maxillaires latéro-maxillaires
+T74	ANAT 2847 2879	muqueuses pharyngo œsophagiennes
+T75	DISO 3359 3394	localisations tissulaires associées
+T76	DISO 3412 3424	métanéphrine
+T77	DISO 3431 3442	tuberculose
+T78	DISO 3449 3484	syndrome d'épanchement péricardique
+T79	ANAT 3472 3484	péricardique
+T80	PROC 3491 3513	biopsies chirurgicales
+T81	DISO 3552 3597	adénocarcinome pléomorphe gynécélio-ovarienne
+T82	MEAS 3605 3614	type I-II
+T83	DISO 3682 3701	traumatisme ovarien
+T84	MEAS 3773 3785	particuliers

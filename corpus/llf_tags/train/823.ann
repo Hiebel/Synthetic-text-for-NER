@@ -1,0 +1,19 @@
+T1	PROC 3 20	tomodensitométrie
+T2	PROC 22 36	TDM) cérébrale
+T3	ANAT 27 36	cérébrale
+T4	DISO 70 105	processus tissulaire de l'œil droit
+T5	ANAT 96 105	œil droit
+T6	Localization 100 105	droit
+T7	MEAS 115 119	7 cm
+T8	Concept_Idea 123 132	grand axe
+T9	MEAS 165 172	simples
+T10	LIVB 179 185	malade
+T11	PROC 192 197	opéré
+T12	TEMP 201 214	huitième jour
+T13	PROC 220 230	opératoire
+T14	Localization 258 264	gauche
+T15	DEVI 273 281	cathéter
+T16	PROC 336 346	traitement
+T17	PROC 350 374	exploration chirurgicale
+T18	DISO 393 414	récidive neurologique
+T19	DISO 424 433	métastase

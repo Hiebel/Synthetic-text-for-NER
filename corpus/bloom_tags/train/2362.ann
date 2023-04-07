@@ -1,0 +1,42 @@
+T1	LIVB 16 21	femme
+T2	MEAS 38 47	primipare
+T3	Concept_Idea 54 65	antécédents
+T4	MEAS 66 78	particuliers
+T5	PROC 89 101	hospitalisée
+T6	Hospital 106 114	urgences
+T7	DISO 124 160	douleurs abdomino- pelviennes aiguës
+T9	TEMP 193 210	depuis deux jours
+T10	PROC 214 229	examen clinique
+T11	LIVB 243 251	patiente
+T12	Concept_Idea 266 283	plan psychomoteur
+T13	DISO 300 321	détresse respiratoire
+T14	PHEN 309 321	respiratoire
+T15	MEAS 333 345	2 cycles/min
+T16	MEAS 433 444	progressive
+T17	LIVB 446 450	Elle
+T18	Hospital 468 498	service d'accueil des urgences
+T19	MODE 504 535	voie d'abord transoesophagienne
+T20	DISO 556 609	tuméfaction péritonéale latéro-mésentanellaire droite
+T21	ANAT 568 609	péritonéale latéro-mésentanellaire droite
+T22	Localization 603 609	droite
+T23	MEAS 619 624	13 cm
+T24	Concept_Idea 628 637	grand axe
+T25	DISO 653 671	distension utérine
+T26	ANAT 664 671	utérine
+T27	DISO 694 712	kystopathie dilaté
+T28	DISO 761 773	métastatique
+T29	LIVB 822 830	patiente
+T30	MEAS 848 858	insidieuse
+T31	PROC 863 869	suivie
+T32	PROC 896 920	échographie obstétricale
+T33	ANAT 908 920	obstétricale
+T34	PROC 934 947	TDM pelvienne
+T35	ANAT 938 947	pelvienne
+T36	DISO 990 1017	épanchement intrapéritonéal
+T37	ANAT 1002 1017	intrapéritonéal
+T38	PROC 1067 1076	injection
+T39	CHEM 1080 1100	produit de contraste
+T40	DISO 1129 1167	adénocarcinose péritonéale lithiasique
+T41	ANAT 1196 1211	parois utérines
+T42	ANAT 1239 1251	placentaires
+T43	MEAS 1307 1314	simples

@@ -1,0 +1,23 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	DISO 97 122	tuméfaction du côté droit
+T5	ANAT 112 122	côté droit
+T6	Localization 117 122	droit
+T7	MEAS 134 149	progressivement
+T8	Concept_Idea 153 159	volume
+T9	PROC 163 178	examen clinique
+T10	DISO 196 323	tumeur tumorale des aires ganglionnaire cervico-axillaires basithoraciques latéro-rachidiennes hypoéchogènes hypervascularisées
+T12	PROC 329 338	recherche
+T13	DISO 341 373	épanchement péritonéal purulente
+T14	ANAT 353 373	péritonéal purulente
+T15	PROC 379 412	imagerie par résonance magnétique
+T16	PROC 414 417	IRM
+T17	Hospital 437 444	urgence
+T20	TEMP 579 588	Deux mois
+T21	PROC 597 622	intervention chirurgicale
+T22	LIVB 624 626	il
+T23	DISO 648 671	symptômes neurologiques
+T24	DISO 682 706	anomalies fonctionnelles
+T25	DISO 724 746	récidive locorégionale
+T26	TEMP 764 768	2ans

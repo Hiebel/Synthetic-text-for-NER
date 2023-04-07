@@ -1,0 +1,26 @@
+T1	LIVB 15 25	nourrisson
+T2	TEMP 33 39	9 mois
+T3	PHEN 52 61	grossesse
+T4	PROC 80 95	examen clinique
+T5	DISO 106 129	déficit sensitivomoteur
+T6	ANAT 133 155	membre supérieur droit
+T7	Localization 150 155	droit
+T8	PROC 165 176	échographie
+T9	MEAS 181 187	légère
+T10	DISO 188 239	masse ostéomédullaire des membres inférieurs fœtaux
+T11	ANAT 214 239	membres inférieurs fœtaux
+T12	ANAT 262 282	fosse iliaque droite
+T13	Localization 276 282	droite
+T14	MEAS 291 304	5 centimètres
+T15	ANAT 323 339	scalp pectoralis
+T16	ANAT 354 407	branches crico-trachéales fémoro-tibial métatarsienes
+T17	DISO 419 443	anomalies morphologiques
+T18	PROC 457 468	réanimation
+T19	PROC 487 511	rachianesthésie générale
+T20	PROC 525 553	chimiothérapie néo adjuvante
+T21	CHEM 557 570	cristalloïdes
+T22	DOSE 572 577	50 mg
+T23	TEMP 577 579	/j
+T24	MEAS 626 633	simples
+T25	MEAS 660 673	particulières
+T26	LIVB 682 692	nouveau-né

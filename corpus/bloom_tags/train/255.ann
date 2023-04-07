@@ -1,0 +1,26 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 45 70	antécédents pathologiques
+T3	MEAS 71 79	notables
+T4	PROC 81 87	admise
+T5	Hospital 92 100	urgences
+T6	DISO 109 142	syndrome d'épanchement péritonéal
+T7	ANAT 132 142	péritonéal
+T8	PROC 146 161	examen clinique
+T9	PROC 166 175	admission
+T10	LIVB 189 197	patiente
+T11	PHEN 234 246	respiratoire
+T12	DISO 266 306	déficit moteur du membre inférieur droit
+T13	ANAT 284 306	membre inférieur droit
+T14	Localization 301 306	droit
+T15	PROC 310 334	exploration chirurgicale
+T16	DISO 361 450	masse tissulaire péritumorale des espaces para-épicæculaires péri-cæculaires bilirubinées
+T18	MEAS 460 465	10 cm
+T19	Concept_Idea 469 478	grand axe
+T20	ANAT 495 534	région paravertébro-mandibulaire droite
+T21	Localization 528 534	droite
+T22	TEMP 544 561	depuis deux jours
+T23	DISO 581 595	amaigrissement
+T24	MEAS 606 611	15 kg
+T25	PROC 628 635	biopsie
+T26	PROC 666 693	analyse anatomopathologique
+T27	DISO 708 740	hémangioendothélium hypertrophié

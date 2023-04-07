@@ -1,0 +1,34 @@
+T1	LIVB 0 7	patient
+T2	Concept_Idea 27 52	antécédents pathologiques
+T3	MEAS 53 61	notables
+T4	DISO 82 88	fièvre
+T5	TEMP 111 125	depuis 5 jours
+T6	PROC 129 144	examen clinique
+T7	PROC 149 158	admission
+T8	LIVB 171 178	patient
+T9	MEAS 182 185	bon
+T10	Concept_Idea 186 198	état général
+T11	ANAT 200 210	tachycarde
+T12	MEAS 213 231	120 battements/min
+T13	PHEN 239 260	contractions utérines
+T14	ANAT 252 260	utérines
+T15	MEAS 261 269	réduites
+T16	ANAT 283 293	col utérin
+T17	DISO 317 363	masse latéro-utérine basithoracique bilatérale
+T18	Localization 353 363	bilatérale
+T19	MEAS 373 378	12 cm
+T20	Concept_Idea 382 391	grand axe
+T21	MEAS 396 400	4 cm
+T22	Concept_Idea 403 412	épaisseur
+T23	PROC 417 433	bilan biologique
+T24	DISO 454 497	anémie microcytaire hypochrome normocytaire
+T25	PROC 499 518	Hémoglobine glyquée
+T26	MEAS 521 523	7%
+T27	DISO 526 542	hyperleucocytose
+T28	MEAS 545 564	16 000 éléments/mm3
+T29	PROC 570 594	scanner abdomino-pelvien
+T30	ANAT 578 594	abdomino-pelvien
+T31	PROC 614 638	anesthésie locorégionale
+T32	ANAT 625 638	locorégionale
+T33	DEVI 646 670	c'lioscope transfixiante
+T35	ANAT 877 896	vésicules biliaires

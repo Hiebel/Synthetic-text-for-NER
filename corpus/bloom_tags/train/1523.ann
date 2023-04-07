@@ -1,0 +1,25 @@
+T1	LIVB 0 8	patiente
+T2	Concept_Idea 30 41	antécédents
+T3	MEAS 42 54	particuliers
+T4	PROC 56 64	consulte
+T5	DISO 74 99	tuméfaction du col utérin
+T6	ANAT 89 99	col utérin
+T7	TEMP 109 122	depuis 2 mois
+T8	PROC 126 141	examen clinique
+T9	DISO 157 172	symptomatologie
+T10	DISO 189 206	métastase utérine
+T11	ANAT 199 206	utérine
+T12	PROC 213 232	bilan préopératoire
+T13	PROC 252 273	échographie pelvienne
+T14	ANAT 264 273	pelvienne
+T15	PROC 275 278	EPT
+T16	PROC 284 305	TDM cervico-axillaire
+T17	ANAT 288 305	cervico-axillaire
+T18	PROC 307 310	TCA
+T19	PROC 326 366	prélèvements bactériologiques des urines
+T20	ANAT 360 366	urines
+T21	MEAS 375 383	positifs
+T22	PROC 389 413	chimiothérapie adjuvante
+T23	CHEM 419 429	paclitaxel
+T24	DOSE 432 440	50 mg/m²
+T25	MODE 443 453	voie orale

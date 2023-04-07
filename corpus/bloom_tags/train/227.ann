@@ -1,0 +1,35 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 111	cysto-gynecostomie colpo-péritoineuse
+T3	ANAT 93 111	colpo-péritoineuse
+T4	DISO 143 157	épigastralgies
+T5	TEMP 181 194	depuis 3 mois
+T6	DISO 216 244	douleurs abdomino-pélviennes
+T7	ANAT 225 244	abdomino-pélviennes
+T8	MEAS 259 270	progressive
+T9	MEAS 285 298	plus marquées
+T10	DISO 314 322	polypnée
+T11	DISO 356 375	syndrome infectieux
+T12	DISO 409 434	troubles sensitivomotrice
+T13	DISO 445 473	manifestations neurologiques
+T14	PROC 489 514	intervention chirurgicale
+T15	PROC 537 648	curage ganglionnaire péripéritonéal hyo-laryngéo-sphinctérien transœsophagien pharyngo médiastinal endoscopique
+T17	PROC 663 721	anastomose iléo-cæcale biliopancréatico-thoracique intubée
+T19	MEAS 758 765	simples
+T20	DISO 811 820	récidives
+T21	DISO 827 853	localisation métastatiques
+T22	DISO 1012 1037	symptomatologie purulente
+T23	DOSE 1044 1052	2 litres
+T24	MODE 1056 1061	bolus
+T25	CHEM 1065 1078	dexaméthasone
+T26	PROC 1115 1138	radiothérapie adjuvante
+T27	DISO 1223 1232	symptômes
+T28	DISO 1368 1394	symptomatologie nécrétante
+T29	DISO 1554 1588	chondromatose lithiasique kystique
+T30	DISO 1606 1628	métastases épidermoïde
+T31	LIVB 1685 1694	patientes
+T32	DISO 1728 1744	tumorale maligne
+T33	DISO 1753 1769	maladie cœliaque
+T34	LIVB 1771 1775	nous
+T35	PROC 1805 1826	échographie pelvienne
+T36	ANAT 1817 1826	pelvienne
+T37	DISO 1929 1976	accident thromboembolique congénital ischémique

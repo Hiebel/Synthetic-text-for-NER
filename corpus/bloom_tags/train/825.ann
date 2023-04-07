@@ -1,0 +1,24 @@
+T1	LIVB 20 25	femme
+T2	Concept_Idea 42 53	antécédents
+T3	MEAS 54 66	particuliers
+T4	PROC 70 76	examen
+T5	PROC 81 90	admission
+T6	DISO 112 145	syndrome d'épanchement péritonéal
+T7	ANAT 135 145	péritonéal
+T8	PHEN 155 164	tolérance
+T9	ANAT 178 199	méso-sigmoïdien droit
+T10	Localization 194 199	droit
+T11	ANAT 207 223	parois vaginales
+T12	PROC 228 247	bilan préopératoire
+T13	PROC 265 284	Hémoglobine glyquée
+T14	MEAS 287 289	7%
+T15	PROC 291 312	taux de la plaquettes
+T16	MEAS 315 333	12000 éléments/mm3
+T17	MEAS 340 361	12000 globules blancs
+T18	CHEM 384 395	hémoglobine
+T19	PROC 398 417	protéine C réactive
+T20	MEAS 419 426	10 mg/l
+T21	PROC 428 447	protéine S réactive
+T22	MEAS 450 458	100 mg/l
+T23	PROC 464 491	numération formule sanguine
+T24	MEAS 536 540	7,9%

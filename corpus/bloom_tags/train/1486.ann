@@ -1,0 +1,20 @@
+T1	LIVB 28 35	patient
+T2	PROC 71 89	traitement curatif
+T3	CHEM 93 112	Valproate de sodium
+T4	PROC 124 147	radiothérapie adjuvante
+T5	DOSE 161 165	2 Gy
+T6	ANAT 178 184	pelvis
+T7	DISO 221 236	symptomatologie
+T8	TEMP 246 259	depuis 3 mois
+T9	MEAS 304 309	24 kg
+T10	DISO 324 332	polypnée
+T11	MEAS 347 353	rapide
+T12	DISO 394 410	signes cliniques
+T13	DISO 428 434	fièvre
+T14	DISO 441 462	détresse respiratoire
+T15	PHEN 450 462	respiratoire
+T16	PROC 603 637	imagerie par résonnance magnétique
+T17	PROC 639 642	IRM
+T18	PROC 656 666	césarienne
+T20	Concept_Idea 914 922	contours
+T21	MEAS 923 934	hétérogènes

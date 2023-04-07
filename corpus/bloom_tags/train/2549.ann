@@ -1,0 +1,23 @@
+T1	LIVB 20 28	patiente
+T2	PROC 45 52	traitée
+T3	TEMP 56 60	2001
+T4	DISO 69 93	carcinome parathyroïdien
+T5	ANAT 79 93	parathyroïdien
+T6	PROC 105 111	admise
+T7	Hospital 116 124	urgences
+T8	DISO 160 186	hypercalcémie hypertensive
+T9	PROC 190 204	examen initial
+T10	MEAS 225 231	légère
+T12	ANAT 245 255	artérielle
+T13	PROC 261 282	échographie pelvienne
+T14	ANAT 273 282	pelvienne
+T15	DISO 294 307	particularité
+T16	PROC 312 330	bilan paraclinique
+T17	PROC 332 376	tomodensitométrie thoraco-abdomino-pelvienne
+T18	ANAT 350 376	thoraco-abdomino-pelvienne
+T19	DISO 406 431	localisations métastiques
+T20	ANAT 445 465	mésentère péritonéal
+T21	PROC 471 495	chimiothérapie adjuvante
+T22	Concept_Idea 501 507	schéma
+T23	MEAS 533 541	complète
+T24	DISO 546 562	signes cliniques

@@ -1,0 +1,58 @@
+T1	LIVB 4 9	femme
+T2	CHEM 41 55	hydrocortisone
+T3	DOSE 57 63	1mg/kg
+T4	TEMP 63 65	/j
+T5	CHEM 80 102	hydroxy-vaccénétholone
+T6	DOSE 104 112	10 mg/kg
+T7	TEMP 112 114	/j
+T8	PROC 120 134	bilan hormonal
+T9	PROC 173 203	investigations complémentaires
+T10	PROC 221 260	sérologies d'immunodépression adjuvante
+T11	PROC 267 298	radio-chimiothérapie palliative
+T12	LIVB 319 327	patiente
+T13	DISO 358 376	signe neurologique
+T14	DISO 387 396	anomalies
+T15	PROC 423 439	ophtalmologiques
+T16	PROC 464 491	tomodensitométrie cérébrale
+T17	ANAT 482 491	cérébrale
+T18	PROC 535 544	injection
+T19	CHEM 548 568	produit de contraste
+T20	DISO 597 621	localisation secondaires
+T21	PROC 625 658	dosage de l'hormonothroperoxydase
+T22	PROC 660 664	HPTH
+T23	PROC 667 689	du prothrombine activé
+T24	PROC 691 718	protéine S glycorachidylées
+T25	PROC 721 724	PRP
+T26	DEVI 726 737	sonde nylon
+T27	MEAS 835 844	1230 UI/L
+T28	MEAS 848 857	1720 UI/L
+T29	PROC 870 906	bolus d'hormonothérapie substitutive
+T30	CHEM 942 964	acide fœtoestrogénique
+T31	DOSE 1021 1031	0,5 mg /kg
+T32	TEMP 1031 1036	/jour
+T33	DISO 1057 1086	complication thromboembolique
+T34	CHEM 1102 1115	conjonctivaux
+T35	DISO 1221 1234	symptomatique
+T36	MEAS 1249 1256	majeure
+T37	DISO 1327 1342	pathognomonique
+T38	PROC 1405 1441	technique thérapeutique chirurgicale
+T39	PROC 1471 1495	consultations prénatales
+T40	DISO 2445 2490	traumatisme ischémique du pédicule péritonéal
+T41	ANAT 2471 2490	pédicule péritonéal
+T42	LIVB 2512 2519	patient
+T43	DISO 2524 2552	douleurs abdomino-pelviennes
+T44	ANAT 2533 2552	abdomino-pelviennes
+T45	DISO 2569 2600	décharges électriques méningées
+T46	DISO 2613 2629	signes cliniques
+T47	DISO 2656 2687	détresse cardio-vasculo-nerveux
+T48	PHEN 2665 2687	cardio-vasculo-nerveux
+T49	DISO 2693 2720	épanchement intrapéritonéal
+T50	ANAT 2705 2720	intrapéritonéal
+T51	PROC 2726 2735	admission
+T52	Hospital 2739 2769	service d'accueil des urgences
+T53	Hospital 2771 2774	UAI
+T54	LIVB 2780 2787	patient
+T55	Concept_Idea 2797 2802	poids
+T56	MEAS 2806 2811	2600g
+T57	Concept_Idea 2821 2827	taille
+T58	MEAS 2831 2837	150 cm

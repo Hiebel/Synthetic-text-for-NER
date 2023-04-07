@@ -1,0 +1,25 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 79 84	admis
+T5	Hospital 89 97	urgences
+T6	DISO 107 152	douleurs chroniques du membre inferieur droit
+T7	ANAT 130 152	membre inferieur droit
+T8	Localization 147 152	droit
+T9	TEMP 162 175	depuis 3 mois
+T10	DISO 192 198	fièvre
+T11	PROC 215 230	examen clinique
+T12	LIVB 247 254	patient
+T13	MEAS 258 267	assez bon
+T14	Concept_Idea 268 280	état général
+T15	PROC 286 315	auscultation cutanéo-muqueuse
+T16	ANAT 299 315	cutanéo-muqueuse
+T17	DISO 340 348	anomalie
+T18	PROC 363 382	bilan préopératoire
+T19	PROC 398 425	numération formule sanguine
+T20	PROC 438 458	taux de prothrombine
+T21	PROC 460 462	TP
+T22	PROC 500 519	protéine C réactive
+T23	PROC 521 524	CRP
+T24	PROC 527 560	anticorps antithyroglobule natifs
+T25	PROC 562 589	anti thyroglobulaire natifs

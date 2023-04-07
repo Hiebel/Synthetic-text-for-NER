@@ -1,0 +1,23 @@
+T1	MEAS 0 8	normales
+T2	DISO 29 44	pneumomédiastin
+T3	PROC 64 84	traitement palliatif
+T4	CHEM 95 107	méthotrexate
+T5	DOSE 109 115	0,4 mg
+T6	TEMP 115 117	/j
+T7	PROC 134 162	antibiothérapie probabiliste
+T8	CHEM 170 180	céfotaxime
+T9	DOSE 181 183	1g
+T10	TEMP 183 185	/j
+T11	Concept_Idea 237 259	paramètres biologiques
+T12	DISO 280 299	syndrome infectieux
+T13	LIVB 308 315	patient
+T14	Concept_Idea 340 357	plan radiologique
+T15	LIVB 375 378	son
+T16	PROC 379 388	admission
+T17	Hospital 392 407	bloc opératoire
+T18	DISO 445 455	difficulté
+T19	PHEN 470 492	suites postopératoires
+T20	MEAS 501 511	favorables
+T21	PROC 517 543	anticoagulation préventive
+T22	PROC 561 580	transfert ultérieur
+T23	TEMP 601 618	quelques semaines

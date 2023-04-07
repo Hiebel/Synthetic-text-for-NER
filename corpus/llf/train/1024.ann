@@ -1,0 +1,14 @@
+T1	PROC 2 24	échographie
+T2	ANAT 14 24	abdominale
+T3	DISO 40 62	épanchement
+T4	ANAT 52 62	péritonéal
+T5	MEAS 63 82	de
+T6	DISO 103 126	kyste
+T7	ANAT 122 126	foie
+T8	LIVB 146 153	patient
+T9	PROC 163 178	corticothérapie
+T10	MODE 183 201	voie
+T11	DOSE 214 222	0,5mg/kg
+T12	TEMP 222 227	/jour
+T13	MEAS 237 242	bonne
+T14	Concept_Idea 243 259	réponse

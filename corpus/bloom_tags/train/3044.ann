@@ -1,0 +1,30 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	Concept_Idea 38 49	antécédents
+T4	MEAS 50 62	particuliers
+T5	PROC 64 68	reçu
+T6	Hospital 73 81	urgences
+T7	DISO 91 95	toux
+T8	DISO 111 145	douleurs thoraciques constrictives
+T9	ANAT 120 131	thoraciques
+T10	TEMP 155 169	depuis 3 jours
+T11	PROC 174 212	ponction pleuro-pulmonaire liquidienne
+T12	ANAT 183 212	pleuro-pulmonaire liquidienne
+T13	PHEN 248 267	muqueuse alvéolaire
+T14	PROC 272 294	radiographie du thorax
+T15	ANAT 288 294	thorax
+T16	DISO 313 358	épanchement pleuralo-thoracique latéral droit
+T17	ANAT 325 358	pleuralo-thoracique latéral droit
+T18	Localization 353 358	droit
+T19	PROC 364 394	échographie abdomino-pelvienne
+T20	ANAT 376 394	abdomino-pelvienne
+T21	DISO 421 489	masse tumorale vésiculo-mésentérique hypogastrique hypo-vascularisée
+T23	MEAS 499 507	21x14 cm
+T24	ANAT 523 548	liquide céphalo-rachidien
+T25	ANAT 563 580	structures grêles
+T26	DISO 601 654	adénopathie jugulo-carotidienne basithoracique droite
+T27	ANAT 613 654	jugulo-carotidienne basithoracique droite
+T28	Localization 648 654	droite
+T29	ANAT 668 692	sinus médiastinal gauche
+T30	Localization 686 692	gauche
+T31	DISO 727 740	paragangliome

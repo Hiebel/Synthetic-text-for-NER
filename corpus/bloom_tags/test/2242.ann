@@ -1,0 +1,23 @@
+T1	LIVB 28 35	patient
+T2	PROC 72 100	chimiothérapie néo adjuvante
+T3	CHEM 152 158	Xeloda
+T4	Hospital 168 180	oncologiques
+T5	PROC 247 265	traitement curatif
+T6	LIVB 275 277	on
+T7	TEMP 319 332	depuis 6 mois
+T8	PROC 364 392	corticothérapie substitutive
+T9	DEVI 405 414	appareils
+T10	PROC 432 449	ponction lombaire
+T11	ANAT 441 449	lombaire
+T12	PROC 455 499	administration intraveineuse d'hémodialyseur
+T13	PROC 502 524	examen ophtalmologique
+T14	DISO 536 601	œdème maculo-cruciforme cutané papuleux éryythémateur prurigineux
+T15	MEAS 616 627	progressive
+T16	MEAS 637 645	70x40 cm
+T17	ANAT 657 675	membres inférieurs
+T18	ANAT 683 702	plantes céphaliques
+T19	ANAT 723 738	lit oculomoteur
+T20	PROC 817 835	ionogramme sanguin
+T21	ANAT 828 835	sanguin
+T22	DISO 860 902	hyperkaliémie microcytaire normokaliémique
+T23	DISO 920 945	hémoperitoineurie maligne

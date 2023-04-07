@@ -1,0 +1,39 @@
+T1	LIVB 15 22	patient
+T2	DISO 42 65	antécédent pathologique
+T3	MEAS 66 77	particulier
+T4	PROC 79 89	consultait
+T5	Hospital 94 102	urgences
+T7	ANAT 120 132	épigastrique
+T8	TEMP 142 155	depuis 3 mois
+T9	PROC 160 196	tomodensitométrie abdomino-pelvienne
+T10	ANAT 178 196	abdomino-pelvienne
+T12	Localization 244 252	centrale
+T13	DEVI 274 299	produit de contraste iodé
+T14	MEAS 309 313	6 cm
+T15	Concept_Idea 316 322	aspect
+T16	MEAS 323 333	hétérogène
+T17	MEAS 342 345	1cm
+T18	Concept_Idea 349 358	grand axe
+T19	ANAT 389 407	artère cave droite
+T20	Localization 401 407	droite
+T21	PHEN 422 438	surrénalineation
+T22	DISO 460 537	nodules vésiculo-nodulaires latéro péritonéaux hypodenses hyper vascularisées
+T23	ANAT 468 1261	vésiculo-nodulaires latéro péritonéaux hypodenses hyper vascularisées dont l'origine était sous hépato-gastro-duodénale antéhypogastrique ayant augmenté massivement de taille; il n'existait pas de syndrome d'épanchement mésentérique ou de fistule intestinale décelable ; aucune lésion nécrotique n’était mise en évidence chez cette patiente devant l'absence de symptomatologie purulente cliniquement et/ou radiomarquante associée dans l entourage familiaux malgré l'aggravation de la maladie devenant notable dès lors qu'un complément scannographique n'a pas été réalisé s'est révélé négligeable d'autant plus qu'une TDM thoraco-abdomino-pelviennes avait montré l'existence d’une masse hétérogène pariétale médiastinale hypertrophiée d'allure kystique rompue envahissant l'artère rénale droite
+T24	MEAS 621 632	massivement
+T25	Concept_Idea 636 642	taille
+T26	DISO 665 700	syndrome d'épanchement mésentérique
+T27	ANAT 688 700	mésentérique
+T28	DISO 707 726	fistule intestinale
+T29	ANAT 715 726	intestinale
+T30	DISO 746 763	lésion nécrotique
+T31	LIVB 800 808	patiente
+T32	DISO 829 854	symptomatologie purulente
+T33	PROC 874 888	radiomarquante
+T34	DISO 952 959	maladie
+T35	MEAS 969 976	notable
+T36	PROC 992 1018	complément scannographique
+T37	MEAS 1052 1063	négligeable
+T38	PROC 1085 1116	TDM thoraco-abdomino-pelviennes
+T39	ANAT 1089 1116	thoraco-abdomino-pelviennes
+T40	DISO 1148 1201	masse hétérogène pariétale médiastinale hypertrophiée
+T41	Localization 1255 1261	droite

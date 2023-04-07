@@ -1,0 +1,29 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	10 ans
+T3	DISO 25 50	antécédents pathologiques
+T4	MEAS 51 59	notables
+T5	PROC 66 77	hospitalisé
+T6	Hospital 82 103	urgences pédiatriques
+T7	DISO 122 145	agitation psychomotrice
+T8	PROC 150 166	bilan biologique
+T9	PHEN 180 195	fonction rénale
+T10	ANAT 189 195	rénale
+T11	MEAS 196 203	altérée
+T12	CHEM 205 213	natrémie
+T13	MEAS 216 225	135 meq/l
+T14	PROC 227 235	kaliémie
+T15	MEAS 238 248	0,85 meq/l
+T16	PROC 251 270	hémoglobine glyquée
+T17	MEAS 273 281	8,3 g/dl
+T18	PROC 286 317	échographie abdomino- pelvienne
+T19	ANAT 298 317	abdomino- pelvienne
+T21	MEAS 499 503	dure
+T22	MEAS 512 516	2 cm
+T23	Concept_Idea 520 529	grand axe
+T24	ANAT 556 569	anse grêlique
+T25	MEAS 581 596	progressivement
+T26	Concept_Idea 600 606	taille
+T27	MEAS 624 636	volumineuses
+T28	ANAT 694 737	méso-sigmoïdien inféro-latéral supérogauche
+T29	MEAS 783 800	plus volumineuses
+T30	LIVB 871 882	jeune femme

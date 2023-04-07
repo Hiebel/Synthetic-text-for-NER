@@ -1,0 +1,17 @@
+T1	LIVB 3 10	patient
+T2	PROC 29 53	laparotomie
+T3	PROC 59 74	rachianesthésie
+T4	PROC 78 105	examen
+T5	DISO 125 147	tuberculose
+T6	DISO 153 171	nécrose
+T7	ANAT 186 203	sinus
+T8	ANAT 207 226	temporo-maxillaires
+T9	PROC 242 258	examen
+T10	DISO 280 294	adénocarcinome
+T11	MEAS 295 318	moyennement
+T12	ANAT 322 340	bulbe
+T13	DISO 346 369	métastase
+T14	ANAT 356 369	ganglionnaire
+T15	DISO 373 394	infiltration
+T16	PHEN 409 427	suites
+T17	MEAS 436 443	simples

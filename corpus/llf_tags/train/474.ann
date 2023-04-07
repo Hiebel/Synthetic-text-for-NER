@@ -1,0 +1,63 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 65	antécédents pathologique
+T3	MEAS 66 77	particulier
+T4	PROC 79 85	Admise
+T5	Hospital 90 98	urgences
+T6	DISO 108 142	douleurs du membre inférieur droit
+T7	ANAT 120 142	membre inférieur droit
+T8	Localization 137 142	droit
+T9	Concept_Idea 164 176	état général
+T10	Concept_Idea 221 234	état générale
+T11	DISO 239 253	amaigrissement
+T12	PROC 270 285	examen clinique
+T13	LIVB 297 305	patiente
+T14	MEAS 309 316	mauvais
+T15	Concept_Idea 317 329	état général
+T16	PROC 345 361	examen somatique
+T17	DISO 373 386	particularité
+T18	PROC 393 402	palpation
+T19	DISO 418 439	distension abdominale
+T20	ANAT 429 439	abdominale
+T21	DISO 450 484	crises convulsives tonicocloniques
+T22	DISO 498 521	impotence fonctionnelle
+T23	MEAS 522 528	sévère
+T24	Concept_Idea 548 566	plan hémodynamique
+T25	PHEN 570 582	respiratoire
+T26	Concept_Idea 636 648	état général
+T27	PROC 669 700	traitements anti-inflammatoires
+T28	CHEM 681 700	anti-inflammatoires
+T29	PROC 715 739	remplissage péricardique
+T30	ANAT 727 739	péricardique
+T31	MODE 759 1249	voie sous clavière au quatrième jour post opératoire suivi d'une toilette anastomosée ayant duré quatre heures suivie d'une cholécystectomie percutanée endotrachéale scanno-guidée ; Les suites opératoires ont été simples jusqu'à ce que soit réalisée une néphrectomie transoeso-gastro-duodénale monobloc emportant tous les annexes intraveineuses nécrolytiques cervicales intramusculaires métaphysaires anastomoteurs polyclonales laryngéaux fusiformes cutanéateux musculo-cutané T2N0M1/T2N0M3
+T32	TEMP 781 795	quatrième jour
+T33	PROC 801 811	opératoire
+T34	PROC 824 844	toilette anastomosée
+T35	ANAT 833 844	anastomosée
+T36	TEMP 856 869	quatre heures
+T37	PROC 883 938	cholécystectomie percutanée endotrachéale scanno-guidée
+T38	MEAS 972 979	simples
+T39	PROC 1013 1061	néphrectomie transoeso-gastro-duodénale monobloc
+T41	PROC 1256 1290	contrôle locorégional conservateur
+T42	PROC 1304 1330	examen anatomopathologique
+T43	DISO 1358 1378	récidive infectieuse
+T44	DISO 1385 1407	malignité neurologique
+T45	LIVB 1419 1427	patiente
+T46	PROC 1432 1457	tumorectomie exploratrice
+T47	PROC 1539 1556	tomodensitométrie
+T48	DISO 1577 1593	signe infectieux
+T49	DISO 1603 1625	anomalie morphologique
+T50	PROC 1644 1667	radiothérapie adjuvante
+T51	PROC 1707 1734	thyroïdectomie diagnostique
+T52	MEAS 1786 1797	primordiaux
+T53	Concept_Idea 1810 1829	aspect histologique
+T54	DISO 1855 1907	métaplasie hépatique terminale encéphalique stade II
+T55	DISO 1950 2016	neurochromatose réactionnelle primitive myxoblastique idiopathique
+T56	DISO 2072 2110	contage tuberculeux cliniquement malin
+T58	PROC 2262 2302	radioéchographie Doppler haute fréquence
+T59	DISO 2339 2357	syndrome dysmorphe
+T60	Concept_Idea 2379 2409	caractères sexuels secondaires
+T61	PROC 2434 2462	prise en charge chirurgicale
+T62	PROC 2485 2515	kinésithérapie antipsychotique
+T63	PROC 2531 2579	consultation psychothérapeutique comportementale
+T64	PROC 2638 2707	psychothérapie cognitivo-comportementale parenthésébrale substitutive
+T65	PROC 2748 2784	recherches gestuelles thérapeutiques

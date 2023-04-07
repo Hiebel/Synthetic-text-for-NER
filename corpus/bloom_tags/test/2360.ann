@@ -1,0 +1,33 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	13 ans
+T3	Concept_Idea 42 67	antécédents pathologiques
+T4	MEAS 68 80	particuliers
+T5	PROC 82 87	admis
+T6	Hospital 92 113	urgences pédiatriques
+T7	DISO 123 150	douleurs abdominales aiguës
+T8	ANAT 132 143	abdominales
+T9	DISO 167 185	masse épigastrique
+T10	ANAT 173 185	épigastrique
+T11	TEMP 195 209	depuis un mois
+T12	DISO 239 245	fièvre
+T13	MEAS 257 261	40°C
+T14	PROC 265 280	examen clinique
+T15	DISO 301 330	masse centrale d'épigastrique
+T16	Localization 307 315	centrale
+T17	MEAS 340 344	6 cm
+T18	ANAT 358 369	flanc droit
+T19	Localization 364 369	droit
+T20	MEAS 384 393	lentement
+T21	Concept_Idea 397 403	volume
+T22	PHEN 420 432	accouchement
+T23	DISO 447 461	amaigrissement
+T24	PROC 478 514	tomodensitométrie abdomino pelvienne
+T25	ANAT 496 514	abdomino pelvienne
+T26	PROC 516 530	TDM) pelvienne
+T27	ANAT 521 530	pelvienne
+T28	DISO 544 646	masse tissulaire hétérogène hypoéchogène latéro-utérine épigastrique péritonéale lithiasique hypodense
+T29	MEAS 680 688	20/10 cm
+T30	ANAT 705 736	parties molles pyélocalicielles
+T31	ANAT 750 762	paroi utérin
+T32	DISO 786 848	lésions nodulaires hyperhétérogènes hypertrophiées sécrétantes
+T33	DISO 858 866	kystique

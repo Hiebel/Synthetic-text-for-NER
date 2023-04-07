@@ -1,0 +1,34 @@
+T1	LIVB 28 35	patient
+T2	DISO 117 152	douleurs abdomino-pelviennes aiguës
+T3	ANAT 126 152	abdomino-pelviennes aiguës
+T4	TEMP 162 178	depuis 48 heures
+T5	DISO 200 219	lésions purpuriques
+T6	Concept_Idea 249 261	état général
+T7	MEAS 311 322	progressive
+T8	MEAS 332 339	intense
+T9	DISO 355 376	détresse respiratoire
+T10	PHEN 364 376	respiratoire
+T11	DISO 388 397	symptômes
+T12	PROC 417 435	traitement curatif
+T13	CHEM 450 461	albendazole
+T14	CHEM 463 474	rifampicine
+T15	CHEM 476 488	pyrazinamide
+T16	CHEM 490 500	ethambutol
+T17	CHEM 502 513	Ceftriaxone
+T18	CHEM 515 526	Cyclosérine
+T19	CHEM 528 540	Doxycyclines
+T20	CHEM 542 553	Ethionamide
+T21	CHEM 555 568	Vinblastidine
+T22	CHEM 570 582	Pyrazinamide
+T23	CHEM 584 590	Vit B6
+T24	CHEM 592 607	Chloramphénicol
+T25	CHEM 609 622	Kanaméthasone
+T26	CHEM 624 637	Triméthoprime
+T27	CHEM 639 653	Gentaméthasone
+T28	CHEM 656 675	Valproate de sodium
+T29	CHEM 677 693	Erythrométhamine
+T30	CHEM 695 705	Rifentanil
+T31	Concept_Idea 774 792	état hémodynamique
+T32	DISO 835 870	méningoencephalopathie hypertensive
+T33	LIVB 900 908	patiente
+T34	DISO 1001 1030	pathophysiologie neurologique

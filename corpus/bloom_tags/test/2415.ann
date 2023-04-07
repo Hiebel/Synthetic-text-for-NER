@@ -1,0 +1,10 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	14 ans
+T3	PROC 37 42	admis
+T4	Hospital 47 55	urgences
+T5	DISO 73 91	cholécystite aigue
+T6	PROC 95 120	intervention chirurgicale
+T8	ANAT 153 164	intestinale
+T9	ANAT 185 203	greffon cœliosique
+T10	MEAS 212 215	bon
+T11	Concept_Idea 216 244	résultat anatomopathologique

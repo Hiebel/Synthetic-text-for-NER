@@ -1,0 +1,38 @@
+T1	LIVB 3 13	nouveau-né
+T2	TEMP 21 26	3 ans
+T3	LIVB 71 74	son
+T4	PROC 75 84	admission
+T5	DISO 95 124	symptômes neuropsychiatriques
+T6	LIVB 274 280	enfant
+T7	Concept_Idea 293 317	renseignements cliniques
+T8	Concept_Idea 336 354	état hémodynamique
+T9	PROC 366 391	pression crânio-pelvienne
+T10	ANAT 375 391	crânio-pelvienne
+T11	MEAS 403 418	progressivement
+T12	MEAS 437 445	50 mm Hg
+T13	MEAS 607 615	intactes
+T14	DISO 701 736	épisodes confusionnels psychotiques
+T15	DISO 1237 1256	hyperglycemicomanie
+T16	Hospital 1279 1305	Revue médicale pédiatrique
+T17	LIVB 1358 1368	nourrisson
+T18	PHEN 1396 1414	mouvements bilieux
+T19	CHEM 1424 1449	antiagrégant plaquettaire
+T20	PROC 1530 1552	traitement substitutif
+T21	LIVB 1572 1580	patiente
+T22	Hospital 1609 1640	urgences traumato-orthopédiques
+T23	DISO 1660 1666	fièvre
+T24	TEMP 1676 1693	depuis cinq jours
+T25	DISO 1706 1728	signes accompagnateurs
+T26	DISO 1767 1788	troubles oculomoteurs
+T27	DISO 1798 1820	foyer lésionnel moteur
+T28	DISO 1856 1889	crise convulsive tonicocéphalique
+T29	DISO 1944 1966	douleurs épigastriques
+T30	ANAT 1953 1966	épigastriques
+T31	DISO 2028 2047	bouffées glaireuses
+T32	MEAS 2139 2146	simples
+T33	MEAS 2244 2253	spontanée
+T34	DISO 2395 2432	hallucinations prémonitoires tardives
+T35	PROC 2483 2508	consultation obstétricale
+T36	PROC 2541 2568	prise en charge ambulatoire
+T37	LIVB 2581 2601	médecin néonatalyste
+T38	DISO 2637 2662	difficultés diagnostiques

@@ -1,0 +1,16 @@
+T1	PROC 4 23	examens biologiques
+T2	DISO 37 50	particularité
+T3	LIVB 54 60	enfant
+T4	PROC 76 102	traitement anti-bacillaire
+T5	CHEM 87 102	anti-bacillaire
+T6	CHEM 112 143	amoxicilline acide clavulanique
+T7	DOSE 145 148	3 g
+T8	TEMP 148 153	/jour
+T9	MEAS 174 183	favorable
+T10	DISO 211 218	dyspnée
+T11	DISO 226 255	symptômes neuropsychiatriques
+T12	PHEN 259 265	humeur
+T13	DISO 314 333	troubles bipolaires
+T14	TEMP 347 358	une semaine
+T15	LIVB 407 417	nouveau-né
+T16	PROC 457 466	admission

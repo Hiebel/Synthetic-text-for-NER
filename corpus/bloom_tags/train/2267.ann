@@ -1,0 +1,22 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	8 ans
+T3	DISO 39 90	tuberculose ostéomyéliale latéropulmonaire associée
+T4	LIVB 92 94	Sa
+T5	PROC 95 116	recherche étiologique
+T6	MEAS 129 137	positive
+T7	DISO 188 210	maladie immunodéprimée
+T8	TEMP 270 281	depuis 1 an
+T9	DISO 356 384	atteinte bronchiodilatatrice
+T10	ANAT 365 384	bronchiodilatatrice
+T11	PROC 416 437	prélèvement biopsique
+T12	PROC 455 485	diagnostic anatomopathologique
+T13	DISO 491 528	granulome épithélio-gigantocellulaire
+T14	Localization 557 564	médiane
+T15	PROC 646 684	traitement antibacillaire probabiliste
+T16	PROC 697 728	curage liquidien intra-trachéal
+T17	ANAT 704 728	liquidien intra-trachéal
+T18	PROC 839 870	examen anatomo-patholographique
+T19	DISO 892 906	carcinomateuse
+T20	DEVI 916 935	cellules pléomorphe
+T21	MEAS 1020 1035	entre 5 et 15mm
+T22	Concept_Idea 1039 1048	grand axe

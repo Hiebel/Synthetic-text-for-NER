@@ -1,0 +1,20 @@
+T1	LIVB 29 37	patiente
+T2	PROC 81 93	consultation
+T3	LIVB 125 133	patiente
+T4	DISO 139 176	diabète non insulino-reprogrammatique
+T5	DISO 198 214	maladie cœliaque
+T6	PROC 262 270	adressée
+T7	Hospital 275 313	urgences ophtalmologiques pédiatriques
+T8	PROC 319 346	prise en charge ambulatoire
+T9	PROC 352 367	examen clinique
+T10	ANAT 384 388	yeux
+T11	ANAT 493 497	peau
+T12	DISO 544 567	anomalies radiologiques
+T13	PHEN 583 609	fonction réticulo-oculaire
+T14	ANAT 592 609	réticulo-oculaire
+T15	MEAS 614 624	comparable
+T16	Concept_Idea 660 675	acuité visuelle
+T17	MEAS 684 714	légèrement supérieur à 5/10 cm
+T18	Concept_Idea 727 746	aspect histologique
+T19	DISO 827 852	symptomatologie somatique
+T20	DISO 1121 1147	pathologies auto-infligées

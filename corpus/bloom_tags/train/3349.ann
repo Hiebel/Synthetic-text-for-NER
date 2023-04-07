@@ -1,0 +1,31 @@
+T1	LIVB 29 37	patiente
+T2	PROC 61 67	admise
+T3	Hospital 72 94	urgences chirurgicales
+T5	DISO 120 144	masse abdomino-pelvienne
+T6	ANAT 126 144	abdomino-pelvienne
+T7	TEMP 154 170	depuis deux mois
+T8	MEAS 182 192	rapidement
+T9	Concept_Idea 196 202	volume
+T10	MEAS 218 233	progressivement
+T11	Concept_Idea 237 243	taille
+T12	MEAS 253 256	5cm
+T13	MEAS 261 265	2 cm
+T14	Concept_Idea 268 274	aspect
+T15	MEAS 275 289	blanc-grisâtre
+T16	DISO 340 370	déficit moteur sensitivomoteur
+T17	LIVB 398 406	patiente
+T18	DISO 426 451	neurofibriplégie primaire
+T19	DISO 458 509	polypneuropathie hypokaliémique néphrotique maligne
+T20	CHEM 544 562	méthylprednisolone
+T21	DOSE 565 572	1 mg/kg
+T22	TEMP 572 574	/j
+T23	CHEM 577 591	hydrocortisone
+T24	DOSE 594 599	50 mg
+T25	TEMP 599 607	/semaine
+T26	Concept_Idea 704 727	potentiel thérapeutique
+T27	PROC 765 784	mesures préventives
+T28	PROC 798 824	bilan étiologique adjuvant
+T29	PROC 838 861	diagnostic radiologique
+T30	PROC 888 918	échographie abdomino-pelvienne
+T31	ANAT 900 918	abdomino-pelvienne
+T32	MEAS 986 997	hypointense

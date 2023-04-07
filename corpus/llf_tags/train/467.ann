@@ -1,0 +1,77 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 33 40	18 mois
+T3	PHEN 52 61	grossesse
+T4	PROC 66 72	suivie
+T5	LIVB 87 94	parents
+T6	Hospital 99 120	urgences pédiatriques
+T7	CHEM 143 174	amoxicilline acide clavulanique
+T8	DOSE 176 184	1 gramme
+T9	TEMP 184 186	/j
+T10	PROC 217 237	néphrectomie urgente
+T11	Hospital 250 284	service de gynécologie obstétrique
+T12	DEVI 303 327	matériel d'ostéosynthèse
+T13	PROC 347 359	intervention
+T14	MEAS 392 402	favorables
+T15	PROC 425 434	transfusé
+T16	PROC 458 484	exsaturation intraveineuse
+T17	TEMP 498 506	3 heures
+T18	PROC 520 544	mastectomie exploratrice
+T19	DISO 581 601	récidive néoplasique
+T20	DISO 611 635	malformation congénitale
+T21	PROC 682 710	consultation préanesthésique
+T22	DISO 731 749	signe histologique
+T23	DISO 777 799	métastase métastatique
+T24	DISO 817 840	lésion tumorale maligne
+T25	DISO 857 946	prolifération tissulaire polylobée hétérogène kératinisée hypodense hyperbasocarbonateuse
+T26	MEAS 956 963	16x13mm
+T27	ANAT 980 1006	lambeau veineux thoracique
+T28	ANAT 1026 1044	anses intestinales
+T29	ANAT 1088 1104	annexes cutanées
+T30	ANAT 1124 1146	région charnue fovéale
+T31	PROC 1171 1192	biopsie scanno-guidée
+T32	ANAT 1260 1279	structure pelvienne
+T33	ANAT 1329 1348	cellules fusiformes
+T34	MEAS 1526 1537	blanchâtres
+T35	MEAS 1563 1590	macroscopiquement atypiques
+T36	PROC 1643 1675	scanner thoraco-abdomino-pelvien
+T37	ANAT 1651 1675	thoraco-abdomino-pelvien
+T38	DISO 1712 1745	remaniements angiomateux myxoïdes
+T39	MEAS 1797 1810	6 centimètres
+T40	DISO 1844 1878	zones mésentériques réactionnelles
+T41	DISO 2002 2051	tumeur érythémato-papulo-mandibulaire infiltrante
+T42	DISO 2057 2062	TWRNP
+T43	PROC 2072 2097	classification TNMACScan®
+T44	DISO 2358 2379	malignité congénitale
+T45	DISO 2398 2461	adénocarcinome endothélial du péritoine pariétal intrahépatique
+T46	ANAT 2428 2461	péritoine pariétal intrahépatique
+T47	DISO 2468 2523	métasplénomégalie achromique nodulaire eccrine aortique
+T48	PHEN 2540 2558	suites opératoires
+T49	MEAS 2567 2574	simples
+T50	LIVB 2581 2588	patient
+T51	PROC 2602 2632	traitement médical substitutif
+T52	CHEM 2645 2676	amoxicilline acide clavulanique
+T53	CHEM 2680 2694	gentaméthasone
+T54	Concept_Idea 2704 2734	résultats anatomopathologiques
+T55	PROC 2748 2757	transféré
+T56	Hospital 2762 2781	urgences digestives
+T57	DISO 2801 2828	détresse respiratoire aiguë
+T58	PROC 2845 2860	hospitalisation
+T59	TEMP 2870 2896	21 ème jour postopératoire
+T60	PROC 2905 2930	réanimation préopératoire
+T61	PROC 2965 2977	surveillance
+T62	DISO 2993 3003	difficulté
+T63	DISO 3007 3027	trouble neurologique
+T64	PROC 3040 3059	suivi échographique
+T65	DISO 3091 3119	perforation tumorale maligne
+T66	DISO 3139 3173	vomissements bilieux hyperalgiques
+T67	DISO 3196 3232	hypertrophie mamelonnaire secondaire
+T68	Concept_Idea 3267 3286	aspect histologique
+T69	DISO 3331 3377	neurofibromatose mucoviscidosique monophasique
+T70	DISO 3398 3436	ostéosynthèse chondrocalcique invasive
+T71	DISO 3450 3496	néphropathie polymicroblastique carcinomateuse
+T72	DISO 3512 3562	déglobulisation adrénalienne lobulée hypokinétique
+T73	DISO 3581 3625	hyperkératose pachyocytaire rétroplacentaire
+T74	DISO 3647 3680	myxomatose psoriasiforme kystique
+T75	DISO 3699 3744	insuffisance respiratoire chronique terminale
+T76	ANAT 3712 3744	respiratoire chronique terminale
+T77	DISO 3782 3811	maladie de Von Recklinghausen

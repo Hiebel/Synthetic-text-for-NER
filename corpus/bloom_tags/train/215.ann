@@ -1,0 +1,31 @@
+T1	LIVB 20 28	patiente
+T2	DISO 50 68	ATCD pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 79 85	admise
+T5	Hospital 90 98	urgences
+T6	DISO 108 138	douleur épigastrique chronique
+T7	ANAT 116 128	épigastrique
+T8	MEAS 153 160	modérée
+T9	TEMP 170 183	depuis 2 mois
+T10	PROC 187 202	examen clinique
+T11	DISO 216 247	masse du péritoine épigastrique
+T12	ANAT 225 247	péritoine épigastrique
+T13	Concept_Idea 250 256	aspect
+T14	MEAS 257 275	légèrement arrondi
+T15	MEAS 285 289	7 cm
+T16	Concept_Idea 293 302	grand axe
+T17	PHEN 312 333	contractions utérines
+T18	ANAT 325 333	utérines
+T19	MEAS 334 342	intenses
+T20	PROC 347 362	toucher vaginal
+T21	ANAT 355 362	vaginal
+T22	MEAS 369 375	normal
+T23	PROC 389 411	échographie abdominale
+T24	ANAT 401 411	abdominale
+T25	PROC 418 454	tomodensitométrie cervico-ombilicale
+T26	ANAT 436 454	cervico-ombilicale
+T27	MEAS 463 471	normales
+T28	DISO 487 555	adénopathie jugulo-carotidienne péripéritonéale latéro-surrénalienne
+T30	DISO 569 607	syndrome d'épanchement intrapéritonéal
+T31	ANAT 592 607	intrapéritonéal
+T32	ANAT 633 652	parenchyme grêlique

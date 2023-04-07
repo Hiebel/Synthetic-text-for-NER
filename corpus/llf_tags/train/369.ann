@@ -1,0 +1,29 @@
+T1	ANAT 50 54	foie
+T2	MEAS 57 62	20 mm
+T3	MEAS 65 70	50 mm
+T4	MEAS 76 79	90%
+T5	ANAT 111 135	segment iléal céphalique
+T6	ANAT 219 245	moelle urétrale fovéolaire
+T7	ANAT 270 297	masse tissulaire transverse
+T9	ANAT 425 493	bronches vesiculaires mésentériques fœtales digestives éjaculatoires
+T11	ANAT 643 704	séance œso-gastro-intestinale basithoracique préaphragmatique
+T12	Concept_Idea 717 737	aspect morphologique
+T13	DISO 754 803	tumeur primitive évolutive épidermoneuse kystique
+T15	CHEM 2052 2061	lidocaïne
+T16	PROC 2080 2088	contrôle
+T17	TEMP 2157 2167	quatre ans
+T18	LIVB 2178 2185	patient
+T19	DISO 2252 2270	mariage consanguin
+T20	PROC 2290 2297	adressé
+T21	Hospital 2301 2316	bloc opératoire
+T22	DISO 2389 2397	récidive
+T23	PHEN 2402 2411	grossesse
+T24	PROC 2432 2453	consultation médicale
+T25	PROC 2482 2507	chimiothérapie palliative
+T26	CHEM 2513 2535	amoxicilline botulique
+T27	PROC 2549 2577	hormonothérapie néoadjuvante
+T28	PROC 2610 2642	radio chimiothérapie parentérale
+T29	PROC 2665 2670	suivi
+T30	DISO 2687 2694	maladie
+T31	TEMP 2705 2711	2 mois
+T32	PROC 2722 2731	admission

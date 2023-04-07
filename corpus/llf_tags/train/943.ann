@@ -1,0 +1,52 @@
+T1	LIVB 20 28	patiente
+T2	DISO 60 69	dysphagie
+T3	DISO 76 96	souffrance digestive
+T4	PHEN 87 96	digestive
+T5	DISO 107 133	symptômes psychosomatiques
+T6	MEAS 153 158	trois
+T7	LIVB 159 168	collègues
+T8	LIVB 183 187	elle
+T9	PROC 203 234	corticothérapie antipsychotique
+T10	DISO 271 296	hallucinations délirantes
+T11	PROC 324 342	traitement médical
+T12	PROC 348 363	examen clinique
+T13	LIVB 368 376	patiente
+T14	PROC 387 395	adressée
+T15	Hospital 399 414	bloc opératoire
+T16	PROC 420 439	bilan préopératoire
+T17	DISO 462 483	récidive neurologique
+T18	PROC 499 513	neuroleptiques
+T19	PROC 566 576	extubation
+T20	DISO 609 635	décollements hémorragiques
+T21	MEAS 765 772	simples
+T22	PROC 779 816	tumorectomie bilatérale scanno-guidée
+T24	Localization 847 853	droite
+T25	ANAT 912 946	parties molles cervico-thoraciques
+T26	ANAT 963 985	fentes labio-palatines
+T27	ANAT 996 1028	rectorragies antro-mandibulaires
+T28	PROC 1102 1125	remplissage chirurgical
+T29	PROC 1149 1157	incision
+T30	MEAS 1244 1248	7 mm
+T31	MEAS 1252 1257	11 mm
+T32	MEAS 1304 1308	10mm
+T33	MEAS 1312 1317	12 mm
+T34	ANAT 1488 1500	rein droites
+T36	PROC 1538 1557	fermeture partielle
+T37	DEVI 1582 1615	contenu hydro-aréolaire percutané
+T38	PROC 1642 1648	enlevé
+T39	PROC 1685 1722	toilette cardio-respiratoire profonde
+T40	ANAT 1694 1722	cardio-respiratoire profonde
+T41	PROC 1741 1754	lavage cutané
+T42	ANAT 1748 1754	cutané
+T44	LIVB 2198 2216	familles germaines
+T46	Concept_Idea 2348 2352	sexe
+T47	PHEN 2357 2375	mariage consanguin
+T48	TEMP 2388 2404	environ 30 jours
+T49	DISO 2418 2425	maladie
+T50	MEAS 2476 2483	simples
+T51	LIVB 2502 2512	nouveau-né
+T52	DISO 2566 2583	choc hémorragique
+T53	DISO 2604 2616	métrorragies
+T54	PROC 2649 2730	curage colo-anastomoseilocytaire superficiel intrasinusien postéro-latéral gauche
+T56	Localization 2724 2730	gauche
+T57	PROC 2749 2754	suivi

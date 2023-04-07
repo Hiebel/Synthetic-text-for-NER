@@ -1,0 +1,93 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	9 ans
+T3	DISO 40 65	antécédents pathologiques
+T4	MEAS 66 74	notables
+T5	PROC 76 87	hospitalisé
+T6	Hospital 92 141	hôpital militaire d'instruction Mohammed V de Fès
+T7	DISO 151 172	détresse respiratoire
+T8	PHEN 160 172	respiratoire
+T9	DISO 179 221	syndrome d'épanchement péribuccal purulent
+T10	ANAT 202 212	péribuccal
+T11	TEMP 231 248	depuis trois mois
+T12	PROC 252 267	examen clinique
+T13	DISO 281 310	troubles du tonus oculomoteur
+T15	ANAT 299 310	oculomoteur
+T16	Concept_Idea 315 326	température
+T17	MEAS 344 348	36°C
+T18	PROC 353 369	bilan infectieux
+T19	PROC 371 390	protéine C réactive
+T20	PROC 392 419	numération formule sanguine
+T21	PROC 433 466	dosage d'anticorps antinucléaires
+T22	MEAS 474 481	négatif
+T23	PROC 488 536	sérologies virales d'immunodépression systémique
+T24	MEAS 545 555	négativées
+T25	DISO 572 597	maladie cétonévrolymphome
+T26	LIVB 599 602	Ses
+T27	PROC 603 632	prélèvements bactériologiques
+T28	MEAS 646 654	positifs
+T29	CHEM 658 669	Ceftriaxone
+T30	CHEM 703 716	métronidazole
+T31	CHEM 725 739	ciprofloxacine
+T32	PROC 742 777	intradermoréaction à la tuberculine
+T33	CHEM 766 777	tuberculine
+T34	MEAS 790 798	positive
+T35	MEAS 801 807	1/1250
+T36	PROC 814 837	recherche immunologique
+T37	PROC 842 847	ELISA
+T38	DOSE 852 856	2 ml
+T39	DEVI 860 901	liquide ELISA® Ultra Low IgG/4 CHBiotech®
+T40	PROC 916 952	tomodensitométrie abdomino-pelvienne
+T41	ANAT 934 952	abdomino-pelvienne
+T42	DISO 966 1025	masse tumorale arrondie latéro-sigmoïdaire droite hypodense
+T43	Localization 1009 1015	droite
+T44	MEAS 1035 1040	29 cm
+T45	Concept_Idea 1044 1053	grand axe
+T46	MEAS 1062 1066	3 cm
+T47	Concept_Idea 1070 1081	profondeurs
+T48	CHEM 1102 1129	produits de contraste iodés
+T49	MEAS 1145 1155	modérément
+T50	Concept_Idea 1159 1165	taille
+T51	DISO 1197 1210	particularité
+T52	DISO 1243 1296	adénopathies jugulo-carotidiennes cervico-thoraciques
+T53	ANAT 1256 1296	jugulo-carotidiennes cervico-thoraciques
+T54	DISO 1307 1332	localisations secondaires
+T55	DISO 1377 1400	myxome kystique nécrosé
+T56	LIVB 1428 1436	patiente
+T57	TEMP 1445 1451	10 ans
+T58	DISO 1503 1516	consanguinité
+T59	LIVB 1532 1541	patientes
+T60	PROC 1546 1567	échographie pelvienne
+T61	ANAT 1558 1567	pelvienne
+T62	DISO 1588 1631	masse tissulaire échogène hypo-vascularisée
+T63	ANAT 1661 1676	parois utérines
+T64	ANAT 1696 1702	utérus
+T65	ANAT 1723 1743	fosse recto-vaginale
+T66	ANAT 1762 1780	cavité péritonéale
+T67	DISO 1839 1846	rupture
+T68	PROC 1860 1882	biologie intraveineuse
+T69	MEAS 1896 1903	normale
+T70	PROC 1908 1925	natrémie corrigée
+T71	MEAS 1934 1943	135 meq/l
+T73	MEAS 2079 2093	150µmol/kg/min
+T74	MEAS 2096 2111	100 µmol/kg/min
+T75	PROC 2126 2148	furosémoglobine totale
+T76	MEAS 2166 2177	120 mg/mm 2
+T77	PROC 2183 2220	traitement anti hypertenseur pariétal
+T78	CHEM 2194 2220	anti hypertenseur pariétal
+T79	MODE 2226 2242	sous-oesophagien
+T80	DISO 2374 2389	symptomatologie
+T81	MEAS 2404 2420	progressionnelle
+T82	MEAS 2430 2444	plus accentuée
+T83	LIVB 2457 2461	elle
+T84	DISO 2509 2525	douleur vulvaire
+T85	ANAT 2517 2525	vulvaire
+T86	MEAS 2556 2571	progressivement
+T87	Concept_Idea 2575 2581	volume
+T88	PROC 2628 2653	intervention chirurgicale
+T89	PROC 2670 2681	extirpation
+T90	DISO 2687 2702	kyste hydatique
+T91	ANAT 2716 2726	col utérin
+T92	PROC 2740 2765	curage ovarien transfixié
+T93	ANAT 2747 2765	ovarien transfixié
+T94	PROC 2778 2816	anastomose artério-veineuse iléocæcale
+T95	ANAT 2789 2816	artério-veineuse iléocæcale

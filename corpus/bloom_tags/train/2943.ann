@@ -1,0 +1,17 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	7 ans
+T3	LIVB 39 42	ses
+T4	LIVB 43 50	parents
+T5	MEAS 86 92	rapide
+T6	LIVB 96 98	il
+T7	PROC 161 174	radiologiques
+T8	DISO 202 224	traumatisme congénital
+T9	PROC 238 247	admission
+T10	Concept_Idea 252 270	état hémodynamique
+T11	DISO 332 349	céphalées fébrile
+T12	MEAS 362 370	38-40° C
+T13	DISO 387 406	douleurs pelviennes
+T14	ANAT 396 406	pelviennes
+T15	MEAS 441 455	très fortement
+T16	Concept_Idea 459 465	volume
+T17	DISO 655 666	pathologies

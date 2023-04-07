@@ -1,0 +1,28 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	Concept_Idea 38 49	antécédents
+T4	MEAS 50 62	particuliers
+T5	PROC 64 69	admis
+T6	Hospital 74 82	urgences
+T7	DISO 95 116	perte de connaissance
+T8	PROC 120 135	examen clinique
+T9	LIVB 152 158	enfant
+T10	MEAS 162 165	bon
+T11	Concept_Idea 166 178	état général
+T12	PHEN 188 201	signes vitaux
+T13	MEAS 202 211	conservés
+T14	MEAS 227 231	37°C
+T15	ANAT 233 244	tachycardie
+T16	MEAS 247 265	100 battements/min
+T17	PROC 271 290	bilan préopératoire
+T18	PROC 304 312	natrémie
+T19	MEAS 315 327	133 meq/mm 3
+T20	PROC 335 343	kaliémie
+T21	MEAS 346 355	120 meq/l
+T22	PROC 359 388	auscultation cutanéo-muqueuse
+T23	ANAT 372 388	cutanéo-muqueuse
+T24	MEAS 395 402	normale
+T25	PROC 416 438	examen ophtalmologique
+T26	DISO 472 523	atteinte sensitivomotrice du membre supérieur droit
+T27	ANAT 501 523	membre supérieur droit
+T28	Localization 518 523	droit

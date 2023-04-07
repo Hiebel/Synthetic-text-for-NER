@@ -1,0 +1,33 @@
+T1	LIVB 15 23	patiente
+T2	DISO 45 70	antécédents pathologiques
+T3	MEAS 71 83	particuliers
+T4	PROC 94 100	admise
+T5	Hospital 105 113	urgences
+T6	DISO 123 156	douleurs du plexus brachial droit
+T7	ANAT 135 156	plexus brachial droit
+T8	Localization 151 156	droit
+T9	TEMP 166 184	depuis trois jours
+T10	PROC 188 203	examen clinique
+T11	LIVB 215 223	patiente
+T12	MEAS 227 234	mauvais
+T13	Concept_Idea 235 247	état général
+T14	PROC 257 269	auscultation
+T15	DISO 288 309	distension abdominale
+T16	ANAT 299 309	abdominale
+T17	DISO 316 328	râle laryngé
+T18	ANAT 337 361	bassin thoracique gauche
+T19	Localization 355 361	gauche
+T20	PHEN 366 378	mobilisation
+T21	MEAS 385 400	progressivement
+T22	DISO 446 470	signe neuropsychiatrique
+T23	DISO 488 515	symptomatologie infectieuse
+T24	PROC 528 538	examen ORL
+T25	DISO 554 574	déficience cognitive
+T26	DISO 584 602	lésion traumatique
+T27	PROC 631 688	biopsie scanno-guidée cervico-thoraco- abdomino-pelvienne
+T28	PROC 707 724	anesthésie locale
+T29	PROC 738 761	radiothérapie adjuvante
+T30	CHEM 763 773	corticoïde
+T31	CHEM 776 784	fentanyl
+T32	PROC 790 800	traitement
+T33	DISO 963 971	récidive

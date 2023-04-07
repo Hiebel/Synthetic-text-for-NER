@@ -1,0 +1,41 @@
+T1	LIVB 29 37	patiente
+T2	Concept_Idea 58 78	caractères cliniques
+T3	MEAS 79 91	particuliers
+T4	DISO 112 125	signes locaux
+T5	DISO 128 139	épigastrite
+T6	DISO 179 202	syndrome pseudo-grippal
+T7	DISO 217 232	symptomatologie
+T8	TEMP 242 255	depuis 2 mois
+T9	PROC 260 284	scanner abdomino-pelvien
+T10	ANAT 268 284	abdomino-pelvien
+T11	DISO 311 356	hernie grêlo-utérine bilithiasique incarcérée
+T13	ANAT 380 400	fosse iliaque droite
+T14	Localization 394 400	droite
+T15	ANAT 419 434	greffon vésical
+T16	DISO 449 472	splénomégalie polylobée
+T17	ANAT 494 527	structures musculaires pelviennes
+T18	ANAT 547 563	annexes urétraux
+T19	DISO 629 664	sténose sus-vésicale glande utérine
+T20	ANAT 637 664	sus-vésicale glande utérine
+T21	DISO 696 716	métastases kystiques
+T22	PROC 719 755	intradermo-réaction à la tuberculine
+T23	CHEM 744 755	tuberculine
+T24	MEAS 762 770	négative
+T25	PROC 787 801	examen général
+T26	DISO 828 841	particularité
+T27	PROC 846 867	échographie pelvienne
+T28	ANAT 858 867	pelvienne
+T29	PHEN 893 909	fonction rectile
+T30	ANAT 902 909	rectile
+T31	MEAS 910 919	conservée
+T33	PROC 933 955	TDM abdomino-pelvienne
+T34	ANAT 937 955	abdomino-pelvienne
+T35	DISO 980 1011	insuffisance ventriculo-rectale
+T36	ANAT 993 1011	ventriculo-rectale
+T37	MEAS 1023 1026	20%
+T38	PROC 1033 1047	administration
+T39	CHEM 1051 1066	furoséméthasone
+T40	PROC 1082 1107	geste médical chirurgical
+T41	DISO 1139 1147	myalgies
+T42	DISO 1158 1189	complications thromboemboliques
+T43	LIVB 1191 1195	nous

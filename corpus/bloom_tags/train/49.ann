@@ -1,0 +1,45 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	9 ans
+T3	PHEN 62 82	grossesse gémellaire
+T4	ANAT 108 118	voie basse
+T5	PROC 125 144	traité médicalement
+T6	DISO 154 197	syndrome d'épanchement liquidien péritonéal
+T7	ANAT 177 197	liquidien péritonéal
+T8	PROC 201 231	échographie abdomino-pelvienne
+T9	ANAT 213 231	abdomino-pelvienne
+T11	Localization 294 302	centrale
+T12	PROC 386 431	tomodensitométrie thoraco- abdomino-pelvienne
+T13	ANAT 404 431	thoraco- abdomino-pelvienne
+T14	PROC 452 476	anesthésie locorégionale
+T15	ANAT 463 476	locorégionale
+T16	Hospital 480 508	service d'urétrocystoplastie
+T17	DISO 544 562	signes secondaires
+T18	PROC 567 588	bilan phosphocalcique
+T19	PROC 602 639	exérèse chirurgicale transpéritonéale
+T20	Hospital 680 701	urgences pédiatriques
+T21	Hospital 714 765	hôpital militaire d'instruction Mohammed V de Rabat
+T22	PROC 772 801	avis éclairé pré-anesthésique
+T23	PROC 925 964	complément d'immunodépression adjuvante
+T24	CHEM 1043 1054	Ceftriaxone
+T25	CHEM 1056 1067	Gentamicine
+T26	CHEM 1069 1085	Sulfamethoxazole
+T27	CHEM 1087 1099	Pyrazinamide
+T28	CHEM 1101 1112	Ethionamide
+T29	CHEM 1114 1124	Bromoprime
+T30	CHEM 1126 1141	Chloramphénicol
+T31	CHEM 1143 1156	Triméthoprime
+T32	CHEM 1158 1169	Nifédiprine
+T33	CHEM 1171 1182	Vinblastine
+T34	CHEM 1184 1194	Rifentanil
+T35	CHEM 1196 1208	Simvastatine
+T36	CHEM 1210 1223	Phénobarbital
+T37	CHEM 1225 1236	Halopéridol
+T38	CHEM 1238 1250	Proparanolol
+T39	CHEM 1252 1260	Diazépam
+T40	CHEM 1262 1275	noradrénaline
+T41	CHEM 1277 1297	hydroxy progestérone
+T42	CHEM 1299 1308	midazolam
+T43	CHEM 1310 1320	furosémide
+T44	CHEM 1322 1332	dobutamine
+T45	CHEM 1334 1347	triméthoprime
+T46	LIVB 1383 1391	patiente

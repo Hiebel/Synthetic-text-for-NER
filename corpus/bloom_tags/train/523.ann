@@ -1,0 +1,24 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 75	particuliers
+T5	DISO 103 122	surdité congénitale
+T6	DISO 129 149	syndrome néphrotique
+T7	DISO 159 179	atteinte métabolique
+T8	PHEN 202 225	croissance psychomoteur
+T9	MEAS 226 249	progressivement avancée
+T10	MEAS 325 329	5 kg
+T11	TEMP 346 354	deux ans
+T12	TEMP 424 438	pendant 9 mois
+T13	PROC 452 483	radiothérapie externe adjuvante
+T14	CHEM 555 569	hydrocortisone
+T15	CHEM 572 583	Cyclosérine
+T16	CHEM 608 621	ethaméthasone
+T17	DOSE 637 646	0,05mg/kg
+T18	TEMP 646 648	/h
+T19	CHEM 663 676	noradrénaline
+T20	DOSE 677 683	1µg/kg
+T21	MODE 684 703	voie intra veineuse
+T22	PROC 716 738	diagnostic étiologique
+T23	DISO 779 804	symptômes neurosensoriels
+T24	LIVB 855 862	famille

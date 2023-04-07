@@ -1,0 +1,63 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 61 62	3
+T3	LIVB 63 70	garçons
+T4	PHEN 131 140	grossesse
+T5	TEMP 151 156	24 SA
+T6	TEMP 195 203	16 jours
+T7	LIVB 210 212	sa
+T8	PROC 213 235	consultation prénatale
+T9	PROC 239 259	examen gynécologique
+T10	Hospital 272 293	urgences pédiatriques
+T11	LIVB 305 317	petite fille
+T12	MEAS 325 337	3700 grammes
+T13	MEAS 343 361	10 fois la normale
+T14	MEAS 370 384	40 centimètres
+T15	MEAS 390 403	7 centimètres
+T16	ANAT 412 432	plan postéro-externe
+T17	MEAS 442 456	12 centimètres
+T18	MEAS 459 472	6 centimètres
+T19	PROC 511 535	échographie obstétricale
+T20	ANAT 565 616	conjonctives antrecessors cervico-abdomino-ovariens
+T21	DEVI 634 647	anse jéjunale
+T22	ANAT 657 666	péritoine
+T23	MEAS 676 690	15 centimètres
+T24	PROC 710 753	laparotomie exploratrice multidisciplinaire
+T25	ANAT 769 789	sein antérieur droit
+T26	Localization 774 789	antérieur droit
+T27	MEAS 797 811	21 centimètres
+T28	ANAT 826 837	Sein gauche
+T29	Localization 831 837	gauche
+T30	MEAS 845 859	22 centimètres
+T31	ANAT 873 875	VG
+T32	MEAS 883 897	18 centimètres
+T33	Concept_Idea 951 977	caractéristiques cliniques
+T34	DISO 1040 1067	lésions neurofibromatérales
+T35	DISO 1104 1129	déficit moteur congénital
+T36	DISO 1215 1237	troubles psychomoteurs
+T37	PROC 1659 1693	investigations pluridisciplinaires
+T38	DISO 1721 1745	complications somatiques
+T39	DISO 1791 1810	accident du travail
+T40	DISO 1818 1841	contractures mécaniques
+T41	LIVB 1875 1882	parents
+T42	DISO 1921 1932	traumatisme
+T43	LIVB 2165 2172	enfants
+T44	DISO 2245 2265	symptômes dépressifs
+T45	PHEN 2313 2329	gestes délirants
+T46	TEMP 2409 2428	au moins trois mois
+T47	DISO 2520 2540	distension fémorolèe
+T48	ANAT 2531 2540	fémorolèe
+T49	TEMP 2612 2625	sept semaines
+T50	LIVB 2633 2636	son
+T51	LIVB 2637 2648	petit frère
+T52	TEMP 2656 2665	trois ans
+T53	PROC 2672 2681	transfusé
+T54	CHEM 2711 2734	sérum salé hypertonique
+T55	CHEM 2757 2786	cristalloïdes glucocorticoïde
+T56	CHEM 2810 2823	béthamétasone
+T57	CHEM 2849 2864	chloramphénicol
+T58	MEAS 2972 2981	très vite
+T59	DISO 3152 3176	décompensations motrices
+T60	DISO 3223 3233	dysphagies
+T61	DISO 3263 3301	vomissements psychiatriques chroniques
+T62	DISO 3317 3341	hallucinations visuelles
+T63	DISO 3358 3389	syndrome délirant convulsionnel

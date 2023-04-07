@@ -1,0 +1,25 @@
+T1	LIVB 3 13	nouveau-né
+T2	TEMP 37 47	deux jours
+T3	Concept_Idea 49 55	pesant
+T4	MEAS 56 68	1700 grammes
+T5	PHEN 73 99	développement psychomoteur
+T6	PROC 110 125	examen prénatal
+T7	DISO 156 178	traumatisme congénital
+T8	LIVB 261 280	grand père paternal
+T9	PROC 285 306	échographie pelvienne
+T10	ANAT 297 306	pelvienne
+T11	PROC 321 345	anesthésie locorégionale
+T12	ANAT 332 345	locorégionale
+T13	ANAT 379 417	sus péritonéal latéro-sigmoïdien droit
+T14	Localization 412 417	droit
+T15	MEAS 459 471	particuliers
+T16	LIVB 483 490	famille
+T17	LIVB 536 546	nouveau-né
+T18	TEMP 577 593	depuis 72 heures
+T19	MEAS 608 619	progressive
+T20	MEAS 629 637	brulante
+T21	DISO 661 695	douleurs abdominales constrictives
+T22	ANAT 670 695	abdominales constrictives
+T23	MEAS 708 712	5 cm
+T24	Concept_Idea 716 724	diamètre
+T25	DISO 795 816	dyspnée stade ECOHAAR

@@ -1,0 +1,10 @@
+T1	PROC 4 25	radiographie du genou
+T2	ANAT 20 25	genou
+T3	DISO 42 70	fracture de la hanche droite
+T4	ANAT 57 70	hanche droite
+T5	Localization 64 70	droite
+T6	MEAS 103 110	simples
+T7	LIVB 117 124	patient
+T8	PROC 131 136	sorti
+T9	TEMP 140 167	sixième jour postopératoire
+T10	TEMP 186 193	un mois

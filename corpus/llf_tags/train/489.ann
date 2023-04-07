@@ -1,0 +1,86 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 17 22	7 ans
+T3	DISO 51 58	diabète
+T4	DISO 66 89	hypertension artérielle
+T5	ANAT 79 89	artérielle
+T6	PROC 93 99	examen
+T7	DISO 116 132	râles crépitants
+T8	ANAT 146 162	plan sous cutané
+T9	PROC 173 182	palpation
+T10	DISO 201 219	processus expansif
+T11	ANAT 223 247	quadrant supero-extensif
+T12	MEAS 257 262	14 cm
+T13	Concept_Idea 266 275	petit axe
+T14	DISO 281 302	signes inflammatoires
+T15	DISO 306 319	hémorragiques
+T16	PROC 344 359	examen clinique
+T17	DISO 369 382	particularité
+T18	PROC 388 422	saturation pulsée en oxygène libre
+T19	CHEM 409 422	oxygène libre
+T20	TEMP 448 457	3 minutes
+T21	TEMP 478 487	5 minutes
+T22	DEVI 506 517	pousse main
+T23	ANAT 544 569	parties molles cervicales
+T24	Localization 571 577	droite
+T25	Localization 581 587	gauche
+T26	MEAS 625 632	simples
+T27	PHEN 637 650	cicatrisation
+T28	Concept_Idea 732 749	plans superficiel
+T29	Localization 753 760	profond
+T30	PROC 765 784	suivi préopératoire
+T31	DISO 801 821	déficit neurologique
+T32	DISO 831 858	récidive clinico-biologique
+T33	LIVB 895 902	patient
+T34	LIVB 998 1005	famille
+T35	DISO 1009 1023	décès néonatal
+T36	DISO 1041 1079	néphropathie hypokinétique congénitale
+T37	PROC 1102 1124	chirurgie orthopédique
+T38	LIVB 1139 1142	son
+T39	LIVB 1143 1149	épouse
+T40	PROC 1175 1218	traitement médical substitutif conservateur
+T41	LIVB 1270 1272	il
+T42	DISO 1284 1296	perdu de vue
+T43	MEAS 1326 1334	spontané
+T44	PROC 1357 1375	vie intracervicale
+T45	PROC 1381 1397	enquête médicale
+T46	LIVB 1467 1469	il
+T47	LIVB 1494 1501	enfants
+T48	DISO 1530 1552	consanguinité élective
+T49	LIVB 1578 1581	ses
+T50	LIVB 1582 1586	fils
+T51	DEVI 1615 1638	masque haute visibilité
+T52	LIVB 1654 1658	mère
+T53	DEVI 1675 1699	brody glass antigrêlique
+T54	PROC 1746 1763	examens cliniques
+T55	DISO 1790 1809	syndrome infectieux
+T56	DISO 1815 1841	maladie cœlio-occlusébrale
+T57	MEAS 1849 1854	2 ème
+T58	DOSE 2792 2797	10 mg
+T59	TEMP 2797 2799	/j
+T60	CHEM 2823 2834	corticoïdes
+T61	CHEM 2841 2852	vincristine
+T62	ANAT 2866 2888	membre supérieur droit
+T63	Localization 2883 2888	droit
+T64	PROC 2904 2914	traitement
+T65	PROC 2933 2961	chimiothérapie néo adjuvante
+T66	PROC 2974 2995	contrôle radiologique
+T67	DISO 3029 3062	complications neuropsychiatriques
+T68	DISO 3073 3082	récidives
+T69	Concept_Idea 3092 3122	résultats anatomopathologiques
+T70	MEAS 3137 3149	correctement
+T71	PROC 3173 3188	prise en charge
+T72	PROC 3217 3253	kinésithérapie psychopharmacologique
+T73	PROC 3286 3312	consultation psychiatrique
+T74	PROC 3327 3357	séances de rééducation motrice
+T75	PHEN 3383 3406	fonctionnement cognitif
+T76	DISO 3429 3454	symptomatologie délirante
+T77	PROC 3468 3502	thyroïdectomie totale exploratrice
+T78	LIVB 3576 3583	patient
+T79	PROC 3718 3727	circoncis
+T80	DISO 3783 3817	contage tuberculeux multiloculaire
+T81	LIVB 3833 3839	enfant
+T83	LIVB 3998 4001	lui
+T84	LIVB 4005 4007	sa
+T85	LIVB 4008 4020	petite fille
+T86	PROC 4071 4091	entretiens prénataux
+T87	Concept_Idea 4113 4145	partenariats socioprofessionnels

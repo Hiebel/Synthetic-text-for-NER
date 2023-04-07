@@ -1,0 +1,43 @@
+T1	LIVB 15 20	homme
+T2	MEAS 67 75	notables
+T3	PROC 77 88	hospitalisé
+T4	Hospital 93 101	urgences
+T5	DISO 110 137	syndrome hémorragique aigue
+T6	DISO 154 195	hémoglobinopathie hypochrome microcytaire
+T7	PROC 201 216	examen clinique
+T8	LIVB 220 227	patient
+T9	Concept_Idea 258 276	plan hémodynamique
+T10	DISO 291 299	anorexie
+T11	MEAS 311 314	2kg
+T12	TEMP 324 338	depuis 3 jours
+T13	PROC 343 362	numération sanguine
+T14	DISO 383 399	hyperleucocytose
+T15	MEAS 402 427	15300 éléments blancs/mm3
+T16	PROC 443 458	globules rouges
+T17	MEAS 461 474	12900000 /mm3
+T18	DISO 502 556	anémie normochrome normocytaire hypokaliémique fébrile
+T19	CHEM 562 595	vitamine B12 hydroxy-vitaminolent
+T20	DOSE 627 635	500mg/kg
+T21	CHEM 639 649	furosémide
+T22	DOSE 652 659	1 mg/kg
+T23	CHEM 663 679	méthyl-méthasone
+T24	MEAS 696 706	rapidement
+T25	Concept_Idea 710 716	volume
+T26	MEAS 728 733	10g/l
+T27	MEAS 736 741	30g/l
+T28	MEAS 822 830	intenses
+T29	DISO 853 915	adénopathies cervico-thoraciques inféro-supra-diaphragmonaires
+T31	MEAS 940 945	13 cm
+T32	MEAS 949 953	18cm
+T33	ANAT 974 980	pelvis
+T34	DISO 1011 1019	kystique
+T35	DISO 1132 1143	traumatique
+T36	DISO 1150 1168	pathophysiologique
+T37	PROC 1184 1215	échographie abdomino- pelvienne
+T38	ANAT 1196 1215	abdomino- pelvienne
+T39	PROC 1257 1271	toucher rectal
+T40	ANAT 1265 1271	rectal
+T41	MEAS 1285 1305	profondément invasif
+T42	DISO 1363 1410	masse tissulaire polaire arrondie bourgeonnante
+T43	MEAS 1435 1439	6 cm
+T44	Concept_Idea 1443 1452	grand axe

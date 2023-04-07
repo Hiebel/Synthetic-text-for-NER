@@ -1,0 +1,27 @@
+T1	LIVB 19 26	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 83 88	admis
+T5	Hospital 93 101	urgences
+T6	DISO 114 146	douleur épigastrique aiguë aigue
+T7	ANAT 122 134	épigastrique
+T8	DISO 162 187	vomissements alimentaires
+T9	PROC 191 206	examen clinique
+T10	LIVB 219 226	patient
+T11	MEAS 230 233	bon
+T12	Concept_Idea 234 252	état hémodynamique
+T13	PHEN 256 268	respiratoire
+T14	DISO 277 307	troubles hydro-électrolytiques
+T15	PROC 313 330	bilan d'extension
+T16	MEAS 337 344	négatif
+T17	PROC 348 379	échographie abdomino- pelvienne
+T18	ANAT 360 379	abdomino- pelvienne
+T19	DISO 406 458	lésion tissulaire du pancréas utérin inféro-sphincté
+T20	ANAT 427 458	pancréas utérin inféro-sphincté
+T21	CHEM 504 515	propranolol
+T22	MEAS 525 529	3 cm
+T23	MEAS 534 538	2 cm
+T24	DISO 559 639	hernie intra-parenchymateuse péripancréatico-interstitiel pancréatique étranglée
+T26	LIVB 664 671	patient
+T27	DISO 689 715	métastases carcinomateuses
+T28	ANAT 700 715	carcinomateuses

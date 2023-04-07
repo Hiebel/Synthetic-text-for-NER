@@ -1,0 +1,31 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 83 94	hospitalisé
+T5	Hospital 99 107	urgences
+T6	DISO 116 127	traumatisme
+T7	ANAT 141 156	sinus caverneux
+T8	DISO 174 204	dilatation des voies biliaires
+T9	ANAT 189 204	voies biliaires
+T10	PROC 208 237	échographie abdominopelvienne
+T11	ANAT 220 237	abdominopelvienne
+T12	DISO 265 300	masse tissulaire kystique hypodense
+T13	Concept_Idea 303 311	contours
+T14	MEAS 312 321	réguliers
+T15	MEAS 331 336	29 cm
+T16	Concept_Idea 340 349	grand axe
+T17	MEAS 353 358	18 cm
+T18	Concept_Idea 362 371	petit axe
+T19	PROC 399 408	injection
+T20	CHEM 411 425	hydrocortisone
+T21	DOSE 427 433	1mg/kg
+T22	TEMP 433 439	/heure
+T23	PROC 446 469	TDM abdomino- pelvienne
+T24	ANAT 450 469	abdomino- pelvienne
+T25	PROC 509 516	exérèse
+T26	PROC 522 550	c'lioscopie transpéritonéale
+T27	PROC 556 578	anastomose iléo-cæcale
+T28	ANAT 567 578	iléo-cæcale
+T29	MEAS 615 622	simples
+T30	PHEN 629 647	suites opératoires
+T31	DISO 682 690	récidive

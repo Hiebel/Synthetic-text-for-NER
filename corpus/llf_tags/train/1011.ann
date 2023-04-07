@@ -1,0 +1,18 @@
+T1	LIVB 32 42	nourrisson
+T2	TEMP 50 56	5 mois
+T3	DISO 85 127	broncho-pneumopathie chronique obstructive
+T4	Concept_Idea 137 140	âge
+T5	TEMP 144 150	6 mois
+T6	PROC 172 181	admission
+T7	Hospital 186 217	urgences médicales pédiatriques
+T8	DISO 230 263	tuméfaction ankylosante cervicale
+T9	PROC 385 400	examen clinique
+T10	LIVB 428 439	jeune fille
+T11	DISO 461 484	stérilité polymalformée
+T12	MEAS 516 521	trois
+T13	PHEN 522 545	grossesses monofoetales
+T14	ANAT 650 671	conjonctives buccales
+T15	DISO 737 761	bruits aigues crépitants
+T16	Localization 806 827	versant controlatéral
+T17	DISO 938 975	hallucinations auditives stridulantes
+T18	DISO 1151 1178	symptomatologie psychotique

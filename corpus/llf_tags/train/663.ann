@@ -1,0 +1,26 @@
+T1	LIVB 3 6	R.A
+T4	DISO 445 470	fractures du cuir chevelu
+T5	ANAT 458 470	cuir chevelu
+T6	DISO 477 491	amaigrissement
+T7	PROC 521 536	hospitalisation
+T8	Hospital 540 551	psychiatrie
+T9	Hospital 555 570	bloc opératoire
+T10	Concept_Idea 668 680	état général
+T11	DISO 727 744	trouble convulsif
+T12	DISO 755 784	symptômes neuropsychiatriques
+T13	DISO 799 814	signes généraux
+T14	PHEN 828 854	soins intensifs somatiques
+T15	TEMP 868 879	deux heures
+T16	PROC 899 914	examen clinique
+T17	DEVI 933 971	tableau dorso-ventro-lombaire cervical
+T18	DISO 976 984	boiterie
+T19	DISO 1000 1048	distension crânio-thoraco-abdominale congénitale
+T20	ANAT 1011 1048	crânio-thoraco-abdominale congénitale
+T21	DISO 1122 1140	bruits électriques
+T22	ANAT 1165 1181	troncs plexiques
+T23	DISO 1204 1216	déambulation
+T24	DISO 1291 1317	anomalie sensitivo-motrice
+T25	DISO 1384 1404	syndrome déliratoire
+T26	DISO 1592 1638	comportement schizophréniforme polymalformatif
+T27	PROC 2146 2177	traitements locaux substitutifs
+T28	PROC 2346 2378	antibiothérapies antibacillaires

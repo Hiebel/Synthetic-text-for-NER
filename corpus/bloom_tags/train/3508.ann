@@ -1,0 +1,26 @@
+T1	LIVB 3 9	garçon
+T2	TEMP 13 18	7 ans
+T3	Concept_Idea 20 26	pesant
+T4	MEAS 27 31	3 kg
+T5	Hospital 51 59	urgences
+T6	DISO 66 91	douleur abdominopelvienne
+T7	ANAT 74 91	abdominopelvienne
+T8	TEMP 101 115	depuis 3 jours
+T9	MEAS 130 136	rapide
+T10	MEAS 149 158	spontanée
+T11	MEAS 170 186	de façon intense
+T12	Concept_Idea 190 196	volume
+T13	PHEN 232 247	acuité visuelle
+T14	DISO 292 313	perte de connaissance
+T15	DISO 411 432	anomalie neurologique
+T16	DISO 457 479	prolifération tumorale
+T17	ANAT 509 526	organes viscéraux
+T18	PROC 653 675	surrénalectomie totale
+T19	LIVB 695 701	enfant
+T20	TEMP 709 715	13 ans
+T21	PROC 738 787	curage ganglionnaire pituitaire abdominorégionale
+T22	ANAT 745 787	ganglionnaire pituitaire abdominorégionale
+T23	PROC 801 835	résection mono-thoracique curative
+T24	TEMP 883 888	2 ans
+T25	PROC 915 944	radiothérapies intraveineuses
+T26	DEVI 959 982	sonde nasofibroscopique

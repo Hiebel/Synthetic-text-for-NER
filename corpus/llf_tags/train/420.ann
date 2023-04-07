@@ -1,0 +1,77 @@
+T1	LIVB 16 24	patiente
+T2	Concept_Idea 41 52	antécédents
+T3	MEAS 53 65	particuliers
+T4	PROC 76 88	hospitalisée
+T5	DISO 98 118	douleurs abdominales
+T6	ANAT 107 118	abdominales
+T7	PROC 136 156	prise médicamenteuse
+T8	MEAS 193 200	simples
+T9	PHEN 207 216	grossesse
+T10	LIVB 282 288	malade
+T11	LIVB 296 314	confrères médicaux
+T12	CHEM 343 359	cyclophosphamide
+T13	PROC 363 382	traitement adjuvant
+T14	PROC 391 419	chimiothérapie néo adjuvante
+T15	DOSE 434 439	100mg
+T16	TEMP 439 444	/jour
+T17	PROC 450 464	bilan clinique
+T18	DISO 483 504	récidive métastatique
+T19	DISO 514 534	déficit neurologique
+T20	DISO 544 574	facteur de risque psychosocial
+T21	PROC 592 618	corticothérapie palliative
+T22	TEMP 634 641	3e mois
+T23	PROC 654 687	radio-chimiothérapie probabiliste
+T24	PROC 715 747	scanner thoraco-abdomino-pelvien
+T25	ANAT 723 747	thoraco-abdomino-pelvien
+T26	PROC 771 797	cysto-IRM rétropéritonéale
+T27	DEVI 814 895	sulfate de magnésium type RXRF « FOLEZ® » selon la classification Doppler couleur
+T29	PROC 926 956	monitorage électrocardiogramme
+T30	DISO 983 1039	perforation sinusale hyperhétéro-médiastinale rétrograde
+T31	LIVB 1066 1074	patiente
+T32	TEMP 1083 1089	21 ans
+T33	PROC 1135 1173	laparotomie exploratrice scanno-guidée
+T34	PROC 1224 1248	échographie endovaginale
+T35	DISO 1271 1296	tuberculose nasopharyngée
+T36	ANAT 1283 1296	nasopharyngée
+T37	DISO 1312 1346	pneumopathie chronique obstructive
+T38	DISO 1376 1404	insuffisance tricuspide aigu
+T39	ANAT 1389 1399	tricuspide
+T40	TEMP 1414 1425	depuis 3ans
+T41	DISO 1440 1460	hypertriglycéridémie
+T42	DISO 1658 1692	symptômes obsessionnels compulsifs
+T43	Concept_Idea 1909 1928	objectifs délirants
+T44	DISO 2011 2037	maladie cœliaque primitive
+T45	Localization 2140 2162	versant infundibulaire
+T46	DISO 2179 2214	infestation tuberculeuse secondaire
+T47	LIVB 2347 2354	garçons
+T49	TEMP 2546 2552	17 ans
+T50	MEAS 2598 2607	16 x 8 cm
+T51	ANAT 2629 2645	parois vaginales
+T52	LIVB 2761 2768	enfants
+T53	DISO 2797 2818	infection bactérienne
+T54	PROC 2992 3019	anticorps anti-pancréastine
+T55	PROC 3026 3046	reprise chirurgicale
+T56	PROC 3062 3081	anesthésie générale
+T57	DEVI 3106 3113	broches
+T58	DISO 3138 3147	incidents
+T59	LIVB 3178 3188	nourrisson
+T60	PROC 3262 3272	traitement
+T61	TEMP 3289 3298	19 heures
+T62	PROC 3320 3343	transit scannographique
+T63	PHEN 3770 3779	grossesse
+T64	PROC 3784 3790	suivie
+T65	TEMP 3805 3816	38 semaines
+T66	LIVB 3828 3833	fille
+T67	CHEM 3848 3861	neuroleptique
+T68	DISO 3887 3928	problèmes neuropsychiatriques congénitaux
+T69	DISO 3936 3946	aménorrhée
+T70	TEMP 3974 3981	24 mois
+T71	TEMP 3985 3993	28 jours
+T72	PROC 3999 4014	radiodiagnostic
+T73	PROC 4039 4060	contrôle radiologique
+T74	PROC 4087 4112	radioprotection prénatale
+T75	LIVB 4188 4198	nouveau-né
+T76	LIVB 4366 4378	petit garçon
+T77	PROC 4403 4439	consultation pédiatrique spécialisée
+T78	LIVB 4499 4503	mère
+T79	TEMP 4512 4518	14 ans

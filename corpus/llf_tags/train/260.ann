@@ -1,0 +1,29 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	DISO 38 91	processus tissulaire de la paupière supérieure gauche
+T4	ANAT 65 91	paupière supérieure gauche
+T5	Localization 85 91	gauche
+T6	PROC 96 113	bilan d'extension
+T7	PROC 129 166	scintigraphie des cavités thoraciques
+T8	ANAT 147 166	cavités thoraciques
+T9	PROC 170 199	de l'abdomen sans préparation
+T10	ANAT 175 182	abdomen
+T11	MEAS 234 244	volumineux
+T12	DISO 245 274	processus fibro-iliaquetourci
+T13	Concept_Idea 284 314	résultats anatomopathologiques
+T14	DISO 339 387	tumeur à cellules mésenchymateuses métastasiques
+T15	ANAT 411 427	plan sous cutané
+T16	PROC 451 468	mise en condition
+T17	PROC 512 538	étude immuno-histochimique
+T18	LIVB 557 581	streptococcus agalactiae
+T19	CHEM 595 611	cyclophosphamide
+T20	DOSE 613 619	3mg/kg
+T21	TEMP 619 621	/j
+T22	CHEM 628 647	triméthoprimexitine
+T23	DOSE 649 655	4mg/kg
+T24	TEMP 655 657	/j
+T25	CHEM 672 714	immunoglobulines intraveineuse directrices
+T26	CHEM 716 743	antiagrégants plaquettaires
+T27	MEAS 783 790	simples
+T28	PHEN 800 812	récupération
+T29	PROC 816 853	chirurgie complémentaire chirurgicale

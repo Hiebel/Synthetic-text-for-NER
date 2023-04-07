@@ -1,0 +1,31 @@
+T1	LIVB 15 25	adolescent
+T2	TEMP 29 35	17 ans
+T3	Concept_Idea 37 43	pesant
+T4	MEAS 44 49	35 kg
+T5	PROC 60 64	reçu
+T6	Hospital 69 90	urgences pédiatriques
+T7	DISO 110 131	détresse respiratoire
+T8	PHEN 119 131	respiratoire
+T9	DEVI 158 180	ventilateur hélicoïdal
+T10	DISO 215 231	signes cliniques
+T11	DISO 258 270	vomissements
+T12	Concept_Idea 292 304	état général
+T13	DISO 313 325	palpitations
+T14	PROC 330 365	auscultation cardio-vasculo-nerveux
+T15	ANAT 343 365	cardio-vasculo-nerveux
+T16	DISO 386 427	cardiomyopathie congénitale hypertrophiée
+T17	PROC 453 476	ponction intracavitaire
+T18	ANAT 462 476	intracavitaire
+T19	LIVB 488 493	fille
+T20	TEMP 502 508	7 mois
+T21	PROC 563 585	pratique thérapeutique
+T22	PROC 602 640	traitements substitutifs médicamenteux
+T23	DISO 804 858	maladie thromboembolique veineuse cérébro-myélinisante
+T24	DISO 961 991	tuberculose pharyngotricuspide
+T25	LIVB 1007 1010	Son
+T26	PROC 1011 1031	examen gynécologique
+T27	DISO 1050 1074	anomalies morphologiques
+T28	PROC 1097 1113	en peropératoire
+T29	DISO 1128 1160	lésion ulcéro-pustuleuse nécrose
+T30	MEAS 1169 1172	5cm
+T31	Concept_Idea 1176 1185	grand axe

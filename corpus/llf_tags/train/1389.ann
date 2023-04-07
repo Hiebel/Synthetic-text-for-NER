@@ -1,0 +1,66 @@
+T1	LIVB 28 35	patient
+T2	DISO 76 114	appendicite chronique polymalpighienne
+T3	TEMP 124 138	depuis 20 mois
+T4	Concept_Idea 174 186	état général
+T5	DISO 201 210	dysphagie
+T6	DISO 226 257	insuffisance respiratoire aiguë
+T7	ANAT 239 251	respiratoire
+T8	CHEM 278 313	anti-inflammatoires non stéroïdiens
+T9	LIVB 399 409	nourrisson
+T10	DISO 414 422	boiterie
+T11	LIVB 452 454	il
+T12	Hospital 470 481	psychiatrie
+T13	PROC 487 533	traitement psychothérapeutique comportementale
+T14	PROC 538 560	contrôle échographique
+T15	Hospital 570 591	urgences pédiatriques
+T16	PHEN 612 633	grossesse monofoetale
+T17	TEMP 644 649	32 SA
+T18	MEAS 657 669	1450 grammes
+T19	Localization 698 711	1/3 inferieur
+T20	DEVI 728 733	stylo
+T21	MEAS 743 756	7 centimètres
+T22	MEAS 765 778	21centimètres
+T23	MEAS 959 968	15 x 8 cm
+T24	ANAT 1050 1067	courbe fistulisée
+T25	DISO 1120 1129	métastase
+T26	DISO 1136 1162	signes neuropsychiatriques
+T27	PROC 1177 1198	biopsie scanno-guidée
+T28	DISO 1235 1308	adénocarcinome épidermomateux ectopique infiltrant érythémateux disséminé
+T29	Concept_Idea 1337 1344	contenu
+T30	ANAT 1388 1413	parties molles cervicales
+T31	ANAT 1428 1455	annexes antro-mandibulaires
+T32	MEAS 1464 1487	macroscopiquement sains
+T33	MEAS 1524 1534	favorables
+T34	PROC 1547 1594	prise en charge thérapeutique substitutionnelle
+T35	PROC 1622 1645	remplissage chirurgical
+T36	MEAS 1676 1677	4
+T37	LIVB 1678 1685	Mlle IA
+T38	LIVB 2754 2762	patiente
+T39	PROC 2773 2779	suivie
+T40	DISO 2788 2840	syndrome hémorragique aigu du membre supérieur droit
+T41	ANAT 2818 2840	membre supérieur droit
+T42	Localization 2835 2840	droit
+T43	PROC 2850 2862	consultation
+T44	Hospital 2867 2874	hôpital
+T45	DISO 2895 2981	hypochondrie polyclonale des cordages jugulo-carotidiens intrahépato-jugulocarotidiens
+T46	ANAT 2924 2981	cordages jugulo-carotidiens intrahépato-jugulocarotidiens
+T47	TEMP 2991 3004	depuis 6 mois
+T48	MEAS 3019 3034	progressivement
+T49	Concept_Idea 3058 3073	position debout
+T50	PROC 3096 3143	chromogranine Aminotransférase Chromograninoïde
+T51	MEAS 3150 3157	normale
+T52	PROC 3174 3184	traitement
+T53	CHEM 3201 3230	neuroleptiques non stéroïdien
+T54	PROC 3478 3512	examen cytobactériologique général
+T55	PROC 3532 3553	examens radiologiques
+T56	DISO 3572 3586	particularités
+T57	DISO 3604 3624	récidive hémolytique
+T58	DISO 3631 3656	localisations secondaires
+T59	Concept_Idea 3669 3688	aspect histologique
+T60	DISO 3721 3750	léiomyome endométrial maligne
+T61	PROC 3769 3792	radiothérapie adjuvante
+T62	MEAS 3808 3817	spontanée
+T63	DISO 3854 3885	détresse respiratoire terminale
+T64	PHEN 3863 3885	respiratoire terminale
+T65	DISO 3896 3925	symptômes neuropsychiatriques
+T66	PROC 3931 3962	radio-chimiothérapie palliative

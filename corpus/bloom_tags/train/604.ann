@@ -1,0 +1,22 @@
+T1	LIVB 19 26	patient
+T2	PROC 38 49	hospitalisé
+T3	DISO 58 91	syndrome d'épanchement péritonéal
+T4	ANAT 81 91	péritonéal
+T5	DISO 106 122	hyperleucocytose
+T6	PROC 126 150	exploration chirurgicale
+T7	DISO 173 244	masse tumorale maligne du parenchyme ovarien périténal inféro-splénique
+T9	ANAT 260 265	grêle
+T10	ANAT 273 292	vésicules biliaires
+T11	DISO 298 325	envahissement des surrénaux
+T12	ANAT 316 325	surrénaux
+T13	PROC 331 340	admission
+T14	Hospital 344 371	service d'endocrinothérapie
+T15	Concept_Idea 375 393	tension artérielle
+T16	ANAT 383 393	artérielle
+T17	MEAS 402 414	120/70 mm Hg
+T18	CHEM 416 427	bupivacaine
+T19	PROC 433 463	ponction lombaire exploratrice
+T20	ANAT 442 463	lombaire exploratrice
+T21	MEAS 473 482	12 litres
+T22	ANAT 497 517	péritonéal liquidien
+T23	DISO 613 631	métastase nécrosée

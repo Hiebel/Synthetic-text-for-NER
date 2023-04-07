@@ -1,0 +1,29 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 45 70	antécédents pathologiques
+T3	MEAS 71 83	particuliers
+T4	PROC 85 97	hospitalisée
+T5	Hospital 102 110	urgences
+T6	DISO 120 140	tumeur du sein droit
+T7	ANAT 130 140	sein droit
+T8	Localization 135 140	droit
+T9	MEAS 152 167	progressivement
+T10	Concept_Idea 171 177	taille
+T11	PROC 181 196	examen clinique
+T12	PROC 201 210	admission
+T13	LIVB 224 232	patiente
+T14	MEAS 236 239	bon
+T15	Concept_Idea 240 252	état général
+T16	PHEN 261 266	pouls
+T17	MEAS 278 295	70 battements/min
+T18	ANAT 309 319	axillaires
+T19	PROC 332 362	échographie abdomino-pelvienne
+T20	ANAT 344 362	abdomino-pelvienne
+T22	MEAS 465 469	18cm
+T23	MEAS 474 479	16 cm
+T24	ANAT 494 512	liquide amniotique
+T25	ANAT 529 576	région pariéto-utérine antéro-supérieure droite
+T26	ANAT 593 609	parois vaginales
+T27	DISO 643 670	carcinome vésico péritonéal
+T28	ANAT 653 670	vésico péritonéal
+T29	PROC 693 723	bilan biologique préopératoire
+T30	DISO 745 754	anomalies

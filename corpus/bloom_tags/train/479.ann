@@ -1,0 +1,47 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 45 76	antécédents médico-chirurgicaux
+T3	MEAS 77 89	particuliers
+T4	PROC 91 97	admise
+T5	Hospital 101 108	service
+T6	DISO 118 146	tumeur du parenchyme ovarien
+T7	ANAT 128 146	parenchyme ovarien
+T8	TEMP 156 168	depuis un an
+T9	PROC 172 187	examen clinique
+T10	PROC 192 201	admission
+T11	LIVB 215 223	patiente
+T12	MEAS 227 230	bon
+T13	PHEN 231 257	développement psychomoteur
+T14	DISO 277 302	vomissements alimentaires
+T15	DISO 320 336	syndrome fébrile
+T16	MEAS 340 345	37°8C
+T17	DISO 352 360	anorexie
+T18	PROC 364 395	échographie abdomino- pelvienne
+T19	ANAT 376 395	abdomino- pelvienne
+T20	DISO 412 469	masse pariétale sus claviculaire surrénalien hypertrophié
+T21	Localization 428 431	sus
+T22	MEAS 479 483	3 cm
+T23	Concept_Idea 487 496	grand axe
+T24	ANAT 512 533	méso-troncs médiastin
+T25	ANAT 547 576	veine cave sous rénale droite
+T26	Localization 570 576	droite
+T27	ANAT 599 644	fosse ptérygo-intercostale bilatérale médiane
+T28	Localization 626 644	bilatérale médiane
+T29	MEAS 651 655	fine
+T30	MEAS 668 678	régulières
+T31	DISO 695 716	signes inflammatoires
+T32	DISO 742 780	hypertrophie ovarienne utérine altérée
+T33	ANAT 755 780	ovarienne utérine altérée
+T34	CHEM 790 804	médicamenteuse
+T35	DISO 915 936	pneumo-interstitielle
+T36	PROC 941 976	tomodensitométrie abdominopelvienne
+T37	ANAT 959 976	abdominopelvienne
+T38	DISO 1005 1067	épanchement intradermoréactionnel œsophagocytoplasmonucléaires
+T40	Localization 1104 1108	sous
+T41	Localization 1125 1136	homolatéral
+T42	ANAT 1185 1203	espaces abdominaux
+T43	DISO 1239 1257	opacités pleurales
+T44	ANAT 1248 1257	pleurales
+T45	MEAS 1282 1297	supérieur à 5cm
+T46	ANAT 1329 1354	cloison spléno-duodénales
+T47	DISO 1382 1414	empyème rectrovésiculaire séreux
+T48	ANAT 1390 1414	rectrovésiculaire séreux

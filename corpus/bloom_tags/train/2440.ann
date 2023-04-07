@@ -1,0 +1,66 @@
+T1	LIVB 29 34	femme
+T2	DISO 86 131	carcinose papillaire utéro-ovarienne tumorale
+T3	ANAT 96 131	papillaire utéro-ovarienne tumorale
+T4	PROC 152 159	biopsie
+T5	DISO 187 211	pneumo-métastome maligne
+T6	DISO 232 251	nécrose myometriale
+T7	PROC 268 293	étude immunohistochimique
+T8	DISO 322 349	localisations métastatiques
+T9	LIVB 370 378	patiente
+T10	DISO 409 422	consanguinité
+T11	DISO 429 445	signes cliniques
+T12	DISO 472 506	syndrome d’hypertension artérielle
+T13	ANAT 496 506	artérielle
+T14	DISO 513 533	facteurs favorisants
+T15	DISO 551 566	progestéronurie
+T16	PROC 572 602	radio-chimiothérapie adjuvante
+T17	DEVI 641 662	moyens thérapeutiques
+T18	PROC 685 713	prise en charge chirurgicale
+T19	PROC 828 852	chirurgies exploratoires
+T20	PROC 867 896	anesthésie pelvienne profonde
+T21	ANAT 878 896	pelvienne profonde
+T22	PROC 902 948	anesthésie loco-régionale transanal péridurale
+T23	MEAS 996 1009	spectaculaire
+T24	TEMP 1025 1031	6 mois
+T25	PROC 1044 1100	curage ganglionnaire axillaire locorégional conservateur
+T26	ANAT 1051 1100	ganglionnaire axillaire locorégional conservateur
+T27	PROC 1115 1146	tomodensitométrie préopératoire
+T28	CHEM 1176 1199	Rifènehydrocorticoïdone
+T29	DOSE 1202 1209	2 mg/m²
+T30	TEMP 1210 1221	pendant 48h
+T31	MODE 1238 1256	voie intraveineuse
+T32	CHEM 1285 1303	méthylprédnisolone
+T33	PROC 1308 1341	imagerie par résonance magnétique
+T34	PROC 1343 1346	IRM
+T35	PROC 1349 1373	scanner abdomino-pelvien
+T36	ANAT 1357 1373	abdomino-pelvien
+T37	MEAS 1468 1473	16 cm
+T38	MEAS 1477 1482	24 cm
+T39	DISO 1728 1761	localisation secondaire nodulaire
+T40	DISO 1785 1824	schwannome nécréo-cystadéno-vascularisé
+T41	DISO 1854 1880	tumeur kystique pléomorphe
+T42	ANAT 1902 1919	cavité abdominale
+T43	DISO 1926 1976	myxome érythémateux lésionnel prurigineux purulent
+T44	DISO 2100 2138	envahissement méso-anévrculaire cutané
+T45	ANAT 2114 2138	méso-anévrculaire cutané
+T46	ANAT 2156 2175	greffon vésiculaire
+T47	ANAT 2196 2229	veine cave rénale supra hépatique
+T48	Localization 2214 2219	supra
+T49	PROC 2247 2287	fibroscopie œsogastroduodénale biopsique
+T50	ANAT 2259 2287	œsogastroduodénale biopsique
+T51	DISO 2313 2343	carcinome du grêlo-mésophagien
+T52	ANAT 2326 2343	grêlo-mésophagien
+T53	PROC 2359 2374	examen clinique
+T54	DISO 2386 2399	particularité
+T55	LIVB 2404 2412	patiente
+T56	PROC 2431 2459	chimiothérapie néo adjuvante
+T57	CHEM 2484 2494	cisplatine
+T58	CHEM 2496 2507	doxycycline
+T59	CHEM 2509 2521	carboplatine
+T60	CHEM 2523 2536	dexaméthasone
+T61	CHEM 2538 2551	triamcinolone
+T62	CHEM 2553 2563	ethoposide
+T63	CHEM 2565 2576	mitosylline
+T64	CHEM 2578 2597	acétylsulfasalazine
+T65	MEAS 2615 2624	partielle
+T66	DISO 2629 2648	lésions secondaires

@@ -1,0 +1,78 @@
+T1	LIVB 15 22	patient
+T2	DISO 65 94	diabète non insulino-sensible
+T3	CHEM 100 113	antibiotiques
+T4	PROC 121 136	thyréostimuline
+T5	MEAS 139 146	11 mg/l
+T6	Concept_Idea 148 154	valeur
+T7	MEAS 155 162	normale
+T8	MEAS 163 181	entre 12 et 14mg/l
+T9	DISO 199 214	symptomatologie
+T10	TEMP 225 231	2 mois
+T11	DISO 265 282	dyspnée sifflante
+T12	Concept_Idea 327 339	état général
+T13	DISO 360 376	râles crépitants
+T14	ANAT 402 408	bassin
+T15	DISO 424 435	traumatisme
+T16	TEMP 458 474	quelques minutes
+T17	LIVB 572 579	patient
+T18	DISO 610 625	symptomatologie
+T19	Concept_Idea 648 669	activités habituelles
+T20	MEAS 706 713	simples
+T21	PHEN 723 741	suites opératoires
+T22	MEAS 755 771	plus compliquées
+T23	PROC 800 825	étude anatomopathologique
+T24	DISO 852 867	symptomatologie
+T25	DISO 922 958	rectorragies nécrotico-hémorragiques
+T26	DISO 972 1006	lésions érythémato-tachycocytaires
+T27	LIVB 1053 1063	nouveau-né
+T28	PROC 1068 1101	scanner cervico-thoraco-abdominal
+T29	ANAT 1076 1101	cervico-thoraco-abdominal
+T30	DEVI 1158 1185	matériel médico-chirurgical
+T31	Localization 1191 1196	pièce
+T32	MEAS 1206 1220	13 x 6 cm×7 mm
+T33	ANAT 1294 1335	segments cervicaux abdominaux thoraciques
+T34	ANAT 1528 1563	muscle gastrocnémien antero-externe
+T35	ANAT 1628 1668	fosse iliaque lombo-céphalique digestive
+T36	DISO 1760 1811	atypies digitiformes aigues hypocholestérolémiantes
+T37	PROC 1925 1954	cystolithotomie scanno-guidée
+T38	ANAT 2235 2252	zones anéchogènes
+T39	ANAT 2272 2344	parenchyme spléno-mésaraique postéro-jugulaire supérieur sus pubisionnel
+T40	Concept_Idea 2515 2530	aspect clinique
+T41	PROC 2535 2558	TDM cardio-respiratoire
+T42	ANAT 2539 2558	cardio-respiratoire
+T43	PROC 2825 2852	tumorectomie prophylactique
+T44	PROC 3017 3040	classification TNM IHZI
+T45	MEAS 3229 3237	négatifs
+T46	LIVB 3273 3280	malades
+T47	LIVB 3344 3351	patient
+T48	DISO 3365 3396	accident vasculaire myocardique
+T49	PROC 3417 3442	corticothérapie adjuvante
+T50	PROC 3456 3484	prise en charge chirurgicale
+T51	PROC 3508 3538	traitement médical substitutif
+T52	PROC 3551 3579	transfusion du béthamétasone
+T53	CHEM 3566 3579	béthamétasone
+T54	PROC 3601 3618	geste chirurgical
+T55	MEAS 3697 3704	simples
+T56	DISO 3716 3732	récidive tumoral
+T57	DISO 3749 3770	récidive pathologique
+T58	PROC 3786 3808	consultations externes
+T59	PROC 3814 3839	thyroïdectomie préventive
+T60	PROC 3921 3942	thyroïdectomie simple
+T61	LIVB 4145 4156	jeune homme
+T62	PROC 4201 4210	admission
+T63	Concept_Idea 4229 4241	état général
+T64	TEMP 4251 4270	depuis quatre jours
+T65	DISO 4286 4320	sensation de froid polaire laryngé
+T66	PROC 4354 4370	séance aspirante
+T67	PROC 4374 4389	examen clinique
+T68	DISO 4410 4474	sensibilité abdomino-pelvienne fœtale quadriventriculaire gauche
+T69	ANAT 4422 4474	abdomino-pelvienne fœtale quadriventriculaire gauche
+T70	Localization 4468 4474	gauche
+T71	MEAS 4486 4501	progressivement
+T72	MEAS 4516 4539	de plus en plus intense
+T73	PHEN 4557 4577	bruits du cœur fœtal
+T74	ANAT 4567 4577	cœur fœtal
+T75	MEAS 4599 4620	difficilement audible
+T76	PROC 4644 4665	contrôle locorégional
+T77	DISO 4683 4692	symptômes
+T78	TEMP 4705 4711	3 mois

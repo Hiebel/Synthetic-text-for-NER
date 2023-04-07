@@ -1,0 +1,35 @@
+T1	LIVB 3 10	patient
+T2	DISO 71 83	fièvre jaune
+T3	TEMP 93 109	depuis 24 heures
+T4	PROC 132 154	ponction nasopharyngée
+T5	ANAT 141 154	nasopharyngée
+T6	PROC 169 188	anesthésie générale
+T7	PROC 202 213	hémoculture
+T8	DISO 240 254	résidu tumoral
+T9	PHEN 259 268	grossesse
+T10	LIVB 304 314	nouveau-né
+T11	DISO 387 409	complication néonatale
+T12	PROC 442 453	fécondation
+T13	MEAS 491 503	particuliers
+T14	MEAS 521 522	1
+T15	LIVB 523 530	Mlle IA
+T16	MEAS 555 556	7
+T17	LIVB 557 564	garçons
+T18	LIVB 626 628	sa
+T19	LIVB 629 633	mère
+T20	LIVB 637 647	monsieur H
+T21	LIVB 690 694	elle
+T22	LIVB 737 744	parents
+T23	DISO 769 788	conflits psychiques
+T24	Hospital 819 840	urgences pédiatriques
+T25	LIVB 856 859	ses
+T26	LIVB 860 867	enfants
+T27	PROC 885 911	consultation psychiatrique
+T28	PROC 943 952	admission
+T29	DISO 996 1018	difficultés somatiques
+T30	PROC 1024 1039	examen physique
+T31	DISO 1060 1088	troubles neuropsychiatriques
+T32	DISO 1098 1121	déficit sensitivomoteur
+T33	DISO 1147 1180	syndrome délirant schizophrénique
+T34	LIVB 1211 1218	malades
+T35	PROC 1224 1249	psycho-médico-obstétrique

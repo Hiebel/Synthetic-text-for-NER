@@ -1,0 +1,39 @@
+T1	LIVB 3 8	femme
+T2	PROC 30 42	hospitalisée
+T3	Hospital 50 87	unité de soins intensifs pédiatriques
+T4	DISO 103 122	pleurésie purulente
+T5	DISO 143 166	symptômes neurologiques
+T6	DISO 169 200	méningo-vasculite érythémateuse
+T7	DISO 204 231	hyperpression surrénalienne
+T8	ANAT 218 231	surrénalienne
+T9	DISO 267 328	syndrome d'épanchement intra-parenchymateux périventriculaire
+T10	ANAT 290 328	intra-parenchymateux périventriculaire
+T11	DISO 348 365	neurorétinoclonus
+T12	DISO 406 438	troubles sensitivo-vestibulaires
+T13	DISO 463 489	lésions neurochirurgicales
+T14	DISO 548 570	réflexes hypertrophiés
+T15	LIVB 593 601	patiente
+T16	PROC 607 633	traitement médical curatif
+T17	CHEM 644 673	médecines anti-inflammatoires
+T18	CHEM 679 697	méthylprednisolone
+T19	CHEM 707 719	facufentanil
+T20	MODE 729 747	voie intraveineuse
+T21	PROC 829 852	correction anesthésique
+T22	DEVI 939 963	ventilation artificielle
+T23	PHEN 1028 1048	récupération motrice
+T24	DISO 1123 1145	hypotension artérielle
+T25	DEVI 1265 1310	sonde œsophagienne ultrasonore convefflective
+T27	PROC 1988 2022	examen cutanéo-anatomopathologique
+T28	DISO 2067 2102	localisations secondaires tumorales
+T29	DISO 2113 2153	lymphangiome pléomorphe nodulaire ulcéré
+T30	DISO 2163 2182	métastases malignes
+T31	DISO 2297 2316	nodules prurigineux
+T32	ANAT 2330 2348	sinus mandibulaire
+T33	DISO 2399 2422	troubles hémodynamiques
+T34	MEAS 2432 2438	légère
+T35	CHEM 2457 2467	furosémide
+T36	DOSE 2482 2491	1,5 mg/kg
+T37	TEMP 2491 2497	/heure
+T38	CHEM 2500 2514	hydrocortisone
+T39	LIVB 2520 2528	patients
+T40	Concept_Idea 2559 2577	critères cliniques

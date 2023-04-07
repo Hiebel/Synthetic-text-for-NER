@@ -1,0 +1,29 @@
+T1	PROC 4 19	radio du thorax
+T2	ANAT 13 19	thorax
+T3	DISO 70 104	pneumopathie chronique obstructive
+T4	PROC 109 125	bilan biologique
+T5	DISO 142 158	hyperleucocytose
+T6	MEAS 161 173	12500 EB/mm3
+T7	Concept_Idea 175 181	valeur
+T9	LIVB 191 201	nourrisson
+T10	TEMP 205 211	7 mois
+T11	PROC 217 239	TDM thoraco-abdominale
+T12	ANAT 221 239	thoraco-abdominale
+T13	DISO 251 259	anomalie
+T14	PROC 274 289	toucher vaginal
+T15	ANAT 282 289	vaginal
+T16	DISO 314 383	adénopathies jugulocarotidiennes cervicale homolatérales asymétriques
+T18	Localization 357 370	homolatérales
+T19	DISO 396 458	processus lésionnel tissulaire péritonéal liquidien ischémique
+T20	MEAS 468 472	5 cm
+T21	Concept_Idea 476 484	diamètre
+T22	MEAS 542 549	simples
+T23	PROC 555 577	traitement substitutif
+T24	CHEM 590 619	amphotéricine B12 parentérale
+T25	CHEM 623 648	acide acétyle salicylique
+T26	Concept_Idea 682 690	critères
+T27	PROC 703 728	hémodynamie préopératoire
+T28	PROC 735 746	transfusion
+T29	DEVI 768 786	cathéter tunnelisé
+T31	Localization 862 868	droits
+T32	DEVI 873 888	drain aspiratif

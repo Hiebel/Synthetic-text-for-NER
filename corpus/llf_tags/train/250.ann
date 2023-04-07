@@ -1,0 +1,16 @@
+T1	PROC 4 15	échographie
+T2	DISO 50 71	nodule du rein gauche
+T3	ANAT 60 71	rein gauche
+T4	Localization 65 71	gauche
+T5	MEAS 75 81	2,4 cm
+T6	DISO 102 150	processus tissulaire fibro-adipeux intrakystique
+T7	MEAS 159 163	5 cm
+T8	Concept_Idea 167 176	grand axe
+T9	DISO 182 201	emboles vasculaires
+T10	ANAT 190 201	vasculaires
+T11	DISO 205 225	adénomégalitropiques
+T12	PROC 230 255	bilan préchimiothérapique
+T13	Concept_Idea 290 299	résultats
+T14	PROC 314 340	examen anatomopathologique
+T15	LIVB 349 357	patiente
+T16	TEMP 381 391	24/10/2017

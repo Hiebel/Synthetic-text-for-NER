@@ -1,0 +1,35 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 43	hospitalisée
+T3	Hospital 48 56	urgences
+T4	DISO 66 106	douleurs abdominales aiguës généralisées
+T5	ANAT 75 86	abdominales
+T6	TEMP 116 132	depuis 48 heures
+T7	LIVB 134 138	Elle
+T8	Concept_Idea 148 153	poids
+T9	MEAS 157 162	70 kg
+T10	DISO 178 190	vomissements
+T11	DISO 196 204	anorexie
+T12	PROC 209 239	bilan biologique préopératoire
+T13	Hospital 251 274	service d'ophtalmologie
+T14	DISO 291 307	hyperleucocytose
+T15	MEAS 310 335	17400 éléments blancs/mm3
+T16	PROC 345 360	globules blancs
+T17	MEAS 363 388	10 000 élément blancs/mm3
+T18	PROC 402 404	VS
+T19	MEAS 417 422	90 mm
+T20	MEAS 449 454	45 mm
+T21	PHEN 461 472	prélèvement
+T22	PROC 476 503	tomodensitométrie pelvienne
+T23	ANAT 494 503	pelvienne
+T24	PROC 518 537	anesthésie générale
+T26	MEAS 630 635	22 cm
+T27	Concept_Idea 639 648	grand axe
+T28	ANAT 670 681	grêl utérin
+T29	ANAT 703 724	structures ovariennes
+T30	Localization 752 760	centrale
+T31	DISO 796 827	métacarcinome kystadénovellaire
+T32	DISO 912 934	dilatation péritonéale
+T33	DISO 947 969	complications malignes
+T34	DISO 997 1026	niveau hydro-aérique biliaire
+T35	DISO 1144 1170	paragangliome séreux malin
+T36	PROC 1268 1287	biopsie écho guidée

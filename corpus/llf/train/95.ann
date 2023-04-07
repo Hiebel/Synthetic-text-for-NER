@@ -1,0 +1,12 @@
+T1	PROC 3 13	diagnostic
+T2	DISO 19 86	carcinome
+T3	ANAT 29 38	canalaire
+T4	ANAT 69 86	vésicule
+T5	DISO 90 101	du
+T6	ANAT 93 101	pancréas
+T7	Concept_Idea 124 143	aspect
+T8	DISO 148 165	lésions
+T9	PROC 171 198	chimiothérapie
+T10	PROC 200 224	chimiothérapie
+T11	LIVB 272 279	patient
+T12	PROC 305 317	consultation

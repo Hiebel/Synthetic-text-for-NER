@@ -1,0 +1,59 @@
+T1	LIVB 16 21	femme
+T2	DISO 54 80	dyspnée sifflante laryngée
+T3	TEMP 90 103	depuis 3 mois
+T4	DISO 118 134	syndrome grippal
+T5	DISO 143 182	désorientation temporo-temporo-spatiale
+T6	PROC 194 218	bilan neuropsychiatrique
+T7	LIVB 238 246	patiente
+T8	DISO 276 289	consanguinité
+T9	DISO 296 329	différenciation sexuelle primaire
+T10	PROC 335 349	interrogatoire
+T11	LIVB 370 380	adolescent
+T12	TEMP 388 394	10 ans
+T13	LIVB 450 461	jeune homme
+T14	DISO 481 508	détresse respiratoire aiguë
+T15	LIVB 521 523	il
+T16	PROC 546 575	prise en charge psychiatrique
+T17	PROC 589 603	radio médicale
+T18	DISO 732 767	trouble obsessionnel compulsif aigu
+T19	Hospital 1017 1048	urgences médicales pédiatriques
+T20	DISO 1131 1150	symptômes délirants
+T21	Concept_Idea 1163 1183	aspect morphologique
+T22	LIVB 1439 1446	enfants
+T23	PHEN 1469 1478	grossesse
+T26	LIVB 1746 1749	ses
+T27	LIVB 1750 1767	parents maternels
+T28	LIVB 1782 1800	famille maternelle
+T29	LIVB 1904 1907	eux
+T30	PROC 2038 2095	chimiothérapie néo adjuvante B12 parentérale substitutive
+T31	PROC 2117 2137	mariage contraceptif
+T32	LIVB 2367 2371	elle
+T33	LIVB 2398 2403	leurs
+T35	DISO 2663 2687	syndrome polymalformatif
+T36	PROC 2708 2724	bilan biologique
+T37	DISO 2741 2796	anémie hypochrome microcytaire normocytaire neutrophile
+T38	MEAS 2807 2815	3,4 g/dl
+T39	TEMP 2819 2828	24 heures
+T40	DISO 2843 2874	diabète non insulino-remifentré
+T41	MEAS 2884 2894	6,2 mmol/l
+T42	DISO 2907 2931	anomalies hémodynamiques
+T43	DISO 2945 2965	hypertriglycéridémie
+T44	MEAS 2976 2985	7,5 mqg/l
+T45	Concept_Idea 2995 3030	classification de Haglund Ann Arbor
+T46	CHEM 3072 3096	sels adénosyl méthoxylés
+T47	PROC 3115 3142	analyse cytobactériologique
+T48	LIVB 3281 3322	thérapeutes neuropsychiatriques pédiatres
+T49	LIVB 3326 3358	pharmaco-chimistes rhumatologues
+T50	LIVB 3424 3432	patiente
+T51	PROC 3519 3546	traitements antéro-médicaux
+T52	LIVB 3571 3575	elle
+T53	PROC 3597 3621	contrôle ophtalmologique
+T54	CHEM 3654 3673	corticoïdes inhalés
+T55	PROC 3747 3782	transmissions vitales intraveineuse
+T56	PROC 3806 3838	séances de rééducation périnéale
+T57	CHEM 3896 3910	gentaméthasone
+T58	ANAT 3918 3939	voie veineuse rectale
+T59	LIVB 3960 3968	Mme HLWD
+T60	DISO 3982 4018	accident vasculaire crânio-occipital
+T61	ANAT 4002 4018	crânio-occipital
+T63	DEVI 4107 4128	automate mains libres

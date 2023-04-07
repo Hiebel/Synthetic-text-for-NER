@@ -1,0 +1,36 @@
+T1	LIVB 28 35	patient
+T2	DISO 56 81	antécédents pathologiques
+T3	MEAS 82 90	notables
+T4	PROC 92 97	admis
+T5	Hospital 102 110	urgences
+T6	DISO 122 141	traumatisme crânien
+T7	LIVB 160 162	sa
+T8	LIVB 163 167	mère
+T9	ANAT 181 204	sinus maxillaire gauche
+T10	Localization 198 204	gauche
+T11	PROC 208 233	intervention chirurgicale
+T12	TEMP 241 247	90 min
+T13	PROC 273 290	chirurgie plâtrée
+T14	DISO 307 323	masse hétérogène
+T15	MEAS 332 343	environ 2cm
+T16	Concept_Idea 347 356	grand axe
+T17	Concept_Idea 359 365	aspect
+T18	MEAS 366 374	brunâtre
+T19	ANAT 391 408	paires crâniennes
+T20	TEMP 418 431	depuis 3 mois
+T21	MEAS 448 463	progressivement
+T22	Concept_Idea 467 473	taille
+T23	MEAS 483 510	de plus en plus douloureuse
+T24	DISO 529 554	instabilité psychomotrice
+T25	PROC 571 586	prise en charge
+T26	MEAS 660 666	rapide
+T27	DISO 691 713	céphalées hypertensive
+T28	DISO 843 871	complication neurovasculaire
+T29	DISO 936 949	neurofibromes
+T30	DISO 1071 1106	syndrome d'épanchement péricardique
+T31	ANAT 1094 1106	péricardique
+T33	PROC 1285 1316	ponction pleuriale exploratrice
+T34	ANAT 1294 1316	pleuriale exploratrice
+T35	DISO 1339 1356	lésions tumorales
+T36	DISO 1384 1399	carcinomateuses
+T37	DISO 1409 1443	localisations secondaires malignes

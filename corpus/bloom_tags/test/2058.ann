@@ -1,0 +1,25 @@
+T1	LIVB 19 26	patient
+T2	PROC 38 43	suivi
+T3	DISO 53 83	tuberculose du liquide pleural
+T4	ANAT 68 83	liquide pleural
+T5	DEVI 89 108	seringue électrique
+T6	DISO 127 135	apyrexie
+T7	Concept_Idea 157 169	état général
+T8	PROC 173 188	examen clinique
+T9	DISO 205 224	pleurésie purulente
+T10	MEAS 239 244	trois
+T11	ANAT 245 263	membres inférieurs
+T12	TEMP 273 286	depuis 6 mois
+T13	DISO 302 339	syndrome d'épanchement intrapleurique
+T14	ANAT 325 339	intrapleurique
+T15	PROC 344 363	bilan immunologique
+T16	MEAS 370 377	négatif
+T17	PROC 379 412	anticorps antinucléaires sériques
+T18	MEAS 413 421	positifs
+T19	PROC 426 456	échographie abdomino pelvienne
+T20	ANAT 438 456	abdomino pelvienne
+T21	DISO 470 546	masse hypo échogène hétérogène tissulaire polylobée prurigineuse sécrétrante
+T22	MEAS 556 563	13/8 cm
+T23	CHEM 591 611	produit de contraste
+T24	DISO 628 663	métastase ganglionnaire péritonéale
+T25	ANAT 638 663	ganglionnaire péritonéale

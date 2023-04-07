@@ -1,0 +1,34 @@
+T1	LIVB 29 37	patiente
+T2	PHEN 80 95	cycle menstruel
+T3	CHEM 98 117	hydroxyprogesterone
+T4	DOSE 119 125	400 mg
+T6	DISO 143 164	syndrome dyspareuniel
+T7	PROC 169 193	scanner abdomino-pelvien
+T8	ANAT 177 193	abdomino-pelvien
+T9	Hospital 206 214	urgences
+T10	DISO 231 284	masse hypo échogéminée latéroutérine périnéale droite
+T11	Localization 278 284	droite
+T12	MEAS 293 298	13 cm
+T13	Concept_Idea 302 311	grand axe
+T14	MEAS 316 321	10 cm
+T15	Concept_Idea 325 334	petit axe
+T16	MEAS 347 350	2cm
+T17	Concept_Idea 354 362	diamètre
+T18	DISO 383 396	hyposignalées
+T19	PROC 403 412	injection
+T20	CHEM 416 436	produit de contraste
+T21	DISO 468 494	métastase tumorale maligne
+T22	DISO 523 539	signes cliniques
+T23	DISO 566 588	douleurs épigastriques
+T24	ANAT 575 588	épigastriques
+T25	DISO 599 624	adénopathies hypodenseurs
+T26	PROC 649 679	ponction liquidienne gastrique
+T27	ANAT 658 679	liquidienne gastrique
+T28	PROC 748 777	cholécystectomie exploratrice
+T29	LIVB 826 835	patientes
+T30	LIVB 911 919	patiente
+T31	PROC 935 968	curage ganglionnaire locorégional
+T32	ANAT 942 968	ganglionnaire locorégional
+T33	MEAS 1115 1125	nécessaire
+T34	DISO 1182 1206	localisations métatiques
+T35	MEAS 1460 1472	plus évoluée

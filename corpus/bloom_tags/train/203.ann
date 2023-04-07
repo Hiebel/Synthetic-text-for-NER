@@ -1,0 +1,23 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 37	suivie
+T3	DISO 46 60	ménométrorrhée
+T4	TEMP 70 81	depuis 3ans
+T5	DISO 102 154	signes gynécologiques cervico-vaginaux hypertrophiés
+T7	ANAT 180 193	hypogastrique
+T8	DISO 203 211	kystique
+T9	MEAS 221 233	compressible
+T10	PHEN 240 252	accouchement
+T11	PROC 258 284	contraception progestative
+T12	DEVI 290 301	dulectolone
+T13	MODE 315 340	voie d'abord périphérique
+T14	PROC 389 404	examen clinique
+T15	LIVB 418 426	patiente
+T16	Concept_Idea 441 459	plan hémodynamique
+T17	MEAS 471 480	lentement
+T18	DISO 485 495	asthénique
+T19	DISO 499 530	dyspnéique normo-tachycardiaque
+T20	DISO 569 577	polypnée
+T22	TEMP 607 617	per minute
+T23	DISO 658 696	détresse respiratoire cyanosante aiguë
+T24	DISO 789 823	thrombose rétrovésiculaire utérine
+T25	ANAT 799 823	rétrovésiculaire utérine

@@ -1,0 +1,35 @@
+T1	LIVB 29 37	patiente
+T2	DISO 90 122	masse douloureuse du flanc droit
+T3	ANAT 111 122	flanc droit
+T4	Localization 117 122	droit
+T5	Concept_Idea 167 179	état général
+T6	PROC 183 198	examen clinique
+T7	MEAS 215 221	légère
+T8	DISO 222 226	toux
+T9	DISO 228 234	sueurs
+T10	TEMP 235 244	nocturnes
+T11	PHEN 264 279	acuité visuelle
+T12	DISO 295 325	pneumo-conjonctivale nodulaire
+T13	DISO 327 330	PNK
+T14	PROC 336 360	scanner abdomino-pelvien
+T15	ANAT 344 360	abdomino-pelvien
+T16	Hospital 379 387	urgences
+T17	PROC 433 460	analyse anatomopathologique
+T18	DISO 493 561	épanchement péricardico-thoracique périamniotique liquidien purulent
+T20	DISO 590 642	polynucléose érythémateuse prurigineuse hémorragique
+T21	DISO 710 723	thrombophilie
+T22	DISO 729 754	anomalies cyto-kinétiques
+T23	DISO 803 830	détresse respiratoire aigue
+T24	PROC 882 900	ionogramme sanguin
+T25	ANAT 893 900	sanguin
+T26	PROC 916 943	administration chirurgicale
+T27	CHEM 957 981	sulfhydramnios glycoséde
+T28	PROC 1044 1062	dissection cutanée
+T29	PROC 1134 1158	cystoscopie exploratrice
+T30	DISO 1237 1265	fissures pyélocaliciellaires
+T31	ANAT 1383 1399	paroi abdominale
+T32	MEAS 1409 1418	brulantes
+T33	ANAT 1436 1469	sinus biliaire intrahypogastrique
+T34	PROC 1534 1569	intradermoréaction à la tuberculine
+T35	CHEM 1558 1569	tuberculine
+T36	MEAS 1583 1601	fortement positive

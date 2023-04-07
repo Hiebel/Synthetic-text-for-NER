@@ -1,0 +1,72 @@
+T1	PROC 4 27	radiographies standards
+T2	DISO 43 81	hypertrophie du membre supérieur droit
+T3	ANAT 59 81	membre supérieur droit
+T4	Localization 76 81	droit
+T5	Concept_Idea 90 112	index de prolifération
+T6	MEAS 115 118	10%
+T7	DISO 167 202	accident vasculaire crânio-cérébral
+T8	ANAT 187 202	crânio-cérébral
+T9	LIVB 223 230	patient
+T10	Hospital 234 249	bloc opératoire
+T11	PROC 255 279	exploration chirurgicale
+T12	DISO 301 364	dilatation des troncs supéro-externes cervicaux fémoral gauches
+T13	ANAT 316 364	troncs supéro-externes cervicaux fémoral gauches
+T15	DISO 377 386	anomalies
+T16	PROC 402 433	TDM thoraco- abdomino-pelvienne
+T17	ANAT 406 433	thoraco- abdomino-pelvienne
+T18	DISO 456 493	pneumopéritoine liquidienne étranglée
+T19	PHEN 503 524	bruits hydro-aériques
+T20	DISO 581 619	processus lésionnel tissulaire nécrosé
+T21	ANAT 638 667	nerf laryngé inférieur droite
+T22	Localization 661 667	droite
+T23	ANAT 694 1083	clavière postéro-latérale supérieure gauche (QSE) avec son méso thoracique antérieur droit.
+Le scanner abdominal réalisé après mise en condition avait permis de mettre en évidence une lésion anéchogène périrénal crico-trachéale péritonéale hypervascularisée mesurant 2 cm de grand axe se développant sur toute la hanche distale pour atteindre sa planchette sous maxillaire antérosténoïdale
+T24	Localization 703 737	postéro-latérale supérieure gauche
+T25	ANAT 753 784	méso thoracique antérieur droit
+T26	Localization 769 784	antérieur droit
+T27	PROC 789 806	scanner abdominal
+T28	ANAT 797 806	abdominal
+T29	PROC 821 838	mise en condition
+T30	DISO 878 951	lésion anéchogène périrénal crico-trachéale péritonéale hypervascularisée
+T31	MEAS 961 965	2 cm
+T32	Concept_Idea 969 978	grand axe
+T33	ANAT 1007 1021	hanche distale
+T34	Localization 1014 1021	distale
+T37	PROC 1215 1225	diagnostic
+T38	DISO 1248 1413	adénocarcinome pléomorphe rétromalléolaire hétérotopique achromateux mésothélial postéro-intraduodénal mucineux infiltrant pégyloïde oblong monophasique kératinisant
+T39	MEAS 1421 1429	stade IV
+T41	DOSE 2334 2339	20 mg
+T42	TEMP 2339 2341	/j
+T43	DOSE 2344 2349	30 mg
+T44	TEMP 2349 2351	/j
+T45	PROC 2365 2387	induction anesthésique
+T46	Concept_Idea 2400 2427	paramètres pharmacologiques
+T47	CHEM 2439 2461	ciprofloxacine sodique
+T49	LIVB 2728 2735	patient
+T50	PHEN 2740 2762	suites postopératoires
+T51	MEAS 2771 2778	simples
+T52	PROC 2784 2811	examen anatomo-pathologique
+T53	DISO 2827 2863	processus tissulaire du cuir chevelu
+T54	ANAT 2851 2863	cuir chevelu
+T55	DISO 2869 2885	nécrose caséeuse
+T56	PROC 2889 2907	étude histologique
+T57	DISO 2935 2952	récidive tumorale
+T58	DISO 2996 3028	granulome épidermoïde infiltrant
+T59	DISO 3043 3098	perforation maligne des structures cutanées maxillaires
+T60	ANAT 3067 3098	structures cutanées maxillaires
+T61	PROC 3186 3218	tumorectomie totale exploratrice
+T62	LIVB 3242 3248	malade
+T63	PROC 3254 3274	annexectomie médiane
+T64	Localization 3267 3274	médiane
+T65	PROC 3280 3315	contrôle locorégional peropératoire
+T66	DISO 3345 3369	adhérences kératiniennes
+T67	PROC 3412 3434	traitement chirurgical
+T68	DISO 3488 3512	complication infectieuse
+T69	PROC 3527 3555	prise en charge chirurgicale
+T70	PROC 3578 3618	laparotomie transoesophagienne axillaire
+T71	Concept_Idea 3635 3652	limites cliniques
+T72	PROC 3665 3692	incision oblongue subtotale
+T73	ANAT 3719 3744	tissu conjonctif bulbaire
+T74	DEVI 3756 3774	chambre anéchogène
+T76	LIVB 3995 4001	enfant
+T77	TEMP 4009 4014	5 ans

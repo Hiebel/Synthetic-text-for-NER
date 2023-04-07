@@ -1,0 +1,38 @@
+T1	LIVB 3 8	homme
+T2	DISO 42 85	syndrome d'épanchement liquidien péritonéal
+T3	ANAT 65 85	liquidien péritonéal
+T4	PROC 96 119	traité chirurgicalement
+T5	PROC 125 150	chimiothérapie palliative
+T6	DOSE 156 164	2RHZ/4RH
+T7	CHEM 178 189	doxycycline
+T8	CHEM 201 212	métotrexate
+T9	PROC 225 255	radiothérapie locale adjuvante
+T10	ANAT 268 288	rachis dorsolombaire
+T11	LIVB 319 326	patient
+T12	LIVB 366 374	patients
+T13	PROC 386 421	technique d'immuno-chirurgie curale
+T14	DISO 472 502	méningoencephalopathie fébrile
+T15	LIVB 635 644	patientes
+T16	DISO 675 700	pathologies neurologiques
+T17	DISO 713 734	lésions purulentaires
+T18	PROC 757 772	prise en charge
+T19	PROC 776 815	ponction surrénalienne intrarachidienne
+T20	ANAT 785 815	surrénalienne intrarachidienne
+T21	MEAS 844 849	10 ml
+T22	MEAS 853 861	3 litres
+T23	DISO 986 1013	polynucléaires neutrophiles
+T24	DISO 1043 1066	végétations mononuclées
+T25	DISO 1120 1159	maladie dermatomyosellaire prurigineuse
+T26	Localization 1166 1184	bilatérale avancée
+T27	DISO 1200 1228	déformations myofibrillaires
+T28	ANAT 1274 1350	substance graisseuse para-tendineuse scapulaire thoracique utéro-vésiculaire
+T29	DEVI 1491 1528	bandelette sensitivomotrice sensitive
+T30	DISO 1577 1592	symptomatologie
+T31	MEAS 1607 1614	brutale
+T32	MEAS 1633 1644	progressive
+T33	PROC 1660 1683	diagnostic différentiel
+T34	MEAS 1798 1808	évocatrice
+T35	CHEM 2205 2235	produit de trichloroéthylamine
+T36	CHEM 2427 2457	produit de trichloroéthylamine
+T37	Concept_Idea 2471 2486	intérêt curatif
+T38	PROC 2503 2540	bilan d'immunoradiothérapie adjuvante

@@ -1,0 +1,26 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	DISO 72 98	paragangliome hypertrophié
+T4	PROC 132 160	traitement médical adjuvants
+T5	CHEM 171 184	métronidazole
+T6	CHEM 186 204	hydroxychloroquine
+T7	CHEM 206 217	ethionamide
+T8	CHEM 219 231	pyrazinamide
+T9	CHEM 233 248	buphosphonamide
+T10	CHEM 250 260	cisplatine
+T11	CHEM 262 275	dexaméthasone
+T12	CHEM 277 288	Cyclosérine
+T13	CHEM 291 302	Ceftriaxone
+T14	CHEM 304 324	triméthoprime sodium
+T15	CHEM 326 334	propofol
+T16	CHEM 336 350	hydrocortisone
+T17	DOSE 352 358	1mg/kg
+T18	MODE 358 365	/minute
+T19	DISO 444 467	hyperthyroïdie primaire
+T20	MEAS 511 516	15g/L
+T21	PROC 533 558	surveillance radiologique
+T22	LIVB 595 606	jeune femme
+T23	LIVB 614 620	enfant
+T24	TEMP 629 635	10 ans
+T25	DISO 701 724	symptômes neurologiques
+T26	Concept_Idea 779 797	état immunodéprimé

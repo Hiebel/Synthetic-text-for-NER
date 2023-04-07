@@ -1,0 +1,23 @@
+T1	LIVB 15 22	patient
+T2	DISO 65 90	néphropathie hypertensive
+T3	DEVI 97 124	pneumo-péritoine artificiel
+T4	PROC 129 154	scanner abdomino- pelvien
+T5	ANAT 137 154	abdomino- pelvien
+T6	DISO 166 179	particularité
+T7	PROC 183 204	échographie pelvienne
+T8	ANAT 195 204	pelvienne
+T9	PHEN 222 240	suites opératoires
+T10	MEAS 241 261	assez satisfaisantes
+T11	ANAT 275 281	utérus
+T12	MEAS 298 306	complète
+T13	DISO 312 338	hémorragie trophoblastique
+T14	MEAS 343 348	21 mm
+T15	MEAS 351 354	8mm
+T16	PROC 361 389	chimiothérapie néo adjuvante
+T17	CHEM 395 406	Cyclosérine
+T18	CHEM 408 419	Ceftriaxone
+T19	CHEM 421 429	Diazépam
+T20	CHEM 431 441	Mifentanil
+T21	CHEM 445 456	bupivacaine
+T22	PROC 470 490	analgésie péridurale
+T23	TEMP 574 581	12 mois

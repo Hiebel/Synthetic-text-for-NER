@@ -1,0 +1,40 @@
+T2	TEMP 28 39	13 semaines
+T3	MEAS 47 58	254 grammes
+T4	MEAS 66 77	355 grammes
+T5	MEAS 87 105	6 centimètres cube
+T6	MEAS 114 135	36 cm x 6 millimètres
+T7	MEAS 141 166	16 fois la taille normale
+T8	MEAS 210 222	particuliers
+T9	DISO 294 308	bruits diurnes
+T10	DISO 400 424	difficulté psychomotrice
+T11	Concept_Idea 470 531	résultats hémodynamiquement fœtobactériologiquement probables
+T12	DISO 592 618	récidive du membre pelvien
+T13	ANAT 604 618	membre pelvien
+T14	DISO 755 791	signes neuropsychiatriques atypiques
+T15	PHEN 876 902	développement psychomoteur
+T16	LIVB 919 922	lui
+T17	Concept_Idea 932 935	âge
+T18	TEMP 939 945	8 mois
+T19	TEMP 964 971	12 mois
+T20	Hospital 1003 1024	urgences pédiatriques
+T21	DISO 1040 1070	dysfonctionnement pathologique
+T22	PROC 1153 1175	consultation prénatale
+T23	TEMP 1382 1390	10 jours
+T24	LIVB 1511 1514	son
+T25	LIVB 1515 1519	père
+T26	LIVB 1523 1525	sa
+T27	LIVB 1526 1530	mère
+T28	TEMP 1564 1570	24mois
+T29	TEMP 1574 1581	11 mois
+T30	Concept_Idea 1619 1656	paramètres socioéconomiques familiaux
+T31	PROC 1708 1739	contrôle locorégional familiale
+T32	TEMP 1803 1809	3 mois
+T33	PROC 1815 1825	opératoire
+T34	TEMP 1878 1884	7 mois
+T35	PROC 1938 1984	bivagination antibiotique parentérale élective
+T36	Concept_Idea 2061 2088	critères pharmacocinétiques
+T37	PROC 2194 2220	contraception endovaginale
+T38	PROC 2257 2286	prothèse antalgique adjuvante
+T39	PROC 2315 2337	laparotomie percutanée
+T40	PROC 2365 2388	anastomose exploratrice
+T41	CHEM 2431 2444	métronidazole

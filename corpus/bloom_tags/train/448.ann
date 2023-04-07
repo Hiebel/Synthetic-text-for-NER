@@ -1,0 +1,19 @@
+T1	LIVB 2 8	enfant
+T2	MEAS 18 21	bon
+T3	Concept_Idea 22 35	état clinique
+T4	PROC 44 60	bilan biologique
+T5	DISO 78 94	hyperleucocytose
+T6	MEAS 97 116	14800 éléments /mm3
+T7	PROC 122 137	globules blancs
+T8	MEAS 140 158	16000 éléments/mm3
+T9	PROC 160 179	protéine C-réactive
+T10	PROC 181 184	CRP
+T11	MEAS 186 192	élevée
+T12	MEAS 195 202	75 mg/l
+T13	PROC 207 232	scanner abdomino- pelvien
+T14	ANAT 215 232	abdomino- pelvien
+T15	PROC 258 275	bilan étiologique
+T16	DISO 281 304	épigastralgie chronique
+T17	DISO 335 380	adénopathies péripancréatiques hypogastriques
+T18	ANAT 348 380	péripancréatiques hypogastriques
+T19	DISO 393 412	lésions secondaires

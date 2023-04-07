@@ -1,0 +1,15 @@
+T1	PROC 2 17	examen clinique
+T2	PROC 22 31	admission
+T3	LIVB 43 51	patiente
+T4	MEAS 55 64	assez bon
+T5	Concept_Idea 65 77	état général
+T6	DISO 79 90	polypneique
+T7	MEAS 93 106	28 cycles/min
+T9	MEAS 125 130	29 kg
+T10	PHEN 136 154	suites opératoires
+T11	MEAS 163 170	simples
+T12	PROC 175 196	radiographie du coude
+T13	ANAT 191 196	coude
+T14	DISO 224 314	opacification des parties molles métacarpophalangiennes inféro-métatarsienne superficielle
+T16	DISO 320 343	ostéophytes compressifs
+T17	DISO 349 375	atteinte ostéo-articulaire

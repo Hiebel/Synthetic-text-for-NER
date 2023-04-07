@@ -1,0 +1,68 @@
+T1	LIVB 4 12	patiente
+T2	PHEN 29 58	grossesse gynéco-obstétricale
+T3	PROC 63 69	suivie
+T4	DISO 111 125	myométrorrhées
+T5	CHEM 180 192	amoxicilline
+T6	CHEM 193 211	acide clavulanique
+T7	DISO 240 289	syndrome d'épanchement intrapéritonéal systémique
+T8	ANAT 263 289	intrapéritonéal systémique
+T9	TEMP 301 325	4ème jour postopératoire
+T10	PROC 331 370	anesthésie pelvienne transoesophagienne
+T11	ANAT 342 370	pelvienne transoesophagienne
+T12	PROC 372 375	ETO
+T13	PROC 380 404	exploration chirurgicale
+T14	DISO 420 442	masse tumorale ulcérée
+T15	MEAS 452 456	9 cm
+T16	Concept_Idea 460 469	grand axe
+T17	MEAS 478 482	3 cm
+T18	Concept_Idea 486 495	petit axe
+T19	ANAT 516 532	sinus ombilicale
+T20	DISO 546 602	hypervascularisation périthoracique tissulaire nodulaire
+T21	ANAT 632 650	cavité intestinale
+T22	PROC 667 690	injection intraveineuse
+T23	CHEM 694 704	sufentanil
+T24	DISO 734 747	cholestatique
+T25	PROC 752 778	mastectomie type Fergusson
+T26	PROC 794 817	radiothérapie adjuvante
+T27	DISO 867 893	localisations néoplasiques
+T28	DISO 916 966	adénopathies cervico-cervicales latéro-myomateuses
+T29	DISO 977 1000	localisations kystiques
+T30	ANAT 1035 1052	organes urinaires
+T31	DISO 1062 1088	envahissement métastatique
+T32	DISO 1114 1156	lymphangiome épidermoïde purulonecrétatien
+T33	LIVB 1168 1176	patiente
+T34	DISO 1288 1301	malformations
+T36	DISO 1485 1514	tumeurs brunes hypertrophiées
+T37	MEAS 1611 1620	favorable
+T38	MEAS 1673 1693	supra-centimétriques
+T39	MEAS 1703 1723	multi-centimétriques
+T40	PROC 1743 1779	traitement spécifique complémentaire
+T41	Concept_Idea 1900 1907	mesures
+T42	Concept_Idea 1931 1937	volume
+T45	DISO 2090 2111	prostigial carcinomes
+T46	DISO 2211 2245	lésions lésionnelles prurigineuses
+T47	ANAT 2739 2745	utérus
+T48	PHEN 2779 2800	contractions utérines
+T49	ANAT 2792 2800	utérines
+T50	MEAS 2801 2811	conservées
+T51	DISO 2824 2833	anomalies
+T52	DISO 2861 2889	adénopathies du paroi utérin
+T53	ANAT 2877 2889	paroi utérin
+T54	DISO 2895 2918	épanchements péritonéal
+T55	ANAT 2908 2918	péritonéal
+T56	LIVB 2952 2960	patiente
+T57	Hospital 2965 2973	urgences
+T58	DISO 2986 3012	douleur abdomino-pelvienne
+T59	ANAT 2994 3012	abdomino-pelvienne
+T60	TEMP 3028 3045	depuis deux jours
+T61	MEAS 3063 3074	progressive
+T62	DISO 3089 3127	syndrome d'épanchement intrapéritonéal
+T63	ANAT 3112 3127	intrapéritonéal
+T64	PROC 3155 3172	examens cliniques
+T65	DISO 3191 3225	masse latéro-utérine hypoéchogènes
+T66	MEAS 3235 3240	14 cm
+T67	MEAS 3245 3249	9 cm
+T68	DISO 3274 3298	lésion tumorale kystique
+T69	DISO 3307 3344	carcinome latéro-utérin péritumeurnel
+T70	ANAT 3317 3344	latéro-utérin péritumeurnel
+T71	DISO 3375 3396	signes gynécologiques

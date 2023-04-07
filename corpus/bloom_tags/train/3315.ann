@@ -1,0 +1,45 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 47 58	antécédents
+T3	MEAS 59 71	particuliers
+T4	PROC 73 78	admis
+T5	Hospital 83 91	urgences
+T6	DISO 104 126	douleurs épigastriques
+T7	ANAT 113 126	épigastriques
+T8	PROC 139 157	traitement médical
+T9	PROC 161 176	examen clinique
+T10	DISO 197 230	déchirure du greffon épigastrique
+T11	ANAT 210 230	greffon épigastrique
+T12	DISO 245 278	syndrome d'épanchement péritonéal
+T13	ANAT 268 278	péritonéal
+T14	PROC 285 300	toucher pelvien
+T15	ANAT 293 300	pelvien
+T16	MEAS 307 313	normal
+T17	PROC 318 339	biopsie préopératoire
+T18	DISO 367 400	dermomyosite érythémato-croulante
+T19	PHEN 405 415	scapulaire
+T20	ANAT 439 465	parois intestinales grêles
+T21	ANAT 480 510	artère gastroduodéno-splénique
+T22	MEAS 520 532	environ 5 cm
+T23	Concept_Idea 536 545	grand axe
+T24	PROC 561 594	ponction pleurieuse intraveineuse
+T25	ANAT 570 594	pleurieuse intraveineuse
+T26	TEMP 621 632	Une semaine
+T27	DISO 689 698	symptômes
+T28	DISO 716 733	récidive tumorale
+T29	DISO 739 765	atteinte cutanéo-muqueuses
+T30	ANAT 748 765	cutanéo-muqueuses
+T31	DISO 786 793	lésions
+T32	MEAS 815 823	diffuses
+T33	ANAT 836 852	sinus ombilicale
+T34	ANAT 926 938	épigastrique
+T35	DISO 984 1027	tissu graisseux pérituberculeux kystéatique
+T36	PROC 1031 1048	geste chirurgical
+T37	PROC 1067 1102	laparotomie bilatérale exploratrice
+T38	Localization 1079 1089	bilatérale
+T39	PROC 1108 1132	anesthésie locorégionale
+T40	CHEM 1119 1132	locorégionale
+T41	MODE 1137 1163	voie veineuse périphérique
+T42	DISO 1201 1227	malformations congénitales
+T43	ANAT 1247 1264	intra-péritonéale
+T44	PROC 1314 1331	tomodensitométrie
+T45	PROC 1332 1335	TDM

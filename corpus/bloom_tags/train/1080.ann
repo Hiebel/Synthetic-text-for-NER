@@ -1,0 +1,40 @@
+T1	LIVB 3 14	jeune homme
+T2	TEMP 18 24	22 ans
+T3	DISO 43 62	traumatisme crânien
+T4	DISO 68 84	syndrome fébrile
+T5	LIVB 132 135	lui
+T6	DISO 150 168	crises convulsives
+T7	PROC 189 204	hospitalisation
+T8	Hospital 209 217	urgences
+T9	PROC 223 259	traitement antibiocortico-résistants
+T10	CHEM 272 303	amoxicilline-acide clavulanique
+T11	PROC 317 351	radiothérapie palliative adjuvante
+T12	PROC 430 470	étude électroencéphalique transcranurale
+T13	DISO 505 528	symptômes neurologiques
+T14	DISO 621 635	neuroleptiques
+T15	MEAS 890 901	progressive
+T16	MEAS 1031 1048	supérieure à 4/10
+T17	MEAS 1058 1066	brunâtre
+T18	MEAS 1078 1093	progressivement
+T19	Concept_Idea 1097 1103	volume
+T20	DISO 1179 1202	consanguinité familiale
+T21	DISO 1209 1227	conflits familiaux
+T22	LIVB 1378 1386	patients
+T23	DISO 1491 1516	déficits sensitivomoteurs
+T24	TEMP 1548 1554	15 ans
+T25	DISO 1597 1614	défaut myotonique
+T26	ANAT 1638 1663	parties molles cervicales
+T27	DISO 1706 1728	épanchement péritonéal
+T28	ANAT 1718 1728	péritonéal
+T29	Localization 1786 1790	sous
+T30	PROC 2089 2113	exploration chirurgicale
+T31	DISO 2126 2157	adénocarcinome du paragangliome
+T32	ANAT 2144 2157	paragangliome
+T33	ANAT 2172 2189	vésicule biliaire
+T34	PROC 2195 2210	examen clinique
+T35	LIVB 2215 2222	patient
+T36	DISO 2238 2255	syndromes fébrile
+T37	PHEN 2279 2294	acuité visuelle
+T38	MEAS 2299 2303	2/10
+T39	LIVB 2306 2308	Il
+T40	DISO 2330 2352	troubles neurologiques

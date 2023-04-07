@@ -1,0 +1,25 @@
+T1	PROC 2 8	examen
+T2	PROC 13 22	admission
+T3	LIVB 39 47	patiente
+T4	MEAS 51 54	bon
+T5	Concept_Idea 55 67	état général
+T6	DISO 72 104	syndrome d'épanchement liquidien
+T7	ANAT 95 104	liquidien
+T8	Localization 121 133	face interne
+T9	ANAT 137 149	cuir chevelu
+T10	PROC 154 173	pression artérielle
+T11	ANAT 163 173	artérielle
+T12	MEAS 190 202	120/100 mmhg
+T13	PROC 220 236	examen somatique
+T14	DISO 248 261	particularité
+T15	DISO 278 302	anomalies hémodynamiques
+T16	PROC 306 342	auscultation cardio-vasculo-nerveuse
+T17	ANAT 319 342	cardio-vasculo-nerveuse
+T18	PROC 344 348	CECV
+T19	PHEN 374 390	rythmes sinusaux
+T20	MEAS 391 400	réguliers
+T21	ANAT 411 422	auriculaire
+T22	ANAT 426 448	pédicule latéro-cæcale
+T23	CHEM 482 493	antalgiques
+T24	CHEM 499 510	nicardipine
+T25	CHEM 512 525	dexaméthasone

@@ -1,0 +1,19 @@
+T1	LIVB 33 41	patiente
+T2	DISO 98 132	syndrome d’hypertension artérielle
+T3	ANAT 122 132	artérielle
+T4	CHEM 153 189	inhibiteur de l'enzyme de conversion
+T5	DISO 193 246	ischémie cutanéo-nerveuse cervico-cérébrale ischmante
+T7	TEMP 256 272	depuis 48 heures
+T8	Concept_Idea 308 320	état général
+T9	MEAS 335 341	rapide
+T10	PROC 358 373	hospitalisation
+T11	Hospital 378 403	urgences ophtalmologiques
+T12	PROC 462 494	scanner thoraco-abdomino-pelvien
+T13	ANAT 470 494	thoraco-abdomino-pelvien
+T14	LIVB 514 522	patiente
+T15	DISO 545 580	épanchement intracrânien péritonéal
+T16	ANAT 557 580	intracrânien péritonéal
+T17	ANAT 597 642	sinus caverneux céphalo-caudale latéral droit
+T18	Localization 637 642	droit
+T19	DISO 680 726	hypotonie utérine érythéno-hypoéchogynéliforme
+T21	MEAS 747 755	23*10 cm

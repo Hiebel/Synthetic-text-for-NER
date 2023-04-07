@@ -1,0 +1,22 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	3 ans
+T3	PROC 36 40	reçu
+T4	Hospital 45 53	urgences
+T5	DISO 63 81	douleur thoracique
+T6	ANAT 71 81	thoracique
+T7	MEAS 96 107	progressive
+T8	PROC 113 122	admission
+T9	Concept_Idea 127 145	tension artérielle
+T10	ANAT 135 145	artérielle
+T11	MEAS 154 166	100/60 mm Hg
+T12	PROC 184 200	examen somatique
+T13	DISO 206 219	particularité
+T14	PROC 223 253	auscultation cardio-vasculaire
+T15	ANAT 236 253	cardio-vasculaire
+T16	DISO 312 340	cardiomyopathie hypertensive
+T17	PROC 358 388	bilan biologique préopératoire
+T18	PROC 390 413	numération plaquettaire
+T19	PROC 415 428	globule rouge
+T20	PROC 430 440	plaquettes
+T21	DISO 458 470	thrombopénie
+T22	MEAS 473 492	11000 éléments/mm 3

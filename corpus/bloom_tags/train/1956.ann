@@ -1,0 +1,26 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	6 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 73 78	admis
+T6	Hospital 83 104	urgences pédiatriques
+T7	DISO 114 152	douleurs abdominales aiguës sifflantes
+T8	ANAT 123 134	abdominales
+T9	MEAS 167 174	modérée
+T10	TEMP 184 198	depuis 5 jours
+T11	PROC 202 217	examen clinique
+T12	PROC 222 231	admission
+T13	LIVB 242 248	enfant
+T14	MEAS 252 255	bon
+T15	Concept_Idea 256 268	état général
+T16	PHEN 278 289	tachycardie
+T17	MEAS 302 320	130 battements/min
+T19	MEAS 342 346	36°C
+T20	PROC 350 380	échographie abdomino-pelvienne
+T21	ANAT 362 380	abdomino-pelvienne
+T22	DISO 411 487	masse tissulaire du hile utéro-ovarien latérocervico-thoracique hypoechogène
+T24	MEAS 496 501	12 cm
+T25	Concept_Idea 505 514	grand axe
+T27	Localization 564 586	face antéropéritonéale
+T28	MEAS 596 601	18 mm
+T29	Concept_Idea 605 614	grand axe

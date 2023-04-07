@@ -1,0 +1,63 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 38 63	antécédents pathologiques
+T4	MEAS 64 72	notables
+T5	PROC 74 79	admis
+T6	Hospital 83 90	urgence
+T7	Hospital 95 120	urgences ophtalmologiques
+T8	DISO 130 160	douleurs épigastriques fébrile
+T9	ANAT 139 152	épigastriques
+T10	DISO 180 199	hématurie purulente
+T11	TEMP 209 222	depuis 6 mois
+T12	PROC 226 241	examen clinique
+T13	PROC 246 255	admission
+T14	Hospital 259 274	bloc opératoire
+T15	Concept_Idea 288 299	température
+T16	MEAS 302 307	39°8C
+T17	PHEN 314 319	pouls
+T18	MEAS 331 349	150 battements/min
+T19	PROC 353 384	échographie abdomino- pelvienne
+T20	ANAT 365 384	abdomino- pelvienne
+T21	DISO 404 470	lésion tissulaire du péritoine péraréctal latéro-myometriale droit
+T22	ANAT 425 470	péritoine péraréctal latéro-myometriale droit
+T23	Localization 465 470	droit
+T24	MEAS 480 485	20 cm
+T25	MEAS 490 495	14 cm
+T26	ANAT 511 521	col utérin
+T27	ANAT 536 548	anses grêles
+T28	PROC 564 587	scanner abdominopelvien
+T29	ANAT 572 587	abdominopelvien
+T31	ANAT 692 709	paroi intestinale
+T32	DISO 726 749	excavations nécrotiques
+T33	DISO 778 786	kystique
+T34	LIVB 788 790	Il
+T35	PROC 806 833	chimiothérapie concomitante
+T36	CHEM 844 854	cisplatine
+T37	CHEM 860 872	oxaliplatine
+T38	MODE 877 895	voie intraveineuse
+T39	DOSE 897 903	750 mg
+T40	DEVI 908 937	cathéter veineux périphérique
+T41	DOSE 940 946	1mg/kg
+T42	DOSE 949 956	2 mg/kg
+T43	TEMP 958 973	pendant 3 jours
+T44	PROC 982 1007	intervention chirurgicale
+T45	PROC 1038 1072	curage ganglionnaire locorégionale
+T46	ANAT 1045 1072	ganglionnaire locorégionale
+T47	DISO 1126 1143	processus tumoral
+T48	ANAT 1163 1178	annexes iléales
+T49	PROC 1276 1298	recherche histologique
+T50	LIVB 1318 1324	enfant
+T51	PROC 1360 1394	traitement antibacillaire adjuvant
+T52	CHEM 1420 1433	métronidazole
+T53	CHEM 1447 1460	rifaméthasone
+T54	DOSE 1463 1469	200 mg
+T55	TEMP 1477 1490	immédiatement
+T56	PROC 1523 1548	surveillance radiologique
+T57	DISO 1593 1629	localisation secondaire métastatique
+T58	DISO 1739 1758	syndrome infectieux
+T59	PROC 1895 1919	diagnostic préopératoire
+T60	DISO 1969 1991	traumatisme thoracique
+T61	ANAT 1981 1991	thoracique
+T62	DISO 2046 2058	tuberculeuse
+T64	DISO 2254 2267	consanguinité
+T65	MEAS 2325 2328	3(%

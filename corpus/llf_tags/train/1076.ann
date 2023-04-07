@@ -1,0 +1,45 @@
+T1	LIVB 16 24	patiente
+T2	PROC 46 52	admise
+T3	Hospital 57 65	urgences
+T4	DISO 75 83	douleurs
+T5	DISO 91 102	vomissement
+T6	Concept_Idea 147 159	état général
+T7	PROC 163 178	examen clinique
+T8	PROC 183 192	admission
+T9	LIVB 204 212	patiente
+T10	Concept_Idea 238 256	plan hémodynamique
+T11	DISO 262 275	signes vitaux
+T12	DISO 289 307	troubles sensitifs
+T13	PHEN 311 320	urinaires
+T14	PROC 334 365	radiographie standard du thorax
+T15	ANAT 359 365	thorax
+T16	MEAS 380 387	normale
+T17	PROC 401 440	tomodensitométrie par cohérence optique
+T18	PROC 462 480	examen obstétrical
+T19	DISO 490 504	particularités
+T20	PROC 509 522	sérologie VIH
+T21	MEAS 529 537	positive
+T22	LIVB 549 557	patiente
+T23	DISO 586 612	remaniement anaphylactoïde
+T24	PROC 620 636	bilan biologique
+T25	PROC 642 703	chimiothérapie palliative type immunoglobulines intraveineuse
+T26	CHEM 673 703	immunoglobulines intraveineuse
+T27	PROC 716 735	traitement adjuvant
+T28	DISO 858 902	symptomatologie neuropsychiatrique primitive
+T29	PROC 1139 1179	surveillance psychiatrique préopératoire
+T30	DISO 1274 1311	récidive clinico-médico-psychiatrique
+T31	LIVB 1322 1328	enfant
+T32	TEMP 1336 1343	16 mois
+T33	Hospital 1360 1381	urgences pédiatriques
+T34	Concept_Idea 1403 1415	état général
+T35	DISO 1436 1456	perforation sinusale
+T36	PROC 1514 1528	interrogatoire
+T37	LIVB 1534 1540	enfant
+T38	LIVB 1580 1582	sa
+T39	LIVB 1583 1587	sœur
+T40	TEMP 1663 1670	18 mois
+T41	DEVI 1685 1712	processus tissulaire souple
+T42	Concept_Idea 1779 1799	rapport signal/bruit
+T43	DISO 1822 1835	plaie cutanée
+T44	PROC 1853 1880	explorations fonctionnelles
+T45	PROC 1914 1935	ventilation mécanique

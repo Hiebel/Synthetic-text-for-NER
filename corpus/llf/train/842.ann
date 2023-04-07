@@ -1,0 +1,14 @@
+T1	DISO 31 56	localisations
+T2	PROC 61 77	bilan
+T3	DISO 100 119	anémie
+T4	ANAT 107 119	microcytaire
+T5	MEAS 122 130	10,5g/dl
+T6	PROC 139 159	taux
+T7	PROC 161 163	TS
+T8	MEAS 164 172	=10mUI/L
+T9	PROC 188 193	bilan
+T10	MEAS 200 206	normal
+T11	PROC 211 255	tomodensitométrie
+T12	ANAT 229 255	thoraco-abdomino-pelvienne
+T13	LIVB 310 315	notre
+T14	Hospital 316 323	service

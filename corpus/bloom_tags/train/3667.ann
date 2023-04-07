@@ -1,0 +1,65 @@
+T1	LIVB 3 10	patient
+T2	PROC 31 42	hospitalisé
+T3	Hospital 52 60	urgences
+T4	DISO 96 114	masse épigastrique
+T5	ANAT 102 114	épigastrique
+T6	MEAS 126 141	progressivement
+T7	Concept_Idea 145 151	taille
+T8	TEMP 161 174	depuis 6 mois
+T9	DISO 190 201	traumatisme
+T10	DISO 212 228	signes cliniques
+T11	DISO 255 271	troubles visuels
+T12	DISO 277 300	agitation psychomotrice
+T14	PROC 324 346	TDM) abdominopelvienne
+T15	ANAT 329 346	abdominopelvienne
+T16	LIVB 373 381	patiente
+T17	DISO 401 452	processus lésionnel tissulaire hétérogène hypodense
+T18	MEAS 461 466	46 mm
+T19	Concept_Idea 470 479	grand axe
+T20	MEAS 484 488	24mm
+T21	Concept_Idea 492 507	petites tailles
+T22	ANAT 522 562	intestin grêle jéjunostomie iléo-caecale
+T23	PROC 591 600	injection
+T24	CHEM 604 624	produit de contraste
+T25	ANAT 642 676	parenchyme épigastrique iléocoecal
+T26	MODE 780 806	voie veineuse périphérique
+T27	DISO 833 844	lithiasique
+T28	PROC 848 869	recherche étiologique
+T29	PROC 882 912	bilan biologique préopératoire
+T30	DISO 953 974	pathologies associées
+T31	DISO 995 1046	syndrome d’épanchement pleural liquidien péritonéal
+T32	ANAT 1018 1046	pleural liquidien péritonéal
+T33	PROC 1070 1094	scanner abdomino-pelvien
+T34	ANAT 1078 1094	abdomino-pelvien
+T35	MEAS 1106 1113	normale
+T36	DISO 1138 1154	anomalie maligne
+T37	PROC 1171 1213	curage ganglionnaire axillaire explorateur
+T38	ANAT 1178 1213	ganglionnaire axillaire explorateur
+T39	MEAS 1227 1237	nécessaire
+T40	PROC 1249 1306	radiothérapie curative adjuvante locorégionale type FLAIR
+T41	PROC 1350 1373	diagnostic différentiel
+T42	PROC 1386 1408	résection chirurgicale
+T43	DISO 1425 1441	myélome kystique
+T44	PROC 1557 1585	chiffres crâniens somatiques
+T45	PROC 1599 1632	colpo-chimiothérapie substitutive
+T46	MEAS 1757 1772	insatisfaisante
+T47	DISO 1832 1847	symptomatologie
+T48	PROC 1912 1950	exploration gynécologique obstétricale
+T49	PROC 1951 1954	ECO
+T50	DISO 1971 2009	hernie sous-clavière supérieure gauche
+T51	Localization 1978 1982	sous
+T52	Localization 1992 2009	supérieure gauche
+T53	MEAS 2018 2024	type 2
+T54	ANAT 2142 2158	intrapéritonèaux
+T55	LIVB 2262 2267	elles
+T56	Concept_Idea 2311 2321	indication
+T57	PROC 2327 2372	examen cytobactériologique du liquide pleural
+T59	CHEM 2392 2414	Pseudomonas aeruginosa
+T60	PROC 2418 2453	échographie cardio-vasculo-nerveuse
+T61	ANAT 2430 2453	cardio-vasculo-nerveuse
+T62	PROC 2455 2459	ETCN
+T63	PHEN 2478 2505	contractions ventriculaires
+T64	ANAT 2491 2505	ventriculaires
+T65	MEAS 2506 2516	conservées
+T66	DISO 2529 2550	troubles métaboliques
+T67	DISO 2567 2602	cardiomyopathie dilaté hypertrophié

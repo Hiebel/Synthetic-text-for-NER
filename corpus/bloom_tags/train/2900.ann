@@ -1,0 +1,74 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 45 76	antécédents médico-chirurgiques
+T3	MEAS 77 89	particuliers
+T4	PROC 91 97	admise
+T5	Hospital 102 110	urgences
+T6	DISO 120 146	douleurs pelviennes aiguës
+T7	ANAT 129 139	pelviennes
+T8	DISO 163 169	fièvre
+T9	MEAS 181 185	39°C
+T10	PROC 189 203	interrogatoire
+T11	DISO 230 244	épigastralgies
+T12	ANAT 270 278	pancréas
+T13	PROC 284 315	échographie abdomino- pelvienne
+T14	ANAT 296 315	abdomino- pelvienne
+T15	DISO 337 368	adénocarcinome péripancréatique
+T16	LIVB 370 374	Elle
+T17	PROC 393 422	cysto-méatotomie exploratrice
+T18	PROC 428 468	anastomose caecoprostéo-laryngoplastique
+T19	ANAT 439 468	caecoprostéo-laryngoplastique
+T20	PROC 473 492	bilan préopératoire
+T21	PROC 494 513	numération sanguine
+T22	PROC 516 526	leucocytes
+T23	MEAS 528 537	12300/mm3
+T24	PROC 539 554	globules blancs
+T25	MEAS 556 578	15000 éléments par mm3
+T26	PROC 580 590	plaquettes
+T27	MEAS 592 609	4100 000 elts/mm3
+T28	PROC 612 630	ionogramme sanguin
+T29	ANAT 623 630	sanguin
+T30	PROC 636 639	CRP
+T31	PROC 671 681	troponines
+T32	PHEN 716 734	grossier menstruel
+T33	PROC 739 775	tomodensitométrie abdomino-pelvienne
+T34	ANAT 757 775	abdomino-pelvienne
+T35	PROC 789 810	scintigraphie osseuse
+T36	ANAT 803 810	osseuse
+T37	MEAS 824 831	normaux
+T38	DISO 849 862	paragangliome
+T39	DISO 875 900	localisations secondaires
+T40	DISO 942 957	symptomatologie
+T41	TEMP 967 980	depuis 6 mois
+T42	CHEM 1010 1029	anti-inflammatoires
+T44	LIVB 1126 1136	nouveau-né
+T45	DISO 1188 1206	dépression utérine
+T46	ANAT 1199 1206	utérine
+T47	PROC 1212 1230	traitement curatif
+T48	CHEM 1277 1291	hydrocortisone
+T49	DOSE 1306 1316	1 ère dose
+T50	CHEM 1320 1333	dexaméthasone
+T51	DISO 1358 1374	signes cliniques
+T52	PROC 1398 1422	scanner abdomino-pelvien
+T54	PROC 1437 1452	hospitalisation
+T55	DISO 1475 1533	lésion tissulaire hypo échogène latéro utérine lithiasique
+T56	ANAT 1589 1605	hile vésiculaire
+T57	MEAS 1615 1620	22 cm
+T58	Concept_Idea 1624 1633	grand axe
+T59	Concept_Idea 1692 1700	contours
+T60	MEAS 1701 1713	irrégulières
+T61	DISO 1740 1760	mésentère anévrismal
+T62	DISO 1797 1821	masse arrondie hypodense
+T63	DISO 1874 1889	nodule malformé
+T64	Concept_Idea 1919 1925	taille
+T65	MEAS 1936 1953	supérieure à 5 cm
+T66	Concept_Idea 1970 1975	forme
+T67	MEAS 1982 1991	régulière
+T68	Localization 2094 2101	distale
+T69	DISO 2220 2257	défaut d'insuffisance rénalo-cœliaque
+T70	ANAT 2242 2257	rénalo-cœliaque
+T71	DISO 2492 2528	syndrome d'épanchement intrarétinien
+T72	ANAT 2515 2528	intrarétinien
+T73	MEAS 2538 2557	de grande abondance
+T74	ANAT 2886 2904	membres inférieurs
+T75	PHEN 2910 2928	suites opératoires
+T76	MEAS 2937 2944	simples

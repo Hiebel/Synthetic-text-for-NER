@@ -1,0 +1,18 @@
+T1	PROC 3 22	bilan préopératoire
+T2	DISO 35 58	nodule du scalp frontal
+T3	ANAT 45 58	scalp frontal
+T4	MEAS 62 66	4 cm
+T5	Concept_Idea 69 78	épaisseur
+T6	PROC 84 109	étude anatomopathologique
+T7	DISO 126 217	adénocarcinome à cellules chromophobes infiltrant la paroi vésicale pariéto-caudale commune
+T8	ANAT 179 217	paroi vésicale pariéto-caudale commune
+T9	ANAT 241 285	plan sous arachnoïdien supérieur superficiel
+T10	DISO 306 330	cholécystite anaplasique
+T11	LIVB 335 343	patiente
+T12	PROC 358 386	traitement immunosuppresseur
+T13	CHEM 369 386	immunosuppresseur
+T14	CHEM 388 398	Isoniazide
+T15	CHEM 401 411	Tamoxifene
+T16	MODE 417 437	voie intramusculaire
+T17	TEMP 462 468	3 mois
+T18	DISO 493 522	symptômes neuropsychiatriques

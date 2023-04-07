@@ -1,0 +1,58 @@
+T1	LIVB 28 35	patient
+T2	DISO 68 82	AVC ischémique
+T3	DISO 87 135	dépression artérielle intracrânienne compressive
+T4	ANAT 98 135	artérielle intracrânienne compressive
+T5	DISO 168 191	hypertension artérielle
+T6	ANAT 181 191	artérielle
+T7	TEMP 201 215	depuis 7 jours
+T8	CHEM 242 259	anti hypertenseur
+T9	CHEM 265 278	noradrénaline
+T10	CHEM 288 314	antagoniste dopaminergique
+T11	PROC 317 342	intervention chirurgicale
+T12	DISO 413 493	anévrysme thromboembolique veineux périparenchymateux angiosurrénalien chronique
+T13	DISO 674 693	tuberculose maligne
+T14	PROC 698 711	diagnostiquée
+T15	LIVB 723 731	patiente
+T16	DISO 759 778	contage tuberculeux
+T17	PROC 791 832	traitement antibacillaire antituberculeux
+T18	PROC 867 901	radiothérapie palliative adjuvante
+T19	DEVI 915 929	sonde vésicale
+T21	PROC 978 1014	transfusions sanguines périphériques
+T22	DOSE 1017 1036	400 globules rouges
+T23	DOSE 1039 1056	20 000 plaquettes
+T24	PROC 1062 1094	scanner thoraco-abdomino pelvien
+T25	ANAT 1070 1094	thoraco-abdomino pelvien
+T26	DISO 1119 1170	hernie parathyroïdienne sous pancréatique hypodense
+T28	Localization 1143 1147	sous
+T29	MEAS 1180 1185	13 cm
+T30	MEAS 1188 1193	12 cm
+T31	ANAT 1214 1247	veine cave rénale supra hépatique
+T32	Localization 1232 1237	supra
+T33	ANAT 1268 1293	greffon iléo-pancréatique
+T34	DISO 1351 1404	adénopathie hypophyso-métacromégalithyro thyroïdienne
+T35	ANAT 1363 1404	hypophyso-métacromégalithyro thyroïdienne
+T36	PROC 1436 1459	résection scanno-guidée
+T37	DISO 1473 1489	foyer nécrotique
+T38	PHEN 1503 1523	grossesse gémellaire
+T39	PROC 1528 1555	analyse anatomopathologique
+T40	DISO 1583 1600	lésions tumorales
+T41	DISO 1617 1653	métastases carcinomateuses nécrosées
+T42	DISO 1697 1707	nécrotique
+T43	ANAT 1898 1918	péritonéal liquidien
+T44	MEAS 1929 1936	1litres
+T45	MEAS 1953 1966	10 fois moins
+T46	DISO 1979 1994	kyste hydatique
+T47	DISO 2023 2040	organes kystiques
+T48	DISO 2102 2129	localisations métastatiques
+T49	PROC 2238 2263	pronostic pré-chirurgical
+T50	PROC 2351 2371	chirurgie thoracique
+T51	PROC 2465 2483	traitement curatif
+T52	PROC 2489 2510	échographie pelvienne
+T53	ANAT 2501 2510	pelvienne
+T54	DISO 2549 2610	dilatation des annexes utérines inféro-utérines basithrombose
+T56	DISO 2624 2630	signes
+T58	ANAT 2666 2679	massif facial
+T59	PROC 2681 2703	TDM) abdominopelvienne
+T60	ANAT 2686 2703	abdominopelvienne
+T61	PROC 2720 2745	examen histo-pathologique
+T62	DISO 2768 2782	lésion maligne

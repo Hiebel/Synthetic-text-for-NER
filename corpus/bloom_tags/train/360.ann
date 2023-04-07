@@ -1,0 +1,35 @@
+T1	LIVB 4 9	femme
+T2	Concept_Idea 31 62	antécédents médico-chirurgicaux
+T3	MEAS 63 75	particuliers
+T4	PROC 77 85	consulte
+T5	Hospital 90 98	urgences
+T6	DISO 107 132	traumatisme du pied droit
+T7	ANAT 122 132	pied droit
+T8	Localization 127 132	droit
+T9	DISO 200 233	syndrome inflammatoire biologique
+T10	PROC 237 251	interrogatoire
+T11	DISO 288 311	agitation psychomotrice
+T12	MEAS 326 337	spasmodique
+T13	TEMP 347 360	depuis 6 mois
+T14	PROC 445 466	traitement antalgique
+T15	DISO 480 541	tuméfaction prurigineuse angulo-reticulée érythémato-muqueuse
+T16	MEAS 553 568	progressivement
+T17	Concept_Idea 572 578	taille
+T18	MEAS 588 593	45 cm
+T19	Concept_Idea 597 606	grand axe
+T20	MEAS 611 624	environ 15 cm
+T21	Concept_Idea 628 641	petite taille
+T22	ANAT 658 692	parties molles cervico-thoraciques
+T23	DISO 714 733	lésions purpuriques
+T24	ANAT 754 766	corps dorsal
+T25	DISO 797 805	tumorale
+T26	DISO 809 823	carcinomateuse
+T27	ANAT 914 934	métacarpophalangiens
+T28	PROC 992 1017	examen histo-pathologique
+T29	LIVB 1029 1037	patiente
+T30	DISO 1063 1071	kystique
+T31	PROC 1078 1100	immuno fluorescéscence
+T32	PROC 1113 1137	bilan d'immunodépression
+T33	MEAS 1156 1163	négatif
+T34	PROC 1174 1193	immunohistochimique
+T35	DISO 1220 1239	épidermoide maligne

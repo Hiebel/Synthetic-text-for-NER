@@ -1,0 +1,36 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	PROC 54 81	curiethérapie préopératoire
+T4	PROC 83 87	CPTP
+T5	DOSE 89 94	20 Gy
+T6	PROC 108 137	chimiothérapie antibacillaire
+T7	CHEM 143 156	paclidylamide
+T8	CHEM 157 170	dexaméthasone
+T9	PROC 186 209	radiothérapie adjuvante
+T10	PROC 215 224	admission
+T11	Hospital 228 243	bloc opératoire
+T12	LIVB 245 249	elle
+T13	DISO 269 275	fièvre
+T14	MEAS 278 282	40°C
+T15	DISO 295 315	syndromes infectieux
+T16	DISO 341 355	amaigrissement
+T17	MEAS 367 371	3 kg
+T18	DISO 463 492	sueurs érythémato-pustuleuses
+T19	TEMP 514 527	depuis 2 mois
+T20	DISO 570 583	symptomatique
+T21	MEAS 598 613	lentprogressive
+T22	PROC 650 676	touchers pelviens urétrals
+T23	ANAT 659 676	pelviens urétrals
+T24	DISO 845 860	symptomatologie
+T25	MEAS 872 878	rapide
+T26	MEAS 980 993	satisfaisante
+T27	PROC 1062 1090	marquage immunohistochimique
+T28	PROC 1113 1143	échographie abdomino pelvienne
+T29	ANAT 1125 1143	abdomino pelvienne
+T30	DISO 1160 1186	masse tissulaire hypodense
+T31	MEAS 1196 1200	17cm
+T32	Concept_Idea 1204 1213	grand axe
+T33	PROC 1262 1285	injection intraveineuse
+T34	CHEM 1289 1309	produit de contraste
+T35	Localization 1327 1342	tiers inférieur
+T36	ANAT 1349 1367	colonne abdominale

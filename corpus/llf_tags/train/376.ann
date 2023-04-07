@@ -1,0 +1,86 @@
+T1	LIVB 19 29	nourrisson
+T2	TEMP 37 44	16 mois
+T3	PHEN 101 111	grossesses
+T4	PROC 116 122	suivie
+T5	LIVB 138 146	pédiatre
+T6	LIVB 163 165	il
+T7	PROC 200 234	traitement chirurgical substitutif
+T8	PROC 244 273	assistance médicale néonatale
+T9	LIVB 286 288	il
+T11	Hospital 379 400	urgences pédiatriques
+T12	PROC 427 434	travail
+T13	LIVB 467 473	enfant
+T14	Concept_Idea 596 608	état général
+T15	PROC 614 629	examen clinique
+T16	LIVB 649 659	nouveau-né
+T17	TEMP 673 684	24 semaines
+T18	MEAS 692 702	4600gramme
+T19	MEAS 708 720	1150 grammes
+T20	MEAS 749 760	570 grammes
+T21	MEAS 766 769	65%
+T22	PROC 783 808	hémodialyse intraveineuse
+T23	PROC 822 867	anastomose termino-duodénale cervicale totale
+T24	PROC 884 913	saturation pulsée fractionnée
+T25	MEAS 924 936	20 ml/minute
+T26	DISO 960 986	consanguinité pathologique
+T27	MEAS 1028 1042	13 centimètres
+T28	MEAS 1045 1059	10 centimètres
+T29	Concept_Idea 1070 1087	plan histologique
+T30	DISO 1134 1162	maladie cœliaque congénitale
+T31	DISO 1220 1250	infection tuberculeuse maligne
+T32	DISO 1271 1305	neurochirurgie digestive primitive
+T33	MEAS 1343 1350	simples
+T34	LIVB 1421 1445	infirmiers anesthésistes
+T35	PROC 1467 1489	prélèvements cliniques
+T36	PROC 1494 1504	diagnostic
+T37	DISO 1530 1596	mucocèle asymptomatique gestationistico-infectieuse polymyomateuse
+T38	TEMP 1616 1634	depuis trois jours
+T39	DISO 1649 1679	crise convulsive psychomotrice
+T40	DISO 1697 1737	symptomatologie neuropsychiatrique aiguë
+T41	DISO 1753 1851	dysphagie stade III MIGROTECHNOLOGIES INHAIRESScanonomyopathie erythémato-conjonctivite diabétique
+T42	DISO 1957 1992	récidives obstétricales secondaires
+T43	DISO 2051 2091	tuberculose multirozygote éosinophilique
+T44	DISO 2137 2189	pseudo-encéphalite herpétique idiopathique chronique
+T45	DISO 2200 2282	hypertriglycéridémie réactionnelle syndrome inflammatoire auto-immunohistochimique
+T46	PROC 2302 2324	enquête pré diagnostic
+T47	LIVB 2359 2397	médecins cardiologues interventionnels
+T48	PROC 2494 2529	étude immunohistochimique familiale
+T49	PROC 2530 2538	PIVE IRM
+T50	DISO 2566 2595	méningo-vascularite nodulaire
+T51	LIVB 2604 2611	patient
+T52	Concept_Idea 2653 2682	caractéristiques pédiatriques
+T53	Concept_Idea 2711 2714	âge
+T54	DISO 2767 2782	nodule du cavum
+T55	ANAT 2777 2782	cavum
+T56	ANAT 2796 2819	membre inférieur gauche
+T57	Localization 2813 2819	gauche
+T58	ANAT 2827 2842	pied supérieure
+T59	Localization 2832 2842	supérieure
+T60	DISO 2858 2878	traumatisme corporel
+T61	DISO 2888 2907	difficulté sexuelle
+T62	PHEN 2921 2930	grossesse
+T63	PROC 2951 2969	antibioprophylaxie
+T64	CHEM 2971 2983	Amoxicilline
+T65	CHEM 2986 3017	amoxicilline acide clavulanique
+T66	PROC 3031 3055	prise en charge médicale
+T67	DISO 3092 3113	incident thrombotique
+T68	DISO 3136 3160	consanguinité périnatale
+T69	DISO 3207 3226	syndrome infectieux
+T70	DISO 3235 3255	troubles vasomoteurs
+T71	DISO 3262 3294	déficit cognitivo-comportemental
+T72	DISO 3326 3345	lésion hémorragique
+T73	PROC 3355 3386	traitements parentaux intensifs
+T74	PROC 3469 3489	transfusion sanguine
+T75	Concept_Idea 3498 3523	plan anatomopathologiaque
+T76	PROC 3545 3569	exploration chirurgicale
+T77	LIVB 3613 3616	son
+T78	LIVB 3617 3623	épouse
+T79	LIVB 3631 3653	collègues chirurgicaux
+T80	LIVB 3719 3729	nouveau-né
+T81	TEMP 3754 3765	11 semaines
+T82	PHEN 3840 3853	vie prénatale
+T83	PROC 3866 3881	bientÃ´trocence
+T84	TEMP 3901 3910	1 semaine
+T85	PROC 3955 3993	chimiothérapie palliative substitutive
+T86	PROC 4049 4075	radiothérapie probabiliste
+T87	PROC 4135 4173	oxygénothérapie néo adjuvante continue

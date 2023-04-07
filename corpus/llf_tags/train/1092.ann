@@ -1,0 +1,93 @@
+T1	PROC 3 20	tomodensitométrie
+T2	PROC 22 45	TDM) abdomino-pelvienne
+T3	ANAT 27 45	abdomino-pelvienne
+T4	DISO 61 95	processus tissulaire du lobe droit
+T5	ANAT 85 95	lobe droit
+T6	Localization 90 95	droit
+T7	PROC 101 126	chimiothérapie palliative
+T8	CHEM 136 170	immunoglobulines intraveineuse IgG
+T9	MEAS 226 231	bonne
+T10	Concept_Idea 232 242	congruence
+T11	LIVB 251 258	patient
+T12	PROC 269 299	radiothérapie adjuvante locale
+T13	DEVI 303 308	bolus
+T14	PHEN 313 331	suites opératoires
+T15	Concept_Idea 354 360	normes
+T16	LIVB 376 394	médecin urgentiste
+T17	TEMP 399 413	deuxième temps
+T18	PROC 432 451	anesthésie générale
+T19	ANAT 464 475	lit tumoral
+T20	PROC 526 550	ventilation artificielle
+T21	DISO 569 588	fistule bactérienne
+T22	PROC 602 636	toilette thoracique complémentaire
+T23	ANAT 611 621	thoracique
+T24	PROC 649 690	lavage broncho alvéolaire cervico-vaginal
+T25	ANAT 656 690	broncho alvéolaire cervico-vaginal
+T26	PROC 721 733	intervention
+T27	MEAS 770 777	simples
+T28	DISO 783 791	incident
+T29	DISO 795 816	récidive métastatique
+T30	DISO 827 847	signes radiologiques
+T31	PROC 862 884	traitement chirurgical
+T32	TEMP 896 902	3 mois
+T33	PROC 925 958	tumorectomie exploratrice élargie
+T34	PROC 987 1028	annexectomie antérieure postéro-extensive
+T35	Localization 1000 1028	antérieure postéro-extensive
+T36	ANAT 1048 1076	structures cutanéo-kystiques
+T37	MEAS 1121 1126	55 cm
+T38	Concept_Idea 1130 1139	grand axe
+T39	MEAS 1149 1154	18 mm
+T40	Concept_Idea 1158 1168	profondeur
+T41	Concept_Idea 1202 1232	caractéristiques morphologique
+T42	PROC 1269 1295	examen anatomopathologique
+T43	PROC 1315 1326	prélèvement
+T44	DISO 1342 1370	germe polymorphe malformatif
+T45	MEAS 1392 1405	6 centimètres
+T46	Concept_Idea 1409 1424	grande courbure
+T47	DISO 1448 1471	métastase intraluminale
+T48	DISO 1495 1550	remaniement kystique liquidien hétérotopique infiltrant
+T49	ANAT 1574 1633	branches pelvipalpadiennes thoraciques antero-claviculaires
+T50	ANAT 1648 1678	interventriculaire homolatéral
+T51	Localization 1667 1678	homolatéral
+T52	PROC 1693 1748	complément immunohistochimique scanno-guidèriquetomique
+T53	Concept_Idea 1766 1775	résultats
+T55	DISO 2610 2671	consultations psychothérapeutiques médicamenteuses primitives
+T56	PROC 2758 2802	neuroleptiques antipsychotiques substitutifs
+T57	CHEM 2876 2889	béthamétasone
+T58	CHEM 2892 2916	nitroprussiate de sodium
+T59	DOSE 2918 2924	400 mg
+T60	TEMP 2924 2932	/semaine
+T61	CHEM 2937 2951	tramadolactone
+T62	DOSE 2953 2958	50 mg
+T63	TEMP 2958 2963	/jour
+T64	LIVB 2969 2975	malade
+T65	PROC 2982 2987	admis
+T66	Hospital 2991 3006	bloc opératoire
+T67	PROC 3012 3027	prise en charge
+T68	DISO 3034 3113	lésion parenchymateuse des cuirasses nasales cervicale antérieure superficielle
+T70	Localization 3089 3113	antérieure superficielle
+T71	PROC 3138 3163	intervention chirurgicale
+T72	PROC 3169 3197	chimiothérapie néo adjuvante
+T74	PROC 3262 3281	annexectomie totale
+T75	PROC 3289 3314	étude anatomopathologique
+T76	DISO 3341 3379	léiomyome polymicroblastique achilléen
+T77	MEAS 3387 3393	T3N0M5
+T78	PROC 3398 3421	traitement conservateur
+T79	MEAS 3435 3448	indispensable
+T80	PROC 3486 3498	radiologique
+T81	PROC 3504 3529	réanimation préopératoire
+T82	PROC 3593 3616	contrôle postopératoire
+T84	ANAT 3650 3673	ganglionnaire axillaire
+T85	PHEN 3724 3741	fonctions vitales
+T86	PROC 3763 3785	scanner crânio-pelvien
+T87	ANAT 3771 3785	crânio-pelvien
+T88	DISO 3802 3965	distension abdominale spinaldiveolaire distale temporale intrarachidienne basithoracique périmaxillaire intrahépatique fronto-temporale bilatérale supérieur droite
+T90	Localization 3938 3965	bilatérale supérieur droite
+T91	LIVB 3990 3997	patient
+T92	DISO 4044 4059	symptomatologie
+T93	TEMP 4120 4137	11 september 2018
+T94	DISO 4168 4207	contractions neuropsychiatriques aiguës
+T95	DISO 4218 4239	troubles fonctionnels
+T96	PROC 4267 4317	transfusions multiphosphocalciuriques parentérales
+T97	PROC 4331 4348	suivi chirurgical
+T98	TEMP 4356 4362	7 mois

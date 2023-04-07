@@ -1,0 +1,27 @@
+T1	LIVB 4 9	femme
+T2	PHEN 55 67	accouchement
+T3	PROC 87 97	scolarisée
+T4	DISO 117 154	déficit neurologique sensitivomotrice
+T5	DISO 246 270	localisations néonatales
+T6	DISO 273 319	syndrome d'Hémiplégie visuomotrice congénitale
+T7	LIVB 382 393	jeune femme
+T8	Hospital 425 435	voie basse
+T9	PROC 441 467	contraception post-utérine
+T10	TEMP 455 467	post-utérine
+T11	PROC 470 484	interrogatoire
+T12	LIVB 510 514	elle
+T13	DISO 540 558	méningoencephalite
+T14	TEMP 568 581	depuis 4 mois
+T15	LIVB 588 590	sa
+T16	PROC 591 603	consultation
+T17	Hospital 608 616	urgences
+T18	DISO 630 655	choc fébrile hémorragique
+T19	MEAS 679 690	progressive
+T20	ANAT 711 728	massif céphalique
+T21	MEAS 740 749	lentement
+T22	Concept_Idea 753 759	taille
+T23	DISO 775 797	symptômes oculomoteurs
+T24	PROC 815 830	prise en charge
+T25	MEAS 867 879	plus marquée
+T26	DISO 971 989	troubles mnésiques
+T27	DISO 996 1005	symptômes

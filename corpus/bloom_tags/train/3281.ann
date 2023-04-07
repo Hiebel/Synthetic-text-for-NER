@@ -1,0 +1,32 @@
+T1	LIVB 16 24	patiente
+T2	MEAS 59 60	4
+T3	LIVB 61 68	enfants
+T4	DISO 110 129	pancréatite stade E
+T5	DISO 147 183	fistule iléo-pancréato- œsophagienne
+T6	ANAT 155 183	iléo-pancréato- œsophagienne
+T7	TEMP 193 208	depuis 10 jours
+T8	LIVB 215 218	son
+T10	Hospital 233 241	urgences
+T11	DISO 256 270	amaigrissement
+T12	MEAS 274 278	2 kg
+T13	LIVB 342 350	patiente
+T14	DISO 364 381	kystes hydatiques
+T15	PROC 386 398	diagnostiqué
+T16	PROC 400 412	hospitalisée
+T17	PROC 418 443	traitement antibacillaire
+T18	CHEM 454 467	rifaméthasone
+T19	CHEM 468 481	métronidazole
+T20	DOSE 483 489	1mg/kg
+T21	TEMP 489 491	/j
+T22	CHEM 517 528	Rifampicine
+T23	CHEM 531 543	Pyrazinamide
+T24	CHEM 547 558	Ceftriaxone
+T25	CHEM 561 590	Valproate de Sulfaméthoxazole
+T26	CHEM 593 604	Epirubicine
+T27	CHEM 606 622	Cyclophosphamide
+T28	PROC 628 638	traitement
+T29	MEAS 651 671	fortement inefficace
+T30	PROC 790 837	mesures prophylactiques curatives chirurgicales
+T31	PROC 862 889	bêtaméthasone intraveineuse
+T32	Localization 950 953	pré
+T33	MEAS 1093 1102	conservés

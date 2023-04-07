@@ -1,0 +1,15 @@
+T1	PROC 17 24	biopsie
+T2	DISO 31 36	masse
+T3	PHEN 42 60	suites opératoires
+T4	MEAS 69 76	simples
+T5	LIVB 83 89	malade
+T6	CHEM 99 111	antibiotique
+T7	CHEM 121 152	amoxicilline-acide clavulanique
+T8	CHEM 154 164	céfotaxime
+T9	DOSE 166 175	3 grammes
+T10	TEMP 175 177	/j
+T11	CHEM 182 193	rifampicine
+T12	DOSE 195 203	2 gramme
+T13	TEMP 203 205	/j
+T14	MEAS 226 235	favorable
+T15	TEMP 253 260	18 mois

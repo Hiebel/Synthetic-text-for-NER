@@ -1,0 +1,20 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 50 61	antécédents
+T3	MEAS 62 74	particuliers
+T4	PROC 76 86	consultait
+T5	DISO 96 105	céphalées
+T6	TEMP 115 128	depuis 2 mois
+T7	PHEN 154 169	acuité visuelle
+T8	PROC 173 188	examen clinique
+T9	DISO 208 224	syndrome fébrile
+T10	MEAS 227 232	39°5C
+T11	CHEM 256 264	cortisol
+T12	PROC 269 286	pression oculaire
+T13	ANAT 278 286	oculaire
+T14	PROC 288 291	PPO
+T15	MEAS 310 317	1/10ème
+T16	ANAT 331 354	segment centrale utérin
+T17	Localization 339 347	centrale
+T18	PROC 372 394	examen ophtalmologique
+T19	DISO 411 420	anomalies
+T20	DISO 436 472	adénophlegmon bulleux érythémateuses

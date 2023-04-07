@@ -1,0 +1,38 @@
+T1	LIVB 29 37	patiente
+T2	MEAS 85 93	notables
+T3	PROC 95 100	reçue
+T4	Hospital 105 113	urgences
+T6	ANAT 145 167	péricardique liquidien
+T7	TEMP 177 194	depuis deux jours
+T8	PROC 198 213	examen clinique
+T9	LIVB 227 235	patiente
+T10	DISO 236 243	fébrile
+T11	MEAS 246 251	37°6C
+T12	PHEN 261 282	contractions utérines
+T13	ANAT 274 282	utérines
+T14	MEAS 283 291	intenses
+T15	MEAS 301 314	plus marquées
+T16	PROC 405 429	métrorragie chirurgicale
+T17	DISO 477 492	rupture utérine
+T18	PROC 498 515	anesthésie locale
+T19	DISO 561 581	douleurs abdominales
+T20	ANAT 570 581	abdominales
+T21	DISO 614 632	saillie ombilicale
+T22	ANAT 622 632	ombilicale
+T23	DISO 639 664	fistule rétro péritonéale
+T24	ANAT 647 664	rétro péritonéale
+T25	DISO 681 696	kyste hydatique
+T26	PROC 701 738	tomodensitométrie abdomino- pelvienne
+T27	ANAT 719 738	abdomino- pelvienne
+T30	MEAS 898 902	32cm
+T31	Concept_Idea 906 915	grand axe
+T32	MEAS 924 936	environ 3 cm
+T33	Concept_Idea 940 949	grand axe
+T34	ANAT 966 993	épaule thyroïdienne médiane
+T35	Localization 986 993	médiane
+T36	MEAS 1003 1016	hyper-intense
+T37	DISO 1065 1106	adénopathies mésenchymateuses nécrotiques
+T38	LIVB 1148 1159	jeune femme
+T39	DISO 1173 1215	hémangioendothélium érythémateux nodulaire
+T40	DISO 1237 1265	carcinome myometral infiltré
+T41	DISO 1287 1303	maladie cœliaque

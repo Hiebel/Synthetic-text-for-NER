@@ -1,0 +1,17 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 38 46	patiente
+T3	MEAS 50 53	bon
+T4	Concept_Idea 54 66	état général
+T5	DISO 68 78	apyrétique
+T6	MEAS 81 85	37°c
+T7	ANAT 94 101	abdomen
+T8	MEAS 102 121	légèrement sensible
+T9	DISO 135 151	signes cliniques
+T10	PROC 165 203	radiographie de la rachis dorsiflexion
+T12	PROC 205 208	RDR
+T13	Localization 210 220	bilatérale
+T16	ANAT 362 374	pseudarthral
+T17	PROC 380 417	touchers pelviens ultrasonographiques
+T18	ANAT 389 417	pelviens ultrasonographiques
+T19	PROC 454 471	bilan étiologique
+T20	PROC 481 505	chirurgie prophylactique

@@ -1,0 +1,27 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	PROC 53 84	radiothérapie externe adjuvante
+T4	ANAT 126 159	paupière supérieure supra cutanée
+T5	Localization 146 151	supra
+T6	PROC 173 204	réparation chirurgicale plâtrée
+T7	PROC 210 239	rachianesthésie intraveineuse
+T8	CHEM 265 276	propranolol
+T9	CHEM 279 289	furosémide
+T10	DOSE 291 294	1mg
+T11	DOSE 297 302	20 mg
+T12	CHEM 305 316	perindopril
+T13	DOSE 317 322	75 mg
+T14	DOSE 324 330	200 mg
+T15	CHEM 333 346	bêtaméthasone
+T16	DOSE 347 353	600 mg
+T17	CHEM 355 368	dexaméthasone
+T18	DOSE 369 375	400 mg
+T19	MODE 390 395	bolus
+T20	CHEM 399 417	méthylprednisolone
+T21	DOSE 418 423	40 mg
+T22	PROC 530 554	injection intra-veineuse
+T23	CHEM 558 571	cisatracurium
+T24	PROC 588 629	ponction pleurale basithoracique initiale
+T25	ANAT 597 629	pleurale basithoracique initiale
+T26	DEVI 690 719	sonde oeso-gastrodo-duodénale
+T28	ANAT 850 883	pulmonaire cervico-fibrosculaires

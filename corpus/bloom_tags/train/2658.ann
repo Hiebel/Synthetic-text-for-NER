@@ -1,0 +1,32 @@
+T1	LIVB 15 20	homme
+T2	Concept_Idea 37 48	antécédents
+T3	MEAS 49 61	particuliers
+T4	PROC 63 68	admis
+T5	Hospital 72 81	chirurgie
+T6	DISO 90 112	épanchement péritonéal
+T7	ANAT 102 112	péritonéal
+T8	PROC 116 131	examen clinique
+T9	PROC 136 145	admission
+T10	PHEN 159 174	fonction rénale
+T11	ANAT 168 174	rénale
+T12	MEAS 175 182	normale
+T13	DEVI 203 212	matériels
+T14	ANAT 226 251	liquide céphalo-rachidien
+T15	Localization 253 258	droit
+T16	DISO 274 287	hémopéritoine
+T17	PROC 291 315	exploration chirurgicale
+T18	DISO 343 360	masse hypogigante
+T19	CHEM 388 408	produit de contraste
+T20	MEAS 418 422	4 cm
+T21	Concept_Idea 426 435	grand axe
+T22	ANAT 451 473	muscles paravertébraux
+T23	MEAS 776 780	3 cm
+T24	Concept_Idea 784 793	grand axe
+T25	ANAT 814 821	pelvien
+T26	PROC 825 849	scanner abdomino pelvien
+T27	ANAT 833 849	abdomino pelvien
+T28	PROC 869 900	anesthésie locorégionale locale
+T29	ANAT 880 900	locorégionale locale
+T31	ANAT 1023 1061	organes para vertébro-mésentriculaires
+T33	CHEM 1138 1158	produit de contraste
+T34	DISO 1190 1198	kystique

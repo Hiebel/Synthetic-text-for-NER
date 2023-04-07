@@ -1,0 +1,21 @@
+T1	LIVB 28 35	patient
+T2	PROC 68 99	radiothérapie externe adjuvante
+T3	MODE 104 122	voie intraveineuse
+T4	DOSE 124 128	40Gy
+T5	ANAT 135 156	hypo-thoracique droit
+T6	Localization 151 156	droit
+T7	TEMP 187 197	2 semaines
+T8	PROC 370 415	curage ganglionnaire hyo-laryngo-dorsofémoral
+T9	ANAT 377 415	ganglionnaire hyo-laryngo-dorsofémoral
+T10	PROC 421 445	intubation oesophagienne
+T11	ANAT 432 445	oesophagienne
+T12	LIVB 476 484	patiente
+T13	PHEN 494 501	décédée
+T14	DISO 521 553	traumatisme purpura hémorragique
+T15	PROC 584 593	transfert
+T16	Hospital 598 610	réanimateurs
+T17	DISO 630 660	lésions cutanées prurigineuses
+T18	DISO 698 745	détresse fonctionnelle respiratoire obstructive
+T19	PROC 766 784	traitement curatif
+T20	PROC 798 823	surveillance radiologique
+T21	DISO 856 881	localisations secondaires

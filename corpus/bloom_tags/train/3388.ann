@@ -1,0 +1,51 @@
+T1	LIVB 4 15	jeune fille
+T2	TEMP 24 30	24 ans
+T3	PROC 37 43	admise
+T4	Hospital 48 69	urgences pédiatriques
+T5	DISO 89 109	douleur épigastrique
+T6	ANAT 97 109	épigastrique
+T7	MEAS 130 155	progressivement accentuée
+T8	DISO 193 199	fièvre
+T9	LIVB 253 261	patiente
+T10	PROC 266 297	échographie abdomino- pelvienne
+T11	ANAT 278 297	abdomino- pelvienne
+T12	PROC 299 302	EPG
+T13	DISO 328 362	pseudarthrose péritonéale kystique
+T14	ANAT 457 475	membres inférieurs
+T15	MEAS 485 490	21 mm
+T16	MEAS 495 499	12mm
+T17	PROC 528 564	tomodensitométrie abdomino-pelvienne
+T18	ANAT 546 564	abdomino-pelvienne
+T19	DISO 582 608	masse tissulaire hypodense
+T20	CHEM 627 647	produit de contraste
+T21	ANAT 668 696	parenchyme iléo-mésentérique
+T22	ANAT 717 741	voie biliaire principale
+T23	ANAT 772 792	glandes intestinales
+T24	DISO 814 847	lésions nodulaires érythémateuses
+T25	ANAT 871 892	structures gynésiques
+T26	ANAT 933 964	muscle pubicocervico-thoracique
+T27	DISO 1004 1023	tumeur vascularisée
+T28	DISO 1032 1063	carcinome pléomorphe ischémique
+T29	ANAT 1089 1107	utérus cicatriciel
+T30	DISO 1216 1225	symptômes
+T31	DISO 1253 1272	traumatisme urétral
+T32	DISO 1279 1302	sécrétations purulentes
+T33	PROC 1307 1337	radio-chimiothérapie adjuvante
+T34	DOSE 1354 1358	60Gy
+T35	MODE 1361 1384	sur 2 Gy/fractionnement
+T36	DOSE 1386 1392	2 Gray
+T37	DOSE 1395 1402	0,5Gray
+T38	DOSE 1405 1439	4 gray /fractionnementactionneable
+T39	DISO 1485 1507	rhabdomyolyse tumorale
+T40	MEAS 1527 1541	bradycardieuse
+T41	DEVI 1548 1592	sonde nasofibroscopique transuretérotumorale
+T43	DISO 1656 1663	dyspnée
+T44	MEAS 1673 1685	prurigineuse
+T45	PROC 1702 1730	ponction pleurale systolique
+T46	ANAT 1711 1730	pleurale systolique
+T47	DISO 1790 1816	localisation ostéophytique
+T48	PROC 1849 1879	chirurgie radiothermoducléaire
+T49	TEMP 1923 1929	6 mois
+T50	LIVB 1980 1988	patiente
+T51	PROC 2016 2042	traitement médical curatif
+T52	CHEM 2077 2108	amoxicilline-acide clavulanique

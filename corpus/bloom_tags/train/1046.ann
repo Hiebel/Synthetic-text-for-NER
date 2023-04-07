@@ -1,0 +1,44 @@
+T1	LIVB 15 22	patient
+T2	MEAS 69 77	notables
+T3	PROC 79 84	admis
+T4	Hospital 89 97	urgences
+T5	DISO 117 138	détresse respiratoire
+T6	PHEN 126 138	respiratoire
+T7	TEMP 148 164	depuis 48 heures
+T8	DISO 179 212	douleurs abdominales hypoalgiques
+T9	ANAT 188 212	abdominales hypoalgiques
+T10	PROC 229 245	bilan biologique
+T11	CHEM 262 279	natrémie corrigée
+T12	MEAS 282 292	135 meq/mn
+T13	PROC 300 308	kaliémie
+T14	MEAS 311 316	2mg/l
+T15	PROC 322 348	explorations exploratoires
+T16	PROC 379 408	échographie cardio-vasculaire
+T17	ANAT 391 408	cardio-vasculaire
+T18	PROC 410 414	ECCV
+T19	PROC 417 454	électrophorèse des protéines sériques
+T20	PROC 456 460	ELPS
+T21	PROC 477 497	protéines C réactive
+T22	PROC 499 502	CRP
+T23	PROC 508 553	ponction liquide céphalo-néphrinophagocytaire
+T24	ANAT 517 553	liquide céphalo-néphrinophagocytaire
+T25	DISO 566 609	hémiplégie flasque du plexus pharyngo-cæcal
+T26	ANAT 588 609	plexus pharyngo-cæcal
+T27	MEAS 623 630	normale
+T28	PROC 644 677	dosage de la prothrombine activée
+T29	PROC 683 710	anticorps antithrombine III
+T30	MEAS 819 836	fortement positif
+T31	PROC 843 852	recherche
+T32	PROC 896 906	diagnostic
+T33	DISO 926 960	syndrome thromboembolique purulent
+T34	LIVB 972 980	patiente
+T35	DISO 1015 1037	douleurs épigastriques
+T36	ANAT 1024 1037	épigastriques
+T37	MEAS 1052 1058	rapide
+T38	DISO 1098 1122	sensibilité paralaryngée
+T39	ANAT 1110 1122	paralaryngée
+T40	DISO 1159 1191	myélome érythémateux monoclonaux
+T42	MEAS 1254 1277	20000 élément blancs/mL
+T43	MEAS 1283 1320	inférieur à 200000 éléments blancs/ml
+T44	PROC 1325 1349	fibroscopie œsophaginale
+T45	ANAT 1337 1349	œsophaginale

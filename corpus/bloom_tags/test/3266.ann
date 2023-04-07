@@ -1,0 +1,37 @@
+T1	LIVB 4 15	jeune femme
+T2	MEAS 58 66	notables
+T3	PROC 74 86	hospitalisée
+T4	Hospital 91 99	urgences
+T5	DISO 109 189	tuméfaction du fléchisseur ischio-jugulo-thoracique péripulmonaire hypertrophiés
+T7	TEMP 199 213	depuis un mois
+T8	PROC 218 234	bilan biologique
+T9	DISO 255 271	hyperleucocytose
+T10	MEAS 274 284	13300/mm 3
+T11	PHEN 322 337	fonction rénale
+T12	ANAT 331 337	rénale
+T13	MEAS 338 345	normale
+T14	PROC 358 383	examen clinique somatique
+T15	DISO 402 444	atteinte cardio-vasculo-nerveuse crânienne
+T16	ANAT 411 444	cardio-vasculo-nerveuse crânienne
+T17	DISO 455 478	symptômes neurologiques
+T18	PROC 492 514	natrémie peropératoire
+T19	MEAS 517 530	120 meq/kg/m²
+T20	PROC 533 553	électrocardiosgramme
+T21	PROC 567 584	anesthésie locale
+T22	DEVI 589 627	cathéter auriculoventriculaire interne
+T23	ANAT 598 627	auriculoventriculaire interne
+T24	PROC 644 674	monitorage échocardiographique
+T25	DISO 749 797	insuffisance périphérique systolique hypo-tensee
+T26	Localization 762 774	périphérique
+T27	DISO 813 825	hypokaliémie
+T28	MEAS 837 852	2,6 meq/kg /min
+T29	DISO 899 941	déficit moteur symétrique sensitivomotrice
+T30	DOSE 967 973	500 mg
+T31	CHEM 977 994	méthylpropranolol
+T32	CHEM 1015 1025	furosémide
+T33	DOSE 1047 1053	750 mg
+T34	CHEM 1056 1075	hydroxyprogesterone
+T35	MODE 1076 1086	voie orale
+T36	TEMP 1087 1101	pendant 10 min
+T37	DISO 1284 1289	masse
+T38	PROC 1307 1316	injection

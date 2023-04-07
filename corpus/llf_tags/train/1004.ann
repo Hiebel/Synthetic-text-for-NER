@@ -1,0 +1,92 @@
+T1	LIVB 16 24	patiente
+T2	DISO 67 74	diabète
+T3	TEMP 75 96	depuis l’âge de 5 ans
+T4	Concept_Idea 84 87	âge
+T5	DISO 104 124	hypercholestérolémie
+T6	MEAS 127 137	4,6 mmol/l
+T7	PROC 142 159	tomodensitométrie
+T8	PROC 161 175	TDM) cérébrale
+T9	ANAT 166 175	cérébrale
+T10	DISO 203 211	anomalie
+T11	LIVB 232 240	patiente
+T12	PROC 245 274	prise en charge thérapeutique
+T13	PROC 296 318	traitement substitutif
+T14	DISO 322 339	trouble bipolaire
+T15	CHEM 347 365	méthylprednisolone
+T16	PHEN 407 429	transaminases sériques
+T17	TEMP 436 445	deux mois
+T18	PROC 452 462	traitement
+T19	LIVB 519 527	patiente
+T20	CHEM 561 579	methylprednisolone
+T21	Concept_Idea 659 671	état général
+T22	PROC 697 724	bilan radiologique standard
+T23	DISO 751 793	thrombophlébite ataxo-dorsale anictérielle
+T24	DISO 811 852	distension crânio-fémoro-occlusive droite
+T26	Localization 846 852	droite
+T27	ANAT 872 891	membres supérieures
+T28	Localization 880 891	supérieures
+T29	ANAT 901 928	vaisseaux crico-céphaliques
+T30	DISO 957 991	symptomatologie neuropsychiatrique
+T31	DISO 1008 1037	maladie maniaco-psychiatrique
+T32	PROC 1043 1062	examens biologiques
+T33	DISO 1084 1096	hypokaliémie
+T34	MEAS 1099 1109	9,2 mmol/l
+T35	PROC 1130 1155	injection intramusculaire
+T36	DOSE 1159 1165	100 mg
+T37	CHEM 1169 1187	methylprednisolone
+T38	DISO 1201 1221	anémie hypochromique
+T39	MEAS 1224 1231	0,1g/dl
+T40	DEVI 1237 1261	cathéter latéro-trachéal
+T41	ANAT 1246 1261	latéro-trachéal
+T42	PROC 1276 1295	hémoglobine glyquée
+T43	MEAS 1298 1307	5,3 pg/ml
+T44	DISO 1335 1345	leucopénie
+T45	MEAS 1348 1368	10000 éléments /mm 3
+T46	DISO 1391 1418	polynucléaires neutrophiles
+T47	MEAS 1421 1440	1700 éléments /mm 3
+T48	Concept_Idea 1454 1474	aspect morphologique
+T49	DISO 1491 1519	neuromyopathie inflammatoire
+T50	DISO 1525 1580	phénobarbital diabétique insulinodépendant idiopathique
+T51	DISO 1614 1644	métastase endocrinoïde maligne
+T52	DISO 1665 1714	récepteurs hormonaux gonadotrophiques congénitaux
+T53	DISO 1744 1791	néoplasie myxœdémateuse érythrocytaire kystique
+T54	DISO 1822 1856	perforation syphilitique primitive
+T55	PROC 1889 1901	consultation
+T56	PROC 1907 1933	examen anatomopathologique
+T57	ANAT 1940 1956	noyaux ovulaires
+T58	MEAS 1962 1978	peu différenciés
+T59	MEAS 1995 2011	12×14×7×8 × 7 cm
+T61	MEAS 2071 2094	19×13×15× 9 centimètres
+T62	MEAS 2098 2118	16×11× 13 centimètre
+T63	ANAT 2141 2187	structures liquidiennes digestives abdominales
+T64	MEAS 2193 2215	diffusément distordues
+T65	ANAT 2233 2267	quadrant gastroduodénal thoracique
+T66	ANAT 2288 2318	parois pharyngo-oesophagiennes
+T67	ANAT 2332 2359	ganglions axillaires basaux
+T68	ANAT 2376 2415	jonction musculo-mandibulaire cervicale
+T69	ANAT 2477 2595	membranes mésentériques anténatales fundiques para vertébrales jugulo-carotidiennes sus pubiscipitales controlatérales
+T70	ANAT 2622 2645	selle supérieure droite
+T71	Localization 2639 2645	droite
+T72	ANAT 2658 2690	nerf maxillaire supérieur gauche
+T73	Localization 2684 2690	gauche
+T76	ANAT 2917 2941	voie biliaire principale
+T77	DISO 2978 3021	myome hypertrophique intrakystique mucineux
+T78	Concept_Idea 3046 3067	résultat histologique
+T80	LIVB 3327 3333	malade
+T81	CHEM 3350 3381	amoxicilline acide clavulanique
+T82	CHEM 3384 3399	fluoroquinolone
+T83	DOSE 3401 3407	500 mg
+T84	TEMP 3407 3409	/j
+T85	DEVI 3415 3434	cathéter péridurale
+T86	PROC 3448 3508	transfusion sanguine intrathoracique parentérale fractionnée
+T87	PROC 3534 3562	antibiothérapie probabiliste
+T88	PROC 3578 3606	oxygénothérapie néoadjuvante
+T89	PHEN 3709 3727	suites opératoires
+T90	MEAS 3736 3746	favorables
+T91	DISO 3756 3776	récidive infectieuse
+T92	DISO 3780 3804	complication traumatique
+T93	LIVB 3842 3849	patient
+T94	PROC 3854 3874	traitement palliatif
+T96	PROC 3996 4016	séance thérapeutique
+T97	PROC 4039 4072	surveillances multidisciplinaires
+T98	PROC 4129 4167	contrôles radiologiques préopératoires

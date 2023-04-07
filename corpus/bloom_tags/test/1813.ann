@@ -1,0 +1,12 @@
+T1	LIVB 2 8	enfant
+T2	TEMP 12 17	7 ans
+T3	PROC 19 24	admis
+T4	Hospital 29 37	urgences
+T5	DISO 56 79	agitation psychomotrice
+T6	PROC 84 105	radiographie du coude
+T7	ANAT 100 105	coude
+T8	MEAS 119 125	grande
+T9	DISO 126 184	luxation diffuse des parties molles métacarpophalangiennes
+T11	Concept_Idea 197 204	hauteur
+T12	Concept_Idea 211 220	grand axe
+T13	DISO 234 255	signes ostéotendineux

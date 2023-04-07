@@ -1,0 +1,26 @@
+T1	LIVB 15 23	patients
+T2	PROC 60 84	chimiothérapie adjuvante
+T3	DOSE 109 114	75 mg
+T4	CHEM 117 131	hydrocortisone
+T5	DOSE 134 141	1 mg/kg
+T6	CHEM 145 158	dexaméthasone
+T7	TEMP 160 174	pendant 3 mois
+T8	MODE 180 192	intraveineux
+T9	DOSE 195 201	2mg/kg
+T10	CHEM 222 238	ethinylestradiol
+T11	DOSE 240 247	50µg/m²
+T12	PHEN 253 268	cycle menstruel
+T13	TEMP 283 294	depuis 1 an
+T14	PROC 312 317	suivi
+T15	LIVB 329 340	jeune femme
+T16	TEMP 349 355	20 ans
+T17	DISO 386 410	raccourcissement vaginal
+T18	ANAT 403 410	vaginal
+T19	DISO 417 441	symptomatologie clinique
+T20	DISO 469 486	douleur pelvienne
+T21	ANAT 477 486	pelvienne
+T22	DISO 493 512	compression utérine
+T23	ANAT 505 512	utérine
+T24	Concept_Idea 557 572	acuité visuelle
+T25	MEAS 583 589	10/10°
+T26	PROC 595 620	traitement chirurgurgical

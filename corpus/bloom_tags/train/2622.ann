@@ -1,0 +1,31 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	DISO 36 61	antécédents pathologiques
+T4	MEAS 62 70	notables
+T5	Hospital 94 102	urgences
+T6	PROC 129 158	échographie abdominopelvienne
+T7	ANAT 141 158	abdominopelvienne
+T8	PROC 176 205	bilan d'extension étiologique
+T9	PROC 209 223	interrogatoire
+T10	PHEN 243 255	accouchement
+T11	PROC 277 301	cœlioscopie exploratrice
+T12	DISO 393 420	polynucléaires érythémateux
+T13	ANAT 438 463	intrapéritonéal liquidien
+T14	DISO 473 504	métastases tissulaires malignes
+T15	ANAT 541 558	hépato-ovariennes
+T16	LIVB 576 582	enfant
+T17	DEVI 624 657	sonde nasogastrique transurétrale
+T19	PROC 673 720	chirurgie parathyroïdienne pelvienne biphasique
+T20	ANAT 683 720	parathyroïdienne pelvienne biphasique
+T21	PROC 727 814	curage ganglionnaire ganglionnaire axillaire systéo-méta-régional locorégionale avancée
+T23	PROC 827 851	scanner abdomino-pelvien
+T24	ANAT 835 851	abdomino-pelvien
+T25	MEAS 859 865	normal
+T26	PROC 879 901	TDM abdomino-pelvienne
+T27	ANAT 883 901	abdomino-pelvienne
+T28	DISO 915 957	pancréatocarcinose stade pT3N0 infiltrante
+T29	ANAT 978 992	méso-péritoine
+T30	MEAS 1002 1007	32 cm
+T31	Concept_Idea 1011 1020	grand axe
+T32	ANAT 1047 1063	zones hypodenses
+T33	ANAT 1084 1107	veine cave sigmoïdienne

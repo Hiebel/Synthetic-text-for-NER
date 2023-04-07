@@ -1,0 +1,91 @@
+T1	PROC 3 20	tomodensitométrie
+T2	PROC 22 44	TDM) abdominopelvienne
+T3	ANAT 27 44	abdominopelvienne
+T4	DISO 60 80	processus tissulaire
+T5	ANAT 87 107	fosse iliaque droite
+T6	Localization 101 107	droite
+T7	PROC 112 128	bilan biologique
+T8	DISO 140 153	particularité
+T9	Concept_Idea 163 187	vitesse de sédimentation
+T10	MEAS 190 195	90 mm
+T11	PROC 219 245	ionogramme phosphocalcique
+T12	PROC 273 313	scanner cervico-thoraco-abdomino pelvien
+T13	ANAT 281 313	cervico-thoraco-abdomino pelvien
+T14	TEMP 325 340	post opératoire
+T15	PROC 330 340	opératoire
+T16	TEMP 356 364	24heures
+T17	DISO 391 421	adénopathies lombo-céphaliques
+T18	ANAT 404 421	lombo-céphaliques
+T19	ANAT 435 488	tronc spléno-aortico-sinus maxillaire inférieur droit
+T20	Localization 483 488	droit
+T21	PHEN 498 518	récepteurs hormonaux
+T22	LIVB 546 549	son
+T23	PROC 550 559	admission
+T24	PROC 563 583	examen gynécologique
+T25	MEAS 601 608	positif
+T26	DISO 630 652	anomalie morphologique
+T27	DISO 662 681	syndrome infectieux
+T28	MEAS 714 721	simples
+T29	LIVB 733 738	femme
+T30	PROC 776 787	hospitalisé
+T31	PROC 791 801	consultait
+T32	Hospital 806 814	urgences
+T33	DISO 834 861	contage tuberculeux myxoide
+T34	TEMP 871 888	depuis deux jours
+T35	PROC 901 925	prise en charge médicale
+T36	Concept_Idea 934 951	plan histologique
+T37	DISO 969 997	micronodules hyperchromiques
+T38	DISO 1026 1044	monofibroblastique
+T39	DISO 1160 1193	tissu conjonctif polycytoneuroïde
+T40	DISO 1201 1231	cellules polyploïdes atypiques
+T41	ANAT 1258 1269	plasmocytes
+T42	MEAS 1294 1303	10 x 7 cm
+T43	MEAS 1307 1320	5 centimètres
+T45	ANAT 1617 1644	segment distal mésentérique
+T46	CHEM 1699 1749	granulations cytoplasmes éosinophiles biphosphorés
+T48	ANAT 1868 1888	ganglions axillaires
+T50	DISO 2327 2343	nécrose tumorale
+T51	PROC 2349 2374	étude immunohistochimique
+T52	Concept_Idea 2407 2436	caractère anatomopathologique
+T53	Concept_Idea 2447 2465	nature parasitaire
+T54	Concept_Idea 2488 2514	résultats bactériologiques
+T55	PROC 2529 2563	contrôle locorégionale endorectale
+T56	PROC 2581 2598	abord chirurgical
+T57	DISO 2624 2665	symptômes neuropsychiatriques congénitaux
+T58	MEAS 2986 2990	deux
+T59	LIVB 2991 2997	chiens
+T60	LIVB 3004 3012	patiente
+T61	PROC 3032 3051	traitement adjuvant
+T62	PROC 3077 3100	bilan pré-thérapeutique
+T63	PROC 3116 3138	ponction transfuséenne
+T64	ANAT 3125 3138	transfuséenne
+T65	PROC 3152 3173	échographie du pelvis
+T66	ANAT 3167 3173	pelvis
+T67	DISO 3189 3202	particularité
+T68	PHEN 3219 3229	procédures
+T69	TEMP 3239 3265	24 ème jour postopératoire
+T70	TEMP 3275 3300	6 ème jour postopératoire
+T71	PROC 3324 3432	anastomose lombaire intracytoplasmique segmentaire cervicale thoracique lombo-abdomino-mandibulaire trijudée
+T73	DEVI 3452 3468	annexes laryngés
+T74	LIVB 3472 3476	elle
+T75	PROC 3528 3558	incisions sous trachéotaxiales
+T76	Localization 3538 3542	sous
+T77	Localization 3620 3646	bilatérales interne droite
+T78	MEAS 3663 3666	2cm
+T79	PROC 3672 3699	Tension artérielle autonome
+T80	ANAT 3680 3699	artérielle autonome
+T81	MEAS 3717 3728	110/80 mmHg
+T82	DISO 3753 3779	dilatation veineuse locale
+T83	DISO 3795 3814	signe inflammatoire
+T84	ANAT 3833 3848	voie pulmonaire
+T85	MEAS 3881 3888	simples
+T86	TEMP 3893 3919	18 ème jour postopératoire
+T87	PROC 3922 3942	examen macroscopique
+T88	MEAS 4086 4106	bien individualisées
+T89	ANAT 4125 4157	branche ventriculaire inferieure
+T90	Localization 4147 4157	inferieure
+T91	MEAS 4167 4175	15×12 cm
+T92	Concept_Idea 4246 4273	disposition intrascapeptale
+T93	DISO 4355 4373	troubles sensitifs
+T94	DISO 4402 4425	vascularite infectieuse
+T95	PROC 4430 4477	complément radiologique tomodensitométrique IRM

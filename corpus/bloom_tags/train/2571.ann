@@ -1,0 +1,29 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 37	admise
+T3	Hospital 42 50	urgences
+T4	DISO 70 91	détresse respiratoire
+T5	PHEN 79 91	respiratoire
+T6	TEMP 101 115	depuis 4 jours
+T7	MEAS 133 139	rapide
+T8	DISO 171 193	hémoptysies purulantes
+T9	DISO 219 242	symptômes neurologiques
+T10	DISO 296 325	diabète métaboliquement actif
+T11	DISO 423 440	symptômes visuels
+T12	DISO 467 473	fièvre
+T13	MEAS 485 489	38°C
+T14	DISO 491 497	sueurs
+T15	MEAS 498 507	nocturnes
+T16	DISO 533 541	anorexie
+T17	MEAS 560 563	3kg
+T18	TEMP 580 585	2 ans
+T19	DISO 627 638	traumatisme
+T20	PROC 681 696	examen clinique
+T21	LIVB 708 716	patiente
+T22	Concept_Idea 741 759	plan hémodynamique
+T23	DISO 836 861	signe neuropsychiatriques
+T24	PROC 883 928	auscultation pleuro-pulmonaires superficielle
+T25	ANAT 896 928	pleuro-pulmonaires superficielle
+T26	DISO 938 949	polypnéique
+T27	MEAS 952 965	42 cycles/min
+T28	MEAS 981 993	spontanément
+T29	Concept_Idea 997 1003	volume

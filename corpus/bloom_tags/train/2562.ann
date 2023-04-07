@@ -1,0 +1,38 @@
+T1	LIVB 29 37	patiente
+T2	MEAS 54 63	primipare
+T3	PHEN 73 82	grossesse
+T4	PROC 101 107	suivie
+T6	ANAT 164 174	artérielle
+T7	DISO 176 179	HTA
+T8	TEMP 181 193	depuis 5 ans
+T9	CHEM 199 232	inhibiteur de la pompe à protéine
+T10	PROC 236 261	intervention chirurgicale
+T11	Concept_Idea 288 293	poids
+T12	MEAS 297 302	2800g
+T13	Concept_Idea 312 318	taille
+T14	MEAS 322 327	170cm
+T15	ANAT 342 358	parois vaginales
+T16	PROC 373 430	curage liquidien péritonéal transpéritonéal biquotidienne
+T17	ANAT 380 430	liquidien péritonéal transpéritonéal biquotidienne
+T18	MODE 476 486	voie basse
+T19	TEMP 580 587	18 mois
+T20	DISO 595 603	récidive
+T21	DISO 698 711	métastatiques
+T22	DISO 724 763	localisations secondaires métastatiques
+T23	LIVB 785 793	patiente
+T24	DISO 821 852	complications thromboemboliques
+T25	DISO 864 884	diabète hypertenseur
+T26	TEMP 894 909	depuis deux ans
+T27	DISO 940 959	contage tuberculeux
+T28	ANAT 948 959	tuberculeux
+T29	PROC 972 996	scanner abdomino pelvien
+T30	ANAT 980 996	abdomino pelvien
+T31	PROC 1017 1032	hospitalisation
+T32	DISO 1051 1076	lésions nodulo-papuleuses
+T33	MEAS 1101 1105	21mm
+T34	MEAS 1109 1113	20mm
+T35	DISO 1150 1172	hyperplasie pulmonaire
+T36	ANAT 1162 1172	pulmonaire
+T37	DISO 1183 1193	secondaire
+T38	ANAT 1266 1298	intravestibulaire basithoracique
+T39	Localization 1319 1328	bilatéral

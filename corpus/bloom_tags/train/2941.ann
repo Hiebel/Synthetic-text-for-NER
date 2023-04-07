@@ -1,0 +1,26 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	13 ans
+T3	PROC 37 41	reçu
+T4	Hospital 46 54	urgences
+T5	DISO 64 85	détresse respiratoire
+T6	MEAS 100 111	progressive
+T7	PROC 115 130	examen clinique
+T8	PROC 135 144	admission
+T9	LIVB 161 167	enfant
+T10	Concept_Idea 193 211	plan hémodynamique
+T11	ANAT 215 227	respiratoire
+T12	DISO 233 253	signes neurologiques
+T13	DISO 279 304	atteinte sensitivomotrice
+T14	DISO 314 330	troubles visuels
+T15	PROC 334 367	échocardiographie transthoracique
+T16	ANAT 352 367	transthoracique
+T17	PROC 369 372	ETT
+T18	DISO 396 432	tuberculose du lobe pulmonaire droit
+T19	ANAT 411 432	lobe pulmonaire droit
+T20	Localization 427 432	droit
+T21	ANAT 449 487	structures parenchymateuses cardiaques
+T22	ANAT 501 539	paroi abdominale antérolatérale droite
+T23	Localization 533 539	droite
+T24	ANAT 554 608	artères coronaires latéro-ventriculaires systématisées
+T25	MEAS 633 641	48/42 cm
+T26	MEAS 645 653	33/32 cm

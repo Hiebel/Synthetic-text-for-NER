@@ -1,0 +1,33 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	8 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 79	particuliers
+T5	PROC 90 95	admis
+T6	Hospital 100 108	urgences
+T7	DISO 118 152	douleurs abdominales constrictives
+T8	ANAT 127 138	abdominales
+T9	TEMP 162 179	depuis deux jours
+T10	PROC 183 198	examen clinique
+T11	PROC 203 212	admission
+T12	LIVB 225 231	enfant
+T13	Concept_Idea 235 239	état
+T14	DISO 242 256	amaigrissement
+T15	MEAS 267 271	15kg
+T16	PHEN 279 297	tension artérielle
+T17	ANAT 287 297	artérielle
+T18	MEAS 310 322	120/100 mmhg
+T19	PROC 326 357	échographie abdomino- pelvienne
+T20	ANAT 338 357	abdomino- pelvienne
+T22	ANAT 384 408	parenchyme ovarien droit
+T23	Localization 403 408	droit
+T24	DISO 440 467	lésion hétérogène hypodense
+T25	MEAS 477 485	20x10 cm
+T26	ANAT 501 521	muscle utéro-vaginal
+T27	DISO 559 588	métanéphrine hydrochorionique
+T28	DISO 595 628	kystes hydatiques pérovésiculaire
+T29	PROC 639 675	tomodensitométrie abdomino-pelvienne
+T30	ANAT 657 675	abdomino-pelvienne
+T31	DISO 697 724	masse arrondie hyperintense
+T32	MEAS 726 743	bien systématisée
+T33	PROC 765 774	injection
+T35	ANAT 819 825	pelvis

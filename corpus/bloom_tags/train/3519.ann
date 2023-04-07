@@ -1,0 +1,62 @@
+T1	LIVB 28 35	patient
+T2	PROC 72 109	thoracectomie bilatérale exploratrice
+T3	Localization 86 96	bilatérale
+T4	DISO 180 211	complications thromboemboliques
+T5	ANAT 220 240	branches pulmonaires
+T6	PROC 263 296	scanner thoraco-abdomino- pelvien
+T7	ANAT 271 296	thoraco-abdomino- pelvien
+T8	PROC 303 329	injection intrarachidienne
+T9	CHEM 333 353	produit de contraste
+T10	LIVB 387 395	patiente
+T11	DISO 438 484	masse tissulaire arrondie lobulée hypoéchogène
+T12	MEAS 494 499	10 cm
+T13	Concept_Idea 503 512	grand axe
+T14	ANAT 533 554	parenchyme thoracique
+T15	LIVB 606 610	Nous
+T16	PROC 630 645	examen clinique
+T17	PROC 654 706	imagerie par résonance magnétique transoesophagienne
+T18	PROC 708 754	tomodensitométrie) abdomino-cervico-thoracique
+T19	ANAT 727 754	abdomino-cervico-thoracique
+T20	MEAS 778 788	spécifique
+T21	PROC 830 850	analyse radiologique
+T22	MEAS 887 910	techniquement difficile
+T23	MEAS 937 949	préliminaire
+T24	DISO 998 1011	malformations
+T25	DISO 1036 1060	instabilité psychomoteur
+T26	DISO 1076 1094	lésions noduleuses
+T27	MEAS 1104 1122	hypersignificantes
+T28	MEAS 1228 1257	supposément mal systématisées
+T29	Concept_Idea 1404 1413	métriques
+T30	Concept_Idea 1490 1499	grand axe
+T31	ANAT 1519 1550	zones musculaires épigastriques
+T32	ANAT 1606 1614	épiploon
+T33	DISO 1688 1713	nodules hypersignificants
+T34	ANAT 1768 1786	hormonothroïdienne
+T35	DISO 1799 1847	myxome kystique érythémateux péritonéal infiltré
+T36	ANAT 1951 1961	tissulaire
+T37	Concept_Idea 2008 2026	critères cliniques
+T38	DISO 2283 2300	fistule digestive
+T39	ANAT 2291 2300	digestive
+T40	PROC 2603 2623	séjours chirurgicaux
+T41	DISO 2651 2705	tuméfaction du parenchyme grêlique angulo-pancréatique
+T42	ANAT 2666 2705	parenchyme grêlique angulo-pancréatique
+T43	DISO 2726 2754	kyste hydatique pancréatique
+T44	DISO 2787 2825	adénopathie périphérique hypo-échogène
+T45	Localization 2799 2811	périphérique
+T46	MEAS 2845 2854	lentement
+T47	Concept_Idea 2858 2864	taille
+T48	DISO 2880 2910	troubles hydro-électrolytiques
+T49	LIVB 2912 2916	nous
+T50	PROC 2935 2963	imagerie tomodensitométrique
+T51	PROC 2964 2988	TDM) cervico-rachidienne
+T52	ANAT 2969 2988	cervico-rachidienne
+T53	PROC 2994 3029	chimiothérapie palliative adjuvante
+T54	CHEM 3031 3051	Tamoxifène/4RHZ/4RHU
+T55	DISO 3089 3134	masse tumorale tissulaire arrondie hyperdense
+T56	MEAS 3144 3149	16 cm
+T57	MEAS 3154 3159	14 cm
+T58	Concept_Idea 3162 3168	aspect
+T59	MEAS 3169 3179	irrégulier
+T60	DEVI 3193 3232	scanner abdomino-thoracique monochambre
+T62	PROC 3238 3258	biopsie exploratrice
+T63	PROC 3336 3361	étude anatomopathologique

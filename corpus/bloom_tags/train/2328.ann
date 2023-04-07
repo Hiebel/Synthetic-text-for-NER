@@ -1,0 +1,105 @@
+T1	PROC 2 29	analyse anatomopathologique
+T2	ANAT 36 41	pièce
+T3	DISO 54 62	épiderme
+T4	Concept_Idea 65 71	aspect
+T5	DISO 88 117	dermite érythémato-pustuleuse
+T6	ANAT 131 148	sphincter urétral
+T7	ANAT 156 175	muqueuses vaginales
+T8	PROC 191 206	examen clinique
+T9	DISO 218 231	particularité
+T10	LIVB 233 237	Nous
+T11	PROC 256 272	bilan biologique
+T12	PROC 281 310	échographie abdominopelvienne
+T13	ANAT 293 310	abdominopelvienne
+T14	DISO 342 367	localisations secondaires
+T15	PROC 373 397	chimiothérapie adjuvante
+T16	CHEM 408 418	cisplatine
+T17	DOSE 420 426	150 mg
+T18	TEMP 426 428	/j
+T19	CHEM 431 443	doxorubicine
+T20	DOSE 445 449	20mg
+T21	TEMP 449 451	/j
+T22	CHEM 454 465	doxycycline
+T23	DOSE 467 473	400 mg
+T24	TEMP 473 475	/j
+T25	CHEM 478 490	prédnisolone
+T26	DOSE 492 501	0,5 mg/kg
+T27	TEMP 501 503	/j
+T28	CHEM 506 517	vincristine
+T29	DOSE 519 521	1g
+T30	TEMP 521 523	/j
+T31	CHEM 526 536	éthoposide
+T32	DOSE 538 544	750 mg
+T33	TEMP 544 546	/j
+T34	CHEM 549 562	dexaméthasone
+T35	DOSE 564 568	25µg
+T36	TEMP 568 570	/j
+T37	CHEM 573 586	cotrimoxazole
+T38	DOSE 588 594	800 µg
+T39	TEMP 594 596	/j
+T40	CHEM 599 610	Cyclosérine
+T41	DOSE 612 618	500 mg
+T42	TEMP 618 620	/j
+T43	CHEM 623 633	mifentanil
+T44	DOSE 635 646	100 µmol/kg
+T45	TEMP 646 648	/j
+T46	CHEM 651 662	Nicardipril
+T47	DOSE 664 670	200 mg
+T48	TEMP 670 672	/j
+T49	CHEM 675 685	furosémide
+T50	DOSE 687 692	40 mg
+T51	TEMP 692 694	/j
+T52	CHEM 697 708	propranolol
+T53	DOSE 710 716	160 mg
+T54	TEMP 716 718	/j
+T55	CHEM 721 735	hydrocortisone
+T56	DOSE 737 742	50 mg
+T58	CHEM 747 760	noradrénaline
+T59	DOSE 762 770	2 mEq/kg
+T60	TEMP 770 772	/j
+T61	CHEM 775 788	bromocriptine
+T62	DOSE 790 797	4 ng/m²
+T63	TEMP 797 799	/j
+T64	CHEM 802 813	paracétamol
+T65	DOSE 815 820	60 mg
+T66	TEMP 820 822	/j
+T67	CHEM 825 839	ciprofloxacine
+T68	DOSE 841 844	3 g
+T69	TEMP 844 846	/j
+T70	CHEM 849 860	ethionamide
+T71	DOSE 862 868	600 mg
+T72	TEMP 868 870	/j
+T73	CHEM 873 885	méthotrexate
+T74	DOSE 887 894	1275 mg
+T75	TEMP 894 896	/j
+T76	CHEM 899 918	hydroxy-chloroquine
+T77	DOSE 920 927	1080 mg
+T78	TEMP 927 929	/j
+T79	CHEM 932 943	Riftriaxone
+T80	DOSE 945 953	15000 mg
+T81	TEMP 953 955	/j
+T82	CHEM 958 970	pyrazinamide
+T83	DOSE 972 979	4000 mg
+T84	TEMP 979 981	/j
+T85	CHEM 984 988	CDDP
+T86	DOSE 990 995	30 ug
+T87	TEMP 995 997	/j
+T88	CHEM 1000 1005	BEPHZ
+T89	DOSE 1007 1014	1600 mg
+T90	TEMP 1014 1016	/j
+T91	PROC 1056 1076	traitement palliatif
+T92	MEAS 1091 1095	deux
+T93	PHEN 1156 1168	respiratoire
+T94	DEVI 1170 1202	ventilation artificielle plâtrée
+T95	Hospital 1235 1265	laparotomie transoesophagienne
+T96	DISO 1442 1474	syndrome d'épanchement bilatéral
+T97	Localization 1465 1474	bilatéral
+T98	DISO 1481 1505	dépression hypogastrique
+T99	ANAT 1492 1505	hypogastrique
+T100	LIVB 1820 1828	patients
+T101	CHEM 1896 1919	anti cholinestéroniques
+T102	CHEM 1933 1966	neuroleptiques benzodiazépiniques
+T103	DISO 2670 2686	signes cliniques
+T104	DISO 2689 2734	atteinte sensitivomotrice du sinus sphénoïdal
+T105	ANAT 2718 2734	sinus sphénoïdal
+T106	Concept_Idea 2740 2752	état général

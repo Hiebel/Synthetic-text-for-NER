@@ -1,0 +1,8 @@
+T1	LIVB 28 35	patient
+T2	PROC 72 95	radiothérapie adjuvante
+T3	PROC 270 303	chirurgie palliative chirurgicale
+T4	PROC 461 484	accouchement gémellaire
+T5	PROC 538 575	technique contraceptive thérapeutique
+T6	Hospital 703 720	centre spécialisé
+T7	DISO 818 833	symptomatologie
+T8	TEMP 845 862	3 mois auparavant

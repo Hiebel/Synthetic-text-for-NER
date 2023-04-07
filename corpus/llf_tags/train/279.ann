@@ -1,0 +1,31 @@
+T1	PROC 2 13	échographie
+T2	DISO 30 50	masse du sein gauche
+T3	ANAT 39 50	sein gauche
+T4	Localization 44 50	gauche
+T5	MEAS 54 58	5 cm
+T6	PROC 63 95	fibroscopie oeso-gastroduodénale
+T7	ANAT 75 95	oeso-gastroduodénale
+T8	DISO 120 127	lésions
+T9	PROC 135 154	sérologie hydatique
+T10	MEAS 161 169	négative
+T11	PROC 174 214	scanner cervico-thoraco-abdomino pelvien
+T12	ANAT 182 214	cervico-thoraco-abdomino pelvien
+T13	TEMP 226 236	24/03/2017
+T14	DISO 247 322	processus tumoral tissulaire des paupières inferieures antero-mandibulaires
+T15	ANAT 280 322	paupières inferieures antero-mandibulaires
+T17	PROC 332 358	examen cytobactériologique
+T18	LIVB 372 390	Bacillus anthracis
+T19	DISO 403 424	germe entomopathogène
+T20	Concept_Idea 426 432	valeur
+T21	MEAS 433 451	inférieure à 1µg/L
+T22	DISO 476 530	récidive lymphoblastique carcinomateuse éosinophilique
+T23	DISO 548 573	maladie cœliaque primaire
+T24	ANAT 633 659	troncs supra mandibulaires
+T25	ANAT 685 716	muscles paravertébraux cervical
+T26	DISO 749 763	tumeur maligne
+T27	DISO 773 789	signe infectieux
+T28	PHEN 795 813	suites opératoires
+T29	DISO 827 841	particularités
+T30	MEAS 865 871	simple
+T31	PROC 880 919	prise en charge thérapeutique adjuvante
+T32	DISO 952 976	symptomatologie clinique

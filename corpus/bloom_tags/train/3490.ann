@@ -1,0 +1,83 @@
+T1	LIVB 19 26	patient
+T2	MEAS 30 33	bon
+T3	Concept_Idea 34 46	état général
+T4	DISO 48 59	polypnéique
+T5	MEAS 62 75	36 cycles/min
+T6	PROC 86 104	tension artérielle
+T7	ANAT 94 104	artérielle
+T8	MEAS 107 117	130/60mmhg
+T9	PROC 133 149	examen somatique
+T10	DISO 161 174	particularité
+T11	PROC 179 198	pression artérielle
+T12	ANAT 188 198	artérielle
+T13	MEAS 207 217	120/80mmHg
+T14	PHEN 224 239	fonction rénale
+T15	ANAT 233 239	rénale
+T16	PROC 254 284	bilan biologique préopératoire
+T17	PROC 302 313	leucocytose
+T18	MEAS 316 350	11300 éléments par millimètre cube
+T19	ANAT 354 380	greffon cervico-thoracique
+T20	LIVB 382 384	Il
+T21	PROC 403 427	chimiothérapie adjuvante
+T22	CHEM 433 446	dexaméthasone
+T23	DOSE 448 452	20mg
+T24	TEMP 452 454	/j
+T25	CHEM 457 467	métoposide
+T26	DOSE 469 472	1 g
+T27	TEMP 472 474	/j
+T28	CHEM 477 487	cisplatine
+T29	DOSE 489 495	750 mg
+T30	TEMP 495 497	/j
+T31	CHEM 500 511	doxycycline
+T32	DOSE 513 519	400 mg
+T33	TEMP 519 521	/j
+T34	CHEM 526 536	furosémide
+T35	DOSE 538 544	500 mg
+T36	TEMP 544 546	/j
+T37	MODE 548 560	intraveineux
+T38	Hospital 564 579	bloc opératoire
+T39	PROC 593 621	antibiothérapie probabiliste
+T40	CHEM 636 662	pénicillines glycopolysées
+T41	DISO 712 737	localisations secondaires
+T42	PROC 747 757	diagnostic
+T43	DISO 760 797	adénocarcinome épidermoïde thoracique
+T44	ANAT 775 797	épidermoïde thoracique
+T45	PROC 848 880	traitement palliatif chirurgical
+T46	CHEM 915 940	anti-vitamines kynuriques
+T47	DISO 1055 1085	traumatisme thoraco-pulmonaire
+T48	ANAT 1067 1085	thoraco-pulmonaire
+T49	LIVB 1105 1113	patiente
+T50	TEMP 1122 1128	17 ans
+T51	DISO 1178 1207	hypertrophie cutanéo-muqueuse
+T52	ANAT 1191 1207	cutanéo-muqueuse
+T53	DISO 1290 1301	lithiasique
+T54	TEMP 1311 1326	depuis deux ans
+T55	MEAS 1346 1357	progressive
+T56	DISO 1378 1394	signes cliniques
+T57	PROC 1413 1434	anamnèse radiologique
+T58	DISO 1475 1503	douleurs abdomino-pelviennes
+T59	ANAT 1484 1503	abdomino-pelviennes
+T60	DISO 1543 1552	diarrhées
+T61	MEAS 1562 1571	violacées
+T62	MEAS 1583 1598	progressivement
+T63	Concept_Idea 1602 1608	volume
+T64	Localization 1640 1649	bilatéral
+T65	Concept_Idea 1672 1678	taille
+T66	DISO 1709 1717	kystique
+T67	CHEM 1755 1766	tuberculine
+T68	MEAS 1780 1788	négative
+T69	PROC 1792 1807	examen clinique
+T70	DISO 1838 1856	anomalie viscérale
+T71	DISO 1866 1891	atteinte vasculo-nerveuse
+T72	ANAT 1875 1891	vasculo-nerveuse
+T73	ANAT 1913 1937	corps cavités abdominaux
+T74	DISO 1964 1989	masse lésionnel hypodense
+T75	MEAS 2048 2053	18 cm
+T76	Concept_Idea 2057 2066	grand axe
+T77	ANAT 2090 2113	vésicules utériculaires
+T78	ANAT 2132 2166	fosse épigastrique diaphragmatique
+T79	MEAS 2188 2200	bien limitée
+T80	ANAT 2220 2228	placenta
+T81	DISO 2264 2277	malformations
+T82	MEAS 2629 2641	2800 grammes
+T83	MEAS 2647 2651	3 kg

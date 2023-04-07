@@ -1,0 +1,83 @@
+T1	LIVB 28 35	patient
+T2	DISO 52 77	antécédents pathologiques
+T3	MEAS 78 86	notables
+T4	PROC 88 93	admis
+T5	Hospital 98 106	urgences
+T6	DISO 116 137	détresse respiratoire
+T7	PHEN 125 137	respiratoire
+T8	TEMP 147 163	depuis deux mois
+T9	PROC 167 181	interrogatoire
+T10	PROC 186 195	admission
+T11	DISO 206 247	syndrome d'épanchement liquidien purulent
+T12	ANAT 229 238	liquidien
+T13	Concept_Idea 278 290	état général
+T14	DISO 296 310	amaigrissement
+T15	MEAS 321 325	8 kg
+T16	LIVB 327 329	Il
+T17	PROC 352 392	tomodensitométrie cervico-laryngologique
+T18	ANAT 370 392	cervico-laryngologique
+T19	PROC 394 397	TDM
+T20	DISO 419 465	masse tissulaire du sinus parathyroïdien droit
+T21	ANAT 439 465	sinus parathyroïdien droit
+T22	Localization 460 465	droit
+T23	MEAS 475 480	24 cm
+T24	Concept_Idea 484 493	grand axe
+T25	ANAT 508 538	cordons crâniens cerviculaires
+T26	DISO 562 636	métastases parathyroïdiennes latéro-utérines basithoraciques hypoéchogènes
+T28	DISO 675 692	maladie de Meckel
+T29	PROC 698 728	radio-chimiothérapie adjuvante
+T30	DEVI 784 790	moyens
+T31	LIVB 802 810	patiente
+T32	PROC 880 902	technique chirurgicale
+T33	MEAS 1138 1147	difficile
+T34	DISO 1366 1388	traumatisme ischémique
+T35	DISO 1423 1432	symptômes
+T36	CHEM 1585 1598	sulfasalamide
+T37	PROC 1680 1708	hormonothérapie substitutive
+T38	CHEM 1714 1724	Tamoxifène
+T39	MEAS 1770 1779	favorable
+T40	DISO 1820 1851	pleurésie bulleuse prurigineuse
+T41	PROC 1876 1896	traitement palliatif
+T42	DISO 2101 2133	complications neurovasculotrices
+T43	PROC 2282 2302	chirurgie anténatale
+T44	CHEM 2492 2511	méthylhydrocortisol
+T45	PROC 2569 2579	diagnostic
+T46	DISO 2605 2637	kystite congénitale hypertensive
+T47	MODE 2664 2680	voie parenterale
+T48	DOSE 2693 2699	1mg/kg
+T49	PROC 2913 2934	bilan immunocompétent
+T50	PROC 2948 2975	numération formule sanguine
+T51	PROC 2977 2996	protéine C réactive
+T52	PROC 2998 3001	CRP
+T53	PROC 3004 3019	globules blancs
+T54	MEAS 3033 3041	positifs
+T55	MEAS 3059 3084	12000 éléments blancs/mm3
+T56	MEAS 3088 3114	15000 éléments blancs/mm 3
+T57	PROC 3129 3142	sérologie VIH
+T58	MEAS 3149 3157	négative
+T59	PROC 3161 3191	échographie abdomino-pelvienne
+T60	ANAT 3173 3191	abdomino-pelvienne
+T62	ANAT 3214 3225	flanc droit
+T63	Localization 3220 3225	droit
+T64	MEAS 3269 3273	30cm
+T65	MEAS 3278 3283	21 cm
+T66	Concept_Idea 3287 3293	aspect
+T67	MEAS 3294 3304	hétérogène
+T68	PHEN 3313 3329	rythme menstruel
+T69	TEMP 3330 3338	régulier
+T70	PROC 3342 3391	examen des aires ganglionnaires cervico-vaginales
+T71	ANAT 3353 3391	aires ganglionnaires cervico-vaginales
+T72	DISO 3432 3527	adénopathie parathyroïdienne bilatérale inféro-surrénalienne basithoraco-rachidienne tissulaire
+T73	ANAT 3444 3527	parathyroïdienne bilatérale inféro-surrénalienne basithoraco-rachidienne tissulaire
+T75	TEMP 3537 3553	depuis deux mois
+T76	MEAS 3565 3580	progressivement
+T77	Concept_Idea 3584 3590	taille
+T78	DISO 3606 3647	syndrome inflammatoire clinico-biomédical
+T79	DISO 3666 3690	symptômes gynécologiques
+T80	PROC 3697 3710	TDM pelvienne
+T81	ANAT 3701 3710	pelvienne
+T82	PROC 3736 3767	bilan étiologique préopératoire
+T83	DISO 3799 3834	localisations secondaires tumorales
+T84	PROC 3848 3875	tomodensitométrie cervicale
+T85	ANAT 3866 3875	cervicale
+T86	MEAS 3892 3899	normale

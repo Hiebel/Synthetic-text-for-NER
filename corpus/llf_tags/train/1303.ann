@@ -1,0 +1,31 @@
+T1	LIVB 20 25	femme
+T2	DISO 64 89	infections gynécologiques
+T3	TEMP 90 102	à répétition
+T4	PROC 106 121	examen clinique
+T5	LIVB 135 143	patiente
+T6	MEAS 147 154	mauvais
+T7	Concept_Idea 155 167	état général
+T8	PROC 177 195	examen obstétrique
+T9	ANAT 199 206	abdomen
+T10	MEAS 207 213	souple
+T11	DISO 219 226	douleur
+T12	DISO 230 241	vomissement
+T13	PHEN 248 261	contraception
+T14	MEAS 266 273	normale
+T15	PROC 289 305	examen somatique
+T16	DISO 317 330	particularité
+T17	PROC 335 356	radiographie du fémur
+T18	ANAT 351 356	fémur
+T19	DISO 382 390	anomalie
+T20	PROC 404 422	scanner thoracique
+T21	ANAT 412 422	thoracique
+T22	DISO 443 448	signe
+T23	PROC 462 483	examens paracliniques
+T24	DISO 494 507	particularité
+T25	DISO 525 544	syndrome infectieux
+T26	DISO 555 571	symptômes locaux
+T27	PROC 577 614	biopsie ostéolytique scléro-duodénale
+T28	DISO 657 679	prolifération tumorale
+T29	ANAT 703 739	aires ganglionnaires cervicoclonales
+T30	PROC 743 768	étude immunohistochimique
+T31	PROC 770 773	IHC

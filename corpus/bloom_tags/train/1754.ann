@@ -1,0 +1,36 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	9 ans
+T3	PHEN 20 26	pesant
+T4	MEAS 27 32	13 Kg
+T5	DISO 50 64	prise de poids
+T6	MEAS 76 81	15 kg
+T7	PROC 87 105	traitement médical
+T8	CHEM 116 132	Cyclophosphamide
+T9	CHEM 134 149	Chloramphénicol
+T10	CHEM 151 161	cisplatine
+T11	CHEM 163 174	Vincristine
+T12	CHEM 176 203	Triméthoprime/sulfamidazole
+T13	CHEM 205 216	Ethionamide
+T14	CHEM 218 231	Erythromycine
+T15	CHEM 233 244	Nicardipril
+T16	CHEM 246 253	Aspégic
+T17	CHEM 255 265	Paclitaxel
+T18	CHEM 267 280	Adriamoxifène
+T19	CHEM 282 293	Gemcitabine
+T20	CHEM 295 337	Hormonotrophine gonadotrophine chorionique
+T21	Hospital 360 368	urgences
+T22	DISO 402 436	déficit visuomotrices oculomoteurs
+T23	TEMP 485 498	depuis 6 mois
+T24	DISO 522 528	sueurs
+T25	DISO 557 576	douleurs pelviennes
+T26	ANAT 566 576	pelviennes
+T27	MEAS 591 601	rapprochée
+T28	PROC 615 630	hospitalisation
+T29	DISO 668 688	dysménorrhée globale
+T30	DEVI 756 781	matériels intra périnéaux
+T31	LIVB 808 811	ses
+T32	PROC 812 836	consultations prénatales
+T33	DISO 873 900	symptomatologie néphrotique
+T34	LIVB 947 951	elle
+T35	DISO 1037 1047	prurigines
+T36	DISO 1102 1114	métrorragies

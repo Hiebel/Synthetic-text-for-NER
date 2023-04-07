@@ -1,0 +1,12 @@
+T1	PROC 3 27	laparotomie exploratrice
+T2	Localization 45 52	médiane
+T3	Hospital 72 79	urgence
+T4	MEAS 112 119	simples
+T5	LIVB 126 133	patient
+T6	PROC 143 166	traitement antibiotique
+T7	CHEM 154 166	antibiotique
+T8	CHEM 177 192	fluoroquinolone
+T9	DOSE 194 200	0,5 mg
+T10	TEMP 200 202	/j
+T11	MEAS 238 247	favorable
+T12	TEMP 265 271	3 mois

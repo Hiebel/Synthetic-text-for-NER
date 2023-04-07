@@ -1,0 +1,32 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	6 ans
+T3	DISO 50 77	hyperparathyroïdie primaire
+T4	CHEM 93 107	hydrocortisone
+T5	PROC 130 154	chimiothérapie adjuvante
+T6	DOSE 172 175	1mg
+T7	CHEM 189 200	Cyclosérine
+T8	DOSE 203 211	20 mg/kg
+T9	CHEM 213 223	cisplatine
+T10	DOSE 225 232	2 grays
+T11	CHEM 235 245	mitomycine
+T12	DOSE 248 257	5 grammes
+T13	TEMP 338 352	depuis 3 jours
+T14	PHEN 367 379	respiratoire
+T15	PROC 430 455	intubation sphinctérienne
+T16	ANAT 441 455	sphinctérienne
+T17	DISO 490 517	pleurésie purulente maligne
+T18	MEAS 585 596	progressive
+T19	DISO 611 640	distension abdomino-pelvienne
+T20	ANAT 622 640	abdomino-pelvienne
+T21	LIVB 695 701	enfant
+T23	DISO 779 798	épanchement pelvien
+T24	ANAT 791 798	pelvien
+T25	DISO 859 882	fistule grêliquocutanée
+T26	ANAT 867 882	grêliquocutanée
+T27	PROC 895 921	adjonction d’adrétropamine
+T28	CHEM 908 921	adrétropamine
+T29	DISO 964 985	souffrance urogénital
+T30	ANAT 975 985	urogénital
+T31	DISO 992 1033	syndrome d'épanchement intraréfentériaire
+T32	ANAT 1015 1033	intraréfentériaire
+T33	DISO 1125 1151	méningoencephalite diffuse

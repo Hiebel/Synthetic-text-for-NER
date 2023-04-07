@@ -1,0 +1,45 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	9 ans
+T3	DISO 41 63	hémiplégie traumatique
+T4	CHEM 123 134	Cyclosérine
+T5	MODE 139 149	voie orale
+T6	DISO 168 199	complications thromboemboliques
+T7	DISO 227 255	choc hémorragique ischémique
+T8	LIVB 304 321	équipes sportives
+T9	LIVB 382 394	petite-fille
+T10	PROC 405 420	examen clinique
+T11	LIVB 464 471	famille
+T12	DISO 511 562	thrombose veineuse infarcto-métaphysaire thoracique
+T13	ANAT 521 562	veineuse infarcto-métaphysaire thoracique
+T14	DISO 594 616	affection neurologique
+T15	PROC 662 679	radioscopiquement
+T16	DISO 710 731	néoplasie congénitale
+T17	DISO 809 822	malformations
+T18	DISO 953 991	syndrome d'épanchement intrapéritonéal
+T19	ANAT 976 991	intrapéritonéal
+T20	PROC 1009 1036	prélèvement bactériologique
+T21	DISO 1048 1102	masse bourgeonnante pléomorphe hypogastrique nodulaire
+T22	Localization 1113 1123	bilatérale
+T23	PROC 1142 1169	analyse immunohistochimique
+T24	DISO 1191 1202	tuberculose
+T25	DISO 1226 1243	récidive tumorale
+T26	PROC 1348 1367	bilan préopératoire
+T27	DOSE 1493 1499	1mg/kg
+T28	DOSE 1530 1538	10 mg/m²
+T29	CHEM 1541 1552	Ceftriaxone
+T30	DOSE 1555 1564	0,5 mg/kg
+T31	MEAS 1652 1663	progressive
+T32	PROC 1692 1710	traitement curatif
+T33	DISO 2018 2045	déshydratation hypertensive
+T34	DISO 2103 2115	hyperthermie
+T35	DISO 2131 2153	hypotension artérielle
+T36	ANAT 2143 2153	artérielle
+T37	MEAS 2165 2177	120/100 mmHg
+T38	MEAS 2189 2204	progressivement
+T39	Concept_Idea 2208 2214	taille
+T40	MEAS 2233 2241	3 litres
+T41	ANAT 2395 2407	ovaire droit
+T42	Localization 2402 2407	droit
+T43	PROC 2411 2436	intervention chirurgicale
+T44	LIVB 2457 2464	patient
+T46	ANAT 2498 2541	grêléo-sigmoïdienne aorto-téno-pancréatique

@@ -1,0 +1,78 @@
+T1	LIVB 16 24	patiente
+T2	PROC 62 74	consultation
+T3	Hospital 79 87	urgences
+T4	DISO 97 117	douleurs abdominales
+T5	ANAT 106 117	abdominales
+T6	Concept_Idea 162 174	état général
+T7	PROC 178 193	examen clinique
+T8	LIVB 205 213	patiente
+T9	MEAS 217 226	assez bon
+T10	Concept_Idea 227 239	état général
+T11	PHEN 245 256	convulsions
+T12	MEAS 262 272	régulières
+T13	Localization 301 318	partie supérieure
+T14	PROC 343 359	examen somatique
+T15	DISO 369 382	particularité
+T16	PROC 387 404	tomodensitométrie
+T17	PROC 406 446	TDM) cervico-thoraco- abdomino-pelvienne
+T18	ANAT 411 446	cervico-thoraco- abdomino-pelvienne
+T19	DISO 461 513	masse cervicale antérieure médio claviculaire gauche
+T21	Localization 488 493	médio
+T22	Localization 507 513	gauche
+T23	Concept_Idea 527 536	caractère
+T24	PROC 544 555	échographie
+T25	MEAS 564 569	50 cm
+T26	Concept_Idea 573 582	grand axe
+T27	MEAS 592 606	13 centimètres
+T28	Concept_Idea 610 619	petit axe
+T29	PROC 625 659	imagerie par résonnance magnétique
+T30	PROC 661 664	IRM
+T31	DISO 686 717	processus lésionnel sous cutané
+T32	ANAT 736 768	paupière inféro-supérieur droite
+T33	Localization 762 768	droite
+T34	ANAT 795 829	bifurcation fémorale superficielle
+T35	Localization 837 856	face antérolatérale
+T36	DISO 916 1013	ostéosarcome ostéoïde épiphysaire axillaire rétropéritonéal kystique hypogastro-duodénale maligne
+T37	ANAT 1042 1072	structures musculo-tendineuses
+T38	ANAT 1096 1124	nerf laryngé inférieur droit
+T39	Localization 1119 1124	droit
+T40	PROC 1128 1153	étude anatomopathologique
+T42	MEAS 1420 1429	stade III
+T44	LIVB 1912 1919	malades
+T45	PROC 1937 1961	radioprostatexaméthasone
+T46	PROC 1974 1980	suivie
+T48	TEMP 2133 2143	/24 heures
+T49	PROC 2295 2320	remplissage thérapeutique
+T50	MEAS 2326 2351	15 fois la dose prescrite
+T51	LIVB 2367 2374	malades
+T52	TEMP 2395 2406	vingt jours
+T53	PROC 2412 2435	radiothérapie adjuvante
+T54	CHEM 2443 2463	hormone thyroïdienne
+T56	DISO 2570 2608	récepteurs carcinomateux métastatiques
+T57	LIVB 2636 2652	femmes enceintes
+T58	DISO 2720 2745	insuffisance thyroïdienne
+T59	ANAT 2733 2745	thyroïdienne
+T60	DISO 2752 2763	traumatisme
+T61	ANAT 2777 2785	pancréas
+T62	DISO 2835 2854	choc anaphylactique
+T63	DISO 2862 2887	contracture psychomotrice
+T64	PROC 2892 2919	chimiothérapie néoadjuvante
+T65	DISO 2949 2970	syndrome dysmorphique
+T66	Concept_Idea 2972 2990	facteur rhumatoïde
+T67	MEAS 2993 3011	0,75 - 0,80 mmol/L
+T68	PROC 3017 3036	bilan préopératoire
+T69	PHEN 3053 3068	fonction rénale
+T70	ANAT 3062 3068	rénale
+T71	MEAS 3069 3077	correcte
+T72	DISO 3083 3104	signes inflammatoires
+T73	Localization 3127 3134	portion
+T74	MEAS 3142 3154	bien limitée
+T75	MEAS 3164 3168	6 cm
+T76	Concept_Idea 3203 3222	aspect histologique
+T77	DISO 3227 3304	sténose œdémateuse superficielle lobulée hypokinétique nécrotico vascularisée
+T78	LIVB 3365 3374	patientes
+T79	PROC 3380 3408	corticothérapie concomitante
+T80	DISO 3484 3508	symptomatologie clinique
+T81	Concept_Idea 3564 3588	recherches diagnostiques
+T82	DISO 3706 3742	déficit immunitaire auto-immunitaire
+T83	MEAS 4066 4072	quatre

@@ -1,0 +1,97 @@
+T1	LIVB 20 25	fille
+T2	TEMP 29 35	10 ans
+T3	DISO 42 66	antécédents pathologique
+T4	MEAS 67 79	particuliers
+T5	PROC 90 102	hospitalisée
+T6	Hospital 106 126	service des urgences
+T7	DISO 135 154	rendez-vous fébrile
+T8	PROC 160 175	examen clinique
+T9	LIVB 180 188	patiente
+T10	Concept_Idea 199 209	conscience
+T11	MEAS 210 217	normale
+T12	DISO 238 260	signes neuropsychiques
+T13	DISO 313 320	dyspnée
+T14	PROC 325 334	admission
+T15	ANAT 340 371	aires ganglionnaires cervicales
+T16	MEAS 380 400	légèrement sensibles
+T17	CHEM 405 416	antalgiques
+T18	CHEM 429 439	médicament
+T19	PROC 459 475	examen somatique
+T20	DISO 487 501	particularités
+T21	PHEN 506 521	fonction rénale
+T22	ANAT 515 521	rénale
+T23	MEAS 528 535	normale
+T24	Concept_Idea 551 560	résultats
+T25	DEVI 584 611	structures médicotechniques
+T26	DOSE 631 4221	sels alcoolisés). L'échographie obstétricale mettait en évidence une perforation parenchymateuse médio lombaire bilatérale supérieure droite mesurant environ 15 centimètres de grand axe prenant tout le cuir chevelu faisant 2 cm de diamètre se rehaussant après stabilisation ce qui est compatible avec une symptomatologie psychomotrice. Un bilan préopératoire objectivait une hypocalcémie à 7,6 mmol/L associée à une hyperleucocytose à 1200 GB/mm³ dont 70% sont non transférables alors que 40% seulement sont excrétés[5]. Une fibroscopie digestive exploratrice réalisée trouvait également une urétéro-hydrosalpinxite nécrosante responsable d'un processus tissulaire polylobée comblant presque tous les granulations interhépato-pelviennes où siège cette lésion ; on procédait ensuite à son extraction sous anticoagulation antibacillaire type « FACULMAR » suivie d'une laparotomie transoesophagienne urgente emportant toute la vésicule biliaire laissant passer ses branches intrahépatiques jusqu'aux troncs supra-aerobutales avant leur libération totale.
+Un scanner thoraco-abdomino-pelvien réalisé sur chaque anse jéjunale montrait une collection liquidienne polypoïde hyperplasmocytaire renfermant pas moins de 10 millions de lymphocytes TCD8+(Figure 3) plaquettaires hétérotrificans ayant tendance à être hypertrophiés surtout lorsqu'ils sont distants de plus de 200 millisecondes rendant impossible toute étude immunohistochimique. Devant cet aspect histologique évocateur d'une tumeur lithiasique maligne il fut retenu comme étiologies probables :–la prolifération tumorale carcinomateuse induite par voie génitale congénitale ou périnervicale;–les myomes pléomycoidaux mononucléaires éosinophiles bénins infiltrant les veines coliques mésentériques pelvicipitales superficielles rénales sus pubiculaires postéro-latéralement sensible aux immunofluorescences classiquement utilisés étant donné leurs caractères morphologiques peu compatibles avec une pseudo néoplasie métastatique inflammatoire pouvant causer chez ces dermatozoïdes atypiques bourgeonnants hémorragiques décès fœtal /accouchement prématuré gémellaire inferieur => 1 semaine + 5 jours: naissance évolutive des 5 grossesses, mise en place du dispositif contraceptif pour favoriser l'aménorrhée et le transit utérin ainsi qu'un remplissage iléo-fibroblastique cervico-mandibulaire percutané qui se déroule dans un endroit non aseptique (température située entre 40°C et 70°C). Une tomodensitométrie exploratrice réalisée après cette prise en charge ne retrouvait aucune lésion tissulaire polylobée ni aucun processus lésionnel myxoide n'ayant pu être visualisé ailleurs. Les suites opératoires étaient sans particularités notamment celles réalisées au 4 ème jour postopératoire ce qui avait contribué à prévenir tout complication néonatalgique mais cela était resté très difficilement appréciable vu que toutes les antibiothérapies habituelles ont été arrêtées sous contrôle échographique faisant suspecter certains facteurs aggravants dont on pouvait s'enorgueillir devant sa relative stabilité hémodynamique acquise malgré tous les investigations cytogénétiques jugées positives. L'évolution ultérieure est jugée stricte puisqu'il faut conclure à son caractère postérieur même si elle reste compatible avec certaines autres causes secondaires associées bien décrites ci-dessus. La chimiothérapie néo adjuvante semble avoir porté ses fruits aussi bien côté antérogénératif où seule la céphalosporine C injectée fractionnée fait encore office de méthotrexate aminotransfusion dès lors que possible associée à raison de 1g/kg
+T27	PROC 651 675	échographie obstétricale
+T28	DISO 700 771	perforation parenchymateuse médio lombaire bilatérale supérieure droite
+T29	Localization 728 733	médio
+T30	Localization 743 771	bilatérale supérieure droite
+T31	MEAS 781 803	environ 15 centimètres
+T32	Concept_Idea 807 816	grand axe
+T33	ANAT 833 845	cuir chevelu
+T34	MEAS 854 858	2 cm
+T35	Concept_Idea 862 870	diamètre
+T36	PROC 891 904	stabilisation
+T37	DISO 936 965	symptomatologie psychomotrice
+T38	PROC 970 989	bilan préopératoire
+T39	DISO 1006 1018	hypocalcémie
+T40	MEAS 1021 1031	7,6 mmol/L
+T41	DISO 1047 1063	hyperleucocytose
+T42	MEAS 1066 1077	1200 GB/mm³
+T43	PROC 1156 1190	fibroscopie digestive exploratrice
+T44	DISO 1223 1257	urétéro-hydrosalpinxite nécrosante
+T45	DISO 1275 1305	processus tissulaire polylobée
+T46	ANAT 1332 1367	granulations interhépato-pelviennes
+T47	DISO 1383 1389	lésion
+T48	PROC 1419 1429	extraction
+T49	PROC 1435 1465	anticoagulation antibacillaire
+T50	PROC 1497 1535	laparotomie transoesophagienne urgente
+T51	ANAT 1555 1572	vésicule biliaire
+T52	ANAT 1593 1617	branches intrahépatiques
+T53	ANAT 1628 1652	troncs supra-aerobutales
+T54	PROC 1664 1681	libération totale
+T55	PROC 1686 1718	scanner thoraco-abdomino-pelvien
+T56	ANAT 1694 1718	thoraco-abdomino-pelvien
+T57	ANAT 1738 1751	anse jéjunale
+T58	DISO 1765 1816	collection liquidienne polypoïde hyperplasmocytaire
+T59	PROC 2037 2062	étude immunohistochimique
+T60	Concept_Idea 2075 2094	aspect histologique
+T61	DISO 2111 2137	tumeur lithiasique maligne
+T62	DISO 2282 2330	myomes pléomycoidaux mononucléaires éosinophiles
+T64	PROC 2472 2491	immunofluorescences
+T65	Concept_Idea 2533 2558	caractères morphologiques
+T66	DISO 2584 2627	pseudo néoplasie métastatique inflammatoire
+T68	MEAS 2809 2810	5
+T69	PHEN 2811 2821	grossesses
+T70	DEVI 2840 2863	dispositif contraceptif
+T71	PHEN 2881 2891	aménorrhée
+T72	PHEN 2898 2912	transit utérin
+T73	ANAT 2906 2912	utérin
+T74	PROC 2925 2987	remplissage iléo-fibroblastique cervico-mandibulaire percutané
+T76	PROC 3078 3108	tomodensitométrie exploratrice
+T77	PROC 3130 3145	prise en charge
+T78	DISO 3167 3194	lésion tissulaire polylobée
+T79	DISO 3204 3231	processus lésionnel myxoide
+T80	DISO 3304 3318	particularités
+T81	TEMP 3349 3374	4 ème jour postopératoire
+T82	DISO 3414 3440	complication néonatalgique
+T83	CHEM 3512 3528	antibiothérapies
+T84	PROC 3563 3585	contrôle échographique
+T85	PROC 3731 3760	investigations cytogénétiques
+T86	MEAS 3768 3777	positives
+T87	MEAS 3812 3819	stricte
+T88	Localization 3860 3870	postérieur
+T89	PROC 3980 4008	chimiothérapie néo adjuvante
+T90	MODE 4083 4120	céphalosporine C injectée fractionnée
+T91	PROC 4143 4172	méthotrexate aminotransfusion
+T92	DOSE 4216 4218	1g
+T93	TEMP 4221 4229	/semaine
+T94	MEAS 4311 4321	légèrement
+T95	DISO 4322 4337	hypokalièmiante
+T96	PROC 4364 4406	réanimation chirurgical multidisciplinaire
+T97	PROC 4416 4431	technique OMSEC
+T98	PROC 4496 4531	hémodialyses monoclonales congelées
+T99	PROC 4655 4665	surinfecté

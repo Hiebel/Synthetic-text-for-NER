@@ -1,0 +1,38 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	6 ans
+T3	Hospital 54 75	urgences pédiatriques
+T5	ANAT 94 113	abdomino-pelviennes
+T6	TEMP 123 139	depuis 48 heures
+T7	PROC 145 154	admission
+T8	LIVB 156 159	son
+T9	Concept_Idea 160 172	état général
+T10	DISO 217 238	détresse respiratoire
+T11	PHEN 226 238	respiratoire
+T12	MEAS 253 264	progressive
+T13	DISO 280 286	fièvre
+T14	MEAS 298 302	38°c
+T15	DISO 316 341	tachycardie du nouveau-né
+T16	ANAT 331 341	nouveau-né
+T17	MEAS 354 369	110 batt/minute
+T18	MEAS 385 400	progressivement
+T19	Concept_Idea 404 410	taille
+T20	MEAS 422 426	50mm
+T21	MEAS 429 433	70mm
+T22	DISO 453 467	amaigrissement
+T23	MEAS 478 492	10 kilogrammes
+T24	LIVB 496 500	elle
+T25	DISO 601 627	malformations congénitales
+T26	DISO 638 663	symptômes dermatologiques
+T27	ANAT 712 720	urétraux
+T28	ANAT 781 807	parties molles abdominales
+T29	MEAS 817 821	15cm
+T30	Concept_Idea 825 834	grand axe
+T31	LIVB 918 926	garçonne
+T32	DISO 944 964	prise médicamenteuse
+T33	DISO 1054 1082	douleurs abdomino-pelviennes
+T34	ANAT 1063 1082	abdomino-pelviennes
+T35	MEAS 1092 1107	plus fréquentes
+T36	TEMP 1142 1146	1 an
+T37	DISO 1329 1346	dyspnée sifflante
+T38	MEAS 1358 1378	de façon progressive
+T39	Concept_Idea 1382 1388	volume

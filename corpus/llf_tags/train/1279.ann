@@ -1,0 +1,41 @@
+T1	LIVB 14 22	Patiente
+T2	DOSE 125 132	2500 mg
+T3	DEVI 147 170	massage cervico-vaginal
+T4	TEMP 212 221	24 heures
+T5	LIVB 237 241	elle
+T6	PROC 256 312	chimiothérapie anthelminthiuminescente substitutionnelle
+T7	CHEM 336 347	paracétamol
+T8	CHEM 350 364	gentaméthasone
+T9	CHEM 366 391	acide acétyle salicylique
+T10	CHEM 394 412	hydroxyprogènaline
+T11	Concept_Idea 494 518	résultats gynécologiques
+T12	Hospital 537 555	urgences médicales
+T13	PROC 582 594	hospitalisée
+T14	PROC 602 628	consultation psychiatrique
+T15	PROC 669 700	prélèvement anatomopathologique
+T16	Concept_Idea 776 799	recherches étiologiques
+T17	PROC 853 881	investigations diagnostiques
+T18	MEAS 901 914	difficileuses
+T19	DISO 1202 1217	symptomatologie
+T20	LIVB 1259 1267	patiente
+T21	LIVB 1271 1275	elle
+T22	PROC 1290 1296	admise
+T23	Hospital 1301 1326	urgences ophtalmologiques
+T24	DISO 1336 1373	broncho-pneumopéricardite infectieuse
+T25	Concept_Idea 1418 1430	état général
+T26	DISO 1446 1452	fièvre
+T27	DISO 1462 1479	problème digestif
+T28	PHEN 1485 1506	fonction respiratoire
+T29	ANAT 1494 1506	respiratoire
+T30	MEAS 1513 1526	satisfaisante
+T31	ANAT 1556 1573	cardio-thoracique
+T32	DISO 1600 1627	détresse respiratoire aigue
+T33	DISO 1650 1679	cyanose anoxo-laryngologuaque
+T34	PROC 1696 1715	électrocardiogramme
+T35	DISO 1746 1778	tachycardie sinusale asymétrique
+T36	MEAS 1788 1810	120 battements/minutes
+T37	Localization 1828 1867	quadrant supéro-ventriculaire inférieur
+T38	ANAT 1984 2017	tronc occipital interne inférieur
+T39	Localization 2008 2017	inférieur
+T40	MEAS 2123 2130	115mmHg
+T43	DISO 2764 2800	infection sexuellement transmissible

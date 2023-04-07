@@ -1,0 +1,66 @@
+T1	LIVB 19 29	nourrisson
+T2	TEMP 37 44	24 mois
+T3	PROC 95 111	acte chirurgical
+T4	DEVI 117 139	automate multifonction
+T5	LIVB 152 154	il
+T6	PROC 167 174	adressé
+T7	Hospital 179 202	urgences néonataliennes
+T8	PROC 208 235	prise en charge pédiatrique
+T9	PROC 330 359	examen clinique préopératoire
+T10	LIVB 374 384	nouveau-né
+T11	DISO 389 396	infecté
+T12	DISO 400 410	déshydraté
+T13	PROC 547 571	échographie obstétricale
+T14	ANAT 605 611	utérus
+T15	Concept_Idea 615 621	taille
+T16	MEAS 622 629	10x7 cm
+T17	MEAS 638 646	6×1,5 cm
+T18	ANAT 651 673	annexes antro-iliaques
+T19	MEAS 698 715	4 x 4 centimètres
+T20	MEAS 718 735	8 × 6 centimètres
+T21	ANAT 793 817	annexes postéro-iliaires
+T22	ANAT 934 984	branches épiploélocalicielles cervico-épiploïdales
+T23	ANAT 1014 1029	cellules filles
+T24	MEAS 1047 1081	de façon bilatéralement hétérogène
+T25	ANAT 1171 1207	troncs supra-paravertébraux pelviens
+T26	ANAT 1228 1263	noyaux fœtaux thoraciques érectiles
+T27	DISO 1297 1318	lésions métastatiques
+T28	Concept_Idea 1354 1377	caractère morphologique
+T29	DISO 1398 1421	tumeur primaire maligne
+T30	DISO 1578 1602	maladie cœliaque acquise
+T31	TEMP 1627 1643	depuis 24 heures
+T32	DISO 1667 1687	symptômes infectieux
+T33	ANAT 1723 1751	paupière supérieure fundique
+T34	PROC 1918 1941	études épidémiologiques
+T35	LIVB 1968 1981	fillesulsants
+T36	LIVB 1990 2009	reines consanguines
+T37	PROC 2225 2247	résection chirurgicale
+T38	PROC 2261 2303	hystérectomie totale élargie scanno-guidée
+T39	PROC 2318 2336	antibioprophylaxie
+T40	PROC 2352 2393	consultation prénatale pluridisciplinaire
+T41	PROC 2429 2452	contrôles radiologiques
+T42	PROC 2457 2481	bilan neuropsychiatrique
+T43	PROC 2494 2510	scanner cérébral
+T44	ANAT 2502 2510	cérébral
+T45	ANAT 2549 2606	nerf axillaire antero-mandibulaire postéro-latéral gauche
+T46	Localization 2600 2606	gauche
+T47	ANAT 2612 2649	angle sous mandibulaire latéral droit
+T48	Localization 2644 2649	droit
+T49	DISO 2659 2694	processus lésionnels inflammatoires
+T50	ANAT 2715 2762	nerf maxillaire rétro péritonéal intrapsychique
+T51	PHEN 2811 2832	grossesse monofoetale
+T52	DISO 2897 2923	complications infectieuses
+T53	DISO 2927 2950	conflits interethniques
+T55	PROC 3048 3072	prise en charge médicale
+T56	DISO 3136 3156	contage hémorragique
+T57	DISO 3192 3210	gêne fonctionnelle
+T58	LIVB 3222 3227	fille
+T59	TEMP 3236 3242	23 ans
+T61	TEMP 3284 3290	18 ans
+T62	DISO 3349 3370	lombalgies mécaniques
+T63	MEAS 3399 3414	progressivement
+T64	TEMP 3443 3450	2 jours
+T65	MEAS 3465 3477	persistantes
+T66	CHEM 3499 3518	crèmes glacés oraux
+T67	DISO 3591 3611	problème obstétrical
+T68	PROC 3647 3672	traitements médicamenteux

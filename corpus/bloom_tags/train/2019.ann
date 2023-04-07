@@ -1,0 +1,44 @@
+T1	LIVB 16 21	femme
+T2	MEAS 67 78	particulier
+T3	PROC 80 88	adressée
+T4	Hospital 93 101	urgences
+T6	ANAT 120 133	épigastriques
+T7	TEMP 143 159	depuis deux mois
+T8	PROC 163 178	examen clinique
+T9	PHEN 192 212	grossesse gémellaire
+T10	PROC 247 266	annexectomie droite
+T11	Localization 260 266	droite
+T12	PROC 279 315	curage ganglionnaire cervico-vaginal
+T13	ANAT 286 315	ganglionnaire cervico-vaginal
+T14	PROC 317 321	CECV
+T15	DISO 388 402	ictère fébrile
+T16	DISO 416 445	distension abdomino périnéale
+T17	ANAT 427 445	abdomino périnéale
+T18	MEAS 460 468	brunâtre
+T19	DISO 488 512	kyste hydatique purulent
+T20	DISO 555 576	symptômes intestinaux
+T21	DISO 579 597	détresse digestive
+T22	PHEN 588 597	digestive
+T23	DISO 604 625	sensibilité pelvienne
+T24	ANAT 616 625	pelvienne
+T25	DISO 641 661	prise de protéinurie
+T26	CHEM 650 661	protéinurie
+T27	LIVB 671 680	patientes
+T28	Concept_Idea 737 749	état général
+T29	PROC 755 780	traitement antibacillaire
+T30	CHEM 791 802	Cyclosérine
+T31	CHEM 803 816	Triméthoprime
+T32	DOSE 818 825	1 mg/kg
+T33	TEMP 825 827	/j
+T34	CHEM 830 843	Métronidazole
+T35	DOSE 844 852	0,5mg/kg
+T36	TEMP 852 854	/j
+T37	PROC 860 904	tomodensitométrie thoraco abdomino-pelvienne
+T38	ANAT 878 904	thoraco abdomino-pelvienne
+T39	PROC 921 933	insufflation
+T40	MODE 940 945	bolus
+T41	CHEM 949 969	produit de contraste
+T42	DISO 996 1033	carcinome pléomorphe iso-vascularisée
+T43	MEAS 1054 1058	70mm
+T44	Concept_Idea 1062 1071	grand axe
+T45	Localization 1188 1198	bilatérale

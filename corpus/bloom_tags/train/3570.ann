@@ -1,0 +1,21 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	6 ans
+T3	DISO 50 71	syndrome hémorragique
+T4	TEMP 81 94	depuis 5 mois
+T5	DISO 113 127	amaigrissement
+T6	MEAS 138 143	12 kg
+T7	MEAS 159 174	progressivement
+T8	Concept_Idea 178 184	volume
+T9	DISO 199 216	dyspnée sifflante
+T10	MEAS 231 237	rapide
+T11	DISO 276 307	polyarthrite érythémato-nuculée
+T12	ANAT 326 344	membres inférieurs
+T13	PROC 350 368	traitement médical
+T14	CHEM 379 417	amoxicilline-acide acétylsulfasalazine
+T15	CHEM 444 471	métronidazole-dexaméthasone
+T16	MEAS 489 509	faiblement sensibles
+T17	PROC 621 658	chirurgie prophylactique chirurgicale
+T18	LIVB 831 835	elle
+T19	PROC 866 892	contraception progestative
+T20	TEMP 1048 1054	16 ans
+T21	MEAS 1103 1110	brutale

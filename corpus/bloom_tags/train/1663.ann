@@ -1,0 +1,43 @@
+T1	LIVB 16 24	patiente
+T2	DISO 81 150	syndrome d’épanchement intrarachidiens laryngopharyngéo-hypogastrique
+T3	ANAT 104 150	intrarachidiens laryngopharyngéo-hypogastrique
+T4	DISO 160 173	cholestatique
+T5	DISO 185 204	lésions purpuriques
+T6	DISO 240 281	carcinome laryngo-sigmoïdien hypoéchogène
+T7	ANAT 250 281	laryngo-sigmoïdien hypoéchogène
+T8	PROC 286 294	palpable
+T9	PROC 309 321	diagnostiqué
+T10	PROC 350 372	TDM abdomino-pelvienne
+T11	ANAT 354 372	abdomino-pelvienne
+T12	Hospital 406 431	urgences ophtalmologiques
+T13	PROC 441 464	intubation chirurgicale
+T14	DISO 478 493	symptomatologie
+T15	LIVB 523 531	patiente
+T16	DISO 543 567	localisation néoplasique
+T17	PROC 580 623	technique d'immuno-chimiothérapie adjuvante
+T18	DISO 653 666	consanguinité
+T19	DISO 673 693	malformations congés
+T20	DISO 777 802	primoinstage pathogénique
+T21	LIVB 881 889	patients
+T22	LIVB 963 971	patients
+T23	DISO 1066 1086	défaits fonctionnels
+T24	DEVI 1122 1149	sonnette vocale monochambre
+T25	MEAS 1403 1408	2000g
+T26	MEAS 1426 1435	favorable
+T27	PROC 1448 1470	consultation prénatale
+T28	MEAS 1931 1955	plusieurs millimétriques
+T29	Concept_Idea 1958 1967	épaisseur
+T30	DISO 1987 2015	dilatations pyélocalicielles
+T31	DISO 2029 2044	kyste hydatique
+T32	DISO 2148 2172	nodule tumoral nodulaire
+T33	DISO 2299 2322	souffrance placentaires
+T34	ANAT 2310 2322	placentaires
+T35	DISO 2358 2397	hypoesthésie du sinus sphénoïdien droit
+T36	ANAT 2374 2397	sinus sphénoïdien droit
+T37	Localization 2392 2397	droit
+T38	DISO 2415 2448	trouble des contractions utérines
+T39	PHEN 2427 2448	contractions utérines
+T40	ANAT 2440 2448	utérines
+T41	DISO 2461 2470	anomalies
+T42	PROC 2484 2508	échographie obstétricale
+T43	DISO 2561 2594	infertilité primaire hypertensive

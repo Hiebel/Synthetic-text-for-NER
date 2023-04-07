@@ -1,0 +1,74 @@
+T1	LIVB 4 12	patiente
+T2	DISO 56 95	cholécystectomie totale du cuir chevelu
+T3	ANAT 83 95	cuir chevelu
+T4	PROC 99 123	exploration chirurgicale
+T5	MEAS 157 167	volumineux
+T6	DISO 168 236	processus fibro-cutanéo-nerveux des parties molles cervicale droites
+T7	ANAT 204 236	parties molles cervicale droites
+T8	Localization 229 236	droites
+T9	Concept_Idea 245 268	caractère morphologique
+T10	DISO 291 314	neurofibromatopéritoine
+T11	PROC 324 350	examen anatomopathologique
+T12	DISO 354 439	adénocarcinome nucleiforme infiltrant les muscles paravertébraux supra-aorto-parietal
+T13	ANAT 396 439	muscles paravertébraux supra-aorto-parietal
+T14	ANAT 465 490	crête maxillaire aortique
+T15	ANAT 513 545	aires ganglionnaires thoraciques
+T16	ANAT 565 620	ganglions para vertébraux poplité abdomino-oesophagiens
+T17	DISO 626 632	signes
+T18	DISO 636 645	malignité
+T19	MEAS 678 685	simples
+T20	PROC 691 725	anticoagulation médicochirurgicale
+T21	CHEM 727 759	amitriptyline acide clavulanique
+T22	PROC 765 796	bilan étiologique préopératoire
+T23	PROC 811 827	avis chirurgical
+T24	DISO 849 866	récidive caséeuse
+T25	DISO 870 880	métastases
+T26	DISO 890 906	thrombus tumoral
+T27	PROC 911 947	contrôle radiologique postopératoire
+T28	MEAS 959 965	normal
+T29	PHEN 970 997	circulation extracorporelle
+T30	DEVI 1030 1042	tronc canule
+T31	Concept_Idea 1188 1207	aspect histologique
+T32	LIVB 1273 1281	patiente
+T33	DISO 1287 1311	syndrome infectieux aigu
+T34	DISO 1317 1341	pneumopathie nosocomiale
+T35	DISO 1349 1388	symptômes neuropsychiatriques néonatals
+T36	DISO 1417 1443	maladie cœliaque primitive
+T37	DISO 1451 1485	déficit sensitivomoteur congénital
+T38	DISO 1506 1566	hypertrophie tonicoclonale hétérozygote idiopathique maligne
+T39	DISO 1582 1609	hyperactivité psychomotrice
+T40	Concept_Idea 1630 1648	critères cliniques
+T41	PROC 1688 1708	consultation externe
+T42	DISO 1727 1743	troubles visuels
+T43	DISO 1761 1787	psychose schizophréniforme
+T44	DISO 2078 2116	psychothérapie thérapeutique adjuvante
+T45	DISO 2201 2228	dermatomesystokystes aigues
+T46	DISO 2280 2303	tumeurs conjonctivo-AVC
+T47	PROC 2309 2338	dosage pondéral total IgG/IgA
+T48	MEAS 2344 2388	0,05 fois la limite supérieure UI/R=1,4 g/dl
+T49	Hospital 2900 2907	Houston
+T50	LIVB 2977 2985	Kitabchi
+T51	ANAT 3090 3098	sanguine
+T52	PHEN 3244 3262	mariage consanguin
+T53	PROC 3292 3306	bilan hormonal
+T54	LIVB 3315 3321	garçon
+T55	DISO 3349 3374	infections gynécologiques
+T56	Concept_Idea 3384 3387	âge
+T57	LIVB 3430 3432	il
+T58	PROC 3444 3457	antibiogramme
+T59	CHEM 3480 3491	corticoïdes
+T60	CHEM 3497 3535	amoxicilline acide acétyle thiazidique
+T61	PROC 3566 3585	chirurgie digestive
+T62	PROC 3589 3608	anesthésie générale
+T63	DISO 3663 3697	symptômes obsessionnels compulsifs
+T64	LIVB 3882 3889	jumeaux
+T65	DISO 3931 3938	maladie
+T66	LIVB 4114 4119	fœtus
+T67	LIVB 4157 4159	sa
+T68	LIVB 4160 4167	famille
+T69	LIVB 4175 4188	belle-famille
+T70	LIVB 4218 4224	frères
+T71	LIVB 4265 4272	parents
+T72	LIVB 4497 4501	mère
+T73	LIVB 4545 4552	enfants
+T74	LIVB 4598 4609	jeune femme

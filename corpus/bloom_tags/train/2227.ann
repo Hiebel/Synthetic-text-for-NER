@@ -1,0 +1,37 @@
+T1	LIVB 28 35	patient
+T2	Hospital 72 80	urgences
+T3	DISO 116 128	hyperthermie
+T4	MEAS 143 149	rapide
+T5	MEAS 161 165	38°C
+T6	DISO 178 198	signes neurologiques
+T7	DISO 225 241	troubles visuels
+T8	PROC 245 259	interrogatoire
+T9	DISO 283 298	symptomatologie
+T10	TEMP 309 318	12 heures
+T11	LIVB 325 328	son
+T12	PROC 329 344	hospitalisation
+T13	DISO 374 396	anorexie hémodynamique
+T14	MEAS 460 475	progressivement
+T15	Concept_Idea 479 489	profondeur
+T16	DISO 506 533	vomissements cholécystiques
+T17	DISO 546 560	amaigrissement
+T18	MEAS 571 575	2 kg
+T19	TEMP 579 587	six mois
+T20	PROC 601 628	numération formule sanguine
+T21	DISO 659 685	malformations congénitales
+T22	DISO 696 727	anémie normochrome normocytaire
+T23	DISO 731 743	thrombopénie
+T24	DISO 753 772	déficit immunitaire
+T25	DISO 902 930	douleurs abdomino-pelviennes
+T26	ANAT 911 930	abdomino-pelviennes
+T27	MODE 948 958	voie orale
+T28	MEAS 971 979	brunâtre
+T29	TEMP 988 1007	en quelques minutes
+T30	Concept_Idea 1037 1044	hauteur
+T31	MEAS 1054 1077	de plus en plus pesante
+T32	DISO 1130 1153	souffrance placentaires
+T33	ANAT 1141 1153	placentaires
+T34	DISO 1182 1206	saignements obstétricaux
+T35	PROC 1227 1251	toucher cervico-vaginale
+T36	ANAT 1235 1251	cervico-vaginale
+T37	DISO 1288 1296	myalgies

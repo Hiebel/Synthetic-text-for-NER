@@ -1,0 +1,33 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 50 61	antécédents
+T3	MEAS 62 74	particuliers
+T4	PROC 76 82	admise
+T5	Hospital 86 123	service des urgences ophtalmologiques
+T6	DISO 132 152	traumatisme oculaire
+T7	ANAT 144 152	oculaire
+T8	DISO 170 191	chute d'un lieu élevé
+T9	LIVB 214 222	patiente
+T10	PROC 243 269	traitement médical curatif
+T11	CHEM 283 297	ciprofloxacine
+T12	DOSE 299 305	400 mg
+T13	TEMP 305 307	/j
+T14	CHEM 317 348	amoxicilline-acide clavulanique
+T15	DOSE 350 356	200 mg
+T16	TEMP 356 358	/j
+T17	PROC 364 383	bilan préopératoire
+T18	PROC 406 431	scanner abdomino- pelvien
+T19	ANAT 414 431	abdomino- pelvien
+T20	DISO 449 472	hernie ovarienne droite
+T21	ANAT 456 472	ovarienne droite
+T22	Localization 466 472	droite
+T23	DISO 478 518	infiltration parenchymateuse péritonéale
+T24	ANAT 491 518	parenchymateuse péritonéale
+T25	PROC 522 548	examen anatomopathologique
+T26	DEVI 555 573	pièce chirurgicale
+T27	DISO 590 623	lésion tissulaire ulcéro-kystique
+T28	MEAS 633 638	12 cm
+T29	Concept_Idea 642 651	grand axe
+T30	PHEN 661 671	surrénales
+T31	MEAS 680 687	intense
+T32	PROC 694 703	injection
+T33	CHEM 706 726	produit de contraste

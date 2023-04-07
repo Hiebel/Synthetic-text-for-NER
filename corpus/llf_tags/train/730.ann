@@ -1,0 +1,27 @@
+T1	LIVB 40 47	enfants
+T2	DISO 64 96	insuffisance pondérale chronique
+T3	DISO 113 131	diarrhée glaireuse
+T4	DISO 142 163	signes inflammatoires
+T5	PHEN 178 187	grossesse
+T6	CHEM 189 201	amoxicilline
+T7	CHEM 203 221	acide clavulanique
+T8	CHEM 223 243	corticoïde caustique
+T9	CHEM 245 265	aminosides citronnés
+T10	PROC 271 288	bilan étiologique
+T11	PROC 310 320	hémogramme
+T12	DISO 350 370	syndrome néphrotique
+T13	PROC 384 401	geste chirurgical
+T14	PROC 420 442	traitement substitutif
+T15	TEMP 463 473	trois mois
+T16	PROC 553 577	régime pauvre en résidus
+T17	DISO 598 678	fébriculectomie partielle anévrysmale totale hyperchromatopéritonéale nécrosante
+T18	ANAT 706 727	veine cave inférieure
+T19	Localization 717 727	inférieure
+T20	ANAT 738 754	annexes caudales
+T21	ANAT 872 893	ventricule postérieur
+T22	Localization 883 893	postérieur
+T23	PROC 898 1018	remplissage oeso-gastro-rénal mésentérique retro péritonéal postéro-ombilicale pariétal postérieur scléro-antéro-externe
+T24	ANAT 910 1018	oeso-gastro-rénal mésentérique retro péritonéal postéro-ombilicale pariétal postérieur scléro-antéro-externe
+T26	Localization 1190 1199	bilatéral
+T27	Localization 1248 1254	droite
+T28	PROC 1339 1358	séance exploratoire

@@ -1,0 +1,21 @@
+T1	LIVB 14 24	nourrisson
+T2	TEMP 32 38	3 mois
+T3	DISO 67 71	toux
+T4	MEAS 72 77	sèche
+T5	DISO 93 123	douleurs pelviennes chroniques
+T6	ANAT 102 112	pelviennes
+T7	DISO 130 149	syndrome infectieux
+T8	Concept_Idea 155 158	âge
+T9	TEMP 162 168	7 mois
+T10	LIVB 173 179	malade
+T11	PROC 195 210	corticothérapie
+T12	MODE 215 233	voie intraveineuse
+T13	DOSE 235 242	50mg/kg
+T14	TEMP 242 244	/j
+T15	PROC 250 269	rééducation motrice
+T16	CHEM 291 315	produitétyl-prédnisolone
+T17	CHEM 357 386	fluoxétine acide clavulanique
+T18	TEMP 411 419	six mois
+T19	PHEN 434 446	alimentation
+T20	DISO 504 533	symptômes neuropsychiatriques
+T21	Concept_Idea 577 590	hémodynamique

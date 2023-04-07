@@ -1,0 +1,16 @@
+T1	LIVB 3 10	patient
+T2	PROC 17 24	adressé
+T3	Hospital 28 50	service
+T4	PROC 56 71	prise
+T5	PROC 75 90	examen
+T6	DISO 125 139	lésion
+T7	ANAT 132 139	cutanée
+T8	ANAT 157 165	épiderme
+T9	DISO 172 198	adénopathies
+T10	ANAT 185 198	sous-cutanées
+T11	DISO 202 220	hyperpigmentations
+T12	PROC 235 257	radiographie
+T13	ANAT 251 257	thorax
+T14	PROC 265 294	explorations
+T15	ANAT 278 294	ophtalmologiques
+T16	MEAS 340 351	incomplètes

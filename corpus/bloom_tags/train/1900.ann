@@ -1,0 +1,15 @@
+T1	PROC 2 26	exploration chirurgicale
+T2	DISO 39 47	volvulus
+T3	ANAT 53 73	artère rénale droite
+T4	Localization 67 73	droite
+T5	DISO 94 120	tumeur du pédicule urétral
+T6	ANAT 104 120	pédicule urétral
+T7	PROC 124 148	examen histopathologique
+T8	DISO 170 232	carcinome pléomorphe des parties molles inféro-latérale droite
+T9	ANAT 195 232	parties molles inféro-latérale droite
+T10	LIVB 237 245	patiente
+T11	PROC 264 288	chimiothérapie adjuvante
+T12	CHEM 299 312	dexaméthasone
+T13	CHEM 318 337	hydroxy-chloroquine
+T14	DOSE 339 346	1 mg/kg
+T15	TEMP 346 348	/j

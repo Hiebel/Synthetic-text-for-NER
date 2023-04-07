@@ -1,0 +1,44 @@
+T1	LIVB 28 35	patient
+T2	DISO 68 85	hypochondre droit
+T3	Localization 80 85	droit
+T4	DISO 90 113	néphropathie diabétique
+T5	DEVI 151 170	sonde nasogastrique
+T6	ANAT 157 170	nasogastrique
+T7	PROC 176 197	contraception utérine
+T8	ANAT 190 197	utérine
+T9	CHEM 208 222	hydrocortisone
+T10	CHEM 223 235	progestérone
+T11	PROC 240 264	exploration chirurgicale
+T12	LIVB 285 291	enfant
+T13	DISO 296 351	masse tissulaire hypoéchogène hétérogène hypokaliémique
+T14	MEAS 361 365	8 cm
+T15	Concept_Idea 369 378	grand axe
+T16	ANAT 396 431	parenchyme ovarien péripancréatique
+T17	ANAT 448 480	cordons ombilicals/ovariétronaux
+T18	DISO 505 545	métastase tumorale kystique anévrismante
+T19	DISO 590 629	pneumoedème épithélio-gigantocellulaire
+T20	ANAT 602 629	épithélio-gigantocellulaire
+T21	DISO 768 791	consanguinité familiale
+T22	DISO 798 812	primozygotisme
+T23	PROC 817 847	résultats anatomopathologiques
+T24	DISO 872 906	tumeur maligne nécrose-myélinisant
+T25	MEAS 915 921	T4N0M0
+T26	ANAT 942 952	surrénales
+T27	PROC 992 1015	injection intraveineuse
+T28	CHEM 1019 1044	produit de contraste iodé
+T29	MEAS 1112 1126	supra-clinique
+T30	PROC 1145 1177	mesures thérapeutiques curatives
+T31	PROC 1217 1241	chimiothérapie adjuvante
+T32	PROC 1247 1279	radiothérapie externe palliative
+T33	MODE 1294 1304	voie orale
+T34	CHEM 1308 1321	dexaméthasone
+T35	CHEM 1351 1375	tamoxifène hydrochloride
+T36	DISO 1456 1512	polynucléaires neutrophiles érythémateuses prurigineuses
+T37	PROC 1535 1566	techniques d'immuno-histochimie
+T38	PROC 1576 1589	sérologie VIH
+T39	MEAS 1603 1611	positifs
+T40	DISO 1635 1643	kystique
+T41	PROC 1658 1686	investigations radiologiques
+T42	DISO 1765 1812	syndrome d'épanchement intrarctico-interstitiel
+T43	ANAT 1788 1812	intrarctico-interstitiel
+T44	DISO 2039 2059	neuroendocrinopathie

@@ -1,0 +1,24 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	11 ans
+T3	DISO 38 63	antécédents pathologiques
+T4	MEAS 64 76	particuliers
+T5	PROC 78 83	admis
+T6	Hospital 87 130	service d'accueil des urgences pédiatriques
+T7	Hospital 134 154	CHU Hassan II de Fès
+T8	DISO 163 208	syndrome d'épanchement péricardique purulente
+T9	ANAT 186 198	péricardique
+T10	DISO 223 255	douleur abdomino-pelvienne aigue
+T12	TEMP 265 278	depuis 2 mois
+T13	PROC 282 297	examen clinique
+T14	DISO 318 339	détresse respiratoire
+T15	PHEN 327 339	respiratoire
+T16	DISO 355 361	fièvre
+T17	Concept_Idea 381 398	tension artériale
+T18	ANAT 389 398	artériale
+T19	MEAS 415 426	150/70 mmHg
+T20	PROC 430 451	échographie pelvienne
+T21	ANAT 442 451	pelvienne
+T23	CHEM 609 620	hémoglobine
+T24	DISO 636 696	extension ganglionnaire péripéritonéale hépato-surrénalienne
+T25	ANAT 646 696	ganglionnaire péripéritonéale hépato-surrénalienne
+T26	DISO 709 734	localisations secondaires

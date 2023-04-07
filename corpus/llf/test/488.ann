@@ -1,0 +1,11 @@
+T1	PROC 4 23	examens
+T2	DISO 41 57	hyperleucocytose
+T3	MEAS 60 85	16000
+T4	PROC 90 144	taux
+T5	MEAS 146 154	IgA=100%
+T6	PROC 158 161	IgM
+T7	MEAS 161 165	=10%
+T8	PROC 170 206	électrophorèse
+T9	MEAS 213 220	normale
+T10	PROC 225 256	complément
+T11	DISO 277 300	processus

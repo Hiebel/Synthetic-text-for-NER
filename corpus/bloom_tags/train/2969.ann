@@ -1,0 +1,62 @@
+T1	LIVB 16 21	femme
+T2	DISO 55 79	hémodialyse hypertensive
+T3	CHEM 85 95	surfactant
+T4	DOSE 97 103	1 g/kg
+T5	TEMP 103 105	/j
+T6	TEMP 107 121	pendant 8 mois
+T7	MODE 137 147	voie orale
+T8	MODE 152 170	voie nasogastrique
+T9	CHEM 253 284	amoxicilline-acide clavulanique
+T10	DISO 374 395	détresse respiratoire
+T11	PHEN 383 395	respiratoire
+T12	MEAS 410 421	progressive
+T13	TEMP 431 445	depuis 5 jours
+T14	DISO 469 500	douleurs thoraciques purulentes
+T16	MEAS 515 526	prolapsante
+T17	LIVB 553 561	patiente
+T18	DISO 580 635	ictère cutanéo-muqueux maculo-pustuleuses prurigineuses
+T19	ANAT 661 666	corps
+T20	Concept_Idea 738 750	état général
+T21	DISO 852 871	contage tuberculeux
+T22	DISO 882 907	malformations congénitaux
+T23	DEVI 929 956	scanner abdomino-thoracique
+T24	ANAT 937 956	abdomino-thoracique
+T25	PROC 971 993	consultation prénatale
+T26	DISO 1030 1039	anomalies
+T27	PROC 1200 1236	ponction surrénalienne biquotidienne
+T28	ANAT 1209 1236	surrénalienne biquotidienne
+T29	MEAS 1253 1260	normale
+T30	PROC 1274 1295	échographie pelvienne
+T31	ANAT 1286 1295	pelvienne
+T32	DISO 1318 1357	hypertrophie mésentérique utéro-utérine
+T33	ANAT 1331 1357	mésentérique utéro-utérine
+T34	MEAS 1366 1373	stade 3
+T35	DISO 1434 1481	hyperplasie nécrose endométriale hypokaliémique
+T36	DISO 1499 1565	carcinose érythémateuse myxiploïque kystique hypocholestérolophobe
+T37	MEAS 1575 1580	20 cm
+T38	Concept_Idea 1584 1593	grand axe
+T39	ANAT 1615 1640	organes pharyngo-sternaux
+T40	DISO 1672 1708	localisation secondaire métastatique
+T41	PROC 1714 1752	biopsie transperitonéale échographique
+T42	DISO 1780 1832	neuroendocrine carcinome épithélio-gigantocellulaire
+T43	ANAT 1866 1893	parties molles intestinales
+T44	ANAT 1908 1925	glandes grêliques
+T45	PROC 1994 2009	immuno-marquage
+T46	PROC 2150 2179	technique d'immuno-récepteurs
+T47	PROC 2185 2203	marqueurs tumoraux
+T48	MEAS 2217 2234	fortement positif
+T49	PROC 2239 2273	imagerie par résonnance magnétique
+T50	PROC 2275 2278	IRM
+T53	ANAT 2472 2497	plexus sousrénalien droit
+T54	Localization 2492 2497	droit
+T55	PROC 2521 2538	bilan d'extension
+T56	PROC 2550 2580	TDM thoraco-abdomino-pelvienne
+T57	ANAT 2554 2580	thoraco-abdomino-pelvienne
+T58	PROC 2589 2614	scanner abdomino périnéal
+T59	ANAT 2597 2614	abdomino périnéal
+T60	DISO 2631 2713	adénopathies hépato-surrénaliennes basithoraciques hétérogènes cervico-fistulisées
+T62	LIVB 2718 2726	patiente
+T63	CHEM 2743 2754	Ceftriaxone
+T64	CHEM 2768 2799	amoxicilline-acide clavulanique
+T65	DOSE 2801 2809	50 mg/kg
+T66	TEMP 2809 2815	/heure

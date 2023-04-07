@@ -1,0 +1,37 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	6 ans
+T3	DISO 40 65	antécédents pathologiques
+T4	MEAS 66 74	notables
+T5	DISO 96 119	méningoencephalopathies
+T6	TEMP 129 141	depuis 3 ans
+T7	LIVB 143 145	Il
+T8	PROC 152 157	admis
+T9	Hospital 161 204	service d'accueil des urgences pédiatriques
+T10	Hospital 208 257	centre Hospitalier Universitaire Hassan II de Fès
+T11	PHEN 268 280	accouchement
+T12	DISO 308 325	pleurésie fébrile
+T13	PROC 369 384	examen clinique
+T14	LIVB 386 390	nous
+T15	DISO 411 423	thrombopénie
+T16	MEAS 426 445	16 000 éléments/mm3
+T17	DISO 461 477	hyperleucocytose
+T18	MEAS 480 497	14800 élément/mm3
+T19	PROC 503 530	polynucléation plaquettaire
+T20	DISO 605 624	diabète métabolique
+T21	DISO 667 736	anémie hypochrome microcytaire ferriprive normocytaire hypocalcémique
+T22	DISO 840 878	syndrome d'épanchement intrarachidiens
+T23	ANAT 863 878	intrarachidiens
+T24	LIVB 911 917	enfant
+T25	TEMP 926 932	12 ans
+T26	DISO 952 975	myalgic dermatomyositis
+T27	DISO 1008 1060	nécrose lésionnelle prurigineuse myasthéno-nodulaire
+T28	PROC 1077 1108	échographie abdomino- pelvienne
+T29	ANAT 1089 1108	abdomino- pelvienne
+T30	PROC 1123 1140	touchers pelviens
+T31	ANAT 1132 1140	pelviens
+T32	MEAS 1149 1161	négligeables
+T33	PROC 1177 1193	examen somatique
+T34	DISO 1224 1252	déficit sensitivospinctérien
+T35	PROC 1310 1329	tomodensitométrique
+T36	PROC 1330 1333	IRM
+T37	PROC 1340 1386	sérologies virales d'immunodépression sanguine

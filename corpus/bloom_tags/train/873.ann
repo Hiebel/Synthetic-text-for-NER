@@ -1,0 +1,66 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 85 91	examen
+T5	DISO 108 140	syndrome d'épanchement liquidien
+T6	ANAT 131 140	liquidien
+T8	ANAT 181 203	sinus maxillaire droit
+T9	Localization 198 203	droit
+T10	TEMP 213 229	depuis deux mois
+T11	LIVB 231 233	Il
+T12	PROC 240 244	réçu
+T13	Hospital 249 257	urgences
+T14	DISO 277 298	détresse respiratoire
+T15	PHEN 286 298	respiratoire
+T16	DISO 304 318	amaigrissement
+T17	MEAS 329 333	6 kg
+T18	TEMP 337 346	deux mois
+T19	PROC 352 383	échographie abdomino- pelvienne
+T20	ANAT 364 383	abdomino- pelvienne
+T21	PROC 385 388	EAP
+T23	DISO 507 574	hypertrophie épiploique latéralisée parenchyrénoïde bilirulomateuse
+T25	MEAS 584 589	30 cm
+T26	Concept_Idea 593 602	grand axe
+T27	PROC 638 647	injection
+T28	CHEM 651 671	produit de contraste
+T29	DISO 694 772	adénopathies cervico-laryngo médiastinales cervicophyso-rachidiennes méningées
+T31	PROC 794 813	bilan immunologique
+T32	PROC 827 854	numération formule sanguine
+T33	MEAS 871 878	normaux
+T34	PROC 891 915	anticorps antinucléaires
+T35	MEAS 926 933	négatif
+T36	PROC 948 982	protéines sériques anti-ADN natifs
+T37	MEAS 997 1015	fortement positifs
+T39	MEAS 1035 1044	120 UI/ml
+T40	PROC 1046 1065	anti DNA natifs IgG
+T41	MEAS 1073 1081	positifs
+T42	MEAS 1084 1094	2050 UI/ml
+T43	MEAS 1102 1111	150 UI/ml
+T44	PROC 1114 1133	anti-ADN natifs IgA
+T45	MEAS 1143 1151	positifs
+T46	MEAS 1154 1164	2160 UI/ml
+T47	MEAS 1172 1180	70 UI/ml
+T48	PROC 1187 1215	tomodensitométrie thoracique
+T49	ANAT 1205 1215	thoracique
+T53	Localization 1346 1349	sus
+T54	LIVB 1435 1443	patiente
+T55	DISO 1455 1476	métanéphrine kystique
+T56	DISO 1492 1551	thrombose médiastinale périlésionnelle érythémato-pigmentée
+T58	ANAT 1569 1601	champ pulmonaire inférieur droit
+T59	Localization 1596 1601	droit
+T60	ANAT 1622 1653	paroi para-aortique intestinale
+T61	ANAT 1682 1700	rebords cardiaques
+T62	ANAT 1730 1747	ventricule gauche
+T63	Localization 1741 1747	gauche
+T64	DISO 1774 1804	lésions métanéphrine-kystiques
+T65	ANAT 1825 1844	oreillette centrale
+T66	Localization 1836 1844	centrale
+T67	PROC 1848 1870	traitement chirurgical
+T68	PROC 1889 1926	toilette pleurésie-abdomino-pelvienne
+T69	ANAT 1898 1926	pleurésie-abdomino-pelvienne
+T70	DEVI 1936 1955	seringue électrique
+T71	DISO 1973 1993	adhérences tumorales
+T72	PROC 2008 2043	chimiothérapie palliative adjuvante
+T73	PROC 2058 2091	radiothérapie concomitante locale
+T74	PROC 2357 2383	radioclinique endoscopique
+T75	PROC 2619 2622	ETT

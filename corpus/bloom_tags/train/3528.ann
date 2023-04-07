@@ -1,0 +1,29 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 51 68	céphalées fébrile
+T4	DEVI 94 112	traitement médical
+T5	DISO 127 143	troubles visuels
+T6	PHEN 197 212	acuité visuelle
+T7	DISO 214 220	fièvre
+T8	DISO 243 271	symptomatologie neurologique
+T9	DISO 285 321	douleurs épigastriques constrictives
+T10	ANAT 294 321	épigastriques constrictives
+T11	TEMP 344 350	6 mois
+T12	LIVB 375 383	jeunette
+T13	DISO 421 449	décomplications métaboliques
+T14	DISO 612 655	sécrétions hydro-électrolytiques purulentes
+T15	MEAS 665 688	spontanément abondantes
+T16	DISO 741 755	sueurs froides
+T17	MEAS 770 776	rapide
+T18	MEAS 788 802	plusieurs fois
+T19	Concept_Idea 806 812	volume
+T20	PROC 824 839	hospitalisation
+T21	DISO 862 884	masse tumorale maligne
+T22	MEAS 894 898	2 cm
+T23	Concept_Idea 902 911	grand axe
+T24	ANAT 943 961	membres inférieurs
+T25	Concept_Idea 1053 1061	contours
+T26	MEAS 1062 1071	réguliers
+T27	MEAS 1084 1100	de façon intense
+T28	DISO 1144 1159	processus malin
+T29	DISO 1212 1231	surdité congénitale

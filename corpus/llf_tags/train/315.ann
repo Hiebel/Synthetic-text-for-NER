@@ -1,0 +1,88 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 66	antécédents pathologiques
+T3	MEAS 67 79	particuliers
+T4	PROC 93 105	hospitalisée
+T5	Hospital 114 121	service
+T6	DISO 131 137	fièvre
+T7	TEMP 160 177	depuis deux jours
+T8	PROC 181 196	examen clinique
+T9	DISO 219 234	signes généraux
+T10	DISO 250 277	syndrome neuropsychiatrique
+T11	PROC 287 301	interrogatoire
+T12	Concept_Idea 305 317	état général
+T13	MEAS 318 324	altéré
+T14	PHEN 329 350	fonction respiratoire
+T15	ANAT 338 350	respiratoire
+T16	MEAS 357 364	normale
+T17	MEAS 413 425	constrictifs
+T18	CHEM 427 438	glucantime®
+T19	DOSE 440 446	3mg/kg
+T20	TEMP 446 451	/jour
+T21	DISO 485 514	neuropathie sensitivo-motrice
+T22	DISO 535 559	corticosensibilisme aigu
+T23	DISO 569 595	psychomotrifico-pathologie
+T24	LIVB 687 695	patiente
+T25	PROC 701 735	imagerie par résonnance magnétique
+T26	PROC 736 747	TEP scanner
+T27	DISO 768 853	processus lésionnel tissulaire réno-crânien périrénal postéro-supérieur hypokinétique
+T28	ANAT 875 905	veine jugulaire interne gauche
+T29	Localization 899 905	gauche
+T30	MEAS 915 920	13 mm
+T31	Concept_Idea 924 932	diamètre
+T32	ANAT 1029 1082	branches pariéto-temporo-hépatiques cervicale gauches
+T33	Localization 1075 1082	gauches
+T34	ANAT 1098 1118	fundibulaire droites
+T35	Localization 1111 1118	droites
+T36	MEAS 1152 1156	5 cm
+T37	Concept_Idea 1160 1168	diamètre
+T38	DEVI 1181 1220	appareils intraveineux scannographiques
+T39	PROC 1513 1541	chimiothérapie néo adjuvante
+T40	PROC 1579 1625	radiothérapie type bêtalactamines ketoacidosis
+T41	PROC 1656 1697	prélèvements radiothérapeutiques standard
+T42	PROC 1793 1827	thyroïdectomie totale exploratrice
+T43	PROC 1866 1893	reconstructions anéchogènes
+T44	ANAT 1967 2015	annexes ganglionnaires cervicales superficielles
+T46	ANAT 2095 2131	lobe supérieur inferieur superficiel
+T47	Localization 2110 2131	inferieur superficiel
+T49	MEAS 2490 2507	620 gramme×128 ml
+T50	MEAS 2526 2529	70%
+T51	MEAS 2658 2665	simples
+T52	PROC 2775 2800	kinésithérapie palliative
+T53	DISO 2827 2849	troubles ventilatoires
+T54	DISO 2871 2891	processus infectieux
+T55	TEMP 2908 2915	24 mois
+T56	Concept_Idea 2965 2981	plan fonctionnel
+T57	DISO 2987 3001	décès néonatal
+T58	TEMP 3026 3033	7 jours
+T59	DISO 3047 3056	récidives
+T60	DISO 3084 3106	syndrome inflammatoire
+T61	DISO 3113 3146	complications neuropsychiatriques
+T62	DISO 3156 3186	facteur de risque hémorragique
+T63	PROC 3208 3230	contrôle échographique
+T64	LIVB 3235 3242	patient
+T65	PROC 3254 3259	suivi
+T66	LIVB 3265 3270	notre
+T67	Hospital 3271 3277	centre
+T68	PROC 3283 3310	prise en charge étiologique
+T69	LIVB 3314 3316	il
+T70	CHEM 3369 3381	antibiotique
+T71	CHEM 3383 3414	amoxicilline acide clavulanique
+T72	TEMP 3422 3424	/j
+T73	CHEM 3449 3459	médicament
+T74	DISO 3479 3490	neurolepsie
+T75	LIVB 3501 3507	enfant
+T76	TEMP 3515 3522	six ans
+T77	LIVB 3544 3548	mère
+T78	DISO 3599 3627	néphropathie hypochondriaque
+T79	PHEN 3644 3653	grossesse
+T80	PROC 3658 3678	traitée médicalement
+T81	PROC 3744 3753	césarisée
+T82	PROC 3770 3794	consultations prénatales
+T83	LIVB 3843 3849	enfant
+T84	DISO 3874 3906	union consanguine mal équilibrée
+T85	DISO 3937 3959	mariage consanguin¬tal
+T87	DEVI 4082 4101	voitures ambulantes
+T88	DEVI 4126 4145	barillet électrique
+T89	PROC 4224 4241	geste chirurgical
+T90	PROC 4279 4309	tomodensitométrie scannoguidée
+T91	LIVB 4409 4419	nouveau-né

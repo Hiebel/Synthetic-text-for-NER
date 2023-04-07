@@ -1,0 +1,44 @@
+T1	LIVB 19 26	patient
+T2	DISO 42 67	antécédents pathologiques
+T3	MEAS 68 80	particuliers
+T4	DISO 101 110	céphalées
+T5	DISO 140 158	dyspnée crépitante
+T6	MEAS 173 184	progressive
+T7	PROC 190 199	admission
+T8	Hospital 208 226	service d'urologie
+T9	Hospital 230 250	CHU Hassan II de Fès
+T10	LIVB 252 254	il
+T11	MEAS 264 267	bon
+T12	Concept_Idea 268 280	état général
+T13	LIVB 282 284	Il
+T14	DISO 299 337	syndrome d’épanchement intrapéritonéal
+T15	ANAT 322 337	intrapéritonéal
+T16	PROC 363 394	échographie abdomino- pelvienne
+T17	ANAT 375 394	abdomino- pelvienne
+T18	DISO 415 451	masse pelvienne latéroutérine gauche
+T19	ANAT 421 451	pelvienne latéroutérine gauche
+T20	Localization 445 451	gauche
+T21	MEAS 476 480	6 cm
+T22	MEAS 485 489	2 cm
+T23	MEAS 493 498	12 cm
+T24	MEAS 503 507	4 cm
+T25	PROC 512 531	bilan préopératoire
+T27	ANAT 554 562	pleurale
+T28	PROC 585 604	anesthésie générale
+T29	PHEN 622 640	grossesse gémellée
+T30	PROC 674 680	suivie
+T31	TEMP 689 694	36 SA
+T32	MODE 717 740	voie basse artificielle
+T33	MEAS 812 824	2900 grammes
+T34	MEAS 828 840	3200 grammes
+T35	MEAS 1003 1009	800 ml
+T36	PROC 1016 1042	stabilisation hémorragique
+T37	CHEM 1053 1073	méthylhydrocortisone
+T38	CHEM 1078 1088	furosémide
+T39	CHEM 1108 1134	médiates vasoconstricteurs
+T40	CHEM 1137 1150	noradrénaline
+T41	DOSE 1151 1159	0,5mg/kg
+T42	TEMP 1159 1164	/jour
+T43	CHEM 1169 1181	prédnisolone
+T44	DOSE 1183 1191	10 mg/m²
+T45	TEMP 1191 1193	/j

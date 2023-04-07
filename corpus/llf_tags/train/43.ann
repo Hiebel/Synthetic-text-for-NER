@@ -1,0 +1,25 @@
+T1	LIVB 2 10	patiente
+T2	PROC 17 23	opérée
+T3	PROC 27 53	examen anatomopathologique
+T4	ANAT 60 76	pièce opératoire
+T5	PROC 66 76	opératoire
+T6	DISO 92 108	tumeur du pelvis
+T7	ANAT 102 108	pelvis
+T8	Concept_Idea 118 148	limites d'exérèse chirurgicale
+T9	PROC 128 148	exérèse chirurgicale
+T10	MEAS 157 165	limitées
+T11	MEAS 176 181	12 cm
+T12	Concept_Idea 185 194	grand axe
+T13	MEAS 213 218	10 cm
+T14	Concept_Idea 222 231	petit axe
+T15	PROC 235 261	étude immuno-histochimique
+T16	PROC 263 266	IHC
+T17	LIVB 288 296	patiente
+T18	DISO 316 376	léiomyosarcome myxoïde infiltrant des muscles paravertébraux
+T19	ANAT 354 376	muscles paravertébraux
+T20	CHEM 444 469	acide valproique conjugué
+T21	CHEM 475 488	métronidazole
+T22	PHEN 494 512	suites opératoires
+T23	MEAS 521 528	simples
+T24	DISO 534 555	récidive neurologique
+T25	DISO 559 569	métastases

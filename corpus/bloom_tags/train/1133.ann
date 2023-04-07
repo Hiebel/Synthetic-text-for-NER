@@ -1,0 +1,53 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	6 ans
+T3	PROC 25 29	reçu
+T4	Hospital 34 42	urgences
+T5	DISO 62 83	détresse respiratoire
+T6	PHEN 71 83	respiratoire
+T7	PROC 109 132	traitement ventilatoire
+T8	PROC 138 155	Spacelys/4 cycles
+T9	CHEM 166 176	sufentanil
+T10	DOSE 179 186	2 µg/kg
+T11	CHEM 188 197	midazolam
+T12	DOSE 200 208	10 mg/kg
+T13	CHEM 211 228	éthyl barbiturate
+T14	DOSE 231 239	50 mg/m²
+T15	PROC 245 264	bilan préopératoire
+T16	PROC 332 362	radio-chimiothérapie adjuvante
+T17	PROC 377 406	sérologies d'immunodépression
+T18	MEAS 415 424	négativés
+T19	PROC 428 479	ponction pleurieuse liquidienne pleuro-péritoineuse
+T20	ANAT 437 479	pleurieuse liquidienne pleuro-péritoineuse
+T21	DISO 562 579	dyspnée sifflante
+T22	PROC 599 621	technique chirurgicale
+T23	DISO 699 734	localisations secondaires tumorales
+T24	PROC 770 793	injection intraveineuse
+T25	CHEM 797 817	produit de contraste
+T26	DISO 913 967	métastase parathyroïdienne métalo-rénulo-lymphocytaire
+T27	ANAT 923 967	parathyroïdienne métalo-rénulo-lymphocytaire
+T28	ANAT 978 987	hépatique
+T29	ANAT 1010 1041	aires ganglionnaires cervicales
+T30	MEAS 1059 1069	hypodenses
+T31	MEAS 1109 1120	hyperdenses
+T32	MEAS 1145 1148	5mm
+T33	MEAS 1152 1156	12mm
+T34	Concept_Idea 1235 1245	caractères
+T35	MEAS 1256 1265	réguliers
+T36	Localization 1330 1340	bilatérale
+T37	PROC 1454 1492	échographie pelvienne trans-thoracique
+T38	ANAT 1466 1492	pelvienne trans-thoracique
+T40	ANAT 1600 1620	volumineux péritoine
+T41	MEAS 1632 1647	progressivement
+T42	Concept_Idea 1651 1657	taille
+T43	TEMP 1666 1685	deux mois plus tard
+T44	DISO 1713 1746	tuméfaction érythémateuse ulcérée
+T45	ANAT 1768 1785	cavité abdominale
+T46	ANAT 1798 1831	artère rénale supra-hypogastrique
+T47	Localization 1812 1817	supra
+T48	DISO 1849 1889	trouble hydro-électrolytique métabolique
+T49	MEAS 1903 1915	plus brutale
+T50	DISO 1923 1948	polynucléose leucocytaire
+T51	DISO 1979 2001	traumatisme urogénital
+T52	DISO 2008 2028	prise médicamenteuse
+T53	LIVB 2048 2054	enfant
+T54	TEMP 2101 2107	16 ans

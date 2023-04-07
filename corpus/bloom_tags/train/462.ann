@@ -1,0 +1,55 @@
+T1	LIVB 3 9	garçon
+T2	TEMP 13 19	10 ans
+T3	Hospital 39 47	urgences
+T4	DISO 67 73	fièvre
+T5	MEAS 85 90	39°8C
+T6	DISO 93 117	polynucléose neutrophile
+T7	MEAS 120 130	15 000/mm3
+T8	DISO 148 169	détresse respiratoire
+T9	PHEN 157 169	respiratoire
+T10	MEAS 184 195	progressive
+T11	MEAS 205 219	plus accentuée
+T12	TEMP 233 240	2 jours
+T13	TEMP 255 264	12 heures
+T14	PROC 339 371	adrénaline pancréatotumorectomie
+T15	DISO 501 539	syndrome d'épanchement intrapéritonéal
+T16	ANAT 524 539	intrapéritonéal
+T18	CHEM 943 963	produit de contraste
+T19	PROC 967 988	échographie ovarienne
+T20	ANAT 979 988	ovarienne
+T21	DISO 1000 1009	anomalies
+T22	DISO 1027 1054	épanchement intrapéritonéal
+T23	ANAT 1039 1054	intrapéritonéal
+T24	DISO 1059 1086	paragangliome hypertrophiés
+T25	DISO 1092 1140	adénopathie bilatérale du sinus caverneux utérin
+T26	Localization 1104 1114	bilatérale
+T27	ANAT 1118 1140	sinus caverneux utérin
+T28	DISO 1158 1197	surdité congénitale des voies auditives
+T29	DISO 1206 1224	empyème péritonéal
+T30	ANAT 1214 1224	péritonéal
+T31	Concept_Idea 1268 1283	aspect clinique
+T32	DISO 1298 1317	masse bourgeonnante
+T33	DISO 1321 1332	lombolymphe
+T34	DISO 1345 1364	signes radiologique
+T35	PROC 1403 1433	bilan biologique préopératoire
+T36	PROC 1451 1473	créatine phosphokinase
+T37	MEAS 1486 1496	13000 UI/l
+T38	PROC 1509 1528	protéine C réactive
+T39	MEAS 1540 1559	0,5 fois la normale
+T40	LIVB 1561 1564	Son
+T41	PROC 1565 1589	scanner abdomino pelvien
+T42	ANAT 1573 1589	abdomino pelvien
+T43	PROC 1603 1627	anesthésie locorégionale
+T44	DISO 1641 1656	tumeur arrondie
+T45	MEAS 1665 1668	1cm
+T46	Concept_Idea 1672 1681	grand axe
+T47	ANAT 1703 1729	structures péripéritonéaux
+T48	ANAT 1809 1824	intrapéritonéal
+T49	MEAS 1878 1890	environ 5 cm
+T50	Concept_Idea 1894 1903	grand axe
+T51	ANAT 1998 2016	capsules vaginales
+T52	ANAT 2035 2052	cavité abdominale
+T54	ANAT 2212 2233	anses grêlo-kystiques
+T55	ANAT 2325 2339	organes séreux
+T56	DISO 2366 2410	kystophagocellule tumorale kystéo-fasciculée
+T57	DISO 2441 2466	lymphocyte érythromateuse

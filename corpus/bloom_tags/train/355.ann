@@ -1,0 +1,25 @@
+T1	LIVB 16 21	femme
+T2	DISO 42 67	antécédents pathologiques
+T3	MEAS 68 76	notables
+T4	PROC 78 88	consultait
+T5	Hospital 93 101	urgences
+T6	DISO 120 134	amaigrissement
+T7	MEAS 145 149	20kg
+T8	Concept_Idea 265 277	état général
+T9	DEVI 306 338	médicament antalgique compressif
+T10	DISO 366 387	détresse neurologique
+T11	MEAS 431 458	de plus en plus envahissant
+T12	MEAS 523 544	lentement progressive
+T13	TEMP 566 571	4 ans
+T14	LIVB 732 744	jeunes femme
+T15	Concept_Idea 780 806	caractéristiques cliniques
+T16	DISO 838 865	atrophiede myometre maligne
+T17	PROC 916 938	diagnostic étiologique
+T18	PROC 951 974	radiothérapie adjuvante
+T19	PROC 1037 1051	interrogatoire
+T20	DISO 1088 1102	pathognomonies
+T21	DISO 1129 1141	palpitations
+T22	DISO 1170 1242	douleurs thoraciques constrictives basithoraciques bilobées hypotoniques
+T24	MEAS 1267 1272	30 cm
+T25	MEAS 1275 1280	15 cm
+T26	DISO 1307 1330	myxomes carcinomateuses

@@ -1,0 +1,21 @@
+T1	PROC 3 13	traitement
+T2	PROC 37 71	transfusion sanguine de sang total
+T3	DISO 121 133	hypocalcémie
+T4	MEAS 136 146	2,1 mmol/L
+T5	Concept_Idea 148 155	Normale
+T6	MEAS 157 173	0,74-3,97 mmol/L
+T7	DISO 181 200	choc anaphylactique
+T8	CHEM 224 234	médicament
+T9	Hospital 238 245	urgence
+T10	MEAS 278 285	simples
+T11	PROC 291 317	anticoagulation préventive
+T12	TEMP 321 331	5 ème jour
+T13	PROC 359 380	contrôle neurologique
+T14	PHEN 399 416	fonctions vitales
+T15	ANAT 425 451	membre supérieur supérieur
+T16	Localization 442 451	supérieur
+T17	LIVB 487 489	il
+T18	PROC 504 528	chimiothérapie adjuvante
+T19	CHEM 534 546	tamoxifenème
+T20	CHEM 549 561	nitroglycine
+T21	CHEM 563 580	acide nalidixique

@@ -1,0 +1,48 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 43	hospitalisée
+T3	Hospital 47 91	service de chirurgie thoracique pédiatriques
+T4	PROC 97 125	surrénalectomie exploratrice
+T5	PROC 131 206	anastomose trachéo-bronchique transpharyngo médiastin antéro-supraglottique
+T7	LIVB 234 242	patiente
+T8	DISO 247 281	masse kystique lithiasique maligne
+T9	MEAS 291 294	3cm
+T10	Concept_Idea 298 307	grand axe
+T11	ANAT 324 345	structures cardiaques
+T12	ANAT 372 388	organes crâniens
+T13	ANAT 406 432	fosse ptérygo-mandibulaire
+T14	PROC 465 474	résection
+T15	DISO 506 541	épanchement tissulaire péripariétal
+T16	ANAT 518 541	tissulaire péripariétal
+T17	DISO 613 651	épanchement parathyroïdiendercardiaque
+T18	ANAT 625 651	parathyroïdiendercardiaque
+T19	ANAT 704 729	intracrânien mésentérique
+T20	PROC 748 778	bilan biologique préopératoire
+T21	DISO 801 844	syndrome inflammatoire clinico-radiologique
+T22	PROC 847 849	VS
+T23	MEAS 851 855	1 mm
+T24	PROC 857 876	protéine-C réactive
+T25	PROC 877 880	CRP
+T26	MEAS 883 888	7mg/l
+T27	PROC 891 901	globulines
+T28	MEAS 903 922	21000 éléments/mm 3
+T29	PROC 928 952	scanner abdomino-pelvien
+T30	ANAT 936 952	abdomino-pelvien
+T31	DISO 966 1010	masse graisseuse hépatomi-ascite sécrétrante
+T32	ANAT 983 1010	hépatomi-ascite sécrétrante
+T33	ANAT 1027 1040	flux biliaire
+T34	MEAS 1049 1059	stade IIIB
+T35	ANAT 1117 1126	splénique
+T36	DISO 1141 1167	malformations congénitales
+T37	ANAT 1196 1208	œsophagienne
+T38	DOSE 1210 1213	5Gy
+T39	PROC 1219 1267	radiothérapie adjuvante palliative locorégionale
+T40	DISO 1393 1410	récidive tumorale
+T41	TEMP 1426 1433	24 mois
+T42	MEAS 1484 1491	modérée
+T43	DISO 1498 1513	symptomatologie
+T44	PROC 1527 1546	curage locorégional
+T45	ANAT 1534 1546	locorégional
+T46	DISO 1619 1640	détresse respiratoire
+T47	DEVI 1667 1729	sonde nasogastroduodéno-laryngéo tracheobronchique ventilateur
+T49	PROC 1814 1849	remplissage vasculaire intraveineux
+T51	LIVB 1955 1963	patients

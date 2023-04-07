@@ -1,0 +1,73 @@
+T1	PROC 3 13	traitement
+T2	CHEM 21 29	héparine
+T3	CHEM 36 50	céphalosporine
+T4	MEAS 98 105	simples
+T5	Concept_Idea 109 127	état hémodynamique
+T6	DISO 143 162	syndrome infectieux
+T7	ANAT 175 185	péritonéal
+T8	LIVB 191 198	patient
+T9	TEMP 227 229	J2
+T10	Hospital 265 280	bloc opératoire
+T11	PROC 287 306	bilan préopératoire
+T12	DISO 322 366	anémie hypochrome microcytaire arégénérative
+T13	DISO 372 387	hémophagocytose
+T14	DISO 397 434	déficit en vitamine B12 acide folique
+T15	CHEM 408 434	vitamine B12 acide folique
+T16	DISO 448 460	hypoglycémie
+T17	MEAS 471 494	15 gramme par décilitre
+T18	PROC 498 524	examen anatomopathologique
+T19	DISO 551 609	granulome épidermoïde infiltrant la graisse iliaque gauche
+T20	ANAT 587 609	graisse iliaque gauche
+T21	Localization 603 609	gauche
+T22	MEAS 619 623	5 cm
+T23	Concept_Idea 627 636	grand axe
+T24	DISO 651 690	lésions ulcérées anéchogènes polylobées
+T25	ANAT 728 745	branches caudales
+T26	ANAT 783 799	muqueuse buccale
+T27	PROC 804 821	tomodensitométrie
+T29	ANAT 827 853	thoraco-abdomino-pelvienne
+T30	DISO 875 896	récidive métastatique
+T31	DISO 913 965	perforation kystique cutanéomuqueuse endométriosique
+T32	MEAS 996 1000	4 cm
+T33	Concept_Idea 1004 1013	grand axe
+T34	PROC 1034 1045	transfusion
+T35	PHEN 1051 1098	structures intraparenchymateuses superficielles
+T36	Concept_Idea 1117 1147	caractéristiques histologiques
+T37	DISO 1161 1178	hyperprolactivite
+T38	PROC 1182 1208	étude immuno-histochimique
+T39	PROC 1233 1243	diagnostic
+T40	DISO 1259 1310	adénocarcinome carcinomateux éosinophile mononuclée
+T41	MEAS 1318 1327	stade III
+T42	LIVB 1510 1517	malades
+T43	DISO 1538 1580	symptômes neuropsychiatriques psychotiques
+T44	DISO 1593 1636	troubles obsessionnels compulsifs atypiques
+T45	Concept_Idea 1653 1673	chiffres tensionnels
+T46	LIVB 3003 3007	elle
+T47	PROC 3034 3052	traitement médical
+T48	PROC 3076 3115	prise en charge thérapeutique adjuvante
+T49	MEAS 3131 3139	première
+T50	PROC 3140 3152	consultation
+T51	DISO 3177 3193	râles crépitants
+T52	TEMP 3207 3233	quelques heures auparavant
+T53	DISO 3278 3285	cyanosé
+T54	PROC 3295 3310	examen clinique
+T55	DISO 3365 3398	syndrome sérotoninergique sinusal
+T56	PROC 3409 3426	biologie initiale
+T57	DISO 3443 3465	hypokaliémie chronique
+T58	DISO 3478 3495	signes somatiques
+T59	PROC 3534 3558	bilan lipidique standard
+T60	DISO 3584 3614	hypothyroïdie primaire maligne
+T61	DISO 3630 3705	hyperoestrogènémie hypochrome microglobuline intracérébrale hétéronodulaire
+T62	CHEM 3724 3756	amoxicilline acide clavulanique®
+T63	PROC 3770 3808	hémoglobine glycorachie libre conjugue
+T64	MEAS 3819 3827	2,4 g/dl
+T65	PROC 3849 3863	transfabriqués
+T66	DISO 3942 3954	paresthésies
+T67	PROC 3958 3975	échocardiographie
+T68	ANAT 4002 4032	voie aéro-digestive thoracique
+T69	ANAT 4052 4055	VBP
+T70	ANAT 4100 4126	ventricule supérieur droit
+T71	Localization 4121 4126	droit
+T72	Concept_Idea 4158 4173	grande courbure
+T73	ANAT 4201 4213	conjonctives
+T75	DISO 4292 4318	pancréatite anémique aiguë

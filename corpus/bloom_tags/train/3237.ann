@@ -1,0 +1,21 @@
+T1	LIVB 13 16	A.H
+T2	TEMP 25 31	16 ans
+T3	DISO 59 86	dyspnée stade II de la NYHA
+T4	MEAS 101 113	progressante
+T5	DISO 129 143	toux chronique
+T6	TEMP 153 170	depuis deux jours
+T7	DISO 192 198	sueurs
+T8	MEAS 225 235	croissante
+T9	MEAS 245 254	insoluble
+T10	DISO 256 267	polypnéique
+T11	MEAS 270 283	22 cycles/min
+T12	PROC 296 318	recherche radiologique
+T13	DISO 341 377	déficit neurologique sensitivomoteur
+T14	PROC 382 412	auscultation pleuro-pulmonaire
+T15	ANAT 395 412	pleuro-pulmonaire
+T16	DISO 443 475	crépitements crépito-brunophiles
+T17	DISO 494 533	sensibilité pulmonaire normo-tachycarde
+T18	ANAT 506 533	pulmonaire normo-tachycarde
+T19	PROC 547 582	examen cutanéo-muqueux érythémateux
+T20	ANAT 554 582	cutanéo-muqueux érythémateux
+T21	DISO 614 633	saignement purulent

@@ -1,0 +1,42 @@
+T1	LIVB 3 10	patient
+T2	PROC 31 36	admis
+T3	Hospital 41 49	urgences
+T4	DISO 61 82	détresse respiratoire
+T5	PHEN 70 82	respiratoire
+T6	MEAS 97 108	progressive
+T7	TEMP 118 134	depuis deux mois
+T8	LIVB 136 139	Son
+T9	Concept_Idea 140 148	histoire
+T10	DISO 174 188	amaigrissement
+T11	MEAS 199 204	10 kg
+T12	DISO 220 226	fièvre
+T13	DISO 233 250	céphalées fébrile
+T14	CHEM 273 294	méthylhydrosalicylate
+T15	PROC 299 341	tomodensitométrie thoracico-larynxonaudale
+T16	ANAT 317 341	thoracico-larynxonaudale
+T17	DISO 357 424	épanchement pleuralo-parenchymateux thoracique basithoracique droit
+T18	ANAT 369 424	pleuralo-parenchymateux thoracique basithoracique droit
+T19	Localization 419 424	droit
+T20	Concept_Idea 431 436	forme
+T21	MEAS 437 445	arrondie
+T22	MEAS 447 457	hétérogène
+T23	MEAS 467 472	13 cm
+T24	Concept_Idea 476 485	grand axe
+T25	MEAS 516 526	rapidement
+T26	Concept_Idea 530 536	taille
+T27	DISO 556 662	empyème parenchymateux médiastinal sus angulo-mandibulaire inféro-cervical hypo-intense hyper vascularisée
+T29	Localization 591 594	sus
+T30	ANAT 683 715	tronc lymphe thyro-thyroroïdiens
+T31	TEMP 743 757	environ 3 mois
+T32	PROC 770 782	consultation
+T33	PROC 788 825	surveillance échocardio- radiologique
+T34	MEAS 834 844	imprenable
+T35	PROC 858 888	TDM thoraco-abdomino-pélvienne
+T36	ANAT 862 888	thoraco-abdomino-pélvienne
+T37	PROC 901 926	intervention chirurgicale
+T38	DISO 949 974	localisation métastatique
+T39	DISO 991 1011	métastase pulmonaire
+T40	ANAT 1001 1011	pulmonaire
+T41	PROC 1016 1049	imagerie par résonance magnétique
+T42	PROC 1050 1053	IRM
+T43	ANAT 1055 1075	médiastinothoracique

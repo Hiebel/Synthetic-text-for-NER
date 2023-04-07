@@ -1,0 +1,68 @@
+T1	LIVB 4 9	femme
+T2	MEAS 34 35	5
+T3	LIVB 36 43	enfants
+T4	Hospital 61 69	urgences
+T5	DISO 89 111	constipation chronique
+T6	TEMP 121 134	depuis 4 mois
+T7	DISO 149 159	dyspnéique
+T8	DISO 175 198	distension respiratoire
+T9	PHEN 186 198	respiratoire
+T10	MEAS 210 225	progressivement
+T11	LIVB 345 352	famille
+T12	LIVB 377 380	son
+T13	LIVB 381 387	épouse
+T14	LIVB 395 415	collègues personnels
+T15	PROC 441 471	traitement médical substitutif
+T16	LIVB 557 561	elle
+T17	Hospital 582 613	urgences médicales pédiatriques
+T18	DEVI 640 662	matériel intradermique
+T19	PROC 667 673	coïtal
+T20	PROC 694 737	anticoagulation percutanéphrine fractionnée
+T21	PROC 738 771	injection intramusculaire directe
+T22	PROC 791 834	antibioprophylaxie antiseptique parentérale
+T23	PROC 868 905	transfusion sanguine intrarachidienne
+T24	PROC 945 970	recherche bactériologique
+T25	MEAS 979 987	négative
+T26	PROC 993 1002	admission
+T27	DISO 1020 1047	symptomatologie infectieuse
+T28	DISO 1092 1098	fièvre
+T29	DISO 1133 1160	tuberculose néonatale aiguë
+T30	Concept_Idea 1229 1252	plan neuropsychiatrique
+T31	LIVB 1260 1266	malade
+T32	MEAS 1363 1364	8
+T33	LIVB 1365 1372	enfants
+T34	MEAS 1388 1389	2
+T35	LIVB 1390 1397	garçons
+T36	LIVB 1425 1427	sa
+T37	LIVB 1428 1432	mère
+T38	LIVB 1526 1530	leur
+T39	LIVB 1531 1535	père
+T40	LIVB 1681 1688	parents
+T41	LIVB 1729 1756	cousines germaines cadettes
+T42	LIVB 1886 1895	confrères
+T43	DISO 1974 1999	difficultés psychomoteurs
+T44	LIVB 2095 2109	oncle maternel
+T45	LIVB 2123 2147	grands-parents maternels
+T46	PHEN 2377 2386	grossesse
+T47	MEAS 2492 2503	particulier
+T48	PROC 2568 2607	cholécystectomie digestive exploratrice
+T49	PROC 2613 2643	traitement médical substitutif
+T50	CHEM 2649 2672	amoxicilline Isoniazide
+T51	CHEM 2675 2693	acide clavulanique
+T52	PROC 2707 2737	perfusion intraveineuse totale
+T53	TEMP 2749 2758	24 heures
+T54	PROC 2774 2817	curiethrectomie gastroduodénale endobuccale
+T55	ANAT 2847 2864	paroi intestinale
+T56	Localization 2878 2892	partie distale
+T57	PROC 2919 2935	acte chirurgical
+T58	PROC 2988 3018	complément immunohistochimique
+T59	ANAT 3049 3064	sang corporéaux
+T60	MEAS 3079 3096	4 fois la normale
+T61	MEAS 3200 3205	15 mm
+T62	Concept_Idea 3427 3436	grand axe
+T63	DISO 3579 3591	adénopathies
+T64	DISO 3595 3612	signes infectieux
+T65	DISO 3668 3727	pneumocéphalie primitive lobaire rénale congénitale maligne
+T66	DISO 3748 3805	tuberculose néoplasique chronique idiopathique stade EBWC
+T67	DISO 3865 3884	maladie auto-immune
+T68	MEAS 3893 3907	stade IIIbN0M9

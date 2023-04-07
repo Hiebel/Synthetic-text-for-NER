@@ -1,0 +1,32 @@
+T1	LIVB 15 22	patient
+T2	DISO 56 71	ménométrorrhées
+T3	TEMP 81 104	depuis plusieurs années
+T4	DISO 120 150	épanchement liquide péritonéal
+T5	ANAT 132 150	liquide péritonéal
+T6	PROC 156 180	exploration chirurgicale
+T7	LIVB 207 215	patiente
+T8	MEAS 269 274	10 cm
+T9	MEAS 279 283	6 cm
+T10	Concept_Idea 286 292	aspect
+T11	MEAS 293 301	jaunâtre
+T12	ANAT 315 342	grosses-vésicules biliaires
+T13	DISO 359 389	adénopathies intrapéritonéales
+T15	DISO 399 438	localisations secondaires métastatiques
+T16	PROC 464 494	échographie abdomino-pelvienne
+T17	ANAT 476 494	abdomino-pelvienne
+T18	DISO 518 539	métastases gynéciques
+T19	DISO 552 597	complications thromboemboliques prurigineuses
+T20	PROC 629 655	complément scannographique
+T21	DISO 671 706	hypertrophie utérine hypoechoguidée
+T22	ANAT 684 706	utérine hypoechoguidée
+T23	DISO 722 764	tumeur arrondie lithiasique angulo-loculée
+T24	MEAS 776 791	progressivement
+T25	Concept_Idea 795 804	grand axe
+T26	ANAT 822 835	crânio-cæcale
+T27	Localization 849 857	centrale
+T28	DISO 879 901	localisationsecondaire
+T29	DISO 925 948	paragangliome kystéoïde
+T30	PROC 979 1012	imagerie par résonance magnétique
+T31	PROC 1014 1017	IRM
+T32	DISO 1125 1153	prise de contraste nodulaire
+T33	ANAT 1170 1184	parties molles

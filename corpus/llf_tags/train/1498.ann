@@ -1,0 +1,94 @@
+T1	LIVB 15 23	patiente
+T2	PROC 62 73	chirurgical
+T3	PROC 84 96	hospitalisée
+T4	Hospital 100 107	service
+T5	DISO 117 123	fièvre
+T6	TEMP 133 147	depuis 4 jours
+T7	PROC 151 166	examen clinique
+T8	LIVB 177 187	nourrisson
+T9	MEAS 191 198	mauvais
+T10	Concept_Idea 199 211	état général
+T11	ANAT 221 233	conjonctives
+T12	MEAS 234 241	souples
+T13	PHEN 246 257	déglutition
+T14	MEAS 262 268	légère
+T15	ANAT 276 294	muqueuses buccales
+T16	MEAS 295 308	bien colorées
+T17	PROC 314 357	tomodensitométrie du membre supérieur droit
+T18	ANAT 335 357	membre supérieur droit
+T19	Localization 352 357	droit
+T20	DISO 374 398	masse polylobée calcifié
+T21	MEAS 407 411	6 cm
+T22	ANAT 427 434	humérus
+T23	MEAS 444 448	4 cm
+T24	Concept_Idea 452 461	grand axe
+T25	DISO 483 498	lésion kystique
+T26	ANAT 507 537	plan crico-trachéo-oesophagien
+T27	PROC 565 581	examen somatique
+T28	DISO 593 607	particularités
+T29	PROC 612 629	biologie standard
+T30	PROC 631 634	NFS
+T31	PROC 636 644	uricémie
+T32	PROC 646 667	glycémie normocytaire
+T33	PROC 669 690	bilan phosphocalcique
+T34	PROC 692 723	phosphatases alcalines sériques
+T35	PROC 725 738	créatininémie
+T36	PROC 740 773	concentration plaquettaire totale
+T37	PROC 775 786	fibrinogène
+T38	PROC 788 814	gammaglobuline glycorachie
+T39	DISO 837 856	syndrome infectieux
+T40	PROC 861 871	traitement
+T41	CHEM 876 919	immunoglobulines polyvalentes intraveineuse
+T42	PROC 977 1034	séances de kinésithérapie motrice axées bidirectionnelles
+T43	PROC 1065 1108	kinésithérapie psychomotrice proprioceptive
+T44	DISO 1138 1165	symptomatologie infectieuse
+T45	LIVB 1197 1205	patiente
+T46	PROC 1217 1236	suivi préopératoire
+T47	DISO 1244 1265	récidive neurologique
+T48	DISO 1299 1324	trouble sensitivo-motrice
+T49	LIVB 1343 1353	nouveau-né
+T50	TEMP 1361 1367	3 mois
+T51	MEAS 1375 1387	3600 grammes
+T52	MEAS 1393 1418	870 grammes métaplasiques
+T53	MEAS 1424 1429	0,08%
+T54	LIVB 1449 1471	pédiatres pédiatriques
+T55	Concept_Idea 1483 1506	caractère morphologique
+T56	Concept_Idea 1513 1534	profil socio-éducatif
+T57	LIVB 1744 1759	frères germains
+T58	Concept_Idea 1902 1926	plan anatomopathologique
+T59	LIVB 1931 1937	enfant
+T60	MEAS 1975 1980	trois
+T61	LIVB 1981 1997	cousins germains
+T62	PROC 2003 2013	administré
+T63	PROC 2028 2050	consultation prénatale
+T64	PROC 2064 2093	assistance médicale néonatale
+T65	DISO 2147 2165	délire obstétrical
+T66	LIVB 2553 2563	nouveau-né
+T67	PHEN 2588 2609	grossesse monofoetale
+T68	TEMP 2621 2633	six semaines
+T69	ANAT 2686 2710	grands-parents maternels
+T70	TEMP 2730 2758	septième jour postopératoire
+T72	DISO 2814 2831	contage abdominal
+T73	ANAT 2822 2831	abdominal
+T74	LIVB 2869 2876	enfants
+T75	PROC 2947 2956	transfusé
+T76	Hospital 2960 2982	service de gynécologie
+T77	PROC 3004 3040	curage ganglionnaire cervico-vaginal
+T78	ANAT 3060 3078	cavité péritonéale
+T79	ANAT 3136 3158	membre inférieur droit
+T80	Localization 3153 3158	droit
+T81	PROC 3245 3266	résection segmentaire
+T82	PROC 3275 3285	opératoire
+T83	PROC 3292 3313	extubation percutanée
+T84	DISO 3335 3343	anomalie
+T85	DISO 3361 3382	signes inflammatoires
+T86	DISO 3389 3410	déficit immunologique
+T87	MEAS 3443 3450	simples
+T88	PROC 3476 3522	anastomose septique scanno-chimiothérapeutique
+T89	CHEM 3558 3569	médicaments
+T90	LIVB 3717 3723	malade
+T91	PROC 3746 3783	laparotomie exploratrice endovaginale
+T93	PROC 3873 3967	hémicolectomie gastro-duodénale parieto-iléale distale intrascapelle controlatérale préremplie
+T94	PROC 3988 4022	prise en charge neuropsychiatrique
+T95	DISO 4045 4069	hallucinations auditives
+T97	PROC 4240 4257	examens cliniques

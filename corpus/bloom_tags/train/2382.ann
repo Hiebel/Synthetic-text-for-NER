@@ -1,0 +1,29 @@
+T1	LIVB 28 35	patient
+T2	DISO 51 76	antécédents pathologiques
+T3	MEAS 77 89	particuliers
+T4	PROC 91 102	hospitalisé
+T5	Hospital 106 113	urgence
+T6	DISO 123 159	douleurs abdomino-pelviennes fébrile
+T7	ANAT 132 151	abdomino-pelviennes
+T8	DISO 170 196	polynucléaires éosinophile
+T9	TEMP 207 225	depuis une semaine
+T10	PROC 229 244	examen clinique
+T11	LIVB 257 264	patient
+T12	Concept_Idea 292 310	plan hémodynamique
+T13	DISO 318 334	atteinte cutanée
+T14	PROC 339 369	échographie abdomino-pelvienne
+T15	ANAT 351 369	abdomino-pelvienne
+T16	DISO 386 435	masse kystique du parenchyme ovarien hypertrophié
+T17	ANAT 404 435	parenchyme ovarien hypertrophié
+T18	MEAS 445 448	2cm
+T19	Concept_Idea 452 461	grand axe
+T20	ANAT 474 484	col utérin
+T21	PROC 489 511	TDM abdomino-pelvienne
+T22	ANAT 493 511	abdomino-pelvienne
+T23	DISO 543 606	masse tumorale hypodense latéro-utérine périparotidienne droite
+T24	Localization 600 606	droite
+T25	MEAS 615 620	46 cm
+T26	Concept_Idea 624 633	grand axe
+T27	PROC 650 659	injection
+T28	CHEM 663 683	produit de contraste
+T29	DISO 700 712	métanéphrine

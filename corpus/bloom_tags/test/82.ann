@@ -1,0 +1,76 @@
+T1	LIVB 15 22	patient
+T2	PROC 34 40	traité
+T3	DISO 50 75	pancréatite aigue stade E
+T4	Concept_Idea 85 111	classification d'Ann Arbor
+T5	PHEN 122 140	suites opératoires
+T6	MEAS 141 148	simples
+T7	PROC 154 163	admission
+T8	Hospital 167 182	bloc opératoire
+T9	ANAT 196 203	abdomen
+T10	MEAS 204 212	distendu
+T11	Concept_Idea 228 234	taille
+T12	MEAS 237 241	30cm
+T13	DISO 247 253	nausée
+T14	DISO 257 263	sueurs
+T15	LIVB 275 277	Il
+T16	MEAS 318 326	notables
+T17	DISO 344 377	syndrome inflammatoire biologique
+T18	PROC 379 382	CRP
+T19	MEAS 384 389	6mg/l
+T20	PROC 394 415	échographie pelvienne
+T21	ANAT 406 415	pelvienne
+T22	DISO 438 480	métastase du carcinome hépato-pancréatique
+T23	ANAT 451 480	carcinome hépato-pancréatique
+T24	ANAT 495 505	col utérin
+T25	ANAT 522 538	espaces vaginaux
+T26	MEAS 563 571	14/10 cm
+T27	MEAS 575 582	9/10 cm
+T28	PROC 587 606	bilan préopératoire
+T29	PROC 624 632	natrémie
+T31	TEMP 645 651	/heure
+T32	PROC 657 665	kaliémie
+T33	MEAS 668 679	1meq/kg/min
+T34	PROC 686 698	hyponatrémie
+T35	MEAS 701 711	120 meq/kg
+T36	TEMP 711 713	/h
+T37	PROC 726 763	volume globulaire moyen d'hémoglobine
+T38	MEAS 766 771	8g/dl
+T39	PROC 777 807	intubation ventriculo-laryngée
+T40	ANAT 788 807	ventriculo-laryngée
+T41	DEVI 812 831	sonde oesotrachéale
+T42	ANAT 818 831	oesotrachéale
+T43	PROC 852 874	anesthésie généralisée
+T44	PROC 881 939	incontinence placento-utérine cervicale transoesophagienne
+T45	ANAT 894 939	placento-utérine cervicale transoesophagienne
+T46	DISO 1010 1031	paragangliome tumoral
+T47	LIVB 1088 1095	patient
+T48	DISO 1124 1143	pancréatite érosive
+T49	TEMP 1153 1172	depuis environ 1 an
+T50	DISO 1214 1226	hyperthermie
+T51	MEAS 1238 1243	40° C
+T52	DISO 1275 1289	amaigrissement
+T53	MEAS 1300 1304	20kg
+T54	CHEM 1325 1337	Amoxicilline
+T55	DOSE 1383 1389	600 mg
+T56	TEMP 1389 1391	/j
+T57	CHEM 1394 1408	Ciprofloxacine
+T58	CHEM 1433 1465	amoxicilline -acide clavulanique
+T59	CHEM 1517 1530	Métronidazole
+T60	CHEM 1533 1554	Sulfamido-méthoxazole
+T61	CHEM 1651 1670	médico-chirurgicaux
+T62	PROC 1694 1719	surveillance radiologique
+T63	DISO 1755 1794	localisations secondaires métastatiques
+T64	DISO 1838 1886	vascularisation tumorale kystique périthoracique
+T65	PROC 1993 2015	biopsies chirurgicales
+T66	DISO 2040 2054	tumeur maligne
+T67	Localization 2205 2213	centrale
+T68	PROC 2370 2397	scanner abdomino-thoracique
+T69	ANAT 2378 2397	abdomino-thoracique
+T73	ANAT 2702 2728	grosses cavités cardiaques
+T74	ANAT 2815 2831	ventricule droit
+T75	Localization 2826 2831	droit
+T76	DISO 2844 2853	anomalies
+T77	LIVB 2868 2875	patient
+T78	PROC 2894 2929	chimiothérapie palliative adjuvante
+T79	Concept_Idea 2951 2960	résultats
+T80	MEAS 2961 2964	bon

@@ -1,0 +1,93 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 69	antécédent pathologique
+T3	MEAS 70 81	particulier
+T4	PROC 92 104	hospitalisée
+T5	Hospital 108 128	service des urgences
+T6	DISO 138 157	dyspnée obstructive
+T7	DISO 164 184	traumatisme du genou
+T8	ANAT 179 184	genou
+T9	Concept_Idea 203 206	âge
+T10	PROC 219 234	examen clinique
+T11	LIVB 246 254	patiente
+T12	MEAS 258 261	bon
+T13	Concept_Idea 262 274	état général
+T14	PROC 284 309	examen neuropsychiatrique
+T15	DISO 327 358	désagréable éveil psychomotrice
+T16	PHEN 360 368	sédation
+T17	PROC 385 400	examen physique
+T18	DISO 410 424	particularités
+T19	PROC 429 445	bilan biologique
+T20	DISO 466 482	hyperleucocytose
+T21	MEAS 485 521	147 000 éléments par millimètre cube
+T22	ANAT 530 552	membre supérieur droit
+T23	Localization 547 552	droit
+T24	PROC 562 593	classification de Kells-Hertman
+T25	MEAS 594 600	1/2500
+T26	PROC 607 627	récepteurs hormonaux
+T27	MEAS 633 640	normaux
+T28	DISO 659 680	syndrome hémorragique
+T29	DISO 687 706	symptôme infectieux
+T30	PROC 711 743	fibroscopie oeso-gastroduodénale
+T31	ANAT 723 743	oeso-gastroduodénale
+T32	MEAS 750 757	normale
+T33	PROC 786 824	biopsies intraveineuses scanno-guidées
+T34	DISO 849 868	signe inflammatoire
+T35	PROC 884 926	retentissements hémodynamiques fœtomoteurs
+T36	PROC 930 944	néphrotoxiques
+T37	Concept_Idea 957 977	aspect morphologique
+T38	DISO 994 1010	maladie cœliaque
+T39	PROC 1032 1059	hémicolectomie exploratrice
+T40	PROC 1073 1095	hystérectomie monobloc
+T41	PROC 1101 1127	rachianesthésie péridurale
+T42	PROC 1134 1157	aspiration endoscopique
+T43	ANAT 1177 1194	vésicule biliaire
+T44	ANAT 1207 1230	fragments mésentériques
+T45	PROC 1254 1285	prélèvement anatomopathologique
+T46	ANAT 1305 1322	placentes rénales
+T47	PROC 1386 1413	consultation complémentaire
+T48	MEAS 1450 1460	favorables
+T49	PROC 1476 1504	prise en charge anesthésique
+T50	PROC 1534 1547	thérapeutique
+T51	PROC 1553 1599	chimiothérapie palliative type corticostéroïde
+T52	CHEM 1584 1599	corticostéroïde
+T53	LIVB 1625 1633	patiente
+T54	PROC 1644 1683	glycémie basale glycorrecte fractionnée
+T55	PROC 1717 1748	kinésithérapie antihypertensive
+T56	PROC 1764 1818	hydrocéphalosporine acide acétique per os concomitante
+T57	TEMP 1820 1826	3 mois
+T58	PROC 1876 1896	transfusion sanguine
+T59	DOSE 1899 1901	2l
+T60	MODE 1923 2107	inhibiteur calcique direct = 10 mg /kg Cette méthode contraceptive se base sur 4 substituts allométropériodiques associant chacun 2 unités bétaGammaOmegasel® ®+ 3GRAMidemaxisatracurium
+T61	DOSE 1952 1961	10 mg /kg
+T62	PROC 1968 1989	méthode contraceptive
+T63	LIVB 2722 2729	patient
+T64	DISO 2749 2774	antécédents pathologiques
+T65	MEAS 2775 2787	particuliers
+T66	PROC 2798 2803	admis
+T67	Hospital 2808 2816	urgences
+T68	DISO 2825 2854	traumatisme du genou cervical
+T69	ANAT 2840 2854	genou cervical
+T70	DISO 2876 2888	vomissements
+T71	Concept_Idea 2910 2922	état général
+T72	Concept_Idea 2967 2985	état hémodynamique
+T73	DISO 2999 3008	dysphonie
+T74	PHEN 3047 3065	suites opératoires
+T75	MEAS 3081 3088	simples
+T76	PROC 3092 3107	examen clinique
+T77	DISO 3119 3128	anomalies
+T78	PROC 3135 3154	radiologie standard
+T79	DISO 3175 3228	symptomatologie neuropsychiatrique sensitivo-nerveuse
+T80	PROC 3301 3331	bilan biologique préopératoire
+T81	DISO 3358 3377	syndrome infectieux
+T82	DISO 3381 3393	pathologique
+T83	Concept_Idea 3432 3458	caractéristiques cliniques
+T84	Concept_Idea 3467 3490	plan psychopathologique
+T85	LIVB 3513 3519	malade
+T86	PROC 3770 3795	néphrectomie exploratrice
+T87	PROC 3822 3841	traitement adjuvant
+T88	Concept_Idea 3850 3868	qualité opératoire
+T89	Concept_Idea 3878 3900	résultats fonctionnels
+T90	MEAS 3927 3929	5%
+T91	MEAS 3933 3935	4%
+T92	PROC 3940 3961	recherche étiologique
+T93	Concept_Idea 3998 4030	structures socioprofessionnelles

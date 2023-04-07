@@ -1,0 +1,84 @@
+T1	LIVB 4 9	femme
+T2	PROC 48 55	traitée
+T3	CHEM 64 78	neuroleptiques
+T4	CHEM 84 102	méthylprédnisolone
+T5	PROC 111 116	reçue
+T6	DISO 149 172	dyspnée aiguë sifflante
+T7	LIVB 200 208	patiente
+T8	DISO 241 274	syndrome d'épanchement péritonéal
+T9	ANAT 264 274	péritonéal
+T10	DISO 280 305	adénopathie hypogastrique
+T11	ANAT 292 305	hypogastrique
+T12	DISO 315 338	carcinome hypogastrique
+T13	DISO 354 368	prise de poids
+T14	MEAS 379 384	12 kg
+T15	TEMP 400 409	deux mois
+T16	TEMP 422 430	cinq ans
+T17	PROC 451 477	réintégration chirurgicale
+T18	PROC 483 523	chirurgie endovaginale trans péritonéale
+T19	ANAT 493 523	endovaginale trans péritonéale
+T20	PROC 524 528	CETT
+T21	LIVB 531 533	Sa
+T22	PROC 534 562	tomodensitométrie thoracique
+T23	ANAT 552 562	thoracique
+T24	DISO 579 639	distrophie ventriculo-constrictive diaphragmatique infarctus
+T26	ANAT 657 678	sinus hyo-aryténoïdal
+T27	MEAS 688 692	17mm
+T28	Concept_Idea 696 704	diamètre
+T29	DISO 725 776	anomalies nodulaires basithoraciques hypo échogènes
+T30	ANAT 806 838	vaisseaux cardiaques thoraciques
+T31	ANAT 859 878	glande thyroïdienne
+T32	DISO 894 909	symptomatologie
+T33	TEMP 922 933	une semaine
+T34	LIVB 943 947	elle
+T35	PROC 956 968	hospitalisée
+T36	LIVB 974 979	notre
+T37	Hospital 980 989	formation
+T38	DISO 1023 1029	fièvre
+T39	DISO 1036 1073	diarrhées hémorragiques prurigineuses
+T40	MEAS 1123 1129	rapide
+T41	DISO 1136 1151	symptomatologie
+T42	MEAS 1166 1193	progressivement progressive
+T43	MEAS 1203 1217	plus accentuée
+T44	DISO 1288 1306	lésions purulentes
+T45	DISO 1363 1395	métastases pulmonaires tumorales
+T46	ANAT 1374 1395	pulmonaires tumorales
+T47	PROC 1469 1483	diagnostiquées
+T48	PROC 1493 1512	bilan préopératoire
+T49	PROC 1533 1563	complément immunohistochimique
+T50	PROC 1597 1641	classification radiomètric classico-kystique
+T51	Concept_Idea 1663 1685	caractères biologiques
+T52	ANAT 1752 1785	pulmonaires altéro-surrénaliennes
+T53	DISO 1807 1832	localisations secondaires
+T54	DISO 1917 1934	processus tumoral
+T55	ANAT 2029 2052	muqueuse supragynélaire
+T56	LIVB 2092 2094	il
+T57	PROC 2126 2159	injection de produit de contraste
+T58	CHEM 2139 2159	produit de contraste
+T59	DOSE 2178 2196	micromolesculaires
+T60	MEAS 2223 2245	50 000 globules blancs
+T61	ANAT 2284 2298	supragynélaire
+T62	PROC 2336 2351	examen clinique
+T63	LIVB 2369 2377	patiente
+T64	MEAS 2381 2384	bon
+T65	Concept_Idea 2385 2397	état général
+T66	DISO 2404 2430	troubles sensitivomotrices
+T67	PHEN 2436 2445	équilibre
+T68	PROC 2451 2471	examen gynécologique
+T69	DEVI 2487 2499	coldo-utérin
+T70	Concept_Idea 2512 2518	taille
+T71	DISO 2539 2569	masse hyper échogène hypodense
+T72	MEAS 2578 2582	3 cm
+T73	ANAT 2599 2630	paroi latérale interne du vagin
+T74	MEAS 2640 2643	2cm
+T75	PROC 2648 2681	scanner abdomino-pelvien infarcté
+T76	ANAT 2656 2681	abdomino-pelvien infarcté
+T77	PROC 2683 2687	PNIU
+T78	Localization 2689 2698	bilatéral
+T79	PROC 2749 2773	cœlioscopie obstétricale
+T80	Concept_Idea 2793 2799	aspect
+T81	DISO 2805 2832	épanchement intrapéritonéal
+T82	ANAT 2817 2832	intrapéritonéal
+T83	DISO 2852 2904	adénopathies pariéto-mésentriculaires hypertrophiées
+T84	ANAT 2865 2904	pariéto-mésentriculaires hypertrophiées
+T85	ANAT 2922 2928	pelvis

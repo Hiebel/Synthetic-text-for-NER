@@ -1,0 +1,23 @@
+T1	LIVB 15 22	patient
+T2	PROC 34 39	admis
+T3	Hospital 44 52	urgences
+T4	DISO 62 88	douleur du plexus brachial
+T5	ANAT 73 88	plexus brachial
+T6	PROC 92 107	examen clinique
+T7	DISO 123 169	déficit sensitivomoteur des membres inférieurs
+T9	MEAS 181 189	première
+T10	DISO 219 242	tuméfaction douloureuse
+T11	PHEN 247 259	contractable
+T12	Concept_Idea 275 281	aspect
+T13	MEAS 282 289	tuméfié
+T14	MEAS 302 307	12 cm
+T15	Concept_Idea 311 320	grand axe
+T16	MEAS 325 329	7 cm
+T17	Concept_Idea 333 346	petite taille
+T18	PROC 350 379	échographie abdominopelvienne
+T19	ANAT 362 379	abdominopelvienne
+T20	DISO 391 404	particularité
+T21	DISO 421 448	épanchement intrapéritonéal
+T22	ANAT 433 448	intrapéritonéal
+T23	ANAT 464 472	grêlique
+T24	CHEM 491 501	hydrorrhée

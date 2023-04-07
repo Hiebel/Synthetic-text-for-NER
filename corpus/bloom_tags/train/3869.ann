@@ -1,0 +1,56 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 69	admise
+T3	Hospital 74 96	urgences chirurgicales
+T4	DISO 131 166	œdème pariéto-frontal hypovolémiant
+T6	TEMP 188 201	depuis 6 mois
+T7	PROC 207 225	traitement médical
+T8	CHEM 236 244	Aspirine
+T9	CHEM 247 258	Cyclosérine
+T10	PROC 263 288	exploration préopératoire
+T11	LIVB 313 321	patiente
+T12	DISO 336 381	lésions nodulaires érythémateuses purpuriques
+T13	ANAT 411 426	corps caverneux
+T14	PROC 444 461	anatomopathologie
+T15	DISO 475 500	hypertrophie choroïdienne
+T16	ANAT 488 500	choroïdienne
+T17	DISO 567 596	insuffisance cutanéo-vésicale
+T18	ANAT 580 596	cutanéo-vésicale
+T19	MEAS 621 629	brunâtre
+T20	DISO 637 652	masques cutanés
+T21	DISO 714 728	inflammatoires
+T22	DISO 794 827	syndrome inflammatoire systémique
+T23	PROC 1009 1023	interrogatoire
+T24	DEVI 1176 1203	bandelettes obstétricielles
+T25	DISO 1252 1279	fasciculations traumatiques
+T26	MODE 1613 1618	bolus
+T27	DOSE 1698 1705	2 bolus
+T28	TEMP 1706 1720	pendant 10 min
+T29	PROC 1756 1779	ponction lombectarienne
+T30	ANAT 1765 1779	lombectarienne
+T31	MEAS 2124 2127	3 A
+T32	DISO 2178 2195	kystes hydatiques
+T33	MEAS 2201 2212	plus larges
+T34	MEAS 2223 2226	1cm
+T35	MEAS 2229 2232	5cm
+T36	PROC 2248 2264	examen somatique
+T37	DISO 2276 2289	particularité
+T38	PROC 2293 2324	échographie abdomino- pelvienne
+T39	ANAT 2305 2324	abdomino- pelvienne
+T40	DISO 2354 2407	épanchement périphérique du grêléo-liquide péritonéal
+T41	Localization 2366 2378	périphérique
+T42	ANAT 2382 2407	grêléo-liquide péritonéal
+T43	DISO 2424 2480	tumeur bourgeonnante des parties molles grêlo-spléniques
+T44	ANAT 2449 2480	parties molles grêlo-spléniques
+T45	DISO 2496 2537	adénopathie parenchymateuse hypogastrique
+T46	ANAT 2508 2537	parenchymateuse hypogastrique
+T47	CHEM 2565 2585	produit de contraste
+T48	Concept_Idea 2594 2602	contours
+T49	MEAS 2603 2611	régulier
+T50	MEAS 2622 2627	12 cm
+T51	MEAS 2632 2636	9 cm
+T52	ANAT 2653 2675	fosse splénique droite
+T53	Localization 2669 2675	droite
+T54	ANAT 2694 2712	membres inférieurs
+T55	Concept_Idea 2715 2721	aspect
+T56	MEAS 2722 2748	macroscopiquement homogène
+T57	MEAS 2750 2762	bien limitée

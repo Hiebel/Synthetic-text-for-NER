@@ -1,0 +1,19 @@
+T1	LIVB 20 28	patiente
+T2	PROC 40 47	traitée
+T3	DISO 57 80	hypertension artérielle
+T4	ANAT 70 80	artérielle
+T5	MODE 85 95	voie orale
+T6	CHEM 110 123	bêtaméthasone
+T7	DOSE 125 131	0,3 mg
+T8	TEMP 131 133	/j
+T9	TEMP 135 149	pendant 6 mois
+T10	Concept_Idea 155 175	chiffres tensionnels
+T11	MEAS 185 197	120/100 mmhg
+T12	MEAS 201 211	130/75mmhg
+T13	PROC 217 238	échographie pelvienne
+T14	ANAT 229 238	pelvienne
+T15	Hospital 257 264	urgence
+T16	DISO 280 335	épanchement tissulaire péritonéale latéro-latéral droit
+T17	ANAT 292 335	tissulaire péritonéale latéro-latéral droit
+T18	Localization 330 335	droit
+T19	DISO 341 404	adénopathies parenchymateuses cervico-sigmoïdiennes lithiasique

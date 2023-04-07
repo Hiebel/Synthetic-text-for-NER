@@ -1,0 +1,62 @@
+T1	LIVB 29 34	femme
+T2	PROC 71 81	diagnostic
+T3	DISO 84 111	hyperparathyroïdie primaire
+T4	CHEM 117 136	hydroxycholécystone
+T5	DOSE 150 156	unités
+T6	CHEM 160 178	méthylprednisolone
+T7	MEAS 194 203	favorable
+T8	DISO 228 245	récidive tumorale
+T9	PROC 261 288	traitement curatif adjuvant
+T10	LIVB 314 325	jeune femme
+T11	ANAT 364 370	rénale
+T12	PROC 431 446	radiothoracique
+T13	ANAT 492 504	surrénaliens
+T14	PROC 532 555	injection intraveineuse
+T15	CHEM 559 576	mitocétaméthasone
+T16	MODE 628 641	intraveineuse
+T17	CHEM 645 658	bêtaméthasone
+T18	DEVI 799 834	techniques radiologiques mécaniques
+T19	PROC 847 880	ostéotomie pelvienne scannoguidée
+T21	MEAS 999 1018	relais appréciables
+T22	DISO 1249 1282	syndrome d’épanchement œsophagien
+T23	ANAT 1272 1282	œsophagien
+T24	DISO 1289 1337	traumatisme cardio-vasculaire infarcto-lésionnel
+T25	ANAT 1301 1337	cardio-vasculaire infarcto-lésionnel
+T26	DISO 1351 1383	hypophosphocalcinose congénitale
+T27	Localization 1495 1505	bilatérale
+T28	DISO 1563 1582	déficit immunitaire
+T29	DISO 1584 1603	maladie auto-immune
+T30	DISO 1605 1635	polynucléaires érythrocytaires
+T31	DISO 1636 1640	ANCA
+T32	LIVB 1643 1647	Elle
+T33	DISO 1689 1702	symptomatique
+T34	MEAS 1717 1724	brutale
+T35	MEAS 1736 1754	de façon accélérée
+T36	Concept_Idea 1759 1765	volume
+T37	MEAS 1777 1785	3 litres
+T38	MEAS 1788 1797	12 litres
+T39	DISO 1829 1855	perte de substance blanche
+T40	PROC 1883 1897	interrogatoire
+T41	LIVB 1902 1910	patiente
+T42	PROC 1929 1964	pronostic préopératoire chirurgical
+T43	LIVB 1979 2000	grand-mère paternelle
+T44	PROC 2027 2052	investigations prénatales
+T45	PROC 2186 2202	examen somatique
+T46	DISO 2214 2227	particularité
+T47	PROC 2231 2261	échographie abdomino-pelvienne
+T48	ANAT 2243 2261	abdomino-pelvienne
+T49	DISO 2275 2296	masse du flanc gauche
+T50	ANAT 2284 2296	flanc gauche
+T51	Localization 2290 2296	gauche
+T52	MEAS 2306 2311	32 cm
+T53	Concept_Idea 2315 2324	grand axe
+T54	MEAS 2326 2338	bien limitée
+T55	CHEM 2356 2376	produit de contraste
+T56	ANAT 2392 2396	foie
+T57	ANAT 2404 2416	reins grêles
+T58	DISO 2432 2536	adénopathies cervico-thoraciques basithoraciques latéro-mésentriculaires parenchymateuses hypertrophiées
+T60	DISO 2581 2631	lésion kystique hypo échogène tissulaire hypodense
+T61	PHEN 2643 2653	orréflexes
+T62	Concept_Idea 2663 2671	contours
+T63	MEAS 2672 2680	régulier
+T64	TEMP 2690 2705	depuis deux ans

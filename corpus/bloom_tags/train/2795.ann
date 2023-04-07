@@ -1,0 +1,42 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	DISO 58 80	douleurs épigastriques
+T4	ANAT 67 80	épigastriques
+T5	DISO 91 115	sensibilité prurigineuse
+T6	DISO 137 156	diarrhées bilieuses
+T7	DISO 170 176	fièvre
+T8	DISO 186 199	inflammatoire
+T9	MEAS 214 221	modérée
+T10	CHEM 263 274	Cyclosérine
+T11	CHEM 276 287	Ethionamide
+T12	CHEM 289 301	Pyrazinamide
+T13	CHEM 303 314	Ceftriaxone
+T14	CHEM 316 327	Nicardipine
+T15	CHEM 329 348	Valproate de sodium
+T16	CHEM 350 364	Chlorpromazine
+T17	CHEM 366 379	Triméthoprime
+T18	CHEM 381 392	Vinblastine
+T19	CHEM 394 404	Isoniazide
+T20	CHEM 406 415	Captopril
+T21	CHEM 417 428	Doxycycline
+T22	CHEM 430 438	Aspirine
+T23	CHEM 440 451	Glimépéride
+T24	CHEM 453 459	Vit B6
+T25	CHEM 461 472	Rifampicort
+T26	CHEM 474 490	Erythrométhasone
+T27	CHEM 492 505	Bêtaméthasone
+T28	CHEM 507 521	Hydrocortisone
+T29	CHEM 523 536	Phénobarbital
+T30	CHEM 538 550	Pralidoamine
+T31	CHEM 552 563	Halopéridol
+T32	CHEM 565 573	Diazépam
+T33	CHEM 575 588	Métronidazole
+T34	CHEM 590 600	Furosémide
+T35	CHEM 603 616	Triamcinolone
+T36	CHEM 618 632	Gentaméthasone
+T37	CHEM 634 647	noradrénaline
+T38	CHEM 649 663	hydrocortisone
+T39	MODE 721 734	voie entérale
+T40	DISO 803 848	complication thromboembolique veineuse isolée
+T41	DISO 865 902	accident vasculaire cérébrovasculaire
+T42	ANAT 885 902	cérébrovasculaire

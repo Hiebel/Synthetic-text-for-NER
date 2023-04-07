@@ -1,0 +1,31 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 43 53	antécédent
+T3	MEAS 54 65	particulier
+T4	DISO 85 105	hypertriglycéridémie
+T5	Concept_Idea 110 113	âge
+T6	TEMP 117 125	dix mois
+T7	PROC 129 144	examen clinique
+T8	LIVB 155 162	patient
+T9	DISO 163 170	fébrile
+T10	MEAS 173 179	38,7°C
+T11	ANAT 189 195	urines
+T12	MEAS 196 205	multiples
+T13	PHEN 212 227	fonction rénale
+T14	ANAT 221 227	rénale
+T15	MEAS 232 239	normale
+T16	PROC 244 261	tomodensitométrie
+T17	PROC 263 303	TDM) cervico-thoraco- abdomino-pelvienne
+T18	ANAT 268 303	cervico-thoraco- abdomino-pelvienne
+T19	Hospital 316 323	urgence
+T20	DISO 351 357	lésion
+T21	ANAT 365 387	membre supérieur droit
+T22	Localization 382 387	droit
+T23	ANAT 404 433	tronc spléno-gastro-splénique
+T24	PROC 439 464	chimiothérapie palliative
+T25	CHEM 469 500	amoxicilline acide clavulanique
+T26	PROC 514 538	néphrotomie exploratrice
+T27	MEAS 591 598	simples
+T28	PROC 604 621	régime restrictif
+T29	PROC 636 662	anticoagulation préventive
+T30	Concept_Idea 693 712	résultats cliniques
+T31	TEMP 748 755	18 mois

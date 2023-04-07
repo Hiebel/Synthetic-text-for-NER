@@ -1,0 +1,20 @@
+T1	LIVB 19 26	patient
+T2	DISO 42 67	antécédents pathologiques
+T3	MEAS 68 76	notables
+T4	DISO 97 122	tuméfaction du sein droit
+T5	ANAT 112 122	sein droit
+T6	Localization 117 122	droit
+T7	Concept_Idea 135 138	âge
+T8	TEMP 142 148	10 ans
+T9	PROC 153 170	bilan d'extension
+T10	MEAS 177 184	négatif
+T11	PROC 191 216	scanner abdomino- pelvien
+T12	ANAT 199 216	abdomino- pelvien
+T13	DISO 236 271	épanchement intrarétinien lésionnel
+T14	ANAT 248 271	intrarétinien lésionnel
+T15	DISO 288 329	paragangliome épithélio-gigantocellulaire
+T16	DISO 331 335	pNET
+T17	PROC 342 366	chimiothérapie adjuvante
+T18	CHEM 372 385	dexaméthasone
+T19	CHEM 387 404	méthyl palliudine
+T20	CHEM 408 414	taxane

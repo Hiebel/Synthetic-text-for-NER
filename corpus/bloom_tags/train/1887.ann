@@ -1,0 +1,54 @@
+T1	LIVB 3 8	homme
+T2	PROC 29 40	hospitalisé
+T3	Hospital 45 53	urgences
+T4	DISO 72 85	hémopéritoine
+T5	DISO 91 112	détresse respiratoire
+T6	PHEN 100 112	respiratoire
+T7	DISO 147 159	choc fébrile
+T8	LIVB 182 190	patients
+T9	DISO 225 263	syndrome d’épanchement intrapéritonéal
+T10	ANAT 248 263	intrapéritonéal
+T11	CHEM 295 324	corticothérapie intraveineuse
+T12	CHEM 330 348	méthylprednisolone
+T13	DOSE 350 358	20 mg/kg
+T14	TEMP 358 363	/jour
+T15	MEAS 456 468	3450 grammes
+T16	DISO 512 530	signe radiologique
+T17	DISO 558 579	placenta hypertrophié
+T18	PROC 684 705	colpotrachéaloplastie
+T19	PROC 708 733	exploration préopératoire
+T20	DISO 755 781	dilatation grêlo-gastrique
+T21	ANAT 766 781	grêlo-gastrique
+T22	DISO 788 808	mésentère nécrasique
+T23	DEVI 832 845	masse plâtrée
+T24	DISO 855 863	tumorale
+T25	ANAT 884 902	greffon épiploïque
+T26	MEAS 911 934	stade 3B NHAACS/4NHCADS
+T27	DISO 955 976	lymphomateuse maligne
+T28	LIVB 1011 1019	patiente
+T29	DISO 1140 1166	malformations congénitales
+T30	DISO 1194 1216	thrombophilie profonde
+T31	DISO 1234 1266	nodules kystiques érythémateuses
+T32	MEAS 1466 1480	bradycardieuse
+T33	DISO 1559 1592	symptomatologie pseudo-rhumatoïde
+T34	DISO 1601 1618	dyspnée sifflante
+T35	MEAS 1633 1640	modérée
+T36	TEMP 1649 1662	immédiatement
+T37	MEAS 1697 1710	de haut grade
+T38	MEAS 1720 1732	prurigineuse
+T39	PROC 1769 1793	traitement médicamenteux
+T40	CHEM 1868 1899	amoxicilline acide clavulanique
+T41	CHEM 1901 1911	nivafurane
+T42	CHEM 1913 1926	dexaméthasone
+T43	CHEM 1929 1942	phénobarbital
+T44	Concept_Idea 2025 2043	état hémodynamique
+T45	PROC 2055 2080	scanner abdomino- pelvien
+T46	ANAT 2063 2080	abdomino- pelvien
+T47	DISO 2111 2181	adénopathies homolatérales du paroi péritonéale inféro-latérale gauche
+T49	ANAT 2141 2181	paroi péritonéale inféro-latérale gauche
+T50	Localization 2175 2181	gauche
+T51	DISO 2189 2224	hypertrophie pelvienne hypoéchogène
+T52	ANAT 2202 2224	pelvienne hypoéchogène
+T53	DISO 2259 2290	carcinose péritonéalo-pelvienne
+T54	ANAT 2269 2290	péritonéalo-pelvienne
+T55	DISO 2299 2322	endométrial lithiasique

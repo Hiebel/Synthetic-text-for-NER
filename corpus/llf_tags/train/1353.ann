@@ -1,0 +1,27 @@
+T1	PROC 3 15	TDM du genou
+T2	ANAT 10 15	genou
+T3	DISO 38 60	dilatation des poumons
+T4	ANAT 53 60	poumons
+T5	DISO 82 122	processus tissulaire de la hanche gauche
+T6	ANAT 109 122	hanche gauche
+T7	Localization 116 122	gauche
+T8	PROC 127 144	toucher abdominal
+T9	ANAT 135 144	abdominal
+T10	DEVI 168 173	sonde
+T11	DISO 195 220	remaniement inflammatoire
+T12	Concept_Idea 225 234	caractère
+T13	MEAS 235 259	macroscopiquement normal
+T14	DISO 271 279	anomalie
+T15	PROC 283 308	étude immunohistochimique
+T16	LIVB 329 337	patiente
+T17	MEAS 352 360	négative
+T18	CHEM 385 401	immunoglobulines
+T19	DOSE 403 408	200mg
+T20	TEMP 408 410	/j
+T21	PROC 417 441	laparotomie exploratrice
+T22	PROC 473 490	cure chirurgicale
+T23	PHEN 534 552	suites opératoires
+T24	MEAS 561 568	simples
+T25	MEAS 605 612	simples
+T26	PROC 635 652	bilan étiologique
+T27	PROC 790 819	prise en charge thérapeutique

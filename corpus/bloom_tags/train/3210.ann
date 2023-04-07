@@ -1,0 +1,27 @@
+T1	LIVB 4 15	jeune femme
+T2	TEMP 24 30	22 ans
+T3	PROC 49 73	laparotomie exploratrice
+T4	PROC 79 116	anastomose artériolo-veineuse intubée
+T5	ANAT 90 116	artériolo-veineuse intubée
+T6	DISO 137 165	masse lithiasique hétérogène
+T8	MEAS 212 216	4 cm
+T9	Concept_Idea 220 229	grand axe
+T10	ANAT 250 267	sinus grêlo-rénal
+T11	PROC 273 295	bili-IRM intraveineuse
+T12	Localization 333 339	droite
+T13	CHEM 400 420	produit de contraste
+T14	ANAT 446 465	surrénaliens rénaux
+T15	PHEN 486 506	grossesse ovariennes
+T16	ANAT 496 506	ovariennes
+T17	MEAS 526 531	1610g
+T18	DISO 546 588	hypertrophie vésico-vaginale hypertrophiée
+T19	ANAT 559 588	vésico-vaginale hypertrophiée
+T20	MEAS 600 615	progressivement
+T21	Concept_Idea 619 625	taille
+T22	DISO 810 825	résidu kystique
+T23	DISO 884 918	lésions noduleuses baso-centriques
+T24	DISO 928 936	kystique
+T25	ANAT 1002 1043	fosse ptérygoïdienne cervicale thoracique
+T26	PROC 1047 1071	scanner abdomino-pelvien
+T27	ANAT 1055 1071	abdomino-pelvien
+T28	DISO 1092 1141	masse ostéo-liquidienne rétro péritonéale ulcérée

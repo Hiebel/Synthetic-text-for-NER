@@ -1,0 +1,28 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	Concept_Idea 38 63	antécédents pathologiques
+T4	MEAS 64 76	particuliers
+T5	PROC 78 83	admis
+T6	Hospital 87 94	urgence
+T7	DISO 104 121	douleur pelvienne
+T8	ANAT 112 121	pelvienne
+T9	TEMP 131 144	depuis 6 mois
+T10	DISO 159 179	ictère choléstatique
+T11	PROC 183 197	interrogatoire
+T12	LIVB 210 212	il
+T13	PROC 223 228	opéré
+T14	ANAT 242 264	sinus caverneux utérin
+T15	PROC 270 299	cervico-utérine transfixiante
+T16	PROC 301 304	ETT
+T17	MEAS 338 345	simples
+T18	PROC 350 380	bilan biologique préopératoire
+T19	PROC 394 412	ionogramme sanguin
+T20	ANAT 405 412	sanguin
+T21	PROC 422 446	hémoglobulinémie glyquée
+T22	MEAS 464 471	normaux
+T23	PROC 486 507	recherche étiologique
+T24	PROC 514 536	échographie abdominale
+T25	ANAT 526 536	abdominale
+T26	DISO 564 590	localisations néoplasiques
+T27	PHEN 614 622	digestif
+T28	CHEM 626 645	anti-thrombolytique

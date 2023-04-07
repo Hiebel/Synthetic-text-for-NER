@@ -1,0 +1,24 @@
+T1	PROC 5 22	tomodensitométrie
+T2	PROC 24 73	TDM) thoraco- abdomino-pelvienne sans préparation
+T3	ANAT 29 56	thoraco- abdomino-pelvienne
+T4	PROC 92 118	examen anatomopathologique
+T5	ANAT 125 141	pièce opératoire
+T6	DISO 163 203	kyste hydatique du lobe supérieur gauche
+T7	ANAT 182 203	lobe supérieur gauche
+T8	Localization 197 203	gauche
+T9	PROC 222 233	échographie
+T10	DISO 240 267	masse kystique hypoéchogène
+T11	MEAS 276 280	6 cm
+T12	Concept_Idea 289 298	caractère
+T13	DISO 309 366	carcinome épidermoïde des segments sous cutanés cervicaux
+T14	ANAT 335 366	segments sous cutanés cervicaux
+T15	PROC 371 390	traitement adjuvant
+T16	PROC 395 429	radio-chimiothérapie néo adjuvante
+T17	PROC 433 459	radiothérapie concomitante
+T18	DISO 489 511	récidive peropératoire
+T19	PROC 526 548	traitement chirurgical
+T20	LIVB 561 569	patiente
+T21	CHEM 584 609	antibiotique probabiliste
+T22	PROC 620 626	suivie
+T23	PHEN 641 659	suites opératoires
+T24	MEAS 672 680	précoces

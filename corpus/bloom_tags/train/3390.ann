@@ -1,0 +1,38 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 63	notables
+T4	PROC 65 73	consulte
+T5	DISO 83 102	douleurs pelviennes
+T6	ANAT 92 102	pelviennes
+T7	DISO 119 125	fièvre
+T8	MEAS 137 141	39°C
+T9	TEMP 151 164	depuis 2 mois
+T10	PROC 168 183	examen clinique
+T11	LIVB 196 203	patient
+T12	MEAS 207 210	bon
+T13	Concept_Idea 211 229	état hémodynamique
+T14	CHEM 235 243	propofol
+T15	DOSE 245 253	0,1mg/kg
+T16	MODE 255 261	per os
+T17	CHEM 275 286	nicardipine
+T18	PROC 291 299	biologie
+T19	DISO 316 332	hyperleucocytose
+T20	MEAS 335 354	13900 éléments/mm 3
+T21	PROC 362 365	CRP
+T22	MEAS 368 375	30 mg/L
+T23	PROC 381 409	tomodensitométrie abdominale
+T24	ANAT 399 409	abdominale
+T26	Localization 478 486	centrale
+T27	ANAT 506 517	flanc droit
+T28	Localization 512 517	droit
+T29	MEAS 527 532	20 cm
+T30	Concept_Idea 535 541	aspect
+T31	MEAS 542 552	hétérogène
+T32	ANAT 569 589	fosse iliaque droite
+T33	Localization 583 589	droite
+T34	DISO 610 670	adénopathie péritonéale homolatérale postérieure lithiasique
+T35	ANAT 622 670	péritonéale homolatérale postérieure lithiasique
+T37	ANAT 686 707	parois grêles iléales
+T38	ANAT 722 730	épiploon
+T39	DISO 760 788	anomalie anatomopathologique
+T40	DISO 799 821	carcinomateuse maligne

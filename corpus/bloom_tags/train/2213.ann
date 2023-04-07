@@ -1,0 +1,40 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	MEAS 64 72	notables
+T4	PROC 74 78	reçu
+T5	Hospital 82 125	service d'accueil des urgences pédiatriques
+T6	DISO 144 158	amaigrissement
+T7	MEAS 169 173	15kg
+T8	TEMP 192 205	depuis 3 mois
+T9	PROC 211 220	admission
+T10	LIVB 224 234	nouveau-né
+T11	Concept_Idea 244 249	poids
+T12	MEAS 253 258	21 kg
+T13	Concept_Idea 268 274	taille
+T14	MEAS 278 283	76 cm
+T15	ANAT 296 306	abdominaux
+T16	MEAS 315 321	perçus
+T17	PROC 345 364	pression artérielle
+T18	ANAT 354 364	artérielle
+T19	DISO 426 448	hypotension artérielle
+T20	ANAT 438 448	artérielle
+T21	MODE 482 495	voie veineuse
+T22	PROC 512 518	extubé
+T23	PROC 524 533	transféré
+T24	PROC 540 592	chirurgie anesthésiothérapeutique transoesophagienne
+T25	LIVB 673 685	petit garçon
+T26	PROC 872 888	examen somatique
+T27	DISO 900 921	pleurésie généralisée
+T28	ANAT 962 977	greffon pleural
+T29	DISO 992 1008	dyspnée d'effort
+T30	MEAS 1023 1033	rapprochée
+T31	PROC 1063 1090	traitement médical adjuvant
+T32	CHEM 1099 1109	corticoïde
+T33	CHEM 1115 1133	méthylprednisolone
+T34	DOSE 1134 1141	1 mg/kg
+T35	TEMP 1141 1146	/jour
+T36	CHEM 1152 1170	hydroxychloroquine
+T37	DOSE 1171 1179	100mg/kg
+T38	TEMP 1179 1181	/J
+T39	DISO 1207 1233	déshydratation métabolique
+T40	DISO 1318 1334	signes cliniques

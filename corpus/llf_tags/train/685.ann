@@ -1,0 +1,49 @@
+T1	PROC 2 30	sérologie de la leishmaniose
+T2	DISO 18 30	leishmaniose
+T3	MEAS 37 45	négative
+T4	DISO 64 88	syndrome d'Ehlers-Danlos
+T5	PROC 120 146	étude immuno-histochimique
+T6	LIVB 165 172	malades
+T7	Concept_Idea 187 193	taille
+T8	MEAS 217 227	1500 UI/mL
+T9	Concept_Idea 236 251	index mitotique
+T10	MEAS 261 270	100 UI/mL
+T11	PHEN 276 296	récepteurs hormonaux
+T12	MEAS 305 313	positifs
+T13	CHEM 322 332	corticoïde
+T14	DOSE 334 340	0,1 mg
+T15	TEMP 340 345	/jour
+T16	Concept_Idea 379 403	localisation moléculaire
+T17	PROC 409 440	antibioprophylaxie concomitante
+T18	MEAS 455 468	indispensable
+T19	PROC 482 525	immunoglobuline intraveineuse thérapeutique
+T20	PROC 585 615	complément immunohistochimique
+T21	PROC 633 652	anesthésie générale
+T22	PROC 666 694	chimiothérapie néo adjuvante
+T24	CHEM 708 721	métronidazole
+T25	CHEM 724 738	gentaméthasone
+T26	CHEM 741 751	aminosides
+T27	CHEM 754 764	isoniazole
+T28	CHEM 766 777	rifampicine
+T29	DEVI 781 798	staff multiphénix
+T30	ANAT 816 832	colon transverse
+T31	PROC 837 872	radio chimiothérapie postopératoire
+T32	Concept_Idea 931 941	postérieur
+T33	PROC 974 1010	radiothérapies endoscopiques courtes
+T34	DISO 2034 2076	crise convulsive hypokinétique congénitale
+T35	Concept_Idea 2086 2089	âge
+T36	PROC 2110 2134	consultations prénatales
+T37	PROC 2168 2191	hémodialyse médicalisée
+T38	PROC 2245 2279	prise en charge neuropsychiatrique
+T39	PROC 2300 2323	ventilation parentérale
+T40	PROC 2372 2394	traitement substitutif
+T41	PROC 2429 2465	méthode contraceptive médicamenteuse
+T42	LIVB 2708 2716	patients
+T43	LIVB 2967 2975	patients
+T44	MEAS 2982 2991	favorable
+T45	TEMP 3033 3037	1 an
+T46	Concept_Idea 3045 3054	résultats
+T47	MEAS 3061 3074	satisfaisants
+T48	PROC 3094 3118	chimiothérapie adjuvante
+T49	PROC 3134 3153	traitement standard
+T50	CHEM 3155 3178	amoxicilline Isoniazide

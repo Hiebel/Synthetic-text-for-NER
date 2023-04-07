@@ -1,0 +1,54 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 35	10 ans
+T3	DISO 42 67	antécédents pathologiques
+T4	MEAS 68 80	particuliers
+T5	PROC 96 108	néphrectomie
+T6	PHEN 128 137	grossesse
+T7	PROC 142 148	suivie
+T8	PROC 166 185	examen histologique
+T9	ANAT 190 208	pièces opératoires
+T10	DISO 221 258	carcinome monophasique du sein gauche
+T11	ANAT 247 258	sein gauche
+T12	Localization 252 258	gauche
+T13	Concept_Idea 267 275	diamètre
+T14	MEAS 289 293	6 cm
+T15	Concept_Idea 300 332	localisation anatomopathologique
+T16	ANAT 342 363	troncs supéro-utérins
+T17	PROC 389 408	bilan préopératoire
+T18	PROC 435 449	chimiothérapie
+T19	PROC 471 497	anémie normocytaire totale
+T20	PROC 499 519	hémoglobine corrigée
+T21	MEAS 522 530	9,7 g/dL
+T22	PROC 532 534	Hb
+T23	MEAS 537 546	2,8 pg/dL
+T24	MEAS 584 591	simples
+T25	DISO 608 625	récidive tumorale
+T26	DISO 632 641	métastase
+T27	PROC 657 678	traitements adjuvants
+T28	PROC 694 736	transfusions intraveineuse intrathoracique
+T30	DISO 867 891	hypokaliémie réfractaire
+T31	CHEM 897 913	culot globulaire
+T32	PROC 948 980	tampon antiagrégant plaquettaire
+T33	PROC 987 1017	antibioprophylaxie parentérale
+T34	ANAT 1044 1050	thorax
+T35	PROC 1080 1090	immobilisé
+T36	PROC 1129 1149	reprise chirurgicale
+T37	PROC 1154 1176	TDM abdomino-pelvienne
+T38	ANAT 1158 1176	abdomino-pelvienne
+T39	DISO 1201 1236	masse tissulaire polypoïde polylobé
+T40	MEAS 1246 1258	environ 4 cm
+T41	Concept_Idea 1262 1271	grand axe
+T42	ANAT 1293 1310	parois urétérales
+T43	Concept_Idea 1320 1325	forme
+T44	MEAS 1343 1348	12 mm
+T45	Concept_Idea 1352 1361	petit axe
+T46	ANAT 1378 1400	collection péritonéale
+T47	DISO 1424 1439	nodule pariétal
+T48	DISO 1456 1474	lésion néoplasique
+T49	ANAT 1485 1501	annexes pelviens
+T50	PROC 1516 1563	curage ganglionnaire cervico-alvéolo-pulmonaire
+T51	ANAT 1523 1563	ganglionnaire cervico-alvéolo-pulmonaire
+T52	PROC 1577 1602	étude immunohistochimique
+T53	PROC 1603 1606	IHC
+T54	DISO 1628 1683	léiomyome mésenchymateux mucineux carcinomateux maligne
+T55	MEAS 1691 1700	stade III

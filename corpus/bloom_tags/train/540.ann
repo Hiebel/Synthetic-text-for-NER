@@ -1,0 +1,54 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 73 78	admis
+T6	Hospital 83 104	urgences pédiatriques
+T7	DISO 114 143	douleurs épigastriques aiguës
+T8	ANAT 123 136	épigastriques
+T9	TEMP 165 183	depuis une semaine
+T10	LIVB 185 187	Il
+T11	Concept_Idea 197 202	poids
+T12	MEAS 206 211	30 kg
+T13	PROC 233 257	exploration chirurgicale
+T14	DISO 274 302	masse tumorale du rein droit
+T15	ANAT 292 302	rein droit
+T16	Localization 297 302	droit
+T17	MEAS 312 317	21 cm
+T18	Concept_Idea 321 330	grand axe
+T19	PHEN 336 354	suites opératoires
+T20	DISO 394 415	détresse respiratoire
+T21	PHEN 403 415	respiratoire
+T22	CHEM 443 453	Amiodarone
+T23	PROC 474 494	examen préopératoire
+T24	DISO 525 563	syndrome d'épanchement intrapéritonéal
+T25	ANAT 548 563	intrapéritonéal
+T26	DISO 569 604	atteinte ganglionnaire métastatique
+T27	ANAT 578 604	ganglionnaire métastatique
+T28	DISO 624 672	localisations ganglionnaires cervico-thoraciques
+T29	ANAT 727 750	hémi-champs pulmonaires
+T30	DISO 792 816	symptomatologie clinique
+T31	PROC 820 846	scanner abdomino- périnéal
+T32	ANAT 828 846	abdomino- périnéal
+T33	DISO 869 938	masse tissulaire hypoéchogène hétérogène latéro-laterolaire hypodense
+T34	ANAT 959 966	pelvien
+T35	ANAT 988 1008	fosse iliaque droite
+T36	Localization 1002 1008	droite
+T37	DISO 1024 1045	paragangliome nécrosé
+T38	MEAS 1054 1066	environ 16cm
+T39	Concept_Idea 1070 1079	grand axe
+T40	DISO 1102 1135	métastase pancréatocarcinomateuse
+T41	ANAT 1112 1135	pancréatocarcinomateuse
+T42	DEVI 1186 1215	cathéter veineux intraveineux
+T44	PROC 1251 1276	anesthésiothérapie locale
+T45	DISO 1336 1409	endométrial polymyomateux lithiasique carcinomateus kystique hypertrophié
+T46	DISO 1604 1628	symptomatologie physique
+T47	PROC 1647 1661	interrogatoire
+T48	LIVB 1716 1726	patiientes
+T49	PROC 1757 1763	reçues
+T50	MEAS 1806 1818	négligeantes
+T51	DISO 1844 1887	polynucléaires érythémateuses prurigineuses
+T52	PROC 1921 1929	biopsies
+T53	Concept_Idea 1953 1979	résultats bactériologiques
+T54	DISO 2089 2117	méningoencephalite purulante
+T55	DISO 2198 2235	granulome épithélio-gigantocellulaire

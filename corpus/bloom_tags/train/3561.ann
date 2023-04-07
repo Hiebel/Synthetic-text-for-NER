@@ -1,0 +1,26 @@
+T1	LIVB 29 37	patiente
+T2	DISO 93 122	tuberculose bronchocondictive
+T3	ANAT 105 122	bronchocondictive
+T4	PROC 147 188	pratiques thérapeutiques antibacilliennes
+T5	DISO 202 225	hypertension artérielle
+T6	PHEN 215 225	artérielle
+T7	DISO 256 292	néphropathie diabétique hypertensive
+T8	DISO 308 352	anémie normochrome normocytaire microcytaire
+T9	DISO 383 414	détresse respiratoire sifflante
+T10	LIVB 481 489	patiente
+T11	DISO 494 608	douleur bronchodorsiflexion symétrique postéro-latéralisée dorsolombaire péridurale basithoracique cranioccipitale
+T13	TEMP 618 635	depuis 6 semaines
+T14	DISO 651 657	sueurs
+T15	MEAS 692 701	nocturnes
+T16	DISO 716 725	symptômes
+T17	DEVI 755 778	sonnoises artificielles
+T18	PROC 821 845	examen clinique initiale
+T19	LIVB 859 867	patiente
+T20	Concept_Idea 892 910	plan hémodynamique
+T21	DISO 992 1010	signes vulvinaires
+T22	DISO 1045 1066	contractions utérines
+T23	ANAT 1058 1066	utérines
+T24	DISO 1087 1110	souffrance placervicale
+T25	ANAT 1098 1110	placervicale
+T26	PROC 1115 1153	tomodensitométrie abdomino - pelvienne
+T27	ANAT 1133 1153	abdomino - pelvienne

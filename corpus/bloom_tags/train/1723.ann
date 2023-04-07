@@ -1,0 +1,21 @@
+T1	LIVB 16 21	femme
+T2	Concept_Idea 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 85 100	examen clinique
+T5	PROC 105 114	admission
+T6	LIVB 128 136	patiente
+T7	MEAS 140 143	bon
+T8	Concept_Idea 144 156	état général
+T9	ANAT 165 172	abdomen
+T10	MEAS 173 181	distendu
+T11	DISO 185 193	sensible
+T13	PROC 234 264	échographie abdomino-pelvienne
+T14	ANAT 246 264	abdomino-pelvienne
+T15	LIVB 288 296	patiente
+T16	PROC 305 322	bilan étiologique
+T17	DISO 328 364	épanchement liquidien péripéritonéal
+T18	ANAT 340 364	liquidien péripéritonéal
+T20	MEAS 400 415	progressivement
+T21	Concept_Idea 419 425	taille
+T22	TEMP 436 445	deux mois
+T23	PROC 458 473	hospitalisation

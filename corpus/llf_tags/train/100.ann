@@ -1,0 +1,83 @@
+T1	LIVB 16 24	patiente
+T2	DISO 68 101	hypertension artérielle chronique
+T3	ANAT 81 91	artérielle
+T4	PROC 107 125	traitement médical
+T5	PROC 139 145	admise
+T6	Hospital 150 158	urgences
+T7	DISO 167 199	nodule du membre inférieur droit
+T8	ANAT 177 199	membre inférieur droit
+T9	Localization 194 199	droit
+T10	TEMP 209 222	depuis 6 mois
+T11	PROC 227 244	tomodensitométrie
+T12	Concept_Idea 258 261	âge
+T13	TEMP 265 271	21 ans
+T14	MEAS 305 315	volumineux
+T15	DISO 316 384	processus lésionnel tumoral des branches tibial-mandibulaire gauches
+T16	ANAT 348 384	branches tibial-mandibulaire gauches
+T17	Localization 377 384	gauches
+T18	MEAS 393 398	40 cm
+T19	Concept_Idea 402 411	grand axe
+T20	DISO 417 437	signes neurologiques
+T21	DISO 441 451	métastases
+T22	PROC 464 490	examen anatomopathologique
+T24	ANAT 559 596	muscle quadriceps fémoral homolatéral
+T26	ANAT 614 643	paroi postéro-médio-tarsienne
+T27	ANAT 658 700	parties molles cervicale supérieure droite
+T28	Localization 683 700	supérieure droite
+T29	ANAT 719 744	péritoine pariétal gauche
+T30	Localization 738 744	gauche
+T31	PROC 767 792	étude immunohistochimique
+T32	PROC 794 811	immunohistochimie
+T33	PROC 812 815	IHC
+T34	PROC 818 835	myogénesticomique
+T35	PROC 836 839	MLA
+T36	LIVB 885 893	patiente
+T37	CHEM 1855 1887	amoxicilline® acide clavulanique
+T38	PHEN 1978 1999	réponse thérapeutique
+T39	PROC 2007 2028	contrôle radiologique
+T40	Concept_Idea 2041 2061	aspect morphologique
+T41	DISO 2078 2123	tumeur superficielle maligne myxoide «maligne
+T42	Concept_Idea 2152 2175	standards histologiques
+T43	PROC 2218 2275	curage ganglionnaire local biopsique cutané préopératoire
+T44	PROC 2300 2317	abord chirurgical
+T45	MEAS 2570 2577	simples
+T46	PROC 2592 2619	angioscanner complémentaire
+T47	PROC 2678 2710	scanner thoraco-abdomino-pelvien
+T48	ANAT 2686 2710	thoraco-abdomino-pelvien
+T49	MEAS 2825 2830	50 mm
+T50	MEAS 2834 2839	90 mm
+T51	DEVI 2900 2910	brochettes
+T52	Localization 2941 2958	partie inférieure
+T53	Concept_Idea 2964 2972	diamètre
+T54	MEAS 2976 2980	10mm
+T55	LIVB 2990 2998	patiente
+T56	DISO 3018 3034	râles crépitants
+T57	ANAT 3048 3070	membre inférieur droit
+T58	Localization 3065 3070	droit
+T59	DISO 3083 3117	manifestations neuropsychiatriques
+T60	DISO 3144 3172	symptomatologie pathologique
+T61	PROC 3192 3210	traitement médical
+T62	MEAS 3229 3238	favorable
+T63	PROC 3244 3294	anticoagulation par voie intraveineuse fractionnée
+T64	PROC 3307 3348	remplissage vasculo-colo-aorto-péritonéal
+T65	ANAT 3319 3348	vasculo-colo-aorto-péritonéal
+T66	PROC 3361 3389	antibiothérapie probabiliste
+T67	Concept_Idea 3402 3421	résultats cliniques
+T68	DOSE 3446 3449	2 g
+T69	TEMP 3449 3454	/jour
+T70	PROC 3469 3490	surveillance clinique
+T71	DISO 3509 3529	récidive anévrysmale
+T72	PROC 3549 3561	intervention
+T73	DISO 3654 3688	foyers tuberculeuses hémorragiques
+T74	LIVB 3731 3752	gastro-entéropneystes
+T75	DISO 3832 3883	remaniements lymphoplasmocytaires érythroblastiques
+T76	DISO 3925 3958	adénopathies jugulo-carotidiennes
+T77	ANAT 3938 3958	jugulo-carotidiennes
+T78	DISO 3990 4053	tuberculose granulomateuse multifocale hétérozygote kératinisée
+T79	PROC 4090 4096	suivie
+T80	PROC 4105 4121	consultation ORL
+T81	DISO 4156 4178	distension rachidienne
+T82	ANAT 4167 4178	rachidienne
+T83	MEAS 4190 4205	progressivement
+T84	PROC 4344 4368	vaccination antigrippale
+T85	PROC 4391 4436	radionécrosectomie exploratrice scanno-guidée

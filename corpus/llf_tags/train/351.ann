@@ -1,0 +1,39 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	DISO 56 84	opacité anéchogène hypodense
+T4	MEAS 88 93	10 mm
+T5	PROC 98 114	bilan biologique
+T6	DISO 134 147	particularité
+T7	DISO 163 185	syndrome inflammatoire
+T8	Concept_Idea 195 219	vitesse de sédimentation
+T9	PROC 221 224	VBP
+T10	MEAS 228 233	40 mm
+T11	PHEN 240 245	pouls
+T12	MEAS 248 254	90 bpm
+T13	PROC 258 277	électrocardiogramme
+T14	PROC 282 333	taux des catécholamines intraveineuses plasmatiques
+T15	PROC 346 350	ECBU
+T16	MEAS 367 374	normaux
+T17	MEAS 407 414	simples
+T19	CHEM 466 476	corticoïde
+T20	Concept_Idea 481 488	limites
+T21	TEMP 489 501	initialement
+T23	DISO 531 555	crise hémophagique aiguë
+T24	Concept_Idea 616 628	état général
+T25	PROC 667 687	prise médicamenteuse
+T26	PROC 693 717	laparotomie exploratrice
+T27	DISO 755 771	signes cliniques
+T28	LIVB 793 801	patiente
+T29	PROC 824 856	néphrectomie totale endoscopique
+T30	PROC 870 1008	curage ganglionnaire axillaire segmentaire rétro-mandibulaire postéro-supra mandibulaire transoesophagienne scanno-mandibulaire infiltrant
+T32	PROC 1024 1058	mastectomie antérieure asymétrique
+T33	Localization 1036 1058	antérieure asymétrique
+T34	PROC 1084 1110	examen anatomopathologique
+T35	LIVB 1154 1161	patient
+T36	DISO 1173 1196	récidives neurologiques
+T37	DEVI 1230 1248	processus digestif
+T38	DISO 1327 1359	trouble sensitivo-musculo-moteur
+T39	DISO 1369 1408	facteur de décompensation psychiatrique
+T40	Concept_Idea 1421 1441	aspect morphologique
+T41	DISO 1458 1495	psychose délirante maniaco-dépressive
+T42	DISO 1605 1638	symptômes psychotiques chroniques

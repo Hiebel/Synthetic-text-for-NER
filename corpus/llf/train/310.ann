@@ -1,0 +1,12 @@
+T1	PROC 3 8	bilan
+T2	DISO 27 38	tuberculose
+T3	PROC 60 81	scintigraphie
+T4	ANAT 74 81	osseuse
+T5	Concept_Idea 90 98	résultat
+T6	DISO 120 180	carcinome
+T7	ANAT 130 140	papillaire
+T8	ANAT 164 180	sinus
+T9	PROC 184 210	étude
+T10	DISO 242 250	antigène
+T11	MEAS 251 261	spécifique
+T12	ANAT 294 319	récepteurs

@@ -1,0 +1,40 @@
+T1	LIVB 4 7	H.M
+T2	MEAS 42 43	2
+T3	LIVB 44 52	patients
+T4	DISO 76 89	consanguinité
+T5	DISO 96 103	diabète
+T6	PROC 109 118	admission
+T7	Hospital 122 137	bloc opératoire
+T8	LIVB 139 143	nous
+T9	LIVB 161 169	patiente
+T10	MEAS 173 176	bon
+T11	Concept_Idea 177 189	état général
+T12	Concept_Idea 204 222	plan hémodynamique
+T13	PHEN 224 243	pression artérielle
+T14	ANAT 233 243	artérielle
+T15	MEAS 245 254	90/60mmhg
+T16	Concept_Idea 256 267	température
+T17	MEAS 269 275	37°5°C
+T18	DEVI 278 308	auscultation pleuro-pulmonaire
+T20	MEAS 361 370	conservés
+T21	Concept_Idea 387 398	profondeurs
+T22	DISO 458 502	souffle pulmonaire basithoracique péribuccal
+T23	ANAT 466 502	pulmonaire basithoracique péribuccal
+T24	DISO 515 537	opacités médiastinales
+T25	ANAT 524 537	médiastinales
+T26	DISO 570 579	anomalies
+T27	DISO 635 690	syndrome d'épanchement basithoracique laryngéo-tracheal
+T28	ANAT 658 690	basithoracique laryngéo-tracheal
+T29	DISO 738 775	insuffisance ventriculaire systolique
+T30	ANAT 751 775	ventriculaire systolique
+T31	DISO 791 830	hypotension intrarachidienne thoracique
+T32	ANAT 803 830	intrarachidienne thoracique
+T33	TEMP 840 856	depuis 48 heures
+T34	MEAS 866 896	progressivement plus accentuée
+T35	MEAS 908 928	de façon progressive
+T36	Concept_Idea 932 938	volume
+T37	DISO 991 1028	pathophysiologie hypertensive maligne
+T38	DISO 1046 1079	traumatisme thoracique ischémique
+T39	ANAT 1058 1079	thoracique ischémique
+T40	DISO 1097 1117	troubles symétriques
+T41	DISO 1156 1175	symptômes cliniques

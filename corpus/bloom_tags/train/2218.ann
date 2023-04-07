@@ -1,0 +1,37 @@
+T1	LIVB 29 34	femme
+T2	DISO 134 150	choc hypotonique
+T3	PROC 176 199	analgésie préopératoire
+T4	CHEM 211 225	hydrocortisone
+T5	MODE 231 250	voie intra veineuse
+T6	CHEM 264 280	éthylparacétamol
+T7	PROC 332 356	reprise chirurgicalement
+T8	DISO 377 408	accident ischémique métabolique
+T9	DISO 419 445	kyste hydatique congénital
+T10	LIVB 476 484	patiente
+T11	DISO 508 528	crises hypertoniques
+T12	ANAT 560 575	paires crâniens
+T13	MEAS 587 602	progressivement
+T14	Concept_Idea 606 612	taille
+T15	DISO 691 711	crises hypertoniques
+T16	DISO 752 774	douleurs épigastriques
+T17	ANAT 761 774	épigastriques
+T18	TEMP 784 797	depuis 6 mois
+T19	PROC 1084 1111	étude cytochimique sanguine
+T20	MEAS 1203 1209	11g/dl
+T21	MEAS 1215 1245	inférieure à 5 fois la normale
+T22	PROC 1250 1260	diagnostic
+T23	DISO 1286 1319	thrombose tuberculoide céphalique
+T24	ANAT 1296 1319	tuberculoide céphalique
+T25	DISO 1337 1364	hémiplégie brachycéphaloïde
+T26	PROC 1440 1476	surrénalectomie totale transfémorale
+T27	ANAT 1498 1604	veines jugulaires cervico médiastinales thoraciques basithoraciques latérojugulo-carotidiennes inférieures
+T28	ANAT 1623 1689	litvasculaires para-thoraciques axillariespulmonaires pariétalisés
+T29	MEAS 1743 1750	simples
+T30	DISO 1774 1796	traumatisme infectieux
+T31	DISO 1814 1846	souffrance médiastinale tumorale
+T32	ANAT 1825 1846	médiastinale tumorale
+T33	DISO 1873 1895	embolie intracrânienne
+T34	ANAT 1881 1895	intracrânienne
+T35	PROC 1969 2022	rééducation proprioceptive intrarachidienne adjuvante
+T36	MEAS 2262 2282	rapidement favorable
+T37	PROC 2324 2338	biologiquement

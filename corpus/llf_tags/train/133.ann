@@ -1,0 +1,88 @@
+T1	TEMP 0 13	depuis 2 mois
+T2	PROC 17 32	examen clinique
+T3	PROC 37 46	admission
+T4	LIVB 59 66	patient
+T5	MEAS 70 73	bon
+T6	Concept_Idea 74 86	état général
+T7	DISO 96 107	sensibilité
+T8	ANAT 124 147	région temporale droite
+T9	Localization 141 147	droite
+T10	PROC 163 179	examen somatique
+T11	DISO 189 202	particularité
+T12	PROC 207 224	tomodensitométrie
+T14	ANAT 234 246	cuir chevelu
+T15	DISO 273 279	signes
+T16	DISO 282 311	atteintes neuropsychiatriques
+T17	PHEN 319 336	fonctions vitales
+T18	MEAS 345 353	normales
+T19	PROC 358 388	bilan biologique préopératoire
+T20	MEAS 407 414	correct
+T21	LIVB 438 445	patient
+T22	DISO 450 462	hypoglycémie
+T23	MEAS 465 475	3,6 mmol/l
+T24	DISO 491 521	hyper-cholestérolémie primaire
+T25	MEAS 524 534	2,7 mmol/l
+T26	DISO 549 562	 hypokaliémie
+T27	MEAS 565 575	0,8 mmol/l
+T28	DISO 591 609	 hyperphosphorémie
+T29	MEAS 612 621	1,5mmol/l
+T30	PROC 625 652	numération formule sanguine
+T31	DISO 679 706	anémie normocytaire maligne
+T32	MEAS 709 716	4,9g/dl
+T33	DISO 730 761	insuffisance rénale anictérique
+T34	ANAT 743 749	rénale
+T35	DISO 788 798	amylasémie
+T36	MEAS 801 807	16mg/l
+T37	PROC 840 862	traitement substitutif
+T38	CHEM 877 903	glucantime® acide acétique
+T39	PROC 917 947	néphrocalcinose rénale glyquée
+T40	DISO 966 998	polynucléaires érythroblastiques
+T41	PROC 1003 1024	bilan phosphocalcique
+T42	MEAS 1050 1056	normal
+T43	PROC 1083 1102	examens biologiques
+T44	DISO 1123 1142	syndrome infectieux
+T45	DISO 1152 1173	maladies auto-immunes
+T46	PROC 1179 1216	transfusions sanguines intraveineuses
+T47	PROC 1281 1312	reprise transfusionnelle totale
+T48	Hospital 1349 1370	urgences pédiatriques
+T49	Hospital 1384 1427	Centre Hospitalier Universitaire Provincial
+T50	PROC 1523 1584	fibroscopie digestive rétro transoeso-digestive scanno-guidée
+T51	PROC 1585 1589	FOGD
+T52	ANAT 1634 1651	ventricule gauche
+T53	Localization 1645 1651	gauche
+T54	DISO 1676 1717	distension gastroduodénale basithoracique
+T55	MEAS 1861 1865	90°C
+T56	DISO 1920 2000	distension abdomino-pelvaso-pancréatico péritonéale jugulocarotalienne spastique
+T58	DISO 2054 2077	infections alimentaires
+T59	DISO 2083 2110	fièvre catarrhale chronique
+T60	PROC 2115 2167	scanner thoraco-abdominal maxillaire cervico-vaginal
+T61	ANAT 2123 2167	thoraco-abdominal maxillaire cervico-vaginal
+T62	DISO 2181 2254	distension jugulo-carotidienne mésentérique inférieure droite asymétrique
+T64	Localization 2236 2254	droite asymétrique
+T65	MEAS 2266 2272	60 ° C
+T66	DISO 2295 2331	tuberculose tuberculeuse stade ELISA
+T69	Concept_Idea 2711 2735	indication thérapeutique
+T70	PROC 2745 2774	prise en charge préopératoire
+T71	CHEM 2783 2812	antibiothérapie intraveineuse
+T72	CHEM 2814 2845	amoxicilline acide clavulanique
+T73	CHEM 2847 2876	amoxicilline aminotransférase
+T74	PROC 2892 2910	bilan radiologique
+T75	DISO 2937 3026	rupture du parenchyme thyroïdien supérieur gauches dorsolombaire laryngé inférieur droits
+T78	Localization 3020 3026	droits
+T79	DISO 3032 3058	signes neuropsychiatriques
+T80	DISO 3085 3111	troubles sensitivo-moteurs
+T81	DISO 3128 3153	symptomatologie somatique
+T82	LIVB 3158 3166	patiente
+T83	PROC 3188 3216	traitement immunosuppresseur
+T84	CHEM 3199 3216	immunosuppresseur
+T86	ANAT 3261 3274	nasopharyngée
+T87	LIVB 3370 3376	enfant
+T88	TEMP 3384 3389	8 ans
+T89	Hospital 3603 3638	urgences chirurgicales pédiatriques
+T90	DISO 3658 3682	détresse néonatale aigüe
+T91	TEMP 3692 3706	depuis 6 jours
+T92	DISO 3722 3744	consanguinité primaire
+T93	Concept_Idea 3859 3878	aspect histologique
+T94	LIVB 3920 3927	malades
+T95	LIVB 4524 4530	enfant
+T96	Concept_Idea 4578 4600	recherches méthodiques

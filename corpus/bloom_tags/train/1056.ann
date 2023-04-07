@@ -1,0 +1,82 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 50 61	antécédents
+T3	MEAS 62 74	particuliers
+T4	PROC 76 82	Admise
+T5	Hospital 86 106	service des urgences
+T6	DISO 115 150	syndrome d'épanchement péricardique
+T7	ANAT 138 150	péricardique
+T8	PROC 154 179	intervention chirurgicale
+T11	ANAT 260 264	grêl
+T12	DEVI 272 295	médiastinotummy plâtrée
+T13	PROC 299 314	examen clinique
+T14	PROC 319 328	admission
+T15	DISO 364 391	détresse respiratoire aiguë
+T16	PHEN 373 391	respiratoire aiguë
+T17	MEAS 406 412	rapide
+T18	DISO 438 456	hémiplégie flasque
+T19	DISO 472 488	troubles visuels
+T20	Concept_Idea 533 545	état général
+T21	PROC 580 596	examen somatique
+T22	DISO 608 621	particularité
+T23	PROC 636 663	touchers cardio-vasculaires
+T24	ANAT 645 663	cardio-vasculaires
+T25	MEAS 677 684	normaux
+T26	DISO 702 717	rachianesthésie
+T27	PROC 734 756	induction anesthésique
+T28	DISO 763 785	hypotension artérielle
+T29	ANAT 775 785	artérielle
+T30	CHEM 802 815	noradrénaline
+T31	DOSE 826 835	1 µmol/kg
+T32	TEMP 835 841	/heure
+T33	DISO 912 936	déséquilibre métabolique
+T34	DISO 950 984	insuffisance bilatérale systémique
+T35	Localization 963 973	bilatérale
+T36	DISO 1046 1068	traumatisme ischémique
+T37	DISO 1072 1103	thrombophlébitique hypertrophié
+T38	LIVB 1137 1145	patiente
+T39	DISO 1224 1268	malformations thromboemboliques congénitales
+T40	DISO 1279 1295	atteinte cutanée
+T41	ANAT 1288 1295	cutanée
+T42	DISO 1297 1310	paragangliome
+T43	DISO 1321 1348	pathologies vascularisantes
+T44	DISO 1363 1383	méningo-épithéloïdes
+T45	DISO 1505 1514	métacôtes
+T46	PROC 1549 1580	échographie abdomino-thoracique
+T47	ANAT 1561 1580	abdomino-thoracique
+T48	MEAS 1604 1610	type 2
+T49	PROC 1664 1683	bilan préopératoire
+T50	PROC 1710 1736	pression artérielle pulsée
+T51	ANAT 1719 1736	artérielle pulsée
+T52	MEAS 1739 1749	75/50 mmHg
+T53	PROC 1755 1772	kaliémie corrigée
+T54	MEAS 1775 1784	3,5 meq/l
+T55	PROC 1788 1814	taux d'hémoglobine glyquée
+T56	MEAS 1817 1825	6,7 g/dl
+T57	PROC 1828 1848	protéines C réactive
+T58	PROC 1849 1852	CRP
+T59	MEAS 1854 1859	élevé
+T60	MEAS 1862 1873	1250 mg /ml
+T61	MEAS 1879 1909	supérieur à 50 fois la normale
+T62	PROC 1915 1959	tomodensitométrie thoraco-abdomino pelvienne
+T63	ANAT 1933 1959	thoraco-abdomino pelvienne
+T64	ANAT 2078 2099	artérielle péricœcale
+T65	Concept_Idea 2332 2343	profondeurs
+T66	Concept_Idea 2382 2392	caractères
+T67	ANAT 2447 2473	organes cavités abdominaux
+T68	DISO 2509 2529	dilatations nécroses
+T69	MEAS 2564 2596	macroscopiquement moins marquées
+T70	Concept_Idea 2614 2622	contours
+T71	MEAS 2635 2644	réguliers
+T72	MEAS 2662 2667	13 cm
+T73	Concept_Idea 2671 2680	grand axe
+T74	MEAS 2696 2711	progressivement
+T75	Concept_Idea 2715 2723	diamètre
+T76	ANAT 2755 2773	membres inférieurs
+T77	LIVB 2902 2904	Il
+T78	PROC 2922 2949	traitement médical adjuvant
+T79	CHEM 2962 2993	amoxicilline-acide clavulanique
+T80	DOSE 2995 2997	1g
+T81	TEMP 2997 2999	/j
+T82	CHEM 3007 3018	nicardipril
+T83	DOSE 3020 3025	20 mg
+T84	TEMP 3025 3027	/j

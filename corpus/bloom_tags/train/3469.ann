@@ -1,0 +1,12 @@
+T1	LIVB 33 41	patiente
+T2	DISO 64 74	ménopausée
+T3	PROC 203 227	chimiothérapie adjuvante
+T4	PROC 240 283	bêtaméthasone-cortisolthérapie substitutive
+T5	DOSE 294 300	400 mg
+T6	DOSE 328 334	100 mg
+T7	MODE 349 355	per os
+T8	DOSE 357 363	250 mg
+T9	PROC 431 464	traitement médical antibacillaire
+T10	CHEM 479 491	Rifquinolone
+T11	CHEM 494 514	Cyclosérine/4RHZ/4RH
+T12	CHEM 527 538	Epirubicine

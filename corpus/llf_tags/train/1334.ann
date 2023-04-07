@@ -1,0 +1,93 @@
+T1	LIVB 15 25	nourrisson
+T2	TEMP 33 40	18 mois
+T3	PROC 51 56	admis
+T4	Hospital 61 82	urgences pédiatriques
+T5	DISO 92 112	douleurs abdominales
+T6	ANAT 101 112	abdominales
+T7	DISO 129 152	distension respiratoire
+T8	PHEN 140 152	respiratoire
+T9	PROC 156 171	examen clinique
+T10	DISO 183 197	particularités
+T11	PROC 204 221	tomodensitométrie
+T13	ANAT 231 254	membre inférieur gauche
+T14	Localization 248 254	gauche
+T15	MEAS 274 284	volumineux
+T16	DISO 285 337	processus tissulaire fibro-adipeux anévrysmopharyngé
+T17	Concept_Idea 346 355	caractère
+T18	DISO 367 379	cervicalgies
+T19	PROC 421 444	cholécystectomie totale
+T20	PROC 449 483	fibroscopie digestive exploratrice
+T21	LIVB 501 511	nouveau-né
+T22	TEMP 515 529	septembre 2014
+T23	DISO 548 571	adénocarcinome primitif
+T24	DISO 588 611	localisation secondaire
+T25	PROC 615 640	étude immunohistochimique
+T26	ANAT 719 739	ganglions axillaires
+T27	ANAT 758 781	mésoamniotique fundique
+T28	DISO 803 809	lésion
+T29	PROC 815 855	résection transplacentaire scanno-guidée
+T30	PROC 861 903	anastomose termino-terminale peropératoire
+T31	PROC 917 937	reprise chirurgicale
+T32	DISO 980 1067	métastases kystiques intrarectales métastatiques monoblocs infiltrant malignité humaine
+T33	ANAT 1080 1099	lambeau sous cutané
+T34	MEAS 1124 1132	16/12 cm
+T35	MEAS 1136 1145	147/40 cm
+T36	DISO 1190 1219	dépôts grêliques éosinophiles
+T37	ANAT 1238 1269	crête postéro-latéro-thoracique
+T38	CHEM 1292 1318	immunoglobuline polyclonal
+T40	DISO 1385 1444	perforation carcinomateuse résiduelle liquidienne mucineuse
+T41	ANAT 1464 1480	annexes pelviens
+T42	PROC 1485 1507	traitement chirurgical
+T43	PROC 1529 1563	radio-chimiothérapie néo adjuvante
+T44	PROC 1579 1606	surveillance postopératoire
+T45	PROC 1612 1623	hémodialyse
+T46	PROC 1638 1695	kinésithérapie palliative enduro-récidive intramédullaire
+T47	PROC 1701 1725	contrôles préopératoires
+T48	TEMP 1733 1751	jusqu'à 4 semaines
+T49	PROC 1764 1792	biopsie ostéotrope pédiculée
+T50	PROC 1811 1876	mise en place d'une capsule laryngée extracorporelle non invasive
+T51	DEVI 1831 1876	capsule laryngée extracorporelle non invasive
+T52	PROC 1902 1971	tumorectomie partielle profonde intrascrotale multibasculorisatorisée
+T53	PROC 2044 2071	prélèvement para péritonéal
+T54	Concept_Idea 2192 2212	aspect morphologique
+T55	DISO 2229 2269	tuberculose actinomycosique hodgkinienne
+T56	MEAS 2301 2308	simples
+T57	PROC 2323 2352	consultation neuropédiatrique
+T58	DISO 2393 2429	déficit sensitivomoteur psychomoteur
+T59	ANAT 2538 2564	systèmes nerveux cervicaux
+T60	LIVB 2604 2641	infirmier anesthésiste viscéralologue
+T61	PROC 2670 2701	ventilation assistée électrique
+T62	PROC 2716 2784	visualisation électroencéphalogramme échographique Doppler aspiratif
+T63	ANAT 2847 2867	lobe temporal gauche
+T64	Localization 2861 2867	gauche
+T65	ANAT 2892 2934	quadrant supero-occipital antérieur gauche
+T66	Localization 2918 2934	antérieur gauche
+T67	MEAS 2959 2964	13 cm
+T68	MEAS 2968 2973	14 mm
+T69	DISO 2986 3065	nodule séreux nodulaire thyroïdien infiltrant la loge sous clavière postérieure
+T70	ANAT 3035 3065	loge sous clavière postérieure
+T71	Localization 3054 3065	postérieure
+T72	DISO 3109 3137	thymome érythémateux myxoide
+T73	DISO 3146 3206	lymphoedème des glandes salivaires jugulo-clavières distales
+T74	ANAT 3162 3206	glandes salivaires jugulo-clavières distales
+T75	Concept_Idea 3216 3253	caractéristiques anatomopathologiques
+T76	PROC 3290 3304	examen général
+T77	DISO 3335 3395	cygne tuberculé nécrotique carcinomateux malpighien kystique
+T78	ANAT 3526 3552	nerfs thoraciques externes
+T79	Localization 3544 3552	externes
+T81	Localization 3614 3635	maxillaire supérieure
+T82	Localization 3668 3678	bilatérale
+T83	ANAT 3697 3725	segment inféro-latéral droit
+T84	Localization 3720 3725	droit
+T85	ANAT 3745 3801	ganglions axillaires inférieur homolatéraux superficiels
+T87	ANAT 3834 3866	structures centrales pulmonaires
+T88	DISO 3898 3977	tuberculose atrophique hypogastroduodénale métachondriale mucineux hyperalgique
+T90	Localization 4020 4035	médiale interne
+T91	Localization 4048 4054	droite
+T92	ANAT 4065 4088	jumeaux dorsaux gauches
+T93	Localization 4081 4088	gauches
+T94	PROC 4128 4157	radiographie deltoïdienne IRM
+T95	Concept_Idea 4198 4217	caractères généraux
+T96	PHEN 4278 4290	respiratoire
+T97	LIVB 4334 4342	patiente
+T98	DISO 4347 4401	hypocalcémie hémorragique intraventriculaire terminale

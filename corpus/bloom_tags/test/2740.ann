@@ -1,0 +1,88 @@
+T1	LIVB 3 10	patient
+T2	DISO 27 52	antécédents pathologiques
+T3	MEAS 53 61	notables
+T4	PROC 63 73	consultait
+T5	Hospital 78 86	urgences
+T6	DISO 96 118	douleurs du sein droit
+T7	ANAT 108 118	sein droit
+T8	Localization 113 118	droit
+T9	TEMP 128 141	depuis 3 mois
+T10	PROC 145 159	interrogatoire
+T11	DISO 188 210	épanchement péritonéal
+T12	ANAT 200 210	péritonéal
+T13	PHEN 226 246	grossesse gémellaire
+T14	LIVB 256 258	Il
+T15	Concept_Idea 282 310	résultat anatomopathologique
+T16	PROC 316 342	explorations chirurgicales
+T17	PROC 347 361	bilan clinique
+T18	DISO 377 421	syndrome d'épanchement alvéolaire péritonéal
+T19	ANAT 400 421	alvéolaire péritonéal
+T20	DISO 437 480	carcinome vésiculaire thyroïdien infiltrant
+T21	ANAT 447 480	vésiculaire thyroïdien infiltrant
+T22	DISO 482 486	TIVC
+T23	PROC 492 517	scanner abdomino- pelvien
+T24	ANAT 500 517	abdomino- pelvien
+T25	PROC 531 544	TDM pelvienne
+T26	ANAT 535 544	pelvienne
+T27	DISO 564 615	lésion tissulaire hypo échogène polylobée hypodense
+T28	MEAS 625 630	12 cm
+T29	MEAS 635 640	10 cm
+T30	ANAT 673 691	parois abdominales
+T31	PROC 725 734	injection
+T32	CHEM 738 758	produit de contraste
+T33	DISO 780 794	chondromateuse
+T34	MEAS 877 891	interstitielle
+T35	DISO 946 983	adénocarcinome vésiculaire hétérogène
+T36	DISO 1001 1030	kystes ovariaux polymyomateux
+T37	PROC 1035 1065	radio-chimiothérapie adjuvante
+T38	PROC 1168 1193	traitement antibacillaire
+T39	PROC 1261 1293	radiothérapie externe palliative
+T40	LIVB 1328 1336	patients
+T41	Concept_Idea 1374 1386	état général
+T42	PROC 1465 1469	ETFE
+T43	DISO 1507 1537	métastases latéro-péritonéales
+T44	DISO 1570 1593	localisations kystiques
+T45	Concept_Idea 1637 1647	caractères
+T46	MEAS 1648 1659	hétérogènes
+T47	ANAT 1681 1703	tête utérine cervicale
+T48	PROC 1753 1777	diagnostic préopératoire
+T49	CHEM 1928 1941	phénobarbital
+T50	TEMP 2060 2066	16 ans
+T51	DEVI 2185 2191	moyens
+T52	PROC 2228 2244	examen somatique
+T53	PROC 2253 2270	cytopo-synaptique
+T54	DISO 2297 2334	granulome épithélio-gigantocellulaire
+T55	PROC 2572 2625	tomodensitométrie thoraco-abdomino-cérébrale profonde
+T56	ANAT 2590 2625	thoraco-abdomino-cérébrale profonde
+T57	DISO 2650 2786	masse ostéophytique lithiasique angulo-conjonctivale arrondie infiltro-parenchymateuse bourgeonnante pariétale basithoracique bilatérale
+T58	Localization 2776 2786	bilatérale
+T59	ANAT 2807 2845	fosse diaphragmatique sous cave gauche
+T60	Localization 2829 2833	sous
+T61	Localization 2839 2845	gauche
+T62	MEAS 2854 2863	stade III
+T63	PROC 2932 2953	recherche étiologique
+T64	MEAS 2967 2975	négative
+T65	LIVB 3033 3042	patientes
+T66	PROC 3063 3086	radiothérapie adjuvante
+T67	MODE 3100 3122	voie intra-articulaire
+T68	ANAT 3130 3143	massif facial
+T69	ANAT 3149 3162	parois du nez
+T70	ANAT 3164 3192	jugulo-carotidopharyngiennes
+T71	ANAT 3210 3228	membres inférieurs
+T72	DISO 3275 3291	épisodes fébrile
+T73	PHEN 3349 3364	acuité visuelle
+T74	MEAS 3374 3387	plus marquées
+T75	DISO 3403 3435	syndrome d'épanchement liquidien
+T76	ANAT 3426 3435	liquidien
+T77	DISO 3448 3471	anomalies neurologiques
+T78	PROC 3496 3526	échographie abdomino-pélvienne
+T79	ANAT 3508 3526	abdomino-pélvienne
+T80	Hospital 3546 3554	urgences
+T81	PROC 3560 3587	chimiothérapie concomitante
+T82	CHEM 3598 3608	paclitaxel
+T83	CHEM 3614 3627	dexaméthasone
+T84	DISO 3650 3697	hypertrophie grélique péritonéale hypertrophiée
+T85	ANAT 3663 3697	grélique péritonéale hypertrophiée
+T86	MEAS 3732 3740	18x10 cm
+T87	ANAT 3762 3791	muscles graisseux intestinaux
+T88	ANAT 3822 3839	surrénales grêles

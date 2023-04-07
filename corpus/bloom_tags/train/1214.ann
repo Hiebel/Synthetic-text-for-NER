@@ -1,0 +1,37 @@
+T1	LIVB 4 9	femme
+T2	DISO 62 97	néphropathie chronique hypertensive
+T3	PROC 118 140	traitement substitutif
+T4	CHEM 151 164	noradrénaline
+T5	CHEM 167 197	methoxyindobutylchlorpromazine
+T6	CHEM 218 232	neuroleptiques
+T7	PROC 289 295	admise
+T8	Hospital 300 308	urgences
+T9	DISO 328 345	dyspnée purulente
+T10	MEAS 360 371	progressive
+T11	DISO 414 424	malignante
+T12	LIVB 477 485	patiente
+T13	DISO 510 522	vomissements
+T14	DISO 532 555	symptômes neurologiques
+T15	DISO 570 590	syndrome d'épilepsie
+T16	DISO 654 664	ménopausée
+T17	DISO 831 862	traumatisme méningé hypotenseur
+T18	LIVB 890 904	jeunes adultes
+T19	DISO 918 949	pathologies neurosurrénaliennes
+T20	DISO 970 1016	insulinothérapie néphrotéridonnellaire maligne
+T21	DISO 1017 1020	TCM
+T22	DISO 1023 1061	kystes péritumoraux intrahypophysaires
+T23	PROC 1142 1179	prélèvement chirurgical transfixiante
+T24	DISO 1268 1281	foyer tumoral
+T25	DISO 1395 1476	œdème sous-capsulaire inféro-latéral pachycarotidien latérale céphalique infiltré
+T27	MEAS 1488 1503	progressivement
+T28	Concept_Idea 1507 1516	grand axe
+T29	ANAT 1546 1567	structures crâniennes
+T30	DISO 1609 1625	neuroendocrinien
+T31	DISO 1684 1697	craniosténose
+T32	MEAS 1736 1744	13x10 cm
+T33	ANAT 1769 1809	parties molles fronto-pariéto-sylviennes
+T34	ANAT 1870 1895	fosse nasale homolatérale
+T35	Localization 1883 1895	homolatérale
+T36	ANAT 2092 2123	processus graisseux superficiel
+T37	PHEN 2129 2151	suites postopératoires
+T38	MEAS 2158 2165	simples

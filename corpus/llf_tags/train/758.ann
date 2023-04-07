@@ -1,0 +1,36 @@
+T1	LIVB 75 115	Mme HAWARIN GREGORYNEDRAULT THEATEMBOURG
+T3	DEVI 1408 1450	culots rectangulaires insérés manuellement
+T4	MEAS 1473 1490	400 gramme ½×2 cm
+T5	MEAS 1494 1514	650 gramme kg ½×3 cm
+T6	CHEM 1575 1588	antibiotiques
+T7	PROC 1948 1979	bilan étiologique préopératoire
+T8	Concept_Idea 2078 2103	paramètres hémodynamiques
+T9	Concept_Idea 2120 2150	classification pharmacologique
+T10	Concept_Idea 2174 2190	limites d'action
+T11	Concept_Idea 2235 2249	considérations
+T12	LIVB 2253 2263	nouveau-né
+T13	DISO 2349 2366	anorexie primaire
+T14	DISO 2381 2400	syndrome restrictif
+T15	PHEN 2410 2425	fonction rénale
+T16	ANAT 2419 2425	rénale
+T17	MEAS 2426 2432	sévère
+T18	DISO 2448 2467	contage tuberculeux
+T19	PROC 2551 2571	suivi postopératoire
+T20	PROC 2576 2609	traitement diététique substitutif
+T21	LIVB 2650 2657	malades
+T22	TEMP 2667 2674	21 mois
+T23	LIVB 2764 2772	patiente
+T24	DISO 2866 2904	crises convulsives psychotiques aigues
+T25	LIVB 3017 3021	elle
+T26	TEMP 3122 3136	quelques jours
+T27	DISO 3157 3174	dyspnée sifflante
+T28	DISO 3191 3213	lombalgie paroxystique
+T29	PROC 3235 3260	traitement antibacillaire
+T30	Concept_Idea 3483 3495	état général
+T31	DISO 3510 3541	crise convulsive hypercalorique
+T32	DISO 3656 3679	hallucinations tactiles
+T33	DISO 3836 3851	symptomatologie
+T34	LIVB 3859 3861	sa
+T35	PROC 3862 3888	consultation psychiatrique
+T36	LIVB 3943 3970	pseudo-médecins somaticiens
+T37	PROC 4055 4080	traitements médicamenteux

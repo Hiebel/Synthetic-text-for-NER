@@ -1,0 +1,85 @@
+T1	PROC 4 21	tomodensitométrie
+T2	PROC 23 38	TDM) abdominale
+T3	ANAT 28 38	abdominale
+T4	DISO 52 90	masse tissulaire du péritoine pariétal
+T5	ANAT 72 90	péritoine pariétal
+T6	MEAS 94 98	4 cm
+T7	Concept_Idea 102 111	grand axe
+T8	ANAT 135 156	veine cave supérieure
+T9	Localization 146 156	supérieure
+T10	ANAT 162 170	épiploon
+T11	MEAS 181 186	10 mm
+T12	Concept_Idea 190 199	petit axe
+T13	DISO 219 253	processus tissulaire hyperchromaté
+T14	ANAT 271 287	plan sous cutané
+T15	ANAT 302 338	vaisseaux crico-trachéo-oesophagiens
+T16	PROC 343 359	bilan biologique
+T17	PROC 382 399	bilan étiologique
+T18	PROC 411 448	anémie hypochrome microcytaire totale
+T19	MEAS 451 459	9,7 g/dL
+T20	DISO 472 481	anomalies
+T21	PROC 497 522	scanner thoraco-abdominal
+T22	ANAT 505 522	thoraco-abdominal
+T23	PROC 537 546	transfert
+T24	Hospital 550 565	bloc opératoire
+T25	DISO 581 696	adénopathies jugulocarotidiennes jugulaires maxillaires cervicales homolatérales oblongicubérossimales asymétriques
+T27	Localization 648 696	homolatérales oblongicubérossimales asymétriques
+T28	DISO 733 788	carcinose diaphragmatique lobaire inférieure bilatérale
+T30	Localization 778 788	bilatérale
+T31	PROC 843 856	examen direct
+T32	PROC 860 872	radiologique
+T33	PROC 895 920	étude immunohistochimique
+T34	DISO 962 1079	myxomatose réticulo-papillaire congénitale segmentaire achromateuse kératinostructurekystique mésenchymateuse maligne
+T36	PROC 1089 1107	classification IgG
+T37	PHEN 1123 1141	suites opératoires
+T38	MEAS 1150 1157	simples
+T39	TEMP 1167 1192	24ème jour postopératoire
+T40	PROC 1228 1263	résection endobuccale préopératoire
+T41	LIVB 1274 1282	patiente
+T42	Concept_Idea 1291 1296	forme
+T43	DISO 1315 1359	récidive anévrysmale cliniquement impossible
+T44	PROC 1365 1398	tumorectomie exploratrice élargie
+T45	PROC 1427 1548	néphrectomie translaterale bipariétale conventionnelle type Doktornadoïde II monolastriacocytaire insertion scanno-guidée
+T46	PROC 1564 1625	hystérectomie percutanée fractionnée multilocavitaire T2N0F1B
+T47	ANAT 1645 1685	ganglions intra péritonéaux superficiels
+T48	PROC 1719 1748	resection anatomopathologique
+T49	PROC 1792 1839	reconstruction tomodensitométrique extemporanée
+T50	ANAT 1852 1982	vésicules biliaires gastroduodénales postéro-hépatiques sus pelvipedales distales controlatérales médiastinales temporales gauches
+T51	Localization 1975 1982	gauches
+T52	PROC 1997 2017	biopsie histologique
+T54	ANAT 2167 2227	zones charnues conjonctivales métatarsiennes retroendocrines
+T55	DISO 2289 2350	métaplasie trophoblastique mucineuse carcinomateuse primitive
+T56	DISO 2360 2381	malignité myxomatique
+T57	PROC 2397 2419	annexectomie adjuvante
+T58	DEVI 2435 2440	bolus
+T59	CHEM 2444 2467	cyclophosphamide per os
+T61	PROC 2627 2655	oxygénothérapie probabiliste
+T62	DOSE 2691 2700	25 mg /kg
+T63	PROC 2752 2768	bilan biologique
+T64	DISO 2780 2788	anomalie
+T65	PHEN 2795 2804	grossesse
+T66	MEAS 2840 2843	bon
+T67	Concept_Idea 2844 2870	développement psychomoteur
+T68	TEMP 2887 2894	un mois
+T69	LIVB 2899 2907	patiente
+T70	PROC 2922 2952	traitement médical substitutif
+T71	CHEM 2962 3000	imipenèmements hydroxypésulfaméthasone
+T73	Hospital 3041 3072	service de réanimation néonatal
+T74	TEMP 3076 3099	10e jour postopératoire
+T75	TEMP 3105 3123	8 heures plus tard
+T76	DISO 3142 3162	récidive infectieuse
+T77	PROC 3182 3199	geste chirurgical
+T78	MEAS 3232 3242	favorables
+T79	PROC 3247 3276	examen clinique préopératoire
+T80	LIVB 3300 3305	femme
+T81	PROC 3470 3479	admission
+T82	Hospital 3489 3509	établissement public
+T83	LIVB 3513 3515	sa
+T84	LIVB 3516 3527	parturiente
+T86	MEAS 3664 3680	indifférencielle
+T87	LIVB 3735 3737	il
+T88	LIVB 3765 3769	elle
+T89	LIVB 3896 3900	Elle
+T90	PROC 3913 3923	scolarisée
+T91	PROC 4001 4021	mariage contraceptif
+T92	LIVB 4028 4031	lui

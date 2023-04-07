@@ -1,0 +1,10 @@
+T1	DISO 16 37	distension
+T2	ANAT 27 37	thoracique
+T3	MEAS 38 45	diffuse
+T4	ANAT 52 80	fosse
+T5	Localization 74 80	droite
+T6	DISO 96 115	épanchement
+T7	ANAT 108 115	pleural
+T8	LIVB 120 127	patient
+T9	PHEN 132 138	décédé
+T10	TEMP 139 152	après

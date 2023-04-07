@@ -1,0 +1,18 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 28 35	patient
+T3	MEAS 39 42	bon
+T4	Concept_Idea 43 55	état général
+T5	DISO 57 68	polypnéique
+T6	MEAS 71 84	40 cycles/min
+T7	PHEN 90 108	tension artérielle
+T8	ANAT 98 108	artérielle
+T9	MEAS 111 121	120/70mmhg
+T10	DEVI 129 148	pression artérielle
+T12	MEAS 151 161	75/40 mmHg
+T13	PROC 165 195	échographie abdomino-pelvienne
+T14	ANAT 177 195	abdomino-pelvienne
+T15	DISO 222 279	épanchement intracavitaire péritonéal de grande abondance
+T17	PROC 284 301	bilan d'extension
+T18	PROC 317 360	tomodensitométrie du membre inférieur droit
+T19	ANAT 338 360	membre inférieur droit
+T20	Localization 355 360	droit

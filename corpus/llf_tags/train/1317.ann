@@ -1,0 +1,113 @@
+T1	LIVB 16 24	patiente
+T2	DISO 53 64	traumatisme
+T3	ANAT 69 82	épaule droite
+T4	Localization 76 82	droite
+T5	PROC 88 94	examen
+T6	DISO 121 144	déficit sensitivomoteur
+T7	MEAS 149 153	deux
+T8	ANAT 154 160	genoux
+T9	ANAT 174 186	cuir chevelu
+T10	DISO 201 210	dysphagie
+T11	Concept_Idea 232 244	état général
+T12	PROC 250 283	imagerie par résonance magnétique
+T13	PROC 285 288	IRM
+T14	TEMP 302 312	24/08/2017
+T15	PHEN 328 346	suites opératoires
+T16	MEAS 355 362	simples
+T17	PROC 367 387	suivi postopératoire
+T18	Hospital 409 420	psychiatrie
+T19	DISO 449 469	récidive psychotique
+T20	DISO 476 503	détresse neuropsychiatrique
+T21	PROC 508 524	bilan biologique
+T22	MEAS 531 537	normal
+T23	PROC 541 565	échographie obstétricale
+T24	Concept_Idea 575 597	paramètres biologiques
+T25	DISO 619 640	syndrome hémorragique
+T26	DISO 650 666	neurofibromatose
+T27	PROC 672 706	fibroscopie digestive exploratrice
+T28	DISO 739 782	masse trophoblastique tissulaire hétérogène
+T29	ANAT 800 810	rein droit
+T30	Localization 805 810	droit
+T31	MEAS 820 833	environ 15 cm
+T32	Concept_Idea 837 846	grand axe
+T33	MEAS 855 859	8 cm
+T34	Concept_Idea 863 886	 grand axe longitudinal
+T35	ANAT 942 974	parties molles cervicale gauches
+T36	Localization 967 974	gauches
+T37	ANAT 988 1053	aires ganglionnaires cervicales inféro-médio trachéomédiastinales
+T38	Localization 1020 1032	inféro-médio
+T39	ANAT 1093 1132	symphyse lombaire homolatérale fundique
+T40	Localization 1111 1132	homolatérale fundique
+T41	PROC 1139 1165	stabilisation chirurgicale
+T42	DISO 1174 1180	lésion
+T43	MEAS 1190 1204	10 centimètres
+T44	Concept_Idea 1208 1229	petit axe transversal
+T45	ANAT 1258 1307	membranes para vertébro-mandibulaires thoraciques
+T46	DISO 1354 1389	masse tumorale liquidienne arrondie
+T47	ANAT 1404 1422	plans sous cutanés
+T48	DEVI 1437 1448	vis canulée
+T49	PROC 1488 1520	scanner thoraco-abdomino-pelvien
+T50	ANAT 1496 1520	thoraco-abdomino-pelvien
+T51	PROC 1537 1545	contrôle
+T52	DISO 1583 1616	distension pulmonaire péritonéale
+T53	ANAT 1594 1616	pulmonaire péritonéale
+T54	ANAT 1627 1648	structures viscérales
+T55	DISO 1699 1741	processus lésionnel péricardique périrénal
+T56	Concept_Idea 1747 1766	aspect histologique
+T57	DISO 1789 1822	tuberculose tuberculeuse kystique
+T58	DISO 1894 1935	tumeur érythémato-encéphalite infectieuse
+T59	MEAS 1944 1956	initialement
+T60	DISO 1963 1973	méningoïde
+T61	PROC 2038 2054	acte chirurgical
+T62	DISO 2101 2136	lombalgies rhumatismales chroniques
+T63	LIVB 2151 2171	médecins urgentistes
+T64	PROC 2176 2197	recherche étiologique
+T65	DISO 2262 2288	maladie cœliaque primitive
+T66	DISO 2294 2304	cholestase
+T67	CHEM 2305 2315	Isoniazide
+T68	CHEM 2317 2328	Ceftriaxone
+T69	CHEM 2330 2343	Erythromycine
+T70	CHEM 2345 2355	Cisplatine
+T71	CHEM 2357 2368	Gentamicine
+T72	CHEM 2370 2378	Aspirine
+T73	CHEM 2380 2397	Acide salicylique
+T74	CHEM 2399 2415	Vinyl Alcoolique
+T75	CHEM 2417 2427	Furosémide
+T76	CHEM 2429 2450	Chlorure de potassium
+T77	CHEM 2452 2461	Magnésium
+T78	CHEM 2463 2489	Pénicilline acide acétique
+T79	CHEM 2491 2505	Hydrocortisone
+T80	CHEM 2507 2528	Doxorubicine agoniste
+T81	CHEM 2530 2543	Triméthoprime
+T82	CHEM 2545 2557	Simvastatine
+T83	CHEM 2559 2570	Glucantime®
+T84	CHEM 2572 2586	Bêtalactamines
+T85	CHEM 2593 2603	Lasilixole
+T86	DISO 2643 2672	symptômes neuropsychiatriques
+T87	PROC 2780 2799	traitement adjuvant
+T88	CHEM 2838 2850	Kétoconazole
+T89	DOSE 2852 2858	400 mg
+T90	TEMP 2858 2863	/jour
+T91	CHEM 2868 2879	Paracétamol
+T92	DOSE 2881 2887	250 mg
+T93	TEMP 2887 2889	/j
+T94	PROC 2971 2995	traitements substitutifs
+T95	Concept_Idea 3166 3191	paramètres toxicologiques
+T96	DISO 3397 3431	crises convulsives tonicocloniques
+T97	DISO 3469 3488	sensations fébriles
+T98	PROC 3573 3599	rééducation motrice totale
+T99	PROC 3634 3663	prise en charge préopératoire
+T100	Concept_Idea 3679 3706	concepts anthropomorphiques
+T101	PROC 3729 3749	suivi postopératoire
+T102	PROC 3822 3851	exercices physiques intensifs
+T103	PROC 3860 3912	séances de kinésithérapie axées scoliotiques simples
+T104	PROC 3925 3949	bilan diététique martial
+T105	PROC 3962 4011	régime pauvre en graisses minérales intraveineuse
+T106	PROC 4025 4087	néphrostomie exploratrice monophasique double T1 bipédiculaire
+T107	PROC 4123 4150	examen anatomo-pathologique
+T108	MEAS 4218 4225	simples
+T109	PHEN 4247 4256	grossesse
+T110	PROC 4267 4292	surveillance radiologique
+T111	PROC 4296 4309	hématologique
+T112	MEAS 4404 4410	1500cc
+T113	MEAS 4414 4420	1050cc

@@ -1,0 +1,43 @@
+T1	LIVB 3 9	garçon
+T2	TEMP 13 19	12 ans
+T3	Hospital 39 47	urgences
+T4	DISO 67 88	détresse respiratoire
+T5	PHEN 76 88	respiratoire
+T6	TEMP 98 116	depuis trois jours
+T7	DISO 156 203	sensibilité jugulo-carotidienne latérale droite
+T8	ANAT 168 203	jugulo-carotidienne latérale droite
+T9	Localization 197 203	droite
+T10	MEAS 219 234	progressivement
+T11	Concept_Idea 238 244	volume
+T12	DISO 262 285	syndrome d’hyperthermie
+T13	PROC 314 345	échographie abdomino- pelvienne
+T14	ANAT 326 345	abdomino- pelvienne
+T15	PROC 352 384	scanner thoraco-abdomino-pelvien
+T16	ANAT 360 384	thoraco-abdomino-pelvien
+T17	DISO 458 495	traumatisme crânio-faciale ischémique
+T18	LIVB 515 522	enfants
+T19	DISO 540 555	symptomatologie
+T20	MEAS 592 607	progressivement
+T21	Concept_Idea 611 617	volume
+T22	DISO 653 665	métastatique
+T23	PROC 675 693	traitement curatif
+T24	CHEM 722 779	antiépiganglionnaire alpha 2 hydroxy-chlorodésyluronamide
+T25	DOSE 781 786	20 mg
+T26	CHEM 833 903	médicaments antiépiganglionnateursalpha 2hydroxy-chloro-désyluronamide
+T27	DEVI 916 961	stimulateur ventilatoire artificiel mécanique
+T28	DISO 1178 1193	symptomatologie
+T29	MEAS 1447 1459	spontanément
+T30	TEMP 1476 1481	un an
+T31	MEAS 1556 1581	difficilement appréciable
+T32	DISO 1984 1999	symptomatologie
+T33	DISO 2678 2695	œil hypertrophiés
+T34	MEAS 2789 2807	10 000 millilitres
+T35	PROC 2821 2843	examen ophtalmologique
+T36	Concept_Idea 2860 2875	acuité visuelle
+T37	ANAT 2890 2922	nerf oculomoteur inférieur droit
+T38	Localization 2917 2922	droit
+T39	ANAT 2954 2963	sinusiens
+T40	ANAT 2965 2979	surrénaliennes
+T41	ANAT 2987 3001	conjonctivales
+T42	PROC 3017 3032	examen clinique
+T43	DISO 3044 3057	particularité

@@ -1,0 +1,16 @@
+T1	LIVB 19 26	patient
+T2	DISO 42 67	antécédents pathologiques
+T3	MEAS 68 76	notables
+T4	DISO 97 122	tuméfaction du sein droit
+T5	ANAT 112 122	sein droit
+T6	Localization 117 122	droit
+T7	MEAS 134 149	progressivement
+T8	Concept_Idea 152 158	aspect
+T9	Concept_Idea 165 171	taille
+T10	TEMP 181 197	depuis deux mois
+T11	PROC 202 218	bilan biologique
+T13	ANAT 251 267	parathyroïdienne
+T14	PROC 272 296	laparotomie exploratrice
+T15	DISO 313 335	épanchement péritonéal
+T16	ANAT 325 335	péritonéal
+T17	PROC 345 371	examen anatomopathologique

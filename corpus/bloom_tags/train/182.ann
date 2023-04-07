@@ -1,0 +1,25 @@
+T1	LIVB 4 9	femme
+T2	DISO 44 87	méningoencephalopathie érythémato-nodulâtre
+T3	TEMP 97 110	depuis 4 mois
+T4	PROC 126 151	examen clinique somatique
+T5	DISO 182 202	signes neurologiques
+T6	DISO 222 251	syndrome hémiplégico-revoyeur
+T7	DISO 261 288	anomalies sensitivomotrices
+T8	DISO 322 344	chirurgie sous cutanée
+T9	Localization 332 336	sous
+T10	MEAS 407 431	progressivement marquées
+T11	DISO 448 474	troubles sensitivo-moteurs
+T12	LIVB 640 643	ses
+T13	LIVB 704 707	ses
+T14	Concept_Idea 803 827	activité professionnelle
+T15	MEAS 838 844	70-80%
+T16	LIVB 871 875	Elle
+T17	PROC 895 929	traitement adjuvant antibacillaire
+T18	PROC 952 978	radiothérapie encéphalique
+T19	TEMP 995 1000	9 ans
+T20	MEAS 1173 1188	progressivement
+T21	Concept_Idea 1192 1198	volume
+T22	MODE 1241 1246	bolus
+T23	CHEM 1250 1268	méthylprednisolone
+T24	DOSE 1271 1279	0,5mg/kg
+T25	TEMP 1279 1284	/jour

@@ -1,0 +1,27 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	DISO 38 63	antécédents pathologiques
+T4	MEAS 64 72	notables
+T5	PROC 74 85	hospitalisé
+T6	Hospital 90 98	urgences
+T7	DISO 108 142	douleurs abdominales constrictives
+T8	ANAT 117 128	abdominales
+T9	TEMP 152 168	depuis deux mois
+T10	DISO 185 191	fièvre
+T11	MEAS 203 207	39°C
+T12	PROC 211 226	examen clinique
+T13	LIVB 243 249	enfant
+T14	Concept_Idea 274 292	plan hémodynamique
+T15	PHEN 296 308	respiratoire
+T16	DISO 332 361	sensibilité pelvienne diffuse
+T18	PROC 366 396	bilan biologique préopératoire
+T19	PROC 410 441	échographie abdomino- pelvienne
+T20	ANAT 422 441	abdomino- pelvienne
+T21	PROC 443 446	ECP
+T22	CHEM 448 458	Gadolinium
+T23	ANAT 494 529	péritoine pariétal utéro-myométrial
+T24	MEAS 539 543	6 cm
+T25	Concept_Idea 547 556	grand axe
+T26	ANAT 573 614	muscles paravertébroïdiens antérolatéraux
+T27	ANAT 627 639	ovaire droit
+T28	Localization 634 639	droit

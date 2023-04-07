@@ -1,0 +1,71 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 33 38	3 ans
+T3	DISO 62 96	symptomatologie neuropsychiatrique
+T4	DISO 122 145	phénomène psychomotrice
+T5	PHEN 150 165	acuité visuelle
+T6	MEAS 180 184	1/10
+T7	MEAS 224 228	4/10
+T8	MEAS 263 267	5/10
+T9	ANAT 282 294	conjonctives
+T10	ANAT 324 343	hallux oculomoteurs
+T11	ANAT 358 398	aires ganglionnaires cervico-thoraciques
+T12	MEAS 404 413	négatives
+T13	PROC 418 432	bilan clinique
+T14	LIVB 449 459	nouveau-né
+T15	PROC 477 498	scintigraphie cutanée
+T16	ANAT 491 498	cutanée
+T17	PROC 543 568	étude anatomopathologique
+T18	DISO 607 644	lésions cutanées érythémato grêliques
+T19	ANAT 669 693	région crânio-céphalique
+T20	MEAS 717 721	12cm
+T21	MEAS 725 729	13cm
+T22	PROC 854 884	ponction nasopharyngo-laryngée
+T23	ANAT 863 884	nasopharyngo-laryngée
+T24	DISO 904 920	syndrome méningé
+T25	DISO 931 952	anomalie histologique
+T26	PROC 967 991	contrôle scannographique
+T27	PROC 998 1015	mise en condition
+T28	PROC 1021 1034	antibiogramme
+T29	DISO 1103 1127	symptomatologie sinusale
+T30	MEAS 1145 1151	normal
+T31	Concept_Idea 1164 1184	aspect morphologique
+T32	PROC 1226 1264	prise en charge adjuvante chirurgicale
+T33	PROC 1270 1294	laparotomie exploratrice
+T34	DISO 1321 1342	malignité infectieuse
+T35	PROC 1376 1385	admission
+T36	DEVI 1392 1412	microscanner externe
+T37	PROC 1427 1449	traitement chirurgical
+T38	PROC 1467 1507	séances de rééducation motrice axillaire
+T39	CHEM 1550 1561	Paclitaxel®
+T40	PROC 1566 1575	précipité
+T41	PROC 1629 1657	chimiothérapie néo adjuvante
+T42	PROC 1669 1695	consultation préopératoire
+T43	CHEM 1726 1738	prédnisolone
+T44	CHEM 1778 1798	neuroleptiques oraux
+T45	Concept_Idea 1909 1930	méthode contraceptive
+T46	PROC 1953 1984	surveillance radio anamnestique
+T47	PROC 2082 2121	séances de rééducation motrice curative
+T48	PROC 2162 2172	transférés
+T49	Concept_Idea 2183 2214	antécédents médico-chirurgicaux
+T50	MEAS 2233 2245	particuliers
+T51	LIVB 2650 2657	patient
+T52	PHEN 2670 2696	développement psychomoteur
+T53	Hospital 2801 2822	urgences pédiatriques
+T54	Hospital 2826 2876	Centre Hospitalier Universitaire Yalgado Ouédraogo
+T55	PROC 2887 2892	suivi
+T56	Hospital 2896 2911	bloc opératoire
+T57	PROC 2917 2945	antibiothérapie probabiliste
+T58	TEMP 2993 2999	6 mois
+T59	PROC 3006 3024	traitement initial
+T60	Concept_Idea 3054 3077	plan neuropsychiatrique
+T61	LIVB 3089 3097	patiente
+T62	MEAS 3208 3217	favorable
+T63	ANAT 3263 3279	idées délirantes
+T64	Localization 3412 3425	dérivé gauche
+T65	PROC 3535 3559	monitorage morphologique
+T66	PROC 3588 3609	soins postopératoires
+T67	PROC 3622 3660	rééducation motrice multidisciplinaire
+T68	PROC 3681 3725	séances de rééducation motrice locorégionale
+T69	PROC 3739 3767	curiethrectomie exploratrice
+T70	DISO 3778 3807	symptomatologie psychiatrique
+T71	PROC 3879 3902	contrôles radiologiques

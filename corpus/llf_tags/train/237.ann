@@ -1,0 +1,69 @@
+T1	LIVB 4 9	femme
+T2	Hospital 45 66	urgences pédiatriques
+T3	DISO 86 102	crise convulsive
+T4	TEMP 112 126	depuis 3 jours
+T5	Concept_Idea 173 176	nom
+T6	LIVB 180 182	sa
+T7	LIVB 183 197	belle-soeur AE
+T8	Concept_Idea 270 278	attirail
+T9	PROC 304 314	transférée
+T11	CHEM 362 376	céphalosporine
+T12	CHEM 380 411	amoxicilline acide clavulanique
+T13	DOSE 433 439	5mg/kg
+T14	TEMP 439 441	/j
+T15	DISO 462 502	symptomatologie neuropsychiatrique aiguë
+T16	DISO 522 541	trouble psychotique
+T17	PROC 545 564	enquête étiologique
+T18	LIVB 753 760	enfants
+T19	TEMP 777 782	3 ans
+T20	DISO 846 885	traumatisme cervico-crânio-mandibulaire
+T21	LIVB 956 963	Mme B.F
+T22	MEAS 976 977	7
+T23	LIVB 978 985	enfants
+T24	LIVB 1028 1031	son
+T25	LIVB 1032 1036	père
+T26	LIVB 1076 1099	chirurgien orthopédique
+T27	LIVB 1147 1154	famille
+T28	PROC 1194 1217	contrôles locorégionaux
+T29	Concept_Idea 1244 1266	résultats chirurgicaux
+T30	PROC 1282 1294	intervention
+T31	LIVB 1512 1519	Mlle GB
+T32	PROC 1524 1534	consultait
+T33	Concept_Idea 1556 1574	état hémodynamique
+T34	DISO 1599 1630	désorientation temporo-spaciale
+T35	DISO 1693 1729	accident vasculaire céphalorachidien
+T36	DISO 1757 1787	déficit sensitivomoteur moteur
+T37	DISO 1802 1823	distension palpébrale
+T38	ANAT 1813 1823	palpébrale
+T39	Localization 1835 1854	de façon bilatérale
+T40	PROC 1868 1889	remplissage aspiratif
+T41	DISO 1941 1972	stress cognitivo-comportemental
+T42	LIVB 2015 2020	notre
+T43	LIVB 2021 2039	médecin urgentiste
+T44	LIVB 2104 2107	ses
+T46	DISO 2359 2390	dysfonctionnement psychomotrice
+T47	LIVB 2402 2410	patiente
+T48	LIVB 2419 2423	elle
+T49	CHEM 2433 2448	antidépresseurs
+T50	MODE 2522 2546	pharmacies intraveineuse
+T51	DEVI 2604 2625	tableau télékinétique
+T52	LIVB 2728 2730	sa
+T53	LIVB 2731 2742	parturiente
+T54	LIVB 2791 2794	lui
+T55	LIVB 2844 2847	ils
+T56	MEAS 2978 2988	favorables
+T57	LIVB 3078 3085	malades
+T58	PROC 3191 3222	traitement hormonal substitutif
+T59	DOSE 3224 3232	25 mg/kg
+T60	TEMP 3232 3234	/j
+T61	LIVB 3240 3245	femme
+T62	CHEM 3284 3298	amitrazolamide
+T63	DOSE 3299 3305	2mg/kg
+T64	TEMP 3305 3307	/j
+T65	PROC 3682 3696	suivi adjuvant
+T66	PROC 3710 3748	étude rétrospective multidisciplinaire
+T67	PHEN 3807 3829	grossesses gémellaires
+T68	TEMP 3867 3873	8 mois
+T69	TEMP 3876 3881	3 ans
+T70	PROC 3920 3940	récepteurs hormonaux
+T71	Concept_Idea 3961 3997	caractéristiques sociodémographiques

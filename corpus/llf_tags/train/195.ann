@@ -1,0 +1,100 @@
+T1	LIVB 20 28	patiente
+T2	DISO 49 74	antécédents pathologiques
+T3	MEAS 75 87	particuliers
+T4	PROC 98 104	admise
+T5	Hospital 108 128	service des urgences
+T6	DISO 138 144	fièvre
+T7	TEMP 154 175	depuis quelques jours
+T8	PROC 181 196	examen physique
+T9	LIVB 201 209	patiente
+T10	Concept_Idea 219 231	état général
+T11	MEAS 232 244	satisfaisant
+T12	PROC 260 275	examen clinique
+T13	DISO 287 296	anomalies
+T14	PROC 301 322	radiographie du genou
+T15	ANAT 317 322	genou
+T16	DISO 359 404	processus tissulaire anéchogène hétéro-distal
+T17	MEAS 413 417	2 cm
+T18	Concept_Idea 421 430	grand axe
+T19	Localization 439 453	partie distale
+T20	PROC 457 476	électrocardiogramme
+T21	DISO 492 505	particularité
+T22	DISO 509 528	syndrome restrictif
+T23	PROC 533 556	ponction nasofibratoire
+T24	ANAT 542 556	nasofibratoire
+T25	PROC 558 562	FOGD
+T26	Concept_Idea 594 611	aspects cliniques
+T27	LIVB 638 646	patiente
+T28	PHEN 652 670	suites opératoires
+T29	MEAS 679 686	simples
+T30	Hospital 706 714	urgences
+T31	TEMP 717 719	J1
+T32	PROC 725 734	admission
+T33	PROC 740 760	anticoagulants oraux
+T34	CHEM 765 796	amoxicilline acide clavulanique
+T35	CHEM 800 824	acide acétyle glutamique
+T36	DEVI 840 866	corticoïde non fractionnés
+T37	DOSE 873 876	5 g
+T38	PROC 969 993	bilan neuropsychiatrique
+T39	PROC 1045 1064	traitement adjuvant
+T40	PROC 1085 1117	scanner thoraco-abdomino-pelvien
+T41	ANAT 1093 1117	thoraco-abdomino-pelvien
+T42	PROC 1138 1167	prise en charge psychiatrique
+T43	DISO 1187 1224	déficit sensitivomoteur psychomotrice
+T44	DISO 1239 1264	symptomatologie somatique
+T45	Concept_Idea 1279 1305	plan perceptivo-émotionnel
+T46	ANAT 1325 1335	artérielle
+T47	MEAS 1338 1350	110/50 mm Hg
+T48	ANAT 1360 1370	artérielle
+T49	ANAT 1409 1421	pyrazinienne
+T50	PROC 1981 2014	néphrectomie totale scanno-guidée
+T51	PROC 2037 2071	antibioprophylaxie antibiochimique
+T52	PROC 2087 2135	perfusion intraveineuse parentérale substitutive
+T53	PROC 2149 2171	laparotomie percutanée
+T54	PROC 2185 2221	curage ganglionnaire cervico-vaginal
+T55	PROC 2282 2309	prélèvement bactériologique
+T56	PROC 2313 2332	immunohistochimique
+T57	PROC 2364 2388	examens microbiologiques
+T58	DISO 2425 2454	récidive tuberculeuse maligne
+T59	PROC 2472 2497	étude cytobactériologique
+T60	DISO 2634 2657	infections nosocomiales
+T61	DISO 2750 2772	crise convulsive aigüe
+T62	PROC 2843 2870	examen anatomo-pathologique
+T63	DISO 2902 2920	cellules tumorales
+T64	ANAT 2932 2943	rein utérin
+T65	DISO 2998 3036	adénocarcinome éosinophile épidermoïde
+T66	DISO 3045 3101	carcinome papillomateux carcinomateux sarcomateux cutané
+T67	MEAS 3103 3111	stade II
+T68	LIVB 3117 3125	patiente
+T69	CHEM 3142 3173	amoxicilline acide clavulanique
+T70	MODE 3178 3188	voie orale
+T71	Concept_Idea 3212 3249	antécédent médico-chimiothérapeutique
+T72	PROC 3290 3309	électrocardiogramme
+T73	PHEN 3330 3350	grossesse gémellaire
+T74	TEMP 3361 3366	38 SA
+T75	MEAS 3389 3401	1450 grammes
+T76	MEAS 3405 3416	510 grammes
+T77	MEAS 3425 3442	4500 milliseconds
+T78	MEAS 3448 3468	5760 millimètre cube
+T79	Concept_Idea 3476 3492	tableau clinique
+T80	Localization 3506 3517	tête fœtale
+T81	MEAS 3527 3540	6 centimètres
+T82	MEAS 3550 3564	12 centimètres
+T83	PROC 3587 3620	scanner thoraco- abdomino-pelvien
+T84	ANAT 3595 3620	thoraco- abdomino-pelvien
+T85	MEAS 3632 3638	normal
+T86	PROC 3651 3665	électrophorèse
+T87	PROC 3697 3725	prise en charge chirurgicale
+T88	LIVB 3737 3743	malade
+T89	TEMP 3811 3817	7 mois
+T90	DISO 3830 3871	symptômes neuropsychiatriques congénitaux
+T91	PROC 3904 3927	contrôles radiologiques
+T92	DISO 3947 3971	trouble sensitivo-moteur
+T93	PROC 4075 4086	opératoires
+T94	DEVI 4112 4145	produits médicinaux probabilistes
+T95	Hospital 4173 4209	suppléments antalgiques rhumatismaux
+T96	CHEM 4215 4242	Amoxicilline Hydrocortisone
+T97	DOSE 4243 4251	1 gramme
+T98	TEMP 4251 4255	/24h
+T99	TEMP 4266 4270	/24h
+T100	TEMP 4280 4284	/24h

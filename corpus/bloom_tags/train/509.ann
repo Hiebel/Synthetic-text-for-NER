@@ -1,0 +1,25 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	6 ans
+T3	PHEN 36 42	pesant
+T4	MEAS 43 48	20 kg
+T5	PROC 61 70	admission
+T6	Hospital 75 96	urgences pédiatriques
+T7	DISO 115 138	agitation psychomotrice
+T8	TEMP 148 166	depuis trois jours
+T9	DISO 198 237	sensation d'épanchement intrapéritonéal
+T10	ANAT 222 237	intrapéritonéal
+T11	MEAS 290 296	rapide
+T12	MEAS 310 317	majeure
+T13	MODE 339 349	voie orale
+T14	MEAS 362 373	progressive
+T15	LIVB 458 468	nouveau-né
+T16	DISO 510 516	fièvre
+T17	MEAS 528 534	40 ° C
+T18	DISO 555 584	symptômes neuropsychiatriques
+T19	DISO 598 620	hypotension artérielle
+T20	ANAT 610 620	artérielle
+T21	MEAS 638 645	15 mmhg
+T22	DISO 739 759	prise médicamenteuse
+T23	DEVI 845 875	sonde œsophagienne monochambre
+T25	DOSE 935 941	200 mg
+T26	PROC 999 1008	injection

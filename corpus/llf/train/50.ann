@@ -1,0 +1,13 @@
+T1	PROC 24 44	observation
+T2	Hospital 62 85	service
+T3	Hospital 91 108	hôpital
+T4	TEMP 133 143	deux
+T5	TEMP 154 169	un
+T6	PROC 178 203	intervention
+T7	DISO 229 244	récidive
+T8	Localization 238 244	locale
+T9	DISO 249 265	lésions
+T10	ANAT 257 265	cutanées
+T11	ANAT 279 291	cuir
+T12	LIVB 337 344	malades
+T13	PROC 345 369	traités

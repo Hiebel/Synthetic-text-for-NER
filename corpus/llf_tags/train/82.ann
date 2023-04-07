@@ -1,0 +1,13 @@
+T1	PROC 3 20	tomodensitométrie
+T2	PROC 22 37	TDM) abdominale
+T3	ANAT 27 37	abdominale
+T4	DISO 54 82	masse tissulaire du pancréas
+T5	ANAT 74 82	pancréas
+T6	MEAS 92 96	7 cm
+T7	Concept_Idea 100 109	grand axe
+T8	PHEN 115 133	suites opératoires
+T9	MEAS 142 149	simples
+T10	LIVB 156 164	patiente
+T11	TEMP 191 193	J5
+T12	PROC 199 209	opératoire
+T13	TEMP 227 232	2 ans

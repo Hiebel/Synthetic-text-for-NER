@@ -1,0 +1,62 @@
+T1	LIVB 15 25	nourrisson
+T2	TEMP 29 36	10 mois
+T3	DISO 49 66	union consanguine
+T4	Concept_Idea 72 75	age
+T5	TEMP 79 84	3 ans
+T6	PROC 94 100	admise
+T7	Hospital 109 129	service des urgences
+T8	Hospital 133 140	CHU-HKM
+T9	DISO 150 156	fièvre
+T10	TEMP 179 193	depuis 8 jours
+T11	DISO 202 223	syndrome hémorragique
+T12	DISO 239 266	symptôme neuropsychiatrique
+T13	DISO 277 294	signes somatiques
+T14	PROC 307 322	examen clinique
+T15	PROC 327 336	admission
+T16	LIVB 353 363	nouveau-né
+T17	MEAS 367 374	mauvais
+T18	Concept_Idea 375 387	état général
+T19	ANAT 394 406	conjonctives
+T20	MEAS 415 421	saines
+T21	DISO 443 452	dysphagie
+T22	DISO 462 476	déficit moteur
+T23	DISO 493 513	fistule anictérielle
+T24	PROC 527 554	bilan radiologique standard
+T25	DISO 591 640	masse tissulaire érectile hypoéchogène hétérogène
+T26	MEAS 650 654	2 cm
+T27	Concept_Idea 658 666	diamètre
+T28	MEAS 675 679	5 cm
+T29	Concept_Idea 683 690	largeur
+T30	Localization 699 715	portion proximal
+T31	PROC 740 749	palpation
+T32	Concept_Idea 765 781	plan superficiel
+T33	Concept_Idea 808 816	quantité
+T34	PHEN 821 836	acuité visuelle
+T35	MEAS 853 857	6/10
+T36	MEAS 888 892	9/10
+T37	DEVI 942 952	fond d’œil
+T38	MEAS 997 1002	15/10
+T39	MEAS 1006 1010	8/10
+T40	PROC 1026 1043	geste chirurgical
+T41	PROC 1048 1082	numération formule sanguine totale
+T42	DISO 1096 1112	hyperleucocytose
+T43	MEAS 1115 1137	17000 leucocytes /mm 3
+T44	MEAS 1143 1163	2100 fois la normale
+T46	PROC 1209 1241	traitement palliatif substitutif
+T47	CHEM 1247 1261	gentaméthasone
+T48	DISO 1324 1346	carcinomes tuberculeux
+T49	LIVB 1379 1382	son
+T50	LIVB 1383 1389	enfant
+T51	DISO 1394 1433	insuffisance rénale chronique terminale
+T52	PROC 1454 1465	hémodialyse
+T53	PROC 1471 1491	reprise chirurgicale
+T54	PROC 1504 1540	transfibroscopie digestive mécanique
+T55	PROC 1554 1583	anticoagulation intraveineuse
+T56	Concept_Idea 1602 1617	plan biologique
+T57	DISO 1633 1653	hypertriglycéridémie
+T58	MEAS 1656 1677	1,02 gramme par litre
+T59	DISO 1692 1704	pancytopénie
+T60	MEAS 1707 1727	0,55gramme par litre
+T61	PROC 1742 1756	protéinorachie
+T62	MEAS 1771 1800	134 mg mlol/kg poids corporel
+T63	PROC 1810 1839	prélèvements bactériologiques

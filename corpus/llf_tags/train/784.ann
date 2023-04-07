@@ -1,0 +1,17 @@
+T1	PROC 4 21	tomodensitométrie
+T2	PROC 23 45	TDM) thoraco-abdominal
+T3	ANAT 28 45	thoraco-abdominal
+T4	DISO 65 114	processus tissulaire de la veine jugulaire droite
+T5	ANAT 92 114	veine jugulaire droite
+T6	Localization 108 114	droite
+T7	Concept_Idea 117 126	épaisseur
+T8	MEAS 127 135	variable
+T9	MEAS 146 150	3 cm
+T10	Concept_Idea 154 163	grand axe
+T11	LIVB 168 175	patient
+T12	PROC 191 214	traitement antibiotique
+T13	CHEM 202 214	antibiotique
+T14	CHEM 225 239	ciprofloxacine
+T15	MEAS 261 270	favorable
+T16	DISO 296 325	symptômes neuropsychiatriques
+T17	TEMP 333 358	2 ème mois postopératoire

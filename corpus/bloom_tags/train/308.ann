@@ -1,0 +1,28 @@
+T1	LIVB 20 28	patiente
+T2	DISO 50 75	antécédents pathologiques
+T3	MEAS 76 84	notables
+T4	PROC 88 103	examen clinique
+T5	PROC 108 117	admission
+T6	LIVB 135 143	patiente
+T7	MEAS 147 150	bon
+T8	Concept_Idea 151 163	état général
+T9	DISO 165 176	polypnéique
+T10	MEAS 179 192	32 cycles/min
+T11	PHEN 201 206	pouls
+T12	MEAS 216 227	70 batt/min
+T13	ANAT 241 250	artériels
+T14	ANAT 264 286	membre inférieur droit
+T15	Localization 281 286	droit
+T16	PROC 307 316	injection
+T17	CHEM 320 340	produit de contraste
+T18	DOSE 342 349	10ml/kg
+T19	TEMP 349 355	/heure
+T20	DISO 395 428	syndrome d'épanchement péritonéal
+T21	ANAT 418 428	péritonéal
+T22	PROC 442 467	tension artérielle pulsée
+T23	ANAT 450 467	artérielle pulsée
+T24	MEAS 484 494	100/60mmhg
+T25	DEVI 502 526	scanner abdomino-pelvien
+T26	ANAT 510 526	abdomino-pelvien
+T27	MEAS 538 548	90/40 mmHg
+T28	Hospital 564 589	techniques thérapeutiques

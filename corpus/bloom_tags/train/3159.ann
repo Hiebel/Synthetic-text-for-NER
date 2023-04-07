@@ -1,0 +1,31 @@
+T1	LIVB 4 15	jeune femme
+T2	TEMP 24 30	22 ans
+T3	PROC 35 40	reçue
+T4	Hospital 45 53	urgences
+T5	DISO 73 116	traumatisme crânien hémorragique ischémique
+T6	DISO 142 171	accident médiocérébro-lunaire
+T7	DISO 187 208	détresse respiratoire
+T8	PHEN 196 208	respiratoire
+T9	MEAS 223 234	progressive
+T10	CHEM 240 253	pénicilline G
+T11	MODE 258 276	voie intraveineuse
+T12	LIVB 299 302	son
+T13	LIVB 303 311	patiente
+T14	DISO 318 343	insuffisance rénale aiguë
+T15	ANAT 331 343	rénale aiguë
+T16	DEVI 408 427	cathéter thoracique
+T17	ANAT 417 427	thoracique
+T18	PROC 497 527	traitement médical substitutif
+T19	CHEM 540 555	metaméthoxazole
+T20	CHEM 558 579	sulfamyleprednisolone
+T21	LIVB 629 631	on
+T22	CHEM 1041 1054	dexaméthasone
+T23	ANAT 1303 1322	membranes cervicale
+T24	LIVB 1720 1726	malade
+T25	PROC 1916 1935	médication curative
+T26	DISO 2063 2091	symptomatologie hypertensive
+T27	DISO 2131 2165	syndrome d’hypertension artérielle
+T28	ANAT 2155 2165	artérielle
+T29	DISO 2215 2236	pathologies associées
+T30	DISO 2248 2272	hyperthyroïdie nodulaire
+T31	DISO 2285 2328	localisations secondaires thromboemboliques

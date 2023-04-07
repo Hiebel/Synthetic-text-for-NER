@@ -1,0 +1,28 @@
+T1	LIVB 4 7	H.A
+T2	PHEN 24 34	primigeste
+T3	MEAS 46 50	cinq
+T4	LIVB 51 58	enfants
+T5	TEMP 68 72	1 an
+T6	Hospital 104 112	urgences
+T7	DISO 131 145	amaigrissement
+T8	MEAS 156 161	18 kg
+T9	CHEM 167 186	béta lactoglobuline
+T10	DISO 267 283	tumeur ovarienne
+T11	ANAT 274 283	ovarienne
+T12	DISO 307 327	hypootrophie utérine
+T13	ANAT 320 327	utérine
+T14	TEMP 337 353	depuis deux mois
+T15	DISO 392 413	douleur hypogastrique
+T16	ANAT 400 413	hypogastrique
+T17	MEAS 428 434	rapide
+T18	DEVI 464 488	cathéter rectosigmoïdien
+T19	ANAT 473 488	rectosigmoïdien
+T20	LIVB 512 516	elle
+T21	DISO 531 551	confusions visuelles
+T22	DISO 618 638	souffrance néonatale
+T23	DISO 664 685	troubles oculomoteurs
+T24	DISO 736 751	symptomatologie
+T25	PROC 903 907	suvu
+T26	LIVB 914 918	elle
+T27	PROC 1029 1073	consultation obstétricale pluridisciplinaire
+T28	LIVB 1095 1101	femmes

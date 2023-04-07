@@ -1,0 +1,88 @@
+T1	LIVB 15 25	nouveau-né
+T2	TEMP 50 56	4 mois
+T3	PROC 61 77	bilan biologique
+T4	DISO 89 119	anémie hypochrome microcytaire
+T5	MEAS 122 129	7,5g/dL
+T6	Concept_Idea 131 133	VN
+T7	MEAS 136 144	2,6 g/dL
+T8	PHEN 151 169	suites opératoires
+T9	MEAS 178 185	simples
+T10	PROC 194 215	rendez-vous prénatale
+T11	TEMP 219 242	10e jour postopératoire
+T12	PROC 258 288	ouverture du cordon ombilicale
+T13	ANAT 271 288	cordon ombilicale
+T14	PROC 295 348	libération des voies biliaires intrahépato-pelviennes
+T15	PROC 352 377	étude anatomopathologique
+T16	DISO 399 424	léiomyome polypoïde équin
+T17	DISO 430 453	remaniements tissulaire
+T18	DISO 463 485	anomalie morphologique
+T19	ANAT 504 510	utérus
+T20	PROC 516 540	laparotomie exploratrice
+T21	LIVB 568 578	nouveau-né
+T22	Localization 601 608	médiane
+T23	DISO 633 656	adhérences péritonéales
+T24	PROC 670 709	hystérectomie endobuccale scanno-guidée
+T25	DISO 745 766	récidive métastatique
+T26	DISO 777 803	lésions kystiques malignes
+T27	PROC 808 825	tomodensitométrie
+T28	DISO 852 874	prolifération tumorale
+T29	DISO 893 916	localisation secondaire
+T30	DISO 943 971	métastase abdomino-pelvienne
+T31	ANAT 953 971	abdomino-pelvienne
+T32	LIVB 992 997	homme
+T33	PROC 1016 1021	suivi
+T34	Hospital 1026 1047	urgences pédiatriques
+T35	DISO 1059 1083	choc anaphylactique aigu
+T36	TEMP 1097 1116	15 jours auparavant
+T37	DISO 1160 1250	tuméfaction fémoro-mandibulaire cervico-thoraco abdomino-péritonéale postéro-latéral droit
+T38	ANAT 1172 1250	fémoro-mandibulaire cervico-thoraco abdomino-péritonéale postéro-latéral droit
+T39	Localization 1245 1250	droit
+T40	TEMP 1260 1280	depuis deux semaines
+T41	DISO 1295 1382	distension abdomo-mandibulaire lombaire gauchosal bilatérale supérieure controlatérale)
+T45	MEAS 1394 1409	progressivement
+T46	MEAS 1443 1452	multiples
+T47	DISO 1474 1500	maladie cœliaque primitive
+T48	PROC 1506 1521	examen clinique
+T49	DISO 1537 1563	signes neuropsychiatriques
+T50	DISO 1603 1645	déficiences visuelles tactiles achromiques
+T51	DISO 1661 1693	hallucinations auditivo-motrices
+T52	ANAT 1781 1802	ventricule symphysien
+T53	Localization 1792 1802	symphysien
+T54	DISO 1817 1833	troubles visuels
+T55	CHEM 1895 1924	photorécepteurs adrénergiques
+T56	PROC 2020 2042	analgésie médicolégale
+T57	Concept_Idea 2055 2074	aspect histologique
+T58	DISO 2097 2141	neurofibromatose diabétique polymalformative
+T59	PHEN 2525 2536	déglutition
+T60	LIVB 2556 2566	nourrisson
+T61	Concept_Idea 2618 2654	caractéristiques sociodémographiques
+T62	TEMP 2677 2684	10 mois
+T63	PROC 2691 2723	fébriculectomie sans préparation
+T64	PROC 2729 2791	anastomose abdomino-veineuse cervicale gastroduodénale élargie
+T66	PROC 2810 2825	rachianesthésie
+T67	PROC 2829 2861	reconstruction scanno-thoracique
+T68	PROC 2868 2888	drainage en monobloc
+T69	PROC 2902 2934	extubation trachéo-oesophagienne
+T70	PROC 2948 2984	toilette respiratoire postopératoire
+T71	ANAT 2957 2984	respiratoire postopératoire
+T72	DEVI 3018 3023	stylo
+T73	MEAS 3097 3104	13/12cm
+T74	DEVI 3138 3168	matériel enduit fibro-duodénal
+T75	PROC 3189 3210	contrôle radiologique
+T76	PROC 3228 3237	visualisé
+T77	Hospital 3242 3263	urgences pédiatriques
+T78	PROC 3268 3288	reprise chirurgicale
+T79	TEMP 3300 3308	4 heures
+T80	PROC 3338 3382	rééducation fonctionnelle multidisciplinaire
+T81	PROC 3413 3478	trachéotomie transplacentaire exploratrice biquotidienne invasive
+T82	MEAS 3559 3570	4050grammes
+T83	MEAS 3576 3587	2200 gramme
+T84	MEAS 3592 3603	660 grammes
+T85	DISO 3622 3643	syndrome hémorragique
+T86	DISO 3653 3664	traumatisme
+T87	PROC 3701 3722	prothèse anesthésique
+T88	Concept_Idea 3766 3784	activités sociales
+T89	DISO 3815 3840	manifestations délirantes
+T90	PROC 3852 3874	consultation prénatale
+T91	LIVB 3998 4020	familles primigesteaux
+T92	DISO 4171 4209	infections sexuellement transmissibles

@@ -1,0 +1,22 @@
+T1	LIVB 20 28	patiente
+T2	DISO 58 78	douleur épigastrique
+T3	ANAT 66 78	épigastrique
+T4	TEMP 88 103	depuis 10 jours
+T5	DISO 120 145	vomissements alimentaires
+T6	PROC 161 167	examen
+T7	DISO 179 193	particularités
+T8	PROC 197 212	examen clinique
+T9	LIVB 226 234	patiente
+T11	Concept_Idea 248 260	état général
+T12	MEAS 269 272	bon
+T13	PHEN 273 287	tonus oculaire
+T14	ANAT 279 287	oculaire
+T15	ANAT 301 310	œil droit
+T16	Localization 305 310	droit
+T17	DISO 331 364	syndrome d'épanchement péritonéal
+T18	ANAT 354 364	péritonéal
+T19	ANAT 372 383	flanc droit
+T20	Localization 378 383	droit
+T21	MEAS 393 397	6 cm
+T22	Concept_Idea 401 410	grand axe
+T23	ANAT 427 445	membres inférieurs

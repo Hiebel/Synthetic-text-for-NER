@@ -1,0 +1,24 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 19	12 ans
+T3	LIVB 65 77	frère unique
+T4	Hospital 98 106	urgences
+T5	DISO 116 142	douleurs pelviennes aiguës
+T6	ANAT 125 135	pelviennes
+T7	TEMP 152 166	depuis 2 jours
+T8	MEAS 181 192	progressive
+T9	LIVB 194 196	Sa
+T10	PHEN 197 217	grossesse gémellaire
+T11	PROC 230 242	contraceptée
+T12	PROC 246 264	consulte prénatale
+T13	LIVB 274 278	elle
+T14	DISO 374 396	traumatisme congénital
+T15	PROC 402 434	traitement médicamenteux curatif
+T16	LIVB 468 473	fille
+T17	TEMP 482 487	2 ans
+T18	DISO 513 529	syndrome fébrile
+T19	DISO 541 558	dyspnée sifflante
+T20	DISO 573 579	sueurs
+T21	MEAS 580 588	profuses
+T22	DISO 601 618	nouveau-né gazeux
+T23	MEAS 748 760	2900 grammes
+T24	DISO 813 832	tétraplégie globale

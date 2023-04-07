@@ -1,0 +1,60 @@
+T1	LIVB 4 12	patiente
+T2	PROC 53 106	curage ganglionnaire plexico-mandibulaire systématisé
+T3	ANAT 60 1504	ganglionnaire plexico-mandibulaire systématisé (CGPMS) aux dépends de l'environnnement musculo-cutané sous anesthésie localisée type intraveineuse fut adressée dans notre service suite à l'apparition d’une détresse respiratoires d'aggravation progressive devenant de plus en plus intenses évoluant depuis 3 semaines associées à d’importantes douleurs abdomino-pelviennes ainsi qu’une sensibilité pelvienne d'évolution brunâtre faisant suspecter les diagnostics d’un kystome kystique périthoracique ou d´une tuberculose épigastrique pour laquelle l’anamnèse initiale ne pouvait être faite vu l’absence de diagnostic radiologique disponible devant cette symptomatologie purulente récurrente ayant duré depuis 2 jours avant son traitement chirurgical ce qui a motivé sa hospitalisation afin d’exclure toute autre étiologie pouvant avoir pu provoquer ces troubles métaboliques dont l´on se sentait intimement responsable alors même que certains avaient été écartés comme causes probables évoquées : -leucospasmodes immunodépressifs viraux; -métilophénylthiouryle pyroglycérase pathomateuse
+Le reste de l'examen somatométéorique était sans particularités notamment pas de métrorragies décelables objectivant surtout l'absence de saignements méningés extériorisés spontanément associés à d'autres paresthésies hypotonique généralisées intéressant tout le massif musculaire utérin arrivant jusqu'au niveau de l'épiphyse iliaque homolatérale thoracique
+T4	PROC 108 113	CGPMS
+T5	Hospital 132 161	environnnement musculo-cutané
+T6	PROC 167 187	anesthésie localisée
+T7	MODE 193 206	intraveineuse
+T8	PROC 211 219	adressée
+T9	LIVB 225 230	notre
+T10	Hospital 231 238	service
+T11	DISO 266 288	détresse respiratoires
+T12	PHEN 275 288	respiratoires
+T13	MEAS 303 314	progressive
+T14	MEAS 324 348	de plus en plus intenses
+T15	TEMP 358 375	depuis 3 semaines
+T16	DISO 402 430	douleurs abdomino-pelviennes
+T17	ANAT 411 430	abdomino-pelviennes
+T18	DISO 444 465	sensibilité pelvienne
+T19	ANAT 456 465	pelvienne
+T20	MEAS 478 486	brunâtre
+T21	DISO 526 557	kystome kystique périthoracique
+T22	DISO 567 591	tuberculose épigastrique
+T23	ANAT 579 591	épigastrique
+T24	PROC 608 625	anamnèse initiale
+T25	PROC 664 687	diagnostic radiologique
+T26	DISO 712 737	symptomatologie purulente
+T27	TEMP 760 774	depuis 2 jours
+T28	PROC 785 807	traitement chirurgical
+T29	PROC 827 842	hospitalisation
+T30	DISO 911 932	troubles métaboliques
+T31	PROC 1160 1183	examen somatométéorique
+T32	DISO 1195 1209	particularités
+T33	DISO 1227 1239	métrorragies
+T34	DISO 1284 1304	saignements méningés
+T35	DISO 1351 1375	paresthésies hypotonique
+T36	ANAT 1409 1433	massif musculaire utérin
+T38	ANAT 1532 1557	parties molles cervicales
+T39	ANAT 1576 1605	organes vertébraux abdominaux
+T40	CHEM 1647 1667	lupus érythémateuses
+T41	DEVI 1710 1789	sonde oeso-gastro-duodénale transoesophagienne bradycardio-naso-laryngée souple
+T43	PROC 1790 1797	TO-DTBS
+T44	DOSE 1799 1803	1 mg
+T45	DOSE 1840 1844	3 mg
+T46	TEMP 1845 1855	par minute
+T47	DOSE 1873 1878	20 mg
+T48	TEMP 1879 1888	par heure
+T49	MEAS 1941 1948	15 g/dl
+T50	DISO 1962 1989	fistule grêlo-hypogastrique
+T51	ANAT 1970 1989	grêlo-hypogastrique
+T52	PROC 2012 2087	colpo-trachéostomie d'alimentation digestive ilééo-intestinale endoscopique
+T53	MEAS 2101 2110	suspectée
+T54	PROC 2124 2156	scanner thoraco abdomino-pélvien
+T55	ANAT 2132 2156	thoraco abdomino-pélvien
+T56	DISO 2182 2241	nodule tissulaire hypoéchogène hétérogène hyper vascularisé
+T57	LIVB 2246 2254	patiente
+T58	PROC 2276 2298	traitement chirurgical
+T59	PROC 2313 2462	anastomose artérioveineuse des membres inferieurs du membre controlatéral inféro-thoracique scapho-métacarpienne pariéto-tuberculo-cæcale en monobloc
+T61	MEAS 2495 2509	satisfaisantes
+T62	TEMP 2527 2533	6 mois

@@ -1,0 +1,51 @@
+T1	LIVB 16 24	patiente
+T2	DISO 73 98	vomissements alimentaires
+T3	TEMP 119 132	depuis 4 mois
+T4	PROC 137 153	bilan biologique
+T5	PROC 170 189	hémoglobine glyquée
+T6	PROC 191 200	Hb glycée
+T7	MEAS 204 208	6,7%
+T8	PROC 210 228	taux de plaquettes
+T9	MEAS 230 247	2000 éléments/mm3
+T10	PROC 249 259	plaquettes
+T11	MEAS 261 279	13000 éléments/mm3
+T12	PROC 282 292	globulines
+T13	MEAS 294 300	1,9g/l
+T14	PROC 302 314	ferritinémie
+T15	MEAS 316 323	0,5mg/l
+T16	PROC 329 353	scanner abdomino-pelvien
+T17	ANAT 337 353	abdomino-pelvien
+T18	PROC 375 384	injection
+T20	DISO 430 489	masse pelvienne hypoéchogène latéroutérine droite hypodense
+T22	Localization 473 489	droite hypodense
+T23	MEAS 521 526	20 cm
+T24	Concept_Idea 530 539	grand axe
+T25	ANAT 555 586	parties molles péripéritonéales
+T26	ANAT 608 629	structures pelviennes
+T27	DISO 651 751	lésions nodulaires angulo-cytoplasmiques infra-centimétriques pariéto-laterolombaires hypertrophiées
+T28	ANAT 782 794	péri-utérine
+T29	PROC 799 835	tomodensitométrie abdomino-pelvienne
+T30	ANAT 817 835	abdomino-pelvienne
+T31	Hospital 849 874	urgences ophtalmologiques
+T32	PROC 880 904	anesthésie locorégionale
+T33	DISO 929 960	masse ovarienne droitehypodense
+T34	ANAT 935 960	ovarienne droitehypodense
+T36	ANAT 1021 1031	col utérin
+T37	DEVI 1085 1122	voie biliaire intrarétro-sigmoïdienne
+T38	CHEM 1156 1176	produit de contraste
+T39	MEAS 1186 1198	multi-centré
+T40	ANAT 1224 1243	cloisons ovariennes
+T41	DISO 1270 1284	masse tumorale
+T42	ANAT 1351 1379	tissus mous cervico-vaginaux
+T43	ANAT 1387 1406	muqueuses vaginales
+T44	DISO 1426 1453	localisations métastatiques
+T45	PROC 1556 1574	radiothérapeutique
+T46	DISO 1657 1677	récidive secondaires
+T47	DISO 1782 1795	symptomatisme
+T48	PROC 1918 1942	exploration chirurgicale
+T49	DISO 1956 1987	masse polylobée tumoral ulcérée
+T51	LIVB 2370 2374	elle
+T52	DISO 2396 2424	adénocarcinome du col utérin
+T53	ANAT 2414 2424	col utérin
+T54	PROC 2440 2456	examen somatique
+T55	DISO 2468 2481	particularité

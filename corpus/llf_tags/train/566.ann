@@ -1,0 +1,28 @@
+T1	LIVB 3 10	patient
+T2	DISO 44 82	traumatisme du membre inférieur gauche
+T3	ANAT 59 82	membre inférieur gauche
+T4	Localization 76 82	gauche
+T5	DISO 94 110	accident de moto
+T6	PROC 114 120	examen
+T7	Concept_Idea 134 141	hauteur
+T8	MEAS 145 149	9 cm
+T9	PHEN 154 161	défense
+T10	DEVI 182 187	objet
+T11	ANAT 234 245	chaussettes
+T12	PROC 283 308	intervention chirurgicale
+T13	PROC 341 360	rééducation motrice
+T14	CHEM 378 404	prothèses auto-nettoyantes
+T15	DOSE 406 413	4000 cc
+T16	PROC 419 439	suivi postopératoire
+T17	TEMP 456 466	8 semaines
+T18	PROC 479 503	consultation spécialisée
+T19	Hospital 507 531	service neurochirurgical
+T20	DISO 556 585	symptomatologie psychiatrique
+T21	DISO 592 630	dysfonctionnements psychopathologiques
+T22	MEAS 663 670	simples
+T23	PROC 676 734	régime pauvre en graisses insulinorésolubles substituables
+T24	PROC 736 757	contrôle locorégional
+T25	PROC 759 786	prise en charge ambulatoire
+T26	Hospital 791 812	urgences pédiatriques
+T27	Concept_Idea 845 864	activités sportives
+T28	Concept_Idea 884 908	activité professionnelle

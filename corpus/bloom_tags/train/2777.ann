@@ -1,0 +1,28 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 73	notables
+T4	PROC 75 80	admis
+T5	Hospital 84 108	unité de soins intensifs
+T6	DISO 118 139	détresse respiratoire
+T7	PHEN 127 139	respiratoire
+T8	DISO 147 181	douleurs thoraciques constrictives
+T9	ANAT 156 167	thoraciques
+T10	PROC 185 200	examen clinique
+T11	PROC 205 214	admission
+T12	Concept_Idea 225 229	état
+T13	DISO 232 255	agitation psychomotrice
+T14	ANAT 269 301	tronc pulmonaire supérieur droit
+T15	Localization 296 301	droit
+T16	TEMP 311 328	depuis deux jours
+T17	DISO 344 356	vomissements
+T18	MEAS 367 376	12 litres
+T19	PROC 381 411	bilan biologique préopératoire
+T20	DISO 439 455	hyperleucocytose
+T21	MEAS 458 468	11 000/mm3
+T22	PROC 475 502	polynucléaires neutrophiles
+T23	PROC 504 507	PNN
+T24	PROC 513 531	scanner thoracique
+T25	ANAT 521 531	thoracique
+T26	TEMP 549 559	20/01/2011
+T27	DISO 580 664	pneumopathie interstitielle stade C selon la classification de Balthazarde-Desroches
+T30	Localization 755 764	bilatéral

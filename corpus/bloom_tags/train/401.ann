@@ -1,0 +1,65 @@
+T1	LIVB 4 12	patiente
+T2	PROC 32 38	admise
+T3	Hospital 42 72	service d'accueil des urgences
+T4	DISO 92 125	syndrome d'épanchement péritonéal
+T5	ANAT 115 125	péritonéal
+T6	DISO 141 147	fièvre
+T7	TEMP 169 202	il n'y avait pas plus de 10 jours
+T8	PROC 212 222	diagnostic
+T9	CHEM 228 242	hydrocortisone
+T10	DOSE 244 250	2mg/kg
+T11	TEMP 250 257	/minute
+T12	CHEM 271 289	hydroxychloroquine
+T13	DOSE 291 299	10 mg/kg
+T14	TEMP 299 301	/j
+T15	PROC 307 348	scanner abdomino-pélvien trans-thoracique
+T16	ANAT 315 348	abdomino-pélvien trans-thoracique
+T17	DISO 360 404	formation tissulaire hypo échogéne hypodense
+T18	ANAT 433 474	parenchyme thyroïdien latéro-mésentérique
+T19	MEAS 484 489	16 cm
+T20	Concept_Idea 493 502	grand axe
+T21	MEAS 507 511	8 cm
+T22	Concept_Idea 515 524	petit axe
+T23	ANAT 546 570	surrénaliens thoraciques
+T24	DISO 583 626	empyème pulmonaire basithoracique hypodense
+T26	DISO 692 717	localisation métastatique
+T27	DISO 727 760	métastases cervico-surrénaliennes
+T28	DISO 771 794	localisations tumorales
+T29	PROC 849 873	exploration chirurgicale
+T30	DISO 897 940	masse hétérogène érythémateuse prurigineuse
+T31	ANAT 959 983	glande sus-rénale droite
+T32	Localization 977 983	droite
+T33	DISO 999 1024	hernie sous rénale droite
+T34	ANAT 1006 1024	sous rénale droite
+T35	Localization 1018 1024	droite
+T36	ANAT 1049 1063	liquide séreux
+T37	PROC 1102 1125	injection intraveineuse
+T38	CHEM 1129 1149	produit de contraste
+T39	DISO 1208 1234	symptomatologie purpurique
+T41	DISO 1357 1372	atteinte rénale
+T42	ANAT 1366 1372	rénale
+T43	CHEM 1421 1432	tuberculine
+T44	LIVB 1496 1502	enfant
+T45	TEMP 1510 1515	7 ans
+T46	LIVB 1525 1527	on
+T47	DISO 1698 1732	symptomatologie neurolymphocytaire
+T48	PROC 1787 1821	radiothérapie palliative adjuvante
+T49	DOSE 1886 1890	3 Gy
+T50	TEMP 1891 1912	toutes les 6 semaines
+T51	DISO 2123 2147	kystes épidermophytaires
+T52	MEAS 2206 2226	massivement arrondis
+T53	DEVI 2340 2361	carcinsome pléomorphe
+T54	PROC 2495 2525	échographie abdomino-pelvienne
+T55	ANAT 2507 2525	abdomino-pelvienne
+T56	Concept_Idea 2555 2561	aspect
+T57	DISO 2564 2623	épanchement méso-cervico-vésiculaire latéro-utérin bilobulé
+T59	ANAT 2637 2647	col utérin
+T60	MEAS 2657 2660	2cm
+T61	MEAS 2665 2670	1,5cm
+T62	PROC 2675 2716	scanner abdomino-pelvien trans-thoracique
+T63	ANAT 2683 2716	abdomino-pelvien trans-thoracique
+T64	DISO 2733 2793	épanchement périthoracique pariétal basithoracique des seins
+T66	ANAT 2788 2793	seins
+T67	DISO 2817 2854	adénopathies médiastinales hypodenses
+T68	ANAT 2830 2854	médiastinales hypodenses
+T69	DISO 2860 2876	signes cliniques

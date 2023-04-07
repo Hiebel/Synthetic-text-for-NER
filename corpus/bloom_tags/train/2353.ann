@@ -1,0 +1,27 @@
+T1	LIVB 15 22	patient
+T2	DISO 42 67	antécédents pathologiques
+T3	MEAS 68 76	notables
+T4	DISO 96 117	dysménorrhée primaire
+T5	MEAS 132 143	progressive
+T6	TEMP 153 169	depuis deux mois
+T7	PHEN 174 194	grossesse gémellaire
+T8	PROC 205 211	suivie
+T9	PROC 217 247	échographie abdomino-pélvienne
+T10	ANAT 229 247	abdomino-pélvienne
+T11	Hospital 261 269	urgences
+T12	DISO 289 322	utérus polymyomateux hypoechogène
+T13	Localization 361 390	faces postéro-latérale droite
+T14	ANAT 396 405	épiploons
+T15	MEAS 415 419	32cm
+T16	Concept_Idea 423 432	grand axe
+T17	DISO 453 503	polynucléité érythémateuse ovarienne péritrophique
+T18	DISO 567 576	symptômes
+T19	DISO 620 639	métroides kystiques
+T20	DISO 666 693	masse tissulaire hétérogène
+T21	ANAT 731 740	pelvienne
+T22	PROC 755 785	cervico-vaginal transperfusion
+T23	DEVI 790 842	sonde oesophagienne culo-gastroduodénale monochambre
+T25	MEAS 976 994	fortement positifs
+T26	DISO 1015 1034	pleurésie purulente
+T27	TEMP 1075 1086	trois jours
+T28	PROC 1104 1119	hospitalisation

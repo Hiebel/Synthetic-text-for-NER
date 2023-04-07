@@ -1,0 +1,77 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	9 ans
+T3	Concept_Idea 41 52	antécédents
+T4	MEAS 53 65	particuliers
+T5	PROC 67 72	admis
+T6	Hospital 76 83	urgence
+T7	DISO 93 114	détresse respiratoire
+T8	PHEN 102 114	respiratoire
+T9	MEAS 129 140	progressive
+T10	DISO 156 181	vomissements alimentaires
+T11	PROC 185 200	examen clinique
+T12	ANAT 211 218	abdomen
+T13	Concept_Idea 231 237	volume
+T14	DISO 258 285	sensibilité lombaire gauche
+T15	ANAT 270 285	lombaire gauche
+T16	Localization 279 285	gauche
+T17	TEMP 295 311	depuis deux mois
+T18	MEAS 326 341	progressivement
+T19	Concept_Idea 345 351	volume
+T20	PROC 356 364	biologie
+T21	DEVI 378 425	numération formule sanguine pléocytokératosique
+T22	PROC 427 430	NFS
+T23	LIVB 547 549	Il
+T24	PROC 566 570	reçu
+T25	Hospital 575 596	urgences pédiatriques
+T26	PROC 617 636	bilan préopératoire
+T27	PROC 644 658	interrogatoire
+T28	LIVB 678 711	médecins gynécologue-obstétricaux
+T29	PROC 731 743	prélèvements
+T30	PROC 762 786	consultations prénatales
+T31	PROC 789 820	endoscopie oeso-laryngoscopique
+T32	ANAT 800 820	oeso-laryngoscopique
+T33	DISO 834 864	masse tissulaire érythémateuse
+T34	MEAS 874 879	15 cm
+T35	Concept_Idea 883 892	grand axe
+T36	MEAS 897 902	10 cm
+T37	Concept_Idea 906 915	petit axe
+T38	ANAT 937 953	cordons crâniens
+T39	PROC 963 979	en peropératoire
+T40	DISO 1001 1023	épanchement péritonéal
+T41	ANAT 1013 1023	péritonéal
+T42	DISO 1052 1060	tumorale
+T43	PROC 1066 1102	tomodensitométrie cervico-thoracique
+T44	ANAT 1084 1102	cervico-thoracique
+T45	PROC 1117 1134	anesthésie locale
+T46	PROC 1147 1165	scanner thoracique
+T47	ANAT 1155 1165	thoracique
+T48	DISO 1191 1198	tumoral
+T49	ANAT 1219 1235	paroi thoracique
+T50	PROC 1257 1266	injection
+T51	DOSE 1270 1276	0,5 ml
+T52	CHEM 1280 1297	prolablocortolone
+T53	DISO 1335 1359	localisation secondaires
+T54	DISO 1367 1389	rhabdomyolyse kystique
+T55	LIVB 1436 1446	nouveau-né
+T56	DISO 1460 1486	métastases basithoraciques
+T57	DISO 1549 1555	fièvre
+T58	DISO 1590 1613	symptômes neurologiques
+T59	DISO 1631 1664	syndrome d'épanchement péritonéal
+T60	ANAT 1654 1664	péritonéal
+T61	DISO 1674 1701	signes extra-parenchymateux
+T62	DISO 1845 1866	envahissement tumoral
+T63	ANAT 1918 1940	membranes intestinales
+T64	MEAS 2365 2385	supra-centimétriques
+T65	PROC 2443 2485	traitement prophylactique curatif adjuvant
+T66	PROC 2662 2684	chirurgie endovaginale
+T67	DISO 2775 2797	hyperthermie purulente
+T68	DISO 2842 2861	traumatisme fébrile
+T69	PROC 3053 3069	examen somatique
+T70	Concept_Idea 3083 3094	température
+T71	MEAS 3097 3104	39,5° C
+T72	PHEN 3111 3116	pouls
+T73	MEAS 3128 3145	110 battements/mn
+T74	PROC 3150 3166	bilan biologique
+T75	DISO 3178 3186	anomalie
+T76	DISO 3203 3217	déshydratation
+T77	TEMP 3230 3248	deuxième trimestre

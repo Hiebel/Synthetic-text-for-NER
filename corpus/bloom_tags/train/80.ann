@@ -1,0 +1,64 @@
+T1	LIVB 16 24	patiente
+T2	PROC 50 54	reçu
+T3	DISO 86 201	syndrome d'épanchement liquidien infarcto-lésionnel liquidien péribucellulaire cervico-diaphragmatique hypertrophié
+T5	TEMP 211 224	depuis 3 mois
+T6	MEAS 239 245	sévère
+T7	MEAS 257 272	progressivement
+T8	Concept_Idea 276 282	volume
+T9	PROC 306 336	traitement médical substitutif
+T10	CHEM 347 367	méthylhydrocortisone
+T11	DOSE 370 376	1mg/kg
+T12	TEMP 376 378	/j
+T13	CHEM 380 391	paracétamol
+T14	DOSE 393 401	15 mg/kg
+T15	TEMP 401 403	/j
+T16	PROC 417 448	radiothérapie externe adjuvante
+T17	ANAT 470 489	cuir chevelu facial
+T18	PROC 496 540	curage ganglionnaire axillaire transfixiante
+T19	DISO 568 622	épidermite érythémato-pustuleuse bulleuse prurigineuse
+T20	DISO 685 711	adénophagocôlon purulineux
+T21	PROC 802 830	radio-chirurgie exploratrice
+T22	LIVB 854 862	patiente
+T23	DISO 867 935	masse latéro-scapulaire hypo-hétérogène tissulaire tumorale malignes
+T24	ANAT 957 986	muscles fléchisseurs crâniens
+T25	MEAS 996 1000	5 cm
+T26	Concept_Idea 1004 1013	grand axe
+T27	ANAT 1034 1052	pièce chirurgicale
+T28	MEAS 1114 1127	considéréable
+T29	Concept_Idea 1136 1142	mesure
+T30	DEVI 1180 1198	bandelette plâtrée
+T31	PROC 1214 1240	scanner abdomino pelvienne
+T32	ANAT 1222 1240	abdomino pelvienne
+T33	DISO 1254 1308	hypertrophie médiastin psoas palméo-gastro-intestinale
+T34	ANAT 1267 1308	médiastin psoas palméo-gastro-intestinale
+T35	MEAS 1317 1323	type 2
+T36	DISO 1389 1407	hypotonie grêlique
+T37	ANAT 1399 1407	grêlique
+T38	ANAT 1431 1453	cavités grêlo-bouchées
+T39	DISO 1472 1505	hyperplasie pulmonaire ischémique
+T40	ANAT 1484 1505	pulmonaire ischémique
+T41	DISO 1553 1586	empyème thoracique basithoracique
+T42	ANAT 1561 1586	thoracique basithoracique
+T43	PROC 1606 1615	résection
+T44	PROC 1630 1724	anastomose iléo-tuberculose parautérionale pré-annexectomoïlitosternale prolabée scannographie
+T46	DISO 1819 1837	lésions noduleuses
+T47	DISO 1893 1909	maladie cœliaque
+T48	DISO 1963 1988	myxospongiose congénitale
+T49	PROC 2164 2197	imagerie par résonance magnétique
+T50	PROC 2199 2202	IRM
+T51	LIVB 2221 2228	patient
+T52	TEMP 2232 2250	deuxième intention
+T53	DISO 2264 2355	adénopathies du parenchyme hypersignal hétérogène cervico-vésiculaire latéro-latéral gauche
+T54	ANAT 2280 2355	parenchyme hypersignal hétérogène cervico-vésiculaire latéro-latéral gauche
+T55	Localization 2349 2355	gauche
+T57	ANAT 2386 2408	méso-surrénalien droit
+T58	Localization 2403 2408	droit
+T59	DISO 2422 2447	localisations secondaires
+T60	DISO 2479 2536	métastase sous-cutanée lithiasique pariétale systémateuse
+T62	PROC 2554 2572	traitement curatif
+T63	CHEM 2589 2599	cisplatine
+T64	CHEM 2601 2614	dexaméthasone
+T65	CHEM 2616 2628	carboplatine
+T66	CHEM 2630 2639	docetaxel
+T67	CHEM 2641 2651	tamoxifène
+T68	PROC 2665 2696	radiothérapie externe adjuvante

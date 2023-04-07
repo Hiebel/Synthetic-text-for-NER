@@ -1,0 +1,90 @@
+T1	LIVB 3 13	nouveau-né
+T2	PROC 37 42	opéré
+T3	Localization 65 71	droite
+T4	PROC 77 98	radiographie du genou
+T5	ANAT 93 98	genou
+T6	MEAS 136 142	grosse
+T7	DISO 143 148	masse
+T8	MEAS 158 170	environ 3 cm
+T9	Concept_Idea 174 183	grand axe
+T10	ANAT 209 226	os pariétal droit
+T11	Localization 221 226	droit
+T12	MEAS 235 239	4 cm
+T13	Concept_Idea 243 251	diamètre
+T14	DISO 270 291	niveaux hydroaériques
+T15	DISO 337 353	tumeur polylobée
+T16	Concept_Idea 362 382	caractère anatomique
+T17	DISO 406 445	carcinome épidermoïde infiltrant cutané
+T18	PROC 449 474	étude immunohistochimique
+T19	DISO 526 557	neurofibroblaste éosinophilique
+T20	DISO 563 573	métastases
+T21	DISO 594 600	signes
+T22	PROC 614 630	bilan biologique
+T23	PROC 632 650	ionogramme sanguin
+T24	ANAT 643 650	sanguin
+T25	PROC 652 674	échographie abdominale
+T26	ANAT 664 674	abdominale
+T27	PROC 676 693	tomodensitométrie
+T28	DISO 758 779	récidive métastatique
+T29	DISO 803 812	malignité
+T30	PROC 817 836	sérologie hydatique
+T31	PROC 851 879	examens cytobactériologiques
+T32	MEAS 893 901	négatifs
+T33	PROC 906 938	scanner thoraco-abdomino-pelvien
+T34	ANAT 914 938	thoraco-abdomino-pelvien
+T35	DISO 959 984	localisations secondaires
+T36	PHEN 1004 1034	transits oeso-gastro-duodénaux
+T37	ANAT 1013 1034	oeso-gastro-duodénaux
+T38	DISO 1058 1069	infectieuse
+T39	DISO 1090 1107	systèmes tumoraux
+T40	MEAS 1144 1151	simples
+T41	TEMP 1178 1186	15 jours
+T42	MEAS 1194 1204	650 gramme
+T43	PHEN 1228 1248	grossesse monofocale
+T44	TEMP 1259 1264	31 SA
+T45	Hospital 1323 1344	urgences pédiatriques
+T46	PROC 1355 1386	cholécystectomie complémentaire
+T47	CHEM 1414 1443	antibiothérapie intraveineuse
+T49	DOSE 1498 1502	3 ml
+T50	CHEM 1506 1544	methyl prednisolone acide clavulanique
+T51	PROC 1558 1594	radio cardiothoracique endotrachéale
+T52	DISO 1628 1666	anémie hypochrome microcytaire maligne
+T53	DISO 1708 1740	hypogonadisme septique chronique
+T54	LIVB 1750 1756	enfant
+T55	MEAS 1764 1779	stade II UHN2M0
+T56	PROC 1829 1846	geste chirurgical
+T57	DEVI 1866 1874	prothèse
+T58	ANAT 2065 2088	pédicule gastroduodénal
+T59	MEAS 2102 2111	10 x 6 cm
+T60	Concept_Idea 2115 2124	grand axe
+T61	ANAT 2146 2165	membranes biliaires
+T62	ANAT 2184 2201	vaisseau cœliaque
+T63	MEAS 2207 2221	80 centimètres
+T64	Concept_Idea 2225 2233	gros axe
+T65	ANAT 2466 2552	noyau sigmoïde bulbo médullaire supéroatrophobe adhérentiel postéro-antéro-excentrique
+T66	ANAT 2580 2599	région sus pubienne
+T67	Localization 2842 2859	partie supérieure
+T68	ANAT 2863 2879	colon transverse
+T69	ANAT 2911 2917	utérus
+T70	ANAT 2944 2961	symphyse pubienne
+T71	PROC 2985 2998	mise en place
+T72	DISO 3014 3047	remaniement péritonéal ischémique
+T73	DISO 3062 3088	complications infectieuses
+T74	DISO 3103 3138	sténose pyélocalicielle dysplasique
+T75	DISO 3166 3189	infestation parasitaire
+T76	PHEN 3194 3222	transit oeso-gastro-duodénal
+T77	ANAT 3202 3222	oeso-gastro-duodénal
+T78	PROC 3242 3254	consultation
+T79	PROC 3278 3312	remplissage urinaire extracorporel
+T80	ANAT 3290 3312	urinaire extracorporel
+T81	DISO 3349 3366	signes infectieux
+T82	DISO 3482 3505	anomalies radiologiques
+T83	DISO 3533 3552	récidive abdominale
+T84	ANAT 3542 3552	abdominale
+T85	DISO 3559 3582	localisation secondaire
+T86	PROC 3595 3620	étude anatomopathologique
+T87	DISO 3657 3709	léiomyome épidermoïde anaplasique myxoide infiltrant
+T88	PROC 3728 3752	examens microbiologiques
+T89	DISO 3777 3857	germe galactophagoides tuberculosis carcinomateux eccrinea ketoacidosis syndrome
+T90	PROC 3928 3986	biopsie scanno-guidée immunohistochimique cervico-vaginale
+T91	PROC 3987 3991	IHCK

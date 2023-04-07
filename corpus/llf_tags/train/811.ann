@@ -1,0 +1,48 @@
+T1	LIVB 3 13	nourrisson
+T2	TEMP 17 23	5 mois
+T3	Concept_Idea 77 80	âge
+T4	TEMP 84 91	10 mois
+T5	DISO 98 114	crise convulsive
+T6	MEAS 129 130	2
+T7	ANAT 131 138	membres
+T8	MEAS 171 178	simples
+T9	PROC 187 214	contrôle neuropsychiatrique
+T10	DISO 220 228	récidive
+T11	DISO 232 254	détresse psychomotrice
+T12	PROC 258 273	examen clinique
+T13	LIVB 287 295	patiente
+T14	MEAS 299 306	mauvais
+T15	Concept_Idea 307 319	état général
+T16	Concept_Idea 334 352	plan hémodynamique
+T17	PHEN 356 368	respiratoire
+T18	Localization 374 388	parties molles
+T19	ANAT 392 415	membre supérieur gauche
+T20	Localization 409 415	gauche
+T21	MEAS 421 441	légèrement sensibles
+T22	CHEM 446 460	neuroleptiques
+T23	CHEM 473 484	Gentamycine
+T24	DOSE 486 493	50mg/kg
+T25	TEMP 493 495	/j
+T26	PROC 512 528	examen somatique
+T27	DISO 538 547	anomalies
+T28	DISO 565 574	dysphonie
+T29	DISO 584 604	symptôme dysphorique
+T30	PROC 609 639	bilan biologique préopératoire
+T31	DISO 660 673	particularité
+T32	PROC 687 706	sérologie hydatique
+T33	MEAS 720 728	négative
+T34	PROC 733 771	fibroscopie thoraco-abdomino-pelvienne
+T35	ANAT 745 771	thoraco-abdomino-pelvienne
+T36	MEAS 778 785	normale
+T37	DISO 823 842	contage tuberculeux
+T38	ANAT 857 888	aires ganglionnaires cervicales
+T39	PROC 894 928	chimiothérapie palliative générale
+T40	MODE 933 948	voie percutanée
+T41	PROC 962 1003	néphrectomie totale élargie scanno-guidée
+T42	DISO 1040 1067	complication postopératoire
+T43	LIVB 1098 1104	enfant
+T44	TEMP 1112 1117	9 ans
+T45	LIVB 1247 1250	son
+T46	LIVB 1251 1257	garçon
+T47	DEVI 1288 1297	aiguilles
+T48	CHEM 1310 1326	calcium polylobé

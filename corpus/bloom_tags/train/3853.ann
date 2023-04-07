@@ -1,0 +1,93 @@
+T1	LIVB 29 37	patiente
+T2	DISO 71 111	hypertrophie ventriculaire hypertrophiée
+T3	ANAT 84 111	ventriculaire hypertrophiée
+T4	CHEM 117 128	propranolol
+T5	DOSE 130 136	1mg/kg
+T6	TEMP 136 142	/ jour
+T7	PROC 157 187	traitement médical substitutif
+T8	CHEM 200 210	furosémide
+T9	CHEM 213 230	chlorprométhazine
+T10	CHEM 232 251	corticoïdes inhalés
+T11	PROC 256 281	intervention chirurgicale
+T12	PROC 300 324	laparotomie exploratrice
+T13	PROC 330 383	anastomose péritoine-liléo-œsophagienne transfixiante
+T15	ANAT 399 407	épiploon
+T16	DISO 522 535	complications
+T17	DISO 563 596	syndrome d'épanchement péritonéal
+T18	ANAT 586 596	péritonéal
+T19	DISO 603 621	détresse digestive
+T20	PHEN 612 621	digestive
+T21	DISO 628 669	niveau hydro-électrolytique anévrismateux
+T22	PROC 686 703	curage péritonéal
+T23	ANAT 693 703	péritonéal
+T24	DISO 727 748	troubles métaboliques
+T25	LIVB 774 782	patiente
+T26	PROC 804 837	traitement curatif complémentaire
+T27	DISO 847 856	symptômes
+T28	LIVB 872 879	patient
+T29	DISO 924 947	polyarthrite systémique
+T30	MEAS 962 989	progressivement progressive
+T31	ANAT 1008 1029	doigts métacarpiennes
+T32	DISO 1049 1090	lésions nodulaires érythémato-pustuleuses
+T33	DISO 1112 1125	inflammatoire
+T34	DISO 1183 1210	maladie de Buerger kystique
+T35	PROC 1274 1283	admission
+T36	DISO 1298 1310	hyperthermie
+T37	MEAS 1322 1327	40°8C
+T38	MEAS 1339 1354	progressivement
+T39	Concept_Idea 1358 1365	hauteur
+T40	MEAS 1375 1383	violacée
+T41	ANAT 1415 1445	ongles métacarpo-phalangiennes
+T42	Concept_Idea 1512 1522	profondeur
+T43	Concept_Idea 1542 1549	surface
+T44	MEAS 1550 1559	régulière
+T45	Concept_Idea 1586 1595	caractère
+T46	MEAS 1602 1615	circonférencé
+T47	Concept_Idea 1660 1668	contours
+T48	PROC 1711 1721	recherchée
+T49	PROC 1734 1770	dosage d'immuno-récepteurs hormonaux
+T50	PROC 1805 1836	tomodensitométrie scanno-guidée
+T51	DISO 1906 1931	ovario-sigmoïdien tumoral
+T52	ANAT 1942 1954	endométriale
+T53	DISO 1961 2005	de prolifération épithélio-gigantocellulaire
+T54	PROC 2080 2124	imagerie tomodensitométrique scannono-guidée
+T55	CHEM 2149 2169	corticoestrogéniques
+T56	PROC 2174 2184	diagnostic
+T57	DISO 2207 2240	syndrome d'épanchement péritonéal
+T58	ANAT 2230 2240	péritonéal
+T59	PROC 2244 2268	exploration chirurgicale
+T61	DEVI 2391 2400	mésentère
+T62	MEAS 2411 2415	6 cm
+T63	MEAS 2420 2424	3 cm
+T64	DISO 2437 2446	anomalies
+T65	DISO 2473 2495	épanchement péritonéal
+T66	ANAT 2485 2495	péritonéal
+T67	DISO 2505 2519	lésion maligne
+T68	TEMP 2531 2551	Deux jours plus tard
+T69	LIVB 2553 2557	nous
+T70	DISO 2596 2617	détresse respiratoire
+T71	PHEN 2605 2617	respiratoire
+T72	DISO 2643 2662	saignement purulent
+T73	CHEM 2729 2747	méthylprednisolone
+T74	DOSE 2749 2756	2 mg/kg
+T75	TEMP 2756 2761	/jour
+T76	MODE 2763 2776	intraveineuse
+T77	PROC 2791 2815	rachianesthésie générale
+T78	MEAS 2845 2858	spectaculaire
+T79	PROC 2962 2980	résection monobloc
+T80	DISO 3009 3014	masse
+T81	PROC 3028 3070	curage ganglionnaire axillaire explorateur
+T82	ANAT 3035 3070	ganglionnaire axillaire explorateur
+T83	MEAS 3088 3096	positifs
+T84	MEAS 3138 3145	simples
+T85	DISO 3177 3221	complications neurologiques sensitivomoteurs
+T86	PROC 3257 3280	tumorectomie palliative
+T87	LIVB 3335 3339	ainé
+T88	PROC 3347 3374	examen anatomo-pathologique
+T89	Localization 3381 3393	face interne
+T90	DISO 3439 3445	signes
+T91	DISO 3449 3458	malignité
+T92	DISO 3465 3495	défense cutanée carcinomateuse
+T93	DISO 3537 3587	schwannome pléomorphe hémangio-hemangio-carcinoïde
+T94	ANAT 3601 3639	artère fémorale superficielle palmaire
+T95	MEAS 3647 3653	T3N2M0

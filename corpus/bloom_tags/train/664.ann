@@ -1,0 +1,27 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	DISO 42 67	antécédents pathologiques
+T4	MEAS 68 80	particuliers
+T5	PROC 82 87	admis
+T6	Hospital 91 98	urgence
+T7	DISO 108 148	douleurs abdominales aiguës généralisées
+T8	ANAT 117 128	abdominales
+T9	PROC 152 167	examen clinique
+T10	Concept_Idea 181 192	température
+T11	MEAS 195 199	36°C
+T12	PHEN 206 211	pouls
+T13	MEAS 214 231	90 battements/min
+T14	PROC 236 252	bilan biologique
+T15	DISO 283 299	hyperleucocytose
+T16	MEAS 302 320	15300 éléments/mm3
+T17	PROC 368 395	numération formule sanguine
+T18	PROC 409 429	taux de prothrombine
+T19	MEAS 438 445	normaux
+T20	PROC 450 475	scanner abdomino- pelvien
+T21	ANAT 458 475	abdomino- pelvien
+T22	PROC 495 527	anesthésie locorégionale du pied
+T24	PROC 533 542	injection
+T25	CHEM 546 557	propranolol
+T26	MODE 562 580	voie intraveineuse
+T27	DEVI 584 590	doseur
+T28	DOSE 594 602	45 mg/kg

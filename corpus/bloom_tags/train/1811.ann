@@ -1,0 +1,74 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	DISO 48 69	détresse respiratoire
+T4	PHEN 57 69	respiratoire
+T5	MEAS 84 95	progressive
+T6	LIVB 113 120	patient
+T7	Hospital 125 133	urgences
+T8	DISO 143 209	douleurs crépitantes du parenchyme thoracique basithoracique droit
+T9	ANAT 167 209	parenchyme thoracique basithoracique droit
+T10	Localization 204 209	droit
+T11	TEMP 219 232	depuis 1 mois
+T12	Concept_Idea 268 280	état général
+T13	MEAS 291 295	7/10
+T14	DISO 354 370	signes cliniques
+T15	DISO 384 414	diarrhée bilieuse hématuriante
+T16	MEAS 429 434	lente
+T17	DISO 456 479	symptômes neurologiques
+T18	DISO 502 526	vertiges sensitivomoteur
+T19	PROC 667 682	examen clinique
+T20	DISO 703 742	tachycardie basithoracique hypoéchogène
+T21	ANAT 715 742	basithoracique hypoéchogène
+T22	MEAS 758 769	brutalement
+T23	Concept_Idea 773 779	taille
+T24	MEAS 789 793	3 cm
+T25	Concept_Idea 797 806	grand axe
+T26	MEAS 811 815	2 cm
+T27	Concept_Idea 819 828	petit axe
+T28	ANAT 849 899	parenchyme thyro-laryngoduodynopharyngo œsophagien
+T29	PROC 920 929	injection
+T30	CHEM 933 958	produit de contraste iodé
+T31	DISO 975 986	tuméfaction
+T32	MEAS 995 1003	palpable
+T33	MEAS 1020 1030	rapidement
+T34	Concept_Idea 1034 1040	volume
+T35	MEAS 1057 1067	multipliée
+T36	MEAS 1077 1085	boudinée
+T37	ANAT 1112 1159	parties molles cervicales latéro médiastinalnes
+T38	Concept_Idea 1173 1181	contours
+T39	MEAS 1182 1191	réguliers
+T40	DISO 1276 1296	métastases nécrosées
+T41	DISO 1332 1343	myxomateuse
+T42	PROC 1359 1406	imagerie tomodensitométrique transoesophagienne
+T43	Concept_Idea 1441 1448	mesures
+T44	Concept_Idea 1472 1504	localisation anatomopathologique
+T45	DISO 1539 1569	troubles hydro-électrolytiques
+T46	DISO 1615 1649	complications thromboemboliquantes
+T47	LIVB 1659 1665	enfant
+T48	DISO 1704 1766	thrombose cérébro-vésico-tricusplexique congénitale ischémique
+T50	DISO 1842 1855	inflammatoire
+T51	DISO 1861 1884	nouveau-né hypertrophié
+T52	MEAS 1892 1898	1500 g
+T53	Concept_Idea 1901 1907	aspect
+T54	MEAS 1908 1934	macroscopiquement homogène
+T55	DISO 1967 1984	dyspnée sifflante
+T56	DISO 2071 2080	symptômes
+T57	PROC 2096 2122	traitement médical curatif
+T58	CHEM 2148 2155	Clopril
+T59	DOSE 2157 2163	200 mg
+T60	CHEM 2166 2175	Captopril
+T61	DOSE 2177 2183	400 mg
+T62	MODE 2183 2189	per os
+T63	CHEM 2191 2201	Nifédipine
+T64	DOSE 2203 2208	10 mg
+T65	CHEM 2211 2222	Propranolol
+T66	DOSE 2224 2230	1mg/kg
+T67	TEMP 2230 2232	/j
+T68	PROC 2236 2252	examen somatique
+T69	DISO 2283 2334	masse kystique du sinus caverneux thoracique gauche
+T70	ANAT 2301 2334	sinus caverneux thoracique gauche
+T71	Localization 2328 2334	gauche
+T72	MEAS 2344 2349	14 cm
+T73	Concept_Idea 2353 2362	grand axe
+T74	ANAT 2380 2409	artère cave supérieure droite
+T75	Localization 2403 2409	droite

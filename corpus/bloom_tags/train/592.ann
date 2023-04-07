@@ -1,0 +1,33 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	7 ans
+T3	DISO 58 84	hypogonadotrophie primaire
+T4	PROC 103 128	intervention chirurgicale
+T5	DISO 163 191	tuberculose angulo-cervicale
+T6	TEMP 201 219	dans les 48 heures
+T7	PROC 233 262	examen clinique préopératoire
+T8	DISO 279 308	distension abdomino-pelvienne
+T9	ANAT 290 308	abdomino-pelvienne
+T10	DISO 324 379	défense latéro péritonéale abdominale hypo-contractible
+T13	ANAT 406 415	gastrique
+T14	DISO 454 482	symptomatologie tuberculeuse
+T15	PROC 549 568	immunohistochimique
+T16	LIVB 629 632	son
+T17	PROC 633 666	traitement antibacillaire curatif
+T18	MODE 671 689	voie intraveineuse
+T19	PROC 747 773	contrôle radioradiologique
+T20	PROC 791 810	traitement adjuvant
+T21	CHEM 823 834	ceftriaxone
+T22	DOSE 836 844	20 mg/kg
+T23	TEMP 844 852	/semaine
+T24	CHEM 855 866	rifampicine
+T25	DOSE 867 873	600 mg
+T26	TEMP 873 875	/j
+T27	CHEM 878 889	ethionamide
+T28	CHEM 893 911	méthylprednisolone
+T29	PROC 917 941	scanner abdomino-pelvien
+T30	ANAT 925 941	abdomino-pelvien
+T31	DISO 973 1023	localisations secondaires carcinomateuses malignes
+T32	Localization 1065 1075	au dessous
+T33	MEAS 1090 1098	normales
+T34	PROC 1112 1143	bilan d'immuno-hypocomorbulence
+T35	MEAS 1156 1163	positif

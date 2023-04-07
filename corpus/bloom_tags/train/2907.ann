@@ -1,0 +1,26 @@
+T1	LIVB 19 26	patient
+T2	Concept_Idea 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	PROC 83 94	hospitalisé
+T5	Hospital 99 107	urgences
+T6	DISO 117 137	masse du flanc droit
+T7	ANAT 126 137	flanc droit
+T8	Localization 132 137	droit
+T9	TEMP 147 159	depuis un an
+T10	MEAS 171 186	progressivement
+T11	Concept_Idea 190 196	volume
+T12	PROC 201 218	bilan d'extension
+T13	MEAS 225 232	négatif
+T14	PROC 238 247	admission
+T15	Hospital 251 281	service d'accueil des urgences
+T16	DISO 301 339	syndrome d'épanchement péritonéal aigu
+T17	ANAT 324 339	péritonéal aigu
+T18	DISO 360 395	hépato-splénomégalie biliaire aigue
+T19	PROC 426 452	scanner abdomino-pelvienne
+T20	ANAT 434 452	abdomino-pelvienne
+T21	PROC 454 486	scannographie abdomino-pelvienne
+T22	PROC 493 522	c'lioscopie abdominopelvienne
+T24	ANAT 672 688	parois vaginales
+T25	MEAS 698 703	10 cm
+T26	Concept_Idea 707 721	grand diamètre
+T27	ANAT 754 775	structures hépatiques

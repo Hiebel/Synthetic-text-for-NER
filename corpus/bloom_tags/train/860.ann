@@ -1,0 +1,38 @@
+T1	LIVB 4 9	femme
+T2	Concept_Idea 30 55	antécédents pathologiques
+T3	MEAS 56 67	particulier
+T4	PROC 69 75	admise
+T5	Hospital 80 88	urgences
+T6	DISO 108 129	détresse respiratoire
+T7	PHEN 117 129	respiratoire
+T8	TEMP 139 153	depuis 3 jours
+T9	MEAS 168 179	progressive
+T10	CHEM 185 198	bupaméthasone
+T11	DOSE 200 207	20mg/kg
+T12	TEMP 207 212	/jour
+T13	CHEM 215 225	furosémide
+T14	DOSE 227 233	200 mg
+T15	TEMP 233 235	/j
+T16	CHEM 240 251	nicardipine
+T17	DOSE 253 260	2 mg/kg
+T18	TEMP 260 262	/J
+T19	PROC 267 281	interrogatoire
+T20	DISO 313 341	prise médicamenteuse toxique
+T21	DISO 372 387	symptomatologie
+T22	DISO 422 443	troubles métaboliques
+T23	DEVI 457 529	sonde nasogastrique transoesophagienne endoscopique type Brucelli-Bondée
+T25	PROC 550 587	traumatisme abdominoprélvien cœligeur
+T26	ANAT 562 587	abdominoprélvien cœligeur
+T27	MEAS 640 665	18000 éléments blancs/mm³
+T28	DISO 686 724	syndrome d’épanchement intrapéritonéal
+T29	ANAT 709 724	intrapéritonéal
+T30	DISO 735 746	thrombulisé
+T31	DISO 803 820	douleur pelvienne
+T32	ANAT 811 820	pelvienne
+T33	DISO 826 839	hémoperitoine
+T34	PROC 867 892	échographie vulvovaginale
+T35	ANAT 879 892	vulvovaginale
+T37	MEAS 954 958	12cm
+T38	MEAS 961 965	9 cm
+T39	ANAT 989 1007	placenta cervicale
+T40	DISO 1028 1053	myometre hydronéphrétante

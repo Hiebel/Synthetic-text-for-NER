@@ -1,0 +1,19 @@
+T1	LIVB 20 28	patiente
+T2	PROC 71 83	consultation
+T3	Hospital 88 126	urgences ophtalmologiques pédiatriques
+T4	PROC 137 152	prise en charge
+T5	PROC 161 184	traitement orthopédique
+T6	MEAS 195 199	deux
+T7	ANAT 200 204	yeux
+T8	PROC 209 224	examen clinique
+T9	LIVB 263 269	enfant
+T10	TEMP 277 281	7ans
+T11	LIVB 303 310	parents
+T12	PROC 393 417	échographie obstétricale
+T13	DISO 466 488	anomalie morphologique
+T14	DISO 498 514	signe congénital
+T15	LIVB 524 530	enfant
+T16	PROC 535 560	scanner thoraco-abdominal
+T17	ANAT 543 560	thoraco-abdominal
+T18	PHEN 672 699	fonctionnement psychomoteur
+T19	PROC 759 773	investigations

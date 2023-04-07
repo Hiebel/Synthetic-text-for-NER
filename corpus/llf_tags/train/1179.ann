@@ -1,0 +1,98 @@
+T1	PROC 4 27	contrôles radiologiques
+T2	DISO 46 85	hypertrophie du quadrant supero-externe
+T3	ANAT 62 85	quadrant supero-externe
+T4	PROC 91 120	tomodensitométrie de contrôle
+T5	DISO 166 179	particularité
+T6	Concept_Idea 189 197	résultat
+T7	DISO 214 266	récidive néoplasique des cavités gléno-rénalvétiques
+T8	ANAT 239 266	cavités gléno-rénalvétiques
+T9	DISO 295 327	processus tissulaire sous cutané
+T10	ANAT 335 349	rein supérieur
+T11	Localization 340 349	supérieur
+T12	MEAS 361 376	progressivement
+T13	Concept_Idea 380 386	volume
+T14	DISO 426 447	lésions métastatiques
+T15	PROC 464 494	traitements immunosuppresseurs
+T16	CHEM 476 494	immunosuppresseurs
+T17	LIVB 506 513	famille
+T18	PROC 518 537	bilan préopératoire
+T19	MEAS 553 560	négatif
+T20	DISO 578 591	thrombophilie
+T21	DISO 601 623	syndrome inflammatoire
+T22	DISO 634 651	signes infectieux
+T23	PROC 664 691	examen anatomo-pathologique
+T24	DISO 710 728	métastase tumorale
+T25	PROC 750 776	explorations paracliniques
+T26	LIVB 792 799	patient
+T27	MEAS 836 843	simples
+T28	LIVB 852 858	malade
+T29	PROC 873 893	transfusion sanguine
+T30	LIVB 897 899	il
+T31	TEMP 934 946	janvier 2017
+T32	MEAS 952 956	N° 4
+T33	LIVB 960 972	jeune enfant
+T34	TEMP 980 986	11 ans
+T35	PROC 993 1004	hospitalisé
+T36	Hospital 1008 1023	bloc opératoire
+T37	DISO 1053 1064	traumatisme
+T38	LIVB 1107 1110	son
+T39	LIVB 1111 1117	garçon
+T40	DEVI 1143 1151	cathéter
+T41	PHEN 1168 1187	staff multihandicap
+T42	PROC 1193 1202	admission
+T43	DISO 1229 1254	tuméfaction hypogastrique
+T44	ANAT 1273 1292	région épigastrique
+T45	MEAS 1302 1306	6 cm
+T46	Concept_Idea 1310 1319	grand axe
+T47	ANAT 1343 1358	plancher buccal
+T48	MEAS 1367 1371	4 cm
+T49	Concept_Idea 1375 1384	petit axe
+T50	DISO 1389 1417	douloureusement vascularisée
+T51	DISO 1426 1456	trouble vésicotéro-oesophagien
+T52	DISO 1470 1491	distension abdominale
+T53	ANAT 1481 1491	abdominale
+T54	DISO 1497 1517	infarctus ischémique
+T55	TEMP 1527 1545	depuis trois jours
+T56	DISO 1561 1576	perte pondérale
+T57	MEAS 1587 1593	1litre
+T58	MEAS 1611 1628	1700 unités /mm 3
+T59	PROC 1634 1663	prise en charge thérapeutique
+T60	LIVB 1683 1705	gynécologues pédiatres
+T61	PROC 1797 1800	ORL
+T62	PROC 1805 1831	nasofibroscopie diabétique
+T63	PROC 1832 1835	VBU
+T64	PROC 1843 1873	mastectomie totale segmentaire
+T65	PROC 1874 1877	MGD
+T66	Concept_Idea 1891 1910	aspect histologique
+T67	DISO 1927 1955	hyperprolactinémie familiale
+T68	DISO 1987 2012	maladie cœliaque primaire
+T69	DISO 2032 2062	insuffisance cardio-vasculaire
+T70	ANAT 2045 2062	cardio-vasculaire
+T71	DISO 2116 2146	méningo-encéphalite nécrosante
+T73	Concept_Idea 2755 2791	classifications étiologies cliniques
+T74	PROC 2866 2900	investigations multidisciplinaires
+T75	PROC 2918 2928	diagnostic
+T76	Concept_Idea 2982 3012	critères clinico-radiologiques
+T77	Concept_Idea 3026 3050	résultats hémodynamiques
+T78	PHEN 3096 3116	grossesse gémellaire
+T79	MEAS 3140 3149	difficile
+T80	DISO 3270 3296	foyer lésionnel achromique
+T81	DISO 3303 3332	signes érythémato-péritonéaux
+T82	LIVB 3555 3563	patients
+T83	PROC 3586 3604	séjour hospitalier
+T84	PROC 3608 3627	suivi préopératoire
+T85	PROC 3644 3684	oxygénothérapie parentérale substitutive
+T86	PROC 3698 3717	rééducation motrice
+T87	CHEM 3755 3770	bêtalaméthasone
+T88	CHEM 3773 3784	fluvoxazole
+T89	CHEM 3786 3811	acide acétyle salicylique
+T90	PROC 3823 3847	remplissage sphinctérien
+T91	ANAT 3835 3847	sphinctérien
+T92	PROC 3860 3888	anticoagulation chirurgicale
+T93	MEAS 3924 3931	simples
+T94	PROC 3957 4008	néphrectomie percutanéo-kystique endometrificatrice
+T95	PROC 4027 4055	antibioprophylaxie adjuvante
+T96	PROC 4209 4239	transfusion intrathérapeutique
+T97	DOSE 4336 4342	0,5 ml
+T98	PROC 4410 4437	thyroïdectomie exploratrice
+T99	PROC 4497 4519	surveillance prénatale

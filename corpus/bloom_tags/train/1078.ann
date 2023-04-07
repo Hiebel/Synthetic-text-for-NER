@@ -1,0 +1,46 @@
+T1	LIVB 4 9	femme
+T2	PROC 31 43	hospitalisée
+T3	Hospital 48 56	urgences
+T4	DISO 66 114	douleurs bilatérales du plexus pharyngo-laryngés
+T5	Localization 75 86	bilatérales
+T6	ANAT 90 114	plexus pharyngo-laryngés
+T7	TEMP 130 137	brutale
+T8	MEAS 155 166	progressive
+T10	PROC 227 242	examen clinique
+T11	LIVB 266 274	patiente
+T12	DISO 301 317	syndrome fébrile
+T13	Concept_Idea 319 330	température
+T14	MEAS 333 337	39°C
+T15	DISO 353 366	craniosténose
+T16	DISO 386 394	polypnée
+T17	MEAS 406 419	36 cycles/min
+T18	DISO 432 451	symptômes cliniques
+T19	DISO 477 488	hémoptysies
+T20	DISO 501 527	troubles sensitivo-moteurs
+T21	DISO 557 578	détresse respiratoire
+T22	PHEN 566 578	respiratoire
+T23	MEAS 593 599	rapide
+T24	MEAS 609 635	supérieure à 40 cycles/min
+T25	DISO 676 690	amaigrissement
+T26	MEAS 701 705	20kg
+T27	Concept_Idea 756 762	taille
+T28	MEAS 784 789	45 cm
+T29	MEAS 792 796	70cm
+T30	DISO 820 849	dyspnée stade III de Brackman
+T31	DISO 870 876	fièvre
+T32	DISO 886 933	particularité cutanéo-pleuro-pulmonaire altérée
+T33	PROC 946 978	scanner cervico-abdomino-pelvien
+T34	ANAT 954 978	cervico-abdomino-pelvien
+T35	DISO 1005 1031	masse tissulaire hypodense
+T36	MEAS 1041 1048	46*38mm
+T37	ANAT 1075 1112	parenchyme rétro péritonéal herniaire
+T38	ANAT 1134 1160	voies biliaires principale
+T39	ANAT 1181 1198	cavité abdominale
+T40	MEAS 1210 1221	lègrèrement
+T41	Concept_Idea 1225 1233	diamètre
+T42	DISO 1256 1275	lésions purpuriques
+T43	ANAT 1302 1324	membranes intestinales
+T44	CHEM 1368 1388	produit de contraste
+T45	MEAS 1404 1416	profondément
+T46	Concept_Idea 1421 1427	taille
+T47	MEAS 1438 1451	environ 50 mm

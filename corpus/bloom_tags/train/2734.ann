@@ -1,0 +1,40 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	9 ans
+T3	DISO 111 132	céphalées crépitantes
+T4	TEMP 142 158	depuis deux mois
+T5	ANAT 172 191	plexus phréno-cæcal
+T6	DISO 221 233	hyperthermie
+T7	MEAS 245 249	39°C
+T8	PROC 254 270	bilan biologique
+T9	PHEN 288 303	fonction rénale
+T10	ANAT 297 303	rénale
+T11	MEAS 304 311	normale
+T12	CHEM 313 323	créatinine
+T13	MEAS 336 343	12 mg/l
+T14	PROC 348 378	échographie abdomino-pelvienne
+T15	ANAT 360 378	abdomino-pelvienne
+T16	MEAS 385 392	normale
+T17	PROC 396 464	ponction liquide céphalo-méningo-néphrétinone péritonéale liquidatée
+T19	PROC 470 486	analgésie locale
+T20	PROC 513 541	contraception médicamenteuse
+T21	CHEM 547 560	métronidazole
+T22	CHEM 562 573	méthoxifène
+T23	CHEM 575 585	furosémide
+T24	CHEM 587 599	prédnisolone
+T25	CHEM 627 658	amoxicilline acide clavulanique
+T26	DISO 735 776	syndrome infectieux clinico-radiologiques
+T27	DISO 782 803	empyèmes hypotoniques
+T28	ANAT 791 803	hypotoniques
+T29	CHEM 843 890	médicaments anti-inflammatoires non-stéroïdiens
+T30	DISO 963 978	symptomatologie
+T31	DISO 1044 1067	polyneuropathie fébrile
+T32	MEAS 1108 1130	rapidement progressive
+T33	MEAS 1163 1179	mal systématisée
+T34	MODE 1209 1219	voie orale
+T35	DOSE 1230 1233	3 g
+T36	CHEM 1237 1248	nicardipine
+T37	DOSE 1258 1263	20 mg
+T38	CHEM 1267 1278	paracétamol
+T39	DOSE 1281 1287	120 mg
+T40	CHEM 1291 1300	midazolam
+T41	TEMP 1302 1319	pendant 48 heures

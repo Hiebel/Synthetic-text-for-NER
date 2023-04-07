@@ -1,0 +1,57 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 17 23	4 mois
+T3	Hospital 73 98	Centre Neuropsychiatrique
+T4	PROC 122 164	traitement psychothérapeutique substitutif
+T5	PHEN 183 223	renseignements chirurgicaux pédiatriques
+T6	PROC 229 238	admission
+T7	LIVB 256 266	nourrisson
+T8	LIVB 288 292	père
+T9	LIVB 308 314	frères
+T10	DEVI 368 377	sacrifice
+T11	LIVB 384 388	mère
+T12	TEMP 403 409	27 ans
+T13	LIVB 500 502	sa
+T14	LIVB 503 527	belle-famille maternelle
+T15	LIVB 543 546	son
+T16	LIVB 547 558	petit frère
+T17	MEAS 592 603	5000 gramme
+T18	MEAS 607 618	560 grammes
+T19	LIVB 701 718	parents maternels
+T20	LIVB 774 784	monsieur B
+T21	LIVB 795 802	enfants
+T22	LIVB 1009 1014	femme
+T23	DISO 1080 1120	hallucinations visuelles hallucinatoires
+T24	DISO 1263 1286	hallucinations tactiles
+T25	Concept_Idea 1310 1313	âge
+T26	TEMP 1317 1324	24 mois
+T27	DISO 1397 1417	vomissements buccaux
+T28	DISO 1451 1475	sensations télépathiques
+T29	DISO 1545 1569	hallucinations auditives
+T30	LIVB 1683 1700	familles éplorées
+T31	DOSE 1777 1788	deux verres
+T32	CHEM 1792 1818	sufentanamide hypertonique
+T33	CHEM 1882 1893	gentamicine
+T34	CHEM 1942 1955	Triméthoprime
+T35	CHEM 2005 2028	méthamphétamine sodique
+T36	CHEM 2072 2087	benzodiazépines
+T37	PROC 2331 2335	SAPL
+T38	Concept_Idea 2372 2384	état général
+T39	Concept_Idea 2406 2423	état nutritionnel
+T40	DISO 2436 2462	signes neuropsychiatriques
+T41	PROC 2493 2534	traitements pharmacologiques substitutifs
+T42	PHEN 2553 2582	transitance cardio-vasculaire
+T43	ANAT 2565 2582	cardio-vasculaire
+T44	PROC 2613 2633	bilan phtisiologique
+T45	PROC 2652 2676	examens microbiologiques
+T46	LIVB 2730 2737	famille
+T47	MEAS 2848 2849	3
+T48	LIVB 2850 2857	enfants
+T49	PROC 2965 2993	chimiothérapie néo adjuvante
+T50	PROC 3028 3056	consultation ophtalmologique
+T51	PROC 3072 3144	néphrectomie totale transoesophagienne intracrânio-orbitaire achilléenne
+T53	PROC 3608 3702	remplissage rétromalléolaire basithoracique préopératoire longéïctéronostatique extrapyramidal
+T55	PROC 3715 3759	biopsie segmentaire deltoïdale scanno-guidée
+T56	Localization 3781 3804	parties molles distales
+T57	MEAS 3847 3851	5 cm
+T58	MEAS 3855 3859	7 cm
+T59	Concept_Idea 3871 3894	structure intrascrotale

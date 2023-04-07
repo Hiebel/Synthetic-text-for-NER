@@ -1,0 +1,31 @@
+T1	LIVB 15 22	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 77	notables
+T4	PROC 79 84	admis
+T5	Hospital 89 97	urgences
+T6	DISO 116 130	amaigrissement
+T7	MEAS 141 146	12 kg
+T8	PROC 150 165	examen clinique
+T9	Concept_Idea 179 190	température
+T10	MEAS 193 197	39°C
+T11	PHEN 207 219	sensibilités
+T12	ANAT 233 236	dos
+T13	ANAT 247 264	vésicule biliaire
+T14	DISO 281 313	hépato-splénomégalie congénitale
+T15	PROC 319 354	tomodensitométrie abdominopelvienne
+T16	ANAT 337 354	abdominopelvienne
+T19	CHEM 533 546	metronidazole
+T20	ANAT 562 579	liquide splénique
+T21	MEAS 589 593	70mm
+T22	Concept_Idea 597 606	grand axe
+T23	MEAS 622 626	fine
+T24	ANAT 641 657	glandes sébacées
+T25	ANAT 670 682	ovaire droit
+T26	Localization 677 682	droit
+T27	MEAS 706 710	2 cm
+T28	MEAS 714 717	3cm
+T29	PROC 720 741	échographie pelvienne
+T30	ANAT 732 741	pelvienne
+T31	DISO 770 779	anomalies
+T32	DISO 807 820	paragangliome
+T33	DISO 830 851	localisation kystique

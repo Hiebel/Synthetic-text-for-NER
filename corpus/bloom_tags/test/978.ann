@@ -1,0 +1,31 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 35	12 ans
+T3	DISO 78 106	syndrome d'épilepsie fébrile
+T4	DISO 147 161	amaigrissement
+T5	MEAS 172 176	8 kg
+T6	CHEM 182 201	valproate de sodium
+T7	Hospital 219 241	urgences chirurgicales
+T8	DISO 277 305	symptomatologie neurologique
+T9	DISO 317 333	troubles visuels
+T10	DISO 335 351	sensitivo-moteur
+T11	DISO 364 394	saignement péribuccal purulent
+T12	ANAT 375 394	péribuccal purulent
+T13	MEAS 404 409	200ml
+T14	DISO 434 446	vomissements
+T15	MEAS 461 470	brunâtres
+T16	Concept_Idea 498 515	état nutritionnel
+T17	LIVB 545 552	famille
+T18	MODE 704 714	voie basse
+T19	LIVB 721 726	fille
+T20	MEAS 734 739	700kg
+T21	LIVB 763 773	nouveau-né
+T22	MEAS 780 791	score 10/10
+T23	PROC 815 853	contraception artérielle intraveineuse
+T25	PROC 915 945	auscultation pleuro-pulmonaire
+T26	ANAT 928 945	pleuro-pulmonaire
+T27	DISO 969 997	réflexes bronchiques altérés
+T28	ANAT 978 997	bronchiques altérés
+T29	ANAT 1041 1063	transthoracique pulsée
+T30	DISO 1094 1142	remaniements ventriculo-surrénaloïdiens crâniens
+T31	ANAT 1107 1142	ventriculo-surrénaloïdiens crâniens
+T32	ANAT 1207 1226	supra-hypogastrique

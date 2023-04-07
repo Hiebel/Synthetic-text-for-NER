@@ -1,0 +1,31 @@
+T1	LIVB 16 24	patiente
+T3	ANAT 69 79	pelviennes
+T4	MEAS 94 100	rapide
+T5	TEMP 110 131	depuis plusieurs mois
+T6	PROC 135 155	examen gynécologique
+T7	DISO 178 237	tuméfaction du col recto-sigmoïdien cervicocervico-vaginale
+T8	ANAT 193 237	col recto-sigmoïdien cervicocervico-vaginale
+T9	MEAS 249 264	progressivement
+T10	Concept_Idea 268 274	volume
+T11	DISO 280 309	envahissement cutanéo-muqueux
+T12	PROC 314 334	biopsie chirurgicale
+T13	DISO 347 377	carcinome péritonéal infiltrat
+T14	ANAT 357 377	péritonéal infiltrat
+T15	ANAT 393 411	parenchyme ovarien
+T16	Concept_Idea 414 421	aspects
+T17	MEAS 422 436	peu évocateurs
+T18	PROC 457 464	réséqué
+T19	PROC 468 476	recouvré
+T20	PROC 483 511	repérage anatomopathologique
+T21	PROC 532 561	analyse génétique étiologique
+T22	LIVB 573 581	patiente
+T23	LIVB 583 586	ses
+T24	PHEN 587 606	règles menstruelles
+T25	DOSE 684 695	forte doses
+T26	CHEM 699 712	bêtaméthasone
+T27	PROC 909 924	prise en charge
+T28	MEAS 959 969	dramatique
+T29	PROC 990 1008	traitement curatif
+T30	MEAS 1099 1105	40-45%
+T31	PROC 1152 1218	radiothérapie palliative transaxillaire locorégionale systématisée
+T32	PROC 1286 1303	photons ionisants

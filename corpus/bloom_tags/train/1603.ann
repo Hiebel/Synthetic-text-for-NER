@@ -1,0 +1,29 @@
+T1	LIVB 29 37	patiente
+T2	PROC 74 119	scanner cardio-vasculo-nerveux crânio-faciale
+T3	ANAT 82 119	cardio-vasculo-nerveux crânio-faciale
+T4	PROC 132 185	intervention chirurgicale transfémorale intraveineuse
+T5	DISO 227 248	détresse respiratoire
+T6	PHEN 236 248	respiratoire
+T7	MEAS 263 270	brutale
+T8	DISO 291 302	dyspnéiques
+T9	TEMP 326 342	depuis deux mois
+T10	MEAS 359 374	progressivement
+T11	Concept_Idea 378 384	taille
+T12	PROC 408 435	traitement médical adjuvant
+T13	CHEM 448 466	méthylprednisolone
+T14	CHEM 468 479	cyclosérine
+T15	CHEM 481 494	dexaméthasone
+T16	CHEM 496 510	hydrocortisone
+T17	CHEM 512 523	ethionamide
+T18	CHEM 525 538	noradrénaline
+T19	CHEM 540 553	nicardiprolol
+T20	CHEM 556 569	cisatracurium
+T21	CHEM 571 582	propranolol
+T22	CHEM 584 593	midazolam
+T23	CHEM 595 608	phénobarbital
+T24	CHEM 610 629	valproate de sodium
+T25	DOSE 631 637	1mg/kg
+T26	MODE 638 648	voie orale
+T27	CHEM 651 661	Nefentanyl
+T28	MEAS 713 718	4g/m²
+T29	DISO 839 861	récidive locoromotrice

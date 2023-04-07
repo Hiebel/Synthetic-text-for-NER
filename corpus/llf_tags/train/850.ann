@@ -1,0 +1,96 @@
+T1	PROC 2 19	tomodensitométrie
+T2	PROC 21 51	TDM) thoraco-abdominopelvienne
+T3	ANAT 26 51	thoraco-abdominopelvienne
+T4	DISO 73 108	processus tissulaire du rein gauche
+T5	ANAT 97 108	rein gauche
+T6	Localization 102 108	gauche
+T7	MEAS 118 122	6 mm
+T8	Concept_Idea 126 134	diamètre
+T9	PROC 138 164	étude immuno-histochimique
+T10	PHEN 201 219	suites opératoires
+T11	DISO 233 247	particularités
+T12	LIVB 252 260	patiente
+T13	PROC 277 304	traitement antihypertenseur
+T14	CHEM 288 304	antihypertenseur
+T15	CHEM 314 333	hydroxyprogestérone
+T16	PROC 339 364	chimiothérapie palliative
+T17	MODE 369 379	voie orale
+T18	PROC 393 421	corticothérapie concomitante
+T19	PROC 428 449	contrôle radiologique
+T20	MEAS 461 467	normal
+T21	PROC 472 502	bilan biologique préopératoire
+T22	DISO 530 551	récidive métastatique
+T23	DISO 555 567	métastatique
+T24	DISO 572 595	symptômes neurologiques
+T25	DISO 611 616	signe
+T26	PROC 629 666	bloc axillaire cervical scanno-guidée
+T27	ANAT 702 732	angle postéro latérale droites
+T28	Localization 725 732	droites
+T29	DISO 738 828	adénocarcinome anaplasmocytaire monothélial kystique infiltrant rénal bilatéral sténosante
+T30	Localization 808 817	bilatéral
+T31	ANAT 857 901	fosse infra temporale supérieure postérieure
+T32	Localization 890 901	postérieure
+T33	MEAS 915 920	10 cm
+T34	Concept_Idea 924 933	grand axe
+T35	PROC 939 958	hystérectomie large
+T36	Localization 953 958	large
+T39	ANAT 1084 1126	nerf abdomino-péritonéal supérieur gauches
+T40	Localization 1119 1126	gauches
+T41	PROC 1133 1160	vissage anatomopathologique
+T42	PROC 1184 1210	retraiter chirurgicalement
+T43	DISO 1217 1223	tumeur
+T44	Concept_Idea 1247 1266	aspect histologique
+T45	Concept_Idea 1280 1305	localisation endoscopique
+T46	PROC 1310 1347	résultat anatomopathologique standard
+T47	DISO 1372 1422	léiomyome liquidien intracytonucléébelleux maligne
+T48	TEMP 1430 1442	initialement
+T49	MEAS 1443 1449	ACR5M0
+T50	PROC 1517 1546	prélèvements bactériologiques
+T51	LIVB 1570 1577	malades
+T52	MEAS 1595 1606	spécifiques
+T53	DISO 1653 1724	schwannome papillaire polymyomateux thymique mucineux ectopique lobulée
+T54	MEAS 1733 1740	15/8 cm
+T55	Concept_Idea 1744 1753	grand axe
+T56	ANAT 1767 1788	granulations charnues
+T57	ANAT 1841 1861	membranes digestives
+T58	ANAT 1887 1909	ganglions superficiels
+T59	PROC 1917 1934	mise en condition
+T60	PROC 1962 1983	toilette respiratoire
+T61	ANAT 1971 1983	respiratoire
+T62	DEVI 2005 2029	seringues perméabilisées
+T63	CHEM 2077 2086	potassium
+T65	DOSE 2160 2171	100 grammes
+T66	MEAS 2183 2207	9 fois la dose prescrite
+T67	PROC 2213 2266	biopsies extemporanéphrines rectales intrathoraciques
+T68	DISO 2292 2333	endométriosique carcinomateuse stade IGBC
+T69	MEAS 2609 2615	7×11mm
+T70	MEAS 2642 2661	12 × 10 millimètres
+T71	Localization 2718 2730	bord latéral
+T73	Localization 2785 2812	homolatéral fessier interne
+T75	ANAT 2909 2943	péritoine pariétal inférieur droit
+T76	Localization 2938 2943	droit
+T77	PROC 2960 2978	traitement médical
+T78	PROC 3002 3041	chimiothérapie antibacillaire adjuvante
+T79	PROC 3057 3083	anticoagulation préventive
+T80	PROC 3097 3135	thyréotomie exploratrice scanno-guidée
+T81	PROC 3149 3188	fermeture endonasale pré angiographique
+T82	PHEN 3202 3211	grossesse
+T83	DISO 3229 3264	incident thrombo-embols vasculaires
+T84	PROC 3296 3321	consultation obstétricale
+T85	MEAS 3341 3350	favorable
+T86	DISO 3356 3373	récidive tumorale
+T87	DISO 3377 3399	métastases secondaires
+T88	DISO 3410 3437	signes clinico-radiologique
+T89	DISO 3464 3489	récidive hépato-pelvienne
+T90	ANAT 3473 3489	hépato-pelvienne
+T91	PROC 3567 3577	opératoire
+T92	PROC 3595 3604	admission
+T93	LIVB 3610 3615	notre
+T94	Hospital 3616 3625	structure
+T95	PROC 3630 3649	bilan immunologique
+T96	MEAS 3661 3668	négatif
+T97	Concept_Idea 3694 3718	vitesse de sédimentation
+T98	MEAS 3729 3738	32 mmol/L
+T99	MEAS 3746 3755	21 mmol/L
+T100	PROC 3794 3812	Facteur rhumatoïde
+T101	MEAS 3815 3824	29 mg/kgl

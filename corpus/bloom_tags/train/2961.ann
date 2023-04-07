@@ -1,0 +1,47 @@
+T1	TEMP 14 19	9 ans
+T2	DISO 46 65	traumatisme crânien
+T3	DISO 81 100	maladie infectieuse
+T4	PROC 115 124	admission
+T5	LIVB 129 136	patient
+T6	Concept_Idea 151 155	état
+T7	Concept_Idea 170 188	plan hémodynamique
+T8	PHEN 198 240	battements du flux céphalo-pariéto-frontal
+T9	ANAT 212 240	flux céphalo-pariéto-frontal
+T10	MEAS 261 275	120 battements
+T11	TEMP 276 287	par minutes
+T12	Localization 289 301	périphérique
+T13	PROC 411 427	examen somatique
+T14	DISO 441 454	particularité
+T15	PROC 459 489	bilan biologique préopératoire
+T16	PROC 507 515	natrémie
+T17	MEAS 518 527	138 meq/l
+T18	PROC 535 543	kaliémie
+T19	MEAS 546 552	1meq/l
+T20	PROC 566 593	numération formule sanguine
+T21	MEAS 610 617	normaux
+T22	PROC 620 639	Hémoglobine glyquée
+T23	MEAS 641 645	4,3%
+T24	PROC 647 658	hématocrite
+T25	MEAS 660 664	3,5%
+T26	PROC 667 682	globules blancs
+T27	MEAS 684 693	12000/mm3
+T28	PROC 696 706	leucocytes
+T29	MEAS 708 718	10800/mm 3
+T30	PROC 723 726	CRP
+T31	MEAS 741 751	4880 UI/ml
+T32	MEAS 757 777	deux fois la normale
+T33	LIVB 780 782	Il
+T34	PROC 804 836	scanner thoraco abdomino pelvien
+T35	ANAT 812 836	thoraco abdomino pelvien
+T36	PROC 850 874	anesthésie locorégionale
+T37	DISO 892 959	masse tumorale hypoéchogène hétérogène tissulaire hypervascularisée
+T38	MEAS 969 974	15 cm
+T39	MEAS 977 982	14 cm
+T40	MEAS 985 989	8 cm
+T41	ANAT 1010 1036	sinus caverneux péritonéal
+T43	CHEM 1075 1095	produit de contraste
+T44	DISO 1162 1191	métastases kystiques malignes
+T45	LIVB 1193 1197	Nous
+T46	PROC 1218 1233	examen clinique
+T47	PROC 1242 1285	tomodensitométrie pelvienne scannographique
+T48	ANAT 1260 1285	pelvienne scannographique

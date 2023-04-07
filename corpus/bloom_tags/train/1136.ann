@@ -1,0 +1,27 @@
+T1	LIVB 19 26	patient
+T2	DISO 73 101	hyperhydratation métabolique
+T3	ANAT 114 136	membre inférieur droit
+T4	Localization 131 136	droit
+T5	PROC 162 177	examen clinique
+T6	DISO 194 215	détresse respiratoire
+T7	PHEN 203 215	respiratoire
+T8	TEMP 225 238	depuis 3 mois
+T9	DISO 254 283	dyspnée stade IV de Balthazar
+T10	Concept_Idea 319 331	état général
+T11	DISO 354 360	fièvre
+T12	DISO 371 394	symptômes neurologiques
+T13	DISO 437 449	vomissements
+T14	DISO 468 483	symptomatologie
+T15	ANAT 496 511	cutanéo-muqueux
+T16	MEAS 520 526	perçus
+T17	ANAT 540 548	poignets
+T18	ANAT 588 614	vasculo-nerveux crâniennes
+T19	DEVI 630 648	doigts électriques
+T20	DISO 661 681	nodule hypogastrique
+T21	MEAS 691 703	environ 6 cm
+T22	Concept_Idea 707 716	grand axe
+T23	ANAT 729 771	plan musculaire profond superficiel utérin
+T24	ANAT 810 826	rétrovésiculaire
+T25	DISO 940 963	masse arrondie kystique
+T26	MODE 991 996	bolus
+T27	DOSE 1000 1007	2 mg/kg

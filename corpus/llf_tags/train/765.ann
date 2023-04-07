@@ -1,0 +1,81 @@
+T1	LIVB 4 9	femme
+T2	DISO 26 51	antécédents pathologiques
+T3	MEAS 52 64	particuliers
+T4	PROC 71 77	admise
+T5	Hospital 82 90	urgences
+T6	DISO 99 144	syndrome d'insuffisance cardiaque obstructive
+T7	ANAT 123 132	cardiaque
+T8	PROC 150 164	interrogatoire
+T9	PROC 178 190	consultation
+T10	DISO 201 210	dysphagie
+T11	TEMP 220 241	depuis plusieurs mois
+T12	DISO 257 282	vomissements alimentaires
+T13	Concept_Idea 310 326	tableau clinique
+T14	DISO 372 395	trouble de comportement
+T15	CHEM 451 468	corticoïdes oraux
+T16	PROC 515 534	enquête étiologique
+T17	DISO 629 654	symptômes dysfonctionnels
+T18	PROC 704 719	examen physique
+T19	LIVB 724 732	patiente
+T20	DISO 749 786	nodules angiomateux intra-pulmonaires
+T21	ANAT 799 821	membre supérieur droit
+T22	Localization 816 821	droit
+T23	DISO 869 916	processus érythémateux tissulaire hypogastrique
+T24	MEAS 925 934	90/60mmHg
+T25	PHEN 941 965	réflexes ostéo-tendineux
+T26	ANAT 950 965	ostéo-tendineux
+T27	MEAS 1012 1019	10x8 cm
+T28	DISO 1044 1070	signes neuropsychiatriques
+T29	DISO 1153 1162	céphalées
+T30	PROC 1194 1203	admission
+T31	DEVI 1207 1234	sonde naso-gastro-duodénale
+T32	ANAT 1213 1234	naso-gastro-duodénale
+T33	DISO 1274 1296	niveau hydrothyroïdien
+T34	ANAT 1315 1339	région scapulaire droite
+T35	Localization 1333 1339	droite
+T36	ANAT 1392 1423	branche sus claviculaire gauche
+T37	Localization 1417 1423	gauche
+T39	PROC 1750 1769	électrocardiogramme
+T40	DISO 1783 1795	hypocalcémie
+T41	MEAS 1798 1804	99mg/l
+T42	DISO 1819 1829	tachycarde
+T43	MEAS 1832 1842	93 bat/min
+T44	PROC 1910 1929	radiologie standard
+T45	DISO 1943 1961	hyperbilirubinémie
+T46	MEAS 1964 1972	96 mEq/l
+T47	MEAS 1983 1991	95 pg/dl
+T48	MEAS 2098 2116	13 fois la normale
+T49	PROC 2130 2148	hémophagocytocique
+T50	DISO 2431 2469	maladie cœliaque primaire idiopathique
+T51	PROC 2655 2677	traitement substitutif
+T52	PROC 2685 2706	traitements adjuvants
+T53	TEMP 2730 2737	18 mois
+T54	Concept_Idea 2765 2774	résultats
+T55	LIVB 2813 2819	enfant
+T56	CHEM 2835 2865	pénicilline acide clavulanique
+T57	DEVI 2869 2877	cathéter
+T58	DISO 2894 2918	récepteurs adrénergiques
+T59	DISO 3102 3120	symptômes toxiques
+T60	PROC 3156 3183	thyroïdectomie chirurgicale
+T61	PROC 3192 3236	anastomose nasogastroduodénale scanno-guidée
+T62	ANAT 3203 3222	nasogastroduodénale
+T63	PROC 3249 3273	scanner abdomino-pelvien
+T64	ANAT 3257 3273	abdomino-pelvien
+T65	PROC 3299 3331	biopsie exérèse endobuccalytique
+T66	DISO 3353 3372	lésions nécrotiques
+T67	Concept_Idea 3394 3413	aspect radiologique
+T68	PROC 3419 3452	antibioprophylaxie antibacillaire
+T69	PHEN 3498 3518	grossesse monofoetal
+T70	PROC 3534 3569	prise en charge psychothérapeutique
+T71	Hospital 3593 3635	Service Hospitalier Universitaire Régional
+T72	LIVB 3654 3662	patients
+T73	MEAS 3695 3705	favorables
+T74	PROC 3714 3739	transfusion intraveineuse
+T75	PROC 3749 3771	consultation prénatale
+T76	TEMP 3934 3945	24 semaines
+T77	LIVB 3961 3979	médecins pédiatres
+T78	PROC 3984 4014	monitorage radio échographique
+T79	TEMP 4131 4140	48h30 min
+T80	TEMP 4142 4151	32h40 min
+T81	TEMP 4155 4164	31h45 min
+T82	PROC 4354 4377	recherche thérapeutique

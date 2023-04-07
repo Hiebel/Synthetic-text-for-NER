@@ -1,0 +1,36 @@
+T1	LIVB 16 24	patiente
+T2	DISO 60 79	dyspnée obstructive
+T3	MEAS 94 101	modérée
+T4	Concept_Idea 106 112	effort
+T5	TEMP 114 127	depuis 3 mois
+T6	DISO 159 192	syndrome inflammatoire biologique
+T7	DISO 210 224	ictère fébrile
+T8	DISO 237 257	signes neurologiques
+T9	PROC 270 285	examen clinique
+T10	LIVB 299 307	patiente
+T11	MEAS 311 320	assez bon
+T12	Concept_Idea 321 333	état général
+T13	DISO 353 367	amaigrissement
+T14	MEAS 378 383	22 kg
+T15	CHEM 427 440	cisatracurium
+T16	DOSE 454 458	dose
+T17	DOSE 462 469	1 mg/kg
+T19	CHEM 498 523	médicaments antibiotiques
+T20	CHEM 529 560	amoxicilline-acide clavulanique
+T21	Hospital 589 614	urgences ophtalmologiques
+T22	PROC 671 689	radiothérapeutique
+T23	CHEM 742 788	médicaments antiinflammatoires non-stéroïdiens
+T24	PROC 833 863	échographie abdomino-pelvienne
+T25	ANAT 845 863	abdomino-pelvienne
+T26	DISO 881 974	épanchement liquidien pérituberculoïde lithiasique basithoracique inférieur bilatérale droite
+T28	Localization 957 974	bilatérale droite
+T29	DISO 1063 1090	masse graisseuse pléomorphe
+T30	MEAS 1102 1117	progressivement
+T31	Concept_Idea 1121 1127	taille
+T32	MEAS 1138 1142	2 cm
+T33	MEAS 1145 1148	3cm
+T34	PROC 1231 1250	étude microscopique
+T35	PROC 1264 1295	imagerie immunohistochochimique
+T36	DISO 1323 1333	polymorphe
+T37	DISO 1386 1439	épanchement liquidien péri-tuberculoide anévrismateux
+T38	LIVB 1485 1508	professionnels médicaux

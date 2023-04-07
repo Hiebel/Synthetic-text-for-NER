@@ -1,0 +1,44 @@
+T1	LIVB 4 9	femme
+T2	DISO 40 67	troubles du cycle menstruel
+T3	PHEN 52 67	cycle menstruel
+T4	TEMP 77 91	depuis un mois
+T5	DISO 104 120	signes cliniques
+T6	PROC 133 148	examen clinique
+T7	PROC 153 162	admission
+T8	LIVB 180 188	patiente
+T9	Concept_Idea 203 221	plan hémodynamique
+T10	DISO 255 279	polynucléose neutrophile
+T11	DISO 295 326	sensibilité épigastrique aiguée
+T12	ANAT 307 326	épigastrique aiguée
+T13	MEAS 342 364	rapidement progressive
+T14	Localization 399 408	bilatéral
+T15	DISO 435 479	symptômes d'épanchement liquidien péritonéal
+T16	ANAT 459 479	liquidien péritonéal
+T17	DISO 496 540	masse rétro-péritonéale latéro-surrénalienne
+T18	MEAS 550 554	12cm
+T19	Concept_Idea 558 567	grand axe
+T20	TEMP 576 605	il y a environ trois semaines
+T21	MEAS 644 659	progressivement
+T22	Concept_Idea 663 669	volume
+T23	PROC 701 739	traitements médicamenteux substitutifs
+T24	CHEM 750 768	hydroxychloroquine
+T25	CHEM 770 780	isoniazide
+T26	CHEM 782 795	dexaméthasone
+T27	CHEM 797 808	rifampicine
+T28	CHEM 810 822	Pyrazinamide
+T29	CHEM 824 838	Ciprofloxacine
+T30	CHEM 841 852	Ethionamide
+T31	CHEM 854 865	Vinblastine
+T32	CHEM 867 878	Cyclosérine
+T33	PROC 895 930	examen gynéco obstétrical somatique
+T34	DISO 961 970	anomalies
+T35	DISO 985 1006	contracture ovarienne
+T36	ANAT 997 1006	ovarienne
+T37	DEVI 1023 1057	colpo-ductiel transfixiante souple
+T38	PROC 1061 1102	radiographie thoraco-thoracique infarctée
+T39	ANAT 1074 1102	thoraco-thoracique infarctée
+T40	DISO 1116 1198	dilatation artério-veineuse cervicale antrithoracique basithoracique hypertrophiée
+T43	ANAT 1309 1341	champ pulmonaire inférieur droit
+T44	Localization 1336 1341	droit
+T45	ANAT 1356 1389	hémi-diaphragme thoracique gauche
+T46	Localization 1383 1389	gauche

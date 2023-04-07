@@ -1,0 +1,45 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	10 ans
+T3	PHEN 44 62	grossesse gémellée
+T4	PROC 90 101	hospitalisé
+T5	Hospital 106 114	urgences
+T6	DISO 123 161	syndrome d'épanchement intrapéritonéal
+T7	ANAT 146 161	intrapéritonéal
+T8	DISO 169 185	hémoperitoinémie
+T9	PROC 189 214	intervention chirurgicale
+T10	PROC 235 264	chimiothérapie antibacillaire
+T11	CHEM 277 286	Etoposide
+T12	CHEM 288 299	Cyclosérine
+T13	CHEM 301 315	Ciprofloxacine
+T14	CHEM 317 330	Sulfasalazine
+T15	CHEM 332 345	Triméthoprime
+T16	CHEM 347 358	Gentamycine
+T17	CHEM 360 372	Pyrazinamide
+T18	CHEM 374 385	Ethionamide
+T19	CHEM 387 402	Chloramphénicol
+T20	CHEM 404 416	Methotrexate
+T21	CHEM 419 430	Doxycycline
+T22	CHEM 432 443	Vinblastine
+T23	CHEM 445 455	Furosémide
+T24	CHEM 457 468	Epirubicine
+T25	CHEM 470 480	Néfazoline
+T26	PROC 516 580	radiothérapie adjuvante palliative des parties molles pelviennes
+T27	ANAT 555 580	parties molles pelviennes
+T28	PROC 648 675	traitements curatifs locaux
+T29	CHEM 737 748	ceftriaxone
+T30	DISO 768 787	pancréatite stade E
+T31	DISO 792 810	dystension utérine
+T32	ANAT 803 810	utérine
+T33	DISO 848 869	détresse respiratoire
+T34	PHEN 857 869	respiratoire
+T35	DISO 880 919	adénopathies pulmonaires hypogastriques
+T36	ANAT 893 919	pulmonaires hypogastriques
+T37	TEMP 929 947	pendant 6 semaines
+T38	DISO 984 1020	symptomatologie clinico-radiologique
+T39	ANAT 1049 1080	abdomino-pelvienne exploratrice
+T40	PROC 1094 1138	tomodensitométrie thoraco-abdomino-pelvienne
+T41	ANAT 1112 1138	thoraco-abdomino-pelvienne
+T42	DISO 1167 1187	prolapsus anévrismal
+T43	DISO 1199 1227	atteinte vasculo-myogénitale
+T44	ANAT 1208 1227	vasculo-myogénitale
+T45	DISO 1319 1334	neuro-endocrine

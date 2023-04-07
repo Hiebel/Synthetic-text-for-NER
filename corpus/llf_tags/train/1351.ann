@@ -1,0 +1,38 @@
+T1	LIVB 20 28	patiente
+T2	MEAS 62 63	9
+T3	LIVB 64 71	enfants
+T4	DEVI 168 186	cathéter péridural
+T5	PROC 241 269	prise en charge chirurgicale
+T6	TEMP 281 291	24/08/2013
+T7	Hospital 295 328	service des urgences pédiatriques
+T8	Hospital 332 382	centre hospitalier universitaire Yalgado Ouédraogo
+T9	Hospital 384 434	Centre Hospitalier Universitaire Yalgado Ouédraogo
+T10	DISO 455 484	décompensation néonatal aiguë
+T11	PHEN 498 510	accouchement
+T12	PROC 515 520	suivi
+T13	Concept_Idea 531 562	recommandations internationales
+T14	PROC 587 615	neuroleptiques probabilistes
+T15	Concept_Idea 651 669	plan hémodynamique
+T16	PROC 695 710	examen clinique
+T17	DISO 728 764	déficit sensitivomoteur psychomoteur
+T18	DISO 771 802	désorientation temporo-spaciale
+T19	LIVB 856 864	patiente
+T20	LIVB 956 963	garçons
+T21	MEAS 1030 1031	6
+T22	LIVB 1032 1056	grands-parents maternels
+T23	LIVB 1079 1083	fils
+T24	PROC 1088 1120	scanner thoraco-abdomino-pelvien
+T25	ANAT 1096 1120	thoraco-abdomino-pelvien
+T26	DISO 1147 1233	distension ventriculo-péritonéale cervico-utérine lombaire antero-vaginale congénitale
+T28	TEMP 1243 1257	depuis 5 jours
+T29	PROC 1270 1294	ventilation artificielle
+T30	MEAS 1311 1326	progressivement
+T31	PROC 1357 1373	geste opératoire
+T32	PROC 1422 1443	biopsie scanno-guidée
+T33	DISO 1475 1531	tumeur anévrysmale épiphysaire hétéronodulaire malformée
+T34	MEAS 1541 1554	7 centimètres
+T35	Concept_Idea 1558 1566	diamètre
+T36	Localization 1581 1603	extrémités supérieures
+T37	Concept_Idea 1650 1672	limites métatarsiennes
+T38	ANAT 1696 1731	zones charnues thoraciques distales
+T39	MEAS 1906 1911	10 cm

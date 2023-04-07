@@ -1,0 +1,19 @@
+T1	LIVB 15 22	patient
+T2	TEMP 82 102	il ya plus de 30 ans
+T3	DISO 154 164	sciatalgie
+T4	DISO 182 210	traumatisme articulaire aigu
+T5	PROC 231 243	consultation
+T6	PROC 249 290	mastectomie exploratrice scanno-biopsique
+T7	PROC 300 316	technique MOLLE®
+T8	PHEN 321 336	pronostic vital
+T9	ANAT 401 409	cheville
+T10	ANAT 429 441	nerf laryngé
+T11	ANAT 461 500	aires ganglionnaires cervicocéphaliques
+T12	ANAT 510 567	compartiment lombo-rachidien inferieur homolatéral gauche
+T13	Localization 549 567	homolatéral gauche
+T14	PROC 587 633	ventilation mécanique extracorporelle assistée
+T15	PROC 646 716	néphrectomie percutanée totale élargie segmentaire profonde encapsulée
+T16	PROC 732 876	tumorectomie axillaire transoesophagienne multidérivante bipariéto-sigmoïdale endoluminale antérolatérale postérieure bilatérale latérale droite
+T17	Localization 850 876	bilatérale latérale droite
+T18	MEAS 1056 1063	simples
+T19	TEMP 1132 1150	pendant 6 semaines

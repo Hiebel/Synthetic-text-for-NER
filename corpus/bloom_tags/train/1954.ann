@@ -1,0 +1,81 @@
+T1	LIVB 3 10	patient
+T2	DISO 27 52	antécédents pathologiques
+T3	MEAS 53 61	notables
+T4	PROC 63 73	consultait
+T5	DISO 83 109	douleurs pelviennes aiguës
+T6	ANAT 92 102	pelviennes
+T7	TEMP 119 132	depuis 2 mois
+T8	PROC 136 151	examen clinique
+T9	Concept_Idea 165 171	taille
+T10	MEAS 174 180	102 cm
+T11	PHEN 189 204	cycle menstruel
+T12	LIVB 222 224	Il
+T13	PROC 231 236	admis
+T14	Hospital 241 249	urgences
+T15	DISO 261 278	choc hémorragique
+T16	PROC 312 329	ponction lombaire
+T17	ANAT 321 329	lombaire
+T18	PROC 345 376	colpohystérectomie exploratrice
+T19	PROC 380 405	intervention chirurgicale
+T20	PROC 426 450	anesthésie locorégionale
+T21	ANAT 437 450	locorégionale
+T23	CHEM 464 474	sufentanil
+T24	Localization 540 546	centre
+T25	ANAT 540 555	centre périnéal
+T26	ANAT 569 580	flanc droit
+T27	Localization 575 580	droit
+T28	PROC 595 633	pneumoperitoineothérapie peropératoire
+T29	MEAS 687 709	profondément sensibles
+T30	DISO 745 784	syndrome d'épanchement intra-péritonéal
+T31	ANAT 768 784	intra-péritonéal
+T32	MEAS 800 808	spatiale
+T33	DISO 831 838	mastite
+T34	DISO 848 890	symptomatologie nécrose caséo-fistulisante
+T35	LIVB 910 918	patiente
+T36	DISO 953 974	détresse respiratoire
+T37	PHEN 962 974	respiratoire
+T38	MEAS 989 1000	progressive
+T39	PROC 1025 1043	traitement curatif
+T40	CHEM 1056 1091	amoxicilline/acide clavulaniculaire
+T41	CHEM 1069 1091	acide clavulaniculaire
+T42	PROC 1098 1128	échographie abdomino-pelvienne
+T43	ANAT 1110 1128	abdomino-pelvienne
+T44	PROC 1141 1164	scanner cervico-vaginal
+T45	ANAT 1149 1164	cervico-vaginal
+T46	DISO 1183 1233	masse tissulaire hypoechogène hétérogène hypodense
+T47	MEAS 1243 1250	70*50mm
+T48	ANAT 1271 1295	méso-sigmoïdien vaginale
+T49	Concept_Idea 1314 1323	grand axe
+T50	PROC 1352 1361	injection
+T51	CHEM 1365 1385	produit de contraste
+T52	DISO 1411 1431	distension ovarienne
+T53	ANAT 1422 1431	ovarienne
+T54	DISO 1441 1468	épanchement intrapéritonéal
+T55	ANAT 1453 1468	intrapéritonéal
+T56	PROC 1485 1521	tomodensitométrie abdomino-pélvienne
+T57	ANAT 1503 1521	abdomino-pélvienne
+T58	DISO 1535 1618	masse tumorale lithiasique polylobée liquidienne kystique latéro utérine bilatérale
+T59	Localization 1608 1618	bilatérale
+T60	ANAT 1639 1661	muscles ovari-centraux
+T61	ANAT 1682 1699	paroi intestinale
+T62	ANAT 1731 1756	organes génitaux externes
+T63	DISO 1783 1810	résidu graisseux infiltrant
+T64	PROC 1814 1844	bilan biologique préopératoire
+T65	DISO 1858 1874	hyperleucocytose
+T66	MEAS 1877 1902	27300 éléments blancs/mm3
+T67	MEAS 1943 1950	9,2g/dl
+T68	MEAS 1958 1966	12,4g/dl
+T69	PROC 1971 1996	dosage de la prothrombine
+T70	MEAS 2014 2017	76%
+T71	PROC 2032 2051	protéine C-réactive
+T72	MEAS 2069 2076	10 mg/l
+T73	PROC 2082 2107	troponines intraveineuses
+T74	MEAS 2129 2139	4800 ng/ml
+T75	MEAS 2145 2162	1 fois la normale
+T76	PROC 2167 2184	natrémie corrigée
+T77	MEAS 2193 2202	133 meq/l
+T78	PROC 2209 2234	prélèvements biquotidiens
+T79	PROC 2267 2292	étude anatomopathologique
+T80	DISO 2319 2345	myxome séreux hypertrophié
+T81	DISO 2560 2588	lymphangiome malin nodulaire
+T82	PROC 2622 2642	biopsie chirurgicale

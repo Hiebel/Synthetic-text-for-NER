@@ -1,0 +1,63 @@
+T1	LIVB 28 35	patient
+T2	PHEN 77 86	grossesse
+T3	PROC 91 97	suivie
+T4	Hospital 108 129	urgences pédiatriques
+T5	Concept_Idea 165 177	état général
+T6	TEMP 187 210	depuis plusieurs années
+T7	LIVB 242 252	nouveau-né
+T8	DISO 331 370	douleurs abdomino-pelviennes chroniques
+T9	ANAT 340 359	abdomino-pelviennes
+T10	DISO 471 506	pathologie obstétricale congénitale
+T11	PROC 602 624	consultation prénatale
+T12	Concept_Idea 680 695	profil évolutif
+T13	LIVB 701 707	enfant
+T14	LIVB 766 773	enfants
+T15	LIVB 791 793	on
+T16	LIVB 822 828	enfant
+T17	DEVI 871 897	activités extra conjugales
+T18	PROC 1155 1175	rendez-vous familial
+T19	DISO 1222 1256	comportements sexuels occasionnels
+T20	CHEM 1632 1659	antiagrégants plaquettaires
+T21	CHEM 1694 1704	céfotaxime
+T22	CHEM 1753 1779	sulfonamide adriamethasone
+T23	TEMP 1791 1801	/24 heures
+T24	PROC 2050 2057	mariage
+T25	TEMP 2069 2078	mars 2017
+T26	LIVB 2080 2087	Mme F.S
+T27	MEAS 2111 2115	2200
+T28	LIVB 2116 2123	enfants
+T29	MEAS 2136 2141	16000
+T30	LIVB 2246 2248	sa
+T31	LIVB 2313 2316	son
+T32	LIVB 2317 2323	épouse
+T33	PROC 2346 2370	transplantation in vitro
+T34	PROC 2384 2415	thyréostimulation hémodynamique
+T35	PROC 2428 2442	investigations
+T36	Concept_Idea 2465 2485	résultat métabolique
+T37	Concept_Idea 2511 2539	conditions socio-économiques
+T38	PROC 2556 2580	diagnostic préopératoire
+T39	DISO 2597 2635	anémie hypochrome microcytaire maligne
+T40	PROC 2692 2703	hémodialyse
+T41	DOSE 2822 2833	3 comprimés
+T42	TEMP 2833 2842	/24heures
+T43	MODE 2846 2861	intramusculaire
+T44	DEVI 2868 2892	cathéter haute fréquence
+T45	ANAT 2916 2930	tronc artériel
+T46	PROC 3018 3030	consultation
+T47	Concept_Idea 3071 3088	plan psychomoteur
+T48	Concept_Idea 3107 3125	tolérance clinique
+T49	LIVB 3144 3154	nouveau-né
+T50	DISO 3252 3277	symptomatologie néonatale
+T51	PHEN 3352 3361	grossesse
+T52	DISO 3378 3407	contage tuberculeux chronique
+T53	Concept_Idea 3421 3437	aspect somatique
+T54	DISO 3454 3469	psychose fœtale
+T55	DISO 3490 3513	troubles psychiatriques
+T56	DISO 3595 3633	maladie mentale polymorphe multifocale
+T57	LIVB 3819 3829	Monsieur A
+T58	LIVB 3833 3839	Mlle C
+T59	PROC 4309 4333	laparotomie exploratrice
+T60	MEAS 4546 4556	14 x 12 cm
+T61	PROC 4560 4590	chirurgie obstétricale urgente
+T62	PROC 4614 4651	section transoesophagienne percutanée
+T63	Localization 4673 4710	parties molles cervicales supérieures

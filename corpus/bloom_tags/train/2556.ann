@@ -1,0 +1,18 @@
+T1	LIVB 16 21	femme
+T2	PROC 47 53	admise
+T3	Hospital 58 80	urgences chirurgicales
+T4	DISO 100 121	détresse respiratoire
+T5	PHEN 109 121	respiratoire
+T6	TEMP 131 147	depuis 24 heures
+T7	DISO 162 176	amaigrissement
+T8	DISO 190 198	anorexie
+T9	DISO 230 330	syndrome d’épanchement pleural liquidien thoracique basithoracique latéro-latéral homolatéral gauche
+T10	ANAT 253 330	pleural liquidien thoracique basithoracique latéro-latéral homolatéral gauche
+T11	Localization 312 330	homolatéral gauche
+T12	PROC 357 383	scanner thoraco-pulmonaire
+T13	ANAT 365 383	thoraco-pulmonaire
+T14	PROC 397 436	anesthésie endobronchique locorégionale
+T15	ANAT 408 436	endobronchique locorégionale
+T16	DISO 463 534	insuffisance artério-curriculaire pariétale droite humérale hypogouttée
+T17	ANAT 476 534	artério-curriculaire pariétale droite humérale hypogouttée
+T19	DISO 550 619	vascularisation ventriculo-carotidienne périphérique hypo-intenseurée

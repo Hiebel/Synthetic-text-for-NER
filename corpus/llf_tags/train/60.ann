@@ -1,0 +1,23 @@
+T1	LIVB 19 29	nouveau-né
+T2	TEMP 37 43	7 mois
+T3	PHEN 48 57	naissance
+T4	MEAS 144 156	particuliers
+T5	PROC 186 209	transfusions parentales
+T6	LIVB 270 281	belle-fille
+T7	TEMP 290 295	2mois
+T8	TEMP 337 341	5ans
+T9	LIVB 395 399	mère
+T10	ANAT 452 468	sac gestationnel
+T11	MEAS 535 546	1450 gramme
+T12	MEAS 552 562	630grammes
+T13	MEAS 597 609	1300 grammes
+T14	MEAS 676 682	0,201%
+T15	MEAS 686 696	0,098mol/L
+T16	PROC 714 737	intubation artificielle
+T17	PROC 853 886	fistule obstétricale exploratrice
+T18	ANAT 922 960	nerf laryngé inférieur supérieur droit
+T19	Localization 955 960	droit
+T20	DEVI 979 991	bronchoscope
+T21	MEAS 1001 1006	18 cm
+T22	Concept_Idea 1010 1018	diamètre
+T23	MEAS 1069 1083	10 centimètres

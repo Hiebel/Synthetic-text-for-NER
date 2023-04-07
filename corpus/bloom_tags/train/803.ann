@@ -1,0 +1,31 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 29 35	13 ans
+T3	PROC 59 114	ostéotomie coelioscopique chirurgicale transplacentaire
+T4	PROC 116 121	OCCTT
+T7	PROC 211 237	hémodialyse per opératoire
+T8	PROC 253 281	réhydratation postopératoire
+T9	PROC 295 340	laparotomie épiploïque péritonéale hyo-cæcale
+T10	ANAT 307 340	épiploïque péritonéale hyo-cæcale
+T11	Hospital 367 388	urgences pédiatriques
+T12	TEMP 402 407	un an
+T13	DOSE 409 417	20 mg/kg
+T14	TEMP 417 419	/j
+T15	PROC 528 537	transféré
+T16	DISO 572 595	symptomatologie fébrile
+T17	TEMP 605 622	depuis deux jours
+T18	DISO 663 701	syndrome d'épanchement intrapéritonéal
+T19	ANAT 686 701	intrapéritonéal
+T20	DISO 720 734	masse tumorale
+T21	MEAS 744 749	12 cm
+T22	Concept_Idea 753 762	grand axe
+T23	ANAT 818 845	organe pariétal superficiel
+T24	PROC 850 868	ionogramme sodique
+T25	ANAT 861 868	sodique
+T26	LIVB 889 896	dernier
+T27	DISO 901 928	hyponatrémie hypokaliémique
+T28	MEAS 940 949	138 meq/l
+T29	ANAT 985 1005	ventriculaire droite
+T30	Localization 999 1005	droite
+T31	MEAS 1027 1030	76%
+T32	PROC 1085 1110	intervention endoscopique
+T33	PROC 1131 1171	anesthésie locorégionale musculo-cutanée

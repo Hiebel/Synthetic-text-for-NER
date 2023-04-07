@@ -1,0 +1,84 @@
+T1	LIVB 3 10	patient
+T2	Concept_Idea 27 38	antécédents
+T3	MEAS 39 51	particuliers
+T4	PROC 53 63	consultait
+T5	Hospital 68 76	urgences
+T6	DISO 86 113	douleurs thoraciques aiguës
+T7	ANAT 95 106	thoraciques
+T8	TEMP 123 145	depuis plusieurs jours
+T9	MEAS 158 168	intenseurs
+T10	PROC 172 187	examen clinique
+T11	LIVB 200 207	patient
+T12	MEAS 211 220	assez bon
+T13	Concept_Idea 221 233	état général
+T14	PHEN 243 261	tension artérielle
+T15	ANAT 251 261	artérielle
+T16	MEAS 264 275	100/60 mmHg
+T17	PROC 279 309	auscultation cardio-vasculaire
+T18	ANAT 292 309	cardio-vasculaire
+T19	MEAS 316 323	normale
+T20	PROC 328 352	examen pleuro-pulmonaire
+T21	ANAT 335 352	pleuro-pulmonaire
+T22	DISO 373 414	adénopathies cervico-thoraciques bilobées
+T23	ANAT 386 414	cervico-thoraciques bilobées
+T24	DISO 427 460	troubles du boudin aéro-dynamique
+T25	PHEN 439 460	boudin aéro-dynamique
+T26	ANAT 481 494	périphériques
+T27	PROC 577 593	examen somatique
+T28	DISO 605 618	particularité
+T29	PROC 622 649	numération formule sanguine
+T30	DISO 735 752	hyperferritinémie
+T31	LIVB 754 756	Il
+T32	PROC 779 799	transfusion sanguine
+T33	DOSE 804 829	une concentrée globulaire
+T34	CHEM 808 829	concentrée globulaire
+T35	PROC 842 873	traitement antibiotique médical
+T36	CHEM 887 901	Ciprofloxacine
+T37	CHEM 910 926	sulfaméthoxazole
+T38	LIVB 959 967	patiente
+T39	DISO 1000 1009	symptômes
+T40	DISO 1025 1034	anomalies
+T41	DISO 1062 1142	syndrome d'épanchement liquidien périthoracique latérobasithoracique systématisé
+T43	DISO 1172 1183	pathologies
+T44	DISO 1214 1250	douleurs thoraciques basithoraciques
+T45	ANAT 1223 1250	thoraciques basithoraciques
+T46	MEAS 1265 1272	brutale
+T47	Concept_Idea 1339 1354	acuité visuelle
+T48	PROC 1506 1529	radiothérapie adjuvante
+T49	PROC 1593 1624	chirurgie thoracique palliative
+T50	PROC 1648 1680	scanner thoraco-abdomino-pelvien
+T51	ANAT 1656 1680	thoraco-abdomino-pelvien
+T52	DISO 1703 1716	paragangliome
+T53	DISO 1766 1785	insuffisance rénale
+T54	ANAT 1779 1785	rénale
+T55	DEVI 1854 1881	sonde hydro-électrophoresis
+T56	MEAS 2074 2079	3280g
+T57	DISO 2141 2169	traumatisme abdominovésicale
+T58	ANAT 2153 2169	abdominovésicale
+T59	DISO 2187 2201	myometrorragie
+T60	DISO 2238 2262	complications néonatales
+T61	DISO 2283 2313	détresse digestive intestinale
+T62	PHEN 2292 2313	digestive intestinale
+T63	ANAT 2389 2414	grêlo-corticosurrénaloïde
+T64	PROC 2420 2456	tomodensitométrie transoesophagienne
+T65	PROC 2457 2462	TO-DO
+T66	DISO 2477 2525	masse pariétale bilatérale tissulaire hétérogène
+T67	Localization 2493 2503	bilatérale
+T68	MEAS 2535 2540	20 cm
+T69	Concept_Idea 2544 2553	grand axe
+T70	ANAT 2567 2592	sinus pharyngo œsophagien
+T71	ANAT 2609 2625	culminum sylvien
+T72	ANAT 2647 2679	parties molles sus-claviculaires
+T73	ANAT 2719 2739	membranes ovariennes
+T74	ANAT 2768 2791	reploisements graisseux
+T75	ANAT 2812 2830	substance grêlique
+T76	PROC 2846 2861	examen clinique
+T77	DISO 2873 2886	particularité
+T78	LIVB 2891 2899	patiente
+T79	PROC 2918 2949	radiothérapie externe adjuvante
+T80	ANAT 2972 2983	flanc droit
+T81	Localization 2978 2983	droit
+T82	DOSE 2985 2990	50 Gy
+T83	TEMP 2992 3010	pendant 6 semaines
+T84	PROC 3024 3050	curiethérapie concomitante
+T85	Hospital 3054 3063	péritoine

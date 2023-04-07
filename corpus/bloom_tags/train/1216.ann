@@ -1,0 +1,63 @@
+T1	LIVB 15 22	patient
+T2	DISO 39 64	antécédents pathologiques
+T3	MEAS 65 73	notables
+T4	PROC 75 80	Admis
+T5	DISO 90 113	douleurs du flanc droit
+T6	ANAT 102 113	flanc droit
+T7	Localization 108 113	droit
+T8	Concept_Idea 116 125	intensité
+T9	Concept_Idea 132 137	forme
+T10	MEAS 138 147	variables
+T11	TEMP 157 174	depuis deux jours
+T12	DISO 191 197	fièvre
+T13	PROC 214 229	examen clinique
+T14	LIVB 242 249	patient
+T15	MEAS 253 256	bon
+T16	Concept_Idea 257 269	état général
+T17	DISO 271 281	apyrétique
+T18	MEAS 285 291	37.5°c
+T19	DISO 294 304	tachycarde
+T20	MEAS 307 332	150 battements par minute
+T21	DISO 356 392	sensibilité péristaltique abdominale
+T22	ANAT 368 392	péristaltique abdominale
+T23	DISO 428 463	syndrome d'épanchement intrarachéal
+T24	ANAT 451 463	intrarachéal
+T25	DISO 478 502	hyperpression artérielle
+T26	ANAT 492 502	artérielle
+T27	PHEN 508 535	contraception ventriculaire
+T28	ANAT 522 535	ventriculaire
+T29	ANAT 549 560	vésiculaire
+T30	PROC 574 604	échographie abdomino-pelvienne
+T31	ANAT 586 604	abdomino-pelvienne
+T32	DISO 632 656	localisations nécrtiques
+T33	DISO 666 698	anomalie kystique péritendineuse
+T34	PROC 711 741	bilan phospho-calcique sérique
+T35	MEAS 757 764	normale
+T36	PROC 768 818	ponction liquide céphalo-rachidienne transfixiante
+T37	ANAT 777 818	liquide céphalo-rachidienne transfixiante
+T38	PROC 883 912	prélèvements bactériologiques
+T39	MEAS 926 934	négatifs
+T40	CHEM 939 972	séro-hémocultures neutrophiliques
+T41	PROC 1020 1052	scanner thoraco-abdomino pelvien
+T42	ANAT 1028 1052	thoraco-abdomino pelvien
+T43	PROC 1073 1096	injection intraveineuse
+T44	DOSE 1100 1105	1g/kg
+T45	CHEM 1109 1129	produit de contraste
+T46	PROC 1143 1165	imagerie préopératoire
+T47	DISO 1185 1272	épanchement sous-liquidien laryngopharyngo-thoracique systéno-centromembraneux infiltré
+T49	ANAT 1290 1343	parenchyme médiastinal hyo-métaphyso-cervico-sigmoïde
+T50	ANAT 1365 1387	sinus cavités crâniens
+T51	MEAS 1412 1420	18x12 mm
+T52	MEAS 1424 1431	14x13mm
+T53	ANAT 1455 1490	paires vertébrales diaphragmatiques
+T54	DISO 1566 1599	adénomégalie tissulaire hypodense
+T55	ANAT 1620 1649	fosse cérébrale hypohypodense
+T56	DISO 1795 1834	adénomégalies nécrotico-interstitielles
+T57	ANAT 1854 1871	petites épiploons
+T58	ANAT 1893 1930	parties molles thoraciques cervicales
+T59	PROC 1955 1980	traitées chirurgicalement
+T60	DISO 2051 2076	pathophysiologie tumorale
+T61	DISO 2154 2179	méningo-fibromes malignes
+T62	LIVB 2253 2261	patients
+T63	DISO 2284 2299	symptomatologie
+T64	DISO 3035 3055	déficit neurologique

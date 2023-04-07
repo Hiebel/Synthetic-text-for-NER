@@ -1,0 +1,21 @@
+T1	PROC 2 17	examen clinique
+T2	LIVB 30 38	patiente
+T3	Concept_Idea 63 81	plan hémodynamique
+T4	PHEN 85 97	respiratoire
+T5	DISO 107 118	tuméfaction
+T6	Localization 125 137	face interne
+T7	ANAT 141 149	pancréas
+T8	MEAS 161 176	progressivement
+T9	Concept_Idea 180 186	volume
+T10	DISO 200 209	anomalies
+T11	DISO 236 258	épanchement péritonéal
+T12	ANAT 248 258	péritonéal
+T13	PROC 263 293	bilan biologique préopératoire
+T14	PROC 310 330	taux de prothrombine
+T15	MEAS 333 336	80%
+T16	PROC 338 357	protéine-C-réactive
+T17	PROC 359 362	CRP
+T18	MEAS 364 369	élevé
+T19	MEAS 372 380	120 mg/L
+T21	PROC 423 453	ionogramme électrocardiogramme
+T22	MEAS 462 469	normaux

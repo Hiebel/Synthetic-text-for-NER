@@ -1,0 +1,50 @@
+T1	LIVB 29 37	patiente
+T2	CHEM 58 86	corticothérapie substitutive
+T3	MODE 100 112	intraveineux
+T4	CHEM 115 129	hydrocortisone
+T5	PROC 151 174	pronostic gynécologique
+T6	DISO 217 250	réaction ostéo-métanévrotomotrice
+T7	LIVB 306 314	patiente
+T8	PROC 321 346	traitement antibacillaire
+T9	CHEM 372 383	Ceftriaxone
+T10	CHEM 385 398	Rifaméthasone
+T11	CHEM 400 411	Ethionamide
+T12	CHEM 413 425	Pyrazinamide
+T13	CHEM 428 439	Cyclosérine
+T14	CHEM 441 454	Phénobarbital
+T15	PROC 469 503	radiothérapie palliative adjuvante
+T16	Concept_Idea 639 659	clinico-radiologique
+T18	PROC 676 688	surveillance
+T19	LIVB 860 868	patients
+T20	DISO 891 922	complications thromboemboliques
+T21	PROC 955 999	tomodensitométrie thoraco-abdomino-pelvienne
+T22	ANAT 973 999	thoraco-abdomino-pelvienne
+T23	DISO 1017 1263	métastase paragangliocarcinomateuse péritonéale latérale pariétale proximale droite palmominimale cervicale intrarachidiomésentorielle antro-supra-hypogastrique lobulo-cervicale mésophagienne rétropéritonéale sus-diaphragmatique prolabée kystique
+T26	ANAT 1280 1297	volumètre ovarien
+T27	DISO 1357 1383	neuroendocrine pancréatite
+T28	DISO 1408 1431	localisation secondaire
+T29	DISO 1459 1499	syndrome d'épanchement pleural liquidien
+T30	ANAT 1482 1499	pleural liquidien
+T31	DISO 1548 1613	dégénérescence nécrose ischémique métastasique lithiasique étagée
+T32	ANAT 1634 1652	membres inférieurs
+T33	ANAT 1668 1687	tissus glandulaires
+T34	DISO 1771 1780	symptômes
+T35	DISO 1848 1862	résidu tumoral
+T36	DISO 1882 1898	schwannome malin
+T37	PROC 1920 1948	recherche histo-pathologique
+T38	DISO 1982 2003	troubles immunitaires
+T40	MEAS 2034 2040	type I
+T41	DISO 2122 2166	fistule placenta-liquido-thoracique biliaire
+T42	ANAT 2130 2166	placenta-liquido-thoracique biliaire
+T43	DISO 2212 2237	localisations secondaires
+T44	PROC 2241 2266	intervention chirurgicale
+T45	PROC 2284 2303	bilan préopératoire
+T46	PROC 2305 2336	échographie abdomino- pelvienne
+T47	ANAT 2317 2336	abdomino- pelvienne
+T48	PROC 2340 2363	scintigraphie cérébrale
+T49	ANAT 2354 2363	cérébrale
+T50	PROC 2384 2410	examen anatomopathologique
+T51	Concept_Idea 2416 2422	aspect
+T52	DISO 2451 2526	pseudo-métastases tumorales parathyroïdiennes hypo métaboliquement intenses
+T53	PROC 2532 2566	radiothérapie palliative adjuvante
+T54	DISO 2606 2632	signes clinico-biologiques

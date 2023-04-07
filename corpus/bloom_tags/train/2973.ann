@@ -1,0 +1,111 @@
+T1	PROC 6 17	hospitalisé
+T2	Hospital 21 43	service de réanimation
+T3	DISO 53 74	détresse respiratoire
+T4	PHEN 62 74	respiratoire
+T5	TEMP 84 105	depuis plusieurs mois
+T6	PROC 111 120	admission
+T7	LIVB 142 150	patiente
+T8	MEAS 154 157	bon
+T9	Concept_Idea 158 170	état général
+T10	Concept_Idea 179 184	poids
+T11	MEAS 188 193	24 kg
+T12	Concept_Idea 201 207	taille
+T13	MEAS 211 215	1m60
+T14	LIVB 217 221	Elle
+T15	DISO 248 275	épanchement péritonéal aigu
+T16	ANAT 260 270	péritonéal
+T17	DISO 288 307	signes fonctionnels
+T18	PROC 322 358	tomodensitométrie abdomino pelvienne
+T19	ANAT 340 358	abdomino pelvienne
+T20	Hospital 372 380	urgences
+T21	DISO 398 434	dilatation du canal herniaire gauche
+T22	ANAT 412 434	canal herniaire gauche
+T23	Localization 428 434	gauche
+T24	MEAS 437 441	5 cm
+T25	DOSE 482 487	30 mg
+T26	CHEM 491 502	propranolol
+T27	MODE 514 519	bolus
+T28	DOSE 523 530	10mg/kg
+T29	CHEM 534 545	paracétamol
+T30	PROC 576 592	examen somatique
+T31	DISO 623 632	anomalies
+T32	DISO 748 755	dyspnée
+T33	LIVB 774 782	patiente
+T34	DISO 815 837	diabètes hypertenseurs
+T35	PROC 854 866	chirurgicaux
+T36	PROC 872 904	cortico-radiothérapie palliative
+T37	DEVI 927 958	sonde nasofibroscopique narinée
+T39	DISO 1020 1031	traumatique
+T40	MEAS 1046 1057	progressive
+T41	LIVB 1075 1083	patiente
+T42	LIVB 1093 1097	elle
+T43	LIVB 1315 1319	Elle
+T44	DISO 1344 1361	crises purulentes
+T45	MEAS 1376 1382	rapide
+T46	MEAS 1392 1405	plus marquées
+T47	DISO 1419 1474	sensibilité pelvienne supérieure droite latérale gauche
+T48	ANAT 1431 1474	pelvienne supérieure droite latérale gauche
+T49	Localization 1452 1474	droite latérale gauche
+T50	MEAS 1486 1501	progressivement
+T51	Concept_Idea 1505 1515	profondeur
+T52	MEAS 1532 1540	violacée
+T53	DISO 1602 1640	syndrome d'épanchement intrapéritonéal
+T54	ANAT 1625 1640	intrapéritonéal
+T55	DISO 1678 1718	complication thromboembolique ischémique
+T56	MEAS 1761 1773	15 000 UI/ml
+T57	MEAS 1777 1789	70 000 UI/ml
+T58	PROC 1859 1892	contrôlabilité radio-chirurgicale
+T59	PROC 2772 2801	sérologies d'immunodépression
+T60	MEAS 2810 2819	négatives
+T61	PROC 2911 2938	numération formule sanguine
+T62	MEAS 2945 2952	normale
+T63	PROC 2958 2988	marqueurs immunohistochimiques
+T64	PROC 2990 2993	EMA
+T65	PROC 2995 3000	PS100
+T66	PROC 3002 3014	cytokératine
+T67	PROC 3019 3031	antigène p63
+T68	PROC 3045 3049	CD20
+T69	MEAS 3058 3066	positifs
+T70	PROC 3072 3102	échographie abdomino-pelvienne
+T71	ANAT 3084 3102	abdomino-pelvienne
+T72	DISO 3115 3143	épanchement intra péritonéal
+T73	ANAT 3127 3143	intra péritonéal
+T74	ANAT 3157 3166	péritoine
+T75	MEAS 3176 3181	12 cm
+T76	Concept_Idea 3185 3199	grand diamètre
+T77	DISO 3216 3246	dilatation des voies biliaires
+T78	ANAT 3231 3246	voies biliaires
+T79	ANAT 3263 3282	parois intestinales
+T80	PHEN 3292 3307	fonction rénale
+T81	ANAT 3301 3307	rénale
+T82	MEAS 3308 3316	complète
+T83	LIVB 3318 3322	Elle
+T84	PROC 3341 3376	résection chirurgicale exploratrice
+T85	PROC 3382 3399	anesthésie locale
+T86	DISO 3405 3428	volvulus caeco-grêlique
+T87	ANAT 3414 3428	caeco-grêlique
+T89	Localization 3450 3453	sus
+T90	PROC 3520 3548	surrénalectomie endoscopique
+T91	PROC 3561 3590	investigations préopératoires
+T92	PROC 3619 3649	TDM thoraco-abdomino-pelvienne
+T93	ANAT 3623 3649	thoraco-abdomino-pelvienne
+T94	DISO 3681 3706	localisations secondaires
+T95	PROC 3710 3739	curage ganglionnaire adjuvant
+T96	ANAT 3717 3739	ganglionnaire adjuvant
+T97	MEAS 3753 3763	nécessaire
+T98	TEMP 3771 3785	après deux ans
+T99	DISO 3806 3814	récidive
+T100	DISO 3821 3831	métastases
+T101	TEMP 3864 3878	depuis dix ans
+T102	MEAS 3890 3917	spontanément plus fréquents
+T103	CHEM 3937 3968	anti-estrogènes hormonothérapie
+T104	CHEM 3974 3984	Tamoxifène
+T105	PROC 3999 4032	bilan radiologique postopératoire
+T106	LIVB 4056 4061	femme
+T107	DISO 4066 4106	hypophyse basithoracique latérale droite
+T108	ANAT 4076 4106	basithoracique latérale droite
+T109	Localization 4100 4106	droite
+T110	DISO 4122 4160	hydrocéphalie hypertrophiée hydrorrhée
+T111	PROC 4186 4214	tomodensitométrie thoracique
+T112	ANAT 4204 4214	thoracique
+T115	Localization 4286 4290	sous

@@ -1,0 +1,34 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	4 ans
+T3	MEAS 64 75	particulier
+T4	DISO 93 120	syndrome d'immunodépression
+T5	DISO 126 138	hyperthermie
+T6	PROC 144 153	admission
+T7	Hospital 157 187	service d'accueil des urgences
+T8	Hospital 191 240	centre hospitalier universitaire Hassan II de Fès
+T9	DISO 249 270	détresse respiratoire
+T10	PHEN 258 270	respiratoire
+T11	MEAS 285 294	spontanée
+T12	TEMP 304 318	depuis 3 jours
+T13	DISO 334 372	dyspnée stade IV de Balthazar d'effort
+T14	DISO 396 419	symptômes neurologiques
+T15	DISO 433 468	sensibilité temporo-axillaire droit
+T16	ANAT 445 468	temporo-axillaire droit
+T17	Localization 463 468	droit
+T18	MEAS 481 487	rapide
+T19	TEMP 496 521	quelques heures plus tard
+T20	Concept_Idea 557 569	état général
+T21	LIVB 603 611	patiente
+T22	DISO 623 642	facteur déclenchant
+T23	DISO 697 730	prise médicamenteuse hypertensive
+T24	DISO 741 758	signes infectieux
+T25	DISO 781 807	empyème médiastin cérébral
+T26	ANAT 789 807	médiastin cérébral
+T27	DISO 822 845	agitation psychomotrice
+T28	DISO 885 908	œdème laryngopharyngien
+T29	ANAT 891 908	laryngopharyngien
+T30	MEAS 920 930	rapidement
+T31	Concept_Idea 934 940	volume
+T34	ANAT 1067 1082	sinus piriforme
+T35	PROC 1237 1276	radiothérapie palliative complémentaire
+T36	DISO 1408 1440	carcinome pléomorphe malkystique

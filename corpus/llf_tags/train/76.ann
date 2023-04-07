@@ -1,0 +1,20 @@
+T1	LIVB 15 20	homme
+T2	Hospital 74 97	urgences psychiatriques
+T3	Concept_Idea 119 130	état mental
+T4	TEMP 140 156	depuis 24 heures
+T5	PHEN 204 226	traitements personnels
+T6	PROC 284 299	examen clinique
+T7	LIVB 320 328	patiente
+T8	DEVI 529 557	appareils électriques usagés
+T10	PROC 659 673	interrogatoire
+T11	DISO 691 714	consanguinité prénatale
+T12	TEMP 873 884	quatre mois
+T13	PROC 923 935	hospitalisée
+T14	LIVB 945 949	elle
+T15	PROC 1059 1091	transmission mère-nourrissonerie
+T16	PROC 1168 1204	supplémentations médicochirurgicales
+T17	PROC 1229 1244	hospitalisation
+T18	DISO 1261 1273	complication
+T19	TEMP 1284 1300	environ 30 jours
+T20	LIVB 1308 1311	son
+T21	LIVB 1312 1317	femme

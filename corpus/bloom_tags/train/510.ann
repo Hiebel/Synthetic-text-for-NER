@@ -1,0 +1,27 @@
+T1	LIVB 15 22	patient
+T2	PROC 34 39	suivi
+T3	DISO 48 57	tabagisme
+T4	MEAS 70 87	30 paquets-années
+T5	DISO 108 127	lésions purpuriques
+T6	ANAT 141 146	front
+T7	TEMP 156 169	depuis 6 mois
+T8	PROC 175 184	admission
+T9	Concept_Idea 188 193	poids
+T10	MEAS 203 208	70 kg
+T11	Concept_Idea 215 221	taille
+T12	MEAS 225 229	1m57
+T13	PHEN 239 243	toux
+T14	MEAS 244 254	productive
+T15	DISO 267 287	signes neurologiques
+T16	PROC 302 317	examen physique
+T17	DISO 338 403	hyperpigmentation nécrotico-cutanée maculopustuleuse prurigineuse
+T18	Localization 412 437	faces postéro-supérieures
+T19	DISO 463 488	hypogranulocytose maligne
+T20	PROC 542 546	HbGT
+T21	PROC 553 583	échographie abdomino-pelvienne
+T22	ANAT 565 583	abdomino-pelvienne
+T23	DISO 601 652	lésion tumorale kystique tissulaire hypo échoguidée
+T24	MEAS 662 672	15/10/4 cm
+T25	ANAT 687 702	parois utérines
+T26	PROC 724 733	injection
+T27	CHEM 737 748	propranolol

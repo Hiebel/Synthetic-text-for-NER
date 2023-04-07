@@ -1,0 +1,42 @@
+T1	LIVB 19 24	homme
+T2	DISO 57 105	syndrome d'épanchement liquidien intrapéritonéal
+T3	ANAT 80 105	liquidien intrapéritonéal
+T4	TEMP 115 130	depuis 10 jours
+T5	MEAS 146 161	progressivement
+T6	Concept_Idea 165 171	volume
+T7	DISO 186 207	détresse respiratoire
+T8	PHEN 195 207	respiratoire
+T9	ANAT 221 243	tronc pulmonaire droit
+T10	Localization 238 243	droit
+T11	LIVB 265 268	ses
+T12	LIVB 269 277	patients
+T13	PROC 301 326	traitement antibacillaire
+T14	CHEM 340 350	Isoniazide
+T15	CHEM 352 363	Ceftriaxone
+T16	CHEM 365 377	Pyrazinamide
+T17	CHEM 379 390	Ethionamide
+T18	CHEM 392 405	Triméthoprime
+T19	CHEM 407 418	Cyclosérine
+T20	PROC 432 460	corticothérapie substitutive
+T21	CHEM 462 475	dexaméthasone
+T22	PROC 480 510	échographie abdomino-pélvienne
+T23	ANAT 492 510	abdomino-pélvienne
+T24	MEAS 571 575	6 cm
+T25	Concept_Idea 579 588	grand axe
+T26	MEAS 593 597	2 cm
+T27	Concept_Idea 600 609	épaisseur
+T28	ANAT 634 665	parties molles cervico-vaginaux
+T29	DISO 682 702	réaction péritonéale
+T30	ANAT 691 702	péritonéale
+T31	DISO 712 728	lésions kystique
+T32	DISO 744 763	métastose digestive
+T33	DISO 786 809	localisation secondaire
+T34	DISO 843 868	néphropathie hypertensive
+T35	DISO 875 904	cholécystadénocarcinomateuses
+T36	DISO 933 957	localisationssecondaires
+T37	PROC 963 996	imagerie par résonance magnétique
+T38	PROC 998 1001	IRM
+T39	PROC 1018 1047	injection intra-surrénalienne
+T40	CHEM 1051 1064	buprénorphine
+T41	DISO 1085 1108	symptômes neurologiques
+T42	DISO 1133 1150	masse lithiasique

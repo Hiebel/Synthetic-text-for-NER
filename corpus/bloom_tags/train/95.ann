@@ -1,0 +1,49 @@
+T1	LIVB 26 34	patiente
+T2	DISO 56 81	antécédents pathologiques
+T3	MEAS 82 94	particuliers
+T4	PROC 96 101	reçue
+T5	Hospital 106 114	urgences
+T6	DISO 123 167	syndrome d'épanchement péricardique purulent
+T7	ANAT 146 158	péricardique
+T8	LIVB 169 173	Elle
+T9	DISO 193 199	fièvre
+T10	MEAS 202 206	40°C
+T11	DISO 222 228	sueurs
+T12	TEMP 229 238	nocturnes
+T13	PROC 242 257	examen clinique
+T14	LIVB 271 279	patiente
+T15	MEAS 283 286	bon
+T16	Concept_Idea 287 299	état général
+T17	DISO 323 344	détresse respiratoire
+T18	PHEN 332 344	respiratoire
+T19	DISO 350 364	amaigrissement
+T20	MEAS 375 379	10kg
+T21	PROC 406 431	intervention chirurgicale
+T22	PROC 436 455	bilan préopératoire
+T23	PROC 457 484	numération formule sanguine
+T24	DISO 501 517	hyperleucocytose
+T25	MEAS 520 539	17 000 éléments/mm3
+T26	PROC 553 556	CRP
+T27	MEAS 559 578	100 fois la normale
+T28	PROC 584 609	scanner abdomino- pelvien
+T29	ANAT 592 609	abdomino- pelvien
+T30	DISO 626 657	dilatation ventriculaire gauche
+T31	ANAT 637 657	ventriculaire gauche
+T32	Localization 651 657	gauche
+T33	ANAT 671 690	flux vésico-vaginal
+T34	DISO 705 797	thrombose intracavitaire latéro-mésithoracique périrénale susdiaphragmatique hypovolumineuse
+T36	MEAS 807 811	30cm
+T37	Concept_Idea 815 824	grand axe
+T39	CHEM 860 880	produit de contraste
+T40	PROC 903 911	imagerie
+T41	DISO 928 985	processus tissulaire hypo échogène hétérogène vascularisé
+T42	ANAT 1006 1032	sinus caverneux para-rénal
+T43	DISO 1127 1142	lésion kystique
+T44	PROC 1166 1197	techniques d'immuno-histochimie
+T45	DISO 1215 1240	signes histopathologiques
+T46	DISO 1258 1270	métanéphrine
+T47	DISO 1351 1366	symptomatologie
+T48	PROC 1371 1412	radio-chimiothérapie adjuvante palliative
+T49	DISO 1513 1528	symptomatologie
+T50	TEMP 1538 1551	depuis 6 mois
+T51	DISO 1651 1681	dyspnée stade III de Balthazar

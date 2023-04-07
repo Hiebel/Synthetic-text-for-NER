@@ -1,0 +1,25 @@
+T1	PROC 3 25	radiographie du thorax
+T2	ANAT 19 25	thorax
+T3	DISO 42 49	opacité
+T4	MEAS 53 57	7 cm
+T5	Concept_Idea 61 70	grand axe
+T6	PROC 75 96	bilan phosphocalcique
+T7	PROC 98 101	PAL
+T8	PROC 103 106	PNN
+T9	PROC 114 141	numération formule sanguine
+T10	PROC 143 145	Hb
+T11	MEAS 148 157	13 mmol/l
+T12	PROC 172 191	électrocardiogramme
+T13	PROC 193 196	ECG
+T14	DISO 211 224	particularité
+T15	LIVB 229 237	patiente
+T16	PROC 266 290	mastectomie exploratrice
+T17	PROC 304 357	curage ganglionnaire axillaire scanno-trachéo-caudale
+T18	PROC 363 419	mise en place d'un processus palliatif tissulaire direct
+T19	DEVI 382 419	processus palliatif tissulaire direct
+T20	TEMP 438 444	2 mois
+T21	MEAS 464 477	spectaculaire
+T22	PROC 483 505	contrôle échographique
+T23	PROC 514 548	investigations cytomégalovaginales
+T24	MEAS 569 577	normales
+T25	DISO 621 627	tumeur

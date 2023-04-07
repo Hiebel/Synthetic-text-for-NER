@@ -1,0 +1,26 @@
+T1	LIVB 16 24	patiente
+T2	DISO 41 66	antécédents pathologiques
+T3	MEAS 67 75	notables
+T4	PROC 77 83	admise
+T5	Hospital 88 96	urgences
+T6	DISO 106 127	douleur du sein droit
+T7	ANAT 117 127	sein droit
+T8	Localization 122 127	droit
+T9	TEMP 137 150	depuis 6 mois
+T10	PROC 154 169	examen clinique
+T11	Concept_Idea 183 189	taille
+T12	MEAS 192 196	1m60
+T13	Concept_Idea 203 209	aspect
+T14	PHEN 235 267	contractions abdomino-pelviennes
+T15	ANAT 248 267	abdomino-pelviennes
+T16	MEAS 268 277	brunâtres
+T17	PROC 282 301	bilan préopératoire
+T18	DISO 329 367	syndrome d'épanchement intrapéritonéal
+T19	ANAT 352 367	intrapéritonéal
+T21	PROC 392 421	scanner abdomino-épigastrique
+T22	ANAT 400 421	abdomino-épigastrique
+T24	Localization 521 530	bilatéral
+T25	MEAS 540 545	20 cm
+T26	Concept_Idea 549 558	grand axe
+T27	ANAT 575 593	parois abdominales
+T28	CHEM 611 631	produit de contraste

@@ -1,0 +1,28 @@
+T1	PROC 3 20	tomodensitométrie
+T2	PROC 22 54	TDM) thoraco- abdomino-pelvienne
+T3	ANAT 27 54	thoraco- abdomino-pelvienne
+T4	DISO 91 122	masse tissulaire du sein gauche
+T5	ANAT 111 122	sein gauche
+T6	Localization 116 122	gauche
+T7	MEAS 132 136	7 cm
+T8	Concept_Idea 140 149	grand axe
+T9	PROC 153 178	étude anatomopathologique
+T13	ANAT 311 346	angle crico-trachéo-gastroduodénale
+T14	ANAT 353 378	méso thoracique supérieur
+T15	Localization 369 378	supérieur
+T16	DISO 383 436	processus lésionnel des tissus sous cutanés cervicaux
+T17	ANAT 407 436	tissus sous cutanés cervicaux
+T18	DISO 451 618	lésion carcinomateuse rénitente kératinisant les structures para vertébrobases maxillaires pelvidiennes postéro-pariétales jugulocarotidiennes ectropéritonéphralisante
+T19	ANAT 500 618	structures para vertébrobases maxillaires pelvidiennes postéro-pariétales jugulocarotidiennes ectropéritonéphralisante
+T20	DISO 630 653	localisation secondaire
+T21	PROC 668 696	chimiothérapie néo adjuvante
+T22	CHEM 702 712	paclitaxel
+T23	Concept_Idea 760 768	clinique
+T24	PHEN 772 784	radiologique
+T25	TEMP 791 799	six mois
+T26	PROC 803 815	surveillance
+T27	LIVB 820 827	patient
+T28	PROC 832 837	suivi
+T29	LIVB 843 848	notre
+T30	Hospital 849 856	service
+T31	PROC 862 896	prise en charge pluridisciplinaire

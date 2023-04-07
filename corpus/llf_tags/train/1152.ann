@@ -1,0 +1,65 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 43 54	antécédents
+T3	MEAS 55 67	particuliers
+T4	DISO 87 110	hypertension artérielle
+T5	ANAT 100 110	artérielle
+T6	PROC 112 116	HTAP
+T7	LIVB 132 134	il
+T8	PROC 147 156	transfusé
+T9	PROC 160 175	examen clinique
+T10	LIVB 186 193	patient
+T11	MEAS 197 204	mauvais
+T12	Concept_Idea 205 217	état général
+T13	DISO 227 247	vomissements bilieux
+T14	DISO 258 267	dysphonie
+T15	PHEN 275 295	bruits du cœur fœtal
+T16	ANAT 285 295	cœur fœtal
+T17	MEAS 301 309	anormaux
+T18	PROC 314 356	tomodensitométrie par émission de positons
+T19	PROC 358 362	TOGD
+T20	DISO 389 464	masse cervicale médio-thyroïdienne postérieure gauche hémicirconférentielle
+T21	Localization 405 410	médio
+T23	MEAS 474 477	5cm
+T24	Concept_Idea 481 490	grand axe
+T25	Concept_Idea 499 507	diamètre
+T26	MEAS 521 525	2 cm
+T27	PROC 559 576	scanner abdominal
+T28	ANAT 567 576	abdominal
+T29	DISO 607 671	distension temporo-pulmonaire supérieure gauchehénocœsophagienne
+T31	Localization 648 671	gauchehénocœsophagienne
+T32	ANAT 690 733	nerf laryngé supérieur controlatéral droite
+T33	Localization 713 733	controlatéral droite
+T34	DISO 747 776	symptomatologie psychiatrique
+T35	DISO 791 832	trouble obsessionnel compulsif polymorphe
+T36	PROC 884 909	bilan préchimiothérapique
+T37	PROC 933 956	radiothérapie adjuvante
+T38	PROC 970 994	laparotomie exploratrice
+T40	ANAT 1117 1143	voie veineuse périphérique
+T41	Concept_Idea 1181 1203	caractère radiologique
+T42	DISO 1226 1251	récidive anatomo-clinique
+T43	PROC 1267 1301	investigations neuropsychiatriques
+T44	MEAS 1350 1357	simples
+T45	LIVB 1366 1376	nouveau-né
+T46	PROC 1421 1470	consultation ophtalmologique prénatale programmée
+T47	CHEM 1487 1497	fluindione
+T48	DOSE 1498 1504	450 mg
+T49	TEMP 1504 1506	/j
+T50	PROC 1513 1541	prise en charge orthopédique
+T51	DISO 1716 1751	perte auditive néonatalgie primaire
+T52	MEAS 1762 1766	40 %
+T53	PROC 1792 1830	remplissage vasculorénal extracorporel
+T54	ANAT 1804 1830	vasculorénal extracorporel
+T55	PROC 1843 1887	hémodialyse endotrachéale transoesophagienne
+T58	PHEN 2580 2600	récupération motrice
+T59	Localization 2617 2638	deux tiers inférieurs
+T60	ANAT 2642 2667	côté controlatéral gauche
+T61	Concept_Idea 2704 2707	cas
+T62	PROC 2731 2790	IRM des parties molles cervicale inférieure inférieur droit
+T63	ANAT 2739 2790	parties molles cervicale inférieure inférieur droit
+T64	Localization 2775 2790	inférieur droit
+T65	DISO 2816 2837	syndrome hémorragique
+T66	LIVB 2846 2856	nouveau-né
+T67	PROC 2861 2873	hospitalisée
+T68	Hospital 2883 2890	hôpital
+T69	Concept_Idea 3148 3156	diamètre
+T70	DISO 3418 3456	pincement périventriculaire secondaire

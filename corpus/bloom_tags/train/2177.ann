@@ -1,0 +1,42 @@
+T1	LIVB 29 37	patiente
+T2	PROC 61 70	recherche
+T3	TEMP 81 88	4 jours
+T4	LIVB 95 97	sa
+T5	PROC 98 110	consultation
+T6	Hospital 115 140	urgences ophtalmologiques
+T7	PROC 146 173	traitement médical adjuvant
+T8	CHEM 184 196	méthotrexate
+T9	DOSE 199 206	1 mg/kg
+T10	TEMP 206 208	/j
+T11	CHEM 211 224	dexaméthasone
+T12	DOSE 226 230	2 mg
+T13	TEMP 230 232	/j
+T14	CHEM 244 261	métylprednisolone
+T15	DOSE 264 272	0,5mg/kg
+T16	TEMP 272 277	/jour
+T17	PROC 406 430	radiothérapie palliative
+T18	DISO 512 531	lésions métastiques
+T19	MEAS 645 657	multinoculée
+T20	DISO 707 727	tuberculeose maligne
+T21	LIVB 737 742	homme
+T22	DISO 1116 1147	hépatopathie biliaire chronique
+T23	PROC 1150 1168	ionogramme sanguin
+T24	ANAT 1161 1168	sanguin
+T25	DISO 1185 1198	hyperkaliémie
+T26	MEAS 1201 1210	125 meq/l
+T27	DISO 1226 1267	hypokaliémie hypochrome micronutrentielle
+T28	ANAT 1289 1303	surrénaliennes
+T29	MEAS 1328 1336	46 meq/l
+T30	MEAS 1340 1348	29 meq/l
+T31	MEAS 1401 1407	3 g/dl
+T32	DISO 1430 1460	troubles hydro-électrolytiques
+T33	DISO 1467 1505	syndrome d'épanchement intrapéritonéal
+T34	ANAT 1490 1505	intrapéritonéal
+T35	DISO 1522 1545	événements métaboliques
+T36	DISO 1561 1586	hyponatrémie hypertensive
+T37	PROC 1613 1634	chirurgie correctrice
+T38	PROC 1647 1663	curage bilatéral
+T39	Localization 1654 1663	bilatéral
+T40	DISO 2217 2246	méningoencephalite herpétique
+T41	DISO 2311 2335	maladie de Guillain Barr
+T42	CHEM 2512 2530	hydroxychloroquine

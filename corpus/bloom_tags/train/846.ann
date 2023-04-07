@@ -1,0 +1,36 @@
+T1	LIVB 15 22	patient
+T2	TEMP 55 59	2013
+T3	DISO 64 101	tuméfaction du sinus maxillaire droit
+T4	ANAT 79 101	sinus maxillaire droit
+T5	Localization 96 101	droit
+T6	TEMP 111 127	depuis deux mois
+T7	MEAS 142 157	progressivement
+T8	Concept_Idea 161 167	volume
+T9	PROC 172 204	bilan radiologique préopératoire
+T10	DISO 216 229	particularité
+T11	DISO 246 275	atteinte ostéo-cartilagineuse
+T12	MEAS 301 307	rapide
+T13	PROC 334 360	examens phospho-kinésiques
+T14	PROC 362 365	EPK
+T15	PROC 367 397	technique d'immuno histochimie
+T16	PROC 413 443	échographie abdomino-pelvienne
+T17	ANAT 425 443	abdomino-pelvienne
+T18	DISO 479 484	masse
+T19	PROC 495 516	pronostic chirurgical
+T20	PROC 520 552	tomodensitométrie transpariétale
+T21	DISO 567 604	masse tissulaire hétérogène hypodense
+T22	MEAS 614 619	30 cm
+T23	Concept_Idea 623 637	grand diamètre
+T24	MEAS 642 647	12 cm
+T25	Concept_Idea 651 664	petite taille
+T26	ANAT 697 713	lambeau iliaques
+T27	DISO 741 764	localisations kystiques
+T28	DISO 799 836	adénopathies noduleuses métastatiques
+T29	DISO 903 931	épanchement intra péritonéal
+T30	ANAT 915 931	intra péritonéal
+T31	PHEN 936 943	évacuée
+T32	LIVB 953 961	patients
+T33	DISO 1011 1042	métastase maligne hypertrophiée
+T34	PROC 1146 1165	étude rétrospective
+T35	DISO 1420 1453	syndrome d'épanchement péritonéal
+T36	ANAT 1443 1453	péritonéal

@@ -1,0 +1,35 @@
+T1	LIVB 20 25	fille
+T2	TEMP 29 35	12 ans
+T3	DISO 42 67	antécédents pathologiques
+T4	MEAS 68 76	notables
+T5	PROC 78 84	admise
+T6	Hospital 89 97	urgences
+T7	DISO 107 135	douleurs abdominales fébrile
+T8	ANAT 116 127	abdominales
+T9	DISO 151 194	syndrome d'épanchement liquidien péritonéal
+T10	ANAT 174 194	liquidien péritonéal
+T11	PROC 198 212	interrogatoire
+T12	DISO 247 272	épigastralgies chroniques
+T13	MEAS 303 310	modérée
+T14	LIVB 312 316	Elle
+T15	CHEM 333 344	Cyclosérine
+T16	DOSE 346 353	3 mg/kg
+T17	TEMP 353 355	/j
+T18	CHEM 358 366	Cloprène
+T19	DOSE 368 377	0,5 mg/kg
+T20	TEMP 377 379	/j
+T21	CHEM 382 393	Ceftriaxone
+T22	DOSE 395 400	10 mg
+T23	TEMP 400 402	/j
+T24	CHEM 405 419	Gentaméthasone
+T25	DOSE 421 427	2mg/kg
+T26	TEMP 427 429	/j
+T27	CHEM 432 444	Pyrazinamide
+T28	DOSE 446 451	200 g
+T29	TEMP 451 453	/j
+T30	CHEM 456 467	Ethionamide
+T31	DOSE 469 480	400 grammes
+T32	TEMP 480 482	/j
+T33	CHEM 487 500	Triméthoprime
+T34	DOSE 502 513	800 grammes
+T35	TEMP 513 515	/j

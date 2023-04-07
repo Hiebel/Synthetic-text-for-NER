@@ -1,0 +1,90 @@
+T1	PROC 2 17	prise en charge
+T2	DISO 25 34	symptômes
+T3	PROC 68 92	chimiothérapie adjuvante
+T4	CHEM 94 105	Cisplatine®
+T5	CHEM 107 119	Doxycycline®
+T6	CHEM 123 135	Gentamicine®
+T7	PROC 151 185	radiothérapie externe concomitante
+T8	ANAT 193 204	rein gauche
+T9	Localization 198 204	gauche
+T10	MEAS 208 212	fort
+T12	Concept_Idea 220 229	abondance
+T13	PHEN 234 249	fonction rénale
+T14	ANAT 243 249	rénale
+T15	MEAS 256 264	correcte
+T16	DISO 286 308	niveaux hydro-aériques
+T17	DISO 332 370	syndrome infectieux clinico-biologique
+T18	PROC 374 389	examen clinique
+T19	LIVB 404 414	nourrisson
+T20	TEMP 422 428	9 mois
+T21	PROC 443 448	admis
+T22	Hospital 453 484	urgences médicales pédiatriques
+T23	DISO 504 525	distension abdominale
+T24	ANAT 515 525	abdominale
+T25	DISO 542 572	bombement du poumon péritonéal
+T26	ANAT 555 572	poumon péritonéal
+T27	DISO 585 606	perforation éviscérée
+T28	PROC 644 668	laparotomie exploratrice
+T29	Localization 691 697	droite
+T30	PROC 703 728	surveillance radiologique
+T31	MEAS 785 795	difficiles
+T32	LIVB 810 818	patients
+T33	PROC 837 862	étude anatomopathologique
+T34	DISO 890 938	adénocarcinome indifférencié monocytaire maligne
+T35	ANAT 961 979	structures rénales
+T36	ANAT 1004 1022	veine cave utérine
+T37	ANAT 1034 1054	sceau crico-thyroïde
+T38	MEAS 1063 1066	5cm
+T39	ANAT 1086 1111	cellules trophoblastiques
+T40	ANAT 1149 1172	polynucléaires myxoïdes
+T41	DISO 1213 1225	métastatique
+T42	PROC 1230 1262	traitement palliatif chirurgical
+T43	PROC 1268 1343	néphrectomie transoeso-gastro-duodénale axillaire endorectale scanno-guidée
+T44	Concept_Idea 1394 1403	résultats
+T45	LIVB 1433 1441	patiente
+T46	PROC 1446 1469	contrôle postopératoire
+T47	PROC 1484 1497	exeat général
+T48	DEVI 1514 1522	prothèse
+T49	MEAS 1532 1540	75/50 mm
+T50	ANAT 1611 1641	glandes salivaires accessoires
+T51	MEAS 1647 1656	complètes
+T52	ANAT 1671 1687	noyaux grêliques
+T53	MEAS 1693 1716	macroscopiquement sains
+T54	MEAS 1751 1761	3×12 ×10mm
+T55	MEAS 1765 1775	1×2 x 10mm
+T56	Concept_Idea 1788 1807	aspect histologique
+T57	DISO 1927 1996	rectorragie tuberculeuse mucopolysacchinoïde anévrysmale hypertensive
+T58	DISO 2017 2069	tuberculose séreuse érythématoendotrachéale kystique
+T59	DISO 2090 2159	tumeur exophytique carcinomateuse cutanéomateuse stade E métastatique
+T60	LIVB 2568 2574	enfant
+T61	TEMP 2582 2588	15 ans
+T62	MEAS 2621 2633	particuliers
+T63	DISO 2653 2698	douleurs du plexus maxillaire supérieur droit
+T64	ANAT 2665 2698	plexus maxillaire supérieur droit
+T65	Localization 2693 2698	droit
+T67	DISO 2770 2797	distension abdominale aigüe
+T68	PROC 2826 2858	prise en charge médicale urgente
+T69	CHEM 2860 2895	anti-inflammatoires non stéroïdiens
+T70	PROC 2900 2915	examen clinique
+T71	ANAT 2941 2953	cuir chevelu
+T72	DISO 3097 3121	déficit sensitivo-moteur
+T73	ANAT 3174 3208	paroi corporéo-supérieur cervicale
+T74	ANAT 3365 3378	sacro-iliaque
+T75	PHEN 3426 3435	extension
+T76	DISO 3449 3472	torticolis hémorragique
+T77	DISO 3490 3518	symptomatologie paroxystique
+T78	PROC 3536 3572	transfusionnement chirurgical direct
+T79	DISO 3607 3634	infection nosocomiale aiguë
+T80	PROC 3640 3666	radiothérapie concomitante
+T81	PROC 3700 3750	néphrectomie totale scanno-mandibulaire percutanée
+T82	ANAT 3776 3803	muscles axillaires fessiers
+T83	ANAT 3826 3865	caractère fémoral inférieur homolatéral
+T84	Localization 3854 3865	homolatéral
+T85	MEAS 3876 3885	conscient
+T86	ANAT 3900 3949	quadrant supéro-interne inferieur bilatéral droit
+T87	Localization 3934 3949	bilatéral droit
+T88	PROC 3969 3993	laparotomie exploratrice
+T89	ANAT 4034 4096	tendons tibialères inférieurs longitudinalement controlatéraux
+T90	Localization 4064 4096	longitudinalement controlatéraux
+T91	DISO 4107 4147	nodules tumoraux mésenchymateux pectinés
+T92	Concept_Idea 4191 4200	petit axe

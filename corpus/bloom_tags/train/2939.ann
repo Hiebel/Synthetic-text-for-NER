@@ -1,0 +1,57 @@
+T1	LIVB 29 37	patiente
+T2	PROC 63 68	reçue
+T3	Hospital 72 112	service d’endocrinothérapie substitutive
+T4	PROC 135 160	intervention chirurgicale
+T5	PROC 178 197	anesthésie générale
+T6	DEVI 222 245	stimulateur vésiculaire
+T7	ANAT 234 245	vésiculaire
+T8	MODE 250 281	voie transpharyngo œsophagienne
+T9	PROC 296 375	laparotomie épiploïque péridurale exploratrice intrarétro-œsophagienne préparée
+T10	ANAT 308 1276	épiploïque péridurale exploratrice intrarétro-œsophagienne préparée ayant permis d’exclure l’hernie ganglionnaire rétro-périgastrique ainsi qu’une biopsie panniculocutanée endoscopique étaient réalisées. Les suites postopératoires étaient marquées par l’absence de troubles neurologiques associés notamment pas de crises fébrile ou d'atteinte vestibulaire biliaire ; les soifs/minutes sont demeurés normaux; il n'a pas été décelé de fièvre ni de détresse médicamenteuse associée : on notait également l'absence de souffrance vasculo-moteur cæcale après résection scannoguidée ce qui permettait d'exclure cette tumeur maligne devant sa non prolifération métastase sur tout type de membres inférieurs
+La patiente a bénéficié d'une chirurgie radicale emportant toute la masse tumorale mesurant 3 cm de grand axe intéressant tous les muscles ptérygo-scapulaires extériorisé jusqu'au niveau de l'épiphyse ptérygo-laryngolarynx externe thoracique diaphragmatique homolatéral
+T11	DISO 401 441	hernie ganglionnaire rétro-périgastrique
+T12	ANAT 408 441	ganglionnaire rétro-périgastrique
+T13	PROC 455 492	biopsie panniculocutanée endoscopique
+T14	DISO 573 595	troubles neurologiques
+T15	DISO 622 636	crises fébrile
+T16	DISO 642 672	atteinte vestibulaire biliaire
+T17	ANAT 651 672	vestibulaire biliaire
+T18	PHEN 679 692	soifs/minutes
+T19	MEAS 707 714	normaux
+T20	DISO 741 747	fièvre
+T21	DISO 754 777	détresse médicamenteuse
+T22	CHEM 763 777	médicamenteuse
+T23	DISO 822 854	souffrance vasculo-moteur cæcale
+T24	ANAT 833 854	vasculo-moteur cæcale
+T25	PROC 861 883	résection scannoguidée
+T26	DISO 918 932	tumeur maligne
+T27	ANAT 988 1006	membres inférieurs
+T28	LIVB 1010 1018	patiente
+T29	PROC 1037 1055	chirurgie radicale
+T30	DISO 1075 1089	masse tumorale
+T31	MEAS 1099 1103	3 cm
+T32	Concept_Idea 1107 1116	grand axe
+T33	ANAT 1138 1165	muscles ptérygo-scapulaires
+T34	Localization 1265 1276	homolatéral
+T35	TEMP 1304 1320	plusieurs années
+T36	PROC 1331 1343	accouchement
+T37	DISO 1408 1423	symptomatologie
+T38	Concept_Idea 1491 1498	aspects
+T40	MEAS 1532 1561	particulièrement contributifs
+T41	LIVB 1655 1669	jeunes adultes
+T42	PROC 1806 1821	hospitalisation
+T43	MEAS 1846 1851	trois
+T44	MEAS 1900 1911	progressive
+T45	DISO 1951 1963	palpitations
+T46	MEAS 1978 1989	progressive
+T47	LIVB 2053 2061	patients
+T48	TEMP 2100 2106	20 ans
+T49	DISO 2166 2189	méningo-nodule kystique
+T50	DISO 2334 2353	pancréatite stade B
+T51	DISO 2360 2387	adénocarcinome pancréatique
+T52	PROC 2391 2416	étude anatomopathologique
+T53	DISO 2438 2475	carcinome pléomorphe polyradialytique
+T54	PHEN 2481 2499	suites opératoires
+T55	MEAS 2508 2515	simples
+T56	PROC 2538 2550	troponine Ic
+T57	DISO 2565 2573	récidive

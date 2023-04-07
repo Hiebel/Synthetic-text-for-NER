@@ -1,0 +1,24 @@
+T1	LIVB 20 28	patiente
+T2	Concept_Idea 50 61	antécédents
+T3	MEAS 62 70	notables
+T4	PROC 72 77	reçue
+T5	Hospital 82 90	urgences
+T6	DISO 100 109	céphalées
+T7	DISO 126 152	tuméfaction du sein gauche
+T8	ANAT 141 152	sein gauche
+T9	Localization 146 152	gauche
+T10	TEMP 162 176	depuis 04 mois
+T11	MEAS 191 206	progressivement
+T12	Concept_Idea 210 216	volume
+T13	PROC 221 238	bilan d'extension
+T14	MEAS 245 252	négatif
+T15	PROC 257 281	scanner abdomino-pelvien
+T16	ANAT 265 281	abdomino-pelvien
+T17	DISO 295 350	adénopathies axillaires latéro-utérines carcinomateuses
+T19	MEAS 375 379	14cm
+T20	MEAS 383 388	17 cm
+T21	DISO 419 489	carcinome latéro utérin cervico-vésiculaire laryngolymphangiocarcinome
+T23	DISO 506 525	pneumo-surrénalisme
+T24	PROC 545 570	examen clinique somatique
+T25	DISO 588 609	métastases digestives
+T26	DISO 620 642	localisations malignes

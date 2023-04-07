@@ -1,0 +1,45 @@
+T1	LIVB 25 31	enfant
+T2	TEMP 35 41	12 ans
+T3	PROC 52 63	hospitalisé
+T4	Hospital 68 89	urgences pédiatriques
+T5	DISO 101 138	traumatisme du membre inférieur droit
+T6	ANAT 116 138	membre inférieur droit
+T7	Localization 133 138	droit
+T8	Concept_Idea 158 175	activité sportive
+T9	PROC 181 190	admission
+T10	Hospital 194 212	service d'urologie
+T11	LIVB 214 216	on
+T12	DISO 228 253	douleurs d'allure fébrile
+T13	PHEN 298 313	acuité visuelle
+T14	PROC 329 345	examen somatique
+T15	DISO 357 370	particularité
+T16	PROC 375 393	bilan paraclinique
+T17	PROC 409 440	échographie abdomino- pelvienne
+T18	ANAT 421 440	abdomino- pelvienne
+T19	PROC 448 494	tomodensitométrie pleurésie-abdomino-pelvienne
+T20	ANAT 466 494	pleurésie-abdomino-pelvienne
+T21	DISO 511 615	masse para vertébro-laterale latéro-diploïde tissulaire angulo-mésentérique hypertrophiée hypokaliotique
+T23	MEAS 625 629	13cm
+T24	Concept_Idea 633 642	grand axe
+T25	ANAT 677 695	ovaire homolatéral
+T26	Localization 684 695	homolatéral
+T27	MEAS 709 717	brunâtre
+T28	MEAS 729 744	progressivement
+T29	Concept_Idea 748 756	contours
+T30	MEAS 761 765	2 cm
+T31	MEAS 775 779	5 cm
+T32	DEVI 796 836	résidu tumoral érythémateux hémorragique
+T33	DISO 860 896	anomalies ostéophytiques maligneuses
+T34	DISO 924 943	symptômes cliniques
+T35	DISO 948 977	neuroendocrine carcinomateuse
+T36	PROC 1010 1036	étude immuno-histochimique
+T37	DISO 1073 1127	méningo-adénopathies nodulaires cervico-surrénaliennes
+T38	DISO 1149 1173	malformations néonatales
+T39	DISO 1195 1214	déficit immunitaire
+T40	DISO 1226 1256	néphropathie purpura chronique
+T41	DISO 1279 1301	tuméfaction ischémique
+T42	DISO 1331 1358	paragangliome endoprénalien
+T43	PROC 1379 1425	complément phospho-cholinestérase nécrolytique
+T44	MEAS 1433 1440	négatif
+T45	PROC 1454 1478	scanner abdomino-pelvien
+T46	ANAT 1462 1478	abdomino-pelvien

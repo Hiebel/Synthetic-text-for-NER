@@ -1,0 +1,54 @@
+T1	LIVB 29 37	patiente
+T2	DISO 59 84	antécédents pathologiques
+T3	MEAS 85 97	particuliers
+T4	DISO 117 154	tuméfaction douloureuse du pied droit
+T5	ANAT 144 154	pied droit
+T6	Localization 149 154	droit
+T7	TEMP 164 177	depuis 4 mois
+T8	PROC 181 196	examen clinique
+T9	DISO 216 251	syndrome douloureux polymalformatif
+T10	DISO 261 286	troubles sensitivo-moteur
+T11	DISO 297 328	désorientation temporo-spaciale
+T12	LIVB 367 374	parents
+T13	PROC 380 409	traitement neuropsychiatrique
+T14	CHEM 411 424	neuroleptique
+T15	Concept_Idea 460 477	état stationnaire
+T16	PHEN 504 509	soins
+T17	Hospital 514 535	urgences pédiatriques
+T18	Hospital 544 559	bloc opératoire
+T19	PROC 565 600	contrôle locorégional multilocalisé
+T20	PROC 613 630	cure chirurgicale
+T21	LIVB 694 704	nourrisson
+T22	TEMP 712 718	3 mois
+T23	PROC 725 730	suivi
+T24	DISO 736 756	diabète gestationnel
+T25	LIVB 767 769	il
+T26	LIVB 786 788	sa
+T27	LIVB 789 799	belle-mère
+T28	PROC 824 835	infanticide
+T29	DISO 868 881	consanguinité
+T30	DISO 891 921	facteur de risque psychosocial
+T31	DISO 952 967	symptomatologie
+T32	DISO 1197 1222	déplacement professionnel
+T33	DISO 1229 1250	mariage consanguinité
+T34	PROC 1256 1294	échographie obstétricale préopératoire
+T35	DISO 1334 1377	méningo-encéphalite spongiforme infectieuse
+T36	TEMP 1422 1438	5 jours plus tôt
+T37	MEAS 1475 1490	progressivement
+T38	LIVB 1555 1565	nouveau-né
+T39	DISO 1583 1601	récidive somatique
+T40	PROC 1771 1809	dérivations fonctionnelles parentérale
+T41	LIVB 1941 1964	professionnels de santé
+T42	Concept_Idea 2019 2039	chiffres tensionnels
+T43	LIVB 2169 2175	enfant
+T44	DISO 2298 2343	pseudo-œdème laryngo-laryngéomateux disséminé
+T45	DISO 2364 2398	lésions cervico-anophtalmologiques
+T46	ANAT 3252 3262	œil gauche
+T47	Localization 3256 3262	gauche
+T48	ANAT 3269 3285	muqueuse buccale
+T49	PHEN 3291 3309	suites opératoires
+T50	MEAS 3318 3325	simples
+T51	TEMP 3343 3347	1 an
+T52	DISO 3368 3402	symptômes d'hypertension cérébrale
+T53	ANAT 3393 3402	cérébrale
+T54	Concept_Idea 3467 3493	tableau neuropsychiatrique

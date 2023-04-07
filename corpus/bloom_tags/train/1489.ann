@@ -1,0 +1,28 @@
+T1	LIVB 3 10	patient
+T2	DISO 47 79	hémodialyse ischémique chronique
+T3	DISO 84 121	maladie thromboembolique artériolaire
+T4	ANAT 109 121	artériolaire
+T5	MODE 127 153	voie veineuse périphérique
+T6	DEVI 175 208	sonde oesophagienne transfixiante
+T8	Hospital 225 239	per opératoire
+T9	ANAT 263 288	parties molles cervicales
+T10	PROC 311 329	résection monobloc
+T11	ANAT 348 394	parenchyme mésentérique péritonéo-hypodermique
+T12	PROC 408 426	toilette pelvienne
+T13	ANAT 417 426	pelvienne
+T14	DOSE 437 442	0,5 g
+T15	CHEM 446 464	méthylprednisolone
+T16	DOSE 467 473	200 mg
+T17	CHEM 477 490	bêtaméthasone
+T18	LIVB 520 528	patiente
+T19	DISO 549 582	prolifération tumorale résiduelle
+T20	MEAS 636 649	15 000 UI/m 2
+T21	MEAS 655 684	entre 10 et 30 fois supérieur
+T22	MEAS 774 783	750 UI/m2
+T23	PROC 789 819	curage bilatéral peropératoire
+T24	Localization 796 805	bilatéral
+T25	MEAS 897 902	46 mm
+T26	Concept_Idea 906 915	grand axe
+T27	DISO 936 965	angiome séreux angiosuffisant
+T28	TEMP 975 986	depuis 1 an
+T29	ANAT 1030 1055	intrarachidiencéphallique

@@ -1,0 +1,34 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	Hospital 54 62	urgences
+T4	DISO 90 110	douleur épigastrique
+T5	ANAT 98 110	épigastrique
+T6	MEAS 125 136	progressive
+T7	DISO 149 165	signes cliniques
+T8	PROC 179 194	examen clinique
+T9	DISO 212 236	sensibilité épigastrique
+T10	ANAT 224 236	épigastrique
+T11	MEAS 252 260	brunâtre
+T12	TEMP 270 284	depuis 4 jours
+T13	DISO 300 318	détresse digestive
+T14	PHEN 309 318	digestive
+T15	DISO 328 341	symptomatique
+T16	PROC 351 360	admission
+T17	PROC 366 390	anesthésie locorégionale
+T18	ANAT 377 390	locorégionale
+T19	PROC 397 415	intubation intubée
+T20	PROC 428 452	scanner abdomino-pelvien
+T21	ANAT 436 452	abdomino-pelvien
+T22	DISO 491 513	syndrome inflammatoire
+T23	DISO 520 533	thrombophilie
+T24	MEAS 550 557	normaux
+T25	PROC 561 591	auscultation cardio-vasculaire
+T26	ANAT 574 591	cardio-vasculaire
+T27	DISO 607 615	polypnée
+T28	MEAS 618 634	22 cycles/minute
+T29	MEAS 646 661	progressivement
+T30	Concept_Idea 665 671	volume
+T31	LIVB 686 690	elle
+T32	MEAS 748 760	2500 grammes
+T33	PROC 764 781	geste chirurgical
+T34	PROC 800 822	biopsie exérèse totale

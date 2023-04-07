@@ -1,0 +1,51 @@
+T1	LIVB 3 14	jeune homme
+T2	TEMP 18 24	22 ans
+T3	DISO 68 81	abcès pelvien
+T4	ANAT 74 81	pelvien
+T5	DISO 91 115	symptomatologie associée
+T6	DISO 143 156	consanguinité
+T7	DISO 163 183	syndrome malformatif
+T8	LIVB 205 212	famille
+T9	PROC 216 235	bilan préopératoire
+T10	TEMP 334 345	29 semaines
+T11	MEAS 387 392	32 SA
+T12	MEAS 438 450	2870 grammes
+T13	MEAS 460 474	45 centimètres
+T14	Concept_Idea 478 487	grand axe
+T15	Concept_Idea 510 523	petite taille
+T16	PROC 535 559	anesthésie locorégionale
+T17	ANAT 546 559	locorégionale
+T18	PROC 566 590	c'lioscopie exploratrice
+T19	PROC 604 638	radiothérapie palliative adjuvante
+T20	LIVB 665 673	patients
+T21	DOSE 701 705	15Gy
+T22	PROC 762 803	prélèvements chirurgicaux complémentaires
+T23	DISO 833 855	souffrance placentaire
+T24	ANAT 844 855	placentaire
+T25	DISO 896 926	atteinte utérine cicatricielle
+T26	ANAT 905 926	utérine cicatricielle
+T27	Concept_Idea 946 969	critères morphologiques
+T28	PROC 1035 1063	diagnostic histopathogénique
+T29	ANAT 1199 1235	endovaginale méso-sigmoïdo-gastrique
+T30	PROC 1271 1293	chirurgie extemporanée
+T31	PROC 1452 1467	métacystectomie
+T32	PROC 1606 1642	tomodensitométrie abdomino-pelvienne
+T33	ANAT 1624 1642	abdomino-pelvienne
+T34	DISO 1656 1678	épanchement péritonéal
+T35	ANAT 1668 1678	péritonéal
+T38	ANAT 1881 1907	poche liquidienne grêlique
+T39	ANAT 1915 1933	anses intestinales
+T40	PROC 1937 1970	échocardiographie transthoracique
+T41	ANAT 1955 1970	transthoracique
+T42	MEAS 1983 1993	volumineux
+T43	DISO 1994 2020	œdème du ventricule gauche
+T44	ANAT 2003 2020	ventricule gauche
+T45	Localization 2014 2020	gauche
+T46	PROC 2036 2051	examen clinique
+T47	DISO 2063 2076	particularité
+T48	PROC 2080 2115	intradermoréaction à la tuberculine
+T49	CHEM 2104 2115	tuberculine
+T50	MEAS 2122 2130	négative
+T51	PROC 2140 2172	anticorps anti-nucléaires natifs
+T52	PROC 2174 2178	ANCA
+T53	MEAS 2180 2188	positifs

@@ -1,0 +1,24 @@
+T1	LIVB 15 22	patient
+T2	Concept_Idea 39 50	antécédents
+T3	MEAS 51 63	particuliers
+T4	PROC 65 70	admis
+T5	Hospital 75 83	urgences
+T6	DISO 92 127	syndrome d'épanchement péricardique
+T7	ANAT 115 127	péricardique
+T8	PROC 131 156	intervention chirurgicale
+T9	PROC 177 201	anesthésie locorégionale
+T10	ANAT 188 201	locorégionale
+T11	CHEM 207 217	sufentanil
+T12	DOSE 219 226	1 µg/kg
+T13	TEMP 226 228	/j
+T14	CHEM 241 249	propofol
+T15	MODE 253 265	intraveineux
+T16	PROC 273 297	intubation oro-trachéale
+T17	ANAT 284 297	oro-trachéale
+T18	DEVI 305 327	cathéter nasogastrique
+T19	ANAT 314 327	nasogastrique
+T20	PROC 332 357	réanimation préopératoire
+T21	CHEM 378 391	noradrénaline
+T22	PHEN 445 449	dose
+T23	DOSE 453 465	0,5mg/kg/min
+T24	CHEM 468 493	hydroxyindole acétylamine

@@ -1,0 +1,19 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 13 18	6 ans
+T3	DISO 70 91	perte de connaissance
+T4	LIVB 110 112	sa
+T5	LIVB 113 131	fratrie paternelle
+T6	DISO 151 171	polyarthrite fébrile
+T7	MEAS 186 197	progressive
+T8	MODE 212 222	voie orale
+T9	CHEM 225 243	hydroxychloroquine
+T10	CHEM 270 285	aciprofloxacine
+T11	CHEM 310 321	Cyclosérine
+T12	CHEM 324 335	Ceftriaxone
+T13	CHEM 337 351	Rifhydronamide
+T14	LIVB 354 357	Son
+T15	DEVI 358 387	cathéter veineux périphérique
+T16	ANAT 367 387	veineux périphérique
+T17	DOSE 430 436	5mg/kg
+T18	CHEM 440 459	drogues vasoactives
+T19	DEVI 472 490	moteur pneumatique

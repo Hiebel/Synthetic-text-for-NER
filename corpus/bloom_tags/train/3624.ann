@@ -1,0 +1,73 @@
+T1	LIVB 16 24	patiente
+T3	ANAT 66 84	abdomino-pelvienne
+T4	TEMP 94 110	depuis deux mois
+T5	DISO 127 143	hyperleucocytose
+T6	DISO 156 171	signes associés
+T7	PROC 175 190	examen clinique
+T8	LIVB 202 210	patiente
+T9	MEAS 214 223	assez bon
+T10	Concept_Idea 224 236	état général
+T11	DISO 238 249	polypnéique
+T12	MEAS 252 265	32 cycles/min
+T13	PHEN 274 289	pouls menstruel
+T14	MEAS 301 312	75 batt/min
+T15	DEVI 320 338	tension artérielle
+T16	ANAT 328 338	artérielle
+T17	MEAS 341 352	100/70 mmHg
+T18	PROC 357 387	auscultation cardio-vasculaire
+T19	ANAT 370 387	cardio-vasculaire
+T20	MEAS 392 401	conservée
+T21	PROC 426 442	examen somatique
+T22	DISO 468 481	particularité
+T23	DISO 499 514	défense utérine
+T24	ANAT 507 514	utérine
+T25	PROC 518 534	bilan biologique
+T26	DISO 546 601	anémie normochrome normocytaire hypochrome microcytaire
+T27	DISO 617 629	thrombopénie
+T28	MEAS 632 657	13000 éléments blancs/mm3
+T29	PROC 663 678	glycémie à jeun
+T30	MEAS 681 690	0,94 g/dl
+T31	PROC 704 723	Hémoglobine glyquée
+T32	MEAS 726 730	4,7%
+T33	PROC 755 783	numérations formule sanguine
+T34	PROC 788 824	tomodensitométrie abdomino-pelvienne
+T35	ANAT 806 824	abdomino-pelvienne
+T36	PROC 839 863	anesthésie locorégionale
+T37	ANAT 850 863	locorégionale
+T38	PROC 869 878	transfert
+T39	Hospital 882 897	bloc opératoire
+T40	DISO 915 944	pancréatite stade E purulente
+T41	ANAT 973 980	pelvien
+T42	MEAS 990 995	21 cm
+T43	Concept_Idea 999 1007	diamètre
+T44	MEAS 1012 1017	17 cm
+T45	Concept_Idea 1021 1030	grand axe
+T46	ANAT 1051 1075	zones rétro péritonéales
+T47	ANAT 1098 1121	cavité hépatique iléale
+T48	LIVB 1146 1157	jeune femme
+T49	DISO 1175 1262	carcinome nécréo-séro-mucléaire kystique pancréato-gigantocellulaire pariéto-lymphoïdal
+T50	Localization 1273 1283	bilatérale
+T51	DISO 1465 1474	métastase
+T52	PROC 1481 1510	cholécystectomie exploratrice
+T53	ANAT 1613 1647	masse ombilicale hypogastroïdienne
+T54	MEAS 1696 1721	grossièrement lithiasique
+T55	ANAT 1759 1773	parties molles
+T56	DISO 1962 1981	lésions nécrotiques
+T57	DISO 1988 2013	fasciculations séculaires
+T58	DISO 2040 2060	résidu carcinomateux
+T59	PROC 2100 2117	histopathologique
+T60	PROC 2122 2146	marqueurs neurochimiques
+T61	DISO 2228 2267	syndrome d'immunodéficience humiditaire
+T62	DISO 2382 2396	ménométrorrhée
+T63	MEAS 2473 2479	rapide
+T64	DISO 2534 2555	détresse respiratoire
+T65	PHEN 2543 2555	respiratoire
+T66	DISO 2573 2611	adénocarcinome des vésicules biliaires
+T67	ANAT 2592 2611	vésicules biliaires
+T68	PROC 2631 2650	traitement adjuvant
+T69	CHEM 2679 2688	docetaxel
+T70	DOSE 2690 2697	20mg/m²
+T71	TEMP 2697 2699	/j
+T72	CHEM 2706 2718	oxaliplatine
+T73	DOSE 2720 2729	100 mg/m²
+T74	TEMP 2729 2731	/j

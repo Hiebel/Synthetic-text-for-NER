@@ -1,0 +1,49 @@
+T1	LIVB 29 34	femme
+T2	PROC 60 65	reçue
+T3	Hospital 69 99	service d'accueil des urgences
+T4	DISO 118 132	amaigrissement
+T5	MEAS 143 148	15 kg
+T6	PROC 176 186	diagnostic
+T7	DISO 192 235	adénocarcinome hodgkinien laryngo-sophagien
+T8	ANAT 249 277	artère pharyngo œsophagienne
+T9	DISO 298 325	localisations métastatiques
+T10	DISO 339 359	défense épigastrique
+T11	ANAT 347 359	épigastrique
+T12	PROC 389 413	chimiothérapie adjuvante
+T13	CHEM 419 429	cisplatine
+T14	CHEM 430 439	métoprime
+T15	MODE 449 462	intraveineuse
+T16	DOSE 466 468	2g
+T17	CHEM 472 481	docetaxel
+T18	MODE 486 496	voie orale
+T19	PROC 503 543	ponction liquide céphalo-rachianesthésie
+T20	ANAT 512 543	liquide céphalo-rachianesthésie
+T21	PROC 569 591	induction anesthésique
+T22	CHEM 604 612	propofol
+T23	CHEM 615 623	fentanyl
+T24	CHEM 626 648	méthyl-méthasufentanil
+T25	CHEM 651 664	bromocriptine
+T26	DEVI 668 675	ampoule
+T27	PROC 707 726	pronostic somatique
+T28	LIVB 828 835	malades
+T29	MEAS 977 1006	incontestablement défavorable
+T30	PROC 1182 1203	échographie pelvienne
+T31	ANAT 1194 1203	pelvienne
+T32	DISO 1228 1326	formation tissulaire hétérogène hypo échogène pariétale latéralisée utéro péritonéale homolatérale
+T33	Localization 1314 1326	homolatérale
+T34	MEAS 1336 1340	23cm
+T35	Concept_Idea 1344 1353	grand axe
+T36	MEAS 1362 1367	12 cm
+T37	Concept_Idea 1371 1380	grand axe
+T38	ANAT 1410 1428	colonne ombilicale
+T39	DISO 1502 1548	adénocarcinome érythémateux cervicovésiculaire
+T40	ANAT 1715 1741	péritonéal cœléo-lobulaire
+T41	DISO 1761 1787	lésions kystiques malignes
+T42	DISO 1901 1915	neuroendocrine
+T43	MEAS 2169 2194	difficilement réalisables
+T44	DISO 2542 2558	signes cliniques
+T45	DISO 2581 2668	récupération fonctionnelle du parenchyme graisseux pelvien laryngopharyngo-dorsiflexeur
+T47	LIVB 2673 2683	nouveau-né
+T48	PROC 2701 2731	bilan d’extension locorégional
+T49	PROC 2739 2773	radiothérapie systémique adjuvante
+T50	TEMP 2791 2798	10 mois

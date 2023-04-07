@@ -1,0 +1,37 @@
+T1	LIVB 4 9	femme
+T2	DISO 44 123	carcinome endometronico-padmoïde laryngéo-kystique cervico-thyroesophagocytaire
+T4	PROC 129 153	chimiothérapie adjuvante
+T5	CHEM 155 165	cisplatine
+T6	CHEM 167 177	paclitaxel
+T7	CHEM 181 194	dexaméthasone
+T8	TEMP 196 210	pendant 10 ans
+T9	PROC 215 220	reçue
+T10	Hospital 224 254	service d'accueil des urgences
+T11	DISO 263 284	syndrome fébrile aigu
+T12	TEMP 294 310	depuis 24 heures
+T13	DISO 326 332	sueurs
+T14	MEAS 345 353	4 litres
+T15	PROC 357 373	examen somatique
+T16	DISO 391 397	fièvre
+T17	MEAS 400 404	38°5
+T18	DISO 420 451	sensibilité abdomino- pelvienne
+T19	ANAT 432 451	abdomino- pelvienne
+T20	DISO 461 472	lithiasique
+T21	DISO 486 506	distension pelvienne
+T22	ANAT 497 506	pelvienne
+T23	ANAT 537 544	utérine
+T24	MEAS 555 559	1 cm
+T25	PROC 581 618	pression artérielle systolique pulsée
+T26	ANAT 590 618	artérielle systolique pulsée
+T27	DISO 692 718	dyspnée stade III de l’OMS
+T28	MEAS 733 744	progressive
+T29	DISO 780 806	AVC ischémique néphrotique
+T30	DISO 811 855	myocardiopathie congénitale thromboembolique
+T31	LIVB 897 905	patiente
+T32	PROC 928 963	transfusion sanguine prophylactique
+T33	DOSE 974 978	deux
+T34	MODE 979 1001	concentrés globulaires
+T35	DOSE 1003 1013	500 000 UI
+T36	DOSE 1016 1024	50000 UI
+T37	PROC 1030 1074	tomodensitométrie thoraco-abdomino-pelvienne
+T38	ANAT 1048 1074	thoraco-abdomino-pelvienne

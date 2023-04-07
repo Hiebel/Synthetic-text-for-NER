@@ -1,0 +1,38 @@
+T1	LIVB 3 10	patient
+T2	Concept_Idea 31 42	antécédents
+T3	MEAS 43 51	notables
+T4	PROC 53 57	reçu
+T5	Hospital 62 70	urgences
+T7	ANAT 125 141	intra-vasculaire
+T8	DISO 151 165	toux sifflante
+T9	Concept_Idea 210 223	état générale
+T10	MEAS 238 245	brutale
+T11	DISO 259 269	hémoptysie
+T12	PROC 276 285	admission
+T13	Hospital 289 338	centre hospitalier universitaire Hassan II de Fès
+T14	PROC 354 379	chimiothérapie palliative
+T15	MODE 385 397	intraveineux
+T16	CHEM 399 415	Mo-dexaméthasone
+T17	DOSE 416 424	0,5mg/kg
+T18	CHEM 427 446	Valproate de sodium
+T19	DOSE 447 455	10 mg/kg
+T20	LIVB 475 483	patients
+T21	DISO 488 509	détresse respiratoire
+T22	PHEN 497 509	respiratoire
+T23	MEAS 533 546	40 cycles/min
+T24	DISO 562 578	dyspnée d'effort
+T25	MEAS 590 599	lentement
+T26	Concept_Idea 603 609	volume
+T27	MEAS 619 649	progressivement plus accentuée
+T28	DISO 678 689	insufflante
+T29	DISO 693 712	pleurésie purulente
+T30	PROC 757 786	pression médiastinothoracique
+T31	ANAT 766 786	médiastinothoracique
+T32	LIVB 834 838	elle
+T33	Concept_Idea 902 917	acuité visuelle
+T34	DISO 930 950	troubles oculomoteur
+T35	PROC 971 996	hospitalisation d'urgence
+T36	PROC 1110 1137	bactérioculturemycolognique
+T37	LIVB 1196 1202	malade
+T38	PROC 1215 1232	ponction pleurale
+T39	ANAT 1224 1232	pleurale

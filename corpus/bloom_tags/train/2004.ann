@@ -1,0 +1,70 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 35	10 ans
+T3	PROC 37 42	suivi
+T4	DISO 51 84	syndrome d'épanchement péritonéal
+T5	ANAT 74 84	péritonéal
+T6	TEMP 95 108	depuis 3 mois
+T7	PROC 112 127	examen clinique
+T8	Concept_Idea 139 154	hauteur utérine
+T9	ANAT 147 154	utérine
+T10	MEAS 157 161	2 cm
+T11	PHEN 169 190	contractions utérines
+T12	ANAT 182 190	utérines
+T13	MEAS 191 199	modérées
+T14	ANAT 213 223	col utérin
+T15	DISO 239 250	métrorragie
+T16	PROC 255 274	bilan préopératoire
+T17	PROC 292 311	hémoglobine glyquée
+T18	MEAS 314 320	8,4 g%
+T19	LIVB 322 326	Elle
+T20	CHEM 343 356	sulfasalazine
+T21	MODE 360 370	voie orale
+T22	CHEM 385 405	méthylhydrocortisone
+T23	DOSE 407 413	1mg/kg
+T24	TEMP 413 418	/jour
+T25	CHEM 421 434	noradrénaline
+T26	DOSE 436 445	0,5 mg/kg
+T27	TEMP 445 447	/j
+T28	CHEM 452 471	hydroxyprogesterone
+T29	DOSE 473 479	200 mg
+T30	TEMP 479 487	/semaine
+T31	PROC 493 517	scanner abdomino-pelvien
+T32	ANAT 501 517	abdomino-pelvien
+T33	DISO 534 597	lésion hypoéchogène tissulaire latéro-utérine bilatérale droite
+T34	Localization 580 597	bilatérale droite
+T35	MEAS 607 612	18 mm
+T36	MEAS 617 621	12mm
+T37	Concept_Idea 624 633	épaisseur
+T38	ANAT 649 654	grêle
+T39	DISO 675 733	adénopathie paravaginale postérieure cervicale liquidienne
+T40	ANAT 687 733	paravaginale postérieure cervicale liquidienne
+T42	MEAS 742 745	3cm
+T43	PROC 770 779	injection
+T44	CHEM 783 803	produit de contraste
+T45	DISO 833 851	anomalies malignes
+T46	PROC 867 896	étude anatomopatholographique
+T47	DISO 914 933	vésicules biliaires
+T48	DISO 943 957	tissu kystique
+T49	ANAT 973 1019	structures intestinales grêto-gastroduodénales
+T50	PROC 1024 1074	tomodensitométrie abdomino-pelvienne transfixiante
+T51	ANAT 1042 1074	abdomino-pelvienne transfixiante
+T52	DISO 1088 1223	masse ostéolytique hypotissulaire pariétale droite basithoracique hypophréno-surrénalienne diaphragmatique laryngolaryngotriquetonnante
+T55	MEAS 1235 1250	progressivement
+T56	Concept_Idea 1254 1260	taille
+T57	MEAS 1270 1286	multi-cloisonnée
+T58	ANAT 1311 1333	réticulons épiploiques
+T59	Concept_Idea 1357 1376	caractère nodulaire
+T60	Concept_Idea 1403 1411	contours
+T61	MEAS 1412 1421	réguliers
+T62	ANAT 1442 1460	veine mésentérique
+T63	ANAT 1470 1492	cordon iléovésiculaire
+T64	DISO 1528 1541	ganglionnaire
+T65	DISO 1568 1597	vascularisation péristaltique
+T66	DISO 1610 1624	masse tumorale
+T67	ANAT 1632 1650	organes lymphoïdes
+T68	ANAT 1713 1752	fosse para vertébro-mandibulaire droite
+T69	Localization 1746 1752	droite
+T70	ANAT 1778 1801	sinus jugulo-carotidien
+T71	ANAT 1832 1850	membres inférieurs
+T72	DEVI 1871 1909	sonde intestinale cœso-laryngoscopique
+T74	Hospital 1910 1918	Sonilys®

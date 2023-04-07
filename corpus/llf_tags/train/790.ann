@@ -1,0 +1,20 @@
+T1	LIVB 4 15	jeune fille
+T2	PROC 37 45	adressée
+T3	Hospital 49 60	psychiatrie
+T4	DISO 69 93	trouble psychotique aigu
+T5	Concept_Idea 115 127	état général
+T6	DISO 142 165	vomissements chroniques
+T7	DISO 181 192	traumatisme
+T8	DISO 203 220	signes somatiques
+T9	DISO 322 365	syndrome délirant hallucinatoire polymorphe
+T10	LIVB 464 479	meilleure élève
+T11	TEMP 481 501	3 ème année primaire
+T12	PROC 506 521	examen physique
+T13	PHEN 560 566	rythme
+T14	ANAT 607 619	cuir chevelu
+T15	MEAS 628 636	10/15 cm
+T16	DISO 641 652	polypneïque
+T17	DISO 656 666	tachycarde
+T18	LIVB 701 713	petite fille
+T19	LIVB 897 903	enfant
+T20	PROC 1122 1156	prise en charge neuropsychiatrique

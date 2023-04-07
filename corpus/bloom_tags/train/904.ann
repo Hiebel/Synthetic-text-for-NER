@@ -1,0 +1,24 @@
+T1	LIVB 3 14	jeune homme
+T2	TEMP 18 24	22 ans
+T3	DISO 65 116	hypochrome microcytaire hypochrome hypoglycorrachie
+T4	CHEM 147 166	hydroxy-chloroquine
+T5	DISO 192 239	syndrome d'épanchement intrarétinien ischémique
+T6	ANAT 215 239	intrarétinien ischémique
+T7	TEMP 249 262	depuis 6 mois
+T8	DOSE 292 300	10 mg/kg
+T9	TEMP 300 305	/jour
+T10	CHEM 316 330	hydrocortisone
+T11	CHEM 332 345	dexaméthasone
+T12	CHEM 348 361	métronidazole
+T13	CHEM 363 376	nicardiprolol
+T14	LIVB 413 421	patiente
+T15	DISO 449 458	symptômes
+T16	PHEN 538 571	récupération visuelle consanguine
+T17	TEMP 596 603	6 jours
+T18	LIVB 625 630	notre
+T19	Hospital 631 638	service
+T20	DISO 665 684	anorexie gravidique
+T21	MEAS 699 710	progressive
+T22	DISO 727 733	sueurs
+T23	MEAS 734 742	profuses
+T24	MEAS 755 763	4 litres

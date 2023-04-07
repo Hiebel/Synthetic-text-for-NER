@@ -1,0 +1,31 @@
+T1	LIVB 28 35	patient
+T2	DISO 65 82	céphalées fébrile
+T3	MEAS 97 108	progressive
+T4	DISO 135 166	douleurs basithoraciques droite
+T5	ANAT 144 166	basithoraciques droite
+T6	Localization 160 166	droite
+T7	DISO 168 188	vomissements bilieux
+T8	DISO 201 239	syndrome d’épanchement intrapéritonéal
+T9	ANAT 224 239	intrapéritonéal
+T10	LIVB 241 244	Son
+T11	PROC 245 260	examen clinique
+T12	DISO 277 295	détresse cardiaque
+T13	PHEN 286 295	cardiaque
+T14	CHEM 301 311	adrénaline
+T15	DEVI 345 364	sonde nasotrachéale
+T17	ANAT 408 432	sinus thyrico-thoracique
+T18	DISO 521 552	complications thrombo-embolique
+T19	DISO 562 583	sévènement infectieux
+T20	DISO 605 634	souffle ventriculo-cytoplasme
+T21	ANAT 613 634	ventriculo-cytoplasme
+T22	MEAS 666 672	rapide
+T23	ANAT 688 719	artérielle cervicale systolique
+T24	MEAS 730 737	12 mmhg
+T25	MEAS 763 769	45mmhg
+T26	DISO 793 832	sensibilité pleuro-laryngo œsophaginale
+T27	ANAT 805 832	pleuro-laryngo œsophaginale
+T28	DISO 908 931	hypertension artérielle
+T29	ANAT 921 931	artérielle
+T30	DISO 949 981	dyspnée stade E3/E4/NHA syndrome
+T31	MEAS 997 1012	progressivement
+T32	Concept_Idea 1016 1022	taille

@@ -1,0 +1,42 @@
+T1	LIVB 3 9	enfant
+T2	TEMP 17 22	8 ans
+T3	DISO 97 115	préjudice corporel
+T4	DISO 127 147	défaillance physique
+T5	LIVB 222 284	joueurs professionnel(le joueur /la joueuse/du milieu scolaire
+T6	TEMP 298 303	7 ans
+T7	LIVB 337 343	enfant
+T8	DISO 361 378	accident de sport
+T9	DISO 402 423	perte de connaissance
+T10	MEAS 434 445	400 grammes
+T11	LIVB 466 473	parents
+T12	DISO 501 523	troubles psychomoteurs
+T13	Concept_Idea 537 555	limites familiales
+T14	PROC 581 607	consultation psychiatrique
+T15	DISO 1019 1074	mélancome du squelette cervical inter-thoraco-abdominal
+T16	ANAT 1032 1074	squelette cervical inter-thoraco-abdominal
+T17	DISO 1094 1185	dilatation des voies biliaires fronto-temporo-pariétales controlatérales jugulo-pulmonaires
+T18	ANAT 1109 1185	voies biliaires fronto-temporo-pariétales controlatérales jugulo-pulmonaires
+T19	ANAT 1204 1246	cordon crico-trachéale supérieur bilatéral
+T20	Localization 1237 1246	bilatéral
+T21	DISO 1252 1263	adénopathie
+T22	DISO 1267 1283	nécrose tumorale
+T23	PROC 1298 1316	étude histologique
+T24	Concept_Idea 1341 1371	résultats anatomopathologiques
+T25	DISO 1396 1433	lésion tissulaire liquidienne maligne
+T26	ANAT 1452 1473	veine cave inférieure
+T27	Localization 1463 1473	inférieure
+T28	MEAS 1483 1487	3 cm
+T29	PROC 1523 1555	mastectomie totale scanno-guidée
+T30	PROC 1584 1610	examen cytobactériologique
+T31	DISO 1630 1686	tumeur polylobée hétérogène péritonéale hyperchromateuse
+T32	MEAS 1695 1699	6 cm
+T33	ANAT 1712 1768	structures vésicales lobaire inférieure droitebronchique
+T34	Localization 1752 1768	droitebronchique
+T35	CHEM 1829 1907	fragments charnus éosinophiles méthoxylés hypertrophiés alpha hydroxyléphidies
+T36	DEVI 1928 1949	sac herniaire interne
+T37	PROC 2069 2099	curage ganglionnaire axillaire
+T38	PROC 2123 2184	hépato-anastomose transoesophagienne percutanée endochondrale
+T39	ANAT 2202 2249	ganglion thoracique postéro-latéral homolatéral
+T40	Localization 2238 2249	homolatéral
+T41	ANAT 2268 2360	cellules pariéto-claviculaires pulmonaires mésentériques supraventriculaires intracardiaques
+T42	PHEN 2445 2488	grosse hélice superflue laryngéenne externe

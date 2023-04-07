@@ -1,0 +1,43 @@
+T1	LIVB 19 25	enfant
+T2	TEMP 29 34	6 ans
+T3	DISO 41 66	antécédents pathologiques
+T4	MEAS 67 75	notables
+T5	PROC 77 82	admis
+T6	Hospital 86 93	urgence
+T7	DISO 103 136	douleur du membre supérieur droit
+T8	ANAT 114 136	membre supérieur droit
+T9	Localization 131 136	droit
+T10	TEMP 146 159	depuis 4 mois
+T11	MEAS 174 189	progressivement
+T12	Concept_Idea 193 199	volume
+T13	DISO 214 247	syndrome d'épanchement péritonéal
+T14	ANAT 237 247	péritonéal
+T15	PROC 252 271	bilan préopératoire
+T16	DISO 306 328	hépatite aiguë stade B
+T17	PROC 338 348	leucocytes
+T18	MEAS 351 360	12000/mm3
+T19	PROC 366 396	échographie abdomino-pelvienne
+T20	ANAT 378 396	abdomino-pelvienne
+T21	LIVB 419 451	médecin anesthésiste-réanimateur
+T22	DISO 485 526	masse tissulaire kystique hypo échoguidée
+T23	MEAS 535 539	4 cm
+T24	Concept_Idea 543 552	grand axe
+T25	MEAS 557 561	2 cm
+T26	Concept_Idea 565 574	petit axe
+T27	ANAT 590 597	ombilic
+T28	MEAS 607 620	15 x 13x 8 cm
+T29	Concept_Idea 623 629	aspect
+T30	MEAS 630 646	en nid d'abeille
+T31	ANAT 662 679	grosses épiploons
+T32	DISO 696 701	masse
+T33	DISO 728 741	paragangliome
+T34	DISO 767 797	lésion bourgeonnante hypodense
+T35	DISO 810 833	localisations tumorales
+T36	ANAT 854 865	tissulaires
+T37	PROC 883 908	scanner abdomino- pelvien
+T38	ANAT 891 908	abdomino- pelvien
+T39	DISO 929 976	masse lithiasique nécrose érythémato-fistulisée
+T40	ANAT 998 1022	corps caverneux vaginaux
+T41	ANAT 1043 1063	fosse iliaque droite
+T42	Localization 1057 1063	droite
+T43	ANAT 1091 1113	ventricule vésiculaire

@@ -1,0 +1,69 @@
+T1	LIVB 16 24	patiente
+T2	DISO 46 70	antécédents pathologique
+T3	MEAS 71 83	particuliers
+T4	PROC 94 100	admise
+T5	LIVB 106 111	notre
+T6	Hospital 112 119	service
+T7	DISO 129 138	dysphagie
+T8	PROC 144 159	examen clinique
+T9	LIVB 163 171	patiente
+T10	DISO 182 211	symptômes neuropsychiatriques
+T11	LIVB 247 253	enfant
+T12	TEMP 261 268	18 mois
+T13	Concept_Idea 300 324	manifestations cliniques
+T14	LIVB 405 415	nourrisson
+T15	DISO 442 451	symptômes
+T16	LIVB 484 486	il
+T17	LIVB 551 559	personne
+T18	PHEN 576 585	grossesse
+T19	DISO 605 634	symptomatologie psychiatrique
+T20	TEMP 645 661	un an auparavant
+T21	LIVB 723 733	nouveau-né
+T22	Concept_Idea 742 754	style sexuel
+T23	LIVB 899 908	pédiatres
+T24	LIVB 947 970	professionnels de santé
+T25	CHEM 991 1021	sutures pseudo-médicamenteuses
+T27	DISO 1101 1122	bruits psychomotrices
+T28	PROC 1127 1149	traitement ambulatoire
+T29	ANAT 1197 1205	matières
+T30	DEVI 1320 1351	psychothérapies antidépressives
+T32	PROC 1407 1429	traitement concomitant
+T33	PROC 1517 1536	traitement adjuvant
+T34	LIVB 1573 1578	femme
+T35	MEAS 1611 1612	3
+T36	LIVB 1613 1620	enfants
+T37	MEAS 2155 2158	50%
+T38	MEAS 2167 2172	ACR 4
+T39	PROC 2583 2607	consultation pré urgence
+T40	DISO 2641 2665	syndrome polymalformatif
+T41	DISO 2717 2749	trouble cognitivo-comportemental
+T42	DISO 2822 2847	neuroleptiques somatiques
+T43	Concept_Idea 2917 2942	divisions interprétatives
+T44	LIVB 3390 3398	patients
+T45	PROC 3673 3714	explorations fonctionnelles endoscopiques
+T46	LIVB 3803 3810	patient
+T47	DISO 3841 3881	symptomatologie neuropsychiatrique aiguë
+T48	PROC 3931 3992	chimiothérapie adjuvante parentérale multimodale substitutive
+T49	Concept_Idea 4077 4100	limites « métaphoriques
+T50	LIVB 4125 4130	homme
+T51	DISO 4164 4208	accident vasculaire cérébral ischémique aigu
+T52	LIVB 4226 4229	son
+T53	LIVB 4230 4236	épouse
+T54	CHEM 4251 4282	amoxicilline acide clavulanique
+T55	DOSE 4283 4289	500 mg
+T56	TEMP 4289 4291	/j
+T57	PROC 4351 4383	prise en charge médicale urgente
+T59	LIVB 4585 4588	eux
+T60	LIVB 4661 4667	femmes
+T61	TEMP 4714 4723	deux mois
+T62	LIVB 4730 4734	leur
+T63	LIVB 4735 4739	père
+T64	LIVB 4785 4791	frères
+T65	TEMP 4815 4826	31 semaines
+T66	TEMP 4830 4839	24 heures
+T67	Localization 4844 4859	tiers inférieur
+T68	ANAT 4867 4873	utérus
+T69	MEAS 4883 4897	13 centimètres
+T71	MEAS 4935 4948	18centimètres
+T72	DEVI 4954 4963	prothèses
+T73	MEAS 5102 5106	21mm

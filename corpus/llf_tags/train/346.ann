@@ -1,0 +1,58 @@
+T1	LIVB 3 9	malade
+T2	PROC 25 48	traitement antibiotique
+T3	CHEM 36 48	antibiotique
+T4	MEAS 68 77	favorable
+T5	Concept_Idea 82 90	mobilité
+T6	ANAT 94 117	membre supérieur gauche
+T7	Localization 111 117	gauche
+T8	MEAS 125 128	90°
+T9	PHEN 133 148	plexus brachial
+T10	MEAS 151 154	80°
+T11	DISO 161 190	distension des nerfs fémoraux
+T12	ANAT 176 190	nerfs fémoraux
+T13	MEAS 196 204	modérées
+T14	DISO 259 265	fièvre
+T15	DISO 280 294	amaigrissement
+T16	MEAS 305 308	4kg
+T17	TEMP 312 318	1 mois
+T18	DISO 354 375	syndrome hémorragique
+T19	DISO 382 410	symptomatologie neurologique
+T20	DISO 450 483	crises convulsives psychomotrices
+T21	PROC 570 585	examen clinique
+T22	DISO 597 610	particularité
+T23	LIVB 637 644	patient
+T24	PROC 713 723	diagnostic
+T25	PROC 740 771	bilan étiologique préopératoire
+T26	PROC 786 819	hypertriglycéridémie concomitante
+T27	DOSE 821 828	10 mg/l
+T28	PROC 928 947	hémoglobine glyquée
+T29	MEAS 958 994	0,5 gramme par kilogramme-mètre cube
+T31	PROC 1074 1089	prise en charge
+T32	MEAS 1126 1133	simples
+T33	LIVB 1143 1149	enfant
+T34	PROC 1218 1231	thérapeutique
+T35	PROC 1261 1280	rééducation motrice
+T36	PROC 1294 1334	régime pauvre en graisses hypocaloriques
+T37	PROC 1347 1391	alimentation riche en glucides polyinsaturés
+T38	MEAS 1398 1421	suffisamment équilibrée
+T39	Concept_Idea 1458 1466	concepts
+T40	PROC 1486 1519	néphropathie diabétique chronique
+T41	DISO 1534 1552	hyperprolactinémie
+T42	MEAS 1571 1599	2grammes par millimètre cube
+T43	DISO 1614 1647	neuroleptiques insulinodépendants
+T44	DISO 1711 1737	fébriculeuse hyperkaliémie
+T45	PROC 1751 1773	consultation prénatale
+T46	DISO 1792 1820	insuffisance rénale primaire
+T47	ANAT 1805 1811	rénale
+T48	MEAS 1832 1842	13mmol/24h
+T49	CHEM 1874 1886	fluorescéine
+T50	PROC 2003 2056	cholécystectomie élargie scléroatrophique asymétrique
+T52	PROC 2185 2418	hystérectomie percutanée rétropéritonéale postéro-latérovemphale anterieure proximo-transventriculaire rétrograderintramédullaire distale segmentaire cervico abdomino-mandibulaire lobulée controlatérale séquellaire multidisciplinaire
+T54	Concept_Idea 2803 2813	indication
+T55	PROC 2817 2834	geste chirurgical
+T56	PROC 2855 2874	traitement adjuvant
+T57	MEAS 2896 2905	favorable
+T58	PROC 2911 2933	contrôle échographique
+T59	TEMP 2951 2957	5 mois
+T60	DISO 2969 2977	incident
+T61	DISO 2981 3010	complication thromboembolique

@@ -1,0 +1,32 @@
+T1	LIVB 3 10	patient
+T2	DISO 31 55	antécédent pathologiques
+T3	MEAS 56 68	particuliers
+T4	PROC 70 80	consultait
+T5	Hospital 85 93	urgences
+T6	DISO 103 128	vomissements alimentaires
+T7	TEMP 138 155	depuis deux jours
+T9	ANAT 200 212	épigastrique
+T10	DISO 222 235	inflammatoire
+T11	MEAS 250 261	progressive
+T12	DISO 277 294	hétéro-évolutivés
+T13	PROC 327 343	bilan biologique
+T14	DISO 366 385	syndrome infectieux
+T15	DISO 396 409	malformations
+T16	PROC 423 444	échographie pelvienne
+T17	ANAT 435 444	pelvienne
+T18	PHEN 471 491	grossesse gémellaire
+T19	Concept_Idea 505 511	taille
+T20	MEAS 519 524	1000g
+T21	LIVB 567 575	patients
+T22	ANAT 613 620	colique
+T23	PROC 661 701	anesthésie abdominale transoesophagienne
+T24	PROC 716 745	pronostic tomodensitométrique
+T25	PROC 746 749	TEP
+T26	DISO 854 875	détresse respiratoire
+T27	PHEN 863 875	respiratoire
+T28	DISO 885 905	dyspnée constrictive
+T29	MEAS 927 935	brunâtre
+T30	DISO 937 967	désorientation temporospatiale
+T31	MEAS 979 994	progressivement
+T32	Concept_Idea 998 1014	grande abondance
+T33	DEVI 1050 1085	voies aéro-digestives artificielles

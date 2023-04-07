@@ -1,0 +1,53 @@
+T1	LIVB 28 35	patient
+T2	DISO 69 105	lésions érythémateuses prurigineuses
+T3	ANAT 119 141	membre inférieur droit
+T4	Localization 136 141	droit
+T5	TEMP 151 164	depuis 3 mois
+T6	DISO 180 191	traumatisme
+T7	DISO 197 206	épistaxis
+T8	PROC 210 235	étude immunohistochimique
+T9	PROC 237 240	IHC
+T10	CHEM 273 282	vimentine
+T11	ANAT 292 309	carcinomes séreux
+T12	DISO 345 353	malignes
+T13	DISO 371 388	lymphangiosarcome
+T14	DISO 395 412	cellules malignes
+T15	LIVB 424 432	patiente
+T16	DISO 500 523	symptômes neurologiques
+T17	DISO 537 564	papules cutanées purulentes
+T18	PROC 633 650	bilan étiologique
+T19	PROC 665 692	examen somatomégaloplasique
+T20	DISO 720 835	hypotrophie musculaire fléchisseursubténoïdiale dorsomédiane paravertébro-supéro-latérale latéralisée hypogastrique
+T21	ANAT 857 879	troncs supra-aortiques
+T22	DISO 911 936	neurorhabdomyonnellulaire
+T23	DISO 1029 1089	syndrome d'épanchement péricardique basithoracique liquidien
+T24	ANAT 1052 1089	péricardique basithoracique liquidien
+T25	PROC 1324 1362	ponction liquide sus-piculo-ombilicale
+T26	ANAT 1333 1362	liquide sus-piculo-ombilicale
+T27	DEVI 1411 1443	sonde nasogastrique artificielle
+T29	PROC 1461 1486	intervention chirurgicale
+T30	PROC 1536 1561	rééducation préopératoire
+T31	LIVB 1602 1604	on
+T32	CHEM 1707 1725	méthylprédnisolone
+T33	DISO 1746 1767	anesthésie péridurale
+T34	PROC 1822 1844	traitement substitutif
+T35	DOSE 1900 1909	0,5 mg/kg
+T37	CHEM 1921 1934	dexaméthasone
+T38	CHEM 1988 2002	hydrocortisone
+T39	CHEM 2005 2018	dexaméthasone
+T40	DISO 2179 2205	troubles sensitivomotrices
+T41	DISO 2215 2234	vertigo-nausalgique
+T42	DISO 2251 2257	sueurs
+T43	MEAS 2258 2266	profuses
+T44	DOSE 2366 2372	2mg/kg
+T45	TEMP 2372 2377	/jour
+T46	PROC 2505 2527	chirurgie exploratrice
+T47	DISO 2549 2561	excoriations
+T48	ANAT 2737 2771	ganglionnaires cervico-thoraciques
+T49	MEAS 2796 2801	20 cm
+T50	MEAS 2804 2809	12 cm
+T51	DEVI 2921 2935	fil résorbable
+T52	Concept_Idea 2969 2975	aspect
+T53	DISO 2982 3052	masse tumorale maligne du corps caverneux céphalo-scapulo-mandibulaire
+T55	MEAS 3064 3079	progressivement
+T56	Concept_Idea 3083 3089	volume

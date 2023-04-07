@@ -1,0 +1,33 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 30	7 ans
+T3	PROC 53 76	radiothérapie adjuvante
+T4	DOSE 78 82	50Gy
+T5	Localization 93 101	centrale
+T6	ANAT 127 150	fosse ombilicale droite
+T7	Localization 144 150	droite
+T8	ANAT 157 190	parenchyme mammaire hypogastrique
+T9	PROC 195 251	recherche d'immunoglobulines monoclonales antinucléaires
+T10	PROC 264 289	anticorps anti-ADN natifs
+T11	MEAS 303 321	fortement positifs
+T12	PROC 406 419	sérologie HIV
+T13	MEAS 426 434	négative
+T14	DISO 452 476	maladie de Guillain Barr
+T15	DISO 483 517	polyarthrite érythémateuse fébrile
+T16	DISO 599 623	traumatisme neurologique
+T17	DISO 625 768	thrombose veineuse intrarachidiencéphalique secondaire aux contractions vasculo-nerveux crânio-fibrillaires menstruelles céphalico-rachidiennes
+T18	ANAT 635 668	veineuse intrarachidiencéphalique
+T20	ANAT 697 768	vasculo-nerveux crânio-fibrillaires menstruelles céphalico-rachidiennes
+T21	DISO 791 802	pathologies
+T22	DISO 856 873	atteinte méningée
+T23	ANAT 865 873	méningée
+T24	LIVB 915 923	patiente
+T25	TEMP 932 937	7 ans
+T26	DISO 990 1017	épanchement intrapéritonéal
+T27	ANAT 1002 1017	intrapéritonéal
+T28	DISO 1053 1073	détresse métabolique
+T29	MODE 1099 1112	voie veineuse
+T30	ANAT 1178 1197	sus-diaphragmatique
+T31	PROC 1340 1370	échographie abdomino-pelvienne
+T32	ANAT 1352 1370	abdomino-pelvienne
+T33	DISO 1393 1428	masse tissulaire hyper vascularisée
+T34	DISO 1438 1448	tissulaire

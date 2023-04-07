@@ -1,0 +1,13 @@
+T1	LIVB 28 35	patient
+T2	DISO 100 129	symptômes neuropsychiatriques
+T3	Concept_Idea 151 154	âge
+T4	LIVB 640 647	patient
+T5	DISO 702 728	crises épileptiques aiguës
+T6	LIVB 853 881	collègues germains masculins
+T7	ANAT 914 936	membre inférieur droit
+T8	Localization 931 936	droit
+T9	PHEN 955 982	manifestations psychotiques
+T10	PROC 1062 1088	consultation préopératoire
+T11	DISO 1270 1297	réactivisation pathologique
+T12	LIVB 1332 1339	enfants
+T13	PROC 1392 1411	enquête étiologique

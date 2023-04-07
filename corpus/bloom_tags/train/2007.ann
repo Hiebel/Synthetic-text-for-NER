@@ -1,0 +1,45 @@
+T1	LIVB 4 9	femme
+T2	PROC 33 38	reçue
+T3	Hospital 43 51	urgences
+T4	DISO 65 93	choc ischémique hypertensive
+T5	PROC 138 153	examen clinique
+T6	LIVB 167 175	patiente
+T7	PHEN 209 214	pouls
+T8	MEAS 226 247	120 battements/minute
+T9	PROC 251 281	échographie abdomino-pélvienne
+T10	ANAT 263 281	abdomino-pélvienne
+T11	DISO 299 364	masse tissulaire du paroi utéro-ovarienne hypo échogène hypodense
+T13	MEAS 375 380	17 mm
+T14	Concept_Idea 384 393	grand axe
+T15	MEAS 395 407	bien limitée
+T16	MEAS 416 420	2 cm
+T17	Concept_Idea 424 433	grand axe
+T18	MEAS 437 441	4 cm
+T19	Concept_Idea 445 458	petite taille
+T20	DISO 471 480	anomalies
+T21	DISO 507 543	adénopathies péritonéales hétérogène
+T22	ANAT 520 543	péritonéales hétérogène
+T23	DISO 553 585	épanchement liquidien péritonéal
+T24	ANAT 565 585	liquidien péritonéal
+T25	LIVB 607 615	patiente
+T26	PROC 634 652	traitement curatif
+T27	PROC 675 693	cystectomie totale
+T28	Localization 687 693	totale
+T29	PROC 701 726	étude anatomopathologique
+T30	DISO 749 792	tumeur pléomorphe des organes hyo-cervicaux
+T31	ANAT 771 792	organes hyo-cervicaux
+T32	ANAT 808 823	sinus caverneux
+T33	ANAT 838 855	cordons ombilical
+T34	LIVB 857 861	Elle
+T35	TEMP 876 901	régime pauvre en glucides
+T36	MODE 906 919	voie entérale
+T37	PROC 994 1035	bêtaméthasone intraveineuse préopératoire
+T38	DEVI 1038 1081	sonde rectale transoesophagienne ultrasmall
+T40	PROC 1087 1104	geste chirurgical
+T41	PROC 1123 1141	résection monobloc
+T42	DISO 1169 1183	masse kystique
+T43	PROC 1198 1300	curage surrénalien pancréatique bilio-gastroduodéno-entérique iléocolique postéro-latéral endoscopique
+T45	PROC 1305 1337	scanner thoraco-abdomino-pelvien
+T46	ANAT 1313 1337	thoraco-abdomino-pelvien
+T47	PROC 1344 1353	injection
+T48	CHEM 1357 1368	propranolol

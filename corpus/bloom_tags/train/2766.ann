@@ -1,0 +1,40 @@
+T1	LIVB 28 35	patient
+T2	PROC 56 67	hospitalisé
+T3	DISO 95 121	méningoencephalite fébrile
+T4	TEMP 131 147	depuis deux mois
+T5	DOSE 153 160	2 mg/kg
+T6	CHEM 163 194	amoxicilline-acido clavulanique
+T7	DISO 249 291	insuffisance cutanéo-brucellose médullaire
+T8	ANAT 262 291	cutanéo-brucellose médullaire
+T9	PROC 308 342	traitement antibacillaire adjuvant
+T10	CHEM 355 364	nivaquine
+T11	CHEM 366 374	fentanyl
+T12	CHEM 377 388	ethionamide
+T13	DEVI 401 420	sonde ventriculaire
+T14	ANAT 407 420	ventriculaire
+T15	DISO 475 498	déficit sensitivomoteur
+T16	DISO 541 565	traumatisme neurologique
+T17	DISO 572 594	troubles hémiplégiques
+T18	DISO 605 630	manifestations somatiques
+T19	DISO 657 683	malformations congénitales
+T20	LIVB 706 714	personne
+T21	LIVB 730 738	patients
+T22	DISO 785 826	chirurgie érythème prurigineux généralisé
+T23	TEMP 847 854	4 jours
+T24	LIVB 861 863	sa
+T25	PROC 864 884	reprise chirurgicale
+T26	ANAT 905 918	massif facial
+T27	ANAT 960 976	sinus piriformes
+T28	MEAS 988 997	lentement
+T29	Concept_Idea 1001 1007	taille
+T30	MEAS 1024 1033	plusieurs
+T31	PROC 1089 1158	curage épithélio-giganto-bourgeonnant infarcto-necromateux transfixié
+T33	PROC 1159 1163	EPTI
+T34	PROC 1177 1201	radiothérapie palliative
+T35	DISO 1646 1666	neurofibrome sécrété
+T36	ANAT 1718 1736	vésices cardiaques
+T37	DISO 1755 1786	complications thromboemboliques
+T38	PROC 1887 1955	anesthésie locorégionale du parenchyme cervico-laryngéo-aryténoïdien
+T39	ANAT 1915 1955	parenchyme cervico-laryngéo-aryténoïdien
+T40	MEAS 1988 1995	simples
+T41	DISO 2001 2009	incident

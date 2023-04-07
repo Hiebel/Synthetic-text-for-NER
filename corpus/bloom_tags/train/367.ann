@@ -1,0 +1,24 @@
+T1	LIVB 16 24	patiente
+T2	PROC 41 47	admise
+T3	DISO 56 89	syndrome d'épanchement péritonéal
+T4	ANAT 79 89	péritonéal
+T5	TEMP 99 115	depuis une année
+T6	DISO 130 150	vomissements bilieux
+T7	PROC 154 169	examen clinique
+T8	LIVB 181 189	patiente
+T9	MEAS 193 202	assez bon
+T10	PHEN 203 229	développement psychomoteur
+T11	DISO 237 285	adénopathies cervico-thoraciques basithoraciques
+T13	PROC 312 328	examen somatique
+T14	DISO 338 351	particularité
+T15	PROC 356 375	bilan préopératoire
+T16	DISO 411 438	épanchement intrapéritonéal
+T17	ANAT 423 438	intrapéritonéal
+T18	ANAT 452 462	sein droit
+T19	Localization 457 462	droit
+T20	Concept_Idea 467 473	taille
+T21	MEAS 484 488	7 cm
+T22	MEAS 505 520	progressivement
+T23	Concept_Idea 524 530	volume
+T24	DISO 546 558	métrorragies
+T25	PROC 563 573	contrôlées

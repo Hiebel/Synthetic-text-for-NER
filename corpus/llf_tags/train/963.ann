@@ -1,0 +1,34 @@
+T1	LIVB 15 23	patiente
+T2	DISO 56 68	pathologique
+T3	MEAS 69 80	particulier
+T4	DISO 98 137	insuffisance rénale chronique terminale
+T5	ANAT 111 117	rénale
+T6	PROC 146 165	bilan préopératoire
+T7	MEAS 166 172	normal
+T8	Concept_Idea 176 186	indication
+T9	PROC 190 207	geste chirurgical
+T10	LIVB 227 245	médecin urgentiste
+T11	LIVB 252 260	patiente
+T12	PROC 279 319	cholécystectomie percutanée exploratrice
+T13	ANAT 335 361	anévrysme inferieur gauche
+T14	Localization 355 361	gauche
+T15	PROC 375 395	transfusion sanguine
+T16	CHEM 430 437	hydraté
+T17	DOSE 439 444	20 mg
+T18	TEMP 444 448	/24h
+T19	PHEN 454 469	fonction rénale
+T20	ANAT 463 469	rénale
+T21	MEAS 476 489	satisfaisante
+T22	PROC 496 505	injection
+T23	CHEM 510 531	produits de contraste
+T24	DEVI 535 543	cathéter
+T25	ANAT 595 618	veines cave inférieures
+T26	Localization 607 618	inférieures
+T27	PROC 623 656	traitement palliatif conservateur
+T28	DISO 694 718	symptomatologie clinique
+T29	LIVB 812 819	malades
+T30	TEMP 837 846	deux mois
+T31	PROC 852 862	opératoire
+T32	LIVB 934 938	elle
+T33	LIVB 942 945	son
+T34	LIVB 946 953	mariage

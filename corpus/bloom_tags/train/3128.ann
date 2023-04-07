@@ -1,0 +1,34 @@
+T1	LIVB 15 21	enfant
+T2	TEMP 25 31	12 ans
+T3	DISO 37 62	antécédents pathologiques
+T4	MEAS 63 71	notables
+T5	PROC 73 78	admis
+T6	Hospital 83 91	urgences
+T7	DISO 103 124	détresse respiratoire
+T8	PHEN 112 124	respiratoire
+T9	MEAS 139 145	rapide
+T10	ANAT 159 170	coude droit
+T11	Localization 165 170	droit
+T12	PROC 193 230	chirurgie ad-hyoïdienne transfixiante
+T13	PROC 246 269	radiothérapie adjuvante
+T14	ANAT 277 318	paroi thoracique latéro-pulmonaire gauche
+T15	Localization 312 318	gauche
+T16	DISO 334 396	syndrome d'épanchement pleurale liquidien médiastin tissulaire
+T17	ANAT 357 396	pleurale liquidien médiastin tissulaire
+T18	DISO 416 432	épisodes fébrile
+T19	Concept_Idea 477 489	état général
+T20	MEAS 500 504	15°c
+T21	PROC 510 535	traitement antibacillaire
+T22	CHEM 546 557	rifampicine
+T23	CHEM 558 568	isoniazide
+T24	CHEM 571 583	pyrazinamide
+T25	CHEM 584 594	ethambutol
+T26	PROC 609 641	scanner thoraco-abdomino-pelvien
+T27	ANAT 617 641	thoraco-abdomino-pelvien
+T28	PROC 669 679	diagnostic
+T29	DISO 699 719	maladie tuberculeuse
+T30	LIVB 729 735	enfant
+T31	MEAS 749 761	négligeables
+T32	PROC 784 818	résultat bactérioculturetiscopique
+T33	DISO 855 883	symptomatologie tuberculeuse
+T34	MEAS 1082 1094	supportables

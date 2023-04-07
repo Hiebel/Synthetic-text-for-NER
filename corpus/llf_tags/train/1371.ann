@@ -1,0 +1,14 @@
+T1	PROC 2 19	bilan étiologique
+T2	PROC 43 68	chimiothérapie palliative
+T3	CHEM 79 91	fluorescéine
+T4	CHEM 97 115	acide clavulanique
+T5	DISO 142 161	symptômes cliniques
+T6	LIVB 166 174	patiente
+T7	PROC 192 211	traitement adjuvant
+T8	TEMP 229 235	6 mois
+T9	Concept_Idea 240 268	résultat anatomopathologique
+T10	DISO 291 332	tumeur maligne du membre inferieur gauche
+T11	ANAT 309 332	membre inferieur gauche
+T12	Localization 326 332	gauche
+T13	MEAS 341 348	T4 N0Mx
+T14	PROC 372 394	contrôle échographique

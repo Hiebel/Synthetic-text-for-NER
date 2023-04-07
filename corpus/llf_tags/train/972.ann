@@ -1,0 +1,102 @@
+T1	LIVB 15 22	patient
+T2	DISO 43 68	antécédents pathologiques
+T3	MEAS 69 81	particuliers
+T4	DISO 101 118	dyspnée sifflante
+T5	Concept_Idea 123 129	effort
+T6	DISO 145 157	vomissements
+T7	PROC 162 179	tomodensitométrie
+T8	PROC 181 196	TDM) thoracique
+T9	ANAT 186 196	thoracique
+T10	DISO 213 260	comblement tissulaire du sinus maxillaire droit
+T11	ANAT 238 260	sinus maxillaire droit
+T12	Localization 255 260	droit
+T13	ANAT 284 307	région temporale gauche
+T14	Localization 301 307	gauche
+T15	ANAT 314 337	parenchyme rénal distal
+T16	Localization 331 337	distal
+T17	DISO 358 381	troubles hydro-aériques
+T18	Concept_Idea 393 400	limites
+T19	PROC 417 444	bilan radiologique standard
+T20	LIVB 461 467	malade
+T21	DISO 486 509	hypertension artérielle
+T22	ANAT 499 509	artérielle
+T23	DISO 527 550	néphropathie diabétique
+T24	CHEM 579 610	amoxicilline acide clavulanique
+T25	MEAS 632 636	ACR5
+T26	TEMP 640 644	ACR4
+T27	Concept_Idea 655 683	résultat anatomopathologique
+T28	PROC 767 795	chimiothérapie néo adjuvante
+T29	PROC 801 827	radiothérapie concomitante
+T30	PROC 841 867	curiethérapie probabiliste
+T31	PROC 901 934	antibioprophylaxie postopératoire
+T32	PROC 1007 1020	cicatrisation
+T33	Concept_Idea 1033 1059	caractéristiques cliniques
+T34	DISO 1110 1149	insuffisance rénale chronique terminale
+T35	ANAT 1123 1129	rénale
+T36	DISO 1186 1212	signes neuropsychiatriques
+T37	PHEN 1226 1251	rendez-vous mandibulaires
+T38	DISO 1408 1440	léiomyosarcome épithélioïde aigu
+T39	MEAS 1448 1456	ACR2N0Mx
+T40	PROC 1461 1486	étude immunohistochimique
+T41	DISO 1507 1547	léiomyosarcome hétérotopique malformatif
+T42	Concept_Idea 1562 1592	critères clinico-radiologiques
+T43	Concept_Idea 1617 1634	plan histologique
+T44	DISO 1714 1732	angiosarcome malin
+T45	DISO 1789 1869	adénocarcinome monophasique carcinomateux mucineux infiltrant médullosurrénalien
+T46	Concept_Idea 1876 1901	localisation endocrinoïde
+T47	MEAS 1912 1919	15mg/dl
+T48	MEAS 1927 1934	50mg/dl
+T49	PROC 1952 1986	prélèvement biopsique scannoguidée
+T50	ANAT 2011 2103	structures crico-rectales digestives mésentériques intra péritonéales fundiques entéropathes
+T51	DISO 2150 2209	neurofibromatoblastome métastatique ostéolytique thyroidien
+T52	ANAT 2245 2275	ganglions médiastinaux distaux
+T53	MEAS 2300 2304	12mm
+T54	MEAS 2308 2312	7 mm
+T55	ANAT 2331 2337	vessie
+T56	MEAS 2347 2351	6 cm
+T59	MEAS 2470 2477	simples
+T60	PROC 2501 2516	scanner fémoral
+T61	ANAT 2509 2516	fémoral
+T62	PROC 2553 2576	exploration extemporané
+T63	PROC 2620 2643	traitement conservateur
+T64	PROC 2658 2685	extumorectomie exploratrice
+T65	PROC 2738 2771	oxygénothérapie substitutionnelle
+T66	DEVI 2793 2840	cathéters transuréthanes sodium glycol congelés
+T67	PROC 2932 2951	rééducation motrice
+T68	PROC 2964 2983	bilan préopératoire
+T69	DISO 2995 3009	particularités
+T70	PROC 3023 3060	prise en charge neuroprothérapeutique
+T71	LIVB 3103 3138	médecins anesthésistes pédiatriques
+T72	PROC 3182 3229	consultation ophtalmologique multidisciplinaire
+T73	Hospital 3231 3234	ORL
+T74	PROC 3240 3265	chirurgie maxillo-faciale
+T75	MEAS 3280 3293	très délicate
+T76	PROC 3322 3346	laparotomie diagnostique
+T77	LIVB 3390 3393	son
+T78	LIVB 3394 3401	patient
+T79	PHEN 3406 3415	grossesse
+T80	LIVB 3437 3441	nous
+T81	PROC 3480 3504	traitements chirurgicaux
+T82	PROC 3515 3527	soins locaux
+T83	PROC 3530 3547	nettoyage général
+T84	PROC 3550 3569	toilette palpébrale
+T85	ANAT 3559 3569	palpébrale
+T86	PROC 3572 3596	lavage pleuro-pulmonaire
+T87	ANAT 3579 3596	pleuro-pulmonaire
+T88	PROC 3599 3628	drainage oeso-gastro-duodénal
+T89	ANAT 3608 3628	oeso-gastro-duodénal
+T90	PROC 3633 3646	TDM abdominal
+T91	ANAT 3637 3646	abdominal
+T92	PROC 3659 3681	contrôle échographique
+T93	DISO 3699 3724	lésion tissulaire maligne
+T94	DISO 3734 3767	processus lésionnel inflammatoire
+T95	DISO 3771 3794	histiocytose secondaire
+T96	PROC 3841 3858	suivi obstétrical
+T97	TEMP 3886 3900	légère semaine
+T98	PROC 3906 3916	opératoire
+T99	PROC 3963 3988	étude anatomopathologique
+T100	PROC 4001 4020	enquête étiologique
+T101	DISO 4036 4055	symptômes cliniques
+T102	DISO 4187 4211	complications néonatales
+T103	DISO 4493 4529	pseudo abcès gestationisymptomatique
+T104	PROC 4586 4596	opératoire
